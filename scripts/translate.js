@@ -8,6 +8,12 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
 const DB_PATH = join(ROOT, 'data', 'articles.json');
 
+// Fail fast if no API key
+if (!process.env.ANTHROPIC_API_KEY) {
+  console.error('ERROR: ANTHROPIC_API_KEY environment variable is not set.');
+  process.exit(1);
+}
+
 function loadDb() {
   if (!existsSync(DB_PATH)) return { articles: [] };
   try { return JSON.parse(readFileSync(DB_PATH, 'utf8')); } catch { return { articles: [] }; }
@@ -23,18 +29,17 @@ const SYSTEM_PROMPT = `You are a Hebrew tech news writer for a popular Israeli A
 Translate this article title and write a 2-3 sentence Hebrew summary in a casual, engaging tone similar to Israeli tech blogs.
 The summary should be informative but not a direct translation - write it as if you're telling Israeli readers about this news.
 Keep technical terms in English where natural (like AI, API, GPU etc).
-Include the source credit at the end.`;
+Include the source credit at the end.
+
+IMPORTANT: Respond with ONLY a raw JSON object. No markdown, no code fences, no explanation. Just the JSON.`;
 
 async function translateArticle(article) {
   const userMessage = `Article title: "${article.title_en}"
 Article description: "${article.description_en}"
 Source: ${article.source}
 
-Please respond with ONLY a JSON object in this exact format (no markdown, no extra text):
-{
-  "title_he": "Hebrew title here",
-  "description_he": "Hebrew summary here (2-3 sentences, casual tone, source credit at end)"
-}`;
+Respond with ONLY this JSON (no markdown, no code blocks):
+{"title_he": "...", "description_he": "..."}`;
 
   const message = await client.messages.create({
     model: 'claude-haiku-4-5-20251001',
@@ -43,19 +48,38 @@ Please respond with ONLY a JSON object in this exact format (no markdown, no ext
     messages: [{ role: 'user', content: userMessage }],
   });
 
-  const text = message.content[0].text.trim();
-  return JSON.parse(text);
+  let text = message.content[0].text.trim();
+
+  // Strip markdown code fences if Claude wrapped the response
+  text = text.replace(/^```(?:json)?\s*/i, '').replace(/\s*```\s*$/, '').trim();
+
+  // Find the JSON object in case there's extra text
+  const jsonMatch = text.match(/\{[\s\S]*\}/);
+  if (!jsonMatch) {
+    throw new Error(`No JSON found in response: ${text.slice(0, 200)}`);
+  }
+
+  return JSON.parse(jsonMatch[0]);
 }
 
 async function main() {
   const db = loadDb();
   const untranslated = db.articles.filter((a) => !a.translated);
 
-  console.log(`Found ${untranslated.length} untranslated articles`);
+  console.log(`Total articles: ${db.articles.length}`);
+  console.log(`Untranslated: ${untranslated.length}`);
+
+  if (untranslated.length === 0) {
+    console.log('Nothing to translate.');
+    return;
+  }
+
+  let successCount = 0;
+  let errorCount = 0;
 
   for (const article of untranslated) {
     try {
-      console.log(`Translating: ${article.title_en?.slice(0, 60)}...`);
+      console.log(`[${successCount + errorCount + 1}/${untranslated.length}] Translating: ${article.title_en?.slice(0, 60)}...`);
       const { title_he, description_he } = await translateArticle(article);
 
       const idx = db.articles.findIndex((a) => a.id === article.id);
@@ -65,18 +89,24 @@ async function main() {
         db.articles[idx].translated = true;
       }
 
-      console.log(`  -> ${title_he?.slice(0, 60)}`);
+      console.log(`  ✓ ${title_he?.slice(0, 60)}`);
+      successCount++;
+
+      // Save after every 5 articles so progress isn't lost on failure
+      if (successCount % 5 === 0) saveDb(db);
+
       await new Promise((r) => setTimeout(r, 300));
     } catch (err) {
-      console.error(`  Error translating article ${article.id}:`, err.message);
+      errorCount++;
+      console.error(`  ✗ Error on article ${article.id}: ${err.message}`);
     }
   }
 
   saveDb(db);
-  console.log('\nTranslation complete.');
+  console.log(`\nDone. Translated: ${successCount}, Errors: ${errorCount}`);
 }
 
 main().catch((err) => {
-  console.error(err);
+  console.error('Fatal error:', err);
   process.exit(1);
 });
