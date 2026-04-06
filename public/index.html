@@ -3,402 +3,926 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>TechNewsHub - חדשות AI בעברית</title>
+  <title>TechNewsHub — חדשות AI בעברית</title>
   <meta name="description" content="חדשות בינה מלאכותית בעברית - עדכונים שוטפים מעולם ה-AI" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;600;700;800&family=Noto+Sans+Hebrew:wght@300;400;500;600&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
   <style>
+    /* ── Reset & Base ─────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
     :root {
-      --bg: #0f1117;
-      --surface: #1a1d27;
-      --surface2: #232636;
-      --border: #2e3248;
-      --accent: #6c63ff;
-      --accent2: #ff6584;
-      --text: #e8eaf6;
-      --text-muted: #8b90b0;
-      --tag-bg: #2a2d42;
-      --high: #ff6b6b;
-      --medium: #ffd166;
-      --low: #06d6a0;
+      --bg: #f0f2f7;
+      --surface: #ffffff;
+      --surface2: #f7f8fc;
+      --border: #e2e5ef;
+      --accent: #6366f1;
+      --accent-light: #eef2ff;
+      --text: #1e2235;
+      --text-muted: #6b7280;
+      --text-light: #9ca3af;
+      --shadow: 0 2px 8px rgba(0,0,0,.06);
+      --shadow-md: 0 4px 20px rgba(0,0,0,.10);
+      --shadow-lg: 0 8px 40px rgba(0,0,0,.15);
+      --radius: 14px;
+      --sidebar-w: 260px;
     }
 
-    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
 
     body {
-      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      font-family: 'Noto Sans Hebrew', 'Segoe UI', sans-serif;
       background: var(--bg);
       color: var(--text);
       min-height: 100vh;
       direction: rtl;
+      -webkit-font-smoothing: antialiased;
     }
 
-    header {
+    button { cursor: pointer; font-family: inherit; border: none; background: none; }
+    a { text-decoration: none; color: inherit; }
+
+    /* ── Chip / Badge color palettes ──────────────────────── */
+    .chip {
+      display: inline-flex; align-items: center; gap: 4px;
+      padding: 3px 9px; border-radius: 20px;
+      font-size: .72rem; font-weight: 600; white-space: nowrap;
+      line-height: 1.5;
+    }
+    /* content-type chips */
+    .chip-news      { background: #dbeafe; color: #1d4ed8; }
+    .chip-release   { background: #dcfce7; color: #15803d; }
+    .chip-tutorial  { background: #fce7f3; color: #be185d; }
+    .chip-research  { background: #ede9fe; color: #6d28d9; }
+    .chip-funding   { background: #fef9c3; color: #854d0e; }
+    .chip-security  { background: #fee2e2; color: #b91c1c; }
+    .chip-hardware  { background: #ffedd5; color: #c2410c; }
+    .chip-agents    { background: #cffafe; color: #0e7490; }
+    .chip-regulation{ background: #f3e8ff; color: #7e22ce; }
+    .chip-robotics  { background: #d1fae5; color: #065f46; }
+    .chip-image-gen { background: #ffe4e6; color: #9f1239; }
+    .chip-model     { background: #e0e7ff; color: #3730a3; }
+    .chip-product   { background: #f0fdf4; color: #166534; }
+    /* company chips */
+    .chip-openai    { background: #e0e7ff; color: #3730a3; }
+    .chip-google    { background: #dbeafe; color: #1e40af; }
+    .chip-anthropic { background: #fce7f3; color: #9d174d; }
+    .chip-meta      { background: #eff6ff; color: #1d4ed8; }
+    .chip-microsoft { background: #f0fdf4; color: #15803d; }
+    .chip-nvidia    { background: #ecfccb; color: #3f6212; }
+    .chip-apple     { background: #f1f5f9; color: #334155; }
+    .chip-amazon    { background: #fff7ed; color: #9a3412; }
+    /* importance */
+    .chip-high      { background: #fee2e2; color: #b91c1c; }
+    .chip-medium    { background: #fef9c3; color: #854d0e; }
+    .chip-low       { background: #f1f5f9; color: #475569; }
+
+    /* ── Top stats bar ────────────────────────────────────── */
+    #stats-bar {
       background: var(--surface);
       border-bottom: 1px solid var(--border);
-      padding: 16px 24px;
-      display: flex;
-      align-items: center;
-      gap: 16px;
-      position: sticky;
-      top: 0;
-      z-index: 100;
-    }
-
-    .logo {
-      font-size: 1.4rem;
-      font-weight: 700;
-      background: linear-gradient(135deg, var(--accent), var(--accent2));
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-    }
-
-    .header-subtitle {
-      color: var(--text-muted);
-      font-size: 0.85rem;
-    }
-
-    .header-right {
-      margin-right: auto;
-      display: flex;
-      align-items: center;
-      gap: 12px;
-    }
-
-    #article-count {
-      background: var(--tag-bg);
-      color: var(--text-muted);
-      padding: 4px 10px;
-      border-radius: 20px;
-      font-size: 0.8rem;
-    }
-
-    .filters {
-      padding: 16px 24px;
-      display: flex;
-      gap: 8px;
+      padding: 8px 20px;
+      display: flex; align-items: center; gap: 20px;
+      font-size: .78rem; color: var(--text-muted);
       flex-wrap: wrap;
-      border-bottom: 1px solid var(--border);
+    }
+    #stats-bar .logo-wrap { display: flex; align-items: center; gap: 10px; margin-left: auto; }
+    .logo-text {
+      font-family: 'Rubik', sans-serif;
+      font-weight: 800; font-size: 1.15rem;
+      background: linear-gradient(135deg, #6366f1, #a855f7);
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    }
+    .stat-item { display: flex; align-items: center; gap: 5px; }
+    .stat-num {
+      font-family: 'JetBrains Mono', monospace;
+      font-weight: 600; font-size: .82rem; color: var(--text);
+    }
+    #mobile-sidebar-toggle {
+      display: none; padding: 6px 10px; border-radius: 8px;
+      background: var(--accent-light); color: var(--accent);
+      font-size: .82rem; font-weight: 600;
+    }
+
+    /* ── Layout ───────────────────────────────────────────── */
+    #layout {
+      display: flex;
+      max-width: 1440px; margin: 0 auto;
+      padding: 20px 16px; gap: 20px;
+      align-items: flex-start;
+    }
+
+    /* ── Sidebar ──────────────────────────────────────────── */
+    #sidebar {
+      width: var(--sidebar-w); flex-shrink: 0;
+      position: sticky; top: 12px;
+      display: flex; flex-direction: column; gap: 14px;
+    }
+    .sidebar-card {
       background: var(--surface);
-    }
-
-    .filter-btn {
-      padding: 6px 14px;
-      border-radius: 20px;
       border: 1px solid var(--border);
-      background: transparent;
-      color: var(--text-muted);
-      cursor: pointer;
-      font-size: 0.82rem;
-      transition: all 0.15s;
+      border-radius: var(--radius);
+      padding: 14px 16px;
+      box-shadow: var(--shadow);
+    }
+    .sidebar-title {
+      font-family: 'Rubik', sans-serif;
+      font-weight: 700; font-size: .8rem;
+      color: var(--text-muted); text-transform: uppercase;
+      letter-spacing: .06em; margin-bottom: 10px;
     }
 
-    .filter-btn:hover, .filter-btn.active {
-      background: var(--accent);
-      border-color: var(--accent);
-      color: #fff;
-    }
-
+    /* Search box */
+    .search-wrap { position: relative; }
     #search-input {
-      padding: 6px 14px;
-      border-radius: 20px;
-      border: 1px solid var(--border);
-      background: var(--surface2);
-      color: var(--text);
-      font-size: 0.82rem;
-      width: 180px;
-      outline: none;
+      width: 100%; padding: 9px 36px 9px 12px;
+      border: 1.5px solid var(--border); border-radius: 10px;
+      background: var(--surface2); color: var(--text);
+      font-family: inherit; font-size: .85rem; outline: none;
+      transition: border-color .15s;
       direction: rtl;
     }
-
-    #search-input::placeholder { color: var(--text-muted); }
-
-    main {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 24px;
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-      gap: 20px;
+    #search-input:focus { border-color: var(--accent); }
+    .search-icon {
+      position: absolute; right: 10px; top: 50%;
+      transform: translateY(-50%); color: var(--text-muted);
+      font-size: .9rem; pointer-events: none;
     }
 
+    /* Sort */
+    .sort-row { display: flex; gap: 6px; flex-wrap: wrap; }
+    .sort-btn {
+      padding: 5px 11px; border-radius: 8px; font-size: .75rem;
+      font-weight: 600; color: var(--text-muted);
+      background: var(--surface2); border: 1.5px solid var(--border);
+      transition: all .15s;
+    }
+    .sort-btn.active, .sort-btn:hover {
+      background: var(--accent); color: #fff; border-color: var(--accent);
+    }
+
+    /* Filter groups */
+    .filter-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+    .filter-chip {
+      padding: 4px 10px; border-radius: 20px; font-size: .72rem;
+      font-weight: 600; cursor: pointer; border: 1.5px solid transparent;
+      transition: all .15s; opacity: .7;
+    }
+    .filter-chip.active { opacity: 1; box-shadow: 0 0 0 2px var(--accent); }
+    .filter-chip:hover { opacity: 1; }
+
+    /* Date range */
+    .date-row { display: flex; flex-direction: column; gap: 6px; }
+    .date-row label { font-size: .75rem; color: var(--text-muted); }
+    .date-row input[type=date] {
+      padding: 6px 8px; border-radius: 8px;
+      border: 1.5px solid var(--border); background: var(--surface2);
+      font-family: inherit; font-size: .78rem; color: var(--text);
+      outline: none;
+    }
+    .date-row input[type=date]:focus { border-color: var(--accent); }
+
+    /* Clear button */
+    #clear-filters {
+      width: 100%; padding: 8px; border-radius: 8px;
+      background: #fee2e2; color: #b91c1c;
+      font-weight: 600; font-size: .8rem;
+      transition: background .15s;
+    }
+    #clear-filters:hover { background: #fecaca; }
+
+    /* ── Main feed ────────────────────────────────────────── */
+    #feed-col { flex: 1; min-width: 0; }
+
+    #toolbar {
+      display: flex; align-items: center; justify-content: space-between;
+      margin-bottom: 16px; gap: 10px; flex-wrap: wrap;
+    }
+    #result-count { font-size: .82rem; color: var(--text-muted); }
+    #result-count strong { color: var(--text); font-weight: 700; }
+
+    #feed {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+      gap: 18px;
+    }
+
+    /* ── Card ─────────────────────────────────────────────── */
     .card {
       background: var(--surface);
       border: 1px solid var(--border);
-      border-radius: 12px;
+      border-radius: var(--radius);
       overflow: hidden;
-      display: flex;
-      flex-direction: column;
-      transition: transform 0.15s, border-color 0.15s;
+      display: flex; flex-direction: column;
+      box-shadow: var(--shadow);
+      transition: transform .18s, box-shadow .18s;
+      cursor: pointer;
     }
+    .card:hover { transform: translateY(-3px); box-shadow: var(--shadow-md); }
 
-    .card:hover {
-      transform: translateY(-2px);
-      border-color: var(--accent);
-    }
-
-    .card-image {
-      width: 100%;
-      height: 180px;
-      object-fit: cover;
-      background: var(--surface2);
-    }
-
-    .card-image-placeholder {
-      width: 100%;
-      height: 180px;
-      background: linear-gradient(135deg, var(--surface2), var(--tag-bg));
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 2.5rem;
-    }
-
-    .card-body {
-      padding: 16px;
-      flex: 1;
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
-    }
-
-    .card-meta {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      font-size: 0.75rem;
-      color: var(--text-muted);
-    }
-
-    .source-badge {
-      padding: 2px 8px;
-      border-radius: 4px;
-      background: var(--tag-bg);
-      font-weight: 600;
-    }
-
-    .imp-dot {
-      width: 8px;
-      height: 8px;
-      border-radius: 50%;
+    /* Thumb */
+    .card-thumb {
+      position: relative; height: 170px; overflow: hidden;
+      background: linear-gradient(135deg, #e0e7ff, #f0fdf4);
       flex-shrink: 0;
     }
-    .imp-high { background: var(--high); }
-    .imp-medium { background: var(--medium); }
-    .imp-low { background: var(--low); }
-
-    .card-title {
-      font-size: 1rem;
-      font-weight: 600;
-      line-height: 1.4;
-      color: var(--text);
+    .card-thumb img {
+      width: 100%; height: 100%; object-fit: cover;
+      transition: transform .35s ease;
+      display: block;
+    }
+    .card:hover .card-thumb img { transform: scale(1.06); }
+    .thumb-placeholder {
+      width: 100%; height: 100%;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 2.8rem;
     }
 
+    /* Source badge on thumb */
+    .source-badge {
+      position: absolute; top: 10px; left: 10px;
+      padding: 3px 9px; border-radius: 20px;
+      font-size: .68rem; font-weight: 700; color: #fff;
+      backdrop-filter: blur(4px);
+      z-index: 2;
+    }
+    .badge-tc   { background: rgba(22,163,74,.9); }
+    .badge-tg   { background: rgba(0,136,204,.9); }
+    .badge-other{ background: rgba(99,102,241,.9); }
+
+    /* Importance dot on thumb */
+    .imp-badge {
+      position: absolute; top: 10px; right: 10px;
+      padding: 3px 9px; border-radius: 20px;
+      font-size: .66rem; font-weight: 700; z-index: 2;
+    }
+
+    /* Card body */
+    .card-body {
+      padding: 14px 14px 10px;
+      flex: 1; display: flex; flex-direction: column; gap: 8px;
+    }
+    .card-title {
+      font-family: 'Rubik', sans-serif;
+      font-size: .92rem; font-weight: 700;
+      line-height: 1.4; color: var(--text);
+      display: -webkit-box; -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical; overflow: hidden;
+    }
     .card-desc {
-      font-size: 0.85rem;
-      color: var(--text-muted);
+      font-size: .78rem; color: var(--text-muted);
       line-height: 1.6;
+      display: -webkit-box; -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical; overflow: hidden;
       flex: 1;
     }
-
-    .card-tags {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 6px;
+    .card-chips { display: flex; flex-wrap: wrap; gap: 5px; }
+    .card-meta {
+      font-size: .72rem; color: var(--text-light);
+      display: flex; align-items: center; gap: 8px;
     }
+    .card-meta .dot { width: 3px; height: 3px; border-radius: 50%; background: var(--text-light); }
 
-    .tag {
-      padding: 3px 8px;
-      border-radius: 4px;
-      background: var(--tag-bg);
-      font-size: 0.72rem;
-      color: var(--text-muted);
-    }
-
-    .tag.company {
-      color: var(--accent);
-      border: 1px solid var(--accent);
-      background: transparent;
-    }
-
-    .card-footer {
-      padding: 12px 16px;
+    /* Card actions */
+    .card-actions {
+      padding: 10px 14px;
       border-top: 1px solid var(--border);
+      display: flex; align-items: center; gap: 8px;
     }
-
-    .read-more {
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-      color: var(--accent);
-      text-decoration: none;
-      font-size: 0.82rem;
-      font-weight: 500;
+    .action-btn {
+      display: flex; align-items: center; gap: 4px;
+      padding: 5px 10px; border-radius: 8px;
+      font-size: .75rem; font-weight: 600;
+      transition: background .15s, transform .1s;
     }
+    .action-btn:hover { transform: scale(1.05); }
+    .action-btn .cnt {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: .7rem;
+    }
+    .btn-like   { background: #fff0f0; color: #e11d48; }
+    .btn-like.active { background: #ffe4e6; }
+    .btn-save   { background: #fffbeb; color: #d97706; }
+    .btn-save.active { background: #fef3c7; }
+    .btn-follow { background: #eff6ff; color: #2563eb; }
+    .btn-follow.active { background: #dbeafe; }
+    .btn-read {
+      margin-right: auto;
+      background: var(--accent-light); color: var(--accent);
+    }
+    .btn-read:hover { background: var(--accent); color: #fff; }
 
-    .read-more:hover { text-decoration: underline; }
+    /* ── Modal ────────────────────────────────────────────── */
+    #modal-overlay {
+      display: none; position: fixed; inset: 0; z-index: 1000;
+      background: rgba(15,20,40,.55); backdrop-filter: blur(4px);
+      align-items: center; justify-content: center;
+      padding: 20px;
+    }
+    #modal-overlay.open { display: flex; }
 
+    #modal {
+      background: var(--surface);
+      border-radius: 20px; width: 100%; max-width: 640px;
+      max-height: 90vh; overflow-y: auto;
+      box-shadow: var(--shadow-lg);
+      display: flex; flex-direction: column;
+      animation: modal-in .22s ease;
+    }
+    @keyframes modal-in {
+      from { opacity: 0; transform: translateY(20px) scale(.97); }
+      to   { opacity: 1; transform: none; }
+    }
+    .modal-img {
+      width: 100%; height: 220px; object-fit: cover;
+      border-radius: 20px 20px 0 0;
+      background: linear-gradient(135deg,#e0e7ff,#f0fdf4);
+    }
+    .modal-img-placeholder {
+      width: 100%; height: 220px;
+      border-radius: 20px 20px 0 0;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 4rem;
+      background: linear-gradient(135deg,#e0e7ff,#f0fdf4);
+    }
+    .modal-body { padding: 22px 24px; display: flex; flex-direction: column; gap: 14px; }
+    .modal-header { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; }
+    .modal-title {
+      font-family: 'Rubik', sans-serif;
+      font-size: 1.1rem; font-weight: 700; line-height: 1.4;
+    }
+    .modal-close {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--bg); color: var(--text-muted);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1rem; flex-shrink: 0;
+      transition: background .15s;
+    }
+    .modal-close:hover { background: #fee2e2; color: #b91c1c; }
+    .modal-text {
+      font-size: .88rem; line-height: 1.75; color: var(--text-muted);
+      white-space: pre-wrap; word-break: break-word;
+    }
+    .modal-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+    .modal-meta { font-size: .78rem; color: var(--text-light); display: flex; gap: 12px; flex-wrap: wrap; }
+    .modal-actions {
+      display: flex; gap: 8px; flex-wrap: wrap;
+      padding-top: 10px; border-top: 1px solid var(--border);
+    }
+    .modal-actions .action-btn { padding: 8px 16px; font-size: .82rem; border-radius: 10px; }
+    .modal-links { display: flex; flex-direction: column; gap: 6px; }
+    .modal-link {
+      display: flex; align-items: center; gap: 8px;
+      padding: 8px 12px; border-radius: 10px;
+      background: var(--surface2); border: 1px solid var(--border);
+      font-size: .8rem; color: var(--accent);
+      transition: background .15s;
+      word-break: break-all;
+    }
+    .modal-link:hover { background: var(--accent-light); }
+
+    /* ── Empty state ──────────────────────────────────────── */
     .empty-state {
-      grid-column: 1/-1;
-      text-align: center;
-      padding: 80px 20px;
-      color: var(--text-muted);
+      grid-column: 1/-1; text-align: center;
+      padding: 80px 20px; color: var(--text-muted);
+    }
+    .empty-state h2 { font-family: 'Rubik',sans-serif; font-size: 1.3rem; margin-bottom: 8px; }
+
+    /* ── Footer ───────────────────────────────────────────── */
+    footer {
+      text-align: center; padding: 28px;
+      color: var(--text-muted); font-size: .78rem;
+      border-top: 1px solid var(--border); margin-top: 32px;
     }
 
-    .empty-state h2 { font-size: 1.5rem; margin-bottom: 8px; }
-
-    footer {
-      text-align: center;
-      padding: 24px;
-      color: var(--text-muted);
-      font-size: 0.8rem;
-      border-top: 1px solid var(--border);
+    /* ── Mobile ───────────────────────────────────────────── */
+    @media (max-width: 820px) {
+      #mobile-sidebar-toggle { display: inline-flex; align-items: center; gap: 6px; }
+      #sidebar {
+        position: fixed; right: 0; top: 0; bottom: 0;
+        width: min(var(--sidebar-w), 88vw); z-index: 200;
+        background: var(--bg); padding: 16px;
+        overflow-y: auto; transform: translateX(100%);
+        transition: transform .25s ease;
+        box-shadow: var(--shadow-lg);
+      }
+      #sidebar.open { transform: translateX(0); }
+      #sidebar-backdrop {
+        display: none; position: fixed; inset: 0; z-index: 190;
+        background: rgba(0,0,0,.35);
+      }
+      #sidebar-backdrop.open { display: block; }
+      #layout { padding: 12px; }
+      #feed { grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 520px) {
+      #feed { grid-template-columns: 1fr; }
     }
   </style>
 </head>
 <body>
-  <header>
-    <div>
-      <div class="logo">TechNewsHub 🤖</div>
-      <div class="header-subtitle">חדשות AI בעברית</div>
-    </div>
-    <div class="header-right">
-      <span id="article-count">טוען...</span>
-    </div>
-  </header>
 
-  <div class="filters">
-    <input type="text" id="search-input" placeholder="חיפוש..." />
-    <button class="filter-btn active" data-filter="all">הכל</button>
-    <button class="filter-btn" data-filter="high">חשוב</button>
-    <button class="filter-btn" data-filter="tc">TechCrunch</button>
-    <button class="filter-btn" data-filter="tg">Telegram</button>
-    <button class="filter-btn" data-filter="openai">OpenAI</button>
-    <button class="filter-btn" data-filter="google">Google</button>
-    <button class="filter-btn" data-filter="meta">Meta</button>
-    <button class="filter-btn" data-filter="agents">Agents</button>
-    <button class="filter-btn" data-filter="funding">Funding</button>
+<!-- ── Stats bar ──────────────────────────────────────────── -->
+<div id="stats-bar">
+  <div class="logo-wrap">
+    <span class="logo-text">🤖 TechNewsHub</span>
+    <span style="color:var(--text-muted);font-size:.75rem;">חדשות AI בעברית</span>
+  </div>
+  <div class="stat-item">📰 <span class="stat-num" id="stat-total">0</span> פריטים</div>
+  <div class="stat-item">❤️ <span class="stat-num" id="stat-likes">0</span> לייקים</div>
+  <div class="stat-item">🔖 <span class="stat-num" id="stat-saves">0</span> שמורים</div>
+  <div class="stat-item">🔔 <span class="stat-num" id="stat-follows">0</span> מעקב</div>
+  <button id="mobile-sidebar-toggle" onclick="toggleSidebar()">☰ פילטרים</button>
+</div>
+
+<!-- ── Sidebar backdrop (mobile) ──────────────────────────── -->
+<div id="sidebar-backdrop" onclick="closeSidebar()"></div>
+
+<!-- ── Layout ─────────────────────────────────────────────── -->
+<div id="layout">
+
+  <!-- Sidebar -->
+  <aside id="sidebar">
+
+    <!-- Search -->
+    <div class="sidebar-card">
+      <div class="search-wrap">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="search-input" placeholder="חיפוש חופשי..." oninput="onSearch()" />
+      </div>
+    </div>
+
+    <!-- Sort -->
+    <div class="sidebar-card">
+      <div class="sidebar-title">מיון</div>
+      <div class="sort-row">
+        <button class="sort-btn active" data-sort="date" onclick="setSort(this)">תאריך</button>
+        <button class="sort-btn" data-sort="likes" onclick="setSort(this)">לייקים</button>
+        <button class="sort-btn" data-sort="views" onclick="setSort(this)">צפיות</button>
+      </div>
+    </div>
+
+    <!-- Source filter -->
+    <div class="sidebar-card">
+      <div class="sidebar-title">מקור</div>
+      <div class="filter-chips" id="filter-source">
+        <span class="filter-chip chip chip-release active" data-val="all">הכל</span>
+        <span class="filter-chip" style="background:#dcfce7;color:#15803d" data-val="TechCrunch">TechCrunch</span>
+        <span class="filter-chip" style="background:#dbeafe;color:#1d4ed8" data-val="Telegram">Telegram</span>
+      </div>
+    </div>
+
+    <!-- Importance -->
+    <div class="sidebar-card">
+      <div class="sidebar-title">חשיבות</div>
+      <div class="filter-chips" id="filter-imp">
+        <span class="filter-chip chip chip-low active" data-val="all">הכל</span>
+        <span class="filter-chip chip chip-high" data-val="high">🔴 גבוהה</span>
+        <span class="filter-chip chip chip-medium" data-val="medium">🟡 בינונית</span>
+        <span class="filter-chip chip chip-low" data-val="low">🟢 נמוכה</span>
+      </div>
+    </div>
+
+    <!-- Company filter -->
+    <div class="sidebar-card">
+      <div class="sidebar-title">חברה</div>
+      <div class="filter-chips" id="filter-co">
+        <span class="filter-chip chip chip-news active" data-val="all">הכל</span>
+        <span class="filter-chip chip chip-openai"    data-val="OpenAI">OpenAI</span>
+        <span class="filter-chip chip chip-google"    data-val="Google">Google</span>
+        <span class="filter-chip chip chip-anthropic" data-val="Anthropic">Anthropic</span>
+        <span class="filter-chip chip chip-meta"      data-val="Meta">Meta</span>
+        <span class="filter-chip chip chip-microsoft" data-val="Microsoft">Microsoft</span>
+        <span class="filter-chip chip chip-nvidia"    data-val="Nvidia">Nvidia</span>
+        <span class="filter-chip chip chip-apple"     data-val="Apple">Apple</span>
+        <span class="filter-chip chip chip-amazon"    data-val="Amazon">Amazon</span>
+      </div>
+    </div>
+
+    <!-- Tags filter -->
+    <div class="sidebar-card">
+      <div class="sidebar-title">תגיות</div>
+      <div class="filter-chips" id="filter-tag">
+        <span class="filter-chip chip chip-news active" data-val="all">הכל</span>
+        <span class="filter-chip chip chip-model"      data-val="model">Model</span>
+        <span class="filter-chip chip chip-agents"     data-val="agents">Agents</span>
+        <span class="filter-chip chip chip-image-gen"  data-val="image-gen">Image Gen</span>
+        <span class="filter-chip chip chip-hardware"   data-val="hardware">Hardware</span>
+        <span class="filter-chip chip chip-funding"    data-val="funding">Funding</span>
+        <span class="filter-chip chip chip-security"   data-val="security">Security</span>
+        <span class="filter-chip chip chip-robotics"   data-val="robotics">Robotics</span>
+        <span class="filter-chip chip chip-regulation" data-val="regulation">Regulation</span>
+      </div>
+    </div>
+
+    <!-- Status filter -->
+    <div class="sidebar-card">
+      <div class="sidebar-title">סטטוס</div>
+      <div class="filter-chips" id="filter-status">
+        <span class="filter-chip chip chip-news active" data-val="all">הכל</span>
+        <span class="filter-chip chip chip-release" data-val="liked">❤️ אהבתי</span>
+        <span class="filter-chip chip chip-funding" data-val="saved">🔖 שמורים</span>
+        <span class="filter-chip chip chip-agents"  data-val="followup">🔔 מעקב</span>
+      </div>
+    </div>
+
+    <!-- Date range -->
+    <div class="sidebar-card">
+      <div class="sidebar-title">טווח תאריכים</div>
+      <div class="date-row">
+        <label>מתאריך</label>
+        <input type="date" id="date-from" onchange="applyFilters()" />
+        <label>עד תאריך</label>
+        <input type="date" id="date-to" onchange="applyFilters()" />
+      </div>
+    </div>
+
+    <button id="clear-filters" onclick="clearFilters()">✕ נקה פילטרים</button>
+  </aside>
+
+  <!-- Feed column -->
+  <div id="feed-col">
+    <div id="toolbar">
+      <div id="result-count">טוען...</div>
+    </div>
+    <div id="feed"></div>
   </div>
 
-  <main id="feed"></main>
+</div>
 
-  <footer>
-    עודכן אוטומטית כל 30 דקות | TechNewsHub © 2025
-  </footer>
+<footer>עודכן אוטומטית כל 30 דקות | TechNewsHub © 2025</footer>
 
-  <script src="data.js"></script>
-  <script>
-    const feed = document.getElementById('feed');
-    const countEl = document.getElementById('article-count');
+<!-- ── Modal ───────────────────────────────────────────────── -->
+<div id="modal-overlay" onclick="handleOverlayClick(event)">
+  <div id="modal">
+    <div id="modal-img-wrap"></div>
+    <div class="modal-body">
+      <div class="modal-header">
+        <div class="modal-title" id="modal-title"></div>
+        <button class="modal-close" onclick="closeModal()">✕</button>
+      </div>
+      <div class="modal-meta" id="modal-meta"></div>
+      <div class="modal-chips" id="modal-chips"></div>
+      <div class="modal-text" id="modal-text"></div>
+      <div class="modal-actions" id="modal-actions"></div>
+      <div class="modal-links" id="modal-links"></div>
+    </div>
+  </div>
+</div>
 
-    let activeFilter = 'all';
-    let searchQuery = '';
+<script src="data.js"></script>
+<script>
+/* ─── State ────────────────────────────────────────────── */
+const LS = {
+  get: (k) => { try { return JSON.parse(localStorage.getItem(k) || 'null'); } catch { return null; } },
+  set: (k,v) => localStorage.setItem(k, JSON.stringify(v)),
+};
 
-    const EMOJI_MAP = {
-      OpenAI: '🤖', Google: '🔍', Anthropic: '🧠', Meta: '👾',
-      Microsoft: '🪟', Nvidia: '⚡', Apple: '🍎', Amazon: '📦',
-    };
+let likes    = LS.get('tnhub_likes')    || {};
+let saves    = LS.get('tnhub_saves')    || {};
+let followups= LS.get('tnhub_followups')|| {};
 
-    function parseTitle(text) {
-      if (!text) return { title: '', desc: '' };
-      const lines = text.trim().split('\n\n');
-      return { title: lines[0] || '', desc: lines.slice(1).join('\n\n') };
+// per-item counter objects (shared across all viewers — stored per-browser)
+let likeCounts    = LS.get('tnhub_likeCounts')    || {};
+let saveCounts    = LS.get('tnhub_saveCounts')    || {};
+let followCounts  = LS.get('tnhub_followCounts')  || {};
+
+function persist() {
+  LS.set('tnhub_likes',    likes);
+  LS.set('tnhub_saves',    saves);
+  LS.set('tnhub_followups',followups);
+  LS.set('tnhub_likeCounts',  likeCounts);
+  LS.set('tnhub_saveCounts',  saveCounts);
+  LS.set('tnhub_followCounts',followCounts);
+}
+
+let sortBy  = 'date';
+let filters = { source:'all', imp:'all', co:'all', tag:'all', status:'all' };
+let search  = '';
+let dateFrom= '', dateTo= '';
+let currentModal = null;
+
+/* ─── Chip helper ──────────────────────────────────────── */
+const CO_CLASS = {
+  openai:'chip-openai', google:'chip-google', anthropic:'chip-anthropic',
+  meta:'chip-meta', microsoft:'chip-microsoft', nvidia:'chip-nvidia',
+  apple:'chip-apple', amazon:'chip-amazon',
+};
+const TAG_CLASS = {
+  model:'chip-model', agents:'chip-agents', 'image-gen':'chip-image-gen',
+  hardware:'chip-hardware', funding:'chip-funding', security:'chip-security',
+  robotics:'chip-robotics', regulation:'chip-regulation',
+  news:'chip-news', product:'chip-product',
+};
+const EMOJI = {
+  OpenAI:'🤖', Google:'🔍', Anthropic:'🧠', Meta:'👾',
+  Microsoft:'🪟', Nvidia:'⚡', Apple:'🍎', Amazon:'📦',
+};
+
+function chipFor(val, type) {
+  const key = val.toLowerCase();
+  let cls = 'chip-news';
+  if (type === 'co') cls = CO_CLASS[key] || 'chip-news';
+  else if (type === 'tag') cls = TAG_CLASS[key] || 'chip-news';
+  return `<span class="chip ${cls}">${val}</span>`;
+}
+
+function sourceBadge(src) {
+  if (!src) return '';
+  const cls = src.toLowerCase().includes('techcrunch') ? 'badge-tc'
+            : src.toLowerCase() === 'telegram' ? 'badge-tg' : 'badge-other';
+  return `<span class="source-badge ${cls}">${src}</span>`;
+}
+
+function impBadge(imp) {
+  if (!imp || imp === 'low') return '';
+  const cls = imp === 'high' ? 'chip-high' : 'chip-medium';
+  const lbl = imp === 'high' ? '🔴 חשוב' : '🟡 בינוני';
+  return `<span class="imp-badge chip ${cls}">${lbl}</span>`;
+}
+
+function parseTitle(t) {
+  if (!t) return { title:'', desc:'' };
+  const lines = t.trim().split('\n\n');
+  return { title: lines[0] || '', desc: lines.slice(1).join('\n\n') };
+}
+
+function fmtDate(d) {
+  try {
+    return new Intl.DateTimeFormat('he-IL', {
+      day:'numeric', month:'short', hour:'2-digit', minute:'2-digit'
+    }).format(new Date(d));
+  } catch { return d; }
+}
+
+/* ─── Filtering & sorting ──────────────────────────────── */
+function getFiltered() {
+  let data = [...(window.TELEGRAM_DATA || [])];
+  const q = search.toLowerCase();
+
+  data = data.filter(item => {
+    if (filters.source !== 'all') {
+      const src = (item.source || '').toLowerCase();
+      if (filters.source === 'Telegram' && src !== 'telegram') return false;
+      if (filters.source === 'TechCrunch' && !src.includes('techcrunch')) return false;
     }
-
-    function formatDate(d) {
-      try {
-        return new Intl.DateTimeFormat('he-IL', {
-          day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit',
-        }).format(new Date(d));
-      } catch { return d; }
+    if (filters.imp !== 'all' && item.imp !== filters.imp) return false;
+    if (filters.co  !== 'all' && !(item.co || []).some(c => c === filters.co)) return false;
+    if (filters.tag !== 'all' && !(item.tags || []).includes(filters.tag)) return false;
+    if (filters.status === 'liked'   && !likes[item.id])    return false;
+    if (filters.status === 'saved'   && !saves[item.id])    return false;
+    if (filters.status === 'followup'&& !followups[item.id]) return false;
+    if (dateFrom) { try { if (new Date(item.d) < new Date(dateFrom)) return false; } catch {} }
+    if (dateTo)   { try { if (new Date(item.d) > new Date(dateTo+'T23:59:59')) return false; } catch {} }
+    if (q) {
+      const txt = (item.t||'').toLowerCase() + ' ' +
+                  (item.co||[]).join(' ').toLowerCase() + ' ' +
+                  (item.tags||[]).join(' ').toLowerCase() + ' ' +
+                  (item.source||'').toLowerCase();
+      if (!txt.includes(q)) return false;
     }
+    return true;
+  });
 
-    function matchesFilter(item) {
-      if (activeFilter === 'all') return true;
-      if (activeFilter === 'high') return item.imp === 'high';
-      if (activeFilter === 'tc') return (item.source || '').toLowerCase().includes('techcrunch');
-      if (activeFilter === 'tg') return (item.source || '') === 'Telegram' || !item.source;
-      if (activeFilter === 'agents') return item.tags?.includes('agents');
-      if (activeFilter === 'funding') return item.tags?.includes('funding');
-      const co = activeFilter.charAt(0).toUpperCase() + activeFilter.slice(1);
-      return item.co?.some(c => c.toLowerCase() === activeFilter);
-    }
+  if (sortBy === 'date')  data.sort((a,b) => new Date(b.d) - new Date(a.d));
+  if (sortBy === 'likes') data.sort((a,b) => (likeCounts[b.id]||0) - (likeCounts[a.id]||0));
+  if (sortBy === 'views') data.sort((a,b) => (b.v||0) - (a.v||0));
 
-    function matchesSearch(item, q) {
-      if (!q) return true;
-      const text = item.t?.toLowerCase() || '';
-      const co = (item.co || []).join(' ').toLowerCase();
-      const tags = (item.tags || []).join(' ').toLowerCase();
-      return text.includes(q) || co.includes(q) || tags.includes(q);
-    }
+  return data;
+}
 
-    function renderCard(item) {
-      const { title, desc } = parseTitle(item.t);
-      const co = (item.co || [])[0];
-      const emoji = EMOJI_MAP[co] || '📰';
+/* ─── Render ───────────────────────────────────────────── */
+function renderFeed() {
+  const feed = document.getElementById('feed');
+  const data = getFiltered();
 
-      const imageHtml = item.thumb
-        ? `<img class="card-image" src="${item.thumb}" alt="" loading="lazy" onerror="this.parentNode.innerHTML='<div class=card-image-placeholder>${emoji}</div>'" />`
-        : `<div class="card-image-placeholder">${emoji}</div>`;
+  document.getElementById('result-count').innerHTML =
+    `מוצגים <strong>${data.length}</strong> מתוך ${(window.TELEGRAM_DATA||[]).length} פריטים`;
 
-      const tags = [
-        ...(item.co || []).map(c => `<span class="tag company">${c}</span>`),
-        ...(item.tags || []).filter(t => t !== 'news').map(t => `<span class="tag">${t}</span>`),
-      ].join('');
+  updateStatsBar();
 
-      const link = (item.l || [])[0] || '#';
-      const impClass = `imp-${item.imp || 'low'}`;
-      const sourceBadge = item.source ? `<span class="source-badge">${item.source}</span>` : '';
+  if (!data.length) {
+    feed.innerHTML = `<div class="empty-state"><h2>אין תוצאות</h2><p>נסה לשנות את הפילטרים</p></div>`;
+    return;
+  }
 
-      return `
-        <article class="card">
-          ${imageHtml}
-          <div class="card-body">
-            <div class="card-meta">
-              <span class="imp-dot ${impClass}"></span>
-              ${sourceBadge}
-              <span>${formatDate(item.d)}</span>
-            </div>
-            <div class="card-title">${title}</div>
-            ${desc ? `<div class="card-desc">${desc}</div>` : ''}
-            ${tags ? `<div class="card-tags">${tags}</div>` : ''}
-          </div>
-          <div class="card-footer">
-            <a href="${link}" target="_blank" rel="noopener" class="read-more">קרא עוד ↗</a>
-          </div>
-        </article>`;
-    }
+  feed.innerHTML = data.map(renderCard).join('');
+}
 
-    function render() {
-      const q = searchQuery.toLowerCase();
-      const data = window.TELEGRAM_DATA || [];
-      const filtered = data.filter(item => matchesFilter(item) && matchesSearch(item, q));
+function renderCard(item) {
+  const { title, desc } = parseTitle(item.t);
+  const co0 = (item.co||[])[0];
+  const emoji = EMOJI[co0] || '📰';
 
-      countEl.textContent = `${filtered.length} מתוך ${data.length} פריטים`;
+  const imgHtml = item.thumb
+    ? `<img src="${item.thumb}" alt="" loading="lazy" onerror="this.parentNode.innerHTML='<div class=thumb-placeholder>${emoji}</div>'" />`
+    : `<div class="thumb-placeholder">${emoji}</div>`;
 
-      if (!filtered.length) {
-        feed.innerHTML = `<div class="empty-state"><h2>אין תוצאות</h2><p>נסה לשנות את הסינון</p></div>`;
-        return;
-      }
+  const chips = [
+    ...(item.co||[]).slice(0,2).map(c => chipFor(c,'co')),
+    ...(item.tags||[]).filter(t=>t!=='news').slice(0,2).map(t => chipFor(t,'tag')),
+  ].join('');
 
-      feed.innerHTML = filtered.map(renderCard).join('');
-    }
+  const lc = likeCounts[item.id]||0;
+  const sc = saveCounts[item.id]||0;
+  const fc = followCounts[item.id]||0;
 
-    // Filter buttons
-    document.querySelectorAll('.filter-btn').forEach(btn => {
-      btn.addEventListener('click', () => {
-        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-        activeFilter = btn.dataset.filter;
-        render();
-      });
-    });
+  return `<article class="card" onclick="openModal(${item.id})">
+    <div class="card-thumb">
+      ${imgHtml}
+      ${sourceBadge(item.source)}
+      ${impBadge(item.imp)}
+    </div>
+    <div class="card-body">
+      <div class="card-title">${escHtml(title)}</div>
+      ${desc ? `<div class="card-desc">${escHtml(desc)}</div>` : ''}
+      ${chips ? `<div class="card-chips">${chips}</div>` : ''}
+      <div class="card-meta">
+        <span>${fmtDate(item.d)}</span>
+        ${item.v ? `<span class="dot"></span><span>👁 ${item.v.toLocaleString()}</span>` : ''}
+      </div>
+    </div>
+    <div class="card-actions" onclick="event.stopPropagation()">
+      <button class="action-btn btn-like ${likes[item.id]?'active':''}"
+        onclick="toggleLike(${item.id})">❤️ <span class="cnt" id="lc-${item.id}">${lc}</span></button>
+      <button class="action-btn btn-save ${saves[item.id]?'active':''}"
+        onclick="toggleSave(${item.id})">🔖 <span class="cnt" id="sc-${item.id}">${sc}</span></button>
+      <button class="action-btn btn-follow ${followups[item.id]?'active':''}"
+        onclick="toggleFollow(${item.id})">🔔 <span class="cnt" id="fc-${item.id}">${fc}</span></button>
+      <button class="action-btn btn-read" onclick="openModal(${item.id})">קרא ↗</button>
+    </div>
+  </article>`;
+}
 
-    // Search
-    document.getElementById('search-input').addEventListener('input', e => {
-      searchQuery = e.target.value;
-      render();
-    });
+/* ─── Actions ──────────────────────────────────────────── */
+function toggleLike(id) {
+  if (likes[id]) { delete likes[id]; likeCounts[id] = Math.max(0,(likeCounts[id]||1)-1); }
+  else           { likes[id] = 1;     likeCounts[id] = (likeCounts[id]||0)+1; }
+  persist(); updateCardBtns(id); updateStatsBar();
+  if (currentModal === id) updateModalBtns(id);
+}
+function toggleSave(id) {
+  if (saves[id]) { delete saves[id]; saveCounts[id] = Math.max(0,(saveCounts[id]||1)-1); }
+  else           { saves[id] = 1;    saveCounts[id] = (saveCounts[id]||0)+1; }
+  persist(); updateCardBtns(id); updateStatsBar();
+  if (currentModal === id) updateModalBtns(id);
+}
+function toggleFollow(id) {
+  if (followups[id]) { delete followups[id]; followCounts[id] = Math.max(0,(followCounts[id]||1)-1); }
+  else               { followups[id] = 1;    followCounts[id] = (followCounts[id]||0)+1; }
+  persist(); updateCardBtns(id); updateStatsBar();
+  if (currentModal === id) updateModalBtns(id);
+}
 
-    render();
-  </script>
+function updateCardBtns(id) {
+  const lEl = document.getElementById(`lc-${id}`);
+  const sEl = document.getElementById(`sc-${id}`);
+  const fEl = document.getElementById(`fc-${id}`);
+  if (lEl) { lEl.textContent = likeCounts[id]||0; lEl.closest('.btn-like').classList.toggle('active', !!likes[id]); }
+  if (sEl) { sEl.textContent = saveCounts[id]||0; sEl.closest('.btn-save').classList.toggle('active', !!saves[id]); }
+  if (fEl) { fEl.textContent = followCounts[id]||0; fEl.closest('.btn-follow').classList.toggle('active', !!followups[id]); }
+}
+
+function updateStatsBar() {
+  document.getElementById('stat-total').textContent  = (window.TELEGRAM_DATA||[]).length;
+  document.getElementById('stat-likes').textContent  = Object.values(likeCounts).reduce((a,b)=>a+b,0);
+  document.getElementById('stat-saves').textContent  = Object.values(saveCounts).reduce((a,b)=>a+b,0);
+  document.getElementById('stat-follows').textContent= Object.values(followCounts).reduce((a,b)=>a+b,0);
+}
+
+/* ─── Modal ────────────────────────────────────────────── */
+function openModal(id) {
+  const item = (window.TELEGRAM_DATA||[]).find(x => x.id === id);
+  if (!item) return;
+  currentModal = id;
+
+  const { title, desc } = parseTitle(item.t);
+  const co0 = (item.co||[])[0];
+  const emoji = EMOJI[co0] || '📰';
+
+  document.getElementById('modal-img-wrap').innerHTML = item.thumb
+    ? `<img class="modal-img" src="${item.thumb}" alt="" onerror="this.outerHTML='<div class=modal-img-placeholder>${emoji}</div>'" />`
+    : `<div class="modal-img-placeholder">${emoji}</div>`;
+
+  document.getElementById('modal-title').textContent = title;
+  document.getElementById('modal-text').textContent  = desc;
+
+  document.getElementById('modal-meta').innerHTML = [
+    `<span>${fmtDate(item.d)}</span>`,
+    item.source ? `<span>${sourceBadge(item.source)}</span>` : '',
+    item.v ? `<span>👁 ${item.v.toLocaleString()} צפיות</span>` : '',
+  ].filter(Boolean).join('');
+
+  const chips = [
+    ...(item.co||[]).map(c => chipFor(c,'co')),
+    ...(item.tags||[]).map(t => chipFor(t,'tag')),
+    ...(item.imp ? [`<span class="chip ${item.imp==='high'?'chip-high':'chip-medium'}">${item.imp}</span>`] : []),
+  ].join('');
+  document.getElementById('modal-chips').innerHTML = chips;
+
+  updateModalBtns(id);
+
+  const links = item.l || [];
+  document.getElementById('modal-links').innerHTML = links.length
+    ? links.map(u => `<a class="modal-link" href="${escAttr(u)}" target="_blank" rel="noopener">🔗 ${escHtml(u)}</a>`).join('')
+    : '';
+
+  document.getElementById('modal-overlay').classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+
+function updateModalBtns(id) {
+  document.getElementById('modal-actions').innerHTML = `
+    <button class="action-btn btn-like ${likes[id]?'active':''}" onclick="toggleLike(${id})">
+      ❤️ אהבתי <span class="cnt">${likeCounts[id]||0}</span>
+    </button>
+    <button class="action-btn btn-save ${saves[id]?'active':''}" onclick="toggleSave(${id})">
+      🔖 שמור <span class="cnt">${saveCounts[id]||0}</span>
+    </button>
+    <button class="action-btn btn-follow ${followups[id]?'active':''}" onclick="toggleFollow(${id})">
+      🔔 מעקב <span class="cnt">${followCounts[id]||0}</span>
+    </button>`;
+}
+
+function closeModal() {
+  document.getElementById('modal-overlay').classList.remove('open');
+  document.body.style.overflow = '';
+  currentModal = null;
+}
+function handleOverlayClick(e) {
+  if (e.target === document.getElementById('modal-overlay')) closeModal();
+}
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
+/* ─── Filter controls ──────────────────────────────────── */
+function setupFilterGroup(groupId, filterKey) {
+  document.getElementById(groupId).addEventListener('click', e => {
+    const chip = e.target.closest('.filter-chip');
+    if (!chip) return;
+    document.querySelectorAll(`#${groupId} .filter-chip`).forEach(c => c.classList.remove('active'));
+    chip.classList.add('active');
+    filters[filterKey] = chip.dataset.val;
+    applyFilters();
+  });
+}
+setupFilterGroup('filter-source', 'source');
+setupFilterGroup('filter-imp',    'imp');
+setupFilterGroup('filter-co',     'co');
+setupFilterGroup('filter-tag',    'tag');
+setupFilterGroup('filter-status', 'status');
+
+function applyFilters() {
+  dateFrom = document.getElementById('date-from').value;
+  dateTo   = document.getElementById('date-to').value;
+  renderFeed();
+}
+function onSearch() {
+  search = document.getElementById('search-input').value;
+  renderFeed();
+}
+function setSort(btn) {
+  document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  sortBy = btn.dataset.sort;
+  renderFeed();
+}
+function clearFilters() {
+  filters = { source:'all', imp:'all', co:'all', tag:'all', status:'all' };
+  search = ''; dateFrom = ''; dateTo = '';
+  sortBy = 'date';
+  document.getElementById('search-input').value = '';
+  document.getElementById('date-from').value = '';
+  document.getElementById('date-to').value = '';
+  document.querySelectorAll('.filter-chip').forEach(c => {
+    c.classList.toggle('active', c.dataset.val === 'all');
+  });
+  document.querySelectorAll('.sort-btn').forEach(b => {
+    b.classList.toggle('active', b.dataset.sort === 'date');
+  });
+  renderFeed();
+}
+
+/* ─── Mobile sidebar ───────────────────────────────────── */
+function toggleSidebar() {
+  document.getElementById('sidebar').classList.toggle('open');
+  document.getElementById('sidebar-backdrop').classList.toggle('open');
+}
+function closeSidebar() {
+  document.getElementById('sidebar').classList.remove('open');
+  document.getElementById('sidebar-backdrop').classList.remove('open');
+}
+
+/* ─── Utils ────────────────────────────────────────────── */
+function escHtml(s) {
+  return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function escAttr(s) {
+  return String(s||'').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
+/* ─── Init ─────────────────────────────────────────────── */
+renderFeed();
+</script>
 </body>
 </html>
