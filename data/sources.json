@@ -6,6 +6,41 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "language": "en",
       "enabled": true
+    },
+    {
+      "id": "theverge-ai",
+      "name": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
+      "language": "en",
+      "enabled": true
+    },
+    {
+      "id": "arstechnica-ai",
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/index",
+      "language": "en",
+      "enabled": true
+    },
+    {
+      "id": "the-decoder",
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/feed/",
+      "language": "en",
+      "enabled": true
+    },
+    {
+      "id": "venturebeat-ai",
+      "name": "VentureBeat AI",
+      "url": "https://venturebeat.com/category/ai/feed/",
+      "language": "en",
+      "enabled": true
+    },
+    {
+      "id": "openai-blog",
+      "name": "OpenAI Blog",
+      "url": "https://openai.com/blog/rss.xml",
+      "language": "en",
+      "enabled": true
     }
   ]
 }
