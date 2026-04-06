@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: news-update
+  cancel-in-progress: false
+
 jobs:
   translate:
     runs-on: ubuntu-latest
