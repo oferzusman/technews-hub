@@ -1,7 +1,30 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use\n\nAI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
+    "t": "החברה הספרדית Xoople גייסה 130 מיליון דולר בסדרה B כדי למפות את כדור הארץ עבור AI\n\nXoople עושה צעד ענקי בתחום ה-AI - הם משתמשים בלוויינים כדי למפות את כל כדור הארץ ותמונות הלוויין הזו יהיו הנתונים החיוני לאימון מודלי AI. בנוסף, החברה חתמה על עסקה עם L3Harris שתייצרו את הסנסורים עבור הלוויינים של Xoople, מה שאומר שהם לא רק חולמים גדול אלא גם בונים משהו ממש.",
+    "d": "Mon, 06 Apr 2026 13:00:00 +0000",
+    "v": 0,
+    "l": [
+      "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/"
+    ],
+    "lp": null,
+    "vid": false,
+    "img": true,
+    "fwd": null,
+    "cats": [
+      "news"
+    ],
+    "co": [],
+    "tags": [
+      "news"
+    ],
+    "imp": "low",
+    "thumb": "https://techcrunch.com/wp-content/uploads/2026/04/Xoople_Founders-May2024_APPROVED-FOR-PUBLISHING-1.jpeg?resize=1200,801",
+    "source": "TechCrunch AI"
+  },
+  {
+    "id": 2,
+    "t": "מיקרוסופט מוסכמת: Copilot הוא 'למטרות בידור בלבד'\n\nאז למה בכל זאת אנחנו מסתמכים על Copilot לעבודה חשובה? מסתבר שגם מיקרוסופט עצמה כותבת בתנאי השימוש שלה שהמודל הוא בעיקר לשעשוע, וכמו קודם אמרנו - אל תסמכו עיוורון על מה שהוא בדיוק אומר לכם.",
     "d": "Sun, 05 Apr 2026 18:51:37 +0000",
     "v": 0,
     "l": [
@@ -26,8 +49,8 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 2,
-    "t": "Can orbital data centers help justify a massive valuation for SpaceX?\n\nOn the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space.",
+    "id": 3,
+    "t": "האם מרכזי נתונים במסלול כוכבים יכולים להצדיק את ההערכה ענקית של SpaceX?\n\nבפרק האחרון של פודקאסט Equity של TechCrunch, הם דנו בחזון של אילון מאסק להשם מרכזי נתונים בחלל - ותמורה זה עלול להשנות את המשחק של ענני computing ו-AI כמו שאנחנו מכירים אותם. השאלה הגדולה: האם זה באמת סדרתי או שיותר מדי ספיד?",
     "d": "Sun, 05 Apr 2026 15:40:58 +0000",
     "v": 0,
     "l": [
@@ -42,16 +65,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?resize=1200,800",
     "source": "TechCrunch AI"
   },
   {
-    "id": 3,
-    "t": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants\n\nDriven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
+    "id": 4,
+    "t": "ביפן, הרובוט לא בא לתפוס את העבודה שלך - הוא מילא את זו שאnobody רוצה\n\nיפן לא מחכה לעוד - היא דוחפת physical AI מפיילוטים ישירות לפריסה בעולם האמיתי, והכל כי יש להם בעיה ירודה של חסרון בכוח אדם. הרובוטים לא הולכים להחליף את המהנדסים שלנו, אלא אלה שפשוט אין להם מישהו שרוצה לעשות את התפקיד.",
     "d": "Sun, 05 Apr 2026 14:00:00 +0000",
     "v": 0,
     "l": [
@@ -66,16 +88,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-965917342.jpg?resize=1200,779",
     "source": "TechCrunch AI"
   },
   {
-    "id": 4,
-    "t": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage\n\nIt’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+    "id": 5,
+    "t": "אנתרופיק: מנויי Claude Code יצטרכו לשלם עלות נוספת לשימוש ב-OpenClaw\n\nהמחיר של השימוש בClaude Code עומד לעלות משמעותית, במיוחד כשמדובר בשילוב עם כלים של צד שלישי כמו OpenClaw. אנתרופיק מחליטה לחייב תשלום נוסף על השימוש בתוספים החיצוניים האלה, מה שעשוי להשפיע על משתמשים שמסתמכים על הכלים המתקדמים האלה לעבודה שלהם. זה חלק מאסטרטגיה רחבה יותר של החברה לתמחור שירותים פרימיום.",
     "d": "Sat, 04 Apr 2026 16:32:22 +0000",
     "v": 0,
     "l": [
@@ -101,8 +122,8 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 5,
-    "t": "Anthropic is having a moment in the private markets; SpaceX could spoil the party\n\nGlen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
+    "id": 6,
+    "t": "אנתרופיק זורחת בשוקי ההשקעות הפרטיים; SpaceX עלולה לקלקל את המסיבה\n\nאנתרופיק כרגע ה-\"טריד הוט\" בשוק המניות הפרטיות, בעוד OpenAI מאבדת קרקע ו-SpaceX מתכננת IPO שעלול לשנות לחלוטין את הנוף של כל חברות ה-AI בקליפורניה. עם פעילות שלא היתה קודם כמוה בשוק המשני של מניות פרטיות, כל העניין סובב סביב מי יהיה הזוכה הגדול בזירה הזו.",
     "d": "Sat, 04 Apr 2026 01:31:00 +0000",
     "v": 0,
     "l": [
@@ -116,8 +137,7 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Anthropic"
+      "OpenAI"
     ],
     "tags": [
       "news",
@@ -128,8 +148,8 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 6,
-    "t": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’\n\nIn addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
+    "id": 7,
+    "t": "שינויים בהנהלת OpenAI: COO בריד לייטקאפ מקבל תפקיד חדש בפרויקטים מיוחדים\n\nבעקבות תזמורת הנהלתית בOpenAI, ה-COO בריד לייטקאפ עובר לתפקיד חדש שיתמקד בפרויקטים מיוחדים. בנוסף, CMO קייט רוץ' עוזבת את החברה כדי להתרכז בהחלמה מסרטן, כשיש תוכניות לחזורה כשמצבה הבריאותי יאפשר זאת.",
     "d": "Fri, 03 Apr 2026 20:35:34 +0000",
     "v": 0,
     "l": [
@@ -154,8 +174,8 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 7,
-    "t": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports\n\nAnthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
+    "id": 8,
+    "t": "אנתרופיק קונה את סטארטאپ הביוטק Coefficient Bio תמורת 400 מיליון דולר\n\nאנתרופיק השלימה דיל משמעותי בשווי 400 מיליון דולר לרכישת Coefficient Bio, סטארטאפ ביוטק שעבדה בסתר על AI ליישומים ביולוגיים. הדיל מראה שחברות AI גדולות כמו אנתרופיק רואות ערך ענק בשילוב טכנולוגיית בינה מלאכותית עם תחום הביוטכנולוגיה. עבור ישראל, זה עוד אות שהמירוץ לתיסחוף AI לתחומים חדשים הולך בקצב משחרר.",
     "d": "Fri, 03 Apr 2026 20:28:40 +0000",
     "v": 0,
     "l": [
@@ -168,20 +188,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800",
     "source": "TechCrunch AI"
   },
   {
-    "id": 8,
-    "t": "Anthropic ramps up its political activities with a new PAC\n\nWith the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
+    "id": 9,
+    "t": "אנתרופיק מגביר את פעילותה הפוליטית דרך קרן פוליטית חדשה\n\nעם הבחירות הביניים מדפדפות, ארגון חדש של חברת ה-AI תומך בקנדידטים שתומכים בתוכנית המדיניות של אנתרופיק. החברה משתמשת בדרך זו כדי להשפיע על ההחלטות הפוליטיות שיכולות להשפיע על תעשיית ה-AI בעתיד.",
     "d": "Fri, 03 Apr 2026 20:22:18 +0000",
     "v": 0,
     "l": [
@@ -194,21 +211,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-.jpg?w=1024",
     "source": "TechCrunch AI"
   },
   {
-    "id": 9,
-    "t": "AI companies are building huge natural gas plants to power data centers. What could go wrong?\n\nMeta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
+    "id": 10,
+    "t": "חברות AI בונות תחנות גז טבעי ענקיות להנעת מרכזי נתונים. מה יכול להשתבש?\n\nמטא, מיקרוסופט וגוגל משקיעות מיליארדים בתחנות כוח חדשות הפועלות על גז טבעי כדי להנעת את מרכזי הנתונים שלהם - ובעל הסיבה טוב שלהן עלולים להיות תחרטות על ההחלטה הזו. בעקבות התלהטות סביב צריכת החשמל של מערכות ה-AI, גיגנטים הטכנולוגיה מסתמכים על גז טבעי כחלופה אך בעיות סביבתיות וכלכליות עלולות לגרום להם לשנות מסלול.",
     "d": "Fri, 03 Apr 2026 19:48:22 +0000",
     "v": 0,
     "l": [
@@ -221,23 +234,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google",
-      "Meta",
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1294103185.jpg?resize=1200,799",
     "source": "TechCrunch AI"
   },
   {
-    "id": 10,
-    "t": "People would rather have an Amazon warehouse in their backyard than a data center\n\nA new poll shows that the debate over data centers is far from settled.",
+    "id": 11,
+    "t": "אנשים מעדיפים מחסן אמזון בחצר שלהם על פני data center\n\nסקר חדש חושף שהוויכוח על data centers הוא הכל חוץ מסגור - וברור שלרוב הציבור אין בדיוק אהבה לעיצומים הטכנולוגיים האלה בשכונה שלהם. נראה שאנשים מוכנים יותר להתמודד עם משאיות אמזון מאשר עם מוקדי תנור שמחממים את השכן (וגם את חשבון החשמל).",
     "d": "Fri, 03 Apr 2026 19:20:36 +0000",
     "v": 0,
     "l": [
@@ -250,20 +257,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2159544073.jpeg?resize=1200,800",
     "source": "TechCrunch AI"
   },
   {
-    "id": 11,
-    "t": "The Facebook insider building content moderation for the AI era\n\nMoonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
+    "id": 12,
+    "t": "מי שבנה את הניהול התוכן בפייסבוק בונה עכשיו מודרציה לעידן ה-AI\n\nMoonbounce גיסה 12 מיליון דולר לצמיחת ה-AI control engine שלה - כלי שמתרגם מדיניות מודרציה תוכן לתוך התנהגות עקבית וצפויה של AI מודלים. במילים אחרות, זה בעצם פתרון שמחזיק AI בשליטה כשמדובר בפילוג כמה סינוי תוכן הוא צריך לעשות.",
     "d": "Fri, 03 Apr 2026 14:00:15 +0000",
     "v": 0,
     "l": [
@@ -285,8 +289,8 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 12,
-    "t": "OpenAI acquires TBPN, the buzzy founder-led business talk show\n\nTBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+    "id": 13,
+    "t": "OpenAI רוכשת את TBPN, תוכנית הטוק שואו המדוברת של מנהלים\n\nTBPN, הפודקאסט הטכנולוגי החביב על סיליקון ווילי, תמשיך לפעול באופן עצמאי גם לאחר שנכנסה בשליטת OpenAI תחת ה감ונו של כריס להיין. זה עוד אחת מהתנועות של OpenAI לחדור לתחומים חדשים מעבר ל-AI טהור, והפעם זה בעולם תוכן וקונטקס טכנולוגי.",
     "d": "Thu, 02 Apr 2026 19:21:00 +0000",
     "v": 0,
     "l": [
@@ -306,13 +310,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://techcrunch.com/wp-content/uploads/2026/04/Jordi_Hays_and_John_Coogan_on_set_2_1.webp?resize=1200,675",
     "source": "TechCrunch AI"
   },
   {
-    "id": 13,
-    "t": "Microsoft takes on AI rivals with three new foundational models\n\nMAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+    "id": 14,
+    "t": "מיקרוסופט תוקפת את המתחרים בעלות שלוש מודלים AI חדשים\n\nמיקרוסופט השיקה שלוש מודלים בסיסיים חדשים שיכולים להמיר קול לטקסט, ליצור אודיו ותמונות, וזה קרה רק חצי שנה אחרי הקמת קבוצת MAI. בעצם, מיקרוסופט לא נשמרת וממשיכה להזרוק דברים בשוק כדי להישאר קדימה במירוץ ה-AI הקשוח הזה.",
     "d": "Thu, 02 Apr 2026 16:48:16 +0000",
     "v": 0,
     "l": [
@@ -325,20 +329,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2207890426.jpg?resize=1200,800",
     "source": "TechCrunch AI"
   },
   {
-    "id": 14,
-    "t": "Google now lets you direct avatars through prompts in its Vids app\n\nGoogle is adding a way to customize and instruct avatars for video creation in the Vids app.",
+    "id": 15,
+    "t": "גוגל מאפשרת לכם לשלוט בדמויות אווטאר דרך הנחיות טקסט באפליקציית Vids\n\nגוגל הוסיפה תכונה חדשה שמאפשרת לכם להנחות ולהתאים אווטארים בשביל יצירת סרטונים - פשוט תכתבו בטקסט מה אתם רוצים שהדמות תעשה וההנחיה תתורגם לתנועות חיות. זה כבר לא צריך להיות עם מצלמה ואדם אמיתי, אפליקציית Vids של גוגל עושה את כל העבודה בשבילכם. מקור: TechCrunch AI",
     "d": "Thu, 02 Apr 2026 16:00:00 +0000",
     "v": 0,
     "l": [
@@ -351,20 +352,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
     "source": "TechCrunch AI"
   },
   {
-    "id": 15,
-    "t": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident\n\nAnthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+    "id": 16,
+    "t": "Anthropic הסירה אלפי repos מ-GitHub בניסיון למחוק את הקוד המדלף שלה - אך טוענת שזה היה תאונה\n\nאנתרופיק גרמה לקטצטרופה בGitHub כשניסתה להסיר רפוזיטוריז המכילים את הקוד המקור שלה שדלף, אבל במהרה התברר שזה היה פשוט תקלה עצומה. הנהלת החברה הודתה בטעות וביטלה את רוב הודעות ה-DMCA שהגישה. מעניין לראות כיצד גם חברות AI גדולות יכולות לטבוע בתעבורה הדיגיטלית כמו שאר העולם.",
     "d": "Wed, 01 Apr 2026 22:12:13 +0000",
     "v": 0,
     "l": [
@@ -389,8 +387,8 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 16,
-    "t": "Meta’s natural gas binge could power South Dakota\n\nMeta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
+    "id": 17,
+    "t": "הרעב של מטא לגז טבעי יכול להנעת את דרום דקוטה\n\nמטא בונה מרכז נתונים ענק בשם Hyperion שיזדקק להנעה מ-10 תחנות גז טבעי חדשות - זה כמו להקים תחנת כוח ענקית רק בשביל AI. התוהו והבוהו סביב הצריכה החשמלית של מרכזי הנתונים מתחזק, וברור שגם למטא יש סוגיות חמורות לפתור בנושא הקיימות של כל החישובים החדשים הללו.",
     "d": "Wed, 01 Apr 2026 18:35:36 +0000",
     "v": 0,
     "l": [
@@ -403,20 +401,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-462843546.jpg?resize=1200,800",
     "source": "TechCrunch AI"
   },
   {
-    "id": 17,
-    "t": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try\n\nThe firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
+    "id": 18,
+    "t": "Cognichip רוצה ש-AI תעצב את השבבים שמעבירים AI, והעלתה $60M לנסות\n\nהחברה טוענת שהיא יכולה להפחית את עלות פיתוח שבבים בעדיף למעלה מ-75% ולקצר את התאריך בחצי. זה פוטנציאל לשנות משחק בתעשיית ה-AI - במקום שמהנדסים יתכננו שבבים כמו בימי קדם, AI תעשה את הכל בעצמה (וביותר זול בהרבה). טכנולוגיה גם שם מעניינת שמחזירה קרדיט ל-TechCrunch AI.",
     "d": "Wed, 01 Apr 2026 16:00:00 +0000",
     "v": 0,
     "l": [
@@ -438,8 +433,8 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 18,
-    "t": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together\n\nStrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass.",
+    "id": 19,
+    "t": "פחות מחודש: StrictlyVC סן פרנסיסקו מביאה לשולחן אחד מנהיגים מ-TDK Ventures, Replit ועוד\n\nStrictlyVC סן פרנסיסקו עומדת להיות אחד מהאירועים הטק החשובים של האביב, עם מנהיגים מחברות כמו TDK Ventures ו-Replit שיגיעו לשם ב-30 באפריל. אם אתם רוצים להיות שם ולהתחבר עם ה-VCs וההיוקרה של עולם הסטארטאפים, תצטרכו להירשם מהר כי המקומות מוגבלים. המידע המלא ודרך ההרשמה זמינים כאן.",
     "d": "Wed, 01 Apr 2026 14:00:00 +0000",
     "v": 0,
     "l": [
@@ -461,8 +456,8 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 19,
-    "t": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project\n\nThe AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
+    "id": 20,
+    "t": "Mercor נפגעה בהתקפת סייבר הקשורה להפרת פרויקט הקוד פתוח LiteLLM\n\nסטארטאפ ההשמה בתחום ה-AI אישרה תקרית אבטחה אחרי שחבורת האקרים לקחה אחריות על גניבת נתונים ממערכות החברה. במקרה הזה, המתקיפים ניצלו פגיעות בפרויקט LiteLLM הפופולרי בקרב מפתחים כדי להגיע לשרתים של Mercor, והם אפילו איימו להוציא את הנתונים הגנובים אם החברה לא תשלם כופר.",
     "d": "Wed, 01 Apr 2026 01:42:59 +0000",
     "v": 0,
     "l": [
@@ -477,16 +472,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://techcrunch.com/wp-content/uploads/2026/03/mercor-website.jpg?resize=1200,800",
     "source": "TechCrunch AI"
   },
   {
-    "id": 20,
-    "t": "Anthropic is having a month\n\nA human really borks things at Anthropic for the second time this week.",
+    "id": 21,
+    "t": "אנתרופיק עובר חודש כמו שצריך\n\nבשבוע הזה כבר פעמיים אדם כלשהו הצליח להרוס דברים באנתרופיק - נראה שלחברת ה-AI הגדולה יש שבוע די סוער. מקור: TechCrunch AI",
     "d": "Tue, 31 Mar 2026 23:58:26 +0000",
     "v": 0,
     "l": [
@@ -499,12 +493,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1570465901.jpg?w=1024",
