@@ -101,7 +101,7 @@ async function main() {
       // Save after every 5 articles so progress isn't lost on failure
       if (successCount % 5 === 0) saveDb(db);
 
-      await new Promise((r) => setTimeout(r, 300));
+      await new Promise((r) => setTimeout(r, 1000));
     } catch (err) {
       errorCount++;
       console.error(`  ✗ Error on article ${article.id}: ${err.message}`);

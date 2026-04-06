@@ -9,7 +9,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
 const DB_PATH = join(ROOT, 'data', 'articles.json');
 
-const MAX_ARTICLES_PER_SOURCE = 20;
+const FETCH_SINCE = new Date('2026-04-01T00:00:00.000Z');
 
 function loadDb() {
   if (!existsSync(DB_PATH)) return { articles: [] };
@@ -50,9 +50,12 @@ async function fetchSource(source, db) {
   let added = 0;
   let nextId = db.articles.length > 0 ? Math.max(...db.articles.map((a) => a.id)) + 1 : 1;
 
-  for (const item of feed.items.slice(0, MAX_ARTICLES_PER_SOURCE)) {
+  for (const item of feed.items) {
     const link = item.link?.trim();
     if (!link || existingLinks.has(link)) continue;
+
+    const pubDate = item.pubDate || item.isoDate;
+    if (pubDate && new Date(pubDate) < FETCH_SINCE) continue;
 
     let imageUrl =
       item['media:content']?.['$']?.url ||
