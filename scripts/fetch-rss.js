@@ -9,7 +9,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
 const DB_PATH = join(ROOT, 'data', 'articles.json');
 
-const DATE_FILTER_FROM = new Date('2026-04-01T00:00:00Z');
+const HOT_WINDOW_MS = 2 * 60 * 60 * 1000; // 2 hours
 
 function loadDb() {
   if (!existsSync(DB_PATH)) return { articles: [] };
@@ -39,7 +39,7 @@ async function fetchOGImage(url) {
   }
 }
 
-async function fetchSource(source, db) {
+async function fetchSource(source, db, cutoffDate, now) {
   const parser = new Parser({
     customFields: { item: ['media:content', 'media:thumbnail', 'enclosure'] },
   });
@@ -55,7 +55,7 @@ async function fetchSource(source, db) {
     if (!link || existingLinks.has(link)) continue;
 
     const pubDate = new Date(item.pubDate || item.isoDate || 0);
-    if (pubDate < DATE_FILTER_FROM) continue;
+    if (pubDate < cutoffDate) continue;
 
     let imageUrl =
       item['media:content']?.['$']?.url ||
@@ -70,6 +70,9 @@ async function fetchSource(source, db) {
     const rawDesc = item.contentSnippet || item.content || item.summary || '';
     const description_en = rawDesc.replace(/<[^>]+>/g, '').trim().slice(0, 500);
 
+    const ageMs = now - pubDate.getTime();
+    const priority = ageMs < HOT_WINDOW_MS ? 'hot' : 'batch';
+
     const article = {
       id: nextId++,
       source: source.name,
@@ -83,13 +86,15 @@ async function fetchSource(source, db) {
       author: item.creator || item.author || null,
       categories: item.categories || [],
       translated: false,
+      priority,
+      fetchedAt: new Date().toISOString(),
       created_at: new Date().toISOString(),
     };
 
     db.articles.push(article);
     existingLinks.add(link);
     added++;
-    console.log(`  + ${item.title?.slice(0, 70)}`);
+    console.log(`  + [${priority}] ${item.title?.slice(0, 70)}`);
   }
 
   console.log(`  ${source.name}: ${added} new articles`);
@@ -101,17 +106,34 @@ async function main() {
   const enabled = sources.filter((s) => s.enabled);
   const db = loadDb();
 
+  const now = Date.now();
+  const cutoffDate = new Date();
+  cutoffDate.setDate(cutoffDate.getDate() - 30);
+
+  // Re-evaluate priority on existing untranslated articles
+  for (const article of db.articles) {
+    if (!article.translated) {
+      const pubDate = new Date(article.pub_date);
+      const ageMs = now - pubDate.getTime();
+      article.priority = ageMs < HOT_WINDOW_MS ? 'hot' : 'batch';
+    }
+  }
+
   let total = 0;
   for (const source of enabled) {
     try {
-      total += await fetchSource(source, db);
+      total += await fetchSource(source, db, cutoffDate, now);
     } catch (err) {
       console.error(`Error fetching ${source.name}:`, err.message);
     }
   }
 
   saveDb(db);
-  console.log(`\nDone. Total new articles: ${total}. Total in DB: ${db.articles.length}`);
+
+  const hot = db.articles.filter((a) => !a.translated && a.priority === 'hot').length;
+  const batch = db.articles.filter((a) => !a.translated && a.priority === 'batch').length;
+  console.log(`\nDone. New articles: ${total}. Total in DB: ${db.articles.length}`);
+  console.log(`Untranslated — hot: ${hot}, batch: ${batch}`);
 }
 
 main().catch((err) => {

@@ -14,6 +14,12 @@ if (!process.env.ANTHROPIC_API_KEY) {
   process.exit(1);
 }
 
+const mode = process.argv.includes('--mode=batch') ? 'batch' : 'realtime';
+const MAX_PER_RUN = mode === 'batch' ? 30 : 999;
+const DELAY_MS = mode === 'batch' ? 1000 : 200;
+
+console.log(`Mode: ${mode} (max: ${MAX_PER_RUN}, delay: ${DELAY_MS}ms)`);
+
 function loadDb() {
   if (!existsSync(DB_PATH)) return { articles: [] };
   try { return JSON.parse(readFileSync(DB_PATH, 'utf8')); } catch { return { articles: [] }; }
@@ -22,8 +28,6 @@ function loadDb() {
 function saveDb(db) {
   writeFileSync(DB_PATH, JSON.stringify(db, null, 2), 'utf8');
 }
-
-const MAX_TRANSLATIONS_PER_RUN = 30;
 
 const client = new Anthropic();
 
@@ -66,16 +70,20 @@ Respond with ONLY this JSON (no markdown, no code blocks):
 
 async function main() {
   const db = loadDb();
-  const allUntranslated = db.articles.filter((a) => !a.translated);
-  const untranslated = allUntranslated.slice(0, MAX_TRANSLATIONS_PER_RUN);
+
+  const candidates = mode === 'realtime'
+    ? db.articles.filter((a) => !a.translated && a.priority === 'hot')
+    : db.articles.filter((a) => !a.translated && a.priority !== 'hot');
+
+  const toTranslate = candidates.slice(0, MAX_PER_RUN);
 
   console.log(`Total articles: ${db.articles.length}`);
-  console.log(`Untranslated: ${allUntranslated.length}`);
-  if (allUntranslated.length > MAX_TRANSLATIONS_PER_RUN) {
-    console.log(`Capping this run to ${MAX_TRANSLATIONS_PER_RUN} (${allUntranslated.length - MAX_TRANSLATIONS_PER_RUN} will be picked up next run)`);
+  console.log(`Candidates (${mode}): ${candidates.length}`);
+  if (candidates.length > MAX_PER_RUN) {
+    console.log(`Capping to ${MAX_PER_RUN} (${candidates.length - MAX_PER_RUN} deferred)`);
   }
 
-  if (untranslated.length === 0) {
+  if (toTranslate.length === 0) {
     console.log('Nothing to translate.');
     return;
   }
@@ -83,9 +91,9 @@ async function main() {
   let successCount = 0;
   let errorCount = 0;
 
-  for (const article of untranslated) {
+  for (const article of toTranslate) {
     try {
-      console.log(`[${successCount + errorCount + 1}/${untranslated.length}/${allUntranslated.length} total] Translating: ${article.title_en?.slice(0, 60)}...`);
+      console.log(`[${successCount + errorCount + 1}/${toTranslate.length}] Translating: ${article.title_en?.slice(0, 60)}...`);
       const { title_he, description_he } = await translateArticle(article);
 
       const idx = db.articles.findIndex((a) => a.id === article.id);
@@ -101,7 +109,7 @@ async function main() {
       // Save after every 5 articles so progress isn't lost on failure
       if (successCount % 5 === 0) saveDb(db);
 
-      await new Promise((r) => setTimeout(r, 1000));
+      await new Promise((r) => setTimeout(r, DELAY_MS));
     } catch (err) {
       errorCount++;
       console.error(`  ✗ Error on article ${article.id}: ${err.message}`);

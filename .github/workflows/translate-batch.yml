@@ -1,8 +1,8 @@
-name: Translate & Build
+name: Batch Translate
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -28,8 +28,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Translate articles
-        run: node scripts/translate.js
+      - name: Translate batch articles
+        run: node scripts/translate.js --mode=batch
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
