@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TechNewsHub - חדשות AI בעברית</title>
+  <meta name="description" content="חדשות בינה מלאכותית בעברית - עדכונים שוטפים מעולם ה-AI" />
+  <style>
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d27;
+      --surface2: #232636;
+      --border: #2e3248;
+      --accent: #6c63ff;
+      --accent2: #ff6584;
+      --text: #e8eaf6;
+      --text-muted: #8b90b0;
+      --tag-bg: #2a2d42;
+      --high: #ff6b6b;
+      --medium: #ffd166;
+      --low: #06d6a0;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      direction: rtl;
+    }
+
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 16px 24px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .logo {
+      font-size: 1.4rem;
+      font-weight: 700;
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .header-subtitle {
+      color: var(--text-muted);
+      font-size: 0.85rem;
+    }
+
+    .header-right {
+      margin-right: auto;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    #article-count {
+      background: var(--tag-bg);
+      color: var(--text-muted);
+      padding: 4px 10px;
+      border-radius: 20px;
+      font-size: 0.8rem;
+    }
+
+    .filters {
+      padding: 16px 24px;
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      border-bottom: 1px solid var(--border);
+      background: var(--surface);
+    }
+
+    .filter-btn {
+      padding: 6px 14px;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 0.82rem;
+      transition: all 0.15s;
+    }
+
+    .filter-btn:hover, .filter-btn.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    #search-input {
+      padding: 6px 14px;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      background: var(--surface2);
+      color: var(--text);
+      font-size: 0.82rem;
+      width: 180px;
+      outline: none;
+      direction: rtl;
+    }
+
+    #search-input::placeholder { color: var(--text-muted); }
+
+    main {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 24px;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 20px;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.15s, border-color 0.15s;
+    }
+
+    .card:hover {
+      transform: translateY(-2px);
+      border-color: var(--accent);
+    }
+
+    .card-image {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+      background: var(--surface2);
+    }
+
+    .card-image-placeholder {
+      width: 100%;
+      height: 180px;
+      background: linear-gradient(135deg, var(--surface2), var(--tag-bg));
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2.5rem;
+    }
+
+    .card-body {
+      padding: 16px;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .card-meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+
+    .source-badge {
+      padding: 2px 8px;
+      border-radius: 4px;
+      background: var(--tag-bg);
+      font-weight: 600;
+    }
+
+    .imp-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+    .imp-high { background: var(--high); }
+    .imp-medium { background: var(--medium); }
+    .imp-low { background: var(--low); }
+
+    .card-title {
+      font-size: 1rem;
+      font-weight: 600;
+      line-height: 1.4;
+      color: var(--text);
+    }
+
+    .card-desc {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      line-height: 1.6;
+      flex: 1;
+    }
+
+    .card-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .tag {
+      padding: 3px 8px;
+      border-radius: 4px;
+      background: var(--tag-bg);
+      font-size: 0.72rem;
+      color: var(--text-muted);
+    }
+
+    .tag.company {
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      background: transparent;
+    }
+
+    .card-footer {
+      padding: 12px 16px;
+      border-top: 1px solid var(--border);
+    }
+
+    .read-more {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--accent);
+      text-decoration: none;
+      font-size: 0.82rem;
+      font-weight: 500;
+    }
+
+    .read-more:hover { text-decoration: underline; }
+
+    .empty-state {
+      grid-column: 1/-1;
+      text-align: center;
+      padding: 80px 20px;
+      color: var(--text-muted);
+    }
+
+    .empty-state h2 { font-size: 1.5rem; margin-bottom: 8px; }
+
+    footer {
+      text-align: center;
+      padding: 24px;
+      color: var(--text-muted);
+      font-size: 0.8rem;
+      border-top: 1px solid var(--border);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div>
+      <div class="logo">TechNewsHub 🤖</div>
+      <div class="header-subtitle">חדשות AI בעברית</div>
+    </div>
+    <div class="header-right">
+      <span id="article-count">טוען...</span>
+    </div>
+  </header>
+
+  <div class="filters">
+    <input type="text" id="search-input" placeholder="חיפוש..." />
+    <button class="filter-btn active" data-filter="all">הכל</button>
+    <button class="filter-btn" data-filter="high">חשוב</button>
+    <button class="filter-btn" data-filter="tc">TechCrunch</button>
+    <button class="filter-btn" data-filter="tg">Telegram</button>
+    <button class="filter-btn" data-filter="openai">OpenAI</button>
+    <button class="filter-btn" data-filter="google">Google</button>
+    <button class="filter-btn" data-filter="meta">Meta</button>
+    <button class="filter-btn" data-filter="agents">Agents</button>
+    <button class="filter-btn" data-filter="funding">Funding</button>
+  </div>
+
+  <main id="feed"></main>
+
+  <footer>
+    עודכן אוטומטית כל 30 דקות | TechNewsHub © 2025
+  </footer>
+
+  <script src="data.js"></script>
+  <script>
+    const feed = document.getElementById('feed');
+    const countEl = document.getElementById('article-count');
+
+    let activeFilter = 'all';
+    let searchQuery = '';
+
+    const EMOJI_MAP = {
+      OpenAI: '🤖', Google: '🔍', Anthropic: '🧠', Meta: '👾',
+      Microsoft: '🪟', Nvidia: '⚡', Apple: '🍎', Amazon: '📦',
+    };
+
+    function parseTitle(text) {
+      if (!text) return { title: '', desc: '' };
+      const lines = text.trim().split('\n\n');
+      return { title: lines[0] || '', desc: lines.slice(1).join('\n\n') };
+    }
+
+    function formatDate(d) {
+      try {
+        return new Intl.DateTimeFormat('he-IL', {
+          day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit',
+        }).format(new Date(d));
+      } catch { return d; }
+    }
+
+    function matchesFilter(item) {
+      if (activeFilter === 'all') return true;
+      if (activeFilter === 'high') return item.imp === 'high';
+      if (activeFilter === 'tc') return (item.source || '').toLowerCase().includes('techcrunch');
+      if (activeFilter === 'tg') return (item.source || '') === 'Telegram' || !item.source;
+      if (activeFilter === 'agents') return item.tags?.includes('agents');
+      if (activeFilter === 'funding') return item.tags?.includes('funding');
+      const co = activeFilter.charAt(0).toUpperCase() + activeFilter.slice(1);
+      return item.co?.some(c => c.toLowerCase() === activeFilter);
+    }
+
+    function matchesSearch(item, q) {
+      if (!q) return true;
+      const text = item.t?.toLowerCase() || '';
+      const co = (item.co || []).join(' ').toLowerCase();
+      const tags = (item.tags || []).join(' ').toLowerCase();
+      return text.includes(q) || co.includes(q) || tags.includes(q);
+    }
+
+    function renderCard(item) {
+      const { title, desc } = parseTitle(item.t);
+      const co = (item.co || [])[0];
+      const emoji = EMOJI_MAP[co] || '📰';
+
+      const imageHtml = item.thumb
+        ? `<img class="card-image" src="${item.thumb}" alt="" loading="lazy" onerror="this.parentNode.innerHTML='<div class=card-image-placeholder>${emoji}</div>'" />`
+        : `<div class="card-image-placeholder">${emoji}</div>`;
+
+      const tags = [
+        ...(item.co || []).map(c => `<span class="tag company">${c}</span>`),
+        ...(item.tags || []).filter(t => t !== 'news').map(t => `<span class="tag">${t}</span>`),
+      ].join('');
+
+      const link = (item.l || [])[0] || '#';
+      const impClass = `imp-${item.imp || 'low'}`;
+      const sourceBadge = item.source ? `<span class="source-badge">${item.source}</span>` : '';
+
+      return `
+        <article class="card">
+          ${imageHtml}
+          <div class="card-body">
+            <div class="card-meta">
+              <span class="imp-dot ${impClass}"></span>
+              ${sourceBadge}
+              <span>${formatDate(item.d)}</span>
+            </div>
+            <div class="card-title">${title}</div>
+            ${desc ? `<div class="card-desc">${desc}</div>` : ''}
+            ${tags ? `<div class="card-tags">${tags}</div>` : ''}
+          </div>
+          <div class="card-footer">
+            <a href="${link}" target="_blank" rel="noopener" class="read-more">קרא עוד ↗</a>
+          </div>
+        </article>`;
+    }
+
+    function render() {
+      const q = searchQuery.toLowerCase();
+      const data = window.TELEGRAM_DATA || [];
+      const filtered = data.filter(item => matchesFilter(item) && matchesSearch(item, q));
+
+      countEl.textContent = `${filtered.length} מתוך ${data.length} פריטים`;
+
+      if (!filtered.length) {
+        feed.innerHTML = `<div class="empty-state"><h2>אין תוצאות</h2><p>נסה לשנות את הסינון</p></div>`;
+        return;
+      }
+
+      feed.innerHTML = filtered.map(renderCard).join('');
+    }
+
+    // Filter buttons
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeFilter = btn.dataset.filter;
+        render();
+      });
+    });
+
+    // Search
+    document.getElementById('search-input').addEventListener('input', e => {
+      searchQuery = e.target.value;
+      render();
+    });
+
+    render();
+  </script>
+</body>
+</html>
