@@ -23,6 +23,8 @@ function saveDb(db) {
   writeFileSync(DB_PATH, JSON.stringify(db, null, 2), 'utf8');
 }
 
+const MAX_TRANSLATIONS_PER_RUN = 30;
+
 const client = new Anthropic();
 
 const SYSTEM_PROMPT = `You are a Hebrew tech news writer for a popular Israeli AI news channel.
@@ -64,10 +66,14 @@ Respond with ONLY this JSON (no markdown, no code blocks):
 
 async function main() {
   const db = loadDb();
-  const untranslated = db.articles.filter((a) => !a.translated);
+  const allUntranslated = db.articles.filter((a) => !a.translated);
+  const untranslated = allUntranslated.slice(0, MAX_TRANSLATIONS_PER_RUN);
 
   console.log(`Total articles: ${db.articles.length}`);
-  console.log(`Untranslated: ${untranslated.length}`);
+  console.log(`Untranslated: ${allUntranslated.length}`);
+  if (allUntranslated.length > MAX_TRANSLATIONS_PER_RUN) {
+    console.log(`Capping this run to ${MAX_TRANSLATIONS_PER_RUN} (${allUntranslated.length - MAX_TRANSLATIONS_PER_RUN} will be picked up next run)`);
+  }
 
   if (untranslated.length === 0) {
     console.log('Nothing to translate.');
@@ -79,7 +85,7 @@ async function main() {
 
   for (const article of untranslated) {
     try {
-      console.log(`[${successCount + errorCount + 1}/${untranslated.length}] Translating: ${article.title_en?.slice(0, 60)}...`);
+      console.log(`[${successCount + errorCount + 1}/${untranslated.length}/${allUntranslated.length} total] Translating: ${article.title_en?.slice(0, 60)}...`);
       const { title_he, description_he } = await translateArticle(article);
 
       const idx = db.articles.findIndex((a) => a.id === article.id);
