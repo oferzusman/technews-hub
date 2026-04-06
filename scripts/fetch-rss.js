@@ -9,6 +9,8 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
 const DB_PATH = join(ROOT, 'data', 'articles.json');
 
+const MAX_ARTICLES_PER_SOURCE = 20;
+
 function loadDb() {
   if (!existsSync(DB_PATH)) return { articles: [] };
   try { return JSON.parse(readFileSync(DB_PATH, 'utf8')); } catch { return { articles: [] }; }
@@ -48,7 +50,7 @@ async function fetchSource(source, db) {
   let added = 0;
   let nextId = db.articles.length > 0 ? Math.max(...db.articles.map((a) => a.id)) + 1 : 1;
 
-  for (const item of feed.items) {
+  for (const item of feed.items.slice(0, MAX_ARTICLES_PER_SOURCE)) {
     const link = item.link?.trim();
     if (!link || existingLinks.has(link)) continue;
 
