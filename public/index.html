@@ -468,8 +468,6 @@
       <div class="sidebar-title">מקור</div>
       <div class="filter-chips" id="filter-source">
         <span class="filter-chip chip chip-release active" data-val="all">הכל</span>
-        <span class="filter-chip" style="background:#dcfce7;color:#15803d" data-val="TechCrunch">TechCrunch</span>
-        <span class="filter-chip" style="background:#dbeafe;color:#1d4ed8" data-val="Telegram">Telegram</span>
       </div>
     </div>
 
@@ -662,11 +660,7 @@ function getFiltered() {
   const q = search.toLowerCase();
 
   data = data.filter(item => {
-    if (filters.source !== 'all') {
-      const src = (item.source || '').toLowerCase();
-      if (filters.source === 'Telegram' && src !== 'telegram') return false;
-      if (filters.source === 'TechCrunch' && !src.includes('techcrunch')) return false;
-    }
+    if (filters.source !== 'all' && item.source !== filters.source) return false;
     if (filters.imp !== 'all' && item.imp !== filters.imp) return false;
     if (filters.co  !== 'all' && !(item.co || []).some(c => c === filters.co)) return false;
     if (filters.tag !== 'all' && !(item.tags || []).includes(filters.tag)) return false;
@@ -921,7 +915,33 @@ function escAttr(s) {
   return String(s||'').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
 }
 
+/* ─── Dynamic source chips ─────────────────────────────── */
+const SOURCE_COLORS = [
+  ['#dcfce7','#15803d'], ['#dbeafe','#1d4ed8'], ['#ede9fe','#6d28d9'],
+  ['#fce7f3','#be185d'], ['#ffedd5','#c2410c'], ['#cffafe','#0e7490'],
+  ['#fef9c3','#854d0e'], ['#d1fae5','#065f46'], ['#fee2e2','#b91c1c'],
+  ['#e0e7ff','#3730a3'], ['#f3e8ff','#7e22ce'], ['#ecfccb','#3f6212'],
+  ['#fff7ed','#9a3412'], ['#f0fdf4','#166534'], ['#eff6ff','#1e40af'],
+];
+
+function buildSourceChips() {
+  const sources = [...new Set((window.TELEGRAM_DATA || []).map(a => a.source).filter(Boolean))].sort();
+  const container = document.getElementById('filter-source');
+  // Keep the "הכל" chip, remove any previously generated ones
+  container.querySelectorAll('.filter-chip:not([data-val="all"])').forEach(c => c.remove());
+  sources.forEach((name, i) => {
+    const [bg, fg] = SOURCE_COLORS[i % SOURCE_COLORS.length];
+    const chip = document.createElement('span');
+    chip.className = 'filter-chip';
+    chip.style.cssText = `background:${bg};color:${fg}`;
+    chip.dataset.val = name;
+    chip.textContent = name;
+    container.appendChild(chip);
+  });
+}
+
 /* ─── Init ─────────────────────────────────────────────── */
+buildSourceChips();
 renderFeed();
 </script>
 </body>
