@@ -15,9 +15,9 @@ if (!process.env.ANTHROPIC_API_KEY) {
 }
 
 const mode = process.argv.includes('--mode=batch') ? 'batch' : 'realtime';
-const MAX_PER_RUN = mode === 'batch' ? 30 : 999;
-const DELAY_MS = mode === 'batch' ? 1000 : 200;
-const MAX_RUNTIME = 300000; // 5 minutes
+const MAX_PER_RUN = mode === 'batch' ? 50 : 999;
+const DELAY_MS = mode === 'batch' ? 500 : 200;
+const MAX_RUNTIME = 480000; // 8 minutes
 
 console.log(`Mode: ${mode} (max: ${MAX_PER_RUN}, delay: ${DELAY_MS}ms)`);
 
