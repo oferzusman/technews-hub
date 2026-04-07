@@ -419,6 +419,54 @@
     @media (max-width: 520px) {
       #feed { grid-template-columns: 1fr; }
     }
+    /* ── Disclaimer Modal ─────────────────────────────────── */
+    #disclaimer-overlay {
+      position: fixed; inset: 0; z-index: 9999;
+      background: rgba(0,0,0,.55); backdrop-filter: blur(3px);
+      display: flex; align-items: center; justify-content: center;
+      padding: 20px;
+      opacity: 0; animation: fadeIn .3s ease forwards;
+    }
+    #disclaimer-overlay.hidden { display: none; }
+    @keyframes fadeIn { to { opacity: 1; } }
+
+    #disclaimer-card {
+      background: var(--surface); border-radius: 20px;
+      box-shadow: var(--shadow-lg);
+      max-width: 520px; width: 100%; padding: 36px 32px 28px;
+      text-align: right; direction: rtl;
+      transform: translateY(12px); animation: slideUp .3s ease forwards;
+    }
+    @keyframes slideUp { to { transform: translateY(0); } }
+
+    #disclaimer-card h2 {
+      font-family: 'Rubik', sans-serif; font-size: 1.25rem; font-weight: 700;
+      color: var(--text); margin-bottom: 18px;
+      display: flex; align-items: center; gap: 10px;
+    }
+    #disclaimer-card h2::before {
+      content: '⚠️'; font-size: 1.1rem;
+    }
+    #disclaimer-card p {
+      font-size: .88rem; line-height: 1.75; color: var(--text-muted);
+      margin-bottom: 12px;
+    }
+    #disclaimer-card p:last-of-type { margin-bottom: 24px; }
+    #disclaimer-btn {
+      width: 100%; padding: 13px 20px;
+      background: var(--accent); color: #fff;
+      border-radius: 10px; font-size: .95rem; font-weight: 600;
+      font-family: 'Rubik', sans-serif;
+      transition: background .15s;
+    }
+    #disclaimer-btn:hover { background: #4f46e5; }
+
+    .disclaimer-link {
+      color: var(--text-light); text-decoration: underline;
+      cursor: pointer; background: none; border: none;
+      font: inherit; font-size: .78rem;
+    }
+    .disclaimer-link:hover { color: var(--text-muted); }
   </style>
 </head>
 <body>
@@ -549,7 +597,19 @@
 
 </div>
 
-<footer>עודכן אוטומטית כל 30 דקות | TechNewsHub © 2025</footer>
+<!-- ── Disclaimer Modal ──────────────────────────────────────── -->
+<div id="disclaimer-overlay" class="hidden" role="dialog" aria-modal="true" aria-labelledby="disclaimer-title">
+  <div id="disclaimer-card">
+    <h2 id="disclaimer-title">הצהרה / Disclaimer</h2>
+    <p>אתר זה הינו אתר ניסיוני בשלבי פיתוח ובדיקות בלבד.</p>
+    <p>התכנים המוצגים באתר מגיעים ממקורות חיצוניים שונים, מתורגמים באופן אוטומטי ומוצגים לצרכי מחקר ופיתוח בלבד. אין להתייחס לתכנים כתחליף למקור המקורי.</p>
+    <p>כל הזכויות על התכנים המקוריים שייכות לבעליהם. לכל מאמר מצורף קישור למקור המקורי. אם אתם בעלי זכויות ומעוניינים בהסרת תוכן, אנא פנו אלינו.</p>
+    <p>אתר זה אינו מהווה מקור מידע רשמי ואינו מיועד לשימוש מסחרי.</p>
+    <button id="disclaimer-btn" onclick="closeDisclaimer()">הבנתי, המשך לאתר</button>
+  </div>
+</div>
+
+<footer>עודכן אוטומטית כל 30 דקות | TechNewsHub © 2025 | <button class="disclaimer-link" onclick="openDisclaimer()">הצהרת אחריות</button></footer>
 
 <!-- ── Modal ───────────────────────────────────────────────── -->
 <div id="modal-overlay" onclick="handleOverlayClick(event)">
@@ -938,6 +998,22 @@ function buildSourceChips() {
     chip.textContent = name;
     container.appendChild(chip);
   });
+}
+
+/* ─── Disclaimer ────────────────────────────────────────── */
+function openDisclaimer() {
+  const el = document.getElementById('disclaimer-overlay');
+  el.classList.remove('hidden');
+  document.body.style.overflow = 'hidden';
+}
+function closeDisclaimer() {
+  document.getElementById('disclaimer-overlay').classList.add('hidden');
+  document.body.style.overflow = '';
+  sessionStorage.setItem('disclaimer-seen', '1');
+}
+
+if (!sessionStorage.getItem('disclaimer-seen')) {
+  openDisclaimer();
 }
 
 /* ─── Init ─────────────────────────────────────────────── */
