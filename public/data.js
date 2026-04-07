@@ -4588,7 +4588,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 189,
-    "t": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation\n\nAn overview of SpeciesNet, our open-source AI model that is helping people around the world protect and conserve wildlife.",
+    "t": "SpeciesNet: מודל AI קוד פתוח שהופך את שמירת הטבע לנגישה לכולם\n\nגוגל הוציאה לאור את SpeciesNet, מודל AI חדש בקוד פתוח שמאפשר לכל אחד להכיר ולהגן על בעלי חיים ברחבי העולם. המודל הזה יכול לזהות מינים שונים בתמונות, דבר שמעזר לשומרים ודורשים על הטבע לעקוב אחר אוכלוסיות בעלי חיים בצורה הרבה יותר יעילה וזולה. זה עוד דוגמה למצב שבו AI מעשי תורם ישירות להגנה על הביודיוורסיטי של כוכב הארץ. | מקור: Google AI Blog",
     "d": "Fri, 06 Mar 2026 18:00:00 +0000",
     "v": 0,
     "l": [
@@ -4601,9 +4601,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Google"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/specieshero_v2.max-600x600.format-webp.webp",
@@ -4691,7 +4694,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 193,
-    "t": "Ask a Techspert: How does AI understand my visual searches?\n\nLearn more about AI Mode in Search’s query fan-out method for visual search.",
+    "t": "שאל את המומחה: איך AI מבין את החיפושים החזותיים שלי?\n\nרוצים להבין איך Google AI Mode עובד בחיפושים חזותיים? גוגל חושפת את הסוד מאחורי ה-query fan-out method שמאפשרת למנוע החיפוש שלהם להבין תמונות כמו שום דבר אחר - וזה יוצא די מעניין.",
     "d": "Thu, 05 Mar 2026 18:00:00 +0000",
     "v": 0,
     "l": [
@@ -4704,9 +4707,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Google"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fan_out_query_hero.max-600x600.format-webp.webp",
@@ -4714,7 +4720,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 194,
-    "t": "The latest AI news we announced in February\n\nHere are Google’s latest AI updates from February 2026",
+    "t": "חדשות AI העדכניות שהכרזנו בפברואר\n\nגוגל חושפת את העדכונים האחרונים שלה בעולם ה-AI מפברואר 2026, ובכלל זה כלים וטכנולוגיות חדשות שצפויות לשנות את הדרך שבה אנחנו עובדים עם בינה מלאכותית. ההכרזות כוללות שיפורים משמעותיים ביכולות המודלים והפיתוחים החדשים של הענקית הטכנולוגית. מקור: Google AI Blog",
     "d": "Thu, 05 Mar 2026 16:30:00 +0000",
     "v": 0,
     "l": [
@@ -4734,7 +4740,7 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_mPCqgRv.max-600x600.format-webp.webp",
     "source": "Google AI Blog"
   },
@@ -4991,7 +4997,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 205,
-    "t": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.\n\nCanvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools.",
+    "t": "Canvas במצב AI - עכשיו אתה יכול להחיות את הרעיונות שלך ישירות בחיפוש\n\nGoogle משיקה את Canvas in AI Mode לכל המשתמשים בארה\"ב, וזה לא רק עוד כלי AI - אתה יכול להשתמש בו כדי לכתוב מסמכים שלמים או לבנות כלים אינטראקטיביים מהאפס. זה פשוט משנה המשחק לכל מי שרוצה לעבור מרעיון להם לפרויקט אמיתי תוך שניות. מקור: Google AI Blog",
     "d": "Wed, 04 Mar 2026 17:00:00 +0000",
     "v": 0,
     "l": [
@@ -5004,9 +5010,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Google"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMMode_Social.max-600x600.format-webp.webp",
@@ -5089,7 +5098,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 209,
-    "t": "Create new worlds in Project Genie with these 4 tips\n\nLearn more about Google DeepMind’s Project Genie and how to write prompts to create your own worlds.",
+    "t": "יצרו עולמות חדשים ב-Project Genie - 4 טיפים שחייבים לדעת\n\nגוגל DeepMind חשפה את Project Genie, כלי AI מדהים שמאפשר ליצור עולמות וירטואליים שלמים מהאפס. אם אתם חוקרים של עולמות דיגיטליים או סתם סקרנים, הנה 4 טיפים כיצד לכתוב prompts שיביאו לכם בדיוק את העולם שדמיינתם - מ-platformers עתיקים ועד לחלומות מדע בדיוני.",
     "d": "Tue, 03 Mar 2026 17:00:00 +0000",
     "v": 0,
     "l": [
@@ -11617,7 +11626,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 464,
-    "t": "Nemotron-Personas-India: Synthesized Data for Sovereign AI",
+    "t": "Nemotron-Personas-India: נתונים סינתטיים לבינה מלאכותית עצמאית\n\nNVIDIA הציגה את Nemotron-Personas-India, מערכת שיוצרת נתונים סינתטיים באיכות גבוהה בעברית ודגהם הודי, כדי לאפשר לחברות להשתמש ב-AI ללא תלות בשירותים חיצוניים. המטרה היא להגן על הנתונים הרגישים שלהם תוך בניית מודלים AI חזקים וייחודיים לשוק המקומי. זה משנה את הכללים למדינות שרוצות פיתוח AI ריבוני ללא לחץ של צדדים שלישיים.",
     "d": "Mon, 13 Oct 2025 23:00:42 GMT",
     "v": 0,
     "l": [
@@ -11630,9 +11639,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Nvidia"
+    ],
     "tags": [
-      "news"
+      "news",
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nemotron-personas-india.png",
@@ -11666,7 +11678,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 466,
-    "t": "Arm will be @ PyTorch Conference, Join Us!",
+    "t": "Arm תהיה בכנס PyTorch - בואו להצטרף אלינו!\n\nArm מזמינה אתכם להצטרף אליה בכנס PyTorch הקרוב. זו הזדמנות מעולה לשמוע ישירות מהחברה על התפתחויות האחרונות שלהם בעולם ה-AI וה-machine learning, כולל אופטימיזציות עבור מעבדים של Arm. אם אתם משתמשים ב-PyTorch או סתם מעוניינים להישאר עדכניים בנושא, זה המקום להיות.",
     "d": "Fri, 10 Oct 2025 17:35:04 GMT",
     "v": 0,
     "l": [

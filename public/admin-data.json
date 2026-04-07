@@ -1,7 +1,7 @@
 {
   "total": 468,
-  "translated": 457,
-  "untranslated": 11,
+  "translated": 464,
+  "untranslated": 4,
   "today": 287,
   "week": 445,
   "sources": [
@@ -14,7 +14,7 @@
     {
       "name": "Hugging Face Blog",
       "total": 84,
-      "translated": 82,
+      "translated": 84,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google AI Blog",
       "total": 20,
-      "translated": 15,
+      "translated": 20,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
@@ -78,5 +78,5 @@
       "lastDate": "Wed, 07 Jan 2026 20:00:00 GMT"
     }
   ],
-  "generatedAt": "2026-04-07T16:37:10.736Z"
+  "generatedAt": "2026-04-07T17:59:00.458Z"
 }
