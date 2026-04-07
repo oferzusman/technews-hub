@@ -374,7 +374,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "US unlocks cheaper jet fuel with new catalyst that converts ethanol in one step\n\nResearchers in the US have designed a catalyst that could significantly lower the cost of...",
+    "t": "ארה״ב פתחה דרך לדלק סילון זול יותר עם קטליזטור חדש שמומיר אתנול בשלב אחד\n\nחוקרים בארה״ב פיתחו קטליזטור מהפכני שיכול להוזיל משמעותית את עלות דלק הסילון על ידי המרת אתנול ישירות לתערובת דלק תעופה בתהליך חד-שלבי. הטכנולוגיה הזו לא רק משפרת את הכדאיות הכלכלית של דלק חילופי בתעופה, אלא גם מוסיפה חשיבות סביבתית משמעותית על ידי שימוש בחומרי גלם מתחדשים. זה עלול להיות משחק-מחליף בתעשיית התעופה אם הטכנולוגיה תצליח לעבור לייצור בקנה מידה תעשייתי.",
     "d": "Tue, 07 Apr 2026 17:09:00 +0000",
     "v": 0,
     "l": [
@@ -397,7 +397,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "NASA’s Artemis II crew photographs Earthset and rare solar eclipse near Moon flyby\n\nIn a record-breaking deep-space mission, NASA has released a new set of images from the...",
+    "t": "צוות ארטמיס II של נאסא תיעד שקיעת כדור הארץ וליקוי חמה נדיר ליד הירח\n\nנאסא פרסמה תמונות מדהימות מהמשימה ההיסטורית של ארטמיס II, שבה הצוות התפיס את זריחת כדור הארץ וליקוי חמה הטלוסקופי נדיר במהלך ההעוף ליד הירח. התמונות האלה מסמלות רגעים לא מדומים במסע הנושא בני אדם אל הירח, וחושפות את ההדר של החלל העמוק. זה עוד דוגמה לכוח של תיעוד החלל בעידן המודרני של משימות חלל מאנושות.",
     "d": "Tue, 07 Apr 2026 17:07:24 +0000",
     "v": 0,
     "l": [
@@ -420,7 +420,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "Testing suggests Google's AI Overviews tell millions of lies per hour\n\nIs 90 percent accuracy good enough for a search robot?",
+    "t": "בדיקות חושפות: AI Overviews של גוגל משקרות למיליונים בשעה\n\nאז גוגל מזהה שה-AI Overviews שלהם מייצרים תשובות מטורללות בקצב מדהים - המון מידע שגוי שמהפך את חיפוש גוגל לקזינו מידע. השאלה העכרזתית היא: האם 90% דיוק זה בכלל מספיק כשמדברים על עשרות מיליונים של תשובות יומיות? מבחינת מיליוני משתמשים בעולם, זה כמו לומר שיש לך רק 10 אחוז סיכוי שהחיסון לא יעבוד.",
     "d": "Tue, 07 Apr 2026 16:53:55 +0000",
     "v": 0,
     "l": [
@@ -433,13 +433,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Gemini-chat-1152x648.png",
@@ -470,7 +466,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "Uber is the latest to be won over by Amazon’s AI chips\n\nUber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google.",
+    "t": "אובר הצטרפה להמוני החברות שקסומות על ה-AI chips של אמזון\n\nאובר מרחיבה את החוזה שלה עם AWS ומעבירה עוד יותר מהתכונות של שירות הנסיעות להרוץ על ה-chips של אמזון - צעד שמראה ברור לאורקל וגוגל שהן כבר לא הבחורים המדובר. אמזון כנראה עושה די טוב עם ה-AI hardware שלה, וחברות גדולות כמו אובר לא מתנגדות להעביר אליה עוד עומסי עבודה. מקור: TechCrunch AI",
     "d": "Tue, 07 Apr 2026 16:46:59 +0000",
     "v": 0,
     "l": [
@@ -484,12 +480,10 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Google",
       "Amazon"
     ],
     "tags": [
       "news",
-      "model",
       "product"
     ],
     "imp": "low",
@@ -498,7 +492,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "Linux kernel maintainers are following through on removing Intel 486 support\n\nLinux devs think even one second spent on 486 support is a second too many.",
+    "t": "מתחזקי ליניקס באמת עומדים לעקור את התמיכה ב-Intel 486\n\nמפתחי ליניקס החליטו שאפילו שנייה אחת שמוקדשת לתמיכה ב-486 היא שנייה מבוזבזת, והם כבר בתהליך הסרת הקוד הישן הזה מהליבה. בעצם זה מסתבר שלישראל יש אחריות לחדש את החומרה, כי למה בעולם היינו רוצים להישאר עם מעבדים מ-1989?",
     "d": "Tue, 07 Apr 2026 16:39:12 +0000",
     "v": 0,
     "l": [
@@ -521,7 +515,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "Microsoft's Bing team open-sources \"Harrier\" embedding model\n\nMicrosoft's Bing team open-sources Harrier, an embedding model that tops the multilingual MTEB v2 benchmark and supports more than 100 languages.\nThe article Microsoft's Bing team open-sources \"Harrier\" embedding model appeared first on The Decoder.",
+    "t": "צוות Bing של מיקרוסופט משחרר לציבור את מודל ה-Harrier לאימבדינג\n\nמיקרוסופט החליטה לפתוח לציבור את Harrier, מודל embedding חדש שלהם שלא רק שדורג ראשון בבנצ'מארק MTEB v2 הגדול, אלא גם תומך בלא פחות מ-100 שפות שונות. זה כמו שהם אומרים - תוקח את הטכנולוגיה שלנו, בחורים, עשו איתה מה שאתם רוצים. יותר ממודל מתרגם רגיל, Harrier יכול להבין ולעבוד עם טקסט ממש הרבה יותר טוב על פני שפות שונות.",
     "d": "Tue, 07 Apr 2026 16:38:23 +0000",
     "v": 0,
     "l": [
@@ -534,12 +528,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://the-decoder.com/wp-content/uploads/2025/05/microsoft_logo_patterns-1.png",
@@ -571,7 +562,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 24,
-    "t": "Suno and major music labels reportedly clash over AI music sharing\n\nThe AI-powered musicmaker Suno is struggling to reach licensing deals with Universal Music Group and Sony Music Entertainment. That's according to a report from the Financial Times, which says both sides can't agree on whether users should be able to share the AI-generated songs they create.\n\"Universal wants AI-generated tracks to stay inside apps such as Suno and not spread freely across the internet. Suno, however, wants users to be able to share and distribute those songs more widely,\" the Fi",
+    "t": "Suno ותוויות הרקורדים הגדולות בעימות על שיתוף מוזיקה AI\n\nה-startup של יצירת מוזיקה AI, Suno, נתקלה בקיר בפני Universal ו-Sony שלא מסכימות איתה על זכויות השימוש של המשתמשים. Universal דורשת שהשירים שנוצרו ברמה AI יישארו בתוך האפליקציה בלבד, בעוד ש-Suno רוצה לתת לאנשים את החופש לשתף ולהפיץ את הטראקים שיצרו בכל רחבי הרשת. זו בעצם הדיון הגדול הבא בחציית הדרכים בין התעשייה המוזיקלית הקלאסית לעולם ה-AI החדש.",
     "d": "2026-04-07T16:21:22.000Z",
     "v": 0,
     "l": [
@@ -588,13 +579,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "source": "The Verge AI"
   },
   {
     "id": 25,
-    "t": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand\n\nAnthropic bulked up its compute deal with Google and Broadcom as the company has seen its run-rate revenue surge to $30 billion.",
+    "t": "אנתרופיק מגדילה את ההסכם לחישוביות עם גוגל וברודקום עקב ביקוש מתפרץ\n\nאנתרופיק החתימה על עסקת חישוביות מורחבת עם גוגל וברודקום, והחברה חוגגת את קצב ההכנסות שלה שהגיע ל-30 מיליארד דולר שנתיים. זה בעיקרון אומר שהביקוש ל-Claude כל כך גדול שהם צריכים יותר GPU כדי לתמוך בכל המשתמשים החדשים. הנתון הזה מעיד על כך שהתחרות ב-AI בין אנתרופיק לאחרים הולכת להיות מאוד תחרותית בקרוב.",
     "d": "Tue, 07 Apr 2026 16:05:56 +0000",
     "v": 0,
     "l": [
@@ -608,15 +599,15 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Google",
-      "Anthropic"
+      "Anthropic",
+      "Nvidia"
     ],
     "tags": [
       "news",
       "model",
-      "funding"
+      "hardware"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
     "source": "TechCrunch AI"
   },
@@ -673,7 +664,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 28,
-    "t": "Finally, Artemis delivers some exceptional, high-quality photos of the Moon\n\nThe Moon, the Earth, and the Sun; oh what fun!",
+    "t": "סוף סוף! ארטמיס מספקת תמונות מדהימות ברמה גבוהה של הירח\n\nאחרי התקוות והציפיות, משימת ארטמיס סוף סוף משלחת לנו את התמונות המדהימות של הירח שחלמנו עליהן - והתוצאות באמת מרשימות! צילומים באיכות היסטורית שמראים את הירח, כדור הארץ והשמש בכל הדרתם. מקור: Ars Technica",
     "d": "Tue, 07 Apr 2026 15:54:54 +0000",
     "v": 0,
     "l": [
@@ -743,7 +734,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 31,
-    "t": "Intel will help build Elon Musk’s Terafab AI chip factory\n\nElon Musk's Terafab AI chip project in Austin, Texas, is gaining a crucial new partner: Intel.\nOn Tuesday, the American chipmaker announced it was signing on to help design and build the sprawling facility, which would supply AI chips to Musk's two companies, SpaceX (newly merged with xAI) and Tesla. Musk needs AI chips to power his plans to build a \"robot army\" that includes self-driving cars and humanoid robots, as well as for the data centers he plans on launching into space. SpaceX plans on ",
+    "t": "אינטל תעזור לאילון מאסק לבנות מפעל AI ענק בטקסס\n\nאילון מאסק קיבל חברה חדשה וחשובה לפרויקט Terafab - המפעל הענק לייצור שבבי AI בטקסס. אינטל חתמה על הסכם לעזור בתכנון וביצוע המתקן שיספק שבבים ל-xAI ול-Tesla, כדי להנעות את צי הרובוטים של מאסק (כולל מכוניות אוטונומיות) והנתונים בחלל. זו צעד גדול בתחרות ה-AI הגלובלית, שהיא כל כך זמנית בימים אלה.",
     "d": "2026-04-07T15:43:17.000Z",
     "v": 0,
     "l": [
@@ -758,8 +749,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK094_02.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
@@ -790,7 +780,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 33,
-    "t": "Google Maps can now write captions for your photos using AI\n\nGoogle is rolling out new features to make it easier for users to contribute local knowledge to Maps. Most notably, Gemini can now create captions when users are looking to share a photo or video about a place.",
+    "t": "Google Maps מגיעה עם AI שכותב כתוביות לתמונות שלכם\n\nגוגל משדרגת את Maps עם כלים חדשים שמקלים על המשתמשים לשתף ידע מקומי על מקומות. הכיוון החדש - Gemini יכול עכשיו ליצור כתוביות אוטומטיות כשאתם רוצים להעלות תמונה או וידאו של מקום כלשהו, מה שחוסך לכם המון זמן וטרחה בעדכון Maps בתהליך החברתי הזה.",
     "d": "Tue, 07 Apr 2026 15:30:00 +0000",
     "v": 0,
     "l": [
@@ -865,7 +855,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 36,
-    "t": "The Rivian R2 will launch with 335 miles of range\n\nThe test document also shows the effect on range of fitting all-terrain tires.",
+    "t": "רימיאן R2 תשיק עם טווח נסיעה של 335 קילומטר\n\nרימיאן חושפת את הפרטים על ה-R2 החדשה שלה - מכונית חשמלית שתוכל לנסוע כמעט 335 קילומטר בטעינה אחת. במסמך הבדיקות שדלפו, אפשר גם לראות איך הגדלת צמיגים טראקטוריים משפיעה על הטווח הזה - וזה לא משהו שתרצו לשמוע אם אתם רוצים להגיע רחוק.",
     "d": "Tue, 07 Apr 2026 14:54:16 +0000",
     "v": 0,
     "l": [
@@ -888,7 +878,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 37,
-    "t": "Desalination plants in the Middle East are increasingly vulnerable\n\nMIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. As the conflict in Iran has escalated, a crucial resource is under fire: the desalination technology that supplies water across much of the region. In early…",
+    "t": "מתקני התפלת מלח במזרח התיכון חשופים יותר מאי פעם\n\nעם התגברות ההסכסוכים בעמוד התוך של המזרח התיכון, טכנולוגיית התפלת המלח הקריטית שמספקת מים לרוב האזור נמצאת בסכנה ממשית. המתקנים החיוניים הללו, שמהם תלויים מיליוני תושבים, הופכים למטרה פוטנציאלית בסכסוכים גיאופוליטיים - וזה בעיה ענקית שלא מספיק מדברים עליה.",
     "d": "Tue, 07 Apr 2026 14:54:06 +0000",
     "v": 0,
     "l": [
@@ -903,8 +893,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/04/GettyImages-541061312.jpg?resize=1200,600",
@@ -912,7 +901,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 38,
-    "t": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security\n\nExciting times are ahead in the world of enterprise perimeter security with a new partnership between Thrive Logic, an AI agent-driven security and operational intelligence platform, and Asylon, a security robotics company. Together, the companies are to introduce physical AI into the network edge security arena, combining “autonomous perimeter patrols with agentic AI analytics and […]\nThe post Asylon and Thrive Logic bring physical AI to enterprise perimeter security appeared first on AI News.",
+    "t": "Asylon ו-Thrive Logic מביאים AI פיזי לאבטחת ההיקף הארגוני\n\nשיתוף פעולה חדש ומעניין בעולם אבטחת הארגונים: Thrive Logic ו-Asylon מחברים כוחות כדי להכניס physical AI לעולם אבטחת הקצה של הרשתות. התוכנית משלבת זכויות על סיור אוטונומי בהיקף העבודה עם AI analytics מבוסס agents, כדי ליצור שמירה חכמה ופחות תלויה בבנים אדם. זה די משהו שיעשה צעקות בשוק אבטחה הארגוני בקרוב!",
     "d": "Tue, 07 Apr 2026 14:40:42 +0000",
     "v": 0,
     "l": [
@@ -928,11 +917,9 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "robotics",
-      "security",
       "agents"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/physical-ai-security-perimeter-hero-scaled.jpg",
     "source": "AI News"
   },
@@ -1034,7 +1021,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 43,
-    "t": "4 days left to save close to $500 on TechCrunch Disrupt 2026 passes\n\nFour days left to save up to $482 on your TechCrunch Disrupt 2026 ticket. These low rates will disappear on April 10 at 11:59 p.m. PT. Register now.",
+    "t": "נשאר רק 4 ימים לחסוך קרוב ל-500 דולר על כרטיסי TechCrunch Disrupt 2026\n\nאם אתם חושבים להשתתף ב-TechCrunch Disrupt 2026, עכשיו זה הזמן - נותרו רק 4 ימים להשתמש בקוד ההנחה שחוסך לכם עד 482 דולר! המחירים המנוונים האלה יעלמו בדיוק ב-10 באפריל בשעה 23:59 בשעון פסיפיק, אז אם אתם חושבים על זה - אתם צריכים להיות מהירים.",
     "d": "Tue, 07 Apr 2026 14:00:00 +0000",
     "v": 0,
     "l": [
@@ -1057,7 +1044,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 44,
-    "t": "Enabling agent-first process redesign\n\nUnlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute entire workflows autonomously. But unlocking their potential requires redesigning processes around agents rather than bolting them onto fragmented legacy workflows using traditional optimization methods. Companies…",
+    "t": "עיצוב תהליכים מאוריינטציה של AI agents\n\nבניגוד למערכות סטטיות המבוססות על כללים קבועים, AI agents יכולים ללמוד, להסתגל ולייעל תהליכים בזמן אמת. כשהם עובדים עם נתונים, מערכות, אנשים ו-agents אחרים, הם יכולים להריץ workflow שלם באופן עצמאי. אבל כדי להשיג את הפוטנציאל שלהם, חברות צריכות לתכנן תהליכים מסביב לאgenets במקום להדביק אותם לmigrant systems ישנים. MIT Technology Review",
     "d": "Tue, 07 Apr 2026 14:00:00 +0000",
     "v": 0,
     "l": [
@@ -1073,7 +1060,6 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "robotics",
       "agents"
     ],
     "imp": "low",
@@ -1128,7 +1114,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 47,
-    "t": "China’s new sodium battery forms internal firewall to stop fires, survives 572°F test\n\nChinese researchers have just developed a revolutionary sodium battery that can effectively eliminate thermal runaway,...",
+    "t": "הסוללת נתרן החדשה של סין בנויה עם 'חומת אש' פנימית שמעצרת השריפות\n\nחוקרים סינים פיתחו סוללת נתרן מהפכנית שמצליחה לעצור thermal runaway - התופעה שגורמת לסוללות להתפוצץ בטמפרטורות גבוהות. הסוללה החדשה עמדה בהצלחה בבדיקה קיצונית של 300 מעלות צלסיוס (572 פרנהייט) ללא שום בעיה, מה שהופך אותה לחוזקה משמעותית על פני סוללות ליתיום רגילות שאנו משתמשים בהן היום.",
     "d": "Tue, 07 Apr 2026 13:22:41 +0000",
     "v": 0,
     "l": [
@@ -1198,7 +1184,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 50,
-    "t": "World-first multi-orbit satellite inspection planned for 2027 by Japanese firm\n\nOrbital cleanup firm Astroscale has revealed new details regarding its ISSA-J1 mission, which it claims...",
+    "t": "חברה יפנית תבצע משימת בדיקה היסטורית בלוויינים מרובי מסלול ב-2027\n\nAstroscale, חברת הניקיון במרחב, חשפה פרטים חדשים על משימת ISSA-J1 שלה - פרויקט מכ\"ם שיהיה הראשון בעולם לבדוק לוויינים בשתי מסלולים שונים בו-זמנית. המשימה האמביציוזית הזו תעזור ללא ספק לפתור את בעיית הלוויינים המנוטרלים שנתקעו בחלל, וזה צעד ענק בכיוון ניקיון האורביטה הנמוכה של כדור הארץ. \n\nמקור: Interesting Engineering",
     "d": "Tue, 07 Apr 2026 13:13:33 +0000",
     "v": 0,
     "l": [
@@ -1267,7 +1253,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 53,
-    "t": "The AI gold rush is pulling private wealth into riskier, earlier bets\n\nOn a recent episode of Equity, we  talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors into active participants.",
+    "t": "הזהב של AI: עשירים פרטיים משתכנעים להימור על סטארטאפים עם סיכון גבוה\n\nמשפחות עשירות בישראל וברחום העולם לא רוצות עוד להסתפק בתשואות שקטות - הן קופצות ישירות לאקטיביות בעולם ה-AI, תוך עוקפות את קרנות VC המסורתיות. במקום להישען על מנהלי קרנות, family offices הופכות לשחקניות אקטיביות שמנסות להופיע בדרך לעסקאות הגדולות של מחר. זה מסוכן? כן. אבל לכמה אנשים עם כסף הרבה, גם כן נראה זה הדרך היחידה שלא להישאר מאחור בקרב AI.",
     "d": "Tue, 07 Apr 2026 13:00:00 +0000",
     "v": 0,
     "l": [
@@ -1383,7 +1369,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 58,
-    "t": "The Download: AI’s impact on jobs, and data centres in space\n\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The one piece of data that could actually shed light on your job and AI  Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is spoken about as a given. Now even economists who have…",
+    "t": "ההורדה: השפעת ה-AI על מקומות עבודה ומרכזי נתונים בחלל\n\nבפרק היום של ניוזלטר The Download, MIT Technology Review עוסקת בשתי תופעות שמעסיקות את טק וורלד: ראשית, מה בדיוק עושה AI לשוק העבודה - וגם כלכלנים שלא בדיוק הייתם מחכים להם מתחילים להודות שיש משהו בחששות הסיליקון וואלי. שנית, אנחנו צופים בעתיד של server farms - והפעם לא על כדור הארץ, אלא בחלל הרחוק. מעניין לא?",
     "d": "Tue, 07 Apr 2026 12:10:00 +0000",
     "v": 0,
     "l": [
@@ -1483,7 +1469,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 62,
-    "t": "Boomi calls it “data activation” and says it’s the missing step in every AI deployment\n\nThe failure mode for enterprise AI in 2026 is not what most people expected. It is not that the models are wrong, or that agents cannot reason, or that the technology is overhyped. The failure mode is that the data feeding those systems is fragmented, inconsistently labelled, and spread across dozens of applications that were […]\nThe post Boomi calls it “data activation” and says it’s the missing step in every AI deployment appeared first on AI News.",
+    "t": "Boomi קוראת לזה 'הפעלת נתונים' - השלב החסר בכל development של AI\n\nBoomi טוענת שהבעיה האמיתית של AI בארגונים בשנת 2026 לא זה שהמודלים לא טובים או שה-agents לא יודעים לחשוב - זה שהנתונים שמזינים את המערכות האלה פשוט מפוזרים בכל מקום, לא מתויגים בעקביות, ומתוך עשרות אפליקציות שונות שלא מדברות אחת עם השנייה. במילים אחרות: אין לך AI טוב ללא data טוב ומוגדר כמו שצריך.",
     "d": "Tue, 07 Apr 2026 12:00:00 +0000",
     "v": 0,
     "l": [
@@ -1507,7 +1493,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 63,
-    "t": "China actively targeting Taiwan's chip talent and technology, security report says\n\nChina is actively trying to poach Taiwan's semiconductor expertise and talent to circumvent international technology restrictions, according to a report from Taiwan's National Security Bureau cited by Reuters.\nThe article China actively targeting Taiwan's chip talent and technology, security report says appeared first on The Decoder.",
+    "t": "דו\"ח ביטחוני: סין פועלת בפעילות כדי לגנוב כישרונות וטכנולוגיות בתחום השבבים מטייוואן\n\nלפי דו\"ח של הלשכה הלאומית לביטחוני טייוואן שהובא על ידי רויטרס, סין מנהלת מהלך מתוכננן לגויס מהנדסים וכישרונות בתחום התעשייה החצי-מוליכים של טייוואן, במטרה להתחמק מהסנקציות הטכנולוגיות הבינלאומיות. זה לא עוד רד ספארק טייוואני - זו חיסול תחרותי של משהו שיכול להוות כשירותו של פעם על הפלטפורמה הגלובאלית. המדינה הגדולה בכל כך הרבה טלנט בדרכים שנראות לגיטימיות בתוך הסדר הגיאופוליטי החדש.",
     "d": "Tue, 07 Apr 2026 11:56:37 +0000",
     "v": 0,
     "l": [
@@ -1522,16 +1508,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://the-decoder.com/wp-content/uploads/2024/09/ai_chip_china_illustration.png",
     "source": "The Decoder"
   },
   {
     "id": 64,
-    "t": "Bezos' Project Prometheus hires xAI co-founder from OpenAI\n\nJeff Bezos' startup Project Prometheus has hired Kyle Kosic, a co-founder of Elon Musk's xAI who most recently worked at OpenAI, the Financial Times reports.\nThe article Bezos' Project Prometheus hires xAI co-founder from OpenAI appeared first on The Decoder.",
+    "t": "פרויקט Prometheus של בזוס גייס מייסד-שותף מ-xAI שעבד באופנAI\n\nJeff Bezos מקבל למכתו בפרויקט Prometheus את Kyle Kosic, שהיה חלק מהצוות המייסד של xAI של Elon Musk והעבוד לאחרונה באOpenAI. זה עוד הוכחה שהתחרות על כישרונות מובילים בתחום ה-AI היא בעלת חיםן בתוקף - כל השחקנים הגדולים משתלמים ביד כבדה כדי לשכור את האנשים הנכונים.",
     "d": "Tue, 07 Apr 2026 11:46:15 +0000",
     "v": 0,
     "l": [
@@ -1551,13 +1536,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://the-decoder.com/wp-content/uploads/2025/11/Bezos-Prometheus.webp",
     "source": "The Decoder"
   },
   {
     "id": 65,
-    "t": "OpenAI, Anthropic, and Google team up against unauthorized Chinese model copying\n\nOpenAI, Anthropic, and Google have started working together to combat the unauthorized copying of their AI models by Chinese competitors, according to Bloomberg.\nThe article OpenAI, Anthropic, and Google team up against unauthorized Chinese model copying appeared first on The Decoder.",
+    "t": "OpenAI, Anthropic וגוגל מתאגדות נגד העתקת מודלים בלתי מורשית של סיני\n\nשלוש ענקיות הטכנולוגיה החלו לעבוד ביחד כדי להילחם בהעתקות בלתי מורשיות של מודלים של AI שלהן על ידי מתחרים סינים. זה כבר לא רק בעיה פרטית - כשהחברות הגדולות מתאחדות, זה אומר שהבעיה כבר הגיעה לממדים שלא יכול להתעלם מהם. נראה שהמלחמה על עתידו של ה-AI הגיעה לשלב בו גם היריבים מוכנים לשתף פעולה נגד יריב משותף.",
     "d": "Tue, 07 Apr 2026 11:43:19 +0000",
     "v": 0,
     "l": [
@@ -1572,7 +1557,6 @@ window.TELEGRAM_DATA = [
     ],
     "co": [
       "OpenAI",
-      "Google",
       "Anthropic"
     ],
     "tags": [
@@ -1585,7 +1569,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 66,
-    "t": "Meta plans to open-source parts of its new AI models\n\nMeta is planning to release versions of its new AI models as open source, according to Axios.\nThe article Meta plans to open-source parts of its new AI models appeared first on The Decoder.",
+    "t": "מטה מתכננת לפתוח את הקוד של חלקים מהמודלים האי-איי החדשים שלה\n\nמטה עומדת לשחרר גרסאות של המודלים האי-איי החדשים שלה כ-open source, והחבר'ה ב-Meta כמו שצודק להם מחליטים לתת לכולם גישה לחלק מהטכנולוגיה. זה עוד צעד במלחמת הענקים על מי יהיה הרלוונטי בעולם האי-איי - בעוד שחברות אחרות שומרות הכל בחסיון, מטה הולכת בכיוון השונה.",
     "d": "Tue, 07 Apr 2026 11:39:49 +0000",
     "v": 0,
     "l": [
@@ -1688,7 +1672,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 70,
-    "t": "Meta employees compete for token consumption on an internal AI leaderboard\n\nAt Meta, employees compete for titles like \"Token Legend,\" \"Model Connoisseur,\" and \"Cache Wizard\" on an internal leaderboard that ranks AI token consumption. But burning through more tokens doesn't automatically mean getting more done.\nThe article Meta employees compete for token consumption on an internal AI leaderboard appeared first on The Decoder.",
+    "t": "עובדי מטא מתחרים על צריכת tokens בלוח דירוג AI פנימי\n\nבמטא יש תחרות מגניבה בין העובדים על לוח דירוג של צריכת tokens - מי שיותר משתמש בـ AI מקבל titles כמו 'Token Legend' ו'Cache Wizard'. אבל תשומת לב - צריכה גדולה של tokens לא בהכרח אומרת שאתה מסיים יותר עבודה בפועל.",
     "d": "Tue, 07 Apr 2026 10:53:09 +0000",
     "v": 0,
     "l": [
@@ -1701,12 +1685,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://the-decoder.com/wp-content/uploads/2026/03/meta_logo_bright_glitch.png",
@@ -1811,7 +1792,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 75,
-    "t": "Gemini is making it faster for distressed users to reach mental health resources\n\nGoogle says it has updated Gemini to better direct users to get mental health resources during moments of crisis. The change comes as the tech giant faces a wrongful death lawsuit alleging its chatbot \"coached\" a man to die by suicide, the latest in a string of lawsuits alleging tangible harm from AI products.\nWhen a conversation indicates a user is in a potential crisis related to suicide or self-harm, Gemini already launches a \"Help is available\" module that directs users to mental health cris",
+    "t": "Gemini משדרגת את הנגישות למשאבי בריאות נפש למשתמשים במשבר\n\nגוגל הודיעה שעדכנה את Gemini כדי לכוון משתמשים בצורה טובה יותר למשאבי בריאות נפש בזמנים של משבר. החברה הוסיפה מודול 'Help is available' שמופעל כשהצ'אטבוט מזהה סימני סכנה הקשורים להתאבדות או פגיעה עצמית. הצעד הזה מגיע על רקע תביעה של מוות בעלון נגד גוגל, שטוענת שה-AI שלהם 'הדריך' אדם לסיים את חייו - מה שמדגיש את הלחצים הגדלים על יצרנים של AI לטפל בבעיות בטיחות קריטיות.",
     "d": "2026-04-07T10:09:57.000Z",
     "v": 0,
     "l": [
@@ -1825,16 +1806,13 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Google",
-      "Amazon"
+      "Google"
     ],
     "tags": [
       "news",
-      "model",
-      "product",
-      "regulation"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "source": "The Verge AI"
   },
@@ -1863,7 +1841,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 77,
-    "t": "Anthropic’s refusal to arm AI is exactly why the UK wants it\n\nThe Anthropic UK expansion story is less about diplomatic courtship and more about what happens when a government punishes a company for having principles. In late February, US Defence Secretary Pete Hegseth gave Anthropic CEO Dario Amodei a stark ultimatum: remove guardrails preventing Claude from being used for fully autonomous weapons and domestic mass surveillance, […]\nThe post Anthropic’s refusal to arm AI is exactly why the UK wants it appeared first on AI News.",
+    "t": "הסירוב של Anthropic לזיין AI הוא בדיוק למה בריטניה רוצה אותה\n\nAnthropic מסרבת להסיר את ה-guardrails של Claude כדי לשמש לנשקים אוטונומיים ומעקב המוני, וזה בדיוק מה שהפך אותה לכוכב בעיני בריטניה. בזמן שהממשל האמריקני מפעיל לחץ על חברות AI להוריד את ההגבלות האתיות שלהם, הבריטים רואים בחברה שמחזיקה בעקרונות את בחירתם המושכלת. זה עוד דוגמה למתיחות הגדלות בין פוליטיקות AI בארה\"ב לבין המערב.\n\nמקור: AI News",
     "d": "Tue, 07 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -1881,8 +1859,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "robotics"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-12.25.39-PM.png",
@@ -1913,7 +1890,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 79,
-    "t": "Anthropic signs multi-gigawatt TPU deal with Google and Broadcom\n\nAnthropic has signed a deal with Google and Broadcom for multiple gigawatts of TPU computing capacity, set to come online starting in 2027.\nThe article Anthropic signs multi-gigawatt TPU deal with Google and Broadcom appeared first on The Decoder.",
+    "t": "אנתרופיק חתמה על עסקת ענקית עם גוגל וברודקום לקיבולת TPU של מספר ג'יגוואט\n\nאנתרופיק סיגלה לעצמה כוח חישוב ענק - כמה ג'יגוואט של TPU משלוש (גוגל וברודקום) שיהיו זמינים החל מ-2027. הסכם כזה מעיד שחברת ה-AI משקיעה ביג ליאומי בבנייה של תשתיות מענקיות כדי לתמוך בהדרכת מודלים גדולים בעתיד.",
     "d": "Tue, 07 Apr 2026 09:37:58 +0000",
     "v": 0,
     "l": [
@@ -1926,13 +1903,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google",
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://the-decoder.com/wp-content/uploads/2025/10/claude_anthropic_tpu_google.png",
@@ -1963,7 +1936,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 81,
-    "t": "Intel is going all-in on advanced chip packaging\n\nIntel is hoping to cash in on the AI boom.",
+    "t": "אינטל הולכת על הכל בעיצוב שבבים מתקדם\n\nאינטל מנסה לנצל את הבום של ה-AI ולהרוויח מהביקוש ההולך וגדל לשבבים חזקים. החברה מתמקדת בטכנולוגיות packaging מתקדמות שיאפשרו לה לתחרות עם מתחרים כמו NVIDIA בשוק שבבי ה-AI, שזה כרגע הזהב של התעשייה.",
     "d": "Tue, 07 Apr 2026 09:00:03 +0000",
     "v": 0,
     "l": [
@@ -1976,9 +1949,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Nvidia"
+    ],
     "tags": [
-      "news"
+      "news",
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/intelfab-1152x648.jpg",

@@ -1,7 +1,7 @@
 {
   "total": 1035,
-  "translated": 475,
-  "untranslated": 560,
+  "translated": 505,
+  "untranslated": 530,
   "today": 854,
   "week": 1012,
   "sources": [
@@ -56,13 +56,13 @@
     {
       "name": "Ars Technica",
       "total": 34,
-      "translated": 29,
+      "translated": 34,
       "lastDate": "Tue, 07 Apr 2026 18:00:20 +0000"
     },
     {
       "name": "TechCrunch AI",
       "total": 32,
-      "translated": 27,
+      "translated": 32,
       "lastDate": "Wed, 01 Apr 2026 22:12:13 +0000"
     },
     {
@@ -92,25 +92,25 @@
     {
       "name": "The Decoder",
       "total": 19,
-      "translated": 12,
+      "translated": 19,
       "lastDate": "Tue, 07 Apr 2026 18:52:34 +0000"
     },
     {
       "name": "AI News",
       "total": 15,
-      "translated": 12,
+      "translated": 15,
       "lastDate": "Wed, 01 Apr 2026 15:24:01 +0000"
     },
     {
       "name": "The Verge AI",
       "total": 14,
-      "translated": 11,
+      "translated": 14,
       "lastDate": "2026-04-07T18:00:00.000Z"
     },
     {
       "name": "MIT Technology Review",
       "total": 13,
-      "translated": 10,
+      "translated": 13,
       "lastDate": "Wed, 01 Apr 2026 12:10:00 +0000"
     },
     {
@@ -122,7 +122,7 @@
     {
       "name": "Interesting Engineering",
       "total": 10,
-      "translated": 0,
+      "translated": 4,
       "lastDate": "Tue, 07 Apr 2026 18:52:20 +0000"
     },
     {
@@ -624,5 +624,5 @@
       "lastDate": "2026-04-06T17:00:21Z"
     }
   ],
-  "generatedAt": "2026-04-07T19:40:53.780Z"
+  "generatedAt": "2026-04-07T19:58:08.285Z"
 }
