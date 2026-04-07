@@ -709,7 +709,8 @@ function parseTitle(t) {
 function fmtDate(d) {
   try {
     return new Intl.DateTimeFormat('he-IL', {
-      day:'numeric', month:'short', hour:'2-digit', minute:'2-digit'
+      day:'numeric', month:'short', hour:'2-digit', minute:'2-digit',
+      timeZone: 'Asia/Jerusalem'
     }).format(new Date(d));
   } catch { return d; }
 }

@@ -75,7 +75,7 @@
       "name": "Anthropic Blog",
       "url": "https://www.anthropic.com/news/rss",
       "language": "en",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "ai-news",
@@ -108,21 +108,21 @@
     {
       "id": "interesting-engineering",
       "name": "Interesting Engineering",
-      "url": "https://interestingengineering.com/innovation/artificial-intelligence/feed",
+      "url": "https://interestingengineering.com/feed",
       "language": "en",
       "enabled": true
     },
     {
       "id": "reuters-tech",
       "name": "Reuters Tech",
-      "url": "https://www.reuters.com/technology/rss",
+      "url": "https://feeds.reuters.com/reuters/technologyNews",
       "language": "en",
       "enabled": true
     },
     {
       "id": "new-atlas",
       "name": "New Atlas",
-      "url": "https://newatlas.com/feed/",
+      "url": "https://newatlas.com/index.rss",
       "language": "en",
       "enabled": true
     },
@@ -159,7 +159,7 @@
       "name": "Forbes AI",
       "url": "https://www.forbes.com/ai/feed/",
       "language": "en",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "nature-machine-intelligence",
@@ -178,14 +178,14 @@
     {
       "id": "hackernews-ai",
       "name": "Hacker News AI/ML",
-      "url": "https://hnrss.org/newest?q=AI+OR+artificial+intelligence+OR+LLM+OR+ChatGPT+OR+GPT+OR+Claude+OR+machine+learning&points=50",
+      "url": "https://hnrss.org/newest?q=AI+LLM+GPT+Claude&points=50",
       "language": "en",
       "enabled": true
     },
     {
       "id": "hackernews-show-ai",
       "name": "Hacker News Show HN (AI)",
-      "url": "https://hnrss.org/show?q=AI+OR+LLM+OR+GPT",
+      "url": "https://hnrss.org/show?q=AI+LLM+GPT",
       "language": "en",
       "enabled": true
     },
@@ -199,21 +199,21 @@
     {
       "id": "reddit-artificial",
       "name": "Reddit r/artificial",
-      "url": "https://www.reddit.com/r/artificial/.rss",
+      "url": "https://old.reddit.com/r/artificial/.rss",
       "language": "en",
       "enabled": true
     },
     {
       "id": "reddit-localllama",
       "name": "Reddit r/LocalLLaMA",
-      "url": "https://www.reddit.com/r/LocalLLaMA/.rss",
+      "url": "https://old.reddit.com/r/LocalLLaMA/.rss",
       "language": "en",
       "enabled": true
     },
     {
       "id": "reddit-machinelearning",
       "name": "Reddit r/MachineLearning",
-      "url": "https://www.reddit.com/r/MachineLearning/.rss",
+      "url": "https://old.reddit.com/r/MachineLearning/.rss",
       "language": "en",
       "enabled": true
     },
