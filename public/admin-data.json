@@ -1,0 +1,82 @@
+{
+  "total": 190,
+  "translated": 161,
+  "untranslated": 29,
+  "today": 91,
+  "week": 167,
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "total": 27,
+      "translated": 22,
+      "lastDate": "Thu, 02 Apr 2026 20:54:02 +0000"
+    },
+    {
+      "name": "OpenAI Blog",
+      "total": 27,
+      "translated": 27,
+      "lastDate": "Wed, 25 Mar 2026 10:00:00 GMT"
+    },
+    {
+      "name": "TechCrunch AI",
+      "total": 24,
+      "translated": 23,
+      "lastDate": "Wed, 01 Apr 2026 22:12:13 +0000"
+    },
+    {
+      "name": "Towards Data Science",
+      "total": 20,
+      "translated": 0,
+      "lastDate": "Wed, 01 Apr 2026 15:14:00 +0000"
+    },
+    {
+      "name": "Hugging Face Blog",
+      "total": 15,
+      "translated": 15,
+      "lastDate": "Wed, 01 Apr 2026 16:36:15 GMT"
+    },
+    {
+      "name": "Google AI Blog",
+      "total": 15,
+      "translated": 15,
+      "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
+    },
+    {
+      "name": "MarkTechPost",
+      "total": 12,
+      "translated": 11,
+      "lastDate": "Tue, 07 Apr 2026 04:41:59 +0000"
+    },
+    {
+      "name": "AI News",
+      "total": 12,
+      "translated": 10,
+      "lastDate": "Wed, 01 Apr 2026 15:24:01 +0000"
+    },
+    {
+      "name": "The Decoder",
+      "total": 11,
+      "translated": 11,
+      "lastDate": "Sun, 05 Apr 2026 15:11:08 +0000"
+    },
+    {
+      "name": "The Verge AI",
+      "total": 10,
+      "translated": 10,
+      "lastDate": "2026-04-06T15:54:19.000Z"
+    },
+    {
+      "name": "MIT Technology Review",
+      "total": 10,
+      "translated": 10,
+      "lastDate": "Wed, 01 Apr 2026 12:10:00 +0000"
+    },
+    {
+      "name": "VentureBeat AI",
+      "total": 7,
+      "translated": 7,
+      "lastDate": "Wed, 07 Jan 2026 20:00:00 GMT"
+    }
+  ],
+  "generatedAt": "2026-04-07T08:11:16.422Z"
+}

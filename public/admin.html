@@ -1,0 +1,965 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Admin — TechNewsHub</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;600;700;800&family=Noto+Sans+Hebrew:wght@300;400;500;600&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #f0f2f7;
+      --surface: #ffffff;
+      --surface2: #f7f8fc;
+      --border: #e2e5ef;
+      --accent: #6366f1;
+      --accent-light: #eef2ff;
+      --text: #1e2235;
+      --text-muted: #6b7280;
+      --text-light: #9ca3af;
+      --green: #16a34a;
+      --green-bg: #dcfce7;
+      --yellow: #ca8a04;
+      --yellow-bg: #fef9c3;
+      --red: #dc2626;
+      --red-bg: #fee2e2;
+      --blue: #2563eb;
+      --blue-bg: #dbeafe;
+      --shadow: 0 2px 8px rgba(0,0,0,.06);
+      --shadow-md: 0 4px 20px rgba(0,0,0,.10);
+      --radius: 14px;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: 'Noto Sans Hebrew', 'Segoe UI', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      direction: rtl;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a { text-decoration: none; color: inherit; }
+    button { cursor: pointer; font-family: inherit; border: none; background: none; }
+
+    /* ── Header ── */
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 0 28px;
+      height: 60px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      box-shadow: var(--shadow);
+    }
+
+    .logo {
+      font-family: 'Rubik', sans-serif;
+      font-weight: 800;
+      font-size: 1.15rem;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .logo span { color: var(--accent); }
+
+    .header-badge {
+      background: var(--accent-light);
+      color: var(--accent);
+      font-size: .72rem;
+      font-weight: 700;
+      padding: 3px 10px;
+      border-radius: 20px;
+      font-family: 'Rubik', sans-serif;
+    }
+
+    .header-actions { display: flex; align-items: center; gap: 12px; }
+
+    .header-link {
+      font-size: .82rem;
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .header-link:hover { color: var(--accent); }
+
+    /* ── Layout ── */
+    .page {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 28px 20px 60px;
+    }
+
+    .section-title {
+      font-family: 'Rubik', sans-serif;
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 14px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .section-title .dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--accent);
+      display: inline-block;
+    }
+
+    .section { margin-bottom: 32px; }
+
+    /* ── Auth overlay ── */
+    #auth-overlay {
+      position: fixed;
+      inset: 0;
+      z-index: 9999;
+      background: var(--bg);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+
+    #auth-overlay.hidden { display: none; }
+
+    .auth-card {
+      background: var(--surface);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow-md);
+      padding: 40px 36px;
+      max-width: 380px;
+      width: 100%;
+      text-align: center;
+    }
+
+    .auth-card h2 {
+      font-family: 'Rubik', sans-serif;
+      font-size: 1.3rem;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+
+    .auth-card p { color: var(--text-muted); font-size: .88rem; margin-bottom: 24px; }
+
+    .auth-card input {
+      width: 100%;
+      padding: 11px 14px;
+      border: 1.5px solid var(--border);
+      border-radius: 8px;
+      font-size: .95rem;
+      font-family: inherit;
+      margin-bottom: 12px;
+      outline: none;
+      transition: border-color .15s;
+      text-align: center;
+      letter-spacing: 3px;
+    }
+
+    .auth-card input:focus { border-color: var(--accent); }
+
+    .auth-error { color: var(--red); font-size: .82rem; margin-bottom: 10px; min-height: 18px; }
+
+    .btn-primary {
+      width: 100%;
+      padding: 12px;
+      background: var(--accent);
+      color: #fff;
+      border-radius: 8px;
+      font-size: .95rem;
+      font-weight: 600;
+      font-family: 'Rubik', sans-serif;
+      transition: background .15s;
+    }
+
+    .btn-primary:hover { background: #4f46e5; }
+
+    /* ── Stat cards ── */
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+      gap: 14px;
+    }
+
+    .stat-card {
+      background: var(--surface);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 18px 20px;
+    }
+
+    .stat-label {
+      font-size: .75rem;
+      color: var(--text-muted);
+      font-weight: 600;
+      margin-bottom: 6px;
+      text-transform: uppercase;
+      letter-spacing: .5px;
+    }
+
+    .stat-value {
+      font-family: 'Rubik', sans-serif;
+      font-size: 2rem;
+      font-weight: 700;
+      color: var(--text);
+      line-height: 1;
+    }
+
+    .stat-value.accent { color: var(--accent); }
+    .stat-value.green { color: var(--green); }
+    .stat-value.red { color: var(--red); }
+
+    .stat-sub {
+      font-size: .75rem;
+      color: var(--text-light);
+      margin-top: 4px;
+    }
+
+    /* ── Progress bar ── */
+    .progress-card {
+      background: var(--surface);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 18px 20px;
+      grid-column: span 2;
+    }
+
+    .progress-bar-wrap {
+      background: var(--border);
+      border-radius: 20px;
+      height: 10px;
+      margin-top: 10px;
+      overflow: hidden;
+    }
+
+    .progress-bar-fill {
+      height: 100%;
+      border-radius: 20px;
+      background: linear-gradient(90deg, var(--accent), #818cf8);
+      transition: width .6s ease;
+    }
+
+    .progress-pct {
+      font-family: 'Rubik', sans-serif;
+      font-size: 1.8rem;
+      font-weight: 700;
+      color: var(--accent);
+      line-height: 1;
+    }
+
+    /* ── Sources table ── */
+    .table-wrap {
+      background: var(--surface);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: .88rem;
+    }
+
+    thead {
+      background: var(--surface2);
+      border-bottom: 1px solid var(--border);
+    }
+
+    th {
+      padding: 11px 16px;
+      font-weight: 600;
+      color: var(--text-muted);
+      text-align: right;
+      font-size: .78rem;
+      text-transform: uppercase;
+      letter-spacing: .5px;
+    }
+
+    td {
+      padding: 11px 16px;
+      border-bottom: 1px solid var(--border);
+      vertical-align: middle;
+    }
+
+    tr:last-child td { border-bottom: none; }
+    tr:hover td { background: var(--surface2); }
+
+    .status-dot {
+      display: inline-block;
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      margin-left: 6px;
+    }
+
+    .status-dot.green { background: var(--green); }
+    .status-dot.yellow { background: var(--yellow); }
+    .status-dot.red { background: var(--red); }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      padding: 2px 8px;
+      border-radius: 12px;
+      font-size: .75rem;
+      font-weight: 600;
+    }
+
+    .badge-green { background: var(--green-bg); color: var(--green); }
+    .badge-yellow { background: var(--yellow-bg); color: var(--yellow); }
+    .badge-red { background: var(--red-bg); color: var(--red); }
+    .badge-blue { background: var(--blue-bg); color: var(--blue); }
+    .badge-gray { background: var(--border); color: var(--text-muted); }
+
+    /* ── Workflow buttons ── */
+    .workflow-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+    }
+
+    .workflow-btn {
+      background: var(--surface);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 22px 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      transition: box-shadow .15s, transform .1s;
+      cursor: pointer;
+      border: 2px solid transparent;
+      text-align: right;
+    }
+
+    .workflow-btn:hover {
+      box-shadow: var(--shadow-md);
+      transform: translateY(-1px);
+      border-color: var(--accent);
+    }
+
+    .workflow-btn:disabled {
+      opacity: .6;
+      cursor: not-allowed;
+      transform: none;
+    }
+
+    .workflow-icon { font-size: 1.6rem; }
+
+    .workflow-name {
+      font-family: 'Rubik', sans-serif;
+      font-weight: 700;
+      font-size: 1rem;
+      color: var(--text);
+    }
+
+    .workflow-desc { font-size: .8rem; color: var(--text-muted); }
+
+    .workflow-status {
+      font-size: .75rem;
+      font-weight: 600;
+      margin-top: 4px;
+    }
+
+    /* ── Activity log ── */
+    .run-list { display: flex; flex-direction: column; gap: 0; }
+
+    .run-item {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border);
+      font-size: .85rem;
+    }
+
+    .run-item:last-child { border-bottom: none; }
+
+    .run-icon { font-size: 1rem; flex-shrink: 0; }
+
+    .run-info { flex: 1; min-width: 0; }
+
+    .run-name {
+      font-weight: 600;
+      color: var(--text);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .run-meta { font-size: .75rem; color: var(--text-light); margin-top: 2px; }
+
+    .run-duration {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: .75rem;
+      color: var(--text-muted);
+      flex-shrink: 0;
+    }
+
+    /* ── Settings panel ── */
+    .settings-toggle {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: .88rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      padding: 12px 0;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .settings-toggle:hover { color: var(--text); }
+
+    .settings-toggle .chevron { transition: transform .2s; font-style: normal; }
+    .settings-toggle.open .chevron { transform: rotate(180deg); }
+
+    .settings-body {
+      background: var(--surface);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 24px;
+      display: none;
+    }
+
+    .settings-body.open { display: block; }
+
+    .field-group { margin-bottom: 18px; }
+
+    .field-group:last-child { margin-bottom: 0; }
+
+    .field-label {
+      display: block;
+      font-size: .8rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      margin-bottom: 6px;
+    }
+
+    .field-input {
+      width: 100%;
+      padding: 10px 12px;
+      border: 1.5px solid var(--border);
+      border-radius: 8px;
+      font-size: .9rem;
+      font-family: 'JetBrains Mono', monospace;
+      outline: none;
+      transition: border-color .15s;
+      background: var(--surface2);
+      color: var(--text);
+    }
+
+    .field-input:focus { border-color: var(--accent); }
+
+    .field-hint { font-size: .75rem; color: var(--text-light); margin-top: 4px; }
+
+    .btn-save {
+      padding: 9px 20px;
+      background: var(--accent);
+      color: #fff;
+      border-radius: 8px;
+      font-size: .85rem;
+      font-weight: 600;
+      font-family: 'Rubik', sans-serif;
+      transition: background .15s;
+      margin-top: 14px;
+    }
+
+    .btn-save:hover { background: #4f46e5; }
+
+    .save-msg {
+      font-size: .8rem;
+      color: var(--green);
+      margin-top: 8px;
+      min-height: 18px;
+    }
+
+    /* ── Meta info ── */
+    .meta-bar {
+      font-size: .75rem;
+      color: var(--text-light);
+      margin-bottom: 20px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .meta-bar code {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: .72rem;
+      background: var(--surface);
+      padding: 2px 6px;
+      border-radius: 4px;
+      border: 1px solid var(--border);
+    }
+
+    /* ── Loader ── */
+    .spinner {
+      display: inline-block;
+      width: 18px;
+      height: 18px;
+      border: 2px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin .7s linear infinite;
+      vertical-align: middle;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .empty-msg {
+      color: var(--text-light);
+      font-size: .85rem;
+      padding: 20px;
+      text-align: center;
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 640px) {
+      .workflow-grid { grid-template-columns: 1fr; }
+      .stats-grid { grid-template-columns: repeat(2, 1fr); }
+      .progress-card { grid-column: span 2; }
+    }
+
+    @media (max-width: 420px) {
+      .stats-grid { grid-template-columns: 1fr 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── Auth overlay ────────────────────────────────────────────── -->
+<div id="auth-overlay">
+  <div class="auth-card">
+    <h2>🔐 Admin Access</h2>
+    <p>הזן סיסמת מנהל להמשך</p>
+    <input type="password" id="pwd-input" placeholder="••••••••••••" autocomplete="current-password" />
+    <div class="auth-error" id="auth-error"></div>
+    <button class="btn-primary" onclick="attemptLogin()">כניסה</button>
+  </div>
+</div>
+
+<!-- ── Header ─────────────────────────────────────────────────── -->
+<header>
+  <div style="display:flex;align-items:center;gap:12px">
+    <a href="index.html" class="logo">🤖 Tech<span>News</span>Hub</a>
+    <span class="header-badge">Admin</span>
+  </div>
+  <div class="header-actions">
+    <button class="header-link" onclick="refreshAll()" title="רענן נתונים">🔄 רענן</button>
+    <a href="index.html" class="header-link">← חזרה לאתר</a>
+  </div>
+</header>
+
+<!-- ── Page ───────────────────────────────────────────────────── -->
+<div class="page">
+
+  <!-- Meta bar -->
+  <div class="meta-bar">
+    <span>עודכן: <code id="generated-at">—</code></span>
+    <span>מאגר: <code>oferzusman/technews-hub</code></span>
+  </div>
+
+  <!-- ─ Stats ─────────────────────────────────────── -->
+  <div class="section">
+    <div class="section-title"><span class="dot"></span> סטטיסטיקות</div>
+    <div class="stats-grid" id="stats-grid">
+      <div class="stat-card"><div class="stat-label">טוען...</div><div class="stat-value accent">—</div></div>
+    </div>
+  </div>
+
+  <!-- ─ Workflow buttons ──────────────────────────── -->
+  <div class="section">
+    <div class="section-title"><span class="dot"></span> הפעלת Workflows</div>
+    <div class="workflow-grid">
+      <button class="workflow-btn" id="btn-fetch" onclick="triggerWorkflow('fetch.yml', this)">
+        <span class="workflow-icon">📡</span>
+        <span class="workflow-name">הפעל Fetch</span>
+        <span class="workflow-desc">שולף כתבות חדשות מכל ה-RSS sources ומתרגם "חם"</span>
+        <span class="workflow-status" id="fetch-status"></span>
+      </button>
+      <button class="workflow-btn" id="btn-translate" onclick="triggerWorkflow('translate-batch.yml', this)">
+        <span class="workflow-icon">🌐</span>
+        <span class="workflow-name">הפעל תרגום Batch</span>
+        <span class="workflow-desc">מתרגם עד 30 כתבות ממתינות לעברית</span>
+        <span class="workflow-status" id="translate-status"></span>
+      </button>
+    </div>
+    <p style="font-size:.75rem;color:var(--text-light);margin-top:10px;text-align:center">
+      נדרש GitHub Personal Access Token עם הרשאות <code style="font-family:monospace;background:var(--surface);padding:1px 5px;border:1px solid var(--border);border-radius:3px">workflow</code> — הגדר בהגדרות למטה
+    </p>
+  </div>
+
+  <!-- ─ Sources table ─────────────────────────────── -->
+  <div class="section">
+    <div class="section-title"><span class="dot"></span> מקורות RSS</div>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>מקור</th>
+            <th>סה"כ כתבות</th>
+            <th>מתורגם</th>
+            <th>ממתין</th>
+            <th>כתבה אחרונה</th>
+            <th>סטטוס</th>
+          </tr>
+        </thead>
+        <tbody id="sources-tbody">
+          <tr><td colspan="6" class="empty-msg"><span class="spinner"></span> טוען...</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- ─ Activity log ──────────────────────────────── -->
+  <div class="section">
+    <div class="section-title"><span class="dot"></span> פעילות GitHub Actions אחרונה</div>
+    <div class="table-wrap">
+      <div id="runs-list" class="run-list">
+        <div class="empty-msg"><span class="spinner"></span> טוען...</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ─ Settings ──────────────────────────────────── -->
+  <div class="section">
+    <div class="settings-toggle" id="settings-toggle" onclick="toggleSettings()">
+      <span class="chevron" id="settings-chevron">▼</span>
+      ⚙️ הגדרות
+    </div>
+    <div class="settings-body" id="settings-body">
+      <div class="field-group">
+        <label class="field-label">GitHub Personal Access Token (PAT)</label>
+        <input type="password" class="field-input" id="pat-input" placeholder="ghp_..." />
+        <div class="field-hint">נדרש scope: workflow. הטוקן נשמר ב-localStorage של הדפדפן בלבד.</div>
+      </div>
+      <div class="field-group">
+        <label class="field-label">שינוי סיסמת Admin</label>
+        <input type="password" class="field-input" id="new-pwd-input" placeholder="סיסמה חדשה" />
+        <div class="field-hint">ברירת מחדל: technews2026</div>
+      </div>
+      <button class="btn-save" onclick="saveSettings()">שמור הגדרות</button>
+      <div class="save-msg" id="save-msg"></div>
+    </div>
+  </div>
+
+</div><!-- /page -->
+
+<script>
+/* ─── Constants ──────────────────────────────────────────────── */
+const REPO = 'oferzusman/technews-hub';
+const DEFAULT_PASSWORD = 'technews2026';
+const LS_KEY_PWD   = 'admin_pwd';
+const LS_KEY_PAT   = 'admin_pat';
+const LS_KEY_AUTHED = 'admin_authed';
+
+/* ─── Auth ───────────────────────────────────────────────────── */
+function getStoredPwd() {
+  return localStorage.getItem(LS_KEY_PWD) || DEFAULT_PASSWORD;
+}
+
+function attemptLogin() {
+  const val = document.getElementById('pwd-input').value;
+  if (val === getStoredPwd()) {
+    sessionStorage.setItem(LS_KEY_AUTHED, '1');
+    document.getElementById('auth-overlay').classList.add('hidden');
+    init();
+  } else {
+    document.getElementById('auth-error').textContent = 'סיסמה שגויה. נסה שוב.';
+  }
+}
+
+document.getElementById('pwd-input').addEventListener('keydown', (e) => {
+  if (e.key === 'Enter') attemptLogin();
+});
+
+if (sessionStorage.getItem(LS_KEY_AUTHED)) {
+  document.getElementById('auth-overlay').classList.add('hidden');
+  document.addEventListener('DOMContentLoaded', init);
+}
+
+/* ─── Settings ───────────────────────────────────────────────── */
+function toggleSettings() {
+  const body = document.getElementById('settings-body');
+  const toggle = document.getElementById('settings-toggle');
+  const open = body.classList.toggle('open');
+  toggle.classList.toggle('open', open);
+  document.getElementById('settings-chevron').textContent = open ? '▲' : '▼';
+  if (open) {
+    document.getElementById('pat-input').value = localStorage.getItem(LS_KEY_PAT) || '';
+  }
+}
+
+function saveSettings() {
+  const pat = document.getElementById('pat-input').value.trim();
+  const newPwd = document.getElementById('new-pwd-input').value.trim();
+  if (pat) localStorage.setItem(LS_KEY_PAT, pat);
+  if (newPwd) localStorage.setItem(LS_KEY_PWD, newPwd);
+  const msg = document.getElementById('save-msg');
+  msg.textContent = '✓ הגדרות נשמרו בהצלחה';
+  setTimeout(() => msg.textContent = '', 3000);
+}
+
+/* ─── Data loading ───────────────────────────────────────────── */
+async function loadAdminData() {
+  try {
+    const res = await fetch('admin-data.json?t=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    return await res.json();
+  } catch {
+    return null;
+  }
+}
+
+/* ─── Stats rendering ────────────────────────────────────────── */
+function renderStats(data) {
+  if (!data) {
+    document.getElementById('stats-grid').innerHTML = '<div class="stat-card"><div class="stat-label">שגיאה</div><div class="stat-value red">!</div><div class="stat-sub">לא ניתן לטעון admin-data.json</div></div>';
+    return;
+  }
+
+  const pct = data.total > 0 ? Math.round(data.translated / data.total * 100) : 0;
+  document.getElementById('generated-at').textContent = data.generatedAt
+    ? new Date(data.generatedAt).toLocaleString('he-IL')
+    : '—';
+
+  document.getElementById('stats-grid').innerHTML = `
+    <div class="stat-card">
+      <div class="stat-label">סה"כ כתבות</div>
+      <div class="stat-value accent">${data.total}</div>
+      <div class="stat-sub">במאגר</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">מתורגמות</div>
+      <div class="stat-value green">${data.translated}</div>
+      <div class="stat-sub">בעברית</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">ממתינות לתרגום</div>
+      <div class="stat-value ${data.untranslated > 0 ? 'red' : 'green'}">${data.untranslated}</div>
+      <div class="stat-sub">pending</div>
+    </div>
+    <div class="progress-card">
+      <div class="stat-label">אחוז תרגום</div>
+      <div class="progress-pct">${pct}%</div>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar-fill" style="width:${pct}%"></div>
+      </div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">כתבות היום</div>
+      <div class="stat-value">${data.today}</div>
+      <div class="stat-sub">נוספו היום</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">כתבות השבוע</div>
+      <div class="stat-value">${data.week}</div>
+      <div class="stat-sub">7 ימים אחרונים</div>
+    </div>
+  `;
+}
+
+/* ─── Sources table ──────────────────────────────────────────── */
+function renderSources(data) {
+  if (!data || !data.sources || data.sources.length === 0) {
+    document.getElementById('sources-tbody').innerHTML = '<tr><td colspan="6" class="empty-msg">אין נתונים</td></tr>';
+    return;
+  }
+
+  const now = Date.now();
+  const STALE_MS = 3 * 24 * 60 * 60 * 1000; // 3 days
+
+  const rows = data.sources.map((s) => {
+    const untrans = s.total - s.translated;
+    const lastDate = s.lastDate ? new Date(s.lastDate) : null;
+    const ageMs = lastDate ? now - lastDate.getTime() : Infinity;
+    const isRecent = ageMs < STALE_MS;
+    const isStale = ageMs >= STALE_MS && ageMs < STALE_MS * 3;
+
+    let statusDot, statusBadge;
+    if (!lastDate) {
+      statusDot = 'red'; statusBadge = '<span class="badge badge-red">אין מידע</span>';
+    } else if (isRecent) {
+      statusDot = 'green'; statusBadge = '<span class="badge badge-green">פעיל</span>';
+    } else if (isStale) {
+      statusDot = 'yellow'; statusBadge = '<span class="badge badge-yellow">ישן</span>';
+    } else {
+      statusDot = 'red'; statusBadge = '<span class="badge badge-red">לא פעיל</span>';
+    }
+
+    const dateStr = lastDate
+      ? lastDate.toLocaleDateString('he-IL', { day: 'numeric', month: 'short', year: '2-digit' })
+      : '—';
+
+    return `<tr>
+      <td><strong>${escHtml(s.name)}</strong></td>
+      <td>${s.total}</td>
+      <td><span class="badge badge-green">${s.translated}</span></td>
+      <td>${untrans > 0 ? `<span class="badge badge-red">${untrans}</span>` : '<span class="badge badge-gray">0</span>'}</td>
+      <td style="font-size:.8rem;color:var(--text-muted)">${dateStr}</td>
+      <td><span class="status-dot ${statusDot}"></span>${statusBadge}</td>
+    </tr>`;
+  });
+
+  document.getElementById('sources-tbody').innerHTML = rows.join('');
+}
+
+/* ─── GitHub Actions runs ────────────────────────────────────── */
+async function loadRuns() {
+  const pat = localStorage.getItem(LS_KEY_PAT);
+  const container = document.getElementById('runs-list');
+
+  if (!pat) {
+    container.innerHTML = '<div class="empty-msg">הגדר GitHub PAT בהגדרות למטה כדי לראות פעילות workflows</div>';
+    return;
+  }
+
+  try {
+    const res = await fetch(`https://api.github.com/repos/${REPO}/actions/runs?per_page=10`, {
+      headers: {
+        Authorization: 'token ' + pat,
+        Accept: 'application/vnd.github+json',
+      },
+    });
+
+    if (res.status === 401) {
+      container.innerHTML = '<div class="empty-msg">❌ GitHub PAT לא תקין — בדוק בהגדרות</div>';
+      return;
+    }
+
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const { workflow_runs: runs } = await res.json();
+
+    if (!runs || runs.length === 0) {
+      container.innerHTML = '<div class="empty-msg">אין runs</div>';
+      return;
+    }
+
+    const items = runs.map((run) => {
+      const icon = run.conclusion === 'success' ? '✅'
+        : run.conclusion === 'failure' ? '❌'
+        : run.conclusion === 'cancelled' ? '⊘'
+        : run.status === 'in_progress' ? '🔄'
+        : '⏳';
+
+      const badge = run.conclusion === 'success' ? 'badge-green'
+        : run.conclusion === 'failure' ? 'badge-red'
+        : run.status === 'in_progress' ? 'badge-blue'
+        : 'badge-gray';
+
+      const label = run.conclusion === 'success' ? 'הצלחה'
+        : run.conclusion === 'failure' ? 'נכשל'
+        : run.conclusion === 'cancelled' ? 'בוטל'
+        : run.status === 'in_progress' ? 'רץ עכשיו'
+        : run.status === 'queued' ? 'בתור'
+        : run.status;
+
+      const started = new Date(run.created_at);
+      const dateStr = started.toLocaleString('he-IL', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' });
+
+      let durationStr = '';
+      if (run.run_started_at && run.updated_at && run.status !== 'in_progress') {
+        const dur = Math.round((new Date(run.updated_at) - new Date(run.run_started_at)) / 1000);
+        durationStr = dur >= 60 ? `${Math.floor(dur/60)}m ${dur%60}s` : `${dur}s`;
+      }
+
+      return `<div class="run-item">
+        <span class="run-icon">${icon}</span>
+        <div class="run-info">
+          <div class="run-name">${escHtml(run.name)} — ${escHtml(run.head_commit?.message?.split('\n')[0] || '')}</div>
+          <div class="run-meta">${dateStr} · ${escHtml(run.event)}</div>
+        </div>
+        <span class="badge ${badge}">${label}</span>
+        ${durationStr ? `<span class="run-duration">${durationStr}</span>` : ''}
+      </div>`;
+    });
+
+    container.innerHTML = items.join('');
+  } catch (err) {
+    container.innerHTML = `<div class="empty-msg">שגיאה בטעינת runs: ${escHtml(err.message)}</div>`;
+  }
+}
+
+/* ─── Workflow trigger ───────────────────────────────────────── */
+async function triggerWorkflow(workflowFile, btn) {
+  const pat = localStorage.getItem(LS_KEY_PAT);
+  if (!pat) {
+    alert('הגדר GitHub Personal Access Token בהגדרות לפני הפעלת workflow');
+    toggleSettings();
+    return;
+  }
+
+  const statusId = workflowFile === 'fetch.yml' ? 'fetch-status' : 'translate-status';
+  const statusEl = document.getElementById(statusId);
+
+  btn.disabled = true;
+  statusEl.style.color = 'var(--text-muted)';
+  statusEl.textContent = '⏳ שולח בקשה...';
+
+  try {
+    const res = await fetch(
+      `https://api.github.com/repos/${REPO}/actions/workflows/${workflowFile}/dispatches`,
+      {
+        method: 'POST',
+        headers: {
+          Authorization: 'token ' + pat,
+          Accept: 'application/vnd.github+json',
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ ref: 'master' }),
+      }
+    );
+
+    if (res.status === 204) {
+      statusEl.style.color = 'var(--green)';
+      statusEl.textContent = '✓ הופעל בהצלחה! בדוק בפעילות למטה';
+      setTimeout(() => loadRuns(), 3000);
+    } else if (res.status === 401) {
+      statusEl.style.color = 'var(--red)';
+      statusEl.textContent = '❌ PAT לא תקין או אין הרשאות workflow';
+    } else {
+      const body = await res.json().catch(() => ({}));
+      statusEl.style.color = 'var(--red)';
+      statusEl.textContent = `❌ שגיאה: ${body.message || 'HTTP ' + res.status}`;
+    }
+  } catch (err) {
+    statusEl.style.color = 'var(--red)';
+    statusEl.textContent = `❌ שגיאת רשת: ${err.message}`;
+  } finally {
+    setTimeout(() => { btn.disabled = false; }, 5000);
+  }
+}
+
+/* ─── Utils ──────────────────────────────────────────────────── */
+function escHtml(s) {
+  return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+/* ─── Init ───────────────────────────────────────────────────── */
+async function init() {
+  const [data] = await Promise.all([loadAdminData(), loadRuns()]);
+  renderStats(data);
+  renderSources(data);
+}
+
+async function refreshAll() {
+  const [data] = await Promise.all([loadAdminData(), loadRuns()]);
+  renderStats(data);
+  renderSources(data);
+}
+</script>
+</body>
+</html>
