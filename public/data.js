@@ -5607,7 +5607,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 229,
-    "t": "Advancing independent research on AI alignment\n\nOpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
+    "t": "קידום מחקר עצמאי על השימור של AI\n\nOpenAI הודיעה על הקצבת 7.5 מיליון דולר ל-The Alignment Project למימון מחקר עצמאי בנושא AI alignment, בכדי לחזק את המאמצים הגלובליים להתמודדות עם הסיכונים הביטחוניים של AGI. זה עוד צעד בכיוון שבו חברות AI מזכות בחשיבות שלהבנת וביצוע בטיחות של מערכות בינה מלאכותית בעלות כוח רב.",
     "d": "Thu, 19 Feb 2026 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -5625,8 +5625,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -5634,7 +5633,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 230,
-    "t": "Introducing OpenAI for India\n\nOpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
+    "t": "OpenAI בהגעה לישראל... לא, למדינת הודו 🇮🇳\n\nOpenAI מחליטה לפתוח פעולות בהודו וזה לא קטן - הם בונים תשתיות מקומיות, מאפשרים לחברות להשתמש ב-AI בקנה מידה, והכי חשוב - משדרגים את כישורי העובדים המקומיים. בעצם, תרגול קטן שלהם איך להסתדר בשווקים גלובליים חדשים עם תמיכה מלאה.",
     "d": "Wed, 18 Feb 2026 21:00:00 GMT",
     "v": 0,
     "l": [
@@ -5654,7 +5653,7 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
@@ -5684,7 +5683,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 232,
-    "t": "Introducing EVMbench\n\nOpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
+    "t": "EVMbench - בדיקה חדשה לסוכנים AI בעולם החוזים החכמים\n\nOpenAI ו-Paradigm השיקו את EVMbench, כלי בדיקה שמודד עד כמה סוכנים AI טובים בגילוי, תיקון והנצלה של בעיות אבטחה קריטיות בחוזים חכמים. זה בעצם הדרך שלהם להגיד: בואו נראה כמה AI מסוגל להיות טוב בעבודה של security researcher בעולם הבלוקצ'יין. המהלך הזה חשוב כי זה נוגע ישירות ליכולת של AI לעזור בהגנה על סכומי כסף ענקיים שתלויים בקוד של חוזים חכמים. | מקור: OpenAI Blog",
     "d": "Wed, 18 Feb 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -5703,7 +5702,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news",
       "model",
-      "agents"
+      "security"
     ],
     "imp": "low",
     "thumb": null,
@@ -5734,7 +5733,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 234,
-    "t": "GPT-5.2 derives a new result in theoretical physics\n\nA new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
+    "t": "GPT-5.2 הגיע לתגלית חדשה בפיזיקה תיאורטית\n\nמודל ה-AI החדש של OpenAI GPT-5.2 הצליח לגזור נוסחה חדשנית עבור gluon amplitude, שהוכחה ואומתה בעקבות כך על ידי OpenAI ושותפים אקדמיים. זה לא רק עוד דבר שבו AI טוב - הוא בעצם הצליח למצוא משהו חדש בתחום הפיזיקה שלא היה ידוע קודם. המחקר שפורסם כ-preprint מראה שה-AI יכול להיות שותף אמיתי בחקירה מדעית ולא רק כלי להאצת עבודה קיימת.",
     "d": "Fri, 13 Feb 2026 11:00:00 GMT",
     "v": 0,
     "l": [
@@ -5760,7 +5759,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 235,
-    "t": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT\n\nIntroducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
+    "t": "OpenAI משיקה Lockdown Mode ותוויות Elevated Risk ב-ChatGPT\n\nOpenAI חושפת כלים חדשים כדי להגן על ארגונים מפני התקפות prompt injection וגניבת נתונים בעזרת AI - כולל מצב נעילה מעשי וסימון סיכונים מוגברים. זו צעד חשוב בהגנה על הזיהוי העסקי מפני ניצול של מודלי שפה. המעבר מראה שכל חברה גדולה שמעבירה את העובדים לחבר AI חייבת לחשוב על האבטחה מהרגע הראשון.",
     "d": "Fri, 13 Feb 2026 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -5786,7 +5785,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 236,
-    "t": "Scaling social science research\n\nGABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
+    "t": "הרחבת מחקר מדעי החברה בסקאלה\n\nOpenAI השיקה את GABRIEL, ערכת כלים חדשה בקוד פתוח שמנצלת את GPT כדי להמיר טקסט ותמונות איכותיים לנתונים כמותיים. זה אומר שחוקרי מדעי חברה יכולים סוף סוף לנתח כמויות ענקיות של מידע קוליטטיבי בלי להישגע. כלי מדהים למי שעוסק בחקר דעות ציבור, תוכן רשתות חברתיות וחומרים אחרים שקשה להפוך למספרים.",
     "d": "Fri, 13 Feb 2026 09:00:00 GMT",
     "v": 0,
     "l": [
@@ -5812,7 +5811,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 237,
-    "t": "Beyond rate limits: scaling access to Codex and Sora\n\nHow OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
+    "t": "מעבר למגבלות קצב: הרחבת הגישה ל-Codex ול-Sora\n\nOpenAI חשפה איך בנתה מערכת גישה real-time חכמה שמשלבת rate limits, tracking של שימוש וקרדיטים כדי לתת לכל המשתמשים גישה רציפה לכלים הפופולריים שלהם - Sora ו-Codex. במקום סתם לתת 'לא', המערכת החדשה מנהלת את הביקוש בצורה חכמה יותר כדי שלא תרד הקיר כשכולם רוצים להשתמש בחדשות שלהם בבת אחת.",
     "d": "Fri, 13 Feb 2026 09:00:00 GMT",
     "v": 0,
     "l": [
@@ -5914,7 +5913,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 241,
-    "t": "Harness engineering: leveraging Codex in an agent-first world\n\nBy Ryan Lopopolo, Member of the Technical Staff",
+    "t": "הנדסת Harness: ניצול Codex בעולם מונהל על ידי agents\n\nRyan Lopopolo מ-OpenAI מסביר איך משתמשים ב-Codex כדי לבנות agents חכמים שיכולים לתפקד באופן עצמאי. הכתבה עוסקת בטכניקות מתקדמות לשילוב דגמי שפה בארכיטקטורות מבוססות agents, שזה בעצם הדרך החדשה להבין ואיך מפתחים בנו תוכנה בעידן ה-AI.",
     "d": "Wed, 11 Feb 2026 09:00:00 GMT",
     "v": 0,
     "l": [
@@ -5927,9 +5926,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
       "news",
+      "model",
       "agents"
     ],
     "imp": "low",
@@ -5938,7 +5940,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 242,
-    "t": "Bringing ChatGPT to GenAI.mil\n\nOpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
+    "t": "הכנסת ChatGPT ל-GenAI.mil\n\nOpenAI הכריזה על הטלת גרסה מותאמת של ChatGPT על פלטפורמת GenAI.mil, שתשרת את צוותי ההגנה האמריקניים עם AI מאובטח וממוקד בבטיחות. זו צעד משמעותי בשילוב טכנולוגיית AI מתקדמת לתוך מערכות הגנה קריטיות, כשכל דגש על אבטחה והשמור על סודיות מידע רגיש. OpenAI for Government מוכיחה שוב שהיא שחקן משמעותי בשוק ה-AI לשימוש ממשלתי.",
     "d": "Mon, 09 Feb 2026 11:00:00 GMT",
     "v": 0,
     "l": [
@@ -5958,13 +5960,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 243,
-    "t": "Testing ads in ChatGPT\n\nOpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "t": "OpenAI מתחילה לבדוק פרסומות ב-ChatGPT\n\nOpenAI החלה לבדוק הצגת פרסומות ב-ChatGPT כדי לתמוך בגישה החינמית לשירות. החברה מדגישה שהפרסומות יהיו מתויגות בבירור, לא ישפיעו על איכות התשובות של ה-AI, וגם יכבדו את הפרטיות של המשתמשים עם אפשרויות בקרה מלאות בידיהם.",
     "d": "Mon, 09 Feb 2026 11:00:00 GMT",
     "v": 0,
     "l": [
@@ -6013,7 +6015,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 245,
-    "t": "Making AI work for everyone, everywhere: our approach to localization\n\nOpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures without compromising safety.",
+    "t": "הנגשת AI לכולם בכל מקום: הגישה שלנו להתאמה מקומית\n\nOpenAI חושפת איך היא משתמשת באותם מודלים AI חזקים בעולם אבל מותאמת אותם לשפות מקומיות, חוקים ותרבויות שונות - וזה בלי להוריד את הסטנדרטים של בטיחות. בעצם, החברה מראה שאפשר לתת את הכוח של AI המתقדם לאנשים בכל קצווי כדור הארץ, לא משנה איפה הם גרים או איזה שפה הם מדברים.",
     "d": "Fri, 06 Feb 2026 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -6027,14 +6029,11 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Amazon"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "model",
-      "product",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -6065,7 +6064,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 247,
-    "t": "GPT-5 lowers the cost of cell-free protein synthesis\n\nAn autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
+    "t": "GPT-5 מוריד את עלויות סינתזת חלבונים ללא תאים\n\nמעבדה אוטונומית שמשלבת את GPT-5 של OpenAI עם אוטומציית הענן של Ginkgo Bioworks הצליחה להוריד את עלויות סינתזת החלבונים ללא תאים ב-40% דרך ניסויים בלולאה סגורה. בעצם, AI מוביל את הניסויים הביולוגיים בעצמו, לומד מהתוצאות ובודק עוד ועוד אפשרויות עד שמוצא את הדרך היעילה ביותר. זה משנה את המשחק של biotech וטכנולוגיות בר-קיימא.",
     "d": "Thu, 05 Feb 2026 11:00:00 GMT",
     "v": 0,
     "l": [
@@ -6083,8 +6082,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "robotics"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -6092,7 +6090,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 248,
-    "t": "Introducing Trusted Access for Cyber\n\nOpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",
+    "t": "הצגת Trusted Access for Cyber של OpenAI\n\nOpenAI השיקה מסגרת חדשה בשם Trusted Access for Cyber שמאפשרת גישה מדודה ליכולות סייבר חדישות תוך הגברת ההגנות נגד שימוש לרעה. זה בעצם נסיון של החברה להתגבר על האתגר הקשה של הפעלת כלים חזקים בידי אנשים מתאימים, בלי שיפול לידיים הלא נכונות.",
     "d": "Thu, 05 Feb 2026 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -6112,13 +6110,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 249,
-    "t": "Introducing OpenAI Frontier\n\nOpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.",
+    "t": "הצגת OpenAI Frontier\n\nOpenAI כרגע משיקה את Frontier, פלטפורמה ארגונית חדשה שמאפשרת לחברות לבנות, להפעיל ולנהל AI agents בצורה מאורגנת עם אפשרויות שיתוף קונטקסט, הרשאות וממשל תקין. זה בעצם הפתרון של OpenAI לחברות שרוצות לעבוד עם AI agents בקנה מידה גדול ובשליטה מלאה על הנתונים והגישות. המשחק שלהם בחטיבת הארגוני מתחיל להיראות מחוספס ממש.",
     "d": "Thu, 05 Feb 2026 06:00:00 GMT",
     "v": 0,
     "l": [
@@ -6145,7 +6143,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 250,
-    "t": "Navigating health questions with ChatGPT\n\nA family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
+    "t": "ניווט בשאלות בריאות עם ChatGPT\n\nמשפחה חולקת איך ChatGPT עזר להם להתכונן להחלטות טיפול קריטיות לסרטן של בנם, בצד הנחיות מומחים מהרופאים שלו. סיפור מרגש על איך AI יכול לתמוך בתהליכים רפואיים חיוניים כשזה משמש כמשלים לייעוץ רפואי מקצועי.",
     "d": "Thu, 05 Feb 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -6171,7 +6169,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 251,
-    "t": "GPT-5.3-Codex System Card\n\nGPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
+    "t": "כרטיס המערכת GPT-5.3-Codex\n\nOpenAI השיקה את GPT-5.3-Codex, מודל הקידוד האוטונומי החזק ביותר שראינו עד היום. המערכת משלבת את ההתייצבות הקודחת של GPT-5.2-Codex עם יכולות reasoning מתקדמות וידע מקצועי עמוק, מה שהופך אותה לשחקן משחק-משנה בתעולם ה-AI לכתיבת קוד. זה כבר לא רק עוזר קידוד - זה כמעט כמו מתכנת אמיתי בחברה שלך. מקור: OpenAI Blog",
     "d": "Thu, 05 Feb 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -6189,8 +6187,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -6198,7 +6195,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 252,
-    "t": "Introducing GPT-5.3-Codex\n\nGPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.",
+    "t": "הכירו את GPT-5.3-Codex\n\nOpenAI שחררה את GPT-5.3-Codex, סוכן חדש שמשלב ביכולת קודינג חזקה בדרגת עולם עם יכולות reasoning כלליות, בשביל להתמודד עם משימות טכניות מורכבות וממושכות בעולם האמיתי. המודל הזה מתפקד כמי שיודע קוד ויודע גם לחשוב באופן יותר כללי, מה שאמור להקל על מפתחים בעבודות טכניות של ממש.",
     "d": "Thu, 05 Feb 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -6216,8 +6213,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -6225,7 +6221,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 253,
-    "t": "Unlocking the Codex harness: how we built the App Server\n\nLearn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.",
+    "t": "פתיחת סודות Codex: איך בנינו את App Server\n\nOpenAI חשפה איך משלבים את ה-Codex agent באמצעות Codex App Server החדש - API מבוסס JSON-RPC דו-כיווני שמאפשר streaming של התקדמות, שימוש בכלים, אישורים והשוואות בקוד. זה הופך את עבודה עם AI לכתיבת קוד לחלק הרבה יותר חלק ויעיל לדיוק.",
     "d": "Wed, 04 Feb 2026 13:00:00 GMT",
     "v": 0,
     "l": [
@@ -6238,9 +6234,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
       "news",
+      "model",
       "agents"
     ],
     "imp": "low",
@@ -6341,7 +6340,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 258,
-    "t": "The Sora feed philosophy\n\nDiscover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails.",
+    "t": "פילוסופיית הפיד של Sora\n\nOpenAI חושפת את המחשבה שמאחורי פיד ה-Sora החדש: פלטפורמה שמעמדת את היצירתיות וההתחברות בראש, אבל גם לא שוכחת בטיחות עם כלים של המלצות מתאימות אישית, בקרות הורים וגדרות בטיחות חזקות. במילים אחרות, הם בנו משהו שיוצר, מקשר, אבל עם ראש על הכתפיים.",
     "d": "Tue, 03 Feb 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -6367,7 +6366,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 259,
-    "t": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data\n\nOpenAI and Snowflake partner in a $200M agreement to bring frontier intelligence into enterprise data, enabling AI agents and insights directly in Snowflake.",
+    "t": "Snowflake ו-OpenAI משתפות פעולה להביא בינה מלאכותית מתקדמת לנתוני הארגון\n\nOpenAI ו-Snowflake חתמו על הסכם של 200 מיליון דולר שיביא את הטכנולוגיה המתקדמת ביותר של OpenAI ישירות לתוך פלטפורמת Snowflake, מה שיאפשר AI agents וביצוע אנליזות חכמות ישירות על הנתונים שלכם. זו לא סתם אינטגרציה רגילה - חברות יוכלו כעת להשתמש בכוח של ChatGPT וקצת יותר כדי להבין את המון נתונים באופן שלא היה אפשרי קודם.",
     "d": "Mon, 02 Feb 2026 06:00:00 GMT",
     "v": 0,
     "l": [
@@ -6394,35 +6393,11 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 260,
-    "t": "Introducing the Codex app\n\nIntroducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks.",
+    "t": "הצגת אפליקציית Codex\n\nאוקיי, זה משהו חדש וכל כך שימושי - OpenAI הטלקה לנו אפליקציה חדשה לmacOS שקוראים לה Codex, והיא בעצם מרכז שליטה מלא לAI coding ופיתוח תוכנה. מה שחזק בזה זה שהיא מאפשרת לך להריץ multiple agents בו זמנית, לעבוד עם parallel workflows ואפילו להשאיר tasks רצים לזמן ארוך בלי שצריך להתחזק. בקיצור, כלי מעוצבת למפתחים שרוצים לעבוד עם AI בצורה חכמה יותר.",
     "d": "Mon, 02 Feb 2026 00:00:00 GMT",
     "v": 0,
     "l": [
       "https://openai.com/index/introducing-the-codex-app"
-    ],
-    "lp": null,
-    "vid": false,
-    "img": false,
-    "fwd": null,
-    "cats": [
-      "news"
-    ],
-    "co": [],
-    "tags": [
-      "news",
-      "agents"
-    ],
-    "imp": "low",
-    "thumb": null,
-    "source": "OpenAI Blog"
-  },
-  {
-    "id": 261,
-    "t": "Inside OpenAI’s in-house data agent\n\nHow OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
-    "d": "Thu, 29 Jan 2026 10:00:00 GMT",
-    "v": 0,
-    "l": [
-      "https://openai.com/index/inside-our-in-house-data-agent"
     ],
     "lp": null,
     "vid": false,
@@ -6444,8 +6419,34 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
+    "id": 261,
+    "t": "בפנים של סוכן הנתונים הפנימי של OpenAI\n\nOpenAI בנתה סוכן AI משלה שמשלב את GPT-5, Codex וזיכרון כדי לעבד מערכי נתונים ענקיים ולחלץ insights מהימנים תוך דקות. במקום לתלות בכלים חיצוניים, החברה פיתחה מערכת יניקה שיודעת לחשוב ולהסיק מסקנות מעל מליארדים של שורות נתונים כמו שום דבר. הכלי הזה יכול לחסוך הרבה זמן ערך בשרים ואנליסטים בעולם התעשייה.",
+    "d": "Thu, 29 Jan 2026 10:00:00 GMT",
+    "v": 0,
+    "l": [
+      "https://openai.com/index/inside-our-in-house-data-agent"
+    ],
+    "lp": null,
+    "vid": false,
+    "img": false,
+    "fwd": null,
+    "cats": [
+      "news"
+    ],
+    "co": [
+      "OpenAI"
+    ],
+    "tags": [
+      "news",
+      "model"
+    ],
+    "imp": "low",
+    "thumb": null,
+    "source": "OpenAI Blog"
+  },
+  {
     "id": 262,
-    "t": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT\n\nOn February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time.",
+    "t": "OpenAI פורטת מודלים ישנים: GPT-4o, GPT-4.1 וגרסאות נוספות לעזוב את ChatGPT\n\nOpenAI מודיעה שב-13 בפברואר 2026 היא תפקיד את מספר מודלים מ-ChatGPT, כולל GPT-4o, GPT-4.1, ה-mini שלה ו-o4-mini, בעקבות פרישת GPT-5 שהוכרזה קודם לכן. הטוב בשורה: אם אתם משתמשים ב-API, לא קורה לכם כלום - השינוי רק במוצר ChatGPT עצמו.",
     "d": "Thu, 29 Jan 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -6471,7 +6472,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 263,
-    "t": "Taisei Corporation shapes the next generation of talent with AI\n\nTaisei Corporation’s HR team is leading the rollout of ChatGPT Enterprise to drive AI-powered talent development across the organization.",
+    "t": "תאיסיי קורפוריישן משכלל את הדור הבא של כישרונות עם AI\n\nצוות ה-HR של תאיסיי קורפוריישן הוא בקו החזית של השימוש ב-ChatGPT Enterprise כדי להניע פיתוח כישרונות מונחה AI בכל הארגון. החברה היפנית הגדולה גורמת ל-AI לעבוד בשבילה בתחום פיתוח עובדים, מה שפתוח דלתות חדשות לאימון וגדילת כישרונות.",
     "d": "Thu, 29 Jan 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -6520,7 +6521,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 265,
-    "t": "The next chapter for AI in the EU\n\nOpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
+    "t": "פרק חדש לבינה מלאכותית באיחוד האירופי\n\nOpenAI השיקה את 'EU Economic Blueprint 2.0' - תוכנית חדשה שמטרתה להאיץ את העברה של AI בכל אירופה, עם מידע חדש, שותפויות וקנוות שישנו את תמונת התחרות ביבשת. זה בעצם המהלך הגדול של OpenAI בשביל להפוך את אירופה למרכז חדש לחדשנות ו-AI, עם דגש על שיפור מיומנויות וגדילה כלכלית.",
     "d": "Wed, 28 Jan 2026 01:00:00 GMT",
     "v": 0,
     "l": [
@@ -6540,13 +6541,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 266,
-    "t": "EMEA Youth & Wellbeing Grant\n\nApply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
+    "t": "קרן EMEA ללימודים וברווחת נוער\n\nOpenAI משיקה תוכנית בשווי חצי מיליון יורו לתמיכה בארגונים ועל־פי מחקר שעוסקים בבטיחות ובריווחת הנוער בעידן ה-AI. אם אתה עוסק בנושא הזה, כאן הסיכוי להשיג מימון משמעותי לפרויקט שלך בתחום ההשפעות החברתיות של בינה מלאכותית. כל מי שרוצה לעזור לצפור בנים לגדול בטוח בעולם דיגיטלי - זה הזמן להגיש מועמדות!",
     "d": "Wed, 28 Jan 2026 01:00:00 GMT",
     "v": 0,
     "l": [
@@ -6559,10 +6560,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
       "news",
-      "funding"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -6570,7 +6573,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 267,
-    "t": "Keeping your data safe when an AI agent clicks a link\n\nLearn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards.",
+    "t": "שמירת הנתונים שלכם בטוח כשהסוכן AI לוחץ על קישור\n\nאתם יודעים שסוכני AI שלנו יכולים לגלוש בעצמאות באינטרנט? OpenAI חשפה איך היא מגנה על הנתונים שלכם כשהם פותחים קישורים - למעשה, זה לא כל כך טריוויאלי כשצריך למנוע הודפות של מידע דרך URL-ים וה-prompt injection שנראים כמו טריקים. הפוסט מסביר את ההגנות המובנות שהם בנו כדי שהכל יישאר מאובטח.",
     "d": "Wed, 28 Jan 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -6588,8 +6591,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -6672,7 +6674,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 271,
-    "t": "PVH reimagines the future of fashion with OpenAI\n\nPVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement.",
+    "t": "PVH משנה את עתיד האופנה עם OpenAI\n\nחברת PVH, אם-החברות של Calvin Klein וTommy Hilfiger, מאמצת את ChatGPT Enterprise כדי להכניס AI לתוך עיצוב אופנה, ניהול שרשרת ההספקה ותקשור עם הצרכנים. זה יכול להיות משחק חדש לגמרי - מעיצוב הבגדים ועד לניבוי טרנדים ותאימת אישית של החוויה לכל קונה. בעצם, הגדולים בתעשיית האופנה מחליטים שAI לא רק עוזר אלא הופך להיות חלק בלתי נפרד מהעסק.",
     "d": "Tue, 27 Jan 2026 06:00:00 GMT",
     "v": 0,
     "l": [
@@ -6722,7 +6724,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 273,
-    "t": "TRUSTBANK uses AI agents to personalize Furusato Nozei gifts\n\nTRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, enabling personalized conversational recommendations that simplify Furusato Nozei gift discovery.",
+    "t": "TRUSTBANK משתמשת ב-AI agents כדי להתאים אישית מתנות Furusato Nozei\n\nTRUSTBANK שיתפה פעולה עם Recursive כדי לבנות Choice AI על בסיס מודלים של OpenAI, שמאפשר המלצות שיחתיות מותאמות אישית שמפשטות את גילוי מתנות Furusato Nozei. בעצם, הם פתרו בעזרת AI אজנטים בעיה שהייתה מאוד כואבת - עכשיו כל אחד יכול לקבל המלצות מותאמות בדיוק לטעמו במקום להשקיע שעות בחיפוש.",
     "d": "Tue, 27 Jan 2026 00:00:00 GMT",
     "v": 0,
     "l": [
