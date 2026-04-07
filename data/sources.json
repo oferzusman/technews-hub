@@ -117,7 +117,7 @@
       "name": "Reuters Tech",
       "url": "https://feeds.reuters.com/reuters/technologyNews",
       "language": "en",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "new-atlas",
@@ -187,7 +187,7 @@
       "name": "Hacker News Show HN (AI)",
       "url": "https://hnrss.org/show?q=AI+LLM+GPT",
       "language": "en",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "producthunt",
@@ -201,21 +201,21 @@
       "name": "Reddit r/artificial",
       "url": "https://old.reddit.com/r/artificial/.rss",
       "language": "en",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "reddit-localllama",
       "name": "Reddit r/LocalLLaMA",
       "url": "https://old.reddit.com/r/LocalLLaMA/.rss",
       "language": "en",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "reddit-machinelearning",
       "name": "Reddit r/MachineLearning",
       "url": "https://old.reddit.com/r/MachineLearning/.rss",
       "language": "en",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "github-trending",

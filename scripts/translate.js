@@ -17,6 +17,7 @@ if (!process.env.ANTHROPIC_API_KEY) {
 const mode = process.argv.includes('--mode=batch') ? 'batch' : 'realtime';
 const MAX_PER_RUN = mode === 'batch' ? 30 : 999;
 const DELAY_MS = mode === 'batch' ? 1000 : 200;
+const MAX_RUNTIME = 300000; // 5 minutes
 
 console.log(`Mode: ${mode} (max: ${MAX_PER_RUN}, delay: ${DELAY_MS}ms)`);
 
@@ -90,8 +91,13 @@ async function main() {
 
   let successCount = 0;
   let errorCount = 0;
+  const startTime = Date.now();
 
   for (const article of toTranslate) {
+    if (Date.now() - startTime > MAX_RUNTIME) {
+      console.log('Time limit reached, saving progress');
+      break;
+    }
     try {
       console.log(`[${successCount + errorCount + 1}/${toTranslate.length}] Translating: ${article.title_en?.slice(0, 60)}...`);
       const { title_he, description_he } = await translateArticle(article);

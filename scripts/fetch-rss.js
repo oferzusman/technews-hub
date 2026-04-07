@@ -1,6 +1,5 @@
 import 'dotenv/config';
 import Parser from 'rss-parser';
-import * as cheerio from 'cheerio';
 import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
@@ -10,6 +9,7 @@ const ROOT = join(__dirname, '..');
 const DB_PATH = join(ROOT, 'data', 'articles.json');
 
 const HOT_WINDOW_MS = 2 * 60 * 60 * 1000; // 2 hours
+const FEED_TIMEOUT_MS = 10000; // 10 seconds per feed
 
 function loadDb() {
   if (!existsSync(DB_PATH)) return { articles: [] };
@@ -20,28 +20,10 @@ function saveDb(db) {
   writeFileSync(DB_PATH, JSON.stringify(db, null, 2), 'utf8');
 }
 
-async function fetchOGImage(url) {
-  try {
-    const res = await fetch(url, {
-      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; TechNewsHub/1.0)' },
-      signal: AbortSignal.timeout(8000),
-    });
-    if (!res.ok) return null;
-    const html = await res.text();
-    const $ = cheerio.load(html);
-    return (
-      $('meta[property="og:image"]').attr('content') ||
-      $('meta[name="twitter:image"]').attr('content') ||
-      null
-    );
-  } catch {
-    return null;
-  }
-}
-
 async function fetchSource(source, db, cutoffDate, now) {
   const parser = new Parser({
     customFields: { item: ['media:content', 'media:thumbnail', 'enclosure'] },
+    timeout: FEED_TIMEOUT_MS,
   });
 
   console.log(`Fetching ${source.name}...`);
@@ -57,15 +39,11 @@ async function fetchSource(source, db, cutoffDate, now) {
     const pubDate = new Date(item.pubDate || item.isoDate || 0);
     if (pubDate < cutoffDate) continue;
 
-    let imageUrl =
+    const imageUrl =
       item['media:content']?.['$']?.url ||
       item['media:thumbnail']?.['$']?.url ||
       item.enclosure?.url ||
       null;
-
-    if (!imageUrl) {
-      imageUrl = await fetchOGImage(link);
-    }
 
     const rawDesc = item.contentSnippet || item.content || item.summary || '';
     const description_en = rawDesc.replace(/<[^>]+>/g, '').trim().slice(0, 500);
