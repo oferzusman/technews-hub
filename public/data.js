@@ -443,7 +443,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "2TB SanDisk memory card card surfaces for eye-watering $2,000 — top-tier Extreme Pro UHS-II SD promises more than 300 MB/s sequential read and write performance\n\nThe 2TB SanDisk Extreme Pro UHS-II SD card costs $2,000, bringing its price per GB to nearly $1, making it more than four times more expensive than much faster microSD Express cards.",
+    "t": "כרטיס הזיכרון המטורף של SanDisk: 2TB ב-2,000 דולר עם ביצועים של 300+ MB/s\n\nSanDisk הוציאה לשוק כרטיס Extreme Pro UHS-II SD בנפח 2TB במחיר שמטיל אימה - 2,000 דולר, שזה בערך דולר לכל גיגה בייט. למרות שזה נשמע כמו שיקל של היום, המחיר הזה פי 4 יותר יקר מכרטיסי microSD Express שהם הרבה יותר מהירים בפועל.",
     "d": "Tue, 07 Apr 2026 16:47:04 +0000",
     "v": 0,
     "l": [
@@ -755,7 +755,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 32,
-    "t": "Intel joins Elon Musk's TeraFab project — 'Intel is proud to join the Terafab project with SpaceX, xAI, and Tesla to help refactor silicon fab technology'\n\nAs Intel joins Elon Musk's TeraFab project, Lip-Bu Tan expects Elon Musk to reimagine the semiconductor industry.",
+    "t": "אינטל חוברת לפרויקט TeraFab של אילון מאסק — 'אינטל גאה להצטרף לפרויקט Terafab עם SpaceX, xAI וטסלה כדי לעזור בשיפוץ טכנולוגיית מפעלי סיליקון'\n\nאינטל רשמית הצטרפה לשיתוף פעולה משמעותי עם אילון מאסק בפרויקט TeraFab, והמנהל Lip-Bu Tan מצפה שמאסק יעשה מהפכה בתעשיית המוליכים למחצה. נראה שהפעם זה לא רק טוויט - SpaceX, xAI וטסלה מצטרפות לטלמת בנייה של מפעלי סיליקון חדישים שיכולים לשנות את כל המשחק.",
     "d": "Tue, 07 Apr 2026 15:34:11 +0000",
     "v": 0,
     "l": [
@@ -804,7 +804,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 34,
-    "t": "GitHub user creates open-source Nvidia GeForce Now client alternative — removes tracking, telemetry, and AFK limitations\n\nZortos293 uploaded an open-source GeForce Now client to GitHub, allowing gamers to connect to Nvidia's service without being tracked by the tech giant.",
+    "t": "משתמש GitHub יצר קליינט פתוח קוד לـ Nvidia GeForce Now - ללא מעקב וללא הגבלות AFK\n\nמשחק וגיימר אחד בשם Zortos293 הטיל לGitHub קליינט חדש ולגמרי פתוח לـ GeForce Now שמאפשר לכם להחיבור לשירות ה-streaming של Nvidia בלי שחברת ענקית תעקוב אחריכם. הפתרון הזה מסיר את כל ה-telemetry, ה-tracking, ודגם את ההגבלות המ烦עות עלـ הזמן ההלם, אז אם אתם מרוצים מהמחיר של GeForce Now אבל לא מהפרטיות - זו עשויה להיות האלטרנטיבה שחיפשתם. המקור: Tom's Hardware",
     "d": "Tue, 07 Apr 2026 15:17:20 +0000",
     "v": 0,
     "l": [
@@ -996,7 +996,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 42,
-    "t": "Framework warns of even more rising RAM and SSD prices through 2026 as memory crisis persists — some reprieve as prices plateau in latest monthly update\n\nThe company is already adjusting pricing for high-capacity SSDs and memory-heavy configurations as supply costs increase.",
+    "t": "Framework מזהירה: מחירי RAM ו-SSD ממשיכים לעלות עד 2026 - משבר הזיכרון עוד לא נגמר\n\nחברת Framework כבר מתחילה להתאים את המחירים של SSD בקיבולות גדולות וקונפיגורציות כבדות בזיכרון, בגלל העלייה בעלויות ההספקה. למרות קצת הקלה שכי המחירים הצליחו להשתפל בעדכון החודשי האחרון, הצופים של התעשייה מוזהרים שהמשבר בשוק הזיכרון יהיה בנו זמן רב עוד.\n\nמקור: Tom's Hardware",
     "d": "Tue, 07 Apr 2026 14:03:02 +0000",
     "v": 0,
     "l": [
@@ -1066,7 +1066,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 45,
-    "t": "Asus Zenbook A16 review: Snapdragon X2 Elite Extreme is a strong chip in a so-so package\n\nThe Asus Zenbook A16 is a lightweight housing for Qualcomm's Snapdragon X2 Elite Extreme, but comes with compromises in build quality and battery life.",
+    "t": "ביקורת Asus Zenbook A16: Snapdragon X2 Elite Extreme הוא שבב חזק בחבילה חלשה\n\nה-Zenbook A16 של Asus היא בעצם בית לחומרה של Qualcomm, אבל אסוס עשתה כמה פשרות מעצבנות בעניין איכות הבנייה ואחסור הסוללה. החבר שלנו יוצא עם מעבד מנצח אבל המארז? פחות משכנע.",
     "d": "Tue, 07 Apr 2026 14:00:00 +0000",
     "v": 0,
     "l": [
@@ -1135,7 +1135,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 48,
-    "t": "Indianapolis politician's home shot at 13 times over data center dispute — police and FBI investigating 'isolated, targeted incident' after city councilor backed project\n\nA city councilor's home has been shot up for allegedly supporting a data center project in Indianapolis. Opposing neighborhood groups condemn the shooting, while the authorities have yet to determine who's behind the crime.",
+    "t": "בית פוליטיקאי בינדיאנפוליס זוקף 13 יריות בסכסוך על מרכז נתונים — המשטרה ו-FBI חוקרים אירוע 'מוקד וממוקד'\n\nבית של חברת מועצה בינדיאנפוליס נעדה לפיצוץ בגלל התמיכה שלה בפרויקט מרכז נתונים בעיר. קבוצות שכונה המתנגדות לפרויקט התנערו מהירי, בעוד שהרשויות עדיין מחפשות את זהות המעל אחרי התקרית הזו.",
     "d": "Tue, 07 Apr 2026 13:14:47 +0000",
     "v": 0,
     "l": [
@@ -1342,7 +1342,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 57,
-    "t": "Snag this 1440p iBuyPower gaming PC with a 7800X3D and RTX 5070 for just $2,049 right now — 32GB of fast DDR5 RAM and a 2TB SSD round off powerhouse specs, with an extra $200 off this custom-built AMD rig\n\nSave $200 on this awesome AMD build from iBuyPower, featuring an AMD Ryzen 7 7800X3D, RTX 5070, 32GB of DDR5 RAM, and a 2TB SSD, all for just $2,049 right now.",
+    "t": "מחשב גיימינג iBuyPower עם 1440p, 7800X3D ו-RTX 5070 במחיר של רק 2,049 דולר — עכשיו עם הנחה נוספת של 200 דולר\n\nאם אתם חיפשים מחשב גיימינג ברציני, iBuyPower זורקת עכשיו הנחה מטורפת על בילד אמיתי: Ryzen 7 7800X3D, RTX 5070, 32GB DDR5 ו-2TB SSD — הכל ב-2,049 דולר בלבד, ועם 200 דולר הנחה נוספת זה כבר סיבה טובה להחליט. זה בנוי לגיימינג ברזולוציית 1440p בשיא הביצועים, והמחיר הזה? פשוט בדיחה.",
     "d": "Tue, 07 Apr 2026 12:11:55 +0000",
     "v": 0,
     "l": [
@@ -1589,7 +1589,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 67,
-    "t": "Broadcom to supply Anthropic with 3.5 gigawatts of Google TPU capacity from 2027 — Claude pioneer says its annual revenue run rate has passed $30 billion\n\nBroadcom disclosed in a securities filing on Monday that it’ll supply Anthropic with roughly 3.5 gigawatts of Google TPU capacity starting in 2027.",
+    "t": "Broadcom תסופק ל-Anthropic 3.5 ג'יגוואט של כושר Google TPU החל מ-2027 — Claude מוכנה להפוך ליצור AI בעל הכנסות של 30 מיליארד דולר בשנה\n\nBroadcom חשפה בהודעת SEC שהיא תספק ל-Anthropic כ-3.5 ג'יגוואט של קיבולת Google TPU החל מ-2027, במהלך שהחברה מדווחת שהכנסות שנתיות שלה כבר חרגו מ-30 מיליארד דולר. הסכום המידע מעיד על התחייבות ענקית של גוגל וברודקום בחברת ה-AI היריבה, בעוד שהמחירים של חומרה מתמחה נשארים בקדמת התחרות הטכנולוגית הגלובלית.",
     "d": "Tue, 07 Apr 2026 11:26:13 +0000",
     "v": 0,
     "l": [
@@ -1608,16 +1608,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/zbt6xP22zQEtnhcUBfMSvS-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 68,
-    "t": "Save up to $150 on Apple's brand-new M5-powered MacBook Air 13, now from just $949 — all models receive the biggest discount to date\n\nThe entire range of Apple's M5-powered 13-inch MacBook Air laptops receives the largest discounts to date. Save up to $150 off all models.",
+    "t": "MacBook Air 13 עם M5 זמין מ-949 דולר - הנחה היסטורית של עד 150 דולר על כל הדגמים\n\nאם חשבתם על MacBook Air חדש, זה בדיוק הזמן - Apple מנחה את כל דגמי ה-M5 של 13 אינץ' בהנחות שלא ראינו קודם לכן. מדברים על עד 150 דולר הנחה על כל הגרסאות, מה שמוריד את המחיר ההתחלתי ל-949 דולר בלבד. זו כנראה ההזדמנות הטובה ביותר לקנות את ה-MacBook החדש הזה.",
     "d": "Tue, 07 Apr 2026 11:17:32 +0000",
     "v": 0,
     "l": [
@@ -1758,7 +1757,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 74,
-    "t": "Intel reportedly in talks with Google and Amazon over advanced packaging — major customers could take advantage of EMIB-T later this year\n\nIntel is understood to be in active talks with Google and Amazon to provide advanced chip packaging services for their custom AI ASICs.",
+    "t": "אינטל בשיחות עם גוגל ואמזון על טכנולוגיית אריזה חדשנית — הלקוחות הגדולים יוכלו להשתמש ב-EMIB-T עוד השנה\n\nיוצא שאינטל בשיחות פעילות עם גוגל ואמזון כדי לספק שירותי אריזת שבבים מתקדמים עבור ה-AI ASICs שלהם. זה יכול להיות משחק משנה עבור ענקי הטק שרוצים שבבים מותאמים בעצמם ללא תלות בנווידיה. אם ההסדר יסתם, נוכל לראות קפיצה בתחרות בשוק ה-AI כבר השנה הזו.",
     "d": "Tue, 07 Apr 2026 10:20:00 +0000",
     "v": 0,
     "l": [
@@ -1771,16 +1770,11 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google",
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "product"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/mmPcxQxEVpUKNJBz8zqMnA-1280-80.jpg",
     "source": "Tom's Hardware"
   },
@@ -1861,7 +1855,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 78,
-    "t": "Electronics enthusiast begins breadboard-based Intel 386 system build — a large step up from their previous PC-XT and PC-AT breadboard projects\n\nMotherboards, who needs them? Not Breadboarding Labs, which recently drafted plans for a retro Intel 80386 (i386) PC build using solderless breadboards.",
+    "t": "חובב אלקטרוניקה בונה מערכת Intel 386 על לוח ניסויים - קפיצה ענקית מפרויקטים קודמים של PC-XT ו-PC-AT\n\nמי צריך לוח אם ו? לא Breadboarding Labs, שהחליטו ללכת עם הזרם ולבנות מחשב retro בנוסח Intel 80386 (i386) באמצעות לוחות ניסויים ללא הלחמה. זה לא סתם פרויקט משעשע - זה עדות מטורפת לסבלנות והידע של מישהו שממש מבין איך מחשבים עבדו בתחילת הדרך.",
     "d": "Tue, 07 Apr 2026 09:45:00 +0000",
     "v": 0,
     "l": [
@@ -2458,7 +2452,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 103,
-    "t": "Amazon, Microsoft, and Google under investor pressure to disclose site-specific data center water and power consumption — more than a dozen shareholders ask for transparency ahead of annual investor meetings\n\nMore than a dozen investors are pressuring Amazon, Microsoft, and Alphabet's Google to provide detailed data on water and energy consumption at their U.S. data centers.",
+    "t": "אמזון, מיקרוסופט וגוגל תחת לחץ משקיעים: דרישה לחשיפת נתוני צריכת חשמל ומים במרכזי נתונים\n\nיותר מתריסר משקיעים מפעילים לחץ על שלושת הענקים של הטכנולוגיה לחשוף נתונים מפורטים על צריכת המים והחשמל במרכזי הנתונים שלהם בארה\"ב, במיוחד לפני פגישות המשקיעים השנתיות. השקיעים דורשים שקיפות מלאה - משהו שזה עד עכשיו לא קרה וגורם לדאגה בנוגע להשפעה הסביבתית של פיתוח ה-AI.",
     "d": "Mon, 06 Apr 2026 21:40:30 +0000",
     "v": 0,
     "l": [
@@ -2471,15 +2465,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google",
-      "Microsoft",
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/86kbFvvukFJM8wvw3xN4nS-1280-80.png",
@@ -2609,7 +2597,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 109,
-    "t": "Intel's OEM-only Bartlett Lake CPU modded to run on consumer Z790 motherboard beats AMD's Ryzen 9 9900X3D in Cinebench multi-core test — Core 9 273QPE has 12 cores, 24 threads, and hits 5.4GHz\n\nBartlett Lake, Intel's P-core only family of CPUs intended for edge and industrial use cases has been modded to run on consumer Z790 motherboards. At the moment, the flagship Core 9 273QPE with 12 Raptor Cove P-cores is posting around 33,000 points in Cinbenech R23, which is around the Core i7-14700 mark.",
+    "t": "מעבד Intel מיוחד למיוצרים (Bartlett Lake) שודרג לת'אמים רגילים - כבש את Ryzen 9 9900X3D של AMD בבדיקות ביצועים\n\nמהנדסים הצליחו לעדכן את ה-Core 9 273QPE של Intel, שמעבד תעשייתי שלא היה אמור לעבוד על לוחות אם לצרכנים, והתוצאה? הוא משחק בליגה דומה ל-Core i7-14700 ואף מנצח את המפלצת של AMD. עם 12 ליבות ו-24 threads שמגיעים ל-5.4GHz, המעבד הזה מוכיח שיש עדיין פוטנציאל סמוי בכמה רכיבים של Intel.",
     "d": "Mon, 06 Apr 2026 20:45:35 +0000",
     "v": 0,
     "l": [
@@ -2707,7 +2695,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 113,
-    "t": "US lawmakers aim to ban export of DUV chipmaking and etching tools to leading firms in China — bipartisan proposal would ban lithography equipment for Huawei, SMIC, and others\n\nBipartisan group of U.S. senators propose to impose blanket ban on export of advanced DUV lithography and etching tools to Chinese companies known to have worked with China's military, such as CXMT, Huawei, SMIC, and YMTC.",
+    "t": "חברים בקונגרס האמריקני שואפים להטיל איסור על ייצוא כלי ייצור שבבים DUV לחברות מובילות בסין\n\nקבוצה דו-מפלגתית של סנטורים אמריקנים מציעה להטיל איסור כולל על ייצוא ציוד ליתוגרפיה DUV מתקדם וכלי etching לחברות סיניות שעבדו עם הצבא הסיני, כמו Huawei, SMIC, YMTC ו-CXMT. המהלך חלק מהמאבק ההולך לה-downgrade של יכולות ייצור השבבים של סין, במטרה לעצור את התקדמותה הטכנולוגית במיוחד בתחום ה-AI וה-semiconductor.",
     "d": "Mon, 06 Apr 2026 19:59:55 +0000",
     "v": 0,
     "l": [
@@ -2722,8 +2710,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/5Mq4J9jfCyPqV9qsyhUWe8-1280-80.jpg",
@@ -3361,7 +3348,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 139,
-    "t": "Why TSMC grew four times faster than its foundry rivals in 2025 — price hikes, vertical integration, and commanding technology lead pay dividends\n\nThat lopsided split isn’t a one-quarter anomaly or a function of a single product cycle, but instead reflects three massive advantages held by TSMC.",
+    "t": "למה TSMC גדלה פי 4 יותר מהמתחרים שלה ב-2025 — העלאת מחירים, שליטה אנכית וטכנולוגיה מובילה משלמות\n\nTSMC פשוט מחליקה את כל המתחרים שלה בשוק הייצור של שבבים, והסיבה היא לא סתם מזל חד-פעמי. התאגיד הטייוואני מנצל שלוש יתרונות ענקיים: המחיר המשוכלל, הבקרה על כל תהליך הייצור, והטכנולוגיה המובילה בתחום - וזה משלם דיבידנדים בשפע!",
     "d": "Mon, 06 Apr 2026 19:07:23 +0000",
     "v": 0,
     "l": [
@@ -6708,7 +6695,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 274,
-    "t": "HP’s flagship Omen Max 45L with an RTX 5090 is on sale for $1,000 off — get a top-shelf 4K gaming PC with 64GB DDR5 and 4TB SSD for $5,499\n\nHP’s Omen Max 45L offers a powerful alternative to building your own PC amid rising component prices.",
+    "t": "HP Omen Max 45L עם RTX 5090 בהנחה של $1,000 - מחשב גיימינג 4K עם 64GB DDR5 וכונן 4TB תמורת $5,499\n\nHP זיידה גם את Omen Max 45L שלה במחיר מעניין - מחשב גיימינג פלגשון שמגיע עם RTX 5090 חדש לוהט, 64GB זיכרון DDR5 ואחסון SSD ענק. אם הם תמיד חשבתם שבנייה עצמית של PC היא יותר משתלם, יש פה אלטרנטיבה ממש אטרקטיבית בעיצוב החומרה היום.",
     "d": "Mon, 06 Apr 2026 16:18:10 +0000",
     "v": 0,
     "l": [
@@ -7117,7 +7104,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 291,
-    "t": "MSI MAG A1200PLS PCIE5 1200W power supply review: A competent 1200W unit, but pricey\n\nThe MSI MAG A1200PLS PCIE5 delivers strong cold efficiency numbers and excellent build presentation, but a thermal weakness at high load, a questionable 80Plus Platinum claim, and a steep asking price temper an otherwise capable unit.",
+    "t": "ביקורת MSI MAG A1200PLS PCIE5 בהספק 1200W: יחידה מוכשרת אבל עם תג מחיר תלול\n\nספק הכוח החדש של MSI מציע ביצועים טובים בעומסים קרים וחומרה מעוצבת בצורה מרשימה, אבל יש לו בעיות עם חום בעומסים גבוהים וההצהרה על 80Plus Platinum נראית מפוקפקת. בקיצור: זה משהו טוב אבל לא בהחלט שווה את המחיר שהוא עולה.",
     "d": "Mon, 06 Apr 2026 15:28:30 +0000",
     "v": 0,
     "l": [
@@ -7313,7 +7300,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 299,
-    "t": "Get 32GB of Corsair Vengeance RAM for less than $200 when bundled with AMD's 9800X3D and X870-E motherboard — free liquid cooler and a copy of Crimson Desert to kickstart a top AM5 gaming build\n\nA high-end AM5 platform bundle that not only cuts costs but also includes a free 240mm AIO cooler and a bundled game.",
+    "t": "32GB זיכרון Corsair Vengeance בפחות מ-200 דולר בחבילה עם המעבד 9800X3D של AMD - כוללת cooler נוזלי חינם וחבילת גיימינג ברמה גבוהה\n\nCorsair הצליחה להכניס דיל מנצח: אם תקנו את המעבד 9800X3D המדהים של AMD יחד עם לוח אם X870-E, תקבלו 32GB RAM בעלות ממש קטנה, ועוד לי cooler AIO בחינם וקופי של Crimson Desert. זו הזדמנות כבישה להרכיב PC גיימינג top-tier בתמחור שהגיוני.",
     "d": "Mon, 06 Apr 2026 15:02:44 +0000",
     "v": 0,
     "l": [
@@ -7930,7 +7917,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 325,
-    "t": "Creality Sermoon S1 Review: Accessible 3D Scanning\n\nCreality’s scanner technology has gotten a lot better, but it's not perfect.",
+    "t": "ביקורת Creality Sermoon S1: סריקה תלת-ממדית נגישה לכולם\n\nטכנולוגיית הסריקה של Creality השתפרה באופן משמעותי בשנים האחרונות, אבל עדיין יש למה לעבוד. החברה הישראלית מצליחה להביא פתרונות תלת-ממדיים איכותיים במחיר סביר, אך הפתרון החדש שלהם לא בדיוק מושלם. מקור: Tom's Hardware",
     "d": "Mon, 06 Apr 2026 14:00:00 +0000",
     "v": 0,
     "l": [
@@ -8095,7 +8082,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 332,
-    "t": "Expert maps out more than 80 different Microsoft Copilot products, but there may be more than 100 — 'What happens when you name everything Copilot,' an AI consultant mapped out the myriad products\n\nAn AI aficionado has put together a chart of all the Copilot products they could find. At the latest count there are 80.",
+    "t": "מומחה מיפה יותר מ-80 מוצרי Copilot של מיקרוסופט - וייתכן שיש עוד מאה: 'מה קורה כשקוראים לכל דבר Copilot'\n\nיועץ AI יצר תרשים משוגע של כל מוצרי ה-Copilot שהצליח למצוא, והמספר עומד על 80 ומעלה. נראה שמיקרוסופט קצת התפזרה עם שמות - הם שמו 'Copilot' על הכל, ויצא לה מצב של spaghetti תכנית שקשה להבין איפה מתחיל ואיפה מסתיים כל מוצר. זה כמו שניסיון לזהות איזו הרחבה של Windows זה לא, אבל עשרה פעמים גרוע יותר.",
     "d": "Mon, 06 Apr 2026 12:47:31 +0000",
     "v": 0,
     "l": [
@@ -8241,7 +8228,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 338,
-    "t": "Linux devs start removing support for 37-year-old Intel 486 CPU — head honcho Linus Torvalds says 'zero real reason' to continue support\n\nLinux kernel developers appear to have started to dismantle support for the legendary Intel 486 CPU.",
+    "t": "מפתחי לינוקס מסירים תמיכה ב-Intel 486 בן 37 השנים — לינוס טורוואלדס אומר שאין 'שום סיבה אמיתית' להמשיך\n\nמפתחי kernel לינוקס החלו בתהליך של הסרת התמיכה בחיישן Intel 486 האגדי, שכיבד את תיקיית לינוקס במשך עשרות שנים. אפילו לינוס טורוואלדס עצמו הסכים שהגיע הזמן להיפרד מהמונית הקדומה הזו, כי בעולם של 2024 פשוט אין טעם להמשיך לתמוך בחומרה מעידן הדינוזאורים. זה סוף של יוקה למטוס הקרוב למעבד שאנחנו כולם זוכרים מימי הילדות שלנו.",
     "d": "Mon, 06 Apr 2026 11:09:19 +0000",
     "v": 0,
     "l": [
@@ -8287,7 +8274,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 340,
-    "t": "WD Innovation Day 2026 press Q&A transcript: roadmap plans to reach 60TB with ePMR and 100TB via HAMR by 2029 — 'at some point, the laws of physics will require us to transition to HAMR'\n\nWD's leadership, now fully split from Sandisk, talks about its expectations for the future with industry analysts. We cover the full transcript of the press-only session right here.",
+    "t": "WD Innovation Day 2026: בדרך ל-100TB עם HAMR עד 2029 — 'בסופו של דבר, הפיזיקה תאלץ אותנו לעבור ל-HAMR'\n\nWD חשפה את תוכנית הדרכים שלה לדיסקים קשיחים בעתיד - התרחיש החדש כולל הגעה ל-60TB עם ePMR ובהמשך קפיצה דרמטית ל-100TB באמצעות טכנולוגיית HAMR (הטייפ מגנטי בזוויות גבוהות). המנהיגות של החברה, שנפרדה לחלוטין מ-Sandisk, גם הסבירה שלמרות כל הטכנולוגיות החדשות, יום אחד פיזיקה בסיסית תגבור את הצעדה לדור הבא. מטעם Tom's Hardware",
     "d": "Mon, 06 Apr 2026 10:50:00 +0000",
     "v": 0,
     "l": [
@@ -8300,13 +8287,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/KmrgMrjcNCgciv9JnQUZMN-1280-80.jpg",
@@ -8360,7 +8343,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 343,
-    "t": "Nvidia's own DLSS 5 announcement video gets taken down by YouTube in Italy due to a copyright strike — local TV channel sent a copyright strike to every YouTube video for using the trailer it used for its own broadcast\n\nYouTube's AI moderator acted on an errant DMCA takedown, affecting nearly every video that contained clips of the DLSS 5 trailer, including Nvidia's own YouTube video.",
+    "t": "וידיאו ההכרזה של Nvidia ל-DLSS 5 הוסר מיוטיוב באיטליה בגלל טעות שפוקדת - ערוץ טלוויזיה מקומי שלח תביעת זכויות יוצרים לכל וידאו שהשתמש בטריילר שלו\n\nYouTube הסיר כמעט כל וידיאו שכלל קליפים מטריילר ה-DLSS 5 החדש של Nvidia - כולל הוידיאו הרשמי של Nvidia עצמה - בגלל תביעת DMCA שגויה שנשלחה על ידי ערוץ טלוויזיה איטלקי שהשתמש בטריילר לשידור שלו. המודרטור הממונע ב-AI של יוטיוב פעל על ההודעה השגויה כאילו היא לגיטימית, וזה יצא לו כמו מין סדר יום קטן של chaos במנוע ההשמה שלנו.",
     "d": "Mon, 06 Apr 2026 10:13:53 +0000",
     "v": 0,
     "l": [
@@ -9076,7 +9059,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 373,
-    "t": "AMD's upcoming Ryzen 9 9950X3D2 listed around $1,000 at several retailers across Canada and the UK — New flagship dual-cache CPU might demand a hefty premium\n\nListings for the 9950X3D2 have started to pop up at many different vendors, with some even listing preliminary prices. We found the CPU going for roughly $1,000 at two Canadian retailers, and just a smidge below that at a UK-based website. For context, the standard 9950X3D with 3D V-Cache on only one CCD launched at $699.",
+    "t": "AMD חושפת את ה-Ryzen 9 9950X3D2: מעבד דגל חדש עם מחיר תאבחוני של כ-1,000 דולר\n\nרייזן החדש של AMD כבר התחיל להופיע בקטלוגים של קמעונאים בקנדה והממלכה המאוחדת, עם מחירים שמתחייבים סביב 1,000 דולר - אלא שהגרסה הרגילה של 9950X3D הוקמה רק ב-699 דולר! זה ה-9950X3D2 עם ה-3D V-Cache כפול (על שתי CCD-ות), ונראה שאנחנו מדברים על פרמיום משמעותי שיקחו מ-המחובר יהיה בחור עמוק בכיס.",
     "d": "Sun, 05 Apr 2026 17:15:28 +0000",
     "v": 0,
     "l": [
@@ -9171,7 +9154,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 377,
-    "t": "UK confirms drone-killing DragonFire laser weapon for Royal Navy destroyers by 2027 —laser downs 400mph high‑speed drones, costs $13 per shot\n\nThe UK Ministry of Defence has confirmed that the DragonFire high-energy laser weapon will be installed on Royal Navy Type 45 destroyers by 2027, five years ahead of the original schedule.",
+    "t": "בריטניה אישרה: נשק לייזר DragonFire יחסל drones בגדולים על אוניות המלט עד 2027\n\nמשרד ההגנה הבריטי חשף שנשק הלייזר DragonFire יותקן על אוניות הקרב Type 45 של הצי הבריטי כבר ב-2027, חמש שנים לפני התוכנית המקורית. הנשק המתקדם יוכל להשמיד drones במהירות של 400 קמ\"ש בעלות של מאה עשרה דולר לירייה בלבד - כלומר שינוי גם דרמתי בעלויות ההגנה האווירית.",
     "d": "Sun, 05 Apr 2026 16:14:08 +0000",
     "v": 0,
     "l": [
@@ -9263,7 +9246,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 381,
-    "t": "Get a 27\" 1440p OLED monitor with a blazing-fast 240 Hz refresh rate for just $499 — LG's 27GS93QE-B is $400 off right now, features 1,300 nits of peak HDR brightness\n\nThe LG 27GS93QE-B is perfect for gaming, productivity, and media consumption, thanks to its versatile feature set. It's a 27-inch 1440p OLED monitor with an MLA+ panel so it's really bright at 1,300 nits (peak) and it has a 240 Hz refresh rate with support for both G-Sync and FreeSync, so it's really smooth, too.",
+    "t": "מסך OLED 27 אינץ' ברזולוציית 1440p עם 240Hz תמורת 499 דולר בלבד — ה-LG 27GS93QE-B זול ב-400 דולר עם 1,300 ניטים בהירות HDR\n\nה-LG 27GS93QE-B הוא מסך חלום לגיימרים ואנשי עבודה — 27 אינץ' בחדות 1440p עם פאנל OLED בעוצמת 1,300 ניטים שיחרבן לכם את העיניים, וקצב רענון של 240Hz שעושה את המשחקים חלקים כמו חמאה. בנוסף יש לו תמיכה ב-G-Sync וגם FreeSync, אז אין משנה מה ה-GPU שלכם.",
     "d": "Sun, 05 Apr 2026 15:17:15 +0000",
     "v": 0,
     "l": [
@@ -9276,9 +9259,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Nvidia"
+    ],
     "tags": [
-      "news"
+      "news",
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/RPYAbM892z2bZRfAh2LtaN-1280-80.png",
@@ -9309,7 +9295,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 383,
-    "t": "Iran threatens ‘complete and utter annihilation’ of OpenAI's $30B Stargate AI data center in Abu Dhabi — regime posts video with satellite imagery of ChatGPT-maker's premier 1GW data center\n\nIRGC spokesperson threatens the “complete and utter annihilation” of U.S. and Israeli facilities. Singles out the $30bn Stargate AI data center.",
+    "t": "איראן מאיימת על מרכז הנתונים הענק של OpenAI בדובאי - 'השמדה מוחלטת וכוללת'\n\nדובר הגארד הרוח האיראני איים על הריסה מוחלטת של מתקני אמריקניים וישראליים, והדגיש במיוחד את מרכז הנתונים Stargate של OpenAI בשווי 30 מיליארד דולר בגיגוואט אחד. איראן אפילו פרסמה סרטון עם תמונות לוויין של המתקן החדש של יצרנית ChatGPT, כמו שהיא מוכנה להפעיל איום קונקרטי. זה עוד פרק במתח הגיאופוליטי שמשפיע ישירות על התשתיות של ענקי ה-AI בעולם.",
     "d": "Sun, 05 Apr 2026 15:02:45 +0000",
     "v": 0,
     "l": [
@@ -9358,7 +9344,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 385,
-    "t": "Researchers train living rat neurons to perform real-time AI computations — experiments could pave the way for new brain-machine interfaces\n\nJapanese researchers trained cultured rat cortical neurons to autonomously generate complex temporal signals using a real-time machine learning framework.",
+    "t": "חוקרים אימנו נוירונים חיים של עכברים לביצוע חישובי AI בזמן אמת — הניסויים עלולים לפתוח דרך לממשקים חדשים בין מוח למכונה\n\nחוקרים יפנים הצליחו לאמן נוירונים של קליפת המוח של עכברים כדי ליצור באופן עצמאי אותות זמניים מורכבים בעזרת מסגרת ML בזמן אמת. זה כבר לא סיפור מדע בדיון - הם literally שם נוירונים אמיתיים לעבודה כמו מחשב ביולוגי. אם זה יצליח להתרחב, אנחנו עלולים להיות בפתח של מהפכה בממשקים בין מוח למכונה ויישומים רפואיים שלם לא דמיינו עדיין.",
     "d": "Sun, 05 Apr 2026 14:33:14 +0000",
     "v": 0,
     "l": [
@@ -9373,8 +9359,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/TwmURzYQNQL72NL92xzmcc-1280-80.jpg",
@@ -9457,7 +9442,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 389,
-    "t": "Limited edition Atari wristwatches dip under $500 in 20% off sale — classic console inspired rainbow designs available in five colorways\n\nWatchmaker Nubeo has put its Torrent Automatic Atari Rainbow Limited Edition timepieces on sale, all at 20% off.",
+    "t": "שעוני יד Atari מהדורה מוגבלת יורדים מתחת ל-500 דולר בהנחה של 20% — עיצובים קשת קלאסיים בחמש גרסאות צבע\n\nNubeo, יצרנית השעונים, הוציאה למכירה את שעוני Torrent Automatic Atari Rainbow Limited Edition שלה בהנחה של 20%. אם אתם חובבי הקונסולות הקלאסיות ויוצרי עיצוב Pixel Art, זו הזדמנות להשיג פריט אוסף מעניין בעלויות סבירות - שעון שמשלב בין נוסטלגיה גיימרית לאלגנטיות שעון יד אמיתי. המכונה מגיעה בחמש גרסאות צבעוניות שמעוררות זכרונות מהעידן הזהב של Atari.",
     "d": "Sun, 05 Apr 2026 13:46:07 +0000",
     "v": 0,
     "l": [
@@ -9503,7 +9488,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 391,
-    "t": "Intel's upcoming Wildcat Lake low-budget CPUs leak out again — OEM confirms specs for Core 7 350, Core 5 320, & Core 3 305 in first retail product datasheet\n\nWildcat Lake is Intel's upcoming family of low-budget and low-power CPUs intended for OEMs. We've already seen many leaks surrounding this family, but now a new product from Advantech has listed three SKUs in a datasheet for its MIO-5356 SBC. This confirms the specs from prior leaks and signals that a launch is due soon.",
+    "t": "דליפה נוספת: אינטל חושפת את ה-Wildcat Lake - מעבדים תקציביים עם Core 7 350, Core 5 320 ו-Core 3 305\n\nווילדקט ליין הוא משפחת המעבדים החדשה של אינטל שמכוונת לחברות OEM עם תקציב נמוך, והפעם יש לנו אישור סופי - חברת Advantech פרסמה datasheet עם שלוש גרסאות שונות שמאשר את כל הדיווחים הקודמים. זה סימן די ברור שהשיגור של המעבדים הלא יקרים האלה קרוב מאוד.",
     "d": "Sun, 05 Apr 2026 13:25:00 +0000",
     "v": 0,
     "l": [
@@ -9526,7 +9511,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 392,
-    "t": "Delisted Xbox 360 games briefly reappear on the Xbox Store — Microsoft prepares backward compatibility revival\n\nThis follows Xbox Vice President Jason Ronald's commitment at GDC 2026 in March to revive the company's backward compatibility program.",
+    "t": "משחקי Xbox 360 שנמחקו חזרו לחנות - מיקרוסופט מכינה חזרה לתכנית התאימות לאחור\n\nאחרי שנים של שקט, מיקרוסופט מעורבבת שוב עם משחקים ישנים שלה - כמה משחקי Xbox 360 שהיו כבר מחוקים מהחנות הופיעו שוב ברגעים אחדים, וזה כנראה טיזר לתכנית גדולה של backward compatibility. נציג Xbox אמר בחודש מרץ בכנס GDC שהם מחזירים את פרוגרם ההתאימות לשחקנים ישנים, ובכל הסתברות המשחקים האלה זה רק התחלה של משהו גדול יותר.",
     "d": "Sun, 05 Apr 2026 13:05:00 +0000",
     "v": 0,
     "l": [
@@ -9539,12 +9524,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/ZhBQfin3Z9T8tGYAQY5RMj-1280-80.jpg",
@@ -9624,7 +9606,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 396,
-    "t": "Steam starts gathering FPS data with latest client update — company to estimate framerates based on your hardware, Beta feature to focus on SteamOS devices\n\nThe latest Steam client update included an FPS data gathering component in Beta, allowing the platform to monitor your framerates and compare it with your hardware.",
+    "t": "Steam מתחיל לאסוף נתוני FPS עם העדכון הלקוח החדש — החברה תאמוד framerates בהתאם לחומרה שלך\n\nסטים הוציאה תכונה בטא חדשה שתאסוף נתוני FPS מהקונסולות שלכם, כדי שהמערכת תוכל להעריך כמה fps אתם מקבלים בהתאם לחומרה של המכשיר. התכונה תתמקד בהתחלה במכשירי SteamOS, והיא יכולה לעזור למשחקנים להבין אם הם מקבלים את הביצועים שהם היו אמורים לקבל.",
     "d": "Sun, 05 Apr 2026 12:49:19 +0000",
     "v": 0,
     "l": [
@@ -9670,7 +9652,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 398,
-    "t": "Autonomous ErgoChair Core Review: You get what you pay for\n\nThe Autonomous EroChair Core is an entry-level office chair that offers a few comfort features but is limited by its overall dimensions.",
+    "t": "ביקורת על Autonomous ErgoChair Core: אתה מקבל בדיוק מה שאתה משלם עבורו\n\nה-Autonomous ErgoChair Core היא כיסא משרדי בסיסי שמציעה כמה תכונות נוחות, אבל היא די מוגבלת בגלל הממדים הכוללים שלה. אם אתם מחפשים כיסא בדרגת כניסה עם עלות נמוכה, זה אמנם עשוי להיות מתאים, אבל חשוב לדעת על המגבלות שלו לפני ההחלטה.",
     "d": "Sun, 05 Apr 2026 12:00:00 +0000",
     "v": 0,
     "l": [
@@ -9694,7 +9676,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 399,
-    "t": "Nvidia Pascal GPUs debuted 10 years ago today, best known for the GTX 1060 and GTX 1080 Ti — architecture kicked off with the Tesla P100\n\nNvidia delivered 'five architectural breakthroughs' with the launch of the Tesla P100 accelerator 10 years ago today.",
+    "t": "לפני 10 שנים בדיוק: Nvidia השיקה את Pascal - הארכיטקטורה שהפכה למהפכה עם GTX 1060 ו-GTX 1080 Ti\n\nNvidia חגגה עשור לשיקום ה-Pascal, הארכיטקטורה שהתחילה עם ה-Tesla P100 וביאה עם ה-GTX 1080 Ti כמה מגוון הכרטיסים הגרפיים החזקים ביותר שכל פעם הופקו לגיימרים וקריאייטורים. השיקום הזה נחשב לאחד מה-GPU gamechangers בהיסטוריה, עם חמש פריצות ארכיטקטוניות שהנו נתנו לנוידיה היתרון המוחלט בשוק.",
     "d": "Sun, 05 Apr 2026 12:00:00 +0000",
     "v": 0,
     "l": [
@@ -9714,13 +9696,13 @@ window.TELEGRAM_DATA = [
       "news",
       "hardware"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/mjCiu5HUHkyTer8tg8whLK-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 400,
-    "t": "BenQ DesignVue PD2770U 4K professional monitor review: A blend of flexibility, control, and precision\n\nBenQ’s DesignVue PD2770U is a flexible and capable professional monitor with a 27-inch IPS panel, 4K resolution, wide-gamut color, HDR10, a built-in calibrator, software control, and premium build quality.",
+    "t": "סקירה: מסך BenQ DesignVue PD2770U 4K למקצוענים - גמישות, שליטה ודיוק בשילוב מושלם\n\nBenQ חזרה עם מסך DesignVue PD2770U שנראה ממש כמו החלום של מעצבים - 27 אינץ' ברזולוציית 4K עם פאנל IPS, תיסקור צבעים רחב, HDR10 ותוך-מובנה קליברטור שמונע על אף שלא תצטרכו לישון בלילה על משהו. מסך כזה עם בקרה סופטוור ואיכות בנייה פרימיום זה פשוט המתנה של כל מי שעובד בתחום הדיזיין והמולטימדיה.",
     "d": "Sun, 05 Apr 2026 12:00:00 +0000",
     "v": 0,
     "l": [
@@ -9743,7 +9725,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 401,
-    "t": "Hobbyist builds a homebrew Intel 8086 ISA accelerator card — maker’s project improves integer multiplication on these retro systems by 250%\n\nComputer scientist showcases their hardware multiplication ISA card accelerator for Intel 8086 and Intel 8088 PC systems.",
+    "t": "חובב בנה כרטיס מאיץ משלו לבית ל-Intel 8086 — הפרויקט משפר כפל מספרים שלמים בעד 250%\n\nמדעני מחשבים בישראל (וגם בעולם) עדיין לא הפסיקו להתעסק במחשבים ישנים מימי הקדם, ובפעם הזו סתם בחור כשרון ממש בנה כרטיס האצה משלו שמעניק ביצועים כמעט בלתי אפשריים לתיקיית האב עם ה-Intel 8086 ו-8088 שלו. התוצאה? כפל מהיר פי 2.5 מהמקובל, וזה בגלל שהוא יצר ISA accelerator שיודע להתמודד עם פעולות כפל במהירות שעד היום בנו יכלו רק לחלום עליה.",
     "d": "Sun, 05 Apr 2026 11:40:00 +0000",
     "v": 0,
     "l": [
@@ -9766,7 +9748,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 402,
-    "t": "Intel's upcoming 42-core Nova Lake SKU allegedly upgraded to 44 cores — New config frees up 6P+12E tiles that could trickle down as locked bLLC variants\n\nA 42-core SKU from the upcoming Nova Lake-S CPU family has reportedly been upgraded to 44 cores by swapping the 6P+12E tile with an 8P+12E tile, allowing the chip to achieve symmetry across its dual-tile config. Those leftover 6P+12E tiles could now become locked variants with 144 MB of bLLC as a new 22-core SKU (6P+12E+4LPE).",
+    "t": "אינטל משדרגת את Nova Lake: SKU בן 42 ליבות הופך ל-44 ליבות — תצורה חדשה תאפשר גרסאות נעולות זולות יותר\n\nאינטל לכאורה שדרגה את ה-SKU של Nova Lake-S מ-42 ליבות ל-44 ליבות בעזרת החלפת קומבינציית תיל של 6P+12E ל-8P+12E, מה שנותן סימטריה יפה למכונית הדו-קומית. התיל של 6P+12E שנשאר עלי כיס יוכל להפוך לגרסאות נעולות זולות יותר עם 144 MB bLLC, במטרה ליצור SKU חדש של 22 ליבות שיהיה מושלם למתחזקי תקציב.",
     "d": "Sun, 05 Apr 2026 11:20:00 +0000",
     "v": 0,
     "l": [
@@ -9783,7 +9765,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/UCi5VauRSMvqwDqHJG7uqL-1280-80.jpg",
     "source": "Tom's Hardware"
   },
@@ -9812,7 +9794,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 404,
-    "t": "Sequoia Capital shares founder’s 1977 memo for investing in Apple — initial $600,000 investment is worth $26.4 billion today, firm said it was ‘tough to do this deal’\n\nThe VC firm shared its founder's notes on Apple recognizing the company's potential while also doubting its management team.",
+    "t": "Sequoia Capital חושפת את הממו של המייסד משנת 1977 על השקעה באפל — ההשקעה של 600,000 דולר שווה היום 26.4 מיליארד דולר\n\nחברת VC הביעה את הערות המייסד על אפל שבהן הוא זיהה פוטנציאל ענק אך גם ספק בהנהלת החברה. מסמך היסטורי שמראה איך אפילו בחלומות הוולד של VC, היה קצת תרגיל אמונה – הם עצמם היססו אם הצוות שם יוכל להוביל את הרכב הזה.",
     "d": "Sun, 05 Apr 2026 11:00:00 +0000",
     "v": 0,
     "l": [
@@ -9825,15 +9807,11 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Apple"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/VsLoEQhpNC6aootjGyfPwG-1280-80.png",
     "source": "Tom's Hardware"
   },
@@ -9862,7 +9840,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 406,
-    "t": "PlayStation 3 emulator makes Cell CPU 'breakthrough' that improves performance in all games — 'All CPUs can benefit from this, from low-end to high-end!' says RPCS3 devs\n\nDevelopers behind the open-source PlayStation 3 emulator RPCS3 claim that they’ve achieved a breakthrough in emulating the PS3's Cell Broadband Engine processor.",
+    "t": "אמולטור PlayStation 3 עשה 'פריצת דרך' בעיבוד ה-Cell CPU — ביצועים טובים יותר בכל המשחקים\n\nמפתחי אמולטור ה-PS3 הפתוח RPCS3 טוענים שהם הצליחו לעשות breakthrough בהדמיית המעבד Cell Broadband Engine של הקונסולה. לדברי הצוות, התיקון החדש משפר את הביצועים בכל המשחקים ויכול להועיל גם לעיבוד CPU כללי בחומרה חלשה וחזקה כאחד.",
     "d": "Sun, 05 Apr 2026 10:40:00 +0000",
     "v": 0,
     "l": [
@@ -11734,7 +11712,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 484,
-    "t": "Trump Fans Furious That NASA Is Allowing a Canadian on the Moon Mission\n\n\"Why are we letting a Canadian go to our Moon?\"\nThe post Trump Fans Furious That NASA Is Allowing a Canadian on the Moon Mission appeared first on Futurism.",
+    "t": "תומכי טראמפ כועסים: NASA מאפשרת לקנדי לטוס לירח\n\nבחודשים האחרונים פרצה סערת כעס בקרב תומכי טראמפ בעקבות החלטת NASA לכלול אסטרונאוט קנדי במשימת ירח הקרובה. התשובה הפשוטה שנשמעה בתוך קהילות פוליטיות הייתה: 'למה אנחנו מאפשרים לקנדי ללכת לירח שלנו?' - שאלה שעוררה דיון חם על שותפויות בינלאומיות וגאווה לאומית במרחב.",
     "d": "Fri, 03 Apr 2026 14:05:16 -0400",
     "v": 0,
     "l": [
