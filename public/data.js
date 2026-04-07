@@ -4740,7 +4740,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 195,
-    "t": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+    "t": "הנגשת AI רובוטיקה לפלטפורמות משובצות: הקלטת דיטה, כיוונון VLA ואופטימיזציות On-Device\n\nחברה הציגה דרך חדשה להריץ מודלי AI מתקדמים של רובוטיקה ישירות על התקנים קטנים וממוגבלים, ללא צורך בשרתים חיצוניים. התהליך כולל הקלטת מערכי נתונים של פעולות רובוטיות, כיוונון מודלים של Vision Language Actions, והתאמת האלגוריתם כך שיעבוד בצורה יעילה על חומרה מוגבלת. זה בעצם חוסך בהרבה כוח חישוב וזמן תגובה, מה שחשוב מאוד לרובוטים שצריכים לקבל החלטות בזמן אמת.",
     "d": "Thu, 05 Mar 2026 14:16:49 GMT",
     "v": 0,
     "l": [
@@ -4755,8 +4755,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn-uploads.huggingface.co/production/uploads/652d3409a7275ea70302b30c/gXqFpO7MoXWDcrmViQY-1.jpeg",
@@ -4969,7 +4968,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 204,
-    "t": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
+    "t": "הכירו את Modular Diffusers - אבני בנייה הניתנות לחיבור עבור Diffusion Pipelines\n\nחברת Hugging Face הציגה פתרון חדש שמאפשר למפתחים לבנות Diffusion Pipelines בצורה מודולרית וגמישה, כמו שמחברים לגו - אתה בוחר את הרכיבים שאתה צריך ומחברים אותם. זה אומר שכל מי שעובד עם מודלים של דיפוזיה יוכל להתאים את הצנרת לצרכים שלו בהרבה יותר קלות, בלי להתחיל מאפס בכל פעם. Hugging Face",
     "d": "Thu, 05 Mar 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -5116,7 +5115,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 210,
-    "t": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
+    "t": "PRX חלק 3 — הכשרת מודל Text-to-Image תוך 24 שעות!\n\nהצוות של Hugging Face הצליח להכשיר מודל text-to-image שלם במשך יום אחד בלבד, וזה בעצם פריצת דרך גדולה בתחום. המשימה שנחשבה בעבר לזמינה רק לחברות ענק עם GPU farms ענקיים, הפכה פתאום לאפשרית עבור צוותים קטנים יותר. עם אופטימיזציות חכמות ותשתית הנכונה, הם מראים שאפילו מודלים מעוקפים לא צריכים להיות יקרים לאימון.",
     "d": "Tue, 03 Mar 2026 16:50:49 GMT",
     "v": 0,
     "l": [
@@ -5129,9 +5128,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Nvidia"
+    ],
     "tags": [
-      "news"
+      "news",
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://cdn-uploads.huggingface.co/production/uploads/68e529af513e724edd8702f6/zMyALdakGbN6SDG3ucmLd.jpeg",
@@ -5558,7 +5560,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 227,
-    "t": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+    "t": "GGML ו-llama.cpp מצטרפים ל-Hugging Face כדי להבטיח את התקדמות ה-AI המקומי לטווח ארוך\n\nבחדשות גדולות לעולם ה-AI הפתוח, Hugging Face הודיעה שהיא משתפת פעולה עם GGML ו-llama.cpp - שני פרויקטים קריטיים שמאפשרים הרצת מודלי AI גדולים על מחשבים רגילים ללא צורך בחומרה כבדה. הצעד הזה מכוון להבטיח שהקהילה תוכל להמשיך לפתח ולשפר מודלים מקומיים באופן בלתי תלוי, דבר שמרחיק את ה-AI מהשליטה של חברות ענק בלבד.",
     "d": "Fri, 20 Feb 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -5584,7 +5586,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 228,
-    "t": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
+    "t": "אימון מודלי AI בחינם עם Unsloth והשירות החדש Hugging Face Jobs\n\nHugging Face הכריזה על אפשרות מפתה לכל מי שרוצה לתרגל בבניית AI מודלים - עכשיו אתם יכולים לאמן מודלים בחינם בעזרת Unsloth, כלי שמאיץ את תהליך ההכשרה ומחסך משאבים. השירות החדש Hugging Face Jobs מאפשר לכם להשתמש בחומרה ב-cloud בלי להשקיע כסף, וזה משנה את המשחק לכל ה-hobbyists וה-startups שרוצים להתנסות ב-machine learning בלי להפסיד הון עצום.",
     "d": "Fri, 20 Feb 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -5659,7 +5661,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 231,
-    "t": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
+    "t": "IBM וUC Berkeley חושפים למה Enterprise Agents נכשלים עם IT-Bench ו-MAST\n\nIBM וUniversity of California Berkeley פיתחו כלים חדשים שמעזרים להבין מה בדיוק הולך לא בעולם ה-AI agents בעסקים. הם יצרו בנק בדיקות בשם IT-Bench ופלטפורמת ניתוח בשם MAST שמאפשרות לחברות לזהות בדיוק איפה ולמה ה-agents שלהם מתחילים להסתובב בחוגים. זה חשוב לכל מי שמנסה להפעיל AI agents בתוך הארגון שלהם ורוצה להבין את הבעיות האמיתיות שלהם.",
     "d": "Wed, 18 Feb 2026 16:15:45 GMT",
     "v": 0,
     "l": [
@@ -5710,7 +5712,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 233,
-    "t": "One-Shot Any Web App with Gradio's gr.HTML",
+    "t": "אפליקציה ווב בקליק אחד עם gr.HTML של Gradio\n\nGradio הוציאה פיצ'ר חדש ומגניב שמאפשר לכם לבנות ויזואליזציות ואפליקציות וב מורכבות בקלות רבה - פשוט תשתמשו ב-gr.HTML כדי להכניס HTML רגיל ישירות לתוך הממשק שלכם. זה פשוט משנה את המשחק עבור מי שרוצה ליצור דברים מעוצבים בלי צרות, וגם מי שכבר מכיר HTML יוכל להשתמש בדיוק בקוד שלו בלי שום שינויים.",
     "d": "Wed, 18 Feb 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -10806,7 +10808,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 432,
-    "t": "Advancing organizational transformation for business innovation\n\nDNP rolled out ChatGPT Enterprise across ten core departments, achieving 95% faster patent research, 10x processing volume, 87% automation, and 70% knowledge reuse in three months.",
+    "t": "קדימה לשינוי ארגוני ועדכון עסקי\n\nDNP הטילה את ChatGPT Enterprise בעשר מחלקות ליבה וראתה תוצאות שמדברות בעד עצמן - חיפוש פטנטים מהיר 95 פעמים יותר, כמות עיבוד גבוהה פי 10 ואוטומציה של 87% בתוך שלושה חודשים בלבד. בעצם הם גם הצליחו להשתמש בידע קיים שוב ב-70% מהמקרים, מה שחוסך הרבה עבודה כפולה וזמן יקר.",
     "d": "Tue, 28 Oct 2025 17:00:00 GMT",
     "v": 0,
     "l": [
@@ -10855,7 +10857,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 434,
-    "t": "Doppel’s AI defense system stops attacks before they spread\n\nDoppel uses GPT-5 and reinforcement fine-tuning to stop deepfake and impersonation attacks, cutting analyst workloads by 80% and reducing response times from hours to minutes.",
+    "t": "מערכת ההגנה של דופל עוצרת התקפות לפני שהן מתפשטות\n\nדופל משתמשת ב-GPT-5 וטכניקות של reinforcement fine-tuning כדי לעצור התקפות deepfake והתחזויות זהות, וקטנה בכך את עומס העבודה של אנליסטים ב-80% ומקטינה את זמן התגובה מעשרות שעות לדקות בודדות. זו בעצם מהפכה בעולם cybersecurity, כי המערכת מסוגלת לתפוס ולנטרל איומים בהרבה יותר מהר מאשר ניתן הכן האדם.",
     "d": "Tue, 28 Oct 2025 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -10873,7 +10875,8 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model"
+      "model",
+      "security"
     ],
     "imp": "low",
     "thumb": null,
@@ -10881,7 +10884,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 435,
-    "t": "Built to benefit everyone\n\nOpenAI’s recapitalization strengthens mission-focused governance, expanding resources to ensure AI benefits everyone while advancing innovation responsibly.",
+    "t": "בנוי להנות לכולם\n\nOpenAI עברה סבב גיוס הון חדש שמחזק את הממשלה המכוונת למשימה שלה, ופותח משאבים כדי להבטיח שהתועלות של AI יגיעו לכולנו בזמן שמתקדמים בחכמה. בעצם, החברה משיגה אי-שיווי משקל שקשה לעשותו בעולם ה-AI - להיות אגודה עם ערכים תוך שמחזיקה בסביבת עסקים סחוטה.",
     "d": "Tue, 28 Oct 2025 06:00:00 GMT",
     "v": 0,
     "l": [
@@ -10907,7 +10910,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 436,
-    "t": "The next chapter of the Microsoft–OpenAI partnership\n\nMicrosoft and OpenAI sign a new agreement that strengthens its long-term partnership, expands innovation, and ensures responsible AI progress.",
+    "t": "הפרק הבא בשותפות מיקרוסופט–OpenAI\n\nמיקרוסופט ו-OpenAI חתמו על הסכם חדש שמעמיק את השותפות ביניהם לטווח ארוך ופותח דלתות לחדשנות בתחום ה-AI. ההסכם מודגש בהתחייבות לפיתוח אחראי של בינה מלאכותית, מה שמשמעותו שהשניים עדיין בנתיב לשנות את תעשיית הטכנולוגיה כמו שאנחנו מכירים אותה.",
     "d": "Tue, 28 Oct 2025 06:00:00 GMT",
     "v": 0,
     "l": [
@@ -10921,15 +10924,13 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Microsoft"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "model",
-      "product"
+      "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
@@ -10958,7 +10959,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 438,
-    "t": "Seizing the AI opportunity\n\nMeeting the demands of the Intelligence Age will require strategic investment in energy and infrastructure. OpenAI’s submission to the White House details how expanding capacity and workforce readiness can sustain U.S. leadership in AI and economic growth.",
+    "t": "תפיסת הזדמנות ה-AI\n\nOpenAI פגעה בעיניים של הבית הלבן עם תוכנית אמביציוזית: כדי שארה\"ב תישמור על הנתונים שלה בעולם ה-AI, צריך להשקיע ממש בגדול באנרגיה ותשתיות. ההודעה הרשמית של OpenAI מדברת על צורך הרחבת הקיבולת, הכשרת כוח אדם, וקידום מיזמים שיצמאו את המנהיגות האמריקנית בתחום וישמרו על צמיחה כלכלית.",
     "d": "Mon, 27 Oct 2025 12:00:00 GMT",
     "v": 0,
     "l": [
@@ -10976,8 +10977,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -10985,7 +10985,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 439,
-    "t": "Strengthening ChatGPT’s responses in sensitive conversations\n\nOpenAI collaborated with 170+ mental health experts to improve ChatGPT’s ability to recognize distress, respond empathetically, and guide users toward real-world support—reducing unsafe responses by up to 80%. Learn how we’re making ChatGPT safer and more supportive in sensitive moments.",
+    "t": "שיפור תגובות ChatGPT בשיחות רגישות\n\nOpenAI שיתפה פעולה עם למעלה מ-170 מומחי בריאות נפשית כדי לשפר את היכולת של ChatGPT להכיר כאבל, להגיב בהקנאה ולהנחות משתמשים לעזרה אמיתית בעולם. התוצאה? הפחתה של עד 80% בתגובות לא בטוחות. כרגע, ה-AI מתחיל להבין שיש אנשים שצריכים תמיכה ממשית ולא רק תשובות טובות.",
     "d": "Mon, 27 Oct 2025 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -11011,7 +11011,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 440,
-    "t": "Addendum to GPT-5 System Card: Sensitive conversations\n\nThis system card details GPT-5’s improvements in handling sensitive conversations, including new benchmarks for emotional reliance, mental health, and jailbreak resistance.",
+    "t": "תוספת לכרטיס המערכת של GPT-5: שיחות רגישות\n\nOpenAI חשפה כמה יכולות חדשות של GPT-5 בטיפול בשיחות רגישות - המודל עכשיו יותר טוב בהבנת מצבים שבהם אנשים סומכים עליו רגשית, בנושאי בריאות נפשית, וגם בהתנגדות לניסיונות jailbreak. במילים אחרות, ChatGPT הדור החדש הזה למד לא לעזור לאנשים בדברים מסוכנים ולהיות יותר אמפתי כשצריך.",
     "d": "Mon, 27 Oct 2025 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -11038,7 +11038,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 441,
-    "t": "Steuerrecht.com delivers client-ready legal analysis with ChatGPT\n\nSteuerrecht.com uses ChatGPT Business to streamline legal workflows, automate tax research, and deliver faster, client-ready analysis for law firms.",
+    "t": "Steuerrecht.com משתמשת ב-ChatGPT כדי להעביר ניתוח משפטי מוכן ללקוחות\n\nפלטפורמת Steuerrecht.com התחברה ל-ChatGPT Business וצפויה להפוך את עולם המשפטי למהיר יותר - המערכת מייעלת את תהליכי עבודה משפטיים, מאיצה מחקר מס ומספקת ניתוח מוכן ללקוחות בזמן רשות. עוד דרך בה AI משנה את תעשיית החוק בישראל ובעולם.",
     "d": "Mon, 27 Oct 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -11056,8 +11056,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -11135,7 +11134,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 445,
-    "t": "OpenAI acquires Software Applications Incorporated, maker of Sky\n\nOpenAI has acquired Software Applications Incorporated, maker of Sky—a natural language interface for Mac that brings AI directly into your desktop experience. Together, we’re integrating Sky’s deep macOS capabilities into ChatGPT to make AI more intuitive, contextual, and action-oriented.",
+    "t": "OpenAI קנתה את Sky - אפליקציית ה-AI הטבעית למק\n\nOpenAI השתלטה על Software Applications Incorporated, החברה שמאחורי Sky - ממשק AI טבעי שהופך את המק לעוד חכם וקשור. עכשיו הם משלבים את היכולות העמוקות של Sky ישירות ל-ChatGPT, כדי שה-AI יהיה יותר אינטואיטיבי, מחובר להקשר שלך, ובעיקר - עוד יותר יעיל בביצוע פעולות ממשיות על המחשב שלך.",
     "d": "Thu, 23 Oct 2025 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -11155,13 +11154,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 446,
-    "t": "Consensus accelerates research with GPT-5 and Responses API\n\nConsensus uses GPT-5 and OpenAI’s Responses API to power a multi-agent research assistant that reads, analyzes, and synthesizes evidence in minutes—helping over 8 million researchers accelerate scientific discovery.",
+    "t": "Consensus מאיצה מחקר עם GPT-5 ו-Responses API\n\nConsensus משתמשת ב-GPT-5 וב-Responses API של OpenAI כדי להנעיל עוזר מחקר מתוחכם שקורא, מנתח וסינתז ראיות בדקות ספורות - וזה עוזר ליותר מ-8 מיליון חוקרים להאיץ את תהליך הגילוי המדעי. הטכנולוגיה החדשה הזו פותחת דלתות חדשות למישהו שצריך לעבור על ערמה של מחקרים מדעיים וליצור תמונה מלאה במהירות שלא נראתה מעולם.",
     "d": "Thu, 23 Oct 2025 09:00:00 GMT",
     "v": 0,
     "l": [
@@ -11179,8 +11178,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -11188,7 +11186,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 447,
-    "t": "AI in South Korea—OpenAI’s Economic Blueprint\n\nOpenAI's Korea Economic Blueprint outlines how South Korea can scale trusted AI through sovereign capabilities and strategic partnerships to drive growth.",
+    "t": "AI בדרום קוריאה - התוכנית הכלכלית של OpenAI\n\nOpenAI חושפת תוכנית אסטרטגית שמראה לדרום קוריאה איך לבנות יכולות AI עצמאיות ואמינות דרך שותפויות חכמות, כדי לדחוף את הכלכלה קדימה. זה כולל בניית תשתיות מקומיות וקישורים בינלאומיים שיעזרו לה להיות שחקן עיקרי בשוק ה-AI העולמי.",
     "d": "Thu, 23 Oct 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -11208,13 +11206,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 448,
-    "t": "Work smarter with your company knowledge in ChatGPT\n\nCompany knowledge brings context from your apps into ChatGPT for answers specific to your business, with clear citations, security, privacy, and admin controls. Available now for Business, Enterprise, and Edu users.",
+    "t": "עבדו חכם יותר עם הידע הארגוני שלכם ב-ChatGPT\n\nOpenAI השיקה פיצ'ר חדש שמביא את הנתונים והידע של החברה ישירות ל-ChatGPT, כך שתוכלו לקבל תשובות מדויקות וממוקדות לעסק שלכם עם ציטוטים ברורים. כל זה עם שליטה מלאה על אבטחה, פרטיות והרשאות מנהלים, ועכשיו זה כבר זמין לכל משתמשי Business, Enterprise ו-Edu.",
     "d": "Thu, 23 Oct 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -11232,8 +11230,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -11265,7 +11262,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 450,
-    "t": "The next chapter for UK sovereign AI\n\nOpenAI expands its UK partnership with a new Ministry of Justice agreement, bringing ChatGPT to civil servants. It also introduces UK data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform to support trusted and secure AI adoption.",
+    "t": "הפרק הבא בעלייתה של בריטניה ב-AI עצמאי\n\nOpenAI מרחיבה את שותפותה בבריטניה עם הסכם חדש עם משרד המשפטים, שמביא את ChatGPT לעובדי הציבור. חברה גם משיקה אחסון נתונים בבריטניה (UK data residency) לגרסאות Enterprise ו-Edu של ChatGPT, ובנוסף לפלטפורם ה-API, כדי להבטיח אימוץ AI בטוח ומהימן. המהלך הזה מראה שOpenAI רוצה להפוך ל-partner אמין של ממשלות בעולם בתחום ה-AI.",
     "d": "Wed, 22 Oct 2025 16:00:00 GMT",
     "v": 0,
     "l": [
@@ -11285,13 +11282,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 451,
-    "t": "AI in Japan—OpenAI’s Japan Economic Blueprint\n\nOpenAI’s Japan Economic Blueprint outlines how Japan can harness AI to boost innovation, strengthen competitiveness, and enable sustainable, inclusive growth.",
+    "t": "AI ביפן - התוכנית הכלכלית של OpenAI ליפן\n\nOpenAI פרסמה תוכנית כלכלית שמראה לקבוצת היפנים איך להשתמש ב-AI כדי לדחוף קדימה את החדשנות, להשאר תחרותיים בשוק הגלובלי, וגם לגדול בצורה בת-קיימא ושוויונית. זה בעצם המזמן הגדול לקומץ השחקנים הטכנולוגיים בעולם שרוצים להישאר רלוונטיים בעידן האי אם.",
     "d": "Wed, 22 Oct 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -11364,7 +11361,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 454,
-    "t": "Continue your ChatGPT experience beyond WhatsApp\n\nChatGPT will no longer be available on WhatsApp after January 15, 2026. Learn how to link your ChatGPT account and continue your conversations across devices.",
+    "t": "המשיכו את חוויית ChatGPT מעבר לווטסאפ\n\nChatGPT לא יהיה זמין בווטסאפ אחרי ה-15 בינואר 2026, אבל אל דאגה - אפשר להתחבר לחשבון ChatGPT שלכם וממשיכים את השיחות בכל מכשיר שתרצו. OpenAI פשוט מעבירים את השירות לערוץ חדש כי כנראה יש להם תוכניות גדולות עם האפליקציה הממורכזת.",
     "d": "Tue, 21 Oct 2025 17:00:00 GMT",
     "v": 0,
     "l": [
@@ -11390,7 +11387,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 455,
-    "t": "Introducing ChatGPT Atlas, the browser with ChatGPT built in\n\nChatGPT Atlas, the browser with ChatGPT built it. Get instant answers, summaries, and smart web help—right from any page. With privacy settings you can control. Available now for MacOS.",
+    "t": "ChatGPT Atlas – דפדפן חדש של OpenAI עם ChatGPT משולב בתוכו\n\nOpenAI הציגה את ChatGPT Atlas, דפדפן שמגיע עם ChatGPT מובנה שמעניק תשובות מיידיות וסיכומים ישירות מכל עמוד באינטרנט. התכונה החדשה מאפשרת עזרה חכמה בעת גלישה תוך שליטה מלאה בהגדרות הפרטיות שלכם, וכרגע זמינה למשתמשי MacOS.",
     "d": "Tue, 21 Oct 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -11511,7 +11508,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 460,
-    "t": "Plex Coffee delivers fast, personal service with ChatGPT\n\nLearn how Plex Coffee uses ChatGPT Business to centralize knowledge, train staff faster, and preserve personal connections while expanding.",
+    "t": "Plex Coffee מספקת שירות מהיר ואישי בעזרת ChatGPT\n\nחברת Plex Coffee השתמשה ב-ChatGPT Business כדי לארגן את כל הידע שלה במקום אחד, לאמן את הצוות בהרבה יותר מהר, ובאותו הזמן לשמור על החוויה האישית שחובבי הקפה אוהבים. זה כמו שביטחון וקנייס שניתן לספירה - היא יכולה להרחיב את העסק מבלי לאבד את הרוח שלה.",
     "d": "Wed, 15 Oct 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -11560,7 +11557,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 462,
-    "t": "Expert Council on Well-Being and AI\n\nOpenAI’s new Expert Council on Well-Being and AI brings together leading psychologists, clinicians, and researchers to guide how ChatGPT supports emotional health, especially for teens. Learn how their insights are shaping safer, more caring AI experiences.",
+    "t": "מועצת המומחים לרווחה ו-AI של OpenAI\n\nOpenAI הקימה מועצת מומחים חדשה שמביאה ביחד פסיכולוגים, קlinicians וחוקרים מובילים כדי להנחות את החbrChatGPT באופן שתומך בבריאות נפשית, בעיקר לנערים. המטרה היא לוודא שה-AI שלהם יותר בטוח ורגיש, ולשמור על הרווחה הנפשית של המשתמשים במיוחד בקרב דור הצעירים.",
     "d": "Tue, 14 Oct 2025 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -11586,7 +11583,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 463,
-    "t": "Argentina’s AI opportunity\n\nOpenAI and Sur Energy are exploring Argentina’s first Stargate project—an AI and clean energy collaboration that could make Argentina a Latin American leader in artificial intelligence, sustainable infrastructure, and digital innovation.",
+    "t": "ההזדמנות של ארגנטינה ב-AI\n\nOpenAI וSur Energy משתפות פעולה בפרויקט Stargate ראשון בארגנטינה - שיתוף פעולה חדשני שמשלב AI ואנרגיה נקייה שיכול להפוך את ארגנטינה לחוקרת של טכנולוגיית AI, תשתיות ירוקות וחדשנות דיגיטלית בכל אמריקה הלטינית. זה לא רק על בניית אתרי נתונים חדשים, אלא על יצירת הזדמנויות כלכליות וטכנולוגיות אמיתיות למדינה שמחפשת למצוא את המקום שלה בעולם ה-AI. מדובר בשיתוף פעולה שיכול להשפיע על כל התחום בחצי כדור זה.\n\nמקור: OpenAI Blog",
     "d": "Tue, 14 Oct 2025 06:00:00 GMT",
     "v": 0,
     "l": [
@@ -11635,7 +11632,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 465,
-    "t": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators\n\nOpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems and Ethernet solutions to power scalable, energy-efficient AI infrastructure by 2029.",
+    "t": "OpenAI וBroadcom מכריזים על שיתוף פעולה אסטרטגי לפריסת 10 ג'יגוואט של מאיצי AI מעצובי OpenAI\n\nOpenAI וBroadcom חתמו על partnership מולטי-שנתי שסוג להיות ממש משמעותי - הם הולכים לפרוס 10 ג'יגוואט של AI accelerators שנתכננו ספציפית על ידי OpenAI, תוך פיתוח במשותף מערכות דור הבא וריאות Ethernet שיהפכו את infrastructure ה-AI שלנו ליותר סקלביל וחסכוני בחשמל עד 2029.",
     "d": "Mon, 13 Oct 2025 06:00:00 GMT",
     "v": 0,
     "l": [
@@ -11684,7 +11681,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 467,
-    "t": "HYGH speeds development and campaigns with ChatGPT Business\n\nHYGH speeds up software development and campaign delivery with ChatGPT Business, cutting turnaround times, scaling output, and driving revenue growth.",
+    "t": "HYGH מאיצה פיתוח ותחקוק עם ChatGPT Business\n\nHYGH השתמשה ב-ChatGPT Business כדי להתאיץ משמעותית בפיתוח תוכנה והשקת קמפיינים, וזה חסך להם כמה זמן חשוב וסימל לתפוקה גדולה יותר. התוצאה? קצוצים בזמנים למסירה, סקאלביליות עדיפות וגדילה בהכנסות שנראה שמדברת בעד עצמה. זה עוד דוגמה קונקרטית לאיך AI אמתי כבר משנה משחק בחברות טק בעולם האמיתי.",
     "d": "Fri, 10 Oct 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -11710,7 +11707,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 468,
-    "t": "Defining and evaluating political bias in LLMs\n\nLearn how OpenAI evaluates political bias in ChatGPT through new real-world testing methods that improve objectivity and reduce bias.",
+    "t": "הגדרת והערכת הטיה פוליטית ב-LLMs\n\nOpenAI חשפה כיצד היא בודקת ומנטרת הטיה פוליטית ב-ChatGPT דרך שיטות בדיקה חדשות שמתבססות על מקרים אמיתיים. השיטות החדשות האלה מסייעות להפחית הטיות ולהגביר אובייקטיביות של המודל - נושא חם במיוחד בימים אלה כשהאי-אדם הולך ופוקד יותר ויותר על החברה שלנו.",
     "d": "Thu, 09 Oct 2025 13:00:00 GMT",
     "v": 0,
     "l": [

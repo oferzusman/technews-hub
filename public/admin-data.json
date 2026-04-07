@@ -1,20 +1,20 @@
 {
   "total": 468,
-  "translated": 368,
-  "untranslated": 100,
+  "translated": 397,
+  "untranslated": 71,
   "today": 287,
   "week": 445,
   "sources": [
     {
       "name": "OpenAI Blog",
       "total": 226,
-      "translated": 204,
+      "translated": 226,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
       "name": "Hugging Face Blog",
       "total": 84,
-      "translated": 15,
+      "translated": 22,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -78,5 +78,5 @@
       "lastDate": "Wed, 07 Jan 2026 20:00:00 GMT"
     }
   ],
-  "generatedAt": "2026-04-07T15:40:59.343Z"
+  "generatedAt": "2026-04-07T15:54:10.814Z"
 }
