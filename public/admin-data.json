@@ -1,14 +1,14 @@
 {
   "total": 468,
-  "translated": 190,
-  "untranslated": 278,
-  "today": 369,
+  "translated": 220,
+  "untranslated": 248,
+  "today": 287,
   "week": 445,
   "sources": [
     {
       "name": "OpenAI Blog",
       "total": 226,
-      "translated": 27,
+      "translated": 56,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -20,7 +20,7 @@
     {
       "name": "Ars Technica",
       "total": 29,
-      "translated": 27,
+      "translated": 28,
       "lastDate": "Tue, 07 Apr 2026 09:00:03 +0000"
     },
     {
@@ -78,5 +78,5 @@
       "lastDate": "Wed, 07 Jan 2026 20:00:00 GMT"
     }
   ],
-  "generatedAt": "2026-04-07T10:36:35.833Z"
+  "generatedAt": "2026-04-07T10:59:16.689Z"
 }

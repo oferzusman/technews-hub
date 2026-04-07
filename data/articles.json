@@ -4373,8 +4373,8 @@
       "source": "Ars Technica",
       "title_en": "Astronauts set distance record, revealing the Moon as a place to be explored",
       "description_en": "\"Humans have probably not evolved to see what we’re seeing. It is truly hard to describe. It is amazing.\"",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "אסטרונאוטים שברו שיא מרחק וחשפו את הירח כעולם שצריך להתגלות",
+      "description_he": "האסטרונאוטים התרחקו מהכדור הארצי יותר מאי פעם, והחוויה היא כל כך מטורפת שלפי דבריהם האדם בכלל לא התפתח כדי לראות את זה. המנהיגות החלל מעדכנת: הירח זה לא רק שם שמדברים עליו - זה יעד שלנו הבא ויש שם הרבה מה לגלות.",
       "link": "https://arstechnica.com/space/2026/04/astronauts-set-distance-record-revealing-the-moon-as-a-place-to-be-explored/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55191470911_9eff6d82ad_5k-1152x648.jpg",
       "pub_date": "Tue, 07 Apr 2026 03:50:32 +0000",
@@ -4391,7 +4391,7 @@
         "planetary science",
         "solar system"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:04.440Z",
       "created_at": "2026-04-07T10:34:04.440Z"
@@ -4425,8 +4425,8 @@
       "source": "OpenAI Blog",
       "title_en": "Codex Security: now in research preview",
       "description_en": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "Codex Security: זה כבר בשלב ניסיוני",
+      "description_he": "OpenAI השיקה את Codex Security, סוכן AI חדש שמיוחד לאבטחת קוד. הכלי הזה מנתח את ההקשר של הפרויקט שלכם כדי לתפוס חולשות אבטחה מורכבות, לאמת אותן, ואפילו לתקן אותן - וכל זה עם פחות False Positives מעצבן שמטריפים למפתחים. בקיצור, זה בדיוק מה שצריך לשמור על הקוד שלכם בטוח ושלם.",
       "link": "https://openai.com/index/codex-security-now-in-research-preview",
       "image_url": null,
       "pub_date": "Fri, 06 Mar 2026 10:00:00 GMT",
@@ -4434,7 +4434,7 @@
       "categories": [
         "Product"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:08.131Z",
       "created_at": "2026-04-07T10:34:08.131Z"
@@ -4444,8 +4444,8 @@
       "source": "OpenAI Blog",
       "title_en": "How Balyasny Asset Management built an AI research engine for investing",
       "description_en": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "איך Balyasny Asset Management בנתה מנוע AI לחקר השקעות",
+      "description_he": "בלייסני בנתה מערכת AI מתחכמת עם GPT-5.4 שמאפשרת לה לנתח השקעות בקנה מידה ענק, תוך שימוש בהערכת מודלים קפדנית וזרימות agent חכמות שמטרנספורמים את כל תהליך ניתוח ההשקעות. מה שהתחיל כניסיון להטמיע AI בתחום הפיננסים הפך לכלי מחקר שמשנה את השחקן בעולם ההשקעות המוסדיות.",
       "link": "https://openai.com/index/balyasny-asset-management",
       "image_url": null,
       "pub_date": "Fri, 06 Mar 2026 07:00:00 GMT",
@@ -4453,7 +4453,7 @@
       "categories": [
         "B2B Story"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:08.305Z",
       "created_at": "2026-04-07T10:34:08.305Z"
@@ -4463,8 +4463,8 @@
       "source": "OpenAI Blog",
       "title_en": "How Descript engineers multilingual video dubbing at scale",
       "description_en": "Using OpenAI reasoning models, Descript unlocked automatic localization of large content libraries without losing timing or meaning.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "איך Descript מבצעת דיבוב וידאו רב-שפתי בקנה מידה ענק",
+      "description_he": "דברת הצליחה להשתמש בmodelit ה-reasoning של OpenAI כדי לאפשר דיבוב אוטומטי של ספריות תוכן거ןזומות בלי להפסיד את התזמון או המשמעות. התוצאה? localization חכם שבסופו של דבר עוזר ליוצרים להגיע לאנשים בכל קצווי העולם ללא צורך בעבודה ידנית מייגעת.",
       "link": "https://openai.com/index/descript",
       "image_url": null,
       "pub_date": "Fri, 06 Mar 2026 00:00:00 GMT",
@@ -4472,7 +4472,7 @@
       "categories": [
         "B2B Story"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:08.360Z",
       "created_at": "2026-04-07T10:34:08.360Z"
@@ -4482,8 +4482,8 @@
       "source": "OpenAI Blog",
       "title_en": "Introducing GPT-5.4",
       "description_en": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "הכירו את GPT-5.4",
+      "description_he": "OpenAI השיקה את GPT-5.4, המודל החדש והחזק ביותר שלה למטלות מקצועיות. המודל החדש מתגאה ביכולות קוד מובילות בתחום, יכול להשתמש בכלים שונים, ותומך בחלון קונטקסט של עד מיליון tokens - זה בעצם אומר שהוא יכול להבין כמות ענקית של מידע בבת אחת.",
       "link": "https://openai.com/index/introducing-gpt-5-4",
       "image_url": null,
       "pub_date": "Thu, 05 Mar 2026 10:00:00 GMT",
@@ -4491,7 +4491,7 @@
       "categories": [
         "Product"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:08.416Z",
       "created_at": "2026-04-07T10:34:08.416Z"
@@ -4501,8 +4501,8 @@
       "source": "OpenAI Blog",
       "title_en": "GPT-5.4 Thinking System Card",
       "description_en": "",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "כרטיס המערכת של GPT-5.4 Thinking",
+      "description_he": "OpenAI חשפה את פרטי המערכת החדשה של GPT-5.4, שמשפרת את יכולות ה-reasoning והחשיבה של המודל. המערכת הזו מאפשרת ל-AI לבצע תהליכי חשיבה מורכבים יותר ולהגיע לתשובות מדויקות יותר לבעיות קשות. זו טלה משמעותית בדרך להבאת AI אל רמה חדשה של יכולות אנליטיות.",
       "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
       "image_url": null,
       "pub_date": "Thu, 05 Mar 2026 10:00:00 GMT",
@@ -4510,7 +4510,7 @@
       "categories": [
         "Publication"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:08.460Z",
       "created_at": "2026-04-07T10:34:08.460Z"
@@ -4520,8 +4520,8 @@
       "source": "OpenAI Blog",
       "title_en": "Reasoning models struggle to control their chains of thought, and that’s good",
       "description_en": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מודלים של חשיבה מתקשים לשלוט בשרשרת המחשבות שלהם - וזה למעשה טוב",
+      "description_he": "OpenAI חשפה שמודלי reasoning מתקשים לשלוט בדרך המחשבה שלהם, וזה בעצם עשוי להיות טוב לביטחון ה-AI. החברה הציגה כלי חדש שנקרא CoT-Control שמעניק לנו יכולת עדינה להתחקות אחרי תהליכי החשיבה של המודל, מה שעשוי לעזור בעתיד להבטיח שמודלים חזקים יותר יהיו ניתנים למעקב ובקרה. עובדה שהמודלים לא מצליחים להסתיר את שרשרת המחשבות שלהם היא לכן חדשות טובות לעולם ה-AI Safety.",
       "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
       "image_url": null,
       "pub_date": "Thu, 05 Mar 2026 10:00:00 GMT",
@@ -4529,7 +4529,7 @@
       "categories": [
         "Research"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:08.513Z",
       "created_at": "2026-04-07T10:34:08.513Z"
@@ -4539,8 +4539,8 @@
       "source": "OpenAI Blog",
       "title_en": "Ensuring AI use in education leads to opportunity",
       "description_en": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "הבטחת שימוש בAI בחינוך יוביל להזדמנויות",
+      "description_he": "OpenAI משיקה כלים חדשים, סמכויות והנדסות מדידה שמטרתן לעזור לבתי ספר ואוניברסיטאות להקטין את הפער בכישורי AI והרחבת הזדמנויות לתלמידים. החברה מעניקה לחינוך את הזירה שלה כדי שכל אחד יוכל להשתמש ב-AI בצורה חכמה ויעילה.",
       "link": "https://openai.com/index/ai-education-opportunity",
       "image_url": null,
       "pub_date": "Thu, 05 Mar 2026 09:00:00 GMT",
@@ -4548,7 +4548,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:08.554Z",
       "created_at": "2026-04-07T10:34:08.554Z"
@@ -4558,8 +4558,8 @@
       "source": "OpenAI Blog",
       "title_en": "Introducing ChatGPT for Excel and new financial data integrations",
       "description_en": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ChatGPT מגיע ל-Excel ועם אינטגרציות נתונים פיננסיים חדשות",
+      "description_he": "OpenAI השיקה את ChatGPT ישירות ב-Excel, וזה משנה כל כל משחק לעבודה עם נתונים פיננסיים. הכלי החדש, המופעל על GPT-5.4, מאפשר ניתוח וחיזוי נתונים בזריזות שלא ראינו קודם, במיוחד עבור סביבות רגולטוריות שמחייבות דיוק מקסימלי. זה בעצם אומר שעובדי פיננסים וחוקרים יוכלו לעשות בעבודה שלהם מהר הרבה יותר ובדיוק גבוה יותר.",
       "link": "https://openai.com/index/chatgpt-for-excel",
       "image_url": null,
       "pub_date": "Thu, 05 Mar 2026 00:00:00 GMT",
@@ -4567,7 +4567,7 @@
       "categories": [
         "Product"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:08.610Z",
       "created_at": "2026-04-07T10:34:08.610Z"
@@ -4577,8 +4577,8 @@
       "source": "OpenAI Blog",
       "title_en": "Introducing the Adoption news channel",
       "description_en": "Practical insights and frameworks to turn AI progress into business advantage",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "הצגת ערוץ Adoption החדש",
+      "description_he": "OpenAI משיקה ערוץ חדש שמעניק insights ומסגרות פרקטיות לעסקים שרוצים להמיר את הקדמה בעולם ה-AI לכמה יתרון תחרותי אמיתי. במקום לדבר על טכנולוגיה מופשטת, הם מתמקדים בדרכים קונקרטיות ליישם AI בפעילות העסקית שלכם.",
       "link": "https://openai.com/index/introducing-the-adoption-news-channel",
       "image_url": null,
       "pub_date": "Thu, 05 Mar 2026 00:00:00 GMT",
@@ -4586,7 +4586,7 @@
       "categories": [
         "AI Adoption"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:08.651Z",
       "created_at": "2026-04-07T10:34:08.651Z"
@@ -4596,8 +4596,8 @@
       "source": "OpenAI Blog",
       "title_en": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
       "description_en": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "פולפסבורג הופך את ChatGPT ליכולת בעלת חשיבות קלוב-רחבה",
+      "description_he": "קבוצת הבונדסליגה הגרמנית לא בנתה רק פילוט קטן עם ה-AI - היא השקיעה בהדרכת כל הצוות לעבוד עם ChatGPT בצורה חכמה, מה שגרם לזינוק משמעותי בפריון וקריאטיביות בלי שחרבה את הזהות הכדורגלית של המועדון. זה הסיפור של איך AI נהיה חלק אורגני מהדרך בה עובדים באופן יומיומי, לא סתם כלי נחמד לניסוי.",
       "link": "https://openai.com/index/vfl-wolfsburg",
       "image_url": null,
       "pub_date": "Thu, 05 Mar 2026 00:00:00 GMT",
@@ -4605,7 +4605,7 @@
       "categories": [
         "B2B Story"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:08.707Z",
       "created_at": "2026-04-07T10:34:08.707Z"
@@ -4615,8 +4615,8 @@
       "source": "OpenAI Blog",
       "title_en": "The five AI value models driving business reinvention",
       "description_en": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "חמישת מודלי הערך של AI שמנהלים את השינוי העסקי",
+      "description_he": "חמישת מודלי ערך של AI מראים לנהלים איך לבנות AI בעת הנכונה - מהכשרת עובדים ועד לשכתוב תהליכים עסקיים שלמים, כדי ליצור יתרון תחרותי שיישמר לזמן ארוך. זה לא רק על הטכנולוגיה, אלא על איך אתה משתמש בה כדי בעצם לעשות דברים אחרת.",
       "link": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
       "image_url": null,
       "pub_date": "Thu, 05 Mar 2026 00:00:00 GMT",
@@ -4624,7 +4624,7 @@
       "categories": [
         "AI Adoption"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:08.756Z",
       "created_at": "2026-04-07T10:34:08.756Z"
@@ -4634,8 +4634,8 @@
       "source": "OpenAI Blog",
       "title_en": "Extending single-minus amplitudes to gravitons",
       "description_en": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "הרחבת single-minus amplitudes לגרביטונים",
+      "description_he": "חוקרים הצליחו להרחיב את ה-single-minus amplitudes לגרביטונים בעזרת GPT-5.2 Pro, מה שאפשר להם לגזור ולאמת amplitudes חדשות של עצים גרביטוניים בכבידה קוונטית. זה כמו שהם פתחו דלת חדשה להבנת הפיזיקה של כבידה בסקאלות קוונטיות, וה-AI עזר להם לעשות את החישובים המורכבים שלא היו אפשריים בקלות בעבר.",
       "link": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
       "image_url": null,
       "pub_date": "Wed, 04 Mar 2026 10:00:00 GMT",
@@ -4643,7 +4643,7 @@
       "categories": [
         "Research"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:08.796Z",
       "created_at": "2026-04-07T10:34:08.796Z"
@@ -4653,8 +4653,8 @@
       "source": "OpenAI Blog",
       "title_en": "How Axios uses AI to help deliver high-impact local journalism",
       "description_en": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "איך Axios משתמשת ב-AI כדי להביא עיתונות מקומית בעלת השפעה גדולה",
+      "description_he": "COO של Axios מספרת איך החברה משתמשת ב-AI כדי לתמוך בעיתונאים מקומיים ולהפוך את תהליכי העבודה בחדר החדשות לאפסילי יותר. דרך טכנולוגיה חכמה, Axios מצליחה להגדיל את איכות הכיסוי המקומי בקנה מידה שלא היה אפשרי עד כה - וזה בדיוק מה שעיתונות צריכה כדי להישאר רלוונטית בעולם דיגיטלי.",
       "link": "https://openai.com/index/axios-allison-murphy",
       "image_url": null,
       "pub_date": "Wed, 04 Mar 2026 00:00:00 GMT",
@@ -4662,7 +4662,7 @@
       "categories": [
         "B2B Story"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:08.834Z",
       "created_at": "2026-04-07T10:34:08.834Z"
@@ -4672,8 +4672,8 @@
       "source": "OpenAI Blog",
       "title_en": "Understanding AI and learning outcomes",
       "description_en": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "הבנת AI והשפעתו על תוצאות הלמידה",
+      "description_he": "OpenAI הציגה ערכת כלים חדשה בשם Learning Outcomes Measurement Suite שמטרתה למדוד את ההשפעה של AI על למידת התלמידים בסביבות חינוכיות שונות לאורך זמן. זה כלי די משמעותי לגופים חינוכיים שרוצים להבין באמת אם השימוש ב-AI באמת משפר את הלמידה או שזה רק טרנד נוסף שמעביר כסף. OpenAI בעצם מנסה להציע דרך מדעית למדוד את המשפעות של בינה מלאכותית בחדר הכיתה.\n\nמקור: OpenAI Blog",
       "link": "https://openai.com/index/understanding-ai-and-learning-outcomes",
       "image_url": null,
       "pub_date": "Wed, 04 Mar 2026 00:00:00 GMT",
@@ -4681,7 +4681,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:08.882Z",
       "created_at": "2026-04-07T10:34:08.882Z"
@@ -4691,8 +4691,8 @@
       "source": "OpenAI Blog",
       "title_en": "GPT-5.3 Instant System Card",
       "description_en": "",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "כרטיס המערכת של GPT-5.3 Instant",
+      "description_he": "OpenAI משחררת את תיעוד המערכת החדש של GPT-5.3 Instant, הגרסה המהירה והחדישה של המודל. המסמך מפרט את היכולות, המגבלות והשיקולים הבטיחותיים של הדגם החדש, כך שמפתחים וחברות יוכלו להבין בדיוק מה הם יקבלו. זו צעד חשוב של OpenAI בכיוון שקיפות וגישה ישירה למידע טכני על המודלים שלהם.",
       "link": "https://openai.com/index/gpt-5-3-instant-system-card",
       "image_url": null,
       "pub_date": "Tue, 03 Mar 2026 10:00:00 GMT",
@@ -4700,7 +4700,7 @@
       "categories": [
         "Publication"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:08.943Z",
       "created_at": "2026-04-07T10:34:08.943Z"
@@ -4710,8 +4710,8 @@
       "source": "OpenAI Blog",
       "title_en": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
       "description_en": "",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "GPT-5.3 Instant: שיחות יום-יומיות חלקות ועוד שימושיות",
+      "description_he": "OpenAI הטיעה את הדור החדש של מודל הAI שלה, ו-GPT-5.3 Instant בא להיות המתשובב החדש בעולם השיחות הטבעיות - יותר מהיר, יותר חלק, וכשם שהשם מרמז - מוזן בפקד טוב. המודל החדש מיועד לתשובות שצריכות להגיע בשנייה, בלי להקריב בדיוק ובטיב התשובה שלו.",
       "link": "https://openai.com/index/gpt-5-3-instant",
       "image_url": null,
       "pub_date": "Tue, 03 Mar 2026 10:00:00 GMT",
@@ -4719,7 +4719,7 @@
       "categories": [
         "Product"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:08.994Z",
       "created_at": "2026-04-07T10:34:08.994Z"
@@ -4729,8 +4729,8 @@
       "source": "OpenAI Blog",
       "title_en": "Our agreement with the Department of War",
       "description_en": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ההסכם שלנו עם משרד הביטחון",
+      "description_he": "OpenAI חתמה על חוזה עם משרד הביטחון האמריקאי, והנה כל הפרטים על הגבולות הבטיחותיים, ההגנות המשפטיות וכיצד מערכות AI יוקמו בסביבות סודיות וסיווגיות. זה בעצם ההולם של טכנולוגיית AI לעולם הביטחון האמריקאי, עם הרבה מגבלות וביקורת פנימית.",
       "link": "https://openai.com/index/our-agreement-with-the-department-of-war",
       "image_url": null,
       "pub_date": "Sat, 28 Feb 2026 12:30:00 GMT",
@@ -4738,7 +4738,7 @@
       "categories": [
         "Company"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:09.033Z",
       "created_at": "2026-04-07T10:34:09.033Z"
@@ -4748,8 +4748,8 @@
       "source": "OpenAI Blog",
       "title_en": "OpenAI and Amazon announce strategic partnership",
       "description_en": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "OpenAI ו-Amazon הכריזו על שותפות אסטרטגית",
+      "description_he": "OpenAI ו-Amazon חברו כדי להביא את פלטפורמת Frontier של OpenAI ל-AWS, דבר שיפתח אפשרויות חדשות לחברות בבניית מודלים מותאמים ואגנטים AI ממוגנים. השותפות הזו אמורה לתת דחיפה משמעותית לתשתיות AI בעולם הענן וליהיום לישראלים שרוצים להשתמש בטכנולוגיה הקדמית ביותר דרך AWS. זו עוד הוכחה שהשחקנים הגדולים בתעשייה מבינים שהחוזקה היא בשיתופי פעולה.",
       "link": "https://openai.com/index/amazon-partnership",
       "image_url": null,
       "pub_date": "Fri, 27 Feb 2026 05:30:00 GMT",
@@ -4757,7 +4757,7 @@
       "categories": [
         "Company"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:09.083Z",
       "created_at": "2026-04-07T10:34:09.083Z"
@@ -4767,8 +4767,8 @@
       "source": "OpenAI Blog",
       "title_en": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "description_en": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "סביבת Runtime Stateful עבור Agents ב-Amazon Bedrock",
+      "description_he": "אמזון הכניסה לבדרוק את Stateful Runtime - סביבה חדשה שמאפשרת לאגנטים AI להחזיק זיכרון בין שלבים, לתאם זרימות עבודה מורכבות ולהריץ הכל בצורה מאובטחת וקבועה. זה משנה את המשחק למשימות AI רב-שלביות שדורשות continuity וזיכרון ארוך טווח.",
       "link": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "image_url": null,
       "pub_date": "Fri, 27 Feb 2026 05:30:00 GMT",
@@ -4776,7 +4776,7 @@
       "categories": [
         "Company"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:09.137Z",
       "created_at": "2026-04-07T10:34:09.137Z"
@@ -4786,8 +4786,8 @@
       "source": "OpenAI Blog",
       "title_en": "Joint Statement from OpenAI and Microsoft",
       "description_en": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "הצהרה משותפת מ-OpenAI ומיקרוסופט",
+      "description_he": "מיקרוסופט ו-OpenAI ממשיכות את השיתוף הפעולה ההדוק שלהן בתחומי מחקר, הנדסה ופיתוח מוצרים, בהמשך לשנים של התעמלות עמוקה והצלחות משותפות. שתי החברות מדגישות את ההתחייבות המשותפת שלהן להמשיך לעבוד ביחד בקדמת טכנולוגיית ה-AI.\n\nמקור: OpenAI Blog",
       "link": "https://openai.com/index/continuing-microsoft-partnership",
       "image_url": null,
       "pub_date": "Fri, 27 Feb 2026 05:30:00 GMT",
@@ -4795,7 +4795,7 @@
       "categories": [
         "Company"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:09.175Z",
       "created_at": "2026-04-07T10:34:09.175Z"
@@ -4805,8 +4805,8 @@
       "source": "OpenAI Blog",
       "title_en": "Scaling AI for everyone",
       "description_en": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "סקילינג AI לכולם",
+      "description_he": "OpenAI הכריזה על עוד סיבוב השקעות ענק בגודל 110 מיליארד דולר שמעלה את הערך של החברה ל-730 מיליארד דולר - ובחזית נמצאים כבדי הפעלים: סופטבנק משקיע 30 מיליארד, NVIDIA 30 מיליארד ואמזון 50 מיליארד דולר. זה כמעט עולם קטן שלו - בין ענקיות הטך, השחקנים הגדולים בעולם מהמרים הון ברוך על AI ובמירוץ להמשך האימון של מודלים ענקיים. מעשית, הזרקת כסף ענקית כזו משמעותה שהחברות הגדולות בעולם מאומתות שהעתיד הוא AI וכולם רוצים לשחק בעמק הזה.",
       "link": "https://openai.com/index/scaling-ai-for-everyone",
       "image_url": null,
       "pub_date": "Fri, 27 Feb 2026 05:30:00 GMT",
@@ -4814,7 +4814,7 @@
       "categories": [
         "Company"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:09.219Z",
       "created_at": "2026-04-07T10:34:09.219Z"
@@ -4824,8 +4824,8 @@
       "source": "OpenAI Blog",
       "title_en": "An update on our mental health-related work",
       "description_en": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "עדכון על עבודת הבריאות הנפשית שלנו",
+      "description_he": "OpenAI חושפת עדכונים משמעותיים בתחום בטיחות הבריאות הנפשית שלה, כולל בקרת הורים חדשה, אפשרות להוסיף אנשים מהימנים, וזיהוי משופר של מצבי משבר. החברה גם דנה בהתפתחויות האחרונות בתביעות משפטיות הקשורות לנושא. זה חלק מהמחויבות הגדלה של OpenAI לטכנולוגיה אחראית שמחושבת גם על הרווחה הנפשית של המשתמשים.",
       "link": "https://openai.com/index/update-on-mental-health-related-work",
       "image_url": null,
       "pub_date": "Fri, 27 Feb 2026 00:00:00 GMT",
@@ -4833,7 +4833,7 @@
       "categories": [
         "Safety"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:09.256Z",
       "created_at": "2026-04-07T10:34:09.256Z"
@@ -4843,8 +4843,8 @@
       "source": "OpenAI Blog",
       "title_en": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
       "description_en": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "Pacific Northwest National Laboratory וOpenAI שותפים להאצת אישורים פדרליים",
+      "description_he": "OpenAI ומעבדת פציפיק נורת'וסט הציגו את DraftNEPABench, בנצ'מארק חדש שמעריך איך AI coding agents יכולים להאיץ תהליכים בירוקרטיים פדרליים. בדיקות התוצאות מראות שאפשר להפחית עד 15% מזמן כתיבת דוחות NEPA ובכך לעדכן ממש את תהליך בדיקת התשתיות בארה\"ב - זה גם דוגמה מעניינת של שימוש בAI לפתרון בעיות ממשיות של הממשלה.",
       "link": "https://openai.com/index/pacific-northwest-national-laboratory",
       "image_url": null,
       "pub_date": "Thu, 26 Feb 2026 10:00:00 GMT",
@@ -4852,7 +4852,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:09.309Z",
       "created_at": "2026-04-07T10:34:09.309Z"
@@ -4862,8 +4862,8 @@
       "source": "OpenAI Blog",
       "title_en": "OpenAI Codex and Figma launch seamless code-to-design experience",
       "description_en": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "OpenAI Codex ו-Figma משיקות חווית קוד-לעיצוב חלקה",
+      "description_he": "OpenAI ו-Figma הכריזו על שילוב חדש שמחבר בין קוד לעיצוב, מה שמאפשר לצוותים לזוז בחופשיות בין הקוד ל-canvas של Figma כדי לעדכן ולהשיק פיצ'רים הרבה יותר מהר. זה בעצם משחק חדש למעשה - מה שלוקח היום שעות של קוקוקיה בין מעצבים למפתחים, יהיה קל וזריז הרבה יותר.",
       "link": "https://openai.com/index/figma-partnership",
       "image_url": null,
       "pub_date": "Thu, 26 Feb 2026 06:00:00 GMT",
@@ -4871,7 +4871,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:09.351Z",
       "created_at": "2026-04-07T10:34:09.351Z"
@@ -4881,8 +4881,8 @@
       "source": "OpenAI Blog",
       "title_en": "Disrupting malicious uses of AI | February 2026",
       "description_en": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "עצירת השימושים הזדוניים ב-AI | פברואר 2026",
+      "description_he": "OpenAI הוציאה דוח איום חדש שבודק איך שחקנים זדוניים משלבים מודלי AI עם אתרים ורשתות חברתיות כדי לגרום נזק. הדוח מציג תמונה מחרידה על איך התוקפים משתמשים בכלים חכמים כדי לתקוף אתנו, ומה זה אומר לגבי דרכי ההגנה החדשות שאנחנו צריכים לפתח.",
       "link": "https://openai.com/index/disrupting-malicious-ai-uses",
       "image_url": null,
       "pub_date": "Wed, 25 Feb 2026 00:00:00 GMT",
@@ -4890,7 +4890,7 @@
       "categories": [
         "Security"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:09.391Z",
       "created_at": "2026-04-07T10:34:09.391Z"
@@ -4900,8 +4900,8 @@
       "source": "OpenAI Blog",
       "title_en": "Arvind KC appointed Chief People Officer",
       "description_en": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ארווינד קיי סי מתמנה לכן פי אופייאיי",
+      "description_he": "OpenAI הכריזה על מינויו של ארווינד קיי סי למשרת Chief People Officer, בתפקיד שיעזור לחברה להתרחב, לחזק את התרבות הארגונית שלה ולהוביל את הדרך בה עבודה משתנה בעידן של AI. זהו צעד חשוב לצד העיתוד של OpenAI כשהם גדלים ומתמודדים עם אתגרי הגדילה וגיוס כוח אדם לפרויקטים חדשניים.",
       "link": "https://openai.com/index/arvind-kc-chief-people-officer",
       "image_url": null,
       "pub_date": "Tue, 24 Feb 2026 13:40:00 GMT",
@@ -4909,7 +4909,7 @@
       "categories": [
         "Company"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:09.432Z",
       "created_at": "2026-04-07T10:34:09.432Z"
@@ -4919,8 +4919,8 @@
       "source": "OpenAI Blog",
       "title_en": "Why we no longer evaluate SWE-bench Verified",
       "description_en": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "למה אנחנו כבר לא משתמשים ב-SWE-bench Verified כדי להעריך מודלים",
+      "description_he": "מתברר ש-SWE-bench Verified, אחד הבנצ'מארקים הפופולריים ביותר למדידת יכולות coding של AI, הוא בעצם מזוהם עם בעיות משמעותיות - כולל תיקיות בטסטים ודליפת נתונים מעדכנים המשמשים להדרכת המודלים. OpenAI ממליצה לעבור ל-SWE-bench Pro במקום, שנראה יותר אמין לעקוב אחרי ההתקדמות האמיתית בעולם AI לקידוד.",
       "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
       "image_url": null,
       "pub_date": "Mon, 23 Feb 2026 11:00:00 GMT",
@@ -4928,7 +4928,7 @@
       "categories": [
         "Research"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:09.470Z",
       "created_at": "2026-04-07T10:34:09.470Z"
@@ -4938,8 +4938,8 @@
       "source": "OpenAI Blog",
       "title_en": "OpenAI announces Frontier Alliance Partners",
       "description_en": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "OpenAI הכריזה על שותפי Frontier Alliance",
+      "description_he": "OpenAI חושפת קבוצה של שותפים אסטרטגיים שתעזור לחברות גדולות לעבור מ-POC-ים ניסיוניים לפיתוח סוכנים AI בייצור בצורה בטוחה וסקיילבית. מדובר על מהלך משמעותי שמטרתו להאיץ את העברת טכנולוגיות AI מחדרי ניסויים לפעולה אמיתית בענקיות הטכנולוגיה והעסקים.",
       "link": "https://openai.com/index/frontier-alliance-partners",
       "image_url": null,
       "pub_date": "Mon, 23 Feb 2026 05:30:00 GMT",
@@ -4947,7 +4947,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:09.521Z",
       "created_at": "2026-04-07T10:34:09.521Z"
@@ -4957,8 +4957,8 @@
       "source": "OpenAI Blog",
       "title_en": "Our First Proof submissions",
       "description_en": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ההוכחות הראשונות שלנו",
+      "description_he": "OpenAI חושפת את ניסיונות ה-AI שלה לפתור את אתגר First Proof - דבר שמעניין כי מדובר בבעיות מתמטיקה ברמת מומחים שדורשות reasoning ברמת מחקר. זה לא סתם חישוב, אלא הבנה עמוקה של הוכחות מתמטיות בדרך שרק מתמטיקאים באמת טובים בדרך כלל עושים.",
       "link": "https://openai.com/index/first-proof-submissions",
       "image_url": null,
       "pub_date": "Fri, 20 Feb 2026 14:30:00 GMT",
@@ -4966,7 +4966,7 @@
       "categories": [
         "Research"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T10:34:09.563Z",
       "created_at": "2026-04-07T10:34:09.563Z"

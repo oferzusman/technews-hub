@@ -156,7 +156,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Astronauts set distance record, revealing the Moon as a place to be explored\n\n\"Humans have probably not evolved to see what we’re seeing. It is truly hard to describe. It is amazing.\"",
+    "t": "אסטרונאוטים שברו שיא מרחק וחשפו את הירח כעולם שצריך להתגלות\n\nהאסטרונאוטים התרחקו מהכדור הארצי יותר מאי פעם, והחוויה היא כל כך מטורפת שלפי דבריהם האדם בכלל לא התפתח כדי לראות את זה. המנהיגות החלל מעדכנת: הירח זה לא רק שם שמדברים עליו - זה יעד שלנו הבא ויש שם הרבה מה לגלות.",
     "d": "Tue, 07 Apr 2026 03:50:32 +0000",
     "v": 0,
     "l": [
@@ -4611,7 +4611,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 190,
-    "t": "Codex Security: now in research preview\n\nCodex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+    "t": "Codex Security: זה כבר בשלב ניסיוני\n\nOpenAI השיקה את Codex Security, סוכן AI חדש שמיוחד לאבטחת קוד. הכלי הזה מנתח את ההקשר של הפרויקט שלכם כדי לתפוס חולשות אבטחה מורכבות, לאמת אותן, ואפילו לתקן אותן - וכל זה עם פחות False Positives מעצבן שמטריפים למפתחים. בקיצור, זה בדיוק מה שצריך לשמור על הקוד שלכם בטוח ושלם.",
     "d": "Fri, 06 Mar 2026 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -4624,11 +4624,13 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
       "news",
-      "security",
-      "agents"
+      "model",
+      "security"
     ],
     "imp": "low",
     "thumb": null,
@@ -4636,7 +4638,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 191,
-    "t": "How Balyasny Asset Management built an AI research engine for investing\n\nSee how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
+    "t": "איך Balyasny Asset Management בנתה מנוע AI לחקר השקעות\n\nבלייסני בנתה מערכת AI מתחכמת עם GPT-5.4 שמאפשרת לה לנתח השקעות בקנה מידה ענק, תוך שימוש בהערכת מודלים קפדנית וזרימות agent חכמות שמטרנספורמים את כל תהליך ניתוח ההשקעות. מה שהתחיל כניסיון להטמיע AI בתחום הפיננסים הפך לכלי מחקר שמשנה את השחקן בעולם ההשקעות המוסדיות.",
     "d": "Fri, 06 Mar 2026 07:00:00 GMT",
     "v": 0,
     "l": [
@@ -4655,7 +4657,6 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news",
       "model",
-      "funding",
       "agents"
     ],
     "imp": "low",
@@ -4664,7 +4665,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 192,
-    "t": "How Descript engineers multilingual video dubbing at scale\n\nUsing OpenAI reasoning models, Descript unlocked automatic localization of large content libraries without losing timing or meaning.",
+    "t": "איך Descript מבצעת דיבוב וידאו רב-שפתי בקנה מידה ענק\n\nדברת הצליחה להשתמש בmodelit ה-reasoning של OpenAI כדי לאפשר דיבוב אוטומטי של ספריות תוכן거ןזומות בלי להפסיד את התזמון או המשמעות. התוצאה? localization חכם שבסופו של דבר עוזר ליוצרים להגיע לאנשים בכל קצווי העולם ללא צורך בעבודה ידנית מייגעת.",
     "d": "Fri, 06 Mar 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -4763,7 +4764,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 196,
-    "t": "Introducing GPT-5.4\n\nIntroducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+    "t": "הכירו את GPT-5.4\n\nOpenAI השיקה את GPT-5.4, המודל החדש והחזק ביותר שלה למטלות מקצועיות. המודל החדש מתגאה ביכולות קוד מובילות בתחום, יכול להשתמש בכלים שונים, ותומך בחלון קונטקסט של עד מיליון tokens - זה בעצם אומר שהוא יכול להבין כמות ענקית של מידע בבת אחת.",
     "d": "Thu, 05 Mar 2026 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -4789,7 +4790,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 197,
-    "t": "GPT-5.4 Thinking System Card",
+    "t": "כרטיס המערכת של GPT-5.4 Thinking\n\nOpenAI חשפה את פרטי המערכת החדשה של GPT-5.4, שמשפרת את יכולות ה-reasoning והחשיבה של המודל. המערכת הזו מאפשרת ל-AI לבצע תהליכי חשיבה מורכבים יותר ולהגיע לתשובות מדויקות יותר לבעיות קשות. זו טלה משמעותית בדרך להבאת AI אל רמה חדשה של יכולות אנליטיות.",
     "d": "Thu, 05 Mar 2026 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -4815,7 +4816,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 198,
-    "t": "Reasoning models struggle to control their chains of thought, and that’s good\n\nOpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+    "t": "מודלים של חשיבה מתקשים לשלוט בשרשרת המחשבות שלהם - וזה למעשה טוב\n\nOpenAI חשפה שמודלי reasoning מתקשים לשלוט בדרך המחשבה שלהם, וזה בעצם עשוי להיות טוב לביטחון ה-AI. החברה הציגה כלי חדש שנקרא CoT-Control שמעניק לנו יכולת עדינה להתחקות אחרי תהליכי החשיבה של המודל, מה שעשוי לעזור בעתיד להבטיח שמודלים חזקים יותר יהיו ניתנים למעקב ובקרה. עובדה שהמודלים לא מצליחים להסתיר את שרשרת המחשבות שלהם היא לכן חדשות טובות לעולם ה-AI Safety.",
     "d": "Thu, 05 Mar 2026 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -4841,7 +4842,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 199,
-    "t": "Ensuring AI use in education leads to opportunity\n\nOpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
+    "t": "הבטחת שימוש בAI בחינוך יוביל להזדמנויות\n\nOpenAI משיקה כלים חדשים, סמכויות והנדסות מדידה שמטרתן לעזור לבתי ספר ואוניברסיטאות להקטין את הפער בכישורי AI והרחבת הזדמנויות לתלמידים. החברה מעניקה לחינוך את הזירה שלה כדי שכל אחד יוכל להשתמש ב-AI בצורה חכמה ויעילה.",
     "d": "Thu, 05 Mar 2026 09:00:00 GMT",
     "v": 0,
     "l": [
@@ -4867,7 +4868,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 200,
-    "t": "Introducing ChatGPT for Excel and new financial data integrations\n\nOpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
+    "t": "ChatGPT מגיע ל-Excel ועם אינטגרציות נתונים פיננסיים חדשות\n\nOpenAI השיקה את ChatGPT ישירות ב-Excel, וזה משנה כל כל משחק לעבודה עם נתונים פיננסיים. הכלי החדש, המופעל על GPT-5.4, מאפשר ניתוח וחיזוי נתונים בזריזות שלא ראינו קודם, במיוחד עבור סביבות רגולטוריות שמחייבות דיוק מקסימלי. זה בעצם אומר שעובדי פיננסים וחוקרים יוכלו לעשות בעבודה שלהם מהר הרבה יותר ובדיוק גבוה יותר.",
     "d": "Thu, 05 Mar 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -4893,7 +4894,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 201,
-    "t": "Introducing the Adoption news channel\n\nPractical insights and frameworks to turn AI progress into business advantage",
+    "t": "הצגת ערוץ Adoption החדש\n\nOpenAI משיקה ערוץ חדש שמעניק insights ומסגרות פרקטיות לעסקים שרוצים להמיר את הקדמה בעולם ה-AI לכמה יתרון תחרותי אמיתי. במקום לדבר על טכנולוגיה מופשטת, הם מתמקדים בדרכים קונקרטיות ליישם AI בפעילות העסקית שלכם.",
     "d": "Thu, 05 Mar 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -4906,9 +4907,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -4916,7 +4920,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 202,
-    "t": "VfL Wolfsburg turns ChatGPT into a club-wide capability\n\nBy focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.",
+    "t": "פולפסבורג הופך את ChatGPT ליכולת בעלת חשיבות קלוב-רחבה\n\nקבוצת הבונדסליגה הגרמנית לא בנתה רק פילוט קטן עם ה-AI - היא השקיעה בהדרכת כל הצוות לעבוד עם ChatGPT בצורה חכמה, מה שגרם לזינוק משמעותי בפריון וקריאטיביות בלי שחרבה את הזהות הכדורגלית של המועדון. זה הסיפור של איך AI נהיה חלק אורגני מהדרך בה עובדים באופן יומיומי, לא סתם כלי נחמד לניסוי.",
     "d": "Thu, 05 Mar 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -4942,7 +4946,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 203,
-    "t": "The five AI value models driving business reinvention\n\nFive AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
+    "t": "חמישת מודלי הערך של AI שמנהלים את השינוי העסקי\n\nחמישת מודלי ערך של AI מראים לנהלים איך לבנות AI בעת הנכונה - מהכשרת עובדים ועד לשכתוב תהליכים עסקיים שלמים, כדי ליצור יתרון תחרותי שיישמר לזמן ארוך. זה לא רק על הטכנולוגיה, אלא על איך אתה משתמש בה כדי בעצם לעשות דברים אחרת.",
     "d": "Thu, 05 Mar 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -5011,7 +5015,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 206,
-    "t": "Extending single-minus amplitudes to gravitons\n\nA new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
+    "t": "הרחבת single-minus amplitudes לגרביטונים\n\nחוקרים הצליחו להרחיב את ה-single-minus amplitudes לגרביטונים בעזרת GPT-5.2 Pro, מה שאפשר להם לגזור ולאמת amplitudes חדשות של עצים גרביטוניים בכבידה קוונטית. זה כמו שהם פתחו דלת חדשה להבנת הפיזיקה של כבידה בסקאלות קוונטיות, וה-AI עזר להם לעשות את החישובים המורכבים שלא היו אפשריים בקלות בעבר.",
     "d": "Wed, 04 Mar 2026 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -5037,7 +5041,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 207,
-    "t": "How Axios uses AI to help deliver high-impact local journalism\n\nAxios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
+    "t": "איך Axios משתמשת ב-AI כדי להביא עיתונות מקומית בעלת השפעה גדולה\n\nCOO של Axios מספרת איך החברה משתמשת ב-AI כדי לתמוך בעיתונאים מקומיים ולהפוך את תהליכי העבודה בחדר החדשות לאפסילי יותר. דרך טכנולוגיה חכמה, Axios מצליחה להגדיל את איכות הכיסוי המקומי בקנה מידה שלא היה אפשרי עד כה - וזה בדיוק מה שעיתונות צריכה כדי להישאר רלוונטית בעולם דיגיטלי.",
     "d": "Wed, 04 Mar 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -5054,13 +5058,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 208,
-    "t": "Understanding AI and learning outcomes\n\nOpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
+    "t": "הבנת AI והשפעתו על תוצאות הלמידה\n\nOpenAI הציגה ערכת כלים חדשה בשם Learning Outcomes Measurement Suite שמטרתה למדוד את ההשפעה של AI על למידת התלמידים בסביבות חינוכיות שונות לאורך זמן. זה כלי די משמעותי לגופים חינוכיים שרוצים להבין באמת אם השימוש ב-AI באמת משפר את הלמידה או שזה רק טרנד נוסף שמעביר כסף. OpenAI בעצם מנסה להציע דרך מדעית למדוד את המשפעות של בינה מלאכותית בחדר הכיתה.\n\nמקור: OpenAI Blog",
     "d": "Wed, 04 Mar 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -5135,7 +5139,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 211,
-    "t": "GPT-5.3 Instant System Card",
+    "t": "כרטיס המערכת של GPT-5.3 Instant\n\nOpenAI משחררת את תיעוד המערכת החדש של GPT-5.3 Instant, הגרסה המהירה והחדישה של המודל. המסמך מפרט את היכולות, המגבלות והשיקולים הבטיחותיים של הדגם החדש, כך שמפתחים וחברות יוכלו להבין בדיוק מה הם יקבלו. זו צעד חשוב של OpenAI בכיוון שקיפות וגישה ישירה למידע טכני על המודלים שלהם.",
     "d": "Tue, 03 Mar 2026 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -5161,7 +5165,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 212,
-    "t": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+    "t": "GPT-5.3 Instant: שיחות יום-יומיות חלקות ועוד שימושיות\n\nOpenAI הטיעה את הדור החדש של מודל הAI שלה, ו-GPT-5.3 Instant בא להיות המתשובב החדש בעולם השיחות הטבעיות - יותר מהיר, יותר חלק, וכשם שהשם מרמז - מוזן בפקד טוב. המודל החדש מיועד לתשובות שצריכות להגיע בשנייה, בלי להקריב בדיוק ובטיב התשובה שלו.",
     "d": "Tue, 03 Mar 2026 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -5187,7 +5191,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 213,
-    "t": "Our agreement with the Department of War\n\nDetails on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
+    "t": "ההסכם שלנו עם משרד הביטחון\n\nOpenAI חתמה על חוזה עם משרד הביטחון האמריקאי, והנה כל הפרטים על הגבולות הבטיחותיים, ההגנות המשפטיות וכיצד מערכות AI יוקמו בסביבות סודיות וסיווגיות. זה בעצם ההולם של טכנולוגיית AI לעולם הביטחון האמריקאי, עם הרבה מגבלות וביקורת פנימית.",
     "d": "Sat, 28 Feb 2026 12:30:00 GMT",
     "v": 0,
     "l": [
@@ -5213,7 +5217,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 214,
-    "t": "OpenAI and Amazon announce strategic partnership\n\nOpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+    "t": "OpenAI ו-Amazon הכריזו על שותפות אסטרטגית\n\nOpenAI ו-Amazon חברו כדי להביא את פלטפורמת Frontier של OpenAI ל-AWS, דבר שיפתח אפשרויות חדשות לחברות בבניית מודלים מותאמים ואגנטים AI ממוגנים. השותפות הזו אמורה לתת דחיפה משמעותית לתשתיות AI בעולם הענן וליהיום לישראלים שרוצים להשתמש בטכנולוגיה הקדמית ביותר דרך AWS. זו עוד הוכחה שהשחקנים הגדולים בתעשייה מבינים שהחוזקה היא בשיתופי פעולה.",
     "d": "Fri, 27 Feb 2026 05:30:00 GMT",
     "v": 0,
     "l": [
@@ -5233,16 +5237,15 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news",
       "model",
-      "product",
-      "agents"
+      "product"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 215,
-    "t": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock\n\nStateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+    "t": "סביבת Runtime Stateful עבור Agents ב-Amazon Bedrock\n\nאמזון הכניסה לבדרוק את Stateful Runtime - סביבה חדשה שמאפשרת לאגנטים AI להחזיק זיכרון בין שלבים, לתאם זרימות עבודה מורכבות ולהריץ הכל בצורה מאובטחת וקבועה. זה משנה את המשחק למשימות AI רב-שלביות שדורשות continuity וזיכרון ארוך טווח.",
     "d": "Fri, 27 Feb 2026 05:30:00 GMT",
     "v": 0,
     "l": [
@@ -5256,12 +5259,10 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
       "Amazon"
     ],
     "tags": [
       "news",
-      "model",
       "product",
       "agents"
     ],
@@ -5271,7 +5272,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 216,
-    "t": "Joint Statement from OpenAI and Microsoft\n\nMicrosoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
+    "t": "הצהרה משותפת מ-OpenAI ומיקרוסופט\n\nמיקרוסופט ו-OpenAI ממשיכות את השיתוף הפעולה ההדוק שלהן בתחומי מחקר, הנדסה ופיתוח מוצרים, בהמשך לשנים של התעמלות עמוקה והצלחות משותפות. שתי החברות מדגישות את ההתחייבות המשותפת שלהן להמשיך לעבוד ביחד בקדמת טכנולוגיית ה-AI.\n\nמקור: OpenAI Blog",
     "d": "Fri, 27 Feb 2026 05:30:00 GMT",
     "v": 0,
     "l": [
@@ -5285,13 +5286,11 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Microsoft"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "model",
-      "product"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -5299,7 +5298,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 217,
-    "t": "Scaling AI for everyone\n\nToday we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+    "t": "סקילינג AI לכולם\n\nOpenAI הכריזה על עוד סיבוב השקעות ענק בגודל 110 מיליארד דולר שמעלה את הערך של החברה ל-730 מיליארד דולר - ובחזית נמצאים כבדי הפעלים: סופטבנק משקיע 30 מיליארד, NVIDIA 30 מיליארד ואמזון 50 מיליארד דולר. זה כמעט עולם קטן שלו - בין ענקיות הטך, השחקנים הגדולים בעולם מהמרים הון ברוך על AI ובמירוץ להמשך האימון של מודלים ענקיים. מעשית, הזרקת כסף ענקית כזו משמעותה שהחברות הגדולות בעולם מאומתות שהעתיד הוא AI וכולם רוצים לשחק בעמק הזה.",
     "d": "Fri, 27 Feb 2026 05:30:00 GMT",
     "v": 0,
     "l": [
@@ -5313,15 +5312,13 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Nvidia",
-      "Amazon"
+      "OpenAI",
+      "Nvidia"
     ],
     "tags": [
       "news",
-      "hardware",
-      "product",
-      "regulation",
-      "funding"
+      "model",
+      "hardware"
     ],
     "imp": "low",
     "thumb": null,
@@ -5329,7 +5326,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 218,
-    "t": "An update on our mental health-related work\n\nOpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments.",
+    "t": "עדכון על עבודת הבריאות הנפשית שלנו\n\nOpenAI חושפת עדכונים משמעותיים בתחום בטיחות הבריאות הנפשית שלה, כולל בקרת הורים חדשה, אפשרות להוסיף אנשים מהימנים, וזיהוי משופר של מצבי משבר. החברה גם דנה בהתפתחויות האחרונות בתביעות משפטיות הקשורות לנושא. זה חלק מהמחויבות הגדלה של OpenAI לטכנולוגיה אחראית שמחושבת גם על הרווחה הנפשית של המשתמשים.",
     "d": "Fri, 27 Feb 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -5349,13 +5346,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 219,
-    "t": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting\n\nOpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
+    "t": "Pacific Northwest National Laboratory וOpenAI שותפים להאצת אישורים פדרליים\n\nOpenAI ומעבדת פציפיק נורת'וסט הציגו את DraftNEPABench, בנצ'מארק חדש שמעריך איך AI coding agents יכולים להאיץ תהליכים בירוקרטיים פדרליים. בדיקות התוצאות מראות שאפשר להפחית עד 15% מזמן כתיבת דוחות NEPA ובכך לעדכן ממש את תהליך בדיקת התשתיות בארה\"ב - זה גם דוגמה מעניינת של שימוש בAI לפתרון בעיות ממשיות של הממשלה.",
     "d": "Thu, 26 Feb 2026 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -5382,7 +5379,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 220,
-    "t": "OpenAI Codex and Figma launch seamless code-to-design experience\n\nOpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
+    "t": "OpenAI Codex ו-Figma משיקות חווית קוד-לעיצוב חלקה\n\nOpenAI ו-Figma הכריזו על שילוב חדש שמחבר בין קוד לעיצוב, מה שמאפשר לצוותים לזוז בחופשיות בין הקוד ל-canvas של Figma כדי לעדכן ולהשיק פיצ'רים הרבה יותר מהר. זה בעצם משחק חדש למעשה - מה שלוקח היום שעות של קוקוקיה בין מעצבים למפתחים, יהיה קל וזריז הרבה יותר.",
     "d": "Thu, 26 Feb 2026 06:00:00 GMT",
     "v": 0,
     "l": [
@@ -5431,7 +5428,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 222,
-    "t": "Disrupting malicious uses of AI | February 2026\n\nOur latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
+    "t": "עצירת השימושים הזדוניים ב-AI | פברואר 2026\n\nOpenAI הוציאה דוח איום חדש שבודק איך שחקנים זדוניים משלבים מודלי AI עם אתרים ורשתות חברתיות כדי לגרום נזק. הדוח מציג תמונה מחרידה על איך התוקפים משתמשים בכלים חכמים כדי לתקוף אתנו, ומה זה אומר לגבי דרכי ההגנה החדשות שאנחנו צריכים לפתח.",
     "d": "Wed, 25 Feb 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -5444,17 +5441,20 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
-    "tags": [
-      "news"
+    "co": [
+      "OpenAI"
     ],
-    "imp": "medium",
+    "tags": [
+      "news",
+      "model"
+    ],
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 223,
-    "t": "Arvind KC appointed Chief People Officer\n\nOpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
+    "t": "ארווינד קיי סי מתמנה לכן פי אופייאיי\n\nOpenAI הכריזה על מינויו של ארווינד קיי סי למשרת Chief People Officer, בתפקיד שיעזור לחברה להתרחב, לחזק את התרבות הארגונית שלה ולהוביל את הדרך בה עבודה משתנה בעידן של AI. זהו צעד חשוב לצד העיתוד של OpenAI כשהם גדלים ומתמודדים עם אתגרי הגדילה וגיוס כוח אדם לפרויקטים חדשניים.",
     "d": "Tue, 24 Feb 2026 13:40:00 GMT",
     "v": 0,
     "l": [
@@ -5480,7 +5480,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 224,
-    "t": "Why we no longer evaluate SWE-bench Verified\n\nSWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+    "t": "למה אנחנו כבר לא משתמשים ב-SWE-bench Verified כדי להעריך מודלים\n\nמתברר ש-SWE-bench Verified, אחד הבנצ'מארקים הפופולריים ביותר למדידת יכולות coding של AI, הוא בעצם מזוהם עם בעיות משמעותיות - כולל תיקיות בטסטים ודליפת נתונים מעדכנים המשמשים להדרכת המודלים. OpenAI ממליצה לעבור ל-SWE-bench Pro במקום, שנראה יותר אמין לעקוב אחרי ההתקדמות האמיתית בעולם AI לקידוד.",
     "d": "Mon, 23 Feb 2026 11:00:00 GMT",
     "v": 0,
     "l": [
@@ -5493,10 +5493,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
       "news",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -5504,7 +5506,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 225,
-    "t": "OpenAI announces Frontier Alliance Partners\n\nOpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+    "t": "OpenAI הכריזה על שותפי Frontier Alliance\n\nOpenAI חושפת קבוצה של שותפים אסטרטגיים שתעזור לחברות גדולות לעבור מ-POC-ים ניסיוניים לפיתוח סוכנים AI בייצור בצורה בטוחה וסקיילבית. מדובר על מהלך משמעותי שמטרתו להאיץ את העברת טכנולוגיות AI מחדרי ניסויים לפעולה אמיתית בענקיות הטכנולוגיה והעסקים.",
     "d": "Mon, 23 Feb 2026 05:30:00 GMT",
     "v": 0,
     "l": [
@@ -5522,16 +5524,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "agents"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 226,
-    "t": "Our First Proof submissions\n\nWe share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
+    "t": "ההוכחות הראשונות שלנו\n\nOpenAI חושפת את ניסיונות ה-AI שלה לפתור את אתגר First Proof - דבר שמעניין כי מדובר בבעיות מתמטיקה ברמת מומחים שדורשות reasoning ברמת מחקר. זה לא סתם חישוב, אלא הבנה עמוקה של הוכחות מתמטיות בדרך שרק מתמטיקאים באמת טובים בדרך כלל עושים.",
     "d": "Fri, 20 Feb 2026 14:30:00 GMT",
     "v": 0,
     "l": [
@@ -5544,9 +5545,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": null,
