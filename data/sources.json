@@ -73,7 +73,7 @@
     {
       "id": "anthropic-blog",
       "name": "Anthropic Blog",
-      "url": "https://www.anthropic.com/rss.xml",
+      "url": "https://www.anthropic.com/news/rss",
       "language": "en",
       "enabled": true
     },
@@ -89,21 +89,21 @@
       "name": "Ben's Bites",
       "url": "https://bensbites.beehiiv.com/feed",
       "language": "en",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "towards-data-science",
       "name": "Towards Data Science",
       "url": "https://towardsdatascience.com/feed",
       "language": "en",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "papers-with-code",
       "name": "Papers With Code",
       "url": "https://paperswithcode.com/rss",
       "language": "en",
-      "enabled": true
+      "enabled": false
     }
   ]
 }
