@@ -108,7 +108,7 @@ async function main() {
 
   const now = Date.now();
   const cutoffDate = new Date();
-  cutoffDate.setDate(cutoffDate.getDate() - 30);
+  cutoffDate.setDate(cutoffDate.getDate() - 180);
 
   // Re-evaluate priority on existing untranslated articles
   for (const article of db.articles) {

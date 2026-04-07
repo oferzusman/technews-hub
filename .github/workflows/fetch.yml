@@ -31,6 +31,11 @@ jobs:
       - name: Fetch RSS feeds
         run: node scripts/fetch-rss.js
 
+      - name: Fetch NewsAPI articles
+        run: node scripts/fetch-newsapi.js
+        env:
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+
       - name: Translate hot articles (realtime)
         run: node scripts/translate.js --mode=realtime
         env:

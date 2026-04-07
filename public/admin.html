@@ -596,6 +596,12 @@
         <span class="workflow-desc">מתרגם עד 30 כתבות ממתינות לעברית</span>
         <span class="workflow-status" id="translate-status"></span>
       </button>
+      <button class="workflow-btn" id="btn-newsapi" onclick="triggerWorkflow('fetch.yml', this)" style="grid-column:span 2">
+        <span class="workflow-icon">📰</span>
+        <span class="workflow-name">Fetch NewsAPI</span>
+        <span class="workflow-desc">מפעיל את ה-fetch workflow שכולל גם שליפה מ-NewsAPI (נדרש NEWSAPI_KEY ב-GitHub Secrets)</span>
+        <span class="workflow-status" id="newsapi-status"></span>
+      </button>
     </div>
     <p style="font-size:.75rem;color:var(--text-light);margin-top:10px;text-align:center">
       נדרש GitHub Personal Access Token עם הרשאות <code style="font-family:monospace;background:var(--surface);padding:1px 5px;border:1px solid var(--border);border-radius:3px">workflow</code> — הגדר בהגדרות למטה
@@ -647,6 +653,11 @@
         <div class="field-hint">נדרש scope: workflow. הטוקן נשמר ב-localStorage של הדפדפן בלבד.</div>
       </div>
       <div class="field-group">
+        <label class="field-label">NewsAPI Key</label>
+        <input type="password" class="field-input" id="newsapi-key-input" placeholder="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" />
+        <div class="field-hint">מפתח API מ-newsapi.org — נשמר ב-localStorage בלבד (לתצוגה; ה-workflow משתמש ב-GitHub Secret).</div>
+      </div>
+      <div class="field-group">
         <label class="field-label">שינוי סיסמת Admin</label>
         <input type="password" class="field-input" id="new-pwd-input" placeholder="סיסמה חדשה" />
         <div class="field-hint">ברירת מחדל: technews2026</div>
@@ -662,9 +673,10 @@
 /* ─── Constants ──────────────────────────────────────────────── */
 const REPO = 'oferzusman/technews-hub';
 const DEFAULT_PASSWORD = 'technews2026';
-const LS_KEY_PWD   = 'admin_pwd';
-const LS_KEY_PAT   = 'admin_pat';
-const LS_KEY_AUTHED = 'admin_authed';
+const LS_KEY_PWD      = 'admin_pwd';
+const LS_KEY_PAT      = 'admin_pat';
+const LS_KEY_NEWSAPI  = 'admin_newsapi_key';
+const LS_KEY_AUTHED   = 'admin_authed';
 
 /* ─── Auth ───────────────────────────────────────────────────── */
 function getStoredPwd() {
@@ -700,13 +712,16 @@ function toggleSettings() {
   document.getElementById('settings-chevron').textContent = open ? '▲' : '▼';
   if (open) {
     document.getElementById('pat-input').value = localStorage.getItem(LS_KEY_PAT) || '';
+    document.getElementById('newsapi-key-input').value = localStorage.getItem(LS_KEY_NEWSAPI) || '';
   }
 }
 
 function saveSettings() {
   const pat = document.getElementById('pat-input').value.trim();
+  const newsapiKey = document.getElementById('newsapi-key-input').value.trim();
   const newPwd = document.getElementById('new-pwd-input').value.trim();
   if (pat) localStorage.setItem(LS_KEY_PAT, pat);
+  if (newsapiKey) localStorage.setItem(LS_KEY_NEWSAPI, newsapiKey);
   if (newPwd) localStorage.setItem(LS_KEY_PWD, newPwd);
   const msg = document.getElementById('save-msg');
   msg.textContent = '✓ הגדרות נשמרו בהצלחה';
