@@ -104,6 +104,76 @@
       "url": "https://paperswithcode.com/rss",
       "language": "en",
       "enabled": false
+    },
+    {
+      "id": "interesting-engineering",
+      "name": "Interesting Engineering",
+      "url": "https://interestingengineering.com/innovation/artificial-intelligence/feed",
+      "language": "en",
+      "enabled": true
+    },
+    {
+      "id": "reuters-tech",
+      "name": "Reuters Tech",
+      "url": "https://www.reuters.com/technology/rss",
+      "language": "en",
+      "enabled": true
+    },
+    {
+      "id": "new-atlas",
+      "name": "New Atlas",
+      "url": "https://newatlas.com/feed/",
+      "language": "en",
+      "enabled": true
+    },
+    {
+      "id": "guardian-ai",
+      "name": "The Guardian AI",
+      "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
+      "language": "en",
+      "enabled": true
+    },
+    {
+      "id": "the-register",
+      "name": "The Register",
+      "url": "https://www.theregister.com/software/ai_ml/headlines.atom",
+      "language": "en",
+      "enabled": true
+    },
+    {
+      "id": "futurism",
+      "name": "Futurism",
+      "url": "https://futurism.com/feed",
+      "language": "en",
+      "enabled": true
+    },
+    {
+      "id": "toms-hardware",
+      "name": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/feeds/all",
+      "language": "en",
+      "enabled": true
+    },
+    {
+      "id": "forbes-ai",
+      "name": "Forbes AI",
+      "url": "https://www.forbes.com/ai/feed/",
+      "language": "en",
+      "enabled": true
+    },
+    {
+      "id": "nature-machine-intelligence",
+      "name": "Nature Machine Intelligence",
+      "url": "https://www.nature.com/natmachintell.rss",
+      "language": "en",
+      "enabled": true
+    },
+    {
+      "id": "cnbc-tech",
+      "name": "CNBC Tech",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
+      "language": "en",
+      "enabled": true
     }
   ]
 }
