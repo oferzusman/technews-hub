@@ -5863,7 +5863,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 239,
-    "t": "Introducing GPT-5.3-Codex-Spark\n\nIntroducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
+    "t": "הכירו את GPT-5.3-Codex-Spark\n\nOpenAI השיקה את GPT-5.3-Codex-Spark, מודל קוד אמיתי בזמן אמת שעובד 15 פעמים יותר מהר מהגרסאות הקודמות. המודל תומך ב-128k context וזמין כבר עכשיו בתצוגה מקדימה למשתמשי ChatGPT Pro - חדשות מעולות למפתחים שמחפשים חביבות אמיתית. Source: OpenAI Blog",
     "d": "Thu, 12 Feb 2026 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -6752,7 +6752,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 274,
-    "t": "Introducing Prism\n\nPrism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.",
+    "t": "הכרות עם Prism\n\nOpenAI משיקה את Prism, סביבת עבודה חינמית וindigenous ל-LaTeX עם GPT-5.2 מובנה, שמאפשרת לחוקרים לכתוב, לשתף פעולה ולהנמק בכל מקום אחד. הכלי החדש מלחמץ את התהליך של כתיבת מאמרים מדעיים על ידי שילוב של AI חזק עם סביבת ההקלדה המוכרת לחוקרים, וזה בדיוק מה שחסר לעולם האקדמי הטכני.",
     "d": "Tue, 27 Jan 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -6778,7 +6778,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 275,
-    "t": "How Indeed uses AI to help evolve the job search\n\nIndeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers.",
+    "t": "איך Indeed משתמשת בAI כדי להפוך את חיפוש העבודה\n\nמנכ\"ל המכירות של Indeed, מגי הולס, חוקה כיצד בינה מלאכותית משנה את המשחק בחיפוש עבודה, גיוס כוח אדם והשמת עובדים - וזה יוצא עבור גם המעסיקים וגם המחפשי עבודה. סוף סוף, האלגוריתמים עוזרים לאנשים למצוא את המשרה הנכונה בפעם הראשונה, במקום להשאר תקועים בפידים אינסופיים של משרות לא רלוונטיות.",
     "d": "Mon, 26 Jan 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -6801,7 +6801,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 276,
-    "t": "Unrolling the Codex agent loop\n\nA technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
+    "t": "פתיחת לולאת ה-Codex Agent\n\nOpenAI חושפת איך בדיוק עובדת מערכת ה-Codex - הכלי שלהם שמתאם בין מודלי AI, כלים שונים וה-prompts באמצעות Responses API. טכני ומעמיק, זה בעצם המדריך להבנת איך AI agents מעבדים משימות בצורה חכמה ויעילה. מי שרוצה להבין את האנטומיה של agents מודרניים - הנה ההסבר המלא.",
     "d": "Fri, 23 Jan 2026 12:00:00 GMT",
     "v": 0,
     "l": [
@@ -6814,9 +6814,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
       "news",
+      "model",
       "agents"
     ],
     "imp": "low",
@@ -6852,7 +6855,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 278,
-    "t": "Scaling PostgreSQL to power 800 million ChatGPT users\n\nAn inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation.",
+    "t": "סקילינג PostgreSQL לשירות 800 מיליון משתמשי ChatGPT\n\nOpenAI חשפה איך היא הצליחה לגדול את PostgreSQL עד למיליונים של שאילתות בשנייה בעזרת replicas, caching וrate limiting חכמים. במילים אחרות, הנה איך אתה עושה מסד נתונים שלא יקרוס כשמיליונים משתמשים מנסים להשתמש בו בו-זמנית.",
     "d": "Thu, 22 Jan 2026 12:00:00 GMT",
     "v": 0,
     "l": [
@@ -6878,7 +6881,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 279,
-    "t": "Inside GPT-5 for Work: How Businesses Use GPT-5\n\nA data-driven report on how workers across industries use ChatGPT—covering adoption trends, top tasks, departmental patterns, and the future of AI at work.",
+    "t": "GPT-5 לעסקים: כיצד חברות משתמשות ב-GPT-5\n\nדוח חדש מ-OpenAI חושף איך עובדים בתעשיות שונות משתמשים ב-ChatGPT כדי להגביר פרודוקטיביות - מtrends אימוץ ועד המשימות החזקות ביותר בכל מחלקה. המחקר מראה שה-AI כבר לא רק צעצוע של startup, אלא כלי עבודה שמשנה את דרך הפעולה של חברות בעולם האמיתי.",
     "d": "Thu, 22 Jan 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -6898,13 +6901,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 280,
-    "t": "Inside Praktika's conversational approach to language learning\n\nHow Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personalize lessons, track progress, and help learners achieve real-world language fluency",
+    "t": "בתוך הגישה השיחתית של Praktika ללימוד שפות\n\nPraktika משתמשת ב-GPT-4.1 ו-GPT-5.2 כדי לבנות מורים AI אדפטיביים שמותאמים לכל תלמיד - כל אחד מקבל שיעורים אישיים, עקיבה מלאה על ההתקדמות, והכל כדי להגיע לרהט שפה אמיתי בעולם האמיתי. המערכת של Praktika מתאימה את עצמה לכל למידה, ממש כמו מורה פרטי ש-AI חכם שפשוט מבין איך אתה בדיוק לומד הכי טוב.",
     "d": "Thu, 22 Jan 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -6930,7 +6933,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 281,
-    "t": "How Higgsfield turns simple ideas into cinematic social videos\n\nDiscover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2.",
+    "t": "איך Higgsfield הופכת רעיונות פשוטים לסרטונים קולנועיים לרשתות חברתיות\n\nHiggsfield הוא כלי חדש שמאפשר ליוצרי תוכן ליצור סרטונים קולנועיים ממש כמו בהוליווד, רק מרעיונות פשוטים - והכל עם עזרת GPT-4.1, GPT-5 ו-Sora 2 של OpenAI. המערכת מבינה מה אתה רוצה וממירה את זה ישירות לסרטון שמוכן להעלות לרשתות חברתיות בלי צורך בעריכה מלחיצה. זה כמו שיש לך פרודיוסר וביצוע מפורסם בכיסך!",
     "d": "Wed, 21 Jan 2026 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -6980,7 +6983,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 283,
-    "t": "Introducing Edu for Countries\n\nEdu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
+    "t": "Edu for Countries - יוזמה חדשה של OpenAI\n\nOpenAI השקה תוכנית חדשה שמטרתה לעזור לממשלות בעולם להשתמש בAI כדי לחדש את מערכות החינוך שלהן ולהכין כוח עבודה ערוך להשקפה לעתיד. התוכנית מציעה לממשלות כלים וטכנולוגיה לשילוב AI בחינוך, מה שיכול לשנות את דרך ההוראה והלמידה ברחבי העולם. זוהי צעד משמעותי של OpenAI בהשקעה בחינוך גלובלי והכנת הדור הבא לעולם דיגיטלי.",
     "d": "Wed, 21 Jan 2026 01:00:00 GMT",
     "v": 0,
     "l": [
@@ -7006,7 +7009,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 284,
-    "t": "How countries can end the capability overhang\n\nOur latest report reveals stark differences in advanced AI adoption across countries and outlines new initiatives to help nations capture productivity gains from AI.",
+    "t": "איך מדינות יכולות להיפטר מהעודף בתכולות AI\n\nדוח חדש של OpenAI חושף הפערים ענקיים בין מדינות בהתאמת AI מתקדם, והציע יוזמות חדשות שיעזרו לכל מדינה למנצל את הרווחים של הפרודוקטיביות מה-AI. בקיצור - יש מדינות שכבר רוקדות עם הטכנולוגיה הזאת, ויש שעדיין לא התחילו, וצריך להשוות את זה.",
     "d": "Wed, 21 Jan 2026 01:00:00 GMT",
     "v": 0,
     "l": [
@@ -7019,17 +7022,20 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
-    "tags": [
-      "news"
+    "co": [
+      "OpenAI"
     ],
-    "imp": "medium",
+    "tags": [
+      "news",
+      "model"
+    ],
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 285,
-    "t": "Horizon 1000: Advancing AI for primary healthcare\n\nOpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028.",
+    "t": "Horizon 1000: קידום AI לשירותי בריאות ראשוניים\n\nOpenAI וקרן גייטס משקיעות 50 מיליון דולר בפרויקט חדש שנקרא Horizon 1000, שמטרתו להביא AI לחממות בריאות בקצה אפריקה. התוכנית שואפת להגיע לאלף קליניקות עד 2028 ולהפוך AI למשהו שמעבד מרפאה סמוך לביתך במקום שאתה מעבדו בבית החולים. \n\nהיוזמה הזו היא עוד ראיה של הדחיפה הגדולה של הענקיות הטכנו לשימוש AI בתחום הבריאות בעולם המתפתח. OpenAI Blog",
     "d": "Tue, 20 Jan 2026 21:00:00 GMT",
     "v": 0,
     "l": [
@@ -7055,7 +7061,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 286,
-    "t": "Stargate Community\n\nStargate Community plans detail a community-first approach to AI infrastructure, using locally tailored plans shaped by community input, energy needs, and workforce priorities.",
+    "t": "קהילת Stargate\n\nתוכנית Stargate Community חושפת גישה חדשה שמעדיפה את הקהילה בראש סדר העדיפויות בבנייה של תשתיות AI. התוכנית מותאמת לצרכים המקומיים של כל אזור - מצריכי החשמל ועד להזדמנויות התעסוקה, והכל בשותפות עם התושבים המקומיים. בקיצור, במקום דיפלוי AI מרחוק, הם בונים אתה ביחד עם הקהילות עצמן.\n\nמקור: OpenAI Blog",
     "d": "Tue, 20 Jan 2026 19:00:00 GMT",
     "v": 0,
     "l": [
@@ -7068,9 +7074,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -7101,7 +7110,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 288,
-    "t": "Cisco and OpenAI redefine enterprise engineering with AI agents\n\nCisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.",
+    "t": "סיסקו ו-OpenAI משנים את פנים ההנדסה בעסקים עם AI agents\n\nסיסקו ו-OpenAI השיקו את Codex, AI agent חדש שמטמיעים ישירות בתהליכי העבודה של חברות כדי להאיץ את פיתוח התוכנה, לאוטומט תיקוני באגים, ולהנעיל דור חדש של development שנבנה סביב AI. זה כמו שיש לך מהנדס AI שרץ ברקע והולם הכל בשבילך - בדיוק מה שהתעשייה חיכתה לו.",
     "d": "Tue, 20 Jan 2026 11:00:00 GMT",
     "v": 0,
     "l": [
@@ -7128,7 +7137,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 289,
-    "t": "ServiceNow powers actionable enterprise AI with OpenAI\n\nServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Platform.",
+    "t": "ServiceNow מחזקת את הבינה מלאכותית התוקף בעזרת OpenAI\n\nServiceNow פותחת גישה למודלי הchallenge של OpenAI כדי להנעיל AI-driven workflows, סיכום מסמכים, חיפוש ותכונות קול בפלטפורמה שלה. כלומר, חברות שמשתמשות בServiceNow יוכלו להשתמש בChatGPT ובמודלים מתקדמים אחרים של OpenAI בשביל לאוטומציה תהליכים, ניתוח מסמכים וחיפוש חכם - כל זה ישר בתוך סביבת העבודה שלהם. זה בעצם Game Changer למשרדים שרוצים להיות אוטומטיים וחכמים יותר בשלבים של עיבוד נתונים.",
     "d": "Tue, 20 Jan 2026 05:45:00 GMT",
     "v": 0,
     "l": [
@@ -7148,7 +7157,7 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
@@ -7177,7 +7186,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 291,
-    "t": "Our approach to age prediction\n\nChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time.",
+    "t": "הדרך שלנו לחיזוי גיל\n\nOpenAI משיקה פיצ'ר חדש ב-ChatGPT שמנבא את גיל המשתמשים - האם הם מעל או מתחת ל-18 - כדי להפעיל הגנות מיוחדות לעשרים ולשפר את הדיוק לאורך הזמן. זו צעד חשוב בכיוון של תכנים בטוחים יותר לנוער וצעירים.",
     "d": "Tue, 20 Jan 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -7252,7 +7261,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 294,
-    "t": "AI for self empowerment\n\nHow AI can expand human agency by closing the capability overhang—helping people, businesses, and countries unlock real productivity, growth, and opportunity.",
+    "t": "AI לשיפור עצמי והעצמה אישית\n\nאתם מכירים את התחושה שיש לכם כל כך הרבה פוטנציאל בלתי מנוצל? אז OpenAI חושבת שה-AI יכול לעזור לנו להגיע לשם. במקום שה-AI תחליף אתכם, היא מדברת על איך הטכנולוגיה הזאת יכולה באמת להעצים את בני אדם, עסקים ומדינות כוללות - תן להם לפתוח את היכולות החדשות שלהם ולהגיע לפריון, גדילה והזדמנויות שאולם לא הצליחו להשיג. זה פחות על רובוטים ויותר על כיצד AI יכול להיות כוח אמיתי להשתנות.",
     "d": "Sun, 18 Jan 2026 12:00:00 GMT",
     "v": 0,
     "l": [
@@ -7265,9 +7274,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -7275,7 +7287,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 295,
-    "t": "A business that scales with the value of intelligence\n\nOpenAI’s business model scales with intelligence—spanning subscriptions, API, ads, commerce, and compute—driven by deepening ChatGPT adoption.",
+    "t": "עסק שגדל עם הערך של הבינה המלאכותית\n\nמודל העסק של OpenAI גדל בקצב המתחייב מהשיפור בחכמת ה-AI - דרך מודל המנויים, API, פרסומות, מסחר ודיור חישובי. התפשטות השימוש ב-ChatGPT בקרב משתמשים ברחבי העולם היא המנוע שמניע את הצמיחה הזו בכל ערוצי ההכנסה של החברה.",
     "d": "Sun, 18 Jan 2026 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -7324,7 +7336,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 297,
-    "t": "The truth left out from Elon Musk’s recent court filing\n\nThe truth left out from Elon Musk’s recent court filing.",
+    "t": "מה שאלון מאסק השמיט מהתצהיר שלו בבית המשפט\n\nסקירה על הפרטים החשובים שנעדרו מהתיקייה המשפטית של מאסק. OpenAI חושפת כעת את הממדים שהושמטו מהתצהיר הרשמי, וזה קשור כנראה לסכסוכים בין מאסק לחברה שלו בתחום ה-AI.",
     "d": "Fri, 16 Jan 2026 12:00:00 GMT",
     "v": 0,
     "l": [
@@ -7337,9 +7349,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -7347,7 +7362,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 298,
-    "t": "Introducing ChatGPT Go, now available worldwide\n\nChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more affordable globally.",
+    "t": "ChatGPT Go זמין בעולם כולו\n\nOpenAI השיקה את ChatGPT Go באופן גלובלי, והיא מביאה את GPT-5.2 Instant לכל משתמשי ברחבי העולם עם גבולות שימוש גבוהים יותר וזיכרון ארוך טווח - כל זה במחיר הרבה יותר סביר. זה בעצם הדרך של OpenAI להפוך את ה-AI המתקדם לנגיש לכולנו.",
     "d": "Fri, 16 Jan 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -7373,7 +7388,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 299,
-    "t": "Our approach to advertising and expanding access to ChatGPT\n\nOpenAI plans to test advertising in the U.S. for ChatGPT’s free and Go tiers to expand affordable access to AI worldwide, while protecting privacy, trust, and answer quality.",
+    "t": "הגישה שלנו לפרסומות והרחבת הגישה ל-ChatGPT\n\nOpenAI עומדת לנסות מודל פרסומות בארה\"ב עבור ה-ChatGPT החינמי וTier ה-Go, במטרה להנגיש AI זול יותר לכל העולם - תוך שמירה על פרטיות, אמון ואיכות התשובות. זה בעצם הדרך של OpenAI להתמודד עם העובדה שהחזקת המערכות שלהם עולה כסף בחודש - אז למה לא לתרום קצת פרסומות?",
     "d": "Fri, 16 Jan 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -7399,7 +7414,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 300,
-    "t": "Investing in Merge Labs\n\nOpenAI is investing in Merge Labs to support new brain computer interfaces that bridge biological and artificial intelligence to maximize human ability, agency, and experience.",
+    "t": "השקעה ב-Merge Labs\n\nOpenAI משקיעה בחברת Merge Labs שמתמקדת בממשקי מוח-מחשב חדשניים המחברים בין ביולוגיה לAI. המטרה היא להגביר את יכולות האדם, עצמאותו וחוויותיו באמצעות שילוב של טכנולוגיה מתקדמת וישכל אנושי. זה חלק מהמהלך של OpenAI לשם המון שימוש טכנולוגי חדש שישנה את הדרך בה אנחנו מתקשרים עם מכונות.",
     "d": "Thu, 15 Jan 2026 07:00:00 GMT",
     "v": 0,
     "l": [
@@ -7425,7 +7440,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 301,
-    "t": "Strengthening the U.S. AI supply chain through domestic manufacturing\n\nOpenAI launches a new RFP to strengthen the U.S. AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure.",
+    "t": "חיזוק שרשרת ההיצע של AI בארה״ב דרך ייצור מקומי\n\nOpenAI הכריזה על RFP חדש שנועד לחזק את התשתית של ה-AI בארצות הברית - כלומר, הם חיפשים שותפים מקומיים שיעזרו להם להרחיב את הייצור של כל הגאדגטים וחומרת הכפיים שצריכים כדי להפעיל את הדברים האלה. בטרם אחרונה, OpenAI פועלת כדי להבטיח שהם לא תלויים בחו״ל, לא רק בשביל הביטחון אלא גם כדי ליצור עבודות חדשות בארה״ב ולהאיץ את ההתפתחות של AI infrastructure מקומית.",
     "d": "Thu, 15 Jan 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -7445,7 +7460,7 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
@@ -7474,7 +7489,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 303,
-    "t": "OpenAI partners with Cerebras\n\nOpenAI partners with Cerebras to add 750MW of high-speed AI compute, reducing inference latency and making ChatGPT faster for real-time AI workloads.",
+    "t": "OpenAI משתפת פעולה עם Cerebras\n\nOpenAI קשרה שותפות עם Cerebras כדי להוסיף 750MW של computing power ענקי לAI, דבר שמפחית את זמן ההמתנה של ChatGPT ומעניק לו מהירות רעם ברובד האפליקציות בזמן אמת. השיתוף הזה אומר שהמערכות של OpenAI יהיו יותר מהירות מאי פעם בעיבוד בקשות, מה שיתרגם למשתמשים לתשובות מיידיות יותר. המהלך מעניין כי הוא מראה איך ענקיות הטכנולוגיה משקיעות בתשתיות חדשות כדי להישאר בחזית המרוץ של AI. מקור: OpenAI Blog",
     "d": "Wed, 14 Jan 2026 14:00:00 GMT",
     "v": 0,
     "l": [
@@ -7494,7 +7509,7 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
@@ -7578,7 +7593,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 307,
-    "t": "OpenAI’s Raising Concerns Policy\n\nWe’re publishing our Raising Concerns Policy, which protects employees’ rights to make protected disclosures.",
+    "t": "מדיניות הגשת תלונות של OpenAI\n\nOpenAI פרסמה את מדיניות ההגנה על עובדים שמעלים חשש בנוגע לעבירות או התנהלות לא הולמת בחברה. זו צעד חשוב שמגן על זכויות העובדים לחשוף בעיות ללא חוששים מהעונשים, וזה חלק מהמאמצים של הגיגנט ה-AI לשמור על תרבות עבודה אתית וקולחת. המדיניות מדגישה את ההתחייבות של OpenAI לשקיפות ותשתוקי עובדים בחברה.",
     "d": "Mon, 12 Jan 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -7596,8 +7611,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -7605,7 +7619,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 308,
-    "t": "OpenAI and SoftBank Group partner with SB Energy\n\nOpenAI and SoftBank Group partner with SB Energy to develop multi-gigawatt AI data center campuses, including a 1.2 GW Texas facility supporting the Stargate initiative.",
+    "t": "OpenAI ו-SoftBank Group משתפות פעולה עם SB Energy לבניית מתקני נתונים ענקיים ל-AI\n\nבצעד משמעותי, OpenAI ו-SoftBank Group הצהירו על שותפות עם SB Energy לפיתוח מתקני נתונים בעוצמה של מיליארדים של וואטים, כולל מתקן בטקסס שיתמוך ביוזמת Stargate. זה בעצם ההודעה שכולם חיכו לה - האינוודסטמנט הענק בתשתיות ה-AI שיאפשרו לאימן מודלים גדולים יותר ויותר בעתיד הקרוב.",
     "d": "Fri, 09 Jan 2026 11:00:00 GMT",
     "v": 0,
     "l": [
@@ -7632,7 +7646,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 309,
-    "t": "Datadog uses Codex for system-level code review\n\nOpenAI and Datadog brand graphic with the OpenAI wordmark on the left, the Datadog logo on the right, and a central abstract brown fur-like texture panel on a white background.",
+    "t": "Datadog משתמשת ב-Codex לביקורת קוד ברמת המערכת\n\nDatadog המפגינה איך היא משלבת את ה-AI של OpenAI כדי לתעדף ולהאיץ את תהליכי בדיקת הקוד שלה, מה שעוזר למהנדסים להתמקד בבעיות קריטיות במקום בדברים שנוכל להותיר לבוט. זה עוד דוגמה של כל הנעות שמתחילות להשתמש ב-LLMs כדי להפוך תהליכים מעייפים לאוטומטיים.",
     "d": "Fri, 09 Jan 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -7658,7 +7672,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 310,
-    "t": "OpenAI for Healthcare\n\nOpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA compliance—reducing administrative burden and supporting clinical workflows.",
+    "t": "OpenAI לרפואה\n\nOpenAI השיקה פתרון חדש המתמחה בעולם הבריאות - AI מדרגת enterprise שתומך בעמידות ל-HIPAA וחוסך לבתי חולים הרבה צרבעות בניהול מנהלתי מיותר. הכלי מדוליג למוקדי טיפול קליניים ומאפשר להם להשתמש ב-AI בצורה בטוחה ונחוקית, בדיוק כמו שנדרש בישראל לפי כללי הנתונים הרגישים בתחום הבריאות.",
     "d": "Thu, 08 Jan 2026 12:00:00 GMT",
     "v": 0,
     "l": [
@@ -7684,7 +7698,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 311,
-    "t": "Netomi’s lessons for scaling agentic systems into the enterprise\n\nHow Netomi scales enterprise AI agents using GPT-4.1 and GPT-5.2—combining concurrency, governance, and multi-step reasoning for reliable production workflows.",
+    "t": "שיעורים מ-Netomi: איך מתרחבים עם מערכות AI אജנטיביות בחברות גדולות\n\nחברת Netomi חושפת את הסוד שלה להרצת AI agents בעלי ממש בקנה מידה ארגוני - ושפט שלהם משתמשים ב-GPT-4.1 ו-GPT-5.2 כדי להריץ משימות מורכבות בו-זמנית עם שליטה וניטור חזק. הכל עובד עם multi-step reasoning ותהליכי עבודה בייצור אמתיים שלא מתקלקלים באמצע הדרך.",
     "d": "Thu, 08 Jan 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -7739,7 +7753,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 313,
-    "t": "How Tolan builds voice-first AI with GPT-5.1\n\nTolan built a voice-first AI companion with GPT-5.1, combining low-latency responses, real-time context reconstruction, and memory-driven personalities for natural conversations.",
+    "t": "איך Tolan בונה AI ראשון-קול עם GPT-5.1\n\nחברת Tolan השיקה מתנחה AI שמדבר בקול טבעי באמצעות GPT-5.1, וזה כולל תגובות במהירות ברק, הבנת הקשר בזמן אמת, והודעות שמחזיקות זיכרון של השיחות. התוצאה? שיחה שנראית כמו שיחה אמיתית עם בן אדם, לא רובוט.",
     "d": "Wed, 07 Jan 2026 10:00:00 GMT",
     "v": 0,
     "l": [
