@@ -784,7 +784,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 33,
-    "t": "As AI agents take on more tasks, governance becomes a priority\n\nAI systems are starting to move beyond simple responses. In many organisations, AI agents are now being tested to plan tasks, make decisions, and carry out actions with limited human input. It is no longer just about whether a model gives the right answer. It is about what happens when that model is allowed to […]\nThe post As AI agents take on more tasks, governance becomes a priority appeared first on AI News.",
+    "t": "כשסוכני AI מטפלים בעוד ועוד משימות, ניהול הסיכונים הופך לחיוני\n\nAI כבר לא רק עונה לשאלות - עכשיו סוכני AI מתחילים לתכנן משימות, לקבל החלטות ולפעול בעצמם עם מינימום התערבות אנושית. הבעיה היא שהתשובה הנכונה זה רק חצי הדרך; עכשיו צריך להבין מה קורה כשמודל AI מקבל כוח אמיתי לפעול בעצמאות. לישראליים שעוקבים אחרי האינדוסטריה, זה בדיוק הדבר שנושא המון שאלות על בקרה ובטחון של מערכות AI מתקדמות.",
     "d": "Mon, 06 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -799,8 +799,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/As-AI-agents-take-on-more-tasks-governance-becomes-a-priority-scaled-e1775448913961.jpg",
@@ -2349,7 +2348,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 98,
-    "t": "KiloClaw targets shadow AI with autonomous agent governance\n\nWith the launch of KiloClaw, enterprises now have a tool to enforce governance over autonomous agents and manage shadow AI. While businesses spent the last year securing large language models and formalising vendor agreements, developers and knowledge workers started moving on their own. Employees are bypassing official procurement, deploying autonomous agents on personal infrastructure to […]\nThe post KiloClaw targets shadow AI with autonomous agent governance appeared first on AI News.",
+    "t": "KiloClaw: השיטה החדשה לשלוט ב-AI הצללים ובסוכנים אוטונומיים\n\nKiloClaw חברה חדשה שמטרתה לתת לעסקים שליטה על סוכנים אוטונומיים שעובדים 'בהצללה' - כלומר, עובדים בחברה משתמשים ב-AI tools בעצמם מבלי אישור רשמי. בזמן שהחברות היו עסוקות בהבטחת LLMs והסכמים עם ספקים, המתכנתים והעובדים כבר קדמו קדימה והתחילו להרוץ סוכנים אוטונומיים על תשתיות משלהם. KiloClaw באה לסדר את הבלאגן הזה ולתת לארגונים דרך לעקוב ולשלוט בכל הפעילויות של AI הללו. מקור: AI News",
     "d": "Thu, 02 Apr 2026 16:30:53 +0000",
     "v": 0,
     "l": [
@@ -2365,9 +2364,7 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "robotics",
-      "regulation",
-      "agents"
+      "regulation"
     ],
     "imp": "low",
     "thumb": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/kiloclaw-shadow-ai-enterprise-governance-openclaw-cybersecurity-strategy-data-privacy-access-management.jpg",
@@ -2398,7 +2395,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 100,
-    "t": "New ways to balance cost and reliability in the Gemini API\n\nGoogle is introducing two new inference tiers to the Gemini API, Flex and Priority,\r\nto balance cost and latency.",
+    "t": "דרכים חדשות לאיזון בין עלות וביעילות ב-Gemini API\n\nגוגל משיקה שתי רמות inference חדשות ל-Gemini API - Flex ו-Priority - שמאפשרות למפתחים לבחור בין מחיר נמוך יותר לבין תגובה מהירה יותר. זה בעצם מה שהיו צריכים לעשות מלכתחילה - לתת לנו אפשרויות כי לא תמיד צריך המשגח המהיר ביותר, ולפעמים גם הארנק שלנו אומר תודה על החסכון. קלאסי של גוגל להבין שבמציאות העסקית, טוב ורחוק יותר משלם אם הוא חסום בעלות. (מקור: Google AI Blog)",
     "d": "Thu, 02 Apr 2026 16:00:00 +0000",
     "v": 0,
     "l": [
@@ -2424,7 +2421,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 101,
-    "t": "Create, edit and share videos at no cost in Google Vids\n\nNew AI capabilities are coming to Google Vids, powered by Lyria 3 and Veo 3.1, like high-quality video generation at no cost and more.",
+    "t": "יצרו, ערכו ושתפו סרטונים בחינם ב-Google Vids\n\nגוגל משיקה יכולות AI חדשות ל-Google Vids שמופעלות על ידי Lyria 3 ו-Veo 3.1, כולל יצירת סרטונים באיכות גבוהה בלא עלות. זה אומר שכל אחד יכול עכשיו לייצר וריאציות שונות של סרטוני וידאו מקצועיים בלא להוציא שקל, תוך שימוש ב-AI שמבין את ההקשר ויוצר תוכן חזותי איכותי. תכונות החיתוך והעריכה בפלטפורמה הפכו לעוד יותר חכמות וקלות להשתמש בהן.",
     "d": "Thu, 02 Apr 2026 16:00:00 +0000",
     "v": 0,
     "l": [
@@ -2473,7 +2470,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 103,
-    "t": "5 best practices to secure AI systems\n\nA decade ago, it would have been hard to believe that artificial intelligence could do what it can do now. However, it is this same power that introduces a new attack surface that traditional security frameworks were not built to address. As this technology becomes embedded in critical operations, companies need a multi-layered defense strategy […]\nThe post 5 best practices to secure AI systems appeared first on AI News.",
+    "t": "5 פרקטיקות הכי טובות לאבטחת מערכות AI\n\nה-AI הפך לכל כך חזק שהוא פתח חזיתות התקפה שלמות שמערכות האבטחה הקלאסיות לא התכננו להן. עכשיו שטכנולוגיה הזו משתלבת בפעולות קריטיות, חברות צריכות להשקיע בהגנה רב-שכבתית כמו שלא עשו קודם. בקטע הזה נכנסים לחמש הדרכים היעילות ביותר להגן על מערכות AI שלכם מפני התקפות. מקור: AI News",
     "d": "Thu, 02 Apr 2026 14:45:03 +0000",
     "v": 0,
     "l": [
@@ -2488,8 +2485,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/roman-budnikov-LrmVfNfhFOw-unsplash-scaled.jpg",
@@ -2520,7 +2516,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 105,
-    "t": "China’s Five-Year Plan details the targets for AI deployment\n\nChina has approved its 15th Five-Year Plan [PDF] setting out the country’s economic, education, social, and industrial priorities through to 2030. As might be expected, there is a significant number of references to AI, with the technology mentioned in several contexts. AI is grouped alongside quantum computing, biotechnology, and energy as paths that are to […]\nThe post China’s Five-Year Plan details the targets for AI deployment appeared first on AI News.",
+    "t": "תוכנית החמש שנים של סין חושפת יעדים קונקרטיים להצבת AI\n\nסין אישרה את תוכנית החמש שנים ה-15 שלה שמציבה יעדים כלכליים, חינוכיים וטכנולוגיים עד 2030, ובברור ל-AI יש תפקיד חשוב בעסקה הזו. הממשלה הסינית מקבצת את AI לצד computing קוונטי, ביוטכנולוגיה והנדסת אנרגיה כשדות קריטיים שיקבלו השקעה וקדימות.",
     "d": "Thu, 02 Apr 2026 13:23:00 +0000",
     "v": 0,
     "l": [
@@ -2664,7 +2660,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 111,
-    "t": "Autonomous AI systems depend on data governance\n\nMuch of the current focus on AI safety has centred on models – how they are trained and monitored. But as systems become more autonomous, attention is changing toward the data those systems depend on. If the data feeding an AI system is fragmented, outdated, or lacks oversight, the system’s behaviour can become more unpredictable. […]\nThe post Autonomous AI systems depend on data governance appeared first on AI News.",
+    "t": "מערכות AI אוטונומיות תלויות בממשל נתונים\n\nעד היום הדגש בבטיחות AI היה על המודלים עצמם, אבל כשהמערכות נהיות יותר אוטונומיות, כולם מבינים שהנתונים זה בעצם הכל. אם הנתונים שמזינים את ה-AI מפוזרים, לא עדכניים או ללא감독, המערכת יכולה להתחיל להתנהג בצורות בלתי צפויות וקצת מעוררות דאגה. בקיצור, data governance טוב זה כמו לתת למערכת AI דיאטה בריאה - בלי זה, כל העסק יכול ללכת לדרך לא טובה.\n\nמקור: AI News",
     "d": "Thu, 02 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -2679,8 +2675,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/Autonomous-AI-systems-depend-on-data-governance-scaled-e1775101692605.jpg",
@@ -2688,7 +2683,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 112,
-    "t": "Experian uncovers fraud paradox in financial services’ AI adoption\n\nThe same technology that financial institutions deploying is being weaponised against them. That is the core tension running through Experian’s 2026 Future of Fraud Forecast, and it’s a tension the company is in a position to name because it sits on both sides of it. According to FTC data cited in the forecast, consumers lost […]\nThe post Experian uncovers fraud paradox in financial services’ AI adoption appeared first on AI News.",
+    "t": "אקספריאן חושפת את הפרדוקס של הונאות בהטמעת AI בשירותים פיננסיים\n\nיש כאן טוויסט די משעשע - אותה טכנולוגיית AI שהבנקים והחברות פיננסיות משתמשים בה כדי להגן מפני הונאות, הרשעים גם הם לומדים להשתמש בה בשביל לתקוף אותם. אקספריאן, שיודעת הכל על שני הצדדים של הקטגוריה הזו, פרסמה דוח חדש שמחשיף את המתח המטורף הזה בין הגנה להתקפה בתחום ההונאות הפיננסיות.",
     "d": "Thu, 02 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -2783,7 +2778,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 116,
-    "t": "KPMG: Inside the AI agent playbook driving enterprise margin gains\n\nGlobal AI investment is accelerating, yet KPMG data shows the gap between enterprise AI spend and measurable business value is widening fast. The headline figure from KPMG’s first quarterly Global AI Pulse survey is blunt: despite global organisations planning to spend a weighted average of $186 million on AI over the next 12 months, only […]\nThe post KPMG: Inside the AI agent playbook driving enterprise margin gains appeared first on AI News.",
+    "t": "KPMG: ספר ההוראות של AI agents שמניע רווחים בחברות גדולות\n\nחברות גדולות בעולם מתכננות להשקיע מאות מיליונים בשנה בתחום ה-AI, אבל KPMG חושפת בסקר הראשון שלה שיש ערש רחב בין ההשקעות בפועל לבין הערך העסקי בפועל. התוכנית היא להשתמש ב-AI agents כדי להגדיל את הרווחיות, אבל רק אחוז קטן מהחברות מצליחות להוכיח שהרווח בפועל שווה למה שהן משקיעות.",
     "d": "Wed, 01 Apr 2026 15:24:01 +0000",
     "v": 0,
     "l": [
@@ -2799,7 +2794,6 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "funding",
       "agents"
     ],
     "imp": "low",
@@ -2831,7 +2825,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 118,
-    "t": "We’re creating a new satellite imagery map to help protect Brazil’s forests.\n\nGoogle partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests.",
+    "t": "אנחנו יוצרים מפת תמונות לוויין חדשה להגנה על יערות ברזיל\n\nגוגל משתפת פעולה עם הממשלה הברזילאית בפרויקט מרשים שמטרתו ליצור מפת לוויין מתקדמת להגנה על יערות הגשם הברזיליים. המפה הזו תעזור לחקויות ולרשויות להקים ולשמור על המדבריות שלהם בעזרת טכנולוגיית AI שתזהה שינויים בשטחים היערים בזמן אמת. זה עוד דוגמה להשימוש של גוגל בטכנולוגיות AI לשימור סביבתי ברחבי העולם.",
     "d": "Wed, 01 Apr 2026 13:30:00 +0000",
     "v": 0,
     "l": [
@@ -2844,12 +2838,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp",
@@ -2857,7 +2848,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 119,
-    "t": "The latest AI news we announced in March 2026\n\nHere are Google’s latest AI updates from March 2026",
+    "t": "עדכוני AI החדשים שלנו ממרץ 2026\n\nגוגל השיקה בחודש מרץ סדרה של עדכונים משמעותיים בתחום ה-AI שאמורים לשנות את הדרך בה אנחנו עובדים עם מודלים של בינה מלאכותית. המשימות החדשות כוללות שיפורים משמעותיים בביצועי המודלים, יכולות חדשות בעיבוד נתונים, והרחבה של API הנתמכות בפלטפורמה. זה טיפה בים בהשוואה למה שצפוי להגיע בעוד כמה חודשים, אבל בינתיים יש פה כמה דברים די מעניינים לעבוד איתם. מקור: Google AI Blog",
     "d": "Wed, 01 Apr 2026 13:00:00 +0000",
     "v": 0,
     "l": [
@@ -2877,7 +2868,7 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/March_2026_AI_Recap_social_hvvl.max-600x600.format-webp.webp",
     "source": "Google AI Blog"
   },
@@ -2932,7 +2923,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 122,
-    "t": "DeepL’s Borderless Business report reveals 83% of enterprises are still behind on language AI\n\nAI is everywhere in the enterprise. The translation workflow often is not. That is the core finding of DeepL’s 2026 Language AI report, “Borderless Business: Transforming Translation in the Age of AI,” published on March 10. Despite broad AI investment across business functions, the report reveals that language and multilingual operations–workflows that touch sales, legal, customer support, and […]\nThe post DeepL’s Borderless Business report reveals 83% of enterprises are still behind on languag",
+    "t": "דוח 'עסקים ללא גבולות' של DeepL חושף: 83% מהחברות עדיין מאחורות בתחום AI של תרגום\n\nלמרות שחברות משקיעות כסף כבד ב-AI בכל תחומי הפעילות, יוצא שלא הן לא מספיקות כשמדובר בעולם התרגום והעבודה בשפות מרובות. דוח 'Borderless Business' החדש של DeepL חושף שרוב החברות עדיין לא ממש התאימו את תוך-היסודות שלהם לעידן ה-AI של שפות - משהו שממש משפיע על כל מה שקורה בשירות לקוחות, מכירות, וחוקי. התוצאה: הרבה עוד עבודה להעשות בנושא הזה.",
     "d": "Wed, 01 Apr 2026 12:00:00 +0000",
     "v": 0,
     "l": [
@@ -2947,10 +2938,9 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/DeepL-Logo-RGB-.jpg",
     "source": "AI News"
   },
@@ -3002,7 +2992,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 125,
-    "t": "Hershey applies AI across its supply chain operations\n\nArtificial intelligence is moving beyond software and further into the physical side of business. Companies in food production and logistics are starting to use data systems to support day-to-day decisions, not long-term planning. That change is visible in The Hershey Company’s latest strategy update. At its Investor Day, the company said it plans to use […]\nThe post Hershey applies AI across its supply chain operations appeared first on AI News.",
+    "t": "הרשי משתמשת ב-AI על כל שרשרת האספקה שלה\n\nהרשי לא מתעסקת עוד רק בתיאוריות - החברה הענקית בייצור שוקולד מובילה AI ישירות לתוך הפעולות היומיומיות של המחסנים וההפצה. במקום להשתמש בנתונים לתכנון שנתי, הם משתמשים בהם עכשיו כדי לקבל החלטות מיידיות במסד הייצור והלוגיסטיקה, וזה סימן ברור לעוד תמורה גדולה בתעשיית המזון והלוגיסטיקה.",
     "d": "Wed, 01 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -3117,7 +3107,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 130,
-    "t": "Build with Veo 3.1 Lite, our most cost-effective video generation model\n\nVeo 3.1 Lite  is now available in paid preview through the Gemini API and for testing in Google AI Studio.",
+    "t": "Veo 3.1 Lite - מודל יצירת וידאו חסכוני שלנו זמין כעת\n\nגוגל השיקה את Veo 3.1 Lite, גרסה קלה וזולה יותר של מודל יצירת הווידאו שלהם, שזמינה כעת בתצוגה בתשלום דרך ה-Gemini API וגם לבדיקות ב-Google AI Studio. מודל חדש זה מאפשר למפתחים ליצור וידאו איכותי בעלות נמוכה משמעותית בהשוואה לגרסאות קודמות.",
     "d": "Tue, 31 Mar 2026 16:00:00 +0000",
     "v": 0,
     "l": [
@@ -3170,7 +3160,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 132,
-    "t": "SAP and ANYbotics drive industrial adoption of physical AI\n\nHeavy industry relies on people to inspect hazardous, dirty facilities. It’s expensive, and putting humans in these zones carries obvious safety risks. Swiss robot maker ANYbotics and software company SAP are trying to change that. ANYbotics’ four-legged autonomous robots will be connected straight into SAP’s backend enterprise resource planning software. Instead of treating a robot […]\nThe post SAP and ANYbotics drive industrial adoption of physical AI appeared first on AI News.",
+    "t": "SAP ו-ANYbotics דוחפים את ההתאמה התעשייתית של Physical AI\n\nSAP והחברה השוויצרית ANYbotics משיתפות פעולה כדי להחליף בני אדם בבדיקות מתקנים מסוכנים וקשים - רובוטים ארבע-רגליים אוטונומיים שמחוברים ישירות לחטיבת הERP של SAP. במקום להתייחס לרובוטים כמכונות בודדות, המערכת תשלב אותם כחלק אינטגרלי מהתהליכים העסקיים של החברה, מה שיכול להציל חיים ולחסוך הרבה כסף בדיקות בתעשייה הכבדה.",
     "d": "Tue, 31 Mar 2026 15:20:53 +0000",
     "v": 0,
     "l": [
@@ -3185,8 +3175,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/sap-anybotics-anymal-industrial-iot-physical-ai.jpg",
@@ -3542,7 +3531,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 147,
-    "t": "Watch James Manyika talk AI and creativity with LL COOL J.\n\nIn the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
+    "t": "LL COOL J והנושאים העמוקים של AI והיצירתיות - שיחה עם ג'יימס מניקה\n\nבסדרת הדיונים החדשה של גוגל על טכנולוגיה וחברה, הזמרת ההיפ הופ המיתולוגית LL COOL J יושבת מול ג'יימס מניקה, אחד מגדולי המומחים ל-AI בעולם, לדיון עמוק על איך AI משנה את הדרך שלנו להיות יצירתיים. זה לא סתם עוד פודקאסט טק - זה שיחה אמיתית בין שתי דמויות שמשפיעות על התרבות והטכנולוגיה שלנו.",
     "d": "Thu, 26 Mar 2026 17:00:00 +0000",
     "v": 0,
     "l": [
@@ -3557,8 +3546,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Approved_thumbnail_with_logo.max-600x600.format-webp.webp",
@@ -3566,7 +3554,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 148,
-    "t": "Transform your headphones into a live personal translator on iOS.\n\nGoogle Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…",
+    "t": "הפכו את האוזניות שלכם למתרגם אישי חי ב-iOS\n\nגוגל הביאה לסוף לשהות - Live Translate של Google Translate מגיע סוף סוף ל-iOS! ועכשיו החברה מרחיבה את הפיצ'ר הזה גם ל-Android בהרבה יותר מדינות, מה שאומר שתוכלו להתרגם שיחות בזמן אמת פשוט עם האוזניות שלכם, בכל מקום שאתם. זה משנה משחק עבור מי שמטייל או צריך לתקשר עם אנשים בשפות שונות. | מקור: Google AI Blog",
     "d": "Thu, 26 Mar 2026 16:00:00 +0000",
     "v": 0,
     "l": [
@@ -3592,7 +3580,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 149,
-    "t": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable\n\nGemini 3.1 Flash Live is now available across Google products.",
+    "t": "Gemini 3.1 Flash Live: AI שומע יותר טבעי ואמין\n\nגוגל הרחיקה את Gemini 3.1 Flash Live לכל המוצרים שלה, והפעם המוקד הוא על שיפור בעיבוד אודיו שיהיה יותר טבעי וגם יותר בר-סמכה. זה משנה משחק למי שעובד עם תמלול, תרגום או כל דבר שקשור לעיבוד קול דרך AI.",
     "d": "Thu, 26 Mar 2026 15:21:00 +0000",
     "v": 0,
     "l": [
@@ -3618,7 +3606,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 150,
-    "t": "Search Live is expanding globally\n\nWe’re expanding Search Live globally, to all languages and locations where AI Mode is available.",
+    "t": "Search Live מרחיבה את פעילותה ברחבי העולם\n\nגוגל מרחיבה את השירות Search Live לכל שפות ומדינות שבהן AI Mode זמין. זה אומר שיותר משתמשים בעולם יוכלו להשתמש בחיפוש עם AI בזמן אמת, מבלי להיות תלויים בשפה או במיקום שלהם. הכל חלק מהמהלך של גוגל לתת לכולם גישה לכלים ה-AI המתקדמים שלהם. | מקור: Google AI Blog",
     "d": "Thu, 26 Mar 2026 15:00:00 +0000",
     "v": 0,
     "l": [
@@ -3631,9 +3619,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Google"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Live_blog_header.max-600x600.format-webp.webp",
@@ -3641,7 +3632,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 151,
-    "t": "Build with Lyria 3, our newest music generation model\n\nLyria 3 is now available in paid preview through the Gemini API and for testing in Google AI Studio.",
+    "t": "בואו לבנות עם Lyria 3, מודל יצירת המוזיקה החדש שלנו\n\nגוגל השיקה את Lyria 3, מודל הדור הבא ליצירת מוזיקה AI, והוא כבר זמין לבדיקה דרך Gemini API בגרסה בתשלום וגם ב-Google AI Studio. אם אתם מפתחים או יוצרים שמעוניינים להשתלב עם טכנולוגיית יצירת מוזיקה מתקדמת, הזמן לקחת חלק בבטא היא עכשיו.",
     "d": "Wed, 25 Mar 2026 16:00:00 +0000",
     "v": 0,
     "l": [
@@ -3667,7 +3658,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 152,
-    "t": "Lyria 3 Pro: Create longer tracks in more Google products\n\nWe are bringing Lyria 3 to the tools where professionals work and create every day.",
+    "t": "Lyria 3 Pro: יצירת קטעי מוזיקה ארוכים יותר בעוד מוצרים של גוגל\n\nגוגל מביאה את Lyria 3 לכלים שבהם יוצרים ופרופשיונלים עובדים כל יום. כמעט כמו ספוטיפיי ליוצרי קונטנט - עכשיו אפשר ליצור מוזיקה ארוכה יותר ישירות בכלים שכבר משתמשים בהם. AI יוצר מוזיקה, גוגל משפרת, והעולם משתנה.",
     "d": "Wed, 25 Mar 2026 16:00:00 +0000",
     "v": 0,
     "l": [
@@ -3680,12 +3671,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria-3-Pro_thumbnail.max-600x600.format-webp.webp",
@@ -3974,7 +3962,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 164,
-    "t": "Bringing the power of Personal Intelligence to more people\n\nWe're expanding Personal Intelligence across AI Mode in Search, the Gemini app and Gemini in Chrome.",
+    "t": "הבאת כוח האינטליגנציה האישית לעוד אנשים\n\nגוגל משחררת את Personal Intelligence שלה בצורה רחבה יותר - זה יהיה זמין ב-AI Mode בחיפוש, באפליקציית Gemini וב-Gemini בדפדפן Chrome. בעצם, כל הכלים החביבים עליכם מקבלים עוד קצת AI כושר מוח כדי להבין אתכם טוב יותר.",
     "d": "Tue, 17 Mar 2026 16:00:00 +0000",
     "v": 0,
     "l": [
@@ -4000,7 +3988,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 165,
-    "t": "Our latest investment in open source security for the AI era\n\nGoogle is making new investments, building new tools and developing code security to improve open source security.",
+    "t": "ההשקעה החדשה שלנו בביטחון קוד פתוח בעידן ה-AI\n\nגוגל משקיעה בגדול בביטחון open source - מפתחת כלים חדשים וקוד שירותי שיהפוכו את המערכות הפתוחות לבטוחות יותר בעידן ה-AI. זה חלק מהמהלך הרחב של הענקיות הטך להגן על הקוד הפתוח שעליו כולם תלויים, כולל דגלי ה-AI החדשים שלהם.",
     "d": "Tue, 17 Mar 2026 16:00:00 +0000",
     "v": 0,
     "l": [
@@ -4013,14 +4001,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "funding",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/25367___BRS___Aspen_Security_Fo.max-600x600.format-webp_J9uPoFt.webp",
@@ -4028,7 +4011,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 166,
-    "t": "Holotron-12B - High Throughput Computer Use Agent",
+    "t": "Holotron-12B - אגנט שימוש במחשב בתפוקה גבוהה\n\nHugging Face חשפה את Holotron-12B, מודל AI חדש שמסוגל להתמודד עם משימות מורכבות על המחשב בצורה훨씬יותר יעילה. המודל הקומפקטי הזה (12 מיליארד פרמטרים) יכול לבצע אוטומציה של תהליכים מורכבים על ממשק המשתמש, מה שפותח דלתות לעוזרים AI שיכולים באמת להשתמש בכלים שאנחנו משתמשים בהם בכל יום. המימוש החדש מבטיח ביצועים טובים יותר בפחות משאבים - דבר שמעניין במיוחד לתחום ה-AI בישראל שמחפשת פתרונות יעילים.",
     "d": "Tue, 17 Mar 2026 12:33:39 GMT",
     "v": 0,
     "l": [
@@ -4043,8 +4026,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn-uploads.huggingface.co/production/uploads/682c3e22650f6bbe33bb9d94/ZrDLn6Wer5-TM_okKVmZ2.png",
@@ -4154,7 +4136,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 171,
-    "t": "How AI is helping improve heart health in rural Australia\n\nA new Google AI initiative aims to improve heart health outcomes for people living in remote Australian communities.",
+    "t": "איך AI עוזרת לשפר את בריאות הלב בשטחים כפריים באוסטרליה\n\nגוגל השיקה יוזמת AI חדשה שמטרתה לשפר את תוצאות בריאות הלב של אנשים החיים בקהילות מרוחקות באוסטרליה. המיזם מסייע לתושבי הכפרים בגישה לטכנולוגיית אבחון מתקדמת שעד כה הייתה זמינה בעיקר בערים גדולות. זה עוד דוגמה לאופן שבו AI יכולה לסגור פערים בבריאות ציבורית בעולם.",
     "d": "Thu, 12 Mar 2026 15:00:00 +0000",
     "v": 0,
     "l": [
@@ -4167,12 +4149,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIHealth_v2_2096x1182_02.max-600x600.format-webp.webp",
@@ -4286,7 +4265,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 176,
-    "t": "Gemini in Google Sheets just achieved state-of-the-art performance.\n\nToday we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis — just describe …",
+    "t": "Gemini בגוגל שיטס הגיע לביצועים של מדרגה עולמית\n\nגוגל השיקה תכונות בטא חדשות של Gemini בשיטס שמאפשרות לכם ליצור, לארגן ולערוך גיליונות שלמים בקלות - מ-משימות בסיסיות ועד ניתוח נתונים מורכב, והכל על ידי תיאור פשוט של מה שאתם רוצים. עכשיו אפשר להשתמש ב-AI כדי לעבוד על הגיליונות כמו שומן אמיתי, ולא רק לסדר נתונים - זה ממש משנה את המשחק עבור כל מי שעובד עם טבלאות ונתונים. המאפיין עדיין בשלב בטא אבל זה כבר נראה שהגברת זו הולכת להיות גדולה בעולם הפרודוקטיביות.",
     "d": "Tue, 10 Mar 2026 13:00:00 +0000",
     "v": 0,
     "l": [
@@ -4364,7 +4343,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 179,
-    "t": "Introducing Storage Buckets on the Hugging Face Hub",
+    "t": "Hugging Face משיקה Storage Buckets - דרך חדשה לאחסן ולשתף מודלים\n\nHugging Face הכריזה על תיקייה אחסון חדשה שתעזור למפתחים ומחוקרים לנהל ולשתף בקלות את המודלים והדאטאסטים שלהם ישירות מההאב. הפיצ'ר החדש הזה מפשט את התהליך של עבודה עם קבצים גדולים ומאפשר שיתוף פעולה טוב יותר בקהילת ה-AI. זה עוד צעד של Hugging Face להפוך את המערכת שלהם לכל יותר ידידותית למשתמש.",
     "d": "Tue, 10 Mar 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -4387,7 +4366,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 180,
-    "t": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+    "t": "שמרו על ה-Tokens זורמים: שיעורים מ-16 ספריות RL בקוד פתוח\n\nהוג'ינג פייס בדקו 16 ספריות Reinforcement Learning שונות וחילצו את ההיקחויות החשובות ביותר לשמירה על יעילות ה-tokens תוך אימון מודלים. המטרה? לעזור למפתחים לא להפסיד זמן וresources במיותר ולבחור את הכלים המתאימים ביותר לפרויקט שלהם. זה כמו המדריך האולטימטיבי שהיית צריך לפני שהתחלת בתוכנית ה-RL שלך.",
     "d": "Tue, 10 Mar 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -4436,7 +4415,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 182,
-    "t": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+    "t": "Ulysses Sequence Parallelism: הדרכה עם מיליון טוקנים בהקשר אחד\n\nחברת Hugging Face חשפה טכניקה חדשה שנקראת Ulysses Sequence Parallelism שמאפשרת לאמן מודלי AI על קטעי טקסט ענקיים - עד מיליון טוקנים בהקשר אחד! הטכנולוגיה הזאת פותחת אפשרויות חדשות לחיזוי טקסט ארוך ומסוגל מאוד, וזה בדיוק מה שצריך אם אנחנו רוצים מודלים שיבינו ספרים שלמים או מסמכים ענקיים. למעשה, זה יכול להיות game-changer לתחום.",
     "d": "Mon, 09 Mar 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -4459,7 +4438,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 183,
-    "t": "LeRobot v0.5.0: Scaling Every Dimension",
+    "t": "LeRobot v0.5.0: הגדלת כל ממד\n\nחברת Hugging Face הוציאה גרסה חדשה של LeRobot שמעלה את היכולות שלה בכל הכיוונים. הפלטפורמה המתקדמת להדרכת רובוטים חכמים כעת מסוגלת להתמודד עם משימות מורכבות יותר ובקנה מידה גדול יותר מתקודמת. הגרסה הזו מייצגת קפיצה משמעותית בדרך להפוך רובוטיקה לנגישה יותר למפתחים בכל העולם.",
     "d": "Mon, 09 Mar 2026 00:00:00 GMT",
     "v": 0,
     "l": [
