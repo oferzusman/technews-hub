@@ -328,7 +328,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "JP Morgan Concerned Tesla Stock Will Crash by 60 Percent in Face of Ongoing Business Failures\n\n\"We advise investors cautiously approach this expectation within the context of both execution risk and the time value of money.\"\nThe post JP Morgan Concerned Tesla Stock Will Crash by 60 Percent in Face of Ongoing Business Failures appeared first on Futurism.",
+    "t": "ג'יי פי מורגן מתריעה: מניית טסלה עלולה להתרסק ב-60 אחוז\n\nבנק ההשקעות הגדול זה עתה הוציא אזהרה משמעותית לגבי עתידה של טסלה, וטוען שיש סיכוןים עסקיים משמעותיים שיכולים להוביל לנפילה דרמטית של מחיר המניה. ג'יי פי מורגן קורא למשקיעים להתנהג בזהירות רבה בהשקעות בטסלה, תוך התחשבות בסיכוני ביצוע וערך הזמן של כספם.",
     "d": "Tue, 07 Apr 2026 13:19:16 -0400",
     "v": 0,
     "l": [
@@ -640,7 +640,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 27,
-    "t": "Trump Has Call With Moon Astronauts So Awkward That They May Turn Around and Disappear Into the Void of Space\n\nThis is painful.\nThe post Trump Has Call With Moon Astronauts So Awkward That They May Turn Around and Disappear Into the Void of Space appeared first on Futurism.",
+    "t": "שיחה כל כך尴尬בין טראמפ לאסטרונאוטים בירח שהם כמעט החליטו לחזור הביתה\n\nThis is painful.\nThe post Trump Has Call With Moon Astronauts So Awkward That They May Turn Around and Disappear Into the Void of Space appeared first on Futurism.",
     "d": "Tue, 07 Apr 2026 12:04:01 -0400",
     "v": 0,
     "l": [
@@ -830,7 +830,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 35,
-    "t": "Wall Street Journal Editor-in-Chief Instructs Staff to Welcome AI Sloplords\n\nOpen wide!\nThe post Wall Street Journal Editor-in-Chief Instructs Staff to Welcome AI Sloplords appeared first on Futurism.",
+    "t": "עורך ה-Wall Street Journal הורה לצוות שלו להכניס פתיים לעיתונאות עם AI\n\nההנהלה של וול סטריט ג'ורנל קיבלה החלטה חדשה וקצת מוזרה - להתחיל להשתמש ביותר כלים של AI כדי לייצר תוכן, אפילו אם זה לא תמיד מושלם. כל זה בשביל לעמוד בקצב של התחרות בעידן ה-AI, אבל כמובן שזה עורר לא מעט ביקורת מחברי זו שחוששים על איכות העיתונות.",
     "d": "Tue, 07 Apr 2026 11:15:19 -0400",
     "v": 0,
     "l": [
@@ -973,7 +973,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 41,
-    "t": "Elon Musk Secretly Shared His Number One Priority at Tesla and It Really Says It All\n\nIntense workaholic, or deadbeat CEO?\nThe post Elon Musk Secretly Shared His Number One Priority at Tesla and It Really Says It All appeared first on Futurism.",
+    "t": "אילון מאסק חשף את העדיפות המספר 1 שלו בטסלה - וזה ממש אומר הכל\n\nאילון מאסק פעם שוב גרם לעצמו לדברים - הפעם הוא נחשף שוב בנוגע לעדיפויות שלו בטסלה, ובכנות, זה קצת משנה את התמונה של ה-CEO שתמיד במצב workaholics כזה. האם זה יותר כלאי ודלקות בעבודה, או שמעצם יש לו סדר עדיפויות שונה משחקני כלים? בקריאה החדשה על מאסק, אתה תבין מה באמת עומד בראש רשימת המטלות שלו.",
     "d": "Tue, 07 Apr 2026 10:05:19 -0400",
     "v": 0,
     "l": [
@@ -1204,7 +1204,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 51,
-    "t": "Frontier AI Models Are Doing Something Absolutely Bizarre When Asked to Diagnose Medical X-Rays\n\nThey call it the \"mirage effect.\"\nThe post Frontier AI Models Are Doing Something Absolutely Bizarre When Asked to Diagnose Medical X-Rays appeared first on Futurism.",
+    "t": "מודלי AI מתקדמים מתנהגים בצורה מוזרה כשמבקשים מהם לאבחן צילומי X-Ray רפואיים\n\nמתברר שיש כאן 'אפקט של הזיה' - מודלי ה-AI החדשים ביותר שלנו עושים משהו מוזר כשהם מנסים לאבחן תמונות רפואיות, ונראה שהם \"רואים\" דברים שלא שם. החוקרים קוראים לזה 'mirage effect' וזה יכול להיות די בעייתי כשמדובר בעולם הרפואה שבו טעויות אלו יכולות להיות קריטיות.",
     "d": "Tue, 07 Apr 2026 09:06:31 -0400",
     "v": 0,
     "l": [
@@ -2563,7 +2563,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 107,
-    "t": "The Entire State of Maine Is Poised to Ban New Data Centers\n\n\"I think Maine is the canary in the coal mine.\"\nThe post The Entire State of Maine Is Poised to Ban New Data Centers appeared first on Futurism.",
+    "t": "מדינת מיין כולה עומדת להטיל איסור על מרכזי נתונים חדשים\n\nמיין אולי תהיה הסנונית הראשונה במכרה הפחם - המדינה מתכננת להטיל איסור כמעט מוחלט על בנייה של מרכזי נתונים חדשים. זה קצת מקומי, אבל יכול להיות לזה השלכות גדולות על תעשיית ה-AI ותחזוקת ה-cloud בארה\"ב, במיוחד בהתחשב בהצריכה הענקית של חשמל של מרכזים האלה. אם מיין מצליחה בזה, אחרות אולי יעקבו בעקבותיה.",
     "d": "Mon, 06 Apr 2026 17:06:52 -0400",
     "v": 0,
     "l": [
@@ -2578,8 +2578,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/state-maine-ban-new-data-centers.jpg?quality=85",
@@ -2659,7 +2658,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 111,
-    "t": "Inside Sources Say Sam Altman Is a Sociopath\n\n\"He's unbelievably persuasive. Like, Jedi mind tricks.\"\nThe post Inside Sources Say Sam Altman Is a Sociopath appeared first on Futurism.",
+    "t": "מקורות פנימיים: סם אלטמן הוא סוציופת\n\nדיווחים חדשים מעולם ה-AI טוענים שמנכ\"ל OpenAI סם אלטמן משתמש בכוח השכנוע שלו בדרכים מניפולטיביות, כשמקורות קרובים מתארים אותו כבעל יכולות שכנוע \"כמו קסומים של ג'דיי\". הדברים העוררים בעיקר שאלות על האישיות וההתנהגות של אחד מהדמויות המשפיעות ביותר בתעשיית ה-AI כיום. (מקור: Futurism)",
     "d": "Mon, 06 Apr 2026 16:10:00 -0400",
     "v": 0,
     "l": [
@@ -2672,9 +2671,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/sources-sam-altman-sociopath.jpg?quality=85",
@@ -2752,7 +2754,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 115,
-    "t": "Lone Jar of Nutella Drifts Around Cabin of Moon Spacecraft\n\n\"This was not a product placement,\" a NASA spokesperson told us.\nThe post Lone Jar of Nutella Drifts Around Cabin of Moon Spacecraft appeared first on Futurism.",
+    "t": "צנצנת נוטלה בודדה צפה בתא החללית לירח\n\nנאס״א מחדשת לנו שזה לא הייתה פרסומת - צנצנת נוטלה אמיתית התפרסמה בתמונות שהועלו מתא הנוסעים של החללית. זה יכול להיות הפרסום הכי מוזר של הטעם המתוק הישראלי, או רק מקרה מצחיק של אובייקט אקראי שהתחיל לצוף במצב חוסר כבידה. בכל מקרה, התמונות הן לגיטימיות ונאס״א התחייבה שלא קיבלו כסף על זה.",
     "d": "Mon, 06 Apr 2026 15:39:04 -0400",
     "v": 0,
     "l": [
@@ -4068,7 +4070,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 168,
-    "t": "The Moon Astronauts Just Broke the Record for the Farthest Any Human Has Ever Traveled From Earth\n\nAn incredible achievement. \nThe post The Moon Astronauts Just Broke the Record for the Farthest Any Human Has Ever Traveled From Earth appeared first on Futurism.",
+    "t": "אסטרונאוטים על הירח שברו את השיא - הם הגיעו רחוק יותר מכל אדם בהיסטוריה\n\nזה רגע היסטורי באמת: האסטרונאוטים שנמצאים כרגע על הירח עברו את הרשימון של כל אדם שאי פעם טס לחלל, והגיעו למרחק שלא הופעל מפני שנים. איזה דבר משכנע שבני אדם חוזרים לחקור את הירח ותוקפים שיאים חדשים במרחק לאינסוף!",
     "d": "Mon, 06 Apr 2026 14:34:16 -0400",
     "v": 0,
     "l": [
@@ -4989,7 +4991,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 205,
-    "t": "Startup Approved to Let AI System Prescribe Psychiatric Medication\n\nWhat could possibly go wrong?\nThe post Startup Approved to Let AI System Prescribe Psychiatric Medication appeared first on Futurism.",
+    "t": "סטארטאפ קיבל אישור להשתמש במערכת AI להנפקת תרופות פסיכיאטריות\n\nזה קרה בפועל - חברה קטנה קיבלה אישור רגולטורי להשתמש בבינה מלאכותית כדי להעניק מרשמים לתרופות נפשיות, וכמובן שיש לנו כמה שאלות על הנושא הזה. מתחזקת הטענה שהAI יכולה להיות יעילה כמו אדם במקרים מסוגים מסוימים, אך כשמדובר בטיפול נפשי, ההימור הוא קצת יותר גבוה מהרגיל.",
     "d": "Mon, 06 Apr 2026 13:47:12 -0400",
     "v": 0,
     "l": [
@@ -6611,7 +6613,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 270,
-    "t": "Sam Altman Watches Awkwardly As He’s Shown Bizarre ChatGPT Issue: “Uh, Maybe, Uhhh…”\n\nExplain this one, Sam.\nThe post Sam Altman Watches Awkwardly As He’s Shown Bizarre ChatGPT Issue: “Uh, Maybe, Uhhh…” appeared first on Futurism.",
+    "t": "סם אלטמן הסתכל בנבוכות כשהראו לו באג משונה ב-ChatGPT: \"אה... אולי, אממ...\"\n\nזה קרה בשידור חי - סם אלטמן, ה-CEO של OpenAI, נתקל בבעיה מוזרה ב-ChatGPT שגרמה לו ללכלך כמעט בלי מילים. המצב היה כל כך מביך שאפילו אלטמן לא ידע מה להגיד, וברור שהמודל התנהג בצורה שלא בדיוק מתוכננת. המקרה הזה מעלה שאלות חשובות על אמינות ה-AI בעולם התנועות החיות וההצגות הציבוריות.",
     "d": "Mon, 06 Apr 2026 12:31:14 -0400",
     "v": 0,
     "l": [
@@ -7164,7 +7166,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 293,
-    "t": "Moon Astronauts Forced to Do It in Bags as “Burning Odor” Emanates From Toilet\n\n\"When I opened up the hygiene bay, the rest of the crew could smell it pretty much immediately.\"\nThe post Moon Astronauts Forced to Do It in Bags as “Burning Odor” Emanates From Toilet appeared first on Futurism.",
+    "t": "אסטרונאוטים בירח נאלצים להשתמש בשקיות כשריח של 'שריפה' יוצא מהשירותים\n\nבמשימת חלל שלא הצליחה כל כך, אחד מהאסטרונאוטים פתח את מה שהתכנון הקרא לו 'hygiene bay' והזעיק ריח שריפה כזה שכל הצוות הרגיש אותו כמעט מיד. נראה שגם בחלל אפשר לתקוע מערכות אנושיות ממש כמו פה בכדור הארץ - רק שכאן אתה לא יכול קודם לקרוא לשרברב. המשימה הסתיימה בשימוש חירום בשקיות, דבר שמראה שאפילו טכנולוגיה ספייס יוג יכולה להכשל כשמדובר בצרכים בסיסיים.",
     "d": "Mon, 06 Apr 2026 11:25:08 -0400",
     "v": 0,
     "l": [
@@ -7522,7 +7524,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 308,
-    "t": "Why Is the New York Times Laundering the Reputation of a Sleazy AI Startup That’s Selling GLP-1s via a Dishonest Dumpster Fire of Fake Doctors, Phony Before-and-After Pictures, and Other Glaring Red Flags?\n\n\"It's just an automated GLP-1 prescription mill.\"\nThe post Why Is the New York Times Laundering the Reputation of a Sleazy AI Startup That’s Selling GLP-1s via a Dishonest Dumpster Fire of Fake Doctors, Phony Before-and-After Pictures, and Other Glaring Red Flags? appeared first on Futurism.",
+    "t": "למה ניউ יורק טיימס מכסה על סטארטאפ AI חשוד שמוכר תרופות GLP-1 דרך רופאים מזויפים וצילומים מזויפים?\n\nסטארטאפ AI חדש שמתיימר להיות פתרון רפואי חדיש בעצם עובד כ'מכונת מרשמים אוטומטית' עם כל מיני דגלים אדומים מטורפים. אנחנו מדברים על רופאים מזויפים, תמונות before-and-after שהן בדיוק כמו שהן נשמעות - בדיוני לחלוטין, וכל מיני תעלול שונה שמטיל צל ענק על האמינות של החברה.",
     "d": "Mon, 06 Apr 2026 10:49:10 -0400",
     "v": 0,
     "l": [
@@ -8792,7 +8794,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 361,
-    "t": "Polymarket Has Turned Our Climate Apocalypse Into a Casino\n\n\"The gamblification of everything is Evil in [the] fullest sense of the word.\"\nThe post Polymarket Has Turned Our Climate Apocalypse Into a Casino appeared first on Futurism.",
+    "t": "פולימרקט הפכה את האפוקליפסה האקלימית שלנו לקזינו\n\nהפלטפורמה להימורים על תחזוקות עתידיות הופכת אתרועים קריטיים כמו שינוי אקלים לסוג של משחק מהמרים - ויש שמטילים ספק קשה בלגיטימיות של 'ההימורי-פיקציה' של כל דבר. בפוסט מחריד, כותבים טוענים שהתופעה הזו מהווה עוול בהיקף מלא.",
     "d": "Sun, 05 Apr 2026 20:00:00 -0400",
     "v": 0,
     "l": [
@@ -8838,7 +8840,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 363,
-    "t": "ICE Foiled At Every Turn By One Vibe Coding Man In His Pickup Truck\n\nGo get 'em, tiger.\nThe post ICE Foiled At Every Turn By One Vibe Coding Man In His Pickup Truck appeared first on Futurism.",
+    "t": "קודר \"ווייב\" יחיד בפיקאפ עצר את ICE בכל פעם\n\nסיפור מדהים על מתכנת שמצליח לתוקף סוכנות בעזרת כישוריו בקידוד ויצירתיות - כמו סרט אקשן של הוליווד אבל בעולם האמיתי. הבחור הזה עם הפיקאפ שלו הוא בעיקרון הגיבור שלנו בימים אלו.",
     "d": "Sun, 05 Apr 2026 17:00:00 -0400",
     "v": 0,
     "l": [
@@ -8907,7 +8909,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 366,
-    "t": "Scientists Gene Hacked a Plant So It Grows Five Types of Psychoactive Drugs at Once\n\nCould this be the world's most illegal plant?\nThe post Scientists Gene Hacked a Plant So It Grows Five Types of Psychoactive Drugs at Once appeared first on Futurism.",
+    "t": "מדענים עדכנו גנים של צמח כדי שينמו בו חמישה סוגים של תרופות פסיכואקטיביות בו-זמנית\n\nמחקר פשוט מטורף: חוקרים השתמשו בהנדסה גנטית כדי ליצור צמח שיכול לייצר בו זמנית חמישה חומרים פסיכואקטיביים שונים. אם זה יעבוד בפועל, זה עלול להיות הצמח האסור ביותר בעולם. מה זה אומר למשמעות החוקים הקיימים? זה עוד דוגמה לכוחה של CRISPR וטכנולוגיות gene editing שמכניסות אותנו לאזור אפור גם מבחינה משפטית וגם אתית.",
     "d": "Sun, 05 Apr 2026 16:15:00 -0400",
     "v": 0,
     "l": [
@@ -8922,8 +8924,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/gene-hacked-plant-grows-five-types-psychedelic-drugs.jpg?quality=85",
@@ -8954,7 +8955,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 368,
-    "t": "Groups Set Up to Shill AI and Data Centers Are Pouring Huge Sums of Money Into the Midterm Elections\n\n\"The cavalry is coming to back up the policymakers who stand with the president and will hold accountable the ones who don't.\"\nThe post Groups Set Up to Shill AI and Data Centers Are Pouring Huge Sums of Money Into the Midterm Elections appeared first on Futurism.",
+    "t": "קבוצות תעשיות AI ומרכזי נתונים שופכות מיליונים לבחירות הביניים בארה\"ב\n\nתעשיית ה-AI וספקי תשתיות הנתונים הגדולים מנהלים מערכת לובי משמעותית בבחירות האמריקאיות, מעבירים סכומים ענקיים לתמוך בפוליטיקאים התומכים בצמיחת הענף. זה חלק מחזית רחבה של ענקי הטכנולוגיה שמנסים להשפיע על מדיניות ממשלתית לטובת האינטרסים שלהם בעידן ה-AI.",
     "d": "Sun, 05 Apr 2026 15:30:00 -0400",
     "v": 0,
     "l": [
@@ -8969,8 +8970,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/ai-pacs-trump-lobbying.jpg?quality=85",
@@ -9004,7 +9004,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 370,
-    "t": "Nonprofit Research Groups Disturbed to Learn That OpenAI Has Secretly Been Funding Their Work\n\n\"I don't want OpenAI to write their own rules for how they interact with children.\"\nThe post Nonprofit Research Groups Disturbed to Learn That OpenAI Has Secretly Been Funding Their Work appeared first on Futurism.",
+    "t": "קבוצות מחקר ללא-רווח הופתעו לגלות שOpenAI מימנה בסתר את עבודתן\n\nבדיוק גיליתם שOpenAI היתה תומכת סודית בעבודה של ארגונים ללא-רווח שאמורים להיות עצמאיים - ולכן כמובן שהקבוצות האלה לא משמחות מהחשיפה הזאת. העניין הוא שאם OpenAI מממנת את המחקר, הם למעשה יכולים להשפיע על התוצאות, בעיקר כשמדובר בנושאים חשובים כמו אינטראקציה של AI עם ילדים.",
     "d": "Sun, 05 Apr 2026 14:45:00 -0400",
     "v": 0,
     "l": [
@@ -9022,8 +9022,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/openai-nonprofit-child-safety.jpg?quality=85",
@@ -9054,7 +9053,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 372,
-    "t": "Astronomers Found Something Strange In Giant “Forbidden” Planet Nearly the Size of Its Star\n\nFor one: it shouldn't exist.\nThe post Astronomers Found Something Strange In Giant “Forbidden” Planet Nearly the Size of Its Star appeared first on Futurism.",
+    "t": "אסטרונומים גילו משהו מוזר בכוכב ענקי \"אסור\" שכמעט בגודל הכוכב שלו\n\nמדענים גילו כוכב לכת ענקי שלפי כל החוקים של הפיזיקה הוא פשוט לא אמור להיות קיים - הוא כל כך גדול שהוא כמעט בגודל של כוכב השרת שלו! המגילה הזו עלולה לערער על כל מה שחשבנו שאנחנו יודעים על יצירת מערכות כוכבים.\nמקור: Futurism",
     "d": "Sun, 05 Apr 2026 14:00:00 -0400",
     "v": 0,
     "l": [
@@ -9100,7 +9099,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 374,
-    "t": "AI Expert Says It’s Time to Stop Freaking Out About AI Taking Our Jobs\n\nThat's a relief.\nThe post AI Expert Says It’s Time to Stop Freaking Out About AI Taking Our Jobs appeared first on Futurism.",
+    "t": "מומחה AI: זה הזמן להפסיק להיות בפאניקה מהAI שיגנב לנו את המקומות\n\nדיוק - קצת תרגועים בעבור כולנו. מומחה בתחום AI חוזר ואומר שאנחנו מייגעים את עצמנו בלא צורך עם חשש שהמכונות יגנבו לנו את העבודה, ואחרי כמה שנים של פחד קולקטיבי, יש כאן כמה טיעונים טובים למה לא כדאי לנו להשתגע על הנושא. כי בסוף, זה גם תלוי איך אנחנו בוחרים להשתמש בהכל הזה. מקור: Futurism",
     "d": "Sun, 05 Apr 2026 13:15:00 -0400",
     "v": 0,
     "l": [
@@ -9149,7 +9148,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 376,
-    "t": "We Can’t Even Imagine the Eating Disorders This New Meta Smart Glasses Feature Will Cause\n\nThis will in no way go horrifically wrong.\nThe post We Can’t Even Imagine the Eating Disorders This New Meta Smart Glasses Feature Will Cause appeared first on Futurism.",
+    "t": "משקפיים חכמים של מטא עשויים לעורר בעיות אכילה חדשות - והחברה לא מודעת לכך\n\nמטא השיקה פיצ'ר חדש במשקפיים החכמים שלה שיכול להשפיע בצורה דרמטית על יחסי אנשים עם האוכל והגוף שלהם. מומחים מעלים דגל אדום על הפוטנציאל של הטכנולוגיה הזו להחמיר בעיות נפשיות קשות כמו הפרעות בהנאה וחרדות אוכל. זו עוד דוגמה לכך שחברות טק משיקות פיצ'רים אפילו בלי לחשוב על ההשלכות הבריאותיות שלהם.",
     "d": "Sun, 05 Apr 2026 12:33:21 -0400",
     "v": 0,
     "l": [
@@ -9162,12 +9161,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/eating-disorders-meta-smart-glasses-feature.jpg?quality=85",
@@ -9244,7 +9240,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 380,
-    "t": "Man Caught Sleeping Behind the Wheel While FSD Tesla Cruises the Streets After Decadent Feast of Wine and Pizza\n\nTalk about a joy ride.\nThe post Man Caught Sleeping Behind the Wheel While FSD Tesla Cruises the Streets After Decadent Feast of Wine and Pizza appeared first on Futurism.",
+    "t": "נתפס ישן על ההגה: נהג בטסלה עם FSD נהנה מסיבת יין ופיצה בזמן שהרכב נוהג בעצמו\n\nיש לנו כאן סיפור שנראה כמו מתוך סרט קומדי - נהג בטסלה בעל Full Self-Driving התפס בחצי שנה לשינה מוקסמת בזמן שהרכב שלו היה עצמאי מסתובב ברחובות אחרי ערב עם יין ופיצה. זה בדיוק הדוגמה שלא צריך להיות - הוכחה חיה לכך שגם טכנולוגיה מתקדמת כמו FSD לא מזמינה אותנו להשתכח מהאחריות על הכביש.",
     "d": "Sun, 05 Apr 2026 11:30:00 -0400",
     "v": 0,
     "l": [
@@ -9339,7 +9335,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 384,
-    "t": "China Cracking Down on the Types of AI That Are Tearing America Apart\n\nJust imagine.\nThe post China Cracking Down on the Types of AI That Are Tearing America Apart appeared first on Futurism.",
+    "t": "סין מסתערת על סוגי AI שהורסים את אמריקה\n\nכבר לא רק בשטח האבטחה הציבורית - סין מתחילה לתפוס את חומרא של בעיות ה-AI שמחלחלות בחברה האמריקנית. מדינה שידועה בפיקוח חמור על טכנולוגיה, היא עולה בידיים נגד אותם סוגי מודלים בעיתיים שתורמים לקיטוב והתפוצצות באמריקה. עוד לא ברור איך בדיוק המהלך הזה ישנה את הנוף העולמי של AI, אבל זה בהחלט מהלך שוויתי בתחקור של השפעות הטכנולוגיה.",
     "d": "Sun, 05 Apr 2026 10:45:00 -0400",
     "v": 0,
     "l": [
@@ -9484,7 +9480,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 390,
-    "t": "Target Warns That If Its AI Shopping Agent Makes an Expensive Mistake, You’ll Have to Pay for It\n\nThe company \"does not purport to guarantee that an Agentic Commerce Agent will act exactly as you intend in all circumstances.\"\nThe post Target Warns That If Its AI Shopping Agent Makes an Expensive Mistake, You’ll Have to Pay for It appeared first on Futurism.",
+    "t": "טארגט מזהירה: אם סוכן הקניות AI שלה יעשה טעות יקרה, אתם תישלמו עליה\n\nטארגט חושפת את התנאים שלה לשימוש בסוכן הקניות החדש שלה - ותו לא. החברה בהירה שלא היא מאחראית אם ה-AI יעשה משהו שאתם לא התכוונתם, כולל הוצאות כספיות גדולות. בקצרה: אם הסוכן הזה יהיה סמרטוט ויקנה לכם 500 שקיות של דברים שלא רציתם, זה עלייכם.",
     "d": "Sun, 05 Apr 2026 09:41:11 -0400",
     "v": 0,
     "l": [
@@ -9499,8 +9495,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/03/target-ai-agent-tos.jpg?quality=85",
@@ -10295,7 +10290,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 424,
-    "t": "Chinese Scientists Bioengineering Plants With Firefly Genes to Glow, in Effort to Light Cities at Night\n\nNight lighting may be due for a plant-based glow-up.\nThe post Chinese Scientists Bioengineering Plants With Firefly Genes to Glow, in Effort to Light Cities at Night appeared first on Futurism.",
+    "t": "מדענים סינים מהנדסים צמחים עם גנים של זוהר כדי להאיר ערים בלילה\n\nתחשבו על עיר שמואורת על ידי צמחים זוהרים - זה לא מתוך סרט מדע בדיוני, אלא משהו שמדענים סינים עובדים עליו כרגע. הם משתמשים ב-bioengineering כדי להוסיף גנים של זוהרי אש לצמחים, כדי שיוכלו להאיר את הלילה בצורה טבעית וחסכונית. אם זה יצליח, זה יכול להיות השינוי הגדול הבא במובילות עירוניות חכמות.",
     "d": "Sat, 04 Apr 2026 19:30:00 -0400",
     "v": 0,
     "l": [
@@ -10410,7 +10405,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 429,
-    "t": "CEO Says He’s Giving Employees a $1.5 Million Bonus So He Doesn’t Get Shot in the Street by a Luigi-Like Killer\n\n\"I didn't want anybody shooting me in the back.\"\nThe post CEO Says He’s Giving Employees a $1.5 Million Bonus So He Doesn’t Get Shot in the Street by a Luigi-Like Killer appeared first on Futurism.",
+    "t": "מנכ\"ל מתוך פחד: מחלק בונוס של 1.5 מיליון דולר לעובדים כדי שלא יירו בו ברחוב\n\nבמהלך ראיון מוזר, מנכ\"ל אמריקאי חשף שהוא מחלק בונוס ענק לעובדים בגלל חשש מעשי אלימות נגדו. הגבר אמר שהוא פחד מ\"מישהו שנראה כמו לואיג'י\" שיירה בו בגבו ברחוב, ולכן החליט להתנצל בכסף. הסיפור המוזר הזה הפך נושא דיון בעולם הטק ובוודאי תורם מעט לתמונת המנהיגות בתעשייה הטכנולוגית.",
     "d": "Sat, 04 Apr 2026 13:30:00 -0400",
     "v": 0,
     "l": [
