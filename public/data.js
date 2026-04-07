@@ -7515,7 +7515,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 304,
-    "t": "Zenken boosts a lean sales team with ChatGPT Enterprise\n\nBy rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates. AI-supported workflows are helping a lean team deliver more personalized, effective customer engagement.",
+    "t": "זנקן מחזקת את צוות המכירות הצנוע עם ChatGPT Enterprise\n\nזנקן הטילה ChatGPT Enterprise בכל הארגון והתוצאות דברו בעד עצמן - ביצועי מכירות עלו, זמן הכנה של הצעות קטן משמעותית, וגם שיעור ההצלחה של הצעות הגדל. בעזרת workflow-ים שמופעלים ב-AI, הצוות הקטן של החברה מצליח להעניק לכל לקוח חוויה מותאמת יותר ותוצאות עדיפות.",
     "d": "Tue, 13 Jan 2026 16:00:00 GMT",
     "v": 0,
     "l": [
@@ -7779,7 +7779,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 314,
-    "t": "Introducing ChatGPT Health\n\nChatGPT Health is a dedicated experience that securely connects your health data and apps, with privacy protections and a physician-informed design.",
+    "t": "ChatGPT Health - חוויה חדשה בריאות דיגיטלית\n\nOpenAI הישראלית בפתח: ChatGPT Health זה כלי חדש שמחבר בצורה מאובטחת את נתוני הבריאות שלכם ואפליקציות הבריאות, עם הגנות פרטיות חזקות וממשק שתוכנן בהשתתפות רופאים. זה בעצם GPT לעולם הרפואה - משהו שכבר שנים חיכינו לו כדי שלא נצטרך להעתיק ידנית נתונים בין אפליקציות שונות. מקור: OpenAI Blog",
     "d": "Wed, 07 Jan 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -7907,7 +7907,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 319,
-    "t": "Announcing OpenAI Grove Cohort 2\n\nApplications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.",
+    "t": "OpenAI מכריזה על תוכנית Grove Cohort 2\n\nOpenAI פותחת עכשיו הרשמה לתוכנית Grove 2 שלה - برنامج בן 5 שבועות למייסדים שרוצים להשיק סטארטאپ AI מאפס או כמעט מאפס. המשתתפים יקבלו 50K דולר ב-API credits, גישה מוקדמת לכלים החדשים של OpenAI וספaring ישיר מהחבורה בעצמם - זה יותר מעניין מאשר סתם קורס מקוון.",
     "d": "Fri, 02 Jan 2026 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -7956,7 +7956,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 321,
-    "t": "One in a million: celebrating the customers shaping AI’s future\n\nMore than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way work gets done with AI.",
+    "t": "אחד למיליון: חוגגים את הלקוחות שמעצבים את עתיד ה-AI\n\nOpenAI הגיעה לתחנת דרך משמעותית - למעל מיליון לקוחות ברחבי העולם משתמשים בפלטפורמה שלה כדי לחזק את הצוותים שלהם. החברה משדרת את הסיפורים של ענקים כמו PayPal, Virgin Atlantic ו-Canva, שכבר עשו מהפכה בדרך העבודה שלהם באמצעות AI ויוצרים תוצאות שלא היו אפשריות לפני כן.",
     "d": "Mon, 22 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -7982,7 +7982,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 322,
-    "t": "Continuously hardening ChatGPT Atlas against prompt injection\n\nOpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic.",
+    "t": "OpenAI מחזקת את ChatGPT Atlas נגד התקפות prompt injection\n\nOpenAI משקיעה בהגנה על ChatGPT Atlas בפני התקפות prompt injection תוך שימוש ב-red teaming אוטומטי המשולב עם reinforcement learning. המערכת החדשה פועלת בלולאה שמגלה באופן פרואקטיבי ניצולי אבטחה חדשים ותוקעת אותם מיד, מה שמשפר את ההגנות של ה-browser agent כשה-AI הופך יותר ויותר אוטונומי.",
     "d": "Mon, 22 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -8009,7 +8009,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 323,
-    "t": "Evaluating chain-of-thought monitorability\n\nOpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.",
+    "t": "הערכת ניטור שרשרת חשיבה (Chain-of-Thought)\n\nOpenAI הציגה framework חדש לניטור של תהליכי החשיבה הפנימיים של מודלי AI, כולל 13 הערכות שונות על 24 סביבות שונות. התוצאות מראות שניטור של החשיבה הפנימית של המודל הוא הרבה יותר יעיל מניטור של התוצאות בלבד - וזה נראה כמו הדרך הנכונה לשלוט ב-AI systems חזקים בעתיד.",
     "d": "Thu, 18 Dec 2025 12:00:00 GMT",
     "v": 0,
     "l": [
@@ -8027,8 +8027,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -8036,7 +8035,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 324,
-    "t": "AI literacy resources for teens and parents\n\nOpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vetted tips for responsible use, critical thinking, healthy boundaries, and supporting teens through emotional or sensitive topics.",
+    "t": "משאבי AI literacy לנוער והורים\n\nOpenAI שיחררה משאבים חדשים שמלמדים נוער והורים איך להשתמש ב-ChatGPT בצורה אחראית ובטוחה. המדריכים כוללים טיפים מומומחים על שימוש ערכי, חשיבה ביקורתית וקביעת גבולות בריאים - כי בסוף זה לא רק טכנולוגיה, זה גם איך אנחנו גדלים אתה.",
     "d": "Thu, 18 Dec 2025 11:00:00 GMT",
     "v": 0,
     "l": [
@@ -8062,7 +8061,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 325,
-    "t": "Updating our Model Spec with teen protections\n\nOpenAI is updating its Model Spec with new Under-18 Principles that define how ChatGPT should support teens with safe, age-appropriate guidance grounded in developmental science. The update strengthens guardrails, clarifies expected model behavior in higher-risk situations, and builds on our broader work to improve teen safety across ChatGPT.",
+    "t": "OpenAI משדרגת את ההנחיות שלה עם הגנות חדשות לנוער\n\nOpenAI הוסיפה עקרונות חדשים ספציפיים לצעירים עד גיל 18 למודל שלה, כדי להבטיח ש-ChatGPT יתן לנערים הנחיות בטוחות וגילאיות מתאימות על בסיס מדע התפתחותי. השדרוג מחזק את המחסומים על כל החולקות במערכת ומבהיר איך המודל צריך להתנהג במצבים סיכון גבוה, כחלק מהמאבק הרחב של החברה להשאיר את הנוער בטוח על הפלטפורמה.",
     "d": "Thu, 18 Dec 2025 11:00:00 GMT",
     "v": 0,
     "l": [
@@ -8088,7 +8087,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 326,
-    "t": "Deepening our collaboration with the U.S. Department of Energy\n\nOpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and helps establish a framework for applying AI to high-impact research across the DOE ecosystem.",
+    "t": "העמקת השיתוף פעולה שלנו עם משרד האנרגיה של ארה\"ב\n\nOpenAI חתמה עם משרד האנרגיה האמריקאי על הסכם תعاون שמטרתו להעמיק את השתיתוף ב-AI וComputing מתקדם לשם מחקר מדעי. ההסכם בנוי על עבודה קיימת עם המעבדות הלאומיות ויוצר מסגרת להחלת AI על מחקר בעל השפעה גבוהה בכל מערכת ה-DOE. זה עוד קדימה בדרך לשימוש מעשי של בינה מלאכותית בסוגיות ממשמעותיות וציבוריות.",
     "d": "Thu, 18 Dec 2025 11:00:00 GMT",
     "v": 0,
     "l": [
@@ -8114,7 +8113,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 327,
-    "t": "Introducing GPT-5.2-Codex\n\nGPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.",
+    "t": "הכירו את GPT-5.2-Codex\n\nOpenAI הציגה את GPT-5.2-Codex, מודל הקוד המתקדם ביותר שלה עד כה, שמסוגל לחשוב בטווח ארוך ולבצע טרנספורמציות קוד בקנה מידה ענק. המודל החדש גם משפר משמעותית את היכולות בתחום האבטחה הסייבר, מה שעלול להפוך למשחק אמיתי לדיוק ויעילות בפיתוח תוכנה. זה כבר נראה ככל שהתחרות בין AI לקוד פשוט מתגברת! | מקור: OpenAI Blog",
     "d": "Thu, 18 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -8132,8 +8131,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -8141,7 +8139,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 328,
-    "t": "Introducing GPT-5.2-Codex\n\nGPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.",
+    "t": "הצגת GPT-5.2-Codex של OpenAI\n\nOpenAI השקה את GPT-5.2-Codex, מודל הקוד המתקדם ביותר שלהם שמסוגל לתכנן פתרונות מורכבים לטווח ארוך ולבצע שינויים בקנה מידה ענק בקוד. המודל החדש גם משפר משמעותית את יכולות הסייבר-סיקיוריטי, מה שאומר שהוא יכול לזהות ולתקן חולשות בקוד בדרך הרבה יותר חכמה מהעבר.",
     "d": "Thu, 18 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -8159,8 +8157,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -8168,7 +8165,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 329,
-    "t": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
+    "t": "תוספת לכרטיס המערכת של GPT-5.2: GPT-5.2-Codex\n\nOpenAI פרסמה תוספת למסמך ההנדסי של GPT-5.2 החדש שלהם, ובה פרטים על גרסת Codex המיוחדת - מודל שמיוחד להנדסת תוכנה וקוד. זה בעצם מודל אקטואלי יותר עבור מתכנתים שרוצים להשתמש ב-AI לכתיבת קוד ודיבאגינג, עם יכולות משופרות בהשוואה לגרסה הקודמת. העדכון הזה מראה שאנחנו עוד יותר קרובים לעידן של AI מתמחה למשימות ספציפיות.",
     "d": "Thu, 18 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -8244,7 +8241,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 332,
-    "t": "Introducing OpenAI Academy for News Organizations\n\nOpenAI is launching the OpenAI Academy for News Organizations, a new learning hub built with the American Journalism Project and The Lenfest Institute to help newsrooms use AI effectively. The Academy offers training, practical use cases, and responsible-use guidance to support journalists, editors, and publishers as they adopt AI in their reporting and operations.",
+    "t": "OpenAI Academy for News Organizations - הקמת אקדמיה לארגונים עיתונאיים\n\nOpenAI החליטה להשיק את OpenAI Academy for News Organizations, פלטפורמה חדשה שתעזור לחדרי עיתונות בכל העולם להשתמש ב-AI בצורה חכמה ואחראית. האקדמיה תספק הדרכות מעשיות, דוגמאות שימוש בעולם האמת וכיוונון אתי, כל זה בשיתוף עם The American Journalism Project ו-The Lenfest Institute. עיתונאים ועורכים כעת יוכלו ללמוד איך AI יכול להאיץ את תהליך החקירה, העריכה ופרסום החדשות, מבלי לוותר על איכות וצדקה.",
     "d": "Wed, 17 Dec 2025 06:00:00 GMT",
     "v": 0,
     "l": [
@@ -8264,13 +8261,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 333,
-    "t": "The state of enterprise AI\n\nA data-driven look at enterprise AI adoption, showing how organizations move from experimentation to real productivity gains and new capabilities.",
+    "t": "מצב ה-AI בעסקים גדולים\n\nסקר מלא עם נתונים על איך חברות גדולות עוברות מניסויים ראשוניים לשימוש רציני ב-AI שמביא תוצאות ממשיות וגם יכולות חדשות. מה למדנו על המעבר של הארגונים מ'בואו נחזור' ל'זה באמת עובד לנו'. מקור: OpenAI Blog",
     "d": "Wed, 17 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -8283,9 +8280,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -8293,7 +8293,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 334,
-    "t": "Developers can now submit apps to ChatGPT\n\nDevelopers can now submit apps for review and publication in ChatGPT, with approved apps appearing in a new in-product directory for easy discovery. Updated tools, guidelines, and the Apps SDK help developers build powerful chat-native experiences that bring real-world actions into ChatGPT.",
+    "t": "מפתחים יכולים כעת להגיש אפליקציות ל-ChatGPT\n\nOpenAI פתחה את השערים: מפתחים כבר יכולים להגיש את האפליקציות שלהם לבדיקה ופרסום ב-ChatGPT, והאפליקציות המאושרות יופיעו בספרייה חדשה בתוך המוצר. עם כלים מעודכנים, guidelines חדשים ו-Apps SDK, המפתחים יכולים לבנות חוויות chat-native חזקות שמביאות פעולות בעולם הממשי ישירות לתוך ChatGPT. מקור: OpenAI Blog",
     "d": "Wed, 17 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -8319,7 +8319,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 335,
-    "t": "Evaluating AI’s ability to perform scientific research tasks\n\nOpenAI introduces FrontierScience, a benchmark testing AI reasoning in physics, chemistry, and biology to measure progress toward real scientific research.",
+    "t": "בדיקת יכולת AI לביצוע משימות מחקר מדעי\n\nOpenAI הכניסה לשחקן חדש בשם FrontierScience - benchmark שבודק את היכולת של מודלי AI להתמודד עם בעיות אמיתיות בפיזיקה, כימיה וביולוגיה. זה בעצם דרך למדוד עד כמה AI קרובה לנתיב שבו היא תוכל להחליף מדענים אמיתיים בעבודות מחקר כבדות. אם ה-benchmark הזה יגיד לנו משהו, אז רחוק עדיין דרכנו עד שיוצור מחקר מדעי יתוכנת כמו אדם עם תואר PhD.",
     "d": "Tue, 16 Dec 2025 09:00:00 GMT",
     "v": 0,
     "l": [
@@ -8345,7 +8345,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 336,
-    "t": "Measuring AI’s capability to accelerate biological research\n\nOpenAI introduces a real-world evaluation framework to measure how AI can accelerate biological research in the wet lab. Using GPT-5 to optimize a molecular cloning protocol, the work explores both the promise and risks of AI-assisted experimentation.",
+    "t": "מדידת יכולת ה-AI להאיץ מחקר ביולוגי\n\nOpenAI הציגה תשתית הערכה חדשה שמודדת כיצד AI יכול להאיץ מחקרים ביולוגיים במעבדה הרטובה. בעזרת GPT-5, החברה אופטימיזציה של פרוטוקול קלונינג מולקולרי וחקרה הן את ההבטחות והן את הסיכונים של ניסויים בעזרת AI. המחקר חושף איך טכנולוגיה יכולה לזרז תגליות ביולוגיות אמיתיות בעולם הממשי.",
     "d": "Tue, 16 Dec 2025 08:00:00 GMT",
     "v": 0,
     "l": [
@@ -8363,8 +8363,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -8372,7 +8371,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 337,
-    "t": "The new ChatGPT Images is here\n\nThe new ChatGPT Images is powered by our flagship image generation model, delivering more precise edits, consistent details, and image generation up to 4× faster. The upgraded model is rolling out to all ChatGPT users today and is also available in the API as GPT-Image-1.5.",
+    "t": "ChatGPT Images החדש כבר כאן\n\nOpenAI השיקה את גרסת ה-Images החדשה של ChatGPT, שמעדכנת את מודל ה-image generation הפופולרי עם שיפורים משמעותיים - עכשיו אתם תקבלו עריכות מדויקות יותר, פרטים עקביים וייצור תמונות שמהר פי 4 מהעבר. התכונה מתגללת לכל משתמשי ChatGPT היום וזמינה גם ב-API תחת השם GPT-Image-1.5.",
     "d": "Tue, 16 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -8423,7 +8422,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 339,
-    "t": "How We Used Codex to Ship Sora for Android in 28 Days\n\nOpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development.",
+    "t": "כך השתמשנו בקודקס כדי להשיק את Sora לאנדרואיד ב-28 ימים\n\nOpenAI הצליחה להשיק את Sora לאנדרואיד בשיא מהירות - רק 28 ימים! הסוד? שימוש חכם בCodex שאפשר תכנון ממוחשב, תרגום אוטומטי וקוד מקביל שהפכו את כל התהליך לברק. צוות קומפקטי אבל יעיל הוכיח שאי אפשר להם לעצור.",
     "d": "Fri, 12 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -8449,7 +8448,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 340,
-    "t": "BBVA and OpenAI collaborate to transform global banking\n\nBBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees. Together, the companies will develop AI solutions that enhance customer interactions, streamline operations, and help build an AI-native banking experience.",
+    "t": "BBVA ו-OpenAI משתפות פעולה לשינוי בנקאות גלובלית\n\nבנק BBVA הענק מביא את ChatGPT Enterprise לכל 120,000 העובדים שלה במסגרת תוכנית AI להשנים הקרובות. בשיתוף עם OpenAI, הבנק יפתח פתרונות AI שישפרו את ההתייחסות ללקוחות ויזרזו תהליכים פנימיים - וזה רק ההתחלה של המסע שלהם להפוך את הבנקאות לAI-native.",
     "d": "Fri, 12 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -8467,8 +8466,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -8476,7 +8474,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 341,
-    "t": "BNY builds “AI for everyone, everywhere” with OpenAI\n\nBNY uses OpenAI to expand AI adoption enterprise-wide through Eliza, where 20,000+ employees build AI agents that improve efficiency and client outcomes.",
+    "t": "בנק BNY בונה \"AI לכולם, בכל מקום\" עם OpenAI\n\nבנק BNY משתף פעולה עם OpenAI כדי להנגיש AI לכל הארגון דרך פלטפורמה שלהם בשם Eliza, שבה מעל 20,000 עובדים בונים AI agents שמשפרים יעילות ותוצאות עבור הלקוחות. זה לא סתם עוד פיילוט של AI - זה משימה ארגונית של ממש שמביאה בינה מלאכותית לידי ביצוע למסות העובדים.",
     "d": "Fri, 12 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -8529,7 +8527,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 343,
-    "t": "Advancing science and math with GPT-5.2\n\nGPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into real research progress, including solving an open theoretical problem and generating reliable mathematical proofs.",
+    "t": "GPT-5.2: קפיצת ענק במתמטיקה והנדסה\n\nOpenAI השיקה את GPT-5.2, המודל החזק ביותר שלה עד כה למתמטיקה ומדע, שכسה שיאים חדשים בבנצ'מרקים כמו GPQA Diamond ו-FrontierMath. המודל לא רק דירג טוב בתיאוריה - הוא כבר השתמש בפועל לפתרון בעיות תיאורטיות שעדיין היו פתוחות ויצר הוכחות מתמטיות אמינות. זה די משמעותי אם אתה מדבר על AI שבעצם עוזר לחוקרים להתקדם במקום רק לענות לשאלות.",
     "d": "Thu, 11 Dec 2025 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -8555,7 +8553,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 344,
-    "t": "Update to GPT-5 System Card: GPT-5.2\n\nGPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that described in the GPT-5 System Card and GPT-5.1 System Card. Like OpenAI’s other models, the GPT-5.2 models were trained on diverse datasets, including information that is publicly available on the internet, information that we partner with third parties to access, and information that our users or human trainers and researchers provide or generate.",
+    "t": "עדכון ל-System Card של GPT-5: GPT-5.2\n\nOpenAI הכריזה על GPT-5.2, הדור הזה של משפחת GPT-5, שמגיע עם אותה גישה בטיחותית חזקה שראינו בגרסאות הקודמות. המודל האחדש התאמן על ערימה ענקית של נתונים מכל הרחבי האינטרנט, בתוספת מידע שOpenAI שותפת עם חברות שלישיות וגם תוכן שמשתמשים ו-trainers אנושיים יצרו - בקיצור, זה הדור הבא שהולך להיות עוד יותר חכם ובטוח מקודמיו.",
     "d": "Thu, 11 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -8573,8 +8571,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -8582,7 +8579,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 345,
-    "t": "How Podium is arming 10,000+ SMBs with AI agents\n\nDiscover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.",
+    "t": "איך Podium מחמש יותר מ-10,000 עסקים קטנים עם AI agents\n\nPodium השתמשה ב-GPT-5 של OpenAI כדי לבנות את \"ג'רי\" - teammate AI שמגביר צמיחה ב-300% ומשנה לחלוטין איך עסקים קטנים משרתים את הלקוחות שלהם. מדובר בכלי שפשוט משנה את המשחק עבור עסקי Main Street שמחפשים לעצמן ידיים עוזרות חכמות.",
     "d": "Thu, 11 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -8609,7 +8606,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 346,
-    "t": "Ten years\n\nOpenAI reflects on ten years of progress, from early research breakthroughs to widely used AI systems that reshaped what’s possible. We share lessons from the past decade and why we remain optimistic about building AGI that benefits all of humanity.",
+    "t": "עשר שנים\n\nOpenAI חוזרת על עשר שנים של התפתחות מדהימה - מחקר מוקדם שהציץ לעתיד ועד למערכות AI שלא נראות פשוט שימושיות אלא בעצם שינו את כל המשחק. החברה שותפת איתנו בלקחים מהדקדה האחרונה ומסבירה למה היא עדיין מאמינה שנוכל לבנות AGI שיהיה טוב לכולנו.",
     "d": "Thu, 11 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -8629,13 +8626,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 347,
-    "t": "Introducing GPT-5.2\n\nGPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to power faster, more reliable agentic workflows.",
+    "t": "הצגת GPT-5.2\n\nOpenAI הכריזה על GPT-5.2, מודל ה-AI החזק ביותר שלה עד כה שמעוצב במיוחד לעבודה מקצועית יומיומית. המודל החדש מביא שיפור משמעותי ב-reasoning, הבנת טקסטים ארוכים, קוד וראייה ממוחשבת, והוא זמין כעת ב-ChatGPT וב-OpenAI API כדי להנעות workflows מהירים וחזקים של agents.",
     "d": "Thu, 11 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -8662,7 +8659,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 348,
-    "t": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora\n\nDisney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short videos. The agreement emphasizes responsible AI in entertainment and includes Disney’s company-wide use of ChatGPT Enterprise and the OpenAI API.",
+    "t": "דיסני ו-OpenAI חתמו על הסכם היסטורי - דמויות אייקוניות מגיעות ל-Sora\n\nדיסני ו-OpenAI פתחו פרק חדש בשיתוף פעולה: יותר מ-200 דמויות מדיסני, מארוול, פיקסאר וזguerre כוכבים יוכלו להופיע בסרטונים שנוצרו ב-Sora. בנוסף, דיסני תהפוך ל-'חברת OpenAI Enterprise ברחבי הארגון, מה שמעיד על אמון אמיתי ב-AI למטרות קריאיטיביות. ההסכם מדגיש שימוש אחראי בטכנולוגיה בתעשיית הבידור - תשובה ערוכה לדיון על השימוש ב-AI בקולנוע.",
     "d": "Thu, 11 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -8711,7 +8708,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 350,
-    "t": "Strengthening cyber resilience as AI capabilities advance\n\nOpenAI is investing in stronger safeguards and defensive capabilities as AI models become more powerful in cybersecurity. We explain how we assess risk, limit misuse, and work with the security community to strengthen cyber resilience.",
+    "t": "חיזוק הגנות סייבר כשיכולות ה-AI גדלות\n\nOpenAI משקיעה בהגנות חזקות יותר כדי להתמודד עם הסכנות הגדלות שמגיעות עם AI חזק יותר בתחום סייבר. החברה מסבירה איך היא מעריכה סיכונים, מונעת שימוש לרעה, ועובדת יחד עם הקהילייה של מומחי אבטחה כדי לחזק את ההגנות שלנו מפני התקפות.",
     "d": "Wed, 10 Dec 2025 12:00:00 GMT",
     "v": 0,
     "l": [
@@ -8729,8 +8726,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -8738,7 +8734,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 351,
-    "t": "How Scout24 is building the next generation of real-estate search with AI\n\nScout24 has created a GPT-5 powered conversational assistant that reimagines real-estate search, guiding users with clarifying questions, summaries, and tailored listing recommendations.",
+    "t": "איך Scout24 בונה את דור הבא של חיפוש נדלן עם AI\n\nScout24 השיקה עוזר שיחה מופעל ב-GPT-5 שמחזיר לעצם את חיפוש הדירות והבתים - במקום להקליד שאילתות משעממות, המערכת שואלת שאלות חכמות, מסכמת תוצאות וממליצה על נכסים שהם בדיוק מה שחיפשתם. זה כמו שיש לכם סוכן נדלן חזק במקום אנוש שמבין בדיוק מה אתם רוצים.",
     "d": "Tue, 09 Dec 2025 16:00:00 GMT",
     "v": 0,
     "l": [
@@ -8764,7 +8760,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 352,
-    "t": "OpenAI co-founds Agentic AI Foundation, donates AGENTS.md\n\nOpenAI co-founds the Agentic AI Foundation under the Linux Foundation and donates AGENTS.md to support open, interoperable standards for safe agentic AI.",
+    "t": "OpenAI מייסדת את קרן ה-Agentic AI ותורמת את AGENTS.md\n\nOpenAI הכריזה על הקמת קרן חדשה לאי-בטוח AI agents תחת ה-Linux Foundation, וברחמנות תורמת את תיעוד AGENTS.md כדי להבטיח שכל החברות יוכלו לבנות agents בטוחים ותואמים זה לזה. זה בעצם הצעד הראשון בכיוון של סטנדרטים פתוחים בתחום ה-AI agents, שמעין מחלקה חדשה של AI שעובדת באופן עצמאי בלי צורך בכל צליקה.",
     "d": "Tue, 09 Dec 2025 09:00:00 GMT",
     "v": 0,
     "l": [
