@@ -8,10 +8,10 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
 const DB_PATH = join(ROOT, 'data', 'articles.json');
 
-// Fail fast if no API key
+// Skip gracefully if no API key (lets downstream workflow steps still run)
 if (!process.env.ANTHROPIC_API_KEY) {
-  console.error('ERROR: ANTHROPIC_API_KEY environment variable is not set.');
-  process.exit(1);
+  console.warn('WARNING: ANTHROPIC_API_KEY is not set — skipping translation.');
+  process.exit(0);
 }
 
 const mode = process.argv.includes('--mode=batch') ? 'batch' : 'realtime';

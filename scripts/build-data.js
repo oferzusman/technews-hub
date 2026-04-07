@@ -125,6 +125,35 @@ async function main() {
   console.log(`Written ${combined.length} entries to public/data.js`);
   console.log(`  RSS articles: ${rssEntries.length}`);
   console.log(`  Telegram entries: ${telegramEntries.length}`);
+
+  // Write admin-data.json for the admin dashboard
+  const now = Date.now();
+  const todayStart = new Date(new Date().toDateString()).getTime();
+  const weekStart = todayStart - 6 * 24 * 60 * 60 * 1000;
+  const allArticles = db.articles;
+
+  const sourceMap = {};
+  for (const a of allArticles) {
+    const s = a.source || 'Unknown';
+    if (!sourceMap[s]) sourceMap[s] = { name: s, total: 0, translated: 0, lastDate: null };
+    sourceMap[s].total++;
+    if (a.translated) sourceMap[s].translated++;
+    const d = a.pub_date || a.fetchedAt;
+    if (d && (!sourceMap[s].lastDate || d > sourceMap[s].lastDate)) sourceMap[s].lastDate = d;
+  }
+
+  const adminData = {
+    total: allArticles.length,
+    translated: allArticles.filter((a) => a.translated).length,
+    untranslated: allArticles.filter((a) => !a.translated).length,
+    today: allArticles.filter((a) => new Date(a.fetchedAt || a.pub_date).getTime() >= todayStart).length,
+    week: allArticles.filter((a) => new Date(a.fetchedAt || a.pub_date).getTime() >= weekStart).length,
+    sources: Object.values(sourceMap).sort((a, b) => b.total - a.total),
+    generatedAt: new Date().toISOString(),
+  };
+
+  writeFileSync(join(ROOT, 'public', 'admin-data.json'), JSON.stringify(adminData, null, 2), 'utf8');
+  console.log(`Written admin-data.json (${adminData.total} articles, ${adminData.translated} translated)`);
 }
 
 main().catch((err) => {
