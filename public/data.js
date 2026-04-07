@@ -9041,7 +9041,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 363,
-    "t": "We Got Claude to Fine-Tune an Open Source LLM",
+    "t": "הצלחנו לגרום ל-Claude ללמד בעדינות מודל LLM בקוד פתוח\n\nחוקרים מהקהילה הצליחו להשתמש ב-Claude כדי לבצע fine-tuning על מודל שפה פתוח, דבר שפותח אפשרויות חדשות ומעניינות לשיפור מודלים קיימים. התגלית הזו מראה שאפשר לנצל את היכולות של Claude לטובת הקהילה ולא רק לשימוש ממוסד, ויכולה לחסוך עלויות ו-GPU בעת אימון מודלים חדשים. זה עוד דוגמה לאיך שהשיתוף בקוד פתוח תורם לקידום ה-AI בצורה יותר נגישה. | מקור: Hugging Face Blog",
     "d": "Thu, 04 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -9055,11 +9055,13 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Anthropic"
+      "Anthropic",
+      "Nvidia"
     ],
     "tags": [
       "news",
-      "model"
+      "model",
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://huggingface.co/blog/assets/hf-skills-training/thumbnail.png",
@@ -9277,7 +9279,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 372,
-    "t": "Transformers v5: Simple model definitions powering the AI ecosystem",
+    "t": "Transformers v5: הגדרות מודל פשוטות שמניעות את אקוסיסטם ה-AI\n\nHugging Face הוציאה את גרסה 5 של ספריית Transformers, שעדכנה את האפליקציות ויוצרת מודלים בדרך הרבה יותר קלה וישירה. הגרסה החדשה מפשטת את ההגדרות של מודלים ומאפשרת למפתחים להתחיל בעבודה עם AI עם פחות קוד תלושים. זה כמו שHugging Face אמרה: 'בואו נעשה את זה סופר קל' - ועכשיו הקהילייה של בנייי מודלים יכולה לעבוד יותר בחכמה, פחות קשה.",
     "d": "Mon, 01 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -9404,7 +9406,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 377,
-    "t": "Diffusers welcomes FLUX-2",
+    "t": "Diffusers מקבלת את FLUX-2\n\nהספרייה הפופולרית Diffusers של Hugging Face תומכת כעת ב-FLUX-2, דגם היצירה החדש והחזק של Black Forest Labs. זה אומר שמפתחים יוכלו לייצר תמונות באיכות גבוהה וללא חסימות (עד כמה שזה חוקי) בצורה הרבה יותר קלה וישירה. בעיצומו של תחרות בתחום AI generative, זה עוד צעד משמעותי כדי להנגיש טכנולוגיית text-to-image מובילה לקהילת המפתחים.",
     "d": "Tue, 25 Nov 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -9427,7 +9429,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 378,
-    "t": "Continuous batching from first principles",
+    "t": "Continuous Batching מהיסודות: איך בעצם זה עובד?\n\nHugging Face יושבת ומסבירה לנו את הנושא של Continuous Batching - הטכניקה שעוזרת ל-models גדולים להיות יותר מהירים וחכמים בעיבוד בקשות מרובות בו-זמנית. זה בעצם המהנדסות שמאחורי זה שמאפשרת למשימות AI כמו chatbots וגנרטורים טקסט לעבוד ברמת throughput גבוהה בלי שיהיה עיכוב קטלני. כל מי שמעוניין להבין איך בעצם אפליקציות AI מתגברות על עומסי עבודה כבדים - הנה תמצית טובה לקרוא.",
     "d": "Tue, 25 Nov 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -9450,7 +9452,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 379,
-    "t": "Building Deep Research: How we Achieved State of the Art",
+    "t": "בניית Deep Research: איך הגענו לתוצאות מובילות בעולם\n\nHugging Face שיתפה את הסוד איך הם בנו מערכת Deep Research שמחזיקה שיא בתחום שלה. התוצאות של המערכת החדשה הן בדיוק מה שהשוק ממתין - דיוק גבוה, ביצועים משופרים וטכנולוגיה שניתן להשתמש בה בפרקטיקה. זה עוד הוכחה שהחברה מובילה בתחום AI וממשיכה להדחוף את הגבולות של מה שאפשר לעשות.",
     "d": "Mon, 24 Nov 2025 17:40:14 GMT",
     "v": 0,
     "l": [
@@ -9473,7 +9475,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 380,
-    "t": "OVHcloud on Hugging Face Inference Providers 🔥",
+    "t": "OVHcloud הצטרפה לספקי Inference של Hugging Face 🔥\n\nOVHcloud הוסיפה את שירותיה לפלטפורמת Inference של Hugging Face, מה שמאפשר למפתחים בישראל וברחבי העולם להריץ מודלי AI בקלות ובדיוק דרך ספק הענן האירופאי המוביל. זה בעצם עוד אופציה מרעננת למי שרוצה להימנע מתלות בצד אחד של גוגל או אמזון, כשעדיין מקבלים את האמינות והביצועים הדרושים.",
     "d": "Mon, 24 Nov 2025 16:08:47 GMT",
     "v": 0,
     "l": [
@@ -9548,7 +9550,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 383,
-    "t": "20x Faster TRL Fine-tuning with RapidFire AI",
+    "t": "RapidFire AI: כיוונון TRL מהיר 20 פעמים יותר\n\nחברת Hugging Face הציגה את RapidFire AI, כלי חדש שמאפשר להאיץ באופן דרמטי את תהליך כיוונון מודלי שפה עם TRL (Transformer Reinforcement Learning). זו חדשות גדולה למי שעובד עם LLMs ורוצה להחסוך זמן עיבוד משמעותי בעתיד הקרוב. המהירות של 20 פעמים יכולה לשנות את המשחק עבור חוקרים ומפתחים שנאלצים לחכות שעות על הדרנים שלהם.",
     "d": "Fri, 21 Nov 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -9571,7 +9573,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 384,
-    "t": "Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks",
+    "t": "לוח דירוג ASR פתוח: טרנדים תובנות עם רכיבים חדשים בעברית ובשפות ארוכות\n\nHugging Face הוסיפה מסלולים חדשים ללוח הדירוג שלה ל-ASR (זיהוי דיבור אוטומטי), כולל תמיכה בעברית וטקסטים ארוכים יותר. התפתחויות האחרונות בתחום מראות את החיזוק של מודלים מולטילינגואליים ויכולתם להתמודד עם קנטים שונים וקטעי אודיו מורכבים יותר. זה משמעותי למפתחים בישראל שמעוניינים לשפר יישומי זיהוי דיבור בעברית ותעשיות כמו הנדסה סמנטית והטלטול.",
     "d": "Fri, 21 Nov 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -9672,7 +9674,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 388,
-    "t": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
+    "t": "AnyLanguageModel: API אחד לכל מודלי ה-LLM מקומיים ומרוחקים בפלטפורמות Apple\n\nApple משתפת בפי Hugging Face על כלי חדש שמאפשר למפתחים להריץ מודלי שפה גדולים (LLM) בשתי דרכים - ישירות על ההתקן שלהם או דרך שרת מרוחק - וכל זה דרך API אחד מאוחד. זה אומר שמפתחים יוכלו לעבוד עם מודלים שונים על iOS, macOS ועוד, בלי צורך לשנות את הקוד שלהם בכל פעם שהם משנים את המודל או את המיקום שבו הוא רץ. פשוט, מהמם ומוצדק - במיוחד לאלו שרוצים גמישות בסביבה Apple.",
     "d": "Thu, 20 Nov 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -9776,7 +9778,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 392,
-    "t": "Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models",
+    "t": "Apriel-H1: המפתח המפתיע להקטנת מודלי חשיבה יעילים\n\nחוקרים גילו שניתן להקטין מודלי AI שמתמחים בחשיבה לוגית באמצעות טכניקת distillation חדשה הנקראת Apriel-H1, וזה משנה את המשחק בעולם של מודלים קומפקטיים. במקום להגיד שמודל קטן לא יוכל לחשוב כמו גדול, הטכניקה הזאת מוכיחה שאם אתה יודע איך לעשות את זה נכון, אתה יכול להעביר את היכולות הקריטיות לגרסה קטנה בהרבה. זה פתח דלת רחבה לפיתוח מודלים יעילים שיכולים לרוץ ישירות על ציוד חלש יותר, בלי שתצטרך GPU כבד.",
     "d": "Wed, 19 Nov 2025 05:19:07 GMT",
     "v": 0,
     "l": [
@@ -9789,9 +9791,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Nvidia"
+    ],
     "tags": [
-      "news"
+      "news",
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://cdn-uploads.huggingface.co/production/uploads/60ecaa5efee13fee7ada7af4/Obh4Rd21TZiYsiwqd6gjJ.png",
@@ -9955,7 +9960,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 399,
-    "t": "Easily Build and Share ROCm Kernels with Hugging Face",
+    "t": "בנו וחלקו ROCm Kernels בקלות דרך Hugging Face\n\nHugging Face השיקה כלי חדש שמאפשר למפתחים לבנות ולשתף ROCm kernels בקלות, ללא צורך בידע עמוק בהגדרות GPU של AMD. הפיצ'ר החדש הזה מפשט משמעותית את תהליך העבודה עם AI models על חומרה של AMD, ומפתח אותו לקהילה הרחבה של מודלים וקודים שתוכלו לשתף. זה עוד צעד במגמה של Hugging Face להנגיש את עולם ה-AI וה-ML לכולם. מקור: Hugging Face Blog",
     "d": "Mon, 17 Nov 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -9968,9 +9973,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Nvidia"
+    ],
     "tags": [
-      "news"
+      "news",
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://huggingface.co/blog/assets/build-rocm-kernels/thumbnail.png",
@@ -10004,7 +10012,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 401,
-    "t": "Join the AMD Open Robotics Hackathon",
+    "t": "הצטרפו להאקתון הרובוטיקה הפתוח של AMD\n\nAMD מארגנת האקתון גלובלי לפיתוח פתרונות רובוטיקה חדשניים, וזו הזדמנות מדהימה לכל מי שרוצה לשחק עם טכנולוגיות חדשות ו-AI בתחום הרובוטיקה. אם אתה מפתח שאוהב אתגרים ורוצה להראות מה אתה יכול לעשות עם GPU ומחשוב קצה, זה בדיוק בשבילך.",
     "d": "Thu, 13 Nov 2025 21:37:26 GMT",
     "v": 0,
     "l": [
@@ -10017,11 +10025,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Nvidia"
+    ],
     "tags": [
       "news",
-      "robotics",
-      "security"
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://cdn-uploads.huggingface.co/production/uploads/691298370610df3fe9c26e5c/Bw-1bu1_WKE4yKecNn3Ru.jpeg",
@@ -10133,7 +10142,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 406,
-    "t": "Building for an Open Future - our new partnership with Google Cloud",
+    "t": "בנייה לעתיד פתוח - השותפות החדשה שלנו עם Google Cloud\n\nHugging Face התחזקה בשותפות עם Google Cloud, במהלך שנראה כחלק מהמטרה לשמור על עולם AI פתוח ואקססיבל לכולם. השיתוף הזה מאפשר למפתחים להשתמש בכלים וברכיבים חדשים שיעזרו להם לבנות מודלים ויישומי AI בצורה יותר קלה וזולה.",
     "d": "Thu, 13 Nov 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -10153,7 +10162,7 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://huggingface.co/blog/assets/google-cloud/google-cloud-thumbnail.png",
     "source": "Hugging Face Blog"
   },
@@ -10629,7 +10638,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 425,
-    "t": "Aligning to What? Rethinking Agent Generalization in MiniMax M2",
+    "t": "בעצם מה אנחנו מיישרים? חזרה לדיון על הכללה של סוכנים ב-MiniMax M2\n\nHugging Face חוקרת את השאלה הבסיסית שמאחורי ה-alignment של מודלי AI - למה בדיוק אנחנו מנסים להתאים את התנהגות של סוכנים בינה מלאכותית, וכמה בעצם זה משפיע על היכולת שלהם להכליל. במחקר על MiniMax M2, מתברר שאולי המטרות שלנו בה-alignment לא תמיד מתיישרות עם מה שבעצם משפר את ביצועי המודל בעולם האמיתי.",
     "d": "Thu, 30 Oct 2025 10:03:45 GMT",
     "v": 0,
     "l": [
@@ -10644,8 +10653,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/MiniMax-AI/aligning-to-what.png",
@@ -10679,7 +10687,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 427,
-    "t": "On the Shifting Global Compute Landscape",
+    "t": "על נוף ה-Compute הגלובלי המשתנה\n\nHugging Face מנתחת איך המפת חלוקת משאבי ה-compute בעולם משתנה בדרמטיות, וזה משפיע על כולנו שמפתחים וקטנים שרוצים להשתמש בכוח של AI. המעבר מ-giants כמו אפל וגוגל לכיוונים חדשים עשוי לפתוח הזדמנויות טריות עבור סטארטאפים וחברות smaller בקנה מידה ישראלי. בקיצור - המשחק של מי יש הכי הרבה GPUs משתנה לחלוטין, וזה עדיין unclear למי זה טוב או רע.",
     "d": "Wed, 29 Oct 2025 13:56:45 GMT",
     "v": 0,
     "l": [
@@ -10692,9 +10700,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Nvidia"
+    ],
     "tags": [
-      "news"
+      "news",
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/huggingface/shifting-compute-landscape.png",
@@ -10754,7 +10765,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 430,
-    "t": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
+    "t": "בניית רובוט בתחום הבריאות: מסימולציה להטמעה בעזרת NVIDIA Isaac\n\nNVIDIA Isaac משפרת את תהליך פיתוח הרובוטים הרפואיים על ידי אפשור למהנדסים לתרגל ולבדוק את הרובוטים בסביבה וירטואלית לפני שהם מחוברים לחולים אמיתיים. טכנולוגיה זו מקצרת משמעותית את הזמן והעלויות של כניסה לשוק, כי אתה יכול לעשות כל הטעויות בעולם הדיגיטלי. בפוסט זה מסבירים איך הטכנולוגיה הזו משנה את חוקי המשחק בתעשיית הבריאות הדיגיטלית.\n\nמקור: Hugging Face Blog",
     "d": "Wed, 29 Oct 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -10772,8 +10783,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "hardware",
-      "robotics"
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://huggingface.co/blog/assets/lerobotxnvidia-healthcare/thumbnail.png",
@@ -10781,7 +10791,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 431,
-    "t": "How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare",
+    "t": "איך בונים רובוט בריאות מהסימולציה להשקה עם NVIDIA Isaac for Healthcare\n\nNVIDIA Isaac for Healthcare מאפשרת לחברות טכנולוגיה ותעשייה רפואית לפתח ולהשיק רובוטים בעלי יכולות טיפול רפואי ללא צורך בחזרות בפיתוח יקרות. הפלטפורמה מתחילה בסימולציה מדויקת שמחסכת זמן וכסף, ואז עוברת בצורה חלקה להשקה בעולם האמיתי - כל זה כדי למנוע טעויות יקרות ולהאיץ את הזמן לשוק. זה בעצם המנוף שמחפשים סטארטאפים ותאגידים גדולים כדי להביא חדשנות רפואית לקליניקות בישראל ובעולם. מקור: Hugging Face Blog",
     "d": "Tue, 28 Oct 2025 20:42:35 GMT",
     "v": 0,
     "l": [
@@ -10799,8 +10809,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "hardware",
-      "robotics"
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nvidia-isaac-for-healthcare.png",
@@ -10834,7 +10843,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 433,
-    "t": "Granite 4.0 Nano: Just how small can you go?",
+    "t": "Granite 4.0 Nano: עד כמה קטן אפשר להיות?\n\nIBM הוציאה את Granite 4.0 Nano, מודל AI חדש שמגיע בגודל זעיר אבל עם יכולות משמעותיות. המודל הזה מיועד לעבודות על edge devices וסביבות עם משאבים מוגבלים, מה שאומר שאפילו הטלפונים וההתקנים הקטנים יוכלו להשתמש בכוח של AI בלי להסתמך על cloud. זה חלק מההתחרות של הענף להביא AI למקומות שעד עכשיו לא היה זה אפשרי. מקור: Hugging Face Blog",
     "d": "Tue, 28 Oct 2025 14:59:38 GMT",
     "v": 0,
     "l": [
@@ -10936,7 +10945,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 437,
-    "t": "Voice Cloning with Consent",
+    "t": "שיבוט קול עם הסכמה\n\nHugging Face מציגה פתרון חדש לשיבוט קול שמכבד את הפרטיות ודורש אישור מפורש. הפלטפורמה מאפשרת ליצור קולות מדוייקים תוך הבטחה שרק משתמשים שנתנו אישור יוכלו להשתמש בטכנולוגיה הזו. זו צעד חשוב בעולם ה-AI שכן היא מאזנת בין יכולות טכנולוגיות לאתיקה ולשמירה על זכויות של אנשים.",
     "d": "Tue, 28 Oct 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -11064,7 +11073,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 442,
-    "t": "Streaming datasets: 100x More Efficient",
+    "t": "Streaming Datasets: יעילות גבוהה פי 100\n\nHugging Face חשפה שיטה חדשה לטעינת datasets שמצליחה להפחית את זמן העיבוד פי 100 בהשוואה לשיטות קלאסיות. השיטה הזו מאפשרת למודלים ל-train בהרבה יותר יעילות על ידי streaming של הנתונים במקום לטעון את כל ה-dataset לזיכרון. זה משנה המשחק בעוד שהטרנד עולה של עבודה עם מאדים ענקיים של דטה בעולם ה-AI.",
     "d": "Mon, 27 Oct 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -11087,7 +11096,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 443,
-    "t": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
+    "t": "huggingface_hub v1.0: חמש שנות בנייה של היסוד של Machine Learning פתוח\n\nHugging Face הגיעה לעד שלב חשוב עם גרסה 1.0 של huggingface_hub - הספרייה שהפכה למחוז התושב של המודלים והדטאסטים של ה-AI הפתוח בעולם. במשך חמש שנים, הם בנו את הכלים שמאפשרים למיליונים מפתחים להשתמש בקוד פתוח ולשתף מודלים בקלות, וכרגע גרסה 1.0 מסמנת שהפרויקט הזה בשלות ויציב לשימוש בפרודקשן. החברה הזו כבר הוכיחה שהיא משנה את הדרך שבה האנשים עובדים עם AI, ועכשיו הם מרמזים שעוד הרבה יותר בא.",
     "d": "Mon, 27 Oct 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -11110,7 +11119,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 444,
-    "t": "LeRobot v0.4.0: Supercharging OSS Robot Learning",
+    "t": "LeRobot גרסה 0.4.0: טעינת סופר למידת רובוטיקה קוד פתוח\n\nHugging Face הביעו את גרסה החדשה של LeRobot שמגיעה עם שיפורים משמעותיים בטכנולוגיית למידת הרובוטים. השדרוג החדש מביא עם עצמו כלים חזקים יותר לאימון ופיתוח של רובוטים באמצעות קוד פתוח, מה שאמור להקל על חוקרים ומפתחים ליצור רובוטים חכמים יותר ויעילים יותר.",
     "d": "Fri, 24 Oct 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -11238,7 +11247,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 449,
-    "t": "Building the Open Agent Ecosystem Together: Introducing OpenEnv",
+    "t": "בניית אקוסיסטם של Agents פתוח: הכירו את OpenEnv\n\nHugging Face חושפת את OpenEnv, פלטפורמה חדשה שמטרתה להאיץ את פיתוח ה-AI agents בקוד פתוח. הפרויקט מאפשר למפתחים בעולם כולו להשתתף בבנייה של סביבה משותפת לאימון ובדיקה של agents, דבר שיכול לפתוח דלתות לשיתופיות חדשה בתחום ה-AI. זה בדיוק מה שצריך בשביל שאנחנו לא נשמרים בידי כמה חברות גדולות בלבד.",
     "d": "Thu, 23 Oct 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -11314,7 +11323,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 452,
-    "t": "Hugging Face and VirusTotal collaborate to strengthen AI security",
+    "t": "Hugging Face ו-VirusTotal משתפות פעולה לחיזוק אבטחת AI\n\nHugging Face, הפלטפורמה המובילה לשיתוף מודלים של AI, התחברה ל-VirusTotal כדי לוודא שמודלים מזיקים לא יתפשטו בקהילה. השיתוף הזה יספק סריקה אוטומטית של הקבצים המועלים ויעזור למפתחים להימנע מסכנות אבטחה שלא כללו. זה צעד חשוב להפוך את עולם ה-AI לבטוח יותר לכולנו. מקור: Hugging Face Blog",
     "d": "Wed, 22 Oct 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -11329,8 +11338,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://huggingface.co/blog/assets/virustotal/thumbnail.png",
@@ -11338,7 +11346,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 453,
-    "t": "Sentence Transformers is joining Hugging Face!",
+    "t": "Sentence Transformers מצטרפת להאגינג פייס!\n\nבחדשות גדולות לקהילת ה-AI בישראל ובעולם - הפרויקט הפופולרי Sentence Transformers, שמשמש מיליונים של דברים להבנת טקסט ודמיון משפטים, עוד רשמי מצטרף למשפחת Hugging Face. זה אומר שהכלי המדהים הזה לעיבוד שפה טבעית יהפוך לעוד יותר נגיש ולחוזק בתמיכה מהפלטפורמה שכבר מהווה את אחד המרכזים החשובים ביותר לדברים של NLP.",
     "d": "Wed, 22 Oct 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -11413,7 +11421,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 456,
-    "t": "Supercharge your OCR Pipelines with Open Models",
+    "t": "תנו דלק למערכות OCR שלכם עם מודלים פתוחים\n\nHugging Face מציגה איך אתם יכולים להאיץ משמעותית את תהליכי זיהוי הטקסט (OCR) באמצעות מודלים open-source, בלי לתלות ברכיבי בעלות קניין או API כשלחם הלחם. המשחק השתנה - עכשיו כל מי שרוצה לבנות מערכת OCR חזקה יכול לעשות את זה ברמת קוד פתוח תוך שעות, לא חודשים של development.",
     "d": "Tue, 21 Oct 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -11436,7 +11444,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 457,
-    "t": "Unlock the power of images with AI Sheets",
+    "t": "פתחו את הכוח של תמונות עם AI Sheets\n\nגוגל הציגה כלי חדש שמאפשר לכם לעבוד עם תמונות ישירות בתוך גיליונות אלקטרוניים בעזרת AI. עכשיו אפשר להעלות תמונות, לעשות בהן כל מני דברים ממוצעות וקטגוריזציה ועד חילוץ מידע ממשוה באמצעות machine learning. זה משהו שיחסוך למון זמן לכל מי שעובד עם נתונים ותמונות בעבודה.\n\nמקור: Hugging Face Blog",
     "d": "Tue, 21 Oct 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -11459,7 +11467,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 458,
-    "t": "AI for Food Allergies",
+    "t": "AI לאבחון ודיווח על אלרגיות מזון\n\nהוקי, זה כבר לא רק דברי קסם - AI מתחיל להעזור בזיהוי וטיפול באלרגיות מזון בצורה חכמה ומדויקת. התחום של מכונות learning משתפר כל הזמן ויכול לעזור לאנשים שמתקשים עם רגישויות מזון לתפקד טוב יותר בחיי היומיום שלהם. זה עוד הוכחה שה-AI לא רק בשביל תמונות וצ'טים - יש לזה יישומים רפואיים אמיתיים שעוזרים לאנשים.",
     "d": "Thu, 16 Oct 2025 22:38:11 GMT",
     "v": 0,
     "l": [
@@ -11482,7 +11490,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 459,
-    "t": "Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face",
+    "t": "Google Cloud C4 מביא 70% שיפור ב-TCO עבור GPT OSS עם Intel ו-Hugging Face\n\nגוגל קלאוד השיקה את C4 שמבטיחה לחסוך עד 70% בעלויות ההפעלה הכוללות של מודלים פתוחים של GPT, בשיתוף פעולה עם Intel ו-Hugging Face. הפתרון מנצל instances חדשות שמתאימות במיוחד לסיודות של מודלים גדולים, ומאפשר לחברות לרוץ AI מודלים בעלות הרבה יותר זולה מעד כעת. זו בשורה טובה במיוחד לסטארטאפים וחברות שמחפשות להטמיע LLM בלי להשקיע בתשתיות יקרות.",
     "d": "Thu, 16 Oct 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -11534,7 +11542,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 461,
-    "t": "Get your VLM running in 3 simple steps on Intel CPUs",
+    "t": "הריצו את ה-VLM שלכם בשלוש שלבים פשוטים על מעבדי Intel\n\nחדשות טובות למפתחים: Hugging Face הראתה דרך סופר פשוטה להרצת Vision Language Models ישירות על מעבדי Intel, בלי צורך בהמשך מסובך. במשלוש שלבים בסיסיים אתם יכולים כבר להתחיל לעבוד עם מודלי vision ולשפה על החומרה שכבר יש לכם. זה משהו שחוסך הרבה זמן וכאב ראש לכל מי שרוצה להריץ AI locally ולא ב-cloud.",
     "d": "Wed, 15 Oct 2025 00:00:00 GMT",
     "v": 0,
     "l": [
