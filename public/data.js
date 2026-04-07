@@ -8787,7 +8787,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 353,
-    "t": "Launching our first OpenAI Certifications courses\n\nLearn how OpenAI’s new certifications and AI Foundations courses help people build real-world AI skills, boost career opportunities, and prepare for the future of work.",
+    "t": "הוק את הקורסים הראשונים שלנו עם סמכויות OpenAI\n\nOpenAI השיקה קורסי הסמכה חדשים בתחום AI שנועדו לתת לכם את הכלים האמיתיים לעבודה בעולם ה-AI. זה לא רק קורס עוד אחד - הם בנויים בשביל להעלות לכם את הסיכוי בשוק העבודה ולהכין אתכם לעתיד שבו AI יהיה כל כך נורמלי שלא תוכלו בלעדיו. אם אתם מחפשים להרחיב את הכישורים שלכם בעולם ה-AI, זה הזמן.",
     "d": "Tue, 09 Dec 2025 06:00:00 GMT",
     "v": 0,
     "l": [
@@ -8813,7 +8813,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 354,
-    "t": "Bringing powerful AI to millions across Europe with Deutsche Telekom\n\nOpenAI is collaborating with Deutsche Telekom to bring advanced, multilingual AI experiences to millions of people across Europe. ChatGPT Enterprise will also be deployed to help employees at Deutsche Telekom improve workflows and accelerate innovation.",
+    "t": "OpenAI ודויטשה טלקום מביאים AI חזק למיליונים ברחבי אירופה\n\nOpenAI משתפת פעולה עם ענקית התקשורת הגרמנית דויטשה טלקום כדי להנגיש חוויות AI מתקדמות ורב-לשוניות למיליונים של משתמשים באירופה. בנוסף, ChatGPT Enterprise תופרס בתוך הארגון כדי לעזור לעובדי דויטשה טלקום לשפר תהליכים ולהאיץ חדשנות. זוהי צעד משמעותי בשביל להביא AI מקצועי למסות בעלות השפעה בלתי מדומה על תעשיית התקשורת באירופה.",
     "d": "Tue, 09 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -8839,7 +8839,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 355,
-    "t": "Commonwealth Bank of Australia builds AI fluency at scale\n\nCommonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000 employees, building AI fluency at scale to improve customer service and fraud response.",
+    "t": "בנק קומונוולת אוסטרליה בונה שליחות AI בקנה מידה גדול\n\nהבנק הגדול באוסטרליה התחברק עם OpenAI והוא משגר את ChatGPT Enterprise ל-50,000 עובדים שלו. המטרה? להנחיל AI fluency בארגון כדי להשתיין את שירות הלקוחות ולזרז את תגובות לזיהוי הונאות. זה כבר לא רק על שימוש בצ'אטבוט - זה על כל הארגון שהופך לחכם ב-AI.",
     "d": "Tue, 09 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -8857,16 +8857,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation"
+      "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 356,
-    "t": "OpenAI appoints Denise Dresser as Chief Revenue Officer\n\nDenise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success. She will help more businesses put AI to work in their day-to-day operations as OpenAI continues to scale.",
+    "t": "OpenAI מינתה את דניס דרסר לתפקיד מנכ\"לית הכנסות\n\nדניס דרסר מצטרפת ל-OpenAI כChief Revenue Officer וגם תנהל את האסטרטגיית ההכנסות הגלובלית של החברה. במטבח שלה תהיה האחריות להוביל את הגדילה של OpenAI בין חברות, ולהביא את ה-AI לסדר היום של עסקים בכל העולם, מהאנטרפרייז ועד ללקוחות קטנים יותר.",
     "d": "Tue, 09 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -8892,7 +8891,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 357,
-    "t": "Instacart and OpenAI partner on AI shopping experiences\n\nOpenAI and Instacart are deepening their longstanding partnership by bringing the first fully integrated grocery shopping and Instant Checkout payment app to ChatGPT.",
+    "t": "אינסטקארט ו-OpenAI משתפות פעולה על חוויות קניות בהנעת AI\n\nOpenAI ואינסטקארט מעמיקות את השיתוף הפעולה שלהן עם השקת אפליקציית קניות מכולת מתוחכמת שמשולבת במלואה ב-ChatGPT, כולל אפשרות תשלום מיידית. זה אומר שעכשיו אתה יכול פשוט לדבר עם ChatGPT ולהזמין את מה שאתה צריך מהמכולת בלי להיכנס לאפליקציה נפרדת - הכל בחלון אחד. קל, מהיר ויעיל - בדיוק כמו שאנחנו אוהבים את זה במוקד הטכנולוגיה של ישראל.",
     "d": "Mon, 08 Dec 2025 06:00:00 GMT",
     "v": 0,
     "l": [
@@ -8912,13 +8911,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 358,
-    "t": "The state of enterprise AI\n\nKey findings from OpenAI’s enterprise data show accelerating AI adoption, deeper integration, and measurable productivity gains across industries in 2025.",
+    "t": "מצב ה-AI בחברות הענק\n\nנתונים חדשים מ-OpenAI חושפים שיצור AI בעולם התאגידים מתפוצץ בשנת 2025 - חברות משלבות את הטכנולוגיה עמוקות יותר מאי פעם ורואות רווחי פרודוקטיביות ממשיים במגוון תעשיות. בקצרה, ה-AI כבר לא עוד זה של סטארטאפים בודדים, זה עכשיו כלי קריטי בשורה של כל קונג'י ממש.",
     "d": "Mon, 08 Dec 2025 04:00:00 GMT",
     "v": 0,
     "l": [
@@ -8944,7 +8943,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 359,
-    "t": "How Virgin Atlantic uses AI to enhance every step of travel\n\nVirgin Atlantic CFO Oliver Byers shares how the airline is using AI to speed up development, improve decision-making, and elevate customer experience.",
+    "t": "איך וירג'ין אטלנטיק משתמשת ב-AI כדי לשפר כל שלב בנסיעה\n\nבראיון מיוחד, CFO של וירג'ין אטלנטיק חושף איך התעופה משתמשת ב-AI כדי להאיץ פיתוח מוצרים, לשפר את קבלת ההחלטות, והכי חשוב - לתת חוויית נוסע שלא נשכחת. מ-בדיקת כרטיסים עד לטיפול בלקוחות, ה-AI של וירג'ין כבר משתנה את כל מה שקורה בנתב.",
     "d": "Mon, 08 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -8990,7 +8989,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 361,
-    "t": "Introducing OpenAI for Australia\n\nOpenAI is launching OpenAI for Australia to build sovereign AI infrastructure, upskill more than 1.5 million workers, and accelerate innovation across the country’s growing AI ecosystem.",
+    "t": "OpenAI משיקה פעילות ייעודית באוסטרליה\n\nOpenAI מתחילה להשקיע באוסטרליה בגדול - הם בונים infrastructure AI עצמאי, מעבידים למעלה מ-1.5 מיליון עובדים ומאיצים את כל המערכת של startup וחברות AI בארץ הקנגורו. זה חלק מהמהלך הגלובלי של החברה להשתרש במדינות מרכזיות ולהנגיש AI לעוד יותר אנשים.",
     "d": "Thu, 04 Dec 2025 19:00:00 GMT",
     "v": 0,
     "l": [
@@ -9066,7 +9065,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 364,
-    "t": "OpenAI to acquire Neptune\n\nOpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training.",
+    "t": "OpenAI קונה את Neptune\n\nOpenAI מחזיקה בכל הכלים שלה כדי לקחת עוד צעד קדימה בעולם ה-AI - הפעם היא קונה את Neptune כדי להבין טוב יותר איך המודלים שלה מתנהגים ובעצם לתן לחוקרים כלים חזקים יותר לעקוב אחרי ניסויים ומעקב אחרי תהליך האימון. זו עוד הוכחה שOpenAI לא מסתפקת עם מה שיש לה וכל הזמן משפרת את החומרה והתוכנה שלה מאחורי הקלעים.",
     "d": "Wed, 03 Dec 2025 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -9092,7 +9091,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 365,
-    "t": "How confessions can keep language models honest\n\nOpenAI researchers are testing “confessions,” a method that trains models to admit when they make mistakes or act undesirably, helping improve AI honesty, transparency, and trust in model outputs.",
+    "t": "איך 'וידויים' שומרים על כנות של מודלים לשוניים\n\nחוקרים מ-OpenAI מנסים שיטה חדשה שלמדת מודלים AI להודות בטעויות שלהם, במטרה להגביר את הכנות והשקיפות של המערכות. זה בעצם כמו שתוקנים את ה-AI להיות \"הגון\" ולומר 'אני טעיתי' במקום להעמיד פנים שהוא תמיד צודק - משהו שיכול להעלות משמעותית את הביטחון שלנו בתוצאות שהמודלים נותנים לנו. המחקר הזה עולה בקנה אחד עם המעניין הגובר של תעשיית ה-AI בנושא AI transparency וjustifiability. (מקור: OpenAI Blog)",
     "d": "Wed, 03 Dec 2025 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -9118,7 +9117,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 366,
-    "t": "Announcing the initial People-First AI Fund grantees\n\nThe OpenAI Foundation announces the initial recipients of the People-First AI Fund, awarding $40.5M in unrestricted grants to 208 nonprofits supporting community innovation and opportunity.",
+    "t": "התגבשות קרן ה-AI שלנו: 208 ארגונים ללא מטרת רווח מקבלים מענקים\n\nקרן OpenAI הכריזה על המקבלים הראשונים של קרן ה-People-First AI שלה, בחלוקת 40.5 מיליון דולר למענקים ללא תנאים ל-208 ארגונים ללא מטרת רווח. המטרה היא תמוך בחדשנות ופתיחת הזדמנויות בקהילות שונות דרך טכנולוגיית AI. זה צעד משמעותי להנגשת הטכנולוגיה לא רק לחברות גדולות אלא גם לארגונים קטנים שחוזרים ערך חברתי.",
     "d": "Wed, 03 Dec 2025 08:00:00 GMT",
     "v": 0,
     "l": [
@@ -9138,13 +9137,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 367,
-    "t": "Inside Mirakl's agentic commerce vision\n\nMirakl is redefining commerce through AI agents and ChatGPT Enterprise—achieving faster documentation, smarter customer support, and building toward agent-native commerce with Mirakl Nexus.",
+    "t": "חזון הקומרס של סוכנים אוטונומיים ב-Mirakl\n\nMirakl משנה את כללי המשחק בעולם הקומרס דיגיטלי עם AI agents ו-ChatGPT Enterprise - והתוצאה? תיעוד מהיר יותר, שירות לקוחות חכם יותר, ודרך לחלוטין חדשה לעשות עסקים שהם קוראים לה agent-native commerce עם Mirakl Nexus. באמת יוצא כמו עתיד של e-commerce.",
     "d": "Mon, 01 Dec 2025 22:00:00 GMT",
     "v": 0,
     "l": [
@@ -9171,7 +9170,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 368,
-    "t": "Funding grants for new research into AI and mental health\n\nOpenAI is awarding up to $2 million in grants for research at the intersection of AI and mental health. The program supports projects that study real-world risks, benefits, and applications to improve safety and well-being.",
+    "t": "OpenAI מחלקת מלגות לחקר בחיתוך בין AI ובריאות נפשית\n\nOpenAI פותחת קופה של עד 2 מיליון דולר למחקר בתחום הפגיעה של AI בבריאות הנפשית שלנו - והדברים החיוביים שהוא יכול לתרום. התוכנית תתמוך בפרויקטים שבודקים בעולם האמיתי איך AI משפיע על הבטיחות שלנו והיכולת שלנו להיות בריאים נפשית יותר. זה סוג של המרוץ להבין טוב יותר את ההשלכות של הטכנולוגיה שמשנה את חיינו.",
     "d": "Mon, 01 Dec 2025 12:00:00 GMT",
     "v": 0,
     "l": [
@@ -9189,16 +9188,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 369,
-    "t": "OpenAI and NORAD team up to bring new magic to “NORAD Tracks Santa”\n\nOpenAI and NORAD are bringing new magic to “NORAD Tracks Santa” with three ChatGPT holiday tools that let families create festive elves, toy coloring pages, and custom Christmas stories.",
+    "t": "OpenAI ו-NORAD משתפות פעולה להוסיף קסם חדש ל-\"NORAD Tracks Santa\"\n\nOpenAI ו-NORAD הביאו כמה כלים ChatGPT חדשים ושובבים ל-\"NORAD Tracks Santa\" - כולל יכולת ליצור קלפים של שדים חגיגיים, דפי צביעה של צעצועים וסיפורי חג המולד מותאמים אישית. זה בעצם ההתחלה של Chanukah ו-Christmas גאומטריה - משפחות בחו\"ל יכולות כבר לעשות חג לא רע עם הכלים החדשים האלה.",
     "d": "Mon, 01 Dec 2025 06:00:00 GMT",
     "v": 0,
     "l": [
@@ -9224,7 +9222,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 370,
-    "t": "Accenture and OpenAI accelerate enterprise AI success\n\nAccenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into the core of their business and unlock new levels of growth.",
+    "t": "אקסנטור ו-OpenAI מאיצים את הצלחת ה-AI בארגונים\n\nאקסנטור ו-OpenAI משתפות פעולה כדי לעזור לחברות להשילוב AI agents חזקים בליבת העסק שלהן. השותפות הזו נועדה לפתוח דלתות להשגת צמיחה חדשה ויכולות דיגיטליות שעד כה לא היו אפשריות. שתי החברות מתחייבות לתת לארגונים גדולים את הכלים והידע להשתמש בטכנולוגיית ה-AI במצב היעיל ביותר.",
     "d": "Mon, 01 Dec 2025 05:00:00 GMT",
     "v": 0,
     "l": [
@@ -9251,7 +9249,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 371,
-    "t": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption\n\nOpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption, embedding frontier research and engineering directly into accounting and IT services to boost speed, accuracy, and efficiency while creating a scalable model for industry-wide transformation.",
+    "t": "OpenAI קונה נתח בחברת Thrive Holdings כדי להאיץ את אימוץ AI בחברות\n\nOpenAI משקיעה בחברת Thrive Holdings ולוקחת בה נתח בעלות, בתוך כדי הטמעה של טכנולוגיית frontier research ו-engineering ישירות לשירותי חשבונאות ו-IT. המטרה? להעלות את המהירות, הדיוק והיעילות של החברות, תוך יצירת מודל שניתן להרחיב לכל התעשייה. זה בעצם סימן שOpenAI לא רק מדברת על AI בחברות - היא גם משמה כסף בשביל זה.",
     "d": "Mon, 01 Dec 2025 05:00:00 GMT",
     "v": 0,
     "l": [
@@ -9300,7 +9298,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 373,
-    "t": "Mixpanel security incident: what OpenAI users need to know\n\nOpenAI shares details about a Mixpanel security incident involving limited API analytics data. No API content, credentials, or payment details were exposed. Learn what happened and how we’re protecting users.",
+    "t": "תקרית אבטחה ב-Mixpanel: מה צריכים להכיר משתמשי OpenAI\n\nOpenAI חשפה פרטים על תקרית אבטחה ב-Mixpanel שהשפיעה על נתוני analytics של API בלבד - וזה בעצם לא כל כך נורא כמו שזה נשמע. הטובה היא שלא נחשפו API keys, credentials או מידע כספי כלשהו, כך שהמשתמשים יכולים להישאר רגועים. OpenAI מספרת בפירוט מה בדיוק קרה וכיצד הם שומרים עליכם.",
     "d": "Wed, 26 Nov 2025 19:00:00 GMT",
     "v": 0,
     "l": [
@@ -9318,8 +9316,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -9327,7 +9324,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 374,
-    "t": "Expanding data residency access to business customers worldwide\n\nOpenAI expands data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform, enabling eligible customers to store data at rest in-region.",
+    "t": "הרחבת אפשרויות שמירת נתונים למתחם אזוری לעסקים ברחבי העולם\n\nOpenAI מרחיבה את אפשרויות ה-data residency שלה ל-ChatGPT Enterprise, ChatGPT Edu והפלטפורמה של ה-API, מה שמאפשר ללקוחות רשאים לשמור את הנתונים שלהם בתוך האזור שלהם בלי שצריך לשדר אותם לשרתים בחו\"ל - טוב לחברות שצריכות שמירה קפדנית על הנתונים מסיבות רגולטוריות או אבטחה.",
     "d": "Tue, 25 Nov 2025 22:00:00 GMT",
     "v": 0,
     "l": [
@@ -9347,13 +9344,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 375,
-    "t": "Our approach to mental health-related litigation\n\nWe’re sharing our approach to mental health-related litigation. O handle sensitive cases with care, transparency, and respect while continuing to strengthen safety and support in ChatGPT.",
+    "t": "הגישה שלנו להתדיינויות הקשורות לבריאות נפשית\n\nOpenAI חושפת את הדרך שלה בהתמודדות עם תביעות קשורות לבריאות נפשית - עם דגש על שקיפות, כבוד למקרים רגישים, וחיזוק בטיחות וסיוע ב-ChatGPT. החברה מדגישה שהיא לוקחת את הנושא ברצינות ומחויבת להגן על משתמשים בעלי צרכים נפשיים מיוחדים.",
     "d": "Tue, 25 Nov 2025 12:00:00 GMT",
     "v": 0,
     "l": [
@@ -9379,7 +9376,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 376,
-    "t": "Inside JetBrains—the company reshaping how the world writes code\n\nJetBrains is integrating GPT-5 across its coding tools, helping millions of developers design, reason, and build software faster.",
+    "t": "בפנים JetBrains - החברה שמעצבת מחדש את דרך העולם לכתוב קוד\n\nJetBrains משלבת את GPT-5 בכל כלי הקידוד שלה, ועוזרת למיליונים מפתחים לתכנן, ללמוד ולבנות תוכנה הרבה יותר מהר. החברה שכבר גרמה לכל איש קוד בעולם להשתמש בה, עכשיו מוסיפה כוח AI ממשי לכלים שלה.\n\nמקור: OpenAI Blog",
     "d": "Tue, 25 Nov 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -9497,7 +9494,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 381,
-    "t": "Introducing shopping research in ChatGPT\n\nShopping research in ChatGPT helps you explore, compare, and discover products with personalized buyer’s guides that simplify decision-making",
+    "t": "ChatGPT מציג כלי מחקר קניות חדש\n\nOpenAI הוסיפה לChatGPT יכולת חדשה שמסייעת לכם לחפש, להשוות ולגלות מוצרים בעזרת מדריכי קניה מותאמים אישית. כלי זה עוזר להפוך כל החלטת קניה למהלכת פשוטה ונוחה, בלי צורך לסרוק עשרות אתרים. בעצם, ChatGPT הופך להיות עוזר הקניות שלכם הפרטי.",
     "d": "Mon, 24 Nov 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -9523,7 +9520,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 382,
-    "t": "GPT-5 and the future of mathematical discovery\n\nUCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing AI’s role in accelerating mathematical discovery.",
+    "t": "GPT-5 והעתיד של גילויים מתמטיים\n\nפרופסור מ-UCLA בשם ארנסט ריו השתמש ב-GPT-5 כדי לפתור שאלה מרכזית בתורת האופטימיזציה, וזה מראה לנו שאנחנו בעידן שבו AI לא פשוט עוזר לנו - הוא באמת משנה את אופן גילוי המתמטיקה. זה לא סתם עוד news על AI חזק, זה הוכחה שהמכונות יכולות לתרום לפתרון בעיות שהמדענים עבדו עליהן זמן רב.",
     "d": "Mon, 24 Nov 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -9595,7 +9592,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 385,
-    "t": "OpenAI and Foxconn collaborate to strengthen U.S. manufacturing across the AI supply chain\n\nOpenAI and Foxconn are collaborating to design and manufacture next-generation AI infrastructure hardware in the U.S. The partnership will develop multiple generations of data-center systems, strengthen U.S. supply chains, and build key components domestically to accelerate advanced AI infrastructure.",
+    "t": "OpenAI ו-Foxconn משתפות פעולה לחיזוק התיצור האמריקאי בשרשרת האספקה של AI\n\nאוקיי, אז OpenAI ו-Foxconn החליטו להתחברות בשביל לייצר את ה-hardware של הדור הבא של AI תשתיות ישר בארה\"ב - זה כוללים עיצוב וייצור של מספר דורות של data-center systems. במילים פשוטות, הן רוצות להזיז את הייצור והרכיבים החשובים מחוץ לחו\"ל ישר למעשנות אמריקאיות כדי שתהיה לנו בקרה על ההיבטים הקריטיים של התשתיות AI. זה צעד יוזם למישהו שרוצה להיות עצמאי בעניינים של AI infrastructure.",
     "d": "Thu, 20 Nov 2025 14:50:00 GMT",
     "v": 0,
     "l": [
@@ -9615,13 +9612,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 386,
-    "t": "Helping 1,000 small businesses build with AI\n\nOpenAI is partnering with DoorDash, SCORE, and local organizations to help 1,000 small businesses build with AI. The Small Business AI Jam gives Main Street business owners hands-on tools and training to compete and grow.",
+    "t": "OpenAI עוזרת ל-1,000 עסקים קטנים לבנות עם AI\n\nOpenAI משיקה תוכנית חדשה בשיתוף עם DoorDash וSCORE כדי לעזור לאלף עסקים קטנים בשוק המקומי להשתמש ב-AI. התוכנית \"Small Business AI Jam\" נותנת לבעלי העסקים בכל שכונה כלים מעשיים והכשרה כדי שיוכלו להתחרות ולהגדיל את העסק שלהם באיזור שלהם.",
     "d": "Thu, 20 Nov 2025 06:00:00 GMT",
     "v": 0,
     "l": [
@@ -9647,7 +9644,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 387,
-    "t": "Early experiments in accelerating science with GPT-5\n\nOpenAI introduces the first research cases showing how GPT-5 accelerates scientific progress across math, physics, biology, and computer science. Explore how AI and researchers collaborate to generate proofs, uncover new insights, and reshape the pace of discovery.",
+    "t": "ניסויים ראשונים בהאצת מדע עם GPT-5\n\nOpenAI חשפה את המקרים המחקריים הראשונים שמראים איך GPT-5 מאיץ התקדמות מדעית בתחומי מתמטיקה, פיזיקה, ביולוגיה ומדעי המחשב. החברה מדגימה את השיתוף המעניין בין AI לחוקרים בעולם - מייצור הוכחות מתמטיות ועד גילוי תובנות חדשות שמשנות את קצב הגילויים המדעיים. זה לא יותר רחוק מעכשיו שאנחנו רואים בפועל איך בינה מלאכותית יכולה לתרום למהלך של המדע עצמו. מקור: OpenAI Blog",
     "d": "Thu, 20 Nov 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -9699,7 +9696,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 389,
-    "t": "Strengthening our safety ecosystem with external testing\n\nOpenAI works with independent experts to evaluate frontier AI systems. Third-party testing strengthens safety, validates safeguards, and increases transparency in how we assess model capabilities and risks.",
+    "t": "חיזוק מערכת הבטיחות שלנו באמצעות בדיקות חיצוניות\n\nOpenAI שותפה עם מומחים בלתי תלויים כדי להעריך מערכות AI מתקדמות, ובעזרת בדיקות של צדדים שלישיים הם משפרים את הבטיחות ומאמתים שהמגנים עובדים כראוי. הגישה הזו מגבירה את השקיפות בדרך שבה הם מעריכים את היכולות והסיכונים של המודלים שלהם.",
     "d": "Wed, 19 Nov 2025 12:00:00 GMT",
     "v": 0,
     "l": [
@@ -9725,7 +9722,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 390,
-    "t": "How evals drive the next chapter in AI for businesses\n\nLearn how evals help businesses define, measure, and improve AI performance—reducing risk, boosting productivity, and driving strategic advantage.",
+    "t": "איך Evals מניעים את הפרק הבא של AI לעסקים\n\nבעידן שבו כל חברה רוצה להשתמש ב-AI, השאלה הגדולה היא איך בעצם למדוד שהמודלים עובדים כמו שצריך? OpenAI מסבירה איך evals (הערכות) הופכות למפתח להגדרה, מדידה ושיפור של ביצועי AI - כל זה כדי להוריד סיכונים, להגביר פרודוקטיביות ולתת לעסקים יתרון תחרותי אמיתי.",
     "d": "Wed, 19 Nov 2025 11:00:00 GMT",
     "v": 0,
     "l": [
@@ -9738,9 +9735,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -9748,7 +9748,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 391,
-    "t": "OpenAI and Target team up on new AI-powered experiences\n\nOpenAI and Target are partnering to bring a new Target app to ChatGPT, offering personalized shopping and faster checkout. Target will also expand its use of ChatGPT Enterprise to boost productivity and guest experiences.",
+    "t": "OpenAI וTarget משתפים פעולה בחוויות קנייה חדשות עם AI\n\nOpenAI ו-Target הצהירו על שותפות חדשה שמביאה אפליקציה ייעודית של Target ל-ChatGPT, דבר שמאפשר קניות מותאמות אישית ותשלום מהר יותר. Target גם מתכננת להרחיב את השימוש ב-ChatGPT Enterprise כדי לשפר את פרודוקטיביות העובדים וחוויית הקונים שלהם בחנות. עם המהלך הזה, הקמעונאות הגדולה מצטרפת לגל של חברות שמשלבות AI כדי לתת תוקף למשהו קונקרטי למשתמשים שלהם.",
     "d": "Wed, 19 Nov 2025 06:00:00 GMT",
     "v": 0,
     "l": [
@@ -9797,7 +9797,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 393,
-    "t": "GPT-5.1-Codex-Max System Card\n\nThis system card outlines the comprehensive safety measures implemented for GPT‑5.1-CodexMax. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt injections, and product-level mitigations like agent sandboxing and configurable network access.",
+    "t": "כרטיס המערכת של GPT-5.1-Codex-Max\n\nאופנאיי חשפה את כל אמצעי הבטיחות שהטמיעה ב-GPT-5.1-Codex-Max, המודל החדש שלה. המערכת כוללת הגנות ברמת המודל עצמו - כמו אימון בטיחות מיוחד נגד משימות מסוכנות וניסיונות injection - וגם הגנות ברמת המוצר שמציעות sandboxing לאג'נטים ובקרה על גישת הרשת.",
     "d": "Wed, 19 Nov 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -9815,8 +9815,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -9824,7 +9823,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 394,
-    "t": "Building more with GPT-5.1-Codex-Max\n\nIntroducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency.",
+    "t": "בנייה יותר חכמה עם GPT-5.1-Codex-Max\n\nOpenAI הציגה את GPT-5.1-Codex-Max, מודל קוד חדש וטורבו שמסוגל להתמודד עם פרויקטים ענקיים וארוכי טווח. המודל החדש הוא מהיר יותר, חכם יותר ויעיל יותר בשימוש ב-tokens, מה שאומר שהוא יכול לעבוד על קוד מורכב ולפתור בעיות בגודל של פרויקט שלם בלי לאבד דרך. זו חדשות ממש טובות למפתחים שמחפשים AI partner שיודע לתכנת ברצינות.",
     "d": "Wed, 19 Nov 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -9842,8 +9841,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
