@@ -9849,7 +9849,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 395,
-    "t": "How Scania accelerates work with AI across its global workforce\n\nGlobal manufacturer Scania is scaling AI with ChatGPT Enterprise. With team-based onboarding and strong guardrails, AI is boosting productivity, quality, and innovation.",
+    "t": "איך סקניה מאיצה את העבודה עם AI בכל הצוות העולמי שלה\n\nיצרנית הגדולה סקניה בחרה ב-ChatGPT Enterprise כדי להעצים את כל הארגון שלה. בעזרת הטמעה מסודרת לפי צוותים וגבלות אבטחה חזקות, החברה משיגה תוצאות מדהימות - יותר פרודוקטיביות, איכות גבוהה יותר והמון יותר כוח חדשני בעבודה היום יום.",
     "d": "Wed, 19 Nov 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -9875,7 +9875,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 396,
-    "t": "A free version of ChatGPT built for teachers\n\nChatGPT for Teachers is a secure workspace with education‑grade privacy and admin controls. Free for verified U.S. K–12 educators through June 2027.",
+    "t": "גרסה חינמית של ChatGPT שעוצבה עבור מורים\n\nOpenAI השקיעה בחינוך וחילקה גרסה מיוחדת של ChatGPT למורים בארה\"ב - עם פרטיות בדרגת חינוך ובקרות ניהול שמאפשרות למורים לתכנן שיעורים בביטחון ובלי דאגות. החדשות הטובות? זה לגמרי חינמי למורים מאומתים עד 2027, כך שיש הרבה זמן להשתמש בזה.",
     "d": "Wed, 19 Nov 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -9901,7 +9901,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 397,
-    "t": "Intuit and OpenAI join forces on new AI-powered experiences\n\nOpenAI and Intuit have entered a $100M+ multi-year partnership to launch Intuit app experiences in ChatGPT and expand Intuit’s use of OpenAI’s frontier models to power personalized financial tools.",
+    "t": "אינטואיט ו-OpenAI מתחברות: שותפות ענקית לעתיד הכלים הפיננסיים\n\nבעסקה שווה למעל 100 מיליון דולר על פני שנים, אינטואיט ו-OpenAI משתפות פעולה כדי להביא את יישומי אינטואיט ישירות ל-ChatGPT, בעוד שהחברה הישראלית-אמריקנית תשתמש בדגמים המתקדמים של OpenAI כדי לבנות כלים פיננסיים מותאמים אישית עבור משתמשים. זה עוד הוכחה לטרנד הגדל של שיתופי פעולה בין ענקיות הטק וספקי AI כדי להטמיע בינה מלאכותית בעמוק לתוך המוצרים שלהם.",
     "d": "Tue, 18 Nov 2025 05:00:00 GMT",
     "v": 0,
     "l": [
@@ -9921,13 +9921,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 398,
-    "t": "OpenAI named Emerging Leader in Generative AI\n\nOpenAI has been named an Emerging Leader in Gartner’s 2025 Innovation Guide for Generative AI Model Providers. The recognition reflects our enterprise momentum, with over 1 million companies building with ChatGPT.",
+    "t": "OpenAI נבחרה כמנהיגה עולה בתחום ה-AI היוצר\n\nOpenAI קיבלה הכרה מ-Gartner כמנהיגה עולה בהנחיות 2025 שלהם לספקי מודלי AI יוצרים. זה לא מפתיע בהינתן שיותר ממיליון חברות כבר בונות עם ChatGPT ותופסות כמה מהפוטנציאל הלא מוגבל של הטכנולוגיה הזאת. ההכרה הזאת מאמתת שOpenAI הפכה לשחקן מרכזי בעולם ה-enterprise ועם כמו שחקנית חדשה שעדיין יש לה מקום גדול לגדול.",
     "d": "Mon, 17 Nov 2025 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -9976,7 +9976,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 400,
-    "t": "Introducing OpenAI for Ireland\n\nOpenAI launches OpenAI for Ireland, partnering with the Irish Government, Dogpatch Labs and Patch to help SMEs, founders and young builders use AI to innovate, boost productivity and build the next generation of Irish tech startups.",
+    "t": "OpenAI משגרת את OpenAI Ireland - תוכנית חדשה לחידושים טכנולוגיים בירלנד\n\nOpenAI התחייבה להובלת השינוי הטכנולוגי בירלנד דרך שותפות עם הממשלה הירלנדית ו-Dogpatch Labs, בכוונה לעזור לעסקים קטנים, יזמים ובנויים צעירים להשתמש ב-AI כדי להעלות את הפרודוקטיביות ולבנות את הדור הבא של סטארטאפים טכנולוגיים בירלנדיים. התוכנית מסמלת התחייבות של OpenAI לחיזוק האקוסיסטם של ה-AI בחו״ל ותמיכה בחברות צעירות שמנסות להשתמש בטכנולוגיה הזאת. זה חלק מהמגמה הגדולה יותר של חברות AI מובילות להיות מעורבות בפיתוח כלים לסטארטאפים ויזמים מקומיים.\n\nSource: OpenAI Blog",
     "d": "Fri, 14 Nov 2025 04:00:00 GMT",
     "v": 0,
     "l": [
@@ -9996,7 +9996,7 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
@@ -10027,7 +10027,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 402,
-    "t": "Understanding neural networks through sparse circuits\n\nOpenAI is exploring mechanistic interpretability to understand how neural networks reason. Our new sparse model approach could make AI systems more transparent and support safer, more reliable behavior.",
+    "t": "הבנת רשתות נוירונים דרך מעגלים דלילים\n\nOpenAI חופרת עמוק בנושא של mechanistic interpretability כדי להבין איך למעשה חושבות רשתות נוירונים. הם פיתחו גישה חדשה של מודלים דלילים שיכולה להפוך למערכות AI לקופות יותר ובאמת לתמוך בהתנהגות בטוחה ואמינה. זה בעיקרון פורץ דרך בדרך שלנו להבין את הקופסה השחורה של ה-AI.",
     "d": "Thu, 13 Nov 2025 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -10053,7 +10053,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 403,
-    "t": "Introducing group chats in ChatGPT\n\nCollaborate with others, and ChatGPT, in the same conversation.",
+    "t": "ChatGPT מחדש: תמיכה בשיחות קבוצתיות\n\nOpenAI משיקה תכונה חדשה שמאפשרת לכם לשתף שיחה עם ChatGPT ועם אנשים נוספים בו-זמנית - פשוט בחרו עם מי להשתף וזה הכל. טוב במיוחד אם אתם צריכים לעבוד ביחד על פרויקט, לתכנן משהו או סתם להראות ל-AI משהו בקבוצה.",
     "d": "Thu, 13 Nov 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -10079,7 +10079,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 404,
-    "t": "How Philips is scaling AI literacy across 70,000 employees\n\nPhilips is scaling AI literacy with ChatGPT Enterprise, training 70,000 employees to use AI responsibly and improve healthcare outcomes worldwide.",
+    "t": "פיליפס משכללת 70,000 עובדים בתחום ה-AI\n\nפיליפס משתמשת ב-ChatGPT Enterprise כדי להפוך את כל העובדים שלה למיודעים בעולם ה-AI - ובכך מקדמת שימוש אחראי בטכנולוגיה בכל הארגון. התוכנית מטרתה לשפר תוצאות בתחום הבריאות בעולם כולו, ויוצרת דור חדש של עובדים שמבינים איך עובד AI ויכולים להשתמש בו בחכמה.",
     "d": "Thu, 13 Nov 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -10105,7 +10105,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 405,
-    "t": "Introducing GPT-5.1 for developers\n\nGPT-5.1 is now available in the API, bringing faster adaptive reasoning, extended prompt caching, improved coding performance, and new apply_patch and shell tools.",
+    "t": "חדש: GPT-5.1 לפיתוחים\n\nOpenAI הוציאה את GPT-5.1 ל-API שלהם, ובפעם הזו יש כאן עניינים די חוזקים - reasoning מהיר יותר שמתאים לעצמו, prompt caching שמתוך שהוא הזיז לחלל, ביצועים טובים יותר בקוד, ועוד כלים כמו apply_patch ו-shell tools שצריכים להעניק להמון פיתחים. בקיצור, קיצור עמוק וחוזק למי שבנה עם GPT.\n\nמקור: OpenAI Blog",
     "d": "Thu, 13 Nov 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -10157,37 +10157,11 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 407,
-    "t": "Neuro drives national retail wins with ChatGPT Business\n\nNeuro uses ChatGPT Business to scale nationwide with fewer than 70 employees, saving time, reducing costs, and turning faster execution across sales and operations into growth.",
+    "t": "Neuro משיגה הצלחות קמעונאיות ארציות עם ChatGPT Business\n\nNeuro הוכיחה שאפשר לנהל פעולות בקנה מידה לאומי עם צוות זעום של פחות מ-70 עובדים - וזה הכל בזכות ChatGPT Business. החברה חסכה זמן וכסף משמעותיים וקיצרה משמעותית את מחזוריות היישום שלהם בפעילויות המכירות וההפעלה. זה בדיוק הסוג של growth hack שמראה איך AI יכול להפוך נחמדים קטנים ליותר חזקים ויעילים.",
     "d": "Wed, 12 Nov 2025 11:00:00 GMT",
     "v": 0,
     "l": [
       "https://openai.com/index/neurogum"
-    ],
-    "lp": null,
-    "vid": false,
-    "img": false,
-    "fwd": null,
-    "cats": [
-      "news"
-    ],
-    "co": [
-      "OpenAI"
-    ],
-    "tags": [
-      "news",
-      "model"
-    ],
-    "imp": "low",
-    "thumb": null,
-    "source": "OpenAI Blog"
-  },
-  {
-    "id": 408,
-    "t": "Fighting the New York Times’ invasion of user privacy\n\nOpenAI is fighting the New York Times’ demand for 20 million private ChatGPT conversations and accelerating new security and privacy protections to protect your data.",
-    "d": "Wed, 12 Nov 2025 06:00:00 GMT",
-    "v": 0,
-    "l": [
-      "https://openai.com/index/fighting-nyt-user-privacy-invasion"
     ],
     "lp": null,
     "vid": false,
@@ -10209,8 +10183,34 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
+    "id": 408,
+    "t": "התנגדות OpenAI לתביעת ניו יורק טיימס על פרטיות משתמשים\n\nOpenAI מתנגדת לדרישה של ניו יורק טיימס לגשת ל-20 מיליון שיחות פרטיות של ChatGPT, ובמקביל מאיצה את הטמעת הגנות אבטחה וגנות פרטיות חדשות כדי להגן על הנתונים שלכם. במהלך הקונפליקט המשפטי הזה, החברה שמה דגש על התחייבותה לשמירה על סודיות משתמשיה מול הציבור הרחב.",
+    "d": "Wed, 12 Nov 2025 06:00:00 GMT",
+    "v": 0,
+    "l": [
+      "https://openai.com/index/fighting-nyt-user-privacy-invasion"
+    ],
+    "lp": null,
+    "vid": false,
+    "img": false,
+    "fwd": null,
+    "cats": [
+      "news"
+    ],
+    "co": [
+      "OpenAI"
+    ],
+    "tags": [
+      "news",
+      "model"
+    ],
+    "imp": "low",
+    "thumb": null,
+    "source": "OpenAI Blog"
+  },
+  {
     "id": 409,
-    "t": "GPT-5.1: A smarter, more conversational ChatGPT\n\nWe’re upgrading the GPT-5 series with warmer, more capable models and new ways to customize ChatGPT’s tone and style. GPT-5.1 starts rolling out today to paid users.",
+    "t": "GPT-5.1: ChatGPT חכום יותר וקונברסטיבי יותר\n\nOpenAI משדרגת את סדרת GPT-5 עם מודלים יותר חמימים ויכולים, והמשתמשים יוכלו עכשיו להתאים את הטון והסגנון של ChatGPT לרצוניהם. הגרסה החדשה מתחילה להתפזר היום למנויים בתשלום ויחולות הן ממש מרגיזות.",
     "d": "Wed, 12 Nov 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -10228,8 +10228,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -10237,7 +10236,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 410,
-    "t": "GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum\n\nThis GPT-5 system card addendum provides updated safety metrics for GPT-5.1 Instant and Thinking, including new evaluations for mental health and emotional reliance.",
+    "t": "כרטיס המערכת המעודכן של GPT-5.1 Instant ו-Thinking\n\nOpenAI הוציאה תוספת חדשה לכרטיס הבטיחות של GPT-5.1, עם מדדים משופרים שמבדקים את הביצועים של שתי הגרסאות החדשות - הגרסה המהירה (Instant) והגרסה המחשובית (Thinking). התוספת כוללת הערכות חדשות וחשובות שמתמקדות בבריאות נפשית והסתמכות רגשית, כדי לוודא שהמודל בטוח יותר לשימוש יום-יומי. זה חלק מהמחויבות המתמשכת של OpenAI לשקיפות וביצוע בדיקות בטיחות קפדניות לפני שחרור כל גרסה חדשה.",
     "d": "Wed, 12 Nov 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -10255,8 +10254,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -10264,7 +10262,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 411,
-    "t": "Free ChatGPT for transitioning U.S. servicemembers and veterans\n\nOpenAI is offering U.S. servicemembers and veterans within 12 months of retirement or separation a free year of ChatGPT Plus to support their transition to civilian life. The tools can help with resumes, interviews, education, and planning for what’s next.",
+    "t": "ChatGPT בחינם לחיילים וותיקים אמריקאים במעבר לחיים אזרחיים\n\nOpenAI הכריזה על תוכנית נדיבה: כל חייל או וטרן אמריקאי שנמצא בשנת המעבר לחיים אזרחיים יקבל ChatGPT Plus בחינם לשנה שלמה. התוכנית מעניקה כלים חזקים לבניית קורות חיים, הכנה לראיונות עבודה, תכנון השכלה והחלטות מקצועיות גדולות שמחכות להם.",
     "d": "Mon, 10 Nov 2025 02:00:00 GMT",
     "v": 0,
     "l": [
@@ -10290,7 +10288,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 412,
-    "t": "Understanding prompt injections: a frontier security challenge\n\nPrompt injections are a frontier security challenge for AI systems. Learn how these attacks work and how OpenAI is advancing research, training models, and building safeguards for users.",
+    "t": "הבנת Prompt Injections: אתגר ביטחוני בחזית ה-AI\n\nPrompt injections הם האתגר הביטחוני החדש של עולם ה-AI, וכמו כל טכנולוגיה חדשה - יש לה צד אפל. OpenAI חושפת איך בדיוק התקפות האלה עובדות ומה היא עושה כדי להגן עלינו עם מודלים משופרים ושכבות הגנה חדשות. אם אתם חוששים שמישהו יכול לתעתע עם ה-AI שלכם - כאן החדשות הטובות.",
     "d": "Fri, 07 Nov 2025 11:30:00 GMT",
     "v": 0,
     "l": [
@@ -10308,8 +10306,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -10317,7 +10314,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 413,
-    "t": "Notion’s GPT‑5 rebuild unlocks autonomous AI workflows\n\nNotion rebuilt its AI architecture with GPT-5 to create agents that reason, act, and adapt across workflows, unlocking faster and more flexible productivity in Notion 3.0.",
+    "t": "Notion בנתה מחדש את ארכיטקטורת ה-AI שלה עם GPT-5 כדי ליצור workflow אוטונומיים\n\nNotion עשתה מהפך בעולם הפרודוקטיביות - היא שדרגה את מערכת ה-AI שלה עם GPT-5 כדי ליצור agents חכמים שיכולים לחשוב, לפעול ולהסתגל בין משימות שונות. בגרסה החדשה שלהם (Notion 3.0), המערכת הזו מאפשרת לעובדים לעבוד הרבה יותר בעיצומיות וגמישות, כי ה-AI יכול להוביל workflow שלמים לבד.",
     "d": "Fri, 07 Nov 2025 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -10336,7 +10333,6 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news",
       "model",
-      "robotics",
       "agents"
     ],
     "imp": "low",
@@ -10345,7 +10341,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 414,
-    "t": "How BBVA is scaling AI from pilot to practice across the org\n\nBBVA is embedding ChatGPT Enterprise into daily work, saving employee hours each week, creating 20,000+ custom GPTs, and achieving up to 80% efficiency gains.",
+    "t": "איך BBVA משגרת AI מעדכן לשימוש ממשי בכל הארגון\n\nבנק BBVA לא מתעסק עם ניסיונות - הם כבר הטמיעו ChatGPT Enterprise ישירות בעבודת היום יום ושמרו שעות עבודה ענקיות לעובדים. העובדה המשגעת? הם כבר יצרו למעלה מ-20,000 GPTs בהתאמה אישית וקיבלו עד 80% שיפור בעלויות יעילות. זה לא הון סיכון שנגמר, זה ממשי.",
     "d": "Thu, 06 Nov 2025 09:30:00 GMT",
     "v": 0,
     "l": [
@@ -10371,7 +10367,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 415,
-    "t": "Introducing the Teen Safety Blueprint\n\nDiscover OpenAI’s Teen Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
+    "t": "כרטיס התוכנית לבטיחות בני נוער של OpenAI\n\nOpenAI הוציאה מפת דרכים חדשה לגבי איך לבנות AI בצורה אחראית, תוך התמקדות בהגנה על בני נוער בעולם הדיגיטלי. התוכנית כוללת מנגנוני בטיחות, עיצוב מותאם לגיל הילדים, והשתתפות של שותפים שונים כדי לוודא שה-AI לא רק בטוח אלא גם מעצים את הדור הצעיר. במילים אחרות - OpenAI מנסה להוכיח שאפשר להשתמש ב-AI בדרך שלא מפחידה ואמא שלך.\n\nמקור: OpenAI Blog",
     "d": "Thu, 06 Nov 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -10397,7 +10393,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 416,
-    "t": "AI progress and recommendations\n\nAI is advancing fast. We have the chance to shape its progress—toward discovery, safety, and a better future for everyone.",
+    "t": "התקדמות ה-AI והמלצות לעתיד\n\nה-AI מתקדם בקצב משגע וזה בדיוק הרגע שלנו להשפיע על הכיוון שבו הוא הולך - לכיוון של גילויים, בטיחות ועתיד טוב יותר לכולנו. OpenAI מדברת על החשיבות של to shape את ההתפתחות הבאות כבר עכשיו, עד שזה עדיין בידנו.",
     "d": "Thu, 06 Nov 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -10410,9 +10406,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -10420,7 +10419,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 417,
-    "t": "How CRED is tapping AI to deliver premium customer experiences\n\nCRED is improving premium customer experiences in India with OpenAI, using GPT-powered tools to boost support accuracy, cut response times, and raise customer satisfaction.",
+    "t": "CRED משתמשת ב-AI כדי להעניק חוויות פרימיום לכל לקוח\n\nCRED, פלטפורמת ה-fintech המובילה בהודו, משתלבת עם OpenAI ו-GPT כדי להעלות את רמת שירות הלקוחות שלה למימד חדש לגמרי. בעזרת הטכנולוגיה הזאת הם מצליחים להאיץ תגובות, להפחית טעויות תמיכה ובסופו של דבר למקסום את שביעות הרצון של המשתמשים - כי בעולם ה-fintech, מילימטר אחד של עדיפות בשירות זה הכל.",
     "d": "Wed, 05 Nov 2025 21:30:00 GMT",
     "v": 0,
     "l": [
@@ -10446,7 +10445,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 418,
-    "t": "How Chime is redefining marketing through AI\n\nChime CMO Vineet Mehra shares how AI is reshaping marketing into an agent-driven model and why leaders who prioritize AI literacy and thoughtful adoption will drive growth.",
+    "t": "איך Chime משנה את עולם השיווק באמצעות AI\n\nסגן נשיא השיווק של Chime, ויניט מהרה, מספר איך AI הופכת את השיווק לדגם מונע על ידי agents ולמה מנהיגים שמשקיעים בהבנת AI וביישום תבונים שלה יהיו הזוכים בגדול. זה לא פשוט automation - זה סדר גמור חדש של עבודה בחזית השיווק.",
     "d": "Wed, 05 Nov 2025 15:00:00 GMT",
     "v": 0,
     "l": [
@@ -10470,7 +10469,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 419,
-    "t": "1 million business customers putting AI to work\n\nMore than 1 million business customers around the world now use OpenAI. Across healthcare, life sciences, financial services, and more, ChatGPT and our APIs are driving a new era of intelligent, AI-powered work.",
+    "t": "מיליון לקוחות עסקיים משתמשים ב-AI כבר היום\n\nOpenAI הודיעה שיותר ממיליון עסקים ברחבי העולם משתמשים בפלטפורמה שלה. מחברות בתחומי בריאות, מימון וביוטכנולוגיה כבר מכניסות את ChatGPT והـ APIs למערכות העבודה שלהם, ובכך משנות את הדרך שבה חברות עובדות עם AI. זה לא רק טרנד - זה המציאות העסקית של ימינו.",
     "d": "Wed, 05 Nov 2025 05:00:00 GMT",
     "v": 0,
     "l": [
@@ -10496,7 +10495,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 420,
-    "t": "Brazil’s AI moment is here\n\nBrazil is now one of the most engaged countries in the world when it comes to AI. From classrooms to farms and small businesses, Brazilians are using OpenAI products to learn, create, and drive innovation.",
+    "t": "הרגע של AI של ברזיל הגיע\n\nברזיל הפכה לאחת המדינות הפעילות ביותר בעולם בתחום ה-AI, וכל מיני דברים קורים שם - מכיתות בבתי ספר ועד לחקלאות וקטנטנות עסקיות. הברזילאים משתמשים בכל מיני כלים מ-OpenAI כדי ללמוד, ליצור דברים חדשים ולדחוף קדימה את ההיסטוריה של החדשנות בדרכם הייחודית.",
     "d": "Tue, 04 Nov 2025 15:30:00 GMT",
     "v": 0,
     "l": [
@@ -10522,7 +10521,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 421,
-    "t": "Introducing IndQA\n\nOpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge areas.",
+    "t": "הכירו את IndQA - בנצ'מארק חדש של OpenAI\n\nOpenAI בחרה להציג IndQA, בנצ'מארק חדש שמעריך AI בשפות הודיות - ויש לזה משמעות גדולה. התוכנית בוחנת את יכולת המודלים להבין תרבות וללכת בנימוקים מורכבים על פני 12 שפות וכ-10 תחומי ידע שונים, והכל בעזרת expertos מתחום. זה חלק מהמאמץ הגדול יותר לעשות AI שאכן מבין שפות ותרבויות שלא אנגלית-מרוכזות.",
     "d": "Mon, 03 Nov 2025 22:30:00 GMT",
     "v": 0,
     "l": [
@@ -10548,7 +10547,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 422,
-    "t": "AWS and OpenAI announce multi-year strategic partnership\n\nOpenAI and AWS have entered a multi-year, $38 billion partnership to scale advanced AI workloads. AWS will provide world-class infrastructure and compute capacity to power OpenAI’s next generation of models.",
+    "t": "AWS וOpenAI הכריזו על שותפות אסטרטגית רב-שנתית\n\nOpenAI ו-AWS חתמו על חוזה ענק בשווי 38 מיליארד דולר שיימשך שנים רבות, וזה בעצם אומר שAWS תהיה הגב החזק של OpenAI בעולם ה-infrastructure וה-compute. ההשקעה הענקית הזו מכוונת להנעת דור הבא של מודלי AI חזקים של OpenAI, וכמעט וודאי שזה יעזור להם לחרוג עוד יותר מהמתחרים. זו עוד דוגמה לאיך שענקי הטק משלבים כוחות כדי לשלוט בעולם ה-AI שמתהווה.",
     "d": "Mon, 03 Nov 2025 06:00:00 GMT",
     "v": 0,
     "l": [
@@ -10568,16 +10567,15 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news",
       "model",
-      "product",
-      "funding"
+      "product"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 423,
-    "t": "Expanding Stargate to Michigan\n\nOpenAI is expanding Stargate to Michigan with a new one-gigawatt campus that strengthens America’s AI infrastructure. The project will create jobs, drive investment, and support economic growth across the Midwest.",
+    "t": "הרחבת Stargate למישיגן\n\nOpenAI משקיעה בגדול במישיגן עם קמפוס חדש בחספק של גיגווט אחד, שמחזק את התשתיות ה-AI של אמריקה. הפרויקט הענק יצור הרבה מקומות עבודה, יביא השקעות לאזור ומאיץ את הצמיחה הכלכלית במערב התיכון - חלק ממהלך גדול של OpenAI לשלוט בעוד יותר בגדלי החישובים שצריכים לאימון מודלים AI מתקדמים.",
     "d": "Thu, 30 Oct 2025 13:30:00 GMT",
     "v": 0,
     "l": [
@@ -10595,8 +10593,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -10604,7 +10601,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 424,
-    "t": "Introducing Aardvark: OpenAI’s agentic security researcher\n\nOpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.",
+    "t": "הכירו את Aardvark: חוקר הביטחון של OpenAI\n\nOpenAI שחררה את Aardvark, כלי AI חדש שמצא אוטומטית חולשות בקוד ובודק אותן בקנה מידה ענק - בלי צורך בחוקרי ביטחון אנושיים. המערכת עדיין בבטא סגורה, אבל אתם יכולים להירשם כדי להיות בין הראשונים שמנסים אותה ולעזור לתקן באגים לפני שהם הופכים לאיום אמיתי.",
     "d": "Thu, 30 Oct 2025 11:00:00 GMT",
     "v": 0,
     "l": [
@@ -10622,10 +10619,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "robotics",
-      "security",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -10657,7 +10651,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 426,
-    "t": "How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas\n\nA deep dive into OWL, the new architecture powering ChatGPT Atlas—decoupling Chromium, enabling fast startup, rich UI, and agentic browsing with ChatGPT.",
+    "t": "כך בנינו את OWL - הארכיטקטורה החדשה מאחורי Atlas, הדפדפן המבוסס על ChatGPT\n\nOpenAI פתחה את הקופסה השחורה של OWL, הארכיטקטורה המהפכנית שמונעת את Atlas - הדפדפן החדש שלהם. בעזרת הפרדת Chromium וחכמות טכניות אחרות, הם הצליחו לבנות דפדפן שמתחיל במהירות ברק, מציע ממשק עשיר, ותומך בעגילות של ChatGPT שפועלות כמו סוכן בעל בחירה חופשית. בהקצר: זו הצטלבות מושקללת של דפדפן מודרני וAI תבוני.",
     "d": "Thu, 30 Oct 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -10675,8 +10669,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -10707,7 +10700,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 428,
-    "t": "gpt-oss-safeguard technical report\n\ngpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see ",
+    "t": "דוח טכני: GPT-OSS-Safeguard - מודלים פתוחים לשמירה על תוכן בטוח\n\nOpenAI השיקה שני מודלי reasoning בקוד פתוח - GPT-OSS-Safeguard-120B ו-20B - שמיוחדים במשימה אחת: להעריך תוכן לפי כללי בטיחות ספציפיים. המודלים האלו למדו לחשוב על פי פוליסה מוגדרת מראש וללמוד כיצד לסווג תוכן באופן אמין. בדוח הטכני, החברה חוקרת את היכולות שלהם ומציגה הערכות בטיחות כדי להראות איך הם עושים את העבודה בהשוואה למודלים הבסיסיים.",
     "d": "Wed, 29 Oct 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -10720,19 +10713,20 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
       "news",
-      "regulation",
-      "funding"
+      "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 429,
-    "t": "Introducing gpt-oss-safeguard\n\nOpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
+    "t": "הכירו את gpt-oss-safeguard\n\nOpenAI הכניסה דגמי reasoning בקוד פתוח שמאפשרים למפתחים לבנות מערכות בטיחות מותאמות לצרכיהם. כל אחד יכול עכשיו ליישם ולשפר את ה-safety policies שלו בלי להיות תלוי בפתרון סגור, וזה משנה את המשחק בשביל מי שרוצה שליטה יותר גדולה על הביטחון של ה-AI שלו. 🔒",
     "d": "Wed, 29 Oct 2025 00:00:00 GMT",
     "v": 0,
     "l": [
