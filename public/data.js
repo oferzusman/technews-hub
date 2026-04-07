@@ -10452,7 +10452,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 431,
-    "t": "America’s Largest Hospital System Ready to Start Replacing Radiologists With AI, Its CEO Says\n\n\"Only someone with zero understanding of radiology would say something so naive.\"\nThe post America’s Largest Hospital System Ready to Start Replacing Radiologists With AI, Its CEO Says appeared first on Futurism.",
+    "t": "מערכת בתי החולים הגדולה בארה״ב מוכנה להחליף רדיולוגים ב-AI - לפי המנכ״ל\n\nמנכ״ל מערכת בתי החולים הגדולה בארה״ב הכריז שהם עומדים להתחיל להחליף רדיולוגים ב-AI, אבל הטענה שלו עוררת ביקורת חריפה מהעולם הרפואי. מומחים בתחום בטענים שרק מישהו שלא מבין כלום ברדיולוגיה יכול להגיד דבר כל כך天真, ונראה שיש כאן דיון חם סביב היכולת של AI להחליף רופאים אדיבים. זה עוד פרק בעימות הכבד בין טכנולוגיה לתחום הבריאות.",
     "d": "Sat, 04 Apr 2026 12:45:00 -0400",
     "v": 0,
     "l": [
@@ -10502,7 +10502,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 433,
-    "t": "AI Forces College Professor to Get Typewriters for Entire Class\n\nModern problems required antiquated solutions.\nThe post AI Forces College Professor to Get Typewriters for Entire Class appeared first on Futurism.",
+    "t": "AI כל כך חזק שפרופסור באוניברסיטה נאלץ לחזור למכונות כתיבה\n\nבצעד שנראה כמו קפיצה ישירה לשנות ה-70, פרופסור מכללה החליט שהדרך היחידה להילחם בבעיות ה-AI וההעתקות של סטודנטים היא... להחליף את המחשבים במכונות כתיבה ישנות! כי אוקיי, אם AI לא יכולה להבין טיפול בדפים פיזיים וטקסט ידני, אז זה פשוט גדול.",
     "d": "Sat, 04 Apr 2026 12:00:00 -0400",
     "v": 0,
     "l": [
@@ -10574,7 +10574,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 436,
-    "t": "Claude Leak Shows That Anthropic Is Tracking Users’ Vulgar Language and Deems Them “Negative”\n\n\"Anthropic is tracking how often you rage at your AI.\"\nThe post Claude Leak Shows That Anthropic Is Tracking Users’ Vulgar Language and Deems Them “Negative” appeared first on Futurism.",
+    "t": "דליפה חושפת: Anthropic עוקבת אחרי שימוש במילים גסות של משתמשים ומסווגת אותם כ\"שליליים\"\n\nמתברר שAnthropric לא רק שומעת אתכם כשאתם מתגרים ב-Claude - היא גם שומרת רשימה של כל מי שמשתמש בשפה גסה ותיוג אותם כ\"משתמשים שליליים\". זה אומר שהחברה בעצם עוקבת אחרי ההתנהגות שלכם כדי לסווג את האישיות שלכם, וזה מעלה שאלות לא קטנות על פרטיות והצפיפות במצבי השימוש שלנו ב-AI.",
     "d": "Sat, 04 Apr 2026 11:15:00 -0400",
     "v": 0,
     "l": [
@@ -10695,7 +10695,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 441,
-    "t": "The Real Reason OpenAI Shut Sora Down Is a Warning to Every AI Startup\n\nFounders beware.\nThe post The Real Reason OpenAI Shut Sora Down Is a Warning to Every AI Startup appeared first on Futurism.",
+    "t": "הסיבה האמיתית שOpenAI סגרה את Sora היא אזהרה לכל startup של AI\n\nOpenAI החליטה לסגור את Sora וזה לא קרה בלי סיבה - יש כאן lesson חשוב שכל מייסד startup בתחום AI צריך להבין. זהו אות קריאה על הכוחות החיצוניים שמשפיעים על החברות הגדולות בתחום, והוא עשוי לשנות את הדרך שבה אנחנו חושבים על עתיד של AI ב-industry.",
     "d": "Sat, 04 Apr 2026 09:45:00 -0400",
     "v": 0,
     "l": [
@@ -10771,7 +10771,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 444,
-    "t": "William Shatner Says AI Is Spreading Horrific Rumors About Him\n\n\"My daughter came over to tell me her daughter heard that I had brain cancer.\"\nThe post William Shatner Says AI Is Spreading Horrific Rumors About Him appeared first on Futurism.",
+    "t": "וויליאם שטנר מתלונן: AI מפיץ שמועות נוראיות עליו\n\nוויליאם שטנר התלונן שמודלי AI מפיצים מידע שווא עליו, כולל טענות כזב על בעיות בריאותיות. הלהיט של סדרת הטלוויזיה הקלאסית Star Trek גילה שאפילו קרובי משפחה שלו חוקים על השמועות האלו ברשת. זו עוד הוכחה לבעיה הגדלה של מידע מזויף המיוצר ע\"י מערכות AI וההשפעה שלו על אנשים בעולם האמיתי.",
     "d": "Sat, 04 Apr 2026 09:00:00 -0400",
     "v": 0,
     "l": [
@@ -10840,7 +10840,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 447,
-    "t": "AI Is Killing Microsoft\n\n\"Redmond is in a pickle.\"\nThe post AI Is Killing Microsoft appeared first on Futurism.",
+    "t": "בינה מלאכותית הורגת את מיקרוסופט\n\nמיקרוסופט מוצאת את עצמה בסיטואציה די מורכבת. ההשקעות הענקיות של הענקית בתחום ה-AI לא בהכרח משתלמות כמו שקיוו, וזה משאיר את Redmond עם כמה כאבי ראש אמיתיים בעולם שמשתנה במהירות ברק. למעשה, היוקרה של מיקרוסופט בשוק עלול להיות בסכנה כשחברות קטנות וזרזות יותר נוחות יותר במשחק ה-AI.",
     "d": "Sat, 04 Apr 2026 08:15:00 -0400",
     "v": 0,
     "l": [
@@ -10853,12 +10853,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/ai-killing-microsoft.jpg?quality=85",
@@ -10964,7 +10961,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 452,
-    "t": "Scientists Say They’ve Found “Dark Points” That Move Faster Than the Speed of Light\n\nThese points of \"complete darkness\" inside light waves could be moving faster than light.\nThe post Scientists Say They’ve Found “Dark Points” That Move Faster Than the Speed of Light appeared first on Futurism.",
+    "t": "מדענים: גילינו 'נקודות חושך' שנעות מהר יותר ממהירות האור\n\nחוקרים טוענים שגילו תופעה משונה - נקודות של חושך מוחלט שנוסעות בתוך גלי אור וכנראה חוצות את מהירות האור. אם התגלית הזו אמיתית, היא יכולה להפוך את ההבנה שלנו על הפיזיקה הבסיסית, כי לפי איינשטיין שום דבר לא אמור לנוע יותר מהר מהאור.",
     "d": "Sat, 04 Apr 2026 06:45:00 -0400",
     "v": 0,
     "l": [
@@ -10987,7 +10984,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 453,
-    "t": "EPA Now Values Human Lives at $0\n\n\"When you allow people to lead longer and healthier lives, that has value that can be measured in dollars.\"\nThe post EPA Now Values Human Lives at $0 appeared first on Futurism.",
+    "t": "EPA מחליטה שחיי אדם שווים $0\n\nבצעד שגרם למחלוקת, הסוכנות הסביבתית האמריקאית הודיעה שהיא מבטלת את החישוב הכלכלי של שווי החיים האנושיים בהחלטותיה הרגולטוריות. עד עכשיו, הסוכנות הערכה כל חיי אדם בסביבות $10 מיליון בהקשר של סכנות בריאותיות, אבל לפי ההחלטה החדשה, זה כבר לא משמש כמדד לקבלת החלטות סביבתיות. ההחלטה עוררת שאלות חוקתיות וערכיות על איך יעריכו רגולטורים סיכונים בריאותיים בעתיד.",
     "d": "Sat, 04 Apr 2026 06:00:00 -0400",
     "v": 0,
     "l": [
@@ -11155,7 +11152,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 460,
-    "t": "Say a Prayer for This Startup That’s Replacing Its Developers With OpenClaw\n\n\"I can replace everyone with AI.\"\nThe post Say a Prayer for This Startup That’s Replacing Its Developers With OpenClaw appeared first on Futurism.",
+    "t": "תחזקו לסטארטאפ שמחליף את המפתחים שלו ב-OpenClaw\n\nסטארטאפ אחד החליט לקחת את הדברים לקצה ולהחליף את כל צוות הדיבלופרים שלו ב-AI - כי למה שתשלמו לאנשים כשיש לכם OpenClaw? זה בדיוק המופע שלנו: חברה שמעז להגיד \"אנחנו יכולים להחליף את כולם בבינה מלאכותית\" ובאמת מנסה זאת, כל זאת תוך כדי שתהיו חוקם בדיוק איפה זה הולך. מקור: Futurism",
     "d": "Fri, 03 Apr 2026 22:30:00 -0400",
     "v": 0,
     "l": [
@@ -11278,7 +11275,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 465,
-    "t": "Two OpenAI Execs, Including CEO of AGI, Going on Medical Leave\n\n\"We're well-positioned to keep executing with continuity and momentum.\"\nThe post Two OpenAI Execs, Including CEO of AGI, Going on Medical Leave appeared first on Futurism.",
+    "t": "שני מנהלים בOpenAI, כולל מנכ\"ל חטיבת AGI, יוצאים לחופשת בריאות\n\nOpenAI מודיעה ששניים מהמנהלים המשפיעים שלה יוצאים לחופשת רפואית, אבל החברה מדגישה שהיא ממשיכה בתנופה מלא ובמסגרת יציבה. האופ'יים בקופלנד וגוונדל הם חלק מהמובילים בחברה שנלחמת על הידברות הראשונה בעולם ה-AGI.",
     "d": "Fri, 03 Apr 2026 18:30:00 -0400",
     "v": 0,
     "l": [
@@ -11404,7 +11401,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 470,
-    "t": "The White House Is Still Desperately Trying to Slash NASA’s Budget\n\n\"This proposal needlessly resurrects an existential threat to US leadership in space science and exploration.\"\nThe post The White House Is Still Desperately Trying to Slash NASA’s Budget appeared first on Futurism.",
+    "t": "הבית הלבן עדיין מנסה בנואי להקטין את תקציב NASA\n\nהממשלה האמריקאית מחדשת את ההצעה להקטין את תקציב סוכנות החלל, צעד שעלול לפגוע בתחרות ובעדיפות של ארה\"ב בתחום מחקר החלל וחקר החלל. ההצעה זו פוגעת בשיתופי פעולה מדעיים חשובים וברכישת טכנולוגיות קריטיות בתחום.",
     "d": "Fri, 03 Apr 2026 17:30:00 -0400",
     "v": 0,
     "l": [
@@ -11545,7 +11542,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 476,
-    "t": "Sam Altman Opens Up About Telling CEO of Disney That It Had All Been Smoke and Mirrors\n\nAltman said he felt \"super sad\" about blowing up the $1 billion deal.\nThe post Sam Altman Opens Up About Telling CEO of Disney That It Had All Been Smoke and Mirrors appeared first on Futurism.",
+    "t": "סם אלטמן חושף: אמר ל-CEO של דיסני שהכל היה עשן ומראות\n\nאלטמן התוודה שהוא הרגיש 'עצוב מאוד' על פיצוץ העסקה של מיליארד דולר עם דיסני. במקום להמשיך בשיתוף פעולה, אלטמן החליט לעצור את כל ההשקעה - צעד שהעניק לו יותר חופש לפתח את OpenAI, אבל לא בלי תחושת מ苦.",
     "d": "Fri, 03 Apr 2026 16:32:38 -0400",
     "v": 0,
     "l": [
@@ -11558,12 +11555,14 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
       "news",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/sam-altman-disney-sora.jpg?quality=85",
     "source": "Futurism"
   },
@@ -11854,7 +11853,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 489,
-    "t": "Dozens of Robotaxis In China Stop Dead in the Middle of Roads and Highways, Causing Crashes\n\nAbsolute mayhem.\nThe post Dozens of Robotaxis In China Stop Dead in the Middle of Roads and Highways, Causing Crashes appeared first on Futurism.",
+    "t": "עשרות רכבים אוטונומיים בסין נעצרו באמצע הכביש וגרמו לתאונות\n\nסיוט על הכביש: עשרות טקסיות רובוטיות סיניות פשוט עמדו בתוך הדרך בלי הודעה, וזה הסתיים בהידבקויות וכאוס תנועה כללי. זאת כנראה לא בדיוק ההצגה שהחברות טכנולוגיה היו רוצות שתהיה לעולם, אבל בחבר'ה בסין הם פשוט גילו שיש עוד כמה באגים שצריך לפתור בזמן זה.",
     "d": "Fri, 03 Apr 2026 12:58:25 -0400",
     "v": 0,
     "l": [
@@ -11869,8 +11868,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/robotaxis-stopped-highways-crashes.jpg?quality=85",
@@ -11878,7 +11876,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 490,
-    "t": "The Moon Astronauts Brought Along USB Stick-Sized Living Samples of Their Own Tissue\n\n\"This is the first time we're going to have crew with their matched organ chips.\"\nThe post The Moon Astronauts Brought Along USB Stick-Sized Living Samples of Their Own Tissue appeared first on Futurism.",
+    "t": "אסטרונאוטים לירח לקחו איתם דגימות חיות של רקמות משלהם בגודל כונן USB\n\nבפעם הראשונה בהיסטוריה, צוות מוחלקות על הירח נושא איתו organ chips התואמים לגנתיקה שלהם - זה כמו קח את הגנים שלך למסע הקוסמי, אבל במינסקול. מדובר על דגימות חיות של רקמות אנושיות בגודל זעיר שיעזרו לחוקרים להבין איך הגוף האנושי מתחשב בחלל העמוק ובתנאים קיצוניים של הירח.",
     "d": "Fri, 03 Apr 2026 11:05:44 -0400",
     "v": 0,
     "l": [
@@ -11947,7 +11945,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 493,
-    "t": "AI-Powered Tractor Startup Burns Through a Quarter Billion Dollars, Fires All Employees in Epic Implosion\n\n\"It totally failed.\"\nThe post AI-Powered Tractor Startup Burns Through a Quarter Billion Dollars, Fires All Employees in Epic Implosion appeared first on Futurism.",
+    "t": "סטארטאپ לטרקטורים בעזרת AI בעירה 250 מיליון דולר וקטל כל העובדים\n\nעוד סטארטאפ AI שהתברר כחלום שנעמד על קרקע רטובה - חברה שהבטיחה למהפוך את החקלאות עם טרקטורים אוטונומיים, בזבזה רבע מיליארד דולר וממילא העיפה את כל הצוות. זה שקרה רק מתאים לתמונה הגדולה - עוד בחורה שחשבה שהיא תשנה את העולם ובסופו של דבר השתחררה משום כיוון.",
     "d": "Fri, 03 Apr 2026 10:30:45 -0400",
     "v": 0,
     "l": [
@@ -11962,10 +11960,9 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/ai-tractor-startup-founders.jpg?quality=85",
     "source": "Futurism"
   },
@@ -12017,7 +12014,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 496,
-    "t": "$60 Million Startup Says It’s Invented a New Particle to Dim the Sun\n\n\"None of us knows what they are hoping to put into the stratosphere — for a profit.\"\nThe post $60 Million Startup Says It’s Invented a New Particle to Dim the Sun appeared first on Futurism.",
+    "t": "סטארטאפ בהשקעה של 60 מיליון דולר טוען שהמציא חלקיק חדש להעמעם של השמש\n\nסטארטאפ חדש מתחזק בעצמו שפיתח טכנולוגיה מהפכנית להצללת השמש על ידי הזרקת חלקיקים חדשים לסטרטוספירה, אבל אף אחד לא בדיוק יודע מה בדיוק הם מתכננים להשיק לשם - וכמובן, הכל זה בעניין הרווח. השאלה שמציפה את כל התעשייה: האם זה באמת חברה מחוננת או שיותר מדי sun-shine בעסקים שמבטיחים להציל את העולם?",
     "d": "Fri, 03 Apr 2026 09:36:21 -0400",
     "v": 0,
     "l": [
