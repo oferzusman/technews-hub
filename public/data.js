@@ -5407,7 +5407,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 221,
-    "t": "Mixture of Experts (MoEs) in Transformers",
+    "t": "Mixture of Experts (MoEs) בטרנספורמרים\n\nHugging Face סוקרים את טכנולוגיית ה-Mixture of Experts שמשנה את המשחק בעולם ה-AI - שיטה חכמה שבה הרשת משתמשת רק בחלק מ-parameters שלה לכל משימה, במקום להפעיל את כל המודל בכל פעם. זה אומר מודלים גדולים יותר שעובדים בהרבה יותר יעילות, וזה בדיוק מה שצריך כדי לאמן ודיפלוי מודלים ענקיים בלי להשתגע על עלויות ה-compute. סוג של כוח עליון למודלי foundation שרוצים להיות גם חכמים וגם חסכוניים.",
     "d": "Thu, 26 Feb 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -5839,7 +5839,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 238,
-    "t": "Custom Kernels for All from Codex and Claude",
+    "t": "Kernels מותאמים אישית לכולם מ-Codex ו-Claude\n\nAnthropic וCodex משתפות פעולה כדי להביא לכם kernels מותאמים אישית שאפשר להשתמש בהם בקלות, גם אם אתם לא מומחים בתכנות. זה בעצם אומר שכל אחד יכול עכשיו ליצור כלים וחישובים מותאמים למה שצריך לו, בלי צרובים גדולים. עוד צעד גדול בכיוון הדמוקרטיזציה של AI וכלים מתקדמים.",
     "d": "Fri, 13 Feb 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -5891,7 +5891,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 240,
-    "t": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
+    "t": "OpenEnv בפעולה: הערכת agents המשתמשים בכלים בסביבות אמיתיות\n\nחוקרים מהקהילה בדקו איך AI agents יכולים להשתמש בכלים אמיתיים ולא בסימולציות בלבד, וזה הרבה יותר מסובך מאשר זה נראה. זה כמו ההבדל בין לבחון רובוט במעבדה לבין להשיג אותו בשטח - ב-OpenEnv הם בנו סביבה מעניינת שבה agents יכולים באמת לטעות ולהשיג תוצאות מציאותיות.",
     "d": "Thu, 12 Feb 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -5994,7 +5994,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 244,
-    "t": "Transformers.js v4: Now Available on NPM!",
+    "t": "Transformers.js v4: זה כבר בNPM!\n\nהוא כאן! גרסה 4 של Transformers.js הגיעה לNPM והיא מוכנה לפעולה. זו ספרייה מדהימה שמאפשרת לחברים שלנו מפתחים להריץ מודלי AI ישירות בדפדפן בלי צורך בשרתים כבדים - פשוט JavaScript וחסל. Hugging Face עשו עבודה מעולה בעדכון הזה ויש כאן כמה features חדשות וטוב לתפוס את זה עכשיו.",
     "d": "Mon, 09 Feb 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -6043,7 +6043,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 246,
-    "t": "Introducing SyGra Studio",
+    "t": "להציג את SyGra Studio\n\nHugging Face הציגה את SyGra Studio, כלי חדש שנועד להקל על פיתוח וניהול של מודלי AI. הפלטפורמה מאפשרת למפתחים לעבוד עם מודלים בצורה יותר אינטואיטיבית וגמישה, תוך שימוש בממשק משתמש חזק שמחברת בין תיכנות מדעי נתונים לבין פיתוח יישומים. זו נחמה טובה לכל מי שרוצה להכניס AI למוקד הפעולה שלו בלי הצרות.",
     "d": "Thu, 05 Feb 2026 16:52:28 GMT",
     "v": 0,
     "l": [
@@ -6250,7 +6250,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 254,
-    "t": "Community Evals: Because we're done trusting black-box leaderboards over the community",
+    "t": "Community Evals: כי סיימנו להאמין לדירוגים שחורים שמופיעים ברשימות\n\nHugging Face משיקה initiative חדשה שמעניקה לקהילה הטכנולוגית את הכוח לבדוק ולדרג מודלי AI בעצמם, במקום להסתמך על לוח דירוגים סגור וחסר שקיפות. זה עוד צעד במהלך למסורות פתוחות ושקופות יותר בעולם ה-AI, שבו הקהילה היא שמחליטה מי הטוב ביותר.",
     "d": "Wed, 04 Feb 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -6273,7 +6273,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 255,
-    "t": "H Company's new Holo2 model takes the lead in UI Localization",
+    "t": "מודל Holo2 החדש של H Company מוביל בתחום localization של ממשקי משתמש\n\nH Company הציגה את Holo2, מודל שחוצה סף חדש בהתאמת ממשקי משתמש לשפות ותרבויות שונות. המודל מציע שיפור משמעותי בדיוק הTL ובקומפטיביליות של UI elements בעברית וזרזי שפות נוספים, מה שהופך אותו לכלי הכי חזק שיש כרגע לדיפלוימנט גלובלי של אפליקציות. כל זה בזכות אדריכלוקטורה משופרת וtraining על מיליארדי דוגמאות של localization בעולם האמיתי.",
     "d": "Tue, 03 Feb 2026 17:40:14 GMT",
     "v": 0,
     "l": [
@@ -6296,7 +6296,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 256,
-    "t": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+    "t": "עתיד האקוסיסטם AI בקוד פתוח הגלובלי: מ-DeepSeek ל-AI+\n\nהמודל החדש של DeepSeek משנה את הכללים של המשחק בעולם ה-AI בקוד פתוח, וזה לא עוד סתם תוצאה טכנית - זה משהו שמעביר את כל הלחץ על השחקנים הגדולים. בעסקית, אנחנו רואים כאן תהפוכה שהופכת את ההשקעות ב-AI ליותר נגישות ופחות קשורות לבנק של מטבע בחו\"ל, וזה משפיע על כולנו בישראל מבחינת השכרות וקצבי ההתפתחות של סטארטאפים.",
     "d": "Tue, 03 Feb 2026 15:03:19 GMT",
     "v": 0,
     "l": [
@@ -6319,7 +6319,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 257,
-    "t": "Training Design for Text-to-Image Models: Lessons from Ablations",
+    "t": "עיצוב אימון למודלי Text-to-Image: שיעורים מהנסויים\n\nחוקרי Hugging Face חקרו מה באמת משנה בעת אימון מודלים שמתרגמים טקסט לתמונות, ופרסמו תגליות מעניינות על איזה קומפוננטים של התהליך באים בחשבון הכי הרבה. התוצאות שלהם יכולות לעזור למפתחים להבין איך לבנות מודלים יותר טובים בצורה יותר יעילה, וזה משהו שיהיה רלוונטי לכל מי שעובד עם generative AI בימים אלה. מעולם לא היה כל כך חשוב להבין את ה-behind-the-scenes של מודלים כאלה!",
     "d": "Tue, 03 Feb 2026 11:25:53 GMT",
     "v": 0,
     "l": [
@@ -6500,7 +6500,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 264,
-    "t": "Introducing Daggr: Chain apps programmatically, inspect visually",
+    "t": "Daggr: שרשור אפליקציות בתוכנה, בדיקה חזותית\n\nHugging Face הציגה את Daggr, כלי חדש שמאפשר למפתחים לשרשר אפליקציות ודגמי AI בצורה פרוגרמטית תוך כדי ביצוע בדיקה חזותית של הזרימות. זה נראה כמו משהו שייחסוך לנו המון כאב ראש כשמנסים לחבר בין AI models שונים בפרויקט אחד.",
     "d": "Thu, 29 Jan 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -6601,7 +6601,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 268,
-    "t": "We Got Claude to Build CUDA Kernels and teach open models!",
+    "t": "הצלחנו להדריך את Claude לכתוב CUDA Kernels וללמד מודלים פתוחים!\n\nזה די מטורף - הצליחו להשתמש ב-Claude כדי ליצור CUDA kernels (קוד אופטימיזציה עמוק לכרטיסי גרפיקה) ובו זמנית להדריך מודלים open source. בעצם, זה אומר שאתה יכול להשתמש ב-Claude כדי לכתוב קוד מתקדם לביצועים גבוהים ותוך כדי זה הוא גם מעביר ידע למודלים בקוד פתוח - תגובה חכמה מאוד לשחק עם LLMs. מקור: Hugging Face Blog",
     "d": "Wed, 28 Jan 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -6629,7 +6629,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 269,
-    "t": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
+    "t": "בחירות ארכיטקטוניות בעולם ה-AI הפתוח של סין: בניית עולם מעבר ל-DeepSeek\n\nסין לא עומדת רק ליד DeepSeek - היא בונה מעכשיו את כל הערכת מודלים פתוחים של הבא. הפוסט מעמיק בבחירות האדריכליות המעניינות שקובעות הנוער של AI בחברה הסינית: איך הם בונים מודלים יעילים, מה ההבדלים בגישה שלהם לעומת המערב, וכמה זה משנה את המשחק הגלובלי של open-source AI. כל מודל חדש זה אומר משהו חשוב על הדרך שהסינים רואים את עתיד ה-AI. | מקור: Hugging Face Blog",
     "d": "Tue, 27 Jan 2026 15:01:45 GMT",
     "v": 0,
     "l": [
@@ -6652,7 +6652,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 270,
-    "t": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
+    "t": "Alyah ⭐️: הערכה חזקה של יכולות LLMs בדיאלקט אמירתי\n\nחוקרים פיתחו בנק בדיקות חדש בשם Alyah כדי להעריך כיצד מודלי שפה גדולים מתמודדים עם הדיאלקט האמירתי, ומצאו שרוב ה-LLMs עדיין מתקשים בעברית ובשפות ערביות אחרות. המחקר משדר אור על הפער בין יכולות המודלים בערבית קלאסית למול השפות המדוברות בעולם הערבי האמיתי. זה חשוב במיוחד כשמדובר בתרבויות מסוגיות שהמודלים צריכים להבין טוב יותר.",
     "d": "Tue, 27 Jan 2026 10:26:42 GMT",
     "v": 0,
     "l": [
@@ -6667,8 +6667,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn-uploads.huggingface.co/production/uploads/659bc8a7b0f43ed69f0b2300/onlBsI7RckKVGphzfZJjp.png",
@@ -6702,7 +6701,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 272,
-    "t": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
+    "t": "פתיחת דלתות ה-Agentic RL לגיפיטי קוד פתוח: סיכום מעשי\n\nצוות Hugging Face חוזר על הניסיון שלהם בהכשרת מודלי שפה קוד פתוח עם Reinforcement Learning מסוג Agentic, ומשתפים את הלקחים החשובים שלמדו בדרך. המאמר מציע תובנות מעשיות ויעצות לכל מי שרוצה לאמן אגנטים של AI בשיטות מתקדמות אלה, כולל טעויות נפוצות וכיצד להימנע מהן. זה סיכום מהיר שמראה שגם בעולם ה-AI המתפתח במהירות, יש הרבה דברים שאפשר ללמוד מניסיונות קודמים.",
     "d": "Tue, 27 Jan 2026 01:53:15 GMT",
     "v": 0,
     "l": [
@@ -6961,7 +6960,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 282,
-    "t": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
+    "t": "AssetOpsBench: סגירת הפער בין בנצ'מרקים של סוכני AI למציאות התעשייתית\n\nחוקרים בHugging Face הציגו בנצ'מרק חדש שנועד לבחון את סוכני ה-AI בתנאים שנראים הרבה יותר דומים לעולם האמיתי של ניהול נכסים. עד היום, רוב הבנצ'מרקים בדקו AI בסביבות מלאכותיות וקטנות, אבל AssetOpsBench מחקה תהליכים תעשייתיים אמתיים כדי לראות אם הסוכנים באמת יכולים להתמודד עם המורכבות הלא צפויה. זה גם קורא לרחוק לתוך כיוון שבו נוכל לבדוק AI לא רק בלחץ של דוגמאות קטנות, אלא כשהם צריכים להתמודד עם הכל בו זמנית.",
     "d": "Wed, 21 Jan 2026 06:25:31 GMT",
     "v": 0,
     "l": [
@@ -6976,8 +6975,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn-uploads.huggingface.co/production/uploads/64c47f731d44fc06afc80953/fB0GHxhoG5McKZtklVj_I.png",
@@ -7089,7 +7087,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 287,
-    "t": "One Year Since the “DeepSeek Moment”",
+    "t": "שנה לאחרי רגע ה-DeepSeek\n\nזה כבר שנה מאז ששוק ה-AI התנועע על ידי DeepSeek והכל השתנה - חברות גדולות ופחות גדולות נאלצו לחזור לשולחן הציור וחברים חדשים קפצו לזירה עם חזון שונה לגמרי לגבי איך בונים מודלים חכמים. הרגע הזה לא סתם הרם את המשחק, הוא שינה את כל ההנחות על מה שאפשר ולא אפשר בעולם של הבינה המלאכותית.",
     "d": "Tue, 20 Jan 2026 15:02:10 GMT",
     "v": 0,
     "l": [
@@ -7165,7 +7163,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 290,
-    "t": "Differential Transformer V2",
+    "t": "Differential Transformer V2\n\nיצאה גרסה חדשה של Differential Transformer, מודל ה-AI שמשיפר את האופן בו טרנספורמרים עובדים. החברה מציינת שהגרסה החדשה מביאה שיפורים משמעותיים בביצועים וביעילות, דבר שעשוי להשפיע על הרבה יישומים של AI בעולם התעשייה. זה עוד צעד בדרך להנדסה של מודלים חזקים ויותר חכמים.",
     "d": "Tue, 20 Jan 2026 03:20:57 GMT",
     "v": 0,
     "l": [
@@ -7214,7 +7212,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 292,
-    "t": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
+    "t": "הצגת Waypoint-1: דיפוזיה וידאו אינטראקטיבית בזמן אמת מ-Overworld\n\nחברת Overworld חשפה את Waypoint-1, מודל AI חדשני שמסוגל ליצור וידאו אינטראקטיבי בזמן אמת באמצעות טכנולוגיית video diffusion. הטכנולוגיה הזאת פותחת אפשרויות חדשות בתחום יצירת תוכן דינמי וחווית משתמש אינטראקטיבית, שיכולה להשפיע על תחומים כמו gaming, סימולציות וקריאייטיב.",
     "d": "Tue, 20 Jan 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -7468,7 +7466,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 302,
-    "t": "Open Responses: What you need to know",
+    "t": "תגובות פתוחות: כל מה שצריך לדעת\n\nHugging Face חשפה את פיתוח תגובות פתוחות שעשוי לשנות את דרך עבודתנו עם מודלים של AI. זו יכולה להיות פריצת דרך משמעותית בתחום, במיוחד אם היא מאפשרת למפתחים יותר גמישות בשימוש בפלטפורמה. אם אתם עובדים עם מודלים ב-Hugging Face, כדאי שתתעדכנו על התכונה החדשה הזו.",
     "d": "Thu, 15 Jan 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -7807,7 +7805,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 315,
-    "t": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
+    "t": "NVIDIA Cosmos Reason 2: חשיבה מתקדמת למודלים של AI פיזי\n\nאנווידיה הוציאה את Cosmos Reason 2, מודל חדש שמחזק את היכולות של Physical AI בהבנה ופתרון בעיות מורכבות. המודל החדש מתמקד בהנמקה לוגית ושימוש בעולם הפיזי, מה שאומר שרובוטים ומערכות AI אחרות יוכלו לחשוב בצורה יותר חכמה לפני שהן עושות משהו. זה עוד צעד גדול בדרך לקבל AI ש-'מבינה' את העולם הפיזי באמת. | מקור: Hugging Face Blog",
     "d": "Mon, 05 Jan 2026 22:56:51 GMT",
     "v": 0,
     "l": [
@@ -7833,7 +7831,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 316,
-    "t": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
+    "t": "Falcon-H1-Arabic בא לשחק: מודל AI חדש שמדבר ערבית ברמה הבא\n\nHugging Face הכניסה לשחקן חדש בעולם ה-AI הערבי - Falcon-H1-Arabic, מודל שמשתמש בארכיטקטורה היברידית כדי להבין ולעבד ערבית בצורה훨씬יותר טובה. זה לא סתם model נוסף, אלא פריצת דרך שמנסה להוביל את גבולות ה-language models הערביים להרים חדשים. החברה טוענת שהמודל החדש מציע שיפורים משמעותיים בביצועים וביעילות עבור משימות שונות בערבית.",
     "d": "Mon, 05 Jan 2026 09:16:51 GMT",
     "v": 0,
     "l": [
@@ -7882,7 +7880,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 318,
-    "t": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
+    "t": "NVIDIA מעניקה חיים לאגנטים עם DGX Spark ו-Reachy Mini\n\nNVIDIA השיקה פתרונות חדשים שמשלבים AI agents עם חומware, כשה-DGX Spark מכניס עוצמת חישוב ענקית ו-Reachy Mini הרובוט הקטן שלהם מתרגם את כל זה לפעולות בעולם האמיתי. זה בעצם המתכון שכל אחד רצה - אי אם משהו לחשוב (GPU חזק) ואי אם משהו לעשות (רובוט שדי בהיר).\n\nמקור: Hugging Face Blog",
     "d": "Mon, 05 Jan 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -7935,7 +7933,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 320,
-    "t": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
+    "t": "AprielGuard: מחסום בטיחות וחוסן נגד התקפות לשלא מערכות LLM מודרניות\n\nאפליקציה חדשה שנקראת AprielGuard באה להגן על מודלי שפה גדולים מפני התקפות adversarial ותשובות לא בטוחות. הטול הזה עובד כמו שומר כניסה חכם שמסננת תשובות בעיתיות ומנסה להעלות את החוסן של ה-LLM כנגד ניסיונות היתרמות שונים. זה עוד צעד חשוב בדרך לעשות את מערכות ה-AI שלנו יותר בטוחות ואמינות.",
     "d": "Tue, 23 Dec 2025 14:07:35 GMT",
     "v": 0,
     "l": [
@@ -8193,7 +8191,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 330,
-    "t": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
+    "t": "Tokenization בגרסה 5 של Transformers: פשוטה יותר, ברורה יותר, ומודולרית יותר\n\nHugging Face הביאה עדכון משמעותי לספריית Transformers שמפשט את תהליך ה-tokenization - זה בעצם אומר שהדרך בה מחלקים טקסט למילים קטנות שה-AI יכול להבין הפכה יותר נוחה וגמישה. הקוד כעת ברור יותר וקל יותר לשימוש, מה שיעזור למפתחים לבנות מודלים טובים יותר בקלות רבה יותר.",
     "d": "Thu, 18 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -8216,7 +8214,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 331,
-    "t": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
+    "t": "תקן הערכה פתוח: בדיקת NVIDIA Nemotron 3 Nano עם NeMo Evaluator\n\nNVIDIA הציגה דרך חדשה וסטנדרטית למדוד את ביצועי מודלי AI שלהם, ובדקה את Nemotron 3 Nano - מודל קומפקטי שנועד לעבוד גם על חומרה צנועה. בעזרת כלי ה-NeMo Evaluator שלהם, הם מצביעים על דרך אפקטיבית יותר להשוות בין מודלים שונים בצורה שקופה וחוזרת על עצמה, מה שיכול להפוך את תחום ה-AI להרבה יותר ברור לכולנו.",
     "d": "Wed, 17 Dec 2025 13:22:18 GMT",
     "v": 0,
     "l": [
@@ -8234,8 +8232,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "hardware",
-      "funding"
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://cdn-uploads.huggingface.co/production/uploads/688cf7e6026af0cf8ac969dd/6RiFGxMzn9Fmgml83fK8G.jpeg",
@@ -8400,7 +8397,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 338,
-    "t": "CUGA on Hugging Face: Democratizing Configurable AI Agents",
+    "t": "CUGA ב-Hugging Face: הנגשת AI Agents ניתנים להתאמה לכולם\n\nHugging Face משיקה את CUGA, כלי חדש שמאפשר לכל אחד ללא צורך בידע עמוק בקודינג ליצור AI agents שמותאמים לצרכים מסוגלים. זה בעצם דמוקרטיזציה של טכנולוגיית ה-AI - במקום שרק מהנדסים ישחקו עם המודלים החזקים, עכשיו כל מי שרוצה יכול לבנות אגנטים חכמים לפי הצורך שלו. מדובר בצעד משמעותי בהנגשת AI לקהל הרחב.",
     "d": "Mon, 15 Dec 2025 16:01:04 GMT",
     "v": 0,
     "l": [
@@ -8503,7 +8500,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 342,
-    "t": "New in llama.cpp: Model Management",
+    "t": "חדש ב-llama.cpp: ניהול מודלים\n\nllama.cpp הוסיף כלים חדשים לניהול מודלים, מה שמקל על המשתמשים להוריד, להעלות וארגן מודלים שונים ישירות דרך הספרייה. זה בדיוק מה שהיה חסר כדי לעבוד עם כמה מודלים בו זמנית בלי כאב ראש - עכשיו זה הרבה יותר נוח ואפילו פחות צריכת זיכרון.",
     "d": "Thu, 11 Dec 2025 15:47:44 GMT",
     "v": 0,
     "l": [
@@ -8687,7 +8684,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 349,
-    "t": "Codex is Open Sourcing AI models",
+    "t": "Codex משחרר את מודלי ה-AI שלו לקוד פתוח\n\nקודקס החליטה לפתוח את הדלתיים ושחרר את מודלי ה-AI שלה לקהילה, מה שאומר שכל מפתח יוכל להשתמש בהם בחינם. זה צעד גדול שמאפשר לעולם הטכנולוגיה הישראלית וגם ברחבי העולם לבנות יישומים חדשים על בסיס המודלים האלה ללא קנסים או מגבלות. מהלך כזה בדרך כלל משנה את כל המשחק בתחום ה-AI, כי הוא דוחף הרבה יותר אנשים להתחיל לנסות וליצור דברים מדליקים.",
     "d": "Thu, 11 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -8968,7 +8965,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 360,
-    "t": "Introducing swift-huggingface: The Complete Swift Client for Hugging Face",
+    "t": "swift-huggingface: הלקוח המלא של Swift עבור Hugging Face\n\nHugging Face הכניסה לבורסה Swift client חדש שמאפשר למפתחים ב-iOS ו-macOS לעבוד בקלות עם מודלי AI מהפלטפורמה המפורסמת. עם הכלי החדש הזה, אתם יוכלו לשלוף מודלים ולהשתמש בהם ישירות בתוך האפליקציות שלכם בלי צרות גדולות, וזה כל כך משהו שהקהילייה של Apple עוד הייתה מחכה לו. זה בעצם עוד צעד חשוב בהנגשת ה-AI לכל מפתח, בין אם אתה בעבודה עם Core ML או שאתה רוצה קצת יותר גמישות.\n\nמקור: Hugging Face Blog",
     "d": "Fri, 05 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -8981,9 +8978,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Apple"
+    ],
     "tags": [
-      "news"
+      "news",
+      "product"
     ],
     "imp": "low",
     "thumb": "https://huggingface.co/blog/assets/swift-huggingface/banner.png",
@@ -9017,7 +9017,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 362,
-    "t": "DeepMath: A lightweight math reasoning Agent with smolagents",
+    "t": "DeepMath: סוכן חישובים קל משקל עם smolagents\n\nHugging Face הציגה את DeepMath, סוכן AI חדש וקומפקטי שמתמחה בפתרון בעיות מתמטיות מורכבות. הטריק של הפרויקט הוא שהוא משתמש בספרייה smolagents, שמאפשרת לבנות אגנטים חכמים ויעילים בקוד מינימליסטי. זה משהו שיכול להיות כלי שימושי למי שרוצה לשלב יכולות חישובים בהשקעה קטנה של משאבים.",
     "d": "Thu, 04 Dec 2025 00:00:00 GMT",
     "v": 0,
     "l": [
