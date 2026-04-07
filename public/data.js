@@ -374,7 +374,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "The one piece of data that could actually shed light on your job and AI\n\nThis story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is spoken about as a given. The mood is so grim that a societal impacts researcher at Anthropic, responding Wednesday to a call for…",
+    "t": "הנתון היחיד שיכול באמת להסביר לכם איך AI משנה את שוק העבודה\n\nבעוד שבסיליקון ווילי כולם מדברים על אפוקליפסה של מחיקת מקומות עבודה בגלל AI כמו דבר מוגזם, חוקרי השפעות חברתיים בחברות כמו Anthropic מנסים להביא קצת מציאות למתח הזה. המאמר בוחן אילו נתונים בעצם חשובים כדי להבין את ההשפעה האמיתית של AI על מקומות העבודה שלנו, במקום להתייסר על תיאוריות אפוקליפטיות.",
     "d": "Mon, 06 Apr 2026 16:33:35 +0000",
     "v": 0,
     "l": [
@@ -689,7 +689,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 29,
-    "t": "AI is changing how small online sellers decide what to make\n\nFor years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever. Even after he stopped offering it around 2017, customers kept sending him emails asking where they could buy it.  When McClary…",
+    "t": "AI משנה את הכללים: יזמים קטנים מגלים מה למכור בעזרת אלגוריתמים\n\nמייק מקלרי מוכר פנסים וציוד חוץ באינטרנט, וכשהפסיק למכור את המוצר הכי פופולרי שלו, הגלגלים לא הרימו. בעזרת כלים של AI, יזמים כמוהו יכולים כעת לנתח ביקוש של לקוחות ולחזור למוצרים שהיו כמעט שכוחים, או אפילו לעיצוב חדש לחלוטין. המהפכה הזו בקבלת החלטות מסחוריות הופכת קטנטנים לעלי יכולת תחקור חזקה כמו החברות הגדולות.",
     "d": "Mon, 06 Apr 2026 11:00:00 +0000",
     "v": 0,
     "l": [
@@ -831,7 +831,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 35,
-    "t": "RightNow AI Releases AutoKernel: An Open-Source Framework that Applies an Autonomous Agent Loop to GPU Kernel Optimization for Arbitrary PyTorch Models\n\nWriting fast GPU code is one of the most grueling specializations in machine learning engineering. Researchers from RightNow AI want to automate it entirely. The RightNow AI research team has released AutoKernel, an open-source framework that applies an autonomous LLM agent loop to GPU kernel optimization for arbitrary PyTorch models. The approach is straightforward: give […]\nThe post RightNow AI Releases AutoKernel: An Open-Source Framework that Applies an Autonomous Agent Loop to GPU Kernel Op",
+    "t": "RightNow AI משיקה את AutoKernel: פריימוורק קוד פתוח שמשתמש ב-Autonomous Agent Loop לאופטימיזציה של GPU Kernels\n\nכתיבת קוד מהיר ל-GPU היא אחת ההתמחויות הקשות ביותר בהנדסת machine learning, אבל חוקרים מ-RightNow AI החליטו שמה צריך להיות אוטומטי. הם השיקו את AutoKernel, פריימוורק קוד פתוח שמשתמש ב-LLM agent loop אוטונומי כדי לעשות אופטימיזציה של GPU kernels לכל מודל PyTorch שתרצו - פשוט תתנו לאגנט לעשות את העבודה.",
     "d": "Mon, 06 Apr 2026 08:20:19 +0000",
     "v": 0,
     "l": [
@@ -853,7 +853,7 @@ window.TELEGRAM_DATA = [
       "robotics",
       "agents"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-1.19.54-AM-1.png",
     "source": "MarkTechPost"
   },
@@ -957,7 +957,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 40,
-    "t": "Meet MaxToki: The AI That Predicts How Your Cells Age — and What to Do About It\n\nMost foundation models in biology have a fundamental blind spot: they see cells as frozen snapshots. Give a model a single-cell transcriptome — a readout of which genes are active in a cell at a given moment — and it can tell you a lot about what that cell is doing right now. What it […]\nThe post Meet MaxToki: The AI That Predicts How Your Cells Age — and What to Do About It appeared first on MarkTechPost.",
+    "t": "פגוש את MaxToki: ה-AI שחוזה איך הגנים שלך מזדקנים — והו מה לעשות בקשר לזה\n\nעד עכשיו, מודלים AI בביולוגיה היו סוכנים סטטיים שלא הבינו שתאים משתנים כל הזמן. MaxToki הוא חדשן במשחק: הוא לא רק קורא צילום של גנים פעילים בתא, אלא גם מנבא איך התא הזה יתפתח בעתיד ויתחיל להזדקן. המערכת הזאת יכולה להשתנות לחלוטין את הדרך שלנו להבין衰老 ולפתח טיפולים חדשים לחלוטין.",
     "d": "Sun, 05 Apr 2026 20:50:14 +0000",
     "v": 0,
     "l": [
@@ -980,7 +980,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 41,
-    "t": "How to Build a Netflix VOID Video Object Removal and Inpainting Pipeline with CogVideoX, Custom Prompting, and End-to-End Sample Inference\n\nIn this tutorial, we build and run an advanced pipeline for Netflix’s VOID model. We set up the environment, install all required dependencies, clone the repository, download the official base model and VOID checkpoint, and prepare the sample inputs needed for video object removal. We also make the workflow more practical by allowing secure terminal-style […]\nThe post How to Build a Netflix VOID Video Object Removal and Inpainting Pipeline with CogVideoX, Custom Prompting, and End-to-End Sample ",
+    "t": "איך לבנות Pipeline להסרת אובייקטים מווידאו בטכנולוגיית Netflix VOID עם CogVideoX\n\nהדרכה מעשית מלאה לבניית Pipeline מתקדם של מודל VOID של Netflix, שמאפשר להסיר אובייקטים מסרטוני וידאו ולהחזיר את הרקע באופן חכם. התיעוד כולל הגדרת סביבה, התקנת כל התלויות הדרושות, הורדת מודלים רשמיים וטעינת דגימות לעיבוד, וגם דרך להפוך את הכלי ליותר מעשי עם ממשק שורת פקודה.",
     "d": "Sun, 05 Apr 2026 20:19:56 +0000",
     "v": 0,
     "l": [
@@ -1262,7 +1262,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 53,
-    "t": "Meet ‘AutoAgent’: The Open-Source Library That Lets an AI Engineer and Optimize Its Own Agent Harness Overnight\n\nThere’s a particular kind of tedium that every AI engineer knows intimately: the prompt-tuning loop. You write a system prompt, run your agent against a benchmark, read the failure traces, tweak the prompt, add a tool, rerun. Repeat this a few dozen times and you might move the needle. It’s grunt work dressed up in […]\nThe post Meet ‘AutoAgent’: The Open-Source Library That Lets an AI Engineer and Optimize Its Own Agent Harness Overnight appeared first on MarkTechPost.",
+    "t": "פגשו את 'AutoAgent': ספריית קוד פתוח שמאפשרת ל-AI להעצמה ולייעל את עצמו בלילה\n\nסוף סוף מישהו פתר את זה: את הלולאה המעייפת של tweaking prompts שכל AI engineer מכיר טוב מדי. AutoAgent היא ספריית קוד פתוח חדשה שמאתתה את כל העבודה הידנית - כתיבת prompt, הרצת בדיקות, קריאת failures, שינוי קוד, הרצה מחדש, חזרה לתחילה. עכשיו האי-אי יכול לעשות את כל הזה בעצמו בלילה, מה שחוסך לכם שעות של trial and error משעמם.",
     "d": "Sun, 05 Apr 2026 09:21:16 +0000",
     "v": 0,
     "l": [
@@ -1312,7 +1312,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 55,
-    "t": "Inside the Creative Artificial Intelligence (AI) Stack: Where Human Vision and Artificial Intelligence Meet to Design Future Fashion\n\nFashion has always been about anticipation, determining what one would prefer to wear before they know it themselves. It’s meant in terms of intuition, presentation, experience, and the “good eye”. Today, it can be conveyed through algorithms, neural networks, and machine learning. Artificial Intelligence is no longer at the dregs, but very much at the […]\nThe post Inside the Creative Artificial Intelligence (AI) Stack: Where Human Vision and Artificial Intelligence Meet to Design Future Fashion",
+    "t": "בתוך ה-AI הקריאטיבי: איך בינה מלאכותית והאינטואיציה האנושית משנים את עולם האופנה\n\nהאופנה תמיד הייתה על היכולת לנחש מה אנשים ירצו ללבוש לפני שהם בעצמם יודעים את זה - זה תמיד היה עניין של 'עיניים טובות' ואינטואיציה. בימינו, חברות אופנה מעבירות את המשחק הזה לעולם ה-AI, עם neural networks ומכונות learning שמנתחות טרנדים וחוזות טעמים כמו מעצב יום אחד עובד. ה-AI כבר לא בשולי התעשייה - הוא ממש במרכז היצירה האופנתית.",
     "d": "Sun, 05 Apr 2026 08:45:37 +0000",
     "v": 0,
     "l": [
@@ -1523,7 +1523,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 64,
-    "t": "Netflix AI Team Just Open-Sourced VOID: an AI Model That Erases Objects From Videos — Physics and All\n\nVideo editing has always had a dirty secret: removing an object from footage is easy; making the scene look like it was never there is brutally hard. Take out a person holding a guitar, and you’re left with a floating instrument that defies gravity. Hollywood VFX teams spend weeks fixing exactly this kind of problem. […]\nThe post Netflix AI Team Just Open-Sourced VOID: an AI Model That Erases Objects From Videos — Physics and All appeared first on MarkTechPost.",
+    "t": "Netflix פתחה את הקוד של VOID: מודל AI שמוחק אובייקטים מווידאו תוך שמירה על הפיזיקה\n\nNetflix זה עתה שחררה לציבור מודל AI חדש שנקרא VOID, שמתמודד עם אחת הבעיות המסובכות ביותר בעריכת וידאו: הסרת אובייקטים מסצנה בצורה שהיא נראית טבעית ופיזיקלית נכונה. עד עכשיו, הקצת את הגיטרה לפי אדם מהסרט הייתה משימה ממש מורכבת שדורשה עבודה ידנית של שבועות שלמים בהוליווד. עם VOID, ה-AI מבין לא רק איך להסתיר אובייקטים אלא גם איך הסצנה אמורה להשתנות במבחינת פיזיקה וזרימה טבעית של התמונה.",
     "d": "Sat, 04 Apr 2026 09:03:26 +0000",
     "v": 0,
     "l": [
@@ -1546,7 +1546,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 65,
-    "t": "How to Build Production-Ready Agentic Systems with Z.AI GLM-5 Using Thinking Mode, Tool Calling, Streaming, and Multi-Turn Workflows\n\nIn this tutorial, we explore the full capabilities of Z.AI’s GLM-5 model and build a complete understanding of how to use it for real-world, agentic applications. We start from the fundamentals by setting up the environment using the Z.AI SDK and its OpenAI-compatible interface, and then progressively move on to advanced features such as streaming […]\nThe post How to Build Production-Ready Agentic Systems with Z.AI GLM-5 Using Thinking Mode, Tool Calling, Streaming, and Multi-Turn Workflows appe",
+    "t": "כיצד לבנות מערכות Agentic מוכנות לייצור עם GLM-5 של Z.AI - Thinking Mode, Tool Calling ועוד\n\nהדרכה מעשית שמראה איך לנצל את כל היכולות של GLM-5 לבניית אפליקציות AI אמיתיות בעולם הייצור. המדריך מתחיל מהיסודות עם setup של Z.AI SDK והממשק התואם ל-OpenAI, ואז עולה לתכונות מתקדמות כמו streaming, tool calling ו-multi-turn conversations שתופסות את הלב של AI agents איכותיים.",
     "d": "Sat, 04 Apr 2026 03:06:56 +0000",
     "v": 0,
     "l": [
@@ -1672,7 +1672,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 70,
-    "t": "Google DeepMind’s Research Lets an LLM Rewrite Its Own Game Theory Algorithms — And It Outperformed the Experts\n\nDesigning algorithms for Multi-Agent Reinforcement Learning (MARL) in imperfect-information games — scenarios where players act sequentially and cannot see each other’s private information, like poker — has historically relied on manual iteration. Researchers identify weighting schemes, discounting rules, and equilibrium solvers through intuition and trial-and-error. Google DeepMind researchers proposes AlphaEvolve, an LLM-powered evolutionary coding agent […]\nThe post Google DeepMind’s Research",
+    "t": "מודל שפה של Google DeepMind למד לשכתב בעצמו אלגוריתמים של תורת המשחקים - והביע ביצועים טובים יותר מהמומחים\n\nחוקרי Google DeepMind פיתחו כלי חדש בשם AlphaEvolve שמשתמש ב-LLM כדי לעזור בעיצוב אלגוריתמים מתוחכמים למשחקים עם מידע חלקי (כמו פוקר), תחום שבו לא היה מגע עם רובוט מושכל מעולם. במקום שמומחים ישבו שעות על שכתוב ידני של קוד, ה-AI פשוט שיכתב את האלגוריתמים שלו בעצמו - והוצא תוצאות שטובות אפילו מהמומחים עצמם. זה פחות או יותר כמו לתן ל-AI לעשות שיעורי בית במתמטיקה ובטוח שיוצא עם ציון טוב יותר מהתלמיד המבריק בכיתה.",
     "d": "Fri, 03 Apr 2026 22:26:00 +0000",
     "v": 0,
     "l": [
@@ -1690,8 +1690,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://www.marktechpost.com/wp-content/uploads/2026/04/blog-6.png",
@@ -1983,7 +1982,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 83,
-    "t": "Four things we’d need to put data centers in space\n\nMIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk’s SpaceX filed an application with the US Federal Communications Commission to launch up to one million data centers into Earth’s orbit. The…",
+    "t": "ארבע דברים שנצטרך כדי להציב data centers בחלל\n\nSpaceX של אילון מאסק הגישה בינואר בקשה להשיק עד מיליון data centers לחלל, וזה לא סתם דיוויית מדע בדיוני - זה למעשה יכול להשנות את כל העסקה של cloud computing. אבל לפני שנעלה שרתים לחלל צריך לפתור כמה בעיות קשות ממש: קירור, חשמל, חוסן בתנאים קשים וחיבור אמין בחזרה לכדור הארץ. ה-MIT Technology Review דורך דרך היסודות של מה שנצטרך בשביל לגרום הדבר הזה להיות בכלל אפשרי.",
     "d": "Fri, 03 Apr 2026 17:03:19 +0000",
     "v": 0,
     "l": [
@@ -1998,8 +1997,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/04/AP24331768239638.jpg?resize=1200,600",
@@ -2152,7 +2150,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 90,
-    "t": "TII Releases Falcon Perception: A 0.6B-Parameter Early-Fusion Transformer for Open-Vocabulary Grounding and Segmentation from Natural Language Prompts\n\nIn the current landscape of computer vision, the standard operating procedure involves a modular ‘Lego-brick’ approach: a pre-trained vision encoder for feature extraction paired with a separate decoder for task prediction. While effective, this architectural separation complicates scaling and bottlenecks the interaction between language and vision. The Technology Innovation Institute (TII) research team is challenging […]\nThe post TII Releases Falcon Perception: A 0.6B-Parameter Early-Fusion Tr",
+    "t": "TII משחררת את Falcon Perception: מודל ויژן קטן וחכם שמבין פקודות בשפה טבעית\n\nמכון ההשקעות הטכנולוגי של איחוד האמירויות בא עם דגם ויזן חדש בשם Falcon Perception שמשלב שפה וראייה במודל אחד בלבד, בניגוד לגישה המקובלת היום. המודל הקטן יחסית (0.6B פרמטרים בלבד) יכול להבין הוראות של משתמשים ולהכין segmentation maps של תמונות - כלומר הוא יודע בדיוק איזה חלקים בתמונה אתה מדבר עליהם. הנקודה המעניינת כאן היא שהם סירבו לתכנון ה-'לבנים' המודולרי וישנו הכל לתהליך Early-Fusion אחד יעיל יותר.",
     "d": "Fri, 03 Apr 2026 08:49:34 +0000",
     "v": 0,
     "l": [
@@ -2169,13 +2167,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-03-at-1.47.18-AM-1.png",
     "source": "MarkTechPost"
   },
   {
     "id": 91,
-    "t": "Step by Step Guide to Build an End-to-End Model Optimization Pipeline with NVIDIA Model Optimizer Using FastNAS Pruning and Fine-Tuning\n\nIn this tutorial, we build a complete end-to-end pipeline using NVIDIA Model Optimizer to train, prune, and fine-tune a deep learning model directly in Google Colab. We start by setting up the environment and preparing the CIFAR-10 dataset, then define a ResNet architecture and train it to establish a strong baseline. From there, we apply […]\nThe post Step by Step Guide to Build an End-to-End Model Optimization Pipeline with NVIDIA Model Optimizer Using FastNAS Pruning and Fine-Tuning appeared f",
+    "t": "מדריך שלב אחר שלב: בניית Pipeline לאופטימיזציה של מודלים עם NVIDIA Model Optimizer וFastNAS Pruning\n\nNVIDIA יצאה עם מדריך כיף שמראה איך לבנות pipeline שלם לאופטימיזציה של מודלים בעזרת FastNAS pruning וfine-tuning, והכל ישירות ב-Google Colab. התהליך כולל הכנת הנתונים, אימון ResNet, וגם צמצום המודל כדי שיהיה יותר מהיר וקל משקל - בדיוק מה שצריך בשביל להריץ AI כמו שצריך בעולם האמיתי.",
     "d": "Fri, 03 Apr 2026 07:48:18 +0000",
     "v": 0,
     "l": [
@@ -2545,7 +2543,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 106,
-    "t": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO\n\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Fuel prices are soaring. Plastic could be next.  As the war in Iran continues, one of the most visible global economic ripple effects has been fossil-fuel prices. But looking ahead, further consequences could…",
+    "t": "ההורדה: בעיות הפלסטיק עם מחירי הדלק, וה-IPO הענק של SpaceX\n\nמחירי הדלק עולים בשמיים, והפלסטיק יכול להיות הקורבן הבא. עם המתיחות בעולם, אנחנו כבר רואים את ההשלכות על מחירי הדלק, אבל השיקולים הגדולים עדיין לא התחילו - וזה אולי רק ההתחלה של משבר כלכלי שיהיה לנו עדיין על השולחן.",
     "d": "Thu, 02 Apr 2026 12:10:00 +0000",
     "v": 0,
     "l": [
@@ -2643,7 +2641,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 110,
-    "t": "Fuel prices are soaring. Plastic could be next.\n\nAs the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can’t get away from news about the price of gasoline, which just topped an average of $4 a gallon in the…",
+    "t": "מחירי דלק במגמת עלייה. פלסטיק יכול להיות הבא בתור\n\nעם המתיחות בעיראן והסגירה של שדרת הורמוז, מחירי הדלק משתגעים - הבנזין עלה לשיא של 4 דולר לגלון. אבל זה רק ההתחלה: תוך זמן קצר אנחנו עלולים לראות עלייה דרמטית גם במחירי המוצרים הפלסטיים, מכיוון שהתשומות הגולמיות מיוקרות ותשרשרת ההספקה גלובלית מקבלת מכה קשה.",
     "d": "Thu, 02 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -2713,7 +2711,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 113,
-    "t": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+    "t": "ברוכים הבאים Gemma 4: בינה מולטימודאלית מתקדמת על התקן\n\nגוגל השיקה את Gemma 4, מודל AI חדש שמסוגל לעבוד ישירות על ההתקן שלכם ללא חיבור לשרתים. המודל החדש תומך בטקסט, תמונות וקול, והוא אופטימיזד כדי לרוץ בצורה יעילה על מחשבים רגילים וטלפונים חכמים. זו בעצם ההצהרה של גוגל שהם משחקים משחק אמיתי בתחרות ה-AI הפתוחה מול מודלים מתחרים. 📱",
     "d": "Thu, 02 Apr 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -2762,7 +2760,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 115,
-    "t": "Holo3: Breaking the Computer Use Frontier",
+    "t": "Holo3: שבירת הגבול של שימוש במחשב\n\nHugging Face הציגה את Holo3, מודל AI חדש שיכול לבצע משימות מחשב באופן עצמאי - כמו ללחוץ על כפתורים, למלא טפסים ולנווט בין אפליקציות בעצמו. זה לא סתם שדרוג נוסף, אלא קפיצה משמעותית בדרך של AI לעבוד כמו בן אדם בעל משימות מציאותיות. המודל הזה פותח דלתות חדשות לאוטומציה חכמה של משימות מורכבות שבני אדם יכלו לעשות עד עכשיו.",
     "d": "Wed, 01 Apr 2026 16:36:15 GMT",
     "v": 0,
     "l": [
@@ -2911,7 +2909,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 121,
-    "t": "The Download: gig workers training humanoids, and better AI benchmarks\n\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The gig workers who are training humanoid robots at home  When Zeus, a medical student in Nigeria, returns to his apartment from a long day at the hospital, he straps his…",
+    "t": "ההורדה: עובדי ギג מאמנים רובוטים אנושיים וממדדים AI טובים יותר\n\nעובדים בחו\"ל מתאמנים רובוטים הומנואידים ממש מהבית שלהם - כולל ζeusי רפואה מניגריה שמשתמשים בקסדות VR כדי ללמד מכונות לעשות עבודות מורכבות. בנוסף, החברות הטק מפתחות ממדדים חדשים וטובים יותר בשביל להעריך את כושר ה-AI החדש, במקום להסתמך על בדיקות זקנות שכבר לא רלוונטיות. דברים מתרחשים מהר בעולם הטכנולוגיה וזה בדיוק מה שקורה היום.",
     "d": "Wed, 01 Apr 2026 12:10:00 +0000",
     "v": 0,
     "l": [
@@ -2926,8 +2924,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/04/TR11-HumanoidRobot.jpg?resize=1200,600",
@@ -2959,7 +2956,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 123,
-    "t": "The gig workers who are training humanoid robots at home\n\nWhen Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead, and starts recording himself. He raises his hands in front of him like a sleepwalker and puts a…",
+    "t": "עובדי הגיג שמלמדים רובוטים הומנואידיים מהבית\n\nזה די מעניין - יש כל מיני אנשים בעולם, כמו זיוס, סטודנט לרפואה בניגריה, שמרוויחים כסף בצד על ידי הקלטת עצמם בביתם בסמארטפון כדי ללמד רובוטים הומנואידים איך להתנהג. בעצם, הם מסוגי הגיג ג'ובס החדשים - במקום לנהוג מסלולים או למסור מזון, אנשים מסבירים לתוכנות AI איך עובדת תנועה אנושית בדיוק. סדרה כזאת של מדלקים קטנים וקטנים שמהווים את הבסיס של המהפכה הרובוטית הקרובה.",
     "d": "Wed, 01 Apr 2026 11:00:00 +0000",
     "v": 0,
     "l": [
@@ -2974,11 +2971,9 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/04/TR11-HumanoidRobot.jpg?resize=1200,600",
     "source": "MIT Technology Review"
   },
@@ -3030,7 +3025,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 126,
-    "t": "Falcon Perception",
+    "t": "Falcon Perception\n\nHugging Face הציגה את Falcon Perception, מודל ראיה חדש שמשלב עיבוד תמונה מתקדם עם יכולות הבנה עמוקות. המודל מעוצב להתמודד עם משימות מורכבות של ניתוח תמונות ויכול להיות שימושי למגוון יישומים בתחום ה-AI. זו עוד הוכחה לכך שהקהילה הפתוחה ממשיכה להביא חדשנויות משמעותיות בעולם ה-deep learning וה-computer vision.",
     "d": "Wed, 01 Apr 2026 07:13:20 GMT",
     "v": 0,
     "l": [
@@ -3076,7 +3071,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 128,
-    "t": "Any Custom Frontend with Gradio's Backend",
+    "t": "כל Frontend שאתם רוצים עם ה-Backend של Gradio\n\nHugging Face הטיקה לנו תכונה חדשה שמאפשרת לבנות ממשקים מותאמים לצרכים שלנו תוך שימוש ב-Backend הפתוח של Gradio. זה בעצם משחרר את היצירתיות שלנו מהתיבה - לא צריך להיות תלויים בעיצוב ברירת המחדל של Gradio, אלא אפשר לבנות משהו שנראה וחש בדיוק כמו שאנחנו רוצים. מעשית, זה אומר שאפשר יהיה לשלב ML models לויב-אפליקציות כמו לא היה אפשר קודם, בלי להקריב את השליטה על ה-UI שלנו.",
     "d": "Wed, 01 Apr 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -3199,7 +3194,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 133,
-    "t": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+    "t": "Granite 4.0 3B Vision: בינה מולטימודלית קומפקטית למסמכים עסקיים\n\nIBM הציגה את Granite 4.0 3B Vision, מודל AI קומפקטי שיכול לעבד טקסט ותמונות בו-זמנית עם צריכת משאבים נמוכה. המודל החדש מוקד במיוחד בעיבוד מסמכים וטבלאות עבור ארגונים, מה שהופך אותו לפתרון אידיאלי לעסקים שצריכים דיוק גבוה ללא צורך בחומרה כבדה. זה עוד דוגמה להתפתחות בתחום ה-AI של מודלים קטנים וחכמים שמתאימים בעצם למקצועות אמיתיים.",
     "d": "Tue, 31 Mar 2026 15:10:41 GMT",
     "v": 0,
     "l": [
@@ -3222,7 +3217,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 134,
-    "t": "Shifting to AI model customization is an architectural imperative\n\nIn the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into incremental gains. The exception is domain-specialized intelligence, where true step-function improvements are still the norm. When a model is fused with an organization’s…",
+    "t": "התאמת מודלים של AI היא חובה ארכיטקטורלית\n\nהימים של קפיצות ענקיות ב-LLM כמעט חלפו - כיום אנחנו רואים שיפור הדרגתי וממושך מדור לדור. אבל יש חריג אחד שחוזר ובגדול: AI מותאם לדומיינים ספציפיים. כשמודל מסתגל בדיוק לצרכים של הארגון שלך, זה משנה את המשחק לחלוטין.",
     "d": "Tue, 31 Mar 2026 14:12:50 +0000",
     "v": 0,
     "l": [
@@ -3299,7 +3294,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 137,
-    "t": "The Download: AI health tools and the Pentagon’s Anthropic culture war\n\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There are more AI health tools than ever—but how well do they work?  In the last few months alone, Microsoft, Amazon, and OpenAI have all launched medical chatbots.  There’s a clear demand…",
+    "t": "ההורדה: כלי AI לבריאות וממלחמת התרבות של הפנטגון סביב Anthropic\n\nהשוק מלא בכלים חדשים של AI לתחום הבריאות - Microsoft, Amazon ו-OpenAI כולם השיקו chatbots רפואיים בחודשים האחרונים, וברור שיש ביקוש ענק. השאלה החשובה היא: כמה טובים בעצם הם כלים האלה? בחדשות נוספות, גם הפנטגון נכנס לסערה סביב יחסיו עם Anthropic, אחת מחברות ה-AI המשפיעות בעולם.",
     "d": "Tue, 31 Mar 2026 12:10:00 +0000",
     "v": 0,
     "l": [
@@ -3329,7 +3324,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 138,
-    "t": "AI benchmarks are broken. Here’s what we need instead.\n\nFor decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI models and applications is tested against that of individual humans completing tasks.  This framing is seductive: An AI vs. human comparison on isolated problems with clear…",
+    "t": "בנצ'מרקים של AI שבורים. הנה מה שאנחנו באמת צריכים\n\nבמשך עשרות שנים אנחנו בודקים AI על ידי השוואה ישירה עם בני אדם - מי ניצח בשחמט, מי פתר את הבעיה המתמטית הקשה יותר, או מי כתב טוב יותר? אבל המתודולוגיה הזו של 'אדם נגד מכונה' היא ממש מטעה, והיא לא באמת מספרת לנו אם ה-AI שלנו טוב ושימושי בעולם האמיתי. מה שבעצם צריך הוא דרך חדשה לחלוטין להערכת מערכות AI.",
     "d": "Tue, 31 Mar 2026 12:01:08 +0000",
     "v": 0,
     "l": [
@@ -3376,7 +3371,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 140,
-    "t": "TRL v1.0: Post-Training Library Built to Move with the Field",
+    "t": "TRL v1.0: ספרייה לאימון מודלים שפועלת בקצב השינויים בתעשייה\n\nHugging Face השיקה את גרסה 1.0 של TRL, ספרייה חדשה ופתוחה שעוזרת למהנדסים לכייל ולאמן מודלי AI לפי צרכים ספציפיים. הכלי מאפשר fine-tuning בחד-פעמית ועם טכניקות advanced כמו reinforcement learning, מה שמקל על כל אחד (לא רק חברות ענקיות) ליצור מודלים מותאמים אישית. זה כמו שקיבלנו מנוף חדש בבריכת ה-AI שמאפשר לכולם לעשות דברים שעד עכשיו היו שמורים רק לחברות גדולות.",
     "d": "Tue, 31 Mar 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -3523,7 +3518,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 146,
-    "t": "Liberate your OpenClaw",
+    "t": "שחררו את OpenClaw שלכם\n\nHugging Face הוציאה לאור פרויקט חדש שנקרא OpenClaw, שמטרתו לעזור למפתחים להשתחרר מאילוצים בעבודה עם מודלים של AI. זה בעצם כלי שמאפשר לכם יותר גמישות וחופש בשימוש בטכנולוגיות קיימות, בלי להיות תלויים בפתרונות משוכללים אבל מוגבלים.",
     "d": "Fri, 27 Mar 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -3830,7 +3825,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 158,
-    "t": "A New Framework for Evaluating Voice Agents (EVA)",
+    "t": "מסגרת חדשה להערכת סוכנים קוליים (EVA)\n\nחוקרים מ-Hugging Face השיקו תקן חדש להערכת איכות ביצוע של voice agents - אלה הם בוטים שמבינים ומדברים עברית (או כל שפה אחרת). המסגרת הזו (EVA) תאפשר למפתחים לדעת בדיוק כמה טוב הסוכן שלהם מבצע משימות בפועל, בדיוק כמו ש-BLEU שימש להערכת תרגום מכונה. המטרה היא לקדם את תחום voice AI ולעזור לחברות להשוות בין מודלים שונים בצורה הוגנת ומדעית.",
     "d": "Tue, 24 Mar 2026 02:01:52 GMT",
     "v": 0,
     "l": [
@@ -3880,7 +3875,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 160,
-    "t": "Build a Domain-Specific Embedding Model in Under a Day",
+    "t": "בנו מודל Embedding ספציפי לתחום שלכם ביום אחד\n\nהוגינג פייס הראו איך אפשר לבנות מודל embedding מותאם לצרכים ספציפיים בזמן קצר מאוד - בעצם ביום אחד. זה אומר שכל חברה יכולה להכין כלי AI חכם שמבין את התחום שלה במהירות וביעילות, בלי צורך בשנים של מחקר והתפתחות. טכניקה שכזו יכולה להיות משחק חדש למפתחים וקומפניות שרוצות להתחזק בתחום ה-AI.",
     "d": "Fri, 20 Mar 2026 19:38:16 GMT",
     "v": 0,
     "l": [
@@ -3956,7 +3951,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 163,
-    "t": "State of Open Source on Hugging Face: Spring 2026",
+    "t": "מצב הקוד הפתוח בהאגינג פייס: אביב 2026\n\nהגינג פייס פרסמה את דוח האביב שלה על עולם הקוד הפתוח, וזה מעניין להרים את הכפפה ולראות מה קורה בפרויקטים חינמיים ואתחזוקים קהילתיים בעולם ה-AI. הרפורט כולל נתונים ממשיים על תמיכה בקוד פתוח, מודלים שפורסמו והשפעתם של הקהילה על תעשיית ה-AI. זה הדוח השנתי שמשקף את הדופק של המחקר הפתוח והשיתופי בעולם הטכנולוגיה. \nמקור: Hugging Face Blog",
     "d": "Tue, 17 Mar 2026 16:37:55 GMT",
     "v": 0,
     "l": [
