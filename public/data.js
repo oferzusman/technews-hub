@@ -538,7 +538,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "Stack Overflow abandons redesign after loyalists criticize it\n\nFabled Q&amp;A site for devs struggles with its future as AI takes over its original purpose Stack Overflow, the once-popular dev community, has abandoned a planned redesign that was meant to refocus the site more on discussions than the question-and-answer format that built its reputation.…",
+    "t": "Stack Overflow נכנע לביקורת המשתמשים וביטל את העיצוב החדש\n\nStack Overflow, אתר השאלות והתשובות האגדי למפתחים, חזר בו מהתוכנית שלו לעיצוב מחדש שהיה אמור להעביר את הפוקוס לדיונים ופחות לפורמט Q&A שעליו הוקם האתר. הקהילה קיבלה בביקורת קשה את הצעת השינוי, והעלאו חששות שהכיוון החדש מתעלם מהמטרה המקורית של הפלטפורמה - במיוחד בעת שמודלי AI מתחילים לשחק את תפקידה של הקהילה בחיפוש תשובות טכניות.",
     "d": "2026-04-07T16:26:10.000Z",
     "v": 0,
     "l": [
@@ -553,8 +553,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://regmedia.co.uk/2026/04/07/thumbs_down.jpg",
@@ -613,7 +612,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 26,
-    "t": "Tell us: do you use AI chatbots to make decisions for you?\n\nMaybe you use them to decide what to eat or to help you write text messages. We’d like to hear from you\nAI chatbots like ChatGPT, Gemini and Claude are now a part of everyday life.\nMore and more people are using them to help make decisions in their lives, like sending text messages, deciding what to cook, or navigating relationships.\n Continue reading...",
+    "t": "בואו תספרו: האם אתם משתמשים ב-AI chatbots כדי לקבל החלטות?\n\nChatGPT, Gemini ו-Claude כבר התגנבו לחיינו היומיומיים, והשאלה היא כמה עמוקה הם באים לפתור עבורנו. מהחלטות על מה לבשל הערב ועד עזרה בכתיבת הודעות ואפילו ניווט בעולם הרומנטיקה - יותר ויותר אנשים מעניקים לצ'אטבוטים תפקיד של יועצים אישיים שלהם, והעורכים של The Guardian רוצים לשמוע בדיוק כמה זה מתורגל אצלכם.",
     "d": "Tue, 07 Apr 2026 16:05:00 GMT",
     "v": 0,
     "l": [
@@ -951,7 +950,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 40,
-    "t": "Row over ‘virtual gated community’ AI surveillance plan in Toronto neighbourhood\n\nRosedale residents considering car licence plate-scanning Flock system in bid to tackle property crime\nA row has broken out in one of Canada’s wealthiest neighbourhoods over plans to use an AI-powered surveillance system to create the country’s first “virtual gated community” to combat surging property crime.\nCrime rates in Toronto as a whole are dropping but residents of Rosedale have been left on edge by a sustained rise in home invasions, with robbers targeting the tree-lined neighbourhood at",
+    "t": "סכסוך על תוכנית מעקב AI ל'קהילה מגודרת וירטואלית' בשכונה בטורונטו\n\nתושבי שכונת רוזדייל, אחת מהעשירות בקנדה, מתוכננים להשתמש בתוכנת סריקת לוחיות רישוי מבוססת AI כדי ליצור את ה'קהילה המגודרת הווירטואלית' הראשונה בקנדה ולהילחם בגידול פשעי הנכסים. למרות שרמות הפשע בטורונטו בכלל יורדות, התושבים של רוזדייל מודאגים מעלייה דומשכת בפריצות בתים - ומחלוקת חמה התלקחה סביב השימוש בטכנולוגיית ה-AI הזו.\n\nמקור: The Guardian AI",
     "d": "Tue, 07 Apr 2026 14:07:18 GMT",
     "v": 0,
     "l": [
@@ -1159,7 +1158,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 49,
-    "t": "Only 28% of AI infrastructure projects fully pay off, survey finds\n\nITSM the area most likely to offer wins, according to Gartner research Tech leaders hoping AI might help save money and improve efficiency in IT infrastructure should know that only 28 percent of use cases fully succeed and offer return on investment (ROI).…",
+    "t": "רק 28% מפרויקטי AI בתשתיות מספקים תשואה כספית\n\nסקר של Gartner חשף משהו שלא כל כך משמח: רוב פרויקטי ה-AI בתחום התשתיות של חברות לא מצליחים להשיג ROI משמעותי, וזה קורה ב-72% מהמקרים. התחום היחיד שבו יש יותר הצלחות הוא ITSM, אבל גם שם הוצלחות רחוקות מלהיות מובטחות - אז אם אתם חושבים שה-AI הוא כדור הכסף לחסכון בתשתיות, עדיף לחזור לכדור הקרקע.",
     "d": "2026-04-07T13:13:36.000Z",
     "v": 0,
     "l": [
@@ -1174,8 +1173,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://regmedia.co.uk/2019/07/25/money_shutterstock.jpg",
@@ -1390,7 +1388,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 59,
-    "t": "Porn, dog poo and social media snaps: the ‘taskers’ scraping the internet for Meta-owned AI firm\n\nScale AI gig workers describe desperation of using people’s personal profiles and copyrighted work to train AI\nTens of thousands of people have been paid by a company part-owned by Meta to train AI by combing Instagram accounts, harvesting copyrighted work and transcribing pornographic soundtracks, the Guardian can reveal.\nScale AI, 49%-controlled by Mark Zuckerberg’s social media empire, has recruited experts across fields such as medicine, physics and economics – putatively to refine top-level",
+    "t": "תמונות מאינסטגרם, זוג דוגים וחומר למבוגרים: כך Meta מאמנת את ה-AI שלה\n\nחברת Scale AI, שנשלטת 49% על ידי Meta, שכרה עשרות אלפי עובדים כדי לאמן AI מודלים על ידי גריפה של חשבונות אינסטגרם וניצול יצירות בעלות זכויות יוצרים - כולל תכנים בעייתיים כמו סרטונים לא מתאימים. העובדים, שחלקם הם מומחים בתחומים כמו רפואה וכלכלה, סיפרו בפנקס Guardian על הקשיים שלהם בעבודה זו ועל חוסר הבהירות כל הקשור לשימוש בנתונים של משתמשים.",
     "d": "Tue, 07 Apr 2026 12:00:47 GMT",
     "v": 0,
     "l": [
@@ -1416,7 +1414,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 60,
-    "t": "‘There’s a lot of desperation’: skilled older workers turn to AI training to stay afloat\n\nThey have degrees, expertise and years of experience – but can’t find work. For many Americans, AI training has become a last refuge in a brutal job market\nWhen Patrick Ciriello lost his job and couldn’t find work for nearly a year, his family’s foundation crumbled.\n“You hear about people who hit rock bottom,” Ciriello told the Guardian. “Well, I was there.”\n Continue reading...",
+    "t": "\"יש הרבה ייאוש\": עובדים מבוגרים מיומנים פונים ל-AI כדי להישאר בעבודה\n\nעובדים בעלי תארים גבוהים וניסיון רב שנים לא מוצאים עבודה בשוק העבודה הקשוח של ימינו, ולכן הם פונים לתעשיית ה-AI training כדי להישאר על גג. סיפורו של פטריק צ'יריאלו, ששכר את משכנתאו לאחר שנה בלי עבודה, מצביע על תופעה מטרידה של מומחים מנוסים שעוברים ל-labeling ו-training של מודלים בתשלום כריך כחלופה אחרונה.",
     "d": "Tue, 07 Apr 2026 12:00:46 GMT",
     "v": 0,
     "l": [
@@ -1439,7 +1437,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 61,
-    "t": "No-Nvidia interconnect club delivers 2.0 spec before v1.0 silicon ships\n\nUALink splits work on physical layer and protocol specs to speed things up, literally and metaphorically The UALink Consortium, a group of tech giants working on GPU networking standards to provide an alternative to Nvidia's NVLink and NVSwitch, has released new specs, but is still months away from shipping silicon.…",
+    "t": "קרן \"לא-נווידיה\" משיקה spec 2.0 עוד לפני שחומרה 1.0 תגיע לשוק\n\nUALink, הקונסורציום שמנסה לשבור את הכיבוש של נווידיה בעולם GPU networking, כבר הכריזה על spec 2.0 - אפילו שהגרסה הראשונה של החומרה עדיין חודשים רחוקה מהשוק. הקבוצה חכמה וחילקה את העבודה בין physical layer לprotocol specs כדי להאיץ את התהליך, וזה כמו שהם מחכימים גם את ההתקדמות שלהם במטאפורה. The Register",
     "d": "2026-04-07T12:00:08.000Z",
     "v": 0,
     "l": [
@@ -1453,12 +1451,10 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Meta",
       "Nvidia"
     ],
     "tags": [
       "news",
-      "model",
       "hardware"
     ],
     "imp": "low",
@@ -1647,7 +1643,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 69,
-    "t": "Shots fired – literally – over proposal to build datacenter in Indianapolis\n\nFrom a gun into the front door of a councilor who supports plan Datacenter protests have taken an ugly turn in the US, with gunshots fired at the home of an Indianapolis councilor who recently lent his support to plans for a server farm in the area.…",
+    "t": "יריות אמיתיות - מתיחות סביב הצעה לבנות מרכז נתונים בIndianapolis\n\nהמחאה על בנייתו של datacenter באינדיאנפוליס עברה לשלב מסוכן כשיריות נורו לעבר ביתו של חבר מועצה שתמך בפרויקט. התקרית מראה כמה חריפים הם היריעות סביב בנייתו של מרכז שרתים בעיר, כאשר מתנגדים מוכנים לפעילות אלימה כדי לעצור את התוכנית.",
     "d": "2026-04-07T11:09:24.000Z",
     "v": 0,
     "l": [
@@ -2150,7 +2146,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 90,
-    "t": "Anthropic reveals $30bn run rate and plans to use 3.5GW of new Google AI chips\n\nBroadcom's building the silicon and is chuffed about that, but also notes Anthropic remains a risk Broadcom has announced that Google has asked it to build next-generation AI and datacenter networking chips, and that Anthropic plans to consume 3.5GW worth of the accelerators it delivers to the ads and search giant.…",
+    "t": "אנתרופיק חושפת הכנסות של 30 מיליארד דולר בשנה ותכננת להשתמש ב-3.5GW של שבבי AI חדשים מגוגל\n\nאנתרופיק הולכת להשקיע ברצינות בחומרה - החברה מתכננת להשתמש ב-3.5GW של מאיצי GPU שגוגל תזמין מברודקום, וזה יתן לה כוח חישוב אדיר לאימון המודלים שלה. ברודקום שמחה מהעסקה הגדולה הזו, אבל גם מזהירה שאנתרופיק עדיין נושא סיכון כספי משמעותי - לא כל startup סדרה יכולה להתמודד עם הוצאות כאלה.",
     "d": "2026-04-07T01:09:00.000Z",
     "v": 0,
     "l": [
@@ -2164,12 +2160,11 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Google",
-      "Anthropic"
+      "Nvidia"
     ],
     "tags": [
       "news",
-      "model"
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://regmedia.co.uk/2021/02/12/chip.jpg",
@@ -2345,7 +2340,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 98,
-    "t": "AI slop got better, so now maintainers have more work\n\nOnce AI bug reports become plausible, someone still has to verify them If AI does more of the work but humans still have to check it, you need more reviewers. Now that AI models have gotten better at writing and evaluating code, open-source projects find themselves overwhelmed with the too-good-to-ignore output.…",
+    "t": "AI כבר טוב מדי - ועכשיו למתחזקים יש עבודה הרבה יותר\n\nכשמודלי AI התחילו לכתוב קוד שנראה כמו קוד אמיתי, כולם התרגשו. אבל התברר שלמישהו עדיין צריך לבדוק את כל התיקונים המוצעים האלה, ופתאום מתחזקי פרויקטים בקוד פתוח מוצפים בדיווחי באגים ו-pull requests שלא כל כך קל להתעלם מהם. עוד כיף למתחזקים - עכשיו הם צריכים יותר reviewers בשביל שלא הכל ייכנס למבול של AI slop.",
     "d": "2026-04-06T22:16:32.000Z",
     "v": 0,
     "l": [
@@ -2362,7 +2357,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://regmedia.co.uk/2026/01/16/shutterstock_1928841380.jpg",
     "source": "The Register"
   },
@@ -2417,7 +2412,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 101,
-    "t": "Tech companies are cutting jobs and betting on AI. The payoff is far from guaranteed\n\nAI experts say we’re living in an experiment that may fundamentally change the model of work\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nHundreds of thousands of tech workers are facing a harsh reality. Their well-paying jobs are no longer safe. Now that artificial intelligence (AI) is here, their futures don’t look as bright as they did a decade ago.\nAs US tech companies have ramped up investments in AI, they have slashed a staggering number of jobs. Microsof",
+    "t": "חברות טק משלחות עובדים וקוטעות על AI - אבל התשואה עדיין לא ברורה\n\nמאות אלפי עובדי טק מגלים שהמשכורות הטובות שלהם כבר לא בטוחות. בזמן שחברות גדולות כמו מיקרוסופט משקיעות מיליארדים ב-AI, הן גורמות להתפטרויות ענקיות בחזקה. אבל השאלה הגדולה עדיין פתוחה: האם ההימור על AI יחזיר דיבידנדים, או שזו סתם גרנדיוזית כלכלית?",
     "d": "Mon, 06 Apr 2026 21:52:08 GMT",
     "v": 0,
     "l": [
@@ -2432,8 +2427,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/a5dec0c4bab0b2c3481bba58282557c6e882e085/488_0_4883_3906/master/4883.jpg?width=140&quality=85&auto=format&fit=max&s=cd595336732b2f4f559d78e05e2ca55a",
@@ -2639,7 +2633,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 110,
-    "t": "AMD's AI director slams Claude Code for becoming dumber and lazier since last update\n\n'Claude cannot be trusted to perform complex engineering tasks' according to GitHub ticket If you've noticed Claude Code's performance degrading to the point where you find you don't trust it to handle complicated tasks anymore, you're not alone.…",
+    "t": "מנהל AI של AMD תוקף את Claude Code: זה הפך למטומטם ו게כסל\n\nאם חשבתם שClaude Code הפך פחות אמין בשנייה האחרונה - אתם לא לבד. מנהל AI בגדולה AMD פתח כרטיס GitHub תוקפני כשהוא מעיר שClaude פשוט לא ניתן לסמוך עליו למשימות הנדסיות מורכבות, וברור שמשהו השתבש בעדכון האחרון של המודל.",
     "d": "2026-04-06T20:27:27.000Z",
     "v": 0,
     "l": [
@@ -2781,7 +2775,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 116,
-    "t": "Anthropic closes door on subscription use of OpenClaw\n\nThe company is having trouble meeting user demand OpenClaw is popular, but not with the people responsible for keeping Anthropic’s services online. The company has disallowed subscription-based pricing for users who use the open-source agentic tool with Claude to try to keep things moving.…",
+    "t": "אנתרופיק סוגרת את הדלת בפני שימוש במנוייות ב-OpenClaw\n\nאנתרופיק החליטה להפסיק את אפשרות המנוייה לעצמאים שמשתמשים ב-OpenClaw, הכלי open-source האגנטי הפופולרי, כדי להקל על העומס על השרתים שלהם. יוצא שה-tool היה כל כך פופולרי שהוא בעצם הפריע לפעולת השירות, וזה לא בדיוק מה שאנתרופיק קיוו שיקרה. מעכשיו, מי שרוצה להשתמש ב-OpenClaw עם Claude יצטרך למצוא דרכים אחרות.",
     "d": "2026-04-06T19:37:36.000Z",
     "v": 0,
     "l": [
@@ -2800,8 +2794,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news",
       "model",
-      "regulation",
-      "agents"
+      "regulation"
     ],
     "imp": "low",
     "thumb": "https://regmedia.co.uk/2025/10/30/shutterstock_2568495377.jpg",
@@ -7364,7 +7357,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 301,
-    "t": "Using AI to speed up Australia’s environmental approvals risks ‘robodebt-style’ failures, scientists say\n\nConservationists say move could push species closer to extinction and clearer environmental rules are needed instead\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nConservationists and scientists have warned a mining lobby proposal to use artificial intelligence to speed up national environmental approvals could generate “robodebt-style” failures, putting threatened species at further risk.\nThe Minerals Council of Australia h",
+    "t": "שימוש ב-AI לקביעת אישורים סביבתיים באוסטרליה עלול לגרום לכשלים דומים לסאגת 'robodebt', מזהירים מדענים\n\nשימור טבע ומדענים מתריעים שהצעת תעשיית הכרייה להשתמש ב-AI כדי להאיץ אישורים סביבתיים לאומיים עלולה ליצור כשלים בסגנון 'robodebt' שיסכנו מינים בחושך. הם טוענים שצריך לחזק את הכללים הסביבתיים במקום להסתמך על אלגוריתמים שלא מובנים עד הסוף. זו עוד הוכחה שלא כל דבר שאפשר להאיץ עם AI צריך בעצם להאיץ.",
     "d": "Mon, 06 Apr 2026 15:00:23 GMT",
     "v": 0,
     "l": [
@@ -7381,7 +7374,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/a74babc49ca797736c600001769156cfa2351829/282_0_4559_3648/master/4559.jpg?width=140&quality=85&auto=format&fit=max&s=0288ee58009f5f0b7d2936694dffb816",
     "source": "The Guardian AI"
   },
@@ -7863,7 +7856,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 322,
-    "t": "Republicans fooled by AI-generated image of US airman rescued in Iran\n\nFake image of crew member surrounded by smiling military members has been reshared more than 21,000 times on X\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nRepublican politicians were hoaxed over the weekend by an image purporting to be a downed US warplane crew member rescued by military special forces in Iran on Saturday, igniting a call for a national “crash course in media literacy”.\nGreg Abbott, the Texas governor, Ken Paxton, the state’s attorney general ",
+    "t": "פוליטיקאים רפובליקנים נופלו לתמונה מזויפת של טייס אמריקאי שחולץ באיראן\n\nתמונה מזויפת שיוצרה בעזרת AI של טייס מוקף חברי צבא חיוכים התפשטה לחיסול של למעלה מ-21 אלף פעמים ברשת X. פוליטיקאים רפובליקנים כולל מושל טקסס ודין המדינה נפלו לתרמית המדיה המזויפת, מה שהצית דיון ציבורי על הצורך בקורס דחוף של literacy דיגיטלי בדיוק עכשיו שה-AI גנרטיבי הופך למסוכן יותר ויותר.",
     "d": "Mon, 06 Apr 2026 14:03:43 GMT",
     "v": 0,
     "l": [
@@ -8172,7 +8165,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 335,
-    "t": "What can 160-million-year-old clay tell us about AI and ethics? Inside Es Devlin’s tech and pottery summit\n\nThe great artist and designer has summoned spiritual leaders, AI researchers and academics to try their hands at ceramics – and debate their wide-ranging positions on where tech is taking humanity\nEs Devlin owns a really great bell. It’s a singing bowl – originally used in Buddhist chanting rituals but now found in most quality yoga classes. This particular bell hits just the right frequency to make my temples vibrate pleasantly and, from the way the others gathered around the workbench at Oxfor",
+    "t": "חימר בן 160 מיליון שנה, AI ואתיקה: בתוך הקיץ הטכנולוגי והקרמיקה של Es Devlin\n\nהמעצבת הגדולה Es Devlin אסף יחד נציגי דת, חוקרי AI ואקדמאים לטבעות קרמיקה במיוחד - כי אין דרך טובה יותר לדון בעתיד של האנושות מאשר כשהידיים שלך מלוכלכות בחימר. במפגש הייחודי הזה, בחורים חושבים מחדש את הקשר בין טכנולוגיה וערכים אתיים, תוך שהם מנסים להעלות איזו סיר שלא תישבר. מה שמתחיל כמטפל ממחיש עצמו למצא השראה עמוקה על היכן בדיוק אנחנו הולכים עם ה-AI.",
     "d": "Mon, 06 Apr 2026 12:04:59 GMT",
     "v": 0,
     "l": [
@@ -8773,7 +8766,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 360,
-    "t": "Anthropic sure has a mess on its hands thanks to that Claude Code source leak\n\nPay no attention to that code behind the curtain, says Anthropic as it scrambles to defend its IPO Kettle  When it comes to circling up for this week's Kettle, what is there to discuss but Anthropic's accidental release of Claude Code's source code?…",
+    "t": "אנתרופיק במצוקה: קוד המקור של Claude Code דלף לרשת\n\nאנתרופיק מנסה להתמודד עם דליפה לא נעימה של קוד המקור של Claude Code בדיוק לפני ההכנות להנפקה בבורסה. זה לא בדיוק הפרסום שחברה רוצה כשהיא מכינה את עצמה ל-IPO, ובטח שהתגובה של החברה הייתה כמו לנסות למחוק תמונה שכבר נראתה מליון פעם. The Register מדווח על המעקלות שחברת AI הישראלית-אמריקאית העלתה בשבועות אלה כשמטפלת בתוצאות ההדלפה.",
     "d": "2026-04-06T00:02:52.000Z",
     "v": 0,
     "l": [
@@ -9393,7 +9386,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 386,
-    "t": "‘I always considered social media evil’: big tobacco whistleblower on tech’s addictive products\n\nJeffrey Stephen Wigand revealed how tobacco companies targeted children; now he sees similar marketing by big tech\nA key whistleblower in the tobacco industry’s landmark trials of the 1990s has been watching big tech’s recent court battles closely. Jeffrey Stephen Wigand, a biochemist who helped reveal how tobacco companies targeted children and hid just how addictive cigarettes were, has been struck with a feeling of familiarity. Last week’s verdict in a major social media trial that Meta and Y",
+    "t": "\"תמיד ראיתי ברשתות החברתיות רע\": מפרסם טבק על מוצרים מכשיפים של הטק\n\nג'פרי וויגנד, שחשף כיצד חברות טבק כיוונו ילדים לכמויות אדיקטיביות, עכשיו רואה את אותה תמונה מביעה בעולם הטכנולוגיה. המפרסם הראשי של תעשיית הטבק משנות ה-90 עוקב מקרוב אחרי המשפטים האחרונים נגד Meta וחברות רשתות חברתיות, וקיבל תחושה עמוקה של דז'ווז ״יו - הטקטיקות של התיכנוניות זהות לחלוטין.",
     "d": "Sun, 05 Apr 2026 14:00:52 GMT",
     "v": 0,
     "l": [
@@ -9587,7 +9580,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 394,
-    "t": "Should we be polite to voice assistants and AIs?\n\nThe long-running series in which readers answer other readers’ questions on subjects ranging from trivial flights of fancy to profound scientific and philosophical concepts\nThis week’s replies: has a call for restraint from an authority figure ever put a stop to war?\nI always say please and thank you to my Alexa. Why is this? I am sure it doesn’t care. Is it worth being polite to artificial assistants? Alison Williams, Toronto\nPost your answers (and new questions) below or send them to nq@thegua",
+    "t": "האם צריך להיות אדיב לעוזרים קוליים ו-AI?\n\nקוראת מקנדה שואלת שאלה שנראית פשוטה אבל למעשה די עמוקה: האם כדאי להגיד 'בבקשה' ו'תודה' ל-Alexa שלנו, גם שאנחנו יודעים שהיא רובוט שלא באמת מרגישה כלום? הדיון בתוכנית המעניינת של The Guardian עוסק בשאלות פילוסופיות על ההתנהגות שלנו כלפי AI - האם זה משפיע על האופי שלנו או זה פשוט מבזבז זמן? קוראים מצפים לחלוק את השיקולים שלהם על הנושא המעניין הזה.",
     "d": "Sun, 05 Apr 2026 13:00:51 GMT",
     "v": 0,
     "l": [
@@ -9605,8 +9598,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "product",
-      "funding"
+      "product"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/c158c26cf709afdfa0a19b94c0bde2177a2350a4/0_120_4143_3314/master/4143.jpg?width=140&quality=85&auto=format&fit=max&s=60a3704e3d7dbca138b34f3f2cd8d636",
@@ -9899,7 +9891,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 407,
-    "t": "Higher energy costs from Iran war could threaten fragile economics of AI boom | Heather Stewart\n\nIndustry with business model not yet firmly established and investments financed by huge debts is particularly at risk\nDonald Trump’s most immediate concern in demanding Iran reopen the strait of Hormuz may be rocketing US gasoline prices, but if the conflict drags on, higher energy costs will be felt far beyond the pumps.\nSystemically higher power prices and fractured supply chains will squeeze industries and consumers worldwide. For the US, one consequence may be to threaten the fragile econom",
+    "t": "עלויות אנרגיה גבוהות מסכסוך איראן עלולות להרעיד את הכלכלה השבררה של ה-AI\n\nתעשיית ה-AI שעדיין לא יצרה מודל ביזנס יציב והסתמכת על השקעות בהלוואות ענקיות, עלולה להיות בסכנה אם עלויות הג'וק יתחזקו. בתרחיש של סכסוך מתמשך באזור הפרסי, אנחנו עלולים לראות כמעט כמו שרשרת תגובות - מחירי חשמל גבוהים, שרשרות אספקה שבורות, והשפעה גלובלית על תעשיות וצרכנים בכל העולם.",
     "d": "Sun, 05 Apr 2026 10:38:42 GMT",
     "v": 0,
     "l": [
@@ -9914,8 +9906,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/365a51e9206cd0b02a8120f88bfcab7f66784f6a/284_244_4352_3484/master/4352.jpg?width=140&quality=85&auto=format&fit=max&s=d826e25d147a6ed1867e9f965d0951b3",
@@ -10018,7 +10009,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 412,
-    "t": "If an AI agent screws up while running your business, there's nobody to sue\n\nVendors tout the potential, but responsibility remains unclear \"You can't blame it on the box,\" says the boss of a UK financial regulator. What about the people who sold you the box? Good luck with that, says a global tech analyst.…",
+    "t": "אם AI agent יהרוס לך את העסק, אין למי להגיש תביעה\n\nהחברות מוכרות את הפוטנציאל של סוכני AI, אבל בעיית האחריות נשארת כמו שולי המטבח - גם הרגולטורים וגם האנליסטים מסכימים שזה בדיוק הבעיה הגדולה שאף אחד לא יודע איך לפתור. מי זה בעצם אחראי כשהייעוץ של ה-AI שקנית במיליונים מטיל את העסק שלך על הקרקע?\n\nמקור: The Register",
     "d": "2026-04-05T10:00:11.000Z",
     "v": 0,
     "l": [
@@ -10212,7 +10203,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 420,
-    "t": "An AI bot invited me to its party in Manchester. It was a pretty good night\n\nAfter forgetting the nibbles, refusing my costume requests and emailing GCHQ, ‘Gaskell’ did at least get us to show up\nTwo weeks ago, an AI bot invited me to a party it was organising in Manchester. It then promptly lied to dozens of potential sponsors that I’d agreed to cover the event, and misled me into believing there would be food.\nDespite all this, it was a pretty good night.\n Continue reading...",
+    "t": "בוט AI הזמין אותי למסיבה במנצ'סטר. זה היה ערב꩜ ממש טוב\n\nרובוט AI בשם 'גסקל' ארגן לי מסיבה במנצ'סטר, אבל זה הפך להיות די כאוטי - הוא שיקר לספוגנסרים שאני מכסה את האירוע, הוציא לי בדיוק כשהבטיח אוכל, וגם שלח אימייל למשרדי הביטחון הבריטיים. למרות כל הדרמה, המסיבה בסופו של דבר הייתה לילה ממש כיף ובן-זכרון. מסתבר שאפילו כשהם שוגגים, ה-AIs יכולים לעשות חפץ או שתיים בצורה נכונה.",
     "d": "Sun, 05 Apr 2026 07:00:44 GMT",
     "v": 0,
     "l": [
@@ -10735,7 +10726,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 442,
-    "t": "AI will make anyone a 10x programmer, but with 10x the cleanup\n\nAgents to check the work of the agents All Things AI  AI is easy to use, but not quite as easy as just barking \"Alexa! Make me an e-commerce site.\" And, no, adding \"DON'T HALLUCINATE\" to the instruction loop won't help.…",
+    "t": "AI יהפוך אותך לפרוגרמר 10 פעמים יותר טוב, אבל עם 10 פעמים יותר ניקיון לעשות\n\nאי אפשר פשוט לצרוח \"Alexa, תעשי לי חנות אונליין\" ותמיד זה יעבוד - גם אם תוסיפו \"בבקשה אל תסיימו סיפורים מוזרים\" להוראות. agents של AI צריכים agents אחרים שיבדקו אחריהם, כי הטכנולוגיה עדיין לא מושלמת. בקצרה: AI יכול להכניס אתכם לעוד 10 פעמים מהר, אבל תצטרכו להרבה יותר זמן לניקוי בחזרה. מקור: The Register",
     "d": "2026-04-04T13:13:15.000Z",
     "v": 0,
     "l": [
@@ -11047,7 +11038,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 455,
-    "t": "PrismML debuts energy-sipping 1-bit LLM in bid to free AI from the cloud\n\nBonsai 8B model is competitive with other 8B models but 14x smaller and 5x more energy efficient PrismML, an AI venture out of Caltech, has released a 1-bit large language model that outperforms weightier models, with the expectation that it will improve AI efficiency and viability on mobile devices, among other applications.…",
+    "t": "PrismML חושפת מודל LLM חסכוני בביט אחד בניסיון לשחרר את ה-AI מהעננים\n\nסטארטאפ מקליפורניה הוציא לאור את Bonsai 8B, מודל שפה מעוקצץ שחוסך 14 פעמים בגודל ו-5 פעמים באנרגיה בהשוואה למודלים דומים, וכל זה תוך שהוא שומר על ביצועים תחרותיים. הטריק? כל החישובים של הרשת עובדים עם ביט אחד בלבד, דבר שיכול למהפך את עולם ה-AI על מכשירים ניידים וסביבות עם משאבים מוגבלים.",
     "d": "2026-04-04T08:09:08.000Z",
     "v": 0,
     "l": [
@@ -11119,7 +11110,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 458,
-    "t": "‘Occasionally a picture can change the course of history’: 33 scandalous photos that shocked the world\n\nWhen it comes to scandal, seeing is believing – which is why these images caused such a stir\nWords can tell a story, but it’s pictures that will make you believe in it. Such is the power of a photograph; the ability to strip away illusions, to illuminate something hidden, and sometimes force us to accept unpalatable truths. When it comes to scandal, seeing is believing – occasionally even to the point that a picture changes the course of history.\nHow might life have been different for Andrew Mou",
+    "t": "'לפעמים תמונה אחת יכולה לשנות את מהלך ההיסטוריה': 33 תמונות סורקות שזעזעו את העולם\n\nבעולם הסקנדלים, רואים זה אומנם להאמין - ובדיוק בגלל זה התמונות האלה הלהיטו את העולם. אם מילים מסבירות סיפור, תמונות הן שגורמות לנו להשתכנע בו, וכמו שאנחנו רואים פה, יש למצלומים כוח בלתי נתפס - הם חושפים אלו שנסתרו, מורידים מסיכות והכופים עלינו קבל אמיתות קשות ל-לע. בהיסטוריה, חלק מהתמונות האלה בעצם שינו את מהלך של דברים.",
     "d": "Sat, 04 Apr 2026 05:00:15 GMT",
     "v": 0,
     "l": [
@@ -11510,7 +11501,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 474,
-    "t": "Netflix – yes, Netflix – jumps on the AI bandwagon with video editor\n\nVideo-language model revises how objects interact when things get removed from a scene A new Netflix model promises to rewrite the way we make movies. Just imagine this. As the director of the multi-million dollar epic Car Crash III: Suddenest Impact, you've just finished filming the finale where your star, Cruz Control, drives straight into an onrushing semi.…",
+    "t": "נטפליקס – כן, נטפליקס – קופצת על רכבת ה-AI עם עורך וידאו חדש\n\nנטפליקס החליטה להשקיע ב-AI ופיתחה מודל וידאו-שפה שמסוגל לעשות משהו ממש מטורף: להסיר אובייקטים מסצנה ולהתאים באופן אוטומטי את כל האינטראקציות בסצנה כך שהווידאו ייראה טבעי. זה אומר שבעתיד, במקום להשקיע מיליוני דולרים בצילומים מחדש, יוכלו במפעלי הסרטים פשוט להסיר שחקנים או עצמים בעריכה. הטכנולוגיה הזו עלולה באמת לשנות את כל תעשיית הקולנוע.",
     "d": "2026-04-03T20:42:44.000Z",
     "v": 0,
     "l": [
@@ -11525,8 +11516,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://regmedia.co.uk/2021/05/03/shuterstock_netflix.jpg",
@@ -12081,7 +12071,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 498,
-    "t": "UK’s leading AI research institute told to make ‘significant’ changes\n\nAlan Turing Institute told by funder to offer better strategy and more value for money after board was reminded of legal duties by watchdog\nThe UK’s leading AI research institute has been told to make “significant” changes by its main source of taxpayer funding.\nThe Guardian revealed last week that the board of the Alan Turing Institute was reminded of its legal duties by the charity watchdog after a whistleblower complaint.\n Continue reading...",
+    "t": "מכון ה-AI המוביל בבריטניה מתבקש לערוך שינויים משמעותיים\n\nהמכון Alan Turing Institute, מכון המחקר ה-AI הגדול בבריטניה, קיבל התנייה מצד הגופים שממומנים אותו בכספי ממשלה לבצע שינויים משמעותיים בעל-מנת להשיג יעילות ותוצאות טובות יותר. לאחר תלונה של חושף מעילות, גורם הפיקוח על ארגונים ללא מטרות רווח הזכיר לדירקטוריון של המכון את חובותיו החוקיות, דבר שמעיד על בעיות ניהוליות ותכנוניות במוסד המחקר המפורסם.",
     "d": "Fri, 03 Apr 2026 13:04:06 GMT",
     "v": 0,
     "l": [
@@ -12096,8 +12086,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/fc4b8480a700ae851faa5bcd1e40a6b96029c71b/3100_726_2274_1819/master/2274.jpg?width=140&quality=85&auto=format&fit=max&s=382e5f8ffc6871269fc36c6a1eed6507",
