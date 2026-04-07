@@ -3568,8 +3568,8 @@
       "source": "AI News",
       "title_en": "Secure governance accelerates financial AI revenue growth",
       "description_en": "Financial institutions are learning to deploy compliant AI solutions for greater revenue growth and market advantage. For the better part of ten years, financial institutions viewed AI primarily as a mechanism for pure efficiency gains. During that era, quantitative teams programmed systems designed to discover ledger discrepancies or eliminate milliseconds from automated trading execution times. […]\nThe post Secure governance accelerates financial AI revenue growth appeared first on AI News.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ממשל בטוח של AI מואץ את גדילת ההכנסות בטכנולוגיה פיננסית",
+      "description_he": "המוסדות הפיננסיים גילו שהדרך להכנסות חדשות היא לא רק בהנדסת AI יעילה, אלא בשימוש תואם בתקנות - כל זה תוך שמירה על ממשל חזק ובקרה מלאה. במשך עשור, הבנקים והחברות הפיננסיות ראו ב-AI בעיקר כלי להפחתת עלויות וקצר זמן עיבוד, אבל היום נוכלו שהטכנולוגיה יכולה להיות מנוע גדול להרחבת העסק - ובתנאי שהם יקבעו כללי משחק חכמים.",
       "link": "https://www.artificialintelligence-news.com/news/secure-governance-accelerates-financial-ai-revenue-growth/",
       "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/secure-governance-financial-ai-revenue-growth-artificial-intelligence-regulation-compliance-explainability.jpg",
       "pub_date": "Mon, 30 Mar 2026 15:54:58 +0000",
@@ -3598,7 +3598,7 @@
         "security",
         "strategy"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-06T21:25:33.774Z",
       "created_at": "2026-04-06T21:25:33.774Z"
@@ -3608,8 +3608,8 @@
       "source": "AI News",
       "title_en": "Glia wins Excellence Award for safer AI in banking",
       "description_en": "Glia, a customer service platform providing AI-powered interactions for the banking sector, has been named a winner in the Banking and Financial Services Category at the 2026 Artificial Intelligence Excellence Awards. The awards recognises achievements in a range of industries and use cases, spotlighting “companies and leaders moving AI beyond experimentation and into practical, accountable […]\nThe post Glia wins Excellence Award for safer AI in banking appeared first on AI News.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "Glia זוכה בפרס Excellence על AI בטוח בבנקאות",
+      "description_he": "Glia, פלטפורמה לשירות לקוחות המשתמשת בـ AI, קיבלה הכרה בפרסי ה-AI Excellence Awards בקטגוריית בנקאות ושירותים פיננסיים. הפרס מזהה חברות שהצליחו לקחת AI מעבר לעולם הניסויים וליישומים פרקטיים וניתנים לאחריות בעולם האמיתי, וזה די משמעותי בתחום הפיננסי שם האמון הוא כל-כך חשוב.",
       "link": "https://www.artificialintelligence-news.com/news/glia-wins-excellence-award-for-safer-ai-in-banking/",
       "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/fintech-ai-safety-hero_x1440.webp",
       "pub_date": "Mon, 30 Mar 2026 14:12:59 +0000",
@@ -3620,7 +3620,7 @@
         "credit unions",
         "safe ai"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-06T21:25:34.482Z",
       "created_at": "2026-04-06T21:25:34.482Z"
@@ -3630,8 +3630,8 @@
       "source": "Towards Data Science",
       "title_en": "The Geometry Behind the Dot Product: Unit Vectors, Projections, and Intuition",
       "description_en": "The geometric foundations you need to understand the dot product\nThe post The Geometry Behind the Dot Product: Unit Vectors, Projections, and Intuition appeared first on Towards Data Science.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "הגיאומטריה מאחורי הכפל הנקודה: וקטורים יחידה, הטלות ואינטואיציה",
+      "description_he": "אם אתם מחפשים להבין עמוק מה זה בעצם הדוט פרודקט (dot product), הנה המאמר שיעזור לכם. במאמר זה מסבירים את היסודות הגיאומטריים שמאחורי הפעולה הזו שכל מי שעובד עם AI וData Science נתקל בה כל הזמן. כוללים הסברים על וקטורים יחידה, הטלות וטיפ להבנה אינטואיטיבית של המושגים. זה כמו שמישהו סוף סוף הסביר לכם את זה בצורה שנכנסת לראש.\n\nמקור: Towards Data Science",
       "link": "https://towardsdatascience.com/the-geometry-behind-the-dot-product-unit-vectors-projections-and-intuition/",
       "image_url": "https://towardsdatascience.com/wp-content/uploads/2026/04/a_edited-scaled-1.jpg",
       "pub_date": "Mon, 06 Apr 2026 15:45:00 +0000",
@@ -3644,7 +3644,7 @@
         "Linear Algebra",
         "Mathematic"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-06T21:25:35.198Z",
       "created_at": "2026-04-06T21:25:35.198Z"
@@ -3654,8 +3654,8 @@
       "source": "Towards Data Science",
       "title_en": "How to Run Claude Code Agents in Parallel",
       "description_en": "Learn how to apply coding agents in parallel to work more efficiently\nThe post How to Run Claude Code Agents in Parallel appeared first on Towards Data Science.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "איך להריץ Claude Code Agents במקביל",
+      "description_he": "אם אתם עובדים עם Claude Agents ורוצים להאיץ את התהליך, יש לכם חדשות טובות - אפשר להריץ כמה agents בו-זמנית ולא לחכות שאחד ישלים לפני השני. הפוסט הזה מסביר איך לעשות את זה בדרך פרקטית, כך שתוכלו לעבד יותר משימות קוד ביעילות גבוהה יותר. זה אחד מהטריקים שכדאי לכם לדעת אם אתם רוצים להעלות את הערך של AI agents בעבודה שלכם. | מקור: Towards Data Science",
       "link": "https://towardsdatascience.com/how-to-run-claude-code-agents-in-parallel/",
       "image_url": "https://towardsdatascience.com/wp-content/uploads/2026/04/image-8.jpg",
       "pub_date": "Mon, 06 Apr 2026 13:14:00 +0000",
@@ -3668,7 +3668,7 @@
         "Llm",
         "Machine Learning"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-06T21:25:35.316Z",
       "created_at": "2026-04-06T21:25:35.316Z"
@@ -3678,8 +3678,8 @@
       "source": "Towards Data Science",
       "title_en": "Behavior is the New Credential",
       "description_en": "We are living through a paradigm shift in how we prove we are who we say we are online. Instead of asking What do you know? (password, PIN, mother’s maiden name) or What do you look like? (Face ID, fingerprint) the question has become How do you behave?\nThe post Behavior is the New Credential appeared first on Towards Data Science.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ההתנהגות היא העדות החדשה",
+      "description_he": "התרחשה מהפכה בדרך שבה אנחנו מוכיחים את הזהות שלנו באינטרנט - והיא כבר לא תלויה בסיסמאות, טביעות אצבע או זיהוי פנים. בימים אלה, השאלה הגדולה היא איך אתה מתנהג בסביבה דיגיטלית, וזה הופך להיות הדרך הכי אמינה לאמת שאתה באמת מי שאתה אומר שאתה. מדובר בצעד ענק בתחום האבטחה וה-authentication.\n\nמקור: Towards Data Science",
       "link": "https://towardsdatascience.com/behavior-is-the-new-credential/",
       "image_url": "https://towardsdatascience.com/wp-content/uploads/2026/04/image-332.png",
       "pub_date": "Mon, 06 Apr 2026 10:37:00 +0000",
@@ -3691,7 +3691,7 @@
         "Editors Pick",
         "Machine Learning"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-06T21:25:35.420Z",
       "created_at": "2026-04-06T21:25:35.420Z"
@@ -3701,8 +3701,8 @@
       "source": "Towards Data Science",
       "title_en": "Proxy-Pointer RAG: Achieving Vectorless Accuracy at Vector RAG Scale and Cost",
       "description_en": "A new way to build vector RAG—structure-aware and reasoning-capable\nThe post Proxy-Pointer RAG: Achieving Vectorless Accuracy at Vector RAG Scale and Cost appeared first on Towards Data Science.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "Proxy-Pointer RAG: דיוק ללא וקטורים בעלות וביצועים של Vector RAG",
+      "description_he": "חדש בעולם ה-RAG: שיטה חכמה שמבינה מבנה וכשירה בהנמקה. במקום להשתמש בוקטורים כמו בשיטות קודמות, הגישה החדשה הזו משיגה את אותה רמת דיוק אבל בעלות נמוכה הרבה יותר. זה יכול להיות משנה משחק למי שמפתח מערכות AI חזקות בלי להוציא הון עצום על GPU ואחסון וקטורים.",
       "link": "https://towardsdatascience.com/proxy-pointer-rag-achieving-vectorless-accuracy-at-vector-rag-scale-and-cost/",
       "image_url": "https://towardsdatascience.com/wp-content/uploads/2026/04/proxy-pointer-2048x1143-1.jpg",
       "pub_date": "Sun, 05 Apr 2026 16:46:00 +0000",
@@ -3715,7 +3715,7 @@
         "Rag",
         "Rag Architecture"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-06T21:25:35.554Z",
       "created_at": "2026-04-06T21:25:35.554Z"
@@ -3725,8 +3725,8 @@
       "source": "Towards Data Science",
       "title_en": "A Data Scientist’s Take on the $599 MacBook Neo",
       "description_en": "Why it doesn’t fit my workflow but still makes sense for beginners\nThe post A Data Scientist’s Take on the $599 MacBook Neo appeared first on Towards Data Science.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "דיעת Data Scientist על ה-MacBook Neo ב-599 דולר",
+      "description_he": "מדען נתונים בדק את ה-MacBook Neo החדש ומצא שהוא לא מתאים לזרימת העבודה המקצועית שלו, אבל הוא מודה שהמחיר והביצועים הם בדיוק מה שמתחילים צריכים. הפוסט הושמע כמו קול רוח מדעית בקרב קהילת ה-Tech בישראל שתמיד מחפשת ציוד עתודי בעלות נמוכה.",
       "link": "https://towardsdatascience.com/a-data-scientists-take-on-the-599-macbook-neo/",
       "image_url": "https://towardsdatascience.com/wp-content/uploads/2026/04/kamil-switalski-zVBfEcNApE8-unsplash-scaled-1.jpg",
       "pub_date": "Sun, 05 Apr 2026 13:00:00 +0000",
@@ -3738,7 +3738,7 @@
         "Programming",
         "Technology"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-06T21:25:35.672Z",
       "created_at": "2026-04-06T21:25:35.672Z"
@@ -3748,8 +3748,8 @@
       "source": "Towards Data Science",
       "title_en": "Building a Python Workflow That Catches Bugs Before Production",
       "description_en": "Using modern tooling to identify defects earlier in the software lifecycle.\nThe post Building a Python Workflow That Catches Bugs Before Production appeared first on Towards Data Science.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "בניית Workflow ב-Python שתופס באגים לפני שהם מגיעים לייצור",
+      "description_he": "אם אתם מפתחים Python ורוצים להימנע מ-bugs שמפוצצים בייצור, כדאי לכם לעקוב. המאמר מדבר על הכלים המודרניים שעוזרים לתפוס בעיות עוד בשלב הפיתוח כדי שלא תצא לכם מפה מביכה ללקוח. זה בעצם סיפור על איך להרים את רמת האיכות של הקוד שלכם ולחסוך לעצמכם כאבי ראש עמוקים.\n\n_מקור: Towards Data Science_",
       "link": "https://towardsdatascience.com/building-a-python-workflow-that-catches-bugs-before-production/",
       "image_url": "https://towardsdatascience.com/wp-content/uploads/2026/04/Gemini_Generated_Image_67ljth67ljth67lj-scaled-1.jpg",
       "pub_date": "Sat, 04 Apr 2026 15:00:00 +0000",
@@ -3761,7 +3761,7 @@
         "Python",
         "Software Engineering"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-06T21:25:35.826Z",
       "created_at": "2026-04-06T21:25:35.826Z"
@@ -3771,8 +3771,8 @@
       "source": "Towards Data Science",
       "title_en": "Building Robust Credit Scoring Models with Python",
       "description_en": "A Practical Guide to Measuring Relationships between Variables for Feature Selection in a Credit Scoring.\nThe post Building Robust Credit Scoring Models with Python appeared first on Towards Data Science.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "בנייה של מודלים חזקים לדירוג אשראי עם Python",
+      "description_he": "אם אתם עובדים בתחום הפיננסי או ה-data science, הנה גיד שחייב לעניין אתכם: איך בונים מודל חזקים לדירוג אשראי באמצעות Python. המאמר מסביר כיצד למדוד קשרים בין משתנים ולבחור את ה-features הנכונות כדי שהמודל שלכם יהיה מדויק ויעיל. זה כל מה שצריך כדי להבין את הנושא בעמק.",
       "link": "https://towardsdatascience.com/building-robust-credit-scoring-models-with-python/",
       "image_url": "https://towardsdatascience.com/wp-content/uploads/2026/04/image_by_autor.jpg",
       "pub_date": "Sat, 04 Apr 2026 12:48:00 +0000",
@@ -3784,7 +3784,7 @@
         "Programming",
         "Python"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-06T21:25:35.952Z",
       "created_at": "2026-04-06T21:25:35.952Z"
@@ -3794,8 +3794,8 @@
       "source": "Towards Data Science",
       "title_en": "DenseNet Paper Walkthrough: All Connected",
       "description_en": "When we try to train a very deep neural network model, one issue that we might encounter is the vanishing gradient problem. This is essentially a problem where the weight update of a model during training slows down or even stops, hence causing the model not to improve. When a network is very deep, the […]\nThe post DenseNet Paper Walkthrough: All Connected appeared first on Towards Data Science.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "DenseNet - המדריך המלא: הכל מחובר",
+      "description_he": "DenseNet היא ארכיטקטורה של neural network שפותרת את בעיית ה-vanishing gradient שמטריפה מפתחים בעת אימון מודלים עמוקים מאוד. במקום להעביר מידע רק משכבה לשכבה, DenseNet מחברת כל שכבה לכל השכבות שלפניה - דבר שגורם לגרדיינטים להישאר חזקים ומאפשר למודלים להתכנס בהרבה יותר קלות. בפוסט הזה מוסברת הארכיטקטורה המעניינת של DenseNet וכיצד היא תורמת להשיפור של ה-training של רשתות עמוקות. מקור: Towards Data Science",
       "link": "https://towardsdatascience.com/densenet-paper-walkthrough-all-connected/",
       "image_url": "https://towardsdatascience.com/wp-content/uploads/2026/04/0_cmnhCHp03Eo5G19U.jpg",
       "pub_date": "Fri, 03 Apr 2026 14:21:00 +0000",
@@ -3808,7 +3808,7 @@
         "Python",
         "Pytorch"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-06T21:25:36.054Z",
       "created_at": "2026-04-06T21:25:36.054Z"
@@ -3818,8 +3818,8 @@
       "source": "Towards Data Science",
       "title_en": "I Replaced Vector DBs with Google’s Memory Agent Pattern for my notes in Obsidian",
       "description_en": "Persistent AI memory without embeddings, Pinecone, or a PhD in similarity search.\nThe post I Replaced Vector DBs with Google’s Memory Agent Pattern for my notes in Obsidian appeared first on Towards Data Science.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "החלפתי Vector DBs בGoogle Memory Agent Pattern לתוך Obsidian שלי",
+      "description_he": "מפתח Israeli מצא דרך אלגנטית להחזיק זיכרון AI מתמשך ללא צורך בembeddings, Pinecone או תואר במתמטיקה - הוא פשוט השתמש בpattern חדש של גוגל בישירות בObsidian. הפתרון הזה משנה את המשחק עבור כל מי שרוצה notes חכמים בלי להיכנס לארנק או לכאב ראש טכני. מקור: Towards Data Science",
       "link": "https://towardsdatascience.com/i-replaced-vector-dbs-with-googles-memory-agent-pattern-for-my-notes-in-obsidian/",
       "image_url": "https://towardsdatascience.com/wp-content/uploads/2026/04/Gemini_Generated_Image_y59dgdy59dgdy59d-scaled-1.jpg",
       "pub_date": "Fri, 03 Apr 2026 11:35:00 +0000",
@@ -3831,7 +3831,7 @@
         "Data Science",
         "Editors Pick"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-06T21:25:36.165Z",
       "created_at": "2026-04-06T21:25:36.165Z"
@@ -3841,8 +3841,8 @@
       "source": "Towards Data Science",
       "title_en": "Linear Regression Is Actually a Projection Problem (Part 2: From Projections to Predictions)",
       "description_en": "The Vector View of Least Squares.\nThe post Linear Regression Is Actually a Projection Problem (Part 2: From Projections to Predictions) appeared first on Towards Data Science.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "רגרסיה ליניארית היא בעצם בעיית הטלה - חלק 2: מהטלות לחיזויים",
+      "description_he": "סדרת המאמרים המעמיקה של Towards Data Science חוזרת בחלק השני כדי להסביר איך Linear Regression בעצם עובד כבעיית projection בעולם הווקטורים. אם תמיד שאלתם למה least squares עובד כל כך טוב - בחלק הזה תגיעו להבנה גיאומטרית שתשנה את האופן שבו אתם חושבים על רגרסיה למשך כל החיים. המאמר מציג את התמונה הקטנה המפורסמת של least squares דרך עדשה של אלגברה ליניארית - וזה פשוט חכם.",
       "link": "https://towardsdatascience.com/linear-regression-is-actually-a-projection-problem-part-2-from-projections-to-predictions/",
       "image_url": "https://towardsdatascience.com/wp-content/uploads/2026/04/pexels-weekendplayer-1252807-scaled-1.jpg",
       "pub_date": "Thu, 02 Apr 2026 15:37:44 +0000",
@@ -3854,7 +3854,7 @@
         "Machine Learning",
         "Math For Machine Learning"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-06T21:25:36.265Z",
       "created_at": "2026-04-06T21:25:36.265Z"
@@ -3864,8 +3864,8 @@
       "source": "Towards Data Science",
       "title_en": "How to Handle Classical Data in Quantum Models",
       "description_en": "Workflows and encoding techniques in quantum machine learning\nThe post How to Handle Classical Data in Quantum Models appeared first on Towards Data Science.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "איך מטפלים בנתונים קלאסיים בתוך מודלים קוונטיים",
+      "description_he": "אם אתם עובדים עם quantum machine learning, אתם בטח כבר מבינים שהחלק הכי טריקי הוא להכניס נתונים רגילים (קלאסיים) למחשבים קוונטיים. המאמר הזה מסביר את ה-workflows והטכניקות הכי יעילות לקודד נתונים כך שהם יעבדו בעולם הקוונטי - כי זה לא כמו להטעין פייל ל-GPU רגיל.\nמקור: Towards Data Science",
       "link": "https://towardsdatascience.com/how-to-handle-classical-data-in-quantum-models/",
       "image_url": "https://towardsdatascience.com/wp-content/uploads/2026/04/geralt-artificial-intelligence-3382507-scaled-1.jpeg",
       "pub_date": "Thu, 02 Apr 2026 13:35:00 +0000",
@@ -3878,7 +3878,7 @@
         "Quantum",
         "Quantum Machine Learning"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-06T21:25:36.394Z",
       "created_at": "2026-04-06T21:25:36.394Z"
@@ -3888,8 +3888,8 @@
       "source": "Towards Data Science",
       "title_en": "Quantum Simulations with Python",
       "description_en": "Run Quantum Experiments with Qiskit-Aer\nThe post Quantum Simulations with Python appeared first on Towards Data Science.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "סימולציות קוונטיות עם Python",
+      "description_he": "אם אתם רוצים להתחיל לשחק עם מחשוב קוונטי בלי צורך במחשב קוונטי אמיתי, Qiskit-Aer זה בדיוק מה שצריך. הפוסט הזה מסביר איך להריץ ניסויים קוונטיים בPython ולהבין איך עובדת הטכנולוגיה של העתיד - כל זה מהמחשב שלכם בבית.",
       "link": "https://towardsdatascience.com/quantum-simulations-with-python/",
       "image_url": "https://towardsdatascience.com/wp-content/uploads/2026/04/image-70.png",
       "pub_date": "Thu, 02 Apr 2026 10:23:00 +0000",
@@ -3902,7 +3902,7 @@
         "Programming",
         "Quantum Algorithms"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-06T21:25:36.497Z",
       "created_at": "2026-04-06T21:25:36.497Z"
@@ -3912,8 +3912,8 @@
       "source": "Towards Data Science",
       "title_en": "The Inversion Error: Why Safe AGI Requires an Enactive Floor and State-Space Reversibility",
       "description_en": "A systems design diagnosis of hallucination, corrigibility, and the structural gap that scaling cannot close\nThe post The Inversion Error: Why Safe AGI Requires an Enactive Floor and State-Space Reversibility appeared first on Towards Data Science.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "שגיאת ההיפוך: למה AGI בטוח דורש בסיס אנאקטיבי והיפוכיות מרחב-מצבים",
+      "description_he": "מאמר טכני שחושף את הבעיה המובנית בפיתוח AI בטוח - החוקרים טוענים שהתופעות של hallucination ומחדל בתכנון AGI לא ניתן לפתור רק על ידי scaling כמו שהוא עכשיו. הפוסט מציע שצריך בסיס אחר לחלוטין שמבוסס על עקרונות של reversibility ו-enactive systems כדי באמת להשיג AI שנוכל לשלוט בו. זהו קריאת התעוררות למי שחושב שפשוט יותר compute וכוח חישובי יפתרו את כל בעיות הביטחון בـAI.",
       "link": "https://towardsdatascience.com/the-inversion-error-why-safe-agi-requires-an-enactive-floor-and-state-space-reversibility/",
       "image_url": "https://towardsdatascience.com/wp-content/uploads/2026/04/Inversion-Error-of-Top-Heavy-AI-Architecture_Zak-Version-1.jpg",
       "pub_date": "Wed, 01 Apr 2026 15:14:00 +0000",
@@ -3925,7 +3925,7 @@
         "Machine Learning",
         "Technology"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-06T21:25:36.606Z",
       "created_at": "2026-04-06T21:25:36.606Z"
@@ -3935,8 +3935,8 @@
       "source": "Towards Data Science",
       "title_en": "How Can A Model 10,000× Smaller Outsmart ChatGPT?",
       "description_en": "Why thinking longer can matter more than being bigger\nThe post How Can A Model 10,000× Smaller Outsmart ChatGPT? appeared first on Towards Data Science.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "איך מודל קטן פי 10,000 יכול להביס את ChatGPT?",
+      "description_he": "מסתבר שלא תמיד גודל זה כל מה שחשוב - יש כאן סיפור מעניין על מודל AI שהרבה יותר קטן מ-ChatGPT אבל הוא משתמש בחכמה בחשיבה עמוקה יותר כדי להגיע לתוצאות טובות יותר. כלומר, אם המודל ממש חושב טוב על הבעיה, הוא לא צריך להיות גיגנטי כדי להיות חכם. מעניין למראה.",
       "link": "https://towardsdatascience.com/how-can-a-model-10000x-smaller-outsmart-chatgpt-2/",
       "image_url": "https://towardsdatascience.com/wp-content/uploads/2026/04/dewatermarked-1-scaled-1.jpeg",
       "pub_date": "Wed, 01 Apr 2026 12:45:00 +0000",
@@ -3948,7 +3948,7 @@
         "Machine Learning",
         "Reasoning"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-06T21:25:36.712Z",
       "created_at": "2026-04-06T21:25:36.712Z"
@@ -3958,8 +3958,8 @@
       "source": "Towards Data Science",
       "title_en": "What Happens Now That AI is the First Analyst On Your Team?",
       "description_en": "How I am adapting in my career in the age of AI, automation, and when everything moving faster than expected.\nThe post What Happens Now That AI is the First Analyst On Your Team? appeared first on Towards Data Science.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מה קורה כשAI הוא האנליסט הראשון בצוות שלך?",
+      "description_he": "כאשר AI מתחיל לתפוס את המקום של אנליסט בשר ודם, צריך לחשוב מחדש על ההתמחות שלנו. כתב לנו איך הוא משתנה את הקריירה שלו בעידן של אוטומציה והודעות חדשות שמגיעות מהר יותר מהצפוי. יומן כנה של מישהו שמנסה להישאר רלוונטי כשהכלים משתנים מתחת ברגליים.",
       "link": "https://towardsdatascience.com/what-happens-now-that-ai-is-the-first-analyst-on-your-team/",
       "image_url": "https://towardsdatascience.com/wp-content/uploads/2026/04/alex-knight-2EJCSULRwC8-unsplash-scaled-1.jpg",
       "pub_date": "Wed, 01 Apr 2026 10:36:00 +0000",
@@ -3972,7 +3972,7 @@
         "Future of Careers",
         "Machine Learning"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-06T21:25:36.829Z",
       "created_at": "2026-04-06T21:25:36.829Z"
@@ -3982,8 +3982,8 @@
       "source": "Towards Data Science",
       "title_en": "The Map of Meaning: How Embedding Models “Understand” Human Language",
       "description_en": "Learn why embedding models are like a GPS for meaning. Instead of searching for exact words, it navigates a \"Map of Ideas\" to find concepts that share the same vibe. From battery types to soda flavors, learn how to fine-tune these digital fingerprints for pinpoint accuracy in your next AI project.\nThe post The Map of Meaning: How Embedding Models “Understand” Human Language appeared first on Towards Data Science.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מפת המשמעות: איך מודלי Embedding באמת 'מבינים' שפה אנושית",
+      "description_he": "אז בעצם Embedding models הם כמו GPS לתוכן - במקום לחפש מילים בדיוק, הם מנווטים בחלל של רעיונות כדי למצוא קונספטים שיש להם אותה 'אנרגיה'. בין סוגי סוללות לטעמי משקאות, הם יודעים למצוא קשרים שאנחנו לא רואים, וגם אפשר לטווא אותם לדיוק כמו צלף כדי שיעבדו בדיוק בפרויקט ה-AI הבא שלכם.",
       "link": "https://towardsdatascience.com/the-map-of-meaning-how-embedding-models-understand-human-language/",
       "image_url": "https://towardsdatascience.com/wp-content/uploads/2026/03/blog2.png",
       "pub_date": "Tue, 31 Mar 2026 17:25:00 +0000",
@@ -3996,7 +3996,7 @@
         "Python",
         "vector embeddings"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-06T21:25:36.936Z",
       "created_at": "2026-04-06T21:25:36.937Z"
@@ -4006,8 +4006,8 @@
       "source": "Towards Data Science",
       "title_en": "How to Make Claude Code Better at One-Shotting Implementations",
       "description_en": "Make your coding agent more efficient\nThe post How to Make Claude Code Better at One-Shotting Implementations appeared first on Towards Data Science.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "איך להפוך את Claude Code לטוב יותר בהשלמת קוד בניסיון ראשון",
+      "description_he": "אם אתם משתמשים ב-Claude Code ורוצים שהוא יסיים יותר משימות קוד בצלחה בעלייה ראשונה, יש לכם טיפים טובים לפה. המאמר מסביר איך להתאים את הprompts ואת ההקשר כדי שהמודל יתן לכם קוד עובד ללא שיפוטים - זה חוסך הרבה זמן כשאתם עובדים עם agents של AI. מהתחום הגדול של data science זה כמובן.",
       "link": "https://towardsdatascience.com/how-to-make-claude-code-better-at-one-shotting-implementations/",
       "image_url": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-350.jpg",
       "pub_date": "Tue, 31 Mar 2026 15:45:00 +0000",
@@ -4020,7 +4020,7 @@
         "Machine Learning",
         "Programming"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-06T21:25:37.032Z",
       "created_at": "2026-04-06T21:25:37.032Z"
@@ -4030,8 +4030,8 @@
       "source": "Towards Data Science",
       "title_en": "Building a Personal AI Agent in a couple of Hours",
       "description_en": "I’ve been so surprised by how fast individual builders can now ship real and useful prototypes. Tools like Claude Code, Google AntiGravity, and the growing ecosystem around them have crossed a threshold: you can inspect what others are building online and realize just how fast you can build today. Over the past weeks, I’ve started […]\nThe post Building a Personal AI Agent in a couple of Hours appeared first on Towards Data Science.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "בניית AI Agent אישי בשעות ספורות",
+      "description_he": "היום אפשר לבנות prototype אמיתי ושימושי של AI agent כמעט בין לילה - זו המסקנה של מפתח שנתן לזה ניסיון. כלים כמו Claude Code ו-Google AntiGravity הפכו את זה לכל כך קל שאתה יכול לראות בדיוק איך בנאים אחרים משגרים יוצר יומיום, ולהבין שאתה גם יכול לעשות את זה מהר בהרבה מאשר חשבת. אם אתה רציני לגבי AI, זו סיטואציה שוקת בחיוב.",
       "link": "https://towardsdatascience.com/building-a-personal-ai-agent-in-a-couple-of-hours/",
       "image_url": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-340.png",
       "pub_date": "Tue, 31 Mar 2026 12:24:00 +0000",
@@ -4043,7 +4043,7 @@
         "personal assistant",
         "Prototype"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-06T21:25:37.138Z",
       "created_at": "2026-04-06T21:25:37.139Z"
@@ -4053,8 +4053,8 @@
       "source": "Towards Data Science",
       "title_en": "Turning 127 Million Data Points Into an Industry Report",
       "description_en": "What I learned about data wrangling, segmentation, and storytelling while building an application security report from scratch\nThe post Turning 127 Million Data Points Into an Industry Report appeared first on Towards Data Science.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "איך הפכו 127 מיליון נקודות נתונים לדוח תעשייה",
+      "description_he": "סיפור מעניין על התהליך של ארגון כמות ענקית של נתונים וייצורם בצורה משמעותית. המחבר חולק כיצד הצליח לבנות דוח עריכות אבטחה מרשים מאפס, תוך שהכל זה על סדר טוב של data wrangling, סגמנטציה חכמה וכמובן storytelling שגורם לנתונים הללו באמת להרשים. לקריאה מלאה בـ Towards Data Science",
       "link": "https://towardsdatascience.com/turning-127-million-data-points-into-an-industry-report/",
       "image_url": "https://towardsdatascience.com/wp-content/uploads/2026/03/inforgraphic.png",
       "pub_date": "Tue, 31 Mar 2026 10:35:00 +0000",
@@ -4065,7 +4065,7 @@
         "Data Visualization",
         "Industry Insights"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-06T21:25:37.251Z",
       "created_at": "2026-04-06T21:25:37.251Z"
@@ -4075,8 +4075,8 @@
       "source": "Towards Data Science",
       "title_en": "How to Lie with Statistics with your Robot Best Friend",
       "description_en": "What is p hacking, is it bad, and can you get ai to do it for you?\nThe post How to Lie with Statistics with your Robot Best Friend appeared first on Towards Data Science.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "איך משקרים עם סטטיסטיקה כשיש לך חברה רובוט הטובה ביותר",
+      "description_he": "מה זה p-hacking ולמה זה כל כך מסוכן? התשובה הקצרה: מדובר בטריק סטטיסטי שמאפשר לך 'להוכיח' כמעט כל דבר שאתה רוצה אם אתה מנחש בספיק הנכון. והנה החדשות המדיוק - AI יכול לעשות את זה בשבילך הרבה יותר מהר. הפוסט הזה מ-Towards Data Science מסביר למה זה בעיה ואיך להיות זהיר.",
       "link": "https://towardsdatascience.com/how-to-lie-with-statistics-with-your-robot-best-friend/",
       "image_url": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-310-1024x683-1.jpg",
       "pub_date": "Mon, 30 Mar 2026 15:06:21 +0000",
@@ -4089,7 +4089,7 @@
         "Machine Learning",
         "Python"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-06T21:25:37.364Z",
       "created_at": "2026-04-06T21:25:37.364Z"
@@ -4121,8 +4121,8 @@
       "source": "TechCrunch AI",
       "title_en": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
       "description_en": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "בשקט בפינה: בעלות OpenAI מטים קרן השקעות שעלולה להגיע ל-100 מיליון דולר",
+      "description_he": "Zero Shot היא קרן VC חדשה שנוצרה בידי ותיקי OpenAI, ויעדה להשיג 100 מיליון דולר לקרן הראשונה שלה - ואגב כך כבר החלה להשקיע בסטארטפים. זה עוד אחד מאלה המהלכים שמראים איך ה-AI בתחום ההון סיכון הוא כבר למעשה חוק הגזירה של העתיד.",
       "link": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-color-v2.jpg?resize=1200,675",
       "pub_date": "Mon, 06 Apr 2026 21:54:26 +0000",
@@ -4136,7 +4136,7 @@
         "venture capital",
         "zero shot"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T05:54:28.530Z",
       "created_at": "2026-04-07T05:54:28.530Z"
@@ -4146,8 +4146,8 @@
       "source": "Ars Technica",
       "title_en": "After court loss, RFK Jr. gives himself more power over CDC vaccine panel",
       "description_en": "The charter renewal gives Kennedy broad authority to pick anyone for the panel.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "אחרי הפסד בבית משפט, RFK Jr. מעניק לעצמו סמכויות רחבות יותר על פני ועדת החיסונים של ה-CDC",
+      "description_he": "RFK Jr. קיבל ידיים חופשיות לחלוטין - החידוש של האישור מאפשר לו להשמות כל מי שהוא רוצה לוועדת החיסונים של ה-CDC. זה קורה בדיוק אחרי שהוא הפסיד בסכסוך משפטי, וזה בעצם מעניק לו יותר כוח מאשר שהיה לו קודם. בעקרון, הוא עכשיו יכול לתעל מישהו שיתמוך בתפיסות שלו על חיסונים - זו לא בדיוק חדשות טובות לאלו שמאמינים בתהליך מדעי נורמלי.",
       "link": "https://arstechnica.com/health/2026/04/after-court-loss-rfk-jr-gives-himself-more-power-over-cdc-vaccine-panel/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2249270671-1152x648.jpg",
       "pub_date": "Mon, 06 Apr 2026 22:34:11 +0000",
@@ -4160,7 +4160,7 @@
         "robert f kennedy jr",
         "vaccine"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T05:54:28.635Z",
       "created_at": "2026-04-07T05:54:28.635Z"
@@ -4170,8 +4170,8 @@
       "source": "Ars Technica",
       "title_en": "From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability",
       "description_en": "New model can respond to disruptions and figure out moves it wasn't trained for.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מרובוטים שמקפלים קופסאות ולעד תיקון שואבי אבק - מודל GEN-1 הגיע ל-99% אמינות",
+      "description_he": "יש לנו פה משהו מעניין: מודל רובוטיקה חדש שמסוגל להתמודד עם תקלות בלתי צפויות ולהמציא תנועות שאף פעם לא אמנו אותו לעשות. בקיצור, הרובוטים של Samsung הם כעת חכמים מספיק כדי להסתגל למצבים חדשים בעצמם, וזה נשמע ממש כמו דברים מפי-מדע עם אמינות של 99%.",
       "link": "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gen1-1152x648.png",
       "pub_date": "Mon, 06 Apr 2026 22:18:33 +0000",
@@ -4184,7 +4184,7 @@
         "robots",
         "training"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T05:54:28.635Z",
       "created_at": "2026-04-07T05:54:28.635Z"
@@ -4194,8 +4194,8 @@
       "source": "Ars Technica",
       "title_en": "Sports bets on prediction markets ruled to be \"swaps,\" exempt from state laws",
       "description_en": "Court rules US preempts states from applying gambling laws to prediction markets.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "הימורי ספורט בשווקי ניבויים הוכרו כ'סוואפים' - פטורים מחוקי המדינה",
+      "description_he": "בית משפט קבע שהממשלה הפדרלית עדיפה על חוקי הימורים של המדינות בכל הנוגע לשווקי ניבויים. זו החלטה גדולה שפותחת את הדלת לפעילות חוקית של שווקי הניבויים האלה בארה\"ב, כי הם נחשבים כעת ליצירים פיננסיים ולא לקזינו רגיל. העניין כמובן קצת מסובך בגלל שעדיין יש כאן משחקי כסף, אבל הדיוק החוקי הזה עשוי לשנות את המשחק עבור כל הענף.",
       "link": "https://arstechnica.com/tech-policy/2026/04/sports-bets-on-prediction-markets-ruled-to-be-swaps-exempt-from-state-laws/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/kalshi-death-markets-1152x648-1775509431.jpg",
       "pub_date": "Mon, 06 Apr 2026 21:56:36 +0000",
@@ -4206,7 +4206,7 @@
         "prediction markets",
         "sports betting"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T05:54:28.635Z",
       "created_at": "2026-04-07T05:54:28.635Z"
@@ -4216,8 +4216,8 @@
       "source": "Ars Technica",
       "title_en": "Trump's next budget once again calls for massive cuts to science",
       "description_en": "Congress rejected huge cuts to science in 2026, but Trump is trying again.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "תקציב טראמפ השני: שוב חיתוכים ענקיים במימון המדע",
+      "description_he": "טראמפ חוזר לתקיפה עם הצעת תקציב חדשה שקוראת לקיצוצים משמעותיים במימון מחקר מדעי בארה״ב, למרות שהקונגרס דחה הצעה דומה בעבר. הפעם הוא מנסה שוב, ויש לראות אם יצליח להעביר את החיתוכים הגדולים הללו דרך הפרלמנט האמריקאי.",
       "link": "https://arstechnica.com/science/2026/04/trumps-next-budget-once-again-calls-for-massive-cuts-to-science/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223415789-1152x648.jpg",
       "pub_date": "Mon, 06 Apr 2026 21:40:40 +0000",
@@ -4235,7 +4235,7 @@
         "Science policy",
         "Trump"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T05:54:28.636Z",
       "created_at": "2026-04-07T05:54:28.636Z"
@@ -4245,8 +4245,8 @@
       "source": "Ars Technica",
       "title_en": "“The problem is Sam Altman”: OpenAI Insiders don’t trust CEO",
       "description_en": "OpenAI brainstorms ways AI can benefit humanity in effort to counter bad vibes.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "\"הבעיה היא סם אלטמן\": עובדי OpenAI לא סומכים על המנכ\"ל",
+      "description_he": "אחרי התסיסה הפנימית בחברה, OpenAI משתדלת להחזיר את הביטחון על ידי התמקדות בשאלה איך AI יכול לתרום לחברה ולאנושות. נראה שהחברה מנסה להשתיק את הקולות הביקורתיים מבפנים כלפי ההנהגה על ידי חזרה לעקרונות היסוד של המשימה שלה.",
       "link": "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2236544323-1024x648.jpg",
       "pub_date": "Mon, 06 Apr 2026 21:23:36 +0000",
@@ -4258,7 +4258,7 @@
         "openai",
         "sam altman"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T05:54:28.636Z",
       "created_at": "2026-04-07T05:54:28.636Z"
@@ -4302,8 +4302,8 @@
       "source": "MarkTechPost",
       "title_en": "An Implementation Guide to Running NVIDIA Transformer Engine with Mixed Precision, FP8 Checks, Benchmarking, and Fallback Execution",
       "description_en": "In this tutorial, we implement an advanced, practical implementation of the NVIDIA Transformer Engine in Python, focusing on how mixed-precision acceleration can be explored in a realistic deep learning workflow. We set up the environment, verify GPU and CUDA readiness, attempt to install the required Transformer Engine components, and handle compatibility issues gracefully so that […]\nThe post An Implementation Guide to Running NVIDIA Transformer Engine with Mixed Precision, FP8 Checks, Benchma",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מדריך מעשי להפעלת NVIDIA Transformer Engine עם Mixed Precision, בדיקות FP8 וביצועים",
+      "description_he": "סקירה מעמיקה על איך להשתמש בـ Transformer Engine של NVIDIA כדי להאיץ מודלים עמוקים בעזרת mixed-precision – טכניקה שמחלקת את החישובים בין FP8 ו-FP32 כדי לשלוח יותר ביצועים בפחות זיכרון. המדריך כולל הכל מהתקנה של הסביבה וודא GPU תקין, עד להתמודדות עם בעיות compatibility וביצוע benchmarks שמראים לך בעצם כמה זה משפר את המהירות של התרנינג שלך.",
       "link": "https://www.marktechpost.com/2026/04/06/an-implementation-guide-to-running-nvidia-transformer-engine-with-mixed-precision-fp8-checks-benchmarking-and-fallback-execution/",
       "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/blog-13.png",
       "pub_date": "Mon, 06 Apr 2026 23:23:53 +0000",
@@ -4320,7 +4320,7 @@
         "Technology",
         "Tutorials"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-07T05:54:33.650Z",
       "created_at": "2026-04-07T05:54:33.650Z"

@@ -1,14 +1,14 @@
 {
   "total": 190,
-  "translated": 161,
-  "untranslated": 29,
-  "today": 91,
+  "translated": 190,
+  "untranslated": 0,
+  "today": 9,
   "week": 167,
   "sources": [
     {
       "name": "Ars Technica",
       "total": 27,
-      "translated": 22,
+      "translated": 27,
       "lastDate": "Thu, 02 Apr 2026 20:54:02 +0000"
     },
     {
@@ -20,13 +20,13 @@
     {
       "name": "TechCrunch AI",
       "total": 24,
-      "translated": 23,
+      "translated": 24,
       "lastDate": "Wed, 01 Apr 2026 22:12:13 +0000"
     },
     {
       "name": "Towards Data Science",
       "total": 20,
-      "translated": 0,
+      "translated": 20,
       "lastDate": "Wed, 01 Apr 2026 15:14:00 +0000"
     },
     {
@@ -44,13 +44,13 @@
     {
       "name": "MarkTechPost",
       "total": 12,
-      "translated": 11,
+      "translated": 12,
       "lastDate": "Tue, 07 Apr 2026 04:41:59 +0000"
     },
     {
       "name": "AI News",
       "total": 12,
-      "translated": 10,
+      "translated": 12,
       "lastDate": "Wed, 01 Apr 2026 15:24:01 +0000"
     },
     {
@@ -78,5 +78,5 @@
       "lastDate": "Wed, 07 Jan 2026 20:00:00 GMT"
     }
   ],
-  "generatedAt": "2026-04-07T08:11:16.422Z"
+  "generatedAt": "2026-04-07T09:01:14.231Z"
 }

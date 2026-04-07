@@ -50,7 +50,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "An Implementation Guide to Running NVIDIA Transformer Engine with Mixed Precision, FP8 Checks, Benchmarking, and Fallback Execution\n\nIn this tutorial, we implement an advanced, practical implementation of the NVIDIA Transformer Engine in Python, focusing on how mixed-precision acceleration can be explored in a realistic deep learning workflow. We set up the environment, verify GPU and CUDA readiness, attempt to install the required Transformer Engine components, and handle compatibility issues gracefully so that […]\nThe post An Implementation Guide to Running NVIDIA Transformer Engine with Mixed Precision, FP8 Checks, Benchma",
+    "t": "מדריך מעשי להפעלת NVIDIA Transformer Engine עם Mixed Precision, בדיקות FP8 וביצועים\n\nסקירה מעמיקה על איך להשתמש בـ Transformer Engine של NVIDIA כדי להאיץ מודלים עמוקים בעזרת mixed-precision – טכניקה שמחלקת את החישובים בין FP8 ו-FP32 כדי לשלוח יותר ביצועים בפחות זיכרון. המדריך כולל הכל מהתקנה של הסביבה וודא GPU תקין, עד להתמודדות עם בעיות compatibility וביצוע benchmarks שמראים לך בעצם כמה זה משפר את המהירות של התרנינג שלך.",
     "d": "Mon, 06 Apr 2026 23:23:53 +0000",
     "v": 0,
     "l": [
@@ -76,7 +76,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "After court loss, RFK Jr. gives himself more power over CDC vaccine panel\n\nThe charter renewal gives Kennedy broad authority to pick anyone for the panel.",
+    "t": "אחרי הפסד בבית משפט, RFK Jr. מעניק לעצמו סמכויות רחבות יותר על פני ועדת החיסונים של ה-CDC\n\nRFK Jr. קיבל ידיים חופשיות לחלוטין - החידוש של האישור מאפשר לו להשמות כל מי שהוא רוצה לוועדת החיסונים של ה-CDC. זה קורה בדיוק אחרי שהוא הפסיד בסכסוך משפטי, וזה בעצם מעניק לו יותר כוח מאשר שהיה לו קודם. בעקרון, הוא עכשיו יכול לתעל מישהו שיתמוך בתפיסות שלו על חיסונים - זו לא בדיוק חדשות טובות לאלו שמאמינים בתהליך מדעי נורמלי.",
     "d": "Mon, 06 Apr 2026 22:34:11 +0000",
     "v": 0,
     "l": [
@@ -99,7 +99,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability\n\nNew model can respond to disruptions and figure out moves it wasn't trained for.",
+    "t": "מרובוטים שמקפלים קופסאות ולעד תיקון שואבי אבק - מודל GEN-1 הגיע ל-99% אמינות\n\nיש לנו פה משהו מעניין: מודל רובוטיקה חדש שמסוגל להתמודד עם תקלות בלתי צפויות ולהמציא תנועות שאף פעם לא אמנו אותו לעשות. בקיצור, הרובוטים של Samsung הם כעת חכמים מספיק כדי להסתגל למצבים חדשים בעצמם, וזה נשמע ממש כמו דברים מפי-מדע עם אמינות של 99%.",
     "d": "Mon, 06 Apr 2026 22:18:33 +0000",
     "v": 0,
     "l": [
@@ -114,8 +114,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gen1-1152x648.png",
@@ -123,7 +122,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Sports bets on prediction markets ruled to be \"swaps,\" exempt from state laws\n\nCourt rules US preempts states from applying gambling laws to prediction markets.",
+    "t": "הימורי ספורט בשווקי ניבויים הוכרו כ'סוואפים' - פטורים מחוקי המדינה\n\nבית משפט קבע שהממשלה הפדרלית עדיפה על חוקי הימורים של המדינות בכל הנוגע לשווקי ניבויים. זו החלטה גדולה שפותחת את הדלת לפעילות חוקית של שווקי הניבויים האלה בארה\"ב, כי הם נחשבים כעת ליצירים פיננסיים ולא לקזינו רגיל. העניין כמובן קצת מסובך בגלל שעדיין יש כאן משחקי כסף, אבל הדיוק החוקי הזה עשוי לשנות את המשחק עבור כל הענף.",
     "d": "Mon, 06 Apr 2026 21:56:36 +0000",
     "v": 0,
     "l": [
@@ -136,13 +135,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/kalshi-death-markets-1152x648-1775509431.jpg",
@@ -150,7 +145,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "OpenAI alums have been quietly investing from a new, potentially $100M fund\n\nZero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
+    "t": "בשקט בפינה: בעלות OpenAI מטים קרן השקעות שעלולה להגיע ל-100 מיליון דולר\n\nZero Shot היא קרן VC חדשה שנוצרה בידי ותיקי OpenAI, ויעדה להשיג 100 מיליון דולר לקרן הראשונה שלה - ואגב כך כבר החלה להשקיע בסטארטפים. זה עוד אחד מאלה המהלכים שמראים איך ה-AI בתחום ההון סיכון הוא כבר למעשה חוק הגזירה של העתיד.",
     "d": "Mon, 06 Apr 2026 21:54:26 +0000",
     "v": 0,
     "l": [
@@ -176,7 +171,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "Trump's next budget once again calls for massive cuts to science\n\nCongress rejected huge cuts to science in 2026, but Trump is trying again.",
+    "t": "תקציב טראמפ השני: שוב חיתוכים ענקיים במימון המדע\n\nטראמפ חוזר לתקיפה עם הצעת תקציב חדשה שקוראת לקיצוצים משמעותיים במימון מחקר מדעי בארה״ב, למרות שהקונגרס דחה הצעה דומה בעבר. הפעם הוא מנסה שוב, ויש לראות אם יצליח להעביר את החיתוכים הגדולים הללו דרך הפרלמנט האמריקאי.",
     "d": "Mon, 06 Apr 2026 21:40:40 +0000",
     "v": 0,
     "l": [
@@ -191,8 +186,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223415789-1152x648.jpg",
@@ -200,7 +194,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "“The problem is Sam Altman”: OpenAI Insiders don’t trust CEO\n\nOpenAI brainstorms ways AI can benefit humanity in effort to counter bad vibes.",
+    "t": "\"הבעיה היא סם אלטמן\": עובדי OpenAI לא סומכים על המנכ\"ל\n\nאחרי התסיסה הפנימית בחברה, OpenAI משתדלת להחזיר את הביטחון על ידי התמקדות בשאלה איך AI יכול לתרום לחברה ולאנושות. נראה שהחברה מנסה להשתיק את הקולות הביקורתיים מבפנים כלפי ההנהגה על ידי חזרה לעקרונות היסוד של המשימה שלה.",
     "d": "Mon, 06 Apr 2026 21:23:36 +0000",
     "v": 0,
     "l": [
@@ -452,7 +446,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "The Geometry Behind the Dot Product: Unit Vectors, Projections, and Intuition\n\nThe geometric foundations you need to understand the dot product\nThe post The Geometry Behind the Dot Product: Unit Vectors, Projections, and Intuition appeared first on Towards Data Science.",
+    "t": "הגיאומטריה מאחורי הכפל הנקודה: וקטורים יחידה, הטלות ואינטואיציה\n\nאם אתם מחפשים להבין עמוק מה זה בעצם הדוט פרודקט (dot product), הנה המאמר שיעזור לכם. במאמר זה מסבירים את היסודות הגיאומטריים שמאחורי הפעולה הזו שכל מי שעובד עם AI וData Science נתקל בה כל הזמן. כוללים הסברים על וקטורים יחידה, הטלות וטיפ להבנה אינטואיטיבית של המושגים. זה כמו שמישהו סוף סוף הסביר לכם את זה בצורה שנכנסת לראש.\n\nמקור: Towards Data Science",
     "d": "Mon, 06 Apr 2026 15:45:00 +0000",
     "v": 0,
     "l": [
@@ -593,7 +587,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "How to Run Claude Code Agents in Parallel\n\nLearn how to apply coding agents in parallel to work more efficiently\nThe post How to Run Claude Code Agents in Parallel appeared first on Towards Data Science.",
+    "t": "איך להריץ Claude Code Agents במקביל\n\nאם אתם עובדים עם Claude Agents ורוצים להאיץ את התהליך, יש לכם חדשות טובות - אפשר להריץ כמה agents בו-זמנית ולא לחכות שאחד ישלים לפני השני. הפוסט הזה מסביר איך לעשות את זה בדרך פרקטית, כך שתוכלו לעבד יותר משימות קוד ביעילות גבוהה יותר. זה אחד מהטריקים שכדאי לכם לדעת אם אתם רוצים להעלות את הערך של AI agents בעבודה שלכם. | מקור: Towards Data Science",
     "d": "Mon, 06 Apr 2026 13:14:00 +0000",
     "v": 0,
     "l": [
@@ -735,7 +729,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 31,
-    "t": "Behavior is the New Credential\n\nWe are living through a paradigm shift in how we prove we are who we say we are online. Instead of asking What do you know? (password, PIN, mother’s maiden name) or What do you look like? (Face ID, fingerprint) the question has become How do you behave?\nThe post Behavior is the New Credential appeared first on Towards Data Science.",
+    "t": "ההתנהגות היא העדות החדשה\n\nהתרחשה מהפכה בדרך שבה אנחנו מוכיחים את הזהות שלנו באינטרנט - והיא כבר לא תלויה בסיסמאות, טביעות אצבע או זיהוי פנים. בימים אלה, השאלה הגדולה היא איך אתה מתנהג בסביבה דיגיטלית, וזה הופך להיות הדרך הכי אמינה לאמת שאתה באמת מי שאתה אומר שאתה. מדובר בצעד ענק בתחום האבטחה וה-authentication.\n\nמקור: Towards Data Science",
     "d": "Mon, 06 Apr 2026 10:37:00 +0000",
     "v": 0,
     "l": [
@@ -1028,7 +1022,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 43,
-    "t": "Proxy-Pointer RAG: Achieving Vectorless Accuracy at Vector RAG Scale and Cost\n\nA new way to build vector RAG—structure-aware and reasoning-capable\nThe post Proxy-Pointer RAG: Achieving Vectorless Accuracy at Vector RAG Scale and Cost appeared first on Towards Data Science.",
+    "t": "Proxy-Pointer RAG: דיוק ללא וקטורים בעלות וביצועים של Vector RAG\n\nחדש בעולם ה-RAG: שיטה חכמה שמבינה מבנה וכשירה בהנמקה. במקום להשתמש בוקטורים כמו בשיטות קודמות, הגישה החדשה הזו משיגה את אותה רמת דיוק אבל בעלות נמוכה הרבה יותר. זה יכול להיות משנה משחק למי שמפתח מערכות AI חזקות בלי להוציא הון עצום על GPU ואחסון וקטורים.",
     "d": "Sun, 05 Apr 2026 16:46:00 +0000",
     "v": 0,
     "l": [
@@ -1041,9 +1035,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Nvidia"
+    ],
     "tags": [
-      "news"
+      "news",
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://towardsdatascience.com/wp-content/uploads/2026/04/proxy-pointer-2048x1143-1.jpg",
@@ -1169,7 +1166,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 49,
-    "t": "A Data Scientist’s Take on the $599 MacBook Neo\n\nWhy it doesn’t fit my workflow but still makes sense for beginners\nThe post A Data Scientist’s Take on the $599 MacBook Neo appeared first on Towards Data Science.",
+    "t": "דיעת Data Scientist על ה-MacBook Neo ב-599 דולר\n\nמדען נתונים בדק את ה-MacBook Neo החדש ומצא שהוא לא מתאים לזרימת העבודה המקצועית שלו, אבל הוא מודה שהמחיר והביצועים הם בדיוק מה שמתחילים צריכים. הפוסט הושמע כמו קול רוח מדעית בקרב קהילת ה-Tech בישראל שתמיד מחפשת ציוד עתודי בעלות נמוכה.",
     "d": "Sun, 05 Apr 2026 13:00:00 +0000",
     "v": 0,
     "l": [
@@ -1453,7 +1450,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 61,
-    "t": "Building a Python Workflow That Catches Bugs Before Production\n\nUsing modern tooling to identify defects earlier in the software lifecycle.\nThe post Building a Python Workflow That Catches Bugs Before Production appeared first on Towards Data Science.",
+    "t": "בניית Workflow ב-Python שתופס באגים לפני שהם מגיעים לייצור\n\nאם אתם מפתחים Python ורוצים להימנע מ-bugs שמפוצצים בייצור, כדאי לכם לעקוב. המאמר מדבר על הכלים המודרניים שעוזרים לתפוס בעיות עוד בשלב הפיתוח כדי שלא תצא לכם מפה מביכה ללקוח. זה בעצם סיפור על איך להרים את רמת האיכות של הקוד שלכם ולחסוך לעצמכם כאבי ראש עמוקים.\n\n_מקור: Towards Data Science_",
     "d": "Sat, 04 Apr 2026 15:00:00 +0000",
     "v": 0,
     "l": [
@@ -1499,7 +1496,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 63,
-    "t": "Building Robust Credit Scoring Models with Python\n\nA Practical Guide to Measuring Relationships between Variables for Feature Selection in a Credit Scoring.\nThe post Building Robust Credit Scoring Models with Python appeared first on Towards Data Science.",
+    "t": "בנייה של מודלים חזקים לדירוג אשראי עם Python\n\nאם אתם עובדים בתחום הפיננסי או ה-data science, הנה גיד שחייב לעניין אתכם: איך בונים מודל חזקים לדירוג אשראי באמצעות Python. המאמר מסביר כיצד למדוד קשרים בין משתנים ולבחור את ה-features הנכונות כדי שהמודל שלכם יהיה מדויק ויעיל. זה כל מה שצריך כדי להבין את הנושא בעמק.",
     "d": "Sat, 04 Apr 2026 12:48:00 +0000",
     "v": 0,
     "l": [
@@ -2027,7 +2024,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 85,
-    "t": "DenseNet Paper Walkthrough: All Connected\n\nWhen we try to train a very deep neural network model, one issue that we might encounter is the vanishing gradient problem. This is essentially a problem where the weight update of a model during training slows down or even stops, hence causing the model not to improve. When a network is very deep, the […]\nThe post DenseNet Paper Walkthrough: All Connected appeared first on Towards Data Science.",
+    "t": "DenseNet - המדריך המלא: הכל מחובר\n\nDenseNet היא ארכיטקטורה של neural network שפותרת את בעיית ה-vanishing gradient שמטריפה מפתחים בעת אימון מודלים עמוקים מאוד. במקום להעביר מידע רק משכבה לשכבה, DenseNet מחברת כל שכבה לכל השכבות שלפניה - דבר שגורם לגרדיינטים להישאר חזקים ומאפשר למודלים להתכנס בהרבה יותר קלות. בפוסט הזה מוסברת הארכיטקטורה המעניינת של DenseNet וכיצד היא תורמת להשיפור של ה-training של רשתות עמוקות. מקור: Towards Data Science",
     "d": "Fri, 03 Apr 2026 14:21:00 +0000",
     "v": 0,
     "l": [
@@ -2122,7 +2119,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 89,
-    "t": "I Replaced Vector DBs with Google’s Memory Agent Pattern for my notes in Obsidian\n\nPersistent AI memory without embeddings, Pinecone, or a PhD in similarity search.\nThe post I Replaced Vector DBs with Google’s Memory Agent Pattern for my notes in Obsidian appeared first on Towards Data Science.",
+    "t": "החלפתי Vector DBs בGoogle Memory Agent Pattern לתוך Obsidian שלי\n\nמפתח Israeli מצא דרך אלגנטית להחזיק זיכרון AI מתמשך ללא צורך בembeddings, Pinecone או תואר במתמטיקה - הוא פשוט השתמש בpattern חדש של גוגל בישירות בObsidian. הפתרון הזה משנה את המשחק עבור כל מי שרוצה notes חכמים בלי להיכנס לארנק או לכאב ראש טכני. מקור: Towards Data Science",
     "d": "Fri, 03 Apr 2026 11:35:00 +0000",
     "v": 0,
     "l": [
@@ -2447,7 +2444,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 102,
-    "t": "Linear Regression Is Actually a Projection Problem (Part 2: From Projections to Predictions)\n\nThe Vector View of Least Squares.\nThe post Linear Regression Is Actually a Projection Problem (Part 2: From Projections to Predictions) appeared first on Towards Data Science.",
+    "t": "רגרסיה ליניארית היא בעצם בעיית הטלה - חלק 2: מהטלות לחיזויים\n\nסדרת המאמרים המעמיקה של Towards Data Science חוזרת בחלק השני כדי להסביר איך Linear Regression בעצם עובד כבעיית projection בעולם הווקטורים. אם תמיד שאלתם למה least squares עובד כל כך טוב - בחלק הזה תגיעו להבנה גיאומטרית שתשנה את האופן שבו אתם חושבים על רגרסיה למשך כל החיים. המאמר מציג את התמונה הקטנה המפורסמת של least squares דרך עדשה של אלגברה ליניארית - וזה פשוט חכם.",
     "d": "Thu, 02 Apr 2026 15:37:44 +0000",
     "v": 0,
     "l": [
@@ -2493,7 +2490,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 104,
-    "t": "How to Handle Classical Data in Quantum Models\n\nWorkflows and encoding techniques in quantum machine learning\nThe post How to Handle Classical Data in Quantum Models appeared first on Towards Data Science.",
+    "t": "איך מטפלים בנתונים קלאסיים בתוך מודלים קוונטיים\n\nאם אתם עובדים עם quantum machine learning, אתם בטח כבר מבינים שהחלק הכי טריקי הוא להכניס נתונים רגילים (קלאסיים) למחשבים קוונטיים. המאמר הזה מסביר את ה-workflows והטכניקות הכי יעילות לקודד נתונים כך שהם יעבדו בעולם הקוונטי - כי זה לא כמו להטעין פייל ל-GPU רגיל.\nמקור: Towards Data Science",
     "d": "Thu, 02 Apr 2026 13:35:00 +0000",
     "v": 0,
     "l": [
@@ -2506,9 +2503,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Nvidia"
+    ],
     "tags": [
-      "news"
+      "news",
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://towardsdatascience.com/wp-content/uploads/2026/04/geralt-artificial-intelligence-3382507-scaled-1.jpeg",
@@ -2588,7 +2588,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 108,
-    "t": "Quantum Simulations with Python\n\nRun Quantum Experiments with Qiskit-Aer\nThe post Quantum Simulations with Python appeared first on Towards Data Science.",
+    "t": "סימולציות קוונטיות עם Python\n\nאם אתם רוצים להתחיל לשחק עם מחשוב קוונטי בלי צורך במחשב קוונטי אמיתי, Qiskit-Aer זה בדיוק מה שצריך. הפוסט הזה מסביר איך להריץ ניסויים קוונטיים בPython ולהבין איך עובדת הטכנולוגיה של העתיד - כל זה מהמחשב שלכם בבית.",
     "d": "Thu, 02 Apr 2026 10:23:00 +0000",
     "v": 0,
     "l": [
@@ -2802,7 +2802,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 117,
-    "t": "The Inversion Error: Why Safe AGI Requires an Enactive Floor and State-Space Reversibility\n\nA systems design diagnosis of hallucination, corrigibility, and the structural gap that scaling cannot close\nThe post The Inversion Error: Why Safe AGI Requires an Enactive Floor and State-Space Reversibility appeared first on Towards Data Science.",
+    "t": "שגיאת ההיפוך: למה AGI בטוח דורש בסיס אנאקטיבי והיפוכיות מרחב-מצבים\n\nמאמר טכני שחושף את הבעיה המובנית בפיתוח AI בטוח - החוקרים טוענים שהתופעות של hallucination ומחדל בתכנון AGI לא ניתן לפתור רק על ידי scaling כמו שהוא עכשיו. הפוסט מציע שצריך בסיס אחר לחלוטין שמבוסס על עקרונות של reversibility ו-enactive systems כדי באמת להשיג AI שנוכל לשלוט בו. זהו קריאת התעוררות למי שחושב שפשוט יותר compute וכוח חישובי יפתרו את כל בעיות הביטחון בـAI.",
     "d": "Wed, 01 Apr 2026 15:14:00 +0000",
     "v": 0,
     "l": [
@@ -2874,7 +2874,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 120,
-    "t": "How Can A Model 10,000× Smaller Outsmart ChatGPT?\n\nWhy thinking longer can matter more than being bigger\nThe post How Can A Model 10,000× Smaller Outsmart ChatGPT? appeared first on Towards Data Science.",
+    "t": "איך מודל קטן פי 10,000 יכול להביס את ChatGPT?\n\nמסתבר שלא תמיד גודל זה כל מה שחשוב - יש כאן סיפור מעניין על מודל AI שהרבה יותר קטן מ-ChatGPT אבל הוא משתמש בחכמה בחשיבה עמוקה יותר כדי להגיע לתוצאות טובות יותר. כלומר, אם המודל ממש חושב טוב על הבעיה, הוא לא צריך להיות גיגנטי כדי להיות חכם. מעניין למראה.",
     "d": "Wed, 01 Apr 2026 12:45:00 +0000",
     "v": 0,
     "l": [
@@ -2969,7 +2969,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 124,
-    "t": "What Happens Now That AI is the First Analyst On Your Team?\n\nHow I am adapting in my career in the age of AI, automation, and when everything moving faster than expected.\nThe post What Happens Now That AI is the First Analyst On Your Team? appeared first on Towards Data Science.",
+    "t": "מה קורה כשAI הוא האנליסט הראשון בצוות שלך?\n\nכאשר AI מתחיל לתפוס את המקום של אנליסט בשר ודם, צריך לחשוב מחדש על ההתמחות שלנו. כתב לנו איך הוא משתנה את הקריירה שלו בעידן של אוטומציה והודעות חדשות שמגיעות מהר יותר מהצפוי. יומן כנה של מישהו שמנסה להישאר רלוונטי כשהכלים משתנים מתחת ברגליים.",
     "d": "Wed, 01 Apr 2026 10:36:00 +0000",
     "v": 0,
     "l": [
@@ -3084,7 +3084,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 129,
-    "t": "The Map of Meaning: How Embedding Models “Understand” Human Language\n\nLearn why embedding models are like a GPS for meaning. Instead of searching for exact words, it navigates a \"Map of Ideas\" to find concepts that share the same vibe. From battery types to soda flavors, learn how to fine-tune these digital fingerprints for pinpoint accuracy in your next AI project.\nThe post The Map of Meaning: How Embedding Models “Understand” Human Language appeared first on Towards Data Science.",
+    "t": "מפת המשמעות: איך מודלי Embedding באמת 'מבינים' שפה אנושית\n\nאז בעצם Embedding models הם כמו GPS לתוכן - במקום לחפש מילים בדיוק, הם מנווטים בחלל של רעיונות כדי למצוא קונספטים שיש להם אותה 'אנרגיה'. בין סוגי סוללות לטעמי משקאות, הם יודעים למצוא קשרים שאנחנו לא רואים, וגם אפשר לטווא אותם לדיוק כמו צלף כדי שיעבדו בדיוק בפרויקט ה-AI הבא שלכם.",
     "d": "Tue, 31 Mar 2026 17:25:00 +0000",
     "v": 0,
     "l": [
@@ -3133,7 +3133,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 131,
-    "t": "How to Make Claude Code Better at One-Shotting Implementations\n\nMake your coding agent more efficient\nThe post How to Make Claude Code Better at One-Shotting Implementations appeared first on Towards Data Science.",
+    "t": "איך להפוך את Claude Code לטוב יותר בהשלמת קוד בניסיון ראשון\n\nאם אתם משתמשים ב-Claude Code ורוצים שהוא יסיים יותר משימות קוד בצלחה בעלייה ראשונה, יש לכם טיפים טובים לפה. המאמר מסביר איך להתאים את הprompts ואת ההקשר כדי שהמודל יתן לכם קוד עובד ללא שיפוטים - זה חוסך הרבה זמן כשאתם עובדים עם agents של AI. מהתחום הגדול של data science זה כמובן.",
     "d": "Tue, 31 Mar 2026 15:45:00 +0000",
     "v": 0,
     "l": [
@@ -3255,7 +3255,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 136,
-    "t": "Building a Personal AI Agent in a couple of Hours\n\nI’ve been so surprised by how fast individual builders can now ship real and useful prototypes. Tools like Claude Code, Google AntiGravity, and the growing ecosystem around them have crossed a threshold: you can inspect what others are building online and realize just how fast you can build today. Over the past weeks, I’ve started […]\nThe post Building a Personal AI Agent in a couple of Hours appeared first on Towards Data Science.",
+    "t": "בניית AI Agent אישי בשעות ספורות\n\nהיום אפשר לבנות prototype אמיתי ושימושי של AI agent כמעט בין לילה - זו המסקנה של מפתח שנתן לזה ניסיון. כלים כמו Claude Code ו-Google AntiGravity הפכו את זה לכל כך קל שאתה יכול לראות בדיוק איך בנאים אחרים משגרים יוצר יומיום, ולהבין שאתה גם יכול לעשות את זה מהר בהרבה מאשר חשבת. אם אתה רציני לגבי AI, זו סיטואציה שוקת בחיוב.",
     "d": "Tue, 31 Mar 2026 12:24:00 +0000",
     "v": 0,
     "l": [
@@ -3336,7 +3336,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 139,
-    "t": "Turning 127 Million Data Points Into an Industry Report\n\nWhat I learned about data wrangling, segmentation, and storytelling while building an application security report from scratch\nThe post Turning 127 Million Data Points Into an Industry Report appeared first on Towards Data Science.",
+    "t": "איך הפכו 127 מיליון נקודות נתונים לדוח תעשייה\n\nסיפור מעניין על התהליך של ארגון כמות ענקית של נתונים וייצורם בצורה משמעותית. המחבר חולק כיצד הצליח לבנות דוח עריכות אבטחה מרשים מאפס, תוך שהכל זה על סדר טוב של data wrangling, סגמנטציה חכמה וכמובן storytelling שגורם לנתונים הללו באמת להרשים. לקריאה מלאה בـ Towards Data Science",
     "d": "Tue, 31 Mar 2026 10:35:00 +0000",
     "v": 0,
     "l": [
@@ -3351,10 +3351,9 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://towardsdatascience.com/wp-content/uploads/2026/03/inforgraphic.png",
     "source": "Towards Data Science"
   },
@@ -3383,7 +3382,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 141,
-    "t": "Secure governance accelerates financial AI revenue growth\n\nFinancial institutions are learning to deploy compliant AI solutions for greater revenue growth and market advantage. For the better part of ten years, financial institutions viewed AI primarily as a mechanism for pure efficiency gains. During that era, quantitative teams programmed systems designed to discover ledger discrepancies or eliminate milliseconds from automated trading execution times. […]\nThe post Secure governance accelerates financial AI revenue growth appeared first on AI News.",
+    "t": "ממשל בטוח של AI מואץ את גדילת ההכנסות בטכנולוגיה פיננסית\n\nהמוסדות הפיננסיים גילו שהדרך להכנסות חדשות היא לא רק בהנדסת AI יעילה, אלא בשימוש תואם בתקנות - כל זה תוך שמירה על ממשל חזק ובקרה מלאה. במשך עשור, הבנקים והחברות הפיננסיות ראו ב-AI בעיקר כלי להפחתת עלויות וקצר זמן עיבוד, אבל היום נוכלו שהטכנולוגיה יכולה להיות מנוע גדול להרחבת העסק - ובתנאי שהם יקבעו כללי משחק חכמים.",
     "d": "Mon, 30 Mar 2026 15:54:58 +0000",
     "v": 0,
     "l": [
@@ -3406,7 +3405,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 142,
-    "t": "How to Lie with Statistics with your Robot Best Friend\n\nWhat is p hacking, is it bad, and can you get ai to do it for you?\nThe post How to Lie with Statistics with your Robot Best Friend appeared first on Towards Data Science.",
+    "t": "איך משקרים עם סטטיסטיקה כשיש לך חברה רובוט הטובה ביותר\n\nמה זה p-hacking ולמה זה כל כך מסוכן? התשובה הקצרה: מדובר בטריק סטטיסטי שמאפשר לך 'להוכיח' כמעט כל דבר שאתה רוצה אם אתה מנחש בספיק הנכון. והנה החדשות המדיוק - AI יכול לעשות את זה בשבילך הרבה יותר מהר. הפוסט הזה מ-Towards Data Science מסביר למה זה בעיה ואיך להיות זהיר.",
     "d": "Mon, 30 Mar 2026 15:06:21 +0000",
     "v": 0,
     "l": [
@@ -3422,7 +3421,6 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "robotics",
       "security"
     ],
     "imp": "low",
@@ -3431,7 +3429,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 143,
-    "t": "Glia wins Excellence Award for safer AI in banking\n\nGlia, a customer service platform providing AI-powered interactions for the banking sector, has been named a winner in the Banking and Financial Services Category at the 2026 Artificial Intelligence Excellence Awards. The awards recognises achievements in a range of industries and use cases, spotlighting “companies and leaders moving AI beyond experimentation and into practical, accountable […]\nThe post Glia wins Excellence Award for safer AI in banking appeared first on AI News.",
+    "t": "Glia זוכה בפרס Excellence על AI בטוח בבנקאות\n\nGlia, פלטפורמה לשירות לקוחות המשתמשת בـ AI, קיבלה הכרה בפרסי ה-AI Excellence Awards בקטגוריית בנקאות ושירותים פיננסיים. הפרס מזהה חברות שהצליחו לקחת AI מעבר לעולם הניסויים וליישומים פרקטיים וניתנים לאחריות בעולם האמיתי, וזה די משמעותי בתחום הפיננסי שם האמון הוא כל-כך חשוב.",
     "d": "Mon, 30 Mar 2026 14:12:59 +0000",
     "v": 0,
     "l": [
@@ -3446,8 +3444,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/fintech-ai-safety-hero_x1440.webp",
