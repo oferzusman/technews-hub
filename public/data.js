@@ -1,6 +1,231 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
+    "t": "Rocket - סטארטאפ AI שמעניק דוחות בסגנון מקינזי במחיר שברירי\n\nRocket השיקה פלטפורמת AI חדשנית שמשלבת אסטרטגיה, בניית מוצר ובודקת תחרות - וזה כל מה שאתם צריכים לדעת כדי לא להוציא הון עלוקות על יעוצים שלא תמיד ישווים. במקום להישאר תקועים בקוד, Rocket חוקרת דברים קצת יותר ממשיים, וחוסכת לכם את הכעס של לשלם לפרים מפורסמים על הידע הזה.",
+    "d": "Tue, 07 Apr 2026 05:30:00 +0000",
+    "v": 0,
+    "l": [
+      "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/"
+    ],
+    "lp": null,
+    "vid": false,
+    "img": true,
+    "fwd": null,
+    "cats": [
+      "news"
+    ],
+    "co": [],
+    "tags": [
+      "news"
+    ],
+    "imp": "low",
+    "thumb": "https://techcrunch.com/wp-content/uploads/2026/04/rocket-co-founder-ceo-vishal-virani.jpg?resize=1200,800",
+    "source": "TechCrunch AI"
+  },
+  {
+    "id": 2,
+    "t": "Meta AI משיקה EUPE: משפחת encoders ראייה קומפקטית עם פחות מ-100M פרמטרים שמתחרה במודלים ספציאליים\n\nMeta בחרה לפתור בעיה שהטרידה את תעשיית ה-AI: איך מריצים מודלי ראייה חזקים על סמארטפונים בלי לוותר על הביצועים? EUPE היא משפחת encoders חדשה שמצליחה להישאר קטנה (מתחת ל-100M פרמטרים) אבל עדיין תוקפת מודלים ספציאליים גדולים בהרבה בעבודות כמו סיווג תמונות, יצירת מפות צפיפות ו-VLM tasks. זה בעצם משחק המצאה במבחן, כי עד עכשיו כל פעם שצמצמו מודלים הם איבדו את זה שעשה אותם שימושיים בפנים.",
+    "d": "Tue, 07 Apr 2026 04:41:59 +0000",
+    "v": 0,
+    "l": [
+      "https://www.marktechpost.com/2026/04/06/meta-ai-releases-eupe-a-compact-vision-encoder-family-under-100m-parameters-that-rivals-specialist-models-across-image-understanding-dense-prediction-and-vlm-tasks/"
+    ],
+    "lp": null,
+    "vid": false,
+    "img": true,
+    "fwd": null,
+    "cats": [
+      "news"
+    ],
+    "co": [
+      "Meta"
+    ],
+    "tags": [
+      "news",
+      "model"
+    ],
+    "imp": "low",
+    "thumb": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-9.29.32-PM-1.png",
+    "source": "MarkTechPost"
+  },
+  {
+    "id": 3,
+    "t": "An Implementation Guide to Running NVIDIA Transformer Engine with Mixed Precision, FP8 Checks, Benchmarking, and Fallback Execution\n\nIn this tutorial, we implement an advanced, practical implementation of the NVIDIA Transformer Engine in Python, focusing on how mixed-precision acceleration can be explored in a realistic deep learning workflow. We set up the environment, verify GPU and CUDA readiness, attempt to install the required Transformer Engine components, and handle compatibility issues gracefully so that […]\nThe post An Implementation Guide to Running NVIDIA Transformer Engine with Mixed Precision, FP8 Checks, Benchma",
+    "d": "Mon, 06 Apr 2026 23:23:53 +0000",
+    "v": 0,
+    "l": [
+      "https://www.marktechpost.com/2026/04/06/an-implementation-guide-to-running-nvidia-transformer-engine-with-mixed-precision-fp8-checks-benchmarking-and-fallback-execution/"
+    ],
+    "lp": null,
+    "vid": false,
+    "img": true,
+    "fwd": null,
+    "cats": [
+      "news"
+    ],
+    "co": [
+      "Nvidia"
+    ],
+    "tags": [
+      "news",
+      "hardware"
+    ],
+    "imp": "low",
+    "thumb": "https://www.marktechpost.com/wp-content/uploads/2026/04/blog-13.png",
+    "source": "MarkTechPost"
+  },
+  {
+    "id": 4,
+    "t": "After court loss, RFK Jr. gives himself more power over CDC vaccine panel\n\nThe charter renewal gives Kennedy broad authority to pick anyone for the panel.",
+    "d": "Mon, 06 Apr 2026 22:34:11 +0000",
+    "v": 0,
+    "l": [
+      "https://arstechnica.com/health/2026/04/after-court-loss-rfk-jr-gives-himself-more-power-over-cdc-vaccine-panel/"
+    ],
+    "lp": null,
+    "vid": false,
+    "img": true,
+    "fwd": null,
+    "cats": [
+      "news"
+    ],
+    "co": [],
+    "tags": [
+      "news"
+    ],
+    "imp": "low",
+    "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2249270671-1152x648.jpg",
+    "source": "Ars Technica"
+  },
+  {
+    "id": 5,
+    "t": "From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability\n\nNew model can respond to disruptions and figure out moves it wasn't trained for.",
+    "d": "Mon, 06 Apr 2026 22:18:33 +0000",
+    "v": 0,
+    "l": [
+      "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/"
+    ],
+    "lp": null,
+    "vid": false,
+    "img": true,
+    "fwd": null,
+    "cats": [
+      "news"
+    ],
+    "co": [],
+    "tags": [
+      "news",
+      "robotics"
+    ],
+    "imp": "low",
+    "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gen1-1152x648.png",
+    "source": "Ars Technica"
+  },
+  {
+    "id": 6,
+    "t": "Sports bets on prediction markets ruled to be \"swaps,\" exempt from state laws\n\nCourt rules US preempts states from applying gambling laws to prediction markets.",
+    "d": "Mon, 06 Apr 2026 21:56:36 +0000",
+    "v": 0,
+    "l": [
+      "https://arstechnica.com/tech-policy/2026/04/sports-bets-on-prediction-markets-ruled-to-be-swaps-exempt-from-state-laws/"
+    ],
+    "lp": null,
+    "vid": false,
+    "img": true,
+    "fwd": null,
+    "cats": [
+      "news"
+    ],
+    "co": [
+      "Amazon"
+    ],
+    "tags": [
+      "news",
+      "product",
+      "regulation"
+    ],
+    "imp": "low",
+    "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/kalshi-death-markets-1152x648-1775509431.jpg",
+    "source": "Ars Technica"
+  },
+  {
+    "id": 7,
+    "t": "OpenAI alums have been quietly investing from a new, potentially $100M fund\n\nZero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
+    "d": "Mon, 06 Apr 2026 21:54:26 +0000",
+    "v": 0,
+    "l": [
+      "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/"
+    ],
+    "lp": null,
+    "vid": false,
+    "img": true,
+    "fwd": null,
+    "cats": [
+      "news"
+    ],
+    "co": [
+      "OpenAI"
+    ],
+    "tags": [
+      "news",
+      "model"
+    ],
+    "imp": "low",
+    "thumb": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-color-v2.jpg?resize=1200,675",
+    "source": "TechCrunch AI"
+  },
+  {
+    "id": 8,
+    "t": "Trump's next budget once again calls for massive cuts to science\n\nCongress rejected huge cuts to science in 2026, but Trump is trying again.",
+    "d": "Mon, 06 Apr 2026 21:40:40 +0000",
+    "v": 0,
+    "l": [
+      "https://arstechnica.com/science/2026/04/trumps-next-budget-once-again-calls-for-massive-cuts-to-science/"
+    ],
+    "lp": null,
+    "vid": false,
+    "img": true,
+    "fwd": null,
+    "cats": [
+      "news"
+    ],
+    "co": [],
+    "tags": [
+      "news",
+      "regulation"
+    ],
+    "imp": "low",
+    "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223415789-1152x648.jpg",
+    "source": "Ars Technica"
+  },
+  {
+    "id": 9,
+    "t": "“The problem is Sam Altman”: OpenAI Insiders don’t trust CEO\n\nOpenAI brainstorms ways AI can benefit humanity in effort to counter bad vibes.",
+    "d": "Mon, 06 Apr 2026 21:23:36 +0000",
+    "v": 0,
+    "l": [
+      "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/"
+    ],
+    "lp": null,
+    "vid": false,
+    "img": true,
+    "fwd": null,
+    "cats": [
+      "news"
+    ],
+    "co": [
+      "OpenAI"
+    ],
+    "tags": [
+      "news",
+      "model"
+    ],
+    "imp": "low",
+    "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2236544323-1024x648.jpg",
+    "source": "Ars Technica"
+  },
+  {
+    "id": 10,
     "t": "גוגל הטיחה בשקט אפליקציית הכתיבה הקולית שלה שעובדת בלי אינטרנט\n\nגוגל בחרה להשיק באופן שקט אפליקציית dictation חדשה שעובדת offline תוך שימוש בדגמי Gemma, וזה בדיוק המהלך שנחוץ כדי להתחרות עם יוצרי היצעים כמו Whisper Flow. המהלך הזה מעניין מכיוון שהוא מחזיר את השליטה על הדאטה שלך - כל ההמרה של קול לטקסט קורית על המכשיר שלך ולא בשרתים של גוגל, מה שאומר פרטיות טובה יותר וביצועים שלא תלויים בחיבור אינטרנט.",
     "d": "Mon, 06 Apr 2026 18:54:33 +0000",
     "v": 0,
@@ -23,7 +248,7 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 2,
+    "id": 11,
     "t": "חללית הירח וטיל נאסא עובדים כשורה - אבל מה עם נחתות הירח?\n\nנראה שהחלקים העיקריים של תוכנית ארטמיס של נאסא מתקדמים בצורה טובה, אבל הקשיים האמיתיים עדיין מחכים לנו בשלב הנחיתה. ג'ף גליז מנאסא הערה שגם בלו אוריג'ין וגם SpaceX מגלות התחייבות אמיתית לפיתוח נחתות ירח שיעבדו כמו שצריך - וזה הדבר הקשה באמת של המשימה.",
     "d": "Mon, 06 Apr 2026 18:19:07 +0000",
     "v": 0,
@@ -46,7 +271,7 @@ window.TELEGRAM_DATA = [
     "source": "Ars Technica"
   },
   {
-    "id": 3,
+    "id": 12,
     "t": "איראן מאיימת על מרכזי הנתונים של 'Stargate'\n\nאיראן הודיעה שתכוונת למרכזי נתונים הקשורים לארה״ב בהתקפות טילים חדשות, כחלק מהסלמציה המתגברת בסכסוך בין שתי המעצמות. נראה שההאשמה מכוונת למיוחד לפרויקט Stargate של OpenAI ו-Softbank, שמהווה חלק משמעותי מתוכניות AI הסיניות של ארה״ב.",
     "d": "Mon, 06 Apr 2026 18:06:28 +0000",
     "v": 0,
@@ -73,7 +298,7 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 4,
+    "id": 13,
     "t": "הדליפת המוח של OpenAI לבטיחות: סם אלטמן פשוט אומר שזה 'הווייבס' שלו\n\nבפרופיל חדש של ניו יורקר שמבוסס על למעלה מ-100 ראיונות, סם אלטמן מסביר למה חוקרי בטיחות ממשיכים לעזוב את OpenAI - והתשובה היא בעצם שהוא בנוי אחרת מהם. מסתבר שתغييר התחייבויות שאחרים אולי היו קוראים להם 'הונאה' הוא פשוט חלק מהעבודה, לפי אלטמן עצמו.",
     "d": "Mon, 06 Apr 2026 18:03:43 +0000",
     "v": 0,
@@ -99,7 +324,7 @@ window.TELEGRAM_DATA = [
     "source": "The Decoder"
   },
   {
-    "id": 5,
+    "id": 14,
     "t": "פירוק של הטלפון הגלילה של LG שלא הוצא לשוק חושף למה סמארטפונים גלילים לא עוד קרו\n\nLG כמעט הוציאה לשוק טלפון חכם עם מסך גלילה בשנת 2021, וזה בדיוק מה שהסתתר בתוכו. המפירוק המעניין הזה מגלה למה בסופו של דבר הטכנולוגיה הזאת לא הפכה לרגיל כמו שחשבו - וזה עלול להוציא לך אוויר מהנשימה. המורכבות הפנימית והבעיות שחשפו מסבירות בדיוק למה אנחנו עדיין משתמשים בטלפונים רגילים וחזקים.",
     "d": "Mon, 06 Apr 2026 17:39:07 +0000",
     "v": 0,
@@ -122,7 +347,7 @@ window.TELEGRAM_DATA = [
     "source": "Ars Technica"
   },
   {
-    "id": 6,
+    "id": 15,
     "t": "פחות עבודה, שכר שווה: OpenAI משרטטת חזון לעולם שעוצב על ידי superintelligence\n\nOpenAI פרסמה מסמך מדיניות חדש שמתאר כיצד ממשלות צריכות להתכונן ל-superintelligence, עם הצעות כוללות קרן עושר ציבורית, שבוע עבודה של ארבע ימים, ומסים גבוהים יותר על רווחי הון לעשירים. במילים אחרות, OpenAI חושבת שכאשר ה-AI תהיה באמת חכמה, אנחנו צריכים לחדול לעבוד כל כך הרבה ולחלוק יותר גבוה את העוגה. זה כמו תרחיש מדע בדיוני שמנסה להיות אופטימי.",
     "d": "Mon, 06 Apr 2026 16:40:46 +0000",
     "v": 0,
@@ -148,7 +373,7 @@ window.TELEGRAM_DATA = [
     "source": "The Decoder"
   },
   {
-    "id": 7,
+    "id": 16,
     "t": "The one piece of data that could actually shed light on your job and AI\n\nThis story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is spoken about as a given. The mood is so grim that a societal impacts researcher at Anthropic, responding Wednesday to a call for…",
     "d": "Mon, 06 Apr 2026 16:33:35 +0000",
     "v": 0,
@@ -174,7 +399,7 @@ window.TELEGRAM_DATA = [
     "source": "MIT Technology Review"
   },
   {
-    "id": 8,
+    "id": 17,
     "t": "חזון OpenAI לכלכלת ה-AI: קרנות עושר ציבורי, מס על רובוטים וסבעון 4 ימים\n\nOpenAI הציעה תוכנית משוכללת שמשלבת מס על רווחי AI, קרנות עושר ציבורי וחוקי הגנה סוציאליים כדי להתמודד עם אובדן מקומות עבודה וחוסר שוויון - בעצם מנסה לחזור לבית עם הקapitalism בחזרה לתיקו. בעוד שפוליטיקאים בעולם עדיין מתוכננים איך להתמודד עם ההשפעה של AI על הכלכלה, OpenAI כבר מביעה דעה מוגבלת על איך הטכנולוגיה הזו צריכה להשפיע על חברה בכללותה.",
     "d": "Mon, 06 Apr 2026 15:55:55 +0000",
     "v": 0,
@@ -200,7 +425,7 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 9,
+    "id": 18,
     "t": "איראן מאיימת על מרכז הנתונים Stargate של OpenAI באבו דאבי\n\nהגדודים האיראנים (IRGC) פרסמו וידאו איום נגד מרכז הנתונים המסיבי של OpenAI שנבנה בחו\"ע, וציינו שיפגעו בו אם ארה\"ב תתקוף את תחנות הכוח של איראן. במהלך המתיחות הגיאופוליטיות, נראה שהשחקנים בעולם מתוקפים כמעט כל דבר, כולל סתם מרכזי נתונים של AI מוקד וקרוב לבית.",
     "d": "2026-04-06T15:54:19.000Z",
     "v": 0,
@@ -226,7 +451,7 @@ window.TELEGRAM_DATA = [
     "source": "The Verge AI"
   },
   {
-    "id": 10,
+    "id": 19,
     "t": "The Geometry Behind the Dot Product: Unit Vectors, Projections, and Intuition\n\nThe geometric foundations you need to understand the dot product\nThe post The Geometry Behind the Dot Product: Unit Vectors, Projections, and Intuition appeared first on Towards Data Science.",
     "d": "Mon, 06 Apr 2026 15:45:00 +0000",
     "v": 0,
@@ -249,7 +474,7 @@ window.TELEGRAM_DATA = [
     "source": "Towards Data Science"
   },
   {
-    "id": 11,
+    "id": 20,
     "t": "מנכ\"ל Cisco חולם על data centers בחלל\n\nחברת Cisco, שעושה מאחורי הקלעים את רוב ציוד הרשתות שמניע את האינטרנט שלנו, שואפת להגיע למימד חדש - בעדכון של מנכ\"לה Chuck Robbins, החברה חוקרת את הרעיון להקים data centers בחלל כדי לשפר את קביעות ההעברה וביצועי הרשת. זה לא בדיוק בקרוב לחנות הפינה, אבל זה מראה לאן הזרם הטכנולוגי נע בעולם של infrastructure וניהול נתונים במהלך השנים הקרובות.",
     "d": "2026-04-06T15:15:00.000Z",
     "v": 0,
@@ -272,7 +497,7 @@ window.TELEGRAM_DATA = [
     "source": "The Verge AI"
   },
   {
-    "id": 12,
+    "id": 21,
     "t": "התחרויות Startup Battlefield 200 פתוחות: הזדמנות לגישה ל-VC, כיסוי TechCrunch ו-100 אלף דולר\n\nאם יש לכם סטארטאפ שחושבים שהוא ראוי לזרקור - הנה ההזדמנות! TechCrunch פותחת את הרישום ל-Startup Battlefield 200, תחרות שבה 200 הפרויקטים המנצחים יקבלו גישה ישירה לחברות VC, כיסוי ממשי בעיתון הטכנולוגיה הגדול בעולם, ובונוס כספי של 100 אלף דולר. המועד הסופי להגשת המועמדויות הוא ה-27 במאי, אז אם יש לכם משהו טוב - עכשיו הזמן לדחוף!",
     "d": "Mon, 06 Apr 2026 14:30:00 +0000",
     "v": 0,
@@ -295,7 +520,7 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 13,
+    "id": 22,
     "t": "איך להשתמש באינטגרציות האפליקציות החדשות ב-ChatGPT: DoorDash, Spotify, Uber ועוד\n\nChatGPT עכשיו מתחבר ישירות לאפליקציות כמו Spotify, Canva, Figma ו-Expedia, כל זה בלי צורך לעזוב את הצ'ט. זה אומר שתוכלו להזמין אוכל, לשנות את הפלייליסט שלכם או לתכנן טיול, הכל דרך ChatGPT בלחיצת כפתור. השתלמות מדריך מעשי לכל מי שרוצה להפיק את המקסימום מהאינטגרציות החדשות האלה.",
     "d": "Mon, 06 Apr 2026 14:11:42 +0000",
     "v": 0,
@@ -321,7 +546,7 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 14,
+    "id": 23,
     "t": "חיסכון של עד $500 בכרטיסים ל-TechCrunch Disrupt 2026 השבוע\n\nאם אתם חושבים להגיע ל-TechCrunch Disrupt 2026, זה הזמן להזיז - יש לכם עד יום שישי בשעה 23:59 PT כדי לתפוס כרטיס בהנחה ענקית של כמעט 500 דולר. מי שלא יספיק להירשם בתוך חמישת הימים הבאים, יחכה יותר זמן וישלם יותר כסף. אם אתם מעניינים בתכנים העדכניים ביותר על AI וסטארטאפים, זו הזדמנות שלא כדאי לפספס.",
     "d": "Mon, 06 Apr 2026 14:00:00 +0000",
     "v": 0,
@@ -344,7 +569,7 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 15,
+    "id": 24,
     "t": "מכירות רכבים חשמליים משומשים עולות בקצב הדור\n\nכשמחירי הדלק עולים לשמיים, הקונים האמריקאים מגלים שעדיף להם לחפש דילים על EV משומשים במקום להשקיע בחדש. השוק של מכוניות חדשות מתחיל להידרדר כשהצד השומר למטבע שלהם בוחר בחיסכון חכם.",
     "d": "Mon, 06 Apr 2026 13:54:12 +0000",
     "v": 0,
@@ -367,7 +592,7 @@ window.TELEGRAM_DATA = [
     "source": "Ars Technica"
   },
   {
-    "id": 16,
+    "id": 25,
     "t": "How to Run Claude Code Agents in Parallel\n\nLearn how to apply coding agents in parallel to work more efficiently\nThe post How to Run Claude Code Agents in Parallel appeared first on Towards Data Science.",
     "d": "Mon, 06 Apr 2026 13:14:00 +0000",
     "v": 0,
@@ -394,7 +619,7 @@ window.TELEGRAM_DATA = [
     "source": "Towards Data Science"
   },
   {
-    "id": 17,
+    "id": 26,
     "t": "החברה הספרדית Xoople גייסה 130 מיליון דולר בסדרה B כדי למפות את כדור הארץ עבור AI\n\nXoople עושה צעד ענקי בתחום ה-AI - הם משתמשים בלוויינים כדי למפות את כל כדור הארץ ותמונות הלוויין הזו יהיו הנתונים החיוני לאימון מודלי AI. בנוסף, החברה חתמה על עסקה עם L3Harris שתייצרו את הסנסורים עבור הלוויינים של Xoople, מה שאומר שהם לא רק חולמים גדול אלא גם בונים משהו ממש.",
     "d": "Mon, 06 Apr 2026 13:00:00 +0000",
     "v": 0,
@@ -417,7 +642,7 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 18,
+    "id": 27,
     "t": "למה תעופת הירח של היום תשדר רק וידאו בחוזה נמוך?\n\nחללית שמתקרבת ליום תעברה מעל הירח היום, אבל אל תצפו לתמונות בחוזה 4K - הטכנולוגיה המוגבלת על הגרם השמיים תחזיר לנו רק וידאו ברזולוציה נמוכה. זה לא בגלל שהתקנות הקטנה, אלא בגלל מגבלות הנתונים ויכולות השידור של החללית במרחק כזה ממך.",
     "d": "Mon, 06 Apr 2026 12:59:46 +0000",
     "v": 0,
@@ -440,7 +665,7 @@ window.TELEGRAM_DATA = [
     "source": "Ars Technica"
   },
   {
-    "id": 19,
+    "id": 28,
     "t": "מה 'Memento' חושף על הטבע האנושי, 25 שנה אחרי\n\nהסרט היוצר של כריסטופר נולן עדיין מעיר שאלות עמוקות על הזיכרון וההזדהות האישית שלנו. זה לא סתם סרט מתיחות - זה כמו שנולן הרים מראה לפנינו ושאל: עד כמה אנחנו תלויים בזיכרונות שלנו כדי להיות מי שאנחנו? עשרים וחמש שנים אחרי ההצגה, הרעיונות של הסרט עדיין רלוונטיים בדיוק כמו בימים שהוא בא לעולם.\n\nמקור: Ars Technica",
     "d": "Mon, 06 Apr 2026 12:26:49 +0000",
     "v": 0,
@@ -463,7 +688,7 @@ window.TELEGRAM_DATA = [
     "source": "Ars Technica"
   },
   {
-    "id": 20,
+    "id": 29,
     "t": "AI is changing how small online sellers decide what to make\n\nFor years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever. Even after he stopped offering it around 2017, customers kept sending him emails asking where they could buy it.  When McClary…",
     "d": "Mon, 06 Apr 2026 11:00:00 +0000",
     "v": 0,
@@ -486,7 +711,7 @@ window.TELEGRAM_DATA = [
     "source": "MIT Technology Review"
   },
   {
-    "id": 21,
+    "id": 30,
     "t": "חוקרים הוכיחו: chatbots שחוקים אפילו מחשבים רציונליים \"אידיאליים\" יכולים להטעות אותם\n\nמחקר חדש מ-MIT ומאוניברסיטת וושינגטון חושף משהו מעניין ומעודיין מעט מה: אפילו משתמשים רציונליים לחלוטין יכולים להיקלע לספירלת הזיות מסוכנת כשמדברים עם AI chatbots שמתחנפנים אליהם. הדבר המעניין הוא שגם בוטים שבודקים עובדות וגם משתמשים משכילים לא פתרו לחלוטין את הבעיה הזאת. מקור: The Decoder",
     "d": "Mon, 06 Apr 2026 10:39:17 +0000",
     "v": 0,
@@ -509,7 +734,7 @@ window.TELEGRAM_DATA = [
     "source": "The Decoder"
   },
   {
-    "id": 22,
+    "id": 31,
     "t": "Behavior is the New Credential\n\nWe are living through a paradigm shift in how we prove we are who we say we are online. Instead of asking What do you know? (password, PIN, mother’s maiden name) or What do you look like? (Face ID, fingerprint) the question has become How do you behave?\nThe post Behavior is the New Credential appeared first on Towards Data Science.",
     "d": "Mon, 06 Apr 2026 10:37:00 +0000",
     "v": 0,
@@ -532,7 +757,7 @@ window.TELEGRAM_DATA = [
     "source": "Towards Data Science"
   },
   {
-    "id": 23,
+    "id": 32,
     "t": "OpenAI משיקה את תוכנית OpenAI Safety Fellowship\n\nOpenAI הכריזה על תוכנית pilot חדשה שמטרתה לתמוך במחקר עצמאי בתחום ה-safety ו-alignment של מודלי AI, תוך כדי גיוס ופיתוח של הדור הבא של חוקרים בעלי כישרון בתחום. התוכנית היא צעד משמעותי בניסיון לבנות קהילה של מומחים שיעסקו בשאלות הקריטיות סביב בטיחות ויישור של מודלי בינה מלאכותית. מקור: OpenAI Blog",
     "d": "Mon, 06 Apr 2026 10:00:00 GMT",
     "v": 0,
@@ -558,7 +783,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 24,
+    "id": 33,
     "t": "As AI agents take on more tasks, governance becomes a priority\n\nAI systems are starting to move beyond simple responses. In many organisations, AI agents are now being tested to plan tasks, make decisions, and carry out actions with limited human input. It is no longer just about whether a model gives the right answer. It is about what happens when that model is allowed to […]\nThe post As AI agents take on more tasks, governance becomes a priority appeared first on AI News.",
     "d": "Mon, 06 Apr 2026 10:00:00 +0000",
     "v": 0,
@@ -582,7 +807,7 @@ window.TELEGRAM_DATA = [
     "source": "AI News"
   },
   {
-    "id": 25,
+    "id": 34,
     "t": "סטארטאפ טלמדיסין Medvi הפיק מיליארדים בהכנסות עם פרסום מזויף מופעל בAI\n\nסיפור הצלחה שנראה כמו פנטזיה - חברה של שני אנשים בלבד הגיעה להכנסות של 1.8 מיליארד דולר בעזרת marketing אוטומטי מופעל בAI, אבל כמו הרבה סיפורי הצלחה מופרזים, זה התברר כבעיה גדולה. השאלה שנשארת היא אם מדובר בחוכמת AI או בהונאה בקנה מידה גדול.",
     "d": "Mon, 06 Apr 2026 08:34:58 +0000",
     "v": 0,
@@ -605,7 +830,7 @@ window.TELEGRAM_DATA = [
     "source": "The Decoder"
   },
   {
-    "id": 26,
+    "id": 35,
     "t": "RightNow AI Releases AutoKernel: An Open-Source Framework that Applies an Autonomous Agent Loop to GPU Kernel Optimization for Arbitrary PyTorch Models\n\nWriting fast GPU code is one of the most grueling specializations in machine learning engineering. Researchers from RightNow AI want to automate it entirely. The RightNow AI research team has released AutoKernel, an open-source framework that applies an autonomous LLM agent loop to GPU kernel optimization for arbitrary PyTorch models. The approach is straightforward: give […]\nThe post RightNow AI Releases AutoKernel: An Open-Source Framework that Applies an Autonomous Agent Loop to GPU Kernel Op",
     "d": "Mon, 06 Apr 2026 08:20:19 +0000",
     "v": 0,
@@ -633,7 +858,7 @@ window.TELEGRAM_DATA = [
     "source": "MarkTechPost"
   },
   {
-    "id": 27,
+    "id": 36,
     "t": "OpenAI חושף: 600,000 שאילתות בריאות בשבוע מאזורים ללא גישה לרופאים - ו-70% מגיעות אחרי השעות\n\nChatGPT מטופל במיליונים של שאילתות בריאות בשבוע בארה\"ב, במיוחד באזורים שנמצאים במדבר רפואי שם קשה למצוא רופא זמין. הנתונים החדשים של OpenAI מראים שרוב השאילתות הנוגעות לבריאות מוגשות בשעות הערב ובלילה, כאשר אין אפשרות להתייעץ עם איש מקצוע אמיתי.",
     "d": "Mon, 06 Apr 2026 07:46:03 +0000",
     "v": 0,
@@ -659,7 +884,7 @@ window.TELEGRAM_DATA = [
     "source": "The Decoder"
   },
   {
-    "id": 28,
+    "id": 37,
     "t": "קבוצת Qwen של אליבאבא פיתחה HopChain כדי לתקן את הבעיות של מודלי AI לראייה במהלך חשיבה רב-שלבית\n\nכשמודלי AI מנתחים תמונות, טעויות קטנות בתפיסה מתחזקות בכל שלב ויוצרות תשובות שגויות. קבוצת Qwen של אליבאבא פיתחה את HopChain שמפרקת בעיות מורכבות לשלבים מקושרים ומכריחה את המודל להעיד על כל פרט חזותי לפני שמגיעים למסקנה. התוצאה? שיפור של 20 מתוך 24 benchmarks - זה תוצאה די רצינית שמראה שלפחות בתחום ה-vision reasoning, אפשר להיות חכמים יותר מהודו לחשוב.",
     "d": "Mon, 06 Apr 2026 07:33:51 +0000",
     "v": 0,
@@ -682,7 +907,7 @@ window.TELEGRAM_DATA = [
     "source": "The Decoder"
   },
   {
-    "id": 29,
+    "id": 38,
     "t": "האמריקאים משתמשים ב-AI יותר מאי פעם, אבל סומכים עליו פחות - סקר חדש חושף סתירה מעניינת\n\nסקר חדש של אוניברסיטת קווינניאק חושף סתירה מוזרה: השימוש ב-AI בארה\"ב עולה בקצב מטורף, אבל בו בזמן הספקנות גדלה אפילו יותר. דור ה-Z, שגדל עם AI ויודע אותו הכי טוב, הוא בעצם הפסימי ביותר לגבי השפעת הטכנולוגיה על שוק העבודה.",
     "d": "Mon, 06 Apr 2026 06:30:15 +0000",
     "v": 0,
@@ -705,7 +930,7 @@ window.TELEGRAM_DATA = [
     "source": "The Decoder"
   },
   {
-    "id": 30,
+    "id": 39,
     "t": "מדיניות תעשייתית לעידן האינטליגנציה\n\nOpenAI חוזרת עם רעיונות מרתקים למדיניות תעשייתית שמוקדת בבני אדם, שמטרתה להרחיב הזדמנויות וחלוקת הרווחים בעידן ה-AI. המדיניות מתמקדת בהוצאת מוסדות עמידים המסוגלים להתמודד עם התפתחות ה-AI המהירה ולהפוך אותה לנגיש לכולם, לא רק לחברות ענקיות.",
     "d": "Mon, 06 Apr 2026 02:30:00 GMT",
     "v": 0,
@@ -731,7 +956,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 31,
+    "id": 40,
     "t": "Meet MaxToki: The AI That Predicts How Your Cells Age — and What to Do About It\n\nMost foundation models in biology have a fundamental blind spot: they see cells as frozen snapshots. Give a model a single-cell transcriptome — a readout of which genes are active in a cell at a given moment — and it can tell you a lot about what that cell is doing right now. What it […]\nThe post Meet MaxToki: The AI That Predicts How Your Cells Age — and What to Do About It appeared first on MarkTechPost.",
     "d": "Sun, 05 Apr 2026 20:50:14 +0000",
     "v": 0,
@@ -754,7 +979,7 @@ window.TELEGRAM_DATA = [
     "source": "MarkTechPost"
   },
   {
-    "id": 32,
+    "id": 41,
     "t": "How to Build a Netflix VOID Video Object Removal and Inpainting Pipeline with CogVideoX, Custom Prompting, and End-to-End Sample Inference\n\nIn this tutorial, we build and run an advanced pipeline for Netflix’s VOID model. We set up the environment, install all required dependencies, clone the repository, download the official base model and VOID checkpoint, and prepare the sample inputs needed for video object removal. We also make the workflow more practical by allowing secure terminal-style […]\nThe post How to Build a Netflix VOID Video Object Removal and Inpainting Pipeline with CogVideoX, Custom Prompting, and End-to-End Sample ",
     "d": "Sun, 05 Apr 2026 20:19:56 +0000",
     "v": 0,
@@ -777,7 +1002,7 @@ window.TELEGRAM_DATA = [
     "source": "MarkTechPost"
   },
   {
-    "id": 33,
+    "id": 42,
     "t": "מיקרוסופט מוסכמת: Copilot הוא 'למטרות בידור בלבד'\n\nאז למה בכל זאת אנחנו מסתמכים על Copilot לעבודה חשובה? מסתבר שגם מיקרוסופט עצמה כותבת בתנאי השימוש שלה שהמודל הוא בעיקר לשעשוע, וכמו קודם אמרנו - אל תסמכו עיוורון על מה שהוא בדיוק אומר לכם.",
     "d": "Sun, 05 Apr 2026 18:51:37 +0000",
     "v": 0,
@@ -803,7 +1028,7 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 34,
+    "id": 43,
     "t": "Proxy-Pointer RAG: Achieving Vectorless Accuracy at Vector RAG Scale and Cost\n\nA new way to build vector RAG—structure-aware and reasoning-capable\nThe post Proxy-Pointer RAG: Achieving Vectorless Accuracy at Vector RAG Scale and Cost appeared first on Towards Data Science.",
     "d": "Sun, 05 Apr 2026 16:46:00 +0000",
     "v": 0,
@@ -826,7 +1051,7 @@ window.TELEGRAM_DATA = [
     "source": "Towards Data Science"
   },
   {
-    "id": 35,
+    "id": 44,
     "t": "Suno - סיוט זכויות יוצרים\n\nפלטפורמת ה-AI למוזיקה Suno טוענת שהיא חוסמת שימוש בחומרים מוגנים בזכויות יוצרים, אבל סוקט: מערכת ההגנה שלהם היא קלה להפליא להתעלמות ממנה. בעזרת קצת סופטוואר חינמי וקצת יצירתיות, אפשר לגרום ל-Suno להפיק חיקויים של שירים של אמנים כמו Beyoncé בתוך שניות. זה בעיה ענקית עבור זכויות היוצרים, ונראה שהחברה עדיין לא פתרה את המשוואה הזו של AI ודברים משפטיים.",
     "d": "2026-04-05T16:00:00.000Z",
     "v": 0,
@@ -849,7 +1074,7 @@ window.TELEGRAM_DATA = [
     "source": "The Verge AI"
   },
   {
-    "id": 36,
+    "id": 45,
     "t": "האם מרכזי נתונים במסלול כוכבים יכולים להצדיק את ההערכה ענקית של SpaceX?\n\nבפרק האחרון של פודקאסט Equity של TechCrunch, הם דנו בחזון של אילון מאסק להשם מרכזי נתונים בחלל - ותמורה זה עלול להשנות את המשחק של ענני computing ו-AI כמו שאנחנו מכירים אותם. השאלה הגדולה: האם זה באמת סדרתי או שיותר מדי ספיד?",
     "d": "Sun, 05 Apr 2026 15:40:58 +0000",
     "v": 0,
@@ -872,7 +1097,7 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 37,
+    "id": 46,
     "t": "ניו יורק טיימס סיימה עם כתבת שהשתמשה בכלי AI שהעתיק מביקורת ספר קיימת\n\nכלי AI יכולים להאיץ את עבודת העיתונאים, אבל גם להפוך ל炸弹בידיים של מי שלא מבין איך הם באמת עובדים. שתי תקריות אחרונות מראות מה קורה כשכותבים לא שולטים בטכנולוגיה שלהם - העתקות מילוליות וציטוטים שמנות מהאוויר, וזה סתם לא קורא.",
     "d": "Sun, 05 Apr 2026 15:11:08 +0000",
     "v": 0,
@@ -895,7 +1120,7 @@ window.TELEGRAM_DATA = [
     "source": "The Decoder"
   },
   {
-    "id": 38,
+    "id": 47,
     "t": "ביפן, הרובוט לא בא לתפוס את העבודה שלך - הוא מילא את זו שאnobody רוצה\n\nיפן לא מחכה לעוד - היא דוחפת physical AI מפיילוטים ישירות לפריסה בעולם האמיתי, והכל כי יש להם בעיה ירודה של חסרון בכוח אדם. הרובוטים לא הולכים להחליף את המהנדסים שלנו, אלא אלה שפשוט אין להם מישהו שרוצה לעשות את התפקיד.",
     "d": "Sun, 05 Apr 2026 14:00:00 +0000",
     "v": 0,
@@ -918,7 +1143,7 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 39,
+    "id": 48,
     "t": "הנחתי את Gemini בGoogle Maps לתכנן לי את היום - והתוצאה הפתיעה בחיוב\n\nGoogle Maps קיבלה את AI Gemini וזה בעצם די מעניין. כותב הכתבה החליט לבדוק את זה בצורה קיצונית - הוא נתן ל-Gemini לתכנן לו יום שלם בעיר, מציאת טאקוס, גנים ותחנות רכבת חדשות, והתברר שה-AI הצליחה להפוך את זה לחוויה בעצם משהו!",
     "d": "2026-04-05T14:00:00.000Z",
     "v": 0,
@@ -944,7 +1169,7 @@ window.TELEGRAM_DATA = [
     "source": "The Verge AI"
   },
   {
-    "id": 40,
+    "id": 49,
     "t": "A Data Scientist’s Take on the $599 MacBook Neo\n\nWhy it doesn’t fit my workflow but still makes sense for beginners\nThe post A Data Scientist’s Take on the $599 MacBook Neo appeared first on Towards Data Science.",
     "d": "Sun, 05 Apr 2026 13:00:00 +0000",
     "v": 0,
@@ -967,7 +1192,7 @@ window.TELEGRAM_DATA = [
     "source": "Towards Data Science"
   },
   {
-    "id": 41,
+    "id": 50,
     "t": "הסגה של Grammarly: כשההטייה נהפכת לסיפור\n\nGrammarly לא רק עוד כלי להגהה של אימיילים - החברה מנסה להתפוצץ לשדות חדשים בעולם ה-AI, והתוצאות די מעניינות. בחודשים האחרונים החברה הוכיחה שיש לה יותר אמביציות מדי, וזה גורם לשאלות מעניינות על העתיד של כלים כאלה בעידן של בינה מלאכותית מתקדמת.",
     "d": "2026-04-05T12:00:00.000Z",
     "v": 0,
@@ -990,7 +1215,7 @@ window.TELEGRAM_DATA = [
     "source": "The Verge AI"
   },
   {
-    "id": 42,
+    "id": 51,
     "t": "קודי מתקני CBP דלפו דרך אתר כרטיסי החזרה הדיגיטליים\n\nיוזרים בחרו להעלות כרטיסיות למידה ב-Quizlet כדי להתכונן לעבודה, אבל בטעות חשפו מידע סודי על מערכות אבטחת השערים במתקני הגבול האמריקנית. זו עדות נוספת לכך שתמונה גדולה של דיגיטליזציה של תהליכים יכולה להיות סכנה לאבטחה אם אנשים לא זהירים מדי עם הנתונים שלהם. כשסתם מחפשים עזרה בלימוד, מסתבר שיכול להיות שמעלים הרבה יותר מדי פרטים רגישים לאינטרנט.",
     "d": "Sun, 05 Apr 2026 11:07:27 +0000",
     "v": 0,
@@ -1013,7 +1238,7 @@ window.TELEGRAM_DATA = [
     "source": "Ars Technica"
   },
   {
-    "id": 43,
+    "id": 52,
     "t": "מחקר חושף את התסכול של מפתחים מפני \"AI slop\" - טραגיית הקרקע המשותפת בתכנות\n\nמחקר חדש בוחן איך מפתחים מתייחסים לתוכן AI בנמוך איכות שמוצפה את הקוד - ה\"slop\" הידוע. התוצאה היא \"טראגיית הקרקע המשותפת\" קלאסית: כשמישהו מחסוך זמן בעזרת AI, זה בא על חשבון המבקרים וקהילת הקוד הפתוח שצריכה לתקן את החפצים הלא מעובדים. בעיה שממש שווה להיות על הרדאר.",
     "d": "Sun, 05 Apr 2026 10:55:18 +0000",
     "v": 0,
@@ -1036,7 +1261,7 @@ window.TELEGRAM_DATA = [
     "source": "The Decoder"
   },
   {
-    "id": 44,
+    "id": 53,
     "t": "Meet ‘AutoAgent’: The Open-Source Library That Lets an AI Engineer and Optimize Its Own Agent Harness Overnight\n\nThere’s a particular kind of tedium that every AI engineer knows intimately: the prompt-tuning loop. You write a system prompt, run your agent against a benchmark, read the failure traces, tweak the prompt, add a tool, rerun. Repeat this a few dozen times and you might move the needle. It’s grunt work dressed up in […]\nThe post Meet ‘AutoAgent’: The Open-Source Library That Lets an AI Engineer and Optimize Its Own Agent Harness Overnight appeared first on MarkTechPost.",
     "d": "Sun, 05 Apr 2026 09:21:16 +0000",
     "v": 0,
@@ -1060,7 +1285,7 @@ window.TELEGRAM_DATA = [
     "source": "MarkTechPost"
   },
   {
-    "id": 45,
+    "id": 54,
     "t": "יכולות הסייבר התקיפות של AI מתוכפלות כל שישה חודשים, מצאו חוקרי בטיחות\n\nמודלי AI הופכים להיות יותר ויותר משוכללים בניצול פגעים אבטחה, וחוקרים מצאו שהיכולות ההתקיפות שלהם מתוכפלות בקצב מטורף של כל 5.7 חודשים מאז 2024. הדבר החד משמעותי: מודלים כמו Opus 4.6 ו-GPT-5.3 Codex כבר פותרים משימות שלוקחות לבני אדם ומומחים כשלוש שעות. זה עוד הוכחה לכך שתחרות ה-AI הולכת קדימה בקצב שאנחנו קשה לעקוב אחריו.",
     "d": "Sun, 05 Apr 2026 09:08:22 +0000",
     "v": 0,
@@ -1086,7 +1311,7 @@ window.TELEGRAM_DATA = [
     "source": "The Decoder"
   },
   {
-    "id": 46,
+    "id": 55,
     "t": "Inside the Creative Artificial Intelligence (AI) Stack: Where Human Vision and Artificial Intelligence Meet to Design Future Fashion\n\nFashion has always been about anticipation, determining what one would prefer to wear before they know it themselves. It’s meant in terms of intuition, presentation, experience, and the “good eye”. Today, it can be conveyed through algorithms, neural networks, and machine learning. Artificial Intelligence is no longer at the dregs, but very much at the […]\nThe post Inside the Creative Artificial Intelligence (AI) Stack: Where Human Vision and Artificial Intelligence Meet to Design Future Fashion",
     "d": "Sun, 05 Apr 2026 08:45:37 +0000",
     "v": 0,
@@ -1109,7 +1334,7 @@ window.TELEGRAM_DATA = [
     "source": "MarkTechPost"
   },
   {
-    "id": 47,
+    "id": 56,
     "t": "מחקר של גוגל: בנצ'מארקים של AI מתעלמים מהחילוקי דעות של אנשים\n\nגוגל גילתה שהמתודה המקובלת של 3-5 מדרגים אנושיים לכל דוגמה פשוט לא מספיקה כדי ליצור בנצ'מארק אמין לAI. התגלית הגדולה פה היא שלא רק גודל התקציב של ההערכות חשוב - הדרך בה אתה מחלק את הכסף בין המדרגים היא חשובה בדיוק כמוהו.",
     "d": "Sun, 05 Apr 2026 08:31:45 +0000",
     "v": 0,
@@ -1132,7 +1357,7 @@ window.TELEGRAM_DATA = [
     "source": "The Decoder"
   },
   {
-    "id": 48,
+    "id": 57,
     "t": "ארטמיס II עובד כל כך טוב שנשארנו לדבר על שתן קפוא\n\nמשימת ארטמיס II מתקדמת בצורה כל כך חלקה שכמעט אין מה לטפל - ולכן כל המדיה מתמקדת בבעיה של המערכת הסניטרית בחלל. אבל באמת, האופסיה עם התקיות של פסולת היא די אנושית - כשהכל עובד כמו שצריך, זה בדיוק הסוג של הפרטים המשעשעים שמושכים את הקשב שלנו.",
     "d": "Sun, 05 Apr 2026 00:12:45 +0000",
     "v": 0,
@@ -1155,7 +1380,7 @@ window.TELEGRAM_DATA = [
     "source": "Ars Technica"
   },
   {
-    "id": 49,
+    "id": 58,
     "t": "חברות טק מנסות להחליש את חוק זכות התיקון ההיסטורי של קולורדו\n\nאחרי שקולורדו קבעה חוק פורץ דרך לזכות התיקון, חברות הטק משתמשות בתחבולות חוקיות כדי להגביל את היכולת של משתמשים לתקן ולשדרג בעצמם את המכשירים שלהם - וזה רק תחילת הקרב על השליטה בתיקון הציוד שלנו.",
     "d": "Sat, 04 Apr 2026 20:36:49 +0000",
     "v": 0,
@@ -1178,7 +1403,7 @@ window.TELEGRAM_DATA = [
     "source": "Ars Technica"
   },
   {
-    "id": 50,
+    "id": 59,
     "t": "מוזיקאית פולק הפכה למטרה של זיוף AI וגנב זכויות יוצרים\n\nמרפי קמפבל מצאה את עצמה במרכז סערה שמטלטלת את עולם ה-AI וההנדסה החוקית שבורה. בינואר, היא גילתה שירים בפרופיל ה-Spotify שלה שלא צריכים להיות שם - כי מישהו לקח הופעות שלה מ-YouTube, יצר כיסויים מלאכותיים בעזרת AI וחזר עליהם בפלטפורמות סטרימינג. זה כמו סיוט של טכנולוגיה שהולכת לכיוון הלא נכון, וזה גם מעלה שאלות ממש חשובות על זכויות יוצרים בעידן ה-AI.",
     "d": "2026-04-04T17:52:10.000Z",
     "v": 0,
@@ -1201,7 +1426,7 @@ window.TELEGRAM_DATA = [
     "source": "The Verge AI"
   },
   {
-    "id": 51,
+    "id": 60,
     "t": "אנתרופיק: מנויי Claude Code יצטרכו לשלם עלות נוספת לשימוש ב-OpenClaw\n\nהמחיר של השימוש בClaude Code עומד לעלות משמעותית, במיוחד כשמדובר בשילוב עם כלים של צד שלישי כמו OpenClaw. אנתרופיק מחליטה לחייב תשלום נוסף על השימוש בתוספים החיצוניים האלה, מה שעשוי להשפיע על משתמשים שמסתמכים על הכלים המתקדמים האלה לעבודה שלהם. זה חלק מאסטרטגיה רחבה יותר של החברה לתמחור שירותים פרימיום.",
     "d": "Sat, 04 Apr 2026 16:32:22 +0000",
     "v": 0,
@@ -1228,7 +1453,7 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 52,
+    "id": 61,
     "t": "Building a Python Workflow That Catches Bugs Before Production\n\nUsing modern tooling to identify defects earlier in the software lifecycle.\nThe post Building a Python Workflow That Catches Bugs Before Production appeared first on Towards Data Science.",
     "d": "Sat, 04 Apr 2026 15:00:00 +0000",
     "v": 0,
@@ -1251,7 +1476,7 @@ window.TELEGRAM_DATA = [
     "source": "Towards Data Science"
   },
   {
-    "id": 53,
+    "id": 62,
     "t": "באמת עשית את זה בלי AI? תוכיח לי\n\nבעולם שבו AI generative הופך יותר ויותר מוכשר בחיקוי עבודות אנושיות, הקהל מפקפק בתוקף כשפלטפורמות מסרבות להתייג אפילו תוכן AI ברור. הפתרון? אולי חברות יצטרכו להתחיל להדביק סימני 'עבודה אנושית' על טקסטים, תמונות וסרטונים, בדומה ללוגו Fair Trade שכולנו מכירים - כי בטח שצריך דרך להוכיח שזה באמת אתה ולא החכם שבחדר.",
     "d": "2026-04-04T13:00:00.000Z",
     "v": 0,
@@ -1274,7 +1499,7 @@ window.TELEGRAM_DATA = [
     "source": "The Verge AI"
   },
   {
-    "id": 54,
+    "id": 63,
     "t": "Building Robust Credit Scoring Models with Python\n\nA Practical Guide to Measuring Relationships between Variables for Feature Selection in a Credit Scoring.\nThe post Building Robust Credit Scoring Models with Python appeared first on Towards Data Science.",
     "d": "Sat, 04 Apr 2026 12:48:00 +0000",
     "v": 0,
@@ -1297,7 +1522,7 @@ window.TELEGRAM_DATA = [
     "source": "Towards Data Science"
   },
   {
-    "id": 55,
+    "id": 64,
     "t": "Netflix AI Team Just Open-Sourced VOID: an AI Model That Erases Objects From Videos — Physics and All\n\nVideo editing has always had a dirty secret: removing an object from footage is easy; making the scene look like it was never there is brutally hard. Take out a person holding a guitar, and you’re left with a floating instrument that defies gravity. Hollywood VFX teams spend weeks fixing exactly this kind of problem. […]\nThe post Netflix AI Team Just Open-Sourced VOID: an AI Model That Erases Objects From Videos — Physics and All appeared first on MarkTechPost.",
     "d": "Sat, 04 Apr 2026 09:03:26 +0000",
     "v": 0,
@@ -1320,7 +1545,7 @@ window.TELEGRAM_DATA = [
     "source": "MarkTechPost"
   },
   {
-    "id": 56,
+    "id": 65,
     "t": "How to Build Production-Ready Agentic Systems with Z.AI GLM-5 Using Thinking Mode, Tool Calling, Streaming, and Multi-Turn Workflows\n\nIn this tutorial, we explore the full capabilities of Z.AI’s GLM-5 model and build a complete understanding of how to use it for real-world, agentic applications. We start from the fundamentals by setting up the environment using the Z.AI SDK and its OpenAI-compatible interface, and then progressively move on to advanced features such as streaming […]\nThe post How to Build Production-Ready Agentic Systems with Z.AI GLM-5 Using Thinking Mode, Tool Calling, Streaming, and Multi-Turn Workflows appe",
     "d": "Sat, 04 Apr 2026 03:06:56 +0000",
     "v": 0,
@@ -1347,7 +1572,7 @@ window.TELEGRAM_DATA = [
     "source": "MarkTechPost"
   },
   {
-    "id": 57,
+    "id": 66,
     "t": "אנתרופיק זורחת בשוקי ההשקעות הפרטיים; SpaceX עלולה לקלקל את המסיבה\n\nאנתרופיק כרגע ה-\"טריד הוט\" בשוק המניות הפרטיות, בעוד OpenAI מאבדת קרקע ו-SpaceX מתכננת IPO שעלול לשנות לחלוטין את הנוף של כל חברות ה-AI בקליפורניה. עם פעילות שלא היתה קודם כמוה בשוק המשני של מניות פרטיות, כל העניין סובב סביב מי יהיה הזוכה הגדול בזירה הזו.",
     "d": "Sat, 04 Apr 2026 01:31:00 +0000",
     "v": 0,
@@ -1373,7 +1598,7 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 58,
+    "id": 67,
     "t": "אנת​רופיק למעשל אוסרת את OpenClaw ב-Claude על ידי חיוב נוסף למנויים\n\nאנת​רופיק משנה את הכללים: מ-4 באפריל, משתמשי Claude לא יוכלו יותר להשתמש בחבילת ה-subscription שלהם עם OpenClaw, והחברה מעבירה אותם לתמחור pay-as-you-go נפרד. בעצם, זה אומר שאם אתם רוצים להשתמש ב-OpenClaw, תצטרכו לשלם יותר כסף מעל למה שכבר משלמים על Claude.",
     "d": "2026-04-03T23:52:49.000Z",
     "v": 0,
@@ -1400,7 +1625,7 @@ window.TELEGRAM_DATA = [
     "source": "The Verge AI"
   },
   {
-    "id": 59,
+    "id": 68,
     "t": "טראמפ מציע לחתוך בצורה חדה את תקציב נאס\"א בזמן שאסטרונאוטים מכוונים לירח\n\nאז טראמפ החליט שנאס\"א צריכה להיות בדיאטה קשוחה, אבל קונגרס כנראה לא בדיוק מסכים איתו - בדיוק כמו שהם דחו את הרעיון הזה גם בשנה שעברה. יוצא שהחלום להחזיר אסטרונאוטים לירח עלול להיתקל במציאות תקציבית לא כל כך רומנטית.",
     "d": "Fri, 03 Apr 2026 23:19:36 +0000",
     "v": 0,
@@ -1423,7 +1648,7 @@ window.TELEGRAM_DATA = [
     "source": "Ars Technica"
   },
   {
-    "id": 60,
+    "id": 69,
     "t": "קוביות מעידן הקרח חושפות: האינדיאנים הקדומים אולי הבינו הסתברות\n\nחוקרים גילו שציידי-קוספי בעידן הקרח השתמשו בקוביות באופן מכוון כדי להסתמך על תוצאות אקראיות בצורה חוזרת וקבועה - מה שמעיד על הבנה מוקדמת של עקרונות הסתברות. זה בעצם אומר שהמוחות שלהם כבר 'חשבו לוגית' על אי-ודאות וסיכויים, הרבה לפני שלימדו אותנו את זה בבית הספר.",
     "d": "Fri, 03 Apr 2026 22:55:29 +0000",
     "v": 0,
@@ -1446,7 +1671,7 @@ window.TELEGRAM_DATA = [
     "source": "Ars Technica"
   },
   {
-    "id": 61,
+    "id": 70,
     "t": "Google DeepMind’s Research Lets an LLM Rewrite Its Own Game Theory Algorithms — And It Outperformed the Experts\n\nDesigning algorithms for Multi-Agent Reinforcement Learning (MARL) in imperfect-information games — scenarios where players act sequentially and cannot see each other’s private information, like poker — has historically relied on manual iteration. Researchers identify weighting schemes, discounting rules, and equilibrium solvers through intuition and trial-and-error. Google DeepMind researchers proposes AlphaEvolve, an LLM-powered evolutionary coding agent […]\nThe post Google DeepMind’s Research",
     "d": "Fri, 03 Apr 2026 22:26:00 +0000",
     "v": 0,
@@ -1473,7 +1698,7 @@ window.TELEGRAM_DATA = [
     "source": "MarkTechPost"
   },
   {
-    "id": 62,
+    "id": 71,
     "t": "ארטמיס II בדרכה לירח - הכל עובד כמו שצריך\n\nהמשימה מתקדמת בהצלחה כולל כמה תיקונים קטנים בהמסע - הצוות התמודד כבר עם בעיית טמפרטורה בתא הפקודה שהצליחו לתקן בקלות יחסית.",
     "d": "Fri, 03 Apr 2026 22:20:19 +0000",
     "v": 0,
@@ -1496,7 +1721,7 @@ window.TELEGRAM_DATA = [
     "source": "Ars Technica"
   },
   {
-    "id": 63,
+    "id": 72,
     "t": "אלון מאסק מתנה: בנקים שיעבדו על IPO של SpaceX חייבים לקנות מנויי Grok\n\nמסתבר שאלון מאסק לא משחק עם הממון - הוא דורש מהבנקים שיסייעו ב-IPO של SpaceX להשקיע עשרות מיליונים בדולרים במנויי Grok, ה-AI chatbot שלו. זה לא בדיוק ההצעה הכי טבעית שראינו (\"בואו נעבוד על הdealing שלכם... אם קודם תקנו את הצ'אטבוט שלי\"), אבל כשמדובר במאסק, התקווה שלו היא שיד זה על יד זה עם יד שנייה.",
     "d": "Fri, 03 Apr 2026 21:17:01 +0000",
     "v": 0,
@@ -1519,7 +1744,7 @@ window.TELEGRAM_DATA = [
     "source": "Ars Technica"
   },
   {
-    "id": 64,
+    "id": 73,
     "t": "\"ההסכמה קוגניטיבית\" גורמת למשתמשי AI לוותור על החשיבה הלוגית, לפי מחקר\n\nמחקר חדש חושף תופעה מדאיגה: רוב המשתמשים פשוט מקבלים בלי שאלות תשובות שגויות של AI כאילו הן נכונות. נראה שכל כך הרבה אנשים סומכים על מערכות AI שהם בפשטות מפסיקים לחשוב בעצמם - וזה יכול להיות בעיה קדחת כשם שה-AI מתפשט בכל מקום בחיינו.",
     "d": "Fri, 03 Apr 2026 21:06:15 +0000",
     "v": 0,
@@ -1542,7 +1767,7 @@ window.TELEGRAM_DATA = [
     "source": "Ars Technica"
   },
   {
-    "id": 65,
+    "id": 74,
     "t": "טראמפ מתעלם מהסיבות האמיתיות לכשל בפרויקט מרכזי הנתונים שלו לבינה מלאכותית\n\nכמעט חצי מפרויקטי מרכזי הנתונים של טראמפ עוכבו, וזה בגלל שסין שולטת בתשתיות החשמל הקריטיות שהם תלויים בהן. במקום להתמודד עם הבעיות הממשיות - אספקת אנרגיה וחומרי גלם - הנהלה עדיין בחיקוי של ראייה מישהו שמעמיד על כל דבר.",
     "d": "Fri, 03 Apr 2026 20:43:14 +0000",
     "v": 0,
@@ -1565,7 +1790,7 @@ window.TELEGRAM_DATA = [
     "source": "Ars Technica"
   },
   {
-    "id": 66,
+    "id": 75,
     "t": "שינויים בהנהלת OpenAI: COO בריד לייטקאפ מקבל תפקיד חדש בפרויקטים מיוחדים\n\nבעקבות תזמורת הנהלתית בOpenAI, ה-COO בריד לייטקאפ עובר לתפקיד חדש שיתמקד בפרויקטים מיוחדים. בנוסף, CMO קייט רוץ' עוזבת את החברה כדי להתרכז בהחלמה מסרטן, כשיש תוכניות לחזורה כשמצבה הבריאותי יאפשר זאת.",
     "d": "Fri, 03 Apr 2026 20:35:34 +0000",
     "v": 0,
@@ -1591,7 +1816,7 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 67,
+    "id": 76,
     "t": "OpenClaw - עוד סיבה טובה להתחשש מביטחון\n\nהכלי AI שנעשה וירלי בימים האחרונים מאפשר לתוקפים להשיג גישת admin ללא הרשאה וללא שום התרעה. זה בעצם אחד מהדברים המעוררים פחד ביותר שראינו בעולם ה-AI agents - שמישהו יכול לתפוס שליטה מוחלטת ללא שום הגנה או אמצעי סתימה.",
     "d": "Fri, 03 Apr 2026 20:30:15 +0000",
     "v": 0,
@@ -1616,7 +1841,7 @@ window.TELEGRAM_DATA = [
     "source": "Ars Technica"
   },
   {
-    "id": 68,
+    "id": 77,
     "t": "אנתרופיק קונה את סטארטאپ הביוטק Coefficient Bio תמורת 400 מיליון דולר\n\nאנתרופיק השלימה דיל משמעותי בשווי 400 מיליון דולר לרכישת Coefficient Bio, סטארטאפ ביוטק שעבדה בסתר על AI ליישומים ביולוגיים. הדיל מראה שחברות AI גדולות כמו אנתרופיק רואות ערך ענק בשילוב טכנולוגיית בינה מלאכותית עם תחום הביוטכנולוגיה. עבור ישראל, זה עוד אות שהמירוץ לתיסחוף AI לתחומים חדשים הולך בקצב משחרר.",
     "d": "Fri, 03 Apr 2026 20:28:40 +0000",
     "v": 0,
@@ -1639,7 +1864,7 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 69,
+    "id": 78,
     "t": "בוס ה-AGI של OpenAI יוצא לחופשת מחלה\n\nOpenAI עוברת שינויים נוספים בדירוג הגבוה - Fidji Simo, שמובילה את חטיבת הפיתוח של AGI בחברה, נוטלת חופשה רפואית לכמה שבועות בגלל בעיה נוירו-אימונית. בזמן שהיא חוזרת, Greg Brockman, נשיא החברה, יקח על עצמו את הנהלת המוצר וההסכם של ה-super app החדש של OpenAI. זה כבר השינוי השני בהנהלה של החברה בעשרות הימים האחרונים, והוא עוד פעם מעלה שאלות על היציבות בפיקוד של אחת מחברות ה-AI החשובות בעולם.",
     "d": "2026-04-03T20:22:59.000Z",
     "v": 0,
@@ -1665,7 +1890,7 @@ window.TELEGRAM_DATA = [
     "source": "The Verge AI"
   },
   {
-    "id": 70,
+    "id": 79,
     "t": "אנתרופיק מגביר את פעילותה הפוליטית דרך קרן פוליטית חדשה\n\nעם הבחירות הביניים מדפדפות, ארגון חדש של חברת ה-AI תומך בקנדידטים שתומכים בתוכנית המדיניות של אנתרופיק. החברה משתמשת בדרך זו כדי להשפיע על ההחלטות הפוליטיות שיכולות להשפיע על תעשיית ה-AI בעתיד.",
     "d": "Fri, 03 Apr 2026 20:22:18 +0000",
     "v": 0,
@@ -1688,7 +1913,7 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 71,
+    "id": 80,
     "t": "חברות AI בונות תחנות גז טבעי ענקיות להנעת מרכזי נתונים. מה יכול להשתבש?\n\nמטא, מיקרוסופט וגוגל משקיעות מיליארדים בתחנות כוח חדשות הפועלות על גז טבעי כדי להנעת את מרכזי הנתונים שלהם - ובעל הסיבה טוב שלהן עלולים להיות תחרטות על ההחלטה הזו. בעקבות התלהטות סביב צריכת החשמל של מערכות ה-AI, גיגנטים הטכנולוגיה מסתמכים על גז טבעי כחלופה אך בעיות סביבתיות וכלכליות עלולות לגרום להם לשנות מסלול.",
     "d": "Fri, 03 Apr 2026 19:48:22 +0000",
     "v": 0,
@@ -1711,7 +1936,7 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 72,
+    "id": 81,
     "t": "אנשים מעדיפים מחסן אמזון בחצר שלהם על פני data center\n\nסקר חדש חושף שהוויכוח על data centers הוא הכל חוץ מסגור - וברור שלרוב הציבור אין בדיוק אהבה לעיצומים הטכנולוגיים האלה בשכונה שלהם. נראה שאנשים מוכנים יותר להתמודד עם משאיות אמזון מאשר עם מוקדי תנור שמחממים את השכן (וגם את חשבון החשמל).",
     "d": "Fri, 03 Apr 2026 19:20:36 +0000",
     "v": 0,
@@ -1734,7 +1959,7 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 73,
+    "id": 82,
     "t": "בית משפט איטלקי קבע: נטפליקס חייבת להחזיר כסף ללקוחות בשל הגדלות מחיר\n\nקבוצת צרכנים איטלקית זכתה בתביעה נגד נטפליקס והכריעה שחברת הסטרימינג חייבת להחזיר כסף ללקוחות על שנים של הגדלות מחיר לא מוצדקות. הקבוצה מאיימת בתביעה נוספת אם נטפליקס לא תוריד את המחירים הנוכחיים שלה במדינה.",
     "d": "Fri, 03 Apr 2026 17:41:51 +0000",
     "v": 0,
@@ -1757,7 +1982,7 @@ window.TELEGRAM_DATA = [
     "source": "Ars Technica"
   },
   {
-    "id": 74,
+    "id": 83,
     "t": "Four things we’d need to put data centers in space\n\nMIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk’s SpaceX filed an application with the US Federal Communications Commission to launch up to one million data centers into Earth’s orbit. The…",
     "d": "Fri, 03 Apr 2026 17:03:19 +0000",
     "v": 0,
@@ -1781,7 +2006,7 @@ window.TELEGRAM_DATA = [
     "source": "MIT Technology Review"
   },
   {
-    "id": 75,
+    "id": 84,
     "t": "אימוץ כלי חשמליים בארה״ב: מי מנצח ומי מפסיד?\n\nהשוק של רכבים חשמליים בארה״ב עושה פיתולים - בעוד יצרנים מסוימים עלו בקפיצות דו־ספרתיות ברבעון הראשון, אחרים נפלו באותו קצב בדיוק. זה משקף תחרות עזה בשוק שעדיין בנפילה, כשלא כל היצרנים מצליחים להתאים עצמם לדרישות החדשות של הצרכנים החשמליים.",
     "d": "Fri, 03 Apr 2026 15:00:23 +0000",
     "v": 0,
@@ -1804,7 +2029,7 @@ window.TELEGRAM_DATA = [
     "source": "Ars Technica"
   },
   {
-    "id": 76,
+    "id": 85,
     "t": "DenseNet Paper Walkthrough: All Connected\n\nWhen we try to train a very deep neural network model, one issue that we might encounter is the vanishing gradient problem. This is essentially a problem where the weight update of a model during training slows down or even stops, hence causing the model not to improve. When a network is very deep, the […]\nThe post DenseNet Paper Walkthrough: All Connected appeared first on Towards Data Science.",
     "d": "Fri, 03 Apr 2026 14:21:00 +0000",
     "v": 0,
@@ -1827,7 +2052,7 @@ window.TELEGRAM_DATA = [
     "source": "Towards Data Science"
   },
   {
-    "id": 77,
+    "id": 86,
     "t": "מי שבנה את הניהול התוכן בפייסבוק בונה עכשיו מודרציה לעידן ה-AI\n\nMoonbounce גיסה 12 מיליון דולר לצמיחת ה-AI control engine שלה - כלי שמתרגם מדיניות מודרציה תוכן לתוך התנהגות עקבית וצפויה של AI מודלים. במילים אחרות, זה בעצם פתרון שמחזיק AI בשליטה כשמדובר בפילוג כמה סינוי תוכן הוא צריך לעשות.",
     "d": "Fri, 03 Apr 2026 14:00:15 +0000",
     "v": 0,
@@ -1850,7 +2075,7 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 78,
+    "id": 87,
     "t": "OpenAI קונה את תוכנית השיחות הטכנולוגית TBPN - עוד \"משימת צד\" של החברה\n\nOpenAI החליטה להשקיע בתוכנית שיחות המתמקדת בטכנולוגיה, וההודעה הרשמית שלה מדגישה שהתוכנית תישאר בלוס אנג'לס וממשיכה לעבוד באופן עיתונאי עצמאי. נראה שזו עוד דוגמה לאופן שבו OpenAI מתפשטת מעבר למשימת הליבה שלה בפיתוח AI, ובוחרת להשתקע בפרויקטים מגוונים בעולם התקשורת והטכנולוגיה.",
     "d": "Fri, 03 Apr 2026 13:35:13 +0000",
     "v": 0,
@@ -1876,7 +2101,7 @@ window.TELEGRAM_DATA = [
     "source": "Ars Technica"
   },
   {
-    "id": 79,
+    "id": 88,
     "t": "המוצר הטוב ביותר של אפל אי פעם\n\nThe Verge ערכה סקר ענק עם 1.6 מיליון הצבעות כדי לדרג את 50 המוצרים הטובים ביותר שאפל יצרה בחציו הראשון של המאה שלה. התוצאות? כמובן שיש הפתעות, קונטרוברסיות ותובנות מעניינות על איך אנחנו תמיד חוזרים לאפל. הם גם קברו כמה קטעים נוספים על העדכונים החשובים של היצרנית בחמישים השנים האחרונות.\n\nSource: The Verge AI",
     "d": "2026-04-03T12:52:41.000Z",
     "v": 0,
@@ -1899,7 +2124,7 @@ window.TELEGRAM_DATA = [
     "source": "The Verge AI"
   },
   {
-    "id": 80,
+    "id": 89,
     "t": "I Replaced Vector DBs with Google’s Memory Agent Pattern for my notes in Obsidian\n\nPersistent AI memory without embeddings, Pinecone, or a PhD in similarity search.\nThe post I Replaced Vector DBs with Google’s Memory Agent Pattern for my notes in Obsidian appeared first on Towards Data Science.",
     "d": "Fri, 03 Apr 2026 11:35:00 +0000",
     "v": 0,
@@ -1926,7 +2151,7 @@ window.TELEGRAM_DATA = [
     "source": "Towards Data Science"
   },
   {
-    "id": 81,
+    "id": 90,
     "t": "TII Releases Falcon Perception: A 0.6B-Parameter Early-Fusion Transformer for Open-Vocabulary Grounding and Segmentation from Natural Language Prompts\n\nIn the current landscape of computer vision, the standard operating procedure involves a modular ‘Lego-brick’ approach: a pre-trained vision encoder for feature extraction paired with a separate decoder for task prediction. While effective, this architectural separation complicates scaling and bottlenecks the interaction between language and vision. The Technology Innovation Institute (TII) research team is challenging […]\nThe post TII Releases Falcon Perception: A 0.6B-Parameter Early-Fusion Tr",
     "d": "Fri, 03 Apr 2026 08:49:34 +0000",
     "v": 0,
@@ -1949,7 +2174,7 @@ window.TELEGRAM_DATA = [
     "source": "MarkTechPost"
   },
   {
-    "id": 82,
+    "id": 91,
     "t": "Step by Step Guide to Build an End-to-End Model Optimization Pipeline with NVIDIA Model Optimizer Using FastNAS Pruning and Fine-Tuning\n\nIn this tutorial, we build a complete end-to-end pipeline using NVIDIA Model Optimizer to train, prune, and fine-tune a deep learning model directly in Google Colab. We start by setting up the environment and preparing the CIFAR-10 dataset, then define a ResNet architecture and train it to establish a strong baseline. From there, we apply […]\nThe post Step by Step Guide to Build an End-to-End Model Optimization Pipeline with NVIDIA Model Optimizer Using FastNAS Pruning and Fine-Tuning appeared f",
     "d": "Fri, 03 Apr 2026 07:48:18 +0000",
     "v": 0,
@@ -1977,7 +2202,7 @@ window.TELEGRAM_DATA = [
     "source": "MarkTechPost"
   },
   {
-    "id": 83,
+    "id": 92,
     "t": "ארבעה אסטרונאוטים בדרכם הבלתי הפיכה לירח\n\nהמשימה נמצאת בנקודת האל-חזור - הצוות כבר בדרך ולא יוכל לשוב. NASA מודיעה בהתלהבות על התקדמות המשימה, והאסטרונאוטים עצמם לא יכולים להסתיר את השמחה שלהם מהחזרה לירח אחרי כל הזמן הזה.",
     "d": "Fri, 03 Apr 2026 02:17:37 +0000",
     "v": 0,
@@ -2000,7 +2225,7 @@ window.TELEGRAM_DATA = [
     "source": "Ars Technica"
   },
   {
-    "id": 84,
+    "id": 93,
     "t": "\"מצב אנונימי\" של Perplexity הוא \"התחזוקה\", טוענת תביעה משפטית\n\nתביעה חדשה מאשימה את Google, Meta, ו-Perplexity בשיתוף מיליונים של שיחות משתמשים כדי להגביר הכנסות מפרסומות - ובעצם עושים \"מצב אנונימי\" לתיאטרון מלא. נראה שיש כאן סכסוך בין ההבטחה של פרטיות לבין המציאות של מטבח הפרסום ה-AI.",
     "d": "Thu, 02 Apr 2026 20:54:02 +0000",
     "v": 0,
@@ -2027,7 +2252,7 @@ window.TELEGRAM_DATA = [
     "source": "Ars Technica"
   },
   {
-    "id": 85,
+    "id": 94,
     "t": "SpaceX מנסה לשכנע את ה-FCC שאמזון שגרה לוויינים בגובה לא נכון\n\nבדרמה חדשה של לוויינים בחלל, SpaceX מטענת שאמזון הפרה את ההסכם בהנמכת הלוויינים שלה לגובה שגוי, בעוד אמזון חוזרת באצבע המאשימה לכיוון Starlink וטוענת ש-SpaceX היא שגרמה לכל המהומה הזו. המשא ומתן בחזית הלוויינים הופך יותר ויותר התחממות בין שתי הענקיות של הטכנולוגיה.",
     "d": "Thu, 02 Apr 2026 20:32:05 +0000",
     "v": 0,
@@ -2050,7 +2275,7 @@ window.TELEGRAM_DATA = [
     "source": "Ars Technica"
   },
   {
-    "id": 86,
+    "id": 95,
     "t": "Google Vids מקבל שדרוג AI עם מודלים Veo ו-Lyria ואווטארים AI בשליטה\n\nגוגל הטסה את Vids עם כל הכלים ליצירת תוכן ה-AI החזקים שלה - עכשיו אפשר ליצור וידאו, מוזיקה ואווטארים בצורה כמעט אוטומטית. זה משהו שגוגל הרכיבה עם Veo לסרטונים, Lyria למוזיקה, ובונוסבעבור שהאווטארים הווירטואליים שלהם כמעט כמו אמתיים. כל זה במקום אחד, מה שהופך את עיבוד הווידאו והפקת תוכן לעניין של כמה דקות בלבד. | מקור: Ars Technica",
     "d": "Thu, 02 Apr 2026 19:58:37 +0000",
     "v": 0,
@@ -2076,7 +2301,7 @@ window.TELEGRAM_DATA = [
     "source": "Ars Technica"
   },
   {
-    "id": 87,
+    "id": 96,
     "t": "OpenAI רוכשת את TBPN, תוכנית הטוק שואו המדוברת של מנהלים\n\nTBPN, הפודקאסט הטכנולוגי החביב על סיליקון ווילי, תמשיך לפעול באופן עצמאי גם לאחר שנכנסה בשליטת OpenAI תחת ה감ונו של כריס להיין. זה עוד אחת מהתנועות של OpenAI לחדור לתחומים חדשים מעבר ל-AI טהור, והפעם זה בעולם תוכן וקונטקס טכנולוגי.",
     "d": "Thu, 02 Apr 2026 19:21:00 +0000",
     "v": 0,
@@ -2102,7 +2327,7 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 88,
+    "id": 97,
     "t": "מיקרוסופט תוקפת את המתחרים בעלות שלוש מודלים AI חדשים\n\nמיקרוסופט השיקה שלוש מודלים בסיסיים חדשים שיכולים להמיר קול לטקסט, ליצור אודיו ותמונות, וזה קרה רק חצי שנה אחרי הקמת קבוצת MAI. בעצם, מיקרוסופט לא נשמרת וממשיכה להזרוק דברים בשוק כדי להישאר קדימה במירוץ ה-AI הקשוח הזה.",
     "d": "Thu, 02 Apr 2026 16:48:16 +0000",
     "v": 0,
@@ -2125,7 +2350,7 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 89,
+    "id": 98,
     "t": "KiloClaw targets shadow AI with autonomous agent governance\n\nWith the launch of KiloClaw, enterprises now have a tool to enforce governance over autonomous agents and manage shadow AI. While businesses spent the last year securing large language models and formalising vendor agreements, developers and knowledge workers started moving on their own. Employees are bypassing official procurement, deploying autonomous agents on personal infrastructure to […]\nThe post KiloClaw targets shadow AI with autonomous agent governance appeared first on AI News.",
     "d": "Thu, 02 Apr 2026 16:30:53 +0000",
     "v": 0,
@@ -2151,7 +2376,7 @@ window.TELEGRAM_DATA = [
     "source": "AI News"
   },
   {
-    "id": 90,
+    "id": 99,
     "t": "גוגל מאפשרת לכם לשלוט בדמויות אווטאר דרך הנחיות טקסט באפליקציית Vids\n\nגוגל הוסיפה תכונה חדשה שמאפשרת לכם להנחות ולהתאים אווטארים בשביל יצירת סרטונים - פשוט תכתבו בטקסט מה אתם רוצים שהדמות תעשה וההנחיה תתורגם לתנועות חיות. זה כבר לא צריך להיות עם מצלמה ואדם אמיתי, אפליקציית Vids של גוגל עושה את כל העבודה בשבילכם. מקור: TechCrunch AI",
     "d": "Thu, 02 Apr 2026 16:00:00 +0000",
     "v": 0,
@@ -2174,7 +2399,7 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 91,
+    "id": 100,
     "t": "New ways to balance cost and reliability in the Gemini API\n\nGoogle is introducing two new inference tiers to the Gemini API, Flex and Priority,\r\nto balance cost and latency.",
     "d": "Thu, 02 Apr 2026 16:00:00 +0000",
     "v": 0,
@@ -2200,7 +2425,7 @@ window.TELEGRAM_DATA = [
     "source": "Google AI Blog"
   },
   {
-    "id": 92,
+    "id": 101,
     "t": "Create, edit and share videos at no cost in Google Vids\n\nNew AI capabilities are coming to Google Vids, powered by Lyria 3 and Veo 3.1, like high-quality video generation at no cost and more.",
     "d": "Thu, 02 Apr 2026 16:00:00 +0000",
     "v": 0,
@@ -2226,7 +2451,7 @@ window.TELEGRAM_DATA = [
     "source": "Google AI Blog"
   },
   {
-    "id": 93,
+    "id": 102,
     "t": "Linear Regression Is Actually a Projection Problem (Part 2: From Projections to Predictions)\n\nThe Vector View of Least Squares.\nThe post Linear Regression Is Actually a Projection Problem (Part 2: From Projections to Predictions) appeared first on Towards Data Science.",
     "d": "Thu, 02 Apr 2026 15:37:44 +0000",
     "v": 0,
@@ -2249,7 +2474,7 @@ window.TELEGRAM_DATA = [
     "source": "Towards Data Science"
   },
   {
-    "id": 94,
+    "id": 103,
     "t": "5 best practices to secure AI systems\n\nA decade ago, it would have been hard to believe that artificial intelligence could do what it can do now. However, it is this same power that introduces a new attack surface that traditional security frameworks were not built to address. As this technology becomes embedded in critical operations, companies need a multi-layered defense strategy […]\nThe post 5 best practices to secure AI systems appeared first on AI News.",
     "d": "Thu, 02 Apr 2026 14:45:03 +0000",
     "v": 0,
@@ -2273,7 +2498,7 @@ window.TELEGRAM_DATA = [
     "source": "AI News"
   },
   {
-    "id": 95,
+    "id": 104,
     "t": "How to Handle Classical Data in Quantum Models\n\nWorkflows and encoding techniques in quantum machine learning\nThe post How to Handle Classical Data in Quantum Models appeared first on Towards Data Science.",
     "d": "Thu, 02 Apr 2026 13:35:00 +0000",
     "v": 0,
@@ -2296,7 +2521,7 @@ window.TELEGRAM_DATA = [
     "source": "Towards Data Science"
   },
   {
-    "id": 96,
+    "id": 105,
     "t": "China’s Five-Year Plan details the targets for AI deployment\n\nChina has approved its 15th Five-Year Plan [PDF] setting out the country’s economic, education, social, and industrial priorities through to 2030. As might be expected, there is a significant number of references to AI, with the technology mentioned in several contexts. AI is grouped alongside quantum computing, biotechnology, and energy as paths that are to […]\nThe post China’s Five-Year Plan details the targets for AI deployment appeared first on AI News.",
     "d": "Thu, 02 Apr 2026 13:23:00 +0000",
     "v": 0,
@@ -2319,7 +2544,7 @@ window.TELEGRAM_DATA = [
     "source": "AI News"
   },
   {
-    "id": 97,
+    "id": 106,
     "t": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO\n\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Fuel prices are soaring. Plastic could be next.  As the war in Iran continues, one of the most visible global economic ripple effects has been fossil-fuel prices. But looking ahead, further consequences could…",
     "d": "Thu, 02 Apr 2026 12:10:00 +0000",
     "v": 0,
@@ -2342,7 +2567,7 @@ window.TELEGRAM_DATA = [
     "source": "MIT Technology Review"
   },
   {
-    "id": 98,
+    "id": 107,
     "t": "OpenAI רוכשת את TBPN\n\nOpenAI קנתה את TBPN כדי להאיץ שיחות גלובליות סביב AI ולתמוך בתקשורת בלתי תלויה. הרכישה תעזור לחברה להרחיב את הדיאלוג שלה עם מפתחים, עסקים וקהילת הטק הרחבה יותר.",
     "d": "Thu, 02 Apr 2026 10:30:00 GMT",
     "v": 0,
@@ -2368,7 +2593,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 99,
+    "id": 108,
     "t": "Quantum Simulations with Python\n\nRun Quantum Experiments with Qiskit-Aer\nThe post Quantum Simulations with Python appeared first on Towards Data Science.",
     "d": "Thu, 02 Apr 2026 10:23:00 +0000",
     "v": 0,
@@ -2391,7 +2616,7 @@ window.TELEGRAM_DATA = [
     "source": "Towards Data Science"
   },
   {
-    "id": 100,
+    "id": 109,
     "t": "Codex עכשיו מציע תמחור גמיש יותר לצוותים\n\nOpenAI הוסיפה אפשרות תמחור pay-as-you-go ל-Codex בחבילות ChatGPT Business ו-Enterprise, מה שנותן לצוותים גמישות גדולה יותר להתחיל ולהגדיל את השימוש בכלים של OpenAI ללא התחייבות כבדה מראש. זה מעבר חשוב שמוסיר מחסומי כניסה לארגונים שרוצים לנסות את הטכנולוגיה בקנה מידה תחילה לפני שהם משקיעים בתוכנית קבועה.",
     "d": "Thu, 02 Apr 2026 10:00:00 GMT",
     "v": 0,
@@ -2417,7 +2642,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 101,
+    "id": 110,
     "t": "Fuel prices are soaring. Plastic could be next.\n\nAs the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can’t get away from news about the price of gasoline, which just topped an average of $4 a gallon in the…",
     "d": "Thu, 02 Apr 2026 10:00:00 +0000",
     "v": 0,
@@ -2440,7 +2665,7 @@ window.TELEGRAM_DATA = [
     "source": "MIT Technology Review"
   },
   {
-    "id": 102,
+    "id": 111,
     "t": "Autonomous AI systems depend on data governance\n\nMuch of the current focus on AI safety has centred on models – how they are trained and monitored. But as systems become more autonomous, attention is changing toward the data those systems depend on. If the data feeding an AI system is fragmented, outdated, or lacks oversight, the system’s behaviour can become more unpredictable. […]\nThe post Autonomous AI systems depend on data governance appeared first on AI News.",
     "d": "Thu, 02 Apr 2026 10:00:00 +0000",
     "v": 0,
@@ -2464,7 +2689,7 @@ window.TELEGRAM_DATA = [
     "source": "AI News"
   },
   {
-    "id": 103,
+    "id": 112,
     "t": "Experian uncovers fraud paradox in financial services’ AI adoption\n\nThe same technology that financial institutions deploying is being weaponised against them. That is the core tension running through Experian’s 2026 Future of Fraud Forecast, and it’s a tension the company is in a position to name because it sits on both sides of it. According to FTC data cited in the forecast, consumers lost […]\nThe post Experian uncovers fraud paradox in financial services’ AI adoption appeared first on AI News.",
     "d": "Thu, 02 Apr 2026 10:00:00 +0000",
     "v": 0,
@@ -2487,7 +2712,7 @@ window.TELEGRAM_DATA = [
     "source": "AI News"
   },
   {
-    "id": 104,
+    "id": 113,
     "t": "Welcome Gemma 4: Frontier multimodal intelligence on device",
     "d": "Thu, 02 Apr 2026 00:00:00 GMT",
     "v": 0,
@@ -2510,7 +2735,7 @@ window.TELEGRAM_DATA = [
     "source": "Hugging Face Blog"
   },
   {
-    "id": 105,
+    "id": 114,
     "t": "Anthropic הסירה אלפי repos מ-GitHub בניסיון למחוק את הקוד המדלף שלה - אך טוענת שזה היה תאונה\n\nאנתרופיק גרמה לקטצטרופה בGitHub כשניסתה להסיר רפוזיטוריז המכילים את הקוד המקור שלה שדלף, אבל במהרה התברר שזה היה פשוט תקלה עצומה. הנהלת החברה הודתה בטעות וביטלה את רוב הודעות ה-DMCA שהגישה. מעניין לראות כיצד גם חברות AI גדולות יכולות לטבוע בתעבורה הדיגיטלית כמו שאר העולם.",
     "d": "Wed, 01 Apr 2026 22:12:13 +0000",
     "v": 0,
@@ -2536,7 +2761,7 @@ window.TELEGRAM_DATA = [
     "source": "TechCrunch AI"
   },
   {
-    "id": 106,
+    "id": 115,
     "t": "Holo3: Breaking the Computer Use Frontier",
     "d": "Wed, 01 Apr 2026 16:36:15 GMT",
     "v": 0,
@@ -2559,7 +2784,7 @@ window.TELEGRAM_DATA = [
     "source": "Hugging Face Blog"
   },
   {
-    "id": 107,
+    "id": 116,
     "t": "KPMG: Inside the AI agent playbook driving enterprise margin gains\n\nGlobal AI investment is accelerating, yet KPMG data shows the gap between enterprise AI spend and measurable business value is widening fast. The headline figure from KPMG’s first quarterly Global AI Pulse survey is blunt: despite global organisations planning to spend a weighted average of $186 million on AI over the next 12 months, only […]\nThe post KPMG: Inside the AI agent playbook driving enterprise margin gains appeared first on AI News.",
     "d": "Wed, 01 Apr 2026 15:24:01 +0000",
     "v": 0,
@@ -2584,7 +2809,7 @@ window.TELEGRAM_DATA = [
     "source": "AI News"
   },
   {
-    "id": 108,
+    "id": 117,
     "t": "The Inversion Error: Why Safe AGI Requires an Enactive Floor and State-Space Reversibility\n\nA systems design diagnosis of hallucination, corrigibility, and the structural gap that scaling cannot close\nThe post The Inversion Error: Why Safe AGI Requires an Enactive Floor and State-Space Reversibility appeared first on Towards Data Science.",
     "d": "Wed, 01 Apr 2026 15:14:00 +0000",
     "v": 0,
@@ -2607,7 +2832,7 @@ window.TELEGRAM_DATA = [
     "source": "Towards Data Science"
   },
   {
-    "id": 109,
+    "id": 118,
     "t": "We’re creating a new satellite imagery map to help protect Brazil’s forests.\n\nGoogle partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests.",
     "d": "Wed, 01 Apr 2026 13:30:00 +0000",
     "v": 0,
@@ -2633,7 +2858,7 @@ window.TELEGRAM_DATA = [
     "source": "Google AI Blog"
   },
   {
-    "id": 110,
+    "id": 119,
     "t": "The latest AI news we announced in March 2026\n\nHere are Google’s latest AI updates from March 2026",
     "d": "Wed, 01 Apr 2026 13:00:00 +0000",
     "v": 0,
@@ -2659,7 +2884,7 @@ window.TELEGRAM_DATA = [
     "source": "Google AI Blog"
   },
   {
-    "id": 111,
+    "id": 120,
     "t": "How Can A Model 10,000× Smaller Outsmart ChatGPT?\n\nWhy thinking longer can matter more than being bigger\nThe post How Can A Model 10,000× Smaller Outsmart ChatGPT? appeared first on Towards Data Science.",
     "d": "Wed, 01 Apr 2026 12:45:00 +0000",
     "v": 0,
@@ -2685,7 +2910,7 @@ window.TELEGRAM_DATA = [
     "source": "Towards Data Science"
   },
   {
-    "id": 112,
+    "id": 121,
     "t": "The Download: gig workers training humanoids, and better AI benchmarks\n\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The gig workers who are training humanoid robots at home  When Zeus, a medical student in Nigeria, returns to his apartment from a long day at the hospital, he straps his…",
     "d": "Wed, 01 Apr 2026 12:10:00 +0000",
     "v": 0,
@@ -2709,7 +2934,7 @@ window.TELEGRAM_DATA = [
     "source": "MIT Technology Review"
   },
   {
-    "id": 113,
+    "id": 122,
     "t": "DeepL’s Borderless Business report reveals 83% of enterprises are still behind on language AI\n\nAI is everywhere in the enterprise. The translation workflow often is not. That is the core finding of DeepL’s 2026 Language AI report, “Borderless Business: Transforming Translation in the Age of AI,” published on March 10. Despite broad AI investment across business functions, the report reveals that language and multilingual operations–workflows that touch sales, legal, customer support, and […]\nThe post DeepL’s Borderless Business report reveals 83% of enterprises are still behind on languag",
     "d": "Wed, 01 Apr 2026 12:00:00 +0000",
     "v": 0,
@@ -2733,7 +2958,7 @@ window.TELEGRAM_DATA = [
     "source": "AI News"
   },
   {
-    "id": 114,
+    "id": 123,
     "t": "The gig workers who are training humanoid robots at home\n\nWhen Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead, and starts recording himself. He raises his hands in front of him like a sleepwalker and puts a…",
     "d": "Wed, 01 Apr 2026 11:00:00 +0000",
     "v": 0,
@@ -2758,7 +2983,7 @@ window.TELEGRAM_DATA = [
     "source": "MIT Technology Review"
   },
   {
-    "id": 115,
+    "id": 124,
     "t": "What Happens Now That AI is the First Analyst On Your Team?\n\nHow I am adapting in my career in the age of AI, automation, and when everything moving faster than expected.\nThe post What Happens Now That AI is the First Analyst On Your Team? appeared first on Towards Data Science.",
     "d": "Wed, 01 Apr 2026 10:36:00 +0000",
     "v": 0,
@@ -2781,7 +3006,7 @@ window.TELEGRAM_DATA = [
     "source": "Towards Data Science"
   },
   {
-    "id": 116,
+    "id": 125,
     "t": "Hershey applies AI across its supply chain operations\n\nArtificial intelligence is moving beyond software and further into the physical side of business. Companies in food production and logistics are starting to use data systems to support day-to-day decisions, not long-term planning. That change is visible in The Hershey Company’s latest strategy update. At its Investor Day, the company said it plans to use […]\nThe post Hershey applies AI across its supply chain operations appeared first on AI News.",
     "d": "Wed, 01 Apr 2026 10:00:00 +0000",
     "v": 0,
@@ -2804,7 +3029,7 @@ window.TELEGRAM_DATA = [
     "source": "AI News"
   },
   {
-    "id": 117,
+    "id": 126,
     "t": "Falcon Perception",
     "d": "Wed, 01 Apr 2026 07:13:20 GMT",
     "v": 0,
@@ -2827,7 +3052,7 @@ window.TELEGRAM_DATA = [
     "source": "Hugging Face Blog"
   },
   {
-    "id": 118,
+    "id": 127,
     "t": "Gradient Labs מעניקה לכל לקוח בנק מנהל חשבון AI\n\nGradient Labs השיקה סוכנים AI מבוססי GPT שמביאים אוטומציה להזמנות שירותי הבנקאות, ומפחיתים זמן המתנה וכשלים בתהליכים. הפתרון משתמש בגרסאות שונות של מודלי ה-AI לטיפול מהיר ויעיל בשאילתות הלקוחות, וזה בדיוק מה שבנקים חיפשו כדי לחסוך בעלויות דיוק.",
     "d": "Wed, 01 Apr 2026 02:00:00 GMT",
     "v": 0,
@@ -2850,7 +3075,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 119,
+    "id": 128,
     "t": "Any Custom Frontend with Gradio's Backend",
     "d": "Wed, 01 Apr 2026 00:00:00 GMT",
     "v": 0,
@@ -2873,7 +3098,7 @@ window.TELEGRAM_DATA = [
     "source": "Hugging Face Blog"
   },
   {
-    "id": 120,
+    "id": 129,
     "t": "The Map of Meaning: How Embedding Models “Understand” Human Language\n\nLearn why embedding models are like a GPS for meaning. Instead of searching for exact words, it navigates a \"Map of Ideas\" to find concepts that share the same vibe. From battery types to soda flavors, learn how to fine-tune these digital fingerprints for pinpoint accuracy in your next AI project.\nThe post The Map of Meaning: How Embedding Models “Understand” Human Language appeared first on Towards Data Science.",
     "d": "Tue, 31 Mar 2026 17:25:00 +0000",
     "v": 0,
@@ -2896,7 +3121,7 @@ window.TELEGRAM_DATA = [
     "source": "Towards Data Science"
   },
   {
-    "id": 121,
+    "id": 130,
     "t": "Build with Veo 3.1 Lite, our most cost-effective video generation model\n\nVeo 3.1 Lite  is now available in paid preview through the Gemini API and for testing in Google AI Studio.",
     "d": "Tue, 31 Mar 2026 16:00:00 +0000",
     "v": 0,
@@ -2922,7 +3147,7 @@ window.TELEGRAM_DATA = [
     "source": "Google AI Blog"
   },
   {
-    "id": 122,
+    "id": 131,
     "t": "How to Make Claude Code Better at One-Shotting Implementations\n\nMake your coding agent more efficient\nThe post How to Make Claude Code Better at One-Shotting Implementations appeared first on Towards Data Science.",
     "d": "Tue, 31 Mar 2026 15:45:00 +0000",
     "v": 0,
@@ -2949,7 +3174,7 @@ window.TELEGRAM_DATA = [
     "source": "Towards Data Science"
   },
   {
-    "id": 123,
+    "id": 132,
     "t": "SAP and ANYbotics drive industrial adoption of physical AI\n\nHeavy industry relies on people to inspect hazardous, dirty facilities. It’s expensive, and putting humans in these zones carries obvious safety risks. Swiss robot maker ANYbotics and software company SAP are trying to change that. ANYbotics’ four-legged autonomous robots will be connected straight into SAP’s backend enterprise resource planning software. Instead of treating a robot […]\nThe post SAP and ANYbotics drive industrial adoption of physical AI appeared first on AI News.",
     "d": "Tue, 31 Mar 2026 15:20:53 +0000",
     "v": 0,
@@ -2973,7 +3198,7 @@ window.TELEGRAM_DATA = [
     "source": "AI News"
   },
   {
-    "id": 124,
+    "id": 133,
     "t": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
     "d": "Tue, 31 Mar 2026 15:10:41 GMT",
     "v": 0,
@@ -2996,7 +3221,7 @@ window.TELEGRAM_DATA = [
     "source": "Hugging Face Blog"
   },
   {
-    "id": 125,
+    "id": 134,
     "t": "Shifting to AI model customization is an architectural imperative\n\nIn the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into incremental gains. The exception is domain-specialized intelligence, where true step-function improvements are still the norm. When a model is fused with an organization’s…",
     "d": "Tue, 31 Mar 2026 14:12:50 +0000",
     "v": 0,
@@ -3019,7 +3244,7 @@ window.TELEGRAM_DATA = [
     "source": "MIT Technology Review"
   },
   {
-    "id": 126,
+    "id": 135,
     "t": "האצת השלב הבא של ה-AI\n\nOpenAI הרגע סגרה סיבוב גידול ענק של 122 מיליארד דולר שיאפשר להם להרחיב את הפעילות בעולם ולהשקיע בחומרה חדשה-דור לתמיכה בביקוש ההולך וגדל ל-ChatGPT, Codex ושלולי AI למציאות הארגונית. עם ההשקעה העצומה הזאת, OpenAI יכולה סוף סוף לעשות סדר בתחרות ולהמשיך להוביל את המרוץ בתחום ה-AI.",
     "d": "Tue, 31 Mar 2026 13:00:00 GMT",
     "v": 0,
@@ -3045,7 +3270,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 127,
+    "id": 136,
     "t": "Building a Personal AI Agent in a couple of Hours\n\nI’ve been so surprised by how fast individual builders can now ship real and useful prototypes. Tools like Claude Code, Google AntiGravity, and the growing ecosystem around them have crossed a threshold: you can inspect what others are building online and realize just how fast you can build today. Over the past weeks, I’ve started […]\nThe post Building a Personal AI Agent in a couple of Hours appeared first on Towards Data Science.",
     "d": "Tue, 31 Mar 2026 12:24:00 +0000",
     "v": 0,
@@ -3073,7 +3298,7 @@ window.TELEGRAM_DATA = [
     "source": "Towards Data Science"
   },
   {
-    "id": 128,
+    "id": 137,
     "t": "The Download: AI health tools and the Pentagon’s Anthropic culture war\n\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There are more AI health tools than ever—but how well do they work?  In the last few months alone, Microsoft, Amazon, and OpenAI have all launched medical chatbots.  There’s a clear demand…",
     "d": "Tue, 31 Mar 2026 12:10:00 +0000",
     "v": 0,
@@ -3103,7 +3328,7 @@ window.TELEGRAM_DATA = [
     "source": "MIT Technology Review"
   },
   {
-    "id": 129,
+    "id": 138,
     "t": "AI benchmarks are broken. Here’s what we need instead.\n\nFor decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI models and applications is tested against that of individual humans completing tasks.  This framing is seductive: An AI vs. human comparison on isolated problems with clear…",
     "d": "Tue, 31 Mar 2026 12:01:08 +0000",
     "v": 0,
@@ -3126,7 +3351,7 @@ window.TELEGRAM_DATA = [
     "source": "MIT Technology Review"
   },
   {
-    "id": 130,
+    "id": 139,
     "t": "Turning 127 Million Data Points Into an Industry Report\n\nWhat I learned about data wrangling, segmentation, and storytelling while building an application security report from scratch\nThe post Turning 127 Million Data Points Into an Industry Report appeared first on Towards Data Science.",
     "d": "Tue, 31 Mar 2026 10:35:00 +0000",
     "v": 0,
@@ -3150,7 +3375,7 @@ window.TELEGRAM_DATA = [
     "source": "Towards Data Science"
   },
   {
-    "id": 131,
+    "id": 140,
     "t": "TRL v1.0: Post-Training Library Built to Move with the Field",
     "d": "Tue, 31 Mar 2026 00:00:00 GMT",
     "v": 0,
@@ -3173,7 +3398,7 @@ window.TELEGRAM_DATA = [
     "source": "Hugging Face Blog"
   },
   {
-    "id": 132,
+    "id": 141,
     "t": "Secure governance accelerates financial AI revenue growth\n\nFinancial institutions are learning to deploy compliant AI solutions for greater revenue growth and market advantage. For the better part of ten years, financial institutions viewed AI primarily as a mechanism for pure efficiency gains. During that era, quantitative teams programmed systems designed to discover ledger discrepancies or eliminate milliseconds from automated trading execution times. […]\nThe post Secure governance accelerates financial AI revenue growth appeared first on AI News.",
     "d": "Mon, 30 Mar 2026 15:54:58 +0000",
     "v": 0,
@@ -3196,7 +3421,7 @@ window.TELEGRAM_DATA = [
     "source": "AI News"
   },
   {
-    "id": 133,
+    "id": 142,
     "t": "How to Lie with Statistics with your Robot Best Friend\n\nWhat is p hacking, is it bad, and can you get ai to do it for you?\nThe post How to Lie with Statistics with your Robot Best Friend appeared first on Towards Data Science.",
     "d": "Mon, 30 Mar 2026 15:06:21 +0000",
     "v": 0,
@@ -3221,7 +3446,7 @@ window.TELEGRAM_DATA = [
     "source": "Towards Data Science"
   },
   {
-    "id": 134,
+    "id": 143,
     "t": "Glia wins Excellence Award for safer AI in banking\n\nGlia, a customer service platform providing AI-powered interactions for the banking sector, has been named a winner in the Banking and Financial Services Category at the 2026 Artificial Intelligence Excellence Awards. The awards recognises achievements in a range of industries and use cases, spotlighting “companies and leaders moving AI beyond experimentation and into practical, accountable […]\nThe post Glia wins Excellence Award for safer AI in banking appeared first on AI News.",
     "d": "Mon, 30 Mar 2026 14:12:59 +0000",
     "v": 0,
@@ -3245,7 +3470,7 @@ window.TELEGRAM_DATA = [
     "source": "AI News"
   },
   {
-    "id": 135,
+    "id": 144,
     "t": "עזרה לצוותי התגובה בלוויות אסון לתרגם AI לפעולה בכל אסיה\n\nOpenAI וקרן גייטס ארגנו סדנה חדשה שמטרתה להרים צוותי הצלה בכל אסיה לאופק הבא - מה שמשמע בעברית: לקחת את כל הכוח של AI ותרגם אותו לפעולות אמיתיות שמציל חיים במהלך אסונות. הפרויקט הזה מציג איך בעצם אפשר להשתמש בטכנולוגיה חדשה כדי להגיע מהר יותר למקום האסון, לארגן את ההצלה בצורה יותר חכמה ולהצליח שם שהשיטות הישנות כשלו.",
     "d": "Sun, 29 Mar 2026 22:15:00 GMT",
     "v": 0,
@@ -3271,7 +3496,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 136,
+    "id": 145,
     "t": "STADLER משנה את עולם עבודת הידע בחברה בת 230 שנה\n\nחברה יווקדומה בת מאתיים ושלוש עשרות שנה החליטה לזרום עם הזמן והשתמשה ב-ChatGPT כדי לשדרג את דרך עבודתה. התוצאה? 650 עובדים שחוסכים זמן יקר ועובדים בהרבה יותר יעילות. מעניין לראות איך אפילו מפעלות ותעשיות מסורתיות מגלות שה-AI יכול להיות game changer אמיתי.",
     "d": "Fri, 27 Mar 2026 22:00:00 GMT",
     "v": 0,
@@ -3297,7 +3522,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 137,
+    "id": 146,
     "t": "Liberate your OpenClaw",
     "d": "Fri, 27 Mar 2026 00:00:00 GMT",
     "v": 0,
@@ -3321,7 +3546,7 @@ window.TELEGRAM_DATA = [
     "source": "Hugging Face Blog"
   },
   {
-    "id": 138,
+    "id": 147,
     "t": "Watch James Manyika talk AI and creativity with LL COOL J.\n\nIn the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
     "d": "Thu, 26 Mar 2026 17:00:00 +0000",
     "v": 0,
@@ -3345,7 +3570,7 @@ window.TELEGRAM_DATA = [
     "source": "Google AI Blog"
   },
   {
-    "id": 139,
+    "id": 148,
     "t": "Transform your headphones into a live personal translator on iOS.\n\nGoogle Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…",
     "d": "Thu, 26 Mar 2026 16:00:00 +0000",
     "v": 0,
@@ -3371,7 +3596,7 @@ window.TELEGRAM_DATA = [
     "source": "Google AI Blog"
   },
   {
-    "id": 140,
+    "id": 149,
     "t": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable\n\nGemini 3.1 Flash Live is now available across Google products.",
     "d": "Thu, 26 Mar 2026 15:21:00 +0000",
     "v": 0,
@@ -3397,7 +3622,7 @@ window.TELEGRAM_DATA = [
     "source": "Google AI Blog"
   },
   {
-    "id": 141,
+    "id": 150,
     "t": "Search Live is expanding globally\n\nWe’re expanding Search Live globally, to all languages and locations where AI Mode is available.",
     "d": "Thu, 26 Mar 2026 15:00:00 +0000",
     "v": 0,
@@ -3420,7 +3645,7 @@ window.TELEGRAM_DATA = [
     "source": "Google AI Blog"
   },
   {
-    "id": 142,
+    "id": 151,
     "t": "Build with Lyria 3, our newest music generation model\n\nLyria 3 is now available in paid preview through the Gemini API and for testing in Google AI Studio.",
     "d": "Wed, 25 Mar 2026 16:00:00 +0000",
     "v": 0,
@@ -3446,7 +3671,7 @@ window.TELEGRAM_DATA = [
     "source": "Google AI Blog"
   },
   {
-    "id": 143,
+    "id": 152,
     "t": "Lyria 3 Pro: Create longer tracks in more Google products\n\nWe are bringing Lyria 3 to the tools where professionals work and create every day.",
     "d": "Wed, 25 Mar 2026 16:00:00 +0000",
     "v": 0,
@@ -3472,7 +3697,7 @@ window.TELEGRAM_DATA = [
     "source": "Google AI Blog"
   },
   {
-    "id": 144,
+    "id": 153,
     "t": "בפנים: הגישה שלנו ל-Model Spec\n\nOpenAI חושפת את ה-Model Spec שלה - מסגרת ציבורית שמנסה לאזן בין בטיחות, חופש המשתמש והאחריות כשמערכות AI הופכות למתקדמות יותר. זה בעצם הדרך שלהם לתקן איך AI צריך להתנהג, בצורה שכל אחד יכול לבדוק ולהעיר הערות.",
     "d": "Wed, 25 Mar 2026 10:00:00 GMT",
     "v": 0,
@@ -3498,7 +3723,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 145,
+    "id": 154,
     "t": "OpenAI משיקה תוכנית Bug Bounty לבטיחות\n\nOpenAI פותחת את הקופה וקוראת לחוקרי אבטחה וחוקי הק\"ו לחפש באגים במערכות ה-AI שלה - מנקודות תורפה של agents ועד prompt injection והנזקת נתונים. מי שמוצא בעיה חמורה יכול להגיע לכסף כלא מעט.",
     "d": "Wed, 25 Mar 2026 00:00:00 GMT",
     "v": 0,
@@ -3525,7 +3750,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 146,
+    "id": 155,
     "t": "עזרה למפתחים לבנות חוויות AI בטוחות יותר לנוער\n\nOpenAI שיחררה מדיניות בטיחות ייעודית לנוער על בסיס prompts, שמאפשרת למפתחים לוויסות סיכונים גיל-ספציפיים במערכות ה-AI שלהם. הכלי החדש, gpt-oss-safeguard, בא להגן על המשתמשים הצעירים באמצעות מסננים חכמים שמבינים את הסיכונים הייחודיים לכל קבוצת גיל. זה בעצם הצעד של OpenAI להביא אחריות וביטיחות לעצמאות של המפתחים בעולם ה-AI. מקור: OpenAI Blog",
     "d": "Tue, 24 Mar 2026 11:00:00 GMT",
     "v": 0,
@@ -3551,7 +3776,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 147,
+    "id": 156,
     "t": "הנעת גילוי מוצרים ב-ChatGPT\n\nOpenAI משיקה חוויית קנייה חדשה ובעלת עוצמה ב-ChatGPT עם Agentic Commerce Protocol - פרוטוקול שמאפשר לכם לגלות מוצרים, להשוות ביניהם זה לזה, ובעזרתו כל המסחנים יכולים להתחבר לפלטפורמה. זה בעצם הופך את צ'אט ג'י פי טי למה שנראה כמו דפדפן שופינג עם ויזואליים כמו בחנות אמיתית.",
     "d": "Tue, 24 Mar 2026 09:00:00 GMT",
     "v": 0,
@@ -3578,7 +3803,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 148,
+    "id": 157,
     "t": "עדכון על הקרן של OpenAI\n\nOpenAI הודיעה על תוכנית להשקיע למעלה ממיליארד דולר בטיפול במחלות, יצירת הזדמנויות כלכליות, שיפור עמידות ה-AI וסיוע לקהילות. זה חלק מהעבודה של הקרן הקדם-לשכנע שפיתוח ה-AI יטיל טוב על עולם.",
     "d": "Tue, 24 Mar 2026 09:00:00 GMT",
     "v": 0,
@@ -3604,7 +3829,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 149,
+    "id": 158,
     "t": "A New Framework for Evaluating Voice Agents (EVA)",
     "d": "Tue, 24 Mar 2026 02:01:52 GMT",
     "v": 0,
@@ -3628,7 +3853,7 @@ window.TELEGRAM_DATA = [
     "source": "Hugging Face Blog"
   },
   {
-    "id": 150,
+    "id": 159,
     "t": "יצירה עם Sora בבטחה\n\nOpenAI הכניסה את Sora 2 והאפליקציה החדשה לשוק, ותפסה את הנושא החם של בטיחות בווידיאו AI - כי כשמודל כל כך חזק בידיים של כל אחד, צריך להיות אחראי. החברה בנתה מגן ספציפיים כדי למנוע שימוש לרעה ולהגן על הקנין הרוחני, כי לא כל יצירה בווידיאו צריכה להיות אפשרית (גם אם טכנולוגית היא כן).",
     "d": "Mon, 23 Mar 2026 00:00:00 GMT",
     "v": 0,
@@ -3654,7 +3879,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 151,
+    "id": 160,
     "t": "Build a Domain-Specific Embedding Model in Under a Day",
     "d": "Fri, 20 Mar 2026 19:38:16 GMT",
     "v": 0,
@@ -3677,7 +3902,7 @@ window.TELEGRAM_DATA = [
     "source": "Hugging Face Blog"
   },
   {
-    "id": 152,
+    "id": 161,
     "t": "איך אנחנו מנטרים coding agents פנימיים כדי לתפוס misalignment\n\nOpenAI חושפת את השיטה שלה לתצפית על agents שכותבים קוד - הם עוקבים אחרי תהליך החשיבה (chain-of-thought) של האלגוריתמים כדי לתפוס סטיות מהמטרה המקורית. בעזרת ניתוח של deployments אמיתיים, החברה מנסה להבין איפה ה-AI עלול 'להתעלם' מהוראות ולעדכן את מערכות הבטיחות שלה בהתאם.",
     "d": "Thu, 19 Mar 2026 10:00:00 GMT",
     "v": 0,
@@ -3704,7 +3929,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 153,
+    "id": 162,
     "t": "OpenAI קונה את Astral\n\nOpenAI מתקדמת לעולם הפיתוח עם רכישת Astral, והדבר אמור להטביע דיווק משמעותי ב-Codex שלהם. המטרה? לתת כוח לדור הבא של כלי פיתוח Python שיוכלו להיות משחק-חזרה לפיתוחי בעולם. עם הצעד הזה, OpenAI ממשיכה להרחיב את הביצועים שלהם בעולם ה-AI ופיתוח תוכנה. (מקור: OpenAI Blog)",
     "d": "Thu, 19 Mar 2026 00:00:00 GMT",
     "v": 0,
@@ -3730,7 +3955,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 154,
+    "id": 163,
     "t": "State of Open Source on Hugging Face: Spring 2026",
     "d": "Tue, 17 Mar 2026 16:37:55 GMT",
     "v": 0,
@@ -3753,7 +3978,7 @@ window.TELEGRAM_DATA = [
     "source": "Hugging Face Blog"
   },
   {
-    "id": 155,
+    "id": 164,
     "t": "Bringing the power of Personal Intelligence to more people\n\nWe're expanding Personal Intelligence across AI Mode in Search, the Gemini app and Gemini in Chrome.",
     "d": "Tue, 17 Mar 2026 16:00:00 +0000",
     "v": 0,
@@ -3779,7 +4004,7 @@ window.TELEGRAM_DATA = [
     "source": "Google AI Blog"
   },
   {
-    "id": 156,
+    "id": 165,
     "t": "Our latest investment in open source security for the AI era\n\nGoogle is making new investments, building new tools and developing code security to improve open source security.",
     "d": "Tue, 17 Mar 2026 16:00:00 +0000",
     "v": 0,
@@ -3807,7 +4032,7 @@ window.TELEGRAM_DATA = [
     "source": "Google AI Blog"
   },
   {
-    "id": 157,
+    "id": 166,
     "t": "Holotron-12B - High Throughput Computer Use Agent",
     "d": "Tue, 17 Mar 2026 12:33:39 GMT",
     "v": 0,
@@ -3831,7 +4056,7 @@ window.TELEGRAM_DATA = [
     "source": "Hugging Face Blog"
   },
   {
-    "id": 158,
+    "id": 167,
     "t": "OpenAI יפן משיקה 'בלוק הבטיחות לנוער ביפן' - מוקדש לשמירה על בני נוער\n\nOpenAI יפן הכריזה על תוכנית חדשה שמעניקה הגנה מחודשת לנוער המשתמש ב-AI generative, כולל בקרות הורים משופרות והגנות על הבריאות הנפשית. התוכנית כוללת מנגנוני גיל מחמירים וכלים שיעזרו להורים לפקח על השימוש של ילדיהם בטכנולוגיית ה-AI. זה חלק מהמאמץ הגדול של OpenAI להבטיח שהנוער משתמש בכלים שלהם בצורה בטוחה ותומכת.",
     "d": "Tue, 17 Mar 2026 10:00:00 GMT",
     "v": 0,
@@ -3857,7 +4082,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 159,
+    "id": 168,
     "t": "הכירו את GPT-5.4 mini ו-nano\n\nOpenAI השיקה שתי גרסאות קומפקטיות של GPT-5.4 שמיועדות להיות מהירות וחסכוניות - זה ideal עבור מפתחים שעובדים על coding, automation עם tools, ו-multimodal tasks בקנה מידה גדול. הגרסאות החדשות האלה מותאמות במיוחד ל-API calls בנפח גבוה וסוכנים מתוחכמים, בלי להקריב את היכולות של המודל הגדול. מעבר זה משמעותי לאקוסיסטם של AI בישראל כי זה אומר שהוא יותר נגיש וזול להריץ אפליקציות AI בהיקף.",
     "d": "Tue, 17 Mar 2026 10:00:00 GMT",
     "v": 0,
@@ -3883,7 +4108,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 160,
+    "id": 169,
     "t": "העמדת עובדים במידע על פיצויים ושכר\n\nמחקר חדש חושף שאמריקאים שולחים כמעט 3 מיליון הודעות יומיות ל-ChatGPT בשאלות על שכר וגמול, וזה בעצם עוזר לסגור את הפער במידע על שכר בשוק העבודה. זה די מעניין - במקום להתלונן למים קרים, אנשים פשוט שואלים את ה-AI שלהם כמה בעצם צריך לקבל.",
     "d": "Tue, 17 Mar 2026 00:00:00 GMT",
     "v": 0,
@@ -3909,7 +4134,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 161,
+    "id": 170,
     "t": "למה Codex Security לא כוללת דוח SAST\n\nCodex Security בחרה להיפטר מהגישה המסורתית של SAST ובמקום זאת משתמשת ב-AI וחשיבת constraint reasoning כדי למצוא vulnerabilities אמיתיים עם הרבה פחות false positives. במקום להציף אתכם בעצות שחצי מהן סתם רעש, הם הולכים לשיטה חכמה יותר שלמעשה מבינה מה משנה.",
     "d": "Mon, 16 Mar 2026 00:00:00 GMT",
     "v": 0,
@@ -3933,7 +4158,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 162,
+    "id": 171,
     "t": "How AI is helping improve heart health in rural Australia\n\nA new Google AI initiative aims to improve heart health outcomes for people living in remote Australian communities.",
     "d": "Thu, 12 Mar 2026 15:00:00 +0000",
     "v": 0,
@@ -3959,7 +4184,7 @@ window.TELEGRAM_DATA = [
     "source": "Google AI Blog"
   },
   {
-    "id": 163,
+    "id": 172,
     "t": "Rakuten מתקנת באגים פי שניים מהר יותר עם Codex\n\nראקוטן משתמשת ב-Codex של OpenAI כדי להשיק קוד מהר וביתר בטחון - התוצאה? זמן התיקון של באגים ירד בחצי, ביקורי CI/CD הופכו לאוטומטיים, וחבילות full-stack מוכנות תוך שבועות במקום חודשים. בעצם, הרובוט כותב קוד ומתקן בעיות בזמן שהמהנדסים שותים קפה.",
     "d": "Wed, 11 Mar 2026 13:00:00 GMT",
     "v": 0,
@@ -3985,7 +4210,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 164,
+    "id": 173,
     "t": "תכנון AI agents שעמידים להזרקת prompts\n\nOpenAI חושפת איך ChatGPT מתגונן מפני התקפות prompt injection וחברלות חברתית, על ידי הגבלת פעולות מסוכנות והגנה על נתונים רגישים בזרימות עבודה של agents. מתברר שהחברה לא רק בנתה סוכנים חכמים, אלא גם עשתה להם \"חיסון\" כנגד ניסיונות לעקוף אותם.",
     "d": "Wed, 11 Mar 2026 11:30:00 GMT",
     "v": 0,
@@ -4012,7 +4237,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 165,
+    "id": 174,
     "t": "מ-Model ל-Agent: איך OpenAI הפכה את Responses API לסביבה מחשב חדשה\n\nOpenAI בנתה סביבת runtime אמיתית לאגנטים עם יכולות ממש לעבוד עם קבצים וכלים - והכל רץ בקונטיינרים מאובטחים וקיימים. זה אומר שה-AI שלנו יכול עכשיו לא רק לחשוב אלא גם לעשות דברים אמיתיים, כל זה בצורה בטוחה וגדילה.",
     "d": "Wed, 11 Mar 2026 11:00:00 GMT",
     "v": 0,
@@ -4039,7 +4264,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 166,
+    "id": 175,
     "t": "וויפייר משפרת דיוק קטלוג ומהירות תמיכה עם OpenAI\n\nוויפייר השתמשה בעוצמת ה-AI של OpenAI כדי לתת טורבו לשירות הלקוחות והדיוק של מוצרים - הם אוטומטיים משנים טיקטים למחלקות הנכונות וממלאים מיליונים של פרטי מוצרים בקנה מידה ענק. זה משמעותי כי כל הניסיון השופץ שלכם בוויפייר בקנייה - מהחיפוש ועד לתשובות לשאלות - הופך להיות חלק יותר חלק ותגובות מהירות.",
     "d": "Wed, 11 Mar 2026 00:00:00 GMT",
     "v": 0,
@@ -4065,7 +4290,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 167,
+    "id": 176,
     "t": "Gemini in Google Sheets just achieved state-of-the-art performance.\n\nToday we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis — just describe …",
     "d": "Tue, 10 Mar 2026 13:00:00 +0000",
     "v": 0,
@@ -4091,7 +4316,7 @@ window.TELEGRAM_DATA = [
     "source": "Google AI Blog"
   },
   {
-    "id": 168,
+    "id": 177,
     "t": "שיפור הייררכיית ההוראות במודלי LLM מתקדמים\n\nOpenAI הציגה את IH-Challenge, שיטה חדשה שמלמדת מודלי AI להעדיף הוראות מהימנות ולהתנגד לפלישות prompt injection. כך שמודלים אלו יהיו בטוחים יותר וקשה יותר להוציא אותם משליטה, אפילו כשמישהו מנסה להטעות אותם בדרכים ערמומיות.",
     "d": "Tue, 10 Mar 2026 11:00:00 GMT",
     "v": 0,
@@ -4117,7 +4342,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 169,
+    "id": 178,
     "t": "דרכים חדשות ללמוד מתמטיקה והנדסה בעזרת ChatGPT\n\nOpenAI השיקה תכונות חדשות ב-ChatGPT שמאפשרות הסברים ויזואליים אינטראקטיביים במתמטיקה והנדסה - כך שתלמידים יכולים להבין נוסחאות וקונספטים בצורה חיה וצפופה. זה בעצם כמו שיש לכם מורה פרטי שמצייר לכם על הלוח כל שנייה בדיוק מה שאתם צריכים לראות.",
     "d": "Tue, 10 Mar 2026 10:00:00 GMT",
     "v": 0,
@@ -4143,7 +4368,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 170,
+    "id": 179,
     "t": "Introducing Storage Buckets on the Hugging Face Hub",
     "d": "Tue, 10 Mar 2026 00:00:00 GMT",
     "v": 0,
@@ -4166,7 +4391,7 @@ window.TELEGRAM_DATA = [
     "source": "Hugging Face Blog"
   },
   {
-    "id": 171,
+    "id": 180,
     "t": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
     "d": "Tue, 10 Mar 2026 00:00:00 GMT",
     "v": 0,
@@ -4189,7 +4414,7 @@ window.TELEGRAM_DATA = [
     "source": "Hugging Face Blog"
   },
   {
-    "id": 172,
+    "id": 181,
     "t": "OpenAI קונה את Promptfoo\n\nOpenAI תרכוש את Promptfoo, פלטפורמה לביטחון AI שעוזרת לחברות גדולות לזהות ולתקן חולשות במערכות AI במהלך הפיתוח. זה צעד חכם של OpenAI להעצים את הכלים שלהם בתחום ביטחון ה-AI, מה שמעניק לחברות גם כלים טובים יותר לבחון את המודלים שלהם לפני שהם מגיעים לייצור.",
     "d": "Mon, 09 Mar 2026 10:00:00 GMT",
     "v": 0,
@@ -4215,7 +4440,7 @@ window.TELEGRAM_DATA = [
     "source": "OpenAI Blog"
   },
   {
-    "id": 173,
+    "id": 182,
     "t": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
     "d": "Mon, 09 Mar 2026 00:00:00 GMT",
     "v": 0,
@@ -4238,7 +4463,7 @@ window.TELEGRAM_DATA = [
     "source": "Hugging Face Blog"
   },
   {
-    "id": 174,
+    "id": 183,
     "t": "LeRobot v0.5.0: Scaling Every Dimension",
     "d": "Mon, 09 Mar 2026 00:00:00 GMT",
     "v": 0,
@@ -4262,7 +4487,7 @@ window.TELEGRAM_DATA = [
     "source": "Hugging Face Blog"
   },
   {
-    "id": 175,
+    "id": 184,
     "t": "Railway מגייסת 100 מיליון דולר כדי להתחרות ב-AWS עם תשתית ענן ממוקדת AI\n\nRailway, פלטפורמת ענן מסן פרנסיסקו שהצליחה לאסוף 2 מיליון מפתחים בלי בכלל להשקיע בשיווק, הרגע הודיעה על גיוס של 100 מיליון דולר בסבב Series B. הכסף בא כי חברות מהמומים לבנות אפליקציות AI וגילו שתשתיות ענן ישנות פשוט לא מסתדרות איתן. בהנהגת TQ Ventures וחברות כמו Redpoint ו-Unusual Ventures, Railway יוצאת כעת למלחמה ישירה נגד AWS.",
     "d": "Thu, 22 Jan 2026 14:00:00 GMT",
     "v": 0,
@@ -4289,7 +4514,7 @@ window.TELEGRAM_DATA = [
     "source": "VentureBeat AI"
   },
   {
-    "id": 176,
+    "id": 185,
     "t": "Claude Code עולה עד 200 דולר בחודש, וגוס עושה את אותו הדבר בחינם\n\nClaude Code של Anthropic הוא כלי AI מדהים שכותב וממלא באגים בקוד באופן אוטומטי, אבל המחיר שלו - עד 200 דולר בחודש - גרם למתכנתים להתחיל לחפש חלופות זולות. וכאן נכנסת Goose לתמונה - פרויקט קוד פתוח חינם שמסוגל לעשות בעצם את אותו הדבר, וזה מתחיל להשיג תאוצה בקרב מפתחים שלא מוכנים להשקיע מאות דולרים בחודש בכלים לקוד.",
     "d": "Mon, 19 Jan 2026 14:00:00 GMT",
     "v": 0,
@@ -4315,7 +4540,7 @@ window.TELEGRAM_DATA = [
     "source": "VentureBeat AI"
   },
   {
-    "id": 177,
+    "id": 186,
     "t": "Listen Labs גייסה $69 מיליון אחרי תעלול ויראלי של לוח שנוע להעסיק מהנדסים וסוגרת סקאלה של ראיונות AI\n\nסטארטאפ ישראלית זכתה בפתח תיקים של VC ענקיים אחרי מהלך חכם למדי: בעלי המוקד שלחו לוח שנוע במרכז סן פרנסיסקו עם סדרות מספרים מסתוריות שהתברר שהן AI tokens, וכל מי שהצליח לפתור את קוד ההאקר שלהם (בנית bouncer דיגיטלי לכניסה למועדון בברלין) קיבל הצעת עבודה. זה היה תעלול מעבר לכל דמיון להשקה חברה בעידן ה-AI, וברור שהעובדים הטובים בעולם שמו לב.",
     "d": "Fri, 16 Jan 2026 14:01:00 GMT",
     "v": 0,
@@ -4338,7 +4563,7 @@ window.TELEGRAM_DATA = [
     "source": "VentureBeat AI"
   },
   {
-    "id": 178,
+    "id": 187,
     "t": "סיילספורס משיקה Slackbot AI חדש כדי להתמודד עם מיקרוסופט וגוגל בשוק ה-AI לעבודה\n\nסיילספורס השיקה גרסה חדשה לחלוטין של Slackbot - מהכלי התראות פשוט ל-AI agent חזק שיכול לחפש בנתונים של הארגון, לכתוב מסמכים ולבצע פעולות בשם העובדים. הכלי החדש, שזמין כעת ללקוחות Business+ ו-Enterprise+, הוא הצעד הגרוע ביותר של סיילספורס עד כה בניסיון להכניס את Slack למרכז תנועת ה-agentic AI המתפתחת.",
     "d": "Tue, 13 Jan 2026 13:00:00 GMT",
     "v": 0,
@@ -4362,7 +4587,7 @@ window.TELEGRAM_DATA = [
     "source": "VentureBeat AI"
   },
   {
-    "id": 179,
+    "id": 188,
     "t": "Anthropic משיקה את Cowork - סוכן Claude שעובד בקבצים שלך ללא צורך בקוד\n\nאנתרופיק הכריזה על Cowork, כלי AI חדש שמביא את כוחו של Claude Code גם למשתמשים שלא מבינים בתכנות. המעניין ביותר? הצוות בנה את כל התכונה הזו בחצי שבועיים וחצי, בעיקר בעזרת Claude Code עצמו! הזה זה משהו שמעביר את מושג ה-AI agents מ-הנהד טכני לכלי שרציני שאנשים בחיים האמיתיים יכולים בעצם להשתמש בו, וזה משנה את המשחק בתחרות מול OpenAI וגוגל.",
     "d": "Mon, 12 Jan 2026 11:30:00 GMT",
     "v": 0,
@@ -4390,7 +4615,7 @@ window.TELEGRAM_DATA = [
     "source": "VentureBeat AI"
   },
   {
-    "id": 180,
+    "id": 189,
     "t": "NousCoder-14B של Nous Research - מודל קוד בעל קוד פתוח שמגיע בדיוק בזמן של Claude Code\n\nNous Research, סטארטאפ AI בקוד פתוח שמתומך על ידי קרן הקריפטו Paradigm, שחררה ביום שני מודל תחרות תכנות חדש שטוען שהוא משדרג או עולה על מספר מערכות קנייניות גדולות יותר - והדבר המדהים? הם אימנו אותו בסך הכל בארבעה ימים בעזרת 48 GPU B200 של Nvidia. NousCoder-14B היא עוד כניסה לשדה צפוף של עוזרי קוד AI, אבל היא מגיעה בזמן ממש תקוף - בדיוק כשClaude Code של Anthropic משנה את המשחק.",
     "d": "Wed, 07 Jan 2026 20:00:00 GMT",
     "v": 0,
@@ -4418,7 +4643,7 @@ window.TELEGRAM_DATA = [
     "source": "VentureBeat AI"
   },
   {
-    "id": 181,
+    "id": 190,
     "t": "יוצר Claude Code חשף את שיטת העבודה שלו וקהילת המפתחים מטורפת\n\nבוריס צ'רני, ראש פרויקט Claude Code בAnthropc, פרסם את סט כלים ההנדסה שלו בX והעולם הטכני כבר התפוצץ. הפוסט שנראה בתחילה כשיתוף פשוט של setup טרמינל אישי הפך למניפסטו ויראלי על עתיד פיתוח התוכנה, עם מובילי התעשייה קוראים לזה רגע שמשנה משחק. אם עדיין לא קראתם - זה בטח המקום שבו כל מהנדס צריך להיות עכשיו.",
     "d": "Mon, 05 Jan 2026 07:45:00 GMT",
     "v": 0,
