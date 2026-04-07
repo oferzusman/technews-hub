@@ -351,7 +351,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "Video: Semicircular wings give Cyclone VTOL a different kind of lift\n\nWe've seen lots of designs for vertical take-off and landing vehicles over the years, but none are quite as striking as the wings on HopFlyt's Cyclone. The curved wings have their root in a design first introduced in the 1920s but never employed in a commercial vehicle.\nContinue Reading\nCategory: Aircraft, Transport\nTags: eVTOL, Hybrid eVTOLs, VTOL, Unmanned, Aircraft",
+    "t": "וידאו: כנפיים חצי-עגולות נותנות ל-Cyclone של HopFlyt הרמה שונה\n\nHopFlyt חשפה את ה-Cyclone, רחפן חדש בעל כנפיים עקומות מיוחדות שנראות כמו משהו מתוך הנדסה מעוקלת - וגם זה לא דבר חדש, כי הרעיון הזה הומצא כבר בשנות ה-20, רק שלא השתמשו בו מעולם בכלי תחבורה אמיתי. הטכנולוגיה של eVTOL חוזרת וקוטעת בצורות יצירתיות שכאלה, וכנראה שהנדסאים של HopFlyt מצאו דרך חכמה שיפר את הביצועים של המטוס.",
     "d": "Tue, 07 Apr 2026 17:15:00 GMT",
     "v": 0,
     "l": [
@@ -710,7 +710,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 30,
-    "t": "XGIMI aims for home theater dominance with Titan Noir series projectors\n\nBack in September, former crowdfunding darling XGIMI announced its first dip into commercial projection waters with the mighty Titan. Now that moniker has found its way onto a new series of premium tri-laser projectors headed to home theaters. The Titan Noir series brings powerful dual-iris contrast control and high brightness to the 4K watch party.\nContinue Reading\nCategory: Home Entertainment, Consumer Tech, Technology\nTags: XGIMI, home theater, Projectors, 4K UHD",
+    "t": "XGIMI חוקרת את שוק קולנוע הבית עם סדרת הפרויקטורים Titan Noir\n\nXGIMI, שהתחילה כדארלינג בעולם ההמונים, כנסה לעולם הפרויקטורים הפרימיום עם סדרת Titan Noir החדשה - פרויקטורים תלת-לייזר שמביאים טכנולוגיית dual-iris וכוח אור חזק לחדרי המעגל הסגור שלנו. אם אתם חושבים שהטלוויזיה 4K שלכם מרשימה, חכו עד שתראו מה יוכל לעשות פרויקטור כזה לערב הסרט הביתי שלכם.",
     "d": "Tue, 07 Apr 2026 15:46:52 GMT",
     "v": 0,
     "l": [
@@ -725,8 +725,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://assets.newatlas.com/dims4/default/4bff196/2147483647/strip/true/crop/6000x3150+0+113/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe1%2F4d%2Fe3eba26b40ec831c04e47c82f25a%2Ftitannoir-image2.jpg&na.image_optimisation=0",
@@ -1091,7 +1090,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 46,
-    "t": "Hyundai’s Boulder Concept has Detroit looking over its shoulder\n\nWith its cowboy-chunky jawline and boxy, muscular body, it looks big, modern, tough, and desirable. And Detroit is suddenly worried.\nContinue Reading\nCategory: Automotive, Transport\nTags: Concept Vehicle, Hyundai, SUV, Off-road, New York International Auto Show 2026",
+    "t": "קונספט בולדר של יונדאי גורם לדטרויט להסתכל לכתף\n\nיונדאי הבהיקה בתערוכת הרכב עם קונספט חדש שנראה כמו גיבור אקשן על גלגלים - גוף מרובע וגזוז, עם ריווח פטרוליום בטרם בחזהו. דטרויט כבר קצת חוששת מהתחרות החדשה הזו, ודברים מתחממים בשוק ה-SUV לא בזמן בעיצוב שנראה משני יהיר ומודרני",
     "d": "Tue, 07 Apr 2026 13:24:31 GMT",
     "v": 0,
     "l": [
@@ -1230,7 +1229,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 52,
-    "t": "UK’s new compact launcher can deploy 10 drones rapidly for battlefield surveillance\n\nA new launcher developed by British drone manufacturer ISS Aerospace is designed to deploy multiple...",
+    "t": "משגר קומפקטי חדש של בריטניה יכול להשיק 10 drones במהירות למעקב שדה קרב\n\nהיצרנית הבריטית ISS Aerospace פיתחה משגר חדש ומהפכני שמסוגל להטיל עשרה drones בו-זמנית לצרכי מעקב צבאי. המכשיר הקומפקטי הזה מאפשר לכוחות צבא להשיג כוח מודיעיני גבוה תוך זמן קצר מאוד, וזה משנה משהו בעולם הסריקה שדות קרב. מדובר בצעד דור קדימה בטכנולוגיית ה-drones הצבאיים שנראה שמשפיע על דרך המודיעין של צבאות מודרניים.\n\nמקור: Interesting Engineering",
     "d": "Tue, 07 Apr 2026 13:03:00 +0000",
     "v": 0,
     "l": [
@@ -1276,7 +1275,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 54,
-    "t": "US’ 450-mile-range Laila drone gets SAMURAI edge to take down enemy drones\n\nHoneywell has partnered with Odys Aviation to develop a new airborne counter-drone system designed to...",
+    "t": "כ-720 קילומטר טווח: הדרון הצבאי האמריקני החדש Laila יקבל יכולת SAMURAI להדות כנגד רחפנים אויב\n\nHoneywell ו-Odys Aviation משתפות פעולה בפיתוח מערכת נגד-רחפנים חדשנית שתוכל לזהות והטיל זריקה על רחפנים של אויב, כאשר הדרון Laila יכול להטוס למרחקים ענקיים בשביל למלא משימות. המערכת החדשה SAMURAI תאפשר לצוות צבאי אמריקני להגן עצמם מפני איומים אוויריים באזורים רחוקים, וזה צעד משמעותי בפיתוח טכנולוגיית ההגנה של צבא ארה״ב.",
     "d": "Tue, 07 Apr 2026 12:43:15 +0000",
     "v": 0,
     "l": [
@@ -1299,7 +1298,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 55,
-    "t": "US: Humanoid robot Alex evolves with real-world capabilities ahead of public debut\n\nA leading US robotics center is preparing its next-generation humanoid robot designed to operate beyond...",
+    "t": "ארה״ב: הרובוט הומנואידי Alex התפתח עם יכולויות בעולם האמיתי לפני החשיפה הציבורית\n\nמרכז רובוטיקה מובילה בארה״ב מכין את הרובוט הומנואידי החדש שלו שעתיד לפעול בתנאים אמיתיים ומעבר למעבדה - וזה נראה כמו צעד ענק לעבר עידן חדש של רובוטים חכמים. Alex לא סתם מהלך יותר טוב, הוא לומד להתמודד עם המציאות של העולם החיצוני, וזה בדיוק מה שנחוץ כדי שהטכנולוגיה הזאת תצא מתחום המדע הבדיוני אל שימוש מעשי. חודשים ספורים בלבד מפרידים בינו לבין הצצה ציבורית שתשנה הרבה בדיון על עתיד הרובוטיקה.",
     "d": "Tue, 07 Apr 2026 12:26:59 +0000",
     "v": 0,
     "l": [
@@ -1314,8 +1313,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.youtube.com/embed/tD3FNZUG2kQ",
@@ -1695,7 +1693,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 71,
-    "t": "General Atomics’ drone wingman prototype for US crashes during tests in California\n\nA prototype drone built for the U.S. Air Force’s next-generation unmanned wingman program crashed shortly...",
+    "t": "כלי טיס ללא טייס של General Atomics מתרסק במהלך בדיקות בקליפורניה\n\nפרוטוטיפ כלי טיס חדשני שפותח לחיל האוויר האמריקאי בתוכנית ה-unmanned wingman הבא דור, התרסק במהלך בדיקות בקליפורניה. זה עוד אחד מהקשיים בפיתוח מערכות UAV מתקדמות שאמורות לעבוד בתיאום עם כלי טיס מאוישים. כל שבילים מתקדמים יש קטעים וקשיים, והנושא הזה עדיין בשלב הפיתוח בדיקות של General Atomics.",
     "d": "Tue, 07 Apr 2026 10:41:03 +0000",
     "v": 0,
     "l": [
@@ -1741,7 +1739,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 73,
-    "t": "China’s new infrared chip makes military-grade vision sensors 99% cheaper\n\nA research team at Xidian University in China has found a way to make short-wave...",
+    "t": "שבב אינפרא-אדום חדש של סין הופך חיישני ראיה דרגת צבא לזולים ב-99%\n\nקבוצת מחקר בין בישראל היא תמיד עולם על חדשנות צבאית, אבל סין רק הפיקה משהו שמדהים - שבב אינפרא-אדום שמוריד את המחיר של חיישני ראיה איכותיים כמעט לאפס. דמיינו מה זה אומר לכל מי שעוסק בתחום הראיה הממוחשבת וטכנולוגיות ביטחון - זה כמו לעשות ריסט במחיר הרכיבים. מהאוניברסיטה Xidian בסין הגיע הפתרון שיכול לשנות את המשחק בתעשיות רבות.",
     "d": "Tue, 07 Apr 2026 10:23:33 +0000",
     "v": 0,
     "l": [
@@ -1818,7 +1816,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 76,
-    "t": "Three-bedroom tiny house designed for raising a family\n\nRaising a family in a tiny house is always going to be a challenge, but this three-bedroom model features a spacious layout that has been designed from the ground up with families in mind.\nContinue Reading\nCategory: Tiny Houses, Outdoors\nTags: Building and Construction, Tiny Footprint, Micro-House, House, Home",
+    "t": "בית זעום בן שלוש חדרים מעוצב במיוחד לגדילת משפחה\n\nגם אם חיים בבית זעום זה אתגר, במודל החדש הזה יש לכם פתרון חכם - שלוש חדרי שינה בתוך מטרות שנבנה מהבסיס עם משפחות בראש. הדיזיין פותח וגדול הרבה יותר ממה שהיינו מצפים מ\"זעום\" כזה, וזה יכול להיות התשובה לכל משפחה שחולמת על בית קטן אבל חי ובתוך זה בנוח.",
     "d": "Tue, 07 Apr 2026 10:07:35 GMT",
     "v": 0,
     "l": [
@@ -1962,7 +1960,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 82,
-    "t": "The ebike that's basically an e-moped – Cyrusher Kommoda 3.0 review\n\nCalling the Cyrusher Kommoda 3.0 a \"bicycle\" almost feels a little dishonest. Sure, it has pedals and technically fits into the ebike category, but when you twist the throttle, the whole experience leans a little more towards an electric moped that just happens to have pedals. The fat Arisun 20x4-inch tires, the 6061 aluminum step-through frame, and the 750-watt rear hub motor with nearly 63 lb-ft (85 Nm) of torque ... yeah, that all supports what I'm trying to illustrate here.\nContinue Reading\n",
+    "t": "האופניים החשמליים שזה בעצם קטנוע - ביקורת Cyrusher Kommoda 3.0\n\nאם אתם חושבים שזה סתם אופניים חשמליים רגילים, אתם טועים בגדול. לקירוש קומודה 3.0 יש דוושות כן, אבל כשאתם מושכים את גז המהירות זה הרבה יותר קרוב לקטנוע חשמלי שאדיר הוסיף לו דוושות. טיירים עבים, מנוע 750 וואט בגלגל האחורי שמעניק כוח שריחוק של 85 ניוטון מטר - זה לא צחוק. בחזרה לנו ה-fat ebike שבעצם לא הכנו כתובה עבור.",
     "d": "Tue, 07 Apr 2026 07:44:10 GMT",
     "v": 0,
     "l": [
@@ -2278,7 +2276,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 95,
-    "t": "Adorable tiny RV pushes kei-style micro-camping West ... with a catch\n\nEvery time we've come across a vehicle from German tiny EV builder Ari Motors, we can't help but wonder if there's a camper version. For a while, the answer was a straight \"No,\" but this month that all changes as the company releases what it's calling the smallest motorhome in Germany. While the Elektro Frosch and Spacecamper Bike might argue that point, Ari's 458 Pro Campervan is the type of tiny, adorable camping car you usually have to travel to Japan or South Korea to see, only now available",
+    "t": "קרוואן חשמלי זעיר וחמוד מגרמניה מביא את תרבות הקמפינג המינימליסטי לאירופה\n\nהיצרנית הגרמנית Ari Motors בחרה סוף סוף להשיק גרסת קמפר של הרכבים החשמליים הקטנטנים שלה, והתוצאה היא משהו בדיוק כמו הקרוואנים המיניאטוריים שאתה בדרך כלל רואה בטוקיו או סיאול. ה-Ari 458 Pro Campervan הוא מכונת קמפינג זעירה וכל כך חמודה שקשה לא ליפול לה, ועכשיו היא בסוף זמינה גם באירופה. אם תמיד חלמת על adventure בקרוואן אבל לא רצית מבנה ענק - זה ייתכן שהדבר שלך.",
     "d": "Mon, 06 Apr 2026 23:03:00 GMT",
     "v": 0,
     "l": [
@@ -2295,7 +2293,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://assets.newatlas.com/dims4/default/85dd612/2147483647/strip/true/crop/1402x736+3+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F94%2F37%2F8e03909a4d0fa30f952351d343be%2Faum-photo-20260331-262573.jpg&na.image_optimisation=0",
     "source": "New Atlas"
   },
@@ -2690,7 +2688,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 112,
-    "t": "NY Yankees' infamous torpedo is the same as regular bat, says science\n\nDuring Major League Baseball's (MLB) opening season in 2025, the New York Yankees hit a team-record nine home runs in a single game. Six of those homers came from players using a unique bowling-pin-shaped bat known as a torpedo bat.\nContinue Reading\nCategory: Sports, Consumer Tech, Technology\nTags: Baseball, Washington State University, Pennsylvania State University, University of Illinois, Sports",
+    "t": "מדע אומר: הקטום המפורסם של יורק יאנקיז הוא בדיוק כמו מטבט רגיל\n\nבעונת ה-MLB של 2025, יורק יאנקיז הכו שיא קבוצתי של 9 הומראנים במשחק אחד - ו-6 מהם היו עם מטבט בצורת פין בולינג מעניין שנקרא 'torpedo bat'. אבל פה זה מעניין: מחקר מאוניברסיטאות שונות בארה\"ב גילה שהמטבט הזה לא באמת מיוחד יותר מהרגיל, ובעצם ביצועיו דומים למאוד לאופציות סטנדרטיות.",
     "d": "Mon, 06 Apr 2026 20:00:00 GMT",
     "v": 0,
     "l": [
@@ -5502,7 +5500,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 225,
-    "t": "Toyota’s new flagship EV is off to a flying start: 3,000+ orders in 1 hour\n\nWhat does US$21,000 get you in automotive terms? Kia Soul, Chevrolet Trax, Nissan Versa, Hyundai Venue … You see a trend there, right? None of those cars is electric, and none of them are flagships by any stretch of imagination.\nContinue Reading\nCategory: Automotive, Transport\nTags: Electric Vehicles, Toyota, GAC, China, Sedan",
+    "t": "הרכב החשמלי החדש של טויוטה מתחיל בפריצה: יותר מ-3,000 הזמנות בשעה אחת\n\nטויוטה הצליחה להדליק את השוק עם הדגם החשמלי החדש שלה - בערך של 21,000 דולר זה מכניס לאוויר שנראה שעד עכשיו היה מלא בכלים זולים ולא חשמליים מהתחרויות. בשעה אחת בלבד קיבלה החברה יותר מ-3,000 הזמנות, דבר שמעיד על עניין ענק בקרב הצרכנים למכונית חשמלית שמשלבת מחיר משתלם עם טכנולוגיה מודרנית.",
     "d": "Mon, 06 Apr 2026 17:30:00 GMT",
     "v": 0,
     "l": [
@@ -7051,7 +7049,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 288,
-    "t": "Titanium utensil may look like a simple spork, but it packs 10 functions\n\nWhether you’re camping for a few days, doing a day hike, or heading out for a weekend trek, the same rule always applies equally: pack light, carry less. That’s why multifunctional tools are so appealing when it comes to outdoor adventures. EaTi One, currently available for pledging on Kickstarter, at first glance looks just like a regular spork, but it actually combines 10 tools in one small unit.\nContinue Reading\nCategory: Knives and Multitools, Gear, Outdoors\nTags: Kickstarter, Multitools, Ut",
+    "t": "כף טיטניום שנראית כמו spork רגיל, אבל מסתירה בתוכה 10 פונקציות\n\nEaTi One היא כלי מולטיפונקציונלי חדשה שמגיעה מ-Kickstarter והיא בדיוק מה שהטיולאים חלמו עליו - ספורק קטן וקל שמסתיר בתוכו 10 כלים שונים. מי שלא רוצה לשאת כל החיים על הגב בטיול, סוף סוף יכול להשתמש בכלי אחת ולהיות מאושר. הטיטניום שבו היא עשויה הוא חזק, קל, ולא יכזיב לכם בתנאים קשים בשדה.",
     "d": "Mon, 06 Apr 2026 15:41:37 GMT",
     "v": 0,
     "l": [
@@ -8010,7 +8008,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 328,
-    "t": "Maxell revives and updates the classic cassette player with Bluetooth\n\nJapanese consumer electronics company Maxell, known for its high-performance chromium metal cassettes during its 80s zenith, has now released a modern update to the portable cassette player.\nContinue Reading\nCategory: Consumer Tech, Technology\nTags: Cassettes, Music Player, Retro, Bluetooth",
+    "t": "מקסל מחייה את נגן הקלטות הקלאסי עם Bluetooth\n\nמקסל, חברת האלקטרוניקה היפנית שהייתה מלכת הקלטות בשנות ה-80, החליטה להחזיר את נגן הקלטות הנייד לחיים - אבל הפעם עם טאצ' מודרני של Bluetooth. זה לא סתם נוסטלגיה כמו קניית פלנל משומש - הם באמת עדכנו את המכשיר הקלאסי כדי שיתאים לעולם של היום. אם חשבתם שקלטות זה רק זכרון עממי, חברה זו אומרת שלא כל כך מהר.",
     "d": "Mon, 06 Apr 2026 13:03:00 GMT",
     "v": 0,
     "l": [
@@ -8023,14 +8021,11 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://assets.newatlas.com/dims4/default/4abcd17/2147483647/strip/true/crop/4719x2477+0+334/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F86%2Fac%2F67a7a0ab44de80ada6525ec3798f%2Fsub6.jpeg&na.image_optimisation=0",
     "source": "New Atlas"
   },
@@ -8755,7 +8750,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 359,
-    "t": "US Air Force breaks ground on next-gen nuclear missile silo\n\nWhen you have a new ICBM, you need a place to keep it, so Northrop Grumman is building a prototype silo for the US Air Force to house its next-generation LGM-35A Sentinel nuclear missile that will replace the Cold War Minuteman III.\nContinue Reading\nCategory: Military, Engineering\nTags: Sentinel, Nuclear weapons, US Air Force, Northrop Grumman",
+    "t": "חיל האוויר האמריקאי מתחיל בבנייה של סילו טילים גרעיני דור הבא\n\nנורת'ροפ גרומן בונה עכשיו פרוטוטיפ של סילו חדש לחיל האוויר האמריקאי שיהוסט את הטיל הגרעיני LGM-35A Sentinel, שנועד להחליף את הטיל Minuteman III ישן מימי המלחמה הקרה. זה לא סתם שדרוג קטן - מדובר בתשתית שלמה שתשרת את דור הבא של הנשקים הגרעיניים האמריקאים. ובאמת, כשיש לך ICBM חדש וחזק, אתה צריך לשמור אותו במקום בטוח ומודרני.",
     "d": "Mon, 06 Apr 2026 01:03:00 GMT",
     "v": 0,
     "l": [
@@ -8827,7 +8822,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 362,
-    "t": "One-of-a-kind shipping container house even has its own pool and sauna\n\nWe've seen a lot of shipping container-based houses, but few are as impressive as the recently completed Vermont Villa. Made up of carefully stacked metal boxes, the home has a spacious interior and even includes its own pool and sauna.\nContinue Reading\nCategory: Architecture, Engineering\nTags: shipping containers, Building and Construction, House, Home",
+    "t": "בית מכולות ייחודי עם בריכה וסאונה משלו\n\nלמרות שראינו כבר המון בתים משכולות משלוח, ה-Vermont Villa החדש באמת משהו מיוחד. הבית הזה בנוי מקופסאות מתכת מוערמות בצורה חכמה, ויש לו פנים מרווחים וגם בריכה וסאונה משלו - כל זה באותו מבנה אדריכלי מושקע. זה שילוב די מרשים של הנדסה חכמה וחיי לוקס בשימוש יצירתי בחומרים תעשייתיים.",
     "d": "Sun, 05 Apr 2026 23:03:00 GMT",
     "v": 0,
     "l": [
@@ -8840,12 +8835,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://assets.newatlas.com/dims4/default/db93b60/2147483647/strip/true/crop/1800x945+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F8d%2F86%2Ff382cf0b476e9658f93d52574072%2Fgrabus-feature.jpg&na.image_optimisation=0",
@@ -9572,7 +9564,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 393,
-    "t": "Heavily disguised 7-seater Peaq EV revealed as new Škoda flagship\n\nBeneath the garish camouflage paint job, this is a first peek at the Peaq, a seven-seater all-electric SUV that’s the biggest, most luxurious and high-tech Škoda ever built.\nContinue Reading\nCategory: Automotive, Transport\nTags: Skoda, SUV, Electric Vehicles",
+    "t": "שקודה חושפת את ה-Peaq - SUV חשמלי בן 7 מושבים שיהיה הדגל החדש של החברה\n\nתחת צביעת הטיפול הכבדה, זאת ההצצה הראשונה לשקודה Peaq - SUV חשמלי ענק שנועד להיות המכונית הכי גדולה, יוקרתית וטכנולוגית שאי פעם בנתה שקודה. המכונית החדשה מגיעה עם שלוש שורות של מושבים ורמת טקנולוגיה שלא ראינו מהחברה הצ'כית עד כה, ובתוכנית לשנות את משחק ה-EV בקטגוריית ה-SUV הגדול.",
     "d": "Sun, 05 Apr 2026 13:03:00 GMT",
     "v": 0,
     "l": [
@@ -10003,7 +9995,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 411,
-    "t": "Homemade solar drone smashes endurance record with 5+ hours aloft\n\nLuke Bell and his father Mike have done it again. Their new solar-powered drone – running on sunlight and almost nothing else – just claimed an unofficial endurance record for electric multirotors, flying for 5 hours, 2 minutes, and 21 seconds before Luke simply got tired and landed it.\nContinue Reading\nCategory: Drones, Consumer Tech, Technology\nTags: Quadcopter, Remote-controlled, Solar Powered",
+    "t": "דרון סולארי ביתי שברת שיא של 5+ שעות בעלייה\n\nלוק בל והאבא שלו מייק עשו את זה שוב - הדרון החדש שלהם שפועל כמעט לגמרי על אנרגיה סולארית זה עתה שברת שיא לא רשמי בעמידות לדרוני ריבוי רוטורים, כשהוא טס 5 שעות ו-2 דקות ו-21 שניות עד שלוק פשוט כל הכוח וחזר הביתה. זה פשוט מטורף - דרון שמטס כמעט כל היום על בסיס אנרגיה מתחדשת, ולא צריך אפילו לטעון סוללה בדרך.",
     "d": "Sun, 05 Apr 2026 10:01:00 GMT",
     "v": 0,
     "l": [
@@ -10243,7 +10235,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 421,
-    "t": "Mini quantum battery charges a million times faster than it discharges\n\nWhat comes to mind when you imagine fast charging? Smartphones going from zero to 100% in minutes? Or perhaps, EVs gaining 60 miles worth of charge in under an hour? Scientists have created a proof-of-concept quantum battery that charges one million times faster than it discharges … using a laser.\nContinue Reading\nCategory: Energy, Engineering\nTags: CSIRO, Quantum Mechanics, Battery Technology",
+    "t": "סוללה קוונטית מיני: טעינה מהירה מיליון פעמים יותר מהפריקה\n\nמדענים יצרו סוללה קוונטית יוטופית שטוענת במהירות מטורפת - מיליון פעמים יותר מהר מאשר היא משתחררת! אנחנו מדברים על טכנולוגיה שחוקרים מ-CSIRO פיתחו בעזרת לייזר, שיכולה להחליף לחלוטין את המשחק בעולם הטעינה המהירה של סמארטפונים וכלי חשמליים. אם הטכנולוגיה הזאת תצא מהמעבדה לעולם האמיתי, זה עלול להיות משהו שחוזה חיים דיגיטליים שלנו.",
     "d": "Sun, 05 Apr 2026 04:03:00 GMT",
     "v": 0,
     "l": [
@@ -10289,7 +10281,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 423,
-    "t": "Toyota is still trying to make hydrogen-fueled vehicles a reality\n\nColor me puzzled by this curious bit of news. Toyota is teaming up with Daimler Truck and the Volvo Group to advance the development of hydrogen-fuel-cell tech for zero-emissions heavy duty vehicles.\nContinue Reading\nCategory: Automotive, Transport\nTags: Transport, Hydrogen, Hydrogen-powered, Fuel Cell, Toyota, Truck",
+    "t": "טויוטה לא מוותרת: המאבק להנעת כלי רכב בחימצן\n\nטויוטה מתחברת עם דיימלר טראק וקבוצת וולוו כדי להמשיך לפתח טכנולוגיית fuel cell על בסיס מימן לכלי כבדים זעקי פליטות. נראה שהיפנים עדיין מאמינים שהמימן יהיה העתיד, למרות שהעולם כבר עזב לטסלה וחברות EV אחרות. זו צעד מעניין שמראה שהמירוץ לנייטרליות פחמן עדיין רחוק מהיותו נפתר.",
     "d": "Sun, 05 Apr 2026 00:03:00 GMT",
     "v": 0,
     "l": [
@@ -10381,7 +10373,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 427,
-    "t": "This 20-ft-long tiny house is more practical than you might expect\n\nThis tiny house performs some downsizing magic to fit a surprisingly practical interior into its tight dimensions. Named the Espresso, it sleeps up to two people in comfort, plus it even has a little space for guests.\nContinue Reading\nCategory: Tiny Houses, Outdoors\nTags: Building and Construction, Tiny Footprint, Micro-House, House, Home",
+    "t": "בית זעיר בן 20 מטר שמפתיע במעשיותו\n\nהם קראו לזה Espresso וזה בדיוק מה שזה - קומפקטי אבל חכם. הבית הקטן הזה משהו מנסה לא לבזבז מקום ומצליח להכניס פנים מעניינים לתוך המימדים הצפופים, עם מקום לשני אנשים בנוח ואפילו זוית לאורחים. דיברנו כבר על tiny houses, אבל הפעם זה באמת עושה הבדל.",
     "d": "Sat, 04 Apr 2026 18:03:00 GMT",
     "v": 0,
     "l": [
@@ -10911,7 +10903,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 449,
-    "t": "Airbus \"Bird of Prey\" interceptor drone makes catch on first flight\n\nLike an overachieving fledgling falcon, on its inaugural flight an Airbus \"Bird of Prey\" interceptor drone took out a medium-sized suicide drone using a Fraknkenberg Mark I mini-missile during a demonstration on March 30, 2026 in northern Germany.\nContinue Reading\nCategory: Military, Engineering\nTags: drones, Airbus",
+    "t": "\"Bird of Prey\" של איירבס - מל\"טי חוצץ הוכיח את עצמו בטיסה הראשונה\n\nכמו נקר צעיר שיודע להשתלם, מל\"ט ה-\"Bird of Prey\" החדש של איירבס הצליח בפעם הראשונה בחייו לנטרל מל\"ט התאבדות בגודל בינוני באמצעות קסדת mini-missile Fraknkenberg Mark I בהפגנה משוכללת בצפון גרמניה. זה כל מה שצריך לדעת: החברה הגדולה במטוסים יוצרת מכונות קטנות שעושות עבודה קשה, וזה כבר עובד. המל\"ט החדש נראה כמו הפתרון שהצבא האירופאי חיכה לו.",
     "d": "Sat, 04 Apr 2026 12:03:00 GMT",
     "v": 0,
     "l": [
@@ -11078,7 +11070,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 456,
-    "t": "Ducati's most extreme road-legal moto weighs 368 lb and pushes out 228-hp\n\nA century in the making, and still chasing the impossible – Ducati has never been one to regard conventional limits. With the Superleggera V4 Centenario, the Italian marque isn’t just nudging the boundaries of performance; it is breaking them.\nContinue Reading\nCategory: Motorcycles, Transport\nTags: Ducati, superleggera, Racing, MotoGP, Crazy, World's First",
+    "t": "אופנוע דוקאטי הקיצוני ביותר החוקי לכביש משקלו 368 ליברות והוא מפתח 228 כוסות סוס\n\nדוקאטי חוגגת מאה שנה בסטייל עם ה-Superleggera V4 Centenario - אופנוע גנוני שמשקלו פחות מ-170 קילוגרם אבל בעל כוח של 228 כוסות סוס, מה שהופך אותו לאחד המכונות המטורפות ביותר שאי פעם הורשו לכביש. איטליה לא הפסיקה לחלום בגדול ותוצאה זו שוברת את כל הגבולות של מה שחשבנו שאפשרי במהירויות קיצוניות על שתי גלגלים.",
     "d": "Sat, 04 Apr 2026 07:03:00 GMT",
     "v": 0,
     "l": [
@@ -11781,7 +11773,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 485,
-    "t": "Sea sponge inspires tower rising to supertall height in North America\n\nThis remarkable skyscraper draws inspiration from the most unexpected of sources: sea sponges. The ambitious building will rise to a supertall height and will be topped by a publicly accessible tree-filled park.\nContinue Reading\nCategory: Architecture, Engineering\nTags: Building and Construction, Skyscrapers, Vancouver, Residential towers",
+    "t": "מגדל בוקנקובר שהוגה בהשראת כנימת ים מטפס לגבהים עוז\n\nמיזם אדריכלי חדש בוונקובר משלב השראה טבעית מעולם הטבע - הגדוב בנוי על עקרונות המבנה של כנימת ים, וזה לא כל הדברים. הגדול הזה ייעלה לגבהים מרשימים ויוחמר בפארק ציבורי נגיש בעיצוב עשיר בעצים, מה שיוצר מרחב ירוק בלב הערים. זה עוד אחד מהמקרים שבהם טכנולוגיה ועיצוב מודרנים למדים מחוכמת הטבע. | New Atlas",
     "d": "Fri, 03 Apr 2026 18:03:00 GMT",
     "v": 0,
     "l": [
@@ -11794,12 +11786,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://assets.newatlas.com/dims4/default/a6c2f9a/2147483647/strip/true/crop/5000x2625+0+188/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F36%2F34%2F536478ec453b837af3f1a4f35d86%2F1-view-from-observation-deck-holborn-group.jpg&na.image_optimisation=0",
@@ -11927,7 +11916,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 491,
-    "t": "Automated wall breathes literal life into ambitious architecture\n\nVertical living green walls comprised of live plants are a natural energy-saving method for improving indoor air quality and enhancing interior design, but they're hampered by inconsistent performance.\nContinue Reading\nCategory: Architecture, Engineering\nTags: Hebrew University of Jerusalem, Plants, Living Wall",
+    "t": "קיר חכם שמתנשם - מערכת אוטומטית שמחיה קירות ירוקים\n\nחוקרים בהברו הצליחו לפתור את הבעיה של קירות ירוקים חיים - הם פיתחו מערכת אוטומטית שמטפלת בצמחים ושומרת על ביצועיהם קבועים. קירות אלה לא רק נראים מטורפים ומשפרים את איכות האוויר בתוך הבתים, אלא גם חוסכים הרבה אנרגיה לחימום וקירור. עם הטכנולוגיה החדשה הזו, סוף סוף קיים פתרון אמיתי לקיר ירוק שלא יתפשל ויישאר יפה וחי תמיד.",
     "d": "Fri, 03 Apr 2026 15:03:00 GMT",
     "v": 0,
     "l": [
