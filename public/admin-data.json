@@ -1,9 +1,9 @@
 {
-  "total": 1419,
-  "translated": 916,
-  "untranslated": 503,
-  "today": 384,
-  "week": 1394,
+  "total": 1446,
+  "translated": 966,
+  "untranslated": 480,
+  "today": 411,
+  "week": 1421,
   "sources": [
     {
       "name": "OpenAI Blog",
@@ -13,9 +13,9 @@
     },
     {
       "name": "Pypi.org",
-      "total": 113,
-      "translated": 0,
-      "lastDate": "2026-04-07T19:12:45Z"
+      "total": 116,
+      "translated": 8,
+      "lastDate": "2026-04-07T19:37:16Z"
     },
     {
       "name": "Futurism",
@@ -74,14 +74,20 @@
     {
       "name": "The Times of India",
       "total": 28,
-      "translated": 1,
+      "translated": 6,
       "lastDate": "2026-04-07T19:08:03Z"
     },
     {
       "name": "Onefootball.com",
-      "total": 23,
-      "translated": 4,
-      "lastDate": "2026-04-07T19:05:00Z"
+      "total": 24,
+      "translated": 6,
+      "lastDate": "2026-04-07T19:44:00Z"
+    },
+    {
+      "name": "GlobeNewswire",
+      "total": 22,
+      "translated": 6,
+      "lastDate": "2026-04-07T19:46:00Z"
     },
     {
       "name": "The Guardian AI",
@@ -100,12 +106,6 @@
       "total": 20,
       "translated": 20,
       "lastDate": "Wed, 01 Apr 2026 15:14:00 +0000"
-    },
-    {
-      "name": "GlobeNewswire",
-      "total": 20,
-      "translated": 3,
-      "lastDate": "2026-04-07T18:30:00Z"
     },
     {
       "name": "The Decoder",
@@ -152,26 +152,26 @@
     {
       "name": "pymnts.com",
       "total": 12,
-      "translated": 2,
+      "translated": 5,
       "lastDate": "2026-04-07T18:33:30Z"
+    },
+    {
+      "name": "Github.com",
+      "total": 12,
+      "translated": 0,
+      "lastDate": "2026-04-07T19:36:54Z"
     },
     {
       "name": "Ibtimes.com.au",
       "total": 10,
-      "translated": 2,
+      "translated": 3,
       "lastDate": "2026-04-07T16:26:33Z"
     },
     {
       "name": "SiliconANGLE News",
       "total": 9,
-      "translated": 0,
+      "translated": 3,
       "lastDate": "2026-04-07T18:40:07Z"
-    },
-    {
-      "name": "Github.com",
-      "total": 9,
-      "translated": 0,
-      "lastDate": "2026-04-07T18:30:13Z"
     },
     {
       "name": "Nature Machine Intelligence",
@@ -206,7 +206,7 @@
     {
       "name": "New York Post",
       "total": 6,
-      "translated": 1,
+      "translated": 2,
       "lastDate": "2026-04-07T17:47:20Z"
     },
     {
@@ -214,6 +214,12 @@
       "total": 6,
       "translated": 0,
       "lastDate": "2026-04-07T19:00:00Z"
+    },
+    {
+      "name": "CNA",
+      "total": 5,
+      "translated": 2,
+      "lastDate": "2026-04-07T19:30:44Z"
     },
     {
       "name": "iTnews",
@@ -228,16 +234,22 @@
       "lastDate": "2026-04-07T18:55:00Z"
     },
     {
+      "name": "Gizmodo.com",
+      "total": 5,
+      "translated": 1,
+      "lastDate": "2026-04-07T19:20:35Z"
+    },
+    {
+      "name": "Fortune",
+      "total": 5,
+      "translated": 1,
+      "lastDate": "2026-04-07T19:33:51Z"
+    },
+    {
       "name": "Crypto Briefing",
       "total": 5,
       "translated": 0,
       "lastDate": "2026-04-07T18:28:50Z"
-    },
-    {
-      "name": "CNA",
-      "total": 4,
-      "translated": 2,
-      "lastDate": "2026-04-07T18:07:00Z"
     },
     {
       "name": "CNBC",
@@ -252,22 +264,16 @@
       "lastDate": "2026-04-06T19:12:06Z"
     },
     {
-      "name": "Gizmodo.com",
-      "total": 4,
-      "translated": 1,
-      "lastDate": "2026-04-07T17:55:01Z"
-    },
-    {
-      "name": "Fortune",
-      "total": 4,
-      "translated": 1,
-      "lastDate": "2026-04-07T18:15:23Z"
-    },
-    {
       "name": "Bleeding Cool News",
       "total": 4,
-      "translated": 1,
+      "translated": 2,
       "lastDate": "2026-04-07T04:26:07Z"
+    },
+    {
+      "name": "Insurance Journal",
+      "total": 4,
+      "translated": 1,
+      "lastDate": "2026-04-07T19:23:09Z"
     },
     {
       "name": "CNET",
@@ -294,6 +300,12 @@
       "lastDate": "2026-04-07T18:00:00Z"
     },
     {
+      "name": "Decrypt",
+      "total": 3,
+      "translated": 1,
+      "lastDate": "2026-04-07T19:27:27Z"
+    },
+    {
       "name": "Daily Signal",
       "total": 3,
       "translated": 2,
@@ -302,7 +314,7 @@
     {
       "name": "Niemanlab.org",
       "total": 3,
-      "translated": 1,
+      "translated": 2,
       "lastDate": "2026-04-06T19:23:17Z"
     },
     {
@@ -312,34 +324,46 @@
       "lastDate": "2026-04-07T18:14:22Z"
     },
     {
+      "name": "PBS",
+      "total": 3,
+      "translated": 2,
+      "lastDate": "2026-04-07T19:42:01Z"
+    },
+    {
+      "name": "OCRegister",
+      "total": 3,
+      "translated": 1,
+      "lastDate": "2026-04-07T19:21:14Z"
+    },
+    {
       "name": "BusinessLine",
       "total": 3,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-07T05:09:34Z"
     },
     {
       "name": "CoinDesk",
       "total": 3,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-07T17:13:36Z"
     },
     {
       "name": "Yahoo Entertainment",
       "total": 3,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-07T17:13:40Z"
-    },
-    {
-      "name": "Insurance Journal",
-      "total": 3,
-      "translated": 0,
-      "lastDate": "2026-04-07T16:26:28Z"
     },
     {
       "name": "Theregister.com",
       "total": 3,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-07T17:59:11Z"
+    },
+    {
+      "name": "Observer",
+      "total": 3,
+      "translated": 0,
+      "lastDate": "2026-04-07T19:18:34Z"
     },
     {
       "name": "Business Insider",
@@ -348,16 +372,16 @@
       "lastDate": "2026-04-06T18:48:08Z"
     },
     {
+      "name": "The Irish Times",
+      "total": 3,
+      "translated": 0,
+      "lastDate": "2026-04-07T19:19:56Z"
+    },
+    {
       "name": "Pew Research Center",
       "total": 3,
       "translated": 0,
       "lastDate": "2026-04-07T15:55:36Z"
-    },
-    {
-      "name": "Decrypt",
-      "total": 2,
-      "translated": 1,
-      "lastDate": "2026-04-07T18:11:18Z"
     },
     {
       "name": "Cointelegraph",
@@ -378,22 +402,10 @@
       "lastDate": "2026-04-07T18:49:00Z"
     },
     {
-      "name": "PBS",
-      "total": 2,
-      "translated": 1,
-      "lastDate": "2026-04-06T17:48:22Z"
-    },
-    {
       "name": "The Daily Caller",
       "total": 2,
-      "translated": 1,
+      "translated": 2,
       "lastDate": "2026-04-06T17:36:51Z"
-    },
-    {
-      "name": "OCRegister",
-      "total": 2,
-      "translated": 1,
-      "lastDate": "2026-04-07T17:55:32Z"
     },
     {
       "name": "Gossiplankanews.com",
@@ -422,20 +434,14 @@
     {
       "name": "Associated Press",
       "total": 2,
-      "translated": 0,
+      "translated": 2,
       "lastDate": "2026-04-06T16:37:33Z"
     },
     {
       "name": "Blogger.com",
       "total": 2,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-07T15:57:00Z"
-    },
-    {
-      "name": "Observer",
-      "total": 2,
-      "translated": 0,
-      "lastDate": "2026-04-07T17:15:39Z"
     },
     {
       "name": "Independent.ie",
@@ -454,12 +460,6 @@
       "total": 2,
       "translated": 0,
       "lastDate": "2026-04-07T18:23:26Z"
-    },
-    {
-      "name": "The Irish Times",
-      "total": 2,
-      "translated": 0,
-      "lastDate": "2026-04-07T18:07:30Z"
     },
     {
       "name": "Motley Fool Australia",
@@ -508,6 +508,12 @@
       "total": 2,
       "translated": 0,
       "lastDate": "2026-04-07T18:18:41Z"
+    },
+    {
+      "name": "Al Jazeera English",
+      "total": 2,
+      "translated": 0,
+      "lastDate": "2026-04-07T19:30:00Z"
     },
     {
       "name": "Cshlp.org",
@@ -572,73 +578,73 @@
     {
       "name": "CBS News",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-06T16:05:25Z"
     },
     {
       "name": "Legalinsurrection.com",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-06T16:00:02Z"
     },
     {
       "name": "Popular Science",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-06T15:45:00Z"
     },
     {
       "name": "Boston Herald",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-06T15:40:38Z"
     },
     {
       "name": "Abcnews.com",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-06T15:19:49Z"
     },
     {
       "name": "Elearningindustry.com",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-06T15:00:33Z"
     },
     {
       "name": "The Punch",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-06T14:52:46Z"
     },
     {
       "name": "Poynter",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-06T14:49:39Z"
     },
     {
       "name": "Protothema.gr",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-06T14:44:28Z"
     },
     {
       "name": "Skift",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-06T14:39:00Z"
     },
     {
       "name": "Salon",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-06T14:30:24Z"
     },
     {
       "name": "seattlepi.com",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-06T14:10:41Z"
     },
     {
@@ -1014,12 +1020,6 @@
       "lastDate": "2026-04-07T17:18:33Z"
     },
     {
-      "name": "Al Jazeera English",
-      "total": 1,
-      "translated": 0,
-      "lastDate": "2026-04-07T17:03:21Z"
-    },
-    {
       "name": "Stanford.edu",
       "total": 1,
       "translated": 0,
@@ -1210,7 +1210,55 @@
       "total": 1,
       "translated": 0,
       "lastDate": "2026-04-07T16:39:55Z"
+    },
+    {
+      "name": "Politicalwire.com",
+      "total": 1,
+      "translated": 0,
+      "lastDate": "2026-04-07T19:42:10Z"
+    },
+    {
+      "name": "PRNewswire",
+      "total": 1,
+      "translated": 0,
+      "lastDate": "2026-04-07T19:16:58Z"
+    },
+    {
+      "name": "BGR",
+      "total": 1,
+      "translated": 0,
+      "lastDate": "2026-04-07T19:47:00Z"
+    },
+    {
+      "name": "MacStories",
+      "total": 1,
+      "translated": 0,
+      "lastDate": "2026-04-07T19:40:45Z"
+    },
+    {
+      "name": "ARTnews",
+      "total": 1,
+      "translated": 0,
+      "lastDate": "2026-04-07T19:25:53Z"
+    },
+    {
+      "name": "Vanity Fair",
+      "total": 1,
+      "translated": 0,
+      "lastDate": "2026-04-07T19:25:19Z"
+    },
+    {
+      "name": "The Daily Hodl",
+      "total": 1,
+      "translated": 0,
+      "lastDate": "2026-04-07T19:20:17Z"
+    },
+    {
+      "name": "Visualstudio.com",
+      "total": 1,
+      "translated": 0,
+      "lastDate": "2026-04-07T19:17:22Z"
     }
   ],
-  "generatedAt": "2026-04-08T19:50:55.051Z"
+  "generatedAt": "2026-04-08T20:01:15.604Z"
 }
