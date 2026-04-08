@@ -1296,7 +1296,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 54,
-    "t": "Russia trials Kurier robot with autonomous 82mm mortar fire and five-second loading\n\nRussia has debuted a sophisticated new ground robotic system capable of conducting high-intensity mortar strikes...",
+    "t": "רוסיה בוחנת רובוט קוריאר שיכול לירות מרגמות 82 מ\"מ באופן אוטונומי עם טעינה בחמש שניות\n\nרוסיה חשפה מערכת רובוטית קרקעית חדשה ומתקדמת שמסוגלת לבצע תקיפות מרגמות בעוצמה גבוהה - הקוריאר יכול לטעון ולירות כל חמש שניות ללא התערבות אנושית. זה עוד צעד בדרך של צבאות עילם השתמוש בטכנולוגיות אוטונומיות בשדה הקרב.",
     "d": "Tue, 07 Apr 2026 18:52:20 +0000",
     "v": 0,
     "l": [
@@ -1311,8 +1311,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
@@ -12824,7 +12823,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 522,
-    "t": "Knowledge and wisdom\n\nThe rise of artificial intelligence suggests we may relinquish our roles as knowledge bearers. Nevertheless, real wisdom is forged through our lived experiences and personal insights, which cannot be replicated or replaced. This inner truth blooms within us, …",
+    "t": "ידע וחוכמה\n\nבעידן ה-AI החדש, אולי אנחנו הולכים להעביר לרובוטים את תפקידנו כשומרי הידע - אבל חכם בר, זה משהו שונה לגמרי. החוכמה האמיתית היא לא משהו שאפשר להדריך למכונה, היא בנויה מהחוויות החיים האמיתיות שלנו והתובנות האישיות שחוו עלינו. זה האמת הפנימית שגדלה בכל אחד מאיתנו, וכאן בדיוק נבחין בין מה שמחשב יכול לעשות לבין מה שמעצם האדם יכול להביע.",
     "d": "2026-04-06T19:05:53Z",
     "v": 0,
     "l": [
@@ -12847,7 +12846,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 523,
-    "t": "OpenAI Calls for Global Shift in Taxation, Labor Policy as AI Takes Over\n\nA new OpenAI blueprint urges economic changes for the AI era as reporting raises questions about Altman’s motivations.",
+    "t": "OpenAI קוראת לשינוי גלובלי במערכות מיסוי ומדיניות עבודה עם התפשטות ה-AI\n\nOpenAI פרסמה תוכנית חדשה שדורשת שינויים כלכליים שלמים בעידן ה-AI, אבל יש שאלות רציניות על המניעים של סם אלטמן מאחורי הצעות אלו. התוכנית משמעותית - היא לא פחות מקריאה להחלפה של כל מערכות המיסוי והעבודה כדי להתמודד עם הפרעות שה-AI עומדת לגרום. הכל נשמע חכם בנייר, אבל כמה מאמינים שזה חלק מאסטרטגיה ציבורית יותר גדולה של OpenAI?",
     "d": "2026-04-06T19:01:49Z",
     "v": 0,
     "l": [
@@ -12865,17 +12864,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/openai-sam-altman-decrypt-style-gID_7.png",
     "source": "Decrypt"
   },
   {
     "id": 524,
-    "t": "Officials slam hospital food as health experts demand menu overhaul: 'Farm to gurney'\n\nSecretary Kennedy pushes to expand Dietary Guidelines into hospitals as CMS memo targets ultraprocessed foods and sugary beverages in patient meals.",
+    "t": "גורמים רשמיים תוקפים את אוכל בבתי החולים: 'מהחקלה ישר למיטה'\n\nמזכיר הבריאות קנדי דוחף להרחבת הנחיות תזונה בבתי חולים, וסוכנות הביטוח הממשלתית שמה במטבח מטרה ברורה - להוציא מהמסדר מזונות מעובדים וישקי סוכר מתפריטי החולים. זה לא רק שחזור מטבח - זה מהפכה בדיוק בשלב שבו הם הכי צריכים את זה.",
     "d": "2026-04-06T19:00:14Z",
     "v": 0,
     "l": [
@@ -12898,7 +12895,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 525,
-    "t": "Taxpayer-Funded Dog Research Faces New Scrutiny With Push to Cut NIH Funding\n\nTwo advocacy groups are calling for the cancellation of taxpayer-funded medical research on dogs at a Michigan lab, claiming that the “experiments” have resulted in... Read More\nThe post Taxpayer-Funded Dog Research Faces New Scrutiny With Push to Cut NIH Fun…",
+    "t": "מחקר על כלבים שממומן ממס הכנסה במוקד ביקורת - קריאות לחתוך ממשך NIH\n\nארגוני זכויות לתמונים אמריקאיים מתקפים כעת מחקרים רפואיים שממומנים על ידי כספי משלמי המסים בלבורטוריה במישיגן, וטוענים שהניסויים על כלבים לא הצליחו ולא הוצדקו. הלחץ גדל לביטול המימון הפדרלי למחקרים אלה דרך ה-NIH (המכון הלאומי לבריאות בארה\"ב), במסגרת ויכוח רחב יותר על אתיקת מחקר בעלי חיים.",
     "d": "2026-04-06T19:00:00Z",
     "v": 0,
     "l": [
@@ -12913,8 +12910,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.dailysignal.com/wp-content/uploads/2026/04/NIH-scaled.jpg",
@@ -13095,7 +13091,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 533,
-    "t": "AI \"Hallucinated Cases\" Lead to $47K Sanctions\n\nA short excerpt from the long opinion in Judge Anna Manasco (N.D. Ala.) in last week's Rivera v. Triad Properties…\nThe post AI \"Hallucinated Cases\" Lead to $47K Sanctions appeared first on Reason.com.",
+    "t": "AI \"הזיה\" מקרים משפטיים וגרמה לקנסות של 47,000 דולר\n\nעוד פרק מעליון של השופטת אנה מנסקו בתיק Rivera v. Triad Properties שעלה לחדשות השבוע - הפעם עם קנס של 47 אלף דולר על עורכי דין שהשתמשו ב-AI שיצר מקרים משפטיים שלם מציצו לא קיימים. זה כבר לא הפעם הראשונה שמשרדי עורכים דין נתקלים בבעיות כאלה עם כלי AI שהם לא הבינו מספיק - והתוצאה היא כסף שנלך לצמיתות. מה שמתחיל להיות ברור: אתה לא יכול פשוט להעביר ל-ChatGPT את העבודה המשפטית שלך והתקווה שהוא יבדוק את זה בעצמו.\n\nמקור: Reason",
     "d": "2026-04-06T18:53:36Z",
     "v": 0,
     "l": [
@@ -13108,9 +13104,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2021/11/reason-logo-featured-placeholder.jpg.webp",
@@ -13194,7 +13193,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 537,
-    "t": "Upstart Wall Street research firm says it sent an analyst to Strait of Hormuz. Here’s what they learned\n\nCitrini Research said it dispatched an analyst to Oman's Musandam Peninsula, where he traveled by boat to observe shipping activity firsthand.",
+    "t": "חברת מחקר וול סטריט צעירה שלחה אנליסט לתעלת הורמוז - והנה מה שהם גילו\n\nCitrini Research, סטארטאפ מחקר שנוקט בגישה ממש פיזית לעבודה, שלחה את אנליסטיה לחצי האי מוסנדם של עומאן כדי שיתבחן את פעילות הספנות בים בעצמו. במקום להסתמך על מידע משניתי או סטטיסטיקה יבשה, הם בחרו להוציא את הצוות לשטח - ספינה, סלולר ותצפיות ישירות על הים המלא בנתניות חשמליות.",
     "d": "2026-04-06T18:48:49Z",
     "v": 0,
     "l": [
@@ -13217,7 +13216,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 538,
-    "t": "JPMorgan's Jamie Dimon sees ‘new competitors’ from blockchain, stablecoins\n\nThe CEO's annual shareholder letter warned that new tech is reshaping finance, with tokenization and blockchain competitors gaining as the bank scales its own network.",
+    "t": "ג'יימי דיימון מ-JPMorgan מזהיר: בלוקצ'יין וסטייבלקוינס הם התחרותים החדשים\n\nבנו הן של JPMorgan תוקף בעל הבנק האמריקאי הגדול בעולם בעצנה השנתית שלו שחוקרים בלוקצ'יין וטוקניזציה משנים את הנוף הפיננסי, וגם JPMorgan עצמה בונה את הרשת שלה כדי להישאר רלוונטית. דיימון הודה שהתחרות החדשה לא משום לצחוק עליה - היא אמיתית וגדלה.",
     "d": "2026-04-06T18:48:29Z",
     "v": 0,
     "l": [
@@ -13232,8 +13231,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d63b1-aa23-7164-8000-e4c29bd98562.jpg",
@@ -13264,7 +13262,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 540,
-    "t": "The AP is offering buyouts in a pivot away from newspapers\n\nFor 180 years, ever since it was founded by five New York newspapers in 1846 to help share the costs of reporting on the Mexican-American war, newspapers have been a part of the Associated Press’ business. Today, it announced that’s changing, and has offered …",
+    "t": "AP מציעה פיצויי עזיבה בסיבוב תפנית משנות העיתונות\n\n180 שנה אחרי שהאsoociated Press נוסדה על ידי עיתונים ניו יורקיים כדי לחלוק עלויות כיסוי חדשות, הגוף המגיב עכשיו בטוב לבו לעולם שהתחנה - וזה נראה כמו המהלך הגדול של הפיתול. האפי מציעה לעובדים מעניינים פיצויים כדי לעזוב, בעוד שהוא עובר לתקן דיגיטלי חדש כולל בעיסוק ב-AI וטק שלתוכו זרםמ הפרסום הראשוני.",
     "d": "2026-04-06T18:47:15Z",
     "v": 0,
     "l": [
@@ -13281,13 +13279,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://www.niemanlab.org/wordpress/wp-content/themes/Labby/resources/twitter-logo-for-nieman-lab.jpg",
     "source": "Niemanlab.org"
   },
   {
     "id": 541,
-    "t": "Australia plays hardball on social media ban\n\nUnder a global spotlight.",
+    "t": "אוסטרליה משחקת קשה בעניין איסור רשתות חברתיות\n\nאוסטרליה לוקחת עמדה קשוחה בשאלת איסור גישה לרשתות חברתיות, והעולם כולו צופה בצעדים שלה. המדינה מדגימה שהיא לא מוכנה להתפשר בנושא הגנת קטינים ברשתות, גם אם זה אומר להתעמת עם ענקי ה-tech הגדולים. המהלך הזה יכול להשפיע על מדיניות דומות בעולם כולו.\nמקור: iTnews",
     "d": "2026-04-06T18:45:00Z",
     "v": 0,
     "l": [
@@ -13302,8 +13300,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://i.nextmedia.com.au/News/2026-03-30T230306Z_1_LYNXMPEM2T1BW_RTROPTP_3_AUSTRALIA-SOCIALMEDIA.JPG",
@@ -13311,7 +13308,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 542,
-    "t": "Australia plays hardball on social media ban\n\nUnder a global spotlight.",
+    "t": "אוסטרליה מחמירה בנושא איסור רשתות חברתיות\n\nאוסטרליה מגיזה את הקו כשמדובר בחוקי רשתות חברתיות, והעולם כולו מעקב בעיניים פקוחות. ההתנהגות הקשחה של המדינה בנושא יכולה לשמש דוגמה למדינות אחרות שחושבות איך לרגן את המונופול של ענקיות הטכנולוגיה. זהו סיפור על כוח ממשלתי מול כוח תאגידי בעידן הדיגיטל.",
     "d": "2026-04-06T18:45:00Z",
     "v": 0,
     "l": [
@@ -13326,8 +13323,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://i.nextmedia.com.au/News/2026-03-30T230306Z_1_LYNXMPEM2T1BW_RTROPTP_3_AUSTRALIA-SOCIALMEDIA.JPG",
@@ -13335,7 +13331,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 543,
-    "t": "Australia plays hardball on social media ban\n\nUnder a global spotlight.",
+    "t": "אוסטרליה מחזיקה קו קשיח בנוגע להחרם על רשתות חברתיות\n\nאוסטרליה עומדת במקום שלה בתוך מחזה בינלאומי גדול סביב החלטתה להרחיק מעיניים את צעירים מרשתות הפייק. הממשלה האוסטרלית מוכנה להיכנס בקרב ישיר עם ענקיות הטק בשביל להגן על הנוער - ולא משנה כמה תהומות צד אחר של העולם יצפו בהם. זה בדיוק הסוג של מהלך שיכול להשפיע גם על מדיניות בעולם, כולל כאן אצלנו.",
     "d": "2026-04-06T18:45:00Z",
     "v": 0,
     "l": [
@@ -13350,8 +13346,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://i.nextmedia.com.au/News/2026-03-30T230306Z_1_LYNXMPEM2T1BW_RTROPTP_3_AUSTRALIA-SOCIALMEDIA.JPG",
@@ -13359,7 +13354,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 544,
-    "t": "Australia plays hardball on social media ban\n\nUnder a global spotlight.",
+    "t": "אוסטרליה משחקת קשה בנושא הצעת החוק נגד רשתות חברתיות\n\nאוסטרליה מעלה את הכמיניות בקטע של רשתות חברתיות ובעצם כל העולם צופה כרגע למה היא עומדת לעשות. זה לא עוד סתם דיון בישיבות ממשלתיות - הטעימו לנו כבר את הטעם של חוק שיכול לשנות את כללי המשחק עבור פלטפורמות ותוקי הלבלוב שלנו.",
     "d": "2026-04-06T18:45:00Z",
     "v": 0,
     "l": [
@@ -13374,8 +13369,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://i.nextmedia.com.au/News/2026-03-30T230306Z_1_LYNXMPEM2T1BW_RTROPTP_3_AUSTRALIA-SOCIALMEDIA.JPG",
@@ -13411,7 +13405,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 546,
-    "t": "A world without work. How do we survive the AI revolution?\n\nThe wave of change from artificial intelligence rolling across the corporate landscape is going largely unnoticed as attention understandably shifts to an escalating war.",
+    "t": "עולם ללא עבודה. איך אנחנו משתרדים בעידן ה-AI?\n\nבזמן שכל העולם מסוגד לחדשות המלחמה, פיצוץ של שינויים בעקבות בינה מלאכותית בא וצובר כוח בעולם התעשייה - וברוב המקרים איש לא שם לב. השאלה הגדולה: איך אנחנו בחברות ובשוק העבודה מסתגלים לזה?",
     "d": "2026-04-06T18:39:12Z",
     "v": 0,
     "l": [
@@ -13507,7 +13501,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 550,
-    "t": "OpenAI advocates electric grid, safety net spending for new AI era\n\nOpenAI has released a set of policy recommendations meant to help navigate an era of AI-fuelled upheaval, including social programs. Read on",
+    "t": "OpenAI קוראת להשקעה בתשתיות חשמל וברשת ביטחון חברתית לעידן ה-AI החדש\n\nOpenAI פרסמה סט של המלצות מדיניתיות שנועדו לעזור לנווט בתקופה של שינויים דרמטיים המונעים ע\"י AI, כולל תוכניות סוציאליות לעובדים ופחות מעוטי מזל. בעצם, החברה אומרת שצריך לא רק GPU חדשים אלא גם רשת ביטחון כלכלית חזקה כדי שהאנושות לא תישאר מאחור בזמן שה-AI משנה הכל.",
     "d": "2026-04-06T18:33:45Z",
     "v": 0,
     "l": [
@@ -13521,12 +13515,13 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI"
+      "OpenAI",
+      "Nvidia"
     ],
     "tags": [
       "news",
       "model",
-      "regulation"
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/04/0407-mg-openai.jpg",
@@ -13682,7 +13677,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 557,
-    "t": "Could NZ’s next Christchurch Call be a push for fairer, safer AI?\n\nKiwis are using artificial intelligence in growing numbers, but trust is low. Could the push toward safer, more responsible AI offer NZ an economic opportunity?",
+    "t": "האם הקול הבא של ניו זילנד יהיה דחיפה ל-AI הוגן ובטוח יותר?\n\nבניו זילנד משתמשים ב-AI בקצב הולך וגדל, אבל רמת האמון בטכנולוגיה די נמוכה. השאלה היא האם התנועה לעבר AI אחראי ובטוח יותר יכולה להוות הזדמנות כלכלית חדשה לניוזילנדים? מקור: The Conversation Africa",
     "d": "2026-04-06T18:20:22Z",
     "v": 0,
     "l": [
@@ -13705,7 +13700,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 558,
-    "t": "From Jurassic Park to dreams of AI doom, pop culture shapes science more than we like to admit\n\nWe all know science influences books, movies and TV – but the influence goes both ways.",
+    "t": "מפארק יורה ועד חלומות אסון AI: התרבות הפופולרית משפיעה על המדע יותר מממה שאנחנו מודים\n\nכולנו יודעים שהמדע משפיע על הספרות, הקולנוע והטלוויזיה - אבל למעשה הקשר הוא דו-כיווני וחזק הרבה יותר מחשבנו. מסרטים כמו Jurassic Park ועד חרדות עכשוויות מ-AI, התרבות הפופולרית בעצם מעצבת את כיוון המחקר המדעי והשקעות בטכנולוגיה. זה לא רק שפיקশן עוקב אחרי המדע - הוא גם מנחה אותו.",
     "d": "2026-04-06T18:20:11Z",
     "v": 0,
     "l": [
@@ -13728,7 +13723,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 559,
-    "t": "OpenAI Touts 4-Day Work Week, Wealth Fund to Sell Public on Next-Gen AI\n\nThe document also boldly claims we're already transitioning to AI superintelligence. But the announcement arrives amid allegations that OpenAI CEO Sam Altman is a habitual liar.\nTo win over AI skeptics, OpenAI is pushing some big ideas to ensure the technolog…",
+    "t": "OpenAI מציעה שבוע עבודה של 4 ימים וקרן עושר כדי לשכנע את הציבור בעתיד ה-AI\n\nOpenAI משיקה קמפיין PR גדול כדי לשכנע ספקנים שה-AI הוא דבר טוב, כולל הצעות של שבוע עבודה קצור וקרן שיתוף העושר מ-super intelligence שיבוא. הדבר מגיע בזמן שיש טענות שסם אלטמן, מנכ\"ל OpenAI, לא תמיד אומר את האמת, אבל החברה עדיין מנסה למכור לנו על הטכנולוגיה שהיא מפתחת.",
     "d": "2026-04-06T18:19:24Z",
     "v": 0,
     "l": [
@@ -13754,7 +13749,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 560,
-    "t": "OpenAI Touts 4-Day Work Week, Wealth Fund to Sell Public on Next-Gen AI\n\nThe document also boldly claims we're already transitioning to AI superintelligence. But the announcement arrives amid allegations that OpenAI CEO Sam Altman is a habitual liar.\nTo win over AI skeptics, OpenAI is pushing some big ideas to ensure the technolog…",
+    "t": "OpenAI מציעה שבוע עבודה בן 4 ימים וקרן עושר כדי למכור לציבור AI מהדור הבא\n\nOpenAI משיקה כמה הצעות חזקות כדי לשכנע את הספקנים ב-AI, כולל שבוע עבודה מקוצר וקרן עושר חדשה - והם אפילו טוענים שכבר בעצם בתוך מעבר ל-AI superintelligence. התיזמון הוא מעניין במיוחד בהתחשב בטענות שמנכ\"ל OpenAI סם אלטמן הוא שקרן כרוני, אבל נראה שהחברה לא מפחדת להשקיע בסיפור גדול כדי לקבל הסכמה ציבורית למהלכים שלהם.",
     "d": "2026-04-06T18:19:24Z",
     "v": 0,
     "l": [
@@ -13928,7 +13923,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 567,
-    "t": "Secret Service is embedding AI experts across the agency\n\n“I think having this internal team will really help us transform our [AI] adoption across the organization,” Secret Service CIO and CAIO Chris Kraft said about the push to bring fresh tech talent into the agency.",
+    "t": "השירות החשאי משדרג: הטמעת מומחי AI בכל הארגון\n\nהשירות החשאי האמריקני מביא פנימה צוות מומחים בתחום ה-AI כדי להאיץ את אימוץ הטכנולוגיה בכל הסוכנות. CIO השירות, כריס קראפט, סיפר שהקמת הצוות הפנימי הזה תעזור להם להפוך את דרכם בעבודה עם AI, וזה סימן נוסף לכך שגם סוכנויות ממשלתיות בחזית הטכנולוגיה מבינות שהן צריכות להיות בקדמת הקורה של מהפכת ה-AI. Nextgov",
     "d": "2026-04-06T18:09:00Z",
     "v": 0,
     "l": [
@@ -13951,7 +13946,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 568,
-    "t": "Rosie O’Donnell Gushes About Meeting Newborn Grandson Anthony: ‘Best Day’\n\nRosie O’Donnell shared a sweet moment with her newest grandson. Rosie, 64, took to Instagram on Sunday, April 5, to post a photo of herself meeting her newborn grandson, Anthony Joel, whom her son Blake shares with wife Teresa. In the pic, Rosie cradled Antho…",
+    "t": "רוזי אודונל התרגשה מלקראת את הנכד החדש שלה אנתוני: 'היום הטוב ביותר'\n\nרוזי אודונל, בת 64, שיתפה רגע מתוק עם הנכד החדש שלה אנתוני ג'ואל בפוסט באינסטגרם. בתמונה רוזי חובקת את התינוק החדש של בנה בליק ואשתו תרזה, והיא ברורה שזה היה הרגע המיוחד ביותר שלה. הסלבריטי שתפה את הרגע המשפחתי המרגש עם כל העוקבים שלה ברשת.",
     "d": "2026-04-06T18:06:46Z",
     "v": 0,
     "l": [
@@ -14027,7 +14022,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 571,
-    "t": "Indoor Furniture Deals at Target: Up to 87% off\n\nTarget's Furniture Deals take up to about 87% off items across living room, bedroom, office, patio, and storage categories. The sale includes sofas, bed frames, desks, dining sets, and cabinets with a mix of clearance and sale pricing.. We've pictured the Cos…",
+    "t": "הנחות ענקיות על רהיטים לבית בTarget: עד 87% הנחה\n\nTarget משתגע עם מבצע רהיטים שכולל הנחות של עד 87% על כל קטגוריות הבית - מסלונים וערכות שינה ועד למשרדים וארונות אחסון. זה ממש הזמן להחליף את הרהיטים הישנים אם חשבתם על זה בשנה האחרונה, כי המחירים עכשיו באמת משוגעים. דיל שווה הערה אם אתם בשוק לעדכון הביתה!",
     "d": "2026-04-06T18:05:30Z",
     "v": 0,
     "l": [
@@ -14125,7 +14120,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 575,
-    "t": "I tested Gemini on Android Auto and now I can't stop talking to it: 5 tasks it nails\n\nI didn't see much benefit for Google's AI - until now. Here are my favorite ways to use the new Gemini integration in my car.",
+    "t": "בדקתי את Gemini ב-Android Auto והתחלתי לדבר איתו ללא הפסק: 5 משימות שהוא מנפץ בהן\n\nלא ראיתי הרבה תועלת ב-AI של גוגל עד שהשתמשתי בו בנסיעה - וזה שינה הכל. Gemini ב-Android Auto הוא בדיוק מה שחסר לנו בדרך, ומצאתי 5 דברים שהוא עושה כמו מפתח שלא היינו מדמיינים.",
     "d": "2026-04-06T17:55:44Z",
     "v": 0,
     "l": [
@@ -14204,7 +14199,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 578,
-    "t": "OpenAI Urges New Economic Rules for the AI Era\n\nAs artificial intelligence (AI) advances toward superintelligence, there will be a need for an industrial policy to manage the challenges it will pose, OpenAI said in a report issued Monday (April 6). The report, “Industrial Policy for the Intelligence Age: I…",
+    "t": "OpenAI קוראת לכללים כלכליים חדשים לעידן ה-AI\n\nOpenAI הוציאה דו\"ח שטוען שכשה-AI מתקדמת לכיוון superintelligence, יהיה צורך במדיניות תעשייתית חדשה כדי להתמודד עם האתגרים הענקיים שיצאו מהתפתחות הזו. בקיצור, החברה אומרת שאנחנו צריכים כללי משחק כלכליים לחלוטין חדשים, כי ה-AI היא לא עוד צעצוע של טכנולוגים אלא כלי שישנה תחרויות וגם כלכלה.",
     "d": "2026-04-06T17:51:57Z",
     "v": 0,
     "l": [
@@ -14222,10 +14217,9 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation"
+      "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://www.pymnts.com/wp-content/uploads/2025/05/OpenAI.jpg",
     "source": "pymnts.com"
   },
@@ -14259,7 +14253,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 580,
-    "t": "Building Intelligent Search with Amazon Bedrock and Amazon OpenSearch for hybrid RAG solutions\n\nAgentic generative AI assistants represent a significant advancement in artificial intelligence, featuring dynamic systems powered by large language models (LLMs) that engage in open-ended dialogue and tackle complex tasks. Unlike basic chatbots, these implem…",
+    "t": "בניית חיפוש חכם עם Amazon Bedrock ו-Amazon OpenSearch לפתרונות RAG היברידיים\n\nאמזון מציגה איך לבנות עוזרים AI אגנטיים שפועלים עם LLM חזקים ויכולים להתמודד עם משימות מורכבות, בחיבור בין Bedrock ל-OpenSearch. לא מדובר פה בצ'אטבוט רגיל, אלא בסיסטם דינמי שמדבר בשיחה פתוחה ולא סתם עונה על שאלות בסיסיות. הטכנולוגיה הזו יכולה לשנות לחלוטין איך אנחנו משתמשים בAI בעולם השירותים והחיפוש.",
     "d": "2026-04-06T17:49:32Z",
     "v": 0,
     "l": [
@@ -14277,8 +14271,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "product",
-      "agents"
+      "product"
     ],
     "imp": "low",
     "thumb": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/06/ml-18738-1120x630.png",
@@ -14286,7 +14279,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 581,
-    "t": "WellSpan Health announces President & CEO Roxanna Gapstur’s planned retirement\n\nYork, Pa., April 06, 2026 (GLOBE NEWSWIRE) -- The WellSpan Health Board of Directors today announced that Roxanna Gapstur, Ph.D., R.N., president and chief executive officer, has shared her plans to retire from the role she has held since Jan. 2019. Gapstur w…",
+    "t": "WellSpan Health הודיעה על פרישת הנשיאה והמנכ\"לית Roxanna Gapstur\n\nרוקסנה גפסטור, שהובילה את WellSpan Health מאז 2019, הודיעה על התכנון לפרוש מתפקידה כנשיאה ומנכ\"לית של הארגון הרפואי הגדול. ההודעה פורסמה על ידי דירקטוריון החברה, שכעת יחפש מנהיגות חדשה לעמוד בראש הארגון בעתיד הקרוב.",
     "d": "2026-04-06T17:49:00Z",
     "v": 0,
     "l": [
@@ -14303,7 +14296,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://ml.globenewswire.com/Resource/Download/ae5024bd-3e61-49b9-91bd-65c3017a9e3c",
     "source": "GlobeNewswire"
   },
@@ -14333,7 +14326,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 583,
-    "t": "Inside San Francisco’s ‘co-founder rooms’: the no-frills crash pads powering the AI gold rush\n\nA new breed of Silicon Valley living arrangement is taking hold in San Francisco -- and it's one that looks more like a stripped-down dorm.",
+    "t": "בתוך ה-'חדרי הקו-מייסדים' בסן פרנסיסקו: מקומות השינה העלובים שמנעים את הזהב של AI\n\nבסן פרנסיסקו צצה סוג חדש של ביוב עבור סטארטאפיסטים - חדרי שינה זולים וחסרי תענוגות שנראים כמו חדרי כללייה, בשביל שעלויות הדיור לא יבלעו את תקציב ה-R&D. הסטודנטים של עידן ה-AI מוכנים לשכוח מעצים וקומות תחתיות בעד מקום לתורמים, אם זה אומר שאפשר להשקיע יותר בלומינה שלהם. זה כמו שהסטארטאפים הבינו שתחת הקו של סן פרנסיסקו - אם כבר נמצאים כאן, בואו לא נתחיל עם רהיטים.\n\nמקור: New York Post",
     "d": "2026-04-06T17:48:43Z",
     "v": 0,
     "l": [
@@ -14356,7 +14349,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 584,
-    "t": "Utility board elections face surge of attention as electricity rates rise\n\nSkyrocketing power demand from massive data centers and rising household electric bills are injecting a wave of attention into who is getting elected to watch over electric utilities.",
+    "t": "בחירות לוועדות השירותים זוכות לתשומת לב גדולה כשחשמל מתייקר\n\nהביקוש המטורף לחשמל מ-data centers ענקיים וחשבונות החשמל המתפוצצים בבתים הציבו את הבחירות למנהלות חברות החשמל בחזית האגנדה הציבורית. פתאום כולם משימים לב למי בדיוק אנחנו בוחרים לשמור על השירותים החיוניים האלה, כי ההשלכות הולכות וגדלות.",
     "d": "2026-04-06T17:48:22Z",
     "v": 0,
     "l": [
@@ -14557,7 +14550,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 592,
-    "t": "Xiao-I Corp Stock Explodes 157% as China Court Victory Over Apple Patent Bolsters AI Patent Portfolio\n\nShares of Xiao-I Corp (NASDAQ: AIXI) skyrocketed more than 156% Monday, surging to around $0.34 in afternoon trading as retail investors piled into the micro-cap artificial intelligence company following a major legal victory in its long-running patent disput…",
+    "t": "מניית Xiao-I זינקה ב-157% לאחר ניצחון משפטי על אפל בסכסוך פטנטים AI\n\nהמניה של חברת הAI הקטנה Xiao-I Corp התפוצצה ביום שני בעלייה של למעלה מ-156%, כשהשקעים קטנים זינקו להכנסת כסף לאחר ניצחון משפטי ענק בסכסוך פטנטים עם אפל שנמשך שנים. הניצחון בבית המשפט הסיני חיזק משמעותית את תיק הפטנטים של ה-AI שלהם ופתח דלתות למשא ומתן עם ענקיות הטק.",
     "d": "2026-04-06T17:41:35Z",
     "v": 0,
     "l": [
@@ -14570,12 +14563,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Apple"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://d.ibtimes.com.au/en/full/1893394/xiao-i-corp.jpg",
@@ -14661,7 +14651,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 596,
-    "t": "Big Tech Knows New AI Models Ripe For Cyberattacks — But Plans To Release Them Anyway\n\nAI and government officials told Jim VandeHei that tech companies are slated to deploy models that are highly effective at hacking complex systems at scale.",
+    "t": "ענקי הטכנולוגיה יודעים שמודלי AI החדשים פגיעים להתקפות סייבר - אבל עדיין מתכננים להשיק אותם\n\nפקידים בתעשיית ה-AI וממשלה חשפו לכתב ג'ים ווונדהיי שחברות טק עומדות לשחרר מודלים שיכולים להיות משפחות בפריצות מערכות מורכבות בקנה מידה ענק. זה קרא את השאלה הקשה: אם כולם יודעים על הסיכון, למה בכל זאת משחררים את זה?",
     "d": "2026-04-06T17:36:51Z",
     "v": 0,
     "l": [
@@ -14676,8 +14666,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/04/GettyImages-2261854815-scaled-e1775491034408.jpg",
@@ -14712,7 +14701,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 598,
-    "t": "✅ Napoli v Milan official: calls on Anguissa, Giovane, Leao, Fullkrug\n\nAt the Diego Armando Maradona Stadium, one of the most important matches of the season takes center stage: Napoli vs Milan, a decisive clash for second place and for keeping pace with Inter.The two te...",
+    "t": "✅ נפולי מול מילאן רשמי: קריאות ל-Anguissa, Giovane, Leao, Fullkrug\n\nבמגרש דייגו ארמנדו מרדונה מתחרים שתיים מהקבוצות החזקות בסדרה א' בקרב קריטי על המקום השני ומשמור על קצב עם אינטר. שתי הקבוצות מגיעות למשחק עם השחקנים המרכזיים שלהן, ויש כאן את כל הרכיבים לזירה חריפה ומרתקת שתשנה הרבה דברים בהמשך העונה.",
     "d": "2026-04-06T17:36:00Z",
     "v": 0,
     "l": [
@@ -14735,7 +14724,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 599,
-    "t": "Check Your Medicine Cabinet for These Eye Drop Bottles After Millions Recalled\n\nThe eye drops are sold at Rite-Aid, Walgreens, CVS, and more.",
+    "t": "בדקו את ארון התרופות שלכם: מיליונים של בקבוקי טיפות עיניים הוחזרו\n\nאם קניתם טיפות עיניים ברייט-אייד, וולגרינס או CVS - כדאי לכם לבדוק עכשיו. חברות תרופות הוציאו החזר ענק של מיליוני יחידות בגלל בעיות בטיחות, והבקבוקים האלה יכולים להיות באחד הארונות שלכם.",
     "d": "2026-04-06T17:35:00Z",
     "v": 0,
     "l": [
@@ -14781,7 +14770,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 601,
-    "t": "Corinthians seal Fernando Diniz deal\n\nCorinthians have agreed to appoint Fernando Diniz to replace Dorival Júnior as the club’s head coach.The information was confirmed by ge.The club opted for a change in leadership after the home def...",
+    "t": "קורינתיאנס חתמה עם פרננדו דיניז\n\nקורינתיאנס סיכמה רשמית על מינוי של פרננדו דיניז ככומר הקבוצה החדש, שיחליף את דורווו ג'וניור. המועדון החליטה על שינוי בהנהגה לאחר התחלה קשה בעונה, ודיניז אמור להביא איתו רעיונות טקטיים חדשים לברזילים. זה צעד חיוני בשביל קורינתיאנס שמעניקה לה סיכוי חדש בתחרויות המקומיות.",
     "d": "2026-04-06T17:34:00Z",
     "v": 0,
     "l": [
@@ -14932,7 +14921,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 607,
-    "t": "DIBS AI Unveils Version 9.0 Platform Suite to Streamline Orthodontic Workflows\n\nDIBS AI unveils Version 9.0 Platform Suite to streamline orthodontic workflows and improve efficiency, predictability, and turnaround times....",
+    "t": "DIBS AI משיקה גרסה 9.0 - סוויט פלטפורם חדשה לייעול תהליכי יישור שיניים\n\nDIBS AI באה עם גרסה 9.0 שלה, פלטפורם חדשה שמטרתה להפוך את עולם רפואת השיניים להרבה יותר יעיל וחכם. הטכנולוגיה החדשה מצטיינת בשיפור המהירות, הדיוק והיכולת לחזות תוצאות של טיפולי יישור שיניים, מה שיחסוך זמן יקר למרפאות. בעצם, מדובר בעוד דוגמה מוצלחת איך AI משנה את הרופא בתחומים ספציפיים. מקור: GlobeNewswire",
     "d": "2026-04-06T17:30:00Z",
     "v": 0,
     "l": [
@@ -14955,7 +14944,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 608,
-    "t": "Serie C begins with three away wins\n\nThe opening round of the 2026 Brasileirão Série C, which began on Saturday (4), already suggested that the competition is likely to be very balanced. Of the eight matches played, only one ended with...",
+    "t": "סידרה C מתחילה עם שלוש ניצחונות בחוץ\n\nהסבב הראשון של הברזילאיון סידרה C 2026 שהחל בשבת כבר נתן לנו רמז שהתחרות הזאת תהיה משהו ממש מאוזן - מ-8 משחקים שנשחקו, רק אחד כבר סיים עם... (על מה, על מה?). זה בוודאי נראה כמו עונה שתהיה מלחמה עד הקצה.",
     "d": "2026-04-06T17:26:00Z",
     "v": 0,
     "l": [
@@ -15050,7 +15039,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 612,
-    "t": "FinTechs Race to Build Foundation Models on Proprietary Data\n\nThe companies that process the world’s payments have spent decades building a record of how money moves across merchants, geographies and account types. Every transaction carries a timestamp, a merchant identity, an amount and an account history. Unlike the t…",
+    "t": "חברות FinTech במרוץ לבנות Foundation Models על בסיס נתונים קנייניים\n\nחברות התשלומים הגדולות בעולם יושבות על אוצר של מידע - עשרות שנים של היסטוריית עסקאות שמראה בדיוק איך כסף זז בין סוחרים, מדינות וחשבונות. כל עסקה מסוג ערך, זהות של סוחר, סכום והיסטוריית חשבון - והנתונים האלה הם משהו שלא יש לאף משחק AI כללי. עכשיו כל אחד מהחברות האלה מנסה לתפוס את ההזדמנות ולבנות Foundation Models משלהם שיוכלו לחזות תרחישים פיננסיים בדיוק בלתי מושג.",
     "d": "2026-04-06T17:23:18Z",
     "v": 0,
     "l": [
@@ -15073,7 +15062,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 613,
-    "t": "AI emerges throughout Southern California’s real estate industry\n\nArtificial intelligence has finally landed in the real estate industry to help with handwriting hundreds of prospecting cards to a digital consultant that can narrow down mortgage options.",
+    "t": "AI משנה את עולם הנדלן בדרום קליפורניה\n\nAI סוף סוף הגיע לתעשיית הנדלן והוא לא בא עם ידיים ריקות - מסייע בכתיבת מאות קלפי חיזוי ועד יועצים דיגיטליים שמצמצמים את אפשרויות המשכנתאות. זה נראה כמו משחק חדש לגמרי עבור סוכני הנדלן בדרום קליפורניה שמחפשים דרכים חכמות יותר לעבודה.",
     "d": "2026-04-06T17:22:34Z",
     "v": 0,
     "l": [
@@ -15233,7 +15222,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 619,
-    "t": "Alphabet Stock Rises Modestly as Analysts Affirm GOOG as Long-Term Buy on AI and Cloud Strength\n\nNEW YORK — Alphabet Inc. shares edged higher Monday, with Class C stock (GOOG) trading near $296.60 after gaining $2.14 or 0.73% in afternoon trading, as Wall Street largely reinforced its bullish long-term outlook despite heavy 2026 capital spending plans fo…",
+    "t": "מניית אלפابט עולה בעדינות כשאנליסטים מאשרים את GOOG כבחירה ארוכת טווח בזכות כוחה ב-AI ובענן\n\nמניית אלפابט (GOOG) טיפסה בשיעור עדין של 0.73% יום שני בניו יורק, כשווול סטריט ממשיכה להאמין בעתידה הטוב בטווח הארוך למרות התוכניות ההוצאות ההון הכבדות לשנת 2026. אנליסטים כמו תמיד משכנעים שהעוצמה של אלפابט ב-AI וענני חישוב תמשיך להיות מנוע הגדילה הראשי של החברה בשנים הקרובות.",
     "d": "2026-04-06T17:12:31Z",
     "v": 0,
     "l": [
@@ -15358,7 +15347,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 624,
-    "t": "A shortage of Fresh Milk in the market\n\nDue to the severe risk of price increases and the fear associated with it, one-liter fresh milk packets have almost completely disappeared from many shops in Sri Lanka. Throughout the past weekend and on Monday, these large-sized fresh milk packets were not s…",
+    "t": "המחסור בחלב טרי בשוק\n\nבגלל הפחד מהתייקרויות משמעותיות, חבילות חלב טרי בליטר אחד כמעט נעלמו מהרפים בחנויות רבות בסרי לנקה. לאורך סוף השבוע ותחילת השבוע, החבילות הגדולות של חלב טרי היו כמעט בלתי אפשר למצוא, במצב שגורם לעמק של צרות לצרכנים המקומיים.",
     "d": "2026-04-06T17:05:14Z",
     "v": 0,
     "l": [
@@ -15432,7 +15421,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 627,
-    "t": "REVIEW: Don’t Make the Mistake of Skipping This Disney Springs Stop!!\n\nThis Disney Springs spot often goes unnoticed, but here's why you shouldn't count it out!",
+    "t": "ביקורת: אל תפספסו את התחנה הזו בדיסני ספרינגס!\n\nיש מקום בדיסני ספרינגס שרוב התיירים פשוט עוברים עליו, אבל בטחו לנו - זה בהחלט שווה את הזמן שלכם. אם אתם מתכננים ביקור בפלורידה, המקום הזה צריך להיות על הרדאר שלכם. מקור: disneyfoodblog.com",
     "d": "2026-04-06T17:00:37Z",
     "v": 0,
     "l": [
@@ -15504,7 +15493,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 630,
-    "t": "Anthropic director Chris Liddell’s warning for New Zealand - don’t miss the AI tsunami\n\nOPINION: From the Knowledge Wave to the AI Tsunami.",
+    "t": "אזהרת דירקטור Anthropic כריס לידל לניו זילנד - אל תחמיצו את צונמי ה-AI\n\nכריס לידל מ-Anthropic משדר אזהרה משמעותית לניו זילנד: העולם עומד במפנה משמעותי של AI והמדינה חייבת להכין את עצמה לא להישאר מאחור. זו לא רק עוד טרנד טכנולוגי - זה צונמי שינוי שיפגע בכל תחום כלכלי וחברתי, ומי שלא יתכונן כראוי עלול להיתפס לא מוכן.",
     "d": "2026-04-06T17:00:00Z",
     "v": 0,
     "l": [
@@ -15530,7 +15519,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 631,
-    "t": "Patton Oswalt Sets 11th Comedy Special ‘Tea & Scotch’\n\nEXCLUSIVE: Comedian Patton Oswalt has announced a new special, Tea & Scotch, that’s set to premiere on 800 Pound Gorilla’s YouTube channel at 8:00 p.m. ET on Tuesday, June 9. Presented by Super Nice Guys, the special offers new takes from Oswalt on parenting,…",
+    "t": "פטון אוסוולט מכריז על הספיישל הקומדיה ה-11 שלו 'תה וויסקי'\n\nפטון אוסוולט, הקומיקאי המפורסם, בא עם ספיישל קומדיה חדש בשם 'Tea & Scotch' שיתפרסם ביוטיוב של 800 Pound Gorilla ב-9 ביוני. הספיישל יכיל חומר חדש מצחיק על הורות, חיים משפחתיים ועוד נושאים שהקומיקאי מודע לתופסים את הקהל בימינו.",
     "d": "2026-04-06T17:00:00Z",
     "v": 0,
     "l": [
@@ -15553,7 +15542,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 632,
-    "t": "‘The Framework Is Everything’: Advocacy Blitz Begins to Shape Federal Standard on AI\n\nNow that the White House has passed the baton to Congress to codify a National Framework on Artificial Intelligence, an advocacy blitz is underway to... Read More\nThe post ‘The Framework Is Everything’: Advocacy Blitz Begins to Shape Federal Standard on AI ap…",
+    "t": "'הממסגרת היא הכל': מערכת לובינג מתחילה לעצב את התקן הפדרלי על AI\n\nלאחר שהבית הלבן העביר את הכדור לקונגרס כדי להפוך את המסגרת הלאומית לבינה מלאכותית לחוק רשמי, מתחילה עכשיו מערכת לובינג מציפה של ארגונים שונים שמנסים להשפיע על האופן שבו תיראה התקינה האמריקאית על AI. כל ארגון וקבוצת אינטרסים מאבקת על שתכללו את עמדותיה בחקיקה, וזה עלול לעצב משמעותית איך נשמרות חברות טכנולוגיה בעתיד. יום זה עשוי להיות קריטי כי מי שמצליח להשפיע על המסגרת הזו יקבע את כללי המשחק לכל תעשיית ה-AI בעשור הבא.",
     "d": "2026-04-06T17:00:00Z",
     "v": 0,
     "l": [
@@ -15568,8 +15557,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.dailysignal.com/wp-content/uploads/2026/04/kra.jpg",
@@ -15654,7 +15642,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 636,
-    "t": "Beware the Magical 2-Person, $1 Billion AI-Driven Startup\n\nIn early 2024, OpenAI CEO Sam Altman predicted there would be a “one-person billion dollar company, which would have been unimaginable without AI, but now it will happen.” Several media outlets recently concluded that the prediction came true (albeit with two…",
+    "t": "היזהרו מ'הקסם' של סטארט-אפ בשווי מיליארד דולר עם שניים בלבד\n\nסם אלטמן מ-OpenAI חזה בתחילת 2024 שנוכל לראות חברת ביליון דולר שמופעלת על ידי אדם אחד בלבד - משהו שהיה בלתי אפשרי לפני עידן ה-AI. וכאן זה בעצם קרה, אלא שזה לא אדם אחד אלא שניים (קרוב מספיק?). התופעה הזו מעלימה שאלות חשובות על עתיד התעשייה וההשפעה של טכנולוגיה על שווקים.",
     "d": "2026-04-06T16:52:35Z",
     "v": 0,
     "l": [
@@ -15672,16 +15660,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://go.forrester.com/wp-content/uploads/2026/04/pexels-abigail-firster-2153068296-35404291-scaled.jpg",
     "source": "Forrester.com"
   },
   {
     "id": 637,
-    "t": "Beware The Magical Two-Person, $1 Billion AI-Driven Startup\n\nIn early 2024, OpenAI CEO Sam Altman predicted there would be a “one-person billion-dollar company, which would’ve been unimaginable without AI, and now it will happen.” Several media outlets recently concluded that the prediction came true (albeit with two e…",
+    "t": "זהרו מ-AI החלומי: סטארטאפ בני שניים עם ערך של מיליארד דולר\n\nסאם אלטמן מ-OpenAI חזה בתחילת 2024 שתישמע תופעה שלא היתה קיימת עד כה - חברת AI שתוגדל על ידי אדם אחד בלבד ותגיע למיליארד דולר. ובכן, נראה שהחזון התגשם בפועל, אם כי עם קצת סטייה קטנה מהתוכנית המקורית...",
     "d": "2026-04-06T16:52:35Z",
     "v": 0,
     "l": [
@@ -15699,16 +15686,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://go.forrester.com/wp-content/uploads/2026/04/pexels-abigail-firster-2153068296-35404291-scaled.jpg",
     "source": "Forrester.com"
   },
   {
     "id": 638,
-    "t": "America’s CEOs have become reluctant guardians of democracy\n\nAs \"No Kings\" protests draw millions and institutional trust collapses, America's business leaders may be democracy's last credible line.",
+    "t": "מנכ״לים אמריקאים הפכו לשומרי דמוקרטיה ללא רצון\n\nכשמחאות ענק \"אין למלכים\" מחלחלות למיליונים ותאמון במוסדות קורס, נראה שמנהיגי העסקים בארה״ב עשויים להיות הקו ההגנה האחרון הנתפס כאמין של הדמוקרטיה. מעניין איך הטכ וול סטריט נמצאים פתאום במעמד של חוסנים של המערכת בשעה שהכול מתחולל.",
     "d": "2026-04-06T16:51:05Z",
     "v": 0,
     "l": [
@@ -15784,7 +15770,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 641,
-    "t": "Black Creator Says AI ‘Fruit Love Island’ Series Was Likely Inspired by Her Content\n\nContent creator Joy Ofodu says aspects of her work were stolen for an AI-generated series, \"Fruit Love Island,\" with more than 200 million views on TikTok.",
+    "t": "יוצרת תוכן שחורה: סדרת ה-AI 'Fruit Love Island' כנראה הונחה על ידי התוכן שלי\n\nיוצרת התוכן ג'וי אופודו טוענת שמספר אלמנטים מעבודתה הגנובו בשביל סדרה שנוצרת ב-AI בשם 'Fruit Love Island', שצברה למעלה מ-200 מיליון צפיות בטיקטוק. זה עוד מקרה מטריד שמציג איך AI יכול להעתיק תוכן של יוצרים מקוריים מבלי קרדיט או אישור, בדיוק כשהטכנולוגיה הזו הופכת למשהו ממש שולט בפלטפורמות סוציאליות. התיקייה הזו מעלה שוב את הדיון החם בתעשייה על זכויות יוצרים ו-AI, שעדיין לא ברור כמה חוקים חלים עליה. \nמקור: TODAY",
     "d": "2026-04-06T16:47:43Z",
     "v": 0,
     "l": [
@@ -15799,8 +15785,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-04/ai-fruit-love-island-drama-2-jl-84acb6.jpg",
@@ -15808,7 +15793,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 642,
-    "t": "Neo-Gotham Awaits with McFarlane Toys Batman Beyond 1:3 Cowl\n\nBatman Beyond is a futuristic animated series that would reimagine the legacy of Batman in a cyberpunk Gotham City called Neo-Gotham. The show follows the tale of teenager Terry McGinnis, who takes up the mantle of Batman under the guidance of an elderly Bruc…",
+    "t": "McFarlane Toys חושפת דמות Batman Beyond בגודל 1:3 - כובע הבטמן של העתיד\n\nמכונת צעצועים McFarlane משיקה דמות אספנית מפורטת של Batman Beyond, הסדרה האנימציה שעוד בשנות ה-90 דמיינה את גוטהם העתידית כעיר קיברפאנק חושכת. בסדרה, נער בשם Terry McGinnis משמש כבטמן החדש תחת הדרכתו של בروס וויין מבוגר, וברור שהדמות החדשה של מקפרליין תלכד את העיצוב הפיוטוריסטי הייחודי של הגיבור.",
     "d": "2026-04-06T16:47:08Z",
     "v": 0,
     "l": [
@@ -15823,8 +15808,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://bleedingcool.com/wp-content/uploads/2026/04/McFarlane-Batman-Beyond-Cowl-Replica-007-2000x1125.jpg",
@@ -15832,7 +15816,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 643,
-    "t": "Global Survey of Top U.S., U.K Math Students Shines Light on Their Academic Success\n\nAI scores high as a supportive math learning tool for majority of teens queried AI scores high as a supportive math learning tool for majority of teens queried",
+    "t": "סקר גלובלי: תלמידי המתמטיקה המובילים בארה״ב ובריטניה חושפים את סודות ההצלחה שלהם\n\nAI הוא כוכב זוהר בעולם הלימודים - רוב המתבגרים שנחקרו מסכימים שכלים של בינה מלאכותית עוזרים להם להבין מתמטיקה ממש טוב. מסתבר שלא רק המורים שלהם עושים את העבודה - גם הטכנולוגיה היא שם כדי לתמוך בהם בדרך.",
     "d": "2026-04-06T16:47:00Z",
     "v": 0,
     "l": [
@@ -15855,7 +15839,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 644,
-    "t": "Whitehall Valtrix Review 2026: Trust Check, Is It Legit & Safe?\n\nInvestments and trading have become popular due to the availability of online platforms and mobile applications. It enables traders and investors to buy or sell securities in a few minutes, eliminating the need for brokers or long paperwork.  Today, we have n…",
+    "t": "ביקורת Whitehall Valtrix 2026: בדיקת אמינות - האם זה בטוח ואמין?\n\nבעידן של אפליקציות ומערכות מסחר אונליין, כל אחד יכול להתחיל לסחור בניירות ערך בדקות ספורות - ללא צורך בברוקר או הרבה טפסים משעממים. היום אנחנו בודקים את Whitehall Valtrix כדי לראות אם הפלטפורמה הזו באמת כדברה או שזה סיפור אחר של scam נוסף בעולם ההשקעות.",
     "d": "2026-04-06T16:46:37Z",
     "v": 0,
     "l": [
@@ -15870,8 +15854,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.successful-blog.com/wp-content/uploads/2026/04/Whitehall-Valtrix-Review-2026-Trust-Check-Is-It-Legit-Safe.webp",
