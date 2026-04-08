@@ -1,7 +1,7 @@
 {
   "total": 1035,
-  "translated": 814,
-  "untranslated": 221,
+  "translated": 864,
+  "untranslated": 171,
   "today": 0,
   "week": 1010,
   "sources": [
@@ -44,7 +44,7 @@
     {
       "name": "Product Hunt",
       "total": 48,
-      "translated": 3,
+      "translated": 48,
       "lastDate": "2026-04-07T06:10:46.000Z"
     },
     {
@@ -146,7 +146,7 @@
     {
       "name": "Onefootball.com",
       "total": 6,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-06T19:27:00Z"
     },
     {
@@ -206,7 +206,7 @@
     {
       "name": "CNA",
       "total": 2,
-      "translated": 0,
+      "translated": 2,
       "lastDate": "2026-04-06T19:33:11Z"
     },
     {
@@ -272,13 +272,13 @@
     {
       "name": "TechRadar",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-06T19:35:00Z"
     },
     {
       "name": "Livemint",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-06T19:32:18Z"
     },
     {
@@ -624,5 +624,5 @@
       "lastDate": "2026-04-06T17:00:21Z"
     }
   ],
-  "generatedAt": "2026-04-08T01:09:01.673Z"
+  "generatedAt": "2026-04-08T04:12:15.316Z"
 }

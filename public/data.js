@@ -1966,7 +1966,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 83,
-    "t": "Marmot\n\nDiscussion\n            |\n            Link",
+    "t": "Marmot\n\nנראה שמדובר בפרודקט חדש שהוכרז ב-Product Hunt, אבל פרטים ספציפיים על מה בדיוק Marmot עושה לא ברורים מהתיאור המקוצר הזה. אם אתם רואים את זה ב-Product Hunt, כדאי להיכנס להדיון או ללחוץ על הקישור כדי לגלות מה בעצם מדובר כאן.",
     "d": "2026-04-07T06:10:46.000Z",
     "v": 0,
     "l": [
@@ -2061,7 +2061,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 87,
-    "t": "Laminar\n\nDiscussion\n            |\n            Link",
+    "t": "Laminar\n\nזה נראה כמו פרויקט חדש שהופיע ב-Product Hunt, אבל פרטים מסוימים על מה בדיוק זה עושה לא ברורים מהתיאור הקצר. מן הסתם מדובר בכלי או פלטפורמה כלשהי שכדאי להביט עליה אם אתם עוקבים אחרי startup ים טריים בתחום ה-tech. בואו נראה אם זה יהיה ה-next big thing או רק עוד כלי בקטלוג האינסופי של Product Hunt.",
     "d": "2026-04-07T02:51:18.000Z",
     "v": 0,
     "l": [
@@ -2084,7 +2084,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 88,
-    "t": "Netflix Playground\n\nDiscussion\n            |\n            Link",
+    "t": "Netflix Playground\n\nנראה שנטפליקס משקיעה בכלים חדשים לניסויים ופיתוח. זה אחד מהדברים החדשים שהופיעו בProduct Hunt - קרוב לודאי מדובר בפלטפורמה או כלי שמאפשר למפתחים ומעצבים לשחק עם טכנולוגיות חדשות של הסטרימינג ענקית. עם כל ההשקעות של נטפליקס ב-AI וטכנולוגיות חדשות, זה בדיוק הסוג של ה-playground שיכול להשפיע על עתידות של חוויות הצפייה שלנו.",
     "d": "2026-04-07T02:32:57.000Z",
     "v": 0,
     "l": [
@@ -2156,7 +2156,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 91,
-    "t": "Highlight Studio\n\nDiscussion\n            |\n            Link",
+    "t": "Highlight Studio\n\nכלי חדש שנראה מעניין שצץ ב-Product Hunt, אבל בכנות - המידע שמתוך הקישור די חסר. נראה שמדובר בכמה דיון וקישור, אבל צריך לבדוק בעצמכם מה בדיוק זה עושה כי הפירוט פה מזכיר יותר תגובה מפורום מאשר כתבה אמיתית.",
     "d": "2026-04-07T00:47:06.000Z",
     "v": 0,
     "l": [
@@ -2206,7 +2206,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 93,
-    "t": "Wordie\n\nDiscussion\n            |\n            Link",
+    "t": "וורדי - Wordie\n\nדיון חדש בקהילת Product Hunt סביב Wordie, אפליקציה שנראית שונה לעבודה עם מילים וטקסט. אם אתם מחפשים כלי חדשה שתשפר את הדרך שלכם לעבוד עם שפות, זה בטוח שווה לבדוק את הפרטים בקישור.",
     "d": "2026-04-06T23:59:37.000Z",
     "v": 0,
     "l": [
@@ -2491,7 +2491,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 105,
-    "t": "VirtualProg\n\nDiscussion\n            |\n            Link",
+    "t": "VirtualProg\n\nנראה שיש כאן כלי חדש בשם VirtualProg שהגיע ל-Product Hunt. אנחנו עדיין מחכים למידע מלא על מה בדיוק הכלי הזה עושה, אבל קיימת דיון פעיל סביבו בקהילה. אם אתם מעוניינים ללמוד עוד, תוכלו להצטרף לשיחה וליצור קשר עם היוצרים ישירות.",
     "d": "2026-04-06T21:21:33.000Z",
     "v": 0,
     "l": [
@@ -2563,7 +2563,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 108,
-    "t": "FlowPulse\n\nDiscussion\n            |\n            Link",
+    "t": "FlowPulse\n\nנראה שיש כאן משהו חדש בשם FlowPulse שעלה ל-Product Hunt, אבל פרטים מלא על מה זה בדיוק עדיין לא ברורים מההודעה. אם אתם רוצים להבין יותר על הטכנולוגיה הזו, כדאי לכם לבדוק את הדף בישירות ולהשתתף בדיון של הקהילה שם.",
     "d": "2026-04-06T20:57:44.000Z",
     "v": 0,
     "l": [
@@ -2835,7 +2835,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 119,
-    "t": "'Up to 75% higher': Experts say your next SSD or memory upgrade will get a lot more expensive — and I fear the Iran war will make it even worse\n\nMemory and storage costs are rising sharply due to AI demand, limited production, and tight allocation across multiple product segments.",
+    "t": "עד 75% יותר יקר: המומחים מסכימים שהשדרוג הבא שלכם ל-SSD וזיכרון יהיה הרבה יותר דорогий\n\nמחירי זיכרון וストוריג עולים בצורה חדה בגלל הביקוש המטורף ל-AI, בעיות בהייצור והתחרות על אלוקציה בין מוצרים שונים. המצב יכול להתגרוע עוד יותר אם המתיחויות הגיאופוליטיות בעולם יהיו בעוצמתן.",
     "d": "2026-04-06T19:35:00Z",
     "v": 0,
     "l": [
@@ -2858,7 +2858,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 120,
-    "t": "Nvidia acquisition of SchedMD sparks worry among AI specialists about software access\n\nTORONTO/SAN FRANCISCO, April 6 : A niche acquisition by Nvidia has raised concerns among artificial-intelligence and supercomputer specialists who see the move as a test of the biggest AI chip company's commitment to maintaining a fair playing field for chip …",
+    "t": "רכישת Nvidia של SchedMD מעוררת חששות בקרב מומחי AI בנוגע לגישה לתוכנות\n\nNvidia קנתה את SchedMD, חברה שמפתחת תוכנות לניהול סופר-מחשבים, וזה גרם לחרדה בקהילת ה-AI והsupercomputing - מתחשדים שהמהלך הזה עשוי לסגור דלת בפני מתחרים ולהפר את החוקים הפתוחים של השוק. מומחים חוששים שגיגנט השבבים תשתמש בשליטה שלה בתוכנה קריטית כדי לתת יתרון תחרותי לעצמה בשוק ה-AI המתפתח במהירות.",
     "d": "2026-04-06T19:33:11Z",
     "v": 0,
     "l": [
@@ -2910,7 +2910,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 122,
-    "t": "JPMorgan’s Dimon Adds Fresh Twist to Argument for Keeping Teams Small\n\nThe bank CEO is echoing comments from executives at companies including Amazon and HSBC.",
+    "t": "ג'יימי דימון מ-JPMorgan: צוותים קטנים הם המפתח להצלחה\n\nמנכ\"ל הבנק מצטרף לקול גדל של מנהלים כמו אלה של אמזון והבנק HSBC, שטוענים שפחות אנשים בצוות זה יותר טוב. הרעיון לא חדש, אבל כשמישהו כמו דימון מדבר על זה, כולם מקשיבים.",
     "d": "2026-04-06T19:32:18Z",
     "v": 0,
     "l": [
@@ -2923,13 +2923,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
@@ -2937,7 +2933,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 123,
-    "t": "SoFi Stadium workers urge FIFA to bar ICE from World Cup, threaten strike\n\nLOS ANGELES, April 6 : A union representing about 2,000 food service workers at SoFi Stadium said on Monday it was demanding that FIFA keep U.S. Immigration and Customs Enforcement away from World Cup operations in Los Angeles and warned workers could strike …",
+    "t": "עובדי סטדיון SoFi דורשים מ-FIFA להרחיק את ICE מגביע העולם ומאיימים על שביתה\n\nכ-2,000 עובדי שירות במזון בסטדיון SoFi בלוס אנג'לס הודיעו כי הם דורשים שה-FIFA תמנע את נוכחות שירות ההגירה האמריקאי (ICE) בפעולות גביע העולם בעיר, תוך איום על שביתה של העובדים. הארגון הנציגותי של העובדים מעלה חשש בקשר להתנהלות ICE בזמן מלל ההאירוע הבינלאומי הגדול.",
     "d": "2026-04-06T19:29:39Z",
     "v": 0,
     "l": [
@@ -2987,7 +2983,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 125,
-    "t": "This week's unmissable European ties ⭐️\n\nEurope’s big nights are back with a huge lineup: the reunion between PSG and Liverpool, the Real-Bayern classic, and French hopes carried by Strasbourg... here are the four matchups you won’t wan...",
+    "t": "המשחקים האירופיים שחובה לראות השבוע ⭐️\n\nאירופה חוזרת בגדול - PSG מול ליברפול, הקלאסיקו של ריאל מדריד וביירן מינכן, וסטרסבור שנושא את התקוות של צרפת. פה יש לכם ארבע התגובות שחייבים להיות במערך שלכם השבוע אם אתם חובבי כדורגל אמיתיים.",
     "d": "2026-04-06T19:27:00Z",
     "v": 0,
     "l": [
@@ -3733,7 +3729,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 155,
-    "t": "AI Designer MCP\n\nDiscussion\n            |\n            Link",
+    "t": "AI Designer MCP\n\nכלי חדש שמשתמש ב-Model Context Protocol כדי לתת ל-AI designers גישה קלה יותר לעבודה עם מודלים של בינה מלאכותית. זה בעצם מסדיר את התקשורת בין design tools לבין AI models, מה שעוזר ל-designers לבנות ולטסטר features חכמים בהרבה יותר קל. כמו ליהודה מנטר לביניים בין שני עולמות שונים - design ו-AI.",
     "d": "2026-04-06T18:51:09.000Z",
     "v": 0,
     "l": [
@@ -3996,7 +3992,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 166,
-    "t": "OpenBrowser-AI\n\nDiscussion\n            |\n            Link",
+    "t": "OpenBrowser-AI\n\nכלי חדש שמשלב AI עם דפדפן אינטרנט כדי להפוך את החיפוש והגלישה לחכמים יותר. הטכנולוגיה מאפשרת ל-AI לחקור וללמוד מתוכן אינטרנט בצורה אוטומטית, מה שעלול לשנות את הדרך שבה אנחנו משתמשים בדפדפנים. זהו עוד צעד בכיוון של אינטגרציה עמוקה של AI בכלים היומיומיים שלנו.",
     "d": "2026-04-06T18:38:40.000Z",
     "v": 0,
     "l": [
@@ -4145,7 +4141,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 172,
-    "t": "ChatGPT Ads by Gauge\n\nDiscussion\n            |\n            Link",
+    "t": "ChatGPT Ads by Gauge\n\nGauge הציגה פתרון חדש שמאפשר להטמיע פרסומות ישירות בתוך ChatGPT, כדי שמפרסמים יוכלו להגיע לכל אלה שמשתמשים בצ'אטבוט. זה כמו שהם חשבו - למה לא לפרסם גם שם, כשיותר ויותר אנשים מבלים שם את הזמן שלהם? הרעיון די פשוט אבל עלול להיות game-changer לתעשיית הפרסום הדיגיטלית.",
     "d": "2026-04-06T18:26:52.000Z",
     "v": 0,
     "l": [
@@ -4664,7 +4660,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 193,
-    "t": "AppSignals\n\nDiscussion\n            |\n            Link",
+    "t": "AppSignals\n\nכלי חדשה שעוזרת למפתחים לעקוב אחרי ביצועי האפליקציות שלהם בזמן אמת ולתפוס באגים לפני שהם הופכים לבעיה. AppSignals מבטיחה דגירה מהירה של בעיות בביצועים וחסכון בעלויות infrastructure על ידי זיהוי בעיות בשלב מוקדם.",
     "d": "2026-04-06T17:59:01.000Z",
     "v": 0,
     "l": [
@@ -6638,7 +6634,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 272,
-    "t": "Flight Viz\n\nDiscussion\n            |\n            Link",
+    "t": "Flight Viz\n\nכלי חדש שמעניק הדמיה וויזואלית למסלולי הטיסות בזמן אמת - משהו שנראה שמתחיל להשתלט על Product Hunt. אם אתם אוהבי Aviation או פשוט סקרנים לראות איך המטוסים שלכם נעים בשמיים, זה בדיוק מה שחיפשתם.",
     "d": "2026-04-06T16:28:10.000Z",
     "v": 0,
     "l": [
@@ -7999,7 +7995,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 329,
-    "t": "TestRelic AI\n\nDiscussion\n            |\n            Link",
+    "t": "TestRelic AI\n\nזה נראה כמו כלי חדש שעלה ל-Product Hunt, אבל האינפורמציה די מינימלית. אם זה קשור ל-testing ו-AI כמו השם מציע, זה בטח משהו שעוזר למפתחים לבדוק ולחזק את האפליקציות שלהם באמצעות בינה מלאכותית.",
     "d": "2026-04-06T13:01:37.000Z",
     "v": 0,
     "l": [
@@ -8117,7 +8113,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 334,
-    "t": "CrewCue\n\nDiscussion\n            |\n            Link",
+    "t": "CrewCue\n\nCrewCue היא כלי חדשה שמפשטת את ניהול הצוותים וקואורדינציה של פרויקטים. זה נראה כמו פתרון חכם לארגונים שמחפשים דרך יעילה יותר לתקשר ולתאם בין חברי הצוות. המוצר הרעיון עלה ל-Product Hunt ויכול להיות מעניין לחברות טכנולוגיה וסטארטאפים בישראל שמחפשים לשפר את סדר העבודה שלהם.",
     "d": "2026-04-06T12:21:23.000Z",
     "v": 0,
     "l": [
@@ -8189,7 +8185,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 337,
-    "t": "Gaia\n\nDiscussion\n            |\n            Link",
+    "t": "Gaia\n\nקיים דיון מעניין סביב המוצר החדש Gaia, וזה משהו שכדאי לעקוב אחריו. אם אתם חוקרים מוצרים חדשים בעולם ה-AI והטכנולוגיה, זה בהחלט ראוי לבדיקה על Product Hunt.",
     "d": "2026-04-06T11:09:47.000Z",
     "v": 0,
     "l": [
@@ -8402,7 +8398,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 346,
-    "t": "Cheese! OCR\n\nDiscussion\n            |\n            Link",
+    "t": "Cheese! OCR\n\nכלי OCR חדש שנראה די מעניין להוצאת טקסט מתמונות - בדיוק מה שכולנו צריכים בימים אלה. הפרויקט עלה לדיון בקהילה של Product Hunt, והנראה שהוא משך את תשומת הלב של ה-tech crowd. אם אתם מחפשים דרך יעילה לסרוק מסמכים וטקסט, זה יכול להיות בדיוק הדבר שחיפשתם.",
     "d": "2026-04-06T09:16:38.000Z",
     "v": 0,
     "l": [
@@ -8425,7 +8421,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 347,
-    "t": "Stated\n\nDiscussion\n            |\n            Link",
+    "t": "Stated\n\nלא ניתן ליצור תקציר משמעותי מתוך התיאור המופיע. המידע שסופק קצר מדי וחסר פרטים מספיקים על המוצר או השירות. מומלץ לבדוק את העמוד המלא ב-Product Hunt כדי להבין טוב יותר מה מדובר.",
     "d": "2026-04-06T09:14:53.000Z",
     "v": 0,
     "l": [
@@ -8499,7 +8495,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 350,
-    "t": "Couch\n\nDiscussion\n            |\n            Link",
+    "t": "ספת הדיון\n\nנראה שמדובר בפרודוקט חדש שעדיין בשלבי דיון בקהילת המוצרים. לדוגמה זו לא מכילה מידע מספיק, אבל זה נראה כמו משהו שטרם הוכרז באופן מלא.\n\nמקור: Product Hunt",
     "d": "2026-04-06T08:00:11.000Z",
     "v": 0,
     "l": [
@@ -8617,7 +8613,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 355,
-    "t": "Glassbrain\n\nDiscussion\n            |\n            Link",
+    "t": "Glassbrain\n\nטכנולוגיה חדשה שמסייעת בהמצאת תובנות מהנתונים שלכם במהירות וקלות. Glassbrain מאפשרת לך לראות את התמונה הגדולה של כל מה שקורה בעסק שלך בלי צורך בידע עמוק בנתונים.",
     "d": "2026-04-06T03:33:53.000Z",
     "v": 0,
     "l": [
@@ -8640,7 +8636,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 356,
-    "t": "Ogoron\n\nDiscussion\n            |\n            Link",
+    "t": "Ogoron\n\nנראה שמדובר בדיון על מוצר חדש שהוצג ב-Product Hunt, אבל המידע הזמין מוגבל מאוד. אם אתם מחפשים לדעת יותר על Ogoron, כדאי לכם להיכנס ישירות לדיון בפלטפורמה כדי לראות מה המשתמשים ואמן המוצר אומרים על זה.",
     "d": "2026-04-06T03:31:26.000Z",
     "v": 0,
     "l": [
@@ -8689,7 +8685,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 358,
-    "t": "VoxTori\n\nDiscussion\n            |\n            Link",
+    "t": "VoxTori\n\nכלי חדש שנחשף בProduct Hunt שנראה שקשור לטכנולוגיית קול או שמע. למרות שהפרטים מוגבלים, זה נראה כמו משהו שכדאי להקפיד עליו אם אתם עוקבים אחרי מוצרים חדשים בתחום ה-AI והטכנולוגיה. תוכלו למצוא דיונים ולינקים נוספים על הפיד של Product Hunt.",
     "d": "2026-04-06T01:47:34.000Z",
     "v": 0,
     "l": [
@@ -8899,7 +8895,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 367,
-    "t": "Epismo Context Pack\n\nDiscussion\n            |\n            Link",
+    "t": "Epismo Context Pack\n\nEpismo הציגה את ה-Context Pack החדש שלה, כלי שמטרתו לעזור למפתחים ו-AI enthusiasts לעבוד בצורה יותר יעילה עם מודלים שונים. הפכט הזה נראה מעניין במיוחד לאלה שמתעסקים בפיתוח AI ורוצים להתקדם מהר יותר. תוכלו לקרוא על פרטים נוספים בדיון המוקדש בProduct Hunt.",
     "d": "2026-04-05T19:51:46.000Z",
     "v": 0,
     "l": [
@@ -8997,7 +8993,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 371,
-    "t": "Letterbox\n\nDiscussion\n            |\n            Link",
+    "t": "לטרבוקס - שירות חדש להעברת הודעות\n\nנראה שיש פה משהו חדש שעלה ל-Product Hunt, אבל הפרטים קצת דלים. אם זה קשור להעברת הודעות או תקשורת, זה יכול להיות כלי מעניין לסטארטאפים. בואו נחכה לפרטים נוספים מהמוקד.",
     "d": "2026-04-05T18:37:56.000Z",
     "v": 0,
     "l": [
@@ -10089,7 +10085,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 417,
-    "t": "HyperCap\n\nDiscussion\n            |\n            Link",
+    "t": "HyperCap\n\nמוצר חדש ב-Product Hunt שנראה כמו כלי שימושי לעבודה עם תמונות וקלטות מסך. למרות שהמידע מצומצם, זה נראה כמו משהו שכדאי לעקוב אחריו אם אתם חפצים בפתרונות חדשים לטיפול בקונטנט ויזואלי.",
     "d": "2026-04-05T09:01:44.000Z",
     "v": 0,
     "l": [
@@ -10822,7 +10818,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 448,
-    "t": "MBCompass\n\nDiscussion\n            |\n            Link",
+    "t": "MBCompass\n\nנראה שפה מדובר על משהו שעדיין בשלבי דיון ולא מוצר סופי, אבל זה בכל זאת הופיע ב-Product Hunt שזה חד משמעית מעניין. אם אתם שומעים על MBCompass בפעם הראשונה, זו בעצם הזדמנות טובה להצטרף לדיון ולהבין בדיוק למה כולם מדברים על זה כרגע.",
     "d": "2026-04-04T12:11:41.000Z",
     "v": 0,
     "l": [
@@ -11036,7 +11032,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 457,
-    "t": "/dev for Claude Code\n\nDiscussion\n            |\n            Link",
+    "t": "/dev עבור Claude Code\n\nאנתרופיק הכניסה עידן חדש עם Claude Code - סביבת פיתוח מיוחדת ל-Claude שמאפשרת למפתחים לעבוד בצורה יותר חכמה ויעילה. כל מה שצריך לדעת על הפיצ'ר החדש הזה שבא לשנות את דרך העבודה עם ה-AI.",
     "d": "2026-04-04T05:58:24.000Z",
     "v": 0,
     "l": [
@@ -11336,7 +11332,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 469,
-    "t": "AgentPulse by Rectify\n\nDiscussion\n            |\n            Link",
+    "t": "AgentPulse של Rectify\n\nכלי חדש שנחשף ב-Product Hunt שמסייע בניהול וניטור של AI agents בתהליכים אוטומטיים. AgentPulse מציע דרך חכמה להשגיח על ביצוע המשימות של ה-agents ולהבטיח שהם עובדים כמו שצריך. זה נראה כמו פתרון שימושי למי שעובד עם automation ו-AI בפרויקטים שלהם.",
     "d": "2026-04-03T22:02:20.000Z",
     "v": 0,
     "l": [
@@ -11670,7 +11666,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 483,
-    "t": "MacYaps\n\nDiscussion\n            |\n            Link",
+    "t": "מקיאפס\n\nדיון מעניין סביב MacYaps, פרויקט חדש שהופיע ב-Product Hunt. לפי הנראה מדובר בכלי או שירות שקשור לעולם ה-Mac, אבל בלי פרטים נוספים קשה להגיד בדיוק מה הוא עושה - בואו נראה אם זה באמת משהו שימושי או רק עוד כלי Mac בחור. מקור: Product Hunt",
     "d": "2026-04-03T18:54:06.000Z",
     "v": 0,
     "l": [
@@ -12041,7 +12037,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 499,
-    "t": "Dynamic Notch 2.0\n\nDiscussion\n            |\n            Link",
+    "t": "Dynamic Notch 2.0\n\nנראה שיש כאן עדכון משמעותי ל-Dynamic Notch - הפיצ'ר שהופך את ה-notch של iPhone לדבר שימושי במקום רק לחור בצג. גרסה 2.0 כנראה מביאה עם עצמה שיפורים ותכונות חדשות שגורמים לחוויה עם ה-notch להיות עוד יותר מעניינת וחכמה. אם אתה משתמש ב-iPhone ורוצה להפוך את החלל הזה לדבר שימושי, זה בוודאי שווה לבדוק מה הם הביאו הפעם.",
     "d": "2026-04-03T13:01:37.000Z",
     "v": 0,
     "l": [
