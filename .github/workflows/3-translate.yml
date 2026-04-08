@@ -29,5 +29,9 @@ jobs:
           git add data/articles.json
           git diff --staged --quiet && echo "No changes" && exit 0
           git commit -m "data: translate articles"
-          git pull --rebase origin master
-          git push
+          git fetch origin master
+          git reset --soft origin/master
+          git add -A
+          git diff --staged --quiet && echo "No net changes" && exit 0
+          git commit -m "data: translate articles"
+          git push origin master
