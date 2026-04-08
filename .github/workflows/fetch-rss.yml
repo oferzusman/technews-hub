@@ -1,4 +1,4 @@
-name: Fetch & Realtime Translate
+name: Fetch RSS
 
 on:
   schedule:
@@ -9,13 +9,13 @@ permissions:
   contents: write
 
 concurrency:
-  group: fetch-workflow
+  group: fetch-rss
   cancel-in-progress: false
 
 jobs:
-  fetch:
+  fetch-rss:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
 
     steps:
       - name: Checkout
@@ -32,25 +32,12 @@ jobs:
       - name: Fetch RSS feeds
         run: node scripts/fetch-rss.js
 
-      - name: Fetch NewsAPI articles
-        run: node scripts/fetch-newsapi.js
-        env:
-          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
-
-      - name: Translate hot articles (realtime)
-        run: node scripts/translate.js --mode=realtime
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-
-      - name: Build data.js
-        run: node scripts/build-data.js
-
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/articles.json public/data.js public/admin-data.json
+          git add data/articles.json
           git diff --staged --quiet && exit 0
-          git commit -m "chore: fetch and translate hot articles [skip ci]"
+          git commit -m "chore: fetch RSS articles [skip ci]"
           git pull --rebase origin master
           git push

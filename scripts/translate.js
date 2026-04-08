@@ -14,12 +14,11 @@ if (!process.env.ANTHROPIC_API_KEY) {
   process.exit(0);
 }
 
-const mode = process.argv.includes('--mode=batch') ? 'batch' : 'realtime';
-const MAX_PER_RUN = mode === 'batch' ? 50 : 999;
-const DELAY_MS = mode === 'batch' ? 500 : 200;
+const MAX_PER_RUN = 50;
+const DELAY_MS = 500;
 const MAX_RUNTIME = 480000; // 8 minutes
 
-console.log(`Mode: ${mode} (max: ${MAX_PER_RUN}, delay: ${DELAY_MS}ms)`);
+console.log(`Translate: max ${MAX_PER_RUN} articles, ${DELAY_MS}ms delay`);
 
 function loadDb() {
   if (!existsSync(DB_PATH)) return { articles: [] };
@@ -72,14 +71,12 @@ Respond with ONLY this JSON (no markdown, no code blocks):
 async function main() {
   const db = loadDb();
 
-  const candidates = mode === 'realtime'
-    ? db.articles.filter((a) => !a.translated && a.priority === 'hot')
-    : db.articles.filter((a) => !a.translated && a.priority !== 'hot');
+  const candidates = db.articles.filter((a) => !a.translated);
 
   const toTranslate = candidates.slice(0, MAX_PER_RUN);
 
   console.log(`Total articles: ${db.articles.length}`);
-  console.log(`Candidates (${mode}): ${candidates.length}`);
+  console.log(`Candidates: ${candidates.length}`);
   if (candidates.length > MAX_PER_RUN) {
     console.log(`Capping to ${MAX_PER_RUN} (${candidates.length - MAX_PER_RUN} deferred)`);
   }
