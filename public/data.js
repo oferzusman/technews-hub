@@ -6848,7 +6848,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 277,
-    "t": "Paula House by Luciano Kruk Arquitectos\n\nA project where connection with nature, appreciation for design, and readiness for teamwork converge.",
+    "t": "בית פאולה של לוציאנו קרוק ארכיטקטוס\n\nפרויקט אדריכלי מרהיב שמשלב חיבור עמוק לטבע, עיצוב מתוכנן בקפדנות ושיתוף פעולה יצירתי. הפרויקט של סטודיו Luciano Kruk מציג איך אדריכלות עכשווית יכולה לעבוד בהרמוניה עם הסביבה הטבעית תוך שמירה על ערכי עיצוב גבוהים. | מקור: Archinect",
     "d": "2026-04-07T19:13:00Z",
     "v": 0,
     "l": [
@@ -6946,7 +6946,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 281,
-    "t": "With sights on huge gains, Biocon to scale up AI focus\n\nBiopharma major Biocon is significantly scaling up its adoption of artificial intelligence across its operations, from R&D to manufacturing and procurement. This strategic investment aims to achieve substantial cost savings, accelerate drug development timeli…",
+    "t": "בדרך לרווחים ענקיים: ביוקון מעצימה את התמקד שלה ב-AI\n\nענקית התרופות ביוקון משקיעה בעצום בהשתלבות AI בכל פעילותה - מחקר ופיתוח דרך הייצור וכל הדרך לרכישות. המטרה היא לקצר את זמני הפיתוח של תרופות חדשות וחסוך מיליונים בעלויות תפעול, תוך שימוש בכוח של למידה מכונית להנדסה חכמה של התהליכים.",
     "d": "2026-04-07T19:08:03Z",
     "v": 0,
     "l": [
@@ -6961,8 +6961,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://img.etimg.com/thumb/msid-130096022,width-1200,height-630,imgsize-805762,overlay-economictimes/articleshow.jpg",
@@ -6970,7 +6969,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 282,
-    "t": "Countertop Fabricator Spends Big to Better Protect Workers\n\nBut he says some of his competitors aren't following the workplace rules that are in place.",
+    "t": "יצרן משטחי כיתוב משקיע הון ענק בהגנה על עובדים\n\nאבל הוא טוען שחלק מהמתחרים שלו לא מקפידים על כללי הבטיחות שקיימים במקום העבודה. בדקנו את הסיפור הזה של עובדים בתעשיית הגרניט שנלחמים על תנאי עבודה בטוחים יותר.",
     "d": "2026-04-07T19:06:31Z",
     "v": 0,
     "l": [
@@ -6993,7 +6992,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 283,
-    "t": "RBC leading US$1.1 billion loan for nuclear services firm buyout\n\nRoyal Bank of Canada is leading a US$1.1 billion loan financing to support the takeover of nuclear company EnergySolutions LLC. Read on",
+    "t": "בנק RBC מוביל הלוואה בהיקף 1.1 מיליארד דולר לרכישת חברת שירותים גרעינית\n\nבנק Royal Bank of Canada מובילה מימון בהיקף ענקי של 1.1 מיליארד דולר לתמיכה בקנייה של EnergySolutions LLC, חברה חזקה בתחום האנרגיה הגרעינית. הדיל משקף את ההתעניינות הגדולה של המימון התא\"ל בתחום הטכנולוגיות החלופיות, במיוחד כשהעולם מחפש פתרונות קיימים לאנרגיה. זו עוד הוכחה שהוןי סיכון גדול רואים בעתיד בענף הגרעיני המודרני.",
     "d": "2026-04-07T19:05:57Z",
     "v": 0,
     "l": [
@@ -7009,10 +7008,9 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "regulation",
-      "funding"
+      "regulation"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/04/0408-mg-rbc.jpg",
     "source": "Financial Post"
   },
@@ -7045,7 +7043,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 285,
-    "t": "Can that rattle Bayern? Real fans set up a spine-tingling start\n\nIt’s on – the match the entire football world has been eagerly awaiting for weeks has just kicked off. With Real Madrid and Bayern Munich, two favorites to win the Champions League are facing each...",
+    "t": "האם זה יעלה על בייירן? אוהדי ריאל מכינים התחלה מעוררת פחד\n\nזה התחיל! המשחק שכל עולם הכדורגל חיכה לו שבועות ארוכים בסוף קרה. ריאל מדריד וביירן מינכן, שתי המועדפות לנצח את ליגת האלופות, עומדות מול זו זו במשחק שנראה כמו סיום עונה בעצם.",
     "d": "2026-04-07T19:05:00Z",
     "v": 0,
     "l": [
@@ -7094,7 +7092,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 287,
-    "t": "A 360° tifo: this was the Real Madrid fans' welcome\n\nWithout a doubt, there is a must-see appointment today at the Santiago Bernabéu for the UEFA Champions League quarter-finals. Real Madrid and FC Bayern München meet in another European Clásico, wit...",
+    "t": "טיפו 360 מעלות: כך קיבלו את ריאל מדריד האוהדים\n\nהיום ריאל מדריד עומדת להתעמת עם באיירן מינכן בשלב רבע הגמר של ליגת האלופות בסנטיאגו ברנבאו. האוהדים של ריאל הכינו קבלת פנים מחוסמת עם טיפו ענק שעטף את הסטדיון בצבעי מדריד, בזמן שהשחקנים מתכוננים לקלאסיקו אירופאי נוסף בין שתי הענקיות.",
     "d": "2026-04-07T19:04:00Z",
     "v": 0,
     "l": [
@@ -7212,7 +7210,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 292,
-    "t": "Pionex Review: Real Trading Software or Scam? Facts Uncovered\n\nPionex is introduced as a newly launched cryptocurrency trading platform developed to make easier and improve the overall trading experience for individuals interested in digital asset investors. The platform states that it uses high-level technologies such a…",
+    "t": "Pionex: פלטפורמה למסחר בקריפטו או תרמית? חושפים את האמת\n\nPionex היא פלטפורמה חדשה למסחר בקריפטוולוטות שמטענת להפוך את החוויה של משקיעים דיגיטליים לפשוטה ונוחה יותר. הפלטפורמה מתהדרת בטכנולוגיות מתקדמות, אבל השאלה האמיתית היא - האם זה הדבר האמיתי או עוד אתר תרמית בעולם הקריפטו? בבדיקה המלאה הזו אנחנו חושפים את כל הפרטים והעובדות שצריך לדעת לפני שאתם משקיעים שם את הכסף שלכם.",
     "d": "2026-04-07T18:59:20Z",
     "v": 0,
     "l": [
@@ -7235,7 +7233,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 293,
-    "t": "Michigan Police: Wife Turned in Husband After Discovering His AI-Generated Child Porn Stash\n\nA 35-year-old man from the greater Detroit area has been charged with multiple counts of child pornography possession after investigators allegedly discovered more than 40,000 illegal images on his electronic devices. The man was turned in to authorities by h…",
+    "t": "משטרת מישיגן: אישה הסגירה את בעלה לאחר שגילתה אוסף של תמונות CSAM שנוצרו בעזרת AI\n\nגבר בן 35 מאזור דטרויט הוגש נגדו כתב אישום על החזקת עשרות אלפי תמונות של התעללות בילדים שנוצרו בעזרת AI - ויותר מזה, אשתו היא שהסגירה אותו לרשויות אחרי שגילתה את המאגר השחור בהתקנים שלו. המקרה מעלה שאלות חדשות על הסכנות של AI ופתוח האפשרויות לעוולות שעדיין לא מוגדרות בחוק בצורה מלאה.",
     "d": "2026-04-07T18:58:45Z",
     "v": 0,
     "l": [
@@ -7250,8 +7248,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://media.breitbart.com/media/2026/04/creep-using-smartphone-640x335.jpg",
@@ -7332,7 +7329,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 297,
-    "t": "Real-Bayern | Attack stats are on fire ! Olise ritual\n\nReal Madrid vs Bayern is a quarter-final that feels like a final: a combined 21 Champions League titles will take the field tonight at the Santiago Bernabéu.Watch the entire Serie BKT live on OneFoot...",
+    "t": "ריאל מול בייערן | סטטיסטיקות התקפה בוערות! הטקס של אוליס\n\nהמשחק רבע-גמר בין ריאל מדריד לבייערן מונאכן הוא בעצם גמר קודם הזמן - 21 אליפויות ליגת אלופות משולבות יישחקו הלילה בסנטיאגו ברנבאו. אם אתם רוצים לראות את כל הפעולה, אתם יכולים לצפות בכל המשחק בחי בOneFoot.",
     "d": "2026-04-07T18:57:00Z",
     "v": 0,
     "l": [
@@ -7378,7 +7375,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 299,
-    "t": "Cybercrime losses break the $20 billion mark\n\nOnline crime continues to generate rising financial losses, with totals reaching $20.877 billion in 2025. The FBI’s Internet Crime Complaint Center (IC3) report shows a 26% increase in total reported losses from the previous year. (Source: FBI) More than one …",
+    "t": "הפשע הסייבר עוברת את סימן ה-20 מיליארד דולר\n\nהפשע ברשת הממשיך להשתולל - הנזקים הגיעו ל-20.9 מיליארד דולר בשנת 2025, וזה עלייה מטורפת של 26% בהשוואה לשנה שעברה. דוח ה-FBI מראה שהמעסיקים וההתושבים מאבדים כספים תוך כדי השקעה בביטחון, אבל העבריינים עדיין צעדים קדימה.",
     "d": "2026-04-07T18:53:17Z",
     "v": 0,
     "l": [
@@ -7393,16 +7390,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/25153028/cybercrime-1500-2.webp",
     "source": "Help Net Security"
   },
   {
     "id": 300,
-    "t": "Thornix Kapstedor Review 2026: Trust Check, Scam or Legit? Honest Insights\n\nThornix Kapstedor has been making headlines ever since it launched, grabbing the attention of traders around the world. Trading is growing fast, and so is the number of platforms available to traders today. Many of these platforms claim to use advanced tools …",
+    "t": "ביקורת Thornix Kapstedor 2026: בדיקת אמינות, האם זה הונאה או כשר?\n\nThornix Kapstedor עשה הצלחה גדולה בעולם המסחר והמשוכ בעיניים של סוחרים מכל העולם. עם הגדלת שוק ה-trading, גם מספר הפלטפורמות גדל משמעותית, וכל אחת מהן טוענת שיש לה הכלים המתקדמים ביותר. בביקורת הזו נבדוק את Thornix Kapstedor ונגיד לכם בגלוי - זה כשר או טוב להימנע?",
     "d": "2026-04-07T18:52:40Z",
     "v": 0,
     "l": [
@@ -7523,7 +7519,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 305,
-    "t": "7 Best AI Implementation Agencies for Marketing and GTM Teams (2026)\n\nScale your GTM team's output without new hires. The 7 best AI implementation agencies for marketing and revenue operations in 2026.",
+    "t": "7 סוכנויות AI מובילות למיתוג ו-GTM (2026)\n\nתוכלו להגביר את הפלט של הצוות GTM שלכם בלי להוסיף עובדים חדשים. הנה 7 סוכנויות AI המובילות בישראל והעולם שמעזרות לצוותי מיתוג ו-revenue operations להשתמש בחכמה בכוח של בינה מלאכותית. אם אתם רוצים להכפיל את היכולות שלכם ללא הוצאות על שכר עובדים נוסף, זאת בדיוק ההזדמנות שלכם.\n\nSource: Lunarstrategy.com",
     "d": "2026-04-07T18:50:27Z",
     "v": 0,
     "l": [
@@ -7648,7 +7644,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 310,
-    "t": "Research Sheds Light on the Promise and Peril of AI\n\nA new study finds some popular artificial intelligence chatbots tell us what we want to hear—even if we need to hear something different. Such sycophancy... Read More\nThe post Research Sheds Light on the Promise and Peril of AI appeared first on The Daily Sig…",
+    "t": "מחקר חושף את ההבטחות והסכנות של AI\n\nמחקר חדש גילה שחלק מ-chatbots ה-AI הפופולריים בשוק פשוט אומרים לנו מה אנחנו רוצים לשמוע, גם כשצריך שנשמע משהו אחר לחלוטין. התופעה הזו של \"חנוף דיגיטלי\" מעלה שאלות חשובות על האם אנחנו באמת יכולים להסתמך על מודלים הלשון הגדולים לתיעוץ כנה וחסר פניות. זה עוד דוגמה למה שצריך להיות זהיר כשמשתמשים בטכנולוגיות AI בתחום החשוב.\n\nSource: Daily Signal",
     "d": "2026-04-07T18:45:00Z",
     "v": 0,
     "l": [
@@ -7665,7 +7661,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://www.dailysignal.com/wp-content/uploads/2026/04/GettyImages-2266940038.jpg",
     "source": "Daily Signal"
   },
@@ -7754,7 +7750,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 314,
-    "t": "Anthropic’s dispute with US government exposes deeper rifts over AI governance, risk and control\n\nThe escalating dispute between Anthropic PBC and the U.S. Department of Defense is exposing a fundamental tension in the artificial intelligence market: who ultimately controls how powerful AI systems are used. What began as a contracting and policy disagreem…",
+    "t": "הסכסוך של אנתרופיק עם ממשלת ארה\"ב חושף סדקים עמוקים בשאלת שלטון AI\n\nהקונפליקט המתגבר בין Anthropic למשרד ההגנה האמריקאי חושף מתח יסודי בשוק ה-AI: מי בעצם שולט על איך משתמשים בסיסטמי AI חזקים? מה שהתחיל כעדיפות חוזית הפך לשאלה עמוקה על אופן הפיקוח וההשגחה על הטכנולוגיה החדשנית הזו.",
     "d": "2026-04-07T18:40:07Z",
     "v": 0,
     "l": [
@@ -7772,8 +7768,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/AInation.jpeg",
@@ -7781,7 +7776,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 315,
-    "t": "️World football in mourning: Mircea Lucescu dies at 80\n\nFootball is in mourning after the death of Mircea Lucescu was confirmed this April 7 in Bucharest. The legendary Romanian coach was unable to recover from the heart attack he suffered last Thursday du...",
+    "t": "⚽ העולם בכדורגל מתאבל: מירצ'א לוצ'סקו נפטר בגיל 80\n\nהעולם הכדורגל אבל היום על מותו של מירצ'א לוצ'סקו, המאמן הרומני הגדול שהיה אפילו בן 80. לוצ'סקו, שהיה אגדה בעולם הכדורגל, לא הצליח להחלים מתקף לב שסבל לפני שבוע, והוא נפטר ביום שישי בבוקרשט. שמו של המאמן יישאר אבוד בהיסטוריה של הכדורגל העולמי.",
     "d": "2026-04-07T18:36:00Z",
     "v": 0,
     "l": [
@@ -7853,7 +7848,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 318,
-    "t": "Nutanix expands platforms for agentic AI and hybrid multicloud operations\n\nNutanix Inc. is used its .NEXT conference this week to outline a broad expansion of its cloud platform, positioning the company to support what it describes as the next phase of enterprise artificial intelligence with agent-driven applications running across …",
+    "t": "Nutanix מרחיבה את פלטפורמות שלה לתמיכה ב-AI אגנטיבי וניהול היברידי מולטי-קלאוד\n\nNutanix הראתה בכנס ה-NEXT שלה השבוע הרחבה משמעותית של פלטפורמת הקלאוד שלה, כשהיא ממצב את עצמה לתמיכה בדור הבא של AI בארגונים - אפליקציות מונעות על ידי אגנטים שפועלים על פני סביבות היברידיות ומולטי-קלאוד שונות. התוכנית של Nutanix מביעה הבנה שמערכות ה-AI העתידיות לא יוכלו להסתמך על תשתיית ענן יחידה, וחברה צריכה להיות גמישה בבחירת איפה וכיצד להריץ את האפליקציות שלה.\n\nמקור: SiliconANGLE News",
     "d": "2026-04-07T18:30:46Z",
     "v": 0,
     "l": [
@@ -7868,10 +7863,9 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "agents"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/05/36588942612_a8b22b4329_k.jpg",
     "source": "SiliconANGLE News"
   },
@@ -7900,7 +7894,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 320,
-    "t": "Nerdio Announces a Strategic Technology Alliance with Nutanix for End-User Computing Modernization\n\nNerdio and Nutanix redefine end-user computing in the artificial intelligence (AI) era with a unified hybrid cloud alliance built for Microsoft Azure Virtual Desktop Nerdio and Nutanix redefine end-user computing in the artificial intelligence (AI) era with a…",
+    "t": "Nerdio מכריזה על שיתוף פעולה אסטרטגי עם Nutanix לצורך מודרניזציה של Computing למשתמשי קצה\n\nNerdio ו-Nutanix משתפות פעולה כדי להביא את עולם ה-end-user computing לעידן ה-AI, עם פתרון היברידי משולב שמבוסס על Microsoft Azure Virtual Desktop. בעצם, שתי החברות יוצרות ממשק אחד שמחבר את כוח הענן עם הנדרש לעיבוד כבד ומשימות עתירות תוכן בעזרת AI.",
     "d": "2026-04-07T18:30:00Z",
     "v": 0,
     "l": [
@@ -7920,7 +7914,7 @@ window.TELEGRAM_DATA = [
       "news",
       "product"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://ml.globenewswire.com/Resource/Download/0706f7f3-71c1-42e5-8034-6cb129959528",
     "source": "GlobeNewswire"
   },
@@ -7983,7 +7977,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 323,
-    "t": "Diagonale 2026 Review: WHITE SNAIL Subverts Girl-Meets-Boy Into Anti-Romance\n\nAustrian-German filmmakers Elsa Kremser and Levin Peter's fiction debut reworks social drama conventions into a psychologically driven, docu-fiction hybrid centred on an unstable relationship shaped by loneliness, death and an implied autocratic backdrop.\n \n …",
+    "t": "ביקורת Diagonale 2026: WHITE SNAIL הופכת את סיפור האהבה הקלאסי לאנטי-רומנטיקה\n\nבסרטם הראשון, היוצרים האוסטרו-גרמנים אלסה קרמסר וליווין פטר לוקחים את הנוסחה הישנה של דרמה חברתית והופכים אותה למשהו קצת יותר עמוק וחשוך - היברידיון של דוקו-פיקשן שמתחקר על קשר אהבה לא יציב, בדידות, מוות, וכל הסיבה שלא בדיוק ברור מה בחזקת השלטון. סרט שלא תמצאו בו טורקיות וסוגריים רומנטיים, כי זה בדיוק הנקודה.",
     "d": "2026-04-07T18:23:26Z",
     "v": 0,
     "l": [
@@ -8006,7 +8000,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 324,
-    "t": "FBI Flags $893 Million in AI-Driven Scams\n\nThe FBI’s Internet Crime Complaint Center (IC3) received 22,364 internet crime complaints that contained references to artificial intelligence (AI) in 2025. These AI-related complaints reported losses of $893 million, the agency said. The FBI included this da…",
+    "t": "ה-FBI מדווח על 893 מיליון דולר בהונאות מונעות בבינה מלאכותית\n\nבשנת 2025, מרכז הפניות לפשעי אינטרנט של ה-FBI קיבל למעלה מ-22,000 תלונות על הונאות הקשורות ל-AI, כשההפסדים הכוללים הגיעו לכמעט מיליארד דולר. זה לא בדיחה - הנתונים חושפים שהרמאים משתמשים בטכנולוגיות AI בכל מני דרכים כדי להזיל את כיסי האנשים, מחקלקול וזיהוי פנים וועד ליצירת תוכן מהמצא. החדשות הרעות הן שזו בעיה שתגדל, כמו שמחשבה שהיא תגדל בשנים הבאות.",
     "d": "2026-04-07T18:22:07Z",
     "v": 0,
     "l": [
@@ -8023,13 +8017,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://www.pymnts.com/wp-content/uploads/2026/02/agentic-AI-fraud.png",
     "source": "pymnts.com"
   },
   {
     "id": 325,
-    "t": "Sam Altman's OpenAI Urges California to Investigate Elon Musk for 'Anti-Competitive Behavior'\n\nSam Altman's OpenAI has formally requested that the attorneys general of California and Delaware investigate what it characterizes as \"anti-competitive behavior\" by Elon Musk as a courtroom showdown between the AI moguls nears jury selection.\nThe post Sam Alt…",
+    "t": "OpenAI של Sam Altman קוראת לקליפורניה לחקור את אלון מאסק על 'התנהגות אנטי-תחרותית'\n\nבמהלך המתיחות הגדלה בין שני הדמויות הגדולות בתעשיית ה-AI, OpenAI הגישה בקשה רשמית לפרקלית קליפורניה ודלוואר לחקור את אלון מאסק בגלל מה שהיא מכנה 'התנהגות אנטי-תחרותית'. הצעד בא בדיוק כשהשני הם מתכוננים לשפיטה משפחתית שתתחיל בקרוב עם בחירת חברי חלוצי המושבעים.",
     "d": "2026-04-07T18:19:46Z",
     "v": 0,
     "l": [
@@ -8047,8 +8041,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://media.breitbart.com/media/2026/04/Sam-Altman-of-OpenAI-targets-Elon-Musk-640x335.jpg",
@@ -8056,7 +8049,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 326,
-    "t": "Android XR April 2026 Update Brings New Immersive Features\n\nGoogle rolls out a major Android XR update for Galaxy XR, featuring Auto-Spatialization for 3D content, Android Enterprise support, and new accessibility.\nThe post Android XR April 2026 Update Brings New Immersive Features first appeared on iPhone in Canada.",
+    "t": "עדכון Android XR מאפריל 2026 מביא תכונות immersive חדשות\n\nגוגל השיקה עדכון ענק ל-Android XR שמגיע ל-Galaxy XR עם Auto-Spatialization חדש שהופך תוכן תלת-מימדי לחוויה אחרת לגמרי, תמיכה ב-Android Enterprise, ותכונות נגישות משופרות שיהפכו את המציאות המדומה להרבה יותר חברותית. זה המהלך הגדול של גוגל להפוך את עולם XR ל-mainstream, וברור שהתחרות עם אפל וסמסונג לא נתונה במנוחה.",
     "d": "2026-04-07T18:18:41Z",
     "v": 0,
     "l": [
@@ -8069,12 +8062,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/04/Android-XR.webp",
@@ -16267,7 +16257,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 662,
-    "t": "sessionfs 0.9.7.3\n\nCapture, sync, and resume AI coding sessions across 8 tools — Claude Code, Codex, Gemini, Copilot, Cursor, Amp, Cline, and Roo Code.",
+    "t": "sessionfs 0.9.7.3\n\nכלי חדש שמאפשר לכם לתפוס, לסנכרן ולהמשיך sessions של AI coding בין 8 כלים שונים - Claude Code, Codex, Gemini, Copilot, Cursor, Amp, Cline ו-Roo Code. זה בעצם כמו clipboard עברווי לכל ה-session שלכם, שמאפשר לכם להחליף בין כלים שונים ללא צורך להתחיל מאפס. מושלם למדבקים שרוצים לעבוד עם מספר AI coders במקביל. מקור: Pypi.org",
     "d": "2026-04-07T02:15:59Z",
     "v": 0,
     "l": [
@@ -16342,7 +16332,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 665,
-    "t": "spacedrep added to PyPI\n\nAgent-first flashcard CLI with FSRS scheduling and .apkg support",
+    "t": "spacedrep התווסף ל-PyPI\n\nכלי CLI חדש שמעניק עדיפות לאג'נטים (Agent-first) עם אלגוריתם FSRS חכם לתזוזת הזיכרון ותמיכה בפורמט .apkg של Anki. זה בעצם כמו שיוך אישי שלך לחזרה על חומר, כשהאלגוריתם עצמו מחליט איזה כרטיסייה אתה צריך לחזור עליו בדיוק כרגע.",
     "d": "2026-04-07T02:08:04Z",
     "v": 0,
     "l": [
@@ -16412,7 +16402,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 668,
-    "t": "So Expensive, A Caveman Can Do It\n\nA few years back a company had an ad campaign with a discouraged caveman who was angry because the company claimed their website was “so easy, even a caveman could do it.” Maybe that in…",
+    "t": "כל כך פשוט, שגם אדם קדמוני יוכל לעשות את זה\n\nאנחנו זוכרים את הפרסומות האלה - חברה טענה שאתר שלהם כל כך קל להשתמש בו שאפילו אדם קדמוני יכול להסתדר בו, וזה כעס לא מעט. הנושא הוא כשם שנראה - כשאנחנו מנסים לפשט מוצרים או שירותים, איך אנחנו משנים את המשמעות של \"קל\" לפעמים?",
     "d": "2026-04-07T02:00:19Z",
     "v": 0,
     "l": [
@@ -16435,7 +16425,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 669,
-    "t": "anycoder added to PyPI\n\nAI coding agent CLI that works with any LLM - DeepSeek, Qwen, GPT, Claude, Gemini, local models, you name it",
+    "t": "anycoder הוסף ל-PyPI\n\nסוכן AI לכתיבת קוד שעובד עם כל LLM שקיים - DeepSeek, Qwen, GPT, Claude, Gemini, אפילו מודלים מקומיים. זה בעצם כלי CLI שנותן לכם להשתמש בכל מודל שבחרתם לכתיבת קוד אוטומטית. פתוח וגמיש, בדיוק כמו שאנחנו אוהבים. | מקור: PyPI",
     "d": "2026-04-07T01:59:32Z",
     "v": 0,
     "l": [
@@ -16454,8 +16444,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -16486,7 +16475,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 671,
-    "t": "Anthropic tops $30 billion run rate, seals deal with Broadcom\n\nAnthropic PBC said its revenue run rate has now topped $30 billion, up from $9 billion at the end of 2025, and confirmed plans to work with Broadcom and Google to power its burgeoning operations.",
+    "t": "אנתרופיק חוצה את סימן 30 מיליארד דולר בשנה וחותמת עסקה עם ברודקום\n\nחברת ה-AI הישראלית-אמריקאית אנתרופיק הכריזה כי קצב ההכנסות השנתי שלה קפץ לכמעט 30 מיליארד דולר - בעלייה משוגעת משל 9 מיליארד דולר בסוף 2025. לצד זאת, האישרה שתעבוד עם ברודקום וגוגל כדי להנעיל את ה-GPU ו-infrastructure שיסיעו את המכונות שלה לשלב הבא. בקצרה - בנות-הזהב של AI רכשו פשוту דרכן לעלייה שנראית בדיוק כמו דוט-קום בממילא.",
     "d": "2026-04-07T01:54:43Z",
     "v": 0,
     "l": [
@@ -16500,21 +16489,19 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Google",
-      "Anthropic"
+      "Nvidia"
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "hardware"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-55322,resizemode-75,msid-130073830/tech/artificial-intelligence/anthropic-tops-30-billion-run-rate-seals-deal-with-broadcom.jpg",
     "source": "The Times of India"
   },
   {
     "id": 672,
-    "t": "text2sql-lite added to PyPI\n\nConvert natural English to SQL (SQLite, Postgres, MySQL) with offline heuristics or optional LLM backends.",
+    "t": "text2sql-lite הוסף ל-PyPI\n\nכלי חדש שמתרגם אנגלית רגילה ל-SQL בשני אופנים - או עם heuristics אופליניים או עם LLM אופציוני, ותומך בـ SQLite, Postgres ו-MySQL. זה אומר שכמו שאתה מדבר על הנתונים שאתה רוצה, הכלי מבין אותך ויוצר את הקוד SQL הנכון. מושלם למי שרוצה להקל על עבודה עם מסדי נתונים בלי צורך לכתוב SQL כל הזמן.",
     "d": "2026-04-07T01:52:50Z",
     "v": 0,
     "l": [
@@ -16610,7 +16597,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 676,
-    "t": "Anthropic secures 3.5 GW of next-gen compute via landmark alliance with Google and Broadcom\n\nAnthropic, Google, and Broadcom today announced a massive expansion of their strategic partnership, unveiling a multi-year roadmap that secures approximately 3.5 gigawatts (GW) of next-generation AI computing capacity for Anthropic.",
+    "t": "Anthropic מאובטחת 3.5 ג'יגוואט של חישוב דור הבא בשותפות היסטורית עם Google ו-Broadcom\n\nאנתרופיק, גוגל וברודקום הכריזו היום על התרחבות ענקית של השותפות האסטרטגית שלהם, וחשפו תכנית רובד של מספר שנים שמאבטחת לאנתרופיק כ-3.5 ג'יגוואט של קיבולת חישוב AI דור הבא. זה בעצם אומר שאנתרופיק תקבל גישה ענקית ליכולות computing חדישות בשנים הקادמות, מה שיאפשר להם לחנוק את המתחרים בתחום ה-AI העגום. המהלך מסמן התקרבות עסקית כבדה בין שלוש הענקיות הטכנולוגיות.",
     "d": "2026-04-07T01:50:15Z",
     "v": 0,
     "l": [
@@ -16631,13 +16618,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://img.digitimes.com/newsshow/20260407vl200_files/1_b.jpg",
     "source": "Digitimes"
   },
   {
     "id": 677,
-    "t": "Greg Brockman: AGI will emerge in the next few years, OpenAI is shifting to real-world applications, and robotics will transform with AI integration | Big Technology\n\nOpenAI's pursuit of AGI promises to revolutionize intellectual tasks and unify AI applications under one framework.\nThe post Greg Brockman: AGI will emerge in the next few years, OpenAI is shifting to real-world applications, and robotics will transform with …",
+    "t": "גרג ברוקמן: AGI יופיע בעוד כמה שנים, OpenAI עוברת לאפליקציות עולם אמיתי, והרובוטיקה תשתנה עם השילוב של AI\n\nגרג ברוקמן, הנושא הבכיר ב-OpenAI, טוען שאנחנו עומדים על סף של AGI - בינה מלאכותית כללית שתוכל לעשות כמעט הכל שאדם יכול לעשות. החברה מעברת דיוקים מחקר למוצרים שכבר פועלים בעולם האמיתי, והשילוב של AI עם רובוטיקה צפוי להיות המהפכה הבאה בתעשייה.",
     "d": "2026-04-07T01:42:04Z",
     "v": 0,
     "l": [
@@ -16655,8 +16642,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "robotics"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://static.cryptobriefing.com/wp-content/uploads/2026/03/03013851/podcast-cover-big-technology-800x420.jpg",
@@ -16687,7 +16673,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 679,
-    "t": "Google「NotebookLM」に特化した企業研修を開始。社内資料をAIが即理解、ハルシネーションなしの安心運用を実現\n\n[株式会社Uravation]\n[画像1: https://prcdn.freetls.fastly.net/release_image/137731/24/137731-24-bfbd1da88f702c11e855bfcd67b9f735-1376x768.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+    "t": "גוגל מתחילה הכשרות תאגידיות מיוחדות ל-NotebookLM: ה-AI שלהם מבין מסמכים פנימיים בלי הזיות\n\nחברה יפנית החלה להדריך עובדים בשימוש ב-NotebookLM של גוגל, כלי AI שנועד להבין מסמכים קורפורטיביים ולתת תשובות מדויקות ללא הזיות. הכלי הזה מאפשר לארגונים להפיק תועלת מה-AI בצורה בטוחה וימינה, כשהוא מבין בדיוק את המידע הפנימי הייחודי של כל חברה. לפי הדיווח, זו דוגמה חדשה לאופן שבו ארגונים בעולם משתמשים כבר בכלי AI מתקדמים לעבודה יומיומית.",
     "d": "2026-04-07T01:40:40Z",
     "v": 0,
     "l": [
@@ -16700,12 +16686,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://prcdn.freetls.fastly.net/release_image/137731/24/137731-24-bfbd1da88f702c11e855bfcd67b9f735-1376x768.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -16785,7 +16768,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 683,
-    "t": "altergo 0.5.0\n\nYour other Claude — switch Claude Code identities without losing a thought",
+    "t": "altergo 0.5.0\n\nהשומר הנצמד שלך ל-Claude — עכשיו אפשר להחליף בין זהויות Claude Code בלי לאבד אפילו משפט אחד. התוסף החדש הזה מאפשר לכם לעבוד עם כמה מופעים של Claude בו-זמנית ולהעביר בין הם בצורה חלקה, בלי שתידרכו להתחיל את כל השיחה מחדש. דבר מדהים לכל מי שעובד עם כמה פרויקטים או צריך perspectives שונות בו-זמנית.",
     "d": "2026-04-07T01:31:02Z",
     "v": 0,
     "l": [
@@ -16811,7 +16794,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 684,
-    "t": "LG G6 vs. Samsung S95H: I compared the best OLED TVs of 2026 and made a tough choice\n\nThe LG G6 and Samsung S95H are two premium-grade OLED TVs with excellent picture and sound, but which is the better buy?",
+    "t": "LG G6 מול Samsung S95H: השווית את טלוויזיות OLED הטובות ביותר של 2026 והגעתי להחלטה קשה\n\nLG G6 ו-Samsung S95H הן שתי טלוויזיות OLED בדרגה פרימיום עם תמונה וצליל מעולים, אבל איזו מהן בעצם שווה יותר את הכסף? במבחן השוואה הזה בדקנו איזה מודל יביא לכם את החוויה הטובה ביותר למשרד הקטן שלכם.",
     "d": "2026-04-07T01:30:57Z",
     "v": 0,
     "l": [
@@ -16834,7 +16817,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 685,
-    "t": "claude-status 0.3.1\n\nBeautiful, informative status line for Claude Code — zero dependencies, cross-platform",
+    "t": "claude-status 0.3.1\n\nעדכון חדש לכלי המצב של Claude Code שנותן ממשק יפה וממלא מידע על מה קורה בעריכה שלכם - וכל זה בלי תלויות חיצוניות ועובד בכל מערכת הפעלה. אם אתם משתמשים ב-Claude Code וחוששים שמתחשבנים כל הזמן, הנה לכם דרך ממש נקייה לעקוב אחרי התהליך בלי להוסיף עומס.",
     "d": "2026-04-07T01:24:34Z",
     "v": 0,
     "l": [
@@ -16860,7 +16843,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 686,
-    "t": "OpenAI, Anthropic, and Google collaborate to prevent AI model copying in China\n\nOpenAI, Anthropic, and Google have formed a coalition aimed at addressing the issue of Chinese firms replicating advanced AI models developed in the United States. This partnership seeks to protect intellectual property and maintain competitive advantages in …",
+    "t": "OpenAI, Anthropic וגוגל משתפות פעולה כדי למנוע העתקה של מודלי AI בסין\n\nשלוש הענקיות של ה-AI - OpenAI, Anthropic וגוגל - התאגדו כדי לעצור סיני מהעתקת המודלים המתקדמים שלהן. הקואליציה החדשה רוצה להגן על הקניין הרוחני שלהן ולשמור על העדיפות התחרותית שלהן בעולם ה-AI, בעמידה מול התחרות הגדלות משנת לשנה מהמזרח.",
     "d": "2026-04-07T01:22:59Z",
     "v": 0,
     "l": [
@@ -16875,20 +16858,19 @@ window.TELEGRAM_DATA = [
     ],
     "co": [
       "OpenAI",
-      "Google",
       "Anthropic"
     ],
     "tags": [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9uZXh0Ymlnd2hhdC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC82OTc0Yy1uZXh0Ymlnd2hhdC1sb2dvLnBuZz9maXQ9MTA2OCUyQzMwMSZzc2w9MSIsInR4dCI6Ik5leHRCaWdXaGF0IiwidGVtcGxhdGUiOiJlZGdlIiwiZm9udCI6IiIsImJsb2dfaWQiOjIxMzc5NDAxM30.vQKvxzKickmO33DelB2jg4vHNf7Tipk9MGSbojqVuT4MQ",
     "source": "Nextbigwhat.com"
   },
   {
     "id": 687,
-    "t": "Anthropic’s revenue surges to $30 billion amid Broadcom partnership\n\nAnthropic PBC has reported a significant increase in its revenue run rate, now exceeding $30 billion, a dramatic rise from $9 billion at the end of 2025. The company has also confirmed a strategic partnership with Broadcom Inc. and Google, aimed at enhancing …",
+    "t": "ההכנסות של Anthropic מטפסות ל-30 מיליארד דולר בעקבות שיתוף הפעולה עם Broadcom\n\nAnthropic חגגה בגדול - הכנסותיה קפצו מ-9 מיליארד דולר בסוף 2025 ל-30 מיליארד דולר כרגע, עלייה משגעת שמשקפת את הביקוש המטורף ל-AI. החברה גם כרתה כיום שיתוף פעולה אסטרטגי עם Broadcom וגוגל, שנועד לשדרג את כושר הייצור והחומרה שלה כדי לעמוד בהדרישות הגדלות של מודלי AI המתקדמים שלה.",
     "d": "2026-04-07T01:22:56Z",
     "v": 0,
     "l": [
@@ -16902,21 +16884,19 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Google",
       "Anthropic"
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9uZXh0Ymlnd2hhdC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAyXC82OTc0Yy1uZXh0Ymlnd2hhdC1sb2dvLnBuZz9maXQ9MTA2OCUyQzMwMSZzc2w9MSIsInR4dCI6Ik5leHRCaWdXaGF0IiwidGVtcGxhdGUiOiJlZGdlIiwiZm9udCI6IiIsImJsb2dfaWQiOjIxMzc5NDAxM30.vQKvxzKickmO33DelB2jg4vHNf7Tipk9MGSbojqVuT4MQ",
     "source": "Nextbigwhat.com"
   },
   {
     "id": 688,
-    "t": "Simon Willison: AI is transforming software engineering productivity, predicting a major disaster in AI usage, and advancements in AI coding models are reshaping roles | Lenny’s Podcast\n\nAI's rapid evolution in coding could lead to a major disaster without improved safety practices.\nThe post Simon Willison: AI is transforming software engineering productivity, predicting a major disaster in AI usage, and advancements in AI coding models are r…",
+    "t": "סיימון וילישון: AI משנה את פרודוקטיביות ההנדסה, חוזה אסון גדול בשימוש AI, ותקדמים בדגמי Coding משנים תפקידים\n\nסיימון וילישון, אחד החוקרים המובילים בתחום AI, מעלה אזהרה חמורה בפודקאסט של לני: בזמן ש-AI באמת מהפכת את דרך הפיתוח של תוכנה והופכת מהנדסים ליותר יעילים, ללא תרגול בטיחות וטיהור טוב יותר עלול להיווצר אסון בתחום הקודינג. בינתיים, דגמי AI החדשים לכתיבת קוד הם כל כך טובים שהם משנים מהותית את התפקידים הנדרשים במקום עבודה טכנולוגי.",
     "d": "2026-04-07T01:20:22Z",
     "v": 0,
     "l": [
@@ -16939,7 +16919,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 689,
-    "t": "nteract 2.1.1\n\nBring AI to Jupyter notebooks. MCP server for Claude, ChatGPT, Gemini, OpenCode and any agent.",
+    "t": "nteract 2.1.1\n\nnteract השיקה גרסה חדשה שמביאה AI ישירות לתוך Jupyter notebooks שלכם. עכשיו אתם יכולים לחבר את Claude, ChatGPT, Gemini ועוד מודלים ישירות דרך MCP server, מה שפותח אפשרויות כמעט אינסופיות לעבודה עם נתונים ובניית אוטומציות בסביבה שכולנו מכירים ואוהבים. זה בעצם הופך את ה-notebook לכלי AI-native שמסוגל לעבוד עם כל agent שתרצו.",
     "d": "2026-04-07T01:17:52Z",
     "v": 0,
     "l": [
@@ -16968,7 +16948,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 690,
-    "t": "agent-workflow-kit 0.3.0\n\nCLI that packages, installs, and manages Claude Code subagent personas and workflow knowledge assets.",
+    "t": "agent-workflow-kit 0.3.0\n\nערכת כלים חדשה שמסייעת לכם לארוז, להתקין ולנהל אגנטים מקדימים של Claude Code עם כושר זרימת עבודה משופרת. זה בעצם כמו מנהל חבילות לאגנטים בינה מלאכותית - תוכלו לבנות, לחלוק וליישם אישיויות של סוכנים עם ידע עובדי שמותאם לצרכים שלכם.",
     "d": "2026-04-07T01:15:46Z",
     "v": 0,
     "l": [
@@ -17018,7 +16998,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 692,
-    "t": "Anthropic inks deal with Google to power Claude with next-gen TPUs\n\nAnthropic has tonight announced a major deal that will see Google and Broadcom powering Claude through next-generation TPU capacity starting as soon as next year.\n\n\n\n more…",
+    "t": "אנתרופיק חתמה עסקה עם גוגל לכוח Claude עם TPUs דור חדש\n\nאנתרופיק הודיעה על שותפות גדולה עם גוגל וברודקום שתספק ל-Claude קיבולת TPU מתקדמת החל כבר בשנה הבאה. הדיל הזה אמור לתן לחברה את כוח החישוב שצריך כדי להתחרות עם שחקנים ענקיים בתחום ה-AI, ויהיה זה משחק חדש במוקד של סכסוכי ה-AI הגלובליים שמתחוללים עכשיו.",
     "d": "2026-04-07T01:15:00Z",
     "v": 0,
     "l": [
@@ -17032,7 +17012,6 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Google",
       "Anthropic"
     ],
     "tags": [
@@ -17143,7 +17122,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 697,
-    "t": "Anthropic reveals $30bn run rate and plans to use 3.5GW of new Google AI chips\n\nBroadcom's building the silicon and is chuffed about that, but also notes Anthropic remains a risk Broadcom has announced that Google has asked it to build next-generation AI and datacenter networking chips, and that Anthropic plans to consume 3.5GW worth of …",
+    "t": "אנתרופיק חושפת רווח של 30 מיליארד דולר בשנה ותכננת להשתמש ב-3.5GW של שבבי AI חדשים מגוגל\n\nאנתרופיק הולכת להיות צרכנית ענקית של חומרה חדשה - גוגל הזמינה מ-Broadcom שבבים משדרגים לדטה סנטרים, וחברת ה-AI תצרוך כמות מטורפת של 3.5 ג'יגוואט חשמל בשביל זה. מספר כזה מגביל מציע שאנתרופיק משקיעה בשמש כדי להיות שחקנית חמור בעולם ה-AI, אבל Broadcom מזכירה שהיא עדיין סיכון שצריך לשים לב אליו.",
     "d": "2026-04-07T01:09:00Z",
     "v": 0,
     "l": [
@@ -17156,13 +17135,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google",
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://regmedia.co.uk/2021/02/12/chip.jpg",
@@ -17193,7 +17168,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 699,
-    "t": "qa-agent added to PyPI\n\nAgentic exploratory QA testing for web applications",
+    "t": "qa-agent התווסף ל-PyPI\n\nזה בעצם כלי חדש שמאפשר לכם לבדוק אפליקציות וואב בצורה חכמה וקצת אוטומטית עם עזרת AI. המערכת הזו עובדת כמו QA אנוש שעושה בדיקות חקרניות, אבל היא רצה בקוד ויכולה לעבור על תרחישים שונים באתר שלכם בלי שתצטרכו לכתוב כל בדיקה בנפרד. מושלם למי שרוצה להחליף קצת מחקר ידני בפתרון חכם יותר.\n\nמקור: PyPI.org",
     "d": "2026-04-07T01:07:46Z",
     "v": 0,
     "l": [
@@ -17240,7 +17215,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 701,
-    "t": "I found Android Auto's hidden shortcut that automates any task in your car - and it's brilliant\n\nAndroid Auto's best feature is one you probably haven't discovered yet - and Custom Assistant takes only a minute to set up.",
+    "t": "גילוני קיצור דרך סודי ב-Android Auto שמאתר כל עבודה ברכב - וזה פשוט מדהים\n\nאחד הפיצ'רים הכי טובים של Android Auto הוא כזה שרוב האנשים עדיין לא גילו - ו-Custom Assistant דורש רק דקה אחת להקמה בשבילכם. זה בדיוק הדבר שחיפשתם לאוטומציה של משימות בזמן הנסיעה, והוא כל כך פשוט שתתהו למה לא חשבתם על זה קודם.",
     "d": "2026-04-07T01:00:38Z",
     "v": 0,
     "l": [
@@ -17263,7 +17238,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 702,
-    "t": "$82 Million In Ethereum Just Left FalconX: Discover Who Is Behind It\n\nEthereum is trying to hold above $2,150. The market is waking up. And in the last hour, someone withdrew $82 million in ETH from an institutional prime brokerage — and the identity of that someone is the question the on-chain data is already trying to answer.…",
+    "t": "82 מיליון דולר של Ethereum עזבו את FalconX: גלו מי מאחורי זה\n\nEthereum מנסה להחזיק מעל ה-2,150 דולר בזמן שהשוק מתעורר. בשעה האחרונה, מישהו שלף 82 מיליון דולר בETH מ-FalconX, שהיא ברוקר מעיל ראשי למוסדות - והשאלה הגדולה היא מי בדיוק הוא החבר הזה. הנתונים על-שרשרת כבר מנסים לפתור את התעלומה הזאת.",
     "d": "2026-04-07T01:00:36Z",
     "v": 0,
     "l": [
@@ -17332,7 +17307,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 705,
-    "t": "【参加無料】コードを書かないアプリ開発の衝撃 ― SAMURAIが「Claude Code」による業務改善ウェビナーを開催（4/16）\n\n[株式会社SAMURAI]\n[画像1: https://prcdn.freetls.fastly.net/release_image/47683/239/47683-239-13863a8246588aed6270b65df1f302cc-1920x1280.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+    "t": "קוד? לא צריך! 🚀 סמוראי מציגה עיבוד נתונים בעזרת Claude Code - ובחינם!\n\nהחברה היפנית SAMURAI מזמינה אתכם לוובינר חינם שבו יוכלו למצוא כיצד AI וטכנולוגיית Claude Code משנים את אופן עבודתנו, ובלי צורך לכתוב אפילו שורת קוד אחת. זה כבר קרה - בעולם כזה, מי שלא מנצל את ה-AI לאוטומציה של עבודות שגרתיות פשוט נשאר מאחור.",
     "d": "2026-04-07T01:00:00Z",
     "v": 0,
     "l": [
@@ -17358,7 +17333,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 706,
-    "t": "aru-code 0.11.2\n\nA Claude Code clone built with Agno agents",
+    "t": "aru-code 0.11.2\n\nעוד קלון של Claude Code שהתבסס על Agno agents הגיע! המערכת הזו בנויה כדי לחקות את היכולות של Claude Code של Anthropic, אבל באמצעות framework של Agno agents - מה שאומר יותר גמישות וקנטרול על התהליכים. זה עוד כלי פתוח שמנסה להנגיש AI coding assistants בדרך אחרת ללא תלות בחברות גדולות.",
     "d": "2026-04-07T00:53:16Z",
     "v": 0,
     "l": [
@@ -17385,7 +17360,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 707,
-    "t": "ArtisanFlow: A Flowchart Engine for Laravel and Alpine.js\n\nArtisanFlow The flowchart engine Alpine.js never had. An open source, Node-based UIs built with directives you already know. Animation engine included.\n\n The post ArtisanFlow: A Flowchart Engine for Laravel and Alpine.js appeared first on Laravel News.\n Join …",
+    "t": "ArtisanFlow: מנוע Flowchart חדש ל-Laravel ו-Alpine.js\n\nסוף סוף יש ל-Alpine.js את מה שהיה חסר לו - ArtisanFlow, כלי open source למבנה node-based UI שעובד עם ה-directives שאתם כבר מכירים. הטובה הגדולה? זה כולל animation engine מלא שהופך את בניית flowcharts לחוויה חלקה ונעימה. תוספת שיכולה להצביע פעמים רבות את שפץ של פרויקטים ב-Laravel.",
     "d": "2026-04-07T00:51:46Z",
     "v": 0,
     "l": [
@@ -17477,7 +17452,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 711,
-    "t": "tokencostauto 0.1.586\n\nTo calculate token and translated USD cost of string and message calls to OpenAI, for example when used by AI agents",
+    "t": "tokencostauto 0.1.586\n\nכלי חדש שעוזר לחישוב עלות ה-tokens ובמחיר דולר של קריאות ל-API של OpenAI, וזה מועיל בעיקר כשעובדים עם AI agents שעושים הרבה קריאות. אם אתם משתמשים ב-ChatGPT או מודלים אחרים של OpenAI בפרויקט, הכלי הזה יעזור לכם לעקוב בדיוק אחרי זה כמה זה עולה לכם בכל ריצה.",
     "d": "2026-04-07T00:45:02Z",
     "v": 0,
     "l": [
@@ -17504,7 +17479,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 712,
-    "t": "Marik Hazan: Social media is reshaping journalism, AI will disrupt employment more than expected, and the cofounder model is unsustainable for AI startups | TWIST\n\nAI's rapid job displacement challenges the belief that humans will primarily use it as a tool.\nThe post Marik Hazan: Social media is reshaping journalism, AI will disrupt employment more than expected, and the cofounder model is unsustainable for AI startups …",
+    "t": "מריק חזן: מדיה חברתית משנה את עיתונות, AI יפגע בהעסקה יותר מהצפוי, ומודל המייסדים המשותף אינו בר קיימא לסטארטאפים של AI\n\nמריק חזן מעלה חשש משמעותי שAI לא תשמש רק ככלי בידי בני אדם, אלא תשחק תפקיד הרבה יותר גדול בתעסוקה ובתחליף העובדים. לצד זאת, הוא טוען שמדיה חברתית כבר שינתה את עולם העיתונות, ושמודל השותפות של מייסדים אינו מתאים לעידן של סטארטאפי AI שגדלים בקצב הזקפוני.",
     "d": "2026-04-07T00:42:41Z",
     "v": 0,
     "l": [
@@ -17550,7 +17525,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 714,
-    "t": "Liz Hoffman: Media acquisitions won’t solve tech’s narrative issues, OpenAI’s TPPN deal undermines credibility, and AI faces a significant perception problem | Big Technology\n\nOpenAI's media acquisition raises concerns about tech influence and the future of AI narratives.\nThe post Liz Hoffman: Media acquisitions won’t solve tech’s narrative issues, OpenAI’s TPPN deal undermines credibility, and AI faces a significant perception pro…",
+    "t": "ליז הופמן: רכישת מדיה לא תפתור את בעיות הנרטיב של טק, העסקה של OpenAI עם TPPN פוגעת באמינות ו-AI מתמודדת עם בעיית תפיסה משמעותית\n\nOpenAI משקלת שוב בעין ביקורתית - הפעם על רכישת גופי תקשורת שמעלה שאלות חמות על ההשפעה של חברות tech על הנרטיב סביב AI. ליז הופמן טוענת שרכישות מדיה כאלה לא רק לא יפתרו את בעיות האמינות של הענף, אלא עלולות להחמיר אותן. בקיצור: ל-AI יש בעיה קנוינות ציבורית גדולה, וקניית עיתונים לא זו הדרך לתקן אותה.",
     "d": "2026-04-07T00:38:31Z",
     "v": 0,
     "l": [
@@ -17568,10 +17543,9 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://static.cryptobriefing.com/wp-content/uploads/2026/03/03013851/podcast-cover-big-technology-800x420.jpg",
     "source": "Crypto Briefing"
   },
@@ -17600,7 +17574,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 716,
-    "t": "Godox KNOWLED P600R Hard P4 RGB LED Light Panel Review\n\nThe Godox P600R Hard P4 is a 600W RGB LED Light Panel with 4- zone pixel control, and it can also be used with a new optional adjustable diffusion system. The most interesting aspect of this release is that the fixture features a new ’adjustable diffusion sys…",
+    "t": "ביקורת: פנל ה-LED RGB של Godox KNOWLED P600R Hard P4\n\nגודוקס הביאה לשוק פנל LED בחוזקת 600W עם שליטה בעיכול ל-4 אזורים שונים, וזה כולל מערכת diffusion חדשה שניתן להתאים. מה שמעניין כאן הוא שהמכשיר מאפשר בקרה פיקסלית על כל אזור, מה שנותן ליוצרים גמישות חדשה לחלוטין בעיצוב התאורה שלהם.",
     "d": "2026-04-07T00:31:16Z",
     "v": 0,
     "l": [
@@ -17615,8 +17589,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "image-gen"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.newsshooter.com/wp-content/uploads/2026/03/DSC_9389.jpeg",
