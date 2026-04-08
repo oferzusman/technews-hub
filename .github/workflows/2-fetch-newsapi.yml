@@ -1,0 +1,33 @@
+name: "2. Fetch NewsAPI"
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: fetch-newsapi
+  cancel-in-progress: true
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm ci
+      - name: Fetch NewsAPI
+        run: node scripts/fetch-newsapi.js
+        env:
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+      - name: Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/articles.json
+          git diff --staged --quiet && echo "No changes" && exit 0
+          git commit -m "data: fetch newsapi"
+          git pull --rebase origin master
+          git push
