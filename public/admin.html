@@ -584,23 +584,29 @@
   <div class="section">
     <div class="section-title"><span class="dot"></span> הפעלת Workflows</div>
     <div class="workflow-grid">
-      <button class="workflow-btn" id="btn-fetch" onclick="triggerWorkflow('fetch.yml', this)">
+      <button class="workflow-btn" id="btn-fetch" onclick="triggerWorkflow('1-fetch-rss.yml', this)">
         <span class="workflow-icon">📡</span>
-        <span class="workflow-name">הפעל Fetch</span>
-        <span class="workflow-desc">שולף כתבות חדשות מכל ה-RSS sources ומתרגם "חם"</span>
+        <span class="workflow-name">Fetch RSS</span>
+        <span class="workflow-desc">שולף כתבות חדשות מכל ה-RSS sources</span>
         <span class="workflow-status" id="fetch-status"></span>
       </button>
-      <button class="workflow-btn" id="btn-translate" onclick="triggerWorkflow('translate-batch.yml', this)">
-        <span class="workflow-icon">🌐</span>
-        <span class="workflow-name">הפעל תרגום Batch</span>
-        <span class="workflow-desc">מתרגם עד 30 כתבות ממתינות לעברית</span>
-        <span class="workflow-status" id="translate-status"></span>
-      </button>
-      <button class="workflow-btn" id="btn-newsapi" onclick="triggerWorkflow('fetch.yml', this)" style="grid-column:span 2">
+      <button class="workflow-btn" id="btn-newsapi" onclick="triggerWorkflow('2-fetch-newsapi.yml', this)">
         <span class="workflow-icon">📰</span>
         <span class="workflow-name">Fetch NewsAPI</span>
-        <span class="workflow-desc">מפעיל את ה-fetch workflow שכולל גם שליפה מ-NewsAPI (נדרש NEWSAPI_KEY ב-GitHub Secrets)</span>
+        <span class="workflow-desc">שולף כתבות מ-NewsAPI (נדרש NEWSAPI_KEY ב-GitHub Secrets)</span>
         <span class="workflow-status" id="newsapi-status"></span>
+      </button>
+      <button class="workflow-btn" id="btn-translate" onclick="triggerWorkflow('3-translate.yml', this)">
+        <span class="workflow-icon">🌐</span>
+        <span class="workflow-name">תרגום</span>
+        <span class="workflow-desc">מתרגם כתבות ממתינות לעברית</span>
+        <span class="workflow-status" id="translate-status"></span>
+      </button>
+      <button class="workflow-btn" id="btn-build" onclick="triggerWorkflow('4-build-deploy.yml', this)">
+        <span class="workflow-icon">🏗️</span>
+        <span class="workflow-name">Build &amp; Deploy</span>
+        <span class="workflow-desc">בונה את קובצי הנתונים ומפרסם לאתר</span>
+        <span class="workflow-status" id="build-status"></span>
       </button>
     </div>
     <p style="font-size:.75rem;color:var(--text-light);margin-top:10px;text-align:center">
@@ -917,8 +923,7 @@ async function triggerWorkflow(workflowFile, btn) {
     return;
   }
 
-  const statusId = workflowFile === 'fetch.yml' ? 'fetch-status' : 'translate-status';
-  const statusEl = document.getElementById(statusId);
+  const statusEl = btn.querySelector('.workflow-status');
 
   btn.disabled = true;
   statusEl.style.color = 'var(--text-muted)';
