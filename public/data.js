@@ -302,7 +302,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "Apple shares sink on report of foldable iPhone delays\n\nThe company is reportedly facing engineering challenges in the development of the foldable phones, which are anticipated to launch later this year.",
+    "t": "מניות אפל צונחות על רקע דיווחים על עיכובים בפיתוח אייפון הקיפול\n\nאפל מתמודדת עם אתגרים הנדסיים משמעותיים בפיתוח ה-iPhone הקיפול, שהיה אמור להגיע לשוק עוד השנה. הדיווחים על הקשיים בפיתוח הזכוכית הגמישה וה-display היוקרתי גרמו לירידה בערך המניה של הענקית מ-Cupertino. לכאורה, העיכוב עלול להדחות את השיגור של המכשיר המפתיע הזה לרבעון הרביעי או אפילו לשנה הקרובה.\n\nמקור: CNBC Tech",
     "d": "Tue, 07 Apr 2026 17:31:42 GMT",
     "v": 0,
     "l": [
@@ -315,14 +315,11 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Apple"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://image.cnbcfm.com/api/v1/image/108269905-17720332362026-02-25t143034z_1357522177_rc21tja8ftkn_rtrmadp_0_spain-antitrust-apple-amazon.jpeg?v=1772033262&w=1920&h=1080",
     "source": "CNBC Tech"
   },
@@ -686,7 +683,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 29,
-    "t": "Trump Accounts put Robinhood in front of the next generation of investors, says CEO Vlad Tenev\n\nRobinhood's U.S. Treasury partnership will help drive emerging investors' exposure to the company, benefiting its future growth, according to Vlad Tenev.",
+    "t": "חשבונות טראמפ שמים את Robinhood מול הדור הבא של משקיעים, לפי ה-CEO וולד טנב\n\nRobinhood מחממת את המנועים עם שיתוף הפעולה החדש שלה עם ממשלת ארה״ב בתחום ה-Treasury, וזה יכול להביא הרבה משקיעים צעירים למנות שלה. לדברי ה-CEO, ההזדמנות הזו תוקעת את החברה בדיוק איפה שהיא צריכה להיות כדי לתפוס את הדור הבא של משקיעים וליצור קשר לטווח ארוך.",
     "d": "Tue, 07 Apr 2026 15:47:15 GMT",
     "v": 0,
     "l": [
@@ -703,7 +700,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://image.cnbcfm.com/api/v1/image/108242609-1765916541642-gettyimages-2227347116-img_0644.jpeg?v=1775574804&w=1920&h=1080",
     "source": "CNBC Tech"
   },
@@ -923,7 +920,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 39,
-    "t": "Broadcom shares climb as chipmaker agrees Google and Anthropic deals\n\nBroadcom shares climbed as the chip designer announced an extension to its deal with Google on Monday.",
+    "t": "מניות ברודקום עולות עם חתימת עסקות חדשות עם גוגל ואנתרופיק\n\nהמחירים של ברודקום זינקו השבוע לאחר שחברת הצ'יפים הודיעה על הרחבה משמעותית של ההסכם עם גוגל, וכמו שלא זה מספיק - העסקאות החדשות עם אנתרופיק מעידות שזה רק תחילת סיפור AI גדול יותר לברודקום. נראה שברודקום מצליחה להפוך את עצמה לחברה חיוני לתשתיות AI, וזה די משמעותי בשוק של היום.",
     "d": "Tue, 07 Apr 2026 14:16:33 GMT",
     "v": 0,
     "l": [
@@ -936,13 +933,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google",
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://image.cnbcfm.com/api/v1/image/108274232-1772723601513-gettyimages-2264127540-raa-broadcom260303_np0LU.jpeg?v=1775571957&w=1920&h=1080",
@@ -1319,7 +1312,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 56,
-    "t": "Trump's Iran deadline, the Altman-Musk feud, Novo's Wegovy pill and more in Morning Squawk\n\nHere are five key things investors need to know to start the trading day.",
+    "t": "סיום התקופה שטראמפ נתן לאיראן, הסכסוך בין אלמן למאסק, הגלולה החדשה של נובו ועוד בשידור הבוקר\n\nחמש דברים חיוניים שכל משקיע צריך לדעת לפני פתיחת הבורסה היום. מ-משחקי הכוח הגיאופוליטיים של ארה\"ב כל הדרך ליריבות בעולם ה-AI וחדשות פורצות בתחום הביוטק - זה שידור בוקר מלא בחדשות שעלולות להזיז בשוק.",
     "d": "Tue, 07 Apr 2026 12:14:21 GMT",
     "v": 0,
     "l": [
@@ -1711,7 +1704,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 72,
-    "t": "ASML shares fall after proposed U.S. export curbs target an already fragile China market\n\nProposed U.S. restrictions would target ASML's deep ultraviolet (DUV) lithography machine, which Chinese companies have so far been able to access.",
+    "t": "מניות ASML צונחות לאחר הצעת הגבלות אמריקאיות על יצוא המכוונות לשוק סיני שכבר נתון לחץ\n\nארה\"ב מתכננת להטיל הגבלות על מכונות DUV lithography של ASML, טכנולוגיה שחברות סיניות היו יכולות עד עכשיו להשיג בחופשיות. זה מכת קשה לענק ההולנדי שכבר סובל מסגור השוק הסיני, וזה בדיוק מה שבעלי המניות לא רצו לשמוע. מקור: CNBC Tech",
     "d": "Tue, 07 Apr 2026 10:26:22 GMT",
     "v": 0,
     "l": [
@@ -1901,7 +1894,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 80,
-    "t": "Samsung shares rise after profit seen jumping 8-fold on AI chip boom\n\nSamsung Electronics forecast record first-quarter operating profit that came in far above analyst estimates on booming demand for AI memory chips.",
+    "t": "מניות סמסונג עולות לאחר תחזוקה על קפיצת רווח פי 8 בגל ה-AI\n\nסמסונג אלקטרוניקס הצביעה על רווח תפעולי שיא ברבעון הראשון שחרג באופן משמעותי מהערכות האנליסטים, תוך כדי ביקוש מתפוצץ לשבבי זיכרון עבור AI. בקצרה, סמסונג בשפיץ עם ה-AI boom וזה מרגיש בעותק - ה-memory chips שלהם הם הכוכב הזוהר של הרבעון.",
     "d": "Tue, 07 Apr 2026 09:09:07 GMT",
     "v": 0,
     "l": [
@@ -2114,7 +2107,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 89,
-    "t": "Google AI Edge Eloquent\n\nDiscussion\n            |\n            Link",
+    "t": "גוגל AI Edge Eloquent\n\nגוגל משיקה כלי AI חדש שמסוגל לעבד מידע ישירות על ההתקן שלכם, ללא צורך בחיבור לשרתים. זה אומר שאפליקציות יוכלו להיות חכמות יותר, מהירות יותר ודורשות פחות נתונים - סיום אחד משלוש בעיות שהטריוו את עולם ה-AI עד עכשיו.",
     "d": "2026-04-07T02:10:40.000Z",
     "v": 0,
     "l": [
@@ -2127,12 +2120,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://ph-files.imgix.net/c826bbb7-630e-46fc-9186-87eb800863e6.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
@@ -2189,7 +2179,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 92,
-    "t": "Broadcom agrees to expanded chip deals with Google, Anthropic\n\nBroadcom said it agreed to produce future versions of Google artificial intelligence chips, and announced an expanded deal with Anthropic.",
+    "t": "Broadcom חותמת על הסכמים מורחבים לשבבים עם Google ו-Anthropic\n\nBroadcom הודיעה על הסכם היסטורי לייצור גרסאות חדשות של שבבי ה-AI של Google, וגם הרחיבה משמעותית את השיתוף פעולה שלה עם Anthropic. כל זה אומר שחברת הצ'יפים הגדולה הופכת ליותר ויותר קריטית לעולם ה-AI שמתפתח בקצב מטורף.",
     "d": "Tue, 07 Apr 2026 00:22:09 GMT",
     "v": 0,
     "l": [
@@ -2524,7 +2514,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 106,
-    "t": "OpenAI asks California, Delaware to investigate Musk's 'anti-competitive behavior' ahead of April trial\n\nOpenAI sent a letter to the California and Delaware attorneys general, urging them to investigate \"anti-competitive behavior\" by Elon Musk and his associates.",
+    "t": "OpenAI קוראת לחקירה של מוסק על התנהגות אנטי-תחרותית לפני משפט באפריל\n\nOpenAI שלחה מכתב לפרקליטות מחוזיות בקליפורניה ודלוור, וביקשה להחיל חקירה על התנהגות אנטי-תחרותית של אלון מוסק והקשורים אליו. המהלך מגיע לפני משפט צפוי באפריל בין החברות, במסגרת סכסוך ממושך שמתעמק סביב אחריות פורשנות ותנאי ההקמה של OpenAI.",
     "d": "Mon, 06 Apr 2026 21:08:24 GMT",
     "v": 0,
     "l": [
@@ -2542,8 +2532,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://image.cnbcfm.com/api/v1/image/108185317-1755093438430-Untitled-1.jpg?v=1755093491&w=1920&h=1080",
@@ -2718,7 +2707,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 114,
-    "t": "Silkwave Voice\n\nDiscussion\n            |\n            Link",
+    "t": "סילקוויב וויס - טכנולוגיית קול חדשה\n\nנראה שמדובר בטכנולוגיית קול חדשה שהופיעה ב-Product Hunt, אבל המידע המדויק על המוצר עדיין לא ברור לי מהתיאור המינימליסטי הזה. אם אתה יכול לשתוף עוד פרטים על מה בדיוק Silkwave Voice עושה, אשמח לכתוב ספיץ כהלכה על הטכנולוגיה הזו!",
     "d": "2026-04-06T19:55:20.000Z",
     "v": 0,
     "l": [
@@ -7127,7 +7116,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 292,
-    "t": "Microsoft is the worst performing Mag 7 stock this year. Goldman believes that's about to change\n\nMicrosoft is likely to see some upside from its push to integrate AI into its 365 offering, according to Goldman Sachs.",
+    "t": "מיקרוסופט היא המניה הגרועה ביותר בקבוצת Mag 7 השנה. גולדמן סאקס חושב שזה עומד להשתנות\n\nגולדמן סאקס משוויץ סוגדת שמיקרוסופט עומדת לקבל דחיפה משמעותית בעקבות שילוב AI לתוך הסוויטה של 365, וזה יכול להיות הרכיבה שתעיף את המניה מהבור שהיא בו כרגע. אם הם צודקים, המשקיעים שנזנחו את הענקית התוכנה אולי כבר התחרטו על זה. מקור: CNBC Tech",
     "d": "Mon, 06 Apr 2026 15:27:20 GMT",
     "v": 0,
     "l": [
@@ -7140,12 +7129,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://image.cnbcfm.com/api/v1/image/108285611-1774982732434-gettyimages-2269268520-emaz-1_em14045.jpeg?v=1774982853&w=1920&h=1080",
@@ -8177,7 +8163,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 336,
-    "t": "Hope for a U.S.-Iran deal, Apple's anniversary, OpenAI's podcast deal and more in Morning Squawk\n\nHere are five key things investors need to know to start the trading day.",
+    "t": "תקווה להסכם בין ארה\"ב לאיראן, יום הולדת של אפל, עסקת הפודקאסט של OpenAI ועוד\n\nאפל חוגגת יום הולדת משמעותי, OpenAI סוגרת עסקה מעניינת בתחום הפודקאסטים, והשיחות בין ארה\"ב לאיראן מחזירות תקווה - הנה חמש כתבות שהמשקיעים חייבים לדעת לפני פתיחת מסחר היום. ניוזלטר דיילי מ-CNBC Tech עם כל מה שחשוב בעולם הטכנולוגיה והביטקוין.",
     "d": "Mon, 06 Apr 2026 11:43:34 GMT",
     "v": 0,
     "l": [
@@ -8191,13 +8177,11 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Apple"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "model",
-      "product"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://image.cnbcfm.com/api/v1/image/108286701-1775141357628-gettyimages-2268834232-Trump_Iran_US.jpeg?v=1775141405&w=1920&h=1080",
@@ -8610,7 +8594,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 354,
-    "t": "AI data center boom ‘stress tests’ insurers as private capital floods in\n\nRapid technological advancements and the huge sums of money flowing into the data center are posing both risks and rewards for insurers.",
+    "t": "בום מרכזי נתונים של AI 'בוחן את גבולות' חברות הביטוח כהון פרטי זורם\n\nהתקדמויות טכנולוגיות מהירות וסכומים ענקיים של כסף שנשפכים למרכזי הנתונים יוצרים גם סיכונים וגם הזדמנויות לחברות הביטוח. עם ההשקעות המעוקות בתשתיות AI, מעבדות הביטוח נאלצות להתמודד עם אתגרים חדשים שעד כה לא הכירו.",
     "d": "Mon, 06 Apr 2026 05:38:40 GMT",
     "v": 0,
     "l": [
@@ -9887,7 +9871,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 408,
-    "t": "$1,700 liquid-cooled phone can run GTA V at up to 100 FPS, Red Dead 2 at 50+ FPS via emulation — Redmagic 11 Pro packs 24 GB of RAM and pulls more than 40W at peak load\n\nThe Golden Saga Edition of the Redmagic 11 Pro is equipped with 24 GB of RAM and an even more robust liquid cooling system that can pull upwards of 45W while emulating Red Dead 2, delivering 50+ FPS. The phone costs around $1,700, but for that money, you're getting GTA V running at up to 100 FPS on a device that just happens to make calls, too.",
+    "t": "טלפון מקורר נוזלי ב-1,700 דולר משחק GTA V ב-100 FPS וRed Dead 2 ב-50+ FPS דרך אמולציה — Redmagic 11 Pro עם 24GB RAM וצריכת חשמל של 40W\n\nה-Redmagic 11 Pro Golden Saga Edition הוא בעצם מחשב משחקים קטן שקורא לך גם בטלפון, עם 24GB RAM וטכנולוגיית קירור נוזלי שמרתיעה אפילו את המעבדים הכי חזקים. בתמורה ל-1,700 דולר אתה מקבל GTA V שרץ ב-100 FPS ו-Red Dead 2 בערך 50+ FPS דרך אמולציה, כל זה תוך שהטלפון שומר על עצמו ממתפץ לטמפרטורות משוגעות. זו כמובן חיידק גיימינג במיוחד, אבל אם אתה אוהב משחקים כבדים על הסמארטפון שלך, הגדל כאן סתם קיים.",
     "d": "Sun, 05 Apr 2026 10:20:00 +0000",
     "v": 0,
     "l": [
@@ -9910,7 +9894,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 409,
-    "t": "OpenAI's Fidji Simo takes medical leave, announces leadership changes\n\nOpenAI President Greg Brockman will oversee product in Simo's absence.",
+    "t": "פידג'י סימו מ-OpenAI יוצאת לחופשת בריאות וחברה מכריזה על שינויים בנהלת\n\nגרג ברוקמן, נשיא OpenAI, לוקח על עצמו את פיקוח המוצרים בזמן היעדרותה של סימו. המהלך מגיע בתקופה של שינויים ניהוליים בחברה שנמצאת בחזית המירוץ ל-AI.",
     "d": "Sun, 05 Apr 2026 10:02:42 GMT",
     "v": 0,
     "l": [
@@ -9930,13 +9914,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://image.cnbcfm.com/api/v1/image/107301539-1694788928315-gettyimages-1239231815-INSTACART_SIMO.jpeg?v=1775246186&w=1920&h=1080",
     "source": "CNBC Tech"
   },
   {
     "id": 410,
-    "t": "Polymarket removes wagers on U.S. service member rescue mission in Iran\n\nRep. Seth Moulton, D-Mass., called the market \"DISGUSTING\" and said bettors were wagering on whether American troops would be saved.",
+    "t": "Polymarket הסירה הימורים על משימת חילוץ של חיילים אמריקאים באיראן\n\nפוליטיקאי דמוקרטי זעם על פלטפורמת ההימורים החזוויתיים שאפשרה למשקיעים להמר על גורל של חיילים אמריקאים שנתפסו, וקרא לזה 'מסריח'. Polymarket, שנבנתה על בלוקצ'יין, מצאה עצמה בעיצומה של סערה ציבורית בגלל הרישום הבעייתי הזה.",
     "d": "Sun, 05 Apr 2026 10:02:03 GMT",
     "v": 0,
     "l": [
@@ -10006,7 +9990,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 413,
-    "t": "Apple approves drivers that let AMD and Nvidia eGPUs run on Mac — software designed for AI, though, and not built for gaming\n\nThe company behind the tiny box AI accelerator says that its macOS driver for Nvidia eGPUs has just been signed by Apple, making it a legitimate software for Macs and no longer needs workarounds to work with the device.",
+    "t": "אפל אישרה דריברים ל-AMD ו-Nvidia eGPU למק — כלים למכונות עם AI, לא לגיימינג\n\nסוף סוף קרה - אפל חתמה על דרייברים רשמיים של Nvidia עבור ה-eGPU שלהם במק, מה שאומר שאפשר להשתמש בהם כמו שצריך ללא תעלולים טכניים. זה משנה כלל משחק למי שעובד עם AI ו-ML על מק, אבל למי שחשב שיוכל לשחק משחקים כבדים - אתם בינתיים תישארו עם אפל סיליקון הרגול.",
     "d": "Sun, 05 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -10020,13 +10004,11 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Nvidia",
-      "Apple"
+      "Nvidia"
     ],
     "tags": [
       "news",
-      "hardware",
-      "product"
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/zF564d7AMEAgkC2hWKptBh-1280-80.png",
@@ -10034,7 +10016,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 414,
-    "t": "Player defeats Darks Souls II using only poop — 42 hits of dung pie defeats the final boss\n\nGamer and YouTuber ymfah spent a lot of time figuring out how to farm dung pies in Dark Souls II to defeat the game using just poop.",
+    "t": "שחקן הביס את Dark Souls II באמצעות צואה בלבד — 42 כדורי זבל הביסו את הבוס הסופי\n\nה-YouTuber ymfah הקדיש זמן רב לפתר איך לעשות farm כדורי דונג בـ Dark Souls II כדי להביס את המשחק באמצעות כדורי צואה בלבד. זה אחד מהאתגרים המטורפים שחלק מהשחקנים אוהבים לעשות כדי להוכיח שאפשר לנצח משחק בדרכים הכי מגוחכות שאפשר.",
     "d": "Sun, 05 Apr 2026 09:45:00 +0000",
     "v": 0,
     "l": [
@@ -10291,7 +10273,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 425,
-    "t": "Trump warns Iran '48 hours before all Hell will reign down,' while search for missing crew member intensifies\n\nThe U.S. military continued to search for a missing American airman on Saturday after an F-15E fighter jet was shot down over southwestern Iran.",
+    "t": "טראמפ מאיים על איראן: '48 שעות לפני שכל הגיהנום ישתחרר', בזמן שחיפוש אחרי טייס אמריקאי נעדר מתעצמת\n\nצה\"ל האמריקאי ממשיך בחיפוש אחרי טייס אמריקאי שנעדר לאחר שמטוס קרב F-15E הופל מעל סוריה. האווירוח האמריקאית נמצאת במצב כשרון גבוה, ובינתיים טראמפ הוציא אזהרה חמה לעבר איראן.",
     "d": "Sat, 04 Apr 2026 22:40:32 GMT",
     "v": 0,
     "l": [
@@ -10406,7 +10388,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 430,
-    "t": "LinkedIn is spying on you, according to a new 'BrowserGate' security report — scripts stealthily scan visitors' browsers for over 6,000 Chrome extensions and harvest hardware data\n\nLinkedIn is understood to inject a JavaScript fingerprinting script on every page load that probes visitors' browsers for 6,236 installed Chrome extensions and collects detailed device telemetry.",
+    "t": "לינקדאין מרגלת אתכם - דוח ביטחוני חדש חושף סקריפט שסורק 6,000+ הרחבות בכרום\n\nמסתבר שלינקדאין מזריק סקריפט JavaScript לכל עמוד שמסרוק את הדפדפן שלכם ובודק איזו הרחבות של Chrome יש לכם מותקנות, בנוסף לאיסוף נתוני חומרה רגישים. זה בעצם פינגרפרינטינג של הדיוק שלכם בלי שתדעו, ומעלה שאלות חמורות על פרטיות ותכנית אסטרטגית של גיוס מידע.",
     "d": "Sat, 04 Apr 2026 16:46:32 +0000",
     "v": 0,
     "l": [
@@ -10421,10 +10403,9 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/S4CAxayvctKvjehGtVneQe-1280-80.jpg",
     "source": "Tom's Hardware"
   },
@@ -10503,7 +10484,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 434,
-    "t": "McDonald’s debuts one-finger gadget that lets you move your character to 'keep you in the game' while you chow down — Pro Gamer Menu's ‘Archie’ designed to keep you from being kicked for inactivity\n\nMcDonald’s Türkiye AFK solution will help keep gamers online during meal breaks without getting kicked from the match.",
+    "t": "מקדונלד'ס חשפה מכשיר חד-אצבע שמזיז את הדמות שלך כדי להישאר בקרב — תפריט 'ארצ'י' של Pro Gamer שמונע התנתקות\n\nמקדונלד'ס טורקיה יצאה עם פתרון חכם לבעיית ה-AFK: כשאתה יושב וממלא את הבטן שלך בהמבורגר, המכשיר הקטן הזה משמור לך מלהיקלע חוץ מהמשחק בגלל חוסר פעילות. זה בעצם כמו לעסוק במשחק בחצי שכל בזמן שאתה אוכל בשלום.",
     "d": "Sat, 04 Apr 2026 15:36:09 +0000",
     "v": 0,
     "l": [
@@ -10526,7 +10507,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 435,
-    "t": "Nvidia AI tech claims to slash gaming GPU memory usage by 85% with zero quality loss — Neural Texture Compression demo reveals stunning visual parity between 6.5GB of VRAM and 970MB\n\nNvidia has just demoed its Neural Texture Compression technique again at a GTC talk, where it showed VRAM usage dropping from 6.5 GB to just 970 MB in a scene. NTC uses a neural network to decompress textures instead of standard block-based compression, reducing texture size and VRAM usage while also improving final image quality.",
+    "t": "Nvidia חוסכת 85% מזיכרון GPU בעזרת AI - ללא ירידה באיכות התמונה\n\nNvidia הדגימה שוב את טכנולוגיית Neural Texture Compression שלה וגרמה לצריכת הזיכרון להצנח מ-6.5GB לסך של 970MB בלבד. הטריק הוא להשתמש ברשת נוירונית לפירוק של Textures במקום compression בלוקים קלאסי, דבר שמאפשר חיסכון ענק בזיכרון תוך שהתמונה למעשה נראית עדיפה. Tom's Hardware",
     "d": "Sat, 04 Apr 2026 15:33:31 +0000",
     "v": 0,
     "l": [
@@ -10601,7 +10582,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 438,
-    "t": "Unprecedented $450 price slash brings 27-inch 1440p 280 Hz OLED gaming monitor down to $399 — LG UltraGear OLED 27GX700A-B now at an unbeatable Price\n\nLG’s 27-inch 280 Hz OLED gaming monitor sees a massive price drop, with a promo code bringing it down to $399.",
+    "t": "מסך OLED גיימינג של LG בהנחה היסטורית - מסך 27 אינץ' 1440p ב-280Hz יורד ל-399 דולר\n\nLG UltraGear OLED 27GX700A-B - מסך הגיימינג החדש של אל ג'י - זוכה להנחה מטורפת שמוריד אותו מ-850 דולר ל-399 בלבד! כן, זה לא טעות - מסך OLED ענק עם 280Hz ריענון מהיר יותר מחשמל, ב-1440p ובמחיר שפחות או יותר נראה אגדה. אם חיפשתם תירוץ לשדרג את הסטפ שלכם, זה הזמן.",
     "d": "Sat, 04 Apr 2026 14:50:03 +0000",
     "v": 0,
     "l": [
@@ -10624,7 +10605,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 439,
-    "t": "Iranian missile blitz takes down AWS data centers in Bahrain and Dubai — Amazon reportedly declares “hard down” status for multiple zones\n\nInternal company communications indicate that multiple zones at AWS Bahrain and Dubai are \"hard down,\" with no timeline for service restoration.",
+    "t": "הימים הקשים של AWS במזרח התיכון: מרכזי נתונים בבחריין ודובאי מושבתים לאחר התקפת טילים איראנית\n\nAWS חוותה נזק משמעותי למתקניה באזור - מספר אזורי שירות בבחריין ודובאי הוכרזו כ'hard down' וחברת אמזון עדיין לא הצליחה לתת תאריך חזרה לשירות. ההודעות הפנימיות של הענקית הטכנולוגית מצביעות על מצב קשה שיוביל כנראה להפרעות משמעותיות לעסקים שתלויים בשירותי ה-cloud של אמזון בטווח הקרוב.",
     "d": "Sat, 04 Apr 2026 14:48:12 +0000",
     "v": 0,
     "l": [
@@ -10644,13 +10625,13 @@ window.TELEGRAM_DATA = [
       "news",
       "product"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/83tohMm46WQCYhhbLZ9CT6-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 440,
-    "t": "Sharge Disk Pro 2TB review: Great sustained writes, active cooling, and a built-in hub\n\nSharge's Disk Pro pairs a snappy 10 Gbps SSD with a handy port hub and active cooling, all in a compact, eye-catching shell with a magnetic back. It's an impressive package for gamers and road warriors, but you'll pay a high price for all these features.",
+    "t": "ביקורת Sharge Disk Pro 2TB: כתיבה יציבה, קירור אקטיבי והאב מחברים מובנה\n\nSharge Disk Pro היא כונן SSD קומפקטי וסטיילי שמשלב מהירות של 10 Gbps עם האב מחברים שימושי וקירור אקטיבי - סידור מוצלח למשחקנים ונוודעים. זה כמו להביא לקנקן את כל מה שחסר לך בכונן אחד חכם, אבל כמו הרבה דברים טובים בחיים, זה יעלה לך מעט יותר מכיס.\n\nמקור: Tom's Hardware",
     "d": "Sat, 04 Apr 2026 14:16:59 +0000",
     "v": 0,
     "l": [
@@ -10772,7 +10753,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 445,
-    "t": "Hands-on with Modos Tech 13.3-inch e-paper monitors — we tried the current Dev Kit model and the next-gen Modos Flow touch\n\nModos Tech sent us a couple of its latest e-paper monitors for some hands-on time.",
+    "t": "בדיקה מעמיקה: מוניטורים e-paper בגודל 13.3 אינץ' של Modos Tech — ניסינו את ה-Dev Kit וגם את ה-Modos Flow החדש עם מסך טאץ'\n\nModos Tech שלחה לנו כמה מהמוניטורים החדשים שלה לבדיקה אמיתית, וזה בסדר גדול עבור כל מי שחולם על צג אלקטרוני שלא מעייף את העיניים. ניסינו גם את הדגם הנוכחי וגם את הדור הבא עם יכולת터ץ' מלאה, ויש כאן כמה דברים מעניינים שחייבים לדעת.",
     "d": "Sat, 04 Apr 2026 13:00:00 +0000",
     "v": 0,
     "l": [
@@ -10887,7 +10868,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 450,
-    "t": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win\n\nIn dominating consumer devices, Apple sold users on the promise of privacy. To compete in AI, it may have to pivot.",
+    "t": "אפל בגיל 50: יצרנית האייפון 'מפסידה יתרון של 5 שנים' ב-AI, אך מפכ\"לים לשעבר טוענים שהיא עדיין יכולה לנצח\n\nאפל בנתה את האימפריה שלה על הבטחה למשתמשים של פרטיות מוחלטת, אבל בעולם של AI המתפתח במהירות, היא אולי צריכה לחשוב שוב על האסטרטגיה שלה. בעודה מתחרה ענקים כמו Google ו-OpenAI בעלות יתרון משמעותי בתחום החדש, יוטם בעלי ניסיון בחברה מעלים את הגוף שאם אפל תזוז במהירות ובחוכמה, עדיין יש לה הרבה מה לתת לזירה הקטחונית של AI.",
     "d": "Sat, 04 Apr 2026 12:00:01 GMT",
     "v": 0,
     "l": [
@@ -10901,11 +10882,12 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Apple"
+      "OpenAI",
+      "Google"
     ],
     "tags": [
       "news",
-      "product"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://image.cnbcfm.com/api/v1/image/108286109-1775061653360-apple50v11.jpg?v=1775061717&w=1920&h=1080",
@@ -10913,7 +10895,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 451,
-    "t": "Modder uses Claude AI to rewrite BIOS so they can boot unsupported 12 P-core Bartlett Lake CPU in Windows on a Z790 motherboard\n\nA modder has successfully booted a 12-core Bartlett Lake-S CPU into Windows using a modified BIOS on an Asus Z790 motherboard.",
+    "t": "מודר השתמש ב-Claude AI כדי לכתוב מחדש BIOS והצליח להריץ מעבד Bartlett Lake בלתי נתמך ב-Windows על לוח Z790\n\nמודר חכם השתמש בכוחה של Claude AI כדי לשכתב את ה-BIOS וזה הצליח להריץ מעבד Bartlett Lake עם 12 ליבות שלא היה אמור לעבוד על לוח אם אש Z790 - יוצא דופן! בדרך כלל אינטל לא מאפשרת דברים כאלה, אבל הפעם הצליחו לעקוף את ההגבלות ולהעלות את ווינדוס בשלום על החומרה 'לא תומכת' הזו.",
     "d": "Sat, 04 Apr 2026 11:20:00 +0000",
     "v": 0,
     "l": [
@@ -11328,7 +11310,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 468,
-    "t": "'Chasing vibes' — OpenAI's M&A strategy gets more confusing with TBPN purchase\n\nOver 10 months after shelling out an eye-popping $6.4 billion for Jony Ive's nascent devices startup, OpenAI announced it's buying media company TBPN.",
+    "t": "'רודפים vibes' — אסטרטגיית הרכישות של OpenAI הופכת עוד יותר מבלבלת עם קנייה של TBPN\n\nOpenAI המשיכה בתזמורת הרכישות המוזרה שלה - אחרי שהוציאה 6.4 מיליארד דולר על סטארטאפ של Jony Ive לתקשורת חזותית, הם הודיעו על קנייה של חברת המדיה TBPN. יוצא שלאתר האקורים של Altman ו-חברים, אף אחד לא ממש בטוח למה הם קונים כל כך הרבה דברים שלא קשורים זה לזה. המהלך הזה עלה שוב את השאלות על היכן בדיוק שואף OpenAI להגיע בשנים הקרובות.",
     "d": "Fri, 03 Apr 2026 22:13:34 GMT",
     "v": 0,
     "l": [
@@ -11346,10 +11328,9 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://image.cnbcfm.com/api/v1/image/108254535-1768938570729-gettyimages-2236933448-250925_FBER_PHT001.jpeg?v=1775172857&w=1920&h=1080",
     "source": "CNBC Tech"
   },
@@ -11781,7 +11762,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 487,
-    "t": "Meta, Google under attack as court cases bypass 30-year-old legal shield\n\nInternet platforms have long been able to rely on special protections to avoid liability for what takes place on their sites. But that may be changing.",
+    "t": "מטא וגוגל תחת התקפה: חברות טכנולוגיה מאבדות את ההגנה המשפטית שלהן לאחר 30 שנה\n\nפלטפורמות אינטרנט התרוממו כל הזמן על הגנה משפטית מיוחדת שחוסמת תביעות נגדן על תוכן של משתמשים - אבל נראה שהימים של הגנה זו סגורים. בתי משפט החלו לעקוף את החוק הישן, וזה אומר שמטא וגוגל עלולות להיות אחראיות על מה שקורה בפלטפורמות שלהן כמו מעולם לפני כן.",
     "d": "Fri, 03 Apr 2026 17:07:55 GMT",
     "v": 0,
     "l": [
@@ -11794,13 +11775,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google",
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://image.cnbcfm.com/api/v1/image/108266840-17714329042026-02-18t163808z_1629958723_rc2gojax1yfx_rtrmadp_0_socialmedia-trial.jpeg?v=1771432942&w=1920&h=1080",
