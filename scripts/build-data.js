@@ -97,8 +97,7 @@ async function main() {
   // Include all articles; use translated text when available, fall back to English
   const translated = db.articles
     .slice()
-    .sort((a, b) => new Date(b.pub_date) - new Date(a.pub_date))
-    .slice(0, 500);
+    .sort((a, b) => new Date(b.pub_date) - new Date(a.pub_date));
 
   console.log(`Building data.js from ${translated.length} translated articles...`);
 
