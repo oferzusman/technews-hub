@@ -842,7 +842,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 36,
-    "t": "Alphabet, Meta, Amazon, Nvidia lead tech rally after Trump announces ceasefire with Iran\n\nPresident Donald Trump's Iran ceasefire announcement provided some relief to Wall Street and tech stocks shared in the rally.",
+    "t": "אלפבית, מטא, אמזון ו-נוידיה בראש העלייה הטכנולוגית לאחר הכרזת טראמפ על הפסקת אש עם איראן\n\nהכרזתו של נשיא דונלד טראמפ על הפסקת אש עם איראן הביאה הקלה לוול סטריט, והחברות הטק שלנו נהנו מעלייה משמעותית בשווקים. גדולי הטכנולוגיה - גוגל, פייסבוק, אמזון ונוידיה - הובילו את ההיתוך השוקי בעקבות החדשות הגיאופוליטיות החיוביות.",
     "d": "Wed, 08 Apr 2026 21:28:06 GMT",
     "v": 0,
     "l": [
@@ -855,24 +855,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta",
-      "Nvidia",
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "hardware",
-      "product"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 37,
-    "t": "OpenAI will allocate IPO shares to retail investors as it preps for debut, CFO says\n\nCRO Denise Dresser said enterprise is now 40% of the company's revenue and is set to equal consumer by the end of 2026.",
+    "t": "OpenAI תעניק מניות בהנפקה גם להשקעים קטנים - המשימה להשקה ממשיכה\n\nבחדשות חמות מהחברה - OpenAI מתכננת להעניק חלק מהמניות בהנפקה הציבורית גם לאנשים רגילים, לא רק למוסדות גדולים. ובדרך אגב, נוצר יחס חדש בחברה: הכנסות מחברות עסקיות כבר מהוות 40% מההכנסות הכוללות של OpenAI, והעלייה שלהן כל כך חדה שעד סוף 2026 היא אמורה להשתוות לחלוטין להכנסות מקטעי הצרכן. זה אומר שהעסקים השתלטו על המשחק.",
     "d": "Wed, 08 Apr 2026 21:23:22 GMT",
     "v": 0,
     "l": [
@@ -1116,7 +1109,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 47,
-    "t": "Latest investigation into bitcoin founder ties identity to Blockstream CEO Adam Back\n\nA report by The New York Times says it has discovered the identity of the pseudonymous creator of bitcoin known as Satoshi Nakamoto.",
+    "t": "חקירה חדשה חושפת קשר בין מייסד ביטקוין לבין מנכ\"ל Blockstream אדם בק\n\nעל פי דיווח של ה-New York Times, עיתון מובילה גילתה לכאורה את זהותו של סאטושי נקמוטו, היוצר הסתום של ביטקוין. הדיווח מקשר בין הזהות הזו לאדם בק, מנהיג חברת Blockstream המשפיעה בעולם הקריפטו. זו רק העדכנה האחרונה בסגה המסתורית של מי באמת עומד מאחורי המטבע הדיגיטלי שגם שינה את העולם.",
     "d": "Wed, 08 Apr 2026 20:02:50 GMT",
     "v": 0,
     "l": [
@@ -1133,7 +1126,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
@@ -1304,7 +1297,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 55,
-    "t": "Meta debuts new AI model, attempting to catch Google, OpenAI after spending billions\n\nMeta debuted its first major large language model, Muse Spark, spearheaded by chief AI officer Alexandr Wang, who leads Meta Superintelligence Labs.",
+    "t": "מטא חושפת מודל AI חדש ומנסה להיתפס לגוגל ו-OpenAI אחרי השקעה של מיליארדים\n\nמטא השיקה את מודל השפה הגדול הראשון שלה בשם Muse Spark, תחת הנהגתו של Alexandr Wang, קצין ה-AI הראשי של החברה שמנהל את Meta Superintelligence Labs. זה צעד משמעותי במרוץ ה-AI שבו מטא מנסה סוף סוף להישמע כמו שחקן מרכזי, לא רק כחברה שמנסה להתעדכן.",
     "d": "Wed, 08 Apr 2026 18:48:28 GMT",
     "v": 0,
     "l": [
@@ -1319,17 +1312,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [
       "OpenAI",
-      "Google",
       "Meta",
       "Amazon"
     ],
     "tags": [
       "news",
       "model",
-      "product",
-      "funding"
+      "product"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
@@ -1605,7 +1596,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 67,
-    "t": "Microsoft developer tools executive Julia Liuson is retiring after 34 years\n\nWhen GitHub head Thomas Dohmke left last year, three top GitHub executives started reporting to her.",
+    "t": "ג'וליה ליוסון, מנהלת כלי הפיתוח של מיקרוסופט, פורשת לאחר 34 שנה\n\nאחרי שראש GitHub תומס דומקה עזב את התפקיד בשנה שעברה, שלושה מנהלים בכירים ב-GitHub התחילו לדווח ישירות לליוסון. עכשיו, אישה שהייתה מחוברת למיקרוסופט כמעט שלוש דקות של שנים, מחליטה לעזוב את הרכס של ענקית הטכנולוגיה.",
     "d": "Wed, 08 Apr 2026 17:14:26 GMT",
     "v": 0,
     "l": [
@@ -1618,14 +1609,11 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
@@ -1703,7 +1691,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 71,
-    "t": "AMD reveals $899 price tag for Ryzen 9 9950X3D2 — first dual-cache X3D CPU is $200 more expensive than the Ryzen 9 9950X3D\n\nAMD revealed its upcoming Ryzen 9 9950X3D2 will launch for $899 on April 22, which marks a $200 price increase over the previous Ryzen 9 9950X3D.",
+    "t": "AMD חושפת: Ryzen 9 9950X3D2 יעלה 899 דולר — המעבד X3D הראשון עם dual-cache יקר ב-200 דולר מהדגם הקודם\n\nAMD כרגע חושפת שה-Ryzen 9 9950X3D2 החדש שלה יעלה 899 דולר כשיגיע לשוק ב-22 באפריל, וזה בעצם הגדלה של 200 דולר בהשוואה לדגם הקודם 9950X3D. עוד דבר מעניין — זה יהיה ה-CPU X3D הראשון עם טכנולוגיית dual-cache, שאמורה לתת boost משמעותי לביצועים, בעיקר בגיימינג וביישומים heavy-duty.",
     "d": "Wed, 08 Apr 2026 16:47:06 +0000",
     "v": 0,
     "l": [
@@ -1875,7 +1863,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 78,
-    "t": "Anthropic gives our cyber stocks and other big tech names an AI stamp of approval\n\nUnlike past Anthropic announcements that resulted in cyber and tech selling, this one was a breath of fresh air.",
+    "t": "אנתרופיק נותנת חתימת אישור AI לאנשי הציבור ולחברות טק גדולות\n\nבניגוד להודעות קודמות של אנתרופיק שגרמו למכירות בסקטור הסייבר וטק, הפעם זה היה נשמת אוויר טרייה לשוק - כמו שאומרים בבורסה, לא כל הודעה של ענקי AI היא בהכרח רע לתיקייה שלך.",
     "d": "Wed, 08 Apr 2026 16:02:15 GMT",
     "v": 0,
     "l": [
@@ -1888,12 +1876,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -2255,7 +2240,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 94,
-    "t": "Bain Capital's data center unit removes disgraced tenant suspected of smuggling Nvidia GPUs to China — Megaspeed previously alleged to have spent roughly $2 billion on AI processors for illicit distribution\n\nMegaspeed gets final nail in its coffin after Bridge Data Centers cancels its tenancy and replaces it with U.S.-based Zenplayer.",
+    "t": "יחידת מרכזי הנתונים של Bain Capital משחררת דייירה חשודה בהברחת GPU של Nvidia לסין — Megaspeed הוגשה כאל החזיקה בכ-2 מיליארד דולר למעבדים לפיזור בלתי חוקי\n\nMegaspeed קיבלה את הדק האחרון עם ביטול החוזה בידי Bridge Data Centers, שהחליפה אותה ב-Zenplayer אמריקאית. תיק השוד הגיבור של Nvidia GPUs לסין סגור סוף סוף, ברור שהחברה שהתנהלה בדרכים אפלות לא תעמוד בחוזים של אדם ישר כמו Bain Capital.",
     "d": "Wed, 08 Apr 2026 14:47:54 +0000",
     "v": 0,
     "l": [
@@ -2273,10 +2258,9 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "hardware",
-      "funding"
+      "hardware"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/ibEpXbFzhNegj42rkqPzgZ-1280-80.jpg",
     "source": "Tom's Hardware"
   },
@@ -2374,7 +2358,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 99,
-    "t": "British cryptographer Adam Back is the secret creator of Bitcoin, claims new report — Back refutes investigation, says parallels to Satoshi are just a coincidence\n\nThe hunt for Satoshi Nakamoto has circled back to a likely candidate, Adam Back, thanks to a New York Times article that draws striking parallels between the two. Back denies being Satoshi, saying it's all just a coincidence and confirmation bias on behalf of the reporter. The 40-page-long investigation goes over decades of evidence to try to prove otherwise.",
+    "t": "הקריפטוגרף הבריטי אדם בק הוא יוצר ביטקוין הסודי, טוען דו\"ח חדש — בק מכחיש והוא אומר שזה רק צירוף מקרים\n\nחקירה חדשה של ניו יורק טיימס חוזרת לנושא הישן של מי בעצם הוא סאטושי נקמוטו, והפעם האצבע מצביעה על אדם בק, הקריפטוגרף הבריטי הוותיק. בק שלל בתוקף את הטענות ואמר שזה סתם צירוף מקרים והטיה של הכתב, אבל הדו\"ח בן 40 העמודים מוביל הוכחות מעניינות שנמשכות על פני עשרות שנים של עבודה בתחום ה-crypto.",
     "d": "Wed, 08 Apr 2026 14:22:34 +0000",
     "v": 0,
     "l": [
@@ -2387,14 +2371,11 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/bZJ4KyQj9FyorGQFWFCfdT-1280-80.jpg",
     "source": "Tom's Hardware"
   },
@@ -2668,7 +2649,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 111,
-    "t": "Tech industry lays off nearly 80,000 employees in the first quarter of 2026 — almost 50% of affected positions cut due to AI\n\nMany of these job cuts are blamed on AI, but some experts say that it's actually caused by bad business decisions or corporate pivots. Still, they do not discount the disruption that AI will have on the job market, even as some companies buck the trend and hire more junior roles.",
+    "t": "תעשיית הטק פיטרה כ-80,000 עובדים ברבעון הראשון של 2026 — כמחצית מהפיטורים קשורים ל-AI\n\nהרבה מהפיטורים מיוחסים ל-AI, אבל כמה מומחים טוענים שזה בעצם תוצאה של החלטות עסקיות גרועות או שינויים אסטרטגיים בחברות. בכל מקרה, אף אחד לא משקלל את ההשפעה המהולמת שיהיה ל-AI על שוק העבודה בעתיד, גם אם יש חברות שעושות את הדרך ההפוכה והן שוכרות עוד איש.טל חדשים. | מקור: Tom's Hardware",
     "d": "Wed, 08 Apr 2026 13:34:41 +0000",
     "v": 0,
     "l": [
@@ -2767,7 +2748,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 115,
-    "t": "Alibaba launches data center with 10,000 of its own chips as China ramps up AI push\n\nAlibaba and China Telecom launched a data center in China designed for AI training and inferencing.",
+    "t": "אליבaba משיקה מרכז נתונים עם 10,000 שבבים משלה כשסין מגבירה את הקצב בתחום ה-AI\n\nאליבaba וChina Telecom הטיחו אתר דקה בבנייה של מרכז נתונים ענק בסין שמתמחה בהכנת מודלים של AI - אימון והרצה של מודלים בקנה מידה ענק, תמונה שמראה שהחברה הגדולה בסין לא מתישה את היד בתחום ה-AI ויוצאת לטיול חדש עם שבביה שלה.",
     "d": "Wed, 08 Apr 2026 13:06:39 GMT",
     "v": 0,
     "l": [
@@ -2784,7 +2765,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
@@ -2841,7 +2822,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 118,
-    "t": "Asus ROG Xbox Ally review: The cheapest Windows handheld gets points for showing up\n\nThe Asus ROG Xbox Ally is the cheapest Windows-based PC gaming handheld you can get right now, but some technical hitches and a mediocre processor don't help it shine next to the Steam Deck OLED.",
+    "t": "ביקורת Asus ROG Xbox Ally: ההנייד הנוח ביותר בנייד מדי וועדים\n\nה-Asus ROG Xbox Ally הוא ההנייד הזול ביותר עם Windows שאפשר לקנות כרגע, אבל בעיות טכניות וחומרה בינונית לא בדיוק משכנעות אותנו שלקחנו את החלטה טובה בהשוואה ל-Steam Deck OLED.",
     "d": "Wed, 08 Apr 2026 13:00:00 +0000",
     "v": 0,
     "l": [
@@ -2910,7 +2891,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 121,
-    "t": "AI's next bottleneck: Why even the best chips made in the U.S. take a round trip to Taiwan\n\nNvidia has reserved the majority of TSMC’s most advanced packaging capacity. The lesser-known chipmaking step may become the next bottleneck for AI.",
+    "t": "הצוק הבא של AI: למה אפילו השבבים הטובים ביותר של ארה\"ב עושים טיול למטאיבן?\n\nNvidia תופסת את רוב היכולת של TSMC לאריזה מתקדמת, וזה כנראה יהפוך לבקבוק התקריב הבא בעולם ה-AI. לא הרבה אנשים מדברים על שלב הייצור הזה של אריזת שבבים, אבל זה עשוי להיות המכשול העקבי הגדול שיעצור את כולנו מהר במהלך המרוץ לשתיקה של בינה מלאכותית.",
     "d": "Wed, 08 Apr 2026 12:41:22 GMT",
     "v": 0,
     "l": [
@@ -2959,7 +2940,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 123,
-    "t": "Iran ceasefire, Delta earnings, the Navy's retail woes and more in Morning Squawk\n\nHere are five key things investors need to know to start the trading day.",
+    "t": "הפסקת אש בעיראן, רווחי דלתא, בעיות הקמעונאות של הצי ועוד ב-Morning Squawk\n\nבמהלך הבוקר הזה יש לכם חמש נקודות חשובות שבהן המשקיעים צריכים לדעת לפני שהיום בבורסה מתחיל - מחדשות פוליטיות בחוץ לארץ ועד לתוצאות החברות הגדולות שמשפיעות על השווקים. המשרד של CNBC Tech מסכם את ההחזקות המרכזיות שחייבים לעקוב אחריהן כדי להישאר מעודכנים בשוק ההון.",
     "d": "Wed, 08 Apr 2026 12:22:13 GMT",
     "v": 0,
     "l": [
@@ -3031,7 +3012,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 126,
-    "t": "A brief history of Denuvo DRM and the new hypervisor bypass — inside the cat-and-mouse game between Denuvo and the piracy scene\n\nA brief history of Denuvo DRM and the new hypervisor bypass.",
+    "t": "היסטוריה קצרה של Denuvo DRM וה-bypass החדש של ההיפרוייזר — בתוך המשחק חתול-עכבר בין Denuvo לסצנת הפיראטיות\n\nDenuvo, מערכת ההגנה על זכויות יוצרים החזקה ביותר של תעשיית הגיימינג, תמיד הייתה על הקו הראשון של הקרב נגד פיראטים — אבל בשנים האחרונות הם מצאו דרך חדשה לעקוף אותה דרך hypervisor. Tom's Hardware מסקרת את ההיסטוריה של המשחק הנצחי הזה בין דוד לגוליית, והסיבה שזה חשוב לכל מי שקונה משחקים שלהם.",
     "d": "Wed, 08 Apr 2026 12:00:00 +0000",
     "v": 0,
     "l": [
@@ -3054,7 +3035,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 127,
-    "t": "Taiwanese chip makers call on government to stockpile helium, liquid natural gas — TSIA pleads for strategic supplies as US and Iran sign ceasefire in Middle East\n\nTaiwan's semiconductor industry alliance is urging the government to expand its strategic stockpiles of LNG and helium, find alternative suppliers, and restart nuclear power plants to ensure stability during times of crisis.",
+    "t": "יצרני שבבים טייוואנים קוראים לממשלה להצטייד בהליום וגז טבעי נוזלי — התעשייה חוששת מהשלכות המצב בבלי תיכון\n\nאיגוד תעשיית הסמיקונדקטור בטייוואן דורש מהממשלה להרחיב את ההערוצים האסטרטגיים של גז טבעי נוזלי והליום, למצוא ספקים חלופיים, ואפילו להחזיר למערכת כוח גרעינית, כדי להבטיח יציבות בתקופות משבר. השלכות גיאופוליטיות בחומ בתיכון עלולות להשפיע ישירות על יכולתה של טייוואן לייצר את השבבים שהעולם כל כך תלוי בהם.",
     "d": "Wed, 08 Apr 2026 11:56:08 +0000",
     "v": 0,
     "l": [
@@ -3069,8 +3050,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "image-gen"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/BjZSoWckeATJoTsx8byYZD-1280-80.jpg",
@@ -3124,7 +3104,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 130,
-    "t": "Grab an entire RTX 5090 gaming PC for just $8 more than the GPU itself and score a whopping $1,600 off — huge HP discount requires a $39 controller or monitor to secure you a 4K powerhouse with a 9800X3D, 32GB DDR5, and a 1TB SSD\n\nAn epic deal over at HP's website is knocking over $1,600 off the price of this Omen Max gaming PC, fitted with an RTX 5090, 9800X3D, 32GB RAM, and a 1TB SSD, all for just $3,808.69 if you purchase it with a monitor or a $39 accessory.",
+    "t": "RTX 5090 במחיר שקרוב לחינם? HP מוציאה מבצע משוגע - PC גיימינג כולל עם 9800X3D תמורת 3,800 דולר בלבד\n\nHP עושה משהו מטורף - הם מוכרים את ה-Omen Max שלהם עם RTX 5090 ו-9800X3D תמורת 3,808 דולר, וזה בעצם בערך אותו מחיר של המשחק האחרון שקניתם. אם קונים את זה עם מסך או אקססוריז בחצי מחיר, אתם חוסכים כאן 1,600 דולר של הנחה אמיתית. זה בעצם ה-PC גיימינג הטוב ביותר שאתם יכולים להגיע אליו בעכשיו בתור דיל.",
     "d": "Wed, 08 Apr 2026 11:44:59 +0000",
     "v": 0,
     "l": [
@@ -3137,12 +3117,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Nvidia"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "hardware"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/Y4SW9iaJ4f2frgmuRF3MtW-1280-80.png",
@@ -3173,7 +3150,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 132,
-    "t": "Get $100 off the ROG Xbox Ally handheld — Ryzen Z2 A-powered version with 16GB of RAM is under $500 again\n\nPowered by AMD’s Ryzen Z2 A chip and featuring a 120Hz display, the ROG Xbox Ally is now cheaper than ever",
+    "t": "ROG Xbox Ally תוך 500 דולר - גרסת Ryzen Z2 עם 16GB RAM במחיר מטורף\n\nה-ROG Xbox Ally עם חיישן AMD Ryzen Z2 A וקרן בתדירות 120Hz חזר לחנות במחיר שלא ראינו עליו מזמן - עכשיו אתם יכולים להשיג את המכשיר הזה בפחות מחמש מאות דולר. אם חיפשתם ידידה נייד חזקה לגיימינג on-the-go, הזמן הוא עכשיו.",
     "d": "Wed, 08 Apr 2026 11:25:17 +0000",
     "v": 0,
     "l": [
@@ -3219,7 +3196,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 134,
-    "t": "Snap up 32GB of Corsair Vengeance RAM for just $192 when you pair it with AMD's 9800X3D processor and Asus X870E motherboard for $1,054 — bundle also includes a free 240mm AIO cooler and a copy of Crimson Desert\n\nA premium Asus ROG Strix X870E motherboard, 9800X3D, 32GB Corsair Vengeance RAM, a free AIO cooler, and a copy of Crimson Desert are yours for just $1054.98",
+    "t": "חבילת משחק חלומית: AMD 9800X3D עם 32GB Corsair RAM ותאריך שחרור Crimson Desert תמורת 1,054 דולר\n\nסופר דיל למי שחיפש תאוצה: Asus ROG Strix X870E, מעבד 9800X3D של AMD, 32GB זיכרון Vengeance, cooler AIO חינם ו-Crimson Desert בתמיסה אחת ב-$1,054.98 בלבד. זה בעצם מחיר שלא מתראה לעתים קרובות על קונפיג כל כך חזקה.",
     "d": "Wed, 08 Apr 2026 11:21:00 +0000",
     "v": 0,
     "l": [
@@ -3242,7 +3219,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 135,
-    "t": "Russian state hackers are hijacking TP-Link and MicroTik routers to steal Outlook credentials, cybersecurity center warns — APT28 group targets DNS and redirects traffic to attacker-controlled servers\n\nThe UK National Cyber Security Centre says that Russian state hackers have been exploiting vulnerable small office and home office routers since 2024 to overwrite their DHCP and DNS settings",
+    "t": "האקרים הרוסים מחטפים נתבים של TP-Link ו-MicroTik כדי לגנוב את פרטי ה-Outlook - קבוצת APT28 מופנית לחיתוך DNS והפניית תעבורה\n\nמרכז הסייבר הבריטי מזהיר שהאקרים ממדינה רוסית מנצלים חולשות בנתבים של מחשבי בית ומשרדים קטנים מאז 2024, בעיקר כדי להחליף את הגדרות ה-DHCP וה-DNS שלהם ולהפנות את כל התעבורה לשרתים שלהם. זה כמו להיות בדרך לדף המקום האהוב עליך והנתב שלך פתאום מסטם אותך לאתר לא מוכר - מה שמאפשר להם לתוך את הסיסמאות של האוטלוק שלך. הדבר עשוי להשפיע על המון בעלי עסקים קטנים שעדיין לא עדכנו את הנתבים שלהם.",
     "d": "Wed, 08 Apr 2026 11:13:47 +0000",
     "v": 0,
     "l": [
@@ -3257,8 +3234,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/Co6ZLWZpkb6GQGvf7VbqN9-1280-80.png",
@@ -3289,7 +3265,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 137,
-    "t": "be quiet! Pure Power 13 M 1200W supply review:  Platinum-level efficiency, premium pricing\n\nThe Be Quiet! Pure Power 13 M 1200W combines exceptional build quality from CWT with Platinum-level efficiency and a comprehensive 10-year warranty, though its limited connectivity and premium pricing demand careful consideration.",
+    "t": "סקירת ספק הכוח be quiet! Pure Power 13 M 1200W: יעילות Platinum עם מחיר פרימיום\n\nספק הכוח החדש של be quiet! משלב איכות בנייה עליונה עם דירוג יעילות Platinum וביטוח של 10 שנים, אבל המחיר הגבוה וחיבוריות מוגבלות עשויים לגרום לכם להתחשב שוב לפני הקנייה. אם אתם מחפשים ספק כוח עם אמינות ויעילות של הכל משהו, זו אופציה טובה - רק שהדמי הקדמי יכול להיות משמעותי.",
     "d": "Wed, 08 Apr 2026 11:00:00 +0000",
     "v": 0,
     "l": [
@@ -4141,7 +4117,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 172,
-    "t": "China intensifies efforts to poach semiconductor talent from Taiwan, claims report — international restrictions motivate illicit efforts to obtain talent and equipment\n\nTaiwan's National Security Bureau claims that China is intensifying efforts to steal semiconductor process technologies and other chip-related know-how from Taiwan as international restrictions get more severe.",
+    "t": "סין מתגברת בניסיונות לגייס כישרונות בתחום הסמיקונדקטורים מטייוואן - דוח חושף מאמצים לא חוקיים\n\nלפי דוח של סוכנות הביטחון הלאומי של טייוואן, סין מגביר את המאמצים לגנוב טכנולוגיות ותהליכים בתחום הסמיקונדקטורים מהאי, כמענה להגבלות בינלאומיות שהולכות ומתחמירות. ההתקפה הסינית כוללת משיכה של מומחים וניסיונות להשגת ציוד הקשור לטיפול בשבבים, במטרה להעלות את כושר הייצור החיסקוני ולהשלים את הפער הטכנולוגי.",
     "d": "Wed, 08 Apr 2026 10:05:58 +0000",
     "v": 0,
     "l": [
@@ -4156,10 +4132,9 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/jNq3T5Z4DQqsDU65zadz5A-1280-80.png",
     "source": "Tom's Hardware"
   },
@@ -4311,7 +4286,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 179,
-    "t": "Corsair's new customizer tool lets buyers trick out the Frame 4000D case — configurator lets you explore every possible option for this highly modular enclosure\n\nCorsair has launched a new case customizer for its Frame 4000D that allows buyers to change almost anything about the enclosure, from the side panel to the front-panel I/O configuration.",
+    "t": "כורסייר השיקה כלי התאמה אישית לתיבת Frame 4000D — קונפיגורטור שמאפשר לחקור כל אפשרות אפשרית בתיבה מודולרית זו\n\nקורסייר פתחה בחנות קונפיגורטור חדש לתיבת ה-Frame 4000D שלה שמאפשר לקונים לשנות כמעט הכל בתוך התיבה - מפנלים צדדיים ועד להגדרות I/O של הפנל הקדמי. זה כלי מעולה למי שרוצה לבנות PC בדיוק כמו שהוא חולם - אתה יכול לשחק עם אלפי קומבינציות שונות ולראות איך זה נראה לפני שאתה קונה. Tom's Hardware",
     "d": "Wed, 08 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -5068,7 +5043,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 209,
-    "t": "Countries around the world are considering teen social media bans – why experts warn it’s a ‘lazy’ fix\n\n\"I think the argument for a ban is an admission of failure that we cannot regulate companies, so we can only restrict children,\" one expert told CNBC.",
+    "t": "מדינות בעולם שוקלות חסימת רשתות חברתיות לנוער – אבל מומחים מזהירים שזה 'פתרון עצלן'\n\nבמקום להסדיר את חברות הטק, נראה שממשלות בוחרות בקיצור דרכים על חساب הנוער – כאילו זה קל יותר לחסום את הילדים מאשר להכריח את הגיגנטים של המדיה החברתית להתנהג כמו שצריך. מומחים טוענים שמדובר בהודאת כישלון וקריאה לבחינה אמיתית של איך אנחנו רוצים לתווך בין בטיחות בילדים לבין מהות האינטרנט. זה יותר קל מאשר לעשות את העבודה הקשה של ממשל בינלאומי.",
     "d": "Wed, 08 Apr 2026 09:20:20 GMT",
     "v": 0,
     "l": [
@@ -5083,8 +5058,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -5842,7 +5816,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 240,
-    "t": "Corsair's Strix Halo AI Workstation 300 gets even more expensive amid the RAMpocalypse — Ryzen AI Max 395+ flagship now sits at $3,399\n\nCorsair has silently raised the prices on its AI Workstation 300 mini PCs. The top-end Ryzen AI Max+ 395 model is now $3,399, or $400 pricier than it was just a couple months ago. That increase comes amid spiraling RAM and storage prices thanks to the AI boom.",
+    "t": "תחנת העבודה AI של Corsair התיקרה עוד יותר - Ryzen AI Max 395+ עלה ל-3,399 דולר\n\nקורסייר העלתה בשקט את המחירים של מיני ה-PC שלה לעבודות AI, והדגם המובחר עם המעבד Ryzen AI Max+ 395 עלה ב-400 דולר רק תוך שני חודשים - עכשיו הוא עולה 3,399 דולר. העלייה בתמחור בעלת קשר ישיר לבום ה-AI שגרם למחירי RAM וזיכרון אחסון להטיל עלינו מה שאנחנו קוראים לו כאן RAMpocalypse.",
     "d": "Wed, 08 Apr 2026 09:00:00 +0000",
     "v": 0,
     "l": [
@@ -8123,7 +8097,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 334,
-    "t": "Asian tech stocks surge as U.S.-Iran cease fire ease Hormuz disruption worries\n\nShares of Asian tech and semiconductor comoanies surged on the news that the U.S. and Iran agreed to a conditional two-week ceasefire.",
+    "t": "מניות טכנולוגיה אסיאתיות צפות על רקע הפסקת אש בין ארה״ב לאיראן\n\nבנאמס טוב לשוק: ממש שמעו שארה״ב ואיראן הגיעו להסכם על הפסקת אש מותנית לשבועיים, והמניות של חברות טק וחצי-מוליכים אסיאתיות התחילו לתעופף. בעצם, השחקנים בשוק קצת פחות דואגים עכשיו לסכנות להפרעה בתעבורת בתעלת הורמוז, דבר שיכול היה להשפיע על supply chains של הטכנולוגיה בעולם. זה עוד דוגמה איך חדשות גיאופוליטיות משפיעות ישירות על תיקים של משקיעים בטכנולוגיה. מקור: CNBC Tech",
     "d": "Wed, 08 Apr 2026 06:47:47 GMT",
     "v": 0,
     "l": [
@@ -9885,7 +9859,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 405,
-    "t": "LookAway 2\n\nDiscussion\n            |\n            Link",
+    "t": "LookAway 2\n\nכלי חדש שעוזר לך להתנתק מהמסך ולשמור על בריאות העיניים שלך. LookAway 2 מזכיר לך להסתכל משם מהזמן לזמן כדי למנוע עייפות וכאבי ראש. מתוך Product Hunt",
     "d": "2026-04-08T04:58:31.000Z",
     "v": 0,
     "l": [
@@ -10128,7 +10102,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 415,
-    "t": "git-fire\n\nDiscussion\n            |\n            Link",
+    "t": "git-fire - כלי חירום לפיתוחים\n\nכלי חדש שמופיע ב-Product Hunt שנראה שעוזר למפתחים במצבי חירום קשורים ל-Git. זה בדיוק אחד מאלה הכלים הקטנים והשימושיים שמפתחים מחפשים כשהכל הולך לא כמתוכנן בריפוזיטוריה שלהם.",
     "d": "2026-04-08T04:48:14.000Z",
     "v": 0,
     "l": [
@@ -14520,7 +14494,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 591,
-    "t": "Keeby\n\nDiscussion\n            |\n            Link",
+    "t": "Keeby\n\nנראה שיש פה משהו חדש שמדובר עליו בProduct Hunt, אבל המידע הזמין די מינימלי. לפי התיאור, זה נראה כמו דיון או קישור למשהו, אבל בלי יותר פרטים קשה להבין בדיוק מה Keeby עושה. אם אתם רוצים לדעת יותר, כדאי להיכנס ישירות ל-Product Hunt.",
     "d": "2026-04-07T22:28:59.000Z",
     "v": 0,
     "l": [
@@ -15268,7 +15242,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 621,
-    "t": "Mo\n\nDiscussion\n            |\n            Link",
+    "t": "Mo\n\nנראה שהמידע על המוצר הזה עדיין לא ברור לנו - קיבלנו רק קישור לדיון ללא פרטים נוספים. אם אתם מעוניינים להכיר את המוצר החדש הזה, כדאי להיכנס ישירות לדף המוצר ב-Product Hunt ולראות מה כל הסערה.",
     "d": "2026-04-07T21:46:06.000Z",
     "v": 0,
     "l": [
@@ -19183,7 +19157,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 781,
-    "t": "Gauntlet\n\nDiscussion\n            |\n            Link",
+    "t": "גנטלט - כלי חדש שהופך את העבודה לפחות מעצבנת\n\nמוצר חדש שהוצג ב-Product Hunt שנראה כמו פתרון חכם לבעיות שלא בדיוק ידענו שיש לנו. בינתיים אנחנו מחכים לפרטים יותר ספציפיים על מה בדיוק זה עושה, אבל הקהילה כבר התחילה לדון בזה - וזה בדרך כלל סימן טוב.",
     "d": "2026-04-07T18:45:30.000Z",
     "v": 0,
     "l": [
@@ -21213,7 +21187,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 864,
-    "t": "Hire Roger\n\nDiscussion\n            |\n            Link",
+    "t": "השכר את רוג'ר\n\nיוטיוב חדש שמבטיח לעזור לכם למצוא את העובד המושלם עבור התפקיד שלכם. הפלטפורמה מציעה פתרון חכם שמפשט את כל תהליך הגיוס, מחיפוש ראשוני ועד להחלטה סופית. עוד פרט קטן - הכל מתנהל דרך ממשק פשוט וידידותי שיחסוך לכם הרבה זמן וכאבי ראש. מקור: Product Hunt",
     "d": "2026-04-07T17:25:09.000Z",
     "v": 0,
     "l": [
@@ -21521,7 +21495,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 877,
-    "t": "AriaType v0.1\n\nDiscussion\n            |\n            Link",
+    "t": "AriaType v0.1\n\nעוד כלי חדש נחמד שפרץ לחנות היום ב-Product Hunt, וזה נראה שזה עוד משהו שיכול להיות שימושי למפתחים. אנחנו לא בדיוק יודעים מה זה עושה, אבל הדיון בקהילה כבר התחיל - אז אם אתם סקרנים, שווה לקחת מבט על הפוסט המקורי.",
     "d": "2026-04-07T17:14:22.000Z",
     "v": 0,
     "l": [
@@ -23574,7 +23548,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 963,
-    "t": "Zoho Projects Infinity.ai\n\nDiscussion\n            |\n            Link",
+    "t": "זוהו פרוייקטס Infinity.ai\n\nזוהו הטילה את Infinity.ai, פלטפורמה חדשה שמשלבת AI כדי לעזור בניהול פרוייקטים בצורה חכמה יותר. כלי זה מדמיין להקל על ניהול משימות ותזמון, בדיוק כמו שיש לך עוזר AI אישי שמעקב אחרי כל דבר בשבילך. זה עוד דוגמה לאופן שבו חברות תפסות את הטרנד הגדול של שילוב AI בכלים ייצוריים.",
     "d": "2026-04-07T15:31:32.000Z",
     "v": 0,
     "l": [
@@ -23623,7 +23597,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 965,
-    "t": "FeatDrop\n\nDiscussion\n            |\n            Link",
+    "t": "FeatDrop\n\nFeatDrop הוא כלי חדש שעלה ל-Product Hunt והוא מעורר עניין בקהילת המפתחים. למרות שהפרטים מוגבלים, נראה שמדובר בפתרון שיכול להקל על עבודה טכנית כלשהי. אם אתה עוקב אחרי כלים חדשים בתעשיית ה-tech, כדאי לך לשים עין על זה.",
     "d": "2026-04-07T15:20:10.000Z",
     "v": 0,
     "l": [
@@ -23765,7 +23739,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 971,
-    "t": "VibeSonic\n\nDiscussion\n            |\n            Link",
+    "t": "VibeSonic\n\nעוד פיתוח מעניין הגיע לפלטפורמת Product Hunt שנראה כמו כלי שמתמודד עם עולם ה-audio ובפרטי. בלי להכנס לעומק רב, המוצר הזה כנראה משהו שקשור ל-sound, vibrations או אפילו music production - אבל בלי תיעוד מלא קשה לדעת בדיוק מה הוא עושה. אם אתם עוקבים אחרי כלים חדשים בתחום האודיו, זה משהו שכדאי להקחיק על זה מקרוב.",
     "d": "2026-04-07T14:35:58.000Z",
     "v": 0,
     "l": [
@@ -23811,7 +23785,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 973,
-    "t": "RoomieU\n\nDiscussion\n            |\n            Link",
+    "t": "RoomieU\n\nRoomieU הוא פלטפורמה חדשה שמאפשרת למחפשי דירה ושותפים לדירה להתחבר בקלות ולמצוא את ההתאמה הנכונה. האפליקציה מפשטת את התהליך של חיפוש שותף דירה או חלוקת דיור בעזרת matching חכם וכלים לתיאום בין עומדים. זה כמו Tinder, אבל לדירות - כלי שמובטל שהיה צריך לכאן מזמן.",
     "d": "2026-04-07T14:11:53.000Z",
     "v": 0,
     "l": [
@@ -24470,7 +24444,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1001,
-    "t": "Velo\n\nDiscussion\n            |\n            Link",
+    "t": "ווילו\n\nזה נראה כמו דיון קצר בפרודקט חדש שהוצג ב-Product Hunt, אבל בלי פרטים ממשיים על מה בדיוק זה. אם זה קשור לטכנולוגיה או תוכנה, זה בטח משהו שגרם לקהילת המעריצים של Product Hunt לפתוח דיון. אנחנו מחכים לעוד מידע כדי להבין למה זה יכול להיות חשוב.",
     "d": "2026-04-07T11:41:39.000Z",
     "v": 0,
     "l": [
@@ -24926,7 +24900,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1020,
-    "t": "Fundolink\n\nDiscussion\n            |\n            Link",
+    "t": "Fundolink\n\nזה בעצם כלי שנועד לחיבור בין מימונים שונים, מה שמאפשר דיון וקישור בקלות בין סטארטאפים למשקיעים. המערכת מאפשרת ניהול טוב יותר של תהליכי fundraising דרך ממשק שיתופי וידידותי למשתמש.",
     "d": "2026-04-07T06:28:45.000Z",
     "v": 0,
     "l": [
@@ -29643,7 +29617,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1213,
-    "t": "BizCalc\n\nDiscussion\n            |\n            Link",
+    "t": "BizCalc\n\nכלי חדש שהופיע ב-Product Hunt שנראה מעניין לחישובים עסקיים. עדיין לא ברור בדיוק מה בדיוק המוצר עושה, אבל יש לנו לינק לדיון שיכול לתת לנו מושג יותר טוב על מה זה בכלל. אם אתם מחפשים משהו שיעזור לכם עם חישובים, כדאי להכנס לקמיוניטי ולשמוע מה אומרים על זה.",
     "d": "2026-04-06T22:27:54.000Z",
     "v": 0,
     "l": [
@@ -30118,7 +30092,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1233,
-    "t": "SEOLint\n\nDiscussion\n            |\n            Link",
+    "t": "SEOLint - כלי בדיקת SEO חדשה\n\nSEOLint היא כלי חדשה שעוזרת למפתחים ובעלי אתרים לבדוק ולשפר את ה-SEO של האתר שלהם בקלות. הכלי מנתחת את הבעיות העיקריות בקידום במנועי חיפוש ומגישה המלצות מעשיות לשיפור דירוג האתר. זה בעצם ה-Lint של עולם ה-SEO - אוטומטית תמצא את הבעיות שלך בשניות.",
     "d": "2026-04-06T19:37:39.000Z",
     "v": 0,
     "l": [
@@ -31345,7 +31319,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1283,
-    "t": "Browser Arena\n\nDiscussion\n            |\n            Link",
+    "t": "Browser Arena\n\nנראה שמדובר בפלטפורמה או כלי חדש שקשור לדפדפנים, אך הפרטים המדויקים לא ברורים מהתיאור הקצר. זו עלולה להיות תחרות בין דפדפנים שונים או כלי השוואה של דפדפנים. אם אתם מתעניינים ללמוד עוד, כדאי לבדוק את הדיון המלא ב-Product Hunt.",
     "d": "2026-04-06T18:42:44.000Z",
     "v": 0,
     "l": [
@@ -34101,7 +34075,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1395,
-    "t": "Flint\n\nDiscussion\n            |\n            Link",
+    "t": "Flint\n\nנראה שמדובר בפרודקט חדש שהעלו ל-Product Hunt, אבל הפרטים מוגבלים. אם אתם מחפשים לדעת בדיוק מה זה Flint, כדאי להיכנס ישירות לדיון בעמוד המוצר כדי לשמוע מה אומרים המשתמשים.",
     "d": "2026-04-06T16:14:03.000Z",
     "v": 0,
     "l": [
@@ -35662,7 +35636,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1461,
-    "t": "Career-Ops on Claude\n\nDiscussion\n            |\n            Link",
+    "t": "קריירה אופס על קלוד\n\nאנתרופיק החברה מאחורי Claude AI הציגה כלי חדש שעוזר למשתמשים לנהל ולתכנן את הקריירה שלהם בעזרת ה-AI. זה כמו שיתוף פעולה עם מנטור דיגיטלי שיכול לעזור בתכנון מسיר הקריירה, פיתוח מיומנויות וקבלת החלטות קריטיות בעולם התעסוקה. כלי זה מצטרף לאקוסיסטם הגדל של יישומי Claude שמטרתם לפתור בעיות ממשיות בחיי היום-יום של המשתמשים.",
     "d": "2026-04-06T10:40:50.000Z",
     "v": 0,
     "l": [
@@ -38443,7 +38417,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1578,
-    "t": "Screenslice\n\nDiscussion\n            |\n            Link",
+    "t": "Screenslice\n\nכלי חדש שנראה כמו משהו שיכול להיות שימושי לעובדים במשרד ולמתכנתים - מדובר בפתרון שמסייע בעבודה עם מסך המחשב בדרך חכמה יותר. אם זה באמת מה שחושבים שזה, יכול להיות שזה משנה משחק עבור פרודוקטיביות. הרבה דברים טובים מתחילים בـ Product Hunt, וזה יכול להיות אחד מהם!",
     "d": "2026-04-04T09:09:34.000Z",
     "v": 0,
     "l": [
@@ -38635,7 +38609,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1586,
-    "t": "StatusStats\n\nDiscussion\n            |\n            Link",
+    "t": "סטטוס סטטס - StatusStats\n\nכלי חדש שעוזר לעקוב אחרי סטטוס ונתונים של שירותים ויישומים בזמן אמת. המערכת מאפשרת לקבל תראות מיידיות על תקלות וירידות בזמן פעילות, מה שהופך אותה לשימושית במיוחד למפתחים ומנהלי מערכות. המוצר חדש בProduct Hunt ומקבל עלייה בעניין של הקהילה.",
     "d": "2026-04-04T01:58:08.000Z",
     "v": 0,
     "l": [
@@ -39215,7 +39189,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1610,
-    "t": "MindsDB Anton\n\nDiscussion\n            |\n            Link",
+    "t": "MindsDB Anton\n\nMindsDB הציגה את Anton, כלי חדש שמטרתו להפוך את עבודה עם נתונים וML לפשוטה הרבה יותר. זה בעצם מערכת שמחברת בין מסדי נתונים ל-AI בצורה חכמה, כדי שתוכלו לבנות מודלים למידה ללא כל בעיה ובלי צורך להיות data scientist אלוף.",
     "d": "2026-04-03T18:40:55.000Z",
     "v": 0,
     "l": [
@@ -39376,7 +39350,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1617,
-    "t": "SnapRewrite\n\nDiscussion\n            |\n            Link",
+    "t": "SnapRewrite\n\nכלי חדש שמגיע מ-Product Hunt שמאפשר לכם לערוך ולשכתב טקסט בדרכים חכמות באמצעות AI. מדובר בפתרון שנראה שמיועד לזה שתוכלו לשפר את התוכן שלכם במהירות, בין אם זה עבור סושיאל מדיה, מיילים או כל סוג טקסט אחר.",
     "d": "2026-04-03T15:25:03.000Z",
     "v": 0,
     "l": [
@@ -39947,7 +39921,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1641,
-    "t": "PawseKeys\n\nDiscussion\n            |\n            Link",
+    "t": "PawseKeys\n\nכלי חדש שנראה מעניין שהופיע ב-Product Hunt, אבל כרגע אנחנו חסרי פרטים על מה בדיוק זה עושה. נראה שזה משהו שקשור לקלידבורד או אינטראקציה עם המחשב, אך צריך להעמיק כדי להבין את הרעיון המלא. אם אתה מתעניין בכלים חדשים, כדאי להעיף מבט בדיון ב-Product Hunt כדי לגלות פרטים נוספים על הפרוייקט הזה.",
     "d": "2026-04-03T00:54:45.000Z",
     "v": 0,
     "l": [
@@ -45333,7 +45307,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1866,
-    "t": "Dadroit V Web\n\nDiscussion\n            |\n            Link",
+    "t": "דדרואיט V Web\n\nנראה שמדובר בגרסת ווב של כלי Dadroit, שמאפשרת עבודה עם JSON ונתונים בממשק ברווזר. זה אומר שאתם יכולים להפסיק להוריד אפליקציות וריצתם ישירות מהדפדפן - בדיוק מה שאנחנו אוהבים. כלי שימושי למפתחים שמקצצים JSON ו-APIs.",
     "d": "2026-03-18T08:10:45.000Z",
     "v": 0,
     "l": [
