@@ -51674,7 +51674,7 @@
         "cybersecurity"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-09T19:23:44.900Z",
       "created_at": "2026-04-09T19:23:44.900Z"
     },
@@ -51702,7 +51702,7 @@
         "IPUs"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-09T19:23:44.900Z",
       "created_at": "2026-04-09T19:23:44.900Z"
     },
@@ -51767,7 +51767,7 @@
       "author": "Emma Roth",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-09T19:23:44.936Z",
       "created_at": "2026-04-09T19:23:44.936Z"
     },
@@ -51788,7 +51788,7 @@
         "artemis II"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-09T19:23:44.999Z",
       "created_at": "2026-04-09T19:23:44.999Z"
     },
@@ -51811,7 +51811,7 @@
         "Trump"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-09T19:23:44.999Z",
       "created_at": "2026-04-09T19:23:44.999Z"
     },
@@ -51967,7 +51967,7 @@
         "Claude Cowork"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-09T19:23:46.056Z",
       "created_at": "2026-04-09T19:23:46.056Z"
     },
@@ -51989,7 +51989,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-09T19:23:46.056Z",
       "created_at": "2026-04-09T19:23:46.056Z"
     },
@@ -52093,7 +52093,7 @@
       "author": "Aamir Khollam",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-09T19:23:50.719Z",
       "created_at": "2026-04-09T19:23:50.719Z"
     },
@@ -52110,7 +52110,7 @@
       "author": "Mrigakshi Dixit",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-09T19:23:50.719Z",
       "created_at": "2026-04-09T19:23:50.719Z"
     },
@@ -52161,7 +52161,7 @@
       "author": "Maryna Holovnova",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-09T19:23:50.894Z",
       "created_at": "2026-04-09T19:23:50.894Z"
     },
@@ -52178,7 +52178,7 @@
       "author": "Bronwyn Thompson",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-09T19:23:50.894Z",
       "created_at": "2026-04-09T19:23:50.894Z"
     },
@@ -52254,7 +52254,7 @@
       "author": "Thomas Claburn",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-09T19:23:51.497Z",
       "created_at": "2026-04-09T19:23:51.497Z"
     },
@@ -52312,7 +52312,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-09T19:23:51.645Z",
       "created_at": "2026-04-09T19:23:51.645Z"
     },
@@ -52360,7 +52360,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-09T19:23:51.645Z",
       "created_at": "2026-04-09T19:23:51.645Z"
     },
@@ -54367,6 +54367,301 @@
       "priority": "batch",
       "fetchedAt": "2026-04-09T20:50:16.322Z",
       "created_at": "2026-04-09T20:50:16.322Z"
+    },
+    {
+      "id": 2827,
+      "source": "TechCrunch AI",
+      "title_en": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+      "description_en": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+      "image_url": null,
+      "pub_date": "Thu, 09 Apr 2026 20:11:55 +0000",
+      "author": "Lucas Ropek",
+      "categories": [
+        "AI",
+        "ChatGPT",
+        "OpenAI",
+        "sam altman"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-09T21:04:10.534Z",
+      "created_at": "2026-04-09T21:04:10.534Z"
+    },
+    {
+      "id": 2828,
+      "source": "TechCrunch AI",
+      "title_en": "After data breach, $10B-valued startup Mercor is having a month",
+      "description_en": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
+      "image_url": null,
+      "pub_date": "Thu, 09 Apr 2026 19:33:54 +0000",
+      "author": "Julie Bort",
+      "categories": [
+        "AI",
+        "Startups",
+        "TC",
+        "Delve",
+        "LiteLLM",
+        "Mercor"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-09T21:04:10.534Z",
+      "created_at": "2026-04-09T21:04:10.534Z"
+    },
+    {
+      "id": 2829,
+      "source": "Ars Technica",
+      "title_en": "Clinical trial shows gene editing works for β-Thalassaemia, too",
+      "description_en": "Improved gene editing process reactivates the fetal version of a hemoglobin gene.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/science/2026/04/clinical-trial-shows-gene-editing-works-for-%ce%b2-thalassaemia-too/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-185759358-1152x648.jpg",
+      "pub_date": "Thu, 09 Apr 2026 20:28:48 +0000",
+      "author": "\n                    John Timmer\n                ",
+      "categories": [
+        "Health",
+        "Science",
+        "clinical trial",
+        "CRISPR",
+        "gene editing",
+        "β-Thalassaemia"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-09T21:04:10.756Z",
+      "created_at": "2026-04-09T21:04:10.756Z"
+    },
+    {
+      "id": 2830,
+      "source": "Ars Technica",
+      "title_en": "“Negative” views of Broadcom driving thousands of VMware migrations, rival says",
+      "description_en": "Western Union exec says there were \"challenges\" working with Broadcom.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
+      "pub_date": "Thu, 09 Apr 2026 19:44:31 +0000",
+      "author": "\n                    Scharon Harding\n                ",
+      "categories": [
+        "Biz & IT",
+        "acquisitions",
+        "Broadcom",
+        "mergers",
+        "vmware"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-09T21:04:10.756Z",
+      "created_at": "2026-04-09T21:04:10.756Z"
+    },
+    {
+      "id": 2831,
+      "source": "Ars Technica",
+      "title_en": "Ugandan chimps split into two factions, then killed rivals",
+      "description_en": "Rare event suggests relational dynamics may play a role in collective violence, along with cultural markers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/science/2026/04/ugandan-chimps-split-into-two-factions-then-killed-rivals/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/chimp1-1152x648-1775736939.jpg",
+      "pub_date": "Thu, 09 Apr 2026 19:21:59 +0000",
+      "author": "\n                    Jennifer Ouellette\n                ",
+      "categories": [
+        "Science",
+        "animal behavior",
+        "anthropology",
+        "Biology",
+        "chimpanzees"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-09T21:04:10.757Z",
+      "created_at": "2026-04-09T21:04:10.757Z"
+    },
+    {
+      "id": 2832,
+      "source": "Hugging Face Blog",
+      "title_en": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/waypoint-1-5",
+      "image_url": null,
+      "pub_date": "Thu, 09 Apr 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-09T21:04:13.106Z",
+      "created_at": "2026-04-09T21:04:13.106Z"
+    },
+    {
+      "id": 2833,
+      "source": "The Guardian AI",
+      "title_en": "US defense official overseeing AI reaped millions selling xAI stock after Pentagon entered agreement with company",
+      "description_en": "Expert said federal law bars officials from taking actions in their jobs that benefit their own financial interests\nA high-profile US defense department official who oversees the agency’s artificial intelligence efforts made a profit of up to $24m selling a private investment he held in Elon Musk’s AI company earlier this year, according to government ethics records released this month. The value of his stake totaled a maximum of a million dollars when he joined the department.\nEmil Michael, who",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael",
+      "image_url": "https://i.guim.co.uk/img/media/e8d114d7a2085d2a0f6b9cda817046887ee6deb0/426_267_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=ac3a8bf945dded37719194c41c2d71af",
+      "pub_date": "Thu, 09 Apr 2026 19:35:29 GMT",
+      "author": "Aram Roston in Washington",
+      "categories": [
+        {
+          "_": "US military",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-military"
+          }
+        },
+        {
+          "_": "Trump administration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/trump-administration"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://www.theguardian.com/world/ethics"
+          }
+        },
+        {
+          "_": "Pete Hegseth",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/pete-hegseth"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-09T21:04:19.788Z",
+      "created_at": "2026-04-09T21:04:19.788Z"
+    },
+    {
+      "id": 2834,
+      "source": "The Register",
+      "title_en": "Anthropic will let your agents sleep on its couch",
+      "description_en": "Want to run your business on autopilot? For better or worse, Managed Agents might help with that If you need AI agents to do a lot of ongoing tasks for your business, Anthropic has a new answer for you. The Claude maker has introduced Managed Agents, a service to help organizations create and deploy cloud-hosted knowledge work automations.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/09/anthropic_offers_to_host_ai/",
+      "image_url": null,
+      "pub_date": "2026-04-09T19:29:46.000Z",
+      "author": "Thomas Claburn",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-09T21:04:19.948Z",
+      "created_at": "2026-04-09T21:04:19.948Z"
+    },
+    {
+      "id": 2835,
+      "source": "Futurism",
+      "title_en": "As Astronauts Visit the Moon, NASA Insider Says Agency Is in Shambles Behind the Scenes",
+      "description_en": "\"Budget cuts, chaos, and political interference now threaten the very science that motivates and enables space exploration.\" \nThe post As Astronauts Visit the Moon, NASA Insider Says Agency Is in Shambles Behind the Scenes appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/space/nasa-insider-science-shambles",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/nasa-insider-science-shambles.jpg?quality=85",
+      "pub_date": "Thu, 09 Apr 2026 16:12:48 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Space",
+          "$": {
+            "domain": "https://futurism.com/category/space"
+          }
+        },
+        {
+          "_": "Astronomy",
+          "$": {
+            "domain": "https://futurism.com/category/astronomy"
+          }
+        },
+        {
+          "_": "Moon",
+          "$": {
+            "domain": "https://futurism.com/category/moon"
+          }
+        },
+        {
+          "_": "NASA",
+          "$": {
+            "domain": "https://futurism.com/category/nasa"
+          }
+        },
+        {
+          "_": "Off-World",
+          "$": {
+            "domain": "https://futurism.com/category/off-world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-09T21:04:20.102Z",
+      "created_at": "2026-04-09T21:04:20.102Z"
+    },
+    {
+      "id": 2836,
+      "source": "Tom's Hardware",
+      "title_en": "Intel Arc GPUs can finally boot up and play 'Crimson Desert' — but you'll probably want to wait for official support",
+      "description_en": "Intel's latest GPU driver is capable of booting Crimson Desert and can reportedly run at nearly 60 FPS at ultra settings on an Arc B580. But the game suffers from occasional crashing and visual artifacts.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/intel-arc-gpus-can-finally-boot-up-and-play-crimson-desert-but-youll-probably-want-to-wait-for-official-support",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/AKVpvdU32tAKZUhUCW8W7X-1280-80.jpg",
+      "pub_date": "Thu, 09 Apr 2026 19:36:19 +0000",
+      "author": " Aaron Klotz ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-09T21:04:20.469Z",
+      "created_at": "2026-04-09T21:04:20.469Z"
+    },
+    {
+      "id": 2837,
+      "source": "Product Hunt",
+      "title_en": "ReminderOS",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/reminderos",
+      "image_url": null,
+      "pub_date": "2026-04-01T21:48:05.000Z",
+      "author": "Paul Waweru",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-09T21:04:22.001Z",
+      "created_at": "2026-04-09T21:04:22.001Z"
     }
   ]
 }
