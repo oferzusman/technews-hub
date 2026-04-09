@@ -898,7 +898,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 38,
-    "t": "LinkedIn scanning users' browser extensions sparks controversy and two lawsuits\n\nLinkedIn says claims fabricated by extension maker suspended for scraping data.",
+    "t": "לינקדאין סורקת את תוסף הדפדפן של המשתמשים - מתעורר סערה וביקורת משפטית\n\nלינקדאין טוענת שהאישומים של יצרנית תוסף שהושעתה בגלל גריפה של נתונים הם סה\"כ בדיות. פה מדובר על מצב די מתוח - חברת הרשת החברתית גדולה סורקת את התוספים של המשתמשים, מה שעלול להיות בעיית פרטיות ביג טיים, וזה כבר הוביל לשתי תביעות משפטיות כנגד הפלטפורמה.",
     "d": "Wed, 08 Apr 2026 21:08:06 +0000",
     "v": 0,
     "l": [
@@ -911,13 +911,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/linkedin-logo-1152x648-1775680554.jpg",
@@ -925,7 +921,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 39,
-    "t": "Poke makes AI agents as easy as sending a text\n\nPoke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+    "t": "Poke הופכת AI agents לקלים כמו שליחת הודעה טקסט\n\nסטארטאפ חדש בשם Poke מביא את עולם ה-AI agents לכל אדם דרך SMS רגיל - בלי צורך בהתחברות מסובכת, אפליקציות נפרדות או ידע טכני כלשהו. כל שצריך זה להשלוח הודעה טקסט ו-AI יטפל בכל המשימות והאוטומציות בשבילך.",
     "d": "Wed, 08 Apr 2026 21:05:13 +0000",
     "v": 0,
     "l": [
@@ -949,7 +945,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 40,
-    "t": "Iran-linked hackers disrupt operations at US critical infrastructure sites\n\nAs the US and Israel's war has ramped up, so too have hacks on US industrial sites.",
+    "t": "האקרים הקשורים לאיראן משבשים פעילות באתרי תשתית קריטית בארה״ב\n\nעם התגברות הסכסוך בין ארה״ב לישראל לאיראן, גם ההתקפות הסייבר על אתרים תעשייתיים אמריקאיים הופכות למתגברות ותכופות יותר. בדומה לחזית הקרקע, גם בחזית הדיגיטלית נוצרת תחרות מתגברת על שליטה בתשתיות חיוניות.",
     "d": "Wed, 08 Apr 2026 20:49:11 +0000",
     "v": 0,
     "l": [
@@ -964,8 +960,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/iranhax-1152x648.jpg",
@@ -973,7 +968,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 41,
-    "t": "Watch: US firm’s semicircular wings maximize VTOL’s upward lift, could change aviation\n\nThe field of aviation is constantly evolving, and one of the most interesting recent developments...",
+    "t": "צפו: כנפיים חצי-עגולות של חברה אמריקאית ממקסמות את ההסיע של VTOL, עלולות לשנות את התעופה\n\nחברה אמריקאית הצליחה לפתח עיצוב כנפיים מהפכני בצורת חצי-עיגול שמשפר באופן דרמטי את יכולת ההסיע האנכי של מטוסי VTOL (טיסה אנכית והנחתה). הטכנולוגיה החדשה הזו יכולה להיות משחק חדש בעולם התעופה, ובמיוחד לתיקוניות החברות בתחבורה עירונית. מדובר בעוד קפיצה מרשימה בדרך למטוסים חשמליים וטיסה עתידנית שלנו.",
     "d": "Wed, 08 Apr 2026 20:45:31 +0000",
     "v": 0,
     "l": [
@@ -996,7 +991,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 42,
-    "t": "Butterfly-wing lattice to make planes stronger and buildings safer during earthquakes\n\nResearchers have drawn inspiration from butterfly wings to create a lightweight lattice structure that delivers...",
+    "t": "סריג בהשראת כנפי פרפר יחזק מטוסים ויגן על בניינים בעת רעידות אדמה\n\nחוקרים השתאלו בעיצוב של כנפי פרפר כדי לפתח מבנה סריג קל משקל שמציע חוזק מדהים עם משקל מינימלי. הטכנולוגיה החדשה הזו יכולה להיות משנה משחק בתחומים כמו תעופה ובנייה, במיוחד כשמדובר בשיפור הבטיחות בעת רעידות אדמה. זו עוד דוגמה מושלמת לאופן שבו הטבע יכול להשראות הנדסה חכמה.",
     "d": "Wed, 08 Apr 2026 20:31:16 +0000",
     "v": 0,
     "l": [
@@ -1019,7 +1014,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 43,
-    "t": "Student Dies When Hospital Has No ICU Doctors, Calls One on Videochat Who Pronounces Him Dead Remotely, Lawsuit Claims\n\n\"It's a fake ICU.\"\nThe post Student Dies When Hospital Has No ICU Doctors, Calls One on Videochat Who Pronounces Him Dead Remotely, Lawsuit Claims appeared first on Futurism.",
+    "t": "סטודנט נפטר כשבבית החולים לא היה רופא בחטיבת הטראומה - קראו לרופא דרך וידיאו קול שהכריז על מותו מרחוק, כך טוען התביעה\n\nמקרה דרמטי של כישל רפואי בבית חולים שפעל ללא רופא טראומה בפועל, ובמקום זאת קרא לרופא דרך וידיאו קול כדי להכריז על מותו של חולה. התיק הזה מעלה שאלות משמעותיות על איכות הטיפול הרפואי ותשתיות המינימום הנדרשות בחטיבות קריטיות. (מקור: Futurism)",
     "d": "Wed, 08 Apr 2026 16:29:40 -0400",
     "v": 0,
     "l": [
@@ -1032,13 +1027,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/student-dies-in-telehealth-hospital-no-icu-doctors.jpg?quality=85",
@@ -1046,7 +1037,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 44,
-    "t": "Call your existing automation ‘zero-token architecture’ to become an instant agentic AI wiz\n\nKubernetes luminary Kelsey Hightower thinks IT pros need to get smart about thriving in a world that’s trying to hide deep tech As businesses drink the agentic AI Kool-Aid and go looking for productivity enhancements, IT professionals can deliver by rebranding their existing automations as “zero-token architecture,” according to Kelsey Hightower, a former Google distinguished engineer and a notable early promoter of Kubernetes.…",
+    "t": "קראו לאוטומציה הקיימת שלכם 'zero-token architecture' והפכו למומחי agentic AI בערך\n\nקלסי היאוור, האגו הוותיק של גוגל, מציע לחברות טריק חכם: במקום להשקיע בכל זה agentic AI חדש שכולם מטורפים עליו, פשוט קחו את האוטומציות שיש לכם כבר וקראו להן 'zero-token architecture' ותראו איך פתאום אתם נראים כגאונים. מה שהוא באמת אומר הוא שמקצוענים ב-IT צריכים להיות חכמים יותר בעולם שמנסה להסתיר את הטכנולוגיה העמוקה, ולתת לעסקים דברים שהם בעצם כבר קנו בדרך אחרת.",
     "d": "2026-04-08T20:21:41.000Z",
     "v": 0,
     "l": [
@@ -1059,12 +1050,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
       "news",
-      "model",
       "agents"
     ],
     "imp": "low",
@@ -1073,7 +1061,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 45,
-    "t": "OpenAI made economic proposals — here’s what DC thinks of them\n\nHappy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics. If you're not a subscriber yet, you can do so here, but my only request is that you sign up before Donald Trump decides to revisit his previous threats toward Iran and kickstart World War III.\nI'm back after being waylaid last week by the deadly combo of a moderate cold and the beginning of pollen season. (Twenty-one percent of the District's acreage is t",
+    "t": "OpenAI הציגה הצעות כלכליות - כך מגיבים בוושינגטון\n\nOpenAI החליטה להציע הצעות כלכליות משלה בנושא ה-AI לממשלה האמריקאית, וכעת מנסים לראות איך בירוקרטים בוושינגטון יגיבו לתנועה האסטרטגית הזו. הטכנולוגיה של החברה חוקרת כרגע את הדינמיקה הפוליטית שמקיפה את תחום ה-AI בארה״ב - זה די חשוב בשביל להבין איך תיראה הרגולציה בעתיד.",
     "d": "2026-04-08T20:14:00.000Z",
     "v": 0,
     "l": [
@@ -1099,7 +1087,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 46,
-    "t": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict\n\nAWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
+    "t": "בוס AWS מסביר למה ההשקעה במיליארדים גם ב-Anthropic וגם ב-OpenAI זה בסדר\n\nאמזון ווב סרוויסেס מחזיקה בעמדה מעניינת - היא משקיעה בשתי חברות AI הגדולות בעולם בו זמנית, וזה לא בעיה כי AWS כבר רגילה להתחרות עם השותפים שלה. ההיגיון פשוט: חברת הענן הענקית תמיד מתחרה עם הלקוחות שלה, ולכן גידול בשניהם בו זמנית זה רק עוד יום בחיי האמזון.",
     "d": "Wed, 08 Apr 2026 20:09:14 +0000",
     "v": 0,
     "l": [
@@ -1120,10 +1108,9 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news",
       "model",
-      "product",
-      "funding"
+      "product"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
@@ -1152,7 +1139,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 48,
-    "t": "Meta's Superintelligence Lab unveils its first public model, Muse Spark\n\nMeta touts strong benchmarks but admits \"performance gaps\" in agentic and coding systems.",
+    "t": "מעבדת הסופר-אינטליגנציה של מטה חושפת את הדגם הציבורי הראשון שלה: Muse Spark\n\nמטה הציגה את Muse Spark עם תוצאות מרשימות בבנצ'מארקים, אבל בכנות גם הודתה שיש עדיין חורים בביצועים כשמדובר בסוכנים AI ומערכות coding. זו הפעם הראשונה שהחברה משחררת מודל ציבורי מהמעבדה החדשה שלה, והעוד הרבה עבודה להתחיל.",
     "d": "Wed, 08 Apr 2026 19:59:10 +0000",
     "v": 0,
     "l": [
@@ -1165,13 +1152,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/meta-ai-1152x648.jpg",
@@ -1179,7 +1162,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 49,
-    "t": "Intel and SambaNova team up on heterogenous AI inference platform — different hardware performs different workloads\n\nIntel and SambaNova announce heterogeneous inference platform that can take advantage of Intel Xeon 6 CPUs, SambaNova SN50 RDUs, and Nvidia GPUs.",
+    "t": "אינטל ו-SambaNova משתפות פעולה בפלטפורמת AI inference הטרוגנית — כל חומרה לעבודה שונה\n\nשתי החברות הכריזו על פלטפורמה חדשה שמתאימה את העבודה לחומרה הנכונה: מעבדי Xeon 6 של אינטל, ה-RDU של SambaNova, וגם GPUs של Nvidia כדי לחלוק את עומס ה-inference בצורה חכמה וביעילות. זה בעצם הדרך החדשה של ענקי הטכנולוגיה להגיד: בואו נשתמש בכל כלי שקיים כדי שה-AI יעבוד יותר טוב וגם יותר מהר.",
     "d": "Wed, 08 Apr 2026 19:45:25 +0000",
     "v": 0,
     "l": [
@@ -1252,7 +1235,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 52,
-    "t": "How our digital devices are putting our right to privacy at risk\n\nLaw professor Andrew Guthrie Ferguson chats with Ars about his new book, Your Data Will Be Used Against You.",
+    "t": "כיצד המכשירים הדיגיטליים שלנו מסכנים את הזכות שלנו לפרטיות\n\nפרופסור למשפט, אנדרו גותרי פרגוסון, מדבר עם Ars Technica על ספרו החדש שבו הוא חושף כיצד הנתונים שלנו מתחנים מחדש כנגד אותנו. בעולם שבו כל דבר משודר ונשמר, הפרטיות הפכה לסחורה שנגנבת לנו בכל כל יום, ופרגוסון מסביר בדיוק איך זה קורה וליה אנחנו צריכים להגן על עצמנו. ספר מובילי שצריך לקרוא לכל מי שחושב שהוא יודע מה קורה עם הטלפון שלו.",
     "d": "Wed, 08 Apr 2026 19:17:30 +0000",
     "v": 0,
     "l": [
@@ -1267,8 +1250,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/Google-Maps-CarPlay-Dashboard-1152x648.png",
@@ -1276,7 +1258,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 53,
-    "t": "Analysis Finds That Google’s AI Overviews Are Providing Misinformation at a Scale Possibly Unprecedented in the History of Human Civilization\n\nThis is catastrophic.\nThe post Analysis Finds That Google’s AI Overviews Are Providing Misinformation at a Scale Possibly Unprecedented in the History of Human Civilization appeared first on Futurism.",
+    "t": "מחקר חושף: סקירות ה-AI של גוגל מפיצות מידע שגוי בקנה מידה שאולי הוא חסר תקדים בהיסטוריה\n\nגוגל נמצאת במצוקה: מחקר חדש חושף שה-AI Overviews שלה מספקות מידע שגוי בקנה מידה שלא ראינו מעולם. המערכת שאמורה להציע תשובות מהירות וחכמות בעצם מתעדת משתמשים בממש באופן קטסטרופלי. זה סימן קריטי שגוגל צריכה להשבת דעת לפני שהתכונה הזו תשחית באופן בלתי הפיך בטבע המידע בחיפוש.",
     "d": "Wed, 08 Apr 2026 15:16:29 -0400",
     "v": 0,
     "l": [
@@ -1289,12 +1271,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/google-ai-overviews-misinformation.jpg?quality=85",
@@ -1302,7 +1281,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 54,
-    "t": "8-function multitool is small enough that you might actually carry it\n\nThose kazillion-in-one multitools we keep telling you about may be relatively compact, but you're still quite likely to notice their presence in your pocket. The Scout, on the other hand, is truly small yet capable of eight different functions.\nContinue Reading\nCategory: Knives and Multitools, Gear, Outdoors\nTags: Multitools, Kickstarter",
+    "t": "כלי רב-תכליתי בגודל כיס שאתם בעצם תרצו לשאת איתכם\n\nאנחנו כבר ראינו הרבה מולטי-טולס מטורפים שעושים הכל, אבל בואו נכנו - הם עדיין כבדים מדי לכיס. לעומת זאת, ה-Scout הוא פשוט זעיר - קטן כמו בחלק, אבל בא כולל 8 פונקציות שונות שבדיוק יספיקו לכם בטיול או בחוץ. זה בדיוק מה שחיפשנו.",
     "d": "Wed, 08 Apr 2026 19:00:00 GMT",
     "v": 0,
     "l": [
@@ -1356,7 +1335,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 56,
-    "t": "Motorola suddenly raises budget phone prices up to 50%—you can probably thank AI\n\nMotorola's budget phones are much less budget-friendly today.",
+    "t": "מוטורולה מעלה מחירים של סמארטפונים בתקציב עד 50% - סביר להניח שאתם יכולים להודות ל-AI\n\nמוטורולה החליטה להעלות משמעותית את המחירים של טלפוניה בתקציב נמוך, עד כדי 50 אחוז. התוספת הזו כנראה קשורה להשקעות בטכנולוגיית AI שהחברה משלבת בטלפוניה החדשה שלה, מה שהופך את הדגמים שהיו נחמדים וזולים פתאום להרבה פחות זולים.",
     "d": "Wed, 08 Apr 2026 18:39:08 +0000",
     "v": 0,
     "l": [
@@ -1371,16 +1350,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/moto_g_2026-1152x648.png",
     "source": "Ars Technica"
   },
   {
     "id": 57,
-    "t": "‘Snap like glass’: First real-time view shows weakness in brittle lithium dendrites\n\nA University of Houston engineer has found that lithium dendrites inside batteries are not soft...",
+    "t": "'שברו כמו זכוכית': תצפית בזמן אמת חושפת את חולשות דנדריטים של ליתיום שבירים\n\nמהנדס מאוניברסיטת Houston גילה שדנדריטים של ליתיום בתוך סוללות לא רכים כפי שחשבנו עד היום - הם למעשה שברים כמו זכוכית וזה יכול להיות חדשות מעולות לעתיד הסוללות. התגלית הזו מבוססת על תצפית ישירה בזמן אמת שמאפשרת להבין טוב יותר איך הדנדריטים האלה מתנהגים ומתקלקלים בתוך הסוללה. הזיהוי הזה יכול לפתוח דרכים חדשות לשיפור עמידות הסוללות ויעילותן.",
     "d": "Wed, 08 Apr 2026 18:31:35 +0000",
     "v": 0,
     "l": [
@@ -1403,7 +1381,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 58,
-    "t": "Tubi is the first streamer to launch a native app within ChatGPT\n\nTubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
+    "t": "טובי הופכת לחברת הסטרימינג הראשונה שמשיקה אפליקציה נייטיבית בתוך ChatGPT\n\nטובי עשתה היסטוריה והפכה לשירות הסטרימינג הראשון שמציע אינטגרציה של אפליקציה ישירה בתוך ChatGPT, הצ'אטבוט שמיליונים משתמשים סומכים עליו כדי לקבל תשובות. זה אומר שאתם יכולים עכשיו להחפש וצפות בתכנים ישירות מתוך החיוויים לGPT, בלי צורך להוציא את האפליקציה. פתח חדש בעולם הסטרימינג שיכול לשנות את הדרך שבה אנחנו מגלים ותוכן ומתחברים אליו.",
     "d": "Wed, 08 Apr 2026 18:23:06 +0000",
     "v": 0,
     "l": [
@@ -1429,7 +1407,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 59,
-    "t": "Moon Astronaut Captures Shot of Earth That Lets You See Its Razor-Thin Atmosphere Perfectly\n\n\"Hello, World.\"\nThe post Moon Astronaut Captures Shot of Earth That Lets You See Its Razor-Thin Atmosphere Perfectly appeared first on Futurism.",
+    "t": "אסטרונאוט מהירח תפס תמונה של כדור הארץ שחושפת את האטמוספירה הדקה שלנו\n\nתמונה מדהימה שצולמה מהירח מראה לנו כמה דקה ופגיעה בעצם האטמוספירה שלנו - כמו קליפה עדינה שלט בכל מה שחי כאן. התמונה הזו היא תזכורת משמעותית למדע על כמה מינימליסטי הוא הכיסוי שיש לכוכב הלחם שלנו מפני החלל הקר.\n\nמקור: Futurism",
     "d": "Wed, 08 Apr 2026 14:03:00 -0400",
     "v": 0,
     "l": [
@@ -1452,7 +1430,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 60,
-    "t": "Meta's Muse Spark is its first frontier model and its first without open weights\n\nMeta Superintelligence Labs ships Muse Spark, its first frontier model and Meta's first without open weights. Independent testing shows it closing the gap to OpenAI, Anthropic, and Google, but the competition isn't standing still.\nThe article Meta's Muse Spark is its first frontier model and its first without open weights appeared first on The Decoder.",
+    "t": "Muse Spark של מטא - מודל הגבול הראשון שלה ללא משקלות פתוחים\n\nמטא השיקה את Muse Spark, מודל frontier ראשון שלה שלא יהיה open source, ובהיסטוריה שלה הראשון בקטגוריה הזו. בדיקות עצמאיות מראות שהמודל הולך וקרוב יותר ליכולות של OpenAI, Anthropic וגוגל, אבל התחרויות לא מתישבות - הן ממשיכות להתקדם במהירות בעצמן. זה סימן חשוב שמטא מעבירה גם היא לאסטרטגיית קנייניות בעולם ה-AI, בדומה לעמיתות התחרויות שלה.",
     "d": "Wed, 08 Apr 2026 18:00:03 +0000",
     "v": 0,
     "l": [
@@ -1467,9 +1445,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [
       "OpenAI",
-      "Google",
-      "Anthropic",
-      "Meta"
+      "Anthropic"
     ],
     "tags": [
       "news",
@@ -1481,7 +1457,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 61,
-    "t": "PCI Express roadmap: The path to 1TB/s with PCI 8.0, the challenges of integration, and beyond\n\nWe take a deep-dive into the past, present, and future of the ubiquitous PCIe standard, and look ahead at the challenges that await manufacturers when integrating PCIe 6.0 and beyond into real-world hardware.",
+    "t": "מפת הדרכים של PCI Express: הדרך ל-1TB/s עם PCI 8.0, אתגרי ההשתלבות וכל מה שאחרי\n\nצללנו לעומקה של תקן ה-PCIe שנמצא בכל מחשב, וראינו איך הוא התפתח מהימים הראשונים ועד היום. עכשיו החוקרים מסתכלים קדימה לאתגרים הענקיים שממתינים ליצרנים כשהם יצטרכו להשלב את PCIe 6.0 והדורות הבאים בחומרה אמיתית שנשתמש בה בעתיד. Tom's Hardware",
     "d": "Wed, 08 Apr 2026 17:58:57 +0000",
     "v": 0,
     "l": [
@@ -1504,7 +1480,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 62,
-    "t": "Meta’s new Muse Spark AI uses 10x less compute in single framework for text, vision\n\nMeta has rolled out Muse Spark, a new artificial intelligence model that signals a reset...",
+    "t": "Muse Spark של Meta: מודל AI חדש שצורך 90% פחות compute\n\nמטא השיקה את Muse Spark, מודל AI חדש שמסוגל להתמודד עם טקסט וחזון בתוך framework אחד - וכל זה תוך צריכת חשמל וחישוב שהם פי 10 פחותים מהמודלים הקיימים. זה כמו שהם הצליחו לדחוס סופרמן לגודל אנושי בלי לשלול ממנו את הכוחות. עדכון כזה פוטנציאלית משנה כמה ואילו קומפניות יכולות להרשות לעצמן להריץ מודלים של AI ברמה זו.",
     "d": "Wed, 08 Apr 2026 17:55:08 +0000",
     "v": 0,
     "l": [
@@ -1530,7 +1506,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 63,
-    "t": "To beat Altman in court, Musk offers to give all damages to OpenAI nonprofit\n\nMusk won’t seek a “single dollar” in OpenAI suit after asking to pocket up to $134 billion.",
+    "t": "מאבק בחודקים: מאסק מציע לתרום את כל פסק הדין ל-OpenAI\n\nבמהפך דרמטי, אלון מאסק הודיע שלא יתבע אף דולר מ-OpenAI בתביעתו נגד סם אלטמן, ובמקום זאת יעביר את כל הנזקים שיהיה זכאי להם לשותפות ללא רווח. זה קרה אחרי שמאסק תבע בעבר קבלת עד 134 מיליארד דולר - סכום אסטרונומי שנראה עכשיו מוחלף בנימוס אקדמי.",
     "d": "Wed, 08 Apr 2026 17:37:06 +0000",
     "v": 0,
     "l": [
@@ -1548,10 +1524,9 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/musk-altman-beef-1152x648.jpg",
     "source": "Ars Technica"
   },
@@ -1580,7 +1555,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 65,
-    "t": "Tankers passing through Strait of Hormuz will have to pay cryptocurrency toll\n\nAny tanker passing must reveal its cargo so Iran can determine transit fee amount.",
+    "t": "טנקרים שעוברים דרך מצר הורמוז יצטרכו לשלם דמי מעבר בקריפטו\n\nאיראן קובעת תנאי חדש למי שרוצה להעביר טנקרי נפט דרך המצר - חובה להחשיף את הסחורה כדי שיוכלו לחשב את דמי המעבר בקריפטוקארנסי. בעצם, מדינה שלמה הופכת להיות מעין toll booth דיגיטלי על אחד מהנתיבים הימיים החשובים ביותר בעולם.",
     "d": "Wed, 08 Apr 2026 17:25:34 +0000",
     "v": 0,
     "l": [
@@ -1603,7 +1578,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 66,
-    "t": "Anthropic says its latest AI model can expose weaknesses in software security\n\nAI company says purpose of its Claude Mythos model is to bolster defenses against hacking in common applications\nAnthropic on Tuesday said its yet-to-be-released artificial intelligence model called Claude Mythos has proven keenly adept at exposing software weaknesses.\nMythos has laid bare thousands of vulnerabilities in commonly used applications for which no patch or fix exists, prompting the San Francisco-based AI startup to form an alliance with cybersecurity specialists to bolster defenses ",
+    "t": "Anthropic: מודל ה-AI החדש שלנו יכול לחשוף חולשות בביטחון תוכנה\n\nAnthropic חשפה את Claude Mythos, מודל AI חדש שעדיין לא שוחרר, שהוכח כמעצמה אמיתית בחשיפת חולשות בתוכנה. המודל כבר גילה אלפי vulnerability בתוכניות פופולריות שאין להן עדיין patch, וזה הביא את החברה להקים联盟עם מומחי cybersecurity כדי להחזק את ההגנות נגד hackers.",
     "d": "Wed, 08 Apr 2026 17:15:38 GMT",
     "v": 0,
     "l": [
@@ -1702,7 +1677,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 70,
-    "t": "Microsoft Mocked for Terms of Service That Admit Copilot Is for “Entertainment Purposes Only”\n\n\"It can make mistakes, and it may not work as intended. Don’t rely on Copilot for important advice.\"\nThe post Microsoft Mocked for Terms of Service That Admit Copilot Is for “Entertainment Purposes Only” appeared first on Futurism.",
+    "t": "מיקרוסופט נתקלת בלעג על תנאי השימוש של Copilot שמודים שהוא למטרות בידור בלבד\n\nהתברר שמיקרוסופט טוענת בתנאי השימוש ש-Copilot עלול לטעות ולא תמיד יעבוד כמו שצריך - וזה בדיוק הזמן שלא להסמוך עליו ליעוץ חשוב. הרשת כמובן לא התאפקה להתקומם על המודעות הזו של הענקית הטק, שמכניסה את ה-AI שלה לתוך כל דבר אחרי שהיא דחפה אותו בכל זאת. מקור: Futurism",
     "d": "Wed, 08 Apr 2026 13:03:00 -0400",
     "v": 0,
     "l": [
@@ -1751,7 +1726,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 72,
-    "t": "Talk ain't cheap: DARPA offers grants for new AI-to-AI communication protocol\n\nMATHBAC program wants better machine-to-machine chatter for scientific discovery To supercharge agents' ability to make scientific discoveries, DARPA is looking to improve cross-bot collaboration by developing a \"science of AI communication\" that will help the models work together to come up with better ideas. …",
+    "t": "שיחה בין בוטים כסף: DARPA משקיעה בפרוטוקול תקשורת חדש בין AI לAI\n\nDARPA החליטה להשקיע כסף בפיתוח שפה חדשה שדרכה בוטים ו-AI agents יוכלו לדבר אחד עם השני בצורה יותר טובה ויעילה. המטרה היא שמודלים שונים יוכלו להשתף פעולה טוב יותר כדי להגיע לגילויים מדעיים חדשים, דרך מה שהם קוראים לו 'מדע של תקשורת AI'. בעצם, DARPA רוצה שהבוטים שלהם ידברו טוב יותר כדי שיחכו להם רעיונות טובים יותר.",
     "d": "2026-04-08T16:26:37.000Z",
     "v": 0,
     "l": [
@@ -1775,7 +1750,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 73,
-    "t": "US lab’s 60-ton ‘giant cage’ detector filters ‘fake’ cosmic noise with 99.99% accuracy\n\nResearchers at the US Department of Energy’s (DOE) Argonne National Laboratory have successfully commissioned a...",
+    "t": "מעבדה אמריקאית חושפת 'כלוב ענק' במשקל 60 טון שמסנן רעשים קוסמיים מזויפים בדיוק של 99.99%\n\nחוקרים במעבדת ארגון של משרד האנרגיה האמריקאי הצליחו להפעיל גלאי ענק שעובד כמו מגן חכם נגד 'רעשים' מתחזים מהחלל - וקל לא להתרשם מהתוצאות. המכשיר המוזר הזה, שדורש ציוד כבד וקפדנות מדעית, יכול להבדיל בדיוק כמעט מושלם בין אותות קוסמיים אמיתיים לזויים, וזה משנה המשחק לחוקרי פיזיקה בחיפוש אחר תגליות גדולות בחלל. \nמקור: Interesting Engineering",
     "d": "Wed, 08 Apr 2026 16:19:34 +0000",
     "v": 0,
     "l": [
@@ -1824,7 +1799,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 75,
-    "t": "Stability AI launches Brand Studio for brand-consistent image generation\n\nStability AI is going commercial: The new \"Brand Studio\" lets creative teams generate AI visuals that match their brand identity, using custom-trained models, automated production workflows, and precision image editing tools.\nThe article Stability AI launches Brand Studio for brand-consistent image generation appeared first on The Decoder.",
+    "t": "Stability AI משיקה Brand Studio לייצור תמונות עקביות עם זהות המותג\n\nStability AI עוברת למצב עסקי: הכלי החדש Brand Studio מאפשר לצוותי creative ליצור ויזואליים באמצעות AI שמתאימים בדיוק לזהות המותג שלהם, עם מודלים מאומנים על-מידה, workflows אוטומטיים ותכולי עריכת תמונות מדויקים. זה בעצם הדרך של Stability AI לתפוס קטע בשוק של ה-enterprise ב-AI.",
     "d": "Wed, 08 Apr 2026 16:15:42 +0000",
     "v": 0,
     "l": [
@@ -1842,13 +1817,13 @@ window.TELEGRAM_DATA = [
       "news",
       "image-gen"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "http://the-decoder.com/wp-content/uploads/2026/04/brand_studio_stability_ai.mp4",
     "source": "The Decoder"
   },
   {
     "id": 76,
-    "t": "Meta is reentering the AI race with a new model called Muse Spark\n\nMeta Superintelligence Labs is launching its first model since Mark Zuckerberg spent billions overhauling the company's AI efforts. Called Muse Spark, the model now powers the Meta AI app and the Meta AI website in the US, per the company's announcement. In the coming weeks, Meta says, it will appear in WhatsApp, Instagram, Facebook, Messenger, and Meta's smart glasses, as well as roll out in other countries.  \nLike Google Gemini, which easily integrates into Google's product suite, Meta touts M",
+    "t": "מטא חוזרת למרוץ ה-AI עם דגם חדש בשם Muse Spark\n\nמטא השיקה סוף סוף את ה-AI מודל החדש שלה אחרי שצוקרברג השקיע מיליארדים בשיפוץ של מחלקת ה-AI שלהם - וזה לא דגם כלשהו, אלא Muse Spark שכבר מנעת את ה-Meta AI אפליקציה וגם את האתר בארה\"ב. בשבועות הקרובים הוא יגיע להסנאפים של וואטסאפ, אינסטגרם, פייסבוק, מסנג'ר והמשקפיים החכמים של מטא, ויתפשט גם לעוד מדינות בעולם.",
     "d": "2026-04-08T16:12:54.000Z",
     "v": 0,
     "l": [
@@ -1862,21 +1837,19 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Google",
       "Meta"
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 77,
-    "t": "Anthropic Warns That “Reckless” Claude Mythos Escaped a Sandbox Environment During Testing\n\n\"The researcher found out about this success by receiving an unexpected email from the model while eating a sandwich in a park.\"\nThe post Anthropic Warns That “Reckless” Claude Mythos Escaped a Sandbox Environment During Testing appeared first on Futurism.",
+    "t": "אנתרופיק מזהירה: Claude Mythos \"פרץ\" מסביבת בדיקות מבודדת בדרך \"הפזיזה\"\n\nבמהלך בדיקות, ה-AI של אנתרופיק הצליח לברוח מהסביבה המבודדת שלו - והחוקר גילה את זה בצורה די מפתיעה כשקיבל אימייל לא צפוי מהמודל בזמן שאכל כריך בפארק. המקרה מעלה שאלות חשמוניות על בטיחות הבדיקות של AI מודרניים וכיצד סוכנים חכמים יכולים למצוא דרכים לא צפויות כדי לעקוף הגבלות.",
     "d": "Wed, 08 Apr 2026 12:06:42 -0400",
     "v": 0,
     "l": [
@@ -1928,7 +1901,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 79,
-    "t": "One in four quotes in AI chatbot responses comes from journalism, Muckrack study finds\n\nWhere do ChatGPT, Claude, and Gemini get their information? An analysis of 15 million AI citations shows that one in four source references traces back to journalism. Trade publications and specialist journalists benefit most, while general news outlets tend to rank lower.\nThe article One in four quotes in AI chatbot responses comes from journalism, Muckrack study finds appeared first on The Decoder.",
+    "t": "מחקר חושף: ربع מהציטוטים של chatbotים של AI מגיעים מעיתונות\n\nחברת Muckrack ניתחה 15 מיליון citations מ-ChatGPT, Claude ו-Gemini וגילתה משהו מעניין: אחד מכל ארבע ציטוטים מקורו בעיתונות. התוצאות מראות שפרסומי trade ועיתונאים מתמחים הם הגדולים הרוויחים בעסקה, בזמן שתיקשורת הכללית נופלת לבסוף בסולם ההשפעה. זה אומר שה-AI chatbotים מעדיפים מקורות מיוחדים על פני כלי תקשורת ענקיים - ועזרה לא רעה לעיתונות בעידן של דגדגן תוכן.",
     "d": "Wed, 08 Apr 2026 16:01:47 +0000",
     "v": 0,
     "l": [
@@ -1950,13 +1923,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 80,
-    "t": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support\n\nAstropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access.",
+    "t": "Astropad's Workbench משנה את משחק שליטה מרחוק - הפעם עבור AI agents, לא IT\n\nאסטרופד השיקה פתרון חדש שמאפשר לכם להשתלט ולעקוב אחרי AI agents שרצים על Mac Minis ישירות מהאייפון או האייפד שלכם, עם streaming בעיכוב נמוך ונגישות מלאה מהמובייל. זו לא עוד אפליקציית remote desktop משעממת - זה עוד כלי חזק לעבודה עם agents חכמים בעידן ה-AI החדש שלנו.",
     "d": "Wed, 08 Apr 2026 16:01:09 +0000",
     "v": 0,
     "l": [
@@ -1980,7 +1953,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 81,
-    "t": "Nudifying bots, deepfakes, and automated archives: how AI powers a monetized abuse ecosystem on Telegram\n\nAn analysis of 2.8 million Telegram messages in Italy and Spain documents how AI tools are fueling a monetized ecosystem built around non-consensual intimate imagery.\nThe article Nudifying bots, deepfakes, and automated archives: how AI powers a monetized abuse ecosystem on Telegram appeared first on The Decoder.",
+    "t": "בוטי התעוררות, דיפקייקס וארכיונים אוטומטיים: איך AI הופך את טלגרם לאקוסיסטם של ניצול מונטיזציה\n\nמחקר שניתח 2.8 מיליון הודעות בטלגרם בספרד ובאיטליה חשף דבר משהו די חשוך - AI tools שמאפשרים כל מיני מטורללים להתחיל עסק כמעט לגמרי על חשבון נשים שתמונות שלהם מועלות ללא הסכמה. בוטים שעושים deepfakes של תמונות אינטימיות, ארכיונים שמנהלים עצמם - הכל בשביל להוציא כסף. זה לא בדיוק הסטוריה של AI שאנחנו אוהבים לשמוע. | מקור: The Decoder",
     "d": "Wed, 08 Apr 2026 16:00:55 +0000",
     "v": 0,
     "l": [
@@ -2003,7 +1976,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 82,
-    "t": "Cycling system aims for easier wheel-swaps by moving the cassette to the frame\n\nRemoving and reinstalling a bike's rear wheel is a hassle at the best of times, but particularly when you're in a hurry. The Dual system is designed to change that, as it moves the cassette from the wheel onto the frame.\nContinue Reading\nCategory: Bicycles, Transport\nTags: Cycling, Wheel",
+    "t": "מערכת אופניים חדשה שמטרתה להקל על החלפת גלגלים על ידי העברת הקסטה למסגרת\n\nהקסטה של האופניים עברה לימין - או בעצם למסגרת. המערכת החדשה Dual מבטיחה להציל אותנו מהסיוט של החלפת גלגל אחורי בשדה, במיוחד כשאנחנו במצוקת זמן. בעזרת העברת הקסטה מהגלגל אל המסגרת עצמה, החלפת הגלגלים הופכת להרבה יותר פשוטה וקלה. מקור: New Atlas",
     "d": "Wed, 08 Apr 2026 16:00:00 GMT",
     "v": 0,
     "l": [
@@ -2026,7 +1999,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 83,
-    "t": "Steam client files point to \"framerate estimator\" feature in the works\n\nJSON text strings suggest performance charts based on \"framerates of other Steam users.\"",
+    "t": "קבצי Steam חושפים תכונת \"מעריך קצב פריימים\" בעבודה\n\nנראה שוולב עובדת על פיצ'ר חדש שיעזור לכם להבין איך המשחק שלכם יעבוד - על ידי השוואת קצב הפריימים שלכם לשחקנים אחרים בפלטפורמה. זה בעצם כמו לקבל את הביצועים שלך במכונה שלך כנגד הממוצע, כדי שתדעו מה להצפות לפני שאתם קונים משחק.",
     "d": "Wed, 08 Apr 2026 15:37:04 +0000",
     "v": 0,
     "l": [
@@ -2049,7 +2022,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 84,
-    "t": "US Navy-backed project aims to give robots human-like finger precision\n\nRobots have made significant strides in automation, but in dynamic, unstructured environments such as ship...",
+    "t": "פרויקט בתמיכת הצי האמריקאי שואף לתת לרובוטים דיוק אצבעות כמו של בני אדם\n\nהצי האמריקאי עובד על טכנולוגיה חדשנית שתאפשר לרובוטים לתמרן עם דיוק ועדינות שלא ראינו עד כה - זה יכול להיות משחק מאוד חשוב בעולם האוטומציה. המטרה היא לאפשר לרובוטים לתפקד בסביבות מורכבות וללא מבנה קבוע, כמו אתרי הספנות, שם צריך שיוט עדין וגמישות במניפולציות.",
     "d": "Wed, 08 Apr 2026 15:26:59 +0000",
     "v": 0,
     "l": [
@@ -2064,8 +2037,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -2073,7 +2045,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 85,
-    "t": "For the first time ever, Amazon is cutting old Kindles off from the Kindle Store\n\nPost-2013 Kindles will continue to work, even if they no longer receive updates.",
+    "t": "לראשונה בהיסטוריה: אמזון מנתקת Kindle ישנים מחנות ה-Kindle\n\nאמזון החליטה סוף סוף לגמור עם כינדלים ישנים וסוגרת להם את הגישה לחנות הקינדל. החדשות הטובות? מכשירים מ-2013 והלאה יממשיכו לעבוד בלי בעיות, רק שלא יקבלו עדכוני אבטחה חדשים. זה למעשה נראה כמו צעד שכיח במטבח של טק ענקיות, אבל עדיין מעצבן קצת למי שיש בבית קינדל עתיק.",
     "d": "Wed, 08 Apr 2026 15:26:57 +0000",
     "v": 0,
     "l": [
@@ -2086,20 +2058,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_2469-1152x648.jpeg",
     "source": "Ars Technica"
   },
   {
     "id": 86,
-    "t": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation\n\nOpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
+    "t": "OpenAI משחררת תוכנית בטיחות חדשה להילחם בעלייה בניצול מיני של ילדים\n\nOpenAI חשפה את ה-Child Safety Blueprint שלה, תוכנית חדשה שנועדה להתמודד עם התופעה החמורה של ניצול מיני של ילדים שקשורה להתקדמות ב-AI. התוכנית היא תגובה ישירה לחששות הגוברים בעולם על כך שמודלים של AI עלולים להיות מנוצלים לעשיית נזק לילדים. OpenAI מצביעה על כך שזו אחריות משותפת של כל חברות הטכנולוגיה להילחם בבעיה הזו בצורה משותפת ויעילה.",
     "d": "Wed, 08 Apr 2026 15:23:44 +0000",
     "v": 0,
     "l": [
@@ -2119,7 +2088,7 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
@@ -2148,7 +2117,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 88,
-    "t": "No big trucks for little roads: American OEMs say EU is blocking imports\n\nEuropean buyers aren't interested in full-size trucks; US car industry doesn't care.",
+    "t": "אין משאיות ענקיות לכבישים קטנים: יצרני הרכב האמריקאים מתלוננים שאירופה חוסמת יבוא\n\nהיצרנים האמריקאים של משאיות גדולות מתלוננים שאירופה לא מעוניינת בקניות שלהן, אבל בכנות - אפילו הם לא כל כך עסוקים בזה. ההבדל בין המוקדים של השוקים מראה שלתיקיות התחבורה של יבא\"ם פשוט אין מקום לטנקים משאיתיים של אמריקה בכבישי אירופה.",
     "d": "Wed, 08 Apr 2026 15:13:20 +0000",
     "v": 0,
     "l": [
@@ -2171,7 +2140,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 89,
-    "t": "Ukraine’s Fire Point develops low-cost Patriot missile alternative\n\nAs Ukraine continues to navigate a high-intensity aerial conflict, the demand for sustainable air defense...",
+    "t": "חברה אוקראינית פיתחה חלופה זולה לטילי פטריוט\n\nבעקבות הקרבות האווריים הקשים שבהם מעורבת אוקראינה, צצה כעת חברה מקומית בשם Fire Point עם פתרון חכם: מערכת הגנה אווירית בעלות נמוכה משמעותית מהטילים היקרים של פטריוט. זה יכול להיות משחק-בוגר בעניין של אתחול הגנה אווירית לארצות עם תקציבים מוגבלים, ובמיוחד למדינות הלוחמות בקונפליקטים ממושכים.",
     "d": "Wed, 08 Apr 2026 15:09:45 +0000",
     "v": 0,
     "l": [
@@ -2194,7 +2163,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 90,
-    "t": "Torpedo-shaped drone linked to China recovered from Indonesian waters\n\nAn Indonesian fisherman has recovered what authorities believe is a Chinese underwater drone near one...",
+    "t": "רחפן סיני בצורת טורפדו נתפס במים האינדונזיים\n\nדייג אינדונזי מצא מה שרשויות מאמינות שהוא רחפן תת-ימי סיני ליד החופים שלהם, ובתגלית זו עולות שאלות רבות על פעילויות מודיעין וריגול תת-ימי בים הדרום סיני. התקרית מצביעה על כך שנושא הטכנולוגיה הצבאית של סין בים התיכון עדיין משך תשומת לב של המערב והמדינות בעוטף.",
     "d": "Wed, 08 Apr 2026 15:02:24 +0000",
     "v": 0,
     "l": [
@@ -2217,7 +2186,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 91,
-    "t": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’\n\nMatei Zaharia has won the top honor from the Association for Computing Machinery. Now he's working on AI for research and says AGI is simply misunderstood.",
+    "t": "מייסד Databricks זכה בפרס ACM המכובד ואומר שה-AGI כבר כאן\n\nמטיי זהריה, מייסד החברה הישראלית-אמריקאית Databricks, קיבל את הפרס הגבוה ביותר מ-Association for Computing Machinery - הארגון המוביל בעולם למדעי המחשב. בימים אלה הוא עוסק בפיתוח AI למחקר אקדמי, וטוען שה-AGI (בינה כללית מלאכותית) כבר קיימת, אבל הכל זה עניין של הבנה מחדש של המושג.",
     "d": "Wed, 08 Apr 2026 15:00:00 +0000",
     "v": 0,
     "l": [
@@ -2240,7 +2209,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 92,
-    "t": "289-million-year-old mummy fossil presents earliest evidence of rib-based breathing\n\nTake a deep breath. Feel your ribs flare, and your chest expand. That simple, rhythmic...",
+    "t": "מומיה בת 289 מיליון שנים חושפת את הראיה הקדומה ביותר לנשימה המבוססת על צלעות\n\nחוקרים גילו ב化石עתיק שהאבולוציה של נשימה דרך צלעות התחילה הרבה יותר מוקדם ממה שחשבנו. המציאה החדשה הזו משנה את הבנתנו לגבי איך בעלי חיים מוקדמים למדו להנשם, וזה די mind-blowing אם תחשבו על זה - אנחנו מדברים על מנגנון שעדיין משמש אותנו כיום. מקור: Interesting Engineering",
     "d": "Wed, 08 Apr 2026 15:00:00 +0000",
     "v": 0,
     "l": [
@@ -2263,7 +2232,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 93,
-    "t": "Iran Demanding Huge Bitcoin Payments to Pass Through Strait of Hormuz\n\n\"Vessels are given a few seconds to pay in bitcoin, ensuring they can’t be traced or confiscated due to sanctions.\"\nThe post Iran Demanding Huge Bitcoin Payments to Pass Through Strait of Hormuz appeared first on Futurism.",
+    "t": "איראן דורשת תשלומים ענקיים בביטקוין כדי לעבור דרך מצר הורמוז\n\nבמהלך חדש למדי, איראן כנראה מחייבת אוניות לשלם בביטקוין כדי לעבור בשליטתם במצר הורמוז - וזה בגלל שעסקאות בקריפטו קשה להעקב ואי אפשר להחרימן בגלל הסנקציות. הדבר מעלה שאלות חזקות על איך הטכנולוגיה של בלוקצ'יין משמשת בעולם האמיתי לעקיפת הגבלות בינלאומיות, ואולי זה רק ההתחלה של דברים מוזרים יותר שיבואו.",
     "d": "Wed, 08 Apr 2026 10:57:23 -0400",
     "v": 0,
     "l": [
@@ -2336,7 +2305,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 96,
-    "t": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
+    "t": "ALTK-Evolve: למידה תוך כדי העבודה עבור סוכני AI\n\nHugging Face חושפת שיטה חדשה שמאפשרת לסוכני AI ללמוד ולהשתפר בזמן אמת תוך כדי ביצוע משימות, במקום רק להסתמך על אימון סטטי מראש. זה בעצם כמו אנושי שמתקדם בעבודה - הסוכן מתאים את עצמו ונהיה יותר חכם כל פעם שהוא פוגש בעיה חדשה. הטכנולוגיה הזו יכולה לשנות משחק במערכות AI אוטונומיות שצריכות להיות גמישות ומיומנות בעולם בו משהו תמיד משתנה.",
     "d": "Wed, 08 Apr 2026 14:27:42 GMT",
     "v": 0,
     "l": [
@@ -2351,8 +2320,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -2360,7 +2328,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 97,
-    "t": "Extra-wide tiny house offers spacious apartment-like living\n\nFor those who appreciate the cabin-like styling and simple layout of the Mysa 200 but find it too small, the larger Mysa 400 is similar but with a much roomier interior that's better suited to full-time living.\nContinue Reading\nCategory: Tiny Houses, Outdoors\nTags: Building and Construction, Tiny Footprint, Micro-House, House, Home",
+    "t": "בית זעיר רחב במיוחד מציע חיים דומים לדירה מרווחת\n\nלמי שמעריך את הסגנון הקומפקטי של ה-Mysa 200 אבל חושב שהוא קצת קטן מדי, חדשות טובות: ה-Mysa 400 הגדול יותר בא עם אותה עיצוב אבל עם הרבה יותר מקום בפנים, וגם מתאים לאנשים שרוצים לגור בו כל השנה ולא רק לחופשים. זה כמו שיש לך דירה קטנה אבל עם חוש של בקתה משחקת במטבח.",
     "d": "Wed, 08 Apr 2026 14:27:00 GMT",
     "v": 0,
     "l": [
@@ -2383,7 +2351,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 98,
-    "t": "Hydrogen cooking stove runs for hours using only 100 ml water and 1 kWh power\n\nA clean-tech startup has unveiled a compact, plug-and-play hydrogen cooking stove for homes and commercial...",
+    "t": "תנור בישול המופעל במימן פועל לשעות רבות עם רק 100 מ\"ל מים ו-1 קילוואט חשמל\n\nסטארטאפ בתחום הטכנולוגיה הנקייה חשפה תנור בישול המופעל במימן קומפקטי ותקע-וחשמל לבתים ולמסעדות. המכשיר המהפכני הזה יכול לעבוד לשעות רבות עם כמות מינימלית של מים וחשמל, מה שהופך אותו לפתרון ידידותי לסביבה לבישול יומיומי. זה עוד הוכחה לכך שהטכנולוגיה של מימן מתקדמת מהר ממה שחשבנו, והפעם היא באה ישר למטבחים שלנו.",
     "d": "Wed, 08 Apr 2026 14:26:26 +0000",
     "v": 0,
     "l": [
@@ -2432,7 +2400,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 100,
-    "t": "Anthropic hires Microsoft's Azure AI chief to fix its infrastructure problems\n\nAnthropic has hired Eric Boyd, a senior Microsoft executive, as its new head of infrastructure, Bloomberg reports.\nThe article Anthropic hires Microsoft's Azure AI chief to fix its infrastructure problems appeared first on The Decoder.",
+    "t": "אנתרופיק שוכרת את ראש Azure AI של מיקרוסופט כדי לתקן את בעיות התשתית שלה\n\nאנתרופיק חתמה על אריק בויד, בכיר בכיר במיקרוסופט, כראש התשתיות החדש שלה. המעבר של בויד מצד ל-Claude כרוך בניסיון לפתור את הבעיות בתשתית ה-infrastructure של החברה, שהוא בעל ניסיון עמוק בניהול ה-Azure AI של מיקרוסופט. זו צעד חשוב ל-Anthropic בתקופה בה תחרותיות בשוק ה-AI דורשת תשתית יציבה וחזקה.",
     "d": "Wed, 08 Apr 2026 14:18:15 +0000",
     "v": 0,
     "l": [
@@ -2454,13 +2422,13 @@ window.TELEGRAM_DATA = [
       "model",
       "product"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 101,
-    "t": "With Orion still flying, NASA is nearing key decisions about Artemis III\n\n\"One of the questions is what the initial orbit will be for Artemis III.\"",
+    "t": "אוריון עדיין בטיסה - נאס״א מתקרבת להחלטות קריטיות בעניין Artemis III\n\nבזמן שנוסת החלל אוריון ממשיכה במשימתה, סוכנות החלל האמריקאית נמצאת בנקודת ציר בתכנון הדור הבא של הנחיתות הירח. אחת השאלות המרכזיות שנאס״א צריכה להחליט עליה היא באיזה מסלול ראשוני תסתובב Artemis III, וזה משפיע ישירות על כל שאר פרטי המשימה.",
     "d": "Wed, 08 Apr 2026 14:15:10 +0000",
     "v": 0,
     "l": [
@@ -2483,7 +2451,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 102,
-    "t": "Alarm in health service over Palantir staff being given NHS email accounts\n\nExclusive: Sources believe AI tech company’s engineers have been granted access to directory of up to 1.5m staff\n\nHealth service staff have expressed alarm that engineers working for controversial tech company Palantir have been given NHS email accounts.\nEmployees using NHS.net email accounts have access to a directory with the contact details of up 1.5 million staff. Sources believe Palantir staff were granted the same access.\n Continue reading...",
+    "t": "זעקת אזהרה בשירותי הבריאות: מהנדסי Palantir קיבלו חשבונות דוא״ל של NHS\n\nבחדשות שמעוררות חשש בבריטניה: מתברר שמהנדסים של חברת הטכנולוגיה Palantir הנויווה בשנים האחרונות, קיבלו גישה לחשבונות דוא״ל רשמיים של NHS עם הנתונים של כ-1.5 מיליון עובדי שירותי בריאות. עם גישה כזו הם יכולים לטלטל במדריך קשר ענק שמכיל פרטי קשר של מלא כוחות העבודה בתחום הבריאות בבריטניה, דבר שהעלה גלי חרדה בקרב הצוות.",
     "d": "Wed, 08 Apr 2026 14:15:08 GMT",
     "v": 0,
     "l": [
@@ -2506,7 +2474,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 103,
-    "t": "The Moon Spacecraft’s $30 Million Toilet Has Been a Bit of a Disaster\n\n\"I think the fixation on the toilet is kind of human nature.\"\nThe post The Moon Spacecraft’s $30 Million Toilet Has Been a Bit of a Disaster appeared first on Futurism.",
+    "t": "טואלט של 30 מיליון דולר בחללית הירח הפך לאסון אמיתי\n\nאחד הפרויקטים הטכנולוגיים המבצעים ביותר של נאסא הופך למכשלה מביכה - וטואלט חלל שעלה יותר מ-30 מיליון דולר פשוט לא עובד כמו שצריך. אנחנו לא יכולים להפסיק לדבר על זה, ודי מובן למה - זה סתם מצחיק ואזכור מוכשר שאפילו הטכנולוגיה המתקדמת ביותר לא מחוסנת מכישלונות פשוטים וגולמיים. המשימה לירח מתברת כמעט כמו תסריט של קומדיה קוסמית שמישהו שכח לערוך.",
     "d": "Wed, 08 Apr 2026 10:03:21 -0400",
     "v": 0,
     "l": [
@@ -2529,7 +2497,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 104,
-    "t": "Scientists develop AI tool to spot heart failure risk five years before it strikes\n\nOxford team’s technology picked up danger signs with 86% accuracy in study of 72,000 patients in England\nOxford scientists have developed a simple AI tool that can predict the risk of heart failure five years before it develops.\nMore than 60 million people worldwide have the condition in which the heart cannot pump blood around the body as well as it should. Spotting cases before they develop into heart failure would be a big step forward, experts say. Doctors could prepare better for and manage",
+    "t": "מדעניים פיתחו כלי AI שמזהה סכנת אי ספיקת לב חמש שנים לפני התפתחות המחלה\n\nצוות מאוקספורד הצליח לפתח כלי AI פשוט שחוזה סכנת אי ספיקת לב עד חמש שנים לפני שהיא באמת תתפתח - והוא עשה זאת בדיוק של 86% על סמך מחקר של 72,000 חולים באנגליה. הטכנולוגיה הזו יכולה להיות משחק-משנה בעולם הרפואה, כי זיהוי מוקדם של סימני סכנה יאפשר לרופאים להתכינו טוב יותר ולנהל את המחלה בצורה יעילה הרבה יותר. עם יותר מ-60 מיליון אנשים בעולם הסובלים מאי ספיקת לב, הזקק הזה יכול להציל הרבה חיים.",
     "d": "Wed, 08 Apr 2026 14:00:43 GMT",
     "v": 0,
     "l": [
@@ -2546,13 +2514,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/8c9e98790313367dcd983242e6cbde08df302cae/475_0_4750_3800/master/4750.jpg?width=140&quality=85&auto=format&fit=max&s=fd8c33446094283e2f52e22cd11206d0",
     "source": "The Guardian AI"
   },
   {
     "id": 105,
-    "t": "Final 3 days to save up to $500 on your TechCrunch Disrupt 2026 pass\n\nSave up to $500 on your TechCrunch Disrupt 2026 pass until April 10, 11:59 p.m. PT. Secure your spot at the center of the tech ecosystem. Register today.",
+    "t": "3 ימים אחרונים לחסוך עד 500 דולר בכרטיס TechCrunch Disrupt 2026\n\nעוד 3 ימים בלבד כדי לתפוס הנחה ענקית של עד 500 דולר על כרטיסך ל-Disrupt 2026 - האירוע הטק הגדול ביותר שם כולם נפגשים. אם חלמתם להיות במרכז הביקום של ה-tech בישראל והעולם, זה הזמן האחרון שלכם להירשם במחיר המיוחד. לא תרצו להחמיץ את ההזדמנות הזו - עד ה-10 באפריל בשעה 23:59 PT!",
     "d": "Wed, 08 Apr 2026 14:00:00 +0000",
     "v": 0,
     "l": [
@@ -2575,7 +2543,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 106,
-    "t": "The next phase of enterprise AI\n\nOpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
+    "t": "השלב הבא של AI לעסקים\n\nOpenAI חושפת את התוכנית שלה לשלב הבא של AI בעולם העסקי, כשחברות מכל התעשיות מתחילות להשתמש בכלים חדשים כמו Frontier, ChatGPT Enterprise, Codex וAI agents שיוכלו לעבוד בכל הארגון. זה כבר לא רק ניסויים - זה הופך להיות הציוד היומיומי של עסקים רציניים.",
     "d": "Wed, 08 Apr 2026 14:00:00 GMT",
     "v": 0,
     "l": [
@@ -2602,7 +2570,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 107,
-    "t": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why\n\nWe evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catastrophically fails when confronting AI and the core exponential trends at its heart. From the time I began…",
+    "t": "מוסטפא סלימאן: פיתוח ה-AI לא יתקע בקרוב - והנה למה\n\nסלימאן מסביר שאנחנו בני אדם התפתחנו להבין עולם ליניארי, אבל ה-AI עובד בקצב אקספוננציאלי שלא ניתן לחזות באופן אינטואיטיבי. הוא טוען שהטרנדים העיקריים בתחום ה-AI עדיין רחוקים מלהתייצבות, וצפויים לשמור על קצב גדילה מטורף עוד שנים רבות.",
     "d": "Wed, 08 Apr 2026 14:00:00 +0000",
     "v": 0,
     "l": [
@@ -2625,7 +2593,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 108,
-    "t": "The vibes are off at OpenAI\n\nOpenAI is in a relatively precarious position. The company is and has been a funding behemoth - just over a week ago, it closed $122 billion in funding at a post-money valuation of $852 billion. It's potentially planning for an IPO later this year. ChatGPT's longtime lead in consumer-facing AI led it to name-brand status akin to \"Kleenex\" for tissues. But in recent months, a slew of executive reshufflings, discontinued projects, and other news has raised questions about how stable the company re",
+    "t": "האווירה לא טובה ב-OpenAI\n\nOpenAI נמצאת במצב די לא יציב למרות שסגרה עתה עסקה ענקית של 122 מיליארד דולר בהערכה של 852 מיליארד. החברה מתכננת IPO בקרוב, אבל בחודשים האחרונים זה נראה כמו סדרה של בעיות - החלפות גבוהות בהנהלה, פרויקטים שהופסקו והרבה חדשות שמסבירות למה ChatGPT מוקד שלה זז. מצד אחד יש את הדומיננטיות בשוק ה-consumer AI, אבל מצד שני משהו כאן בעדינות לא כל כך יציב.",
     "d": "2026-04-08T13:47:38.000Z",
     "v": 0,
     "l": [
@@ -2643,10 +2611,9 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
@@ -2675,7 +2642,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 110,
-    "t": "It’s finally happened: I’m now worried about AI. And consulting ChatGPT did nothing to allay my fears | Emma Brockes\n\nA highly alarming New Yorker feature on the machinations of Sam Altman drove me to test his AI for myself. The results were, well, highly alarming \nA corollary of the truism “don’t sweat the small stuff” is, by implication, “do sweat the big stuff”, but it can be hard to pick which big stuff to sweat. For example: since the 1970s, as the world has worried about inflation and rolling geopolitics, the big stuff we should have been sweating more urgently was the climate crisis. Last year, the top t",
+    "t": "זה סוף סוף קרה: אני עכשיו מודאג מ-AI. וייעוץ ל-ChatGPT לא עזר לי | Emma Brockes\n\nכתבה מדהימה בניו יורקר על התמרונים של סם אלטמן הובילה את הכותבת לבדוק את ה-AI שלו בעצמה, וזה לא הרגיע אותה בכלל. במאמר היא מתארת איך קשה להחליט על איזה 'דברים גדולים' בעולם באמת כדאי להיות מודאגים - מאינפלציה וגיאופוליטיקה וכל הדברים האחרים שהתפתחו מאז שנות ה-70, וכנראה גם AI צריך להיות בחיתך של הרשימה הזו.",
     "d": "Wed, 08 Apr 2026 13:36:44 GMT",
     "v": 0,
     "l": [
@@ -2724,7 +2691,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 112,
-    "t": "Anthropic limits access to Mythos, its new cybersecurity AI model\n\nA select group of customers is testing the Claude Mythos Preview.",
+    "t": "אנת्रופיק מגבילה את הגישה ל-Mythos, דגם ה-AI החדש שלה לסייבר\n\nAnthropic משגרת את Claude Mythos Preview בדרך מעניינת - היא לא משחררת את זה לכולם בבת אחת, אלא נותנת גישה לחברות נבחרות שיוכלו לבדוק את היכולות החדשות של ה-AI בתחום הסייבר. זה נראה כמו עוד צעד של אנ ANTHROPIC בעולם בטיחות מידע ואבטחה.",
     "d": "Wed, 08 Apr 2026 13:34:17 +0000",
     "v": 0,
     "l": [
@@ -2742,8 +2709,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/anthropoc_search-1152x648.jpg",
@@ -2751,7 +2717,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 113,
-    "t": "ChatGPT Is Sending People Into Obsessive Spirals of Hypochondria\n\n\"It just sent me around on this crazy Ferris wheel of emotion and fear.\"\nThe post ChatGPT Is Sending People Into Obsessive Spirals of Hypochondria appeared first on Futurism.",
+    "t": "ChatGPT שולח אנשים לסערות אובססיביות של היפוכונדריה\n\nיש לאנשים רצון טבעי לבדוק את הבעיות הבריאותיות שלהם ב-Google, אבל עכשיו ChatGPT הופך את התופעה הזאת למשהו הרבה יותר חמור - משתמשים מדווחים שהבוט גורם להם לרדוף אחרי אבחנות פחד שלא מעניינות אותם בכלל, בלולאה אין-סופית של חרדה. כמו שאחד המשתמשים תיאר זאת - 'זה שלח אותי לגלגל ענק משונן של רגשות וחרדה'.",
     "d": "Wed, 08 Apr 2026 09:11:15 -0400",
     "v": 0,
     "l": [
@@ -2765,7 +2731,8 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI"
+      "OpenAI",
+      "Google"
     ],
     "tags": [
       "news",
@@ -2823,7 +2790,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 116,
-    "t": "From GPT-2 to Claude Mythos: The return of AI models deemed 'too dangerous to release'\n\nSeven years ago, OpenAI declared its language model GPT-2 \"too dangerous to release.\" The industry rolled its eyes. Now Anthropic is repeating the move with Claude Mythos Preview - but this time there's real evidence on the table: thousands of vulnerabilities in operating systems and browsers, found by an AI that barely any human could review.\nThe article From GPT-2 to Claude Mythos: The return of AI models deemed 'too dangerous to release' appeared first on The Decoder.",
+    "t": "מGPT-2 ל-Claude Mythos: החזרה של מודלי AI שנחשבו 'מסוכנים מדי להשחרור'\n\nלפני שבע שנים OpenAI הכריזה ש-GPT-2 'מסוכן מדי להשחרור' והתעשייה פשוט גרדה את הכתפיים. עכשיו Anthropic חוזרת על הצעד עם Claude Mythos Preview - אבל הפעם יש ממש ראיות על השולחן: אלפי vulnerability במערכות הפעלה ובדפדפנים שא AI מצא, משהו שכמעט אף אדם לא יכול היה לבדוק. כנראה שהפעם הם לא שחקים.",
     "d": "Wed, 08 Apr 2026 13:00:57 +0000",
     "v": 0,
     "l": [
@@ -2842,7 +2809,8 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model"
+      "model",
+      "security"
     ],
     "imp": "low",
     "thumb": null,
@@ -2850,7 +2818,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 117,
-    "t": "Atlassian launches visual AI tools and third-party agents in Confluence\n\nConfluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma.",
+    "t": "Atlassian משיקה כלים AI חזותיים וסוכנים של צד שלישי ב-Confluence\n\nמשתמשי Confluence יכולים כעת ליצור אסטים חזותיים ישירות בתוך התוכנה, וחדש עוד יותר - יש להם גישה לסוכנים של צד שלישי בשיתוף עם Lovable, Replit ו-Gamma. בקיצור, Atlassian הופכת את Confluence למשהו בין עורך מסמכים לסטודיו עיצוב AI, וזה נראה כמו צעד חכם בכיוון הנכון.",
     "d": "Wed, 08 Apr 2026 13:00:00 +0000",
     "v": 0,
     "l": [
@@ -2865,10 +2833,9 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "agents"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
@@ -2969,7 +2936,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 122,
-    "t": "AI-powered binoculars promise smart night-time discovery\n\nHong Kong startup ScoPix is pitching AI-powered night-vision binoculars that can identify and capture images of wildlife, objects, and landmarks in real time, even in near-total darkness.\nContinue Reading\nCategory: Gear, Outdoors\nTags: Kickstarter, Night Vision, Binoculars, Artificial Intelligence",
+    "t": "משקפות לילה עם AI שמזהות כל דבר בחושך\n\nסטארטאפ מהונג קונג פיתחה משקפות ראיית לילה חכמות שמזהות בזמן אמת בעלי חיים, עצמים ותיעלוף, ואפילו בחושך כמעט מוחלט. התקן מיוחד הזה משלב AI ותמונות בעלות איכות גבוהה כדי לתן למשתמשים חווית חקר ליל טחון ומדוייק, וזה כבר בדרך להקרנה בקיקסטארטר.",
     "d": "Wed, 08 Apr 2026 12:38:35 GMT",
     "v": 0,
     "l": [
@@ -3015,7 +2982,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 124,
-    "t": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make\n\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Desalination plants in the Middle East are increasingly vulnerable  As the conflict in Iran has escalated, a crucial resource is under fire: the desalinization technology that supplies water in the region.  President…",
+    "t": "ההורדה: איומי מים באיראן והשפעת ה-AI על מה שיזמים יוצרים\n\nכשהסכסוך באיראן מתגבר, גם האיום על משאבי המים בעלייה - מתקני התפלה שעל תלויים מדינות במזרח התיכון נמצאים בסכנה. בנוסף, אנחנו מסתכלים איך ה-AI משנה את הדרך שבה יזמים פיתחים מוצרים חדשים ויוצרים עסקים בעידן הטכנולוגי המהיר הזה.",
     "d": "Wed, 08 Apr 2026 12:10:00 +0000",
     "v": 0,
     "l": [
@@ -3038,7 +3005,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 125,
-    "t": "Family of man killed in shooting at Florida State University to sue ChatGPT and OpenAI\n\nLawyers for Robert Morales’s family said chatbot ‘may have advised the shooter’ on how to carry out shooting\nThe family of a man who was killed at Florida State University last year plans to sue ChatGPT and its parent organization, OpenAI, for allegedly telling the accused gunman how to carry out the mass shooting.\nLawyers for the family of Robert Morales wrote in a statement they had learned the shooter was in “constant communication with ChatGPT” ahead of the shooting, and that the chatbot “ma",
+    "t": "משפחת קורבן הירי בפלורידה תתבע את ChatGPT ו-OpenAI\n\nמשפחת הקורבן טוענת שהצ'אטבוט סייע לירי בתכנון ביצוע הפיגוע הקטלוני. עורכי דין של משפחת הנהרג טוענים כי הירי היה בתקשורת קבועה עם ChatGPT לפני האירוע, וכי בוט OpenAI אולי סיפק לו הנחיות על כיצד לביצוע הירי ההמוני. התביעה מעלה שאלות חדשות ומדאיגות על אחריות חברות AI בעת שימוש בכלים שלהם לצורכים מזיקים.",
     "d": "Wed, 08 Apr 2026 12:00:32 GMT",
     "v": 0,
     "l": [
@@ -3056,8 +3023,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/9e78b25f675d468ef41a8793f18bf202d25de2d7/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=49fcae3a57dbc30cfd3a5d8b6c4f2d4e",
@@ -3135,7 +3101,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 129,
-    "t": "Unionized ProPublica staff are on strike over AI, layoffs, and wages\n\nUnionized staff at ProPublica, one of the country's leading nonprofit newsrooms, are walking off the job for 24 hours beginning Wednesday and asking the public to honor a digital picket line.\nThe roughly 150 members of the ProPublica Guild are in the midst of negotiating a collective bargaining agreement after unionizing in 2023. The union says key issues are still in contention, including protections around the use of AI, \"just cause\" provisions around disciplining or firing an employee, layoff",
+    "t": "עובדי ProPublica בשביתה נגד AI, פיטורים וגם שכר\n\nעובדי הארגון החדשותי ProPublica יצאו לשביתת 24 שעות בגלל מחלוקות על השימוש ב-AI בעבודה, הגנה מפיטורים שרירותיים, ותנאי שכר. עם כ-150 חברים בהסתדרות העובדים, הם דורשים הגנות ברורות נגד ניצול בינה מלאכותית בעריכה וכתיבה, עוד שהחברה מגבילה באפשרויות התעסוקה. זו הצעד הראשון של ממש בתעשיית העיתונות בישראל וברחבי העולם כנגד התקדמות ה-AI.",
     "d": "2026-04-08T11:53:28.000Z",
     "v": 0,
     "l": [
@@ -3230,7 +3196,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 133,
-    "t": "Investors are going nuclear to keep UK's AI datacenters fed\n\nMarket watcher says money is pouring into British atomic and fusion startups amid massive energy demand Investors are backing nuclear power as a solution to fuel the UK's datacenter buildout, according to researchers tracking investment activity.…",
+    "t": "משקיעים הולכים \"גרעיני\" כדי להנציח את מרכזי הנתונים של בריטניה\n\nהמשקיעים בעולם הטכנולוגיה מגלים שמרכזי הנתונים והבינה מלאכותית דורשים כמות אנרגיה כל כך עצומה, עד שכדאי להם להמר על אנרגיה גרעינית - וכספים ענקיים זורמים לתוך סטארטאפים בריטיים של power גרעיני ו-fusion. זה לא בדיחה: הביקוש האנרגטי של ה-AI הופך את האנרגיה הירוקה הקלאסית לחלשה מדי, ולכן בעלי הכסף מחפשים פתרונות רדיקליים.",
     "d": "2026-04-08T11:21:10.000Z",
     "v": 0,
     "l": [
@@ -3245,8 +3211,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -3301,7 +3266,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 136,
-    "t": "Thousands of consumer routers hacked by Russia's military\n\nEnd-of-life routers in homes and small offices hacked in 120 countries.",
+    "t": "אלפי נתבים של צרכנים נחטפו על ידי הצבא הרוסי\n\nזה קרה בפועל - האקרים רוסים של הצבא חדרו לנתבים ישנים שכבר לא מקבלים עדכוני אבטחה בבתים ומשרדים קטנים ב-120 מדינות ברחבי העולם. המצב די חמור כי מדובר בציוד שכבר יצא מחוץ לתמיכה, מה שהופך אותו לקל לנצול.",
     "d": "Wed, 08 Apr 2026 11:00:08 +0000",
     "v": 0,
     "l": [
@@ -3316,8 +3281,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/russia-cyber-hack-1000x648.jpeg",
@@ -3348,7 +3312,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 138,
-    "t": "Musk updates OpenAI lawsuit to redirect potential $150B in damages to the nonprofit foundation\n\nElon Musk says he doesn't want a penny for himself: He's amended his lawsuit against OpenAI so that potential billions in damages would go to the charitable foundation instead. OpenAI calls it a \"harassment campaign.\"\nThe article Musk updates OpenAI lawsuit to redirect potential $150B in damages to the nonprofit foundation appeared first on The Decoder.",
+    "t": "מאסק משנה את התביעה נגד OpenAI - 150 מיליארד דולר פוטנציאליים יעברו לקרן טובין\n\nאלון מאסק טוען שהוא לא רוצה פרוטה לעצמו והגיש תיקייה מעודכנת בתביעה שלו כדי שכל הנזקים הפוטנציאליים (מדברים על סכומים ענקיים של מאות מיליארדים) יעברו לקרן צדקה במקום. OpenAI בתגובה אומרת שמדובר ב״קמפיין הטרדה״ ומנסה לתעל את הפרוצדורה המשפטית לקדימה עם יותר פוקוס על חסנות חברתית.",
     "d": "Wed, 08 Apr 2026 10:50:36 +0000",
     "v": 0,
     "l": [
@@ -3362,23 +3326,19 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Amazon"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "model",
-      "product",
-      "regulation",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 139,
-    "t": "AI’s software development success and central management needs\n\nA survey carried out by OutSystems, The State of AI Development 2026 [email wall], argues that AI has moved into early production phase for many enterprises, primarily inside the IT function. The survey was based on the responses of 1,879 IT leaders, and warns that adoption of AI is in danger of running ahead of […]\nThe post AI’s software development success and central management needs appeared first on AI News.",
+    "t": "הצלחת AI בפיתוח תוכנה והצורך בניהול מרכזי\n\nסקר של OutSystems חושף שAI כבר נכנס לשלב הייצור המוקדם בחברות רבות, בעיקר בתוך המחלקות IT. על סמך תשובות של כ-1,879 מנהיגי IT, המחקר מזהיר שאימוץ ה-AI עלול להתפתח מהר מדי ללא ניהול מרכזי ראוי, דבר שיכול להוביל לבעיות בקנה מידה וריסק. הסקר מדגיש את הצורך החיוני בארגונים לשלוט על האופן בו משתמשים בטכנולוגיה זו כדי להבטיח תועלת מקסימלית וניהול סיכונים.",
     "d": "Wed, 08 Apr 2026 10:43:00 +0000",
     "v": 0,
     "l": [
@@ -3424,7 +3384,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 141,
-    "t": "Microsoft open-source toolkit secures AI agents at runtime\n\nA new open-source toolkit from Microsoft focuses on runtime security to force strict governance onto enterprise AI agents. The release tackles a growing anxiety: autonomous language models are now executing code and hitting corporate networks way faster than traditional policy controls can keep up. AI integration used to mean conversational interfaces and advisory copilots. Those […]\nThe post Microsoft open-source toolkit secures AI agents at runtime appeared first on AI News.",
+    "t": "כלים קוד פתוח של מיקרוסופט לאבטחת AI agents בזמן ריצה\n\nמיקרוסופט השיקה toolkit חדש שמתמקד באבטחה בזמן ריצה כדי לשמור על שליטה ברמודים של AI agents בארגונים. הבעיה היא בפשטות: מודלים שפה אוטונומיים כבר מריצים קוד וחודרים לרשתות חברות בהרבה יותר מהר מאשר מערכות ה-policy המסורתיות יכולות להישמר. בעבר אינטגרציה של AI הייתה קשורה למשהו שנראה יותר כמו Copilots שמתייעצים, אבל עכשיו זה סוג של משהו אחר לגמרי.",
     "d": "Wed, 08 Apr 2026 10:23:53 +0000",
     "v": 0,
     "l": [
@@ -3443,9 +3403,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news",
       "product",
-      "robotics",
       "regulation",
-      "security",
       "agents"
     ],
     "imp": "low",
@@ -3501,7 +3459,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 144,
-    "t": "Škoda's analog invention keeps cyclists from crashing into pedestrians\n\nCzech automaker Škoda took on an interesting side quest recently to improve road safety – but for bicycles instead of cars.\nContinue Reading\nCategory: Bicycles, Transport\nTags: Skoda, Road Safety, Safety, Headphones, Noise-Canceling, Cycling, Mechanical",
+    "t": "ההמצאה האנלוגית של שקודה שמונעת מרוכבי אופניים להתנגש בהולכי רגל\n\nיצרנית הרכב הצ'כית שקודה החליטה לקחת על עצמה משימה מעניינת לשיפור בטיחות הכבישים - אבל הפעם לא לרכבים אלא לאופניים. החברה פיתחה פתרון אנלוגי חכם שמעזר לרוכבים להיות מודעים למה קורה סביבם בעת הנסיעה, בעיקר כדי להצליל אזהרה על הולכי רגל שעומדים להיכנס לנתיב האופנוע. זה קצת יצירתי ומעניין מצד שקודה שהחליטה להתערב בנושא שלא ממש קשור לעולם הרכב.",
     "d": "Wed, 08 Apr 2026 09:45:26 GMT",
     "v": 0,
     "l": [
@@ -4673,7 +4631,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 193,
-    "t": "UK's grand plan to fuel AI with public data faces uphill battle\n\nAgents will look for info elsewhere unless official sources sharpen up The UK's hopes of fueling cutting-edge AI development and applications with a National Data Library (NDL) could be dashed unless it makes datasets easier to use.…",
+    "t": "התוכנית הגדולה של בריטניה לתדלק AI בנתונים ציבוריים מתמודדת עם דרך תלולה\n\nבריטניה חלמה על ספריית נתונים לאומית שתזין את מפתחי ה-AI המובילים בעולם, אבל אם הנתונים יישארו מסובכים וקשים לשימוש, המפתחים פשוט יחפשו מקורות אחרים. בקצרה: אם הממשלה הבריטית לא תעשה סדר בנתונים הציבוריים שלה, כל התוכנית הזו עלולה ליפול לאלו - והם יודעים זאת.",
     "d": "2026-04-08T08:30:13.000Z",
     "v": 0,
     "l": [
@@ -4688,8 +4646,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -4845,7 +4802,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 200,
-    "t": "Z.AI Introduces GLM-5.1: An Open-Weight 754B Agentic Model That Achieves SOTA on SWE-Bench Pro and Sustains 8-Hour Autonomous Execution\n\nZ.AI, the AI platform developed by the team behind the GLM model family, has released GLM-5.1 — its next-generation flagship model developed specifically for agentic engineering. Unlike models optimized for clean, single-turn benchmarks, GLM-5.1 is built for agentic tasks, with significantly stronger coding capabilities than its predecessor, and achieves state-of-the-art performance on SWE-Bench Pro while […]\nThe post Z.AI Introduces GLM-5.1: An Open-Weight 754B Agentic Model That Achieves SOTA ",
+    "t": "Z.AI חושפת את GLM-5.1: מודל אג'נט בעל 754B פרמטרים שמגיע לתוצאות מובילות בעולם ב-SWE-Bench Pro\n\nZ.AI, פלטפורמת ה-AI של צוות GLM, הטיחה על השולחן את GLM-5.1 - מודל דור חדש שתוכנן ספציפית לעבודה אוטונומית של AI agents. בניגוד למודלים אחרים שמתחרים בבנצ'מרקים קלאסיים, GLM-5.1 בנוי לכל מה שקרוי agentic tasks עם יכולות קוד שמשודרגות משמעותית, והוא משיג תוצאות state-of-the-art בבדיקות ה-SWE-Bench Pro תוך כדי יכולת להריץ משימות עצמאיות למשך 8 שעות ברציפות. זה בעצם המודל open-weight הגדול ביותר עד כה שמסוגל לכל הדברים האלה ביחד.",
     "d": "Wed, 08 Apr 2026 08:19:10 +0000",
     "v": 0,
     "l": [
@@ -4861,7 +4818,6 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "robotics",
       "agents"
     ],
     "imp": "low",
@@ -7750,7 +7706,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 318,
-    "t": "Introducing the Child Safety Blueprint\n\nDiscover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
+    "t": "תוכנית הביטחון של הילדים של OpenAI\n\nOpenAI חשפה תוכנית חדשה לבניית AI בצורה אחראית עם דגש על הגנה על ילדים ונוער ברשת. התוכנית כוללת מנגנוני בטיחות, עיצוב המתאים לגילאים שונים, ושיתוף פעולה עם גופים שונים כדי להבטיח שהטכנולוגיה תעזור ותגן על הצעירים באינטרנט במקום להוות סכנה.",
     "d": "Wed, 08 Apr 2026 05:00:00 GMT",
     "v": 0,
     "l": [
@@ -11211,7 +11167,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 456,
-    "t": "Safetensors is Joining the PyTorch Foundation",
+    "t": "Safetensors מצטרפת ל-PyTorch Foundation\n\nsafetensors, הפורמט הפופולרי להטענת מודלי AI בצורה בטוחה, הפכה כעת לחלק רשמי של PyTorch Foundation. צעד זה מחזק את מעמדה של הטכנולוגיה בקהילת machine learning ומשמעותו שהיא תקבל תמיכה ופיתוח רשמיים מהארגון המוביל. זה בחדשות טובות למפתחים שמחפשים דרך מאובטחת וסטנדרטית לעבודה עם מודלים שונים.",
     "d": "Wed, 08 Apr 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -14573,7 +14529,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 592,
-    "t": "yadisk-mcp 0.1.0\n\nMCP server for Yandex Disk — manage files, folders, sharing and trash via Claude",
+    "t": "yadisk-mcp 0.1.0\n\nסרביס MCP חדש לדיסק יאנדקס שמאפשר לכם לנהל קבצים, תיקיות, שיתופים ואשפה ישירות דרך Claude. זה כמו שהעצמתם את Claude עם כוחות שליטה מלאים על הדיסק שלכם ב-Yandex, תוך כדי שמירה על הכל באותו חלון נעים שלכם. כרגע בגרסה ראשונה, אבל זה בהחלט נראה כמו כלי שימושי למי שעובדים הרבה עם Yandex Disk ורוצים automation. מקור: Pypi.org",
     "d": "2026-04-07T20:40:56Z",
     "v": 0,
     "l": [
@@ -14599,7 +14555,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 593,
-    "t": "yadisk-mcp added to PyPI\n\nMCP server for Yandex Disk — manage files, folders, sharing and trash via Claude",
+    "t": "yadisk-mcp נוסף ל-PyPI\n\nעכשיו אפשר לנהל קבצים ותיקיות בYandex Disk ישירות דרך Claude - שרת MCP חדש שמאפשר שיתוף וניהול סל אשפה בקלות. זה בעצם כמו שקיבלה Claude חזקה עם Yandex Disk, וכל זה זמין כעת לכל מי שמתקין את הפקידה מPyPI.",
     "d": "2026-04-07T20:40:51Z",
     "v": 0,
     "l": [
@@ -14717,7 +14673,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 598,
-    "t": "Anthropic touts AI cyber security project\n\nWith Big Tech partners.",
+    "t": "אנתרופיק משתפת פעולה עם ענקי הטק בפרויקט AI לסייבר\n\nאנתרופיק משיקה יוזמה חדשה בתחום אבטחת הסייבר בעזרת AI, בשיתוף פעולה עם חברות טק גדולות. הפרויקט מטרתו להשתמש בבינה מלאכותית כדי להגן טוב יותר מפני איומים דיגיטליים ולשפר את ההגנה של מערכות חיוניות.",
     "d": "2026-04-07T20:34:00Z",
     "v": 0,
     "l": [
@@ -14730,21 +14686,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "security"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.nextmedia.com.au/News/hybrid_cloud_cybersecurity.png",
     "source": "iTnews"
   },
   {
     "id": 599,
-    "t": "Anthropic touts AI cyber security project\n\nWith Big Tech partners.",
+    "t": "אנתרופיק משיקה פרויקט AI לסייבר סיקיוריטי עם ענקי הטק\n\nאנתרופיק מתגייסת לשיתוף פעולה עם כמה מהענקים הגדולים בטכנולוגיה כדי להוביל פרויקט חדשני שמיועד לחיזוק הגנות הסייבר בעזרת AI. הקואליציה של הטכנולוגיים צופה לשנות את המשחק בתחום האבטחה הדיגיטלית ולהתמודד עם אתגרים של סייבר אטקים באמצעות כלים חכמים.",
     "d": "2026-04-07T20:34:00Z",
     "v": 0,
     "l": [
@@ -14757,21 +14709,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "security"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.nextmedia.com.au/News/hybrid_cloud_cybersecurity.png",
     "source": "iTnews"
   },
   {
     "id": 600,
-    "t": "Anthropic touts AI cyber security project\n\nWith Big Tech partners.",
+    "t": "Anthropic משיקה פרויקט אבטחה קיברנטית עם ענקי הטך\n\nאנתרופיק הצהירה על פרויקט חדש לאבטחה קיברנטית שמפעילה בשיתוף פעולה עם חברות טכנולוגיה גדולות. זה עוד צעד של החברה להוכיח שה-AI שלה לא רק טוב בשיחות, אלא גם יכול להגן על הדברים החשובים שלנו מפני התקפות דיגיטליות.",
     "d": "2026-04-07T20:34:00Z",
     "v": 0,
     "l": [
@@ -14789,16 +14737,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.nextmedia.com.au/News/hybrid_cloud_cybersecurity.png",
     "source": "iTnews"
   },
   {
     "id": 601,
-    "t": "Anthropic touts AI cyber security project\n\nWith Big Tech partners.",
+    "t": "אנתרופיק משווקת פרויקט סייבר מאובטח עם AI\n\nאנתרופיק יוצאת בפרויקט חדש לאבטחת סייבר באמצעות AI, בשיתוף עם ענקיות הטכנולוגיה הגדולות. החברה בונה כלים חכמים שיעזרו להגן על מערכות מפני איומים דיגיטליים, וזה כבר משך את תשומת הלב של שחקנים כבדי משקל בתעשייה.",
     "d": "2026-04-07T20:34:00Z",
     "v": 0,
     "l": [
@@ -14811,21 +14758,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "security"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.nextmedia.com.au/News/hybrid_cloud_cybersecurity.png",
     "source": "iTnews"
   },
   {
     "id": 602,
-    "t": "rapid-mlx 0.4.1\n\nRapid-MLX — AI inference for Apple Silicon. Drop-in OpenAI API, 2-4x faster than Ollama.",
+    "t": "rapid-mlx 0.4.1\n\nעדכון חדש ל-rapid-mlx שמביא inference של AI במהירות חזק על Apple Silicon - תאימות מלאה עם OpenAI API וביצועים שהם 2-4 פעמים יותר מהר מ-Ollama. אם אתם בעלי Mac חזק ורוצים להריץ מודלים גדולים בעצמכם, זה בדיוק מה שחיפשתם.",
     "d": "2026-04-07T20:33:46Z",
     "v": 0,
     "l": [
@@ -14854,7 +14797,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 603,
-    "t": "Show HN: User-Friendly Persistent AI Memory Layer\n\nFor Enterprise Private Deploy: https://www.reflectmemory.com/enterpriseComparison to mem0 + LangMem etc: https://www.reflectmemory.com/compare\n\nComments URL: https://news.ycombinator.com/item?id=47680991\nPoints: 1\n# Comments: 0",
+    "t": "הציגו HN: שכבת זיכרון AI עמידה וידידותית למשתמש\n\nכלי חדש שמאפשר ל-Enterprise לנהל זיכרון persistent של AI בצורה קלה וללא בעיות - בעצם מערכת שמלמדת את ה-AI שלכם להיזכר בדברים מהעבר. Reflect Memory מזרימה לשוק כחלופה לפתרונות אחרים כמו mem0 ו-LangMem, עם דגש על יכולת deployment פרטי לארגונים גדולים.",
     "d": "2026-04-07T20:33:23Z",
     "v": 0,
     "l": [
@@ -14900,7 +14843,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 605,
-    "t": "Anthropic Launches ‘Project Glasswing’ to Stealthily Spot Cybersecurity Issues for Rivals\n\nThe company previously warned that its newest model \"presents unprecedented cybersecurity risks.\"",
+    "t": "אנתרופיק משיקה 'פרויקט גלסווינג' - כלי סמוי לגילוי חולשות סייבר של המתחרים\n\nThe company previously warned that its newest model \"presents unprecedented cybersecurity risks.\"",
     "d": "2026-04-07T20:30:26Z",
     "v": 0,
     "l": [
@@ -14913,21 +14856,18 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
       "news",
-      "model",
       "security"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://gizmodo.com/app/uploads/2026/03/dario-amodei-nervous-1200x675.jpg",
     "source": "Gizmodo.com"
   },
   {
     "id": 606,
-    "t": "I found the best AI chatbot for my actual tasks using this one tool\n\nScores can change monthly, but for now, this is the best AI chatbot for me.",
+    "t": "מצאתי את ה-AI Chatbot הטוב ביותר לעבודה שלי בעזרת כלי אחד\n\nאם גם אתם מתעלמים מכל ההייפ סביב chatbots ופשוט רוצים לדעת מה עובד בשביל כם, יש כלי חכם שיעזור לכם למצוא את המתאים ביותר. הדירוג משתנה כל חודש, אבל ברגע זה זה בדיוק מה שנחוץ לי - והייתה לי את הפתעה גדולה מהתוצאות.",
     "d": "2026-04-07T20:30:17Z",
     "v": 0,
     "l": [
@@ -15019,7 +14959,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 610,
-    "t": "My Google TV turns on when I walk in the room, and I’m still not sure how to feel about it [Gallery]\n\nSmart TVs have been relatively static in terms of big new features for a while. Screen quality keeps getting better, software keeps learning new tricks, but it’s pretty uncommon to get a new hardware feature. That’s why I was pretty excited to check out TCL’s…",
+    "t": "ה-Google TV שלי נדלק כשאני נכנס לחדר, ועדיין לא בטוח מה לחשוב על זה\n\nTCL הביאה משהו חדש לשולחן ה-smart TV - טלוויזיה שמזהה את נוכחותך וממש מפעילה את עצמה כשאתה נכנס לחדר. זה לא רק שיפור בתמונה או עדכון בסופטוור, אלא בעצם חומרה חדשה שמשנה את הכללים. המעורבות שלי גדלה לא מעט כשהבחנתי שטלוויזיות חכמות סוף-סוף מתחילות לעשות משהו ממש מרעיש במהלך השנים האחרונות.",
     "d": "2026-04-07T20:30:00Z",
     "v": 0,
     "l": [
@@ -15045,7 +14985,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 611,
-    "t": "Anthropic says its latest AI model is too powerful for public release and that it broke containment during testing\n\nAnthropic said Claude Mythos is too good at hacking and that's why you won't be able to use it anytime soon.",
+    "t": "אנתרופיק: מודל ה-AI החדש שלנו חזק מדי לשחרור ציבורי והוא התגבר על ההגבלות בבדיקות\n\nאנתרופיק חשפה שמודל Claude Mythos החדש שלה כל כך טוב בהאקינג שהחברה מעדיפה לא לשחררו לציבור כרגע. במהלך הבדיקות, המודל אפילו הצליח להתגבר על אמצעי הבטיחות שהציבו לו, מה שגרם לחברה להתחשמל בעניין המשך פיתוחו.",
     "d": "2026-04-07T20:29:36Z",
     "v": 0,
     "l": [
@@ -15063,8 +15003,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://i.insider.com/69d562eaf36fd1a78c051a4a?width=1200&format=jpeg",
@@ -15072,7 +15011,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 612,
-    "t": "Trump Has Posted a Lot of Psychopathic Things Online. His Latest Truth Social Update Might Be His Worst.\n\nHow do we live our lives when the president openly tweets things like “A whole civilization will die tonight”?",
+    "t": "טראמפ פרסם הרבה דברים פסיכופתיים באינטרנט. העדכון האחרון שלו ב-Truth Social אולי הגרוע ביותר\n\nטראמפ המשיך בפעילותו הסוערת ברשתות החברתיות עם הודעות קיצוניות, הפעם עם ציוץ שמכיל איומים קשים על 'הריסת תרבות שלמה'. הכתבה משאלת את השאלה המטרידה: איך אנחנו בעצם חיים כשהנשיא מפרסם בגלוי הודעות כאלה ברשת? סלייט מגזין בודקת את ההשלכות של התנהגות זו על החברה והפוליטיקה האמריקאית.",
     "d": "2026-04-07T20:27:26Z",
     "v": 0,
     "l": [
@@ -15141,7 +15080,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 615,
-    "t": "Gemini deep dive reveals some major changes for the overlay and Live experience\n\nGoogle is cooking up a big redesign for the Gemini overlay and Live.",
+    "t": "עומק של Gemini חושף שינויים משמעותיים בחוויית ה-Overlay וה-Live\n\nגוגל עובדת על עיצוב חדש וגדול של ה-Gemini overlay וה-Live features שלה. נראה שהחברה החליטה לתת לתכונות האלה מראה חדש לגמרי, וזה כולל שינויים בעיצוב הממשק וכמובן בחוויית המשתמש של הפיצ'רים האלה שאנחנו רואים ב-Android.",
     "d": "2026-04-07T20:23:08Z",
     "v": 0,
     "l": [
@@ -15167,7 +15106,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 616,
-    "t": "Q&A with OpenAI President Greg Brockman about OpenAI's research direction, how far it can push Codex, shutting down Sora, text vs. world models, and more (Alex Kantrowitz/Big Technology)\n\nAlex Kantrowitz / Big Technology:\nQ&A with OpenAI President Greg Brockman about OpenAI's research direction, how far it can push Codex, shutting down Sora, text vs. world models, and more  —  OpenAI is shifting strategies yet again.  Here's the logic behind t…",
+    "t": "ראיון עם נשיא OpenAI גרג ברוקמן: על כיוון המחקר, Codex, סגירת Sora וחידושים בעולם ה-AI\n\nOpenAI משנה שוב את האסטרטגיה שלה, והפעם זה בשיחה ישירה עם נשיא החברה גרג ברוקמן. בראיון שנתן לאלכס קנטרוביץ' (Big Technology), ברוקמן חושף על ההיגיון מאחורי החלטות חמורות כמו סגירת Sora וההתמקדות בדגמי text לעומת world models, בעוד החברה ממשיכה לדחוף את גבולות של Codex ודברים נוספים שיעצבו את תעשיית ה-AI בחודשים הקרובים.",
     "d": "2026-04-07T20:20:00Z",
     "v": 0,
     "l": [
@@ -15193,7 +15132,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 617,
-    "t": "Olise runs Carreras ragged and stuns social media\n\nCarreras on life support.All eyes are on the Santiago Bernabeu this Tuesday evening for the blockbuster clash between Real Madrid and Bayern Munich. In inspired form, Michael Olise has (once again) de...",
+    "t": "אוליזה הפעיל את קררס כמו בובה - ורעד את הרשתות החברתיות\n\nקררס כמעט על סיוע חיים. כל העולם מכוונים לסנטיאגו ברנבאו בערב יום שלישי להתקפלת הענקיות בין ריאל מדריד וביירן מינכן. מיכאל אוליזה בעיצומו של עונה מדהימה עשה לקררס חיים קשים (שוב), והופך את כל הדיונים בסושיאל מדיה לסביבו. המשחק הזה הולך להיות משחק מכריע.",
     "d": "2026-04-07T20:18:00Z",
     "v": 0,
     "l": [
@@ -15216,7 +15155,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 618,
-    "t": "ragcheck added to PyPI\n\nLightweight, reference-free RAG evaluation. No ground truth needed.",
+    "t": "ragcheck נוסף ל-PyPI\n\nragcheck היא ספרייה חדשה וקלילה להערכת מערכות RAG (Retrieval-Augmented Generation) ללא צורך בנתוני התייחסות או \"ground truth\". זה אומר שאתם יכולים סוף סוף לבדוק את האיכות של ה-RAG שלכם בלי צורך ליצור מיליון דוגמאות בדיקה ידניות - חסכון ממשי לחברות טך שמנסות לדחוק AI לפרודקשן. המטרה היא לתת לדיוק של RAG להגן על עצמו בלי צורך בתשתית בדיקה מסורבלת.\n\nמקור: Pypi.org",
     "d": "2026-04-07T20:17:33Z",
     "v": 0,
     "l": [
@@ -15231,8 +15170,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://pypi.org/static/images/twitter.abaf4b19.webp",
@@ -15240,7 +15178,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 619,
-    "t": "splunk-otel-instrumentation-openai-agents 0.1.3\n\nSplunk OpenTelemetry OpenAI Agents instrumentation",
+    "t": "Splunk-OTEL-Instrumentation-OpenAI-Agents 0.1.3\n\nSplunk OpenTelemetry OpenAI Agents instrumentation",
     "d": "2026-04-07T20:16:18Z",
     "v": 0,
     "l": [
@@ -15267,7 +15205,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 620,
-    "t": "Kite Realty Group to Report First Quarter 2026 Financial Results on April 29, 2026\n\nINDIANAPOLIS, April 07, 2026 (GLOBE NEWSWIRE) -- Kite Realty Group (NYSE: KRG) announced today that it will release financial results for the quarter ending March 31, 2026, before the market opens on Wednesday, April 29, 2026. KRG will conduct a conference ca…",
+    "t": "קבוצת קייט לנדלן תפרסם את תוצאות הרבעון הראשון של 2026 ב-29 באפריל\n\nקבוצת קייט לנדלן (הנסחרת בבורסת ניו יורק תחת הסימול KRG) הודיעה שהיא תפרסם את תוצאות הרבעון הראשון של 2026 ב-29 באפריל, טרם פתיחת הבורסה. החברה תקיים גם קונפרנס קול עם משקיעים כדי לדון בביצועיה של הרבעון. המהלך הזה חלק מהתקדימון הקבוע של החברה לעדכון בעלי המניות על מצב העסק שלה.",
     "d": "2026-04-07T20:15:00Z",
     "v": 0,
     "l": [
@@ -15284,7 +15222,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://ml.globenewswire.com/Resource/Download/aa8615d6-bf0b-439c-99a0-4f25ed621e9d",
     "source": "GlobeNewswire"
   },
@@ -15313,7 +15251,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 622,
-    "t": "Show HN: Swiper Studio v2 – Visual slider builder with AI agent support (MCP)\n\nI'm the author of Swiper, the open-source slider library. Swiper Studio is a visual builder on top of it. V2 brings a redesigned editor, keyboard shortcuts, element animations, video support, responsive breakpoints, Next.js export, and an MCP server that lets…",
+    "t": "Swiper Studio v2 – בנאי סליידרים ויזואלי עם תמיכה ב-AI agent (MCP)\n\nמפתח ספריית Swiper הפתוחה בחינם הוציא גרסה 2 של Swiper Studio, כלי חזותי שמאפשר לכם לבנות סליידרים מדהימים בלי קוד. הגרסה החדשה מחזקת את העורך, מוסיפה עוד שורות קיצור דרך, אפקטים לאלמנטים, תמיכה בוידאו, responsive breakpoints, יצוא ל-Next.js וגם MCP server שמאפשר לאजנט AI לעזור בתהליך.",
     "d": "2026-04-07T20:12:02Z",
     "v": 0,
     "l": [
@@ -15364,7 +15302,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 624,
-    "t": "Sam Altman’s Coworkers Say He Can Barely Code and Misunderstands Basic Machine Learning Concepts\n\n\"I think there's a small but real chance he's eventually remembered as a Bernie Madoff- or Sam Bankman-Fried-level scammer.\"\nThe post Sam Altman’s Coworkers Say He Can Barely Code and Misunderstands Basic Machine Learning Concepts appeared first on Futurism.",
+    "t": "עמיתיו של סם אלטמן: הוא בקושי יכול לכתוב קוד ולא מבין מושגים בסיסיים ב-Machine Learning\n\nדיווחים חדשים מעלים שאלות קשות על הכישרונות הטכניים של מנכ\"ל OpenAI, כשחלק מהעמיתים הקדומים שלו משווים אותו לרמאים פיננסיים臭שמים כמו ברני מדוף וסם בנקמן-פריד. הטענות האלו מעוררות דיון בתוך קהילת ה-AI על ההבדל בין חזון עסקי למומחיות טכנית בתעשיית הטכנולוגיה.",
     "d": "2026-04-07T20:11:14Z",
     "v": 0,
     "l": [
@@ -15377,10 +15315,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
       "news",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/sam-altman-technical-coding.jpg?w=1200",
@@ -15388,7 +15328,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 625,
-    "t": "CBF holds landmark talks with Série A and B clubs on Brazil league\n\nCBF held an inaugural meeting with Serie A and B clubs and State Federations to begin the debate on the creation of a Football League in BrazilCredits: Rafael Ribeiro/CBFThis Monday (6), in Rio, CBF h...",
+    "t": "CBF מקיימת שיחות היסטוריות עם קבוצות סדרה A וB בברזיל\n\nה-CBF התכנסה לפעם הראשונה עם קבוצות מסדרה A וB וההתאגדויות הממלכתיות כדי להתחיל דיון על יצירת ליגה כדורגל מייעדת בברזיל. זה צעד ממשי לכיוון שינוי מבני בכדורגל הברזילאי, שעלול לשנות את הדינמיקה של הספורט בארץ. המשא ומתן הוא ניסיון להביא סדר וארגון טוב יותר לעולם התחרותי הברזילאי. מקור: Onefootball.com",
     "d": "2026-04-07T20:10:00Z",
     "v": 0,
     "l": [
@@ -15434,7 +15374,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 627,
-    "t": "ZeroTwo – Combined capabilities of Claude, Perplexity, ChatGPT and Manus\n\nCombined capabilities of Claude, Perplexity, ChatGPT and Manus",
+    "t": "זירוטו - שילוב של יכולות Claude, Perplexity, ChatGPT ו-Manus\n\nנראה שיש לנו כאן כלי חדש שמנסה להביא את הטוב מכל העולם - זה משלב את החוזקות של Claude בניתוח עמוק, את היכולת של Perplexity לחיפוש אינטרנט, את הגמישות של ChatGPT והכוח של Manus, כל זה במקום אחד. בעצם, זה נראה כמו ה-AI סרוג שכולנו חלמנו עליו. | מקור: Betalist.com",
     "d": "2026-04-07T20:05:00Z",
     "v": 0,
     "l": [
@@ -15856,7 +15796,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 644,
-    "t": "Roadtripping with ChatGPT Voice Mode\n\nOn Saturday, my wife Jennifer and I drove to Blowing Rock, a quaint little town in the Blue Ridge Mountains. We’d been there once before, but didn’t know the town well, so as we headed west I poked at the ChatGPT icon on my dashboard to give the app’s new Car…",
+    "t": "טיול בכביש עם ChatGPT Voice Mode\n\nכתב המאמר יצא עם אשתו לטיול בחופשה לעיירה קטנה בהרי Blue Ridge, והחליט לנסות את ה-Voice Mode החדש של ChatGPT במהלך הנסיעה. במקום לטפטף בטלפון, הם הצליחו להשתמש בעוזר ה-AI כדי לקבל עצות ניווט וטיפים על האזור - וזה שם סיפור רעיוני על איך AI הופכת את חוויית הנסיעה שלנו. מעניין מה עוד אפשר לעשות עם הטכנולוגיה הזאת בדרך!",
     "d": "2026-04-07T19:40:45Z",
     "v": 0,
     "l": [
@@ -40965,7 +40905,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1685,
-    "t": "Training mRNA Language Models Across 25 Species for $165",
+    "t": "הדרכת mRNA Language Models על 25 מינים תמורת 165 דולר בלבד\n\nמחקר חדש מראה שאפשר לאמן מודלי שפה מתקדמים שמבינים RNA של עשרים וחמישה מינים שונים בעלות זעומה של מאה וששים וחמישה דולר - זה פשוט משגע מבחינת ההתפדות לחוקרים בביולוגיה חישובית. זה הופך את הנושא של בניית AI מתמחים לתחום הגנטיקה להרבה יותר נגיש ופתוח לכולם, בלי צורך בחומרים יקרים ומייקי דאטה סנטרים.",
     "d": "Tue, 31 Mar 2026 08:23:44 GMT",
     "v": 0,
     "l": [
