@@ -21827,7 +21827,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 888,
-    "t": "the dreamachine discovered the most powerful image-making device was already inside us\n\nbrion gysin and ian sommerville's flickering light device synchronizes with the brain to generate shifting internal patterns.\nThe post the dreamachine discovered the most powerful image-making device was already inside us appeared first on designboom | archit…",
+    "t": "המכונה של החלומות: התגלה שהמכשיר הקדוש ביותר ליצירת תמונות היה כבר בתוכנו\n\nמתברר שהמדענים בריון ג'ייסין ואיאן סומרוויל גילו משהו מטורף - מכשיר שמנצנץ בתדירויות מסוימות וסנכרן את הפעילות של המוח כדי ליצור דוגמאות ויזואליות משתנות מבפנים. במילים אחרות, זה כמו הולוגרמה פריאט שמופעלת ישירות מהמוח שלך - די בדבק.",
     "d": "2026-04-08T10:50:43Z",
     "v": 0,
     "l": [
@@ -21876,7 +21876,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 890,
-    "t": "Perplexity’s Shift to AI Agents Boosts Revenue 50%\n\nPerplexity’s move from AI-powered search to artificial intelligence (AI) agents has reportedly paid off. The company’s revenues have jumped 50% in the last month, with estimated annual recurring revenue (ARR) topping $450 million in March, the Financial Times…",
+    "t": "התحזוקה של Perplexity לעבר AI Agents הגבילה את ההכנסות ב-50%\n\nPerplexity החליטה להסתובב מחיפוש בהנעת AI לעבר AI agents ממש שעבד - ההכנסות שלהם קפצו ב-50% בחודש האחרון והם כבר בשביל לעבור $450 מיליון ARR במרץ. זה כבר משנה משמעותית בעסקית שלהם, והם צריכים לזהות שהעברה לעבר agents במקום רק search היא הדרך הנכונה.",
     "d": "2026-04-08T10:47:27Z",
     "v": 0,
     "l": [
@@ -21894,13 +21894,13 @@ window.TELEGRAM_DATA = [
       "news",
       "agents"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://www.pymnts.com/wp-content/uploads/2025/06/Perplexity-1.jpg",
     "source": "pymnts.com"
   },
   {
     "id": 891,
-    "t": "Flipkart expands Hemant Badri’s role to drive AI agenda\n\nFlipkart is appointing Hemant Badri to lead its AI initiatives, focusing on identifying and operationalising AI uses across the company. This strategic move, in partnership with CPTO Balaji Thiagarajan, aims to integrate AI into customer experience, seller to…",
+    "t": "פליפקארט מרחיבה את התפקיד של Hemant Badri כדי להובא את אג'נדת ה-AI\n\nפליפקארט מעניקה לאו הכוח החדש בתחום AI - Hemant Badri - ופוקוסת על שילוב אמיתי של טכנולוגיית AI בכל מחלקות החברה. בשיתוף פעולה עם מנהל הטכנולוגיה Balaji Thiagarajan, השתיימה יוצרת תוכנית לשיפור חווית הקנייה של הלקוחות וחידודי כלים למוכרים בפלטפורמה. זו בעצם הכרה של פליפקארט שה-AI זה כבר לא אופציה אלא הכרח בעידן הספר-הדיגיטלי.",
     "d": "2026-04-08T10:46:56Z",
     "v": 0,
     "l": [
@@ -21917,7 +21917,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-8904,resizemode-75,msid-130110798/tech/technology/flipkart-expands-hemant-badris-role-to-drive-ai-agenda.jpg",
     "source": "The Times of India"
   },
@@ -21946,7 +21946,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 893,
-    "t": "Conservative podcaster claims ‘air fresheners turn you gay’ in resurfaced clip\n\nA viral podcast moment in which a woman claims car air fresheners are turning people gay is doing the rounds again. The clip, from July 2025, sees Alex Clark, a conservative “wellness activist” say on the Digital Social Hour Podcast by Sean Kelly that she eve…",
+    "t": "פודקאסטית שמרנית טוענת שממתקי ריח הופכים אנשים לגאים\n\nקליפ ווירלי מטורף חוזר לתקציר הרשתות החברתיות - בו פעילת \"wellness\" שמרנית בשם אלכס קלארק טוענת בפודקאסט שממתקי ריח לרכב הם בעצם משהו שמשנה את ההטרוגנואליות של אנשים. זה נראה כמו דוגמה קלאסית לתיאוריות קונספירציה מצחיקות שמתפשטות ברשתות, והקליפ מחודשת השנה בחוצות הדיגיטלי.",
     "d": "2026-04-08T10:40:40Z",
     "v": 0,
     "l": [
@@ -21969,7 +21969,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 894,
-    "t": "Grab to lean on scale, AI to navigate rising fuel costs, CEO says\n\nBy Gibran Naiyyar Peshimam and Stefanno Sulaiman JAKARTA, April 8 (Reuters) - Southeast Asia's top ride-hailing and delivery firm Grab believes artificial...",
+    "t": "גראב סומכת על הגודל והAI כדי להתמודד עם עלויות דלק הולכות וגדלות, אומר המנכ\"ל\n\nגראב, ענק הרכיבה והחלוקה בדרום-מזרח אסיה, משיקה אסטרטגיה חדשה להילחם בהתייקרות דלק - תוך ניצול ה-AI והכוח של הקנה מידה שלה. המנכ\"ל של החברה אומר שהשילוב בין טכנולוגיה מתקדמת לרשת ענקית יעזור לשמור על המחירים תחרותיים גם בתנאי שוק קשים. זה עוד הוכחה לכך שפינטק וחברות טכנולוגיה במזרח אסיה לא מחכות - הם משתמשים בAI פחות כמו buzzword וקצת יותר כמו ממש פתרון עסקי.",
     "d": "2026-04-08T10:39:10Z",
     "v": 0,
     "l": [
@@ -22113,7 +22113,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 900,
-    "t": "Grab to lean on scale, AI to navigate rising fuel costs, CEO says\n\nThe ⁠Singapore-based company earlier this year expanded outside Southeast Asia for the first time when it purchased Delivery Hero's Foodpanda delivery business ​in Taiwan.",
+    "t": "גראב מסתמכת על הגדלת הסקייל ו-AI כדי להתמודד עם עלויות דלק הולכות וגדלות\n\nחברת הטק הסינגפורית מתמודדת עם אתגרי העלויות על ידי הסתמכות על כוח המספרים ותכנולוגיות חכמות - אחרי שהוקדה השנה בהרחבה ראשונה מחוץ לאזור דרום-מזרח אסיה, כשקנתה את שירות הדליברי Foodpanda מ-Delivery Hero בטייוואן. המהלך הזה חלק מאסטרטגיה רחבה של גראב להשתמש בנתונים וAI כדי לייעל את הפעולות ולהקטין את ההשפעה של עליית מחירי הדלק על הרווחיות.",
     "d": "2026-04-08T10:30:28Z",
     "v": 0,
     "l": [
@@ -22136,7 +22136,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 901,
-    "t": "10 Lesser-Known Movie Facts That Make Watching Them Even Better\n\nSome movie facts enhance the entire viewing experience. These lesser-known details add depth, intention, and a new layer of appreciation to scenes you might have otherwise taken at face value. From subtle acting choices to hidden production decisions, these i…",
+    "t": "10 עובדות סרטים שלא כולם יודעים עליהן - וזה משנה הכל\n\nיש כאלה פרטים בעולם הקולנוע שבאמת משנים את כל חוויית הצפייה, ומה שחשבנו שהיה רק ״סצנה רגילה״ הופך למשהו עמוק בהרבה כשמגלים את הסיפור מאחורי הקלעים. מבחירות הצגה עדינות של שחקנים ועד להחלטות ייצור חבויות, התעודה הזו חושפת כל מה שהכס סתר מעינינו.",
     "d": "2026-04-08T10:30:00Z",
     "v": 0,
     "l": [
@@ -22159,7 +22159,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 902,
-    "t": "Hammer moves to dispel AI confusion\n\nDistributor looks to make it easier for partners to devise, pitch and prove that artificial intelligence will work for customers",
+    "t": "Hammer מנסה להיפטר מהבלבול סביב AI\n\nחברת הדיסטריביוציה רוצה להקל על השותפים שלה להפיק, למכור ולהוכיח ללקוחות שה-AI בעצם כדאי להם - כי אם יש משהו שחסר לנו, זה מישהו שיעשה לנו סדר בהכל הזה.",
     "d": "2026-04-08T10:30:00Z",
     "v": 0,
     "l": [
@@ -22176,13 +22176,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/technology-digital-ai-robot-adobe.jpeg",
     "source": "ComputerWeekly.com"
   },
   {
     "id": 903,
-    "t": "Mobile BI Market Size to Hit USD 134.04 Billion by 2035, Driven by Real-Time Analytics and Cloud-Based Data Access | Report by SNS Insider\n\nThe Mobile BI Market is expanding as enterprises adopt mobile analytics for faster decision-making and collaboration, with the U.S. segment growing from USD 5.50 billion in 2025 to USD 36.59 billion by 2035. The Mobile BI Market is expanding as enterprises ad…",
+    "t": "שוק ה-Mobile BI צפוי להגיע ל-134 מיליארד דולר עד 2035, מונע על ידי Analytics בזמן אמת וגישה לנתונים בענן\n\nשוק ה-Mobile BI מתרחב במהירות כשחברות גדולות מאמצות אנליטיקה ניידת כדי להחליط מהר יותר ולשתף פעולה בצורה טובה יותר. בארה\"ב בלבד, השוק צפוי לעלות מ-5.5 מיליארד דולר ב-2025 ל-36.59 מיליארד דולר ב-2035 - זה כמעט שביעה פעם גדול יותר! התגובה הגדולה הזו מהחברות מראה שהנתונים בזמן אמת והגישה לנתונים בענן הפכו לחיוניים בעולם העסקי המודרני.",
     "d": "2026-04-08T10:30:00Z",
     "v": 0,
     "l": [
@@ -22197,10 +22197,9 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
     "source": "GlobeNewswire"
   },
@@ -22229,7 +22228,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 905,
-    "t": "IT pros: the path ahead in career development\n\nIf change is the only constant, IT is a sector that has thrived by driving forward change. IT professionals need to adapt, otherwise they get left behind. Employment stability is very volatile, ...",
+    "t": "אנשי IT: הדרך קדימה בפיתוח קריירה\n\nבעולם ה-IT, השינוי הוא לא רק קבוע - הוא תנאי הישרדות. מה זה אומר לאנשי הטכנולוגיה בישראל? שעליהם להשתנות ולהתאים כל הזמן, אחרת הם פשוט נשארים מאחור. כי בשוק ה-IT של ימינו, יציבות בעבודה היא דבר שנדיר, וזה מחייב למידה מתמשכת והתפתחות מקצועית שלא פוסקת. מי שלא קופץ על הגל החדש, יצטרך להתחזק באופן משמעותי כדי להישאר רלוונטי.",
     "d": "2026-04-08T10:27:15Z",
     "v": 0,
     "l": [
@@ -22244,8 +22243,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "image-gen"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -22276,7 +22274,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 907,
-    "t": "Prabowo cites strong government record, urges continued push\n\nIndonesian President Prabowo Subianto hailed his administration&#39;s strong performance in its first 1.5 years in power during a government work meeting ...",
+    "t": "פרבובו משבח את הישגי הממשלה, קורא להמשך הדחף הממשלתי\n\nהנשיא האינדונזי פרבובו סוביאנטו התגאה בהצלחות הממשלה שלו במהלך שנה וחצי בשלטון, תוך קריאה להמשך בדחף המשכיח. בישיבת עבודה ממשלתית, הציג את הנתונים החיוביים של ממשלתו ודגש את המשימות שעדיין מחכות לטיפול בעתיד הקרוב.",
     "d": "2026-04-08T10:25:24Z",
     "v": 0,
     "l": [
@@ -22377,7 +22375,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 911,
-    "t": "Knowing You Will Die Makes You More Creative\n\nAI can generate endless ideas, but meaning comes from somewhere else. Here’s why thinking about death sharpens creativity and focus.\nThe post Knowing You Will Die Makes You More Creative appeared first on jeffbullas.com.",
+    "t": "הידיעה שתמות תהפוך אותך ליצירתי יותר\n\nבעידן שבו בינה מלאכותית יכולה לייצר רעיונות אינסופיים, מתברר שלמשמעות אין תחליף. כשאנחנו מודעים לסופיות שלנו, התמקדות והחדשנות שלנו הופכות חדות הרבה יותר - וזה לא דרמה, זה פשוט הדרך שבה המוח שלנו עובד. הכתבה הזו מסבירה למה השיקול הקצת דכדוני על התמותה שלנו יכול להיות בעצם הכלי הטוב ביותר שלנו ליצירתיות אמיתית.",
     "d": "2026-04-08T10:16:02Z",
     "v": 0,
     "l": [
@@ -22400,7 +22398,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 912,
-    "t": "Digital Pharmacy Global Market Forecast 2026-2032: $700+ Opportunities in AI, Seamless Patient Engagement, Regional Adaptations, Interoperable Systems, Patient-centric Care, & Flexible Payment Models\n\nDigital pharmacy offers growth via AI, seamless patient engagement, and regional adaptations, focusing on interoperable systems, patient-centric care, and flexible payment models across diverse therapeutic areas. Digital pharmacy offers growth via AI, seamles…",
+    "t": "שוק הטיולוג הדיגיטלי 2026-2032: הזדמנויות של $700 מיליון בתחום ה-AI וטיפול חולים משופר\n\nבתחזוקה גלובלית חדשה, שוק הטיולוג הדיגיטלי עומד להתפוצץ בגדול - אנחנו מדברים על יותר מ-$700 מיליון הזדמנויות עד 2032! התחום מסתמך על AI חכם, אנגייג'מנט עם חולים שזה שזה, וסיסטמים שמדברים ביניהם בצורה חלקה כדי לתת חוויה באמת חולה-ממוקדת. המפתח? כמו שמגיעים ללקוח בכל מקום בעולם וממלאים אתו במודלים תשלום גמישים שמתאימים לרמת המחי המקומית.",
     "d": "2026-04-08T10:15:00Z",
     "v": 0,
     "l": [
@@ -22602,7 +22600,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 920,
-    "t": "Mission operations key to space success: ISRO chief Narayanan\n\nISRO Chairman V. Narayanan emphasized the critical role of mission operations in India's expanding space program at the SMOPS-2026 conference. He highlighted the success of Chandrayaan-3 as a testament to sustained teamwork and operational precision, undersco…",
+    "t": "ניהול משימות הוא המפתח להצלחה בחלל: ראש סוכנות ISRO\n\nראש ISRO, V. Narayanan, הדגיש בכנס SMOPS-2026 שניהול משימות אופרציוני הוא הכוח החי של תוכנית החלל ההולכת וגדלה של הודו. בהזדמנות זו הוא הציג את הצלחת Chandrayaan-3 כדוגמה חיה לעבודת צוות מוקדשת ודיוק אופרציוני, שמוכיחה שעם ריכוז וארגון נכון, אנחנו יכולים להגיע לירח ולהשיג יעדים חלליים אמביציוזיים.",
     "d": "2026-04-08T10:08:08Z",
     "v": 0,
     "l": [
@@ -22679,7 +22677,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 923,
-    "t": "AI offers telcos a sizeable new revenue stream – report\n\nMuch of the focus for AI in telecom in about achieving efficienciesBut service providers want to develop new revenue streams tooOur latest report shows there i…",
+    "t": "בינה מלאכותית מציעה לחברות טלקום זרם הכנסות חדש וגדול\n\nאם עד היום החברות הטלקום התמקדו בשימוש ב-AI להפחתת עלויות וביצוע פעולות בצורה יותר חכמה, עכשיו הן מחפשות דרכים לכסוף כסף ממש מהטכנולוגיה הזו. דיווח חדש מראה שיש פה סיכוי ממש מעניין להשתנות לפי מה שהחברות כבר מבינות בשוק.",
     "d": "2026-04-08T10:04:24Z",
     "v": 0,
     "l": [
@@ -22696,7 +22694,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://assets.telecomtv.com/assets/telecomtv/does-ai-offer-telcos-a-sizeable-new-potential-revenue-stream-22234.jpeg?w=1200",
     "source": "TelecomTV"
   },
@@ -22848,7 +22846,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 930,
-    "t": "The Age-Old Urge to Destroy Technology\n\nThe new book “Techno-Negative” reminds us that resistance to new inventions has existed in some form across millennia, Kyle Chayka writes.",
+    "t": "הרצון הנצחי להרוס טכנולוגיה\n\nהספר החדש 'Techno-Negative' מזכיר לנו שהתנגדות לחידושים טכנולוגיים לא החל עם הסמארטפון - התופעה הזו קיימת כבר אלפי שנים. כייל צ'יקה מציג איך בכל תקופה היו אנשים שחשבו שהטכנולוגיה החדשה תחסל את העולם, וכמעט תמיד הם טעו. מעניין לשים לב שיש פה משהו נצחי בחרדה האנושית מפני השינוי.",
     "d": "2026-04-08T10:00:00Z",
     "v": 0,
     "l": [
@@ -22871,7 +22869,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 931,
-    "t": "Are humans losing the ability to think for themselves?\n\nAs humans have integrated artificial intelligence into their daily lives, there is growing concern that AI is doing the bulk of the thinking.According to the paper: “Thinking—Fast, Slow, and Artificial: How AI is Reshaping Human Reasoning and the Rise of Cogn…",
+    "t": "האם אנחנו מאבדים את היכולת לחשוב בעצמנו?\n\nעם התשתלבות ה-AI בחיי היומיום שלנו, גדלות החשש שהאינטליגנציה המלאכותית תופסת את מעמד 'המוח' שלנו ועושה עבורנו את כל העבודה החשובה. מחקר חדש בוחן כיצד AI משנה את הדרך שבה אנחנו חושבים ומזהיר מפני תופעה מעלי קוגניטיבית שעלולה להשפיע על כושר ההיגיון שלנו לטווח ארוך.",
     "d": "2026-04-08T10:00:00Z",
     "v": 0,
     "l": [
@@ -22894,7 +22892,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 932,
-    "t": "Atos drives Alsea’s SAP modernization with a strategic migration to SAP RISE on AWS\n\nAtos drives Alsea’s SAP modernization with a strategic migration to SAP RISE on AWS...",
+    "t": "אטוס מובילה את אלסאה למודרניזציה של SAP עם הסקת ל-SAP RISE על AWS\n\nאלסאה, הענקית המקסיקנית של תעשיית המזון, עברה תהליך עדכון עמוק של מערכת ה-SAP שלה בעזרת אטוס, והעברה כל העניינים ל-SAP RISE על AWS. המהלך הזה אמור לתת לחברה יכולות ענן מודרניות, גמישות רבה יותר וביצועים משופרים בעתיד. עבודה כזו מראה איך ענקיות כמו אלסאה משדרגות את התשתיות הדיגיטליות שלהן כדי להישאר תחרותיות בעולם הטכנולוגיה.",
     "d": "2026-04-08T10:00:00Z",
     "v": 0,
     "l": [
@@ -24514,7 +24512,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 997,
-    "t": "sourceharbor added to PyPI\n\nTurn YouTube, Bilibili, and RSS sources into readable digests, traceable job runs, and searchable knowledge for operators and agents.",
+    "t": "sourceharbor התווסף ל-PyPI\n\nכלי חדש שהגיע ל-PyPI שהופך סרטונים מ-YouTube ו-Bilibili וכן RSS feeds לתקצירים קריאים וארגונזים, עם אפשרות לעקוב אחרי הרצות העבודה ולחפש בנתונים. זה בעצם סוג של ספריה שמאפשרת לאופרטורים ו-AI agents להתחבר למקורות תוכן שונים ולעבוד איתם בצורה מובנית וניתנת לחיפוש.",
     "d": "2026-04-08T08:59:24Z",
     "v": 0,
     "l": [
@@ -24538,7 +24536,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 998,
-    "t": "The Vavorite Video Editing Software of 2026 for Pros, Beginners & Hobbyists, and the Best Free…\n\nThe 2026 video post-production landscape is defined by a massive shift toward Agentic AI and native 8K workflows. This comprehensive guide helps you find the best video editing software by applying...",
+    "t": "תוכנות עריכת וידאו המובילות של 2026 - למקצוענים, מתחילים וחובבים, וגם האפשרויות החינמיות הטובות\n\nבשנת 2026, עולם עריכת הווידאו משתנה בקצב מטורף - Agentic AI והעבודה עם 8K כבר לא קיצוניות אלא סטנדרט. המדריך הזה יעזור לכם למצוא את תוכנת העריכה שמתאימה בדיוק לכם, בין אם אתם פרו שמחפשים כלים מתקדמים או מתחיל שחושב שאולי סוף סוף יתחיל עם הפרויקט שלו.",
     "d": "2026-04-08T08:59:18Z",
     "v": 0,
     "l": [
@@ -24611,7 +24609,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1001,
-    "t": "odoo-workspaces added to PyPI\n\nOdoo workspace manager",
+    "t": "odoo-workspaces הוסיפה ל-PyPI\n\nכלי חדש להנהלת workspace-ים ב-Odoo פרסם לאחרונה ב-PyPI, שמאפשר למפתחים לנהל ולארגן סביבות עבודה בצורה יותר יעילה. הפקג הזה מגיע לפתור את האתגר של ניהול מספר workspace-ים של Odoo במקביל, ויהפוך את זרימת העבודה למחולקת יותר. לקובץ הפרסום המלא, בדקו את PyPI.",
     "d": "2026-04-08T08:55:44Z",
     "v": 0,
     "l": [
@@ -24634,7 +24632,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1002,
-    "t": "Bill Ackman channels Warren Buffett with his $64 billion bid for Universal Music Group\n\nAlso: All the news and watercooler chat from Fortune.",
+    "t": "בל אקמן משחקים ככלי בפרט עם הצעה של 64 מיליארד דולר לרכישת Universal Music Group\n\nבל אקמן, המיליארדר ההשקעות, מנסה להעתיק מהספר של וורן בופט עם הצעה ענקית לרכישת אחת מחברות המוזיקה הגדולות בעולם. זו עסקה שעלולה לשנות את שחקני התעשייה המוזיקלית וגם למשוך הרבה מעניין בוול סטריט - כמו בדיוק במקרים של השקעות גדולות כאלה שוורן בפט עושה.",
     "d": "2026-04-08T08:54:59Z",
     "v": 0,
     "l": [
@@ -24649,10 +24647,9 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2218867560-e1775637562788.jpg?resize=1200,600",
     "source": "Fortune"
   },
@@ -24705,7 +24702,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1005,
-    "t": "topdown-profiler added to PyPI\n\nIntel Top-Down Microarchitecture Analysis collector with MCP server, label-based querying, and pluggable SQL backends.",
+    "t": "topdown-profiler התווסף ל-PyPI\n\nIntel הוציאה כלי חדש שמאפשר לך להבין בדיוק מה קורה בתוך ה-CPU שלך - זה כמו לקבל נתונים מפורטים על כל מה שהתהליכים שלך עושים. הטול כולל MCP server, חיפוש חכם לפי labels, ותמיכה ב-SQL backends שונים, מה שהופך אותו לגמיש וקל להשתמש בו בפרויקטים שונים.",
     "d": "2026-04-08T08:52:53Z",
     "v": 0,
     "l": [
@@ -24844,7 +24841,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1011,
-    "t": "I'm a construction manager who vibe coded a paperwork tracker. My workers loved it — until I accidentally broke it.\n\nPawel Mniszak works in construction as a superintendent. He vibe coded a tool to manage the paperwork. It taught him a lesson in security.",
+    "t": "מנהל בנייה שכתב קוד 'בחושה' לעזר עם הניירות - העובדים אהבו את זה עד שהוא שבר את הכל\n\nפאוואל מניסזק, מנהל אתר בנייה, החליט לא לחכות לקונטרקטור ויצר בעצמו טול לניהול כל הנייירות והדוחות שצברו עבודה. העובדים היו מחוברים לפתרון שלו - אבל אז הוא בטעות הרס את כל המערכת והגילה שלא היה לו מושג איפה ה-backup שמור. היום הוא חוקר מה זה בעצם 'security' בעולם הטכנולוגיה.",
     "d": "2026-04-08T08:48:01Z",
     "v": 0,
     "l": [
@@ -24868,7 +24865,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1012,
-    "t": "mcparmory-ip2location-geolocation added to PyPI\n\nMCP server for IP2Location.io IP Geolocation API",
+    "t": "mcparmory-ip2location-geolocation התווסף ל-PyPI\n\nעוד כלי שימושית הוספה למאגר Python - זה MCP server שמחובר ל-IP2Location.io ומאפשר לכם לעשות geolocation בהתאם ל-IP addresses. בקיצור, אם אתם צריכים לדעת מאיפה משתמש מתחבר, התוסף הזה עושה את העבודה בשבילכם.\n\nמקור: PyPI",
     "d": "2026-04-08T08:46:31Z",
     "v": 0,
     "l": [
@@ -24914,7 +24911,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1014,
-    "t": "sirius-chat 0.9.1\n\nA multi-user RPG dialogue LLM framework compatible with OpenAI providers",
+    "t": "sirius-chat 0.9.1\n\nעדכון חדש לפריימוורק RPG מרובה משתמשים שמתחבר לכל ספק OpenAI שתרצו. הכלי הזה מאפשר לכם לבנות חוויות דיאלוג אינטראקטיביות עם LLM בצורה קלה ונוחה, בין אם אתם משתמשים ב-GPT של OpenAI או בכל ספק תואם אחר. זה המקום המושלם אם אתם רוצים לבנות משחקי תפקידים או סימולציות דיאלוג מורכבות בלי כאב ראש.",
     "d": "2026-04-08T08:46:12Z",
     "v": 0,
     "l": [
@@ -25014,7 +25011,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1018,
-    "t": "graphifyy 0.3.12\n\nAI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw) - turn any folder of code, docs, papers, or images into a queryable knowledge graph",
+    "t": "Graphifyy 0.3.12\n\nכלי AI חדש שהופך כל תיקייה של קוד, דוקומנטציה, מאמרים וצילומים למסד נתונים שאפשר לשאול עליו. זה בעצם סידור ארכיון דיגיטלי חכם שמבין את כל המסמכים שלך ומוכן לענות על שאלות בקשר למה שיש לך. עובד עם Claude, Codex ועוד כמה פלטפורמות AI שונות.",
     "d": "2026-04-08T08:41:05Z",
     "v": 0,
     "l": [
@@ -25032,8 +25029,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -25041,7 +25037,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1019,
-    "t": "thesma-mcp added to PyPI\n\nMCP server for SEC EDGAR financial data — give your AI assistant access to company financials, ratios, insider trades, and more",
+    "t": "thesma-mcp נוסף ל-PyPI\n\nאם אתם מחפשים דרך להעביר לאסיסטנט ה-AI שלכם גישה למידע פיננסי של חברות, יש חדשות טובות! עכשיו קיים MCP server שמחבר ישירות לנתוני SEC EDGAR, כלומר הנתונים הרשמיים על כל חברה פומית בארה\"ב. עם הכלי הזה, הAI שלכם יוכל לעשות דברים כמו ניתוח דוחות כספיים, חישוב יחסים פיננסיים, ועוקבה אחרי עסקאות של insider traders.",
     "d": "2026-04-08T08:40:39Z",
     "v": 0,
     "l": [
@@ -25064,7 +25060,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1020,
-    "t": "Google Launches AI Edge Eloquent Dictation App on iOS With Offline Transcription and Filler Word Removal\n\nGoogle has launched a new dictation app called Google AI Edge Eloquent on iOS.\nThank you for being a Ghacks reader. The post Google Launches AI Edge Eloquent Dictation App on iOS With Offline Transcription and Filler Word Removal appeared first on gHacks.",
+    "t": "גוגל משיקה אפליקציית הכתבה AI Edge Eloquent ב-iOS עם תמלול אופליין והסרת מילות מילוי\n\nגוגל הציגה אפליקציית הכתבה חדשה שנקראת Google AI Edge Eloquent, שעובדת ישירות בטלפון שלכם בלי צורך בחיבור אינטרנט. האפ מתמלל דיבור לטקסט ובנוסף משם מילים מיותרות וחזרות, כך שאתם מקבלים טקסט נקי וממוקד ישר מהקופסה. למי שמחפש דרך יעילה להמיר דיבור לכתוב - זו בחירה מוצלחת מהעשרת הענקית.",
     "d": "2026-04-08T08:37:59Z",
     "v": 0,
     "l": [
@@ -25082,10 +25078,9 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://www.ghacks.net/wp-content/uploads/2026/04/gHacks-articles-2026-04-08T113717.248.png",
     "source": "Ghacks Technology News"
   },
@@ -25114,7 +25109,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1022,
-    "t": "watchr-mcp added to PyPI\n\niOS Simulator QA agent — MCP server for Claude Code",
+    "t": "watchr-mcp נוסף ל-PyPI\n\nסוכן QA חדש לסימולטור iOS שעובד כ-MCP server עבור Claude Code. זו כלי מעניינת שמאפשרת לDevelopers לבדוק אפליקציות iOS באופן אוטומטי בעזרת Claude, וההוספה ל-PyPI אומרת שהיא זמינה כבר לכל Python developer שרוצה להשתמש בה.",
     "d": "2026-04-08T08:36:16Z",
     "v": 0,
     "l": [
@@ -25132,8 +25127,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://pypi.org/static/images/twitter.abaf4b19.webp",
@@ -25141,7 +25135,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1023,
-    "t": "watchr-mcp 0.1.0\n\niOS Simulator QA agent — MCP server for Claude Code",
+    "t": "watchr-mcp 0.1.0\n\nעכשיו יש לנו MCP server חדש שמחובר ל-Claude Code - כלי חכם שעוזר לבדוק אפליקציות iOS בסימולטור בצורה אוטומטית. זה בעצם AI agent שעושה את כל העבודה הטכומה של QA בשבילכם, כך שאתם יכולים להתמקד בדברים חשובים יותר.",
     "d": "2026-04-08T08:36:16Z",
     "v": 0,
     "l": [
@@ -25168,7 +25162,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1024,
-    "t": "★ Building AI Agents in Laravel with the New AI SDK (Practical Guide)\n\nLaravel AI SDK brings agents, tools, and structured output directly into the framework. Learn how it works, see a real dual-agent example, and discover what it means for LarAgent.",
+    "t": "★ בניית AI Agents ב-Laravel עם ה-SDK החדש (מדריך מעשי)\n\nה-SDK החדש של Laravel הביא את ה-AI agents, tools ופיצ'ורים מתקדמים ישירות לפריימוורק, והפעם זה לא משחק - אפשר להשתמש בכל הדברים הגדולים כמו structured output וintegration עם מודלים של AI. במדריך הזה תראו דוגמה אמיתית עם שני agents שעובדים ביחד, וגם נבין מה הסיפור החדש עם LarAgent שמשתנה את כללי המשחק.",
     "d": "2026-04-08T08:34:45Z",
     "v": 0,
     "l": [
@@ -25192,7 +25186,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1025,
-    "t": "Presentation: State of Play: AI Coding Assistants\n\nBirgitta Böckeler discusses the rapid evolution of AI agents, moving beyond \"vibe coding\" to sophisticated context engineering. She explains how architectural constraints and \"harness engineering\" create the safety nets required for autonomous code generation…",
+    "t": "הצגה: מצב המשחק של AI Coding Assistants\n\nBirgitta Böckeler מדברת על ההתפתחות המהירה של AI agents שעברו מעבר לשלב של 'vibe coding' פשוט ל-context engineering מתוחכם. היא מסבירה איך constraints ארכיטקטוניים וה-'harness engineering' יוצרים רשתות ביטחון שנדרשות כדי שקוד יתוכנן באופן אוטונומי בלי להשתגע. זה לא רק עוד חביל של שימושים מדהימים - זו המצאה של שפה חדשה לעבודה בין אדם ל-AI.",
     "d": "2026-04-08T08:34:00Z",
     "v": 0,
     "l": [
@@ -25208,7 +25202,6 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "robotics",
       "agents"
     ],
     "imp": "low",
@@ -25240,7 +25233,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1027,
-    "t": "Daily Tech News 8 April 2026\n\nTop Story Anthropic has unveiled Claude Mythos, a version of its AI system aimed at security analysis. (Security Week) This is good and bad. Good because developers can use it to find security flaws in their code. Bad because so...",
+    "t": "דיילי טק ניוז - 8 באפריל 2026\n\nAnthropic השיקו את Claude Mythos, גרסה מיוחדת של ה-AI שלהם שמתמחה בניתוח אבטחה, ופה זה קצת מסובך. מצד אחד, זה כלי מדהים למפתחים שרוצים לתפוס חולשות בקוד שלהם, אבל מצד שני יש כאן גם סיכונים שכן הטכנולוגיה הזאת יכולה להישמש בידי המון אנשים שלא בדיוק מחפשים להגן על המערכות שלנו.",
     "d": "2026-04-08T08:30:00Z",
     "v": 0,
     "l": [
@@ -25254,15 +25247,11 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Anthropic",
-      "Amazon"
+      "Anthropic"
     ],
     "tags": [
       "news",
-      "model",
-      "product",
-      "regulation",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -25339,7 +25328,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1031,
-    "t": "Craft is untouchable\n\nAI doesn’t threaten craft—the temptation to skip iteration does.",
+    "t": "הקרפט בטוח מפני הAI\n\nחדשות טובות למי שחוששים שAI תחסל את המלאכה והיצירתיות: הטכנולוגיה עצמה לא מהווה איום, אלא האיום האמיתי הוא בפיתוי לדלג על שלבי האיטרציה והשיפור החוזר. כל עוד נמשיך להשקיע בתהליך המלאכתי ולא נתן לAI להיות קיצור דרך לתוצאה מסתמכת, היצירתיות המקורית תישאר בידינו.\n\nמקור: Chrbutler.com",
     "d": "2026-04-08T08:25:59Z",
     "v": 0,
     "l": [
@@ -25362,7 +25351,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1032,
-    "t": "Samsung's AI innovation to spread on all Galaxy devices — but will Google, or the end-user pay the price?\n\nBig changes might be on the horizon for the Galaxy ecosystem.",
+    "t": "AI של סמסונג הולך להגיע לכל מכשירי Galaxy — אבל מי יחזיר את החשבון, גוגל או המשתמש?\n\nסמסונג מתכננת להטמיע את טכנולוגיית ה-AI שלה בכל אקוסיסטם ה-Galaxy, אבל השאלה הגדולה היא איך זה יהיה משפיע על המחיר ועל השותפות הקיימות עם גוגל. נראה שמתחיל כאן משחק כוח חדש בין הענקים הטכנולוגיים שיכול לשנות למעשה את הנוף של אנדרואיד.",
     "d": "2026-04-08T08:22:34Z",
     "v": 0,
     "l": [
@@ -25375,12 +25364,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://m-cdn.phonearena.com/images/article/179521-wide-two_1200/Samsungs-AI-innovation-to-spread-on-all-Galaxy-devices--but-will-Google-or-the-end-user-pay-the-price.jpg",
@@ -25435,7 +25421,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1035,
-    "t": "18 Claude Code Token Hacks : Stop Wasting Money\n\nEfficient token management is a cornerstone of working effectively with Claude, as every interaction, whether prompts, responses, or conversation history, adds to the total token count. Below Nate Herk highlights how unchecked token usage can lead to unnecess…",
+    "t": "18 טריקים לחסכון ב-Token של Claude: תפסיקו לזרוק כסף\n\nאם אתם עובדים עם Claude, אתם כנראה כבר גילו שכל דבר עולה tokens - מה-prompts ועד ההיסטוריה של השיחות. נייט הרק חושף איך להימנע מעלויות אבודות בניהול token ממולח, וזה יכול לחסוך לכם כסף רציני בחודשים הבאים.",
     "d": "2026-04-08T08:15:00Z",
     "v": 0,
     "l": [
@@ -25453,8 +25439,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://www.geeky-gadgets.com/wp-content/uploads/2026/04/claude-code-clear-new-chat-workflow.jpg",
@@ -25462,7 +25447,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1036,
-    "t": "Claude Mythos, Anthropic AI capable of hacking any software, joins forces with Google, Apple, AWS & more; Users’ personal data at risk?\n\nAnthropic has launched Project Glasswing, a major industry collaboration with Apple, Google, Microsoft, NVIDIA and others, using its powerful new model Claude Mythos Preview to find and fix dangerous software vulnerabilities. The initiative aims to strengthen…",
+    "t": "קלוד מיתוס של Anthropic - מודל AI שיכול לפרוץ לכל תוכנה - משתף פעולה עם גוגל, אפל, AWS ועוד; האם נתונים אישיים של משתמשים בסכנה?\n\nAnthropic השיקה את Project Glasswing, שיתוף פעולה ענקי בתעשייה עם אפל, גוגל, מיקרוסופט, NVIDIA ועוד, תוך שימוש במודל החדש והחזק Claude Mythos Preview לאיתור ותיקון של חולשות בטחוניות מסוכנות בתוכנה. הקשר המעניין פה הוא שבעוד שמודל ה-AI החדש הזה כל כך חזק שהוא יכול להיות 'האקר', הוא בעצם משמש כדי להגן על כולנו מפני הקוד הרע שמעבר לשם.",
     "d": "2026-04-08T08:14:26Z",
     "v": 0,
     "l": [
@@ -25476,19 +25461,15 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Google",
       "Anthropic",
-      "Microsoft",
       "Nvidia",
-      "Apple",
       "Amazon"
     ],
     "tags": [
       "news",
       "model",
-      "product",
       "hardware",
-      "security"
+      "product"
     ],
     "imp": "low",
     "thumb": "https://img.etimg.com/thumb/msid-130107040,width-1200,height-630,imgsize-1416468,overlay-economictimes/articleshow.jpg",
@@ -25519,7 +25500,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1038,
-    "t": "Just got a new Galaxy S26? Here are the first 6 things you should do with it\n\nWith the Galaxy S26 out, here are some tips and tricks to help you get started with Samsung's latest smartphone.",
+    "t": "קיבלתם Galaxy S26 חדש? הנה 6 דברים שצריך לעשות מראשית\n\nסמסונג הוציאה את ה-Galaxy S26 וזה הזמן לתחזוקה ראשונית כמו שצריך! אנחנו אוספים עשר טיפים חכמים שיעזרו לכם להוציא את המקסימום מהדגם החדש של המובייל - מהגדרות המצלמה עד ייעול הביטחון. מי שרק קנה את הטלפון הזה חייב להיתקע לאלה הדברים כדי שלא יהיה לו חרטה מיום ראשון.",
     "d": "2026-04-08T08:05:00Z",
     "v": 0,
     "l": [
@@ -25634,7 +25615,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1043,
-    "t": "8 Essential Apps to Level Up Your iPhone Experience This Spring\n\nAre you looking to maximize the functionality and personalization of your iPhone this month? These eight essential apps are designed to enhance your device’s performance, aesthetics, and overall utility. Whether you’re aiming to create a more visually appeali…",
+    "t": "8 אפליקציות חיוניות להעלאת חוויית האייפון שלכם זה האביב\n\nרוצים לחלץ את המקסימום מהאייפון שלכם החודש? אנחנו אספנו לכם 8 אפליקציות שתעזרו לכם לשפר את ביצועי המכשיר, להוסיף קצת סטייל ולעשות דברים שפי לא חשבתם שאפשר. מעצבים שרוצים אייפון יפה, עובדים שמחפשים יעילות, והרובנו שפשוט רוצים משהו טוב - כל אחד כאן ימצא משהו.",
     "d": "2026-04-08T08:00:11Z",
     "v": 0,
     "l": [
@@ -25726,7 +25707,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1047,
-    "t": "Why Anthropic Is Limiting Access to Its Most Powerful AI, Claude Mythos\n\nWhy Anthropic Is Limiting Access to Its Most Powerful AI, Claude Mythosmashable.com",
+    "t": "למה אנתרופיק מגבילה את הגישה ל-Claude Mythos, ה-AI החזק ביותר שלה\n\nאנתרופיק החליטה להגביל את הגישה ל-Claude Mythos - המודל הכי חזק שלהם עד כה - ודיברה על האתגרים של הנחת יסודות בטוחים למודלים עצומים כאלה. השחקן בתעשיית AI רוצה להיות זהיר עם הדרך בה הוא משחרר את הטכנולוגיה החדשה שלו, במטרה למנוע שימוש לרעה וריסקים פוטנציאליים. המעט מראש על החוקמי זה עשוי להיות הקדמה ללהפוך את הגישה לפופולרית יותר בקרוב.",
     "d": "2026-04-08T07:57:38Z",
     "v": 0,
     "l": [
@@ -25775,7 +25756,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1049,
-    "t": "trackline-mcp added to PyPI\n\nTrackline MCP Client — Device Flow Auth + stdioSSE Bridge for the Trackline railway data platform",
+    "t": "trackline-mcp התווסף ל-PyPI\n\nעכשיו אפשר להתחבר בקלות לפלטפורמת נתוני הרכבות Trackline דרך Python! הוא הוסיף תמיכה ב-Device Flow Auth ו-stdio SSE Bridge, מה שהופך את השילוב לפשוט וגמיש יותר למפתחים שעובדים עם ממשק MCP. זאת יוזמה טובה עבור כל מי שצריך להשיג נתוני רכבות בצורה מותאמת אישית.\n\nמקור: PyPI",
     "d": "2026-04-08T07:50:57Z",
     "v": 0,
     "l": [
@@ -25798,7 +25779,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1050,
-    "t": "cupel 0.1.64\n\nseparates precious LLMs from base LLMs. works with any OpenAI/Anthropic compatible API",
+    "t": "Cupel 0.1.64\n\nכלי חדש שמפריד בין מודלי LLM פרימיום למודלים בסיסיים, ועובד עם כל API תואם ל-OpenAI וAnthropic. קיצור דרך למי שרוצה לנהל מודלים שונים בקלות בלי להתעסק עם אינטגרציות מסובכות.",
     "d": "2026-04-08T07:50:18Z",
     "v": 0,
     "l": [
@@ -25825,7 +25806,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1051,
-    "t": "skills-forge 0.1.2\n\nA clean-architecture toolkit for crafting, linting, packing, and sharing Claude Code skills",
+    "t": "skills-forge 0.1.2\n\nיצא לאור skills-forge בגרסה 0.1.2 - toolkit חדש וצחצוח שמעניק לדיוולופרים כלים מקצועיים לבנייה, בדיקה ופיצול של Claude Code skills. הכלי מתמקד בarchitecture נקיה ויעילה, מה שמאפשר למפתחים לשתף ולהפיץ skills בצורה חלקה ומובנית. אם אתם עובדים עם Claude API, הזה כלי שחייב להיות בארגז שלכם.",
     "d": "2026-04-08T07:49:27Z",
     "v": 0,
     "l": [
@@ -25874,7 +25855,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1053,
-    "t": "cupel 0.1.63\n\nseparates precious LLMs from base LLMs. works with any OpenAI/Anthropic compatible API",
+    "t": "Cupel 0.1.63\n\nכלי חדש שעוזר לכם להפריד בין מודלי LLM משוכללים למודלים בסיסיים, ועובד עם כל API תואם ל-OpenAI או Anthropic - פתרון נוח למי שרוצה לנהל מודלים שונים בצורה חכמה. המשימה: להגיד לכם בדיוק איזה מודל אתם משתמשים בכל רגע נתון, כדי שתוכלו לבחור את הטוב ביותר לעבודה.",
     "d": "2026-04-08T07:46:39Z",
     "v": 0,
     "l": [
@@ -25901,7 +25882,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1054,
-    "t": "How To Turn AI Search Visibility Data Into a GEO Strategy That Closes Citation Gaps [Webinar] via @sejournal, @hethr_campbell\n\nLearn how to optimize your GEO strategy by understanding which AI search signals truly drive brand citations.\nThe post How To Turn AI Search Visibility Data Into a GEO Strategy That Closes Citation Gaps [Webinar] appeared first on Search Engine Journal.",
+    "t": "איך להפוך נתוני ראות ב-AI Search לאסטרטגיית GEO שסוגרת פערי ציטוטים [וובינר]\n\nתרצו להבין איך בדיוק AI search משפיע על קיומכם בפנקס הביקורות של הממש? במסגרת הווובינר הזה תלמדו איך להתאים את האסטרטגיית ה-GEO שלכם על סמך הסיגנלים שבאמת חשובים למנועי ה-AI, וכיצד לסגור את הפערים בציטוטים שלכם. זה הכל עוד יותר משמעותי לעסקים מקומיים שרוצים להיראות בחיפוש החדש של גוגל.",
     "d": "2026-04-08T07:45:37Z",
     "v": 0,
     "l": [
@@ -25947,7 +25928,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1056,
-    "t": "sirius-chat 0.9.0\n\nA multi-user RPG dialogue LLM framework compatible with OpenAI providers",
+    "t": "sirius-chat 0.9.0\n\nהרחבת sirius-chat הנחמדה הזו מביאה לנו LLM framework לדיאלוג RPG מולטי-משחקים שעובד עם כל ספק OpenAI שרק תחשבו. אם אתם מפתחים משחקי רול־פלייינג או צריכים AI שמסוגל להוביל שיחות מורכבות בין כמה שחקנים, הכלי הזה בא לעזור - והוא כל כך compatible שזה כואב. סופסוף, הדבר היחיד שנמצא בשפ״י ואתם צריכים לדעת עליו!",
     "d": "2026-04-08T07:42:28Z",
     "v": 0,
     "l": [
@@ -25975,7 +25956,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1057,
-    "t": "cupel 0.1.62\n\nseparates precious LLMs from base LLMs. works with any OpenAI/Anthropic compatible API",
+    "t": "cupel 0.1.62\n\nכלי חדש שמפרید בין מודלים שפה מתקדמים לבין יסוד בסיסי. cupel עובד עם כל API תואם ל-OpenAI ו-Anthropic, מה שהופך אותו לגמיש ונוח לעבודה עם מודלים שונים. זה בדיוק הכלי שחיפשתם אם אתם רוצים לנהל ולתפעל LLMs שונים בקלות.",
     "d": "2026-04-08T07:36:02Z",
     "v": 0,
     "l": [
@@ -26052,7 +26033,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1060,
-    "t": "How to Implement Retrieval-Augmented Generation (RAG) in C# Using Azure AI Search\n\nBuild intelligent C# .NET apps with Retrieval-Augmented Generation (RAG) using Azure AI Search. Learn to combine your data with AI for accurate, up-to-date responses.",
+    "t": "איך מיישמים Retrieval-Augmented Generation (RAG) ב-C# עם Azure AI Search\n\nרוצים לבנות אפליקציות C# חכמות שבאמת יודעות את הנתונים שלכם? עם RAG ו-Azure AI Search אתם יכולים לחבר את הטקסטים והמידע שלכם ישירות ל-AI, כדי שהמודל יתן תשובות מדויקות ועדכניות בלי להיות תלוי בידע שזיכרון בעל מיליארדים הפרמטרים. זה בעצם כמו שמעתם בהרבה מקומות - Prompt Engineering טוב עם גישה חכמה לנתונים. בגדול, היום זה הטרנד שמשנה את המשחק באדריכלות AI לפריצות.\nמקור: C-sharpcorner.com",
     "d": "2026-04-08T07:29:56Z",
     "v": 0,
     "l": [
@@ -26078,7 +26059,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1061,
-    "t": "qualito added to PyPI\n\nQuality metrics for AI-assisted development — measure and improve your Claude Code sessions",
+    "t": "qualito נוסף ל-PyPI\n\nכלי חדש שמודד את איכות הקוד בעבודה עם Claude מגיע לשוק 🚀 qualito עוזר למפתחים לשפר את הביצועים שלהם בכל session ולהבין בדיוק מה עובד ומה לא בעבודה עם AI-assisted development. בעצם, סוף סוף יש לנו דרך מדוקדקת למדוד את ההשפעה של סשן קידוד עם Claude - מומלץ לכל מישהו שעובד עם AI כדי לכתוב קוד.",
     "d": "2026-04-08T07:25:20Z",
     "v": 0,
     "l": [
