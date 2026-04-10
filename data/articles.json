@@ -58614,7 +58614,7 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-10T04:19:17.812Z",
       "created_at": "2026-04-10T04:19:17.812Z"
     },
@@ -58643,7 +58643,7 @@
         "Tutorials"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-10T04:19:17.812Z",
       "created_at": "2026-04-10T04:19:17.812Z"
     },
@@ -58794,7 +58794,7 @@
       "author": "Michael  Franco",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-10T04:19:22.876Z",
       "created_at": "2026-04-10T04:19:22.876Z"
     },
@@ -60467,6 +60467,122 @@
       "priority": "batch",
       "fetchedAt": "2026-04-10T05:24:07.088Z",
       "created_at": "2026-04-10T05:24:07.088Z"
+    },
+    {
+      "id": 3170,
+      "source": "Interesting Engineering",
+      "title_en": "US firm to deliver defense system to NATO member to defeat tactical ballistic, cruise missiles",
+      "description_en": "A Massachusetts-based company is set to deliver its powerful air and missile defense system to...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-firm-missile-defense-nato-member",
+      "image_url": null,
+      "pub_date": "Fri, 10 Apr 2026 06:05:35 +0000",
+      "author": "Prabhat Ranjan Mishra",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-10T06:11:14.678Z",
+      "created_at": "2026-04-10T06:11:14.678Z"
+    },
+    {
+      "id": 3171,
+      "source": "Interesting Engineering",
+      "title_en": "37,000-lb armored vehicles to boost US Marine Corps’ battle power, reconnaissance missions",
+      "description_en": "A Rhode Island-based company is set to deliver advanced reconnaissance vehicles to the United States...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/armored-vehicles-boost-battle-power",
+      "image_url": null,
+      "pub_date": "Fri, 10 Apr 2026 04:21:25 +0000",
+      "author": "Prabhat Ranjan Mishra",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-10T06:11:14.679Z",
+      "created_at": "2026-04-10T06:11:14.679Z"
+    },
+    {
+      "id": 3172,
+      "source": "New Atlas",
+      "title_en": "Making clean fuel (and profits) from plastic waste and battery acid",
+      "description_en": "In a \"triple win\" for green research, scientists at the University of Cambridge have developed a new sunlight-activated reactor that uses one waste stream to tackle another – all while producing clean hydrogen, and promising to be profitable at commercial scale.\nContinue Reading\nCategory: Environment, Science\nTags: Recycling, Plastics, Plastic waste, University of Cambridge, Hydrogen, Clean Energy",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/environment/battery-acid-plastics-hydrogen/",
+      "image_url": null,
+      "pub_date": "Fri, 10 Apr 2026 04:04:50 GMT",
+      "author": "Michael Franco",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-10T06:11:14.795Z",
+      "created_at": "2026-04-10T06:11:14.795Z"
+    },
+    {
+      "id": 3173,
+      "source": "The Guardian AI",
+      "title_en": "I baulked at the idea of ‘friction-maxxing’. But there’s more to it than meets the eye | Gaby Hinsliff",
+      "description_en": "Self-help hacks such as ‘cooking from scratch’ or ‘meeting your friends’ may seem ridiculous. But there’s something deeply human at the heart of this trend\nDoes life, of late, feel just too easy? Are you keen to make it harder than it already is? If that sounds like a genuinely demented question in the week that the world came close to threatened Armageddon, then fair enough. I bridled too when I read last week about friction-maxxing, the supposed trend for doing things in slightly more effortfu",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/09/friction-maxxing-self-help-hacks-cooking-from-scratch-friends-human",
+      "image_url": "https://i.guim.co.uk/img/media/f7452c3f5d8729eafe9b0ceeb1136c15a2d485f4/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=f6226106bcf9ddf63db7bddd15de8839",
+      "pub_date": "Fri, 10 Apr 2026 06:00:10 GMT",
+      "author": "Gaby Hinsliff",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "ChatGPT",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatgpt"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-10T06:11:15.208Z",
+      "created_at": "2026-04-10T06:11:15.208Z"
+    },
+    {
+      "id": 3174,
+      "source": "CNBC Tech",
+      "title_en": "The Trump administration is getting angry as EU Big Tech fines top $7 billion in 2 years",
+      "description_en": "The European Commission and Trump administration are increasingly clashing over the bloc's actions against U.S. tech companies.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/10/google-meta-big-tech-6-billion-euros-eu-fine.html",
+      "image_url": null,
+      "pub_date": "Fri, 10 Apr 2026 05:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-10T06:11:16.376Z",
+      "created_at": "2026-04-10T06:11:16.376Z"
     }
   ]
 }
