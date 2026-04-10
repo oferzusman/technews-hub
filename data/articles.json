@@ -55326,7 +55326,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-09T22:30:03.503Z",
       "created_at": "2026-04-09T22:30:03.503Z"
     },
@@ -55343,7 +55343,7 @@
       "author": "Emma Roth",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-09T22:30:03.707Z",
       "created_at": "2026-04-09T22:30:03.707Z"
     },
@@ -55366,7 +55366,7 @@
         "psychiatry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-09T22:30:03.832Z",
       "created_at": "2026-04-09T22:30:03.832Z"
     },
@@ -55439,7 +55439,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-09T22:30:13.105Z",
       "created_at": "2026-04-09T22:30:13.105Z"
     },
@@ -55456,7 +55456,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-09T22:30:14.724Z",
       "created_at": "2026-04-09T22:30:14.724Z"
     },
@@ -58502,6 +58502,441 @@
       "priority": "batch",
       "fetchedAt": "2026-04-10T02:26:34.166Z",
       "created_at": "2026-04-10T02:26:34.166Z"
+    },
+    {
+      "id": 3061,
+      "source": "The Verge AI",
+      "title_en": "ChatGPT has a new $100 per month Pro subscription",
+      "description_en": "OpenAI has announced a new version of its ChatGPT Pro subscription that costs $100 per month. The new Pro tier offers \"5x more\" usage of its Codex coding tool than the $20 per month Plus subscription and \"is best for longer, high-effort Codex sessions,\" OpenAI says.\nThe company is introducing the new tier as it tries to win over users from Anthropic and its popular Claude Code tool. ChatGPT's $100 per month option will directly compete with Anthropic's \"Max\" tier for Claude, which costs the same",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
+      "image_url": null,
+      "pub_date": "2026-04-09T22:57:15.000Z",
+      "author": "Jay Peters",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-10T04:19:14.707Z",
+      "created_at": "2026-04-10T04:19:14.707Z"
+    },
+    {
+      "id": 3062,
+      "source": "Ars Technica",
+      "title_en": "Orion helium leak no threat to Artemis II reentry, but will require redesign",
+      "description_en": "After leaks on Artemis I and II, Orion's next flight to the Moon will need new valves.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/space/2026/04/nasa-homes-in-on-likely-redesign-to-fix-orion-spacecrafts-leaky-valves/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55194459003_3bae619a73_o-1152x648-1775781075.jpg",
+      "pub_date": "Fri, 10 Apr 2026 00:55:51 +0000",
+      "author": "\n                    Stephen Clark\n                ",
+      "categories": [
+        "Science",
+        "Space",
+        "airbus",
+        "artemis",
+        "artemis II",
+        "artemis iii",
+        "artemis iv",
+        "european service module",
+        "european space agency",
+        "human spaceflight",
+        "moon",
+        "NASA",
+        "orion spacecraft"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-10T04:19:14.910Z",
+      "created_at": "2026-04-10T04:19:14.910Z"
+    },
+    {
+      "id": 3063,
+      "source": "Ars Technica",
+      "title_en": "RFK Jr. rewrites CDC panel's charter, opening door to anti-vaccine quacks",
+      "description_en": "ACIP's charter now full of anti-vaccine terms and welcomes fringe groups to CDC.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/health/2026/04/rfk-jr-rewrites-cdc-panels-charter-opening-door-to-anti-vaccine-quacks/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2203339270-1152x648.jpg",
+      "pub_date": "Thu, 09 Apr 2026 22:32:37 +0000",
+      "author": "\n                    Beth Mole\n                ",
+      "categories": [
+        "Health",
+        "ACIP",
+        "anti-vaccine",
+        "CDC",
+        "robert f kennedy jr"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-10T04:19:14.910Z",
+      "created_at": "2026-04-10T04:19:14.910Z"
+    },
+    {
+      "id": 3064,
+      "source": "OpenAI Blog",
+      "title_en": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+      "description_en": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/cyberagent",
+      "image_url": null,
+      "pub_date": "Thu, 09 Apr 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "B2B Story"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-10T04:19:16.967Z",
+      "created_at": "2026-04-10T04:19:16.967Z"
+    },
+    {
+      "id": 3065,
+      "source": "MarkTechPost",
+      "title_en": "Five AI Compute Architectures Every Engineer Should Know: CPUs, GPUs, TPUs, NPUs, and LPUs Compared",
+      "description_en": "Modern AI is no longer powered by a single type of processor—it runs on a diverse ecosystem of specialized compute architectures, each making deliberate tradeoffs between flexibility, parallelism, and memory efficiency. While traditional systems relied heavily on CPUs, today’s AI workloads are distributed across GPUs for massive parallel computation, NPUs for efficient on-device inference, and […]\nThe post Five AI Compute Architectures Every Engineer Should Know: CPUs, GPUs, TPUs, NPUs, and LPUs",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/09/five-ai-compute-architectures-every-engineer-should-know-cpus-gpus-tpus-npus-and-lpus-compared/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/image-16.png",
+      "pub_date": "Fri, 10 Apr 2026 03:58:02 +0000",
+      "author": "Arham Islam",
+      "categories": [
+        "AI Infrastructure",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-10T04:19:17.812Z",
+      "created_at": "2026-04-10T04:19:17.812Z"
+    },
+    {
+      "id": 3066,
+      "source": "MarkTechPost",
+      "title_en": "An End-to-End Coding Guide to NVIDIA KVPress for Long-Context LLM Inference, KV Cache Compression, and Memory-Efficient Generation",
+      "description_en": "In this tutorial, we take a detailed, practical approach to exploring NVIDIA’s KVPress and understanding how it can make long-context language model inference more efficient. We begin by setting up the full environment, installing the required libraries, loading a compact Instruct model, and preparing a simple workflow that runs in Colab while still demonstrating the […]\nThe post An End-to-End Coding Guide to NVIDIA KVPress for Long-Context LLM Inference, KV Cache Compression, and Memory-Efficie",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/09/an-end-to-end-coding-guide-to-nvidia-kvpress-for-long-context-llm-inference-kv-cache-compression-and-memory-efficient-generation/",
+      "image_url": null,
+      "pub_date": "Fri, 10 Apr 2026 02:21:18 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Editors Pick",
+        "Language Model",
+        "Machine Learning",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-10T04:19:17.812Z",
+      "created_at": "2026-04-10T04:19:17.812Z"
+    },
+    {
+      "id": 3067,
+      "source": "MarkTechPost",
+      "title_en": "Meta Superintelligence Lab Releases Muse Spark: A Multimodal Reasoning Model With Thought Compression and Parallel Agents",
+      "description_en": "Meta Superintelligence Labs recently made a significant move by unveiling ‘Muse Spark’ — the first model in the Muse family. Muse Spark is a natively multimodal reasoning model with support for tool-use, visual chain of thought, and multi-agent orchestration. What ‘Natively Multimodal’ Actually Means When Meta describes Muse Spark as ‘natively multimodal,’ it means the […]\nThe post Meta Superintelligence Lab Releases Muse Spark: A Multimodal Reasoning Model With Thought Compression and Parallel ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/09/meta-superintelligence-lab-releases-muse-spark-a-multimodal-reasoning-model-with-thought-compression-and-parallel-agents/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-09-at-4.03.45-PM-1.png",
+      "pub_date": "Thu, 09 Apr 2026 23:06:29 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial General Intelligence",
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Editors Pick",
+        "Explainable AI",
+        "Generative AI",
+        "New Releases",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-10T04:19:17.812Z",
+      "created_at": "2026-04-10T04:19:17.812Z"
+    },
+    {
+      "id": 3068,
+      "source": "Interesting Engineering",
+      "title_en": "45,500-ton capacity: World’s largest subsea rock vessel enters final commissioning",
+      "description_en": "The largest subsea rock installation (SRI) vessel in the world has just docked in the...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/world-largest-rock-installation-vessel",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/Z2_1d4244.jpg",
+      "pub_date": "Fri, 10 Apr 2026 00:34:47 +0000",
+      "author": "Georgina Jedikovska",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-10T04:19:22.671Z",
+      "created_at": "2026-04-10T04:19:22.671Z"
+    },
+    {
+      "id": 3069,
+      "source": "Interesting Engineering",
+      "title_en": "Finland’s deep nuclear waste vault in 1.9 billion-year-old bedrock nears launch",
+      "description_en": "The world’s first permanent underground repository for spent nuclear fuel is nearing operations in Finland,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/finland-onkalo-nuclear-waste-repository",
+      "image_url": null,
+      "pub_date": "Thu, 09 Apr 2026 23:55:03 +0000",
+      "author": "Neetika Walter",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-10T04:19:22.671Z",
+      "created_at": "2026-04-10T04:19:22.671Z"
+    },
+    {
+      "id": 3070,
+      "source": "Interesting Engineering",
+      "title_en": "US Air Force plans lasers to protect HH-60W helicopters from heat-seeking missiles",
+      "description_en": "The US Air Force has begun a market survey to equip its HH-60W Jolly Green...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/usaf-lasers-rescue-helicopters-missiles",
+      "image_url": null,
+      "pub_date": "Thu, 09 Apr 2026 23:45:56 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-10T04:19:22.671Z",
+      "created_at": "2026-04-10T04:19:22.671Z"
+    },
+    {
+      "id": 3071,
+      "source": "Interesting Engineering",
+      "title_en": "Motor-free fiber muscles bring silent, human-like movement to modern robots",
+      "description_en": "Researchers at the MIT Media Lab and Italy’s Politecnico di Bari have developed artificial muscle...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/mit-electrofluidic-fiber-muscles",
+      "image_url": "https://www.youtube.com/embed/HdjIukrfvcA",
+      "pub_date": "Thu, 09 Apr 2026 22:37:10 +0000",
+      "author": "Neetika Walter",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-10T04:19:22.671Z",
+      "created_at": "2026-04-10T04:19:22.671Z"
+    },
+    {
+      "id": 3072,
+      "source": "Interesting Engineering",
+      "title_en": "World’s first ammonia-powered ship runs without oil, targets zero-carbon shipping",
+      "description_en": "HD Hyundai Heavy Industries has unveiled what it calls the world’s first ammonia-powered vessel, marking...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/ammonia-powered-ship-hd-hyundai",
+      "image_url": null,
+      "pub_date": "Thu, 09 Apr 2026 22:35:10 +0000",
+      "author": "Neetika Walter",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-10T04:19:22.671Z",
+      "created_at": "2026-04-10T04:19:22.671Z"
+    },
+    {
+      "id": 3073,
+      "source": "Interesting Engineering",
+      "title_en": "Unitree’s cheapest $4K sport-ready R1 humanoid robot to hit US markets via AliExpress",
+      "description_en": "Chinese robotics firm Unitree Robotics plans to take its most affordable humanoid robot global next...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/unitree-r1-robot-aliexpress-global-debut",
+      "image_url": "https://www.youtube.com/embed/v1Q4Su54iho",
+      "pub_date": "Thu, 09 Apr 2026 22:31:15 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-10T04:19:22.671Z",
+      "created_at": "2026-04-10T04:19:22.671Z"
+    },
+    {
+      "id": 3074,
+      "source": "New Atlas",
+      "title_en": "Making clean fuel (and profits) from plastic waste and battery acid",
+      "description_en": "In a \"triple win\" for green research, scientists at the University of Cambridge have developed a new sunlight-activated reactor that uses one waste stream to tackle another – all while producing clean hydrogen, and promising to be profitable at commercial scale.\nContinue Reading\nCategory: Environment, Science\nTags: Recycling, Plastics, Plastic waste, University of Cambridge, Hydrogen, Clean Energy",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/environment/battery-acid-plastics-hydrogen/",
+      "image_url": null,
+      "pub_date": "Fri, 10 Apr 2026 04:04:50 GMT",
+      "author": "Michael  Franco",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-10T04:19:22.876Z",
+      "created_at": "2026-04-10T04:19:22.876Z"
+    },
+    {
+      "id": 3075,
+      "source": "New Atlas",
+      "title_en": "Earliest known vomit: This ancient predator clearly wasn't picky",
+      "description_en": "Sometimes, the most important paleontological discoveries may come from the most disgusting materials.\nContinue Reading\nCategory: Biology, Science\nTags: Paleontology, Predator, Reptile, Fossils",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/biology/fossilized-puke-ancient-predator-diet-germany/",
+      "image_url": null,
+      "pub_date": "Fri, 10 Apr 2026 00:11:11 GMT",
+      "author": "Jay Kakade",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-10T04:19:22.876Z",
+      "created_at": "2026-04-10T04:19:22.876Z"
+    },
+    {
+      "id": 3076,
+      "source": "New Atlas",
+      "title_en": "Radically modular inflatable tent grows wheels and redefines 'towing'",
+      "description_en": "Over the years, we've seen a number of RV innovators develop lightweight, small-packing camping trailers with inflatable living areas, from the roomy Air Opus to the pinchably adorable Booba trailer. The new ToW trailer starts from the other direction, coming from a tent manufacturer instead of an RV brand. Dutch inflatable pioneer Karsten ports one of its popular air-beamed domes over to a trailer, creating a Tent on Wheels (ToW) that rides lightly, offers loads of payload, and quickly sets up ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/camping-trailers/karsten-tent-on-wheels/",
+      "image_url": null,
+      "pub_date": "Thu, 09 Apr 2026 23:03:00 GMT",
+      "author": "C.C. Weiss",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-10T04:19:22.876Z",
+      "created_at": "2026-04-10T04:19:22.876Z"
+    },
+    {
+      "id": 3077,
+      "source": "The Guardian AI",
+      "title_en": "Elon Musk’s xAI sues Colorado over new rules for artificial intelligence",
+      "description_en": "Company claims law regulating AI systems, set to go into effect in June, infringes on its first amendment rights\nElon Musk’s artificial intelligence company, xAI, has filed a lawsuit against the state of Colorado over a new AI law set to take effect in June.\nThe suit seeks to block the state from enforcing the law, which would impose new requirements on AI systems to protect state residents from “algorithmic discrimination” in sectors such as education, employment, healthcare, housing and financ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/apr/09/elon-musk-xai-colorado-lawsuit",
+      "image_url": "https://i.guim.co.uk/img/media/e20e70df9bb493617db4cdf6e00620aa5201cfd3/588_0_5877_4702/master/5877.jpg?width=140&quality=85&auto=format&fit=max&s=afe8e62456442855fecc67bc1102c849",
+      "pub_date": "Fri, 10 Apr 2026 00:52:48 GMT",
+      "author": "Dara Kerr",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Grok AI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/grok-ai"
+          }
+        },
+        {
+          "_": "X",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/twitter"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Colorado",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/colorado"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-10T04:19:23.135Z",
+      "created_at": "2026-04-10T04:19:23.135Z"
+    },
+    {
+      "id": 3078,
+      "source": "The Register",
+      "title_en": "Chatbots are great at manipulating people to buy stuff, Princeton boffins find",
+      "description_en": "Urge restraints before AdLand does this without appropriate disclosures Large language models can be very persuasive, and researchers say that's a problem when they’re used to create advertising.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/09/chatbots_excel_at_manipulating_people/",
+      "image_url": null,
+      "pub_date": "2026-04-09T23:05:31.000Z",
+      "author": "Thomas Claburn",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-10T04:19:23.325Z",
+      "created_at": "2026-04-10T04:19:23.325Z"
+    },
+    {
+      "id": 3079,
+      "source": "CNBC Tech",
+      "title_en": "Alibaba leads $290 million investment for building a new kind of AI model as LLM limits emerge",
+      "description_en": "Startup Shengshu plans to use the money for a \"general world model,\" paving the way for more practical robot applications.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/10/alibaba-cloud-invests-world-model-ai-shengshu-vidu.html",
+      "image_url": null,
+      "pub_date": "Fri, 10 Apr 2026 02:00:43 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-10T04:19:24.716Z",
+      "created_at": "2026-04-10T04:19:24.716Z"
     }
   ]
 }
