@@ -66550,6 +66550,177 @@
       "priority": "hot",
       "fetchedAt": "2026-04-11T16:58:30.306Z",
       "created_at": "2026-04-11T16:58:30.306Z"
+    },
+    {
+      "id": 3462,
+      "source": "TechCrunch AI",
+      "title_en": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+      "description_en": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "image_url": null,
+      "pub_date": "Sat, 11 Apr 2026 17:18:22 +0000",
+      "author": "Anthony Ha",
+      "categories": [
+        "AI",
+        "OpenAI",
+        "sam altman"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T19:03:10.632Z",
+      "created_at": "2026-04-11T19:03:10.632Z"
+    },
+    {
+      "id": 3463,
+      "source": "MarkTechPost",
+      "title_en": "How to Build a Secure Local-First Agent Runtime with OpenClaw Gateway, Skills, and Controlled Tool Execution",
+      "description_en": "In this tutorial, we build and operate a fully local, schema-valid OpenClaw runtime. We configure the OpenClaw gateway with strict loopback binding, set up authenticated model access through environment variables, and define a secure execution environment using the built-in exec tool. We then create a structured custom skill that the OpenClaw agent can discover and […]\nThe post How to Build a Secure Local-First Agent Runtime with OpenClaw Gateway, Skills, and Controlled Tool Execution appeared f",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/11/how-to-build-a-secure-local-first-agent-runtime-with-openclaw-gateway-skills-and-controlled-tool-execution/",
+      "image_url": null,
+      "pub_date": "Sat, 11 Apr 2026 18:10:59 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Generative AI",
+        "Language Model",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T19:03:11.682Z",
+      "created_at": "2026-04-11T19:03:11.682Z"
+    },
+    {
+      "id": 3464,
+      "source": "Interesting Engineering",
+      "title_en": "China showcases Y-30 plane to outperform ‘world’s best tactical transport aircraft in service’",
+      "description_en": "China’s push to modernize its tactical airlift fleet is gaining momentum with the emergence of...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/china-y-30-plane-rival-transport-aircraft",
+      "image_url": null,
+      "pub_date": "Sat, 11 Apr 2026 18:16:04 +0000",
+      "author": "Bojan Stojkovski",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T19:03:15.001Z",
+      "created_at": "2026-04-11T19:03:15.001Z"
+    },
+    {
+      "id": 3465,
+      "source": "Futurism",
+      "title_en": "DOGE Made Drastic Cuts to a Global Vaccine Assistance Program. Now There’s a Deadly Measles Outbreak in Bangladesh",
+      "description_en": "Thanks, Elon.\nThe post DOGE Made Drastic Cuts to a Global Vaccine Assistance Program. Now There’s a Deadly Measles Outbreak in Bangladesh appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/health-medicine/doge-vaccines-bangladesh",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/doge-vaccines-bangladesh.jpg?quality=85",
+      "pub_date": "Sat, 11 Apr 2026 14:15:00 -0400",
+      "author": "Joe Wilkins",
+      "categories": [
+        {
+          "_": "Health & Medicine",
+          "$": {
+            "domain": "https://futurism.com/category/health-medicine"
+          }
+        },
+        {
+          "_": "Medical",
+          "$": {
+            "domain": "https://futurism.com/category/medical"
+          }
+        },
+        {
+          "_": "Pathogens",
+          "$": {
+            "domain": "https://futurism.com/category/pathogens"
+          }
+        },
+        {
+          "_": "RX and Medicine",
+          "$": {
+            "domain": "https://futurism.com/category/rx-medicines"
+          }
+        },
+        {
+          "_": "Viruses",
+          "$": {
+            "domain": "https://futurism.com/category/viruses"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T19:03:15.104Z",
+      "created_at": "2026-04-11T19:03:15.104Z"
+    },
+    {
+      "id": 3466,
+      "source": "Futurism",
+      "title_en": "Man Creates Tiny Submarine for His Parakeet to Experience Life Underwater",
+      "description_en": "\"He voluntarily went into the tube.\"\nThe post Man Creates Tiny Submarine for His Parakeet to Experience Life Underwater appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/future-society/tiny-submarine-parakeet",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/tiny-submarine-parakeet.jpg?quality=85",
+      "pub_date": "Sat, 11 Apr 2026 13:30:00 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        },
+        {
+          "_": "Biology",
+          "$": {
+            "domain": "https://futurism.com/category/biology"
+          }
+        },
+        {
+          "_": "Science & Energy",
+          "$": {
+            "domain": "https://futurism.com/category/science-energy"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T19:03:15.104Z",
+      "created_at": "2026-04-11T19:03:15.104Z"
+    },
+    {
+      "id": 3467,
+      "source": "Tom's Hardware",
+      "title_en": "Rockstar Games confirms it was hacked by malicious group — 'ShinyHunters' takes credit, gives until April 14 to pay ransom or risk leaking confidential data,  'ShinyHunters'",
+      "description_en": "The hacker group \"Shiny Hunters\" has been able to breach Rockstar Games by accessing authentication tokens and getting inside the company's cloud infrastructure. The stolen data doesn't include any sensitive company or player information, according to a Rockstar spokesperson, but it's still being put up for ransom.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/rockstar-games-confirms-it-was-hacked-by-malicious-group-shinyhunters-takes-credit-gives-until-april-14-to-pay-ransom-or-risk-leaking-confidential-data-shinyhunters",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/fEhrMWXcANbZkYFRgR3UVm-1280-80.png",
+      "pub_date": "Sat, 11 Apr 2026 18:05:43 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "Cybersecurity",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T19:03:15.160Z",
+      "created_at": "2026-04-11T19:03:15.160Z"
     }
   ]
 }
