@@ -1,9 +1,9 @@
 {
-  "total": 2239,
+  "total": 2244,
   "translated": 1414,
-  "untranslated": 825,
-  "today": 277,
-  "week": 2186,
+  "untranslated": 830,
+  "today": 282,
+  "week": 2191,
   "sources": [
     {
       "name": "OpenAI Blog",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Product Hunt",
-      "total": 129,
+      "total": 134,
       "translated": 51,
       "lastDate": "2026-04-11T05:50:24.000Z"
     },
@@ -1632,5 +1632,5 @@
       "lastDate": "2026-04-08T05:37:18Z"
     }
   ],
-  "generatedAt": "2026-04-11T07:12:29.848Z"
+  "generatedAt": "2026-04-11T07:41:51.697Z"
 }
