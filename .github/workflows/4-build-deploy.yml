@@ -25,15 +25,13 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add public/data.js public/admin-data.json
           git diff --staged --quiet && echo "No changes" && exit 0
-          for i in 1 2 3; do
-            git fetch origin master
-            git reset --soft origin/master
-            git add -A
-            git diff --staged --quiet && echo "No net changes" && exit 0
-            git commit -m "build: update site data"
-            git push origin master && exit 0
-            echo "Push attempt $i failed, retrying in 3s..."
-            sleep 3
-          done
-          echo "All push attempts failed"
-          exit 1
+
+          git stash
+          git fetch origin master
+          git reset --hard origin/master
+          git stash pop
+
+          git add public/data.js public/admin-data.json
+          git diff --staged --quiet && echo "No net changes" && exit 0
+          git commit -m "build: update site data"
+          git push origin master

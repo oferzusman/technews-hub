@@ -1,39 +1,57 @@
 name: "1. Fetch RSS"
 on:
-  schedule:
-    - cron: "*/10 * * * *"
+  # schedule:
+  #   - cron: "*/10 * * * *"   # DISABLED until push logic is safe
   workflow_dispatch:
 permissions:
   contents: write
 concurrency:
-  group: fetch-rss
-  cancel-in-progress: true
+  group: data-pipeline
+  cancel-in-progress: false
 jobs:
   fetch:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 5
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
       - run: npm ci
-      - run: node scripts/fetch-rss.js
-      - name: Push
+      - name: Backup articles.json
         run: |
+          cp data/articles.json data/articles.backup.json
+          ARTICLE_COUNT=$(node -e "const d=JSON.parse(require('fs').readFileSync('data/articles.json','utf8')); const a=Array.isArray(d)?d:d.articles||[]; console.log(a.length)")
+          echo "BEFORE_COUNT=$ARTICLE_COUNT" >> $GITHUB_ENV
+          echo "📊 Articles before fetch: $ARTICLE_COUNT"
+      - run: node scripts/fetch-rss.js
+      - name: Validate & Push
+        run: |
+          AFTER_COUNT=$(node -e "const d=JSON.parse(require('fs').readFileSync('data/articles.json','utf8')); const a=Array.isArray(d)?d:d.articles||[]; console.log(a.length)")
+          echo "📊 Articles after fetch: $AFTER_COUNT (was: $BEFORE_COUNT)"
+
+          # Safety: never allow article count to DROP
+          if [ "$AFTER_COUNT" -lt "$BEFORE_COUNT" ]; then
+            echo "🚨 SAFETY: Article count dropped from $BEFORE_COUNT to $AFTER_COUNT!"
+            echo "🚨 Restoring backup to prevent data loss."
+            cp data/articles.backup.json data/articles.json
+            exit 1
+          fi
+
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/articles.json
           git diff --staged --quiet && echo "No changes" && exit 0
-          for i in 1 2 3; do
-            git fetch origin master
-            git reset --soft origin/master
-            git add -A
-            git diff --staged --quiet && echo "No net changes" && exit 0
-            git commit -m "data: fetch rss"
-            git push origin master && exit 0
-            echo "Push attempt $i failed, retrying in 3s..."
-            sleep 3
-          done
-          echo "All push attempts failed"
-          exit 1
+
+          # Safe push: fetch latest remote, merge our changes on top
+          git stash
+          git fetch origin master
+          git reset --hard origin/master
+          git stash pop
+
+          git add data/articles.json
+          git diff --staged --quiet && echo "No net changes after merge" && exit 0
+          git commit -m "data: fetch rss"
+          git push origin master
