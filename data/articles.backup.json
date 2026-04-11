@@ -65805,6 +65805,416 @@
       "priority": "hot",
       "fetchedAt": "2026-04-11T11:28:31.379Z",
       "created_at": "2026-04-11T11:28:31.379Z"
+    },
+    {
+      "id": 3431,
+      "source": "The Verge AI",
+      "title_en": "How Iran out-shitposted the White House",
+      "description_en": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video after video of what was happening on the ground: Explosions over Tehran. Smoke billowing in the sky. Blood on the ground. A Tomahawk missile landing on a school. Grieving parents burying their children. \nOnly weeks prior, the authoritarian regime had been struggling to shut down all footage of the pr",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+      "image_url": null,
+      "pub_date": "2026-04-11T13:00:00.000Z",
+      "author": "Sarah Jeong",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T13:54:47.779Z",
+      "created_at": "2026-04-11T13:54:47.779Z"
+    },
+    {
+      "id": 3432,
+      "source": "Ars Technica",
+      "title_en": "AI models are terrible at betting on soccer—especially xAI Grok",
+      "description_en": "Systems from Google, OpenAI, Anthropic, and xAI struggle with the Premier League.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/premierleaguegambling-1024x648.jpg",
+      "pub_date": "Sat, 11 Apr 2026 11:15:17 +0000",
+      "author": "\n                    Tim Bradshaw, Financial Times\n                ",
+      "categories": [
+        "AI",
+        "ChatGPT",
+        "gambling",
+        "Grok sucks",
+        "LLMs",
+        "syndication",
+        "xAI Grok"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-11T13:54:47.836Z",
+      "created_at": "2026-04-11T13:54:47.836Z"
+    },
+    {
+      "id": 3433,
+      "source": "The Decoder",
+      "title_en": "Google's Gemma 4 puts free agentic AI on your phone and no data ever leaves the device",
+      "description_en": "Google's new open-source model, Gemma 4, processes text, images, and audio completely on-device. Using agent skills, the AI can independently tap into tools like Wikipedia or interactive maps; no cloud required.\nThe article Google's Gemma 4 puts free agentic AI on your phone and no data ever leaves the device appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/googles-gemma-4-puts-free-agentic-ai-on-your-phone-and-no-data-ever-leaves-the-device/",
+      "image_url": null,
+      "pub_date": "Sat, 11 Apr 2026 13:21:59 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Gemma",
+        "Google"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T13:54:48.723Z",
+      "created_at": "2026-04-11T13:54:48.723Z"
+    },
+    {
+      "id": 3434,
+      "source": "New Atlas",
+      "title_en": "World's most powerful three-wheeled scooter comes from an unlikely brand",
+      "description_en": "Here I am, talking about a scooter that is more powerful than most motorcycles that some people will ever own. And it doesn’t even come from the likes of Honda, Yamaha, or any other usual suspects. Rather, it comes from Kymco, a scooter manufacturer from Taiwan.\nContinue Reading\nCategory: Motorcycles, Transport\nTags: Kymco, Trike, Scooter, Yamaha, Piaggio",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/motorcycles/kymco-cv3-575i/",
+      "image_url": null,
+      "pub_date": "Sat, 11 Apr 2026 12:03:00 GMT",
+      "author": "Utkarsh Sood",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T13:54:49.189Z",
+      "created_at": "2026-04-11T13:54:49.189Z"
+    },
+    {
+      "id": 3435,
+      "source": "The Guardian AI",
+      "title_en": "‘It has your name on it, but I don’t think it’s you’: how AI is impersonating musicians on Spotify",
+      "description_en": "Fraudulent music streams have long been a scourge for the industry, but experts say generative AI has supercharged it\nJason Moran, a renowned jazz composer and pianist, got a strange call from a friend last month. The friend, bassist Burniss Earl Travis, was curious about Moran’s new record that he saw on the music streaming service Spotify.\n“It has your name on it,” Travis told him. “But I don’t think it’s you.”\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/apr/11/ai-impersonating-musicians-spotify",
+      "image_url": "https://i.guim.co.uk/img/media/1612449c5995639d95ee8e8b86ff2b1069b53d23/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=84be6c6b6c29c99672f76c16f6530426",
+      "pub_date": "Sat, 11 Apr 2026 12:00:48 GMT",
+      "author": "Dara Kerr",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Music",
+          "$": {
+            "domain": "https://www.theguardian.com/music/music"
+          }
+        },
+        {
+          "_": "Spotify",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/spotify"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T13:54:49.415Z",
+      "created_at": "2026-04-11T13:54:49.415Z"
+    },
+    {
+      "id": 3436,
+      "source": "Interesting Engineering",
+      "title_en": "Rare 2,000-hp Japanese WWII aircraft lifted out of ocean 80 years after combat",
+      "description_en": "A WWII Imperial Japanese Navy fighter plane was lifted from the ocean with its wings...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/culture/rare-2000-hp-japanese-wwii-aircraft",
+      "image_url": "https://www.youtube.com/embed/q-hr-Qc4Dz0",
+      "pub_date": "Sat, 11 Apr 2026 12:15:15 +0000",
+      "author": "Maria Mocerino",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T13:54:51.887Z",
+      "created_at": "2026-04-11T13:54:51.887Z"
+    },
+    {
+      "id": 3437,
+      "source": "Interesting Engineering",
+      "title_en": "Autonomous underwater mine warfare could become easier with French firm’s AI-powered system",
+      "description_en": "A French company has introduced a system boosted by AI, to conduct full mine countermeasures...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/autonomous-underwater-mine-warfare-ai-system",
+      "image_url": null,
+      "pub_date": "Sat, 11 Apr 2026 12:11:04 +0000",
+      "author": "Prabhat Ranjan Mishra",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T13:54:51.887Z",
+      "created_at": "2026-04-11T13:54:51.887Z"
+    },
+    {
+      "id": 3438,
+      "source": "Futurism",
+      "title_en": "To Get Swole, Teens Are Pumping Themselves Full of Drugs Meant for Fattening Cows for the Slaughterhouse",
+      "description_en": "\"If I have a heart attack at 30, I have a heart attack.\"\nThe post To Get Swole, Teens Are Pumping Themselves Full of Drugs Meant for Fattening Cows for the Slaughterhouse appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/health-medicine/steroids-teens-looksmaxxing",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/steroids-teens-looksmaxxing.jpg?quality=85",
+      "pub_date": "Sat, 11 Apr 2026 09:45:00 -0400",
+      "author": "Joe Wilkins",
+      "categories": [
+        {
+          "_": "Health & Medicine",
+          "$": {
+            "domain": "https://futurism.com/category/health-medicine"
+          }
+        },
+        {
+          "_": "Brain",
+          "$": {
+            "domain": "https://futurism.com/category/brain"
+          }
+        },
+        {
+          "_": "Medical",
+          "$": {
+            "domain": "https://futurism.com/category/medical"
+          }
+        },
+        {
+          "_": "Mental Health",
+          "$": {
+            "domain": "https://futurism.com/category/mental-health"
+          }
+        },
+        {
+          "_": "RX and Medicine",
+          "$": {
+            "domain": "https://futurism.com/category/rx-medicines"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T13:54:52.064Z",
+      "created_at": "2026-04-11T13:54:52.064Z"
+    },
+    {
+      "id": 3439,
+      "source": "Futurism",
+      "title_en": "Foolish Pollsters Are Now Just Asking AI What Voters Would Say in Response to Questions and Publishing It at Face Value",
+      "description_en": "\"Pure fictions are on the brink of being treated as scientific and political knowledge.\"\nThe post Foolish Pollsters Are Now Just Asking AI What Voters Would Say in Response to Questions and Publishing It at Face Value appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/ai-polls-silicon-sampling",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/ai-polls-silicon-sampling.jpg?quality=85",
+      "pub_date": "Sat, 11 Apr 2026 09:00:00 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T13:54:52.064Z",
+      "created_at": "2026-04-11T13:54:52.064Z"
+    },
+    {
+      "id": 3440,
+      "source": "Futurism",
+      "title_en": "OpenAI Says It’s Already Made $100 Million by Stuffing ChatGPT With Ads",
+      "description_en": "A handsome chunk of change.\nThe post OpenAI Says It’s Already Made $100 Million by Stuffing ChatGPT With Ads appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/openai-money-chatgpt-ads",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/openai-money-chatgpt-ads.jpg?quality=85",
+      "pub_date": "Sat, 11 Apr 2026 08:15:00 -0400",
+      "author": "Frank Landymore",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://futurism.com/category/openai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T13:54:52.064Z",
+      "created_at": "2026-04-11T13:54:52.064Z"
+    },
+    {
+      "id": 3441,
+      "source": "Futurism",
+      "title_en": "AI Is Causing Healthcare Costs to Surge",
+      "description_en": "\"We need technology to help us lower health care costs.\"\nThe post AI Is Causing Healthcare Costs to Surge appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/ai-healthcare-costs-rising",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/ai-healthcare-costs-rising.jpg?quality=85",
+      "pub_date": "Sat, 11 Apr 2026 07:30:00 -0400",
+      "author": "Joe Wilkins",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        },
+        {
+          "_": "Health & Medicine",
+          "$": {
+            "domain": "https://futurism.com/category/health-medicine"
+          }
+        },
+        {
+          "_": "Prosthetics and Devices",
+          "$": {
+            "domain": "https://futurism.com/category/prosthetics-and-devices"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-11T13:54:52.064Z",
+      "created_at": "2026-04-11T13:54:52.064Z"
+    },
+    {
+      "id": 3442,
+      "source": "Tom's Hardware",
+      "title_en": "Denuvo properly cracked in Resident Evil: Requiem, bypasses become plug-and-play — cracked version runs faster, smoother, and uses way less VRAM and RAM",
+      "description_en": "Denuvo properly cracked in Resident Evil: Requiem, while HV bypasses become plug-and-play",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/denuvo-properly-cracked-in-resident-evil-requiem-bypasses-become-plug-and-play-cracked-version-runs-faster-smoother-and-uses-way-less-vram-and-ram",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/bEPKnYrxZ6ZWnBniyyoESg-1280-80.png",
+      "pub_date": "Sat, 11 Apr 2026 12:20:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "PC Gaming",
+        "Video Games"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T13:54:52.092Z",
+      "created_at": "2026-04-11T13:54:52.092Z"
+    },
+    {
+      "id": 3443,
+      "source": "Tom's Hardware",
+      "title_en": "Intel Core Ultra 7 270K Plus vs Ryzen 7 9700X faceoff — a new midrange CPU champ emerges",
+      "description_en": "Intel's new Core Ultra 7 270K Plus is going after the Ryzen 7 9700X with its $300 price point. We put the two head-to-head in a series of rounds based on our own testing to see which comes out on top.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-7-270k-plus-vs-ryzen-7-9700x-cpu-faceoff",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/XHsoYwx6ZzwmK8fePVU4bH-1280-80.jpg",
+      "pub_date": "Sat, 11 Apr 2026 12:00:00 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T13:54:52.092Z",
+      "created_at": "2026-04-11T13:54:52.092Z"
+    },
+    {
+      "id": 3444,
+      "source": "Tom's Hardware",
+      "title_en": "HyperX Eve 1800 Review: Not worth $50",
+      "description_en": "The HyperX Eve 1800 is not a good keyboard, even for $50, as it’s lacking in features and not pleasant to use.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/hyperx-eve-1800-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/DGjtjcqTqwMd2PtMuv93XN-1280-80.jpg",
+      "pub_date": "Sat, 11 Apr 2026 12:00:00 +0000",
+      "author": " Myles Goldman ",
+      "categories": [
+        "Gaming Keyboards",
+        "Peripherals",
+        "Keyboards"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T13:54:52.092Z",
+      "created_at": "2026-04-11T13:54:52.092Z"
+    },
+    {
+      "id": 3445,
+      "source": "Tom's Hardware",
+      "title_en": "Chinese Nvidia Cloud Partner procured 300 servers with banned AI GPUs worth $92 million — shares of data center supplier Sharetronic plummet following Super Micro smuggling arrest",
+      "description_en": "Publicly available documents reveal that a Chinese AI data center company sold servers that were designed for Nvidia H100 chips despite the U.S. export ban.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/chinese-nvidia-cloud-partner-procured-300-servers-with-banned-ai-gpus-worth-usd92-million-shares-of-data-center-supplier-sharetronic-plummet-following-super-micro-smuggling-arrest",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1280-80.jpg",
+      "pub_date": "Sat, 11 Apr 2026 11:40:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-11T13:54:52.092Z",
+      "created_at": "2026-04-11T13:54:52.092Z"
+    },
+    {
+      "id": 3446,
+      "source": "CNBC Tech",
+      "title_en": "Vibe check from inside one of AI industry's main events: 'Claude mania'",
+      "description_en": "At the HumanX conference in San Francisco this week, Anthropic's momentum was on everyone's lips.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/11/vibe-check-from-ai-industry-humanx-anthropic-is-talk-of-the-town.html",
+      "image_url": null,
+      "pub_date": "Sat, 11 Apr 2026 12:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T13:54:52.345Z",
+      "created_at": "2026-04-11T13:54:52.345Z"
     }
   ]
 }

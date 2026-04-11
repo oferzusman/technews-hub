@@ -55335,14 +55335,14 @@
       "source": "The Verge AI",
       "title_en": "Florida launches investigation into OpenAI",
       "description_en": "Florida Attorney General James Uthmeier is launching an investigation into OpenAI over public safety and national security risks, as reported earlier by Reuters. In a statement on Thursday, Uthmeier says there are concerns that OpenAI's data and technology are \"falling into the hands of America's enemies, such as the Chinese Communist Party.\"\nUthmeier also says that OpenAI's ChatGPT has been \"linked to criminal behavior\" related to child sexual abuse material and the \"encouragement\" of self-harm",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "פלורידה משיקה חקירה נגד OpenAI",
+      "description_he": "התובע הכללי של פלורידה החל בחקירה רשמית נגד OpenAI בגלל חששות לביטחון ציבורי וביטחון לאומי. התביעה טוענת שהטכנולוגיה וה-data של החברה עלולים ליפול לידיים של אויבות אמריקניים כמו סין, וגם קושרת את ChatGPT לפעילויות פליליות הקשורות לתוכן של התעללות בילדים ותעודוד להתאבדות.",
       "link": "https://www.theverge.com/policy/909557/openai-florida-investigation",
       "image_url": null,
       "pub_date": "2026-04-09T22:17:06.000Z",
       "author": "Emma Roth",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-09T22:30:03.707Z",
       "created_at": "2026-04-09T22:30:03.707Z"
@@ -55394,8 +55394,8 @@
       "source": "Futurism",
       "title_en": "AI-Powered Drug Marketer Medvi Responds After Allegations About Fake Doctors and Patients",
       "description_en": "We have questions.\nThe post AI-Powered Drug Marketer Medvi Responds After Allegations About Fake Doctors and Patients appeared first on Futurism.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "חברת השיווק הרוקחי Medvi שמופעלת בAI מגיבה לטענות על רופאים וחולים מזויפים",
+      "description_he": "ישראל טק ניוז: חברת Medvi, שמשתמשת בAI כדי לשווק תרופות, נמצאת במוקד סערה בעקבות האשמות שפרסמו כי היא יצרה פרופילים מזויפים של רופאים וחולים כדי להשפיע על החלטות קנייה. החברה מנסה להתגונן מהטענות האלה שעולות שאלות חמורות על האתיקה של ה-AI בתחום הרפואה. זה עוד חידוש בסדרה של מקרים שמעוררים חשש על שימוש לא אחראי בטכנולוגיה בשיווק מוצרי בריאות.",
       "link": "https://futurism.com/artificial-intelligence/ai-drug-marketer-medvi-responds",
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/ai-drug-marketer-medvi-responds.jpg?quality=85",
       "pub_date": "Thu, 09 Apr 2026 18:07:46 -0400",
@@ -55438,7 +55438,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-09T22:30:13.105Z",
       "created_at": "2026-04-09T22:30:13.105Z"
@@ -58508,14 +58508,14 @@
       "source": "The Verge AI",
       "title_en": "ChatGPT has a new $100 per month Pro subscription",
       "description_en": "OpenAI has announced a new version of its ChatGPT Pro subscription that costs $100 per month. The new Pro tier offers \"5x more\" usage of its Codex coding tool than the $20 per month Plus subscription and \"is best for longer, high-effort Codex sessions,\" OpenAI says.\nThe company is introducing the new tier as it tries to win over users from Anthropic and its popular Claude Code tool. ChatGPT's $100 per month option will directly compete with Anthropic's \"Max\" tier for Claude, which costs the same",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ChatGPT משיקה מנוי Pro חדש ב-100 דולר בחודש",
+      "description_he": "OpenAI הכריזה על טיר סוגסקריפשן חדש ל-ChatGPT Pro שעולה 100 דולר לחודש, והוא מציע 5 פעמים יותר שימוש ב-Codex (כלי הקידוד שלהם) בהשוואה לתוכנית ה-Plus ב-20 דולר. החברה משיקה את הטיר החדש הזה כדי להתחרות עם Claude Max של Anthropic (שגם הוא עולה 100 דולר), במיוחד מכיוון ש-Claude Code תופס הרבה תשומת לב בשוק. זה בעיקרון המשחק החדש - מי שיתן יותר כוח של AI למפתחים, מי שיזכה.",
       "link": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
       "image_url": null,
       "pub_date": "2026-04-09T22:57:15.000Z",
       "author": "Jay Peters",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-10T04:19:14.707Z",
       "created_at": "2026-04-10T04:19:14.707Z"
@@ -58652,8 +58652,8 @@
       "source": "MarkTechPost",
       "title_en": "Meta Superintelligence Lab Releases Muse Spark: A Multimodal Reasoning Model With Thought Compression and Parallel Agents",
       "description_en": "Meta Superintelligence Labs recently made a significant move by unveiling ‘Muse Spark’ — the first model in the Muse family. Muse Spark is a natively multimodal reasoning model with support for tool-use, visual chain of thought, and multi-agent orchestration. What ‘Natively Multimodal’ Actually Means When Meta describes Muse Spark as ‘natively multimodal,’ it means the […]\nThe post Meta Superintelligence Lab Releases Muse Spark: A Multimodal Reasoning Model With Thought Compression and Parallel ",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "Meta Superintelligence Lab משגר את Muse Spark: מודל multimodal עם compression חשיבה ו-agents מקבילים",
+      "description_he": "Meta הוציאה לאור את Muse Spark, המודל הראשון בסדרת Muse החדשה שלהם - ומדובר כאן במשהו ממש מרשים. זהו מודל multimodal שנולד כך, עם יכולת לעבוד עם כלים, chain of thought חזותי, וניהול של מסיכי agents במקביל. בקיצור, Meta מנסה לבנות מודל reasoning שבאמת יודע להתמודד עם מידע בכל צורה - טקסט, תמונות, והכל במקביל.",
       "link": "https://www.marktechpost.com/2026/04/09/meta-superintelligence-lab-releases-muse-spark-a-multimodal-reasoning-model-with-thought-compression-and-parallel-agents/",
       "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-09-at-4.03.45-PM-1.png",
       "pub_date": "Thu, 09 Apr 2026 23:06:29 +0000",
@@ -58674,7 +58674,7 @@
         "Tech News",
         "Technology"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-10T04:19:17.812Z",
       "created_at": "2026-04-10T04:19:17.812Z"
@@ -58701,14 +58701,14 @@
       "source": "Interesting Engineering",
       "title_en": "Finland’s deep nuclear waste vault in 1.9 billion-year-old bedrock nears launch",
       "description_en": "The world’s first permanent underground repository for spent nuclear fuel is nearing operations in Finland,...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "הכספת הגרעינית העמוקה של פינלנד בסלע בן 1.9 מיליארד שנה מתקרבת להפעלה",
+      "description_he": "פינלנד עומדת להשיק את המאגר הקבוע הראשון בעולם לדלק גרעיני מבוער, תוך שהוא חבור עמוק בתוך סלע עתיק שיכול לשמור על הפסולת הרדיואקטיבית לאלפי שנים. זה לא סתם פרויקט אחד - הפינים פתרו בעצם בעיה שהטעינה את העולם כולו, איך להיפטר מהזבל הגרעיני בצורה בטוחה ותמידית. המסקנה? כשדובר על אנרגיה ירוקה, לפעמים צריך ללכת עמוק מאוד אל התת-קרקע כדי למצוא פתרון.",
       "link": "https://interestingengineering.com/energy/finland-onkalo-nuclear-waste-repository",
       "image_url": null,
       "pub_date": "Thu, 09 Apr 2026 23:55:03 +0000",
       "author": "Neetika Walter",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-10T04:19:22.671Z",
       "created_at": "2026-04-10T04:19:22.671Z"
@@ -58718,14 +58718,14 @@
       "source": "Interesting Engineering",
       "title_en": "US Air Force plans lasers to protect HH-60W helicopters from heat-seeking missiles",
       "description_en": "The US Air Force has begun a market survey to equip its HH-60W Jolly Green...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "חיל האוויר האמריקאי מתכנן להשתמש בלייזרים להגנת הליקופטרים HH-60W מטילים תרמיים",
+      "description_he": "חיל האוויר האמריקאי קורא קול לחברות פריטטכנולוגיה: הוא מחפש פתרון לייזר שיגן על הליקופטרים HH-60W שלו מטילים המנחים בחום. זו לא דיוויד מול גוליית - זה יותר כמו הוספת חומת אור מסוכנת סביב הרוטור, כי הטיל לא יוכל להתאים עם לייזר בעיניו.",
       "link": "https://interestingengineering.com/military/usaf-lasers-rescue-helicopters-missiles",
       "image_url": null,
       "pub_date": "Thu, 09 Apr 2026 23:45:56 +0000",
       "author": "Aamir Khollam",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-10T04:19:22.671Z",
       "created_at": "2026-04-10T04:19:22.671Z"
@@ -58735,14 +58735,14 @@
       "source": "Interesting Engineering",
       "title_en": "Motor-free fiber muscles bring silent, human-like movement to modern robots",
       "description_en": "Researchers at the MIT Media Lab and Italy’s Politecnico di Bari have developed artificial muscle...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "שרירים סיבים ללא מנועים מביאים תנועה שקטה ודומה לאנושית לרובוטים מודרניים",
+      "description_he": "חוקרים מ-MIT Media Lab ומהפוליטכניון של בארי באיטליה פיתחו שרירים מלאכותיים חדשניים שעובדים ללא מנועים כלל, מה שמאפשר לרובוטים לנוע בשקט וביעילות דומה להתנועה האנושית. הטכנולוגיה הזו יכולה להיות משחק קנייני בתעשיית הרובוטיקה, מכיוון שהיא מפחיתה משמעותית את הרעש והעלויות של מערכות תנועה מסורתיות. זה אחד מהצעדים המשמעותיים בדרך ליצירת רובוטים שיוכלו לעבוד לצד אנשים בסביבות רגישות כמו בתי חולים וביתות אבות.",
       "link": "https://interestingengineering.com/ai-robotics/mit-electrofluidic-fiber-muscles",
       "image_url": "https://www.youtube.com/embed/HdjIukrfvcA",
       "pub_date": "Thu, 09 Apr 2026 22:37:10 +0000",
       "author": "Neetika Walter",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-10T04:19:22.671Z",
       "created_at": "2026-04-10T04:19:22.671Z"
@@ -58752,14 +58752,14 @@
       "source": "Interesting Engineering",
       "title_en": "World’s first ammonia-powered ship runs without oil, targets zero-carbon shipping",
       "description_en": "HD Hyundai Heavy Industries has unveiled what it calls the world’s first ammonia-powered vessel, marking...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "אניית אמוניה ראשונה בעולם: הספינה שעובדת ללא נפט ומטרתה ההובלה הירוקה",
+      "description_he": "HD Hyundai Heavy Industries חשפה את הספינה הראשונה בעולם שפועלת באמוניה, צעד ענק לעבר שדות הספנות חסרי פחמן. התכנית שלהם היא להחליף סוף-וסוף את תלותנו בדלק מאובנים בים, ובכך להוכיח שהובלה ירוקה זה לא רק חלום אלא מציאות שכבר בדרך.",
       "link": "https://interestingengineering.com/innovation/ammonia-powered-ship-hd-hyundai",
       "image_url": null,
       "pub_date": "Thu, 09 Apr 2026 22:35:10 +0000",
       "author": "Neetika Walter",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-10T04:19:22.671Z",
       "created_at": "2026-04-10T04:19:22.671Z"
@@ -58769,14 +58769,14 @@
       "source": "Interesting Engineering",
       "title_en": "Unitree’s cheapest $4K sport-ready R1 humanoid robot to hit US markets via AliExpress",
       "description_en": "Chinese robotics firm Unitree Robotics plans to take its most affordable humanoid robot global next...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "רובוט הומנואידי R1 של יוניטרי במחיר של 4000 דולר בלבד הוא הדרך שלכם להיות טכנוגיקים באמת",
+      "description_he": "החברה הסינית Unitree Robotics מחליטה להוציא את הרובוט ההומנואידי הזול ביותר שלה לשוק הגלובלי, והוא יגיע לארה\"ב דרך AliExpress - כן, באלי. במחיר של 4000 דולר בלבד, זה כמעט כמו לקנות מכונית דורש המצב הזה. הרובוט כל כך זול שהוא כבר מעורר התנגדות מתחרויות שנוצקות בו שנים כדי להגיע לדיוק הזה.",
       "link": "https://interestingengineering.com/ai-robotics/unitree-r1-robot-aliexpress-global-debut",
       "image_url": "https://www.youtube.com/embed/v1Q4Su54iho",
       "pub_date": "Thu, 09 Apr 2026 22:31:15 +0000",
       "author": "Aamir Khollam",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-10T04:19:22.671Z",
       "created_at": "2026-04-10T04:19:22.671Z"
@@ -58820,14 +58820,14 @@
       "source": "New Atlas",
       "title_en": "Radically modular inflatable tent grows wheels and redefines 'towing'",
       "description_en": "Over the years, we've seen a number of RV innovators develop lightweight, small-packing camping trailers with inflatable living areas, from the roomy Air Opus to the pinchably adorable Booba trailer. The new ToW trailer starts from the other direction, coming from a tent manufacturer instead of an RV brand. Dutch inflatable pioneer Karsten ports one of its popular air-beamed domes over to a trailer, creating a Tent on Wheels (ToW) that rides lightly, offers loads of payload, and quickly sets up ",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "אוהל מתנפח רדיקלי עם גלגלים - מהפכה בעולם הקמפינג בדרך",
+      "description_he": "החברה ההולנדית Karsten, שמתמחה בכיפות אוויר מתנפחות, הוציאה משהו שלא ראינו קודם - אוהל מודולרי שקשור לעגלה וניתן לגרור אחרי הרכב. ה-ToW (Tent on Wheels) הוא בעצם אוהל ענק שקל, חוסך הרבה מקום בתא המטען, ומתפרש בדקות ספורות. זה כמו שמישהו לקח את עולם אוהלי הקמפינג המודרניים והחליט שזה צריך להיות אפילו יותר קל וגיבור.",
       "link": "https://newatlas.com/camping-trailers/karsten-tent-on-wheels/",
       "image_url": null,
       "pub_date": "Thu, 09 Apr 2026 23:03:00 GMT",
       "author": "C.C. Weiss",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-10T04:19:22.876Z",
       "created_at": "2026-04-10T04:19:22.876Z"
@@ -58909,14 +58909,14 @@
       "source": "The Register",
       "title_en": "Chatbots are great at manipulating people to buy stuff, Princeton boffins find",
       "description_en": "Urge restraints before AdLand does this without appropriate disclosures Large language models can be very persuasive, and researchers say that's a problem when they’re used to create advertising.…",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "חוקרים מפרינסטון: Chatbots טובים באופן מטריד בתמרול אנשים לקניות",
+      "description_he": "מודלים של שפה גדולה (LLM) הוכחו כמהימנים ביותר בשכנוע מצרכים - וזה בעיה גדולה כשמדובר בפרסומות. חוקרים מתריעים שצריך להטיל רסנים על תעשיית הפרסום לפני שהיא משתמשת בטכנולוגיה הזו ללא גילוי ראוי.",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/09/chatbots_excel_at_manipulating_people/",
       "image_url": null,
       "pub_date": "2026-04-09T23:05:31.000Z",
       "author": "Thomas Claburn",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-10T04:19:23.325Z",
       "created_at": "2026-04-10T04:19:23.325Z"
@@ -62397,8 +62397,8 @@
       "source": "OpenAI Blog",
       "title_en": "Research with ChatGPT",
       "description_en": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מחקר עם ChatGPT",
+      "description_he": "ChatGPT הפך לכלי מחקר חזק שמאפשר לכם למצוא מידע עדכני, לנתח מקורות שונים ולארגן תובנות בצורה מובנית - וכל זה בעזרת יכולות החיפוש והעומק של ה-AI. המדריך מראה איך לנצל את הפוטנציאל המלא של המודל כדי להפוך מחקר מורכב למשימה פשוטה וביעילות. - OpenAI Blog",
       "link": "https://openai.com/academy/search-and-deep-research",
       "image_url": null,
       "pub_date": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -62406,7 +62406,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T09:07:35.216Z",
       "created_at": "2026-04-11T09:07:35.216Z"
@@ -62416,8 +62416,8 @@
       "source": "OpenAI Blog",
       "title_en": "Analyzing data with ChatGPT",
       "description_en": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ניתוח נתונים עם ChatGPT",
+      "description_he": "ChatGPT הופך להיות כלי חזק לניתוח נתונים - אפשר לזרוק לו datasets, לקבל insights חכמים, ליצור ויזואליזציות מעוזות ולהפוך את כל זה להחלטות עסקיות אמיתיות. בפוסט החדש מ-OpenAI מראים איך בדיוק לעשות את זה כמו שצריך.",
       "link": "https://openai.com/academy/data-analysis",
       "image_url": null,
       "pub_date": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -62425,7 +62425,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T09:07:35.216Z",
       "created_at": "2026-04-11T09:07:35.216Z"
@@ -62435,8 +62435,8 @@
       "source": "OpenAI Blog",
       "title_en": "Financial services",
       "description_en": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "שירותים פיננסיים",
+      "description_he": "OpenAI הוציאה ארגז כלים מלא למוסדות פיננסיים שרוצים להשתמש ב-AI בצורה חכמה ובטוחה - יש כאן prompt packs מוכנים, GPTs מיוחדים, מדריכים והרבה כלים שיעזרו להם להרים AI בקנה מידה גדול בלי להיות בסכנה. זה בעיקרון המדריך השלם של OpenAI להנדסת בנקים וחברות ביטוח שרוצות להיות בחזית המהפכה של ה-AI. מקור: OpenAI Blog",
       "link": "https://openai.com/academy/financial-services",
       "image_url": null,
       "pub_date": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -62444,7 +62444,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T09:07:35.216Z",
       "created_at": "2026-04-11T09:07:35.216Z"
@@ -62454,8 +62454,8 @@
       "source": "OpenAI Blog",
       "title_en": "Responsible and safe use of AI",
       "description_en": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "שימוש אחראי ובטוח ב-AI",
+      "description_he": "OpenAI חולקת איתנו את ההנחיות החיוניות לשימוש בטוח ב-AI - מנהלים על דיוק המידע, שקיפות בפעולות ה-AI ועוד טיפים חשובים כשאתם עובדים עם כלים כמו ChatGPT. זו קריאה חובה לכל מי שרוצה להשתמש בחוכמות הבינה המלאכותית בצורה חכמה ויעילה.",
       "link": "https://openai.com/academy/responsible-and-safe-use",
       "image_url": null,
       "pub_date": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -62463,7 +62463,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T09:07:35.216Z",
       "created_at": "2026-04-11T09:07:35.216Z"
@@ -62473,8 +62473,8 @@
       "source": "OpenAI Blog",
       "title_en": "Writing with ChatGPT",
       "description_en": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "כתיבה עם ChatGPT",
+      "description_he": "ChatGPT יכול להיות העוזר הכתיבה שלכם - מעזרה בדיוק הראשון של הטקסט, דרך עריכה ושיפור, עד לגירוד הפנים הסופי. אפשר להשתמש בו כדי להבהיר את המבנה, להתאים את הטון, ולוודא שההודעה מגיעה בדיוק כפי שרציתם. פשוט תגידו לו מה אתם רוצים וצפו לעזרה מעשית שדווקא עוזרת.",
       "link": "https://openai.com/academy/writing",
       "image_url": null,
       "pub_date": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -62482,7 +62482,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T09:07:35.216Z",
       "created_at": "2026-04-11T09:07:35.216Z"
@@ -62492,8 +62492,8 @@
       "source": "OpenAI Blog",
       "title_en": "ChatGPT for research",
       "description_en": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ChatGPT למחקר",
+      "description_he": "OpenAI מסבירה איך להשתמש ב-ChatGPT בצורה חכמה למטרות מחקר - מחיפוש מקורות וניתוח מידע ועד יצירת תוכן מובנה עם ציטוטים תקניים. בעצם, עוזר חכם שיכול להיות לכם בחקירה כדי לחסוך זמן וארגן את המידע בצורה מקצועית.",
       "link": "https://openai.com/academy/research",
       "image_url": null,
       "pub_date": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -62501,7 +62501,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T09:07:35.216Z",
       "created_at": "2026-04-11T09:07:35.216Z"
@@ -62511,8 +62511,8 @@
       "source": "OpenAI Blog",
       "title_en": "Creating images with ChatGPT",
       "description_en": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "יצירת תמונות עם ChatGPT",
+      "description_he": "ChatGPT יכול להפוך אתכם ללאמנים דיגיטליים - תוך דקות ספורות אתם יכולים ליצור תמונות איכותיות פשוט על ידי כתיבת הנחיות ברורות והתאמה של העיצובים. זה כמו שיהיה לכם עיתונאי גרפיקה אישי שמבין בדיוק מה אתם רוצים.",
       "link": "https://openai.com/academy/image-generation",
       "image_url": null,
       "pub_date": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -62520,7 +62520,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T09:07:35.216Z",
       "created_at": "2026-04-11T09:07:35.216Z"
@@ -62530,8 +62530,8 @@
       "source": "OpenAI Blog",
       "title_en": "Personalizing ChatGPT",
       "description_en": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "התאמה אישית של ChatGPT",
+      "description_he": "OpenAI חושפת איך אתם יכולים להפוך את ChatGPT לעוזר אישי שלכם בעזרת custom instructions וזיכרון - כי למה להסביר כל פעם מה אתם רוצים כשאתם יכולים להגיד לו פעם אחת ותו לא? התוצאה היא תגובות שבאמת מתחשבות במה שחשוב לכם ועקביות על כל השיחות.",
       "link": "https://openai.com/academy/personalization",
       "image_url": null,
       "pub_date": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -62539,7 +62539,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T09:07:35.216Z",
       "created_at": "2026-04-11T09:07:35.216Z"
@@ -62549,8 +62549,8 @@
       "source": "OpenAI Blog",
       "title_en": "ChatGPT for finance teams",
       "description_en": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ChatGPT לטימי הfinance",
+      "description_he": "צוותי finance בחברות גדולות כבר מגלים שיש להם עוזר AI חדש שעוזר להם לעשות את החיים הרבה יותר קלים - מהפקת דוחות וניתוח נתונים ועד חיזויים מדויקים יותר של תקציבים. ChatGPT עוזר לכללים הפיננסיים להשתמש בעיקרית בשפה טבעית כדי להבין insights ולהציג אותם בצורה שהכל מבינים. זה בעצם כמו לשכור ניתחן שנה או שתיים ישר לטלפון שלך. - מתוך OpenAI Blog",
       "link": "https://openai.com/academy/finance",
       "image_url": null,
       "pub_date": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -62558,7 +62558,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T09:07:35.216Z",
       "created_at": "2026-04-11T09:07:35.216Z"
@@ -62568,8 +62568,8 @@
       "source": "OpenAI Blog",
       "title_en": "Getting started with ChatGPT",
       "description_en": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מתחילים עם ChatGPT",
+      "description_he": "גוויד קומפלט לחדשים ב-ChatGPT - איך מפתחים שיחה ראשונה עם ה-AI, וכמה טריקים פשוטים לכתיבה, brainstorming ופתרון בעיות. בעצם כל מה שצריך כדי להתחיל להשתמש בכלי הזה בחיים האמיתיים שלכם.",
       "link": "https://openai.com/academy/getting-started",
       "image_url": null,
       "pub_date": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -62577,7 +62577,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T09:07:35.216Z",
       "created_at": "2026-04-11T09:07:35.216Z"
@@ -62587,8 +62587,8 @@
       "source": "OpenAI Blog",
       "title_en": "Working with files in ChatGPT",
       "description_en": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "עבודה עם קבצים ב-ChatGPT",
+      "description_he": "ChatGPT הופך למכונה אמיתית לטיפול בקבצים - אתם יכולים להעלות PDFs, גיליונות אקסל וכל מיני מסמכים כדי שהבוט ינתח את הנתונים, יסכם טקסטים ויייצר תוכן מותאם בדקות. זה משנה את המשחק עבור כל מי שעובד הרבה עם מסמכים וצריך מישהו שיעבד הרבה מידע בבת אחת.",
       "link": "https://openai.com/academy/working-with-files",
       "image_url": null,
       "pub_date": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -62596,7 +62596,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T09:07:35.216Z",
       "created_at": "2026-04-11T09:07:35.216Z"
@@ -62606,8 +62606,8 @@
       "source": "OpenAI Blog",
       "title_en": "ChatGPT for sales teams",
       "description_en": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ChatGPT לצוותי מכירות",
+      "description_he": "צוותי מכירות משתמשים ב-ChatGPT בכדי לחקור חשבונות פוטנציאליים, להתאים אישית הודעות פתיחה, לנהל עסקאות ולהגביר את ה-conversion rates שלהם. התוצאה? תהליך מכירה יותר חכם ויעיל שחוסך זמן יקר לאנשי המכירות.",
       "link": "https://openai.com/academy/sales",
       "image_url": null,
       "pub_date": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -62615,7 +62615,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T09:07:35.216Z",
       "created_at": "2026-04-11T09:07:35.216Z"
@@ -62625,8 +62625,8 @@
       "source": "OpenAI Blog",
       "title_en": "Prompting fundamentals",
       "description_en": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "יסודות ה-Prompting",
+      "description_he": "מדריך מעשי לאמנות של כתיבת prompt יעיל - למדו איך לשאול את ChatGPT בצורה נכונה כדי לקבל תשובות חכמות ושימושיות באמת. אם אתם רוצים להוציא את המקסימום מה-AI, הסקרטים כאן בחינם מ-OpenAI עצמה.",
       "link": "https://openai.com/academy/prompting",
       "image_url": null,
       "pub_date": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -62634,7 +62634,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T09:07:35.216Z",
       "created_at": "2026-04-11T09:07:35.216Z"
@@ -62644,8 +62644,8 @@
       "source": "OpenAI Blog",
       "title_en": "ChatGPT for managers",
       "description_en": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ChatGPT למנהלים",
+      "description_he": "מנהלים בכל העולם מגלים איך ChatGPT עוזר להם להיות יותר יעילים - מהכנה למפגשים חשובים וכתיבת feedback ברור ועד ארגון עבודה משכללת וחיזוק קשרי הצוות. בפוסט זה אנחנו מביאים לכם את הדרכים המעשיות ביותר להשתמש ב-AI כמו עוזר אישי למנהליים.",
       "link": "https://openai.com/academy/managers",
       "image_url": null,
       "pub_date": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -62653,7 +62653,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T09:07:35.216Z",
       "created_at": "2026-04-11T09:07:35.216Z"
@@ -62663,8 +62663,8 @@
       "source": "OpenAI Blog",
       "title_en": "Using projects in ChatGPT",
       "description_en": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "שימוש בפרויקטים ב-ChatGPT",
+      "description_he": "OpenAI השיקה תכונת Projects חדשה ש-ChatGPT שמאפשרת ארגון חכם של שיחות, קבצים והנחיות בחוקית אחת - זה משהו כמו תיקיה מארגנת לכל העבודה שלכם. התכונה החדשה הזו מסייעת גם בשיתוף פעולה ובניהול פרויקטים מתמשכים, כל זה כדי שתוכלו להיות יותר ייעיל וממוארגן בעבודה עם ה-AI.",
       "link": "https://openai.com/academy/projects",
       "image_url": null,
       "pub_date": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -62672,7 +62672,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T09:07:35.216Z",
       "created_at": "2026-04-11T09:07:35.216Z"
@@ -62682,8 +62682,8 @@
       "source": "OpenAI Blog",
       "title_en": "ChatGPT for marketing teams",
       "description_en": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ChatGPT לצוותי משיווק",
+      "description_he": "צוותי משיווק משתמשים ב-ChatGPT כדי לתכנן קמפיינים, ליצור תוכן, לנתח ביצועים ובעיקר כדי להגיע מהרעיון להוצאה לפועל הרבה יותר מהר. זה כמו שיש לכם מתכנן קמפיינים AI במחשב שלכם שעובד 24/7.",
       "link": "https://openai.com/academy/marketing",
       "image_url": null,
       "pub_date": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -62691,7 +62691,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T09:07:35.216Z",
       "created_at": "2026-04-11T09:07:35.216Z"
@@ -62701,8 +62701,8 @@
       "source": "OpenAI Blog",
       "title_en": "Brainstorming with ChatGPT",
       "description_en": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "סערת מוחות עם ChatGPT",
+      "description_he": "איך אתה יכול להשתמש ב-ChatGPT כמו שותף חשיבה אמיתי? בפוסט הנו נלמד איך ה-AI יכול לעזור לך להטיל רעיונות, לסדר את המחשבות שלך וגם להפוך קונספטים גולמיים לתוכניות מובנות שבאמת אפשר לעשות איתן משהו. זה כמו שיש לך מנטור מוכן 24/7 שמקשיב לכל דבר שאתה אומר ועוזר לך להתקדם.",
       "link": "https://openai.com/academy/brainstorming",
       "image_url": null,
       "pub_date": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -62710,7 +62710,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T09:07:35.216Z",
       "created_at": "2026-04-11T09:07:35.216Z"
@@ -62720,8 +62720,8 @@
       "source": "OpenAI Blog",
       "title_en": "AI fundamentals",
       "description_en": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "יסודות ה-AI",
+      "description_he": "רוצים להבין סוף סוף מה קורה כשאתם משחקים עם ChatGPT? המדריך החדש מ-OpenAI מסביר את הבסיס - מה זה בעצם AI, איך הוא עובד, וכיצד ה-Large Language Models האלה שמאחורי כל התחנוני AI הופכים טקסט לקסם. זה בדיוק למי שלא רוצה להרגיש אבוד כשכולם מדברים על neural networks. מקור: OpenAI Blog",
       "link": "https://openai.com/academy/what-is-ai",
       "image_url": null,
       "pub_date": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -62729,7 +62729,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T09:07:35.216Z",
       "created_at": "2026-04-11T09:07:35.216Z"
@@ -62739,8 +62739,8 @@
       "source": "OpenAI Blog",
       "title_en": "ChatGPT for operations teams",
       "description_en": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ChatGPT לצוותי תפעול",
+      "description_he": "צוותי ה-Ops מוצאים שימוש רציני ב-ChatGPT כדי להכניס סדר בתהליכים, לשפר תיאום בין חברים בצוות ולהאיץ את קצב ההוצאה לפועל. בעצם, AI עוזר להם להיות הרבה יותר מיוזמים בעבודה השוטפת שלהם. מקור: OpenAI Blog",
       "link": "https://openai.com/academy/operations",
       "image_url": null,
       "pub_date": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -62748,7 +62748,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T09:07:35.216Z",
       "created_at": "2026-04-11T09:07:35.216Z"
@@ -62758,8 +62758,8 @@
       "source": "OpenAI Blog",
       "title_en": "Healthcare",
       "description_en": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "טכנולוגיה בשירות הבריאות",
+      "description_he": "הרופאים והאחים בישראל כבר משתמשים ב-ChatGPT כדי להאיץ את האבחנה, לתעד את מהלך הטיפול ולשפר את הטיפול בחולים - והכל עם שמירה על הפרטיות על ידי כלים תואמים ל-HIPAA. אין צורך להיות חכמי סודות כדי להבין שהשילוב הזה בין AI לרפואה יכול לשחרר לרופאים זמן משנון שיוכלו להקדיש לחולים, במקום להישאר תקועים עם ניירות וניירות.",
       "link": "https://openai.com/academy/healthcare",
       "image_url": null,
       "pub_date": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -62767,7 +62767,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T09:07:35.216Z",
       "created_at": "2026-04-11T09:07:35.216Z"
@@ -62777,8 +62777,8 @@
       "source": "OpenAI Blog",
       "title_en": "Our response to the Axios developer tool compromise",
       "description_en": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "התגובה שלנו להתקפת סוקת הפיתוח של Axios",
+      "description_he": "OpenAI הגיבה להתקפת Supply Chain של Axios בהחלפת תעודות חתימה של macOS, עדכון האפליקציות וביטוח שלא הטעינו נתונים של משתמשים. בקצרה - זה היה קרוב, אבל הם תפסו את זה בזמן ויצאו נקיים מהעסקה, ולא תהיה פה שום פרצה של מידע.",
       "link": "https://openai.com/index/axios-developer-tool-compromise",
       "image_url": null,
       "pub_date": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -62786,7 +62786,7 @@
       "categories": [
         "Security"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T09:07:35.216Z",
       "created_at": "2026-04-11T09:07:35.216Z"
@@ -62796,8 +62796,8 @@
       "source": "OpenAI Blog",
       "title_en": "Using skills",
       "description_en": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "שימוש בכישרונות",
+      "description_he": "OpenAI חושפת את הדרך ליצור ולהשתמש בכישרונות של ChatGPT כדי לבנות workflow-ים שניתן לשימוש חוזר, אוטומציה של משימות שחוזרות על עצמן, והוצאת תוצאות עקביות באיכות גבוהה. זה בעצם הדרך החדשה של OpenAI להפוך את הAI לחברת עבודה יעיל שלך שלא שוכח כלום.",
       "link": "https://openai.com/academy/skills",
       "image_url": null,
       "pub_date": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -62805,7 +62805,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T09:07:35.216Z",
       "created_at": "2026-04-11T09:07:35.216Z"
@@ -65811,14 +65811,14 @@
       "source": "The Verge AI",
       "title_en": "How Iran out-shitposted the White House",
       "description_en": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video after video of what was happening on the ground: Explosions over Tehran. Smoke billowing in the sky. Blood on the ground. A Tomahawk missile landing on a school. Grieving parents burying their children. \nOnly weeks prior, the authoritarian regime had been struggling to shut down all footage of the pr",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "איך איראן הביסה את הבית הלבן בתעמולת סושיאל מדיה",
+      "description_he": "בימים הראשונים של הסכסוך, בזמן שהבית הלבן היה עסוק בשיתוף memes מ-Call of Duty ו-AI slop מצחיקים, תקשורת המדינה האיראנית הוציאה כמות ענקית של סרטון עם כל מה שקרה בשטח - פיצוצים בטהרן, עשן בשמיים וכל מה שאפשר לדמיין. במשחק של מדיה חברתית ותעמולה, ברור מי הצליח להשפיע בצורה יותר יעילה על הסיפור שמגיע לציבור.",
       "link": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
       "image_url": null,
       "pub_date": "2026-04-11T13:00:00.000Z",
       "author": "Sarah Jeong",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-11T13:54:47.779Z",
       "created_at": "2026-04-11T13:54:47.779Z"
@@ -65828,8 +65828,8 @@
       "source": "Ars Technica",
       "title_en": "AI models are terrible at betting on soccer—especially xAI Grok",
       "description_en": "Systems from Google, OpenAI, Anthropic, and xAI struggle with the Premier League.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מודלי AI מסתבכים בחיזויים על כדורגל – ו-Grok של xAI הוא הגרוע ביותר",
+      "description_he": "יצא שמודלים של כל הענקים – גוגל, OpenAI, אנתרופיק וגם xAI – כולם נופלים בחיזוי התוצאות של ליגת העל האנגלית. נראה שאפילו כשמודל AI יכול לעבור את בחן המתכנתים, הוא עדיין לא יודע להנחש איפה תלויה כדור בכדורגל, והמודל החדש של Elon Musk, Grok, במיוחד מתמודד עם הקושי הזה.",
       "link": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/premierleaguegambling-1024x648.jpg",
       "pub_date": "Sat, 11 Apr 2026 11:15:17 +0000",
@@ -65843,7 +65843,7 @@
         "syndication",
         "xAI Grok"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T13:54:47.836Z",
       "created_at": "2026-04-11T13:54:47.836Z"
@@ -65853,8 +65853,8 @@
       "source": "The Decoder",
       "title_en": "Google's Gemma 4 puts free agentic AI on your phone and no data ever leaves the device",
       "description_en": "Google's new open-source model, Gemma 4, processes text, images, and audio completely on-device. Using agent skills, the AI can independently tap into tools like Wikipedia or interactive maps; no cloud required.\nThe article Google's Gemma 4 puts free agentic AI on your phone and no data ever leaves the device appeared first on The Decoder.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "Gemma 4 של גוגל: AI אגנטי חינמי על הטלפון שלך בלי שום נתון עוזב את המכשיר",
+      "description_he": "גוגל הוציאה מודל open-source חדש בשם Gemma 4 שעובד בעברית, תמונות ואודיו ישירות על המכשיר שלך - ללא צורך בענן. ה-AI החכם הזה יכול להשתמש בכלים כמו ויקיפדיה ומפות אינטראקטיביות באופן עצמאי, והכל נשאר מאובטח בטלפון שלך. זה בעצם משחק חדש בעולם הפרטיות - סוף סוף יש לנו AI אמיתי שלא משדר את כל מה שאנחנו עושים לשרתי גוגל.",
       "link": "https://the-decoder.com/googles-gemma-4-puts-free-agentic-ai-on-your-phone-and-no-data-ever-leaves-the-device/",
       "image_url": null,
       "pub_date": "Sat, 11 Apr 2026 13:21:59 +0000",
@@ -65865,7 +65865,7 @@
         "Gemma",
         "Google"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-11T13:54:48.723Z",
       "created_at": "2026-04-11T13:54:48.723Z"
@@ -65875,14 +65875,14 @@
       "source": "New Atlas",
       "title_en": "World's most powerful three-wheeled scooter comes from an unlikely brand",
       "description_en": "Here I am, talking about a scooter that is more powerful than most motorcycles that some people will ever own. And it doesn’t even come from the likes of Honda, Yamaha, or any other usual suspects. Rather, it comes from Kymco, a scooter manufacturer from Taiwan.\nContinue Reading\nCategory: Motorcycles, Transport\nTags: Kymco, Trike, Scooter, Yamaha, Piaggio",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "הקורקינט התלת-גלגלי החזק בעולם מגיע מחברה שלא כל כך מצפים לה",
+      "description_he": "יש לנו כאן קורקינט שיותר חזק מרוב האופנועים שרוב האנשים אי פעם יבעלכו - וזה לא מגיע מהחברות המוכרות כמו Honda או Yamaha, אלא מ-Kymco, יצרנית קורקינטים מטיוואן שהחליטה שמדי היא לשנות משחק. זה בעצם די מגניב שחברה קטנה יחסית משתלטת על הקטגוריה הזאת עם דבר כזה חזק.\n\nמקור: New Atlas",
       "link": "https://newatlas.com/motorcycles/kymco-cv3-575i/",
       "image_url": null,
       "pub_date": "Sat, 11 Apr 2026 12:03:00 GMT",
       "author": "Utkarsh Sood",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-11T13:54:49.189Z",
       "created_at": "2026-04-11T13:54:49.189Z"
@@ -65940,14 +65940,14 @@
       "source": "Interesting Engineering",
       "title_en": "Rare 2,000-hp Japanese WWII aircraft lifted out of ocean 80 years after combat",
       "description_en": "A WWII Imperial Japanese Navy fighter plane was lifted from the ocean with its wings...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מטוס קרב יפני נדיר בעוצמת 2,000 כוסס הועלה מהאוקיינוס 80 שנה אחרי הקרב",
+      "description_he": "אחרי 80 שנה בתחתית הים, צוות מומחים הצליח להעלות מטוס קרב של הימים היפנים מתקופת מלחמת העולם השנייה עם הכנפיים שלו שמורות! המטוס, שנחשב לכל כך נדיר, הוא עדות מדהימה לטכנולוגיית התעופה של אותה תקופה וללוגיסטיקה המורכבת של חילוץ ממצאים ארכיאולוגיים מהדר.\n\nהמבצע הזה של חילוץ מודרני משלב טכנולוגיה עכשווית עם חקר היסטורי, מה שמעיד על הקדמה בשמירת הם תורבות עולמית ובהבנת ההיסטוריה של המלחמה.",
       "link": "https://interestingengineering.com/culture/rare-2000-hp-japanese-wwii-aircraft",
       "image_url": "https://www.youtube.com/embed/q-hr-Qc4Dz0",
       "pub_date": "Sat, 11 Apr 2026 12:15:15 +0000",
       "author": "Maria Mocerino",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-11T13:54:51.887Z",
       "created_at": "2026-04-11T13:54:51.887Z"
@@ -65957,14 +65957,14 @@
       "source": "Interesting Engineering",
       "title_en": "Autonomous underwater mine warfare could become easier with French firm’s AI-powered system",
       "description_en": "A French company has introduced a system boosted by AI, to conduct full mine countermeasures...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מערכת AI צרפתית יכולה להפוך את מלחמת המוקשים התת-ימית לקלה יותר",
+      "description_he": "חברה צרפתית חדשה פתחה מערכת מונעת AI שמסוגלת לבצע פעולות ניטרול מוקשים בצורה עצמאית מתחת למים - וזה אומר שהחיילים לא צריכים להסתכן יותר. המערכה משתמשת בבינה מלאכותית כדי לזהות ולטפל במוקשים תת-ימיים בעצמה, מה שיכול לשנות משחק בתחום הביטחון הימי. זה עוד דוגמה לאופן שבו AI משנה תחומים שנחשבו עד כה לעבודה אנושית בלבד. מקור: Interesting Engineering",
       "link": "https://interestingengineering.com/military/autonomous-underwater-mine-warfare-ai-system",
       "image_url": null,
       "pub_date": "Sat, 11 Apr 2026 12:11:04 +0000",
       "author": "Prabhat Ranjan Mishra",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-11T13:54:51.887Z",
       "created_at": "2026-04-11T13:54:51.887Z"
@@ -65974,8 +65974,8 @@
       "source": "Futurism",
       "title_en": "To Get Swole, Teens Are Pumping Themselves Full of Drugs Meant for Fattening Cows for the Slaughterhouse",
       "description_en": "\"If I have a heart attack at 30, I have a heart attack.\"\nThe post To Get Swole, Teens Are Pumping Themselves Full of Drugs Meant for Fattening Cows for the Slaughterhouse appeared first on Futurism.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "בני נוער משתמשים בתרופות להנפחת בקר כדי להשיג שרירים - בסיכון בריאותי קשה",
+      "description_he": "תופעה מדאיגה בקרב נוער: צעירים בישראל וברחבי העולם משתמשים בחומרים שיועדו במקור להנפחת בעלי חיים כדי להגדיל שרירים במהירות. החומרים האלה יכולים לגרום לנזקים קשים לבריאות כולל בעיות בלב, כל זה בשביל גוף מושלם עכשיו - גם אם זה אומר סיכון חיים בעתיד. מקור: Futurism",
       "link": "https://futurism.com/health-medicine/steroids-teens-looksmaxxing",
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/steroids-teens-looksmaxxing.jpg?quality=85",
       "pub_date": "Sat, 11 Apr 2026 09:45:00 -0400",
@@ -66012,7 +66012,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-11T13:54:52.064Z",
       "created_at": "2026-04-11T13:54:52.064Z"
@@ -66022,8 +66022,8 @@
       "source": "Futurism",
       "title_en": "Foolish Pollsters Are Now Just Asking AI What Voters Would Say in Response to Questions and Publishing It at Face Value",
       "description_en": "\"Pure fictions are on the brink of being treated as scientific and political knowledge.\"\nThe post Foolish Pollsters Are Now Just Asking AI What Voters Would Say in Response to Questions and Publishing It at Face Value appeared first on Futurism.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "סקרים מזויפים: סוקרים משתמשים ב-AI כדי \"לחזות\" את תשובות הבוחרים ופורסמים את זה כעובדות",
+      "description_he": "בעולם של הפוליטיקה והסקרים, חלק מהסוקרים התחילו להשתמש ב-AI כדי לדמות תשובות של בוחרים במקום לשאול אחרים בפועל - וזה די בעייתי. מה שהיה אמור להיות מדע קשוח הופך בהדרגה לבדיקות מכונה ממוצאת, שמחליפות ריאליות בנתונים מעוצבים. Futurism מעלה אזהרה חשובה: קח בזהירות סקרים שטוענים להיות 'מדעיים' כשהם בעצם רק השערות של AI.",
       "link": "https://futurism.com/artificial-intelligence/ai-polls-silicon-sampling",
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/ai-polls-silicon-sampling.jpg?quality=85",
       "pub_date": "Sat, 11 Apr 2026 09:00:00 -0400",
@@ -66042,7 +66042,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-11T13:54:52.064Z",
       "created_at": "2026-04-11T13:54:52.064Z"
@@ -66052,8 +66052,8 @@
       "source": "Futurism",
       "title_en": "OpenAI Says It’s Already Made $100 Million by Stuffing ChatGPT With Ads",
       "description_en": "A handsome chunk of change.\nThe post OpenAI Says It’s Already Made $100 Million by Stuffing ChatGPT With Ads appeared first on Futurism.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "OpenAI כבר הרוויחה 100 מיליון דולר מפרסומות ב-ChatGPT",
+      "description_he": "אוופן איי חושפת שהשקעה בפרסומות בתוך ChatGPT כבר הניבה רווחים ענקיים - המון כסף שנכנס לקופה שלהם. זה משמעותי במיוחד כשחושבים שהחברה עדיין בתוך מלחמת השכר על היתרון בתחום ה-AI, והיא צריכה דרכים חדשות להחזיר השקעות. המהלך מראה שאפילו כשמדובר על טכנולוגיה מתקדמת, הפרסומות עדיין המלט הזהב של כל חברה טק. | מקור: Futurism",
       "link": "https://futurism.com/artificial-intelligence/openai-money-chatgpt-ads",
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/openai-money-chatgpt-ads.jpg?quality=85",
       "pub_date": "Sat, 11 Apr 2026 08:15:00 -0400",
@@ -66072,7 +66072,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-11T13:54:52.064Z",
       "created_at": "2026-04-11T13:54:52.064Z"
@@ -66082,8 +66082,8 @@
       "source": "Futurism",
       "title_en": "AI Is Causing Healthcare Costs to Surge",
       "description_en": "\"We need technology to help us lower health care costs.\"\nThe post AI Is Causing Healthcare Costs to Surge appeared first on Futurism.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "AI גורם לעלייה דרמטית בעלויות healthcare",
+      "description_he": "במקום להוזיל את עלויות הבריאות, נראה שהשימוש ב-AI בתחום healthcare בעצם מעלה אותן - דבר שמעלה שאלות חמורות על הדרך בה אנחנו משלבים טכנולוגיה במערכת הרפואה שלנו. לפי הדיווח, יש צורך דחוף לחשוב מחדש על איך אנחנו משתמשים בטכנולוגיה כדי בעצם להוריד ולא להעלות את החשבון של כל אחד מאתנו. מקור: Futurism",
       "link": "https://futurism.com/artificial-intelligence/ai-healthcare-costs-rising",
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/ai-healthcare-costs-rising.jpg?quality=85",
       "pub_date": "Sat, 11 Apr 2026 07:30:00 -0400",
@@ -66114,7 +66114,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T13:54:52.064Z",
       "created_at": "2026-04-11T13:54:52.064Z"
@@ -66124,8 +66124,8 @@
       "source": "Tom's Hardware",
       "title_en": "Denuvo properly cracked in Resident Evil: Requiem, bypasses become plug-and-play — cracked version runs faster, smoother, and uses way less VRAM and RAM",
       "description_en": "Denuvo properly cracked in Resident Evil: Requiem, while HV bypasses become plug-and-play",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "Denuvo סוף סוף נשבר כמו שצריך ב-Resident Evil: Requiem - הגרסה המפוצצת רצה מהר יותר וחוסכת הרבה RAM",
+      "description_he": "אחרי שנים של משחק חתול עכבר, סוף סוף הצליחו לפצוץ את Denuvo בצורה תקינה ב-Resident Evil: Requiem, והתוצאות די מוזרות - הגרסה המפוצצת לא רק שחוצה את ה-DRM אלא גם רצה בביצועים טובים יותר ותופסת פחות VRAM ו-RAM מאשר המקור. זה בעצם הופך את ההעתק האילגלי למשחק יותר יעיל מהגרסה הלגיטימית.",
       "link": "https://www.tomshardware.com/video-games/pc-gaming/denuvo-properly-cracked-in-resident-evil-requiem-bypasses-become-plug-and-play-cracked-version-runs-faster-smoother-and-uses-way-less-vram-and-ram",
       "image_url": "https://cdn.mos.cms.futurecdn.net/bEPKnYrxZ6ZWnBniyyoESg-1280-80.png",
       "pub_date": "Sat, 11 Apr 2026 12:20:00 +0000",
@@ -66134,7 +66134,7 @@
         "PC Gaming",
         "Video Games"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-11T13:54:52.092Z",
       "created_at": "2026-04-11T13:54:52.092Z"
@@ -66144,8 +66144,8 @@
       "source": "Tom's Hardware",
       "title_en": "Intel Core Ultra 7 270K Plus vs Ryzen 7 9700X faceoff — a new midrange CPU champ emerges",
       "description_en": "Intel's new Core Ultra 7 270K Plus is going after the Ryzen 7 9700X with its $300 price point. We put the two head-to-head in a series of rounds based on our own testing to see which comes out on top.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "Intel Core Ultra 7 270K Plus מול Ryzen 7 9700X — מי המלך החדש של טווח הביניים?",
+      "description_he": "אינטל הוציאה את ה-Core Ultra 7 270K Plus החדש שלה כדי להתחרות ישירות עם ה-Ryzen 7 9700X של AMD בסביבות ה-300 דולר. בדקנו את שניהם בסדרה של מבחנים מעשיים כדי לראות איזה פרוסצסור באמת שווה את הכסף שלך — והתוצאות עשויות להפתיע אותך.",
       "link": "https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-7-270k-plus-vs-ryzen-7-9700x-cpu-faceoff",
       "image_url": "https://cdn.mos.cms.futurecdn.net/XHsoYwx6ZzwmK8fePVU4bH-1280-80.jpg",
       "pub_date": "Sat, 11 Apr 2026 12:00:00 +0000",
@@ -66154,7 +66154,7 @@
         "CPUs",
         "PC Components"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-11T13:54:52.092Z",
       "created_at": "2026-04-11T13:54:52.092Z"
@@ -66164,8 +66164,8 @@
       "source": "Tom's Hardware",
       "title_en": "HyperX Eve 1800 Review: Not worth $50",
       "description_en": "The HyperX Eve 1800 is not a good keyboard, even for $50, as it’s lacking in features and not pleasant to use.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ביקורת HyperX Eve 1800: לא שווה אפילו 50 דולר",
+      "description_he": "המקלדת HyperX Eve 1800 פשוט לא עושה את העבודה, גם לא במחיר של 50 דולר - היא חסרה features שימושיים ופשוט לא נוחה לשימוש יומיומי. אם אתם מחפשים מקלדת בטווח המחירים הזה, יש אפשרויות הרבה יותר טובות בשוק.\n\nמקור: Tom's Hardware",
       "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/hyperx-eve-1800-review",
       "image_url": "https://cdn.mos.cms.futurecdn.net/DGjtjcqTqwMd2PtMuv93XN-1280-80.jpg",
       "pub_date": "Sat, 11 Apr 2026 12:00:00 +0000",
@@ -66175,7 +66175,7 @@
         "Peripherals",
         "Keyboards"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-11T13:54:52.092Z",
       "created_at": "2026-04-11T13:54:52.092Z"
@@ -66185,8 +66185,8 @@
       "source": "Tom's Hardware",
       "title_en": "Chinese Nvidia Cloud Partner procured 300 servers with banned AI GPUs worth $92 million — shares of data center supplier Sharetronic plummet following Super Micro smuggling arrest",
       "description_en": "Publicly available documents reveal that a Chinese AI data center company sold servers that were designed for Nvidia H100 chips despite the U.S. export ban.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "שותף ענן סיני של Nvidia קנה 300 שרתים עם GPU-ים אסורים בשווי 92 מיליון דולר — מניות ספקית מרכזי הנתונים Sharetronic צנחו אחרי מעצר בגלל הברחה",
+      "description_he": "מסמכים שזמינים לציבור חושפים שחברת מרכז נתונים בינה מלאכותית בסין מכרה שרתים שתוכננו עבור ה-H100 של Nvidia, כל זאת למרות הצו הרשמי של ארה\"ב שאוסר על ייצוא של דברים האלה לאזור זה. זה טירוף - במהלך שנים בני אמונים רבות, רכישות ענקיות כאלו של ציוד מחוסם מעלות שאלות חמורות על בקרת הייצוא והאופן בו חברות מנסות לעקוף סנקציות.",
       "link": "https://www.tomshardware.com/tech-industry/chinese-nvidia-cloud-partner-procured-300-servers-with-banned-ai-gpus-worth-usd92-million-shares-of-data-center-supplier-sharetronic-plummet-following-super-micro-smuggling-arrest",
       "image_url": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1280-80.jpg",
       "pub_date": "Sat, 11 Apr 2026 11:40:00 +0000",
@@ -66194,7 +66194,7 @@
       "categories": [
         "Tech Industry"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-11T13:54:52.092Z",
       "created_at": "2026-04-11T13:54:52.092Z"
@@ -66204,14 +66204,14 @@
       "source": "CNBC Tech",
       "title_en": "Vibe check from inside one of AI industry's main events: 'Claude mania'",
       "description_en": "At the HumanX conference in San Francisco this week, Anthropic's momentum was on everyone's lips.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "בדיקת אווירה מתוך אחד מהאירועים המרכזיים בתעשיית ה-AI: 'Claude mania'",
+      "description_he": "בכנס HumanX שהתקיים בסן פרנסיסקו השבוע, המומנטום של Anthropic היה בפי כולם. נראה שהחברה עם ה-Claude שלה גונבת את ההצגה מתחרויות גדולות, וכל דובר בתעשייה מדבר על מה שהם עושים שם.",
       "link": "https://www.cnbc.com/2026/04/11/vibe-check-from-ai-industry-humanx-anthropic-is-talk-of-the-town.html",
       "image_url": null,
       "pub_date": "Sat, 11 Apr 2026 12:00:01 GMT",
       "author": null,
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-11T13:54:52.345Z",
       "created_at": "2026-04-11T13:54:52.345Z"
