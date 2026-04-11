@@ -1,9 +1,9 @@
 {
-  "total": 3430,
+  "total": 3446,
   "translated": 2413,
-  "untranslated": 1017,
-  "today": 198,
-  "week": 3377,
+  "untranslated": 1033,
+  "today": 214,
+  "week": 3393,
   "sources": [
     {
       "name": "Pypi.org",
@@ -25,13 +25,13 @@
     },
     {
       "name": "Futurism",
-      "total": 122,
+      "total": 126,
       "translated": 109,
       "lastDate": "Wed, 08 Apr 2026 16:29:40 -0400"
     },
     {
       "name": "Tom's Hardware",
-      "total": 110,
+      "total": 114,
       "translated": 93,
       "lastDate": "Wed, 08 Apr 2026 19:45:25 +0000"
     },
@@ -49,13 +49,13 @@
     },
     {
       "name": "New Atlas",
-      "total": 88,
+      "total": 89,
       "translated": 82,
       "lastDate": "Wed, 08 Apr 2026 23:03:00 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 82,
+      "total": 83,
       "translated": 69,
       "lastDate": "Wed, 08 Apr 2026 22:00:11 +0000"
     },
@@ -79,13 +79,13 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 70,
+      "total": 71,
       "translated": 59,
       "lastDate": "Wed, 08 Apr 2026 23:52:04 GMT"
     },
     {
       "name": "Interesting Engineering",
-      "total": 64,
+      "total": 66,
       "translated": 45,
       "lastDate": "Wed, 08 Apr 2026 23:24:03 +0000"
     },
@@ -103,13 +103,13 @@
     },
     {
       "name": "The Decoder",
-      "total": 45,
+      "total": 46,
       "translated": 37,
       "lastDate": "Wed, 08 Apr 2026 18:00:03 +0000"
     },
     {
       "name": "The Guardian AI",
-      "total": 37,
+      "total": 38,
       "translated": 34,
       "lastDate": "Wed, 08 Apr 2026 22:13:18 GMT"
     },
@@ -121,9 +121,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 30,
+      "total": 31,
       "translated": 25,
-      "lastDate": "2026-04-10T20:16:57.000Z"
+      "lastDate": "2026-04-11T13:00:00.000Z"
     },
     {
       "name": "pymnts.com",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-11T13:54:03.315Z"
+  "generatedAt": "2026-04-11T14:34:11.765Z"
 }
