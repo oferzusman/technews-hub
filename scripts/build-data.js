@@ -90,9 +90,10 @@ function loadTelegramData() {
 }
 
 async function main() {
-  const db = existsSync(DB_PATH)
+  const rawDb = existsSync(DB_PATH)
     ? JSON.parse(readFileSync(DB_PATH, 'utf8'))
     : { articles: [] };
+  const db = Array.isArray(rawDb) ? { articles: rawDb } : rawDb;
 
   // Include all articles; use translated text when available, fall back to English
   const translated = db.articles

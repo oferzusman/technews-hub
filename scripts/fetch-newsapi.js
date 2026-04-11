@@ -19,7 +19,11 @@ const BASE_URL = 'https://newsapi.org/v2/everything';
 
 function loadDb() {
   if (!existsSync(DB_PATH)) return { articles: [] };
-  try { return JSON.parse(readFileSync(DB_PATH, 'utf8')); } catch { return { articles: [] }; }
+  try {
+    const raw = JSON.parse(readFileSync(DB_PATH, 'utf8'));
+    if (Array.isArray(raw)) return { articles: raw };
+    return raw;
+  } catch { return { articles: [] }; }
 }
 
 function saveDb(db) {
