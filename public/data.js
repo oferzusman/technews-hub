@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "The Effects of AI-Generated Code Tearing Through Corporations Is Actually Kind of Funny\n\nWomp womp!\nThe post The Effects of AI-Generated Code Tearing Through Corporations Is Actually Kind of Funny appeared first on Futurism.",
+    "t": "האפקט של קוד שנוצר ע\"י AI שמחרבן את התאגידים זה בעצם די מצחיק\n\nהתברר שכל הבדיוק שלנו על AI שיוצר קוד לא בדיוק עובד כמו שחשבנו - חברות גדולות מגלות שהן מתמודדות עם באגים מוזרים וקוד שעובד בחצי מהמקרים (או בשום מקרה). במילים אחרות, הויזן טכנולוגי הזה מתברר כקצת יותר מסובך מאשר פשוט להשתמש בכפתור \"Generate\" ולהמשיך לחיים. | מקור: Futurism",
     "d": "Sat, 11 Apr 2026 12:45:00 -0400",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Clippy, Microsoft’s hapless Office assistant, was retired 25 years ago today — its irritating spirit lives on in 100+ Copilots\n\nMicrosoft’s Clippy was put out to pasture a quarter century ago. This hapless, and some would add ‘irritating,’ productivity assistant would no longer be enabled by default in Office, starting April 11, 2001.",
+    "t": "קליפי, העוזר המביך של מיקרוסופט, פורש לפני 25 שנה - וזה לא באמת הלך לשום מקום\n\nהיום בדיוק התאריך שבו מיקרוסופט השמיטה את קליפי, סוכן העזרה המעצבן שנהיה סמל לטכנולוגיה זדונית. אחרי שהכזיבו למליונים משתמשים ב-2001, נראה שמיקרוסופט תפסה את ההודעה - אבל החלפה זה בעשרות קופילוטים שונים יותר מעצבן עוד יותר מהמקור.",
     "d": "Sat, 11 Apr 2026 16:27:37 +0000",
     "v": 0,
     "l": [
@@ -37,12 +37,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/eyaTBF7HvhAjm2qbV9XeCk-1280-80.jpg",
@@ -50,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "AI drones make mine clearing faster and safer\n\nThe British Army and the Defence Science and Technology Laboratory (Dstl) have completed a multi-week test in Essex using drones, advanced sensors, and AI to speed up and make safer the hunt for deadly mines and munitions scattered on battlefields.\nContinue Reading\nCategory: Military, Engineering\nTags: British Army, Land Mines, drones, Artificial Intelligence",
+    "t": "רחפנים בעזרת AI מנקים שדות מוקשים בצורה מהירה ובטוחה יותר\n\nהצבא הבריטי עשה בדיקות משמעותיות בעסק של ניקוי מוקשים - הם השתמשו ברחפנים חכמים עם חיישנים מתקדמים ו-AI כדי למצוא תחמונים מסוכנים בשדה הקרב במהירות וביעילות הרבה יותר גבוהה. התוצאות די מרשימות: הטכנולוגיה הזאת יכולה להציל חיים וגם להקטין את הסיכונים לחיילים שעובדים בשטח. זה בדיוק הסוג של יישום AI שמשנה את המציאות בעולם הבטחון.",
     "d": "Sat, 11 Apr 2026 16:03:00 GMT",
     "v": 0,
     "l": [
@@ -73,7 +70,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Trump Hires Orbital Towing Company to Build Space Interceptors\n\nStick to haulin' freight.\nThe post Trump Hires Orbital Towing Company to Build Space Interceptors appeared first on Futurism.",
+    "t": "טראמפ שוכר חברת גרירה במסלול לבניית מיירטים חלל\n\nבמהלך שלא צפוי במיוחד, הנהלת טראמפ החליטה לשכור חברת גרירה במסלול (שעד כה עסקה בהובלת משא וקטן בחלל) כדי לפתח מערכת מיירטים חלל. כנראה שלמישהו בהנהלה יש תפיסה מעניינת של משימות מסווגות. ה\"ספינות גרירה\" של החלל מתוך הדרמה הזאת עשויות להשנות את המשחק בתחום ההגנה על כדור הארץ - אם רק הם יצליחו שם. מקור: Futurism",
     "d": "Sat, 11 Apr 2026 12:00:00 -0400",
     "v": 0,
     "l": [
@@ -96,7 +93,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Save $680 instantly on this massive Corsair 96GB DDR5-6000 RAM kit — 57% discount slashes price tag to $499\n\nIf you've been looking to score a high-capacity kit of RAM but the AI boom has destroyed any chance of that happening, Newegg might have just the deal for you. The 96GB Corsair Vengeance DDR5-6000 RAM kit usually costs over $1,100, but you can get it for less than half if you act quickly.",
+    "t": "חיסכון של $680 בערכת RAM ענקית של Corsair 96GB DDR5-6000 — הנחה של 57% מוריד את המחיר ל-$499\n\nאם חיפשתם ערכת RAM בנפח גבוה אבל המחירים התפרעו בגלל הבום של AI, Newegg הביאה את העסקה המושלמת בשבילכם. ערכת Corsair Vengeance DDR5-6000 בנפח 96GB עולה בדרך כלל למעלה מ-$1,100, אבל עכשיו אפשר להשיגה בפחות מחצי מחיר — אם תמהרו.",
     "d": "Sat, 11 Apr 2026 15:59:46 +0000",
     "v": 0,
     "l": [
@@ -119,7 +116,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "A reimagined Paul trap could help labs worldwide study antimatter beyond CERN\n\nFor decades, physicists have chased the goal of bringing together the building blocks of antimatter...",
+    "t": "מלכודת פאול שנתכננה מחדש עלולה לעזור ללאבים בכל העולם לחקור אנטימטר מעבר ל-CERN\n\nסוף סוף יש לנו פריצה במלכודות החלקיקים! מדענים עבדו על שיפור המלכודת של פאול, הכלי המדהים שמאפשר לנו להחזיק אנטימטר במקום אחד ולא לתת לו להתפוצץ. החדשות הטובות הן שהטכנולוגיה החדשה הזו יכולה להפוץ בלאבים בכל העולם, ולא רק ב-CERN בשווייץ - כלומר שיותר חוקרים יוכלו לחקור את המסתורין של אנטימטר ולהבין איך היקום באמת עובד.",
     "d": "Sat, 11 Apr 2026 15:54:15 +0000",
     "v": 0,
     "l": [
@@ -136,13 +133,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/dual-frequency-paul-trap.jpg",
     "source": "Interesting Engineering"
   },
   {
     "id": 7,
-    "t": "Two manufacturers commit to keep Blu-ray alive after others quit manufacturing — Verbatim and I-O Data extend Blu-ray supply pledge as manufacturers exit the market\n\nVerbatim Japan and I-O Data have widened their joint commitment to keep recordable Blu-ray products on shelves in Japan, this time covering drive hardware as well as media.",
+    "t": "שתי חברות מתחייבות להמשיך ייצור Blu-ray — Verbatim ו-I-O Data מרחיבות את התחייבותן כשמתחרים עוזבים את השוק\n\nVerbatim Japan ו-I-O Data הרחיבו את ההתחייבות המשותפת שלהן לשמור על מוצרי Blu-ray רשומים על המדפים בזמן שמתחרים אחרים נוטשים את השוק. הפעם הן מאריכות את הטווח גם לחומרה של כוננים, לא רק למדיה עצמה, כך שעדיין יהיה למי שרוצה להסתמך על הטכנולוגיה הזו דרך קדימה.",
     "d": "Sat, 11 Apr 2026 15:40:40 +0000",
     "v": 0,
     "l": [
@@ -165,7 +162,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "MacBook user explains why he files the sharp metal edges off his Apple laptops — unibody design facilitates a surprisingly deep roundover\n\nTech DIYer Kent Walters has used a metalworking file to round over the corners of his MacBook. Apparently, some people freak out about this.",
+    "t": "משתמש MacBook מסביר למה הוא משפשף את הקצוות המתכתיים החדים של המחשבים של אפל — העיצוב היחיד מאפשר עיגול עמוק\n\nהיוצר הטכני קנט וולטרס החליט לעגל את פינות ה-MacBook שלו בעזרת פצירה מתכתית, וזה גרם לכמה אנשים להוציא אולם. הוא מראה שעיצוב ה-unibody של אפל בעצם מאפשר את התרגול הזה בצורה די עמוקה, אבל ברור שלא כולם שמחים עם זה.",
     "d": "Sat, 11 Apr 2026 15:15:42 +0000",
     "v": 0,
     "l": [
@@ -178,14 +175,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta",
-      "Apple"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/GbGWEhHw9zYBQDH2sijHvQ-1280-80.jpg",
@@ -193,7 +185,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Psychologists Found Something Horrible About the Kind of Men Seeking Trad Wives\n\nColor us shocked.\nThe post Psychologists Found Something Horrible About the Kind of Men Seeking Trad Wives appeared first on Futurism.",
+    "t": "פסיכולוגים גילו משהו נורא על הגברים שמחפשים נשים \"מסורתיות\"\n\nמחקר חדש חושף תמונה לא כל כך יפה על הפרופיל הפסיכולוגי של גברים המעוניינים בחברות שהולכות בדרך המסורתית. נראה שיש כאן קצת יותר מאשר רק העדפה אישית - יש כאן דפוסים דומים שמעלים שאלות ברצינות. מקור: Futurism",
     "d": "Sat, 11 Apr 2026 11:15:00 -0400",
     "v": 0,
     "l": [
@@ -6319,7 +6311,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 263,
-    "t": "Las Vegas Sphere Turns Into Huge Moon to Celebrate NASA Mission\n\n\"Good luck, Godspeed Artemis II. Let’s go.\"\nThe post Las Vegas Sphere Turns Into Huge Moon to Celebrate NASA Mission appeared first on Futurism.",
+    "t": "כדור לאס וגאס הפך לירח ענק בכדי לחגוג משימת נאס\"א\n\nכדור לס וגס המפורסם הפך ללילה לירח ענק כדי לתמוך במשימת Artemis II של נאס\"א. מסך LED הענקי של הכדור הציג אנימציה של הירח בגודל מדהים עם הודעת עידוד לצוות החלל, בהופעה שלא תשכחו כל מי שהיה שם. זאת עוד הוכחה איך טכנולוגיית התצוגה המתקדמת משמשת כדי לחגוג הישגים מדעיים גדולים.\n\nמקור: Futurism",
     "d": "Thu, 09 Apr 2026 12:12:56 -0400",
     "v": 0,
     "l": [
@@ -7379,7 +7371,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 308,
-    "t": "Build a $5,000 AM5 gaming PC for just $2,771 with this Newegg combo deal — 9800X3D and RTX 5070 also come with 128GB of DDR5 RAM, 4TB SSD, X870E motherboard, and AIO cooler\n\nBuild a gaming PC worth $5,019 for just $2,771.98 in this epic Newegg combo deal with a 9800X3D, a whopping 128GB of DDR5 RAM, an MSI X870E motherboard, and a RTX 5070, along with a free 4TB SSD, MSI MAG liquid cooler, and three free games, saving you over $2,247 in total.",
+    "t": "בנו PC גיימינג בשווי $5,000 תמורת $2,771 בלבד - Newegg מציעה דיל מטורף עם 9800X3D ו-RTX 5070\n\nאם חלמתם על PC גיימינג עוצמתי, עכשיו זה הזמן. Newegg מציעה קומבו מנוצח בו תקבלו מחשב שווה בערך $5,000 תמורת פחות מ-$2,800, ובחבילה יש את המון דברים טובים: 9800X3D עם RTX 5070, RAM ענק של 128GB DDR5, SSD של 4TB, לוח אם X870E וקולר נוזלי, הכל עם חיסכון של למעלה מ-$2,200. דיל כזה לא קורה כל יום.",
     "d": "Thu, 09 Apr 2026 12:07:29 +0000",
     "v": 0,
     "l": [
@@ -7402,7 +7394,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 309,
-    "t": "Intel developing two-lever retention mechanism for LGA 1954 socket, according to new leak — Premium Nova Lake-S motherboards will feature 2L-ILM sockets\n\nSome high-end motherboards for Intel's upcoming Nova Lake processors have been tipped to include a dual-lever retention mechanism called \"2L-ILM.\" We've seen something similar before with LGA 2011, but that a server platform. Boards with 2L-ILM will live alongside standard ILM (1L-ILM?) variants that are cheaper to produce.",
+    "t": "אינטל מפתחת מנגנון החזקה דו-מנופי לשקע LGA 1954 — לוחות אם Nova Lake-S פרימיום יכללו שקעי 2L-ILM\n\nנחשפו דוקומנטים המצביעים על כך שלוחות אם high-end של פרוצסורי Nova Lake הקרובים של אינטל יכללו מנגנון החזקה דו-מנופי שנקרא '2L-ILM' — משהו שראינו בעבר בשקע LGA 2011, אבל זה היה בפלטפורמת שרתים. לוחות עם 2L-ILM יחיו לצד גרסאות ILM רגילות שזולות יותר לייצור. בעצם, אינטל עומדת להציע שתי אופציות: מסלול פרימיום עם החזקה חזקה יותר, וחלופה כלכלית יותר לשאר המשתמשים.",
     "d": "Thu, 09 Apr 2026 12:01:06 +0000",
     "v": 0,
     "l": [
@@ -7425,7 +7417,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 310,
-    "t": "Acer Predator X27 X1 27-inch 240 Hz OLED gaming monitor review: Blending performance and value\n\nAcer delivers a solid value with the Predator X27 X1. It’s a 27-inch QD-OLED gaming monitor with 4K resolution, 240 Hz, Adaptive-Sync, HDR400, and wide gamut color. It delivers high speed and saturated color in equal measure.",
+    "t": "סקירת Acer Predator X27 X1 - מסך גיימינג OLED 27 אינץ' בחסן עדי: איזון מושלם בין ביצועים למחיר\n\nאייסר הצליחה לחבוק הצרכן של הגיימרים - מסך QD-OLED בגודל 27 אינץ' עם רזולוציית 4K ו-240 Hz שמגיע בנוסחה שרירה: תמיכה ב-Adaptive-Sync, HDR400, וצבעים עשירים ורווים. מה שמעניין פה זה שהם הצליחו לתחום זמנים קצרים מאד ותצוגת צבעים עמוקה בלי לפגוע בחיסכון שכל גיימר מחכה לו.",
     "d": "Thu, 09 Apr 2026 12:00:00 +0000",
     "v": 0,
     "l": [
@@ -7448,7 +7440,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 311,
-    "t": "Anthropic keeps new AI model private after it finds thousands of external vulnerabilities\n\nAnthropic’s most capable AI model has already found thousands of AI cybersecurity vulnerabilities across every major operating system and web browser. The company’s response was not to release it, but to quietly hand it to the organisations responsible for keeping the internet running. That model is Claude Mythos Preview, and the initiative is called Project Glasswing. […]\nThe post Anthropic keeps new AI model private after it finds thousands of external vulnerabilities appeared first on AI News",
+    "t": "Anthropic שומרת על מודל AI חדש בסוד לאחר שהוא גילה אלפי חולשות אבטחה\n\nAnthropic חשפה שהמודל החדש שלה Claude Mythos Preview כבר מצא אלפי חולשות בתחום AI cybersecurity בכל מערכות הפעלה וגולשי אינטרנט גדולים - וברובד בוחרה להישאר שקטה ופשוט להעביר את הממצאים לארגונים האחראים על ריצוף האינטרנט. Anthropic החליטה שהמודל הזה כל כך חזק שמוטב יהיה לשמור עליו בחסיון כחלק מיוזמה בשם Project Glasswing, במקום להשחררו לציבור.",
     "d": "Thu, 09 Apr 2026 12:00:00 +0000",
     "v": 0,
     "l": [
@@ -7475,7 +7467,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 312,
-    "t": "China’s ally demonstrates ‘blackout’ bomb, cluster warhead with 7-hectare lethality\n\nIn a significant display of military diversification, recent exercises in North Korea have confirmed the...",
+    "t": "בעל הברית של סין הפגין פצצת 'הפסקת חשמל' - ראש קבוצתי עם אזור הרג של 7 הקטאר\n\nבתרגול צבאי שקרה בצפון קוריאה, הציגו כוחות צבאיים נשק חדש עם יכולות הרסניות מרשימות - פצצה עם ראש קבוצתי שיכול להשפיע על שטח ענק של כ-7 הקטאר. התצוגה הזו נחשבת להצגה משמעותית של התגוונות צבאית והשקעה בטכנולוגיות נשק מתקדמות.",
     "d": "Thu, 09 Apr 2026 11:49:46 +0000",
     "v": 0,
     "l": [
@@ -7498,7 +7490,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 313,
-    "t": "GhostlyX\n\nDiscussion\n            |\n            Link",
+    "t": "GhostlyX\n\nנראה שיש פה משהו מעניין שקיבל תגובות בקהילה, אבל הפרטים קצת מעורפלים בינתיים. אם אתם סקרנים לגבור מה בדיוק זה GhostlyX, כדאי לכם להיכנס ישירות לדיון בProduct Hunt כדי להבין על מה מדברים.",
     "d": "2026-04-09T11:46:58.000Z",
     "v": 0,
     "l": [
@@ -7521,7 +7513,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 314,
-    "t": "OpenAI halts UK stargate project amid regulatory and energy price concerns\n\nThe major AI infrastructure was announced in September in partnership was with Nvidia and Nscale.",
+    "t": "OpenAI עוצרת את פרויקט Stargate בבריטניה בשל חששות רגולטוריים ועלויות אנרגיה\n\nOpenAI החליטה להשהות את פרויקט התשתיות AI הענקי שהוכרז בספטמבר בשיתוף פעולה עם Nvidia ו-Nscale, כנראה בגלל אתגרים רגולטוריים ופחדים לגבי עלויות החשמל הגבוהות בבריטניה. הפרויקט היה אמור להיות אחד ממיזמי ה-AI הגדולים בעולם, אבל נראה שהקשיים הלוקליים גרמו לחברה להחזיק את הסוסים. זה עוד דוגמה לאתגרים שחברות טכנולוגיה גדולות מתמודדות כשמנסות לבנות אינפרה סטרוקטורה ענקית בחו\"ל.",
     "d": "Thu, 09 Apr 2026 11:42:23 GMT",
     "v": 0,
     "l": [
@@ -7543,13 +7535,13 @@ window.TELEGRAM_DATA = [
       "model",
       "hardware"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 315,
-    "t": "US firm’s new humanoid robot learns emotional cues and recalls past conversations\n\nLas Vegas-based robotics firm Realbotix has delivered its first Vinci-equipped humanoid robot to telecommunications company...",
+    "t": "רובוט הומנואידי חדש של חברה אמריקאית לומד רמזים רגשיים וזוכר שיחות קודמות\n\nחברת הרובוטיקה Realbotix מלאס וגאס הציגה את הרובוט ההומנואידי שלה הממלא בטכנולוגיית Vinci, שמסוגל להכיר רגשות ולזכור דיונים קודמים עם משתמשים. הרובוט הדור החדש הזה משדרג משמעותית את היכולות של רובוטים קודמים, ונראה שהוא מוכן כבר להתחיל עבודה בחברות טלקומוניקציה וחברות אחרות. זו כמובן עוד דוגמה לתפוצה הגוברת של רובוטיקה מתקדמת בשוק האמריקאי שמתקרבת לישראל.",
     "d": "Thu, 09 Apr 2026 11:42:04 +0000",
     "v": 0,
     "l": [
@@ -7564,8 +7556,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -7573,7 +7564,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 316,
-    "t": "Under $30, GameSir's Super Nova wireless controller has an unbelievable 40% slashed off the price in this limited-time offer — includes stick drift eliminating Hall Effect thumbsticks and switches\n\nA fully loaded wireless gaming controller from GameSir for under $30.",
+    "t": "בפחות מ-30 דולר: בקר המשחקים Super Nova של GameSir עם הנחה מטורפת של 40% – כולל Hall Effect thumbsticks שמונעים stick drift\n\nGameSir השיקה הצעה מוגבלת על בקר המשחקים האלחוטי Super Nova שלה במחיר שאי אפשר להאמין – פחות מ-30 דולר. הבקר מתגיע עם Hall Effect thumbsticks שמחסלות אחת ולתמיד את בעיית ה-stick drift המעוררת כעס, בדיוק מה שהקוד ים המקצועיים חולמים עליו.",
     "d": "Thu, 09 Apr 2026 11:14:06 +0000",
     "v": 0,
     "l": [
@@ -7596,7 +7587,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 317,
-    "t": "US appeals court refuses to block Pentagon's blacklisting of Anthropic\n\nA US appeals court has declined to temporarily block the Pentagon's designation of Anthropic as a national security risk, Reuters reports.\nThe article US appeals court refuses to block Pentagon's blacklisting of Anthropic appeared first on The Decoder.",
+    "t": "בית משפט אמריקאי דחה בקשה לחסום את הרשימה השחורה של הפנטגון נגד Anthropic\n\nבעיצומו של מאבק משפטי, בית הדין לערעורים בארה\"ב סירב לעצור את הצעד של משרד ההגנה האמריקני שהטיל על Anthropic, חברת ה-AI, תווית של \"סיכון לביטחון לאומי\". זה נראה כמו מהלך חמור במלחמה הגדלה בין הממשל לחברות AI בארה\"ב, וממלא מים חדשים בעניין הרגולציה של טכנולוגיה רגישה. Anthropic, אחת החברות המובילות בפיתוח מודלים גדולים של שפה, עלולה להיתקל בקשיים משמעותיים בעקבות החלטה זו.",
     "d": "Thu, 09 Apr 2026 11:08:01 +0000",
     "v": 0,
     "l": [
@@ -7614,16 +7605,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 318,
-    "t": "Zhipu AI's GLM-5.1 can rethink its own coding strategy across hundreds of iterations\n\nZhipu AI has released its new GLM-5.1 model under an MIT license. The model can reportedly refine its own approach over hundreds of iterations when tackling coding tasks.\nThe article Zhipu AI's GLM-5.1 can rethink its own coding strategy across hundreds of iterations appeared first on The Decoder.",
+    "t": "GLM-5.1 של Zhipu AI יכול לחזור על עצמו מאות פעמים כדי לשפר אסטרטגיית קידוד\n\nZhipu AI השיקה את דגם GLM-5.1 החדש תחת רישיון MIT, וזה לא סתם עוד מודל AI - הוא יכול לעשות משהו ממש מעניין בעבודה עם קוד: לחזור על עצמו מאות פעמים ולשפר את הגישה שלו בדרך. במקום לנסות לפתור בעיית קידוד בניסיון אחד, המודל הזה למעשה חושב מחדש על הכל, מתקן את עצמו, ונעשה טוב יותר עם כל איטרציה - בדיוק כמו מהנדס שאוכל עצמה מפעם לפעם.",
     "d": "Thu, 09 Apr 2026 11:05:27 +0000",
     "v": 0,
     "l": [
@@ -7640,13 +7630,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "http://the-decoder.com/wp-content/uploads/2026/04/glm-5-1-linux-2026-04-07_193431_838.mp4",
     "source": "The Decoder"
   },
   {
     "id": 319,
-    "t": "Korean government to take action over soaring DRAM costs, including monitoring markets and pricing — internet data plans to be restructured and recycled PCs to be distributed to vulnerable groups\n\nSouth Korea is taking government action to reduce the pressure of the DRAM and NAND crisis on its population.",
+    "t": "הממשלה הקוריאנית נכנסת לפעולה נגד עלייה דרמטית במחירי DRAM - ניטור שוק ותכניות חלוקת מחשבים משומשים\n\nדרום קוריאה מפעילה כלים ממשלתיים כדי להקל על משבר ה-DRAM וה-NAND שפוגע באזרחים. הממשלה תעקוב אחרי מחירים, תעצב מחדש תוכניות אינטרנט, וחלק מחשבים משומשים לקבוצות חלופות - מהלך די מעניין שמראה איך מדינות מתמודדות עם משברים בחומרה קריטית. אנחנו מדברים על חומרה שזה כמו חמצן לכל המכשירים שלנו!",
     "d": "Thu, 09 Apr 2026 11:00:56 +0000",
     "v": 0,
     "l": [
@@ -7669,7 +7659,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 320,
-    "t": "Google makes it easy to deepfake yourself\n\nYouTube Shorts is rolling out a new AI-powered feature giving creators an easy way to realistically clone themselves on camera. The launch, hinted at earlier this year, reflects the platform's fraught relationship with AI-generated content, adding more generative features while struggling to contain AI slop, deepfake scams, and impersonations. \nYouTube says the new tool will let users create a digital version of themselves, called an avatar, that can be inserted into existing Shorts videos or us",
+    "t": "גוגל הופכת את זה לקל: עכשיו אתה יכול ליצור עותק דיגיטלי של עצמך\n\nיוטיוב שורטס משיקה פיצ'ר AI חדש שנותן לכמעסינים אפשרות ליצור אווטאר דיגיטלי מציאותי של עצמם וליהפוך אותו לכוכב הסרטון שלהם. גוגל מנסה להאזן בין שימוש בטכנולוגיה מגניבה לבקרה על התופעות המגעילות של deepfakes ותרמיות זהות - משימה לא קלה כשהאלגוריתמים גדלים חזקים יותר כל יום. המוד הזה יאפשר ליוצרים לעבוד עם היוטיוב שורטס שלהם בצורה חדשה לגמרי, כל זאת בזמן שמערכת ההגנה של גוגל מתקדמת כדי למנוע שימוש לרעה.",
     "d": "2026-04-09T10:53:49.000Z",
     "v": 0,
     "l": [
@@ -7682,12 +7672,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -7695,7 +7682,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 321,
-    "t": "Go maintainer joins collective klaxon about encryption-breaking quantum computers — developer urges immediate switch to post-quantum methods to prevent worldwide disaster\n\nGo maintainer joins collective klaxon about encryption-breaking quantum computers and urges immediate switch to post-quantum methods to prevent disaster.",
+    "t": "מתחזק Go מצטרף לאזעקה גלובלית: מחשבים קוונטיים עלולים לשבור הצפנה — קריאה דחופה למעבור ל-post-quantum\n\nמתחזקי Go מצטרפים לקול הזעקה הגדל בתעשייה: מחשבים קוונטיים עתידיים עלולים לפרוץ את מערכות ההצפנה הנוכחיות שלנו, ולכן צריך להתחיל היום למעבור לשיטות post-quantum. זה לא עוד דבר לעתיד - מדובר בצעד קריטי שצריך לעשות עכשיו כדי למנוע אסון סייבר עולמי.",
     "d": "Thu, 09 Apr 2026 10:40:00 +0000",
     "v": 0,
     "l": [
@@ -7718,7 +7705,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 322,
-    "t": "Inbox Autopilot by Dimension\n\nDiscussion\n            |\n            Link",
+    "t": "Inbox Autopilot של Dimension\n\nכלי חדש שמבטיח להפוך את ניהול הדוא״ל שלכם לאוטומטי לגמרי. Dimension הציגה פתרון שמשתמש ב-AI כדי לדלל את כל ההודעות הלא חשובות ולהשאיר רק את מה שממש צריך. זה בדיוק מה שכולנו חכינו לו.\n\nמקור: Product Hunt",
     "d": "2026-04-09T10:39:23.000Z",
     "v": 0,
     "l": [
@@ -7741,7 +7728,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 323,
-    "t": "Steam files suggest Valve is developing internal'SteamGPT' AI bot — aimed at tackling customer support tickets and CS2 anti-cheat\n\nLeaked Steam files show that Valve is developing a \"SteamGPT\" AI bot that will help its employees with customer support and anti-cheat in CS2.",
+    "t": "קבצים חדשים מגדים: וולב עובדת על בוט AI בשם 'SteamGPT' למענה לתלונות ובקרת הונאות ב-CS2\n\nנחשפו קבצים מ-Steam שמעידים שוולב בתהליך פיתוח של AI bot בשם 'SteamGPT' שיעזור לעובדיה להתמודד עם קבלות של כרטיסי תמיכה של לקוחות ובמערכת ה-anti-cheat של Counter-Strike 2. הבוט הפנימי הזה צפוי להיות משהו בדומה ל-ChatGPT אבל מותאם בעיקר לצרכים הספציפיים של Valve בטיפול בבעיות חוזרות ונשנות.",
     "d": "Thu, 09 Apr 2026 10:20:00 +0000",
     "v": 0,
     "l": [
@@ -7754,9 +7741,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/8nf3S4AoeD767eLZgzH9G6-1280-80.jpg",
@@ -7764,7 +7754,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 324,
-    "t": "Is fake grass a bad idea? The AstroTurf wars are far from over.\n\nA rare warm spell in January melted enough snow to uncover Cornell University’s newest athletic field, built for field hockey. Months before, it was a meadow teeming with birds and bugs; now it’s more than an acre of synthetic turf roughly the color of the felt on a pool table, almost digital in its saturation.…",
+    "t": "האם דשא מלאכותי זה רעיון גרוע? הקרב על AstroTurf עדיין לא נגמר\n\nבאוניברסיטת קורנל בחרו להחליף שדה טבעי תוסס בחיים - עם ציפורים וחרקים - בדשא סינתטי זוהר של צבע בריכת בילארד. וזה רק תחילת הסיפור של המאבק על מהי הדרך הנכונה לבנות מתקנים ספורט בעידן שבו האקולוגיה חשובה יותר מתמיד. MIT Technology Review",
     "d": "Thu, 09 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -7787,7 +7777,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 325,
-    "t": "Desalination technology, by the numbers\n\nWhen I started digging into desalination technology for a new story, I couldn’t help but obsess over the numbers. I’d known on some level that desalination—pulling salt out of seawater to produce fresh water—was an increasingly important technology, especially in water-stressed regions including the Middle East. But just how much some countries rely on desalination,…",
+    "t": "טכנולוגיית התפלה - במספרים\n\nכשהתחלנו לחפור לעומק בטכנולוגיית התפלה, התברר שהמספרים באמת מדברים בעד עצמם. בעולם שמתמודד עם משבר מים חריף, התפלה - תהליך הסרת המלח מיודק הים לייצור מים תוריים - הפכה לטכנולוגיה קריטית, במיוחד בעמודי הקרב שלנו כאן בחזון התיכון. אבל רק כשחופרים בפרטים מבינים עד כמה חברות שלמות (כולל ישראל!) התלויות בפתרון הזה.",
     "d": "Thu, 09 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -7810,7 +7800,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 326,
-    "t": "$21 billion stolen from more than 1 million Americans due to cybercrime in 2025 — $11 billion come from stolen crypto, $8.6 billion taken from investment scams, while AI-related attacks cost $893 million\n\nThe FBI breaks down the $21 billion lost by over a million Americans through online scams, with more than half involving cryptocurrency.",
+    "t": "21 מיליארד דולר נגנבו מיותר מ-מיליון אמריקאים בשל הונות סייבר ב-2025 — 11 מיליארד מ-crypto, 8.6 מיליארד מ-scams השקעות, ו-893 מיליון מ-התקפות AI\n\nה-FBI חשף את ההיקף המדהים של הונות דיגיטליות: 21 מיליארד דולר שנגנבו מיותר מ-מיליון אמריקאים, עם ריכוז משמעותי בהונות crypto - שלוקחות חלק ניכר מהעוגה. התקפות הונאה חדשות כמו scams השקעות וקשקושים המופעלים ב-AI הופכים את הנושא ליותר ויותר מסוכן, וכל זה מתחזק בזמן שיותר ויותר אנשים מסתכנים בטווח הרשת.",
     "d": "Thu, 09 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -7825,16 +7815,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/9YYr49MBVeBobTPW7raJWK-1280-80.png",
     "source": "Tom's Hardware"
   },
   {
     "id": 327,
-    "t": "LLM Ops Toolkit by Lamatic.ai\n\nDiscussion\n            |\n            Link",
+    "t": "ערכת LLM Ops של Lamatic.ai\n\nLamatic.ai הציגה ערכת כלים חדשה שמיועדת לפשט את ניהול ותפעול של Large Language Models. הטוכיט מאפשר למפתחים ולצוותי AI לנהל בקלות את מחזור חיי ה-LLM שלהם, מהאימון ועד לדיפלויment בסביבת הייצור. זה משהו שבעצם חוסך הרבה צרוב ראש לכל מי שעובד עם מודלים גדולים בימים אלה. מקור: Product Hunt",
     "d": "2026-04-09T09:59:11.000Z",
     "v": 0,
     "l": [
@@ -7857,7 +7846,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 328,
-    "t": "Bugsy\n\nDiscussion\n            |\n            Link",
+    "t": "Bugsy\n\nנראה שמדובר בכלי או פרויקט חדש שהוצג ב-Product Hunt, אבל פרטים ספציפיים על מה בדיוק Bugsy עושה לא ברורים מהתיאור המינימליסטי. אם אתם מעוניינים ללמוד יותר, כדאי לכם להיכנס ישירות לעמוד של המוצר כדי להבין מה הוא מציע ואם זה רלוונטי לצרכיכם.",
     "d": "2026-04-09T09:53:03.000Z",
     "v": 0,
     "l": [
@@ -7880,7 +7869,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 329,
-    "t": "10 petabytes of sensitive data stolen from China's National Supercomputing Center, hackers claim — daring heist would be largest ever China hack, covering 6,000 clients across science, defense, and beyond\n\nHacker or hacker group steals secret data concerning aerospace engineering, bioinformatics, fusion modeling from China's National Supercomputing Center.",
+    "t": "10 פטהבייט של נתונים רגישים נגנבו ממרכז הסופרקומפיוטינג הלאומי של סין - פרץ ענק שגנב מ-6,000 לקוחות\n\nבפרץ מדהים שיכול להיות הגדול בהיסטוריה של הקיברתקיפות בסין, האקרים גנבו נתונים סודיים על הנדסה אווירוקוסמית, ביואינפורמטיקה ודוגמנות היתוך מהמרכז הלאומי לסופרקומפיוטינג. המקרה מחזיק חשיבות קריטית מכיוון שהנתונים המוגנבים עשויים להשפיע על מיזמי ביטחון, מחקר מדעי וספקי שירותים בתחומים רגישים ברחבי סין. | מקור: Tom's Hardware",
     "d": "Thu, 09 Apr 2026 09:42:50 +0000",
     "v": 0,
     "l": [
@@ -7895,8 +7884,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/foLY3NDKc2g2zqjwGgXPvc-1280-80.jpg",
@@ -7904,7 +7892,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 330,
-    "t": "UK to spend £15M on AI-powered crime mapping in knife violence crackdown\n\nHome Office hopes tech will help cops target hotspots as ministers push to halve offenses The British government is spending £15 million over the next three years to improve crime mapping in England and Wales, partly to allow more targeted policing of knife crime.…",
+    "t": "בריטניה תשקיע 15 מיליון פאונד בטכנולוגיית AI למיפוי פשעים ואיתור מקדי אלימות\n\nהממשלה הבריטית משקיעה סכום תאים של 15 מיליון פאונד בשלוש השנים הקרובות בפיתוח מערכות AI מתקדמות למיפוי פשעים בתחומי אנגליה וויילס, כשהמטרה הממשלתית היא לחצוף בחיזוק העשנות לאלימות דקה. הטכנולוגיה תאפשר למשטרה לזהות נקודות חמות של פשעים ולתמקד את פעילותם בצורה חכמה ויעילה יותר. מדובר בחלק מתכנית רחבה יותר של הממשלה להוריד לחצי את תחזוקות ההתנהגות אלימה בשדה.",
     "d": "2026-04-09T09:30:17.000Z",
     "v": 0,
     "l": [
@@ -7927,7 +7915,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 331,
-    "t": "Audos 2.0\n\nDiscussion\n            |\n            Link",
+    "t": "Audos 2.0\n\nאודוס הכניסה גרסה 2.0 חדשה שלה, ונראה שזה משהו שכדאי להקפיד עליו. אם אתם עוקבים אחרי עולם ה-audio וה-AI, כאן יש דיון שלם על מה החדש בפלטפורמה הזו. בואו נראה מה הקהילה אומרת על זה.\n\nמקור: Product Hunt",
     "d": "2026-04-09T09:24:36.000Z",
     "v": 0,
     "l": [
@@ -7950,7 +7938,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 332,
-    "t": "Anthropic launches managed infrastructure for autonomous AI agents\n\nAnthropic's new \"Claude Managed Agents\" gives developers a hosted platform for building and running autonomous AI agents. Early adopters like Notion and Rakuten are already using the system.\nThe article Anthropic launches managed infrastructure for autonomous AI agents appeared first on The Decoder.",
+    "t": "Anthropic משיקה תשתית מנוהלת לסוכנים AI אוטונומיים\n\nAnthropic בחרה להשקיע בעתיד של AI אוטונומיים עם 'Claude Managed Agents' - פלטפורמה שמעניקה למפתחים סביבה מארחת מוכנה לבניית וריצת סוכנים חכמים. חברות כמו Notion ו-Rakuten כבר מנצלות את המערכת החדשה והמבטיחה הזו. זה בעצם ההתחלה של עידן חדש בו אפליקציות יוכלו לעבוד באופן עצמאי ויעיל יותר מאי פעם.",
     "d": "Thu, 09 Apr 2026 09:16:13 +0000",
     "v": 0,
     "l": [
@@ -7969,16 +7957,15 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news",
       "model",
-      "robotics",
       "agents"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 333,
-    "t": "Codentis\n\nDiscussion\n            |\n            Link",
+    "t": "קודנטיס - כלי חדש לפיתוח קוד\n\nקודנטיס היא פלטפורמה חדשה שנוצרה כדי לעזור למפתחים להאיץ את תהליך הכתיבה והדיבאגינג של קוד. הכלי מצטרף לעולם התוסתות של AI שמטרתן לשפר את חיי המתכנתים, ובעזרת אוטומציה חכמה היא יכולה לחסוך שעות רבות של עבודה שיגרתית. אם אתם מפתחים שמחפשים דרך להיות יותר יעילים בעבודה, זה בטח משהו שכדאי לכם לבדוק!",
     "d": "2026-04-09T09:13:36.000Z",
     "v": 0,
     "l": [
@@ -8001,7 +7988,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 334,
-    "t": "Nut Studio\n\nDiscussion\n            |\n            Link",
+    "t": "Nut Studio\n\nנראה שמדובר בפלטפורמה או כלי חדש שהוצג ב-Product Hunt, אבל הפרטים המדויקים על מה בדיוק היא עושה עדיין לא ברורים לנו. אם אתם מעוניינים ללמוד עוד על הפרויקט, כדאי להיכנס לדיון בקהילה ולשמוע מה אומרים המשתמשים.",
     "d": "2026-04-09T08:10:11.000Z",
     "v": 0,
     "l": [
@@ -8024,7 +8011,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 335,
-    "t": "Buddi\n\nDiscussion\n            |\n            Link",
+    "t": "Buddi\n\nנראה שיש כאן משהו חדש שעוד לא כל כך ברור מה בדיוק זה - אבל אם זה עלה ל-Product Hunt, אז בטוח שיש בו משהו מעניין. כנראה שזה כלי או שירות שמסתובב בקהילת המוקדמים שלנו, וכרגיל הדיונים בקומיוניטי יגידו לנו אם זה באמת חכם או רק עוד דבר חמוד שיישכח תוך שבועות. אם אתם סקרנים, בוודאי שווה לחפור בדיון ולראות מה לא מדברים עליו.",
     "d": "2026-04-09T07:55:56.000Z",
     "v": 0,
     "l": [
@@ -8047,7 +8034,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 336,
-    "t": "Vaultr\n\nDiscussion\n            |\n            Link",
+    "t": "Vaultr\n\nנראה שזה עוד כלי חדש שעלה ל-Product Hunt, אבל פרטים מלא על מה בדיוק Vaultr עושה לא ממש ברורים מהתיאור המינימליסטי. אם אתם חוקרים כלים חדשים בקטגוריה של אחסון מידע או ניהול סודות דיגיטליים, כדאי להכנס לדיון הקומיוניטי כדי להבין טוב יותר מה המוצר מציע.",
     "d": "2026-04-09T07:33:11.000Z",
     "v": 0,
     "l": [
@@ -8070,7 +8057,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 337,
-    "t": "The Housemaid author Freida McFadden reveals real identity: ‘I don’t have anything to hide’\n\nBestselling author reveals herself to be a doctor named Sara Cohen",
+    "t": "מחברת 'The Housemaid' חושפת את זהותה האמיתית: 'אין לי מה להסתיר'\n\nהכותבת בסיס מכרות Freida McFadden התגלתה כרופאה בשם Sara Cohen, וחשפה את זהותה האמיתית שנשארה חסויה במשך שנים. בראיון עם ה-Independent, המחברת מסבירה שהגיע הזמן להיות כנה עם הקהל שלה לגבי מי שהיא באמת. הגילוי הזה מזכיר לנו שאפילו הכותבים הכי מסתוריים שלנו יכולים להחליט שזה הזמן להיפרד מעל הכל ולהראות את הפנים האמיתיות שלהם.",
     "d": "2026-04-09T07:24:41Z",
     "v": 0,
     "l": [
@@ -8093,7 +8080,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 338,
-    "t": "Nimesh Chandan backs private banks, cyclicals as valuations turn attractive\n\nIndian markets are experiencing a temporary disruption, not a fundamental shift.  Bajaj Finserv AMC's Nimesh Chandan sees this as a chance to buy good companies at attractive prices.  Financials, materials, and industrials are favored sectors.  Consumption is…",
+    "t": "נימש צ'נדן מחזיק באופטימיות על בנקים פרטיים וחברות ציקליות כשההערכות הופכות למושכות\n\nשוקי הודו עוברים הפרעה זמנית ולא שינוי יסודי, לפי האנליסט של Bajaj Finserv AMC, נימש צ'נדן. זו הזדמנות זהב לקנות חברות איכותיות במחירים אטרקטיביים, עם דגש על סקטור הפיננסים, חומרי גלם ותעשייה. עכשיו זה הזמן להיות חד-כיווני ולהשקיע בחכמה.",
     "d": "2026-04-09T07:23:47Z",
     "v": 0,
     "l": [
@@ -8108,9 +8095,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://img.etimg.com/thumb/msid-130133278,width-1200,height-630,imgsize-39500,overlay-etmarkets/articleshow.jpg",
@@ -8118,7 +8103,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 339,
-    "t": "llmframe 2.6.1\n\nOpenAI-first hexagonal Python application scaffold for llmframe.",
+    "t": "llmframe 2.6.1\n\nOpenAI זה לא רק למודלים, זה כבר גם framework! llmframe השיקה גרסה חדשה שמעצבת את פיתוח אפליקציות Python סביב OpenAI כמו hexagon - יעיל, מסודר ולא מסודר בו-זמנית. זה בעצם סקאפולד חכם שמאפשר למפתחים להתחיל מהר עם LLM בלי להמציא את הגלגל מחדש. מי שמעבד עם OpenAI API תוך כדי כתיבת קוד יותר נקי - כאן מצאתם כלי חדש שמחכה אתכם. (מקור: PyPI)",
     "d": "2026-04-09T07:21:22Z",
     "v": 0,
     "l": [
@@ -8144,7 +8129,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 340,
-    "t": "Why OpenAI’s Upcoming “Spud” GPT-6 Model Could Be The Next Big Evolution in AI\n\nRecent advancements in artificial intelligence showcase a range of developments from leading organizations, emphasizing diverse applications and capabilities. OpenAI’s Spud Model (GPT 6) focuses on addressing long-term, complex tasks, while GPT Image 2 integr…",
+    "t": "למה מודל GPT-6 'Spud' החדש של OpenAI עלול להיות המהפכה הבאה ב-AI\n\nOpenAI מתכינה משהו גדול - מודל Spud שעלול לשנות את המשחק בעולם ה-AI. מה שמיוחד כאן זה שהוא מעוצב בשביל משימות מורכבות וארוכות טווח, בעוד שגרסאות חדשות אחרות של OpenAI מוסיפות יכולות חדשות בתחומים נוספים. לפי המידע שצץ, זה עלול להיות הצעד הבא הגדול שנשנה את כל מה שחשבנו שאנחנו יודעים על AI.\n\nמקור: Geeky Gadgets",
     "d": "2026-04-09T07:19:00Z",
     "v": 0,
     "l": [
@@ -8170,7 +8155,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 341,
-    "t": "claude-kanban 0.3.0\n\nA real-time kanban dashboard for monitoring Claude Code/Codex sessions across multiple servers",
+    "t": "claude-kanban 0.3.0\n\nכלי חדש וחכם לעקוב אחרי סשנים של Claude בזמן אמת על פני מספר שרתים. הדשבורד הטרי הזה מאפשר לכם לראות בדיוק מה קורה עם כל הפעילויות של Claude Code/Codex שלכם במקום אחד מהיר וקל לשימוש. אם אתם מפתחים שעובדים עם Claude ברמה של ייצור, זה בדיוק מה שחיפשתם.",
     "d": "2026-04-09T07:17:22Z",
     "v": 0,
     "l": [
@@ -8197,7 +8182,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 342,
-    "t": "nomyo added to PyPI\n\nOpenAI-compatible secure chat client with end-to-end encryption for NOMYO Inference Endpoints",
+    "t": "nomyo התווסף ל-PyPI\n\nכלי צ'אט חדש שמתואם עם OpenAI ומציע הצפנה end-to-end מלאה עבור NOMYO Inference Endpoints. זה בעצם משמעות שאתה יכול להשתמש בו כמו ChatGPT רגיל, אבל עם אבטחה בטחונית שלא מגיחה - הודעותיך מוצפנות מקצה לקצה ואף אחד לא יכול לראות אותן בדרך.",
     "d": "2026-04-09T07:15:59Z",
     "v": 0,
     "l": [
@@ -8223,7 +8208,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 343,
-    "t": "sage-ai-cli 1.6.0\n\nSage — a local-first AI coding CLI (like Claude Code, using free/open models)",
+    "t": "sage-ai-cli גרסה 1.6.0\n\nSage היא כלי CLI לקוד AI שעובדת בלוקלי - בדומה ל-Claude Code אבל עם מודלים חינמיים וקוד פתוח. זה אומר שאתם יכולים להשתמש בעוזר AI לתיכנות ישירות על המחשב שלכם, ללא תלות בשרתים רחוקים. כלי חכמה למי שרוצה קידוד עם AI ללא עלויות ובלי לשלוח את הקוד שלכם לשום מקום.",
     "d": "2026-04-09T07:15:16Z",
     "v": 0,
     "l": [
@@ -8249,7 +8234,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 344,
-    "t": "The 8 at 8: Thursday\n\nFuel protests continue, increase in violent incidents in maternity hospitals, and Artemis II speeds closer to home",
+    "t": "8 בשעה 8: יום חמישי\n\nהפגנות דלק ממשיכות להתגבר, עלייה בתקריות אלימות בבתי חולים ללידות, והחללית Artemis II מתקרבת הביתה בקצב מסוג עצמו. כל הנושאים החמים שקורים בשבוע הזה בעדכון מהיר ומעניין.",
     "d": "2026-04-09T07:11:17Z",
     "v": 0,
     "l": [
@@ -8295,7 +8280,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 346,
-    "t": "meshagent-anthropic 0.36.3\n\nAnthropic Building Blocks for Meshagent",
+    "t": "meshagent-anthropic 0.36.3\n\nאנתרופיק השחררה עדכון חדש לספרייה meshagent-anthropic שנועדה לפשט את השילוב של Claude ו-API של Anthropic בפרויקטים שונים. העדכון הזה (גרסה 0.36.3) מביא עמו שיפורים וכלים שנועדו להקל על המפתחים בבניית אפליקציות חכמות עם בלוקים בסיסיים של Anthropic. זה עוד צעד במסע שלנו להנגשת הטכנולוגיה של AI מתקדמת לקהיליית המפתחים הישראלית.\n\nמקור: Pypi.org",
     "d": "2026-04-09T07:09:58Z",
     "v": 0,
     "l": [
@@ -8349,7 +8334,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 348,
-    "t": "☕️ FC breakfast: Simeone ends his curse, last night’s goals\n\nThe curse is over for Atlético and Simeone Diego Simeone and the Colchoneros made history last night. For the first time in his coaching career, El Cholo won at Camp Nou against Barça (0-2).At t...",
+    "t": "☕️ ארוחת בוקר FC: סימאונה שובר את הקללה, השערים מהלילה\n\nהקללה נשברה! סימאונה והאתלטיקו כתבו היסטוריה - בפעם הראשונה בקריירה שלו, אל צ'ולו ניצח בקאמפ נואו נגד ברסה עם תוצאה של 0:2. מדהים פשוט.",
     "d": "2026-04-09T07:08:00Z",
     "v": 0,
     "l": [

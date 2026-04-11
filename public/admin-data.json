@@ -1,14 +1,14 @@
 {
   "total": 3461,
-  "translated": 2560,
-  "untranslated": 901,
+  "translated": 2610,
+  "untranslated": 851,
   "today": 229,
   "week": 3408,
   "sources": [
     {
       "name": "Pypi.org",
       "total": 477,
-      "translated": 260,
+      "translated": 266,
       "lastDate": "2026-04-09T07:21:22Z"
     },
     {
@@ -20,31 +20,31 @@
     {
       "name": "Product Hunt",
       "total": 199,
-      "translated": 154,
+      "translated": 163,
       "lastDate": "2026-04-11T05:50:24.000Z"
     },
     {
       "name": "Futurism",
       "total": 130,
-      "translated": 122,
+      "translated": 126,
       "lastDate": "Wed, 08 Apr 2026 16:29:40 -0400"
     },
     {
       "name": "Tom's Hardware",
       "total": 119,
-      "translated": 106,
+      "translated": 119,
       "lastDate": "Wed, 08 Apr 2026 19:45:25 +0000"
     },
     {
       "name": "Onefootball.com",
       "total": 104,
-      "translated": 59,
+      "translated": 60,
       "lastDate": "2026-04-09T07:08:00Z"
     },
     {
       "name": "New Atlas",
       "total": 91,
-      "translated": 90,
+      "translated": 91,
       "lastDate": "Wed, 08 Apr 2026 23:03:00 GMT"
     },
     {
@@ -62,7 +62,7 @@
     {
       "name": "The Times of India",
       "total": 79,
-      "translated": 51,
+      "translated": 52,
       "lastDate": "2026-04-09T07:23:47Z"
     },
     {
@@ -74,19 +74,19 @@
     {
       "name": "The Register",
       "total": 71,
-      "translated": 70,
+      "translated": 71,
       "lastDate": "2026-04-10T16:43:50.000Z"
     },
     {
       "name": "CNBC Tech",
       "total": 71,
-      "translated": 70,
+      "translated": 71,
       "lastDate": "Wed, 08 Apr 2026 23:52:04 GMT"
     },
     {
       "name": "Interesting Engineering",
       "total": 68,
-      "translated": 65,
+      "translated": 68,
       "lastDate": "Wed, 08 Apr 2026 23:24:03 +0000"
     },
     {
@@ -104,7 +104,7 @@
     {
       "name": "The Decoder",
       "total": 46,
-      "translated": 43,
+      "translated": 46,
       "lastDate": "Wed, 08 Apr 2026 18:00:03 +0000"
     },
     {
@@ -122,7 +122,7 @@
     {
       "name": "The Verge AI",
       "total": 33,
-      "translated": 32,
+      "translated": 33,
       "lastDate": "2026-04-11T15:00:00.000Z"
     },
     {
@@ -158,13 +158,13 @@
     {
       "name": "MIT Technology Review",
       "total": 22,
-      "translated": 20,
+      "translated": 22,
       "lastDate": "Wed, 08 Apr 2026 14:00:00 +0000"
     },
     {
       "name": "AI News",
       "total": 22,
-      "translated": 21,
+      "translated": 22,
       "lastDate": "Wed, 08 Apr 2026 10:43:00 +0000"
     },
     {
@@ -260,7 +260,7 @@
     {
       "name": "Geeky Gadgets",
       "total": 12,
-      "translated": 8,
+      "translated": 9,
       "lastDate": "2026-04-09T07:19:00Z"
     },
     {
@@ -728,7 +728,7 @@
     {
       "name": "The-independent.com",
       "total": 3,
-      "translated": 1,
+      "translated": 2,
       "lastDate": "2026-04-09T07:24:41Z"
     },
     {
@@ -836,7 +836,7 @@
     {
       "name": "TheJournal.ie",
       "total": 3,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-09T07:11:17Z"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-11T17:17:16.950Z"
+  "generatedAt": "2026-04-11T17:56:31.421Z"
 }
