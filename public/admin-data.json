@@ -1,9 +1,9 @@
 {
-  "total": 3461,
+  "total": 3467,
   "translated": 2660,
-  "untranslated": 801,
-  "today": 229,
-  "week": 3408,
+  "untranslated": 807,
+  "today": 235,
+  "week": 3414,
   "sources": [
     {
       "name": "Pypi.org",
@@ -25,13 +25,13 @@
     },
     {
       "name": "Futurism",
-      "total": 130,
+      "total": 132,
       "translated": 126,
       "lastDate": "Wed, 08 Apr 2026 16:29:40 -0400"
     },
     {
       "name": "Tom's Hardware",
-      "total": 119,
+      "total": 120,
       "translated": 119,
       "lastDate": "Wed, 08 Apr 2026 19:45:25 +0000"
     },
@@ -85,13 +85,13 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 68,
+      "total": 69,
       "translated": 68,
       "lastDate": "Wed, 08 Apr 2026 23:24:03 +0000"
     },
     {
       "name": "TechCrunch AI",
-      "total": 55,
+      "total": 56,
       "translated": 55,
       "lastDate": "Wed, 08 Apr 2026 21:05:13 +0000"
     },
@@ -133,7 +133,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 27,
+      "total": 28,
       "translated": 27,
       "lastDate": "Wed, 08 Apr 2026 22:43:24 +0000"
     },
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-11T18:46:21.177Z"
+  "generatedAt": "2026-04-11T19:32:47.872Z"
 }
