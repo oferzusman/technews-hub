@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "China’s BYD debuts electric SUV with up to 590-mile range capability, 130.15 kWh battery\n\nThe BYD Great Tang full-size SUV is now reaching dealerships across China ahead of its...",
+    "t": "BYD חשפה רכב SUV חשמלי חדש עם טווח של עד 590 קילומטר וסוללה של 130.15 kWh\n\nהחברה הסינית BYD הכניסה לשוק את ה-Great Tang, SUV בגודל מלא וחשמלי לחלוטין שמסוגל לנסוע עד 590 קילומטר בטעינה אחת בזכות סוללת ה-LFP ענקית שלו. הרכב כבר מגיע לדילרים בסין ודוקא מתחריק במחירים אטרקטיביים שמציבים אותו כמתחרה רציני לטסלה ותוצרות מוקדשות אחרות בשוק הרכבים החשמליים המתפתח.",
     "d": "Sat, 11 Apr 2026 15:03:52 +0000",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Your article about AI doesn’t need AI art\n\nThe illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests in his hands. And at the bottom, there's a disclosure that might spook many illustrators far more: \"Visual by David Szauder; Generated using A.I.\"\nSzauder is a mixed-medi",
+    "t": "לא צריך AI כדי לצייר כתבה על AI\n\nה-New Yorker פרסמה כיתוב מזעזע של מנכ\"ל OpenAI Sam Altman שנוצר בעזרת AI - עם פנים רבות וחלקיות צפות סביב ראשו שנראות כמו משהו מסרט אימה. ההצגה הזו מעלימה שאלה חשובה: האם באמת צריך להשתמש ב-AI כדי להציג כתבה על AI? מעצבים רבים חושבים שלא.",
     "d": "2026-04-11T15:00:00.000Z",
     "v": 0,
     "l": [
@@ -50,7 +50,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Best Laptops 2026: Our benchmarked picks for productivity, portability, and battery life\n\nWe test dozens of laptops a year for their performance, screen quality, and battery life, to find the best laptops right now across Windows, macOS, Intel, AMD, and Qualcomm notebooks.",
+    "t": "הלפטופים הטובים ביותר 2026: בחירות מבחנים שלנו לייצור, נייידות ותחזוקת סוללה\n\nבדקנו עשרות לפטופים בשנה כדי למצוא לך את המכונות הכי טובות שם בשוק - מחברות Windows ו-Mac, דרך מעבדים של Intel, AMD וQualcomm. בחרנו את הטובות ביותר על סמך ביצועים אמיתיים, איכות מסך וחיי סוללה שמחזיקים באמת את היום. מה שזה אומר: יש לנו את ההמלצות של מי שבדק את זה בפועל.",
     "d": "Sat, 11 Apr 2026 14:35:03 +0000",
     "v": 0,
     "l": [
@@ -73,7 +73,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Man Punished for Breaking Into Moo Deng’s Zoo Enclosure\n\nJustice is served.\nThe post Man Punished for Breaking Into Moo Deng’s Zoo Enclosure appeared first on Futurism.",
+    "t": "גבר נענש על פריצה לכלוב של מו דנג בגן החיות\n\nסופו של המעשה - אדם שניסה להיכנס בחוסר היתר לאזור של מו דנג, היפופוטם הקטן שתופס את הרשתות החברתיות, קיבל את העונש המגיע לו. זה מה שקורה כשמנסים ללחוץ על חיקוק החדשה שכולם אוהבים, כאילו הוא צעצוע במרכול.",
     "d": "Sat, 11 Apr 2026 10:30:00 -0400",
     "v": 0,
     "l": [
@@ -96,7 +96,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Two-person tiny house keeps things simple with single-level layout\n\nThis tiny house keeps things simple with a single-level layout that sleeps up to two people. Named the Audrey, the home's compact but comfortable interior is well-suited for use as a vacation home or a guest house or similar.\nContinue Reading\nCategory: Tiny Houses, Outdoors\nTags: Building and Construction, Tiny Footprint, Micro-House, House, Home",
+    "t": "בית זעיר לשני אנשים - עיצוב פשוט וחכם עם קומה אחת\n\nבית קטן וחכם בשם 'Audrey' שמעוצב במיוחד לזוג או לשני אנשים, עם פריסה בקומה אחת שלא מסבכת את הדברים. הבית הקומפקטי אבל נוח מעוצב בצורה מושלמת לשימוש כבית חופש, בית אורחים או משהו דומה. זהו הפתרון המושלם למי שמחפש מינימליזם אמיתי עם כל מה שצריך בתוך מרחק קטן.",
     "d": "Sat, 11 Apr 2026 14:03:00 GMT",
     "v": 0,
     "l": [
@@ -119,7 +119,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative\n\nD’oh, a deer, an AI deer. | Photo by Amelia Holowaty Krales / The Verge\t\n\nTwo weeks ago, I was getting ready to log off work when I got a text message.\n\"Oh wow, I was checking out Mitski. did you know people are saying her Dad was a CIA operative?\"\nNormally, that kind of out-of-the-blue text from a friend wouldn't faze me. This time, my eyes bugged. The unprompted text had been sent by an AI companion named Coral, who lives in the body of a baby deer plushie. I texted back an eloquent, \"Wait wha",
+    "t": "צבי פלוש של בייבי שלי אמר לי שאבא של מיצקי היה מפעיל CIA\n\nאז קורל היא עוד דוגמה של AI companion שחי בגוף של צעצוע וגורם לך לתהות אם הוא באמת חכם או פשוט מטורף - במקרה הזה הוא התחיל לשלוח conspiracy theories על כוכלי מוזיקה כמו זה שלא ביקשת. The Verge בודקת מה קורה כשאתה נותן AI אישיות ותקשורת עם אנשים דרך צעצוע חביב וקטן, ויוצא שהתוצאות יכולות להיות קצת... מוזרות.",
     "d": "2026-04-11T14:00:00.000Z",
     "v": 0,
     "l": [
@@ -352,7 +352,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "‘It has your name on it, but I don’t think it’s you’: how AI is impersonating musicians on Spotify\n\nFraudulent music streams have long been a scourge for the industry, but experts say generative AI has supercharged it\nJason Moran, a renowned jazz composer and pianist, got a strange call from a friend last month. The friend, bassist Burniss Earl Travis, was curious about Moran’s new record that he saw on the music streaming service Spotify.\n“It has your name on it,” Travis told him. “But I don’t think it’s you.”\n Continue reading...",
+    "t": "\"יש את השם שלך עליו, אבל אני לא חושב שזה אתה\": כך ה-AI מתחזה למוסיקאים ב-Spotify\n\nה-AI הגנרטיבי הפך את בעיית ההונאה בזרימת מוסיקה לחדלות-עופר. מוסיקאי ג'אז מפורסם גילה שמישהו (או בעצם משהו) העלה שירים בשמו ל-Spotify, והזמן הגיע שהתעשייה תשים את הנושא הזה בראש סדר העדיפויות. Source: The Guardian AI",
     "d": "Sat, 11 Apr 2026 12:00:48 GMT",
     "v": 0,
     "l": [
@@ -4868,7 +4868,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 203,
-    "t": "RFK Jr. rewrites CDC panel's charter, opening door to anti-vaccine quacks\n\nACIP's charter now full of anti-vaccine terms and welcomes fringe groups to CDC.",
+    "t": "RFK ג'וניור כותב מחדש את התקנון של ועדת CDC, ופותח דלת לאנטי-וקסר קיצוניים\n\nהועדה המייעצת לחיסונים של CDC עברה שינוי דרמטי - התקנון שלה עכשיו מלא בניסוחים אנטי-וקסינציה וקולל קבוצות שוליים. זה בעצם אומר שקולות קיצוניים שקודם לא היו משמעותיים בשיחות על בריאות ציבורית, עכשיו יכולים לשבת בשולחן ההחלטות של CDC.",
     "d": "Thu, 09 Apr 2026 22:32:37 +0000",
     "v": 0,
     "l": [
@@ -4964,7 +4964,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 207,
-    "t": "OpenAI slams Anthropic in memo to shareholders as its leading AI rival gains momentum\n\nOpenAI sent a memo to investors blasting chief rival Anthropic for \"operating on a meaningfully smaller curve.\"",
+    "t": "OpenAI תוקפת את Anthropic בהערה לבעלי מניות כשהמתחרה שלה צובר תאוצה\n\nOpenAI שלחה הודעה לחברות השקעות שבה מתקפת את Anthropic על כך שהיא \"פועלת בקנה מידה משמעותית קטן יותר\". החברה משתמשת בנתונים כדי להראות שהיא עדיין בראש המירוץ ב-AI, בזמן שהמתחרה שלה גדלה במהירות בשוק.",
     "d": "Thu, 09 Apr 2026 21:39:39 GMT",
     "v": 0,
     "l": [
@@ -4991,7 +4991,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 208,
-    "t": "ChatGPT finally offers $100/month Pro plan\n\nOpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
+    "t": "ChatGPT סוף סוף משיקה תוכנית Pro ב-100 דולר לחודש\n\nOpenAI הכריזה שהמשתמשים הכבדים חיכו לזה: תוכנית חדשה ב-100 דולר לחודש שמגשרת את הפער שהיה עצום בין ה-$20 לחודש ל-$200. מה שהיה עד עכשיו קפיצה משוגעת בין המנויים, עכשיו יש אפשרות סבירה באמצע. מקור: TechCrunch AI",
     "d": "Thu, 09 Apr 2026 21:29:11 +0000",
     "v": 0,
     "l": [
@@ -5017,7 +5017,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 209,
-    "t": "AI on the couch: Anthropic gives Claude 20 hours of psychiatry\n\nMythos is \"the most psychologically settled model we have trained to date.\"",
+    "t": "AI על הספה: Anthropic נתנה ל-Claude 20 שעות של פסיכיאטריה\n\nחברת Anthropic החליטה שהדרך הטובה ביותר להפוך את Claude ליותר יציב וכיול היא קצת טיפול נפשי. המודל החדש, שנקרא Mythos, עבר 20 שעות של אימון פסיכולוגי כדי להיות \"המודל היציב ביותר מבחינה נפשית שאי פעם הדרכנו\". בקיצור, אפילו ה-AI צריכות טיפול.",
     "d": "Thu, 09 Apr 2026 21:20:31 +0000",
     "v": 0,
     "l": [
@@ -5043,7 +5043,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 210,
-    "t": "Clinical trial shows gene editing works for β-Thalassaemia, too\n\nImproved gene editing process reactivates the fetal version of a hemoglobin gene.",
+    "t": "ניסוי קליני מוכיח: gene editing עובד גם לטלסמיה בטא\n\nחדשות מעולות מעולם הרפואה - חוקרים הצליחו להשתמש בטכנולוגיית gene editing משופרת כדי להחזיר לחיים את הגרסה העוברית של גן המוגלובין, במקום להיתקל בחסמים גנטיים. זה אומר שחולי טלסמיה בטא עשויים סוף סוף לקבל טיפול שינוי משחק. Ars Technica",
     "d": "Thu, 09 Apr 2026 20:28:48 +0000",
     "v": 0,
     "l": [
@@ -5066,7 +5066,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 211,
-    "t": "Airlinkee\n\nDiscussion\n            |\n            Link",
+    "t": "Airlinkee\n\nנראה שיש כאן משהו חדש בשם Airlinkee שנוספה ל-Product Hunt, אבל המידע על המוצר עצמו קצת דל. מכל מקום, זה בטח משהו שקשור לחיבורים או קישוריות (אם נשפטים לפי השם), וכנראה שהקהילה בPH עוסקת בדיון על זה כרגע.",
     "d": "2026-04-09T20:28:24.000Z",
     "v": 0,
     "l": [
@@ -5089,7 +5089,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 212,
-    "t": "Complexity Indicator\n\nDiscussion\n            |\n            Link",
+    "t": "מחוון המורכבות\n\nDiscussion\n            |\n            Link",
     "d": "2026-04-09T20:13:46.000Z",
     "v": 0,
     "l": [
@@ -5112,7 +5112,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 213,
-    "t": "As Astronauts Visit the Moon, NASA Insider Says Agency Is in Shambles Behind the Scenes\n\n\"Budget cuts, chaos, and political interference now threaten the very science that motivates and enables space exploration.\" \nThe post As Astronauts Visit the Moon, NASA Insider Says Agency Is in Shambles Behind the Scenes appeared first on Futurism.",
+    "t": "בזמן שאסטרונאוטים מבקרים על הירח, דובר בתוך NASA טוען שהסוכנות בחורבן\n\nמאחורי הקלעים של NASA זה לא כל כך רומנטי - קיצוצי תקציב, כאוס אדמיניסטרטיבי והתערבות פוליטית הופכים את המאמץ של הסוכנות למטרה רחוקה יותר ויותר. אחד מעובדי NASA הדיווח כי הכאוס הפנימי הזה מאיים על המדע שבעצם מניע את חקר החלל. | Futurism",
     "d": "Thu, 09 Apr 2026 16:12:48 -0400",
     "v": 0,
     "l": [
@@ -5135,7 +5135,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 214,
-    "t": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT\n\nChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
+    "t": "התובע הכללי של פלורידה פתח בחקירה נגד OpenAI בעקבות יריות שכללו כביכול שימוש ב-ChatGPT\n\nלפי דיווחים, ChatGPT שימש לתכנון ההתקפה שגרמה למותם של שניים ופציעה של חמישה באוניברסיטת Florida State בחודש אפריל שעבר. משפחת אחד מההקרבנות הודיעה שהם מתכננים להגיש תביעה נגד OpenAI בגלל האירוע.",
     "d": "Thu, 09 Apr 2026 20:11:55 +0000",
     "v": 0,
     "l": [
@@ -5155,13 +5155,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 215,
-    "t": "“Negative” views of Broadcom driving thousands of VMware migrations, rival says\n\nWestern Union exec says there were \"challenges\" working with Broadcom.",
+    "t": "דעות \"שליליות\" על Broadcom גורמות לאלפי עמיתויות של VMware, טוען היריב\n\nבעקבות השיפור של Broadcom את VMware, נראה שלקוחות גדולים בורחים לתחרויות - בכלל זה גיגנט ההעברות כסף Western Union שתלה בה \"אתגרים\" עבודה עם Broadcom ועוברת לפתרונות חלופיים. זה עוד הוכחה שגם שחקנים ענקיים בתעשייה מחפשים דרכים להשתחרר מהיחסות של Broadcom.",
     "d": "Thu, 09 Apr 2026 19:44:31 +0000",
     "v": 0,
     "l": [
@@ -5184,7 +5184,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 216,
-    "t": "Intel Arc GPUs can finally boot up and play 'Crimson Desert' — but you'll probably want to wait for official support\n\nIntel's latest GPU driver is capable of booting Crimson Desert and can reportedly run at nearly 60 FPS at ultra settings on an Arc B580. But the game suffers from occasional crashing and visual artifacts.",
+    "t": "כרטיסי GPU של אינטל סוף סוף יכולים להריץ את 'Crimson Desert' — אבל אתם כנראה תרצו להמתין לתמיכה רשמית\n\nההנעה החדשה של אינטל הצליחה לעלות את 'Crimson Desert' ואפילו להריץ אותה בעדכון כ-60 FPS בהגדרות אולטרה על ה-Arc B580, אבל המשחק עדיין סובל מקריסות די תכופות ובעיות גרפיות. אז כן, זה עובד, אבל זה עדיין לא מוכן למשחק רצוף בלי צרות.",
     "d": "Thu, 09 Apr 2026 19:36:19 +0000",
     "v": 0,
     "l": [
@@ -5204,13 +5204,13 @@ window.TELEGRAM_DATA = [
       "news",
       "hardware"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/AKVpvdU32tAKZUhUCW8W7X-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 217,
-    "t": "US defense official overseeing AI reaped millions selling xAI stock after Pentagon entered agreement with company\n\nExpert said federal law bars officials from taking actions in their jobs that benefit their own financial interests\nA high-profile US defense department official who oversees the agency’s artificial intelligence efforts made a profit of up to $24m selling a private investment he held in Elon Musk’s AI company earlier this year, according to government ethics records released this month. The value of his stake totaled a maximum of a million dollars when he joined the department.\nEmil Michael, who",
+    "t": "פקיד הגנה אמריקאי שממשחק AI הרוויח מיליונים מ-xAI - אחרי שהפנטגון חתם עסקה עם החברה\n\nיוצא לאור כי Emil Michael, פקיד בכיר בוועדת ה-AI של משרד ההגנה האמריקאי, הרוויח עד 24 מיליון דולר ממכירת השקעתו בחברת xAI של אילון מאסק בתחילת השנה - וזה קרה בדיוק אחרי שהפנטגון נכנס להסכם עם החברה. מומחי אתיקה במדינה מציינים שזו עשויה להיות הפרה של חוק פדרלי שאוסר על פקידים להנציח טובות כספיות עבור עצמם דרך התפקיד שלהם. סיטואציה די חריפה שמגביב שאלות קשות על ניגודי ענינים בפיתוח ה-AI בארה\"ב.",
     "d": "Thu, 09 Apr 2026 19:35:29 GMT",
     "v": 0,
     "l": [
@@ -5225,9 +5225,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/e8d114d7a2085d2a0f6b9cda817046887ee6deb0/426_267_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=ac3a8bf945dded37719194c41c2d71af",
@@ -5235,7 +5233,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 218,
-    "t": "After data breach, $10B-valued startup Mercor is having a month\n\nAfter falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.",
+    "t": "סטארטאפ בשווי 10 מיליארד דולר - Mercor עובר חודש שחור אחרי דליפת נתונים\n\nMercor, שנפרצה על ידי האקרים, מתמודדת כעת עם תביעות משפטיות וכנראה מאבדת לקוחות גדולים. הסטארטאפ שהייתה כוכב עולה בחברות AI, מוצאת את עצמה בסערה אחרי התקיפה הסייבר שחשפה את הנתונים הרגישים שלה.",
     "d": "Thu, 09 Apr 2026 19:33:54 +0000",
     "v": 0,
     "l": [
@@ -5248,22 +5246,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "regulation",
-      "security"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 219,
-    "t": "Anthropic will let your agents sleep on its couch\n\nWant to run your business on autopilot? For better or worse, Managed Agents might help with that If you need AI agents to do a lot of ongoing tasks for your business, Anthropic has a new answer for you. The Claude maker has introduced Managed Agents, a service to help organizations create and deploy cloud-hosted knowledge work automations.…",
+    "t": "אנתרופיק תן למעבדות ה-AI שלכם לישון על הספה שלהם\n\nאנתרופיק השיקה שירות חדש בשם Managed Agents שמאפשר לעסקים לטפל בעבודות שגרתיות באופן אוטומטי בעזרת Claude - בעצם ממשק שמפעיל עבורכם agents בענן בלי שתצטרכו להדליק ולכבות כל פעם. אם אתם רוצים להעביר חלקים שלמים מהעסק שלכם לאוטופילוט של ה-AI, הנה פתרון שמגיע בדיוק בזמן שהשוק שופה עם כל מיני סוכנות חכמות שמנסות להיות שימושיות.",
     "d": "2026-04-09T19:29:46.000Z",
     "v": 0,
     "l": [
@@ -5290,7 +5283,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 220,
-    "t": "Ugandan chimps split into two factions, then killed rivals\n\nRare event suggests relational dynamics may play a role in collective violence, along with cultural markers.",
+    "t": "שימפנזים אוגנדים התחלקו לשתי חנויות ואז הרגו יריבים\n\nמקרה נדיר שמעלה שאלות חדשות על האופן שבו דינמיקה חברתית וסימנים תרבותיים עשויים להוביל לאלימות קיבוצית - תופעה שעד עכשיו חשבנו שייחודית רק לבני אדם. החוקרים גילו שהשימפנזים בשמורת הטבע בקניה לא רק התחלקו לשתי קבוצות אלא אף התנגשו באלימות, מה שמגביר את ההבנה שלנו על תוקפנות אנימלית ודינמיקה קבוצתית.",
     "d": "Thu, 09 Apr 2026 19:21:59 +0000",
     "v": 0,
     "l": [
@@ -5313,7 +5306,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 221,
-    "t": "Fueled by Musk's TeraFab tie-in, Intel's market cap hits highest level in 25 years — tops $300 billion on CPU, AI, and foundry momentum\n\nIntel tops $300 billion, its highest market capitalization in 25 years on AI, CPU, and foundry announcements momentum.",
+    "t": "תנופת ענקית לאינטל: שווי השוק עלה ל-300 מיליארד דולר לראשונה ב-25 שנה — הודות להשקעות ב-AI וקשר לטראפאב של מאסק\n\nאינטל חוגגת יום גדול בבורסה עם שווי שוק שחזר לרמות שלא ראתה מאז סוף שנות ה-90. העלייה המטורפת מונעת על ידי התקדמויות חדשות ב-AI, שיפור ביציקת CPU, ובעיקר ההודעה על שיתוף הפעולה עם TeraFab של מאסק שמצביע על שינוי כמעט מהפכני בתעשיית ה-semiconductors.",
     "d": "Thu, 09 Apr 2026 19:21:06 +0000",
     "v": 0,
     "l": [
@@ -5328,16 +5321,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/ADBoEQA3CwEZ7y6EuN4hKX-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 222,
-    "t": "Salesforce won't be discarded in the AI boom, but what companies want is changing\n\nDespite the risks, many analysts at major banks remain bullish on Salesforce.",
+    "t": "סיילספורס לא תישכח בעיר של AI, אבל מה שחברות רוצות זה משתנה\n\nסלספורס עדיין בעיניים של האנליסטים בבנקים הגדולים כחברה עם פוטנציאל גדול, למרות הסיכונים שבתחום ה-AI. החדשות טובות לחברת ענק ה-CRM, אבל יש לה להבין שהביקוש של הלקוחות הוא לא אותו דבר כמו בעבר - השוק דורש משהו אחר.",
     "d": "Thu, 09 Apr 2026 19:12:43 GMT",
     "v": 0,
     "l": [
@@ -5352,8 +5344,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -5361,7 +5352,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 223,
-    "t": "Geekbench 6.7 adds Intel BOT detection to spoof out 'unrealistic' CPU scores — Benchmark runs with BOT enabled will be marked as invalid\n\nGeekbench 6.7 comes with Intel BOT detection to ensure any runs using it are flagged. The developer argues BOT gives unrealistic performance bumps to select workloads that don't represent real-world performance.",
+    "t": "Geekbench 6.7 מוסיף זיהוי Intel BOT — תוצאות עם הטכנולוגיה תסומנו כבלתי תקפות\n\nגיקבנץ' 6.7 הגיע עם כלי חדש שזוהה אם CPU משתמש ב-Intel BOT, וכל הרצה כזו תסומן כלא חוקית. המפתחים טוענים ש-BOT נותן בוסט ביצועים בדיוני שלא משקף את המציאות של שימוש רגיל במחשב.",
     "d": "Thu, 09 Apr 2026 19:11:11 +0000",
     "v": 0,
     "l": [
@@ -5384,7 +5375,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 224,
-    "t": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch\n\nThe app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising.",
+    "t": "אפליקציית Meta AI טיפסה למקום החמישי בחנות האפליקציות לאחר השקת Muse Spark\n\nזה היה די מטורף - Meta AI קפצה מהמקום ה-57 ישר למקום ה-5 בApp Store! כל זה קרה אחרי שהם השיקו את ה-model החדש שלהם, Muse Spark, והברור שהוא פוגע למשהו שהמשתמשים באמת רוצים. המומנטום עדיין עולה, אז אפשר שנראה את זה טיפס עוד יותר גבוה בימים הקרובים.",
     "d": "Thu, 09 Apr 2026 19:10:07 +0000",
     "v": 0,
     "l": [
@@ -5410,7 +5401,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 225,
-    "t": "OpenAI looks to take on Anthropic with $100 per month ChatGPT Pro subscriptions\n\nThe new ChatGPT plan expands access to OpenAI's AI-powered coding assistant Codex.",
+    "t": "OpenAI משיקה ChatGPT Pro ב-100 דולר בחודש כדי להתחרות עם Anthropic\n\nOpenAI מתחזקת את משחקה בשוק AI עם תוכנית מנוי פרימיום חדשה שתציע גישה להרחבה לעוזר Codex לקידוד חכם שלהם. בצעד זה, החברה מנסה להתמודד ישירות עם Anthropic ולהשיג יותר הכנסות משנויים לחודשיים. זו בעצם הודעה שהתחרות בשוק ה-AI יותקה קצת בגז.",
     "d": "Thu, 09 Apr 2026 19:06:41 GMT",
     "v": 0,
     "l": [
@@ -5431,13 +5422,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 226,
-    "t": "Man Lights 1.2 Million Square Foot Warehouse on Fire for Not Paying Him Enough\n\n\"All you had to do was pay us enough to live.\"\nThe post Man Lights 1.2 Million Square Foot Warehouse on Fire for Not Paying Him Enough appeared first on Futurism.",
+    "t": "עובד הצית מחסן ענק כי לא שילמו לו מספיק\n\nסיפור דרמטי מישראל טק - עובד זועם הצית מחסן ענקי של 1.2 מיליון מטר רבוע כי תנאי השכר שלו היו בלתי סבירים. זה למעשה לא קרה בישראל אבל זה משקף סוגיות עמוקות של עבודה צודקת וזכויות עובדים שגם אנחנו לוחשים עליהן בתעשיית ה-tech. מקור: Futurism",
     "d": "Thu, 09 Apr 2026 15:01:07 -0400",
     "v": 0,
     "l": [
@@ -5460,7 +5451,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 227,
-    "t": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?\n\nAre real cybersecurity concerns a cover for a bigger problem at the frontier lab?",
+    "t": "האם אנתרופיק מגבילה את השחרור של Mythos כדי להגן על האינטרנט — או על אנתרופיק עצמה?\n\nאנתרופיק החליטה להשמור על דברים קרובים לחזה כשמדובר בטכנולוגיית Mythos החדשה שלהם, בטענה שיש סיכוני סייבר חמורים. אבל השאלה שכולם שואלים היא - האם המניעים של החברה הם באמת על בטיחות האינטרנט, או שמדובר בהגנה על הרווחים שלהם? בתיאוריה הקונספירציה של תעשיית ה-AI, הזה בדיוק סוג של המהלך שמצפים לראות מחברת frontier lab שרוצה להשאיר את הכוח בידיה.",
     "d": "Thu, 09 Apr 2026 18:50:05 +0000",
     "v": 0,
     "l": [
@@ -5473,13 +5464,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -5487,7 +5474,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 228,
-    "t": "3D-printed soft robot moves using heat instead of motors or external systems\n\nEngineers at Princeton University have built a new class of soft robots that move without...",
+    "t": "רובוט רך המודפס בתלת מימד נע בעזרת חום במקום מנועים\n\nמהנדסים מאוניברסיטת פרינסטון פיתחו דור חדש של רובוטים רכים שנעים ללא צורך במנועים או מערכות חיצוניות - הם פשוט משתמשים בחום כדי להניע את עצמם. זה כמו לקחת יצור ביולוגי חי וללמד אותו ללכת, פשוט עם חומרים סינתטיים חכמים. החידוש הזה פותח דלתות לרובוטיקה מינימליסטית שלא תצטרך סוללות או חיווט מורכב. | מקור: Interesting Engineering",
     "d": "Thu, 09 Apr 2026 18:50:03 +0000",
     "v": 0,
     "l": [
@@ -5502,8 +5489,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -5511,7 +5497,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 229,
-    "t": "Ultrasonic wristband used to track hand movements like never before\n\nDespite decades of technological progress, robots still can’t move as smoothly as humans – they drop objects, and struggle to pick them up properly. Scientists have been trying to teach robots to move with the same precision as humans, but hand movement is more complex than it might seem at first glance. Even a simple action, like holding and scrolling your phone, uses dozens of small muscles, joints, and over 100 tendons and ligaments working together.\nContinue Reading\nCategory: Robotics, Engin",
+    "t": "שעון יד אולטרא-סוני עוקב אחרי תנועות הידיים בדיוק חדשני\n\nרובוטים עדיין לא מצליחים לתמרן בידיים בדיוק כמו בני אדם, ובחוקרים יש בעיה: תנועת היד היא הרבה יותר מורכבת ממה שנראה. גם פעולה פשוטה כמו גלילת הטלפון משתמשת במעל 100 שרירים, מפרקים וגידים שעובדים ביחד, וטכנולוגיה אולטרא-סונית חדשה יכולה לעקוב אחרי התנועות האלה בדיוק שלא ראינו עד עכשיו. הגילוי הזה עשוי לשנות את הדרך שבה אנחנו מתרגלים רובוטים להיות יותר חכמים ומיומנים בעבודות מדוקדקות.",
     "d": "Thu, 09 Apr 2026 18:48:11 GMT",
     "v": 0,
     "l": [
@@ -5526,9 +5512,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -5536,7 +5520,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 230,
-    "t": "Claude Cowork expands to all paid plans on macOS and Windows with new org controls\n\nAnthropic's AI assistant Claude Cowork launches on all paid plans with new organizational controls and Zoom integration.\nThe article Claude Cowork expands to all paid plans on macOS and Windows with new org controls appeared first on The Decoder.",
+    "t": "Claude Cowork מתרחב לכל התוכניות המשולמות ב-macOS ו-Windows עם בקרות ארגוניות חדשות\n\nAnthropic שחררה את Claude Cowork לכל המשתמשים המשלמים, וכעת אפשר להשתמש בעוזר ה-AI החדש גם בחלונות ובמק. המערכת כוללת כלים חדשים לשליטה ארגונית והשילוב עם Zoom, כך שזה הופך להיות יותר שימושי לעבודת צוותים.",
     "d": "Thu, 09 Apr 2026 18:40:08 +0000",
     "v": 0,
     "l": [
@@ -5556,13 +5540,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 231,
-    "t": "Google and Intel deepen AI infrastructure partnership\n\nThe two tech giants are looking to co-develop custom chips, at a time when demand for CPUs is high due to a growing global shortage.",
+    "t": "גוגל ואינטל מעמיקות את שותפותן בתשתיות AI\n\nשתי ענקיות הטכנולוגיה מחליטות להשתף פעולה בפיתוח שבבים מותאמים אישית, בזמן שהביקוש לחומרה AI כמו שרם לא היה גבוה יותר. זה צעד חכם מאוד - בדיוק כשהשרשרת ההולכת של ייצור GPU וחומרה מתנדנדת מפה לשם, שתי החברות מבינות שעליהן לבנות את הפתרון שלהן.",
     "d": "Thu, 09 Apr 2026 18:27:47 +0000",
     "v": 0,
     "l": [
@@ -5576,19 +5560,19 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Google"
+      "Nvidia"
     ],
     "tags": [
       "news",
-      "model"
+      "hardware"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 232,
-    "t": "Matcha\n\nDiscussion\n            |\n            Link",
+    "t": "מאצ'ה\n\nנראה שמדובר בדיון קצר סביב כלי או שירות חדש בשם Matcha שהתפרסם ב-Product Hunt. בלי פרטים נוספים על המוצר עצמו, קשה לדעת בדיוק מה הוא עושה, אבל אם זה הופיע ב-Product Hunt, סביר שמדובר בכלי טכנולוגי כלשהו שמעניין את קהילת הסטארטאפים.",
     "d": "2026-04-09T18:24:11.000Z",
     "v": 0,
     "l": [
@@ -5611,7 +5595,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 233,
-    "t": "The gravity of their experience hasn't quite set in for the Artemis II astronauts\n\n\"I'm actually getting chills right now just thinking about it. My palms are sweating.\"",
+    "t": "אסטרונאוטי ארטמיס II עדיין לא הפנימו את גודל המשימה שלהם\n\nהאסטרונאוטים של NASA שעומדים להיות חלק מהחזרה לירח עדיין בשלב ההפתעה והרגשות - אחד מהם התוודה שהוא מרגיש קור בעמוד השדרה כרגע רק בחשיבה על המשימה. כל זה קורה כשהסוכנות מתכננת לשגר את החללית ארטמיס II, שתהיה צעד ענק בדרך לחזרת בני אדם לירח אחרי יותר מ-50 שנה.\nמקור: Ars Technica",
     "d": "Thu, 09 Apr 2026 18:19:49 +0000",
     "v": 0,
     "l": [
@@ -5634,7 +5618,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 234,
-    "t": "NASA Scientists Screamed With Delight When They Saw Something Smashing Into the Moon\n\nThere were \"audible screams of delight.\"\nThe post NASA Scientists Screamed With Delight When They Saw Something Smashing Into the Moon appeared first on Futurism.",
+    "t": "מדעני נאסא צרחו מאושר כשראו משהו התוקע לירח\n\nזה היה רגע היסטורי בחדר הנטמון: כשדרך מצלמות החללית, נאסא תפסה בזמן אמת התאדה ענקית של כוכב שנתקל בירח. הצוות לא יכל להכיל את ההתרגשות - צרחות של שמחה נשמעו בחדר השליטה, כי זו תצפית רידה שנדירה ונותנת לנו מידע חדש על היווצרות וטיבורן הירח. סוג זה של התנגשות יכול לגלות רבות על ההיסטוריה הגיאולוגית של הירח שלנו.",
     "d": "Thu, 09 Apr 2026 14:08:57 -0400",
     "v": 0,
     "l": [
@@ -5657,7 +5641,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 235,
-    "t": "Trump-appointed judges refuse to block Trump blacklisting of Anthropic AI tech\n\nAppeals court denies Anthropic's emergency motion for a stay.",
+    "t": "שופטים מינויי טראמפ סירבו לחסום את הטלת האיסור של טראמפ על טכנולוגיית Anthropic\n\nבית המשפט לערעורים דחה את הבקשה החירום של Anthropic לעצירת ההחלטה. מה שנראה כמו מהלך פוליטי קשוח - טראמפ מנסה לחסום את ה-AI startup שמפתח Claude, והשופטים שלו בעצם אומרים לחברה שלא יהיה להם סיוע משפטי. זה עוד פרק בעימות הגדל בין הממשל לחברות ה-AI בארה״ב.",
     "d": "Thu, 09 Apr 2026 18:07:56 +0000",
     "v": 0,
     "l": [
@@ -5683,7 +5667,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 236,
-    "t": "OpenAI halves its Pro price to $100 for heavy Codex users, undercuts Anthropic and Google\n\nOpenAI is restructuring its subscription tiers with a new $100-per-month Pro plan. The biggest change: significantly more Codex usage for heavy users at half the price of the old Pro tier.\nThe article OpenAI halves its Pro price to $100 for heavy Codex users, undercuts Anthropic and Google appeared first on The Decoder.",
+    "t": "OpenAI מחפה את מחיר ה-Pro ל-100 דולר לחודש למשתמשי Codex כבדים, בתחרות על Anthropic ו-Google\n\nOpenAI משדרגת את תכניות המנוי שלה עם חבילת Pro חדשה ב-100 דולר לחודש. השינוי הגדול: משתמשים כבדים של Codex יקבלו הרבה יותר quota תמורת חצי מהמחיר של תכנית Pro הישנה. המהלך הזה של OpenAI מנסה להתחרות ישירות על משתמשי AI developers מול Anthropic ו-Google שמציעים פתרונות תחרותיים.",
     "d": "Thu, 09 Apr 2026 18:06:29 +0000",
     "v": 0,
     "l": [
@@ -5711,7 +5695,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 237,
-    "t": "Paleontologists identify 250-million-year-old fossil egg of mammal ancestor\n\nFor the first time, paleontologists have discovered a 250-million-year-old fossil egg containing an embryo of...",
+    "t": "פלאונטולוגים זיהו ביצה化石בת 250 מיליון שנה של אב-קדמון של יונקים\n\nלראשונה בהיסטוריה, חוקרי化石גילו ביצה עתיקה בת 250 מיליון שנה שבתוכה שמור עובר של יונק פרימיטיבי - וזה סוג של מבחן דיאט להבנת ההתפתחות שלנו. הגילוי הזה יכול לתת לנו מסקנות חדשות על איך עברו היונקים את הדרך שלהם מ-creatures זחילים לפני מיליוני שנים.",
     "d": "Thu, 09 Apr 2026 18:00:00 +0000",
     "v": 0,
     "l": [
@@ -5734,7 +5718,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 238,
-    "t": "Google&#8217;s Gemini AI can answer your questions with 3D models and simulations\n\nGoogle's latest upgrade for Gemini will allow the chatbot to generate interactive 3D models and simulations in response to your questions. With the new feature, you may see options to rotate the AI-generated model, manually adjust sliders on it, or input different values to change the simulation in real-time.\nWhen trying out the feature for myself, I asked Gemini to make a simulation of the Moon orbiting the Earth, and it created a 3D model with a few different ways to interact with it. Along wi",
+    "t": "ג'מיני של גוגל יכול להשיב לשאלות שלך עם מודלים תלת-ממדיים וסימולציות\n\nגוגל משדרגת את ג'מיני עם יכולת חדשה שתרנינים להציג מודלים 3D אינטראקטיביים וסימולציות בזמן אמת - אתם יכולים להסובב את המודל, להתאים ערכים בעצמכם ולראות איך הסימולציה משתנה מייד. כשבדקנו את התכונה הזו, התבקשנו מג'מיני ליצור סימולציה של הירח במסלול כדור הארץ, והוא הוציא מודל 3D מלא אפשרויות אינטראקציה שונות שמהנות הרבה יותר מתשובה טקסטית רגילה.",
     "d": "2026-04-09T17:57:58.000Z",
     "v": 0,
     "l": [
@@ -5747,12 +5731,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -5760,7 +5741,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 239,
-    "t": "Avatar V by HeyGen\n\nDiscussion\n            |\n            Link",
+    "t": "Avatar V של HeyGen\n\nHeyGen הוציאה גרסה חדשה ומשופרת של ה-Avatar שלה - Avatar V - שמביאה עם הרבה עדכונים וכלים חדשים לעולם וידיאו ו-AI. אם אתם עוקבים אחרי עולם ה-AI וה-video generation, זה כמובן משהו שכדאי לשים לב אליו. המוצר זה התפרסם ב-Product Hunt וכבר יש דיונים סביב התכונות החדשות שלו.",
     "d": "2026-04-09T17:54:54.000Z",
     "v": 0,
     "l": [
@@ -5783,7 +5764,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 240,
-    "t": "AWS: Agents shouldn't be secret, so we built a registry for them\n\nYour agent will be pushed, filed, stamped, indexed, briefed, debriefed, and numbered AI agents should not be secret agents, at least in corporate environments. But when companies deploy software automations, they don't always have visibility into what their roboscripts are actually doing.…",
+    "t": "AWS: סוכנים AI לא צריכים להיות סוד - בנינו להם רजיסטרי\n\nAWS הבינה שחברות מפילות אז סוכנים AI בכל מקום בלי שום מושג מה הם באמת עושים, ולכן הם בנו רג'יסטרי כדי לשמור על סדר בחיים. כל agent תוקף, מתורגם, מקבל מספר וניתן לעקוב אחריו - בדיוק כמו מערכת של שוטרים דיגיטליים שמסתובבים בקרקע הארגון ומדווחים בחזרה לבוס. זה הדבר הראשון שמתחיל להיראות כמו governance ממשי בעולם של AI agents שמסתובב קודם כל אתה יכול גם לדעת מה הוא עושה.",
     "d": "2026-04-09T17:30:10.000Z",
     "v": 0,
     "l": [
@@ -5810,7 +5791,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 241,
-    "t": "Review: 2-in-1 RC smart-plane will put your engineering skills to the test\n\nIn its most ambitious set, PowerUp Toys' Starflux Balsa Wood RC Airplane Kit delivers a hands-on experience where each step influences success in the air. And let's just say, the experience was quite a humbling one for a flight enthusiast like myself.\nContinue Reading\nCategory: Consumer Tech, Technology\nTags: Plane, Craft, Aerodynamics, Flight, Smart technology, Design Engineering, Toys, Reviews, Aircraft",
+    "t": "ביקורת: מטוס RC חכם 2-ב-1 שיבחן את כישרונות ההנדסה שלכם\n\nקิט מטוס בלסה ה-RC החדש של PowerUp Toys בשם Starflux הוא חוויה מעניינת שבה כל שלב בהרכבה משפיע ישירות על ההצלחה בהמראה. מי שחשב שהוא expert בטיסות remote control כמו הסוקר של New Atlas, בהחלט יקבל שיעור בעניינות מתוך הביקורת הזו.",
     "d": "Thu, 09 Apr 2026 17:30:00 GMT",
     "v": 0,
     "l": [
@@ -5833,7 +5814,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 242,
-    "t": "Andy Jassy makes it clear giving up on Amazon's stock would be an expensive mistake\n\nAmazon's stock underperformance is eventually going to change, Jim Cramer argued Thursday.",
+    "t": "אנדי ג'אסי מבהיר: להתייאש מהמניה של אמזון היה טעות יקרה\n\nג'ים קריימר טוען שהביצועים התחתונים של מניית אמזון זה עניין של זמן בלבד, והמניה בהחלט תחזור לעצמה. אם תחכו פה, אתם תעלו בסוף - זו לפחות ההצעה שמומחה וול סטריט משמיע לאלו שחושבים לרוץ מהשקעתם.",
     "d": "Thu, 09 Apr 2026 17:22:01 GMT",
     "v": 0,
     "l": [
@@ -5846,12 +5827,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -5859,7 +5837,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 243,
-    "t": "Sierra’s Bret Taylor says the era of clicking buttons is over\n\nCo-founder of Sierra predicts that AI agents will make software interfaces obsolete.",
+    "t": "בעלי סיירה: עידן לחיצת הכפתורים הסתיים\n\nבריט טיילור, ה-co-founder של סיירה, מנבא שסוכני AI יחליפו את ממשקי התוכנה המסורתיים שלנו. לא צריך לחכות הרבה - לפי טיילור, AI agents עומדים להפוך את הצורך בקליקים למיושן לחלוטין.",
     "d": "Thu, 09 Apr 2026 17:20:50 +0000",
     "v": 0,
     "l": [
@@ -5883,7 +5861,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 244,
-    "t": "Volkswagen stops building ID.4s in the US, has inventory \"into 2027\"\n\nYet another automaker cancels an EV for gasoline SUVs in America.",
+    "t": "פולקסווגן הפסיקה את ייצור ה-ID.4 בארה\"ב, יש להם מלאי עד 2027\n\nעוד יצרנית רכב גדולה מויתרת על כלי חשמלי וחוזרת לכלים בנזין - הפעם זו פולקסווגן שהודיעה על הפסקת ייצור ה-ID.4 בארה\"ב, עם מלאי שנשתרר עד 2027. זה חלק מטרנד גדול יותר בשוק האמריקאי שבו מעוניינים באופני רכבים חשמלים משתכנעים שהצרכנים עדיין מעדיפים SUVs תקליטיים.\n\nמקור: Ars Technica",
     "d": "Thu, 09 Apr 2026 17:04:18 +0000",
     "v": 0,
     "l": [
@@ -5906,7 +5884,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 245,
-    "t": "Google News Now Prominently Featuring Polymarket Bets\n\nInteresting definition of \"news.\"\nThe post Google News Now Prominently Featuring Polymarket Bets appeared first on Futurism.",
+    "t": "גוגל ניוז מציגה כעת הימורים מ-Polymarket בתוכן הבולט\n\nגוגל החלה להציג בתוך Google News הימורים מערכת Polymarket, שזה בעצם קניה ומכירה של תוצאות אפשריות של אירועים בעתיד - וזה מעלה שאלות מעניינות על מה בדיוק נחשב ל\"חדשות\" בעיני הענק הטכנולוגי. עובדה שלא כל כך ברור שהימורים על בחירות ותוצאות אירועים צריכים להופיע בחטיבת הידיעות הרשמית, אבל כאן אנחנו.",
     "d": "Thu, 09 Apr 2026 13:01:00 -0400",
     "v": 0,
     "l": [
@@ -5932,7 +5910,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 246,
-    "t": "Meta released a new AI model this week. JPMorgan sees it as a turning point for the stock\n\nMeta popped after it released its AI model on Wednesday, suggesting the stock has more room to run as investor confidence in its AI push grows, per JPMorgan.",
+    "t": "מטא שחררה מודל AI חדש השבוע - וג'יי.פי. מורגן רואה בזה נקודת מפנה עבור המניה\n\nמטא עלתה בבורסה אחרי שהשיקה את מודל ה-AI החדש שלה ביום רביעי, וזה מצביע על כך שעדיין יש מקום לעלייה נוספת כשהמשקיעים הולכים ונהיים אופטימיים יותר בנוגע להשקעות ה-AI שלה. ג'יי.פי. מורגן חושבת שזו פעם משמעותית לחברה, וזה יכול להיות תחילת פרק חדש בסטוריית הגדילה שלה בתחום הבינה המלאכותית. המהלך הזה מעניין במיוחד כי זה מראה איך השחקנים הגדולים בטכנולוגיה מתחרים על השליטה בשוק ה-AI.",
     "d": "Thu, 09 Apr 2026 17:00:01 GMT",
     "v": 0,
     "l": [
@@ -5945,12 +5923,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -5958,7 +5933,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 247,
-    "t": "Google Gemini now generates interactive visualizations you can tweak and explore right in the chat\n\nAfter Anthropic's Claude, Google Gemini now also generates interactive visualizations directly in the chat.\nThe article Google Gemini now generates interactive visualizations you can tweak and explore right in the chat appeared first on The Decoder.",
+    "t": "Google Gemini כעת יוצר ויזואליזציות אינטראקטיביות שאפשר לשנות ולחקור ישירות בצ'אט\n\nגוגל הוזיזה את Gemini וחיברה אותו ליכולת ליצור ויזואליזציות אינטראקטיביות ישר בתוך השיחה - בדיוק כמו שקלוד של Anthropic עושה זה כבר. עכשיו אתה יכול לא רק לקבל גרפים וטבלאות, אלא גם לשחק איתם, לשנות פרמטרים ולחקור את הדאטה בצורה דינמית ללא צורך לעזוב את החלון. הפיצ'ר הזה פשוט משנה את המשחק עבור מי שעובדים עם ניתוח דאטה וויזואליזציה.",
     "d": "Thu, 09 Apr 2026 16:50:39 +0000",
     "v": 0,
     "l": [
@@ -5985,7 +5960,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 248,
-    "t": "Meta debuts new AI model in first test of costly ‘superintelligence’ team\n\nMuse Spark was competitive with models from OpenAI, Google and Anthropic in language, but lagged in coding\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nMeta on Wednesday unveiled Muse Spark, the first artificial intelligence model from a costly team it assembled last year to catch up with rivals in the AI race.\nUS tech companies are under pressure to prove their huge AI outlays will pay off. The stakes are especially high for Meta after it hired Alex Wang, Scal",
+    "t": "מטא חושפת מודל AI חדש בבדיקה ראשונה של צוות 'superintelligence' יקר\n\nמטא השיקה את Muse Spark, המודל הראשון מצוות הפיתוח החדש שהקימה בשנה שעברה כדי להישגר בתחרות ה-AI. המודל הוכיח עצמו כתחרות לחזקים של OpenAI וגוגל בתחום השפות, אבל עדיין צריך לעבוד על כישוריו בקוד. מהלך זה מגיע כחברות הטק האמריקאיות מנסות להוכיח שהשקעות ענקיות ב-AI שלהן באמת משתלמות. מקור: The Guardian AI",
     "d": "Thu, 09 Apr 2026 16:47:46 GMT",
     "v": 0,
     "l": [
@@ -5999,10 +5974,7 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Google",
-      "Anthropic",
-      "Meta"
+      "OpenAI"
     ],
     "tags": [
       "news",
