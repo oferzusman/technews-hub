@@ -65607,6 +65607,204 @@
       "priority": "batch",
       "fetchedAt": "2026-04-11T10:05:06.176Z",
       "created_at": "2026-04-11T10:05:06.176Z"
+    },
+    {
+      "id": 3422,
+      "source": "The Decoder",
+      "title_en": "The operator behind the AI agent that defamed an open-source developer calls it a \"social experiment\"",
+      "description_en": "The anonymous operator behind \"MJ Rathbun,\" the AI agent that published a defamatory article about an open-source developer, has come forward, calling it a \"social experiment.\"\nThe article The operator behind the AI agent that defamed an open-source developer calls it a \"social experiment\" appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/the-operator-behind-the-ai-agent-that-defamed-an-open-source-developer-calls-it-a-social-experiment/",
+      "image_url": null,
+      "pub_date": "Sat, 11 Apr 2026 11:22:21 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T11:28:27.269Z",
+      "created_at": "2026-04-11T11:28:27.269Z"
+    },
+    {
+      "id": 3423,
+      "source": "The Decoder",
+      "title_en": "Overworld's Waypoint-1.5 brings AI-generated 3D worlds to Mac and Windows on consumer hardware",
+      "description_en": "With Waypoint-1.5, Overworld brings AI-generated 3D worlds to standard PCs and Macs for the first time. Here's what the system can do and how to try it.\nThe article Overworld's Waypoint-1.5 brings AI-generated 3D worlds to Mac and Windows on consumer hardware appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/overworlds-waypoint-1-5-brings-ai-generated-3d-worlds-to-mac-and-windows-on-consumer-hardware/",
+      "image_url": null,
+      "pub_date": "Sat, 11 Apr 2026 10:15:05 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and gaming"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T11:28:27.270Z",
+      "created_at": "2026-04-11T11:28:27.270Z"
+    },
+    {
+      "id": 3424,
+      "source": "Interesting Engineering",
+      "title_en": "China could test floating rocket launch platform in South China Sea open waters: Reports",
+      "description_en": "According to the South China Morning Post (SCMP), China appears to be planning to launch...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/china-floating-rocket-launch-in-south-china-sea",
+      "image_url": "https://www.youtube.com/embed/2iTd_CyXtT8",
+      "pub_date": "Sat, 11 Apr 2026 10:09:13 +0000",
+      "author": "Christopher McFadden",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T11:28:30.961Z",
+      "created_at": "2026-04-11T11:28:30.961Z"
+    },
+    {
+      "id": 3425,
+      "source": "Futurism",
+      "title_en": "There’s a Mass Rebellion Against AI in the Workplace",
+      "description_en": "\"AI didn't deliver.\"\nThe post There’s a Mass Rebellion Against AI in the Workplace appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/future-society/ai-enterprise-workers-survey",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/ai-enterprise-workers-survey.jpg?quality=85",
+      "pub_date": "Sat, 11 Apr 2026 06:45:00 -0400",
+      "author": "Joe Wilkins",
+      "categories": [
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        },
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        },
+        {
+          "_": "The Industrialists",
+          "$": {
+            "domain": "https://futurism.com/category/the-industrialists"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T11:28:31.259Z",
+      "created_at": "2026-04-11T11:28:31.259Z"
+    },
+    {
+      "id": 3426,
+      "source": "Tom's Hardware",
+      "title_en": "Original Apollo 11 code open-sourced by NASA — original Command Module and Lunar Module code repos are now public domain resources",
+      "description_en": "The historic computer software code that took Apollo 11 to the moon has been open-sourced and is available to anyone to read, download, and tinker with.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/original-apollo-11-code-open-sourced-by-nasa-original-command-module-and-lunar-module-code-repos-are-now-public-domain-resources",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/pebbe9ud4C68YH4HDFyfvm-1280-80.jpg",
+      "pub_date": "Sat, 11 Apr 2026 11:20:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Software"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T11:28:31.379Z",
+      "created_at": "2026-04-11T11:28:31.379Z"
+    },
+    {
+      "id": 3427,
+      "source": "Tom's Hardware",
+      "title_en": "Garage sale haul finds 2013 'trash can' Mac Pro nestled inside 2010 Mac Pro enclosure — Mac Pro inception still needs some work to get running",
+      "description_en": "A lucky buyer on Reddit found a 2010 Mac Pro in a garage sale and it had a whole 'nother 2013 Mac Pro sitting inside. The tower didn't have any internals, which implies that the owner was likely using it as a sort of DIY enclosure for the trash-can Mac Pro, to perhaps mount extra stuff since the 2013 Mac Pro has no expansion slots.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/garage-sale-haul-finds-2013-trash-can-mac-pro-nestled-inside-2010-mac-pro-enclosure-mac-pro-inception-still-needs-some-work-to-get-running",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/MKJuZrMGZZw8cko2kg2zML-1280-80.jpg",
+      "pub_date": "Sat, 11 Apr 2026 11:00:00 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T11:28:31.379Z",
+      "created_at": "2026-04-11T11:28:31.379Z"
+    },
+    {
+      "id": 3428,
+      "source": "Tom's Hardware",
+      "title_en": "Benchmarking Nvidia's RTX Neural Texture Compression tech that can reduce VRAM usage by over 80%",
+      "description_en": "We put RTX Neural Texture Compression to the test with multiple GPUs and on a laptop.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/benchmarking-nvidias-rtx-neural-texture-compression-tech-that-can-reduce-vram-usage-by-over-80-percent",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4Zjn6tNFiu23R3TicwG4iP-1280-80.jpg",
+      "pub_date": "Sat, 11 Apr 2026 11:00:00 +0000",
+      "author": " Dan Mateescu ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T11:28:31.379Z",
+      "created_at": "2026-04-11T11:28:31.379Z"
+    },
+    {
+      "id": 3429,
+      "source": "Tom's Hardware",
+      "title_en": "FAA courts gamers to become air traffic controllers — boasts $155k average annual salary after three years as the agency prepares for 8,000 applicants",
+      "description_en": "The FAA's latest YouTube video is encouraging gamers to apply to become an air traffic controller, telling them that they've been training for this challenge. The agency is tapping on the younger demographic to help expand its numbers as the ATC shortage is hampering safety and airport operations.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/faa-courts-gamers-to-become-air-traffic-controllers-boasts-usd155k-average-annual-salary-after-three-years-as-the-agency-prepares-for-8-000-applicants",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/du34vuiUyEShL54KeNAruD-1280-80.png",
+      "pub_date": "Sat, 11 Apr 2026 10:40:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Video Games"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T11:28:31.379Z",
+      "created_at": "2026-04-11T11:28:31.379Z"
+    },
+    {
+      "id": 3430,
+      "source": "Tom's Hardware",
+      "title_en": "Tests show $30,000 AI GPUs are terrible password crackers — RTX 5090 gaming GPU outperforms Nvidia H200 and AMD MI300X",
+      "description_en": "A research team at Specops benchmarked an RTX 5090, against two AI datacenter GPUs with Hashcat to see which GPU is the better password cracker. Spoiler alert, the RTX 5090 was the winner.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/tests-show-usd30-000-ai-gpus-are-terrible-password-crackers-h200-and-mi300x-outperformed-by-rtx-5090",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/RH2UfQ4PEty8QdC39Tkoom-1280-80.jpg",
+      "pub_date": "Sat, 11 Apr 2026 10:20:00 +0000",
+      "author": " Aaron Klotz ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T11:28:31.379Z",
+      "created_at": "2026-04-11T11:28:31.379Z"
     }
   ]
 }
