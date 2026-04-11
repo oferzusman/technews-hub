@@ -1,7 +1,7 @@
 name: "3. Translate"
 on:
   # schedule:
-  #   - cron: "*/10 * * * *"   # DISABLED until push logic is safe
+  #   - cron: "*/10 * * * *"   # DISABLED until tested
   workflow_dispatch:
 permissions:
   contents: write
@@ -11,16 +11,14 @@ concurrency:
 jobs:
   translate:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 5
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
       - run: npm ci
-      - name: Backup articles.json
+      - name: Backup & count articles
         run: |
           cp data/articles.json data/articles.backup.json
           ARTICLE_COUNT=$(node -e "const d=JSON.parse(require('fs').readFileSync('data/articles.json','utf8')); const a=Array.isArray(d)?d:d.articles||[]; console.log(a.length)")
@@ -36,12 +34,10 @@ jobs:
         run: |
           AFTER_COUNT=$(node -e "const d=JSON.parse(require('fs').readFileSync('data/articles.json','utf8')); const a=Array.isArray(d)?d:d.articles||[]; console.log(a.length)")
           AFTER_TRANSLATED=$(node -e "const d=JSON.parse(require('fs').readFileSync('data/articles.json','utf8')); const a=Array.isArray(d)?d:d.articles||[]; console.log(a.filter(x=>x.translated).length)")
-          echo "📊 After: $AFTER_COUNT articles, $AFTER_TRANSLATED translated (was: $BEFORE_COUNT articles, $BEFORE_TRANSLATED translated)"
+          echo "📊 After: $AFTER_COUNT articles, $AFTER_TRANSLATED translated (was: $BEFORE_COUNT, $BEFORE_TRANSLATED)"
 
-          # Safety: never allow article count to DROP
           if [ "$AFTER_COUNT" -lt "$BEFORE_COUNT" ]; then
-            echo "🚨 SAFETY: Article count dropped from $BEFORE_COUNT to $AFTER_COUNT!"
-            echo "🚨 Restoring backup to prevent data loss."
+            echo "🚨 SAFETY: Article count dropped from $BEFORE_COUNT to $AFTER_COUNT! Restoring backup."
             cp data/articles.backup.json data/articles.json
             exit 1
           fi
@@ -50,14 +46,10 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/articles.json
           git diff --staged --quiet && echo "No changes" && exit 0
-
-          # Safe push: fetch latest remote, merge our changes on top
-          git stash
+          git commit -m "data: translate articles"
           git fetch origin master
-          git reset --hard origin/master
-          git stash pop
-
-          git add data/articles.json
-          git diff --staged --quiet && echo "No net changes after merge" && exit 0
+          git reset --soft origin/master
+          git add -A
+          git diff --staged --quiet && echo "No net changes" && exit 0
           git commit -m "data: translate articles"
           git push origin master

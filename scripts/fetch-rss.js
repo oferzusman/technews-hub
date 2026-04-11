@@ -9,7 +9,7 @@ const ROOT = join(__dirname, '..');
 const DB_PATH = join(ROOT, 'data', 'articles.json');
 
 const HOT_WINDOW_MS = 2 * 60 * 60 * 1000; // 2 hours
-const FEED_TIMEOUT_MS = 10000; // 10 seconds per feed
+const FEED_TIMEOUT_MS = 5000; // 5 seconds per feed (was 10s, too slow)
 
 function loadDb() {
   if (!existsSync(DB_PATH)) return { articles: [] };
