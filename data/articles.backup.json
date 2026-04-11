@@ -66721,6 +66721,131 @@
       "priority": "hot",
       "fetchedAt": "2026-04-11T19:03:15.160Z",
       "created_at": "2026-04-11T19:03:15.160Z"
+    },
+    {
+      "id": 3468,
+      "source": "MarkTechPost",
+      "title_en": "Researchers from MIT, NVIDIA, and Zhejiang University Propose TriAttention: A KV Cache Compression Method That Matches Full Attention at 2.5× Higher Throughput",
+      "description_en": "Long-chain reasoning is one of the most compute-intensive tasks in modern large language models. When a model like DeepSeek-R1 or Qwen3 works through a complex math problem, it can generate tens of thousands of tokens before arriving at an answer. Every one of those tokens must be stored in what is called the KV cache […]\nThe post Researchers from MIT, NVIDIA, and Zhejiang University Propose TriAttention: A KV Cache Compression Method That Matches Full Attention at 2.5× Higher Throughput appeare",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/11/researchers-from-mit-nvidia-and-zhejiang-university-propose-triattention-a-kv-cache-compression-method-that-matches-full-attention-at-2-5x-higher-throughput/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-11-at-1.01.15-PM-1.png",
+      "pub_date": "Sat, 11 Apr 2026 20:10:41 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T20:52:57.192Z",
+      "created_at": "2026-04-11T20:52:57.192Z"
+    },
+    {
+      "id": 3469,
+      "source": "The Guardian AI",
+      "title_en": "Brian Cox: ‘We don’t know how powerful AI is going to become – it’s both exciting and potentially a problem’",
+      "description_en": "The physicist, BBC presenter and author on snowflakes, art v science and the time Paul McCartney quizzed him about one of Saturn’s moons\nWhat is the inspiration behind your latest live show, Emergence?\nIt came from a book that I’ve loved for years: The Six-Cornered Snowflake by Johannes Kepler. Kepler is most famous for his laws of planetary motion in and around 1610, but he wrote this little book about New Year’s Eve in 1609, when he was walking across the Charles Bridge in Prague in a snowstor",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/science/2026/apr/11/brian-cox-physicist-interview-ai-science-paul-mccartney",
+      "image_url": "https://i.guim.co.uk/img/media/e8512c0e0aef3c770ae596a382ca5333e1826213/692_0_4648_3720/master/4648.jpg?width=140&quality=85&auto=format&fit=max&s=638b0a108826709fb4ca1d1d1fffb04c",
+      "pub_date": "Sat, 11 Apr 2026 20:00:05 GMT",
+      "author": "Sian Cain",
+      "categories": [
+        {
+          "_": "Brian Cox",
+          "$": {
+            "domain": "https://www.theguardian.com/science/brian-cox"
+          }
+        },
+        {
+          "_": "Science",
+          "$": {
+            "domain": "https://www.theguardian.com/science/science"
+          }
+        },
+        {
+          "_": "Astronomy",
+          "$": {
+            "domain": "https://www.theguardian.com/science/astronomy"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "People in science",
+          "$": {
+            "domain": "https://www.theguardian.com/science/people-in-science"
+          }
+        },
+        {
+          "_": "Physics",
+          "$": {
+            "domain": "https://www.theguardian.com/science/physics"
+          }
+        },
+        {
+          "_": "Space",
+          "$": {
+            "domain": "https://www.theguardian.com/science/space"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Social media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/social-media"
+          }
+        },
+        {
+          "_": "Music",
+          "$": {
+            "domain": "https://www.theguardian.com/music/music"
+          }
+        },
+        {
+          "_": "Paul McCartney",
+          "$": {
+            "domain": "https://www.theguardian.com/music/paulmccartney"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T20:52:57.802Z",
+      "created_at": "2026-04-11T20:52:57.802Z"
     }
   ]
 }
