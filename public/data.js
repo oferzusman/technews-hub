@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "China showcases Y-30 plane to outperform ‘world’s best tactical transport aircraft in service’\n\nChina’s push to modernize its tactical airlift fleet is gaining momentum with the emergence of...",
+    "t": "סין חושפת את המטוס Y-30 שאמור להעדיף את 'מטוס ההובלה הטקטי הטוב בעולם'\n\nסין לא סתם משחקת - היא בונה את ההצי האווירי של העתיד שלה עם המטוס החדש Y-30, שמדבר שם שאמור להביס את כל תחרויות קיימות בתחום הובלת הטקטית. התוכנית של סין לעדכן את הצי האווירי שלה מתקדמת בקצב מכביר, והטוס החדש הזה עשוי להיות משחק זוכים בעולם התחזוקה הצבאית.",
     "d": "Sat, 11 Apr 2026 18:16:04 +0000",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "DOGE Made Drastic Cuts to a Global Vaccine Assistance Program. Now There’s a Deadly Measles Outbreak in Bangladesh\n\nThanks, Elon.\nThe post DOGE Made Drastic Cuts to a Global Vaccine Assistance Program. Now There’s a Deadly Measles Outbreak in Bangladesh appeared first on Futurism.",
+    "t": "DOGE חתך בתוקף תוכנית עזרה חיסונים גלובלית - והתוצאה היא התפרצות חצבת קטלנית בבנגלדש\n\nבמהלך הקיצוצים הדרסטיים בתוכניות הבריאות הגלובליות, התפרצות חצבת קטלנית פקדה את בנגלדש. העיתון Futurism טוען שהדבר קשור ישירות להחלטות DOGE (המחלקה של Elon Musk) לחתוך משאבים מתוכניות חיסונים בינלאומיות.",
     "d": "Sat, 11 Apr 2026 14:15:00 -0400",
     "v": 0,
     "l": [
@@ -39,8 +39,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/doge-vaccines-bangladesh.jpg?quality=85",
@@ -48,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "How to Build a Secure Local-First Agent Runtime with OpenClaw Gateway, Skills, and Controlled Tool Execution\n\nIn this tutorial, we build and operate a fully local, schema-valid OpenClaw runtime. We configure the OpenClaw gateway with strict loopback binding, set up authenticated model access through environment variables, and define a secure execution environment using the built-in exec tool. We then create a structured custom skill that the OpenClaw agent can discover and […]\nThe post How to Build a Secure Local-First Agent Runtime with OpenClaw Gateway, Skills, and Controlled Tool Execution appeared f",
+    "t": "איך בונים Local-First Agent Runtime מאובטח עם OpenClaw Gateway, Skills ו-Controlled Tool Execution\n\nמדריך מעשי לבניית runtime של agents שעובד לחלוטין ברשת מקומית, בלי תלות בשרתים חיצוניים. הם מראים כיצד להגדיר את OpenClaw Gateway עם binding מאובטח, להפעיל models באמצעות environment variables, וליצור execution environment בטוח עם built-in tools. בסוף המדריך תוכלו ליצור custom skills שהAgent יוכל לגלות ולהשתמש בהם באופן שליטה מלא.",
     "d": "Sat, 11 Apr 2026 18:10:59 +0000",
     "v": 0,
     "l": [
@@ -73,7 +72,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Rockstar Games confirms it was hacked by malicious group — 'ShinyHunters' takes credit, gives until April 14 to pay ransom or risk leaking confidential data,  'ShinyHunters'\n\nThe hacker group \"Shiny Hunters\" has been able to breach Rockstar Games by accessing authentication tokens and getting inside the company's cloud infrastructure. The stolen data doesn't include any sensitive company or player information, according to a Rockstar spokesperson, but it's still being put up for ransom.",
+    "t": "רוקסטار גיימס אישרה: היא נחטפה על ידי קבוצת האקרים 'ShinyHunters' - יש עד 14 באפריל לשלם כופר\n\nקבוצת ההאקרים 'ShinyHunters' הצליחה לפרוץ לרוקסטר גיימס על ידי גניבת authentication tokens והחדרה לתשתית ה-cloud של החברה. לפי דברי נציגי רוקסטار, הנתונים שנגנבו לא כוללים מידע רגיש על החברה או השחקנים, אבל ההאקרים משחקים משחק קשוח - הם מאיימים לפרסם הכל אם לא יקבלו כסף עד אמצע אפריל. מקור: Tom's Hardware",
     "d": "Sat, 11 Apr 2026 18:05:43 +0000",
     "v": 0,
     "l": [
@@ -88,8 +87,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/fEhrMWXcANbZkYFRgR3UVm-1280-80.png",
@@ -97,7 +95,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Man Creates Tiny Submarine for His Parakeet to Experience Life Underwater\n\n\"He voluntarily went into the tube.\"\nThe post Man Creates Tiny Submarine for His Parakeet to Experience Life Underwater appeared first on Futurism.",
+    "t": "גבר בנה צוללת זעירה כדי שתוכי שלו יוכל לחוות חיים תחת המים\n\nבמהלך שחקני המוח שלנו עם AI וטכנולוגיה מתקדמת, יש אנשים שמוצאים דרכים קריאטיביות באמת להשתמש בידע שלהם - כמו הקטע הזה שבו מישהו בנה צוללת מיני לתוכיו. התוכי כנראה התחבר לרעיון בעצמו והוא פשוט החליט להיכנס לשם כדי לחוות משהו טוטלי חדש מתחת למים. זה קצת מטורף, אבל גם די מקסים, בהחלט משהו שרק בעולם הטכנולוגיה אתה רואה.\n\nמקור: Futurism",
     "d": "Sat, 11 Apr 2026 13:30:00 -0400",
     "v": 0,
     "l": [
@@ -120,7 +118,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home\n\nThe OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+    "t": "סם אלטמן מגיב לכתבה 'דלקת' של ניו יורקר לאחר התקפה על ביתו\n\nמנכ\"ל OpenAI פרסם פוסט בבלוג שבו הוא מתמודד גם עם התקפה לכאורה על ביתו וגם עם כתבה מעמיקה של ניו יורקר שמעלה שאלות על אמינותו. אלטמן מנסה להגן על עצמו כנגד טענות קשות בזמן שגם מטפל בתקרית אבטחה חמורה - זה הופך את השבוע הזה ללא כל ספק לאחד הקשים ביותר שלו בראשות OpenAI.",
     "d": "Sat, 11 Apr 2026 17:18:22 +0000",
     "v": 0,
     "l": [
@@ -9907,7 +9905,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 413,
-    "t": "Arm CEO Haas in line to lead much of parent SoftBank's international business, FT reports\n\nApril 9 : Chip designer Arm's CEO Rene Haas is in line to lead much of parent SoftBank Group's international business while keeping his current role at Arm, the Financial Times reported on Thursday, citing multiple people familiar with the matter. SoftBank an…",
+    "t": "מנכ\"ל Arm עשוי להוביל את העסקים הבינלאומיים של SoftBank תוך שמירה על תפקידו הנוכחי\n\nרנה האס, מנכ\"ל חברת Arm לעיצוב שבבים, עשוי להיקבל על תפקיד משמעותי בהנהלת הביזנס הבינלאומי של חברת האם SoftBank Group, בעוד שישמור על כיסאו ב-Arm. זה יכול להיות צעד אסטרטגי של SoftBank לחזק את נוכחותה העולמית בתחום הטכנולוגיה, במיוחד בשל ניסיונו של האס בתעשיית השבבים.",
     "d": "2026-04-09T05:18:41Z",
     "v": 0,
     "l": [
@@ -9925,13 +9923,13 @@ window.TELEGRAM_DATA = [
       "news",
       "regulation"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://dam.mediacorp.sg/image/upload/s--Z0MVQwO5--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-09T051841Z_2_LYNXMPEM38056_RTROPTP_3_MALAYSIA-ARM-HOLDINGS.JPG?itok=xjLaUh86",
     "source": "CNA"
   },
   {
     "id": 414,
-    "t": "OVHcloud launches new unit to meet demand from European militaries\n\nApril 9 : France's OVHcloud is creating a dedicated defence vertical after several European defence ministries approached it to support their military digital transformation, the datacentre operator said on Thursday.Their needs include AI-augmented command, d…",
+    "t": "OVHcloud משיקה יחידה חדשה לענות לביקוש של צבאות אירופיים\n\nחברת התשתיות הצרפתית OVHcloud הקימה אנכיות הגנה ייעודית לאחר שמשרדי הגנה אירופיים שונים פנו אליה בבקשה לסייע בשינוי דיגיטלי צבאי. הצבאות זקוקים לפתרונות מתקדמים כמו AI לפיקוד ובקרה, וה-cloud operator הצרפתית מראה שהשחקנים הגדולים בתחום הענן מתמרצים להשתמש בטכנולוגיה כדי לחזק מערכות הגנה ביבשת.",
     "d": "2026-04-09T05:17:15Z",
     "v": 0,
     "l": [
@@ -9948,13 +9946,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://dam.mediacorp.sg/image/upload/s--KnUXB3SA--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-09T051715Z_1_LYNXMPEM3806J_RTROPTP_3_OVH-RESULTS.JPG?itok=tNI6cXHM",
     "source": "CNA"
   },
   {
     "id": 415,
-    "t": "Anthropic Touts AI Cybersecurity Project With Big Tech Partners\n\nAnthropic announced an initiative with major technology companies, including Amazon.com, Microsoft and Apple, that lets partners preview an advanced model with cybersecurity capabilities developed by the AI startup. Under its “Project Glasswing,” select organ…",
+    "t": "אנתרופיק משיקה פרויקט אבטחה סייבר עם ענקיות הטק\n\nאנתרופיק הכריזה על יוזמה חדשה בשם Project Glaswing שמאפשרת לשותפים גדולים כמו אמזון, מיקרוסופט ואפל להציץ בדגם AI מתקדם עם יכולות אבטחה סייבר מיוחדות. הפרויקט מציע לחברות נבחרות גישה מוקדמת לטכנולוגיה החדשה של סטארטאפ ה-AI, שהוא צעד משמעותי בעולם מלחמת ההאקרים והאיומים הדיגיטליים.",
     "d": "2026-04-09T05:15:10Z",
     "v": 0,
     "l": [
@@ -9967,25 +9965,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Anthropic",
-      "Microsoft",
-      "Apple",
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "product",
-      "security"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://www.insurancejournal.com/app/uploads/2026/03/Anthropic-logo-research-building-AdobeStock-scaled.jpeg",
     "source": "Insurance Journal"
   },
   {
     "id": 416,
-    "t": "ableton-mcp-lofifren added to PyPI\n\nAbleton Live MCP integration — fork of ahujasid/ableton-mcp adding a 33-personality style system, ~35 extra MCP tools, batch commands, and arrangement-view BETA",
+    "t": "ableton-mcp-lofifren הוסף ל-PyPI\n\nאבלטון עם MCP חדש - זה בעצם fork של ahlejasid שהוסיף למשהו מדהים: 33 סגנונות שונים של AI, כ-35 כלים נוספים של MCP, פקודות batch ואפילו תצוגת Arrangement בגרסת BETA. בקיצור, עשו לאבלטון סטרואידים של אוטומציה ו-AI. 🎵",
     "d": "2026-04-09T05:12:30Z",
     "v": 0,
     "l": [
@@ -10008,7 +9998,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 417,
-    "t": "View: Iran’s reality shatters JD Vance’s Hungarian fantasy\n\nIran war: JD Vance champions Viktor Orban's vision of defending Western civilization. This approach, however, raises concerns about international relations and democratic values.",
+    "t": "השקפה: המציאות של איראן מנפצת את הפנטזיה ההונגרית של ג'יי.די וואנס\n\nג'יי.די וואנס מדגדג בחזון של ויקטור אורבן להגנת העמדות המערביות, אבל במציאות היום אירוע איראני מחכה לו בפינה. הגישה הזו עוררת שאלות מהותיות על יחסים בינלאומיים וערכים דמוקרטיים שלא בדיוק מתפתלים עם רוח המהלומות הגיאופוליטיות של ימינו.",
     "d": "2026-04-09T05:09:56Z",
     "v": 0,
     "l": [
@@ -10023,17 +10013,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://img.etimg.com/thumb/msid-130130140,width-1200,height-630,imgsize-73596,overlay-economictimes/articleshow.jpg",
     "source": "The Times of India"
   },
   {
     "id": 418,
-    "t": "whatwasthat 1.0.10.3\n\nDecision memory for AI coding agents — semantic search across Claude Code, Gemini CLI, and Codex CLI conversations",
+    "t": "whatwasthat 1.0.10.3\n\nכלי חדש שנועד לעזור לסוכני AI בקידוד לא לשכוח החלטות קודמות - הוא עושה semantic search על כל השיחות שלך עם Claude Code, Gemini CLI ו-Codex CLI, כך שהם יכולים להיזכר במה שדברתם עליו בעבר. בקיצור, זה כמו זיכרון החלטות חכם לכל ה-AI coding agents שלך.",
     "d": "2026-04-09T05:04:53Z",
     "v": 0,
     "l": [
@@ -10061,7 +10049,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 419,
-    "t": "Greg Ziółkowski: Research: Architecting Tools for AI Agents at Scale\n\nLoading all available tools into an LLM’s context simultaneously is one of the most consequential architectural mistakes teams make when building AI integrations. The solution isn’t bigger context windows, and it’s progressive tool exposure: dynamically prese…",
+    "t": "גרג זיולובסקי: איך בונים כלים לסוכני AI בגודל ענק\n\nמסתבר שלתחבורת כל הכלים הזמינים ישר לתוך ה-context של ה-LLM זה אחד הטעויות האדריכליות הכי חמורות שצוותים עושים כשהם בונים אינטגרציות AI. הפתרון לא הוא חלונות context יותר גדולים, אלא משהו שנקרא progressive tool exposure - כלומר להציג לאלגוריתם את הכלים בצורה דינמית על פי הצורך. זה כמו לא להעמיס על האדם את כל התפריט בבת אחת, אלא להראות לו רק מה שרלוונטי בדיוק.",
     "d": "2026-04-09T05:04:03Z",
     "v": 0,
     "l": [
@@ -10076,8 +10064,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9nemlvbG8ucGxcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjNcLzExXC8yMDIwLmpwZz9maXQ9MTc4OCUyQzE3ODgmc3NsPTEiLCJ0eHQiOiJHcnplZ29yeiBaaVx1MDBmM1x1MDE0Mmtvd3NraSIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxMzUzNDg3fQ.At3WTK-7am0gBo1Pv2XjA1sI9g-6duKyaeioLVjPhqQMQ",
@@ -10085,7 +10072,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 420,
-    "t": "First Implant of KingstronBio's ProStyle M® Transcatheter Mitral Valve System Successfully Completed in National Multicenter Confirmatory Study\n\nSHANGHAI, April 9, 2026 /PRNewswire/ -- On March 12, 2026, the first implant of the ProStyle M® Transcatheter Mitral Valve System (ProStyle M®) was successfully completed under pure ultrasound guidance as part of its confirmatory clinical study. The device is…",
+    "t": "התקנה ראשונה של מערכת שסתום מיטראלי תעבירי של KingstronBio עם ProStyle M® הצליחה במחקר קליני מאומת\n\nחברת KingstronBio השלימה בהצלחה את ההתקנה הראשונה של מערכת השסתום המיטראלי התעבירי ProStyle M® תחת הנחיית אולטרסאונד בלבד כחלק ממחקר קליני מאשר. זוהי תגובה משמעותית בתחום הרפואה לב, שכן מערכות כאלה מציעות חלופה פחות פולשנית לטיפול בבעיות שסתום מיטראלי. המחקר הרב-מרכזי בשנגחאי סימן יעד משמעותי בהתפתחות הטכנולוגיה הרפואית.",
     "d": "2026-04-09T05:04:00Z",
     "v": 0,
     "l": [
@@ -10102,13 +10089,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://mma.prnewswire.com/media/2952835/20260407172020_178_10.jpg?p=facebook",
     "source": "PR Newswire UK"
   },
   {
     "id": 421,
-    "t": "One in 14 Irish jobs could be taken by AI soon, and middle-income staff are the most exposed\n\nClerical and ICT roles are among the most exposed, with job losses projected at 18% for general and keyboard clerks.",
+    "t": "אחד מכל 14 מקומות עבודה בירלנד עלול להיות מוחלף בAI, וגם הצווארון הלבן בסכנה\n\nתפקידים בתחום הניהול והטכנולוגיה הם המוקדשים ביותר - מצופה אובדן של 18% מקומות עבודה בתחום הפקידות והמחשוב. כל זה יקרה בעוד זמן קצר, ודווקא עובדי הקצה הביניים שיהיו הכי חשופים להשפעות הגדולות.",
     "d": "2026-04-09T05:00:31Z",
     "v": 0,
     "l": [
@@ -10131,7 +10118,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 422,
-    "t": "Asqav: Open-source SDK for AI agent governance\n\nAI agents are executing consequential tasks autonomously, often across multiple systems and with little record of what they did or why. Asqav, a Python SDK released under the MIT license, addresses that gap by attaching a cryptographic signature to each agent…",
+    "t": "Asqav: SDK בקוד פתוח לשליטה בסוכנים AI\n\nAI agents עובדים היום באופן עצמאי על משימות חשובות וקריטיות, אבל אף אחד לא באמת יודע מה הם עשו או למה. Asqav, SDK חדש בPython שיצא תחת רישיון MIT, בא לפתור את הבעיה בדרך אלגנטית - הוא מחתים באופן קריפטוגרפי כל פעולה שהסוכן עושה, כך שתמיד יהיה לנו שיא מלא של ההיסטוריה.",
     "d": "2026-04-09T05:00:12Z",
     "v": 0,
     "l": [
@@ -10147,7 +10134,6 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "robotics",
       "agents"
     ],
     "imp": "low",
@@ -10156,7 +10142,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 423,
-    "t": "Artificial intelligence report should be wake-up call for Coalition\n\nAI is coming for Ireland’s workforce and that will have huge implications for the country’s future",
+    "t": "דוח בינה מלאכותית צריך להוות פעמון התעוררות לממשלה\n\nה-AI בדרכה להשפיע בגדול על שוק העבודה בעיראקל וזה בעל השלכות ענקיות על עתיד המדינה. הכל מצביע על כך שעל השלטון להתחיל להתכונן עכשיו לשינויים המתקרבים בעולם התעסוקה והכלכלה.",
     "d": "2026-04-09T05:00:01Z",
     "v": 0,
     "l": [
@@ -10173,13 +10159,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://www.irishtimes.com/resizer/v2/T4TA6XX3X6UG6F6LFZFR5FKJMM.jpg?smart=true&auth=897163e622d265ae10b8bd2c7ff4c00c76002b266a7c03e4af9f08a27a085d80&width=1200&height=630",
     "source": "The Irish Times"
   },
   {
     "id": 424,
-    "t": "AI, Agency, and the Quiet Hollowing of Mind\n\nReading through the article \"A Rational Optimist View Of Preventing Agency Decay\" is a rich experience. For readers with less patience, here is a ChatGPT summary (that also generated the title of this post). Much current discussion of artificial intelligence …",
+    "t": "AI, סוכנות, והתרוקנות השקטה של התודעה\n\nמאמר עמוק על ההשלכות הפילוסופיות של AI על כושר ההחלטה האנושי. הכותב דן בדיון הנרחב על איך שימוש בחכמה מלאכותית עשוי להחליש את יכולתנו לחשוב באופן עצמאי. זו קריאה חובה למי שחושבים על העתיד של האינטליגנציה האנושית מול המלאכותית.",
     "d": "2026-04-09T05:00:00Z",
     "v": 0,
     "l": [
@@ -10192,12 +10178,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "OpenAI"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -10205,7 +10188,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 425,
-    "t": "Reaching for the next rung on the career ladder in the age of AI uncertainty\n\nIn a world that is increasingly online and automated, the most valuable skills are becoming very human ones",
+    "t": "טיפוס על סולם הקריירה בעידן של אי-ודאות AI\n\nבעולם שהולך והופך יותר ויותר דיגיטלי והוא ממולא בעיבוד אוטומטי, המיומנויות שהן באמת שוות הזהב הן בדיוק אלו שרק בני אדם יכולים להציע. אז אם אתם חושבים שבזמן הAI תוכלו להיעלם מהתחרות, בשבילכם חדשות טובות - זה בדיוק הזמן להשקיע בכל מה שיוצא מהלב ומהמוח.",
     "d": "2026-04-09T05:00:00Z",
     "v": 0,
     "l": [
@@ -10228,7 +10211,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 426,
-    "t": "New York’s Climate Activists Not Backing Off\n\nThe longer this goes on, the more ridiculous you will look when the final collapse comes.",
+    "t": "פעילי האקלים בניו יורק לא מסוגים להתכנע\n\nפעילי האקלים בניו יורק ממשיכים בלחץ שלהם ללא הפסקה, וטוענים שעם ההתחממות הגלובלית מתגברת, התעלמות מהתהליך תיראה יותר ויותר אבסורדית כשהקריסה הגדולה תגיע. המשימה של הפעילים משמשת תזכורת כי הדיון על שינויי אקלים ממשיך להיות במרכז ההדיוניים בעיר. מקור: Wattsupwiththat.com",
     "d": "2026-04-09T05:00:00Z",
     "v": 0,
     "l": [
@@ -10251,7 +10234,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 427,
-    "t": "Indonesia, India explore higher education ties in business, economics\n\nIndonesia and India are exploring higher education collaboration in the fields of business and economics to expand access to quality education and strengthen ...",
+    "t": "אינדונזיה והודו חוקרות שיתוף פעולה בהשכלה גבוהה בתחומי עסקים וכלכלה\n\nאינדונזיה והודו משתפות פעולה בתחום ההשכלה הגבוהה כדי להנגיש חינוך איכותי בעולם העסקים והכלכלה. שיתוף הפעולה הזה אמור להרחיב את הגישה לחינוך טוב יותר ולחזק את הקשרים בין שתי המדינות בתחומים קריטיים אלה.",
     "d": "2026-04-09T04:56:08Z",
     "v": 0,
     "l": [
@@ -10274,7 +10257,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 428,
-    "t": "Claude isn’t just for programmers: Here’s 7 ways I use it in my everyday life\n\nA lot of people use Claude because it's a powerful coding tool. Claude Opus 4.6 is one of the best coding models currently available, but Claude isn't just useful for programmers. Here's how I use it in my day-to-day life. https://www.howtogeek.com/ways-i-use…",
+    "t": "Claude זה לא רק לתכנתים: 7 דרכים שבהן אני משתמש בו בחיי היומיום\n\nאוקיי, אנחנו יודעים ש-Claude הוא כלי קידוד חזק (Opus 4.6 זה ממש top-notch), אבל בואו נגיד שיש לו הרבה יותר שימושים מעבר לעולם התכנות. הבחור הזה שולח לנו איך הוא בעצם משתמש ב-Claude כל יום בחיים הרגילים שלו, וזה קצת מהפתע כמה מועיל זה יכול להיות אפילו אם אתה לא מתכנת.",
     "d": "2026-04-09T04:45:42Z",
     "v": 0,
     "l": [
@@ -10300,7 +10283,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 429,
-    "t": "Spire accuses Gibbs of ‘newfound fantasies’ and hypotheticals; Dickerson calls accusations ‘preposterous’\n\nSpire's argument continues to be that JGR is on a fishing expedition",
+    "t": "ספייר מאשימה את גיבס ב'פנטזיות חדשות' והשערות; דיקרסון קורא לאשמות '荒唐'\n\nהסכסוך בין ספייר לג'יביס ממשיך להתגלגל - ספייר מתעקשת שג'יביס רדפה אחרי דברים שאינם קיימים והטובה הטעתית בהשערות כדי לפגוע בה. דיקרסון מצדו לא מתרשם מההאשמות ומכנה אותן 'הזויות' בצורה שקטה וחד-משמעית. זה כמו קריאה במשפט טלוויזיה אמריקאית - כולם צורחים והעדויות נשמעות מעופעפות.",
     "d": "2026-04-09T04:44:27Z",
     "v": 0,
     "l": [
@@ -10323,7 +10306,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 430,
-    "t": "Meta unveils first AI model from superintelligence team\n\nCalled Muse Spark.",
+    "t": "מטא חושפת את דגם ה-AI הראשון של קבוצת הסופר-אינטליגנציה שלה\n\nמטא הוציאה לאור דגם חדש בשם Muse Spark, שפותח על ידי קבוצת ההנדסה המיוחדת שלה העובדת על superintelligence. זה הצעד הראשון של המשימה שלהם להביא AI מתקדם במיוחד לשימוש מעשי. מקור: iTnews",
     "d": "2026-04-09T04:44:00Z",
     "v": 0,
     "l": [
@@ -10336,12 +10319,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://i.nextmedia.com.au/News/20220718092912_meta_facebook.jpg",
@@ -10349,7 +10329,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 431,
-    "t": "Meta unveils first AI model from superintelligence team\n\nCalled Muse Spark.",
+    "t": "מטא חושפת את מודל ה-AI הראשון של צוות ה-superintelligence שלה\n\nמטא הציגה את 'Muse Spark', מודל AI חדש שפותח על ידי צוות ה-superintelligence שלה. זה החל של משהו גדול - הכל מצביע על כך שמטא משקיעה כמו משוגעת בחזון שלה להיות שחקן ראשי בעולם ה-AI לטווח ארוך. מקור: iTnews",
     "d": "2026-04-09T04:44:00Z",
     "v": 0,
     "l": [
@@ -10362,12 +10342,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://i.nextmedia.com.au/News/20220718092912_meta_facebook.jpg",
@@ -10375,7 +10352,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 432,
-    "t": "The impact of Seanergy’s strategy on the Capesize market\n\nSeanergy Maritime Holdings Corp. presented its strategic direction and key priorities in the dry bulk market as part of Capital Link’s Corporate Presentation Series 2026.\nThe company’s Chief Executive Officer,…\nThe impact of Seanergy’s strategy on the Capesiz…",
+    "t": "השפעת האסטרטגיה של Seanergy על שוק הספינות הענקיות\n\nSeanergy Maritime Holdings Corp. חשפה את תוכניתיה החדשות בשוק התובלה היבשתית, במסגרת סדרת הפרזנטציות של Capital Link. חברת הספנות הגדולה מתכננת צעדים משמעותיים שעלולים להשפיע על מחירי הפחת בשוק הקפסייז, וזה עשוי להיות חדשות חמות למשקיעים בתחום התחבורה הימית.",
     "d": "2026-04-09T04:42:01Z",
     "v": 0,
     "l": [
@@ -10390,8 +10367,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.naftemporiki.gr/wp-content/uploads/2025/12/tsantanis.jpg",
@@ -10399,7 +10375,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 433,
-    "t": "coding-proxy 0.1.4a6\n\nA High-Availability, Transparent, and Smart Multi-Vendor Proxy for Claude Code. Support Claude Plans, GitHub Copilot, Google Antigravity, ZAI/GLM.",
+    "t": "coding-proxy 0.1.4a6\n\nעוד כלי טוב להופעת קוד: יצא גרסה חדשה של proxy חכם שעובד עם כמה ספקים בו-זמנית - Claude, GitHub Copilot, Google ועוד. זה כמו ליהיות עם מרווח אחורי שמפנה לך לאפליקציה הטובה ביותר בכל רגע, ועם high-availability שמשמעותו שהכלי לא ייקרוס כשאתה צריך אותו. אם אתה עובד עם מספר AI coding tools, זה בדיוק מה שחיפשת. המקור: Pypi.org",
     "d": "2026-04-09T04:40:18Z",
     "v": 0,
     "l": [
@@ -10428,7 +10404,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 434,
-    "t": "sessionfs 0.9.8\n\nCapture, sync, and resume AI coding sessions across 8 tools — Claude Code, Codex, Gemini, Copilot, Cursor, Amp, Cline, and Roo Code.",
+    "t": "sessionfs 0.9.8\n\nאתם מפתחים שעובדים עם כמה כלים AI בו-זמנית? sessionfs 0.9.8 בא לחלץ אתכם מהעימות - הכלי החדש מאפשר לתעד, לסנכרן ולחזור לסשנים של coding ישירות בין 8 כלים שונים כולל Claude Code, Cursor, Copilot וכמה עוד שחקנים גדולים בשוק. במילים פשוטות - זו כמו לשמור את כל העבודה שלכם בקלאוד ולהמשיך מכל מכשיר או כלי שתרצו. מקור: Pypi.org",
     "d": "2026-04-09T04:38:56Z",
     "v": 0,
     "l": [
@@ -10442,7 +10418,6 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Google",
       "Anthropic",
       "Microsoft"
     ],
@@ -10457,7 +10432,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 435,
-    "t": "zai-quota added to PyPI\n\nCheck Z.ai (Zhipu AI) GLM API usage quota, remaining sessions, and token limits.",
+    "t": "zai-quota נוסף ל-PyPI\n\nספרייה חדשה שמאפשרת לכם לבדוק את ה-quota של ה-API של Zhipu AI (Z.ai), לעקוב אחרי הסשנים הנותרים ובעיקר לשלוט בגבולות ה-tokens שלכם. מושלם למפתחים שעובדים עם GLM API ורוצים לא להיתקל בהפתעות עם מגבלות קצב.",
     "d": "2026-04-09T04:37:46Z",
     "v": 0,
     "l": [
@@ -10480,7 +10455,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 436,
-    "t": "UAE’s AI Champion Presses On With Expansion, Looking Past Iran War\n\nDespite attacks on regional infrastructure, G42 says its data center campus and overseas plans are on track.",
+    "t": "שוער ה-AI של איחוד האמירויות ממשיך בהרחבה, מתעלם מסכסוך איראני\n\nG42, חברת ה-AI הענקית של האמירויות, לא מאיימת - למרות ההתקפות על תשתיות אזוריות, החברה מבטיחה שמרכזי הנתונים שלה והתוכניות הבינלאומיות שלה נמשכות בלי עיכוב. נראה שהם בחרו להשתמש בקשיחות גיאופוליטית בתור טבעת כושר.",
     "d": "2026-04-09T04:35:19Z",
     "v": 0,
     "l": [
@@ -10503,7 +10478,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 437,
-    "t": "How to Use Microsoft.Extensions.AI to Add AI to ASP.NET Core\n\nIntegrate AI into ASP.NET Core apps easily with Microsoft.Extensions.AI (MEAI). Build chatbots, smart search, and content generation features quickly and efficiently.",
+    "t": "איך להוסיף AI ל-ASP.NET Core באמצעות Microsoft.Extensions.AI\n\nמיקרוסופט הרחיבה את הכלים שלה עבור מפתחים שרוצים להטמיע AI ב-ASP.NET Core - עכשיו זה הרבה יותר פשוט לבנות chatbots, חיפוש חכם ותוכניות יצירת תוכן. ה-framework החדש MEAI מאפשר למפתחים לחבר AI models בקלות ליישומים שלהם בלי להיכנס לעומקי השיטה. זה עוד צעד חשוב של מיקרוסופט בעולם ה-AI לעמו\"ד (stack) של המפתחים. מקור: C-sharpcorner.com",
     "d": "2026-04-09T04:33:28Z",
     "v": 0,
     "l": [
@@ -10529,7 +10504,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 438,
-    "t": "whatwasthat 1.0.10.2\n\nDecision memory for AI coding agents — semantic search across Claude Code, Gemini CLI, and Codex CLI conversations",
+    "t": "whatwasthat 1.0.10.2\n\nכלי חדש שמעניק 'זיכרון החלטות' לסוכני AI בתכנות - היא משתמשת בחיפוש סמנטי כדי להיזכר בשיחות קודמות ב-Claude Code, Gemini CLI ו-Codex CLI. זה בעצם אומר שה-AI שלכם יוכל ללמוד מההחלטות שהוא עשה בעבר ולהשתמש בהן בעתיד, בדיוק כמו שאדם היה זוכר טריקים מעבודה קודמת. מכיוון שהרבה מאיתנו כבר משתמשים בכלים האלה לקודינג, זה יכול להיות רלוונטי למי שחוקר בתחום ה-AI agents.",
     "d": "2026-04-09T04:33:07Z",
     "v": 0,
     "l": [
@@ -10557,7 +10532,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 439,
-    "t": "How Do I Build an Autonomous AI Agent in C# Using Semantic Kernel and .NET 10?\n\nBuild autonomous AI agents in C# using Semantic Kernel and .NET 10! This guide covers planning, skills, memory, and integration for intelligent apps. Boost productivity!",
+    "t": "איך בונים AI Agent אוטונומי ב-C# עם Semantic Kernel ו-.NET 10?\n\nמדריך מעשי לבניית AI agents בשפת C# שיכולים לעבוד באופן עצמאי - כל מה שצריך לדעת על planning, skills, memory ויכולות integration. אם אתם פיתחים ב-.NET, פה יש לכם הכל כדי לבנות אפליקציות חכמות שחוסכות זמן ויעילות.",
     "d": "2026-04-09T04:32:23Z",
     "v": 0,
     "l": [
@@ -10573,7 +10548,6 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "robotics",
       "agents"
     ],
     "imp": "low",
@@ -10582,7 +10556,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 440,
-    "t": "Tech industry cuts 80,000 jobs in Q1 2026, with half of the layoffs attributed to AI\n\n80,000 job cuts in the first quarter of 2026 for the tech industry is no small figure, with three quarters of the cuts reportedly taking place in the U.S.Continue reading at TweakTown",
+    "t": "תעשיית הטק קיצצה 80,000 מקומות עבודה ברבעון הראשון של 2026, מחצית מהקיצוצים בגלל AI\n\nרבעון ראשון של 2026 היה קשה לתעשיית הטק - 80,000 מקומות עבודה הלכו לאיבוד, וכמעט חצי מהם בגלל התפשטות ה-AI שמחליפה עובדים. רוב הקיצוצים התרחשו בארה\"ב, מה שמשקף מגמה גלובלית של שחקני ענק שמעדיפים להשקיע בטכנולוגיה חדשה על פני כוח אדם. מקור: TweakTown",
     "d": "2026-04-09T04:31:03Z",
     "v": 0,
     "l": [
@@ -10599,13 +10573,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://static.tweaktown.com/news/1/1/110940_1_tech-industry-cuts-80-000-jobs-in-q1-2026-with-half-of-the-layoffs-attributed-to-ai_full.jpg",
     "source": "TweakTown"
   },
   {
     "id": 441,
-    "t": "AI adoption is expected to cause rise in income inequality in Ireland, says ESRI report\n\nThe adoption of artificial intelligence  in the Irish economy is expected to lead to a moderate increase in income inequality in the short- to medium-term, according to a joint report by the Economic and Social Research Institute (ESRI) and the Department of …",
+    "t": "דו\"ח: אימוץ AI באירלנד צפוי להגביר את אי-שוויון ההכנסות\n\nעל פי דוח משותף של המכון לחקר כלכלי וחברתי באירלנד, התפשטות ה-AI בכלכלה האירית צפויה להביא לעלייה מתונה באי-שוויון הכנסות בטווח הקצר והבינוני. נראה שהטכנולוגיה הזו תשפיע בדרכים שונות על שכר העבודה ותפקידי עובדים שונים במשק. המחקר מציין שצריך מדיניות פעילה כדי להקטין את ההשפעות השליליות על העובדים החלשים יותר בשוק העבודה.",
     "d": "2026-04-09T04:30:00Z",
     "v": 0,
     "l": [
@@ -10622,13 +10596,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://focus.independent.ie/thumbor/GSyP2i-fRYKgw4KcbpIz-SK_2ko=/86x0:1704x1079/629x0/prod-mh-ireland/f2287dfd-40de-4521-a6d6-73f51f0e5f47/be45e9dc-009e-42bf-ba33-3dc85c18a1ce/f2287dfd-40de-4521-a6d6-73f51f0e5f47.jpg",
     "source": "Independent.ie"
   },
   {
     "id": 442,
-    "t": "TCS Q4 results preview: Margins to remain flat\n\nTCS's Q4 results are expected to show flat margins and modest revenue growth, driven by currency support and AI advancements.",
+    "t": "תחזוקת TCS ברבעון הרביעי: הרווחיות תישאר יציבה\n\nתוצאות Q4 של TCS צפויות להראות רווחיות שטוחה וגדילה צנועה בהכנסות, בהנעת מטבע חזקה ותקדימי AI חדשים. החברה הטכנולוגית הגדולה מהודו מצפה להעמיד מעמד יציב עם עזרה מפתיע של שערי חליפין לטובתה בחו\"ל.",
     "d": "2026-04-09T04:26:00Z",
     "v": 0,
     "l": [
@@ -10651,7 +10625,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 443,
-    "t": "whatwasthat 1.0.10.1\n\nDecision memory for AI coding agents — semantic search across Claude Code, Gemini CLI, and Codex CLI conversations",
+    "t": "whatwasthat 1.0.10.1\n\nכלי חדש שמעניק 'זיכרון החלטות' לסוכנים AI בתוך IDEs - מנוע חיפוש סמנטי שמחבר בין שיחות של Claude Code, Gemini CLI ו-Codex CLI כדי שהמודלים יוכלו להיזכר בקודים קודמים ובפתרונות שכבר נסו. זה בעצם כמו לתת לAI שלך 'זיכרון ארוך טווח' כדי שלא יחזור על אותן הטעויות פעמיים.",
     "d": "2026-04-09T04:25:05Z",
     "v": 0,
     "l": [
@@ -10670,8 +10644,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -10679,7 +10652,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 444,
-    "t": "ScreenSmooth\n\nDiscussion\n            |\n            Link",
+    "t": "ScreenSmooth\n\nנראה שמדובר בכלי חדש שהוצג ב-Product Hunt, אבל בינתיים אין לנו פרטים מלאים על מה בדיוק הוא עושה. זה אחד מהמוצרים החדשים שמנסים להשתמר בזירה הטכנולוגית הכלכלית. אנחנו מחכים להבהרה נוספת על התכונות והשימוש שלו.",
     "d": "2026-04-09T04:24:41.000Z",
     "v": 0,
     "l": [
@@ -10702,7 +10675,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 445,
-    "t": "Performance Technologies: Opening in Malta – Expansion into new sectors\n\nPerformance Technologies is pursuing a growth strategy focused on expansion into new markets, acquisitions, and diversification into new business segments.\nAs Chairman and CEO Dionysis Hintzidis stated during a briefing…\nPerformance Technologies: Opening in M…",
+    "t": "Performance Technologies: פותחת סניף במלטה – התרחבות לענפים חדשים\n\nPerformance Technologies משקיעה בתוכנית גדילה אגרסיבית שכוללת כניסה לשווקים חדשים ורכישות של חברות בתחומים שונים. יו\"ר וממנהל כללי החברה Dionysis Hintzidis חשף בדיוק את אסטרטגיית ההתרחבות הגדולה שלהם, וכנראה שמלטה היא רק תחנת הקרח בתוכנית הגלובלית שלהם. זה נראה כמו צעד חכם לתרכוז הטכנולוגיה של ישראל – מי שרוצה לגדול, צריך לחפש מחוץ לבית.",
     "d": "2026-04-09T04:22:11Z",
     "v": 0,
     "l": [
@@ -10725,7 +10698,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 446,
-    "t": "OpenAI, Meta, ByteDance Lead AI Bot Traffic In Publishing via @sejournal, @MattGSouthern\n\nAkamai breaks down which AI bots are hitting publishing, who operates them, and why fetcher bots may pose a more immediate risk.\nThe post OpenAI, Meta, ByteDance Lead AI Bot Traffic In Publishing appeared first on Search Engine Journal.",
+    "t": "OpenAI, Meta וByteDance מובילות בתנועת AI Bot בעולם הפרסום\n\nאקמאי חשפה מי בדיוק מחכה לכם באתרי חדשות - OpenAI, Meta וByteDance מעמיסים את הרשת עם bots שלהם כדי ללמוד ממאמרים שלכם. ואם חשבתם שזה בסדר, חשבו שוב: fetcher bots אלה עלולים להזיק יותר מדי מהר מאשר שחשבנו, ובאמת עלול לעלות לכם כסף על bandwidth שמתכננים שלא לכם.",
     "d": "2026-04-09T04:20:50Z",
     "v": 0,
     "l": [
@@ -10744,7 +10717,8 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model"
+      "model",
+      "regulation"
     ],
     "imp": "low",
     "thumb": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/04/4c1258f3-cf2b-4809-949b-151237538542-611.jpeg",
@@ -10776,7 +10750,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 448,
-    "t": "tend 0.0.10\n\nClaude-powered CI for GitHub repos",
+    "t": "Tend 0.0.10 - CI חכם מונע ע\"י Claude\n\nכלי חדש וחכם עבור GitHub repos שמשתמש ב-Claude כדי להפוך את ה-CI שלכם לאוטומטית יותר. Tend מביא בחיים את ה-AI בתוך ה-pipeline שלכם ועושה את כל העבודה הממשעממת של בדיקות וביצוע אוטומטיים, כלל ללא צורך להקליד כמעט כלום. מקור: Pypi.org",
     "d": "2026-04-09T04:17:02Z",
     "v": 0,
     "l": [
@@ -10802,7 +10776,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 449,
-    "t": "Meta launches Muse Spark to champion next-gen AI assistant\n\nMeta Platforms has unveiled Muse Spark, the first AI model from its newly formed Meta Superintelligence Labs, marking a major step in its efforts to regain momentum in an AI race dominated by OpenAI, Anthropic, and Google, according to Reuters. Internally cod…",
+    "t": "מטא משיקה את Muse Spark - העוזר AI החדש שלה בקרב הענקים\n\nמטא בחרה לצאת לקרב ישירות נגד OpenAI וגוגל והשיקה את Muse Spark, מודל ה-AI הראשון מהמעבדות החדשות שלה. זו צעד משמעותי בניסיון של המטא להשתפר במירוץ ה-AI שנשלט כרגע על ידי כל השחקנים הגדולים בתעשייה, והוא צפוי לשנות את המשחק ביכולות העוזר החדש שלה.",
     "d": "2026-04-09T04:15:00Z",
     "v": 0,
     "l": [
@@ -10816,22 +10790,19 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Google",
-      "Anthropic",
-      "Meta"
+      "OpenAI"
     ],
     "tags": [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://img.digitimes.com/newsshow/20260409vl204_files/1_r.jpg",
     "source": "Digitimes"
   },
   {
     "id": 450,
-    "t": "sage-ai-cli added to PyPI\n\nSage — a local-first AI coding CLI (like Claude Code, using free/open models)",
+    "t": "Sage-ai-cli הוסיף ל-PyPI\n\nSage היא CLI חדשה לקודינג עם AI שעובדת לוקלי, בדומה ל-Claude Code אבל עם מודלים חינמיים וקוד פתוח. זה אומר שאתם יכולים להשתמש בעזרת AI לכתיבת קוד ישירות על המחשב שלכם בלי תלות בשרתים חיצוניים. עכשיו הכל זמין והקל להתקנה דרך PyPI כמו כל פакג'ים בפايתון רגילים. | מקור: PyPI.org",
     "d": "2026-04-09T04:02:21Z",
     "v": 0,
     "l": [
@@ -10857,7 +10828,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 451,
-    "t": "Media Briefing: Another AI threat emerges for publishers: the third-party scraper\n\nA growing network of third-party web scrapers is fueling an AI content licensing market, where publisher content is scraped and sold.",
+    "t": "עדכון מדיה: איום AI חדש מאיים על מפרסמים - גורדי אתרים של צד שלישי\n\nרשת גדלה של גורדי אתרים של צד שלישי מזינה שוק רישוי תוכן ל-AI, כשמפרסמים מגלים שהתוכן שלהם נגרד ונמכר ללא אישור. זה בעצם המתקה של פיראטיה דיגיטלית - בעוד ש-AI חברות גדולות קוראות ונלמדות מהאתרים שלכם, יש כאן מתווכים שפשוט מוכרים את התוכן הזה לרמה שלמה של שחקנים אחרים.",
     "d": "2026-04-09T04:01:00Z",
     "v": 0,
     "l": [
@@ -10880,7 +10851,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 452,
-    "t": "Prompt injection tags along as GenAI enters daily government use\n\nRoutine use of GenAI has moved into daily operations in state and territorial government environments, placing new security risks within common workflows. A Center for Internet Security (CIS) report, Prompt Injections: The Inherent Threat to Generative AI, id…",
+    "t": "התקפות Prompt Injection מלווה את ה-GenAI לשימוש יומיומי בממשלה\n\nעם זה שממשלות בעולם מתחילות להשתמש בAI גנרטיבי בפעולות יומיומיות, מתגלות בעיות אבטחה חדשות שלא חשבנו עליהן קודם. דוח של Center for Internet Security חושף סכנה מובנית בטכנולוגיה הזו - התקפות Prompt Injection שיכולות להטעות את המודלים ולהעניק גישה לנתונים סנסיטיביים ממשלתיים.",
     "d": "2026-04-09T04:00:19Z",
     "v": 0,
     "l": [
@@ -10898,13 +10869,13 @@ window.TELEGRAM_DATA = [
       "news",
       "security"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://img.helpnetsecurity.com/wp-content/uploads/2025/05/27124549/eye-1500.webp",
     "source": "Help Net Security"
   },
   {
     "id": 453,
-    "t": "A new type of electrically driven artificial muscle fiber\n\nMIT researchers develop electrically driven artificial muscle fiber for soft robotics and prosthetics: compact, powerful, efficient systems",
+    "t": "סוג חדש של שריר מלאכותי המופעל בחשמל\n\nחוקרים מ-MIT פיתחו שריר מלאכותי חדשני שמופעל בחשמל וזה פותח דלתות חדשות לעולם הרובוטיקה רכה ותותבות מתקדמות. הטכנולוגיה הזו מתגאה בגדלים קטנים יחסית אבל בעוצמה ודיוק שאתה לא מצפה, וזה הכל בעבור עלות אנרגיה נמוכה בהרבה מהפתרונות הקיימים.",
     "d": "2026-04-09T04:00:00Z",
     "v": 0,
     "l": [
@@ -10919,8 +10890,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://dam-prod.media.mit.edu/thumb/2026/04/06/FiberMuscle.gif.1400x1400.gif",
@@ -10928,7 +10898,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 454,
-    "t": "Why the real measure of innovation is human impact\n\nTech leaders are used to being judged on metrics such as cost reduction, productivity and efficiency - but increasingly the true value of success in digital transformation lies in its human impact",
+    "t": "למה ההשפעה האנושית היא המדד האמיתי לחדשנות\n\nמנהיגי טק רגילים להיות מוערכים על סמך מטריקס של הפחתת עלויות וגדילת פרודוקטיביטי, אבל בימים אלה הבנו שההצלחה האמיתית בטרנספורמציה דיגיטלית נמדדת בהשפעה שלה על האדם עצמו - לא רק על הגיליונות האקסל שלנו.",
     "d": "2026-04-09T04:00:00Z",
     "v": 0,
     "l": [
@@ -10951,7 +10921,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 455,
-    "t": "Gen Z's AI Adoption Steady, but Skepticism Climbs\n\nGen Zers' use of AI is steady, but their excitement and hopefulness about it have declined over the past year, while anger has increased.",
+    "t": "דור Z משתמש ב-AI בקביעות, אך הספקנות גדלה\n\nבעוד שדור Z ממשיך להשתמש ב-AI כמו תמיד, ההתלהבות והאופטימיזם שלהם כלפי הטכנולוגיה הולכים ופוחתים בשנה האחרונה - ובמקומם גדלה הכעס והחשדנות. נראה שצעירים בישראל וברחבי העולם מתחילים להתעורר מחלום ה-AI ולתשאול את ההשלכות האמיתיות שלו. מחקר חדש של Gallup חושף מגמה מעניינת של קירור ההתייחסות לתחום שטבעי לדור הזה.",
     "d": "2026-04-09T04:00:00Z",
     "v": 0,
     "l": [
@@ -10974,7 +10944,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 456,
-    "t": "Tech problems? Even astronauts can’t outrun them\n\nArtemis II’s commander couldn’t get Outlook to work on his personal device, proof that astronauts are just like the rest of us",
+    "t": "בעיות טכנולוגיה? אפילו אסטרונאוטים לא יכולים להימלט מהן\n\nמפקד משימת ארטמיס II לא הצליח להפעיל את Outlook בהתקן האישי שלו, וזה מוכיח שגם אסטרונאוטים סובלים מאותן בעיות טכניות כמוני וכמוך. אפילו כשאתה משתגע בחלל, כל המייל וההודעות עדיין עוקפות אותך - Microsoft לא עוזבת בשום מקום!",
     "d": "2026-04-09T04:00:00Z",
     "v": 0,
     "l": [
@@ -10987,9 +10957,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Microsoft"
+    ],
     "tags": [
-      "news"
+      "news",
+      "product"
     ],
     "imp": "low",
     "thumb": "https://www.irishtimes.com/resizer/v2/WJKGYQYSFXP26Y6EUTXZBIJINE.jpg?smart=true&auth=6b3eb815a095691bcbc5f22ddbbb96836957ef835d3fb35b5b2c7fb39a7228c0&width=1200&height=630",
