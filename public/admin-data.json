@@ -1,9 +1,9 @@
 {
-  "total": 3452,
+  "total": 3461,
   "translated": 2560,
-  "untranslated": 892,
-  "today": 220,
-  "week": 3399,
+  "untranslated": 901,
+  "today": 229,
+  "week": 3408,
   "sources": [
     {
       "name": "Pypi.org",
@@ -25,13 +25,13 @@
     },
     {
       "name": "Futurism",
-      "total": 127,
+      "total": 130,
       "translated": 122,
       "lastDate": "Wed, 08 Apr 2026 16:29:40 -0400"
     },
     {
       "name": "Tom's Hardware",
-      "total": 115,
+      "total": 119,
       "translated": 106,
       "lastDate": "Wed, 08 Apr 2026 19:45:25 +0000"
     },
@@ -43,7 +43,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 90,
+      "total": 91,
       "translated": 90,
       "lastDate": "Wed, 08 Apr 2026 23:03:00 GMT"
     },
@@ -85,7 +85,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 67,
+      "total": 68,
       "translated": 65,
       "lastDate": "Wed, 08 Apr 2026 23:24:03 +0000"
     },
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-11T16:33:18.094Z"
+  "generatedAt": "2026-04-11T17:17:16.950Z"
 }
