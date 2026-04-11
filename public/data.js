@@ -5986,7 +5986,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 249,
-    "t": "Perplexity Finance\n\nDiscussion\n            |\n            Link",
+    "t": "Perplexity Finance\n\nPerplexity משיקה כלי מוקדש לעולם הפיננסים, שנועד לתת לכם תשובות מדויקות על השקעות, מניות וכל מה שקשור לכסף. זה בעצם האפליקציה החביבה שלהם אבל עם פוקוס מלא על נתונים פיננסיים והערכות בשוק.",
     "d": "2026-04-09T16:42:06.000Z",
     "v": 0,
     "l": [
@@ -6009,7 +6009,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 250,
-    "t": "Alleged images of the long-awaited Nvidia N1/N1X SoC surface on laptop motherboard — board features 128 GB of LPDDR5X memory alongside 8+6+2 phase VRM\n\nNvidia's N1 SoC leaks yet again, but this time in the flesh, with potentially a laptop motherboard featuring the long-rumored chip. It was spotted on sale on a Chinese marketplace for roughly $1,400. The pictures show the PCB rocking 128 GB of LPDDR5X-8533 RAM, robust power delivery, and a decent I/O selection.",
+    "t": "תמונות חדשות של ה-Nvidia N1/N1X החדש הופיעו ברשת — לוח האם כולל 128GB זיכרון LPDDR5X\n\nחדשות טעונות על ה-SoC החדש של Nvidia N1 שזוכה להמתנה כבדה, והפעם מישהו אחד מצא אותו בחנות סינית ומכר אותו בעד 1,400 דולר. התמונות מראות לוח אם עם 128GB LPDDR5X-8533, מערכת הנעה חזקה וחיבורי I/O טובים — הדברים מתחילים להיראות ממש אמיתיים.",
     "d": "Thu, 09 Apr 2026 16:40:32 +0000",
     "v": 0,
     "l": [
@@ -6035,7 +6035,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 251,
-    "t": "Police corporal created AI porn from driver's license pics\n\nOfficer created over 3,000 \"deepfake\" images.",
+    "t": "קצין משטרה יצר פורנו AI מתמונות רישיון נהיגה\n\nבמקרה המדאיג הזה, שוטר יצר למעלה מ-3,000 תמונות deepfake של נשים באמצעות תמונות הרישיון שלהן. זה עוד דוגמה לחסרונות של טכנולוגיית ה-AI שמעוררת גם שאלות חוקיות וחברתיות בדבר שימוש בחומרים אישיים של אנשים. סיפור כמו זה מראה שלא מספיק פשוט להיות בעלי גישה לטכנולוגיה - צריך גם אחריות ואתיקה לעבודה עם הכלים האלה. מקור: Ars Technica",
     "d": "Thu, 09 Apr 2026 16:37:52 +0000",
     "v": 0,
     "l": [
@@ -6058,7 +6058,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 252,
-    "t": "Intel and Google announce multi-year chip deal — Google will deploy Intel Xeon with custom IPUs for next-gen AI, cloud infrastructure\n\nAlthough Google now has its own Arm-based Axion CPUs, Intel's Xeon processors with custom IPUs will continue to be used for AI and other demanding workloads in Google's data centers for years.",
+    "t": "אינטל וגוגל הודיעו על עסקת שבבים רב-שנתית — גוגל תפרוס מעבדי Xeon עם IPU מותאמים עבור AI והתשתיות בדור הבא\n\nלמרות שגוגל פיתחה את מעבדי ה-Axion שלה המבוססים על Arm, מעבדי ה-Xeon של אינטל עם IPU מותאמים אישית יישארו חלק חשוב בנוף המחשוב של גוגל לשנים קדימה — בעיקר לעומסי AI כבדים. הדיל הזה מראה שגם עם החזקת טכנולוגיה משלה, גוגל עדיין מוכנה להשקיע בשותפות עם אינטל כדי לשמור על גמישות בתשתיות שלה.\n\nמקור: Tom's Hardware",
     "d": "Thu, 09 Apr 2026 16:35:47 +0000",
     "v": 0,
     "l": [
@@ -6071,12 +6071,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/VBnZto6P3Yzh9RfNDACjGT-1280-80.jpg",
@@ -6084,7 +6081,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 253,
-    "t": "LoveCapsule\n\nDiscussion\n            |\n            Link",
+    "t": "LoveCapsule\n\nLoveCapsule היא אפליקציה חדשה שעוזרת לזוגות לשמור על הזיכרונות והרגעים המיוחדים שלהם בצורה דיגיטלית. הכלי מאפשר לשתוף תמונות, הודעות ויצירה משותפת, כל זה בתוך חלל אמן וגדוש רומנטיקה. זה בעצם כמו דיסק קשיח רגשי - משהו לשמור את הרגעים היפים עם הבן/בת הזוג שלכם. | מקור: Product Hunt",
     "d": "2026-04-09T16:35:08.000Z",
     "v": 0,
     "l": [
@@ -6130,7 +6127,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 255,
-    "t": "Nocta Pro\n\nDiscussion\n            |\n            Link",
+    "t": "Nocta Pro\n\nכנראה שיש כאן כלי או שירות חדש בשם Nocta Pro שעלה ל-Product Hunt, אבל בלי פרטים מדויקים קשה להגיד בדיוק מה זה עושה. אם אתם מחפשים מידע מלא, כדאי להכנס ישירות לעמוד המוצר בـ Product Hunt כדי לראות בעצמכם מה הקטע כאן.",
     "d": "2026-04-09T16:12:38.000Z",
     "v": 0,
     "l": [
@@ -6153,7 +6150,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 256,
-    "t": "High-speed hydrofoil e-ferry is quieter than a library\n\nSwedish electric boat company Candela has just unveiled the P-12 Business, a 16-passenger hydrofoil ferry it's calling the quietest high-speed vessel on the water.\nContinue Reading\nCategory: Marine, Transport\nTags: Candela, public transportation, Luxury, Hydrofoil, Electric Boats",
+    "t": "סירת e-ferry בטכנולוגיית hydrofoil מהירה וקטנה מספרייה\n\nהחברה השוודית Candela חשפה את ה-P-12 Business - סירת נוסעים חשמלית חדשנית שיכולה להעמיס 16 נוסעים ונדהימה בשקט שלה. הספינה המהירה הזו כל כך שקטה שאפילו לקורא עסוק בספרייה לא תהיה בעיה להישמע עליה - וזה בעצם זה שגורם לזה להיות ההישג הטכני המרשים במיוחד של hydrofoil זה.",
     "d": "Thu, 09 Apr 2026 16:03:00 GMT",
     "v": 0,
     "l": [
@@ -6176,7 +6173,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 257,
-    "t": "New Vimana drone concept aims to provide expert robotic surgery on remote battlefields\n\nDrones are increasingly used in every sphere of life today, from relief and rescue missions...",
+    "t": "קונספט רחפן Vimana חדש: ניתוחים רובוטיים מתקדמים בשדות קרב מרוחקים\n\nאז זה קורה - עכשיו אפילו הרחפנים יכולים לבצע ניתוחים! חברה כלשהי עבדה על קונספט של רחפן שיוכל להעביר כישורי ניתוח ברמה גבוהה לאזורים מרוחקים ובשדות קרב, כשהרובוטיקה והטכנולוגיה עושים את העבודה. זה לא מדע בדיוני - זה בעצם התיקייה הבאה בתור לשימוש הולך וגדל של רחפנים בתחומי הצילום, החילוץ, ועכשיו גם בתחום הרפואה. מקור: Interesting Engineering",
     "d": "Thu, 09 Apr 2026 16:02:01 +0000",
     "v": 0,
     "l": [
@@ -6191,8 +6188,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -6200,7 +6196,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 258,
-    "t": "How Gartner will help accelerate and scale your AI strategy\n\nFeeling stuck with your AI initiatives? Gartner has the answer Sponsored Post  Most enterprise application and software engineering leaders have an AI strategy , but moving from a boardroom vision to a working production environment can be challenging. Many companies are feeling the pressure to deliver results.…",
+    "t": "איך Gartner תעזור לכם להאיץ ולהרחיב את אסטרטגיית ה-AI שלכם\n\nרוב מנהיגי הטכנולוגיה בחברות גדולות כבר יש להם אסטרטגיית AI בתיקייה, אבל העברה מחזון יפה בדירקטוריון לסביבת ייצור עובדת - זה כבר סיפור אחר. Gartner מגיעה עם פתרונות וטולים שיכולים לעזור לחברות ליצאת מהתקיעות ולהישלח את המשימה לאוויר, בשביל שסוף סוף תראו תוצאות אמיתיות.",
     "d": "2026-04-09T16:00:10.000Z",
     "v": 0,
     "l": [
@@ -6223,7 +6219,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 259,
-    "t": "First man convicted under Take It Down Act kept making AI nudes after arrest\n\nOhio man used more than 100 AI tools to make fake nudes of women and minors.",
+    "t": "אדם ראשון שהורשע בחוק Take It Down המשיך ליצור תמונות זדוניות של AI גם אחרי המעצר\n\nבחור מאוהיו השתמש בלמעלה מ-100 כלים שונים של AI כדי ליצור תמונות עירום מזויפות של נשים וקטינות - והמעניין שהוא המשיך בפעילות הזו גם אחרי שנתפס. זה המקרה הראשון של הרשעה בחוק שנועד להילחם בתופעה המטורפת הזו.",
     "d": "Thu, 09 Apr 2026 15:43:40 +0000",
     "v": 0,
     "l": [
@@ -6246,7 +6242,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 260,
-    "t": "CDC study shows COVID shot benefits; Trump official blocks release\n\nStudy found shots cut urgent care and hospitalization by about 50% in healthy adults.",
+    "t": "מחקר CDC מוכיח את היעילות של חיסון קורונה; פקיד טראמפ חוסם את הפרסום\n\nמחקר חדש של ה-CDC מגלה שהחיסונים הצליחו להוריד בחצי את הצורך בטיפול דחוף ואשפוז בקרב בוגרים בריאים - אבל משום מה גוף ממשלתי אמריקאי החליט לא לתת לחוקרים לפרסם את הממצאים. זה עוד אחד מאותם מקרים מוזרים שמראה איך מחקר רפואי וכללי אתי יכול להתנגש עם אינטרסים פוליטיים.",
     "d": "Thu, 09 Apr 2026 15:26:31 +0000",
     "v": 0,
     "l": [
@@ -6263,13 +6259,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2259222585-1152x648.jpg",
     "source": "Ars Technica"
   },
   {
     "id": 261,
-    "t": "US’ nuclear fusion startup to build radioactive batteries for use in space\n\nAvalanche Energy, a fusion energy startup, has won a $5.2 million contract to build radioactive...",
+    "t": "סטארטאפ גרעיני אמריקאי יבנה סוללות רדיואקטיביות למרחב\n\nAvalanche Energy, סטארטאפ המתמחה בטכנולוגיית fusion, זכתה בחוזה של 5.2 מיליון דולר לפיתוח סוללות רדיואקטיביות שיתפקדו בחלל. הטכנולוגיה תאפשר לחלליות וספינות כימרה להוציא טיול ממוקד פחות תלוי בשמש, במיוחד בעומק החלל השחור. זו עוד הוכחה שהפוזיה גרעינית עוברת מחומר מדעי פנטזיה לפתרונות טכנולוגיים אמיתיים.",
     "d": "Thu, 09 Apr 2026 15:18:08 +0000",
     "v": 0,
     "l": [
@@ -6292,7 +6288,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 262,
-    "t": "The New York Times Says It’s Identified the Creator of Bitcoin\n\nIs this *finally* the guy?\nThe post The New York Times Says It’s Identified the Creator of Bitcoin appeared first on Futurism.",
+    "t": "ניו יורק טיימס טוענת שזיהתה את יוצר ביטקוין\n\nכמו בסרט קריימינל שמחזיר את המקרה הישן לסדר היום - הפעם הטיימס מגיעה בטענה שהיא סוף סוף זיהתה את בן אדם שמאחורי ביטקוין, המטבע הדיגיטלי הסתום ביותר שעד היום לאף אחד לא הצליח לחזור אליו באופן משכנע. אם זה נכון, זה עלול להיות חשיפה ענקית שתאיר פינות אפלות שנשארו בחושך במשך 15 שנה.",
     "d": "Thu, 09 Apr 2026 11:12:24 -0400",
     "v": 0,
     "l": [
@@ -6315,7 +6311,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 263,
-    "t": "Intel's EMIB-T packaging technology set for fab rollout this year — as TSMC CoWoS capacity remains limited,EMIB-T is preparing for advanced AI accelerator designs\n\nIf these “billions per year” in deals close, it’d mark quite the turnaround for Intel Foundry, which generated just $307 million in external revenue last year.",
+    "t": "טכנולוגיית ההדבקה EMIB-T של אינטל מתחילה לגלגל בשנת 2024 — בזמן שכושר הייצור של TSMC CoWoS מוגבל, EMIB-T מתכינה עצמה לעיצובי מאיצי AI מתקדמים\n\nאם העסקאות הענקיות האלה (בערך מיליארדים בשנה) יסגרו, זה יהיה היפוך דרמטי עבור אינטל מייסדת, שהכנסה חיצונית שלה בשנה שעברה הייתה רק 307 מיליון דולר. אינטל מנסה להשתלח בשוק הייצור של שבבים עם פתרון שכל החברות הטכנולוגיות הגדולות מחפשות - אופן יעיל לייצר מאיצי AI שמתחרים בפתרונות של TSMC.",
     "d": "Thu, 09 Apr 2026 15:09:42 +0000",
     "v": 0,
     "l": [
@@ -6330,16 +6326,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/qXjw6K9cVJzeNZurs6CD3H-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 264,
-    "t": "Bryson DeChambeau to use 3D-printed 5-iron at 2026 Masters in golfing first — club he fabricated himself 'finally ready' to face Augusta\n\nBryson DeChambeau will use a 3D-printed 5-iron at the Masters this weekend.",
+    "t": "ברייסון דיצ'אמבו יהיה הראשון בהיסטוריה: יוודא 5-Iron מודפס תלת-מימד במסטרס 2026\n\nברייסון דיצ'אמבו, גולף כושל שעשה לעצמו שם בעזרת טכנולוגיה, עומד להשתמש בעץ גולף שהדפיס בעצמו בתלת-מימד במסטרס השנה. המועדון שלו, שעבד עליו כבר הרבה זמן, סוף סוף מוכן להתחרות בשדה האגדי של אוגוסטה. זה רגע היסטורי בעולם הגולף - לראשונה יוודא שחקן מקצוע בטורניר גדול כלי שהוא בעצמו יצר בעזרת טכנולוגיית 3D printing.",
     "d": "Thu, 09 Apr 2026 15:08:12 +0000",
     "v": 0,
     "l": [
@@ -6362,7 +6357,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 265,
-    "t": "Agentic AI’s governance challenges under the EU AI Act in 2026\n\nAI agents hold the promise of automatically moving data between systems and triggering decisions, but in some cases, they can act without a clear record of what, when, and why they undertook their tasks. That has the potential to create a governance problem, for which IT leaders are ultimately responsible. If an organisation can’t trace […]\nThe post Agentic AI’s governance challenges under the EU AI Act in 2026 appeared first on AI News.",
+    "t": "אתגרי הממשל של Agentic AI תחת חוק ה-AI של האיחוד האירופי ב-2026\n\nAI agents מבטיחים לפשט מעברי נתונים בין מערכות וקבלת החלטות אוטומטיות, אבל הבעיה היא שלפעמים הם פועלים בלי שום רישום ברור של מה, מתי ולמה הם עשו את זה. זה יוצר בעיה ממשלתית שכבר בשנת 2026 עלולה להגיע לחזית ההגנה, וקובעי המדיניות בחברות יצטרכו לחשוב בעמוק איך הם יכולים לעקוב ולהיות אחראים לפעולות ה-AI האלה. כשהחוק החדש של האיחוד האירופי נחוק, אנחנו כנראה נראה הרבה פחות 'black box' ו-AI agents יצטרכו להיות הרבה יותר שקופים.",
     "d": "Thu, 09 Apr 2026 15:02:00 +0000",
     "v": 0,
     "l": [
@@ -6378,7 +6373,6 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "regulation",
       "agents"
     ],
     "imp": "low",
@@ -6387,7 +6381,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 266,
-    "t": "OpenAI puts Stargate UK on ice, blames energy costs and red tape\n\nSam Altman's datacenter dreams hit a wall of watts and wonkery, cooling Britain's AI ambitions OpenAI is pausing its planned Stargate datacenter project in the UK just months after announcing it, citing the regulatory environment and cost of energy as reasons for putting it on hold.…",
+    "t": "OpenAI מקפיאה את פרויקט Stargate בבריטניה - העלויות והביורוקרטיה המקומית יותר חזקות מהחלומות\n\nסם אולטמן ושחקני OpenAI גילו שבנייה של מרכז נתונים ענקי בבריטניה זה לא כל כך פשוט - הם עלי לעצור את הפרויקט בשלב זה בגלל עלויות החשמל המשוגעות וההנחיות הרגולטוריות הקשוחות של הבריטים. אלה הם הדברים שהופכים את החלומות של AI לתופעות כלכליות קשות שדורשות בדיקה מחדש של המספרים והאסטרטגיה.",
     "d": "2026-04-09T14:54:41.000Z",
     "v": 0,
     "l": [
@@ -6413,7 +6407,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 267,
-    "t": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter\n\nAndy Jassy's annual shareholder letter reads something like a diss track to a wide range of competitors as he defends spending $200 billion in capex.",
+    "t": "מנכ\"ל אמזון תוקף את נוויידיה, אינטל, סטארלינק ועוד בכתב השנתי לבעלי מניות\n\nאנדי ג'סי התגונן בכתבו השנתי על הוצאה של 200 מיליארד דולר בהשקעות בתשתיות, וביצע סיבוב מסודר של ביקורות על המתחרים הגדולים של אמזון. הכתב קורא כמו שיר דיס אמיתי שבו ג'סי מנקה את ההוצאות העצומות בתחום ה-AI והשרתים שלהם כחיוני לעתידו של הענף.",
     "d": "Thu, 09 Apr 2026 14:27:57 +0000",
     "v": 0,
     "l": [
@@ -6426,23 +6420,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Nvidia",
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "hardware",
-      "product",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 268,
-    "t": "Meta commits to spending additional $21 billion with CoreWeave as AI costs keep rising\n\nMeta's additional spending commitments with CoreWeave will be deployed from 2027 to 2032.",
+    "t": "מטא מתחייבת להוציא 21 מיליארד דולר נוספים ל-CoreWeave כשעלויות ה-AI ממשיכות לעלות\n\nמטא משקיעה בעצמה: החברה הבטיחה הוצאה של 21 מיליארד דולר נוספים לחברת CoreWeave, ספקית GPU בענן, בשנים 2027-2032. זה עוד סימן לכמה יקרים נהיו infrastructure costs של AI בימים אלה, והחברות הגדולות לא חוסכות בהוצאות כדי להישאר בתחרות. מקור: CNBC Tech",
     "d": "Thu, 09 Apr 2026 14:22:08 GMT",
     "v": 0,
     "l": [
@@ -6456,20 +6444,19 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Meta"
+      "Nvidia"
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "hardware"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 269,
-    "t": "OpenAI pulls out of landmark £31bn UK investment package\n\nArtificial intelligence company cites high energy costs and regulation as reasons for putting Stargate project on hold\n\nBusiness live – latest updates\n\nOpenAI has put plans for a landmark project to strengthen the UK’s AI capabilities on hold, citing high energy costs and regulation.\nStargate UK was a part of the landmark UK-US AI deal announced last September, in which US companies appeared to commit £31bn to the UK’s tech sector, part of a larger series of investments intended to “mainline AI”",
+    "t": "OpenAI נסוגה מעסקת השקעה ענקית בבריטניה בשווי 31 מיליארד ליש״ט\n\nOpenAI החליטה להשהות את פרויקט Stargate בבריטניה, חלק מהעסקה אמריקאית-בריטית ענקית שהוכרזה ספטמבר שעבר, בגלל עלויות חשמל גבוהות ותקינה מגבילה. זה נראה כמו תקלה משמעותית לתוכניות הממלכה המאוחדת להפוך למרכז AI עולמי, במיוחד אחרי שהממשלה הבטיחה השקעות אמריקאיות בעבור חוזק טכנולוגי. ככל הנראה, זה עוד הוכחה לכך שגם ענקיות AI צריכות מחירי חשמל סבירים כדי לבנות מסחים (פתיח משחק למטבח הביתי).\n\nמקור: The Guardian AI",
     "d": "Thu, 09 Apr 2026 14:20:41 GMT",
     "v": 0,
     "l": [
@@ -6487,17 +6474,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation",
-      "funding"
+      "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/bf08861fd7861bbbe9967037a5888c05a634bc7f/414_0_2672_2138/master/2672.jpg?width=140&quality=85&auto=format&fit=max&s=20719f266cdf266649d8e1c46bda2cc1",
     "source": "The Guardian AI"
   },
   {
     "id": 270,
-    "t": "Google expands partnership with Intel for AI chips\n\nGoogle has committed to using multiple generations of Intel chips to power its AI data centers, in an expansion of an existing partnership.",
+    "t": "גוגל מרחיבה את שיתוף הפעולה עם אינטל לשיפור ה-AI\n\nגוגל התחייבה להשתמש בדורות מרובים של שבבי אינטל כדי להנעיל את מרכזי הנתונים שלה לـ-AI, במהלך הרחבה של שיתוף פעולה קיים. זה בעצם אומר שגוגל הולכת להישאר נאמנה לאינטל בשנים הקרובות, במקום להסתמך רק על שבביה הביתיים של גוגל. נתון חשוב לעקוב אחריו בתחום ה-AI infrastructure בארץ המובילה בטכנולוגיה. מקור: CNBC Tech",
     "d": "Thu, 09 Apr 2026 14:15:55 GMT",
     "v": 0,
     "l": [
@@ -6510,20 +6495,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 271,
-    "t": "Amazon CEO Jassy defends $200 billion AI spend: \"We're not going to be conservative\"\n\nAmazon shares have struggled so far this year as investors question the company's aggressive AI spending plans.",
+    "t": "מנכ״ל אמזון ג׳אסי מגן על הוצאת 200 מיליארד דולר לבינה מלאכותית: \"לא הולכים להיות שמרניים\"\n\nאמזון החליטה להטביע סכום ענק של 200 מיליארד דולר בהשקעות AI, ובניגוד לדעות המהססות בוול סטריט, ג׳אסי מתעקש שהחברה צריכה ללכת לפחות עם הרגל כבדה בתחום הבינה המלאכותית. המניה של אמזון סבלה עד כה השנה מהערכות שאלה של משקיעים שחוששים מההוצאות האלו, אבל ההנהלה בוודאות לא מתכוונת להאט את הקצב.",
     "d": "Thu, 09 Apr 2026 14:13:17 GMT",
     "v": 0,
     "l": [
@@ -6536,21 +6518,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 272,
-    "t": "First, Tesla canceled the Model 2—now it's working on a new small EV\n\nAfter the pivot to humanoid robots and AI, does Tesla want to be a car company again?",
+    "t": "תחילה טסלה ביטלה את ה-Model 2 - עכשיו היא עובדת על רכב חשמלי קטן חדש\n\nאחרי שטסלה התמקדה בروבוטים הומנואידים ו-AI, היא חוזרת להיות חברת רכב? אילון מאסק ודרגו פחות או יותר שכחו מהם, אבל נראה שברקע הם עדיין עובדים על רכב חשמלי זול שיוכל להתחרות בשוק ההמוני - דוקא אחרי שביטלו את ה-Model 2 שהיה אמור להיות הפתיחה הזאת.",
     "d": "Thu, 09 Apr 2026 14:10:40 +0000",
     "v": 0,
     "l": [
@@ -6565,8 +6543,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1311107789-1152x648.jpg",
@@ -6574,7 +6551,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 273,
-    "t": "Dyson stuck a near-silent 65,000-RPM motor in its new handheld fan\n\nIf your body typically runs hot, or you find yourself out in the sun often, Dyson's got something to show you. Its new handheld fan packs possibly the most powerful motor you can safely fit into a gadget of this size, and doesn't make a big ol' racket.\nContinue Reading\nCategory: Consumer Tech, Technology\nTags: Fan cooling, Dyson",
+    "t": "דייסון הכניסה מנוע שקט כמעט ב-65,000 סל\"ד לתוך מניפה ניידת חדשה\n\nדייסון החליטה לתת מענה למי שמרגיש חום כל הזמן או מבלה הרבה זמן בשמש, עם מניפה ניידת שמצטיידת במנוע חזק יותר מכל מה שאתה יכול להכניס בעדינות לגאדג'ט בגודל הזה - וזה בדיוק לא יוצר רעש מטורף. הטכנולוגיה של דייסון הצליחה שוב לעשות דברים שנראו בלתי אפשריים, השלבה של כוח עם שקט.",
     "d": "Thu, 09 Apr 2026 14:07:00 GMT",
     "v": 0,
     "l": [
@@ -6597,7 +6574,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 274,
-    "t": "We Talked to a Writer Accused of Publishing An AI-Generated Essay in The New York Times\n\n\"I asked AI, 'Okay, boil this down for me. Take everything — every scrap of information on the internet that you can find — to help me get this essay published in the Times.'\"\nThe post We Talked to a Writer Accused of Publishing An AI-Generated Essay in The New York Times appeared first on Futurism.",
+    "t": "שיחה עם הסופר שהואשם בפרסום מאמר שנוצר בעזרת AI בניו יורק טיימס\n\nסופר מודה שהשתמש ב-AI כדי לעזור לו לכתוב מאמר שפורסם בניו יורק טיימס, ודרש מהמודל לאסוף את כל המידע שזמין ברשת כדי להצליח בעלילה הזו. ההודאה הזו עוררת שוב את השאלה הקשה על הגבול בין שימוש סביר בכלים טכנולוגיים לבין הונאה עערורית במדיה מרכזית.",
     "d": "Thu, 09 Apr 2026 10:06:48 -0400",
     "v": 0,
     "l": [
@@ -6620,7 +6597,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 275,
-    "t": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now\n\nTuesday, April 21, 2026 Join us for a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review’s signature conference for AI leadership. Subscribers will see an exclusive first look at a new list capturing 10 key technologies, emerging trends, bold ideas, and powerful movements in AI that you need to know about…",
+    "t": "Roundtables: 10 הדברים החשובים ביותר ב-AI כרגע\n\nMIT Technology Review מגישה לכם רשימה בלעדית של 10 טכנולוגיות ותרندים קריטיים שאתם חייבים להכיר בעולם ה-AI היום. האירוע יתקיים בשידור חי מ-EmTech AI, הכנס הגדול של MIT להנהלה ב-AI, ומנויים יקבלו גישה ראשונה לתובנות על הטכנולוגיות החדשות, הרעיונות הגדולים והתנועות החזקות שמעצבות את השדה כרגע.",
     "d": "Thu, 09 Apr 2026 14:01:47 +0000",
     "v": 0,
     "l": [
@@ -6643,7 +6620,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 276,
-    "t": "Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket\n\nTicket discounts of up to $500 will end tomorrow, April 10, at 11:59 p.m. PT. After that, prices for TechCrunch Disrupt 2026 go up again. Miss this, and you’ll be paying more for the same access to one of the most anticipated tech epicenters of the year. Register now to lock in these savings.",
+    "t": "48 שעות נותרו לחסוך עד 500 דולר על כרטיס TechCrunch Disrupt 2026\n\nאם אתם חושבים להשתתף ב-TechCrunch Disrupt 2026, זו הזדמנות האחרונה שלכם - ההנחות של עד 500 דולר מסתיימות מחר (10 באפריל) בשעה 11:59 בערב PT, ואחרי זה המחירים עולים חזרה. אם פספסתם, תצטרכו לשלם יותר על אותו הגישה לאחד מהאירועים הטכנולוגיים החשובים ביותר של השנה. מה שנותר לכם זה להירשם עכשיו כדי לנעול את ההנחות האלה.",
     "d": "Thu, 09 Apr 2026 14:00:00 +0000",
     "v": 0,
     "l": [
@@ -6666,7 +6643,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 277,
-    "t": "The AI industry’s race for profits is now existential\n\nToday on Decoder, let’s talk about the looming AI monetization cliff, and whether some of the biggest companies in the space can become real, profitable businesses before they careen right off it.\nMy guest today is Hayden Field, who’s our senior AI reporter here at The Verge. She’s been keeping close tabs on both Anthropic and OpenAI, and how these two companies in particular tell us a whole lot about the AI industry in 2026. \nYou’ve certainly heard a version of the monetization cliff story befo",
+    "t": "מרוץ הרווחים של תעשיית AI הפך לקיומי\n\nהתעשיית AI עומדת בפני משבר כלכלי משמעותי - חברות גדולות כמו OpenAI ו-Anthropic צריכות להוכיח שהן יכולות להפוך לעסקים רווחיים בעוד שהם עדיין משקיעים מיליארדים בפיתוח המודלים. בתוכנית זו, כתבת ה-AI הבכירה של The Verge דנה בשאלה המרכזית: האם לחברות הללו יש מספיק זמן כדי להגיע לרווחיות לפני שהכסף ייגמר?",
     "d": "2026-04-09T14:00:00.000Z",
     "v": 0,
     "l": [
@@ -6687,13 +6664,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 278,
-    "t": "Trump's emergency orders pushing coal power are \"illegal\" as well as dumb\n\nA World War II-era policy is stopping old coal plants from closing.",
+    "t": "פקודות החירום של טראמפ לקידום אנרגיית פחם הן \"בלתי חוקיות\" וגם לא חכמות\n\nטראמפ משתמש בחוק עתיק מתקופת מלחמת העולם השנייה כדי למנוע סגירת תחנות פחם ישנות, והצעד הזה יוצר פקפוק משפטי וסביבתי גדול. מומחים טוענים שזה לא רק מהלך בעייתי מבחינה חוקית, אלא גם החלטה לא חכמה מבחינה כלכלית וסביבתית.",
     "d": "Thu, 09 Apr 2026 13:54:30 +0000",
     "v": 0,
     "l": [
@@ -6708,8 +6685,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1558526744.jpg",
@@ -6717,7 +6693,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 279,
-    "t": "OpenAI reportedly following Anthropic's lead in restricting access to powerful cybersecurity AI\n\nOpenAI is also working on a new AI model with advanced cybersecurity capabilities that will only be available to a small group of companies, according to Axios.\nThe article OpenAI reportedly following Anthropic's lead in restricting access to powerful cybersecurity AI appeared first on The Decoder.",
+    "t": "OpenAI הולכת בעקבות Anthropic וממגבילה את הגישה ל-AI חזק לאבטחת סייבר\n\nOpenAI מפתחת מודל AI חדש עם יכולות אבטחת סייבר מתקדמות שיהיה זמין רק לקבוצה קטנה של חברות, לפי דיווח של Axios. כנראה שגם OpenAI מחליטה שצריך להיות זהירים עם כלים חזקים כאלה ולא להפיץ אותם לכל אחד - בדיוק כמו שעשתה Anthropic עם הטכנולוגיות שלה. (מקור: The Decoder)",
     "d": "Thu, 09 Apr 2026 13:47:26 +0000",
     "v": 0,
     "l": [
@@ -6736,16 +6712,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 280,
-    "t": "Eurofighter Typhoon launches 70 mm laser rockets in new low-cost anti-drone test\n\nOn April 8, BAE Systems announced it had successfully test-fired a low-cost precision weapon from...",
+    "t": "קרבות אוויר חדשים: מטוסי Eurofighter Typhoon שלחו רקטות לייזר בנגד דרונים\n\nBAE Systems הצליחה בבדיקה חדשה של נשק דיוקי לעלות נמוכה שיוצא מ-Eurofighter Typhoon, שנועד להתמודד עם איום הדרונים הגדל. הנשק המיוחד הזה משלב טכנולוגיית לייזר 70 מ\"מ יחד עם יכולות מדויקות, מה שמצטיין כפתרון חסכוני וחזק לאתגרי התעופה המודרניים. זו קפיצה משמעותית בתחום הגנת צבאות אוויר במערב, במיוחד כשמדובר בהתמודדות עם איומים קטנים ומהירים.",
     "d": "Thu, 09 Apr 2026 13:46:16 +0000",
     "v": 0,
     "l": [
@@ -6762,13 +6737,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "Interesting Engineering"
   },
   {
     "id": 281,
-    "t": "Swiss scientists crack quantum noise problem with 99.9% accurate swap gate\n\nScientists in Switzerland have come closer to building stable quantum computers after developing a swap...",
+    "t": "מדענים שוויצריים פתרו את בעיית הרעש הקוונטי עם שער החלפה בדיוק של 99.9%\n\nחוקרים בשוויץ הצליחו להתקרב משמעותית לבניית מחשבים קוונטיים יציבים יותר, לאחר שפיתחו שער החלפה (swap gate) קוונטי עם דיוק מדהים של 99.9% - וזה קיצוני כי בעיית הרעש הקוונטי הייתה אחד המחסומים הגדולים בתחום. התגלית הזו יכולה להיות משחק משנה בדרך להשגת מחשוב קוונטי מעשי בעולם האמיתי.",
     "d": "Thu, 09 Apr 2026 13:44:09 +0000",
     "v": 0,
     "l": [
@@ -6791,7 +6766,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 282,
-    "t": "PromptEditor\n\nDiscussion\n            |\n            Link",
+    "t": "PromptEditor\n\nכלי חדש שנועד לעזור למשתמשים לכתוב ולעצב prompts טובים יותר עבור AI models - משהו שיכול להיות מציל חיים אם אתם עובדים הרבה עם ChatGPT או כלים דומים. זה בעצם text editor חכם שמעניק סיוע בזמן כתיבה כדי שהwording של השאלות שלכם יהיה קריסטלי. המשימה: לא עוד חיפוש ניסוי וטעייה כדי לקבל את התשובה שאתם רוצים מה-AI.",
     "d": "2026-04-09T13:39:28.000Z",
     "v": 0,
     "l": [
@@ -6804,9 +6779,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -6814,7 +6792,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 283,
-    "t": "Ultra drone can carry 220-lb payload over 621 miles for rescue, scientific missions\n\nBritish drone manufacturer Windracers is redefining the capabilities of unmanned aerial vehicles (UAVs) by prioritizing...",
+    "t": "הדרון החדש של Windracers יכול לשאת עומס של 100 ק\"ג למרחק של 1000 קילומטר\n\nיצרנית הדרונים הבריטית Windracers פתחה דרון מהפכני שמשנה את כללי המשחק בעולם כלי הטיס ללא אדם - המכונה Ultra יכולה לשאת עומסים כבדים במיוחד למרחקים ענקיים שלא היו אפשריים עד עכשיו. הטכנולוגיה החדשה הזו פותחת דלתות למשימות חילוץ, מחקר מדעי וספקת סיוע במקומות מרוחקים ותעלומתיים שעד לפני מעט שנים נראו כבלתי אפשריים. כל זה בזכות שיפורים משמעותיים בדיוק הנווט, יעילות הדלק וקיבולת הטעינה של כלים אלה.",
     "d": "Thu, 09 Apr 2026 13:38:56 +0000",
     "v": 0,
     "l": [
@@ -6837,7 +6815,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 284,
-    "t": "Meta's long-awaited AI model is finally here. But can it make money?\n\nAfter releasing its first major AI model in a year, Meta now has to figure out how to turn it into a business.",
+    "t": "מודל ה-AI של מטא סוף סוף הגיע - אבל האם זה יכול להרוויח כסף?\n\nמטא השיקה סוף סוף את מודל ה-AI הגדול שלה השנה, אבל עכשיו מתחיל החלק הקשה - איך בעצם להפוך את הטכנולוגיה הזו למשהו שיוצר רווחים. השאלה שמעסיקה את כל החברה כרגע היא פשוט: איך אתה הופך AI מדהים למכונת הכנסות?",
     "d": "Thu, 09 Apr 2026 13:38:52 GMT",
     "v": 0,
     "l": [
@@ -6850,12 +6828,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -6863,7 +6838,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 285,
-    "t": "Orbit Money\n\nDiscussion\n            |\n            Link",
+    "t": "Orbit Money\n\nסטארטאפ חדש שנוכל להיות מדברים עליו בקרוב - Orbit Money הוא כלי פיננסי שמטרתו לפשט את ניהול הכסף והחסכונות שלכם. המוצר זה עלה ל-Product Hunt והוא כבר יוצר סערה קטנה בקהילת האתחול הישראלית.",
     "d": "2026-04-09T13:38:35.000Z",
     "v": 0,
     "l": [
@@ -6886,7 +6861,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 286,
-    "t": "New Stanford study reveals when teaming up AI agents is worth the compute\n\nMulti-agent AI systems are widely considered more capable. A Stanford study shows their apparent advantage largely comes from using more compute. But there are important exceptions.\nThe article New Stanford study reveals when teaming up AI agents is worth the compute appeared first on The Decoder.",
+    "t": "מחקר סטנפורד חושף: מתי כדאי להשקיע כוח חישוב בשיתוף פעולה של AI agents\n\nלמשך זמן חשבנו שמערכות של מספר AI agents הן יותר חזקות, אבל מחקר חדש מסטנפורד מגלה שרוב היתרון הזה בעצם מגיע מכך שאנחנו משקיעים בהם יותר compute - כלומר, זה לא קסם, זה כוח גולם. עם זאת, יש חריגות חשובות למדי שמוכיחות שבמקרים מסוימים באמת כדאי להטיל קוביות על מימדי agents שעובדים ביחד. מקור: The Decoder",
     "d": "Thu, 09 Apr 2026 13:32:07 +0000",
     "v": 0,
     "l": [
@@ -6904,13 +6879,13 @@ window.TELEGRAM_DATA = [
       "news",
       "agents"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 287,
-    "t": "Minty\n\nDiscussion\n            |\n            Link",
+    "t": "Minty\n\nנראה שיש כאן משהו חדש וטרי שהגיע ל-Product Hunt, אבל הפרטים הספציפיים על מה בדיוק Minty עדיין לא ברורים לחלוטין. אם אתם סקרנים ללמוד עוד, כדאי להיכנס ישירות לדיון באתר כדי לשמוע מה יוצרי המוצר אומרים. זה עוד אחד מהמוצרים שצריך לעקוב אחריו בימים הקרובים.",
     "d": "2026-04-09T13:27:30.000Z",
     "v": 0,
     "l": [
@@ -6933,7 +6908,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 288,
-    "t": "100-foot tall US nuclear DOME launched for advanced 20 MW microreactor testing\n\nThe Idaho National Laboratory (INL) has officially opened the Demonstration of Microreactor Experiments (DOME) nuclear...",
+    "t": "רכיבה גרעינית בגובה 100 מטר: ארה\"ב משיקה מתקן בדיקות מיקרוריאקטור בהספק 20 מגוואט\n\nמעבדת הגרעין של אידהו (INL) פתחה רשמית את מתקן DOME, פרויקט ענק לבדיקת מיקרוריאקטורים מתקדמים שיכולים לשנות את עולם האנרגיה הגרעינית. המתקן הצנום הזה עשוי לפתוח דלתות להנעת מרכזי נתונים וחיזוי אנרגיה עתידית בטוחה ויעילה הרבה יותר מהגנרטורים המסורתיים.",
     "d": "Thu, 09 Apr 2026 13:23:56 +0000",
     "v": 0,
     "l": [
@@ -6956,7 +6931,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 289,
-    "t": "China tests 500-ton machine that can excavate to depths exceeding 3,280 feet\n\nA new Chinese machine could reportedly help unlock the hidden world of wealth buried beneath...",
+    "t": "סין בדקה מכונה של 500 טון שיכולה לחפור לעומקים העולים על 3,280 רגל\n\nסין חשפה מכונה חדשה שעלולה להיות גם דיג בחשמל וגם כלים לחציבה עמוקה - היא יכולה לחדור לעומקים של יותר מקילומטר אחד, מה שיפתח גישה לעשירויות מינרליות שתמיד היו אי-נגישות. המכונה המפחידה הזאת שוקלת 500 טון ויכולה להשנות לחלוטין את תעשיית הכרייה והחציבה בעולם.",
     "d": "Thu, 09 Apr 2026 13:21:36 +0000",
     "v": 0,
     "l": [
@@ -6973,13 +6948,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "Interesting Engineering"
   },
   {
     "id": 290,
-    "t": "US scientists turn plastic waste into fuel with 60% gasoline yield at 392°F\n\nUS researchers at Oak Ridge National Laboratory (ORNL) have found a new way to turn...",
+    "t": "מדענים אמריקאים הופכים פחי פלסטיק לדלק עם תשואה של 60% בנזין ב-200 מעלות צלזיוס\n\nחוקרים מעבדת Oak Ridge הצליחו להמציא תהליך חדש שהופך פסולת פלסטיק ישירות לדלק בנזין, עם יעילות מרשימה של 60%. השיטה עובדת בטמפרטורה נמוכה יחסית של 200 מעלות צלזיוס, מה שעשוי להיות משחק חדש לחלוטין בתחום המחזור ופתרון בעיית זיהום הפלסטיק. זו לא רק טכנולוגיה ירוקה - היא יכולה להיות מסחרית בחזרה אל הכיס שלנו.",
     "d": "Thu, 09 Apr 2026 13:12:09 +0000",
     "v": 0,
     "l": [
@@ -7002,7 +6977,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 291,
-    "t": "Naked Man Bursts Into Tesla Service Center With a Shotgun\n\nThat's one way to start the day!\nThe post Naked Man Bursts Into Tesla Service Center With a Shotgun appeared first on Futurism.",
+    "t": "גבר עירום במטען כלי ירייה פרץ למרכז שירות של טסלה\n\nסיפור משוגע שהתחיל בבוקר אחד במרכז השירות של טסלה כשגבר עירום הופיע עם כלי ירייה. זה בטח לא היום רגיל בעבודה עבור העובדים שם, וקשה לדמיין איך זה התפתח. המקרה המוזר הזה הופיע ב-Futurism.",
     "d": "Thu, 09 Apr 2026 09:07:12 -0400",
     "v": 0,
     "l": [
@@ -7025,7 +7000,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 292,
-    "t": "UK navy tracked three Russian submarines near undersea cables, damage would 'have serious consequences,' Putin warned — US and allies expand seabed protection efforts\n\nA Royal Navy warship and P8 maritime patrol aircraft have tracked three Russian submarines, including two Gugi-class deep-sea vessels, attempting to survey undersea cables and pipelines.",
+    "t": "הצי הבריטי עקב אחרי שלוש חיות תת-ימיות רוסיות ליד כבלים תת-ימיים - פוטין הזהיר על הקונסקוונסים החמורים\n\nהצי המלוכתי הבריטי וטיסות סיור ימיות של ה-P8 עקבו אחרי שלוש חיות תת-ימיות רוסיות, כולל שתי כלים מדגם Gugi, שניסו למפות כבלים תת-ימיים וצינורות גז. מהלך זה הוא חלק מהתגברות המאמצים של בריטניה וברייתה להגן על התשתיות הקריטיות בים, לאחר אזהרות של בכירים רוסים בדבר השלכות חמורות של פגיעה בכבלים.",
     "d": "Thu, 09 Apr 2026 12:59:25 +0000",
     "v": 0,
     "l": [
@@ -7048,7 +7023,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 293,
-    "t": "Microsoft developer chief Julia Liuson is logging off\n\nDeparture may accelerate further AI-centric moves for programming tools Julia Liuson, president of Microsoft's developer division (DevDiv), will resign at the end of June, though she will continue in an advisory role.…",
+    "t": "נשיאת חטיבת המפתחים של מיקרוסופט ג'וליה ליוסון עוזבת את התפקיד\n\nג'וליה ליוסון, שהובילה את חטיבת המפתחים של מיקרוסופט (DevDiv), תעזוב את התפקיד בסוף יוני אבל תישאר במשקיע עצות - צעד שעשוי להאיץ את המהלך של מיקרוסופט לעבר כלים פיתוח יותר מכוונים ל-AI. הפרידה הזו יכולה להיות נקודת ציון בדרך החברה להשקיע עוד יותר בשילוב בינה מלאכותית בתוך הסביבה שלה למפתחים.",
     "d": "2026-04-09T12:38:38.000Z",
     "v": 0,
     "l": [
@@ -7061,12 +7036,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -7074,7 +7046,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 294,
-    "t": "Video: Ukraine unveils 50-mile range multi-role naval drone\n\nA new unmanned surface vehicle (USV) is being introduced into Ukraine’s growing portfolio of naval...",
+    "t": "וידאו: אוקראינה חושפת דרון ימי רב-תכליתי בטווח של 80 קילומטר\n\nאוקראינה הציגה כלי ימי חדש ללא אנוש (USV) שמסוגל להגיע לטווח של 80 קילומטר, בהוכחה נוספת של היצירתיות הצבאית של המדינה בתנאי מלחמה. הדרון הימי החדש מצטרף לכוח גדל של כלים אוטונומיים שאוקראינה מפתחת כדי להתמודד עם הצי הרוסי בים השחור ובאזורים ימיים אחרים. זה עוד סימן לאיך מלחמה מודרנית משנה את כללי המשחק בתחום הציוד צבאי.",
     "d": "Thu, 09 Apr 2026 12:37:47 +0000",
     "v": 0,
     "l": [
@@ -7097,7 +7069,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 295,
-    "t": "Iran says U.S. breached ceasefire, Anthropic's court loss, rate cut odds and more in Morning Squawk\n\nHere are five key things investors need to know to start the trading day.",
+    "t": "איראן טוענת להפרת ה休fire אמריקאית, הפסד בבית משפט ל-Anthropic, סיכויי הורדת ריבית ועוד בSquawk הבוקר\n\nחמש דברים חיוניים שכל משקיע צריך לדעת לפני פתיחת המסחר - כולל התפתחויות גיאופוליטיות שעלולות להשפיע על השווקים, משברים משפטיים שחוגרים את עולם הAI, וניתוחי כלכלה מאקרו שעשויים להשנות את כיווני ההשקעות.",
     "d": "Thu, 09 Apr 2026 12:33:00 GMT",
     "v": 0,
     "l": [
@@ -7115,8 +7087,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -7124,7 +7095,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 296,
-    "t": "World-first: Scientists observe particles emerging from nothing in collider\n\nScientists at the Relativistic Heavy Ion Collider have observed particles emerging directly from empty space...",
+    "t": "פריצה עולמית: מדענים צפו בחלקיקים שמופיעים מאין אומץ במכונת ההתנגשויות\n\nזה קרה בפועל - מדענים בקוליידר RHIC הצליחו לתפוס לראשונה חלקיקים שצצים ישירות מהחלל הריק, כלומר בלא שום דבר שהיה שם קודם. התגלית המדהימה הזו יכולה לשנות את ההבנה שלנו לגבי הפיזיקה של היקום וזה כבר בחזית המדע העולמי.",
     "d": "Thu, 09 Apr 2026 12:32:17 +0000",
     "v": 0,
     "l": [
@@ -7147,7 +7118,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 297,
-    "t": "Geely's new EV battery goes 10 to 70% in just 4 minutes 22 seconds\n\nThe electric vehicle (EV) space is in a weird one right now. On one hand, we’ve got brands chasing top speeds like there's no tomorrow. On the other hand, we’ve got a mileage battle popping up, with BYD claiming the top spot in that department (for now).\nContinue Reading\nCategory: Automotive, Transport\nTags: Geely, Lynk & Co, BYD, Electric Vehicles, Battery Electric Vehicles, Battery Technology",
+    "t": "הסוללה החדשה של Geely עולה מ-10% ל-70% תוך רק 4 דקות ו-22 שניות\n\nבשוק הרכב החשמלי קורה עכשיו משהו מעניין - בזמן שכמה יצרנים מתחרים על מהירויות קיצוניות, אחרים כמו Geely ו-BYD מתמקדים בטכנולוגיית הסוללה והטווח. Geely בא עכשיו עם כמות מטורפת - סוללה שנטענת מ-10 עד 70 אחוז תוך פחות מ-5 דקות, וזה משהו שיכול לשנות את המשחק בתחום הטעינה המהירה של כלים חשמליים.",
     "d": "Thu, 09 Apr 2026 12:26:39 GMT",
     "v": 0,
     "l": [
@@ -7170,7 +7141,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 298,
-    "t": "The Download: AstroTurf wars and exponential AI growth\n\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is fake grass a bad idea? The AstroTurf wars are far from over.  In 2001, Americans installed just over 7 million square meters of synthetic turf. By 2024, that number was 79 million square meters—enough to carpet all of Manhattan and then some. The…",
+    "t": "ההורדה: מלחמות הדשא הסינתטי וגדילה אקספוננציאלית של AI\n\nבחדשות הטכנולוגיה של היום: הדיון על דשא סינתטי (AstroTurf) בארה\"ב מתחמם - בעוד שניים וחצי עשורים קפצו מ-7 מיליון מ\"ר ל-79 מיליון מ\"ר, כמו שכיסינו את כל מנהטן וגם יותר. זאת רק הנושא הראשון בעלון הידע היומי של MIT, שגם עוקב אחרי הקצב הפראי של גדילת ה-AI ויתר התופעות הטכנולוגיות החמות של היום.",
     "d": "Thu, 09 Apr 2026 12:25:10 +0000",
     "v": 0,
     "l": [
