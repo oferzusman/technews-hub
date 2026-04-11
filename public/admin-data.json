@@ -1,9 +1,9 @@
 {
-  "total": 3408,
+  "total": 3421,
   "translated": 2263,
-  "untranslated": 1145,
-  "today": 176,
-  "week": 3355,
+  "untranslated": 1158,
+  "today": 189,
+  "week": 3368,
   "sources": [
     {
       "name": "Pypi.org",
@@ -19,13 +19,13 @@
     },
     {
       "name": "Product Hunt",
-      "total": 194,
+      "total": 199,
       "translated": 131,
       "lastDate": "2026-04-11T05:50:24.000Z"
     },
     {
       "name": "Futurism",
-      "total": 120,
+      "total": 121,
       "translated": 99,
       "lastDate": "Wed, 08 Apr 2026 16:29:40 -0400"
     },
@@ -85,7 +85,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 62,
+      "total": 63,
       "translated": 30,
       "lastDate": "Wed, 08 Apr 2026 23:24:03 +0000"
     },
@@ -103,7 +103,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 41,
+      "total": 43,
       "translated": 26,
       "lastDate": "Wed, 08 Apr 2026 18:00:03 +0000"
     },
@@ -132,6 +132,12 @@
       "lastDate": "2026-04-09T00:29:48Z"
     },
     {
+      "name": "MarkTechPost",
+      "total": 27,
+      "translated": 20,
+      "lastDate": "Wed, 08 Apr 2026 22:43:24 +0000"
+    },
+    {
       "name": "Financial Post",
       "total": 26,
       "translated": 16,
@@ -148,12 +154,6 @@
       "total": 24,
       "translated": 18,
       "lastDate": "2026-04-09T02:20:06Z"
-    },
-    {
-      "name": "MarkTechPost",
-      "total": 23,
-      "translated": 20,
-      "lastDate": "Wed, 08 Apr 2026 22:43:24 +0000"
     },
     {
       "name": "MIT Technology Review",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-11T09:36:55.290Z"
+  "generatedAt": "2026-04-11T10:18:35.030Z"
 }
