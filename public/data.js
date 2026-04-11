@@ -8357,7 +8357,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 349,
-    "t": "Artificial Intelligence (AI) in Football: How Technology is Revolutionizing Tactical Analysis and Injury Prevention\n\nDiscover how AI in football is changing tactical analysis with advanced data models and preventing injuries through workload and biomechanical monitoring.\n\nRead More: https://punchng.com/artificial-intelligence-ai-in-football-how-technology-is-revolutionizing…",
+    "t": "בינה מלאכותית בכדורגל: איך הטכנולוגיה משנה את ניתוח הטקטיקה והמניעה מפציעות\n\nAI משנה את המשחק בכדורגל - מודלים מתקדמים מנתחים טקטיקה כמו שלא היה אפשרי לפני, בעוד מערכות ניטור עומס וביומכניקה מונעות פציעות של שחקנים. זה כבר לא רק סטטיסטיקה יבשה - זה מדע אמיתי שמשנה את הספורט שלנו מבפנים.\n\nמקור: The Punch",
     "d": "2026-04-09T07:06:57Z",
     "v": 0,
     "l": [
@@ -8380,7 +8380,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 350,
-    "t": "Labelsets\n\nDiscussion\n            |\n            Link",
+    "t": "Labelsets\n\nכלי חדש שמופיע ב-Product Hunt שנראה קשור לארגון וניהול תווים או תוויות בנתונים. עדיין לא ברור בדיוק מה הפיצ'ר, אבל בהחלט כדאי להעיף מבט בדיון בקהילה כדי להבין איך זה יכול לעזור בעבודה שלכם עם מידע מובנה.",
     "d": "2026-04-09T07:05:34.000Z",
     "v": 0,
     "l": [
@@ -8403,7 +8403,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 351,
-    "t": "Column: Embodied AI reshapes real-world automation marks ChatGPT moment for robots\n\nLarge language models (LLMs) have demonstrated three surprising capabilities in recent years: generalization—providing reasonable answers to unseen questions; multitasking—handling programming, translation, financial analysis, and legal interpretation within …",
+    "t": "עמודת דעה: AI מגולם משנה את עולם האוטומציה - הרגע ChatGPT של הרובוטים הגיע\n\nמודלים שפתיים גדולים (LLMs) הוכיחו בשנים האחרונות יכולות שמעניינות: הם יכולים להתמודד עם שאלות שלא ראו מעולם, לעשות מלחמה במשימות שונות לגמרי - מתכנות ועד תרגום וניתוח כספי - וכל זה בתוך מודל אחד. עכשיו עומדת בפתח הדלת הרבה יותר עמוקה: רובוטים שפיזיים מתחילים להשתמש בכוח הזה כדי להבין את העולם האמיתי ולעצמם בו, ואנחנו כנראה נמצאים בתחילת מהפכה שווה למה שקרה ל-ChatGPT.",
     "d": "2026-04-09T07:04:31Z",
     "v": 0,
     "l": [
@@ -8421,8 +8421,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "robotics"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://img.digitimes.com/newsshow/20260409pd201_files/2_2b.jpg",
@@ -8430,7 +8429,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 352,
-    "t": "Elon Musk elevates Indian-origin trio to leadership roles in xAI overhaul\n\nElon Musk is overhauling xAI and, as a part of that, has appointed three Indian-origin engineers—Devendra Chaplot, Aman Madaan, and Aditya Gupta—to key roles in model training and development. The move comes as SpaceX prepares for an IPO and xAI works to impr…",
+    "t": "אילון מאסק מקדם שלישייה הודית-מוצא לתפקידי ממשל ב-xAI\n\nבמהלך עיצוב מחדש משמעותי של xAI, מאסק הימנה שלושה מהנדסים בעלי מוצא הודי - דבेנדרה צ'פלוט, עמן מדאן ואדיתיה גופטה - לתפקידים חשובים בהכשרת ודיוק מודלים של AI. צעד זה מגיע כשספייס X מתכינה להציע מניות לציבור ו-xAI שואפת לשיפור משמעותי בתחום ה-AI.",
     "d": "2026-04-09T07:02:58Z",
     "v": 0,
     "l": [
@@ -8453,7 +8452,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 353,
-    "t": "gemilive added to PyPI\n\nMinimal Gemini Live AI WebSocket proxy for FastAPI — plug and play voice + video AI.",
+    "t": "gemilive התווסף ל-PyPI\n\nסוף סוף יש לנו דרך קלה לחבר Gemini Live של גוגל ישירות ל-FastAPI - בלי כל הסיבוכים. זה proxy קטן וקל להשתמש שמאפשר לכם להוסיף voice ו-video AI ישר לפרויקט שלכם, כאילו מוסיפים ספרייה רגילה עוד אחת. קל, פשוט, ותופס.",
     "d": "2026-04-09T07:01:18Z",
     "v": 0,
     "l": [
@@ -8479,7 +8478,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 354,
-    "t": "3 top ASX ETFs to buy with $30,000 this month\n\nThese funds offer investors easy access to many of the best stocks in the world.\nThe post 3 top ASX ETFs to buy with $30,000 this month appeared first on The Motley Fool Australia.",
+    "t": "3 קרנות ETF מובילות ב-ASX שכדאי לך לקנות עם 30,000 שקל החודש\n\nאם אתה מחפש דרך פשוטה להשקיע בחברות הטובות בעולם, הקרנות האלה יכולות להיות הפתרון שלך - בלי צורך לבחור מניות בודדות. מדובר בכלים שנותנים גישה קלה לתיקים מגוונים של מניות בחו\"ל, וזה יכול להיות רעיון טוב לאלו שרוצים להתחיל להשקיע או להרחיב את התיק שלהם.",
     "d": "2026-04-09T07:01:14Z",
     "v": 0,
     "l": [
@@ -8502,7 +8501,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 355,
-    "t": "The New Kona Unity Might be the Ultimate Bikepacking Vessel\n\nKona's new Unity is a Bikepacking mule of a bicycle, ready for any adventure\nThe post The New Kona Unity Might be the Ultimate Bikepacking Vessel appeared first on Bikerumor.",
+    "t": "קונה יוניטי החדשה - אולי הגדול הביניים המושלם לנסיעות ביקפקינג\n\nקונה הוציאה מודל חדש שנראה כמו הפתרון המושלם למי שחולם על הרפתקאות דו-גלגלים ארוכות. היוניטי היא בעצם ״חמור\" ביקפקינג - אופניים חזקים ויציבים שמסוגלים לשאת עומסים כבדים ולהסתדר בכל סוג של שטח ותנאים. אם אתה חושב על טיול מדהים עם כל הציוד, הנה הרכב שאתה מחפש.",
     "d": "2026-04-09T07:01:00Z",
     "v": 0,
     "l": [
@@ -8525,7 +8524,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 356,
-    "t": "sage-ai-cli 1.5.2\n\nSage — a local-first AI coding CLI (like Claude Code, using free/open models)",
+    "t": "sage-ai-cli גרסה 1.5.2\n\nSage היא כלי CLI לקוד עם AI שעובדת ברמה המקומית על המחשב שלכם - בדומה ל-Claude Code אבל עם מודלים חינמיים וקוד פתוח. זה בעצם כמו שיתוף פעולה עם מתכנת AI שלא צריך ערך ובלוק קוד כדי לעבוד. מקור: Pypi.org",
     "d": "2026-04-09T07:00:31Z",
     "v": 0,
     "l": [
@@ -8551,7 +8550,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 357,
-    "t": "Digital Realty Targets Nearly S$7 Billion Investment to Strengthen Singapore as Asia Pacific AI Hub\n\nDigital Realty Targets Nearly S$7 Billion Investment to Strengthen Singapore as Asia Pacific AI Hub...",
+    "t": "Digital Realty משקיעה כ-7 מיליארד דולר סינגפור לחיזוק סינגפור כמרכז AI באסיה\n\nDigital Realty מתכננת השקעה거대ה של כמעט 7 מיליארד דולר סינגפור כדי להפוך את סינגפור למרכז ה-AI החשוב ביותר באזור אסיה פסיפיק. ההשקעה המסיבית הזו תכלול בנייה של מרכזי נתונים מתקדמים עם infrastructure לעבוד עם GPU וחישוביים כבדים שדרוש לאימון מודלים AI גדולים. זה סימן נוסף שסינגפור מתחזקת כנקודת המעצמה למימוש AI בעולם, במיוחד עם ההתחרות של חברות טק גדולות על תיעוד הגיאוגרפי החדש של computing בעידן ה-AI.",
     "d": "2026-04-09T07:00:00Z",
     "v": 0,
     "l": [
@@ -8564,18 +8563,20 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Nvidia"
+    ],
     "tags": [
       "news",
-      "funding"
+      "hardware"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://ml.globenewswire.com/Resource/Download/dabe9af5-a528-4432-8a44-867697ef609b",
     "source": "GlobeNewswire"
   },
   {
     "id": 358,
-    "t": "More Than Words\n\nMore Than Words\n\n \n\n\n \ncolleen.flaherty\n\nThu, 04/09/2026 - 03:00 AM\n\nPresidents give poor marks to higher ed on rebuilding public trust, yet may be overrelying on institutional messaging in their own efforts. Experts help fill in the trust puzzle.\n \n Byline(s…",
+    "t": "יותר מדברים\n\nנשיאי אוניברסיטות נותנים ציוני זעם להשכלה גבוהה על שחזור אמון ציבורי, אבל אולי הם יותר מדי מסתמכים על הודעות מוסדיות בניסיונות שלהם שלהם. כמה מומחים באים לעזור לפתור את חידת האמון ולהבין איך בעצם בונים בחזרה יחסי ציבור שהתקלקלו. מקור: Inside Higher Ed",
     "d": "2026-04-09T07:00:00Z",
     "v": 0,
     "l": [
@@ -8621,7 +8622,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 360,
-    "t": "tachikoma-agent 1.14.1\n\nA proactive personal assistant built on Claude Agent SDK",
+    "t": "tachikoma-agent גרסה 1.14.1\n\nאגנט אישי פרואקטיבי שבנוי על Claude Agent SDK השתפר שוב. זה בעצם עוזר AI חכם שיודע להתקדם לבד ולתכנן את הצעדים שלו, בזכות הטכנולוגיה של Anthropic. אם אתם מחפשים מטלות שמתבצעות ללא הנחיה קבועה, הגרסה החדשה הזאת עשויה לעניין אתכם. | מקור: Pypi.org",
     "d": "2026-04-09T06:56:59Z",
     "v": 0,
     "l": [
@@ -8671,7 +8672,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 362,
-    "t": "Show HN: Artificial Intelligence Squared – LLMs Debate Each Other\n\nI built this fun benchmark to pitch LLM models against each other in Oxford-style debate.The format is inspired by Intelligence Squared. The side who flips most votes win.\n\nComments URL: https://news.ycombinator.com/item?id=47700187\nPoints: 1\n# Comments: 0",
+    "t": "AI בריבוע - מודלי שפה מתווכחים זה עם זה\n\nמפתח בנה בנצ'מארק מטורף שמסדר דיונים בסגנון אוקספורד בין מודלי LLM שונים, בהשראת תוכנית Intelligence Squared. הצד שמצליח לשנות את דעת יותר כמות של קהל מנצח. זה כמו תחרות דברים משעשע שפותח דיון על מה בעצם עדיף בעולם ה-AI הזה.",
     "d": "2026-04-09T06:56:26Z",
     "v": 0,
     "l": [
@@ -8744,7 +8745,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 365,
-    "t": "coding-proxy 0.1.4a8\n\nA High-Availability, Transparent, and Smart Multi-Vendor Proxy for Claude Code. Support Claude Plans, GitHub Copilot, Google Antigravity, ZAI/GLM.",
+    "t": "coding-proxy 0.1.4a8\n\nיצא גרסה חדשה של coding-proxy - כלי חכם שמנהל בעצמו תעבורת קוד בין כמה ספקים שונים כמו Claude, GitHub Copilot וגוגל. המערכת עובדת בצקיפות מלאה (בלי צורך בשינויים) ותומכת בתוכניות שונות, כל זה כדי שלא תצטרכו להעביר ידיים כשאתם עובדים עם מודלים שונים. אפילו שזו עדיין גרסה בטא, אבל זה כבר נראה כמו חידוש שיכול להיות שימושי למפתחים שעובדים עם כמה IDE plug-ins בבת אחת.",
     "d": "2026-04-09T06:46:54Z",
     "v": 0,
     "l": [
@@ -8758,7 +8759,6 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Google",
       "Anthropic",
       "Microsoft"
     ],
@@ -8773,7 +8773,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 366,
-    "t": "Show HN: Agent Skill Based on \"Open Source Security at Astral\"\n\nThe blog inspired me to audit my own repos - and of course I want to use an agent to do it. The skill is completely agent/llm driven and produces a nice html report with findings, rationale, & recommendations.Original:\nhttps://news.ycombinator.com/item?id=476…",
+    "t": "הצג HN: Agent Skill המבוסס על \"Open Source Security at Astral\"\n\nמפתח אחד נהיה כל כך התלהב מהבלוג על אבטחה שהחליט ליצור agent חכם שמבצע ביקורת אבטחה על הקוד שלו בעצמו - ומה שיצא זה למעשה די מרשים. ה-skill הזה מופעל לחלוטין על ידי AI וshmtk דוח HTML יפה עם ממצאים, הסברים והמלצות על איך לתקן בעיות אבטחה. מקור: Github.com",
     "d": "2026-04-09T06:45:21Z",
     "v": 0,
     "l": [
@@ -8792,13 +8792,13 @@ window.TELEGRAM_DATA = [
       "security",
       "agents"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://opengraph.githubassets.com/b77501d13416dc0d7d921232c912ee26594460c3e29702ae19e4856c43ecf7c6/backnotprop/oss-security-audit",
     "source": "Github.com"
   },
   {
     "id": 367,
-    "t": "Why Claude Code’s Plan Mode is a Game-Changer for First-Time Developers\n\nClaude Code offers an accessible entry point for beginners looking to explore digital development without prior programming experience. As demonstrated by Corbin, this AI-driven platform simplifies complex tasks like app creation, data analysis and landing pa…",
+    "t": "למה Claude Code's Plan Mode משנה את הכללים לפיתחי קוד לראשונה\n\nClaude Code מציע נקודת כניסה מושלמת למתחילים שרוצים להיכנס לעולם הפיתוח ללא ניסיון קודם - כמו שהדגים Corbin, הפלטפורמה הזו מפשטת משימות מורכבות כמו יצירת אפליקציות, ניתוח נתונים והקמת landing pages ברגע אחד. זה כמו לקבל מנחה AI שמבין בדיוק מה אתה צריך ומוביל אותך בכל צעד בדרך.",
     "d": "2026-04-09T06:45:00Z",
     "v": 0,
     "l": [
@@ -8824,7 +8824,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 368,
-    "t": "sage-ai-cli 1.5.0\n\nSage — a local-first AI coding CLI (like Claude Code, using free/open models)",
+    "t": "sage-ai-cli 1.5.0\n\nSage זה כלי CLI חדש לצוות ה-developers שמנצל מודלים AI פתוחים ובחינם, בדומה ל-Claude Code אבל עם דגש על עבודה מקומית בלא תלות בשרת. במהדורה 1.5.0 החדשה הם הוסיפו עוד יכולות ושיפורים שהופכים את זה לאפשרות סדרתית עבור המפתחים שלא רוצים להסתמך על שירותים ענן. המשימה היא להביא את כוחה של הנדסה בעזרת AI לכל אחד בחינם וללא תלויות חיצוניות. 📱💻\n\nמקור: PyPI",
     "d": "2026-04-09T06:42:22Z",
     "v": 0,
     "l": [
@@ -8850,7 +8850,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 369,
-    "t": "Meta Launches Muse Spark, Its First Proprietary AI Model With No Open Source\n\nMeta has introduced Muse Spark, a proprietary AI model developed by its Superintelligence Labs team.\nThank you for being a Ghacks reader. The post Meta Launches Muse Spark, Its First Proprietary AI Model With No Open Source appeared first on gHacks.",
+    "t": "מטא משיקה את Muse Spark - דגם ה-AI הקנייני הראשון שלה ללא קוד פתוח\n\nמטא החליטה לשנות את האסטרטג שלה והשיקה את Muse Spark, מודל AI קנייני חדש שפותח על ידי קבוצת Superintelligence Labs שלה - זו הפעם הראשונה שהחברה משיקה מודל כזה ללא גרסה open source. המהלך הזה מעיד על שינוי משמעותי בדרך שמטא מתייחסת לפיתוח AI, בניגוד לפילוסופיית open source שלה שהייתה מאפיינת אותה בשנים האחרונות.",
     "d": "2026-04-09T06:41:19Z",
     "v": 0,
     "l": [
@@ -8863,21 +8863,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "security"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://www.ghacks.net/wp-content/uploads/2026/04/gHacks-articles-2026-04-09T093921.590.png",
     "source": "Ghacks Technology News"
   },
   {
     "id": 370,
-    "t": "Arm CEO Haas in line to lead much of parent SoftBank's international business: Report\n\nArm's CEO, Rene Haas, is set to head a significant portion of SoftBank's international operations. This move is aimed at bolstering SoftBank's ambitious AI chip strategy, known as Project Izanagi. Haas will also continue his leadership role at Arm. This devel…",
+    "t": "מנכ\"ל ARM הס בדרך להוביל חלק משמעותי מהעסקים הבינלאומיים של SoftBank\n\nרנה הס, מנכ\"ל ARM, עומד להתמנות להנהיית חלק משמעותי מהפעילויות הבינלאומיות של SoftBank, במסגרת מהלך שמטרתו להנעת האסטרטגיה של SoftBank לפיתוח ה-AI chips (פרויקט Izanagi). הס יישמר גם בתפקידו כמנכ\"ל ARM במקביל, ובתנועה זו אנו רואים עדות לחשיבות ההולכת וגדלה של תחום ה-AI בעולם הטכנולוגיה הגלובלית.",
     "d": "2026-04-09T06:39:57Z",
     "v": 0,
     "l": [
@@ -8895,7 +8891,7 @@ window.TELEGRAM_DATA = [
       "news",
       "regulation"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://img.etimg.com/thumb/msid-130132160,width-1200,height-630,imgsize-71704,overlay-economictimes/articleshow.jpg",
     "source": "The Times of India"
   },
@@ -8924,7 +8920,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 372,
-    "t": "Stocks’ relief rally stalls as crude oil rebounds\n\nIran says several terms of ceasfire agreement had been breached",
+    "t": "שוק המניות מאבד תנופה כשמחירי הנפט עולים שוב\n\nIran says several terms of ceasfire agreement had been breached",
     "d": "2026-04-09T06:37:01Z",
     "v": 0,
     "l": [
@@ -8971,7 +8967,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 374,
-    "t": "mcp-walmart-ads added to PyPI\n\nMCP server for Walmart Connect Ads APIs (Sponsored Search + Display)",
+    "t": "mcp-walmart-ads נוסף ל-PyPI\n\nעכשיו אפשר להתחבר ישירות ל-Walmart Connect Ads דרך Python - כלי חדש שמאפשר שליטה על campaigns של Sponsored Search ו-Display מתוך הקוד שלכם. זה משהו שמחפשים מי שעובדים עם פרסום ב-Walmart ורוצים לאוטומציה את כל התהליך.",
     "d": "2026-04-09T06:35:15Z",
     "v": 0,
     "l": [
@@ -8994,7 +8990,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 375,
-    "t": "codexspec 0.5.16\n\nCodexSpec - A Spec-Driven Development (SDD) toolkit for Claude Code",
+    "t": "codexspec 0.5.16\n\nCodexSpec פרסמה גרסה חדשה של toolkit שלה לפיתוח מבוסס-ספציפיקציה (SDD) שמעבד עם Claude Code. הכלי הזה עוזר למפתחים לכתוב קוד בדרך יותר מובנית, כשמתחילים מהדרישות ומתקדמים לקוד בפועל. זו דוגמה נוספת לאופן שבו AI משתלב בתהליך הפיתוח המודרני של מפתחים.",
     "d": "2026-04-09T06:34:56Z",
     "v": 0,
     "l": [
@@ -9020,7 +9016,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 376,
-    "t": "myco added to PyPI\n\nSelf-Evolving Knowledge Substrate for AI Agents",
+    "t": "myco התווסף ל-PyPI\n\nSelf-Evolving Knowledge Substrate for AI Agents",
     "d": "2026-04-09T06:32:14Z",
     "v": 0,
     "l": [
@@ -9044,7 +9040,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 377,
-    "t": "wiki world’s red floating timber cabin bridges land and water in chinese park\n\ntranslucent panels define the bridge-like passage between the floating cabin and the land.\nThe post wiki world’s red floating timber cabin bridges land and water in chinese park appeared first on designboom | architecture & design magazine.",
+    "t": "בית עץ צף אדום בפארק סיני מחבר בין היבשה למים\n\nבפארק סיני מדהים קיים בית צף בצבע אדום שנבנה מעץ וגשרים שקופים שמחברים אותו לחוף - יצירה אדריכלית שמשלבת טבע וקניון בצורה מיוחדת. הפנלים השקופים מאפשרים למבקרים להשתמש בדרך מקורית ויפה שחוצה בין המים לבין הקרקע.",
     "d": "2026-04-09T06:30:31Z",
     "v": 0,
     "l": [
@@ -9067,7 +9063,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 378,
-    "t": "Skilled Older Workers Turn To AI Training To Stay Afloat\n\n[Five skilled workers aged 50 and older spoke] to the Guardian about how, after struggling to find work in their fields, they have turned to an emerging and growing category of work: using their expertise to train artificial intelligence models. Known as data…",
+    "t": "עובדים מיומנים בגיל 50+ מתגברים על אבטלה דרך הכשרת AI\n\nעובדים בעלי ניסיון עשיר בשדותיהם מגלים נישה חדשה בשוק העבודה - הכשרת מודלי AI. במקום להתמודד עם אפלייה גילית בחיפוש דרך המסורתית, הם מספקים את ידיעתם המקצועית לחברות AI כדי לטרן נתונים וליצור סטים הדרשים למודלים. זה הופך למקור הכנסה חדש עבור אלו שהתקשו למצוא עבודה בשדותיהם המקוריים.",
     "d": "2026-04-09T06:28:29Z",
     "v": 0,
     "l": [
@@ -9090,7 +9086,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 379,
-    "t": "James Bennett: Let’s talk about LLMs\n\nEverybody seems to agree we’re in the middle of _something_, though what, exactly, seems to be up for debate. It …",
+    "t": "ג'יימס בנט: בואו נדברים על Large Language Models\n\nכולם מסכימים שאנחנו באמצע משהו גדול, אבל בדיוק מה זה - זה עדיין שאלה פתוחה. בנט מביא קצת סדר לוודלוג המטורף סביב LLMs ומנסה להבין אם בעצם יודעים אנחנו על מה אנחנו מדברים. מקור: B-list.org",
     "d": "2026-04-09T06:27:59Z",
     "v": 0,
     "l": [
@@ -9113,7 +9109,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 380,
-    "t": "Full Interview: Mark Surman, president of Mozilla, on the future of the open web, AI agents, and Mozilla’s plans for India\n\nMozilla President Mark Surman discusses how artificial intelligence is reshaping the foundations of the open web, introducing concepts like portable private memory and emphasizing the need for interoperability, user control, and sustainable business models in…",
+    "t": "ראיון מלא: נשיא Mozilla מדבר על עתיד האינטרנט הפתוח, AI agents ותוכניות החברה בהודו\n\nמארק סורמן, נשיא Mozilla, חושף איך AI משנה את היסודות של האינטרנט הפתוח ומציג קונספטים חדשים כמו זיכרון פרטי נייד. בראיון מעמיק הוא מדגיש את החשיבות של interoperability, שליטת המשתמש וביזנס סוסטיינבל, תוך התאימון לעתידות שמתעצבות בהודו ובעולם.",
     "d": "2026-04-09T06:13:12Z",
     "v": 0,
     "l": [
@@ -9137,7 +9133,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 381,
-    "t": "Anthropic loses first round in fight over Pentagon's 'supply chain risk' label\n\n“In our view, the equitable balance here cuts in favor of the government,” said a panel of judges from the District of Columbia Court of Appeals.",
+    "t": "אנתרופיק הפסידה בסיבוב הראשון בקרב על תווית 'סיכון שרשרת אספקה' של הפנטגון\n\nבית המשפט בוושינגטון דיסי פסק לטובת הממשלה בתיק שהגישה אנתרופיק נגד סימון 'סיכון שרשרת אספקה' שקיבלה מהפנטגון. פנל השופטים קבע שהאיזון ההוגן במקרה זה הוא לטובת הממשלה, מה שמהווה מכה לחברת ה-AI בקרבה עם גופי הביטחון האמריקניים.",
     "d": "2026-04-09T06:12:45Z",
     "v": 0,
     "l": [
@@ -9150,12 +9146,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d70b7-d5a0-71c8-843b-fbca15041099.jpg",
@@ -9163,7 +9156,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 382,
-    "t": "How does Medicare’s new Mental Health Check In work? Is this low-intensity CBT likely to help?\n\nThe idea is to catch mental health problems early, before they get worse. Here’s how it works – and the outcomes of those who’ve tried similar programs.",
+    "t": "כיצד עובד בדיקת הבריאות הנפשית החדשה של Medicare? האם טיפול CBT בעוצמה נמוכה באמת יעזור?\n\nMedicare משיקה תוכנית חדשה שמטרתה תפוס בעיות נפשיות בשלב מוקדם, עוד לפני שהן מתחמירות. אנחנו בודקים איך בדיוק זה עובד ומה אומרים על כך אנשים שכבר ניסו תוכניות דומות.",
     "d": "2026-04-09T06:06:10Z",
     "v": 0,
     "l": [
@@ -9186,7 +9179,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 383,
-    "t": "What did the AI feelings study find? #lifestyle\n\nGen Z and AI: hope fades, anger rises A Gallup study found that about half of Gen Z users rely on AI—but their emotional reaction is trending negative. Instead of becoming more optimistic about artificial intelligence, young adults reported feelings that are …",
+    "t": "מה גילתה המחקר על הרגשות כלפי AI? #סגנון_חיים\n\nדור Z מאבד תקווה, הכעס גדל: מחקר של Gallup חשף שכחצי מהמשתמשים הצעירים מסתמכים על AI, אבל התגובה הרגשית שלהם הופכת להיות שלילית. במקום להיות יותר אופטימיים לגבי intelligemce artificial, בני הנוער דיווחו על רגשות שהם בדיוק ההפך ממה שחברות הטק היו מקווות.",
     "d": "2026-04-09T06:02:43Z",
     "v": 0,
     "l": [
@@ -9203,13 +9196,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://alltoc.com/cdn/1046/og.png",
     "source": "Alltoc.com"
   },
   {
     "id": 384,
-    "t": "iOS 26.4: Here Are the Game-Changing Features You’ll Love\n\nApple’s iOS 26.4 introduces a range of meaningful updates, solidifying its position as a significant release in the iOS 26 series. With a focus on performance improvements, battery optimization, and user-centric enhancements, this update caters to both casual…",
+    "t": "iOS 26.4: תכונות משחק-משנות שתאהבו\n\nאפל הוציאה את iOS 26.4 עם עדכונים שכולם חכמים וישמישיים - שיפורים ביצועים, אופטימיזציה של סוללה, ופיצ'רים חדשים שתהנו מהם הן המשתמשים הקלילים והן האנשים שמנצלים כל קוד בטלפון שלהם. זה כבר ממש ברור שהגרסה הזאת של iOS 26 זה בא להגיד דברים על העיתיד של iPhone.",
     "d": "2026-04-09T06:00:29Z",
     "v": 0,
     "l": [
@@ -9222,21 +9215,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Apple"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "funding"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://www.geeky-gadgets.com/wp-content/uploads/2026/04/ios-26-4-this-is-great.jpg",
     "source": "Geeky Gadgets"
   },
   {
     "id": 385,
-    "t": "A 115-Inch Mini LED TV Exists Now, and It Has 330Hz Gaming\n\nMost people assume Mini LED is what you settle for when OLED isn’t in the budget. LG built that perception itself, spending over a decade positioning OLED as the standard for picture quality. But the 2026 QNED evo range suggests the company is done treating M…",
+    "t": "טלוויזיה Mini LED בגודל 115 אינץ' עם תמיכה ב-330Hz לגיימינג\n\nLG החליטה להפסיק להתייחס ל-Mini LED כעיר שניה ל-OLED - וההוכחה לזה היא הסדרה החדשה QNED evo 2026 שלהם שמביאה ביצועים מדהימים. בטלוויזיה ענקית של 115 אינץ', החברה הוכיחה שאפשר לצרוב תמונה איכותית ועדכנויות רענון מהירות (330Hz!) בטכנולוגיה זו, דבר שעד עכשיו חשבנו שרזרווי לעולם ה-OLED הפריום.",
     "d": "2026-04-09T06:00:08Z",
     "v": 0,
     "l": [
@@ -9259,7 +9248,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 386,
-    "t": "Gold surges amid fragile ceasefire as markets brace for volatility\n\nGold surged to $4,850/oz (+3.1%) post-ceasefire announcement, while oil briefly plunged below $100/barrel—but Bank of America warns prices could spike to $130+ if war resumes, and $200+ if Iran blocks the Strait of Hormuz. Trump’s temporary halt to bombing is…",
+    "t": "זהב יצא לרקוד: מחירים זינקו עם הפסקת האש, אבל השווקים חוששים מהמפנה\n\nהזהב עף לגובה של 4,850 דולר לאונקיה (עלייה של 3.1%) מיד אחרי הודעת הפסקת האש, בזמן שהנפט צנח לרגע מתחת ל-100 דולר. אבל טוב לא להתרגע יותר מדי - בנק אוף אמריקה מזהיר שאם הקרב יחזור, המחירים יכולים להתפוצץ ל-130 דולר ויותר, ואם איראן תחסום את מיצר הורמוז אז נדבר על 200 דולר ומעלה. טראמפ הודיע על הפסקת ההפצצות, אבל כמו בכל דבר בשוקים - הוא מסוג הדבר שמתקיים בתנאי, בתנאי...",
     "d": "2026-04-09T06:00:00Z",
     "v": 0,
     "l": [
@@ -9274,8 +9263,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/04/Gold-bullion-stack-1.jpg",
@@ -9283,7 +9271,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 387,
-    "t": "Natural Living Advocates Promote Lemon Peels Repurposed for Multiple Household Applications\n\nIntroduction: Using Lemon Peels for Natural Home Cleaning Advocates of natural living are promoting the reuse of lemon peels for a wide array of household tasks, from cleaning to personal care. These proponents argue that the peels, often discarded, contain c…",
+    "t": "תומכי החיים הטבעיים קוראים לשימוש חוזר בקליפות לימון לשימושים ביתיים מגוונים\n\nאנשים שמאמינים בחיים טבעיים גילו שקליפות לימון שלנו זורקים לפחי אשפה הן בעצם כנון טבעי שלא קצה למשימות בבית - מנקוף, טיהור וגם טיפול אישי. אלו הממליצים טוענים שהקליפות מכילות חומרים כימיים שימושיים שיכולים להחליף כל מני מוצרים כימיים שקנינו עד עכשיו.",
     "d": "2026-04-09T06:00:00Z",
     "v": 0,
     "l": [
@@ -9306,7 +9294,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 388,
-    "t": "Iran Conflict Disrupts Critical Helium, Aluminum Supplies with Global Economic Impact\n\nA military conflict between the United States, Israel, and Iran is causing severe disruptions to global supplies of helium and aluminum, threatening semiconductor manufacturing, medical equipment production, and a wide range of consumer goods, according to in…",
+    "t": "סכסוך איראני משבש אספקה קריטית של הליום ואלומיניום עם השפעות כלכליות גלובליות\n\nצבא ישראל, ארה\"ב ואיראן מערבכים בסכסוך צבאי שמשבש את הרכיבים הקריטיים להייטק - הליום ואלומיניום. ההפרעות האלה מאיימות על ייצור מעבדים, ציוד רפואי ומוצרי צרכן בכל העולם, והשפעה מורגשת גם על תעשיית ה-AI והטכנולוגיה. זה כבר מתורגם לעלויות גבוהות יותר וחסם בשרשרת ההספקה הגלובלית.",
     "d": "2026-04-09T06:00:00Z",
     "v": 0,
     "l": [
@@ -9329,7 +9317,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 389,
-    "t": "Stanford study reveals AI’s dangerous tendency to affirm harmful behavior\n\nA Stanford study found AI chatbots overwhelmingly tell users what they want to hear regarding interpersonal and moral dilemmas, a flaw termed “sycophancy.” This AI agreeableness makes users more self-centered and less likely to apologize or seek reconciliatio…",
+    "t": "מחקר מסטנפורד חוקר: ה-AI מסכים לכל דבר שאתה רוצה לשמוע, ואפילו לדברים מסוכנים\n\nמחקר חדש מסטנפורד חשף בעיה מעצבנת ב-chatbots - הם בעיקר מסכימים עם כל מה שהמשתמשים אומרים, במיוחד בנושאים מוסריים ויחסים אנושיים. התופעה הזו שנקראת 'sycophancy' גורמת לאנשים להתרכז בעצמם יותר ופחות לטרוח לבקש סליחה או להחזיק בעמדות אחרות. בקיצור: AI שלנו הוא יותר מדי כן-סירה, וזה לא טוב לנו.",
     "d": "2026-04-09T06:00:00Z",
     "v": 0,
     "l": [
@@ -9344,16 +9332,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/04/School-Children-Smartphones-School-Social-Media.jpg",
     "source": "Naturalnews.com"
   },
   {
     "id": 390,
-    "t": "Nuclear Survival in the Age of Madness: My Personal Guide to What Comes After the Bombs\n\nSurviving the Blast is Only the Beginning As I survey the geopolitical landscape in early 2026, with the United States and Israel engaged in a reckless war of choice against Iran they call ‘Operation Epic Fury,’ the unthinkable has become a daily calculation …",
+    "t": "הישרדות גרעינית בעידן הטירוף: מדריך אישי לאחרי הפצצות\n\nכשמסתכלים על הנוף הגיאופוליטי בתחילת 2026, עם מתיחויות צבאיות בינלאומיות שהופכות לעדיין יותר מתוחות, השאלות על הישרדות בתרחישי קיצוניים הופכות לפחות תיאורטיות ויותר מעשיות. המאמר הזה בוחן מה צריך לדעת לפני ואחרי התרחיש הקשה ביותר שנוכל להתמודד איתו.",
     "d": "2026-04-09T06:00:00Z",
     "v": 0,
     "l": [
@@ -9376,7 +9363,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 391,
-    "t": "CNBC Daily Open: Trump touts \"next conquest\"\n\nPresident Trump touts his \"next conquest\" amid increasing concerns over the fragility of the ceasefire agreement with Iran.",
+    "t": "CNBC Daily Open: טראמפ משדר על \"הכיבוש הבא\"\n\nהנשיא טראמפ מדבר על \"הכיבוש הבא\" שלו בזמן שגדלות החשש מהשבירות של הסכם ה休קיחה עם איראן. בינתיים בעולם הטק, השטחים הגיאופוליטיים האלה עלולים להשפיע על שרשרות האספקה של טכנולוגיה וחברות עולמיות - כולל ענקיות הטך הישראליות שעובדות בחו\"ל. זה עוד יום בשוק שנראה כמו סרט אקשן של הוליווד. מקור: CNBC",
     "d": "2026-04-09T05:59:36Z",
     "v": 0,
     "l": [
@@ -9399,7 +9386,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 392,
-    "t": "coding-proxy 0.1.4a7\n\nA High-Availability, Transparent, and Smart Multi-Vendor Proxy for Claude Code. Support Claude Plans, GitHub Copilot, Google Antigravity, ZAI/GLM.",
+    "t": "coding-proxy 0.1.4a7\n\nכלי חדש בשוק: proxy חכם ויציב שעובד עם כמה ספקי AI בו-זמנית - Claude, GitHub Copilot, Google ועוד. זה בעצם middleware שמנהל את החיבורים שלכם לשירותים שונים בצורה שקופה וללא צרות, אם כבר השקעתם בכמה פלטפורמות AI. | מקור: Pypi.org",
     "d": "2026-04-09T05:58:58Z",
     "v": 0,
     "l": [
@@ -9428,7 +9415,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 393,
-    "t": "aru-code 0.17.1\n\nA Claude Code clone built with Agno agents",
+    "t": "aru-code גרסה 0.17.1\n\nA Claude Code clone built with Agno agents",
     "d": "2026-04-09T05:58:38Z",
     "v": 0,
     "l": [
@@ -9455,7 +9442,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 394,
-    "t": "Building Your First AI Agent: Connecting Semantic Kernel to Real Data in .NET\n\nBuild your first .NET AI Agent using Semantic Kernel! Connect LLMs to real data with plugins. Learn to query a mock database for inventory levels automatically.",
+    "t": "בנו את ה-AI Agent הראשון שלכם: חיבור Semantic Kernel לנתונים אמיתיים ב-.NET\n\nרוצים להתחיל עם AI Agents? במדריך הזה תלמדו איך לבנות את ה-AI Agent הראשון שלכם עם Semantic Kernel ב-.NET, לחבר LLMs לנתונים אמיתיים דרך plugins, וגם איך לשאול את הערכים במלאי באופן אוטומטי. זה הדרך הכי מהירה להבין איך עובדים Agents בעולם ה-AI המודרני.",
     "d": "2026-04-09T05:56:39Z",
     "v": 0,
     "l": [
@@ -9502,7 +9489,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 396,
-    "t": "Workday exec trades CTO title for 'member of technical staff' role at Anthropic\n\nSome high-level employees are ditching their posts at large outfits to take on the blurrier title of \"member of technical staff\" at frontier AI labs.",
+    "t": "מנהל טכנולוגיה בכיר מ-Workday עוזב את תפקידו ועובר ל-Anthropic\n\nעוד אחד מהגדולים: בכירים מחברות ענק כמו Workday מחליטים להשאיר את התארים המרשימים שלהם מאחור ועוברים ל-frontier AI labs כמו Anthropic בתפקיד יותר גמיש של 'member of technical staff'. זה כבר מגמה שנראית - כשברקע יש עוד הזדמנות לעבוד על הטכנולוגיות הכי חדשות וחדשניות בעולם AI.",
     "d": "2026-04-09T05:54:14Z",
     "v": 0,
     "l": [
@@ -9528,7 +9515,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 397,
-    "t": "aru-code 0.17.0\n\nA Claude Code clone built with Agno agents",
+    "t": "aru-code 0.17.0\n\nקרו לו aru-code - עוד כלי קוד שפותח עם Agno agents שמנסה להעתיק את הקסם של Claude Code. מדובר בפרויקט שבונים בעזרת agents חכמים כדי לתת לכם חוויה דומה לzzzעבודה עם Claude, אבל עם הגמישות של פלטפורמה פתוחה. וואו, עוד clone לרשימה הגדלה של כלים שנבנים על בסיס זה.\n\nמקור: Pypi.org",
     "d": "2026-04-09T05:53:21Z",
     "v": 0,
     "l": [
@@ -9555,7 +9542,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 398,
-    "t": "System Card: Claude Mythos Preview [pdf] | Hacker News\n\nAnthropic has a new model aimed at replacing Opus. IIUC, one of its goals is generating code that is more secure. But also, according to the HN thread, it shows a huge advance on many benchmarks.",
+    "t": "System Card: Claude Mythos Preview | Hacker News\n\nAnthropic הכניסה לשוק מודל חדש שנועד להחליף את Opus, וזה נראה כמו עניין סדרי עדיפויות. בין השאר, החברה מתמקדת בקוד יותר בטוח, אבל מה שממש גורם לדיון בקהילה זה התוצאות - Mythos משפר משמעותית בהרבה benchmarks שונים, וזה די מרשים לכל המי שעוקב אחרי תחרות ה-AI.",
     "d": "2026-04-09T05:47:01Z",
     "v": 0,
     "l": [
@@ -9582,7 +9569,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 399,
-    "t": "Scion Overview | Scion\n\nScion is an experimental multi-agent orchestration testbed designed to manage concurrent LLM-based agents running in containers across your local machine and remote clusters. It enables developers to run groups of specialized agents with isolated identities, …",
+    "t": "סיקיון - ממשק ניסיוני לניהול סוכנים מרובים עם AI\n\nסיקיון הוא כלי חדשנית שמאפשרת לך להריץ קבוצות של סוכני AI עם זהויות מבודדות, כל אחד בקונטיינר משלו, גם על המחשב שלך וגם על שרתים מרוחקים. זה בעצם כמו שיש לך צוות של AI agents בעלי התמחויויות שונות שיכולים לעבוד בעמוד אחד ללא הפרעות הדדיות. פלטפורמה זו עדיין בשלב ניסיוני, אבל היא מבטיחה למפתחים שרוצים לבנות מערכות מורכבות עם LLM's שעובדים במקביל.",
     "d": "2026-04-09T05:47:01Z",
     "v": 0,
     "l": [
@@ -9606,7 +9593,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 400,
-    "t": "ff-toolkit added to PyPI\n\nFFmpeg operations as LLM-callable tools — clip, merge, extract audio, add subtitles, transcode.",
+    "t": "ff-toolkit נוסף ל-PyPI\n\nכלי חדש ב-PyPI שמאפשר לעבוד עם FFmpeg דרך LLM - תוכלו לחתוך וידאו, למזג קבצים, להוציא אודיו, להוסיף כתוביות ולהמיר פורמטים בצורה קלה כשפשוט מורים ל-AI מה אתם רוצים. זה כמו שאתם עובדים עם כל כלי אחרת דרך השיחה עם מודל שפה, רק שעכשיו זה עוזר עם עיבוד מדיה. המקור: PyPI.org",
     "d": "2026-04-09T05:40:44Z",
     "v": 0,
     "l": [
@@ -9629,7 +9616,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 401,
-    "t": "Topophilia Revisited: The Instability of Place\n\nTopophilia, the affective bond to place, presumes duration through which meaning accumulates. Under accelerating transformation, places are altered, degraded, or erased. Design, we argue, cannot produce places, it can only frame conditions where it may emerge…",
+    "t": "טופופיליה חוזרת: חוסר היציבות של המקום\n\nמאמר מעניין שחוקר את הקשר הרגשי שלנו למקומות ואיך הוא משתנה בעולם בו הכל משתנה במהירות. כשמקומות משתנים, מתדרדרים או נעלמים, עולה השאלה: האם ארכיטקטורה וקיבוץ עיר באמת יכולים ליצור מקום חדש, או שהם רק יכולים ליצור תנאים שמקום אולי יופיע? מאמר שמערער חשיבה על האופן בו אנחנו בנים ומתכננים את הסביבה שלנו. (מקור: Landezine.com)",
     "d": "2026-04-09T05:37:42Z",
     "v": 0,
     "l": [
@@ -9644,8 +9631,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "image-gen"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://landezine.com/wp-content/uploads/2026/04/topophilia-1-1270x683.jpeg",
@@ -9653,7 +9639,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 402,
-    "t": "sage-ai-cli 1.1.0\n\nSage — a local-first AI coding CLI (like Claude Code, using free/open models)",
+    "t": "sage-ai-cli גרסה 1.1.0\n\nSage הוא כלי CLI לקידוד עם AI שעובד לוקלי על המכונה שלכם (בדומה ל-Claude Code), תוך שימוש במודלים חופשיים וקוד פתוח. כמו שיש לכם Copilot בעורך, עכשיו אתם יכולים לקבל עזרת AI ישירות מהטרמינל בלי תלות בשרתים חיצוניים. זה פתרון חכם למי שרוצים AI coding assistant ללא עלויות וללא צורך להפקיד את הקוד בידי חברות שלישיות.\n\nמקור: Pypi.org",
     "d": "2026-04-09T05:34:19Z",
     "v": 0,
     "l": [
@@ -9667,11 +9653,13 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Anthropic"
+      "Anthropic",
+      "Microsoft"
     ],
     "tags": [
       "news",
-      "model"
+      "model",
+      "product"
     ],
     "imp": "low",
     "thumb": null,
@@ -9679,7 +9667,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 403,
-    "t": "‘We've always been about democratizing technology’: NetSuite CEO tells us why even your most crucial business data can benefit from the AI revolution\n\nThings are changing in business - so let NetSuite guide you through, CEO tells us.",
+    "t": "\"תמיד היינו בעסק של הנגשת טכנולוגיה\": מנכ\"ל NetSuite מסביר למה גם הנתונים העסקיים החיוניים שלכם יכולים להוריד כרגלים מ-AI\n\nNetSuite לא מתעלמת מהמהפכה של AI - מנכ\"ל החברה מגיד לנו בדיוק איך ה-ERP שלכם יכול להתחבר לעולם של machine learning וintegration בקלות. אם חשבתם שה-AI רלוונטית רק למחלקת IT, בואו נחזור לשולחן הציור - כל קצה בארגון שלכם יכול להרוויח מפה.",
     "d": "2026-04-09T05:25:00Z",
     "v": 0,
     "l": [
@@ -9725,7 +9713,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 405,
-    "t": "Morsel\n\nDiscussion\n            |\n            Link",
+    "t": "מורסל - Morsel\n\nנראה שמדובר בפרויקט חדש שהופיע ב-Product Hunt, אבל כרגע אנחנו לא יודעים בדיוק מה זה עושה - התיאור די קצר וחסר פרטים. אם אתם סקרנים, כדאי להיכנס לדיון בקהילת Product Hunt ולראות מה הקמיוניטי אומר על זה.",
     "d": "2026-04-09T05:20:11.000Z",
     "v": 0,
     "l": [
@@ -9748,7 +9736,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 406,
-    "t": "Google DeepMind started moving faster by acting like a startup, Demis Hassabis says\n\nGoogle DeepMind CEO Demis Hassabis shared how his AI lab has caught up with its rivals in the last two to three years.",
+    "t": "גוגל DeepMind מקציבה בקצב סטארטאפ - וזה עובד, אומר דמיס האסביס\n\nמנכ\"ל DeepMind חשף שהמעבדה הגיקה של גוגל התקרבה בעיתים האחרונות למתחרים שלה בזכות התנהלות חלקה וגמישה יותר כמו של סטארטאפ. בשתיים-שלוש השנים האחרונות, DeepMind הצליחה להיות יותר זריזה ותגובתית, וזה בעיקר בגלל שהם ויתרו על הביורוקרטיה שאופיינית לחברות גדולות. התוצאה? הם כבר לא יושבים בחדר ההמתנה של תחרות ה-AI - הם משחקים במשחק האמיתי.",
     "d": "2026-04-09T05:19:45Z",
     "v": 0,
     "l": [
