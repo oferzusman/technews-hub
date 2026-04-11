@@ -97,12 +97,27 @@ async function main() {
     }
   }
 
+  const BATCH_SIZE = 5;
+  const GLOBAL_TIMEOUT_MS = 3.5 * 60 * 1000; // 3.5 min max
+  const startTime = Date.now();
   let total = 0;
-  for (const source of enabled) {
-    try {
-      total += await fetchSource(source, db, cutoffDate, now);
-    } catch (err) {
-      console.error(`Error fetching ${source.name}:`, err.message);
+
+  for (let i = 0; i < enabled.length; i += BATCH_SIZE) {
+    if (Date.now() - startTime > GLOBAL_TIMEOUT_MS) {
+      console.log('⏱ Global timeout reached, saving progress...');
+      break;
+    }
+    const batch = enabled.slice(i, i + BATCH_SIZE);
+    console.log(`\nBatch ${Math.floor(i / BATCH_SIZE) + 1}: ${batch.map(s => s.name).join(', ')}`);
+    const results = await Promise.allSettled(
+      batch.map(source => fetchSource(source, db, cutoffDate, now))
+    );
+    for (let j = 0; j < results.length; j++) {
+      if (results[j].status === 'fulfilled') {
+        total += results[j].value;
+      } else {
+        console.error(`  ✗ ${batch[j].name}: ${results[j].reason?.message}`);
+      }
     }
   }
 
