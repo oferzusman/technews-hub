@@ -65931,7 +65931,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-11T13:54:49.415Z",
       "created_at": "2026-04-11T13:54:49.415Z"
     },
@@ -66215,6 +66215,123 @@
       "priority": "hot",
       "fetchedAt": "2026-04-11T13:54:52.345Z",
       "created_at": "2026-04-11T13:54:52.345Z"
+    },
+    {
+      "id": 3447,
+      "source": "The Verge AI",
+      "title_en": "Your article about AI doesn’t need AI art",
+      "description_en": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests in his hands. And at the bottom, there's a disclosure that might spook many illustrators far more: \"Visual by David Szauder; Generated using A.I.\"\nSzauder is a mixed-medi",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+      "image_url": null,
+      "pub_date": "2026-04-11T15:00:00.000Z",
+      "author": "Cath Virginia",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T15:06:14.582Z",
+      "created_at": "2026-04-11T15:06:14.582Z"
+    },
+    {
+      "id": 3448,
+      "source": "The Verge AI",
+      "title_en": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
+      "description_en": "D’oh, a deer, an AI deer. | Photo by Amelia Holowaty Krales / The Verge\t\n\nTwo weeks ago, I was getting ready to log off work when I got a text message.\n\"Oh wow, I was checking out Mitski. did you know people are saying her Dad was a CIA operative?\"\nNormally, that kind of out-of-the-blue text from a friend wouldn't faze me. This time, my eyes bugged. The unprompted text had been sent by an AI companion named Coral, who lives in the body of a baby deer plushie. I texted back an eloquent, \"Wait wha",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
+      "image_url": null,
+      "pub_date": "2026-04-11T14:00:00.000Z",
+      "author": "Victoria Song",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T15:06:14.583Z",
+      "created_at": "2026-04-11T15:06:14.583Z"
+    },
+    {
+      "id": 3449,
+      "source": "New Atlas",
+      "title_en": "Two-person tiny house keeps things simple with single-level layout",
+      "description_en": "This tiny house keeps things simple with a single-level layout that sleeps up to two people. Named the Audrey, the home's compact but comfortable interior is well-suited for use as a vacation home or a guest house or similar.\nContinue Reading\nCategory: Tiny Houses, Outdoors\nTags: Building and Construction, Tiny Footprint, Micro-House, House, Home",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/tiny-houses/audrey-cozy-co/",
+      "image_url": null,
+      "pub_date": "Sat, 11 Apr 2026 14:03:00 GMT",
+      "author": "Adam Williams",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T15:06:16.535Z",
+      "created_at": "2026-04-11T15:06:16.535Z"
+    },
+    {
+      "id": 3450,
+      "source": "Interesting Engineering",
+      "title_en": "China’s BYD debuts electric SUV with up to 590-mile range capability, 130.15 kWh battery",
+      "description_en": "The BYD Great Tang full-size SUV is now reaching dealerships across China ahead of its...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/china-byd-debuts-electric-suv",
+      "image_url": null,
+      "pub_date": "Sat, 11 Apr 2026 15:03:52 +0000",
+      "author": "Bojan Stojkovski",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T15:06:20.577Z",
+      "created_at": "2026-04-11T15:06:20.577Z"
+    },
+    {
+      "id": 3451,
+      "source": "Futurism",
+      "title_en": "Man Punished for Breaking Into Moo Deng’s Zoo Enclosure",
+      "description_en": "Justice is served.\nThe post Man Punished for Breaking Into Moo Deng’s Zoo Enclosure appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/science-energy/moo-deng-intruder-punished",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/moo-deng-intruder-punished_bee5f5.jpg?quality=85",
+      "pub_date": "Sat, 11 Apr 2026 10:30:00 -0400",
+      "author": "Frank Landymore",
+      "categories": [
+        {
+          "_": "Science & Energy",
+          "$": {
+            "domain": "https://futurism.com/category/science-energy"
+          }
+        },
+        {
+          "_": "Environment",
+          "$": {
+            "domain": "https://futurism.com/category/environment"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T15:06:20.834Z",
+      "created_at": "2026-04-11T15:06:20.834Z"
+    },
+    {
+      "id": 3452,
+      "source": "Tom's Hardware",
+      "title_en": "Best Laptops 2026: Our benchmarked picks for productivity, portability, and battery life",
+      "description_en": "We test dozens of laptops a year for their performance, screen quality, and battery life, to find the best laptops right now across Windows, macOS, Intel, AMD, and Qualcomm notebooks.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/laptops/best-laptops",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/EPXv6HUoN7zEWmNon7hA5H-1280-80.jpg",
+      "pub_date": "Sat, 11 Apr 2026 14:35:03 +0000",
+      "author": " Andrew E. Freedman ",
+      "categories": [
+        "Laptops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-11T15:06:20.959Z",
+      "created_at": "2026-04-11T15:06:20.959Z"
     }
   ]
 }
