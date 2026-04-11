@@ -6,7 +6,7 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: data-pipeline
+  group: translate
   cancel-in-progress: false
 jobs:
   translate:
