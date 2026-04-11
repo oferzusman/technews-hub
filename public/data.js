@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "People Who Lose Their Job to AI Are in for a World of Pain, Goldman Sachs Report Finds\n\n\"Overall, these patterns suggest that AI-driven displacement could impose lasting costs on affected workers.\"\nThe post People Who Lose Their Job to AI Are in for a World of Pain, Goldman Sachs Report Finds appeared first on Futurism.",
+    "t": "דוח גולדמן זקס: עובדים שיאבדו את עבודתם לטובת AI מחכה להם כאבים קשים\n\nדוח חדש מגולדמן זקס מזהיר שהאבטלה שנגרמת ממהפכת ה-AI לא תהיה זמנית - העובדים שיפגעו יסבלו מנזקים כלכליים וחברתיים ממשיים שמתמשכים לאורך זמן. המחקר מוביל למסקנה כי ההשפעה של AI על שוק העבודה תהיה בעלת עלויות עמוקות שהחברות והממשלה צריכות להתחשב בהן.\n\nמקור: Futurism",
     "d": "Sat, 11 Apr 2026 06:00:00 -0400",
     "v": 0,
     "l": [
@@ -18,13 +18,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/ai-job-loss-consequences.jpg?quality=85",
     "source": "Futurism"
   },
   {
     "id": 2,
-    "t": "Physicists unlock way to measure quantum entanglement inside real-world materials\n\nScientists have always wondered whether ordinary materials are also secretly held together by quantum connections....",
+    "t": "פיזיקאים פתחו דרך למדוד שזירה קוונטית בחומרים של העולם האמיתי\n\nמתברר שהחומרים הרגילים שסביבנו אולי מוחזקים ביחד גם על ידי חיבורים קוונטיים סודיים - ועכשיו לראשונה, חוקרים הצליחו למדוד את התופעה המוזרה הזו בחומרים אמיתיים ולא רק בתנאים של ניסוי מוקד. התגלית הזו יכולה לשנות את הבנתנו לגבי המבנה הבסיסי של החומר ויש לה פוטנציאל גדול עבור טכנולוגיות עתידיות בתחום הקוונטום.",
     "d": "Sat, 11 Apr 2026 09:43:13 +0000",
     "v": 0,
     "l": [
@@ -47,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "AI models would rather guess than ask for help, researchers find\n\nProactiveBench tests whether multimodal language models ask users for help when visual information is missing. Out of 22 models tested, almost none ask for what they need, but a simple reinforcement learning approach hints at a fix.\nThe article AI models would rather guess than ask for help, researchers find appeared first on The Decoder.",
+    "t": "מודלי AI מעדיפים לנחש במקום לבקש עזרה, חוקרים גילו\n\nחוקרים בדקו את ProactiveBench ותגלו משהו די מעניין - מודלים בעלי ראייה ושפה כמעט לא שואלים משתמשים לעזרה כשמידע חזותי חסר להם. מתוך 22 מודלים שנבדקו, כמעט אף אחד לא השתמש בהזדמנות לשאול \"אנא, תוכל לעזור לי?\" אבל יש כאן טוב - גישה פשוטה של reinforcement learning עשויה לתקן את הבעיה הזו.",
     "d": "Sat, 11 Apr 2026 09:39:49 +0000",
     "v": 0,
     "l": [
@@ -70,7 +70,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Claude Code's new Ultraplan feature moves task planning to the cloud\n\nAnthropic's new Ultraplan feature for Claude Code moves task planning to the cloud. Claude works out the plan in the browser while the terminal stays free for other work.\nThe article Claude Code's new Ultraplan feature moves task planning to the cloud appeared first on The Decoder.",
+    "t": "Claude Code חושף Ultraplan - תכונה חדשה שמעבירה תכנון משימות לעננים\n\nAnthropic שחררה את Ultraplan, תכונה חדשה ב-Claude Code שמאפשרת לAI לתכנן משימות בדפדפן בזמן שה-terminal נשאר פנוי לעבודה אחרת. זה אומר שאתה יכול להשאיר את הטרמינל לעצמו ללא ריצוף, בעודו עובד בעובדות בתוך הדפדפן. תכונה חכמה שמשפרת את הproductivity של מפתחים.",
     "d": "Sat, 11 Apr 2026 09:13:38 +0000",
     "v": 0,
     "l": [
@@ -96,7 +96,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "NASA Artemis II crew splashes down safely on Earth after 694,000-mile roundtrip to moon\n\nNASA reports that the Artemis II crewmembers have now safely splashed down on Earth. Returning...",
+    "t": "צוות נאסא ארטמיס II נחת בבטחה על כדור הארץ לאחר טיול של 694,000 קילומטרים לירח וחזרה\n\nצוות ארטמיס II של נאסא סיים בהצלחה את המשימה ההיסטורית שלהם וחזר בשלום לכדור הארץ. האסטרונאוטים עברו טיול ענק של כמעט 700,000 קילומטרים - בדרך אל הירח ובחזרה - והנחיתו בצורה מצוינת במהלך סיום המשימה הקריטי.",
     "d": "Sat, 11 Apr 2026 09:02:26 +0000",
     "v": 0,
     "l": [
@@ -113,13 +113,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://www.youtube.com/embed/qanlfZgtj7o",
     "source": "Interesting Engineering"
   },
   {
     "id": 6,
-    "t": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night\n\nSomeone threw a Molotov cocktail at OpenAI CEO Sam Altman's home at 3:45 a.m. In response, Altman published a personal blog post admitting past mistakes and comparing the AI industry's power struggles to the \"Ring of Power.\"\nThe article Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night appeared first on The Decoder.",
+    "t": "מישהו זרק קוקטייל מולוטוב לבית מנכ\"ל OpenAI סם אלטמן באמצע הלילה\n\nבתקרית שלא צפויה, מישהו הטיל קוקטייל מולוטוב לעבר הבית של סם אלטמן בשעות הערב המוקדמות, והוא מיהר להשיב בבלוג אישי שבו התנצל על טעויות עבר והשווה את מלחמות הכוח בתעשיית ה-AI לטבעות הכוח מהשר הטבעות. התקרית מעלה שאלות חדשות על הלחצים המתגברים סביב פיתוח ה-AI וההשפעה שלו על חברי הנהלה בתעשייה.",
     "d": "Sat, 11 Apr 2026 08:51:58 +0000",
     "v": 0,
     "l": [
@@ -145,7 +145,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "China ramps up new sodium-ion EV battery cathodes as cells survive 572°F safety tests\n\nBy early 2026, China’s sodium-ion battery landscape had already tilted decisively toward polyanion-based chemistries, with...",
+    "t": "סין מעלה בקצב: סוללות ניתן-יון חדשות לרכבים חשמליים שעומדות במבחני בטיחות קיצוניים\n\nסין מתגברת על פיתוח סוללות sodium-ion חדשות לרכבים חשמליים, והתאים הללו עדיין פעילים אפילו בטמפרטורות של 300 מעלות צלזיוס - זה כבר קצת מטורף. נראה שהשוק שם כבר הטה בעדיפות לכימיה של polyanion, וזה יכול להשנות את המשחק בתחום הסוללות החשמליות.",
     "d": "Sat, 11 Apr 2026 08:43:47 +0000",
     "v": 0,
     "l": [
@@ -168,7 +168,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "How Knowledge Distillation Compresses Ensemble Intelligence into a Single Deployable AI Model\n\nComplex prediction problems often lead to ensembles because combining multiple models improves accuracy by reducing variance and capturing diverse patterns. However, these ensembles are impractical in production due to latency constraints and operational complexity. Instead of discarding them, Knowledge Distillation offers a smarter approach: keep the ensemble as a teacher and train a smaller student […]\nThe post How Knowledge Distillation Compresses Ensemble Intelligence into a Single Deployabl",
+    "t": "איך Knowledge Distillation דוחסת את הכוח של מספר מודלים AI לתוך מודל יחיד וקל לפריסה\n\nכשאתה צריך דיוק גבוה בחיזויים, אנשים בדרך כלל משתמשים בכמה מודלים ביחד (ensemble) - זה מקטין שגיאות ותופס דפוסים שונים. הבעיה? בייצור זה נורא איטי ויקר. Knowledge Distillation פותרת את הבעיה בדרך חכמה: היא משתמשת בחבורת המודלים כ'מורה' ומאמנת מודל קטן וקל יותר ללמוד ממנו - התוצאה היא שמקבלים את הדיוק של ensemble עם מהירות של מודל בודד. זה בעצם הוצאת כל המוח הקיבוצי לתוך מקום אחד ודחוס.",
     "d": "Sat, 11 Apr 2026 07:33:41 +0000",
     "v": 0,
     "l": [
@@ -191,7 +191,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "UK firm to boost US Army’s battle firepower with new cannons for 155mm Howitzer\n\nA London-based company is set to begin manufacturing M776 cannons for the U.S. Army’s M777...",
+    "t": "חברה בריטית תחזק את כוח הירי של צבא ארה\"ב עם תותחים חדשים לתוך Howitzer 155 מ\"מ\n\nחברה לונדונית מתכננת להתחיל בייצור תותחי M776 לצבא ארה\"ב, במטרה לשדרג את יכולות הירי של מערכת ה-Howitzer המפורסמת. הפרויקט הזה מציין שיתוף פעולה אסטרטגי בין בריטניה לארה\"ב בתחום הטכנולוגיה הצבאית, ולא זה הפעם הראשונה שאנו רואים חברות בריטיות משחקות תפקיד משמעותי בחיזוק יכולות צבאיות אמריקאיות.",
     "d": "Sat, 11 Apr 2026 06:30:14 +0000",
     "v": 0,
     "l": [
@@ -214,7 +214,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "MolmoWeb\n\nDiscussion\n            |\n            Link",
+    "t": "MolmoWeb\n\nנראה שמדובר בפרוייקט חדש שעוד לא תיארנו בפירוט, אבל כל אחד יכול להצטרף לדיון בקהילה. אם אתם כבר מנסים את זה, שתפו את החוויות שלכם בקישור שלמעלה ותעזרו לנו להבין טוב יותר מה זה בדיוק.",
     "d": "2026-04-11T05:50:24.000Z",
     "v": 0,
     "l": [
@@ -237,7 +237,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "Energy storage breakthrough traps sunlight in a molecule\n\nBeyond the rather low efficiency of today’s solar panels in converting the power of the sun into electricity, the transformational potential of solar energy is presently held back by battery storage technology.\nContinue Reading\nCategory: Energy, Engineering\nTags: Chemistry, Solar Power, UC Santa Barbara, Battery Technology",
+    "t": "פריצת דרך בטכנולוגיית אחסון אנרגיה: כיצד עוד מחזקים אור שמש במולקולה\n\nחוקרים מ-UC Santa Barbara הצליחו לעשות משהו די מטורף - לתפוס אור שמש ישירות במולקולה, מה שיכול לפתור את הבעיה הגדולה של אנרגיה סולארית כיום. בעוד שפנלים סולאריים הם די בזבוזניים בהמרת אור לחשמל, הבעיה האמיתית היא שאנחנו עדיין לא יודעים איך לאחסן את האנרגיה הזו בצורה טובה - ועכשיו יש כאן פתרון מרתק מצד הכימיה שיכול להיות משחק מחדש.",
     "d": "Sat, 11 Apr 2026 05:03:00 GMT",
     "v": 0,
     "l": [
@@ -254,13 +254,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "New Atlas"
   },
   {
     "id": 12,
-    "t": "Can defects boost light? Study shows flaws boost energy flow in organic semiconductors\n\nResearchers at Rice University have identified why a widely studied organic semiconductor behaves unpredictably with...",
+    "t": "האם פגמים יכולים לשפר אור? מחקר חדש מגלה שליקויים מגבירים זרימת אנרגיה בחומרים סמיקונדקטורים אורגניים\n\nחוקרים מאוניברסיטת Rice גילו משהו꼫 מעניין - התנהגות לא צפויה של semicoonductor אורגני פופולרי קשורה בעצם לפגמים בחומר! מסתבר שבדיוק החיבורים השגויים האלה הם שמאיצים את זרימת האנרגיה, במקום להאט אותה כמו שהרגיל היה לנו להניח. זה יכול להיות משחק משנה לפיתוח התקנים אלקטרוניים וטכנולוגיות אנרגיה יותר יעילות בעתיד. מקור: Interesting Engineering",
     "d": "Sat, 11 Apr 2026 04:27:27 +0000",
     "v": 0,
     "l": [
@@ -273,21 +273,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "regulation"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://www.youtube.com/embed/R5gDYNyuxLM",
     "source": "Interesting Engineering"
   },
   {
     "id": 13,
-    "t": "The Artemis II mission has ended. Where does NASA go from here?\n\n\"The work ahead is greater than the work behind us.\"",
+    "t": "מיסיון ארטמיס II הסתיימה. לאן עכשיו נאס\"א?\n\nארטמיס II סיימה את המשימה שלה, והנאסא עומדת בנקודת ציון חשובה בדרך חזרה לירח. העבודה שמחכה לנו עכשיו היא הרבה יותר גדולה מהעבודה שכבר עשינו, ודברים מעניינים מאוד מתחזקים בחזית הכבישה לירח.",
     "d": "Sat, 11 Apr 2026 03:24:21 +0000",
     "v": 0,
     "l": [
@@ -310,7 +306,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Liter-class superbike gets car-level aids to analyze the tarmac for you\n\nThe very first motorcycle from a relatively new company is often a stepping stone. More often than not, it would likely be a small displacement street bike made for the masses with white-labeled components, barebones tech, and definitely not a liter-class engine.\nContinue Reading\nCategory: Motorcycles, Transport\nTags: qjmotor, MV Agusta, Artificial Intelligence, Road Safety, Autonomous, Radar",
+    "t": "אופנוע בדרגת ליטר מקבל טכנולוגיות ניהול כמו במכוניות - לניתוח הכביש בשבילך\n\nחברה חדשה יחסית השיקה את האופנוע הראשון שלה - וזה לא אופנוע קטן ובסיסי כמו רוב הדפוסים הראשונים בתעשייה. במקום זאת, מדובר בפטיש ממש: ליטר-קלאס עם טכנולוגיות AI וראדאר שמנתחות את הכביש בזמן אמת, בדיוק כמו מערכות בטיחות מתקדמות במכוניות. זה משהו שלא ראינו קודם בעולם האופנועים!",
     "d": "Sat, 11 Apr 2026 02:03:00 GMT",
     "v": 0,
     "l": [
@@ -325,8 +321,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -334,7 +329,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "Four astronauts are back home after a daring ride around the Moon\n\n\"I can't imagine a better crew that just completed a perfect mission right now.\"",
+    "t": "ארבעה אסטרונאוטים חזרו הביתה אחרי טיול מסוכן סביב הירח\n\nהצוות של מיסיון Artemis I חזר בשלום לכדור הארץ אחרי מסע היסטורי סביב הירח, וקצין המיסיון לא יכול להסתיר את הגאווה שלו - זה היה בדיוק כמו שתכננו, אבל אפילו יותר מרשים. הטיול הזה סימן את ההחזרה של אדם לירח אחרי שנים רבות של המתנה.",
     "d": "Sat, 11 Apr 2026 01:21:10 +0000",
     "v": 0,
     "l": [
@@ -357,7 +352,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "Claude Code ultraplan\n\nDiscussion\n            |\n            Link",
+    "t": "Claude Code - התוכנית העל\n\nאנתרופיק חושפת תוכנית חדשה של Claude שנועדה להגביר את יכולות קידוד ה-AI. זו כנראה צעד משמעותי בעולם של מידול שפה שמיועד למפתחים. השדיון בפוראם מצביע על עניין רב בקרב הקהילה הטכנית הישראלית.",
     "d": "2026-04-11T01:05:00.000Z",
     "v": 0,
     "l": [
@@ -383,7 +378,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "Different people attract different mosquito species\n\nSome of us get bitten far more often than others. A new study, yet to be peer-reviewed and published in a journal, has revealed that certain mosquito species show a clear preference for men, while others zero in on specific scents from our skin. However, some experts in the field disagree on the significance of the findings.\nContinue Reading\nCategory: Biology, Science\nTags: Mosquito, Disease, Malaria, Insect",
+    "t": "אנשים שונים משכים מינים שונים של יתושים\n\nמחקר חדש חושף שיתושים שונים בעלי העדפות מובהקות - חלקם מעדיפים גברים בעוד אחרים נמשכים לריחות ספציפיים מהעור שלנו. זה מסביר למה חלקנו מקבלים עוקצות בהרבה יותר מאחרים, אבל עדיין יש דיון בקהילת המדענים על החשיבות האמיתית של הממצאים. המחקר עדיין לא עבר ביקורת עמיתים אבל כבר משנה את ההבנה שלנו על הקשר בין אדם ליתוש.",
     "d": "Sat, 11 Apr 2026 00:02:00 GMT",
     "v": 0,
     "l": [
@@ -400,13 +395,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "New Atlas"
   },
   {
     "id": 18,
-    "t": "aperture\n\nDiscussion\n            |\n            Link",
+    "t": "אפרצ'ור\n\nנראה שמדובר בדיון על מוצר חדש שהושק ב-Product Hunt, אבל פרטים מלאים לא זמינים כרגע. אם אתה מחפש להבין מה בדיוק זה, כדאי להיכנס ישירות לקישור ב-Product Hunt כדי לקרוא את התיאור המלא וההשיקה הרשמית.",
     "d": "2026-04-10T23:44:46.000Z",
     "v": 0,
     "l": [
@@ -429,7 +424,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "Man arrested after Sam Altman's house hit with Molotov cocktail, OpenAI headquarters threatened\n\nPolice arrested a suspect at OpenAI's headquarters for allegedly threatening arson after an attack on CEO Sam Altman's home.",
+    "t": "מעצר חשוד אחרי התקפה בבית סם אלטמן - קוקטיל מולוטוב וגם איומים על הטבחת אש בתא OpenAI\n\nהמשטרה עצרה חשוד בעבור איומי הצתה ופיגוע כולל בעיר סם אלטמן, מנכ\"ל OpenAI. החשוד מעורער במקום ההתקפה על הבית הפרטי של מנהל החברה הטכנולוגית הענקית, וגם הותקפה משכנתא של ה-AI ענקית עצמה.",
     "d": "Fri, 10 Apr 2026 23:17:40 GMT",
     "v": 0,
     "l": [
@@ -455,7 +450,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "Alibaba’s Tongyi Lab Releases VimRAG: a Multimodal RAG Framework that Uses a Memory Graph to Navigate Massive Visual Contexts\n\nRetrieval-Augmented Generation (RAG) has become a standard technique for grounding large language models in external knowledge — but the moment you move beyond plain text and start mixing in images and videos, the whole approach starts to buckle. Visual data is token-heavy, semantically sparse relative to a specific query, and grows unwieldy fast during multi-step […]\nThe post Alibaba’s Tongyi Lab Releases VimRAG: a Multimodal RAG Framework that Uses a Memory Graph to Navigate Massive Visual Con",
+    "t": "מעבדת Tongyi של אליבאבא משחררת VimRAG: פריימוורק RAG מולטימודלי שמשתמש בגרף זיכרון לניווט בהקשרים ויזואליים거대\n\nאליבאבא בחרה להתמודד עם הבעיה שכל אחד שנסה להטמיע vision לתוך RAG יודע עליה - כשאתה מצליח עם טקסט טהור אבל נכנס לעולם התמונות והסרטונים, כל המערכת כמו שמתחיל לנשום קשה עם מיליונים של tokenים. VimRAG החדש שלהם מציע פתרון חכם: גרף זיכרון שעוזר למודל הוויזן למצוא את המידע הרלוונטי בדיוק ללא צורך להטעין הכל. בעצם, הם למדו לדבר עם תמונות כמו שמדברים עם טקסט.",
     "d": "Fri, 10 Apr 2026 23:06:41 +0000",
     "v": 0,
     "l": [
@@ -472,13 +467,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-10-at-4.04.36-PM-1.png",
     "source": "MarkTechPost"
   },
   {
     "id": 21,
-    "t": "Elon Musk’s xAI faces fresh opposition after landing permit for Mississippi power plant\n\nMusk's xAI, now owned by SpaceX, faces a legal challenge from environmental groups opposed to a massive power plant in Mississippi.",
+    "t": "xAI של אלון מאסק מתמודדת עם התנגדות חדשה לאחר קבלת היתר לתחנת כוח במיסיסיפי\n\nחברת xAI של מאסק, שכעת בבעלות SpaceX, עומדת מול אתגר משפטי מארגוני סביבה שמתנגדים לתחנת הכוח ענקית במיסיסיפי. נראה שהדרישה לכוח עצום לאימון מודלי AI מתמודדת עם עמדה סביבתית חזקה בדרום אמריקה. המערכה משקפת את המתח הגובר בין הצורך בתשתיות אנרגטיות לבין דאגות סביבתיות בעידן ה-AI.",
     "d": "Fri, 10 Apr 2026 23:05:01 GMT",
     "v": 0,
     "l": [
@@ -501,7 +496,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "US authorizes Mach 5+ Dark Eagle hypersonic missile for rapid global strike missions\n\nThe United States has placed its Long-Range Hypersonic Weapon (LRHW), known as Dark Eagle, under...",
+    "t": "ארה״ב מאישרה טיל היפרסוני Dark Eagle במהירות Mach 5+ למשימות תקיפה גלובלית\n\nארה״ב השלימה את ההכנות להנעת הטיל היפרסוני Dark Eagle לשירות, שכבר מסוגל להגיע ליעדים בחלקי העולם השונים בתוך דקות ספורות. זה סוג של חיזוק צבאי שמשנה את כללי המשחק בעולם, כי אי אפשר בעצם להגן מפני כזה מהירות. כל זה קורה כמו שהתחרויות הצבאיות בין המעצמות הגדולות ממשיכות להתגבר.",
     "d": "Fri, 10 Apr 2026 23:04:01 +0000",
     "v": 0,
     "l": [
@@ -524,7 +519,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "Torqued-loop Sharrow propeller hits breakthrough in production scaling\n\nSharrow knew it had a market disruptor on its hands the instant it transformed propeller blades into more efficient twisted loops. The hold-up of that disruption, however, has been in getting those props out of the factory and onto the actual market. Now it receives a big helping hand from a rather well-known fellow Detroiter: Ford Motor Company. Ford's expertise in 3D sand-casting technology has broken open Sharrow's path to scaled production, promising to fractionalize build times.\nContinue Re",
+    "t": "יתרון ענק לחברה Sharrow: פורד עוזרת לייצר את הפרופלרים המעוקלים החדשניים\n\nחברת Sharrow עשתה עבודה מדהימה בשינוי כנפי הפרופלר ללולאות מעוקלות שחוסכות דלק באופן משמעותי, אבל הבעיה הייתה איך להכניס את זה לייצור בקנה מידה גדול. עכשיו פורד מוטור קומפני באה לעזרה עם הטכנולוגיה של 3D sand-casting שלה, וזה פוגע חזק בזמני הייצור של החברה. התוצאה? הם יוכלו סוף סוף להוציא את ההמצאה המדהימה שלהם לשוק בגדול.",
     "d": "Fri, 10 Apr 2026 23:03:00 GMT",
     "v": 0,
     "l": [
@@ -541,13 +536,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "New Atlas"
   },
   {
     "id": 24,
-    "t": "Solid-state nuclear battery claims 100-year power for ultra-low energy devices\n\nA U.S.-based nuclear materials firm has unveiled a solid-state battery it claims can deliver continuous...",
+    "t": "סוללה גרעינית במצב מוצק: 100 שנות חשמל למכשירים בצריכה נמוכה\n\nחברה אמריקאית לטכנולוגיה גרעינית חשפה סוללה חדשה שטוענת שתוכל לספק זרם חשמלי רציף למשך מאה שנה - זה יכול להיות משחק לגמרי שונה למכשירים כמו חיישנים, טלסקופים בחלל וציוד רפואי שפשוט לא יכולים להיטעם. אם הדבר עובד כמו שמדברים עליו, זה עלול להפוך את הגדרת ה-battery life מחדש עבור מכשירים שלא צריכים עוצמה רבה אך צריכים להישאר פעילים לנצח.",
     "d": "Fri, 10 Apr 2026 22:10:25 +0000",
     "v": 0,
     "l": [
@@ -570,7 +565,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "South Korea clears Saeul 3 nuclear reactor for criticality after fuel, heat tests\n\nSouth Korea has cleared a major milestone for its next-generation nuclear fleet, bringing the Saeul...",
+    "t": "דרום קוריאה אישרה את כור הגרעין Saeul 3 להתחלת פעילות לאחר בדיקות דלק וחום\n\nדרום קוריאה עברה בהצלחה תחנת דרך משמעותית בפיתוח הדור הבא של כורי גרעין שלה - Saeul 3 קיבל ירוק לנסוע בעיצומו של בדיקות דלק וחום קריטיות. הכור החדש הזה יהיה חלק מהיצע האנרגיה של המדינה בעוד כמה שנים, ומייצג את הדרך של דרום קוריאה להישאר ממשלט בטכנולוגיה גרעינית מתקדמת בעולם.",
     "d": "Fri, 10 Apr 2026 21:47:15 +0000",
     "v": 0,
     "l": [
@@ -593,7 +588,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 26,
-    "t": "Californians sue over AI tool that records doctor visits\n\nPlaintiffs say transcription tool processed confidential chats offsite.",
+    "t": "תושבי קליפורניה תובעים על כלי AI שמקליט ביקורים אצל הרופא\n\nתובעים טוענים שכלי התמלול עיבד שיחות סודיות מחוץ למקום - וזה מעלה שאלות חמורות על פרטיות נתונים רפואיים. זה עוד סיפור על חברות שממהרות להטמיע AI בלי לחשוב כל הצורך על ההשלכות של שימוש באלגוריתמים על מידע רגיש של חולים.",
     "d": "Fri, 10 Apr 2026 21:43:33 +0000",
     "v": 0,
     "l": [
@@ -616,7 +611,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 27,
-    "t": "Vance, Bessent questioned tech giants on AI security before Anthropic's Mythos release\n\nBessent and Fed Chair Jerome Powell separately met with the heads of the biggest U.S. banks to address the potential cyber threat of Anthropic's Mythos.",
+    "t": "וודים וביסנט שאלו את ענקי הטק על אבטחת AI לפני ההשקה של Mythos של Anthropic\n\nביסנט וראש הפדרל ריזרב ג'רום פאוול התכנסו בנפרד עם מנהלי הבנקים הגדולים בארה\"ב כדי לבחון את הסכנות הקיברנטיות הפוטנציאליות מ-Mythos החדש של Anthropic. נראה שהטיפול השמור בהשקת המודל החדש הוא לא בקריאות, אלא בדברים שהרשויות האמריקאיות כבר מנסות להבין לפני שהטכנולוגיה תהיה בשימוש נרחב.",
     "d": "Fri, 10 Apr 2026 21:39:21 GMT",
     "v": 0,
     "l": [
@@ -634,9 +629,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -644,7 +637,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 28,
-    "t": "Trump praises Palantir as stock has worst week in over a year and Iran conflict drags on\n\nPalantir's Maven platform have reportedly been used in the U.S. military campaign in Iran.",
+    "t": "טראמפ משבח את Palantir בזמן שהמניה חוותה שבוע הגרוע ביותר שלה בשנה וההסלמה עם איראן מתגברת\n\nפלטפורמת Maven של Palantir שימשה לכאורה בקמפיין הצבאי של ארה\"ב נגד איראן. למרות הערכות חיוביות מצד טראמפ, מניית החברה סובלת מנפילה משמעותית בשוק בימים אלה.",
     "d": "Fri, 10 Apr 2026 21:16:19 GMT",
     "v": 0,
     "l": [
@@ -659,16 +652,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 29,
-    "t": "Fake birds, real impact: Robotic decoys aim to revive grouse populations in US\n\nRobotic bird decoys are being deployed at Grand Teton National Park to influence the behavior...",
+    "t": "ציפורים מזויפות, השפעה אמיתית: פסלונים רובוטיים במטרה להציל את אוכלוסיית השדרגלים בארה״ב\n\nבפארק גרנד טטון משתמשים בציפורים רובוטיות כדי להשפיע על התנהגות התוכים האמיתיים ולהציל את האוכלוסיות המתדלדלות שלהם. זה לא סתם עוד פרויקט מגניב של טכנולוגיה - יש כאן משימה ממש משמעותית של שימור טבע שמשתמשת בחדשנות מודרנית. המדענים מקווים שהרובוטים הללו יעזרו לציפורים האמיתיות להישאר באזורים מסוימים ולהגדיל את האוכלוסיות שלהן.",
     "d": "Fri, 10 Apr 2026 21:08:33 +0000",
     "v": 0,
     "l": [
@@ -683,8 +675,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -692,7 +683,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 30,
-    "t": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude\n\nThis ban took place after Claude's pricing changed for OpenClaw users last week.",
+    "t": "Anthropic חסמה באופן זמני את יוצר OpenClaw מגישה ל-Claude\n\nאנתרופיק החליטה לחסום את גישתו של יוצר OpenClaw לפלטפורמת Claude בעקבות שינוי במחירי השימוש שהתחיל בשבוע שעבר. נראה שהחברה לקחה את הצעד הזה עקב מחלוקת סביב מדיניות התמחור החדשה שהשפיעה ישירות על משתמשי OpenClaw.",
     "d": "Fri, 10 Apr 2026 20:27:52 +0000",
     "v": 0,
     "l": [
@@ -719,7 +710,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 31,
-    "t": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house\n\nSan Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman's Russian Hill house early Friday morning, The San Francisco Standard reports. The incident was caught on surveillance cameras shortly before 7AM ET. Later that morning, someone matching the suspect's description was seen making threats outside OpenAI's Mission Bay offices, where he was arrested around 9AM ET. \nOpenAI spokesperson Jamie Radice confirmed the incident in a stateme",
+    "t": "בן 20 נעצר בחשד להטלת קוקטייל מולוטוב על בית מנכ\"ל OpenAI סם אלטמן\n\nמשטרת סן פרנסיסקו עצרה בן 20 בחשד להטלת קוקטייל מולוטוב על ביתו של סם אלטמן, מנכ\"ל OpenAI, בעיר בשעות הבוקר המוקדמות של יום שישי. האירוע תועד בקamera אבטחה, ובהמשך אותו בוקר הופיע חוקר בתחנות OpenAI בעיר, שם הוא גם נעצר. OpenAI אישרה את ההתרחשות במהלך הבוקר. (מקור: The Verge AI)",
     "d": "2026-04-10T20:16:57.000Z",
     "v": 0,
     "l": [
@@ -739,13 +730,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 32,
-    "t": "A Coding Guide to Markerless 3D Human Kinematics with Pose2Sim, RTMPose, and OpenSim\n\nIn this tutorial, we build and run a complete Pose2Sim pipeline on Colab to understand how markerless 3D kinematics works in practice. We begin with environment setup, configure the project for Colab’s headless runtime, and then walk through calibration, 2D pose estimation, synchronization, person association, triangulation, filtering, marker augmentation, and OpenSim-based kinematics. As we progress, […]\nThe post A Coding Guide to Markerless 3D Human Kinematics with Pose2Sim, RTMPose, and OpenS",
+    "t": "מדריך תכנות לקינמטיקה תלת-ממדית ללא סימנים עם Pose2Sim, RTMPose, ו-OpenSim\n\nסיור מעשי וממש מעניין בעולם תנועה תלת-ממדית ללא צורך בסימנים פיזיים - אנחנו בונים pipeline שלם של Pose2Sim ב-Colab ומריצים אותו מההתחלה ועד הסוף. התהליך כולל calibration, אומדן pose בתמונות 2D, סנכרון, זיהוי אנשים, triangulation, filtering וברכיב ה-OpenSim לחישוב kinematics אמיתי. זה בעצם הגוף כמו מצלמה חכמה שמבינה איך זז.",
     "d": "Fri, 10 Apr 2026 20:14:41 +0000",
     "v": 0,
     "l": [
@@ -768,7 +759,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 33,
-    "t": "New paper argues history, not mantle plume, powers Yellowstone\n\nA now-vanished plate under North America may open the crust below Yellowstone.",
+    "t": "מאמר חדש: ההיסטוריה, לא זרימת מעטפת, היא שמנעה את ייllowstone\n\nחוקרים טוענים שלוח טקטוני שנעלם מתחת לצפון אמריקה עשוי להיות המפתח להבנת כיצד נוצר הסדק במעטפת האדמה מתחת ל-Yellowstone. זה אומר שהפרוץ הגיאותרמי האיקוני הזה לא בגלל עמודת אבקה חמה מעמוקי כדור הארץ, אלא יותר מוגבל מ-reshuffling גיאולוגי שהתרחש בעבר.",
     "d": "Fri, 10 Apr 2026 20:06:39 +0000",
     "v": 0,
     "l": [
@@ -791,7 +782,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 34,
-    "t": "CoreWeave stock pops 11% on deal to power Anthropic's Claude\n\nThe deal comes one day after Meta committed an additional $21 billion in spending to the cloud provider as AI demand continues to soar.",
+    "t": "מניית CoreWeave זינקה ב-11% לאחר עסקה להנעת Claude של Anthropic\n\nהעסקה הוכרזה יום אחרי שמטא התחייבה להשקיע 21 מיליארד דולר נוסף בספק הענן, בזמן שהביקוש ל-AI ממשיך לעלות לשמיים. CoreWeave מאבדת כל הזמן שחקנים גדולים שרוצים להבטיח לעצמם קיבולת GPU לבניית מודלי בינה מלאכותית.",
     "d": "Fri, 10 Apr 2026 20:01:56 GMT",
     "v": 0,
     "l": [
@@ -806,20 +797,20 @@ window.TELEGRAM_DATA = [
     ],
     "co": [
       "Anthropic",
-      "Meta"
+      "Nvidia"
     ],
     "tags": [
       "news",
       "model",
-      "funding"
+      "hardware"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 35,
-    "t": "OpenAI Says Not to Worry About UBI, Because It Has Another Idea\n\nWe all hold stock down here.\nThe post OpenAI Says Not to Worry About UBI, Because It Has Another Idea appeared first on Futurism.",
+    "t": "OpenAI אומרת: אל תדאגו מ-UBI, יש לנו רעיון אחר\n\nOpenAI חשפה חלופה משלה לרעיון ההכנסה הבסיסית האוניברסלית (UBI), במקום להסתמך על מודל כזה כדי להתמודד עם השינויים בשוק העבודה שיביא AI. במקום זאת, החברה מציעה מודל שונה שעשוי להיות מקרוב יותר לתוכניות השקעה בקהילה ופיתוח כלכלי. Futurism",
     "d": "Fri, 10 Apr 2026 16:01:33 -0400",
     "v": 0,
     "l": [
@@ -845,7 +836,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 36,
-    "t": "Buildermark\n\nDiscussion\n            |\n            Link",
+    "t": "Buildermark\n\nנראה שמדובר בפלטפורמה חדשה שהעלו ל-Product Hunt, אבל הפרטים המדויקים עדיין לא ברורים לנו משום שיש רק קישור ודיון. אם אתם רוצים לגלות מה בדיוק זה Buildermark, כדאי לכם להיכנס ישירות לדף המוצר ולקרוא את התגובות של הקהילה שם - זה בדרך כלל המקום שבו מסתתרות הפנינים האמיתיות.",
     "d": "2026-04-10T19:40:53.000Z",
     "v": 0,
     "l": [
@@ -868,7 +859,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 37,
-    "t": "Faster, safer solid-state EV batteries unlocked with new US-made super polymer\n\nA superionic polymer developed by US scientists could potentially help overcome of the biggest hurdles...",
+    "t": "סוללות EV מצב מוצק מהירות ובטוחות יותר: פולימר סופר-אמריקאי חדש שינוי משחק\n\nמדענים אמריקאים פיתחו פולימר סופריוני שיכול להיות נקודת המפנה לסוללות EV של עתיד - מהירות יותר לטעינה, בטיחות משופרת והחזקה נוכחית. הטכנולוגיה הזאת עלולה לשחק תפקיד ממשי בהתגברות על המכשולים הגדולים ביותר של תעשיית הרכב החשמלי. מקור: Interesting Engineering",
     "d": "Fri, 10 Apr 2026 19:38:08 +0000",
     "v": 0,
     "l": [
@@ -891,7 +882,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 38,
-    "t": "Steel rebar may have met its match – in the form of wavy plastic\n\nWho could possibly compare to Superman, the Man of Steel? Definitely not a man of plastic! Right? Wrong. Researchers at the University of Sharjah, UAE, have discovered that plastics, in certain shapes, may perform as well as steel bars as reinforcement materials in concrete.\nContinue Reading\nCategory: Materials, Engineering\nTags: Building and Construction, Concrete, Plastic",
+    "t": "פלסטיק גלי יכול להחליף את פלדת הזיון? חוקרים טוענים שזה אפשרי\n\nמחקר חדש באוניברסיטת שריקה בעUAE הוכיח שפלסטיק בצורות מסוימות יכול להעמוד בתחרות עם פלדת הזיון המסורתית כחומר חיזוק בבטון. אם התגלית הזו תיכנס לשימוש תעשייתי, היא יכולה להיות משחק משמעותי בתעשיית הבנייה והקונסטרוקציה. זו עוד דוגמה לכך שחומרים עתידיים יכולים להחליף פתרונות מסורתיים בעלי השפעה סביבתית כבדה יותר.",
     "d": "Fri, 10 Apr 2026 19:19:48 GMT",
     "v": 0,
     "l": [
@@ -914,7 +905,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 39,
-    "t": "OpenAI CEO Sam Altman’s home targeted with molotov cocktail\n\nSuspect arrested but not identified and has allegedly made similar threats to OpenAI’s San Francisco headquarters\nA 20-year-old man allegedly tossed a molotov cocktail at the home of Sam Altman, OpenAI’s CEO, before the sun rose on Friday, according to statements from San Francisco police.\nThe suspect, who allegedly threw the fire bomb at the $27m North Beach residence around 4.12am, has been arrested but not identified. The same person allegedly threatened to torch OpenAI’s headquarters in the ",
+    "t": "בית מנכ\"ל OpenAI סאם אלטמן הותקף בקוקטייל מולוטוב\n\nצעיר בן 20 תקף את הבית של סאם אלטמן בסן פרנסיסקו בשעות הבוקר המוקדמות בעזרת קוקטייל מולוטוב, והוא גם איים להצית את משרדי OpenAI. החשוד נעצר אך עדיין לא זוהה, אבל כנראה שיש לו אובססיה עם החברה ולא סתם כל מישהו שונה אקראי.",
     "d": "Fri, 10 Apr 2026 19:08:27 GMT",
     "v": 0,
     "l": [
@@ -940,7 +931,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 40,
-    "t": "F1 moves a step closer to fixing its 2026 hybrid problem\n\nAlgorithms, not drivers, are deciding how hard to accelerate, and that's no good.",
+    "t": "פורמולה 1 מתקרבת לפתרון בעיית ההייברידי של 2026\n\nבימים אלה, אלגוריתמים מחליטים בכמה כוח להאיץ במקום הנהגים עצמם, וזה בעצם לא המצב שהחברה רוצה. Ars Technica דיווחה שהפדרציה עובדת על תיקונים שישחררו את הנהגים מהשליטה של המחשבים בהחלטות כזה חשובות.",
     "d": "Fri, 10 Apr 2026 19:07:46 +0000",
     "v": 0,
     "l": [
@@ -963,7 +954,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 41,
-    "t": "Deepmind CEO Hassabis says AGI will hit like ten industrial revolutions compressed into a single decade\n\nDeepmind CEO Demis Hassabis thinks AGI could arrive within five years and compares its impact to ten times the industrial revolution, unfolding in a tenth of the time. Yet he warns that AI is overhyped right now and still vastly underestimated over the next decade.\nThe article Deepmind CEO Hassabis says AGI will hit like ten industrial revolutions compressed into a single decade appeared first on The Decoder.",
+    "t": "מנכ\"ל DeepMind: AGI יכול להגיע תוך חמש שנים ויהיה כמו עשר מהפכות תעשייתיות בעשור אחד\n\nדמיס האסאביס, מנכ\"ל DeepMind, חושב שהינטליגנציה כללית (AGI) יכולה להגיע כבר תוך חמש שנים, ומשווה את ההשפעה שלה לעשר מהפכות תעשייתיות שיקורו בעשור בלבד. הוא מזהיר שכרגע ה-AI מיוהצגן יתר על המידה בעיני הציבור, אך עדיין מוערך פחות מדי כשחוזים לעשור הבא. (מקור: The Decoder)",
     "d": "Fri, 10 Apr 2026 19:06:18 +0000",
     "v": 0,
     "l": [
@@ -989,7 +980,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 42,
-    "t": "Police Officer Helplessly Waves Arms at Waymo That Careened Wrong Way Through Whataburger Drive-Thru\n\nThey're becoming a real pest.\nThe post Police Officer Helplessly Waves Arms at Waymo That Careened Wrong Way Through Whataburger Drive-Thru appeared first on Futurism.",
+    "t": "שוטר משכשך בידיים בתוקף בפני רכב Waymo שנכנס בכיוון הלוך בדרך-כיתה של וואטהברגר\n\nהרכבים האוטונומיים של Waymo הופכים לאיום אמיתי בכבישים - הפעם טכנולוגיית הנהיגה העצמית של גוגל כמעט תיקרקע את פעולות משטרה בזמן שנכנסה בכיוון הלוך לתור של דרייב-תרו. זה כבר לא מצחיק כשהמכוניות האלה מתערבבות בתנועה האמיתית, ויש כמה שאלות חמורות על בטיחות והיכולת של ה-AI האלה להתמודד עם סיטואציות לא צפויות.",
     "d": "Fri, 10 Apr 2026 15:03:07 -0400",
     "v": 0,
     "l": [
@@ -1012,7 +1003,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 43,
-    "t": "Report: US demands Reddit unmask ICE critic, summons firm to grand jury\n\nTrump admin reportedly gets grand jury involved in attempt to identify Redditor.",
+    "t": "דו\"ח: ארה\"ב דורשת מרדיט לחשוף מבקר של ICE, קוראת לחברה להופיע בפני חבר המושבעים\n\nנראה שממשל טראמפ העביר את העניין לחבר משבעים בניסיון לזהות משתמש רדיט שהביע ביקורת על שירות ההגירה. זה עוד אחד מהמקרים שבהם רשויות מנסות לחודור להיתרונות ההעלמה של רשתות חברתיות כדי לצמצם חופש דיבור ביקורתי. מקור: Ars Technica",
     "d": "Fri, 10 Apr 2026 18:43:25 +0000",
     "v": 0,
     "l": [
@@ -1029,43 +1020,17 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/reddit-icon-1152x648-1752522571.jpg",
     "source": "Ars Technica"
   },
   {
     "id": 44,
-    "t": "Microsoft's \"commitment to Windows quality\" starts with overhaul of beta program\n\nWindows Insider builds remain confusing, but they should be more predictable.",
+    "t": "מיקרוסופט מחדשת את תוכנית ה-Beta שלה כדי לשפר את איכות Windows\n\nמיקרוסופט מנסה סוף סוף להוציא סדר בתוכנית Windows Insider שלה, שהייתה די מבלבלת עד עכשיו. הרעיון הוא להפוך את כל התהליך של בדיקת גרסאות חדשות של Windows ליותר צפוי וסדור, כי כמובן שזה חשוב לתיקון באגים ובעיות לפני שהגרסה מגיעה לכל אחד. מהנראה שהחברה מבינה שאם רוצים ש-Windows תהיה איכותית, צריך להתחיל מלבחון את הקוד באופן סדור יותר.\n\nמקור: Ars Technica",
     "d": "Fri, 10 Apr 2026 18:00:44 +0000",
     "v": 0,
     "l": [
       "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features/"
-    ],
-    "lp": null,
-    "vid": false,
-    "img": true,
-    "fwd": null,
-    "cats": [
-      "news"
-    ],
-    "co": [
-      "Microsoft"
-    ],
-    "tags": [
-      "news",
-      "product"
-    ],
-    "imp": "low",
-    "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/win11-dark-wallpaper-1152x648.jpeg",
-    "source": "Ars Technica"
-  },
-  {
-    "id": 45,
-    "t": "Someone Just Threw a Molotov Cocktail At Sam Altman’s House\n\nAn arrest was made.\nThe post Someone Just Threw a Molotov Cocktail At Sam Altman’s House appeared first on Futurism.",
-    "d": "Fri, 10 Apr 2026 14:00:00 -0400",
-    "v": 0,
-    "l": [
-      "https://futurism.com/artificial-intelligence/molotov-cocktail-sam-altman-house"
     ],
     "lp": null,
     "vid": false,
@@ -1079,12 +1044,38 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "imp": "low",
+    "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/win11-dark-wallpaper-1152x648.jpeg",
+    "source": "Ars Technica"
+  },
+  {
+    "id": 45,
+    "t": "מישהו הטיל בקוקטיל מולוטוב על בית של סם אלטמן\n\nבמהלך הלילה, הושלך בקוקטיל מולוטוב על ביתו של סם אלטמן, המנהל של OpenAI, וכבר נעצר חשוד בקשר לתקרית. התושבים בשכונה היו מזועזעים מהתקרית החמורה הזו שאירעה בבית של אחד מכמה מן ההשפעה ביותר בעולם ה-AI.",
+    "d": "Fri, 10 Apr 2026 14:00:00 -0400",
+    "v": 0,
+    "l": [
+      "https://futurism.com/artificial-intelligence/molotov-cocktail-sam-altman-house"
+    ],
+    "lp": null,
+    "vid": false,
+    "img": true,
+    "fwd": null,
+    "cats": [
+      "news"
+    ],
+    "co": [
+      "OpenAI"
+    ],
+    "tags": [
+      "news",
+      "model"
+    ],
+    "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/molotov-cocktail-sam-altman-house.jpg?quality=85",
     "source": "Futurism"
   },
   {
     "id": 46,
-    "t": "Microsoft simplifies Windows Insider program — fewer channels, and switching without wiping your device\n\nMicrosoft is simplifying the Windows Insider program with fewer channels, making it easier to switch between them and enable the latest features.",
+    "t": "מיקרוסופט מפשטת את תוכנית Windows Insider — פחות ערוצים והחלפה ללא שמירת הנתונים\n\nמיקרוסופט מחליטה לפשט את תוכנית Windows Insider שלה על ידי הקטנת מספר הערוצים, וזה יהפוך את התהליך של עברות בין ערוצים שונים להרבה יותר קל ותאים — בלי צורך למחוק שום דבר מהמחשב שלכם. בעצם, כל מי שרוצה להתנסות בתכונות חדשות ביותר של Windows יוכל לעשות זאת בקלות רבה יותר מאשר בעבר.",
     "d": "Fri, 10 Apr 2026 18:00:00 +0000",
     "v": 0,
     "l": [
@@ -1097,12 +1088,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/A3bqjPsbEd6W9WtTAebSpJ-1280-80.jpg",
@@ -1110,7 +1098,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 47,
-    "t": "\"Oobleck\" still holds some surprises\n\nDense drops of oobleck with high shear rates spread out like a liquid before stiffening into a solid.",
+    "t": "\"אובלק\" עדיין מסתיר הפתעות\n\nמדענים גילו שטיפות צפופות של אובלק בקצב גזירה גבוה מתפשטות כמו נוזל לפני שהופכות לחומר קשיח - והחומר המוזר הזה עדיין מחזיק בתעלומות שלא הצפינו עד הבאה. Ars Technica",
     "d": "Fri, 10 Apr 2026 17:57:21 +0000",
     "v": 0,
     "l": [
@@ -1133,7 +1121,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 48,
-    "t": "NVIDIA Releases AITune: An Open-Source Inference Toolkit That Automatically Finds the Fastest Inference Backend for Any PyTorch Model\n\nDeploying a deep learning model into production has always involved a painful gap between the model a researcher trains and the model that actually runs efficiently at scale. TensorRT exists, Torch-TensorRT exists, TorchAO exists — but wiring them together, deciding which backend to use for which layer, and validating that the tuned model still produces […]\nThe post NVIDIA Releases AITune: An Open-Source Inference Toolkit That Automatically Finds the Fastest Inference Backend for Any PyTorch Mod",
+    "t": "NVIDIA משחררת AITune: ערכת כלים קוד פתוח שמוצאת אוטומטית את ה-Backend ההסקה הכי מהיר לכל מודל PyTorch\n\nNVIDIA חסלה את כאב הראש של deployment - הכלי החדש AITune בקוד פתוח יודע לבחור לך אוטומטית איזה backend להריץ (TensorRT, Torch-TensorRT ועוד) כדי שהמודל שלך רץ במהירות מקסימלית בייצור. עד עכשיו מפתחים היו צריכים להתעסק בעצמם עם כל המורכבות של wire-up בין כלים שונים - AITune פשוט עושה את זה בשבילך וודא שהמודל לא איבד דיוק בדרך.",
     "d": "Fri, 10 Apr 2026 17:43:00 +0000",
     "v": 0,
     "l": [
@@ -1153,13 +1141,13 @@ window.TELEGRAM_DATA = [
       "news",
       "hardware"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "MarkTechPost"
   },
   {
     "id": 49,
-    "t": "Anthropic’s new AI tool has implications for us all – whether we can use it or not | Shakeel Hashim\n\nClaude Mythos’s apparent superhuman hacking abilities are alarming experts as the Trump administration remains blinded by hostility\nIn June 2024, a cyber-attack on a pathology services company caused chaos across London’s hospitals. More than 10,000 appointments were cancelled. Blood shortages followed and delays to blood tests led to a patient’s death.\nLethal cyber-attacks like this are thankfully rare. But a new AI release could change that – plunging us into a terrifying new world of chaos an",
+    "t": "כלי ה-AI החדש של Anthropic משפיע על כולנו – בין אם אנחנו יכולים להשתמש בו או לא | Shakeel Hashim\n\nClaude Mythos, ה-AI החדש של Anthropic, גורם לחלחלה בקרב מומחי הסייבר בגלל יכולות האקינג שלו שנראות כאנושיות. בזמן שממשל טראמפ מתעלם מהאיום, מדענים מזהירים שמודל זה יכול לשנות לחלוטין את הנוף של התקפות סייבר - מעבר להתקפה בבתי חולים בלונדון שהחליקה למעלה מ-10 אלף תורים. זו לא עוד תיאוריה שכנעה: החשש הוא שאנחנו עומדים בפתח עידן חדש וחطר של כאוס דיגיטלי.",
     "d": "Fri, 10 Apr 2026 17:31:45 GMT",
     "v": 0,
     "l": [
@@ -1177,8 +1165,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/3afc39d2a8b0a3f01e27daff3016624d884dd56d/557_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=85ec4b50a5ab5e8f47e3cc1011ef6a72",
@@ -1186,7 +1173,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 50,
-    "t": "The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217;\n\nDonald Trump has spun the recent rescue of a downed airman whose fighter jet was destroyed behind Iranian borders as a resounding success. But the story is very different in one of the many viral, AI-generated Lego videos that have been produced by Iranian content creation group Explosive Media in the weeks since the US and Israel began dropping bombs on the country. In Explosive Media's music video take on how things played out, the US military is a joke for losing multiple planes and helicopte",
+    "t": "יוצרי הוידיאו AI של לגו האיראנית מייחסים את הנפיצות שלהם ל'לב'\n\nקבוצת יצירת תוכן איראנית בשם Explosive Media הפכה לוירלית עם סדרה של סרטונים מעוצבים בעזרת AI ובדמויות לגו, שמתמודדת עם עדכניות צבאיות מהאזור. בעוד שטראמפ מהלל את החילוץ של טייס אמריקאי שנפל מאחורי קווי איראניים, הקבוצה ההומוריסטית מציגה את הסיפור בצורה הרבה יותר קטנוני - מעירה את הצחוק על אובדן מטוסים ומסוקים של צבא ארה\"ב. מה שמעניין באמת הוא שהם מייחסים את ההצלחה הוירלית שלהם בעיקר לחיבור רגשי עם הקהל, לא רק לטכנולוגיה.",
     "d": "2026-04-10T17:30:00.000Z",
     "v": 0,
     "l": [

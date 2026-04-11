@@ -1,7 +1,7 @@
 {
   "total": 3421,
-  "translated": 2263,
-  "untranslated": 1158,
+  "translated": 2313,
+  "untranslated": 1108,
   "today": 189,
   "week": 3368,
   "sources": [
@@ -20,19 +20,19 @@
     {
       "name": "Product Hunt",
       "total": 199,
-      "translated": 131,
+      "translated": 135,
       "lastDate": "2026-04-11T05:50:24.000Z"
     },
     {
       "name": "Futurism",
       "total": 121,
-      "translated": 99,
+      "translated": 103,
       "lastDate": "Wed, 08 Apr 2026 16:29:40 -0400"
     },
     {
       "name": "Tom's Hardware",
       "total": 105,
-      "translated": 70,
+      "translated": 71,
       "lastDate": "Wed, 08 Apr 2026 19:45:25 +0000"
     },
     {
@@ -50,13 +50,13 @@
     {
       "name": "New Atlas",
       "total": 88,
-      "translated": 69,
+      "translated": 74,
       "lastDate": "Wed, 08 Apr 2026 23:03:00 GMT"
     },
     {
       "name": "Ars Technica",
       "total": 82,
-      "translated": 53,
+      "translated": 61,
       "lastDate": "Wed, 08 Apr 2026 22:00:11 +0000"
     },
     {
@@ -80,19 +80,19 @@
     {
       "name": "CNBC Tech",
       "total": 70,
-      "translated": 45,
+      "translated": 50,
       "lastDate": "Wed, 08 Apr 2026 23:52:04 GMT"
     },
     {
       "name": "Interesting Engineering",
       "total": 63,
-      "translated": 30,
+      "translated": 40,
       "lastDate": "Wed, 08 Apr 2026 23:24:03 +0000"
     },
     {
       "name": "TechCrunch AI",
       "total": 55,
-      "translated": 42,
+      "translated": 43,
       "lastDate": "Wed, 08 Apr 2026 21:05:13 +0000"
     },
     {
@@ -104,13 +104,13 @@
     {
       "name": "The Decoder",
       "total": 43,
-      "translated": 26,
+      "translated": 30,
       "lastDate": "Wed, 08 Apr 2026 18:00:03 +0000"
     },
     {
       "name": "The Guardian AI",
       "total": 37,
-      "translated": 27,
+      "translated": 29,
       "lastDate": "Wed, 08 Apr 2026 22:13:18 GMT"
     },
     {
@@ -122,7 +122,7 @@
     {
       "name": "The Verge AI",
       "total": 30,
-      "translated": 20,
+      "translated": 22,
       "lastDate": "2026-04-10T20:16:57.000Z"
     },
     {
@@ -134,7 +134,7 @@
     {
       "name": "MarkTechPost",
       "total": 27,
-      "translated": 20,
+      "translated": 24,
       "lastDate": "Wed, 08 Apr 2026 22:43:24 +0000"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-11T10:18:35.030Z"
+  "generatedAt": "2026-04-11T11:01:41.818Z"
 }
