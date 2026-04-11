@@ -75,7 +75,9 @@ Respond with ONLY this JSON (no markdown, no code blocks):
 async function main() {
   const db = loadDb();
 
-  const candidates = db.articles.filter((a) => !a.translated);
+  const candidates = db.articles
+    .filter((a) => !a.translated)
+    .sort((a, b) => new Date(b.pub_date || 0) - new Date(a.pub_date || 0));
 
   const toTranslate = candidates.slice(0, MAX_PER_RUN);
 

@@ -1,7 +1,7 @@
 name: "3. Translate"
 on:
-  # schedule:
-  #   - cron: "*/10 * * * *"   # DISABLED until tested
+  schedule:
+    - cron: "*/10 * * * *"
   workflow_dispatch:
 permissions:
   contents: write
