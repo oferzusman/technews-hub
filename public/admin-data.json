@@ -1,9 +1,9 @@
 {
-  "total": 3550,
-  "translated": 3549,
-  "untranslated": 1,
-  "today": 81,
-  "week": 3488,
+  "total": 3552,
+  "translated": 3550,
+  "untranslated": 2,
+  "today": 83,
+  "week": 3490,
   "sources": [
     {
       "name": "Pypi.org",
@@ -26,7 +26,7 @@
     {
       "name": "Futurism",
       "total": 148,
-      "translated": 147,
+      "translated": 148,
       "lastDate": "Wed, 08 Apr 2026 16:29:40 -0400"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 98,
+      "total": 99,
       "translated": 98,
       "lastDate": "Wed, 08 Apr 2026 23:03:00 GMT"
     },
@@ -79,9 +79,9 @@
     },
     {
       "name": "The Register",
-      "total": 73,
+      "total": 74,
       "translated": 73,
-      "lastDate": "2026-04-12T14:45:11.000Z"
+      "lastDate": "2026-04-12T23:12:27.000Z"
     },
     {
       "name": "CNBC Tech",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-12T23:18:05.695Z"
+  "generatedAt": "2026-04-12T23:59:57.213Z"
 }
