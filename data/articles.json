@@ -67431,6 +67431,171 @@
       "priority": "hot",
       "fetchedAt": "2026-04-12T10:22:37.722Z",
       "created_at": "2026-04-12T10:22:37.722Z"
+    },
+    {
+      "id": 3495,
+      "source": "The Decoder",
+      "title_en": "Agent skills look great in benchmarks but fall apart under realistic conditions, researchers find",
+      "description_en": "AI agents are supposed to tap into specialized knowledge through so-called skills, modular instructions they can pull up on the fly. But a study testing 34,000 real-world skills finds these enhancements barely help under realistic conditions. Weaker models actually perform worse with them than without.\nThe article Agent skills look great in benchmarks but fall apart under realistic conditions, researchers find appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/agent-skills-look-great-in-benchmarks-but-fall-apart-under-realistic-conditions-researchers-find/",
+      "image_url": null,
+      "pub_date": "Sun, 12 Apr 2026 10:32:30 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Agents",
+        "AI agents"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-12T11:05:43.898Z",
+      "created_at": "2026-04-12T11:05:43.898Z"
+    },
+    {
+      "id": 3496,
+      "source": "The Register",
+      "title_en": "Growing void between enterprise and frontier AI puts open weights models in the spotlight",
+      "description_en": "Most customers don't need the biggest baddest models, just ones that work, are cheap, and won't pirate their proprietary data FEATURE  Spring has sprung and that means another wave of open weights AI models from the likes of Google, Microsoft, Alibaba, and Nvidia. But this time feels a bit different.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/12/ai_open_weights_models/",
+      "image_url": null,
+      "pub_date": "2026-04-12T10:51:06.000Z",
+      "author": "Tobias Mann",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-12T11:05:44.608Z",
+      "created_at": "2026-04-12T11:05:44.608Z"
+    },
+    {
+      "id": 3497,
+      "source": "The Guardian AI",
+      "title_en": "Is AI the greatest art heist in history?",
+      "description_en": "New technologies of reproduction  are plundering the art world – and getting away with it\nIn 2026, its easy to see why generative AI is bad. The internet has nicknamed its excretions “slop”. The CEOs of AI companies prance about on stage like supervillains, bragging that their products will eliminate vast swathes of work. Generative AI requires sacrificing the world’s water to feed its hideous data centres. Around the globe, chatbots induce schizophrenic delusions and urge teens to kill themselv",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/books/2026/apr/12/is-ai-the-greatest-art-heist-in-history",
+      "image_url": "https://i.guim.co.uk/img/media/e5924bf69a60e6e8b0944608ee2e9bd24705dc0e/0_129_1847_1478/master/1847.jpg?width=140&quality=85&auto=format&fit=max&s=76259e4318ed08a0bbe1e05320461f73",
+      "pub_date": "Sun, 12 Apr 2026 11:00:17 GMT",
+      "author": "Molly Crabapple",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Books",
+          "$": {
+            "domain": "https://www.theguardian.com/books/books"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-12T11:05:44.853Z",
+      "created_at": "2026-04-12T11:05:44.853Z"
+    },
+    {
+      "id": 3498,
+      "source": "Futurism",
+      "title_en": "Gen Z Sabotaging AI at Work So It Won’t Take Their Job",
+      "description_en": "They're fed up.\nThe post Gen Z Sabotaging AI at Work So It Won’t Take Their Job appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/zoomers-ai-sabotage",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/zoomers-ai-sabotage.jpg?quality=85",
+      "pub_date": "Sun, 12 Apr 2026 06:45:00 -0400",
+      "author": "Joe Wilkins",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        },
+        {
+          "_": "Finance",
+          "$": {
+            "domain": "https://futurism.com/category/finance"
+          }
+        },
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-12T11:05:46.763Z",
+      "created_at": "2026-04-12T11:05:46.763Z"
+    },
+    {
+      "id": 3499,
+      "source": "Tom's Hardware",
+      "title_en": "Linux 7.0 enables three new AI-specific keys for keyboards, an apparent expansion beyond the Copilot key — Google authors both the HID spec and the kernel patch",
+      "description_en": "The Linux 7.0 kernel has merged support for three new keycodes intended for a coming wave of laptops with dedicated AI agent keys.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/linux/linux-7-0-adds-three-new-ai-agent-keycodes-for-upcoming-laptops",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/UyYubhwJ8FW3BrD6bxgzkd-1280-80.jpg",
+      "pub_date": "Sun, 12 Apr 2026 11:00:00 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Linux",
+        "Software",
+        "Operating Systems"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-12T11:05:46.822Z",
+      "created_at": "2026-04-12T11:05:46.822Z"
+    },
+    {
+      "id": 3500,
+      "source": "Tom's Hardware",
+      "title_en": "$27 platypus PCIe adapter converts half-height GPUs into full-height while adding two M.2 slots for SSDs — enthusiast demos low-profile RTX 4060 with two SSDs thanks to PCIe bifurcation",
+      "description_en": "A Redditor got his hands on this PCIe adapter that does the job of two different ones at the same time. It converts half-height GPUs into full height while adding M.2 slots for storage expansion. All this is possible thanks to PCIe bifurcation, splitting an x16 slot into x8 for the GPU, and two x4 lanes for the SSDs.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ssds/usd27-platypus-pcie-adapter-converts-half-height-gpus-into-full-height-while-adding-two-m-2-slots-for-ssds-enthusiast-demos-low-profile-rtx-4060-with-two-ssds-thanks-to-pcie-bifurcation",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/abxzoGqhPMmiNcmsxmBS8c-1280-80.webp",
+      "pub_date": "Sun, 12 Apr 2026 10:40:00 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "SSDs",
+        "PC Components",
+        "Storage"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-12T11:05:46.822Z",
+      "created_at": "2026-04-12T11:05:46.822Z"
     }
   ]
 }
