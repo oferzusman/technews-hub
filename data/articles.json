@@ -66875,6 +66875,38 @@
       "priority": "batch",
       "fetchedAt": "2026-04-12T02:24:23.954Z",
       "created_at": "2026-04-12T02:24:23.954Z"
+    },
+    {
+      "id": 3472,
+      "source": "MarkTechPost",
+      "title_en": "Liquid AI Releases LFM2.5-VL-450M: a 450M-Parameter Vision-Language Model with Bounding Box Prediction, Multilingual Support, and Sub-250ms Edge Inference",
+      "description_en": "Liquid AI just released LFM2.5-VL-450M, an updated version of its earlier LFM2-VL-450M vision-language model. The new release introduces bounding box prediction, improved instruction following, expanded multilingual understanding, and function calling support — all within a 450M-parameter footprint designed to run directly on edge hardware ranging from embedded AI modules like NVIDIA Jetson Orin, to mini-PC […]\nThe post Liquid AI Releases LFM2.5-VL-450M: a 450M-Parameter Vision-Language Model wi",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/11/liquid-ai-releases-lfm2-5-vl-450m-a-450m-parameter-vision-language-model-with-bounding-box-prediction-multilingual-support-and-sub-250ms-edge-inference/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/HFZP3rGWoAAGZAm-1.jpeg",
+      "pub_date": "Sun, 12 Apr 2026 02:41:10 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Editors Pick",
+        "Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Uncategorized",
+        "Vision Language Model"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-12T05:10:12.559Z",
+      "created_at": "2026-04-12T05:10:12.559Z"
     }
   ]
 }
