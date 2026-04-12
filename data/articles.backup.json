@@ -67273,6 +67273,166 @@
       "priority": "batch",
       "fetchedAt": "2026-04-12T09:33:02.742Z",
       "created_at": "2026-04-12T09:33:02.742Z"
+    },
+    {
+      "id": 3491,
+      "source": "The Guardian AI",
+      "title_en": "AI companies know they have an image problem. Will funding policy papers and thinktanks dig them out?",
+      "description_en": "The aggressive effort by major players aims to reshape the narrative as polls show increasing public disapproval of AI\nOpenAI made a surprise announcement this week – not an update to ChatGPT or another multibillion-dollar datacenter – but a policy paper that called for a reimagining of the social contract based around “a slate of people-first ideas”. It’s the latest move in an aggressive effort by the major AI players to reshape the narrative around their industry, as polls show public disappro",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/apr/12/ai-image-problem-policy-papers-thinktanks",
+      "image_url": "https://i.guim.co.uk/img/media/52f28e3778e0def3eb14d4cf2f324385763c3788/415_0_2671_2138/master/2671.jpg?width=140&quality=85&auto=format&fit=max&s=26ff57a198978e7226fd2c7798348d90",
+      "pub_date": "Sun, 12 Apr 2026 10:00:14 GMT",
+      "author": "Nick Robins-Early",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        },
+        {
+          "_": "US political lobbying",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-political-lobbying"
+          }
+        },
+        {
+          "_": "US political financing",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-political-financing"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Sam Altman",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/sam-altman"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-12T10:22:36.358Z",
+      "created_at": "2026-04-12T10:22:36.358Z"
+    },
+    {
+      "id": 3492,
+      "source": "Futurism",
+      "title_en": "Why Does It Suddenly Feel Like OpenAI Is Melting Down Into Disaster?",
+      "description_en": "It's been a bruising year so far.\nThe post Why Does It Suddenly Feel Like OpenAI Is Melting Down Into Disaster? appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/openai-melting-down-disaster",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/openai-melting-down-disaster.jpg?quality=85",
+      "pub_date": "Sun, 12 Apr 2026 06:00:00 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://futurism.com/category/anthropic"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://futurism.com/category/openai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-12T10:22:37.676Z",
+      "created_at": "2026-04-12T10:22:37.676Z"
+    },
+    {
+      "id": 3493,
+      "source": "Tom's Hardware",
+      "title_en": "South Korea’s telecom giants surprise 7 million users with unlimited, universal internet — net access declared a 'basic telecommunications right,' 400 Kbps data after monthly plans run out",
+      "description_en": "South Korea's Ministry of Science and ICT said that the country’s three major carriers will provide more than seven million mobile subscribers with unmetered 400 Kbps data.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/south-koreas-three-major-carriers-introduce-400-kbps-data-for-all",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/rc46o5dUjgvgpRmRgjpMx3-1280-80.jpg",
+      "pub_date": "Sun, 12 Apr 2026 10:20:00 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-12T10:22:37.722Z",
+      "created_at": "2026-04-12T10:22:37.722Z"
+    },
+    {
+      "id": 3494,
+      "source": "Tom's Hardware",
+      "title_en": "Valve engineer shocks Linux community with game-changing VRAM hack for 8GB GPUs — breakthrough solution turbocharges gaming by prioritizing VRAM for games while background tasks take a back seat",
+      "description_en": "Natalie Vock, a dev on Valve's Linux graphics driver team has introduced new fixes that optimize VRAM usage for games in Linux. Previously, any background task could make the OS evict game data from VRAM and throw it into system memory, but now it'll be able to correctly prioritize the game running in foreground.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/linux/valve-engineer-shocks-linux-community-with-game-changing-vram-hack-for-8gb-gpus-breakthrough-solution-turbocharges-gaming-by-prioritizing-vram-for-games-while-background-tasks-take-a-back-seat",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/VDSz2WepX2pPc6pd65bcUM-1280-80.png",
+      "pub_date": "Sun, 12 Apr 2026 10:00:00 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "Linux",
+        "Software",
+        "Operating Systems"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-12T10:22:37.722Z",
+      "created_at": "2026-04-12T10:22:37.722Z"
     }
   ]
 }
