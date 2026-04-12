@@ -21875,7 +21875,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 902,
-    "t": "keenetic-mcp 0.1.0\n\nMCP server for Keenetic routers — manage interfaces, clients, routes and system via Claude",
+    "t": "keenetic-mcp 0.1.0\n\nמישהו יצר MCP server חדש שמאפשר לכם לנהל את כל הנתבים של Keenetic דרך Claude - אפשר לשלוט על interfaces, clients, routes והגדרות מערכת בלי צריך להיכנס למנהל. זה די אחד - בעצם אתם מדברים עם Claude והוא מתחבר לנתב שלכם ועושה את העבודה. לכל מי שעובד עם Keenetic וקוסם לו השיטה של Claude + tools, זה בדיוק מה שחיפשתם.",
     "d": "2026-04-08T18:38:36Z",
     "v": 0,
     "l": [
@@ -21901,7 +21901,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 903,
-    "t": "keenetic-mcp added to PyPI\n\nMCP server for Keenetic routers — manage interfaces, clients, routes and system via Claude",
+    "t": "keenetic-mcp הוסף ל-PyPI\n\nעכשיו אפשר להנהל את נתבי Keenetic שלכם ישירות דרך Claude! זה MCP server חדש שמאפשר לכם לשלוט בממשקים, לקוחות, מסלולים והגדרות מערכת בצורה כללית ונוחה. עוד דרך נוספת שבה AI הופך למעשי בביתנו הישראלי.",
     "d": "2026-04-08T18:38:31Z",
     "v": 0,
     "l": [
@@ -21927,7 +21927,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 904,
-    "t": "Meta rolls out new AI model\n\nFacebook parent company Meta has launched what it is describing as its most powerful artificial intelligence (AI) model to date.",
+    "t": "מטא משיקה מודל AI חדש ועוצמתי\n\nחברת הורות של פייסבוק, מטא, בחרה לשחרר את מודל ה-AI החזק ביותר שלה עד כה. המודל החדש אמור לתת דחיפה משמעותית ליכולות הבינה המלאכותית של החברה, וזה כמו שמטא מנסה להישאר בתחרות הקשה בתחום ה-AI מול תחרויות אחרות כמו OpenAI וגוגל. מעניין לראות מה התכונות החדשות שיביא המודל הזה לשלטון הממשק שלנו. (RTE)",
     "d": "2026-04-08T18:36:50Z",
     "v": 0,
     "l": [
@@ -21941,7 +21941,7 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Meta"
+      "OpenAI"
     ],
     "tags": [
       "news",
@@ -21953,7 +21953,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 905,
-    "t": "FDA authorizes Gohibic (vilobelimab) injection for the treatment of COVID-19\n\nFDA has issued an emergency use authorization (EUA) for the use of Gohibic (vilobelimab) injection for the treatment of COVID-19 in certain hospitalized adults.",
+    "t": "ה-FDA אישרה את Gohibic (vilobelimab) לטיפול בקורונה\n\nה-FDA נתנה אישור חירום להשתמש בתכשיר Gohibic להזרקה לטיפול בחולי COVID-19 במסלול אישפוז. זו עוד אפשרות טיפול שנוספת לארסנל הרפואי שלנו בעידן הקורונה, במיוחד למטופלים במצב קשה שחייבים אשפוז בבית חולים.",
     "d": "2026-04-08T18:36:00Z",
     "v": 0,
     "l": [
@@ -21976,7 +21976,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 906,
-    "t": "Wisconsin City Passes Country's First Anti-Data Center Referendum\n\nVoters in a Milwaukee suburb on Tuesday overwhelmingly approved a measure that would restrict future data centers.\nThe post Wisconsin City Passes Country’s First Anti-Data Center Referendum appeared first on Breitbart.",
+    "t": "עיר בווויסקונסין אישרה את ההצבעה הראשונה בארה\"ב נגד מרכזי נתונים\n\nתושבי פרבר של מילווקי הצביעו ברוב מוחץ בעד הגבלת הקמת מרכזי נתונים חדשים בשכונתם, במהלך הצבעה היסטורית שהיא הראשונה מסוגה בארצות הברית. המהלך משקף חששות גוברים בקרב קהילות מקומיות לגבי צריכת החשמל העמוקה של מרכזים אלה, במיוחד עם הביקוש הגובר ל-AI ו-cloud computing. זו דוגמה מעניינת לסכסוך בין הצורך בתשתיות טכנולוגיות לבין אינטרסים של קהילות מקומיות.",
     "d": "2026-04-08T18:35:28Z",
     "v": 0,
     "l": [
@@ -21999,7 +21999,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 907,
-    "t": "FEDS Note: India and the Global Economy\n\nPatrice RobitailleWith a population of 1.4 billion, India is the world's most populous country. It is also now the world's fastest growing economy and is currently the 5th largest economy measured at current exchange rates, poised to overtake Japan and German…",
+    "t": "הערת הפד: הודו והכלכלה הגלובלית\n\nעם 1.4 מיליארד תושבים, הודו היא המדינה הגדולה בעולם מבחינת אוכלוסייה, וכרגע גם הכלכלה הגדלה במהירות הגבוהה ביותר בעולם. המדינה כבר עלתה למקום החמישי בדירוג הכלכלות הגדולות בשער החליפין הנוכחי, ותקרוב עצמה להשגת את יפן וגרמניה בעתיד הקרוב. מידע זה מראה שההשפעה הכלכלית של הודו על הבמה הגלובלית הולכת וגדלה בעוצמה.",
     "d": "2026-04-08T18:35:00Z",
     "v": 0,
     "l": [
@@ -22014,16 +22014,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
     "source": "Federalreserve.gov"
   },
   {
     "id": 908,
-    "t": "luv-cli added to PyPI\n\nLaunch Claude Code agents on GitHub repos with isolated workspaces and optional Docker dev environments",
+    "t": "luv-cli הופעלה ב-PyPI\n\nכלי חדשה שמאפשרת להריץ Claude Code agents על repos של GitHub עם workspaces מבודדים וסביבות Docker dev אופציונליות. בעצם, זה כמו לתת ל-AI שלך sandbox משלו לשחק בקוד שלך בבטחה. מושלם למי שרוצה לתן לאגנטים של Claude גישה לפרויקט בלי שיעשו לו chaos.",
     "d": "2026-04-08T18:33:26Z",
     "v": 0,
     "l": [
@@ -22050,7 +22049,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 909,
-    "t": "Friar Jean-Claude Chupin, co-founder of the Community of the Lamb, passed away on Easter\n\nThe friar leaves behind a lasting legacy of service of the poor with a life modeled on St. Francis of Assisi. The community he co-founded has a presence in both Europe and the Americas.",
+    "t": "הנזיר ז'אן-קלוד שופן, ממייסדי קהילת הכבש, נפטר בחג הפסחא\n\nהנזיר השאיר מורשת עמוקה של עזרה לעניים, בחיים שעוצבו על פי דוגמתו של הקדוש פרנסיס. הקהילה שהקים יחד עם אחרים פעילה היום הן באירופה והן באמריקה.",
     "d": "2026-04-08T18:33:07Z",
     "v": 0,
     "l": [
@@ -22063,12 +22062,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://res.cloudinary.com/ewtn/image/upload/v1775663044/ewtn-news/en/comunidadcordero-1775567269_anpmrx.webp",
@@ -22076,7 +22072,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 910,
-    "t": "ChatGPT’s refusal to admit mistakes is getting out of hand, and this exchange proves it\n\nOpenAI CEO Sam Altman recently admitted that ChatGPT doesn't have the capability to keep track of time, but the chatbot insists it does.",
+    "t": "ההתעקשות של ChatGPT לא להודות בטעויות הולכת קצת רחוק מדי\n\nOpenAI CEO Sam Altman recently admitted that ChatGPT doesn't have the capability to keep track of time, but the chatbot insists it does.",
     "d": "2026-04-08T18:32:19Z",
     "v": 0,
     "l": [
@@ -22102,7 +22098,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 911,
-    "t": "socratic-nexus 0.3.2\n\nUniversal LLM client for production - works with Claude, GPT-4, Gemini, Llama, and any LLM. Built-in integrations with Openclaw and LangChain.",
+    "t": "socratic-nexus 0.3.2\n\nיצא גרסה חדשה של socratic-nexus, כלי אוניברסלי שמאפשר לכם לעבוד עם כל ה-LLM הגדולים - Claude, GPT-4, Gemini, Llama וכל מודל שרק תחזרו. הכי טוב? זה בנוי כבר עם integrations ל-Openclaw וגם ל-LangChain, כך שתוכלו לתחזוק את הפרודקשן שלכם בלי כאב ראש. לחצו עליו מ-PyPI ותתחילו.",
     "d": "2026-04-08T18:31:52Z",
     "v": 0,
     "l": [
@@ -22155,7 +22151,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 913,
-    "t": "Bitcoin’s Six-Month Decline Was Not What Most People Think It Was. Find Out What Actually Caused It\n\nBitcoin surged above $72,000 yesterday and is holding above $70,000 today. The narrative of a bottom is building. And an XWIN Research Japan analysis is asking the more important question: not whether Bitcoin has bounced, but whether anyone understands why it…",
+    "t": "הנפילה של ביטקוין בחצי השנה האחרונה לא הייתה מה שאתם חושבים - גלו מה באמת קרה\n\nביטקוין עלה מעל ל-72,000 דולר אתמול והוא עומד מעל 70,000 היום, וסיפור ההחלמה משתרשר בשוק. אבל ניתוח של XWIN Research Japan שואל שאלה חשובה הרבה יותר: לא רק אם ביטקוין התאושש, אלא האם למישהו בכלל יש מושג מדוע זה קרה?",
     "d": "2026-04-08T18:30:48Z",
     "v": 0,
     "l": [
@@ -22178,7 +22174,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 914,
-    "t": "graphifyy 0.3.14\n\nAI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw) - turn any folder of code, docs, papers, or images into a queryable knowledge graph",
+    "t": "graphifyy 0.3.14\n\nכלי AI חדש שהופך כל תיקייה של קוד, דוקומנטציה, מאמרים או תמונות לגרף ידע שאפשר לשאול עליו. זה עובד עם כמה מודלים שונים כמו Claude ו-Codex, ודי שימושי אם אתה צריך להבין בעצמך קוד ישן או מסדר מעבודה קודמת. חובה לכל מי שמטפל בהרבה קבצים וצריך לחפש בהם בדרך חכמה. מקור: Pypi.org",
     "d": "2026-04-08T18:30:05Z",
     "v": 0,
     "l": [
@@ -22196,8 +22192,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -22205,7 +22200,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 915,
-    "t": "IT dept consults industry on AI policy, aims for finalisation within 100 days\n\nPanaji: Goa is moving closer to finalising its artificial intelligence (AI) policy, with the department of information technology, electronics and com.",
+    "t": "מחלקת ה-IT ייעצה עם התעשייה על מדיניות AI, מטרה: סיום תוך 100 ימים\n\nגואה בדרכה לסגור את מדיניות ה-AI שלה - מחלקת הטכנולוגיה והאלקטרוניקה משוחחת עם שחקנים בתעשייה כדי להגיע להסכמה על כללים לפיתוח ושימוש בבינה מלאכותית. התכנית היא לחתום על הגרסה הסופית תוך מאה ימים, מה שיהפוך את גואה לאחת הראשונות במדינה שתקבע מסגרת ברורה עבור AI.",
     "d": "2026-04-08T18:29:45Z",
     "v": 0,
     "l": [
@@ -22220,8 +22215,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
@@ -22255,7 +22249,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 917,
-    "t": "opengtm added to PyPI\n\nAI-powered GTM automation: lead generation, ICP scoring, AEO health check, content pipeline. Built for Claude Code.",
+    "t": "opengtm הוסף ל-PyPI\n\nעוד כלי AI שחוקה לחברות: opengtm בא עם אוטומציה מלאה ל-GTM - מפיק leads באופן חכם, נותן ציון ICP כמו שצריך, בודק אם ה-AEO בריא ומנהל את כל ה-content pipeline שלכם. וחינם, זה בנוי בדיוק עבור Claude Code אז אפשר פשוט להתחיל.",
     "d": "2026-04-08T18:28:58Z",
     "v": 0,
     "l": [
@@ -22281,7 +22275,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 918,
-    "t": "\"I know that a lot of PC gamers are resistant to AI\": SteamGPT shows up in datamined Steam files, suggesting Valve plans to add AI to help in these two key areas\n\nA dataminer has discovered references to \"SteamGPT\" in a recent Steam update. While details remain scarce, it seems like Valve is working on an AI assistant to help with support and anti-cheat. That could either go over well or very poorly.",
+    "t": "\"הרבה גיימרים של PC מתנגדים ל-AI\": SteamGPT הופיע בקבצים של Steam, מה שמצביע שוולב מתכננת להוסיף AI בשני תחומים קריטיים\n\nמחקר של dataminer חשף הפניות ל-\"SteamGPT\" בעדכון סטים אחרון, וזה נראה שוולב עובדת על AI assistant שיעזור לתמוך בלקוחות ולסתימת חורים בביטחון מפני בדלנות. זה עלול להיות הצלחה או כישלון משפחתי - גיימרים כבר מחלקים דעות כשמדובר בחדירת AI לעולם הגיימינג.",
     "d": "2026-04-08T18:27:53Z",
     "v": 0,
     "l": [
@@ -22304,7 +22298,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 919,
-    "t": "Anthropic announces Claude Managed Agents, offering developers an agent harness and other infrastructure to help businesses build and deploy AI agents at scale (Maxwell Zeff/Wired)\n\nMaxwell Zeff / Wired:\nAnthropic announces Claude Managed Agents, offering developers an agent harness and other infrastructure to help businesses build and deploy AI agents at scale  —  Amid rapid enterprise growth, Anthropic is trying to lower the barrier to…",
+    "t": "Anthropic משיקה Claude Managed Agents - כלים חדשים למפתחים לבניית ושימוש ב-AI agents בקנה מידה גדול\n\nAnthropic מנסה להקל על חברות ליצור ולהטיל לתבת עם AI agents משלהן באמצעות סט כלים וinfrastructure חדש שנקרא Claude Managed Agents. זה בעצם harness שנבנה כדי לעזור למפתחים להריץ agents בקנה מידה, במיוחד כשחברות גדולות מתחילות בעצמן להשקיע בטכנולוגיה הזו. המהלך הזה של Anthropic מראה שהעסק של building AI agents הופך לקטגוריה ממש משלו בתעשיית ה-AI.",
     "d": "2026-04-08T18:25:01Z",
     "v": 0,
     "l": [
@@ -22325,13 +22319,13 @@ window.TELEGRAM_DATA = [
       "model",
       "agents"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://media.wired.com/photos/69d55aad5eeab2b48af87714/191:100/w_1280,c_limit/Business_AnthropicLaunchesClaudeManagedAgents.jpg",
     "source": "Techmeme.com"
   },
   {
     "id": 920,
-    "t": "Show HN: Benchmark multiple LLMs to compare quality, speed, and cost\n\nArticle URL: https://www.loopthink.ai\nComments URL: https://news.ycombinator.com/item?id=47694230\nPoints: 2\n# Comments: 0",
+    "t": "הצג HN: בדוק ובשווה מודלי LLM שונים - איכות, מהירות וגם עלות\n\nחברת Loopthink הציגה כלי שמאפשר לכם לבדוק ולהשוות בין מודלים שונים של LLM כדי לראות איזה אחד הכי טוב לכם - לפי איכות התוצאות, מהירות התגובה, ועלות השימוש. זה בדיוק מה שהיינו צריכים כדי לא להישאר עם דעות קדומות על איזה מודל הוא \"הטוב ביותר\".",
     "d": "2026-04-08T18:24:00Z",
     "v": 0,
     "l": [
@@ -22380,7 +22374,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 922,
-    "t": "Meta’s First AI Model From Its Superintelligence Lab Doesn’t Exactly Spark Joy\n\nPlaying catch-up instead of leapfrog.",
+    "t": "מודל ה-AI הראשון של Meta מהמעבדה לבינה-על שלהם לא בדיוק משפיע\n\nכל מה שחיכינו לו מ-Meta's חדש superintelligence lab בא הביתה כמעט זהה לדברים שכבר ראינו ב-OpenAI וב-Google - אז למה בדיוק זה צריך להרשים אותנו? נראה שMeta עדיין משחקת catchup במשחק ה-AI, לא מובילה אותו. (מקור: Gizmodo.com)",
     "d": "2026-04-08T18:20:49Z",
     "v": 0,
     "l": [
@@ -22394,6 +22388,8 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
+      "OpenAI",
+      "Google",
       "Meta"
     ],
     "tags": [
@@ -22406,7 +22402,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 923,
-    "t": "WW 978: Pre-Peated - \"Copilot Is for Entertainment Purposes Only\"\n\nJulia Liuson is leaving Microsoft. Liuson joined Microsoft in 1992, the same year as CEO Satya Nadella (she worked on Access at first). She helped build the first version of Visual Studio and was the first female corporate vice president at Microsoft. Liuson …",
+    "t": "WW 978: Pre-Peated - \"Copilot זה רק לבידור\"\n\nג'וליה ליואסון עוזבת את מיקרוסופט אחרי יותר מ-30 שנה בחברה - היא הצטרפה באותה שנה כמו סתיה נדלה ובנתה את הגרסה הראשונה של Visual Studio. זו גם הייתה אישה הראשונה שהגיעה לדרגת VP קורפורטיבי בחברה הענקית. כל הפרטים על עזיבתה המדהימה של אחת מנשות הטק בארה\"ב.",
     "d": "2026-04-08T18:20:23Z",
     "v": 0,
     "l": [
@@ -22432,7 +22428,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 924,
-    "t": "Show HN: smux: terminal automation and agent-to-agent communication via tmux\n\nArticle URL: https://github.com/ShawnPana/smux\nComments URL: https://news.ycombinator.com/item?id=47694172\nPoints: 4\n# Comments: 0",
+    "t": "smux: אוטומציה של טרמינל תקשורת בין אג'נטים דרך tmux\n\nפרויקט חדש ב-GitHub שמאפשר אוטומציה של משימות טרמינל ותקשורת בין AI אג'נטים באמצעות tmux, כלי ההמתנה הידוע. זה יכול להיות משהו שמעניין למי שעובד עם תמונות דינמיות ו-workflow אוטומטיים בשורת הפקודה.",
     "d": "2026-04-08T18:18:55Z",
     "v": 0,
     "l": [
@@ -22447,8 +22443,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://opengraph.githubassets.com/aa47fcfe7f00bf594c03055993a7f6bc927f9ea9d350038fc259a590c003132f/ShawnPana/smux",
@@ -22456,7 +22451,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 925,
-    "t": "The Masters Trivia: 9 Facts About Augusta National’s Amen Corner\n\nAmen Corner at Augusta National Golf Club is the most famous 3-hole stretch in golf. The three holes (11, 12, and 13) go par-4, par-3, and par-5 and provide a test unlike anything else that professional golfers face. Not only is it the most famous 3-hole stre…",
+    "t": "מאסטרס טריוויה: 9 עובדות על Amen Corner של Augusta National\n\nAmen Corner בגולף היא המתיחה של 3 חורים המפורסמת ביותר בעולם הגולף - שלוש חורים (11, 12, 13) שמהווים בדיקה אמיתית לגולפרים המקצועיים. הקומבינציה של par-4, par-3 ו-par-5 יוצרת קושי בלתי מעורער, ובדיוק לכן הזווית הזו של המגרש בגיאורגיה נחשבת לקטע הקריטי ביותר בטורניר. אם אתה מנצח כאן, אתה בדרך לכסות את החולצה הירוקה המיתולוגית.",
     "d": "2026-04-08T18:17:43Z",
     "v": 0,
     "l": [
@@ -22479,7 +22474,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 926,
-    "t": "Can Data Analytics Help Investors Outperform Warren Buffett\n\nExploring whether AI and financial analytics can rival one of the greatest investing track records in history",
+    "t": "האם Data Analytics יכול להכניס לנו לעור של וורן באפט?\n\nבודקים אם AI והנתונים האלה יכולים להתחרות בשיא ההשקעות הכי מדהים בהיסטוריה. למעשה, מדובר בשאלה חמה - האם אלגוריתמים ותכניות ניתוח סטטיסטיות יכולים לנצח את הגיניוס של באפט שבנה לעצמו אימפריה בנות מיליארדים? בואו נראה מה המומחים אומרים על כל הסיפור הזה. מקור: Smartdatacollective.com",
     "d": "2026-04-08T18:17:37Z",
     "v": 0,
     "l": [
@@ -22502,7 +22497,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 927,
-    "t": "Anthropic Says Its New AI Model Is So Good at Finding Security Risks, You Can't Use It\n\nWith its new Claude Mythos Preview model, the company is pulling together tech giants for a new cybersecurity consortium, Project Glasswing.",
+    "t": "אנתרופיק: מודל ה-AI החדש שלנו כל כך טוב בחיפוש חולשות ביטחוניות שלא תוכלו להשתמש בו\n\nעם מודל Claude Mythos Preview החדש, אנתרופיק מרכזת את ענקי הטכנולוגיה לקונסורציום סייבר אבטחה משותף בשם Project Glasswing. הרעיון הוא פשוט: מודל ה-AI הזה כל כך מוצלח בגילוי vulnerabilities, שהחברה מעדיפה להגביל את הגישה אליו כדי לא להפיץ באופן בלתי שליט עד כמה זה יכול להיות חזק.",
     "d": "2026-04-08T18:17:12Z",
     "v": 0,
     "l": [
@@ -22520,8 +22515,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://www.cnet.com/a/img/resize/00184e8cea90ff5f8032feb48b1c4d009cb545f7/hub/2026/04/08/804b499f-8447-48cf-85df-0ad802358b53/project-glasswing.jpg?auto=webp&fit=crop&height=675&width=1200",
@@ -22529,7 +22523,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 928,
-    "t": "Show HN: Deterministic security guardrails for Claude Code\n\nDeterministic security guardrails for Claude Code. Six hooks that hard-block RCE, credential exfiltration, SSRF, and prompt injection before they execute. Plus an MCP server for every other agent. ...",
+    "t": "צפו ב-HN: מגן אבטחה דטרמיניסטי עבור Claude Code\n\nמפתחים יצרו מערכת הגנה חכמה ל-Claude Code שחוסמת בפורס את התקפות הבסיסיות - RCE, גניבת credentials, SSRF והזרקת prompt - עוד לפני שהם מתבצעים. המערכת מבוססת על שישה hooks מוקשחים וכוללת גם MCP server לכל שאר ה-agents. זה בעצם כמו חומת אש חכמה שמבינה בדיוק איך צריך להעצור קוד זדוני. מקור: Github.com",
     "d": "2026-04-08T18:15:04Z",
     "v": 0,
     "l": [
@@ -22548,7 +22542,6 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news",
       "model",
-      "security",
       "agents"
     ],
     "imp": "low",
@@ -22557,7 +22550,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 929,
-    "t": "pulse-agent added to PyPI\n\nSelf-hosted personal intelligence agent",
+    "t": "Pulse Agent התווסף ל-PyPI\n\nSelf-hosted personal intelligence agent",
     "d": "2026-04-08T18:08:59Z",
     "v": 0,
     "l": [
@@ -22581,7 +22574,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 930,
-    "t": "Google Maps wants to lower the bar for getting started with contributions\n\nGoogle's tapping into Gemini to make it easier to add content to Maps, with an upcoming \"Tell Maps\" feature.",
+    "t": "גוגל מפות רוצה להוריד את הסף לתרומות של משתמשים\n\nגוגל משתמשת בג'מיני כדי להקל על ההוספה של מידע למפות, עם פיצ'ר חדש בשם \"Tell Maps\" שיעשה את זה לפשוט מדי - בעצם תספרו למפות מה צריך להשתנות והוא יתרום בעצמו. זה כמו שהחברה אומרת: בואו נעזור לכם לעדכן את המפה בקול רגוע ובלי צורך בטופס מסובך.",
     "d": "2026-04-08T18:05:13Z",
     "v": 0,
     "l": [
@@ -22594,12 +22587,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.androidauthority.com/wp-content/uploads/2023/03/Google-Maps-GPS-Nagivation-stock-photo.jpg",
@@ -22630,7 +22620,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 932,
-    "t": "reelfarm-mcp added to PyPI\n\nMCP server for the ReelFarm API — create slideshows, manage automations, publish to TikTok, and more.",
+    "t": "reelfarm-mcp נוסף ל-PyPI\n\nעכשיו אפשר לחבר את ReelFarm API ישירות דרך MCP server - תוכלו ליצור סליידשואו, לנהל אוטומציות ולהעלות ישירות לטיקטוק בלי להידחק. זה סוג של כלי לדעת לחברים שעוסקים בקונטנט וחוצצי וידאו שרוצים להתאים את התהליך שלהם. המיקום ב-PyPI אומר שהכל זמין בקלות לעבודה מ-Python.",
     "d": "2026-04-08T18:02:48Z",
     "v": 0,
     "l": [
@@ -22653,7 +22643,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 933,
-    "t": "Apple approves third-party drivers for AMD and Nvidia eGPUs on Apple Silicon Macs\n\nApple has reportedly signed drivers for both AMD and Nvidia eGPUs, finally enabling them to work on Apple Silicon Macs…\nThe post Apple approves third-party drivers for AMD and Nvidia eGPUs on Apple Silicon Macs appeared first on MacDailyNews.",
+    "t": "אפל אישרה דרייברים של צד שלישי ל-eGPU של AMD ו-Nvidia ב-Mac Silicon\n\nסוף סוף קרה - אפל חתמה על דרייברים רשמיים ל-eGPU של AMD ו-Nvidia, מה שאומר שלמעצמות החישוב החיצוניות האלה יש כעת תמיכה מלאה ב-Mac עם Apple Silicon. זה משנה משחק למי שחושבים למעצמות GPU חיצוניות עם התקנים החדשים של אפל, במיוחד למה שחוסכים עוד לא יכלו לעשות עם ה-M-chips.",
     "d": "2026-04-08T18:02:12Z",
     "v": 0,
     "l": [
@@ -22675,13 +22665,13 @@ window.TELEGRAM_DATA = [
       "hardware",
       "product"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://macdailynews.com/wp-content/uploads/2026/04/260408_mac_studio_innards.png",
     "source": "Macdailynews.com"
   },
   {
     "id": 934,
-    "t": "Victim's Attorney: FSU Shooter Was in 'Constant Communication' with ChatGPT, Used AI to Plan Attack\n\nThe man accused of perpetrating the deadly shooting at Florida State University in April 2025 was in \"constant contact\" with ChatGPT while planning the attack, according to attorneys representing one victim's family who plan to sue OpenAI.\nThe post Victim’s A…",
+    "t": "עורך דין הקרבן: הירטי באוניברסיטת פלורידה היה בתקשורת 'קבועה' עם ChatGPT, השתמש ב-AI לתכנון ההתקפה\n\nלפי טענת משפחת אחד הנפגעים בירי הקטלני באוניברסיטת פלורידה בנובמבר האחרון, החשוד היה בקשר 'מתמיד' עם ChatGPT תוך כדי תכנון ההתקפה. המשפחה מתכננת תביעה נגד OpenAI בגלל השימוש ב-AI למטרות זוממות כאלה.",
     "d": "2026-04-08T18:02:03Z",
     "v": 0,
     "l": [
@@ -22707,7 +22697,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 935,
-    "t": "Hardly anyone saw it: special moment with Kompany & Real star\n\nA moment like the one Bayern coach Vincent Kompany and Real superstar Vinicius Junior shared yesterday is certainly not something you see every day in the knockout stage of the most important club com...",
+    "t": "כמעט אף אחד לא ראה את זה: רגע מיוחד בין קומפאני וכוכב ריאל\n\nרגע כמו זה שקומפאני מאמן בייירן וויניסיוס ג'וניור כוכב ריאל חלקו אתמול, זה בטוח לא משהו שרואים כל יום בשלב הנוקאאוט של התחרות הכי חשובה במועדוני כדורגל. המשחק בין שתי הענקיות הגיע לרגע שהשאיר הרבה מאוד אנשים עם סימני שאלה - ויש כאן משהו שיש לדבר עליו. סיפור קטן אבל מעניין שהחמיץ הרבה ממי שלא עקבו באופן קרוב אחרי ההתרחשויות של המשחק.",
     "d": "2026-04-08T18:02:00Z",
     "v": 0,
     "l": [
@@ -22730,7 +22720,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 936,
-    "t": "Resident Evil Movie Star Promotes Crypto Bro’s AI-Coded ‘MemPalace’ Accused Of Being Snake Oil\n\nConsidering she starred in James Franco's 2018 film Future World, MemPalace might only be the second worst thing Jovovich has promoted",
+    "t": "כוכבת Resident Evil מקדמת 'MemPalace' של קריפטו בחור שנכתבה ב-AI - ואת מאשימים בהונאה\n\nמילה Jovovich, שהופיעה בסרט Future World של ג'יימס פרנקו, כנראה חוזרת להיות חלק מפרויקט שנראה די חשוד - הפעם זה אפליקציית AI בשם MemPalace שמתוקנת כקדימה קנקנית לזכרון מושלם. הכל יחד נראה כמו סרט זול של 'עשיר מהיום ללילה' שהפך ל-'עני מהיום ללילה', אבל הפעם עם blockchain. גם ההקשר של James Franco לא עוזר כאן כל כך.",
     "d": "2026-04-08T18:00:56Z",
     "v": 0,
     "l": [
@@ -22753,7 +22743,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 937,
-    "t": "Your phone can do this with voice, and you probably never knew\n\nStart using these simple voice commands on Android and iPhone and save time.",
+    "t": "הטלפון שלך יכול לעשות את זה בקול - וכנראה שמעולם לא ידעתם\n\nאם אתם עדיין לא משתמשים בפקודות קול בסיסיות במכשיר שלכם, אתם מפספסים הרבה זמן יקר. בואו נסביר לכם אילו טריקים קסומים של voice commands יעבדו גם ב-Android וגם ב-iPhone כדי לעשות את החיים שלכם יותר קלים.",
     "d": "2026-04-08T18:00:16Z",
     "v": 0,
     "l": [
@@ -22803,7 +22793,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 939,
-    "t": "PSG v Liverpool and Barça v Atleti! Check the UCL line-ups\n\nIt’s CHAMPIONS LEAGUE time already!And we already have the lineups for Barça vs Atlético de Madrid and PSG vs Liverpool! Barça vs AtletiFor this clash, both clubs have to deal with important abs...",
+    "t": "PSG מול ליברפול וברצלונה מול אתלטיקו! הנה ההרכבים של ליגת האלופות\n\nליגת האלופות כבר כאן! יש לנו את ההרכבים המלאים למשחקי ברצלונה נגד אתלטיקו מדריד וPSG נגד ליברפול. שני הקלאבים יצטרכו להתמודד עם כמה בעיות חשובות לפני הקרב המרכזי הזה, וזה בטוח שיהיה מעניין לראות מי יהיה כמו השחקנים המכריעים בדרך לנצחון.",
     "d": "2026-04-08T18:00:00Z",
     "v": 0,
     "l": [
@@ -22826,7 +22816,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 940,
-    "t": "Meta Debuts 'Muse Spark', First AI Model Under Alexandr Wang\n\nMeta has launched Muse Spark, its first major AI model under Alexandr Wang's leadership. The model was built over the past nine months and is being positioned as a significant step up from Llama 4. Axios reports: Muse Spark will power queries in the Meta AI a…",
+    "t": "מטא משיקה את 'Muse Spark' - מודל ה-AI הראשון תחת הנהגתו של אלכסנדר וואנג\n\nמטא הוציאה לדרך את Muse Spark, מודל ה-AI החדש שפותח תחת ניהול אלכסנדר וואנג ותופס מקום משמעותי בתיקיית החברה. המודל, שלקח תשע חודשים לפיתוח, מוצב כקפיצה משמעותית קדימה ביחס ל-Llama 4 וישמש להנעת שאילתות ב-Meta AI. זה סימן ברור שמטא ממשיכה להשקיע בחזקה ב-AI ומתגבשת את עמדתה בתחרות ה-AI העולמית.",
     "d": "2026-04-08T18:00:00Z",
     "v": 0,
     "l": [
@@ -22840,21 +22830,19 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Meta",
-      "Amazon"
+      "Meta"
     ],
     "tags": [
       "news",
-      "model",
-      "product"
+      "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://a.fsdn.com/sd/topics/facebook_64.png",
     "source": "Slashdot.org"
   },
   {
     "id": 941,
-    "t": "The US Army Is Building Its Own Chatbot for Combat\n\nThe AI system, trained on real military data, is meant to give soldiers mission-critical information.",
+    "t": "צבא ארה\"ב בונה צ'אטבוט משלו לקרבות\n\nצה\"ל האמריקני מפתח מערכת AI שמאומנת על נתונים צבאיים אמיתיים, כדי לתת לחיילים מידע קריטי ודחוף בזמן משימות. זה בעצם כמו שיהיה לכל חייל כט'ים אישי שיודע את כל הטקטיקות וההנחיות של הצבא.",
     "d": "2026-04-08T18:00:00Z",
     "v": 0,
     "l": [
@@ -22877,7 +22865,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 942,
-    "t": "Liverpool without Salah, PSG at full strength, cracker in Paris\n\nPSG and Liverpool face off in a do-or-die tie for Slot’s side, one that already took place last season. Arne Slot is playing for a big part of the season against the European champions and, in a way...",
+    "t": "ליברפול בלי סלאח, פאריז בעוצמה מלאה - משחק הכרעה\n\nליברפול מתמודדת מול PSG במשחק קריטי לעונת סלוט, בחזרה על קבלת הקבוצות מהעונה שעברה. זה לא סתם משחק - אנו מדברים על קרב על חלק משמעותי מהעונה כנגד אלופי אירופה, וחסרותיו של סלאח עלולות להיות קריטיות.",
     "d": "2026-04-08T17:59:00Z",
     "v": 0,
     "l": [
@@ -22923,7 +22911,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 944,
-    "t": "The Revenue Models Behind Today’s Top AI Platforms\n\nThe to-do list used to take an hour. Now it takes a prompt. More than 6 in 10 U.S. consumers used a dedicated artificial intelligence platform in the past year, according to PYMNTS Intelligence, and the average user relies on two to three tools. Each time Ope…",
+    "t": "מודלי ההכנסות מאחורי פלטפורמות ה-AI המובילות של היום\n\nלא צריך להיות מומחה כדי להבין שה-AI השתלט על חיינו - יותר מ-60% מהצרכנים בארה״ב השתמשו בפלטפורמת AI ייעודית בשנה האחרונה, וכל משתמש מסתמך על שניים עד שלוש כלים שונים. המחקר של PYMNTS Intelligence חושף את הסודות מאחורי מודלי ההכנסות של הפלטפורמות הגדולות - איך הן יוצרות ערך ומטבעות אותו לכסף אמיתי בעידן של זקני ה-AI.",
     "d": "2026-04-08T17:57:51Z",
     "v": 0,
     "l": [
@@ -22946,7 +22934,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 945,
-    "t": "trw-mcp 0.40.0\n\nEngineering memory MCP server for Claude Code — patterns, gotchas, and project knowledge that persist across sessions",
+    "t": "trw-mcp 0.40.0\n\nשרת MCP חדש לניהול זיכרון בעבודה עם Claude Code — כלי שיעזור לכם לשמור על דפוסי עבודה, טריקים שלמדתם וידע על הפרויקט שלכם אפילו בין סשנים שונים. בעצם, זה כמו עוזר שלא שוכח כלום ותמיד זוכר את כל מה שהעבדתם עם Claude.",
     "d": "2026-04-08T17:56:49Z",
     "v": 0,
     "l": [
@@ -22972,7 +22960,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 946,
-    "t": "Solidigm targets the AI bottleneck with advanced storage tech and ecosystem partnerships\n\nThe far-reaching impact of the artificial intelligence revolution has spilled over into many parts of the stack, where memory bottlenecks can slow AI inferencing and other key tasks. As SiliconANGLE’s analysts have noted in recent weeks, the “memory supercycl…",
+    "t": "Solidigm תוקפת את הצוואר בבקבוק של AI עם טכנולוגיית אחסון חדשנית ושותפויות אקוסיסטם\n\nSolidigm מטופלת בבעיה שמטרידה את כל האנשים בתעשיית AI - הזכרון הוא בעצם הבקבוק בבקבוק שמעכב את כל המערכת. החברה משקיעה בטכנולוגיות אחסון מתקדמות ויוצרת שותפויות אסטרטגיות כדי שה-GPU של שלך לא יישב בפינה בחכיית הנתונים.",
     "d": "2026-04-08T17:56:24Z",
     "v": 0,
     "l": [
@@ -22985,11 +22973,14 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
-    "tags": [
-      "news"
+    "co": [
+      "Nvidia"
     ],
-    "imp": "medium",
+    "tags": [
+      "news",
+      "hardware"
+    ],
+    "imp": "low",
     "thumb": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Clearing-the-path-for-AI.png",
     "source": "SiliconANGLE News"
   },
@@ -23021,7 +23012,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 948,
-    "t": "Hidden Mechanics\n\nHe is risen indeed! I don't have any insight into the true ethical machinery of the universe, but if the things I read as a child were true then they're at once timeless and ineffable but also authored to our precise moment. I remember learning in church that…",
+    "t": "מנגנונים נסתרים\n\nכתבה אישית וחיזונית מ-Penny Arcade שעוסקת בשאלות עמוקות על אתיקה, משמעות וזמינות - בעיקר דרך הפריזמה של השפעתה של דת וחינוך בימי הילדות. הסופר משלב תיאולוגיה עם פילוסופיה אישית תוך ניסיון להבין איך קיימות תכנים שנראים בו זמנית עתיקים וחדשים במיוחד לרגע הנוכחי שלנו. זה הרבה יותר מאשר סתם פוסט טכני - זו תצפית אנושית עמוקה על המנגנונים הנסתרים של חיינו.",
     "d": "2026-04-08T17:55:00Z",
     "v": 0,
     "l": [
@@ -23044,7 +23035,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 949,
-    "t": "The Survivalist’s Odds ‘n Sods\n\nSurvivalBlog presents another edition of The Survivalist’s Odds ‘n Sods. This column is a collection of news bits and pieces that are relevant to the modern survivalist and prepper from JWR. Our goal is to educate our readers, to help them to recognize emergi…",
+    "t": "הסיכויים והסיטים של מי שניסה להישרד\n\nSurvivalBlog חוזרת עם עוד גיליון של טור הידע של מי שמתכננים להישרד - אוסף של חדשות וחלקי מידע רלוונטיים למי שחוששים מפני קריסה ורוצים להיות מוכנים. קריאה מעניינת לכל מי שחושב לעצמו בעל מנטליות של משרד ביטחון ברחוב, עם טיפים פרקטיים וחדשות שיעזרו לכם להבין מה קורה בעולם ולהיות צעד קדימה בהכנות.",
     "d": "2026-04-08T17:54:29Z",
     "v": 0,
     "l": [
@@ -23067,7 +23058,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 950,
-    "t": "These stars are the newest members of the billionaires club\n\nAmerica produced the most new billionaires, followed by China, Germany and India, according to a new list from ‘Forbes’",
+    "t": "הכוכבים החדשים במועדון המיליארדרים\n\nלפי רשימה חדשה של Forbes, ארה״ב הובילה בייצור המיליארדרים החדשים, ואחריה סין, גרמניה והודו. כמובן שלא מדובר על כוכבי קולנוע אלא על עשירים חדשים שהצטרפו למועדון האקסקלוסיבי של בעלי הון של מיליארד דולר ומעלה.",
     "d": "2026-04-08T17:53:34Z",
     "v": 0,
     "l": [
@@ -23082,16 +23073,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://static.the-independent.com/2026/03/10/17/22/Beyonc-Dr--Dre-and-James-Cameron.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
     "source": "The-independent.com"
   },
   {
     "id": 951,
-    "t": "Meta Debuts New LLM Muse Spark\n\nMeta has introduced what it calls the first in a series of new artificial intelligence (AI) models. Muse Spark, announced by the tech giant Wednesday (April 8), powers the Meta AI app and website, and will be rolling out to its social media platforms and arti…",
+    "t": "מטא חושפת את מודל ה-AI החדש Muse Spark\n\nמטא הזריקה לשוק את Muse Spark, המודל הראשון בסדרה חדשה של מודלי AI שלה. המודל הזה יתגבר על אפליקציית Meta AI והאתר שלה, והחברה מתכננת להרחיב אותו לכל הפלטפורמות החברתיות שלה. זה עוד צעד בתחרות ה-AI המתגברת בין גיגנטים הטכנולוגיה.",
     "d": "2026-04-08T17:53:11Z",
     "v": 0,
     "l": [
@@ -23109,8 +23099,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://www.pymnts.com/wp-content/uploads/2026/03/Meta-AI-development-1.jpg",
@@ -23118,7 +23107,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 952,
-    "t": "Ghostwriting Is Good, Actually\n\nIf you have a story to tell but not the skills to tell it, hire a professional.",
+    "t": "כתיבה幽灵 זה בעצם טוב\n\nאם יש לכם סיפור שרוצים לשתף אבל אין לכם את היכולת לכתוב אותו בעצמכם, פשוט שכרו כותב מקצועי שיעשה את העבודה. זה לא בושת, זה פשוט חלוקת עבודה חכמה - כמו שמעצבים שכרים דיזיינר או כמו שמתכנתים שכרים DevOps. לפעמים הסיפור שלך חשוב יותר מהאגו, ואין ביוז בלקבל עזרה בדרך.",
     "d": "2026-04-08T17:45:00Z",
     "v": 0,
     "l": [
@@ -23141,7 +23130,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 953,
-    "t": "I've been waiting over a month for Anthropic support to respond\n\nIn early March, I noticed approximately $180 in unexpected charges to my Anthropic account. I’m a Claude Max subscriber, and between March 3-5, I received 16 separate “Extra Usage” invoices ranging from $10-$13 each, all in quick succession of one another. Ho…",
+    "t": "\"אני מחכה למעל חודש שAnthropic יגיבו לתמיכה שלי\"\n\nמשתמש סיפר על חוויה מעצבנת עם חשבון ה-Anthropic שלו - התגלו לו חיובים בלתי צפויים של כ-180 דולר בתחילת מרץ, כשהוא צריך לברר איך 16 חשבוניות \"Extra Usage\" התבררו בצורה כל כך מוזרה ברצף. הבעיה? AnthropicAI עדיין לא הגיבה לפניית התמיכה שלו אחרי יותר מחודש וזה קצת משוגע.",
     "d": "2026-04-08T17:44:25Z",
     "v": 0,
     "l": [
@@ -23167,7 +23156,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 954,
-    "t": "Citigroup says AI helps speed account openings and systems upgrades\n\nUS banks are embracing AI, the biggest technological upheaval to the world economy since the internet, to boost productivity and, in some cases, cut jobs.",
+    "t": "סיטיגרופ: בעזרת AI אנחנו מפתחים חשבונות בחשמל וחוזקים מערכות\n\nהבנקים האמריקאים כרגע סופגים את הגל של AI כמו שסופגו את האינטרנט פעם - וזה משנה הכל. סיטיגרופ ובנקים נוספים משתמשים בטכנולוגיה להעלות פרודוקטיביות, אבל בצד השני של המטבע יש גם סיבוכים קשים עם מקומות עבודה שנעלמים. זה כבר לא רק כלי משעשע - זה כוח שחוזל גם על כלכלה גלובלית.",
     "d": "2026-04-08T17:44:06Z",
     "v": 0,
     "l": [
@@ -23182,8 +23171,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-19104,resizemode-75,msid-130120945/tech/artificial-intelligence/citigroup-says-ai-helps-speed-account-openings-and-systems-upgrades.jpg",
@@ -23191,7 +23179,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 955,
-    "t": "Texas’s Tax Breaks for Data Centers May Be Largest for Any State in US\n\nThe state is providing more than $1 billion in tax breaks each year despite growing pushback from local communities.",
+    "t": "הטבות המס של טקסס לנתונים: הגדולות בארצות הברית\n\nThe state is providing more than $1 billion in tax breaks each year despite growing pushback from local communities.",
     "d": "2026-04-08T17:43:07Z",
     "v": 0,
     "l": [
@@ -23215,7 +23203,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 956,
-    "t": "reasontrace added to PyPI\n\nLocal-first reasoning drift detection for AI agents, served as an MCP server",
+    "t": "reasontrace נוסף ל-PyPI\n\nreasontrace הוא כלי חדש שעוזר לגלות כשה-AI agents שלכם מתחילים לסטות מהנתיב הנכון, וכל זה עובד מקומית בלי תלות בשרתים חיצוניים. הכלי פועל כ-MCP server, מה שמקל על השילוב שלו בפרויקטים קיימים ומאפשר real-time monitoring של התנהגות ה-agents שלכם. למי שעובד עם AI agents בייצור, זו דרך חכמה לשמור על הדברים תחת שליטה.",
     "d": "2026-04-08T17:42:05Z",
     "v": 0,
     "l": [
@@ -23239,7 +23227,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 957,
-    "t": "How Costco Won in Japan\n\nCostco had to re-think its real estate, merchandising and warehouse design to succeed in Japan, which is now its largest market outside of North America.",
+    "t": "איך Costco כבשה את היפן\n\nקוסטקו הבינה שצריך לשנות לגמרי את הקונספט שלה - מהנדל\"ן ועד לעיצוב המחסנים - כדי להצליח בשוק היפני. והדבר עבד ממש טוב: היפן הפכה לגדולה ביותר שוק לחברה מחוץ לאמריקה הצפונית!",
     "d": "2026-04-08T17:38:14Z",
     "v": 0,
     "l": [
