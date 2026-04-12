@@ -68890,6 +68890,42 @@
       "priority": "hot",
       "fetchedAt": "2026-04-12T21:53:54.892Z",
       "created_at": "2026-04-12T21:53:54.892Z"
+    },
+    {
+      "id": 3550,
+      "source": "Futurism",
+      "title_en": "CDC Caught Burying Report on Real Effects of COVID Vaccine",
+      "description_en": "RFK Jr \"has a fixed, immutable belief that vaccines cause harm.\"\nThe post CDC Caught Burying Report on Real Effects of COVID Vaccine appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/health-medicine/covid-vaccine-cdc-report",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/covid-vaccine-cdc-report.jpg?quality=85",
+      "pub_date": "Sun, 12 Apr 2026 18:00:00 -0400",
+      "author": "Joe Wilkins",
+      "categories": [
+        {
+          "_": "Health & Medicine",
+          "$": {
+            "domain": "https://futurism.com/category/health-medicine"
+          }
+        },
+        {
+          "_": "Medical",
+          "$": {
+            "domain": "https://futurism.com/category/medical"
+          }
+        },
+        {
+          "_": "RX and Medicine",
+          "$": {
+            "domain": "https://futurism.com/category/rx-medicines"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-12T23:06:15.226Z",
+      "created_at": "2026-04-12T23:06:15.226Z"
     }
   ]
 }
