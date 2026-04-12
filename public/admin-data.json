@@ -1,14 +1,14 @@
 {
-  "total": 3469,
-  "translated": 3008,
-  "untranslated": 461,
-  "today": 0,
-  "week": 3407,
+  "total": 3471,
+  "translated": 3058,
+  "untranslated": 413,
+  "today": 2,
+  "week": 3409,
   "sources": [
     {
       "name": "Pypi.org",
       "total": 477,
-      "translated": 374,
+      "translated": 388,
       "lastDate": "2026-04-09T07:21:22Z"
     },
     {
@@ -20,7 +20,7 @@
     {
       "name": "Product Hunt",
       "total": 199,
-      "translated": 167,
+      "translated": 168,
       "lastDate": "2026-04-11T05:50:24.000Z"
     },
     {
@@ -38,13 +38,13 @@
     {
       "name": "Onefootball.com",
       "total": 104,
-      "translated": 85,
+      "translated": 91,
       "lastDate": "2026-04-09T07:08:00Z"
     },
     {
       "name": "New Atlas",
-      "total": 91,
-      "translated": 91,
+      "total": 93,
+      "translated": 93,
       "lastDate": "Wed, 08 Apr 2026 23:03:00 GMT"
     },
     {
@@ -62,13 +62,13 @@
     {
       "name": "The Times of India",
       "total": 79,
-      "translated": 66,
+      "translated": 69,
       "lastDate": "2026-04-09T07:23:47Z"
     },
     {
       "name": "GlobeNewswire",
       "total": 77,
-      "translated": 60,
+      "translated": 64,
       "lastDate": "2026-04-09T07:00:00Z"
     },
     {
@@ -98,7 +98,7 @@
     {
       "name": "Github.com",
       "total": 54,
-      "translated": 32,
+      "translated": 33,
       "lastDate": "2026-04-09T06:45:21Z"
     },
     {
@@ -212,13 +212,13 @@
     {
       "name": "New York Post",
       "total": 16,
-      "translated": 11,
+      "translated": 13,
       "lastDate": "2026-04-09T02:27:43Z"
     },
     {
       "name": "Business Insider",
       "total": 15,
-      "translated": 11,
+      "translated": 12,
       "lastDate": "2026-04-09T05:54:14Z"
     },
     {
@@ -236,7 +236,7 @@
     {
       "name": "Livemint",
       "total": 13,
-      "translated": 12,
+      "translated": 13,
       "lastDate": "2026-04-09T02:15:50Z"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "Amazon.com",
       "total": 10,
-      "translated": 8,
+      "translated": 10,
       "lastDate": "2026-04-08T19:45:13Z"
     },
     {
@@ -326,7 +326,7 @@
     {
       "name": "The Next Web",
       "total": 9,
-      "translated": 6,
+      "translated": 7,
       "lastDate": "2026-04-08T20:09:31Z"
     },
     {
@@ -344,7 +344,7 @@
     {
       "name": "Decrypt",
       "total": 7,
-      "translated": 3,
+      "translated": 5,
       "lastDate": "2026-04-08T20:07:25Z"
     },
     {
@@ -386,7 +386,7 @@
     {
       "name": "Freerepublic.com",
       "total": 6,
-      "translated": 5,
+      "translated": 6,
       "lastDate": "2026-04-09T00:33:35Z"
     },
     {
@@ -536,7 +536,7 @@
     {
       "name": "Niemanlab.org",
       "total": 4,
-      "translated": 3,
+      "translated": 4,
       "lastDate": "2026-04-08T19:54:26Z"
     },
     {
@@ -554,7 +554,7 @@
     {
       "name": "CBS News",
       "total": 4,
-      "translated": 3,
+      "translated": 4,
       "lastDate": "2026-04-08T20:46:49Z"
     },
     {
@@ -824,7 +824,7 @@
     {
       "name": "FDA.gov",
       "total": 3,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T20:06:06Z"
     },
     {
@@ -836,7 +836,7 @@
     {
       "name": "TheJournal.ie",
       "total": 3,
-      "translated": 2,
+      "translated": 3,
       "lastDate": "2026-04-09T07:11:17Z"
     },
     {
@@ -890,7 +890,7 @@
     {
       "name": "Googleblog.com",
       "total": 2,
-      "translated": 1,
+      "translated": 2,
       "lastDate": "2026-04-08T20:28:00Z"
     },
     {
@@ -1112,7 +1112,7 @@
     {
       "name": "Screen Rant",
       "total": 2,
-      "translated": 1,
+      "translated": 2,
       "lastDate": "2026-04-08T19:30:20Z"
     },
     {
@@ -2402,7 +2402,7 @@
     {
       "name": "LADbible",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T19:56:38Z"
     },
     {
@@ -2450,13 +2450,13 @@
     {
       "name": "MacRumors",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T20:25:10Z"
     },
     {
       "name": "New York Magazine",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T19:42:42Z"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-12T02:13:25.007Z"
+  "generatedAt": "2026-04-12T05:07:48.236Z"
 }
