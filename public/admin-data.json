@@ -1,9 +1,9 @@
 {
-  "total": 3540,
-  "translated": 3539,
-  "untranslated": 1,
-  "today": 71,
-  "week": 3478,
+  "total": 3542,
+  "translated": 3542,
+  "untranslated": 0,
+  "today": 73,
+  "week": 3480,
   "sources": [
     {
       "name": "Pypi.org",
@@ -25,8 +25,8 @@
     },
     {
       "name": "Futurism",
-      "total": 144,
-      "translated": 143,
+      "total": 145,
+      "translated": 145,
       "lastDate": "Wed, 08 Apr 2026 16:29:40 -0400"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 96,
-      "translated": 96,
+      "total": 97,
+      "translated": 97,
       "lastDate": "Wed, 08 Apr 2026 23:03:00 GMT"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-12T19:02:32.813Z"
+  "generatedAt": "2026-04-12T19:52:07.796Z"
 }
