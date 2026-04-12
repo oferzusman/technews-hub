@@ -67595,6 +67595,95 @@
       "priority": "hot",
       "fetchedAt": "2026-04-12T11:05:46.822Z",
       "created_at": "2026-04-12T11:05:46.822Z"
+    },
+    {
+      "id": 3501,
+      "source": "The Decoder",
+      "title_en": "Anthropic seeks advice from Christian leaders on Claude's moral and spiritual behavior",
+      "description_en": "Can an AI be a \"child of God\"? Anthropic invited Christian leaders from churches, academia, and business to weigh in on Claude's moral and spiritual behavior.\nThe article Anthropic seeks advice from Christian leaders on Claude's moral and spiritual behavior appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-seeks-advice-from-christian-leaders-on-claudes-moral-and-spiritual-behavior/",
+      "image_url": null,
+      "pub_date": "Sun, 12 Apr 2026 11:25:54 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Anthropic",
+        "Claude"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-12T11:46:48.346Z",
+      "created_at": "2026-04-12T11:46:48.346Z"
+    },
+    {
+      "id": 3502,
+      "source": "Interesting Engineering",
+      "title_en": "Electric aircraft motor achieves 1,000 hp output with mere 207 pound weight",
+      "description_en": "Fraunhofer Institute for Integrated Systems and Device Technology (IISB) has developed a new lightweight, powerful,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/electric-aircraft-motor-achieves-1000-hp-output",
+      "image_url": "https://www.youtube.com/embed/eL51K7Huy2A",
+      "pub_date": "Sun, 12 Apr 2026 11:08:38 +0000",
+      "author": "Christopher McFadden",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-12T11:46:52.988Z",
+      "created_at": "2026-04-12T11:46:52.988Z"
+    },
+    {
+      "id": 3503,
+      "source": "Futurism",
+      "title_en": "OpenAI’s Latest Thing It’s Bragging About Is Actually Kind of Sad",
+      "description_en": "This compute measuring contest is just pitiful.\nThe post OpenAI’s Latest Thing It’s Bragging About Is Actually Kind of Sad appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/openai-bragging-compute-sad",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/openai-bragging-compute-sad.jpg?quality=85",
+      "pub_date": "Sun, 12 Apr 2026 07:30:00 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-12T11:46:53.135Z",
+      "created_at": "2026-04-12T11:46:53.135Z"
+    },
+    {
+      "id": 3504,
+      "source": "Tom's Hardware",
+      "title_en": "Startup secures $30 million contract to 3D print jet engines for the USAF — company to test and develop small turbojets for drones and long-range weapons",
+      "description_en": "Beehive Industries will test its 3D-printed engines for use by the USAF, which are reportedly cheaper to build, use, and service compared to traditionally manufactured engines.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/3d-printing/startup-secures-usd30-million-contract-to-3d-print-jet-engines-for-the-usaf-company-to-test-and-develop-small-turbojets-for-drones-and-long-range-weapons",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/EE2tUdX7pCJ9dVQs5ytBvi-1280-80.png",
+      "pub_date": "Sun, 12 Apr 2026 11:39:02 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "3D Printing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-12T11:46:53.358Z",
+      "created_at": "2026-04-12T11:46:53.358Z"
     }
   ]
 }
