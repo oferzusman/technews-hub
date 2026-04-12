@@ -1,9 +1,9 @@
 {
-  "total": 3511,
-  "translated": 3505,
-  "untranslated": 6,
-  "today": 42,
-  "week": 3449,
+  "total": 3519,
+  "translated": 3519,
+  "untranslated": 0,
+  "today": 50,
+  "week": 3457,
   "sources": [
     {
       "name": "Pypi.org",
@@ -20,19 +20,19 @@
     {
       "name": "Product Hunt",
       "total": 207,
-      "translated": 201,
+      "translated": 207,
       "lastDate": "2026-04-11T23:43:28.000Z"
     },
     {
       "name": "Futurism",
-      "total": 136,
-      "translated": 136,
+      "total": 137,
+      "translated": 137,
       "lastDate": "Wed, 08 Apr 2026 16:29:40 -0400"
     },
     {
       "name": "Tom's Hardware",
-      "total": 126,
-      "translated": 126,
+      "total": 128,
+      "translated": 128,
       "lastDate": "Wed, 08 Apr 2026 19:45:25 +0000"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 94,
-      "translated": 94,
+      "total": 95,
+      "translated": 95,
       "lastDate": "Wed, 08 Apr 2026 23:03:00 GMT"
     },
     {
@@ -66,16 +66,16 @@
       "lastDate": "2026-04-09T07:23:47Z"
     },
     {
+      "name": "Interesting Engineering",
+      "total": 77,
+      "translated": 77,
+      "lastDate": "Wed, 08 Apr 2026 23:24:03 +0000"
+    },
+    {
       "name": "GlobeNewswire",
       "total": 77,
       "translated": 77,
       "lastDate": "2026-04-09T07:00:00Z"
-    },
-    {
-      "name": "Interesting Engineering",
-      "total": 76,
-      "translated": 76,
-      "lastDate": "Wed, 08 Apr 2026 23:24:03 +0000"
     },
     {
       "name": "The Register",
@@ -103,14 +103,14 @@
     },
     {
       "name": "The Decoder",
-      "total": 52,
-      "translated": 52,
+      "total": 53,
+      "translated": 53,
       "lastDate": "Wed, 08 Apr 2026 18:00:03 +0000"
     },
     {
       "name": "The Guardian AI",
-      "total": 42,
-      "translated": 42,
+      "total": 44,
+      "translated": 44,
       "lastDate": "Wed, 08 Apr 2026 22:13:18 GMT"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-12T13:34:20.231Z"
+  "generatedAt": "2026-04-12T14:24:35.527Z"
 }
