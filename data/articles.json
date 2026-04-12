@@ -68675,6 +68675,47 @@
       "priority": "hot",
       "fetchedAt": "2026-04-12T18:27:48.371Z",
       "created_at": "2026-04-12T18:27:48.371Z"
+    },
+    {
+      "id": 3541,
+      "source": "New Atlas",
+      "title_en": "Missile kit lets fighter jets down drones on the cheap",
+      "description_en": "Shooting down a drone with a fighter jet is as cost effective as wrapping sandwiches in gold foil, but BAE Systems has cut the price by firing an economy anti-drone Advanced Precision Kill Weapon System (APKWS) missile from a Typhoon Eurofighter.\nContinue Reading\nCategory: Military, Engineering\nTags: Typhoons, BAE Systems, drones, Missile Defense",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/military/bae-anti-drone-missile-kit-typhoon-fighter/",
+      "image_url": null,
+      "pub_date": "Sun, 12 Apr 2026 19:03:00 GMT",
+      "author": "David Szondy",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-12T19:22:17.874Z",
+      "created_at": "2026-04-12T19:22:17.875Z"
+    },
+    {
+      "id": 3542,
+      "source": "Futurism",
+      "title_en": "Nike’s AI Designed World Cup Jerseys Are a Disaster",
+      "description_en": "\"This is a stupid, STUPID design.\"\nThe post Nike’s AI Designed World Cup Jerseys Are a Disaster appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/nikes-ai-designed-world-cup-jerseys",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/nikes-ai-designed-world-cup-jerseys.jpg?quality=85",
+      "pub_date": "Sun, 12 Apr 2026 15:00:00 -0400",
+      "author": "Frank Landymore",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-12T19:22:20.292Z",
+      "created_at": "2026-04-12T19:22:20.292Z"
     }
   ]
 }
