@@ -68833,6 +68833,63 @@
       "priority": "hot",
       "fetchedAt": "2026-04-12T21:19:13.418Z",
       "created_at": "2026-04-12T21:19:13.418Z"
+    },
+    {
+      "id": 3548,
+      "source": "MarkTechPost",
+      "title_en": "Meta AI and KAUST Researchers Propose Neural Computers That Fold Computation, Memory, and I/O Into One Learned Model",
+      "description_en": "Researchers from Meta AI and the King Abdullah University of Science and Technology (KAUST) have introduced Neural Computers (NCs) — a proposed machine form in which a neural network itself acts as the running computer, rather than as a layer sitting on top of one. The research team presents both a theoretical framework and two […]\nThe post Meta AI and KAUST Researchers Propose Neural Computers That Fold Computation, Memory, and I/O Into One Learned Model appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/12/meta-ai-and-kaust-researchers-propose-neural-computers-that-fold-computation-memory-and-i-o-into-one-learned-model/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-12-at-2.47.35-PM-1.png",
+      "pub_date": "Sun, 12 Apr 2026 21:52:24 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-12T21:53:54.892Z",
+      "created_at": "2026-04-12T21:53:54.892Z"
+    },
+    {
+      "id": 3549,
+      "source": "MarkTechPost",
+      "title_en": "A Coding Implementation of MolmoAct for Depth-Aware Spatial Reasoning, Visual Trajectory Tracing, and Robotic Action Prediction",
+      "description_en": "In this tutorial, we walk through MolmoAct step by step and build a practical understanding of how action-reasoning models can reason in space from visual observations. We set up the environment, load the model, prepare multi-view image inputs, and explore how MolmoAct produces depth-aware reasoning, visual traces, and actionable robot outputs from natural language instructions. […]\nThe post A Coding Implementation of MolmoAct for Depth-Aware Spatial Reasoning, Visual Trajectory Tracing, and Rob",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/12/a-coding-implementation-of-molmoact-for-depth-aware-spatial-reasoning-visual-trajectory-tracing-and-robotic-action-prediction/",
+      "image_url": null,
+      "pub_date": "Sun, 12 Apr 2026 20:17:15 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Applications",
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Editors Pick",
+        "Machine Learning",
+        "Physical AI",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-12T21:53:54.892Z",
+      "created_at": "2026-04-12T21:53:54.892Z"
     }
   ]
 }
