@@ -1,9 +1,9 @@
 {
-  "total": 3532,
-  "translated": 3531,
-  "untranslated": 1,
-  "today": 63,
-  "week": 3470,
+  "total": 3534,
+  "translated": 3532,
+  "untranslated": 2,
+  "today": 65,
+  "week": 3472,
   "sources": [
     {
       "name": "Pypi.org",
@@ -25,8 +25,8 @@
     },
     {
       "name": "Futurism",
-      "total": 141,
-      "translated": 140,
+      "total": 142,
+      "translated": 141,
       "lastDate": "Wed, 08 Apr 2026 16:29:40 -0400"
     },
     {
@@ -109,7 +109,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 44,
+      "total": 45,
       "translated": 44,
       "lastDate": "Wed, 08 Apr 2026 22:13:18 GMT"
     },
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-12T16:35:11.984Z"
+  "generatedAt": "2026-04-12T17:19:33.070Z"
 }
