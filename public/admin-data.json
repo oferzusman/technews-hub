@@ -1,14 +1,14 @@
 {
-  "total": 3483,
-  "translated": 3207,
-  "untranslated": 276,
-  "today": 14,
-  "week": 3421,
+  "total": 3490,
+  "translated": 3257,
+  "untranslated": 233,
+  "today": 21,
+  "week": 3428,
   "sources": [
     {
       "name": "Pypi.org",
       "total": 477,
-      "translated": 413,
+      "translated": 424,
       "lastDate": "2026-04-09T07:21:22Z"
     },
     {
@@ -20,13 +20,13 @@
     {
       "name": "Product Hunt",
       "total": 207,
-      "translated": 168,
+      "translated": 173,
       "lastDate": "2026-04-11T23:43:28.000Z"
     },
     {
       "name": "Futurism",
       "total": 132,
-      "translated": 130,
+      "translated": 131,
       "lastDate": "Wed, 08 Apr 2026 16:29:40 -0400"
     },
     {
@@ -38,13 +38,13 @@
     {
       "name": "Onefootball.com",
       "total": 104,
-      "translated": 100,
+      "translated": 101,
       "lastDate": "2026-04-09T07:08:00Z"
     },
     {
       "name": "New Atlas",
       "total": 94,
-      "translated": 93,
+      "translated": 94,
       "lastDate": "Wed, 08 Apr 2026 23:03:00 GMT"
     },
     {
@@ -62,14 +62,20 @@
     {
       "name": "The Times of India",
       "total": 79,
-      "translated": 75,
+      "translated": 77,
       "lastDate": "2026-04-09T07:23:47Z"
     },
     {
       "name": "GlobeNewswire",
       "total": 77,
-      "translated": 70,
+      "translated": 71,
       "lastDate": "2026-04-09T07:00:00Z"
+    },
+    {
+      "name": "Interesting Engineering",
+      "total": 73,
+      "translated": 69,
+      "lastDate": "Wed, 08 Apr 2026 23:24:03 +0000"
     },
     {
       "name": "The Register",
@@ -84,12 +90,6 @@
       "lastDate": "Wed, 08 Apr 2026 23:52:04 GMT"
     },
     {
-      "name": "Interesting Engineering",
-      "total": 69,
-      "translated": 69,
-      "lastDate": "Wed, 08 Apr 2026 23:24:03 +0000"
-    },
-    {
       "name": "TechCrunch AI",
       "total": 56,
       "translated": 56,
@@ -98,25 +98,25 @@
     {
       "name": "Github.com",
       "total": 54,
-      "translated": 38,
+      "translated": 41,
       "lastDate": "2026-04-09T06:45:21Z"
     },
     {
       "name": "The Decoder",
-      "total": 48,
-      "translated": 46,
+      "total": 49,
+      "translated": 48,
       "lastDate": "Wed, 08 Apr 2026 18:00:03 +0000"
     },
     {
       "name": "The Guardian AI",
-      "total": 39,
+      "total": 40,
       "translated": 39,
       "lastDate": "Wed, 08 Apr 2026 22:13:18 GMT"
     },
     {
       "name": "Slashdot.org",
       "total": 35,
-      "translated": 31,
+      "translated": 32,
       "lastDate": "2026-04-09T06:28:29Z"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 30,
+      "total": 31,
       "translated": 30,
       "lastDate": "Wed, 08 Apr 2026 22:43:24 +0000"
     },
@@ -140,13 +140,13 @@
     {
       "name": "Financial Post",
       "total": 26,
-      "translated": 23,
+      "translated": 25,
       "lastDate": "2026-04-09T04:35:19Z"
     },
     {
       "name": "Ibtimes.com.au",
       "total": 25,
-      "translated": 17,
+      "translated": 18,
       "lastDate": "2026-04-09T02:36:13Z"
     },
     {
@@ -200,7 +200,7 @@
     {
       "name": "TechRadar",
       "total": 17,
-      "translated": 13,
+      "translated": 14,
       "lastDate": "2026-04-09T05:25:00Z"
     },
     {
@@ -224,7 +224,7 @@
     {
       "name": "CNA",
       "total": 14,
-      "translated": 11,
+      "translated": 14,
       "lastDate": "2026-04-09T05:18:41Z"
     },
     {
@@ -242,7 +242,7 @@
     {
       "name": "Yahoo Entertainment",
       "total": 13,
-      "translated": 7,
+      "translated": 9,
       "lastDate": "2026-04-08T17:31:05Z"
     },
     {
@@ -278,13 +278,13 @@
     {
       "name": "BusinessLine",
       "total": 11,
-      "translated": 9,
+      "translated": 10,
       "lastDate": "2026-04-09T04:26:00Z"
     },
     {
       "name": "The Irish Times",
       "total": 11,
-      "translated": 10,
+      "translated": 11,
       "lastDate": "2026-04-09T06:37:01Z"
     },
     {
@@ -368,7 +368,7 @@
     {
       "name": "The Conversation Africa",
       "total": 6,
-      "translated": 5,
+      "translated": 6,
       "lastDate": "2026-04-09T06:06:10Z"
     },
     {
@@ -410,7 +410,7 @@
     {
       "name": "Breitbart News",
       "total": 6,
-      "translated": 5,
+      "translated": 6,
       "lastDate": "2026-04-08T18:35:28Z"
     },
     {
@@ -434,7 +434,7 @@
     {
       "name": "Reason",
       "total": 5,
-      "translated": 3,
+      "translated": 4,
       "lastDate": "2026-04-08T22:13:40Z"
     },
     {
@@ -458,7 +458,7 @@
     {
       "name": "The Daily Caller",
       "total": 5,
-      "translated": 4,
+      "translated": 5,
       "lastDate": "2026-04-08T16:50:25Z"
     },
     {
@@ -476,7 +476,7 @@
     {
       "name": "Observer",
       "total": 5,
-      "translated": 4,
+      "translated": 5,
       "lastDate": "2026-04-08T16:05:29Z"
     },
     {
@@ -1232,7 +1232,7 @@
     {
       "name": "BleepingComputer",
       "total": 2,
-      "translated": 1,
+      "translated": 2,
       "lastDate": "2026-04-08T17:26:40Z"
     },
     {
@@ -2252,13 +2252,13 @@
     {
       "name": "Psychology Today",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T16:38:58Z"
     },
     {
       "name": "ESPN",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T16:29:49Z"
     },
     {
@@ -2288,19 +2288,19 @@
     {
       "name": "Wearesocial.com",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T16:21:16Z"
     },
     {
       "name": "Android Police",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T16:16:10Z"
     },
     {
       "name": "Pandanoir.info",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T16:08:28Z"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-12T09:04:52.513Z"
+  "generatedAt": "2026-04-12T10:00:09.236Z"
 }
