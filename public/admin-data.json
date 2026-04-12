@@ -1,14 +1,14 @@
 {
-  "total": 3500,
-  "translated": 3357,
-  "untranslated": 143,
-  "today": 31,
-  "week": 3438,
+  "total": 3511,
+  "translated": 3505,
+  "untranslated": 6,
+  "today": 42,
+  "week": 3449,
   "sources": [
     {
       "name": "Pypi.org",
       "total": 477,
-      "translated": 441,
+      "translated": 477,
       "lastDate": "2026-04-09T07:21:22Z"
     },
     {
@@ -20,25 +20,25 @@
     {
       "name": "Product Hunt",
       "total": 207,
-      "translated": 173,
+      "translated": 201,
       "lastDate": "2026-04-11T23:43:28.000Z"
     },
     {
       "name": "Futurism",
-      "total": 134,
-      "translated": 132,
+      "total": 136,
+      "translated": 136,
       "lastDate": "Wed, 08 Apr 2026 16:29:40 -0400"
     },
     {
       "name": "Tom's Hardware",
-      "total": 124,
-      "translated": 122,
+      "total": 126,
+      "translated": 126,
       "lastDate": "Wed, 08 Apr 2026 19:45:25 +0000"
     },
     {
       "name": "Onefootball.com",
       "total": 104,
-      "translated": 103,
+      "translated": 104,
       "lastDate": "2026-04-09T07:08:00Z"
     },
     {
@@ -55,8 +55,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 83,
-      "translated": 83,
+      "total": 84,
+      "translated": 84,
       "lastDate": "Wed, 08 Apr 2026 22:00:11 +0000"
     },
     {
@@ -68,19 +68,19 @@
     {
       "name": "GlobeNewswire",
       "total": 77,
-      "translated": 75,
+      "translated": 77,
       "lastDate": "2026-04-09T07:00:00Z"
     },
     {
       "name": "Interesting Engineering",
-      "total": 73,
-      "translated": 73,
+      "total": 76,
+      "translated": 76,
       "lastDate": "Wed, 08 Apr 2026 23:24:03 +0000"
     },
     {
       "name": "The Register",
       "total": 72,
-      "translated": 71,
+      "translated": 72,
       "lastDate": "2026-04-12T10:51:06.000Z"
     },
     {
@@ -98,32 +98,32 @@
     {
       "name": "Github.com",
       "total": 54,
-      "translated": 47,
+      "translated": 54,
       "lastDate": "2026-04-09T06:45:21Z"
     },
     {
       "name": "The Decoder",
-      "total": 50,
-      "translated": 49,
+      "total": 52,
+      "translated": 52,
       "lastDate": "Wed, 08 Apr 2026 18:00:03 +0000"
     },
     {
       "name": "The Guardian AI",
       "total": 42,
-      "translated": 41,
+      "translated": 42,
       "lastDate": "Wed, 08 Apr 2026 22:13:18 GMT"
     },
     {
       "name": "Slashdot.org",
       "total": 35,
-      "translated": 32,
+      "translated": 35,
       "lastDate": "2026-04-09T06:28:29Z"
     },
     {
       "name": "The Verge AI",
-      "total": 33,
-      "translated": 33,
-      "lastDate": "2026-04-11T15:00:00.000Z"
+      "total": 34,
+      "translated": 34,
+      "lastDate": "2026-04-12T12:00:00.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -140,19 +140,19 @@
     {
       "name": "Financial Post",
       "total": 26,
-      "translated": 25,
+      "translated": 26,
       "lastDate": "2026-04-09T04:35:19Z"
     },
     {
       "name": "Ibtimes.com.au",
       "total": 25,
-      "translated": 23,
+      "translated": 25,
       "lastDate": "2026-04-09T02:36:13Z"
     },
     {
       "name": "SiliconANGLE News",
       "total": 24,
-      "translated": 23,
+      "translated": 24,
       "lastDate": "2026-04-09T02:20:06Z"
     },
     {
@@ -200,7 +200,7 @@
     {
       "name": "TechRadar",
       "total": 17,
-      "translated": 14,
+      "translated": 17,
       "lastDate": "2026-04-09T05:25:00Z"
     },
     {
@@ -212,7 +212,7 @@
     {
       "name": "New York Post",
       "total": 16,
-      "translated": 15,
+      "translated": 16,
       "lastDate": "2026-04-09T02:27:43Z"
     },
     {
@@ -230,7 +230,7 @@
     {
       "name": "PCMag.com",
       "total": 14,
-      "translated": 12,
+      "translated": 14,
       "lastDate": "2026-04-08T19:03:10Z"
     },
     {
@@ -242,7 +242,7 @@
     {
       "name": "Yahoo Entertainment",
       "total": 13,
-      "translated": 12,
+      "translated": 13,
       "lastDate": "2026-04-08T17:31:05Z"
     },
     {
@@ -260,7 +260,7 @@
     {
       "name": "Geeky Gadgets",
       "total": 12,
-      "translated": 11,
+      "translated": 12,
       "lastDate": "2026-04-09T07:19:00Z"
     },
     {
@@ -272,7 +272,7 @@
     {
       "name": "Fortune",
       "total": 11,
-      "translated": 10,
+      "translated": 11,
       "lastDate": "2026-04-08T17:05:48Z"
     },
     {
@@ -326,7 +326,7 @@
     {
       "name": "The Next Web",
       "total": 9,
-      "translated": 8,
+      "translated": 9,
       "lastDate": "2026-04-08T20:09:31Z"
     },
     {
@@ -356,13 +356,13 @@
     {
       "name": "9to5google.com",
       "total": 7,
-      "translated": 6,
+      "translated": 7,
       "lastDate": "2026-04-08T21:39:47Z"
     },
     {
       "name": "Plos.org",
       "total": 7,
-      "translated": 1,
+      "translated": 7,
       "lastDate": "2026-04-08T14:00:00Z"
     },
     {
@@ -584,7 +584,7 @@
     {
       "name": "Tumblr.com",
       "total": 4,
-      "translated": 3,
+      "translated": 4,
       "lastDate": "2026-04-08T15:24:50Z"
     },
     {
@@ -596,7 +596,7 @@
     {
       "name": "Search Engine Journal",
       "total": 4,
-      "translated": 3,
+      "translated": 4,
       "lastDate": "2026-04-09T04:20:50Z"
     },
     {
@@ -698,7 +698,7 @@
     {
       "name": "Popular Science",
       "total": 3,
-      "translated": 2,
+      "translated": 3,
       "lastDate": "2026-04-08T19:19:08Z"
     },
     {
@@ -740,7 +740,7 @@
     {
       "name": "Hackaday",
       "total": 3,
-      "translated": 2,
+      "translated": 3,
       "lastDate": "2026-04-08T15:30:40Z"
     },
     {
@@ -770,7 +770,7 @@
     {
       "name": "MacStories",
       "total": 3,
-      "translated": 2,
+      "translated": 3,
       "lastDate": "2026-04-08T15:43:00Z"
     },
     {
@@ -812,7 +812,7 @@
     {
       "name": "PhoneArena",
       "total": 3,
-      "translated": 1,
+      "translated": 3,
       "lastDate": "2026-04-08T14:20:27Z"
     },
     {
@@ -920,7 +920,7 @@
     {
       "name": "BBC News",
       "total": 2,
-      "translated": 1,
+      "translated": 2,
       "lastDate": "2026-04-08T14:08:01Z"
     },
     {
@@ -1100,7 +1100,7 @@
     {
       "name": "Asianefficiency.com",
       "total": 2,
-      "translated": 1,
+      "translated": 2,
       "lastDate": "2026-04-08T12:00:55Z"
     },
     {
@@ -1154,7 +1154,7 @@
     {
       "name": "TelecomTV",
       "total": 2,
-      "translated": 1,
+      "translated": 2,
       "lastDate": "2026-04-08T12:02:03Z"
     },
     {
@@ -1172,7 +1172,7 @@
     {
       "name": "Infosecurity Magazine",
       "total": 2,
-      "translated": 1,
+      "translated": 2,
       "lastDate": "2026-04-08T11:30:00Z"
     },
     {
@@ -1214,13 +1214,13 @@
     {
       "name": "Jetbrains.com",
       "total": 2,
-      "translated": 0,
+      "translated": 2,
       "lastDate": "2026-04-08T12:44:58Z"
     },
     {
       "name": "NBC News",
       "total": 2,
-      "translated": 1,
+      "translated": 2,
       "lastDate": "2026-04-08T21:42:01Z"
     },
     {
@@ -2084,91 +2084,91 @@
     {
       "name": "Scindo.one",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T13:07:55Z"
     },
     {
       "name": "Hongkiat.com",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T13:00:00Z"
     },
     {
       "name": "Russell-harper.com",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T12:56:58Z"
     },
     {
       "name": "CBS Sports",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T12:41:08Z"
     },
     {
       "name": "Practical Ecommerce",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T12:28:00Z"
     },
     {
       "name": "Rock Chalk Talk",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T12:27:08Z"
     },
     {
       "name": "9to5Toys",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T12:16:00Z"
     },
     {
       "name": "Sap.com",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T12:15:00Z"
     },
     {
       "name": "Harvard Business Review",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T12:05:33Z"
     },
     {
       "name": "Machinelearningmastery.com",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T12:02:28Z"
     },
     {
       "name": "Researchbuzz.me",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T12:01:31Z"
     },
     {
       "name": "1xinternet.com",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T12:00:00Z"
     },
     {
       "name": "Mother Jones",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T11:30:00Z"
     },
     {
       "name": "Securityaffairs.com",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T11:18:26Z"
     },
     {
       "name": "mindbodygreen.com",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T11:11:00Z"
     },
     {
@@ -2216,7 +2216,7 @@
     {
       "name": "Abajournal.com",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T14:11:00Z"
     },
     {
@@ -2240,13 +2240,13 @@
     {
       "name": "GSMArena.com",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T14:03:03Z"
     },
     {
       "name": "Wordpress.com",
       "total": 1,
-      "translated": 0,
+      "translated": 1,
       "lastDate": "2026-04-08T14:00:00Z"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-12T11:32:01.578Z"
+  "generatedAt": "2026-04-12T13:34:20.231Z"
 }
