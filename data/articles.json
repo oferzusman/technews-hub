@@ -67095,6 +67095,184 @@
       "priority": "batch",
       "fetchedAt": "2026-04-12T08:44:14.106Z",
       "created_at": "2026-04-12T08:44:14.107Z"
+    },
+    {
+      "id": 3484,
+      "source": "The Decoder",
+      "title_en": "Arcee AI spent half its venture capital to build an open reasoning model that rivals Claude Opus in agent tasks",
+      "description_en": "US start-up Arcee AI spent roughly half its total venture capital to train Trinity-Large-Thinking, an open reasoning model with 400 billion parameters designed to take on Claude Opus in agent tasks.\nThe article Arcee AI spent half its venture capital to build an open reasoning model that rivals Claude Opus in agent tasks appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/arcee-ai-spent-half-its-venture-capital-to-build-an-open-reasoning-model-that-rivals-claude-opus-in-agent-tasks/",
+      "image_url": null,
+      "pub_date": "Sun, 12 Apr 2026 08:59:26 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Arcee",
+        "Open Source",
+        "Trinity"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-12T09:32:58.180Z",
+      "created_at": "2026-04-12T09:32:58.180Z"
+    },
+    {
+      "id": 3485,
+      "source": "MarkTechPost",
+      "title_en": "MiniMax Just Open Sourced MiniMax M2.7: A Self-Evolving Agent Model that Scores 56.22% on SWE-Pro and 57.0% on Terminal Bench 2",
+      "description_en": "MiniMax has officially open-sourced MiniMax M2.7, making the model weights publicly available on Hugging Face. Originally announced on March 18, 2026, MiniMax M2.7 is the MiniMax’s most capable open-source model to date — and its first model to actively participate in its own development cycle, a meaningful shift in how large language models are built […]\nThe post MiniMax Just Open Sourced MiniMax M2.7: A Self-Evolving Agent Model that Scores 56.22% on SWE-Pro and 57.0% on Terminal Bench 2 appea",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/12/minimax-just-open-sourced-minimax-m2-7-a-self-evolving-agent-model-that-scores-56-22-on-swe-pro-and-57-0-on-terminal-bench-2/",
+      "image_url": null,
+      "pub_date": "Sun, 12 Apr 2026 09:20:15 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-12T09:32:58.314Z",
+      "created_at": "2026-04-12T09:32:58.314Z"
+    },
+    {
+      "id": 3486,
+      "source": "The Guardian AI",
+      "title_en": "‘Too powerful for the public’: Inside Anthropic’s bid to win the AI publicity war",
+      "description_en": "The firm says it withheld an AI model on cybersecurity grounds but sceptics say this was hype to lure investment\nThis week, the AI company Anthropic said it had created an AI model so powerful that, out of a sense of overwhelming responsibility, it was not going to release it to the public.\nThe US treasury secretary, Scott Bessent, summoned the heads of major banks for a chat about the model, Mythos. The Reform UK MP Danny Kruger wrote a letter to the government urging it to “engage with AI firm",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/apr/12/too-powerful-for-the-public-inside-anthropics-bid-to-win-the-ai-publicity-war",
+      "image_url": "https://i.guim.co.uk/img/media/ba4542dd902ac8d6e942e6417a28bdb5305f5fad/457_0_5029_4024/master/5029.jpg?width=140&quality=85&auto=format&fit=max&s=4ecb126abfbd3bb4ae6192eb40cfb028",
+      "pub_date": "Sun, 12 Apr 2026 09:00:13 GMT",
+      "author": "Aisha Down",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Chatbots",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatbots"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-12T09:32:59.222Z",
+      "created_at": "2026-04-12T09:32:59.222Z"
+    },
+    {
+      "id": 3487,
+      "source": "Interesting Engineering",
+      "title_en": "China’s Geely touts methanol’s ’10x higher’ energy density over ‘too heavy’ lithium EVs",
+      "description_en": "Geely’s chairman Li Shufu has renewed criticism of battery-electric vehicles, arguing that lithium-based EVs can...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/chinas-touts-methanol-higher-energy-for-ev",
+      "image_url": "https://www.youtube.com/embed/Eqepe_ubkSY",
+      "pub_date": "Sun, 12 Apr 2026 09:03:21 +0000",
+      "author": "Bojan Stojkovski",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-12T09:33:02.742Z",
+      "created_at": "2026-04-12T09:33:02.742Z"
+    },
+    {
+      "id": 3488,
+      "source": "Interesting Engineering",
+      "title_en": "Over 150 mergers reveal three distinct black hole origins, challenging unified model",
+      "description_en": "For years, astronomers treated merging black holes as if they all came from the same...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/three-type-of-black-hole-mergers",
+      "image_url": null,
+      "pub_date": "Sun, 12 Apr 2026 07:55:11 +0000",
+      "author": "Rupendra Brahambhatt",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-12T09:33:02.742Z",
+      "created_at": "2026-04-12T09:33:02.742Z"
+    },
+    {
+      "id": 3489,
+      "source": "Interesting Engineering",
+      "title_en": "German firm’s car integrated with high-pressure hydrogen chambers that deliver 466-mile range",
+      "description_en": "BMW is advancing its alternative fuel strategy with the development of the BMW iX5 Hydrogen,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/german-firm-car-hydrogen-chambers",
+      "image_url": null,
+      "pub_date": "Sun, 12 Apr 2026 06:46:07 +0000",
+      "author": "Prabhat Ranjan Mishra",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-12T09:33:02.742Z",
+      "created_at": "2026-04-12T09:33:02.742Z"
+    },
+    {
+      "id": 3490,
+      "source": "Interesting Engineering",
+      "title_en": "2,000-year-old wall paintings in Roman Hispania reveal ingenious house painters",
+      "description_en": "A new chemical study of the splendid wall paintings of the Domus of Salvius in...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/culture/roman-wall-paintings-ingenious-house-painters",
+      "image_url": "https://www.youtube.com/embed/q-hr-Qc4Dz0",
+      "pub_date": "Sun, 12 Apr 2026 05:15:24 +0000",
+      "author": "Maria Mocerino",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-12T09:33:02.742Z",
+      "created_at": "2026-04-12T09:33:02.742Z"
     }
   ]
 }
