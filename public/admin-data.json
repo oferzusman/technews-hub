@@ -1,9 +1,9 @@
 {
-  "total": 3534,
-  "translated": 3532,
-  "untranslated": 2,
-  "today": 65,
-  "week": 3472,
+  "total": 3539,
+  "translated": 3534,
+  "untranslated": 5,
+  "today": 70,
+  "week": 3477,
   "sources": [
     {
       "name": "Pypi.org",
@@ -25,13 +25,13 @@
     },
     {
       "name": "Futurism",
-      "total": 142,
-      "translated": 141,
+      "total": 143,
+      "translated": 142,
       "lastDate": "Wed, 08 Apr 2026 16:29:40 -0400"
     },
     {
       "name": "Tom's Hardware",
-      "total": 132,
+      "total": 133,
       "translated": 132,
       "lastDate": "Wed, 08 Apr 2026 19:45:25 +0000"
     },
@@ -60,16 +60,16 @@
       "lastDate": "Wed, 08 Apr 2026 22:00:11 +0000"
     },
     {
+      "name": "Interesting Engineering",
+      "total": 80,
+      "translated": 77,
+      "lastDate": "Wed, 08 Apr 2026 23:24:03 +0000"
+    },
+    {
       "name": "The Times of India",
       "total": 79,
       "translated": 79,
       "lastDate": "2026-04-09T07:23:47Z"
-    },
-    {
-      "name": "Interesting Engineering",
-      "total": 77,
-      "translated": 77,
-      "lastDate": "Wed, 08 Apr 2026 23:24:03 +0000"
     },
     {
       "name": "GlobeNewswire",
@@ -110,7 +110,7 @@
     {
       "name": "The Guardian AI",
       "total": 45,
-      "translated": 44,
+      "translated": 45,
       "lastDate": "Wed, 08 Apr 2026 22:13:18 GMT"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-12T17:19:33.070Z"
+  "generatedAt": "2026-04-12T17:59:39.356Z"
 }
