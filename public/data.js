@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "US Air Force picks two bases for tiny nuclear reactors to boost power security\n\nThe U.S. Department of the Air Force announced that it has identified Buckley Space Force...",
+    "t": "חיל האוויר האמריקאי בוחר שתי בסיסים לריאקטורים גרעיניים זעירים להגברת ביטחון החשמל\n\nחיל האוויר האמריקאי בחר בשתי בסיסים צבאיים להתקנת ריאקטורים גרעיניים קטנים (SMR) שנועדו להבטיח עצמאות אנרגטית וביטחון חשמלי גבוה יותר. הפרויקט החדשני הזה משקף את המעבר הגלובלי לאנרגיה גרעינית קטנה וחכמה יותר, במיוחד בשטחים צבאיים רגישים. זו צעד משמעותי של ארה״ב בהשקעה בטכנולוגיה גרעינית מודרנית לשם חיזוק הביטחון הלאומי והעצמאות האנרגטית.",
     "d": "Mon, 13 Apr 2026 10:14:27 +0000",
     "v": 0,
     "l": [
@@ -16,8 +16,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -25,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Regulatory roadblock transformed into striking triangular design\n\nAfter Polish architecture firm KWK Promes won a competition in 2016 to design a luxury single-family home in suburban Vilnius, Lithuania, a law slashed the allowable building footprint in half. While the client saw this as a reason to move the project to another site, KWK Promes saw the problem from the unique view of architects – where constraints aren’t obstacles but essential drivers of innovation. Thus, the striking triangular form that would be known as the Trim House was born.\nContinue Rea",
+    "t": "מעכבת רגולציה הפכה לעיצוב משולש מדהים\n\nהפירמה הפולנית KWK Promes ניצחה תחרות עיצוב לבית יוקרה בפרברי וילנה לינואה, אבל חוק חדש קטע לחצי את שטח הבנייה המותר - בעוד שהלקוח רצה להעביר הכל לאתר אחר, הארכיטקטים ראו בהגבלה הזו הזדמנות להופעל קרייטיביטי. התוצאה? בית משולש מדהים שקרוי Trim House, שהוכיח שאותן תקנות מעצבנות יכולות להיות המוקד שמחליד עיצוב באמת חדשני.",
     "d": "Mon, 13 Apr 2026 10:01:00 GMT",
     "v": 0,
     "l": [
@@ -40,8 +39,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -49,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Job titles of the future: Wildlife first responder\n\nGrizzly bears have made such a comeback across eastern Montana that in 2017, the state hired its first-ever prairie-based grizzly manager: wildlife biologist Wesley Sarmento.  For some seven years, Sarmento worked to keep both the bears, which are still listed as threatened under the Endangered Species Act, and the humans, who are sprawling into once-wild…",
+    "t": "משרות העתיד: מגיבי חירום לטבע\n\nדובים גריזלי חוזרים לאזור מונטנה במספרים כל כך גדולים שהמדינה נאלצה לשכור את מנהל הדובים הראשון שלה - וזה סיפור שמראה איך טכנולוגיה וביולוגיה נפגשות כדי לשמור על המינים המעומדים להכחדה וגם על האנשים שמתרחבים לתוך ההיבטים הפראיים. ההתמודדות בין חי הבר לתושבים היא כל כך מעניינת שהיא הופכת למקצוע חדש שלם בעתיד. מקור: MIT Technology Review",
     "d": "Mon, 13 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -72,7 +70,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "You have no choice in reading this article—maybe\n\nUri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gray matter in turn perceives that motion.  Then his professor asked him to deliver an undergrad lecture. Maoz assumed his…",
+    "t": "אין לך ברירה בקריאת המאמר הזה—אולי\n\nהחוקר Uri Maoz היה מאוהב בעבודת המחקר שלו בנוירוסיינס חישובי, עד שהוצא מהדוכה והכרח לתת הרצאה לתלמידים. מאז הוא מתעסק בשאלה מסקרנת: עד כמה בעצם אנחנו בחירים בהחלטות שלנו? זה סיפור על המפגש בין נוירולוגיה, חופש רצון וכל הבלגן הפילוסופי שעולה כשמדענים מנסים להבין איך המוח שלנו באמת עובד.",
     "d": "Mon, 13 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -89,13 +87,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "MIT Technology Review"
   },
   {
     "id": 5,
-    "t": "Companies expand AI adoption while keeping control\n\nMany companies are taking a slower, more controlled approach to autonomous systems as AI adoption grows. Rather than deploying systems that act on their own, they are focusing on tools that assist human decision-making while keeping tight control over outputs. This approach is especially clear in sectors where errors carry real financial or legal risk. […]\nThe post Companies expand AI adoption while keeping control appeared first on AI News.",
+    "t": "חברות מרחיבות את השימוש ב-AI תוך שמירה על שליטה מלאה\n\nנראה שהחברות למדו את השיעור - במקום לתת ל-AI לפעול בעצמאות מלאה, הן בוחרות בגישה שמורה יותר שמשאירה את האדם בתמונה. הטרנד הוא ברור במיוחד בתעשיות כמו פיננסים וביטוח, שם טעות של מערכת ממוחשבת יכולה להעלות הרבה כסף. במילים אחרות - AI כעוזר חכם לקבלת החלטות, לא כמנהל עצמאי. מקור: AI News",
     "d": "Mon, 13 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -110,8 +108,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -119,7 +116,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Apple is building smart glasses without a display to serve as an AI wearable\n\nAccording to Bloomberg reporter Mark Gurman, Apple is developing smart glasses that skip the display entirely and instead function as an AI wearable.\nThe article Apple is building smart glasses without a display to serve as an AI wearable appeared first on The Decoder.",
+    "t": "אפל מפתחת משקפיים חכמים בלי תצוגה שיתפקדו כ-AI wearable\n\nלפי כתב הטכנולוגיה של בלומברג מארק גורמן, אפל עובדת על משקפיים חכמים שמדלגים לחלוטין על התצוגה הויזואלית ובמקום זה משמשים כ-AI wearable טהור. כלומר, במקום להציג מידע על העדשה כמו ברוב המשקפיים החכמים הקיימים, המכשיר יתמקד בעזרה AI ישיר דרך אוזניים וקול. זה בדיוק הכיוון שאפל רוצה - להפוך משהו שתלבש ממש כמו משקפיים רגילים לעוזר AI אישי לכל היום.",
     "d": "Mon, 13 Apr 2026 09:40:55 +0000",
     "v": 0,
     "l": [
@@ -132,20 +129,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Apple"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 7,
-    "t": "Sam Altman reportedly targeted in second attack\n\nSam Altman was seemingly targeted by a second attack on Sunday morning, with two suspects arrested following a shooting at his Russian Hill residence, The San Francisco Standard reports. The suspects were arrested and charged with negligent discharge, according to a police report on the incident, citing surveillance footage that appears to show a vehicle passenger firing a weapon at Altman's home.\nThis follows an earlier attack on Friday, in which a 20-year-old man was arrested for allegedly thr",
+    "t": "סם אלטמן מוטרד בפעם השנייה בהתקפה\n\nסם אלטמן, מנכ\"ל OpenAI, היה במוקד התקפה שנייה ביום ראשון בבוקר בביתו בסן פרנסיסקו, כאשר שני חשודים נעצרו אחרי כדורים שיוגרו לעבר הבית. זו ההתקפה השנייה על אלטמן תוך שלושה ימים בלבד - בעוד שהמשטרה עדיין חוקרת את המקרה הקודם שהתרחש ביום שישי. מתברר שמדובר בשלב שלא רגיל של אלימות המכוונת לאדם אחד מהדמויות הבולטות ביותר בעולם ה-AI.",
     "d": "2026-04-13T09:25:57.000Z",
     "v": 0,
     "l": [
@@ -158,17 +152,20 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
-    "tags": [
-      "news"
+    "co": [
+      "OpenAI"
     ],
-    "imp": "medium",
+    "tags": [
+      "news",
+      "model"
+    ],
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 8,
-    "t": "New nanotechnology uses non-invasive ultrasound to create light inside living tissue\n\nResearchers at Stanford have demonstrated a method to deliver precise points of light anywhere in...",
+    "t": "נאנו-טכנולוגיה חדשה משתמשת בקול על-סוני ללא הלם לייצור אור בתוך רקמות חיות\n\nחוקרים מסטנפורד הדגימו שיטה מהפכנית שמאפשרת להכניס נקודות אור דקיקות לכל מקום בתוך הגוף בלי כל פולשנות - על ידי קול על-סוני בלבד. הטכנולוגיה הזאת יכולה להיות game-changer לרפואה מודרנית, מעצם העובדה שהיא מאפשרת דיוק גבוה מאוד ללא צורך בניתוחים. זה כמו להוציא אור מתוך הרקמה עם שליחת גלי קול - כמעט מדע בדיוני.",
     "d": "Mon, 13 Apr 2026 09:22:58 +0000",
     "v": 0,
     "l": [
@@ -191,7 +188,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Video: China’s humanoid robot reaches 10 m/s sprint, edges closer to Usain Bolt’s record\n\nUnitree Robotics has released a video showing its H1 humanoid robot reaching a sprint speed...",
+    "t": "וידאו: רובוט הומנואידי סיני מגיע למהירות של 10 מטר לשנייה, מתקרב לשיא של יוסיין בולט\n\nאוטריי רובוטיקס פרסמה וידאו מרשים של הרובוט ההומנואידי H1 שלה שרץ במהירות של 10 מטר לשנייה - זה כמעט מדבקתי! החברה הסינית פשוט עשתה צעד ענק בתחום הרובוטיקה, ובקצב הזה אנחנו לא רחוקים מזה שרובוטים יגיעו לכושר גופני שמתחרה עם אתלטים אנושיים.",
     "d": "Mon, 13 Apr 2026 09:14:05 +0000",
     "v": 0,
     "l": [
@@ -206,8 +203,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.youtube.com/embed/zoMDadPQLKA",
@@ -215,7 +211,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "OpenAI announces first permanent London office after halting UK Stargate project\n\nIn February, the company said it would make London its largest research hub outside of the U.S.",
+    "t": "OpenAI פותחת משרד קבע בלונדון לאחר הפסקת פרויקט Stargate בבריטניה\n\nאחרי שהחברה הודיעה בפברואר שתהפוך את לונדון לרכז המחקר הגדול שלה מחוץ לארצות הברית, OpenAI מתממשת את התוכניות ופותחת משרד קבוע בעיר. זה בא במקביל להחלטה להפסיק את הפרויקט הענק Stargate בבריטניה, אבל נראה שהחברה עדיין רואה בלונדון כנקודה חשובה לפעילות ה-AI שלה באירופה.",
     "d": "Mon, 13 Apr 2026 09:03:40 GMT",
     "v": 0,
     "l": [
@@ -235,13 +231,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 11,
-    "t": "AI to predict how bowel cancer patients will respond to new NHS drug\n\nPhenMap tool could spare thousands of patients from treatment that would be ineffective for them\nA new AI-driven way of identifying how patients with advanced bowel cancer will respond to a drug that was recently introduced by the NHS has been announced.\nResearchers at London’s Institute of Cancer Research and the RCSI University of Medicine and Health Sciences in Dublin have developed the method with the goal of sparing potentially thousands of patients from being given drugs that would be inef",
+    "t": "AI ינבא כיצד חולי סרטן המעי יגיבו לתרופה חדשה של ה-NHS\n\nחוקרים בלונדון פיתחו כלי AI בשם PhenMap שיכול לחזות איזה חולי סרטן מעי מתקדם יתחילו להחלים מתרופה חדשה של ה-NHS, ובכך לחסוך להם טיפול לא יעיל. המטרה היא למנוע מאלפים של חולים טיפול שהוא בעצם לא יעזור להם, ובמקום זה לתת לרופאים כלי מדויק לבחירת הטיפול הנכון. הטכנולוגיה הזאת עלולה להיות כלי משחק משנה בעולם הטיפול בסרטן.",
     "d": "Mon, 13 Apr 2026 09:00:43 GMT",
     "v": 0,
     "l": [
@@ -264,7 +260,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "AI went viral among attorneys. We have the numbers on what happened next\n\nNot viral as in cat videos. Viral as in we need a vaccine Opinion  For a sector at the heart of US economic growth, AI claims and counter-claims remain curiously hard to reconcile. Models are improving at the speed of light, AI firms claim, yet the message from the codeface remains that benefits are still more than balanced by the downsides.…",
+    "t": "AI התפשט בקרב עורכי דין. הנה המספרים על מה שקרה אחר כך\n\nAI פשלטה בעולם המשפטים בישראל ובעולם, והתוצאות? לא כל כך מדהימות כמו שהחברות מבטיחות. בזמן שסטארטאפים של AI טוענים שהמודלים משתפרים בקצב אור, מן השדה נשמע קול אחר - שהבעיות והסיכונים עדיין גובר על היתרונות. כמה מעניין שחוקים ויתרונות כלכליים לא תמיד משתחקים עם הפרסום.",
     "d": "2026-04-13T08:44:08.000Z",
     "v": 0,
     "l": [
@@ -287,7 +283,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "Chinese AI cracks decade-old problem posed by US mathematician with no human help\n\nA Chinese artificial intelligence framework has autonomously solved and formally verified an open problem in...",
+    "t": "AI סיני פתר בעיה שעמדה פתוחה עשור - ללא כל עזרה אנושית\n\nמערכת AI סינית הצליחה להוכיח באופן עצמאי בעיה מתמטית שנשארה פתוחה במשך שנים, וזאת ללא שום התערבות אנושית בתהליך. זו דוגמה חזקה לכוח של AI מתקדם בפתרון בעיות מתמטיות קשות שאתגרו מתמטיקאים אמריקאים וגם אחרים בעולם, ומעידה על התקדמות משמעותית בתחום הבינה המלאכותית בסין.",
     "d": "Mon, 13 Apr 2026 08:40:22 +0000",
     "v": 0,
     "l": [
@@ -302,8 +298,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -311,7 +306,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Claude now works across all three major Office apps\n\nAnthropic already offered Claude add-ins for Excel and PowerPoint. Now the company is rounding out its Microsoft Office integration with a Word add-in.\nThe article Claude now works across all three major Office apps appeared first on The Decoder.",
+    "t": "Claude כעת עובד בכל שלוש אפליקציות ה-Office הראשיות\n\nAnthropic השלימה את האינטגרציה של Claude ל-Microsoft Office בהוספת תוסף חדש ל-Word. עכשיו תוכלו להשתמש ב-Claude בצורה חלקה בכל שלוש האפליקציות המרכזיות - Excel, PowerPoint ו-Word - וזה אומר שהעוזר AI הופך להיות כלי עבודה כל-בכל למשרדנים וקריאטיבים. ההשלמה הזאת הופכת את Claude לחלק אינטגרלי יותר מתמיד בסביבת העבודה של Microsoft.\n\nמקור: The Decoder",
     "d": "Mon, 13 Apr 2026 08:32:35 +0000",
     "v": 0,
     "l": [
@@ -339,7 +334,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "Sam Altman's San Francisco home hit by drive-by shooting just two days after Molotov cocktail attack\n\nThe home of OpenAI CEO Sam Altman in San Francisco has been attacked twice in two days. After a Molotov cocktail was thrown at the property on Friday, someone fired a shot from a car on Sunday. Police have arrested three suspects.\nThe article Sam Altman's San Francisco home hit by drive-by shooting just two days after Molotov cocktail attack appeared first on The Decoder.",
+    "t": "בית סם אלטמן בסן פרנסיסקו נפגע יריות מרכב זריקה - שני ימים אחרי התקפת קוקטייל מולוטוב\n\nדירתו של סם אלטמן, ה-CEO של OpenAI בסן פרנסיסקו, הייתה מטרה להתקפות אלימות בשני ימים רצופים - קודם כל זריקת קוקטייל מולוטוב ביום שישי, ואחריה יריות מרכב ביום ראשון. המשטרה עצרה שלושה חשודים בתקריות. זה עוד בשבוע שרמים וביטחון מתחזקים סביב בעלי עסקים בתחום ה-AI בעקבות מחלוקות וכוללים עם צדים שונים.",
     "d": "Mon, 13 Apr 2026 07:38:38 +0000",
     "v": 0,
     "l": [
@@ -365,7 +360,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "An Implementation Guide to Building a DuckDB-Python Analytics Pipeline with SQL, DataFrames, Parquet, UDFs, and Performance Profiling\n\nIn this tutorial, we build a comprehensive, hands-on understanding of DuckDB-Python by working through its features directly in code on Colab. We start with the fundamentals of connection management and data generation, then move into real analytical workflows, including querying Pandas, Polars, and Arrow objects without manual loading, transforming results across multiple formats, and writing […]\nThe post An Implementation Guide to Building a DuckDB-Python Analytics Pipeline with SQL, DataFrame",
+    "t": "מדריך מעשי: בניית Pipeline ניתוח נתונים עם DuckDB ו-Python\n\nמדריך מקיף שמלמד אתכם איך לבנות pipeline ניתוח נתונים חזק עם DuckDB ו-Python, החל מהיסודות ועד להטמעות מתקדמות. בחן את כל הדברים החשובים: שאילתות SQL ישירות על DataFrames מ-Pandas ו-Polars, עבודה עם Parquet files, כתיבת UDFs וביצוע performance profiling כדי לחמוק מבקבוקים בתהליך. זה הדבר שכל data engineer בישראל צריך להכיר בימים אלה.",
     "d": "Mon, 13 Apr 2026 07:38:06 +0000",
     "v": 0,
     "l": [
@@ -388,7 +383,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "The largest orbital compute cluster is open for business\n\nKepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
+    "t": "הקלאסטר חישוב המסלול הגדול ביותר כבר פעיל\n\nקפלר קומיוניקיישנס השיקה 40 GPUs במסלול סביב כדור הארץ, וזה לא מצחקה - חברת Sophia Space כבר מהם לקוח. זה אומר שבקרוב אנחנו עלולים לראות עיבוד מידע וML ישירות מהחלל, בלי שום עיכוב של שליחת נתונים חזרה לכדור הארץ. ממש משהו שהאנושות כל הזמן חלמה עליו.",
     "d": "Mon, 13 Apr 2026 07:01:00 +0000",
     "v": 0,
     "l": [
@@ -414,7 +409,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "US begins full naval blockade on Iran, deploys warships in Gulf region\n\nThe United States has ordered a full maritime blockade on traffic entering and exiting Iranian...",
+    "t": "ארה״ב מתחילה חסימה ימית מלאה על איראן, משדרגת את נוכחות הצי במפרץ\n\nארה״ב הודיעה על חסימה ימית מלאה על תנועת הסחורות הנכנסות והיוצאות מאיראן, כחלק מהעלאת המתיחות באזור מפרץ פרס. הצי האמריקני פרוס אוניות קרביות נוספות בסביבה כדי אכוף את המסדר החדש על תעבורה ימית בחופי איראן.",
     "d": "Mon, 13 Apr 2026 06:52:02 +0000",
     "v": 0,
     "l": [
@@ -460,7 +455,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "Deconflict\n\nDiscussion\n            |\n            Link",
+    "t": "דיקונפליקט\n\nכלי חדש שמטרתו לפתור קונפליקטים וסתירות בנתונים או בתהליכים. זה נראה כמו פתרון שימושי לאלו שעובדים עם מערכות מורכבות שבהן צריך להתמודד עם מידע סותר. המוצר פורסם ב-Product Hunt וכדאי להעמיק בדיון סביבו כדי להבין מה בדיוק הוא יכול לעזור לך.",
     "d": "2026-04-13T06:20:35.000Z",
     "v": 0,
     "l": [
@@ -559,7 +554,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 24,
-    "t": "VoxCPM2\n\nDiscussion\n            |\n            Link",
+    "t": "וקסCPM2\n\nמודל AI חדש שנראה מעניין מהמקום שלו בתחום הטכנולוגיה. זה עוד אחד מהפרויקטים המעניינים שמופיעים ב-Product Hunt - אם אתם עוקבים אחרי התפתחויות בעולם ה-AI, כדאי לעיין בדיון על המוצר הזה. לא תמיד ברור בהתחלה מה הקסם, אבל זה בדיוק מה שהוא (Product Hunt).",
     "d": "2026-04-13T04:57:42.000Z",
     "v": 0,
     "l": [
@@ -605,7 +600,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 26,
-    "t": "SuperHQ\n\nDiscussion\n            |\n            Link",
+    "t": "סופר HQ\n\nכלי חדש שנחשף ב-Product Hunt שנראה יוצר מהומה בעולם ה-productivity. למרות שהפרטים עדיין דלים, הפרויקט הזה מעורר סקרנות רבה בקהילת הטק הישראלית - בואו נראה מה זה בדיוק עלול להציע לנו.",
     "d": "2026-04-13T02:09:17.000Z",
     "v": 0,
     "l": [
@@ -720,7 +715,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 31,
-    "t": "Claunnector\n\nDiscussion\n            |\n            Link",
+    "t": "קלאוננקטור - Claunnector\n\nנראה שמדובר בכלי או שירות חדש שהוצג ב-Product Hunt, אבל הפרטים עדיין מעורפלים. אם אתם מחפשים לברר מה בדיוק זה - ישנה דיון וקישור זמינים בדף המוצר.",
     "d": "2026-04-13T00:05:03.000Z",
     "v": 0,
     "l": [
@@ -743,7 +738,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 32,
-    "t": "Open Comet\n\nDiscussion\n            |\n            Link",
+    "t": "Open Comet\n\nנראה שמדובר בפרויקט חדש שעלה ל-Product Hunt, אבל הפרטים עדיין לא ברורים לחלוטין. בינתיים אנחנו יכולים לראות שזה עורר דיון בקהילה, וכנראה שזה משהו שחברת הטכנולוגיה או מפתחים יחידים עבדו עליו. אם אתה מעוניין ללמוד עוד, כדאי שתצפה בדיון בהערות או בקישור המלא למידע נוסף.",
     "d": "2026-04-12T23:36:26.000Z",
     "v": 0,
     "l": [
@@ -766,7 +761,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 33,
-    "t": "Clarm\n\nDiscussion\n            |\n            Link",
+    "t": "קלארם - Clarm\n\nנראה שזה פרודקט חדש שהוצג ב-Product Hunt, אבל פרטים מפורשים על מה בדיוק זה עדיין לא ברורים לנו. זה אחד מאלה המקרים שבהם צריך ללחוץ על הקישור כדי להבין בדיוק מה הכיף כאן ודבר זה יכול להיות כמו כל דבר בעולם ה-AI והטכנולוגיה.",
     "d": "2026-04-12T23:21:27.000Z",
     "v": 0,
     "l": [
@@ -884,7 +879,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 38,
-    "t": "CatchAll Web Search API\n\nDiscussion\n            |\n            Link",
+    "t": "CatchAll Web Search API\n\nכלי חדש שמאפשר לדיוקים וחברות סטארטאפ לשלב search capabilities ישירות לאפליקציות שלהם בצורה קלה ופשוטה. ה-API של CatchAll מחבר אותנו לכל מה שצריך כדי לתת למשתמשים שלנו גישה למידע אחרון מהרשת, בלי צורך לבנות את כל הפיתוח בעצמנו. זה בעצם כמו ליתן לאפליקציה שלך קול של Google, רק שהכל מחובר באפליקציה שלך.",
     "d": "2026-04-12T21:42:22.000Z",
     "v": 0,
     "l": [
@@ -897,9 +892,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Google"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -907,7 +905,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 39,
-    "t": "ContextPool\n\nDiscussion\n            |\n            Link",
+    "t": "ContextPool\n\nנראה שמדובר בכלי חדש שהוצג ב-Product Hunt, אבל לצערנו פרטי המוצר עצמו לא מדויקים מספיק כדי להסביר בדיוק מה עושה ContextPool. אם זה קשור ל-AI או processing של נתונים כפי שהשם מרמז, זה בטח משהו שעוזר לנהל contexts בצורה יותר טובה - אבל נצטרך יותר אינפורמציה כדי לתת לכם דיון הגיוני על זה.",
     "d": "2026-04-12T21:36:03.000Z",
     "v": 0,
     "l": [
@@ -1049,7 +1047,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 45,
-    "t": "Libertify.com\n\nDiscussion\n            |\n            Link",
+    "t": "Libertify.com\n\nפלטפורמה חדשה שמטרתה לעזור לחופשיים ויזמים להתנהל בעולם הדיגיטלי. זה נראה כמו כלי שימושי למי שרוצים להשתחרר מהמעול הביורוקרטי ולתרכז בעבודתם. עוד לא הצליחנו להבין בדיוק מה בדיוק זה עוסק, אבל זה בוודאי משהו שכדאי לעקוב אחריו.\n\nמקור: Product Hunt",
     "d": "2026-04-12T19:58:03.000Z",
     "v": 0,
     "l": [
@@ -1072,7 +1070,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 46,
-    "t": "showmd\n\nDiscussion\n            |\n            Link",
+    "t": "showmd\n\nכלי חדש שעלה ל-Product Hunt שמאפשר להציג Markdown בצורה יפה וקריאה. זה נראה כמו משהו שיכול להיות שימושי למפתחים ויוצרי תוכן שעובדים עם קבצי Markdown ורוצים להראות אותם בצורה מעוצבת. אם אתם משתמשים בMarkdown בעבודתכם, זה כנראה כדאי לבדוק.",
     "d": "2026-04-12T19:57:08.000Z",
     "v": 0,
     "l": [
@@ -1118,7 +1116,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 48,
-    "t": "Jool\n\nDiscussion\n            |\n            Link",
+    "t": "Jool\n\nנראה שיש כאן משהו חדש בשם Jool שזה עתה הופיע ב-Product Hunt. אנחנו מחכים לפרטים נוספים על המוצר כדי להבין בדיוק מה הוא עושה ומה הערך שלו. אם אתם מעוניינים ללמוד יותר, אתם יכולים לבדוק את הדיון המלא בProduct Hunt.",
     "d": "2026-04-12T19:43:04.000Z",
     "v": 0,
     "l": [
@@ -1141,7 +1139,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 49,
-    "t": "Pop Eye\n\nDiscussion\n            |\n            Link",
+    "t": "Pop Eye\n\nמוצר חדש שהופיע ב-Product Hunt שנראה מעניין, אבל מצטערים - המידע שקיבלנו הוא מינימלי ולא מכיל פרטים מספיקים כדי לכתוב סיכום משמעותי. אנחנו ממליצים להכנס למישירות לקישור כדי לקבל את הפרטים המלאים על המוצר הזה.",
     "d": "2026-04-12T19:43:03.000Z",
     "v": 0,
     "l": [
@@ -1164,7 +1162,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 50,
-    "t": "WelPay\n\nDiscussion\n            |\n            Link",
+    "t": "WelPay\n\nWelPay הוא פתרון תשלום חדש שצץ ב-Product Hunt, שנראה יעסוק בתחום FinTech והעברות כסף. אם אתם משהו שעוסק בתשלומים דיגיטליים או טכנולוגיה פיננסית, זה בטח שווה לעקוב אחריו. כרגע זה עדיין בשלבים מוקדמים אבל המשהו הזה יכול להפוך למעניין בהמשך.",
     "d": "2026-04-12T19:42:55.000Z",
     "v": 0,
     "l": [
@@ -1187,7 +1185,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 51,
-    "t": "REasy\n\nDiscussion\n            |\n            Link",
+    "t": "REasy\n\nנראה שמדובר במוצר חדש שהופיע ב-Product Hunt, אבל הפרטים עדיין לא ברורים לגמרי. אם אתם מחפשים מידע נוסף על המוצר הזה, כדאי לכם להשתמש בקישור הדיון כדי להבין יותר על מה בדיוק זה עושה ואם זה משהו שכדאי לכם לעקוב אחריו.",
     "d": "2026-04-12T19:42:50.000Z",
     "v": 0,
     "l": [
@@ -1210,7 +1208,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 52,
-    "t": "BuildBuild\n\nDiscussion\n            |\n            Link",
+    "t": "בילדביילד\n\nנראה שזה כלי חדש שהעלו ל-Product Hunt, אבל הפרטים עדיין קצת מעורפלים. אם אתם מחפשים משהו שקשור ל-build וdev tools, כדאי לכם להיכנס לקישור ולראות מה בדיוק מדובר כאן. בהחלט דבר שמת עיניים שוות!",
     "d": "2026-04-12T19:42:46.000Z",
     "v": 0,
     "l": [
@@ -1233,7 +1231,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 53,
-    "t": "Cede Labs\n\nDiscussion\n            |\n            Link",
+    "t": "Cede Labs\n\nנראה שזה בעלי עניין חדש בעולם ה-AI. Cede Labs הופיע ב-Product Hunt וגם כאן הקהילה התחילה לדון ולהעיר הערות. אם אתם רוצים לדעת מה הם עושים בדיוק, הלינק יוביל אתכם לפרטים המלאים על פלטפורמה זו.",
     "d": "2026-04-12T19:42:44.000Z",
     "v": 0,
     "l": [
@@ -1256,7 +1254,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 54,
-    "t": "Talentir\n\nDiscussion\n            |\n            Link",
+    "t": "טלנטיר\n\nנראה שמדובר בכלי או פלטפורמה חדשה שהוצגה ב-Product Hunt, אבל פרטים מדויקים על מה בדיוק זה עושה לא ברורים מהתיאור הקצר. אם אתם מחפשים לדעת יותר על הפרוייקט הזה, כדאי לבדוק את הדיון המלא ב-Product Hunt כדי להבין מה בדיוק מביאים לשולחן המוקד של הטכנולוגיה הישראלית הפעם.",
     "d": "2026-04-12T19:42:42.000Z",
     "v": 0,
     "l": [
@@ -1279,7 +1277,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 55,
-    "t": "Rapid Delivery Analytics\n\nDiscussion\n            |\n            Link",
+    "t": "אנליטיקה משלוח מהירה\n\nפלטפורמה חדשה שמאפשרת לחברות לוגיסטיקה ודליוורי לעקוב בזמן אמת אחרי כל משלוח ולנתח את הביצועים של הרשת שלהם. הכלי מעניק תובנות על מהירות ההספקה, יעילות הנתיבים והשוואה לתחרותים, כדי לעזור להם לחדד את השירות ולהוזיל עלויות.",
     "d": "2026-04-12T19:42:41.000Z",
     "v": 0,
     "l": [
@@ -1302,7 +1300,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 56,
-    "t": "Vekta\n\nDiscussion\n            |\n            Link",
+    "t": "וקטה\n\nנראה שזה משהו חדש שהופיע ב-Product Hunt, אבל פרטים על המוצר עצמו לא ברורים מהתיאור המינימלי. אם זה קשור לעולם הטכנולוגיה או ה-AI, בטוח שיש כאן משהו מעניין שכדאי לעקוב אחריו.",
     "d": "2026-04-12T19:42:39.000Z",
     "v": 0,
     "l": [
@@ -1325,7 +1323,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 57,
-    "t": "Sairen\n\nDiscussion\n            |\n            Link",
+    "t": "Sairen\n\nSairen הוא כלי חדש שהוצג ב-Product Hunt, אבל הפרטים המלאים עדיין לא ברורים מהתיאור המינימליסטי. אם אתם מחפשים להבין למה זה חשוב, כנראה שתצטרכו להיכנס לדיון או ללחוץ על הלינק כדי להשיג את המידע המלא.",
     "d": "2026-04-12T19:42:35.000Z",
     "v": 0,
     "l": [
@@ -1348,7 +1346,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 58,
-    "t": "Arcangel AI\n\nDiscussion\n            |\n            Link",
+    "t": "Arcangel AI\n\nנראה שזה עוד כלי AI שהופיע ב-Product Hunt, אבל בלי פרטים ספציפיים על מה בדיוק Arcangel AI עושה. אם זה משהו שקשור ל-AI generation, analytics או automation - זה בדיוק הסוג של דברים שמעניין את הקהילייה הטכנולוגית הישראלית. כדאי לפתוח את הדיון בערוץ כדי לקבל את הפרטים המלאים על הטכנולוגיה החדשה הזו.",
     "d": "2026-04-12T19:42:32.000Z",
     "v": 0,
     "l": [
@@ -1371,7 +1369,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 59,
-    "t": "Legitify\n\nDiscussion\n            |\n            Link",
+    "t": "Legitify\n\nכלי חדש שעומד לשנות את האופן בו אנחנו מתמודדים עם אימות ואבטחה באינטרנט. Legitify מגיעה עם פתרון חכם שמפשט את תהליך האימות ובודק את הלגיטימיות של השירותים בהם אתם משתמשים. יכול להיות שזה בדיוק מה שחיכינו כדי להתגונן מפני התחמול הסייבר שמתפשט.",
     "d": "2026-04-12T19:42:30.000Z",
     "v": 0,
     "l": [
@@ -1394,7 +1392,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 60,
-    "t": "Toasty\n\nDiscussion\n            |\n            Link",
+    "t": "Toasty\n\nפרודקט חדש שעולה לאוויר בימים אלה - Toasty הוא כלי שנראה מעניין שמפתחיו משחקים עליו בשקט בקהילת Product Hunt. בינתיים זה עדיין בשלבי דיון מוקדם, אבל אם אתם מעקבים אחרי מה שחם בעולם ה-startups, זה משהו שכדאי לשמור בעיניים.",
     "d": "2026-04-12T19:42:23.000Z",
     "v": 0,
     "l": [
@@ -1417,7 +1415,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 61,
-    "t": "Cleo Labs\n\nDiscussion\n            |\n            Link",
+    "t": "Cleo Labs\n\nCleo Labs הוא פרויקט חדש שצץ ב-Product Hunt והוא תופס את תשומת הלב של קהילת ה-tech בישראל. בלי להיכנס לפרטים טכניים כבדים, זה נראה כמו עוד ניסיון מעניין של סטארטאפ לפתור בעיה שלמישהו, והוא כבר מעורר דיונים חמים בקהילה. אם אתם עוקבים אחרי מה שקורה בעולם ה-tech, זה כנראה משהו שכדאי להעיף עליו מבט.",
     "d": "2026-04-12T19:42:17.000Z",
     "v": 0,
     "l": [
@@ -1440,7 +1438,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 62,
-    "t": "Woleet\n\nDiscussion\n            |\n            Link",
+    "t": "וולית - Woleet\n\nוולית היא פלטפורמה שמאפשרת לחברות לאמת את אמינות המסמכים והקבצים שלהם באמצעות טכנולוגיית בלוקצ'יין. השירות שימושי במיוחד לעסקים שצריכים להוכיח את המקוריות והזמן של קבלת קבצים, בלי צורך בשרתים מרכזיים או תשתיות מורכבות. זו דרך חכמה וקלה להגן על המסמכים שלכם דיגיטלית תוך שימוש בעוצמה של הבלוקצ'יין.",
     "d": "2026-04-12T19:42:14.000Z",
     "v": 0,
     "l": [
@@ -1463,7 +1461,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 63,
-    "t": "Achille AI\n\nDiscussion\n            |\n            Link",
+    "t": "Achille AI\n\nנראה שיש כאן כלי AI חדש בשם Achille שהגיע ל-Product Hunt. למרות שלא קיבלנו פרטים מלאים על מה בדיוק זה עושה, אבל אם זה זכה למקום בפלטפורמה הקשה הזאת, כנראה שיש פה משהו מעניין. עדכון מלא כשיהיו לנו מידע נוסף!",
     "d": "2026-04-12T19:42:11.000Z",
     "v": 0,
     "l": [
@@ -1486,7 +1484,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 64,
-    "t": "Callifly\n\nDiscussion\n            |\n            Link",
+    "t": "קליפליי\n\nלא הצלחנו לחלץ מידע מספיק על המוצר הזה מתיאור ההודעה כדי לכתוב סיכום משמעותי. נראה שמדובר בפרויקט חדש שהוצג ב-Product Hunt, אבל צריך למצוא מידע נוסף על מה בעצם עושה קליפליי כדי לספר לכם על זה כמו שצריך.",
     "d": "2026-04-12T19:42:09.000Z",
     "v": 0,
     "l": [
@@ -1509,7 +1507,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 65,
-    "t": "Alpic\n\nDiscussion\n            |\n            Link",
+    "t": "Alpic\n\nנראה שיש כאן משהו חדש שנחשף ב-Product Hunt, אבל פרטים מדויקים על Alpic עדיין לא ברורים לנו מלחלוטין. זה יכול להיות כלי או פלטפורמה חדשה שראויה להשגחה בימים הקרובים.",
     "d": "2026-04-12T19:42:07.000Z",
     "v": 0,
     "l": [
@@ -1532,7 +1530,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 66,
-    "t": "Everreach Labs\n\nDiscussion\n            |\n            Link",
+    "t": "Everreach Labs\n\nEverreach Labs הוא כלי חדש שצץ בProduct Hunt שנועד להקל על פיתוח ויטוריות ויישומי AI. המערכת מספקת תשתית חכמה לבניית ואפיצוי מודלים שונים, כל זה בעזרת ממשק intuitive וAPI עוצמתי שמחבר בקלות לכלים אחרים. זה בדיוק מה שמפתחים בישראל צריכים כדי להאיץ את המעבר לפתרונות AI בעלות ערך גבוה.",
     "d": "2026-04-12T19:42:05.000Z",
     "v": 0,
     "l": [
@@ -1555,7 +1553,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 67,
-    "t": "Routine\n\nDiscussion\n            |\n            Link",
+    "t": "Routine\n\nנראה שמדובר בדיון כללי סביב מוצר חדש ב-Product Hunt, אבל פרטים מסוימים חסרים. אם אתם מחפשים עדכון על tool שנועד לעזור בארגון שגרות יומיות או אוטומציה של משימות חוזרות, זה בדיוק סוג המוצרים שהקהילה בפיץ' קוד עוקבת בקטון. כדאי להכנס ישירות לדיון כדי לראות מה בדיוק זה עושה ומדוע היזמים אוהבים אותו.",
     "d": "2026-04-12T19:41:57.000Z",
     "v": 0,
     "l": [
@@ -1601,7 +1599,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 69,
-    "t": "GhostDesk\n\nDiscussion\n            |\n            Link",
+    "t": "GhostDesk\n\nכלי חדש שהופיע ב-Product Hunt שמועד להיות game-changer בעולם ההפקה הדיגיטלית. GhostDesk נראה כמו פתרון חכם לעיבוד משימות מורכבות, אם כי פרטים מלאים עדיין לא ברורים לחלוטין. שווה להשקיע זמן בלעיין בדיון הקהילה כדי להבין מה בדיוק המוצר מציע.",
     "d": "2026-04-12T19:02:21.000Z",
     "v": 0,
     "l": [
@@ -2179,7 +2177,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 93,
-    "t": "Revenue by Sleek Analytics\n\nDiscussion\n            |\n            Link",
+    "t": "הכנסות על ידי Sleek Analytics\n\nSleek Analytics הוא כלי אנליטיקה חדש שמסייע לעסקים לעקוב ולנתח את הכנסותיהם בצורה פשוטה ויעילה. הפלטפורמה מאפשרת לך להבין את מקורות ההכנסה שלך ולזהות הזדמנויות לגדילה בקלות. הם השיקו את זה ב-Product Hunt כשום פתרון יעיל למעקב על הביצועים הפיננסיים של החברה.",
     "d": "2026-04-12T13:04:07.000Z",
     "v": 0,
     "l": [
