@@ -1,9 +1,9 @@
 {
-  "total": 3557,
-  "translated": 3557,
+  "total": 3561,
+  "translated": 3561,
   "untranslated": 0,
-  "today": 5,
-  "week": 3376,
+  "today": 9,
+  "week": 3380,
   "sources": [
     {
       "name": "Pypi.org",
@@ -43,8 +43,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 100,
-      "translated": 100,
+      "total": 101,
+      "translated": 101,
       "lastDate": "Wed, 08 Apr 2026 23:03:00 GMT"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 81,
-      "translated": 81,
+      "total": 83,
+      "translated": 83,
       "lastDate": "Wed, 08 Apr 2026 23:24:03 +0000"
     },
     {
@@ -114,6 +114,12 @@
       "lastDate": "Wed, 08 Apr 2026 22:13:18 GMT"
     },
     {
+      "name": "MarkTechPost",
+      "total": 35,
+      "translated": 35,
+      "lastDate": "Wed, 08 Apr 2026 22:43:24 +0000"
+    },
+    {
       "name": "Slashdot.org",
       "total": 35,
       "translated": 35,
@@ -124,12 +130,6 @@
       "total": 34,
       "translated": 34,
       "lastDate": "2026-04-12T12:00:00.000Z"
-    },
-    {
-      "name": "MarkTechPost",
-      "total": 34,
-      "translated": 34,
-      "lastDate": "Wed, 08 Apr 2026 22:43:24 +0000"
     },
     {
       "name": "pymnts.com",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-13T06:12:08.111Z"
+  "generatedAt": "2026-04-13T08:23:14.840Z"
 }
