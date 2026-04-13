@@ -1,9 +1,9 @@
 {
   "total": 3552,
-  "translated": 3550,
-  "untranslated": 2,
-  "today": 83,
-  "week": 3490,
+  "translated": 3552,
+  "untranslated": 0,
+  "today": 0,
+  "week": 3371,
   "sources": [
     {
       "name": "Pypi.org",
@@ -44,7 +44,7 @@
     {
       "name": "New Atlas",
       "total": 99,
-      "translated": 98,
+      "translated": 99,
       "lastDate": "Wed, 08 Apr 2026 23:03:00 GMT"
     },
     {
@@ -80,7 +80,7 @@
     {
       "name": "The Register",
       "total": 74,
-      "translated": 73,
+      "translated": 74,
       "lastDate": "2026-04-12T23:12:27.000Z"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-12T23:59:57.213Z"
+  "generatedAt": "2026-04-13T03:46:11.334Z"
 }

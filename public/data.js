@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Anthropic's mysterious Mythos AI threatens to upend the infosec world\n\nOr it's a bunch of pre-IPO hype. Either way, we're giving it the once-over on this week's episode Kettle  Anthropic dropped a doozy on us this week with the launch of Mythos, an AI model it says is able to find and exploit zero-day vulnerabilities with a shocking level of ability. …",
+    "t": "ה-AI神秘של Anthropic בשם Mythos איום על עולם ה-infosec\n\nAnthropic הפתיעה את כולנו השבוע בהשקת Mythos, מודל AI שטוען שהוא יכול למצוא ולנצל zero-day vulnerabilities ברמה מדהימה של יכולת. השאלה הגדולה היא אם זה באמת מהפכה בתחום הסייבר או פשוט buzz קדם-IPO של חברה שרוצה להרשים - אבל בכל מקרה, זה בהחלט משהו שכדאי להביט בו מקרוב. מקור: The Register",
     "d": "2026-04-12T23:12:27.000Z",
     "v": 0,
     "l": [
@@ -27,7 +27,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Why are some skies bluer than others?\n\nImagine it’s a regular Tuesday morning and you’re in Antarctica. Your eyes meet the sky, and the blue is so vivid it feels electric. The air is so clean you can just about taste it. Now, picture a dust storm over the Himalayas; you squint, trying to catch a hint of that crisp blue, but all you see is a fuzzy white. Why are the skies in some parts of the world bluer than those in other parts?\nContinue Reading\nCategory: Environment, Science\nTags: Pollution, Air pollution, Light, Climate Crisis, Hi",
+    "t": "למה כמה שמיים כחולים יותר מאחרים?\n\nהאם שמתם לב שהשמיים באנטארקטיקה כחולים בצורה כמעט אלקטרית בעוד שמעל ההימלאיה הם נראים מעורפלים ולבנים? התשובה טמונה בנקיון האוויר וכמות המזהמים שעפים סביב. מדע פשוט וקסום שמסביר למה המקום בו אתם גרים משפיע ישירות על צבע השמים שמעליכם.",
     "d": "Sun, 12 Apr 2026 23:02:00 GMT",
     "v": 0,
     "l": [
