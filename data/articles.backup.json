@@ -71554,6 +71554,402 @@
       "priority": "batch",
       "fetchedAt": "2026-04-13T18:41:12.057Z",
       "created_at": "2026-04-13T18:41:12.057Z"
+    },
+    {
+      "id": 3672,
+      "source": "TechCrunch AI",
+      "title_en": "Microsoft is working on yet another OpenClaw-like agent",
+      "description_en": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+      "image_url": null,
+      "pub_date": "Mon, 13 Apr 2026 19:05:19 +0000",
+      "author": "Julie Bort",
+      "categories": [
+        "AI",
+        "Enterprise",
+        "ai agent",
+        "Copilot",
+        "Microsoft",
+        "openclaw"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-13T21:45:13.730Z",
+      "created_at": "2026-04-13T21:45:13.730Z"
+    },
+    {
+      "id": 3673,
+      "source": "TechCrunch AI",
+      "title_en": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+      "description_en": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+      "image_url": null,
+      "pub_date": "Mon, 13 Apr 2026 18:55:37 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "AI",
+        "public sentiment",
+        "sam altman",
+        "stanford ai report"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-13T21:45:13.730Z",
+      "created_at": "2026-04-13T21:45:13.730Z"
+    },
+    {
+      "id": 3674,
+      "source": "Ars Technica",
+      "title_en": "Google shoehorned Rust into Pixel 10 modem to make legacy code safer",
+      "description_en": "Cellular modems are complex black boxes of legacy code, but Google is making them safer with Rust.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gadgets/2026/04/google-shoehorned-rust-into-pixel-10-modem-to-make-legacy-code-safer/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-13-1152x648.jpg",
+      "pub_date": "Mon, 13 Apr 2026 21:12:51 +0000",
+      "author": "\n                    Ryan Whitwam\n                ",
+      "categories": [
+        "Google",
+        "Tech",
+        "google",
+        "pixel 10"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-13T21:45:13.781Z",
+      "created_at": "2026-04-13T21:45:13.781Z"
+    },
+    {
+      "id": 3675,
+      "source": "Ars Technica",
+      "title_en": "NZXT agrees to let customers keep their rental PCs in class-action settlement",
+      "description_en": "NZXT will forgive up to $5,000 in debt for customers of the Flex program.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gadgets/2026/04/nzxt-agrees-to-3-45-million-settlement-over-controversial-rental-pc-program/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/NZXT-1-1152x648.jpg",
+      "pub_date": "Mon, 13 Apr 2026 20:55:35 +0000",
+      "author": "\n                    Scharon Harding\n                ",
+      "categories": [
+        "Policy",
+        "Tech",
+        "Desktops",
+        "gaming PC",
+        "subscriptions"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-13T21:45:13.781Z",
+      "created_at": "2026-04-13T21:45:13.782Z"
+    },
+    {
+      "id": 3676,
+      "source": "Ars Technica",
+      "title_en": "Your tech support company runs scams. Stop—or disguise with more fraud?",
+      "description_en": "Fake it till you make it.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/04/your-tech-support-company-runs-scams-stop-or-disguise-with-more-fraud/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2170707494-1152x648-1776109033.jpg",
+      "pub_date": "Mon, 13 Apr 2026 19:58:33 +0000",
+      "author": "\n                    Nate Anderson\n                ",
+      "categories": [
+        "Policy",
+        "crime",
+        "Indian call center",
+        "tech support scams"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-13T21:45:13.782Z",
+      "created_at": "2026-04-13T21:45:13.782Z"
+    },
+    {
+      "id": 3677,
+      "source": "Ars Technica",
+      "title_en": "Sunrise on the Reaping teaser brings us a Second Quarter Quell",
+      "description_en": "\"You have no idea what's in store for you. Twice the number of tributes, twice the glory.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/culture/2026/04/sunrise-on-the-reaping-teaser-brings-us-a-second-quarter-quell/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/hunger1-1152x636.jpg",
+      "pub_date": "Mon, 13 Apr 2026 18:15:59 +0000",
+      "author": "\n                    Jennifer Ouellette\n                ",
+      "categories": [
+        "Culture",
+        "entertainment",
+        "HG: Sunrise on the Reaping",
+        "Hunger Games franchise",
+        "Lionsgate",
+        "Trailers"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-13T21:45:13.782Z",
+      "created_at": "2026-04-13T21:45:13.782Z"
+    },
+    {
+      "id": 3678,
+      "source": "Ars Technica",
+      "title_en": "IBM folds to Trump anti-DEI push, admits no misconduct but pays $17M penalty",
+      "description_en": "IBM is first firm to pay penalty under Trump's \"Civil Rights Fraud Initiative.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/04/ibm-folds-to-trump-anti-dei-push-admits-no-misconduct-but-pays-17m-penalty/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/ibm-logo-1152x648-1776101828.jpg",
+      "pub_date": "Mon, 13 Apr 2026 17:53:46 +0000",
+      "author": "\n                    Jon Brodkin\n                ",
+      "categories": [
+        "Policy",
+        "dei",
+        "ibm",
+        "trump administration"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-13T21:45:13.782Z",
+      "created_at": "2026-04-13T21:45:13.782Z"
+    },
+    {
+      "id": 3679,
+      "source": "The Verge AI",
+      "title_en": "AI influencers are ‘everywhere’ at Coachella",
+      "description_en": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds has already shown me many uncannily attractive figures in glitzy outfits, posing for perfectly staged photographs with celebrities.\nOnly some of these content creators aren't really there. They don't even exist at all outside of our screens. They're generated using AI tools.\nFaking Coachella attenda",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
+      "image_url": null,
+      "pub_date": "2026-04-13T19:53:46.000Z",
+      "author": "Jess Weatherbed",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-13T21:45:13.818Z",
+      "created_at": "2026-04-13T21:45:13.818Z"
+    },
+    {
+      "id": 3680,
+      "source": "The Decoder",
+      "title_en": "OpenAI's leaked memo says new \"Spud\" model will make all its products \"significantly better\"",
+      "description_en": "An internal OpenAI memo lays out five strategic priorities for the enterprise business - including a new model codenamed \"Spud,\" a platform play for AI agents, and the blunt accusation that Anthropic is overstating its revenue by 8 billion dollars.\nThe article OpenAI's leaked memo says new \"Spud\" model will make all its products \"significantly better\" appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openais-leaked-memo-says-new-spud-model-will-make-all-its-products-significantly-better/",
+      "image_url": null,
+      "pub_date": "Mon, 13 Apr 2026 19:06:34 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-13T21:45:14.682Z",
+      "created_at": "2026-04-13T21:45:14.682Z"
+    },
+    {
+      "id": 3681,
+      "source": "New Atlas",
+      "title_en": "Vehicle-less camper pod supersizes into sub-$5K loungy squaredrop",
+      "description_en": "The market for versatile, vehicle-agnostic camper pods seems to be growing. A year after the original Tusca HitchHiker emerged, it morphed into the Freedom Camper lineup from Redneck Blinds in 2025. And we've noticed an uptick in similar drop-and-drive truck/trailer pods showing up from other builders.\nContinue Reading\nCategory: RVs and Motorhomes, Adventure Vehicles, Outdoors\nTags: teardrop trailers, Camping, RV, Pickup, Truck, Outdoors and Camping, Off-road, Hunting",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/rvs-motorhomes/extra-wide-freedom-camper-pod/",
+      "image_url": null,
+      "pub_date": "Mon, 13 Apr 2026 20:05:57 GMT",
+      "author": "C.C. Weiss",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-13T21:45:15.565Z",
+      "created_at": "2026-04-13T21:45:15.565Z"
+    },
+    {
+      "id": 3682,
+      "source": "The Register",
+      "title_en": "Claude is getting worse, according to Claude",
+      "description_en": "Brief outage follows growing number of quality complaints Once the AI darling of programmers everywhere, Anthropic's Claude has been stumbling mightily, both in terms of cost and perceived quality. The service was down briefly on Monday with \"a major outage,\" service trouble that only amplifies growing discontent from customers that even a bot can see.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/claude_outage_quality_complaints/",
+      "image_url": null,
+      "pub_date": "2026-04-13T20:35:09.000Z",
+      "author": "Thomas Claburn",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-13T21:45:15.688Z",
+      "created_at": "2026-04-13T21:45:15.688Z"
+    },
+    {
+      "id": 3683,
+      "source": "Interesting Engineering",
+      "title_en": "New fruit wash removes 94% pesticides, keeps grapes fresh 15 days at room temp",
+      "description_en": "A team of engineers in Canada has developed a biodegradable fruit wash that tackles two...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/fruit-wash-removes-94-percent-pesticides",
+      "image_url": "https://www.youtube.com/embed/mAfD6Jgz-Oo",
+      "pub_date": "Mon, 13 Apr 2026 21:03:53 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-13T21:45:17.792Z",
+      "created_at": "2026-04-13T21:45:17.792Z"
+    },
+    {
+      "id": 3684,
+      "source": "Futurism",
+      "title_en": "Amazon Accused of Hiding Worker’s Death for a Week, Making Employees Keep Working as Corpse Lay on Floor",
+      "description_en": "\"Let’s get back to work.\"\nThe post Amazon Accused of Hiding Worker’s Death for a Week, Making Employees Keep Working as Corpse Lay on Floor appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/future-society/amazon-accused-hiding-death-week",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/amazon-accused-hiding-death-week.jpg?quality=85",
+      "pub_date": "Mon, 13 Apr 2026 17:08:25 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-13T21:45:17.857Z",
+      "created_at": "2026-04-13T21:45:17.857Z"
+    },
+    {
+      "id": 3685,
+      "source": "Futurism",
+      "title_en": "Huge Group of Experts Warns Meta That Its Pervert Glasses Will Enable Terrible Crimes",
+      "description_en": "The company's latest controversial product \"will harm vulnerable people while further imperiling our democracy.\"\nThe post Huge Group of Experts Warns Meta That Its Pervert Glasses Will Enable Terrible Crimes appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/coalition-rights-meta-glasses-facial-recognition",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/coalition-rights-meta-glasses-facial-recognition.jpg?quality=85",
+      "pub_date": "Mon, 13 Apr 2026 16:16:36 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Cybersecurity",
+          "$": {
+            "domain": "https://futurism.com/category/cybersecurity"
+          }
+        },
+        {
+          "_": "Data Privacy",
+          "$": {
+            "domain": "https://futurism.com/category/data-privacy"
+          }
+        },
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        },
+        {
+          "_": "Meta",
+          "$": {
+            "domain": "https://futurism.com/category/meta"
+          }
+        },
+        {
+          "_": "Privacy",
+          "$": {
+            "domain": "https://futurism.com/category/privacy"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-13T21:45:17.857Z",
+      "created_at": "2026-04-13T21:45:17.857Z"
+    },
+    {
+      "id": 3686,
+      "source": "Futurism",
+      "title_en": "Video Shows Humanoid Robot Chasing a Pack of Wild Boars",
+      "description_en": "It's like \"Horizon Zero Dawn,\" but in reverse.\nThe post Video Shows Humanoid Robot Chasing a Pack of Wild Boars appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/robots-and-machines/humanoid-robot-chasing-wild-boars",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/humanoid-robot-chasing-wild-boars.jpg?quality=85",
+      "pub_date": "Mon, 13 Apr 2026 15:17:11 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Robots and Machines",
+          "$": {
+            "domain": "https://futurism.com/category/robots-and-machines"
+          }
+        },
+        {
+          "_": "Robotics",
+          "$": {
+            "domain": "https://futurism.com/category/robotics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-13T21:45:17.857Z",
+      "created_at": "2026-04-13T21:45:17.857Z"
+    },
+    {
+      "id": 3687,
+      "source": "Tom's Hardware",
+      "title_en": "Small Missouri town ousts half its city council after $6 billion AI data center approval — petition calls for mayor's removal as frustration (and violence) over AI data centers mounts",
+      "description_en": "Voters in Festus, MO ousted half of the city's council members following the approval of a $6 billion data center project.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/small-missouri-town-ousts-half-its-city-council-after-usd6-billion-ai-data-center-approval-petition-calls-for-mayors-removal-as-frustration-and-violence-over-ai-data-centers-mounts",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/JFFyY5L6Aurj8BD8jEciRm-1280-80.jpg",
+      "pub_date": "Mon, 13 Apr 2026 19:55:25 +0000",
+      "author": " Jake Roach ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-13T21:45:17.983Z",
+      "created_at": "2026-04-13T21:45:17.983Z"
+    },
+    {
+      "id": 3688,
+      "source": "Tom's Hardware",
+      "title_en": "New tech can see a CPU's transistors in action — terahertz radiation can potentially steal data as a chip is running",
+      "description_en": "Researchers have discovered a way of probing a microchip processor's individual transistors while it is working with terahertz radiation.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/new-tech-can-see-a-cpus-transistors-in-action-terahertz-radiation-can-potentially-steal-data-as-a-chip-is-running",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/iiBPT3tVuXkSdD4xCKSR9m-1280-80.png",
+      "pub_date": "Mon, 13 Apr 2026 18:42:24 +0000",
+      "author": " Aaron Klotz ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-13T21:45:17.983Z",
+      "created_at": "2026-04-13T21:45:17.983Z"
     }
   ]
 }
