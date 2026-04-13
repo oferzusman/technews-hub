@@ -1,9 +1,9 @@
 {
-  "total": 3618,
-  "translated": 3611,
-  "untranslated": 7,
-  "today": 66,
-  "week": 3437,
+  "total": 3633,
+  "translated": 3633,
+  "untranslated": 0,
+  "today": 81,
+  "week": 3452,
   "sources": [
     {
       "name": "Pypi.org",
@@ -20,7 +20,7 @@
     {
       "name": "Product Hunt",
       "total": 246,
-      "translated": 239,
+      "translated": 246,
       "lastDate": "2026-04-13T06:20:35.000Z"
     },
     {
@@ -31,8 +31,8 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 133,
-      "translated": 133,
+      "total": 142,
+      "translated": 142,
       "lastDate": "Wed, 08 Apr 2026 19:45:25 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 84,
-      "translated": 84,
+      "total": 85,
+      "translated": 85,
       "lastDate": "Wed, 08 Apr 2026 22:00:11 +0000"
     },
     {
@@ -85,8 +85,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 72,
-      "translated": 72,
+      "total": 74,
+      "translated": 74,
       "lastDate": "Wed, 08 Apr 2026 23:52:04 GMT"
     },
     {
@@ -97,8 +97,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 57,
-      "translated": 57,
+      "total": 59,
+      "translated": 59,
       "lastDate": "Wed, 08 Apr 2026 18:00:03 +0000"
     },
     {
@@ -144,16 +144,16 @@
       "lastDate": "2026-04-09T04:35:19Z"
     },
     {
+      "name": "MIT Technology Review",
+      "total": 25,
+      "translated": 25,
+      "lastDate": "Wed, 08 Apr 2026 14:00:00 +0000"
+    },
+    {
       "name": "Ibtimes.com.au",
       "total": 25,
       "translated": 25,
       "lastDate": "2026-04-09T02:36:13Z"
-    },
-    {
-      "name": "MIT Technology Review",
-      "total": 24,
-      "translated": 24,
-      "lastDate": "Wed, 08 Apr 2026 14:00:00 +0000"
     },
     {
       "name": "SiliconANGLE News",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-13T12:46:28.201Z"
+  "generatedAt": "2026-04-13T14:45:09.862Z"
 }
