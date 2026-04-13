@@ -71077,6 +71077,483 @@
       "priority": "batch",
       "fetchedAt": "2026-04-13T16:02:09.147Z",
       "created_at": "2026-04-13T16:02:09.147Z"
+    },
+    {
+      "id": 3656,
+      "source": "The Verge AI",
+      "title_en": "Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic",
+      "description_en": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge\t\n\nOpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise business. \nThe memo, which was viewed by The Verge, repeatedly underlines the importance of building a moat around its AI products, to combat how easy it is for users to switch between whichever model is",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+      "image_url": null,
+      "pub_date": "2026-04-13T16:21:08.000Z",
+      "author": "Hayden Field",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-13T18:41:09.001Z",
+      "created_at": "2026-04-13T18:41:09.001Z"
+    },
+    {
+      "id": 3657,
+      "source": "The Decoder",
+      "title_en": "New AI model generates 45-minute lip-synced video from one photo and runs in real time",
+      "description_en": "A single image becomes a talking character: LPM 1.0 generates real-time video with lip sync, facial expressions, and emotional reactions. For now, it remains a research project.\nThe article New AI model generates 45-minute lip-synced video from one photo and runs in real time appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/new-ai-model-generates-45-minute-lip-synced-video-from-one-photo-and-runs-in-real-time/",
+      "image_url": "http://the-decoder.com/wp-content/uploads/2026/04/lmp_demo.mp4",
+      "pub_date": "Mon, 13 Apr 2026 17:31:59 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "AI and Video",
+        "Video"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-13T18:41:09.957Z",
+      "created_at": "2026-04-13T18:41:09.957Z"
+    },
+    {
+      "id": 3658,
+      "source": "The Decoder",
+      "title_en": "Google now offers Ultra subscribers video generation with Veo 3.1 Lite at no extra credit cost",
+      "description_en": "Google is rolling out a new video generation option for Ultra subscribers that won't cost them any additional credits.\nThe article Google now offers Ultra subscribers video generation with Veo 3.1 Lite at no extra credit cost appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/google-now-offers-ultra-subscribers-video-generation-with-veo-3-1-lite-at-no-extra-credit-cost/",
+      "image_url": null,
+      "pub_date": "Mon, 13 Apr 2026 16:23:30 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Google",
+        "Veo 3"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-13T18:41:09.958Z",
+      "created_at": "2026-04-13T18:41:09.958Z"
+    },
+    {
+      "id": 3659,
+      "source": "MIT Technology Review",
+      "title_en": "Why opinion on AI is so divided",
+      "description_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In an industry that doesn’t stand still, Stanford’s AI Index, an annual roundup of key results and trends, is a chance to take a breath. (It’s a marathon, not a sprint, after…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
+      "image_url": null,
+      "pub_date": "Mon, 13 Apr 2026 15:48:28 +0000",
+      "author": "Will Douglas Heaven",
+      "categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "The Algorithm"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-13T18:41:10.023Z",
+      "created_at": "2026-04-13T18:41:10.023Z"
+    },
+    {
+      "id": 3660,
+      "source": "MarkTechPost",
+      "title_en": "A Step-by-Step Coding Tutorial on NVIDIA PhysicsNeMo: Darcy Flow, FNOs, PINNs, Surrogate Models, and Inference Benchmarking",
+      "description_en": "In this tutorial, we implement NVIDIA PhysicsNeMo on Colab and build a practical workflow for physics-informed machine learning. We start by setting up the environment, generating data for the 2D Darcy Flow problem, and visualizing the physical fields to clearly understand the learning task. From there, we implement and train powerful models such as the […]\nThe post A Step-by-Step Coding Tutorial on NVIDIA PhysicsNeMo: Darcy Flow, FNOs, PINNs, Surrogate Models, and Inference Benchmarking appeare",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/13/a-step-by-step-coding-tutorial-on-nvidia-physicsnemo-darcy-flow-fnos-pinns-surrogate-models-and-inference-benchmarking/",
+      "image_url": null,
+      "pub_date": "Mon, 13 Apr 2026 17:07:34 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Editors Pick",
+        "Machine Learning",
+        "Quantum Machine Learning",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-13T18:41:10.173Z",
+      "created_at": "2026-04-13T18:41:10.173Z"
+    },
+    {
+      "id": 3661,
+      "source": "New Atlas",
+      "title_en": "Versatile robot uses tracked flippers to traverse varying terrain",
+      "description_en": "Disaster sites vary as widely as rescue missions. Using robotics to help often requires multiple robots to survey, climb, lift, or manipulate objects. Athena unites all these capabilities in a single, rugged, autonomous platform built for search and rescue.\nContinue Reading\nCategory: Robotics, Engineering\nTags: Technical University of Darmstadt, Disasters, Rescue",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/robotics/athena-robot-tracked-flippers-rough-terrain/",
+      "image_url": null,
+      "pub_date": "Mon, 13 Apr 2026 16:30:00 GMT",
+      "author": "Etiido Uko",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-13T18:41:10.661Z",
+      "created_at": "2026-04-13T18:41:10.661Z"
+    },
+    {
+      "id": 3662,
+      "source": "The Guardian AI",
+      "title_en": "Don’t make Marshal Foch’s mistake on AI | Letters",
+      "description_en": "Peregrine Rand reflects on Marc Bloch’s Strange Defeat and the future threat of artificial intelligence\nEmma Brockes’ article struck a chord (It’s finally happened: I’m now worried about AI. And consulting ChatGPT did nothing to allay my fears, 8 April). I am reading Marc Bloch’s Strange Defeat, in which the eminent French historian and soon-to-be-executed resistance worker gives a first-hand account of the collapse of the French army in 1940. He attributes the debacle at least in part to a fail",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/apr/13/dont-make-marshal-fochs-mistake-on-ai",
+      "image_url": "https://i.guim.co.uk/img/media/68af754213645077b9af2a79cbf0b293f47c839e/509_0_5031_4024/master/5031.jpg?width=140&quality=85&auto=format&fit=max&s=0ab2d0f6d52efdc8f8449601f670ff18",
+      "pub_date": "Mon, 13 Apr 2026 16:23:14 GMT",
+      "author": "Guardian Staff",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Second world war",
+          "$": {
+            "domain": "https://www.theguardian.com/world/secondworldwar"
+          }
+        },
+        {
+          "_": "First world war",
+          "$": {
+            "domain": "https://www.theguardian.com/world/firstworldwar"
+          }
+        },
+        {
+          "_": "ChatGPT",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatgpt"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-13T18:41:10.740Z",
+      "created_at": "2026-04-13T18:41:10.740Z"
+    },
+    {
+      "id": 3663,
+      "source": "The Guardian AI",
+      "title_en": "Goldman Sachs chief ‘hyper-aware’ of risks from Anthropic’s Mythos AI",
+      "description_en": "US bank has the Claude model and is working closely with the tech firm to improve cyber protection\nGoldman Sachs’s chief executive, David Solomon, has said he is “hyper-aware” of the capabilities of Anthropic’s Mythos AI model and is working “closely” with the tech firm after it issued warnings about the cybersecurity risk it poses.\nThe US bank had been monitoring the rapid advances in artificial intelligence, including large language models (LLMs), as part of wider efforts to protect itself fro",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/apr/13/goldman-sachs-chief-hyper-aware-risks-anthropics-mythos-ai-david-solomon",
+      "image_url": "https://i.guim.co.uk/img/media/387eaea730e717d6830d83a87513e5642c2db704/240_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=a03ae21ab1d190f8ad5270e5f9dc5cc4",
+      "pub_date": "Mon, 13 Apr 2026 16:48:37 GMT",
+      "author": "Kalyeena Makortoff and Dan Milmo",
+      "categories": [
+        {
+          "_": "Goldman Sachs",
+          "$": {
+            "domain": "https://www.theguardian.com/business/goldmansachs"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Banking",
+          "$": {
+            "domain": "https://www.theguardian.com/business/banking"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Hacking",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/hacking"
+          }
+        },
+        {
+          "_": "Internet safety",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/internet-safety"
+          }
+        },
+        {
+          "_": "Internet",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/internet"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-13T18:41:10.740Z",
+      "created_at": "2026-04-13T18:41:10.740Z"
+    },
+    {
+      "id": 3664,
+      "source": "Interesting Engineering",
+      "title_en": "Video: Robot uses vision and AI to adapt to terrain like animals in real time",
+      "description_en": "A KAIST research team has developed a quadrupedal robot control system that allows machines to...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/quadruped-robot-learns-to-walk-like-animals",
+      "image_url": "https://www.youtube.com/embed/Img5a_yKjMs",
+      "pub_date": "Mon, 13 Apr 2026 18:39:51 +0000",
+      "author": "Neetika Walter",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-13T18:41:11.596Z",
+      "created_at": "2026-04-13T18:41:11.596Z"
+    },
+    {
+      "id": 3665,
+      "source": "Interesting Engineering",
+      "title_en": "New Log2Motion AI model exposes hidden muscle strain behind everyday smartphone use",
+      "description_en": "Smartphone users swipe and tap thousands of times daily. Yet, researchers have struggled to measure...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/log2motion-ai-smartphone-ux-biomechanics",
+      "image_url": null,
+      "pub_date": "Mon, 13 Apr 2026 17:18:09 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-13T18:41:11.596Z",
+      "created_at": "2026-04-13T18:41:11.596Z"
+    },
+    {
+      "id": 3666,
+      "source": "Interesting Engineering",
+      "title_en": "New AI model shows which smartphone gestures are most tiring",
+      "description_en": "Every swipe, tap, and scroll on a smartphone demands a small but measurable amount of...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/log2motion-ai-model-smartphone-gestures-physical-fatigue",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/Log2Motion1.png",
+      "pub_date": "Mon, 13 Apr 2026 17:03:09 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-13T18:41:11.596Z",
+      "created_at": "2026-04-13T18:41:11.596Z"
+    },
+    {
+      "id": 3667,
+      "source": "Futurism",
+      "title_en": "Meta Secretly Building a Photorealistic AI Clone of Mark Zuckerberg so No Employee Can Ever Escape His Watchful Eye",
+      "description_en": "There's no escape.\nThe post Meta Secretly Building a Photorealistic AI Clone of Mark Zuckerberg so No Employee Can Ever Escape His Watchful Eye appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/meta-photorealistic-ai-clone-mark-zuckerberg",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/meta-photorealistic-ai-clone-mark-zuckerberg.jpg?quality=85",
+      "pub_date": "Mon, 13 Apr 2026 14:04:45 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        },
+        {
+          "_": "Meta",
+          "$": {
+            "domain": "https://futurism.com/category/meta"
+          }
+        },
+        {
+          "_": "Metaverse",
+          "$": {
+            "domain": "https://futurism.com/category/metaverse"
+          }
+        },
+        {
+          "_": "Virtual Reality",
+          "$": {
+            "domain": "https://futurism.com/category/virtual-reality"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-13T18:41:11.783Z",
+      "created_at": "2026-04-13T18:41:11.783Z"
+    },
+    {
+      "id": 3668,
+      "source": "Futurism",
+      "title_en": "Recent Grads Say AI Is Making It Impossible to Find a Job",
+      "description_en": "\"I feel helpless.\"\nThe post Recent Grads Say AI Is Making It Impossible to Find a Job appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/graduates-college-ai-jobs",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/graduates-college-ai-jobs.jpg?quality=85",
+      "pub_date": "Mon, 13 Apr 2026 13:07:11 -0400",
+      "author": "Joe Wilkins",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Brain",
+          "$": {
+            "domain": "https://futurism.com/category/brain"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        },
+        {
+          "_": "Finance",
+          "$": {
+            "domain": "https://futurism.com/category/finance"
+          }
+        },
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        },
+        {
+          "_": "Health & Medicine",
+          "$": {
+            "domain": "https://futurism.com/category/health-medicine"
+          }
+        },
+        {
+          "_": "Mental Health",
+          "$": {
+            "domain": "https://futurism.com/category/mental-health"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-13T18:41:11.783Z",
+      "created_at": "2026-04-13T18:41:11.783Z"
+    },
+    {
+      "id": 3669,
+      "source": "Tom's Hardware",
+      "title_en": "Intel's Nova Lake CPUs gear up to seize AMD’s 3D V-Cache gaming throne — early leak points to up to 52 cores, blazing DDR5-8000 support, and massive 175W TDP",
+      "description_en": "VideoCardz shares the alleged preliminary SKU list for Intel's upcoming Core Ultra 400S (codenamed Nova Lake) processors.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/intels-nova-lake-cpus-gear-up-to-seize-amds-3d-v-cache-gaming-throne-early-leak-points-to-up-to-52-cores-blazing-ddr5-8000-support-and-massive-175w-tdp",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/wUsSLzuor4dtkrjsTZUnB3-1280-80.jpg",
+      "pub_date": "Mon, 13 Apr 2026 17:17:32 +0000",
+      "author": " Zhiye Liu ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-13T18:41:11.820Z",
+      "created_at": "2026-04-13T18:41:11.820Z"
+    },
+    {
+      "id": 3670,
+      "source": "CNBC Tech",
+      "title_en": "Oracle pops 11%, leading bounce back rally in software stocks",
+      "description_en": "Oracle has lost more than a fifth of its value this year on AI disruption concerns.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/13/oracle-orcl-stock-rally-software-ai-risk.html",
+      "image_url": null,
+      "pub_date": "Mon, 13 Apr 2026 18:28:36 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-13T18:41:12.057Z",
+      "created_at": "2026-04-13T18:41:12.057Z"
+    },
+    {
+      "id": 3671,
+      "source": "CNBC Tech",
+      "title_en": "Intel's stock is on track for a historic 9-day winning streak, up 56% over that run",
+      "description_en": "The U.S. chipmaker has announced recent deals with Google and Elon Musk as it continues to gain investments.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/13/intel-stock-historic-winning-streak.html",
+      "image_url": null,
+      "pub_date": "Mon, 13 Apr 2026 16:15:27 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-13T18:41:12.057Z",
+      "created_at": "2026-04-13T18:41:12.057Z"
     }
   ]
 }
