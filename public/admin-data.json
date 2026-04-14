@@ -1,9 +1,9 @@
 {
-  "total": 3848,
+  "total": 3852,
   "translated": 3836,
-  "untranslated": 12,
-  "today": 160,
-  "week": 2813,
+  "untranslated": 16,
+  "today": 164,
+  "week": 2817,
   "sources": [
     {
       "name": "Pypi.org",
@@ -31,7 +31,7 @@
     },
     {
       "name": "Futurism",
-      "total": 162,
+      "total": 163,
       "translated": 160,
       "lastDate": "Wed, 08 Apr 2026 16:29:40 -0400"
     },
@@ -48,16 +48,16 @@
       "lastDate": "Wed, 08 Apr 2026 23:03:00 GMT"
     },
     {
+      "name": "Ars Technica",
+      "total": 104,
+      "translated": 99,
+      "lastDate": "Wed, 08 Apr 2026 22:00:11 +0000"
+    },
+    {
       "name": "Onefootball.com",
       "total": 104,
       "translated": 104,
       "lastDate": "2026-04-09T07:08:00Z"
-    },
-    {
-      "name": "Ars Technica",
-      "total": 103,
-      "translated": 99,
-      "lastDate": "Wed, 08 Apr 2026 22:00:11 +0000"
     },
     {
       "name": "Hugging Face Blog",
@@ -67,7 +67,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 86,
+      "total": 88,
       "translated": 85,
       "lastDate": "Wed, 08 Apr 2026 23:52:04 GMT"
     },
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-14T22:04:57.930Z"
+  "generatedAt": "2026-04-14T23:04:13.653Z"
 }
