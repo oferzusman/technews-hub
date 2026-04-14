@@ -1,9 +1,9 @@
 {
-  "total": 3797,
+  "total": 3807,
   "translated": 3751,
-  "untranslated": 46,
-  "today": 109,
-  "week": 2762,
+  "untranslated": 56,
+  "today": 119,
+  "week": 2772,
   "sources": [
     {
       "name": "Pypi.org",
@@ -25,13 +25,13 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 158,
+      "total": 162,
       "translated": 146,
       "lastDate": "Wed, 08 Apr 2026 19:45:25 +0000"
     },
     {
       "name": "Futurism",
-      "total": 156,
+      "total": 157,
       "translated": 154,
       "lastDate": "Wed, 08 Apr 2026 16:29:40 -0400"
     },
@@ -67,7 +67,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 82,
+      "total": 83,
       "translated": 79,
       "lastDate": "Wed, 08 Apr 2026 23:52:04 GMT"
     },
@@ -90,28 +90,28 @@
       "lastDate": "2026-04-09T07:00:00Z"
     },
     {
+      "name": "TechCrunch AI",
+      "total": 68,
+      "translated": 65,
+      "lastDate": "Wed, 08 Apr 2026 21:05:13 +0000"
+    },
+    {
       "name": "The Decoder",
-      "total": 66,
+      "total": 67,
       "translated": 64,
       "lastDate": "Wed, 08 Apr 2026 18:00:03 +0000"
     },
     {
-      "name": "TechCrunch AI",
-      "total": 66,
-      "translated": 65,
-      "lastDate": "Wed, 08 Apr 2026 21:05:13 +0000"
+      "name": "The Guardian AI",
+      "total": 54,
+      "translated": 49,
+      "lastDate": "Wed, 08 Apr 2026 22:13:18 GMT"
     },
     {
       "name": "Github.com",
       "total": 54,
       "translated": 54,
       "lastDate": "2026-04-09T06:45:21Z"
-    },
-    {
-      "name": "The Guardian AI",
-      "total": 53,
-      "translated": 49,
-      "lastDate": "Wed, 08 Apr 2026 22:13:18 GMT"
     },
     {
       "name": "The Verge AI",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-14T14:48:53.961Z"
+  "generatedAt": "2026-04-14T16:09:32.998Z"
 }
