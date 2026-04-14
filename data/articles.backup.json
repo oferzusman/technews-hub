@@ -73077,6 +73077,1130 @@
       "priority": "batch",
       "fetchedAt": "2026-04-14T08:56:53.935Z",
       "created_at": "2026-04-14T08:56:53.935Z"
+    },
+    {
+      "id": 3752,
+      "source": "TechCrunch AI",
+      "title_en": "How vibe coding app Anything is rebuilding after getting booted from the App Store twice",
+      "description_en": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
+      "image_url": null,
+      "pub_date": "Tue, 14 Apr 2026 14:22:44 +0000",
+      "author": "Ivan Mehta",
+      "categories": [
+        "AI",
+        "Apps",
+        "TC",
+        "app store",
+        "Apple",
+        "developers",
+        "iOS"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T14:26:42.875Z",
+      "created_at": "2026-04-14T14:26:42.875Z"
+    },
+    {
+      "id": 3753,
+      "source": "The Verge AI",
+      "title_en": "Has Google’s AI watermarking system been reverse-engineered?",
+      "description_en": "A software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim that, according to Google, isn't true.\nThe developer, going by the username Aloshdenny, has open-sourced their work on GitHub and documented his process, claiming all it required was 200 Gemini-generated images, signal processing, and \"way too much free time.\" A little weed also seemed to help.\n\"No ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
+      "image_url": null,
+      "pub_date": "2026-04-14T13:53:53.000Z",
+      "author": "Jess Weatherbed",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T14:26:42.920Z",
+      "created_at": "2026-04-14T14:26:42.920Z"
+    },
+    {
+      "id": 3754,
+      "source": "The Decoder",
+      "title_en": "Claude Mythos is a wake-up call for Europe's AI safety apparatus",
+      "description_en": "Anthropic is restricting access to Claude Mythos, an AI model it says can find security vulnerabilities better than most humans. European authorities have almost no visibility into the system, while the UK is already running its own tests. The situation exposes a deeper structural problem.\nThe article Claude Mythos is a wake-up call for Europe's AI safety apparatus appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/claude-mythos-is-a-wake-up-call-for-europes-ai-safety-apparatus/",
+      "image_url": null,
+      "pub_date": "Tue, 14 Apr 2026 13:53:49 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Claude",
+        "Claude Mythos",
+        "EU",
+        "Europe"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T14:26:43.936Z",
+      "created_at": "2026-04-14T14:26:43.936Z"
+    },
+    {
+      "id": 3755,
+      "source": "The Decoder",
+      "title_en": "Stanford's AI Index 2026 shows rapid progress, growing safety concerns, and declining public trust",
+      "description_en": "The AI Index Report 2026 from Stanford HAI documents major performance leaps in AI models, a narrowing gap between the US and China, and mounting safety problems, all while public trust continues to erode.\nThe article Stanford's AI Index 2026 shows rapid progress, growing safety concerns, and declining public trust appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/stanfords-ai-index-2026-shows-rapid-progress-growing-safety-concerns-and-declining-public-trust/",
+      "image_url": null,
+      "pub_date": "Tue, 14 Apr 2026 09:16:27 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Generative AI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:43.936Z",
+      "created_at": "2026-04-14T14:26:43.936Z"
+    },
+    {
+      "id": 3756,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: the state of AI, and protecting bears with drones",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Want to understand the current state of AI? Check out these charts.  If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/",
+      "image_url": null,
+      "pub_date": "Tue, 14 Apr 2026 12:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:44.062Z",
+      "created_at": "2026-04-14T14:26:44.062Z"
+    },
+    {
+      "id": 3757,
+      "source": "MIT Technology Review",
+      "title_en": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
+      "description_en": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Just before Artemis II began its historic slingshot around the moon, Jared Isaacman, the recently confirmed NASA administrator, made a flurry of announcements from the agency’s headquarters…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/",
+      "image_url": null,
+      "pub_date": "Tue, 14 Apr 2026 12:04:47 +0000",
+      "author": "Robin George Andrews",
+      "categories": [
+        "Space",
+        "App",
+        "MIT Technology Review Explains"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:44.062Z",
+      "created_at": "2026-04-14T14:26:44.062Z"
+    },
+    {
+      "id": 3758,
+      "source": "MIT Technology Review",
+      "title_en": "Coming soon: 10 Things That Matter in AI Right Now",
+      "description_en": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma. While our final picks encompass all our core coverage areas (energy, AI, and biotech, plus a few more), our 2026 list…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
+      "image_url": null,
+      "pub_date": "Tue, 14 Apr 2026 11:00:00 +0000",
+      "author": "Niall Firth, Amy Nordrum",
+      "categories": [
+        "Artificial intelligence",
+        "AI10 2026",
+        "App"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:44.062Z",
+      "created_at": "2026-04-14T14:26:44.062Z"
+    },
+    {
+      "id": 3759,
+      "source": "MIT Technology Review",
+      "title_en": "The problem with thinking you’re part Neanderthal",
+      "description_en": "You’ve probably heard some version of this idea before: that many of us have an “inner Neanderthal.” That is to say, around 45,000 years ago, when Homo sapiens first arrived in Europe, they met members of a cousin species—the broad-browed, heavier-set Neanderthals—and, well, one thing led to another, which is why some people now carry…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/04/14/1135169/problem-thinking-part-neanderthal-human-evolution/",
+      "image_url": null,
+      "pub_date": "Tue, 14 Apr 2026 10:00:00 +0000",
+      "author": "Ben Crair",
+      "categories": [
+        "Culture",
+        "App",
+        "Features and Investigations"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:44.062Z",
+      "created_at": "2026-04-14T14:26:44.062Z"
+    },
+    {
+      "id": 3760,
+      "source": "Google AI Blog",
+      "title_en": "Bringing people together at AI for the Economy Forum",
+      "description_en": "Google is bringing people together in Washington D.C. at our AI for the Economy Forum.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_for_the_Economy_Forum_2026.max-600x600.format-webp.webp",
+      "pub_date": "Tue, 14 Apr 2026 09:00:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "James Manyika"
+        ],
+        "title": [
+          "SVP"
+        ],
+        "department": [
+          "Research, Labs, Technology & Society"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Google.org",
+        "Creating opportunity",
+        "AI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:44.415Z",
+      "created_at": "2026-04-14T14:26:44.415Z"
+    },
+    {
+      "id": 3761,
+      "source": "New Atlas",
+      "title_en": "24-ft tiny house designed for comfortable full-time life on wheels",
+      "description_en": "Designed to maximize comfort in a compact footprint, the Currumbin combines a smart layout with some well-thought-out features to create a home that's suitable for full-time life on wheels. There are lots of optional upgrades available too, including an off-grid setup and an outdoor terrace area.\nContinue Reading\nCategory: Tiny Houses, Outdoors\nTags: Building and Construction, Tiny Footprint, Micro-House, House, Home",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/tiny-houses/currumbin-removed-tiny-homes/",
+      "image_url": null,
+      "pub_date": "Tue, 14 Apr 2026 14:07:00 GMT",
+      "author": "Adam Williams",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T14:26:44.759Z",
+      "created_at": "2026-04-14T14:26:44.759Z"
+    },
+    {
+      "id": 3762,
+      "source": "New Atlas",
+      "title_en": "A swivel display disguises this gaming handheld as a media player",
+      "description_en": "Anbernic makes a wide range of portable gaming consoles whose designs leave nothing to the imagination, with the usual arrays of controller buttons alongside or below a display. With its upcoming device, it's taking a more discreet design direction, which should also make for an easier fit in your pocket.\nContinue Reading\nCategory: Consumer Tech, Technology\nTags: Gaming, Handheld, Portable Gaming, EDC",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/consumer-tech/anbernic-swivel-display-gaming-handheld-retro-emulator-android-rg-rotate/",
+      "image_url": null,
+      "pub_date": "Tue, 14 Apr 2026 12:04:06 GMT",
+      "author": "Abhimanyu Ghoshal",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:44.759Z",
+      "created_at": "2026-04-14T14:26:44.759Z"
+    },
+    {
+      "id": 3763,
+      "source": "The Register",
+      "title_en": "Man suspected of Molotov attack on Sam Altman's home charged with attempted murder",
+      "description_en": "20-year-old Texan also allegedly planned to kill everyone inside the OpenAI office building The man accused of attacking Sam Altman's San Francisco home with a Molotov cocktail on April 10 now faces charges of attempted murder.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/altman_attempted_murder/",
+      "image_url": null,
+      "pub_date": "2026-04-14T09:50:12.000Z",
+      "author": "Connor Jones",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:44.859Z",
+      "created_at": "2026-04-14T14:26:44.859Z"
+    },
+    {
+      "id": 3764,
+      "source": "The Guardian AI",
+      "title_en": "Bosses say AI boosts productivity – workers say they’re drowning in ‘workslop’",
+      "description_en": "Workslop refers to AI-generated work that seems polished but is flawed and in need of heavy corrections\nKen, a copywriter for a large, Miami-based cybersecurity firm, used to enjoy his job. But then the “workslop” started piling up.\nWorkslop is an unintended consequence of the AI boom. It’s what happens when employees use AI to quickly generate work that seems polished – at least superficially – but is in fact so flawed or inaccurate that it needs to be heavily corrected, cleaned upor even compl",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/apr/14/ai-productivity-workplace-errors",
+      "image_url": "https://i.guim.co.uk/img/media/7d94c97a03acca95bc59d46355016efb1bc197ca/584_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=9e587da852be686b10e7ab0d79c2fca7",
+      "pub_date": "Tue, 14 Apr 2026 14:00:58 GMT",
+      "author": "Ramin Skibba",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Work & careers",
+          "$": {
+            "domain": "https://www.theguardian.com/money/work-and-careers"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T14:26:44.908Z",
+      "created_at": "2026-04-14T14:26:44.908Z"
+    },
+    {
+      "id": 3765,
+      "source": "The Guardian AI",
+      "title_en": "Nissan turnaround plan pins hopes on ‘AI-defined vehicles’",
+      "description_en": "Japanese carmaker will add self-driving abilities to 90% of cars in future and cut a fifth of its models\n\nBusiness live – latest updates\n\nNissan has said it will add self-driving abilities to the vast majority of its cars and cut a fifth of its models in the latest stage of the Japanese carmaker’s drawn-out turnaround efforts.\nIvan Espinosa, Nissan’s chief executive, said the company was pinning its hopes on “AI-defined vehicles”, with an aim of installing autonomous driving technologies on 90% ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/apr/14/nissan-turnaround-plan-pins-hopes-on-ai-defined-vehicles",
+      "image_url": "https://i.guim.co.uk/img/media/4870fef247f3ab9f285484bbe72d737303577e80/39_171_995_796/master/995.jpg?width=140&quality=85&auto=format&fit=max&s=04491cf385e4ed310a4151ddb5a251ca",
+      "pub_date": "Tue, 14 Apr 2026 12:25:51 GMT",
+      "author": "Jasper Jolly",
+      "categories": [
+        {
+          "_": "Nissan",
+          "$": {
+            "domain": "https://www.theguardian.com/business/nissan"
+          }
+        },
+        {
+          "_": "Automotive industry",
+          "$": {
+            "domain": "https://www.theguardian.com/business/automotive-industry"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Self-driving cars",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/self-driving-cars"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Manufacturing sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/manufacturing-sector"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Japan",
+          "$": {
+            "domain": "https://www.theguardian.com/world/japan"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:44.908Z",
+      "created_at": "2026-04-14T14:26:44.908Z"
+    },
+    {
+      "id": 3766,
+      "source": "The Guardian AI",
+      "title_en": "AI companies make powerful tech – but they’re also savvy marketers",
+      "description_en": "Anthropic’s Claude Mythos AI is said to be frighteningly capable, but we shouldn’t get carried away by the hype\nHello, and welcome to TechScape. I’m your host, Blake Montgomery, the Guardian’s US tech editor, writing to you from my happy village in Pokopia.\nTech companies are cutting jobs and betting on AI. The payoff is far from guaranteed\n‘There’s a lot of desperation’: skilled older workers turn to AI training to stay afloat\n‘It has your name on it, but I don’t think it’s you’: how AI is impe",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/apr/13/ai-tech-marketing",
+      "image_url": "https://i.guim.co.uk/img/media/3afc39d2a8b0a3f01e27daff3016624d884dd56d/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=24e3c8000e289239c0b445d803d99c7d",
+      "pub_date": "Tue, 14 Apr 2026 12:04:48 GMT",
+      "author": "Blake Montgomery",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:44.908Z",
+      "created_at": "2026-04-14T14:26:44.908Z"
+    },
+    {
+      "id": 3767,
+      "source": "The Guardian AI",
+      "title_en": "AI learns language from skewed sources. That could change how we humans speak – and think | Bruce Schneier",
+      "description_en": "Large language models aren’t trained on real-life conversations. As we encounter their language, it could affect our own\nBecause of the way they are trained, large language models capture only a slice of human language. They’re trained on the written word, from textbooks to social media posts, and our speech as captured in movies and on television. These models have minimal access to the unscripted conversations we have face-to-face or voice-to-voice. This is the vast majority of speech, and a v",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/14/ai-language-human-speech",
+      "image_url": "https://i.guim.co.uk/img/media/007185a39351cf5afc94baca619846d0b03e3338/467_0_4667_3737/master/4667.jpg?width=140&quality=85&auto=format&fit=max&s=7f475b03cf68e0d69ec6fd204bf2c918",
+      "pub_date": "Tue, 14 Apr 2026 12:00:56 GMT",
+      "author": "Ada Palmer and Bruce Schneier",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Language",
+          "$": {
+            "domain": "https://www.theguardian.com/science/language"
+          }
+        },
+        {
+          "_": "Science",
+          "$": {
+            "domain": "https://www.theguardian.com/science/science"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:44.908Z",
+      "created_at": "2026-04-14T14:26:44.908Z"
+    },
+    {
+      "id": 3768,
+      "source": "AI News",
+      "title_en": "SAP brings agentic AI to human capital management",
+      "description_en": "According to SAP, integrating agentic AI into core human capital management (HCM) modules helps target operational bloat and reduce costs. SAP’s SuccessFactors 1H 2026 release aims to anticipate administrative bottlenecks before they stall daily operations by embedding a network of AI agents across recruiting, payroll, workforce administration, and talent development. Behind the user interface, these […]\nThe post SAP brings agentic AI to human capital management appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/sap-brings-agentic-ai-human-capital-management/",
+      "image_url": null,
+      "pub_date": "Tue, 14 Apr 2026 12:55:09 +0000",
+      "author": "Ryan Daws",
+      "categories": [
+        "AI and Us",
+        "AI Business Strategy",
+        "AI in Action",
+        "Data Engineering & MLOps",
+        "Featured News",
+        "Features",
+        "Finance AI",
+        "Governance, Regulation & Policy",
+        "How It Works",
+        "Human-AI Relationships",
+        "Inside AI",
+        "Natural Language Processing (NLP)",
+        "Trust, Bias & Fairness",
+        "Workforce & HR AI",
+        "World of Work",
+        "agentic ai",
+        "compliance",
+        "data lakes",
+        "enterprise",
+        "finance",
+        "governance",
+        "guardrails",
+        "hcm",
+        "human resources",
+        "payroll",
+        "recruiting",
+        "sap",
+        "successfactors"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T14:26:45.649Z",
+      "created_at": "2026-04-14T14:26:45.649Z"
+    },
+    {
+      "id": 3769,
+      "source": "AI News",
+      "title_en": "Canada’s Scotiabank preps for its AI future",
+      "description_en": "Scotiabank has launched an AI framework, Scotia Intelligence, for data and AI operations that joins various platforms, data oversight, and software tools into a single instance. According to a press release from the bank, the stated purpose of Scotia Intelligence is to give employees, especially client-facing teams, access to AI under the bank’s existing governance […]\nThe post Canada’s Scotiabank preps for its AI future appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/canadas-scotiabank-preps-for-its-ai-future/",
+      "image_url": null,
+      "pub_date": "Tue, 14 Apr 2026 11:20:00 +0000",
+      "author": "AI News",
+      "categories": [
+        "Finance AI",
+        "agentic ai",
+        "canada",
+        "fintech"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:45.649Z",
+      "created_at": "2026-04-14T14:26:45.649Z"
+    },
+    {
+      "id": 3770,
+      "source": "AI News",
+      "title_en": "Hyundai expands into robotics and physical AI systems",
+      "description_en": "Hyundai Motor Group is starting to look like a company building machines that act in the real world. The change centres on physical AI: Where AI is placed into robots and systems that move and respond in physical spaces. Current efforts are mainly focused on factory and industrial settings. Hyundai’s move into physical AI systems […]\nThe post Hyundai expands into robotics and physical AI systems appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/hyundai-expands-into-robotics-and-physical-ai-systems/",
+      "image_url": null,
+      "pub_date": "Tue, 14 Apr 2026 10:00:00 +0000",
+      "author": "Muhammad Zulhusni",
+      "categories": [
+        "AI Business Strategy",
+        "AI in Action",
+        "Artificial Intelligence",
+        "Featured News",
+        "Features",
+        "Physical AI",
+        "automotive",
+        "engineering",
+        "manufacturing",
+        "physical ai"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:45.649Z",
+      "created_at": "2026-04-14T14:26:45.649Z"
+    },
+    {
+      "id": 3771,
+      "source": "Interesting Engineering",
+      "title_en": "Russia tests quasi-hypersonic round hitting 3,420 mph for anti-drone defense",
+      "description_en": "Russia has tested a new quasi-hypersonic round made for its Dvoinik robotic weapons system. This...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/russia-dvoinik-quasi-hypersonic-round",
+      "image_url": null,
+      "pub_date": "Tue, 14 Apr 2026 13:55:07 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T14:26:46.911Z",
+      "created_at": "2026-04-14T14:26:46.911Z"
+    },
+    {
+      "id": 3772,
+      "source": "Interesting Engineering",
+      "title_en": "US scientists build spring-powered computer that runs without electricity",
+      "description_en": "In a world obsessed with smaller chips and faster charging, a team of scientists just...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/battery-free-computer-using-mechanical-springs",
+      "image_url": "https://www.youtube.com/embed/YlGPfO3dVZg",
+      "pub_date": "Tue, 14 Apr 2026 13:26:33 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T14:26:46.911Z",
+      "created_at": "2026-04-14T14:26:46.911Z"
+    },
+    {
+      "id": 3773,
+      "source": "Interesting Engineering",
+      "title_en": "US begins Hormuz demining with destroyers as blockade disrupts global oil flows",
+      "description_en": "At least four Iran-linked ships have transited the Strait of Hormuz despite the US blockade,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-begins-hormuz-demining-with-destroyers",
+      "image_url": "https://www.youtube.com/embed/yhKnCBIF0zU",
+      "pub_date": "Tue, 14 Apr 2026 13:20:24 +0000",
+      "author": "Georgina Jedikovska",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T14:26:46.911Z",
+      "created_at": "2026-04-14T14:26:46.911Z"
+    },
+    {
+      "id": 3774,
+      "source": "Interesting Engineering",
+      "title_en": "150 million palm trees’ surface fiber waste could help make bio-oil with new trick",
+      "description_en": "The date palm has been a “Tree of Life” in the Middle East, providing shade,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/bio-oil-date-palm-surface-fiber-waste",
+      "image_url": "https://www.youtube.com/embed/dLqSRU_m0vU",
+      "pub_date": "Tue, 14 Apr 2026 13:12:06 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T14:26:46.911Z",
+      "created_at": "2026-04-14T14:26:46.911Z"
+    },
+    {
+      "id": 3775,
+      "source": "Interesting Engineering",
+      "title_en": "New solar-powered airship stays airborne for 12 days at 52,000-ft altitude in test",
+      "description_en": "Sceye’s airship, the solar-powered SE2 high-altitude platform system (HAPS), has successfully completed a 12-day mission...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/new-solar-powered-airship-stays-airborne-for-12-days-at-52000-ft-altitude-in-test",
+      "image_url": null,
+      "pub_date": "Tue, 14 Apr 2026 11:12:31 +0000",
+      "author": "Chris Young",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:46.911Z",
+      "created_at": "2026-04-14T14:26:46.911Z"
+    },
+    {
+      "id": 3776,
+      "source": "Interesting Engineering",
+      "title_en": "‘World-first’ off-grid project combining solar, wind and 5 GWh of battery storage",
+      "description_en": "Fortescue, an Australia-based metals mining major, is working to eliminate fossil fuel usage by shifting...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/australia-off-grid-renewable-energy-mining",
+      "image_url": null,
+      "pub_date": "Tue, 14 Apr 2026 11:07:11 +0000",
+      "author": "Ameya Paleja",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:46.911Z",
+      "created_at": "2026-04-14T14:26:46.911Z"
+    },
+    {
+      "id": 3777,
+      "source": "Interesting Engineering",
+      "title_en": "Regent Squire drone with 8 engines proves three-mode flight capability in test",
+      "description_en": "A scale model of the Regent Squire, a wing-in-ground effect drone promoted as the world’s...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/regent-squire-wing-in-ground-effect-drone",
+      "image_url": "https://www.youtube.com/embed/ixd61vkdEmo",
+      "pub_date": "Tue, 14 Apr 2026 10:25:59 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:46.911Z",
+      "created_at": "2026-04-14T14:26:46.911Z"
+    },
+    {
+      "id": 3778,
+      "source": "Interesting Engineering",
+      "title_en": "New NEMO mortar hits multiple targets at 6.2 miles while moving in first-of-its-kind test",
+      "description_en": "Finnish company Patria showcased a new capability for its NEMO 120 mm turreted mortar during...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/new-mortar-hits-multiple-targets-while-moving",
+      "image_url": "https://www.youtube.com/embed/jrZYl9_DdiQ",
+      "pub_date": "Tue, 14 Apr 2026 10:15:50 +0000",
+      "author": "Sujita Sinha",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:46.911Z",
+      "created_at": "2026-04-14T14:26:46.911Z"
+    },
+    {
+      "id": 3779,
+      "source": "Interesting Engineering",
+      "title_en": "China’s humanoid robot chases boars in Poland, testing real-world AI interactions",
+      "description_en": "A humanoid robot was seen chasing several boars that had wandered onto a street in...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/humanoid-robot-chases-boars-in-poland",
+      "image_url": "https://www.youtube.com/embed/SX4WKUHAP4E",
+      "pub_date": "Tue, 14 Apr 2026 09:57:05 +0000",
+      "author": "Jijo Malayil",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:46.911Z",
+      "created_at": "2026-04-14T14:26:46.911Z"
+    },
+    {
+      "id": 3780,
+      "source": "Interesting Engineering",
+      "title_en": "France readies Rafale F5 with new supersonic missile to beat enemy air defenses",
+      "description_en": "France is moving to restore a critical combat capability amid increasingly complex modern air defenses....",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/france-developing-stratus-supersonic-missile",
+      "image_url": "https://www.youtube.com/embed/WyuVTg8PrU8",
+      "pub_date": "Tue, 14 Apr 2026 09:42:48 +0000",
+      "author": "Sujita Sinha",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:46.911Z",
+      "created_at": "2026-04-14T14:26:46.911Z"
+    },
+    {
+      "id": 3781,
+      "source": "Futurism",
+      "title_en": "Woman Sues OpenAI, Saying ChatGPT Unleashed a Vicious Stalker Against Her and Did Nothing When She Begged for Help",
+      "description_en": "\"His location and plans are something OpenAI could shed light on if they were willing to cooperate.\"\nThe post Woman Sues OpenAI, Saying ChatGPT Unleashed a Vicious Stalker Against Her and Did Nothing When She Begged for Help appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/woman-sues-openai-chatgpt-stalker",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/woman-sues-openai-chatgpt-stalker.jpg?quality=85",
+      "pub_date": "Tue, 14 Apr 2026 10:01:37 -0400",
+      "author": "Maggie Harrison Dupré",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Brain",
+          "$": {
+            "domain": "https://futurism.com/category/brain"
+          }
+        },
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        },
+        {
+          "_": "Health & Medicine",
+          "$": {
+            "domain": "https://futurism.com/category/health-medicine"
+          }
+        },
+        {
+          "_": "Mental Health",
+          "$": {
+            "domain": "https://futurism.com/category/mental-health"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://futurism.com/category/openai"
+          }
+        },
+        {
+          "_": "Privacy",
+          "$": {
+            "domain": "https://futurism.com/category/privacy"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T14:26:47.196Z",
+      "created_at": "2026-04-14T14:26:47.196Z"
+    },
+    {
+      "id": 3782,
+      "source": "Futurism",
+      "title_en": "Psychological Research Finds Trump Supporters Are Not Doing Well",
+      "description_en": "\"I wanted to give those supporters a chance to explain in their own words why they support him.\"\nThe post Psychological Research Finds Trump Supporters Are Not Doing Well appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/health-medicine/psychology-research-trump-supporters",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/psychology-research-trump-supporters.jpg?quality=85",
+      "pub_date": "Tue, 14 Apr 2026 09:02:12 -0400",
+      "author": "Joe Wilkins",
+      "categories": [
+        {
+          "_": "Health & Medicine",
+          "$": {
+            "domain": "https://futurism.com/category/health-medicine"
+          }
+        },
+        {
+          "_": "Brain",
+          "$": {
+            "domain": "https://futurism.com/category/brain"
+          }
+        },
+        {
+          "_": "Education",
+          "$": {
+            "domain": "https://futurism.com/category/education"
+          }
+        },
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        },
+        {
+          "_": "Mental Health",
+          "$": {
+            "domain": "https://futurism.com/category/mental-health"
+          }
+        },
+        {
+          "_": "Studies",
+          "$": {
+            "domain": "https://futurism.com/category/studies"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T14:26:47.196Z",
+      "created_at": "2026-04-14T14:26:47.196Z"
+    },
+    {
+      "id": 3783,
+      "source": "CNBC Tech",
+      "title_en": "Evercore ISI pounds table on Sandisk. Bull case sees rally to $2,600",
+      "description_en": "Shares of Sandisk have already rallied nearly 300% this year. Evercore's bull case sees another 173% jump.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/14/evercore-isi-pounds-table-on-sandisk-bull-case-sees-rally-to-2600.html",
+      "image_url": null,
+      "pub_date": "Tue, 14 Apr 2026 14:18:41 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T14:26:47.410Z",
+      "created_at": "2026-04-14T14:26:47.410Z"
+    },
+    {
+      "id": 3784,
+      "source": "CNBC Tech",
+      "title_en": "Amazon to buy Globalstar to bolster Leo satellite business in deal worth about $11.6 billion",
+      "description_en": "Amazon said it would acquire Globalstar, giving its nascent satellite internet business a boost as it vies to compete with Elon Musk's SpaceX.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/14/amazon-globalstar-satellite-leo-internet.html",
+      "image_url": null,
+      "pub_date": "Tue, 14 Apr 2026 14:01:26 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T14:26:47.410Z",
+      "created_at": "2026-04-14T14:26:47.410Z"
+    },
+    {
+      "id": 3785,
+      "source": "CNBC Tech",
+      "title_en": "JPMorgan earnings, Oracle's $300 million windfall, new Delta suites and more in Morning Squawk",
+      "description_en": "Here are five key things investors need to know to start the trading day.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/14/5-things-to-know-before-the-market-opens.html",
+      "image_url": null,
+      "pub_date": "Tue, 14 Apr 2026 12:07:18 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:47.410Z",
+      "created_at": "2026-04-14T14:26:47.410Z"
+    },
+    {
+      "id": 3786,
+      "source": "Tom's Hardware",
+      "title_en": "Bambu Lab X2D review: Improving a fan favorite",
+      "description_en": "Bambu Lab’s first 3D printer, the X1, gets an overhaul.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/3d-printing/bambu-lab-x2d-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/yoqMh3BcRm7QtwTnTAhVa3-1280-80.jpg",
+      "pub_date": "Tue, 14 Apr 2026 14:00:00 +0000",
+      "author": " Denise Bertacchi ",
+      "categories": [
+        "3D Printing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T14:26:47.435Z",
+      "created_at": "2026-04-14T14:26:47.435Z"
+    },
+    {
+      "id": 3787,
+      "source": "Tom's Hardware",
+      "title_en": "Alienware AW2726DM 27-inch QHD 240 Hz QD-OLED gaming monitor review: A price breakthrough for desktop OLED",
+      "description_en": "Alienware smashes price barriers with the AW2726DM. It’s a 27-inch QHD QD-OLED with 240 Hz, Adaptive-Sync, HDR10, and wide gamut color with an opening price of just $350.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/monitors/gaming-monitors/alienware-aw2726dm-27-inch-qhd-240-hz-qd-oled-gaming-monitor-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/FZh7tyJdWXx8ASNLc5tgnQ-1280-80.jpg",
+      "pub_date": "Tue, 14 Apr 2026 13:00:00 +0000",
+      "author": " Christian Eberle ",
+      "categories": [
+        "Gaming Monitors",
+        "Monitors"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T14:26:47.435Z",
+      "created_at": "2026-04-14T14:26:47.435Z"
+    },
+    {
+      "id": 3788,
+      "source": "Tom's Hardware",
+      "title_en": "Our experts review your astonishing PC builds and setups in Rig Rundown — from wall-mounted setups to a system packed inside of a 1:6 scale RC car",
+      "description_en": "We go through user-submitted PC builds and crown a winner in the inaugural Tom's Hardware Premium Rig Rundown results",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/pc-building/our-experts-review-your-astonishing-pc-builds-and-setups-in-rig-rundown-from-wall-mounted-setups-to-a-system-packed-inside-of-a-1-6-scale-rc-car",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/NBTP8qXjwJwZkKWQX5nXwH-1280-80.jpg",
+      "pub_date": "Tue, 14 Apr 2026 12:38:00 +0000",
+      "author": " Sayem Ahmed ",
+      "categories": [
+        "PC Building",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T14:26:47.435Z",
+      "created_at": "2026-04-14T14:26:47.435Z"
+    },
+    {
+      "id": 3789,
+      "source": "Tom's Hardware",
+      "title_en": "News outlets are blocking Wayback Machine from archiving their pages — 23 outlets concerned AI companies might abuse fair use and use it to train their models",
+      "description_en": "Many major news outlets are blocking the Wayback Machine's crawler from archiving their pages, despite using the tool for their reporting. Their primary concern is that AI tech companies are breaking fair use and training their models on publicly available data.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/news-outlets-are-blocking-wayback-machine-from-archiving-their-pages-23-outlets-concerned-ai-companies-might-abuse-fair-use-and-use-it-to-train-their-models",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/uHrw3MvBA6YAPHgNe2wPU3-1280-80.png",
+      "pub_date": "Tue, 14 Apr 2026 12:27:32 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Big Tech",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T14:26:47.435Z",
+      "created_at": "2026-04-14T14:26:47.435Z"
+    },
+    {
+      "id": 3790,
+      "source": "Tom's Hardware",
+      "title_en": "Mark Zuckerberg reportedly working on AI clone of himself — Meta insiders claim 3D photoreal animated Zuck will be able to engage with employees on his behalf",
+      "description_en": "The very top job at Meta may periodically be delegated to an AI replica of Mark Zuckerberg. Will anyone notice?",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mark-zuckerberg-reportedly-working-on-ai-clone-of-himself-meta-insiders-claim-3d-photoreal-animated-zuck-will-be-able-to-engage-with-employees-on-his-behalf",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/DyGUvTXTnmsaAce2Hy8F8c-1280-80.jpg",
+      "pub_date": "Tue, 14 Apr 2026 12:24:22 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:47.435Z",
+      "created_at": "2026-04-14T14:26:47.435Z"
+    },
+    {
+      "id": 3791,
+      "source": "Tom's Hardware",
+      "title_en": "Score a massive $700 off this 4K-ready Lenovo gaming PC with an RTX 5070 Ti, now just $1,899 — epic Legion Tower 5i pre-built ships with a 20-core Intel CPU, 32GB DDR5 and a 2TB SSD",
+      "description_en": "Save a massive $700 on this Lenovo Legion Tower 5i gaming PC with an Intel Core Ultra 265F CPU, Nvidia GeForce RTX 5070 Ti GPU, 32GB of DDR5-5600 RAM, and a 2TB NVMe SSD, all for just $1,899.99.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/score-a-massive-usd700-off-this-4k-ready-lenovo-gaming-pc-with-an-rtx-5070-ti-now-just-usd1-899-epic-legion-tower-5i-pre-built-ships-with-a-20-core-intel-cpu-32gb-ddr5-and-a-2tb-ssd",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/oV3Qe5zQcmtkCCT9QD9fjH-1280-80.png",
+      "pub_date": "Tue, 14 Apr 2026 12:00:47 +0000",
+      "author": " Ben Stockton ",
+      "categories": [
+        "Gaming PCs",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:47.435Z",
+      "created_at": "2026-04-14T14:26:47.435Z"
+    },
+    {
+      "id": 3792,
+      "source": "Tom's Hardware",
+      "title_en": "Pay $1349.99 for Gigabyte's Aero X16 laptop and save $300 on this 32GB beast with RTX 5070 graphics — outstanding battery life a bonus",
+      "description_en": "Gigabyte's Aero X16 packs 32GB of RAM, a 1TB SSD, and a powerful Nvidia RTX 5070 GPU all for $1349.99 in this Best Buy deal.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/pay-usd1349-99-for-gigabytes-aero-x16-laptop-and-save-usd300-on-this-32gb-beast-with-rtx-5070-graphics-outstanding-battery-life-a-bonus",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/oyvktUpnVpME8bmAAFdLvd-1280-80.jpg",
+      "pub_date": "Tue, 14 Apr 2026 11:43:10 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "Gaming Laptops",
+        "Laptops"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:47.435Z",
+      "created_at": "2026-04-14T14:26:47.435Z"
+    },
+    {
+      "id": 3793,
+      "source": "Tom's Hardware",
+      "title_en": "Veteran Windows dev shows off AI running on 47-year-old PDP11 with 6 MHz CPU and 64KB of RAM — 'gloriously absurd' project runs transformer model written in PDP-11 assembly language",
+      "description_en": "Ancient 6 MHz ‘PDP11 can train a neural network’ says veteran dev.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/veteran-windows-dev-shows-off-ai-running-on-47-year-old-pdp11-with-6-mhz-cpu-and-64kb-of-ram-gloriously-absurd-project-runs-transformer-model-written-in-pdp-11-assembly-language",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/NKyHUCJ6B3VMnMf9oxHC54-1280-80.jpg",
+      "pub_date": "Tue, 14 Apr 2026 10:45:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:47.435Z",
+      "created_at": "2026-04-14T14:26:47.435Z"
+    },
+    {
+      "id": 3794,
+      "source": "Tom's Hardware",
+      "title_en": "Half of all US employees now use artificial intelligence at work, crossing landmark threshold for first time — Gallup data shows daily and weekly usage hitting all-time high of 28% in Q1 2026, with 65% feeling positive about its impact on productivity",
+      "description_en": "50% of American adults in employment use AI at least once a year, with 28% using it daily or weekly, according to a new Gallup survey. While AI-focused companies are seeing huge disruption, 65% of those employees felt positive about its individual impact on their productivity.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/half-of-all-us-employees-now-use-artificial-intelligence-at-work-crossing-landmark-threshold-for-first-time-gallup-data-shows-daily-and-weekly-usage-hitting-all-time-high-of-28-percent-in-q1-2026-with-65-percent-feeling-positive-about-its-impact-on-productivity",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/MEJnfpzr4aaVDtGEnb6R8R-1280-80.jpg",
+      "pub_date": "Tue, 14 Apr 2026 10:40:00 +0000",
+      "author": " Ben Stockton ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:47.435Z",
+      "created_at": "2026-04-14T14:26:47.435Z"
+    },
+    {
+      "id": 3795,
+      "source": "Tom's Hardware",
+      "title_en": "China has spent 3.6 times more than the US on chipmaking subsidies over the past decade — $142 billion and counting, easily outweighs CHIPS Act",
+      "description_en": "Semiconductor industrial policy spending in China totaled around $142 billion between 2014 and 2023, roughly 3.6 times higher than the $39 billion committed in the United States over the same period.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/china-spending-3-6-times-more-than-the-us-on-chipmaking-subsidies",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ScWkdXEcbCzcmrjizukTn7-1280-80.jpg",
+      "pub_date": "Tue, 14 Apr 2026 10:20:00 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:47.435Z",
+      "created_at": "2026-04-14T14:26:47.435Z"
+    },
+    {
+      "id": 3796,
+      "source": "Tom's Hardware",
+      "title_en": "FAA approves military use of drone-killing laser weapons in US airspace — decision comes after it was decided ‘systems do not present an increased risk to the flying public’",
+      "description_en": "The Federal Aviation Administration (FAA) has decided to give carte blanche approval to the military’s use of laser weaponry to shoot down suspected errant drones in US airspace.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/faa-green-lights-military-use-of-laser-drone-zapping-weaponry-in-us-airspace-decision-comes-after-it-was-decided-systems-do-not-present-an-increased-risk-to-the-flying-public",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/RJQRtjRZDEjqgfK5ctgzYo-1280-80.jpg",
+      "pub_date": "Tue, 14 Apr 2026 10:00:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:47.435Z",
+      "created_at": "2026-04-14T14:26:47.435Z"
+    },
+    {
+      "id": 3797,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia says AI cuts 10-month, eight-engineer GPU design task to overnight job — company is still 'a long way' from AI designing chips without human input",
+      "description_en": "Nvidia widely uses AI for different stages of the chip design process, though it admits that AI is a long way from designing chips completely autonomously.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-says-ai-cuts-10-month-eight-engineer-gpu-design-task-to-overnight-job-company-is-still-a-long-way-from-ai-designing-chips-without-human-input",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/9s4cqR4eRw8UU7Je6SBRK3-1280-80.jpg",
+      "pub_date": "Tue, 14 Apr 2026 09:52:33 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-14T14:26:47.435Z",
+      "created_at": "2026-04-14T14:26:47.435Z"
     }
   ]
 }
