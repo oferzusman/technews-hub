@@ -73576,7 +73576,7 @@
         "successfactors"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-14T14:26:45.649Z",
       "created_at": "2026-04-14T14:26:45.649Z"
     },
@@ -73660,7 +73660,7 @@
       "author": "Mrigakshi Dixit",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-14T14:26:46.911Z",
       "created_at": "2026-04-14T14:26:46.911Z"
     },
@@ -73677,7 +73677,7 @@
       "author": "Georgina Jedikovska",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-14T14:26:46.911Z",
       "created_at": "2026-04-14T14:26:46.911Z"
     },
@@ -73694,7 +73694,7 @@
       "author": "Mrigakshi Dixit",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-14T14:26:46.911Z",
       "created_at": "2026-04-14T14:26:46.911Z"
     },
@@ -73910,7 +73910,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-14T14:26:47.196Z",
       "created_at": "2026-04-14T14:26:47.196Z"
     },
@@ -74000,7 +74000,7 @@
         "Monitors"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-14T14:26:47.435Z",
       "created_at": "2026-04-14T14:26:47.435Z"
     },
@@ -74020,7 +74020,7 @@
         "Desktops"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-14T14:26:47.435Z",
       "created_at": "2026-04-14T14:26:47.435Z"
     },
@@ -74040,7 +74040,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-14T14:26:47.435Z",
       "created_at": "2026-04-14T14:26:47.435Z"
     },
@@ -74201,6 +74201,263 @@
       "priority": "batch",
       "fetchedAt": "2026-04-14T14:26:47.435Z",
       "created_at": "2026-04-14T14:26:47.435Z"
+    },
+    {
+      "id": 3798,
+      "source": "TechCrunch AI",
+      "title_en": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+      "description_en": "The first StrictlyVC of the year will be coming to San Francisco before you know it.\n\nThere are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+      "image_url": null,
+      "pub_date": "Tue, 14 Apr 2026 15:30:49 +0000",
+      "author": "TechCrunch Events",
+      "categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "Venture",
+        "Replit",
+        "StrictlyVC",
+        "TDK Ventures"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T15:49:49.988Z",
+      "created_at": "2026-04-14T15:49:49.988Z"
+    },
+    {
+      "id": 3799,
+      "source": "TechCrunch AI",
+      "title_en": "Google brings its Gemini Personal Intelligence feature to India",
+      "description_en": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+      "image_url": null,
+      "pub_date": "Tue, 14 Apr 2026 14:48:34 +0000",
+      "author": "Ivan Mehta",
+      "categories": [
+        "AI",
+        "Apps",
+        "TC",
+        "gemini",
+        "Google"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T15:49:49.989Z",
+      "created_at": "2026-04-14T15:49:49.989Z"
+    },
+    {
+      "id": 3800,
+      "source": "The Decoder",
+      "title_en": "Ukraine captures a Russian position using only drones and ground robots",
+      "description_en": "President Zelenskyy announces a historic first: a Russian position taken entirely by unmanned systems. A CSIS report details how AI is already changing Ukraine's battlefield and where the limits remain.\nThe article Ukraine captures a Russian position using only drones and ground robots appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/ukraine-captures-a-russian-position-using-only-drones-and-ground-robots/",
+      "image_url": null,
+      "pub_date": "Tue, 14 Apr 2026 15:37:43 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "AI and warfare",
+        "Ukraine"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T15:49:53.021Z",
+      "created_at": "2026-04-14T15:49:53.021Z"
+    },
+    {
+      "id": 3801,
+      "source": "The Guardian AI",
+      "title_en": "Could AI write this column? In a world of slop-inion, I’m certifying myself human | Peter Lewis",
+      "description_en": "I actually don’t want to make my work easier. We should demand authenticity if we care about the sort of society that comes out the other end of this so-called revolution\nI never thought I’d have to write these words but here I am: my name is Peter and I am human.\nWhat seems like a self-evident proclamation needs to be made now because the misuse of AI is transforming considered op-eds such as this into “slop-inion” that is infecting the editorial pages of reputable media outlets.\n Continue read",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/14/ai-opinion-piece-column-writing-articles-certified-human-writer",
+      "image_url": "https://i.guim.co.uk/img/media/afaa3fc95e83972c212efc38990efd58420f7582/397_0_5971_4781/master/5971.jpg?width=140&quality=85&auto=format&fit=max&s=8cd63f0e7941880de4e77faa46fde0a7",
+      "pub_date": "Tue, 14 Apr 2026 15:00:43 GMT",
+      "author": "Peter Lewis",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/media"
+          }
+        },
+        {
+          "_": "Australian media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/australia-media"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T15:49:55.539Z",
+      "created_at": "2026-04-14T15:49:55.539Z"
+    },
+    {
+      "id": 3802,
+      "source": "Futurism",
+      "title_en": "There’s Something Extremely Shady About Trump’s Disastrous New NASA Budget",
+      "description_en": "\"This is the least transparent NASA budget request I've ever seen.\"\nThe post There’s Something Extremely Shady About Trump’s Disastrous New NASA Budget appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/space/trump-nasa-budget-transparency-errors",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/trump-nasa-budget-transparency-errors.jpg?quality=85",
+      "pub_date": "Tue, 14 Apr 2026 11:18:09 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Space",
+          "$": {
+            "domain": "https://futurism.com/category/space"
+          }
+        },
+        {
+          "_": "Astronomy",
+          "$": {
+            "domain": "https://futurism.com/category/astronomy"
+          }
+        },
+        {
+          "_": "Mars",
+          "$": {
+            "domain": "https://futurism.com/category/mars"
+          }
+        },
+        {
+          "_": "Moon",
+          "$": {
+            "domain": "https://futurism.com/category/moon"
+          }
+        },
+        {
+          "_": "NASA",
+          "$": {
+            "domain": "https://futurism.com/category/nasa"
+          }
+        },
+        {
+          "_": "Off-World",
+          "$": {
+            "domain": "https://futurism.com/category/off-world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T15:49:58.360Z",
+      "created_at": "2026-04-14T15:49:58.360Z"
+    },
+    {
+      "id": 3803,
+      "source": "Tom's Hardware",
+      "title_en": "Intel's promising upcoming Nova Lake-S lineup reportedly includes an iGPU-focused SKU with 12 Xe3P cores — new leak claims a midrange 16-core CPU with powerful integrated graphics is in the works",
+      "description_en": "A new leak claims Intel is prepping a 16-core CPU featuring 12 Xe3P iGPU cores, likely targeting the Ryzen G-series APUs. AMD's latest desktop APUs top out at only 8 RDNA 3.5 CUs, while the Arc B390M in Panther Lake already beats the Radeon 890M in Strix Point. That means 12 Xe3P cores on an NVL-S chip would be a heaven-sent for gamers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/intels-promising-upcoming-nova-lake-s-lineup-reportedly-includes-an-igpu-focused-sku-with-12-xe3p-cores-new-leak-claims-a-midrange-16-core-cpu-with-powerful-integrated-graphics-is-in-the-works",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/6dhScSyVh9hBM75rUoJ4qN-1280-80.jpg",
+      "pub_date": "Tue, 14 Apr 2026 15:15:23 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T15:49:58.458Z",
+      "created_at": "2026-04-14T15:49:58.458Z"
+    },
+    {
+      "id": 3804,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia squashes rumor it’s planning to purchase a major PC manufacturer — says that it’s ‘not engaged in discussions to acquire any PC maker’",
+      "description_en": "Nvidia said that it wasn't in talks with another PC manufacturer to acquire it, despite rumors saying that it has been discussing the possibility since 2024.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-squashes-rumor-its-planning-to-purchase-a-major-pc-manufacturer-says-that-its-not-engaged-in-discussions-to-acquire-any-pc-maker",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vfLy5PcKHn93qzbpMvFh34-1280-80.jpg",
+      "pub_date": "Tue, 14 Apr 2026 14:51:31 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Big Tech",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T15:49:58.458Z",
+      "created_at": "2026-04-14T15:49:58.458Z"
+    },
+    {
+      "id": 3805,
+      "source": "Tom's Hardware",
+      "title_en": "Grab the ultra-fast Elegoo Centauri Carbon 3D printer for just $285 right now, saving you $128 — limited-time sale price nets you a fully enclosed Core-XY printer built for beginners and enthusiasts",
+      "description_en": "The Elegoo Centauri Carbon, one of our all-time favorite 3D printers, is on sale for a limited-time only, down to just $285.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/3d-printing/grab-the-ultra-fast-elegoo-centauri-carbon-3d-printer-for-just-usd285-right-now-saving-you-usd128-limited-time-sale-price-nets-you-a-fully-enclosed-core-xy-printer-built-for-beginners-and-enthusiasts",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/qybhiujhexY5ckuXf2wXcP-1280-80.png",
+      "pub_date": "Tue, 14 Apr 2026 14:47:26 +0000",
+      "author": " Ben Stockton ",
+      "categories": [
+        "3D Printing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T15:49:58.458Z",
+      "created_at": "2026-04-14T15:49:58.458Z"
+    },
+    {
+      "id": 3806,
+      "source": "Tom's Hardware",
+      "title_en": "China's premiere memory-maker YMTC plans two additional Wuhan fabs using homegrown chipmaking tools — Phase 3 crosses 50% domestic tooling threshold",
+      "description_en": "China’s Yangtze Memory Technologies plans to build two fabs beyond the Phase 3 plant that it’s due to complete in Wuhan this year.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/ymtc-planms-two-additional-wuhan-fabs",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/jgrPBDyZM4cBztnYG8QA33-1280-80.jpg",
+      "pub_date": "Tue, 14 Apr 2026 14:31:08 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T15:49:58.458Z",
+      "created_at": "2026-04-14T15:49:58.458Z"
+    },
+    {
+      "id": 3807,
+      "source": "CNBC Tech",
+      "title_en": "Oracle jumps for a second day, Bloom Energy soars 20% on AI data center power deal",
+      "description_en": "Oracle stocks bounced as software shares continued to recover and the company expanded a capacity deal with Bloom Energy.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/14/oracle-orcl-bloom-energy-be-stock-data-center-ai-power.html",
+      "image_url": null,
+      "pub_date": "Tue, 14 Apr 2026 14:49:54 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T15:49:58.462Z",
+      "created_at": "2026-04-14T15:49:58.462Z"
     }
   ]
 }
