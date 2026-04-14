@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Rolls-Royce to build 470-megawatt nuclear reactors to power 3 million UK homes\n\nThe UK’s new nuclear approval at Wylfa officially kicks off what the government calls a...",
+    "t": "רולס-רויס תבנה ריאקטורים גרעיניים בהספק 470 מגוואט לכוח 3 מיליון בתים בבריטניה\n\nבריטניה אישרה רשמית את הפרויקט הגרעיני החדש של רולס-רויס בموקע וילפה, ובעזרתו תוכל להנעיל את הטרנזישן האנרגטי של המדינה. הריאקטורים הקומפקטיים האלה תופסים פחות מקום מאנרגיה גרעינית מסורתית אבל יכולים לספק חשמל למיליונים של בתים - זה כמו להחליף את כל תחנת כוח ענקית במשהו שהרבה יותר חכם וחסכוני.",
     "d": "Tue, 14 Apr 2026 08:51:41 +0000",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "NVIDIA and the University of Maryland Researchers Released Audio Flamingo Next (AF-Next): A Super Powerful and Open Large Audio-Language Model\n\nUnderstanding audio has always been the multimodal frontier that lags behind vision. While image-language models have rapidly scaled toward real-world deployment, building open models that robustly reason over speech, environmental sounds, and music — especially at length — has remained quite hard. NVIDIA and the University of Maryland researchers are now taking a direct swing […]\nThe post NVIDIA and the University of Maryland Researchers Released Audio Flamingo Next (AF-Next): A Super Powerful ",
+    "t": "NVIDIA והאוניברסיטה של מרילנד שחררו את Audio Flamingo Next (AF-Next): מודל שפה-אודיו ענק חזק וזמין לציבור\n\nעד היום, הבנת אודיו הייתה הגבול החלש ביותר בתחום מודלים מולטימודליים - בעוד מודלים תמונה-שפה כבר מתפרסמים בעולם האמיתי, בניית מודלים פתוחים שיכולים להבין דיבור, צלילים סביבתיים ומוזיקה על כל אורכם נשארה כמו לא אפשרי. NVIDIA והחוקרים מאוניברסיטת מרילנד הם פשוט לא מסכימים - הם פיתחו מודל Audio Language חדש שמבטיח למהפוך את הנושא למראשית. הזו אמיתית לדלת נחמדה לתחום AI שעוד בתחתון.",
     "d": "Tue, 14 Apr 2026 08:24:23 +0000",
     "v": 0,
     "l": [
@@ -50,7 +50,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "OpenAI acquires AI finance startup Hiro, which built a \"personal AI CFO\"\n\nOpenAI acquires the team behind AI finance startup Hiro. The service is shutting down, and all user data will be deleted.\nThe article OpenAI acquires AI finance startup Hiro, which built a \"personal AI CFO\" appeared first on The Decoder.",
+    "t": "OpenAI קונה את Hiro - סטארטאפ שבנה \"CFO AI אישי\"\n\nOpenAI ספגה את הצוות מאחורי Hiro, סטארטאפ שהתמחה בעזרה פיננסית בעזרת בינה מלאכותית. השירות עומד להסגר לגמרי וכל הנתונים של המשתמשים יימחקו, אבל נראה שהחוכמה מאחוריו תרד לתוך המערכות של OpenAI. זאת עוד רכישה בגלל טלנט של החברה הגדולה בעולם ה-AI.",
     "d": "Tue, 14 Apr 2026 08:20:12 +0000",
     "v": 0,
     "l": [
@@ -70,13 +70,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 4,
-    "t": "Cheeky caterpillars trick ants into treating them as queens\n\nBaby caterpillars have figured out how to get themselves the royal treatment in certain ant colonies – getting carried around like precious cargo, fed on demand, guarded and being rescued from danger. But why would ants give this celebrity status to a caterpillar? The secret lies in perfect mimicry: the caterpillar copies not just the queen ant’s chemical scent, but the exact rhythm of her vibrations.\nContinue Reading\nCategory: Biology, Science\nTags: Insect, Ants, Butterfly, Caterpillar",
+    "t": "זחלי פרפר ערמומיים מטעים נמלים שהם מלכות\n\nזחלי פרפר תינוקות גילו טריק מדהים - הם משכנעים נמלים שהם מלכות ומקבלים טיפול מלכותי כולל הובלה, אכילה בדרישה וביטחון אישי. הסוד הוא בהעתקה מושלמת: הזחל לא רק מחקה את ריח הכימיקל של מלכת הנמלים, אלא גם את הקצב המדויק של הרעידות שלה. זה אחד מהדברים המטורפים ביותר בטבע שמראה כמה מתוחכם יכול להיות האבולוציה. | מקור: New Atlas",
     "d": "Tue, 14 Apr 2026 07:02:00 GMT",
     "v": 0,
     "l": [
@@ -99,7 +99,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Autonomous wing-in-ground effect aircraft has US military in its sights\n\nRegional Electric Ground Effect Nautical Transport (REGENT) has completed the maiden flight of Squire, an autonomous variant of the company's Wing-in-Ground Effect Seaglider aircraft that's being pitched to the US military for logistical duty.\nContinue Reading\nCategory: Military, Engineering\nTags: Aircraft, Ground Effect Vehicle, Department of Defense",
+    "t": "כלי טיס אוטונומי עם אפקט כנף-קרקע משוך את תשומת ליב הצבא האמריקאי\n\nהחברה REGENT בדקה בהצלחה את הטיסה הראשונה של Squire, גרסה אוטונומית של כלי הטיסה Wing-in-Ground Effect שלהם שמטרגט את הצבא האמריקאי למשימות לוגיסטיות. הטכנולוגיה של ground effect - שמנצלת את האוויר הדחוס בין הכנפיים לקרקע לשיפור יעילות - יכולה לשנות משחק בהובלת אספקה לאזורים קשים להנגשה. זה עוד דוגמה לאיך צבאות מתחילים להשתמש בפתרונות אוטונומיים בתחום הלוגיסטיקה והובלה.",
     "d": "Tue, 14 Apr 2026 05:04:35 GMT",
     "v": 0,
     "l": [
@@ -114,8 +114,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -123,7 +122,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Open Agents\n\nDiscussion\n            |\n            Link",
+    "t": "Open Agents\n\nזה נראה כמו דיון חדש שעלה ב-Product Hunt סביב Open Agents - כנראה פלטפורמה או כלי חדש שעוסק בעבודה עם AI agents. גם אם הפרטים דלים, התנעורה בקהילה ההייטק מצביעה על משהו מעניין שכדאי לעקוב אחריו. מי שמעוניין ללמוד עוד, הקישור יוביל אתכם ישר לדיון המלא עם כל הדטיילס.",
     "d": "2026-04-14T04:18:25.000Z",
     "v": 0,
     "l": [
@@ -174,7 +173,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "GitHub Stacked PRs\n\nDiscussion\n            |\n            Link",
+    "t": "GitHub Stacked PRs\n\nGitHub משיקה תכונה חדשה שמאפשרת למפתחים לעבוד על Pull Requests מוערמים, כלומר PRs שתלויים זה בזה בצורה מובנית. זה פותח דלתות לסרטן קוד יותר קל ללא צורך בהמתנה לmerge של PR אחד לפני עבודה על השני. תכונה שנראית כמו game-changer לצוותים שעובדים על תכניות גדולות עם הרבה branches מקביליות.",
     "d": "2026-04-14T02:22:48.000Z",
     "v": 0,
     "l": [
@@ -220,7 +219,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Strix Agents\n\nDiscussion\n            |\n            Link",
+    "t": "סטריקס אגנטים\n\nנראה שמדובר בכלי או פלטפורמה חדשה שהוצגה ב-Product Hunt, אבל ההשמות אינם מלאים מספיק כדי להבין בדיוק מה זה עוזר. אם זה קשור ל-AI agents, זה יכול להיות משהו שיעזור לאוטומציה או לתהליכים חכמים. נחכה לעוד פרטים מהקהילה בדיון!",
     "d": "2026-04-14T01:26:19.000Z",
     "v": 0,
     "l": [
@@ -244,7 +243,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "send/links\n\nDiscussion\n            |\n            Link",
+    "t": "send/links\n\nנראה שמדובר בדיון קצר סביב כלי או שירות חדש בשם send/links שהוצג ב-Product Hunt. בלי פרטים נוספים, קשה להגיד בדיוק על מה זה, אבל כנראה שזה משהו קשור לשיתוף או שליחת לינקים בדרך מה.",
     "d": "2026-04-14T00:51:25.000Z",
     "v": 0,
     "l": [
@@ -267,7 +266,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Mutiny\n\nDiscussion\n            |\n            Link",
+    "t": "מרד\n\nפלטפורמה חדשה שמאפשרת לחברות להתנהל בצורה יותר דמוקרטית ופתוחה, כשעובדים יכולים להיות חלק מעמוקה של קבלת ההחלטות. זה כמו להפוך את הארגון שלך לפחות היררכי וקצת יותר בעברית של 'מרד טוב'. מעניין לראות איך סטארטאפים בישראל יכולים להשתמש בכלי כזה כדי לשפר את תרבות העבודה שלהם. מקור: Product Hunt",
     "d": "2026-04-14T00:32:13.000Z",
     "v": 0,
     "l": [
@@ -716,7 +715,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 31,
-    "t": "Vector\n\nDiscussion\n            |\n            Link",
+    "t": "וקטור\n\nזה נראה כמו דיון או פוסט על פלטפורמת Product Hunt, אבל בלי תוכן מפורש, קשה לדעת בדיוק על מה מדובר. אם זה כלי או שירות חדש בתחום ה-AI או הטכנולוגיה, כנראה שחכם לחכות להפצת מידע מלא כדי להבין את הפוטנציאל האמיתי שלו.",
     "d": "2026-04-13T20:22:51.000Z",
     "v": 0,
     "l": [
@@ -762,7 +761,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 33,
-    "t": "Softr AI Co-Builder\n\nDiscussion\n            |\n            Link",
+    "t": "Softr AI Co-Builder\n\nSoftr השיקה כלי AI חדש שמסייע לבניית אפליקציות web ללא צורך בקוד. המערכת פועלת כ-co-builder חכם שעוזר למשתמשים לתרגם את הרעיונות שלהם לאפליקציות בפועל בזמן אמת, תוך הפחתת המורכבות של תהליך הפיתוח המסורתי.",
     "d": "2026-04-13T20:08:07.000Z",
     "v": 0,
     "l": [
@@ -900,7 +899,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 39,
-    "t": "Shuffle AI Redesign Extension\n\nDiscussion\n            |\n            Link",
+    "t": "הרחבת Shuffle AI - עיצוב מחדש\n\nShuffle AI השיקה הרחבת דפדפן חדשה עם ממשק משופר שמעניקה למשתמשים דרך יותר נוחה לעבודה עם AI tools. הרחבה זו נועדה לזרז את תהליך העבודה של מי שמשתמשים בכלים מבוססי AI בצורה יומיומית. המשתמשים כבר החלו לדיון על האפשרויות החדשות שהרחבה מביאה לשולחן העבודה שלהם.\n\nמקור: Product Hunt",
     "d": "2026-04-13T19:10:38.000Z",
     "v": 0,
     "l": [
@@ -1089,7 +1088,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 47,
-    "t": "HeyGen CLI\n\nDiscussion\n            |\n            Link",
+    "t": "HeyGen CLI\n\nHeyGen הוציאה כלי command-line חדש שמאפשר למפתחים לעבוד עם הפלטפורמה שלהם ישירות מהטרמינל, ללא צורך בממשק משתמש גרפי. זה פותח אפשרויות חדשות לאוטומציה של תהליכי יצירת וידאו ואינטגרציה עמוקה יותר בסביבות עבודה קיימות של מפתחים.",
     "d": "2026-04-13T18:05:07.000Z",
     "v": 0,
     "l": [
@@ -1325,7 +1324,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 57,
-    "t": "shutup-mcp\n\nDiscussion\n            |\n            Link",
+    "t": "shutup-mcp\n\nפרויקט חדש שעלה לדיון בקהילת המפתחים, כנראה כלי או ספריה שקשורה ל-MCP (Model Context Protocol). בלי פרטים מלאים, נראה שזה משהו שמתעסק בשיתוף פעולה עם מודלים של AI או בניהול קונטקסט בצורה כלשהי. השמור זמין ב-Product Hunt לבדיקה מעמיקה יותר.",
     "d": "2026-04-13T16:42:51.000Z",
     "v": 0,
     "l": [
@@ -1444,7 +1443,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 62,
-    "t": "Caveman\n\nDiscussion\n            |\n            Link",
+    "t": "קייווומן\n\nמוצר חדש שעלה ל-Product Hunt, אבל מידע מפורט על מה בדיוק זה עדיין לא ברור. נראה שזה משהו שיתן עלינו לדיון עמוק - אולי כלי עבודה חדש או פלטפורמה? בכל מקרה, זה דיוק המין של מוצר מסתורי שמעורר סקרנות בקהילת ה-tech.",
     "d": "2026-04-13T16:18:57.000Z",
     "v": 0,
     "l": [
@@ -1849,7 +1848,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 79,
-    "t": "Ghost Pepper 🌶️\n\nDiscussion\n            |\n            Link",
+    "t": "Ghost Pepper 🌶️\n\nמוצר חדש שהופיע ב-Product Hunt שנראה שקשור לאפליקציה או שירות כלשהו (תקציר מלא לא זמין). זה בהחלט משהו שערעור אנשים דיברו עליו בקהילת המוקדמים, אבל עדיין לא ברור בדיוק מה זה עושה. אם אתם רוצים לדעת יותר, כנראה שצריך להיכנס ישירות לעמוד של המוצר כדי להבין על מה כל ההמולה.",
     "d": "2026-04-13T13:39:18.000Z",
     "v": 0,
     "l": [
@@ -1895,7 +1894,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 81,
-    "t": "OptiClear\n\nDiscussion\n            |\n            Link",
+    "t": "OptiClear - כלי חדש לשיפור ووידיאו ותמונות\n\nאם אתם מחפשים דרך קלה לשדרג את איכות התמונות והסרטונים שלכם, OptiClear יכול להיות בדיוק מה שחיכיתם לו. הכלי החדש הזה משתמש בטכנולוגיה חכמה כדי לנקות רעשים ולשדרג את הקנה מידה של media שלכם בקליק אחד. זה נראה כמו עוד כלי AI שפשוט משדרג את חייך הדיגיטליים. | מקור: Product Hunt",
     "d": "2026-04-13T13:23:13.000Z",
     "v": 0,
     "l": [
@@ -2445,7 +2444,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 104,
-    "t": "HumanInbox\n\nDiscussion\n            |\n            Link",
+    "t": "HumanInbox\n\nכלי חדש שמוקדש לניהול תיבות דוא״ל בצורה חכמה יותר עם שימוש בטכנולוגיית AI. המערכת מסייעת למשתמשים לארגן ולמיין את המיילים שלהם בצורה אוטומטית, כדי שתוכלו להתמקד במה שבאמת חשוב. זה פתרון שנראה לא כל כך פשוט אבל ממש שימושי עבור כל מי שסובל מתיבת דוא״ל שמלאה בהודעות.",
     "d": "2026-04-13T10:01:11.000Z",
     "v": 0,
     "l": [
@@ -2560,7 +2559,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 109,
-    "t": "FC Tactix\n\nDiscussion\n            |\n            Link",
+    "t": "FC Tactix\n\nנראה שמדובר בכלי או פלטפורמה הקשורה לפוטבול וטקטיקה (Tactix = טקטיקה), אבל עם מידע מוגבל כזה, קשה לדעת בדיוק מה זה. אם זה קשור ל-AI או לאנליזה של משחקים, זה יכול להיות משהו חדש והמעניין לאוהדי כדורגל וגם למעניינים בטכנולוגיה ספורט. כדי שנוכל לתת לכם סיכום משמעותי, נחכה לפרטים נוספים על הפלטפורמה.",
     "d": "2026-04-13T09:53:12.000Z",
     "v": 0,
     "l": [
@@ -2773,7 +2772,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 118,
-    "t": "LeetCode App\n\nDiscussion\n            |\n            Link",
+    "t": "אפליקציית LeetCode\n\nקהילת מפתחים בישראל עשויה להכיר את LeetCode כפלטפורמה למתרגלים שאלות קידוד, והנה רעיון משדרג - כעת האפליקציה מובילה דיון סוער בקרב הקהילה הטכנולוגית. הכלי המפורסם לתרגול אלגוריתמים וקבלת משרות בחברות ה-FAANG השיקה גרסה חדשה שכבר מעלה שאלות למעניין בקהל.",
     "d": "2026-04-13T08:38:17.000Z",
     "v": 0,
     "l": [
@@ -3541,7 +3540,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 150,
-    "t": "Creativly\n\nDiscussion\n            |\n            Link",
+    "t": "Creativly\n\nנראה שמדובר בכלי או פלטפורמה חדשה שהוצגה ב-Product Hunt, אבל המידע הזמין די דל. אם אתם מחפשים דיוק יותר על מה בדיוק Creativly עושה ואם זה משהו שצריך להיות בכם על הרדאר - כדאי להיכנס ישירות לדף המוצר כדי לקבל את הפרטים המלאים.",
     "d": "2026-04-12T20:16:22.000Z",
     "v": 0,
     "l": [
@@ -4185,7 +4184,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 178,
-    "t": "CatDoes v4\n\nDiscussion\n            |\n            Link",
+    "t": "CatDoes גרסה 4\n\nנראה שיש לנו עדכון חדש של CatDoes שהגיע לגרסה 4, וזה כנראה כולל כמה שיפורים וfeaturesים חדשים שהקהילה דנה עליהם. המוצר זוכה לעדכוני קבועים וזה סימן טוב לפיתוח פעיל של הפלטפורמה. אם אתה משתמש בכלי זה, כדאי להתעדכן ולראות מה החדש בגרסה הזו.",
     "d": "2026-04-12T18:18:03.000Z",
     "v": 0,
     "l": [
@@ -4280,7 +4279,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 182,
-    "t": "AS Notes\n\nDiscussion\n            |\n            Link",
+    "t": "AS Notes\n\nנראה שמדובר בכלי או שירות חדש שנוסף ל-Product Hunt, אבל הפרטים עדיין לא ברורים לגמרי מהעמוד. אם זה כלי הערות או תיעוד כלשהו, זה כנראה משהו שמטרתו לעזור למפתחים או חברות לארגן ולשתף מידע בצורה יעילה יותר.",
     "d": "2026-04-12T17:29:07.000Z",
     "v": 0,
     "l": [
@@ -4614,7 +4613,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 196,
-    "t": "Gastos\n\nDiscussion\n            |\n            Link",
+    "t": "Gastos\n\nנראה שמדובר בפרוייקט או כלי שטרם עלינו מידע מפורט עליו. אם זה אפליקציה לניהול הוצאות או פיתוח טכנולוגי כלשהו, זה כנראה משהו שמעסיק את קהילת Product Hunt. אנחנו מחכים לפרטים נוספים כדי לתת לכם סיכום מדוייק יותר!",
     "d": "2026-04-12T14:51:44.000Z",
     "v": 0,
     "l": [
@@ -5186,7 +5185,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 220,
-    "t": "Barometric Pressure Offline\n\nDiscussion\n            |\n            Link",
+    "t": "ירידה בלחץ הבארומטר - מערכת במצב לא מקוון\n\nנראה שיש כאן בעיה כלשהי עם שירות או API הקשור למדידות בארומטריות. זה עשוי להיות בעיה טכנית שדורשת תשומת לב מהצוות שלאחריו, או אולי פיצ'ר שחדש באתר Product Hunt וממתין לעזרה של הקהילה.",
     "d": "2026-04-12T11:29:31.000Z",
     "v": 0,
     "l": [
@@ -6226,7 +6225,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 263,
-    "t": "Cascode\n\nDiscussion\n            |\n            Link",
+    "t": "קסקוד (Cascode)\n\nכנראה שמדובר בעלייה חדשה של טכניקת Cascode, הטכנולוגיה הקלאסית שמשפרת את ביצועי מעגלים אלקטרוניים. אם זה קשור לעולם ה-AI והשיפור של יעילות חישובית, זה יכול להיות דיון מעניין על כיצד טכניקות ישנות מוצאות חיים חדש בעידן החדש של machine learning. זה משהו שכדאי לעקוב אחריו אם אתם מעוניינים בשיפור ביצועים של GPU וחומרה לאימון מודלים.",
     "d": "2026-04-11T15:56:38.000Z",
     "v": 0,
     "l": [
@@ -6239,9 +6238,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Nvidia"
+    ],
     "tags": [
-      "news"
+      "news",
+      "hardware"
     ],
     "imp": "low",
     "thumb": null,
@@ -7288,7 +7290,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 308,
-    "t": "FrameCube\n\nDiscussion\n            |\n            Link",
+    "t": "FrameCube\n\nFrameCube הוא כלי חדש שהופיע ב-Product Hunt שנראה כמו פתרון מעניין לעבודה עם תמונות ווידאו. מבחינה ראשונית אנחנו עדיין בחשיבת מה בדיוק זה יכול לעשות, אבל זה בהחלט משהו שכדאי לעקוב אחריו אם אתה עובד בעריכה או קונטנט.",
     "d": "2026-04-11T06:29:21.000Z",
     "v": 0,
     "l": [
@@ -7475,7 +7477,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 316,
-    "t": "SQL Gnome\n\nDiscussion\n            |\n            Link",
+    "t": "SQL Gnome\n\nכלי חדש שמגיע לעזור לכם עם SQL ובניית בסיסי נתונים בצורה יותר חכמה ויעילה. זה נראה כמו פתרון שימושי למפתחים שמתעסקים הרבה עם queries ו-databases. התגלית הזאת מוזכרת ב-Product Hunt והיא שווה בדיקה אם אתם עובדים עם SQL.",
     "d": "2026-04-11T00:45:35.000Z",
     "v": 0,
     "l": [
@@ -7570,7 +7572,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 320,
-    "t": "FlutterAIDev\n\nDiscussion\n            |\n            Link",
+    "t": "FlutterAIDev\n\nכלי חדש שמשלב את Flutter עם AI כדי להאיץ את פיתוח האפליקציות. נראה שזה עוד כלי שמנסה להפוך את עבודת המפתחים לקלה יותר בעזרת בינה מלאכותית, וההקהילה כבר התחילה לדון על הפוטנציאל שלו ב-Product Hunt.",
     "d": "2026-04-10T23:06:48.000Z",
     "v": 0,
     "l": [
@@ -8647,7 +8649,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 365,
-    "t": "MeerCOP\n\nDiscussion\n            |\n            Link",
+    "t": "MeerCOP\n\nנראה שמדובר בכלי או פרויקט חדש שהוצג ב-Product Hunt, אבל הפרטים עדיין סתומים קצת. אם אתם מעוניינים ללמוד יותר על MeerCOP, כדאי לכם להיכנס ישירות לעמוד המוצר ולבדוק את הדיון שם - שם צריך להיות כל המידע שצריכם.",
     "d": "2026-04-10T15:23:42.000Z",
     "v": 0,
     "l": [
@@ -10087,7 +10089,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 425,
-    "t": "Anamap\n\nDiscussion\n            |\n            Link",
+    "t": "Anamap\n\nנראה שיש כאן כלי או שירות חדש בשם Anamap שעלה ל-Product Hunt. למרות שהמידע המפורש על השירות די מעומעם, כנראה שזה משהו שמעסיק את קהילת ה-startups והטכנולוגיה בימים האלה. אם אתם מתעניינים, בטח כדאי לכם להסתכל על הדיון בקהילה ולראות מה רעיון זה בדיוק.",
     "d": "2026-04-10T06:11:15.000Z",
     "v": 0,
     "l": [
@@ -10415,7 +10417,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 439,
-    "t": "Renderr\n\nDiscussion\n            |\n            Link",
+    "t": "Renderr\n\nנראה שיש כאן כלי או שירות בשם Renderr שעלה ל-Product Hunt, אבל הפרטים על מה בדיוק הוא עושה לא ברורים מההודעה. אם אתם מעוניינים ללמוד עוד על הפרויקט, כדאי לכם ללחוץ על הלינק בעמוד המוצר כדי להבין איך זה יכול לעזור לכם בעבודה.",
     "d": "2026-04-10T01:06:10.000Z",
     "v": 0,
     "l": [
@@ -11833,7 +11835,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 496,
-    "t": "MarketRecon\n\nDiscussion\n            |\n            Link",
+    "t": "MarketRecon\n\nכלי חדש שעוזר למעקב אחר שוק ותחרויות בזמן אמת. מהנראה מדובר בפלטפורמה לניתוח נתוני שוק שמאפשרת לעסקים להישאר צעד אחד קדימה בתחרות. המוצר הוצג ב-Product Hunt והוא זוכה לדיונים מעניינים בקהילת היזמים.",
     "d": "2026-04-09T19:17:37.000Z",
     "v": 0,
     "l": [
@@ -14071,7 +14073,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 590,
-    "t": "Ovren\n\nDiscussion\n            |\n            Link",
+    "t": "Ovren\n\nנראה שהמידע שקיבלנו על המוצר הזה מועט מאוד - זה בעצם רק קישור לדיון ב-Product Hunt בלי תיאור ממשי. אנחנו חיכינו לפרטים נוספים כדי להבין מה בדיוק Ovren עושה ואיך הוא רלוונטי לעולם ה-tech בישראל, אבל כרגע המידע לא מספיק כדי לתת לכם תמונה מלאה. אם אתם סקרנים, כדאי להכנס ישירות לדיון ב-Product Hunt וגם לשמוע מה אומרים על זה.",
     "d": "2026-04-09T10:26:13.000Z",
     "v": 0,
     "l": [
@@ -14377,7 +14379,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 603,
-    "t": "PixDone\n\nDiscussion\n            |\n            Link",
+    "t": "PixDone\n\nכלי חדש שהופיע ב-Product Hunt שנראה מעניין לעבודה עם תמונות וגרפיקה. עדיין לא ברור בדיוק מה בדיוק הכלי עושה, אבל הקהילה כבר מתחילה לדון בזה בפורום. אם אתם עובדים עם ויژ'ואלים, כדאי להשאיר עין על התפתחויות של הפרויקט הזה.",
     "d": "2026-04-09T08:58:34.000Z",
     "v": 0,
     "l": [
@@ -25846,7 +25848,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1071,
-    "t": "Relvy\n\nDiscussion\n            |\n            Link",
+    "t": "Relvy\n\nנראה שלא הצלחנו להשיג פרטים מלאים על המוצר הזה מהמקור. אם אתם מעוניינים ללמוד עוד על Relvy, מומלץ לבדוק ישירות בProduct Hunt שם אפשר למצוא דיון מפורט ותיאור מלא של המוצר. נשמח לקבל מידע נוסף כדי להביא לכם סיכום טוב יותר!",
     "d": "2026-04-08T20:09:02.000Z",
     "v": 0,
     "l": [
@@ -43788,7 +43790,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1811,
-    "t": "OKEGAS\n\nDiscussion\n            |\n            Link",
+    "t": "OKEGAS\n\nנראה שיש כאן משהו חדש בעולם הטכנולוגיה, אבל הפרטים קצת דלים. אם אתם מעוניינים לדעת בדיוק מה זה OKEGAS, כדאי לכם להיכנס ישירות לדיון בProduct Hunt ולבדוק איזה דברים חכמים אנשים אומרים על זה.",
     "d": "2026-04-08T08:19:01.000Z",
     "v": 0,
     "l": [
@@ -59580,7 +59582,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2460,
-    "t": "Celyn\n\nDiscussion\n            |\n            Link",
+    "t": "צלין\n\nנראה שיש כאן משהו חדש שעדיין לא כל כך ברור מה זה, אבל זה הגיע מ-Product Hunt ויש דיון סביבו. אם אתם סקרנים לדעת בדיוק מה הסטארטאפ החדש הזה עושה, כדאי לכם להסתכל על הלינק ולהצטרף לשיחה.",
     "d": "2026-04-07T16:25:41.000Z",
     "v": 0,
     "l": [
@@ -59833,7 +59835,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2471,
-    "t": "thefrontkit\n\nDiscussion\n            |\n            Link",
+    "t": "TheFrontKit - ערכת כלים חדשה לפיתוח הממשק\n\nמתוך Product Hunt: פרויקט חדש שנועד לעזור למפתחים בבניית ממשקי משתמש מהירים ויעילים. ערכת הכלים הזו מציעה רכיבים מוכנים ותיעוד מקיף לקצב עבודה מהיר יותר בפרויקטים של frontend.",
     "d": "2026-04-07T16:09:31.000Z",
     "v": 0,
     "l": [
@@ -75986,7 +75988,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3140,
-    "t": "Hapax\n\nDiscussion\n            |\n            Link",
+    "t": "Hapax\n\nנראה שמדובר בפרויקט או כלי חדש שהוצג ב-Product Hunt, אך הפרטים המדויקים על מה בדיוק זה עושה אינם ברורים מהמידע הנתון. אם אתם מחפשים לדעת יותר על Hapax, כדאי לבדוק את הדיון או הלינק המלא באתר Product Hunt.",
     "d": "2026-04-03T21:42:44.000Z",
     "v": 0,
     "l": [
@@ -76526,7 +76528,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3163,
-    "t": "FuseAI\n\nDiscussion\n            |\n            Link",
+    "t": "FuseAI\n\nFuseAI היא פלטפורמה חדשה שמאפשרת למפתחים להשתמש בכמה מודלי AI בו-זמנית וללא צורך בטריק טכני מסובך. עם FuseAI אתם יכולים לחבר בקלות בין שירותי AI שונים ולבנות אפליקציות חכמות יותר. זו בעצם הדרך הקלה ביותר להגדיל את היכולות של האפליקציות שלכם בעזרת AI.",
     "d": "2026-04-03T15:39:28.000Z",
     "v": 0,
     "l": [
@@ -78507,7 +78509,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3246,
-    "t": "SecuSpark\n\nDiscussion\n            |\n            Link",
+    "t": "SecuSpark\n\nסטארטאפ חדש שחושף הערב - SecuSpark, פתרון אבטחה שמעניין את קהילת ה-tech בישראל. יש כאן משהו שנראה מבטיח בתחום ה-cybersecurity, והקהילה כבר התחילה לדון בזה בפורומים. אם אתם עוקבים אחרי טרנדים בתחום האבטחה הדיגיטלית, זה משהו שכדאי לעקוב אחריו.",
     "d": "2026-04-02T02:33:00.000Z",
     "v": 0,
     "l": [
@@ -78522,7 +78524,8 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news"
+      "news",
+      "security"
     ],
     "imp": "low",
     "thumb": null,
@@ -81635,7 +81638,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3378,
-    "t": "Recall 2.0\n\nDiscussion\n            |\n            Link",
+    "t": "Recall 2.0\n\nמיקרוסופט חוזרת להתקפה עם גרסה חדשה של Recall - הפיצ'ר שיצר סערה בעדכון Windows. נראה שחברת עמוק מחשבת לעשות משהו לגמרי אחרת הפעם, כנראה לאחר כל הביקורות שקיבלה על בעיות הפרטיות. בואו נראה מה הם הולכים לעשות כדי לזכות בחזרה בהוקי שלנו.",
     "d": "2026-03-27T07:53:04.000Z",
     "v": 0,
     "l": [
@@ -82462,7 +82465,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3412,
-    "t": "ElevenAgents Guardrails 2.0\n\nDiscussion\n            |\n            Link",
+    "t": "ElevenAgents Guardrails 2.0\n\nElevenLabs הוציאה גרסה חדשה של ה-Guardrails שלהם - כלים שעוזרים לשמור על AI agents בבטחה ובשליטה. זה בעצם ה-safety net שאתה צריך כשאתה משחק עם agents חכמים, כי בסוף גם הם צריכים כמה boundaries.\nמקור: Product Hunt",
     "d": "2026-03-24T16:15:12.000Z",
     "v": 0,
     "l": [
@@ -82486,7 +82489,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3413,
-    "t": "Figma for Agents\n\nDiscussion\n            |\n            Link",
+    "t": "Figma עבור AI Agents\n\nפלטפורמה חדשה שמאפשרת ל-AI agents לעבוד עם ממשקים דומים לדרך שמעצבים עובדים עם Figma - רק במקום עיצוב, זה על אוטומציה וביצוע משימות. זה כמו לתת ל-agents שלך ערכת כלים ממש כמו של מעצבים אבל למשימות בשרת.",
     "d": "2026-03-24T15:18:26.000Z",
     "v": 0,
     "l": [
@@ -82732,7 +82735,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3423,
-    "t": "SurfPad\n\nDiscussion\n            |\n            Link",
+    "t": "SurfPad\n\nנראה שמדובר בכלי חדש שהופיע ב-Product Hunt, אבל הפרטים עדיין לא ברורים לגמרי. אם אתם שומעים על SurfPad בפעם הראשונה, זה כנראה משהו שכדאי לעקוב אחריו בימים הקרובים כשיתברר מה בדיוק זה עושה.",
     "d": "2026-03-22T10:24:01.000Z",
     "v": 0,
     "l": [
@@ -83633,7 +83636,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3460,
-    "t": "Amadeus\n\nDiscussion\n            |\n            Link",
+    "t": "אמדאוס\n\nנראה שמדובר בדיון סביב מוצר חדש שהוצג ב-Product Hunt, אבל פרטים ספציפיים על מה בדיוק זה לא ברורים מהתיאור המינימליסטי. אם זה קשור ל-AI או טכנולוגיה כלשהי, כנראה שהקהילה ב-Product Hunt עדיין בתהליך של לימוד והערכת המוצר.",
     "d": "2026-03-08T10:13:55.000Z",
     "v": 0,
     "l": [

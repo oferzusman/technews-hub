@@ -1,7 +1,7 @@
 {
   "total": 3751,
-  "translated": 3703,
-  "untranslated": 48,
+  "translated": 3751,
+  "untranslated": 0,
   "today": 63,
   "week": 2716,
   "sources": [
@@ -14,7 +14,7 @@
     {
       "name": "Product Hunt",
       "total": 289,
-      "translated": 246,
+      "translated": 289,
       "lastDate": "2026-04-14T04:18:25.000Z"
     },
     {
@@ -38,7 +38,7 @@
     {
       "name": "New Atlas",
       "total": 110,
-      "translated": 108,
+      "translated": 110,
       "lastDate": "Wed, 08 Apr 2026 23:03:00 GMT"
     },
     {
@@ -50,7 +50,7 @@
     {
       "name": "Interesting Engineering",
       "total": 103,
-      "translated": 102,
+      "translated": 103,
       "lastDate": "Wed, 08 Apr 2026 23:24:03 +0000"
     },
     {
@@ -98,7 +98,7 @@
     {
       "name": "The Decoder",
       "total": 64,
-      "translated": 63,
+      "translated": 64,
       "lastDate": "Wed, 08 Apr 2026 18:00:03 +0000"
     },
     {
@@ -122,7 +122,7 @@
     {
       "name": "MarkTechPost",
       "total": 40,
-      "translated": 39,
+      "translated": 40,
       "lastDate": "Wed, 08 Apr 2026 22:43:24 +0000"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-14T09:02:11.248Z"
+  "generatedAt": "2026-04-14T10:40:17.895Z"
 }
