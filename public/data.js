@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Nvidia stock is on a 10-day winning streak and up 18% over that stretch\n\nNvidia denied rumors that it's in talks to buy a large PC company, telling CNBC in a statement that it's \"not engaged in discussions.\"",
+    "t": "מניית נווידיה בסטריק של 10 ימים ועלייה של 18% בתקופה זו\n\nנווידיה הכחישה שמיות על משא ומתן לרכישת חברת PC גדולה, והודיעה ל-CNBC שהיא \"לא מעורבת בדיונים\". בדיוק בזמן שמניית הענקית טוסה למעלה עם סטריק של 10 ימים חיוביים ברציפות, עולה שהחברה דוחה אפילו רכישות של גודל ממשי - כלומר, נווידיה מספיק טובה עם הדברים כפי שהם עכשיו.",
     "d": "Tue, 14 Apr 2026 19:38:10 GMT",
     "v": 0,
     "l": [
@@ -14,12 +14,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Nvidia"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "hardware"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -27,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Military robots take on one of the world’s toughest field tests in Swiss Army terrain\n\nAbout 20 international teams with gather at the Swiss Army’s training area, where their robots...",
+    "t": "רובוטים צבאיים עומדים למבחן השדה הקשה ביותר בעולם בשטח הצבא השוויצרי\n\nכ-20 צוותים בינלאומיים התכנסו באזור האימונים של הצבא השוויצרי כדי להציג את הרובוטים שלהם בתנאים אמיתיים וקשים. זה בעצם הוליווד של רובוטיקה צבאית - כל הצוותים מביאים את ההמצאות שלהם לבדיקה במגרש של בדיקות קיצוניות בשטח הרי ועל. הוא הסוג של תחרות שמראה מה בעצם אפשר לעשות כשמשלבים הנדסה, אותונומיה ו-AI במערכות צבאיות חדישות.",
     "d": "Tue, 14 Apr 2026 19:08:22 +0000",
     "v": 0,
     "l": [
@@ -42,8 +39,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/Z2_53e4d0.jpg",
@@ -51,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Greg Brockman predicts AI will let small teams match the output of large ones if they can afford the compute\n\nIn the future, working with AI won't mean adapting to the computer—the computer will adapt to you, says OpenAI President Greg Brockman. \"This is disruptive. Institutions will change.\"\nThe article Greg Brockman predicts AI will let small teams match the output of large ones if they can afford the compute appeared first on The Decoder.",
+    "t": "גרג ברוקמן: AI יתן לצוותים קטנים להתחרות עם ענקיים - אם יהיה להם compute\n\nנשיא OpenAI גרג ברוקמן חזה עתיד שבו AI תהיה כל כך חזקה שצוותים קטנים בהחלט יוכלו להתאים את התוצאות שלהם לצוותים ענקיים - המחיר? בעלות ה-compute. זו לא רק טכנולוגיה, זו מהפכה מוסדית שתחייב את הארגונים לחשוב מחדש על איך הם מארגנים את עצמם כשמכונה יודעת להסתגל לך, לא להיפך.",
     "d": "Tue, 14 Apr 2026 19:00:39 +0000",
     "v": 0,
     "l": [
@@ -77,7 +73,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Nvidia slaps forehead: I know what quantum is missing - it's AI!\n\nOne error in every thousand operations is one too many Quantum computers promise major speedups for problems in materials science, logistics, and financial modeling, but first they need to be made reliable, something Nvidia believes its AI models can help with. When you've got a GPU hammer, every problem starts to look like an AI nail. …",
+    "t": "Nvidia מוצאת את הפתרון: קוונטום צריך AI!\n\nNvidia מאמינה שיכולה לעזור לתיקן את הבעיה הגדולה של המחשבים הקוונטיים - אי-דיוק בחישובים. המחברת מתקומקמת על עצמה בצורה כיפית, כי כאשר יש לך פטיש של GPU, כל בעיה בעולם נראית כמו ציפורן שצריך לדיוק עם AI. אם זה יעבוד, זה יוכל לעזור להאיץ בעיות מורכבות במדע החומרים, לוג'יסטיקה ומודלינג פיננסי.",
     "d": "2026-04-14T18:58:24.000Z",
     "v": 0,
     "l": [
@@ -103,7 +99,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "TinyFish AI Releases Full Web Infrastructure Platform for AI Agents: Search, Fetch, Browser, and Agent Under One API Key\n\nAI agents struggle with tasks that require interacting with the live web — fetching a competitor’s pricing page, extracting structured data from a JavaScript-heavy dashboard, or automating a multi-step workflow on a real site. The tooling has been fragmented, requiring teams to stitch together separate providers for search, browser automation, and content retrieval. TinyFish, a […]\nThe post TinyFish AI Releases Full Web Infrastructure Platform for AI Agents: Search, Fetch, Browser, and Agent Und",
+    "t": "TinyFish AI משיקה פלטפורמה מלאה לתשתיות ווב עבור AI Agents: חיפוש, הבאת נתונים, דפדפן וגם Agent תחת API Key אחד\n\nTinyFish בא לסדר בעיה שהטרידה הרבה - כרגע יש לך פיצול מטורף בתחום של AI agents שצריכים לעבוד עם אתרים חיים. אם אתה רוצה לשאול לAI שלך לבדוק מחירים של מתחרה, למשוך נתונים מדשבורד עם הרבה JavaScript, או לבצע תהליך אוטומציה מרובה שלבים - עד עכשיו היית צריך לתפור ביחד מספר ספקים שונים. כעת TinyFish מציעה פלטפורמה מאוחדת שמכילה הכל בAPI אחד - חיפוש, fetch, דפדפן אוטומטי וה-agent עצמו.",
     "d": "Tue, 14 Apr 2026 18:53:27 +0000",
     "v": 0,
     "l": [
@@ -121,13 +117,13 @@ window.TELEGRAM_DATA = [
       "news",
       "agents"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://www.marktechpost.com/wp-content/uploads/2026/04/image-30.png",
     "source": "MarkTechPost"
   },
   {
     "id": 6,
-    "t": "There’s Something Fundamentally Wrong With LLMs\n\n\"Our sense of the world may become distorted in ways we have barely begun to comprehend.\"\nThe post There’s Something Fundamentally Wrong With LLMs appeared first on Futurism.",
+    "t": "משהו בסדר הוא לא בסדר בקשישים שפחות גדולים\n\nמתברר שלמודלי שפה גדולים (LLMs) יש בעיה יותר עמוקה ממה שחשבנו - לא רק טעויות כאן ושם, אלא משהו מהותי בדרך שהם מבינים את העולם. המאמר מזהיר שההשקפה שלנו על המציאות עלולה להתעוות בדרכים שאנחנו בקושי מתחילים להבין.",
     "d": "Tue, 14 Apr 2026 14:33:20 -0400",
     "v": 0,
     "l": [
@@ -150,7 +146,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos\n\nIn an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
+    "t": "מייסד Anthropic מאשר שהחברה דיווחה לממשל טראמפ על Mythos\n\nJack Clark, מייסד Anthropic, הסביר בראיון השבוע למה החברה ממשיכה לשתף פעולה עם הממשל האמריקאי בעודה תובעת אותו בבית משפט. כל זה קיים במקביל - Anthropic עוסקת בשיחות עם ממשל ארה״ב בנושא AI בטוח, תוך שמטיל עליו תביעה משפטית לשם הגנה על זכויות משפטיות של החברה.",
     "d": "Tue, 14 Apr 2026 18:09:12 +0000",
     "v": 0,
     "l": [
@@ -176,7 +172,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "The attacks on Sam Altman are a warning for the AI world\n\nBefore allegedly throwing a Molotov cocktail at OpenAI CEO Sam Altman's home, the 20-year-old accused attacker wrote about his fear that the AI race would cause humans to go extinct, the San Francisco Chronicle found. Two days later, Altman's home appeared to be targeted a second time, according to The San Francisco Standard. Only a week earlier, an Indianapolis councilman reported 13 shots fired at his door, with a note that read \"No Data Centers,\" after he'd supported a rezoning petition for a",
+    "t": "ההתקפות על סם אלטמן הן אזהרה לעולם ה-AI\n\nמקרים מטרידים של אלימות פוגעים בפנאי עולם הטכנולוגיה: צעיר בן 20 התקף את ביתו של מנכ\"ל OpenAI סם אלטמן כי חוששים לנו מהאקספוננציאל של AI ואיום על האנושות, וזה לא סתם מקרה אחד - כמה אירועים אלימים תועדו כנגד בכירים בתחום בימים האחרונים. מסקנה דיכאונית אבל חשובה: אנחנו חייבים דיון רציני על האתיקה, הביטחון והחששות הלגיטימיים סביב AI שאמור להוביל לעומק ולא לאלימות.",
     "d": "2026-04-14T18:04:42.000Z",
     "v": 0,
     "l": [
@@ -196,13 +192,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 9,
-    "t": "Google Chrome's new \"Skills\" feature lets you save AI prompts and reuse them with a single click\n\nWith \"Skills,\" Google is adding a new feature to Chrome that turns frequently used AI prompts into reusable one-click tools. Instead of typing the same prompt over and over, users save it once and apply it to any website. Google also offers a ready-made library of skills for everyday tasks.\nThe article Google Chrome's new \"Skills\" feature lets you save AI prompts and reuse them with a single click appeared first on The Decoder.",
+    "t": "תכונת ה-'Skills' החדשה של גוגל Chrome מאפשרת שמירה וחזרה על Prompts של AI בלחיצה אחת\n\nגוגל משיקה תכונה חדשה ב-Chrome שהופכת את ה-prompts שאתם משתמשים בהם כל הזמן לכלים חד-לחיצתיים שניתן להשתמש בהם שוב ושוב. במקום להקליד את אותו prompt מחדש בכל פעם, אתם שומרים אותו פעם אחת ויכולים להשתמש בו בכל אתר באינטרנט. גוגל גם מספקת ספרייה של skills מוכנים לשימוש לכל מיני משימות יומיומיות.",
     "d": "Tue, 14 Apr 2026 18:01:34 +0000",
     "v": 0,
     "l": [
@@ -215,12 +211,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "http://the-decoder.com/wp-content/uploads/2026/04/google_chrome_skills_demo.mp4",
@@ -228,7 +221,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Redefining the future of software engineering\n\nSoftware engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere. Second, the adoption of development operations (DevOps) and agile methodologies took software from siloed to collaborative development and from batch to continuous delivery. Now, a third such…",
+    "t": "שינוי הפנים של הנדסת תוכנה\n\nבעולם ההנדסה התוכנתית קורים דברים - אחרי עלייתו של Open Source שפתח קוד לכל מפתח וממתין, והמהפכה של DevOps שהפכה את הפיתוח לשיתופי ורציף, כנראה שעולה כרגע גל שלישי שעומד לשנות את כל המשחק. המאמר בודק למה הקפיצה הבאה בתעשייה תהיה כל כך משמעותית.",
     "d": "Tue, 14 Apr 2026 18:00:00 +0000",
     "v": 0,
     "l": [
@@ -251,7 +244,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "China now the ‘good guy’ on AI as Trump takes ‘wild west’ approach, MPs told\n\nExperts say China is backing attempts at global governance, while US has set up race between profit-hungry companies\nChina is now the “good guy” on AI rather than Donald Trump’s US, where the technology is being pursued in a dangerous “wild west” manner, a former UN and UK government adviser has told MPs.\nProf Dame Wendy Hall, who was a member of the UN’s AI advisory board and co-wrote a review of AI for Theresa May’s government, told the House of Commons business and trade committee that China ",
+    "t": "סין הופכת ל'הילד הטוב' בעולם ה-AI בזמן שטראמפ בחר בגישת 'פרונטיירה פרועה'\n\nבמפתיע: גם סין וגם אמריקה משחקות את המשחק של ה-AI, אבל בשתי דרכים שונות לגמרי. בעוד סין תומכת בשיוך גלובלי על ההנדסה של בינה מלאכותית, טראמפ בחר בגישה של 'מי יזכור' שמעודדת תחרות פרועה בין חברות רווח-אוהבות, כך מספרת עדת המלכים הבריטית. וזה עולה מפי מומחית שהוותה באגודת האו\"ם וגם עזרה לממשלה הבריטית לחשוב על עתידה של הטכנולוגיה הזו.",
     "d": "Tue, 14 Apr 2026 17:56:47 GMT",
     "v": 0,
     "l": [
@@ -274,7 +267,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Anthropic's Claude Mythos might be the best overall AI model for cybersecurity, but cheaper models can attain similar results, research shows — cross-examination of the frontier model raises questions on uptime and reliability\n\nAnthropic's Mythos might be the best cybersecurity AI ever, but it's not the only one and it may well be the most expensive, raising questions about how useful it actually is, when weighed against the competition.",
+    "t": "Claude Mythos של Anthropic אולי הדגם הטוב ביותר לסייבר, אבל מודלים זולים יותר משיגים תוצאות דומות - מחקר מעלה שאלות על אמינות\n\nדגמי ה-AI של Anthropic עשויים להיות המתקדמים ביותר לתחום הסייבר סיקיוריטי, אבל הם גם יקרים משמעותית - והשאלה שעולה היא האם הם באמת שווים את ההשקעה כשמודלים זולים יותר מספקים תוצאות דומות וניתנות להסתמכות.",
     "d": "Tue, 14 Apr 2026 17:38:30 +0000",
     "v": 0,
     "l": [
@@ -292,17 +285,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding",
-      "security"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/du4dituAHZTGnwziAJK2NF-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 13,
-    "t": "Trump Moves to Let Coal Companies Pollute Waterways With Their Toxic Slag\n\n\"The Trump administration just took a sledgehammer to the health protections in place for toxic coal pollution.\"\nThe post Trump Moves to Let Coal Companies Pollute Waterways With Their Toxic Slag appeared first on Futurism.",
+    "t": "ממשל טראמפ מתיר לחברות פחם להשחית מימי משקה בפסולת רעילה\n\nבצעד שהעלה גלים, ממשל טראמפ הסיר הגנות בריאותיות חשובות שהגנו על מימי משקה מפני זיהום פחם רעיל. החלטה שנראית כנקישת פטיש על הסטנדרטים הסביבתיים שנבנו לאורך שנים, ומעניקה לחברות פחם יד חופשית יותר בטיפול בפסולת השחורה שלהן.",
     "d": "Tue, 14 Apr 2026 13:31:55 -0400",
     "v": 0,
     "l": [
@@ -325,7 +316,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Claude Mythos can autonomously compromise weakly defended enterprise networks end-to-end\n\nThe UK's AI Safety Institute tested Anthropic's Claude Mythos Preview for cyber capabilities. For the first time, an AI model autonomously completed a full attack simulation against a corporate network, but the results come with significant caveats.\nThe article Claude Mythos can autonomously compromise weakly defended enterprise networks end-to-end appeared first on The Decoder.",
+    "t": "Claude Mythos יכול להשתלוט באופן עצמאי על רשתות ארגוניות חלשות מקצה לקצה\n\nמכון ה-AI Safety הבריטי בדק את יכולות הסייבר של Claude Mythos Preview של Anthropic, ופה לראשונה מודל AI הצליח להשלים בעצמו סימולציית התקפה מלאה על רשת תאגידית. עם זאת, התוצאות מגיעות עם הסתייגויות משמעותיות - זה עובד רק נגד רשתות מוגנות בצורה חלשה.",
     "d": "Tue, 14 Apr 2026 17:31:48 +0000",
     "v": 0,
     "l": [
@@ -343,8 +334,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "robotics"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -352,7 +342,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "DA wants Sam Altman arson suspect Daniel Moreno-Gama held without bail\n\nDaniel Moreno-Gama allegedly threw a lit Molotov cocktail at OpenAI CEO Sam Altman's home and threatened to burn down OpenAI's headquarters.",
+    "t": "התביעה דורשת להעצור ללא ערבות את החשוד בנסיון הצתת בית סם אלטמן\n\nדניאל מורנו-גמה הואשם בזריקת קוקטיל מולוטוב דולק לעבר ביתו של מנכ\"ל OpenAI סם אלטמן והוא גם איים להצית את בנייני החברה. התביעה טוענת שיש צורך להעצור אותו ללא אפשרות לערבות עד למשפט.",
     "d": "Tue, 14 Apr 2026 17:30:25 GMT",
     "v": 0,
     "l": [
@@ -378,7 +368,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain\n\nThe device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encourage healing.",
+    "t": "Science Corp של מקס הודאק מתכינה להשתיל את ה-sensor הראשון שלה בתוך מוח אנושי\n\nהסטארטאפ של הודאק עובדת על התקן מהפכני שיכול לעזור במצבים נוירולוגיים שונים, והשימוש הראשון יהיה שליחת דחפים חשמליים עדינים לתאים פגומים במוח וחוט השדרה כדי להעודד החלמה. אם הטכנולוגיה תצליח, זה יכול להיות משחק חדש בתחום הנוירוטק והרפואה מדויקת.",
     "d": "Tue, 14 Apr 2026 17:13:03 +0000",
     "v": 0,
     "l": [
@@ -401,7 +391,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "Claude Code routines let AI fix bugs and review code on autopilot\n\nAnthropic has introduced \"routines\" for Claude Code - automated processes that can independently fix bugs, review pull requests, or respond to events without needing a user's local machine.\nThe article Claude Code routines let AI fix bugs and review code on autopilot appeared first on The Decoder.",
+    "t": "Claude Code routines - AI שמתקן באגים וסוקר קוד באופן אוטומטי\n\nAnthropic השיקה תכונה חדשה שנקראת \"routines\" עבור Claude Code - תהליכים אוטומטיים שיכולים לתקן באגים, לסקור pull requests ולהגיב לאירועים ללא צורך במכונה מקומית של המשתמש. פתרון פיתוח שחוסך שעות רבות של עבודה ידנית לכל מפתח.",
     "d": "Tue, 14 Apr 2026 17:07:46 +0000",
     "v": 0,
     "l": [
@@ -427,7 +417,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "Google introduces \"Skills\" in Chrome to make Gemini prompts instantly reusable\n\nYou can save custom prompts you find useful or grab a premade Skill from Google's library.",
+    "t": "גוגל משיקה 'Skills' בכרום - להפוך Gemini prompts לשימוש חוזר מיידי\n\nעכשיו אתם יכולים לשמור prompts מותאמים אישיים שמצאתם שימושיים או לתפוס Skills מוכנות מהספרייה של גוגל. זה בעצם כמו ליצור תבניות חכמות של Gemini שאתם יכולים להשתמש שוב ושוב, בלי צורך לכתוב את כל הדבר מחדש בכל פעם.",
     "d": "Tue, 14 Apr 2026 17:00:37 +0000",
     "v": 0,
     "l": [
@@ -453,7 +443,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "Google adds AI Skills to Chrome to help you save favorite workflows\n\nGoogle is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.",
+    "t": "גוגל מוסיפה AI Skills לכרום כדי לעזור לך לשמור על workflows המועדפים עליך\n\nגוגל משיקה תכונה חדשה בשם \"Skills\" בכרום שמאפשרת לשמור ולהשתמש חוזר בפרומפטים של AI בכל האתרים. הפיצ'ר הזה מבוסס על האינטגרציה של Gemini בדפדפן ויעזור לכם לחסוך זמן בביצוע משימות חוזרות עם AI.",
     "d": "Tue, 14 Apr 2026 17:00:00 +0000",
     "v": 0,
     "l": [
@@ -479,7 +469,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "Chrome now lets you turn AI prompts into repeatable &#8216;Skills&#8217;\n\nGoogle is launching a new Chrome workflow feature that allows you to reuse your favorite Gemini commands across multiple webpages. Any AI prompts can now be saved as \"Skills\" in the Chrome desktop browser, letting you instantly run them across any tabs you select.\n\"Until now, repeating an AI task - like asking for ingredient substitutions to make a recipe vegan - meant re-entering the same prompt as you visited different pages,\" Chrome product manager Hafsah Ismail said in the announcement. \"To ",
+    "t": "Chrome מאפשר לכם להפוך AI prompts לכישורים חוזרים ושימושיים\n\nGoogle משיקה פיצ'ר חדש ב-Chrome שמאפשר לכם לשמור ולהשתמש בחוזה בקומנדות Gemini האהובות שלכם בכל דף שרוצים - אפילו אחד, אפילו מאה. עכשיו אתם יכולים להציל כל prompt כ-\"Skill\" וסתם ללחוץ כפתור בכל פעם שאתם צריכים את אותה עבודה, במקום להקליד כל פעם מחדש (כמו למשל בקשה לתחליפי חומרים בוויגני למתכון).",
     "d": "2026-04-14T17:00:00.000Z",
     "v": 0,
     "l": [
@@ -505,7 +495,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "Turn your best AI prompts into one-click tools in Chrome\n\nSkills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.",
+    "t": "הפכו את ה-AI prompts הטובים ביותר שלכם לכלים בלחיצה אחת ב-Chrome\n\nSkills ב-Chrome זה תכונה חדשה וכיפית שמאפשרת לכם לגלות, לשמור ולעדכן את ה-AI workflows שלכם - וכמובן, להריץ אותם בשנייה בלחיצה אחת. זה בעצם הופך את כל ה-prompts המשובחים שלכם לכלים מיוחדים שאתם יכולים להשתמש בהם שוב ושוב בקלות.",
     "d": "Tue, 14 Apr 2026 17:00:00 +0000",
     "v": 0,
     "l": [
@@ -528,7 +518,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "Physicists think they've resolved the proton size puzzle\n\n\"We believe this is the final nail in the coffin of the proton radius puzzle.\"",
+    "t": "פיזיקאים מאמינים שהם פתרו את הפאזל של גודל הפרוטון\n\nאחרי שנים של מתיחות מדעית, נראה שיש לנו סוף סיפור - חוקרים הגיעו להסכמה סופית בנוגע לגודל האמיתי של הפרוטון שהיה מטריד את קהילת הפיזיקה. זה לא רק עדכון סתמי, זה פותר תעלומה שהטריפה את המדענים כמעט עשור שלם.",
     "d": "Tue, 14 Apr 2026 16:52:34 +0000",
     "v": 0,
     "l": [
@@ -551,7 +541,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "'Sweater for houses' could reduce heating bills by at least 15%\n\nKeeping homes warm in winter is becoming extremely expensive, and many existing methods aren't always efficient. In the US alone, tens of millions of people struggle with energy costs and often have to cut back on basic expenses, including food, just to be able to afford heating. With ongoing fossil fuel dependency and climate change, traditional heating methods are not only costly but also environmentally harmful.\nContinue Reading\nCategory: Energy, Engineering\nTags: University of Massachusetts,",
+    "t": "\"סוודר לבתים\" יכול להוזיל עלויות חימום בלפחות 15%\n\nחוקרים מאוניברסיטת מסצ'וסטס פיתחו טכנולוגיה חדשה שיכולה לחסוך משמעותית בעלויות החימום של הבתים, בעידן שבו מיליונים של אנשים במדינות שונות מתקשים לכיסוי הוצאות אנרגיה בסיסיות. הפתרון מבטיח להוריד את הצריכה בחום הנדרש לחימום בית בעזרת חומרים חדשניים שפועלים כמו \"סוודר\" לבניינים, תוך הקטנת תלות בדלקים מחצוביים ופחתת פגיעה בסביבה.",
     "d": "Tue, 14 Apr 2026 16:52:07 GMT",
     "v": 0,
     "l": [
@@ -574,7 +564,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 24,
-    "t": "Sony launches 720 Hz dual-mode OLED QHD gaming monitor — 27-inch Inzone M10S II is aimed at hardcore eSports gamers\n\nThe 27-inch Sony Inzone M10S II can crank all the way to 720 Hz at 720p resolution",
+    "t": "סוני משיקה מסך OLED למשחקים בתדר 720 Hz — Inzone M10S II ל-eSports ברמה קדחת\n\nסוני החליטה להציג את ה-Inzone M10S II, מסך גיימינג בגודל 27 אינץ' שיכול להגיע לתדר אדיר של 720 Hz בהקרנה של 720p, ובכך מדחף את הגבולות של מה שאפשר לעשות בתחרויות eSports קומפטיטיביות. המסך משלב טכנולוגיית OLED עם יכולות dual-mode שמעניינת את כל מי שמחפש יתרון תחרותי באימים מסורתיים כמו CS2 ו-Valorant.",
     "d": "Tue, 14 Apr 2026 16:36:22 +0000",
     "v": 0,
     "l": [
@@ -591,13 +581,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/UsttxJg4zbrNpTHu4ZmLXR-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 25,
-    "t": "Golden Shield: US Army tests autonomous sensor-to-shooter drone kill chain\n\nThe US Army has advanced its counter-drone capabilities with a live-fire exercise at Fort Hood,...",
+    "t": "הגן הזהוב: צבא ארה\"ב בוחן שרשרת קטל אוטונומית מחיישן לירי בדרון\n\nצבא ארה\"ב קידם את יכולותיו בהתמודדות עם דרונים במהלך תרגיל ירי חי בפורט הוד, כשמערכת חדשה יכולה לזהות, לעקוב ולהשמיד מטרות אווריות בצורה אוטונומית מלאה. התרגיל הוכיח שניתן ליצור שרשרת קטל מלאה - מזיהוי המטרה דרך חיישנים AI ועד להפעלת גן אוויר בצורה אוטומטית וללא התערבות אדם. זו הקפיצה הגדולה הבאה בממשק בין אדם למכונה במלחמות עתידיות. \n\nמקור: Interesting Engineering",
     "d": "Tue, 14 Apr 2026 16:34:21 +0000",
     "v": 0,
     "l": [
@@ -612,8 +602,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -621,7 +610,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 26,
-    "t": "Why Do ChatGPT Users Keep Committing Mass Shootings?\n\nIt's quickly becoming a horrifying trend.\nThe post Why Do ChatGPT Users Keep Committing Mass Shootings? appeared first on Futurism.",
+    "t": "למה משתמשי ChatGPT מבצעים הרות קולעות? — ההיגיון מאחורי הטרנד המדאיג\n\nנראה שיש קשר דאיג בין שימוש ב-ChatGPT לבין אירועי אלימות קיצוניים — וזה הופך להיות טרנד חזרתי שמעורר חששות. המחקר החדש חושף פרטים מרתיעים על התופעה המדאיגה הזו שהפכה לכותרת עיתונאית. מתוך Futurism",
     "d": "Tue, 14 Apr 2026 12:32:26 -0400",
     "v": 0,
     "l": [
@@ -647,7 +636,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 27,
-    "t": "NASA chose the right crew to launch a new era of human space exploration\n\n\"It’s a special thing to be human, and it’s a special thing to be on planet Earth.\"",
+    "t": "נאס״א בחרה בצוות הנכון לשיגור עידן חדש של חקר חלל אנושי\n\nנאס״א הודיעה על בחירת הצוות שיוביל את הדור הבא של משימות החלל, וזה לא סתם נושא של טכנולוגיה מתקדמת - זה על החוויה העמוקה של להיות אדם ועל כך שאנחנו חיים בעל הכדור הזה. הצוות הנבחר לא רק ישדרג את הכישוריים הטכניים של המשימות, אלא יוביל את הקולקטיב של המין האנושי לממדים חדשים של חקר החלל.",
     "d": "Tue, 14 Apr 2026 16:10:17 +0000",
     "v": 0,
     "l": [
@@ -670,7 +659,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 28,
-    "t": "Google will begin punishing sites for back button hijacking in June\n\nGoogle says it could penalize back button hijacking by demoting websites in search ranking.",
+    "t": "גוגל תתחיל להעניש אתרים שחוטפים את כפתור 'חזור' בחודש יוני\n\nגוגל מודיעה שתפחית בדירוגי החיפוש של אתרים שמחטפים את פונקציונליות כפתור 'חזור' בדפדפן - טריק מ烦annoying שמטריד משתמשים שלעתים קרובות. זו צעד משמעותי בקרב של גוגל נגד טכניקות שמקטינות את חווית המשתמש, והחברה נותנת לאתרים חודש לעצור את ההתנהגות הבעייתית הזו לפני שהעונשים יכנסו לתוקף.",
     "d": "Tue, 14 Apr 2026 15:48:41 +0000",
     "v": 0,
     "l": [
@@ -683,12 +672,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-green-terminal-1152x648.jpg",
@@ -720,7 +706,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 30,
-    "t": "IONNA Rechargeries are coming to more than 350 Circle K stations\n\nThe OEM-backed charging network offers 400 kW NACS and CCS DC fast chargers.",
+    "t": "תחנות טעינה של IONNA יגיעו ליותר מ-350 תחנות Circle K\n\nרשת הטעינה הנתמכת על ידי יצרנים גדולים מתרחבת: IONNA מביאה טעינה מהירה של עד 400 קילוואט עם תמיכה בשני תקנים - NACS (התקן החדש של טסלה) ו-CCS - ליותר מ-350 תחנות Circle K בסביבת ארה״ב. זה עוד צעד משמעותי בתהליך יצירת תשתית טעינה ממשית לרכבים חשמליים.",
     "d": "Tue, 14 Apr 2026 15:37:00 +0000",
     "v": 0,
     "l": [
