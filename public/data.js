@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Ukraine captures a Russian position using only drones and ground robots\n\nPresident Zelenskyy announces a historic first: a Russian position taken entirely by unmanned systems. A CSIS report details how AI is already changing Ukraine's battlefield and where the limits remain.\nThe article Ukraine captures a Russian position using only drones and ground robots appeared first on The Decoder.",
+    "t": "אוקראינה תפסה עמדת רוסית באמצעות drones וrobotics בלבד\n\nזלנסקי הכריז על הישג היסטורי: לראשונה בהיסטוריה נתפסה עמדה אויב ללא התערבות אדם, רק עם מערכות unmanned. דוח של CSIS חושף איך AI כבר משנה את שדה הקרב באוקראינה וגם היכן עדיין יש מגבלות. מקור: The Decoder",
     "d": "Tue, 14 Apr 2026 15:37:43 +0000",
     "v": 0,
     "l": [
@@ -19,13 +19,13 @@ window.TELEGRAM_DATA = [
       "news",
       "robotics"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 2,
-    "t": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together\n\nThe first StrictlyVC of the year will be coming to San Francisco before you know it.\n\nThere are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!",
+    "t": "StrictlyVC San Francisco מביא ביחד את המנהיגים מ-TDK Ventures, Replit ועוד בעוד שבועות ספורים\n\nהאירוע StrictlyVC הראשון של השנה מתקרב ל-San Francisco, וזה בדיוק הזמן להירשם אם אתם רוצים להפגיש את עצמכם עם כמה מהדמויות הכי משפיעות בתעשיית הtech והVenture Capital. בתאריך 30 לאפריל מתחזים אירוח אירוע עם lineup של דובר מעולה, ועדיין יש כמה כרטיסים זמינים - אז אם אתם ברגע כזה, עדיף תזדרזו! מקור: TechCrunch AI",
     "d": "Tue, 14 Apr 2026 15:30:49 +0000",
     "v": 0,
     "l": [
@@ -48,7 +48,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "There’s Something Extremely Shady About Trump’s Disastrous New NASA Budget\n\n\"This is the least transparent NASA budget request I've ever seen.\"\nThe post There’s Something Extremely Shady About Trump’s Disastrous New NASA Budget appeared first on Futurism.",
+    "t": "משהו חשוד מאוד בתקציב ה-NASA החדש של טראמפ\n\nמומחי האווירונאוטיקה מתריעים על תקציב NASA שנראה כמו התקציב הפחות שקוף שראו מימיים, וזה מעלה שאלות גדולות על העתיד של תוכניות החלל האמריקאיות. התוכנית החדשה פוגעת בכמה מהפרויקטים המרכזיים של סוכנות החלל, והעסקה נראית מכוערת בעיני מי שעוקבים לתוכניות החלל. מקור: Futurism",
     "d": "Tue, 14 Apr 2026 11:18:09 -0400",
     "v": 0,
     "l": [
@@ -71,7 +71,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Intel's promising upcoming Nova Lake-S lineup reportedly includes an iGPU-focused SKU with 12 Xe3P cores — new leak claims a midrange 16-core CPU with powerful integrated graphics is in the works\n\nA new leak claims Intel is prepping a 16-core CPU featuring 12 Xe3P iGPU cores, likely targeting the Ryzen G-series APUs. AMD's latest desktop APUs top out at only 8 RDNA 3.5 CUs, while the Arc B390M in Panther Lake already beats the Radeon 890M in Strix Point. That means 12 Xe3P cores on an NVL-S chip would be a heaven-sent for gamers.",
+    "t": "Intel בדרך להשיק Nova Lake-S עם GPU משולב חזק - דיווח חושף SKU עם 12 Xe3P cores\n\nיש כאן דיווח סוקר שIntel מכינה CPU עם 16 ליבות שמצורף אליו GPU משולב עם 12 Xe3P cores, שנראה כמכוון ישירות נגד ה-Ryzen G-series של AMD. AMD כרגע עומדת ב-8 RDNA 3.5 cores בלבד, בזמן ש-Arc B390M שלIntel כבר מכה את Radeon 890M - ממשיך לעלות כמה עוצמתי המשלב הקרוב של Intel לגיימרים.",
     "d": "Tue, 14 Apr 2026 15:15:23 +0000",
     "v": 0,
     "l": [
@@ -92,13 +92,13 @@ window.TELEGRAM_DATA = [
       "hardware",
       "funding"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/6dhScSyVh9hBM75rUoJ4qN-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 5,
-    "t": "Could AI write this column? In a world of slop-inion, I’m certifying myself human | Peter Lewis\n\nI actually don’t want to make my work easier. We should demand authenticity if we care about the sort of society that comes out the other end of this so-called revolution\nI never thought I’d have to write these words but here I am: my name is Peter and I am human.\nWhat seems like a self-evident proclamation needs to be made now because the misuse of AI is transforming considered op-eds such as this into “slop-inion” that is infecting the editorial pages of reputable media outlets.\n Continue read",
+    "t": "האם AI יכול לכתוב את הטור הזה? בעולם של 'דעות בוצ', אני מאשר שאני אדם\n\nכותב העמודה פיטר לואיס קורא זעקת אזהרה: AI משתוללת בדפי הדיון של העיתונות הגדולה, והיא הופכת כתיבה מחשובת לתוכן זבל שלא עולה לרמה. הוא טוען שכל עוד יש לנו בחירה, אנחנו צריכים להדגיש אותנטיות ולא ללחוץ על כפתור ה-AI רק כדי להחזיר את העבודה מהר יותר - כי המחיר החברתי בחירת הקל הזו יכול להיות אדיר.",
     "d": "Tue, 14 Apr 2026 15:00:43 GMT",
     "v": 0,
     "l": [
@@ -121,7 +121,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Nvidia squashes rumor it’s planning to purchase a major PC manufacturer — says that it’s ‘not engaged in discussions to acquire any PC maker’\n\nNvidia said that it wasn't in talks with another PC manufacturer to acquire it, despite rumors saying that it has been discussing the possibility since 2024.",
+    "t": "Nvidia דוחה את השמועות: לא בדרך להשתלוט על יצרן PC גדול\n\nNvidia הבהירה שהיא לא מנהלת שיחות קנייה עם יצרני PC כלשהם, וזו בדיוק הדרך שלה לשתוק את הרחש שטוען שמדברים על כזה עסקה מאז 2024. נראה שהחברה חוששת שאי אולו יש פה איזה misunderstanding על התוכניות של Nvidia להשפיע על שוק ה-PC, ולכן הם כבר עכשיו יוצאים בהודעה הבהירה.",
     "d": "Tue, 14 Apr 2026 14:51:31 +0000",
     "v": 0,
     "l": [
@@ -147,7 +147,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Oracle jumps for a second day, Bloom Energy soars 20% on AI data center power deal\n\nOracle stocks bounced as software shares continued to recover and the company expanded a capacity deal with Bloom Energy.",
+    "t": "אורקל קופץ שוב, בלום אנרג'י עולה 20% על עסקת כוח למרכזי נתונים AI\n\nמניות אורקל חוזרות לעלייה כשמניות תוכנה ממשיכות להתאושש, והחברה הרחיבה את ההסכם הקיבולת שלה עם בלום אנרג'י. דיל זה משקף את הביקוש המתפרץ של חברות ל-AI למקורות כוח אמינים לתשתיות הנתונים שלהם, ובלום אנרג'י תופסת את ההזדמנות הגדולה הזו.",
     "d": "Tue, 14 Apr 2026 14:49:54 GMT",
     "v": 0,
     "l": [
@@ -170,7 +170,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "Google brings its Gemini Personal Intelligence feature to India\n\nThe feature lets users connect Google accounts like Gmail and Photos to get personalized answers.",
+    "t": "גוגל מביאה את פיצ'ר Gemini Personal Intelligence שלה להודו\n\nגוגל מאיצה בהצגת ההתאמה האישית: ה-Gemini שלה כעת יכול להתחבר לחשבונות גוגל כמו Gmail ותמונות, כדי לתת לכם תשובות מותאמות במיוחד עבורכם. בעיקרון, בדיוק כמו שיש לכם עוזר אישי, אבל של גוגל.",
     "d": "Tue, 14 Apr 2026 14:48:34 +0000",
     "v": 0,
     "l": [
@@ -196,7 +196,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Grab the ultra-fast Elegoo Centauri Carbon 3D printer for just $285 right now, saving you $128 — limited-time sale price nets you a fully enclosed Core-XY printer built for beginners and enthusiasts\n\nThe Elegoo Centauri Carbon, one of our all-time favorite 3D printers, is on sale for a limited-time only, down to just $285.",
+    "t": "פרינטר 3D Elegoo Centauri Carbon במחיר מטורף: רק 285 דולר - חסכון של 128 דולר בהצעה מוגבלת\n\nה-Elegoo Centauri Carbon, אחד הפרינטרים התלת-מימדיים המובילים בשוק, זמין עכשיו בהצעה חם בדיוק: סתם 285 דולר במקום המחיר הרגיל. המכונה הזו עם ה-Core-XY מהיר וגוף סגור מושלמת לתחילונים ותיקים כמו לכם, ובמחיר הזה זה פשוט לא משנמנם. Tom's Hardware",
     "d": "Tue, 14 Apr 2026 14:47:26 +0000",
     "v": 0,
     "l": [
@@ -219,7 +219,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "China's premiere memory-maker YMTC plans two additional Wuhan fabs using homegrown chipmaking tools — Phase 3 crosses 50% domestic tooling threshold\n\nChina’s Yangtze Memory Technologies plans to build two fabs beyond the Phase 3 plant that it’s due to complete in Wuhan this year.",
+    "t": "יצרנית הזיכרון הסינית YMTC מתכננת שני מפעלים נוספים בווהאן עם כלים ביתיים — שלב 3 חוצה את סף ה-50% של ציוד מקומי\n\nYMTC, ענקית הזיכרון הסינית, מתכננת להקים שני מפעלים חדשים בווהאן מעבר לאחד שאמור להסתיים השנה. החברה מצליחה להפחית תלות בטכנולוגיה זרה בעזרת כלים ציוד מקומיים, וכבר הגיעה לסף של 50% ציוד ביתי בשלב 3 של הייצור.",
     "d": "Tue, 14 Apr 2026 14:31:08 +0000",
     "v": 0,
     "l": [
@@ -242,7 +242,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "How vibe coding app Anything is rebuilding after getting booted from the App Store twice\n\nAnything is planning to launch a desktop companion app to aid mobile app development after its App Store removal.",
+    "t": "איך אפליקציית 'Anything' משחזרת את עצמה אחרי שהוסרה מה-App Store פעמיים\n\nAnything, האפליקציה ה-AI שנועדה לעזור למפתחים, חוזרת למשחק עם אפליקציית companion לשולחן העבודה. אחרי שהוציאו אותה מה-App Store פעמיים, החברה מחליטה לפתח את הכלים שלה גם לדסקטופ כדי לתמוך בפיתוח אפליקציות מובייל.",
     "d": "Tue, 14 Apr 2026 14:22:44 +0000",
     "v": 0,
     "l": [
@@ -265,7 +265,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Evercore ISI pounds table on Sandisk. Bull case sees rally to $2,600\n\nShares of Sandisk have already rallied nearly 300% this year. Evercore's bull case sees another 173% jump.",
+    "t": "אנליסטים של Evercore ISI בטוחים ב-Sandisk: המניה יכולה להגיע ל-2,600 דולר\n\nSanDisk כבר עלתה ב-300% השנה, אבל זה עדיין לא מספיק לדעת אנליסטים שרואים פוטנציאל של עוד 173% עלייה. Evercore ISI טוענת שיש הרבה מקום להתחזקות נוספות במניה של יצרנית זיכרון הנתונים.",
     "d": "Tue, 14 Apr 2026 14:18:41 GMT",
     "v": 0,
     "l": [
@@ -288,7 +288,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "24-ft tiny house designed for comfortable full-time life on wheels\n\nDesigned to maximize comfort in a compact footprint, the Currumbin combines a smart layout with some well-thought-out features to create a home that's suitable for full-time life on wheels. There are lots of optional upgrades available too, including an off-grid setup and an outdoor terrace area.\nContinue Reading\nCategory: Tiny Houses, Outdoors\nTags: Building and Construction, Tiny Footprint, Micro-House, House, Home",
+    "t": "בית זעיר בגודל 24 רגל שעוצב לחיים נוחים מלאים על גלגלים\n\nה-Currumbin הוא בית נייד קומפקטי שמשלב תכנון חכם עם תכונות מחוכמות כדי ליצור מרחב חיים בדרך הולם לנוודים. המעצבים לא שכחו כמעט כלום - יש כאן אפשרויות לשדרוג off-grid, אזורי ישיבה חיצוניים, והכל בתוך מטר מעוקב קטן שמרגיש גדול הרבה יותר.",
     "d": "Tue, 14 Apr 2026 14:07:00 GMT",
     "v": 0,
     "l": [
@@ -311,7 +311,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Woman Sues OpenAI, Saying ChatGPT Unleashed a Vicious Stalker Against Her and Did Nothing When She Begged for Help\n\n\"His location and plans are something OpenAI could shed light on if they were willing to cooperate.\"\nThe post Woman Sues OpenAI, Saying ChatGPT Unleashed a Vicious Stalker Against Her and Did Nothing When She Begged for Help appeared first on Futurism.",
+    "t": "אישה תובעת את OpenAI בטענה שـ ChatGPT הוביל לרדיפה קשה וחברה סירבה לעזור\n\nכל זה קרה כשאישה ניסתה בעתך לעזרה כי מישהו השתמש בـ ChatGPT כדי לתכנן את רדיפתה, ו-OpenAI לא עשתה כמעט שום דבר. התביעה מעלה שאלות ממש חשובות על האחריות של חברות ה-AI כשהטכנולוגיה שלהן משמשת לרע, ועל מה צריך לעשות כשמישהו מבקש עזרה דחופה.",
     "d": "Tue, 14 Apr 2026 10:01:37 -0400",
     "v": 0,
     "l": [
@@ -337,7 +337,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "Amazon to buy Globalstar to bolster Leo satellite business in deal worth about $11.6 billion\n\nAmazon said it would acquire Globalstar, giving its nascent satellite internet business a boost as it vies to compete with Elon Musk's SpaceX.",
+    "t": "אמזון קונה את Globalstar תמורת 11.6 מיליארד דולר כדי לחזק את עסק הלוויינים שלה\n\nאמזון החליטה לרכוש את Globalstar בעסקה ענקית שתעניק לה דחיפה משמעותית בתחום האינטרנט דרך לוויינים - ובכך להתחרות ישירות עם SpaceX של אילון מאסק. הרכישה הזו מציבה את אמזון בעמדה כלל-לא-רעה בקרב ענקיות הטכנולוגיה שמתחרות על הדומיננציה בשוק הקישוריות הלוויינית החדש וההופעתי.",
     "d": "Tue, 14 Apr 2026 14:01:26 GMT",
     "v": 0,
     "l": [
@@ -350,21 +350,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 16,
-    "t": "Bosses say AI boosts productivity – workers say they’re drowning in ‘workslop’\n\nWorkslop refers to AI-generated work that seems polished but is flawed and in need of heavy corrections\nKen, a copywriter for a large, Miami-based cybersecurity firm, used to enjoy his job. But then the “workslop” started piling up.\nWorkslop is an unintended consequence of the AI boom. It’s what happens when employees use AI to quickly generate work that seems polished – at least superficially – but is in fact so flawed or inaccurate that it needs to be heavily corrected, cleaned upor even compl",
+    "t": "מעסיקים: AI מגביר פרודוקטיביות | עובדים: אנחנו טובעים בערימות של 'זבל עבודה'\n\nמתברר שהקצר בדרך כל פעם לא כל כך קצר - עובדים בחברות גדולות מתלוננים על 'workslop' - עבודה שנוצרה על ידי AI שנראית טובה בעיניים ראשונות אבל בעצם מלאה בטעויות ודורשת תיקונים כבדים. הדבר הופך להיות בעיה משמעותית במקומות עבודה שדחפו את השימוש ב-AI, כי הסוף סוף אתה צריך איש כדי לנקות את הבלגן של האלגוריתמים. מה שמתורגם בפועל הוא שהעובדים עסוקים יותר מתמיד בתיקון והסרת הטעויות של מערכות AI, בגלל שמנהלים חשבו שזה יהיה הפתרון המהיר.",
     "d": "Tue, 14 Apr 2026 14:00:58 GMT",
     "v": 0,
     "l": [
@@ -379,9 +375,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/7d94c97a03acca95bc59d46355016efb1bc197ca/584_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=9e587da852be686b10e7ab0d79c2fca7",
@@ -389,7 +383,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "Bambu Lab X2D review: Improving a fan favorite\n\nBambu Lab’s first 3D printer, the X1, gets an overhaul.",
+    "t": "ביקורת על Bambu Lab X2D: שיפור של מכשיר שכבר אהבנו\n\nBambu Lab חזרה לשולחן הציור עם X2D - הגרסה המשופרת של המדפסת התלת-מימדית X1 שלהם שכבר כבשה את הלבות של יצרנים ומעצבים. התחנה השנייה של החברה בעולם ההדפסה מביאה שיפורים משמעותיים שממש כדאי לכם להכיר.",
     "d": "Tue, 14 Apr 2026 14:00:00 +0000",
     "v": 0,
     "l": [
@@ -412,7 +406,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "Russia tests quasi-hypersonic round hitting 3,420 mph for anti-drone defense\n\nRussia has tested a new quasi-hypersonic round made for its Dvoinik robotic weapons system. This...",
+    "t": "רוסיה בדקה קליע כמעט היפרסוני שמגיע ל-3,420 מייל בשעה לשם הגנה נגד מל\"טים\n\nרוסיה חשפה קליע חדש וקשוח שפותח במיוחד לעבודה עם מערכת הנשקים הרובוטית שלהם בשם דווינק. הקליע מצליח להגיע למהירויות קרובות למהירות היפרסונית כדי ליירט מל\"טים ממעוף, וזה סימן נוסף לתחרות בתוך התעשייה הצבאית בעולם. מדובר על כלי שיכול לשנות את הכללים בהגנה אוירית נגד איומים מודרניים.",
     "d": "Tue, 14 Apr 2026 13:55:07 +0000",
     "v": 0,
     "l": [
@@ -427,8 +421,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -436,7 +429,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "Has Google’s AI watermarking system been reverse-engineered?\n\nA software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim that, according to Google, isn't true.\nThe developer, going by the username Aloshdenny, has open-sourced their work on GitHub and documented his process, claiming all it required was 200 Gemini-generated images, signal processing, and \"way too much free time.\" A little weed also seemed to help.\n\"No ",
+    "t": "האם מערכת ההימור של Google אונסה? המפתח טוען שהצליח לשבור את SynthID\n\nמפתח תוכנה טוען שהצליח להפוך את ההימור של Google DeepMind (SynthID) - המערכת שמסומנת תמונות מ-AI - תוך שימוש בסתם 200 תמונות מ-Gemini וקצת עיבוד אותות, והעלה את הקוד לגיטהאב. גוגל בוודאות מתנגדת לטענה הזו, אבל האם יש כאן בעיה אחת ברצינות? זה מתחיל להיראות כמו דרמה של보안 עמוקה.",
     "d": "2026-04-14T13:53:53.000Z",
     "v": 0,
     "l": [
@@ -462,7 +455,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "Claude Mythos is a wake-up call for Europe's AI safety apparatus\n\nAnthropic is restricting access to Claude Mythos, an AI model it says can find security vulnerabilities better than most humans. European authorities have almost no visibility into the system, while the UK is already running its own tests. The situation exposes a deeper structural problem.\nThe article Claude Mythos is a wake-up call for Europe's AI safety apparatus appeared first on The Decoder.",
+    "t": "Claude Mythos הוא פעמון אזעקה למערכת בטיחות ה-AI של אירופה\n\nאנתרופיק מגבילה גישה ל-Claude Mythos, מודל AI שלה שמוצא חולשות בטיחות טוב יותר מרוב האנשים - אבל רשויות אירופאיות כמעט ואין להן שום ראות למערכת, בזמן שבריטניה כבר מבצעת בדיקות משלה. המצב הזה חושף בעיה מבנית עמוקה בעולם חדשנות ה-AI והרגולציה.",
     "d": "Tue, 14 Apr 2026 13:53:49 +0000",
     "v": 0,
     "l": [
@@ -480,8 +473,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -489,7 +481,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "US scientists build spring-powered computer that runs without electricity\n\nIn a world obsessed with smaller chips and faster charging, a team of scientists just...",
+    "t": "מדענים אמריקאים בנו מחשב מופעל בקפיצים שרץ ללא חשמל\n\nבזמן שהעולם מתעסק בצ'יפים קטנים יותר וטעינה מהירה יותר, צוות של מדענים הפתיע וגם הבחור את כולנו עם המצאה מטורפת: מחשב שעובד על קפיצים ובלא צורך בחשמל! זה לא בדיוק החדשות הטכנולוגיות שאנחנו רגילים לשמוע, אבל לפי הדיווח של Interesting Engineering, הטכנולוגיה הזו יכולה להיות משחק רחוק בעולם של מחשוב עתידי, במיוחד למקומות שאין להם גישה לתשתיות חשמל.",
     "d": "Tue, 14 Apr 2026 13:26:33 +0000",
     "v": 0,
     "l": [
@@ -512,7 +504,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "US begins Hormuz demining with destroyers as blockade disrupts global oil flows\n\nAt least four Iran-linked ships have transited the Strait of Hormuz despite the US blockade,...",
+    "t": "ארה\"ב מתחילה פעולות הסרת מוקשים בהורמוז עם משמרות קרביות כשהחסימה משבשת זרימת נפט עולמית\n\nהאמריקאים החלו בפעולות צבאיות להסרת מוקשים בתעלת הורמוז, זירה קריטית לסחר הנפט העולמי, כשספינות הקשורות לאיראן ממשיכות להעביר סחורה למרות החסימה. מהלך זה משקף את ההתגברות של המתיחות במזרח התיכון ותוך כדי זה מסכן את יציבות שוק האנרגיה הגלובלי.",
     "d": "Tue, 14 Apr 2026 13:20:24 +0000",
     "v": 0,
     "l": [
@@ -535,7 +527,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "150 million palm trees’ surface fiber waste could help make bio-oil with new trick\n\nThe date palm has been a “Tree of Life” in the Middle East, providing shade,...",
+    "t": "150 מיליון עצי דקל יכולים להפוך לביו-שמן - חידוש טכנולוגי חדש\n\nאז קרה משהו מעניין - חוקרים גילו דרך חדשה להפוך את הסיבים על פני השטח של עצי דקל לביו-שמן, וזה יכול להיות גדול מאוד לתחום האנרגיה המתחדשת. בחזקה שלנו בקרובה ובמזרח התיכון, זה כמו למצוא כסף בכיס של מעיל משנה שלא לבשת - יש לנו המון עצי דקל וגם מה לעשות עם הת废שלהם. הפוטנציאל הוא עצום, והטכנולוגיה הזאת יכולה לשנות את המשחק של ייצור דלק ממקורות ירוקים.",
     "d": "Tue, 14 Apr 2026 13:12:06 +0000",
     "v": 0,
     "l": [
@@ -558,7 +550,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 24,
-    "t": "Psychological Research Finds Trump Supporters Are Not Doing Well\n\n\"I wanted to give those supporters a chance to explain in their own words why they support him.\"\nThe post Psychological Research Finds Trump Supporters Are Not Doing Well appeared first on Futurism.",
+    "t": "מחקר פסיכולוגי: תומכי טראמפ לא במצב טוב\n\nחוקרים בדקו את המצב הנפשי והחברתי של תומכי טראמפ, והתוצאות לא כל כך חיוביות. המחקר נתן לתומכים הסיכוי להסביר בדבריהם שלהם למה בעצם הם תומכים בו, וזה חשף כמה דברים מעניינים על המוטיבציות שלהם. כל זה בא מ-Futurism.",
     "d": "Tue, 14 Apr 2026 09:02:12 -0400",
     "v": 0,
     "l": [
@@ -581,7 +573,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "Alienware AW2726DM 27-inch QHD 240 Hz QD-OLED gaming monitor review: A price breakthrough for desktop OLED\n\nAlienware smashes price barriers with the AW2726DM. It’s a 27-inch QHD QD-OLED with 240 Hz, Adaptive-Sync, HDR10, and wide gamut color with an opening price of just $350.",
+    "t": "סקירה Alienware AW2726DM: מסך OLED לגיימרים בחיר -ついに המחיר ירד!\n\nאלינוור שבר את כל הרקורדים במחיר - מסך 27 אינץ' QHD עם QD-OLED וקצב רענון של 240 Hz כעת ב-350 דולר בלבד. זה מסך שמציע כל מה שחולמים עליו גיימרים: צבעים מעולים, עמוק אמיתי וAdaptive-Sync כל זה בהודעת מחיר שפשוט לא משתלם לעבור עליה.",
     "d": "Tue, 14 Apr 2026 13:00:00 +0000",
     "v": 0,
     "l": [
@@ -598,13 +590,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/FZh7tyJdWXx8ASNLc5tgnQ-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 26,
-    "t": "SAP brings agentic AI to human capital management\n\nAccording to SAP, integrating agentic AI into core human capital management (HCM) modules helps target operational bloat and reduce costs. SAP’s SuccessFactors 1H 2026 release aims to anticipate administrative bottlenecks before they stall daily operations by embedding a network of AI agents across recruiting, payroll, workforce administration, and talent development. Behind the user interface, these […]\nThe post SAP brings agentic AI to human capital management appeared first on AI News.",
+    "t": "SAP מביאה agentic AI לניהול הון אנושי\n\nSAP משיקה רשת של AI agents בגרסת SuccessFactors 1H 2026 שתעזור לחברות להיפטר מבלאגן ביורוקרטי ולחתוך עלויות בתחומי גיוס כוח אדם, משכורות וניהול כישרונות. המערכת תצפה בבעיות לפני שהן באמת מפריעות לעבודה, וזה כמו שיש לך assistant ذכי שיודע להזהיר אותך על תקיעויות אדמיניסטרטיביות עד שהן קורות.",
     "d": "Tue, 14 Apr 2026 12:55:09 +0000",
     "v": 0,
     "l": [
@@ -628,7 +620,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 27,
-    "t": "Our experts review your astonishing PC builds and setups in Rig Rundown — from wall-mounted setups to a system packed inside of a 1:6 scale RC car\n\nWe go through user-submitted PC builds and crown a winner in the inaugural Tom's Hardware Premium Rig Rundown results",
+    "t": "Rig Rundown - מומחי טום'ס הארדוור בוחנים את בניות המחשבים המדהימות שלכם: מסטאנדים קיר ועד למערכת שכנוסה בתוך מכונית RC בגודל 1:6\n\nטום'ס הארדוור סקרו את בניות המחשבים שהגישו המשתמשים שלכם והכתירו את הזוכה בתחרות Rig Rundown הראשונה. מבניות משוגעות עם תאורה מטורפת ועד לביצועים אולטימטיביים - הנה הבניות שהשאירו אתנו פיתפויות.",
     "d": "Tue, 14 Apr 2026 12:38:00 +0000",
     "v": 0,
     "l": [
@@ -651,7 +643,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 28,
-    "t": "News outlets are blocking Wayback Machine from archiving their pages — 23 outlets concerned AI companies might abuse fair use and use it to train their models\n\nMany major news outlets are blocking the Wayback Machine's crawler from archiving their pages, despite using the tool for their reporting. Their primary concern is that AI tech companies are breaking fair use and training their models on publicly available data.",
+    "t": "ערוצי חדשות חוסמים את Wayback Machine - חוששים שחברות AI יחטפו את התוכן שלהם לאימון מודלים\n\n23 ערוצי חדשות גדולים החליטו לחסום את הגישה של Wayback Machine לעמודיהם, דווקא למרות שהם עצמם משתמשים בכלי הזה לעבודת העיתונות שלהם. הסיבה? הם חוששים שחברות AI משתמשות בנתונים פומביים לאימון המודלים שלהם בדרך שמפרה את זכויות ה-fair use שלהם, וזה סוג של קצר דרך דיגיטלית שלא הם אישרו.",
     "d": "Tue, 14 Apr 2026 12:27:32 +0000",
     "v": 0,
     "l": [
@@ -668,13 +660,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/uHrw3MvBA6YAPHgNe2wPU3-1280-80.png",
     "source": "Tom's Hardware"
   },
   {
     "id": 29,
-    "t": "Nissan turnaround plan pins hopes on ‘AI-defined vehicles’\n\nJapanese carmaker will add self-driving abilities to 90% of cars in future and cut a fifth of its models\n\nBusiness live – latest updates\n\nNissan has said it will add self-driving abilities to the vast majority of its cars and cut a fifth of its models in the latest stage of the Japanese carmaker’s drawn-out turnaround efforts.\nIvan Espinosa, Nissan’s chief executive, said the company was pinning its hopes on “AI-defined vehicles”, with an aim of installing autonomous driving technologies on 90% ",
+    "t": "ניסאן מהמרת על 'רכבים מוגדרים בAI' בתוכניתת ההחייאה שלה\n\nניסאן מתחייבת להוסיף יכולות נהיגה אוטונומית ל-90% מהרכבים שלה בעתיד, במסגרת תוכניתת התיקוםהגדולה של היצרנית היפנית. המהלך כולל גם עיתוד של חמישית ממודלי הרכבים הקיימים. ההנהלה של ניסאן מדברת על 'רכבים מוגדרים בAI' כציר מרכזי בשיקום החברה וחזרתה לרווחיות.",
     "d": "Tue, 14 Apr 2026 12:25:51 GMT",
     "v": 0,
     "l": [
@@ -689,16 +681,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/4870fef247f3ab9f285484bbe72d737303577e80/39_171_995_796/master/995.jpg?width=140&quality=85&auto=format&fit=max&s=04491cf385e4ed310a4151ddb5a251ca",
     "source": "The Guardian AI"
   },
   {
     "id": 30,
-    "t": "Mark Zuckerberg reportedly working on AI clone of himself — Meta insiders claim 3D photoreal animated Zuck will be able to engage with employees on his behalf\n\nThe very top job at Meta may periodically be delegated to an AI replica of Mark Zuckerberg. Will anyone notice?",
+    "t": "מארק צוקרברג כנראה עובד על AI קלון של עצמו — מקורות ב-Meta טוענים שאנימציה תלת-ממדית פוטוריאליסטית של צוק תוכל להחליף אותו בפגישות עם עובדים\n\nנראה שבמטא לא מספיק להם צוקרברג אחד, אז הם בונים גרסה AI של המנכ\"ל שתוכל להחליף אותו בתקשורת עם הצוות. אם זה באמת יתרחש, זה יהיה קצת מוזר - אבל גם די מעניין לחשוב כמה זמן עד שאף אחד יבחין בהבדל. 😄",
     "d": "Tue, 14 Apr 2026 12:24:22 +0000",
     "v": 0,
     "l": [
@@ -718,13 +709,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/DyGUvTXTnmsaAce2Hy8F8c-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 31,
-    "t": "The Download: the state of AI, and protecting bears with drones\n\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Want to understand the current state of AI? Check out these charts.  If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even…",
+    "t": "ההורדה: מצב ה-AI וכיצד כישוף משמש להצלת דובים\n\nאם אתם עוקבים אחרי חדשות AI בימים האלה, אתם בטח מרגישים סחרחורת - בשנייה זה זהב טהור, בשנייה הבאה זה בועה, ובשנייה השלישית הוא לוקח לכם את העבודה. בעיתון היום של MIT Technology Review נעמוד על הראש של כל הרעש ונראה מה באמת קורה בעולם ה-AI דרך כמה תרשימים שימושיים.",
     "d": "Tue, 14 Apr 2026 12:10:00 +0000",
     "v": 0,
     "l": [
@@ -747,7 +738,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 32,
-    "t": "JPMorgan earnings, Oracle's $300 million windfall, new Delta suites and more in Morning Squawk\n\nHere are five key things investors need to know to start the trading day.",
+    "t": "הכנסות JPMorgan, רווח של 300 מיליון דולר ל-Oracle, סוויטות חדשות של Delta ועוד בתחזוקת הבוקר\n\nJPMorgan פרסמה תוצאות רבעוניות, Oracle קיבלה הזדמנות עסקית ערכה של 300 מיליון דולר, ו-Delta משיקה חבילות VIP חדשות. אלו חמש הנקודות המרכזיות שכל משקיע צריך להכיר לפני פתיחת הבורסה היום.",
     "d": "Tue, 14 Apr 2026 12:07:18 GMT",
     "v": 0,
     "l": [
@@ -770,7 +761,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 33,
-    "t": "AI companies make powerful tech – but they’re also savvy marketers\n\nAnthropic’s Claude Mythos AI is said to be frighteningly capable, but we shouldn’t get carried away by the hype\nHello, and welcome to TechScape. I’m your host, Blake Montgomery, the Guardian’s US tech editor, writing to you from my happy village in Pokopia.\nTech companies are cutting jobs and betting on AI. The payoff is far from guaranteed\n‘There’s a lot of desperation’: skilled older workers turn to AI training to stay afloat\n‘It has your name on it, but I don’t think it’s you’: how AI is impe",
+    "t": "חברות AI יוצרות טכנולוגיה חזקה – אבל הן גם מומחות בשיווק\n\nAnthropic טוענת שה-Claude שלה הוא מטורף בעוצמתו, אבל צריך להיזהר מהhype שמסביב. חברות הטק מקטינות כוח עבודה ומהמרות על AI, אבל הרווח הוא כל מה חוץ מוודאי. בסרטון זה נחפור לשאלה האמיתית: האם בעצם יש פה פחות מדי שמ, והחברות הגדולות פשוט יודעות למכור חלום?",
     "d": "Tue, 14 Apr 2026 12:04:48 GMT",
     "v": 0,
     "l": [
@@ -796,7 +787,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 34,
-    "t": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?\n\nMIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Just before Artemis II began its historic slingshot around the moon, Jared Isaacman, the recently confirmed NASA administrator, made a flurry of announcements from the agency’s headquarters…",
+    "t": "נאס\"א בונה את חללית הדור הבא - עם כור גרעיני משלה\n\nנאס\"א הולכת לחלוטין בדרך אחרת: במקום תלות בלוחות סולריים מסורתיים, וכל החברים שלנו בשדה התעופה החללית מדברים על משהו מטורף - כור גרעיני שיספק אנרגיה ללא הנחתה למשימות בין-כוכביות. זה לא בדיוני סיינס - זה תוכנית אמיתית שנכנסת לשלבי בנייה, וזה יכול להיות משחק משנה להגעה למאדים וחוצה. הבחורים מ-MIT Technology Review כילו להסביר איך בעצם הטכנולוגיה המטורפת הזו תעבוד בחלל.",
     "d": "Tue, 14 Apr 2026 12:04:47 +0000",
     "v": 0,
     "l": [
@@ -811,8 +802,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -820,7 +810,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 35,
-    "t": "A swivel display disguises this gaming handheld as a media player\n\nAnbernic makes a wide range of portable gaming consoles whose designs leave nothing to the imagination, with the usual arrays of controller buttons alongside or below a display. With its upcoming device, it's taking a more discreet design direction, which should also make for an easier fit in your pocket.\nContinue Reading\nCategory: Consumer Tech, Technology\nTags: Gaming, Handheld, Portable Gaming, EDC",
+    "t": "מסך מסתובב מסתיר את ה-Handheld Gaming החדש של Anbernic כמכשיר מדיה\n\nAnbernic הוציאה דגם חדש שחושף גישה ייצור יוניקית - ה-handheld המתקפל הזה מסתיר את עצמו כמכשיר מדיה רגיל, עם מסך בטכנולוגיית Swivel שמאפשר לסתור את הקונסולה כשאתה לא משחק. הדיזיין החדש לא רק נראה יותר דיסקרטי מאשר הקונסולות המסורתיות של Anbernic עם הכפתורים הגדולים שלהן, אלא גם מתאים הרבה יותר טוב לכיס - כל אחד שחוטא עם משחקים בדרכו לעבודה יאהב את זה.",
     "d": "Tue, 14 Apr 2026 12:04:06 GMT",
     "v": 0,
     "l": [
@@ -843,7 +833,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 36,
-    "t": "AI learns language from skewed sources. That could change how we humans speak – and think | Bruce Schneier\n\nLarge language models aren’t trained on real-life conversations. As we encounter their language, it could affect our own\nBecause of the way they are trained, large language models capture only a slice of human language. They’re trained on the written word, from textbooks to social media posts, and our speech as captured in movies and on television. These models have minimal access to the unscripted conversations we have face-to-face or voice-to-voice. This is the vast majority of speech, and a v",
+    "t": "בעיה גדולה: מודלי AI למדים שפה מקוצצת – וזה עלול לשנות את הדרך שבה אנחנו מדברים וחושבים\n\nמתברר שה-LLM המוד'ים שלנו למדים שפה מעולם מעוות שלא משקף את המציאות. הם מתרגלים על טקסטים, ספרים וחוזים סוציאליים, בעוד שהם מוכיחים להם כמעט כלום מהשיחות האמיתיות שלנו פנים אל פנים. הבעיה? כשאנחנו מתחילים ליישם את השפה של הרובוטים האלה בחזרה שלנו, זה יכול להשפיע על האופן שבו אנחנו בעצמנו מדברים וחושבים. זה די מעיר – ככל שה-AI מתפשט, הוא עשוי להוציא את השפה האנושית מהמסלול שלה.",
     "d": "Tue, 14 Apr 2026 12:00:56 GMT",
     "v": 0,
     "l": [
@@ -866,7 +856,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 37,
-    "t": "Score a massive $700 off this 4K-ready Lenovo gaming PC with an RTX 5070 Ti, now just $1,899 — epic Legion Tower 5i pre-built ships with a 20-core Intel CPU, 32GB DDR5 and a 2TB SSD\n\nSave a massive $700 on this Lenovo Legion Tower 5i gaming PC with an Intel Core Ultra 265F CPU, Nvidia GeForce RTX 5070 Ti GPU, 32GB of DDR5-5600 RAM, and a 2TB NVMe SSD, all for just $1,899.99.",
+    "t": "מחיר מטורף: מחשב גיימינג Lenovo Legion Tower 5i עם RTX 5070 Ti ב-1,899$ בלבד - חיסכון של 700$ על קונפיגורציה מפלצתית\n\nLenovo זורקת מחיר אקסי על מחשב הגיימינג Legion Tower 5i שלהם - תקבלו RTX 5070 Ti חדשנית, Intel Core Ultra 265F עם 20 ליבות, 32GB DDR5 ו-2TB SSD תמורת 1,899$ בלבד. זה עניין שלא צריך להחמיץ אם אתם מחפשים קונסולה משחקים למחשב חזקה שתעשה ממש הכל בקוד גבוה.",
     "d": "Tue, 14 Apr 2026 12:00:47 +0000",
     "v": 0,
     "l": [
@@ -879,12 +869,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Nvidia"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "hardware"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/oV3Qe5zQcmtkCCT9QD9fjH-1280-80.png",
@@ -892,7 +879,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 38,
-    "t": "Pay $1349.99 for Gigabyte's Aero X16 laptop and save $300 on this 32GB beast with RTX 5070 graphics — outstanding battery life a bonus\n\nGigabyte's Aero X16 packs 32GB of RAM, a 1TB SSD, and a powerful Nvidia RTX 5070 GPU all for $1349.99 in this Best Buy deal.",
+    "t": "גיגהבייט Aero X16 בחצי מחיר: לפטופ משחק עם RTX 5070 בכ-1350 דולר\n\nדיל חם מ-Best Buy על המחשב הנייד Aero X16 של גיגהבייט - מקבלים כאן 32GB RAM, RTX 5070 גרפיקס חזק, SSD בטרה עם הנחה של 300 דולר, והכל עם סוללה שלא תמותה מידי מהר. אם חיפשתם מכונה ברצינות לעבודה כבדה וגיימינג בלי להרוס את הכיס, זה הזמן.",
     "d": "Tue, 14 Apr 2026 11:43:10 +0000",
     "v": 0,
     "l": [
@@ -905,12 +892,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Nvidia"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "hardware"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/oyvktUpnVpME8bmAAFdLvd-1280-80.jpg",
@@ -918,7 +902,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 39,
-    "t": "Canada’s Scotiabank preps for its AI future\n\nScotiabank has launched an AI framework, Scotia Intelligence, for data and AI operations that joins various platforms, data oversight, and software tools into a single instance. According to a press release from the bank, the stated purpose of Scotia Intelligence is to give employees, especially client-facing teams, access to AI under the bank’s existing governance […]\nThe post Canada’s Scotiabank preps for its AI future appeared first on AI News.",
+    "t": "בנק Scotiabank של קנדה מתכין את עצמו לעתיד בחיתוך AI\n\nבנק Scotiabank השיק את 'Scotia Intelligence' - פלטפורמה חדשה ל-AI ותפעול נתונים שמאחדת כל הכלים והפלטפורמות השונות למקום אחד. המטרה? לתת לעובדים ובמיוחד לצוותים שעובדים עם לקוחות גישה קלה ל-AI תחת הפיקוח וההנהלה של הבנק.",
     "d": "Tue, 14 Apr 2026 11:20:00 +0000",
     "v": 0,
     "l": [
@@ -942,7 +926,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 40,
-    "t": "New solar-powered airship stays airborne for 12 days at 52,000-ft altitude in test\n\nSceye’s airship, the solar-powered SE2 high-altitude platform system (HAPS), has successfully completed a 12-day mission...",
+    "t": "כלי אוויר סולארי חדש הישאר בהנתקה למשך 12 ימים בגובה של 52,000 רגל בניסוי\n\nחברת Sceye הצליחה לבצע משימה מרשימה עם הכלי SE2 שלה - פלטפורמה בגובה רב (HAPS) המופעלת כולה באנרגיה סולארית, שהישאר בהנתקה מעל 12 ימים שלמים! זהו הישג גדול בתחום התעופה המתחדשת, שיכול לשנות את הדרך בה אנחנו משדרים אינטרנט לאזורים מרוחקים. מקור: Interesting Engineering",
     "d": "Tue, 14 Apr 2026 11:12:31 +0000",
     "v": 0,
     "l": [
@@ -965,7 +949,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 41,
-    "t": "‘World-first’ off-grid project combining solar, wind and 5 GWh of battery storage\n\nFortescue, an Australia-based metals mining major, is working to eliminate fossil fuel usage by shifting...",
+    "t": "פרויקט חדשני בעולם: שילוב של אנרגיה סולארית, כוח רוח וסוללות ענקיות של 5 GWh\n\nענקית הכרייה האוסטרלית Fortescue משקיעה בפרויקט מהפכני שמשלב אנרגיה מתחדשת בקנה מידה ענק - סולאר, רוח וסוללות ענקיות - כדי להיפטר סופית מתלות בדלקי fosil. זה לא רק עוד חברה שחיווכת על עתיד ירוק, אלא צעד בטון להפוך את מפעלי הכרייה למחליקים לגמרי מפחמן. המימוש של הרעיון הזה יכול להשפיע על דרך שמתופעלים מפעלים כבדים בכל העולם.",
     "d": "Tue, 14 Apr 2026 11:07:11 +0000",
     "v": 0,
     "l": [
@@ -978,12 +962,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -991,7 +972,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 42,
-    "t": "Coming soon: 10 Things That Matter in AI Right Now\n\nEach year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma. While our final picks encompass all our core coverage areas (energy, AI, and biotech, plus a few more), our 2026 list…",
+    "t": "עוד לא הספקנו להיות מעודכנים: 10 דברים שחשובים ב-AI עכשיו\n\nכמו בכל שנה, MIT Technology Review מוציאה את רשימת ה-10 טכנולוגיות הפורצות שהן הולכות לשנות את העולם, אבל השנה זה היה קצת יותר מסובך. הרשימה לשנת 2026 כוללת את כל התחומים החזקים שלהם - AI, אנרגיה וביוטק - אבל נראה שלא היה קל להחליט מה באמת הולך להיות המשחק משנה הבא.",
     "d": "Tue, 14 Apr 2026 11:00:00 +0000",
     "v": 0,
     "l": [
@@ -1008,13 +989,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "MIT Technology Review"
   },
   {
     "id": 43,
-    "t": "Veteran Windows dev shows off AI running on 47-year-old PDP11 with 6 MHz CPU and 64KB of RAM — 'gloriously absurd' project runs transformer model written in PDP-11 assembly language\n\nAncient 6 MHz ‘PDP11 can train a neural network’ says veteran dev.",
+    "t": "מפתח Windows וטרן הראה AI שרץ על מחשב PDP11 מלפני 47 שנה עם CPU של 6 מגה-הרץ ו-64 קילובייט זיכרון — פרויקט 'מגוחך בכבוד'\n\nמפתח ותיק הצליח להריץ מודל transformer על מחשב עתיק מהשנות ה-70 שלם בכתיבה בשפת assembly, והתוצאה היא פשוט מטורפת — להוכיח שאפילו חומרה שנראית כמו מוזיאון יכולה להתחזק עם AI מודרני.",
     "d": "Tue, 14 Apr 2026 10:45:00 +0000",
     "v": 0,
     "l": [
@@ -1037,7 +1018,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 44,
-    "t": "Half of all US employees now use artificial intelligence at work, crossing landmark threshold for first time — Gallup data shows daily and weekly usage hitting all-time high of 28% in Q1 2026, with 65% feeling positive about its impact on productivity\n\n50% of American adults in employment use AI at least once a year, with 28% using it daily or weekly, according to a new Gallup survey. While AI-focused companies are seeing huge disruption, 65% of those employees felt positive about its individual impact on their productivity.",
+    "t": "מחצית מעובדי ארה\"ב משתמשים כעת בבינה מלאכותית בעבודה - סקר Gallup חוקה שיא היסטורי\n\nבדיוק חצה הסף ההיסטורי: חצי מהעובדים בארה\"ב משתמשים בAI לפחות פעם בשנה, וכמעט שליש מהם משתמשים בכלים האלה כל יום או שבועה. הפתיע הכי? 65% מהעובדים אומרים שה-AI בעצם עוזר להם להיות יותר פרודוקטיביים - אז אולי הרובוטים לא כל כך רעים עדיין.",
     "d": "Tue, 14 Apr 2026 10:40:00 +0000",
     "v": 0,
     "l": [
@@ -1060,7 +1041,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 45,
-    "t": "Regent Squire drone with 8 engines proves three-mode flight capability in test\n\nA scale model of the Regent Squire, a wing-in-ground effect drone promoted as the world’s...",
+    "t": "דרון Regent Squire עם 8 מנועים הוכיח יכולת טיסה בשלוש מצבים בבדיקה\n\nמודל בקנה מידה של ה-Regent Squire, דרון שנתמך ככלי טיסה ייחודי בעולם, עבר בדיקות מוצלחות שהוכיחו את יכולתו להחליף בין שלוש מצבי טיסה שונים בעזרת 8 המנועים המרובים שלו. הטכנולוגיה של wing-in-ground effect מאפשרת למכונה זו להעיף משימות באופן יעיל וחדש מעל המים והקרקע. החדשות הגיעו מ-Interesting Engineering",
     "d": "Tue, 14 Apr 2026 10:25:59 +0000",
     "v": 0,
     "l": [
@@ -1083,7 +1064,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 46,
-    "t": "China has spent 3.6 times more than the US on chipmaking subsidies over the past decade — $142 billion and counting, easily outweighs CHIPS Act\n\nSemiconductor industrial policy spending in China totaled around $142 billion between 2014 and 2023, roughly 3.6 times higher than the $39 billion committed in the United States over the same period.",
+    "t": "סין הוציאה 3.6 פעמים יותר מארה״ב על סבסודי ייצור שבבים - 142 מיליארד דולר ועולה, בקלות מעל ה-CHIPS Act\n\nבשנים 2014-2023, סין השקיעה כ-142 מיליארד דולר בתמיכה תעשייתית לייצור מוליכים למחצה - זה כ-3.6 פעמים יותר מה-39 מיליארד דולר שהעריכו הארה״ב באותו תקופה. כנראה שהגרמנים הבינו משהו שהאמריקאים עדיין מעכלים - כשזה מגיע לחזקת הטריטוריה בתחום השבבים, סין פשוט משחקת עם תקציב אחר לגמרי.",
     "d": "Tue, 14 Apr 2026 10:20:00 +0000",
     "v": 0,
     "l": [
@@ -1098,11 +1079,9 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/ScWkdXEcbCzcmrjizukTn7-1280-80.jpg",
     "source": "Tom's Hardware"
   },
@@ -1131,7 +1110,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 48,
-    "t": "The problem with thinking you’re part Neanderthal\n\nYou’ve probably heard some version of this idea before: that many of us have an “inner Neanderthal.” That is to say, around 45,000 years ago, when Homo sapiens first arrived in Europe, they met members of a cousin species—the broad-browed, heavier-set Neanderthals—and, well, one thing led to another, which is why some people now carry…",
+    "t": "הבעיה בכך שחשבתם שאתם חלקית ניאנדרתל\n\nאתם בטח שמעתם את הגרסה הזאת: שלחלקנו יש \"ניאנדרתל פנימי\". לפני כ-45,000 שנה, כשהומו סאפיינס הגיע לאירופה, הוא נתקל בני משפחה מזן קרוב - הניאנדרתלים עם המצח הרחב - וזה מה שהסביר למה חלק מאתנו יוצאים חיובי בדנ\"א ניאנדרתלי. אבל יש כאן בעיה די גדולה שחוקרים מנסים להבין עכשיו.",
     "d": "Tue, 14 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -1154,7 +1133,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 49,
-    "t": "Hyundai expands into robotics and physical AI systems\n\nHyundai Motor Group is starting to look like a company building machines that act in the real world. The change centres on physical AI: Where AI is placed into robots and systems that move and respond in physical spaces. Current efforts are mainly focused on factory and industrial settings. Hyundai’s move into physical AI systems […]\nThe post Hyundai expands into robotics and physical AI systems appeared first on AI News.",
+    "t": "היונדאי פורצת לעולם הרובוטיקה וה-Physical AI\n\nיונדאי לא רק מייצרת מכוניות - היא בונה רובוטים שעובדים בעולם האמיתי. הענקית הדרום קוריאנית משקיעה בגדול ב-Physical AI, כלומר AI שמובנה בתוך מערכות רובוטיות שנעות ומגיבות במרחבים פיזיים, ולעת עתה התמקד שלהם הוא בסביבות תעשייתיות ומפעלים. זאת צעד אסטרטגי שיכול לשנות את המשחק בתעשיית הרובוטיקה הקרובה.",
     "d": "Tue, 14 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -1169,16 +1148,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "AI News"
   },
   {
     "id": 50,
-    "t": "FAA approves military use of drone-killing laser weapons in US airspace — decision comes after it was decided ‘systems do not present an increased risk to the flying public’\n\nThe Federal Aviation Administration (FAA) has decided to give carte blanche approval to the military’s use of laser weaponry to shoot down suspected errant drones in US airspace.",
+    "t": "ה-FAA אישר שימוש צבאי בנשקי לייזר להשמדת רחפנים בשמי ארה״ב\n\nהרשויות האמריקאיות נתנו אור ירוק לצבא להשתמש בנשקי לייזר מתקדמים שיכולים להחסל רחפנים חשודים בשמי ארה״ב. ה-FAA קבעה שהטכנולוגיה הזו לא תהווה סיכון מוגבר לתעופה האזרחית, כך שהצבא יכול להתחיל לעשות בה שימוש עם תעודת כשרות מלאה. זה די מעניין - מצד אחד זה נראה כמו דבר מדע בדיוני, אבל מצד שני זה מראה איך הצבא מתמודד עם האיום ההולך וגדל של רחפנים לא מאושרים.\n\nמקור: Tom's Hardware",
     "d": "Tue, 14 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
