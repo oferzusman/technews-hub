@@ -75203,7 +75203,7 @@
         "Microsoft Surface"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-14T21:30:24.107Z",
       "created_at": "2026-04-14T21:30:24.107Z"
     },
@@ -75229,7 +75229,7 @@
         "starlink"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-14T21:30:24.107Z",
       "created_at": "2026-04-14T21:30:24.107Z"
     },
@@ -75307,7 +75307,7 @@
       "author": "Ben Coxworth",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-14T21:30:26.062Z",
       "created_at": "2026-04-14T21:30:26.062Z"
     },
@@ -75456,7 +75456,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-14T21:30:29.503Z",
       "created_at": "2026-04-14T21:30:29.503Z"
     },
@@ -75476,6 +75476,85 @@
       "priority": "hot",
       "fetchedAt": "2026-04-14T21:30:29.700Z",
       "created_at": "2026-04-14T21:30:29.700Z"
+    },
+    {
+      "id": 3849,
+      "source": "Ars Technica",
+      "title_en": "Sony killing features for antenna, set-top box users of Bravia smart TVs in May",
+      "description_en": "Some 2023 and 2024 models are also affected.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gadgets/2026/04/sony-killing-features-for-antenna-set-top-box-users-of-bravia-smart-tvs-in-may/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/125732_original_local_1200x1050_v3_converted-1152x648.jpg",
+      "pub_date": "Tue, 14 Apr 2026 22:00:31 +0000",
+      "author": "\n                    Scharon Harding\n                ",
+      "categories": [
+        "Tech",
+        "Sony",
+        "TVs"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T22:26:45.737Z",
+      "created_at": "2026-04-14T22:26:45.737Z"
+    },
+    {
+      "id": 3850,
+      "source": "CNBC Tech",
+      "title_en": "NAACP sues Elon Musk's xAI over Memphis data center air pollution",
+      "description_en": "Elopn Musk, who is the world's richest person, has been counting on the greater Memphis area to serve as the backbone for xAI's buildout.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/14/elon-musk-xai-memphis-data-centers.html",
+      "image_url": null,
+      "pub_date": "Tue, 14 Apr 2026 21:51:36 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T22:26:52.447Z",
+      "created_at": "2026-04-14T22:26:52.447Z"
+    },
+    {
+      "id": 3851,
+      "source": "CNBC Tech",
+      "title_en": "Meta commits to one gigawatt of custom chips with Broadcom as Hock Tan agrees to leave board",
+      "description_en": "Meta commits to deploying 1 GW of custom in-house MTIA chips co-designed with Broadcom in sweeping new multiyear deal announced Tuesday",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/14/meta-commits-to-one-gigawatt-of-custom-chips-with-broadcom-as-hock-tan-agrees-to-leave-board.html",
+      "image_url": null,
+      "pub_date": "Tue, 14 Apr 2026 22:02:41 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T22:26:52.447Z",
+      "created_at": "2026-04-14T22:26:52.447Z"
+    },
+    {
+      "id": 3852,
+      "source": "Futurism",
+      "title_en": "AI Use Appears to Have a “Boiling Frog” Effect on Human Cognition, New Study Warns",
+      "description_en": "\"We find that AI assistance improves immediate performance, but it comes at a heavy cognitive cost.\"\nThe post AI Use Appears to Have a “Boiling Frog” Effect on Human Cognition, New Study Warns appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/ai-boiling-frog-human-cognition-study",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/ai-boiling-frog-human-cognition-study.jpg?quality=85",
+      "pub_date": "Tue, 14 Apr 2026 18:05:25 -0400",
+      "author": "Maggie Harrison Dupré",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-14T22:26:53.212Z",
+      "created_at": "2026-04-14T22:26:53.212Z"
     }
   ]
 }
