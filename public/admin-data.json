@@ -1,9 +1,9 @@
 {
-  "total": 3852,
+  "total": 3855,
   "translated": 3836,
-  "untranslated": 16,
-  "today": 164,
-  "week": 2817,
+  "untranslated": 19,
+  "today": 167,
+  "week": 2820,
   "sources": [
     {
       "name": "Pypi.org",
@@ -43,7 +43,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 114,
+      "total": 115,
       "translated": 113,
       "lastDate": "Wed, 08 Apr 2026 23:03:00 GMT"
     },
@@ -67,15 +67,15 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 88,
+      "total": 89,
       "translated": 85,
       "lastDate": "Wed, 08 Apr 2026 23:52:04 GMT"
     },
     {
       "name": "The Register",
-      "total": 83,
+      "total": 84,
       "translated": 82,
-      "lastDate": "2026-04-14T20:57:07.000Z"
+      "lastDate": "2026-04-14T22:40:49.000Z"
     },
     {
       "name": "The Times of India",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-14T23:04:13.653Z"
+  "generatedAt": "2026-04-14T23:58:53.447Z"
 }
