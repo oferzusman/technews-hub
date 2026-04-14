@@ -1087,7 +1087,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 47,
-    "t": "New NEMO mortar hits multiple targets at 6.2 miles while moving in first-of-its-kind test\n\nFinnish company Patria showcased a new capability for its NEMO 120 mm turreted mortar during...",
+    "t": "מערכת NEMO החדשה חוסמת מטרות מרובות בטווח 10 קילומטר תוך תנועה - בדיקה היסטורית\n\nחברת פטריה הפינית הציגה יכולת חדשה ומחודשת של מערכת המרגמה NEMO 120 שלה - היכולת לפתוח באש על מטרות מרובות כל עוד היא נמצאת בתנועה, בטווח של 6.2 קילומטר. זו הפעם הראשונה שנבדקת יכולת כזו בתנאי שדה אמיתיים, וזה אומר שמערכות ירייה מודרניות הופכות למעשי יותר מאי פעם.",
     "d": "Tue, 14 Apr 2026 10:15:50 +0000",
     "v": 0,
     "l": [
@@ -1179,7 +1179,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 51,
-    "t": "China’s humanoid robot chases boars in Poland, testing real-world AI interactions\n\nA humanoid robot was seen chasing several boars that had wandered onto a street in...",
+    "t": "רובוט הומנואידי סיני רודף אחרי חזירי בר בפולין - בדיקת אינטראקציות AI בעולם האמיתי\n\nרובוט הומנואידי סיני עשה סיבוב לא שגרתי כשנתקל בעדר חזירי בר שנפלו לכביש בפולין, והתחיל לרדפם. התקרית המצחיקה הזו למעשה מהווה בדיקה חיה של יכולות ה-AI של הרובוט בתנאים אמיתיים בשטח - בדיוק אלו התנאים שקשה ביותר לרובוטים. יכול להיות שהסינים מתכננים בעצם רובוטים שידעו לטפל בהתפרצויות חיות בר במרחקים רחוקים.",
     "d": "Tue, 14 Apr 2026 09:57:05 +0000",
     "v": 0,
     "l": [
@@ -1194,8 +1194,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.youtube.com/embed/SX4WKUHAP4E",
@@ -1203,7 +1202,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 52,
-    "t": "Nvidia says AI cuts 10-month, eight-engineer GPU design task to overnight job — company is still 'a long way' from AI designing chips without human input\n\nNvidia widely uses AI for different stages of the chip design process, though it admits that AI is a long way from designing chips completely autonomously.",
+    "t": "Nvidia: ה-AI מצמצם משימת עיצוב GPU של 10 חודשים לעבודה של לילה - אבל עדיין רחוק מעיצוב עצמאי\n\nNvidia משתמשת ב-AI בכבדות בכל שלבי תהליך עיצוב השבבים, אבל היא מודה שה-AI עדיין בשנים אור מלעצב שבבים באופן מלא ללא התערבות אנושית. זה בסדר - הרובוטים לא לוקחים את המשרות שלנו עדיין, לפחות לא בשטח ה-chip design.",
     "d": "Tue, 14 Apr 2026 09:52:33 +0000",
     "v": 0,
     "l": [
@@ -1221,8 +1220,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "hardware",
-      "robotics"
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/9s4cqR4eRw8UU7Je6SBRK3-1280-80.jpg",
@@ -1230,7 +1228,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 53,
-    "t": "Man suspected of Molotov attack on Sam Altman's home charged with attempted murder\n\n20-year-old Texan also allegedly planned to kill everyone inside the OpenAI office building The man accused of attacking Sam Altman's San Francisco home with a Molotov cocktail on April 10 now faces charges of attempted murder.…",
+    "t": "חשוד בהתקפת משקי אש על בית סם אלטמן הואשם בניסיון התנקשות\n\nצעיר בן 20 מטקסס הואשם בהטלת בקבוק משקי אש על הביתה של ראש OpenAI בסן פרנסיסקו בתחילת אפריל, והוא כעת עומד בפני אישום של ניסיון התנקשות. בנוסף, חשוד בתכנון התנקשות בעובדי חברת OpenAI בתוך משרדיה. התקרית מעלאת שאלות על הביטחון של מנהיגי עולם ה-AI בעידן של מתיחות ופעולות קצוניות. | מקור: The Register",
     "d": "2026-04-14T09:50:12.000Z",
     "v": 0,
     "l": [
@@ -1256,7 +1254,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 54,
-    "t": "France readies Rafale F5 with new supersonic missile to beat enemy air defenses\n\nFrance is moving to restore a critical combat capability amid increasingly complex modern air defenses....",
+    "t": "צרפת מכינה את Rafale F5 עם טיל על-קולי חדש כדי להתגבר על הגנות אוויר\n\nצרפת משקמת יכולת קרבית קריטית במקביל להתפתחות מערכות הגנה אוויריות מתקדמות יותר ויותר. המטוס הלוחם החדש יהיה מצויד בטיל על-קולי משוכלל שמעוצב במיוחד כדי לחדור דרך הגנות אוויריות מודרניות של אויב. צעד זה משקף את המרוץ הגלובלי על טכנולוגיות צבאיות מתקדמות בעת שמתחזקות הסכנות הגיאופוליטיות בעולם. | מקור: Interesting Engineering",
     "d": "Tue, 14 Apr 2026 09:42:48 +0000",
     "v": 0,
     "l": [
@@ -1279,7 +1277,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 55,
-    "t": "Stanford's AI Index 2026 shows rapid progress, growing safety concerns, and declining public trust\n\nThe AI Index Report 2026 from Stanford HAI documents major performance leaps in AI models, a narrowing gap between the US and China, and mounting safety problems, all while public trust continues to erode.\nThe article Stanford's AI Index 2026 shows rapid progress, growing safety concerns, and declining public trust appeared first on The Decoder.",
+    "t": "דוח AI Index 2026 של סטנפורד: קפיצות ביצועים מדהימות, חששות בטיחות גוברים ואמון ציבורי דועך\n\nדוח ה-AI Index החדש מסטנפורד חושף התקדמות ענקית בכושר של מודלי AI, אבל גם קרב הולך וצר בין ארה\"ב לסין בתחום הטכנולוגיה - ובו בזמן הבעיות של בטיחות ב-AI מתגברות בעוצמה. כל זה קורה כשהאמון של הציבור בטכנולוגיה הזו במצב שפל כבר לא ראינו מזה זמן.\n\nמקור: The Decoder",
     "d": "Tue, 14 Apr 2026 09:16:27 +0000",
     "v": 0,
     "l": [
@@ -1296,13 +1294,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 56,
-    "t": "Bringing people together at AI for the Economy Forum\n\nGoogle is bringing people together in Washington D.C. at our AI for the Economy Forum.",
+    "t": "איך גוגל מחברת אנשים בפורום 'AI למשק הכלכלי'\n\nגוגל ארגנה פורום חשוב בוושינגטון שמקדם את השימוש ב-AI לטובת הכלכלה. באירוע זה נפגשים מנהלים, מדיניתאים ומומחים כדי לדון איך בינה מלאכותית יכולה להביא שינוי ליצירת מקומות עבודה וצמיחה כלכלית. זו צעד משמעותי של גוגל להשפיע על קביעת המדיניות והשיחה הציבורית סביב AI בארה\"ב.",
     "d": "Tue, 14 Apr 2026 09:00:00 +0000",
     "v": 0,
     "l": [
@@ -1315,12 +1313,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_for_the_Economy_Forum_2026.max-600x600.format-webp.webp",
