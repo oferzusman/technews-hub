@@ -1,9 +1,9 @@
 {
-  "total": 3751,
+  "total": 3797,
   "translated": 3751,
-  "untranslated": 0,
-  "today": 63,
-  "week": 2716,
+  "untranslated": 46,
+  "today": 109,
+  "week": 2762,
   "sources": [
     {
       "name": "Pypi.org",
@@ -24,20 +24,26 @@
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
-      "name": "Futurism",
-      "total": 154,
-      "translated": 154,
-      "lastDate": "Wed, 08 Apr 2026 16:29:40 -0400"
-    },
-    {
       "name": "Tom's Hardware",
-      "total": 146,
+      "total": 158,
       "translated": 146,
       "lastDate": "Wed, 08 Apr 2026 19:45:25 +0000"
     },
     {
+      "name": "Futurism",
+      "total": 156,
+      "translated": 154,
+      "lastDate": "Wed, 08 Apr 2026 16:29:40 -0400"
+    },
+    {
+      "name": "Interesting Engineering",
+      "total": 113,
+      "translated": 103,
+      "lastDate": "Wed, 08 Apr 2026 23:24:03 +0000"
+    },
+    {
       "name": "New Atlas",
-      "total": 110,
+      "total": 112,
       "translated": 110,
       "lastDate": "Wed, 08 Apr 2026 23:03:00 GMT"
     },
@@ -46,12 +52,6 @@
       "total": 104,
       "translated": 104,
       "lastDate": "2026-04-09T07:08:00Z"
-    },
-    {
-      "name": "Interesting Engineering",
-      "total": 103,
-      "translated": 103,
-      "lastDate": "Wed, 08 Apr 2026 23:24:03 +0000"
     },
     {
       "name": "Ars Technica",
@@ -66,16 +66,16 @@
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
-      "name": "The Register",
-      "total": 80,
-      "translated": 80,
-      "lastDate": "2026-04-14T00:05:13.000Z"
-    },
-    {
       "name": "CNBC Tech",
-      "total": 79,
+      "total": 82,
       "translated": 79,
       "lastDate": "Wed, 08 Apr 2026 23:52:04 GMT"
+    },
+    {
+      "name": "The Register",
+      "total": 81,
+      "translated": 80,
+      "lastDate": "2026-04-14T09:50:12.000Z"
     },
     {
       "name": "The Times of India",
@@ -90,16 +90,16 @@
       "lastDate": "2026-04-09T07:00:00Z"
     },
     {
-      "name": "TechCrunch AI",
-      "total": 65,
-      "translated": 65,
-      "lastDate": "Wed, 08 Apr 2026 21:05:13 +0000"
-    },
-    {
       "name": "The Decoder",
-      "total": 64,
+      "total": 66,
       "translated": 64,
       "lastDate": "Wed, 08 Apr 2026 18:00:03 +0000"
+    },
+    {
+      "name": "TechCrunch AI",
+      "total": 66,
+      "translated": 65,
+      "lastDate": "Wed, 08 Apr 2026 21:05:13 +0000"
     },
     {
       "name": "Github.com",
@@ -109,15 +109,15 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 49,
+      "total": 53,
       "translated": 49,
       "lastDate": "Wed, 08 Apr 2026 22:13:18 GMT"
     },
     {
       "name": "The Verge AI",
-      "total": 40,
+      "total": 41,
       "translated": 40,
-      "lastDate": "2026-04-14T00:02:38.000Z"
+      "lastDate": "2026-04-14T13:53:53.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -132,16 +132,22 @@
       "lastDate": "2026-04-09T06:28:29Z"
     },
     {
+      "name": "MIT Technology Review",
+      "total": 31,
+      "translated": 27,
+      "lastDate": "Wed, 08 Apr 2026 14:00:00 +0000"
+    },
+    {
       "name": "pymnts.com",
       "total": 29,
       "translated": 29,
       "lastDate": "2026-04-09T00:29:48Z"
     },
     {
-      "name": "MIT Technology Review",
+      "name": "AI News",
       "total": 27,
-      "translated": 27,
-      "lastDate": "Wed, 08 Apr 2026 14:00:00 +0000"
+      "translated": 24,
+      "lastDate": "Wed, 08 Apr 2026 10:43:00 +0000"
     },
     {
       "name": "Financial Post",
@@ -156,12 +162,6 @@
       "lastDate": "2026-04-09T02:36:13Z"
     },
     {
-      "name": "AI News",
-      "total": 24,
-      "translated": 24,
-      "lastDate": "Wed, 08 Apr 2026 10:43:00 +0000"
-    },
-    {
       "name": "SiliconANGLE News",
       "total": 24,
       "translated": 24,
@@ -169,7 +169,7 @@
     },
     {
       "name": "Google AI Blog",
-      "total": 20,
+      "total": 21,
       "translated": 20,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-14T12:47:09.463Z"
+  "generatedAt": "2026-04-14T14:48:53.961Z"
 }
