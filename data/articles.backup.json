@@ -76359,7 +76359,7 @@
       "author": "Carly Page",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-15T08:57:10.882Z",
       "created_at": "2026-04-15T08:57:10.882Z"
     },
@@ -76510,7 +76510,7 @@
         "Features and Investigations"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-15T10:18:29.506Z",
       "created_at": "2026-04-15T10:18:29.506Z"
     },
@@ -76527,7 +76527,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-15T10:18:29.633Z",
       "created_at": "2026-04-15T10:18:29.633Z"
     },
@@ -76567,9 +76567,263 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-15T10:18:35.157Z",
       "created_at": "2026-04-15T10:18:35.157Z"
+    },
+    {
+      "id": 3909,
+      "source": "The Verge AI",
+      "title_en": "Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.",
+      "description_en": "Apple quietly threatened to kick Elon Musk's AI app, Grok, from its App Store in January over its failure to curb the surge of nonconsensual sexual deepfakes flooding X, according to NBC News. It was a muted show of force from one of tech's most powerful gatekeepers, made behind closed doors even as the undressing crisis unfolded in full public view and criticism over Apple's cowardice mounted.\nIn a letter obtained by NBC News, Apple told US senators it \"contacted the teams behind both X and Gro",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes",
+      "image_url": null,
+      "pub_date": "2026-04-15T10:55:22.000Z",
+      "author": "Robert Hart",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T11:30:17.794Z",
+      "created_at": "2026-04-15T11:30:17.794Z"
+    },
+    {
+      "id": 3910,
+      "source": "The Decoder",
+      "title_en": "OpenAI's European Stargate plans shrink as Microsoft and Google take over capacity",
+      "description_en": "Back in July 2025, OpenAI CEO Sam Altman expressed confidence that the conditions were right to bring Stargate to Narvik, Norway. Just a few months later, that optimism has largely evaporated. \nThe article OpenAI's European Stargate plans shrink as Microsoft and Google take over capacity appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openais-european-stargate-plans-shrink-as-microsoft-and-google-take-over-capacity/",
+      "image_url": null,
+      "pub_date": "Wed, 15 Apr 2026 10:55:17 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "Google",
+        "Microsoft",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T11:30:19.077Z",
+      "created_at": "2026-04-15T11:30:19.077Z"
+    },
+    {
+      "id": 3911,
+      "source": "New Atlas",
+      "title_en": "Rolls-Royce's first electric convertible is super long – and exclusive",
+      "description_en": "Rolls-Royce has just unveiled Project Nightingale – its second electric car after the Spectre, which the company is building to order for discerning customers who enjoy driving with the top down.\nContinue Reading\nCategory: Automotive, Transport\nTags: Rolls+Royce, Electric Vehicles, Convertible",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/automotive/rolls-royce-electric-convertible-project-nightingale/",
+      "image_url": null,
+      "pub_date": "Wed, 15 Apr 2026 10:42:23 GMT",
+      "author": "Abhimanyu Ghoshal",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T11:30:23.921Z",
+      "created_at": "2026-04-15T11:30:23.921Z"
+    },
+    {
+      "id": 3912,
+      "source": "The Guardian AI",
+      "title_en": "Tell us your experience with AI in job interviews",
+      "description_en": "We would like to hear your experience of job interviews that were conducted partially or wholly by AI\nCompanies are increasingly using AI in their hiring processes – including conducting job interviews themselves. With this in mind, we would like to hear your experience of job interviews that were conducted partially or wholly by AI.\nIf you’re having trouble using the form click here. Read terms of service here and privacy policy here.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/money/2026/apr/15/tell-us-your-experience-with-ai-in-job-interviews",
+      "image_url": "https://i.guim.co.uk/img/media/c08232d2ef8da071ae3dea8499616fa6e48a08c6/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=c39d6284daa994e5dd1badf8045960a3",
+      "pub_date": "Wed, 15 Apr 2026 10:27:06 GMT",
+      "author": "Guardian community team",
+      "categories": [
+        {
+          "_": "Work & careers",
+          "$": {
+            "domain": "https://www.theguardian.com/money/work-and-careers"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T11:30:24.362Z",
+      "created_at": "2026-04-15T11:30:24.362Z"
+    },
+    {
+      "id": 3913,
+      "source": "AI News",
+      "title_en": "Drones get smarter for large farm holdings",
+      "description_en": "Singapore-based DroneDash Technologies and GEODNET have formed a joint venture to be called GEODASH Aerosystems, to build an agricultural spraying drone for large industrial farms. The companies say the near-production drone technology is designed to remove the need to map a field to be treated before each flight, and the need to rebuild flight plans […]\nThe post Drones get smarter for large farm holdings appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/",
+      "image_url": null,
+      "pub_date": "Wed, 15 Apr 2026 11:03:00 +0000",
+      "author": "Joe Green",
+      "categories": [
+        "Physical AI",
+        "agritech",
+        "autonomous flight",
+        "drones",
+        "physical ai"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T11:30:25.059Z",
+      "created_at": "2026-04-15T11:30:25.059Z"
+    },
+    {
+      "id": 3914,
+      "source": "AI News",
+      "title_en": "The US-China AI gap closed. The responsible AI gap didn’t",
+      "description_en": "The assumption that the US holds a durable lead in AI model performance is not well-supported by the data, and that is just one of the uncomfortable findings in Stanford University’s 2026 AI Index Report, published this week. The report, produced by Stanford’s Institute for Human-Centred Artificial Intelligence, is a 423-page annual assessment of where […]\nThe post The US-China AI gap closed. The responsible AI gap didn’t appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/",
+      "image_url": null,
+      "pub_date": "Wed, 15 Apr 2026 10:00:00 +0000",
+      "author": "Dashveenjit Kaur",
+      "categories": [
+        "Artificial Intelligence",
+        "Deep Dives",
+        "Features",
+        "Inside AI",
+        "Trust, Bias & Fairness",
+        "AI benchmarks",
+        "ai governance",
+        "AI Incidents",
+        "AI Index 2026",
+        "ai regulation",
+        "ai research",
+        "AI Safety",
+        "artificial intelligence",
+        "Public Opinion",
+        "responsible ai",
+        "Stanford HAI",
+        "US China AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T11:30:25.059Z",
+      "created_at": "2026-04-15T11:30:25.059Z"
+    },
+    {
+      "id": 3915,
+      "source": "Interesting Engineering",
+      "title_en": "Watch ‘world-first embodied AI’ humanoid robots take on manufacturing tasks in China",
+      "description_en": "Chinese robotics player Agibot has revealed that it has deployed its humanoid robots in a...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/agibot-humanoid-robot-china-factory",
+      "image_url": "https://www.youtube.com/embed/h6rCRa8qUFw",
+      "pub_date": "Wed, 15 Apr 2026 11:06:06 +0000",
+      "author": "Jijo Malayil",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T11:30:27.869Z",
+      "created_at": "2026-04-15T11:30:27.869Z"
+    },
+    {
+      "id": 3916,
+      "source": "Interesting Engineering",
+      "title_en": "Chinese firm aims to launch world’s first mass-producible 500 Wh/kg solid-state battery",
+      "description_en": "Greater Bay Technology, the high-tech incubator backed by China-based automotive giant GAC Group, has reportedly...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/china-mass-production-solid-state-batteries",
+      "image_url": "https://www.youtube.com/embed/_laWbMJUfOo",
+      "pub_date": "Wed, 15 Apr 2026 10:28:34 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T11:30:27.870Z",
+      "created_at": "2026-04-15T11:30:27.870Z"
+    },
+    {
+      "id": 3917,
+      "source": "Tom's Hardware",
+      "title_en": "Iran reportedly bought an in-orbit Chinese satellite to target US military sites in the Middle East — purchase agreement included ongoing ground control services based in China",
+      "description_en": "Leaked documents allegedly show that the IRGC Aerospace Force is using a Chinese satellite to observe U.S. bases in the Middle East and use it for targeting American assets with drones and missiles.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/iran-reportedly-bought-an-in-orbit-chinese-satellite-to-target-us-military-sites-in-the-middle-east-purchase-agreement-included-ongoing-ground-control-services-based-in-china",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/JbRXYx42dTFswvA7yy79CK-1280-80.jpg",
+      "pub_date": "Wed, 15 Apr 2026 11:25:36 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T11:30:28.157Z",
+      "created_at": "2026-04-15T11:30:28.157Z"
+    },
+    {
+      "id": 3918,
+      "source": "Tom's Hardware",
+      "title_en": "Astonishing bundle makes 64GB of DDR5 RAM just $216, $100 cheaper than 32GB — get a 9800X3D, G.Skill Ripjaws S5 DDR5-6000 RAM, case, motherboard, and CPU cooler for just $999",
+      "description_en": "Newegg bundle that offsets the price of this $884.99 kit of 64GB of G.Skill RAM to just $216.01.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/astonishing-bundle-makes-64gb-of-ddr5-ram-just-usd216-usd100-cheaper-than-32gb-get-a-9800x3d-g-skill-ripjaws-s5-ddr5-6000-ram-case-motherboard-and-cpu-cooler-for-just-usd999",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/eKvVTMkfqa4szCfcTzAgKA-1280-80.jpg",
+      "pub_date": "Wed, 15 Apr 2026 11:15:10 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T11:30:28.157Z",
+      "created_at": "2026-04-15T11:30:28.157Z"
+    },
+    {
+      "id": 3919,
+      "source": "Tom's Hardware",
+      "title_en": "Our lifestyle tech colleagues at Tom's Guide have overhauled their site for smarter shopping — more video and access to experts make it 'the biggest relaunch in our history'",
+      "description_en": "Our tech colleagues over at Tom's Guide just relaunched their homepage, with destination-focused features like a dedicated live feed for news and expert reactions, AI-infused shopping and upgrading tools, and more short-form video.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/our-lifestyle-tech-colleagues-at-toms-guide-have-overhauled-their-site-for-smarter-shopping-more-video-and-access-to-experts-make-it-the-biggest-relaunch-in-our-history",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/WEXiUTarDX4iRd8gXV5et7-1280-80.png",
+      "pub_date": "Wed, 15 Apr 2026 11:00:00 +0000",
+      "author": " Matt Safford ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T11:30:28.157Z",
+      "created_at": "2026-04-15T11:30:28.157Z"
+    },
+    {
+      "id": 3920,
+      "source": "CNBC Tech",
+      "title_en": "Snap's stock jumps 11% on plans to axe 16% of its workforce citing AI efficiencies",
+      "description_en": "Snap was up in premarket trading on Wednesday after announcing plans to lay off up to 16% of its global workforce citing AI-driven efficiencies",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/15/snap-stock-layoffs-16-percent-workforce.html",
+      "image_url": null,
+      "pub_date": "Wed, 15 Apr 2026 11:09:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T11:30:28.397Z",
+      "created_at": "2026-04-15T11:30:28.397Z"
     }
   ]
 }
