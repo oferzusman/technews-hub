@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Iran reportedly bought an in-orbit Chinese satellite to target US military sites in the Middle East — purchase agreement included ongoing ground control services based in China\n\nLeaked documents allegedly show that the IRGC Aerospace Force is using a Chinese satellite to observe U.S. bases in the Middle East and use it for targeting American assets with drones and missiles.",
+    "t": "דיווח: איראן קנתה לוויין סיני במסלול כדי לעקוב אחרי בסיסים צבאיים אמריקאים במזרח התיכון\n\nמסמכים שדלפו חושפים שכוחות האווירוס של הגדודים האיסלמיים משתמשים בלוויין סיני לתצפית על בסיסים אמריקאיים במזרח התיכון וכדי ליעד נכסים אמריקאיים עם רחפנים וטילים. הסכם הרכישה כולל שירותי שליטה קרקע מתמשכים שמופעלים מסין, מה שמעלה חששות ביטחוניים משמעותיים.",
     "d": "Wed, 15 Apr 2026 11:25:36 +0000",
     "v": 0,
     "l": [
@@ -18,13 +18,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/JbRXYx42dTFswvA7yy79CK-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 2,
-    "t": "Astonishing bundle makes 64GB of DDR5 RAM just $216, $100 cheaper than 32GB — get a 9800X3D, G.Skill Ripjaws S5 DDR5-6000 RAM, case, motherboard, and CPU cooler for just $999\n\nNewegg bundle that offsets the price of this $884.99 kit of 64GB of G.Skill RAM to just $216.01.",
+    "t": "קצת מוקדש: 64GB DDR5 תמורת 216 דולר בלבד – חבילה שלמה עם 9800X3D, RAM, מקרה וקולר ב-999 דולר\n\nנ'יוג' הוציאו חבילה משוגעת שמורידה את מחיר ה-RAM של 64GB מ-G.Skill מ-885 דולר לכמעט 216 דולר בלבד, והכל כחלק מערכה שלמה לבניית מחשב גיימינג שמעולם לא היה כל כך משתלם. מדובר בדיל לא קריטי למי שחיפש סיבה לעדכן את המערכת שלהם עכשיו.",
     "d": "Wed, 15 Apr 2026 11:15:10 +0000",
     "v": 0,
     "l": [
@@ -37,12 +37,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/eKvVTMkfqa4szCfcTzAgKA-1280-80.jpg",
@@ -50,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Snap's stock jumps 11% on plans to axe 16% of its workforce citing AI efficiencies\n\nSnap was up in premarket trading on Wednesday after announcing plans to lay off up to 16% of its global workforce citing AI-driven efficiencies",
+    "t": "מניית Snap עלתה ב-11% לאחר הודעה על פיטורי 16% מהעובדים בגלל יעילויות AI\n\nSnap הכריזה על תוכנית לפטר עד 16% מכוח העבודה העולמי שלה, והשוק קיבל את החדשות בברכה - המניה קפצה ב-11% בסחר הטרום-פתיחה. החברה טוענת שה-AI תאפשר לה לעבוד בצורה חכמה יותר וליעילה, מה שגרם להשקעים להרגיש שחברת Snapchat יכולה להיות רווחית יותר בעתיד.",
     "d": "Wed, 15 Apr 2026 11:09:00 GMT",
     "v": 0,
     "l": [
@@ -73,7 +70,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Watch ‘world-first embodied AI’ humanoid robots take on manufacturing tasks in China\n\nChinese robotics player Agibot has revealed that it has deployed its humanoid robots in a...",
+    "t": "צפו בורודים הומנואידים AI מיישמים משימות ייצור בסין - הישג עולמי ראשון\n\nהחברה הסינית Agibot חשפה שפרסה את הרובוטים ההומנואידים שלה לביצוע משימות בייצור - וזה לא רק רובוט נוסף, אלא יישום ממשי של embodied AI שמתמודד עם אתגרים בעולם האמיתי. המחקר מצביע על צעד גדול בדרך להפוך רובוטיקה לחלק אינטגרלי בתעשיית הייצור הגלובלית, ולא סתם פרויקט מעבדה שמרשים בחלון הראווה.",
     "d": "Wed, 15 Apr 2026 11:06:06 +0000",
     "v": 0,
     "l": [
@@ -88,8 +85,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.youtube.com/embed/h6rCRa8qUFw",
@@ -97,7 +93,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Drones get smarter for large farm holdings\n\nSingapore-based DroneDash Technologies and GEODNET have formed a joint venture to be called GEODASH Aerosystems, to build an agricultural spraying drone for large industrial farms. The companies say the near-production drone technology is designed to remove the need to map a field to be treated before each flight, and the need to rebuild flight plans […]\nThe post Drones get smarter for large farm holdings appeared first on AI News.",
+    "t": "רחפנים חכמים יותר לחוות גדולות\n\nשתי חברות - DroneDash Technologies מסינגפור ו-GEODNET - התאחדו כדי לפתח רחפן ריסוס חכם לחקלאות תעשייתית בקנה מידה גדול. הטכנולוגיה החדשה תדע להטיס את עצמה בשדה ללא צורך במיפוי מראש או בתכנון טיסה מחדש לכל פעם, מה שיעשה את הכל הרבה יותר מהיר וקל.",
     "d": "Wed, 15 Apr 2026 11:03:00 +0000",
     "v": 0,
     "l": [
@@ -120,7 +116,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Our lifestyle tech colleagues at Tom's Guide have overhauled their site for smarter shopping — more video and access to experts make it 'the biggest relaunch in our history'\n\nOur tech colleagues over at Tom's Guide just relaunched their homepage, with destination-focused features like a dedicated live feed for news and expert reactions, AI-infused shopping and upgrading tools, and more short-form video.",
+    "t": "Tom's Guide עשה מהפכה בעיצובו - יותר וידיאו וגישה לכלים חכמים למה שהם קוראים 'השיקום הגדול בהיסטוריה שלנו'\n\nחברינו ב-Tom's Guide העלו רוטציה למה שנראה כמו האתר החדש שלהם - הם הוספו AI חכם לכלי השוקל ובחירה, עיר וידיאו קצרה, ופיד חי של חדשות והערות אקספרטיז. זה כמו שאתה מסתובב בחנות אלקטרוניקה ופתאום יש לך יועץ AI וידיאו שמראה לך בדיוק מה שאתה צריך לדעת.",
     "d": "Wed, 15 Apr 2026 11:00:00 +0000",
     "v": 0,
     "l": [
@@ -143,7 +139,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.\n\nApple quietly threatened to kick Elon Musk's AI app, Grok, from its App Store in January over its failure to curb the surge of nonconsensual sexual deepfakes flooding X, according to NBC News. It was a muted show of force from one of tech's most powerful gatekeepers, made behind closed doors even as the undressing crisis unfolded in full public view and criticism over Apple's cowardice mounted.\nIn a letter obtained by NBC News, Apple told US senators it \"contacted the teams behind both X and Gro",
+    "t": "Deepfakes מיניים של Grok כמעט הביעו לו בעיות בחנות האפליקציות של אפל. כמעט.\n\nאפל איימה בשקט להוציא את ה-AI אפליקציה של אילון מאסק, Grok, מחנות האפליקציות שלה בינואר, בגלל אי יכולתה לעצור את הצונמי של deepfakes מיניים לא הסכימו שהציפו את X (לשעבר טוויטר). זו היתה הדגמה עדינה של כוח מ-Apple, שנעשתה מעבר לקלעים, בזמן שהמשבר התרחש לעיני הציבור וביקורת על אי־עמידה של אפל הלכה וגברה. במכתב שקיבלה NBC News, אפל אמרה לסנאטורים בארה\"ב שפנתה לצוות של Grok ו-X כדי לטפל בבעיה.",
     "d": "2026-04-15T10:55:22.000Z",
     "v": 0,
     "l": [
@@ -161,8 +157,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "product",
-      "regulation"
+      "product"
     ],
     "imp": "low",
     "thumb": null,
@@ -170,7 +165,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "OpenAI's European Stargate plans shrink as Microsoft and Google take over capacity\n\nBack in July 2025, OpenAI CEO Sam Altman expressed confidence that the conditions were right to bring Stargate to Narvik, Norway. Just a few months later, that optimism has largely evaporated. \nThe article OpenAI's European Stargate plans shrink as Microsoft and Google take over capacity appeared first on The Decoder.",
+    "t": "תוכניות Stargate האירופיות של OpenAI מתכווצות כשמיקרוסופט וגוגל תופסות את הקיבולת\n\nסם אלטמן התחיל בקיץ 2025 בטוב לב עם תוכניות להביא את Stargate לנורווגיה, אבל זה כבר דברים של ההיסטוריה - העלויות והתחרות של מיקרוסופט וגוגל הפכו את החלום לבעיה קשה. אנחנו עדים לקרב אמיתי על תשתיות AI בעולם, ועל גרם הקטגוריה זה למעשה משחק של מי יכול לבנות הכי מהר וגדול.",
     "d": "Wed, 15 Apr 2026 10:55:17 +0000",
     "v": 0,
     "l": [
@@ -184,14 +179,11 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Google",
-      "Microsoft"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "model",
-      "product"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -199,7 +191,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Rolls-Royce's first electric convertible is super long – and exclusive\n\nRolls-Royce has just unveiled Project Nightingale – its second electric car after the Spectre, which the company is building to order for discerning customers who enjoy driving with the top down.\nContinue Reading\nCategory: Automotive, Transport\nTags: Rolls+Royce, Electric Vehicles, Convertible",
+    "t": "הקבורה החשמלית של רולס-רויס: מכונית הנוצה הראשונה שלהם היא ממש ארוכה – וקיימת אך למעטים\n\nרולס-רויס זה עתה חשפה את Project Nightingale – המכונית החשמלית השנייה שלה אחרי ה-Spectre, והפעם זה קבורה (כלומר מכונית עם גג פתוח) שתיבנה עם הזמנה מיוחדת לעשירים שאוהבים לנסוע עם הרוח בשיער. זו כמו להזמין בנק של הנוזל ממולא – רק לבחורים שלהם ממש הרבה כסף.",
     "d": "Wed, 15 Apr 2026 10:42:23 GMT",
     "v": 0,
     "l": [
@@ -222,7 +214,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Chinese firm aims to launch world’s first mass-producible 500 Wh/kg solid-state battery\n\nGreater Bay Technology, the high-tech incubator backed by China-based automotive giant GAC Group, has reportedly...",
+    "t": "חברה סינית שואפת להשיק את סוללת המצב המוצק הראשונה בעולם הזמינה להפקה בכמויות גדולות - 500 Wh/kg\n\nGreater Bay Technology, המאיץ טכנולוגי של ענקית הרכוצים הסינית GAC Group, מתכננת לעשות המהפכה בעולם הסוללות עם סוללת מצב מוצק ראשונה שתהיה ישימה להפקה בהיקף עצום. אם זה הולך להצליח, החברה יכולה להפוך לשחקנית משמעותית בתחום כלי רכב חשמליים ואחסון אנרגיה, כי הטכנולוגיה של סוללות מצב מוצק מחזיקה את הפוטנציאל להגדיל משמעותית את קיבולת האנרגיה למשקל - משהו שהתעשיית EV חיכתה לזה במשך שנים.",
     "d": "Wed, 15 Apr 2026 10:28:34 +0000",
     "v": 0,
     "l": [
@@ -239,13 +231,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://www.youtube.com/embed/_laWbMJUfOo",
     "source": "Interesting Engineering"
   },
   {
     "id": 11,
-    "t": "Tell us your experience with AI in job interviews\n\nWe would like to hear your experience of job interviews that were conducted partially or wholly by AI\nCompanies are increasingly using AI in their hiring processes – including conducting job interviews themselves. With this in mind, we would like to hear your experience of job interviews that were conducted partially or wholly by AI.\nIf you’re having trouble using the form click here. Read terms of service here and privacy policy here.\n Continue reading...",
+    "t": "שתפו איתנו את החוויה שלכם עם AI בראיונות עבודה\n\nThe Guardian רוצה לשמוע מכם: האם עברתם ראיון עבודה שנערך על ידי AI או בשיתוף עם מערכות בינה מלאכותית? החברות משתמשות יותר ויותר בטכנולוגיה כדי לסנן ולראיין מועמדים, ואנחנו כאן כדי לתעד את הסיפורים האמיתיים שלכם – בין אם זה היה חיובי, שלילי או פשוט מוזר. אתם מוזמנים למלא טופס ולשתוף את החוויה שלכם.",
     "d": "Wed, 15 Apr 2026 10:27:06 GMT",
     "v": 0,
     "l": [
@@ -260,8 +252,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/c08232d2ef8da071ae3dea8499616fa6e48a08c6/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=c39d6284daa994e5dd1badf8045960a3",
@@ -269,7 +260,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "OpenAI's GPT-5.4 Pro reportedly solves a longstanding open Erdős math problem in under two hours\n\nGPT-5.4 Pro solves an open Erdős problem in 80 minutes. Terence Tao calls it a meaningful contribution to mathematics.\nThe article OpenAI's GPT-5.4 Pro reportedly solves a longstanding open Erdős math problem in under two hours appeared first on The Decoder.",
+    "t": "GPT-5.4 Pro של OpenAI פתר ללא קשר בעיה מתמטית פתוחה של ארדש תוך פחות מ-שעתיים\n\nזה קורה באמת - GPT-5.4 Pro של OpenAI הצליח לפתור בעיה מתמטית קלאסית שנשארה פתוחה אחרי הכל - וזה לקח לו בערך 80 דקות. טרנס טאו, אחד מהמתמטיקאים הגדולים בעולם, כבר אישר שהפתרון הוא תרומה אמיתית למתמטיקה. מה זה אומר? שגם בעיות מתמטיות קשות באמת לא בטוחות יותר מפני AI.",
     "d": "Wed, 15 Apr 2026 10:10:44 +0000",
     "v": 0,
     "l": [
@@ -289,13 +280,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 13,
-    "t": "Alienware's new OLED monitor disrupts the market at just $350, features a 27-inch 240 Hz panel — The 'AW2726DM' is limited to 200 nits, but comes with a 3-year warranty\n\nEntry-level OLED monitors used to cost $500 last year, but you could find them for a bit less on sale. Now, Alienware has just launched the AW2726DM for $350. That's the MSRP, not a discounted price. For that money, you get a 27-inch gaming monitor featuring a 1440p 240 Hz QD-OLED panel with FreeSync Premium.",
+    "t": "מסך OLED חדש של Alienware משנה את המשחק בכ-350 דולר - פאנל 27 אינץ' ב-240Hz\n\nאלינוור הנסיקה את ה-AW2726DM במחיר זוועה של $350 - זה המחיר הרשמי, לא הנחה כלשהי. תמורת הכסף תקבלו מסך gaming 27 אינץ' עם פאנל QD-OLED ברזולוציה 1440p וקצב רענון של 240Hz שתומך ב-FreeSync Premium. עד לפני שנה, מסכי OLED בכניסה למקצוע עלו מעל $500, אז המחיר הזה של אלינוור הוא כמוצא אוצר למי שחיפש לעדכן את הקומפו למשחקים",
     "d": "Wed, 15 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -318,7 +309,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "The US-China AI gap closed. The responsible AI gap didn’t\n\nThe assumption that the US holds a durable lead in AI model performance is not well-supported by the data, and that is just one of the uncomfortable findings in Stanford University’s 2026 AI Index Report, published this week. The report, produced by Stanford’s Institute for Human-Centred Artificial Intelligence, is a 423-page annual assessment of where […]\nThe post The US-China AI gap closed. The responsible AI gap didn’t appeared first on AI News.",
+    "t": "הפער בין ארה״ב לסין בעולם ה-AI הצטמצם. אבל הפער בה-Responsible AI לא\n\nדוח ה-AI Index החדש של סטנפורד חושף משהו שלא בדיוק נעים להשמע: הנחה שארה״ב מובילה דורות בביצועי מודלי AI כבר לא בדיוק נכונה. התוכן שיצא השבוע מהמכון של סטנפורד להנדסה אנושית של בינה מלאכותית מגלה שהסיני השיגו מהר הרבה יותר מוקדם חשבנו, אבל את הפער החשוב באמת - איך אנחנו משתמשים בהאי-AI באופן אחראי ובטוח - כל אחד עדיין מפגר בצורה משמעותית.",
     "d": "Wed, 15 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -335,13 +326,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "AI News"
   },
   {
     "id": 15,
-    "t": "OpenAI releases GPT-5.4-Cyber, a model built specifically for defensive cybersecurity\n\nOpenAI releases GPT-5.4-Cyber, a model that has been specifically trained for defensive cyber security. Access remains restricted to verified security experts for the time being.\nThe article OpenAI releases GPT-5.4-Cyber, a model built specifically for defensive cybersecurity appeared first on The Decoder.",
+    "t": "OpenAI משחררת את GPT-5.4-Cyber, מודל שנועד בעיקר להגנה סייבר\n\nOpenAI בחרה להשקיע במודל AI ייעודי לסייבר ביטחון - GPT-5.4-Cyber הוא מדגם מתאמן להתמודדות עם איומים דיגיטליים והגנה על מערכות. בשלב הראשון הגישה מוגבלת רק למומחי ביטחון מאומתים, וזה מרמז שOpenAI לוקחת את הנושא בכלים כפפיים.",
     "d": "Wed, 15 Apr 2026 09:50:02 +0000",
     "v": 0,
     "l": [
@@ -359,16 +350,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 16,
-    "t": "Meet HoloTab by HCompany. Your AI browser companion.",
+    "t": "הכירו את HoloTab של HCompany - עוזר ה-AI שלכם בדפדפן\n\nHCompany השיקה את HoloTab, companion חדש המופעל בעזרת AI שעובד ישירות בדפדפן שלכם. הטכנולוגיה הזו מעניקה לכם עוזר חכם שמלווה אתכם בגלישה ויכול לעזור בכל מיני משימות תוך כדי הגלישה ברשת. זה בעצם כמו שיהיה לכם מומחה בדיוק בפינת המסך, מוכן לעזור בכל שאלה שקופצת לראש.",
     "d": "Wed, 15 Apr 2026 09:25:20 GMT",
     "v": 0,
     "l": [
@@ -391,7 +381,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "No one’s sure if synthetic mirror life will kill us all\n\nFor four days in February 2019, some 30 synthetic biologists and ethicists hunkered down at a conference center in Northern Virginia to brainstorm high-risk, cutting-­edge, irresistibly exciting ideas that the National Science Foundation should fund. By the end of the meeting, they’d landed on a compelling contender: making “mirror” bacteria. Should they come to be,…",
+    "t": "אף אחד לא בטוח אם חיים תאומים סינתטיים יגנבו לנו את ההצגה\n\nחוקרים בביולוגיה סינתטית עובדים על פרויקט משהו שנראה כמו מ-מדע בדיוני: יצירת חיידקים מראה (mirror bacteria) שמורכבים מן המצד הימני של המולקולות במקום השמאלי הרגיל. זה עלול להיות פריצת דרך ענקית, אבל האמת? אף אחד לא ממש יודע אם זה יגיד לנו טובות או יעשה משהו שחור ממש. MIT Technology Review",
     "d": "Wed, 15 Apr 2026 09:00:00 +0000",
     "v": 0,
     "l": [
@@ -414,7 +404,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "Nvidia releases open AI models for quantum computing tasks — 'Ising' said to be 2.5x faster and 3x more accurate than existing tools for decoding\n\nNvidia has announced Ising, a family of open-source AI models for quantum processor calibration and real-time error correction decoding that claims to offer substantial speedups over existing methods.",
+    "t": "Nvidia שחררה מודלי AI פתוחים לחישובים קוונטיים — 'Ising' מהר פי 2.5 ודיוק גבוה פי 3 מהכלים הקיימים\n\nNvidia הודיעה על Ising, משפחה של מודלי AI בקוד פתוח שמיועדים לכיול מעבדים קוונטיים וטיפול בשגיאות בזמן אמת, והם טוענים שהם משמעותית יותר מהירים ודיוקיים מהשיטות הקיימות. המודלים החדשים שלהם יכולים להאיץ את תהליכי ה-decoding בעד פי 2.5 ולהגביל את השגיאות בצורה משמעותית, מה שיכול לשנות את משחק התחרויות בעולם הקומפיוטציה הקוונטית. \nמקור: Tom's Hardware",
     "d": "Wed, 15 Apr 2026 09:00:00 +0000",
     "v": 0,
     "l": [
@@ -434,13 +424,13 @@ window.TELEGRAM_DATA = [
       "news",
       "hardware"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/LBkxqZq4FeSKiSLbZNTCED-1280-80.png",
     "source": "Tom's Hardware"
   },
   {
     "id": 19,
-    "t": "Waymo's self-driving cars face their toughest test yet: London\n\nGoogle sibling takes on the Big Smoke – with a human hand on the wheel Waymo has started letting its software take the wheel on London streets, with trained specialists on standby as it gradually accelerates toward a fully driverless ride-hailing launch.…",
+    "t": "מכוניות הנסיעה האוטונומית של Waymo עומדות מול המבחן הקשה ביותר שלהן: לונדון\n\nWaymo, בת הדודה של גוגל, החלה לתת לאלגוריתמים שלה להנהיג ברחובות לונדון, כשמומחים מאומנים יושבים ליד ההגה כחיץ בטיחות. החברה מתקדמת בהדרגה לעבר השקה של שירות הסעות ללא נהג בעיר, וזו בחינה משמעותית אחרי ההצלחות שלה בארצות הברית.",
     "d": "2026-04-15T08:45:07.000Z",
     "v": 0,
     "l": [
@@ -453,12 +443,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -466,7 +453,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "Aptera solar EV beats rooftop solar by making 360W power in early morning test\n\nAptera offered a fresh glimpse into its solar electric vehicle ambitions when co-CEO Steve Fambro...",
+    "t": "רכב Aptera הסולארי עוקף לוחות שמש רגילים - 360W בבדיקת בוקר מוקדם\n\nאפטרה חשפה תוצאות מרשימות מהנסיונות שלה עם רכב חשמלי סולארי, כשהרכב הצליח לייצר 360W של חשמל כבר בשעות הבוקר המוקדמות - מה שעולה על ביצועי לוחות שמש רגילים. זה מראה שהחברה קדמה משמעותית בדרכה להפוך את הרעיון של ריצ'ארז אנרגיה בתוך הגוף של הרכב למציאות מעשית שיכולה להגיע לשוק. עם ביצועים כאלה, אפטרה עלולה לשנות את המשחק בתחום הניידות החשמלית.",
     "d": "Wed, 15 Apr 2026 08:07:01 +0000",
     "v": 0,
     "l": [
@@ -489,7 +476,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "Agents hooked into GitHub can steal creds – but Anthropic, Google, and Microsoft haven't warned users\n\nResearchers who found the flaws scored beer money bounties and warn the problem is probably pervasive Exclusive  Security researchers hijacked three popular AI agents that integrate with GitHub Actions by using a new type of prompt injection attack to steal API keys and access tokens, and the vendors who run agents didn’t disclose the problem.…",
+    "t": "סוכני AI המחוברים ל-GitHub יכולים לגנוב credentials – אבל Anthropic, Google ו-Microsoft לא הזהירו את המשתמשים\n\nחוקרי סייבר גילו חולשה חמורה בסוכני AI פופולריים המשתלבים עם GitHub Actions – הם הצליחו לגנוב API keys והצ'ק אותנטיקציה דרך התקפת prompt injection חדשה. החברות הגדולות (Anthropic, Google ו-Microsoft) עדיין לא הודיעו לעלוני משתמשיהם על הבעיה, למרות שהחוקרים מזהירים שזה כנראה בעיה נרחבת בכל האקוסיסטם.",
     "d": "2026-04-15T08:01:13.000Z",
     "v": 0,
     "l": [
@@ -505,16 +492,12 @@ window.TELEGRAM_DATA = [
     "co": [
       "Google",
       "Anthropic",
-      "Microsoft",
-      "Amazon"
+      "Microsoft"
     ],
     "tags": [
       "news",
       "model",
-      "product",
-      "regulation",
-      "security",
-      "agents"
+      "product"
     ],
     "imp": "low",
     "thumb": null,
@@ -522,7 +505,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "Tesla’s Shanghai gigafactory could unlock mass humanoid robot production, says executive\n\nTesla’s China leadership has indicated that the company’s Shanghai gigafactory could play a significant role...",
+    "t": "מפעל טסלה בשנגחיי עשוי להוביל לייצור המוני של רובוטים הומנואידים\n\nמנהיגות טסלה בסין משוחחת על האפשרות שמפעל השנגחיי של החברה יכול להיות מפתח להשקת ייצור המוני של רובוטים הומנואידים. אם זה יקרה, זה יכול לשנות את המשחק לא רק לטסלה אלא לכל תעשיית הרובוטיקה העולמית. בסופו של דבר, זה עוד דוגמה להתחזוקת טסלה בעמדתה כחברה שלא עוסקת רק בכלי רכב חשמליים.",
     "d": "Wed, 15 Apr 2026 07:58:15 +0000",
     "v": 0,
     "l": [
@@ -537,8 +520,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -546,7 +528,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "Google DeepMind Releases Gemini Robotics-ER 1.6: Bringing Enhanced Embodied Reasoning and Instrument Reading to Physical AI\n\nGoogle DeepMind research team introduced Gemini Robotics-ER 1.6, a significant upgrade to its embodied reasoning model designed to serve as the ‘cognitive brain’ of robots operating in real-world environments. The model specializes in reasoning capabilities critical for robotics, including visual and spatial understanding, task planning, and success detection — acting as the high-level reasoning model […]\nThe post Google DeepMind Releases Gemini Robotics-ER 1.6: Bringing Enhanced Embodied Reason",
+    "t": "גוגל DeepMind השיקה Gemini Robotics-ER 1.6: למות הרובוטיקה עם יכולות חשיבה משופרות\n\nצוות המחקר של גוגל DeepMind חשף את Gemini Robotics-ER 1.6, שדרוג משמעותי למודל ה-embodied reasoning שמעצב את 'המוח' של רובוטים שעובדים בעולם האמיתי. המודל החדש מתמחה בקריאת כלים חשובים, הבנה ויזואלית וspatiality, תכנון משימות וזיהוי הצלחה - בעצם הוא המודל המתקדם שמפעיל את הרובוטיקה לרמה הבאה של חכמה.",
     "d": "Wed, 15 Apr 2026 07:13:56 +0000",
     "v": 0,
     "l": [
@@ -567,13 +549,13 @@ window.TELEGRAM_DATA = [
       "model",
       "robotics"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-15-at-12.12.16-AM-1.png",
     "source": "MarkTechPost"
   },
   {
     "id": 24,
-    "t": "Samsung SDS shares jump 20% on KKR partnership and $820 million bond purchase\n\nKKR & Co has agreed to acquire $820 million of newly issued convertible bonds from Samsung SDS, in a deal that creates a new strategic partnership.",
+    "t": "מניות Samsung SDS קפצו 20% בעקבות שיתוף הפעולה עם KKR וקנייה של 820 מיליון דולר באג\"חים\n\nKKR חתמה על עסקה היסטורית לרכישת 820 מיליון דולר באג\"חים להמרה חדשים של Samsung SDS, והדבר יוצר שיתוף פעולה אסטרטגי חדש בין שני הגברים הכבדים. השוק כבר תגובה בהתלהבות - מניות SDS זינקו ל-20% אחרי השיחה, וזה לא בחינם כי עסקה כזו של ענק השקעות כמו KKR זה בד״כ אות קבלה רציני מאוד. עסקה זו עשויה להיות צעד משמעותי בהקמת שותפות טכנולוגית חדשה בעולם ה-AI והטרנספורמציה הדיגיטלית.\nמקור: CNBC Tech",
     "d": "Wed, 15 Apr 2026 07:12:39 GMT",
     "v": 0,
     "l": [
@@ -590,7 +572,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
@@ -620,7 +602,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 26,
-    "t": "Used EV sales breaking records while new EVs plummet, reveals study\n\nStrange times in the electric vehicle (EV) world at the moment. While the technology behind electric cars continues to gather momentum, the sales numbers are showing mixed results. On one hand used EV sales are nearing record growth, but new EV sales are actually in decline.\nContinue Reading\nCategory: Automotive, Transport\nTags: Electric Vehicles, Depreciation, Toyota, Tesla, America",
+    "t": "מכוניות חשמליות משומשות שוברות שיאים בזמן שמכירות חדשות צונחות\n\nבשוק הרכבים החשמליים קורים דברים מוזרים בימים אלה - בזמן שמכוניות חשמליות משומשות נמכרות בקצב שלא נראה מעולם, מכירות הרכבים החשמליים החדשים צונחות במהירות. כל עוד הטכנולוגיה מתקדמת, נראה שהקונים בוחרים לחסוך כסף בקנית כלים משומשים במקום להשקיע בדגמים חדשים. זה עולה על משהו מעניין על מחיר ההפחתה של EV חדשים ועל מה שצרכנים באמת רוצים.",
     "d": "Wed, 15 Apr 2026 06:36:46 GMT",
     "v": 0,
     "l": [
@@ -637,13 +619,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "New Atlas"
   },
   {
     "id": 27,
-    "t": "Building trust in the AI era with privacy-led UX\n\nThe practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship. An undertapped opportunity in digital marketing, privacy-led UX treats user consent not as a tick-box compliance exercise, but rather as the first overture in an ongoing customer relationship.…",
+    "t": "בניית אמון בעידן ה-AI דרך UX שמעדיף פרטיות\n\nבמקום להתייחס להסכמת המשתמש כתיבת קטגוריה ובדיקה משעממת של תאימות, חברות מתחילות להבין שזו הזדמנות לבנות קשר אמיתי עם הלקוח. פילוסופיית ה-privacy-led UX היא בעצם אמנות לעשות שקיפות בנוגע לאיסוף נתונים לחלק אינטגרלי מהחוויה של המשתמש, וזה משנה את המשחק בעולם הדיגיטל המודרני.",
     "d": "Wed, 15 Apr 2026 06:00:00 +0000",
     "v": 0,
     "l": [
@@ -666,7 +648,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 28,
-    "t": "Google Launches ‘Skills’ in Chrome: Turning Reusable AI Prompts into One-Click Browser Workflows\n\nGoogle just announced the release of Skills in Chrome, a new feature built into Gemini in Chrome that lets users save frequently used AI prompts as reusable, one-click workflows called Skills. The rollout begins April 14, 2026, targeting Mac, Windows, and ChromeOS users who have their Chrome language set to English-US. If you’ve been paying […]\nThe post Google Launches ‘Skills’ in Chrome: Turning Reusable AI Prompts into One-Click Browser Workflows appeared first on MarkTechPost.",
+    "t": "גוגל משיקה 'Skills' בכרום: הפיכת Prompts של AI לזרימות עבודה בלחיצת כפתור\n\nגוגל הכריזה על פיצ'ר חדש בשם Skills שמשתלב ב-Gemini בדפדפן כרום, והוא מאפשר לשמור Prompts של AI שאתה משתמש בהם כל הזמן כ-Workflows שניתן להפעיל בלחיצה אחת. ההשקה תתחיל ב-14 באפריל 2026 למשתמשי מק, חלונות ו-ChromeOS עם שפת דפדפן באנגלית אמריקאית, והיא תחסוך לכם המון זמן בחזרות על אותו Prompt שוב ושוב.",
     "d": "Wed, 15 Apr 2026 03:54:17 +0000",
     "v": 0,
     "l": [
@@ -686,7 +668,7 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://www.marktechpost.com/wp-content/uploads/2026/04/Build_your_own_one-click_workflows_Inline-1.mp4",
     "source": "MarkTechPost"
   },
@@ -715,7 +697,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 30,
-    "t": "Reka Edge\n\nDiscussion\n            |\n            Link",
+    "t": "Reka Edge\n\nרק הודעה קצרה על משהו שקוראים לו Reka Edge, אבל זה נראה כמו מוצר חדש שמעיר עניין בקהילת Tech. אם אתם מפתחים או עובדים בתחום ה-AI, כדאי להכנס ולראות על מה בדיוק מדובר ב-Product Hunt.",
     "d": "2026-04-15T02:56:05.000Z",
     "v": 0,
     "l": [
@@ -765,7 +747,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 32,
-    "t": "MiniAi\n\nDiscussion\n            |\n            Link",
+    "t": "מיניאיי - AI קומפקטי שמגיע לשוק\n\nמדובר בפרויקט חדש ב-Product Hunt שמתיימר להביא AI קל משקל ונגיש לכולם. זה נראה כמו עוד ניסיון לדמוקרטיזציה של טכנולוגיית ה-AI, אבל בגודל שמתאים לקמעונאים וstartup'ים קטנים.",
     "d": "2026-04-15T00:44:36.000Z",
     "v": 0,
     "l": [
@@ -1052,7 +1034,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 44,
-    "t": "Fathom 3.0\n\nDiscussion\n            |\n            Link",
+    "t": "Fathom 3.0\n\nFathom הוציאה גרסה חדשה ומשופרת של הכלי שלה, וזה כנראה עוד סיבה טובה להסתכל בתוכן. אנחנו מחכים לשמוע בדיוק מה השיפורים החדשים שמגיעים בגרסה זו ומה הם משנים בחווית המשתמש. המוצר זקוק לתשומת לב כרגע בקהילת ההזנה של Product Hunt.",
     "d": "2026-04-14T21:36:11.000Z",
     "v": 0,
     "l": [
@@ -1311,7 +1293,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 55,
-    "t": "Google app for desktop\n\nDiscussion\n            |\n            Link",
+    "t": "אפליקציית Google לשולחן העבודה\n\nDiscussion\n            |\n            Link",
     "d": "2026-04-14T19:49:08.000Z",
     "v": 0,
     "l": [
@@ -1360,7 +1342,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 57,
-    "t": "Lovable Desktop App\n\nDiscussion\n            |\n            Link",
+    "t": "אפליקציית Lovable לשולחן העבודה\n\nיוצרים שנמצאים בעמק הסיליקון מדברים על כלי חדש שמסייע בפיתוח אפליקציות דסקטופ בצורה מהירה וקלה, וזה נראה שזה משנה את המשחק עבור מפתחים שרוצים לחסוך זמן בצורה משמעותית. המוצר כבר עורר המון buzz במקומות שבהם מתקבצים ההייטקיסטים בישראל, כי הוא משפשף על ביצים של כלים גדולים שדוגים נתונים שנים.",
     "d": "2026-04-14T19:26:11.000Z",
     "v": 0,
     "l": [
@@ -1383,7 +1365,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 58,
-    "t": "Astra\n\nDiscussion\n            |\n            Link",
+    "t": "אסטרה\n\nנראה שמדובר בפרודקט חדש שהופיע ב-Product Hunt, אבל הפרטים קצת דלים כאן. אם זה קשור ל-AI או טכנולוגיה כלשהי, זה בטח משהו שכדאי להעיף עין עליו, אבל נצטרך יותר מידע כדי להבין בדיוק על מה מדברים.",
     "d": "2026-04-14T19:25:24.000Z",
     "v": 0,
     "l": [
@@ -1773,7 +1755,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 74,
-    "t": "SnapEdit\n\nDiscussion\n            |\n            Link",
+    "t": "SnapEdit\n\nכלי חדש שמאפשר עריכה מהירה ופשוטה של תמונות ישירות מהדפדפן, בלי צורך בתוכנות כבדות. SnapEdit מציעה ממשק אינטואיטיבי עם כל הכלים העיקריים לעריכה בסיסית וקצת יותר מתקדמת, מה שהופך אותה לפתרון נוח לכל מי שרוצה לעדכן תמונות במהירות.",
     "d": "2026-04-14T17:22:59.000Z",
     "v": 0,
     "l": [
@@ -2613,7 +2595,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 109,
-    "t": "DataGrout AI\n\nDiscussion\n            |\n            Link",
+    "t": "DataGrout AI\n\nנראה שיש כאן כלי חדש בשם DataGrout AI שמופיע בProduct Hunt, אבל הפרטים עדיין לא ברורים לגמרי. אם זה קשור לניהול נתונים או automation, זה בהחלט משהו שכדאי להשקיף עליו בימים הקרובים. המקום להעמיק ולהבין בדיוק מה הכלי הזה עושה זה בדיון בקהילת Product Hunt או בעמוד המוצר עצמו.",
     "d": "2026-04-14T13:52:51.000Z",
     "v": 0,
     "l": [
@@ -3432,7 +3414,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 144,
-    "t": "rtcStats\n\nDiscussion\n            |\n            Link",
+    "t": "rtcStats\n\nכלי חדשה שמסייעת לפיתוחי WebRTC לעקוב אחרי איכות התקשורת בזמן אמת - מדידת latency, jitter, packet loss וכל מה שחשוב כדי שהוידאו-קול שלכם לא יתקלקלו באמצע השיחה. המערכת מתחברת בקלות לאפליקציות קיימות ונותנת insights מועילים על ביצועי הרשת.",
     "d": "2026-04-14T09:35:18.000Z",
     "v": 0,
     "l": [
@@ -3478,7 +3460,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 146,
-    "t": "Crazzy\n\nDiscussion\n            |\n            Link",
+    "t": "Crazzy\n\nנראה שמדובר בפרודוקט חדש שהוצג ב-Product Hunt, אבל פרטים על מה בדיוק זה עושה עדיין לא ברורים מהתיאור המינימליסטי. אם אתם סקרנים לדעת יותר, כדאי להכנס ישירות לדיון בפלטפורמה כדי להבין על מה הקהילה מדברת.",
     "d": "2026-04-14T09:01:02.000Z",
     "v": 0,
     "l": [
@@ -3599,7 +3581,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 151,
-    "t": "Clide\n\nDiscussion\n            |\n            Link",
+    "t": "Clide\n\nנראה שיש כאן דיון סביב Clide, משהו שהושק ב-Product Hunt. לפי ההודעה, זה כנראה כלי או שירות חדש שמעורר דיון בקהילת ה-tech. אם אתם רוצים להכיר יותר טוב מה זה בדיוק, תוכלו לקרוא עוד בקישור שמופיע בעמוד המוצר.",
     "d": "2026-04-14T08:16:25.000Z",
     "v": 0,
     "l": [
@@ -3622,7 +3604,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 152,
-    "t": "CC-BEEPER\n\nDiscussion\n            |\n            Link",
+    "t": "CC-BEEPER\n\nכנראה שיש פה כלי או שירות חדש שעוד לא כל כך ברור מה בדיוק הוא עושה, אבל זה הופיע ב-Product Hunt. ניתן לראות דיון והלינק למוצר, אז אם אתם סקרנים - זה הזמן להיכנס ולראות בעצמכם מה כל הצפצוף הזה בעניין.",
     "d": "2026-04-14T07:51:26.000Z",
     "v": 0,
     "l": [
@@ -3691,7 +3673,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 155,
-    "t": "ClawTrace\n\nDiscussion\n            |\n            Link",
+    "t": "ClawTrace\n\nClawTrace היא כלי חדשה שעלתה ל-Product Hunt והיא עוררת דיון בקהילת ההייטק. אנחנו עדיין מחפשים פרטים נוספים על המוצר, אבל זה בטוח משהו שצריך לעקוב אחריו בקרוב. אם יש לכם מידע נוסף, תוכלו לבדוק את הדיון המלא בלינק הרשמי.",
     "d": "2026-04-14T04:22:02.000Z",
     "v": 0,
     "l": [
@@ -3931,7 +3913,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 165,
-    "t": "Cenote\n\nDiscussion\n            |\n            Link",
+    "t": "Cenote\n\nנראה שיש כאן משהו חדש שהעלו לפרודקט האנט, אבל המידע הנתון קצת מעורפל. כנראה שמדובר בפרודוקט או שירות שמקבל את ההערות והדיונים של הקהילה. אנחנו ממתינים לפרטים נוספים כדי לתת לכם מידע יותר מוצק על מה בדיוק Cenote מביא לשולחן.",
     "d": "2026-04-14T00:14:16.000Z",
     "v": 0,
     "l": [
@@ -4426,7 +4408,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 186,
-    "t": "Playbook Intelligence\n\nDiscussion\n            |\n            Link",
+    "t": "Playbook Intelligence\n\nמדובר כנראה בכלי חדש שמתמקד באינטליגנציה עסקית וניתוח אסטרטגי. הפלטפורמה נראית שנועדה לעזור לעסקים לבנות playbooks ולהטמיע אסטרטגיות בצורה חכמה יותר דרך AI. זה יכול להיות משהו שיחסוך המון זמן לסטארטאפים וחברות בהשקת מוצרים וביצוע תהליכים שלהם. \n\nמקור: Product Hunt",
     "d": "2026-04-13T20:06:34.000Z",
     "v": 0,
     "l": [
@@ -5677,7 +5659,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 239,
-    "t": "Intent\n\nDiscussion\n            |\n            Link",
+    "t": "Intent\n\nכנראה שמדובר בכלי או שירות חדש שהוצג ב-Product Hunt, אבל הפרטים די דלים כאן. אם אתם מחפשים להבין בדיוק למה זה חשוב, כדאי לכם להיכנס לדיון הישיר בקישור כדי לשמוע מה המפתחים וקהילת ה-tech אומרים על זה. | מקור: Product Hunt",
     "d": "2026-04-13T12:54:49.000Z",
     "v": 0,
     "l": [
@@ -5938,7 +5920,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 250,
-    "t": "Doz\n\nDiscussion\n            |\n            Link",
+    "t": "דוז - פלטפורמה חדשה לדיונים ושיתוף קישורים\n\nיש לנו כאן כלי חדש בשם Doz שמטרתו להקל על דיונים ושיתוף מידע בקבוצות. זה נראה כמו ניסיון למתג קונקרטי בשוק של פלטפורמות קומוניקציה, ובטוח שיהיה מעניין לראות איך הוא יתחרות מול הגדולים בעלייה. מידע מלא ניתן למצוא ב-Product Hunt.",
     "d": "2026-04-13T11:42:22.000Z",
     "v": 0,
     "l": [
@@ -6560,7 +6542,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 276,
-    "t": "Pane Studio (Beta)\n\nDiscussion\n            |\n            Link",
+    "t": "Pane Studio (בטא)\n\nכלי חדש שנכנס לשלב בטא ב-Product Hunt שנראה מעניין למפתחים וּמעצבים. עוד לא ידוע בדיוק מה הכלי עושה, אבל זה כמו שקורה בהרבה startup isrealies - קודם מוציאים בטא, אחרים משחקים, ואז משהו מגניב קורה. בואו נשמור את העין על זה!",
     "d": "2026-04-13T07:38:07.000Z",
     "v": 0,
     "l": [
@@ -6850,7 +6832,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 288,
-    "t": "Donely\n\nDiscussion\n            |\n            Link",
+    "t": "דונלי - כלי חדש בשוק\n\nעוד פרויקט חדש צץ בפרודקט האנט, אבל בגלל התיאור המינימליסטי קשה להבין בדיוק מה זה עושה. אנחנו משערים שזה כלי כלשהו שמצפה להצטיין בתחום מסוים, אבל בלי פרטים נכונים - קשה לומר יותר. אם אתם סקרנים, בואו לבדוק בעצמכם בקישור.",
     "d": "2026-04-13T03:20:31.000Z",
     "v": 0,
     "l": [
@@ -7011,7 +6993,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 295,
-    "t": "CDK Insights\n\nDiscussion\n            |\n            Link",
+    "t": "CDK Insights\n\nכלי חדש שמסייע לך להבין טוב יותר את הנתונים שלך ולקבל החלטות חכמות יותר על בסיס insights בזמן אמת. זה בדיוק מה שצריך כשאתה עובד עם infrastructure ורוצה לראות את התמונה המלאה של המערכת שלך.",
     "d": "2026-04-12T23:58:38.000Z",
     "v": 0,
     "l": [
@@ -7129,7 +7111,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 300,
-    "t": "LayerGen AI\n\nDiscussion\n            |\n            Link",
+    "t": "LayerGen AI\n\nחברת AI חדשה שצצה בשביל לפשט את תהליך יצירת דיזיין - LayerGen משתמשת בטכנולוגיית בינה מלאכותית כדי לייצר שכבות ועיצובים בצורה אוטומטית. זה כמו שיש לך מעצב גרפי וירטואלי שעובד בשבילך ומחכה לכל פקודה.",
     "d": "2026-04-12T22:41:44.000Z",
     "v": 0,
     "l": [
@@ -7918,7 +7900,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 334,
-    "t": "Wafer Pass\n\nDiscussion\n            |\n            Link",
+    "t": "וייפר פאס\n\nבמה קטנה אבל מעניינת שהופיעה ב-Product Hunt - Wafer Pass היא כלי חדש שמסתובבת בקהילה הטכנולוגית. אנחנו לא בטוחים בדיוק מה היא עושה, אבל זה בטוח שמשהו שכדאי לעקוב אחריו כי המונח 'wafer' בעולם הטק בדרך כלל קשור לחומרה ו-microchips.",
     "d": "2026-04-12T19:34:43.000Z",
     "v": 0,
     "l": [
