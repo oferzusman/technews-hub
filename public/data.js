@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "AI-powered mainframe exits are a bubble set to pop: Gartner\n\nAnalysts reckon 70 percent of projects will fail, and 75 percent of vendors in the field will go away Most mainframe users who turn to AI for help migrating legacy code to alternative platforms are going to be very disappointed, according to analyst firm Gartner.…",
+    "t": "בועת AI למיינפריים עומדת להתפוצץ: גארטנר מתריעה\n\nגארטנר טוענת שלא לכל זה יסתיים בשמחה - 70% מהפרויקטים של AI לעדכון מיינפריים יכשלו, ו-75% מהחברות בתחום פשוט תיעלמו מהשוק. אם חשבתם שאפשר בעזרת AI פשוט להעביר קוד לגייסה לפלטפורמות חדשות, אז יש לנו חדשות לא טובות בשבילכם - הרוב של מי שמנסה את זה יתאכזבו כנראה כבר בקרוב.",
     "d": "2026-04-15T03:00:55.000Z",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Anthropic’s rise is giving some OpenAI investors second thoughts\n\nOne investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valuation look like the relative bargain.",
+    "t": "עלייתה של Anthropic גורמת לחלק מהמשקיעים של OpenAI לחשוב שוב\n\nמשקיע שתומך בשתי החברות סיפר ש-OpenAI דורשת הערכה של 1.2 טריליון דולר או יותר כדי להצדיק את סבב ההשקעות האחרון שלה - וזה הופך את ההערכה הנוכחית של Anthropic בחצי מיליארד 380 דולר לעסקה הרבה יותר משכנעת. במילים אחרות, אם OpenAI באמת שווה כל כך הרבה, אז Anthropic היא גנוז בנמל מחירי.",
     "d": "Wed, 15 Apr 2026 02:31:04 +0000",
     "v": 0,
     "l": [
@@ -43,16 +43,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 3,
-    "t": "A Coding Implementation of Crawl4AI for Web Crawling, Markdown Generation, JavaScript Execution, and LLM-Based Structured Extraction\n\nIn this tutorial, we build a complete and practical Crawl4AI workflow and explore how modern web crawling goes far beyond simply downloading page HTML. We set up the full environment, configure browser behavior, and work through essential capabilities such as basic crawling, markdown generation, structured CSS-based extraction, JavaScript execution, session handling, screenshots, link analysis, concurrent […]\nThe post A Coding Implementation of Crawl4AI for Web Crawling, Markdown Generation, Jav",
+    "t": "מדריך מעשי: Crawl4AI לסריקת אתרים, יצירת Markdown, הרצת JavaScript וחילוץ מובנה עם AI\n\nסרקנו עבורכם מדריך מקיף שמראה איך Web Crawling מודרני הוא הרבה יותר מסתם הורדת HTML. התוכנית מכסה הכל - מהגדרת הסביבה והתצורת דפדפן, דרך יצירת Markdown אוטומטית, ביצוע JavaScript בעמודים דינמיים, וחילוץ נתונים מובנה באמצעות LLM. זה כל מה שצריכים לדעת כדי לבנות סורק אתרים חזק בדיוק כמו שצריך.",
     "d": "Wed, 15 Apr 2026 00:39:12 +0000",
     "v": 0,
     "l": [
@@ -75,7 +74,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Errors and scale: Nvidia unveils Ising, world’s first AI models tackling quantum barriers\n\nNVIDIA has launched a new family of open AI models aimed at solving two of...",
+    "t": "טעויות וקנה מידה: Nvidia חושפת את Ising, המודלים הראשונים בעולם שמתמודדים עם מחסומים קוונטיים\n\nNvidia הרמה את הקול עם משפחת מודלים AI חדשים שמכוונים ישירות לשתיים מהבעיות הגדולות ביותר בחישובים קוונטיים - טעויות וקנה המידה. מה שמדברים על זה בעולם הטק הוא שהם פתחו את המודלים האלה כ-open source, מה שיכול להיות משחק ישיר בתחום הקוונטום שעד עכשיו הוא קצת סגור ונכסון. במילים פשוטות, Nvidia מנסה להפוך את המחשוב הקוונטי מ\"עוד משהו מרחוק\" ל\"משהו שמתכנתים יכולים בעצם להשתמש בו.\"",
     "d": "Tue, 14 Apr 2026 23:55:40 +0000",
     "v": 0,
     "l": [
@@ -101,7 +100,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Google’s latest AI lets robots understand, plan, and act in real environments\n\nGoogle has introduced a new AI model designed to help robots better understand and interact...",
+    "t": "ה-AI החדש של גוגל מאפשר לרובוטים להבין, לתכנן ולפעול בסביבות אמיתיות\n\nגוגל חשפה דגם AI חדש שמסייע לרובוטים להבין את העולם הפיזי ולתכנן פעולות בצורה חכמה הרבה יותר מבעבר. זו לא סתם שיפור טכני - זה יכול להיות משהו שמביא רובוטים קרוב הרבה יותר לכך שיעבדו בדיוק כמו בני אדם במשימות מורכבות בעולם האמיתי. המודל החדש הזה יכול לשנות לחלוטין את הדרך שבה אנחנו חושבים על אוטומציה בקרוב. | Interesting Engineering",
     "d": "Tue, 14 Apr 2026 23:16:18 +0000",
     "v": 0,
     "l": [
@@ -114,13 +113,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -174,7 +169,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "Ukraine’s military robot surge aims to offset drone risks to humans\n\nUkraine is replacing more soldiers with robots in the battlefield kill zone.",
+    "t": "רובוטים בחזית: אוקראינה משלחת מכונות במקום חיילים כדי להימנע מסכנות\n\nאוקראינה מגבירה בצורה משמעותית את השימוש ברובוטים בשדה הקרב, במטרה להחליף חיילים בתחומים מסוכנים וביותר. במהלך הסכסוך המתמשך, הצבא האוקראיני מגלה שמכונות אוטונומיות יכולות להוריד משמעותית את הסיכון לחייל וחיים אנושיים בכללי, תוך שמירה על יכולות לחימה יעילות בשדה הקרב.",
     "d": "Tue, 14 Apr 2026 22:42:22 +0000",
     "v": 0,
     "l": [
@@ -189,8 +184,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/DevDroid-military-robot.jpg",

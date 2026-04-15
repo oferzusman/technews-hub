@@ -1,7 +1,7 @@
 {
   "total": 3861,
-  "translated": 3855,
-  "untranslated": 6,
+  "translated": 3861,
+  "untranslated": 0,
   "today": 6,
   "week": 2149,
   "sources": [
@@ -38,7 +38,7 @@
     {
       "name": "Interesting Engineering",
       "total": 118,
-      "translated": 116,
+      "translated": 118,
       "lastDate": "Wed, 08 Apr 2026 23:24:03 +0000"
     },
     {
@@ -50,7 +50,7 @@
     {
       "name": "Ars Technica",
       "total": 105,
-      "translated": 104,
+      "translated": 105,
       "lastDate": "Wed, 08 Apr 2026 22:00:11 +0000"
     },
     {
@@ -74,7 +74,7 @@
     {
       "name": "The Register",
       "total": 85,
-      "translated": 84,
+      "translated": 85,
       "lastDate": "2026-04-15T03:00:55.000Z"
     },
     {
@@ -92,7 +92,7 @@
     {
       "name": "TechCrunch AI",
       "total": 72,
-      "translated": 71,
+      "translated": 72,
       "lastDate": "Wed, 15 Apr 2026 02:31:04 +0000"
     },
     {
@@ -122,7 +122,7 @@
     {
       "name": "MarkTechPost",
       "total": 42,
-      "translated": 41,
+      "translated": 42,
       "lastDate": "Wed, 15 Apr 2026 00:39:12 +0000"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-15T05:35:59.141Z"
+  "generatedAt": "2026-04-15T07:11:28.901Z"
 }
