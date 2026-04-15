@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Rooftop tent makes simple but brilliant improvement over all others\n\nWhen we first caught wind of Thule's all-new Widesky rooftop tent (RTT), we took the model name to imply a large, clear stargazing skylight on par with Inspired Overland's fully transparent roof. We had the idea of open views correct, but instead of a skylight, Thule's latest RTT encourages panoramic viewing in a different way, one we haven't seen on other rooftop tents. In doing so, it creates a high-riding space in which you'll want to spend both waking and sleeping hours.\nContinue Reading\nCat",
+    "t": "אוהל גג שמביא שיפור פשוט אבל גאוני על כל השאר\n\nתיקו של Thule עם ה-Widesky החדש שלהם מביא גישה מעניינת לאוהלי גג - במקום חלון שמיים שקוף, הם בחרו בפתרון שונה שמאפשר נוף פנורמי מרשים שלא ראינו בעדיין בכמעט אף אוהל אחר בשוק. התוצאה היא מרחב שגבוה וגדול שתרצה להיות בו, בין אם אתה עד שיט בלילה או משהו יותר קל בשכילה.",
     "d": "Tue, 14 Apr 2026 23:03:00 GMT",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Cramer: The market's biggest fears 'just didn't happen' – and that's why you can't leave the game\n\nCNBC's Jim Cramer explained why bailing on stocks when things look bleak ends up hurting you in the long run.",
+    "t": "קרמר: החששות הגדולים של השוק 'פשוט לא קרו' - וזו הסיבה שלא אפשר לעזוב את המשחק\n\nג'ים קרמר מ-CNBC הסביר למה לברוח מהמניות כשהעניינים נראים קודרים זה בעצם החלטה שמבאיסה אתכם בטווח הארוך. הוא טוען שהפחדים הגדולים שהשוק חשש להם בפועל כלל לא התממשו, וזה בדיוק מה שצריך לחזק לנו את הנקודה הזו: בחזקות כספיות, הציפייה לרע היא לרוב קשה יותר מהמציאות עצמה.",
     "d": "Tue, 14 Apr 2026 22:50:38 GMT",
     "v": 0,
     "l": [
@@ -47,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Claude Code routines promise mildly clever cron jobs\n\nPlus Anthropic has redesigned its Claude app Anthropic has made it easier to automate Claude-oriented tasks without relying on autonomous agent software.…",
+    "t": "Claude Code routines - עוד כלי אוטומציה ממציא לתחזוקה חוזרת\n\nAnthropic שיפרה את אפליקציית Claude שלה וגם הוסיפה יכולות חדשות לאוטומציה של משימות שכיחות ללא צורך בסוכנים AI עצמאיים. עכשיו אפשר להגדיר cron jobs חכמים שיעשו את העבודה השחורה שלנו בלי שנצטרך לשמור עליהם כמו שומר משמורות.",
     "d": "2026-04-14T22:40:49.000Z",
     "v": 0,
     "l": [
@@ -65,9 +65,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "robotics",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -75,7 +73,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "AI Use Appears to Have a “Boiling Frog” Effect on Human Cognition, New Study Warns\n\n\"We find that AI assistance improves immediate performance, but it comes at a heavy cognitive cost.\"\nThe post AI Use Appears to Have a “Boiling Frog” Effect on Human Cognition, New Study Warns appeared first on Futurism.",
+    "t": "AI מזיק לנו בלי שנשמים בכך: מחקר חדש מתריע על 'אפקט הצפרדע בקדירה'\n\nמחקר חדש חושף תופעה מעוררת דאגה: כשאנחנו משתמשים ב-AI כדי לעזור לנו בעבודה, זה אמנם משפר את התוצאות שלנו בזמן קצר, אבל בתמורה אנחנו מחסלים את היכולות הקוגניטיביות שלנו לאט לאט. זה כמו צפרדע בקדירה שמתחממת בהדרגה - בינתיים אנחנו לא מבחינים בנזק שקורה לנו. מקור: Futurism",
     "d": "Tue, 14 Apr 2026 18:05:25 -0400",
     "v": 0,
     "l": [
@@ -92,13 +90,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/ai-boiling-frog-human-cognition-study.jpg?quality=85",
     "source": "Futurism"
   },
   {
     "id": 5,
-    "t": "Meta commits to one gigawatt of custom chips with Broadcom as Hock Tan agrees to leave board\n\nMeta commits to deploying 1 GW of custom in-house MTIA chips co-designed with Broadcom in sweeping new multiyear deal announced Tuesday",
+    "t": "מטה מתחייבת לגיגוואט של שיפים מותאמים עם Broadcom בעוד הוק טאן עוזב את הדירקטוריון\n\nמטה כרתה עסקה ענקית עם Broadcom להנדסת ותחזוקה של שיפים מותאמים (MTIA) לאימוני AI בהיקף של גיגוואט שלם - זה בעצם מהלך גדול שמצביע שמטה חוצה את הרובicon בדרך להשתחרר מתלות ב-Nvidia. העסקה הריאליסטית הזו חותרת לתוך עמק הסיליקון שלמטה ומעלה סימני שאלה גם על הדינמיקה בין המשיכה של Meta לצדה מול Broadcom.",
     "d": "Tue, 14 Apr 2026 22:02:41 GMT",
     "v": 0,
     "l": [
@@ -112,11 +110,13 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Meta"
+      "Meta",
+      "Nvidia"
     ],
     "tags": [
       "news",
-      "model"
+      "model",
+      "hardware"
     ],
     "imp": "low",
     "thumb": null,
@@ -124,7 +124,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Sony killing features for antenna, set-top box users of Bravia smart TVs in May\n\nSome 2023 and 2024 models are also affected.",
+    "t": "סוני מסיימת תמיכה בתכונות עבור משתמשי אנטנה וקופסאות ממיר בטלוויזיות Bravia חכמות\n\nסוני מפסיקה בחודש מאי מספר תכונות עבור משתמשים שמסתמכים על אנטנה או קופסאות ממיר בטלוויזיות Bravia שלהם, וגם משום שלוש שנים של דגמים מיוחדים נפגעים מהחלטה הזו. זה כולל דגמים מ-2023 ו-2024 שלא יוכלו להמשיך להשתמש בחלק מהשירותים כרגיל.",
     "d": "Tue, 14 Apr 2026 22:00:31 +0000",
     "v": 0,
     "l": [
@@ -147,7 +147,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "NAACP sues Elon Musk's xAI over Memphis data center air pollution\n\nElopn Musk, who is the world's richest person, has been counting on the greater Memphis area to serve as the backbone for xAI's buildout.",
+    "t": "ארגון זכויות אפריקאי-אמריקאי תוקף את xAI של אילון מאסק בגלל זיהום אוויר ממרכז נתונים בממפיס\n\nמאסק, האדם העשיר בעולם, החזיק בתכנית גדולה להפוך את אזור ממפיס לעמוד השדרה של ההתרחבות של xAI - אבל זה כנראה הולך להיות קצת יותר מסובך. עכשיו ארגון NAACP תוקף את החברה בגלל בעיות זיהום אוויר שנגרמות ממרכז הנתונים הענקי, שגם כשאתה מנסה להנהיג כל משהו טכנולוגי בסדר גודל גיגנטי, לא תמיד זה משנה רק לעדכון ה-API הבא.",
     "d": "Tue, 14 Apr 2026 21:51:36 GMT",
     "v": 0,
     "l": [
@@ -170,7 +170,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "Crypto exchange Kraken confirms it has confidentially filed for an IPO\n\nKraken co-CEO Arjun Sethi said the crypto exchange has confidentially filed for a U.S. initial public offering, confirming CNBC's previous reporting.",
+    "t": "בורסת הקריפטו Kraken אישרה שהגישה בחשאי בקשה ל-IPO\n\nKraken, אחת מגדולות בורסות הקריפטו בעולם, צעדה רשמית לעבר שוק ההון האמריקאי. מנהל השותפים של החברה אישר שהם הגישו בחשאי בקשה ל-IPO (הנפקה ציבורית), מה שמעיד על שאיפות של החברה להיות חברה ציבורית רשמית. זה בעצם סימן שהתעשיית הקריפטו הולכת להיות יותר מובנית ומוסדית בעיניים של המערכת הפיננסית האמריקאית.",
     "d": "Tue, 14 Apr 2026 21:22:48 GMT",
     "v": 0,
     "l": [
@@ -187,13 +187,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 9,
-    "t": "Commvault has a Ctrl+Z for rogue AI agents\n\nThe company's new software keeps an eye on your agents and backs up data. Keep your agents close and your agent-monitoring software closer. Commvault’s new AI Protect can discover and monitor AI agents running inside AWS, Azure, and GCP environments and even roll back their actions when something goes wrong.…",
+    "t": "Commvault משיקה Ctrl+Z לסוכנים AI שטורדים\n\nCommvault הציגה פתרון חדש שמעקב אחרי סוכנים AI ברחבי AWS, Azure וGCP - כי לפעמים אפילו ה-AI צריך פיקוח הורים. כלי ה-AI Protect החדש לא רק מגלה ומراقב סוכנים AI בתוך ענני הגדולים, אלא גם יכול להחזיר אותם לאחור כשמשהו השתבש - בעצם Undo כמו שצריך, בשביל הסוכנים הלא מנומסים שלך.",
     "d": "2026-04-14T20:57:07.000Z",
     "v": 0,
     "l": [
@@ -211,8 +211,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "product",
-      "agents"
+      "product"
     ],
     "imp": "low",
     "thumb": null,
@@ -220,7 +219,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "NAACP lawsuit accuses Elon Musk’s xAI of polluting Black neighborhoods near Memphis\n\nSuit alleges the billionaire’s AI company is illegally spewing toxic pollutants from its datacenter in the Memphis area\nA new lawsuit accuses Elon Musk’s artificial intelligence company of illegally spewing toxic pollutants into the Black neighborhoods on the border of Tennessee and Mississippi.\nThe suit, filed Tuesday in Mississippi federal court, alleges xAI is violating the Clean Air Act due to emissions from its enormous datacenter in Southaven, Mississippi. The plaintiff – storied civil rig",
+    "t": "תביעת NAACP נגד xAI של אילון מאסק בגין זיהום שכונות שחורות ליד ממפיס\n\nxAI, חברת ה-AI של מאסק, נתבעת בטענה שהיא משפכת מזהמים רעילים מהדאטא סנטר ענקי שלה בדרום מערב ממפיס. הגוף האזרחי NAACP טוען כי החברה מפירה את חוק האוויר הנקי (Clean Air Act) בזליגות מזיקות ששפועות לשכונות בעיקר עם תושבים שחורים בגבול טנסי ומיסיסיפי. התביעה עוררת שאלות חשובות על המחיר הסביבתי והחברתי של תשתיות AI-ית ענקיות בחסות מיליארדרים.",
     "d": "Tue, 14 Apr 2026 20:54:50 GMT",
     "v": 0,
     "l": [
@@ -233,22 +232,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "regulation",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/cf50ef8428c2cce2dfc2bbe5eb18dd937a95ebcf/1045_0_4493_3597/master/4493.jpg?width=140&quality=85&auto=format&fit=max&s=d2d0eafcbbc0f366b81d8ba0678dfd6b",
     "source": "The Guardian AI"
   },
   {
     "id": 11,
-    "t": "$95M Tokamak Energy deal moves UK closer to building a fusion power plant\n\nThe UK’s push to build a working fusion power plant has moved closer to reality,...",
+    "t": "עסקה של 95 מיליון דולר של Tokamak Energy מקרבת את בריטניה לבניית תחנת כוח fusion\n\nבריטניה עוד יותר קרובה לחלומה של אנרגיית ההשתלבות הגרעינית - חברת Tokamak Energy סיגלה עסקה עצומה שתתקדם את התכנית להשקת תחנת כוח fusion שימושית. זה כבר לא רחוק בשדה של תיאוריה מדעית, אלא צעד קונקרטי לכיוון אנרגיה נקייה ובלתי מוגבלת. המהלך הזה מעיד על החיוך החוזר בעולם לטכנולוגיית הפיוז'ן כפתרון אמיתי לכל משבר האנרגיה שלנו. מקור: Interesting Engineering",
     "d": "Tue, 14 Apr 2026 20:54:22 +0000",
     "v": 0,
     "l": [
@@ -271,7 +265,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Man Who Threw Molotov at Sam Altman’s House Warned AI Will Exterminate Humankind\n\n\"If by some miracle you live, then I would take this as a sign from the divine to redeem yourself.\"\nThe post Man Who Threw Molotov at Sam Altman’s House Warned AI Will Exterminate Humankind appeared first on Futurism.",
+    "t": "האיש שהטיל בקוקטייל מולוטוב לביתו של סם אלטמן הזהיר שה-AI יחסל את האנושות\n\nבמקרה דרמטי שהזעיק את עולם הטק, אדם תקף את ביתו של מנכ\"ל OpenAI סם אלטמן בטענות שהוא מתריע מפני הסכנות של בינה מלאכותית לבני אדם. ההתקפה הימינית הזאת מגלמת את הדיון המתגבר בעולם על אתיקת ה-AI והחשש מ\"AGI\" - האם הטכנולוגיה הזו באמת עלולה להוביל להשמדה של האנושות?",
     "d": "Tue, 14 Apr 2026 16:35:44 -0400",
     "v": 0,
     "l": [
@@ -284,9 +278,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/altman-mansion-molotov.jpg?quality=85",
@@ -294,7 +291,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "Americans ask AI for health care. Hospitals think the answer is more chatbots.\n\nDo you trust AI chatbots for health advice? What about one in your patient portal?",
+    "t": "אמריקאים שואלים AI על בריאות. בתי חולים חושבים שהפתרון הוא עוד chatbots\n\nהאמריקאים כבר שואלים את ה-AI על כל דבר, כולל בעיות בריאות. ובתי החולים במקום להיות דאגים, הם חושבים שהתשובה היא פשוט להוסיף עוד chatbots ישירות בתוך פורטל המטופלים שלהם. השאלה הגדולה: אתם בטוחים שתסמכו על בוט לבדוק אם יש לכם דלקת או קצת משהו חמור יותר?",
     "d": "Tue, 14 Apr 2026 20:30:20 +0000",
     "v": 0,
     "l": [
@@ -317,7 +314,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Two-year-old Surface PCs get $300 price hikes as sub-$1,000 models go away\n\n\"Paying more for the same stuff\" is the story of consumer technology in 2026.",
+    "t": "מחשבי Surface בני שנתיים עולים ב-300 דולר - מודלים מתחת לאלף דולר נעלמים\n\nמיקרוסופט מעלה את המחירים של Surface PCs בצורה משמעותית, והמודלים הזולים יותר נעלמים מהשוק. זה בעצם מה שקורה בכל התעשייה הטכנולוגית השנה - אותו חומרה, יותר כסף.",
     "d": "Tue, 14 Apr 2026 19:58:52 +0000",
     "v": 0,
     "l": [
@@ -340,7 +337,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "Small-but-mighty flashlight packs a beam and a side panel for extra functions\n\nSome people want a flashlight to do more than just emit a forward-facing cone of light. If you're one of those folks, you might like what the multi-functional Endorol has to offer.\nContinue Reading\nCategory: Gear, Outdoors\nTags: Flashlights, Kickstarter",
+    "t": "פנס קטן אבל חזק שמחזיק בעצמו קרן ודבר-מה נוסף לפונקציות נוספות\n\nאם אתם מחפשים פנס שעושה יותר מאשר פשוט לזרוק אור קדימה, ה-Endorol זה בדיוק מה שאתם צריכים. הפנס החדש הזה משלב כמה פונקציות בעצמו, כולל פאנל צדדי שמוסיף יכולות נוספות כדי להתאים לכל מצב. המוצר כרגע בקיק-סטארטר ומעניין את כל המתעניינים בציוד חוץ וטעון.",
     "d": "Tue, 14 Apr 2026 19:58:20 GMT",
     "v": 0,
     "l": [
@@ -363,7 +360,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "Trump Is Inflicting Massive Damage to His Public Image by Posting Offensive AI Slop\n\n\"I will not defend blasphemy.\"\nThe post Trump Is Inflicting Massive Damage to His Public Image by Posting Offensive AI Slop appeared first on Futurism.",
+    "t": "טראמפ פוגע בתדמיתו העיתית על ידי פרסום תוכן AI פוגעני\n\nדונלד טראמפ מצוי בעיצומה של סערה תקשורתית בעקבות פרסומיו של תמונות AI מעוצבות הנחשבות למעליבות ופוגעניות. התמונות הללו, שנוצרו על ידי כלים של בינה מלאכותית, גורמות נזק משמעותי לתדמיתו הציבורית ומעוררות דיון נוסף על אחריותו החברתית של מי שמשתמש בכלים AI ללא אחריות.",
     "d": "Tue, 14 Apr 2026 15:51:06 -0400",
     "v": 0,
     "l": [
@@ -386,7 +383,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "Apple chooses Amazon satellites for iPhone, years after rejecting Starlink offer\n\nAmazon announces $11.6B merger with Globalstar and satellite deal with Apple.",
+    "t": "אפל בחרה בלוויני אמזון ל-iPhone, שנים אחרי שדחתה הצעה מ-Starlink\n\nאמזון הכריזה על עסקה ענקית של 11.6 מיליארד דולר עם Globalstar, וזה הכול כדי לספק לאייפון שלך כיסוי לוויין. טוב, אפל סוף סוף מצאה דרך לחבר אותנו לעולם גם כשאין לנו אות סלולר - והפעם עם האמזון ולא עם Starlink של אילון מאסק שהם דחו בעבר.",
     "d": "Tue, 14 Apr 2026 19:50:16 +0000",
     "v": 0,
     "l": [
@@ -399,15 +396,11 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Apple",
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/amazon-leo-phone-1152x648-1776193826.jpg",
     "source": "Ars Technica"
   },
@@ -436,7 +429,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "UK gov's Mythos AI tests help separate cybersecurity threat from hype\n\nNew model is the first AI system to complete a difficult multistep infiltration challenge.",
+    "t": "בדיקות Mythos AI של ממשלת בריטניה עוזרות להפריד בין איום סייבר אמיתי להיפ\n\nממשלת בריטניה בדקה מודל AI חדש שהצליח לבצע משימת התחמקות מורכבת בכמה שלבים - משהו שלא קרה קודם לכן. זה נותן לנו תמונה ברורה יותר של כמה בעצם AI מהווה איום אמיתי בתחום הסייבר, ולא רק בדיחות שנשמעות טוב. Mythos AI של בריטניה היא דוגמה לאופן שבו ממשלות בוחנות בפועל את יכולות ה-AI על בעיות אבטחה קשות.",
     "d": "Tue, 14 Apr 2026 19:11:25 +0000",
     "v": 0,
     "l": [
@@ -451,8 +444,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2270583709-1024x648.jpg",
@@ -2849,7 +2841,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 120,
-    "t": "Trusted access for the next era of cyber defense\n\nOpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
+    "t": "גישה מאובטחת לעידן החדש של הגנת סייבר\n\nOpenAI מרחיבה את התוכנית Trusted Access for Cyber שלה ומציגה את GPT-5.4-Cyber לגופים הגנה מוכשרים, תוך חיזוק ההגנות כאשר יכולות AI בתחום הסייבר מתפתחות. המהלך מעניק לארגוני הגנה ראשיים גישה לדור הבא של כלים בהנעת OpenAI, כשהחברה מוודאת שהטכנולוגיה המתקדמת משמשת רק למטרות הגנה אמיתיות.",
     "d": "Tue, 14 Apr 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -2867,10 +2859,9 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
