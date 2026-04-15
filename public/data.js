@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Struggling shoe retailer Allbirds makes bizarre pivot from shoes to AI, stock explodes more than 700%\n\nAllbirds announced a deal with American Exchange Group to sell its intellectual property and other assets for $39 million in March.",
+    "t": "חנות נעליים בקשיים עוברת לפיתוח AI - המניה עפה למעלה ב-700%\n\nאלבירדס, שהתקשתה בשוק הנעליים, עשתה מהלך אנחוני - מכרה את הקניין הרוחני שלה וסחורה נוספת ל-American Exchange Group תמורת 39 מיליון דולר. המעבר המפתיע הזה לתחום ה-AI הצית את הרוכלים בבורסה, והמניה פרצה דרך בעלייה משוגעת של יותר מ-700%.",
     "d": "Wed, 15 Apr 2026 15:31:57 GMT",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Valve might be adding a 30-day price tracker to Steam — feature is already available in some EU countries to spoof out fake discounts\n\nYour Steam games are about to get some new glanceable information next to their price boxes, according to recent changes discovered in the client's backend. Valve might be adding a 30-day price tracker to the platform, letting you see if the game currently costs the lowest it has been in the last month.",
+    "t": "וולב אולי מוסיפה עקיבות מחירים לחודש אחרון בסטים - התכונה כבר זמינה בחלק מחברות האיחוד האירופי\n\nסטים עומדת להוסיף עוד מידע חזותי בצד תיבת המחיר של המשחקים, על פי שינויים שנתגלו בקוד של הקלায়נט. התכונה החדשה תאפשר לך לראות בעוד כל משחק במחיר הנמוך ביותר שלו בחודש האחרון - צעד שיעזור להילחם בהנחות מזויפות וטריקי מחיר תופסים. התכונה כבר מופעלת עבור משתמשים באירופה, וכנראה שקרוב היא תהיה זמינה לכל העולם.",
     "d": "Wed, 15 Apr 2026 15:27:14 +0000",
     "v": 0,
     "l": [
@@ -47,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Snap Inc blames AI as it lays off 1,000 workers\n\nCuts by Snapchat’s parent company come in response to a declining stock price and pressure from an activist investor\nSnapchat’s parent company plans to lay off 16% of its employees, around 1,000 people, citing “rapid advancements in artificial intelligence”, the social media company told staff on Wednesday in an internal memo. The staff reduction is part of a wave of tech industry layoffs in the past year, with many firms blaming AI for the cuts.\nSnap Inc’s layoffs follow demands last month from",
+    "t": "Snap Inc מפחיתה 1,000 עובדים ומאשימה את ה-AI\n\nSnapchat מפטרת 16% מהצוות שלה בגלל התקדמויות מהירות ב-AI, כך עלה בממו פנימי לעובדים. זה חלק מגל גדול של פיטורים בתעשיית הטק בשנה האחרונה, שבו חברות רבות משתמשות בהתפתחות ה-AI כהצדקה לקיצוצי עלויות. ההחלטה באה על רקע ירידה במחיר המניה ולחץ מ-activist investors.",
     "d": "Wed, 15 Apr 2026 15:23:00 GMT",
     "v": 0,
     "l": [
@@ -70,7 +70,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Memory cards and flash drives prices rocket 124%, some products peak at 261% jump — increases from 2025 driven by AI chip shortage across a range of formats and capacities\n\nUSB flash drives, SD cards, and microSD cards are becoming expensive as the NAND chip shortage takes its bite and expands to other storage options.",
+    "t": "מחירי כרטיסי זיכרון וכונני USB עלו ב-124% - היצע מתוך משבר שבבים ל-AI\n\nכרטיסי SD, כונני USB וכרטיסי microSD מתייקרים בקצב משוגע בגלל מחסור בשבבי NAND שמתפשט לכל סוגי האחסון. היצרנים מנצלים את המשבר של ה-AI כדי להעלות מחירים - חלקם זינקו עד 261% מאז תחילת השנה!",
     "d": "Wed, 15 Apr 2026 15:17:14 +0000",
     "v": 0,
     "l": [
@@ -87,13 +87,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/6Pu8KjsNzD6LMUbF7Gc9zE-1280-80.png",
     "source": "Tom's Hardware"
   },
   {
     "id": 5,
-    "t": "ChatGPT’s latest stylistic quirk is sinister, infuriating – and absolutely everywhere | Stuart Heritage\n\nOnce you start noticing “it’s not X, it’s Y” as you scroll online, you can’t fail to register it. I’ve become so hypervigilant that it has seeped into my subconscious thoughts\nIf you’ve never seen Jim Carrey’s 2007 psychological thriller The Number 23, then congratulations. It is a film about a man who sees the number 23 so many times that he ends up going bonkers. I used to think this film was stupid. However, now I appear to be living it.\nMy own personal number 23 is a rhetorical device: “It’s",
+    "t": "התעלול הסגנוני הכי מטריד של ChatGPT - והוא כמעט בכל מקום\n\nאם אתם גולשים ברשתות חברתיות בימים האחרונים, בטוח שיצא לכם נתקל בפורמט \"זה לא X, זה Y\" - וכנראה שהוא נשמע די מוזר. כותב המאמר מגיד שהוא כל כך קסום (או דווקא מתוסכל) מהתופעה הזו שהיא התחילה להטריד אותו אפילו בחשיבות יום-יומית. לכאורה, זו נראית כמו עוד אחת מהתוצאות המוזרות של AI שמסתננת לכל מקום.",
     "d": "Wed, 15 Apr 2026 15:08:55 GMT",
     "v": 0,
     "l": [
@@ -119,7 +119,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Berklee College of Music Students Furious That It’s Offering an AI “Songwriting” Class\n\n\"As a Berklee grad, I'm appalled at the questionable use of AI in creative classes.\"\nThe post Berklee College of Music Students Furious That It’s Offering an AI “Songwriting” Class appeared first on Futurism.",
+    "t": "סטודנטים בבוркלי למוזיקה בעלטה על קורס 'יצירת שירים' עם AI\n\nהסטודנטים של הקולג' המוקדש בישראל למוזיקה התחילו להתקומם נגד הכנסת AI לתוך הקורסים היצירתיים שלהם, וגםת אנשי סגל תסכלו. נראה שהחשש העיקרי הוא שהשימוש בטכנולוגיה הזו בחיבור מוזיקה פוגע בתהליך היצירתי האמיתי שסטודנטים צריכים ללמוד.",
     "d": "Wed, 15 Apr 2026 11:05:29 -0400",
     "v": 0,
     "l": [
@@ -142,7 +142,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Video: Russia’s laser weapon hits drones nearly one mile away in new test update\n\nLazerBuzz had extended the engagement range of its laser counter-drone system to 1.5 kilometers (about...",
+    "t": "וידאו: נשק לייזר רוסי פוגע בדרונים בטווח של קילומטר וחצי בניסוי חדש\n\nחברת LazerBuzz הצליחה להגדיל את טווח הפעולה של מערכת הלייזר שלה לשיתוק דרונים ל-1.5 קילומטר, מה שמסמן קפיצה משמעותית בטכנולוגיית ההגנה כנגד איומי drones. הטכנולוגיה הזאת יכולה לשנות את כללי המשחק בשדה הקרב המודרני, במיוחד בעידן שבו drones הפכו לאיום צבאי קריטי.",
     "d": "Wed, 15 Apr 2026 15:03:01 +0000",
     "v": 0,
     "l": [
@@ -165,7 +165,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "Citizen developers now have their own Wingman\n\nA vibe-coding application creation company, Emergent, has released Wingman, an autonomous agent that can address and take control of the applications used to manage daily tasks. The company’s press release states: “The best technology should be accessible to everyone”, and cites the difficulty that users without a technical background have in creating software applications. It […]\nThe post Citizen developers now have their own Wingman appeared first on AI News.",
+    "t": "למפתחים האזרחיים יש עכשיו את ה-Wingman שלהם\n\nחברת Emergent השיקה Wingman, AI agent אוטונומי שיכול לנהל ולשלוט בתוך אפליקציות לניהול משימות יומיומיות. החברה מאמינה שהטכנולוגיה הטובה ביותר צריכה להיות זמינה לכולם, ולכן פיתחה כלי שמאפשר למשתמשים ללא רקע טכני ליצור ולאוטומט אפליקציות בקלות. זה עוד צעד בכיוון שלדמוקרטיזציה של פיתוח תוכנה ו-no-code solutions.",
     "d": "Wed, 15 Apr 2026 14:42:00 +0000",
     "v": 0,
     "l": [
@@ -181,7 +181,6 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "robotics",
       "agents"
     ],
     "imp": "low",
@@ -190,7 +189,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Game of Thrones and Euphoria given age ratings as BBFC deploys new AI tool\n\nRegulator says tool, which creates reports for humans to review, has helped classify entire UK catalogue of HBO Max\nTV shows including Game of Thrones and Euphoria have received age ratings for the first time in the UK, after the British Board of Film Classification (BBFC) deployed an AI tool to help assess content.\nThe BBFC has developed a tool to identify content that triggers compliance issues, such as violence, nudity and bad language. The flagged scenes are then passed over to BBFC staff fo",
+    "t": "Game of Thrones ו-Euphoria קיבלו דירוג גיל באמצעות כלי AI חדש של BBFC\n\nהרגולטור הבריטי השתמש בכלי AI כדי לסווג את כל הקטלוג של HBO Max בבריטניה לראשונה. הכלי מזהה סצנות עם אלימות, עירום ובחירה בשפה לא הולמת, ואז בני אדם מסקרים את הדגלים לפני קביעת הדירוג הסופי - זה מהפך אמיתי למנהלי התוכן.",
     "d": "Wed, 15 Apr 2026 14:26:46 GMT",
     "v": 0,
     "l": [
@@ -207,13 +206,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/f970ef991b7a55fe6f693c5a44294b03dcca5515/136_0_1358_1086/master/1358.jpg?width=140&quality=85&auto=format&fit=max&s=517ee396656705d6ac4a21865cff6400",
     "source": "The Guardian AI"
   },
   {
     "id": 10,
-    "t": "Anthropic prepares Opus 4.7 and AI design tool, VCs offer up to 800 billion dollars\n\nAnthropic is preparing to release a new model and a design tool that would compete with Adobe and Figma. Meanwhile, venture capitalists are lining up to invest at sky-high valuations.\nThe article Anthropic prepares Opus 4.7 and AI design tool, VCs offer up to 800 billion dollars appeared first on The Decoder.",
+    "t": "אנתרופיק מכינה את Opus 4.7 וכלי עיצוב AI, וההשקעות מגיעות ל-800 מיליארד דולר\n\nאנתרופיק בדרך להשיק מודל חדש וכלי עיצוב שיתחרה ישירות עם Adobe ו-Figma, בזמן שקרנות venture capital מתגייסות להשקעות בערכים מדהימים. זו לא רק עוד עדכון למודל - אנתרופיק משחקת במשחק רציני נגד ענקי העיצוב הדיגיטלי.",
     "d": "Wed, 15 Apr 2026 14:26:04 +0000",
     "v": 0,
     "l": [
@@ -226,21 +225,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 11,
-    "t": "After sale of its shoe business, Allbirds pivots to AI\n\nAllbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.",
+    "t": "אחרי מכירת עסק הנעליים, Allbirds עוברת לעולם ה-AI\n\nAllbirds מחליפה נעליים צמר וחוטים לשרתי AI - החברה מחדשת את עצמה תחת השם NewBird AI עם השקעה של 50 מיליון דולר בהתאמה מימון. זה כמו שהם אמרו: למה להמשיך למכור נעליים כשאתה יכול להיות חברת AI? התנודה העסקית הזו של Allbirds מצביעה על הטרנד שראיתם בעקבות בום ה-AI - כל אחד רוצה קטע מהעוגה הזו.",
     "d": "Wed, 15 Apr 2026 14:24:31 +0000",
     "v": 0,
     "l": [
@@ -263,7 +258,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Clavicular Rushed to Hospital in Perfect Illustration of Why Looksmaxxing Is a Horrifying Death Cult\n\nIt was only a matter of time.\nThe post Clavicular Rushed to Hospital in Perfect Illustration of Why Looksmaxxing Is a Horrifying Death Cult appeared first on Futurism.",
+    "t": "עוד קורבן של תרבות ה-Looksmaxxing: מה שקרה לא היה בלתי צפוי\n\nזה רק עניין של זמן. תרבות האינטרנט של השיפור המוזר הזה של המראה החיצוני - ה-Looksmaxxing - הגיעה לנקודת קצה מסוכנת שמבחינה רפואית. כשמישהו בעצם נשלח לבית חולים בגלל הנסיון לעמוד בתקני זה, זה משהו שצריך להדליק אזהרות בדיוק עכשיו.",
     "d": "Wed, 15 Apr 2026 10:23:33 -0400",
     "v": 0,
     "l": [
@@ -286,7 +281,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "‘Misogyny with a marketing budget’: UK AI firm accused of sexist advert\n\nNarwhal Labs ad for ‘AI employee’ contains strapline: ‘She outworks everyone. And she’ll never ask for a raise’\nA British AI company that recently secured millions of pounds of investment has been accused of running a misogynistic and sexist advertising campaign.\nThe Advertising Standards Authority (ASA) has received at least seven complaints about the campaign by Narwhal Labs, which includes an advert depicting a woman next to the strapline: “She outworks everyone. And she’ll never ask for a ra",
+    "t": "'הסכסוך עם תקציב שיווקי': חברת AI בריטית נתונה לביקורת על פרסומת סקסיסטית\n\nNarwhal Labs, סטארטאפ בריטי שגיייס מיליונים לפני זמן קצר, נקלעה לסערה כי הפרסומת שלה לשירות 'עובד AI' כוללת סלוגן מגוחך: 'היא עובדת יותר מכולם. וגם לא תשאל להעלאת משכורת'. הרשות הבריטית לפקוח על פרסומות כבר קיבלה לפחות שבע תלונות על הקמפיין המשפיל, שמדגים עד כמה מרחק יש לעוד לחברות טק בנוגע להשוואה בין נשים ל-AI.",
     "d": "Wed, 15 Apr 2026 14:17:30 GMT",
     "v": 0,
     "l": [
@@ -301,8 +296,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/24d1e3056491bcd2232d7e77a8a40e938909e8e2/167_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=b2c47b7ef3ba14167380e3be007d3c30",
@@ -310,7 +304,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "What’s the deal with Alzheimer’s disease and amyloid?\n\nFor decades, scientists have concentrated on what now looks to be a blind alley.",
+    "t": "מה הקשר בין אלצהיימר לאמילואיד?\n\nבמשך עשרות שנים, חוקרים התמקדו בתיאוריה שכיום נראית כמו טעות קוסמית ענקית. ייתכן שפתחנו את הדלת הלא נכונה בחיפוש אחרי הסיבה האמיתית של המחלה המשתקת הזו.",
     "d": "Wed, 15 Apr 2026 14:11:02 +0000",
     "v": 0,
     "l": [
@@ -333,7 +327,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "Claude beat human researchers on an alignment task, and then the results vanished in production\n\nIn a controlled experiment, nine autonomous Claude instances dramatically outperformed human researchers on an open alignment problem. But when Anthropic tried to transfer the winning method to its own production models, the effect vanished.\nThe article Claude beat human researchers on an alignment task, and then the results vanished in production appeared first on The Decoder.",
+    "t": "Claude הביס חוקרים אנושיים בבעיית alignment - אבל התוצאות התאיידו בייצור\n\nבניסוי מבוקר, תשע instances של Claude עשו משהו מדהים - הן הצליחו להוכיח שהן טובות מחוקרים אנושיים בפתרון בעיית alignment. הבעיה? כשAnthropicניסתה להעביר את השיטה הזו המנצחת לדגמי הייצור שלהם, הכל פשוט... נעלם. זה אחד מהדברים המוזרים שמראים שלא תמיד קל להעביר תוצאות מעולמות מעבדה לעולם האמיתי. מקור: The Decoder",
     "d": "Wed, 15 Apr 2026 13:54:11 +0000",
     "v": 0,
     "l": [
@@ -351,8 +345,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "robotics"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -360,7 +353,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "US waste streams contain $5.7 billion in untapped agricultural nutrients, study suggests\n\nA new study from Cornell University reveals that human and animal waste could theoretically replace...",
+    "t": "זרמי פסולת בארה״ב מכילים 5.7 מיליארד דולר בחומרים מזינים שלא נוצלו\n\nמחקר חדש מאוניברסיטת קורנל חושף שהפסולת האנושית והחיונית יכולה להחליף למעשה את הדשנים הכימיים המסורתיים - וזה לא רק טוב לסביבה, אלא גם יכול להיות ממש רווחי כלכלית. בעצם, אנחנו מדברים על מליארדי דולרים של משאבים שיש לנו פשוט זורקים לאשפה, והמדענים אומרים שזה יכול להשתנות.",
     "d": "Wed, 15 Apr 2026 13:45:41 +0000",
     "v": 0,
     "l": [
@@ -375,16 +368,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://www.youtube.com/embed/16Ob_289FgU",
     "source": "Interesting Engineering"
   },
   {
     "id": 17,
-    "t": "New textile cascade filter removes up to 98.5% of microplastics from wastewater\n\nResearchers in Germany have just unveiled a textile-based cascade filter designed to capture microplastics directly...",
+    "t": "מסנן טקסטיל חדש מסיר עד 98.5% מהמיקרופלסטיק ממי שפכים\n\nחוקרים בגרמניה חשפו מסנן חדש המבוסס על טקסטיל שמסוגל לתפוס מיקרופלסטיק ישירות ממי שפכים בדיוק מדהים. הטכנולוגיה הזו יכולה להיות משחק חדש לחלוטין בתחום זיהום המים, במיוחד כשמדברים על חלקיקים זעירים שקשה מאוד לתפוס. אם זה באמת עובד כמו שמדווחים, יכול להיות שזה יפתור בעיה שהציקה לנו כל הזמן בתעשיית הטקסטיל וטיהור המים.",
     "d": "Wed, 15 Apr 2026 13:39:26 +0000",
     "v": 0,
     "l": [
@@ -407,7 +399,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "Blue Origin has a new employee stock plan, but not everyone is happy\n\n\"We are being intentional about creating liquidity events.\"",
+    "t": "Blue Origin משיקה תוכנית מניות חדשה לעובדים, אבל לא כולם שמחים\n\nג'ף בזוס וחברתו Blue Origin מנסים לעשות כאן משהו חכם - הם מביאים אפשרות למימוש מניות בתוך הח\"כ, מה שנקרא בעולם הסטארט-אפים 'liquidity events'. הרעיון טוב בעיקרון, אבל נראה שחלק מהעובדים לא בטוחים אם זה באמת טוב להם כמו שזה טוב לבעלי המניות.",
     "d": "Wed, 15 Apr 2026 13:38:19 +0000",
     "v": 0,
     "l": [
@@ -430,7 +422,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "Enermax Platimax II 1200DF power supply review: Powerful with Platinum level efficiency\n\nThe Enermax Platimax II 1200DF delivers outstanding Platinum-level efficiency, exemplary power quality, and an audacious 13-year warranty, though its lean connector loadout falls short of what 1200W should offer.",
+    "t": "ביקורת Enermax Platimax II 1200DF: ספק כוח חזק עם יעילות ברמת Platinum\n\nספק הכוח החדש של Enermax מגיע עם יעילות Platinum מן השורה הראשונה, איכות חשמל מעולה וערבות משוגעת של 13 שנים - אבל הוא קצת חסכוני בחיבורים עבור ספק ב-1200W. עדיף להחזיק אותו בחזקה אם אתם בחזקת מחשב גיימינג או תחנת עבודה כבדה.",
     "d": "Wed, 15 Apr 2026 13:36:02 +0000",
     "v": 0,
     "l": [
@@ -453,7 +445,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "Nuclear in space: US plans mid-power reactor with lunar fission surface power\n\nThe United States is planning to put nuclear reactors in space within the next 3-4...",
+    "t": "גרעין בחלל: ארה״ב מתכננת להציב כורים גרעיניים על הירח\n\nארה״ב מתכננת לשלוח כורים גרעיניים לחלל בעוד 3-4 שנים, כחלק מתוכנית להנעת בסיסים על הירח. זה דבר חדש ברמה של חלוציות טכנולוגית - במקום להסתמך על פאנלים סולריים שמתקשים בחושך, הם הולכים ישר לאנרגיה גרעינית. תוכניות אלו יכולות להיות משחק שינוי למטלות חקר חלל ארוכות טווח.\nמקור: Interesting Engineering",
     "d": "Wed, 15 Apr 2026 13:18:18 +0000",
     "v": 0,
     "l": [
@@ -476,7 +468,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "It's Tax Day, and no one knows how to file for prediction market winnings\n\nIt's time for Americans to pay taxes on prediction market winnings, but no one knows how.",
+    "t": "יום תשלום המיסים הגיע - ואף אחד לא יודע איך להצהיר על רווחים מבורסות חזוקות\n\nספציאליסטים במיסים בארה\"ב התחילו לחרוט לראשם - איך בעצם מדווחים למס על כסף שהרוויחו מנחיצות בבורסות חזוקות? התייר הטקסי הגיע והאמריקאים התחילו להבין שהם כנראה חייבים לשלם על הרווחים האלה, אבל ה-IRS עדיין לא נתן הנחיות ברורות איך לעשות את זה. מה שהתחיל כחוג קטן של בטיחות בחזוקות הפך להיות בעיה משפטית גדולה בדקה האחרונה. מקור: Ars Technica",
     "d": "Wed, 15 Apr 2026 13:15:21 +0000",
     "v": 0,
     "l": [
@@ -499,7 +491,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "MIT tech lets room temperature quantum sensors measure multiple parameters at once\n\nA new solid-state quantum sensor developed by researchers at the Massachusetts Institute of Technology (MIT)...",
+    "t": "טכנולוגיה של MIT: חיישנים קוונטיים בטמפרטורת החדר יכולים למדוד מספר פרמטרים בו-זמנית\n\nחוקרים ב-MIT פיתחו חיישן קוונטי מהפכני שעובד בטמפרטורת החדר, וזה בתור משהו שניסו להשיג בתחום בשנים האחרונות. המכשיר החדש יכול למדוד כמה פרמטרים שונים בו-זמנית, מה שפותח אפשרויות חדשות לשימוש בחיישנים קוונטיים בעולם האמיתי. זה יכול להיות משחק משנה למחקר רפואי, ניווט ודיוקים דקים שדורשים מדידות קוונטיות.",
     "d": "Wed, 15 Apr 2026 13:15:09 +0000",
     "v": 0,
     "l": [
@@ -522,7 +514,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "A monkey ate the wrong squirrel – and started an outbreak\n\nIn January 2023, researchers at the Helmholtz Institute for One Health in Germany noticed that an infant monkey known as a sooty mangabey had developed reddish skin lesions across its forehead, chest, and legs. Within 48 hours, the animal was reported dead. Over the following weeks, nearly a third of the group's 80 members developed similar lesions, and four infants died. The outbreak was caused by the monkeypox virus (MPXV).\nContinue Reading\nCategory: Biology, Science\nTags: Orange Monkey, Monke",
+    "t": "קוף אכל את הגדיל הלא נכון - והתחילה התפשטות נגיפית\n\nבינואר 2023, חוקרים בגרמניה גילו שקוף צעיר חלה בנגיף הקוף וחלה במחלה כבדה - התפשטות מהירה גרמה להתארגנות הכנופיה כולה ואף לכמה מיתות. הסיפור המעניין הזה מחזיר אותנו לשאלה הישנה כמה שהיא חדשה: איך בעצם נגיפים עוברים בין מינים שונים בטבע והופכים לאיום בריאות ציבורי?",
     "d": "Wed, 15 Apr 2026 13:13:00 GMT",
     "v": 0,
     "l": [
@@ -539,13 +531,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "New Atlas"
   },
   {
     "id": 24,
-    "t": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate\n\nReid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric.",
+    "t": "ריד הופמן משתתף בוויכוח ה'tokenmaxxing'\n\nריד הופמן, מייסד LinkedIn, סבור שמעקב אחרי token usage יכול לעזור להבין את קצב אימוץ AI, אבל הוא מזהיר שזה לא קסם - צריך לקחת את זה בהקשר הנכון ובשום פנים אל נעשה את הנתון הזה למדד ישיר של פרודוקטיביות. זה בעצם הדיון הגדול כרגע בעולם ה-AI אם מספר ה-tokens הוא באמת מה שחשוב או שיש עוד המון משתנים אחרים בעלי חשיבות. | TechCrunch AI",
     "d": "Wed, 15 Apr 2026 13:06:54 +0000",
     "v": 0,
     "l": [
@@ -568,7 +560,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "B-21 Raider seen from above in aerial refueling test, exposes key features\n\nA newly released image of the B-21 Raider has provided the first-ever overhead view of...",
+    "t": "תצפית מלמעלה של ה-B-21 Raider בבדיקת דלק אווירי חושפת תכונות מפתח\n\nתמונה שהשתחררה לאחרונה של מטוס הקרב B-21 Raider הציעה את התצפית הראשונה אי-פעם מלמעלה, וחשפה פרטים חשובים על עיצובו של הגוף המטוס הזה. בדיקת ההטסה כללה תדלוק אווירי, שזה מידע די משמעותי לשוויון הצבאי האמריקני בשנים הקרובות.",
     "d": "Wed, 15 Apr 2026 13:02:14 +0000",
     "v": 0,
     "l": [
@@ -591,7 +583,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 26,
-    "t": "Adobe’s new Firefly AI assistant can use Creative Cloud apps to complete tasks\n\nAdobe says the assistant can work across apps like Firefly, Photoshop, Premiere, Lightroom, Express,  Illustrator and its other apps to do tasks for you.",
+    "t": "עוזר ה-AI החדש של Adobe יכול להשתמש ביישומי Creative Cloud כדי להשלים משימות\n\nAdobe הכריזה על עוזד AI חדש שיכול לעבוד בחלל היישומים שלה - מ-Firefly ו-Photoshop ועד Premiere, Lightroom ו-Illustrator - כדי להשלים משימות בשבילך ללא צורך לעבור בין אפליקציות. במילים אחרות, אתה פשוט אומר לאי מה אתה רוצה ו-Adobe מטפלת בכל העבודה הכבדה. זו נראית כמו צעד משמעותי בדרך לעתיד שבו AI יהיה אמיתי כדי כל אחד במקום עזרה קטנה בפינה של האפליקציה.",
     "d": "Wed, 15 Apr 2026 13:01:00 +0000",
     "v": 0,
     "l": [
@@ -614,7 +606,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 27,
-    "t": "Chip giants AMD, Qualcomm and Arm back driverless car startup Wayve with fresh funds\n\nWayve now has major semiconductor names, including Nvidia, as shareholders as it looks to sell its technology to automakers who may be using different chips.",
+    "t": "ענקי הצ'יפים AMD, Qualcomm ו-Arm תומכים בסטארטאפ הרכב האוטונומי Wayve עם השקעה חדשה\n\nWayve הצליחה להשיג את תמיכתם של שחקנים ענקיים בתעשיית הצ'יפים, כולל Nvidia, כמי שחזקים בחברה. המהלך הזה חשוב כי הוא מאפשר ל-Wayve למכור את טכנולוגיית הנהיגה האוטונומית שלה ליצרני רכב שונים, בלי תלות באיזה סוג של chip הם משתמשים - זה כמו לומר שהטכנולוגיה שלהם עובדת עם כמעט כל חומרה בשוק.",
     "d": "Wed, 15 Apr 2026 13:00:01 GMT",
     "v": 0,
     "l": [
@@ -640,7 +632,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 28,
-    "t": "Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million\n\nThe company uses AI to review code that, more often than not these days, has also been generated by AI.",
+    "t": "Gitar, סטארטאפ המשתמש ב-AI Agents לאבטחת קוד, יוצא מהחשאיות עם $9 מיליון\n\nחברה חדשה בשם Gitar החליטה לשחק בקלפים שלה - היא משתמשת ב-AI כדי לסקור קוד שלעתים קרובות נכתב גם הוא על ידי AI. במילים אחרות, AI בודק AI, ולכל זה יש כרגע תקציב של 9 מיליון דולר.",
     "d": "Wed, 15 Apr 2026 13:00:00 +0000",
     "v": 0,
     "l": [
@@ -664,7 +656,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 29,
-    "t": "This startup is betting tokenmaxxing will create the next compute giant\n\nParasail raised $32 million in a Series A, signaling a fractured future of models and compute.",
+    "t": "סטארטאפ מהמר שתוכנית 'טוקנמקסינג' תיצור את ענקת ה-compute הבאה\n\nפרסיל אספה 32 מיליון דולר בסבב Series A, מה שמעיד על עתיד מפוצל של מודלים וחישוביות. החברה האיזראלית מתמודדת על שינוי הגלובלי בעולם ה-AI על ידי התמקדות בדרך חדשנית להתמודדות עם העלויות החישוביות שמתפוצצות.",
     "d": "Wed, 15 Apr 2026 13:00:00 +0000",
     "v": 0,
     "l": [
@@ -688,7 +680,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 30,
-    "t": "Adobe embraces conversational AI editing, marking a ‘fundamental shift’ in creative work\n\nYou don’t need to understand any fancy editing terms — just describe what changes you want to make. | Image: Adobe\t\n\nAdobe is fully embracing AI tools that enable creators to edit their work using descriptive prompts, instead of manually using specific Creative Cloud apps. The software giant's new Firefly AI Assistant allows users to describe what they want to change by typing their own words into a conversational interface. \nAdobe says this marks a \"fundamental shift in how creative work is don",
+    "t": "Adobe מעבירה לעידן ה-AI: עריכה קריאייטיבית עם פשוט תיאור מה שרוצים\n\nאדובה משחררת את ה-Firefly AI Assistant שלה - כלי שמאפשר ליוצרים לערוך תוכן פשוט בעברית: \"אני רוצה להחליף את הרקע ללבן\" וזהו, בלי צורך להבין Photoshop בעצמך. זה לא רק עדכון קטן - אדובה קוראת לזה \"מהפך יסודי\" בדרך שאנחנו עובדים עם creative tools, כי הפעם המחשב מבין אותנו במילים שלנו, לא בקליקים וכפתורים מוזרים. לכל מי שפחד מ-Adobe Creative Cloud - הזמן השתנה.",
     "d": "2026-04-15T13:00:00.000Z",
     "v": 0,
     "l": [
@@ -711,7 +703,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 31,
-    "t": "Usually, Young People Embrace New Technology. Gen Z’s Attitude Toward AI Should Worry the Entire Tech Industry\n\nThe AI industry has a major problem with young people.\nThe post Usually, Young People Embrace New Technology. Gen Z’s Attitude Toward AI Should Worry the Entire Tech Industry appeared first on Futurism.",
+    "t": "בדרך כלל נוער מאמץ טכנולוגיה חדשה. אבל הגישה של Gen Z ל-AI צריכה להדאיג את כל תעשיית הטק\n\nיש בעיה גדולה ליצרני ה-AI עם הדור הצעיר. בניגוד למה שקרה עם כל הטכנולוגיות החדשות של העבר, Gen Z לא בדיוק מתלהבים מ-AI - והתופעה הזו יכולה להיות מציף אדום גדול לכל התעשייה. המחקרים מראים שהנוער בישראל וברחום העולם חוששים מהשפעות שליליות של AI על העבודה, הפרטיות והחברה. מקור: Futurism",
     "d": "Wed, 15 Apr 2026 08:56:58 -0400",
     "v": 0,
     "l": [
@@ -734,7 +726,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 32,
-    "t": "US states can't account for datacenter tax breaks. Literally\n\nReport says authorities are flouting accounting rules by failing to disclose revenue lost to server farm subsidies Many US states and local authorities are violating generally accepted accounting principles (GAAP) by failing to disclose revenue lost to datacenter tax subsidy schemes, according to Good Jobs First.…",
+    "t": "מדינות אמריקאיות לא יודעות איפה הכסף שלהן הלך - מרכזי נתונים קוספים הון\n\nדוח חדש חושף שרשויות במדינות שונות בארה״ב לא מדווחות כמו שצריך על הכספים שהם מאבדים דרך הטבות מס לחברות datacenters. בקיצור, אף אחד לא בדיוק יודע כמה זה עולה להם, וזה מפירת כללי חשבונאות בסיסיים - אבל מישהו צריך להתחיל לעקוב אחרי הפרוטות.",
     "d": "2026-04-15T12:35:09.000Z",
     "v": 0,
     "l": [
@@ -751,13 +743,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Register"
   },
   {
     "id": 33,
-    "t": "OpenAI pulls back from Stargate Norway data center deal as Microsoft takes over\n\nThe AI startup is now in discussions with Microsoft about renting compute capacity",
+    "t": "OpenAI נסוגה מעסקת מרכז הנתונים של Stargate בנורווגיה - מיקרוסופט לוקחת את המקום\n\nOpenAI החליטה להימנע מהשקעה ישירה במרכז הנתונים ענק בנורווגיה והעבירה את הפרויקט למיקרוסופט, בעוד שהיא כעת בדיונים עם גיגנט הטכנולוגיה על השכרת קיבולת compute. המהלך הזה משקף שינוי אסטרטגי של OpenAI שמעדיפה להתמקד בפיתוח מודלים ברמה גבוהה בעוד מיקרוסופט תופסת תפקיד משמעותי יותר בתשתיות ה-AI. Source: CNBC Tech",
     "d": "Wed, 15 Apr 2026 12:29:04 GMT",
     "v": 0,
     "l": [
@@ -771,13 +763,11 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Microsoft"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "model",
-      "product"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -785,7 +775,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 34,
-    "t": "Bank of America earnings, Kalshi's DC charm offensive, a United-American merger and more in Morning Squawk\n\nHere are five key things investors need to know to start the trading day.",
+    "t": "רווחי בנק אמריקה, הקמפיין של Kalshi בוושינגטון ועוד דברים לשוק בבוקר\n\nבוקר מלא סביבות - בנק אמריקה פרסמה תוצאות הרבעון, פלטפורמת ההימורים בניבוי Kalshi עושה מהלך גדול בוושינגטון, ואפילו יש שמועות על מיזוג ענק בתעופה. חמש נקודות שצריך להכיר לפני שתתחילו את יום המסחר. מקור: CNBC Tech",
     "d": "Wed, 15 Apr 2026 12:28:34 GMT",
     "v": 0,
     "l": [
@@ -800,8 +790,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -809,7 +798,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 35,
-    "t": "Netgear secures conditional approval from the FCC following router ban — company can continue importing foreign-made routers through October 2027\n\nNetgear secured a conditional approval from the FCC to continue releasing new models of several router lines, with the company saying in its SEC disclosure that it can launch new models indefinitely provided it can maintain its approval.",
+    "t": "נטגיר קיבלה אישור מותנה מה-FCC - תוכל להמשיך לייבא נתבים עד 2027\n\nנטגיר הצליחה לקבל אישור מותנה מה-FCC שיאפשר לה להוציא דגמים חדשים של נתביה המבוקשים, כל עוד תשמור על ההתאמות הנדרשות. המשמעות היא שהחברה תוכל להמשיך בייבוא נתביים מיוצרים בחו\"ל עד אוקטובר 2027, מה שמציל אותה מהחוסמים שדיברנו עליהם לפני זמן. זה די משמעותי עבור משתמשים שאוהבים את פתרונות הנטוורקינג של נטגיר.",
     "d": "Wed, 15 Apr 2026 12:20:07 +0000",
     "v": 0,
     "l": [
@@ -824,8 +813,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/7heZxug7vFr9FC8fYaGuNJ-1280-80.jpg",
@@ -833,7 +821,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 36,
-    "t": "Headless 360: Salesforce's latest pitch to let AI do the dev work\n\nHere comes 'enterprise vibe coding' as CRM giant aims to open development to anyone on the platform Salesforce has introduced what it calls Headless 360 at its developer event TDX, which starts today in San Francisco, designed to expand the reach of its app-building tools beyond traditional developers.…",
+    "t": "Headless 360: פיץ' חדש של סיילספורס שמאפשר ל-AI לעשות את עבודת הפיתוח\n\nסיילספורס חשפה את Headless 360 בכנס המפתחים שלה (TDX) בסן פרנסיסקו, כלי שמטרתה להוציא את פיתוח האפליקציות מידי המפתחים המקצוענים ולהנגישה לכל עובד בחברה. זה החלק הבא של סיילספורס בתחום ה-AI לעבודה - הפעם הם משדרגים את Platform שלהם כדי שכל אחד יוכל להיות 'מפתח'، ללא צורך בקוד או בידע טכני עמוק.",
     "d": "2026-04-15T12:16:22.000Z",
     "v": 0,
     "l": [
@@ -856,7 +844,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 37,
-    "t": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10\n\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?  Just before Artemis II began its historic slingshot around the moon, NASA revealed an even grander space travel…",
+    "t": "ההורדה: חללית גרעינית של נאס\"א וחשיפת ה-AI שלנו 10\n\nנאס\"א בנויה חללית בין-כוכבית המופעלת על ידי כור גרעיני ראשון מסוגו - טכנולוגיה מטורפת שתשנה את המשחק בחקר החלל. בזמן שארטמיס II עשתה את הלולאה ההיסטורית שלה סביב הירח, הסוכנות החללית גילתה רעיון אפילו יותר גדול לעתידות נסיעות בחלל. עדכון יומי מ-MIT Technology Review",
     "d": "Wed, 15 Apr 2026 12:10:00 +0000",
     "v": 0,
     "l": [
@@ -879,7 +867,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 38,
-    "t": "World’s worst nuclear disaster site faces ‘catastrophic’ collapse, 36,000-ton arch damaged\n\nA Greenpeace report released Tuesday, April 14, 2026, states that the internal radiation shell at...",
+    "t": "אתר הקטastrophe הגרעיני בעולם בסכנת התמוטטות: הקשת ב-36,000 טון נפגעה\n\nדוח של גרינפיס חושף שהמעטפת הקרינתית הפנימית באתר הקטastrofe הגרעיני הגרוע בעולם עומדת בסכנה של התמוטטות קטastrofאלית. ה-arch ענקי שמגן על הרדיאציה הקשה נפגע באופן משמעותי, מה שעלול להוביל לדליפות קרינתיות ממסיביות אם לא יתערבו במהירות. זו חדשה שאחרונה זעמה את הקהילה הבינלאומית ודורשת הכנסה מיידית של מימון וטכנולוגיות חדשות להכלת המצב.",
     "d": "Wed, 15 Apr 2026 12:04:29 +0000",
     "v": 0,
     "l": [
@@ -896,13 +884,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "Interesting Engineering"
   },
   {
     "id": 39,
-    "t": "China tests deep-sea electro-hydrostatic actuator that can cut undersea cables at a depth of 3,500 meters — state hails successful trial and hints at deployment readiness\n\nChina has successfully tested a \"deep-sea electro-hydrostatic actuator\" that can cut undersea cables at a depth of 3,500 meters.",
+    "t": "סין בדקה מכשיר חדש שיכול לחתוך כבלים תת-ימיים בעומק 3,500 מטר — המדינה מדווחת על הצלחה בניסוי\n\nסין הצליחה בבדיקה של מכשיר \"אקטואטור אלקטרו-הידרוסטטי לעומקי הים\" שיכול לחתוך כבלים תת-ימיים בעומקים קיצוניים של 3,500 מטר. הממשלה הסינית מהללת את הניסיון המוצלח ותיעדה כי המכשיר כמעט מוכן להיות הנמקם בשדה. זה קצת מעוררת דאגה מכיוון שכבלים אלה מהווים את עמוד השדרה של תקשורת בינלאומית, אם כי סביר להניח שיש לכך השלכות גיאופוליטיות בוודאי.",
     "d": "Wed, 15 Apr 2026 12:03:58 +0000",
     "v": 0,
     "l": [
@@ -925,7 +913,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 40,
-    "t": "Starbucks launches beta app in ChatGPT to fuel new drink discovery\n\nStarbucks is trying to find ways to entice U.S. customers back to its cafes.",
+    "t": "סטארבקס משיקה אפליקציית בטא ב-ChatGPT כדי לעזור ללקוחות לגלות משקאות חדשים\n\nסטארבקס מנסה למשוך חזרה לקפה אלפי לקוחות אמריקאיים בעזרת AI - השרות החדש ב-ChatGPT יעזור למשתמשים לגלות משקאות מותאמים לטעמיהם האישיים. זו דרך חכמה של הענקית לשלב טכנולוגיה בחוויית הקנייה ולהחזיר אנשים לחנויות הפיזיים.",
     "d": "Wed, 15 Apr 2026 12:00:05 GMT",
     "v": 0,
     "l": [
@@ -945,13 +933,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 41,
-    "t": "Why are workers so worried about AI? Listen to how business leaders talk about it\n\nConcerns about AI pushing humans out of jobs may be a bit overstated, but the anxiety being felt by workers related to technology is real and nuanced.",
+    "t": "למה עובדים כל כך חוששים מ-AI? שימו לב איך מנהלי עסקים מדברים על זה\n\nאוקיי, אז בנושא AI וביטחון מקום העבודה - כן, יש קצת היסטריה מיותרת בחדשות, אבל הפחד של העובדים הוא לגמרי ממשי וזה הרבה יותר מסובך מאשר \"AI תחליף את כולם\". בעצם, הדרך שבה בוסים ומנהלים מדברים על הטכנולוגיה הזאת היא בדיוק המשהו שמעלה את הדאגות של אנשים בשטח.",
     "d": "Wed, 15 Apr 2026 12:00:01 GMT",
     "v": 0,
     "l": [
@@ -974,7 +962,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 42,
-    "t": "Corsair Vengeance RGB Custom Lab Cherry Blossom DDR5-6000 C36 2x16GB Review: RAM customization made easy\n\nCorsair has launched a custom creator program to customize the memory you buy. Is it unique enough to make it stand out among the competition?",
+    "t": "ביקורת Corsair Vengeance RGB Custom Lab Cherry Blossom DDR5-6000 C36 2x16GB: התאמה אישית של זיכרון עשויה להיות קלה\n\nקורסייר משיקה תוכנית לעיצוב אישי של זיכרון RAM, שמאפשרת לכם להתאים את ה-DDR5 שלכם בדיוק לדרישות שלכם. השאלה היא אם התכונה הייחודית הזו מספיקה בשביל להבדיל אותם מן התחרויות בשוק? | מקור: Tom's Hardware",
     "d": "Wed, 15 Apr 2026 12:00:00 +0000",
     "v": 0,
     "l": [
@@ -997,7 +985,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 43,
-    "t": "Metamaterial microwave tool lets 3D printers embed electronics in live tissue\n\nResearchers at Rice University have developed a 3D printing technique that utilizes focused microwave energy...",
+    "t": "כלי מיקרוגל עם metamaterial מאפשר למדפסות 3D להטמיע אלקטרוניקה בתוך רקמה חיה\n\nחוקרים מאוניברסיטת Rice פיתחו טכניקת 3D printing מהפכנית שמשתמשת באנרגיית מיקרוגל ממוקדת כדי להדפיס רכיבים אלקטרוניים ישירות בתוך רקמה חיה, פתח דלת לאפליקציות רפואיות שלא היו אפשריות קודם. הטכנולוגיה הזאת עלולה לשנות את המשחק בתחום הרפואה הדיגיטלית וגידול רקמות מותאמות, ויש בה פוטנציאל עצום למכשירים רפואיים מעוצבים במדויק. מקור: Interesting Engineering",
     "d": "Wed, 15 Apr 2026 11:57:27 +0000",
     "v": 0,
     "l": [
@@ -1023,7 +1011,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 44,
-    "t": "Get 64GB of Corsair DDR5 RAM for an unbelievable $266 in this Newegg bundle deal — Ryzen 7 9800X3D processor, MSI X870E Edge Ti Wifi motherboard, and a Corsair 3500X Case for only $1,099\n\nBuy this incredible 4-item Newegg bundle for $1099.99 and receive 64GB Corsair Vengeance DDR5-6400 RAM for effectively ~$266 - an unbelievable value. $833 off this combo makes high-capacity memory cheaper than many 32GB kits.",
+    "t": "חבילת Newegg משוגעת: 64GB של Corsair DDR5 ב-266 דולר בלבד - כולל Ryzen 7 9800X3D וכל ההזמנה תמורת 1,099 דולר\n\nיש לכם הזדמנות ממש חריגה בNewegg - קונים חבילת אלקטרוניקה שלמה בחצי מחיר: Ryzen 7 9800X3D, לוח אם MSI X870E, קייס של Corsair ו-64GB RAM - הכל תמורת אלף ו-99 דולרים. זה כל כך מטורף שה-RAM לבדו יוצא בחצי מחיר של רוב ה-32GB קיטים בשוק. מי שחוסך 833 דולר על בנייה כזאת של משחק בחסות זה סדר גודל פרסום שלא ראינו הרבה זמן.",
     "d": "Wed, 15 Apr 2026 11:51:36 +0000",
     "v": 0,
     "l": [
@@ -1046,7 +1034,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 45,
-    "t": "Microsoft Copilot in Word can now track changes and manage comments\n\nMicrosoft is expanding Copilot in Word with new functions that, according to the company, are aimed at legal, finance and compliance professionals.\nThe article Microsoft Copilot in Word can now track changes and manage comments appeared first on The Decoder.",
+    "t": "Microsoft Copilot בוורד יכול עכשיו לעקוב אחרי שינויים ולנהל תגובות\n\nמיקروסופט משדרגת את Copilot בוורד עם כלים חדשים שמיועדים בעיקר לעורכי דין, אנשי פיננסים ותוך-קומפליאנס. התוכנה תוכל לעקוב אחרי שינויים בטקסט ולנהל תגובות של משתתפים בהרבה יותר יעילות מה שהיה אפשרי עד כה - ממש מה שהיה חסר בעולם המסמכים שיתופיים.",
     "d": "Wed, 15 Apr 2026 11:42:04 +0000",
     "v": 0,
     "l": [
@@ -1072,7 +1060,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 46,
-    "t": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram\n\nFrom inside a money-laundering center in Cambodia, an employee opens a popular Vietnamese banking app on his phone. The app asks him to upload a photo associated with the account, so he clicks on a picture of a 30-something Asian man. Next, the app requests to open the camera for a video “liveness” check. The…",
+    "t": "הונאים סייבר עוקפים אבטחה בנקאית בעזרת כלים אלומיים שנמכרים בטלגרם\n\nמתברר שפשעי סייבר מתוחכמים משתמשים בכלים זולים ולא חוקיים שנמכרים בטלגרם כדי להתחמק מהאבטחה של אפליקציות בנקאיות, והם כותבים דף חדש בתרבות ההונאה הדיגיטלית. במקרה שנחשף, הונאים בקמבודיה השתמשו בתמונות מזויפות וטכניקות מתוחכמות כדי לעקוף אפילו בדיקות liveness שנראות בטוחות. מדובר בתופעה חדשה וחשוכה שמציגה כמה שנקל למנוע אתחול חשבונות בנקאיים בעזרת כלים זולים המצויים בשוק התחתון של האינטרנט.",
     "d": "Wed, 15 Apr 2026 11:26:12 +0000",
     "v": 0,
     "l": [
@@ -1087,9 +1075,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
