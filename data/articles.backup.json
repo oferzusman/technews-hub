@@ -75774,7 +75774,7 @@
         "Uncategorized"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-15T07:25:44.644Z",
       "created_at": "2026-04-15T07:25:44.644Z"
     },
@@ -75832,7 +75832,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-15T07:25:49.983Z",
       "created_at": "2026-04-15T07:25:49.983Z"
     },
@@ -76376,7 +76376,7 @@
       "author": "Jessica Lyons",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-15T08:57:10.882Z",
       "created_at": "2026-04-15T08:57:10.882Z"
     },
@@ -76393,7 +76393,7 @@
       "author": "Sujita Sinha",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-15T08:57:13.985Z",
       "created_at": "2026-04-15T08:57:13.985Z"
     },
@@ -76410,7 +76410,7 @@
       "author": "Atharva Gosavi",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-15T08:57:13.985Z",
       "created_at": "2026-04-15T08:57:13.985Z"
     },
@@ -76447,6 +76447,129 @@
       "priority": "batch",
       "fetchedAt": "2026-04-15T08:57:14.855Z",
       "created_at": "2026-04-15T08:57:14.855Z"
+    },
+    {
+      "id": 3903,
+      "source": "The Decoder",
+      "title_en": "OpenAI's GPT-5.4 Pro reportedly solves a longstanding open Erdős math problem in under two hours",
+      "description_en": "GPT-5.4 Pro solves an open Erdős problem in 80 minutes. Terence Tao calls it a meaningful contribution to mathematics.\nThe article OpenAI's GPT-5.4 Pro reportedly solves a longstanding open Erdős math problem in under two hours appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openais-gpt-5-4-pro-reportedly-solves-a-longstanding-open-erdos-math-problem-in-under-two-hours/",
+      "image_url": null,
+      "pub_date": "Wed, 15 Apr 2026 10:10:44 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and math"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T10:18:29.434Z",
+      "created_at": "2026-04-15T10:18:29.434Z"
+    },
+    {
+      "id": 3904,
+      "source": "The Decoder",
+      "title_en": "OpenAI releases GPT-5.4-Cyber, a model built specifically for defensive cybersecurity",
+      "description_en": "OpenAI releases GPT-5.4-Cyber, a model that has been specifically trained for defensive cyber security. Access remains restricted to verified security experts for the time being.\nThe article OpenAI releases GPT-5.4-Cyber, a model built specifically for defensive cybersecurity appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-releases-gpt-5-4-cyber-a-model-built-specifically-for-defensive-cybersecurity/",
+      "image_url": null,
+      "pub_date": "Wed, 15 Apr 2026 09:50:02 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Cybersecurity",
+        "GPT-5.4-Cyber",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T10:18:29.435Z",
+      "created_at": "2026-04-15T10:18:29.435Z"
+    },
+    {
+      "id": 3905,
+      "source": "MIT Technology Review",
+      "title_en": "No one’s sure if synthetic mirror life will kill us all",
+      "description_en": "For four days in February 2019, some 30 synthetic biologists and ethicists hunkered down at a conference center in Northern Virginia to brainstorm high-risk, cutting-­edge, irresistibly exciting ideas that the National Science Foundation should fund. By the end of the meeting, they’d landed on a compelling contender: making “mirror” bacteria. Should they come to be,…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/04/15/1135197/synthetic-mirror-life-microbes-kill-us-all/",
+      "image_url": null,
+      "pub_date": "Wed, 15 Apr 2026 09:00:00 +0000",
+      "author": "Stephen Ornes",
+      "categories": [
+        "Biotechnology and health",
+        "App",
+        "Features and Investigations"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T10:18:29.506Z",
+      "created_at": "2026-04-15T10:18:29.506Z"
+    },
+    {
+      "id": 3906,
+      "source": "Hugging Face Blog",
+      "title_en": "Meet HoloTab by HCompany. Your AI browser companion.",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/Hcompany/holotab",
+      "image_url": null,
+      "pub_date": "Wed, 15 Apr 2026 09:25:20 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T10:18:29.633Z",
+      "created_at": "2026-04-15T10:18:29.633Z"
+    },
+    {
+      "id": 3907,
+      "source": "Tom's Hardware",
+      "title_en": "Alienware's new OLED monitor disrupts the market at just $350, features a 27-inch 240 Hz panel — The 'AW2726DM' is limited to 200 nits, but comes with a 3-year warranty",
+      "description_en": "Entry-level OLED monitors used to cost $500 last year, but you could find them for a bit less on sale. Now, Alienware has just launched the AW2726DM for $350. That's the MSRP, not a discounted price. For that money, you get a 27-inch gaming monitor featuring a 1440p 240 Hz QD-OLED panel with FreeSync Premium.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/monitors/gaming-monitors/alienwares-new-oled-monitor-disrupts-the-market-at-just-usd350-features-a-27-inch-240-hz-panel-the-aw2726dm-is-limited-to-200-nits-but-comes-with-a-3-year-warranty",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/AiuG7esLWJMk7i2s4JmLVi-1280-80.png",
+      "pub_date": "Wed, 15 Apr 2026 10:00:00 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "Gaming Monitors",
+        "Monitors"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T10:18:35.157Z",
+      "created_at": "2026-04-15T10:18:35.157Z"
+    },
+    {
+      "id": 3908,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia releases open AI models for quantum computing tasks — 'Ising' said to be 2.5x faster and 3x more accurate than existing tools for decoding",
+      "description_en": "Nvidia has announced Ising, a family of open-source AI models for quantum processor calibration and real-time error correction decoding that claims to offer substantial speedups over existing methods.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-releases-ising-open-ai-models",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/LBkxqZq4FeSKiSLbZNTCED-1280-80.png",
+      "pub_date": "Wed, 15 Apr 2026 09:00:00 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T10:18:35.157Z",
+      "created_at": "2026-04-15T10:18:35.157Z"
     }
   ]
 }
