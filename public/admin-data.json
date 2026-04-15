@@ -1,9 +1,9 @@
 {
-  "total": 3902,
+  "total": 3908,
   "translated": 3861,
-  "untranslated": 41,
-  "today": 47,
-  "week": 2190,
+  "untranslated": 47,
+  "today": 53,
+  "week": 2196,
   "sources": [
     {
       "name": "Pypi.org",
@@ -25,9 +25,9 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 164,
+      "total": 166,
       "translated": 164,
-      "lastDate": "Wed, 08 Apr 2026 19:45:25 +0000"
+      "lastDate": "Wed, 15 Apr 2026 10:00:00 +0000"
     },
     {
       "name": "Futurism",
@@ -67,7 +67,7 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 89,
+      "total": 90,
       "translated": 89,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
@@ -90,16 +90,16 @@
       "lastDate": "2026-04-09T07:00:00Z"
     },
     {
+      "name": "The Decoder",
+      "total": 73,
+      "translated": 71,
+      "lastDate": "Wed, 15 Apr 2026 10:10:44 +0000"
+    },
+    {
       "name": "TechCrunch AI",
       "total": 72,
       "translated": 72,
       "lastDate": "Wed, 15 Apr 2026 02:31:04 +0000"
-    },
-    {
-      "name": "The Decoder",
-      "total": 71,
-      "translated": 71,
-      "lastDate": "Wed, 08 Apr 2026 18:00:03 +0000"
     },
     {
       "name": "The Guardian AI",
@@ -133,9 +133,9 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 33,
+      "total": 34,
       "translated": 32,
-      "lastDate": "Wed, 15 Apr 2026 06:00:00 +0000"
+      "lastDate": "Wed, 15 Apr 2026 09:00:00 +0000"
     },
     {
       "name": "pymnts.com",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-15T10:14:54.379Z"
+  "generatedAt": "2026-04-15T11:18:16.813Z"
 }
