@@ -77983,7 +77983,7 @@
       "author": "Richard Lawler",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-15T17:52:21.794Z",
       "created_at": "2026-04-15T17:52:21.794Z"
     },
@@ -78006,7 +78006,7 @@
         "Adobe Firefly AI Assistant"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-15T17:52:21.845Z",
       "created_at": "2026-04-15T17:52:21.845Z"
     },
@@ -78026,7 +78026,7 @@
         "Chinese EVs"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-15T17:52:21.845Z",
       "created_at": "2026-04-15T17:52:21.845Z"
     },
@@ -78169,7 +78169,7 @@
         "Voice AI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-15T17:52:26.883Z",
       "created_at": "2026-04-15T17:52:26.883Z"
     },
@@ -78275,7 +78275,7 @@
       "author": "Omar Kardoudi",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-15T17:52:27.694Z",
       "created_at": "2026-04-15T17:52:27.694Z"
     },
@@ -78292,7 +78292,7 @@
       "author": "Lindsay Clark",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-15T17:52:27.808Z",
       "created_at": "2026-04-15T17:52:27.808Z"
     },
@@ -78410,7 +78410,7 @@
         "strategy"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-15T17:52:28.712Z",
       "created_at": "2026-04-15T17:52:28.712Z"
     },
@@ -78461,7 +78461,7 @@
       "author": "Jijo Malayil",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-15T17:52:30.855Z",
       "created_at": "2026-04-15T17:52:30.855Z"
     },
@@ -78514,7 +78514,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-15T17:52:31.113Z",
       "created_at": "2026-04-15T17:52:31.113Z"
     },
@@ -78544,7 +78544,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-15T17:52:31.113Z",
       "created_at": "2026-04-15T17:52:31.113Z"
     },
@@ -78615,7 +78615,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-15T17:52:31.369Z",
       "created_at": "2026-04-15T17:52:31.369Z"
     },
@@ -78639,6 +78639,376 @@
       "priority": "batch",
       "fetchedAt": "2026-04-15T17:52:31.369Z",
       "created_at": "2026-04-15T17:52:31.369Z"
+    },
+    {
+      "id": 3996,
+      "source": "TechCrunch AI",
+      "title_en": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+      "description_en": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+      "image_url": null,
+      "pub_date": "Wed, 15 Apr 2026 18:55:12 +0000",
+      "author": "Marina Temkin",
+      "categories": [
+        "AI",
+        "Startups",
+        "Exclusive",
+        "marketing-technology",
+        "Hightouch"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T19:13:08.070Z",
+      "created_at": "2026-04-15T19:13:08.070Z"
+    },
+    {
+      "id": 3997,
+      "source": "TechCrunch AI",
+      "title_en": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
+      "description_en": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+      "image_url": null,
+      "pub_date": "Wed, 15 Apr 2026 18:51:54 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "AI",
+        "hiring",
+        "Jobs",
+        "LinkedIn"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T19:13:08.070Z",
+      "created_at": "2026-04-15T19:13:08.070Z"
+    },
+    {
+      "id": 3998,
+      "source": "TechCrunch AI",
+      "title_en": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+      "description_en": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+      "image_url": null,
+      "pub_date": "Wed, 15 Apr 2026 18:38:10 +0000",
+      "author": "Lauren Forristal",
+      "categories": [
+        "AI",
+        "Apps",
+        "Fundraising",
+        "Startups",
+        "EdTech",
+        "Education",
+        "funding round",
+        "Gizmo",
+        "learning",
+        "Shine Capital"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T19:13:08.070Z",
+      "created_at": "2026-04-15T19:13:08.070Z"
+    },
+    {
+      "id": 3999,
+      "source": "TechCrunch AI",
+      "title_en": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
+      "description_en": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
+      "image_url": null,
+      "pub_date": "Wed, 15 Apr 2026 18:33:20 +0000",
+      "author": "Rebecca Bellan",
+      "categories": [
+        "AI",
+        "Aron D'Souza",
+        "Exclusive",
+        "objection ai",
+        "Peter Thiel"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T19:13:08.070Z",
+      "created_at": "2026-04-15T19:13:08.070Z"
+    },
+    {
+      "id": 4000,
+      "source": "TechCrunch AI",
+      "title_en": "Google rolls out a native Gemini app for Mac",
+      "description_en": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
+      "image_url": null,
+      "pub_date": "Wed, 15 Apr 2026 18:22:13 +0000",
+      "author": "Aisha Malik",
+      "categories": [
+        "AI",
+        "Apps",
+        "gemini",
+        "Google",
+        "In Brief",
+        "mac"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T19:13:08.071Z",
+      "created_at": "2026-04-15T19:13:08.071Z"
+    },
+    {
+      "id": 4001,
+      "source": "TechCrunch AI",
+      "title_en": "The musician-turned-biotech-founder waiting to fundraise",
+      "description_en": "When Grammy-nominated singer-songwriter Aloe Blacc got COVID despite being vaccinated and boosted, he tried to fund research for a better solution. What he quickly found out? You can’t just write a check in biotech. Regulators require a commercialization plan, and philanthropy doesn’t move science through clinical trials or get you a license on university IP. Now, he’s bootstrapping a cancer drug platform targeting pancreatic cancer, a disease that […]",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/podcast/the-musician-turned-biotech-founder-waiting-to-fundraise/",
+      "image_url": null,
+      "pub_date": "Wed, 15 Apr 2026 17:58:28 +0000",
+      "author": "Rebecca Bellan, Theresa Loconsolo",
+      "categories": [
+        "AI",
+        "Biotech & Health",
+        "Media & Entertainment",
+        "Startups",
+        "ai music",
+        "Aloe Blacc",
+        "biotech",
+        "cancer research",
+        "drug discovery",
+        "music industry",
+        "pancreatic cancer"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T19:13:08.071Z",
+      "created_at": "2026-04-15T19:13:08.071Z"
+    },
+    {
+      "id": 4002,
+      "source": "The Verge AI",
+      "title_en": "Google launches a Gemini AI app on Mac",
+      "description_en": "Google is launching a new Gemini app on Mac that allows you to interact with the AI assistant without switching windows on your desktop. With the app, you can use the Option + Space shortcut to pull up a floating chat bubble, where you can ask Gemini questions and share your window.\nBefore sharing your window, you'll need to give Gemini permission to access your system's information before sharing your window. From there, the AI assistant will pull information from what you're looking at to help",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
+      "image_url": null,
+      "pub_date": "2026-04-15T18:10:15.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T19:13:08.111Z",
+      "created_at": "2026-04-15T19:13:08.111Z"
+    },
+    {
+      "id": 4003,
+      "source": "Ars Technica",
+      "title_en": "Space Force looks at moving \"significant number\" of launches from ULA to SpaceX",
+      "description_en": "\"If the spacecraft is ready to go, that's going to give it a priority.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/space/2026/04/space-force-looks-at-moving-significant-number-of-launches-from-ula-to-spacex/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55092272338_83965929d0_o-1152x648-1776275319.jpg",
+      "pub_date": "Wed, 15 Apr 2026 18:33:53 +0000",
+      "author": "\n                    Stephen Clark\n                ",
+      "categories": [
+        "Science",
+        "Space",
+        "launch",
+        "military space",
+        "united launch alliance",
+        "vulcan"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T19:13:08.225Z",
+      "created_at": "2026-04-15T19:13:08.225Z"
+    },
+    {
+      "id": 4004,
+      "source": "Ars Technica",
+      "title_en": "FCC exempts Netgear from ban on foreign routers, doesn't explain why",
+      "description_en": "Trump FCC starts handing out exemptions to its ban on foreign-made routers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/04/fcc-exempts-netgear-from-ban-on-foreign-routers-doesnt-explain-why/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/netgear-routers-1152x648-1776273446.jpg",
+      "pub_date": "Wed, 15 Apr 2026 17:58:07 +0000",
+      "author": "\n                    Jon Brodkin\n                ",
+      "categories": [
+        "Policy",
+        "FCC",
+        "Netgear",
+        "routers"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T19:13:08.226Z",
+      "created_at": "2026-04-15T19:13:08.226Z"
+    },
+    {
+      "id": 4005,
+      "source": "New Atlas",
+      "title_en": "A giant cat has made itself at home inside Hong Kong’s airport",
+      "description_en": "Passengers landing at Hong Kong International Airport this month will be greeted by a surprise friend waiting for them in the arrivals hall – a giant fluffy orange cat sleeping right in the middle of the bustling space.\nContinue Reading\nCategory: Holiday Destinations, Outdoors\nTags: Hong Kong, Cats, Airports, Art, Animals, artificial animal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/holiday-destinations/hong-kong-cat-airport/",
+      "image_url": null,
+      "pub_date": "Wed, 15 Apr 2026 19:00:00 GMT",
+      "author": "Bronwyn Thompson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T19:13:13.925Z",
+      "created_at": "2026-04-15T19:13:13.925Z"
+    },
+    {
+      "id": 4006,
+      "source": "Futurism",
+      "title_en": "AI Is Turning Workplaces Into Hopeless Gridlock",
+      "description_en": "Looks like AI is not the magical tool that CEOs make it out to be.\nThe post AI Is Turning Workplaces Into Hopeless Gridlock appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/ai-workslop-gridlock",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/ai-workslop-gridlock.jpg?quality=85",
+      "pub_date": "Wed, 15 Apr 2026 15:10:02 -0400",
+      "author": "Sharon Adarlo",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        },
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T19:13:18.834Z",
+      "created_at": "2026-04-15T19:13:18.834Z"
+    },
+    {
+      "id": 4007,
+      "source": "Futurism",
+      "title_en": "Companies Just Learned a Brutal Lesson About Training AI to Do Human Jobs",
+      "description_en": "The seedy underbelly of the AI industry is really starting to show.\nThe post Companies Just Learned a Brutal Lesson About Training AI to Do Human Jobs appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/mercor-training-ai-human-jobs-hack",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/mercor-training-ai-human-jobs.jpg?quality=85",
+      "pub_date": "Wed, 15 Apr 2026 14:05:03 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Cybersecurity",
+          "$": {
+            "domain": "https://futurism.com/category/cybersecurity"
+          }
+        },
+        {
+          "_": "Data Privacy",
+          "$": {
+            "domain": "https://futurism.com/category/data-privacy"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        },
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        },
+        {
+          "_": "Hacking",
+          "$": {
+            "domain": "https://futurism.com/category/hacking"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T19:13:18.834Z",
+      "created_at": "2026-04-15T19:13:18.834Z"
+    },
+    {
+      "id": 4008,
+      "source": "CNBC Tech",
+      "title_en": "Amazon sellers boycott ads in policy change revolt: 'We're running out of f---ing margin'",
+      "description_en": "Hundreds of large Amazon sellers are boycotting its advertising platform on Wednesday to protest the policy changes.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/15/amazon-sellers-boycott-ads-payment-changes.html",
+      "image_url": null,
+      "pub_date": "Wed, 15 Apr 2026 19:03:40 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T19:13:18.938Z",
+      "created_at": "2026-04-15T19:13:18.938Z"
+    },
+    {
+      "id": 4009,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia's long-awaited stock breakout is proof that patience pays off",
+      "description_en": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/15/nvidias-long-awaited-stock-breakout-is-proof-that-patience-pays-off.html",
+      "image_url": null,
+      "pub_date": "Wed, 15 Apr 2026 19:01:12 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T19:13:18.938Z",
+      "created_at": "2026-04-15T19:13:18.938Z"
+    },
+    {
+      "id": 4010,
+      "source": "CNBC Tech",
+      "title_en": "Lumen Technology's high-stakes fiber bet nearly bankrupted it. Now, it's powering its AI future",
+      "description_en": "AI's voracious demand for computing power is putting Lumen Technologies in a sweet spot. The one-time penny stock could soar as data use surges.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/15/from-near-bankruptcy-to-ai-tailwinds-lumens-high-stakes-fiber-bet-could-pay-off.html",
+      "image_url": null,
+      "pub_date": "Wed, 15 Apr 2026 19:07:29 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-15T19:13:18.939Z",
+      "created_at": "2026-04-15T19:13:18.939Z"
     }
   ]
 }
