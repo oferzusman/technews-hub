@@ -1,9 +1,9 @@
 {
-  "total": 4024,
-  "translated": 4024,
+  "total": 4029,
+  "translated": 4029,
   "untranslated": 0,
-  "today": 169,
-  "week": 2312,
+  "today": 174,
+  "week": 2317,
   "sources": [
     {
       "name": "Pypi.org",
@@ -37,9 +37,9 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 134,
-      "translated": 134,
-      "lastDate": "Wed, 15 Apr 2026 17:33:26 +0000"
+      "total": 136,
+      "translated": 136,
+      "lastDate": "Wed, 15 Apr 2026 20:17:00 +0000"
     },
     {
       "name": "New Atlas",
@@ -55,9 +55,9 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 104,
-      "translated": 104,
-      "lastDate": "Wed, 15 Apr 2026 19:07:29 GMT"
+      "total": 105,
+      "translated": 105,
+      "lastDate": "Wed, 15 Apr 2026 22:29:35 GMT"
     },
     {
       "name": "Onefootball.com",
@@ -67,9 +67,9 @@
     },
     {
       "name": "The Register",
-      "total": 93,
-      "translated": 93,
-      "lastDate": "2026-04-15T20:25:58.000Z"
+      "total": 95,
+      "translated": 95,
+      "lastDate": "2026-04-15T21:33:35.000Z"
     },
     {
       "name": "Hugging Face Blog",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-15T23:02:37.007Z"
+  "generatedAt": "2026-04-15T23:59:06.963Z"
 }
