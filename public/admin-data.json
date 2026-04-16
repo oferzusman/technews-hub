@@ -1,7 +1,7 @@
 {
   "total": 4210,
-  "translated": 4101,
-  "untranslated": 109,
+  "translated": 4151,
+  "untranslated": 59,
   "today": 181,
   "week": 1270,
   "sources": [
@@ -26,37 +26,37 @@
     {
       "name": "Tom's Hardware",
       "total": 201,
-      "translated": 181,
+      "translated": 185,
       "lastDate": "Wed, 15 Apr 2026 16:27:58 +0000"
     },
     {
       "name": "Futurism",
       "total": 179,
-      "translated": 171,
+      "translated": 175,
       "lastDate": "Wed, 15 Apr 2026 16:15:26 -0400"
     },
     {
       "name": "Interesting Engineering",
       "total": 156,
-      "translated": 146,
+      "translated": 149,
       "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
     {
       "name": "Ars Technica",
       "total": 132,
-      "translated": 122,
+      "translated": 130,
       "lastDate": "Wed, 15 Apr 2026 22:25:30 +0000"
     },
     {
       "name": "New Atlas",
       "total": 129,
-      "translated": 125,
+      "translated": 127,
       "lastDate": "Wed, 15 Apr 2026 23:03:00 GMT"
     },
     {
       "name": "CNBC Tech",
       "total": 116,
-      "translated": 109,
+      "translated": 114,
       "lastDate": "Wed, 15 Apr 2026 23:58:12 GMT"
     },
     {
@@ -68,13 +68,13 @@
     {
       "name": "The Register",
       "total": 100,
-      "translated": 95,
+      "translated": 98,
       "lastDate": "2026-04-16T20:25:43.000Z"
     },
     {
       "name": "TechCrunch AI",
       "total": 98,
-      "translated": 86,
+      "translated": 93,
       "lastDate": "Wed, 15 Apr 2026 19:28:36 +0000"
     },
     {
@@ -86,7 +86,7 @@
     {
       "name": "The Decoder",
       "total": 89,
-      "translated": 80,
+      "translated": 85,
       "lastDate": "Wed, 15 Apr 2026 18:39:44 +0000"
     },
     {
@@ -104,13 +104,13 @@
     {
       "name": "The Guardian AI",
       "total": 71,
-      "translated": 67,
+      "translated": 70,
       "lastDate": "Wed, 15 Apr 2026 21:00:47 GMT"
     },
     {
       "name": "The Verge AI",
       "total": 55,
-      "translated": 48,
+      "translated": 52,
       "lastDate": "2026-04-16T17:00:00.000Z"
     },
     {
@@ -158,7 +158,7 @@
     {
       "name": "Google AI Blog",
       "total": 25,
-      "translated": 23,
+      "translated": 25,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-16T21:58:54.013Z"
+  "generatedAt": "2026-04-16T22:51:55.206Z"
 }

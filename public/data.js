@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Forget scrubbing in the sink – this is a full-on shoe-washer and dryer\n\nWashing shoes by hand is one of those chores that feels almost punishing: it takes time, effort, patience, and it’s not even that efficient. Tossing shoes into a regular washing machine is always a gamble. They will definitely come out clean, but there is also a good chance they will be damaged. Specialized footwear washers already exist on the market, but most of them only handle the washing part, leaving you to wait hours for your shoes to dry. Casaboom's Midishi M1 aims to solve all of these ",
+    "t": "שכחו מהדלק בכיור – זו כביסה וייבוש נעליים בהיקף מלא\n\nסוף סוף יש פתרון לעינוי כביסת הנעליים ביד! החברה Casaboom הציגה את Midishi M1, מכונה חכמה שלא רק שוטפת את הנעליים שלכם בצורה בטוחה וייעילה (בניגוד לכביסה רגילה שיכולה להרוס אותן), אלא גם מייבשת אותן עד הסוף. אתם יכולים להכניס נעליים גם מעור וגם בד, ולהוציא מהן משהו שנראה כמו חדש.",
     "d": "Thu, 16 Apr 2026 21:00:00 GMT",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught\n\nThe new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
+    "t": "Physical Intelligence, סטארטап רובוטיקה חם, טוענת שהמוח הרובוטי החדש שלה יכול להתמודד עם משימות שמעולם לא למדו אותו\n\nחברת Physical Intelligence חשפה את π0.7, מודל AI שיכול לבצע משימות רובוטיות שלא הוכנו לה בעבר - וזה לא קטן. המהלך הזה נחשב לצעד משמעותי בדרך לרובוט חכם באמת שיוכל להסתדר בכמעט כל תפקיד, בלי שצריך ללמד אותו כל פעם מחדש. המטרה הגדולה? לבנות brain דו-תכליתי שיעבוד כמו זה של בני אדם. מקור: TechCrunch AI",
     "d": "Thu, 16 Apr 2026 20:26:44 +0000",
     "v": 0,
     "l": [
@@ -39,8 +39,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -48,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Anthropic squeezes enterprises by ejecting bundled tokens from seat deal\n\nLarge organizations pushed toward metered pricing More bad news for Claude users. Anthropic has revised its seat-based pricing for enterprise customers, shifting them to a new pricing plan upon contract renewal.…",
+    "t": "אנתרופיק מוכנסת לפינה: טוקנים מחולקים מעפים מהעסקות הארגוניות\n\nזה לא נראה כמו יום טוב למי שמשתמש ב-Claude. אנתרופיק החליטה להחליף את מודל התמחור שלה לחברות גדולות, ובמקום להנות מחבילת טוקנים כחלק מהעסקה, הארגונים נדחפים לעבר תמחור מדוד שישלמו בכל טוקן בנפרד - משהו שכנראה יהיה יקר יותר כשמדובר בשימוש בקנה מידה גדול. זה הסימן הנוסף של הטרנד שבו חברות AI מחזקות את מודלי ההכנסה שלהם על חساב הלקוחות.",
     "d": "2026-04-16T20:25:43.000Z",
     "v": 0,
     "l": [
@@ -74,7 +73,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Quantum stocks on pace for a massive week after Nvidia debuts AI models to boost the tech\n\nHyperscalers Alphabet, Amazon and Microsoft have been investing heavily in chips to power quantum computing",
+    "t": "מניות קוונטום צופות לשבוע ענק אחרי שנויידיה חשפה מודלי AI לחיזוק הטכנולוגיה\n\nגוגל, אמזון ומיקروסופט משקיעות מיליארדים בצ'יפים שיעצימו את מחשוב קוונטום, והחדשות של נויידיה פתחו חלון הזדמנויות בענף שזה הרבה זמן מחכה לפריצה גדולה. נראה שהשוק חושב שעכשיו זה הרגע - מניות הקוונטום יוצאות הפסקות ועולות על גלים של הייפ טכנולוגי.",
     "d": "Thu, 16 Apr 2026 20:15:50 GMT",
     "v": 0,
     "l": [
@@ -87,15 +86,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft",
-      "Nvidia",
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "hardware"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -103,7 +96,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Allbirds Stock Now Crashing as Reality Sets in About Its Delusional AI Pivot\n\n\"The vast majority of times, these things end in tears.\"\nThe post Allbirds Stock Now Crashing as Reality Sets in About Its Delusional AI Pivot appeared first on Futurism.",
+    "t": "מניית Allbirds מתרסקת: השקעת ה-AI הדיאלוגית של היצרנית הנעליים תוקעת למציאות\n\nיצרנית הנעליים הטבעוניות Allbirds משלמת מחיר כבד על הניסיון לקפוץ על גל ה-AI - מניתה צוללת במהירות ועם כל הסימנים המעידים על כך שעוד נעילה כושלת ב-AI pivot מתווספת לרשימה הממילה של הפרויקטים שהסתיימו בדמעות. למי שמעקב בחזקה - הרבה מאוד מהערכים החדשים האלו בעולם ה-AI מסתיימים בכיבוי אורות.",
     "d": "Thu, 16 Apr 2026 16:00:54 -0400",
     "v": 0,
     "l": [
@@ -126,7 +119,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Google will let users connect their photos to the Gemini chatbot and Nano Banana\n\nLinking Gemini directly to a user's photo library represents a bigger step in the AI chatbot link to private information.",
+    "t": "גוגל תאפשר למשתמשים לחבר את התמונות שלהם ל-Gemini ו-Nano Banana\n\nגוגל הולכת צעד גדול קדימה בהשתלבות הצ'טבוט Gemini עם המידע הפרטי שלנו - הפעם זה התמונות שלנו. העדכון החדש יאפשר לחבר ישירות את ספריית התמונות האישית שלכם ל-Gemini, מה שפותח אפשרויות חדשות לניתוח ותגובה חכמה על התמונות שלכם.",
     "d": "Thu, 16 Apr 2026 19:53:52 GMT",
     "v": 0,
     "l": [
@@ -153,7 +146,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "‘World’s first’: AGIBOT G2 humanoid robots run tablet testing on live factory line\n\nAGIBOT has deployed its G2 humanoid robots into a live consumer electronics manufacturing line in...",
+    "t": "'הראשון בעולם': רובוטים הומנואידים AGIBOT G2 מבצעים בדיקות טאבלט בקו ייצור חי\n\nAGIBOT הפכה את הדברים למציאות - הרובוטים ההומנואידים G2 שלה כבר עובדים בקו ייצור אמיתי של אלקטרוניקה צרכנית ובודקים טאבלטים כמו עובדים אנושיים. זה לא עוד פיילוט בלבד - המכונות כבר בשטח, מבצעות משימות מורכבות שדרשו עד היום כוח אדם. חדש זה מראה שהרובוטיקה הדיוקנואידית לא עוד עניין של עתיד רחוק, אלא משהו שקורה כאן ועכשיו בקו הייצור.",
     "d": "Thu, 16 Apr 2026 19:36:46 +0000",
     "v": 0,
     "l": [
@@ -168,8 +161,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.youtube.com/embed/h6rCRa8qUFw",
@@ -177,7 +169,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "Google in talks with Pentagon to deploy Gemini AI after Claude limits dispute\n\nAlphabet’s Google is moving back into the U.S. defense AI spotlight, as the Pentagon reassesses...",
+    "t": "גוגל משוחחת עם הפנטגון לפריסת Gemini AI אחרי סכסוך על הגבלות Claude\n\nגוגל חוזרת לעדשת הביטחון האמריקאי לאחר שה-Pentagon החל להעריך מחדש את אפשרויות ה-AI שלו. נראה שהחברה מנסה להיכנס לשוק ההגנה עם Gemini שלה, במיוחד אחרי שAnthropics Claude נתקלה בבעיות עם דרישות צבאיות מסוימות. זה סימן נוסף למלחמת ה-AI בגיבורים הטכנולוגיים על השפעה בתחום ההגנה האמריקאי.",
     "d": "Thu, 16 Apr 2026 19:27:25 +0000",
     "v": 0,
     "l": [
@@ -204,7 +196,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop\n\nOpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
+    "t": "OpenAI משגרת התקפה על Anthropic עם Codex חדש וחזק שמעניק שליטה גדולה יותר על המחשב שלך\n\nכלי הקוד של OpenAI עבר תחזוקה עמוקה עם עוצמה חדשה שמאיימת ישירות על Anthropic. זה לא סתם עדכון - זה שינוי משחק שנותן ל-AI של OpenAI יכולות שדורשות פחות התערבות אנושית ויותר עצמאות בביצוע משימות תכנותיות. מעכשיו ה-agent הזה מסוגל לעשות הרבה יותר בדעת שלו, מה שמשנה את כללי המשחק בתחום ה-AI tools למפתחים.",
     "d": "Thu, 16 Apr 2026 19:18:41 +0000",
     "v": 0,
     "l": [
@@ -232,7 +224,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "GoPro's new 8K Mission 1 camera is more than just an actioncam\n\nGoPro just stunned all of us by announcing an entirely new line of action cameras. That’s right – the Mission 1 is a new range of GoPros that will not replace the Hero lineup. Instead, it’s a new, parallel lineup that is aimed at pro creators who want to do more than just capture action in a jiffy.\nContinue Reading\nCategory: Consumer Tech, Technology\nTags: GoPro, DJI Innovations, Insta360, Actioncam, Mirrorless Cameras, Micro Four Thirds, Cameras, Video Cameras",
+    "t": "מצלמת GoPro Mission 1 החדשה בכושר 8K - זו הרבה יותר מסתם מצלמת אקשן\n\nGoPro הפתיעה את כולנו עם קו מצלמות חדש לגמרי - Mission 1, שלא יבוא להחליף את ה-Hero המוכר. במקום זה, זה שורה חדשה בקבוצה משלה שמכוונת ליוצרים מקצועיים שרוצים הרבה יותר מסתם לתפוס אקשן מהיר וקל. הודעת הקטגוריה הזו מצביעה על שינוי משמעותי בהיצע של GoPro לשוק המקצוע.",
     "d": "Thu, 16 Apr 2026 19:18:21 GMT",
     "v": 0,
     "l": [
@@ -255,7 +247,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "NAACP Sues Elon Over His Noxious AI Data Center\n\n\"All too often, big corporations like xAI treat our communities and families like obstacles to be pushed aside.\"\nThe post NAACP Sues Elon Over His Noxious AI Data Center appeared first on Futurism.",
+    "t": "ארגון NAACP תובע את אילון מאסק על מרכז ה-AI המזהם שלו\n\nארגון NAACP הגיש תביעה נגד חברת xAI של אילון מאסק, בטענה שמרכז נתונים ענק של בינה מלאכותית גורם נזק סביבתי לקהילות מקומיות. הארגון טוען שחברות גדולות כמו xAI מתייחסות לקהילות ומשפחות כאל מכשול שצריך להדוף בשביל הרווח שלהן. זו עוד הוכחה לסכסוכים הגדלים בין תעשיית ה-AI למשמעויות החברתיות והסביבתיות של התפשטות שלה.",
     "d": "Thu, 16 Apr 2026 15:14:46 -0400",
     "v": 0,
     "l": [
@@ -278,7 +270,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Here's our monthly update on all 31 portfolio stocks, including 3 on the buy list\n\nJim Cramer gave his latest thinking on all 31 stocks owned by the CNBC Investing Club, including Nvidia, Apple, and Microsoft.",
+    "t": "העדכון החודשי שלנו: 31 מניות בתיק ההשקעות, כולל 3 שחרות לקנייה\n\nג'ים קריימר שוב מעדכן אותנו על כל 31 המניות בתיק ה-CNBC Investing Club, כולל הגדולים - Nvidia, Apple ו-Microsoft. במסגרת העדכון החודשי, המטבח כותב בחדות על איפה הוא רואה הזדמנויות קנייה ומה המצב עם התיקייה הנוכחית שלו.",
     "d": "Thu, 16 Apr 2026 19:14:37 GMT",
     "v": 0,
     "l": [
@@ -307,7 +299,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "Ad firms settle with Trump FTC over claims they boycotted conservative media\n\nFTC aims to stamp out brand-safety standards that hurt Breitbart and Musk's X.",
+    "t": "חברות פרסום מתפשרות עם ה-FTC של טראמפ על אישומים בחרם על מדיה שמרנית\n\nה-FTC מנסה להשמיד סטנדרטים של \"brand safety\" שפגעו בברייטבארט וב-X של מאסק. בתיקו, חברות פרסום הסכימו להפסיק את מדיניות הגדרת המשתמשים שלהן שביססה על דירוגי תוכן, דבר שהשפיע באופן שלילי על אתרים שמרניים בתור זה. החלטה זו משקפת את הלחץ הפוליטי החדש על עולם ה-advertising כדי לא לאפיל על פלטפורמות ספציפיות על בסיס אידיאולוגיה.",
     "d": "Thu, 16 Apr 2026 19:08:38 +0000",
     "v": 0,
     "l": [
@@ -330,7 +322,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Loud, power hungry - opposition grows to datacenters as Maine passes bit barn ban\n\nIf there's one thing folks want less than Copilot in their taskbar, it's a bit barn in their backyard Loud, thirsty, power hungry, and intensely unpopular with neighboring residents: datacenters are becoming the new nuclear waste dump. And many localities are now saying \"not in my backyard.\"…",
+    "t": "רועם, רעב לחשמל - התנגדות גוברת למרכזי נתונים כשמיין מעבירה איסור\n\nמיין רק עברה חוק שאוסר על מרכזי נתונים חדשים, וזה רק התחלה. תושבים בכל הארץ מתחילים לומר 'לא בחצרי' - מרכזים אלה הם רועשים, זקוקים לכמויות עצומות של חשמל, ופשוט משגעים את השכנים. בעצם, כל כך זה הפך לבעיה שדוברים מעדיפים עכשיו מרכזי נתונים על מחסנים גרעיניים! The Register",
     "d": "2026-04-16T18:48:25.000Z",
     "v": 0,
     "l": [
@@ -343,13 +335,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -357,7 +345,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "New Codex features include the ability to use your computer in the background\n\nAn in-app browser allows visual feedback while building websites and more.",
+    "t": "Codex חדש יכול לעבוד בעומק - גם כשאתם עוסקים בדברים אחרים\n\nעכשיו אפשר לתת ל-Codex להריץ פקודות בחזקת ובדקדקן עוד יותר - עם דפדפן מובנה שנותן לכם feedback בזמן אמת בזמן שאתם בונים אתרים. זה בעצם משנה את המשחק עבור מפתחים שרוצים לעבוד עם AI בצורה חכמה יותר.\nמקור: Ars Technica",
     "d": "Thu, 16 Apr 2026 18:30:44 +0000",
     "v": 0,
     "l": [
@@ -380,7 +368,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "Anthropic CPO leaves Figma’s board after reports he will offer a competing product\n\nKrieger's departure and any forthcoming design tools will be another data point for investors who fear the SaaSpocalypse — that the largest AI labs will come to dominate software businesses, a thesis that has rocked public markets at times this year.",
+    "t": "מנהל המוצר של Anthropic עזב את דירוג Figma לאחר דיווחים על מוצר תחרותי\n\nהיציאה של Krieger וכלים עיצוביים חדשים שצפויים להגיע הם עוד הוכחה למחשש של משקיעים מה שנקרא 'SaaSpocalypse' - החשש שמעבדות ה-AI הגדולות יהיימנו את שוק תוכנות העסק. הנושא הזה כבר הטלטל את הבורסה כמה פעמים השנה.",
     "d": "Thu, 16 Apr 2026 18:28:42 +0000",
     "v": 0,
     "l": [
@@ -400,13 +388,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 17,
-    "t": "AMD Ryzen 9 9950X3D2 appears on Amazon with $1,000 pre-order price — AMD confirms recommended pricing is still set at $899\n\nAMD's Ryzen 9 9950X3D2 has started appearing at retailers, with Amazon currently offering the CPU at $1,000 — $100 above the suggest retail pricing.",
+    "t": "AMD Ryzen 9 9950X3D2 מופיע באמזון במחיר של 1,000 דולר - AMD מאשרת שהמחיר המומלץ הוא 899 דולר\n\nה-Ryzen 9 9950X3D2 החדש של AMD כבר הגיע לחנויות אונליין, אבל אמזון מוכרת אותו ב-1,000 דולר - 100 דולר יותר מהמחיר הרשמי שהחברה קבעה. בקיצור, זה כמו כל שיגור חדש של CPU - המחיר במציאות גבוה מהמחיר המומלץ, אבל התהליך הוא עדיין מוכר ודומה לקנייה של כל פרוצסור פופולרי בימים הראשונים שלו.",
     "d": "Thu, 16 Apr 2026 18:24:24 +0000",
     "v": 0,
     "l": [
@@ -419,12 +407,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/ig33KupddRioiajuhCAxGa-1280-80.png",
@@ -432,7 +417,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "TSMC and ASML post-earnings stock moves could be a sign of what's to come from chip companies\n\nTwo of the biggest chipmakers, TSMC and ASML, failed to catch major tail winds from strong earnings. It could be a bellwether for the chip industry as a whole.",
+    "t": "תנועות המניות של TSMC ו-ASML אחרי הדוח הרבעוני עלולות להצביע על מה שצפוי בתעשיית הצ'יפים\n\nשתיים מחברות הצ'יפים הגדולות בעולם, TSMC ו-ASML, לא הצליחו להרים את המניה שלהן על רקע דוחות הכנסות חזקים - וזה עלול להיות סימן אזהרה לכל תעשיית הסמיקונדקטורים. אם אפילו הענקיות במגזע לא מרוויחות מ-AI בום הנוכחי כמו שחיכינו, אולי כל השוק פחות משמח מהמראות של המשקיעים. המסקנה? התעייפות משקעית חוזרת - ואפילו המספרים הטובים לא בהכרח מספיקים כדי להעלות את הרוח.",
     "d": "Thu, 16 Apr 2026 18:03:42 GMT",
     "v": 0,
     "l": [
@@ -455,7 +440,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "More Than Half of Men Aged 18 to 49 Have Already Fallen Into Online Sports Betting\n\nIt's turning into a massive problem.\nThe post More Than Half of Men Aged 18 to 49 Have Already Fallen Into Online Sports Betting appeared first on Futurism.",
+    "t": "יותר מחצי מהגברים בגילים 18-49 כבר נפלו לפח של הימורים על ספורט באינטרנט\n\nזה הופך להיות בעיה ענקית - יותר מחצי מהגברים הצעירים כבר נתקלו בהימורים על ספורט באינטרנט, והנתונים מצביעים על התפשטות מהירה של התופעה. המחקרים הנוכחיים מגיעים למסקנה שזה כבר לא רק בעיה שולית אלא תופעה כללית שמשפיעה על מיליונים. המטבח הדיגיטלי של ההימורים הוא כזה שקל למדי ליפול אליו כשהכל זה נמצא בכיס שלך. (מקור: Futurism)",
     "d": "Thu, 16 Apr 2026 14:01:00 -0400",
     "v": 0,
     "l": [
@@ -478,7 +463,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "AMD's market cap hits all-time high, Intel hits 25-year high on Agentic AI's insatiable demand for CPUs\n\nDemand for CPUs by AI systems is creating positive sentiment and drives AMD and Intel stocks to their highs.",
+    "t": "שיא היסטורי ל-AMD ו-Intel: ביקוש הזהב של AI האגנטי למעבדים\n\nהשוק מטיל עיניים על AMD ו-Intel בימים אלה, וזה בגלל שמערכות AI אגנטיות זקוקות לCPU כמו שלא היה מעולם. הביקוש המטורף הזה דוחף את מחירי המניות של שתי החברות לשיאים היסטוריים - AMD משברה רקורד חדש בהון שוק, בעוד Intel חוזרת לשמחות שלא חוותה במשך 25 שנה. סדרה המשמעותית: כשAI רעב למחשוב, כולם מרוויחים.",
     "d": "Thu, 16 Apr 2026 17:59:24 +0000",
     "v": 0,
     "l": [
@@ -493,8 +478,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/b6AWuqaDHTv9ZS4ZpfqZNV-1280-80.png",
@@ -502,7 +486,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "OpenAI turns Codex into an always-on coding agent that watches your screen\n\nOpenAI is massively expanding its developer tool Codex: the AI can now control a Mac on its own, generate images, remember preferences, and keep working on tasks autonomously for weeks. The move takes direct aim at Anthropic's Claude Code.\nThe article OpenAI turns Codex into an always-on coding agent that watches your screen appeared first on The Decoder.",
+    "t": "OpenAI הופכת את Codex לסוכן קוד שמשמר עליך 24/7\n\nOpenAI פשוט העלתה את הstakes - ה-Codex שלהם יכול עכשיו להשתלט על המק שלך באופן אוטונומי, לייצר תמונות, לזכור העדפות ולעבוד על משימות במשך שבועות בלי הפרעה. זו תנובה ישירה נגד Claude Code של Anthropic, וזה נראה שOpenAI מתכננת להוביל את מרוץ ה-AI agents למסקנה.",
     "d": "Thu, 16 Apr 2026 17:56:14 +0000",
     "v": 0,
     "l": [
@@ -522,7 +506,6 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news",
       "model",
-      "robotics",
       "agents"
     ],
     "imp": "low",
@@ -531,7 +514,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "The Ukraine war's deep impact on Metro 2039’s development, story\n\nUpcoming sequel wants to capture a \"uniquely Ukrainian perspective\" on the post-apocalypse.",
+    "t": "מלחמת אוקראינה משפיעה עמוקות על פיתוח ועלילת Metro 2039\n\nהסדרה הקרובה של Metro מנסה להביע נקודת מבט אוקראינית ייחודית על העולם לאחר האפוקליפסה. דיביליפרים בחרו להשתמש בחוויות מהמלחמה הנוכחית כדי ליצור חוויית משחק אותנטית וממשמעותית יותר, במקום להתנתק ממציאות היום יום. זה עשוי להיות המשחק הראשון שמעמיק לתוך ההשפעה הפסיכולוגית והתרבותית של הסכסוך המתמשך על אומה שלמה. (מקור: Ars Technica)",
     "d": "Thu, 16 Apr 2026 17:50:56 +0000",
     "v": 0,
     "l": [
@@ -554,7 +537,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "If you want into Anthropic's Claude club, you may have to show ID\n\nWorse: Anthropic is using Persona, a privacy checker that rings alarm bells for the paranoids on Reddit Anthropic may check your ID before letting you access certain Claude features, and the verification vendor it has picked is the same outfit that sparked controversy when Discord tested similar checks.…",
+    "t": "אם אתם רוצים לגשת ל-Claude של Anthropic, אולי תצטרכו להראות תעודת זהות\n\nAnthropic מתכננת לבדוק את זהותכם לפני שתוכלו להשתמש בתכונות מסוימות של Claude, והחברה בחרה בשירות וידוא שכבר עורר מחלוקות כשדיסקורד ניסה משהו דומה. לא מדובר בעניין גרוע, אבל כמובן שזה כבר הדליק את אזעקות פרטיות של המון משתמשים ברדיט שחוששים לנתוניהם. המקור: The Register",
     "d": "2026-04-16T17:49:59.000Z",
     "v": 0,
     "l": [
@@ -580,7 +563,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 24,
-    "t": "New undersea cable cutter risks Internet’s backbone\n\nChina cable-cutter demo coincides with more sabotage of subsea Internet cables.",
+    "t": "כלי חדש לחיתוך כבלים תת-ימיים מסכן את עמוד השדרה של האינטרנט\n\nסין הציגה דמו של חיתוך כבלים בדיוק כשמתחוללות התקפות מתגברות על כבלי האינטרנט התת-ימיים הקריטיים. כל התקפה על הכבלים הללו יכולה להשבית קישוריות בין יבשות שלמות - וזה בדיוק מה שמדאיג את מומחי הסייבר בעולם.",
     "d": "Thu, 16 Apr 2026 17:32:19 +0000",
     "v": 0,
     "l": [
@@ -603,7 +586,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "Microsoft and Stellantis want to use AI to help car owners\n\nDigital services for brands from Jeep to Peugeot will feel the presence of AI.",
+    "t": "מיקרוסופט וסטלנטיס שוות יד בכדי להביא AI לתוך המכוניות שלנו\n\nהיצרנית הענקית סטלנטיס התחברה למיקרוסופט כדי להטביע שירותים דיגיטליים מופעלי-AI בכל המותגים שלה - מג'יפ ועד פיז'ו - והתוצאה תהיה חוויית בעלות כלי רכב חכמה הרבה יותר מה שהיא היום. המטרה היא לתת לנהגים עוזר AI שיוכל לעזור בכל מיני דברים, מתשאול בעיות במכונית ועד ניהול של סיבובים בתחזוקה.",
     "d": "Thu, 16 Apr 2026 17:29:12 +0000",
     "v": 0,
     "l": [
@@ -616,12 +599,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271011411-1152x648.jpg",
@@ -629,7 +609,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 26,
-    "t": "Quantum photonics roadmap — how Xanadu and PsiQuantum are looking to transfer qubits through beams of light\n\nWe analyze the approaches of PsiQuantum and Xanadu, who are each developing their own approaches to quantum photonic communications, with a vision that extends beyond 2029.",
+    "t": "מפת הדרכים של קוונטום פוטוניקה — איך Xanadu ו-PsiQuantum מעבירים קיוביטים דרך קרני אור\n\nשתי חברות מובילות בעולם הקוונטום מתחרות על הטכנולוגיה של העתיד: העברת מידע קוונטי דרך קרני אור במקום חוטים מסורתיים. Xanadu ו-PsiQuantum כל אחת פיתחה את הגישה שלה לתקשורת קוונטית פוטונית, וכל אחת מסתכלת לעבר השנים 2029 ואתמול עם תכניות שגדולות ממה שאנחנו רואים היום.",
     "d": "Thu, 16 Apr 2026 17:24:03 +0000",
     "v": 0,
     "l": [
@@ -652,7 +632,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 27,
-    "t": "Ben Jennings on the US-Iran war and AI slop – cartoon\n\nContinue reading...",
+    "t": "בן ג'נינגס על מלחמת ארה״ב-איראן ו-AI slop – קריקטורה\n\nהקריקטוריסט בן ג'נינגס מתייחס בדרכו הממולחת הישירה למתיחות הגיאופוליטיות בין ארה״ב לאיראן, תוך שהוא גם נוקד את התופעה הגדלה של תוכן AI זבל (slop) שמוצף את הרשת. פרשנות חזותית שמצליחה לשלב בין פוליטיקה כבדה לביקורת על איכות התוכן הדיגיטלי של הימים אלה.",
     "d": "Thu, 16 Apr 2026 17:14:22 GMT",
     "v": 0,
     "l": [
@@ -675,7 +655,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 28,
-    "t": "Top Security Experts Alarmed by Power of Anthropic’s New Hacker AI\n\n\"Within hours of getting the model, we knew it was different.\"\nThe post Top Security Experts Alarmed by Power of Anthropic’s New Hacker AI appeared first on Futurism.",
+    "t": "מומחי אבטחה דואגים מעוצמת ה-AI הפורץ החדש של Anthropic\n\nמומחי אבטחה מהשורה הראשונה התנבהו לבעיה חמורה: מודל ה-AI החדש של Anthropic הוא בעל יכולות פריצה כל כך חזקות שכבר בשעות הראשונות היו ברור שמדובר בדבר משהו שונה מאוד מהרגיל. החרדה זו משקפת חששות עמוקים בתעשייה לגבי יכולות ה-AI המתקדמות ויכולתן לשמש לצרכים זדוניים.",
     "d": "Thu, 16 Apr 2026 13:13:42 -0400",
     "v": 0,
     "l": [
@@ -693,8 +673,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/security-experts-alarmed-anthropic-mythos.jpg?quality=85",
@@ -702,7 +681,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 29,
-    "t": "OpenAI’s big Codex update is a direct shot at Claude Code\n\nCodex can control apps on your desktop like Tic Tac Toe. | Image: OpenAI\t\n\nOpenAI is beefing up its agentic coding and development system, Codex, with a suite of updates that let it use your computer, generate images, and remember from past experiences. The package of updates comes as OpenAI's rivalry with Anthropic intensifies, following the stellar successes of Claude Code and OpenAI aggressively shifting resources to catch up.\nCodex will now be able to operate desktop apps on your computer, O",
+    "t": "העדכון הגדול של OpenAI ל-Codex הוא מכת ישירה נגד Claude Code\n\nOpenAI משדרגת כבר עכשיו את מערכת ה-agentic coding שלה - Codex יכול כעת לתלוט באפליקציות שלך על המחשב, לייצר תמונות ולזכור מחוויות קודמות. התנועה של OpenAI היא תגובה ישירה להצלחות המדהימות של Claude Code של Anthropic, ובמהלך תחרות עיקשת שבה OpenAI זורקת משאבים כדי להישאר בקדמה.",
     "d": "2026-04-16T17:00:00.000Z",
     "v": 0,
     "l": [
@@ -724,13 +703,13 @@ window.TELEGRAM_DATA = [
       "model",
       "agents"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 30,
-    "t": "Google’s AI Mode update lets you open links without leaving the page\n\nGoogle is upgrading AI Mode in Chrome with a new feature that will allow you to open links to sources alongside your chat. Now, instead of automatically opening a new tab, clicking a source will open the website side by side with AI Mode, allowing you to ask follow-up questions about what's on the page.\nLaunched last year, AI Mode is the chatbot-like search feature that lives within a tab on the left side of Google's search engine. Google has added several new features to the tool over the past ",
+    "t": "עדכון AI Mode של גוגל מאפשר פתיחת קישורים בלי להשאיר את הדף\n\nגוגל משדרגת את ה-AI Mode בכרום עם תכונה חדשה שתאפשר לכם לפתוח קישורים למקורות ישירות מתוך הצ'ט. במקום פתיחה אוטומטית של טאב חדש, כל קישור שתלחצו יפתח את האתר בצד ה-AI Mode, כדי שתוכלו לשאול שאלות נוספות על התוכן שנראה בעמוד.",
     "d": "2026-04-16T17:00:00.000Z",
     "v": 0,
     "l": [
@@ -743,12 +722,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -756,7 +732,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 31,
-    "t": "Google now lets you explore the web side-by-side with AI Mode\n\nNow, when you're using AI Mode on Chrome desktop, clicking a link will open the web page side-by-side with AI Mode.",
+    "t": "גוגל משחררת תכונה חדשה: עיון בווב ב-AI Mode בצד אחד של המסך\n\nעכשיו כשאתם משתמשים ב-AI Mode בכרום למחשב, לחיצה על קישור תפתח את העמוד בצד אחד של המסך ואת ה-AI Mode בצד השני - זה בדיוק מה שהיה חסר לנו! הפיצ'ור החדש הזה אמור להפוך את העבודה עם AI לחלק יותר טבעי, כי אתם יכולים לקרוא מחד ולשאול את ה-AI מאידך בו זמנית.",
     "d": "Thu, 16 Apr 2026 17:00:00 +0000",
     "v": 0,
     "l": [
@@ -769,12 +745,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -782,7 +755,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 32,
-    "t": "A new way to explore the web with AI Mode in Chrome\n\nToday’s upgrades for AI Mode in Chrome transform how you interact with the web",
+    "t": "דרך חדשה לגלוש באינטרנט עם AI Mode בכרום\n\nגוגל משדרגת את ה-AI Mode בכרום והופכת את הדרך שלנו לגלוש ולהתקשר עם האתרים. השדרוגים החדשים מאפשרים חוויה חכמה יותר בדפדפן, כאשר ה-AI עוזר לנו לנווט בסטייל.",
     "d": "Thu, 16 Apr 2026 17:00:00 +0000",
     "v": 0,
     "l": [
@@ -805,7 +778,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 33,
-    "t": "Gemini can now create personalized AI images by digging around in Google Photos\n\nGoogle is making it easier to feed your photos into Nano Banana for more personal image generation.",
+    "t": "Gemini יכול עכשיו ליצור תמונות AI מותאמות אישית על ידי חפירה בתוך Google Photos\n\nגוגל הופכת את התהליך להרבה יותר קל - עכשיו Gemini יכול להשתמש בתמונות שלך מ-Google Photos כדי ליצור תמונות AI שמותאמות לך באופן אישי. זה אומר שה-AI שלהם יכול ללמוד מהסגנון שלך ולהגיד משהו עליך קצת יותר טוב. התכונה הזו עושה את כל ה-AI image generation הרבה יותר מעניין ופחות כללי, בדיוק כמו שצריך.\n\nמקור: Ars Technica",
     "d": "Thu, 16 Apr 2026 16:59:25 +0000",
     "v": 0,
     "l": [
@@ -824,8 +797,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news",
       "model",
-      "image-gen",
-      "regulation"
+      "image-gen"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Blog-post-header-1152x648.png",
@@ -833,7 +805,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 34,
-    "t": "OpenAI says more women than men now use ChatGPT, flipping an 80-20 male split at launch\n\nMore women than men now use ChatGPT regularly, according to OpenAI's own data. The company also estimates China's AI spending at up to $125 billion and argues that computing power is becoming the defining competitive advantage in the AI race.\nThe article OpenAI says more women than men now use ChatGPT, flipping an 80-20 male split at launch appeared first on The Decoder.",
+    "t": "OpenAI: יותר נשים מאשר גברים משתמשים ב-ChatGPT כיום - היפוך דרמטי מהתחלה\n\nOpenAI חשפה שלא זה סתם - יותר נשים מאשר גברים משתמשות ב-ChatGPT באופן קבוע, וזה שינוי משמעותי מהתחלת השירות שהיה בעיקר בשליטת גברים (80-20). בנוסף, החברה אומרת שהודו מוציאה עד 125 מיליארד דולר לשנה על AI, וטוענת שכוח חישובי הוא כנראה הדבר הכי חשוב בתחרות ה-AI העולמית. מקור: The Decoder",
     "d": "Thu, 16 Apr 2026 16:47:39 +0000",
     "v": 0,
     "l": [
@@ -851,16 +823,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 35,
-    "t": "Man used AI to make false statements to shut down London nightclub, police say\n\nHeaven club neighbour admits offences under Licensing Act, as Met says fictitious AI-generated complaints a growing issue  \nA businessman has pleaded guilty to making false statements in order to shut down a nightclub, which police believe were generated using AI.\nA Metropolitan police source said the use of AI to generate letters by complainants who do not exist is a growing issue.\n Continue reading...",
+    "t": "גבר השתמש ב-AI ליצירת הודעות שקר כדי לסגור בר בלונדון\n\nעיתונות שלנו חשפה מקרה מעניין: איש עסקים בלונדון התקשר לחוק באמצעות שימוש ב-AI ליצור תלונות מזויפות נגד מועדון הנייטלייף \"Heaven\" שלו. המשטרה אמרה שזו בעיה גדלה ומדאיגה - האנשים בחקירה שימשו AI כדי ליצור מכתבי תלונה מ'תושבים' שלא קיימים בשום מקום. אנחנו רואים פה עוד סיבה טובה להיזהר עם הכוח של AI - בתוך הידיים הלא נכונות, זה יכול להיות משוק מסוכן.",
     "d": "Thu, 16 Apr 2026 16:47:20 GMT",
     "v": 0,
     "l": [
@@ -883,7 +854,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 36,
-    "t": "Meta raising Quest headset prices due to AI-driven RAM shortage — Quest 3 to cost $600, Quest 3S $350 from April 19\n\nMeta's Quest 3 lineup was known for offering an excellent value proposition, giving players a powerful, untethered VR experience without breaking the bank. Unfortunately, the AI boom is at the door, and Meta is now raising the price of the Quest 3 by $100, to $600, while the cheaper Quest 3S is getting hiked by $50.",
+    "t": "Meta מעלה את מחירי משקפי Quest בגלל מחסור ב-RAM שנגרם מ-AI — Quest 3 יעלה ל-600 דולר, Quest 3S ל-350 דולר החל מ-19 באפריל\n\nזה קרה בסוף גם לחברת מטא - משקפי ה-VR של Quest שהיו ידועים בתמחור הוגן ובערך מעולה, קיבלו עלייה משמעותית במחיר. Meta מעלה את ה-Quest 3 ב-100 דולר לחצי אלף, בעוד ש-Quest 3S הזול יותר מקבל הוקעה של 50 דולר, והכל בגלל שהביקוש ל-RAM למשימות AI כבש את השוק ושיתק את היצע הרכיבים.",
     "d": "Thu, 16 Apr 2026 16:45:39 +0000",
     "v": 0,
     "l": [
@@ -901,8 +872,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/9ouEN6SyhzoYYEBjv5uukb-1280-80.jpg",
@@ -910,7 +880,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 37,
-    "t": "RFK Jr. forces FDA to reconsider 12 unproven peptides after 2023 ban\n\nThere doesn't seem to be new safety or efficacy data, but Kennedy touts them anyway.",
+    "t": "RFK Jr. מכריח את ה-FDA לשקול מחדש 12 פפטידים שלא הוכחו אחרי איסור מ-2023\n\nקנדי מחזיק בעמדה שלו על פפטידים אלה למרות שאין נתוני בטיחות או יעילות חדשים שמצדיקים את זה. ה-FDA אסר על החומרים הללו בעבר, אבל עכשיו נראה שהוא נאלץ לחזור ולשקול אותם שוב בלחץ פוליטי.",
     "d": "Thu, 16 Apr 2026 16:45:37 +0000",
     "v": 0,
     "l": [
@@ -925,8 +895,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262712176-1152x648.jpg",
@@ -934,7 +903,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 38,
-    "t": "Nvidia wants to scale robot simulation training with Lyra 2.0\n\nNvidia researchers have unveiled Lyra 2.0, a system that generates large, coherent 3D environments from a single photograph. The resulting scenes can be explored in real time and used directly in robot simulations.\nThe article Nvidia wants to scale robot simulation training with Lyra 2.0 appeared first on The Decoder.",
+    "t": "Nvidia רוצה להגדיל את אימון סימולציות רובוטים עם Lyra 2.0\n\nNvidia חשפה את Lyra 2.0, מערכת שיוצרת סביבות תלת-ממדיות거ציליות מתמונה בודדת - ואפשר להשתמש בהן מיד לאימון רובוטים בסימולציה. בעצם, Nvidia פתחה דרך חדשה לייצור עולמים וירטואליים בקנה מידה ענק לתרגול מכונות, שמוצדקת לתגובה של דקות במקום שעות או ימים שנדרשו עד היום. מדובר בכלי שיכול באמת לשנות את המשחק בתחום ה-robotics ול-AI בכללו.",
     "d": "Thu, 16 Apr 2026 16:33:31 +0000",
     "v": 0,
     "l": [
@@ -961,7 +930,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 39,
-    "t": "India's 1.5 million annual IT graduates face an industry that's moving on without them\n\nA Bloomberg report reveals how agentic AI is shaking up India's massive IT industry. Companies like Infosys are spending weeks retraining new hires because the country's universities aren't keeping up with reality.\nThe article India's 1.5 million annual IT graduates face an industry that's moving on without them appeared first on The Decoder.",
+    "t": "1.5 מיליון בוגרי IT בהודו מוצאים עצמם מאחור - התעשייה כבר עברה הלאה\n\nדוח של בלומברג חושף כיצד AI agents משנה לתמיד את תעשיית ה-IT ההודית - חברות ענקיות כמו Infosys משקיעות שבועות שלמים בהדרכה מחדש של עובדים חדשים כי האוניברסיטאות בהודו פשוט לא עובדות בקצב של המציאות. לכל שנה מוציאה הודו 1.5 מיליון בוגרי IT, אבל כשהם מגיעים למשרה הם מגלים שמה שלמדו כבר לא רלוונטי בעולם של agentic AI.",
     "d": "Thu, 16 Apr 2026 16:26:49 +0000",
     "v": 0,
     "l": [
@@ -979,13 +948,13 @@ window.TELEGRAM_DATA = [
       "news",
       "agents"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 40,
-    "t": "Anthropic rolls out Claude Opus 4.7, an AI model that is less risky than Mythos\n\nClaude Mythos Preview is Anthropic's most powerful AI model that excels at identifying weaknesses and security flaws within software.",
+    "t": "Anthropic משיקה את Claude Opus 4.7 - מודל AI בטוח יותר מ-Mythos\n\nאנתרופיק הביאה לשוק את Claude Mythos Preview, המודל החזק ביותר שלהם שמתמחה בזיהוי חולשות וליקויי אבטחה בקוד. הגרסה החדשה Opus 4.7 מציעה אותה כוח חישובי אבל עם רמת סיכון נמוכה יותר, מה שהופך אותה לאפשרות יותר בטוחה למשתמשים ופיתוחים רגישים.",
     "d": "Thu, 16 Apr 2026 16:25:45 GMT",
     "v": 0,
     "l": [
@@ -999,15 +968,11 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Anthropic",
-      "Amazon"
+      "Anthropic"
     ],
     "tags": [
       "news",
-      "model",
-      "product",
-      "regulation",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -1015,7 +980,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 41,
-    "t": "First look: Also's upcoming e-bike disconnects the pedals and wheels\n\nThe company bets that software can create a distinct—and better—riding experience.",
+    "t": "נחשוף: האופניים החשמליים החדשים של Also מנתקים את ההדוושות והגלגלים\n\nהחברה מהמר שתוכנה יכולה ליצור חוויית רכיבה ייחודית ושיפור משמעותי. Also מתכננת e-bike שבו פעם בא הנדסה מכנית, הפעם זה הכל עניין של אלגוריתמים חכמים והשלוט דיגיטלי - כמו שמחזיקים מרחוק על הרכיבה שלכם. סרחון מאוד עתידני, בואו נראה אם זה באמת עובד בעולם האמיתי.",
     "d": "Thu, 16 Apr 2026 16:23:38 +0000",
     "v": 0,
     "l": [
@@ -1038,7 +1003,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 42,
-    "t": "Google launches native Gemini app for Mac\n\nGoogle has released a native Gemini app for Mac, marking the first desktop version of its AI assistant alongside the existing smartphone apps.\nThe article Google launches native Gemini app for Mac appeared first on The Decoder.",
+    "t": "גוגל השיקה אפליקציית Gemini נייטיבית ל-Mac\n\nגוגל בסוף השיקה גרסה שולחנית ראשונית של עוזר ה-AI שלה, Gemini, במיוחד ל-Mac. עד עכשיו היה אפשר להשתמש ב-Gemini רק בסמארטפונים, אבל עכשיו מי שיושב מול מק יוכל להגיד שלום לחבר ה-AI החדש שלו. זה סוף סוף עדכון ראוי שנותן לעובדים ודקדקים את האפשרות להשתמש בטכנולוגיית ה-AI המתקדמת של גוגל במקום העבודה שלהם. (מקור: The Decoder)",
     "d": "Thu, 16 Apr 2026 16:18:48 +0000",
     "v": 0,
     "l": [
@@ -1058,13 +1023,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 43,
-    "t": "InsightFinder raises $15M to help companies figure out where AI agents go wrong\n\nAccording to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong — it's also diagnosing how the entire tech stack operates now that AI is part of it.",
+    "t": "InsightFinder אספה $15 מיליון כדי לעזור לחברות להבין היכן AI agents נכשלים\n\nInsightFinder קיבלה השקעה ניכרת כדי לפתור את הבעיה הגדולה ביותר בתעשיית ה-AI כיום: לא רק לבדוק איפה המודלים משתבשים, אלא גם להבין איך כל ה-tech stack עובד כשיש בו AI. המייסדת Helen Gu טוענת שזה הוא מפתח לחברות שרוצות להשתמש בـ AI agents בצורה אמינה ויעילה.",
     "d": "Thu, 16 Apr 2026 16:15:00 +0000",
     "v": 0,
     "l": [
@@ -1080,16 +1045,15 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "funding",
       "agents"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 44,
-    "t": "AI traffic to US retailers rose 393% in Q1, and it’s boosting their revenue too\n\nAdobe says AI traffic to U.S. retail sites also jumped 269% in March, with visitors converting better and generating more revenue than non-AI shoppers.",
+    "t": "תנועת AI לאתרי קמעונאות בארה״ב עלתה ב-393% ברבעון הראשון, והיא גם מגבירה את ההכנסות\n\nAdobe חושף שתנועת AI לאתרי הקמעונאות האמריקאיים קפצה ב-269% במרץ, וקונים המגיעים דרך AI מתגברים בהרבה - הם קונים יותר ויוצרים הכנסות משמעותיות יותר מהקונים הרגילים. למעשה, זה כבר לא כאלה הם הבאים, זה ממש מנוצחות השוק החדשה של הקמעונאות.",
     "d": "Thu, 16 Apr 2026 16:14:03 +0000",
     "v": 0,
     "l": [
@@ -1112,7 +1076,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 45,
-    "t": "US tests spin-polarized fuel in 180-million-degree Fahrenheit tokamaks for fusion power\n\nScientists in the US have been testing spin-polarized nuclear fuel inside tokamaks operating at around...",
+    "t": "ארה\"ב בוחנת דלק מקוטב ספין בטוקמקים בטמפרטורה של 180 מיליון מעלות פרנהייט לשם אנרגיית היתוך\n\nמדענים אמריקאים בודקים כעת דלק גרעיני מיוחד עם תכונות spin-polarized בתוך מכשירי tokamak שפועלים בטמפרטורות אבסורדיות כדי להתקדם בכיוון של אנרגיית היתוך מעשית. הניסויים הללו עשויים להיות breakthrough משמעותי בדרך להשגת שליטה על היתוך גרעיני כמקור אנרגיה נקי ובלתי מוגבל. זה עוד צעד בכיוון של חלום הטכנולוגיה הקוונטית - להפוך את הכוכב למכונה אנרגיה שלנו.",
     "d": "Thu, 16 Apr 2026 16:05:01 +0000",
     "v": 0,
     "l": [
@@ -1129,13 +1093,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "low",
+    "imp": "high",
     "thumb": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/Z2_f23ca9.jpg",
     "source": "Interesting Engineering"
   },
   {
     "id": 46,
-    "t": "Gemini can now pull from Google Photos to generate personalized images\n\nAn example image from Google.\t\n\nGoogle's Personal Intelligence feature, which lets Gemini pull data from apps like Google Photos to offer responses tailored to you, can now use that data and its Nano Banana 2 image model to create images based on your personal context.\nWith the feature, you can use prompts like \"Design my dream house\" or \"Create a picture of my desert island essentials\" and the photos Gemini creates will \"automatically reflect your specific tastes and lifestyle, gleaned from the",
+    "t": "Gemini יכול להשתמש בתמונות שלך מ-Google Photos כדי ליצור תמונות מותאמות אישית\n\nגוגל עשתה משהו ממש מגניב - הם חיברו את ה-Personal Intelligence של Gemini עם Google Photos, כך שעכשיו ה-AI יכול ליצור תמונות שמעיסו באמת לאישיותך ולטעמך האישי. תוכלו לבקש מ-Gemini ליצור לכם בית חלומות או תמונה של האי ההדס שלכם, והתמונות שיוצאות יהיו מעוצבות בדיוק על ההנחיות שלכם ונתונים מהתמונות שיש לכם בטלפון. זה כמו להיות עם מעצב אישי שמכיר בדיוק מה אתה אוהב.",
     "d": "2026-04-16T16:00:00.000Z",
     "v": 0,
     "l": [
@@ -1153,8 +1117,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -1162,7 +1125,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 47,
-    "t": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games\n\nThe new tools are designed to help creators throughout the entire development process.",
+    "t": "עוזר ה-AI של Roblox מקבל כלים חדשים לתכנון, בנייה וטיוב משחקים\n\nRoblox משיקה כלים חדשים מבוססי AI שיעזרו ליוצרים בכל שלבי פיתוח המשחק - מהתכנון ההתחלתי ועד לטיוב הגמר. התוכנה החדשה היא בעצם עוזד אלקוש שמבין את שפתכם והיא לא רק מציעה ודעות אלא כמעט מפתחת עבורכם. מקור: TechCrunch AI",
     "d": "Thu, 16 Apr 2026 16:00:00 +0000",
     "v": 0,
     "l": [
@@ -1177,8 +1140,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -1186,7 +1148,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 48,
-    "t": "New ways to create personalized images in the Gemini app\n\nNano Banana 2 now uses your personal context and Google Photos to create images that reflect your unique life.",
+    "t": "דרכים חדשות ליצירת תמונות מותאמות אישית באפליקציית Gemini\n\nNano Banana 2 עכשיו יכולה ללמוד מהקשר אישי שלך ומתמונות בGoogle Photos כדי ליצור תמונות שממש משקפות את החיים היומיומיים שלך - בדיוק כמו שאתה רוצה להראות אותם.",
     "d": "Thu, 16 Apr 2026 16:00:00 +0000",
     "v": 0,
     "l": [
@@ -1213,7 +1175,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 49,
-    "t": "Anthropic releases a new Opus model amid Mythos Preview buzz\n\nAnthropic has released its most powerful \"generally available\" model to date: Claude Opus 4.7. \nThe company called it a step up from Opus 4.6 for advanced software engineering tasks, particularly in complex coding areas that in the past required more hand-holding. It's also supposed to be better at analyzing images and following instructions, and it can exhibit more \"creativity\" when creating slides and documents, per Anthropic.\nOpus 4.7 comes on the heels of Mythos Preview, the buzzy cybersecur",
+    "t": "Anthropic משחררת את Claude Opus 4.7 החדש בעוד הבאז סביב Mythos Preview לא שותק\n\nאנתרופיק הכריזה על Claude Opus 4.7, מודל ה-AI החזק ביותר שלהם שזמין לציבור הרחב, והוא מגיע עם שיפורים משמעותיים במיוחד למשימות הנדסת תוכנה מורכבות שדרשו בעבר הרבה עבודת ידיים. המודל החדש גם טוב יותר בניתוח תמונות, עמידה בהוראות, ויש לו יותר \"יצירתיות\" כשמדובר ביצירת סליידים ומסמכים. ההוצאה הזו באה כחלק מהגל החדש של עדכונים של Anthropic, שגם מביאה את Mythos Preview לשולחן. *מקור: The Verge AI*",
     "d": "2026-04-16T15:59:24.000Z",
     "v": 0,
     "l": [
@@ -1233,13 +1195,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 50,
-    "t": "Tell us: do you use AI for fitness?\n\nIs AI helping with your workouts? We want to hear about it\nAccording to reports, people are incorporating AI into their fitness routines in a variety of ways; they have it write up training plans, design meal plans and workout playlists, and provide feedback on form.\nWe want to hear from you: how are you using AI in your workouts?\n Continue reading...",
+    "t": "תגידו לנו: האם אתם משתמשים ב-AI לאימונים?\n\nAI כבר חודר לחדר הכושר שלנו - אנשים משתמשים בו ליצירת תכניות אימון, תוכניות תזונה, פלייליסטים של ספורט ואפילו משוב על הטכניקה שלהם. עכשיו The Guardian רוצה לשמוע ממכם - איך בדיוק אתם מחברים את AI לשגרת ההתאמנות שלכם? מדברים על דבר שעלול להיות השינוי הגדול הבא בעולם הפיטנס.",
     "d": "Thu, 16 Apr 2026 15:55:44 GMT",
     "v": 0,
     "l": [
@@ -1256,7 +1218,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/0ed20ad35a10e9aaaaac4bd373193c2ba1f50a9d/443_0_4409_3529/master/4409.jpg?width=140&quality=85&auto=format&fit=max&s=804148020e883ddf55d4daf4d3036420",
     "source": "The Guardian AI"
   },
