@@ -79886,7 +79886,7 @@
       "author": "Prabhat Ranjan Mishra",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-16T06:18:51.498Z",
       "created_at": "2026-04-16T06:18:51.498Z"
     },
@@ -79976,7 +79976,7 @@
       "author": "Abhimanyu Ghoshal",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-16T08:09:03.387Z",
       "created_at": "2026-04-16T08:09:03.387Z"
     },
@@ -80138,7 +80138,7 @@
       "author": "Fred A.",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-16T08:09:04.641Z",
       "created_at": "2026-04-16T08:09:04.641Z"
     },
@@ -80444,7 +80444,7 @@
       "author": "Zac Zuo",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-16T08:09:04.642Z",
       "created_at": "2026-04-16T08:09:04.642Z"
     },
@@ -80461,7 +80461,7 @@
       "author": "Sohazur",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-16T08:09:04.642Z",
       "created_at": "2026-04-16T08:09:04.642Z"
     },
@@ -80651,6 +80651,73 @@
       "priority": "batch",
       "fetchedAt": "2026-04-16T08:09:04.642Z",
       "created_at": "2026-04-16T08:09:04.642Z"
+    },
+    {
+      "id": 4090,
+      "source": "MarkTechPost",
+      "title_en": "UCSD and Together AI Research Introduces Parcae: A Stable Architecture for Looped Language Models That Achieves the Quality of a Transformer Twice the Size",
+      "description_en": "The dominant recipe for building better language models has not changed much since the Chinchilla era: spend more FLOPs, add more parameters, train on more tokens. But as inference deployments consume an ever-growing share of compute and model deployments push toward the edge, researchers are increasingly asking a harder question — can you scale quality […]\nThe post UCSD and Together AI Research Introduces Parcae: A Stable Architecture for Looped Language Models That Achieves the Quality of a Tr",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/16/ucsd-and-together-ai-research-introduces-parcae-a-stable-architecture-for-looped-language-models-that-achieves-the-quality-of-a-transformer-twice-the-size/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-1.29.40-AM-1.png",
+      "pub_date": "Thu, 16 Apr 2026 08:30:30 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-16T09:48:09.037Z",
+      "created_at": "2026-04-16T09:48:09.037Z"
+    },
+    {
+      "id": 4091,
+      "source": "Interesting Engineering",
+      "title_en": "Power of 10,000 suns: Energy of famous black hole ‘dancing jets’ measured for first time",
+      "description_en": "Astronomers have long struggled to clock the speed and power of Cygnus X-1, a famous...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/space/power-of-famous-black-hole",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 08:59:39 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-16T09:48:11.337Z",
+      "created_at": "2026-04-16T09:48:11.337Z"
+    },
+    {
+      "id": 4092,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic unveils plans for major UK expansion after OpenAI announces first permanent London office",
+      "description_en": "The move follows a U.K. campaign to court the U.S. company following its fallout with the Pentagon.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/16/anthropic-london-office-800-staff-openai-expansion.html",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 09:34:03 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-16T09:48:11.605Z",
+      "created_at": "2026-04-16T09:48:11.605Z"
     }
   ]
 }
