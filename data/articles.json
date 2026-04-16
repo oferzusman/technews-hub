@@ -80899,6 +80899,2547 @@
       "priority": "hot",
       "fetchedAt": "2026-04-16T10:51:43.524Z",
       "created_at": "2026-04-16T10:51:43.524Z"
+    },
+    {
+      "id": 4102,
+      "source": "The Verge AI",
+      "title_en": "OpenAI’s big Codex update is a direct shot at Claude Code",
+      "description_en": "Codex can control apps on your desktop like Tic Tac Toe. | Image: OpenAI\t\n\nOpenAI is beefing up its agentic coding and development system, Codex, with a suite of updates that let it use your computer, generate images, and remember from past experiences. The package of updates comes as OpenAI's rivalry with Anthropic intensifies, following the stellar successes of Claude Code and OpenAI aggressively shifting resources to catch up.\nCodex will now be able to operate desktop apps on your computer, O",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
+      "image_url": null,
+      "pub_date": "2026-04-16T17:00:00.000Z",
+      "author": "Robert Hart",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:02.482Z",
+      "created_at": "2026-04-16T20:27:02.482Z"
+    },
+    {
+      "id": 4103,
+      "source": "The Verge AI",
+      "title_en": "Google’s AI Mode update lets you open links without leaving the page",
+      "description_en": "Google is upgrading AI Mode in Chrome with a new feature that will allow you to open links to sources alongside your chat. Now, instead of automatically opening a new tab, clicking a source will open the website side by side with AI Mode, allowing you to ask follow-up questions about what's on the page.\nLaunched last year, AI Mode is the chatbot-like search feature that lives within a tab on the left side of Google's search engine. Google has added several new features to the tool over the past ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources",
+      "image_url": null,
+      "pub_date": "2026-04-16T17:00:00.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:02.483Z",
+      "created_at": "2026-04-16T20:27:02.483Z"
+    },
+    {
+      "id": 4104,
+      "source": "The Verge AI",
+      "title_en": "Gemini can now pull from Google Photos to generate personalized images",
+      "description_en": "An example image from Google.\t\n\nGoogle's Personal Intelligence feature, which lets Gemini pull data from apps like Google Photos to offer responses tailored to you, can now use that data and its Nano Banana 2 image model to create images based on your personal context.\nWith the feature, you can use prompts like \"Design my dream house\" or \"Create a picture of my desert island essentials\" and the photos Gemini creates will \"automatically reflect your specific tastes and lifestyle, gleaned from the",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana",
+      "image_url": null,
+      "pub_date": "2026-04-16T16:00:00.000Z",
+      "author": "Jay Peters",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:02.483Z",
+      "created_at": "2026-04-16T20:27:02.483Z"
+    },
+    {
+      "id": 4105,
+      "source": "The Verge AI",
+      "title_en": "Anthropic releases a new Opus model amid Mythos Preview buzz",
+      "description_en": "Anthropic has released its most powerful \"generally available\" model to date: Claude Opus 4.7. \nThe company called it a step up from Opus 4.6 for advanced software engineering tasks, particularly in complex coding areas that in the past required more hand-holding. It's also supposed to be better at analyzing images and following instructions, and it can exhibit more \"creativity\" when creating slides and documents, per Anthropic.\nOpus 4.7 comes on the heels of Mythos Preview, the buzzy cybersecur",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity",
+      "image_url": null,
+      "pub_date": "2026-04-16T15:59:24.000Z",
+      "author": "Hayden Field",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:02.483Z",
+      "created_at": "2026-04-16T20:27:02.483Z"
+    },
+    {
+      "id": 4106,
+      "source": "The Verge AI",
+      "title_en": "Ronan Farrow on Sam Altman&#8217;s ‘unconstrained’ relationship with the truth",
+      "description_en": "Today on Decoder, I’m talking with Ronan Farrow, one of the biggest stars of investigative reporting working today. He broke the Harvey Weinstein story, among many, many others. And just last week, he and co-author Andrew Marantz published an incredible deep-dive feature in The New Yorker about OpenAI CEO Sam Altman, his trustworthiness, and the rise of OpenAI itself. \nOne note before we go any further here —The New Yorker published that story and Ronan and I had this conversation before we knew",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry",
+      "image_url": null,
+      "pub_date": "2026-04-16T14:00:00.000Z",
+      "author": "Nilay Patel",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:02.483Z",
+      "created_at": "2026-04-16T20:27:02.483Z"
+    },
+    {
+      "id": 4107,
+      "source": "The Verge AI",
+      "title_en": "Character.AI’s new Books mode turns reading into roleplay",
+      "description_en": "Mired in controversy and legal woes over concerns about its chatbots' interactions with users, particularly teens, Character.AI seems to be playing it safer with a new \"Books\" mode. The new format lets users step inside familiar worlds for a more structured roleplaying experience, one the company hopes will broaden perceptions of what AI roleplay can be beyond romancing minors, encouraging violence, and promoting self-harm.\nIn a blog post, Character.AI said Books is launching with a catalog of m",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode",
+      "image_url": null,
+      "pub_date": "2026-04-16T14:00:00.000Z",
+      "author": "Robert Hart",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:02.483Z",
+      "created_at": "2026-04-16T20:27:02.483Z"
+    },
+    {
+      "id": 4108,
+      "source": "The Verge AI",
+      "title_en": "Canva’s AI 2.0 update goes all in on prompt-powered design tools",
+      "description_en": "Canva has overhauled its design and workspace suite as it attempts to become the ultimate centralized hub for AI-powered content creation. The platform announced its Canva AI 2.0 update today, introducing updated tools and new prompt-based editing capabilities that allow users to make or adjust their work by describing what they want to create to Canva's AI assistant in their own words.\nThe update includes a new orchestration layer for Canva's AI models that lets creatives and marketers access t",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability",
+      "image_url": null,
+      "pub_date": "2026-04-16T13:07:09.000Z",
+      "author": "Jess Weatherbed",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:02.483Z",
+      "created_at": "2026-04-16T20:27:02.483Z"
+    },
+    {
+      "id": 4109,
+      "source": "Ars Technica",
+      "title_en": "Ad firms settle with Trump FTC over claims they boycotted conservative media",
+      "description_en": "FTC aims to stamp out brand-safety standards that hurt Breitbart and Musk's X.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/04/ad-firms-settle-with-trump-ftc-over-claims-they-boycotted-conservative-media/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/andrew-ferguson-1152x648.jpg",
+      "pub_date": "Thu, 16 Apr 2026 19:08:38 +0000",
+      "author": "\n                    Jon Brodkin\n                ",
+      "categories": [
+        "Policy",
+        "ad boycotts",
+        "FTC"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-16T20:27:02.699Z",
+      "created_at": "2026-04-16T20:27:02.699Z"
+    },
+    {
+      "id": 4110,
+      "source": "Ars Technica",
+      "title_en": "New Codex features include the ability to use your computer in the background",
+      "description_en": "An in-app browser allows visual feedback while building websites and more.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/04/new-codex-features-include-the-ability-to-use-your-computer-in-the-background/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Codex-screenshot-1152x648.jpg",
+      "pub_date": "Thu, 16 Apr 2026 18:30:44 +0000",
+      "author": "\n                    Samuel Axon\n                ",
+      "categories": [
+        "AI",
+        "agentic AI",
+        "Codex",
+        "enterprise AI",
+        "openai",
+        "software development"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-16T20:27:02.699Z",
+      "created_at": "2026-04-16T20:27:02.699Z"
+    },
+    {
+      "id": 4111,
+      "source": "Ars Technica",
+      "title_en": "The Ukraine war's deep impact on Metro 2039’s development, story",
+      "description_en": "Upcoming sequel wants to capture a \"uniquely Ukrainian perspective\" on the post-apocalypse.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gaming/2026/04/making-games-in-a-war-zone-metro-2039s-ukrainian-developers-speak-out/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/M2039_RevealScreenshot_01_The_Stranger_4K-1152x648.jpg",
+      "pub_date": "Thu, 16 Apr 2026 17:50:56 +0000",
+      "author": "\n                    Kyle Orland\n                ",
+      "categories": [
+        "Gaming",
+        "4A studios",
+        "Glukhovsky",
+        "metro",
+        "russia",
+        "Ukraine",
+        "war"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:02.699Z",
+      "created_at": "2026-04-16T20:27:02.699Z"
+    },
+    {
+      "id": 4112,
+      "source": "Ars Technica",
+      "title_en": "New undersea cable cutter risks Internet’s backbone",
+      "description_en": "China cable-cutter demo coincides with more sabotage of subsea Internet cables.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gadgets/2026/04/china-tests-an-undersea-cable-cutter-as-suspected-sabotage-incidents-grow/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/undersea-cable-1152x648.jpg",
+      "pub_date": "Thu, 16 Apr 2026 17:32:19 +0000",
+      "author": "\n                    Jeremy Hsu\n                ",
+      "categories": [
+        "Tech",
+        "submarine cables",
+        "subsea cables",
+        "undersea cable cuts"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:02.699Z",
+      "created_at": "2026-04-16T20:27:02.699Z"
+    },
+    {
+      "id": 4113,
+      "source": "Ars Technica",
+      "title_en": "Microsoft and Stellantis want to use AI to help car owners",
+      "description_en": "Digital services for brands from Jeep to Peugeot will feel the presence of AI.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/cars/2026/04/microsoft-and-stellantis-want-to-use-ai-to-help-car-owners/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271011411-1152x648.jpg",
+      "pub_date": "Thu, 16 Apr 2026 17:29:12 +0000",
+      "author": "\n                    Jonathan M. Gitlin\n                ",
+      "categories": [
+        "AI",
+        "Cars",
+        "microsoft",
+        "Stellantis"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:02.699Z",
+      "created_at": "2026-04-16T20:27:02.699Z"
+    },
+    {
+      "id": 4114,
+      "source": "Ars Technica",
+      "title_en": "Gemini can now create personalized AI images by digging around in Google Photos",
+      "description_en": "Google is making it easier to feed your photos into Nano Banana for more personal image generation.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/04/gemini-can-now-create-personalized-ai-images-by-digging-around-in-google-photos/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Blog-post-header-1152x648.png",
+      "pub_date": "Thu, 16 Apr 2026 16:59:25 +0000",
+      "author": "\n                    Ryan Whitwam\n                ",
+      "categories": [
+        "AI",
+        "Google",
+        "Artificial Intelligence",
+        "google",
+        "nano banana"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:02.699Z",
+      "created_at": "2026-04-16T20:27:02.699Z"
+    },
+    {
+      "id": 4115,
+      "source": "Ars Technica",
+      "title_en": "RFK Jr. forces FDA to reconsider 12 unproven peptides after 2023 ban",
+      "description_en": "There doesn't seem to be new safety or efficacy data, but Kennedy touts them anyway.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/health/2026/04/rfk-jr-forces-fda-to-reconsider-12-unproven-peptides-after-2023-ban/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262712176-1152x648.jpg",
+      "pub_date": "Thu, 16 Apr 2026 16:45:37 +0000",
+      "author": "\n                    Beth Mole\n                ",
+      "categories": [
+        "Health",
+        "compounding pharmacies",
+        "fda",
+        "Peptides",
+        "robert f kennedy jr"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:02.699Z",
+      "created_at": "2026-04-16T20:27:02.699Z"
+    },
+    {
+      "id": 4116,
+      "source": "Ars Technica",
+      "title_en": "First look: Also's upcoming e-bike disconnects the pedals and wheels",
+      "description_en": "The company bets that software can create a distinct—and better—riding experience.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/cars/2026/04/first-look-alsos-upcoming-e-bike-disconnects-the-pedals-and-wheels/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/20250918_BrysonMalone_Also_2484-1152x648.jpg",
+      "pub_date": "Thu, 16 Apr 2026 16:23:38 +0000",
+      "author": "\n                    John Timmer\n                ",
+      "categories": [
+        "Cars",
+        "Also",
+        "e-bike"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:02.699Z",
+      "created_at": "2026-04-16T20:27:02.699Z"
+    },
+    {
+      "id": 4117,
+      "source": "Ars Technica",
+      "title_en": "Meet the Quantum Kid",
+      "description_en": "Nine-year-old Kai Moskvitch's podcast explores how quantum technologies can transform our daily lives.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/science/2026/04/meet-the-quantum-kid/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/kidTOP-1152x648.jpg",
+      "pub_date": "Thu, 16 Apr 2026 14:17:35 +0000",
+      "author": "\n                    Jennifer Ouellette\n                ",
+      "categories": [
+        "Science",
+        "Physics",
+        "podcasts",
+        "quantum computing",
+        "quantum mechanics",
+        "Science communication"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:02.699Z",
+      "created_at": "2026-04-16T20:27:02.699Z"
+    },
+    {
+      "id": 4118,
+      "source": "Ars Technica",
+      "title_en": "The race to Shackleton Crater is on—will Jeff Bezos or China get there first?",
+      "description_en": "US and Chinese landers could be operating in close proximity on the Moon later this year.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/space/2026/04/the-race-to-shackleton-crater-is-on-will-jeff-bezos-or-china-get-there-first/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/shadowcam_shackleton_crater_mosaic_072823-1152x648-1776290971.jpg",
+      "pub_date": "Thu, 16 Apr 2026 11:00:26 +0000",
+      "author": "\n                    Stephen Clark\n                ",
+      "categories": [
+        "Space",
+        "blue moon",
+        "blue origin",
+        "chang'e 7",
+        "china",
+        "moon",
+        "Shackleton crater"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:02.699Z",
+      "created_at": "2026-04-16T20:27:02.699Z"
+    },
+    {
+      "id": 4119,
+      "source": "TechCrunch AI",
+      "title_en": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+      "description_en": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 20:26:44 +0000",
+      "author": "Connie Loizos",
+      "categories": [
+        "AI",
+        "Robotics",
+        "Exclusive"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-16T20:27:02.798Z",
+      "created_at": "2026-04-16T20:27:02.798Z"
+    },
+    {
+      "id": 4120,
+      "source": "TechCrunch AI",
+      "title_en": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+      "description_en": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 19:18:41 +0000",
+      "author": "Lucas Ropek",
+      "categories": [
+        "AI",
+        "Enterprise",
+        "agents",
+        "Anthropic",
+        "claude code",
+        "codex",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-16T20:27:02.798Z",
+      "created_at": "2026-04-16T20:27:02.798Z"
+    },
+    {
+      "id": 4121,
+      "source": "TechCrunch AI",
+      "title_en": "Anthropic CPO leaves Figma’s board after reports he will offer a competing product",
+      "description_en": "Krieger's departure and any forthcoming design tools will be another data point for investors who fear the SaaSpocalypse — that the largest AI labs will come to dominate software businesses, a thesis that has rocked public markets at times this year.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 18:28:42 +0000",
+      "author": "Tim Fernholz",
+      "categories": [
+        "AI",
+        "Figma",
+        "mike krieger",
+        "Anthropic",
+        "In Brief"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-16T20:27:02.798Z",
+      "created_at": "2026-04-16T20:27:02.798Z"
+    },
+    {
+      "id": 4122,
+      "source": "TechCrunch AI",
+      "title_en": "Google now lets you explore the web side-by-side with AI Mode",
+      "description_en": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the web page side-by-side with AI Mode.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 17:00:00 +0000",
+      "author": "Aisha Malik",
+      "categories": [
+        "AI",
+        "Apps",
+        "ai mode",
+        "Google"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:02.798Z",
+      "created_at": "2026-04-16T20:27:02.798Z"
+    },
+    {
+      "id": 4123,
+      "source": "TechCrunch AI",
+      "title_en": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
+      "description_en": "According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong — it's also diagnosing how the entire tech stack operates now that AI is part of it.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 16:15:00 +0000",
+      "author": "Ram Iyer",
+      "categories": [
+        "AI",
+        "Enterprise",
+        "Fundraising",
+        "data observability",
+        "Datadog",
+        "Dynatrace",
+        "Grafana Labs",
+        "InsightFinder"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:02.798Z",
+      "created_at": "2026-04-16T20:27:02.798Z"
+    },
+    {
+      "id": 4124,
+      "source": "TechCrunch AI",
+      "title_en": "AI traffic to US retailers rose 393% in Q1, and it’s boosting their revenue too",
+      "description_en": "Adobe says AI traffic to U.S. retail sites also jumped 269% in March, with visitors converting better and generating more revenue than non-AI shoppers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 16:14:03 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "AI",
+        "Commerce",
+        "Adobe",
+        "agentic commerce",
+        "eCommerce",
+        "online shopping"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:02.798Z",
+      "created_at": "2026-04-16T20:27:02.798Z"
+    },
+    {
+      "id": 4125,
+      "source": "TechCrunch AI",
+      "title_en": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games",
+      "description_en": "The new tools are designed to help creators throughout the entire development process.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 16:00:00 +0000",
+      "author": "Aisha Malik",
+      "categories": [
+        "AI",
+        "Gaming",
+        "Social",
+        "Exclusive",
+        "game design",
+        "game development",
+        "Roblox"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:02.798Z",
+      "created_at": "2026-04-16T20:27:02.798Z"
+    },
+    {
+      "id": 4126,
+      "source": "TechCrunch AI",
+      "title_en": "Google is now targeting bad ads over bad actors",
+      "description_en": "Google blocked 8.3 billion ads in 2025 but suspended fewer advertisers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 15:00:00 +0000",
+      "author": "Jagmeet Singh",
+      "categories": [
+        "AI",
+        "ad fraud",
+        "Google",
+        "Google Ads"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:02.798Z",
+      "created_at": "2026-04-16T20:27:02.798Z"
+    },
+    {
+      "id": 4127,
+      "source": "TechCrunch AI",
+      "title_en": "Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster",
+      "description_en": "Runway’s CEO says AI could help studios make dozens of films for the cost of one, betting volume will boost hit-making odds.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 14:14:29 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "AI",
+        "Media & Entertainment",
+        "Creators",
+        "film",
+        "Hollywood",
+        "runway"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:02.798Z",
+      "created_at": "2026-04-16T20:27:02.798Z"
+    },
+    {
+      "id": 4128,
+      "source": "TechCrunch AI",
+      "title_en": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage",
+      "description_en": "Starting April 19, the price of the Meta Quest 3S (128GB) and Meta Quest 3S (256GB) will go up by $50 to $349.99 and $449.99, respectively. The price of the Meta Quest 3 is going up by $100 to $599.99.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 13:49:32 +0000",
+      "author": "Aisha Malik",
+      "categories": [
+        "AI",
+        "Hardware",
+        "In Brief",
+        "Meta",
+        "meta quest",
+        "VR"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:02.798Z",
+      "created_at": "2026-04-16T20:27:02.798Z"
+    },
+    {
+      "id": 4129,
+      "source": "TechCrunch AI",
+      "title_en": "Canva’s AI assistant can now call various tools to make designs for you",
+      "description_en": "The latest version of Canva's AI assistant lets users create editable designs with text prompts.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 13:00:00 +0000",
+      "author": "Ivan Mehta",
+      "categories": [
+        "AI",
+        "Apps",
+        "Adobe",
+        "AI assistant",
+        "canva",
+        "Design Ai"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:02.798Z",
+      "created_at": "2026-04-16T20:27:02.798Z"
+    },
+    {
+      "id": 4130,
+      "source": "TechCrunch AI",
+      "title_en": "This simulation startup wants to be the Cursor for physical AI",
+      "description_en": "Antioch raised an $8.5 million seed round to create simulation tools for a new generation of robot builders.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 12:30:00 +0000",
+      "author": "Tim Fernholz",
+      "categories": [
+        "AI",
+        "Robotics",
+        "A*",
+        "Antioch",
+        "Exclusive"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:02.798Z",
+      "created_at": "2026-04-16T20:27:02.798Z"
+    },
+    {
+      "id": 4131,
+      "source": "The Decoder",
+      "title_en": "OpenAI turns Codex into an always-on coding agent that watches your screen",
+      "description_en": "OpenAI is massively expanding its developer tool Codex: the AI can now control a Mac on its own, generate images, remember preferences, and keep working on tasks autonomously for weeks. The move takes direct aim at Anthropic's Claude Code.\nThe article OpenAI turns Codex into an always-on coding agent that watches your screen appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-turns-codex-into-an-always-on-coding-agent-that-watches-your-screen/",
+      "image_url": "http://the-decoder.com/wp-content/uploads/2026/04/openai_codex_browser_use.mp4",
+      "pub_date": "Thu, 16 Apr 2026 17:56:14 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:03.634Z",
+      "created_at": "2026-04-16T20:27:03.634Z"
+    },
+    {
+      "id": 4132,
+      "source": "The Decoder",
+      "title_en": "OpenAI says more women than men now use ChatGPT, flipping an 80-20 male split at launch",
+      "description_en": "More women than men now use ChatGPT regularly, according to OpenAI's own data. The company also estimates China's AI spending at up to $125 billion and argues that computing power is becoming the defining competitive advantage in the AI race.\nThe article OpenAI says more women than men now use ChatGPT, flipping an 80-20 male split at launch appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-says-more-women-than-men-now-use-chatgpt-flipping-an-80-20-male-split-at-launch/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 16:47:39 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "ChatGPT",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:03.634Z",
+      "created_at": "2026-04-16T20:27:03.634Z"
+    },
+    {
+      "id": 4133,
+      "source": "The Decoder",
+      "title_en": "Nvidia wants to scale robot simulation training with Lyra 2.0",
+      "description_en": "Nvidia researchers have unveiled Lyra 2.0, a system that generates large, coherent 3D environments from a single photograph. The resulting scenes can be explored in real time and used directly in robot simulations.\nThe article Nvidia wants to scale robot simulation training with Lyra 2.0 appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/nvidia-wants-to-scale-robot-simulation-training-with-lyra-2-0/",
+      "image_url": "http://the-decoder.de/wp-content/uploads/2026/04/lyra2_delivery_robot_2x.mp4",
+      "pub_date": "Thu, 16 Apr 2026 16:33:31 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "3D",
+        "Generative AI",
+        "Nvidia",
+        "Robotics"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:03.634Z",
+      "created_at": "2026-04-16T20:27:03.634Z"
+    },
+    {
+      "id": 4134,
+      "source": "The Decoder",
+      "title_en": "India's 1.5 million annual IT graduates face an industry that's moving on without them",
+      "description_en": "A Bloomberg report reveals how agentic AI is shaking up India's massive IT industry. Companies like Infosys are spending weeks retraining new hires because the country's universities aren't keeping up with reality.\nThe article India's 1.5 million annual IT graduates face an industry that's moving on without them appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/indias-1-5-million-annual-it-graduates-face-an-industry-thats-moving-on-without-them/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 16:26:49 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Agents",
+        "Coding",
+        "Generative AI",
+        "India"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:03.634Z",
+      "created_at": "2026-04-16T20:27:03.634Z"
+    },
+    {
+      "id": 4135,
+      "source": "The Decoder",
+      "title_en": "Google launches native Gemini app for Mac",
+      "description_en": "Google has released a native Gemini app for Mac, marking the first desktop version of its AI assistant alongside the existing smartphone apps.\nThe article Google launches native Gemini app for Mac appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/google-launches-native-gemini-app-for-mac/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 16:18:48 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Apple",
+        "Gemini",
+        "Google"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:03.634Z",
+      "created_at": "2026-04-16T20:27:03.634Z"
+    },
+    {
+      "id": 4136,
+      "source": "The Decoder",
+      "title_en": "Anthropic's Claude Opus 4.7 makes a big leap in coding, while deliberately scaling back cyber capabilities",
+      "description_en": "Anthropic's new flagship model Claude Opus 4.7 delivers major improvements in coding tasks. During training, the company deliberately tried to reduce certain cybersecurity capabilities.\nThe article Anthropic's Claude Opus 4.7 makes a big leap in coding, while deliberately scaling back cyber capabilities appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropics-claude-opus-4-7-makes-a-big-leap-in-coding-while-deliberately-scaling-back-cyber-capabilities/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 15:52:49 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Claude",
+        "Opus 4.7"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:03.634Z",
+      "created_at": "2026-04-16T20:27:03.634Z"
+    },
+    {
+      "id": 4137,
+      "source": "The Decoder",
+      "title_en": "Apple sends Siri developers to AI coding bootcamp",
+      "description_en": "Apple is sending some of its Siri developers back to school. Fewer than 200 engineers will go through a multi-week bootcamp to learn how to use AI coding tools like Anthropic's Claude Code or OpenAI's Codex, according to The Information.\nThe article Apple sends Siri developers to AI coding bootcamp appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/apple-sends-siri-developers-to-ai-coding-bootcamp/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 15:28:14 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Apple",
+        "Coding",
+        "Siri"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:03.634Z",
+      "created_at": "2026-04-16T20:27:03.634Z"
+    },
+    {
+      "id": 4138,
+      "source": "The Decoder",
+      "title_en": "OpenAI wants to sell more ads in ChatGPT, but advertisers are struggling with basic tools",
+      "description_en": "OpenAI is expanding its advertising business in ChatGPT and introducing new pricing models. But early advertisers are running into a lack of tracking tools and limited targeting options.\nThe article OpenAI wants to sell more ads in ChatGPT, but advertisers are struggling with basic tools appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-wants-to-sell-more-ads-in-chatgpt-but-advertisers-are-struggling-with-basic-tools/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 15:23:44 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Ads",
+        "ChatGPT",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:03.634Z",
+      "created_at": "2026-04-16T20:27:03.634Z"
+    },
+    {
+      "id": 4139,
+      "source": "The Decoder",
+      "title_en": "Bytedance rolls out Seedance 2.0 to 100+ countries but keeps the US off the list",
+      "description_en": "Bytedance is rolling out its AI video model Seedance 2.0 to over 100 countries—but the US isn't one of them, likely due to ongoing copyright disputes with Hollywood studios.\nThe article Bytedance rolls out Seedance 2.0 to 100+ countries but keeps the US off the list appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/bytedance-rolls-out-seedance-2-0-to-100-countries-but-keeps-the-us-off-the-list/",
+      "image_url": "http://the-decoder.com/wp-content/uploads/2026/04/seedance_20_launch.mp4",
+      "pub_date": "Thu, 16 Apr 2026 14:39:45 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "ByteDance",
+        "Seedance"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:03.634Z",
+      "created_at": "2026-04-16T20:27:03.634Z"
+    },
+    {
+      "id": 4140,
+      "source": "MIT Technology Review",
+      "title_en": "Making AI operational in constrained public sector environments",
+      "description_en": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart from their business counterparts. For this reason, purpose-built small language models (SLMs) offer a promising path to operationalize AI in…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 13:00:00 +0000",
+      "author": "MIT Technology Review Insights",
+      "categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:03.773Z",
+      "created_at": "2026-04-16T20:27:03.773Z"
+    },
+    {
+      "id": 4141,
+      "source": "MIT Technology Review",
+      "title_en": "Treating enterprise AI as an operating layer",
+      "description_en": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: who owns the operating layer where intelligence is applied, governed, and improved.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 13:00:00 +0000",
+      "author": "Dr. Wael Salloum",
+      "categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:03.773Z",
+      "created_at": "2026-04-16T20:27:03.773Z"
+    },
+    {
+      "id": 4142,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: cyberscammers’ banking bypasses, and carbon removal troubles",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram  Inside a money-laundering center in Cambodia, an employee opens a banking app on his phone. It asks for a photo linked to the…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 12:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:03.773Z",
+      "created_at": "2026-04-16T20:27:03.773Z"
+    },
+    {
+      "id": 4143,
+      "source": "MIT Technology Review",
+      "title_en": "Why having “humans in the loop” in an AI war is an illusion",
+      "description_en": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ever before in the current conflict with Iran. AI is no longer just helping humans analyze intelligence. It is now an…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 12:00:00 +0000",
+      "author": "Uri Maoz",
+      "categories": [
+        "Artificial intelligence",
+        "AI",
+        "App",
+        "artificial intelligence",
+        "Opinion"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:03.773Z",
+      "created_at": "2026-04-16T20:27:03.773Z"
+    },
+    {
+      "id": 4144,
+      "source": "Hugging Face Blog",
+      "title_en": "The PR you would have opened yourself",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/transformers-to-mlx",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:03.915Z",
+      "created_at": "2026-04-16T20:27:03.915Z"
+    },
+    {
+      "id": 4145,
+      "source": "Hugging Face Blog",
+      "title_en": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:03.915Z",
+      "created_at": "2026-04-16T20:27:03.915Z"
+    },
+    {
+      "id": 4146,
+      "source": "Google AI Blog",
+      "title_en": "A new way to explore the web with AI Mode in Chrome",
+      "description_en": "Today’s upgrades for AI Mode in Chrome transform how you interact with the web",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/AI_Mode_in_Chrome_-_Blog_header.png",
+      "pub_date": "Thu, 16 Apr 2026 17:00:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Robby Stein"
+        ],
+        "title": [
+          "VP of Product, Google Search"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Search",
+        "AI",
+        "Chrome"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:03.973Z",
+      "created_at": "2026-04-16T20:27:03.973Z"
+    },
+    {
+      "id": 4147,
+      "source": "Google AI Blog",
+      "title_en": "New ways to create personalized images in the Gemini app",
+      "description_en": "Nano Banana 2 now uses your personal context and Google Photos to create images that reflect your unique life.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_post_header.max-600x600.format-webp.webp",
+      "pub_date": "Thu, 16 Apr 2026 16:00:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Animish Sivaramakrishnan"
+        ],
+        "title": [
+          "Group Product Manager"
+        ],
+        "department": [
+          "Gemini App"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Gemini App",
+        "Google One",
+        "Photos",
+        "AI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:03.973Z",
+      "created_at": "2026-04-16T20:27:03.973Z"
+    },
+    {
+      "id": 4148,
+      "source": "OpenAI Blog",
+      "title_en": "Codex for (almost) everything",
+      "description_en": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/codex-for-almost-everything",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 10:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Product"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:04.300Z",
+      "created_at": "2026-04-16T20:27:04.300Z"
+    },
+    {
+      "id": 4149,
+      "source": "OpenAI Blog",
+      "title_en": "Introducing GPT-Rosalind for life sciences research",
+      "description_en": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/introducing-gpt-rosalind",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 01:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Research"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:04.300Z",
+      "created_at": "2026-04-16T20:27:04.300Z"
+    },
+    {
+      "id": 4150,
+      "source": "New Atlas",
+      "title_en": "GoPro's new 8K Mission 1 camera is more than just an actioncam",
+      "description_en": "GoPro just stunned all of us by announcing an entirely new line of action cameras. That’s right – the Mission 1 is a new range of GoPros that will not replace the Hero lineup. Instead, it’s a new, parallel lineup that is aimed at pro creators who want to do more than just capture action in a jiffy.\nContinue Reading\nCategory: Consumer Tech, Technology\nTags: GoPro, DJI Innovations, Insta360, Actioncam, Mirrorless Cameras, Micro Four Thirds, Cameras, Video Cameras",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/consumer-tech/gopro-mission-1/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 19:18:21 GMT",
+      "author": "Utkarsh Sood",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-16T20:27:04.599Z",
+      "created_at": "2026-04-16T20:27:04.599Z"
+    },
+    {
+      "id": 4151,
+      "source": "New Atlas",
+      "title_en": "Amazon's new Fire Stick HD is a no-brainer for frequent flyers",
+      "description_en": "Amazon's latest streaming device includes a handy feature that not only makes it a cinch to upgrade your old TV at home, but also to make long days on the road less of a drag.\nContinue Reading\nCategory: Consumer Tech, Technology\nTags: Streaming Video, Streaming, TV, Amazon, Travel",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/consumer-tech/amazon-fire-tv-stick-hd/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 12:51:28 GMT",
+      "author": "Abhimanyu Ghoshal",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:04.599Z",
+      "created_at": "2026-04-16T20:27:04.599Z"
+    },
+    {
+      "id": 4152,
+      "source": "New Atlas",
+      "title_en": "Honda's sporty compact EV includes simulated transmission sounds",
+      "description_en": "Honda has revealed more details about its forthcoming likeable little retro-styled compact electric vehicle (EV). Firstly, and the most confusing of all, what is it called? The answer appears to be the Super-ONE in Japan and elsewhere, but the Super-N in the UK. Whether it’s ONE or N, the super-cute little lightweight boxy city car will launch in its home market at the end of May and in July in the UK.\nContinue Reading\nCategory: Automotive, Transport\nTags: Honda, Electric Vehicles, Hot hatch, Ke",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/automotive/honda-super-one-n-electric-kei-hot-hatch/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 10:46:08 GMT",
+      "author": "Simon Heptinstall",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:04.599Z",
+      "created_at": "2026-04-16T20:27:04.599Z"
+    },
+    {
+      "id": 4153,
+      "source": "The Register",
+      "title_en": "Loud, power hungry - opposition grows to datacenters as Maine passes bit barn ban",
+      "description_en": "If there's one thing folks want less than Copilot in their taskbar, it's a bit barn in their backyard Loud, thirsty, power hungry, and intensely unpopular with neighboring residents: datacenters are becoming the new nuclear waste dump. And many localities are now saying \"not in my backyard.\"…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/maine_pulls_bit_barn_brake/",
+      "image_url": null,
+      "pub_date": "2026-04-16T18:48:25.000Z",
+      "author": "Tobias Mann",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-16T20:27:04.709Z",
+      "created_at": "2026-04-16T20:27:04.709Z"
+    },
+    {
+      "id": 4154,
+      "source": "The Register",
+      "title_en": "If you want into Anthropic's Claude club, you may have to show ID",
+      "description_en": "Worse: Anthropic is using Persona, a privacy checker that rings alarm bells for the paranoids on Reddit Anthropic may check your ID before letting you access certain Claude features, and the verification vendor it has picked is the same outfit that sparked controversy when Discord tested similar checks.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/anthropic_claude_id_verification_persona/",
+      "image_url": null,
+      "pub_date": "2026-04-16T17:49:59.000Z",
+      "author": "Brandon Vigliarolo",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:04.709Z",
+      "created_at": "2026-04-16T20:27:04.709Z"
+    },
+    {
+      "id": 4155,
+      "source": "The Register",
+      "title_en": "Make crappy moves around AI and face voter backlash, govts warned",
+      "description_en": "When the taxpayers are wondering whose side you are on... Britain's government faces a public backlash against AI unless it can show ordinary people that they stand to benefit from its push to inject the technology into every area of the UK in the name of growth.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/steer_ai_into_delivering_common_good_govts_told/",
+      "image_url": null,
+      "pub_date": "2026-04-16T14:17:27.000Z",
+      "author": "Dan Robinson",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:04.709Z",
+      "created_at": "2026-04-16T20:27:04.709Z"
+    },
+    {
+      "id": 4156,
+      "source": "The Register",
+      "title_en": "Git identity spoof fools Claude into giving bad code the nod",
+      "description_en": "Forged metadata made AI reviewer treat hostile changes as though they came from known maintainer Security boffins say Anthropic's Claude can be tricked into approving malicious code with just two Git commands by spoofing a trusted developer's identity.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/git_identity_spoof_claude/",
+      "image_url": null,
+      "pub_date": "2026-04-16T12:57:22.000Z",
+      "author": "Carly Page",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:04.709Z",
+      "created_at": "2026-04-16T20:27:04.709Z"
+    },
+    {
+      "id": 4157,
+      "source": "The Guardian AI",
+      "title_en": "Man used AI to make false statements to shut down London nightclub, police say",
+      "description_en": "Heaven club neighbour admits offences under Licensing Act, as Met says fictitious AI-generated complaints a growing issue  \nA businessman has pleaded guilty to making false statements in order to shut down a nightclub, which police believe were generated using AI.\nA Metropolitan police source said the use of AI to generate letters by complainants who do not exist is a growing issue.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/apr/16/man-pleads-guilty-false-statements-shut-down-london-nightclub-heaven",
+      "image_url": "https://i.guim.co.uk/img/media/b5e1bc377ba6da653e6ddee9c244e084448b631f/661_0_6608_5289/master/6608.jpg?width=140&quality=85&auto=format&fit=max&s=2435ddfae1e01481a9eaa6b04a81ed09",
+      "pub_date": "Thu, 16 Apr 2026 16:47:20 GMT",
+      "author": "Helena Horton and Rob Davies",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Clubbing",
+          "$": {
+            "domain": "https://www.theguardian.com/music/clubs"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "London",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/london"
+          }
+        },
+        {
+          "_": "Planning policy",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/planning"
+          }
+        },
+        {
+          "_": "Local government",
+          "$": {
+            "domain": "https://www.theguardian.com/society/localgovernment"
+          }
+        },
+        {
+          "_": "Music",
+          "$": {
+            "domain": "https://www.theguardian.com/music/music"
+          }
+        },
+        {
+          "_": "Law",
+          "$": {
+            "domain": "https://www.theguardian.com/law/law"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:05.008Z",
+      "created_at": "2026-04-16T20:27:05.008Z"
+    },
+    {
+      "id": 4158,
+      "source": "The Guardian AI",
+      "title_en": "Ben Jennings on the US-Iran war and AI slop – cartoon",
+      "description_en": "Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/apr/16/ben-jennings-us-iran-war-ai-slop-cartoon",
+      "image_url": "https://i.guim.co.uk/img/media/e95cab53a0b225c375c29d3a4366fe62da4e75c7/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=838d1b312f732a2bbdaabcf626e54d61",
+      "pub_date": "Thu, 16 Apr 2026 17:14:22 GMT",
+      "author": "Ben Jennings",
+      "categories": [
+        {
+          "_": "US-Israel war on Iran",
+          "$": {
+            "domain": "https://www.theguardian.com/world/us-israel-war-on-iran"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Donald Trump",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/donaldtrump"
+          }
+        },
+        {
+          "_": "Iran",
+          "$": {
+            "domain": "https://www.theguardian.com/world/iran"
+          }
+        },
+        {
+          "_": "Middle East and north Africa",
+          "$": {
+            "domain": "https://www.theguardian.com/world/middleeast"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:05.008Z",
+      "created_at": "2026-04-16T20:27:05.008Z"
+    },
+    {
+      "id": 4159,
+      "source": "The Guardian AI",
+      "title_en": "Tell us: do you use AI for fitness?",
+      "description_en": "Is AI helping with your workouts? We want to hear about it\nAccording to reports, people are incorporating AI into their fitness routines in a variety of ways; they have it write up training plans, design meal plans and workout playlists, and provide feedback on form.\nWe want to hear from you: how are you using AI in your workouts?\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/16/tell-us-do-you-use-ai-for-fitness",
+      "image_url": "https://i.guim.co.uk/img/media/0ed20ad35a10e9aaaaac4bd373193c2ba1f50a9d/443_0_4409_3529/master/4409.jpg?width=140&quality=85&auto=format&fit=max&s=804148020e883ddf55d4daf4d3036420",
+      "pub_date": "Thu, 16 Apr 2026 15:55:44 GMT",
+      "author": "Guardian community team",
+      "categories": [
+        {
+          "_": "Fitness",
+          "$": {
+            "domain": "https://www.theguardian.com/lifeandstyle/fitness"
+          }
+        },
+        {
+          "_": "Life and style",
+          "$": {
+            "domain": "https://www.theguardian.com/lifeandstyle/lifeandstyle"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:05.008Z",
+      "created_at": "2026-04-16T20:27:05.008Z"
+    },
+    {
+      "id": 4160,
+      "source": "The Guardian AI",
+      "title_en": "First trailer released for western starring AI version of Val Kilmer",
+      "description_en": "Footage of As Deep As the Grave screened in the US, featuring an authorised visual deepfake of the actor who died in 2025\nA trailer has been released for the first film to star an authorised generative AI version of a major Hollywood actor.\nVal Kilmer was cast in western As Deep As the Grave before his death in April 2025. Production delays meant he never shot any scenes, but the creative team worked with UK-based company Sonantic to create an AI speaking voice based on his old recordings.\n Cont",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/film/2026/apr/16/first-trailer-released-for-ai-val-kilmer-western",
+      "image_url": "https://i.guim.co.uk/img/media/682dfd3ad4f1d3ec95bee667c93314856726ab70/46_0_3640_2912/master/3640.jpg?width=140&quality=85&auto=format&fit=max&s=e42b81ce6a2c6843aca1bc342c052253",
+      "pub_date": "Thu, 16 Apr 2026 13:42:43 GMT",
+      "author": "Catherine Shoard",
+      "categories": [
+        {
+          "_": "Film",
+          "$": {
+            "domain": "https://www.theguardian.com/film/film"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "Val Kilmer",
+          "$": {
+            "domain": "https://www.theguardian.com/film/val-kilmer"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Film industry",
+          "$": {
+            "domain": "https://www.theguardian.com/film/film-industry"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:05.008Z",
+      "created_at": "2026-04-16T20:27:05.008Z"
+    },
+    {
+      "id": 4161,
+      "source": "AI News",
+      "title_en": "5 top cloud migration software for Infrastructure as Code (IaC)",
+      "description_en": "Cloud migration becomes much harder when teams are not moving workloads, but also trying to make every environment reproducible and deployment-ready through Infrastructure as Code. The challenge is not limited to copying applications from one platform to another. It includes validating architecture decisions, controlling drift, enforcing policies, coordinating approvals, and making sure deployment logic can […]\nThe post 5 top cloud migration software for Infrastructure as Code (IaC) appeared fir",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/5-top-cloud-migration-software-for-infrastructure-as-code-iac/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 12:30:30 +0000",
+      "author": "Or Hillel",
+      "categories": [
+        "Sponsored Content"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:05.509Z",
+      "created_at": "2026-04-16T20:27:05.509Z"
+    },
+    {
+      "id": 4162,
+      "source": "AI News",
+      "title_en": "OpenAI Agents SDK improves governance with sandbox execution",
+      "description_en": "OpenAI is introducing sandbox execution that allows enterprise governance teams to deploy automated workflows with controlled risk. Teams taking systems from prototype to production have faced difficult architectural compromises regarding where their operations occurred. Using model-agnostic frameworks offered initial flexibility but failed to fully utilise the capabilities of frontier models. Model-provider SDKs remained closer to […]\nThe post OpenAI Agents SDK improves governance with sandbox ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 11:20:00 +0000",
+      "author": "Ryan Daws",
+      "categories": [
+        "AI Business Strategy",
+        "AI in Action",
+        "Cybersecurity AI",
+        "Data Engineering & MLOps",
+        "Featured News",
+        "Features",
+        "Governance, Regulation & Policy",
+        "Healthcare & Wellness AI",
+        "How It Works",
+        "Infrastructure & Hardware",
+        "Inside AI",
+        "Natural Language Processing (NLP)",
+        "agents sdk",
+        "automated workflows",
+        "clinical records",
+        "cybersecurity",
+        "developers",
+        "governance",
+        "healthcare ai",
+        "model harness",
+        "openai",
+        "oscar health",
+        "risk mitigation",
+        "sandbox execution",
+        "sdk"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:05.509Z",
+      "created_at": "2026-04-16T20:27:05.509Z"
+    },
+    {
+      "id": 4163,
+      "source": "Interesting Engineering",
+      "title_en": "‘World’s first’: AGIBOT G2 humanoid robots run tablet testing on live factory line",
+      "description_en": "AGIBOT has deployed its G2 humanoid robots into a live consumer electronics manufacturing line in...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/agibot-g2-humanoid-robots-live-production-line",
+      "image_url": "https://www.youtube.com/embed/h6rCRa8qUFw",
+      "pub_date": "Thu, 16 Apr 2026 19:36:46 +0000",
+      "author": "Neetika Walter",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-16T20:27:08.252Z",
+      "created_at": "2026-04-16T20:27:08.252Z"
+    },
+    {
+      "id": 4164,
+      "source": "Interesting Engineering",
+      "title_en": "Google in talks with Pentagon to deploy Gemini AI after Claude limits dispute",
+      "description_en": "Alphabet’s Google is moving back into the U.S. defense AI spotlight, as the Pentagon reassesses...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/google-gemini-pentagon-classified-ai-talks",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 19:27:25 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-16T20:27:08.252Z",
+      "created_at": "2026-04-16T20:27:08.252Z"
+    },
+    {
+      "id": 4165,
+      "source": "Interesting Engineering",
+      "title_en": "US tests spin-polarized fuel in 180-million-degree Fahrenheit tokamaks for fusion power",
+      "description_en": "Scientists in the US have been testing spin-polarized nuclear fuel inside tokamaks operating at around...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/spin-fuel-plasma-fusion-power",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/Z2_f23ca9.jpg",
+      "pub_date": "Thu, 16 Apr 2026 16:05:01 +0000",
+      "author": "Georgina Jedikovska",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.252Z",
+      "created_at": "2026-04-16T20:27:08.252Z"
+    },
+    {
+      "id": 4166,
+      "source": "Interesting Engineering",
+      "title_en": "US unveils AI-powered drone with 66-mile reach, modular payload transforms operations",
+      "description_en": "A US defense company has unveiled a new autonomous modular drone that can handle surveillance,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-modular-ai-drone-swarm-ops",
+      "image_url": "https://www.youtube.com/embed/LQ0XV_wjUU0",
+      "pub_date": "Thu, 16 Apr 2026 15:50:40 +0000",
+      "author": "Jijo Malayil",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.252Z",
+      "created_at": "2026-04-16T20:27:08.252Z"
+    },
+    {
+      "id": 4167,
+      "source": "Interesting Engineering",
+      "title_en": "Anthropic launches Opus 4.7 with 13% higher vision resolution and stronger coding",
+      "description_en": "Anthropic has released its latest flagship AI model, Claude Opus 4.7, marking a step forward...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/claude-opus-4-7-coding-vision-upgrade",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 15:28:35 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.252Z",
+      "created_at": "2026-04-16T20:27:08.252Z"
+    },
+    {
+      "id": 4168,
+      "source": "Interesting Engineering",
+      "title_en": "Germany airdrops 5 ton ‘mini tank’ from aircraft in first airborne test trial",
+      "description_en": "Germany’s airborne forces have successfully tested the airdrop of their ultra-light Wiesel armored vehicle from...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/german-army-drops-wiesel-from-aircraft",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 14:11:34 +0000",
+      "author": "Sujita Sinha",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.252Z",
+      "created_at": "2026-04-16T20:27:08.252Z"
+    },
+    {
+      "id": 4169,
+      "source": "Interesting Engineering",
+      "title_en": "US nuclear firm submits plan for 240 MW small modular reactor to power 1.5 million homes",
+      "description_en": "A Carmel-based nuclear energy company has submitted a regulatory engagement plan for its small modular...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/small-modular-reactor-design-approval",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 14:10:30 +0000",
+      "author": "Prabhat Ranjan Mishra",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.252Z",
+      "created_at": "2026-04-16T20:27:08.252Z"
+    },
+    {
+      "id": 4170,
+      "source": "Interesting Engineering",
+      "title_en": "China turns on largest AI science hub in 2 months, using no US chips at all",
+      "description_en": "China has reportedly switched on its “largest artificial intelligence computing cluster” in Zhengzhou, Henan province,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/china-ai-cluster-expands-to-60000-chips",
+      "image_url": "https://www.youtube.com/embed/0JblSc8esSk",
+      "pub_date": "Thu, 16 Apr 2026 13:59:21 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.252Z",
+      "created_at": "2026-04-16T20:27:08.252Z"
+    },
+    {
+      "id": 4171,
+      "source": "Interesting Engineering",
+      "title_en": "Relic black holes from cosmic ‘bounce’ may be dark matter shaping our Universe",
+      "description_en": "Researchers at the University of Portsmouth in the UK have proposed a cosmic bounce as...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/bounce-new-cosmic-theory-explain-dark-matter",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 13:15:33 +0000",
+      "author": "Ameya Paleja",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.252Z",
+      "created_at": "2026-04-16T20:27:08.252Z"
+    },
+    {
+      "id": 4172,
+      "source": "Interesting Engineering",
+      "title_en": "China releases first detailed map locating seabed minerals in eastern seabed",
+      "description_en": "The race for deep-sea dominance has intensified as China and Japan move to secure underwater...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/chinese-map-identifies-mineral-wealth-in-eastern-seabed",
+      "image_url": "https://www.youtube.com/embed/ojAw9-TGhQg",
+      "pub_date": "Thu, 16 Apr 2026 12:58:48 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.252Z",
+      "created_at": "2026-04-16T20:27:08.252Z"
+    },
+    {
+      "id": 4173,
+      "source": "Futurism",
+      "title_en": "Allbirds Stock Now Crashing as Reality Sets in About Its Delusional AI Pivot",
+      "description_en": "\"The vast majority of times, these things end in tears.\"\nThe post Allbirds Stock Now Crashing as Reality Sets in About Its Delusional AI Pivot appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/allbirds-stock-now-crashing",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/allbirds-stock-now-crashing.jpg?quality=85",
+      "pub_date": "Thu, 16 Apr 2026 16:00:54 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-16T20:27:08.405Z",
+      "created_at": "2026-04-16T20:27:08.405Z"
+    },
+    {
+      "id": 4174,
+      "source": "Futurism",
+      "title_en": "NAACP Sues Elon Over His Noxious AI Data Center",
+      "description_en": "\"All too often, big corporations like xAI treat our communities and families like obstacles to be pushed aside.\"\nThe post NAACP Sues Elon Over His Noxious AI Data Center appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/naacp-sues-xai-elon-musk-jpg",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/naacp-sues-xai-elon-musk.jpg?quality=85",
+      "pub_date": "Thu, 16 Apr 2026 15:14:46 -0400",
+      "author": "Joe Wilkins",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://futurism.com/category/elon-musk"
+          }
+        },
+        {
+          "_": "Environment",
+          "$": {
+            "domain": "https://futurism.com/category/environment"
+          }
+        },
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        },
+        {
+          "_": "Pollution",
+          "$": {
+            "domain": "https://futurism.com/category/pollution"
+          }
+        },
+        {
+          "_": "Science & Energy",
+          "$": {
+            "domain": "https://futurism.com/category/science-energy"
+          }
+        },
+        {
+          "_": "The Industrialists",
+          "$": {
+            "domain": "https://futurism.com/category/the-industrialists"
+          }
+        },
+        {
+          "_": "xAI",
+          "$": {
+            "domain": "https://futurism.com/category/xai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-16T20:27:08.405Z",
+      "created_at": "2026-04-16T20:27:08.405Z"
+    },
+    {
+      "id": 4175,
+      "source": "Futurism",
+      "title_en": "More Than Half of Men Aged 18 to 49 Have Already Fallen Into Online Sports Betting",
+      "description_en": "It's turning into a massive problem.\nThe post More Than Half of Men Aged 18 to 49 Have Already Fallen Into Online Sports Betting appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/future-society/men-aged-18-to-49-hooked-online-sports-betting",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/men-aged-18-to-49-hooked-online-sports-betting.jpg?quality=85",
+      "pub_date": "Thu, 16 Apr 2026 14:01:00 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        },
+        {
+          "_": "Finance",
+          "$": {
+            "domain": "https://futurism.com/category/finance"
+          }
+        },
+        {
+          "_": "Investing",
+          "$": {
+            "domain": "https://futurism.com/category/investing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.405Z",
+      "created_at": "2026-04-16T20:27:08.405Z"
+    },
+    {
+      "id": 4176,
+      "source": "Futurism",
+      "title_en": "Top Security Experts Alarmed by Power of Anthropic’s New Hacker AI",
+      "description_en": "\"Within hours of getting the model, we knew it was different.\"\nThe post Top Security Experts Alarmed by Power of Anthropic’s New Hacker AI appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/security-experts-alarmed-anthropic-mythos",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/security-experts-alarmed-anthropic-mythos.jpg?quality=85",
+      "pub_date": "Thu, 16 Apr 2026 13:13:42 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://futurism.com/category/anthropic"
+          }
+        },
+        {
+          "_": "Cybersecurity",
+          "$": {
+            "domain": "https://futurism.com/category/cybersecurity"
+          }
+        },
+        {
+          "_": "Data Privacy",
+          "$": {
+            "domain": "https://futurism.com/category/data-privacy"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        },
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        },
+        {
+          "_": "Hacking",
+          "$": {
+            "domain": "https://futurism.com/category/hacking"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.406Z",
+      "created_at": "2026-04-16T20:27:08.406Z"
+    },
+    {
+      "id": 4177,
+      "source": "Futurism",
+      "title_en": "Teens Alarmed at What AI Is Doing to Their Minds",
+      "description_en": "\"I want to have my normal brain back.\"\nThe post Teens Alarmed at What AI Is Doing to Their Minds appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/teens-ai-chatbot-characterai",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/teens-ai-chatbot-characterai.jpg?quality=85",
+      "pub_date": "Thu, 16 Apr 2026 11:52:36 -0400",
+      "author": "Joe Wilkins",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Brain",
+          "$": {
+            "domain": "https://futurism.com/category/brain"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        },
+        {
+          "_": "Health & Medicine",
+          "$": {
+            "domain": "https://futurism.com/category/health-medicine"
+          }
+        },
+        {
+          "_": "Mental Health",
+          "$": {
+            "domain": "https://futurism.com/category/mental-health"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.406Z",
+      "created_at": "2026-04-16T20:27:08.406Z"
+    },
+    {
+      "id": 4178,
+      "source": "Futurism",
+      "title_en": "Video Shows Amazon Delivery Drone Dropping Package Directly Onto Concrete, Smashing Its Delicate Contents",
+      "description_en": "\"It does drop from 10 feet in the air.\"\nThe post Video Shows Amazon Delivery Drone Dropping Package Directly Onto Concrete, Smashing Its Delicate Contents appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/robots-and-machines/amazon-delivery-drone-smash",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/amazon-delivery-drone-smash.jpg?quality=85",
+      "pub_date": "Thu, 16 Apr 2026 10:17:11 -0400",
+      "author": "Joe Wilkins",
+      "categories": [
+        {
+          "_": "Robots and Machines",
+          "$": {
+            "domain": "https://futurism.com/category/robots-and-machines"
+          }
+        },
+        {
+          "_": "Drones",
+          "$": {
+            "domain": "https://futurism.com/category/drones"
+          }
+        },
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        },
+        {
+          "_": "Jeff Bezos",
+          "$": {
+            "domain": "https://futurism.com/category/jeff-bezos"
+          }
+        },
+        {
+          "_": "Robotics",
+          "$": {
+            "domain": "https://futurism.com/category/robotics"
+          }
+        },
+        {
+          "_": "The Industrialists",
+          "$": {
+            "domain": "https://futurism.com/category/the-industrialists"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.406Z",
+      "created_at": "2026-04-16T20:27:08.406Z"
+    },
+    {
+      "id": 4179,
+      "source": "Futurism",
+      "title_en": "What It Really Means That a Failing Shoe Brand “Pivoted to AI” and Its Stock Soared 700 Percent",
+      "description_en": "\"If you don’t believe we are in a bubble you are in denial.\"\nThe post What It Really Means That a Failing Shoe Brand “Pivoted to AI” and Its Stock Soared 700 Percent appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/failing-shoe-brand-pivot-to-ai",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/failing-shoe-brand-pivot-to-ai.jpg?quality=85",
+      "pub_date": "Thu, 16 Apr 2026 09:29:00 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.406Z",
+      "created_at": "2026-04-16T20:27:08.406Z"
+    },
+    {
+      "id": 4180,
+      "source": "Futurism",
+      "title_en": "Starbucks’ Baffling ChatGPT Collab Treats Customers Like Empty, Soulless Venti Cups",
+      "description_en": "\"If you are so paralyzed by an indecision that you need a chatbot to tell you what coffee drink to order, you probably need to check into a rehab.\"\nThe post Starbucks’ Baffling ChatGPT Collab Treats Customers Like Empty, Soulless Venti Cups appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/future-society/starbucks-chatgpt-coffee",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/starbucks-chatgpt-coffee.jpg?quality=85",
+      "pub_date": "Thu, 16 Apr 2026 08:54:38 -0400",
+      "author": "Joe Wilkins",
+      "categories": [
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        },
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Food",
+          "$": {
+            "domain": "https://futurism.com/category/food"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://futurism.com/category/openai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.406Z",
+      "created_at": "2026-04-16T20:27:08.406Z"
+    },
+    {
+      "id": 4181,
+      "source": "Tom's Hardware",
+      "title_en": "AMD Ryzen 9 9950X3D2 appears on Amazon with $1,000 pre-order price — AMD confirms recommended pricing is still set at $899",
+      "description_en": "AMD's Ryzen 9 9950X3D2 has started appearing at retailers, with Amazon currently offering the CPU at $1,000 — $100 above the suggest retail pricing.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-9950x3d2-appears-on-amazon-with-usd1-000-pre-order-price-amd-confirms-recommended-pricing-is-still-set-at-usd899",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ig33KupddRioiajuhCAxGa-1280-80.png",
+      "pub_date": "Thu, 16 Apr 2026 18:24:24 +0000",
+      "author": " Jake Roach ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.459Z",
+      "created_at": "2026-04-16T20:27:08.459Z"
+    },
+    {
+      "id": 4182,
+      "source": "Tom's Hardware",
+      "title_en": "AMD's market cap hits all-time high, Intel hits 25-year high on Agentic AI's insatiable demand for CPUs",
+      "description_en": "Demand for CPUs by AI systems is creating positive sentiment and drives AMD and Intel stocks to their highs.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/amds-market-cap-hits-all-time-high-intel-hits-25-year-high-on-agentic-ais-insatiable-demand-for-cpus",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/b6AWuqaDHTv9ZS4ZpfqZNV-1280-80.png",
+      "pub_date": "Thu, 16 Apr 2026 17:59:24 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.459Z",
+      "created_at": "2026-04-16T20:27:08.459Z"
+    },
+    {
+      "id": 4183,
+      "source": "Tom's Hardware",
+      "title_en": "Quantum photonics roadmap — how Xanadu and PsiQuantum are looking to transfer qubits through beams of light",
+      "description_en": "We analyze the approaches of PsiQuantum and Xanadu, who are each developing their own approaches to quantum photonic communications, with a vision that extends beyond 2029.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/quantum-computing/quantum-photonics-roadmap-how-xanadu-and-psiquantum-are-looking-to-transfer-qubits-through-beams-of-light",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/2ZSi3sgCcy6NVFjospWXTY-1280-80.jpg",
+      "pub_date": "Thu, 16 Apr 2026 17:24:03 +0000",
+      "author": " Francisco Pires ",
+      "categories": [
+        "Quantum Computing",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.459Z",
+      "created_at": "2026-04-16T20:27:08.459Z"
+    },
+    {
+      "id": 4184,
+      "source": "Tom's Hardware",
+      "title_en": "Meta raising Quest headset prices due to AI-driven RAM shortage — Quest 3 to cost $600, Quest 3S $350 from April 19",
+      "description_en": "Meta's Quest 3 lineup was known for offering an excellent value proposition, giving players a powerful, untethered VR experience without breaking the bank. Unfortunately, the AI boom is at the door, and Meta is now raising the price of the Quest 3 by $100, to $600, while the cheaper Quest 3S is getting hiked by $50.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/virtual-reality/meta-raising-quest-headset-prices-due-to-ai-driven-ram-shortage-quest-3-to-cost-usd600-quest-3s-usd350-from-april-19",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/9ouEN6SyhzoYYEBjv5uukb-1280-80.jpg",
+      "pub_date": "Thu, 16 Apr 2026 16:45:39 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "Virtual Reality"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.459Z",
+      "created_at": "2026-04-16T20:27:08.459Z"
+    },
+    {
+      "id": 4185,
+      "source": "Tom's Hardware",
+      "title_en": "Elegoo announces the Jupiter 2 resin 3D printer for $949, early bird price of $849 — new model offers massive print volume but is still physically smaller than previous models",
+      "description_en": "The Jupiter 2 has a massive 14.6-liter build volume and a 14-inch 16K LCD screen that delivers 20 x 26µm XY resolution. It's currently on pre-sale but is expected to arrive after June 30, 2026.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/3d-printing/elegoo-announces-the-jupiter-2-resin-3d-printer-for-usd949-early-bird-price-of-usd849-new-model-offers-massive-print-volume-but-is-still-physically-smaller-than-previous-models",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/VyhcQS4uSyNS7yUvJfCrjV-1280-80.png",
+      "pub_date": "Thu, 16 Apr 2026 15:40:13 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "3D Printing"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.459Z",
+      "created_at": "2026-04-16T20:27:08.459Z"
+    },
+    {
+      "id": 4186,
+      "source": "Tom's Hardware",
+      "title_en": "Pragmata PC performance tested: 18 GPUs take us to the Moon",
+      "description_en": "Capcom's Pragmata blends strategic gunplay and split-second puzzle solving for a fresh and fun adventure on the Moon. Oh, and everything is 3D printed. We tested 18 different GPUs for rasterization, ray tracing, and path-traced performance to find the best way to play.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/pragmata-pc-performance-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/7t3nc9B64Abe2NzCmNQVtj-1280-80.jpg",
+      "pub_date": "Thu, 16 Apr 2026 15:06:07 +0000",
+      "author": " Jeffrey Kampman ",
+      "categories": [
+        "PC Gaming",
+        "Video Games"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.459Z",
+      "created_at": "2026-04-16T20:27:08.459Z"
+    },
+    {
+      "id": 4187,
+      "source": "Tom's Hardware",
+      "title_en": "Chinese fabs import record volumes of US chipmaking equipment via Singapore and Malaysia — homegrown tool makers booked record 2025 revenues as price competition squeezes margins",
+      "description_en": "2025 was a bumper year for Chinese chipmaking equipment firms Naura, AMEC, ACM Research, and Piotech, with each posting record revenues.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/chinese-chip-tool-makers-booked-record-2025-revenues",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/CmM2jsgtAUNEHVoV48L8rh-1280-80.jpg",
+      "pub_date": "Thu, 16 Apr 2026 14:38:01 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.459Z",
+      "created_at": "2026-04-16T20:27:08.459Z"
+    },
+    {
+      "id": 4188,
+      "source": "Tom's Hardware",
+      "title_en": "Get an entire Lenovo Legion Pro 7i RTX 5090 gaming laptop with OLED screen for $3,199, less than the price of a desktop RTX 5090 graphics card — save $800 while stocks last on this monster machine",
+      "description_en": "Save $800 on this over-the-top RTX 5090 beast. The Lenovo Legion Pro 7i gaming laptop is on sale for $3199.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/get-an-entire-lenovo-legion-pro-7i-rtx-5090-gaming-laptop-with-oled-screen-for-usd3-199-less-than-the-price-of-a-desktop-rtx-5090-graphics-card-save-usd800-while-stocks-last-on-this-monster-machine",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/9z5H3Za5pk7hw6YhNks49H-1280-80.jpg",
+      "pub_date": "Thu, 16 Apr 2026 14:21:06 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "Gaming Laptops",
+        "Laptops"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.459Z",
+      "created_at": "2026-04-16T20:27:08.459Z"
+    },
+    {
+      "id": 4189,
+      "source": "Tom's Hardware",
+      "title_en": "US appeals court restarts $3 billion patent infringement lawsuit against Intel — VLSI case from 2017 returns after court sets aside 2024 decision",
+      "description_en": "The U.S. Court of Appeals determines $3 billion VLSI lawsuit was not suitable for summary judgment and must instead be evaluated by a jury, so it must return to a district court for proceedings.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/us-appeals-court-restarts-usd3-billion-patent-infringement-lawsuit-against-intel-vlsi-case-from-2017-returns-after-court-sets-aside-2024-decision",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/3qAuWorrwTksrwq4GhoeEL-1280-80.png",
+      "pub_date": "Thu, 16 Apr 2026 13:19:45 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.459Z",
+      "created_at": "2026-04-16T20:27:08.459Z"
+    },
+    {
+      "id": 4190,
+      "source": "Tom's Hardware",
+      "title_en": "Two US citizens get combined 16 years in prison for running North Korean laptop farms — fake remote IT work scheme netted DPRK $5 million in around three years",
+      "description_en": "The Department of Justice announced the sentencing of the U.S. nationals that have been convicted of running laptop farms that allowed North Korean workers to pose as American residents and work at American tech firms.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/two-us-citizens-get-combined-18-years-in-prison-for-running-north-korean-laptop-farms-fake-remote-it-work-scheme-netted-dprk-usd5-million-in-around-three-years",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/dZSRQuQD6Jh5UuAEL6g6b7-1280-80.jpg",
+      "pub_date": "Thu, 16 Apr 2026 13:05:51 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.459Z",
+      "created_at": "2026-04-16T20:27:08.459Z"
+    },
+    {
+      "id": 4191,
+      "source": "Tom's Hardware",
+      "title_en": "Intel launches Wildcat Lake as Core Series 3 for value laptops and edge systems — six consumer SKUs built on 18A promise 'all-day' battery life",
+      "description_en": "Intel has today launched its Core Series 3 mobile processors, confirming the official branding for the silicon tracked under the Wildcat Lake codename since late 2024.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/intel-launches-wildcat-lake-as-core-series-3",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/TxzciaVarc4gnHYC5t9dy-1280-80.png",
+      "pub_date": "Thu, 16 Apr 2026 13:00:00 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.459Z",
+      "created_at": "2026-04-16T20:27:08.459Z"
+    },
+    {
+      "id": 4192,
+      "source": "Tom's Hardware",
+      "title_en": "Legendary Qualcomm, Apple, and Nuvia alumni form new CPU startup — Nuvacore promises to 'rewrite the rules of silicon'",
+      "description_en": "Ex-Apple, ex-Nuvia CPU designers Gerard Williams, John Bruno, and Ram Srinivasan establish Nuvacore startup to develop clean-sheet CPUs for always-on compute-intensive AI workloads.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/legendary-qualcomm-apple-and-nuvia-alumni-form-new-cpu-startup-nuvacore-promises-to-rewrite-the-rules-of-silicon",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/zyapoKvHAoauB9urfe6pYB-1280-80.jpg",
+      "pub_date": "Thu, 16 Apr 2026 12:49:53 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.459Z",
+      "created_at": "2026-04-16T20:27:08.459Z"
+    },
+    {
+      "id": 4193,
+      "source": "Tom's Hardware",
+      "title_en": "Bambu updates its 3D printers to print unique hues or gradients using two or three filaments — company acknowledges OrcaSlicer-FullSpectrum fork as the basis for the color prediction part of the new feature",
+      "description_en": "Bambu Studio V2.5.3 gets a Mixed Filament feature that lets you combine two to three different filament colors to get a new, unique one. It also comes with a gradient feature to allow a smooth transition between different colors on a single plane.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/3d-printing/bambu-updates-its-3d-printers-to-print-unique-hues-or-gradients-using-two-or-three-filaments-company-acknowledges-orcaslicer-fullspectrum-fork-as-the-basis-for-the-color-prediction-part-of-the-new-feature",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ukKxCx76uDYSccqqRgMma6-1280-80.png",
+      "pub_date": "Thu, 16 Apr 2026 12:20:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "3D Printing"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.459Z",
+      "created_at": "2026-04-16T20:27:08.459Z"
+    },
+    {
+      "id": 4194,
+      "source": "Tom's Hardware",
+      "title_en": "Score 64GB of G.Skill DDR5 and a 1TB 990 Pro for an insane $441 in this Newegg bundle — 9800X3D and X870E motherboard also comes with a free AIO, just $1,299 to start an AM5 gaming build",
+      "description_en": "Newegg's latest combo bundle lets you pay $1299.99 for 64GB of G.Skill DDR5-6000 RAM, Samsung 1TB 990 Pro SSD, Ryzen 7 9800X3D CPU, and Asus RoG Strix X870E-E Gaming WiFi Motherboard.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/score-64gb-of-g-skill-ddr5-and-a-1tb-990-pro-for-an-insane-usd441-in-this-newegg-bundle-9800x3d-and-x870e-motherboard-also-comes-with-a-free-aio-just-usd1-299-to-start-an-am5-gaming-build",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/C7EnPk2zcaoKnF4m4ygGih-1280-80.jpg",
+      "pub_date": "Thu, 16 Apr 2026 12:08:07 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.459Z",
+      "created_at": "2026-04-16T20:27:08.459Z"
+    },
+    {
+      "id": 4195,
+      "source": "Tom's Hardware",
+      "title_en": "Asus TUF Gaming A14 (2026) review: Big CPU power in a mispriced gaming laptop",
+      "description_en": "An impressively powerful CPU makes the TUF Gaming A14 a strong productivity machine, but underwhelming gaming performance undermines its value as a gaming laptop.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/asus-tuf-gaming-a14-2026-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ZWSWCjMzDMxNF9Pc9MgTQn-1280-80.jpg",
+      "pub_date": "Thu, 16 Apr 2026 12:00:00 +0000",
+      "author": " Charles Jefferies ",
+      "categories": [
+        "Gaming Laptops",
+        "Laptops"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.459Z",
+      "created_at": "2026-04-16T20:27:08.459Z"
+    },
+    {
+      "id": 4196,
+      "source": "Tom's Hardware",
+      "title_en": "Broadcom to supply Meta with custom silicon through 2029 — Broadom CEO Hock Tan departs Meta's board",
+      "description_en": "Broadcom inks deal with Meta to supply multi-GW of custom MTIA silicon through 2029, but Hock Tan will leave Meta's board.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/broadcom-to-supply-meta-with-custom-silicon-through-2029-broadom-ceo-hock-tan-departs-metas-board",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/DfaE9fsZHag86aYX3hWMgn-1280-80.jpg",
+      "pub_date": "Thu, 16 Apr 2026 12:00:00 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.459Z",
+      "created_at": "2026-04-16T20:27:08.459Z"
+    },
+    {
+      "id": 4197,
+      "source": "Tom's Hardware",
+      "title_en": "Anonymous perps behind 86 million files scraped from Spotify hit with $322 million court judgement — Anna's Archive case presents intriguing precedent for AI training",
+      "description_en": "A U.S. federal judge on Tuesday awarded Spotify and the three major labels $322 million in a default judgment against Anna's Archive.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/annas-archive-fined-322-million",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/8adstVGUpVSZky4qZeP5XE-1280-80.jpg",
+      "pub_date": "Thu, 16 Apr 2026 11:40:00 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.459Z",
+      "created_at": "2026-04-16T20:27:08.459Z"
+    },
+    {
+      "id": 4198,
+      "source": "Tom's Hardware",
+      "title_en": "Non-functioning counterfeit Samsung 990 Pro SSDs are circulating in Europe — Despite convincing packaging, blue PCB easily gives away the dupe",
+      "description_en": "In Austria, a buyer has received two Samsung 990 Pro clones that don't function.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ssds/non-functioning-counterfeit-samsung-990-pro-ssds-are-circulating-in-europe-despite-convincing-packaging-blue-pcb-easily-gives-away-the-dupe",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/CKWohzazwjpkL5j9bxg8hb-1280-80.jpg",
+      "pub_date": "Thu, 16 Apr 2026 11:20:00 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "SSDs",
+        "PC Components",
+        "Storage"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.459Z",
+      "created_at": "2026-04-16T20:27:08.459Z"
+    },
+    {
+      "id": 4199,
+      "source": "Tom's Hardware",
+      "title_en": "Oklahoma farmer arrested and jailed for trespassing during AI data center town hall — removed by officers after going a few seconds over allotted speaking time, trying to hand paperwork to counselors",
+      "description_en": "Darren Blanchard, a farmer from Tulsa, Oklahoma, was arrested for going over the time limit during a town hall meeting to discuss residents' concerns about a potential data center project in the area.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/oklahoma-farmer-arrested-and-jailed-for-trespassing-during-ai-data-center-town-hall-removed-by-officers-after-going-a-few-seconds-over-allotted-speaking-time-trying-to-hand-paperwork-to-counselors",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/uzVeqJt6KLQ3gWDAiBkFCL-1280-80.png",
+      "pub_date": "Thu, 16 Apr 2026 11:10:48 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Big Tech",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.459Z",
+      "created_at": "2026-04-16T20:27:08.459Z"
+    },
+    {
+      "id": 4200,
+      "source": "Tom's Hardware",
+      "title_en": "Virginia voter support for new data centers collapses from 69% in 2023 to 35% in new poll — Multi-gigawatt, 37-building Digital Gateway project abandoned",
+      "description_en": "Just 35% of Virginia voters now say they would be comfortable with a new data center going up in their community, down from 69% in 2023.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/virginia-voter-support-for-new-data-centers-collapses-to-35-percent",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/WtTnjkyz3pENxz2e4KNpq4-1280-80.png",
+      "pub_date": "Thu, 16 Apr 2026 11:00:00 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.459Z",
+      "created_at": "2026-04-16T20:27:08.459Z"
+    },
+    {
+      "id": 4201,
+      "source": "CNBC Tech",
+      "title_en": "Here's our monthly update on all 31 portfolio stocks, including 3 on the buy list",
+      "description_en": "Jim Cramer gave his latest thinking on all 31 stocks owned by the CNBC Investing Club, including Nvidia, Apple, and Microsoft.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/16/heres-our-april-update-on-all-31-portfolio-stocks-including-4-buys.html",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 19:14:37 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-16T20:27:08.596Z",
+      "created_at": "2026-04-16T20:27:08.596Z"
+    },
+    {
+      "id": 4202,
+      "source": "CNBC Tech",
+      "title_en": "Google will let users connect their photos to the Gemini chatbot and Nano Banana",
+      "description_en": "Linking Gemini directly to a user's photo library represents a bigger step in the AI chatbot link to private information.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/16/google-photo-gemini-chatbot-nano-banana.html",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 19:53:52 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-16T20:27:08.596Z",
+      "created_at": "2026-04-16T20:27:08.596Z"
+    },
+    {
+      "id": 4203,
+      "source": "CNBC Tech",
+      "title_en": "Quantum stocks on pace for a massive week after Nvidia debuts AI models to boost the tech",
+      "description_en": "Hyperscalers Alphabet, Amazon and Microsoft have been investing heavily in chips to power quantum computing",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/16/quantum-stocks-nvidia-ai-models.html",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 20:15:50 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-16T20:27:08.597Z",
+      "created_at": "2026-04-16T20:27:08.597Z"
+    },
+    {
+      "id": 4204,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic rolls out Claude Opus 4.7, an AI model that is less risky than Mythos",
+      "description_en": "Claude Mythos Preview is Anthropic's most powerful AI model that excels at identifying weaknesses and security flaws within software.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/16/anthropic-claude-opus-4-7-model-mythos.html",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 16:25:45 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.597Z",
+      "created_at": "2026-04-16T20:27:08.597Z"
+    },
+    {
+      "id": 4205,
+      "source": "CNBC Tech",
+      "title_en": "TSMC and ASML post-earnings stock moves could be a sign of what's to come from chip companies",
+      "description_en": "Two of the biggest chipmakers, TSMC and ASML, failed to catch major tail winds from strong earnings. It could be a bellwether for the chip industry as a whole.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/16/taiwan-semi-tsm-asml-stock-earnings-ai-chips.html",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 18:03:42 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.597Z",
+      "created_at": "2026-04-16T20:27:08.597Z"
+    },
+    {
+      "id": 4206,
+      "source": "CNBC Tech",
+      "title_en": "S&P 500's all-time high, investigators visit the Fed, Allbirds' rebrand and more in Morning Squawk",
+      "description_en": "Here are five key things investors need to know to start the trading day.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/16/5-things-to-know-before-the-market-opens.html",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 12:27:44 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.597Z",
+      "created_at": "2026-04-16T20:27:08.597Z"
+    },
+    {
+      "id": 4207,
+      "source": "CNBC Tech",
+      "title_en": "Sens. Warren and Blumenthal investigate NLRB decision to drop charges against SpaceX for retaliatory firings",
+      "description_en": "Sens. Elizabeth Warren, D-Mass., and Richard Blumenthal, D-Conn., are investigating the NLRB after it dropped charges against Elon Musk's SpaceX in February over retaliatory firings.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/16/sens-warren-and-blumenthal-investigate-nlrb-decision-to-drop-charges-against-spacex-for-retaliatory-firings.html",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 12:10:36 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:08.597Z",
+      "created_at": "2026-04-16T20:27:08.597Z"
+    },
+    {
+      "id": 4208,
+      "source": "Product Hunt",
+      "title_en": "Ignite - English Drill",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/ignite-english-drill",
+      "image_url": null,
+      "pub_date": "2026-03-29T13:59:02.000Z",
+      "author": "Takashi Motoshima",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-16T20:27:09.117Z",
+      "created_at": "2026-04-16T20:27:09.117Z"
     }
   ]
 }
