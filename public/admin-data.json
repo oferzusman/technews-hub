@@ -1,9 +1,9 @@
 {
-  "total": 4208,
+  "total": 4210,
   "translated": 4101,
-  "untranslated": 107,
-  "today": 179,
-  "week": 1268,
+  "untranslated": 109,
+  "today": 181,
+  "week": 1270,
   "sources": [
     {
       "name": "Pypi.org",
@@ -49,7 +49,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 128,
+      "total": 129,
       "translated": 125,
       "lastDate": "Wed, 15 Apr 2026 23:03:00 GMT"
     },
@@ -67,9 +67,9 @@
     },
     {
       "name": "The Register",
-      "total": 99,
+      "total": 100,
       "translated": 95,
-      "lastDate": "2026-04-16T18:48:25.000Z"
+      "lastDate": "2026-04-16T20:25:43.000Z"
     },
     {
       "name": "TechCrunch AI",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-16T21:03:07.741Z"
+  "generatedAt": "2026-04-16T21:58:54.013Z"
 }
