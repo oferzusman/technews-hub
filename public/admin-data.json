@@ -1,9 +1,9 @@
 {
-  "total": 4041,
+  "total": 4050,
   "translated": 4029,
-  "untranslated": 12,
-  "today": 12,
-  "week": 1101,
+  "untranslated": 21,
+  "today": 21,
+  "week": 1110,
   "sources": [
     {
       "name": "Pypi.org",
@@ -37,7 +37,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 141,
+      "total": 144,
       "translated": 136,
       "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 107,
+      "total": 108,
       "translated": 105,
       "lastDate": "Wed, 15 Apr 2026 23:58:12 GMT"
     },
@@ -84,16 +84,16 @@
       "lastDate": "Wed, 15 Apr 2026 19:28:36 +0000"
     },
     {
+      "name": "The Decoder",
+      "total": 80,
+      "translated": 77,
+      "lastDate": "Wed, 15 Apr 2026 18:39:44 +0000"
+    },
+    {
       "name": "The Times of India",
       "total": 79,
       "translated": 79,
       "lastDate": "2026-04-09T07:23:47Z"
-    },
-    {
-      "name": "The Decoder",
-      "total": 77,
-      "translated": 77,
-      "lastDate": "Wed, 15 Apr 2026 14:26:04 +0000"
     },
     {
       "name": "GlobeNewswire",
@@ -121,7 +121,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 46,
+      "total": 48,
       "translated": 46,
       "lastDate": "Wed, 15 Apr 2026 17:21:06 +0000"
     },
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-16T05:51:00.973Z"
+  "generatedAt": "2026-04-16T07:27:57.710Z"
 }
