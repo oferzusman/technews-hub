@@ -81036,7 +81036,7 @@
         "FTC"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-16T20:27:02.699Z",
       "created_at": "2026-04-16T20:27:02.699Z"
     },
@@ -81060,7 +81060,7 @@
         "software development"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-16T20:27:02.699Z",
       "created_at": "2026-04-16T20:27:02.699Z"
     },
@@ -81314,7 +81314,7 @@
         "In Brief"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-16T20:27:02.798Z",
       "created_at": "2026-04-16T20:27:02.798Z"
     },
@@ -82032,7 +82032,7 @@
       "author": "Tobias Mann",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-16T20:27:04.709Z",
       "created_at": "2026-04-16T20:27:04.709Z"
     },
@@ -83440,6 +83440,40 @@
       "priority": "batch",
       "fetchedAt": "2026-04-16T20:27:09.117Z",
       "created_at": "2026-04-16T20:27:09.117Z"
+    },
+    {
+      "id": 4209,
+      "source": "The Register",
+      "title_en": "Anthropic squeezes enterprises by ejecting bundled tokens from seat deal",
+      "description_en": "Large organizations pushed toward metered pricing More bad news for Claude users. Anthropic has revised its seat-based pricing for enterprise customers, shifting them to a new pricing plan upon contract renewal.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/anthropic_ejects_bundled_tokens_enterprise/",
+      "image_url": null,
+      "pub_date": "2026-04-16T20:25:43.000Z",
+      "author": "Thomas Claburn",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-16T21:10:45.814Z",
+      "created_at": "2026-04-16T21:10:45.814Z"
+    },
+    {
+      "id": 4210,
+      "source": "New Atlas",
+      "title_en": "Forget scrubbing in the sink – this is a full-on shoe-washer and dryer",
+      "description_en": "Washing shoes by hand is one of those chores that feels almost punishing: it takes time, effort, patience, and it’s not even that efficient. Tossing shoes into a regular washing machine is always a gamble. They will definitely come out clean, but there is also a good chance they will be damaged. Specialized footwear washers already exist on the market, but most of them only handle the washing part, leaving you to wait hours for your shoes to dry. Casaboom's Midishi M1 aims to solve all of these ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/around-the-home/midishi-m1-shoe-washer-dryer/",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 21:00:00 GMT",
+      "author": "Maryna Holovnova",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-16T21:10:45.824Z",
+      "created_at": "2026-04-16T21:10:45.824Z"
     }
   ]
 }
