@@ -1,9 +1,9 @@
 {
-  "total": 4029,
+  "total": 4041,
   "translated": 4029,
-  "untranslated": 0,
-  "today": 0,
-  "week": 1089,
+  "untranslated": 12,
+  "today": 12,
+  "week": 1101,
   "sources": [
     {
       "name": "Pypi.org",
@@ -37,27 +37,27 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 136,
+      "total": 141,
       "translated": 136,
-      "lastDate": "Wed, 15 Apr 2026 20:17:00 +0000"
+      "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 122,
+      "total": 124,
       "translated": 122,
-      "lastDate": "Wed, 15 Apr 2026 20:30:00 GMT"
+      "lastDate": "Wed, 15 Apr 2026 23:03:00 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 120,
+      "total": 122,
       "translated": 120,
-      "lastDate": "Wed, 15 Apr 2026 20:36:28 +0000"
+      "lastDate": "Wed, 15 Apr 2026 22:25:30 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 105,
+      "total": 107,
       "translated": 105,
-      "lastDate": "Wed, 15 Apr 2026 22:29:35 GMT"
+      "lastDate": "Wed, 15 Apr 2026 23:58:12 GMT"
     },
     {
       "name": "Onefootball.com",
@@ -103,7 +103,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 65,
+      "total": 66,
       "translated": 65,
       "lastDate": "Wed, 15 Apr 2026 21:00:47 GMT"
     },
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-16T03:35:48.356Z"
+  "generatedAt": "2026-04-16T05:51:00.973Z"
 }
