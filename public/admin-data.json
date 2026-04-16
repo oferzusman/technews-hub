@@ -1,9 +1,9 @@
 {
-  "total": 4089,
+  "total": 4092,
   "translated": 4029,
-  "untranslated": 60,
-  "today": 60,
-  "week": 1149,
+  "untranslated": 63,
+  "today": 63,
+  "week": 1152,
   "sources": [
     {
       "name": "Pypi.org",
@@ -37,7 +37,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 144,
+      "total": 145,
       "translated": 136,
       "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 108,
+      "total": 109,
       "translated": 105,
       "lastDate": "Wed, 15 Apr 2026 23:58:12 GMT"
     },
@@ -114,16 +114,16 @@
       "lastDate": "2026-04-09T06:45:21Z"
     },
     {
+      "name": "MarkTechPost",
+      "total": 49,
+      "translated": 46,
+      "lastDate": "Wed, 15 Apr 2026 17:21:06 +0000"
+    },
+    {
       "name": "The Verge AI",
       "total": 48,
       "translated": 48,
       "lastDate": "2026-04-15T19:50:31.000Z"
-    },
-    {
-      "name": "MarkTechPost",
-      "total": 48,
-      "translated": 46,
-      "lastDate": "Wed, 15 Apr 2026 17:21:06 +0000"
     },
     {
       "name": "MIT Technology Review",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-16T09:04:20.093Z"
+  "generatedAt": "2026-04-16T10:41:08.285Z"
 }
