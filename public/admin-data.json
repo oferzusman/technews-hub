@@ -1,9 +1,9 @@
 {
-  "total": 4101,
+  "total": 4208,
   "translated": 4101,
-  "untranslated": 0,
-  "today": 72,
-  "week": 1161,
+  "untranslated": 107,
+  "today": 179,
+  "week": 1268,
   "sources": [
     {
       "name": "Pypi.org",
@@ -13,49 +13,49 @@
     },
     {
       "name": "Product Hunt",
-      "total": 356,
+      "total": 357,
       "translated": 356,
       "lastDate": "2026-04-16T06:59:06.000Z"
     },
     {
       "name": "OpenAI Blog",
-      "total": 260,
+      "total": 262,
       "translated": 260,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
       "name": "Tom's Hardware",
-      "total": 181,
+      "total": 201,
       "translated": 181,
       "lastDate": "Wed, 15 Apr 2026 16:27:58 +0000"
     },
     {
       "name": "Futurism",
-      "total": 171,
+      "total": 179,
       "translated": 171,
       "lastDate": "Wed, 15 Apr 2026 16:15:26 -0400"
     },
     {
       "name": "Interesting Engineering",
-      "total": 146,
+      "total": 156,
       "translated": 146,
       "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
     {
-      "name": "New Atlas",
-      "total": 125,
-      "translated": 125,
-      "lastDate": "Wed, 15 Apr 2026 23:03:00 GMT"
-    },
-    {
       "name": "Ars Technica",
-      "total": 122,
+      "total": 132,
       "translated": 122,
       "lastDate": "Wed, 15 Apr 2026 22:25:30 +0000"
     },
     {
+      "name": "New Atlas",
+      "total": 128,
+      "translated": 125,
+      "lastDate": "Wed, 15 Apr 2026 23:03:00 GMT"
+    },
+    {
       "name": "CNBC Tech",
-      "total": 109,
+      "total": 116,
       "translated": 109,
       "lastDate": "Wed, 15 Apr 2026 23:58:12 GMT"
     },
@@ -67,25 +67,25 @@
     },
     {
       "name": "The Register",
-      "total": 95,
+      "total": 99,
       "translated": 95,
-      "lastDate": "2026-04-15T21:33:35.000Z"
-    },
-    {
-      "name": "Hugging Face Blog",
-      "total": 91,
-      "translated": 91,
-      "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
+      "lastDate": "2026-04-16T18:48:25.000Z"
     },
     {
       "name": "TechCrunch AI",
-      "total": 86,
+      "total": 98,
       "translated": 86,
       "lastDate": "Wed, 15 Apr 2026 19:28:36 +0000"
     },
     {
+      "name": "Hugging Face Blog",
+      "total": 93,
+      "translated": 91,
+      "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
+    },
+    {
       "name": "The Decoder",
-      "total": 80,
+      "total": 89,
       "translated": 80,
       "lastDate": "Wed, 15 Apr 2026 18:39:44 +0000"
     },
@@ -103,9 +103,15 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 67,
+      "total": 71,
       "translated": 67,
       "lastDate": "Wed, 15 Apr 2026 21:00:47 GMT"
+    },
+    {
+      "name": "The Verge AI",
+      "total": 55,
+      "translated": 48,
+      "lastDate": "2026-04-16T17:00:00.000Z"
     },
     {
       "name": "Github.com",
@@ -120,14 +126,8 @@
       "lastDate": "Wed, 15 Apr 2026 17:21:06 +0000"
     },
     {
-      "name": "The Verge AI",
-      "total": 48,
-      "translated": 48,
-      "lastDate": "2026-04-15T19:50:31.000Z"
-    },
-    {
       "name": "MIT Technology Review",
-      "total": 39,
+      "total": 43,
       "translated": 39,
       "lastDate": "Wed, 15 Apr 2026 12:10:00 +0000"
     },
@@ -139,7 +139,7 @@
     },
     {
       "name": "AI News",
-      "total": 32,
+      "total": 34,
       "translated": 32,
       "lastDate": "Wed, 15 Apr 2026 16:28:19 +0000"
     },
@@ -156,6 +156,12 @@
       "lastDate": "2026-04-09T04:35:19Z"
     },
     {
+      "name": "Google AI Blog",
+      "total": 25,
+      "translated": 23,
+      "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
+    },
+    {
       "name": "Ibtimes.com.au",
       "total": 25,
       "translated": 25,
@@ -166,12 +172,6 @@
       "total": 24,
       "translated": 24,
       "lastDate": "2026-04-09T02:20:06Z"
-    },
-    {
-      "name": "Google AI Blog",
-      "total": 23,
-      "translated": 23,
-      "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
       "name": "Towards Data Science",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-16T20:06:20.729Z"
+  "generatedAt": "2026-04-16T21:03:07.741Z"
 }
