@@ -1,7 +1,7 @@
 {
   "total": 4101,
-  "translated": 4079,
-  "untranslated": 22,
+  "translated": 4101,
+  "untranslated": 0,
   "today": 72,
   "week": 1161,
   "sources": [
@@ -14,7 +14,7 @@
     {
       "name": "Product Hunt",
       "total": 356,
-      "translated": 334,
+      "translated": 356,
       "lastDate": "2026-04-16T06:59:06.000Z"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-16T12:49:35.618Z"
+  "generatedAt": "2026-04-16T14:53:00.595Z"
 }
