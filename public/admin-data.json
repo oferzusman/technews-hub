@@ -1,9 +1,9 @@
 {
-  "total": 4210,
+  "total": 4222,
   "translated": 4151,
-  "untranslated": 59,
-  "today": 181,
-  "week": 1270,
+  "untranslated": 71,
+  "today": 193,
+  "week": 1282,
   "sources": [
     {
       "name": "Pypi.org",
@@ -37,13 +37,13 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 156,
+      "total": 157,
       "translated": 149,
       "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
     {
       "name": "Ars Technica",
-      "total": 132,
+      "total": 136,
       "translated": 130,
       "lastDate": "Wed, 15 Apr 2026 22:25:30 +0000"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 116,
+      "total": 117,
       "translated": 114,
       "lastDate": "Wed, 15 Apr 2026 23:58:12 GMT"
     },
@@ -67,13 +67,13 @@
     },
     {
       "name": "The Register",
-      "total": 100,
+      "total": 102,
       "translated": 98,
-      "lastDate": "2026-04-16T20:25:43.000Z"
+      "lastDate": "2026-04-16T22:45:37.000Z"
     },
     {
       "name": "TechCrunch AI",
-      "total": 98,
+      "total": 101,
       "translated": 93,
       "lastDate": "Wed, 15 Apr 2026 19:28:36 +0000"
     },
@@ -121,7 +121,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 49,
+      "total": 50,
       "translated": 49,
       "lastDate": "Wed, 15 Apr 2026 17:21:06 +0000"
     },
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-16T22:51:55.206Z"
+  "generatedAt": "2026-04-16T23:37:35.939Z"
 }
