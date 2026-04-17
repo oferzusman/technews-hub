@@ -2422,7 +2422,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 101,
-    "t": "This simulation startup wants to be the Cursor for physical AI\n\nAntioch raised an $8.5 million seed round to create simulation tools for a new generation of robot builders.",
+    "t": "סטארטאפ סימולציה זה רוצה להיות ה-Cursor של ה-AI הפיזי\n\nחברת Antioch גייסה 8.5 מיליון דולר בסבב seed כדי לבנות כלים של סימולציה עבור דור חדש של בוני רובוטים. זה בעצם הכלי שמשנה את המשחק לכל מי שרוצה לעבוד עם robotics ו-physical AI - בדיוק כמו שCursor שינה את חיי המפתחים. במקום לבנות רובוטים בעולם האמיתי והתקדמות איטית, אתה יכול להשתמש בסימולציה כדי לבחון ולהדרך את הרובוטים שלך. מקור: TechCrunch AI",
     "d": "Thu, 16 Apr 2026 12:30:00 +0000",
     "v": 0,
     "l": [
@@ -2446,7 +2446,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 102,
-    "t": "S&P 500's all-time high, investigators visit the Fed, Allbirds' rebrand and more in Morning Squawk\n\nHere are five key things investors need to know to start the trading day.",
+    "t": "S&P 500 מגיע לשיא כל הזמנים, חוקרים בדיקים בבנק הפדרלי, ובניית מחדש של Allbirds ועוד\n\nהשוק הפיננסי עף גבוה כשה-S&P 500 שובר שוב את השיא שלו, בזמן שחוקרים משוטטים בדלתות הבנק הפדרלי. בינתיים, Allbirds מגיעה עם ריברנד שנוצר מחדש למדי. יש כאן 5 דברים שכל משקיע צריך לדעת כדי להתחיל את יום המסחר בחכמה.",
     "d": "Thu, 16 Apr 2026 12:27:44 GMT",
     "v": 0,
     "l": [
@@ -2469,7 +2469,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 103,
-    "t": "Bambu updates its 3D printers to print unique hues or gradients using two or three filaments — company acknowledges OrcaSlicer-FullSpectrum fork as the basis for the color prediction part of the new feature\n\nBambu Studio V2.5.3 gets a Mixed Filament feature that lets you combine two to three different filament colors to get a new, unique one. It also comes with a gradient feature to allow a smooth transition between different colors on a single plane.",
+    "t": "במבו משדרגת את המדפסות התלת-מימד שלה: עכשיו אפשר להדפיס בצבעים ייחודיים וגרדיאנטים עם שני או שלושה חוטי פילמנט\n\nבעדכון Bambu Studio V2.5.3 הגיעה תכונת Mixed Filament שמאפשרת לחלק צבעים שונים של פילמנט ליצירת צבע חדש וייחודי, בתוספת אפשרות גרדיאנט שמעניקה מעבר חלק בין צבעים על אותו המשטח. בנוסף, במבו הכירה בגם לתרומת הקהילה - התכונה התבססה על קוד של OrcaSlicer-FullSpectrum fork.\n\nמקור: Tom's Hardware",
     "d": "Thu, 16 Apr 2026 12:20:00 +0000",
     "v": 0,
     "l": [
@@ -2486,13 +2486,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/ukKxCx76uDYSccqqRgMma6-1280-80.png",
     "source": "Tom's Hardware"
   },
   {
     "id": 104,
-    "t": "Sens. Warren and Blumenthal investigate NLRB decision to drop charges against SpaceX for retaliatory firings\n\nSens. Elizabeth Warren, D-Mass., and Richard Blumenthal, D-Conn., are investigating the NLRB after it dropped charges against Elon Musk's SpaceX in February over retaliatory firings.",
+    "t": "סנטורים וורן וגלומנתל חוקרים החלטת NLRB לסגור התלונות נגד SpaceX על פיטורים תגוביים\n\nהסנטורים דמוקרטים אליזבת וורן וריצ'ארד גלומנתל החלו חקירה נגד ה-NLRB (הוועדה הלאומית ליחסי עבודה) לאחר שהגופה הודיעה בפברואר על סגירת התלונות נגד SpaceX של אילון מאסק בגלל פיטורים תגוביים. המהלך זיהה ויכוח משמעותי סביב כוחה של הוועדה ולשאלות בדבר הגנת זכויות עובדים בחברות טכנולוגיה גדולות.",
     "d": "Thu, 16 Apr 2026 12:10:36 GMT",
     "v": 0,
     "l": [
@@ -2515,7 +2515,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 105,
-    "t": "The Download: cyberscammers’ banking bypasses, and carbon removal troubles\n\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram  Inside a money-laundering center in Cambodia, an employee opens a banking app on his phone. It asks for a photo linked to the…",
+    "t": "ההורדה: התחמוקים של סייבר זוми בבנקים וטרחות הסרת פחמן\n\nבעדכון היום של The Download, אנחנו עוקבים אחרי שתי סוגיות שמטריפות את עולם הטק: אמנם הבנקים משתמשים בביטחון משוכלל, אבל סייבר זוממים כבר מצאו דרכים להקיף אותו בעזרת כלים בלתי חוקיים שמוכרים בטלגרם. בנוסף, כל הפתרונות שלנו להסרת פחמן מהאוויר עדיין רחוקים ממה שצריך כדי להציל את הפלנטה, ועדיין המון שאלות פתוחות.",
     "d": "Thu, 16 Apr 2026 12:10:00 +0000",
     "v": 0,
     "l": [
@@ -2530,9 +2530,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -2540,7 +2538,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 106,
-    "t": "Score 64GB of G.Skill DDR5 and a 1TB 990 Pro for an insane $441 in this Newegg bundle — 9800X3D and X870E motherboard also comes with a free AIO, just $1,299 to start an AM5 gaming build\n\nNewegg's latest combo bundle lets you pay $1299.99 for 64GB of G.Skill DDR5-6000 RAM, Samsung 1TB 990 Pro SSD, Ryzen 7 9800X3D CPU, and Asus RoG Strix X870E-E Gaming WiFi Motherboard.",
+    "t": "עסקה משוגעת ב-Newegg: 64GB DDR5 וSSD של 1TB תמורת $441 בלבד — חבילה שלמה עם 9800X3D וX870E מתחילה מ-$1,299\n\nNewegg הוציאה חבילת משחקים שמטורפת: תמורת $1,299.99 אתם מקבלים את כל מה שצריך לבניית PC גיימינג חזק — Ryzen 7 9800X3D, DDR5-6000 של G.Skill בנפח 64GB, SSD 990 Pro של סמסונג, ומטריצה X870E עם אפילו קולר AIO חינם. זה בדיוק המחיר שבו אתם רוצים להיות כשמחכים לשדרוג של הגיימינג שלכם.",
     "d": "Thu, 16 Apr 2026 12:08:07 +0000",
     "v": 0,
     "l": [
@@ -2563,7 +2561,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 107,
-    "t": "Why having “humans in the loop” in an AI war is an illusion\n\nThe availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ever before in the current conflict with Iran. AI is no longer just helping humans analyze intelligence. It is now an…",
+    "t": "למה \"בני אדם בלולאה\" בזמן מלחמה עם AI היא אשליה\n\nאנתרופיק והפנטגון נמצאים בקרב משפטי על השימוש ב-AI בלוויה צבאית, וגם כל הסיפור הזה התחיל להיות דחוף יותר עם המתחים הנוכחיים עם איראן. AI כבר לא סתם עוזר לאנליסטים להבין מודיעין - זה הופך לעצמו לשחקן פעיל בהחלטות צבאיות, מה שמעלק שאלות חמורות על כמה \"בשליטה אנושית\" זה באמת. MIT Technology Review",
     "d": "Thu, 16 Apr 2026 12:00:00 +0000",
     "v": 0,
     "l": [
@@ -2576,12 +2574,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -2589,7 +2584,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 108,
-    "t": "Asus TUF Gaming A14 (2026) review: Big CPU power in a mispriced gaming laptop\n\nAn impressively powerful CPU makes the TUF Gaming A14 a strong productivity machine, but underwhelming gaming performance undermines its value as a gaming laptop.",
+    "t": "ביקורת Asus TUF Gaming A14 (2026): עוצמת CPU ענקית במחיר שלא משקף את היכולות\n\nהלפטופ החדש של אסוס מגיע עם CPU חזק מרשים שהופך אותו למכונה פרודוקטיביות מעולה, אבל הביצועים בגיימינג די מאכזבים בשביל מחיר שמציע עצמו כמכונת משחקים. בקיצור - אם אתם מתכננים עבודה כבדה וקצת גיימינג בצד, זה לא רע, אבל לא בדיוק זה מה שאסוס מנסה למכור לכם.",
     "d": "Thu, 16 Apr 2026 12:00:00 +0000",
     "v": 0,
     "l": [
@@ -2612,7 +2607,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 109,
-    "t": "Broadcom to supply Meta with custom silicon through 2029 — Broadom CEO Hock Tan departs Meta's board\n\nBroadcom inks deal with Meta to supply multi-GW of custom MTIA silicon through 2029, but Hock Tan will leave Meta's board.",
+    "t": "Broadcom תספק למטא שבבים מותאמים עד 2029 — מנכ\"ל Broadcom עוזב את דירקטוריון מטא\n\nמטא חתמה על עסקה ענקית עם Broadcom לספק מגה-וואטים של שבבי MTIA מותאמים אישית עד סוף השנה ולכמה שנים קדימה, אבל הסיפור גם כולל פיתול דרמטי - מנכ\"ל Broadcom Hock Tan משאיר את כיסאו בדירקטוריון מטא. זה עוד הוכחה לכמה אני מתומכת מטא בבניית infrastructure משלה, כי היא מתאימה עכשיו שבבים ספציפיים שיתרגמו את ה-AI שלה בדיוק כמו שהם צריכים.",
     "d": "Thu, 16 Apr 2026 12:00:00 +0000",
     "v": 0,
     "l": [
@@ -2625,12 +2620,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/DfaE9fsZHag86aYX3hWMgn-1280-80.jpg",
@@ -2638,7 +2630,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 110,
-    "t": "Anonymous perps behind 86 million files scraped from Spotify hit with $322 million court judgement — Anna's Archive case presents intriguing precedent for AI training\n\nA U.S. federal judge on Tuesday awarded Spotify and the three major labels $322 million in a default judgment against Anna's Archive.",
+    "t": "בית משפט בארה״ב הטיל קנס של 322 מיליון דולר על מפיץ קבצים של Spotify — תיק Anna's Archive עלול לשנות את הכללים לאימון AI\n\nבית משפט פדרלי בארה״ב הכריע בעד Spotify ושלוש חברות התקליטים הגדולות, והטיל קנס עצום של 322 מיליון דולר על האתר Anna's Archive שגנב 86 מיליון קבצים. המקרה הזה חשוב לא רק בגלל הסכום הכבד, אלא כי הוא עלול להשפיע על הדיון הגדול סביב זכויות יוצרים ושימוש בנתונים לאימון מודלי AI.",
     "d": "Thu, 16 Apr 2026 11:40:00 +0000",
     "v": 0,
     "l": [
@@ -2661,7 +2653,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 111,
-    "t": "OpenAI Agents SDK improves governance with sandbox execution\n\nOpenAI is introducing sandbox execution that allows enterprise governance teams to deploy automated workflows with controlled risk. Teams taking systems from prototype to production have faced difficult architectural compromises regarding where their operations occurred. Using model-agnostic frameworks offered initial flexibility but failed to fully utilise the capabilities of frontier models. Model-provider SDKs remained closer to […]\nThe post OpenAI Agents SDK improves governance with sandbox ",
+    "t": "OpenAI Agents SDK משפר שלטון ניהול עם Sandbox Execution\n\nOpenAI משיקה סביבת sandbox שמאפשרת לצוותי governance בחברות להפעיל workflows אוטומטיים עם בקרה על הסיכונים. הבעיה הגדולה הייתה שצוותים שרצו להעביר מערכות מ-prototype לייצור נאלצו לבחור בין גמישות לביצועים - עכשיו ה-SDK החדש של OpenAI מאפשר להם להשתמש בכוחם המלא של frontier models תוך שמירה על בקרה מלאה על הסביבה שבה הם רצים.",
     "d": "Thu, 16 Apr 2026 11:20:00 +0000",
     "v": 0,
     "l": [
@@ -2688,7 +2680,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 112,
-    "t": "Non-functioning counterfeit Samsung 990 Pro SSDs are circulating in Europe — Despite convincing packaging, blue PCB easily gives away the dupe\n\nIn Austria, a buyer has received two Samsung 990 Pro clones that don't function.",
+    "t": "כונני SSD זיופים של Samsung 990 Pro לא תופסים בירופה — האריזה משכנעת אבל ה-PCB הכחול מוגיד עליהם\n\nקונה באוסטריה קיבל שני כונני Samsung 990 Pro מזויפים שלא עובדים בכלל. זו עוד הוכחה שצריך להיזהר כשקונים חומרה באינטרנט, כי הזיופים של ימינו הם כבר ממש מוכשרים - אבל למי שיודע מה לחפש, ה-PCB הכחול של התחליפים נוטה לתת להם.",
     "d": "Thu, 16 Apr 2026 11:20:00 +0000",
     "v": 0,
     "l": [
@@ -2711,7 +2703,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 113,
-    "t": "Oklahoma farmer arrested and jailed for trespassing during AI data center town hall — removed by officers after going a few seconds over allotted speaking time, trying to hand paperwork to counselors\n\nDarren Blanchard, a farmer from Tulsa, Oklahoma, was arrested for going over the time limit during a town hall meeting to discuss residents' concerns about a potential data center project in the area.",
+    "t": "חקלאי מאוקלהומה נעצר על סף הדברים - חציו רק כמה שניות יותר מידי בדיון על מרכז נתונים AI\n\nדארן בלנצ'ארד, חקלאי מטולסה באוקלהומה, הושלך לכלא אחרי שחרג מזמן הדיבור שהוקצה לו בדיון עירוני על פרויקט מרכז נתונים AI בחברתו. השוטרים הסירו אותו בכוח כשהוא ניסה להעביר מסמכים למועצה - סיפור שמעלה שאלות סודיות על חופש הביטוי בדיונים ציבוריים וההשפעות המקומיות של ענקי הטכנולוגיה.",
     "d": "Thu, 16 Apr 2026 11:10:48 +0000",
     "v": 0,
     "l": [
@@ -2734,7 +2726,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 114,
-    "t": "The race to Shackleton Crater is on—will Jeff Bezos or China get there first?\n\nUS and Chinese landers could be operating in close proximity on the Moon later this year.",
+    "t": "המרוץ לקריטר שקלטון התחיל - ביזוס או סין יגיעו ראשונים?\n\nעוד מעט ייתכן שנראה משהו פי אלף יותר מעניין מתחרויות מוסכי בנים - חללית אמריקאית וסינית עשויות להשתתף בגיחה משותפת לקוטב הדרומי של הירח. זה כמו כשבשביל הראשונה, שני צדדים בדיוק מנסים להקטין את הזמן להגיע לנקודה שכולם רוצים.",
     "d": "Thu, 16 Apr 2026 11:00:26 +0000",
     "v": 0,
     "l": [
@@ -2749,8 +2741,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/shadowcam_shackleton_crater_mosaic_072823-1152x648-1776290971.jpg",
@@ -2758,7 +2749,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 115,
-    "t": "Virginia voter support for new data centers collapses from 69% in 2023 to 35% in new poll — Multi-gigawatt, 37-building Digital Gateway project abandoned\n\nJust 35% of Virginia voters now say they would be comfortable with a new data center going up in their community, down from 69% in 2023.",
+    "t": "תמיכת בוחרים בווירג'יניה במרכזי נתונים חדשים התמוטטה מ-69% ל-35% - פרויקט ענק של 37 בניינים בוטל\n\nבדירוג חדש התברר שרק 35% מבוחרי ווירג'יניה היו מעוניינים לקבל מרכז נתונים חדש בקהילתם, בירידה דרמטית מ-69% בשנת 2023. הקריסה הזו בתמיכת הציבור הביאה לביטול של פרויקט ענק שנקרא Digital Gateway, שהיה אמור להכיל 37 בניינים ולדרוש צריכת חשמל בגודל מולטי-ג'יגה-וואט - הפחתה משמעותית בתכניות הטיחוס טכנולוגי של המדינה.",
     "d": "Thu, 16 Apr 2026 11:00:00 +0000",
     "v": 0,
     "l": [
@@ -2773,8 +2764,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/WtTnjkyz3pENxz2e4KNpq4-1280-80.png",
@@ -2782,7 +2772,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 116,
-    "t": "Honda's sporty compact EV includes simulated transmission sounds\n\nHonda has revealed more details about its forthcoming likeable little retro-styled compact electric vehicle (EV). Firstly, and the most confusing of all, what is it called? The answer appears to be the Super-ONE in Japan and elsewhere, but the Super-N in the UK. Whether it’s ONE or N, the super-cute little lightweight boxy city car will launch in its home market at the end of May and in July in the UK.\nContinue Reading\nCategory: Automotive, Transport\nTags: Honda, Electric Vehicles, Hot hatch, Ke",
+    "t": "ההונדה הספורטיבית החדשה כוללת סימולציה של קולות תיבת הילוכים\n\nהונדה חשפה פרטים נוספים על הרכב החשמלי הקומפקטי החמוד שלה - Super-ONE בשוק היפני והעולמי, או Super-N בבריטניה. המכונית העירונית הקטנה והקלת משקל הזו תשודר בסוף מאי ביפן וביולי בבריטניה, כשהיא משלבת עיצוב רטרו מקסים עם טכנולוגיה EV מודרנית. הפרט המעניין ביותר? הונדה שמרה על הבחירה להוסיף סימולציה של קול תיבת הילוכים ספורטיבי, כי הרי חוויית הנהיגה זה לא רק מנוע שקט.",
     "d": "Thu, 16 Apr 2026 10:46:08 GMT",
     "v": 0,
     "l": [
@@ -2997,7 +2987,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 125,
-    "t": "Codex for (almost) everything\n\nThe updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+    "t": "Codex לכמעט הכל\n\nOpenAI שדרגה את אפליקציית Codex למק וויndows עם כל מה שתמונו - computer use, גלישה בתוך האפליקציה, יצירת תמונות, זיכרון והוספת plugins. בקיצור, כל מה שמפתח צריך כדי לעבוד בעלות וביעילות. בעצם זה כמו שהעלו לו חבורה של עוזרים בAI שעובדים 24/7.",
     "d": "Thu, 16 Apr 2026 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -3010,10 +3000,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
       "news",
-      "image-gen"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -3473,7 +3465,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 145,
-    "t": "Introducing GPT-Rosalind for life sciences research\n\nOpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+    "t": "פגשו את GPT-Rosalind - מודל AI חדש של OpenAI למחקר מדעי וגילוי תרופות\n\nOpenAI חשפה את GPT-Rosalind, מודל reasoning מתקדם שמעוצב במיוחד להאיץ את תהליך גילוי תרופות, ניתוח גנומיקה, ניתוח חלבונים ותהליכי מחקר מדעיים. המודל החדש עתיד לתת דחיפה משמעותית למחקר הביומדיקלי בישראל ובעולם, עם יכולות חישוביות שקודם לא היו אפשריות.",
     "d": "Thu, 16 Apr 2026 01:00:00 GMT",
     "v": 0,
     "l": [
@@ -3548,7 +3540,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 148,
-    "t": "The PR you would have opened yourself",
+    "t": "ה-PR שהייתם פותחים בעצמכם\n\nHugging Face עשתה משהו כמעט קסום - היא למעשה מנחשת איזה pull requests אתם כנראה הייתם רוצים לפתוח בפרויקטים שלכם ויכולה להציע אותם בעצמה. זה כמו לקבל עוזר AI שמבין בדיוק מה חסר בקוד שלך ומציע לך את התיקונים הנכונים, כל זה בלי שתצטרך להסביר לו מה הבעיה.",
     "d": "Thu, 16 Apr 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -3571,7 +3563,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 149,
-    "t": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "t": "הדרכה מלאה: הכשרה וכיוונון של מודלי Embedding וReranker מולטימודליים עם Sentence Transformers\n\nHugging Face חשפה דרך חדשה ומעשית להכשרת מודלי AI שמטפלים בכמה סוגי נתונים בו-זמנית - טקסט, תמונות וכו'. במדריך הזה תלמדו איך לקחת מודלים קיימים וליצור מהם כלים שמחפשים מידע בצורה הרבה יותר חכמה וממוקדת, כל זה בעזרת Sentence Transformers שכל פיתחת לדיוק הקוד.",
     "d": "Thu, 16 Apr 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -92306,7 +92298,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3825,
-    "t": "Ignite - English Drill\n\nDiscussion\n            |\n            Link",
+    "t": "Ignite - אימון אנגלית\n\nכלי חדש שמטרתו לעזור לכם להשתפר באנגלית דרך תרגול אינטראקטיבי. זה נראה כמו פיתרון די מעניין למי שרוצה לחזק את הכישורים הלשוניים שלהם בדרך מעשית ויעילה.",
     "d": "2026-03-29T13:59:02.000Z",
     "v": 0,
     "l": [
