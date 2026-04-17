@@ -83993,7 +83993,7 @@
         "Vision Language Model"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-17T07:05:49.860Z",
       "created_at": "2026-04-17T07:05:49.860Z"
     },
@@ -84118,7 +84118,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-17T07:05:50.424Z",
       "created_at": "2026-04-17T07:05:50.424Z"
     },
@@ -84135,7 +84135,7 @@
       "author": "Prabhat Ranjan Mishra",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-17T07:05:52.341Z",
       "created_at": "2026-04-17T07:05:52.341Z"
     },
@@ -84186,7 +84186,7 @@
       "author": "Akshaya Vinnakota",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-17T07:05:55.806Z",
       "created_at": "2026-04-17T07:05:55.806Z"
     },
@@ -84390,7 +84390,7 @@
       "author": "Amit Mishra",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-17T07:05:55.806Z",
       "created_at": "2026-04-17T07:05:55.806Z"
     },
@@ -84767,6 +84767,276 @@
       "priority": "batch",
       "fetchedAt": "2026-04-17T07:05:55.806Z",
       "created_at": "2026-04-17T07:05:55.806Z"
+    },
+    {
+      "id": 4274,
+      "source": "New Atlas",
+      "title_en": "Surprisingly slim battery powers your fridge during hours-long outages",
+      "description_en": "Bluetti's stuffed a large-capacity home backup battery – designed specifically to keep your fridge running when the power goes out – into a compact shape that's easy to fit and forget right in your kitchen.\nContinue Reading\nCategory: Consumer Tech, Technology\nTags: Backup, Electricity, Battery, Storage, Bluetti",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/consumer-tech/bluetti-fridgepower-slim-backup-battery-fridge-outages-kickstarter/",
+      "image_url": null,
+      "pub_date": "Fri, 17 Apr 2026 08:03:00 GMT",
+      "author": "Abhimanyu Ghoshal",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T08:52:07.746Z",
+      "created_at": "2026-04-17T08:52:07.746Z"
+    },
+    {
+      "id": 4275,
+      "source": "New Atlas",
+      "title_en": "World-first eVTOL transition flight for Vertical Aerospace",
+      "description_en": "Vertical Aerospace has scored a world-first as its full-scale tilt-rotor eVTOL completed a two-way piloted transition between vertical helicopter mode and horizontal airplane mode during a single continuous flight while under regulatory oversight.\nContinue Reading\nCategory: Aircraft, Transport\nTags: Vertical Aerospace, eVTOL, Flight Tests",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/aircraft/world-first-evtol-transition-flight-vertical-aerospace/",
+      "image_url": null,
+      "pub_date": "Fri, 17 Apr 2026 07:14:27 GMT",
+      "author": "David Szondy",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T08:52:07.746Z",
+      "created_at": "2026-04-17T08:52:07.746Z"
+    },
+    {
+      "id": 4276,
+      "source": "The Guardian AI",
+      "title_en": "Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool",
+      "description_en": "Release of new Claude model, so far limited to US firms, will expand to British institutions in coming days\nBritish banks will be given access in the next week to a powerful AI tool that was deemed too dangerous to be released to the public, as a series of senior finance figures warned over its impact.\nAnthropic, which has so far limited the release of the new model to a small clutch of primarily US businesses, including Amazon, Apple and Microsoft, said it would expand that to UK financial inst",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/apr/17/finance-leaders-warn-over-claude-mythos-as-uk-banks-prepare-to-use-powerful-anthropic-ai-tool",
+      "image_url": "https://i.guim.co.uk/img/media/6c7873490cf4f46df61186b00b7a8683dd0fff34/954_64_6498_5201/master/6498.jpg?width=140&quality=85&auto=format&fit=max&s=c1a78ca26cd57e061c681ee9e0377b44",
+      "pub_date": "Fri, 17 Apr 2026 08:17:58 GMT",
+      "author": "Kalyeena Makortoff Banking correspondent",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Banking",
+          "$": {
+            "domain": "https://www.theguardian.com/business/banking"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T08:52:07.840Z",
+      "created_at": "2026-04-17T08:52:07.840Z"
+    },
+    {
+      "id": 4277,
+      "source": "Interesting Engineering",
+      "title_en": "Scientists explain what makes carbon black rubber strong enough for jet tires",
+      "description_en": "University of South Florida researchers have solved a century-old mystery in materials science: what makes...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/carbon-black-rubber-reinforcement-mystery-solved",
+      "image_url": null,
+      "pub_date": "Fri, 17 Apr 2026 07:47:16 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T08:52:10.003Z",
+      "created_at": "2026-04-17T08:52:10.003Z"
+    },
+    {
+      "id": 4278,
+      "source": "Interesting Engineering",
+      "title_en": "50-year-old prediction confirmed as scientists spot darkness moving faster than speed of light",
+      "description_en": "A team of researchers from the Technion-Israel Institute of Technology has achieved a major breakthrough...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/darkness-moving-faster-than-light",
+      "image_url": null,
+      "pub_date": "Fri, 17 Apr 2026 07:10:07 +0000",
+      "author": "Prabhat Ranjan Mishra",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T08:52:10.003Z",
+      "created_at": "2026-04-17T08:52:10.003Z"
+    },
+    {
+      "id": 4279,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia rival tells CNBC it's seeking at least $100 million in funding as European AI chip market booms",
+      "description_en": "Investor interest for AI chip startups is rising, but big challenges remain for the nascent sector.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/17/nvidia-rivals-chip-market-funding-ai-asml-euclyd.html",
+      "image_url": null,
+      "pub_date": "Fri, 17 Apr 2026 07:23:22 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T08:52:10.560Z",
+      "created_at": "2026-04-17T08:52:10.560Z"
+    },
+    {
+      "id": 4280,
+      "source": "Product Hunt",
+      "title_en": "Ichiba AI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/ichiba-ai",
+      "image_url": null,
+      "pub_date": "2026-04-17T05:07:24.000Z",
+      "author": "Michael",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-17T08:52:11.932Z",
+      "created_at": "2026-04-17T08:52:11.932Z"
+    },
+    {
+      "id": 4281,
+      "source": "Product Hunt",
+      "title_en": "Claude Opus 4.7",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/claude-opus-4-7",
+      "image_url": null,
+      "pub_date": "2026-04-16T14:29:30.000Z",
+      "author": "Rohan Chaubey",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-17T08:52:11.932Z",
+      "created_at": "2026-04-17T08:52:11.932Z"
+    },
+    {
+      "id": 4282,
+      "source": "Product Hunt",
+      "title_en": "Briq (Beta)",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/briq-beta",
+      "image_url": null,
+      "pub_date": "2026-04-06T10:46:31.000Z",
+      "author": "Awang Suria Trisakti",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-17T08:52:11.932Z",
+      "created_at": "2026-04-17T08:52:11.932Z"
+    },
+    {
+      "id": 4283,
+      "source": "Product Hunt",
+      "title_en": "SFX Stacks",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/sfx-stacks",
+      "image_url": null,
+      "pub_date": "2026-04-13T13:11:28.000Z",
+      "author": "Atte Ryynänen",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-17T08:52:11.932Z",
+      "created_at": "2026-04-17T08:52:11.932Z"
+    },
+    {
+      "id": 4284,
+      "source": "Product Hunt",
+      "title_en": "Hacktron",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/hacktron",
+      "image_url": null,
+      "pub_date": "2026-04-17T04:36:40.000Z",
+      "author": "Zayne Zhang",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-17T08:52:11.932Z",
+      "created_at": "2026-04-17T08:52:11.932Z"
+    },
+    {
+      "id": 4285,
+      "source": "Product Hunt",
+      "title_en": "Studio",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/coreviz-visual-ai-for-teams",
+      "image_url": null,
+      "pub_date": "2026-04-17T04:19:40.000Z",
+      "author": "Team CoreViz",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-17T08:52:11.932Z",
+      "created_at": "2026-04-17T08:52:11.932Z"
+    },
+    {
+      "id": 4286,
+      "source": "Product Hunt",
+      "title_en": "The Factory Desktop App",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/factory-3",
+      "image_url": null,
+      "pub_date": "2026-04-14T22:10:15.000Z",
+      "author": "Rohan Chaubey",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-17T08:52:11.932Z",
+      "created_at": "2026-04-17T08:52:11.932Z"
     }
   ]
 }
