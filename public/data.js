@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Top 19 AI Red Teaming Tools (2026): Secure Your ML Models\n\nAs Generative AI matures, so do the threats against it. AI Red Teaming has evolved from a niche security practice into a regulatory requirement. Our 2026 guide breaks down the top 19 tools—including Mindgard, Garak, and Microsoft’s PyRIT—to help security teams identify vulnerabilities like data leakage and bias before they reach production.\nThe post Top 19 AI Red Teaming Tools (2026): Secure Your ML Models appeared first on MarkTechPost.",
+    "t": "19 הכלים המובילים ל-AI Red Teaming (2026): אבטחת מודלי ML שלכם\n\nככל שה-AI הגנרטיבי הולך וגדל, כך גם ההתקפות נגדו - ו-Red Teaming עברה מפרקטיקה שולית להדרישה רגולטורית שחייבת. במדריך 2026 הזה אנחנו בודקים את 19 הכלים המובילים (כולל Mindgard, Garak ו-PyRIT של Microsoft) שיעזרו לצוותי הסייבר לתפוס חורים כמו דליפות נתונים והטיות לפני שהן מגיעות לפרודקשן. מה שהיה משימה של מומחים, היום זה חלק חיוני מהדרך לייצור מודלים בטוחים.",
     "d": "Fri, 17 Apr 2026 20:45:08 +0000",
     "v": 0,
     "l": [
@@ -19,8 +19,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "product",
-      "security"
+      "product"
     ],
     "imp": "low",
     "thumb": null,
@@ -28,7 +27,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Should you stare into Sam Altman&#8217;s orb before your next date?\n\nTinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, which was co-founded by OpenAI CEO Sam Altman, initially tested Tinder verification using its facial scanning orbs through a pilot program in Japan last year. It's now expanding the service to \"select markets, including Japan and the United States.\" \nTo verify that they're not a bot or an AI agent, us",
+    "t": "האם כדאי להסתכל בכדור של סם אלטמן לפני הדייט הבא שלך?\n\nTinder משתפת פעולה עם Worldcoin של סם אלטמן כדי לתת ליוזרים חמש בוסטים בחינם בתמורה לסריקת פנים בכדורים מיוחדים שמוודאים שאתה בן אדם ולא בוט. השירות שהופעל לראשונה ביפן השנה שעברה כעת מתרחב לשוקים נוספים כולל ארה\"ב, במסגרת ההתפתחויות הרבות של אורב זה שהפך למעין מוד בחברות טק גדולות. בקיצור - אם אתה רוצה דייטים חינמיים, תצטרך להסתכל בכדור מוזר קודם.",
     "d": "2026-04-17T20:42:47.000Z",
     "v": 0,
     "l": [
@@ -41,13 +40,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "OpenAI"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -55,7 +50,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’\n\nKevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+    "t": "קווין וייל וביל פיבלס עוזבים את OpenAI כחברה ממשיכה לנקות את ה'משימות צד'\n\nשני מנהיגים בכירים בOpenAI עזבו את החברה באותו הזמן שהיא סוגרת את Sora ומפרקת את קבוצת המדע שלה - צעד שמסמן סיבוב חד לכיוון AI למכונות ותרכיז על פתרונות enterprise במקום על פרויקטים צרכוני שלא עלו לקרקע. במילים אחרות, OpenAI מחליטה להתמקד בעסקים שמייצרים כסף בחזה במקום לחקור כל דבר שעולה בראש.",
     "d": "Fri, 17 Apr 2026 20:38:17 +0000",
     "v": 0,
     "l": [
@@ -81,7 +76,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Anthropic mocks up Claude Design to draft fancy new pink slips for marketing teams\n\nThe bar for creating visual assets has been lowered to the ability to converse with a model Anthropic is known for its industry-leading Claude Code that writes programs, but why stop there? The company, on Friday, introduced a research preview service called Claude Design that creates visual assets, potentially putting some folks out of work.…",
+    "t": "אנתרופיק חושפת Claude Design - כלי AI שיוצר ביזויי שיווק וחובבת גם עיצוב גרפי\n\nאנתרופיק הוציאה מהכובע שלה כלי חדש בשם Claude Design שעושה עבודת עיצוב ויזואלי כמו שהיא עושה קוד - פשוט על ידי שיחה רגילה עם ה-AI. המשמעות? עכשיו כל מי שיכול לדבר עברית טובה יוכל ליצור ביזויים, גרפיקה ונכסים שיווקיים בלי צורך בעיצובים מקצועיים. זה כמו להוריד עוד פס מהסטנדרט בתעשייה ההפקה הגרפית.",
     "d": "2026-04-17T20:38:02.000Z",
     "v": 0,
     "l": [
@@ -107,7 +102,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "A Coding Guide to Build a Production-Grade Background Task Processing System Using Huey with SQLite, Scheduling, Retries, Pipelines, and Concurrency Control\n\nIn this tutorial, we explore how to build a fully functional background task processing system using Huey directly, without relying on Redis. We configure a SQLite-backed Huey instance, start a real consumer in the notebook, and implement advanced task patterns, including retries, priorities, scheduling, pipelines, locking, and monitoring via signals. As we move step by […]\nThe post A Coding Guide to Build a Production-Grade Background Task Processing System Using Huey with SQLite, Scheduling, R",
+    "t": "מדריך קוד: בניית מערכת עיבוד משימות בתוך רקע ברמת Production עם Huey ו-SQLite\n\nהמדריך הזה מלמד אתכם איך לבנות מערכת עיבוד משימות מלאה ממש בעזרת Huey, בלי צורך ב-Redis. אנחנו מתאימים Huey עם SQLite, מריצים consumer אמיתי ובמקביל מטמיעים תבניות משימות מתקדמות כמו retries, scheduling, pipelines ועוד הרבה דברים מגניבים שיעזרו לכם לבנות מערכות יציבות וחזקות. זה המדריך הכי מקיף שתוכלו למצוא לנושא הזה.",
     "d": "Fri, 17 Apr 2026 20:18:31 +0000",
     "v": 0,
     "l": [
@@ -130,7 +125,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Anthropic’s new cybersecurity model could get it back in the government’s good graces\n\nThe Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national security. But some of the ice may reportedly be melting between the two, thanks to Anthropic's buzzy new cybersecurity-focused model: Claude Mythos Preview.\nAnthropic's relationship with the Pentagon soured quickly in late February after the company refused to budge on two red lines: using its technolo",
+    "t": "מודל הסייבר החדש של Anthropic עלול להחזיר לה טובות פנים מהממשל\n\nאחרי שהנהלת טראמפ תקפה קשות את Anthropic וקראה לה \"חברה שמאלנית קיצונית\" המסכנת את הביטחון הלאומי, נראה שהקרחון מתחיל להתיך. הסיבה? מודל ה-AI החדש של החברה - Claude Mythos Preview - שמתמקד בסייבר סיקיוריטי וגם פשוט מדבר הרבה מאוד בתקשורת בימים אלו. מסתבר שכשמדובר בהגנה על רשתות קומץ קטן של דברים יכול לשנות הרבה בעסקות בין טק לממשל.",
     "d": "2026-04-17T20:14:21.000Z",
     "v": 0,
     "l": [
@@ -148,16 +143,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 7,
-    "t": "Millions of Americans Are Talking to AI Instead of Going to the Doctor, and It’s Giving Them Horrendously Flawed Medical Advice\n\nWhat could possibly go wrong?\nThe post Millions of Americans Are Talking to AI Instead of Going to the Doctor, and It’s Giving Them Horrendously Flawed Medical Advice appeared first on Futurism.",
+    "t": "מיליונים של אמריקאים מדברים עם AI במקום ללכת לרופא - והם מקבלים עצות רפואיות שגויות בצורה אכזרית\n\nבעיה חדשה וחמורה בעולם הבריאות הדיגיטלית: הרבה אמריקאים עוברים לשאול chatbots בנושאי בריאות במקום להגיע לרופא בן אדם, וזה בדיוק כמו שזה נשמע - כי ה-AI טעוי בעיקר כשמדובר בדברים רפואיים קריטיים. מחקרים חדשים חושפים טעויות מדהימות בתשובות הAI לשאלות רפואיות, מה שיכול לגרום נזקים ממשיים לאנשים שחוסכים את הביקור בקליניקה.",
     "d": "Fri, 17 Apr 2026 16:06:52 -0400",
     "v": 0,
     "l": [
@@ -172,8 +166,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/millions-americans-ai-instead-doctor-bad-advice.jpg?quality=85",
@@ -181,7 +174,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "Soft-top surfboard splits for travel and stowage\n\nNewave is a French company founded by two engineers who also happen to be avid surfers. They’ve experienced firsthand the hassle of traveling with a bulky surfboard and paying extra fees for oversized luggage, so in 2023 they set out to solve this problem by designing modular boards.\nContinue Reading\nCategory: Boats and Watersports, Toys, Outdoors\nTags: Kickstarter, Surfboard, Modular",
+    "t": "לוח גלישה רך שמתפרק לנסיעות ואחסון\n\nשתי מהנדסים צרפתיים שגם גולשים בדי-קידום החליטו שמספיק כבר להיאבק עם לוחות גלישה ענקיים בשדות התעופה. החברה שלהם, Newave, יצרה לוח מודולרי שמתפרק לחתיכות קטנות - כל כך קטנות שאפילו חברות התעופה לא יידעו שזה בכלל לוח גלישה. הפרוייקט הוא כבר בKickstarter, ואם זה יצליח, גולשים בכל העולם יוכלו לחסוך הרבה כסף על דמי מטען.",
     "d": "Fri, 17 Apr 2026 20:00:00 GMT",
     "v": 0,
     "l": [
@@ -204,7 +197,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Man with @ihackedthegovernment Instagram account tells judge, “I made a mistake\"\n\nProbation for man who used stolen logins and posted private info on social media.",
+    "t": "הגבר מאחורי חשבון @ihackedthegovernment אומר לשופט: 'טעיתי'\n\nבחור שהשתמש בנתונים שנגנבו והפרסם מידע סודי בסושיאל מדיה קיבל עונש הסתברות - התברר שהכל זה הקומדיה של סייבר שפחות מצחיקה כשזה נעשה בחוק. מי שחשב שהוא הקר ביותר ברשת אינסטגרם טעה בחישוביו כשפגש את משפחת בתי המשפט.",
     "d": "Fri, 17 Apr 2026 19:31:48 +0000",
     "v": 0,
     "l": [
@@ -228,7 +221,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Netflix to launch TikTok-style video feed, expand AI across its global platform\n\nAt a time when every digital platform is fighting for user attention, Netflix may have...",
+    "t": "Netflix משיקה ממזגן וידאו בסגנון TikTok ומרחיבה AI בכל הפלטפורמה העולמית\n\nNetflix מחליטה להיכנס לתחרות על תשומת הלב של המשתמשים עם feed וידאו חדש בסגנון TikTok, במהלך שהחברה מרחיבה את השימוש ב-AI בכל הפלטפורמה הגלובלית שלה. הצעד הזה מראה שנטפליקס לא מסתפקת בסדרות וסרטים בלבד - היא רוצה גם לתפוס את ההתמכרות של המשתמשים עם קונטנט קצר וקל עיכול. זה עוד דוגמה לאיך ענקיות הטק מתחרות על כל פינה של המסך שלנו.\n\nמקור: Interesting Engineering",
     "d": "Fri, 17 Apr 2026 19:25:27 +0000",
     "v": 0,
     "l": [
@@ -251,7 +244,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "Trump picks qualified, normal health leader to head CDC; experts still cautious\n\nShe's well qualified but will need to navigate RFK Jr.'s anti-vaccine agenda.",
+    "t": "טראמפ בחר מנהיגת בריאות כשירה וסבירה להנהלת ה-CDC; מומחים עדיין זהירים\n\nהיא בעלת כישורים מקצועיים חזקים, אבל תצטרך להתמודד עם אג'נדה אנטי-חיסונים של RFK Jr. שצפויה להשפיע על כיוון הארגון. המומחים שומרים על זהירות בשל ההשפעות הפוליטיות הצפויות על מדיניות הבריאות הציבורית.",
     "d": "Fri, 17 Apr 2026 19:19:47 +0000",
     "v": 0,
     "l": [
@@ -320,7 +313,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Perspective: AI demand is inflated, and only Anthropic is being realistic\n\nThe main usage metric for artificial intelligence, called tokens, looks explosive on paper, but it may be significantly overstated.",
+    "t": "דעה: הביקוש ל-AI מנופח, ורק Anthropic נוהגת בריאליזם\n\nהמטריקה הראשית למדידת שימוש ב-AI, שנקראת tokens, נראית מתפוצצת על הנייר, אבל כנראה שהיא מגוזמת בהרבה. בעוד שחברות טק רבות מדווחות על מספרים מרשימים של token consumption, נראה שהתוקף האמיתי של ה-AI תחום בהרבה מהחזוקות השוק, ו-Anthropic היא כמעט היחידה שמדברת על זה בכל כנות.",
     "d": "Fri, 17 Apr 2026 19:10:15 GMT",
     "v": 0,
     "l": [
