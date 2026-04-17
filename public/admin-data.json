@@ -1,7 +1,7 @@
 {
   "total": 4351,
-  "translated": 4341,
-  "untranslated": 10,
+  "translated": 4351,
+  "untranslated": 0,
   "today": 129,
   "week": 1119,
   "sources": [
@@ -26,13 +26,13 @@
     {
       "name": "Tom's Hardware",
       "total": 218,
-      "translated": 216,
+      "translated": 218,
       "lastDate": "Wed, 15 Apr 2026 16:27:58 +0000"
     },
     {
       "name": "Futurism",
       "total": 182,
-      "translated": 181,
+      "translated": 182,
       "lastDate": "Wed, 15 Apr 2026 16:15:26 -0400"
     },
     {
@@ -50,19 +50,19 @@
     {
       "name": "New Atlas",
       "total": 139,
-      "translated": 138,
+      "translated": 139,
       "lastDate": "Wed, 15 Apr 2026 23:03:00 GMT"
     },
     {
       "name": "CNBC Tech",
       "total": 125,
-      "translated": 124,
+      "translated": 125,
       "lastDate": "Wed, 15 Apr 2026 23:58:12 GMT"
     },
     {
       "name": "TechCrunch AI",
       "total": 104,
-      "translated": 101,
+      "translated": 104,
       "lastDate": "Wed, 15 Apr 2026 19:28:36 +0000"
     },
     {
@@ -80,7 +80,7 @@
     {
       "name": "Hugging Face Blog",
       "total": 95,
-      "translated": 94,
+      "translated": 95,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -110,7 +110,7 @@
     {
       "name": "The Verge AI",
       "total": 57,
-      "translated": 56,
+      "translated": 57,
       "lastDate": "2026-04-17T15:46:37.000Z"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-17T17:32:49.116Z"
+  "generatedAt": "2026-04-17T18:35:56.843Z"
 }

@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Anthropic's Dario Amodei to meet with White House about Mythos\n\nThe meeting comes less than two months after President Donald Trump blacklisted Anthropic.",
+    "t": "דריו אמודיי מ-Anthropic הולך להיפגש בבית הלבן לדון במיתוס\n\nבטוויסט מעניין במדינאות הטק, מנכ״ל Anthropic הולך לשיחות עם הבית הלבן במהלך תקופה מתוחה - רק שני חודשים אחרי שהנשיא טראמפ הכניס את החברה לרשימת השחורה. נראה שיש פה משהו חדש בתרחיש זה, ואנחנו בחכים לראות מה זה בדיוק הitech הגדול הזה שצריך דיון כל כך גבוה.",
     "d": "Fri, 17 Apr 2026 16:34:15 GMT",
     "v": 0,
     "l": [
@@ -27,7 +27,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Building a Fast Multilingual OCR Model with Synthetic Data",
+    "t": "בניית מודל OCR מהיר וריבוי לשוני עם נתונים סינתטיים\n\nהחוקרים ב-Hugging Face מדגימים איך אפשר לבנות מודל זיהוי טקסט (OCR) שעובד במהירות על כמה שפות בו זמנית, תוך שימוש בנתונים סינתטיים במקום אלפי תמונות אמיתיות. הטריק הוא ליצור נתונים מזויפים בחכמה שיעזרו למודל ללמוד טוב יותר עם פחות משאבים. זה משנה המשחק לכל מי שרוצה להריץ OCR בעברית, ערבית או שפות אחרות ישירות בלי צורך בחומר הדרכה ענק.",
     "d": "Fri, 17 Apr 2026 16:17:55 GMT",
     "v": 0,
     "l": [
@@ -50,7 +50,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap\n\nThe gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to talk shows, a certain shoe company just rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is too powerful to release publicly …but apparently not too […]",
+    "t": "Tokenmaxxing, קניות השמאל של OpenAI, וה-AI Anxiety Gap\n\nהפער בין מי שמבין את עולם ה-AI לבין השאר מתרחב בצורה משמעותית - וזה כבר מתחיל להראות בהוצאות, בחשדנות, ובאפילו במילים חדשות שמסתובבות בשיחות. בזמן שOpenAI קונה הכל מאפליקציות פיננסיות עד תיאטרון, חברת נעליים מפורסמת פשוט השתנתה לפעיל בתחום infrastructure של AI, וAnthropicחשפה מודל כזה חזק שלדעתם אסור לתת לציבור גישה אליו... לפחות כן טוענים.",
     "d": "Fri, 17 Apr 2026 15:57:40 +0000",
     "v": 0,
     "l": [
@@ -77,7 +77,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Dairy Queen is putting an AI chatbot in its drive-thrus\n\nDairy Queen is becoming the latest fast food chain to get in on AI, as it's bringing a chatbot to dozens of its drive-thrus across the US and Canada. It aims to help speed up drive-thru service and \"encourage customers to add more food to their orders,\" according to The Wall Street Journal.\nFollowing a test last year, Dairy Queen is widely launching the tech built by Presto, an AI company that already works with chains like Carl's Jr., Hardee's, Taco John's, and Fazoli's. In 2023, a report from ",
+    "t": "דיירי קווין משלחת AI צ'אטבוט לדרייב-תרו שלה\n\nדיירי קווין הצטרפה למכות המזון הגדולות שמטמיעות AI בתפעול - החברה משיקה צ'אטבוט בעשרות דרייב-תרו בארה\"ב וקנדה. הטכנולוגיה של Presto (שכבר עובדת עם Carl's Jr ו-Taco John's) מטרתה להאיץ את השירות ובעיקר - להשכנע ללקוחות להוסיף עוד מנות להזמנה שלהם. אחרי בדיקה מוצלחת בשנה שעברה, הרולאאוט הרחב מתחיל כעת.",
     "d": "2026-04-17T15:46:37.000Z",
     "v": 0,
     "l": [
@@ -94,13 +94,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 5,
-    "t": "Analytics group signals possible delays at 40% of AI data center construction sites — companies deny schedule holdups, but satellite imagery indicates otherwise\n\nAt least 40% of all AI data centers slated for completion in 2026 will be delayed, according to a data analytics group. AI tech companies say everything is on schedule, but labor and material shortages are seemingly holding up construction.",
+    "t": "קבוצת אנליטיקה מצביעה על עיכובים אפשריים ב-40% מאתרי בנייה של מרכזי נתונים של AI — החברות שוללות, אבל תמונות לוויין אומרות אחרת\n\nעל פי קבוצת אנליטיקה, לפחות 40% ממרכזי הנתונים של AI שמתוכננים לסיום ב-2026 יחוו עיכובים בלוח הזמנים. תמונות לוויין מצביעות על בעיות במלאי עובדים וחומרים, למרות שחברות ההיי-טק טוענות שהכל עדיין בדרך הנכונה. (מקור: Tom's Hardware)",
     "d": "Fri, 17 Apr 2026 15:40:59 +0000",
     "v": 0,
     "l": [
@@ -123,7 +123,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Local political revolts threaten to derail US data center projects — mounting delays are already costing AI hyperscalers billions\n\nLocal communities all over America and the world are pushing back on the explosive growth of AI data center projects. Through local courts, community action, and intense meetings with politicians, the general public are forcing the cancellation of major data center projects.",
+    "t": "מהומות מקומיות מסכנות פרויקטי מרכזי נתונים בארה״ב — העיכובים כבר עולים למיליארדים לחברות AI\n\nקהילות מקומיות בכל רחבי אמריקה והעולם מתקוממות נגד הגידול המטורף של מרכזי נתונים ל-AI. דרך בתים משפטיים מקומיים, פעולות קהילתיות ופגישות מתוחות עם פוליטיקאים, הציבור הכללי כופה ביטול של פרויקטים ענקיים למרכזי נתונים. התופעה גורמת עיכובים משמעותיים שכבר עולים למיליארדים עבור ה-hyperscalers הגדולים.",
     "d": "Fri, 17 Apr 2026 15:25:06 +0000",
     "v": 0,
     "l": [
@@ -138,16 +138,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/PJ7hq4YZcLebfzKvT7XLVc-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 7,
-    "t": "Focused microwaves allow 3D printers to fuse circuits onto almost anything\n\nEngineers at Rice University have cracked one of printed electronics' most stubborn problems: how to cure freshly printed conductive ink without destroying the delicate surface underneath.\nContinue Reading\nCategory: Electronics, Consumer Tech, Technology\nTags: Rice University, Printable Electronics, 3D Printing, Circuit, microwave",
+    "t": "מיקروגלים ממוקדים מאפשרים למדפסות 3D להדביק מעגלים על כמעט הכל\n\nמהנדסים באוניברסיטת Rice פתרו סוף סוף את אחת הבעיות המעצבנות ביותר בעולם ההדפסה האלקטרונית: איך לייבש דיו מוליך שהודפס זה עתה בלי להרוס את הפני השטח העדינים מתחתיו. התשובה? מיקרוגלים ממוקדים שמגיעים בדיוק למקום שצריך. זה משמעותי כי זה אומר שאנחנו יכולים להדפיס מעגלים אלקטרוניים על כל חומר שאתה רק יכול לחשוב עליו, לא רק על משטחים שטוחים וקשיחים.",
     "d": "Fri, 17 Apr 2026 15:23:00 GMT",
     "v": 0,
     "l": [
@@ -170,7 +169,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "Pentagon Disturbed as Its Fleet of Drones Is Left Bobbing in the Ocean When Elon Musk’s Starlink Fails\n\n\"Starlink reliance exposed limitations under multiple-vehicle load.\"\nThe post Pentagon Disturbed as Its Fleet of Drones Is Left Bobbing in the Ocean When Elon Musk’s Starlink Fails appeared first on Futurism.",
+    "t": "הפנטגון בהלם: צי הרחפנים שלו נשאר צף בים כשחלה כשל ב-Starlink של אילון מאסק\n\nסיפור מביש קצת: כשהצבא האמריקאי בדק את הסתמכותו על הרשת הלוויינית של מאסק, התגלה שמספר גדול של רחפנים לא יכלו להתפקד בו-זמנית כאשר ל-Starlink קרה כשל. במילים אחרות, תשתית יקרה וחיוניית הגנה תלויה בחיבור אינטרנט שיכול להתמוטט, וזה לא בדיוק מה שאתה רוצה שיקרה בים. מה שהתרחש כאן זה חשיפה של חוליה חלשה גדולה בתלות של הצבא בטכנולוגיית-שלישי-גוף תחת עומס כבד.",
     "d": "Fri, 17 Apr 2026 11:10:09 -0400",
     "v": 0,
     "l": [
@@ -193,7 +192,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Anthropic launches Claude Design, a new product for creating quick visuals\n\nThe company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.",
+    "t": "אנתרופיק משיקה Claude Design - כלי חדש ליצירת ויזואליים במהירות\n\nאנתרופיק חושפת את Claude Design, כלי שנועד לעזור למייסדים ומנהלי פרודקט בלי רקע עיצובי להשתף את הרעיונות שלהם בצורה הרבה יותר קלה. במקום להיות תלויים בעיצובים מקצועיים יקרים, כל אחד יכול עכשיו ליצור מקוואיי וויז'ואלים בעזרת AI של קלוד.",
     "d": "Fri, 17 Apr 2026 15:00:00 +0000",
     "v": 0,
     "l": [
@@ -213,7 +212,7 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
@@ -619,7 +618,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 27,
-    "t": "Are we tokenmaxxing our way to nowhere?\n\nThe gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to talk shows, a certain shoe company just rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is too powerful to release publicly …but apparently not too […]",
+    "t": "האם אנחנו בדרך לשום מקום עם tokenmaxxing?\n\nהפער בין קהילת ה-AI לבין השאר מתרחב ב-500, וזה כבר מרגיש בכסף, בחשדנות ואפילו בוקבולר חדש שמתפתח. בזמן שOpenAI קונה הכל - מאפליקציות פיננסיות עד תוכניות טלוויזיה - חברת נעליים מפורסמת החליטה להתעדכן לחברת AI infrastructure, ו-Anthropic הכריזה על מודל כל כך חזק שהיא לא מעוניינת לשחרר אותו... אבל כנראה שלא כל כך חזק שלא להשתמש בו בכלל.",
     "d": "Fri, 17 Apr 2026 13:00:00 +0000",
     "v": 0,
     "l": [
