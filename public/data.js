@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "TSMC ups revenue guidance and CapEx, buoyed by 'multiyear AI megatrend' — warns Middle East conflict may impact profitability as costs increase\n\nTSMC unveils aggressive plans to ramp up 3nm-capable capacity further in the coming years amid strong demand from the AI sector.",
+    "t": "TSMC מעלה את תחזוקות הרווח והשקעות בהון, מונעת על ידי 'מגמת ה-AI לאורך שנים' — מזהירה שסכסוך במזרח התיכון עלול להשפיע על רווחיות\n\nTSMC חושפת תוכנית אגרסיבית להרחבת כושר הייצור של 3nm בשנים הקרובות, מעוררת על ידי הביקוש החזק מצד חברות ה-AI. החברה מעדכנת בחיוביות מוחלטת למשקיעים, אבל גם משגה על גורמי סיכון כולל ההשלכות הפוטנציליות של מתיחות גיאופוליטיות על עלויות הייצור שלה.",
     "d": "Fri, 17 Apr 2026 12:00:00 +0000",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "U.S. tech companies ramp up government lobbying amid Iran war uncertainty\n\nA White House spokesperson told CNBC the administration had been working with industry leaders to mitigate disruption brought about by the conflict.",
+    "t": "חברות טק אמריקאיות מגבירות לוביסטיות בממשלה על רקע אי-ודאות בסכסוך עם איראן\n\nחברות הטק בארה״ב בוהלות מהשלכות הסכסוך הגיאופוליטי החם וממתינות בחוסר סבלנות להנחיות ממשלתיות - הבית הלבן עדיין מנסה לעבוד עם ענקי התעשייה כדי להקטין את ההפרעות שעלולות להשפיע על הביזנס שלהם בעולם.",
     "d": "Fri, 17 Apr 2026 11:18:55 GMT",
     "v": 0,
     "l": [
@@ -47,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Steam shown running on Nintendo Switch thanks to latest Proton Beta — FEX 2604 translates x86 to ARM-friendly instructions on Linux\n\nValve has released Proton 11.0-Beta1, with support for Arm devices.",
+    "t": "Steam רץ על Nintendo Switch בזכות עדכון Proton החדש — FEX 2604 מתרגם x86 להוראות ARM\n\nווולווו הישיקה את Proton 11.0-Beta1 עם תמיכה בחוקי ARM, והתוצאה היא שלמעשה אפשר להריץ את Steam על המתג של נינטנדו. מה שקורה בשורות הקוד הוא שFEX מתרגם הוראות x86 שהמחשבים מבינים לשפה שהמעבדים של ARM בנינטנדו מבינים, וזה נותן לנו משחקים שמעולם לא חשבנו שיעבדו בקונסולה הזו.",
     "d": "Fri, 17 Apr 2026 11:13:51 +0000",
     "v": 0,
     "l": [
@@ -70,7 +70,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "64GB of DDR5 RAM is a staggering $216 in this latest Newegg deal — Get a 9800X3D, X870-P motherboard, case, and a free AIO for just $939\n\nNewegg's latest combo bundle gets you  64GB of RAM, a motherboard, AMD's 9800X3D, and a Corsair case, as well as a free AIO cooler for just $939.",
+    "t": "64GB DDR5 רַם בדיל מטורף - $216 בלבד! חבילת Newegg כוללת 9800X3D, לוח אם X870-P וקולר חינם ב-$939\n\nNewegg הוציאה חבילת bundle שמנקרת את הנייר - תקבלו את ה-9800X3D של AMD, לוח אם, 64GB DDR5, קייס Corsair וגם קולר AIO חינם, הכל בתמורה ל-$939 בלבד. זה בעצם דיל משוגע לכל מי שחושבים להרים PC חדש או אפילו את ה-GPU שלהם.",
     "d": "Fri, 17 Apr 2026 11:09:18 +0000",
     "v": 0,
     "l": [
@@ -83,9 +83,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Nvidia"
+    ],
     "tags": [
-      "news"
+      "news",
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/FJRRkvuTXuggi7BFvV6jCD-1280-80.jpg",
@@ -93,7 +96,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Nvidia AI chip rivals attract record funding as competition heats up\n\nA growing crop of startups are set on challenging the chip giant's supremacy.",
+    "t": "קבלה שיאית של השקעות לשבבי AI תחרותיים של Nvidia\n\nסטארטאפים חדשים מתעוררים לאתגר את הגיגנט הטכנולוגי, והם מושכים השקעות ענקיות בניסיון להישמט מהדומיננטיות של Nvidia בשוק שבבי ה-AI. התחרות מתגברת וברור שהעולם לא סו״פ יהיה בעלות חד-פעמית של ענקית אחת.",
     "d": "Fri, 17 Apr 2026 11:06:46 GMT",
     "v": 0,
     "l": [
@@ -111,8 +114,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "hardware",
-      "funding"
+      "hardware"
     ],
     "imp": "low",
     "thumb": null,
@@ -120,7 +122,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Recent advances push Big Tech closer to the Q-Day danger zone\n\nHere's which players are winning the race to transition to post-quantum crypto.",
+    "t": "ההתקדמות האחרונות דוחפות את הטכנולוגיה הגדולה קרוב יותר לאיום Q-Day\n\nביג טק מתחזקת בתחרות להעבר למצפנים שיטיחו בפני מחשבים קוונטיים - וכרגע יש כמה שחקנים שמובילים את המשחק ויוצרים סטנדרטים חדשים בקריפטוגרפיה פוסט-קוונטית. המירוץ הזה הוא במהותו קרב על הכשרות הזיהוי והאבטחה של עתיד, כי מחשבים קוונטיים עלולים לפרוץ את כל ההצפנה הקלאסית שאנחנו משתמשים בה היום. תשובה מקור: Ars Technica",
     "d": "Fri, 17 Apr 2026 11:00:50 +0000",
     "v": 0,
     "l": [
@@ -143,7 +145,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "OpenAI launches GPT-Rosalind, a reasoning model built for life sciences research\n\nOpenAI has introduced GPT-Rosalind, a reasoning model tailored for the life sciences. It's designed to help researchers move faster from hypothesis to experiment. Access is tightly controlled for now.\nThe article OpenAI launches GPT-Rosalind, a reasoning model built for life sciences research appeared first on The Decoder.",
+    "t": "OpenAI משיקה את GPT-Rosalind, מודל חשיבה שפותח למחקר במדעי החיים\n\nOpenAI בחרה לשם הטוב שלה והשיקה GPT-Rosalind, מודל AI ייעודי שנועד לעזור לחוקרי מדעי החיים להמיר השערות לניסויים בקצב הזוהר. כרגע הגישה מוגבלת ומשמרת, אבל זה בדיוק מה שנדרש כדי לא לקלקל את הניסוי.",
     "d": "Fri, 17 Apr 2026 11:00:37 +0000",
     "v": 0,
     "l": [
@@ -163,13 +165,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 8,
-    "t": "Uber Eats has a fix for pesky returns. You can just sit on the couch\n\nThe Uber Eats return pickup feature applies to items bought through the app from Best Buy, Dick's Sporting Goods, Petco and more.",
+    "t": "אובר איטס פתרה את בעיית ההחזרות - אתם יכולים פשוט להישאר על הספה\n\nאובר איטס הוסיפה תכונה חדשה שמאפשרת לכם להחזיר מוצרים שקניתם דרך האפליקציה בלי לזוז מהבית - הם באים לאסוף הכל בעצמם. התכונה זמינה כרגע לקניות מחנויות כמו Best Buy, Dick's Sporting Goods, Petco ועוד, וזה עושה את כל התהליך של החזרות לא-טריוויאל הרבה יותר קל. מקור: CNBC Tech",
     "d": "Fri, 17 Apr 2026 11:00:01 GMT",
     "v": 0,
     "l": [
@@ -192,7 +194,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Google and Pentagon in talks to run custom AI chips inside classified environments — Google pushes for tight controls for TPUs surrounding use for mass surveillance and autonomous weapons\n\nGoogle is reportedly negotiating with the U.S. Department of Defense to deploy Gemini in classified settings, with the talks covering the addition of GPU racks to Google Distributed Cloud.",
+    "t": "גוגל והפנטגון בשיחות על הפעלת chips AI מותאמים בסביבות סודיות — גוגל דוגלת בשליטה קפדנית על TPU כדי למנוע שימוש במעקב המוני וכלים אוטונומיים\n\nלפי דיווחים, גוגל מנהלת משא ומתן עם משרד ההגנה של ארה״ב כדי להריץ את Gemini בהגדרות סודיות, והשיחות כוללות הוספת GPU racks לפלטפורמת Google Distributed Cloud שלהם. זו הסכמה חדשה ומעניינת שמראה איך חברות הטק הגדולות מתחילות להשתתף באופן ישיר בפרויקטים צבאיים של המדינה — עם גוגל מנסה להגן על זכויות היוצרים וזכויות הפרט שלהם בדרך.",
     "d": "Fri, 17 Apr 2026 11:00:00 +0000",
     "v": 0,
     "l": [
@@ -212,16 +214,15 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news",
       "model",
-      "hardware",
-      "robotics"
+      "hardware"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/Y5NMQot8GVcujBNAWTGvAG-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 10,
-    "t": "Shoot ultra-smooth 4K at 240 fps with DJI’s newest pocket-sized gimbalcam\n\nSmartphones have taken on much of what compact cameras offer, but dedicated pocket cameras still have an edge when it comes to stabilization, control, and creator-focused features. DJI is continuing to refine this space with the Osmo Pocket 4, the latest iteration of its handheld gimbal camera line.\nContinue Reading\nCategory: Consumer Tech, Technology\nTags: DJI Innovations, Gimbals, Cameras, 4k",
+    "t": "DJI Osmo Pocket 4: קלוט ביד אחת וצלמו 4K בחלקות של 240 fps\n\nDJI חוזרת להשקת הדור הרביעי של Osmo Pocket שלה, והפעם הם הצליחו להכניס יכולות וידאו שנראו בלתי אפשריות בכמהן כזה קטן - אנחנו מדברים על 4K עם 240 fps של smoothness שיגרום לכל מצלם בייצור הקונטנט שלו להתחרות לעצמו. זה אמנם לא משהו שיהפוך את הסמארטפון שלכם למיותר, אבל גם יום אחד השליטה והיציבות שמצלמה ייעודית כמו זו מעניקה הן משהו שאף טלפון לא יכול לתת לכם.",
     "d": "Fri, 17 Apr 2026 10:57:00 GMT",
     "v": 0,
     "l": [
@@ -244,7 +245,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "Breakthrough model helps robots learn unseen tasks, paves way for adaptive intelligence\n\nA US robotics startup says its latest AI model can guide robots to perform tasks...",
+    "t": "מודל חדש מאפשר לרובוטים ללמוד משימות שעדיין לא ראו - דרך חדשה לבינה מלאכותית מסתגלת\n\nסטארטאפ רובוטיקה אמריקאית חשפה מודל AI מהפכני שמסוגל לחנך רובוטים לביצוע משימות חדשות שהם מעולם לא התמודדו איתן. המערכת משתמשת בתכניות להבנה עמוקה ובלמידה אדפטיבית, מה שפותח אפשרויות אמיתיות לרובוטים חכמים יותר בעולם הממשי. זה לא עוד ניסיון ב-AI - זה צעד גדול לכיוון רובוטים שבאמת יכולים להסתגל ללא צורך בתכנות מחדש עבור כל משימה חדשה. (מקור: Interesting Engineering)",
     "d": "Fri, 17 Apr 2026 10:48:12 +0000",
     "v": 0,
     "l": [
@@ -259,16 +260,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://www.youtube.com/embed/Zn8yMaepzVk",
     "source": "Interesting Engineering"
   },
   {
     "id": 12,
-    "t": "Nvidia RTX 5070 spotted at rare MSRP price in Woot flash sale — move fast to secure a bargain, 38% off saves you $340\n\nGet an RTX 5070 for MSRP at Woot, now just $549.",
+    "t": "RTX 5070 של Nvidia נתפסה במחיר MSRP נדיר בהנחה וומט — 38% הנחה חוסכת לכם $340\n\nאם חיפשתם RTX 5070 במחיר סביר, הנה ההזדמנות שלכם! Woot מוכרת כרטיס גרפיקה במפורש בחזרה למחיר המוצא של $549 עם הנחה מטורפת של 38%. זה נדיר וזמני, אז אם אתם מתכננים upgrade לגיימינג או עבודה עם AI, עכשיו זה הזמן.",
     "d": "Fri, 17 Apr 2026 10:45:40 +0000",
     "v": 0,
     "l": [
@@ -294,7 +294,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "China claims 125 million kilowatts nuclear power capacity, plans seven more reactors\n\nChina’s total installed nuclear power capacity has reached 125 million kilowatts, according to a report...",
+    "t": "סין מכריזה על 125 מיליון קילוואט של קיבולת אנרגיה גרעינית, מתכננת שבע תחנות נוספות\n\nסין כבר הגיעה לקיבולת גרעינית של 125 מיליון קילוואט, והיא לא עוצרת שם - התוכניות כוללות הקמת עוד שבע רياקטורים בשנים הקרובות. זה חלק מהקרב של סין להפוך לעמקה עולמית בתחום האנרגיה הנקייה, כשהם מביטים ל-2030 עם יעדי פחתון פחמן אמביציוזיים שהם עצמם קבעו. במהלך זה, סין מעמיקה את הימור שלה על גרעין כמקור אנרגיה ירוק ויציב.",
     "d": "Fri, 17 Apr 2026 10:44:15 +0000",
     "v": 0,
     "l": [
@@ -311,13 +311,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "Interesting Engineering"
   },
   {
     "id": 14,
-    "t": "Commodore fans split over C64 Ultimate FPGA firmware lockdown — firm says it wants to protect its hardware and reduce support fallout\n\nThe retro community seems sharply divided over a decision by Commodore regarding locking down firmware access in its C64 Ultimate computer.",
+    "t": "מעריצי קומודור התחלקו על נעילת הקושחה של C64 Ultimate — החברה טוענת שרוצה להגן על החומware ולהפחית בעיות תמיכה\n\nהקהילייה של רטרו גיימינג התפוצצה באיזו כעס על ההחלטה של קומודור לנעול את גישת הקושחה של המחשב C64 Ultimate החדש. החברה מנמקת שזה בשביל להגן על החומware שלהם ולהפחית טלפונים של קוראים כעסוניים, אבל ברור שהחבורה של ה-retro enthusiasts לא ממש מסכימה שזו הדרך הנכונה.",
     "d": "Fri, 17 Apr 2026 10:40:00 +0000",
     "v": 0,
     "l": [
@@ -340,7 +340,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "AMD to resurrect Ryzen 7 5800X3D AM4 with 10th anniversary edition, leaker claims — return of legendary CPU a sign of bleak PC building landscape\n\nAMD is rumored to launch the Ryzen 7 5800X3D 10th Anniversary Edition in the second quarter of this year.",
+    "t": "AMD חוזרת להחיות את Ryzen 7 5800X3D במהדורת יובל 10 שנים — המחזור של CPU אגדי משקף שוק PC קודר\n\nאם זה נכון, אנחנו עומדים לראות את ה-Ryzen 7 5800X3D האיקוני חוזר לחיים עם מהדורה מיוחדת ליובל, וצפוי להשיק ברבעון השני של השנה. זה די בדיחה על מצב שוק המחשבים - כשיצרן ציפים צריך להחיות מעבד מ-2022 כדי למשוך קונים, אתה יודע שמשהו לא בסדר ביד.",
     "d": "Fri, 17 Apr 2026 10:20:00 +0000",
     "v": 0,
     "l": [
@@ -363,7 +363,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "Amazon returns buyer gets scammed out of a Ryzen 9 9950X3D — 'CPU' came with just a 3D-printed plastic heat spreader\n\nAnother victim of Amazon's return policy shares their story on Reddit, how they bought a Ryzen 9 9950X3D for just €163 only to get a 3D-printed IHS of a 9950X3D attached to nothing.",
+    "t": "קונה ב-Amazon נהיה קורבן הונאה: קיבל Ryzen 9 9950X3D עם ספרד חום מודפס בתלת-מימד בלבד\n\nעוד קורבן של מדיניות ההחזרות של Amazon שיתף את סיפורו ב-Reddit: קנה Ryzen 9 9950X3D תמורת 163 יורו בלבד, רק כדי לגלות שקיבל פשוטו כמשמעו כיסוי חום מודפס בתלת-מימד ללא שום משהו בפנים. מקרה נוסף שמעיד על הסכנות של קניית אלקטרוניקה יקרה דרך מערכת ההחזרות של המפלטפורמה.",
     "d": "Fri, 17 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -381,8 +381,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "product",
-      "regulation"
+      "product"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/iamVBuqkZd4d2Y5Ev6B2kk-1280-80.jpg",
@@ -390,7 +389,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "Crazed World of Warcraft gamer plays game with 3D-printed hot dog controller — the left wiener quad-array controls movement, the right triggers abilities\n\nGamer and maker builds a hotdog-based game controller.",
+    "t": "גיימר משוגע של World of Warcraft משחק עם ג'ויסטיק נקניקייה תלת מימדי - הנקניקייה השמאלית שולטת בתנועה והימנית בכוחות\n\nכשמישהו אמר 'שחקו בדרך אחרת', הוא בטח לא התכוון לזה. גיימר עם כישרונות ייצור בנה בעצמו קונטרולר גיימינג דוקומנטרי מנקניקייה 3D שמודפסת, וממש עובד. היא אולי לא הכי ergonomic, אבל ודאי הכי맛ית דרך לכבוש עולם של וורקראפט עד עכשיו.",
     "d": "Fri, 17 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -413,7 +412,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "The case for fixing everything\n\nThe handsome new book Maintenance: Of Everything, Part One, by the tech industry legend Stewart Brand, promises to be the first in a series offering “a comprehensive overview of the civilizational importance of maintenance.” One of Brand’s several biographers described him as a mainstay of both counterculture and cyberculture, and with Maintenance, Brand wants us…",
+    "t": "המקרה לתיקון הכל\n\nStewart Brand, אגדה בתעשיית הטכנולוגיה, יצא עם ספר חדש וחשוב בשם 'Maintenance: Of Everything, Part One' שמבטיח להיות הראשון בסדרה על חשיבות התחזוקה והתיקון של כל דבר בחברה. בספר הזה Brand מנסה להראות לנו למה אנחנו כל כך שוכחים מהחשיבות של להחזיק דברים בתנאה טוב - בין זה טכנולוגיה, תשתיות או יחסים אנושיים.",
     "d": "Fri, 17 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -428,8 +427,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -437,7 +435,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "How robots learn: A brief, contemporary history\n\nRoboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.  The real ambition for many of these researchers was the robot of science fiction—one…",
+    "t": "איך רובוטים לומדים: היסטוריה קצרה ועכשווית\n\nרובוטיקאים חלמו גדול אבל בנו קטן - החלום היה C-3PO אבל בסופו של דבר קיבלנו Roomba. המחקר שלהם תמיד היה על רובוט מדע בדיון שיוכל להסתגל ולהתפתח בעצמו, אבל במציאות הם בילו שנים בשיפור זרועות רובוטיות לאוטופלנטים. המאמר הזה מספר על הטיול המפתיע של תחום הרובוטיקה - מהחלומות הגדולים של אמש למציאות הרבה יותר מעניינת של היום.",
     "d": "Fri, 17 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -452,8 +450,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -461,7 +458,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "TSMC warns of Intel Foundry's growing prowess during the company's latest earnings call — 'We view Intel as our formidable competitor and do not underestimate them'\n\nBy now, TSMC has become a much bigger chipmaker than Intel has ever been, but the world's top foundry still calls its American peer a 'formidable' competitor.",
+    "t": "TSMC מזהיר מפני כוחה ההולך וגדל של Intel Foundry - 'אנחנו רואים ב-Intel יריב עוצמתי ולא מזלזלים בהם'\n\nלמרות שTSMC הפכה לתופעה ענקית בהרבה מ-Intel, יצרנית השבבים המובילה בעולם עדיין מייחסת לעמיתתה האמריקאית את התואר 'יריב אדיר' - וברור שהיא לוקחת ברצינות את המהלכים החדשים של Intel בתחום ה-foundry business.",
     "d": "Fri, 17 Apr 2026 09:58:04 +0000",
     "v": 0,
     "l": [
@@ -484,7 +481,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "Strait of Hormuz crisis could result in Europe running out of jet fuel in six weeks\n\nEurope could run dangerously low on jet fuel within weeks as tensions in the Middle...",
+    "t": "משבר במצר הורמוז: אירופה עלולה להיתקל בחוסר דלק סילון תוך שישה שבועות\n\nהמתיחות בתוך המזרח התיכון עלולה להשפיע באופן ישיר על אירופה - לפי הערכות, רמות דלק סילון בעולם המערבי יכולות להגיע לנקודת קריטית תוך שבועות ספורים. זה אומר שהטיסות באירופה עלולות להיות בסכנה אם המצב בצמוד הורמוז יתגורר.",
     "d": "Fri, 17 Apr 2026 09:43:30 +0000",
     "v": 0,
     "l": [
@@ -507,7 +504,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "Low-protein diet shifts fat tissue into burn mode\n\nNot all body fat is created equal. There is white adipose tissue, which stores excess energy, brown adipose tissue, which burns energy, and a third category known as “beige” fat. This type of fat can emerge from white fat under certain conditions and take on the energy-burning properties of brown fat, making it a compelling target for obesity research.\nContinue Reading\nCategory: Obesity, Illnesses and conditions, Body and Mind\nTags: Weight Loss, Weight, Diet, Protein, City of Hope, McMaster Univ",
+    "t": "דיאטה נמוכה בחלבון משנה רקמות שומן להיות במצב \"שריפה\"\n\nמסתבר שלא כל שומן בגוף זהה - יש שומן לבן שאוגר אנרגיה, שומן חום שבוער אנרגיה, ויש גם שומן \"בז\" שנחשב לרובוט שמש של תעשיית ההשמנה. החוקרים גילו שתחת תנאים מסוימים, כמו דיאטה נמוכה בחלבון, השומן הלבן יכול להתמורפע לשומן בז שבוער קלוריות כמו שומן חום, מה שפותח דלתות חדשות למחקר השמנה.",
     "d": "Fri, 17 Apr 2026 09:28:00 GMT",
     "v": 0,
     "l": [
@@ -530,7 +527,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "Ukraine’s battle-proven interceptor drones shield US soldiers from Iran’s Shahed attacks\n\nA low-cost interceptor drone, first proven in combat against Russian Shahed barrages in Ukraine, has...",
+    "t": "כלי טיס מחסום אוקראיני הוכח בקרב מגן על חיילים אמריקנים מפני התקפות איראניות\n\nדרון מיירט בעלות נמוכה שהוכיח את עצמו בקרבות בעזרת אוקראינה נגד התקפות Shahed רוסיות, עכשיו משמש להגנת חיילים אמריקנים מפני טילים איראנים. הטכנולוגיה הזאת שפותחה בשדה הקרב משנה את חוקי המשחק בהגנה אווירית בעלות נמוכה וגבוהה. מדובר בדוגמה מעניינת איך צרכי צבא אמיתיים מובילים לפתרונות חדשניים שמשמשים בבסיסים צבאיים בכל העולם. מקור: Interesting Engineering",
     "d": "Fri, 17 Apr 2026 09:27:14 +0000",
     "v": 0,
     "l": [
@@ -553,7 +550,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 24,
-    "t": "Iron, UV light help make hydrogen from alcohol in new sustainable method\n\nScience often looks like white coats and high-tech, expensive labs, but sometimes, the future of...",
+    "t": "ברזל ואור UV עוזרים ליצור מימן מאלכוהול בשיטה חדשה וקיימת\n\nחוקרים גילו דרך חדשה וכל כך פשוטה לייצור מימן מאלכוהול בעזרת ברזל ואור UV - בלי צורך בציוד יקר ומסובך. השיטה הזו יכולה להיות משחק בשינוי בתחום האנרגיות הנקיות, ומשהו שגם עם תקציב צנוע אפשר להיות חלק ממנו.",
     "d": "Fri, 17 Apr 2026 09:02:11 +0000",
     "v": 0,
     "l": [
@@ -576,7 +573,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "Beijing brands Meta's Manus acquisition as \"conspiratorial\" and bars founders from leaving China\n\nChina's National Security Commission, led by President Xi Jinping, has branded Meta's $2 billion acquisition of AI startup Manus a \"conspiratorial\" attempt to hollow out the country's technology base, the Financial Times reports.\nThe article Beijing brands Meta's Manus acquisition as \"conspiratorial\" and bars founders from leaving China appeared first on The Decoder.",
+    "t": "בייג'ינג קוראת לרכישה של Meta את Manus \"קנוניה\" ועוצרת את מייסדיה מעזיבת סין\n\nהנציבות הלאומית לביטחון של סין בהנהגת שי ג'ינפינג פסלה את רכישת Meta בשווי 2 מיליארד דולר של סטארטאפ ה-AI Manus כניסיון \"קנונאי\" להחליש את בסיס הטכנולוגיה של הממלכה התיכונה. בצעד דרמטי, סין אסרה על מייסדי החברה להשאיר את הארץ, ובכך מעבירה מתח נוסף בין ריגול טכנולוגיה לבין יחסים בין-לאומיים. זו עוד התגובה הגורפת של בייג'ינג נגד השקעות זרות בחברות טק סטרטגיות שנראות לה כאיום על כושר התחרות שלה.",
     "d": "Fri, 17 Apr 2026 09:01:24 +0000",
     "v": 0,
     "l": [
@@ -594,17 +591,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding",
-      "security"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 26,
-    "t": "Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool\n\nRelease of new Claude model, so far limited to US firms, will expand to British institutions in coming days\nBritish banks will be given access in the next week to a powerful AI tool that was deemed too dangerous to be released to the public, as a series of senior finance figures warned over its impact.\nAnthropic, which has so far limited the release of the new model to a small clutch of primarily US businesses, including Amazon, Apple and Microsoft, said it would expand that to UK financial inst",
+    "t": "מנהלי כספים מזהירים בעקבות Mythos - בנקים בריטיים עומדים להשתמש בכלי AI חזק של Anthropic\n\nAnthropic משחררת את מודל Claude החדש והחזק שלה לבנקים בבריטניה בימים הקרובים, אחרי שהייתה זמינה עד כה רק לחברות אמריקאיות כמו Amazon, Apple ומיקרוסופט. בכירים בעולם הפיננסים מזהירים כבר מהשפעות הכלי החדש, שנחשב כך למסוכן שלא שוחרר לציבור הרחב. הגישה למודל החדש תהיה מוגבלת בשלב הראשון וממוקדת במוסדות פיננסיים.",
     "d": "Fri, 17 Apr 2026 08:17:58 GMT",
     "v": 0,
     "l": [
@@ -619,16 +614,13 @@ window.TELEGRAM_DATA = [
     ],
     "co": [
       "Anthropic",
-      "Microsoft",
       "Apple",
       "Amazon"
     ],
     "tags": [
       "news",
       "model",
-      "product",
-      "regulation",
-      "funding"
+      "product"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/6c7873490cf4f46df61186b00b7a8683dd0fff34/954_64_6498_5201/master/6498.jpg?width=140&quality=85&auto=format&fit=max&s=c1a78ca26cd57e061c681ee9e0377b44",
@@ -636,7 +628,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 27,
-    "t": "Surprisingly slim battery powers your fridge during hours-long outages\n\nBluetti's stuffed a large-capacity home backup battery – designed specifically to keep your fridge running when the power goes out – into a compact shape that's easy to fit and forget right in your kitchen.\nContinue Reading\nCategory: Consumer Tech, Technology\nTags: Backup, Electricity, Battery, Storage, Bluetti",
+    "t": "סוללת גיבוי דקה וחזקה שתשמור על המקרר שלכם במהלך הפסקות חשמל\n\nBluetti הכניסה סוללת גיבוי בעלת קיבולת ענקית לגוף קומפקטי שתמשיך להנעות את המקרר שלכם כשהחשמל נוצא, וזה קטן מספיק שתוכלו פשוט לשכוח שהוא שם במטבחכם. הפתרון הזה אומנם לא יזמין לכם כוס קפה חם במהלך הפסקת החשמל, אבל לפחות המזון שלכם לא יחמם ויתקלקל.",
     "d": "Fri, 17 Apr 2026 08:03:00 GMT",
     "v": 0,
     "l": [
@@ -659,7 +651,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 28,
-    "t": "Scientists explain what makes carbon black rubber strong enough for jet tires\n\nUniversity of South Florida researchers have solved a century-old mystery in materials science: what makes...",
+    "t": "מדענים חוקרים: מה הופך גומי פחמן לחזק מספיק לצמיגי סילון\n\nחוקרים מאוניברסיטת דרום פלורידה פתרו סוד שנמשך יותר מ-100 שנה בתחום מדעי החומרים: מה בדיוק הופך את פחמן השחור לכל כך חזק וחסין? התגלית הזו עלולה לשנות את הדרך בה אנחנו מייצרים צמיגים, סלים ומוצרים גומיים אחרים שצריכים לעמוד בתנאים קשים. זה כמו כשפתרת לבסוף את זה - אחרי מאה שנים של ניסיון וטעייה!",
     "d": "Fri, 17 Apr 2026 07:47:16 +0000",
     "v": 0,
     "l": [
@@ -682,7 +674,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 29,
-    "t": "Nvidia rival tells CNBC it's seeking at least $100 million in funding as European AI chip market booms\n\nInvestor interest for AI chip startups is rising, but big challenges remain for the nascent sector.",
+    "t": "יריבת Nvidia מחפשת למעלה מ-100 מיליון דולר - שוק ה-AI chips האירופי בוער\n\nהשקעות בסטארטאפים של AI chips עולות בעלייה תלולה, אבל התעשייה החדשה עדיין מתמודדת עם אתגרים גדולים. למרות זאת, אירופה משתלמת ממש עכשיו כשיותר ויותר משקיעים מחפשים חלופות ל-Nvidia בתחום ה-chips של בינה מלאכותית.",
     "d": "Fri, 17 Apr 2026 07:23:22 GMT",
     "v": 0,
     "l": [
@@ -700,8 +692,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "hardware",
-      "funding"
+      "hardware"
     ],
     "imp": "low",
     "thumb": null,
@@ -709,7 +700,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 30,
-    "t": "World-first eVTOL transition flight for Vertical Aerospace\n\nVertical Aerospace has scored a world-first as its full-scale tilt-rotor eVTOL completed a two-way piloted transition between vertical helicopter mode and horizontal airplane mode during a single continuous flight while under regulatory oversight.\nContinue Reading\nCategory: Aircraft, Transport\nTags: Vertical Aerospace, eVTOL, Flight Tests",
+    "t": "הישג עולמי: מטוס eVTOL של Vertical Aerospace בצע טיסת מעבר ללא תקדים\n\nחברת Vertical Aerospace עשתה היסטוריה כשמטוס ה-eVTOL שלה השלים לראשונה בעולם טיסה מעבר דו-כיוונית מצב אנכי (helicopter) לצורת טיסה אופקית (airplane) במהלך טיסה אחת ברציפות, כל זאת תחת פיקוח רגולטורי מלא. זה פשוט מסמן מרחק ענק בדרך להנדסה של תחבורה אוירית חדשה שיכולה לשנות את הנוסעות בעיר.",
     "d": "Fri, 17 Apr 2026 07:14:27 GMT",
     "v": 0,
     "l": [
@@ -732,7 +723,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 31,
-    "t": "50-year-old prediction confirmed as scientists spot darkness moving faster than speed of light\n\nA team of researchers from the Technion-Israel Institute of Technology has achieved a major breakthrough...",
+    "t": "חזון מ-50 שנה התבררר כנכון: מדענים צפו בחושך שנע מהר יותר ממהירות האור\n\nצוות חוקרים מטכניון הוכיח ברייק-תרו מדהים על ידי תצפית בתופעה שהייתה עד כה תיאורטית בלבד. התגלית הזאת פותחת דלתות חדשות להבנת הפיזיקה של האור והחושך, והיא עשויה להשפיע על כמה שדות טכנולוגיים בעתיד. מה שמעניין ביותר - זה לא בדיוק מפר את חוקי היקום, כי החושך כמו שמתברר לא עובר אינפורמציה.\n\nמקור: Interesting Engineering",
     "d": "Fri, 17 Apr 2026 07:10:07 +0000",
     "v": 0,
     "l": [
@@ -749,13 +740,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "Interesting Engineering"
   },
   {
     "id": 32,
-    "t": "Claude Opus wrote a Chrome exploit for $2,283\n\nPause your Mythos panic because mainstream models anyone can use already pick holes in popular software Anthropic withheld its Mythos bug-finding model from public release due to concerns that it would enable attackers to find and exploit vulnerabilities before anyone could react.…",
+    "t": "Claude Opus כתב Chrome exploit תמורת 2,283 דולר\n\nאל תדאגו יותר מדי - מודלי AI רגילים שכולם יכולים להשתמש בהם כבר מוצאים חולשות בתוכנה פופולרית. Anthropic החליטה להשהות את השחרור הציבורי של Mythos, מודל חיפוש הבאגים שלה, כי חששה שזה יאפשר להתקפים למצוא וניצול פגיעויות לפני שמישהו יוכל להגיב. התוצאה? גם מודלים רגילים כמו Claude Opus כבר מצליחים לעשות את זה בעצמם.\n\nמקור: The Register",
     "d": "2026-04-17T07:02:09.000Z",
     "v": 0,
     "l": [
@@ -781,7 +772,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 33,
-    "t": "Uber raises stake in Delivery Hero in $318 million deal\n\nProsus has been forced by European regulators to sell down its Delivery Hero stake in order to proceed with a proposed acquisition of Just Eat.",
+    "t": "אובר מגדילה את נתחה בדליברי היירו בעסקה של 318 מיליון דולר\n\nפרוסוס נאלצה על ידי רגולטורים אירופיים למכור חלק מהנתח שלה בדליברי היירו כדי להשלים את הרכישה המתוכננת של Just Eat. במהלך הזה, אובר מנצלת את ההזדמנות ומתחזקת את קיומה בשוק ההזמנות, בעוד שחברות הדיוור הגדולות ממשיכות במשחק של כיסוי שחקנים וקואליציות בתחום.",
     "d": "Fri, 17 Apr 2026 06:58:49 GMT",
     "v": 0,
     "l": [
@@ -796,16 +787,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 34,
-    "t": "Arky\n\nDiscussion\n            |\n            Link",
+    "t": "Arky\n\nאנחנו לא יכולים לתת לכם סיכום מלא כי הפרטים על Arky עדיין לא ברורים מהמידע שקיבלנו. זה נראה כמו פרויקט חדש שהוצג ב-Product Hunt, אבל צריך יהיה לחקור עוד כדי להבין בדיוק מה הוא עושה ולמה זה חשוב. אם אתם מעוניינים ללמוד עוד, כדאי לכם לבדוק את הדיון או הקישור במקור.",
     "d": "2026-04-17T06:50:44.000Z",
     "v": 0,
     "l": [
@@ -828,7 +818,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 35,
-    "t": "Uncrewed underwater vehicle enters service in Australia, can boost autonomous warfare power\n\nAustralia is advancing its naval capabilities with the introduction of the Ghost Shark extra-large autonomous...",
+    "t": "כלי שיט תת-ימי ללא צוות נכנס לשירות באוסטרליה ויכול להגביר את יכולות הלחימה האוטונומית\n\nאוסטרליה משדרגת את יכולות הצי שלה עם הצגת ה-Ghost Shark, רחפן תת-ימי אוטונומי ענק שיכול לתכנן משימות מורכבות ללא התערבות אדם. הטכנולוגיה החדשה הזו מפתחת יכולות לחימה אוטונומית משמעותיות ויכולה לשנות את אופן פעולת הצבא הימי בעידן החדש של הלוחמה. מערכת זו מייצגת צעד משמעותי בתחום הצי הללא צוות וקובעת תקדים חדש בתחום הטכנולוגיה הצבאית. מקור: Interesting Engineering",
     "d": "Fri, 17 Apr 2026 06:26:01 +0000",
     "v": 0,
     "l": [
@@ -843,8 +833,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -852,7 +841,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 36,
-    "t": "Qwen Team Open-Sources Qwen3.6-35B-A3B: A Sparse MoE Vision-Language Model with 3B Active Parameters and Agentic Coding Capabilities\n\nQwen Team Open-Sources Qwen3.6-35B-A3B: A Sparse MoE Vision-Language Model with 3B Active Parameters and Agentic Coding Capabilities\nThe post Qwen Team Open-Sources Qwen3.6-35B-A3B: A Sparse MoE Vision-Language Model with 3B Active Parameters and Agentic Coding Capabilities appeared first on MarkTechPost.",
+    "t": "צוות Qwen פתח את Qwen3.6-35B-A3B: מודל ראיית-שפה Sparse MoE עם 3B פרמטרים פעילים ויכולות coding אגנטיות\n\nצוות Qwen זה עתה פתח את Qwen3.6-35B-A3B - מודל Vision-Language חדש וחכם שמשתמש בטכנולוגיית Sparse MoE כדי להיות יעיל מאוד: למרות 35 מיליארד פרמטרים כוללים, רק 3 מיליארד מהם פעילים בכל שלב, מה שעושה את זה הרבה יותר זול וקל לריצה. המודל לא רק מבין תמונות וטקסט, אלא גם יכול לעזור בכתיבת קוד בצורה אוטונומית ו\"אגנטית\", מה שאומר שהוא יכול לתכנן ולהוציא קוד לבד.",
     "d": "Fri, 17 Apr 2026 06:18:32 +0000",
     "v": 0,
     "l": [
@@ -867,8 +856,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.marktechpost.com/wp-content/uploads/2026/04/blog-1-10.png",
@@ -876,7 +864,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 37,
-    "t": "SpeechPal\n\nDiscussion\n            |\n            Link",
+    "t": "SpeechPal\n\nכלי חדש שעוזר לכם לשפר את כישורי ההצגה והדיבור שלכם דרך practice ותמלול בזמן אמת. SpeechPal משתמשת ב-AI כדי לתת לכם feedback מיידי על הדיקציה, קצב הדיבור והברות שלכם, ממש כאילו יש לכם מאמן אישי בכיסכם.",
     "d": "2026-04-17T06:10:11.000Z",
     "v": 0,
     "l": [
@@ -899,7 +887,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 38,
-    "t": "Media coverage of violence against women reaches ‘dismal’ low, report finds\n\nAnalysis finds stories citing terms of misogynistic abuse fell to 1.3% of global online news in 2025\nMedia coverage of violence against women and girls and misogynistic harassment is at a “pitiful” low, despite a proliferation of high-profile cases of men abusing women and children, and a rise in AI-assisted violence against women and girls, new research shows.\nAn analysis of 1.14bn online stories published worldwide between 2017 and 2025 found that the proportion of articles that include terms ",
+    "t": "כיסוי תקשורתי של אלימות נגד נשים בנקודת ההתחתית - דוח חדש\n\nמחקר שנתח מעל מיליארד כתבות מרחבי העולם חשף שבע שנים שהכיסוי התקשורתי של אלימות נגד נשים ופחד מיניסטי ירד לרק 1.3% מהחדשות המקוונות - תוצאה שמכונה 'עגומה'. למרות העלייה בתיקים בעלי פרופיל גבוה של התעללות וגם האיומים החדשים של אלימות מונעת-AI נגד נשים וילדות, התקשורת עדיין מתעלמת מהנושא הזה כמעט לחלוטין.",
     "d": "Fri, 17 Apr 2026 06:00:22 GMT",
     "v": 0,
     "l": [
@@ -916,13 +904,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/9c50dc537bb81ab155991350d841eb29ed11064a/629_0_4825_3860/master/4825.jpg?width=140&quality=85&auto=format&fit=max&s=5583b059bbc364b3a73fe6fb3a582e70",
     "source": "The Guardian AI"
   },
   {
     "id": 39,
-    "t": "AgenticLens\n\nDiscussion\n            |\n            Link",
+    "t": "AgenticLens\n\nיש לנו כאן עוד כלי חדש שנוגע למושג של AI agents - AgenticLens בא להציע דרך חדשה להבין ולעבוד עם סוכנים בינה מלאכותית. מדובר בפלטפורמה שנראית שמתמקדת בחקירה וניתוח של איך agents מתנהגים ולאן הם הולכים עם כל decision שהם עושים. זה משהו שאמור להיות שימושי לכל מי שעובד עם AI agents ורוצה להבין טוב יותר מה בעצם קורה תחת הקסם.",
     "d": "2026-04-17T05:28:42.000Z",
     "v": 0,
     "l": [
@@ -946,7 +934,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 40,
-    "t": "Ichiba AI\n\nDiscussion\n            |\n            Link",
+    "t": "Ichiba AI\n\nנראה שיש כאן משהו חדש בעולם ה-AI שמעורר דיון בקהילת המוצרים הטכנולוגיים. אנחנו מחכים לפרטים נוספים על מה בדיוק Ichiba AI עושה וכיצד זה יכול לשנות את המשחק. אם אתה רוצה להצטרף לדיון, יש כאן לינק שמחכה לך.",
     "d": "2026-04-17T05:07:24.000Z",
     "v": 0,
     "l": [
@@ -969,7 +957,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 41,
-    "t": "Liz Kendall urges UK public to embrace AI as government makes first £500m fund investment\n\nTechnology secretary plays down fears over jobs and cyber security as stake taken in British startup\nThe UK technology secretary has urged the country to “make AI work for Britain”, brushing off fears about its impact on jobs and cybersecurity as the government announced its first investment under a £500m sovereign AI fund.\n\r\n Liz Kendall said the UK had to “seize” the opportunity offered by AI despite concerns underlined this month when US startup Anthropic revealed it had developed an AI model",
+    "t": "ליז קנדל קוראת לציבור בריטי להתחבק ל-AI כשהממשלה משקיעה 500 מיליון ליברה ראשונות\n\nשר הטכנולוגיה הבריטית ליז קנדל מנסה להרגיע את החששות לגבי השפעת AI על מקומות עבודה וביטחון סייבר, בזמן שהממשלה מכריזה על השקעתה הראשונה מתוך קרן ריבונית בהיקף 500 מיליון ליברה לחברות AI בריטיות. קנדל טוענת שבריטניה חייבת 'תופסת את ההזדמנות' שמציע ה-AI, למרות הדאגות שעלו לאחרונה כשחברת Anthropic האמריקנית חשפה מודל AI חדש וחזק במיוחד.",
     "d": "Fri, 17 Apr 2026 05:00:20 GMT",
     "v": 0,
     "l": [
@@ -987,9 +975,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/be4895f492014beb652836e00ea9dbde91aaec30/0_126_2555_2043/master/2555.jpg?width=140&quality=85&auto=format&fit=max&s=9803072ec328f34d8b9f2a3912f9c549",
@@ -997,7 +983,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 42,
-    "t": "Canva AI 2.0\n\nDiscussion\n            |\n            Link",
+    "t": "קנווה AI 2.0\n\nקנווה משיקה את הדור החדש של כלי ה-AI שלה, ובעזרתה אתה יכול ליצור עיצובים מדהימים בלי שום ניסיון קודם. הגרסה החדשה מביאה שיפורים משמעותיים בדיוק של ההוקסאות וביכולת ההבנה של מה שאתה רוצה בדיוק. אם אתה עוסק בעיצוב או שאתה סתם צריך להכין משהו מהר, זה כבר עדכון שחייב לעקוב אחריו. מקור: Product Hunt",
     "d": "2026-04-17T04:47:46.000Z",
     "v": 0,
     "l": [
@@ -1020,7 +1006,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 43,
-    "t": "Hacktron\n\nDiscussion\n            |\n            Link",
+    "t": "Hacktron\n\nנראה שמדובר בפרויקט או כלי חדש שצץ ב-Product Hunt, אבל בלי פרטים נוספים קשה לדעת בדיוק מה זה עושה. אם אתם מתעניינים, כדאי לחפור בדיון בקהילה או בלינק המקורי כדי להבין אם זה משהו שיכול לשנות את העולם או סתם עוד ניסיון מצחיק של קודרים לפתור בעיה שלא קיימת. המידע מ-Product Hunt.",
     "d": "2026-04-17T04:36:40.000Z",
     "v": 0,
     "l": [
@@ -1044,7 +1030,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 44,
-    "t": "Studio\n\nDiscussion\n            |\n            Link",
+    "t": "Studio\n\nסטודיו חדש שהופיע ב-Product Hunt - כנראה כלי או פלטפורמה שמעניינת את קהילת ה-tech. אם אתם חיפשתם משהו שיעזור לכם ליצור או לעבד תוכן, זה אולי כדאי לבדוק. למידע מלא, כדאי להציץ בדיון בפורום או בלינק המלא.",
     "d": "2026-04-17T04:19:40.000Z",
     "v": 0,
     "l": [
@@ -1067,7 +1053,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 45,
-    "t": "Does the brain really make its own DMT? New study ignites debate\n\nThe case for the negative\nContinue Reading\nCategory: Psychedelics, Medical Innovations, Body and Mind\nTags: Psychedelic Medicine, Drugs, Brain, Consciousness, Dreams",
+    "t": "האם המוח באמת מייצר DMT משלו? מחקר חדש מצית ויכוח\n\nתיאוריה שנחקרה שנים - האם המוח שלנו מייצר את ה-DMT הפסיכודליי בעצמו? מחקר חדש בא וזורק מינוס על התיאוריה הזו, וזה מעורר דיון חם בקהילה המדעית על מה שאנחנו באמת יודעים על ההלוציסינוגן הזה שמופיע בחלומות ובחוויות אסטרליות. ממש מעניין למי שחושב שהמוח הוא המעבדה הגדולה ביותר שלנו.",
     "d": "Fri, 17 Apr 2026 03:32:00 GMT",
     "v": 0,
     "l": [
@@ -1084,13 +1070,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "New Atlas"
   },
   {
     "id": 46,
-    "t": "After a saga of broken promises, a European rover finally has a ride to Mars\n\nEurope's first Mars rover mission is now on its fourth rocket: SpaceX's Falcon Heavy.",
+    "t": "לאחר סדרה של הבטחות שלא קוימו - הרובוט האירופאי סוף סוף יש לו טיסה אל מאדים\n\nהמשימה הראשונה של אירופה לכדור הארץ האדום עברה כמו רב-ספר: אחרי שלוש רקטות שלא הצליחו, סוף סוף בחרו בפלקון הביבי של SpaceX כדי להביא את הרובוט לשם. אחרי שנים של עיכובים והודעות כוזבות, נראה שהמשימה סוף סוף מתקדמת לעברה - וזה די קסום שסוף סוף יש לנו מישהו שמעניין להעלות אותה לחלל.",
     "d": "Fri, 17 Apr 2026 03:15:54 +0000",
     "v": 0,
     "l": [
@@ -1113,7 +1099,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 47,
-    "t": "Breakthrough Kia pop-up tiny camper van is even slicker than expected\n\nWell, that didn't take long at all. Less than two months after teasing the first Kia PV5 pop-up camper van, Sussex Campervans has revealed its work. And while the original renderings clearly showed a tiny, well-proportioned e-camper van, the actual conversion looks even better than expected. It offers a sleek, rustic layout with sleeping, cooking, dining and even toilet amenities inside a small electric van that's already managed a 430-mile (693-km) trip on a single charge.\nContinue Reading\nCate",
+    "t": "קיה חשפה קרוואן קטן מהפנתי שהוא עוד יותר מגניב מהצפוי\n\nקיה PV5 הוא קרוואן חשמלי זעיר שהתברר כפשוט מושקע - עם מטבח, חדר שינה, מקום אוכל ואפילו שירותים בתוך רכב קטן וממש עדין. הדבר המצחיק ביותר? הרכב כבר הצליח לנסוע 430 קילומטרים בטעינה אחת, ומה שראינו בתמונות הרנדרים של קיה - זה כלום בהשוואה לרכב האמיתי שיצא מהמוסך. זה בדיוק סוג הפתרון שישראלים שאוהבים טיולים קטנים וחוקי נשמחו לראות.",
     "d": "Fri, 17 Apr 2026 02:41:22 GMT",
     "v": 0,
     "l": [
@@ -1130,13 +1116,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "New Atlas"
   },
   {
     "id": 48,
-    "t": "Asteroid-mining microbes extract metal from rocks in space\n\nHumanity may be one step closer to space-mining and cosmic self-sustainability, thanks to a secret, tiny weapon: microbes.\nContinue Reading\nCategory: Science\nTags: Asteroid Mining, Asteroid, Metals, Microbes",
+    "t": "חיידקים כורים בחלל: מיקרוביוטכנולוגיה למוצא אסטרואידים\n\nעוד דרך קטנה אבל חזקה לפתור את בעיית המשאבים בחלל - חיידקים! מדענים גילו שניתן להשתמש בחיידקים זעירים כדי להוציא מתכות מסלעים אסטרואידים, דבר שיכול להפוך את חלל למקום עם משאבים עצמיים ברמה חדשה. זה פתיחה שרירותית למעין גולדראש קוסמי עם כלים ביולוגיים.",
     "d": "Fri, 17 Apr 2026 02:02:00 GMT",
     "v": 0,
     "l": [
@@ -1149,12 +1135,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -1162,7 +1145,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 49,
-    "t": "Quasi-solid-state battery hits 99.98% efficiency, stops dendrites, and boosts cycle life\n\nResearchers at Hong Kong University of Science and Technology have developed a new material that...",
+    "t": "סוללה קוואזי מצב מוצק משיגה יעילות של 99.98% ופוחתת בחיי המחזור\n\nחוקרים מאוניברסיטת HKUST בהונג קונג פיתחו חומר מהפכני שמעלה את היעילות של סוללות קוואזי מצב מוצק ל-99.98% - מה שמעצים משמעותית את ביצועי התאים. הטכנולוגיה החדשה גם מצליחה לעצור תופעת dendrites (אלו קריסטלים מעוררי בעיה שמדרדרים סוללות), דבר שמאריך משמעותית את חיי המחזור של הסוללה. זה עוד צעד גדול בדרך לסוללות קוואזי מצב מוצק שיוכלו להתחרות באמת עם הטכנולוגיות הקיימות.",
     "d": "Fri, 17 Apr 2026 01:19:48 +0000",
     "v": 0,
     "l": [
@@ -1185,7 +1168,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 50,
-    "t": "DASCA\n\nDiscussion\n            |\n            Link",
+    "t": "DASCA\n\nנראה שמדובר בכלי או פלטפורמה שעוד לא הוכרזה רשמית, אבל היא כבר יוצרת buzz בקהילת ה-tech. המוצר הופיע ב-Product Hunt וכנראה שהוא קשור לאיזה פתרון טכנולוגי חדש שזה הזמן לעקוב אחריו. אם אתם עוקבים אחרי ההשקות החדשות, זה אחד מה-products שכדאי להעמיד עיניים עליו.",
     "d": "2026-04-17T01:16:39.000Z",
     "v": 0,
     "l": [
