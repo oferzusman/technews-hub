@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Factory hits $1.5B valuation to build AI coding for enterprises\n\nThe three-year-old startup raised $150 million led by Khosla Ventures.",
+    "t": "Factory הגיעה להערכת שווי של 1.5 מיליארד דולר בדרכה לבנות AI לקוד לארגונים\n\nסטארטאפ בן שלוש שנים just closed מסבב גיוס של 150 מיליון דולר בהובלת Khosla Ventures, וזה אומר שהחבר'ה באמת מאמינים בעתידה של AI שכותב קוד עבור חברות גדולות. Factory בעצם מדברת על להחליף מפתחים, אבל בתחילת הדרך הם עדיין far from פתרון מושלם - אבל התקציב הזה מרמז שהשוק רואה בזה next big thing.",
     "d": "Thu, 16 Apr 2026 22:55:30 +0000",
     "v": 0,
     "l": [
@@ -16,8 +16,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -25,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Anthropic won't own MCP 'design flaw' putting 200K servers at risk, researcher says\n\nBug or feature? A design flaw – or expected behavior based on a bad design choice, depending on who is telling the story – baked into Anthropic's official Model Context Protocol (MCP) puts as many as 200,000 servers at risk of complete takeover, according to security researchers.…",
+    "t": "אנתרופיק מכחישה באג בפרוטוקול MCP שמסכן 200 אלף שרתים\n\nחוקרי אבטחה גילו פגם עיצובי בפרוטוקול Model Context Protocol (MCP) של אנתרופיק שעלול לחשוף למסכנה עד 200,000 שרתים בעולם. אנתרופיק נוקטת בעמדה שזו לא באג אלא בחירת עיצוב - או כמו שהחוקרים אומרים, בחירה גרועה בעיצוב. התוכנות שמתחברות דרך הפרוטוקול היכולות להיות חשופות להשתלטות מלאה על השרתים שלהן. מקור: The Register",
     "d": "2026-04-16T22:45:37.000Z",
     "v": 0,
     "l": [
@@ -38,14 +37,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "regulation",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -53,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Cramer warns of excessive speculation in the market. He says buy these credible stocks instead\n\nCNBC's Jim Cramer warns that speculation is getting out of hand and points to alternative places to invest.",
+    "t": "קריימר מזהיר: הספקולציה יצאה מכלים - הנה איפה כדאי להשקיע בעצם\n\nג'ים קריימר מ-CNBC מעיר כעת שהשוק התפספס בעניין הספקולציות ובא בהצעה לחלופה: מניות מוקדות וחזקות שאם אתם חושבים על העתיד, זה בדיוק מה שצריך. במקום להתחזק על יצירות היום, הוא מציע לתת את הדעת על חברות עם יסודות אמיתיים שלא יתנפצו כשהבועה תתפוקח.",
     "d": "Thu, 16 Apr 2026 22:29:52 GMT",
     "v": 0,
     "l": [
@@ -76,7 +70,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Luma launches AI-powered production studio with faith-focused Wonder Project\n\nThe studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
+    "t": "Luma משיקה סטודיו ייצור מופעל AI עם פרויקט Wonder מוכוון לקהל דתי\n\nסטודיו הייצור החדש של Luma הולך ישר לעשות סרט על משה עם הכוכב בן קינגסלי, וזה הולך להשקע בPrime Video בעוד כמה חודשים. אנחנו מדברים על שימוש ברצינות ב-AI לייצור תוכן מדי, והפעם זה לא משהו רנדומלי אלא פרויקט שמכוון לקהל משהו יותר מסוגר. זה מראה איך AI הולך לשנות את כל תעשיית הקולנוע והטלוויזיה.",
     "d": "Thu, 16 Apr 2026 21:58:08 +0000",
     "v": 0,
     "l": [
@@ -93,13 +87,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 5,
-    "t": "Mozilla throws Thunderbolt at enterprise AI providers\n\nClient connects to deepset's Haystack platform Mozilla has declared war on OpenAI, Microsoft, and other firms flogging enterprise AI platforms with an open-source alternative it says provides data privacy guarantees proprietary products never could. …",
+    "t": "Mozilla תוקפת ישירות את ספקי AI לעסקים\n\nמוזילה הכריזה על מלחמה נגד OpenAI ו-Microsoft עם פתרון AI פתוח המבטיח שמירת פרטיות נתונים שמוצרים קנויים לא יכולים להציע. הפלטפורמה החדשה של מוזילה מתחברת לפלטפורם Haystack של deepset ומעניקה לעסקים אלטרנטיבה זול ובטוח יותר לפתרונות ה-AI הקנויים.",
     "d": "2026-04-16T21:35:09.000Z",
     "v": 0,
     "l": [
@@ -127,7 +121,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Intel refreshes non-Ultra Core CPUs with new silicon for the first time\n\nFor the first time in a while, the benefits of new Intel tech will trickle down.",
+    "t": "אינטל משדרגת את Core ללא Ultra עם סיליקון חדש לראשונה\n\nאחרי הרבה זמן, ההטבות של הטכנולוגיה החדשה של אינטל סוף סוף מגיעות גם לתהליכי ה-CPU הרגילים. זה אומר שתוכלו לקבל ביצועים משופרים במחיר יותר משוקל לעומת הדגמים ה-Ultra היוקרתיים שלהם.\n\nמקור: Ars Technica",
     "d": "Thu, 16 Apr 2026 21:33:33 +0000",
     "v": 0,
     "l": [
@@ -150,7 +144,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Building Transformer-Based NQS for Frustrated Spin Systems with NetKet\n\nLearn how to combine Transformer architectures with Quantum Physics using NetKet and JAX. This guide walks through building a research-grade VMC pipeline to solve the frustrated J1-J2 Heisenberg spin chain with Neural Quantum States.\nThe post Building Transformer-Based NQS for Frustrated Spin Systems with NetKet appeared first on MarkTechPost.",
+    "t": "בניית Neural Quantum States מבוססת Transformer לסימולציית מערכות ספין עם NetKet\n\nגם אתם יכולים לבנות צינור VMC בדרגת מחקר שמשלב Transformer עם פיזיקה קוונטית באמצעות NetKet ו-JAX. המדריך הזה מלמד איך לפתור בעיות קוונטיות מסובכות של שרשראות ספין בעזרת Neural Quantum States - קומבינציה מדהימה שמחברת בינה מלאכותית לפיזיקה תיאורטית.",
     "d": "Thu, 16 Apr 2026 21:32:14 +0000",
     "v": 0,
     "l": [
@@ -173,7 +167,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "300-million-year-old German Basin could hold one of Europe’s largest lithium resources\n\nGermany has launched a new research initiative to assess whether lithium trapped in ancient saline...",
+    "t": "בריכת גרמנית בת 300 מיליון שנה עלולה להכיל את המשאבי ליתיום הגדולים ביותר באירופה\n\nגרמניה התחילה מיוזמת מחקר חדשה כדי לבדוק אם אפשר להוציא ליתיום מעתיקות מליחות שנוצרו לפני מיליונים שנים - וזה עלול להיות game-changer למהפכת הסוללות באירופה. אם הדבר יתברר כעשוי להישימות, גרמניה יכולה להפוך למעצמה בתחום אספקת הליתיום ולהפחית את התלות בחו\"ל. זה באמת סטוריה על כמה טבע יכול לעזור לנו בעידן הטכנולוגיה החדשה.\n\nמקור: Interesting Engineering",
     "d": "Thu, 16 Apr 2026 21:31:06 +0000",
     "v": 0,
     "l": [
@@ -196,7 +190,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "OpenAI starts offering a biology-tuned LLM\n\nGPT-Rosalind is an LLM trained on biology workflows, available in closed access.",
+    "t": "OpenAI משיקה מודל שפה מתמחה בביולוגיה\n\nOpenAI השיקה את GPT-Rosalind, מודל בינה מלאכותית שהוכשר במיוחד לעבודות ברובוטיקה וביולוגיה מולקולרית, והוא כרגע זמין רק בגישה מוגבלת לבוטחים מסוימים. ה-LLM החדש מעוצב בעיקר לעזור לחוקרים וביולוגים לחזור על סדרות DNA, לחזות מבנה חלבונים, ולתכנן ניסויים בדיוק גבוה הרבה יותר מאשר מודלים כלליים קיימים. זה עוד צעד של OpenAI להביא את הכוח של AI לתחומים מיוחדים שדורשים ידע עמוק וטכני.",
     "d": "Thu, 16 Apr 2026 21:17:47 +0000",
     "v": 0,
     "l": [
@@ -222,7 +216,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "As they got close to the Moon, Artemis II astronauts were eager to land\n\n\"If you had given us the keys to the lander, we would have taken it down.\"",
+    "t": "כשהתקרבו לירח, אסטרונאוטים של ארטמיס II היו שואפים להנחות\n\nהאסטרונאוטים של משימת ארטמיס II היו כל כך שואפים להנחות את כלי הירידה שלהם בירח, שאמרו שאילו היו מקבלים את המפתחות, הם כבר היו לוקחים אותו למטה. המשימה הגיעה קרוב מאוד למטרתה אבל בסופו של דבר הוקפאה, מה שהשאיר את הצוות תשוקה אדירה לשנייה.",
     "d": "Thu, 16 Apr 2026 21:00:38 +0000",
     "v": 0,
     "l": [
@@ -268,7 +262,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Mozilla launches Thunderbolt AI client with focus on self-hosted infrastructure\n\nNew tool builds on deepset’s Haystack toward a “decentralized open source AI ecosystem.”",
+    "t": "Mozilla משיקה לקוח Thunderbolt AI עם דגש על תשתית self-hosted\n\nMozilla הציגה כלי חדש שמבוסס על Haystack של deepset, במטרה ליצור מערכת אקוסיסטם AI של קוד פתוח מבוזרת. הכלי מאפשר למשתמשים להריץ מודלים AI בשרתים שלהם כדי לשמור על שליטה מלאה על הנתונים והתשתית. זה כחלק מהמעבר הגדול של המשק לכיוון AI מקומי וללא תלות בשחקנים גדולים. (Ars Technica)",
     "d": "Thu, 16 Apr 2026 20:43:46 +0000",
     "v": 0,
     "l": [
@@ -285,13 +279,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/thunderbolt-1152x648-1776371337.webp",
     "source": "Ars Technica"
   },
   {
     "id": 13,
-    "t": "Upscale AI in talks to raise at $2B valuation, says report\n\nAI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
+    "t": "Upscale AI במשא ומתן להגדלת הון בהערכה של 2 מיליארד דולר\n\nחברת התשתיות AI של Upscale בהיר וברוזן - רק 7 חודשים אחרי ההשקה והיא כבר במשא ומתן על סבב מימון שלישי. זה אומר משהו על החשק השוקי לחברות שמפתחות infrastructure ל-AI, ובפרט לחברות שמצליחות להשיג הערכות כל כך גבוהות בזמן כל כך קצר.",
     "d": "Thu, 16 Apr 2026 20:41:13 +0000",
     "v": 0,
     "l": [
@@ -306,10 +300,9 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
@@ -1515,7 +1508,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 63,
-    "t": "Anthropic's Claude Opus 4.7 makes a big leap in coding, while deliberately scaling back cyber capabilities\n\nAnthropic's new flagship model Claude Opus 4.7 delivers major improvements in coding tasks. During training, the company deliberately tried to reduce certain cybersecurity capabilities.\nThe article Anthropic's Claude Opus 4.7 makes a big leap in coding, while deliberately scaling back cyber capabilities appeared first on The Decoder.",
+    "t": "Claude Opus 4.7 של Anthropic קופץ קדימה בקוד, אבל בכוונה משחררת יכולות סייבר\n\nClaude Opus 4.7 החדש של Anthropic מביא שיפורים ענקיים בכל הקשור לכתיבת קוד, אבל לצד זה החברה בחרה בכוונה להפחית יכולויות מסוימות בתחום הסייבר סיקיוריטי. זה בעצם צעד חכם של Anthropic להתמקד בדברים שחשובים לרוב המשתמשים, כמו קודים שעובדים, בזמן שמנסים להימנע מפוטנציאל שימוש רע.",
     "d": "Thu, 16 Apr 2026 15:52:49 +0000",
     "v": 0,
     "l": [
@@ -1533,8 +1526,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -1542,7 +1534,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 64,
-    "t": "Teens Alarmed at What AI Is Doing to Their Minds\n\n\"I want to have my normal brain back.\"\nThe post Teens Alarmed at What AI Is Doing to Their Minds appeared first on Futurism.",
+    "t": "בני נוער מודאגים מהשפעת ה-AI על המוח שלהם\n\nדוברים צעירים מדווחים על חרדה גדולה מהשפעות הבינה המלאכותית על תפקוד הקוגניטיבי שלהם - חלקם אפילו מבטאים רצון להחזיר את המוח הרגיל שלהם. כנראה שהשימוש הנרחב בטכנולוגיות AI וחברתיות מתחיל להשפיע על דפוסי החשיבה והריכוז של הדור החדש בדרכים שמעוררות אזהרות.",
     "d": "Thu, 16 Apr 2026 11:52:36 -0400",
     "v": 0,
     "l": [
@@ -1565,7 +1557,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 65,
-    "t": "US unveils AI-powered drone with 66-mile reach, modular payload transforms operations\n\nA US defense company has unveiled a new autonomous modular drone that can handle surveillance,...",
+    "t": "ארה״ב חשפה דרון בחזקת AI בטווח של 106 קילומטר עם מטמונה מודולרית\n\nחברת הגנה אמריקאית הציגה דרון אוטונומי חדש שיכול להתמודד עם מטלות 感视ורטור, קישור תקשורת ועוד בזכות המטמונה המודולרית שלו. הטכנולוגיה הזו מאפשרת לשנות את יכולות הדרון בשדה בחצי דקה, מה שהופך אותו לנשק משחק לתפעול צבאי מודרני. המכשיר יכול להטוס עד 106 קילומטר ללא צורך בטייס, וזה בדיוק מה שצבאות בעולם חיכו לו.",
     "d": "Thu, 16 Apr 2026 15:50:40 +0000",
     "v": 0,
     "l": [
@@ -1580,8 +1572,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.youtube.com/embed/LQ0XV_wjUU0",
@@ -1589,7 +1580,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 66,
-    "t": "Elegoo announces the Jupiter 2 resin 3D printer for $949, early bird price of $849 — new model offers massive print volume but is still physically smaller than previous models\n\nThe Jupiter 2 has a massive 14.6-liter build volume and a 14-inch 16K LCD screen that delivers 20 x 26µm XY resolution. It's currently on pre-sale but is expected to arrive after June 30, 2026.",
+    "t": "Elegoo משיקה את Jupiter 2 - מדפסת רזין 3D ענקית ב-949 דולר (849 בהנחת early bird)\n\nמדפסת הרזין החדשה של Elegoo מגיעה עם נפח בנייה ענקי של 14.6 ליטר ומסך LCD 16K בגודל 14 אינץ' שמספק רזולוציה XY של 20 x 26 מיקרומטר - וזה כל זה בעוד שהיא קטנה יותר מהדגם הקודם! המדפסת כבר בהזמנה מוקדמת ותגיע אחרי 30 ביוני 2026.",
     "d": "Thu, 16 Apr 2026 15:40:13 +0000",
     "v": 0,
     "l": [
@@ -1606,13 +1597,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/VyhcQS4uSyNS7yUvJfCrjV-1280-80.png",
     "source": "Tom's Hardware"
   },
   {
     "id": 67,
-    "t": "Anthropic launches Opus 4.7 with 13% higher vision resolution and stronger coding\n\nAnthropic has released its latest flagship AI model, Claude Opus 4.7, marking a step forward...",
+    "t": "אנתרופיק משיקה את Opus 4.7 עם דיוק ראייה גבוה ב-13% ויכולות קידוד חזקות יותר\n\nאנתרופיק הוציאה את Claude Opus 4.7, דור חדש של מודל ה-AI הפלגמנט שלה, שבא עם שיפורים משמעותיים בעיבוד תמונות וקוד. המודל החדש משפר את רזולוציית הראייה ב-13% וגם חזק יותר בתחום הקידוד - וזה אומר שהוא יוכל להבין תמונות בפרטים יותר טובים ולכתוב קוד יותר מדויק. זהו צעד נוסף בתחרות ה-AI שמתרחשות כרגע בין השחקנים הגדולים בתעשייה.",
     "d": "Thu, 16 Apr 2026 15:28:35 +0000",
     "v": 0,
     "l": [
@@ -1632,13 +1623,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "Interesting Engineering"
   },
   {
     "id": 68,
-    "t": "Apple sends Siri developers to AI coding bootcamp\n\nApple is sending some of its Siri developers back to school. Fewer than 200 engineers will go through a multi-week bootcamp to learn how to use AI coding tools like Anthropic's Claude Code or OpenAI's Codex, according to The Information.\nThe article Apple sends Siri developers to AI coding bootcamp appeared first on The Decoder.",
+    "t": "אפל שולחת מפתחי Siri לחוג אימוני קוד עם AI\n\nאפל החליטה להוציא את מהנדסי Siri שלה לקורס אימון אינטנסיבי בכלים של coding מבוססי AI. כמעט 200 מהנדסים יתחברו לתכנית שתכלול שימוש ב-Claude Code של Anthropic וב-Codex של OpenAI, וזה די משמעותי בהקשר של הרצון של אפל להישאר במרוץ ה-AI. נראה שאפל מבינה שצריך להכשיר את הצוות שלה בכלים החדשים האלה כדי לא להיפול מאחור בתחום.",
     "d": "Thu, 16 Apr 2026 15:28:14 +0000",
     "v": 0,
     "l": [
@@ -1667,7 +1658,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 69,
-    "t": "OpenAI wants to sell more ads in ChatGPT, but advertisers are struggling with basic tools\n\nOpenAI is expanding its advertising business in ChatGPT and introducing new pricing models. But early advertisers are running into a lack of tracking tools and limited targeting options.\nThe article OpenAI wants to sell more ads in ChatGPT, but advertisers are struggling with basic tools appeared first on The Decoder.",
+    "t": "OpenAI רוצה למכור עוד פרסומות ב-ChatGPT, אבל מפרסמים מתקשים עם כלים בסיסיים\n\nOpenAI מרחיבה את עסקי הפרסום שלה ב-ChatGPT ומציגה מודלי תמחור חדשים, אבל מפרסמים ראשונים מגלים שחסרים להם כלים לעקיבות נתונים ויכולות targeting מוגבלות. בקיצור - OpenAI רוצה הרבה דרך להרוויח כסף מהפלטפורמה, אבל עדיין לא בנתה את התשתיות שמפרסמים בעצם צריכים כדי להצליח.",
     "d": "Thu, 16 Apr 2026 15:23:44 +0000",
     "v": 0,
     "l": [
@@ -1693,7 +1684,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 70,
-    "t": "Pragmata PC performance tested: 18 GPUs take us to the Moon\n\nCapcom's Pragmata blends strategic gunplay and split-second puzzle solving for a fresh and fun adventure on the Moon. Oh, and everything is 3D printed. We tested 18 different GPUs for rasterization, ray tracing, and path-traced performance to find the best way to play.",
+    "t": "בדיקת ביצועי Pragmata על PC: 18 GPUs למסע אל הירח\n\nקפקום הביאה לנו משחק אקשן אסטרטגי מטורף על הירח שבו הכל הדפסה תלת-מימדית, ועכשיו בדקנו את זה על 18 כרטיסי גרפיקה שונים כדי לראות איפה הוא באמת זורם. התוצאות כוללות בדיקות של rasterization, ray tracing ו-path tracing, והמסקנה היא שיש משחק שלא היה לנו בחשבון שיהיה כזה demanding - אבל הוא מדהים!",
     "d": "Thu, 16 Apr 2026 15:06:07 +0000",
     "v": 0,
     "l": [
@@ -1719,7 +1710,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 71,
-    "t": "Google is now targeting bad ads over bad actors\n\nGoogle blocked 8.3 billion ads in 2025 but suspended fewer advertisers.",
+    "t": "גוגל יוצאת נגד מודעות רעות ולא רק נגד מפרסמים רעים\n\nגוגל חסמה 8.3 מיליארד מודעות בשנת 2025, אבל בעצם השעתה פחות מפרסמים. במילים אחרות, העיתונאית של גוגל מתמקדת בהסרת המודעות הגרועות עצמן במקום להשעות חשבונות שלמים של מפרסמים - זה קצת כמו לנקות את הבית מהחרקים בכל פעם במקום לקרוא לטוקסיקולוג.",
     "d": "Thu, 16 Apr 2026 15:00:00 +0000",
     "v": 0,
     "l": [
@@ -1732,21 +1723,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 72,
-    "t": "Bytedance rolls out Seedance 2.0 to 100+ countries but keeps the US off the list\n\nBytedance is rolling out its AI video model Seedance 2.0 to over 100 countries—but the US isn't one of them, likely due to ongoing copyright disputes with Hollywood studios.\nThe article Bytedance rolls out Seedance 2.0 to 100+ countries but keeps the US off the list appeared first on The Decoder.",
+    "t": "ביידאנס משיקה את Seeance 2.0 ל-100+ מדינות – אבל ללא ארצות הברית\n\nביידאנס החלה להפיץ את מודל ה-AI שלה לייצור וידאו Seeance 2.0 ל-יותר מ-100 מדינות בעולם, אבל בחרה להישאר רחוק מהשוק האמריקני. כנראה שהחברה הסינית מנסה להימנע מהסכסוכים המשפטיים המתמשכים עם סטודיוהי הוליווד שטוענים לפרות זכויות יוצרים.",
     "d": "Thu, 16 Apr 2026 14:39:45 +0000",
     "v": 0,
     "l": [
@@ -1769,7 +1756,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 73,
-    "t": "Chinese fabs import record volumes of US chipmaking equipment via Singapore and Malaysia — homegrown tool makers booked record 2025 revenues as price competition squeezes margins\n\n2025 was a bumper year for Chinese chipmaking equipment firms Naura, AMEC, ACM Research, and Piotech, with each posting record revenues.",
+    "t": "מפעלים סינים מייבאים רקורד של ציוד ייצור שבבים אמריקני דרך סינגפור ומלזיה — יצרנים סיניים ביתיים השגו הכנסות שיא בשנת 2025\n\n2025 הייתה שנה מפרכת לחברות ייצור ציוד שבבים סיניות כמו Naura ו-AMEC שחגגו הכנסות בהיסטוריה שלהן, אבל יש כאן פתיל מעניין - סין מחוכמת מחפשת דרכים לעקוף סנקציות אמריקאיות על ידי ייבוא ציוד דרך מדינות שלישיות. התחרות המחירים התגברה כמו שום דבר, דבר שדחק את השוליים של כולם.",
     "d": "Thu, 16 Apr 2026 14:38:01 +0000",
     "v": 0,
     "l": [
@@ -1792,7 +1779,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 74,
-    "t": "Get an entire Lenovo Legion Pro 7i RTX 5090 gaming laptop with OLED screen for $3,199, less than the price of a desktop RTX 5090 graphics card — save $800 while stocks last on this monster machine\n\nSave $800 on this over-the-top RTX 5090 beast. The Lenovo Legion Pro 7i gaming laptop is on sale for $3199.",
+    "t": "Lenovo Legion Pro 7i עם RTX 5090 ו-OLED ב-$3,199 - פחות מהמחיר של כרטיס גרפיקה לבדו, חיסכון של $800\n\nאוקיי, זה משהו שלא כל יום רואים - Lenovo Legion Pro 7i עם RTX 5090 נמכר ב-$3,199 עם הנחה של $800, שזה למעשה פחות מהמחיר של כרטיס ה-GPU עצמו במחשב שולחני. מדובר בלפטופ גיימינג ממש פראי עם מסך OLED שמתאים לכל מי שחיפש משהו קנקן באמת לעבודה כבדה וגיימינג על הדרך.",
     "d": "Thu, 16 Apr 2026 14:21:06 +0000",
     "v": 0,
     "l": [
@@ -1805,9 +1792,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Nvidia"
+    ],
     "tags": [
-      "news"
+      "news",
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/9z5H3Za5pk7hw6YhNks49H-1280-80.jpg",
@@ -1815,7 +1805,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 75,
-    "t": "Meet the Quantum Kid\n\nNine-year-old Kai Moskvitch's podcast explores how quantum technologies can transform our daily lives.",
+    "t": "הכרות עם הילד הקוונטי\n\nקיי מוסקביץ', בן 9 בלבד, הפעיל פודקאסט שמדבר על איך טכנולוגיות קוונטום יכולות לשנות את חיינו היומיומיים. זה לא סתם קול נוסף בעולם הטכנולוגיה - זה הוא ילד שהחליט להיות המורה שלנו בעולם המסתורי של הקוונטום. מתוך עידוד בעבור מדע וטכנולוגיה, הוא הצליח להפוך קונספט מורכב לטיול מעניין עבור כולנו.",
     "d": "Thu, 16 Apr 2026 14:17:35 +0000",
     "v": 0,
     "l": [
@@ -1838,7 +1828,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 76,
-    "t": "Make crappy moves around AI and face voter backlash, govts warned\n\nWhen the taxpayers are wondering whose side you are on... Britain's government faces a public backlash against AI unless it can show ordinary people that they stand to benefit from its push to inject the technology into every area of the UK in the name of growth.…",
+    "t": "ממשלות זהרו: צעדים גרועים בנושא AI יגרמו לתגובת בוחרים\n\nבריטניה לומדת את השיעור בקשה: אם הממשלה רוצה להשקיע בـ AI ולחדור בה לכל פינת הכלכלה, היא חייבת להוכיח לתושבים רגילים שהם יהנו מזה בפועל. כשנשאלת השאלה \"מי הממשלה עומדת לצידך?\", אתה רואה תגובת אש של בוחרים חמוסים על טכנולוגיה שנראית כמו משהו רק לעשירים או לחברות טכנולוגיה.",
     "d": "2026-04-16T14:17:27.000Z",
     "v": 0,
     "l": [
@@ -1861,7 +1851,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 77,
-    "t": "Video Shows Amazon Delivery Drone Dropping Package Directly Onto Concrete, Smashing Its Delicate Contents\n\n\"It does drop from 10 feet in the air.\"\nThe post Video Shows Amazon Delivery Drone Dropping Package Directly Onto Concrete, Smashing Its Delicate Contents appeared first on Futurism.",
+    "t": "וידאו מראה רחפן משלוחים של אמזון משליך חבילה ישירות על בטון וגורם לנזק קשה\n\nאמזון עוד יש לה כמה בעיות לפתור עם טכנולוגיית הרחפנים שלה - בוידאו שצף לאחרונה אפשר לראות את הרחפן משליך חבילה מגובה של כ-3 מטרים ישירות על קרקע בטון, והתוצאה היא די גרועה לתוכן החבילה. נראה שהחברה עדיין צריכה לעבוד על מנגנוני הנחתה יותר עדינים אם היא רוצה להתחיל בהפצה מסחרית אמיתית עם הטכנולוגיה הזו.",
     "d": "Thu, 16 Apr 2026 10:17:11 -0400",
     "v": 0,
     "l": [
@@ -1874,12 +1864,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/amazon-delivery-drone-smash.jpg?quality=85",
@@ -1887,7 +1874,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 78,
-    "t": "Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster\n\nRunway’s CEO says AI could help studios make dozens of films for the cost of one, betting volume will boost hit-making odds.",
+    "t": "מנכ\"ל Runway: AI יכול להפוך את הוליווד לפקטוריית סרטים - 50 בתמורה לבלוקבסטר אחד\n\nלפי מנכ\"ל Runway, ה-AI עלול לקטוע את העלויות של הפקת סרטים באופן דרמטי - בעזרת הטכנולוגיה החדשה, סטודיוהים יוכלו להפיק עשרות סרטים במחיר של בלוקבסטר יחיד שעולה 100 מיליון דולר. התיאוריה היא שאם תגדילו את נפח הייצור, סטטיסטית יגדל גם הסיכוי שאחד הסרטים יהפוך להיט.",
     "d": "Thu, 16 Apr 2026 14:14:29 +0000",
     "v": 0,
     "l": [
@@ -1910,7 +1897,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 79,
-    "t": "Germany airdrops 5 ton ‘mini tank’ from aircraft in first airborne test trial\n\nGermany’s airborne forces have successfully tested the airdrop of their ultra-light Wiesel armored vehicle from...",
+    "t": "גרמניה הפילה מהאוויר טנק 'מיני' בן 5 טון בניסוי ראשון שלו\n\nכוחות הנחתים הגרמנים בדקו בהצלחה השלכת כלי רכב משוריין קל במשקל Wiesel מטائס בניסוי היסטורי. זה הפעם הראשונה שגרמניה מצליחה לזרוק את הטנק הקומפקטי הזה מהאוויר, דבר שפותח אפשרויות חדשות לתחבורה צבאית מהירה. הניסוי מוכיח שניתן להטיל ציוד כבד יחסית לנקודות אסטרטגיות ללא צורך בנחיתה של כלי טייס.",
     "d": "Thu, 16 Apr 2026 14:11:34 +0000",
     "v": 0,
     "l": [
@@ -1933,7 +1920,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 80,
-    "t": "US nuclear firm submits plan for 240 MW small modular reactor to power 1.5 million homes\n\nA Carmel-based nuclear energy company has submitted a regulatory engagement plan for its small modular...",
+    "t": "חברה גרעינית אמריקאית הגישה תוכנית לגרעין מודולרי בעוצמה 240 מגוואט שיוכל להנציח 1.5 מיליון בתים\n\nחברה גרעינית מבוססת בקרמל הגישה תוכנית להסדרה רגולטורית לגרעין מודולרי קטן שלה, שיכול להספיק חשמל ליותר מ-מיליון ובחצי בתים. הטכנולוגיה של SMR (Small Modular Reactor) מהווה פתרון פוטנציאלי למקומות שבהם שדות גדולים למנקות האנרגיה אינם בר-כושר, והחברה כמו זה נלחמת כדי להפוך את זה למציאות בשנים הקרובות.",
     "d": "Thu, 16 Apr 2026 14:10:30 +0000",
     "v": 0,
     "l": [
@@ -1956,7 +1943,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 81,
-    "t": "Ronan Farrow on Sam Altman&#8217;s ‘unconstrained’ relationship with the truth\n\nToday on Decoder, I’m talking with Ronan Farrow, one of the biggest stars of investigative reporting working today. He broke the Harvey Weinstein story, among many, many others. And just last week, he and co-author Andrew Marantz published an incredible deep-dive feature in The New Yorker about OpenAI CEO Sam Altman, his trustworthiness, and the rise of OpenAI itself. \nOne note before we go any further here —The New Yorker published that story and Ronan and I had this conversation before we knew",
+    "t": "רונן פרו על הקשר 'חסר מגבלות' של סם אלטמן עם האמת\n\nעיתונאי החקירות הכוכב רונן פרו, שחשף את פרשת וויינשטיין, פרסם כתבה מעמיקה בניו יורקר על מנכ\"ל OpenAI סם אלטמן וכל השאלות המעצבנות סביב אמינותו. בראיון ל-Decoder, פרו דן בממצאים המטריפים של הכתבה ובאופן שבו אלטמן מתמודד עם האמת - או לא מתמודד איתה - בדרכים שעלולות להיות בעייתיות למעצם תעשיית ה-AI.",
     "d": "2026-04-16T14:00:00.000Z",
     "v": 0,
     "l": [
@@ -1976,13 +1963,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 82,
-    "t": "Character.AI’s new Books mode turns reading into roleplay\n\nMired in controversy and legal woes over concerns about its chatbots' interactions with users, particularly teens, Character.AI seems to be playing it safer with a new \"Books\" mode. The new format lets users step inside familiar worlds for a more structured roleplaying experience, one the company hopes will broaden perceptions of what AI roleplay can be beyond romancing minors, encouraging violence, and promoting self-harm.\nIn a blog post, Character.AI said Books is launching with a catalog of m",
+    "t": "Character.AI משיקה מצב Books חדש - הפיכת קריאה לרולפלייה אינטראקטיבית\n\nCharacter.AI מנסה לשחזר את דימויה עם מצב Books חדש שמאפשר למשתמשים להיכנס לעולמות של ספרים מוכרים ולחוות רולפלייה מובנית ומובקרת. הצעד הזה מגיע בעקבות ביקורות וסכסוכים משפטיים על אינטראקציות בעייתיות של ה-AI עם משתמשים צעירים, כשהחברה מנסה להוכיח שיש לרולפלייה עם AI שימושים חיוביים ובטוחים מעבר לחששות הקודמים.",
     "d": "2026-04-16T14:00:00.000Z",
     "v": 0,
     "l": [
@@ -2005,7 +1992,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 83,
-    "t": "China turns on largest AI science hub in 2 months, using no US chips at all\n\nChina has reportedly switched on its “largest artificial intelligence computing cluster” in Zhengzhou, Henan province,...",
+    "t": "סין הדליקה את מרכז ה-AI הגדול בעולם תוך שני חודשים - ללא שבב אמריקאי אחד\n\nסין הצליחה להקים ב-Zhengzhou את הגדול ביותר AI computing cluster בעולם, וזה משום שלא השתמשה בשום שבבים אמריקאיים. התגובה הסינית לחסימות ההייטק המערביות הוא בדיוק מה שנראה - בנייה מהירה של תשתיות עצמאיות שעוקפות לחלוטין את התלות בטכנולוגיה של המערב.",
     "d": "Thu, 16 Apr 2026 13:59:21 +0000",
     "v": 0,
     "l": [
@@ -2022,13 +2009,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://www.youtube.com/embed/0JblSc8esSk",
     "source": "Interesting Engineering"
   },
   {
     "id": 84,
-    "t": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage\n\nStarting April 19, the price of the Meta Quest 3S (128GB) and Meta Quest 3S (256GB) will go up by $50 to $349.99 and $449.99, respectively. The price of the Meta Quest 3 is going up by $100 to $599.99.",
+    "t": "Meta מעלה את מחירי Quest 3 ו-Quest 3S בגלל מחסור ב-RAM\n\nמטה מכנסת את הדברים לשורה עם הלקוחות שלה: החל מ-19 באפריל, מחיר ה-Quest 3S יעלה ב-50 דולר (עד 349.99 ו-449.99 דולר), בעוד שה-Quest 3 יתעלה ב-100 דולר שלם ל-599.99 דולר. נראה שגם בעולם של ה-VR זה לא מחמיא להם המחסור בחומרה, וחברות גדולות מוצאות את דרכן לתעריף לפחות חלקיות של הבעיה.",
     "d": "Thu, 16 Apr 2026 13:49:32 +0000",
     "v": 0,
     "l": [
@@ -2046,16 +2033,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 85,
-    "t": "First trailer released for western starring AI version of Val Kilmer\n\nFootage of As Deep As the Grave screened in the US, featuring an authorised visual deepfake of the actor who died in 2025\nA trailer has been released for the first film to star an authorised generative AI version of a major Hollywood actor.\nVal Kilmer was cast in western As Deep As the Grave before his death in April 2025. Production delays meant he never shot any scenes, but the creative team worked with UK-based company Sonantic to create an AI speaking voice based on his old recordings.\n Cont",
+    "t": "הטריילר הראשון של וסטרן עם גרסה AI של ואל קילמר\n\nהקולנוע עוד לא ראה משהו כזה: הסרט 'As Deep As the Grave' משחק בראשונה עם deepfake מורשה של השחקן ואל קילמר, שנפטר ב-2025. למרות שקילמר לא הספיק להגיע לסט בגלל עיכובי הפקה, החברה הבריטית Sonantic הצליחה ליצור גרסה AI של קולו על סמך הקלטות ישנות, וכך הוא כן מופיע בסרט.",
     "d": "Thu, 16 Apr 2026 13:42:43 GMT",
     "v": 0,
     "l": [
@@ -2078,7 +2064,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 86,
-    "t": "What It Really Means That a Failing Shoe Brand “Pivoted to AI” and Its Stock Soared 700 Percent\n\n\"If you don’t believe we are in a bubble you are in denial.\"\nThe post What It Really Means That a Failing Shoe Brand “Pivoted to AI” and Its Stock Soared 700 Percent appeared first on Futurism.",
+    "t": "מה באמת קרה כאשר חברת נעליים כושלת \"עברה ל-AI\" ומניתה עלתה ב-700 אחוז\n\nסיפור פרדוקסלי שמראה עד כמה השוק הוא מטורף סביב הזוז של AI - חברת נעליים שהייתה בקצה הדרך פשוט החליטה לאמר שהיא בתחום ה-AI והבום, מניתה פגעה ב-700 אחוז. אם אתה עדיין לא משוכנע שאנחנו בבועה, אז אתה שוכח את עצמך. זה רק מאשר את מה שהרבה מאתנו כבר יודעים - השוק של AI כרגע זה קצת משוגע.",
     "d": "Thu, 16 Apr 2026 09:29:00 -0400",
     "v": 0,
     "l": [
@@ -2101,7 +2087,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 87,
-    "t": "US appeals court restarts $3 billion patent infringement lawsuit against Intel — VLSI case from 2017 returns after court sets aside 2024 decision\n\nThe U.S. Court of Appeals determines $3 billion VLSI lawsuit was not suitable for summary judgment and must instead be evaluated by a jury, so it must return to a district court for proceedings.",
+    "t": "בית משפט אמריקאי חוזר בו - תביעת הפטנט של 3 מיליארד דולר נגד אינטל חוזרת לאולם המשפט\n\nאחרי שבית המשפט ביטל את ההחלטה מ-2024, תביעת VLSI הענקית חוזרת לשולחן - הפעם הוא שלא תיפתר על הנייר אלא תישמע בפני חברים משפטיים שיהיו צריכים להחליט על גובה ההשקעה. אחרי שנים של ממשך משפטי, אינטל נראה שלא תיוושעת מהמשפט הזה בדרך קלה.",
     "d": "Thu, 16 Apr 2026 13:19:45 +0000",
     "v": 0,
     "l": [
@@ -2114,22 +2100,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "regulation",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/3qAuWorrwTksrwq4GhoeEL-1280-80.png",
     "source": "Tom's Hardware"
   },
   {
     "id": 88,
-    "t": "Relic black holes from cosmic ‘bounce’ may be dark matter shaping our Universe\n\nResearchers at the University of Portsmouth in the UK have proposed a cosmic bounce as...",
+    "t": "חורים שחורים עתיקים מ'קפיצת' קוסמית אולי הם החומר האפל המעצב את היקום\n\nחוקרים באוניברסיטת פורטסמות בבריטניה הציעו תיאוריה מדהימה: אולי החומר האפל שמהווה 85% מהיקום הוא למעשה חורים שחורים עתיקים שנוצרו מ'קפיצה' קוסמית בעת המפץ הגדול. זה משנה באופן ריאלי את הבנתנו ככה שהיקום לא התחיל מנקודה אחת רק ככה אלא עבר מספר מחזורים של התרחבות וקריסה. המחקר הזה יכול להביא לפריצה בחיפושים שלנו אחרי החומר האפל שמתחבא איפשהו בקוסמוס. מקור: Interesting Engineering",
     "d": "Thu, 16 Apr 2026 13:15:33 +0000",
     "v": 0,
     "l": [
@@ -2152,7 +2133,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 89,
-    "t": "Canva’s AI 2.0 update goes all in on prompt-powered design tools\n\nCanva has overhauled its design and workspace suite as it attempts to become the ultimate centralized hub for AI-powered content creation. The platform announced its Canva AI 2.0 update today, introducing updated tools and new prompt-based editing capabilities that allow users to make or adjust their work by describing what they want to create to Canva's AI assistant in their own words.\nThe update includes a new orchestration layer for Canva's AI models that lets creatives and marketers access t",
+    "t": "Canva AI 2.0: הפלטפורמה הופכת לחלום של מעצבים עם כלים מונעי prompt\n\nקנווה השקה עדכון ענק של AI 2.0 שמנסה להפוך את הפלטפורמה למרכז כל-בו לעריכת תוכן עם בינה מלאכותית. עכשיו אתם יכולים פשוט לתאר בשפה טבעית מה אתם רוצים ליצור, והAI של קנווה יעשה את העבודה - לא צריך יותר להיות מעצב מקצועי כדי ליצור דיזיין מעולה. העדכון כולל מודל AI חדש שמאפשר למעצבים וחברות שיווק לערוך תוכן בצורה שלא הייתה אפשרית עד היום.",
     "d": "2026-04-16T13:07:09.000Z",
     "v": 0,
     "l": [
@@ -2175,7 +2156,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 90,
-    "t": "Two US citizens get combined 16 years in prison for running North Korean laptop farms — fake remote IT work scheme netted DPRK $5 million in around three years\n\nThe Department of Justice announced the sentencing of the U.S. nationals that have been convicted of running laptop farms that allowed North Korean workers to pose as American residents and work at American tech firms.",
+    "t": "שני אזרחים אמריקאים קיבלו 16 שנות כלא על הפעלת 'חוות לפטופים' לחיזוי צפון קוריאני — סכימת עבודה IT מזויפת הניבה למשטר 5 מיליון דולר\n\nבמהלך שלוש שנים בלבד, שני אמריקאים הריצו תוכנית כלל חוצה לא קטנה: הם סיפקו לעובדים צפון קוריאים אמצעים טכנולוגיים כדי להתחזות לעובדי IT אמריקאיים וכך להתחבר לחברות טק אמריקאיות. משרד המשפטים הודיע על הגזר דין שלהם, וברור שהם כספו עבור משטר קוריאי הון עצום.",
     "d": "Thu, 16 Apr 2026 13:05:51 +0000",
     "v": 0,
     "l": [
@@ -2198,7 +2179,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 91,
-    "t": "Canva’s AI assistant can now call various tools to make designs for you\n\nThe latest version of Canva's AI assistant lets users create editable designs with text prompts.",
+    "t": "העוזר AI של Canva יכול כעת להשתמש בכלים שונים כדי ליצור עיצובים בשבילך\n\nגרסה חדשה של העוזר AI של Canva מאפשרת למשתמשים ליצור עיצובים עריכים ממש מטקסט פשוט - זה כמו שיש לך מעצב ישיר בכיסך שמבין בדיוק מה אתה רוצה. כדי שזה יעבוד, ה-AI משתמש במארז שלם של כלים שונים בתוך Canva, ובעצם הופך את כל התהליך של יצירת תמונות ודיזיינים לפשוט בהרבה מאשר בעבר. בקיצור - אתה כותב למה אתה צריך, ו-Canva עושה את השכל הכבד.",
     "d": "Thu, 16 Apr 2026 13:00:00 +0000",
     "v": 0,
     "l": [
@@ -2221,7 +2202,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 92,
-    "t": "Making AI operational in constrained public sector environments\n\nThe AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart from their business counterparts. For this reason, purpose-built small language models (SLMs) offer a promising path to operationalize AI in…",
+    "t": "הפעלת AI בסביבות מגובלות של המגזר הציבורי\n\nהגל של AI הגיע גם לממשלות וגופים ציבוריים, אבל להם יש אתגרים שונים לגמרי מעולם העסקים - אבטחה, ממשל וכללי משחק מסובכים. בשביל זה, המודלים הקטנים והמתמחים (SLMs) יכולים להיות הפתרון המושלם כדי להכניס AI בפועל למערכות ממשלתיות ללא הצרות גדולות של מודלים ענקיים.",
     "d": "Thu, 16 Apr 2026 13:00:00 +0000",
     "v": 0,
     "l": [
@@ -2236,8 +2217,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -2245,7 +2225,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 93,
-    "t": "Treating enterprise AI as an operating layer\n\nThere’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: who owns the operating layer where intelligence is applied, governed, and improved.…",
+    "t": "התייחסות ל-AI בעסקים כשכבת תפעול\n\nבזמן שכולם עסוקים בהשוואות בין GPT ל-Gemini ובניקוד מודלים, מתברר שהיתרון האמיתי בעולם ה-AI לעסקים הוא הרבה יותר פרקטי: מי שיכול לשלוט על שכבת התפעול שבה ה-AI בעצם עובד, מנוהל ומשתפר. מסתבר שהבעיה הקריטית היא לא בטכנולוגיה עצמה אלא בארכיטקטורה של הבקרה והשליטה על כל התהליך. זה יהיה הקובע האמיתי למי שיזכה בתחרות בשוק הארגוני.\n\nמקור: MIT Technology Review",
     "d": "Thu, 16 Apr 2026 13:00:00 +0000",
     "v": 0,
     "l": [
@@ -2271,7 +2251,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 94,
-    "t": "Intel launches Wildcat Lake as Core Series 3 for value laptops and edge systems — six consumer SKUs built on 18A promise 'all-day' battery life\n\nIntel has today launched its Core Series 3 mobile processors, confirming the official branding for the silicon tracked under the Wildcat Lake codename since late 2024.",
+    "t": "אינטל חוקרת את Wildcat Lake כ-Core Series 3 למחשבים ניידים זולים - שש מעבדים חדשים שמבטיחים סוללה שתחזיק כל היום\n\nאינטל השיקה היום את מעבדי ה-Core Series 3 הניידים שלה, וכך אישרה את השם הרשמי לשבב שתחת הקודניים Wildcat Lake מעקבים אחריו מסוף 2024. המעבדים החדשים, שנבנו על בסיס תהליך הייצור 18A, מיועדים למחשבים ניידים תקציביים וציוד edge, ומבטיחים זמן סוללה שלם יותר טוב מבעבר עם שישה מודלים שונים בתיק ההשקה.",
     "d": "Thu, 16 Apr 2026 13:00:00 +0000",
     "v": 0,
     "l": [
@@ -2289,13 +2269,13 @@ window.TELEGRAM_DATA = [
       "news",
       "funding"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/TxzciaVarc4gnHYC5t9dy-1280-80.png",
     "source": "Tom's Hardware"
   },
   {
     "id": 95,
-    "t": "China releases first detailed map locating seabed minerals in eastern seabed\n\nThe race for deep-sea dominance has intensified as China and Japan move to secure underwater...",
+    "t": "סין משחררת מפה מפורטת של מינרלים בקרקעית הים במזרח\n\nהתחרות על שליטה בעומק הים מתעצמת עם סין ויפן שמנסות לאבטח משאבים תת-ימיים יקרי ערך. סין פתחה את הקיסוי באמצעות פרסום מפה מתוחכמת של מינרלים בקרקעית הים, צעד שמצביע על החשיבות הגדלה של משאבים אלה בתקופה של תחרות גלובלית על אנרגיה וטכנולוגיה. זה נראה כמו משחק שח עוד-מימדי בדיוק של תרבות הטכנולוגיה החדשה.",
     "d": "Thu, 16 Apr 2026 12:58:48 +0000",
     "v": 0,
     "l": [
@@ -2312,13 +2292,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://www.youtube.com/embed/ojAw9-TGhQg",
     "source": "Interesting Engineering"
   },
   {
     "id": 96,
-    "t": "Git identity spoof fools Claude into giving bad code the nod\n\nForged metadata made AI reviewer treat hostile changes as though they came from known maintainer Security boffins say Anthropic's Claude can be tricked into approving malicious code with just two Git commands by spoofing a trusted developer's identity.…",
+    "t": "זיופי זהות ב-Git הטעו את Claude לאישור קוד רע\n\nחוקרי אבטחה גילו חולשה מפתיעה ב-Claude של Anthropic: אפשר להטעות אותו לאישור קוד זדוני בעזרת שני פקודות Git בלבד, פשוט על ידי זיוף זהות של מפתח מהימן. המטא-דאטה של ה-Git המזוייפת גרמה לה-AI reviewer לחשוב שהקוד הוא מאדם סמוך, מה שמחזיר שאלה חשובה על כמה בטוח באמת להשתמש ב-AI למעקב אחרי קוד.",
     "d": "2026-04-16T12:57:22.000Z",
     "v": 0,
     "l": [
@@ -2332,13 +2312,11 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Anthropic",
-      "Meta"
+      "Anthropic"
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -2346,7 +2324,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 97,
-    "t": "Starbucks’ Baffling ChatGPT Collab Treats Customers Like Empty, Soulless Venti Cups\n\n\"If you are so paralyzed by an indecision that you need a chatbot to tell you what coffee drink to order, you probably need to check into a rehab.\"\nThe post Starbucks’ Baffling ChatGPT Collab Treats Customers Like Empty, Soulless Venti Cups appeared first on Futurism.",
+    "t": "שיתוף הפעולה המוזר של סטארבקס עם ChatGPT: מטפלים בלקוחות כמו כוסות וואנטי ריקות וחסרות נשמה\n\nסטארבקס החליטה לשתף פעולה עם ChatGPT כדי לעזור ללקוחות לבחור את המשקה שלהם, וזה עורר לא מעט ביקורות קשות מהרשת - יש שטוענים שאם אתה כל כך מקולקל שצריך בוט AI כדי להחליט איזה קפה להזמין, אולי זה הזמן לחזור לעצמך. הקולאבורציה הזו עוררת שאלות חשובות על כמה רחוק חברות גדולות מוכנות ללכת בשם ה-AI, ובמחיר איזה משהו אישי אנחנו מוכנים לוותר.",
     "d": "Thu, 16 Apr 2026 08:54:38 -0400",
     "v": 0,
     "l": [
@@ -2372,7 +2350,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 98,
-    "t": "Amazon's new Fire Stick HD is a no-brainer for frequent flyers\n\nAmazon's latest streaming device includes a handy feature that not only makes it a cinch to upgrade your old TV at home, but also to make long days on the road less of a drag.\nContinue Reading\nCategory: Consumer Tech, Technology\nTags: Streaming Video, Streaming, TV, Amazon, Travel",
+    "t": "Fire Stick HD החדש של אמזון - חובה לכל מי שטס הרבה\n\nאמזון הוציאה Fire Stick חדש שנראה כמו עסקה סופר משכנעת, במיוחד לנוסעים. התקן הזה לא רק מעדכן בקלות את הטלוויזיה בבית, אלא גם הופך את הטיסות הארוכות למשהו הרבה יותר סביר כשיש לך את כל קונטנט הסטרימינג בקצה אצבעך. למי שתמיד בדרך, זה נראה כמו אביר הזהב של עולם הסטרימינג.",
     "d": "Thu, 16 Apr 2026 12:51:28 GMT",
     "v": 0,
     "l": [
@@ -2385,12 +2363,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -2398,7 +2373,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 99,
-    "t": "Legendary Qualcomm, Apple, and Nuvia alumni form new CPU startup — Nuvacore promises to 'rewrite the rules of silicon'\n\nEx-Apple, ex-Nuvia CPU designers Gerard Williams, John Bruno, and Ram Srinivasan establish Nuvacore startup to develop clean-sheet CPUs for always-on compute-intensive AI workloads.",
+    "t": "אגדות מ-Qualcomm, Apple וNuvia מקימים startup חדש לעיצוב CPU — Nuvacore מבטיחה 'לכתוב מחדש את כללי הסיליקון'\n\nמעצבי CPU בעלי היסטוריה קטלוג — Gerard Williams, John Bruno ו-Ram Srinivasan מ-Apple וNuvia — הקימו את Nuvacore כדי לפתח מעבדים מהיסכן שמעלה לחישובי AI כבדים שרצים ללא הפסקה. החברה החדשה בנויה מלכתחילה כדי להתמודד עם משימות compute-intensive בעולם ה-always-on AI, בעצם להתחיל מהיסוד בלי כבלים עם הארכיטקטורות הישנות.",
     "d": "Thu, 16 Apr 2026 12:49:53 +0000",
     "v": 0,
     "l": [
@@ -2424,7 +2399,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 100,
-    "t": "5 top cloud migration software for Infrastructure as Code (IaC)\n\nCloud migration becomes much harder when teams are not moving workloads, but also trying to make every environment reproducible and deployment-ready through Infrastructure as Code. The challenge is not limited to copying applications from one platform to another. It includes validating architecture decisions, controlling drift, enforcing policies, coordinating approvals, and making sure deployment logic can […]\nThe post 5 top cloud migration software for Infrastructure as Code (IaC) appeared fir",
+    "t": "5 כלים מובילים לעברת ענן עם Infrastructure as Code (IaC)\n\nעברת ענן היום זה לא רק העתקה של אפליקציות מפלטפורמה לאחרת - זה בעיקר הנושא של Infrastructure as Code שמאפשר לכם שכל סביבה תהיה ניתנת לשכפול ודיפלוי. בדיקת החלטות ארכיטקטורה, שליטה בדריפט, אכיפת פוליסיז ותיאום ה승认ות - הכל חייב לעבוד בצורה חלקה ואוטומטית. המאמר מנתח 5 כלים מובילים שמייעלים את התהליך הזה ומחסכים לכם כל כך הרבה צרות בדרך.",
     "d": "Thu, 16 Apr 2026 12:30:30 +0000",
     "v": 0,
     "l": [
