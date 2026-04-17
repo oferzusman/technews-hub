@@ -84864,7 +84864,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-17T08:52:07.840Z",
       "created_at": "2026-04-17T08:52:07.840Z"
     },
@@ -85059,7 +85059,7 @@
         "Meta"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-17T10:12:27.211Z",
       "created_at": "2026-04-17T10:12:27.211Z"
     },
@@ -85127,7 +85127,7 @@
       "author": "Mrigakshi Dixit",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-17T10:12:31.442Z",
       "created_at": "2026-04-17T10:12:31.442Z"
     },
@@ -85242,6 +85242,251 @@
       "priority": "batch",
       "fetchedAt": "2026-04-17T10:12:32.786Z",
       "created_at": "2026-04-17T10:12:32.786Z"
+    },
+    {
+      "id": 4298,
+      "source": "The Decoder",
+      "title_en": "OpenAI launches GPT-Rosalind, a reasoning model built for life sciences research",
+      "description_en": "OpenAI has introduced GPT-Rosalind, a reasoning model tailored for the life sciences. It's designed to help researchers move faster from hypothesis to experiment. Access is tightly controlled for now.\nThe article OpenAI launches GPT-Rosalind, a reasoning model built for life sciences research appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-launches-gpt-rosalind-a-reasoning-model-built-for-life-sciences-research/",
+      "image_url": null,
+      "pub_date": "Fri, 17 Apr 2026 11:00:37 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T11:14:53.475Z",
+      "created_at": "2026-04-17T11:14:53.475Z"
+    },
+    {
+      "id": 4299,
+      "source": "MIT Technology Review",
+      "title_en": "The case for fixing everything",
+      "description_en": "The handsome new book Maintenance: Of Everything, Part One, by the tech industry legend Stewart Brand, promises to be the first in a series offering “a comprehensive overview of the civilizational importance of maintenance.” One of Brand’s several biographers described him as a mainstay of both counterculture and cyberculture, and with Maintenance, Brand wants us…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/",
+      "image_url": null,
+      "pub_date": "Fri, 17 Apr 2026 10:00:00 +0000",
+      "author": "Lee Vinsel",
+      "categories": [
+        "Culture",
+        "App"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T11:14:53.503Z",
+      "created_at": "2026-04-17T11:14:53.503Z"
+    },
+    {
+      "id": 4300,
+      "source": "MIT Technology Review",
+      "title_en": "How robots learn: A brief, contemporary history",
+      "description_en": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.  The real ambition for many of these researchers was the robot of science fiction—one…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
+      "image_url": null,
+      "pub_date": "Fri, 17 Apr 2026 10:00:00 +0000",
+      "author": "James O'Donnell",
+      "categories": [
+        "Artificial intelligence",
+        "App"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T11:14:53.503Z",
+      "created_at": "2026-04-17T11:14:53.503Z"
+    },
+    {
+      "id": 4301,
+      "source": "New Atlas",
+      "title_en": "Shoot ultra-smooth 4K at 240 fps with DJI’s newest pocket-sized gimbalcam",
+      "description_en": "Smartphones have taken on much of what compact cameras offer, but dedicated pocket cameras still have an edge when it comes to stabilization, control, and creator-focused features. DJI is continuing to refine this space with the Osmo Pocket 4, the latest iteration of its handheld gimbal camera line.\nContinue Reading\nCategory: Consumer Tech, Technology\nTags: DJI Innovations, Gimbals, Cameras, 4k",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/consumer-tech/dji-osmo-pocket-4-gimbal-camera/",
+      "image_url": null,
+      "pub_date": "Fri, 17 Apr 2026 10:57:00 GMT",
+      "author": "Monica J. White",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T11:14:54.141Z",
+      "created_at": "2026-04-17T11:14:54.141Z"
+    },
+    {
+      "id": 4302,
+      "source": "Interesting Engineering",
+      "title_en": "Breakthrough model helps robots learn unseen tasks, paves way for adaptive intelligence",
+      "description_en": "A US robotics startup says its latest AI model can guide robots to perform tasks...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/us-ai-model-robots-unseen-tasks",
+      "image_url": "https://www.youtube.com/embed/Zn8yMaepzVk",
+      "pub_date": "Fri, 17 Apr 2026 10:48:12 +0000",
+      "author": "Jijo Malayil",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T11:14:58.286Z",
+      "created_at": "2026-04-17T11:14:58.286Z"
+    },
+    {
+      "id": 4303,
+      "source": "Interesting Engineering",
+      "title_en": "China claims 125 million kilowatts nuclear power capacity, plans seven more reactors",
+      "description_en": "China’s total installed nuclear power capacity has reached 125 million kilowatts, according to a report...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/china-125-gigawatt-nuclear-power-capacity",
+      "image_url": null,
+      "pub_date": "Fri, 17 Apr 2026 10:44:15 +0000",
+      "author": "Aman Tripathi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T11:14:58.286Z",
+      "created_at": "2026-04-17T11:14:58.286Z"
+    },
+    {
+      "id": 4304,
+      "source": "Tom's Hardware",
+      "title_en": "64GB of DDR5 RAM is a staggering $216 in this latest Newegg deal — Get a 9800X3D, X870-P motherboard, case, and a free AIO for just $939",
+      "description_en": "Newegg's latest combo bundle gets you  64GB of RAM, a motherboard, AMD's 9800X3D, and a Corsair case, as well as a free AIO cooler for just $939.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/64gb-of-ddr5-ram-is-a-staggering-usd216-in-this-latest-newegg-deal-get-a-9800x3d-x870-p-motherboard-case-and-a-free-aio-for-just-usd939",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/FJRRkvuTXuggi7BFvV6jCD-1280-80.jpg",
+      "pub_date": "Fri, 17 Apr 2026 11:09:18 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T11:14:58.540Z",
+      "created_at": "2026-04-17T11:14:58.540Z"
+    },
+    {
+      "id": 4305,
+      "source": "Tom's Hardware",
+      "title_en": "Google and Pentagon in talks to run custom AI chips inside classified environments — Google pushes for tight controls for TPUs surrounding use for mass surveillance and autonomous weapons",
+      "description_en": "Google is reportedly negotiating with the U.S. Department of Defense to deploy Gemini in classified settings, with the talks covering the addition of GPU racks to Google Distributed Cloud.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-and-pentagon-in-talks-to-run-tpus-inside-classified-environments",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Y5NMQot8GVcujBNAWTGvAG-1280-80.jpg",
+      "pub_date": "Fri, 17 Apr 2026 11:00:00 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T11:14:58.540Z",
+      "created_at": "2026-04-17T11:14:58.540Z"
+    },
+    {
+      "id": 4306,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia RTX 5070 spotted at rare MSRP price in Woot flash sale — move fast to secure a bargain, 38% off saves you $340",
+      "description_en": "Get an RTX 5070 for MSRP at Woot, now just $549.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5070-spotted-at-rare-msrp-price-in-woot-flash-sale-move-fast-to-secure-a-bargain-38-percent-off-saves-you-usd340",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/5oniSobFuHmAwmT7VxKU9a-1280-80.jpg",
+      "pub_date": "Fri, 17 Apr 2026 10:45:40 +0000",
+      "author": " Stephen Warwick ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T11:14:58.540Z",
+      "created_at": "2026-04-17T11:14:58.540Z"
+    },
+    {
+      "id": 4307,
+      "source": "Tom's Hardware",
+      "title_en": "Commodore fans split over C64 Ultimate FPGA firmware lockdown — firm says it wants to protect its hardware and reduce support fallout",
+      "description_en": "The retro community seems sharply divided over a decision by Commodore regarding locking down firmware access in its C64 Ultimate computer.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/commodore-fans-split-over-c64-ultimate-fpga-firmware-lockdown-firm-says-it-wants-to-protect-its-hardware-and-reduce-support-fallout",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/cjQpyjfHRqLwczqV8ePPgS-1280-80.jpg",
+      "pub_date": "Fri, 17 Apr 2026 10:40:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Retro Gaming",
+        "Video Games"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T11:14:58.540Z",
+      "created_at": "2026-04-17T11:14:58.540Z"
+    },
+    {
+      "id": 4308,
+      "source": "Tom's Hardware",
+      "title_en": "AMD to resurrect Ryzen 7 5800X3D AM4 with 10th anniversary edition, leaker claims — return of legendary CPU a sign of bleak PC building landscape",
+      "description_en": "AMD is rumored to launch the Ryzen 7 5800X3D 10th Anniversary Edition in the second quarter of this year.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-to-resurrect-ryzen-7-5800x3d-am4-with-10th-anniversary-edition-leaker-claims-return-of-legendary-cpu-a-sign-of-bleak-pc-building-landscape",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/bDiD7zrekdcXMe8jNhRmCR-1280-80.jpg",
+      "pub_date": "Fri, 17 Apr 2026 10:20:00 +0000",
+      "author": " Zhiye Liu ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T11:14:58.540Z",
+      "created_at": "2026-04-17T11:14:58.540Z"
+    },
+    {
+      "id": 4309,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia AI chip rivals attract record funding as competition heats up",
+      "description_en": "A growing crop of startups are set on challenging the chip giant's supremacy.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/17/nvidia-ai-chip-rivals-funding-euclyd-fractile.html",
+      "image_url": null,
+      "pub_date": "Fri, 17 Apr 2026 11:06:46 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T11:14:58.749Z",
+      "created_at": "2026-04-17T11:14:58.749Z"
+    },
+    {
+      "id": 4310,
+      "source": "CNBC Tech",
+      "title_en": "Uber Eats has a fix for pesky returns. You can just sit on the couch",
+      "description_en": "The Uber Eats return pickup feature applies to items bought through the app from Best Buy, Dick's Sporting Goods, Petco and more.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/17/uber-eats-returns-pickup-retail-app.html",
+      "image_url": null,
+      "pub_date": "Fri, 17 Apr 2026 11:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T11:14:58.749Z",
+      "created_at": "2026-04-17T11:14:58.749Z"
     }
   ]
 }
