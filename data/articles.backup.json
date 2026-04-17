@@ -85604,6 +85604,512 @@
       "priority": "batch",
       "fetchedAt": "2026-04-17T12:06:37.040Z",
       "created_at": "2026-04-17T12:06:37.040Z"
+    },
+    {
+      "id": 4317,
+      "source": "The Verge AI",
+      "title_en": "The ‘AI is inevitable’ trap",
+      "description_en": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price. The Newbird AI story is really just one of a bunch of things this week that made us wonder: have we reached the peak of AI, or at least a peak of AI? \n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here.\nOn this episode of The Vergecas",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
+      "image_url": null,
+      "pub_date": "2026-04-17T13:24:34.000Z",
+      "author": "David Pierce",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T14:57:05.608Z",
+      "created_at": "2026-04-17T14:57:05.608Z"
+    },
+    {
+      "id": 4318,
+      "source": "Ars Technica",
+      "title_en": "Rocket Report: Starship V3 test-fired; ESA's tentative step toward crew launch",
+      "description_en": "Blue Origin will soon launch the third flight of its New Glenn rocket, this time with a reused booster.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/space/2026/04/rocket-report-starship-v3-test-fired-esas-tentative-step-toward-crew-launch/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/HF_XtVIXcAQ5jrN-1-1152x648.jpg",
+      "pub_date": "Fri, 17 Apr 2026 13:06:24 +0000",
+      "author": "\n                    Stephen Clark\n                ",
+      "categories": [
+        "Science",
+        "Space"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T14:57:05.671Z",
+      "created_at": "2026-04-17T14:57:05.671Z"
+    },
+    {
+      "id": 4319,
+      "source": "The Decoder",
+      "title_en": "Google finds new ways to keep you from ever clicking a link again",
+      "description_en": "Google is pushing AI mode deeper into Chrome: websites will soon open directly next to the AI response. That makes the traditional page visit even less relevant.\nThe article Google finds new ways to keep you from ever clicking a link again appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/google-finds-new-ways-to-keep-you-from-ever-clicking-a-link-again/",
+      "image_url": null,
+      "pub_date": "Fri, 17 Apr 2026 12:22:35 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Google",
+        "Google AI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-17T14:57:06.845Z",
+      "created_at": "2026-04-17T14:57:06.845Z"
+    },
+    {
+      "id": 4320,
+      "source": "The Decoder",
+      "title_en": "Physical Intelligence shows robot model with LLM-like generalization, flaws included",
+      "description_en": "US start-up Physical Intelligence has introduced π0.7, a new robot foundation model designed to recombine skills learned during training, similar to how a language model reassembles text fragments from its training data. The researchers describe this as early signs of \"compositional generalization\" in robotics.\nThe article Physical Intelligence shows robot model with LLM-like generalization, flaws included appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/physical-intelligence-shows-robot-model-with-llm-like-generalization-flaws-included/",
+      "image_url": "http://the-decoder.de/wp-content/uploads/2026/04/PI07-Pi07VFINAL.mp4",
+      "pub_date": "Fri, 17 Apr 2026 11:57:54 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Physical Intelligence",
+        "Robotics"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-17T14:57:06.845Z",
+      "created_at": "2026-04-17T14:57:06.845Z"
+    },
+    {
+      "id": 4321,
+      "source": "MIT Technology Review",
+      "title_en": "Pie day links",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/",
+      "image_url": null,
+      "pub_date": "Fri, 17 Apr 2026 14:07:41 +0000",
+      "author": "MIT Alumni News Staff",
+      "categories": [
+        "MIT Alumni News"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T14:57:06.964Z",
+      "created_at": "2026-04-17T14:57:06.964Z"
+    },
+    {
+      "id": 4322,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory that many of us have an “inner Neanderthal.” The idea is that Homo sapiens and a cousin species once bred, leaving…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
+      "image_url": null,
+      "pub_date": "Fri, 17 Apr 2026 12:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-17T14:57:06.964Z",
+      "created_at": "2026-04-17T14:57:06.964Z"
+    },
+    {
+      "id": 4323,
+      "source": "Hugging Face Blog",
+      "title_en": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/ecom-rlve",
+      "image_url": null,
+      "pub_date": "Thu, 16 Apr 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-17T14:57:07.202Z",
+      "created_at": "2026-04-17T14:57:07.202Z"
+    },
+    {
+      "id": 4324,
+      "source": "Google AI Blog",
+      "title_en": "7 ways to travel smarter this summer, with help from Google",
+      "description_en": "The latest tools from Google can help you plan trips, find a great deal and explore your next destination.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summer_Travel_Tips_2026_hero.max-600x600.format-webp.webp",
+      "pub_date": "Fri, 17 Apr 2026 14:00:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          ""
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Search",
+        "Maps",
+        "Translate",
+        "AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T14:57:07.302Z",
+      "created_at": "2026-04-17T14:57:07.302Z"
+    },
+    {
+      "id": 4325,
+      "source": "New Atlas",
+      "title_en": "Tiny house trades portability for a more spacious interior layout",
+      "description_en": "The Lukas tiny house isn't a great fit for would-be nomads since it doesn't have wheels and needs to be transported by truck. However, what it lacks in portability, it more than makes up for with a spacious interior that sleeps four in comfort.\nContinue Reading\nCategory: Tiny Houses, Outdoors\nTags: Building and Construction, Tiny Footprint, Micro-House, House, Home",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/tiny-houses/lukas-tiny-craft-house/",
+      "image_url": null,
+      "pub_date": "Fri, 17 Apr 2026 14:02:00 GMT",
+      "author": "Adam Williams",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T14:57:07.610Z",
+      "created_at": "2026-04-17T14:57:07.610Z"
+    },
+    {
+      "id": 4326,
+      "source": "New Atlas",
+      "title_en": "Great white sharks may never have vanished after all",
+      "description_en": "In April 2023, local fishermen off the coast of eastern Spain, incidentally caught something massive within the country’s Exclusive Economic Zone (EEZ). Genetic analysis confirmed its species as Carcharodon carcharias, the great white shark.\nContinue Reading\nCategory: Biology, Science\nTags: Marine Biology, Sharks, Spain",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/biology/shark-sightings-spain-great-white-population/",
+      "image_url": null,
+      "pub_date": "Fri, 17 Apr 2026 12:32:00 GMT",
+      "author": "Toluwalogo Niji-Olawepo",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-17T14:57:07.610Z",
+      "created_at": "2026-04-17T14:57:07.610Z"
+    },
+    {
+      "id": 4327,
+      "source": "Interesting Engineering",
+      "title_en": "US dumping ground that stores hundreds of drums with nuclear waste set to be cleaned up",
+      "description_en": "The United States is set to begin a cleanup mission of a nuclear waste dump in...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/us-dumping-ground-radioactive-nuclear-waste",
+      "image_url": null,
+      "pub_date": "Fri, 17 Apr 2026 14:00:10 +0000",
+      "author": "Prabhat Ranjan Mishra",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T14:57:09.891Z",
+      "created_at": "2026-04-17T14:57:09.891Z"
+    },
+    {
+      "id": 4328,
+      "source": "Interesting Engineering",
+      "title_en": "Chinese scientists’ diamond-based coating to boost data center cooling efficiency by 80%",
+      "description_en": "Researchers at the Ningbo Institute of Industrial Technology in China have turned to diamond-copper coatings...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/china-increase-data-center-cooling-efficiency",
+      "image_url": null,
+      "pub_date": "Fri, 17 Apr 2026 13:42:34 +0000",
+      "author": "Ameya Paleja",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T14:57:09.891Z",
+      "created_at": "2026-04-17T14:57:09.891Z"
+    },
+    {
+      "id": 4329,
+      "source": "Interesting Engineering",
+      "title_en": "US: MV-75 Cheyenne II tiltrotor aircraft could get midair refueling using drone tankers",
+      "description_en": "The U.S. Army is considering unmanned aerial tankers to refuel its new MV-75A Cheyenne II...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/mv-75-cheyenne-ii-drone-tanker-aerial-refueling",
+      "image_url": "https://www.youtube.com/embed/X-hQiibTHYg",
+      "pub_date": "Fri, 17 Apr 2026 13:17:50 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T14:57:09.891Z",
+      "created_at": "2026-04-17T14:57:09.891Z"
+    },
+    {
+      "id": 4330,
+      "source": "Interesting Engineering",
+      "title_en": "US’ 100,000-ton nuclear warship sets record with longest deployment since Vietnam War",
+      "description_en": "The USS Gerald R. Ford set a new benchmark on April 15 after completing 295...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-aircraft-carrier-sets-new-record",
+      "image_url": null,
+      "pub_date": "Fri, 17 Apr 2026 13:15:33 +0000",
+      "author": "Sujita Sinha",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T14:57:09.891Z",
+      "created_at": "2026-04-17T14:57:09.891Z"
+    },
+    {
+      "id": 4331,
+      "source": "Interesting Engineering",
+      "title_en": "World-first eVTOL two-way transition flight test completed by Vertical Aerospace",
+      "description_en": "Vertical Aerospace has completed a world-first two-way piloted transition flight with a full-scale tiltrotor eVTOL...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/world-first-evtol-two-way-transition-flight",
+      "image_url": null,
+      "pub_date": "Fri, 17 Apr 2026 13:00:44 +0000",
+      "author": "Chris Young",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T14:57:09.891Z",
+      "created_at": "2026-04-17T14:57:09.891Z"
+    },
+    {
+      "id": 4332,
+      "source": "Interesting Engineering",
+      "title_en": "New electrolyte design improves solid-state battery conductivity by 2.7 times",
+      "description_en": "Korean researchers have developed a “universal design principle” to accelerate the commercialization of all-solid-state batteries....",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/air-stable-solid-state-battery",
+      "image_url": "https://www.youtube.com/embed/petQar3bij8",
+      "pub_date": "Fri, 17 Apr 2026 12:46:01 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-17T14:57:09.891Z",
+      "created_at": "2026-04-17T14:57:09.891Z"
+    },
+    {
+      "id": 4333,
+      "source": "Futurism",
+      "title_en": "Clavicular Says He’s Quitting Drugs, Meaning He Can’t IRL Stream Anymore Because He’s Unable to Mog Sober",
+      "description_en": "\"I ain't going to be doing any more substances for a little while, hopefully for forever.\"\nThe post Clavicular Says He’s Quitting Drugs, Meaning He Can’t IRL Stream Anymore Because He’s Unable to Mog Sober appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/health-medicine/clavicular-quitting-drugs-stream",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/clavicular-quitting-drugs-stream.jpg?quality=85",
+      "pub_date": "Fri, 17 Apr 2026 10:22:14 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Health & Medicine",
+          "$": {
+            "domain": "https://futurism.com/category/health-medicine"
+          }
+        },
+        {
+          "_": "Medical",
+          "$": {
+            "domain": "https://futurism.com/category/medical"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T14:57:10.095Z",
+      "created_at": "2026-04-17T14:57:10.095Z"
+    },
+    {
+      "id": 4334,
+      "source": "Futurism",
+      "title_en": "Fury Erupts as Val Kilmer’s Estate Announces Starring Role in AI Film Made From Beyond the Grave",
+      "description_en": "\"This is truly the MOST disgusting thing I’ve ever seen.\"\nThe post Fury Erupts as Val Kilmer’s Estate Announces Starring Role in AI Film Made From Beyond the Grave appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/fury-val-kilmer-role-ai-film",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/val-kilmer-ai-film.jpg?quality=85",
+      "pub_date": "Fri, 17 Apr 2026 09:21:20 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T14:57:10.095Z",
+      "created_at": "2026-04-17T14:57:10.095Z"
+    },
+    {
+      "id": 4335,
+      "source": "CNBC Tech",
+      "title_en": "AMD, Oracle, Microsoft and the IGV lead a monster week for tech stocks",
+      "description_en": "Oracle, AMD and Microsoft are on pace for historic weeks, while Intel, Broadcom, Micron, Marvell and ON Semiconductor are all roaring in April.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/17/big-tech-stocks-winning-streaks-oracle-amd-microsoft-igv-.html",
+      "image_url": null,
+      "pub_date": "Fri, 17 Apr 2026 14:29:44 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T14:57:10.156Z",
+      "created_at": "2026-04-17T14:57:10.156Z"
+    },
+    {
+      "id": 4336,
+      "source": "CNBC Tech",
+      "title_en": "The Nasdaq's win streak, Netflix earnings, another AI pivot and more in Morning Squawk",
+      "description_en": "Here are five key things investors need to know to start the trading day.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/17/5-things-to-know-before-the-market-opens.html",
+      "image_url": null,
+      "pub_date": "Fri, 17 Apr 2026 12:22:48 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-17T14:57:10.156Z",
+      "created_at": "2026-04-17T14:57:10.156Z"
+    },
+    {
+      "id": 4337,
+      "source": "Tom's Hardware",
+      "title_en": "Intel hires tenured Samsung exec to lead Foundry Services — signals company focus on winning business from potential Foundry suitors",
+      "description_en": "Intel lures Shawn 'Seung Hoon' Han from Samsung Foundry to land new customers and maintain customer relationships at Intel Foundry.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-hires-tenured-samsung-exec-to-lead-foundry-services-signals-company-focus-on-winning-business-from-potential-foundry-suitors",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/tCxeFD6UhKMx7J9BAHkQ2J-1280-80.jpg",
+      "pub_date": "Fri, 17 Apr 2026 13:13:48 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T14:57:10.271Z",
+      "created_at": "2026-04-17T14:57:10.271Z"
+    },
+    {
+      "id": 4338,
+      "source": "Tom's Hardware",
+      "title_en": "Elon Musk pushing forward with Terafab at 'light speed' — staff reaching out to various suppliers and are reportedly willing to pay a premium to gain priority",
+      "description_en": "Elon Musk's people have begun reaching out to various semiconductor fab suppliers to ask for pricing and delivery timelines as the Terafab project ramps up.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-pushing-forward-with-terafab-at-ight-speed-staff-reaching-out-to-various-suppliers-and-are-reportedly-willing-to-pay-a-premium-to-gain-priority",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/YcsuCrWsLfu2BX3ijFziAU-1280-80.jpg",
+      "pub_date": "Fri, 17 Apr 2026 13:07:34 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T14:57:10.271Z",
+      "created_at": "2026-04-17T14:57:10.271Z"
+    },
+    {
+      "id": 4339,
+      "source": "Tom's Hardware",
+      "title_en": "Amazon Eero Signal review: 4G LTE internet backup for your Eero mesh network",
+      "description_en": "The Eero Signal offers automatic 4G LTE failover for your primary ISP.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/networking/routers/amazon-eero-signal-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/QAq4Unfhk7T5YzaP8ZoKcE-1280-80.jpg",
+      "pub_date": "Fri, 17 Apr 2026 13:05:09 +0000",
+      "author": " Brandon Hill ",
+      "categories": [
+        "Wi-Fi Routers",
+        "Networking"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T14:57:10.271Z",
+      "created_at": "2026-04-17T14:57:10.271Z"
+    },
+    {
+      "id": 4340,
+      "source": "Tom's Hardware",
+      "title_en": "Microsoft's April patch puts Windows domain controllers into reboot loops — third known issue from KB5082063 is affecting Windows Server 2016 through 2025",
+      "description_en": "Installing this month's Windows Server security update has knocked some enterprise domain controllers into continuous reboot cycles.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/windows/microsofts-april-patch-puts-windows-domain-controllers-into-reboot-loops",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/zpszyjwnJygENKdNTJiQ33-1280-80.jpg",
+      "pub_date": "Fri, 17 Apr 2026 13:02:34 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Windows",
+        "Software",
+        "Operating Systems"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T14:57:10.271Z",
+      "created_at": "2026-04-17T14:57:10.271Z"
+    },
+    {
+      "id": 4341,
+      "source": "Tom's Hardware",
+      "title_en": "Build an entire 9800X3D PC with 128GB of RAM for $2,999 — Newegg bundle includes Asus B850 motherboard, 1TB of storage, and RTX 5070 Ti",
+      "description_en": "Score a massive Newegg combo deal: save $1,933 on a high-end gaming PC bundle with Ryzen 7 9800X3D, 128GB DDR5, RTX 5070 Ti, and more - premium parts, matching aesthetics, and serious performance.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/build-an-entire-9800x3d-pc-with-128gb-of-ram-for-usd2-999-newegg-bundle-includes-asus-b850-motherboard-1tb-of-storage-and-rtx-5070-ti",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/dTkMmW8bs6MbVjigdDFApc-1280-80.png",
+      "pub_date": "Fri, 17 Apr 2026 12:35:22 +0000",
+      "author": " Joe Shields ",
+      "categories": [
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-17T14:57:10.271Z",
+      "created_at": "2026-04-17T14:57:10.271Z"
     }
   ]
 }
