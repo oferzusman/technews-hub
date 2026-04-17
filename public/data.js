@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "AMD, Oracle, Microsoft and the IGV lead a monster week for tech stocks\n\nOracle, AMD and Microsoft are on pace for historic weeks, while Intel, Broadcom, Micron, Marvell and ON Semiconductor are all roaring in April.",
+    "t": "AMD, Oracle, Microsoft וה-IGV חוויים שבוע מטורף בשוק הטכנולוגיה\n\nOracle, AMD ו-Microsoft בדרך לשבועות היסטוריים, בזמן ש-Intel, Broadcom, Micron, Marvell ו-ON Semiconductor משתגעות באפריל. בקיצור - זה שבוע של ממש, וחברות הטכנולוגיה הגדולות עולות על הגגות. כל החברות שקשורות לחומרה וחיפוש שוק היום זוכות לפיצוח גדול בבורסה. מקור: CNBC Tech",
     "d": "Fri, 17 Apr 2026 14:29:44 GMT",
     "v": 0,
     "l": [
@@ -27,7 +27,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Clavicular Says He’s Quitting Drugs, Meaning He Can’t IRL Stream Anymore Because He’s Unable to Mog Sober\n\n\"I ain't going to be doing any more substances for a little while, hopefully for forever.\"\nThe post Clavicular Says He’s Quitting Drugs, Meaning He Can’t IRL Stream Anymore Because He’s Unable to Mog Sober appeared first on Futurism.",
+    "t": "סטרימר אומר שהוא מפסיק סמים - וזה אומר שהוא לא יכול לשדר בזמן אמת יותר כי הוא לא יכול להיות אותו אדם בהיסתפקות\n\nסטרימר ידוע הודיע שהוא מתחייב להפסיק את השימוש בחומרים במשך זמן, ובאופן אידיאלי לתמיד. החדשות הזו משמעותית לעוקביו מכיוון שהוא טוען שהתפקוד שלו בשידורים חיים בזמן אמת תלוי בדברים שהוא כעת מנסה להפסיק.",
     "d": "Fri, 17 Apr 2026 10:22:14 -0400",
     "v": 0,
     "l": [
@@ -50,7 +50,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Pie day links",
+    "t": "קישורי יום ה-Pie\n\nMIT Technology Review אספה לנו קבוצה של קישורים חביבים שקשורים לחג הPie Day של מתמטיקאים וטכנולוגים בכל העולם. אם אתם אוהבים לערבב בין מתמטיקה, פאי, ותרבות הטק - זו הרשימה שחיפשתם.",
     "d": "Fri, 17 Apr 2026 14:07:41 +0000",
     "v": 0,
     "l": [
@@ -73,7 +73,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Tiny house trades portability for a more spacious interior layout\n\nThe Lukas tiny house isn't a great fit for would-be nomads since it doesn't have wheels and needs to be transported by truck. However, what it lacks in portability, it more than makes up for with a spacious interior that sleeps four in comfort.\nContinue Reading\nCategory: Tiny Houses, Outdoors\nTags: Building and Construction, Tiny Footprint, Micro-House, House, Home",
+    "t": "בית זעום שמוותר על ניידות לטובת פנים רחב ויותר\n\nהבית הזעום לוקס זה לא בדיוק למי שחולם להיות נוודים - אין לו גלגלים והוא דורש משאית להובלה. אבל תחת פנים מצומצם מבחינת ניידות, הוא מפצה בנדיבות עם תאי מגורים ספייסיים שמשקיעים 4 אנשים בנוחות מלאה.",
     "d": "Fri, 17 Apr 2026 14:02:00 GMT",
     "v": 0,
     "l": [
@@ -96,7 +96,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "US dumping ground that stores hundreds of drums with nuclear waste set to be cleaned up\n\nThe United States is set to begin a cleanup mission of a nuclear waste dump in...",
+    "t": "אתר זבל אמריקאי עם מאות חביות בעלות חומרים גרעיניים עומד להיות מנוקה\n\nארצות הברית עומדת להשקיע במטלת ניקיון ענקית של אתר זקוקי לטיפול שנתון שם מאות חביות עם פסולת גרעינית כבר שנים. הפרויקט הוא חלק מניסיון גדול לנקות אתרים מזוהמים ברחבי המדינה ולהחזיר אותם לשימוש בטוח - כי בעיקר הפסולת הגרעינית היא משהו שלא רוצים לשכוח שהוא שם.",
     "d": "Fri, 17 Apr 2026 14:00:10 +0000",
     "v": 0,
     "l": [
@@ -119,7 +119,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "7 ways to travel smarter this summer, with help from Google\n\nThe latest tools from Google can help you plan trips, find a great deal and explore your next destination.",
+    "t": "7 דרכים לטיול חכם יותר בקיץ עם עזרת גוגל\n\nגוגל הוציאה כלים חדשים שיעזרו לכם לתכנן טיולים, למצוא עסקאות מדהימות ולחקור את היעד הבא שלכם. מהחיפוש אחרי טיסות זולות ועד למציאת המלון המושלם, הטכנולוגיה של גוגל עוזרת לכם לחסוך זמן וכסף בתכנון הקיץ שלכם.",
     "d": "Fri, 17 Apr 2026 14:00:00 +0000",
     "v": 0,
     "l": [
@@ -132,12 +132,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summer_Travel_Tips_2026_hero.max-600x600.format-webp.webp",
@@ -145,7 +142,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Chinese scientists’ diamond-based coating to boost data center cooling efficiency by 80%\n\nResearchers at the Ningbo Institute of Industrial Technology in China have turned to diamond-copper coatings...",
+    "t": "מדענים סינים פיתחו ציפוי יהלום שיעלה את יעילות הקירור בחדרי שרת בעד 80%\n\nחוקרים במכון הטכנולוגיה התעשייתית בנינגבו בסין גילו דרך חדשנית לפתור בעיה מרכזית בעולם ה-AI - הם פיתחו ציפוי מיוחד המשלב יהלום ונחושת שמשפר משמעותית את קירור מעבדי הנתונים. התגלית הזו יכולה לקצר משמעותית את זמני התרחיק וההנדסה בחדרי השרת שלנו, כשמדברים על שיפור של עד 80% בעמידות תרמית - זה משהו שיכול לשנות את המשחק עבור מרכזי נתונים ובמיוחד עבור תחנות GPU חזקות.",
     "d": "Fri, 17 Apr 2026 13:42:34 +0000",
     "v": 0,
     "l": [
@@ -158,9 +155,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Nvidia"
+    ],
     "tags": [
-      "news"
+      "news",
+      "hardware"
     ],
     "imp": "low",
     "thumb": null,
@@ -168,7 +168,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "The ‘AI is inevitable’ trap\n\nIn the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price. The Newbird AI story is really just one of a bunch of things this week that made us wonder: have we reached the peak of AI, or at least a peak of AI? \n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here.\nOn this episode of The Vergecas",
+    "t": "הפח של 'AI זה בלתי נמנע'\n\nAllbirds, חברת הנעליים, החליטה להכריז שהיא חברת AI וזיהק את מחיר המניה שלה בשבע פעמים - מה שמדגדג את השאלה האם כבר הגענו לשיא של זהות AI בשוק. עוד כמה סיפורים מטורפים בשבוע הזה גרמו לתוך הדיון הגדול: האם אנחנו בפיק של AI, או לפחות בפיק של ההשקעות המטורפות בו?",
     "d": "2026-04-17T13:24:34.000Z",
     "v": 0,
     "l": [
@@ -191,7 +191,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Fury Erupts as Val Kilmer’s Estate Announces Starring Role in AI Film Made From Beyond the Grave\n\n\"This is truly the MOST disgusting thing I’ve ever seen.\"\nThe post Fury Erupts as Val Kilmer’s Estate Announces Starring Role in AI Film Made From Beyond the Grave appeared first on Futurism.",
+    "t": "סערה בעקבות הודעה: אחוזת וול קילמר תכריז על תפקיד כוכב בסרט AI שנוצר מעבר לחיים\n\nדברים התחממו ברשת כשאחוזת השחקן וול קילמר הודיעה על פרויקט סרט חדש שיוצר באמצעות טכנולוגיית AI, גם אחרי פטירתו של קילמר. הקהל פעמון אדום, וההודעה עוררה תגובות כעסניות מצד עוקבים וביקורים על כך שמדובר בשימוש בתמונה וקול של אמן ללא הסכמה ישירה. המחלוקת מעלית שוב את השאלה הקשה: איפה בדיוק אנחנו צריכים לשרטט קו בעניין השימוש בטכנולוגיית AI כדי ליצור תוכן של אנשים?",
     "d": "Fri, 17 Apr 2026 09:21:20 -0400",
     "v": 0,
     "l": [
@@ -208,13 +208,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/val-kilmer-ai-film.jpg?quality=85",
     "source": "Futurism"
   },
   {
     "id": 10,
-    "t": "US: MV-75 Cheyenne II tiltrotor aircraft could get midair refueling using drone tankers\n\nThe U.S. Army is considering unmanned aerial tankers to refuel its new MV-75A Cheyenne II...",
+    "t": "ארה\"ב: מטוס הטילטרוטור MV-75 Cheyenne II עשוי לקבל הדלקה באוויר באמצעות כלי טנקר ללא אדם\n\nהצבא האמריקני בוחן אפשרות של מטוסי כלים לא מאוישים שיתפקדו כטנקרים ברקע בשמיים, כדי להדליק את מטוס הטילטרוטור החדש MV-75A Cheyenne II שלו. הפיתוח הזה יכול להגדיל משמעותית את טווח הפעולה של הגיוסים החדשים ולתן להם גמישות טקטית גבוהה בשדה הקרב. מדובר בפתרון חכם שמשלב ייעוץ אוטונומי עם יכולות לוג'יסטיות חדשניות. (מקור: Interesting Engineering)",
     "d": "Fri, 17 Apr 2026 13:17:50 +0000",
     "v": 0,
     "l": [
@@ -237,7 +237,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "US’ 100,000-ton nuclear warship sets record with longest deployment since Vietnam War\n\nThe USS Gerald R. Ford set a new benchmark on April 15 after completing 295...",
+    "t": "ספינת הקרב הגרעינית האמריקאית בת 100,000 טון קובעת שיא בהפריסה הארוכה ביותר מעת מלחמת וייטנאם\n\nספינת הקרב USS Gerald R. Ford סיימה למרתון של 295 ימים בים - השיא החדש מאז תקופת וייטנאם. זה כמו לשלוח את ה-\"חיל הים\" האמריקאי למשימת הסבול הקשה ביותר שלה, וזה עובד עד הסוף. הנתונים מראים שהעוצמה הצבאית האמריקאית עדיין מפעילה כוחות ענקיים בעולם - וככה זה עובד במציאות.",
     "d": "Fri, 17 Apr 2026 13:15:33 +0000",
     "v": 0,
     "l": [
@@ -260,7 +260,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Intel hires tenured Samsung exec to lead Foundry Services — signals company focus on winning business from potential Foundry suitors\n\nIntel lures Shawn 'Seung Hoon' Han from Samsung Foundry to land new customers and maintain customer relationships at Intel Foundry.",
+    "t": "אינטל משכה ממשכנת של סמסונג כדי להוביל את שירותי ייצור השבבים שלה\n\nאינטל הצליחה לגייס את שון הן, בעל ניסיון רב שנים בחטיבת הייצור של סמסונג, כדי להשיג לקוחות חדשים ולשמור על קשרים עם לקוחות קיימים בחטיבת ה-Foundry שלה. ההעסקה הזו מסמלת את ההתמקדות של אינטל בתחרותיות בשוק ייצור השבבים המתגדל.",
     "d": "Fri, 17 Apr 2026 13:13:48 +0000",
     "v": 0,
     "l": [
@@ -283,7 +283,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "Elon Musk pushing forward with Terafab at 'light speed' — staff reaching out to various suppliers and are reportedly willing to pay a premium to gain priority\n\nElon Musk's people have begun reaching out to various semiconductor fab suppliers to ask for pricing and delivery timelines as the Terafab project ramps up.",
+    "t": "אלון מאסק דוחף את Terafab בקצב 'מהירות האור' — הצוות פונה לספקים שונים והוא מוכן לשלם על עדיפות\n\nקבוצת מאסק התחילה כבר ליצור קשר עם ספקים של מפעלי חומרים למחשוב כדי לברר מחירים ותאריכי אספקה, כשפרויקט Terafab מתחזק בדרך. נראה שהם בעסקה משפחתית אמיתית - מוכנים אפילו לשלם פרמיום כדי להתקדם בתור בייצור ה-chips. למי שעוד לא עקב אחרי זה, Terafab הוא התכנית הגדולה של מאסק לבנות ענק חדש בתעשיית הצ'יפים הישראלית אם תרצו, במטרה להפחית תלות בטייוואן.",
     "d": "Fri, 17 Apr 2026 13:07:34 +0000",
     "v": 0,
     "l": [
@@ -300,13 +300,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/YcsuCrWsLfu2BX3ijFziAU-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 14,
-    "t": "Rocket Report: Starship V3 test-fired; ESA's tentative step toward crew launch\n\nBlue Origin will soon launch the third flight of its New Glenn rocket, this time with a reused booster.",
+    "t": "דוח רקטות: בדיקת אש של Starship V3; ESA עושה צעד זהיר לכיוון השיגור הראשון עם צוות\n\nBlue Origin מתכננת לשגר בקרוב את הטיסה השלישית של הרקטה New Glenn שלה, הפעם עם מגבורה שכבר שימשה בעבר. באותו זמן, סוכנות החלל האירופית מתקדמת בשלבים קטנים אבל בטוחים לכיוון היום בו תוכל סוף סוף לשלוח אנשים לחלל בעצמה.",
     "d": "Fri, 17 Apr 2026 13:06:24 +0000",
     "v": 0,
     "l": [
@@ -323,13 +323,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/HF_XtVIXcAQ5jrN-1-1152x648.jpg",
     "source": "Ars Technica"
   },
   {
     "id": 15,
-    "t": "Amazon Eero Signal review: 4G LTE internet backup for your Eero mesh network\n\nThe Eero Signal offers automatic 4G LTE failover for your primary ISP.",
+    "t": "ביקורת Amazon Eero Signal: גיבוי אינטרנט 4G LTE לרשת ה-mesh שלך\n\nאמזון הביאה פתרון חכם לבעיה שמטרידה כולנו - אבדן חיבור אינטרנט. ה-Eero Signal משתלב עם רשת ה-mesh שלך ובאופן אוטומטי משתמש ב-4G LTE כ-backup כשהחיבור הראשי שלך נופל, כדי שלא תישארו בלי חיבור. זה בעצם כמו ביטוח לחיבור האינטרנט שלכם, כל בלי צורך לעשות כלום.",
     "d": "Fri, 17 Apr 2026 13:05:09 +0000",
     "v": 0,
     "l": [
@@ -355,7 +355,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "Microsoft's April patch puts Windows domain controllers into reboot loops — third known issue from KB5082063 is affecting Windows Server 2016 through 2025\n\nInstalling this month's Windows Server security update has knocked some enterprise domain controllers into continuous reboot cycles.",
+    "t": "עדכון אפריל של מיקרוסופט גורם ל-Windows domain controllers להיכנס ללולאות reboot - בעיה שלישית מ-KB5082063 פוגעת בחלונות שרת 2016 עד 2025\n\nהתקנת עדכון האבטחה החודשי של Windows Server השיבה כמה domain controllers בחברות הגדולות ללולאות reboot אינסופיות. זוהי כבר הבעיה השלישית שמתברר שיוצאת מעדכון KB5082063 הזה, ועכשיו היא משפיעה על כל גרסאות Windows Server מ-2016 ועד 2025. מומלץ לחברות להיות זהירות לפני התקנת העדכון ולשקול להמתין לתיקייה הבאה מחלקת ההנדסה של מיקרוסופט.",
     "d": "Fri, 17 Apr 2026 13:02:34 +0000",
     "v": 0,
     "l": [
@@ -368,13 +368,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/zpszyjwnJygENKdNTJiQ33-1280-80.jpg",
@@ -382,7 +378,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "World-first eVTOL two-way transition flight test completed by Vertical Aerospace\n\nVertical Aerospace has completed a world-first two-way piloted transition flight with a full-scale tiltrotor eVTOL...",
+    "t": "Vertical Aerospace הצליחה לסיים בדיקת טיסה היסטורית של מטוס eVTOL עם מעבר דו-כיווני\n\nחברת Vertical Aerospace עשתה היסטוריה בשנייה - היא הצליחה לבצע בדיקת טיסה עם מטוס tiltrotor eVTOL בגודל מלא שהצליח לעבור מהמרחף (כמו מסוק) לטיסה קדמית רגילה וחזרה לתא הנחיתה, בשני הכיוונים. זה פחות או יותר כמו להוכיח שמטוס המעתיד לתחזוקה עירונית בתוך שנים בא יכול באמת לעשות את כל מה שהוא אמור לעשות.",
     "d": "Fri, 17 Apr 2026 13:00:44 +0000",
     "v": 0,
     "l": [
@@ -405,7 +401,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "New electrolyte design improves solid-state battery conductivity by 2.7 times\n\nKorean researchers have developed a “universal design principle” to accelerate the commercialization of all-solid-state batteries....",
+    "t": "תכנון חדש של אלקטרוליט משפר את הולכת הזרם בסוללות solid-state פי 2.7\n\nחוקרים קוריאנים הגיעו לעיצוב \"עקרון אוניברסלי\" שיכול לזרז את ההוצאה לשוק של סוללות all-solid-state - זה כמו למצוא את הנוסחה הסודית שתשדרג את הטכנולוגיה של סוללות הבאה שתהפוך את טעינת הטלפון שלנו לדבר של העבר. התגלית הזו יכולה לשנות את כל משחק אחסון האנרגיה.",
     "d": "Fri, 17 Apr 2026 12:46:01 +0000",
     "v": 0,
     "l": [
@@ -428,7 +424,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "Build an entire 9800X3D PC with 128GB of RAM for $2,999 — Newegg bundle includes Asus B850 motherboard, 1TB of storage, and RTX 5070 Ti\n\nScore a massive Newegg combo deal: save $1,933 on a high-end gaming PC bundle with Ryzen 7 9800X3D, 128GB DDR5, RTX 5070 Ti, and more - premium parts, matching aesthetics, and serious performance.",
+    "t": "PC גיימינג שלם עם 9800X3D ו-128GB זיכרון תמורת 2,999 דולר — חבילת Newegg כוללת כרטיס RTX 5070 Ti\n\nNewegg הטילה דיל ענק: חוסכים 1,933 דולר על חבילת גיימינג פרימיום עם המעבד Ryzen 7 9800X3D, 128GB DDR5, כרטיס ה-GPU RTX 5070 Ti ועוד הרבה טובות. זה הסוג של קומבו שהיית חוקי שקיים - חלקים איכותיים, אסתטיקה תיאום וביצועים שאפילו ל-YouTube Shorts לא יהיה מספיק זמן בשביל להראות את כל היכולות שלהם.",
     "d": "Fri, 17 Apr 2026 12:35:22 +0000",
     "v": 0,
     "l": [
@@ -441,9 +437,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Nvidia"
+    ],
     "tags": [
-      "news"
+      "news",
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/dTkMmW8bs6MbVjigdDFApc-1280-80.png",
@@ -451,7 +450,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "Great white sharks may never have vanished after all\n\nIn April 2023, local fishermen off the coast of eastern Spain, incidentally caught something massive within the country’s Exclusive Economic Zone (EEZ). Genetic analysis confirmed its species as Carcharodon carcharias, the great white shark.\nContinue Reading\nCategory: Biology, Science\nTags: Marine Biology, Sharks, Spain",
+    "t": "כרישים לבנים ענקיים אולי מעולם לא נעלמו\n\nבפעם הראשונה בעשרות שנים, דייגים בספרד תפסו בטעות כריש לבן ענק בן 6 מטרים במים הספרדיים, וניתוח גנטי אישר את הזהות שלו. התגלית הזו מציעה שהאוכלוסיות של כרישים אלה האיום על ההכחדה אולי קיימות עדיין בים התיכון, במקום שחשבו שהם נעלמו לחלוטין.",
     "d": "Fri, 17 Apr 2026 12:32:00 GMT",
     "v": 0,
     "l": [
@@ -474,7 +473,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "The Nasdaq's win streak, Netflix earnings, another AI pivot and more in Morning Squawk\n\nHere are five key things investors need to know to start the trading day.",
+    "t": "סדרת הנצחונות של נאסדק, הרווחים של נטפליקס, עוד pivot של AI ועוד בMorning Squawk\n\nנאסדק ממשיך להנצח, נטפליקס מדווחת על הרווחים שלה, והחברות הטכנולוגיות עובדות שוב על AI - הנה חמש דברים שכל משקיע צריך לדעת לפני שהבורסה נפתחת היום.",
     "d": "Fri, 17 Apr 2026 12:22:48 GMT",
     "v": 0,
     "l": [
@@ -497,7 +496,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "Google finds new ways to keep you from ever clicking a link again\n\nGoogle is pushing AI mode deeper into Chrome: websites will soon open directly next to the AI response. That makes the traditional page visit even less relevant.\nThe article Google finds new ways to keep you from ever clicking a link again appeared first on The Decoder.",
+    "t": "גוגל מוצאת דרכים חדשות כדי שלא תלחצו על לינקים\n\nגוגל דוחפת את ה-AI עמוק יותר לתוך Chrome, והעתיד הוא שאתרים יפתחו ישר ליד התשובה של ה-AI - דבר שהופך את הביקור בעמוד הרגיל לפחות ופחות רלוונטי. בעצם, גוגל משנה את כל חוקי המשחק של הגלישה באינטרנט. מקור: The Decoder",
     "d": "Fri, 17 Apr 2026 12:22:35 +0000",
     "v": 0,
     "l": [
@@ -510,12 +509,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -523,7 +519,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion\n\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory that many of us have an “inner Neanderthal.” The idea is that Homo sapiens and a cousin species once bred, leaving…",
+    "t": "חדשות שליליות לניאנדרתלנו הפנימי, והאשליה האנושית של מלחמות AI\n\nבמהדורת היום של The Download, נוקד כמה טופיקים חמים בטק: ראשית, תיאוריה פופולרית טוענת שלרובנו יש 'ניאנדרתל פנימי' מתקופת ההתמזגות בין מינים, אבל למה זה לא מדויק כמו שחושבים; שנית, בעיה גדולה בעולם AI warfare היא שהרבה אנשים מדמיינים יותר מדי ממה שאפילו AI יכול לעשות בפועל. הממ, כמו להגיד שכל דבר שאנחנו רואים בהוליווד זה בדיוק איך זה עובד בחיים האמיתיים. מקור: MIT Technology Review",
     "d": "Fri, 17 Apr 2026 12:10:00 +0000",
     "v": 0,
     "l": [
@@ -569,7 +565,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "Physical Intelligence shows robot model with LLM-like generalization, flaws included\n\nUS start-up Physical Intelligence has introduced π0.7, a new robot foundation model designed to recombine skills learned during training, similar to how a language model reassembles text fragments from its training data. The researchers describe this as early signs of \"compositional generalization\" in robotics.\nThe article Physical Intelligence shows robot model with LLM-like generalization, flaws included appeared first on The Decoder.",
+    "t": "Physical Intelligence חשפה מודל רובוט עם יכולת הכללה דומה ל-LLM - כולל החסרונות\n\nסטארט-אפ אמריקאי Physical Intelligence הציג את π0.7, מודל יסוד חדש לרובוטים שיכול לשלב כישורים שנלמדו בתהליך האימון, בדיוק כמו שמודל שפה משחזר חתיכות טקסט מנתוני ההדרכה שלו. החוקרים קוראים לזה סימנים ראשוניים של \"compositional generalization\" בעולם הרובוטיקה - וזה כל כך מרשים עד שאנחנו יכולים כבר לראות גם את הבעיות שבדרך.",
     "d": "Fri, 17 Apr 2026 11:57:54 +0000",
     "v": 0,
     "l": [
@@ -582,14 +578,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "robotics",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "http://the-decoder.de/wp-content/uploads/2026/04/PI07-Pi07VFINAL.mp4",
@@ -1764,7 +1755,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 75,
-    "t": "LIVE: wtf are agents buying?\n\nDiscussion\n            |\n            Link",
+    "t": "LIVE: מה בעצם קונים AI agents?\n\nדיון חם על מה שבאמת עושים ומשלמים עבור AI agents היום. אם אתה מעקב אחרי עולם ה-AI, זה משהו שצריך להבין - מה זה שמניע את השוק בתחום הזה וכמה זה בעצם שווה. הדיון השלם זמין בקישור ב-Product Hunt.",
     "d": "2026-04-17T00:49:34.000Z",
     "v": 0,
     "l": [
@@ -1788,7 +1779,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 76,
-    "t": "OpenAI Launches GPT-Rosalind: Its First Life Sciences AI Model Built to Accelerate Drug Discovery and Genomics Research\n\nOpenAI has officially entered the specialized science race with GPT-Rosalind, a frontier reasoning model designed to slash the 10-15 year timeline of drug discovery through advanced biochemistry and genomic analysis.\nThe post OpenAI Launches GPT-Rosalind: Its First Life Sciences AI Model Built to Accelerate Drug Discovery and Genomics Research appeared first on MarkTechPost.",
+    "t": "OpenAI משיקה את GPT-Rosalind: מודל AI ראשון שלה למדעי החיים המעוצב להאיץ גילוי תרופות ומחקר גנומיקה\n\nOpenAI רשמית נכנסה למרוץ המדע המתמחה עם GPT-Rosalind, מודל reasoning מקצוע שנועד להחתיך לחצי את התהליך של גילוי תרופות שלוקח בדרך כלל 10-15 שנים, בעזרת ניתוח ביוכימיה וגנומיקה מתקדמת. זו המהלך הראשון של OpenAI לעולם מדעי החיים, ובעוד שטח הוא מתחרות עם חברות כמו Google DeepMind שכבר עוסקות בזה, OpenAI ברורה שלה היא משהו גדול כאן.",
     "d": "Fri, 17 Apr 2026 00:00:01 +0000",
     "v": 0,
     "l": [
@@ -1802,19 +1793,20 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI"
+      "OpenAI",
+      "Google"
     ],
     "tags": [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "MarkTechPost"
   },
   {
     "id": 77,
-    "t": "DB Explorer\n\nDiscussion\n            |\n            Link",
+    "t": "DB Explorer\n\nכלי חדש ב-Product Hunt שנראה מיועד לעזור למפתחים לחקור ולנהל מסדי נתונים בצורה יותר קלה ואינטואיטיבית. זה נראה כמו פתרון שיכול לשמור על כל מי שעובד עם databases הרבה זמן וטרחה בעבודות שגרתיות.",
     "d": "2026-04-16T23:56:36.000Z",
     "v": 0,
     "l": [
@@ -1837,7 +1829,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 78,
-    "t": "France plugs Lucy photonic quantum system into supercomputer for hybrid computing\n\nA 12-qubit photonic quantum computer called Lucy has been integrated with the Joliot-Curie supercomputer in...",
+    "t": "צרפת חיברה את מחשב הקוונטום הפוטוני Lucy לסופרקומפיוטר בניסיון הולחימה חישובית\n\nבצרפת חיברו עכשיו את Lucy, מחשב קוונטום פוטוני בעל 12 קיוביטים, לסופרקומפיוטר Joliot-Curie כדי ליצור מערכת היברידית שמשלבת כוח חישובי קוונטי עם חישוביים קלאסיים. זה לא סתם צעד מדעי - זה קפיצה למעשה לכיוון ה-quantum computing המעשי, כי עדיין לא ברור כיצד למקסם את הפוטנציאל של מחשבים קוונטיים בעולם האמיתי. הניסוי הצרפתי הזה עשוי להראות לנו איך אפשר להשתמש בטכנולוגיה קוונטית כדי לפתור בעיות שמחשבים רגילים לא יכולים לטפל בהן. \n\nמקור: Interesting Engineering",
     "d": "Thu, 16 Apr 2026 23:44:38 +0000",
     "v": 0,
     "l": [
@@ -1860,7 +1852,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 79,
-    "t": "US Army CH-47F Chinook helicopter makes first autonomous landing without human input\n\nThe U.S. Army has taken a significant step toward operational autonomy after a CH-47F Chinook...",
+    "t": "מסוק צ'ינוק של צבא ארה\"ב בוצע נחיתה אוטונומית ראשונה ללא התערבות אדם\n\nצבא ארה\"ב עשה צעד ענק לעבר מסוקים אוטונומיים כשמסוק CH-47F Chinook הצליח להנחית את עצמו לראשונה ללא שום התערבות של טייס. זה לא רק טכנולוגיה מושקעת - הזה סימן שחיל האוויר האמריקאי מקרוב לעתיד שבו מסוקים יוכלו להציל חיים בתנאים קשים וסכנתיים ללא סיכון לצוותים. ההצלחה הזו פותחת דלת לאפשרויות שנראו קודם כמו מדע בדיוני.\n\nמקור: Interesting Engineering",
     "d": "Thu, 16 Apr 2026 23:41:51 +0000",
     "v": 0,
     "l": [
@@ -1875,8 +1867,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -1884,7 +1875,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 80,
-    "t": "gridland\n\nDiscussion\n            |\n            Link",
+    "t": "גרידלנד\n\nפרויקט חדש שהופיע ב-Product Hunt שנראה כמו כלי או פלטפורמה קשורה לרשת (grid). אם אתם עובדים עם דיזיין או ארגון נתונים, זה אולי משהו שכדאי לכם להכיר - התיאור הקצר לא מספיק כדי להבין בדיוק מה זה עושה, אז כדאי לחפור קצת עמוק יותר בפורום.",
     "d": "2026-04-16T23:26:16.000Z",
     "v": 0,
     "l": [
@@ -1907,7 +1898,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 81,
-    "t": "Lucasfilm drops The Mandalorian and Grogu final trailer at CinemaCon\n\n\"The old protect the young, and then the young protect the old.\"",
+    "t": "לוקאספילם הוציאה את הטריילר הסופי של The Mandalorian ו-Grogu ב-CinemaCon\n\nלוקאספילם חשפה את הטריילר הסופי של הסרט The Mandalorian and Grogu ב-CinemaCon, עם סלוגן עמוק על מחזור החיים: \"הזקנים מגנים על הצעירים, והצעירים מגנים על הזקנים\". נראה שזה החלק הגדול שחיכינו לו כדי לראות איך סיימו את סיפור דין ג'ארין וגרוגו אחרי כל הסדרות. מקור: Ars Technica",
     "d": "Thu, 16 Apr 2026 23:20:33 +0000",
     "v": 0,
     "l": [
@@ -1930,7 +1921,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 82,
-    "t": "Stoa\n\nDiscussion\n            |\n            Link",
+    "t": "סטואה\n\nפלטפורמה חדשה לדיונים ושיתוף רעיונות שנועדה להנגיש שיחות משמעותיות לכל אחד. קומיוניטי מבוססת על דיאלוג פתוח וחשיפה לדעות שונות, כמו הקונספט הפילוסופי של סטואה מימי קדם.",
     "d": "2026-04-16T23:04:32.000Z",
     "v": 0,
     "l": [
@@ -2022,7 +2013,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 86,
-    "t": "BARKOD studio\n\nDiscussion\n            |\n            Link",
+    "t": "סטודיו BARKOD\n\nנראה שBARKOD היא כלי או פלטפורמה חדשה שהוצגה בProduct Hunt, אבל הפרטים על מה בדיוק היא עושה עדיין לא ברורים לגמרי. אם אתם סקרנים לדעת עוד על הפרויקט, כדאי להכנס לדיון בקהילה או ללחוץ על הלינק כדי לקבל מידע מלא.",
     "d": "2026-04-16T22:06:51.000Z",
     "v": 0,
     "l": [
@@ -2355,7 +2346,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 100,
-    "t": "Proxima\n\nDiscussion\n            |\n            Link",
+    "t": "פרוקסימה\n\nנראה שמדובר בפרויקט חדש שהועלה ל-Product Hunt, אבל הפרטים קצת מעורפלים. אם אתם מחפשים למצוא מה בדיוק זה Proxima, כדאי לכם להציץ ישירות בדיון או בקישור בעמוד ההכרזה.",
     "d": "2026-04-16T20:12:10.000Z",
     "v": 0,
     "l": [
@@ -2581,7 +2572,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 109,
-    "t": "Sharpsana\n\nDiscussion\n            |\n            Link",
+    "t": "שרפסנה\n\nנראה שזה משהו שמתגלגל ב-Product Hunt, אבל הפרטים די דלים כאן. אם אתם מחפשים לדעת עוד על המוצר הזה, כדאי לכם להיכנס ישירות לעמוד של Product Hunt כדי לקבל את התמונה המלאה. אתם מוזמנים גם להשתתף בדיון אם יש לכם משהו לומר.",
     "d": "2026-04-16T19:12:44.000Z",
     "v": 0,
     "l": [
@@ -2650,7 +2641,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 112,
-    "t": "Navox Agents\n\nDiscussion\n            |\n            Link",
+    "t": "סוכני Navox\n\nNavox הוא כלי חדש שמאפשר ליצור AI agents שיכולים להיות עצמאיים בביצוע משימות בלי צורך בהתערבות קבוע. במילים פשוטות - זה כמו שיש לך עובד וירטואלי שמבין מה אתה רוצה ועושה את זה בעצמו, בין אם זה ניתוח נתונים, אוטומציה של תהליכים או אפילו תקשורת עם מערכות חיצוניות דרך API.",
     "d": "2026-04-16T18:37:14.000Z",
     "v": 0,
     "l": [
@@ -2938,7 +2929,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 124,
-    "t": "Melo\n\nDiscussion\n            |\n            Link",
+    "t": "מלו\n\nנראה שמדובר בפרוייקט חדש שהוצג ב-Product Hunt, אבל הפרטים עדיין לא ברורים לגמרי. אנחנו מחכים לעוד מידע כדי להבין בדיוק מה זה מלו ומה היא המטרה שלו.",
     "d": "2026-04-16T17:27:02.000Z",
     "v": 0,
     "l": [
@@ -3033,7 +3024,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 128,
-    "t": "AI Mode in Chrome\n\nDiscussion\n            |\n            Link",
+    "t": "מצב AI בכרום\n\nגוגל הוסיפה יכולות AI ישירות לדפדפן כרום, מה שאומר שאתה יכול להשתמש בכוח של בינה מלאכותית ישירות בזמן הגלישה שלך בלי צורך בהרחבות או אפליקציות נוספות. זה עוד צעד בכיוון שבו כל הדברים הופכים AI-powered, וגם דפדפנים חוזרים למשחק.",
     "d": "2026-04-16T17:10:18.000Z",
     "v": 0,
     "l": [
@@ -3278,7 +3269,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 138,
-    "t": "Klippy\n\nDiscussion\n            |\n            Link",
+    "t": "קליפי - כלי חדש להעתקה והדבקה חכמה\n\nנראה שמדובר בכלי שמפשט את העבודה עם טקסט והעתקות - משהו שיכול להיות שימושי כמו שום דבר לכל מי שעובד הרבה עם מחשב. המוצר הרשום ב-Product Hunt אבל פרטים מדויקים על הפונקציונליות עדיין לא ברורים לחלוטין.",
     "d": "2026-04-16T16:42:45.000Z",
     "v": 0,
     "l": [
@@ -3301,7 +3292,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 139,
-    "t": "Prio\n\nDiscussion\n            |\n            Link",
+    "t": "פריו - כלי ניהול עדיפויות חדש\n\nמוצר חדש שהשקה בProduct Hunt שמיועד לעזור לכם לסדר ולנהל את המשימות החשובות ביותר שלכם. נראה כמו פתרון מעניין למי שמתקשה עם overload של tasks ורוצה להתמקד בדברים שבאמת חשובים.",
     "d": "2026-04-16T16:35:57.000Z",
     "v": 0,
     "l": [
@@ -3497,7 +3488,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 147,
-    "t": "VideoToFlip.com\n\nDiscussion\n            |\n            Link",
+    "t": "VideoToFlip.com - הכלי החדש להיפוך וסיבוב סרטונים\n\nאתר חדש שמאפשר לכם להיפוך וסיבוב סרטונים בקלות רבה ללא צורך בתוכנה מורכבת. המשימה פשוטה ודירה: העלו את הווידאו וקבלו אותו מסובב בדיוק כפי שרציתם, בשניות. כלי שימושי למי שנתקל בבעיית כיווניות או שצילם בטעות בכיוון הלא נכון.",
     "d": "2026-04-16T16:08:38.000Z",
     "v": 0,
     "l": [
@@ -3668,7 +3659,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 154,
-    "t": "The Fabricant Intelligent Tools\n\nDiscussion\n            |\n            Link",
+    "t": "כלים חכמים של The Fabricant\n\nThe Fabricant השיקה סט של כלים אינטליגנטיים שמיועדים לעולם האופנה הדיגיטלית, כדי להקל על יצירה וכמויות של ביגוד וירטואלי. הכלים האלה משתמשים ב-AI כדי לשפר את תהליך העיצוב וההפקה בעולם הפשטות של פיתגון דיגיטלי, וזה מהלך שמעניין את כל מי שעובד עם אופנה וטכנולוגיה.",
     "d": "2026-04-16T15:53:09.000Z",
     "v": 0,
     "l": [
@@ -3867,7 +3858,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 162,
-    "t": "Cerberus\n\nDiscussion\n            |\n            Link",
+    "t": "קרברוס\n\nנראה שמדובר בפרויקט חדש שנוצר על Product Hunt, אך לצערנו ההערות והלינק לא מספקים מספיק מידע כדי להבין מה בדיוק זה. אם זה קשור ל-AI או לכלי טכני כלשהו, כדאי לעקוב אחרי ההתפתחות בקרוב. לבקשתך, אם יש יותר פרטים על התוכן בואו נעדכן אתכם בהרחבה!",
     "d": "2026-04-16T15:16:03.000Z",
     "v": 0,
     "l": [
@@ -3939,7 +3930,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 165,
-    "t": "Cloudflare Email Service\n\nDiscussion\n            |\n            Link",
+    "t": "שירות דוא\"ל של Cloudflare\n\nDiscussion\n            |\n            Link",
     "d": "2026-04-16T14:56:49.000Z",
     "v": 0,
     "l": [
@@ -3962,7 +3953,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 166,
-    "t": "DJI Osmo Pocket 4\n\nDiscussion\n            |\n            Link",
+    "t": "DJI Osmo Pocket 4\n\nדיג'י הבישה לנו את הדור הרביעי של המצלמה הכיסית האהובה - ה-Osmo Pocket 4 שהגיעה עם שיפורים משמעותיים בזום, בטיפול בתאורה וביציבות. זו הבחירה המושלמת לכל מי שרוצה לצלם תוכן איכותי בנייד, בלי צורך לשאת ציוד כבד. מי שזיכר את הדור הקודם, בטוח יתרגש מהעדכונים החדשים שמדברים על קפיצה משמעותית בקוואליטי של הסרטונים.",
     "d": "2026-04-16T14:44:38.000Z",
     "v": 0,
     "l": [
@@ -4031,7 +4022,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 169,
-    "t": "Claude Opus 4.7\n\nDiscussion\n            |\n            Link",
+    "t": "Claude Opus 4.7\n\nנראה שאנתרופיק משודרגת שוב את Claude, ועל פי התלתלים ביקום ההייטק - זה יכול להיות דברים גדולים. הגרסה החדשה של מודל ה-AI שלהם אמורה להביא שיפורים משמעותיים בביצועים ויכולות, אם כי פרטים מדויקים עדיין דלים בשלב הזה. תשמרו עין על זה כי בהחלט זה משהו שיכול להשנות את המשחק בעולם ה-AI.",
     "d": "2026-04-16T14:29:30.000Z",
     "v": 0,
     "l": [
@@ -4293,7 +4284,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 180,
-    "t": "Qwen3.6-35B-A3B\n\nDiscussion\n            |\n            Link",
+    "t": "Qwen3.6-35B-A3B\n\nאליבאבא משיקה את Qwen3.6-35B-A3B, מודל AI חדש שמתחרה עם הגדולים בתחום עם יכולת עיבוד מרשימה ופחות צריכה משאבים. המודל הזה נועד לספק ביצועים משמעותיים בעלות נמוכה יותר, מה שהופך אותו לאטרקטיבי למפתחים וחברות שרוצות לשלב AI מתקדם בפרויקטים שלהם. זה עוד סיבה לעקוב קרוב על התחרות הגדולה בשוק ה-AI בימים אלה. מקור: Product Hunt",
     "d": "2026-04-16T13:51:24.000Z",
     "v": 0,
     "l": [
@@ -4434,7 +4425,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 186,
-    "t": "Macaly 4.0\n\nDiscussion\n            |\n            Link",
+    "t": "Macaly 4.0\n\nMacaly חוזרת בגרסה חדשה ומשופרת שמביאה עוד יותר כוח וגמישות לעובדים והחברות שלהם. זו עדכון משמעותי שמראה שהצוות ממשיך להקשיב למשתמשים ולהעביר פיצ'רים חדשים שמבקשים. אם אתה עוקב אחרי כלים פרודוקטיביים, כדאי לך להיכנס לדיון בProduce Hunt ולראות מה כולם אומרים על זה. | מקור: Product Hunt",
     "d": "2026-04-16T13:09:50.000Z",
     "v": 0,
     "l": [
@@ -4674,7 +4665,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 196,
-    "t": "Visual PR Testing with AI\n\nDiscussion\n            |\n            Link",
+    "t": "בדיקת PR ויזואלית עם AI\n\nכלי חדש שמשתמש בבינה מלאכותית כדי לבדוק את השינויים הויזואליים בקוד שלכם לפני שמוגדלים live - סוג של \"עיניים אלקטרוניות\" שמזהות באגים ובעיות עיצוב שקשה לתופסן בעין בשר. מעניין עבור מפתחים שרוצים להצליח מבלי להיתקל בסערה של버그 ויזואליים. מקור: Product Hunt",
     "d": "2026-04-16T12:52:36.000Z",
     "v": 0,
     "l": [
@@ -4908,7 +4899,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 206,
-    "t": "Zuflow\n\nDiscussion\n            |\n            Link",
+    "t": "Zuflow\n\nZuflow היא פלטפורמה חדשה שמופיעה ב-Product Hunt, אבל לצערנו הפרטים על מה בדיוק היא עושה עדיין לא ברורים לחלוטין. נראה שמדובר בכלי שמעניין את קהילת ה-tech, אבל נצטרך לחכות לעוד מידע כדי להבין אם זה משהו שבאמת משנה את המשחק. אם אתם סקרנים, כדאי לכם לבדוק ישירות בחנות Product Hunt. מקור: Product Hunt",
     "d": "2026-04-16T12:05:16.000Z",
     "v": 0,
     "l": [
