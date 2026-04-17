@@ -1,9 +1,9 @@
 {
-  "total": 4232,
+  "total": 4273,
   "translated": 4222,
-  "untranslated": 10,
-  "today": 10,
-  "week": 1000,
+  "untranslated": 51,
+  "today": 51,
+  "week": 1041,
   "sources": [
     {
       "name": "Pypi.org",
@@ -13,9 +13,9 @@
     },
     {
       "name": "Product Hunt",
-      "total": 357,
+      "total": 393,
       "translated": 357,
-      "lastDate": "2026-04-16T06:59:06.000Z"
+      "lastDate": "2026-04-17T06:10:11.000Z"
     },
     {
       "name": "OpenAI Blog",
@@ -37,7 +37,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 160,
+      "total": 161,
       "translated": 157,
       "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 117,
+      "total": 118,
       "translated": 117,
       "lastDate": "Wed, 15 Apr 2026 23:58:12 GMT"
     },
@@ -67,9 +67,9 @@
     },
     {
       "name": "The Register",
-      "total": 102,
+      "total": 103,
       "translated": 102,
-      "lastDate": "2026-04-16T22:45:37.000Z"
+      "lastDate": "2026-04-17T07:02:09.000Z"
     },
     {
       "name": "TechCrunch AI",
@@ -103,7 +103,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 72,
+      "total": 73,
       "translated": 71,
       "lastDate": "Wed, 15 Apr 2026 21:00:47 GMT"
     },
@@ -121,7 +121,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 51,
+      "total": 52,
       "translated": 50,
       "lastDate": "Wed, 15 Apr 2026 17:21:06 +0000"
     },
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-17T06:18:42.422Z"
+  "generatedAt": "2026-04-17T08:11:02.725Z"
 }
