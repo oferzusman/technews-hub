@@ -1,9 +1,9 @@
 {
-  "total": 4341,
-  "translated": 4322,
-  "untranslated": 19,
-  "today": 119,
-  "week": 1109,
+  "total": 4351,
+  "translated": 4341,
+  "untranslated": 10,
+  "today": 129,
+  "week": 1119,
   "sources": [
     {
       "name": "Pypi.org",
@@ -14,7 +14,7 @@
     {
       "name": "Product Hunt",
       "total": 405,
-      "translated": 387,
+      "translated": 405,
       "lastDate": "2026-04-17T06:50:44.000Z"
     },
     {
@@ -25,13 +25,13 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 216,
+      "total": 218,
       "translated": 216,
       "lastDate": "Wed, 15 Apr 2026 16:27:58 +0000"
     },
     {
       "name": "Futurism",
-      "total": 181,
+      "total": 182,
       "translated": 181,
       "lastDate": "Wed, 15 Apr 2026 16:15:26 -0400"
     },
@@ -49,15 +49,21 @@
     },
     {
       "name": "New Atlas",
-      "total": 138,
+      "total": 139,
       "translated": 138,
       "lastDate": "Wed, 15 Apr 2026 23:03:00 GMT"
     },
     {
       "name": "CNBC Tech",
-      "total": 124,
+      "total": 125,
       "translated": 124,
       "lastDate": "Wed, 15 Apr 2026 23:58:12 GMT"
+    },
+    {
+      "name": "TechCrunch AI",
+      "total": 104,
+      "translated": 101,
+      "lastDate": "Wed, 15 Apr 2026 19:28:36 +0000"
     },
     {
       "name": "Onefootball.com",
@@ -72,15 +78,9 @@
       "lastDate": "2026-04-17T07:02:09.000Z"
     },
     {
-      "name": "TechCrunch AI",
-      "total": 101,
-      "translated": 101,
-      "lastDate": "Wed, 15 Apr 2026 19:28:36 +0000"
-    },
-    {
       "name": "Hugging Face Blog",
-      "total": 94,
-      "translated": 93,
+      "total": 95,
+      "translated": 94,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -109,9 +109,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 56,
+      "total": 57,
       "translated": 56,
-      "lastDate": "2026-04-17T13:24:34.000Z"
+      "lastDate": "2026-04-17T15:46:37.000Z"
     },
     {
       "name": "Github.com",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-17T16:36:06.712Z"
+  "generatedAt": "2026-04-17T17:32:49.116Z"
 }
