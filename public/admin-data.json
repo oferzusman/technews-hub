@@ -1,9 +1,9 @@
 {
-  "total": 4380,
+  "total": 4392,
   "translated": 4380,
-  "untranslated": 0,
-  "today": 158,
-  "week": 1148,
+  "untranslated": 12,
+  "today": 170,
+  "week": 1160,
   "sources": [
     {
       "name": "Pypi.org",
@@ -31,51 +31,51 @@
     },
     {
       "name": "Futurism",
-      "total": 185,
+      "total": 186,
       "translated": 185,
       "lastDate": "Wed, 15 Apr 2026 16:15:26 -0400"
     },
     {
       "name": "Interesting Engineering",
-      "total": 179,
+      "total": 180,
       "translated": 179,
       "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
     {
       "name": "Ars Technica",
-      "total": 146,
+      "total": 148,
       "translated": 146,
       "lastDate": "Wed, 15 Apr 2026 22:25:30 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 140,
+      "total": 141,
       "translated": 140,
       "lastDate": "Wed, 15 Apr 2026 23:03:00 GMT"
     },
     {
       "name": "CNBC Tech",
-      "total": 126,
+      "total": 127,
       "translated": 126,
       "lastDate": "Wed, 15 Apr 2026 23:58:12 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 106,
+      "total": 107,
       "translated": 106,
       "lastDate": "Wed, 15 Apr 2026 19:28:36 +0000"
+    },
+    {
+      "name": "The Register",
+      "total": 104,
+      "translated": 103,
+      "lastDate": "2026-04-17T20:38:02.000Z"
     },
     {
       "name": "Onefootball.com",
       "total": 104,
       "translated": 104,
       "lastDate": "2026-04-09T07:08:00Z"
-    },
-    {
-      "name": "The Register",
-      "total": 103,
-      "translated": 103,
-      "lastDate": "2026-04-17T07:02:09.000Z"
     },
     {
       "name": "The Decoder",
@@ -109,21 +109,21 @@
     },
     {
       "name": "The Verge AI",
-      "total": 58,
+      "total": 60,
       "translated": 58,
-      "lastDate": "2026-04-17T17:30:00.000Z"
+      "lastDate": "2026-04-17T20:42:47.000Z"
+    },
+    {
+      "name": "MarkTechPost",
+      "total": 54,
+      "translated": 52,
+      "lastDate": "Wed, 15 Apr 2026 17:21:06 +0000"
     },
     {
       "name": "Github.com",
       "total": 54,
       "translated": 54,
       "lastDate": "2026-04-09T06:45:21Z"
-    },
-    {
-      "name": "MarkTechPost",
-      "total": 52,
-      "translated": 52,
-      "lastDate": "Wed, 15 Apr 2026 17:21:06 +0000"
     },
     {
       "name": "MIT Technology Review",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-17T20:40:50.120Z"
+  "generatedAt": "2026-04-17T21:27:24.787Z"
 }
