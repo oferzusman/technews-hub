@@ -85076,7 +85076,7 @@
       "author": "Michelle Falci",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-17T10:12:28.633Z",
       "created_at": "2026-04-17T10:12:28.633Z"
     },
@@ -85093,7 +85093,7 @@
       "author": "Sujita Sinha",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-17T10:12:31.442Z",
       "created_at": "2026-04-17T10:12:31.442Z"
     },
@@ -85110,7 +85110,7 @@
       "author": "Munis Raza",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-17T10:12:31.442Z",
       "created_at": "2026-04-17T10:12:31.442Z"
     },
@@ -85147,7 +85147,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-17T10:12:31.620Z",
       "created_at": "2026-04-17T10:12:31.620Z"
     },
@@ -85167,7 +85167,7 @@
         "Peripherals"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-17T10:12:31.621Z",
       "created_at": "2026-04-17T10:12:31.621Z"
     },
@@ -85188,7 +85188,7 @@
         "Manufacturing"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-17T10:12:31.621Z",
       "created_at": "2026-04-17T10:12:31.621Z"
     },
@@ -85280,7 +85280,7 @@
         "App"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-17T11:14:53.503Z",
       "created_at": "2026-04-17T11:14:53.503Z"
     },
@@ -85300,7 +85300,7 @@
         "App"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-17T11:14:53.503Z",
       "created_at": "2026-04-17T11:14:53.503Z"
     },
@@ -85487,6 +85487,123 @@
       "priority": "hot",
       "fetchedAt": "2026-04-17T11:14:58.749Z",
       "created_at": "2026-04-17T11:14:58.749Z"
+    },
+    {
+      "id": 4311,
+      "source": "Ars Technica",
+      "title_en": "Recent advances push Big Tech closer to the Q-Day danger zone",
+      "description_en": "Here's which players are winning the race to transition to post-quantum crypto.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1070527780-1152x648.jpg",
+      "pub_date": "Fri, 17 Apr 2026 11:00:50 +0000",
+      "author": "\n                    Dan Goodin\n                ",
+      "categories": [
+        "Biz & IT",
+        "Features",
+        "Security",
+        "cryptography",
+        "post quantum cryptography",
+        "quantum computing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T12:06:26.567Z",
+      "created_at": "2026-04-17T12:06:26.567Z"
+    },
+    {
+      "id": 4312,
+      "source": "Tom's Hardware",
+      "title_en": "TSMC ups revenue guidance and CapEx, buoyed by 'multiyear AI megatrend' — warns Middle East conflict may impact profitability as costs increase",
+      "description_en": "TSMC unveils aggressive plans to ramp up 3nm-capable capacity further in the coming years amid strong demand from the AI sector.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-ups-revenue-guidance-and-capex-buoyed-by-multiyear-ai-megatrend-warns-middle-east-conflict-may-impact-profitability-as-costs-increase",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/p2QqhVFP7dTRWfeVBCYBYV-1280-80.jpg",
+      "pub_date": "Fri, 17 Apr 2026 12:00:00 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T12:06:36.255Z",
+      "created_at": "2026-04-17T12:06:36.255Z"
+    },
+    {
+      "id": 4313,
+      "source": "Tom's Hardware",
+      "title_en": "Steam shown running on Nintendo Switch thanks to latest Proton Beta — FEX 2604 translates x86 to ARM-friendly instructions on Linux",
+      "description_en": "Valve has released Proton 11.0-Beta1, with support for Arm devices.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/handheld-gaming/steam-shown-running-on-nintendo-switch-thanks-to-latest-proton-beta-fex-2604-translates-x86-to-arm-friendly-instructions-on-linux",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/g67ngFFWkRwDVxtP9xg2eJ-1280-80.jpg",
+      "pub_date": "Fri, 17 Apr 2026 11:13:51 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Handheld Gaming",
+        "Video Games",
+        "Console Gaming"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T12:06:36.255Z",
+      "created_at": "2026-04-17T12:06:36.255Z"
+    },
+    {
+      "id": 4314,
+      "source": "CNBC Tech",
+      "title_en": "U.S. tech companies ramp up government lobbying amid Iran war uncertainty",
+      "description_en": "A White House spokesperson told CNBC the administration had been working with industry leaders to mitigate disruption brought about by the conflict.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/17/us-tech-lobbying-government-iran-war.html",
+      "image_url": null,
+      "pub_date": "Fri, 17 Apr 2026 11:18:55 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-17T12:06:36.438Z",
+      "created_at": "2026-04-17T12:06:36.438Z"
+    },
+    {
+      "id": 4315,
+      "source": "Product Hunt",
+      "title_en": "VideoToFlip.com",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/videotoflip-make-a-flipbook-from-video",
+      "image_url": null,
+      "pub_date": "2026-04-16T16:08:38.000Z",
+      "author": "Momcilo Popov",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-17T12:06:37.040Z",
+      "created_at": "2026-04-17T12:06:37.040Z"
+    },
+    {
+      "id": 4316,
+      "source": "Product Hunt",
+      "title_en": "Build Check (for Outsiders)",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/build-check-for-outsiders",
+      "image_url": null,
+      "pub_date": "2026-04-07T20:10:05.000Z",
+      "author": "Germán Merlo",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-17T12:06:37.040Z",
+      "created_at": "2026-04-17T12:06:37.040Z"
     }
   ]
 }
