@@ -1,9 +1,9 @@
 {
-  "total": 4222,
+  "total": 4232,
   "translated": 4222,
-  "untranslated": 0,
-  "today": 0,
-  "week": 990,
+  "untranslated": 10,
+  "today": 10,
+  "week": 1000,
   "sources": [
     {
       "name": "Pypi.org",
@@ -37,19 +37,19 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 157,
+      "total": 160,
       "translated": 157,
       "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
     {
       "name": "Ars Technica",
-      "total": 136,
+      "total": 138,
       "translated": 136,
       "lastDate": "Wed, 15 Apr 2026 22:25:30 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 129,
+      "total": 132,
       "translated": 129,
       "lastDate": "Wed, 15 Apr 2026 23:03:00 GMT"
     },
@@ -103,7 +103,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 71,
+      "total": 72,
       "translated": 71,
       "lastDate": "Wed, 15 Apr 2026 21:00:47 GMT"
     },
@@ -121,7 +121,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 50,
+      "total": 51,
       "translated": 50,
       "lastDate": "Wed, 15 Apr 2026 17:21:06 +0000"
     },
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-17T04:21:26.824Z"
+  "generatedAt": "2026-04-17T06:18:42.422Z"
 }
