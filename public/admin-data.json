@@ -1,9 +1,9 @@
 {
-  "total": 4316,
+  "total": 4341,
   "translated": 4272,
-  "untranslated": 44,
-  "today": 94,
-  "week": 1084,
+  "untranslated": 69,
+  "today": 119,
+  "week": 1109,
   "sources": [
     {
       "name": "Pypi.org",
@@ -25,37 +25,37 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 211,
+      "total": 216,
       "translated": 211,
       "lastDate": "Wed, 15 Apr 2026 16:27:58 +0000"
     },
     {
       "name": "Futurism",
-      "total": 179,
+      "total": 181,
       "translated": 179,
       "lastDate": "Wed, 15 Apr 2026 16:15:26 -0400"
     },
     {
       "name": "Interesting Engineering",
-      "total": 168,
+      "total": 174,
       "translated": 166,
       "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
     {
       "name": "Ars Technica",
-      "total": 139,
+      "total": 140,
       "translated": 138,
       "lastDate": "Wed, 15 Apr 2026 22:25:30 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 136,
+      "total": 138,
       "translated": 136,
       "lastDate": "Wed, 15 Apr 2026 23:03:00 GMT"
     },
     {
       "name": "CNBC Tech",
-      "total": 122,
+      "total": 124,
       "translated": 122,
       "lastDate": "Wed, 15 Apr 2026 23:58:12 GMT"
     },
@@ -79,13 +79,13 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 93,
+      "total": 94,
       "translated": 93,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
       "name": "The Decoder",
-      "total": 91,
+      "total": 93,
       "translated": 91,
       "lastDate": "Wed, 15 Apr 2026 18:39:44 +0000"
     },
@@ -109,9 +109,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 55,
+      "total": 56,
       "translated": 55,
-      "lastDate": "2026-04-16T17:00:00.000Z"
+      "lastDate": "2026-04-17T13:24:34.000Z"
     },
     {
       "name": "Github.com",
@@ -127,7 +127,7 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 45,
+      "total": 47,
       "translated": 45,
       "lastDate": "Wed, 15 Apr 2026 12:10:00 +0000"
     },
@@ -150,16 +150,16 @@
       "lastDate": "2026-04-09T00:29:48Z"
     },
     {
+      "name": "Google AI Blog",
+      "total": 26,
+      "translated": 25,
+      "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
+    },
+    {
       "name": "Financial Post",
       "total": 26,
       "translated": 26,
       "lastDate": "2026-04-09T04:35:19Z"
-    },
-    {
-      "name": "Google AI Blog",
-      "total": 25,
-      "translated": 25,
-      "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
       "name": "Ibtimes.com.au",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-17T14:36:57.761Z"
+  "generatedAt": "2026-04-17T15:42:14.507Z"
 }
