@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges\n\nReturning backers a16z and Thrive are expected to lead the round.",
+    "t": "מקורות: Cursor בשיחות להגייס 2 מיליארד דולר בהערכה של 50 מיליארד דולר כשצמיחת הארגוני מתפרצת\n\nCursor, עורך הקוד המופעל ע\"י AI שחרבן את שוק ה-developer tools, בעלת שיחות טבעות עתקות כדי להגייס יותר מ-2 מיליארד דולר בהערכה של 50 מיליארד דולר - וזה בעצם מטורף בהתחשב בכך שזה עדיין startup יחסית חדש. a16z ו-Thrive Capital, שכבר השקיעו בחברה, צפויים להוביל את הסבב הזה, כשהצמיחה בסקטור הארגוני וחברות גדולות פשוту רצות להשתמש בשירות.\n\nמקור: TechCrunch AI",
     "d": "Fri, 17 Apr 2026 19:17:26 +0000",
     "v": 0,
     "l": [
@@ -16,8 +16,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -25,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Robot Dogs Patrolling Precious Crops as Food Crisis Deepens\n\nMeet the corn farmer's best friend.\nThe post Robot Dogs Patrolling Precious Crops as Food Crisis Deepens appeared first on Futurism.",
+    "t": "כלבי רובוט שומרים על יבולים יקרי-ערך כשמשבר המזון מעמיק\n\nבעידן משבר המזון העולמי, חקלאים פונים לפתרון טכנולוגי חדש - רובוטים דמויי כלבים שסיור על השדות ומגנים על היבול מפני נזקים. זה כמו לשכור שומר אבל במקום בן אדם, זה סוג של מכונה חכמה שמבינה מה קורה בחקל. כלבי הרובוט הללו הם עוד דוגמה לתפקיד ההולך וגדל של AI וברובוטיקה בפתרון בעיות כלכליות קריטיות לאנושות.",
     "d": "Fri, 17 Apr 2026 15:15:55 -0400",
     "v": 0,
     "l": [
@@ -40,8 +39,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/robot-dog-food-crisis.jpg?quality=85",
@@ -49,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Keychron V5 Ultra 8K Review: Budget-friendly 8K\n\nThe Keychron V5 Ultra 8K is a wireless mechanical hot-swappable keyboard with a 96-percent layout and up to an 8,000 Hz polling rate — and it gets up to 660 hours of battery life.",
+    "t": "ביקורת Keychron V5 Ultra 8K: מקלדת מכנית אלחוטית בחירה חכמה\n\nקיכרון החזיקה בחוט: ה-V5 Ultra 8K היא מקלדת מכנית אלחוטית Hot-Swappable עם layout 96% וקצב polling של עד 8,000 Hz, וכל זה עם סוללה שחוזקת עד 660 שעות. זה הסוג של מקלדת שתכין לך כל מה שאתה צריך - תגובה מהירה, נוחות, ובטווח מחיר שלא יכאב בארנק.",
     "d": "Fri, 17 Apr 2026 19:00:00 +0000",
     "v": 0,
     "l": [
@@ -72,7 +70,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Google Deepmind's Gemini Robotics-ER 1.6 gives robots a sharper brain for planning and perception\n\nGoogle Deepmind's Gemini Robotics-ER 1.6 helps robots plan and act more precisely, with a new knack for reading measuring instruments.\nThe article Google Deepmind's Gemini Robotics-ER 1.6 gives robots a sharper brain for planning and perception appeared first on The Decoder.",
+    "t": "Gemini Robotics-ER 1.6 של Google DeepMind נותן לרובוטים מוח חד יותר לתכנון וזיהוי\n\nגוגל DeepMind השיקה את גרסה 1.6 של Gemini Robotics-ER, שמשפרת משמעותית את יכולת הרובוטים לתכנן ביצוע משימות וקריאת מכשירי מדידה. המודל החדש מאפשר לרובוטים להבין טוב יותר את סביבתם ולבצע פעולות בדיוק גבוה יותר - זה בעצם תוספת של קוג'יטציה מתחכמת למכונות שעד עכשיו היו קצת \"מבולבלות\". עם התכונות החדשות האלה, אנחנו נראה רובוטים שיכולים להתמודד עם משימות מורכבות הרבה יותר טוב מבעבר.",
     "d": "Fri, 17 Apr 2026 18:59:56 +0000",
     "v": 0,
     "l": [
@@ -99,7 +97,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Bioelectronic sensor turns chemical signals into electricity using bacteria\n\nEngineers at Rice University have developed a dual-bacterial system that converts chemical signals directly into...",
+    "t": "חיישן ביואלקטרוני הופך אותות כימיים לחשמל בעזרת חיידקים\n\nמהנדסים באוניברסיטת Rice פיתחו מערכת דו-חיידקית חדשה שמסוגלת להמיר אותות כימיים ישירות לזרם חשמלי - טכנולוגיה שעלולה להיות משחק משנה בתחום החיישנים הביומדיים. החיידקים עובדים בשיתוף פעולה כאשר האחד מזיהה את האות הכימי והשני מייצר אנרגיה חשמלית, דבר שיכול להוביל לפתרונות חדשים בתצפית סביבתית ובאבחון רפואי.",
     "d": "Fri, 17 Apr 2026 18:49:48 +0000",
     "v": 0,
     "l": [
@@ -122,7 +120,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Google finds new ways to keep you from ever visiting a website directly again\n\nGoogle is pushing AI mode deeper into Chrome: websites will soon open directly next to the AI response. That makes the traditional page visit even less relevant.\nThe article Google finds new ways to keep you from ever visiting a website directly again appeared first on The Decoder.",
+    "t": "גוגל מוצאת דרכים חדשות שלא תגרמו לכם לבקר באתר ישירות\n\nגוגל דוחפת את AI עמוק יותר לתוך Chrome, ועכשיו אתרים יפתחו ישירות לצד התגובה של ה-AI - זה בעצם הופך את הביקור המסורתי באתר לכמעט לא רלוונטי. במהלך הזה, גוגל מחזקת את המיקום שלה כמתווך ראשי בדרך שלכם למידע, בעוד שבעלי האתרים מתישים ישירות מהמשוואה.",
     "d": "Fri, 17 Apr 2026 18:45:35 +0000",
     "v": 0,
     "l": [
@@ -135,12 +133,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -148,7 +143,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "“Tokenmaxxing” is making developers less productive than they think\n\nThere's a lot more code—but it's a lot more expensive and requires a lot more rewriting.",
+    "t": "\"Tokenmaxxing\" הופך מפתחים לפחות פרודוקטיביים ממה שהם חושבים\n\nמסתבר שהעסיסה על הגדלת tokens בעבודה עם AI models לא תמיד משתלמת - כן, אתם מקבלים יותר קוד, אבל במחיר גבוה בהרבה וביצירה של הרבה יותר עבודת rewriting מיותרת. זה עוד דוגמה לכך שלא כل מה שנראה יעיל מבחינה טכנית בעצם משפר את הביצועים האמיתיים של המפתחים.",
     "d": "Fri, 17 Apr 2026 18:42:45 +0000",
     "v": 0,
     "l": [
@@ -171,7 +166,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "$25,000 buys plenty of used EVs: Here are some options\n\nIs $20,000–$25,000 a sweet spot for secondhand electric cars? We think so.",
+    "t": "ב-25,000 דולר אפשר לקנות הרבה מכוניות חשמליות משומשות: הנה האפשרויות\n\nאם אתם חושבים שמכונית חשמלית זה יקר מדי, יש לנו חדשות טובות בשבילכם. בתחום של 20,000-25,000 דולר אתם יכולים למצוא אפשרויות ממש סבירות של רכבים חשמליים משומשים שיעבדו לכם בנהיגה יומיומית בלי להחריב את התקציב. בואו נראה לכם מה בדיוק אתם יכולים לקנות בקטגוריית מחיר הזהב הזו.",
     "d": "Fri, 17 Apr 2026 18:31:48 +0000",
     "v": 0,
     "l": [
@@ -194,7 +189,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "The White House weighs whether Anthropic's Mythos is too valuable for the federal government to refuse\n\nAnthropic CEO Dario Amodei is meeting Trump's Chief of Staff Susie Wiles at the White House to end a months-long standoff with the Pentagon. The new Mythos model's cybersecurity chops reportedly opened the door.\nThe article The White House weighs whether Anthropic's Mythos is too valuable for the federal government to refuse appeared first on The Decoder.",
+    "t": "הבית הלבן שוקל האם מודל Mythos של Anthropic יקר מדי בשביל הממשלה הפדרלית להסכים לו\n\nראש ה-AI של Anthropic, דריו אמודיי, נפגש עם ראשת הסגל של טראמפ סוזי ווילס בבית הלבן כדי לסיים מלחמת השנים עם הפנטגון - והפעם יש להם כרטיס זהב בשם Mythos, מודל AI חדש שעולה בזכויות cybersecurity שלו. נראה שהיכולות האלה הן בדיוק מה שהממשלה החיפשה, ולכן השאלה החוזרת היא האם כוח כזה יכול להישאר בידיים פרטיות.",
     "d": "Fri, 17 Apr 2026 18:30:49 +0000",
     "v": 0,
     "l": [
@@ -215,13 +210,13 @@ window.TELEGRAM_DATA = [
       "model",
       "security"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 10,
-    "t": "AI chipmaker Cerebras set to file for IPO as soon as today\n\nThrough the public offering, Cerebras could be worth three times more than what it was in a 2025 funding round, one person said.",
+    "t": "Cerebras - יצרנית שבבי ה-AI מתכנסת להנפקה בבורסה כבר היום\n\nהחברה שמתמחה בשבבים חכמים לבינה מלאכותית עומדת להשיק IPO שעלול להעריך אותה בשלוש פעמים יותר מאשר ההערכה בסבב ההשקעות האחרון בתחילת 2025. אם זה קרה - זה עוד הוכחה לחם והשמן שזורמים לתוך סטארטאפי AI בימים אלה.",
     "d": "Fri, 17 Apr 2026 18:16:00 GMT",
     "v": 0,
     "l": [
@@ -236,8 +231,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -245,7 +239,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "Alibaba's open model Qwen3.6 leads Google's Gemma 4 across agentic coding benchmarks\n\nAlibaba's new open-source Qwen3.6-35B-A3B activates just three of its 35 billion parameters at a time, yet beats Google's larger Gemma 4-31B on coding and reasoning benchmarks.\nThe article Alibaba's open model Qwen3.6 leads Google's Gemma 4 across agentic coding benchmarks appeared first on The Decoder.",
+    "t": "מודל Qwen3.6 הפתוח של Alibaba עוקף את Gemma 4 של Google בבנצ'מארקים של coding אגנטי\n\nAlibaba הפתיעה בגדול - המודל החדש שלהם Qwen3.6-35B-A3B משתמש בדיוק 3 מתוך 35 מיליארד הפרמטרים שלו, אבל בכל זאת מנצח את ה-Gemma 4 של Google שהוא גם כן בגודל דומה, בבדיקות של coding והנמקה. זה עוד הוכחה שהיעילות בחכמת הפרמטרים עדיף מפעמים על גודל גרוטסקי של מודלים.",
     "d": "Fri, 17 Apr 2026 18:11:25 +0000",
     "v": 0,
     "l": [
@@ -263,17 +257,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding",
-      "agents"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 12,
-    "t": "Satellite and drone images reveal big delays in US data center construction\n\nData centers face construction delays and energy bottleneck as resistance grows.",
+    "t": "תמונות לוויין ודרונים חושפות עיכובים ענקיים בבניית מרכזי נתונים בארה״ב\n\nמרכזי הנתונים שמגדלים את כל ה-AI מתקלקלים בבנייה - לוויינים הפיקו ראיות שיש עיכובים ענקיים בכל המקום, וזה לא רק בעיית בנייה, אלא גם בבעיות אנרגיה והתנגדות מקומית שמעצורת את כל התחנות החדשות.",
     "d": "Fri, 17 Apr 2026 18:08:25 +0000",
     "v": 0,
     "l": [
@@ -296,7 +288,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "There Are Signs of a Massive AI Backlash\n\nIt's a powder keg.\nThe post There Are Signs of a Massive AI Backlash appeared first on Futurism.",
+    "t": "סימנים לתגובת נגד ענקית נגד AI\n\nהשטח מתחמם וזה כבר מריח כמו צינור דלוקה. בכל מקום אנחנו שומעים קולות של עוררות כנגד התפשטות ה-AI המטורף - בין אם זה בשל חששות מייצור מקומי, בעיות פרטיות או פשוט עייפות מהתשיימה של כל החברות לזרוק AI לכל דבר שזז. המצב הופך ממש לחבית אבק שמחכה לניצוץ.",
     "d": "Fri, 17 Apr 2026 14:07:12 -0400",
     "v": 0,
     "l": [
@@ -319,7 +311,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "US lawmakers amend new restrictions on Chinese chipmakers — MATCH Act's blanket restrictions removed from select chipmaking tools\n\nU.S. lawmakers remove countrywide exports ban on cryogenic etching tools from the MATCH Act, yet Chinese companies could barely get them anyway.",
+    "t": "חוקים אמריקאים משנים הגבלות על יצרני שבבים סינים — הגבלות כוללות של חוק MATCH הוסרו מכלים מסוימים בייצור שבבים\n\nהקונגרס האמריקאי הסיר את האיסור על ייצוא כלים קריוגניים לחריטה תחת חוק MATCH, אבל בכל זאת חברות סיניות כמעט ולא יכולות להשיג אותם בגלל הסנקציות האחרות שכבר קיימות.",
     "d": "Fri, 17 Apr 2026 18:00:25 +0000",
     "v": 0,
     "l": [
@@ -334,8 +326,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/gXiiqKDVnZQpy3gNVhHB55-1280-80.jpg",
@@ -343,7 +334,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "ChatGPT bleeds market share as Claude posts explosive monthly growth\n\nClaude doubles its market share in a single month, jumping past Deepseek and Grok. ChatGPT still leads the pack but is losing ground fast, especially to Google Gemini, which now captures a quarter of all AI traffic.\nThe article ChatGPT bleeds market share as Claude posts explosive monthly growth appeared first on The Decoder.",
+    "t": "ChatGPT מאבדת נתח שוק בזמן שClaude קופצת בגדול\n\nClaude הכפילה את נתח השוק שלה בחודש אחד והדיחה את Deepseek ו-Grok מהדרך, בזמן ש-ChatGPT עדיין בראש אבל מאבדת קרקע במהירות. Google Gemini חוטפת כרבע מכל תעבורת ה-AI ברשת ועוד מדי יום החברות החדשות בתחום לוקחות חתיכות גדולות יותר מהפאי.",
     "d": "Fri, 17 Apr 2026 17:44:22 +0000",
     "v": 0,
     "l": [
@@ -371,7 +362,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "Amazon won’t release Fire Sticks that support sideloading anymore\n\nThe two newest Fire Sticks block apps from outside of Amazon's store.",
+    "t": "אמזון מפסיקה לשחרר Fire Sticks שתומכים בהתקנת אפליקציות מבחוץ\n\nדברים משתנים בעולם Fire Stick - אמזון סוגרת את הדלת בפני משתמשים שרוצים להתקין אפליקציות מחוץ לחנות שלה. ה-Fire Sticks החדשים ביותר שלהם יחסמו סך הכל כל אפליקציה שלא מגיעה מהחנות הרשמית של אמזון, וזה אומר שנתיים של סידור חופשי בדיוק התעלמו מהחלון. מה זה אומר לכל אחד שהיה סומך על סידור עצמי? זה קצת גלוך, אבל בואו נראה איך היישומים יהיו חייבים לעבור דרכה הרשמית של אמזון מעכשיו.\n\nמקור: Ars Technica",
     "d": "Fri, 17 Apr 2026 17:42:42 +0000",
     "v": 0,
     "l": [
@@ -384,12 +375,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/about-amazon-hero-fire-tv-stick-hero-option-2-amazon-news-jp-041026-1152x648.jpg",
@@ -397,7 +385,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "Ridley Scott's post-apocalyptic The Dog Stars drops first trailer\n\n\"The world that was, doesn't exist. It's just us, trying to hold onto what was.\"",
+    "t": "הסרט 'The Dog Stars' של רידלי סקוט - הטריילר הראשון של הפיקטציה הפוסט-אפוקליפטית\n\nרידלי סקוט חוזר עם סרט דרמה מדוכדך על עולם שקרס, שבו הדברים היחידים שנשארו הם זיכרונות של מה שהיה לפני. הטריילר שיצא עכשיו מראה חזון כהה ודיכאוני של אנשים שמנסים להחזיק בנושמה לעברן האבוד בעולם שכמעט לא נשאר ממנו.",
     "d": "Fri, 17 Apr 2026 17:32:55 +0000",
     "v": 0,
     "l": [
@@ -420,7 +408,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "This charming gadget writes bad AI poetry\n\nI kind of wish it just took pictures.\t\n\nI've never been as charmed and frustrated by one gadget as I have with the Poetry Camera.\nIt's a delightful object. White and cherry red with a color-matched woven strap, it looks playful and adorably lo-fi. If I saw it on a store shelf, I'd absolutely pick it up. \nBut aside from obviously appealing, I'm not exactly sure what it is. I mean, I know what it is. It's a camera that makes AI poems instead of photos. You take a picture, and instead of printing a",
+    "t": "הגאדג'ט החמוד הזה כותב שירה AI끔찍\n\nיש כאן מצלמה שונה מהרגיל - במקום לתמונות, היא מייצרת שירים AI. זה נראה כמו צעצוע חמוד בגדול עם עיצוב רטרו וכל הדברים, אבל בפועל? השירים שלה לא בדיוק מופץ, ואתה עומד שם מתחכך בראשך אם זה באמת כלי שיש בו ערך או סתם משהו מוזר שמושך אתכם. פשוט, קצר וכוואלי.",
     "d": "2026-04-17T17:30:00.000Z",
     "v": 0,
     "l": [
@@ -443,7 +431,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "Iran announces opening of Strait of Hormuz, Donald Trump says blockade to continue\n\nIran signaled a temporary easing of a major global chokepoint, saying the Strait of Hormuz...",
+    "t": "איראן מודיעה על פתיחת מצר הורמוז, טראמפ טוען שהחסימה תימשך\n\nאיראן הכריזה על הקלה זמנית בנקודת תחנוק קריטית בעולם, אבל טראמפ בא מיד וטען שהוא עדיין ממשיך בחסימה של מצר הורמוז - אחד ממסלולי הסחר החשובים ביותר בעולם. זה כמו דרמה גיאופוליטית שמשפיעה ישירות על מחירי הנפט והאנרגיה שלנו כאן בישראל.",
     "d": "Fri, 17 Apr 2026 17:26:11 +0000",
     "v": 0,
     "l": [
@@ -460,13 +448,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/Screenshot-2026-04-17-224229.png",
     "source": "Interesting Engineering"
   },
   {
     "id": 20,
-    "t": "A Prominent PR Firm Is Running a Fake News Site That’s Plagiarizing Original Journalism at Incredible Scale\n\n\"This is very upsetting to see.\"\nThe post A Prominent PR Firm Is Running a Fake News Site That’s Plagiarizing Original Journalism at Incredible Scale appeared first on Futurism.",
+    "t": "חברת PR בולטת מנהלת אתר חדשות מזויף שגנב עבודות עיתונאיות במיליארדי\n\nבדיוק התגלה שחברת יחסי ציבור מכובדת מנהלת אתר חדשות מוזל שמעתיק כתבות מקוריות של עיתונאים בקנה מידה ענק - וזה משהו שממש לא מסתדר. תעודה חשיפה חדשה חושפת כיצד הם בנו פעולה ממש מתוך שאר המדיה בלי לתת קרדיט או פחות מזה, וזה יוצר תחרות לא הוגנת למאמצעי תקשורת אמיתיים שעוטפים בעבודה חקירתית אמיתית. מה שרואים כאן זה כמו להגיד לעולם שהעתקה כל הדבר גם יופיע בנויז - זה לא יעבוד כך בעיתונות.",
     "d": "Fri, 17 Apr 2026 13:19:07 -0400",
     "v": 0,
     "l": [
@@ -489,7 +477,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "Battery boost gives Merc electric super-saloon a hefty 575-mile range\n\nMercedes has given its poshest electric saloon, the EQS, a mid-term refresh – showing exactly where the auto world’s current battleground is focused. Forget style, power, speed. Selling big EV sedans is now all about range.\nContinue Reading\nCategory: Automotive, Transport\nTags: Mercedes, Mercedes-Benz, Electric Vehicles",
+    "t": "מרצדס עדכנה את EQS החשמלית: עכשיו היא נוסעת 575 קילומטר בטעינה אחת\n\nמרצדס חדשה את הגרסה של EQS שלה, המכונית החשמלית היוקרתית שלה, והיא הראתה במדויק איפה כל היצרנים מתמקדים כרגע - לא זה עם העיצוב או הכוח, אלא עם ההטווח. במלחמת האופנועים החשמליים של היום, הכל מסתכם לכמה קילומטרים אתה יכול לנסוע בטעינה אחת. התחרות על הטווח החשמלי הולכת ולהתגבר בסוג הכלי הזה, ומרצדס רוצה להוכיח שהיא עדיין במכות.",
     "d": "Fri, 17 Apr 2026 17:07:27 GMT",
     "v": 0,
     "l": [
@@ -512,7 +500,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "Artemis II pilot talks about what it was really like to fly and land in Orion\n\n\"I've been thinking about reentry for three straight years.\"",
+    "t": "טייס ארטמיס II מספר איך זה באמת להטיס ולהנחית בחללית אוריון\n\nאחרי שלוש שנים של חשיבה על הכניסה לאטמוספירה, טייס ה-NASA שיתף את חוויותיו בפועל מהטיסה המרחיקה לנתח של המשימה. בריאיון אישי, הוא מספר על הרגשות, החדשים וההטבות של הטיסה באוריון החדישה - מה שממש לא הופיע בדוחות הרשמיים.",
     "d": "Fri, 17 Apr 2026 16:59:44 +0000",
     "v": 0,
     "l": [
@@ -535,7 +523,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "Some OpenAI shareholders reportedly question whether Altman can steer the company to a public offering\n\nWith OpenAI's planned IPO valuing the company at around $850 billion, internal doubts about Sam Altman are reportedly growing. According to the Wall Street Journal, some shareholders are already floating a potential successor.\nThe article Some OpenAI shareholders reportedly question whether Altman can steer the company to a public offering appeared first on The Decoder.",
+    "t": "בעלי מניות בOpenAI מפקפקים האם Altman יוכל להוביל את החברה ל-IPO\n\nעם ה-IPO המתוכננת של OpenAI בהערכה של כ-850 מיליארד דולר, כבר מתחילות להשמע ספקות פנימיים לגבי יכולתו של סם אלטמן להובילה לשם. לפי דיווח ב-Wall Street Journal, כמה בעלי מניות כבר מדברים על מועמדים חלופיים להנהגת החברה. The Decoder",
     "d": "Fri, 17 Apr 2026 16:52:34 +0000",
     "v": 0,
     "l": [
@@ -553,10 +541,9 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
@@ -588,7 +575,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "US scientists confirm altermagnetism in rust, unlock faster, low-power electronics\n\nScientists in the US have uncovered that hematite features a rare and emerging form of...",
+    "t": "מדענים אמריקאים אישרו אלטרומגנטיזם בחלודה - דלת לאלקטרוניקה מהירה וחסכונית בחשמל\n\nחוקרים בארה״ב גילו שלהמטיט (תחמוצת ברזל שמופיעה בחלודה) בעל תכונות מגנטיות נדירות שעלולות לגמור משחק בעולם האלקטרוניקה. התגלית הזו יכולה לפתוח דלת לציוד מהיר יותר שגם צורך פחות חשמל - משהו שכל חברת טק בעולם רוצה. המחקר מוכיח שאנחנו עדיין לא מכירים את כל הסודות של חומרים שכל כך מוכרים לנו.",
     "d": "Fri, 17 Apr 2026 16:29:25 +0000",
     "v": 0,
     "l": [
@@ -611,7 +598,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 26,
-    "t": "Meta's AI spending spree is helping make its Quest headsets more expensive\n\nPrices for \"critical components\" are surging because of massive data center investments.",
+    "t": "הוצאות ה-AI של מטה מגרמות לכך שהאוזניות Quest שלה תהפוכנה ליותר יקרות\n\nמטה משקיעה מיליארדים בהקמת מרכזי נתונים ענקיים לבינה מלאכותית, וזה דוקא משפיע עליכם - המחירים של רכיבים קריטיים בשוק עולים בגלל הביקוש הענק של החברה, וזה בסופו של דבר משפיע על המחיר שאתם משלמים על Quest headsets. בקצרה: הגידור של מטה בעולם ה-AI זה לא בחינם, וכולנו משלמים על זה.",
     "d": "Fri, 17 Apr 2026 16:23:20 +0000",
     "v": 0,
     "l": [
@@ -624,13 +611,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/hotdogman-1152x648.png",
@@ -638,7 +621,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 27,
-    "t": "Chinese scientists hit record 63 K in nickel superconductors without extreme pressure\n\nScientists in China have reported nickel-based high-temperature superconductors reaching transition temperatures of 63 K, 50...",
+    "t": "מדענים סינים השיגו שיא של 63 קלווין במוליכים-על ניקל ללא לחץ קיצוני\n\nחוקרים בסין הצליחו לפתח מוליכים-על המבוססים על ניקל שמשיגים טמפרטורות מעבר של 63 קלווין, וזה בלי צורך בלחצים אקסטרימים שדרשו עד עכשיו. התוצאה הזו יכולה להיות breakthrough עבור התעשייה כי היא פותחת דלת לשימוש מעשי יותר בטכנולוגיה של מוליכים-על בטמפרטורות גבוהות יותר. זו חדשה דרמטית בתחום הפיזיקה של חומרים קוונטיים שעלולה להשפיע על עתיד האנרגיה והתחבורה. מקור: Interesting Engineering",
     "d": "Fri, 17 Apr 2026 16:22:08 +0000",
     "v": 0,
     "l": [
@@ -655,7 +638,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "high",
     "thumb": null,
     "source": "Interesting Engineering"
   },
@@ -684,7 +667,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 29,
-    "t": "Anthropic's Claude Design turns chatbot conversations into prototypes, slide decks, and marketing assets\n\nAnthropic is launching Claude Design, a new tool that lets users create and refine designs, interactive prototypes, presentation slides, and one-pagers through a back-and-forth conversation with Claude. The tool can pull in codebases, design files, and live websites to match existing brand styles.\nThe article Anthropic's Claude Design turns chatbot conversations into prototypes, slide decks, and marketing assets appeared first on The Decoder.",
+    "t": "Claude Design של Anthropic הופך שיחות עם ה-chatbot לפרוטוטיפים, מצגות וחומרי שיווק\n\nAnthropic השיקה את Claude Design, כלי חדש שמאפשר למשתמשים ליצור עיצובים, פרוטוטיפים אינטראקטיביים, מצגות ודפי תיאור דרך שיחה עם Claude. הטool יכול לשלוף קוד קיים, קבצי עיצוב והוא יכול להתאים את כל זה לסגנון ה-brand שלכם. זה בעצם כמו להיות עם designer ו-developer בכיס שלכם שמבינים בדיוק מה אתם רוצים.",
     "d": "Fri, 17 Apr 2026 16:16:44 +0000",
     "v": 0,
     "l": [
@@ -710,7 +693,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 30,
-    "t": "Songbird study reveals potential paths for human brain’s self-repair, neurogenesis\n\nResearchers at Boston University have discovered a surprising mechanism in the brains of zebra finches...",
+    "t": "חקר בציפורים חושף דרכים חדשות לתיקון עצמי של המוח האנושי\n\nחוקרים מאוניברסיטת בוסטון גילו מנגנון מרהיב בתוך המוח של ציפורי זברה שעלול להעניק לנו תובנות חשובות על יכולת המוח האנושי להתחדש ולהתקן את עצמו. המגילה הזו בעולם הנוירוביולוגיה יכולה לפתוח דלתות חדשות בטיפול בחריקות מוח ומחלות נוירודגנרטיביות שהרופאים מתקשים להם עד היום.",
     "d": "Fri, 17 Apr 2026 16:11:37 +0000",
     "v": 0,
     "l": [
@@ -727,7 +710,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://www.youtube.com/embed/5Sd3JlLJn9Q",
     "source": "Interesting Engineering"
   },
@@ -2733,7 +2716,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 115,
-    "t": "AI economics for the common good",
+    "t": "כלכלת AI למען הטובה הציבורית\n\nמחקר חדש בעיתון Nature Machine Intelligence בוחן איך אנחנו יכולים להשתמש בטכנולוגיות AI כדי להשיג יעדים כלכליים שמטיבים לכולנו, ולא רק לכמה תאגידים גדולים. זה כל כך רלוונטי בימים שלנו כשמשפחות קטנות וסטארטאפים שואלים עצמם איך הם יכולים להישאר תחרותיים בעולם של ענקי AI. מצטיינים בתחום מציעים דרכים להפוך את הטכנולוגיה הזו לנגישה יותר ולמעט את ההשפעות השליליות שלה על השוק.",
     "d": "2026-04-17T00:00:00.000Z",
     "v": 0,
     "l": [
