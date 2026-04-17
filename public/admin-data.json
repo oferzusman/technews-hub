@@ -1,9 +1,9 @@
 {
-  "total": 4351,
+  "total": 4380,
   "translated": 4351,
-  "untranslated": 0,
-  "today": 129,
-  "week": 1119,
+  "untranslated": 29,
+  "today": 158,
+  "week": 1148,
   "sources": [
     {
       "name": "Pypi.org",
@@ -25,43 +25,43 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 218,
+      "total": 220,
       "translated": 218,
       "lastDate": "Wed, 15 Apr 2026 16:27:58 +0000"
     },
     {
       "name": "Futurism",
-      "total": 182,
+      "total": 185,
       "translated": 182,
       "lastDate": "Wed, 15 Apr 2026 16:15:26 -0400"
     },
     {
       "name": "Interesting Engineering",
-      "total": 174,
+      "total": 179,
       "translated": 174,
       "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
     {
       "name": "Ars Technica",
-      "total": 140,
+      "total": 146,
       "translated": 140,
       "lastDate": "Wed, 15 Apr 2026 22:25:30 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 139,
+      "total": 140,
       "translated": 139,
       "lastDate": "Wed, 15 Apr 2026 23:03:00 GMT"
     },
     {
       "name": "CNBC Tech",
-      "total": 125,
+      "total": 126,
       "translated": 125,
       "lastDate": "Wed, 15 Apr 2026 23:58:12 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 104,
+      "total": 106,
       "translated": 104,
       "lastDate": "Wed, 15 Apr 2026 19:28:36 +0000"
     },
@@ -78,16 +78,16 @@
       "lastDate": "2026-04-17T07:02:09.000Z"
     },
     {
+      "name": "The Decoder",
+      "total": 100,
+      "translated": 93,
+      "lastDate": "Wed, 15 Apr 2026 18:39:44 +0000"
+    },
+    {
       "name": "Hugging Face Blog",
       "total": 95,
       "translated": 95,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
-    },
-    {
-      "name": "The Decoder",
-      "total": 93,
-      "translated": 93,
-      "lastDate": "Wed, 15 Apr 2026 18:39:44 +0000"
     },
     {
       "name": "The Times of India",
@@ -109,9 +109,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 57,
+      "total": 58,
       "translated": 57,
-      "lastDate": "2026-04-17T15:46:37.000Z"
+      "lastDate": "2026-04-17T17:30:00.000Z"
     },
     {
       "name": "Github.com",
@@ -264,6 +264,12 @@
       "lastDate": "2026-04-09T07:19:00Z"
     },
     {
+      "name": "Nature Machine Intelligence",
+      "total": 11,
+      "translated": 10,
+      "lastDate": "2026-04-17T00:00:00.000Z"
+    },
+    {
       "name": "Gizmodo.com",
       "total": 11,
       "translated": 11,
@@ -298,12 +304,6 @@
       "total": 11,
       "translated": 11,
       "lastDate": "2026-04-08T18:25:01Z"
-    },
-    {
-      "name": "Nature Machine Intelligence",
-      "total": 10,
-      "translated": 10,
-      "lastDate": "2026-04-09T00:00:00.000Z"
     },
     {
       "name": "Amazon.com",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-17T18:35:56.843Z"
+  "generatedAt": "2026-04-17T19:45:13.951Z"
 }
