@@ -1,9 +1,9 @@
 {
-  "total": 4310,
+  "total": 4316,
   "translated": 4222,
-  "untranslated": 88,
-  "today": 88,
-  "week": 1078,
+  "untranslated": 94,
+  "today": 94,
+  "week": 1084,
   "sources": [
     {
       "name": "Pypi.org",
@@ -13,7 +13,7 @@
     },
     {
       "name": "Product Hunt",
-      "total": 403,
+      "total": 405,
       "translated": 357,
       "lastDate": "2026-04-17T06:50:44.000Z"
     },
@@ -25,7 +25,7 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 209,
+      "total": 211,
       "translated": 201,
       "lastDate": "Wed, 15 Apr 2026 16:27:58 +0000"
     },
@@ -43,7 +43,7 @@
     },
     {
       "name": "Ars Technica",
-      "total": 138,
+      "total": 139,
       "translated": 136,
       "lastDate": "Wed, 15 Apr 2026 22:25:30 +0000"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 121,
+      "total": 122,
       "translated": 117,
       "lastDate": "Wed, 15 Apr 2026 23:58:12 GMT"
     },
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-17T11:50:10.453Z"
+  "generatedAt": "2026-04-17T13:13:11.284Z"
 }
