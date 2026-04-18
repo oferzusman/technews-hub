@@ -87996,7 +87996,7 @@
         "ASI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-18T10:24:22.910Z",
       "created_at": "2026-04-18T10:24:22.910Z"
     },
@@ -88204,6 +88204,65 @@
       "priority": "hot",
       "fetchedAt": "2026-04-18T11:07:12.863Z",
       "created_at": "2026-04-18T11:07:12.863Z"
+    },
+    {
+      "id": 4439,
+      "source": "Interesting Engineering",
+      "title_en": "US’ all-solid-state sulfur EV battery retains over 80% capacity after 450 cycles",
+      "description_en": "Researchers at Argonne National Laboratory and the University of Chicago have developed a method to...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/us-all-solid-state-sulfur-ev-battery",
+      "image_url": null,
+      "pub_date": "Sat, 18 Apr 2026 11:37:22 +0000",
+      "author": "Aman Tripathi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-18T11:48:17.725Z",
+      "created_at": "2026-04-18T11:48:17.725Z"
+    },
+    {
+      "id": 4440,
+      "source": "Futurism",
+      "title_en": "NASA’s Mars Rover Comes Across Formation That Looks Like the Scales of a Massive Cosmic Reptile",
+      "description_en": "What can this strange landscape tell us about Mars' mysterious past?\nThe post NASA’s Mars Rover Comes Across Formation That Looks Like the Scales of a Massive Cosmic Reptile appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/space/nasa-mars-rover-crater-rocks",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/nasa-mars-rover-crater-rocks.jpg?quality=85",
+      "pub_date": "Sat, 18 Apr 2026 07:30:00 -0400",
+      "author": "Sharon Adarlo",
+      "categories": [
+        {
+          "_": "Space",
+          "$": {
+            "domain": "https://futurism.com/category/space"
+          }
+        },
+        {
+          "_": "Astronomy",
+          "$": {
+            "domain": "https://futurism.com/category/astronomy"
+          }
+        },
+        {
+          "_": "Mars",
+          "$": {
+            "domain": "https://futurism.com/category/mars"
+          }
+        },
+        {
+          "_": "Off-World",
+          "$": {
+            "domain": "https://futurism.com/category/off-world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-18T11:48:17.894Z",
+      "created_at": "2026-04-18T11:48:17.894Z"
     }
   ]
 }
