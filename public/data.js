@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "KTC M27T6S 27-inch QHD Mini LED gaming monitor review: Affordable, colorful, and bright\n\nKTC delivers high brightness and saturated color from the M27T6S. It’s a 27-inch Mini LED QHD panel with 1,152 dimming zones and Quantum Dot wide gamut color. A 200 Hz refresh rate overclocks to 210 Hz, and it has Adaptive-Sync with HDR1000.",
+    "t": "סקירה: צג המשחקים KTC M27T6S בגודל 27 אינץ' - זול, צבעוני ובהיר\n\nKTC הצליחה להכניס לצג הזה שילוב מרשים של בהירות גבוהה וצבעים רוויים - זה Mini LED panel QHD עם 1,152 אזורי עיוור וטכנולוגיית Quantum Dot, שמחזיר ערכים שמאוד מגיעים למצופה. הצג מרענן בתדר 200Hz (שאפילו עולה ל-210Hz בעיוור יתר), יש לו Adaptive-Sync תמיכה ו-HDR1000 - וכל זה במחיר שלא יהיה לך חרטה.",
     "d": "Sat, 18 Apr 2026 13:37:05 +0000",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Upside-down tiny house makes room for three bedrooms and two bathrooms\n\nTiny house builders are always experimenting with new ideas to maximize floorspace. Case in point is the Onda, which turns the usual layout on its head to provide a roomy interior that places three bedrooms downstairs, and the main living area upstairs.\nContinue Reading\nCategory: Tiny Houses, Outdoors\nTags: Building and Construction, Tiny Footprint, Micro-House, House, Home",
+    "t": "בית קטן הפוך: שלוש חדרי שינה ושני חדרי רחצה בדירוג מתהפך\n\nיוצרי בתים קטנים מצאו דרך חכמה להגדיל את השטח - הם הפכו את התכנית המסורתית בלי ירך. בבית Onda החדש, חדרי השינה למטה וסלון ראשי למעלה, כך שהם קיבלו יותר מקום בכל הכיוונים. זה כמו לקחת את כל מה שחושבים שצריך בבית קטן וליהוק את זה בחזרה.",
     "d": "Sat, 18 Apr 2026 13:33:00 GMT",
     "v": 0,
     "l": [
@@ -47,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Salesforce CEO Marc Benioff says APIs are the new UI for AI agents\n\nSalesforce is opening its entire platform to AI agents. With \"Headless 360,\" the API becomes the user interface and the browser becomes obsolete. CEO Marc Benioff is putting into practice exactly what OpenAI's Sam Altman recently called an inevitable shift.\nThe article Salesforce CEO Marc Benioff says APIs are the new UI for AI agents appeared first on The Decoder.",
+    "t": "מנכ\"ל Salesforce: APIs הם ממשק המשתמש החדש לסוכנים AI\n\nSalesforce פותחת את כל הפלטפורמה שלה לסוכנים AI, והחברה משיקה \"Headless 360\" שבו ה-API הופך ממשק המשתמש הראשי והדפדפן הופך למיותר. בנז'וף מוכיח בפועל בדיוק את מה שסם אלטמן מ-OpenAI קרא לא מזמן \"תזוזה בלתי נמנעת\" בעולם האינטליגנציה המלאכותית.",
     "d": "Sat, 18 Apr 2026 13:06:19 +0000",
     "v": 0,
     "l": [
@@ -65,8 +65,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -74,7 +73,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "The App Store is booming again, and AI may be why\n\nNew data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
+    "t": "App Store חוזר לשגשג - ו-AI אולי האשם\n\nנתונים חדשים מ-Appfigures מגלים גל של השקות אפליקציות חדשות ב-2026, וזה נראה שכלים של AI הם שמניעים את הבום של תוכנות ניידות. אחרי שנים של התמתנות בחנות האפליקציות, נראה שמפתחים מוצאים חשק חדש להשקות אפלקציות, וכל זה הודות לכלים חכמים ש-AI מספקת. זה פשוט יכול להיות הטרנד הגדול של השנה בעולם מובייל.",
     "d": "Sat, 18 Apr 2026 13:00:00 +0000",
     "v": 0,
     "l": [
@@ -91,13 +90,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 5,
-    "t": "Trump Secretly Believes That Diet Coke Kills Cancer Cells Inside the Body\n\nNews flash: Trump is wrong.\nThe post Trump Secretly Believes That Diet Coke Kills Cancer Cells Inside the Body appeared first on Futurism.",
+    "t": "טראמפ מאמין בסתר שדיאט קולה הורג תאי סרטן בגוף\n\nויקס: טראמפ טועה בנושא הזה. כתבה נוספת שנוגעת לטענות מעוררות ספקות על תכונות ריפוי של משקאות קלים. מקור: Futurism",
     "d": "Sat, 18 Apr 2026 09:00:00 -0400",
     "v": 0,
     "l": [
@@ -120,7 +119,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Minisforum's beastly N5 Max NAS comes powered by AMD Strix Halo — $2,899 for 'AI NAS' with pre-installed OpenClaw, supports up to 200TB capacity\n\nMinisforum says its powerful AI NAS, the N5 Max, will launch on April 23, 2026, at $2,899",
+    "t": "Minisforum N5 Max - NAS חזק כמו שור עם מעבד AMD Strix Halo, $2,899 ותמיכה ב-200TB\n\nמיניספורום משיקה את ה-AI NAS החדש שלה - N5 Max - ב-23 באפריל 2026 תמורת $2,899. המכשיר מגיע עם OpenClaw מותקן מראש ותומך בעד 200TB קיבולת, מה שהופך אותו לפתרון חזק למי שצריך להריץ workloads של AI עם אחסון ענק. \n\nמקור: Tom's Hardware",
     "d": "Sat, 18 Apr 2026 12:52:06 +0000",
     "v": 0,
     "l": [
@@ -144,7 +143,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Just ten minutes of using AI as an answer machine can measurably erode problem-solving skills, new study finds\n\nJust 10 to 15 minutes with an AI assistant is enough to measurably weaken problem-solving ability and persistence on later tasks done without AI, according to a new study from researchers in the US and UK.\nThe article Just ten minutes of using AI as an answer machine can measurably erode problem-solving skills, new study finds appeared first on The Decoder.",
+    "t": "מחקר חדש: 10 דקות בלבד עם AI כמכונת תשובות יכולות לפגוע בכישורי פתרון בעיות\n\nמתברר שגם זמן קצר מאוד עם עוזר AI יכול להשפיע על התפקודים שלנו - מחקר מחוקרים בארה\"ב ובריטניה מצא שרק 10-15 דקות של הסתמכות על AI כדי לקבל תשובות מהר מקטינים את יכולתנו לפתור בעיות וההתעקשות שלנו על משימות אחרות ללא עזרה. זה משהו שכדאי לנו הישראלים לזכור כשאנחנו משתמשים כל יום יותר בטכנולוגיות הללו.",
     "d": "Sat, 18 Apr 2026 12:45:14 +0000",
     "v": 0,
     "l": [
@@ -161,13 +160,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 8,
-    "t": "Techie buys fake Ledger Nano S+ hardware crypto wallet and almost falls for phishing — a convincing clone would have caught newbies unaware\n\nCybersecurity expert finds counterfeit Ledger Nano S+ hardware wallets being sold in China.",
+    "t": "טכנאי קנה ארנק קריפטו מזויף של Ledger והתחמק בקושי מ-phishing - העתק משכנע היה תופס את החדשים\n\nמומחה סייבר גילה שארנקי Ledger Nano S+ מזויפים נמכרים בסין, והם כל כך משכנעים שיכלו בקלות להערים על משתמשים חדשים שלא היו שמים לב להבדלים. התוקף כמעט הצליח להניח פח עם קישור phishing שהיה מוביל לגניבת כספי הקריפטו. Tom's Hardware",
     "d": "Sat, 18 Apr 2026 12:30:24 +0000",
     "v": 0,
     "l": [
@@ -182,8 +181,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/yAFUwVQxy6zkrc7KSs65yD-1280-80.png",
@@ -191,7 +189,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Things You Told ChatGPT or Claude My Have Already Doomed You in Court\n\n\"Disclosure of privileged communications to a third-party AI platform may constitute a waiver of the attorney-client privilege.\" \nThe post Things You Told ChatGPT or Claude My Have Already Doomed You in Court appeared first on Futurism.",
+    "t": "כל מה שאמרתם ל-ChatGPT או Claude עלול לפוגע בכם בבית המשפט\n\nאזהרה חשובה למשפחה המשפטית בישראל: אם שיתפתם מידע סודי עם OpenAI או Anthropic, אתם עלולים לוותר על הסודיות בינכם לבין עורך הדין שלכם. זה לא סתם טיפ טכני – זה משהו שעורכי דין צריכים לדעת לפני שהם מטביעים מידע רגיש בתוך AI.",
     "d": "Sat, 18 Apr 2026 08:15:00 -0400",
     "v": 0,
     "l": [
@@ -218,7 +216,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Renpho's purple mask turned me into a relaxed ninja turtle\n\nI've purchased a couple of massaging dodads in my day – the ubiquitous early-2000s \"shiatsu back massager with heat\" kind of thing you'd see on TV and whatnot – but those roller balls always end up just jabbing my sacrum or spine, making me more irritated than relaxed. So I gave up on gizmos of questionable quality and decided I'd continue my usual once a decade or so visit to an actual pro.\nContinue Reading\nCategory: Wearables, Consumer Tech, Technology\nTags: Massager, Headset, Eye, Reviews",
+    "t": "מסכת הrelax הסגולה של Renpho הפכה אותי לנינג'ה צב רגוע\n\nכותב הביקורת נתן סיכוי לעוד מכשיר massage אחרי שנים של תסכול ממסזרים זולים שפשוט עושים כאב. התוצאה? מסכת עיניים חדשנית שנתנה לו את ההשפעה של נינג'ה רגוע - וזה בלי צורך בביקור יקר אצל מטפל מקצועי.",
     "d": "Sat, 18 Apr 2026 12:03:00 GMT",
     "v": 0,
     "l": [
@@ -241,7 +239,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "Nvidia's once-tight bond with gamers is cracking over AI, 'and that breaks my heart'\n\nGamers once helped save Nvidia from bankruptcy. Now they feel left behind as the memory crunch drives focus to AI chips and DLSS 5 disrupts game design.",
+    "t": "הקשר ההיסטורי בין Nvidia וגיימרים נסדק: AI תופס את ההתייחסות\n\nגיימרים היו שחקנים קריטיים בהצלת Nvidia מפשיטת רגל, אבל עכשיו הם מרגישים שנשארו בעלטה. בגלל המצוקת בזיכרון ויציאת DLSS 5, Nvidia מתמקדת בחיפי GPU לבינה מלאכותית ולא בצרכי הקהילת הגיימינג, וזה פוגע לא מעט בקשרים שהתחזקו לאורך שנים.",
     "d": "Sat, 18 Apr 2026 12:00:01 GMT",
     "v": 0,
     "l": [
@@ -259,8 +257,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "hardware",
-      "regulation"
+      "hardware"
     ],
     "imp": "low",
     "thumb": null,
@@ -268,7 +265,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Intel Core Ultra 250K Plus vs AMD Ryzen 5 9600X faceoff — battle for the best $200 CPU\n\nWith similar pricing and target audiences, these two processors offer contrasting strengths across gaming, productivity, and power consumption.",
+    "t": "Intel Core Ultra 250K Plus מול AMD Ryzen 5 9600X — קרב על המעבד הכי טוב ב-200 דולר\n\nשני המעבדים האלה נמצאים באותו טווח מחיר ומכוונים לאותו קהל, אבל כל אחד מהם מציע חוזקות שונות בגיימינג, עבודה פרודוקטיבית וצריכת חשמל. אם אתם מחפשים CPU תחרותי בתחום ה-200 דולר, זה סימן שהחזית בין אינטל ל-AMD כמו שלא הייתה עד כה.",
     "d": "Sat, 18 Apr 2026 12:00:00 +0000",
     "v": 0,
     "l": [
@@ -337,7 +334,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "Great white sharks are overheating\n\nThe sharks might also be the most physiologically vulnerable to warming waters.",
+    "t": "כרישים לבנים ענקיים עולים בחום\n\nבמחקר חדש התברר שכרישים לבנים עלולים להיות הפגיעים ביותר לעלייה בטמפרטורות הים - והם עשויים להיות כבר בבעיה. מדענים גילו שהיצורים המרהיבים הללו סובלים מ\"overheating\" כשהמים מתחממים, וזה עלול להשפיע בצורה משמעותית על האוכלוסייה שלהם בעתיד הקרוב. זה עוד אזהרה קריטית על ההשפעות של שינוי אקלים על החיים הימיים.\n\nמקור: Ars Technica",
     "d": "Sat, 18 Apr 2026 11:07:59 +0000",
     "v": 0,
     "l": [
