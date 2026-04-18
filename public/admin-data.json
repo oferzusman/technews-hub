@@ -1,9 +1,9 @@
 {
-  "total": 4466,
+  "total": 4468,
   "translated": 4453,
-  "untranslated": 13,
-  "today": 65,
-  "week": 997,
+  "untranslated": 15,
+  "today": 67,
+  "week": 999,
   "sources": [
     {
       "name": "Pypi.org",
@@ -25,13 +25,13 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 230,
+      "total": 231,
       "translated": 228,
       "lastDate": "Wed, 15 Apr 2026 16:27:58 +0000"
     },
     {
       "name": "Futurism",
-      "total": 195,
+      "total": 196,
       "translated": 192,
       "lastDate": "Wed, 15 Apr 2026 16:15:26 -0400"
     },
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-18T16:20:26.339Z"
+  "generatedAt": "2026-04-18T17:04:23.096Z"
 }
