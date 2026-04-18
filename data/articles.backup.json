@@ -88742,7 +88742,7 @@
       "author": "Bojan Stojkovski",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-18T15:08:26.783Z",
       "created_at": "2026-04-18T15:08:26.783Z"
     },
@@ -88802,7 +88802,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-18T15:08:26.957Z",
       "created_at": "2026-04-18T15:08:26.957Z"
     },
@@ -88842,6 +88842,56 @@
       "priority": "hot",
       "fetchedAt": "2026-04-18T15:08:27.257Z",
       "created_at": "2026-04-18T15:08:27.257Z"
+    },
+    {
+      "id": 4465,
+      "source": "Futurism",
+      "title_en": "You Are Not Prepared to Learn the Size of Neanderthal Infants",
+      "description_en": "If only peewee football existed back then.\nThe post You Are Not Prepared to Learn the Size of Neanderthal Infants appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/science-energy/neanderthal-infants-big",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/neanderthal-infants-big.jpg?quality=85",
+      "pub_date": "Sat, 18 Apr 2026 11:15:00 -0400",
+      "author": "Sharon Adarlo",
+      "categories": [
+        {
+          "_": "Science & Energy",
+          "$": {
+            "domain": "https://futurism.com/category/science-energy"
+          }
+        },
+        {
+          "_": "Evolution",
+          "$": {
+            "domain": "https://futurism.com/category/evolution"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-18T15:52:33.256Z",
+      "created_at": "2026-04-18T15:52:33.256Z"
+    },
+    {
+      "id": 4466,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia RTX 5070 Ti gaming laptop is on sale for 19% off — MSI's Vector 16 has a 144 Hz screen, and comes with Pragmata for free",
+      "description_en": "MSI has put its Vector 16 gaming laptop on sale for just $1,529 at Newegg, offering a solid discount for a beastly hardware combo. You get a Core Ultra 7 255HX paired with a 140W RTX 5070 Ti, 16GB of RAM, and a 512GB SSD, all of which are upgradeable. All that is backed up by a 90 Wh battery and displayed on a 144 Hz FHD+ screen.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/nvidia-rtx-5070-ti-gaming-laptop-is-on-sale-for-19-percent-off-msis-vector-16-has-a-144-hz-screen-and-comes-with-pragmata-for-free",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/33S9iN3GxDB2VfRBgFMTUD-1280-80.png",
+      "pub_date": "Sat, 18 Apr 2026 15:41:40 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "Gaming Laptops",
+        "Laptops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-18T15:52:33.483Z",
+      "created_at": "2026-04-18T15:52:33.483Z"
     }
   ]
 }
