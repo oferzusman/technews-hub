@@ -88619,7 +88619,7 @@
       "author": "Jay Kakade",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-18T15:08:23.350Z",
       "created_at": "2026-04-18T15:08:23.350Z"
     },
@@ -88691,7 +88691,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-18T15:08:23.703Z",
       "created_at": "2026-04-18T15:08:23.703Z"
     },
@@ -88708,7 +88708,7 @@
       "author": "Christopher McFadden",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-18T15:08:26.782Z",
       "created_at": "2026-04-18T15:08:26.782Z"
     },
@@ -88725,7 +88725,7 @@
       "author": "Maria Mocerino",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-18T15:08:26.783Z",
       "created_at": "2026-04-18T15:08:26.783Z"
     },
@@ -88772,7 +88772,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-18T15:08:26.957Z",
       "created_at": "2026-04-18T15:08:26.957Z"
     },
@@ -88822,7 +88822,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-18T15:08:27.064Z",
       "created_at": "2026-04-18T15:08:27.064Z"
     },
@@ -88839,7 +88839,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-18T15:08:27.257Z",
       "created_at": "2026-04-18T15:08:27.257Z"
     },
@@ -88892,6 +88892,56 @@
       "priority": "hot",
       "fetchedAt": "2026-04-18T15:52:33.483Z",
       "created_at": "2026-04-18T15:52:33.483Z"
+    },
+    {
+      "id": 4467,
+      "source": "Futurism",
+      "title_en": "Democrats Warned Not to Upset Multi-Million Dollar AI Lobbyists, Even Though It’d Be a Slam Dunk With Voters",
+      "description_en": "\"In a lot of cases it is going to be easier to say nothing.\"\nThe post Democrats Warned Not to Upset Multi-Million Dollar AI Lobbyists, Even Though It’d Be a Slam Dunk With Voters appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/democrats-ai-voters",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/democrats-ai-voters.jpg?quality=85",
+      "pub_date": "Sat, 18 Apr 2026 12:00:00 -0400",
+      "author": "Joe Wilkins",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-18T16:37:06.037Z",
+      "created_at": "2026-04-18T16:37:06.037Z"
+    },
+    {
+      "id": 4468,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia RTX 3060 comeback in 2026 could alleviate soaring GPU prices and memory shortages — rumored RTX 5050 9GB abruptly shelved amid speculation",
+      "description_en": "If relaunched at the right price, the RTX 3060 could re-enter the market as a viable option in a segment facing increasing cost pressures.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-3060-comeback-in-2026-could-alleviate-soaring-gpu-prices-and-memory-shortages-rumored-rtx-5050-9gb-abruptly-shelved-amid-speculation",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/UHkfe7S9CoF8tjtnL5e4f8-1280-80.jpg",
+      "pub_date": "Sat, 18 Apr 2026 15:53:44 +0000",
+      "author": " Kunal Khullar ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-18T16:37:06.147Z",
+      "created_at": "2026-04-18T16:37:06.147Z"
     }
   ]
 }
