@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "How melting ice sheets are adding more time to your day\n\nThe Earth’s rotation has never been perfectly stable; the spin has changed significantly throughout history. Even slight changes on the planet, from melting ice sheets to flux in the Moon's gravitational effects, can make days longer or shorter. But for most of Earth’s history, the changes were tiny and driven mostly by natural forces. Now, a new study shows that modern, human-induced climate change is accelerating this effect, lengthening days at \"unprecedented\" rates.\nContinue Reading\nCategory",
+    "t": "כיצד התכה של יקבי הקרח מוסיפה יותר שעות ליום שלכם\n\nכשחושבים על השינוי האקלימי, אנחנו לא בדרך כלל חושבים על ההשפעה שלו על אורך היום - אבל זה קורה בדיוק עכשיו. מחקר חדש משום מעיד שהתכת קרחונים בגלל השינויים האנושיים גורמת לימים להיות ארוכים יותר בקצב שלא ראינו בהיסטוריה. התופעה הזו כמובן קיימת מאז תהילת עולם, אבל עדיין - זה נחמד לדעת שהטבע משלם לנו בשעות בונוס בתמורה להרס סביבתי.",
     "d": "Sat, 18 Apr 2026 17:05:00 GMT",
     "v": 0,
     "l": [
@@ -18,13 +18,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "New Atlas"
   },
   {
     "id": 2,
-    "t": "Adaptable film camera shoots photos in any frame size you want\n\nThe VZ-6617 medium format camera, currently on Kickstarter, is a timely shortcut for the photographer eager to experiment with a range of formats for their landscape/scenic shots but hampered by the economics and restrictions of shooting one size at a time.\nContinue Reading\nCategory: Photography, Consumer Tech, Technology\nTags: Film Cameras, Kickstarter",
+    "t": "מצלמת סרט גמישה שמצלמת בכל גודל פריים שתרצו\n\nהמצלמה VZ-6617 שנמצאת בקיקסטרטר מציעה פתרון מושלם למצלמים שרוצים לנסות פורמטים שונים לתמונות נוף ללא הצורך להחליף מצלמה בכל פעם. זה משנה את המשחק עבור מי שנמל מחדל להשקעות כבדות בציוד שונה או מוגבל לגודל קבוע אחד. סוף סוף מישהו הבין שצילומי סרט צריכים להיות יותר גמישים ופחות מכאיבים לארנק.",
     "d": "Sat, 18 Apr 2026 17:03:00 GMT",
     "v": 0,
     "l": [
@@ -47,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Physicists uncover quantum states that quietly govern muon-catalyzed fusion\n\nMuon-catalyzed fusion is one of those strange concepts that’s been promising enough to keep researchers...",
+    "t": "פיזיקאים חשפו מצבים קוונטיים שמנהלים בשקט את ההתכזרות המופעלת על ידי מיון\n\nבמחקר חדש שפורסם ב-Interesting Engineering, פיזיקאים גילו סודות חדשים בעולם ההתכזרות המופעלת על ידי מיונים - התהליך המוזר שכמעט ולא מתעוררת עליו הדיון, אך עדיין משיכה את תשומת לב החוקרים. כל זה יכול להוביל לפריצה דרך בכל הנוגע להפקת אנרגיה נקייה, אם רק נצליח להבין טוב יותר את המערכות הקוונטיות המסתוריות הללו.",
     "d": "Sat, 18 Apr 2026 16:49:59 +0000",
     "v": 0,
     "l": [
@@ -70,7 +70,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Study Finds AI Use Eats Away at Users’ Confidence in Their Own Brains\n\nIt's a lot to think about.\nThe post Study Finds AI Use Eats Away at Users’ Confidence in Their Own Brains appeared first on Futurism.",
+    "t": "מחקר חדש: שימוש ב-AI פוגע בביטחון העצמי של משתמשים בכישרון המוח שלהם\n\nאם אתה משתמש כל יום ב-AI כדי לפתור בעיות, אתה כנראה מפסיק להאמין לעצמך שתוכל לעשות את זה בלי עזרה. מחקר חדש מראה שלימוד על AI ושימוש בו במשך זמן ממושך יכול להביא להפחתה דרמטית בביטחון של אנשים בכישוריהם הקוגניטיביים שלהם - וזה לא בדיוק חדשות טובות לכל אחד מאיתנו שנתפס בלולאה של תלות בכלים אלה. מקור: Futurism",
     "d": "Sat, 18 Apr 2026 12:45:00 -0400",
     "v": 0,
     "l": [
@@ -87,13 +87,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/ai-cognition-study.jpg?quality=85",
     "source": "Futurism"
   },
   {
     "id": 5,
-    "t": "Democrats Warned Not to Upset Multi-Million Dollar AI Lobbyists, Even Though It’d Be a Slam Dunk With Voters\n\n\"In a lot of cases it is going to be easier to say nothing.\"\nThe post Democrats Warned Not to Upset Multi-Million Dollar AI Lobbyists, Even Though It’d Be a Slam Dunk With Voters appeared first on Futurism.",
+    "t": "דמוקרטים מוזהרים: אל תעכשו את לובידי ה-AI בעלי מיליונים, למרות שהבוחרים היו אוהבים את זה\n\nמתברר שלחברות ה-AI יש עוד כוח מדיני משמעותי - דמוקרטים מורים להם להישאר שקטים בנושאי ויסות AI כדי לא לכעוס את חברות הטכנולוגיה. הבעיה? זה בדיוק הנושא שהציבור הגדול רוצה שהם יתייחסו אליו, אבל הלחץ הכספי של ה-lobbyists נראה חזק יותר.",
     "d": "Sat, 18 Apr 2026 12:00:00 -0400",
     "v": 0,
     "l": [
@@ -116,7 +116,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Nvidia RTX 3060 comeback in 2026 could alleviate soaring GPU prices and memory shortages — rumored RTX 5050 9GB abruptly shelved amid speculation\n\nIf relaunched at the right price, the RTX 3060 could re-enter the market as a viable option in a segment facing increasing cost pressures.",
+    "t": "חוזרת לשחקן: Nvidia RTX 3060 עלולה לחזור בשנת 2026 ולהוזיל את מחירי ה-GPU — RTX 5050 בן 9GB בוטל\n\nאם Nvidia תחליט להעלות מחדש את ה-RTX 3060 עם מחיר סביר, הכרטיס הוותיק יכול להפוך לחלופה זולה וזמינה בשוק ה-GPU שהתייקר בשנים האחרונות. הידיעה מצביעה על כך שה-RTX 5050 החדש שבוטל בפתאומיות עשוי להשאיר חור בשוק עבור משתמשים עם תקציב צנוע.",
     "d": "Sat, 18 Apr 2026 15:53:44 +0000",
     "v": 0,
     "l": [
@@ -142,7 +142,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Nvidia RTX 5070 Ti gaming laptop is on sale for 19% off — MSI's Vector 16 has a 144 Hz screen, and comes with Pragmata for free\n\nMSI has put its Vector 16 gaming laptop on sale for just $1,529 at Newegg, offering a solid discount for a beastly hardware combo. You get a Core Ultra 7 255HX paired with a 140W RTX 5070 Ti, 16GB of RAM, and a 512GB SSD, all of which are upgradeable. All that is backed up by a 90 Wh battery and displayed on a 144 Hz FHD+ screen.",
+    "t": "מחשב נייד גיימינג Nvidia RTX 5070 Ti של MSI במחיר מוזל ב-19% — מסך 144 Hz ו-Pragmata בחינם\n\nMSI הוציאה את ה-Vector 16 שלה למכירה ב-1,529 דולר בـNewegg, וזה עיסקה די חזקה אם אתם מחפשים כוח אמיתי למשחקים. הלפטופ מגיע עם Core Ultra 7 255HX, RTX 5070 Ti בהספק 140W, 16GB RAM, ומסך FHD+ במהירות 144 Hz שנראה כמו חלום למי שמעריך framerate גבוה. החומרה כמעט בכל מקום כאן היא upgradeable, אז אתם יכולים להרים אותה בעתיד אם תרצו.",
     "d": "Sat, 18 Apr 2026 15:41:40 +0000",
     "v": 0,
     "l": [
@@ -168,7 +168,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "You Are Not Prepared to Learn the Size of Neanderthal Infants\n\nIf only peewee football existed back then.\nThe post You Are Not Prepared to Learn the Size of Neanderthal Infants appeared first on Futurism.",
+    "t": "אתם לא מוכנים לדעת כמה קטנים היו תינוקות הנאנדרתל\n\nמתברר שתינוקות נאנדרתל היו קטנים הרבה יותר משחשבנו, וזה משנה את כל מה שאנחנו יודעים על התפתחותם של המין הקדום הזה. אם רק היה להם ליגת כדורגל מיוחדת בשביל התינוקות... המחקר החדש חוזר את מה שחשבנו על הגדילה וההתבגרות של נאנדרתלים. מקור: Futurism",
     "d": "Sat, 18 Apr 2026 11:15:00 -0400",
     "v": 0,
     "l": [
@@ -191,7 +191,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Now we're cooking with water! Startup offers a hydrogen-powered stove\n\nImagine slashing your cooking electricity bill by a factor of six. That would almost be as wild as cooking with water! Well, a green-tech startup from India called GreenVize says it has made both possible with a hydrogen-based cooking unit that runs on water and a little bit of electricity.\nContinue Reading\nCategory: Energy, Engineering\nTags: Hydrogen-powered, Stoves, Cooking, Electrolysis",
+    "t": "בואו נבשל עם מים! סטארטאפ מציע כיריים המופעלים בידי מימן\n\nסטארטאפ הירוק הודי בשם GreenVize טוען שפתר את החידה שרבים חלמו עליה - כיריים המופעלים בהידרוגן שרצים על מים וחשמל קטן, וחוסכים עד 85% מחשבון החשמל. זה נשמע כמו מדע בדיוני, אבל הטכנולוגיה מבוססת על אלקטרוליזה רגילה שלוקחת את המימן ממים ומשרפת אותו לבישול. אם זה באמת עובד כמו שהם מבטיחים, זה יכול לשנות לחלוטין את המטבח המודרני.",
     "d": "Sat, 18 Apr 2026 15:03:00 GMT",
     "v": 0,
     "l": [
@@ -214,7 +214,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Anthropic’s relationship with the Trump administration seems to be thawing\n\nDespite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
+    "t": "יחסי Anthropic עם ממשל טראמפ מתחממים\n\nלמרות שהחברה הוכנסה לא לזמן קצר לרשימה של \"סיכונים בשרשרת הספקים\" על ידי הפנטגון, Anthropic ממשיכה לנהל שיחות עם בכירים בממשל טראמפ. נראה שהקרח בין הצד האמריקני הקונסרבטיבי למחלקת ה-AI הישראלית מתחיל להיקרע קצת.",
     "d": "Sat, 18 Apr 2026 14:56:48 +0000",
     "v": 0,
     "l": [
@@ -240,7 +240,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "China eyes near-100% electric trucks to secure energy security, cut emissions\n\nIndustrial leaders in China believe the nation is on track to replace its heavy-duty freight...",
+    "t": "סין שואפת לכלי רכב כבדים חשמליים כמעט ב-100% כדי להבטיח ביטחון אנרגטי\n\nסין לא מתישה את עצמה בחצי דרך - היא רוצה להחליף את כל משאיות הכביש הכבד שלה בכלים חשמליים כדי לשמור על ביטחון אנרגטי ולהוריד פליטות גזים. מנהיגי התעשייה בסין קובעים שהם בדרך הנכונה ליעד השוגע לכמעט 100% חשמליזציה בחלוקת המטענים. זה עוד דוגמה לכיצד סין עוקפת את המערב בהחלטות סביב האנרגיה הירוקה.",
     "d": "Sat, 18 Apr 2026 14:33:33 +0000",
     "v": 0,
     "l": [
@@ -255,8 +255,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.youtube.com/embed/Sm33rrAiXB0",
@@ -264,7 +263,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "City Council Wrecked in Voter Bloodbath After Allowing New Data Center\n\n\"This is a referendum against all of them based on their support of the data center.\"\nThe post City Council Wrecked in Voter Bloodbath After Allowing New Data Center appeared first on Futurism.",
+    "t": "מועצה עירונית נוצצת בהצבעה כעלובה לאחר אישור מרכז נתונים חדש\n\nהתושבים היצאו לתקוף בעוצמה את חברי המועצה שתמכו בהקמת מרכז הנתונים החדש בעיר, ובעצם הפכו את הבחירות לשיוך ישיר למשאלת אמון על ההחלטה הזו. זה כמו שהאזור התפוצץ מכעס על האישור, והתוצאה הייתה גנירה בדקות הספירה ההפוכה לכל התומכים בפרויקט. מעניין לראות איך infrastructure כמו data centers יכול להיות כל כך רגיש בעיניי התושבים הקרובים. | מקור: Futurism",
     "d": "Sat, 18 Apr 2026 10:30:00 -0400",
     "v": 0,
     "l": [
@@ -287,7 +286,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "Bluetooth tracker hidden in a postcard and mailed to a warship exposed its location — a €5 gadget put a €500 million Dutch ship at risk for 24 hours\n\nA Dutch journalist mailed a postcard to a Dutch Navy ship containing a hidden Bluetooth tracker, allowing them to track its route for 24 hours before it was found and disabled.",
+    "t": "עיתונאי הולנדי שלח גלויה עם עוקב בלוטוס לספינת חיל הים - גדג'ט בן 5 יורו סיכן אונייה בשווי חצי מיליארד יורו\n\nעיתונאי הולנדי הוכיח כמה פשוט להעלים Bluetooth tracker בתוך גלויה רגילה ולעקוב אחרי תנועות של ספינת צי המלוכה הולנדי למשך יום שלם. התוקף הקטן (שעלה בערך 5 יורו) הצליח לחשוף את מיקום האונייה לפני שהוא התגלה והושבת - תזכורת שקרה לכל חברות הביטחון על כך שלפעמים האיומים הפשוטים ביותר הם גם המסוכנים ביותר.\n\nמקור: Tom's Hardware",
     "d": "Sat, 18 Apr 2026 14:24:07 +0000",
     "v": 0,
     "l": [
@@ -310,7 +309,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Geologists trace Colorado River’s ‘missing’ 5 million years to ancient lake spillover\n\nScientists have known that the Colorado River has existed in western Colorado for 11 million...",
+    "t": "גיאולוגים פתרו את התעלומה: 5 מיליון שנים 'חסרות' בנהר קולורדו נובעות מזרימת אגם עתיק\n\nמדענים גילו שנהר קולורדו קיים במערב קולורדו למשך 11 מיליון שנים, אבל היה 'חור' של 5 מיליון שנים בהיסטוריה שלו שלא היו בו ברור. כעת מצאו שהנהר עבר שינוי ענק כשאגם עתיק התנקז בפריצה דרמטית, והזרים את מימיו לכלי הנחל. מחקר זה עוזר לנו להבין איך נהרות גדולים עוצבו לאורך מיליוני שנים.",
     "d": "Sat, 18 Apr 2026 14:20:25 +0000",
     "v": 0,
     "l": [
@@ -333,7 +332,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "Here are 3 forces that drove a remarkable, record-setting week on Wall Street\n\nThe S&P 500 closed above 7,100 for the first time as it completed its fastest turnaround since 1990.",
+    "t": "3 כוחות שהניעו שבוע שיא בול סטריט\n\nה-S&P 500 סגר מעל 7,100 בפעם הראשונה בהיסטוריה, בעוד השוק השלים את ההחזר המהיר ביותר שלו מאז 1990. זה היה שבוע מטורף בבורסה שהוביל לשיאים חדשים, וכנראה שיש לכך סיבות די מעניינות שמסבירות למה הוקסיגן חזר בדיוק עכשיו לשווקים.",
     "d": "Sat, 18 Apr 2026 14:13:04 GMT",
     "v": 0,
     "l": [
@@ -356,7 +355,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "This all-female fish species reproduces without sex by cloning itself\n\nThe warm waters of Mexico and Texas are home to a small fish that has produced nothing but daughters for over 100,000 years. Essentially, the offspring are the exact genetic copy of their mother, with no father involved. The fish in focus is the Amazon molly.\nContinue Reading\nCategory: Biology, Science\nTags: Marine Biology, Fish, Reproduction, Cloning",
+    "t": "מין דגים נשי בלבד המתרבה ללא זיווג בתהליך שיבוט עצמי\n\nבחיי המלח החמים של מקסיקו וטקסס חיה דגיגה קטנה שלא הולידה אלא בנות למשך למעלה מ-100 אלף שנה - והכל בגלל שהיא פשוט עושה קלון של עצמה, ללא שום עלוקים גנטיים מחובה של זכר. דגי Amazon molly האלו הם דוגמה מטורפת של טבע שלא צריך אף אחד כדי להתרבות, וזה בעצם החלק המגניב במעגל החיים הזה שמתרחש בו יום יום במימות הדרומיות.",
     "d": "Sat, 18 Apr 2026 14:02:00 GMT",
     "v": 0,
     "l": [
@@ -382,7 +381,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "How a fiery attack on Sam Altman’s home unfolded\n\nMolotov cocktail attack on OpenAI CEO’s home comes amid growing discontent against artificial intelligence\nIn the early hours of 10 April, a man approached the gate of OpenAI CEO Sam Altman’s house in San Francisco and hurled a molotov cocktail at the building before fleeing. The suspect, 20-year-old Daniel Moreno-Gama, was arrested less than two hours later while allegedly attempting to break into the headquarters of OpenAI with a jug of kerosene, a lighter and an anti-AI manifesto.\nFederal and",
+    "t": "התקפה אלימה על הבית של סם אלטמן - כיצד זה התרחש\n\nבשעות הבוקר המוקדמות של 10 באפריל, תושב בן 20 התקרב לשער ביתו של סם אלטמן, מנכ\"ל OpenAI בסן פרנסיסקו, והשליך קוקטל מולוטוב לעבר הבניין. החשוד נעצר פחות משעתיים מאוחר יותר כשניסה כביכול להשתלט על בנייני OpenAI עם בקבוק קרוסין, קדחון ובתזכורת אנטי-AI. ההתקפה מגיעה על רקע התסכול הגדל נגד בינה מלאכותית בקרב חלקים מהציבור.",
     "d": "Sat, 18 Apr 2026 14:00:15 GMT",
     "v": 0,
     "l": [
@@ -408,7 +407,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "5% to 95% charge in 9 minutes: Chinese EV battery firm claims ultra-fast charging tech\n\nChinese EV battery maker Sunwoda is shifting focus toward faster charging and diversified chemistries, unveiling...",
+    "t": "מ-5% ל-95% בתשע דקות: חברת סוללות סינית מטענת טוענת טכנולוגיה מהירה בחריגה\n\nסונווודה, יצרנית סוללות EV סינית, משנה כיוון והשקעה לטעינה מהירה בהרבה ומערכות כימיה משתנות - ובפרסום חדש היא טוענת שיכלה להשיג טעינה מלאה בעשע דקות בלבד. אם הטכנולוגיה הזו תישאר בעמידה, זה יכול להיות משחק-משנה בתחום כלי רכב חשמליים, במיוחד עבור צרכנים שמעולם לא אהבו להמתין בתחנת טעינה.",
     "d": "Sat, 18 Apr 2026 13:49:25 +0000",
     "v": 0,
     "l": [
@@ -431,7 +430,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "Mother Reportedly Doesn’t Know Her Son Died Because She’s Been Talking to an AI Version of Him\n\nHer family \"hoped to conceal the news\" of her only child's death.\nThe post Mother Reportedly Doesn’t Know Her Son Died Because She’s Been Talking to an AI Version of Him appeared first on Futurism.",
+    "t": "אם לא יודעת שבנה נפטר - היא משוחחת עם גרסה AI שלו\n\nבמקרה שהעלה שאלות אתיות כבדות, משפחה החליטה להעמיד פנים שהבן שלה עדיין בחיים על ידי שיחות עם chatbot AI המחקה אותו. המטרה הייתה להציל את האם מהחדשות הקשות - אבל עד כמה זה בריא או אתי? Futurism כתבה על הסיפור המשגע הזה שמעלה אותנו בתוך המציאות הדיגיטלית שלנו.",
     "d": "Sat, 18 Apr 2026 09:45:00 -0400",
     "v": 0,
     "l": [
@@ -448,7 +447,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/mother-son-died-ai-clone.jpg?quality=85",
     "source": "Futurism"
   },
