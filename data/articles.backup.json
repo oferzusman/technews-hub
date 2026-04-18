@@ -88585,7 +88585,7 @@
         "susie wiles"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-18T15:08:21.254Z",
       "created_at": "2026-04-18T15:08:21.254Z"
     },
@@ -88602,7 +88602,7 @@
       "author": "Etiido Uko",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-18T15:08:23.349Z",
       "created_at": "2026-04-18T15:08:23.349Z"
     },
@@ -88869,7 +88869,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-18T15:52:33.256Z",
       "created_at": "2026-04-18T15:52:33.256Z"
     },
@@ -88942,6 +88942,105 @@
       "priority": "hot",
       "fetchedAt": "2026-04-18T16:37:06.147Z",
       "created_at": "2026-04-18T16:37:06.147Z"
+    },
+    {
+      "id": 4469,
+      "source": "New Atlas",
+      "title_en": "How melting ice sheets are adding more time to your day",
+      "description_en": "The Earth’s rotation has never been perfectly stable; the spin has changed significantly throughout history. Even slight changes on the planet, from melting ice sheets to flux in the Moon's gravitational effects, can make days longer or shorter. But for most of Earth’s history, the changes were tiny and driven mostly by natural forces. Now, a new study shows that modern, human-induced climate change is accelerating this effect, lengthening days at \"unprecedented\" rates.\nContinue Reading\nCategory",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/environment/melting-ice-sheets-time/",
+      "image_url": null,
+      "pub_date": "Sat, 18 Apr 2026 17:05:00 GMT",
+      "author": "Jay Kakade",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-18T17:20:20.012Z",
+      "created_at": "2026-04-18T17:20:20.012Z"
+    },
+    {
+      "id": 4470,
+      "source": "New Atlas",
+      "title_en": "Adaptable film camera shoots photos in any frame size you want",
+      "description_en": "The VZ-6617 medium format camera, currently on Kickstarter, is a timely shortcut for the photographer eager to experiment with a range of formats for their landscape/scenic shots but hampered by the economics and restrictions of shooting one size at a time.\nContinue Reading\nCategory: Photography, Consumer Tech, Technology\nTags: Film Cameras, Kickstarter",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/photography/vz-6617-variable-frame-medium-format-film-camera/",
+      "image_url": null,
+      "pub_date": "Sat, 18 Apr 2026 17:03:00 GMT",
+      "author": "Shirl Leigh",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-18T17:20:20.012Z",
+      "created_at": "2026-04-18T17:20:20.012Z"
+    },
+    {
+      "id": 4471,
+      "source": "Interesting Engineering",
+      "title_en": "Physicists uncover quantum states that quietly govern muon-catalyzed fusion",
+      "description_en": "Muon-catalyzed fusion is one of those strange concepts that’s been promising enough to keep researchers...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/quantum-states-muon-catalyzed-fusion",
+      "image_url": null,
+      "pub_date": "Sat, 18 Apr 2026 16:49:59 +0000",
+      "author": "Rupendra Brahambhatt",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-18T17:20:22.301Z",
+      "created_at": "2026-04-18T17:20:22.301Z"
+    },
+    {
+      "id": 4472,
+      "source": "Futurism",
+      "title_en": "Study Finds AI Use Eats Away at Users’ Confidence in Their Own Brains",
+      "description_en": "It's a lot to think about.\nThe post Study Finds AI Use Eats Away at Users’ Confidence in Their Own Brains appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/health-medicine/ai-cognition-study",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/ai-cognition-study.jpg?quality=85",
+      "pub_date": "Sat, 18 Apr 2026 12:45:00 -0400",
+      "author": "Joe Wilkins",
+      "categories": [
+        {
+          "_": "Health & Medicine",
+          "$": {
+            "domain": "https://futurism.com/category/health-medicine"
+          }
+        },
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Brain",
+          "$": {
+            "domain": "https://futurism.com/category/brain"
+          }
+        },
+        {
+          "_": "Mental Health",
+          "$": {
+            "domain": "https://futurism.com/category/mental-health"
+          }
+        },
+        {
+          "_": "Studies",
+          "$": {
+            "domain": "https://futurism.com/category/studies"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-18T17:20:22.460Z",
+      "created_at": "2026-04-18T17:20:22.460Z"
     }
   ]
 }
