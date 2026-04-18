@@ -1,9 +1,9 @@
 {
-  "total": 4440,
+  "total": 4453,
   "translated": 4440,
-  "untranslated": 0,
-  "today": 39,
-  "week": 971,
+  "untranslated": 13,
+  "today": 52,
+  "week": 984,
   "sources": [
     {
       "name": "Pypi.org",
@@ -25,9 +25,15 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 224,
+      "total": 228,
       "translated": 224,
       "lastDate": "Wed, 15 Apr 2026 16:27:58 +0000"
+    },
+    {
+      "name": "Futurism",
+      "total": 192,
+      "translated": 190,
+      "lastDate": "Wed, 15 Apr 2026 16:15:26 -0400"
     },
     {
       "name": "Interesting Engineering",
@@ -36,38 +42,32 @@
       "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
     {
-      "name": "Futurism",
-      "total": 190,
-      "translated": 190,
-      "lastDate": "Wed, 15 Apr 2026 16:15:26 -0400"
-    },
-    {
       "name": "Ars Technica",
-      "total": 149,
+      "total": 150,
       "translated": 149,
       "lastDate": "Wed, 15 Apr 2026 22:25:30 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 145,
+      "total": 147,
       "translated": 145,
       "lastDate": "Wed, 15 Apr 2026 23:03:00 GMT"
     },
     {
       "name": "CNBC Tech",
-      "total": 129,
+      "total": 130,
       "translated": 129,
       "lastDate": "Wed, 15 Apr 2026 23:58:12 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 108,
+      "total": 109,
       "translated": 108,
       "lastDate": "Wed, 15 Apr 2026 19:28:36 +0000"
     },
     {
       "name": "The Decoder",
-      "total": 106,
+      "total": 108,
       "translated": 106,
       "lastDate": "Wed, 15 Apr 2026 18:39:44 +0000"
     },
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-18T12:56:22.337Z"
+  "generatedAt": "2026-04-18T14:00:59.089Z"
 }
