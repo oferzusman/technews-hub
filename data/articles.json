@@ -87807,8 +87807,8 @@
       "source": "The Decoder",
       "title_en": "The myth of Claude Mythos crumbles as small open models hunt the same cybersecurity bugs Anthropic showcased",
       "description_en": "Anthropic has kept its Claude Mythos cybersecurity model on a short leash, pointing to capabilities it says no rival can match. But two new studies suggest that even small, openly available models can reproduce most of the vulnerability analyses Anthropic has put on display.\nThe article The myth of Claude Mythos crumbles as small open models hunt the same cybersecurity bugs Anthropic showcased appeared first on The Decoder.",
-      "title_he": "המיתוס של Claude Mythos מתפורר: מודלים קטנים וקוד פתוח מוצאים את אותן הפרצות ביטחון שAnthropicהציגה",
-      "description_he": "Anthropic שמרה על מודל ה-cybersecurity Claude Mythos בשמירה קפדנית, וטענה שלא לאף מתחרה יש יכולות דומות. אבל שתי מחקרות חדשות מעידות שגם מודלים קטנים ופתוחים יכולים לחזור על רוב ניתוחי הפרצות שAnthropicהציגה בתוקף. מסתבר שהחברה לא בדיוק חכמה כמו שחשבנו על ההגבלות שלה.",
+      "title_he": null,
+      "description_he": null,
       "link": "https://the-decoder.com/the-myth-of-claude-mythos-crumbles-as-small-open-models-hunt-the-same-cybersecurity-bugs-anthropic-showcased/",
       "image_url": null,
       "pub_date": "Sat, 18 Apr 2026 08:48:05 +0000",
@@ -87820,7 +87820,7 @@
         "Claude",
         "Cybersecurity"
       ],
-      "translated": true,
+      "translated": false,
       "priority": "hot",
       "fetchedAt": "2026-04-18T09:30:54.055Z",
       "created_at": "2026-04-18T09:30:54.055Z"
@@ -87830,8 +87830,8 @@
       "source": "The Decoder",
       "title_en": "Deepseek reportedly seeks outside funding for the first time at $10 billion valuation",
       "description_en": "Deepseek is reportedly ready to give up its independence. The Chinese AI startup is seeking outside backers for the first time, aiming to raise at least $300 million. The shift comes after delayed model releases, top researchers being poached by rivals, and mounting pressure from deep-pocketed tech giants.\nThe article Deepseek reportedly seeks outside funding for the first time at $10 billion valuation appeared first on The Decoder.",
-      "title_he": "דיפסיק מחפשת מימון חיצוני בפעם הראשונה בהערכה של 10 מיליארד דולר",
-      "description_he": "היסטוריה! החברה הסינית דיפסיק שתמיד שמרה על עצמאותה מחליטה להשתמש בעזרה - היא מחפשת למשקיעים חיצוניים לראשונה ותקווה להגיע לעסקה של לפחות 300 מיליון דולר. מה קרה? עיכובים בהשקת מודלים חדשים, חוקרים מובילים שברחו אל תחרויות, והלחץ ההולך וגדל מענקים טק ענקיים שרק יושבים על כיס עמוק.",
+      "title_he": null,
+      "description_he": null,
       "link": "https://the-decoder.com/deepseek-reportedly-seeks-outside-funding-for-the-first-time-at-10-billion-valuation/",
       "image_url": null,
       "pub_date": "Sat, 18 Apr 2026 08:20:17 +0000",
@@ -87843,8 +87843,8 @@
         "AI in China",
         "Deepseek"
       ],
-      "translated": true,
-      "priority": "hot",
+      "translated": false,
+      "priority": "batch",
       "fetchedAt": "2026-04-18T09:30:54.055Z",
       "created_at": "2026-04-18T09:30:54.055Z"
     },
@@ -87853,8 +87853,8 @@
       "source": "The Decoder",
       "title_en": "Zuckerberg reportedly trades headcount for compute as Meta readies to cut 10 percent of its workforce to fund AI infrastructure",
       "description_en": "Meta is preparing to cut around 8,000 jobs on May 20, with a second wave planned for later this year. In total, more than 20 percent of the workforce could be let go as the company moves to offset its massive AI spending.\nThe article Zuckerberg reportedly trades headcount for compute as Meta readies to cut 10 percent of its workforce to fund AI infrastructure appeared first on The Decoder.",
-      "title_he": "צוקרברג מוכן להקריב עובדים למען AI: מטא מתכננת לפטר 10% מהצוות",
-      "description_he": "מטא עומדת להכריז על פיטורי מאסיביים - כ-8,000 עובדים בתחילת מאי ועוד גל שני בהמשך השנה, שיגיע בסך הכל לחצי מהצוות. זוקרברג בוחר להשקיע בענקיות בחישובים ו-AI infrastructure בעלות של מיליארדים, והעובדים משלמים את המחיר. זה כמו שהחברה אומרת: או שאתה בתור ה-GPU החדש שלנו, או שאתה פשוט יוצא לדרך.",
+      "title_he": null,
+      "description_he": null,
       "link": "https://the-decoder.com/zuckerberg-reportedly-trades-headcount-for-compute-as-meta-readies-to-cut-10-percent-of-its-workforce-to-fund-ai-infrastructure/",
       "image_url": null,
       "pub_date": "Sat, 18 Apr 2026 08:05:35 +0000",
@@ -87866,8 +87866,8 @@
         "Meta",
         "Meta AI"
       ],
-      "translated": true,
-      "priority": "hot",
+      "translated": false,
+      "priority": "batch",
       "fetchedAt": "2026-04-18T09:30:54.055Z",
       "created_at": "2026-04-18T09:30:54.055Z"
     },
@@ -87876,14 +87876,14 @@
       "source": "The Register",
       "title_en": "Cloudflare can remember it for you wholesale",
       "description_en": "Agent Memory stores AI chat scraps off to the side and recalls them when needed Not only is hardware memory scarce these days, but context memory, the conversational data exchanged with AI models, can be an issue too.…",
-      "title_he": "Cloudflare יכולה לזכור זאת בשבילכם בכמויות גדולות",
-      "description_he": "Cloudflare השיקה את Agent Memory, פיצ'ר חדש שמאחסן את היסטוריית השיחות עם AI מודלים בצד ומשלוף אותן כשצריך. בימים אלה, memory הוא משאב יקר, וניהול context memory - כל הנתונים של השיחות עם AI - יכול להיות בק병וק. הפתרון החדש של Cloudflare פותר את הבעיה הזו בצורה חכמה ויעילה.",
+      "title_he": null,
+      "description_he": null,
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/18/cloudflare_agent_memory/",
       "image_url": null,
       "pub_date": "2026-04-18T08:30:13.000Z",
       "author": "Thomas Claburn",
       "categories": [],
-      "translated": true,
+      "translated": false,
       "priority": "hot",
       "fetchedAt": "2026-04-18T09:30:54.782Z",
       "created_at": "2026-04-18T09:30:54.782Z"
@@ -87893,15 +87893,15 @@
       "source": "Interesting Engineering",
       "title_en": "China’s researchers unveil 2,372°F lithium battery ‘firewall’ to prevent EV fires",
       "description_en": "Amid intensifying focus on EV safety, researchers at Nanjing Tech University have developed a lithium...",
-      "title_he": "החוקרים בסין חושפים 'קיר אש' לסוללות ליתיום ב-1300 מעלות צלסיוס כדי למנוע שריפות רכבים חשמליים",
-      "description_he": "עם התגברות הדאגה לבטיחות כלי רכב חשמליים, חוקרים מאוניברסיטת ננג'ינג בסין פיתחו סוללת ליתיום פורצת דרך שמסוגלת להתנגד לטמפרטורות קיצוניות ולמנוע התפרצויות. הטכנולוגיה החדשה פועלת כחסם תרמי שמונע את הפגיעה בסוללה גם בתנאים קיצוניים, וזה כנראה משנה משחק בתעשיית EV. המצאה זו עשויה להיות מפתח לפתרון אחד מהאתגרים הגדולים של כלים חשמליים - בעיות הבטיחות שעדיין מרתיעות צרכנים רבים.",
+      "title_he": null,
+      "description_he": null,
       "link": "https://interestingengineering.com/energy/chinas-researchers-unveil-battery-firewall",
       "image_url": null,
       "pub_date": "Sat, 18 Apr 2026 07:55:50 +0000",
       "author": "Bojan Stojkovski",
       "categories": [],
-      "translated": true,
-      "priority": "hot",
+      "translated": false,
+      "priority": "batch",
       "fetchedAt": "2026-04-18T09:30:58.169Z",
       "created_at": "2026-04-18T09:30:58.169Z"
     },
@@ -87910,14 +87910,14 @@
       "source": "Product Hunt",
       "title_en": ".MD This Page",
       "description_en": "Discussion\n            |\n            Link",
-      "title_he": "עמוד זה ב-Markdown",
-      "description_he": "כלי חדש שמאפשר להמיר בקלות עמודים לפורמט Markdown, מה שהופך את העבודה עם תוכן דיגיטלי להרבה יותר נוחה. אם אתם מפתחים או עובדים הרבה עם תוכן ברשת, זה יכול לחסוך לכם הרבה זמן בתהליך של פורמטציה ידנית.",
+      "title_he": null,
+      "description_he": null,
       "link": "https://www.producthunt.com/products/md-this-page",
       "image_url": null,
       "pub_date": "2026-04-17T08:39:10.000Z",
       "author": "Adem Kouki",
       "categories": [],
-      "translated": true,
+      "translated": false,
       "priority": "batch",
       "fetchedAt": "2026-04-18T09:31:03.245Z",
       "created_at": "2026-04-18T09:31:03.245Z"
@@ -87927,14 +87927,14 @@
       "source": "Product Hunt",
       "title_en": "Lounge",
       "description_en": "Discussion\n            |\n            Link",
-      "title_he": "לאונג' - מרחב דיון וקשר",
-      "description_he": "נראה שמדובר בפלטפורמת דיון חדשה שמאפשרת למשתמשים להתחבר ולשתף רעיונות בסביבה חברותית. הפרויקט הוצג ב-Product Hunt וכנראה מתמקד בבניית קהילה של משתמשים שרוצים להשתמע ולהשמע.",
+      "title_he": null,
+      "description_he": null,
       "link": "https://www.producthunt.com/products/lounge-2",
       "image_url": null,
       "pub_date": "2026-04-17T14:46:56.000Z",
       "author": "AskToBuild",
       "categories": [],
-      "translated": true,
+      "translated": false,
       "priority": "batch",
       "fetchedAt": "2026-04-18T09:31:03.245Z",
       "created_at": "2026-04-18T09:31:03.245Z"
@@ -87944,17 +87944,177 @@
       "source": "Product Hunt",
       "title_en": "Hipocampus",
       "description_en": "Discussion\n            |\n            Link",
-      "title_he": "היפוקמפוס",
-      "description_he": "מוצר חדש שצץ ב-Product Hunt שנראה מעניין לדיון קהילתי. אם אתם מחפשים משהו חדש בתחום הטק, זה כנראה שווה להעיף מבט בקישור ולראות על מה כל ההזעקה.",
+      "title_he": null,
+      "description_he": null,
       "link": "https://www.producthunt.com/products/hipocampus",
       "image_url": null,
       "pub_date": "2026-04-17T13:49:04.000Z",
       "author": "Noureddin Bakir",
       "categories": [],
-      "translated": true,
+      "translated": false,
       "priority": "batch",
       "fetchedAt": "2026-04-18T09:31:03.245Z",
       "created_at": "2026-04-18T09:31:03.245Z"
+    },
+    {
+      "id": 4429,
+      "source": "The Decoder",
+      "title_en": "Anthropic CEO Amodei declares \"there is no end to the rainbow\" for AI scaling",
+      "description_en": "Anthropic CEO Dario Amodei sees no limits to AI scaling and is urging the industry not to downplay the risk of job losses, but to make the upside big enough to offset the disruption.\nThe article Anthropic CEO Amodei declares \"there is no end to the rainbow\" for AI scaling appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-ceo-amodei-declares-there-is-no-end-to-the-rainbow-for-ai-scaling/",
+      "image_url": null,
+      "pub_date": "Sat, 18 Apr 2026 10:17:28 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Anthropic"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-18T10:24:22.910Z",
+      "created_at": "2026-04-18T10:24:22.910Z"
+    },
+    {
+      "id": 4430,
+      "source": "The Decoder",
+      "title_en": "Self-improving AI startup Recursive Superintelligence pulls in $500 million just four months after founding",
+      "description_en": "A four-month-old startup has raised at least $500 million at a $4 billion valuation. Recursive Superintelligence is backed by former researchers from Google Deepmind and OpenAI who want to build an AI that improves itself.\nThe article Self-improving AI startup Recursive Superintelligence pulls in $500 million just four months after founding appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/self-improving-ai-startup-recursive-superintelligence-pulls-in-500-million-just-four-months-after-founding/",
+      "image_url": null,
+      "pub_date": "Sat, 18 Apr 2026 09:32:57 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "ASI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-18T10:24:22.910Z",
+      "created_at": "2026-04-18T10:24:22.910Z"
+    },
+    {
+      "id": 4431,
+      "source": "Interesting Engineering",
+      "title_en": "Laser pulses reveal secret ‘rugby ball’ shape of Universe’s heaviest atoms",
+      "description_en": "Some of the heaviest atoms in the universe barely exist long enough to be studied,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/rugby-ball-shaped-nuclei",
+      "image_url": null,
+      "pub_date": "Sat, 18 Apr 2026 10:09:26 +0000",
+      "author": "Rupendra Brahambhatt",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-18T10:24:24.884Z",
+      "created_at": "2026-04-18T10:24:24.884Z"
+    },
+    {
+      "id": 4432,
+      "source": "Interesting Engineering",
+      "title_en": "Chinese robotic exoskeleton lets diver glide with less effort, slashes oxygen use by 40%",
+      "description_en": "Chinese researchers from the Shenzhen Institutes of Advanced Technology have reportedly developed a new robot-assisted...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/robotic-exoskeleton-slashes-oxygen-use",
+      "image_url": "https://www.youtube.com/embed/TGj1ua6SWts",
+      "pub_date": "Sat, 18 Apr 2026 09:56:06 +0000",
+      "author": "Christopher McFadden",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-18T10:24:24.884Z",
+      "created_at": "2026-04-18T10:24:24.884Z"
+    },
+    {
+      "id": 4433,
+      "source": "Futurism",
+      "title_en": "Wild Video Shows Delivery Robots Causing Havoc, Getting Obliterated",
+      "description_en": "When will it end?\nThe post Wild Video Shows Delivery Robots Causing Havoc, Getting Obliterated appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/robots-and-machines/delivery-robot-fail-compilation",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/delivery-robot-fail-compilation.jpg?quality=85",
+      "pub_date": "Sat, 18 Apr 2026 06:00:00 -0400",
+      "author": "Joe Wilkins",
+      "categories": [
+        {
+          "_": "Robots and Machines",
+          "$": {
+            "domain": "https://futurism.com/category/robots-and-machines"
+          }
+        },
+        {
+          "_": "Food",
+          "$": {
+            "domain": "https://futurism.com/category/food"
+          }
+        },
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        },
+        {
+          "_": "Robotics",
+          "$": {
+            "domain": "https://futurism.com/category/robotics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-18T10:24:25.146Z",
+      "created_at": "2026-04-18T10:24:25.146Z"
+    },
+    {
+      "id": 4434,
+      "source": "Tom's Hardware",
+      "title_en": "Backblaze silently redefines 'unlimited' and users discover it's not backing up Dropbox and OneDrive — as firm leans heavier into AI storage services, changes could signal shift away from home backups",
+      "description_en": "Backblaze redefines \"unlimited\" while users discover it's not backing up Dropbox, OneDrive, et al",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/cloud-storage/backblaze-redefines-unlimited-while-users-discover-its-not-backing-up-dropbox-and-onedrive-service-changes-could-signal-shift-away-from-home-backups",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/sSRh92uczZFtrou5tGjgQV-1280-80.png",
+      "pub_date": "Sat, 18 Apr 2026 10:20:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Cloud Storage",
+        "Software",
+        "Applications"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-18T10:24:25.250Z",
+      "created_at": "2026-04-18T10:24:25.250Z"
+    },
+    {
+      "id": 4435,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia CEO Jensen Huang ‘nearly lost his composure’ when pressed on selling chips to China — ‘You’re not talking to someone who woke up a loser’",
+      "description_en": "Nvidia CEO Jensen Huang said that blocking China, the second biggest market for AI chips, from buying from American companies is a \"losing proposition\" that makes no sense to him.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/nvidia-ceo-jensen-huang-nearly-lost-his-composure-when-pressed-on-selling-chips-to-china-youre-not-talking-to-someone-who-woke-up-a-loser",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/E7hAMKaduKL9yTxSkoqwCE-1280-80.jpg",
+      "pub_date": "Sat, 18 Apr 2026 10:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-18T10:24:25.250Z",
+      "created_at": "2026-04-18T10:24:25.250Z"
     }
   ]
 }
