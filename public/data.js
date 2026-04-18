@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "OpenAI loses multiple executives in latest leadership shakeup\n\nTheir exits come just weeks after Fidji Simo, OpenAI's product and business chief, announced she would take a medical leave.",
+    "t": "OpenAI מאבדת מספר בכירים בתנועה ארגונית נוספת\n\nהיציאות הללו מגיעות בשבועות ספורים לאחר שפידג'י סימו, מנהלת המוצר והעסקים של OpenAI, הודיעה שתצא לחופשה רפואית. נראה שחברת ה-AI הענקית עוברת תקופה סוערת של שינויים ברמה המנהלית, עם מספר בכירים שעוזבים את הספינה בזמן די קריטי בתחום AI.",
     "d": "Fri, 17 Apr 2026 23:20:00 GMT",
     "v": 0,
     "l": [
@@ -27,7 +27,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Spacious single-level tiny house is built for nomadic life on wheels\n\nThe Esther ditches the ubiquitous tiny house loft bedroom in favor of a spacious single-floor layout that sleeps up to two people. The home is built with regular travel in mind and can optionally run off-grid, allowing its owners to cut the cord and embrace a nomadic lifestyle.\nContinue Reading\nCategory: Tiny Houses, Outdoors\nTags: Building and Construction, Tiny Footprint, Micro-House, House, Home",
+    "t": "בית זעיר חד-קומתי מרווח שנבנה לחיים נוודים על גלגלים\n\nהבית 'אסתר' מוותר על חדר השינה העליון המסורתי של בתים זעירים וחוזר לפריסת קומה אחת רחבה ונוחה שיכולה להכיל עד שני אנשים. התא הניידה הזו מתוכננת לנסיעות תכופות ויכולה לפעול באופן עצמאי לחלוטין מהרשת, כך שבעליה יכולים לתפוס חיים נוודים ללא קשרים לתשתיות קבועות.",
     "d": "Fri, 17 Apr 2026 23:03:00 GMT",
     "v": 0,
     "l": [
@@ -50,7 +50,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.\n\nWorld, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
+    "t": "פרויקט World של סם אלטמן מעוניין להרחיב את האימפריה שלו של אימות זהות. התחנה הראשונה: Tinder\n\nWorld, הפרויקט שעורר הן התנגדות והן עניין ענק עם ה-Orb שלו לאימות אנונימי, מתכננת להרחיב את השפעתה דרך שותפויות חדשות. החברה שהעלתה תזרים כסף משמעותי רוצה להביא את טכנולוגיית האימות שלה למקומות שבהם אנשים באמת מתחברים ופוגשים זה את זה בחוץ.",
     "d": "Fri, 17 Apr 2026 22:34:02 +0000",
     "v": 0,
     "l": [
@@ -67,13 +67,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 4,
-    "t": "Jim Cramer on the market's 'remarkable' rally — and what to watch in a big earnings week ahead\n\nJim Cramer says this is one of the most \"remarkable\" rallies he's seen, and provides guidance for the week ahead.",
+    "t": "ג'ים קריימר על העלייה ה'מדהימה' בשוק - ומה צריך להקפיד עליו בשבוע ההכרזות הגדול\n\nג'ים קריימר טוען שזו אחת מהעליות ה'מדהימות' ביותר שראה בקריירה שלו, והוא נותן כיוונים לשבוע עמוס בהכרזות רבעוניות של חברות גדולות. אם אתה שוקל קניות בבורסה, זה הזמן להקשיב למה יש לו להגיד.",
     "d": "Fri, 17 Apr 2026 22:32:29 GMT",
     "v": 0,
     "l": [
@@ -96,7 +96,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"\n\nGrinex says needed hacking resources \"available exclusively to ... unfriendly states.\"",
+    "t": "חברת חילופי מטבע מסנקציות אמריקאיות: גנבו לנו 15 מיליון דולר - זה עבודה של מדינות עוינות\n\nGrinex טוענת שה-hack שהביא להפסד של 15 מיליון דולר דרש יכולות האקינג כל כך מתקדמות שרק מדינות עוינות יכלו לבצע משימה כזו. החברה מתייחסת לתקרית כמו פעולה ממלכתית, לא פשע סייבר רגיל של פושעים רגילים.",
     "d": "Fri, 17 Apr 2026 21:28:35 +0000",
     "v": 0,
     "l": [
@@ -120,7 +120,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "OpenAI’s former Sora boss is leaving\n\nLast month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid \"side quests,\" and Peebles' departure is just one of many recent changes as the company moves to focus more on coding and enterprise use.\nAs part of a note Peebles posted on X, he said:\nI am immensely grateful to Sam, Mark, Aditya and Jakub for fostering a research environ",
+    "t": "ראש צוות Sora של OpenAI עוזב את החברה\n\nלאחר שOpenAI הפסיקה את פיתוח כלי יצירת הווידאו Sora בחודש שעבר, בילי פיבלס, מנהל הצוות, הודיע שהוא משאיר את החברה. בצעד זה שהחברה בוחרת להתמקד בקוד ובפתרונות enterprise, וזה רק חלק מהשינויים הרבים שOpenAI עוברת כדי להימנע מ'mission creep' וליצור פוקוס ברור על עדיפויותיה.",
     "d": "2026-04-17T21:13:25.000Z",
     "v": 0,
     "l": [
@@ -146,7 +146,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Here’s how AI is accelerating materials discovery\n\nIn our latest episode of Lexicon, we sat down with Joshua Young, a senior application...",
+    "t": "איך AI מאיץ את תהליך גילוי חומרים חדשים\n\nבתחום גילוי חומרים, AI הופך להיות שחקן משחק קריטי - במקום להמתין שנים על תוצאות ניסויים, מערכות בינה מלאכותית יכולות לנתח מיליארדי קומבינציות של חומרים בשניות ולחזות איזה מהם יעבדו הכי טוב. פודקאסט Lexicon שלהם עם Joshua Young מחקר איך בדיוק המתמטיקה והאלגוריתמים הללו משנים את המשחק בתעשייה המדעית.",
     "d": "Fri, 17 Apr 2026 21:13:01 +0000",
     "v": 0,
     "l": [
@@ -169,7 +169,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "Rivian gives its old EV batteries new life in 10 MWh factory storage system\n\nRivian, an electric vehicle maker, and battery recycling and materials company Redwood Materials will deploy...",
+    "t": "ריביאן נותנת חיים חדשים לסוללות EV ישנות בעזרת מערכת אחסון בקיבולת 10 MWh\n\nריביאן ושותפתה רדווד מטריאלס משקיעות בפרויקט מעניין שבו סוללות EV שכבר לא כשרות לרכבים חוזרות לחיים כמערכת אחסון אנרגיה בגדלים תעשייתיים. זה לא רק טוב לסביבה (פחות פסולת סוללות), אלא גם הגיוני כלכלית - סוללות שישנות מבחינת רכבים עדיין יכולות לעבוד בשנים שלמות באחסון סטטי. אם זה מצליח כמו שצריך, אנחנו יכולים לראות מערך סוללות משומשות לצד כל מפעל או תחנת טעינה בעתיד.",
     "d": "Fri, 17 Apr 2026 21:06:08 +0000",
     "v": 0,
     "l": [
@@ -192,7 +192,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Man at City Council Meeting Makes Devastating Case Against Proposed Local Data Center\n\n\"We are being asked to drain our reservoirs so a chatbot can write a poem.\"\nThe post Man at City Council Meeting Makes Devastating Case Against Proposed Local Data Center appeared first on Futurism.",
+    "t": "תושב התנגד בפני מועצת העיר לבניית מרכז נתונים - טען שזה הוקדש לאימון AI\n\nבעצם מה זה אומר - לדלות את מאגרי המים של כל העיר בשביל שצ'אטבוט כלשהו יכתוב לנו שיר? בעיר אמריקאית התחיל להשתלט טרנד שהעיר תתה מים רבים למזמנים שרוצים לבנות data center לחברות AI, והתושבים הולכים בעד בעד. אחד מהם עמד בפני מועצת העיר והעלה נקודות חזקות כל כך על עלויות הסביבה שזה כנראה יהפוך להקשקוש של כל קהילה בעתיד. | מקור: Futurism",
     "d": "Fri, 17 Apr 2026 17:03:15 -0400",
     "v": 0,
     "l": [
