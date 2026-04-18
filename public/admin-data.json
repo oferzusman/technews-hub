@@ -1,9 +1,9 @@
 {
-  "total": 4435,
-  "translated": 4420,
-  "untranslated": 15,
-  "today": 34,
-  "week": 966,
+  "total": 4440,
+  "translated": 4440,
+  "untranslated": 0,
+  "today": 39,
+  "week": 971,
   "sources": [
     {
       "name": "Pypi.org",
@@ -14,7 +14,7 @@
     {
       "name": "Product Hunt",
       "total": 417,
-      "translated": 414,
+      "translated": 417,
       "lastDate": "2026-04-18T06:11:31.000Z"
     },
     {
@@ -25,20 +25,20 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 222,
-      "translated": 220,
+      "total": 224,
+      "translated": 224,
       "lastDate": "Wed, 15 Apr 2026 16:27:58 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 189,
-      "translated": 186,
+      "total": 190,
+      "translated": 190,
       "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
     {
       "name": "Futurism",
-      "total": 188,
-      "translated": 187,
+      "total": 190,
+      "translated": 190,
       "lastDate": "Wed, 15 Apr 2026 16:15:26 -0400"
     },
     {
@@ -68,13 +68,13 @@
     {
       "name": "The Decoder",
       "total": 106,
-      "translated": 101,
+      "translated": 106,
       "lastDate": "Wed, 15 Apr 2026 18:39:44 +0000"
     },
     {
       "name": "The Register",
       "total": 105,
-      "translated": 104,
+      "translated": 105,
       "lastDate": "2026-04-18T08:30:13.000Z"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-18T11:00:19.045Z"
+  "generatedAt": "2026-04-18T12:56:22.337Z"
 }
