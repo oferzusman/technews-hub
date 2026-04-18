@@ -1,9 +1,9 @@
 {
-  "total": 4420,
+  "total": 4428,
   "translated": 4420,
-  "untranslated": 0,
-  "today": 19,
-  "week": 951,
+  "untranslated": 8,
+  "today": 27,
+  "week": 959,
   "sources": [
     {
       "name": "Pypi.org",
@@ -13,7 +13,7 @@
     },
     {
       "name": "Product Hunt",
-      "total": 414,
+      "total": 417,
       "translated": 414,
       "lastDate": "2026-04-18T06:11:31.000Z"
     },
@@ -30,16 +30,16 @@
       "lastDate": "Wed, 15 Apr 2026 16:27:58 +0000"
     },
     {
+      "name": "Interesting Engineering",
+      "total": 187,
+      "translated": 186,
+      "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
+    },
+    {
       "name": "Futurism",
       "total": 187,
       "translated": 187,
       "lastDate": "Wed, 15 Apr 2026 16:15:26 -0400"
-    },
-    {
-      "name": "Interesting Engineering",
-      "total": 186,
-      "translated": 186,
-      "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
     {
       "name": "Ars Technica",
@@ -67,21 +67,21 @@
     },
     {
       "name": "The Register",
-      "total": 104,
+      "total": 105,
       "translated": 104,
-      "lastDate": "2026-04-17T20:38:02.000Z"
+      "lastDate": "2026-04-18T08:30:13.000Z"
+    },
+    {
+      "name": "The Decoder",
+      "total": 104,
+      "translated": 101,
+      "lastDate": "Wed, 15 Apr 2026 18:39:44 +0000"
     },
     {
       "name": "Onefootball.com",
       "total": 104,
       "translated": 104,
       "lastDate": "2026-04-09T07:08:00Z"
-    },
-    {
-      "name": "The Decoder",
-      "total": 101,
-      "translated": 101,
-      "lastDate": "Wed, 15 Apr 2026 18:39:44 +0000"
     },
     {
       "name": "Hugging Face Blog",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-18T09:12:17.496Z"
+  "generatedAt": "2026-04-18T10:02:25.918Z"
 }
