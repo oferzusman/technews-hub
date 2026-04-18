@@ -87821,7 +87821,7 @@
         "Cybersecurity"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-18T09:30:54.055Z",
       "created_at": "2026-04-18T09:30:54.055Z"
     },
@@ -87884,7 +87884,7 @@
       "author": "Thomas Claburn",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-18T09:30:54.782Z",
       "created_at": "2026-04-18T09:30:54.782Z"
     },
@@ -88115,6 +88115,95 @@
       "priority": "hot",
       "fetchedAt": "2026-04-18T10:24:25.250Z",
       "created_at": "2026-04-18T10:24:25.250Z"
+    },
+    {
+      "id": 4436,
+      "source": "Futurism",
+      "title_en": "Physicists Have a Major Problem With the Universe",
+      "description_en": "Two steps forward, one step back.\nThe post Physicists Have a Major Problem With the Universe appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/space/physicists-hubble-constant-universe",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/physicists-hubble-constant-universe.jpg?quality=85",
+      "pub_date": "Sat, 18 Apr 2026 06:45:00 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Space",
+          "$": {
+            "domain": "https://futurism.com/category/space"
+          }
+        },
+        {
+          "_": "Astronomy",
+          "$": {
+            "domain": "https://futurism.com/category/astronomy"
+          }
+        },
+        {
+          "_": "Astrophysics",
+          "$": {
+            "domain": "https://futurism.com/category/astrophysics"
+          }
+        },
+        {
+          "_": "Big Bang",
+          "$": {
+            "domain": "https://futurism.com/category/big-bang"
+          }
+        },
+        {
+          "_": "Off-World",
+          "$": {
+            "domain": "https://futurism.com/category/off-world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-18T11:07:12.685Z",
+      "created_at": "2026-04-18T11:07:12.685Z"
+    },
+    {
+      "id": 4437,
+      "source": "Tom's Hardware",
+      "title_en": "SNK revives the mighty Neo Geo in modern form — new AES+ system plays classic games without emulation",
+      "description_en": "The Neo Geo AES+ is real, it's coming this November",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/snk-revives-the-mighty-neo-geo-in-modern-form-new-aes-system-plays-classic-games-without-emulation",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/TCPuCwxg9p3Qbi56M3jXvL-1280-80.jpg",
+      "pub_date": "Sat, 18 Apr 2026 11:00:00 +0000",
+      "author": " Zak Killian ",
+      "categories": [
+        "Retro Gaming",
+        "Video Games"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-18T11:07:12.863Z",
+      "created_at": "2026-04-18T11:07:12.863Z"
+    },
+    {
+      "id": 4438,
+      "source": "Tom's Hardware",
+      "title_en": "Microsoft offers $2 million sweepstake for Edge users, but no one noticed for a month — $1 million cash, Mercedes-Benz cars among prizes in desperate push for users",
+      "description_en": "Microsoft has readied a new $2M prize pot to tempt users to adopt its Edge browser.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/microsoft-edge/microsoft-offers-usd2-million-sweepstake-for-edge-users-but-no-one-noticed-for-a-month-usd1-million-cash-mercedes-benz-cars-among-prizes-in-desperate-push-for-users",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/GgGC8BXZTYhfrCKSKRkPeP-1280-80.jpg",
+      "pub_date": "Sat, 18 Apr 2026 10:40:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Microsoft Edge",
+        "Software",
+        "Browsers"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-18T11:07:12.863Z",
+      "created_at": "2026-04-18T11:07:12.863Z"
     }
   ]
 }
