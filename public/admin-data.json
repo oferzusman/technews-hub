@@ -1,9 +1,9 @@
 {
-  "total": 4408,
-  "translated": 4401,
-  "untranslated": 7,
-  "today": 7,
-  "week": 939,
+  "total": 4420,
+  "translated": 4408,
+  "untranslated": 12,
+  "today": 19,
+  "week": 951,
   "sources": [
     {
       "name": "Pypi.org",
@@ -13,9 +13,9 @@
     },
     {
       "name": "Product Hunt",
-      "total": 405,
+      "total": 414,
       "translated": 405,
-      "lastDate": "2026-04-17T06:50:44.000Z"
+      "lastDate": "2026-04-18T06:11:31.000Z"
     },
     {
       "name": "OpenAI Blog",
@@ -37,8 +37,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 185,
-      "translated": 182,
+      "total": 186,
+      "translated": 185,
       "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 144,
-      "translated": 142,
+      "total": 145,
+      "translated": 144,
       "lastDate": "Wed, 15 Apr 2026 23:03:00 GMT"
     },
     {
@@ -79,7 +79,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 100,
+      "total": 101,
       "translated": 100,
       "lastDate": "Wed, 15 Apr 2026 18:39:44 +0000"
     },
@@ -116,7 +116,7 @@
     {
       "name": "MarkTechPost",
       "total": 56,
-      "translated": 54,
+      "translated": 56,
       "lastDate": "Wed, 15 Apr 2026 17:21:06 +0000"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-18T07:34:49.666Z"
+  "generatedAt": "2026-04-18T08:26:39.641Z"
 }
