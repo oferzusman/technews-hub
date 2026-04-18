@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "OpenAI loses three executives in one swoop as restructuring reshapes its product lineup\n\nThree high-profile executives are walking away from OpenAI. The departures come as the company restructures and doubles down on coding and enterprise customers.\nThe article OpenAI loses three executives in one swoop as restructuring reshapes its product lineup appeared first on The Decoder.",
+    "t": "שלושה מנהלים בכירים עוזבים את OpenAI בהכתב אחד\n\nOpenAI עוברת שינוי ארגוני משמעותי כשלושה גורמים בכירים בחברה מחליטים להשאיר את הספינה. הפיתויים החדשים קשורים לשיפוץ גדול בחברה, כשהמוקד זז לכיוון שירותי קידוד וחיזוקו של הסקטור הקונים בעסקים גדולים.",
     "d": "Sat, 18 Apr 2026 07:20:45 +0000",
     "v": 0,
     "l": [
@@ -27,7 +27,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Looking back: The liter-class Lamborghini superbike with a Kawasaki engine\n\nEveryone’s got a past, and Italian supercar maker Lamborghini is no different. The 80s were a weird time for the brand. Bankruptcy-led reorganization forced the exit of the founder, Ferruccio Lamborghini, out of the company, and in came French businessmen, the Mimran brothers.\nContinue Reading\nCategory: Motorcycles, Transport\nTags: Lamborghini, Kawasaki, Superbike, Retro",
+    "t": "הנוסטלגיה הגרועה: הסופרבייק של למבורגיני עם מנוע קוואסאקי מהשנות ה-80\n\nאפילו למותגים ענקיים יש פרקים שלא כל כך גאים בהם - ואצל למבורגיני זה היה בדיוק בשנות ה-80 כשהחברה עברה קריסה פיננסית וכניסה של אנשי עסקים צרפתים. בתקופה הזאת המותג החליט לעשות משהו... מעניין למדי: סופרבייק עם מנוע מקוואסאקי שהוצא לדרך. סיפור מהומור של עבר שיעלה לך חיוך!",
     "d": "Sat, 18 Apr 2026 07:03:00 GMT",
     "v": 0,
     "l": [
@@ -42,8 +42,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -51,7 +50,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Autonomous 2-ton eVTOL completes tea delivery in China hours faster than road transport\n\nAutoFlight has marked a major milestone in next-generation logistics by successfully completing China’s first 2-ton-class...",
+    "t": "מטוס חשמלי אוטונומי בן 2 טון השלים משלוח תה בסין - הרבה יותר מהר מכביש\n\nAutoFlight עשתה היסטוריה בסין כשהשלימה בהצלחה משלוח של 2 טונות באמצעות eVTOL אוטונומי - זו פעם ראשונה שמטוס חשמלי ללא טייס משלח סחורה בקנה מידה כזה. המשלוח הגיע תה בחלקי הארץ תוך שעות ספורות, בעוד שהתחבורה הרגילה דרך כבישים היתה דורשת זמן ארוך בהרבה. זה סימן חשוב לעתיד של הלוגיסטיקה, במיוחד באזורים כמו סין שם החברות בטח מחכות להפוך את הטכנולוגיה הזאת לעסק יומיומי.",
     "d": "Sat, 18 Apr 2026 06:57:23 +0000",
     "v": 0,
     "l": [
@@ -66,8 +65,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -75,7 +73,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Grok Voice API\n\nDiscussion\n            |\n            Link",
+    "t": "Grok Voice API\n\nxAI השיקה API חדש שמאפשר שיתוף פעולה עם Grok דרך קול, מה שפותח אפשרויות חדשות לדיוואלופרים לבנות אפליקציות שמדברות עם ה-AI החזק של Musk. זה עוד צעד בתחרות הגדולות על AI voice interfaces שכולם רצים אליהן לאחרונה.",
     "d": "2026-04-18T06:11:31.000Z",
     "v": 0,
     "l": [
@@ -528,7 +526,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "Vercel Flags\n\nDiscussion\n            |\n            Link",
+    "t": "דגלי Vercel\n\nVercel משיקה תכונה חדשה שנקראת Flags שמאפשרת למפתחים לנהל בקלות feature flags ב-deployment שלהם. התכונה הזאת עוזרת לשלוט על איזה features להדליק או לכבות בלי צורך ב-redeploy, וזה מקל משמעותית על A/B testing וrollout הדרגתי של פיצ'רים חדשים. זה כמו שהקנתה שליטה מרחוק על האפליקציה שלך בלי כל הסיבוך.",
     "d": "2026-04-17T20:40:20.000Z",
     "v": 0,
     "l": [
@@ -1677,7 +1675,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 71,
-    "t": "React Email 6.0 by Resend\n\nDiscussion\n            |\n            Link",
+    "t": "React Email 6.0 של Resend\n\nResend השיקה את גרסה 6.0 של React Email, הכלי המפורסם לבניית emailים עם React. העדכון החדש מביא שיפורים משמעותיים בחווית הפיתוח ובתוצאה הסופית של ה-emailים שנוצרים בעזרתו. זה עוד צעד בדרך למכניס את עולם ה-web development לעולם של email design.",
     "d": "2026-04-17T14:36:36.000Z",
     "v": 0,
     "l": [
@@ -1982,7 +1980,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 84,
-    "t": "Is Your Site Agent-Ready? by Cloudflare\n\nDiscussion\n            |\n            Link",
+    "t": "האם האתר שלכם מוכן לעתיד? הגיד של Cloudflare\n\nCloudflare שואלת שאלה חמה: האם המאובטחים והשרתים שלכם בעצם מוכנים להכנס לעולם של Site Agents? המחברת מדברת על איך הטכנולוגיה הזו יכולה לשנות את הכל, ומה צריך לדעת כל מי שמנהל אתר כדי להישאר רלוונטי. זה לא רק עלי הטרנד - זה על להבין אם אתם בכלל צריכים להתכונן לזה עכשיו.\n\nמקור: Product Hunt",
     "d": "2026-04-17T13:10:30.000Z",
     "v": 0,
     "l": [
@@ -2338,7 +2336,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 99,
-    "t": "CapyPlan\n\nDiscussion\n            |\n            Link",
+    "t": "CapyPlan\n\nכלי תכנון חדשה שנראית מעניינת לעבודה בצוותים - היא מאפשרת ארגון משימות ופרויקטים בצורה שנראית ממש ידידותית ופשוטה. המוצר זה עלה לחום בProduct Hunt וכבר מישהו כאן מוכן לתת כמה insights חדים על איך היא משתלמת בשוק התכנון הדיגיטלי. Source: Product Hunt",
     "d": "2026-04-17T11:44:10.000Z",
     "v": 0,
     "l": [
@@ -4391,7 +4389,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 185,
-    "t": "Android CLI\n\nDiscussion\n            |\n            Link",
+    "t": "Android CLI\n\nכלי command-line חדש שמאפשר למפתחים לעבוד עם Android בצורה יותר חכמה ויעילה ישירות מהטרמינל. זה עוד דוגמה למכליות הפיתוח שהולכות להיות יותר ויותר accessible לכולם, בלי צורך בממשק גרפי כבד.",
     "d": "2026-04-16T19:10:08.000Z",
     "v": 0,
     "l": [
@@ -94235,7 +94233,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3907,
-    "t": "Claude Code NO_FLICKER Mode\n\nDiscussion\n            |\n            Link",
+    "t": "Claude Code בעם NO_FLICKER Mode\n\nAnthropic הוציאה פיצ'ר חדש ל-Claude שמטרתו להפוך את חוויית הקוד לחלקה יותר וללא הבזקות מ烦עות על המסך. זה אחד מהדברים הקטנים שיכולים להפוך את עבודת המפתחים להנעימה הרבה יותר כשאתה משתמש ב-AI לכתיבת קוד. בואו נראה מה בדיוק זה עושה ואם זה באמת משנה הבדל.",
     "d": "2026-04-02T03:29:58.000Z",
     "v": 0,
     "l": [
@@ -97200,7 +97198,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4032,
-    "t": "CraftBot\n\nDiscussion\n            |\n            Link",
+    "t": "CraftBot\n\nנראה שמדובר בכלי או פלטפורמה חדשה שהגיעה ל-Product Hunt, אבל הפרטים עדיין עלומים. אם אתם מחפשים להכיר את ה-CraftBot הזה, הקישור יקח אתכם ישר לדיון של הקהילה שם אנשים כבר חוקרים את זה. מומלץ להציץ שם כדי לשמוע מה אומרים המשתמשים הראשונים על הכלי הזה.\nמקור: Product Hunt",
     "d": "2026-03-29T03:14:09.000Z",
     "v": 0,
     "l": [
@@ -98286,7 +98284,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4077,
-    "t": "ChatGPT Shopping\n\nDiscussion\n            |\n            Link",
+    "t": "קניות עם ChatGPT\n\nOpenAI משיקה תכונה חדשה שמאפשרת ל-ChatGPT לעזור לכם בקניות אונליין - הבוט יכול להשוות מחירים, למצוא דילים והמלצות מוצרים ישירות בתוך השיחה. זה עוד צעד בכיוון של הפיכת ChatGPT למסיבה רכישה אישית שלכם, במקום רק עוזר חיפוש רגיל.\n\nמקור: Product Hunt",
     "d": "2026-03-24T17:01:03.000Z",
     "v": 0,
     "l": [

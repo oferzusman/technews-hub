@@ -1,7 +1,7 @@
 {
   "total": 4420,
-  "translated": 4408,
-  "untranslated": 12,
+  "translated": 4420,
+  "untranslated": 0,
   "today": 19,
   "week": 951,
   "sources": [
@@ -14,7 +14,7 @@
     {
       "name": "Product Hunt",
       "total": 414,
-      "translated": 405,
+      "translated": 414,
       "lastDate": "2026-04-18T06:11:31.000Z"
     },
     {
@@ -38,7 +38,7 @@
     {
       "name": "Interesting Engineering",
       "total": 186,
-      "translated": 185,
+      "translated": 186,
       "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
     {
@@ -50,7 +50,7 @@
     {
       "name": "New Atlas",
       "total": 145,
-      "translated": 144,
+      "translated": 145,
       "lastDate": "Wed, 15 Apr 2026 23:03:00 GMT"
     },
     {
@@ -80,7 +80,7 @@
     {
       "name": "The Decoder",
       "total": 101,
-      "translated": 100,
+      "translated": 101,
       "lastDate": "Wed, 15 Apr 2026 18:39:44 +0000"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-18T08:26:39.641Z"
+  "generatedAt": "2026-04-18T09:12:17.496Z"
 }
