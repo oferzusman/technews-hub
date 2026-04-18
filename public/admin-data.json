@@ -1,9 +1,9 @@
 {
-  "total": 4473,
-  "translated": 4472,
-  "untranslated": 1,
-  "today": 72,
-  "week": 1004,
+  "total": 4474,
+  "translated": 4474,
+  "untranslated": 0,
+  "today": 73,
+  "week": 1005,
   "sources": [
     {
       "name": "Pypi.org",
@@ -38,7 +38,7 @@
     {
       "name": "Interesting Engineering",
       "total": 195,
-      "translated": 194,
+      "translated": 195,
       "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 110,
-      "translated": 110,
+      "total": 111,
+      "translated": 111,
       "lastDate": "Wed, 15 Apr 2026 19:28:36 +0000"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-18T19:30:46.559Z"
+  "generatedAt": "2026-04-18T20:05:20.700Z"
 }
