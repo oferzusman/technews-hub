@@ -1,9 +1,9 @@
 {
-  "total": 4481,
-  "translated": 4481,
+  "total": 4484,
+  "translated": 4484,
   "untranslated": 0,
-  "today": 2,
-  "week": 929,
+  "today": 5,
+  "week": 932,
   "sources": [
     {
       "name": "Pypi.org",
@@ -30,16 +30,16 @@
       "lastDate": "Wed, 15 Apr 2026 16:27:58 +0000"
     },
     {
+      "name": "Interesting Engineering",
+      "total": 197,
+      "translated": 197,
+      "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
+    },
+    {
       "name": "Futurism",
       "total": 197,
       "translated": 197,
       "lastDate": "Wed, 15 Apr 2026 16:15:26 -0400"
-    },
-    {
-      "name": "Interesting Engineering",
-      "total": 196,
-      "translated": 196,
-      "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
     {
       "name": "New Atlas",
@@ -115,8 +115,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 58,
-      "translated": 58,
+      "total": 60,
+      "translated": 60,
       "lastDate": "Wed, 15 Apr 2026 17:21:06 +0000"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-19T05:56:21.178Z"
+  "generatedAt": "2026-04-19T07:18:39.749Z"
 }
