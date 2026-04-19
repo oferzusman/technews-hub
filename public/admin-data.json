@@ -1,9 +1,9 @@
 {
-  "total": 4546,
-  "translated": 4546,
+  "total": 4548,
+  "translated": 4548,
   "untranslated": 0,
-  "today": 67,
-  "week": 994,
+  "today": 69,
+  "week": 996,
   "sources": [
     {
       "name": "Pypi.org",
@@ -55,21 +55,21 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 132,
-      "translated": 132,
+      "total": 133,
+      "translated": 133,
       "lastDate": "Wed, 15 Apr 2026 23:58:12 GMT"
+    },
+    {
+      "name": "TechCrunch AI",
+      "total": 116,
+      "translated": 116,
+      "lastDate": "Wed, 15 Apr 2026 19:28:36 +0000"
     },
     {
       "name": "The Decoder",
       "total": 115,
       "translated": 115,
       "lastDate": "Wed, 15 Apr 2026 18:39:44 +0000"
-    },
-    {
-      "name": "TechCrunch AI",
-      "total": 115,
-      "translated": 115,
-      "lastDate": "Wed, 15 Apr 2026 19:28:36 +0000"
     },
     {
       "name": "The Register",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-19T21:32:32.198Z"
+  "generatedAt": "2026-04-19T22:04:38.705Z"
 }
