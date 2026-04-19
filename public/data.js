@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "German court rules AI comic adaptation of copyrighted photo doesn't violate the original\n\nAn AI turns a photo into a comic—and according to a German Higher Regional Court, that's fair game as long as only the motif is copied.\nThe article German court rules AI comic adaptation of copyrighted photo doesn't violate the original appeared first on The Decoder.",
+    "t": "בית משפט גרמני: עיבוד תמונה לקומיקס בעזרת AI לא מהווה הפרת זכויות יוצרים\n\nפסיקה חשובה מגרמניה: בית משפט גבוה קבע שאם AI משנה תמונה מקורית לקומיקס, זה כשר לעבודה כל עוד זה רק משכפל את הנושא ולא את הפרטים הספציפיים של התמונה. החלטה שעלולה לפתוח דברים בתחום ה-generative AI והשימוש בתמונות קיימות.",
     "d": "Sun, 19 Apr 2026 13:08:17 +0000",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Varmint round turns NATO rifles into drone killers\n\nWith a simple switch of a magazine, the Drone Round is claimed to turn a standard NATO caliber small arm into a drone-killing weapon that combines the scattershot of a shotgun with the speed, power and rapid fire of an infantry assault rifle.\nContinue Reading\nCategory: Military, Engineering\nTags: US Army, drones",
+    "t": "תחמונת מיוחדת הופכת רובים של NATO למשגרי ירי נגד רחפנים\n\nחברה פיתחה תחמונה חדשנית שמאפשרת לשנות רובים רגילים של NATO לנשקים נגד רחפנים - פשוט על ידי החלפת המעתד. הטכנולוגיה משלבת את פיזור הירי של רובה ציד עם מהירות וכוח של רובה הסדרה מודרני, מה שמעניק ליחידות קרקע יכולת חדשה לתקוף מטרות אוויריות. זה משנה את כללי המשחק בשדה הקרב, כי כל חייל יכול פתאום לשמור על רחפנים אויבים מהשמיים.",
     "d": "Sun, 19 Apr 2026 13:03:00 GMT",
     "v": 0,
     "l": [
@@ -47,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Researchers Invented a Fake Disease to Trick AI and the Funniest Possible Thing Happened\n\nYou can make this stuff up.\nThe post Researchers Invented a Fake Disease to Trick AI and the Funniest Possible Thing Happened appeared first on Futurism.",
+    "t": "חוקרים המציאו מחלה בדויה כדי לתעתע ב-AI וקרה משהו הילarious\n\nקבוצת חוקרים החליטה לבדוק עד כמה AI כוללי הם באמת, ולשם כך הם המציאו מחלה שלא קיימת ורמו אותה לסיסטם של בינה מלאכותית. התוצאה? ה-AI לא רק קיבל את הדבר בחזקת אמת, אלא גם יצר כל מיני אינפורמציה בדויה סביבו - וזה קורה כל הזמן עם מחלות אמיתיות. זו עוד הוכחה מרשימה לכך שאפילו מודלים חכמים צריכים להיות מה-fact-checked כמו בן אדם.",
     "d": "Sun, 19 Apr 2026 09:00:00 -0400",
     "v": 0,
     "l": [
@@ -70,7 +70,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "China’s PLA considers to use minelaying underwater drones to enforce Taiwan blockade: Report\n\nAccording to reports, China’s People’s Liberation Army Navy (PLAN) could use large underwater drones to...",
+    "t": "צבא סין שוקל להשתמש בדרונים תת-ימיים להנחת מוקשים כדי לכפות מצור על טיוואן\n\nלפי דיווחים, חיל הים של צבא השחרור העממי של סין (PLAN) שוקל להפעיל דרונים תת-ימיים ממדר גדול להנחת מוקשים סביב טיוואן כחלק מ\"ממצור\" שעשוי לחנוק את הכלכלה של האי. התהליך הטכנולוגי הזה יכול להוות איום משמעותי על ביטחון האזור ועל הסחר הימי הבינלאומי.",
     "d": "Sun, 19 Apr 2026 12:47:53 +0000",
     "v": 0,
     "l": [
@@ -87,13 +87,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://www.youtube.com/embed/QYe4bP0HsrQ",
     "source": "Interesting Engineering"
   },
   {
     "id": 5,
-    "t": "Bambu Lab overtakes Creality as the world's top-selling budget 3D printer brand — resurgence in 3D printer market fueled by budget options\n\nBambu Lab claimed the top spot in global entry-level 3D printer shipments during 2025, overtaking longtime leader Creality.",
+    "t": "Bambu Lab עוקפת את Creality וכובשת את הראש בשוק מדפסות התלת-ממד בתקציב נמוך\n\nBambu Lab הצליחה להשיג את המקום הראשון בעולם במספר מדפסות תלת-ממד למתחילים שנשלחו בשנת 2025, וסיחפה מתחתיה את Creality שהייתה בראש השוק לשנים רבות. השוק של מדפסות תלת-ממד חוזר לחיים בגדול בזכות המחירים התחרותיים וההתקדמות הטכנולוגית של חברות חדשות יותר כמו Bambu Lab, שמצליחות להציע ערך אמיתי למשתמשים הביתיים.",
     "d": "Sun, 19 Apr 2026 12:43:36 +0000",
     "v": 0,
     "l": [
@@ -116,7 +116,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Inventor showcases 3D printer filament dryer that mines Bitcoins and dries filament with waste heat, capable of 6 TH/s at 140W — joins Bitcoin-mining 3D printer in hobbyist-focused miner lineup\n\nAn inventor has showcased a 3D printer filament dryer 'that pays you bitcoin.'",
+    "t": "ממציא הציג מייבש חוט למדפסת 3D שמכרה ביטקוין: משתמש בחום בזבוז כדי לכרות קריפטו\n\nחובב גאון מצא דרך חכמה לא לבזבז אנרגיה - הוא בנה מייבש חוט למדפסת 3D שגם כורה ביטקוין בו בזמן! המכשיר הקטן הזה מסוגל להשיג 6 TH/s בעצמת חשמל של 140W בלבד, וכמו שאומרים - אם כבר יש חום בזבוז, בואו נהפוך אותו לכסף דיגיטלי. זה כבר לא הפעם הראשונה שמישהו מחשבת על היתרון הזה - יש גם מדפסות 3D שכורות ביטקוין, ולכן נוצרה כאן סדרה של gadgets כורי קריפטו למי שרוצה להרוויח על החוצים.",
     "d": "Sun, 19 Apr 2026 12:28:56 +0000",
     "v": 0,
     "l": [
@@ -139,7 +139,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "40 years ago we entered the megabit memory era with IBM’s DRAM breakthrough — a major leap beyond the 64 kilobit chips common at the time\n\n40 years ago today IBM was in the news for becoming the first computer company with 1-megabit memory chips.",
+    "t": "לפני 40 שנה: IBM פרצה את דלת עידן הזיכרון המגה-ביט וסיימה לעבוד עם שברים של קילו-ביט\n\nIBM הייתה הראשונה בעולם שהצליחה להביא לשוק שרתים עם זיכרון בגודל מגה-ביט (1MB) - זה היה קפיצה משוקלת בהשוואה לרכיבי 64 קילו-ביט שהיו התקן במשך שנים. אם בימינו אנחנו מדברים על ערמות של ג'יגה-ביט וטרה-ביט, אז לפני 40 שנה חלום כזה נראה כמו מדע בדיוני.",
     "d": "Sun, 19 Apr 2026 12:04:33 +0000",
     "v": 0,
     "l": [
@@ -156,13 +156,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/gZs6XpMVvANwnofht3NHz7-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 8,
-    "t": "Trump tests his luck with the religious right amid feud with pope and AI Jesus posts\n\nTrump appears to have crossed a line with his Christian supporters. Will it come back to bite him in the midterms?\nDonald Trump’s depiction of himself as Jesus Christ and recent spat with Pope Leo XIV could come back to bite him and the Republican party in the midterm elections, according to experts, with some newly aggrieved Christian groups set to play an outsized role in key races across the US.\nThe president’s Trump-as-the-Messiah Truth Social post sparked immediate criticism among some Chri",
+    "t": "טראמפ משחק בחזקות עם הימין הדתי באמצע סכסוך עם האפיפיור ו-AI ישו\n\nנראה שטראמפ חצה קו אדום עם תומכיו הנוצרים - המעל בתמונות AI שלו כישוע ומריבתו עם האפיפיור הנוצריים כעולים להיות בעיה ענקית לפני הבחירות הביניים. כמה קבוצות נוצריות שנפגעו מהעסקה הזו עשויות להשפיע בצורה משמעותית על מרוצים חוליים בכל ארה״ב, וזה עשוי להישך לטראמפ ולמפלגה הרפובליקנית בחזרה בשם הרבה.",
     "d": "Sun, 19 Apr 2026 12:00:42 GMT",
     "v": 0,
     "l": [
@@ -185,7 +185,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "SiIicon Valley's AI agent hiccups: Wasted tokens and 'chaotic' systems\n\nNvidia CEO Jensen Huang told CNBC's Jim Cramer in March that AI agents are \"definitely the next ChatGPT.\"",
+    "t": "הצרות של סוכני AI בעמק הסיליקון: אובדן tokensים וחוסר סדר\n\nבעוד ש-Nvidia ממשיכה להבטיח שסוכני AI הם העתיד הבא אחרי ChatGPT, מתברר שבמציאות הם די בחוסר סדר - מבזבזים tokens כמו מים וגורמים למערכות להתנהג בצורה כאוטית. זה עדכון מצחיק על פער הרבה בין ההבטחות של ההנהלה לבין המציאות בשטח.",
     "d": "Sun, 19 Apr 2026 12:00:01 GMT",
     "v": 0,
     "l": [
@@ -205,8 +205,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news",
       "model",
-      "hardware",
-      "agents"
+      "hardware"
     ],
     "imp": "low",
     "thumb": null,
@@ -214,7 +213,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Sudokoo SK620V and SK700V Review: Silent, Stylish AM5 cooling, with a built-in display\n\nWe tested Sudokoo’s unique SK-series air coolers on the Ryzen 9 9950X3D. Read the full review to see how they deliver big performance without annoying noise levels.",
+    "t": "ביקורת Sudokoo SK620V ו-SK700V: קירור AM5 שקט וסטיילי עם תצוגה מובנית\n\nבדקנו את קולרים האוויר החדישים של Sudokoo על ה-Ryzen 9 9950X3D, והתוצאות מרשימות - הם מספקים ביצועים שמנות בלי להטריד בעם רעש מ煜. אם אתם מחפשים קירור יעיל שגם נראה טוב בתוך המגדל, זאת אפציה שכדאי לכם לבדוק. המלא ביקורת זמינה ב-Tom's Hardware.",
     "d": "Sun, 19 Apr 2026 12:00:00 +0000",
     "v": 0,
     "l": [
@@ -229,8 +228,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/HNkeKfsRmnkakhcanMLxEm-1280-80.jpg",
@@ -238,7 +236,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "1-ton sharks may struggle for survival in waters exceeding 62.6°F, study suggests\n\nA new study reveals that rising ocean temperatures are threatening the legendary warm-bodied Great White...",
+    "t": "כרישים במשקל טון עלולים להתקשות בהישרדות בים שחם מ-62.6 מעלות\n\nמחקר חדש חושף שעלייה בטמפרטורות האוקיינוס היא איום אמיתי על כרישי הלבן הגדול שלנו. התגלית מעניינת: כרישים ענקיים אלה שמסוגלים לשמור על חום גופם, עלולים להיתקל בבעיה כשהמים נהיים חמים מדי, מה שיכול להשפיע על יכולתם להתנייד ולציד. זהו עוד אינדיקטור למשבר האקלים וההשפעות שלו על תושבי הים.",
     "d": "Sun, 19 Apr 2026 11:46:59 +0000",
     "v": 0,
     "l": [
@@ -255,13 +253,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://www.youtube.com/embed/q-hr-Qc4Dz0",
     "source": "Interesting Engineering"
   },
   {
     "id": 12,
-    "t": "Researchers find a way to heat 3D printer filament using microwaves, enabling fusing circuits inside printed objects — tech supports precise heating down to the width of a human hair\n\nResearchers from Rice University have developed new microwave technology giving 3D printers the ability to heat ink with extremely high precision. The new tech is already being used to develop new 3D-printed tech that would be impossible without it, and to improve 3D printing efficiency.",
+    "t": "חוקרים גילו דרך לחמם חוט במדפסת תלת-מימד באמצעות מיקרוגל, המאפשרת היתוך מעגלים בתוך עצמים מודפסים — הטכנולוגיה תומכת בחימום מדויק עד לעוביו של שערת אנושית\n\nחוקרים מאוניברסיטת Rice פיתחו טכנולוגיית מיקרוגל חדשנית שנותנת למדפסות תלת-מימד את היכולת לחמם דיו בדיוק מדהים, עד לרמה שלא הייתה אפשרית לפני כן. הטכנולוגיה כבר בשימוש בפיתוח מוצרים מודפסים חדשים שהיו בלתי אפשריים בלעדיה, וגם משפרת משמעותית את יעילות תהליך ההדפסה התלת-מימדית.",
     "d": "Sun, 19 Apr 2026 11:40:00 +0000",
     "v": 0,
     "l": [
@@ -284,7 +282,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "US firm’s thorium nuclear fuel bundles move to manufacturing for commercial reactors\n\nUS-based Clean Core Thorium Energy (CCTE) and Canadian Nuclear Laboratories (CNL) have announced an agreement...",
+    "t": "חברה אמריקנית מתחילה ייצור של דלק גרעיני תוריום למגלי חשמל מסחריים\n\nClean Core Thorium Energy, חברה אמריקנית, הכתירה שיתוף פעולה עם המעבדות הגרעיניות הקנדיות כדי להביא לשוק דלק גרעיני חדש המבוסס על תוריום, שנחשב לבטוח ויעיל יותר מדלק אורניום מסורתי. הטכנולוגיה הזאת יכולה להשנות את עתיד האנרגיה הגרעינית גם בישראל, במיוחד בהקשר של חיפוש פתרונות אנרגיה נקיים ובטוחים יותר.",
     "d": "Sun, 19 Apr 2026 11:33:06 +0000",
     "v": 0,
     "l": [
@@ -307,7 +305,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Hospital Reuses Syringes, Infects Hundreds of Children With HIV\n\n\"They filled the same syringe and gave it to one child, then filled it again and gave it to another.\"\nThe post Hospital Reuses Syringes, Infects Hundreds of Children With HIV appeared first on Futurism.",
+    "t": "בית חולים השתמש בחוקנים מחודשים והדביק מאות ילדים בנגיף HIV\n\nסיפור קשה שעלה מחדש מאזור בעולם שבו בית חולים השתמש באותו חוקן פעמים רבות לילדים שונים, מה שהוביל להדבקה של מאות ילדים בנגיף HIV. זה מקרה זעום שמדגיש את חוסר התשתיות הרפואיות בחלקים מסוימים של העולם וההשלכות הטראגיות של התנהלות כזו. המחקר מציף שוב את הסוגיה הקריטית של שמירה על סטנדרטים בטיחותיים בסביבות רפואיות.\nמקור: Futurism",
     "d": "Sun, 19 Apr 2026 07:30:00 -0400",
     "v": 0,
     "l": [
@@ -330,7 +328,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "New HUDIMM memory specification debuts with goal of slashing DDR5 prices during RAM shortages — A new, cheaper memory standard with half the bandwidth and half the capacity\n\nDDR5 RAM usually has 2x 32-bit subchannels (single rank), which requires more ICs to populate a 64-bit wide bus. ASRock's new HUDIMM has just 1x 32-bit channel and can work with standard DDR5 in mix-and-matched configs as well. HUDIMM sticks are being made by TeamGroup and are supported on most LGA 1700 ASRock motherboards.",
+    "t": "תקן זיכרון HUDIMM חדש שמטרתו להוזיל את מחירי DDR5 — תקן זיכרון זול יותר עם רוחב פס וקיבולת מחצית מהמקובל\n\nASRock הביאה לשוק תקן זיכרון חדש בשם HUDIMM שתוכנן להוזיל משמעותית את מחירי ה-DDR5 בשוק הישראלי. בניגוד ל-DDR5 הרגיל, ה-HUDIMM משתמש בערוץ אחד של 32-bit בלבד במקום שניים, מה שמפחית את מספר הרכיבים הנדרשים ובכך מוריד עלויות. הזיכרון יוצר על ידי TeamGroup ותמיכה לו קיימת בלוחות האם ASRock LGA 1700 ברוביותו, וגם אפשר לערבב אותו עם DDR5 רגיל בהגדרות מעורבות.",
     "d": "Sun, 19 Apr 2026 11:20:00 +0000",
     "v": 0,
     "l": [
@@ -345,8 +343,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/4LxpNwob73oE6FJnEQRf67-1280-80.jpg",
@@ -354,7 +351,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like\n\nThe laser was used to study the physics of stellar interiors and fusion energy, among other things.",
+    "t": "ניסיתי לשדר את אחד הלייזרים החזקים בעולם - הנה איך נראה יום של ירי\n\nחוקרים משתמשים בלייזר ענק הזה כדי להבין את הפיזיקה של כוכבים וגם לפתוח את דלת האנרגיה핵לאארית של עתיד. זה אחד מהציודים הכי מדהימים שיש בתחום המדע, ואם תרצו לדעת איך בדיוק זה עובד - זה סיפור שווה קריאה.",
     "d": "Sun, 19 Apr 2026 11:17:28 +0000",
     "v": 0,
     "l": [
@@ -371,13 +368,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2191315480-1152x648.jpg",
     "source": "Ars Technica"
   },
   {
     "id": 17,
-    "t": "I meant to do that! AI vendors shrug off responsibility for vulns\n\nPassing the buck, and the blame, down the road shows lack of AI companies' maturity OPINION  AI vendors: \"You need to use AI to fight AI threats (and do everything else in your corporate IT environment).\" Also AI vendors: \"That's not a security flaw; it's working as intended.\"…",
+    "t": "\"זה בכוונה!\" - ספקי AI מתגמלצים מאחריות על חולשות אבטחה\n\nמתברר שחברות AI בישראל ובעולם לא מדי משתמשות בטקטיקה החדשה של \"זה לא באג, זה feature\" כשנתקלים בבעיות אבטחה. הספקים כל הזמן אומרים לנו שצריך להשתמש ב-AI כדי להילחם בהתקפות, אבל כשמגלים vulnerability בשרותים שלהם, הם ממהרים לומר שזה בעצם החל טבעי של המערכת וזה בעדם הלקוח. גם אם הוא זה שנשלם לתיקייה הזאת, מי בכלל אחראי כאן?",
     "d": "2026-04-19T11:07:07.000Z",
     "v": 0,
     "l": [
@@ -393,7 +390,6 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "regulation",
       "security"
     ],
     "imp": "low",
