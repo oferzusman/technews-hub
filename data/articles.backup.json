@@ -89226,6 +89226,76 @@
       "priority": "batch",
       "fetchedAt": "2026-04-19T04:25:04.946Z",
       "created_at": "2026-04-19T04:25:04.946Z"
+    },
+    {
+      "id": 4482,
+      "source": "MarkTechPost",
+      "title_en": "xAI Launches Standalone Grok Speech-to-Text and Text-to-Speech APIs, Targeting Enterprise Voice Developers",
+      "description_en": "Elon Musk’s AI company xAI has launched two standalone audio APIs — a Speech-to-Text (STT) API and a Text-to-Speech (TTS) API — both built on the same infrastructure that powers Grok Voice on mobile apps, Tesla vehicles, and Starlink customer support. The release moves xAI squarely into the competitive speech API market currently occupied by […]\nThe post xAI Launches Standalone Grok Speech-to-Text and Text-to-Speech APIs, Targeting Enterprise Voice Developers appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/18/xai-launches-standalone-grok-speech-to-text-and-text-to-speech-apis-targeting-enterprise-voice-developers/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-18-at-10.28.16-PM-1.png",
+      "pub_date": "Sun, 19 Apr 2026 05:28:57 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Audio Language Model",
+        "Editors Pick",
+        "Language Model",
+        "New Releases",
+        "Staff",
+        "Technology",
+        "TTS",
+        "Voice AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-19T06:13:16.915Z",
+      "created_at": "2026-04-19T06:13:16.915Z"
+    },
+    {
+      "id": 4483,
+      "source": "MarkTechPost",
+      "title_en": "A Coding Tutorial for Running PrismML Bonsai 1-Bit LLM on CUDA with GGUF, Benchmarking, Chat, JSON, and RAG",
+      "description_en": "In this tutorial, we implement how to run the Bonsai 1-bit large language model efficiently using GPU acceleration and PrismML’s optimized GGUF deployment stack. We set up the environment, install the required dependencies, and download the prebuilt llama.cpp binaries, and load the Bonsai-1.7B model for fast inference on CUDA. As we progress, we examine how […]\nThe post A Coding Tutorial for Running PrismML Bonsai 1-Bit LLM on CUDA with GGUF, Benchmarking, Chat, JSON, and RAG appeared first on M",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/18/a-coding-tutorial-for-running-prismml-bonsai-1-bit-llm-on-cuda-with-gguf-benchmarking-chat-json-and-rag/",
+      "image_url": null,
+      "pub_date": "Sun, 19 Apr 2026 04:33:41 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "AI Shorts",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-19T06:13:16.916Z",
+      "created_at": "2026-04-19T06:13:16.916Z"
+    },
+    {
+      "id": 4484,
+      "source": "Interesting Engineering",
+      "title_en": "1,800-year-old feces reveal disease and hygiene linked to Roman Empire in Bulgaria",
+      "description_en": "A new study analyzed urine and feces in Roman chamber pots to understand the health...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/health/feces-roman-empire-disease-bulgaria",
+      "image_url": "https://www.youtube.com/embed/q-hr-Qc4Dz0",
+      "pub_date": "Sun, 19 Apr 2026 06:06:04 +0000",
+      "author": "Maria Mocerino",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-19T06:13:22.095Z",
+      "created_at": "2026-04-19T06:13:22.095Z"
     }
   ]
 }
