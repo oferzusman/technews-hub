@@ -90421,6 +90421,82 @@
       "priority": "hot",
       "fetchedAt": "2026-04-19T15:07:56.063Z",
       "created_at": "2026-04-19T15:07:56.063Z"
+    },
+    {
+      "id": 4533,
+      "source": "New Atlas",
+      "title_en": "Scandi-style tiny house packs space-saving layout into just 270 sq ft",
+      "description_en": "With its attractive wooden interior and minimalist design, the Scandi Inn wears its inspiration on its sleeve. Measuring just 270 sq ft (25 sq m), the tiny house makes the most of its compact footprint with a focus on space-saving ideas and storage.\nContinue Reading\nCategory: Tiny Houses, Outdoors\nTags: Building and Construction, Tiny Footprint, House, Micro-House, Home",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/tiny-houses/scandi-inn-backcountry-tiny-homes/",
+      "image_url": null,
+      "pub_date": "Sun, 19 Apr 2026 15:03:00 GMT",
+      "author": "Adam Williams",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-19T15:52:48.321Z",
+      "created_at": "2026-04-19T15:52:48.321Z"
+    },
+    {
+      "id": 4534,
+      "source": "New Atlas",
+      "title_en": "Sulphur-soaked lava world is in a planetary class all its own",
+      "description_en": "The floor is literally lava on a nearby exoplanet, new telescope observations show. Given its small size and strange history, one team of scientists suggests planet L 98-59 d’s molten ocean and odd atmosphere might represent an entirely new category of extraterrestrial world.\nContinue Reading\nCategory: Astronomy, Science\nTags: Planet, Exoplanet, Super-Earth, University of Oxford, University of Cambridge, Habitable zone, Atmosphere",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/space/sulphur-lava-world/",
+      "image_url": null,
+      "pub_date": "Sun, 19 Apr 2026 15:03:00 GMT",
+      "author": "Elizabeth Howell",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-19T15:52:48.321Z",
+      "created_at": "2026-04-19T15:52:48.321Z"
+    },
+    {
+      "id": 4535,
+      "source": "Futurism",
+      "title_en": "The Florida Mass Shooter’s Conversations With ChatGPT Are Worse Than You Could Possibly Imagine",
+      "description_en": "If a human uses an AI chatbot to plan a mass shooting, is the company liable for the ensuing deaths?\nThe post The Florida Mass Shooter’s Conversations With ChatGPT Are Worse Than You Could Possibly Imagine appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/florida-mass-shooter-chatgpt",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/florida-mass-shooter-chatgpt.jpg?quality=85",
+      "pub_date": "Sun, 19 Apr 2026 11:15:00 -0400",
+      "author": "Sharon Adarlo",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        },
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://futurism.com/category/openai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-19T15:52:52.070Z",
+      "created_at": "2026-04-19T15:52:52.070Z"
     }
   ]
 }
