@@ -90701,6 +90701,56 @@
       "priority": "hot",
       "fetchedAt": "2026-04-19T19:39:54.357Z",
       "created_at": "2026-04-19T19:39:54.357Z"
+    },
+    {
+      "id": 4545,
+      "source": "The Verge AI",
+      "title_en": "Cloud development platform Vercel was hacked",
+      "description_en": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed in a post on X that a \"security incident\" had occurred, and that it impacted a \"limited subset\" of its customers. Vercel said that a compromised thi",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/914723/vercel-hacked",
+      "image_url": null,
+      "pub_date": "2026-04-19T19:54:52.000Z",
+      "author": "Terrence O’Brien",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-19T20:51:54.311Z",
+      "created_at": "2026-04-19T20:51:54.311Z"
+    },
+    {
+      "id": 4546,
+      "source": "MarkTechPost",
+      "title_en": "Meet OpenMythos: An Open-Source PyTorch Reconstruction of Claude Mythos Where 770M Parameters Match a 1.3B Transformer",
+      "description_en": "Anthropic has never published a technical paper on Claude Mythos. That has not stopped the research community from theorizing. A new open-source project called OpenMythos, released on GitHub by Kye Gomez, attempts something ambitious: a first-principles theoretical reconstruction of what the Claude Mythos architecture might actually be, built entirely in PyTorch and grounded in peer-reviewed […]\nThe post Meet OpenMythos: An Open-Source PyTorch Reconstruction of Claude Mythos Where 770M Parameter",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/19/meet-openmythos-an-open-source-pytorch-reconstruction-of-claude-mythos-where-770m-parameters-match-a-1-3b-transformer/",
+      "image_url": null,
+      "pub_date": "Sun, 19 Apr 2026 19:47:49 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-19T20:51:55.804Z",
+      "created_at": "2026-04-19T20:51:55.804Z"
     }
   ]
 }
