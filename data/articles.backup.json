@@ -89863,6 +89863,415 @@
       "priority": "batch",
       "fetchedAt": "2026-04-19T11:02:16.019Z",
       "created_at": "2026-04-19T11:02:16.019Z"
+    },
+    {
+      "id": 4512,
+      "source": "Ars Technica",
+      "title_en": "I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like",
+      "description_en": "The laser was used to study the physics of stellar interiors and fusion energy, among other things.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/science/2026/04/ive-fired-one-of-americas-most-powerful-lasers-heres-what-a-shot-day-looks-like/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2191315480-1152x648.jpg",
+      "pub_date": "Sun, 19 Apr 2026 11:17:28 +0000",
+      "author": "\n                    Ahmed Helal, The Conversation\n                ",
+      "categories": [
+        "Science",
+        "laser",
+        "lasers",
+        "petawatt lasers",
+        "syndication"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-19T13:40:38.000Z",
+      "created_at": "2026-04-19T13:40:38.000Z"
+    },
+    {
+      "id": 4513,
+      "source": "The Decoder",
+      "title_en": "German court rules AI comic adaptation of copyrighted photo doesn't violate the original",
+      "description_en": "An AI turns a photo into a comic—and according to a German Higher Regional Court, that's fair game as long as only the motif is copied.\nThe article German court rules AI comic adaptation of copyrighted photo doesn't violate the original appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/german-court-rules-ai-comic-adaptation-of-copyrighted-photo-doesnt-violate-the-original/",
+      "image_url": null,
+      "pub_date": "Sun, 19 Apr 2026 13:08:17 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and copyright",
+        "Copyright"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-19T13:40:39.163Z",
+      "created_at": "2026-04-19T13:40:39.163Z"
+    },
+    {
+      "id": 4514,
+      "source": "New Atlas",
+      "title_en": "Varmint round turns NATO rifles into drone killers",
+      "description_en": "With a simple switch of a magazine, the Drone Round is claimed to turn a standard NATO caliber small arm into a drone-killing weapon that combines the scattershot of a shotgun with the speed, power and rapid fire of an infantry assault rifle.\nContinue Reading\nCategory: Military, Engineering\nTags: US Army, drones",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/military/drone-round-nato-rifle-ammunition/",
+      "image_url": null,
+      "pub_date": "Sun, 19 Apr 2026 13:03:00 GMT",
+      "author": "David Szondy",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-19T13:40:40.129Z",
+      "created_at": "2026-04-19T13:40:40.129Z"
+    },
+    {
+      "id": 4515,
+      "source": "The Register",
+      "title_en": "I meant to do that! AI vendors shrug off responsibility for vulns",
+      "description_en": "Passing the buck, and the blame, down the road shows lack of AI companies' maturity OPINION  AI vendors: \"You need to use AI to fight AI threats (and do everything else in your corporate IT environment).\" Also AI vendors: \"That's not a security flaw; it's working as intended.\"…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/19/ai_vendors_response_to_security/",
+      "image_url": null,
+      "pub_date": "2026-04-19T11:07:07.000Z",
+      "author": "Jessica Lyons",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-19T13:40:40.158Z",
+      "created_at": "2026-04-19T13:40:40.158Z"
+    },
+    {
+      "id": 4516,
+      "source": "The Guardian AI",
+      "title_en": "Trump tests his luck with the religious right amid feud with pope and AI Jesus posts",
+      "description_en": "Trump appears to have crossed a line with his Christian supporters. Will it come back to bite him in the midterms?\nDonald Trump’s depiction of himself as Jesus Christ and recent spat with Pope Leo XIV could come back to bite him and the Republican party in the midterm elections, according to experts, with some newly aggrieved Christian groups set to play an outsized role in key races across the US.\nThe president’s Trump-as-the-Messiah Truth Social post sparked immediate criticism among some Chri",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/2026/apr/19/trump-religious-right-pope-feud-ai-jesus-posts",
+      "image_url": "https://i.guim.co.uk/img/media/8d8f60f84e2d3b37d96086f3a731234c7a1877db/625_89_2121_1697/master/2121.jpg?width=140&quality=85&auto=format&fit=max&s=bf151f812903bd23127d96834079ff00",
+      "pub_date": "Sun, 19 Apr 2026 12:00:42 GMT",
+      "author": "Adam Gabbatt",
+      "categories": [
+        {
+          "_": "Donald Trump",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/donaldtrump"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "Religion",
+          "$": {
+            "domain": "https://www.theguardian.com/world/religion"
+          }
+        },
+        {
+          "_": "Pope Leo XIV",
+          "$": {
+            "domain": "https://www.theguardian.com/world/pope-leo-xiv"
+          }
+        },
+        {
+          "_": "Christianity",
+          "$": {
+            "domain": "https://www.theguardian.com/world/christianity"
+          }
+        },
+        {
+          "_": "Catholicism",
+          "$": {
+            "domain": "https://www.theguardian.com/world/catholicism"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Republicans",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/republicans"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-19T13:40:40.206Z",
+      "created_at": "2026-04-19T13:40:40.206Z"
+    },
+    {
+      "id": 4517,
+      "source": "Interesting Engineering",
+      "title_en": "China’s PLA considers to use minelaying underwater drones to enforce Taiwan blockade: Report",
+      "description_en": "According to reports, China’s People’s Liberation Army Navy (PLAN) could use large underwater drones to...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/china-minelaying-underwater-drone-taiwan",
+      "image_url": "https://www.youtube.com/embed/QYe4bP0HsrQ",
+      "pub_date": "Sun, 19 Apr 2026 12:47:53 +0000",
+      "author": "Christopher McFadden",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-19T13:40:41.274Z",
+      "created_at": "2026-04-19T13:40:41.274Z"
+    },
+    {
+      "id": 4518,
+      "source": "Interesting Engineering",
+      "title_en": "1-ton sharks may struggle for survival in waters exceeding 62.6°F, study suggests",
+      "description_en": "A new study reveals that rising ocean temperatures are threatening the legendary warm-bodied Great White...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/sharks-struggle-in-warm-waters",
+      "image_url": "https://www.youtube.com/embed/q-hr-Qc4Dz0",
+      "pub_date": "Sun, 19 Apr 2026 11:46:59 +0000",
+      "author": "Maria Mocerino",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-19T13:40:41.274Z",
+      "created_at": "2026-04-19T13:40:41.274Z"
+    },
+    {
+      "id": 4519,
+      "source": "Interesting Engineering",
+      "title_en": "US firm’s thorium nuclear fuel bundles move to manufacturing for commercial reactors",
+      "description_en": "US-based Clean Core Thorium Energy (CCTE) and Canadian Nuclear Laboratories (CNL) have announced an agreement...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/thorium-based-nuclear-reactor-fuel-advances",
+      "image_url": null,
+      "pub_date": "Sun, 19 Apr 2026 11:33:06 +0000",
+      "author": "Aman Tripathi",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-19T13:40:41.274Z",
+      "created_at": "2026-04-19T13:40:41.274Z"
+    },
+    {
+      "id": 4520,
+      "source": "Futurism",
+      "title_en": "Researchers Invented a Fake Disease to Trick AI and the Funniest Possible Thing Happened",
+      "description_en": "You can make this stuff up.\nThe post Researchers Invented a Fake Disease to Trick AI and the Funniest Possible Thing Happened appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/future-society/fake-disease-trick-ai",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/fake-disease-trick-ai.jpg?quality=85",
+      "pub_date": "Sun, 19 Apr 2026 09:00:00 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-19T13:40:41.944Z",
+      "created_at": "2026-04-19T13:40:41.944Z"
+    },
+    {
+      "id": 4521,
+      "source": "Futurism",
+      "title_en": "Hospital Reuses Syringes, Infects Hundreds of Children With HIV",
+      "description_en": "\"They filled the same syringe and gave it to one child, then filled it again and gave it to another.\"\nThe post Hospital Reuses Syringes, Infects Hundreds of Children With HIV appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/health-medicine/hospital-needles-hiv-pakistan",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/hospital-needles-hiv-pakistan.jpg?quality=85",
+      "pub_date": "Sun, 19 Apr 2026 07:30:00 -0400",
+      "author": "Joe Wilkins",
+      "categories": [
+        {
+          "_": "Health & Medicine",
+          "$": {
+            "domain": "https://futurism.com/category/health-medicine"
+          }
+        },
+        {
+          "_": "Medical",
+          "$": {
+            "domain": "https://futurism.com/category/medical"
+          }
+        },
+        {
+          "_": "Pathogens",
+          "$": {
+            "domain": "https://futurism.com/category/pathogens"
+          }
+        },
+        {
+          "_": "Viruses",
+          "$": {
+            "domain": "https://futurism.com/category/viruses"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-19T13:40:41.944Z",
+      "created_at": "2026-04-19T13:40:41.944Z"
+    },
+    {
+      "id": 4522,
+      "source": "CNBC Tech",
+      "title_en": "SiIicon Valley's AI agent hiccups: Wasted tokens and 'chaotic' systems",
+      "description_en": "Nvidia CEO Jensen Huang told CNBC's Jim Cramer in March that AI agents are \"definitely the next ChatGPT.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/19/siiicon-valley-ai-agent-openclaw-problems.html",
+      "image_url": null,
+      "pub_date": "Sun, 19 Apr 2026 12:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-19T13:40:41.999Z",
+      "created_at": "2026-04-19T13:40:41.999Z"
+    },
+    {
+      "id": 4523,
+      "source": "Tom's Hardware",
+      "title_en": "Bambu Lab overtakes Creality as the world's top-selling budget 3D printer brand — resurgence in 3D printer market fueled by budget options",
+      "description_en": "Bambu Lab claimed the top spot in global entry-level 3D printer shipments during 2025, overtaking longtime leader Creality.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/3d-printing/bambu-lab-overtakes-creality-as-the-worlds-top-selling-budget-3d-printer-brand",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/hvAMe3fEUJf9AmRQqeTro3-1280-80.jpg",
+      "pub_date": "Sun, 19 Apr 2026 12:43:36 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "3D Printing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-19T13:40:42.044Z",
+      "created_at": "2026-04-19T13:40:42.044Z"
+    },
+    {
+      "id": 4524,
+      "source": "Tom's Hardware",
+      "title_en": "Inventor showcases 3D printer filament dryer that mines Bitcoins and dries filament with waste heat, capable of 6 TH/s at 140W — joins Bitcoin-mining 3D printer in hobbyist-focused miner lineup",
+      "description_en": "An inventor has showcased a 3D printer filament dryer 'that pays you bitcoin.'",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cryptomining/inventor-showcases-3d-printer-filament-dryer-that-mines-bitcoins-and-dries-filament-with-waste-heat-capable-of-6-th-s-at-140w-joins-bitcoin-mining-3d-printer-in-hobbyist-focused-miner-lineup",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/becxdn6UDTU9GafDeYiqWc-1280-80.jpg",
+      "pub_date": "Sun, 19 Apr 2026 12:28:56 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Cryptomining",
+        "Tech Industry",
+        "Cryptocurrency"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-19T13:40:42.044Z",
+      "created_at": "2026-04-19T13:40:42.044Z"
+    },
+    {
+      "id": 4525,
+      "source": "Tom's Hardware",
+      "title_en": "40 years ago we entered the megabit memory era with IBM’s DRAM breakthrough — a major leap beyond the 64 kilobit chips common at the time",
+      "description_en": "40 years ago today IBM was in the news for becoming the first computer company with 1-megabit memory chips.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/dram/40-years-ago-we-entered-the-megabit-memory-era-with-ibms-dram-breakthrough-a-major-leap-beyond-the-64-kilobit-chips-common-at-the-time",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/gZs6XpMVvANwnofht3NHz7-1280-80.jpg",
+      "pub_date": "Sun, 19 Apr 2026 12:04:33 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "DRAM",
+        "PC Components",
+        "RAM"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-19T13:40:42.044Z",
+      "created_at": "2026-04-19T13:40:42.044Z"
+    },
+    {
+      "id": 4526,
+      "source": "Tom's Hardware",
+      "title_en": "Sudokoo SK620V and SK700V Review: Silent, Stylish AM5 cooling, with a built-in display",
+      "description_en": "We tested Sudokoo’s unique SK-series air coolers on the Ryzen 9 9950X3D. Read the full review to see how they deliver big performance without annoying noise levels.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/air-cooling/sudokoo-sk620v-and-sk700v-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/HNkeKfsRmnkakhcanMLxEm-1280-80.jpg",
+      "pub_date": "Sun, 19 Apr 2026 12:00:00 +0000",
+      "author": " Albert Thomas ",
+      "categories": [
+        "Air Cooling",
+        "PC Components",
+        "Cooling"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-19T13:40:42.044Z",
+      "created_at": "2026-04-19T13:40:42.044Z"
+    },
+    {
+      "id": 4527,
+      "source": "Tom's Hardware",
+      "title_en": "Researchers find a way to heat 3D printer filament using microwaves, enabling fusing circuits inside printed objects — tech supports precise heating down to the width of a human hair",
+      "description_en": "Researchers from Rice University have developed new microwave technology giving 3D printers the ability to heat ink with extremely high precision. The new tech is already being used to develop new 3D-printed tech that would be impossible without it, and to improve 3D printing efficiency.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/3d-printing/researchers-find-a-way-to-heat-3d-printer-filament-using-microwaves-enabling-fusing-circuits-inside-printed-objects-tech-supports-precise-heating-down-to-the-width-of-a-human-hair",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/pibVVPjtw8ieTUSJy95vJS-1280-80.webp",
+      "pub_date": "Sun, 19 Apr 2026 11:40:00 +0000",
+      "author": " Aaron Klotz ",
+      "categories": [
+        "3D Printing"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-19T13:40:42.044Z",
+      "created_at": "2026-04-19T13:40:42.044Z"
+    },
+    {
+      "id": 4528,
+      "source": "Tom's Hardware",
+      "title_en": "New HUDIMM memory specification debuts with goal of slashing DDR5 prices during RAM shortages — A new, cheaper memory standard with half the bandwidth and half the capacity",
+      "description_en": "DDR5 RAM usually has 2x 32-bit subchannels (single rank), which requires more ICs to populate a 64-bit wide bus. ASRock's new HUDIMM has just 1x 32-bit channel and can work with standard DDR5 in mix-and-matched configs as well. HUDIMM sticks are being made by TeamGroup and are supported on most LGA 1700 ASRock motherboards.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ddr5/new-hudimm-memory-specification-debuts-with-goal-of-lowering-prices-during-ram-shortages-a-new-cheaper-memory-standard-featuring-only-one-subchannel-per-stick-aimed-at-budget-pcs",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4LxpNwob73oE6FJnEQRf67-1280-80.jpg",
+      "pub_date": "Sun, 19 Apr 2026 11:20:00 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "DDR5",
+        "PC Components",
+        "RAM",
+        "DRAM"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-19T13:40:42.044Z",
+      "created_at": "2026-04-19T13:40:42.044Z"
     }
   ]
 }
