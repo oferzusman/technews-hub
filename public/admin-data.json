@@ -1,9 +1,9 @@
 {
-  "total": 4544,
-  "translated": 4544,
+  "total": 4546,
+  "translated": 4546,
   "untranslated": 0,
-  "today": 65,
-  "week": 992,
+  "today": 67,
+  "week": 994,
   "sources": [
     {
       "name": "Pypi.org",
@@ -109,15 +109,15 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 63,
-      "translated": 63,
+      "total": 64,
+      "translated": 64,
       "lastDate": "Wed, 15 Apr 2026 17:21:06 +0000"
     },
     {
       "name": "The Verge AI",
-      "total": 62,
-      "translated": 62,
-      "lastDate": "2026-04-18T21:08:45.000Z"
+      "total": 63,
+      "translated": 63,
+      "lastDate": "2026-04-19T19:54:52.000Z"
     },
     {
       "name": "Github.com",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-19T20:05:48.851Z"
+  "generatedAt": "2026-04-19T21:32:32.198Z"
 }
