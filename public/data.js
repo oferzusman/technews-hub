@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "AI cloud company Vercel breached after employee grants AI tool unrestricted access to Google Workspace — hacker seeking $2 million for stolen data\n\nThe breach exposed non-sensitive environment variables, and a threat actor operating under the ShinyHunters name has claimed responsibility.",
+    "t": "חברת ה-AI Vercel נפרצה: עובד נתן לכלי AI גישה בלתי מוגבלת ל-Google Workspace\n\nהפרצה חשפה משתנים סביבה שאינם רגישים, וגורם איום בשם ShinyHunters תבע 2 מיליון דולר על הנתונים הגנובים. האירוע מזכיר לנו שגם בחברות טכנולוגיה מובילות, שגיאת אדם + גישה לא מוגבלת של AI = סכנה אמיתית.",
     "d": "Mon, 20 Apr 2026 15:49:36 +0000",
     "v": 0,
     "l": [
@@ -19,8 +19,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/JFVbbhwRYVQX9SY26qM8bd-1280-80.jpg",
@@ -28,7 +27,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Reform’s Richard Tice posts picture with telltale signs of AI manipulation, say experts\n\nDeputy leader’s image on X was almost certainly generated or altered using AI, according to Peryton Intelligence\n\nUK politics live – latest updates\n\nIn a picture of a blue-skyed day in Birmingham, a diverse group of Reform supporters gathered with placards and cheesy grins to knock on doors for their party. Richard Tice, the party’s deputy leader, posted the picture as evidence of the activists’ commitment through thick and thin.\n“That is what resilience looks like,” he wrote. “This is what beli",
+    "t": "תמונה של ריצ'ארד טייס מ-Reform חושפת סימנים ברורים של מניפולציה בAI\n\nמומחי בינה מלאכותית מ-Peryton Intelligence טוענים שתמונה שפרסם סגן מנהיג המפלגה הבריטית בX היא כמעט בוודאות מחוללת או שונתה בעזרת AI. טייס העלה את התמונה כדי להראות את ההתחייבות של פעילי המפלגה, אך נראה שהוא נתפס בהשקר ויזואלי שלא מעט טיפשי. זה עוד דוגמה לקושיות שעולות כשמנהיגים פוליטיים משתמשים בתמונות AI ללא בדיקה כנות.",
     "d": "Mon, 20 Apr 2026 15:31:06 GMT",
     "v": 0,
     "l": [
@@ -45,13 +44,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/f0bd704bbcc102c3772cbcbac51587ea4be5ad9b/83_26_1232_985/master/1232.jpg?width=140&quality=85&auto=format&fit=max&s=8953a895302a692eb4e64069aced937d",
     "source": "The Guardian AI"
   },
   {
     "id": 3,
-    "t": "CEO and CFO suddenly depart AI nuclear power upstart Fermi\n\nThe startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas.",
+    "t": "המנכ\"ל והמנהל הכספי עזבו בפתאומיות את Fermi, סטארטאפ הגרעין לAI\n\nהסטארטאפ, שנייסד על ידי שר האנרגיה לשעבר של ארה\"ב ריק פרי, נתקל בקשיים משמעותיים עם קמפוס ה-AI שלה בטקסס. עזיבה פתאומית של ההנהלה העליונה מחזקת את החששות לגבי הקשיים של החברה להמיר את הראיון שלה לכלכלה בת-קיימא.",
     "d": "Mon, 20 Apr 2026 15:30:19 +0000",
     "v": 0,
     "l": [
@@ -74,7 +73,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Electric trike uses pedal-by-wire to ditch chains forever\n\nFor more than 140 years, the bicycle chain has barely changed. Inspired Cycle Engineering (ICE), a UK-based recumbent trike maker founded in 1999, thinks it's finally time. ICE has launched PERS Chainless, a fully electric drivetrain that eliminates the chain, the gear shifter, and essentially every component that can stretch, snap, or get caked in grease. It's a world first for the industry, the company says.\nContinue Reading\nCategory: Urban Transport, Transport\nTags: Electric Vehicles, Drives,",
+    "t": "טריק חשמלי שמוותר על השרשרת - פשוט ועדיין פדלים\n\nאחרי למעלה מ-140 שנה של שרשרות אופניים, חברה בריטית שקוראים לה Inspired Cycle Engineering החליטה שמספיק. הם השיקו PERS Chainless, מערכת הנעה חשמלית שמתנקזת מהשרשרת, משנאים הילוכים וכל מה שיכול להשבר או להתלכלך בשומן. זה הדבר הראשון בתחום, וזה אומר - אין עוד חזקה על השרשרות הישנות שלנו. המערכת משתמשת בטכנולוגיית pedal-by-wire שמעבירה את הכוח אלקטרונית במקום מכנית.",
     "d": "Mon, 20 Apr 2026 15:27:30 GMT",
     "v": 0,
     "l": [
@@ -89,8 +88,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -98,7 +96,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "New Android development tool designed for robots, not humans\n\nGoogle previews Android CLI as agentic development continues to snowball Google has introduced a new Android command-line interface built specifically for AI agents, claiming a 70 percent cut in token usage and three times reduction in task completion time.…",
+    "t": "כלי Android חדש שתוכנן לרובוטים, לא לבני אדם\n\nגוגל חשפה ממשק שורת פקודה חדש ל-Android שבנוי במיוחד ל-AI agents, וטוענת שהוא מקטין את צריכת ה-tokens ב-70 אחוז ומקטין את זמן השלמת המשימות בשלוש פעמים. זה חלק מהטרנד הגדול של אגנטים AI שעובדים בצורה עצמאית, והפעם גוגל מביאה את זה ישירות לעולם development של Android.\n\nמקור: The Register",
     "d": "2026-04-20T15:24:54.000Z",
     "v": 0,
     "l": [
@@ -111,13 +109,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
       "news",
-      "model",
-      "robotics",
       "agents"
     ],
     "imp": "low",
@@ -126,7 +120,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "In Article About Horrific Shooting That Killed Eight Children, Forbes Lets Readers Place Bets About Gun Control\n\n\"Ghoulish.\"\nThe post In Article About Horrific Shooting That Killed Eight Children, Forbes Lets Readers Place Bets About Gun Control appeared first on Futurism.",
+    "t": "פורבס הוקעת על בידול טבעון בנושא הטבח: פתיחת הימורים לקוראים על רגולציית נשקות\n\nסיפור מדוכא שזה ממש לא קרה: פורבס קיבלה התקפות קשות על הוספת תכונת הימורים לקוראים בתוך מאמר על ירי המוני שהרג שמונה ילדים. המהלך התוויס כ'אלים' ו'חסר טעם' על ידי גולשים, והסיפור הפך לאירוע PR שלילי כבד לפרסום גדול שנתפס כמחסר רגישות בנושא קריטי. מקור: Futurism",
     "d": "Mon, 20 Apr 2026 11:14:08 -0400",
     "v": 0,
     "l": [
@@ -218,7 +212,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Anthropic's Mythos AI model sparks fears of turbocharged hacking\n\nCyberdefenses could be exposed faster than fixes could be deployed.",
+    "t": "מודל Mythos של Anthropic מעורר פחדים מפני hacking טורבו\n\nAnthropic השיקה מודל AI חדש שמסוגל לאתר취약יות בקוד בדיוק מפחיד - כל כך מהר שגם החברות לא יספיקו לתקן אותן במהירות. זה בעצם כמו לתת לעומד האבטחה מסכן ראיית נשר שגרם לכולם לתוך זוועה.",
     "d": "Mon, 20 Apr 2026 14:21:40 +0000",
     "v": 0,
     "l": [
