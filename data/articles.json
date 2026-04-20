@@ -90981,6 +90981,106 @@
       "priority": "batch",
       "fetchedAt": "2026-04-20T03:49:14.234Z",
       "created_at": "2026-04-20T03:49:14.234Z"
+    },
+    {
+      "id": 4557,
+      "source": "New Atlas",
+      "title_en": "Robot smashes human record in half-marathon – as another self-destructed",
+      "description_en": "The era of us laughing at humanoids playing sport may now be behind us – for the most part – as a field of robots competing in a half marathon in Beijing demonstrated how frighteningly fast the technology has developed in just 12 months. Even if one model had a day to forget, smashing into pieces after tripping at the starting line, the record-setting winner is a sign of things to come.\nContinue Reading\nCategory: AI and Humanoids, Technology\nTags: Future Robot, Honor, Humanoid, Autonomous, Beiji",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/ai-humanoids/robots-outrun-humans-half-marathon/",
+      "image_url": null,
+      "pub_date": "Mon, 20 Apr 2026 04:16:19 GMT",
+      "author": "Bronwyn Thompson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-20T06:06:48.454Z",
+      "created_at": "2026-04-20T06:06:48.454Z"
+    },
+    {
+      "id": 4558,
+      "source": "The Guardian AI",
+      "title_en": "Teacher v chatbot: my journey into the classroom in the age of AI – podcast",
+      "description_en": "I was a newcomer, negotiating all of the usual classroom difficulties for the first time. Throwing AI into the mix felt like downing a coffee in the middle of a panic attack\nBy Peter C Baker. Read by Adam Sims\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/news/audio/2026/apr/20/teacher-v-chatbot-classroom-age-of-ai-podcast",
+      "image_url": "https://i.guim.co.uk/img/media/520e2aaf4e4906d821be2c0e60df05b02e8afa5f/0_0_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=43d63d226df155ce91d9145e82ca6f22",
+      "pub_date": "Mon, 20 Apr 2026 04:00:01 GMT",
+      "author": "Written by Peter C Baker and read by Adam Sims. Produced by Nicola Alexandrou. The executive producer was Ellie Bury",
+      "categories": [
+        {
+          "_": "Teaching",
+          "$": {
+            "domain": "https://www.theguardian.com/education/teaching"
+          }
+        },
+        {
+          "_": "Education",
+          "$": {
+            "domain": "https://www.theguardian.com/education/education"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Schools",
+          "$": {
+            "domain": "https://www.theguardian.com/education/schools"
+          }
+        },
+        {
+          "_": "English and creative writing",
+          "$": {
+            "domain": "https://www.theguardian.com/education/english"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-20T06:06:48.767Z",
+      "created_at": "2026-04-20T06:06:48.767Z"
+    },
+    {
+      "id": 4559,
+      "source": "Interesting Engineering",
+      "title_en": "New military tech can maintain communication in contested electronic warfare environments",
+      "description_en": "A French company’s new solution can help maintain radio communications in increasingly contested electronic warfare...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/military-tech-communication-contested-environments-jammers",
+      "image_url": null,
+      "pub_date": "Mon, 20 Apr 2026 05:50:09 +0000",
+      "author": "Prabhat Ranjan Mishra",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-20T06:06:52.135Z",
+      "created_at": "2026-04-20T06:06:52.135Z"
     }
   ]
 }
