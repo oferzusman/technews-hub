@@ -1,14 +1,14 @@
 {
-  "total": 4631,
-  "translated": 4609,
-  "untranslated": 22,
-  "today": 81,
-  "week": 943,
+  "total": 4644,
+  "translated": 4631,
+  "untranslated": 13,
+  "today": 94,
+  "week": 956,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 482,
-      "translated": 472,
+      "total": 483,
+      "translated": 482,
       "lastDate": "2026-04-20T06:42:14.000Z"
     },
     {
@@ -25,14 +25,14 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 244,
-      "translated": 242,
+      "total": 251,
+      "translated": 244,
       "lastDate": "Wed, 15 Apr 2026 16:27:58 +0000"
     },
     {
       "name": "Interesting Engineering",
       "total": 213,
-      "translated": 210,
+      "translated": 213,
       "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
     {
@@ -43,13 +43,13 @@
     },
     {
       "name": "New Atlas",
-      "total": 163,
-      "translated": 162,
+      "total": 164,
+      "translated": 163,
       "lastDate": "Wed, 15 Apr 2026 23:03:00 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 152,
+      "total": 153,
       "translated": 152,
       "lastDate": "Wed, 15 Apr 2026 22:25:30 +0000"
     },
@@ -62,7 +62,7 @@
     {
       "name": "The Decoder",
       "total": 116,
-      "translated": 115,
+      "translated": 116,
       "lastDate": "Wed, 15 Apr 2026 18:39:44 +0000"
     },
     {
@@ -74,7 +74,7 @@
     {
       "name": "The Register",
       "total": 111,
-      "translated": 109,
+      "translated": 111,
       "lastDate": "2026-04-20T09:23:41.000Z"
     },
     {
@@ -92,7 +92,7 @@
     {
       "name": "The Guardian AI",
       "total": 79,
-      "translated": 78,
+      "translated": 79,
       "lastDate": "Wed, 15 Apr 2026 21:00:47 GMT"
     },
     {
@@ -110,7 +110,7 @@
     {
       "name": "MarkTechPost",
       "total": 66,
-      "translated": 65,
+      "translated": 66,
       "lastDate": "Wed, 15 Apr 2026 17:21:06 +0000"
     },
     {
@@ -127,13 +127,13 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 48,
-      "translated": 47,
+      "total": 49,
+      "translated": 48,
       "lastDate": "Wed, 15 Apr 2026 12:10:00 +0000"
     },
     {
       "name": "AI News",
-      "total": 35,
+      "total": 36,
       "translated": 35,
       "lastDate": "Wed, 15 Apr 2026 16:28:19 +0000"
     },
@@ -258,16 +258,16 @@
       "lastDate": "2026-04-09T06:00:00Z"
     },
     {
+      "name": "Nature Machine Intelligence",
+      "total": 12,
+      "translated": 11,
+      "lastDate": "2026-04-20T00:00:00.000Z"
+    },
+    {
       "name": "Geeky Gadgets",
       "total": 12,
       "translated": 12,
       "lastDate": "2026-04-09T07:19:00Z"
-    },
-    {
-      "name": "Nature Machine Intelligence",
-      "total": 11,
-      "translated": 11,
-      "lastDate": "2026-04-17T00:00:00.000Z"
     },
     {
       "name": "Gizmodo.com",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-20T10:57:47.465Z"
+  "generatedAt": "2026-04-20T12:07:15.585Z"
 }
