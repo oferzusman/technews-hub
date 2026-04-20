@@ -1,9 +1,9 @@
 {
-  "total": 4556,
-  "translated": 4550,
-  "untranslated": 6,
-  "today": 6,
-  "week": 868,
+  "total": 4559,
+  "translated": 4556,
+  "untranslated": 3,
+  "today": 9,
+  "week": 871,
   "sources": [
     {
       "name": "Pypi.org",
@@ -31,20 +31,20 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 208,
-      "translated": 206,
+      "total": 209,
+      "translated": 208,
       "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
     {
       "name": "Futurism",
       "total": 205,
-      "translated": 204,
+      "translated": 205,
       "lastDate": "Wed, 15 Apr 2026 16:15:26 -0400"
     },
     {
       "name": "New Atlas",
-      "total": 161,
-      "translated": 159,
+      "total": 162,
+      "translated": 161,
       "lastDate": "Wed, 15 Apr 2026 23:03:00 GMT"
     },
     {
@@ -96,21 +96,21 @@
       "lastDate": "2026-04-09T07:23:47Z"
     },
     {
+      "name": "The Guardian AI",
+      "total": 77,
+      "translated": 76,
+      "lastDate": "Wed, 15 Apr 2026 21:00:47 GMT"
+    },
+    {
       "name": "GlobeNewswire",
       "total": 77,
       "translated": 77,
       "lastDate": "2026-04-09T07:00:00Z"
     },
     {
-      "name": "The Guardian AI",
-      "total": 76,
-      "translated": 76,
-      "lastDate": "Wed, 15 Apr 2026 21:00:47 GMT"
-    },
-    {
       "name": "MarkTechPost",
       "total": 65,
-      "translated": 64,
+      "translated": 65,
       "lastDate": "Wed, 15 Apr 2026 17:21:06 +0000"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-20T04:29:04.322Z"
+  "generatedAt": "2026-04-20T06:33:01.616Z"
 }
