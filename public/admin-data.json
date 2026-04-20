@@ -1,9 +1,9 @@
 {
-  "total": 4559,
-  "translated": 4556,
-  "untranslated": 3,
-  "today": 9,
-  "week": 871,
+  "total": 4611,
+  "translated": 4559,
+  "untranslated": 52,
+  "today": 61,
+  "week": 923,
   "sources": [
     {
       "name": "Pypi.org",
@@ -13,9 +13,9 @@
     },
     {
       "name": "Product Hunt",
-      "total": 427,
+      "total": 474,
       "translated": 427,
-      "lastDate": "2026-04-19T03:36:20.000Z"
+      "lastDate": "2026-04-20T06:42:14.000Z"
     },
     {
       "name": "OpenAI Blog",
@@ -31,8 +31,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 209,
-      "translated": 208,
+      "total": 210,
+      "translated": 209,
       "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
     {
@@ -44,7 +44,7 @@
     {
       "name": "New Atlas",
       "total": 162,
-      "translated": 161,
+      "translated": 162,
       "lastDate": "Wed, 15 Apr 2026 23:03:00 GMT"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Register",
-      "total": 107,
+      "total": 109,
       "translated": 107,
-      "lastDate": "2026-04-19T23:00:14.000Z"
+      "lastDate": "2026-04-20T08:00:13.000Z"
     },
     {
       "name": "Onefootball.com",
@@ -97,8 +97,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 77,
-      "translated": 76,
+      "total": 78,
+      "translated": 77,
       "lastDate": "Wed, 15 Apr 2026 21:00:47 GMT"
     },
     {
@@ -132,16 +132,16 @@
       "lastDate": "Wed, 15 Apr 2026 12:10:00 +0000"
     },
     {
+      "name": "AI News",
+      "total": 35,
+      "translated": 34,
+      "lastDate": "Wed, 15 Apr 2026 16:28:19 +0000"
+    },
+    {
       "name": "Slashdot.org",
       "total": 35,
       "translated": 35,
       "lastDate": "2026-04-09T06:28:29Z"
-    },
-    {
-      "name": "AI News",
-      "total": 34,
-      "translated": 34,
-      "lastDate": "Wed, 15 Apr 2026 16:28:19 +0000"
     },
     {
       "name": "pymnts.com",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-20T06:33:01.616Z"
+  "generatedAt": "2026-04-20T09:00:34.629Z"
 }
