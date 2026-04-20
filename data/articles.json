@@ -90824,6 +90824,163 @@
       "priority": "hot",
       "fetchedAt": "2026-04-19T23:33:43.707Z",
       "created_at": "2026-04-19T23:33:43.707Z"
+    },
+    {
+      "id": 4551,
+      "source": "MarkTechPost",
+      "title_en": "Moonshot AI and Tsinghua Researchers Propose PrfaaS: A Cross-Datacenter KVCache Architecture that Rethinks How LLMs are Served at Scale",
+      "description_en": "For years, the way large language models handle inference has been stuck inside a box — literally. The high-bandwidth RDMA networks that make modern LLM serving work have confined both prefill and decode to the same datacenter, sometimes even the same rack. A team of researchers at Moonshot AI and Tsinghua University is making the […]\nThe post Moonshot AI and Tsinghua Researchers Propose PrfaaS: A Cross-Datacenter KVCache Architecture that Rethinks How LLMs are Served at Scale appeared first on ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/19/moonshot-ai-and-tsinghua-researchers-propose-prfaas-a-cross-datacenter-kvcache-architecture-that-rethinks-how-llms-are-served-at-scale/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-19-at-5.50.12-PM-1.png",
+      "pub_date": "Mon, 20 Apr 2026 00:51:27 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-20T03:49:11.505Z",
+      "created_at": "2026-04-20T03:49:11.505Z"
+    },
+    {
+      "id": 4552,
+      "source": "New Atlas",
+      "title_en": "Self-improving AI model has people talking – for good reason",
+      "description_en": "If it feels like AI is developing too fast to keep up with, a group of Chinese researchers have some bad news – because they've developed a model that \"evolves\" on its own, creating better versions of itself with each self-analytical loop.\nContinue Reading\nCategory: AI and Humanoids, Technology\nTags: Artificial Intelligence, China",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/ai-humanoids/self-evolving-ai-research/",
+      "image_url": null,
+      "pub_date": "Mon, 20 Apr 2026 02:03:00 GMT",
+      "author": "Bronwyn Thompson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-20T03:49:11.986Z",
+      "created_at": "2026-04-20T03:49:11.986Z"
+    },
+    {
+      "id": 4553,
+      "source": "New Atlas",
+      "title_en": "Smart bike helmet buckle wirelessly shares rider info in emergencies",
+      "description_en": "While there are already bike helmets that provide vital wearer info in the event of a crash, they typically use electronics that must be built into the helmet. A new high-tech buckle, however, can simply be added to any existing helmet.\nContinue Reading\nCategory: Bicycles, Transport\nTags: Helmets, Cycling, Road Safety, NFC",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/bicycles/fidlock-snap-helmet-buckle/",
+      "image_url": null,
+      "pub_date": "Mon, 20 Apr 2026 01:03:00 GMT",
+      "author": "Ben Coxworth",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-20T03:49:11.986Z",
+      "created_at": "2026-04-20T03:49:11.986Z"
+    },
+    {
+      "id": 4554,
+      "source": "Interesting Engineering",
+      "title_en": "Got a dark personality? Psychologists can help you choose your career wisely",
+      "description_en": "Know a “dark personality?” A new study explores how psychopaths and narcissists choose their careers....",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/dark-personality-careers-selection",
+      "image_url": "https://www.youtube.com/embed/q-hr-Qc4Dz0",
+      "pub_date": "Mon, 20 Apr 2026 03:38:53 +0000",
+      "author": "Maria Mocerino",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-20T03:49:14.031Z",
+      "created_at": "2026-04-20T03:49:14.031Z"
+    },
+    {
+      "id": 4555,
+      "source": "Interesting Engineering",
+      "title_en": "Humidity boosts performance of 3D-printed nanogenerator instead of degrading it",
+      "description_en": "Humidity usually kills static electricity – but not in every case. In dry air, a...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/humidity-boosts-performance-3d-printed-device",
+      "image_url": null,
+      "pub_date": "Mon, 20 Apr 2026 03:04:23 +0000",
+      "author": "Bojan Stojkovski",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-20T03:49:14.031Z",
+      "created_at": "2026-04-20T03:49:14.031Z"
+    },
+    {
+      "id": 4556,
+      "source": "Futurism",
+      "title_en": "Madison Square Garden Reportedly Used Facial Recognition to Stalk Trans Woman For Two Years",
+      "description_en": "\"She wasn't taking pictures in restricted areas. She wasn't trying to go places she shouldn't be.\"\nThe post Madison Square Garden Reportedly Used Facial Recognition to Stalk Trans Woman For Two Years appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/msg-facial-recognition-cameras",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/msg-facial-recognition-cameras.jpg?quality=85",
+      "pub_date": "Sun, 19 Apr 2026 20:15:00 -0400",
+      "author": "Joe Wilkins",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Cybersecurity",
+          "$": {
+            "domain": "https://futurism.com/category/cybersecurity"
+          }
+        },
+        {
+          "_": "Data Privacy",
+          "$": {
+            "domain": "https://futurism.com/category/data-privacy"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        },
+        {
+          "_": "Facial recognition",
+          "$": {
+            "domain": "https://futurism.com/category/facial-recognition"
+          }
+        },
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        },
+        {
+          "_": "Privacy",
+          "$": {
+            "domain": "https://futurism.com/category/privacy"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-20T03:49:14.234Z",
+      "created_at": "2026-04-20T03:49:14.234Z"
     }
   ]
 }
