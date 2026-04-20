@@ -1,9 +1,9 @@
 {
-  "total": 4669,
-  "translated": 4669,
+  "total": 4689,
+  "translated": 4689,
   "untranslated": 0,
-  "today": 119,
-  "week": 981,
+  "today": 139,
+  "week": 1001,
   "sources": [
     {
       "name": "Product Hunt",
@@ -25,32 +25,32 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 254,
-      "translated": 254,
+      "total": 256,
+      "translated": 256,
       "lastDate": "Wed, 15 Apr 2026 16:27:58 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 216,
-      "translated": 216,
+      "total": 221,
+      "translated": 221,
       "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
     {
       "name": "Futurism",
-      "total": 207,
-      "translated": 207,
+      "total": 210,
+      "translated": 210,
       "lastDate": "Wed, 15 Apr 2026 16:15:26 -0400"
     },
     {
       "name": "New Atlas",
-      "total": 165,
-      "translated": 165,
+      "total": 166,
+      "translated": 166,
       "lastDate": "Wed, 15 Apr 2026 23:03:00 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 154,
-      "translated": 154,
+      "total": 157,
+      "translated": 157,
       "lastDate": "Wed, 15 Apr 2026 22:25:30 +0000"
     },
     {
@@ -61,21 +61,21 @@
     },
     {
       "name": "The Decoder",
-      "total": 120,
-      "translated": 120,
+      "total": 122,
+      "translated": 122,
       "lastDate": "Wed, 15 Apr 2026 18:39:44 +0000"
     },
     {
       "name": "TechCrunch AI",
-      "total": 117,
-      "translated": 117,
+      "total": 118,
+      "translated": 118,
       "lastDate": "Wed, 15 Apr 2026 19:28:36 +0000"
     },
     {
       "name": "The Register",
-      "total": 114,
-      "translated": 114,
-      "lastDate": "2026-04-20T15:24:54.000Z"
+      "total": 115,
+      "translated": 115,
+      "lastDate": "2026-04-20T16:07:14.000Z"
     },
     {
       "name": "Onefootball.com",
@@ -91,8 +91,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 80,
-      "translated": 80,
+      "total": 81,
+      "translated": 81,
       "lastDate": "Wed, 15 Apr 2026 21:00:47 GMT"
     },
     {
@@ -115,9 +115,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 63,
-      "translated": 63,
-      "lastDate": "2026-04-19T19:54:52.000Z"
+      "total": 64,
+      "translated": 64,
+      "lastDate": "2026-04-20T16:58:39.000Z"
     },
     {
       "name": "Github.com",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-20T17:54:56.317Z"
+  "generatedAt": "2026-04-20T19:01:04.095Z"
 }
