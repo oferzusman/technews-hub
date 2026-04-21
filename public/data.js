@@ -1174,7 +1174,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 51,
-    "t": "Digging for clues about the North Pole’s past\n\nIn the past, even with an icebreaker and during peak melt season, getting to the North Pole wasn’t a sure bet. It took favorable winds to crack the frozen ocean surface, and ships had to fight through ice that had grown many meters thick over several winters. In the summer of 2025, though, Jochen Knies…",
+    "t": "חוקרים חופרים לחשוף את סודות הקוטב הצפוני\n\nבעבר, אפילו עם שובר קרח והיותו בעונת ההיתוך, להגיע לקוטב הצפוני היה משימה מסוכנת - צריך היה מזל עם הרוחות כדי לשבור את השכבה הקפואה של האוקיינוס. בקיץ 2025, החוקר יוכן קניס הצליח להשיג מידע חדש על ההיסטוריה של הקוטב. המחקר החדש עשוי לשנות את ההבנה שלנו על שינויי האקלים בעבר ובעתיד.",
     "d": "Tue, 21 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -1197,7 +1197,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 52,
-    "t": "Siemens introduces AI system for automation engineering\n\nSiemens has introduced the Eigen Engineering Agent, an AI system designed to plan and validate automation engineering tasks in operational environments. The system uses multi-step reasoning and self-correction to carry out tasks autonomously and operates directly inside engineering platforms, letting it to complete workflows from initial design through to validation. Autonomous engineering workflows The agent […]\nThe post Siemens introduces AI system for automation engineering appeared first on ",
+    "t": "סימנס משיקה מערכת AI לאוטומציה הנדסית\n\nסימנס הציגה את ה-Eigen Engineering Agent, סוכן AI שמתכננן ומאמת משימות הנדסיות באופן אוטונומי ישירות בתוך פלטפורמות הנדסה. המערכת משתמשת בחשיבה מרובת שלבים והתקנה עצמית כדי להשלים את כל תהליך העבודה מהעיצוב הראשוני ועד לאימות, מה שעשוי לחסוך משמעותית בזמן וטעויות בתהליכי אוטומציה מורכבים.",
     "d": "Tue, 21 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -1213,7 +1213,6 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "robotics",
       "agents"
     ],
     "imp": "low",
@@ -1222,7 +1221,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 53,
-    "t": "Enthusiasts build an interactive online ‘Listening Museum’ of iconic mechanical keyboard audio samples — 36 mechanical masterpieces available for you to audibly try out\n\nThe Listening Museum presents a collection of 36 iconic to modern classic keyboards that have been multisampled and uploaded into an interactive site.",
+    "t": "עקטואליים בנו 'מוזיאון האזנה' אינטראקטיבי עם 36 קלידים מכניים אגדיים — תוכלו לשמוע בעצמכם כל מוצר\n\nיצא לאוויר מוזיאון דיגיטלי חדש שמציע לכם לחוות את הצליל המיוחד של 36 קלידים מכניים קלאסיים, מה שנקרא בזמנו 'מוצרי קדיש' בעולם ה-mechanical keyboards. הטיפים בחרו דגמים איקוניים, מדשנים ישנים ועד למודלים חדשים, ואפשרו לכל אחד להאזין ולהשוות בין קולות שונים בדקה אחת. אם אתם מנומנמים של רעש הקלידים הטוב, זה אתר שמחייב לבקר בו.",
     "d": "Tue, 21 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -1245,7 +1244,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 54,
-    "t": "Last day to grab $179 smart drill that puts workshop power in your hands\n\nBridging the gap between portability and precision, the Spesyn Tool 3 is a smart cordless drill that's more like a workshop on-the-go. However, you only have a day left to grab it at US$179, 36% off its expected retail price, before its hugely successful launch campaign ends.\nContinue Reading\nCategory: Knives and Multitools, Gear, Outdoors\nTags: Kickstarter, Construction, Tools, Smart technology, Portable, Home-built",
+    "t": "עוד יום לתפוס מקדחה חכמה ב-179 דולר שתשנה את הסדנה שלכם\n\nה-Spesyn Tool 3 היא מקדחה אלחוטית חכמה שמביאה כוח סדנה שלם לכף ידכם - זה כמו סדנה ניידת שלכם. בעוד 24 שעות בלבד תסתיים הקמפיין של קיקסטארטר ותאבדו את ההנחה המטורפת של 36% מחיר הקמעונאות (רק $179 במקום המחיר הרגיל), אז אם חשבתם על זה - זה הזמן.",
     "d": "Tue, 21 Apr 2026 09:57:00 GMT",
     "v": 0,
     "l": [
@@ -1268,7 +1267,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 55,
-    "t": "Amazon pours $33B into Anthropic, which promises to spend $100B right back on AWS\n\nAmazon is pouring up to another $25 billion into Anthropic. In return, the AI company has committed to spending more than $100 billion on AWS infrastructure over the next ten years. The deal is meant to ease Anthropic's acute capacity crunch, but it also has the circular quality that's become typical of the AI industry.\nThe article Amazon pours $33B into Anthropic, which promises to spend $100B right back on AWS appeared first on The Decoder.",
+    "t": "אמזון משקיעה 33 מיליארד דולר באנתרופיק, שמתחייבת להשקיע 100 מיליארד בחזרה ב-AWS\n\nאמזון הטלה סכום ענק של 25 מיליארד דולר נוסף לחברת אנתרופיק, שבתמורה התחייבה להשקיע יותר מ-100 מיליארד דולר בתשתיות AWS בעשור הקרוב. ההסכם אמור לעזור לאנתרופיק להתמודד עם משבר קיבולת חמור, אבל יש לזה ריח של עסקה מעגלית די אופיינית ליצור ה-AI. עוד דוגמה לאופן שבו השחקנים הגדולים בתעשיית הבינה המלאכותית משתלבים יותר ויותר זה בזה.",
     "d": "Tue, 21 Apr 2026 09:56:21 +0000",
     "v": 0,
     "l": [
@@ -1282,22 +1281,19 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Anthropic",
       "Amazon"
     ],
     "tags": [
       "news",
-      "model",
-      "product",
-      "funding"
+      "product"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 56,
-    "t": "Jeff Bezos nears $10 billion funding round for AI lab \"Project Prometheus\"\n\nJeff Bezos is about to close a $10 billion funding round for his AI lab codenamed \"Project Prometheus,\" the Financial Times reports.\nThe article Jeff Bezos nears $10 billion funding round for AI lab \"Project Prometheus\" appeared first on The Decoder.",
+    "t": "ג'ף בזוס קרוב לסגור סיבוב מימון של 10 מיליארד דולר לעמותת AI שלו 'Project Prometheus'\n\nבזוס בדרך לסגור עסקה ענקית - 10 מיליארד דולר למעבדת ה-AI הסודית שלו שנקראת 'Project Prometheus', על פי כתבות מ-Financial Times. זה עוד הוכחה לכך שמיליארדרים וחברות ענק מתחרות בחומ בתחום ה-AI, ובזוס לא חושב לעשות מצעד בחזרה.",
     "d": "Tue, 21 Apr 2026 09:53:48 +0000",
     "v": 0,
     "l": [
@@ -1312,16 +1308,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 57,
-    "t": "Airbus’ upgraded A400M mothership can launch 50 strike drones or 12 cruise missiles\n\nAirbus revealed a new plan to transform its A400M Atlas military transport into a powerful...",
+    "t": "מטוס הביצוע של איירבוס: A400M משודרג יוכל לשגר 50 מל\"טים או 12 טילי סיור\n\nאיירבוס חשפה תוכנית חדשה שתהפוך את מטוס התחזוקה הצבאי A400M Atlas לפלטפורמה תקיפה אמינה - המטוס יוכל לשגר עד 50 מל\"טי תקיפה או 12 טילי סיור במשימה אחת. זה מעניק ליכולת ההפעלה שלה גמישות רבה לשימוש בתרחישים שונים, מהתקיפה הישירה ועד למשימות מעקב וכיסוי שטחים רחבים.",
     "d": "Tue, 21 Apr 2026 09:40:33 +0000",
     "v": 0,
     "l": [
@@ -1344,7 +1339,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 58,
-    "t": "HiBreak Dual is an attempt at a more practical E Ink phone\n\nBigme’s HiBreak Dual pairs a 6.13-inch E Ink display with a secondary LCD screen, aiming to create a distraction-free reading device which also offers the functionality of an everyday smartphone.\nContinue Reading\nCategory: Mobile Technology, Consumer Tech, Technology\nTags: E-Ink, smartphones, LCD",
+    "t": "HiBreak Dual - ניסיון אמיתי לטלפון E Ink שבעצם שימושי\n\nBigme הגיעה עם מכשיר חכם שמשלב מסך E Ink בגודל 6.13 אינץ' עם תצוגת LCD משנית, בניסיון ליצור דיוויס קריאה שלא יעצור אתכם כל חמש דקות לבדוק תגובות בווצאפ. המשפחה הקטנה של טלפוני E Ink סוף סוף צומחת עם משהו שמחברת אמיתית חושבת שמשתמשים בעצם רוצים.",
     "d": "Tue, 21 Apr 2026 09:01:59 GMT",
     "v": 0,
     "l": [
@@ -1367,7 +1362,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 59,
-    "t": "Why are respected film-makers suddenly embracing AI?\n\nFrom Soderbergh to Aronofsky, esteemed Hollywood directors are starting to find ways to include artificial intelligence in the production of their films\nIn Steven Soderbergh’s beguiling new movie The Christophers, a reclusive artist (Ian McKellen) tangles with the quiet art forger (Michaela Coel) who his greedy children have hired to secretly finish further entries in a well-known painting series. The movie is smart and provocative about the nature of artistry and authorship, exploring what it m",
+    "t": "למה במפתיע גם במאים מכובדים מאימצים AI?\n\nסודרברג, ארונופסקי והמאים הגדולים בהוליווד התחילו לשלב AI בייצור הסרטים שלהם. בסרטו החדש של סודרברג 'The Christophers', הוא משתלב בחוכמה את השאלות של יצירתיות ודוקטרינה של היוצר - וזה רק ההתחלה של מגמה גדולה בתעשיית הסרט שמחקרת כיצד AI יכול להיות כלי יצירתי בידי אמנים מוכרים.",
     "d": "Tue, 21 Apr 2026 09:00:20 GMT",
     "v": 0,
     "l": [
@@ -1382,8 +1377,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/d51f56e4afccb156f83136389e5151df98e2deac/969_257_1559_1248/master/1559.jpg?width=140&quality=85&auto=format&fit=max&s=3523a1acdd30508434a87c10237258a4",
@@ -1791,7 +1785,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 77,
-    "t": "Linear attention goes global in molecular dynamics",
+    "t": "Linear attention הופך לגלובלי בדינמיקה מולקולרית\n\nמחקר חדש מראה איך טכניקות attention לינאריות יכולות להשתנות למודל גלובלי שלם עבור סימולציות דינמיקה מולקולרית, מה שפותח דלתות למידול מדויק יותר של התנהגות חלקיקים בסקלה גדולה. זה יכול להיות משחק קשה לחוקרים בכימיה חישובית וחומרים, כי זה אומר שיוכלו לעבוד עם דגמים יותר מהירים וחסכוניים. המחקר פורסם ב-Nature Machine Intelligence וזו עוד הוכחה שאלגוריתמים מקסימים עדכניים אפילו שנים אחרי חידוש ה-transformers.",
     "d": "2026-04-21T00:00:00.000Z",
     "v": 0,
     "l": [
@@ -1814,7 +1808,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 78,
-    "t": "Predicting RNA 3D structure and conformers using a pre-trained secondary structure model and structure-aware attention",
+    "t": "חיזוי מבנה תלת-ממדי של RNA וקונפורמציות שלו באמצעות מודל שנוכל מראש וـ Attention המודע למבנה\n\nחוקרים פיתחו שיטה חדשה שמצליחה לחזות איך מולקולות RNA מתקפלות במרחב תלת-ממדי, תוך שימוש ב-AI שכבר למד את המבנה הסטנדרטי של RNA. המודל משתמש בטכניקת attention חכמה שמבינה את המבנה הגיאומטרי של המולקולה, וזה יכול להוביל להבנה טובה יותר של פונקציות ביולוגיות חשובות. זו עוד הוכחה לכוח של AI לעזור לנו להבין טוב יותר את המיקרוביולוגיה שלנו. מקור: Nature Machine Intelligence",
     "d": "2026-04-21T00:00:00.000Z",
     "v": 0,
     "l": [
@@ -1837,7 +1831,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 79,
-    "t": "Scaling Codex to enterprises worldwide\n\nOpenAI launches Codex Transformation Partners, a program with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle.",
+    "t": "Codex מגיע לפי הארגונים ברחבי העולם\n\nOpenAI השיקה תוכנית Codex Transformation Partners עם ענקיות כמו Accenture, PwC ו-Infosys, שמטרתה לעזור לחברות גדולות לפרוס ולהרחיב את השימוש ב-Codex בכל שלבי פיתוח התוכנה. זה בעצם OpenAI אומרת: אנחנו לא רק שומרים את הטכנולוגיה הזאת לעצמנו, אלא עוזרים לארגונים גדולים לשלב אותה בתהליכי העבודה שלהם. מדובר על זוג על הפוטנציאל של AI בתוך תהליך הפיתוח של סופטוור בקנה מידה ארגוני.",
     "d": "Tue, 21 Apr 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -1857,13 +1851,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "medium",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 80,
-    "t": "AI and the Future of Cybersecurity: Why Openness Matters",
+    "t": "AI ועתיד אבטחת המידע: למה הפתיחות חשובה\n\nבעולם שמאיים יותר כל יום, AI הופך להיות כלי קריטי בקרב הגנה על תשתיות דיגיטליות - אבל רק אם נשאיר את הדלתות פתוחות. Hugging Face מסבירים למה מודלים open-source וקהילות פתוחות הן חיוניות כדי שאנחנו לא נישארים בחזית ההגנה בפני איומים הולכים וגדלים. התחזוקה של ecosystem שדיפנסיבי אבל זמין לכולם - זה המפתח לעתיד בטוח יותר בסייבר.",
     "d": "Tue, 21 Apr 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -1878,8 +1872,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -103759,7 +103752,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4312,
-    "t": "Magic Layers by Canva\n\nDiscussion\n            |\n            Link",
+    "t": "Magic Layers של Canva\n\nקנווה הציגה את Magic Layers, כלי חדש שמשתמש בAI כדי להפוך את תהליך העיצוב לפשוט וביעיל יותר. התכונה מאפשרת למשתמשים לעבוד עם שכבות בצורה חכמה יותר, כשה-AI עוזר במיקום, גודל והצבע של האלמנטים השונים. זה עוד צעד בדרך של קנווה להנגשת עיצוב למסות - גם מי שלא מעולם לא עשה ניידות יוכל ליצור כמו מעצב.",
     "d": "2026-04-02T11:02:23.000Z",
     "v": 0,
     "l": [
@@ -110606,7 +110599,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4595,
-    "t": "GladeKit\n\nDiscussion\n            |\n            Link",
+    "t": "GladeKit\n\nנראה שGladeKit היא כלי חדשה שהוצגה ב-Product Hunt, אבל הפרטים עדיין מעט בערפל. מבחינת מה שאנחנו יודעים, זה נראה כמו משהו שיכול להיות שימושי למפתחים או לחברות טכנולוגיה, אבל נצטרך להחכות לעוד מידע כדי להבין באמת מה זה עושה ואיך זה יכול לשנות את המשחק.",
     "d": "2026-02-13T19:30:01.000Z",
     "v": 0,
     "l": [
