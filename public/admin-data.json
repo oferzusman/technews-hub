@@ -1,9 +1,9 @@
 {
-  "total": 4896,
-  "translated": 4881,
-  "untranslated": 15,
-  "today": 174,
-  "week": 1041,
+  "total": 4908,
+  "translated": 4896,
+  "untranslated": 12,
+  "today": 186,
+  "week": 1053,
   "sources": [
     {
       "name": "Product Hunt",
@@ -31,7 +31,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 243,
+      "total": 244,
       "translated": 243,
       "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
@@ -44,19 +44,19 @@
     {
       "name": "Ars Technica",
       "total": 178,
-      "translated": 176,
+      "translated": 178,
       "lastDate": "Wed, 15 Apr 2026 22:25:30 +0000"
     },
     {
       "name": "New Atlas",
       "total": 178,
-      "translated": 177,
+      "translated": 178,
       "lastDate": "Wed, 15 Apr 2026 23:03:00 GMT"
     },
     {
       "name": "CNBC Tech",
       "total": 152,
-      "translated": 151,
+      "translated": 152,
       "lastDate": "Wed, 15 Apr 2026 23:58:12 GMT"
     },
     {
@@ -68,7 +68,7 @@
     {
       "name": "TechCrunch AI",
       "total": 130,
-      "translated": 129,
+      "translated": 130,
       "lastDate": "Wed, 15 Apr 2026 19:28:36 +0000"
     },
     {
@@ -91,7 +91,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 90,
+      "total": 91,
       "translated": 90,
       "lastDate": "Wed, 15 Apr 2026 21:00:47 GMT"
     },
@@ -108,6 +108,12 @@
       "lastDate": "2026-04-09T07:00:00Z"
     },
     {
+      "name": "MIT Technology Review",
+      "total": 73,
+      "translated": 63,
+      "lastDate": "Wed, 15 Apr 2026 12:10:00 +0000"
+    },
+    {
       "name": "The Verge AI",
       "total": 72,
       "translated": 72,
@@ -118,12 +124,6 @@
       "total": 70,
       "translated": 70,
       "lastDate": "Wed, 15 Apr 2026 17:21:06 +0000"
-    },
-    {
-      "name": "MIT Technology Review",
-      "total": 63,
-      "translated": 53,
-      "lastDate": "Wed, 15 Apr 2026 12:10:00 +0000"
     },
     {
       "name": "Github.com",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-21T21:41:46.545Z"
+  "generatedAt": "2026-04-21T22:25:35.893Z"
 }
