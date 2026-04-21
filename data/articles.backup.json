@@ -95485,7 +95485,7 @@
         "Anthropic"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-21T11:37:41.877Z",
       "created_at": "2026-04-21T11:37:41.877Z"
     },
@@ -95507,7 +95507,7 @@
         "Anthropic"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-21T11:37:41.878Z",
       "created_at": "2026-04-21T11:37:41.878Z"
     },
@@ -95530,7 +95530,7 @@
         "Project Prometheus"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-21T11:37:41.878Z",
       "created_at": "2026-04-21T11:37:41.878Z"
     },
@@ -95550,7 +95550,7 @@
         "App"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-21T11:37:41.965Z",
       "created_at": "2026-04-21T11:37:41.965Z"
     },
@@ -95567,7 +95567,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-21T11:37:42.077Z",
       "created_at": "2026-04-21T11:37:42.078Z"
     },
@@ -95584,7 +95584,7 @@
       "author": "Bronwyn Thompson",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-21T11:37:42.631Z",
       "created_at": "2026-04-21T11:37:42.631Z"
     },
@@ -95661,7 +95661,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-21T11:37:42.832Z",
       "created_at": "2026-04-21T11:37:42.832Z"
     },
@@ -95761,7 +95761,7 @@
       "author": "Sujita Sinha",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-21T11:37:43.345Z",
       "created_at": "2026-04-21T11:37:43.345Z"
     },
@@ -95789,7 +95789,7 @@
         "physical ai"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-21T11:37:43.420Z",
       "created_at": "2026-04-21T11:37:43.420Z"
     },
@@ -95943,7 +95943,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-21T11:37:43.731Z",
       "created_at": "2026-04-21T11:37:43.731Z"
     },
@@ -95963,7 +95963,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-21T11:37:43.731Z",
       "created_at": "2026-04-21T11:37:43.731Z"
     },
@@ -95984,9 +95984,341 @@
         "Keyboards"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-21T11:37:43.731Z",
       "created_at": "2026-04-21T11:37:43.731Z"
+    },
+    {
+      "id": 4798,
+      "source": "Ars Technica",
+      "title_en": "Global growth in solar \"the largest ever observed for any source\"",
+      "description_en": "The Energy Information Agency says we've entered the Age of Electricity.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1322960375-1152x648.jpg",
+      "pub_date": "Tue, 21 Apr 2026 11:00:16 +0000",
+      "author": "\n                    John Timmer\n                ",
+      "categories": [
+        "Science",
+        "carbon emissions",
+        "Energy",
+        "green",
+        "renewable energy",
+        "solar"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T12:45:08.189Z",
+      "created_at": "2026-04-21T12:45:08.189Z"
+    },
+    {
+      "id": 4799,
+      "source": "The Decoder",
+      "title_en": "The flood of AI music is reshaping how streaming platforms handle new uploads",
+      "description_en": "Music streaming service Deezer reports that 44 percent of all songs uploaded to its platform daily are now fully AI-generated. The company uses its own detection technology and plans to license it to the broader music industry.\nThe article The flood of AI music is reshaping how streaming platforms handle new uploads appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/the-flood-of-ai-music-is-reshaping-how-streaming-platforms-handle-new-uploads/",
+      "image_url": null,
+      "pub_date": "Tue, 21 Apr 2026 12:24:00 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "AI and music",
+        "Deezer"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T12:45:09.461Z",
+      "created_at": "2026-04-21T12:45:09.461Z"
+    },
+    {
+      "id": 4800,
+      "source": "The Decoder",
+      "title_en": "Corporate America's favorite ChatGPT phrase doubled twice since 2024",
+      "description_en": "A new language analysis reveals how one telltale sentence pattern exposes companies that are letting ChatGPT handle their communications. Usage has quadrupled since 2024.\nThe article Corporate America's favorite ChatGPT phrase doubled twice since 2024 appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/corporate-americas-favorite-chatgpt-phrase-doubled-twice-since-2024/",
+      "image_url": null,
+      "pub_date": "Tue, 21 Apr 2026 12:20:48 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and media",
+        "ChatGPT"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T12:45:09.461Z",
+      "created_at": "2026-04-21T12:45:09.461Z"
+    },
+    {
+      "id": 4801,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: turning down human noise, and LA’s stunning subway upgrade",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The noise we make is hurting animals. Can we learn to shut up? As human society has expanded, animals have started struggling to hear one another. For many birds, the noise…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/",
+      "image_url": null,
+      "pub_date": "Tue, 21 Apr 2026 12:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T12:45:09.516Z",
+      "created_at": "2026-04-21T12:45:09.516Z"
+    },
+    {
+      "id": 4802,
+      "source": "The Guardian AI",
+      "title_en": "Jean-Michel Jarre urges music and film industries to embrace AI",
+      "description_en": "French musician’s comments are in stark contrast to fears expressed by artists such as Elton John and Dua Lipa\nJean-Michel Jarre has attacked the conservatism of the music and film industries over AI and urged them to embrace the technology instead of being fearful and “very anti-AI”.\nJarre, one of the pioneers of electronic music in the 1970s, said while the existing creative industries were “freaking out” over the technology, artists would use AI “to create the cinema of tomorrow, the hip-hop ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/music/2026/apr/21/jean-michel-jarre-music-film-industries-embrace-ai",
+      "image_url": "https://i.guim.co.uk/img/media/b96991a924842fb02d5542258dff00004ec45bf3/405_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=deb8c206387fe8875fa2d4834d8a4caf",
+      "pub_date": "Tue, 21 Apr 2026 12:20:35 GMT",
+      "author": "Robert Booth in Cannes",
+      "categories": [
+        {
+          "_": "Music",
+          "$": {
+            "domain": "https://www.theguardian.com/music/music"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Electronic music",
+          "$": {
+            "domain": "https://www.theguardian.com/music/electronicmusic"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T12:45:10.259Z",
+      "created_at": "2026-04-21T12:45:10.259Z"
+    },
+    {
+      "id": 4803,
+      "source": "The Guardian AI",
+      "title_en": "Diplomatic duties for Tim Cook after stepping down as Apple CEO",
+      "description_en": "John Ternus ascends the throne – but Cook will stay on to manage tech giant’s foreign policy as executive chair\nHello, and welcome to TechScape. I’m your host, Blake Montgomery, US tech editor at the Guardian, writing to you after seeing The Jellicle Ball, a revival of Cats that I found fabulous and which the Guardian called “thrillingly new”.\nShares in Allbirds surge after maker of wool sneakers announces pivot to AI\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/apr/21/tim-cook-apple-techscape",
+      "image_url": "https://i.guim.co.uk/img/media/952171d4a47ae212d53b5a900a25669a6e26e870/313_0_4679_3744/master/4679.jpg?width=140&quality=85&auto=format&fit=max&s=ad20e38d1d87802d89d0ed303a8d1da7",
+      "pub_date": "Tue, 21 Apr 2026 12:02:02 GMT",
+      "author": "Blake Montgomery",
+      "categories": [
+        {
+          "_": "Tim Cook",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/tim-cook"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Sam Altman",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/sam-altman"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T12:45:10.259Z",
+      "created_at": "2026-04-21T12:45:10.259Z"
+    },
+    {
+      "id": 4804,
+      "source": "New Atlas",
+      "title_en": "Tomb feathers from wild parrots reveal extensive ancient trade route",
+      "description_en": "Parrot feathers found at a thousand-year-old burial tomb in Peru provide new evidence for an expansive live bird trade network across the Andes Mountains that pre-dates the Inca Empire, a new study suggests.\nContinue Reading\nCategory: Archaeology, Science\nTags: Parrot, Birds, Inca, Archaeology, Australian National University",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/history/feathers-parrots-trade/",
+      "image_url": null,
+      "pub_date": "Tue, 21 Apr 2026 11:32:00 GMT",
+      "author": "Jules Roscoe",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T12:45:10.270Z",
+      "created_at": "2026-04-21T12:45:10.270Z"
+    },
+    {
+      "id": 4805,
+      "source": "The Register",
+      "title_en": "AI-assisted intruders pwned Vercel via OAuth abuse and a pilfered employee account",
+      "description_en": "CEO suspects silicon sidekick behind 'surprising velocity' breach - cyber crims shop stolen data for $2M Vercel's CEO reckons the crooks behind its recent breach likely had a helping hand from AI, saying the attackers moved with \"surprising velocity\" and a deep understanding of the company's infrastructure.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/vercel_ceo_points_to_aidriven/",
+      "image_url": null,
+      "pub_date": "2026-04-21T12:17:43.000Z",
+      "author": "Carly Page",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T12:45:10.281Z",
+      "created_at": "2026-04-21T12:45:10.281Z"
+    },
+    {
+      "id": 4806,
+      "source": "Interesting Engineering",
+      "title_en": "Kairos breaks ground for first 4th-gen nuclear reactor in US to power Google data centers",
+      "description_en": "Kairos Power, a maker of small modular reactors (SMRs), has broken ground on its second...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/us-kairos-breaks-ground-hermes-nuclear-reactor",
+      "image_url": null,
+      "pub_date": "Tue, 21 Apr 2026 12:21:51 +0000",
+      "author": "Ameya Paleja",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T12:45:11.218Z",
+      "created_at": "2026-04-21T12:45:11.218Z"
+    },
+    {
+      "id": 4807,
+      "source": "Interesting Engineering",
+      "title_en": "Video: YouTuber’s homemade nuclear battery draws power from tritium vials’ radiation",
+      "description_en": "A recent experiment by Double M Innovations shows how a simple setup can turn radioactive...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/youtuber-makes-small-nuclear-battery",
+      "image_url": "https://www.youtube.com/embed/MxPEDF7BRCo",
+      "pub_date": "Tue, 21 Apr 2026 12:03:38 +0000",
+      "author": "Sujita Sinha",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T12:45:11.218Z",
+      "created_at": "2026-04-21T12:45:11.218Z"
+    },
+    {
+      "id": 4808,
+      "source": "Tom's Hardware",
+      "title_en": "TP-Link seeks to secure conditional approval from FCC following router import ban — company stresses it is no longer Chinese-owned",
+      "description_en": "TP-Link, one of the most popular consumer router brands in the U.S., met with FCC officials to discuss how it can secure a conditional approval to continue introducing and selling new routers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/networking/routers/tp-link-seeks-to-secure-conditional-approval-from-fcc-following-router-import-ban-company-stresses-it-is-no-longer-chinese-owned",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/B7Abwym66kqFRYiLbXvCib-1280-80.jpg",
+      "pub_date": "Tue, 21 Apr 2026 12:15:58 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Wi-Fi Routers",
+        "Networking"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T12:45:11.432Z",
+      "created_at": "2026-04-21T12:45:11.432Z"
+    },
+    {
+      "id": 4809,
+      "source": "Tom's Hardware",
+      "title_en": "Save a huge $460 on this RTX 5080 gaming PC with a 9800X3D, 32GB of DDR5 RAM, and a 2TB SSD — $3,039.99 sale price nets you this Newegg ABS pre-built powerhouse that's made for 4K gaming",
+      "description_en": "Snag a huge bargain on this ABS Kaze II gaming rig from Newegg, fitted with a 9800X3D, RTX 5080, 32GB of DDR5 RAM, and a 2TB SSD, all for just $3,039.99 using a coupon code.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-a-huge-usd460-on-this-rtx-5080-gaming-pc-with-a-9800x3d-32gb-of-ddr5-ram-and-a-2tb-ssd-usd3-039-99-sale-price-nets-you-this-newegg-abs-pre-built-powerhouse-thats-made-for-4k-gaming",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/CSRLvvx2QYXYFE2uN2owgb-1280-80.png",
+      "pub_date": "Tue, 21 Apr 2026 11:41:35 +0000",
+      "author": " Ben Stockton ",
+      "categories": [
+        "Gaming PCs",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T12:45:11.432Z",
+      "created_at": "2026-04-21T12:45:11.432Z"
+    },
+    {
+      "id": 4810,
+      "source": "CNBC Tech",
+      "title_en": "Apple's next CEO, Warsh's confirmation hearing, the psychedelic stock surge and more in Morning Squawk",
+      "description_en": "Here are five key things investors need to know to start the trading day.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/21/5-things-to-know-before-the-market-opens.html",
+      "image_url": null,
+      "pub_date": "Tue, 21 Apr 2026 12:22:54 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T12:45:11.513Z",
+      "created_at": "2026-04-21T12:45:11.513Z"
+    },
+    {
+      "id": 4811,
+      "source": "CNBC Tech",
+      "title_en": "Amazon adding heavy-duty EV trucks from Einride as it spreads bets on freight decarbonization",
+      "description_en": "Amazon is adding heavy-duty EV trucks from Einride to existing deals for freight electrification with Rivian, Mercedes, as it spreads its climate bets.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/21/amazon-einride-ev-trucks-freight-electrification.html",
+      "image_url": null,
+      "pub_date": "Tue, 21 Apr 2026 12:08:45 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T12:45:11.513Z",
+      "created_at": "2026-04-21T12:45:11.513Z"
     }
   ]
 }
