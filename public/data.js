@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "China’s 1116 MWe Taipingling Unit 1 reactor goes online, set to generate 9bn kWh yearly\n\nChina has brought the first Hualong One nuclear reactor in the Guangdong-Hong Kong-Macao Greater Bay...",
+    "t": "הכור הגרעיני הסיני החדש של צ'ין מתחיל לעבוד - תפוקה של 9 מיליארד קילוואט-שעה בשנה\n\nסין הוציאה לפעולה את כור הגרעין Hualong One הראשון שלה באזור מטרופולין גואנגדונג-הונג קונג-מקאו, וזה יהיה כושר כוח ענק שיספק חשמל לעשרות מיליונים. הכור בעל קיבולת של 1,116 מגוואט צפוי לייצר כ-9 מיליארד קילוואט-שעה מחשמל נקי בשנה - זה משהו כמו להחליף כמו מיליוני מכוניות בנזין במכוניות חשמל. הפרויקט הזה חלק מהמהלך הגדול של סין להחליף פחם בחשמל גרעיני ובאנרגיות מתחדשות.",
     "d": "Tue, 21 Apr 2026 22:05:04 +0000",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Florida to open criminal investigation into OpenAI over ChatGPT’s influence on alleged mass shooter\n\nState attorney general said inquiry will look into whether AI tool offered ‘significant advice’ to campus shooting suspect\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nFlorida’s top prosecutor is to launch a criminal investigation into how the tech company OpenAI and its software tool ChatGPT may influence users’ threats of harm to themselves or others, including whether it “offered significant advice” to a gunman accused of conducting a mass shooting in the st",
+    "t": "פלורידה תפתח חקירה פלילית נגד OpenAI על השפעת ChatGPT על חשוד בירי המוני\n\nהתובע הכללי של פלורידה הכריז שיפתח בדיקה למדי אם ChatGPT התן 'ייעוץ משמעותי' לחשוד בתקיפה קטלנית בקמפוס. החקירה תיבחן את ההשפעה האפשרית של כלי ה-AI על משתמשים שחושבים על פגיעה בעצמם או באחרים, ושאלה חוקית יותר: האם חברות טק צריכות להיות אחראיות למה שהמודל שלהן עלול להציע? \n\nהפרשה מעלה דיון ישראלי חשוב על גבולות האחריות של יצרני AI בעדכון של כלים כמו ChatGPT - כי אמנם המודל בנוי לדחות בקשות מסוכנות, אבל השאלה איך זה בפועל עובד במצבים אמיתיים נשארת פתוחה.\n\nמקור: The Guardian AI",
     "d": "Tue, 21 Apr 2026 21:28:34 GMT",
     "v": 0,
     "l": [
@@ -73,7 +73,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "The new word in home construction could be “plastics”\n\nSingle-use plastics are a persistent source of environmental pollution, and the need to house a growing global population puts increasing pressure on resources such as timber. MIT engineers have an idea that could make a dent in both problems at once. In a recent study, a team led by mechanical engineering professor David Hardt, SM…",
+    "t": "המילה החדשה בבנייה: \"פלסטיק\"\n\nמהנדסים מ-MIT חשבו על משהו ממש חכם - להשתמש בפלסטיקים חד-פעמיים שמזהמים את הסביבה בתור חומר בנייה לבתים. זה יכול לפתור בבת אחת שתי בעיות גדולות: את הבעיה של פסולת פלסטיק וגם את הלחץ על משאבים טבעיים כמו עץ. מחקר חדש של צוות בראשות פרופ׳ דיוויד הרדט מהפקולטה להנדסה מכנית מציע דרך חדשה לחשוב על בניה בעולם שגדל בקצב מטורף. מקור: MIT Technology Review",
     "d": "Tue, 21 Apr 2026 21:00:00 +0000",
     "v": 0,
     "l": [
@@ -90,13 +90,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "MIT Technology Review"
   },
   {
     "id": 5,
-    "t": "A natural protein may protect the GI tract from infection\n\nEmbedded in the body’s mucosal surfaces, proteins called lectins bind to sugars found on cell surfaces. A team led by MIT chemistry professor Laura Kiessling has found that one such protein, intelectin-2, both helps fortify the mucosal barrier and offers broad-spectrum protection against harmful bacteria found in the GI tract.  Intelectin-2 binds to a sugar…",
+    "t": "חלבון טבעי עשוי להגן על המערכת העיכול מפני זיהומים\n\nחוקרים מ-MIT גילו שחלבון בשם intelectin-2, שנמצא בשכבות הריריות של הגוף, לא רק חוזק את המחסום המיקروביאלי אלא גם מספק הגנה רחבה-טווח נגד חיידקים מזיקים במערכת העיכול. התגלית הזו יכולה לפתוח דרכים חדשות לטיפול בזיהומים ברמת הקיום הביולוגי הטבעי של הגוף. מקור: MIT Technology Review",
     "d": "Tue, 21 Apr 2026 21:00:00 +0000",
     "v": 0,
     "l": [
@@ -119,7 +119,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "This tool could show how consciousness works\n\nHow does the physical matter in our brains translate into thoughts, sensations, and emotions? It’s hard to explore that question without neurosurgery. But in a recent paper, MIT philosopher Matthias Michel, Lincoln Lab researcher Daniel Freeman, and colleagues outline a strategy for doing so with an emerging tool called transcranial focused ultrasound. This noninvasive technology…",
+    "t": "הכלי שעלול לחשוף לנו את סודות ההכרה\n\nחוקרים מ-MIT מצאו דרך חדשה וחסרת פירוק לחקור איך המוח שלנו הופך חומר פיזי למחשבות, רגשות וחושים. הם משתמשים בטכנולוגיה שנקראת transcranial focused ultrasound שמאפשרת להם לחקור את המוח ללא צורך בניתוח כירורגי. זו אולי הצעד הבא המשמעותי בהבנת אחד מהמסתורים הגדולים של המדע.",
     "d": "Tue, 21 Apr 2026 21:00:00 +0000",
     "v": 0,
     "l": [
@@ -142,7 +142,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Early life may have breathed oxygen earlier than believed\n\nAround 2.3 billion years ago, a pivotal period known as the Great Oxidation Event set the evolutionary course for oxygen-breathing life on Earth. But MIT geobiologists and colleagues have found evidence that some early forms of life evolved the ability to use oxygen hundreds of millions of years before that. By mapping enzyme sequences from…",
+    "t": "חיים מוקדמים שחנקו חמצן הרבה קודם מما שחשבנו\n\nמה שחשבנו שהיה מהפכה בחמצן לפני 2.3 מיליארד שנים, זה בעצם לא כל הסיפור. חוקרים מ-MIT גילו שחיים מוקדמים למדו להסתמך על חמצן עוד מאות מיליונים שנים לפני זה - ממש כמו שהם התקדמו מההתחלה. על ידי מיפוי רצפי אנזימים, החוקרים הוכחו שאנו זקוקים לחיבור מחדש של החוקים שלנו על היווצרות החיים על כדור הארץ.",
     "d": "Tue, 21 Apr 2026 21:00:00 +0000",
     "v": 0,
     "l": [
@@ -157,16 +157,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "MIT Technology Review"
   },
   {
     "id": 8,
-    "t": "Analog computing from waste heat\n\nHeat generated by electronic devices is usually a problem, but a team led by Giuseppe Romano, a research scientist at MIT’s Institute for Soldier Nanotechnologies, has found a way to use it for data processing that doesn’t rely on electricity. In this analog computing method, input data is encoded not as binary 1s and 0s…",
+    "t": "חישוב אנלוגי מחום בזבוז\n\nחוקרים במכון טכנולוגי של MIT גילו דרך חכמה להפוך את החום המיוזבל מהתקנים אלקטרוניים לעוצמת חישוב – בלי צורך בחשמל כלל. במערכת ה-analog computing החדשנית הזו, המידע מקודד בדרך שונה לגמרי מהאפס והאחד הבינאריים המוכרים לנו, מה שפותח אפשרויות מרתקות לחיסכון אנרגיה ועיבוד נתונים יעיל. זה כמו שלקחו את הבעיה הגדולה של התחממות התקנים והפכו אותה לפתרון.",
     "d": "Tue, 21 Apr 2026 21:00:00 +0000",
     "v": 0,
     "l": [
@@ -189,7 +188,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Get ready for hotter, muggier, stormier summers\n\nA long stretch of humid heat followed by a powerful thunderstorm is a familiar weather pattern in the tropics, but it’s also becoming more common in midlatitude regions such as the US Midwest. A recent study by two MIT scientists identifies a key atmospheric condition that determines how hot, humid, and stormy such a region…",
+    "t": "התכוננו לקיץ יותר חם, לח וסוער\n\nזה עלול להישמע כמו דיווח מטאו מהטרופיקה, אבל המדינות בקווי רוחב בינוניים - כמו ה-Midwest האמריקאי - מתחילות לחוות אותו דפוס מטאורולוגי של חום רטוב הנמשך זמן ממושך ואחריו סערות חזקות. חוקרים מ-MIT זיהו תנאי אטמוספרי מפתח שקובע כמה חם, לח וסוער יהיה האזור, וזה לא חדשות שמשמחות במיוחד. המחקר מצביע על כך שהמגמה הזו הולכת ומתחזקת.",
     "d": "Tue, 21 Apr 2026 21:00:00 +0000",
     "v": 0,
     "l": [
@@ -206,13 +205,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "MIT Technology Review"
   },
   {
     "id": 10,
-    "t": "Recent books from the MIT community\n\nPriority Technologies: Ensuring US Security and Shared ProsperityEdited by Elisabeth B. Reynolds, professor of the practice of urban studies and planning and former executive director of the MIT Task Force on the Work of the Future MIT PRESS, 2026, $24.95 The Shape of Wonder: How Scientists Think, Work, and LiveBy Alan Lightman, professor of the practice…",
+    "t": "ספרים חדשים מקהילת MIT\n\nMIT הוציאה לאור סדרה חדשה של ספרים שמכסה נושאים קריטיים מביטחון ארצי ועד למחשבת מדעית. בין הספרים: 'Priority Technologies' של פרופסור Elisabeth Reynolds שעוסק בטכנולוגיות חיוניות לביטחון אמריקאי וازדהרות משותפת, ו'The Shape of Wonder' של Alan Lightman שחוקר את דרך החשיבה והעבודה של מדענים. הספרים משקפים את המחויבות של MIT להשפיע על דיונים חשובים בחברה ובטכנולוגיה.",
     "d": "Tue, 21 Apr 2026 21:00:00 +0000",
     "v": 0,
     "l": [
@@ -227,9 +226,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -237,7 +234,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "AI at MIT\n\nAt MIT, AI has become so pervasive that you can almost find your way into it without meaning to. Take Sili Deng, an associate professor of mechanical engineering. Deng says she still doesn’t know whether she’d have gone all in on artificial intelligence had it not been for the covid pandemic. She had joined the faculty…",
+    "t": "בינה מלאכותית ב-MIT\n\nבMIT, AI כבר כל כך משולב בכל מקום שאי אפשר להימלט ממנו גם אם לא רוצים. פרופ' סילי דנג מהחוג להנדסה מכנית מספרת שאם לא היה לה הקורונה, היא בטוח לא הייתה קופצת למים העמוקים של בינה מלאכותית. קצת כמו לתחזוקת בית - זה התחיל במקום אחד ופתאום זה בכל מקום. מעניין לראות איך משבר הביא להתעוררות טכנולוגית בחוגי הקבע של האוניברסיטה הכי כוזבת בעולם.",
     "d": "Tue, 21 Apr 2026 21:00:00 +0000",
     "v": 0,
     "l": [
@@ -260,7 +257,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Inventor recalls eye imaging breakthrough\n\nIf you’ve been to an eye doctor and had an image taken of the inside of your eye, chances are good it was done with optical coherence tomography (OCT)—a technology invented by clinician-scientist David Huang ’85, SM ’89, PhD ’93, and now used in 40 million procedures per year.  OCT is a noninvasive technique used…",
+    "t": "הממציא מספר על פריצת הדרך בהדמיה של העיניים\n\nאם אתם כבר הייתם אצל רופא עיניים, סביר להניח שנעשו לכם בדיקה עם טכנולוגיית OCT - שיטה מהפכנית שהומצאה על ידי דוד הואנג מ-MIT, שכיום משמשת ב-40 מיליון פרוצדורות בשנה בכל העולם. הטכנולוגיה הזו היא לא פולשנית ומאפשרת חזון פנימי של העין במדויקות מדהימה, וזה כמו שינוי משחק בתחום הרפואה העינית. המהפכה הזו התחילה בישראל או בחו\"ל? נוצרה בקמפוס של MIT וכיום היא כבר חלק בלתי נפרד מהרפואה המודרנית.",
     "d": "Tue, 21 Apr 2026 21:00:00 +0000",
     "v": 0,
     "l": [
@@ -277,13 +274,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "MIT Technology Review"
   },
   {
     "id": 13,
-    "t": "Caring for service dogs\n\nBrenda Schafer Kennedy, SM ’93, knows that sometimes the best medicine comes with four legs and fur. Kennedy is the chief veterinary and research officer for Canine Companions, a California-based, nationwide organization that provides assistance dogs at no cost to children, veterans, and adults with disabilities.  “The need is enormous: One in four people in…",
+    "t": "טיפול בכלבי עזר\n\nבראנדה שפר קנדי, בוגרת MIT, עובדת כקצינת וטרינר בארגון Canine Companions שמסביב בכלבי עזר חינמיים לילדים, וטרנים ואנשים עם מוגבלויות. הצורך בשירותים האלה ענק - אחד מכל ארבעה אנשים בארה\"ב יכול להיתמך מכלב עזר, וברנדה עוזרת להשיג את זה ברמה של ממש.",
     "d": "Tue, 21 Apr 2026 21:00:00 +0000",
     "v": 0,
     "l": [
