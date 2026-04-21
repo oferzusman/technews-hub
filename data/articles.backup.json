@@ -96030,7 +96030,7 @@
         "Deezer"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-21T12:45:09.461Z",
       "created_at": "2026-04-21T12:45:09.461Z"
     },
@@ -96333,7 +96333,7 @@
       "author": "Hayden Field",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-21T14:23:20.487Z",
       "created_at": "2026-04-21T14:23:20.487Z"
     },
@@ -96359,7 +96359,7 @@
         "social apps"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-21T14:23:20.509Z",
       "created_at": "2026-04-21T14:23:20.509Z"
     },
@@ -96382,7 +96382,7 @@
         "quantum conputing"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-21T14:23:20.530Z",
       "created_at": "2026-04-21T14:23:20.530Z"
     },
@@ -96418,7 +96418,7 @@
       "author": "Adam Williams",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-21T14:23:22.427Z",
       "created_at": "2026-04-21T14:23:22.427Z"
     },
@@ -96435,7 +96435,7 @@
       "author": "Georgina Jedikovska",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-21T14:23:26.156Z",
       "created_at": "2026-04-21T14:23:26.156Z"
     },
@@ -96452,7 +96452,7 @@
       "author": "Mrigakshi Dixit",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-21T14:23:26.156Z",
       "created_at": "2026-04-21T14:23:26.156Z"
     },
@@ -96469,7 +96469,7 @@
       "author": "Munis Raza",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-21T14:23:26.156Z",
       "created_at": "2026-04-21T14:23:26.156Z"
     },
@@ -96486,7 +96486,7 @@
       "author": "Chris Young",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-21T14:23:26.156Z",
       "created_at": "2026-04-21T14:23:26.156Z"
     },
@@ -96576,7 +96576,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-21T14:23:26.235Z",
       "created_at": "2026-04-21T14:23:26.235Z"
     },
@@ -96593,7 +96593,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-21T14:23:26.302Z",
       "created_at": "2026-04-21T14:23:26.302Z"
     },
@@ -96613,9 +96613,327 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-21T14:23:26.475Z",
       "created_at": "2026-04-21T14:23:26.475Z"
+    },
+    {
+      "id": 4825,
+      "source": "TechCrunch AI",
+      "title_en": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
+      "description_en": "Bond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
+      "image_url": null,
+      "pub_date": "Tue, 21 Apr 2026 15:24:29 +0000",
+      "author": "Lucas Ropek",
+      "categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "Bond",
+        "social media"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T15:51:01.544Z",
+      "created_at": "2026-04-21T15:51:01.544Z"
+    },
+    {
+      "id": 4826,
+      "source": "TechCrunch AI",
+      "title_en": "YouTube expands its AI likeness detection technology to celebrities",
+      "description_en": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
+      "image_url": null,
+      "pub_date": "Tue, 21 Apr 2026 15:02:06 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "AI",
+        "Media & Entertainment",
+        "TC",
+        "Celebs",
+        "deepfake",
+        "Hollywood",
+        "likeness",
+        "YouTube"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T15:51:01.545Z",
+      "created_at": "2026-04-21T15:51:01.545Z"
+    },
+    {
+      "id": 4827,
+      "source": "Ars Technica",
+      "title_en": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes",
+      "description_en": "The self-heating Shenxing battery still performs even in Arctic temperatures.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2255429919-1152x648.jpg",
+      "pub_date": "Tue, 21 Apr 2026 15:01:43 +0000",
+      "author": "\n                    Jonathan M. Gitlin\n                ",
+      "categories": [
+        "Cars",
+        "CATL",
+        "DC fast charging",
+        "LFP battery cells"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T15:51:01.588Z",
+      "created_at": "2026-04-21T15:51:01.588Z"
+    },
+    {
+      "id": 4828,
+      "source": "Ars Technica",
+      "title_en": "AMD Ryzen 9 9950X3D2 Dual Edition review: Tons of cache for tons of dollars",
+      "description_en": "There are some practical benefits to this $899 chip, but not many.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gadgets/2026/04/amd-ryzen-9-9950x3d2-dual-edition-review-tons-of-cache-for-tons-of-dollars/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_7697-1152x648.jpeg",
+      "pub_date": "Tue, 21 Apr 2026 14:45:36 +0000",
+      "author": "\n                    Andrew Cunningham\n                ",
+      "categories": [
+        "Tech",
+        "3d V-cache",
+        "AMD",
+        "Ryzen",
+        "zen 5"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T15:51:01.589Z",
+      "created_at": "2026-04-21T15:51:01.589Z"
+    },
+    {
+      "id": 4829,
+      "source": "Ars Technica",
+      "title_en": "What's the deal with spacesuits for the Moon? Will they be ready in time?",
+      "description_en": "NASA is down to a single provider for a critical link in its lunar architecture.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/space/2026/04/whats-the-deal-with-spacesuits-for-the-moon-will-they-be-ready-in-time/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/AxEVA_Brooks_TVACTesting_20251110_6698_AxEdit-1152x648.jpg",
+      "pub_date": "Tue, 21 Apr 2026 14:24:09 +0000",
+      "author": "\n                    Eric Berger\n                ",
+      "categories": [
+        "Space",
+        "artemis",
+        "axiom",
+        "Inspector General",
+        "NASA",
+        "spacesuit"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T15:51:01.589Z",
+      "created_at": "2026-04-21T15:51:01.589Z"
+    },
+    {
+      "id": 4830,
+      "source": "Ars Technica",
+      "title_en": "Loneliness in older adults can often lead to memory impairment",
+      "description_en": "A longitudinal study finds links to lapses in immediate and delayed recall.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/health/2026/04/loneliness-in-older-adults-can-often-lead-to-memory-impairment/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/loneliness-1152x648.jpg",
+      "pub_date": "Tue, 21 Apr 2026 14:23:24 +0000",
+      "author": "\n                    Jorge Garay, wired.com\n                ",
+      "categories": [
+        "Health",
+        "memory",
+        "syndication"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T15:51:01.589Z",
+      "created_at": "2026-04-21T15:51:01.589Z"
+    },
+    {
+      "id": 4831,
+      "source": "Hugging Face Blog",
+      "title_en": "AI and the Future of Cybersecurity: Why Openness Matters",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/cybersecurity-openness",
+      "image_url": null,
+      "pub_date": "Tue, 21 Apr 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-21T15:51:03.322Z",
+      "created_at": "2026-04-21T15:51:03.322Z"
+    },
+    {
+      "id": 4832,
+      "source": "Google AI Blog",
+      "title_en": "3 new ways Ads Advisor is making Google Ads safer and faster",
+      "description_en": "Three new agentic safety and policy features integrated into Ads Advisor will help protect and streamline your Google Ads account.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Road_to_GML_Master-Header.max-600x600.format-webp.webp",
+      "pub_date": "Tue, 21 Apr 2026 14:30:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Priya Baliga"
+        ],
+        "title": [
+          "Senior Engineering Director"
+        ],
+        "department": [
+          "Ad Platforms"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Google Ads",
+        "Safety & Security",
+        "AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T15:51:03.556Z",
+      "created_at": "2026-04-21T15:51:03.556Z"
+    },
+    {
+      "id": 4833,
+      "source": "New Atlas",
+      "title_en": "Bolt-action ratcheting screwdriver stores six bits in its revolving magazine",
+      "description_en": "Let's be honest … tools that are made to be gun-like are generally pretty childish. They can also be practical at the same time, however, which is where the rifle-inspired Dream Knight ratcheting screwdriver comes in.\nContinue Reading\nCategory: Around The Home, Consumer Tech, Technology\nTags: Tools, Kickstarter, xxKickbooster",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/around-the-home/dream-knight-bolt-action-ratcheting-screwdriver/",
+      "image_url": null,
+      "pub_date": "Tue, 21 Apr 2026 14:45:00 GMT",
+      "author": "Ben Coxworth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T15:51:04.114Z",
+      "created_at": "2026-04-21T15:51:04.114Z"
+    },
+    {
+      "id": 4834,
+      "source": "AI News",
+      "title_en": "Snowflake expands its technical and mainstream AI platforms",
+      "description_en": "Snowflake is expanding its Snowflake Intelligence and Cortex Code offerings in the hope of bringing users deploying and developing artificial intelligence inside the Snowflake portfolio. Snowflake Intelligence is framed as a tool for generalised business users, while Cortex Code is destined for developers and technical teams’ desks. A press release from the company lists additional […]\nThe post Snowflake expands its technical and mainstream AI platforms appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/",
+      "image_url": null,
+      "pub_date": "Tue, 21 Apr 2026 14:29:00 +0000",
+      "author": "AI News",
+      "categories": [
+        "World of Work",
+        "ai",
+        "enterprise",
+        "snowflake",
+        "usability"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T15:51:04.507Z",
+      "created_at": "2026-04-21T15:51:04.507Z"
+    },
+    {
+      "id": 4835,
+      "source": "Futurism",
+      "title_en": "Guess What This Creepy Underwater Thing Is That Was Photographed by US Navy Divers for NASA",
+      "description_en": "Hint: it's neither a bird, nor a plane.\nThe post Guess What This Creepy Underwater Thing Is That Was Photographed by US Navy Divers for NASA appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/space/nasa-artemis-2-heat-shield-photo-underwater",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/nasa-artemis-2-heat-shield-photo-underwater.jpg?quality=85",
+      "pub_date": "Tue, 21 Apr 2026 11:20:52 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Space",
+          "$": {
+            "domain": "https://futurism.com/category/space"
+          }
+        },
+        {
+          "_": "Astronomy",
+          "$": {
+            "domain": "https://futurism.com/category/astronomy"
+          }
+        },
+        {
+          "_": "Moon",
+          "$": {
+            "domain": "https://futurism.com/category/moon"
+          }
+        },
+        {
+          "_": "NASA",
+          "$": {
+            "domain": "https://futurism.com/category/nasa"
+          }
+        },
+        {
+          "_": "Off-World",
+          "$": {
+            "domain": "https://futurism.com/category/off-world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T15:51:05.803Z",
+      "created_at": "2026-04-21T15:51:05.803Z"
+    },
+    {
+      "id": 4836,
+      "source": "CNBC Tech",
+      "title_en": "Tim Cook turned Apple into a $4 trillion juggernaut by not trying to be Steve Jobs",
+      "description_en": "Tim Cook's 15-year tenure at the helm of Apple was highly profitable for Wall Street, as the company's market cap swelled from $350 billion to $4 trillion.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/21/tim-cook-apple-steve-jobs-legacy.html",
+      "image_url": null,
+      "pub_date": "Tue, 21 Apr 2026 15:14:19 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T15:51:05.981Z",
+      "created_at": "2026-04-21T15:51:05.981Z"
+    },
+    {
+      "id": 4837,
+      "source": "Tom's Hardware",
+      "title_en": "Showstopper Build: Greyscale — building a custom-looped ITX PC that pushes the form factor to its limits",
+      "description_en": "Building an ITX PC can be challenging in and of itself, so naturally, we decided to amp up the difficulty factor and see if we could build something uncoolable.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cooling/showstopper-build-greyscale-custom-looped-itx-pc-pushes-the-form-factor-to-its-limits",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/MmusepmQMMef43sTsQtau7-1280-80.jpg",
+      "pub_date": "Tue, 21 Apr 2026 15:27:34 +0000",
+      "author": " Niels Broekhuijsen ",
+      "categories": [
+        "Cooling",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-21T15:51:06.101Z",
+      "created_at": "2026-04-21T15:51:06.101Z"
     }
   ]
 }
