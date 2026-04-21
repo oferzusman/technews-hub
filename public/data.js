@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Showstopper Build: Greyscale — building a custom-looped ITX PC that pushes the form factor to its limits\n\nBuilding an ITX PC can be challenging in and of itself, so naturally, we decided to amp up the difficulty factor and see if we could build something uncoolable.",
+    "t": "בנייה שלא להשכיח: Greyscale — מחשב ITX בנוזל סגור שדוחף את גבולות הפורמט\n\nבנייה של מחשב ITX כבר יצירה בפני עצמה, אבל הבנים מ-Tom's Hardware החליטו להעלות את רמת הקושי ולראות אם אפשר לבנות משהו שפשוטו כמשמעו בלתי קרירני. התוצאה? מערכת קומפקטית עם לולאת נוזל סגורה שדוחקת את הטכנולוגיה לגבולותיה.",
     "d": "Tue, 21 Apr 2026 15:27:34 +0000",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit\n\nBond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app.",
+    "t": "Bond - פלטפורמה חדשה שמנסה להשתמש בבינה מלאכותית כדי להציל אתכם מדומסקרולינג\n\nBond היא אפליקציית סושיאל מדיה חדשה שמגיעה עם מטרה חדשה - להוציא אתכם מהספה וחזרה לעולם האמיתי. במקום להכניס אתכם לתוך צינור אינסוף של קונטנט עצוב וקודר, ה-AI של Platform הזה מעוצב כדי לדחוף אתכם לעשות דברים מעניינים בחוץ, רחוק מהסקרין. זה כמו להיות לך קוץ בתחת רעני שאומר לך 'די כבר, חברה, צא וחיה קצת'.",
     "d": "Tue, 21 Apr 2026 15:24:29 +0000",
     "v": 0,
     "l": [
@@ -47,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Guess What This Creepy Underwater Thing Is That Was Photographed by US Navy Divers for NASA\n\nHint: it's neither a bird, nor a plane.\nThe post Guess What This Creepy Underwater Thing Is That Was Photographed by US Navy Divers for NASA appeared first on Futurism.",
+    "t": "מה זה בדיוק? צלמי צי הים של ארה\"ב תפסו משהו מוזר לנאס\"א\n\nכל זה התחיל בתמונה שמישהו הגדיר כ'מרعין', אבל בסוף התברר שהדבר הזה שצילמו צוללנים אמריקנים עבור נאס\"א הוא משהו בעצם מסקרן מדע. אם אתם חושבים שזה יצור כלשהו מעולם המימן - טעות, זה קצת יותר מעניין מזה. המסתורין כבר נפתר בתמונות שהעלו, וההסבר שלהם הוא די מחכה.",
     "d": "Tue, 21 Apr 2026 11:20:52 -0400",
     "v": 0,
     "l": [
@@ -70,7 +70,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Tim Cook turned Apple into a $4 trillion juggernaut by not trying to be Steve Jobs\n\nTim Cook's 15-year tenure at the helm of Apple was highly profitable for Wall Street, as the company's market cap swelled from $350 billion to $4 trillion.",
+    "t": "טים קוק הפך את אפל ליצור בעל 4 טריליון דולר - בדיוק כי הוא לא ניסה להיות סטיב ג'ובס\n\nבתקופת 15 השנים של טים קוק בהנהלת אפל, שווי החברה קפץ מ-350 מיליארד דולר ל-4 טריליון דולר - זה שינוי משקל כבד שבעצם הוכיח שלא צריך להיות סטיב ג'ובס כדי להצליח גדול בעולם הטכנולוגיה. קוק בחר בדרך שלו משלו - פוקוס על הרווחיות, שרשרת אספקה חכמה, וכמובן שמירה על הברנד שנבנה - והתוצאה היא פשוט מטורפת. כשמדברים על הצלחה בוול סטריט, זה ממש דוגמה מדפיקה של תאימות בין ביצועים וערך עסקי. | מקור: CNBC Tech",
     "d": "Tue, 21 Apr 2026 15:14:19 GMT",
     "v": 0,
     "l": [
@@ -83,21 +83,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Apple"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 5,
-    "t": "YouTube expands its AI likeness detection technology to celebrities\n\nYouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes.",
+    "t": "יוטיוב מרחיב את טכנולוגיית זיהוי הדמויות AI שלה לכוכבי סלולריות\n\nיוטיוב משיקה כלי חדש שמשתמש ב-AI כדי לזהות deepfakes של סלבריטאים, מה שנותן לכוכבים ולנציגיהם את הכוח לחפש ולהסיר תוכן מזויף. הטכנולוגיה היא חלק מהמאבק של הפלטפורמה נגד תוכן מזויף מזיק, ועכשיו הם מרחיבים אותה מעבר לאנשים פרטיים כדי להגן גם על הדמויות הציבוריות הידועות.",
     "d": "Tue, 21 Apr 2026 15:02:06 +0000",
     "v": 0,
     "l": [
@@ -114,13 +110,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 6,
-    "t": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes\n\nThe self-heating Shenxing battery still performs even in Arctic temperatures.",
+    "t": "הסוללה LFP החדשה של CATL מטענת מ-10% ל-98% בפחות מ-7 דקות\n\nסוללת Shenxing החדשה של CATL עם טכנולוגיית התחממות עצמית מסוגלת לטעון את הטלפון שלכם בדקות ספורות, וגם במזג אוויר קופא במקומות קרים כמו הארקטיקה. זה כל מה שצריך לדעת על סוללה שעלולה להיות משחק חדש בתחום הטעינה של גאדג'טים.\n\nמקור: Ars Technica",
     "d": "Tue, 21 Apr 2026 15:01:43 +0000",
     "v": 0,
     "l": [
@@ -143,7 +139,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "AMD Ryzen 9 9950X3D2 Dual Edition review: Tons of cache for tons of dollars\n\nThere are some practical benefits to this $899 chip, but not many.",
+    "t": "סקירה: AMD Ryzen 9 9950X3D2 Dual Edition - המון קאש תמורת המון כסף\n\nAMD הוציאה לשוק את ה-Ryzen 9 החדש ב-899 דולר עם קאש ענק, אבל השאלה הגדולה היא אם זה באמת משתלם לרוב המשתמשים. הביקורת מגלה שכן יש יתרונות מעשיים, אבל למתי - וכמה מהם יש בעצם.",
     "d": "Tue, 21 Apr 2026 14:45:36 +0000",
     "v": 0,
     "l": [
@@ -166,7 +162,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "Bolt-action ratcheting screwdriver stores six bits in its revolving magazine\n\nLet's be honest … tools that are made to be gun-like are generally pretty childish. They can also be practical at the same time, however, which is where the rifle-inspired Dream Knight ratcheting screwdriver comes in.\nContinue Reading\nCategory: Around The Home, Consumer Tech, Technology\nTags: Tools, Kickstarter, xxKickbooster",
+    "t": "מברג ראצ'טינג בעיצוב רובה עם מחסנית סיבובית של שש ביטים\n\nיש כלים שמעוצבים כמו כלי נשק וזה פשוט חמוד, אבל הפעם מדובר במשהו שגם כמעט לא משנה - מברג בהשראת רובה בשם Dream Knight שמאחסן שישה ביטים במחסנית סיבובית חכמה. הכלי הזה מתחזה לנשק אבל הוא בעצם עוזר לך להיות יעיל בעבודות תיקומים ביתיות, וכרגע הוא בקמפיין Kickstarter.",
     "d": "Tue, 21 Apr 2026 14:45:00 GMT",
     "v": 0,
     "l": [
@@ -189,7 +185,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "3 new ways Ads Advisor is making Google Ads safer and faster\n\nThree new agentic safety and policy features integrated into Ads Advisor will help protect and streamline your Google Ads account.",
+    "t": "3 דרכים חדשות שבהן Ads Advisor של גוגל הופכת את Google Ads לבטוחה ומהירה יותר\n\nגוגל משיקה שלוש תכונות חדשות בעלות יכולות AI באפליקציית Ads Advisor שלהם, שתעזור לכם להגן על החשבון שלכם בגוגל אדס ולהפוך את ניהולו לחלק וקל הרבה יותר. התכונות החדשות מתמקדות בשיפור הביטחון והעמידה בתקנות, כך שתוכלו להתמקד בגדילת העסק שלכם ללא דאגות.",
     "d": "Tue, 21 Apr 2026 14:30:00 +0000",
     "v": 0,
     "l": [
@@ -207,9 +203,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Road_to_GML_Master-Header.max-600x600.format-webp.webp",
@@ -217,7 +211,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Snowflake expands its technical and mainstream AI platforms\n\nSnowflake is expanding its Snowflake Intelligence and Cortex Code offerings in the hope of bringing users deploying and developing artificial intelligence inside the Snowflake portfolio. Snowflake Intelligence is framed as a tool for generalised business users, while Cortex Code is destined for developers and technical teams’ desks. A press release from the company lists additional […]\nThe post Snowflake expands its technical and mainstream AI platforms appeared first on AI News.",
+    "t": "סנוופלייק מרחיבה את פלטפורמות ה-AI שלה לשתי קהילות משתמשים\n\nסנוופלייק משיקה הרחבה משמעותית לשתי פלטפורמות AI שונות: Snowflake Intelligence למשתמשים עסקיים רגילים שרוצים להשתמש בـ AI ללא צורך בידע טכני עמוק, ו-Cortex Code למפתחים וטימים טכניים שרוצים לבנות ולפתח פתרונות AI מתקדמים. במהלך זה, סנוופלייק מטרתה לאגד יותר משתמשים סביב המערכת האקולוגית שלה ולהפוך את הפלטפורמה שלה לבחירה ראשונה לכל מי שעובד עם נתונים ו-AI.",
     "d": "Tue, 21 Apr 2026 14:29:00 +0000",
     "v": 0,
     "l": [
@@ -234,13 +228,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "AI News"
   },
   {
     "id": 11,
-    "t": "What's the deal with spacesuits for the Moon? Will they be ready in time?\n\nNASA is down to a single provider for a critical link in its lunar architecture.",
+    "t": "מה הסיפור עם החליפות החלל של הירח? האם הן יהיו מוכנות בזמן?\n\nNASA נותרה עם ספק יחיד לרכיב קריטי בתוכנית החזרה שלה לירח, וזה מעלה שאלות לא קטנות על לוחות הזמנים של התוכנית. המגבלה הזו בספקות יכולה להוות אתגר משמעותי למשימות הקרובות של הסוכנות.",
     "d": "Tue, 21 Apr 2026 14:24:09 +0000",
     "v": 0,
     "l": [
@@ -263,7 +257,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Loneliness in older adults can often lead to memory impairment\n\nA longitudinal study finds links to lapses in immediate and delayed recall.",
+    "t": "הבדידות בקרב מבוגרים יכולה להוביל לבעיות בזיכרון\n\nמחקר אורך חודשים חשף קשר ישיר בין בדידות לירידה בזכירת מידע מיידית והשהוי. הממצאים מצביעים שהחברה החברתית היא לא רק חשובה לבריאות הנפשית, אלא גם לשמירה על תפקודי הקוגניציה שלנו. Ars Technica",
     "d": "Tue, 21 Apr 2026 14:23:24 +0000",
     "v": 0,
     "l": [
@@ -280,13 +274,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/loneliness-1152x648.jpg",
     "source": "Ars Technica"
   },
   {
     "id": 13,
-    "t": "Tesla Drivers Losing Patience at Elon Musk’s Eternal Excuses\n\nThey're fed up.\nThe post Tesla Drivers Losing Patience at Elon Musk’s Eternal Excuses appeared first on Futurism.",
+    "t": "נהגי טסלה מאבדים סבלנות מהתירוצים האינסופיים של אילון מאסק\n\nאוהדי טסלה כבר לא יוצאים לעצמם - הם פשוט עייפים מההבטחות שלא מתקיימות והתירוצים שמתחדשים כל שבוע. אילון מאסק חעה להם פיצ'ים שנראה שלעולם לא יוצאים לדרך, וזה מתחיל להשפיע על האמון של הקהילה בחברה. זה לא הפעם הראשונה שהדרייברים מתלוננים, אבל הפעם זה כבר הגיע לנקודת הרתיחה.",
     "d": "Tue, 21 Apr 2026 09:55:46 -0400",
     "v": 0,
     "l": [
@@ -309,7 +303,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Trump says Anthropic is shaping up and a deal is 'possible' for Department of Defense use\n\nTrump said his administration had \"some very good talks\" with Anthropic during a meeting at the White House last week.",
+    "t": "טראמפ: אנתרופיק מתפתחת בצורה טובה וחוזה עם משרד ההגנה אפשרי\n\nהנשיא טראמפ הודיע שממשלתו ערכה \"שיחות טובות מאוד\" עם Anthropic בפגישה בבית הלבן בשבוע שעבר, מה שמצביע על פוטנציאל שיתוף פעולה בשימושי הגנה. נראה שהממשלה בחושבת רצינית להשתמש בטכנולוגיית ה-AI של החברה לצרכים צבאיים, וטראמפ עצמו נראה מעוניין בחברה.",
     "d": "Tue, 21 Apr 2026 13:45:41 GMT",
     "v": 0,
     "l": [
@@ -335,7 +329,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "John Ternus’s first big problem is AI\n\nLess than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event. Ten months later, the company has announced that hardware executive John Ternus will succeed longtime CEO Tim Cook as chief executive - and the official release doesn't mention AI once. \nTernus, currently Apple's SVP of hardware engineering, will take over as CEO on September 1st, after Cook's decade and a half in the role. Ternus is a 25-year veteran of the company and the first Apple CEO in abou",
+    "t": "הבעיה הראשונה של ג'ון טרנוס? AI\n\nאפל בחרה בג'ון טרנוס, מנהל ההנדסה החומרתית של החברה, כמנהל הבא שלה - אבל בהודעה הרשמית אין אפילו הזכרה של AI. זה די מצחיק בהתחשב בכך שלפני 10 חודשים אפל טרפה לא מעט כשלא הכריזה על שום דבר קשור ל-AI ב-WWDC שלה. טרנוס, שעבד באפל 25 שנה, יתחיל את תפקידו ב-1 בספטמבר, והוא יצטרך לטפל במהירות בפער שאפל יוצרת לעצמה בעולם של AI.",
     "d": "2026-04-21T13:37:55.000Z",
     "v": 0,
     "l": [
@@ -348,12 +342,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Apple"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -361,7 +352,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "Tesla’s Optimus humanoid robot greets runners, poses for photos at Boston Marathon\n\nUS carmaker Tesla turned the Boston Marathon into a live stage for its Optimus humanoid...",
+    "t": "רובוט הומניואיד Optimus של טסלה מברך רצים וצילום תמונות במרתון בוסטון\n\nטסלה הפכה את מרתון בוסטון לבמה חיה להצגת ה-Optimus שלה, הרובוט ההומניואיד המוקדש שלה. הרובוט לא רק צפה בתחרות - הוא באמת התחבר עם המשתתפים, ברך רצים וניסה ליצור רגעים אינסטגרמיים על ידי צילום תמונות. זו דוגמה קלאסית לאיך טסלה משתמשת בחדשות וארוע ציבורי כדי להדגים את כושר ה-AI של Optimus ולהראות שהטכנולוגיה הרובוטית אינה רק משימות בקסם - היא יכולה גם להיות חברה!",
     "d": "Tue, 21 Apr 2026 13:33:43 +0000",
     "v": 0,
     "l": [
@@ -376,8 +367,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.youtube.com/embed/jSH7YELRRxw",
@@ -385,7 +375,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "New 3D-printed tech uses metal wires instead of gases for sustainable cooling\n\nResearchers in Germany are showcasing sustainable climate-control technology at the Hannover Messe show.  The team...",
+    "t": "טכנולוגיית קירור בת-קיימא: חוקרים גרמנים מחליפים גזים בחוטי מתכת מודפסים\n\nחוקרים בגרמניה הציגו בתערוכת Hannover Messe טכנולוגיה חדשנית לקירור ברת-קיימא שמחליפה את הגזים המסורתיים בחוטי מתכת המודפסים בתלת-מימד. הפתרון הזה עשוי להיות משחק חדש בעולם יעילות האנרגיה וההנדסה הירוקה, במיוחד למערכות קירור תעשייתיות. זוהי עוד הוכחה שה-3D printing יכול להיות כלי חזק להחלפת טכנולוגיות מזיקות לסביבה.",
     "d": "Tue, 21 Apr 2026 13:09:23 +0000",
     "v": 0,
     "l": [
@@ -398,12 +388,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.youtube.com/embed/b5hpSjjiH78",
@@ -411,7 +398,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "In a first, Ukraine destroys Russia’s Shahed drone using sea-based interceptor\n\nUkraine has carried out what its military describes as the first recorded interception of an...",
+    "t": "לראשונה: אוקראינה הורסת drone של רוסיה עם מיירט מבוסס ים\n\nאוקראינה הצליחה בפעם הראשונה להוריד drone Shahed של רוסיה בעזרת מערכת הגנה ימית חדשה - זה סימן חשוב בהתפתחות טכנולוגיות ההגנה האוקראיניות. ההשגה הזו מראה שהאוקראינים מוצאים דרכים חכמות ומיוחדות להתמודד עם האיום של ה-drones הרוסיים שהפכו לנשק מרכזי בקרבות. זה לא רק ניצחון צבאי, אלא גם הוכחה לחדשנות טכנולוגית בתנאי מלחמה.\n\nמקור: Interesting Engineering",
     "d": "Tue, 21 Apr 2026 13:04:24 +0000",
     "v": 0,
     "l": [
@@ -434,7 +421,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "AMD Ryzen 9 9950X3D2 review: More cache, more cash\n\nThe Ryzen 9 9950X3D2 is one of the most unique CPUs we’ve ever reviewed, and although its price feels like a kick in the gut, it offers some interesting, highly specialized improvements in certain workloads based on our testing.",
+    "t": "AMD Ryzen 9 9950X3D2: יותר קאש, יותר כסף\n\nה-Ryzen 9 9950X3D2 הוא אחד ה-CPU-ים המוזרים ביותר שבדקנו, והמחיר שלו עלול להכות קצת בארנק, אבל בתמורה הוא מציע שיפורים מיוחדים וחריפים בעומסי עבודה מסוגים מסוימים. למעשי, CPU הזה יכול להיות משחק משנה עבור מי שמחפש כוח עיבוד אמיתי. המבחנים שלנו הראו שאם אתה יודע בדיוק מה אתה צריך, הזקיפה הכסף שווה את זה.",
     "d": "Tue, 21 Apr 2026 13:00:07 +0000",
     "v": 0,
     "l": [
@@ -457,7 +444,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "GRAI believes AI can make music more social, not replace artists\n\nAI music startup GRAI says fans want to remix tracks, not generate songs from scratch.",
+    "t": "GRAI מאמינה ש-AI יכול להפוך את המוזיקה לחברתית יותר, לא להחליף אמנים\n\nסטארטאפ ה-AI למוזיקה GRAI טוען שהמעריצים רוצים לערוך ולהתאים קטעי מוזיקה קיימים, לא להיצור שירים מ-AI מאפס. זה קורא להנחת היסוד שונה לגמרי מהטרנד של יצירה אוטומטית - GRAI רואה בטכנולוגיה כלי לשיתוף פעולה בין אמנים ומעריצים, לא תחליף לאמנים האמיתיים.",
     "d": "Tue, 21 Apr 2026 13:00:00 +0000",
     "v": 0,
     "l": [
@@ -480,7 +467,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "Latticed supertall skyscraper will be one of USA's tallest buildings\n\nAn ambitious new supertall skyscraper is planned for New York City – and this one's a real head-turner. Designed by Skidmore, Owings & Merrill (SOM), the building will be defined by an external steel lattice that forms part of its structural system.\nContinue Reading\nCategory: Architecture, Engineering\nTags: Building and Construction, Skyscrapers, New York, Skidmore, Owings & Merrill",
+    "t": "גרוד-על בעיצוב סורג פלדה יהיה בין הבניינים הגבוהים ביותר בארה״ב\n\nחברת SOM תכננה גרוד-על מדהים לניו יורק שעומד להיות אחד הבניינים הגבוהים ביותר בארה״ב, והכי חשוב - הוא מדהים בעיניים. הסוד? סורג פלדה חיצוני מעוצב שמהווה בעצם חלק מהמערכת המבנית של הבניין, מה שמעניק לו מראה בלתי שכיח ומלא דמיון. זה לא רק יפה - זה גם הנדסה חכמה שמטפחת אדריכלות מודרנית בשיאה.",
     "d": "Tue, 21 Apr 2026 12:57:53 GMT",
     "v": 0,
     "l": [
@@ -503,7 +490,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "New Northrop F/A-XX video gives clearest look yet at US Navy’s 6th-gen fighter\n\nNorthrop Grumman has released a new concept video that seemingly sheds light on its bid...",
+    "t": "וידאו חדש של ה-F/A-XX של נורת'רופ נותן את התמונה הבהירה ביותר עד כה על מטוס הדור השישי של הצי האמריקני\n\nנורת'רופ גרומן שחררה וידאו קונספט חדש שנראה חושף את הקרטות שלה למטוס הקרב המהפלצה של הצי האמריקני. מדובר בדור השישי של לוחמים מודרניים שמתחרה עם חברות טכנולוגיה צבאיות גדולות אחרות. הווידאו הזה עוזר לנו להבין כיצד נראה העתיד של הטכנולוגיה הצבאית האווירית.",
     "d": "Tue, 21 Apr 2026 12:55:44 +0000",
     "v": 0,
     "l": [
@@ -526,7 +513,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "JPMorganChase Data Center Gets $77 Million Handout to Create Grand Total of One Job\n\n\"The county is giving away quite a lot of public money in exchange basically for nothing.\"\nThe post JPMorganChase Data Center Gets $77 Million Handout to Create Grand Total of One Job appeared first on Futurism.",
+    "t": "JPMorganChase מקבלת 77 מיליון דולר סובסידיה לבניית מרכז נתונים - תמורת משרה אחת בלבד\n\nJP Morgan Chase קיבלה סובסידיה ענקית של 77 מיליון דולר מהמחוז לבניית מרכז נתונים חדש, אבל אם תחשבו על זה - היא תיצור בסה\"כ משרה אחת (!) לתושבים המקומיים. עיתונאים דורקים בשאלה הברורה: האם זה עסקה הוגנת או שהשלטונות פשוט השליכו כסף ציבורי לזבל?",
     "d": "Tue, 21 Apr 2026 08:51:09 -0400",
     "v": 0,
     "l": [
@@ -549,7 +536,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 24,
-    "t": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world\n\nA stubborn misconception is hampering the already hard work of quantum readiness.",
+    "t": "בניגוד לכל הקדמונות: AES 128 בסדר גמור גם בעולם הקוונטי\n\nיש קונספירציה עקשנית שטורפת את המוח של כל מי שעובד על quantum readiness - ההנחה ש-AES 128 לא בטוח מספיק מפני מחשבים קוונטיים. אבל זה פשוט לא נכון, וזה טיול בדרך לתוך הטעות הגדולה הזו שמעכבת את כל תהליך המעבר לקריפטוגרפיה בטוחה לקוונטים. בקצרה - אפילו עם המהפכה הקוונטית שמתרחקת, ה-AES 128 שלנו עדיין חזק וטוב. (Ars Technica)",
     "d": "Tue, 21 Apr 2026 12:35:20 +0000",
     "v": 0,
     "l": [
@@ -572,7 +559,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "The flood of AI music is reshaping how streaming platforms handle new uploads\n\nMusic streaming service Deezer reports that 44 percent of all songs uploaded to its platform daily are now fully AI-generated. The company uses its own detection technology and plans to license it to the broader music industry.\nThe article The flood of AI music is reshaping how streaming platforms handle new uploads appeared first on The Decoder.",
+    "t": "הצפה של מוזיקה שנוצרה בעזרת AI משנה את הדרך שבה פלטפורמות סטרימינג מטפלות בהעלאות חדשות\n\nDeezer דיווחה על משהו מטורף - 44% מכל השירים שמועלים לפלטפורמה שלהם כל יום הם בעצם שירים שנוצרו לגמרי על ידי AI. החברה יצרה טכנולוגיית זיהוי משלה ותכננה להשכיר אותה לתעשיית המוזיקה הרחבה, כדי שנוכל סוף סוף למצוא את השירים האמיתיים בעלי הוקי בין הים של כל הדברים האלה.",
     "d": "Tue, 21 Apr 2026 12:24:00 +0000",
     "v": 0,
     "l": [
@@ -589,13 +576,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 26,
-    "t": "Apple's next CEO, Warsh's confirmation hearing, the psychedelic stock surge and more in Morning Squawk\n\nHere are five key things investors need to know to start the trading day.",
+    "t": "המנהל החדש של אפל, שימוע האישור של וורש, עלייה בעיתוני פסיכדליים ועוד בשידור הבוקר\n\nאפל צפויה להכריז על מנהל כללי חדש, וורש עובר שימוע אישור חשוב, וזה לא כל הסיפור - יש גם תנועות שוק עלולות לשנות את היום שלכם. כאן חמש דברים שחייבים לדעת לפני שהמסחר בבורסה מתחיל.",
     "d": "Tue, 21 Apr 2026 12:22:54 GMT",
     "v": 0,
     "l": [
@@ -608,12 +595,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Apple"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -621,7 +605,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 27,
-    "t": "Kairos breaks ground for first 4th-gen nuclear reactor in US to power Google data centers\n\nKairos Power, a maker of small modular reactors (SMRs), has broken ground on its second...",
+    "t": "קייירוס מפתחת את כור הגרעין דור רביעי הראשון בארה\"ב להנעת מרכזי נתונים של גוגל\n\nקייירוס פאוור, החברה המתמחה בריאקטורים מודולריים קטנים (SMRs), החלה בבניית כור גרעיני חדשני שיהיה הראשון מסוגו בארה\"ב ויחזק מישירות את מרכזי הנתונים של גוגל. הפרויקט מסמל מהפך בתעשיית הטכנולוגיה, כשענקיות כמו גוגל פונות לאנרגיה גרעינית כדי לתמוך בדרישות האנרגיה ההולכות וגדלות של AI ויישומי הוקוד גבוה. זה חלק מתוך מגמה גדולה יותר בעולם הטק שבה חברות מחפשות פתרונות אנרגיה נקייה וחדישה לפעולות שלהן.",
     "d": "Tue, 21 Apr 2026 12:21:51 +0000",
     "v": 0,
     "l": [
@@ -634,12 +618,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -647,7 +628,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 28,
-    "t": "Corporate America's favorite ChatGPT phrase doubled twice since 2024\n\nA new language analysis reveals how one telltale sentence pattern exposes companies that are letting ChatGPT handle their communications. Usage has quadrupled since 2024.\nThe article Corporate America's favorite ChatGPT phrase doubled twice since 2024 appeared first on The Decoder.",
+    "t": "הביטוי המועדף של קורפורציות אמריקניות מ-ChatGPT התחזק פי 4 מאז 2024\n\nניתוח שפה חדש חשף שחברות גדולות משתמשות בצורה משוכללת ב-ChatGPT לתקשורת שלהן - והשימוש בביטוי האופייני הזה גדל פי 4 בשנה האחרונה. אפילו שהחברות לא מודות בזה בגלוי, השימוש בתבנית הלשונית הספציפית הזו מבליט בצורה חד משמעית איפה ה-AI עושה את העבודה.",
     "d": "Tue, 21 Apr 2026 12:20:48 +0000",
     "v": 0,
     "l": [
@@ -673,7 +654,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 29,
-    "t": "Jean-Michel Jarre urges music and film industries to embrace AI\n\nFrench musician’s comments are in stark contrast to fears expressed by artists such as Elton John and Dua Lipa\nJean-Michel Jarre has attacked the conservatism of the music and film industries over AI and urged them to embrace the technology instead of being fearful and “very anti-AI”.\nJarre, one of the pioneers of electronic music in the 1970s, said while the existing creative industries were “freaking out” over the technology, artists would use AI “to create the cinema of tomorrow, the hip-hop ",
+    "t": "ז'אן-מישל ז'אר קורא לתעשיות המוזיקה והסרטים להחזיק בAI\n\nהפיוניר של המוזיקה האלקטרונית עומד בניגוד חד למוזיקאים כמו אלטון ג'ון ודואה ליפה, והוא טוען שתעשיות קריאטיביות צריכות להפסיק לפחוד מAI ובמקום זה להשתמש בה כדי ליצור את הקולנוע והמוזיקה של מחר. ז'אר מציין שכל כך הרבה אנשים בעולם הקריאטיבי \"מתפרעים\" מהטכנולוגיה החדשה, אבל זה בדיוק הרגע להשתמש בה כחלק מהחזון האמנותי שלנו.",
     "d": "Tue, 21 Apr 2026 12:20:35 GMT",
     "v": 0,
     "l": [
@@ -696,7 +677,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 30,
-    "t": "AI-assisted intruders pwned Vercel via OAuth abuse and a pilfered employee account\n\nCEO suspects silicon sidekick behind 'surprising velocity' breach - cyber crims shop stolen data for $2M Vercel's CEO reckons the crooks behind its recent breach likely had a helping hand from AI, saying the attackers moved with \"surprising velocity\" and a deep understanding of the company's infrastructure.…",
+    "t": "תוקפים בעזרת AI פרצו לוורסל דרך OAuth וחשבון עובד גנוב\n\nהמנכ\"ל של ורסל חושד שהפורצים השתמשו ב-AI כדי לבצע את ההפצה - הם פעלו במהירות מפתיעה, ניצלו חולשות ב-OAuth והשתלטו על חשבון עובד כדי לחדור לתשתית החברה. הנתונים הגנובים מוצעים למכירה בשוק התחתון תמורת 2 מיליון דולר. מקור: The Register",
     "d": "2026-04-21T12:17:43.000Z",
     "v": 0,
     "l": [
@@ -711,8 +692,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -720,7 +700,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 31,
-    "t": "TP-Link seeks to secure conditional approval from FCC following router import ban — company stresses it is no longer Chinese-owned\n\nTP-Link, one of the most popular consumer router brands in the U.S., met with FCC officials to discuss how it can secure a conditional approval to continue introducing and selling new routers.",
+    "t": "TP-Link מנסה לקבל אישור מותנה מה-FCC לאחר איסור יבוא - החברה טוענת שהיא כבר לא בבעלות סינית\n\nTP-Link, אחת מחברות ה-Router הפופולריות ביותר בארה\"ב, התגברעה עם פקידי ה-FCC כדי לדון איך היא יכולה להשיג אישור מותנה להמשיך בהכנסה ומכירה של ראוטרים חדשים. החברה משדדת שהיא כבר אינה בשליטה סינית בניסיון לעקוף את ההגבלות החדשות על יבוא פריטים טכנולוגיים.",
     "d": "Tue, 21 Apr 2026 12:15:58 +0000",
     "v": 0,
     "l": [
@@ -735,8 +715,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/B7Abwym66kqFRYiLbXvCib-1280-80.jpg",
@@ -744,7 +723,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 32,
-    "t": "The Download: turning down human noise, and LA’s stunning subway upgrade\n\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The noise we make is hurting animals. Can we learn to shut up? As human society has expanded, animals have started struggling to hear one another. For many birds, the noise…",
+    "t": "ההורדה: השתקת הרעש האנושי וההתקנת הרכבת התחתית המדהימה של לוס אנג'לס\n\nבעדכון היום של תיקיית The Download שלנו, מסתבר שהרעש שאנחנו מייצרים כבני אדם גורם לבעיות אמיתיות לחיות הבר - ציפורים, דולפינים וחיות אחרות פשוט לא יכולות להשמע אחת את השנייה בגלל כל הטומult שאנחנו יוצרים. בנוסף, לוס אנג'לס עושה משהו די מרשים עם התשתית של תחבורה שלה שכדאי לדעת עליו.",
     "d": "Tue, 21 Apr 2026 12:10:00 +0000",
     "v": 0,
     "l": [
@@ -767,7 +746,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 33,
-    "t": "Amazon adding heavy-duty EV trucks from Einride as it spreads bets on freight decarbonization\n\nAmazon is adding heavy-duty EV trucks from Einride to existing deals for freight electrification with Rivian, Mercedes, as it spreads its climate bets.",
+    "t": "אמזון מוסיפה משאיות חשמליות כבדות מ-Einride לתיק הפרויקטים שלה להקטנת פליטות בתחבורה\n\nאמזון מרחיבה את התמונה בהימור שלה על חשמלification של משאיות, והפעם היא מצטרפת לstartup הישראלית Einride בצד הצ'יקים הגדולים כמו Rivian ו-Mercedes. זה לא רק עוד deal בשביל השטח - זה חלק מאסטרטגיה גדולה של הענקית להוציא מהכביש משאיות דלק בחמור בחמור בעשור הקרוב.",
     "d": "Tue, 21 Apr 2026 12:08:45 GMT",
     "v": 0,
     "l": [
@@ -780,12 +759,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -793,7 +769,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 34,
-    "t": "Video: YouTuber’s homemade nuclear battery draws power from tritium vials’ radiation\n\nA recent experiment by Double M Innovations shows how a simple setup can turn radioactive...",
+    "t": "וידאו: יוטיוביוביר יצר סוללה גרעינית ביתית שמייצרת חשמל מהקרינה של צינוריות טריטיום\n\nיוטיוביור בשם Double M Innovations הוכיח בניסוי מדהים שאפשר לתפוס אנרגיה מקרינה רדיואקטיבית של טריטיום וההוא בנה סוללה ביתית שעובדת כמו שעון קוקו שלא סוף לעולם. זה כמו שהוא חיטט בנכסים רדיואקטיים של הטבע והפך אותם למשהו שיכול להנעות את הטלפון שלך - מטורף! מקור: Interesting Engineering",
     "d": "Tue, 21 Apr 2026 12:03:38 +0000",
     "v": 0,
     "l": [
@@ -806,12 +782,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.youtube.com/embed/MxPEDF7BRCo",
@@ -819,7 +792,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 35,
-    "t": "Diplomatic duties for Tim Cook after stepping down as Apple CEO\n\nJohn Ternus ascends the throne – but Cook will stay on to manage tech giant’s foreign policy as executive chair\nHello, and welcome to TechScape. I’m your host, Blake Montgomery, US tech editor at the Guardian, writing to you after seeing The Jellicle Ball, a revival of Cats that I found fabulous and which the Guardian called “thrillingly new”.\nShares in Allbirds surge after maker of wool sneakers announces pivot to AI\n Continue reading...",
+    "t": "Tim Cook מוותר על כס המלוכה, אבל נשאר לנהל את המדיניות החוץ של אפל\n\nג'ון טרנוס הוא ה-CEO החדש של אפל, אבל טים קוק לא הולך לשום מקום - הוא יישאר כיו\"ר הדירקטוריון וינהל את כל העניינים הדיפלומטיים והביטחוניים של ענקית הטכנולוגיה. כך שלמעשה, קוק עדיין יהיה עלى החוט, רק בתפקיד קצת אחר שמתמקד בעלאות חוץ וקשרים בינלאומיים. מקור: The Guardian",
     "d": "Tue, 21 Apr 2026 12:02:02 GMT",
     "v": 0,
     "l": [
@@ -832,21 +805,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Apple"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "regulation"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/952171d4a47ae212d53b5a900a25669a6e26e870/313_0_4679_3744/master/4679.jpg?width=140&quality=85&auto=format&fit=max&s=ad20e38d1d87802d89d0ed303a8d1da7",
     "source": "The Guardian AI"
   },
   {
     "id": 36,
-    "t": "Save a huge $460 on this RTX 5080 gaming PC with a 9800X3D, 32GB of DDR5 RAM, and a 2TB SSD — $3,039.99 sale price nets you this Newegg ABS pre-built powerhouse that's made for 4K gaming\n\nSnag a huge bargain on this ABS Kaze II gaming rig from Newegg, fitted with a 9800X3D, RTX 5080, 32GB of DDR5 RAM, and a 2TB SSD, all for just $3,039.99 using a coupon code.",
+    "t": "חסכו 460 דולר על מחשב גיימינג RTX 5080 עם 9800X3D, 32GB DDR5 ו-2TB SSD - מחיר מכירה של 3,039.99 דולר ב-Newegg\n\nהנה ההזדמנות שחיכיתם לה - ה-ABS Kaze II מ-Newegg הגיע למחיר שאי אפשר להתעלם ממנו. מחשב גיימינג אמיתי עם 9800X3D, RTX 5080, 32GB DDR5 וכונן 2TB במחיר של רק 3,039.99 דולר עם קוד הנחה - זה הקומבו המושלם לגיימינג ברזולוציה 4K. מי שחלם על מערכת גיימינג טופ-טיר, הזמן הוא עכשיו.",
     "d": "Tue, 21 Apr 2026 11:41:35 +0000",
     "v": 0,
     "l": [
@@ -869,7 +838,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 37,
-    "t": "Tomb feathers from wild parrots reveal extensive ancient trade route\n\nParrot feathers found at a thousand-year-old burial tomb in Peru provide new evidence for an expansive live bird trade network across the Andes Mountains that pre-dates the Inca Empire, a new study suggests.\nContinue Reading\nCategory: Archaeology, Science\nTags: Parrot, Birds, Inca, Archaeology, Australian National University",
+    "t": "נוצות תוכים מקבר עתיק בפרו חושפות רשת סחר עתיקה בין הנדים\n\nחוקרים מצאו נוצות של תוכים בר בקברים בני 1000 שנה בפרו, וזה משהו רציני - התגלית הזו מוכיחה שהיה רשת סחר חיה וגדולה של ציפורים חיות בכל הרכסי האנדים, כבר לפני שהאימפריה של האינקה אפילו קמה. זה כמו לגלות שקיימות לנו יחסי בינלאומיים של ציפורים אקזוטיות עוד לפני העתיקות!",
     "d": "Tue, 21 Apr 2026 11:32:00 GMT",
     "v": 0,
     "l": [
@@ -886,13 +855,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "New Atlas"
   },
   {
     "id": 38,
-    "t": "Cerebras files for IPO — company remains unprofitable despite 20x revenue growth\n\nCerebras' sales hit half a billion dollars in 2025, but 86% of its revenue comes from Abu Dhabi-based G42 and Mohamed bin Zayed University of Artificial Intelligence, which represents major risks.",
+    "t": "Cerebras הולכת ל-IPO – החברה עדיין לא רווחית למרות גדילה של 20 פעמים בהכנסות\n\nCerebras הגיעה לחצי מיליארד דולר בהכנסות ב-2025, אבל יש לה בעיה קריטית: 86% מההכנסות באים מ-G42 בחיי אבו דאבי וממכללת מוחמד בן זאיד, מה שיוצר סיכון ענק לעתיד החברה. זה אומר שהיא כמעט כולה תלויה בשחקן אחד, וזה בטח יעלה קשאלות חוזרות מהשקיעים במהלך הדרך ל-IPO.",
     "d": "Tue, 21 Apr 2026 11:31:29 +0000",
     "v": 0,
     "l": [
@@ -907,16 +876,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/QDGHobTS56GF94GsXHu2PV-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 39,
-    "t": "Save $500 on Lenovo's Legion 5i gaming laptop at only $1,599 — bright OLED display, 32GB of RAM, and powerful RTX 5070 GPU\n\nA powerful RTX 5070 GPU, 32GB of RAM, and a crisp OLED display are highlights of this $1599 Lenovo Legion 5i deal at B&H Photo",
+    "t": "חסכו 500 דולר ב-Lenovo Legion 5i – מחשב גיימינג אלגנטי עם RTX 5070 ותצוגת OLED ב-1,599 דולר בלבד\n\nהנה דיל שווה משמעותית עבור מחשבי גיימינג - ה-Legion 5i החדש של לנובו מגיע עם GPU RTX 5070 חזק, 32GB RAM ותצוגת OLED מדהימה, והכל בחיר של 1,599 דולר ב-B&H Photo. זה הרגע הנכון אם חיפשתם מחשב לגיימינג סדרתי שלא ישבור לכם את התיק.",
     "d": "Tue, 21 Apr 2026 11:24:34 +0000",
     "v": 0,
     "l": [
@@ -942,7 +910,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 40,
-    "t": "Scientists solve decades-old 2D physics puzzle — Chaotic growth in a 2D quantum system obeys statistical laws\n\nPhysicists have confirmed for the first time that chaotic growth in a 2D quantum system follows precise statistical rules, validating a 40-year-old mathematical model that describes how random, uneven surfaces evolve over time.",
+    "t": "מדענים פתרו חידה בפיזיקה דו-ממדית שנמשכה עשרות שנים — הגדילה הכאוטית במערכת קוונטית דו-ממדית מצייתת לחוקים סטטיסטיים\n\nפיזיקאים הוכיחו לראשונה שהגדילה כאוטית במערכות קוונטיות דו-ממדיות אכן עוקבת לחוקים מתמטיים מדויקים, וקיימו מודל תיאורטי בן 40 שנה שמתאר כיצד משטחים אקראיים וחלקים מתפתחים לאורך הזמן. הישג זה יכול להיות משמעותי להבנת תופעות קוונטיות בעולם האמיתי, מגביש שגדל ועד חקר השפעות כאוטיות בנתונים.\nמקור: Tom's Hardware",
     "d": "Tue, 21 Apr 2026 11:20:00 +0000",
     "v": 0,
     "l": [
@@ -955,13 +923,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/HoVxyKpx3BzJFkSxasXUmL-1280-80.jpg",
@@ -969,7 +933,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 41,
-    "t": "Tien Kung 3.0 humanoid wins China’s Robot Warrior Challenge with zero human control\n\nA full-size humanoid robot has marked a major step toward real-world autonomy after securing a...",
+    "t": "הרובוט ההומנואידי Tien Kung 3.0 ניצח בתחרות Robot Warrior של סין ללא שום התערבות אנושית\n\nרובוט בגודל אנושי מלא הפגין קפיצה ענקית לכיוון אוטונומיה אמיתית כשהשיג ניצחון בתחרות Robot Warrior הסיניות בלי שום שליטה אנושית - וזה בעצם סימן שהרובוטים מתחילים להחליט בעצמם מה לעשות בעולם האמיתי. Interesting Engineering",
     "d": "Tue, 21 Apr 2026 11:01:48 +0000",
     "v": 0,
     "l": [
@@ -993,7 +957,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 42,
-    "t": "Apple’s Pippin console launched 30 years ago today — shunned by the public as too expensive and too slow, only 42,000 units were sold\n\nApple’s Pippin was plucked from the tree 30 years ago today but would soon go past its sell-by date.",
+    "t": "קונסולת Apple Pippin שיגרה לפני 30 שנה - נדחתה על ידי הציבור כיקרה מדי ו느̇טועת מדי, מכרו רק 42,000 יחידות\n\nהאפל ניסתה להשתלט גם על שוק קונסולות המשחקים עם ה-Pippin שהוצא לפני שלוש עשורים, אבל הרעיון הזה בחיים נתפס כתוספת יקרה וגם לא מספיק זריז בהשוואה להמתחרים. בסוף זה היה כישלון עצום - מדברים על ממש 42,000 קונסולות שנמכרו בעולם, וזה בדיוק הוכיח שלא כל דבר שאפל נוגעת בו הופך לזהב.",
     "d": "Tue, 21 Apr 2026 11:01:41 +0000",
     "v": 0,
     "l": [
@@ -1019,7 +983,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 43,
-    "t": "Global growth in solar \"the largest ever observed for any source\"\n\nThe Energy Information Agency says we've entered the Age of Electricity.",
+    "t": "צמיחת האנרגיה השמשית בעולם - \"הגדולה שנצפתה אי פעם למקור כלשהו\"\n\nסוכנות האנרגיה האמריקאית מכריזה שנכנסנו לעידן החשמל, ותחזוקות השמש מובילות בקצב צמיחה שלא נראה מעולם עבור כל מקור אנרגיה אחר. זה בעצם משהו גדול - אנחנו מדברים על קפיצת משחק בפתרונות ירוקים שמשנה את נוף האנרגיה העולמי.",
     "d": "Tue, 21 Apr 2026 11:00:16 +0000",
     "v": 0,
     "l": [
@@ -1042,7 +1006,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 44,
-    "t": "Yelp is making its AI chatbot way more useful\n\nYelp is giving its chatbot assistant a major upgrade, turning the platform into something closer to a digital concierge with a suite of new features designed for \"getting things done.\" The move, one of several AI-focused updates in recent months, is part of a broader industry push to make AI more relevant and practically useful to consumers while turning huge troves of user-generated data into a competitive edge. \nIn a press release, Yelp says the Yelp Assistant chatbot will be at \"the center of",
+    "t": "Yelp משדרגת את ה-Chatbot שלה - עכשיו הוא ממש שימושי\n\nYelp משדרגת את העוזר ה-AI שלה ליותר דבר אמיתי - פחות תשובות מעצבנות וחסרות תוכן, ויותר פתרונות קונקריטיים שבעצם עוזרים לך \"לסיים עבודה\". זו עוד הוכחה שכל החברות הטכנוליות מנסות להפוך את ה-AI שלהן למשהו שבני אדם בעצם יקחו בחזקה, ובמקרה של Yelp זה בעזרת כל הנתונים המשתמשים שיש להם בבסיס הנתונים. התוכנה הזו הופכת להיות חלק מרכזי בחוויית Yelp החדשה שלהם.",
     "d": "2026-04-21T11:00:00.000Z",
     "v": 0,
     "l": [
@@ -1059,13 +1023,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 45,
-    "t": "Polymega Remix can digitize retro games for Windows 11 PCs and handhelds,  USB peripheral accepts games CDs, cartridges — $199 units finally ship next month following years of production delays\n\nPlaymaji has opened pre-orders for its $199 USB peripheral that lets owners digitize and play physical retro games on Windows 11 PCs, laptops, and PC gaming handhelds",
+    "t": "Polymega Remix - הפריפריה שתהפוך את משחקי הרטרו שלכם לדיגיטליים ל-Windows 11 תמורת 199 דולר\n\nסוף סוף הם בדרך! Polymega Remix היא פריפריה USB חדשה שמאפשרת לכם להמיר משחקים פיזיים ישנים (מדיסקים וקרטריджים) לקבצים דיגיטליים שאתם יכולים לשחק ישירות על ה-PC, לפטופ או handhelds עם Windows 11. אחרי שנים של עיכובים בייצור, ההשקה הרשמית חוזרת בחודש הבא - וזה בדיוק כמו שחלמו על זה פיתוח גיימרים עם אוספות ישנות בבית.",
     "d": "Tue, 21 Apr 2026 11:00:00 +0000",
     "v": 0,
     "l": [
@@ -1088,7 +1052,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 46,
-    "t": "Anthropic nuked a company's access to Claude, stopping 60 employees dead in their tracks — support via Google Form is the only recourse for vague usage policy violation\n\nAnthropic nukes a company's access to Claude, stopping 60 employees dead in their tracks on the back of a \"usage policy violation.\"",
+    "t": "Anthropic חתכה לחברה את גישת Claude - 60 עובדים נשארו תקועים ורק Google Form לעזרתם\n\nAnthropic חסמה באופן פתאומי את הגישה של חברה שלמה ל-Claude בגלל \"הפרת מדיניות שימוש\", והשאירה 60 עובדים ללא דרך לעבוד. התוקפנות של החברה עוררה תהודה בקהילה, במיוחד בהתחשב לכך שהדרך היחידה להשיג תמיכה היא דרך Google Form אנונימי וללא הסברים ברורים לחסימה. | Tom's Hardware",
     "d": "Tue, 21 Apr 2026 10:40:00 +0000",
     "v": 0,
     "l": [
@@ -1107,8 +1071,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/ScT7C9WsuqruarWf3kSRRG-1280-80.jpg",
@@ -1116,7 +1079,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 47,
-    "t": "Anthropic is building its first data center team outside the US\n\nAccording to job listings spotted by Data Center Dynamics, Anthropic is hiring data center contract specialists in Europe and Australia.\nThe article Anthropic is building its first data center team outside the US appeared first on The Decoder.",
+    "t": "אנתרופיק בונה את צוות מרכז הנתונים הראשון שלה מחוץ לארה\"ב\n\nאנתרופיק מחפשת אנשים להנהלת מרכזי נתונים בירופה ואוסטרליה - זה הצעד הראשון של החברה מחוץ לשטח המשחק האמריקאי. נראה שהם משקיעים כמו שצריך בתשתיות משלהם ולא רק סומכים על שותפים קיימים. זה בהחלט מסמל שנרחוק לעצמאות וריאליות בעסקים של ה-AI הגדול.",
     "d": "Tue, 21 Apr 2026 10:34:06 +0000",
     "v": 0,
     "l": [
@@ -1129,12 +1092,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -1142,7 +1102,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 48,
-    "t": "Biohacker claims to have sequenced their own genome at the kitchen table with M3 Ultra Mac Studio, Claude, and a $3,200 sequencer — DIY project requires 100GB of data storage per run, oodles of RAM\n\nA tinkerer has sequenced their own genome at home, hoping to uncover secrets behind a family history of autoimmune disease.",
+    "t": "ביוהקר טוען שרצף את הגנום שלו בחדר האוכל עם Mac Studio M3 Ultra, Claude ו-סידורתן של 3,200 דולר — פרויקט DIY דורש 100GB אחסון ו-RAM מטורף\n\nחובב טכנולוגיה הצליח לרצף את הגנום שלו בבית, בתקווה לחשוף סודות מאחורי היסטוריה משפחתית של מחלות אוטואימוניות. הסיפור מוכיח שרצף DNA כבר לא בעלות של מעבדות ענקיות — אם יש לך מחשב חזק, קרש לגידול וקצת נחישות, אתה יכול לעשות את זה בבית.",
     "d": "Tue, 21 Apr 2026 10:20:00 +0000",
     "v": 0,
     "l": [
@@ -1160,8 +1120,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/8EWhpjGLPVJMhRYohmTmJS-1280-80.jpg",
@@ -1169,7 +1128,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 49,
-    "t": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+    "t": "QIMMA قِمّة ⛰: לוח דירוג ראשון בעולמו לדגמי AI בערבית\n\nסוף סוף יש לנו מקום אחיד כדי לבדוק איך דגמי LLM בערבית באמת מתפקדים - בלי שום השחקות. QIMMA היא לוח דירוג חדש שמתמקד בעברבית ובודק את איכות התשובות האמיתית, לא רק מספרים על נייר. זו דברק חשוב לקהילת ה-AI בעולם הערבי שעברה זמן רב בצל המודלים האנגלית.",
     "d": "Tue, 21 Apr 2026 10:09:58 GMT",
     "v": 0,
     "l": [
@@ -1192,7 +1151,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 50,
-    "t": "‘Uber for nurses’: gig-work apps lobby to deregulate healthcare, report finds\n\nGrowing use of AI tech comes at expense of workers’ rights, protections and pay, report warns\nBillion-dollar tech platforms are aggressively pushing for deregulation of the “Uber for nursing” industry in an effort to expand gig work in the healthcare sector, according to a report published Tuesday.\nThe report from the AI Now Institute, Uber for Nursing Part II: How Gig Nursing Companies Are Lobbying States to Deregulate Healthcare, examines the use of artificial intelligence to staff hospitals a",
+    "t": "\"אובר לסיעולים\": אפליקציות gig-work לוחצות להסרת 規ולציות בתחום הבריאות\n\nפלטפורמות טק בנות מיליארדים לוחצות בתוקף על מדינות בארה\"ב להסיר הגבלות על תעשיית \"סיעול ב-gig\" תוך שימוש ב-AI, והכל כדי להרחיב את עבודת ה-gig בתחום הבריאות. דוח חדש מהמכון AI Now חושף שהתמונה הזאת באה על חשבון זכויות העובדים, ההגנות שלהם והשכר שלהם - כשטק כוללת בוודאי מדעו מה היא עושה כשהיא מחליפה אחים וסיעולים קבועים בעובדים זמניים שקל להחליף בכל רגע.",
     "d": "Tue, 21 Apr 2026 10:00:46 GMT",
     "v": 0,
     "l": [
@@ -1207,11 +1166,9 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/ba05df285ba312a91c3150d54962821de9877733/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=b8eb52173fffefd1194b3afbadb033b0",
     "source": "The Guardian AI"
   },
