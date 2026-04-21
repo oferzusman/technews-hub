@@ -1,9 +1,9 @@
 {
-  "total": 4908,
+  "total": 4922,
   "translated": 4908,
-  "untranslated": 0,
-  "today": 186,
-  "week": 1053,
+  "untranslated": 14,
+  "today": 200,
+  "week": 1067,
   "sources": [
     {
       "name": "Product Hunt",
@@ -31,7 +31,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 244,
+      "total": 245,
       "translated": 244,
       "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
@@ -43,21 +43,27 @@
     },
     {
       "name": "Ars Technica",
-      "total": 178,
+      "total": 181,
       "translated": 178,
       "lastDate": "Wed, 15 Apr 2026 22:25:30 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 178,
+      "total": 179,
       "translated": 178,
       "lastDate": "Wed, 15 Apr 2026 23:03:00 GMT"
     },
     {
       "name": "CNBC Tech",
-      "total": 152,
+      "total": 156,
       "translated": 152,
       "lastDate": "Wed, 15 Apr 2026 23:58:12 GMT"
+    },
+    {
+      "name": "TechCrunch AI",
+      "total": 132,
+      "translated": 130,
+      "lastDate": "Wed, 15 Apr 2026 19:28:36 +0000"
     },
     {
       "name": "The Decoder",
@@ -66,16 +72,10 @@
       "lastDate": "Wed, 15 Apr 2026 18:39:44 +0000"
     },
     {
-      "name": "TechCrunch AI",
-      "total": 130,
-      "translated": 130,
-      "lastDate": "Wed, 15 Apr 2026 19:28:36 +0000"
-    },
-    {
       "name": "The Register",
-      "total": 120,
+      "total": 121,
       "translated": 120,
-      "lastDate": "2026-04-21T16:00:13.000Z"
+      "lastDate": "2026-04-21T22:06:58.000Z"
     },
     {
       "name": "Onefootball.com",
@@ -109,15 +109,15 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 73,
+      "total": 74,
       "translated": 73,
       "lastDate": "Wed, 15 Apr 2026 12:10:00 +0000"
     },
     {
       "name": "The Verge AI",
-      "total": 72,
+      "total": 73,
       "translated": 72,
-      "lastDate": "2026-04-21T19:00:05.000Z"
+      "lastDate": "2026-04-21T22:45:37.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-21T23:06:16.491Z"
+  "generatedAt": "2026-04-21T23:51:09.442Z"
 }
