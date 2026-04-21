@@ -1,9 +1,9 @@
 {
-  "total": 4811,
+  "total": 4824,
   "translated": 4772,
-  "untranslated": 39,
-  "today": 89,
-  "week": 956,
+  "untranslated": 52,
+  "today": 102,
+  "week": 969,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,43 +19,43 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 269,
+      "total": 270,
       "translated": 259,
       "lastDate": "Wed, 15 Apr 2026 16:27:58 +0000"
     },
     {
       "name": "OpenAI Blog",
-      "total": 263,
+      "total": 264,
       "translated": 263,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
       "name": "Interesting Engineering",
-      "total": 233,
+      "total": 237,
       "translated": 229,
       "lastDate": "Wed, 15 Apr 2026 23:56:57 +0000"
     },
     {
       "name": "Futurism",
-      "total": 212,
+      "total": 214,
       "translated": 212,
       "lastDate": "Wed, 15 Apr 2026 16:15:26 -0400"
     },
     {
       "name": "New Atlas",
-      "total": 173,
+      "total": 174,
       "translated": 170,
       "lastDate": "Wed, 15 Apr 2026 23:03:00 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 164,
+      "total": 165,
       "translated": 163,
       "lastDate": "Wed, 15 Apr 2026 22:25:30 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 145,
+      "total": 146,
       "translated": 143,
       "lastDate": "Wed, 15 Apr 2026 23:58:12 GMT"
     },
@@ -67,7 +67,7 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 121,
+      "total": 122,
       "translated": 121,
       "lastDate": "Wed, 15 Apr 2026 19:28:36 +0000"
     },
@@ -115,9 +115,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 66,
+      "total": 67,
       "translated": 65,
-      "lastDate": "2026-04-21T11:00:00.000Z"
+      "lastDate": "2026-04-21T13:37:55.000Z"
     },
     {
       "name": "Github.com",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-21T13:19:30.123Z"
+  "generatedAt": "2026-04-21T14:57:12.802Z"
 }
