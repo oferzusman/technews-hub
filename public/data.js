@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Lockheed Martin demonstrates vertical launch missile system for mobile drone defense\n\nLockheed Martin is advancing a vertical-launch missile concept that could reshape how U.S. forces counter...",
+    "t": "לוקהיד מרטין הציגה מערכת שיגור טילים אנכית להגנה נגד רחפנים ניידים\n\nלוקהיד מרטין עובדת על קונספט חדש של מערכת שיגור טילים אנכית שיכולה לשנות את הכללים בהגנה מפני רחפנים ותעופה אויבת. המערכת החדשה מתוכננת להיות ניידה וגמישה יותר מפתרונות קיימים, מה שאמור לתת לצבא האמריקני יכולת הגנה טובה יותר בשטח. פיתוח זה עשוי להשפיע על אסטרטגיות הגנה צבאיות בשנים הקרובות. - Interesting Engineering",
     "d": "Tue, 21 Apr 2026 23:35:16 +0000",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims\n\nAnthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
+    "t": "קבוצה בלתי מורשית חדרה לכלי הסייבר הסודי של Anthropic בשם Mythos\n\nAnthropic מחקרת את ההאשמות לפי דו\"ח חדש, אבל מ​​מהרת להבהיר שאין שום ראיה לכך שהמערכות שלה נפגעו בפועל. רקטור חזק מהחברה - עדיין יש כאן הרבה סימני שאלה וצריך לחכות לפרטים נוספים.",
     "d": "Tue, 21 Apr 2026 23:26:45 +0000",
     "v": 0,
     "l": [
@@ -44,13 +44,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 3,
-    "t": "Pop-up camping pioneer shifts gears with ultralight pickup camper\n\nWith the sheer preponderance of flappy, fabric-walled pop-up truck campers, hard-sided pop-up pickup camping systems feel cutting edge, even today. But they actually have a long, proud history dating back to the mid-20th century. And no manufacturer then or now has been as integral to that history as Alaskan Campers, a true pioneer that's been building telescopic-roofed pickup campers for over 60 years. Now the company takes a detour and turns its attention to a different style of camper, launch",
+    "t": "חלוץ בעולם קמפינג Pop-up עובר להילוך חדש עם קמפר בחירום קל\n\nאלסקן קמפרס, היצרן האגדי שבנה קמפרים טלסקופיים לאישוט למשך 60 שנה, מחליטה לשנות כיוון ולהשקיע בסוג חדש לגמרי של קמפר - ובזמן שהשוק שופע בחיקויים זולים של פופ-אפים בדיים, למערכות קשות לבנייה עדיין יש משהו מיוחד. החברה שיצרה את התקן לקמפרים קטנים פשוט לא יכלה להישאר בצד בתחרות החדשות הללו.",
     "d": "Tue, 21 Apr 2026 23:04:00 GMT",
     "v": 0,
     "l": [
@@ -73,7 +73,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Jim Cramer says Tim Cook accomplished something 'almost impossible' as Apple CEO\n\nCNBC's Jim Cramer reflects on Apple CEO Tim Cook's legacy building the \"greatest consumer-based enterprise in history.\"",
+    "t": "ג'ים קריימר: טים קוק הצליח לעשות משהו 'כמעט בלתי אפשרי' כ-CEO של אפל\n\nמנתח CNBC המובהק ג'ים קריימר עומד להעריך את ירושתו של טים קוק, שבנה את מה שהוא קורא ל'הארגון הצרכני הגדול בהיסטוריה'. קריימר מדבר על ההישגים הלא רגילים של קוק בהנהלת אפל והשימור של סטטוסה כעיגול הזהב של טכנולוגיה באמריקה.",
     "d": "Tue, 21 Apr 2026 23:00:01 GMT",
     "v": 0,
     "l": [
@@ -86,12 +86,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Apple"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -99,7 +96,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "SpaceX says it can buy Cursor later this year for $60 billion or pay $10 billion for 'our work together'\n\nSpaceX said it's obtained the rights to buy coding startup Cursor for $60 billion later this year or pay $10 billion for the work they're doing together.",
+    "t": "SpaceX אומרת שהיא יכולה לקנות את Cursor ב-60 מיליארד דולר או לשלם 10 מיליארד על השיתוף פעולה\n\nSpaceX הצליחה להשיג זכויות לרכוש את startup קוד Cursor תמורת 60 מיליארד דולר עד סוף השנה, או לחלופין לשלם 10 מיליארד דולר בלבד על העבודה המשותפת שביניהם. זה קצת כמו להציע שתי דרכים שונות לחלוטין להיות שותפים - או שום כסף עצום או כסף פחות עצום, בהתאם לרגש. \nמקור: CNBC Tech",
     "d": "Tue, 21 Apr 2026 22:58:24 GMT",
     "v": 0,
     "l": [
@@ -114,16 +111,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 6,
-    "t": "SpaceX is working with Cursor and has an option to buy the startup for $60 billion\n\nOnly Elon would do this before an IPO.",
+    "t": "SpaceX משקיעה ב-Cursor ויש לה אפשרות לקנות את החברה ב-60 מיליארד דולר\n\nאלון מאסק עושה את זה רק לפני IPO - SpaceX וחברת Cursor, שמפתחת AI editor למתכנתים, החתימו על דיל המאפשר ל-SpaceX לרכוש את סטארטאפ בערך עצום, במהלך שיווקי ההנפקה הקרוב של SpaceX. זה הסוג של המהלך שרק מאסק היה מתחשב בו, כשהוא משחק בעקרונות האופטימיים של בורסה ודינאמיקה עסקית קלאסית.",
     "d": "Tue, 21 Apr 2026 22:58:22 +0000",
     "v": 0,
     "l": [
@@ -138,16 +134,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 7,
-    "t": "SpaceX cuts a deal to maybe buy Cursor for $60 billion\n\nWith an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or pay a fee of $10 billion. Buying this startup that's focused on AI coding could help xAI's tools compete with market leader Anthropic, as well as the other competitors. A report by The Information this week said Sergey Brin has directed Google's \"strike team\" to help its agentic AI tools catch up, w",
+    "t": "SpaceX מנהלת משא ומתן לרכישת Cursor ב-60 מיליארד דולר\n\nSpaceX הודיעה על עסקה חריגה שבה היא תוכל לרכוש את פלטפורמת התכנות האוטומטי Cursor ב-60 מיליארד דולר, או לחלופין לשלם דמי עיסקה של 10 מיליארד. הרכישה של המערכת המתמחה ב-AI coding יכולה לעזור ל-xAI של מאסק להתחרות עם Anthropic וחברות קודחות נוספות בשוק. הכל קורה כשהמשימה מתכוננת ל-IPO ובעוד Google מקימה 'יחידת חירום' כדי שהכלים ה-agentic שלה לא יישארו מאחור.",
     "d": "2026-04-21T22:45:37.000Z",
     "v": 0,
     "l": [
@@ -167,16 +162,15 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news",
       "model",
-      "funding",
       "agents"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 8,
-    "t": "Jim Cramer says these stocks show why you need to trade on fundamentals, not fear\n\nCNBC's Jim Cramer highlighted stocks whose turnaround stories explained why investors need to focus on fundamentals, not fear, when trading.",
+    "t": "ג'ים קריימר: למה חייבים לסחור על בסיס פאנדמנטליקה ולא על פחד\n\nקריימר מCNBC הראה כמה מניות שעברו טרנספורמציה מעניינת כדי להוכיח לנו שצריך להתמקד בפאנדמנטליקה של החברות ולא להיות נשלטים על ידי פחד בשוק. זה הנושא הקלאסי בעולם ההשקעות - המון אנשים מוכרים בפניקה כשהשוק יורד, אבל זה בדיוק הזמן להתבונן בנתונים הקשים של החברה.",
     "d": "Tue, 21 Apr 2026 22:36:32 GMT",
     "v": 0,
     "l": [
@@ -199,7 +193,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Apple's elevation of silicon head Johny Srouji signals sprint to build in-house chips for all devices\n\nWith the promotion of silicon head Johny Srouji to hardware boss, Apple is showing urgency its its effort to make custom chips for all iPhones and Macs.",
+    "t": "אפל מעלה את ראש הסיליקון שלה - אות ירוקה לתוכנית הענקית של צ'יפים משלהם\n\nעם קידום של ג'וני סרוג'י לתפקיד boss של Hardware, אפל מראה שהיא ממש בעניין להחליף את כל הצ'יפים בכל המכשירים שלה - אייפונים, מקים והכל. זה הזמן שאפל באמת לוקחת את הפיתוח פנימה ופוחתת את התלות בספקים חיצוניים. מהלך זה עשוי להיות משחק־משנה בתעשיית הטכנולוגיה.",
     "d": "Tue, 21 Apr 2026 22:28:30 GMT",
     "v": 0,
     "l": [
@@ -212,12 +206,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Apple"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -225,7 +216,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now\n\nListen to the session or watch below Watch a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review’s signature conference for AI leadership. Subscribers got an exclusive first look at a new list capturing 10 key technologies, emerging trends, bold ideas, and powerful movements in AI that you need to know about…",
+    "t": "עשר הדברים שחייבים לכם להכיר בעולם ה-AI כרגע\n\nMIT Technology Review פרסמה רשימה חדשה של 10 טכנולוגיות וטרנדים קריטיים בעולם ה-AI שאתם צריכים להעביר בכל מקרה. בסשן שהשודר ישירות מכנס EmTech AI של MIT, הם חושפים איילות ideas חדשות ותנועות רציניות שמעצבות את תחום ה-AI כרגע, וזה בדיוק הזמן שלכם להיות בחזית הגל.",
     "d": "Tue, 21 Apr 2026 22:09:25 +0000",
     "v": 0,
     "l": [
@@ -248,7 +239,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "Apple has an opportunity to rediscover humanity in its push toward AI\n\nJohn Ternus can remake Apple the way it should have been OPINION  Apple's pending leadership transition affords the company a rare opportunity to return to its roots and once again serve as a source of inspiration instead of frustration.…",
+    "t": "לאפל יש הזדמנות ממשית להחזיר את ההיבט האנושי לאסטרטגיית ה-AI שלה\n\nעם המעבר השמונות לידיים חדשות בהנהלה, אפל יכולה לחזור לשורשיה ולהיות שוב מקור השראה במקום תסכול. זה הרגע האידיאלי לחברה להוכיח שהאינטגרציה של AI בא לשירות האדם ולא להפך - ולהזכיר למה בכלל התחברנו לאפל בראשון ובראשית. כל זה בעוד שתחרותים כמו גוגל וסמסונג רצים חצי עיוור אחרי טכנולוגיה בשביל טכנולוגיה.",
     "d": "2026-04-21T22:06:58.000Z",
     "v": 0,
     "l": [
@@ -261,12 +252,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Apple"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -297,7 +285,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "Pentagon wants $54B for drones, more than most nations’ military budgets\n\nThe proposed Pentagon drone investment rivals Ukraine’s entire military budget.",
+    "t": "הפנטגון רוצה 54 מיליארד דולר לדרונים - יותר מתקציב צבאי של מרבית המדינות\n\nההשקעה המהומה של הפנטגון בטכנולוגיית דרונים היא בסדר גודל של כל תקציב הביטחון של אוקראינה - זה מעיד על כמה ענק התקציב הזה בהשוואה גם למדינות עם צבאות משמעותיים. ברור שארה\"ב רואה בטכנולוגיית הדרונים את העתיד של כוח צבאי, ומסוכנות בתכניות עתידותיים.",
     "d": "Tue, 21 Apr 2026 21:57:54 +0000",
     "v": 0,
     "l": [
@@ -312,8 +300,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/US-military-drone-1152x648.jpeg",
@@ -321,7 +308,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150\n\nCTO says new AI model is \"every bit as capable\" as world's best security researchers.",
+    "t": "Mozilla: דגם ה-AI של Anthropic, Mythos, גילה 271 חולשות אבטחה ב-Firefox 150\n\nמודל AI חדש של Anthropic מסוגל לגלות באגים בדיוק כמו החוקרי אבטחה המיטביים בעולם, לפי ה-CTO של החברה. בדיקת אבטחה ממוחשבת של Firefox 150 חשפה כמעט 300 בעיות אבטחה שהדגם הצליח לזהות, מה שמעיד על יכולות מרשימות של בינה מלאכותית בתחום ה-cybersecurity.",
     "d": "Tue, 21 Apr 2026 21:40:41 +0000",
     "v": 0,
     "l": [
