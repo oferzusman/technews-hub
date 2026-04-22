@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Watch Sony&#8217;s elite ping-pong robot beat top-ranked players\n\nAce is the first robot that can beat the best human players while following the official rules of table tennis. | Image: Sony AI\t\n\nHumans have been building ping-pong playing robots for decades, such as Omron's FOREPHUS that challenged amateur competitors at CES 2017. What sets Ace apart from the rest is that the robot, which was developed by Sony's AI division, is the first that can hold its own against top-ranked human players and occasionally even beat them in matches that follow the official",
+    "t": "צפו בהרובוט טניס השולחן אליטי של סוני מנצח שחקנים דורגים בקדמי\n\nסוני חשפה את Ace, רובוט פינג פונג חדשני שפיתחה חטיבת ה-AI שלה, והוא עושה משהו שלא עשה רובוט עד כה - הוא בעצם מנצח שחקנים בדרגה גבוהה בתחרויות סדורות בחוקי המשחק הרשמיים. במשך עשרות שנים בנו מדע תחרותי רובוטים פינג פונג, אבל Ace הוא הראשון שיכול להתמודד בשוויון נגד האלופים האמיתיים של הספורט וגם להביס אותם מדי פעם. זה לא רק עוד צעצוע טכנולוגי - זה הוכחה חי שה-AI של סוני יכולה לשלוט בתנועות דיוק קיצוניות ובקבלת החלטות מהירות בזמן אמת.",
     "d": "2026-04-22T17:43:38.000Z",
     "v": 0,
     "l": [
@@ -16,8 +16,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -25,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Microsoft's LinkedIn names longtime exec Dan Shapero its new CEO\n\nMicrosoft said Daniel Shapero will be the new CEO of LinkedIn, reporting to Ryan Roslansky, who held the job since 2020 and now has added responsibility.",
+    "t": "מיקרוסופט: דן שפרו הוא המנכ\"ל החדש של לינקדאין\n\nלינקדאין מקבלת מנהיג חדש - דן שפרו, בעל ניסיון ארוך בחברה, שיעבוד תחת פיקוח של רייאן רוסלנסקי שכיהן בתפקיד מאז 2020 ועכשיו לוקח על עצמו אחריויות נוספות. זה צעד ארגוני שמחזק את המבנה ההנהלתי בפלטפורמת הרשתות המקצועיות הגדולה בעולם.",
     "d": "Wed, 22 Apr 2026 17:42:53 GMT",
     "v": 0,
     "l": [
@@ -38,20 +37,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 3,
-    "t": "Google turns Chrome into an AI coworker for the workplace\n\nGoogle brings Gemini-powered 'auto browse' capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+    "t": "גוגל הופכת את Chrome ל-AI עוזר עבודה במקום העבודה\n\nגוגל משיקה יכולות 'auto browse' מופעלות על ידי Gemini ב-Chrome לעובדים בחברות, כך שהם יכולים להאיץ משימות כמו מחקר, הזנת נתונים ועוד. בעצם, הם רוצים שהעובד שלך יהיה בחצי מהשלושה בתוך הבראוזר. זה משחק משנה עבור פרודוקטיביות במשרד.",
     "d": "Wed, 22 Apr 2026 17:30:00 +0000",
     "v": 0,
     "l": [
@@ -77,7 +73,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Pentagon asks for $54bn in pivot towards AI-powered war\n\nBudget outlines funding for autonomous drone warfare program as experts say military unprepared for risks\nThe Pentagon is aiming to increase funding more than a hundredfold for an autonomous drone warfare program, according to budget documents released this week, signalling a major pivot towards AI-powered war.\nIn its 2027 budget, the Pentagon has asked for over $54bn to fund the Defense Autonomous Warfare Group, a 24,000% increase on last year.\n Continue reading...",
+    "t": "הפנטגון מבקש 54 מיליארד דולר לתכנית מלחמה מונעת בAI\n\nהפנטגון מתכננת קפיצה ענקית - יותר מ-54 מיליארד דולר לתכנית זקיפת דרונים אוטונומיים, עלייה של 24,000% בהשוואה לשנה שעברה. זה המהלך הגדול ביותר של המצבא האמריקני לעבר מלחמה מונעת בAI, אבל מומחים מעירים עד כמה לא מוכן הצבא לסיכונים האמיתיים של הטכנולוגיה הזו. מדובר על משהו שחוצה קו משמעותי בעולם המלחמה המודרנית.",
     "d": "Wed, 22 Apr 2026 17:24:02 GMT",
     "v": 0,
     "l": [
@@ -92,9 +88,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/4e8fe834662e976df9a4b341d003027e051a4256/275_0_2949_2359/master/2949.jpg?width=140&quality=85&auto=format&fit=max&s=b22e894ee785aded1d41f6d3ccc544b5",
@@ -102,7 +96,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Google's new AI tools put film scouting in Street View and promise to cut weeks of satellite analysis to minutes\n\nAt Cloud Next, Google unveiled three new AI imaging tools. Creatives can drop AI-generated images into real Street View locations, Google says city planners will be able to analyze satellite imagery in minutes instead of weeks, and developers get new models that can identify objects like bridges and power lines.\nThe article Google's new AI tools put film scouting in Street View and promise to cut weeks of satellite analysis to minutes appeared first on The Decoder.",
+    "t": "כלים AI חדשים של גוגל: הנחתות סרטים דרך Street View וניתוח לוויני שיקח דקות במקום שבועות\n\nגוגל חשפה בכנס Cloud Next שלוש כלים חדשים לעריכת תמונות בעזרת AI שמשנים את המשחק. יוצרים יוכלו להטיל תמונות שנוצרו בעזרת AI ישר למיקומים אמיתיים ב-Street View, מתכננים ערים יוכלו לנתח צילומי לוויין תוך דקות במקום שבועות, ומפתחים יקבלו מודלים חדשים שיודעים לזהות אובייקטים כמו גשרים וקווי חשמל. זהו כמו לתת לבחורים של Hollywood ו-City Hall כוח על-אנושי של ראיית רנטגן, אבל רק לתמונות.",
     "d": "Wed, 22 Apr 2026 17:22:59 +0000",
     "v": 0,
     "l": [
@@ -115,12 +109,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "http://the-decoder.com/wp-content/uploads/2026/04/streetview_demo_genai.mp4",
@@ -128,7 +119,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Today Is the Day Anthropic Promised That Fully Autonomous Employees Would Be Tearing Through the Business World\n\nHow time flies.\nThe post Today Is the Day Anthropic Promised That Fully Autonomous Employees Would Be Tearing Through the Business World appeared first on Futurism.",
+    "t": "היום הגיע: Anthropic טוענת שעובדים AI אוטונומיים מלאים כבר צריכים להיות בשוק\n\nוואו, איך הזמן עף! Anthropic הבטיחה פעם שנראה סוכנים AI שפועלים באופן מלא עצמאי ויכולים להתמודד עם עבודות ממשיות בעולם הביזנס, והיום זה הערך שהן קבעו למטרה הזו. התברר שהחזון הזה של AI עובדים מהפכניים עדיין לא כל כך קרוב למציאות כמו שחשבנו...",
     "d": "Wed, 22 Apr 2026 13:03:20 -0400",
     "v": 0,
     "l": [
@@ -146,8 +137,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "robotics"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/anthropic-ai-agents-prediction.jpg?quality=85",
@@ -155,7 +145,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Google makes an interesting choice with its new agent building tool for enterprises\n\nGemini Enterprise Agent Platform takes an interesting approach: it is geared for IT and technical users.",
+    "t": "גוגל בחרה בדרך מעניינת עם כלי בניית אגנטים החדש שלה לארגונים\n\nפלטפורמת Gemini Enterprise Agent של גוגל לוקחת גישה אחרת - היא מכוונת במיוחד למשתמשים טכניים ואנשי IT. זה אומר שגוגל בחרה להתמקד בכך שמהנדסים וקוד-כותבים יוכלו לבנות אגנטים AI כדי לעזור לארגונים שלהם, במקום לתת לכל אחד להתחיל מאפס. החלטה חכמה שמאוד יכולה להצליח בשוק הארגוני. מקור: TechCrunch AI",
     "d": "Wed, 22 Apr 2026 16:58:27 +0000",
     "v": 0,
     "l": [
@@ -182,7 +172,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "Anthropic&#8217;s Mythos rollout has missed America’s cybersecurity agency\n\nSeveral US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinator. \nOn Tuesday, Axios reported that the Cybersecurity and Infrastructure Security Agency (CISA) didn't have access to Mythos Preview, which Anthropic has touted as a powerful tool for finding and patching security vulnerabilities. Meanwhile, other agencies like Commerce Department and National Secur",
+    "t": "הדחיפה של Anthropic למודל Mythos עברה על פני סוכנות הסייבר של אמריקה\n\nבעוד שסוכנויות פדרליות אמריקאיות אחרות כמו משרד המסחר וגופים נוספים כבר משתמשים ב-Mythos Preview של Anthropic לחיפוש חולשות אבטחה, נראה שה-CISA (סוכנות הסייבר הממשלתית המרכזית) נותרה בחוץ מהמסיבה. זה די מצחיק בהתחשב בכך שהמודל החדש של Anthropic מיועד בדיוק לתפקידים כאלה - למצוא ולתקן פגיעויות בטיחותיות. אז כאן יש לנו מצב שבו סוכנות הסייבר הגדולה של ארצות הברית כנראה מפספסת את הגישה לכלי שיכול באמת לעזור לה בעבודה.",
     "d": "2026-04-22T16:57:36.000Z",
     "v": 0,
     "l": [
@@ -200,16 +190,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 9,
-    "t": "Tabloid reports linking 10 missing and dead scientists spur FBI probe\n\nFBI suspects foreign spies may be targeting scientists with access to government secrets.",
+    "t": "דיווחים על מדענים חסרי קול מעוררים חקירה של FBI\n\nה-FBI חוקר אם סוכנויות מודיעין זרות מנסות לתקוף מדענים שיש להם גישה למידע סודי של הממשלה. זה נראה כמו סיפור סיוני, אבל הוקד של הערכות המודיעין האמריקאיות אומר שזה ממש אפשרי - וזה די מדאיג. מקור: Ars Technica",
     "d": "Wed, 22 Apr 2026 16:46:31 +0000",
     "v": 0,
     "l": [
@@ -226,13 +215,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2262176677-1024x648.jpg",
     "source": "Ars Technica"
   },
   {
     "id": 10,
-    "t": "AI Overviews are coming to your Gmail at work\n\nThe AI Overviews will offer instant summaries pulled from across multiple emails.",
+    "t": "AI Overviews מגיעים לג'יימיל שלכם בעבודה\n\nגוגל מביאה את התכונה החדשה שלה שתעשה לכם סיכום מיידי של כל האימיילים שלכם - במקום לקרוא עצמכם הכל, ה-AI יעשה את העבודה הקשה ויחלץ את המידע החשוב מכל ההתכתבויות שלכם. זה קצת כמו שיש לכם מזכיר פרטי שמחכה להעמיד בפניכם את כל המה שחשוב בשנייה אחת.",
     "d": "Wed, 22 Apr 2026 16:46:10 +0000",
     "v": 0,
     "l": [
@@ -255,7 +244,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "Google Meet will take AI notes for in-person meetings too\n\nGoogle's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of in-person meetings now, as well as meetings on Zoom and Microsoft Teams, as first reported by 9to5Google. \nSupport for in-person meetings was previously limited to alpha users and only available on Android. Google's support page for the feature notes that, \"If a user who is not in person wants to join the meeting, you can transition the meeting to a normal video call.\" The f",
+    "t": "גוגל מיט יקבל הערות AI גם לפגישות פנים אל פנים\n\nגוגל הרחיבה את יכולות הערות ה-AI שלה מעבר ל-Google Meet - עכשיו Gemini יכול להכין תקציר וטרנסקריפציה גם לפגישות פנים אל פנים, בנוסף לפגישות ב-Zoom ו-Microsoft Teams. התכונה שהייתה זמינה עד כה רק למשתמשי אלפא באנדרואיד, תהיה כעת זמינה בהרבה יותר מקומות, מה שמשנה את המשחק לכל מי שמתיש מלכתוב הערות בפגישות.",
     "d": "2026-04-22T16:38:19.000Z",
     "v": 0,
     "l": [
@@ -277,13 +266,13 @@ window.TELEGRAM_DATA = [
       "model",
       "product"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 12,
-    "t": "Next Leap to Harness Engineering: JiuwenClaw Pioneers ‘Coordination Engineering’\n\nHow to make multiple agents work together like an elite team — autonomously dividing tasks, communicating efficiently, and collaborating seamlessly? The openJiuwen community released the latest version of JiuwenClaw, which adds support for AgentTeam — a multi-agent collaborative capability. It proposes that the next leap beyond Harness Engineering is Coordination Engineering. In in-depth tests, this team […]\nThe post Next Leap to Harness Engineering: JiuwenClaw Pioneers ‘Coordination Engineering",
+    "t": "הקפיצה הבאה בהנדסת שליטה: JiuwenClaw מציעה 'הנדסת תיאום'\n\nקהילת openJiuwen השיקה את הגרסה החדשה של JiuwenClaw שמאפשרת לכמה AI agents לעבוד ביחד כמו קבוצת מומחים - מחלקת משימות באופן אוטונומי, תקשורת יעילה וריתוק חלק. זה הצעד הבא אחרי Harness Engineering שמתקדם לדבר שקוראים לו Coordination Engineering. במבחנים מעמיקים, טכנולוגיה זו מוכיחה שתוכן זה עובד ממש טוב.\n\nמקור: MarkTechPost",
     "d": "Wed, 22 Apr 2026 16:34:58 +0000",
     "v": 0,
     "l": [
@@ -299,7 +288,6 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "robotics",
       "regulation",
       "agents"
     ],
@@ -309,7 +297,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "Tesla set to report first-quarter results after the bell\n\nTesla's stock has underperformed all of its megacap peers so far this year as global competition ramps up in the electric vehicle market.",
+    "t": "טסלה עומדת להכריז על תוצאות הרבעון הראשון אחרי סגירת הבורסה\n\nאחרי שנה שקשה על אמת, טסלה מתכוננת להגיש את התוצאות הכספיות שלה - ובינתיים מניית החברה מתנהלת הרבה יותר בעיקו מאשר המתחרות המגה-קאפ שלה. התחרות הגלובלית בשוק הרכב חשמלי מתגברת ובצפויה להוביל לעוד איזונים בין שחקנים שונים בתחום. הכל תלוי בנתונים שתוציא טסלה הערב - וברור שהשוק משקיף בחרדה.",
     "d": "Wed, 22 Apr 2026 16:32:54 GMT",
     "v": 0,
     "l": [
@@ -326,13 +314,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 14,
-    "t": "Nvidia backs AI company Vast Data at $30 billion valuation\n\nThe chip giant has increasingly become an investor of companies involved in the AI boom.",
+    "t": "Nvidia משקיעה בחברת AI - Vast Data הגיעה להערכת שווי של 30 מיליארד דולר\n\nענקית הצ'יפים של Nvidia הופכת יותר ויותר למשקיעה במיזמים שמנצלים את הגל של AI, והפעם היא תומכת בחברת הסטורג' הישראלית Vast Data בהערכה מרשימה - הם באמת לא מפקפקים בעתיד של התחום הזה.",
     "d": "Wed, 22 Apr 2026 16:27:22 GMT",
     "v": 0,
     "l": [
@@ -350,16 +338,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "hardware",
-      "funding"
+      "hardware"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 15,
-    "t": "Google Cloud customer wakes up to $18,000+ bill despite $7 budget, thanks to forgotten API key in published project — attacker put in 60,000+ requests and blasted through $1,400 spending cap\n\nJesse Davies, an Australian AI consultant and founder of Agentic Labs, was caught unawares when their Google Cloud bill ballooned to more than 2,500 times their initial budget after an unknown API key registered more than 60,000 requests while they were asleep.",
+    "t": "חרטה גדולה של Google Cloud: חשבון של 18,000 דולר בגלל API key שנשכח בפרויקט פתוח\n\nמייסד חברת Agentic Labs מהאוסטרליה התעורר לחרטה苦ה כשגילה שחשבון Google Cloud שלו התנפח מ-7 דולר ל-18,000 דולר בן לילה. מתקיף כלשהו הצליח להשתמש ב-API key שנשכח בפרויקט ציבורי וביצע למעלה מ-60,000 בקשות, חרג את מגבלת ההוצאות של 1,400 דולר, וגרם להפתעה לא נעימה לחברה החדשה בתחום ה-AI.",
     "d": "Wed, 22 Apr 2026 16:19:24 +0000",
     "v": 0,
     "l": [
@@ -386,7 +373,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "Nvidia CEO Says AI Will Be a Permanent Micromanaging Boss Who Never Stops Nagging You\n\nOh, great.\nThe post Nvidia CEO Says AI Will Be a Permanent Micromanaging Boss Who Never Stops Nagging You appeared first on Futurism.",
+    "t": "מנכ\"ל Nvidia: ה-AI יהיה הבוס המיקרומנג'ר שלכם שלעולם לא יפסיק להציק\n\nמנכ\"ל Nvidia חזר ללא רחימים עם תחזוקת עתידות: ה-AI העתידי יהיה כמו מנהל שמעקב על כל צעד שלכם בעבודה, מצמיד ותמיד יש לו משהו שצריך לשנות. מה שעד עכשיו נשמע כמו סרט דיסטופי, אחד מכובשי הטכנולוגיה שלנו רואה כזו עתידות ומדבר על זה בגלוי - כמו שהוא אומר, הוא לא חושב שזו בעיה.",
     "d": "Wed, 22 Apr 2026 12:13:29 -0400",
     "v": 0,
     "l": [
@@ -412,7 +399,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "Scientists produce cleaner fuel by 'catching lightning in a bottle'\n\nPeople often muse over catching lightning in a bottle, and what an amazing feat it would be. But have you ever wondered what comes next if we do it? Well, researchers at Northwestern University have bottled lightning and are using it for something just as remarkable: clean fuel. Their technology uses plasma in glass tubes to produce methanol from methane gas, a process that typically requires enormous amounts of energy.\nContinue Reading\nCategory: Energy, Engineering\nTags: Northwestern University",
+    "t": "מדענים יוצרים דלק נקי על ידי 'תפיסת ברק בבקבוק'\n\nחוקרים מאוניברסיטת נורת'וסטרן הצליחו לעשות משהו פשוט מדהים - הם תופסים ברק בתוך צינורות זכוכית וגורמים לו ליצור דלק נקי! הטכנולוגיה שלהם משתמשת בפלזמה כדי להמיר גז מתאן למתנול, תהליך שבדרך כלל דורש כמויות ענקיות של אנרגיה. זה שם קצת אחרת למושג של ייעול החשמל לדלק - ובדיוק מה שאנחנו צריכים כדי לפתור את בעיית האנרגיה הנקייה.",
     "d": "Wed, 22 Apr 2026 15:55:42 GMT",
     "v": 0,
     "l": [
@@ -435,7 +422,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "Reversing enterprise security costs with AI vulnerability discovery\n\nAutomated AI vulnerability discovery is reversing the enterprise security costs that traditionally favour attackers. Bringing exploits to zero was once viewed as an unrealistic goal. The prevailing operational doctrine aimed to make attacks so expensive that only adversaries with functionally unlimited budgets could afford them, thereby disincentivising casual use. However, the recent evaluation by the […]\nThe post Reversing enterprise security costs with AI vulnerability discovery appeared firs",
+    "t": "הפיכת עלויות האבטחה בעידן ה-AI: גילוי חולשות בעזרת בינה מלאכותית\n\nAI משנה את המשחק בעולם אבטחת התוכנה - כלים אוטומטיים לגילוי vulnerabilities הופכים את כלל המשחק לטובת ההגנה ופוגעים במודל העסקי של המתקפלים. עד היום חשבנו שהיעד של אפס exploits הוא בעצם בלתי אפשרי, אבל ה-AI פשוט מוכיח לנו שטעינו - הוא הופך את ההתקפות ליקרות מדי גם לגנבי הרקיט. המשמעות? חברות גדולות יכולות סוף סוף להשיג יתרון אמיתי בקרב בראש החודשות האחרונות.",
     "d": "Wed, 22 Apr 2026 15:45:14 +0000",
     "v": 0,
     "l": [
@@ -450,9 +437,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -460,7 +445,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+    "t": "הדגמת Gemma 4 VLA על Jetson Orin Nano Super\n\nגוגל הציגה את Gemma 4, מודל ה-VLA החדש שלה (Vision Language Action), שרץ בהצלחה על חומרה קטנה כמו Jetson Orin Nano Super - משהו שפותח אפשרויות ממשיות לـ AI מקומי בקצה. זו אחת מהצעדים המעניינים בהנגשת מודלים חזקים לציוד יותר זול וקטן, מה שיכול לשנות את המשחק בתחום ה-robotics וה-edge computing בישראל. המודל מסוגל לעבד גם טקסט וגם ויזואליה, וזה כל מה שצריך כדי לתת לרובוטים ול-devices חכמים יכולות ממשיות של AI.",
     "d": "Wed, 22 Apr 2026 15:40:50 GMT",
     "v": 0,
     "l": [
@@ -475,7 +460,8 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news"
+      "news",
+      "robotics"
     ],
     "imp": "low",
     "thumb": null,
@@ -483,7 +469,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "Physicists think they've solved the muon mystery\n\nResults dash hopes for a fifth force but provide very precise proof of Standard Model and QFT.",
+    "t": "פיזיקאים חושבים שפתרו את תעלומת המואון\n\nהתוצאות החדשות מערערות תקוות למציאת כוח חמישי ביקום, אבל בחזקה מאוד מחזקות את מודל התקן ותאוריית השדות הקוונטיים. מדובר בצעדים גדולים בהבנת הפיזיקה הבסיסית שלנו. מקור: Ars Technica",
     "d": "Wed, 22 Apr 2026 15:40:02 +0000",
     "v": 0,
     "l": [
@@ -506,7 +492,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "Samsung engineer sentenced to 7 years in prison for selling chipmaking trade secrets to Chinese chipmaker — ex-employee supplied 10nm DRAM data to CXMT for $2 million\n\nAn ex-Samsung employee accused of corporate espionage has been sentenced to 7 years in prison for sharing over 600 critical chipmaking steps.",
+    "t": "מהנדס סמסונג נידון ל-7 שנות כלא על מכירת סודות ייצור שבבים לחברה סינית — עובד לשעבר סיפק נתוני DRAM ברזולוציית 10nm תמורת 2 מיליון דולר\n\nעובד סמסונג לשעבר נידון לשבע שנים בכלא בגין מעשי מרגלות תאגידית וחלוקת מעל 600 שלבים קריטיים בתהליך ייצור השבבים. המהנדס מסר מידע סודי על DRAM בנוגע לחברה הסינית CXMT תמורת 2 מיליון דולר, במקרה שמשקף את התחרות הגוברת על טכנולוגיית שבבים בין מערב לסין.",
     "d": "Wed, 22 Apr 2026 15:39:09 +0000",
     "v": 0,
     "l": [
@@ -529,7 +515,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "Google unveils 8th-gen TPUs, agent platform, and Workspace AI layer at Cloud Next '26\n\nGoogle used its Cloud Next '26 conference to unveil its eighth-generation TPUs, a revamped agent platform, and a new AI layer for Workspace. The company is pitching the whole package under the banner \"Agentic Enterprise.\"\nThe article Google unveils 8th-gen TPUs, agent platform, and Workspace AI layer at Cloud Next '26 appeared first on The Decoder.",
+    "t": "גוגל חושפת TPUs דור 8, פלטפורמת agents וAI layer לWorkspace בכנס Cloud Next '26\n\nגוגל הכריזה בכנס Cloud Next שלה על שלוש חידושים גדולים: דור 8 של TPUs החדשים, פלטפורמת agents משודרגת, ו-AI layer חדש לעולם של Workspace. הרעיון כולל מסתכם תחת ההנושא \"Agentic Enterprise\" שלהם - בעצם גוגל אומרת שהיא מסכנת הכל בשביל עתיד של יישומים עם AI agents עצמאיים לחברות.",
     "d": "Wed, 22 Apr 2026 15:34:51 +0000",
     "v": 0,
     "l": [
@@ -542,13 +528,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
       "news",
-      "model",
-      "regulation",
       "agents"
     ],
     "imp": "low",
@@ -557,7 +539,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "China unveils truck-mounted drone-killer laser that hits targets at 4,500 feet\n\nChina has recently unveiled a low cost mobile laser weapon that can destroy small drones...",
+    "t": "סין חושפת לייזר משודרג על משאית שהורג דרונים בטווח של 1,400 מטר\n\nסין בחרה לא מעט - היא חשפה נשק לייזר ניוד זול יחסית שיכול להשמיד דרונים קטנים. זה בעצם המשחק הגדול של סין בעולם ההנעות אווירי: במקום טילים יקרים, הם הולכים על technology של לייזר שהוא משהו בינלאומי ופחות מסובך. עוד מעט והוא יהיה סטנדרט בכל צבא שמוקדש להגנה מפני איומי דרונים.",
     "d": "Wed, 22 Apr 2026 15:15:27 +0000",
     "v": 0,
     "l": [
@@ -580,7 +562,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 24,
-    "t": "New court ruling blocks many of the government's anti-renewable policies\n\nAdded layers of review singling out renewable energy have little legal basis.",
+    "t": "פסק דין חדש חוסם את מדיניות הממשלה נגד אנרגיות מתחדשות\n\nבית משפט קבע שהדרישות הנוספות להערכה שהממשלה הטילה ספציפית על אנרגיה סולארית וקוץ אינן בעלות בסיס משפטי אמיתי, ודבר זה עלול לפתוח את הדלת בפני הרחבת השימוש באנרגיות מתחדשות בארה״ב.",
     "d": "Wed, 22 Apr 2026 15:09:28 +0000",
     "v": 0,
     "l": [
@@ -603,7 +585,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "What is Mythos AI and why could it be a threat to global cybersecurity?\n\nAnthropic’s decision to restrict access to its powerful new model increases fears about the advanced technology\nAnthropic has ruled out releasing its latest AI model, Mythos, to the public because of the threat it poses to global cybersecurity.\nHowever, the US tech startup behind the Claude chatbot confirmed on Wednesday it was investigating a report that a group of people had gained unauthorised access to Mythos. The alleged incident has raised concerns over the pace of development and the abil",
+    "t": "מה זה Mythos AI וכמה הוא יכול להוות איום על הסייבר הגלובלי?\n\nאנתרופיק החליטה לא לשחרר את ה-AI החדש והחזק שלה, Mythos, לציבור הרחב בגלל החשש מהשפעותיו על אבטחה סייברנטית עולמית. אבל זה לא כל הסיפור - התחנה גם מאשרת שהיא חוקרת דיווח על כך שקבוצה של אנשים השיגה גישה בלתי מורשית ל-Mythos, דבר שמעלה סימני שאלה גדולים על קצב ההתפתחות של ה-AI ויכולתנו לשמור עליו מפני אנשים רעים. מקור: The Guardian AI",
     "d": "Wed, 22 Apr 2026 15:03:44 GMT",
     "v": 0,
     "l": [
@@ -616,21 +598,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "security"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/c6f64edbac635ab97e61d93d77ecd485b57556e1/509_0_5031_4024/master/5031.jpg?width=140&quality=85&auto=format&fit=max&s=fcd1c4e2ab558c7eb5ac66c8b899cc56",
     "source": "The Guardian AI"
   },
   {
     "id": 26,
-    "t": "Physicists’ breakthrough method creates most intense light ever generated in lab\n\nAn international team has demonstrated a new method for producing the most intense light ever...",
+    "t": "פיזיקאים יצרו את האור העז ביותר אי פעם במעבדה בשיטה חדשנית\n\nקבוצה בינלאומית של חוקרים הצליחה ליצור אור בעוצמה שלא הייתה בעולם עד היום - וזה לא סתם משהו יפה לתמונה. השיטה החדשה יכולה להוביל לפתיחת דלתות חדשות בתחומים כמו פתוח חומרים וטכנולוגיית קוונטום, אז סביר להניח שנראה את ההשפעה של זה בעתיד הקרוב. מדובר בהישג גדול בפיזיקה שמראה שעדיין יש לנו דברים חדשים ללמוד על אור וחומר.",
     "d": "Wed, 22 Apr 2026 15:01:24 +0000",
     "v": 0,
     "l": [
@@ -647,13 +625,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://www.youtube.com/embed/qdv4DSlFOeo",
     "source": "Interesting Engineering"
   },
   {
     "id": 27,
-    "t": "AI-powered robot beats elite table tennis players\n\nIn feat hailed as milestone in robotics, Sony AI’s Ace wins three out of five matches played under official rules\nAn AI-powered robot has beaten elite players at table tennis in a significant achievement for a machine faced with human athletes in a real-world competitive sport.\nNamed Ace, the robotic system developed by Sony AI, won three out of five matches against elite players, but lost the two it played against professionals, clawing back only one game in the seven contests.\n Continue readin",
+    "t": "רובוט המופעל בAI הביס שחקני טניס שולחן עליונים\n\nSony AI השיקה את 'Ace', רובוט חכם שזכה ב-3 מתוך 5 משחקים נגד שחקנים מהשורה הראשונה בטניס שולחן, אבל הפסיד לשחקנים מקצוענים. זו הנחשבת להישג משמעותי במובילות הרובוטיקה, כי לראשונה מכונה מוכיחה את עצמה בתחרות ספורט אמיתיות נגד בני אדם בעולם האמיתי, גם אם עדיין יש מקום לשיפור בהתמודדות עם המקצוענים.",
     "d": "Wed, 22 Apr 2026 15:00:30 GMT",
     "v": 0,
     "l": [
@@ -668,9 +646,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/017923e7f1f6d987d9b787b0f3d69b7500bf82ed/353_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=10b163477d18ca39b29ef8286586a9b8",
@@ -678,7 +654,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 28,
-    "t": "Florida Opens Criminal Probe Into ChatGPT’s Role in School Shooting\n\n\"If that bot were a person they’d be charged with a principal in first degree murder.\"\nThe post Florida Opens Criminal Probe Into ChatGPT’s Role in School Shooting appeared first on Futurism.",
+    "t": "פלורידה פותחת חקירה פלילית נגד ChatGPT בקשר לירי בבית ספר\n\nהרשויות בפלורידה החלו בחקירה פלילית כדי לברר את תפקידו של ChatGPT במקרה של ירי בבית ספר, כשקצין משטרה טוען שלו AI הייתה אדם, היא הייתה נשואה בחומת רציחה בדרגה ראשונה. במקרה זה מעלות שאלות חמורות על אחריות משפטית של חברות AI וכיצד צריכה המערכת המשפטית להתייחס לתפקידה של טכנולוגיה בפשעים קשים.",
     "d": "Wed, 22 Apr 2026 10:58:30 -0400",
     "v": 0,
     "l": [
@@ -704,7 +680,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 29,
-    "t": "Linux may be ending support for older network drivers due to influx of false AI-generated bug reports — maintenance has become too burdensome for old largely-unused systems\n\nLinux kernel developers are reviewing a proposal to remove obsolete ISA and PCMCIA-era Ethernet drivers from the mainline kernel, citing rising maintenance burden from AI-driven bug reports and fuzzing. The change would cut around 27,000 lines of legacy code",
+    "t": "לינוקס עלול להפסיק תמיכה בדרייברי רשת ישנים בגלל הצפת דוחות באגים מזויפים שנוצרו על ידי AI\n\nמפתחי ליבת לינוקס שוקלים להסיר דרייברי Ethernet ישנים מתקופת ISA ו-PCMCIA מהקוד הראשי, כי ה-AI וכלים לבדיקות אוטומטיות יוצרים ריבוי דוחות באגים מטעים שהפכו את התחזוקה לבלתי קיימת. אם ההצעה תאומץ, ייחסכו כ-27,000 שורות קוד עתיק שכמעט לא משתמשים בו.\n\nSource: Tom's Hardware",
     "d": "Wed, 22 Apr 2026 14:32:12 +0000",
     "v": 0,
     "l": [
@@ -721,13 +697,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/3nYgMvQAeoYcdknTBwVHid-1280-80.png",
     "source": "Tom's Hardware"
   },
   {
     "id": 30,
-    "t": "WSU’s $2.5M transmission electron microscope to boost  research across multiple fields\n\nWashington State University has acquired a $2.5 million transmission electron microscope (TEM), expanding its materials...",
+    "t": "מיקרוסקופ אלקטרונים של 2.5 מיליון דולר בجامعة וושינגטון - משחק חדש למחקר חומרים\n\nאוניברסיטת וושינגטון רכשה מיקרוסקופ אלקטרונים משדרים (TEM) בשווי 2.5 מיליון דולר, והציוד הגדול הזה הולך לפתוח דלתות חדשות למחקר בתחומים מגוונים - מחומרים חכמים ועד ננוטכנולוגיה. המכשיר המתקדם יאפשר לחוקרים להסתכל על עולם האטומי בצורה שלא הייתה אפשרית בעבר, ויהיה זמין לשימוש של כל הקמפוס. זה בעצם כמו שתיעוף דרונים - כל קטגוריה מחקרית בקמפוס תוכל להשתמש בטכנולוגיה המתקדמת הזו.",
     "d": "Wed, 22 Apr 2026 14:25:49 +0000",
     "v": 0,
     "l": [
@@ -750,7 +726,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 31,
-    "t": "Now Meta will track what employees do on their computers to train its AI agents\n\nMeta employees' activity at work is now being used to train the company's AI agents. As reported by Reuters, Meta is installing a tool it calls Model Capability Initiative (MCI) on US-based employees' computers that runs in work-related apps and websites, recording mouse movements, clicks, keystrokes, and occasional screenshots. \nThe data from this tool will be used to train the company's AI models to get better at interacting with computers the way humans do, including automating work tasks lik",
+    "t": "מטא תעקוב אחרי פעילות עובדים במחשבים כדי לאמן את AI agents שלה\n\nמטא הפכה את מחשבי העובדים שלה לכלים לאימון - הם התקינו כלי בשם Model Capability Initiative (MCI) שרושם כל תנועת עכבר, לחיצה, הקלדה ואפילו צילומי מסך מזדמנים בזמן העבודה. הנתונים הללו ישמשו לאימון מודלי AI שלהם כדי שיצעדו בנעליים של אדם וילמדו לעשות דברים כמו אוטומציה של משימות עבודה. זה נראה כמו אחת ההחלטות המוזרות ביותר של מטא בשנה האחרונה, אבל נניח שיש להם סיבות טובות לכך.",
     "d": "2026-04-22T14:22:35.000Z",
     "v": 0,
     "l": [
@@ -763,15 +739,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
       "news",
-      "model",
       "agents"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
@@ -826,7 +799,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 34,
-    "t": "Indian med student rakes in thousands with AI-generated MAGA hottie\n\n\"Emily Hart\" is a young, AI-created conservative woman who likes to take off her clothes.",
+    "t": "סטודנט רפואה הודי מרוויח אלפים בעזרת בחורה MAGA שנוצרה בAI\n\n\"אמילי הארט\" היא אישה שמרנית וירטואלית שנוצרה באמצעות AI, והסטודנט השתמש בה כדי ליצור תוכן שיווקי רווחי - המקרה הזה מעלה שאלות חמות על הנעשה בעידן של תמונות ווידיאוים מלאכותיים בקנה מידה ענק.",
     "d": "Wed, 22 Apr 2026 14:13:01 +0000",
     "v": 0,
     "l": [
@@ -990,7 +963,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 41,
-    "t": "As EV batteries improve, ChargePoint debuts 600 kW fast charger\n\nThe new design is cheaper and will even fit in convenience store parking lots.",
+    "t": "ChargePoint משיקה טעינה מהירה של 600 קילוואט כשסוללות רכב חשמלי משתפרות\n\nChargePoint באה עם פתרון טעינה חדש שלא רק יותר זול מהדור הקודם, אלא גם כל כך קומפקטי שאפשר להציב אותו אפילו בחניון של חנות נוחות. זה בדיוק מה שהשוק של רכב חשמלי צריך - יותר מחנות ופחות מתחם מיוחד.\n\nמקור: Ars Technica",
     "d": "Wed, 22 Apr 2026 13:49:09 +0000",
     "v": 0,
     "l": [
@@ -2135,7 +2108,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 89,
-    "t": "Introducing workspace agents in ChatGPT\n\nWorkspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+    "t": "סוכני Workspace חדשים ב-ChatGPT\n\nOpenAI הציגה סוכני Workspace חדשים שיכולים לאוטומציה של תהליכים מורכבים בעזרת Codex, ולהריץ אותם בעננן כדי שהצוותים יוכלו להגדיל את הייצור שלהם על פני כל הכלים בביטחון. זה בעצם כמו לשכור עוזר דיגיטלי שיודע להשתמש בכל הטולים שלך ויעשה את העבודה המשעממת עבורך.",
     "d": "Wed, 22 Apr 2026 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -2153,8 +2126,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -2162,7 +2134,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 90,
-    "t": "Speeding up agentic workflows with WebSockets in the Responses API\n\nA deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+    "t": "האצת סרבי Agents עם WebSockets ב-Responses API\n\nאם אתם עוסקים ב-agents חכמים, יש לכם כאן דברים מעניינים - OpenAI חושפת איך WebSockets וcaching ברמת החיבור הצליחו להוריד משמעותית את העומס על API ולשפר את ההשהיה של המודל. זה לא רק טכניקה אחרת, זה כמו שפיצרו את הדרך שבה agentים מתקשרים עם המודל.",
     "d": "Wed, 22 Apr 2026 10:00:00 GMT",
     "v": 0,
     "l": [
@@ -2175,9 +2147,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
       "news",
+      "model",
       "agents"
     ],
     "imp": "low",
@@ -2877,7 +2852,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 120,
-    "t": "Introducing OpenAI Privacy Filter\n\nOpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
+    "t": "OpenAI חוושפת Privacy Filter - מסנן פרטיות חדש\n\nOpenAI הציגה מודל חדש בקוד פתוח שמסוגל לזהות ולמחוק מידע אישי (PII) בטקסטים בדיוק מרשים - הפתרון האידיאלי לחברות שרוצות להגן על נתוני המשתמשים שלהן בזמן שהן עובדות עם LLM. המודל עובד ישירות וללא צורך בשרת חיצוני, מה שהופך אותו לעדיף משפקודו לפרטיות המשתמשים.",
     "d": "Wed, 22 Apr 2026 00:00:00 GMT",
     "v": 0,
     "l": [
