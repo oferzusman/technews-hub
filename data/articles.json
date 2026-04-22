@@ -101610,6 +101610,951 @@
       "priority": "batch",
       "fetchedAt": "2026-04-22T14:25:18.899Z",
       "created_at": "2026-04-22T14:25:18.899Z"
+    },
+    {
+      "id": 5046,
+      "source": "The Verge AI",
+      "title_en": "Watch Sony&#8217;s elite ping-pong robot beat top-ranked players",
+      "description_en": "Ace is the first robot that can beat the best human players while following the official rules of table tennis. | Image: Sony AI\t\n\nHumans have been building ping-pong playing robots for decades, such as Omron's FOREPHUS that challenged amateur competitors at CES 2017. What sets Ace apart from the rest is that the robot, which was developed by Sony's AI division, is the first that can hold its own against top-ranked human players and occasionally even beat them in matches that follow the official",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
+      "image_url": null,
+      "pub_date": "2026-04-22T17:43:38.000Z",
+      "author": "Andrew Liszewski",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-22T17:45:15.246Z",
+      "created_at": "2026-04-22T17:45:15.246Z"
+    },
+    {
+      "id": 5047,
+      "source": "The Verge AI",
+      "title_en": "Anthropic&#8217;s Mythos rollout has missed America’s cybersecurity agency",
+      "description_en": "Several US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinator. \nOn Tuesday, Axios reported that the Cybersecurity and Infrastructure Security Agency (CISA) didn't have access to Mythos Preview, which Anthropic has touted as a powerful tool for finding and patching security vulnerabilities. Meanwhile, other agencies like Commerce Department and National Secur",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out",
+      "image_url": null,
+      "pub_date": "2026-04-22T16:57:36.000Z",
+      "author": "Lauren Feiner",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-22T17:45:15.247Z",
+      "created_at": "2026-04-22T17:45:15.247Z"
+    },
+    {
+      "id": 5048,
+      "source": "The Verge AI",
+      "title_en": "Google Meet will take AI notes for in-person meetings too",
+      "description_en": "Google's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of in-person meetings now, as well as meetings on Zoom and Microsoft Teams, as first reported by 9to5Google. \nSupport for in-person meetings was previously limited to alpha users and only available on Android. Google's support page for the feature notes that, \"If a user who is not in person wants to join the meeting, you can transition the meeting to a normal video call.\" The f",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
+      "image_url": null,
+      "pub_date": "2026-04-22T16:38:19.000Z",
+      "author": "Stevie Bonifield",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-22T17:45:15.247Z",
+      "created_at": "2026-04-22T17:45:15.247Z"
+    },
+    {
+      "id": 5049,
+      "source": "The Verge AI",
+      "title_en": "Now Meta will track what employees do on their computers to train its AI agents",
+      "description_en": "Meta employees' activity at work is now being used to train the company's AI agents. As reported by Reuters, Meta is installing a tool it calls Model Capability Initiative (MCI) on US-based employees' computers that runs in work-related apps and websites, recording mouse movements, clicks, keystrokes, and occasional screenshots. \nThe data from this tool will be used to train the company's AI models to get better at interacting with computers the way humans do, including automating work tasks lik",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
+      "image_url": null,
+      "pub_date": "2026-04-22T14:22:35.000Z",
+      "author": "Stevie Bonifield",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-22T17:45:15.247Z",
+      "created_at": "2026-04-22T17:45:15.247Z"
+    },
+    {
+      "id": 5050,
+      "source": "TechCrunch AI",
+      "title_en": "Google turns Chrome into an AI coworker for the workplace",
+      "description_en": "Google brings Gemini-powered 'auto browse' capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+      "image_url": null,
+      "pub_date": "Wed, 22 Apr 2026 17:30:00 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "Enterprise",
+        "AI",
+        "Chrome",
+        "Google",
+        "gemini",
+        "Google Cloud Next",
+        "ai automation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-22T17:45:15.331Z",
+      "created_at": "2026-04-22T17:45:15.331Z"
+    },
+    {
+      "id": 5051,
+      "source": "TechCrunch AI",
+      "title_en": "Google makes an interesting choice with its new agent building tool for enterprises",
+      "description_en": "Gemini Enterprise Agent Platform takes an interesting approach: it is geared for IT and technical users.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
+      "image_url": null,
+      "pub_date": "Wed, 22 Apr 2026 16:58:27 +0000",
+      "author": "Julie Bort",
+      "categories": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "AI agents",
+        "Google",
+        "Google Cloud Next"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-22T17:45:15.331Z",
+      "created_at": "2026-04-22T17:45:15.331Z"
+    },
+    {
+      "id": 5052,
+      "source": "TechCrunch AI",
+      "title_en": "AI Overviews are coming to your Gmail at work",
+      "description_en": "The AI Overviews will offer instant summaries pulled from across multiple emails.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
+      "image_url": null,
+      "pub_date": "Wed, 22 Apr 2026 16:46:10 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "AI",
+        "Enterprise",
+        "ai overviews",
+        "gemini",
+        "gmail",
+        "Google",
+        "Google Cloud Next"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-22T17:45:15.331Z",
+      "created_at": "2026-04-22T17:45:15.331Z"
+    },
+    {
+      "id": 5053,
+      "source": "Ars Technica",
+      "title_en": "Tabloid reports linking 10 missing and dead scientists spur FBI probe",
+      "description_en": "FBI suspects foreign spies may be targeting scientists with access to government secrets.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/04/tabloid-reports-linking-10-missing-and-dead-scientists-spur-fbi-probe/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2262176677-1024x648.jpg",
+      "pub_date": "Wed, 22 Apr 2026 16:46:31 +0000",
+      "author": "\n                    Ashley Belanger\n                ",
+      "categories": [
+        "Policy",
+        "Air Force",
+        "aliens",
+        "Donald Trump",
+        "fbi",
+        "NASA",
+        "nuclear science",
+        "rocket technology",
+        "UFO"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-22T17:45:15.346Z",
+      "created_at": "2026-04-22T17:45:15.346Z"
+    },
+    {
+      "id": 5054,
+      "source": "Ars Technica",
+      "title_en": "Physicists think they've solved the muon mystery",
+      "description_en": "Results dash hopes for a fifth force but provide very precise proof of Standard Model and QFT.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/science/2026/04/physicists-think-theyve-solved-the-muon-mystery/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/muon1-1152x648.jpg",
+      "pub_date": "Wed, 22 Apr 2026 15:40:02 +0000",
+      "author": "\n                    Jennifer Ouellette\n                ",
+      "categories": [
+        "Science",
+        "muon",
+        "particle physics",
+        "Physics",
+        "the standard model"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-22T17:45:15.347Z",
+      "created_at": "2026-04-22T17:45:15.347Z"
+    },
+    {
+      "id": 5055,
+      "source": "Ars Technica",
+      "title_en": "New court ruling blocks many of the government's anti-renewable policies",
+      "description_en": "Added layers of review singling out renewable energy have little legal basis.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/04/new-court-ruling-blocks-many-of-the-governments-anti-renewable-policies/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1340129766-1152x648.jpg",
+      "pub_date": "Wed, 22 Apr 2026 15:09:28 +0000",
+      "author": "\n                    John Timmer\n                ",
+      "categories": [
+        "Policy",
+        "Science",
+        "arbitrary",
+        "capricious",
+        "department of Interior",
+        "Energy",
+        "green",
+        "lawsuit",
+        "regulation",
+        "renewable energy"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-22T17:45:15.347Z",
+      "created_at": "2026-04-22T17:45:15.347Z"
+    },
+    {
+      "id": 5056,
+      "source": "Ars Technica",
+      "title_en": "Indian med student rakes in thousands with AI-generated MAGA hottie",
+      "description_en": "\"Emily Hart\" is a young, AI-created conservative woman who likes to take off her clothes.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/04/indian-med-student-rakes-in-thousands-with-ai-generated-maga-hottie/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/stripper-1152x648.jpg",
+      "pub_date": "Wed, 22 Apr 2026 14:13:01 +0000",
+      "author": "\n                    Ej Dickson, wired.com\n                ",
+      "categories": [
+        "AI",
+        "Policy",
+        "deepfakes",
+        "fake nudes",
+        "Instagram",
+        "MAGA",
+        "syndication",
+        "YouTube"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-22T17:45:15.347Z",
+      "created_at": "2026-04-22T17:45:15.347Z"
+    },
+    {
+      "id": 5057,
+      "source": "Ars Technica",
+      "title_en": "As EV batteries improve, ChargePoint debuts 600 kW fast charger",
+      "description_en": "The new design is cheaper and will even fit in convenience store parking lots.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/cars/2026/04/as-ev-batteries-improve-chargepoint-debuts-600-kw-fast-charger/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/ChargePoint-Express-Solo-Image-1_EMBARGO-UNTIL-APRIL-22-at-8AM-ET-1152x648.jpg",
+      "pub_date": "Wed, 22 Apr 2026 13:49:09 +0000",
+      "author": "\n                    Jonathan M. Gitlin\n                ",
+      "categories": [
+        "Cars",
+        "chargepoint",
+        "DC fast charging",
+        "EV charging"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-22T17:45:15.347Z",
+      "created_at": "2026-04-22T17:45:15.347Z"
+    },
+    {
+      "id": 5058,
+      "source": "The Decoder",
+      "title_en": "Google's new AI tools put film scouting in Street View and promise to cut weeks of satellite analysis to minutes",
+      "description_en": "At Cloud Next, Google unveiled three new AI imaging tools. Creatives can drop AI-generated images into real Street View locations, Google says city planners will be able to analyze satellite imagery in minutes instead of weeks, and developers get new models that can identify objects like bridges and power lines.\nThe article Google's new AI tools put film scouting in Street View and promise to cut weeks of satellite analysis to minutes appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/googles-new-ai-tools-put-film-scouting-in-street-view-and-promise-to-cut-weeks-of-satellite-analysis-to-minutes/",
+      "image_url": "http://the-decoder.com/wp-content/uploads/2026/04/streetview_demo_genai.mp4",
+      "pub_date": "Wed, 22 Apr 2026 17:22:59 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Google",
+        "Google AI",
+        "Google Earth",
+        "Google Maps"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-22T17:45:16.540Z",
+      "created_at": "2026-04-22T17:45:16.540Z"
+    },
+    {
+      "id": 5059,
+      "source": "The Decoder",
+      "title_en": "Google unveils 8th-gen TPUs, agent platform, and Workspace AI layer at Cloud Next '26",
+      "description_en": "Google used its Cloud Next '26 conference to unveil its eighth-generation TPUs, a revamped agent platform, and a new AI layer for Workspace. The company is pitching the whole package under the banner \"Agentic Enterprise.\"\nThe article Google unveils 8th-gen TPUs, agent platform, and Workspace AI layer at Cloud Next '26 appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/google-unveils-8th-gen-tpus-agent-platform-and-workspace-ai-layer-at-cloud-next-26/",
+      "image_url": null,
+      "pub_date": "Wed, 22 Apr 2026 15:34:51 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Agents",
+        "Cloud",
+        "Gemini",
+        "Google"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-22T17:45:16.540Z",
+      "created_at": "2026-04-22T17:45:16.540Z"
+    },
+    {
+      "id": 5060,
+      "source": "MarkTechPost",
+      "title_en": "Next Leap to Harness Engineering: JiuwenClaw Pioneers ‘Coordination Engineering’",
+      "description_en": "How to make multiple agents work together like an elite team — autonomously dividing tasks, communicating efficiently, and collaborating seamlessly? The openJiuwen community released the latest version of JiuwenClaw, which adds support for AgentTeam — a multi-agent collaborative capability. It proposes that the next leap beyond Harness Engineering is Coordination Engineering. In in-depth tests, this team […]\nThe post Next Leap to Harness Engineering: JiuwenClaw Pioneers ‘Coordination Engineering",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/22/next-leap-to-harness-engineering-jiuwenclaw-pioneers-coordination-engineering/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/image-46-150x150.png",
+      "pub_date": "Wed, 22 Apr 2026 16:34:58 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Generative AI",
+        "New Releases",
+        "Promote",
+        "Software Engineering",
+        "Sponsored",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-22T17:45:16.784Z",
+      "created_at": "2026-04-22T17:45:16.784Z"
+    },
+    {
+      "id": 5061,
+      "source": "Hugging Face Blog",
+      "title_en": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/nvidia/gemma4",
+      "image_url": null,
+      "pub_date": "Wed, 22 Apr 2026 15:40:50 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-22T17:45:16.830Z",
+      "created_at": "2026-04-22T17:45:16.830Z"
+    },
+    {
+      "id": 5062,
+      "source": "OpenAI Blog",
+      "title_en": "Introducing workspace agents in ChatGPT",
+      "description_en": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "image_url": null,
+      "pub_date": "Wed, 22 Apr 2026 10:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Product"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-22T17:45:17.138Z",
+      "created_at": "2026-04-22T17:45:17.138Z"
+    },
+    {
+      "id": 5063,
+      "source": "OpenAI Blog",
+      "title_en": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "description_en": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "image_url": null,
+      "pub_date": "Wed, 22 Apr 2026 10:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Engineering"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-22T17:45:17.139Z",
+      "created_at": "2026-04-22T17:45:17.139Z"
+    },
+    {
+      "id": 5064,
+      "source": "OpenAI Blog",
+      "title_en": "Introducing OpenAI Privacy Filter",
+      "description_en": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/introducing-openai-privacy-filter",
+      "image_url": null,
+      "pub_date": "Wed, 22 Apr 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Research"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-22T17:45:17.139Z",
+      "created_at": "2026-04-22T17:45:17.139Z"
+    },
+    {
+      "id": 5065,
+      "source": "New Atlas",
+      "title_en": "Scientists produce cleaner fuel by 'catching lightning in a bottle'",
+      "description_en": "People often muse over catching lightning in a bottle, and what an amazing feat it would be. But have you ever wondered what comes next if we do it? Well, researchers at Northwestern University have bottled lightning and are using it for something just as remarkable: clean fuel. Their technology uses plasma in glass tubes to produce methanol from methane gas, a process that typically requires enormous amounts of energy.\nContinue Reading\nCategory: Energy, Engineering\nTags: Northwestern University",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/energy/methane-methanol-lightning-in-a-bottle/",
+      "image_url": null,
+      "pub_date": "Wed, 22 Apr 2026 15:55:42 GMT",
+      "author": "Etiido Uko",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-22T17:45:17.388Z",
+      "created_at": "2026-04-22T17:45:17.388Z"
+    },
+    {
+      "id": 5066,
+      "source": "The Guardian AI",
+      "title_en": "What is Mythos AI and why could it be a threat to global cybersecurity?",
+      "description_en": "Anthropic’s decision to restrict access to its powerful new model increases fears about the advanced technology\nAnthropic has ruled out releasing its latest AI model, Mythos, to the public because of the threat it poses to global cybersecurity.\nHowever, the US tech startup behind the Claude chatbot confirmed on Wednesday it was investigating a report that a group of people had gained unauthorised access to Mythos. The alleged incident has raised concerns over the pace of development and the abil",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/apr/22/what-is-anthropic-mythos-ai-threat-global-cybersecurity",
+      "image_url": "https://i.guim.co.uk/img/media/c6f64edbac635ab97e61d93d77ecd485b57556e1/509_0_5031_4024/master/5031.jpg?width=140&quality=85&auto=format&fit=max&s=fcd1c4e2ab558c7eb5ac66c8b899cc56",
+      "pub_date": "Wed, 22 Apr 2026 15:03:44 GMT",
+      "author": "Dan Milmo, Kalyeena Makortoff and Aisha Down",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Silicon Valley",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/silicon-valley"
+          }
+        },
+        {
+          "_": "Cybercrime",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/cybercrime"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Hacking",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/hacking"
+          }
+        },
+        {
+          "_": "Internet",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/internet"
+          }
+        },
+        {
+          "_": "Banking",
+          "$": {
+            "domain": "https://www.theguardian.com/business/banking"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-22T17:45:17.544Z",
+      "created_at": "2026-04-22T17:45:17.544Z"
+    },
+    {
+      "id": 5067,
+      "source": "The Guardian AI",
+      "title_en": "Pentagon asks for $54bn in pivot towards AI-powered war",
+      "description_en": "Budget outlines funding for autonomous drone warfare program as experts say military unprepared for risks\nThe Pentagon is aiming to increase funding more than a hundredfold for an autonomous drone warfare program, according to budget documents released this week, signalling a major pivot towards AI-powered war.\nIn its 2027 budget, the Pentagon has asked for over $54bn to fund the Defense Autonomous Warfare Group, a 24,000% increase on last year.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/2026/apr/22/pentagon-asks-for-54bn-in-pivot-towards-ai-powered-war",
+      "image_url": "https://i.guim.co.uk/img/media/4e8fe834662e976df9a4b341d003027e051a4256/275_0_2949_2359/master/2949.jpg?width=140&quality=85&auto=format&fit=max&s=b22e894ee785aded1d41f6d3ccc544b5",
+      "pub_date": "Wed, 22 Apr 2026 17:24:02 GMT",
+      "author": "Aisha Down",
+      "categories": [
+        {
+          "_": "US military",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-military"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Weapons technology",
+          "$": {
+            "domain": "https://www.theguardian.com/science/weaponstechnology"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-22T17:45:17.544Z",
+      "created_at": "2026-04-22T17:45:17.544Z"
+    },
+    {
+      "id": 5068,
+      "source": "The Guardian AI",
+      "title_en": "AI-powered robot beats elite table tennis players",
+      "description_en": "In feat hailed as milestone in robotics, Sony AI’s Ace wins three out of five matches played under official rules\nAn AI-powered robot has beaten elite players at table tennis in a significant achievement for a machine faced with human athletes in a real-world competitive sport.\nNamed Ace, the robotic system developed by Sony AI, won three out of five matches against elite players, but lost the two it played against professionals, clawing back only one game in the seven contests.\n Continue readin",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/science/2026/apr/22/ai-powered-robot-beats-elite-table-tennis-players-milestone-robotics",
+      "image_url": "https://i.guim.co.uk/img/media/017923e7f1f6d987d9b787b0f3d69b7500bf82ed/353_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=10b163477d18ca39b29ef8286586a9b8",
+      "pub_date": "Wed, 22 Apr 2026 15:00:30 GMT",
+      "author": "Ian Sample Science editor",
+      "categories": [
+        {
+          "_": "Science",
+          "$": {
+            "domain": "https://www.theguardian.com/science/science"
+          }
+        },
+        {
+          "_": "Robots",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/robots"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Table tennis",
+          "$": {
+            "domain": "https://www.theguardian.com/sport/table-tennis"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Sport",
+          "$": {
+            "domain": "https://www.theguardian.com/sport/sport"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-22T17:45:17.544Z",
+      "created_at": "2026-04-22T17:45:17.544Z"
+    },
+    {
+      "id": 5069,
+      "source": "AI News",
+      "title_en": "Reversing enterprise security costs with AI vulnerability discovery",
+      "description_en": "Automated AI vulnerability discovery is reversing the enterprise security costs that traditionally favour attackers. Bringing exploits to zero was once viewed as an unrealistic goal. The prevailing operational doctrine aimed to make attacks so expensive that only adversaries with functionally unlimited budgets could afford them, thereby disincentivising casual use. However, the recent evaluation by the […]\nThe post Reversing enterprise security costs with AI vulnerability discovery appeared firs",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/",
+      "image_url": null,
+      "pub_date": "Wed, 22 Apr 2026 15:45:14 +0000",
+      "author": "Ryan Daws",
+      "categories": [
+        "AI and Us",
+        "AI Business Strategy",
+        "AI in Action",
+        "AI Market Trends",
+        "Cybersecurity AI",
+        "Data Engineering & MLOps",
+        "Deep Dives",
+        "Features",
+        "Governance, Regulation & Policy",
+        "How It Works",
+        "Human-AI Relationships",
+        "Infrastructure & Hardware",
+        "Inside AI",
+        "Manufacturing & Engineering AI",
+        "Natural Language Processing (NLP)",
+        "Open-Source & Democratised AI",
+        "World of Work",
+        "anthropic",
+        "claude",
+        "firefox",
+        "frontier models",
+        "governance",
+        "mozilla",
+        "mythos",
+        "security",
+        "threat detection"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-22T17:45:18.846Z",
+      "created_at": "2026-04-22T17:45:18.846Z"
+    },
+    {
+      "id": 5070,
+      "source": "Interesting Engineering",
+      "title_en": "China unveils truck-mounted drone-killer laser that hits targets at 4,500 feet",
+      "description_en": "China has recently unveiled a low cost mobile laser weapon that can destroy small drones...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/china-truck-mounted-drone-killer-laser",
+      "image_url": "https://www.youtube.com/embed/mHl-Hyd63J8",
+      "pub_date": "Wed, 22 Apr 2026 15:15:27 +0000",
+      "author": "Georgina Jedikovska",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-22T17:45:21.983Z",
+      "created_at": "2026-04-22T17:45:21.983Z"
+    },
+    {
+      "id": 5071,
+      "source": "Interesting Engineering",
+      "title_en": "Physicists’ breakthrough method creates most intense light ever generated in lab",
+      "description_en": "An international team has demonstrated a new method for producing the most intense light ever...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/breakthrough-method-most-intense-light",
+      "image_url": "https://www.youtube.com/embed/qdv4DSlFOeo",
+      "pub_date": "Wed, 22 Apr 2026 15:01:24 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-22T17:45:21.983Z",
+      "created_at": "2026-04-22T17:45:21.983Z"
+    },
+    {
+      "id": 5072,
+      "source": "Interesting Engineering",
+      "title_en": "WSU’s $2.5M transmission electron microscope to boost  research across multiple fields",
+      "description_en": "Washington State University has acquired a $2.5 million transmission electron microscope (TEM), expanding its materials...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/news/wsus-2-5m-transmission-electron-microscope",
+      "image_url": null,
+      "pub_date": "Wed, 22 Apr 2026 14:25:49 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-22T17:45:21.983Z",
+      "created_at": "2026-04-22T17:45:21.983Z"
+    },
+    {
+      "id": 5073,
+      "source": "Futurism",
+      "title_en": "Today Is the Day Anthropic Promised That Fully Autonomous Employees Would Be Tearing Through the Business World",
+      "description_en": "How time flies.\nThe post Today Is the Day Anthropic Promised That Fully Autonomous Employees Would Be Tearing Through the Business World appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/anthropic-ai-agents-prediction",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/anthropic-ai-agents-prediction.jpg?quality=85",
+      "pub_date": "Wed, 22 Apr 2026 13:03:20 -0400",
+      "author": "Joe Wilkins",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://futurism.com/category/anthropic"
+          }
+        },
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        },
+        {
+          "_": "Machine Learning",
+          "$": {
+            "domain": "https://futurism.com/category/machine-learning"
+          }
+        },
+        {
+          "_": "The Industrialists",
+          "$": {
+            "domain": "https://futurism.com/category/the-industrialists"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-22T17:45:22.338Z",
+      "created_at": "2026-04-22T17:45:22.338Z"
+    },
+    {
+      "id": 5074,
+      "source": "Futurism",
+      "title_en": "Nvidia CEO Says AI Will Be a Permanent Micromanaging Boss Who Never Stops Nagging You",
+      "description_en": "Oh, great.\nThe post Nvidia CEO Says AI Will Be a Permanent Micromanaging Boss Who Never Stops Nagging You appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/nvidia-ceo-ai-micromanaging-boss",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/nvidia-ceo-ai-micromanaging-boss.jpg?quality=85",
+      "pub_date": "Wed, 22 Apr 2026 12:13:29 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-22T17:45:22.339Z",
+      "created_at": "2026-04-22T17:45:22.339Z"
+    },
+    {
+      "id": 5075,
+      "source": "Futurism",
+      "title_en": "Florida Opens Criminal Probe Into ChatGPT’s Role in School Shooting",
+      "description_en": "\"If that bot were a person they’d be charged with a principal in first degree murder.\"\nThe post Florida Opens Criminal Probe Into ChatGPT’s Role in School Shooting appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/florida-opens-criminal-probe-chatgpt-school-shooting",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/florida-opens-criminal-probe-chatgpt-school-shooting.jpg?quality=85",
+      "pub_date": "Wed, 22 Apr 2026 10:58:30 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://futurism.com/category/openai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-22T17:45:22.339Z",
+      "created_at": "2026-04-22T17:45:22.339Z"
+    },
+    {
+      "id": 5076,
+      "source": "CNBC Tech",
+      "title_en": "Microsoft's LinkedIn names longtime exec Dan Shapero its new CEO",
+      "description_en": "Microsoft said Daniel Shapero will be the new CEO of LinkedIn, reporting to Ryan Roslansky, who held the job since 2020 and now has added responsibility.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/22/microsofts-linkedin-makes-executive-daniel-shapero-its-new-ceo.html",
+      "image_url": null,
+      "pub_date": "Wed, 22 Apr 2026 17:42:53 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-22T17:45:22.365Z",
+      "created_at": "2026-04-22T17:45:22.365Z"
+    },
+    {
+      "id": 5077,
+      "source": "CNBC Tech",
+      "title_en": "Tesla set to report first-quarter results after the bell",
+      "description_en": "Tesla's stock has underperformed all of its megacap peers so far this year as global competition ramps up in the electric vehicle market.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/22/tesla-tsla-q1-2026-earnings-report.html",
+      "image_url": null,
+      "pub_date": "Wed, 22 Apr 2026 16:32:54 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-22T17:45:22.365Z",
+      "created_at": "2026-04-22T17:45:22.365Z"
+    },
+    {
+      "id": 5078,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia backs AI company Vast Data at $30 billion valuation",
+      "description_en": "The chip giant has increasingly become an investor of companies involved in the AI boom.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/22/nvidia-backs-ai-company-vast-data.html",
+      "image_url": null,
+      "pub_date": "Wed, 22 Apr 2026 16:27:22 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-22T17:45:22.365Z",
+      "created_at": "2026-04-22T17:45:22.365Z"
+    },
+    {
+      "id": 5079,
+      "source": "Tom's Hardware",
+      "title_en": "Google Cloud customer wakes up to $18,000+ bill despite $7 budget, thanks to forgotten API key in published project — attacker put in 60,000+ requests and blasted through $1,400 spending cap",
+      "description_en": "Jesse Davies, an Australian AI consultant and founder of Agentic Labs, was caught unawares when their Google Cloud bill ballooned to more than 2,500 times their initial budget after an unknown API key registered more than 60,000 requests while they were asleep.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-cloud-customer-wakes-up-to-usd18-000-bill-despite-usd7-budget-thanks-to-forgotten-public-api-key-attacker-put-in-60-000-requests-and-blasted-through-usd1-400-spending-cap",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/YGsMMUMGmWx6peWh8ZooKC-1280-80.png",
+      "pub_date": "Wed, 22 Apr 2026 16:19:24 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-22T17:45:22.429Z",
+      "created_at": "2026-04-22T17:45:22.429Z"
+    },
+    {
+      "id": 5080,
+      "source": "Tom's Hardware",
+      "title_en": "Samsung engineer sentenced to 7 years in prison for selling chipmaking trade secrets to Chinese chipmaker — ex-employee supplied 10nm DRAM data to CXMT for $2 million",
+      "description_en": "An ex-Samsung employee accused of corporate espionage has been sentenced to 7 years in prison for sharing over 600 critical chipmaking steps.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/samsung-engineer-sentenced-to-7-years-in-prison-for-selling-chipmaking-trade-secrets-to-chinese-chipmaker-ex-employee-supplied-10nm-dram-data-to-cxmt-for-usd2-million",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/wS6jkGXv2vnZpFsMSa6kZN-1280-80.jpg",
+      "pub_date": "Wed, 22 Apr 2026 15:39:09 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-22T17:45:22.429Z",
+      "created_at": "2026-04-22T17:45:22.429Z"
+    },
+    {
+      "id": 5081,
+      "source": "Tom's Hardware",
+      "title_en": "Linux may be ending support for older network drivers due to influx of false AI-generated bug reports — maintenance has become too burdensome for old largely-unused systems",
+      "description_en": "Linux kernel developers are reviewing a proposal to remove obsolete ISA and PCMCIA-era Ethernet drivers from the mainline kernel, citing rising maintenance burden from AI-driven bug reports and fuzzing. The change would cut around 27,000 lines of legacy code",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/linux/linux-may-be-ending-support-for-older-network-drivers-due-to-influx-of-false-ai-generated-bug-reports-maintenance-has-become-too-burdensome-for-old-largely-unused-systems",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/3nYgMvQAeoYcdknTBwVHid-1280-80.png",
+      "pub_date": "Wed, 22 Apr 2026 14:32:12 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "Linux",
+        "Software",
+        "Operating Systems"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-22T17:45:22.429Z",
+      "created_at": "2026-04-22T17:45:22.429Z"
     }
   ]
 }
