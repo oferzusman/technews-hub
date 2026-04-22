@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Iran claims US exploited networking equipment backdoors during strikes — says devices from Cisco and others failed despite blackout in attack that 'indicates deep sabotage'\n\nIranian state media has alleged that equipment from Cisco, Juniper, Fortinet, and MikroTik failed during U.S. and Israeli military operations against Iran.",
+    "t": "איראן טוענת שארה״ב ניצלה backdoors בציוד רשתות במהלך התקיפות — התקנים של Cisco וחברות אחרות כשלו\n\nהמדיה הממלכתית האיראנית טוענת שציוד רשתות מ-Cisco, Juniper, Fortinet ו-MikroTik התקלקל במהלך הפעולות הצבאיות של ארה״ב וישראל נגד איראן, וזה מצביע על חדירה עמוקה לתשתית הטכנולוגית שלהם. לטענת איראן, ההשבתה המתואמת של ההתקנים הללו במהלך ההפצצה מעידה על ניצול מכוון של פגיעויות אבטחה ב-backdoors. זה עלול להיות עוד דוגמה לחסמי קיברנטיים שמשמשים כחלק מהקרב המודרני בין המעצמות.",
     "d": "Wed, 22 Apr 2026 10:20:00 +0000",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "CEO of Southeast Asia’s largest bank names the 'new war' keeping her up at night\n\nFor DBS CEO Tan Su Shan, the biggest risk keeping her up at night is not just market volatility or geopolitical shocks, but cyberattacks.",
+    "t": "מנכ\"לית הבנק הגדול בדרום-מזרח אסיה חושפת את 'המלחמה החדשה' שלא תפסה לה שינה\n\nלטאן סו שאן, מנכ\"לית DBS, הסיכון הגדול ביותר שמעיק עליה בלילה זה לא תנודות בשוק או זעזועים גיאופוליטיים, אלא התקפות סייבר שיכולות להחריב כל דבר. בעולם שבו בנקים מפעילים כמעט את כל דבר דרך ה-cloud ו-APIs, האבטחה הדיגיטלית הפכה להיות הקרב ההכי קריטי עבור מוסדות פיננסיים ענקיים.",
     "d": "Wed, 22 Apr 2026 10:12:33 GMT",
     "v": 0,
     "l": [
@@ -39,8 +39,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -48,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "AI needs a strong data fabric to deliver business value\n\nArtificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes…",
+    "t": "AI צריך infrastructure חזק של נתונים כדי להניב ערך עסקי\n\nהחברות כבר לא משחקות עם AI בתור צעצוע - הן מפריסות copilots ו-agents אמיתיים בכל הפונקציות העסקיות, מהחזה הכספי ועד להנהלת משאבים אנושיים. מחצית מהחברות בעולם כבר משתמשות ב-AI בלפחות שלוש תפקידים שונים, אבל בשביל שהטכנולוגיה הזו תעבוד בצורה אמינה, צריך תשתית נתונים מחוזקת שתהיה מסוגלת להזין את המערכות האלה בצורה תקינה ועקבית.",
     "d": "Wed, 22 Apr 2026 10:05:06 +0000",
     "v": 0,
     "l": [
@@ -75,7 +74,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Database world trying to build natural language query systems again – this time with LLMs\n\nText-to-SQL might be useful for analysts and DBAs, but be cautious with general user adoption Over the past few years, database and analytics vendors have hopped on a bandwagon that may take us all to a destination where common data queries are free from the constraints of the specialist query language SQL.…",
+    "t": "עולם בסיסי הנתונים מנסה שוב לבנות מערכות שאילתה בשפה טבעית – הפעם עם LLMs\n\nחברות בסיס נתונים ואנליטיקה קופצות על הטרנד של Text-to-SQL, שמבטיח לתרגם שאילתות בשפה טבעית ישירות לקוד SQL. זה יכול להיות משחק חוזק לאנליסטים ו-DBAs, אבל צריך להיות זהירים לפני שנפתחים את זה לכל משתמש אקראי בחברה.",
     "d": "2026-04-22T10:00:08.000Z",
     "v": 0,
     "l": [
@@ -90,8 +89,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -99,7 +97,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "3 things Michelle Kim is into right now\n\nIsegye Idol If you thought K-pop was weird, virtual idols—humans who perform as anime-style digital characters via motion capture—will blow your mind. My favorite is a girl group called Isegye Idol, created by Woowakgood, a Korean VTuber (a streamer who likewise performs as a digital persona). Isegye Idol’s six members are anonymous, which seems to…",
+    "t": "3 דברים שמישל קים מחובלת בהם כרגע\n\nמישל קים מספרת על תופעות טכנולוגיות שמעסיקות אותה לאחרונה, כולל עולם הווירטואל אידולים - בנות ובנים שמופיעים כדמויות אנימה דיגיטליות דרך motion capture ותקשורת לייב. אחד הפרויקטים שהיא אוהבת הוא הלהקה הקוריאנית Isegyeidol שיצרה VTuber קוריאנית בשם Woowakgood, והמגניב בעניין זה שחברות הלהקה נשארות אנונימיות. זה כבר לא רק K-pop - זה דור חדש לגמרי של אידולים דיגיטליים שמשנים את הבידור כפי שאנחנו מכירים אותו.",
     "d": "Wed, 22 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -122,7 +120,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "One town’s scheme to get rid of its geese\n\n“Pull over!” I order my brother one sunny February afternoon. Our target is in sight: a gaggle of Canada geese, pecking at grass near the dog park. As I approach, tiptoeing over their grayish-white poop, I notice that one bird wears a white cuff around its slender black neck. It’s a GPS tracker—part of a…",
+    "t": "התוכנית של עיירה אחת להיפטר מהאווזים שלה\n\nעיירה בישראל החליטה להשתמש בטכנולוגיה GPS כדי לעקוב אחרי אוכלוסיית אווזים הולכת וגדלה שהופכת לבעיה. החוקרים צמידים עקבים על הציפורים כדי להבין את דפוסי ההנדסת שלהן, וכך למצוא דרכים חכמות יותר להפחית את ההטרדה שהן גורמות לתושבים. זה לא עוד טירוף של משחקי מרדף - זה ניהול בעיות בעיר בחכמה.",
     "d": "Wed, 22 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -145,7 +143,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "There is no nature anymore\n\nWhen people talk about “nature,” they’re generally talking about things that aren’t made by human beings. Rocks. Reefs. Red wolves. But while there is plenty of God’s creation to go around, it is hard to think of anything on Earth that human hands haven’t affected. In the Brazilian rainforest, scientists have found microplastics in the…",
+    "t": "אין עוד טבע\n\nכשאנחנו מדברים על 'טבע', בדרך כלל אנחנו חושבים על דברים שלא נוצרו על ידי בני אדם - סלעים, שוניות, זאבים אדומים. אבל לא משנה כמה טבע יש לנו על הכוכב, קשה למצוא משהו על כדור הארץ שידיים אנושיות לא הגיעו אליו. מדענים מצאו מיקרופלסטיק אפילו בחורשת הגשם הברזילאית - מה שמעיד שה-DNA של האנושות מטבעה כבר חדור לכל מקום על הפלנטה.",
     "d": "Wed, 22 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -168,7 +166,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "Los Angeles is finally going underground\n\nLos Angeles deserves its reputation as the quintessential car city—the rhythms of its 2,200 square miles are dictated by wide boulevards and concrete arcs of freeways. But it once had a world-class rail transit system, and for the last three decades, the city has been rebuilding a network of trolleys and subways. In May, a…",
+    "t": "לוס אנג'לס סוף סוף הולכת תת-קרקעית\n\nלוס אנג'לס התפכחה מהתחזוקה שלה כעיר המכוניות של אמריקה, אבל היא מחליטה להחזיר לעצמה את מערכת התחבורה הציבורית שהייתה לה פעם. במשך שלוש עשרויות האחרונות העיר משקיעה במסדרון של טרמווייים ותחנות metro תת-קרקעיות, וברגע זה הפרויקט הענק הזה מתחיל להיראות כמו מציאות.",
     "d": "Wed, 22 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -191,7 +189,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Enthusiast builds his own RAM in garden shed cleanroom — fledgling array of memory cells groundwork for much larger future project\n\nThis is the ‘first time ever RAM has been made at home’ boasts a garden shed-based semiconductor maker.",
+    "t": "חובב בנה RAM משלו בחדר נקי בכוורת הגן — תחילת הדרך לפרויקט ענק בעתיד\n\nיזם שיצר מעבדה מיניאטורית בכוורה בגינו הצליח לייצר זיכרון RAM ביתי לראשונה בהיסטוריה — והוא טוען שזה רק תחילת הדרך. הפרויקט המטורף הזה מראה שאפילו סמיקונדקטורים מורכבים אפשר לייצר בבית, וזה יהיה הבסיס לתוכניות הרבה יותר גדולות שלו בעתיד. מקור: Tom's Hardware",
     "d": "Wed, 22 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -214,7 +212,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "US scientists devise new process to turn sewage sludge into 99% pure natural gas\n\nWashington State University has transformed sewage sludge’s environmental liability into a valuable energy asset.  A...",
+    "t": "מדענים אמריקאים פיתחו תהליך חדש להפוך בוצה טביעה לגז טבעי בטוהר של 99%\n\nחוקרים באוניברסיטת וושינגטון סטייט הצליחו לעשות משהו די מטורף - הם הפכו בוצה טביעה (אחד הבעיות הגדולות בטיפול בשפכים) לאנרגיה חסכונית וללא בזבוז. התהליך החדש שלהם מייצר גז טבעי בטוהר של כמעט 99%, שזה בעצם רמה שנראית כמו משהו מסיפור קסם. זה לא רק טוב לסביבה אלא גם אומר שכל עיר יכולה בעצם לייצר אנרגיה משלה מגרוטאות.",
     "d": "Wed, 22 Apr 2026 09:32:48 +0000",
     "v": 0,
     "l": [
@@ -237,7 +235,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "Anthropic’s most dangerous AI model just fell into the wrong hands\n\nAnthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports. An unnamed member of the group, identified only as \"a third-party contractor for Anthropic,\" told the publication that members of a private online forum got into Mythos via a mix of tactics, utilizing the contractor's access and \"commonly used internet sleuthing tools.\"\nThe Claude Mythos Preview is a",
+    "t": "מודל ה-AI הסכנוני ביותר של Anthropic נפל לידיים לא נכונות\n\nאנתרופיק עלתה לחדשות לא כיף - מודל Mythos שלהם, כלי cybersecurity חזק שהחברה אמרה שיכול להיות מסוכן בידיים הלא נכונות, נחדר על ידי קבוצה קטנה של משתמשים לא מורשים. על פי דיווח של Bloomberg, חברים בפורום פרטי באינטרנט הצליחו להשיג גישה דרך תערובת של טקטיקות - הם ניצלו גישה של קבלן צד שלישי לאנתרופיק וכלים סטנדרטיים של חקירה באינטרנט. זה רק מראה שגם מודלים מתקדמים כמו Claude Mythos צריכים להיות זהירים מאוד עם ניהול הגישה.",
     "d": "2026-04-22T09:18:40.000Z",
     "v": 0,
     "l": [
@@ -258,13 +256,13 @@ window.TELEGRAM_DATA = [
       "model",
       "security"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 12,
-    "t": "Forget call centers, local energy prices mean Britain's latest offshoring wave is AI projects\n\nBrit firms look to run tech overseas as govt tries to support 'sovereign' creators One in five UK firms have already moved AI workloads abroad due to high energy costs, in findings likely to alarm a government counting on AI to drive economic growth.…",
+    "t": "שכחו ממרכזי שירות - מחירי החשמל גורמים לחברות בריטיות להעביר פרויקטי AI לחו\"ל\n\nאחד מכל חמישה חברות בריטיות כבר העביר את עומס העבודה שלהם ב-AI לחו\"ל בגלל עלויות חשמל מדממות, וזה בטוח שיהיה כאב ראש לממשלה שמספרת על AI כמנוע הגדילה הבא של בריטניה. בעוד הממשלה מנסה לתמוך ב\"יוצרים בעלי ריבונות\", חברות בריטיות כבר רצות לאלטרנטיבות זולות יותר בחו\"ל - עוד דוגמה לטרגדיה של מדיניות אנרגיה רעה שמנדיפה תעשיות.",
     "d": "2026-04-22T09:15:10.000Z",
     "v": 0,
     "l": [
@@ -287,7 +285,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "Lawmakers seek to override state data privacy laws with new bill\n\nPair of bills would create a national standard and prevent individuals from suing companies.",
+    "t": "חברי קונגרס מחפשים לעקוף חוקי הגנת הנתונים המדינתיים בחוק חדש\n\nזוג חוקים חדשים שמוגשים בקונגרס אמורים ליצור תקן לאומי בנושא פרטיות נתונים, אבל בעיקר זה עוזר לחברות טכנולוגיה - כי זה למעשה חוסם את היכולת של אנשים להגיש תביעות נגד חברות שלא מגינות כראוי על המידע שלנו. זה סוג של 'חוק גנבת נתונים המאומתת' במילים אחרות.",
     "d": "Wed, 22 Apr 2026 09:00:01 GMT",
     "v": 0,
     "l": [
@@ -300,13 +298,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -314,7 +308,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Anthropic investigates report of rogue access to hack-enabling Mythos AI\n\n‘Handful’ of people allegedly gain unauthorised access to model adept at detecting cybersecurity vulnerabilities\n\nBusiness live – latest updates\n\nThe AI developer Anthropic has confirmed it is investigating a report that unauthorised users have gained access to its Mythos model, which it has warned poses risks to cybersecurity.\nThe US startup made the statement after Bloomberg reported on Wednesday that a small group of people had accessed the model, which has not been released to the public bec",
+    "t": "אנתרופיק חוקרת דיווח על גישה לא מורשית למודל Mythos שלה\n\nאנתרופיק אישרה שהיא חוקרת דיווח מעטים לגבי כניסה לא מורשית למודל Mythos שלה - מודל AI שיכול לזהות חולשות סייבר. זה לא רעיון טוב, כי המודל עוד לא שוחרר לציבור וכבר יש חשש שהוא עלול להיות מסוכן אם ייפול לידיים לא נכונות. בלומברג דיווחה על המקרה, והעניין עולה שאלות חדשות על אבטחת מודלים של AI בחברות גדולות.",
     "d": "Wed, 22 Apr 2026 08:58:06 GMT",
     "v": 0,
     "l": [
@@ -327,21 +321,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "security"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/14ea1ad2ba40d628f3617df91b8bb2b61b59aefc/292_0_2917_2334/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=42e43c383eb96706ebe54fce4fc0f965",
     "source": "The Guardian AI"
   },
   {
     "id": 15,
-    "t": "US firm unveils submarine-hunting drone with 9,200-mile-range, 35 mph top speed\n\nSaildrone, a maritime defense company, unveiled a new class of unmanned surface vessels built specifically...",
+    "t": "חברה אמריקאית חשפה רחפן ציד צוללים בטווח של 9,200 קילומטרים\n\nSaildrone, חברת ההגנה הימית, חשפה סדרה חדשה של כלים לא מאוישים שעוצבו במיוחד לציד צוללות תת-ימיות. הדרון הימי הזה מסוגל לעמוד בתנאים ים קשים וחוזה מהפכה בתצפיות ותוכניות ביטחון ימי. עם טווח שכמעט מסביב לכדור הארץ וקביעות שלא מדומה, הטכנולוגיה הזו משנה את המשחק בהגנה ימית מודרנית.",
     "d": "Wed, 22 Apr 2026 08:57:05 +0000",
     "v": 0,
     "l": [
@@ -364,7 +354,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "US Air Force eyes Black Widow drone to help F-35 fighters spot targets in war zones\n\nThe U.S. Air Force has released a Sources Sought notice for a small drone that...",
+    "t": "חיל האוויר האמריקאי בוחן drone Black Widow כדי לעזור ל-F-35 לאתר מטרות בשטחי קרב\n\nחיל האוויר האמריקאי מחפש drone קטן שיעבוד בשיתוף פעולה עם מטוסי הקרב F-35 כדי לשפר את יכולות הזיהוי והמטרות בשטח הקרב. הדרון הקטן הזה, שנקרא Black Widow, אמור להיות כמו \"עיני נוסף\" לטייס, ויעזור לו לראות מה קורה באזור הלחימה בזמן אמת. זו עוד דוגמה לאופן שבו הצבא האמריקאי משתמש בטכנולוגיה unmanned כדי להגביר את היתרונות הטקטיים שלו בהנחיה. [מקור: Interesting Engineering]",
     "d": "Wed, 22 Apr 2026 08:21:12 +0000",
     "v": 0,
     "l": [
@@ -387,7 +377,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "AI hallucinations found in high-profile Wall Street law firm filing\n\nSullivan & Cromwell apologises to New York federal judge for string of errors in documents for Prince Group case\n\nBusiness live – latest updates\n\nThe elite Wall Street law firm Sullivan & Cromwell has told a court that a major filing it made in a high-profile case contained errors resulting from hallucinations generated by artificial intelligence.\nAndrew Dietderich, the co-head of the firm’s global restructuring group, apologised in a letter to the New York federal judge Martin Glenn on Saturday",
+    "t": "AI הזיה במסמכי ההגנה של משרד עורכי דין ענקי בוול סטריט\n\nמשרד העורכים הגדול Sullivan & Cromwell התנצל בפני בית משפט בניו יורק אחרי שגיבוי AI יצר הזיות כמעט קוסמיות במסמכים חשובים של תיקי המקרה Prince Group - וזה לא בדיחה של בדיחה של בדיחה. המשרד הופתע לגלות שהאלגוריתם שלו החליט להמציא עובדות שלם במקום להסתמך על הנתונים האמיתיים, דבר שהעלה שוב את השאלה הישנה: האם אנחנו באמת בטוחים ש-AI יכול להתמודד עם משימות כל כך קריטיות? התוקפנות מצד השופט Martin Glenn הייתה לטובת ההודעה המהירה של המשרד על הטעות.",
     "d": "Wed, 22 Apr 2026 08:09:34 GMT",
     "v": 0,
     "l": [
@@ -402,16 +392,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/5a4596bc4bf0b01b43c69ba5229f519613da728c/256_0_2558_2047/master/2558.jpg?width=140&quality=85&auto=format&fit=max&s=bddebd0061968596bf5d436cfd44babf",
     "source": "The Guardian AI"
   },
   {
     "id": 18,
-    "t": "Photon Releases Spectrum: An Open-Source TypeScript Framework that Deploys AI Agents Directly to iMessage, WhatsApp, and Telegram\n\nFor all the progress made in AI agent development over the past few years, one fundamental problem has remained largely unsolved: most people never actually interact with agents. They live behind developer dashboards, inside specialized apps that users are asked to download, and within chat interfaces that the majority of the world’s population will never […]\nThe post Photon Releases Spectrum: An Open-Source TypeScript Framework that Deploys AI Agents Directly to iMessage, WhatsApp, and Telegram",
+    "t": "Photon משחררת את Spectrum: Framework TypeScript בקוד פתוח שמפרוס AI Agents ישירות ל-iMessage, WhatsApp וטלגרם\n\nפוטון הצליחה לפתור בעיה שהייתה עורקת בתחום ה-AI agents - רוב האנשים בעולם פשוט לא משתמשים בהם! עד עכשיו ה-Agents הסתתרו מאחורי דשבורדים של דיוולופרים ואפליקציות ספציפיות שלאף אחד לא רוצים להוריד, אבל עם Spectrum החדשה, אתה יכול להריץ AI Agents ישירות בתוך האפליקציות שכולם כבר משתמשים בהן - iMessage, WhatsApp וטלגרם.",
     "d": "Wed, 22 Apr 2026 07:43:10 +0000",
     "v": 0,
     "l": [
@@ -429,7 +418,7 @@ window.TELEGRAM_DATA = [
       "news",
       "agents"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "MarkTechPost"
   },
@@ -535,7 +524,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "Framework Laptop 13 Pro\n\nDiscussion\n            |\n            Link",
+    "t": "Framework Laptop 13 Pro\n\nFramework חוזרה בגדול עם הדור החדש של ה-Framework Laptop 13 Pro, הלפטופ המודולרי שנתן לכם חופש אמיתי לשדרג ולהתאים את המכונה שלכם בדיוק כמו שאתם צריכים. הפעם המחברות המודולריות סחופתו, המעבד חדש, והבטרייה משתפרת כדי להחזיק אתכם במשחק כל היום בלי צרות.",
     "d": "2026-04-22T03:51:16.000Z",
     "v": 0,
     "l": [
@@ -558,7 +547,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 24,
-    "t": "ConsoleMini\n\nDiscussion\n            |\n            Link",
+    "t": "ConsoleMini\n\nנראה שיש כאן משהו קטן וחכם שקשור לקונסול או ממשק שורת פקודה. אם זה tool חדש לפיתוח, זה בטח משהו שמיועד לעבודה בתוך Terminal או IDE בצורה יותר מינימליסטית וקלה. המוצר הוצג ב-Product Hunt, מה שמעיד שהוא כנראה כלי שימושי לדוקי ומפתחים.",
     "d": "2026-04-22T03:43:57.000Z",
     "v": 0,
     "l": [
@@ -604,7 +593,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 26,
-    "t": "TabMail\n\nDiscussion\n            |\n            Link",
+    "t": "TabMail\n\nנראה שמדובר בכלי שעדיין בשלבי דיון מוקדמים ב-Product Hunt, אבל זה נראה כמו משהו שקשור לניהול מיילים דרך טאבים. אנחנו מחכים לפרטים נוספים על איך בדיוק זה עובד ומה ההבדל שלו מ-Gmail וחברים שלו.",
     "d": "2026-04-22T02:31:10.000Z",
     "v": 0,
     "l": [
@@ -627,7 +616,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 27,
-    "t": "Wrangle\n\nDiscussion\n            |\n            Link",
+    "t": "Wrangle\n\nנראה שזה כלי חדש שהופיע ב-Product Hunt, אבל המידע על מה בדיוק הוא עושה קצת מעורפל. אם אתם מחפשים לדעת יותר, כדאי לכם להכנס לדיון או ללחוץ על הלינק הישיר לעמוד המוצר.",
     "d": "2026-04-22T02:20:47.000Z",
     "v": 0,
     "l": [
@@ -650,7 +639,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 28,
-    "t": "kimiflare\n\nDiscussion\n            |\n            Link",
+    "t": "קימיפלייר - כלי חדש שמעלה צרורות\n\nקימיפלייר היא פלטפורמה חדשה שהשיקה עלייה משמעותית בתהליכי עבודה של מפתחים ותוכן. התכונות שלה מאפשרות ניהול קל יותר של פרויקטים ושיתופי פעולה בין חברים לעבודה, וזה עוד כלי שחברים בקהילת ההיי-טק כבר מתנסים איתו.",
     "d": "2026-04-22T01:16:37.000Z",
     "v": 0,
     "l": [
@@ -819,7 +808,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 35,
-    "t": "Molecular deep learning at the edge of chemical space",
+    "t": "למידה עמוקה מולקולרית בקצה של מרחב כימי\n\nמחקר חדש ב-Nature Machine Intelligence מראה איך AI מצליח להבין ולהנבא תכונות של מולקולות חדשות שמעולם לא ראו בטבע או בלבוריה. זה פותח דלתות לפיתוח תרופות וחומרים חדשים בהרבה יותר מהר וזול מאשר שיטות מסורתיות, כי המערכת יכולה לחקור אפילו אזורים שלא חקרנו עדיין בעולם הכימיה.",
     "d": "2026-04-22T00:00:00.000Z",
     "v": 0,
     "l": [
@@ -842,7 +831,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 36,
-    "t": "Competing Biases underlie Overconfidence and Underconfidence in LLMs",
+    "t": "הטיות מתחרות עומדות מאחורי יתר-ביטחון וחוסר-ביטחון ב-LLMs\n\nמחקר חדש מNature Machine Intelligence חושף שמודלי השפה הגדולים סובלים משתי טיות מנוגדות שגורמות להם להיות פעם יותר בטוחים מדי בתשובותיהם ופעם פחות - וזה לא סתם טעות אקראית. המצאים האלה חשובים להבנת כשל ה-AI וזה משפיע ישירות על איך שנוכל לסמוך על מודלים אלה בעתיד. למעשה, כל חברת AI שרוצה לבנות מערכות בטוחות יותר צריכה להבין בעומק את המכניזמים האלה.",
     "d": "2026-04-22T00:00:00.000Z",
     "v": 0,
     "l": [
@@ -888,7 +877,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 38,
-    "t": "Supercomputer finds lithium-titanium tweak to boost sodium-ion batteries for grids\n\nResearchers at UC San Diego have used a supercomputer and artificial intelligence to improve sodium-ion...",
+    "t": "סופרקומפיוטר מגלה תוספת ליתיום-טיטניום שמשפרת סוללות נתרן-יון לרשתות חשמל\n\nחוקרים מאוניברסיטת סן דייגו השתמשו בסופרקומפיוטר ו-AI כדי להשיג פריצה במסע המעבור לסוללות נתרן-יון - חלופה זולה יותר וידידותית יותר לסביבה מ-ליתיום. התוקפה היא פשוטה: תוספת זעירה של ליתיום וטיטניום שמשפרת משמעותית את ביצועי הסוללה, והתגלה בעזרת יכולות החישוב העממות של מכונות חכמות. זה יכול להיות משחק משנה בעולם האנרגיה החידשה ותאחסון חשמל בקנה מידה של רשתות.",
     "d": "Tue, 21 Apr 2026 23:45:07 +0000",
     "v": 0,
     "l": [
@@ -1052,7 +1041,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 45,
-    "t": "Cut/Storm\n\nDiscussion\n            |\n            Link",
+    "t": "Cut/Storm\n\nנראה שמדובר בפרויקט או כלי חדש שעלה לדיון ב-Product Hunt, אבל הפרטים המדויקים לא ברורים מהתיאור המינימליסטי הזה. אם אתם מחפשים לדעת מה בדיוק זה Cut/Storm, כדאי להיכנס ישירות לדיון בPH כי שם אמורים להיות פרטים נוספים מהיוצר.",
     "d": "2026-04-21T22:46:44.000Z",
     "v": 0,
     "l": [
@@ -1241,7 +1230,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 53,
-    "t": "AdsAgent - Google Ads Claude Connector\n\nDiscussion\n            |\n            Link",
+    "t": "AdsAgent - מחבר Google Ads ל-Claude\n\nכלי חדש שמחבר בין Claude ל-Google Ads, מה שאומר שאתם יכולים להשתמש ב-AI של Anthropic כדי לנהל ולאופטימייז את הקמפיינים שלכם בקלות רבה יותר. זה בעצם עוד דוגמה איך החברות מתחילות לבנות בעצמן אינטגרציות שימושיות בין כלים שונים, כי רוב התוכנות לא עושות את זה למענו. אם אתם עוסקים ב-digital marketing ו-Google Ads, זה בטח יעניין אתכם. | מקור: Product Hunt",
     "d": "2026-04-21T21:49:05.000Z",
     "v": 0,
     "l": [
@@ -1621,7 +1610,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 69,
-    "t": "ProDocktive\n\nDiscussion\n            |\n            Link",
+    "t": "ProDocktive\n\nנראה שכאן מדובר בכלי חדש שטרם פורסם בפרטים מלאים, אבל על סמך השם זה כנראה משהו קשור לפרודוקטיביות ודוקומנטציה. מוצר חדש שעלה ל-Product Hunt שמסקרן את הקהילה הטכנולוגית הישראלית בימים אלה.",
     "d": "2026-04-21T20:51:42.000Z",
     "v": 0,
     "l": [
@@ -1907,7 +1896,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 81,
-    "t": "VibeAround\n\nDiscussion\n            |\n            Link",
+    "t": "VibeAround\n\nכנראה שיש פה משהו חדש שמדברים עליו בעולם ה-tech, אבל הפרטים לא ברורים לגמרי מהתיאור הקצר הזה. הפרוייקט הזה עלה ב-Product Hunt, מה שאומר שהוא כנראה יוזמה טרייה ושווה להביט בה. אם אתה רוצה להבין מה זה VibeAround באמת, כדאי לך להיכנס לדיון בקישור כדי לשמוע מהמייסדים בעצמם.",
     "d": "2026-04-21T20:26:15.000Z",
     "v": 0,
     "l": [
@@ -2151,7 +2140,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 91,
-    "t": "Kyohansha\n\nDiscussion\n            |\n            Link",
+    "t": "קיוהנשה\n\nנראה שמדובר בפרוייקט או שירות חדש שהוצג בProduc Hunt, אך הפרטים המדויקים לא ברורים מההודעה. בכל זאת, זה נראה כמו משהו שמעורר דיון בקהילת ה-tech, אז כנראה שיש כאן משהו מעניין שכדאי לעקוב אחריו.",
     "d": "2026-04-21T19:07:16.000Z",
     "v": 0,
     "l": [
@@ -2197,7 +2186,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 93,
-    "t": "ChatGPT Images 2.0\n\nDiscussion\n            |\n            Link",
+    "t": "ChatGPT Images 2.0\n\nOpenAI משדרגת את יכולות יצירת התמונות שלה ב-ChatGPT עם גרסה 2.0 חדשה שמביאה עיצובים מתקדמים ובקרה טובה יותר על הפלט. המערכת המשופרת מאפשרת למשתמשים ליצור ולערוך תמונות בדרך זו שנראית טבעית ותוך שמירה על איכות גבוהה של התוצאות הסופיות. זו עוד הוכחה שOpenAI ממשיכה לחזק את הטולים שלה כדי לתחרות עם יצרניות AI אחרות בשוק התמונות.",
     "d": "2026-04-21T19:04:42.000Z",
     "v": 0,
     "l": [
@@ -2655,7 +2644,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 112,
-    "t": "Basedash Automations\n\nDiscussion\n            |\n            Link",
+    "t": "אוטומציות Basedash\n\nBasedash משיקה תוכנית אוטומציות חדשה שמאפשרת למפתחים וחברות לאוטומט משימות שגרתיות בלי צורך בקוד מורכב. הכלי מתאים במיוחד לעבודות ניהול בסיסי נתונים וintegrations בין אפליקציות שונות, ומעניין כמו שהוא נראה - דיון על הפיצ'ר והפוטנציאל שלו זה כבר התחיל ב-Product Hunt.",
     "d": "2026-04-21T17:49:45.000Z",
     "v": 0,
     "l": [
@@ -2869,7 +2858,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 121,
-    "t": "OneGlanse\n\nDiscussion\n            |\n            Link",
+    "t": "OneGlance\n\nכלי חדש שמופיע ב-Product Hunt שמבטיח לתת לכם ״מבט אחד״ על הכל - אם זה ניתוח נתונים, ניהול פרויקטים או משהו אחר לגמרי. הקהילה כבר דנה בזה ויש לינק להמשך הפרטים. נראה כמו משהו שכדאי לעקוב אחריו אם אתם מחפשים כלי חדש וחכם.",
     "d": "2026-04-21T17:10:03.000Z",
     "v": 0,
     "l": [
@@ -3010,7 +2999,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 127,
-    "t": "DecisionBox Enterprise\n\nDiscussion\n            |\n            Link",
+    "t": "DecisionBox Enterprise\n\nפלטפורמה חדשה שמסייעת לארגונים בהחלטות עסקיות מורכבות באמצעות ניתוח נתונים חכם. DecisionBox מציעה כלים מתקדמים ש automate את תהליך קבלת ההחלטות ומאפשרות לצוותים לעבוד עם מידע בצורה יותר יעילה. הפיתוח של התוכנה מאפשר ארגונים להתחזק החלטות קריטיות בהסתמך על insights אמיתיים ולא על intuition בלבד. מקור: Product Hunt",
     "d": "2026-04-21T16:29:54.000Z",
     "v": 0,
     "l": [
@@ -3105,7 +3094,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 131,
-    "t": "Seeknal\n\nDiscussion\n            |\n            Link",
+    "t": "Seeknal\n\nזה נראה כמו פוסט בדיון על Product Hunt, אבל בלי פרטים ממשיים על מה בדיוק Seeknal עושה. אנחנו לא יכולים לתת סיכום משמעותי בלי מידע נוסף על המוצר או השירות הזה.",
     "d": "2026-04-21T16:02:49.000Z",
     "v": 0,
     "l": [
@@ -3359,7 +3348,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 142,
-    "t": "Android Studio Panda 4\n\nDiscussion\n            |\n            Link",
+    "t": "Android Studio Panda 4\n\nגוגל הכניסה גרסה חדשה של Android Studio עם שם הקוד 'Panda 4', שמביאה עם עצמה שיפורים משמעותיים לפיתוחי Android. הגרסה החדשה כוללת תוצאות ביצועים טובות יותר, עדכונים ל-UI ותמיכה משופרת לפרויקטים מודרניים. זה בשביל כל מפתח Android שרוצה להישאר מעודכן עם הכלים העדכניים ביותר של גוגל.\n\nמקור: Product Hunt",
     "d": "2026-04-21T14:41:34.000Z",
     "v": 0,
     "l": [
@@ -3477,7 +3466,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 147,
-    "t": "Layers\n\nDiscussion\n            |\n            Link",
+    "t": "שכבות\n\nנראה שמדובר בדיון מעניין סביב כלי או פלטפורמה שמארגנת את המידע בשכבות שונות. התוכן המדויק לא ברור מהתיאור המקוצר, אבל זה נשמע כמו משהו שמפשט אורגניזציה של נתונים בצורה חזותית ואינטואיטיבית. המוצר הוצג ב-Product Hunt, מה שמציין שזה כנראה פרויקט טרי וחדשני בתחום ה-tech.",
     "d": "2026-04-21T14:01:10.000Z",
     "v": 0,
     "l": [
@@ -3500,7 +3489,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 148,
-    "t": "FusedFrames\n\nDiscussion\n            |\n            Link",
+    "t": "FusedFrames\n\nנראה שזה כלי חדש שהופיע ב-Product Hunt, אבל פרטים מלאים עליו עדיין לא ברורים לגמרי. אם אתם סקרנים ללמוד עוד, אתם מוזמנים להשתתף בדיון בקהילה או להסתכל בקישור הישיר לפרויקט.",
     "d": "2026-04-21T13:59:53.000Z",
     "v": 0,
     "l": [
@@ -3618,7 +3607,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 153,
-    "t": "Reference Board\n\nDiscussion\n            |\n            Link",
+    "t": "לוח הייחוס\n\nפורום דיון חדש שמטרתו לשמש כפלטפורמה מרכזית לשיתוף רעיונות וחוות דעות בקהילת המוצרים הטכנולוגיים. זו הזדמנות למפתחים ויזמים לחקור, לדון ולשתף מידע על פרויקטים חדשים והטרנדים העדכניים בעולם ה-tech.",
     "d": "2026-04-21T13:17:56.000Z",
     "v": 0,
     "l": [
@@ -3989,7 +3978,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 169,
-    "t": "ml-intern\n\nDiscussion\n            |\n            Link",
+    "t": "ML Intern - כלי AI לאימון וניתוח מודלים\n\nנראה שמדובר בפרויקט או כלי חדש שהוצג בProduct Hunt שעוסק בתחום Machine Learning וAI. זה כנראה עוד אחד מהכלים שמנסים להנגיש את עולם ה-ML למעצבים ומפתחים בצורה יותר משתמשית.",
     "d": "2026-04-21T12:13:32.000Z",
     "v": 0,
     "l": [
@@ -4173,7 +4162,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 177,
-    "t": "Skyty\n\nDiscussion\n            |\n            Link",
+    "t": "סקיטי - כלי חדש לניהול עננים\n\nמצאנו כאן משהו מעניין שהופיע ב-Product Hunt - Skyty, שנראה כמו פתרון חדש לניהול תשתיות ענן. אנחנו עדיין מחקרים את הפרטים, אבל זה בהחלט יכול להיות רלוונטי למי שעובד עם cloud infrastructure ואוטומציה.",
     "d": "2026-04-21T11:30:26.000Z",
     "v": 0,
     "l": [
@@ -4245,7 +4234,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 180,
-    "t": "Cavalry Studio\n\nDiscussion\n            |\n            Link",
+    "t": "Cavalry Studio\n\nCavalry Studio זה כלי חדש שמופיע בפנטהאוס של Product Hunt, ונראה שמדובר בסטודיו לעריכה וייצור תוכן דיגיטלי. למרות שהפרטים עדיין מעט מעורפלים, יש כאן דיון פעיל בקהילת המוצרים שמעידה שזה משהו שעלול להעניין מעצבים ויוצרים בתחום הדיגיטל.",
     "d": "2026-04-21T11:15:49.000Z",
     "v": 0,
     "l": [
@@ -4720,7 +4709,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 200,
-    "t": "ChatFolders\n\nDiscussion\n            |\n            Link",
+    "t": "ChatFolders\n\nכלי חדש שעוזר לארגן את השיחות שלכם ב-ChatGPT בתיקיות, כדי שלא תתערבכו בחיפוש אחרי את השיחה הנכונה. זה כמו Gmail בעצם - אם אתם משתמשים בChats המון, זה יחסוך לכם עשרות דקות של צעצועים עם ממשק.",
     "d": "2026-04-21T08:55:25.000Z",
     "v": 0,
     "l": [
@@ -4733,9 +4722,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -4767,7 +4759,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 202,
-    "t": "BlankOut\n\nDiscussion\n            |\n            Link",
+    "t": "BlankOut\n\nפרויקט חדש שהופיע ב-Product Hunt שנראה מעניין, אבל הפרטים עדיין לא ברורים לחלוטין. נראה שזה משהו שקשור למחיקה או הסתרה של מידע, אבל נצטרך להיכנס ולראות מה בדיוק הם מציעים. אם אתם חסרי סקרנות - זה בוודאי שווה לעקוב עליו בימים הקרובים!",
     "d": "2026-04-21T08:29:36.000Z",
     "v": 0,
     "l": [
@@ -4790,7 +4782,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 203,
-    "t": "Iris Studio\n\nDiscussion\n            |\n            Link",
+    "t": "Iris Studio\n\nנראה שקם כאן משהו חדש בשם Iris Studio, אבל הפרטים עדיין קצת ערפילים - אנחנו רואים רק קישור ודיון בעמוד Product Hunt. אם אתם מקצוענים בתחום הדיזיין או ה-AI, כדאי לכם להצטרף לשיחה ולגלות מה בדיוק מתחבא פה!",
     "d": "2026-04-21T08:18:54.000Z",
     "v": 0,
     "l": [
@@ -4839,7 +4831,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 205,
-    "t": "Loomal\n\nDiscussion\n            |\n            Link",
+    "t": "Loomal\n\nלא ברור לגמרי מה זה Loomal בדיוק מהתיאור המינימליסטי הזה, אבל זה נראה כמו משהו שמדברים עליו בקהילת Product Hunt. אם אתם מחפשים לדעת יותר על המוצר החדש הזה, כדאי לכם לחפור בדיון ולראות מה אומרים על זה השחקנים בתעשייה.",
     "d": "2026-04-21T07:07:27.000Z",
     "v": 0,
     "l": [
@@ -5668,7 +5660,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 240,
-    "t": "Nomie v2\n\nDiscussion\n            |\n            Link",
+    "t": "Nomie v2\n\nנומי חזרה עם גרסה חדשה ובוהקת! המכשיר החכם להתמודדות עם ההרגלים והשגרות שלכם קיבל עדכון משמעותי שאמור להפוך את הכלי הזה לעוד יותר שימושי וידידותי. אם אתם עוקבים אחרי התנהגויות ומנסים להשתפר, זה בדיוק הרגע להבין מה בדיוק הם שינו והציבו בשולחן הזה.",
     "d": "2026-04-20T21:25:24.000Z",
     "v": 0,
     "l": [
@@ -6395,7 +6387,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 271,
-    "t": "Stanley For 𝕏\n\nDiscussion\n            |\n            Link",
+    "t": "Stanley עבור 𝕏\n\nנראה שיש כאן משהו חדש הקשור ל-Stanley והפלטפורמה 𝕏 (טוויטר לשעבר). זה עשוי להיות כלי או שירות שמחבר בין שתי הפלטפורמות, אבל הפרטים עדיין מעט סתומים. המוצר זה זה עלה ל-Product Hunt, מה שאומר שזה כנראה משהו שהקהילה הטכנולוגית צריכה לעקוב אחריו.",
     "d": "2026-04-20T16:52:38.000Z",
     "v": 0,
     "l": [
@@ -7404,7 +7396,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 314,
-    "t": "Zernio Ads API\n\nDiscussion\n            |\n            Link",
+    "t": "Zernio Ads API\n\nציריו משיקה API חדש למודעות שמאפשר למפתחים ולעסקים להטמיע פתרונות פרסום בצורה חלקה בתוך האפליקציות והאתרים שלהם. התוכנית מציעה דרך פשוטה ויעילה לנהל קמפיינים פרסומיים דרך ממשק תכנות שמתאים גם לחברות קטנות וגם לגדולות. הפרטנרים של ציריו יכולים כעת להשתמש בכלי זה כדי להגדיל את הכנסות הפרסום שלהם בעזרת טכנולוגיה מתקדמת.",
     "d": "2026-04-20T10:57:04.000Z",
     "v": 0,
     "l": [
