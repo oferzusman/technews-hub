@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "UK could face ‘hacktivist attacks at scale’, says head of security agency\n\nOfficials warn a conflict situation could cause disruption similar to recent major ransomware incidents\nThe UK could face “hacktivist attacks at scale” if it becomes embroiled in a conflict and the impact could be similar to recent high-profile ransomware incidents, according to the head of the country’s online security agency.\nRichard Horne, chief executive of the National Cyber Security Centre (NCSC), will warn today that nation states now account for the most significant incidents the NCSC de",
+    "t": "ראש סוכנות הסייבר הבריטית מזהיר: בריטניה עלולה להיות מטרה לתקיפות הקטיביסטיות בקנה מידה ענק\n\nההנהגה הבריטית מעלה אזהרה חד משמעית: אם בריטניה תיקלע לסכסוך צבאי, היא עלולה להיות נחלת דל לתקיפות hacktivist בהיקף ענק שיכול להשוות נזק לפרצות ransomware משמעותיות שהיו בשנים האחרונות. ראש סוכנות הסייבר הלאומית (NCSC) מדגיש שמדינות-אומות כיום אחראיות לרוב התקיפות הסייבר הרציניות ביותר שהן מתמודדות איתן.",
     "d": "Wed, 22 Apr 2026 05:00:10 GMT",
     "v": 0,
     "l": [
@@ -25,7 +25,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "OpenAI Open-Sources Euphony: A Browser-Based Visualization Tool for Harmony Chat Data and Codex Session Logs\n\nDebugging an AI agent that runs for dozens of steps: reading files, calling APIs, writing code, and revising its own output, is not like debugging a regular function. There is no single stack trace to read. Instead, developers are left staring at hundreds of lines of raw JSON, trying to reconstruct what the model was […]\nThe post OpenAI Open-Sources Euphony: A Browser-Based Visualization Tool for Harmony Chat Data and Codex Session Logs appeared first on MarkTechPost.",
+    "t": "OpenAI משחררת לציבור את Euphony: כלי ויזואליזציה מבוססת דפדפן לנתוני Harmony Chat ורישומי Codex\n\nדיבאגינג של AI agents שעובדים עשרות שלבים זה כבר לא כמו דיבאגינג של פונקציה רגילה - אין stack trace אחד שנקרא אותו. OpenAI פתחה כעת את Euphony, כלי שמעניקה סדר וצבעים לכאוס של JSON שמשתמשים צריכים להתמודד איתו כשהם מנסים להבין מה עשה ה-AI שלהם. עכשיו מפתחים יכולים להמחיש בקלות את כל התהליך - מקריאות API ועד כתיבת קוד ותיקונים עצמיים. | מקור: MarkTechPost",
     "d": "Wed, 22 Apr 2026 04:38:14 +0000",
     "v": 0,
     "l": [
@@ -52,7 +52,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Latest glimpse of F/A-XX 6th-gen fighter reveals tailless design\n\nNorthrop Grumman is teasing us again with another glimpse of its candidate for the US Navy's F/A-XX fighter program. The company posted a brief video on X (formerly Twitter) that gives the most complete look yet of the 6th-Gen aircraft.\nContinue Reading\nCategory: Military, Engineering\nTags: Northrop Grumman, Aircraft, Fighter",
+    "t": "עיצוב ללא זנב: הצצה חדשה למטוס הקרב F/A-XX של הדור השישי\n\nנורת'רופ גרומן חושפת שוב את המועמד שלה לתוכנית מטוס הקרב F/A-XX של הצי האמריקאי, והפעם עם וידאו שנותן את התמונה המלאה ביותר עד כה של המטוס מהדור השישי. העיצוב הנטול זנב של המטוס מסמל סכום של החדשנויות בטכנולוגיית אווירונאוטיקה המודרנית, וזה כנראה יהיה תחרותי מול מועמדים אחרים בתחום.",
     "d": "Wed, 22 Apr 2026 04:33:20 GMT",
     "v": 0,
     "l": [
@@ -75,7 +75,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Mythos found 271 Firefox flaws – but none a human couldn’t spot\n\nMozilla CTO says AI means developers finally have a chance to get on top of security The Mozilla Foundation has revealed it tested Anthropic’s bug-finding “Mythos” AI model and feels the results it experienced represent a watershed moment for software defenders.…",
+    "t": "Mythos מצאה 271 버그ים בפיירפוקס – אבל שום דבר שאדם לא היה יכול להבחין בו\n\nמוזילה בדקה את מודל ה-AI של Anthropic לחיפוש버그ים והגיעה למסקנה שזה רגע חשוב בעולם אבטחת התוכנה. המכללה מוצאת שיתוף פעולה עם AI יכול סוף סוף לתת למפתחים את ההזדמנות לשלוט בבעיות אבטחה, אם כי זה לא פירוש שה-AI עושה משהו שבן אדם לא היה יכול לעשות.",
     "d": "2026-04-22T04:32:11.000Z",
     "v": 0,
     "l": [
@@ -89,15 +89,11 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Anthropic",
-      "Amazon"
+      "Anthropic"
     ],
     "tags": [
       "news",
-      "model",
-      "product",
-      "regulation",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -105,7 +101,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Magnificent irony as Meta staff unhappy about running surveillance software on work PCs\n\nZuck reportedly needs to capture workers’ keystrokes to build AI Meta, the company built on watching everything its billions of users do online so it can keep them clicking on ragebait and targeted ads, is reportedly now installing surveillance software on employees’ work computers.…",
+    "t": "הסירוניה המושלמת: עובדי מטא מתנגדים לתוכנת ריגול על המחשבים שלהם\n\nזוקרברג מתקין תוכנת עקיבה על מחשבי העובדים כדי לבנות AI חדש - וזאת הסירוניה שלא תשכחו: מטא, החברה שבנויה כולה על מעקב אחרי כל מה שמיליארדים של משתמשים עושים ברשת כדי לשמור עליהם מחוברים למוקדי כעס ופרסומות ממוקדות, רוצה עכשיו לעקוב גם אחרי קלידוגרפיה של העובדים שלה. המוחלט מטא יח לא חבר.",
     "d": "2026-04-22T02:54:02.000Z",
     "v": 0,
     "l": [
@@ -118,21 +114,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Register"
   },
   {
     "id": 6,
-    "t": "Mass data awakening highlights importance of scaling AI infrastructure\n\nIntelligence starts with building AI data infrastructure Partner Content  Data has become the backbone of rapid artificial intelligence (AI) advancement, which drives industrial transformation and intelligence.…",
+    "t": "ההיקיצה הגדולה של נתונים: למה אנחנו צריכים להרחיב את תשתיות ה-AI\n\nזה כבר לא סוד - הנתונים הם הדלק של כל מה שקשור ל-AI, וכדי שהטכנולוגיה הזו תצליחה לעשות דברים ממש שימושיים, צריכים לבנות תשתיות נתונים חכמות ומסוגלות לעמוד בלחץ. למה זה משנה? כי בלי התשתיות המתאימות, אפילו מודלי ה-AI החכמים ביותר יישארו תקועים במקום.",
     "d": "2026-04-22T01:00:12.000Z",
     "v": 0,
     "l": [
@@ -155,7 +147,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Hugging Face Releases ml-intern: An Open-Source AI Agent that Automates the LLM Post-Training Workflow\n\nHugging Face has released ml-intern, an open-source AI agent designed to automate end-to-end post-training workflows for large language models (LLMs). Built on the company’s smolagents framework, the tool can autonomously perform literature review, dataset discovery, training script execution, and iterative evaluation — tasks that typically require significant manual effort from ML researchers and engineers. What […]\nThe post Hugging Face Releases ml-intern: An Open-Source AI Agent that Automate",
+    "t": "Hugging Face הכניסה ל-ml-intern: AI Agent בקוד פתוח שמאוטומציה את תהליך ה-Post-Training של LLM\n\nHugging Face פרסמה את ml-intern, סוכן AI חדש שמתמחה בהפוך את העבודה המייגעת של researcher יחיד לעבודה אוטומטית. הכלי יכול לבד לעשות סקירת מחקר, גילוי דאטאסטים, הרצת סקריפטים וטסטינג איטרטיבי - כל המשימות שבדרך כלל זולגות שעות רבות מחיי ה-ML engineers. זה בנוי על ה-smolagents framework של Hugging Face ויכול לחסוך הרבה זמן יקר לכל מי שעובד עם LLM. מקור: MarkTechPost",
     "d": "Wed, 22 Apr 2026 00:43:53 +0000",
     "v": 0,
     "l": [
@@ -171,17 +163,15 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "robotics",
-      "funding",
       "agents"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://www.marktechpost.com/wp-content/uploads/2026/04/7BxOVTvmE1GoU1bm.mp4",
     "source": "MarkTechPost"
   },
   {
     "id": 8,
-    "t": "Meta Installing Software on Employee Computers to Track Everything They Do, Feed the Data to AI\n\nThe company is saying the quiet part out loud.\nThe post Meta Installing Software on Employee Computers to Track Everything They Do, Feed the Data to AI appeared first on Futurism.",
+    "t": "מטה מתקינה תוכנה לעקוב אחרי כל מה שעובדיהם עושים - והנתונים משמשים לאימון AI\n\nמטה בעצם אומרת בקול גבוה את מה שכל החברות טק חושבות בשקט: אנחנו צופים בכל תנועה שלכם. התוכנה החדשה של המשרד האם של פייסבוק ואינסטגרם עוקבת אחרי כל פעולה של עובדים ומזינה את הנתונים ישירות למודלי ה-AI שלהם - כי למה לא להמיר את הייצור שלך למקור נתונים לאימון מודלים?",
     "d": "Tue, 21 Apr 2026 20:41:07 -0400",
     "v": 0,
     "l": [
@@ -194,12 +184,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/meta-track-everything-workers-type-click-train-ai.jpg?quality=85",
@@ -207,7 +194,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Anthropic tests how devs react to yanking Claude Code from Pro plan\n\nUnannounced change apparently aimed at two percent of users but hit documentation for everyone Anthropic has removed Claude Code from its Pro subscription plan, according to some of its public-facing web pages, but the company says it’s only a test for a small number of users.…",
+    "t": "אנתרופיק בודקת את תגובת המפתחים להסרת Claude Code מתוכנית Pro\n\nאנתרופיק החלה להסיר את Claude Code מתוכנית ה-Pro שלה בניסיון שטרם הוכרז, ופוגעת בתיעוד הפומבי שלה - אף שהחברה טוענת שזה בדיקה רק לשתי אחוז מהמשתמשים. כנראה שזו צעד לבדיקת תגובות המפתחים, אבל הוא הפגיע גם ליותר מדי משתמשים בדרך.",
     "d": "2026-04-22T00:16:57.000Z",
     "v": 0,
     "l": [
@@ -233,7 +220,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "SpaceX secures option to buy AI startup Cursor for $60bn or partner for $10bn\n\nCursor is aSilicon Valley startup using AI to automate coding as Elon Musk’s firm seeks foothold in the AI market\nSpaceX said it has secured an option to either acquire code-generation startup Cursor for $60bn later this year, or pay $10bn for their new partnership, as it pushes deeper into the lucrative market for AI developer tools.\nAlong with OpenAI and Anthropic, Cursor is one of several Silicon Valley startups that has drawn waves of developers by using artificial intelligence to automate c",
+    "t": "SpaceX מאבטחת אופציה לרכישת startup AI בשם Cursor תמורת 60 מיליארד דולר או שיתוף פעולה תמורת 10 מיליארד\n\nSpaceX מתגברת על הקרב על שלטון בשוק ה-AI של כלים למפתחים, והצליחה להשיג עסקה חמה עם Cursor - ה-startup שהפך את עולם הקידוד לאוטומטי עם AI. החברה של אלון מאסק יכולה לרכוש את Cursor תמורת 60 מיליארד דולר בסוף השנה או להשקיע 10 מיליארד בשיתוף פעולה קרוב, בעוד שהחברה מתחרה עם OpenAI ו-Anthropic על זה שמי יהיה המלך של כלים אלה. סימן ברור שהחלל לא מספיק לאלון מאסק - הוא רוצה גם את ה-AI.",
     "d": "Wed, 22 Apr 2026 00:13:51 GMT",
     "v": 0,
     "l": [
@@ -254,13 +241,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/c3f005e69aba0a46b07d809b2e6bdf741e1fcf13/125_0_3562_2850/master/3562.jpg?width=140&quality=85&auto=format&fit=max&s=34e58d9648f42867de07e8a67ac7ccec",
     "source": "The Guardian AI"
   },
   {
     "id": 11,
-    "t": "A Coding Implementation to Build a Conditional Bayesian Hyperparameter Optimization Pipeline with Hyperopt, TPE, and Early Stopping\n\nIn this tutorial, we implement an advanced Bayesian hyperparameter optimization workflow using Hyperopt and the Tree-structured Parzen Estimator (TPE) algorithm. We construct a conditional search space that dynamically switches between different model families, demonstrating how Hyperopt handles hierarchical and structured parameter graphs. We build a production-grade objective function using cross-validation inside a scikit-learn pipeline, enabling […]\nThe post A Coding Implementation to Build ",
+    "t": "מדריך מעשי: בניית Pipeline לאופטימיזציה של Hyperparameters עם Hyperopt ו-TPE\n\nסוף סוף יש לנו מדריך שמסביר איך בונים בחכמה את ה-Hyperparameter Optimization שלנו! התיוטוריאל הזה מלמד אתכם להשתמש ב-Hyperopt עם ה-TPE algorithm כדי לחפש בחכמה את הפרמטרים הטובים ביותר לדגם שלנו, כשהמערכת בעצמה בוחרת בין משפחות דגמים שונות בהתאם לצרכים. המטרה? לבנות production-grade objective function שחוקק ולא מבזבז זמן חישוב על פרמטרים גרועים.",
     "d": "Wed, 22 Apr 2026 00:04:34 +0000",
     "v": 0,
     "l": [
@@ -283,7 +270,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Meta will record employees’ keystrokes and use it to train its AI models\n\nMeta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
+    "t": "מטה תרשום את הקישות של העובדים ותשתמש בהן לאימון מודלי AI\n\nמטה פיתחה כלי פנימי חדש שמحליל תנועות עכבר וקליקים של עובדים וממיר אותם לנתונים שיעזרו באימון מודלי ה-AI שלה. זה בעצם אומר שכל מה שאתה עושה במקלדת ועם העכבר בעבודה יכול להפוך לחומר גלם לשיפור המודלים - מעניין ודי אלרמיסטי בו בזמן.",
     "d": "Tue, 21 Apr 2026 23:45:21 +0000",
     "v": 0,
     "l": [
@@ -296,12 +283,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,

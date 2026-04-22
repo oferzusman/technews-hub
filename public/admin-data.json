@@ -1,7 +1,7 @@
 {
   "total": 4934,
-  "translated": 4922,
-  "untranslated": 12,
+  "translated": 4934,
+  "untranslated": 0,
   "today": 12,
   "week": 905,
   "sources": [
@@ -38,7 +38,7 @@
     {
       "name": "Futurism",
       "total": 220,
-      "translated": 219,
+      "translated": 220,
       "lastDate": "Wed, 15 Apr 2026 16:15:26 -0400"
     },
     {
@@ -50,7 +50,7 @@
     {
       "name": "New Atlas",
       "total": 180,
-      "translated": 179,
+      "translated": 180,
       "lastDate": "Wed, 22 Apr 2026 04:33:20 GMT"
     },
     {
@@ -62,7 +62,7 @@
     {
       "name": "TechCrunch AI",
       "total": 133,
-      "translated": 132,
+      "translated": 133,
       "lastDate": "Wed, 15 Apr 2026 19:28:36 +0000"
     },
     {
@@ -74,7 +74,7 @@
     {
       "name": "The Register",
       "total": 125,
-      "translated": 121,
+      "translated": 125,
       "lastDate": "2026-04-22T04:32:11.000Z"
     },
     {
@@ -92,7 +92,7 @@
     {
       "name": "The Guardian AI",
       "total": 93,
-      "translated": 91,
+      "translated": 93,
       "lastDate": "Wed, 22 Apr 2026 05:00:10 GMT"
     },
     {
@@ -122,7 +122,7 @@
     {
       "name": "MarkTechPost",
       "total": 73,
-      "translated": 70,
+      "translated": 73,
       "lastDate": "Wed, 22 Apr 2026 04:38:14 +0000"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-22T07:05:06.479Z"
+  "generatedAt": "2026-04-22T08:56:58.821Z"
 }
