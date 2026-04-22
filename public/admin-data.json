@@ -1,7 +1,7 @@
 {
   "total": 4922,
-  "translated": 4921,
-  "untranslated": 1,
+  "translated": 4922,
+  "untranslated": 0,
   "today": 0,
   "week": 893,
   "sources": [
@@ -44,7 +44,7 @@
     {
       "name": "Ars Technica",
       "total": 181,
-      "translated": 180,
+      "translated": 181,
       "lastDate": "Wed, 15 Apr 2026 22:25:30 +0000"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-22T02:12:04.840Z"
+  "generatedAt": "2026-04-22T05:08:12.956Z"
 }

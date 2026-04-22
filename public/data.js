@@ -361,7 +361,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "Supreme Court arguments make it clear that FCC fines are \"nonbinding\"\n\nFCC tells Supreme Court its fines are nonbinding unless a jury upholds penalty.",
+    "t": "הוויכוח בבית המשפט העליון חושף: קנסות ה-FCC אינם חייבים\n\nבתסריט שנראה כמו קומדיה משפטית, ה-FCC השמיע בבית המשפט העליון שהקנסות שלו למעשה לא חייבים - אלא אם חבורה של שופטים יחליטו אחרת. למעשה, זה אומר שהרגולטור האמריקני לתקשורת בעיקרון צריך אישור משפטי כדי להטיל עונשים, מה שיכול להשפיע משמעותית על כוחו של הרשות בפעולות אכיפה נגד חברות טלקומוניקציה.",
     "d": "Tue, 21 Apr 2026 21:28:27 +0000",
     "v": 0,
     "l": [
