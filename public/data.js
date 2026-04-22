@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "TSMC unveils process technology roadmap through 2029: A12, A13, N2U announced, A16 slips to 2027\n\nTSMC strengthens its bifurcated process technology development approach with A14, A13, and N2U aimed at client applications and A16, A12, and N2X for high-performance data center designs.",
+    "t": "TSMC חושפת מפת דרכים של טכנולוגיית ייצור עד 2029: A12, A13, N2U הוכרזו, A16 דחוי ל-2027\n\nTSMC מחזקת את האסטרטגיה הכפולה שלה בפיתוח תהליכים: A14, A13 ו-N2U מיועדים ללקוחות ב-Client applications, בעוד A16, A12 ו-N2X יתמקדו בשרתים וחישובי נתונים כבדים. הישראלים ייצביעו על כך שגם וקל, גם כבד - TSMC משקיעה בשני החזיתות בבת אחת.",
     "d": "Wed, 22 Apr 2026 20:44:57 +0000",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Our newsroom AI policy\n\nHow Ars Technica uses, and doesn't use, generative AI.",
+    "t": "המדיניות שלנו בנושא AI בחדר העיתונות\n\nArs Technica חושפת איך בעצם משתמשים ב-generative AI בעבודת העיתונות - ויותר חשוב, איפה הם לא משתמשים בו. המדיניות שלהם מראה איך מדיום חדיש ניסיון ולא נתן לטכנולוגיה החדשה להחליף את העבודה האנושית במקומות שנחשבים קריטיים. זו בחינה מעניינת של איזון בין חידוש לשמירה על הערך של עיתונות טובה.",
     "d": "Wed, 22 Apr 2026 20:40:59 +0000",
     "v": 0,
     "l": [
@@ -39,8 +39,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/ars-logo-dark-background-1152x648.jpg",
@@ -48,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "IBM shares turn lower as company beats but opts to maintain guidance\n\nInvestors have been attuned to mainframe disruption threats from artificial intelligence, but IBM posted 51% growth in Z mainframe hardware revenue.",
+    "t": "מניות IBM יורדות למרות התוצאות החזקות והנחיות שמורות\n\nלמרות החששות של משקיעים שה-AI עלול לסכן את עסקי המיינפריים, IBM הפתיעה בצד החיובי עם גדילה של 51% בהכנסות חומware Z mainframe. החברה בחרה לשמור על הנחיותיה לעתיד, דבר שגרם לתגובה שלילית בשוק למרות הביצועים החזקים.",
     "d": "Wed, 22 Apr 2026 20:37:42 GMT",
     "v": 0,
     "l": [
@@ -71,7 +70,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "ServiceNow stock sinks 14% as subscription revenue takes hit from Iran war\n\nThe software company beat expectations for earnings and revenue as it continued to expand its artificial intelligence offerings.",
+    "t": "מניית ServiceNow צונחת ב-14% לאחר שהכנסות המנויים נפגעו מסכסוך איראן\n\nחברת התוכנה הצליחה לעלות על ציפיות בהכנסות ורווח, והמשיכה להרחיב את ההצעות שלה ב-AI, אבל בשוק זה לא מספיק כדי להשקיט את החשש מהשפעת המצב הגיאופוליטי על עסקיהם. ההשקעות הגדולות שעשתה ServiceNow ב-intelligence והאוטומציה לא הצליחו כרגע להטות את המשקל ממול לירידה בתקציבי ה-IT של הלקוחות בעקבות אי-ודאויות עולמיות.",
     "d": "Wed, 22 Apr 2026 20:29:54 GMT",
     "v": 0,
     "l": [
@@ -94,7 +93,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "AI failure could trigger the next financial crisis, warns Elizabeth Warren\n\n\"I know a bubble when I see one.\"\nThat's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbilt Policy Accelerator event in Washington, DC on Wednesday. Warren warned of what she called \"striking\" parallels to that crisis in the AI industry. While she believes the technology has \"enormous potential,\" she warned that AI companies' massive spending and borrowing practices are creating a tinder",
+    "t": "אליזابת וורן: כשל בתחום ה-AI יכול להוביל למשבר כלכלי הבא\n\nהסנאטורית וורן זה עתה השוותה את בעלבול ה-AI בשוק למצב שקדם למשבר 2008, והזהירה שחברות טכנולוגיה משקיעות הון ענק ולווים כספים בקצב מטורף. היא אמנם מכירה בפוטנציאל ענק של הטכנולוגיה, אבל חוששת שהנתונים הכלכליים מצביעים על בועה שעתידה להתפוצץ - וזה לא בדיוק טוב לכלכלה שלנו.",
     "d": "2026-04-22T20:29:05.000Z",
     "v": 0,
     "l": [
@@ -109,8 +108,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -118,7 +116,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Rogue Group Gains Access to Anthropic’s Dangerous New Mythos AI\n\nThat didn't take long.\nThe post Rogue Group Gains Access to Anthropic’s Dangerous New Mythos AI appeared first on Futurism.",
+    "t": "קבוצת האקרים השיגה גישה ל-Mythos AI החדש והמסוכן של Anthropic\n\nזה היה מהר. כשנה קבוצת האקרים כבר הצליחה להשיג גישה ל-Mythos, מודל ה-AI החדש של Anthropic שנחשב למסוכן במיוחד. ניראה שהביטחון של מודלים מתקדמים הוא עדיין אתגר גדול בעולם ה-AI, ובחברות כמו Anthropic יש עבודה לעשות.",
     "d": "Wed, 22 Apr 2026 16:27:39 -0400",
     "v": 0,
     "l": [
@@ -144,7 +142,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Lawsuit: Nintendo is getting tariff refunds—its customers should get them instead\n\nLawsuit demands Nintendo pass Trump tariff refunds on to its customers.",
+    "t": "תביעה: נינטנדו מקבלת החזרי מכסים - הלקוחות צריכים לקבל אותם במקום זה\n\nתביעה חדשה טוענת שנינטנדו צריכה להחזיר לקונים שלה את ההחזרים שהיא קיבלה על מכסים שנטילו בעידן טראמפ. נראה שהחברה מרוויחה מהסכסוך הסחרי של ארה\"ב וסין בחשאי, בזמן שחובבי הגיימינג משלמים יותר על קונסולות וגיימים. זה עוד פרק בסגה של ענקיות טק שמתעשרות מחזרי מס על חשבון הצרכנים.",
     "d": "Wed, 22 Apr 2026 20:27:24 +0000",
     "v": 0,
     "l": [
@@ -157,13 +155,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/nintendo-switch-1152x648-1776887603.jpg",
@@ -171,7 +165,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "World’s first 50 MW superhot geothermal power plant targets Oregon by 2030\n\nQuaise Energy said it is moving ahead with plans to build what it describes as...",
+    "t": "תחנת גיאותרמית סופר-חמה של 50 מגוואט - הראשונה בעולם תגיע לאורגון עד 2030\n\nחברת Quaise Energy קדמה בתוכנית שלה לבנות את תחנת הכוח הגיאותרמית החדשנית ביותר בעולם בטכנולוגיית קרן מיקרוגל, שתייצר אנרגיה נקייה בכמות ענקית שלא ראינו מסוג זה עד כה. המיזם במדינת אורגון יהיה משחק משנה בתעשיית האנרגיה המתחדשת, וגם עדות לכך שתעשיית ה-deep tech בישראל לא היחידה שחושבת על פתרונות אנרגיה דוודים לעתיד. | מקור: Interesting Engineering",
     "d": "Wed, 22 Apr 2026 20:16:54 +0000",
     "v": 0,
     "l": [
@@ -194,7 +188,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "OpenAI now lets teams make custom bots that can do work on their own\n\nOpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI gives examples of agents like one that finds product feedback on the web and sends a report in Slack and a sales agent that can draft follow-up emails in Gmail.\nThese new agents follow increasing interest in agents across the AI landscape, especially after OpenClaw - the AI agent formerly known as Clawd",
+    "t": "OpenAI משחררת בוטים מותאמים אישית שיכולים לעבוד בעצמאות\n\nOpenAI הוסיפה לתוכניות Business ו-Enterprise שלה agents חדשים בעננן שיכולים לבצע משימות עסקיות בשליטה עצמית. אלה בוטים חכמים שיכולים למשל לאסוף משוב ממשתמשים ברשת ולשלוח דוח ל-Slack או לגבש מיילים עקוביים בGmail - כלומר, הם עשויים לחסוך לכם שעות של עבודה שגרתית. התוספת מגיעה כשהתעניינות בעוד AI agents מתפוצצת בשוק, וברור שחברות בהנהגת OpenAI רואות בכיוון הזה את העתיד של ייעול עבודה.",
     "d": "2026-04-22T20:09:02.000Z",
     "v": 0,
     "l": [
@@ -213,16 +207,15 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news",
       "model",
-      "regulation",
       "agents"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 10,
-    "t": "RFK Jr. won't back CDC director on vaccines as agency scraps positive data\n\nKennedy's tesimony sets up another clash over vaccines with next CDC director.",
+    "t": "RFK Jr. לא יתמוך במנהל CDC בנושא חיסונים, הסוכנות מחסלת נתונים חיוביים\n\nקנדי הופיע בעדות פוליטית שמציבה עוד עימות חוד על חיסונים מול מנהל ה-CDC הבא. התביעה מעלה שאלות חדשות על מדיניות החיסונים בארה\"ב ואיך הממשלה תנהל את הנושא בתקופה הקادמת.",
     "d": "Wed, 22 Apr 2026 20:06:49 +0000",
     "v": 0,
     "l": [
@@ -245,7 +238,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "OpenAI now lets you screenshot your privacy in the foot\n\nMake your model smarter through self-surveillance Those who cannot remember Microsoft Recall are condemned to repeat it. …",
+    "t": "OpenAI מאפשרת לכם לצלם את פרטיותכם בתמונה\n\nOpenAI הוצאה קו חדש שמאפשר למשתמשים להשתמש בתמונות כדי לשפר את ה-AI שלהם - אבל זה מעלה שאלות רצינيות על פרטיות המידע שלכם. כמו Microsoft עם Recall, גם פה יש פה סכנה שאנשים יתנו גישה לתמונות רגישות בלי לחשוב כל הצורך על ההשלכות של self-surveillance. זה עוד דוגמה של כיצד חברות tech דוחפות פיצ'רים צעים ללא חשיבה מספקת על הבעיות הפרטיות שהם יוצרים.",
     "d": "2026-04-22T19:56:58.000Z",
     "v": 0,
     "l": [
@@ -273,7 +266,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "How SpaceX preempted a $2B fundraise with a $60B buyout offer\n\nCursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
+    "t": "איך SpaceX עצרה סבב גיוס של 2 מיליארד דולר עם הצעת רכישה של 60 מיליארד\n\nCursor היתה בדרך לסיים סבב מימון של 2 מיליארד דולר השבוע, אבל החליטה להשהות את הדיונים אחרי שSpaceX הציעה \"עמלת שיתוף פעולה\" של 10 מיליארד דולר ודרך לרכישה של 60 מיליארד. עלייה מטורפת - SpaceX כמעט שכנעה את Cursor לשכוח מהסבב הרגיל שלה בעבור הצעה שנראית כמו מאי-סיכום של מימון עם קסם גדול בהרבה. מקור: TechCrunch AI",
     "d": "Wed, 22 Apr 2026 19:51:51 +0000",
     "v": 0,
     "l": [
@@ -288,16 +281,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 13,
-    "t": "You want your Moon landings in HD? So does NASA—here's how it's happening.\n\n\"You just push this button, and in three hours, you're counting photons.\"",
+    "t": "רוצים נחיתות ירח בחד? גם NASA רוצה - וזה איך זה קורה\n\nNASA עובדת בחוזקה כדי להביא לנו תמונות HD של הירח בחזרה לכדור הארץ. במקום ציוד מכני כבד, המוסד משתמש בטכנולוגיה חכמה שמאפשרת ספירת פוטונים בשלוש שעות בלבד - תהליך פשוט כמו לחיצה על כפתור. זה שינוי גדול בדרך שבה אנחנו מתכננים לתעד את חקר הקוטב הדרומי של הירח.",
     "d": "Wed, 22 Apr 2026 19:42:13 +0000",
     "v": 0,
     "l": [
@@ -320,7 +312,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Microsoft issues emergency update for macOS and Linux ASP.NET threat\n\nWhen authentication fails, things can go very, very wrong.",
+    "t": "מייקרוסופט הוציאה עדכון חירום ל-ASP.NET ב-macOS ו-Linux\n\nמייקרוסופט חרטט תור חירום לביטחון ASP.NET על מערכות macOS ו-Linux, כי כשהאימות משתבש, זה יכול להיות פשוט קטסטרופה. הפרצה הזו יכולה לתת לתוקפים גישה שהם לא צריכים לקבל, ואם אתה מריץ אפליקציות ASP.NET על לינוקס או מק, זה קריטי שתעדכן את זה עכשיו.",
     "d": "Wed, 22 Apr 2026 19:32:56 +0000",
     "v": 0,
     "l": [
@@ -333,12 +325,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
@@ -346,7 +335,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "Soft-bodied origami robot moves without motors or gears\n\n\"Ancient Japanese Art Brings Spineless Robot To Life!\" Sounds very much like a movie plot summary. In reality, it perfectly describes the work of Princeton University engineers who have created a robot that moves without a single motor or gear, using heat and the principles of origami instead. Their soft robotic system relies on a combination of heat-sensitive advanced materials, flexible embedded electronics, and carefully designed folding structures to produce motion, ditching traditional mech",
+    "t": "רובוט מנייר בעיצוב אוריגמי נע ללא מנועים או גיוכים\n\nמהנדסי פרינסטון יצרו משהו שנראה כמו מתוך סרט מדע בדיוני - רובוט רך שנע ללא מנוע או גיוכים בכלל. הטריק? הם שימשו בעקרונות של אוריגמי יפני עתיק וחומרים רגישים לחום כדי ליצור תנועה, מה שעוקף לגמרי את כל הממוצא המכני הקלאסי שאנחנו מכירים.",
     "d": "Wed, 22 Apr 2026 19:28:01 GMT",
     "v": 0,
     "l": [
@@ -361,8 +350,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -370,7 +358,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "World-first light propulsion ‘metajets’ could enable 20-year mission to Alpha Centauri\n\nUsing even the most advanced rocket propulsion technologies available today, it would take billions of...",
+    "t": "מטראות אור מהפכניות: משימה של 20 שנה אל אלפא קנטאורי הופכת למציאות?\n\nחוקרים פיתחו טכנולוגיית propulsion חדשנית שמשתמשת באור כדי להנע חלליות - וזה יכול להפוך את הנסיעה לכוכב הקרוב ביותר מ-'חלום בלתי אפשרי' לסיפור של 20 שנה בלבד. בעוד שטילים מסורתיים היום היו צריכים מיליארדים של שנים כדי להגיע לשם, הטכנולוגיה הזאת של 'מטראות' עלולה להיות לנקודת הפנייה במרחקים בין-כוכביים.",
     "d": "Wed, 22 Apr 2026 19:26:03 +0000",
     "v": 0,
     "l": [
@@ -383,21 +371,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/Breaktrhough-Starshot.jpg",
     "source": "Interesting Engineering"
   },
   {
     "id": 17,
-    "t": "Leak Shows ICE Planning to Use Facial Recognition Glasses to Identify Targets in Real Time\n\n\"It might be portrayed as seeking to identify illegal aliens on the streets, but the reality is that a push in this direction affects all Americans, particularly protestors.\"\nThe post Leak Shows ICE Planning to Use Facial Recognition Glasses to Identify Targets in Real Time appeared first on Futurism.",
+    "t": "דלף חושף: ICE מתכננת להשתמש במשקפי זיהוי פנים בזמן אמת לזיהוי חשודים\n\nסוכנות ההגירה האמריקאית מתכננת להצטייד במשקפיים עם טכנולוגיית AI לזיהוי הזדהות בזמן אמת, אבל זה לא רק על מהגרים - החוקרים מזהירים שהטכנולוגיה הזאת יכולה להשפיע על כל אדם בעיר, במיוחד פעילי מחאה ומפגינים. משקפיים חכמים שמזהים אותך בדקה אחת? זה כבר לא עתיד רחוק, וזה מעוררת שאלות ירוקות על זכויות פרטיות בעידן ה-AI.",
     "d": "Wed, 22 Apr 2026 15:19:32 -0400",
     "v": 0,
     "l": [
@@ -420,7 +404,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "Ex-OpenAI researcher Jerry Tworek launches Core Automation to build the most automated AI lab in the world\n\nNew AI lab, familiar face: former OpenAI researcher Jerry Tworek wants to push past the limits of today's AI architectures with a small team and new learning methods.\nThe article Ex-OpenAI researcher Jerry Tworek launches Core Automation to build the most automated AI lab in the world appeared first on The Decoder.",
+    "t": "חוקר לשעבר מ-OpenAI, ג'רי טוורק, משיק את Core Automation - מעבדת AI המושכללת ביותר בעולם\n\nעוד פרצוף מוכר בעולם ה-AI: ג'רי טוורק, שעבד ב-OpenAI, הוא משיק מעבדת חדשה שמטרתה לדחוף את גבולות ארכיטקטורות ה-AI של היום בעזרת צוות קטן ושיטות למידה חדשות. Core Automation רוצה לבנות את מעבדת ה-AI המושכללת ביותר בעולם, ונראה שיש להם תוכניות גדולות עם אוטומציה חכמה.",
     "d": "Wed, 22 Apr 2026 18:44:36 +0000",
     "v": 0,
     "l": [
@@ -440,13 +424,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 19,
-    "t": "Google Cloud launches two new AI chips to compete with Nvidia\n\nGoogle's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+    "t": "גוגל קלאוד משיקה שני שבבי AI חדשים כדי להתחרות עם Nvidia\n\nה-TPU הדור החדש של גוגל מגיעים עם מהירות ועלות נמוכה יותר מהדורות הקודמים, אבל גוגל לא מתכננת להשמיט את Nvidia מהענן שלה — לפחות לא עכשיו. זה סימן חשוב שגוגל מתחזקת בתחום ה-AI chips, אבל העיר עדיין לא מוכנה לזרוק את כל הביצים של Nvidia מהסל.",
     "d": "Wed, 22 Apr 2026 18:39:27 +0000",
     "v": 0,
     "l": [
@@ -460,21 +444,19 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Google",
       "Nvidia"
     ],
     "tags": [
       "news",
-      "model",
       "hardware"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 20,
-    "t": "Anthropic tested removing Claude Code from the Pro plan\n\nUntenable demand has Anthropic exploring new approaches to rationing its service.",
+    "t": "Anthropic בדקה הסרת Claude Code מתוכנית Pro\n\nנראה שהדרישה על Claude Code הפכה לבעיה כלכלית חמורה, וAnthropopic מחפשת דרכים חדשות להגביל את הגישה לשירות. החברה מנסה למצוא מודל שיהיה בר-קיימא, כי נראה שהביקוש לכלי הקוד כל כך גבוה שהוא משפיע על התוכנית הכלכלית שלהם. מעניין לראות איך הם יפתרו את הדילמה בין שמירה על הלקוחות לבין ניהול עלויות.",
     "d": "Wed, 22 Apr 2026 18:34:16 +0000",
     "v": 0,
     "l": [
@@ -500,7 +482,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "Sony AI’s Project Ace autonomous robot becomes first to beat pro table tennis players\n\nSony AI has unveiled a major robotics milestone with Project Ace, an autonomous system that...",
+    "t": "רובוט אוטונומי של Sony AI הביס לראשונה שחקני טניס שולחן מקצוענים\n\nSony AI הציגה הישג מרכזי בתחום הרובוטיקה עם Project Ace - מערכת אוטונומית שהצליחה להביס שחקנים מקצוענים בטניס שולחן. זה סימן משמעותי לכישרונות של AI בתחומים שדורשים תגובה מהירה, דיוק וקבלת החלטות בזמן אמת. הרובוט הוכיח שמחשבים לא רק יכולים לשחק כמו אנשים, אלא יכולים גם להביס אותם בספורט שדורש מיומנות גבוהה.",
     "d": "Wed, 22 Apr 2026 18:26:34 +0000",
     "v": 0,
     "l": [
@@ -515,8 +497,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -524,7 +505,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "OpenAI launches workspace agents that turn ChatGPT from a chatbot into a team automation platform\n\nOpenAI is rolling out workspace agents in ChatGPT, an evolution of custom GPTs. Powered by Codex, the agents automate complex team workflows and keep running even when no one is watching. Existing custom GPTs will stick around for now, with a migration path coming later.\nThe article OpenAI launches workspace agents that turn ChatGPT from a chatbot into a team automation platform appeared first on The Decoder.",
+    "t": "OpenAI משיקה workspace agents שהופכים את ChatGPT מ-chatbot פשוט לפלטפורמת אוטומציה לצוות\n\nOpenAI הציגה agents חדשים ב-ChatGPT שזוהי בעצם התפתחות של ה-custom GPTs שלהם. אלה הם בני אדם דיגיטליים שפועלים בעזרת Codex והם יכולים לעשות עבודה מורכבת של צוותים כולו באופן אוטומטי, גם כשאף אחד לא צופה בהם. הCustom GPTs הישנים לא יעלמו כרגע, אבל בעתיד יהיה אפשר להעביר אותם.\n\nמקור: The Decoder",
     "d": "Wed, 22 Apr 2026 18:23:33 +0000",
     "v": 0,
     "l": [
@@ -545,13 +526,13 @@ window.TELEGRAM_DATA = [
       "model",
       "agents"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "http://the-decoder.com/wp-content/uploads/2026/04/chatgpt_workspace_agent_demo.mp4",
     "source": "The Decoder"
   },
   {
     "id": 23,
-    "t": "SpaceX Admits AI Data Centers in Space May Be a Really Terrible Idea\n\nNo kidding.\nThe post SpaceX Admits AI Data Centers in Space May Be a Really Terrible Idea appeared first on Futurism.",
+    "t": "SpaceX מודה: Data Centers של AI בחלל? זה כנראה רעיון끔찍\n\nאחרי כל הבדיחות על Starlink וטלסקופים, SpaceX החליטה שהם קצת יצאו מהכלים עם הרעיון להקים מרכזי נתונים של AI בחלל. המחברים של החברה חוזרים בהם וגם מסכימים שזה היה כנראה לא הכי חכם move שלהם. מי היה חושב שהעברת infrastruktura קריטית לחלל היא בעיה? (מקור: Futurism)",
     "d": "Wed, 22 Apr 2026 14:13:50 -0400",
     "v": 0,
     "l": [
@@ -574,7 +555,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 24,
-    "t": "What Trump’s Bible stunt says about his complicated history with Christianity\n\nOn Tuesday, the president read from the Bible in a taped message. Religious scholars were not impressed\n\nThis was originally published in This Week in Trumpland. Sign up to receive it in your inbox every Wednesday\n\nDonald Trump, who recently posted an image on social media which portrayed him as Jesus Christ (or, rather, “a doctor”), and who seems unable to stop attacking the pope, read the Bible to America on Tuesday night.\nSitting behind his desk in the Oval Office, hands resting on a book tha",
+    "t": "מה 'הטריק' של טראמפ עם התנ\"ך אומר על הקשר המסובך שלו לנצרות\n\nטראמפ, שזה עתה פרסם תמונה שבה הוא מתואר כישו (או בעצם \"כרופא\"), קרא מהתנ\"ך בהודעה מוקלטת בטלוויזיה. חוקרי דת לא התרשמו במיוחד מהביצוע שלו. הנושא הזה משקף את ההיסטוריה המסובכת של טראמפ עם הדת הנוצרית ופרסום עצמי דתי שנראה פעמים רבות מעוקר מן ההקשר.",
     "d": "Wed, 22 Apr 2026 18:00:32 GMT",
     "v": 0,
     "l": [
@@ -597,7 +578,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "New robot tech lets machines peel, slice and handle odd-shaped objects easily\n\nResearchers have unveiled a new method that lets robots handle irregular, curved objects with far...",
+    "t": "טכנולוגיית רובוט חדשה: מכונות שיודעות לקלף, לחתוך ולתפוס חפצים בצורות משונות\n\nחוקרים חשפו שיטה מהפכנית שמאפשרת לרובוטים להתמודד עם חפצים לא סדירים וקעורים בהרבה יותר קלות מבעבר. הטכנולוגיה החדשה הזו יכולה לשנות את עולם האוטומציה במטבח וביצור, כי עד עכשיו רובוטים התקשו עם משימות כמו קילוף ירקות או חתיכות בצורות לא אחידות. זה עוד שלב בכיוון שרובוטים יוכלו לעזור בעבודות מורכבות שדרשו עד כה ידיים אנושיות מתורגלות. (מקור: Interesting Engineering)",
     "d": "Wed, 22 Apr 2026 18:00:00 +0000",
     "v": 0,
     "l": [
@@ -612,8 +593,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.youtube.com/embed/D9Br0hD6jUw",
@@ -621,7 +601,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 26,
-    "t": "Coyote vs. Acme is finally getting released—with a killer trailer\n\nWhat was Warner Bros. even thinking, shelving this film for so many years?",
+    "t": "קויוט נגד אקמה סוף סוף משוחרר - עם טריילר שהורג\n\nWhat was Warner Bros. even thinking, shelving this film for so many years?",
     "d": "Wed, 22 Apr 2026 17:55:09 +0000",
     "v": 0,
     "l": [
@@ -762,7 +742,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 32,
-    "t": "Google unveils two new TPUs designed for the \"agentic era\"\n\nGoogle's new generation of Tensor AI chips is actually two chips, one for inference and one for training.",
+    "t": "גוגל חושפת שני TPU חדשים שמעוצבים לעידן של ה-AI agents\n\nבחודשים האחרונים תשמעו הרבה על AI agents - מערכות שלא צריכות לישב וחכות להנחיות. גוגל מכינה את הבסיס לתחרות הזאת עם דור חדש של שבבי Tensor, ובפעם הזאת למדו שיש לעשות דברים יותר חכמים: TPU אחד מכוונן לאימון נתונים וTPU שני שמתמחה בהסקות מהירות. זה כמו שגוגל אומרת שכבר לא כדאי להרוץ הכל על אותו השבב.",
     "d": "Wed, 22 Apr 2026 17:10:32 +0000",
     "v": 0,
     "l": [
@@ -775,12 +755,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
       "news",
-      "model",
       "agents"
     ],
     "imp": "low",
@@ -2831,7 +2808,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 118,
-    "t": "Workspace agents\n\nLearn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+    "t": "סוכנים Workspace\n\nOpenAI משיקה את Workspace agents - כלים חכמים שמאפשרים לכם לאתומט משימות חוזרות ולחבר בין כל הכלים שלכם בצורה חכמה. זה בעצם ChatGPT שעובד בשבילכם 24/7, מחבר אפליקציות, מעביר מידע בין מערכות ומחסוך לצוות הרבה שעות של עבודה חזרתית וממוללת.",
     "d": "Wed, 22 Apr 2026 10:00:00 GMT",
     "v": 0,
     "l": [
