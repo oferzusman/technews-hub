@@ -1,15 +1,15 @@
 {
-  "total": 4934,
+  "total": 4979,
   "translated": 4934,
-  "untranslated": 0,
-  "today": 12,
-  "week": 905,
+  "untranslated": 45,
+  "today": 57,
+  "week": 950,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 524,
+      "total": 566,
       "translated": 524,
-      "lastDate": "2026-04-21T06:50:13.000Z"
+      "lastDate": "2026-04-22T03:51:16.000Z"
     },
     {
       "name": "Pypi.org",
@@ -91,9 +91,9 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 93,
+      "total": 95,
       "translated": 93,
-      "lastDate": "Wed, 22 Apr 2026 05:00:10 GMT"
+      "lastDate": "Wed, 22 Apr 2026 08:58:06 GMT"
     },
     {
       "name": "The Times of India",
@@ -114,16 +114,16 @@
       "lastDate": "Wed, 15 Apr 2026 12:10:00 +0000"
     },
     {
+      "name": "MarkTechPost",
+      "total": 74,
+      "translated": 73,
+      "lastDate": "Wed, 22 Apr 2026 07:43:10 +0000"
+    },
+    {
       "name": "The Verge AI",
       "total": 73,
       "translated": 73,
       "lastDate": "2026-04-21T22:45:37.000Z"
-    },
-    {
-      "name": "MarkTechPost",
-      "total": 73,
-      "translated": 73,
-      "lastDate": "Wed, 22 Apr 2026 04:38:14 +0000"
     },
     {
       "name": "Github.com",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-22T08:56:58.821Z"
+  "generatedAt": "2026-04-22T10:20:03.336Z"
 }
