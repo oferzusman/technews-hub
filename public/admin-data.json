@@ -1,9 +1,9 @@
 {
-  "total": 4922,
+  "total": 4934,
   "translated": 4922,
-  "untranslated": 0,
-  "today": 0,
-  "week": 893,
+  "untranslated": 12,
+  "today": 12,
+  "week": 905,
   "sources": [
     {
       "name": "Product Hunt",
@@ -37,7 +37,7 @@
     },
     {
       "name": "Futurism",
-      "total": 219,
+      "total": 220,
       "translated": 219,
       "lastDate": "Wed, 15 Apr 2026 16:15:26 -0400"
     },
@@ -49,9 +49,9 @@
     },
     {
       "name": "New Atlas",
-      "total": 179,
+      "total": 180,
       "translated": 179,
-      "lastDate": "Wed, 15 Apr 2026 23:03:00 GMT"
+      "lastDate": "Wed, 22 Apr 2026 04:33:20 GMT"
     },
     {
       "name": "CNBC Tech",
@@ -61,7 +61,7 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 132,
+      "total": 133,
       "translated": 132,
       "lastDate": "Wed, 15 Apr 2026 19:28:36 +0000"
     },
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Register",
-      "total": 121,
+      "total": 125,
       "translated": 121,
-      "lastDate": "2026-04-21T22:06:58.000Z"
+      "lastDate": "2026-04-22T04:32:11.000Z"
     },
     {
       "name": "Onefootball.com",
@@ -91,9 +91,9 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 91,
+      "total": 93,
       "translated": 91,
-      "lastDate": "Wed, 15 Apr 2026 21:00:47 GMT"
+      "lastDate": "Wed, 22 Apr 2026 05:00:10 GMT"
     },
     {
       "name": "The Times of India",
@@ -121,9 +121,9 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 70,
+      "total": 73,
       "translated": 70,
-      "lastDate": "Wed, 15 Apr 2026 17:21:06 +0000"
+      "lastDate": "Wed, 22 Apr 2026 04:38:14 +0000"
     },
     {
       "name": "Github.com",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-22T05:08:12.956Z"
+  "generatedAt": "2026-04-22T07:05:06.479Z"
 }
