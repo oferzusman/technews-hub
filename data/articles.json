@@ -105399,6 +105399,924 @@
       "priority": "batch",
       "fetchedAt": "2026-04-23T14:14:30.324Z",
       "created_at": "2026-04-23T14:14:30.324Z"
+    },
+    {
+      "id": 5219,
+      "source": "TechCrunch AI",
+      "title_en": "Era raises $11M to build a software platform for AI gadgets",
+      "description_en": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
+      "image_url": null,
+      "pub_date": "Thu, 23 Apr 2026 16:00:00 +0000",
+      "author": "Ivan Mehta",
+      "categories": [
+        "AI",
+        "Hardware",
+        "abstract ventures",
+        "AI gadgets",
+        "BetaWorks",
+        "hardware",
+        "Humane"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-23T17:48:53.644Z",
+      "created_at": "2026-04-23T17:48:53.644Z"
+    },
+    {
+      "id": 5220,
+      "source": "Ars Technica",
+      "title_en": "BMW bumps the 7 Series for 2027, adds all-new battery",
+      "description_en": "The 2027 7 Series is available as an EV, with an inline-six, or an inline-six PHEV.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/cars/2026/04/bmw-bumps-the-7-series-for-2027-adds-all-new-battery/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/DSC_0148-1152x648.jpeg",
+      "pub_date": "Thu, 23 Apr 2026 15:01:11 +0000",
+      "author": "\n                    Stephen Edelstein\n                ",
+      "categories": [
+        "Cars",
+        "BMW 7 Series",
+        "BMW i7"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-23T17:48:53.853Z",
+      "created_at": "2026-04-23T17:48:53.853Z"
+    },
+    {
+      "id": 5221,
+      "source": "Ars Technica",
+      "title_en": "Greenhouse gases from data center boom could outpace entire nations",
+      "description_en": "Plants from OpenAI, Meta, xAI, and Microsoft could emit more than 129M tons annually.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/04/greenhouse-gases-from-data-center-boom-could-outpace-entire-nations/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/microsoft_datacenter_2025-1152x648.jpg",
+      "pub_date": "Thu, 23 Apr 2026 14:51:16 +0000",
+      "author": "\n                    Molly Taft, wired.com\n                ",
+      "categories": [
+        "AI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-23T17:48:53.853Z",
+      "created_at": "2026-04-23T17:48:53.853Z"
+    },
+    {
+      "id": 5222,
+      "source": "The Decoder",
+      "title_en": "Google's open-source DESIGN.md gives AI agents a prompt-ready blueprint for brand-consistent design",
+      "description_en": "Google is open-sourcing the agent prompt behind its AI design tool Stitch. The DESIGN.md format is built to teach AI agents how to follow brand rules.\nThe article Google's open-source DESIGN.md gives AI agents a prompt-ready blueprint for brand-consistent design appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/googles-open-source-design-md-gives-ai-agents-a-prompt-ready-blueprint-for-brand-consistent-design/",
+      "image_url": null,
+      "pub_date": "Thu, 23 Apr 2026 17:20:06 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Google"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-23T17:48:54.951Z",
+      "created_at": "2026-04-23T17:48:54.951Z"
+    },
+    {
+      "id": 5223,
+      "source": "The Decoder",
+      "title_en": "OpenAI's new Trusted Access program gives Microsoft its most capable models for cyber defense",
+      "description_en": "OpenAI and Microsoft are joining forces to shore up cybersecurity as AI models become a bigger threat. The debate started with Anthropic's Mythos model, which is designed to hunt down security flaws on its own.\nThe article OpenAI's new Trusted Access program gives Microsoft its most capable models for cyber defense appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openais-new-trusted-access-program-gives-microsoft-its-most-capable-models-for-cyber-defense/",
+      "image_url": null,
+      "pub_date": "Thu, 23 Apr 2026 16:09:29 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Anthropic",
+        "Microsoft",
+        "Mythos",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-23T17:48:54.951Z",
+      "created_at": "2026-04-23T17:48:54.951Z"
+    },
+    {
+      "id": 5224,
+      "source": "Google AI Blog",
+      "title_en": "Here’s how our TPUs power increasingly demanding AI workloads.",
+      "description_en": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp",
+      "pub_date": "Thu, 23 Apr 2026 12:00:00 +0000",
+      "author": null,
+      "categories": [
+        "Google Cloud",
+        "AI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-23T17:48:55.362Z",
+      "created_at": "2026-04-23T17:48:55.362Z"
+    },
+    {
+      "id": 5225,
+      "source": "New Atlas",
+      "title_en": "Fiery multifunctional flashlight packs its own arc ignition lighter",
+      "description_en": "In my irascible opinion, there are never enough pockets in pants or backpacks for all the gadgets I need to tote around. With the arc-lighter-equipped Luxo multi-function flashlight however, that’s one less pocket taken up.\nContinue Reading\nCategory: Gear, Outdoors\nTags: Flashlights, firestarter, Kickstarter, xxKickbooster",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/outdoor-gear/luxo-flashlight-arc-ignition-lighter/",
+      "image_url": null,
+      "pub_date": "Thu, 23 Apr 2026 17:30:00 GMT",
+      "author": "Shirl Leigh",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-23T17:48:57.303Z",
+      "created_at": "2026-04-23T17:48:57.303Z"
+    },
+    {
+      "id": 5226,
+      "source": "New Atlas",
+      "title_en": "AI neckband lets you talk without saying a word",
+      "description_en": "Scientists at Pohang University of Science and Technology (POSTECH), in South Korea, have built a silicone neckband that reads the tiny movements of your neck as you mouth words – and turns them into speech in your own voice, transmitted to whoever is listening.\nContinue Reading\nCategory: Wearables, Consumer Tech, Technology\nTags: Postech, Collar, Speech, Artificial Intelligence, Voice",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/wearables/postech-ai-neckband-words-speech/",
+      "image_url": null,
+      "pub_date": "Thu, 23 Apr 2026 15:57:00 GMT",
+      "author": "Omar Kardoudi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-23T17:48:57.303Z",
+      "created_at": "2026-04-23T17:48:57.303Z"
+    },
+    {
+      "id": 5227,
+      "source": "The Register",
+      "title_en": "Google explains why its all-in-one AI stack embraces competitors",
+      "description_en": "'Differentiated, but open' Google Cloud Next  Google Cloud’s Andi Gutmans said that the company holds a structural advantage over its largest rivals in the race to win value from AI agents in the enterprise, arguing that no competitor currently combines cloud computing infrastructure, frontier AI models, and a data platform under one roof.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/google_cloud_next_interview_ai_stack/",
+      "image_url": null,
+      "pub_date": "2026-04-23T17:13:36.000Z",
+      "author": "O'Ryan Johnson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-23T17:48:57.453Z",
+      "created_at": "2026-04-23T17:48:57.453Z"
+    },
+    {
+      "id": 5228,
+      "source": "The Register",
+      "title_en": "Microsoft gives your Word documents an AI co-author you didn’t ask for",
+      "description_en": "Also rolls out agentic Copilot in Excel and PowerPoint, letting 21st century Clippy lend a... hand Microsoft is giving Copilot the power to stop suggesting edits and start making them.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/microsoft_gives_your_word_documents/",
+      "image_url": null,
+      "pub_date": "2026-04-23T15:55:14.000Z",
+      "author": "Carly Page",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-23T17:48:57.453Z",
+      "created_at": "2026-04-23T17:48:57.453Z"
+    },
+    {
+      "id": 5229,
+      "source": "The Register",
+      "title_en": "Datadog digs down into GPU efficiency as AI costs soar",
+      "description_en": "Down to you to work out the value Datadog has added GPU monitoring to its observability stack, giving AI-hungry organizations more insight into exactly what's happening on their most expensive silicon.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/datadog_digs_down_into_gpu/",
+      "image_url": null,
+      "pub_date": "2026-04-23T15:33:40.000Z",
+      "author": "Joe Fay",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-23T17:48:57.453Z",
+      "created_at": "2026-04-23T17:48:57.453Z"
+    },
+    {
+      "id": 5230,
+      "source": "The Register",
+      "title_en": "Stop measuring AI training costs in GPU hours",
+      "description_en": "Why idle time, checkpointing, and cluster failures are quietly inflating your training budget Partner Content  The cost of training today’s large-scale foundation models is often reduced to a single number: the price of a GPU hour. It's a convenient metric. It is also the wrong one. When training runs can cost tens or even hundreds of millions of dollars, operating AI at scale requires a deeper understanding of the underlying economics.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/stop_measuring_ai_training/",
+      "image_url": null,
+      "pub_date": "2026-04-23T15:00:12.000Z",
+      "author": "Aleksandr Patrushev, head of product management for ML/AI, Nebius",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-23T17:48:57.453Z",
+      "created_at": "2026-04-23T17:48:57.453Z"
+    },
+    {
+      "id": 5231,
+      "source": "The Register",
+      "title_en": "Everpure 'takes the hit' as AI-fueled supply crunch drives prices up 70%",
+      "description_en": "Storage vendor predicts current crunch will outlast COVID disruptions The supply crunch gripping the storage market has pushed Everpure – the artist formerly known as Pure Storage – to reassure customers it won't make things worse.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/everpure_letter_covid/",
+      "image_url": null,
+      "pub_date": "2026-04-23T14:57:19.000Z",
+      "author": "Carly Page",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-23T17:48:57.453Z",
+      "created_at": "2026-04-23T17:48:57.453Z"
+    },
+    {
+      "id": 5232,
+      "source": "The Guardian AI",
+      "title_en": "The Guardian view on Anthropic’s Claude Mythos: when AI finds every flaw, who controls the internet? | Editorial",
+      "description_en": "Tech can scale cyber-attacks and defences alike, raising questions about private power, public risk and the future of a shared internet\nAnthropic announced its latest AI model, Claude Mythos, this month but said it would not be released publicly, because it turns computers into crime scenes. The company claimed that it could find previously unknown “zero-day” flaws, exploit them and, in principle, link these weaknesses in order to take over major operating systems and web browsers. Mythos did so",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/23/the-guardian-view-on-anthropics-claude-mythos-when-ai-finds-every-flaw-who-controls-the-internet",
+      "image_url": "https://i.guim.co.uk/img/media/37ad6e24ed39b8e3f672ad0c6451cd1ffbfd9e09/509_0_5031_4024/master/5031.jpg?width=140&quality=85&auto=format&fit=max&s=7d6310c0dbda16ba7096c64a5a9c84b5",
+      "pub_date": "Thu, 23 Apr 2026 17:27:59 GMT",
+      "author": "Editorial",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Cybercrime",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/cybercrime"
+          }
+        },
+        {
+          "_": "Internet",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/internet"
+          }
+        },
+        {
+          "_": "Silicon Valley",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/silicon-valley"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Banking",
+          "$": {
+            "domain": "https://www.theguardian.com/business/banking"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Firefox",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/firefox"
+          }
+        },
+        {
+          "_": "Hacking",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/hacking"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Europe",
+          "$": {
+            "domain": "https://www.theguardian.com/world/europe-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-23T17:48:57.477Z",
+      "created_at": "2026-04-23T17:48:57.477Z"
+    },
+    {
+      "id": 5233,
+      "source": "The Guardian AI",
+      "title_en": "Ben Jennings on the Met’s interest in using Palantir AI technology – cartoon",
+      "description_en": "Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/apr/23/ben-jennings-the-met-interest-buying-palantir-ai-cartoon",
+      "image_url": "https://i.guim.co.uk/img/media/565858769bb73c844362bc6105277e2efec41fe8/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7e73b18d104101ef193b20a912177204",
+      "pub_date": "Thu, 23 Apr 2026 17:22:45 GMT",
+      "author": "Ben Jennings",
+      "categories": [
+        {
+          "_": "Metropolitan police",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/metropolitan-police"
+          }
+        },
+        {
+          "_": "Palantir",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/palantir"
+          }
+        },
+        {
+          "_": "Police",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/police"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "London",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/london"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-23T17:48:57.477Z",
+      "created_at": "2026-04-23T17:48:57.477Z"
+    },
+    {
+      "id": 5234,
+      "source": "AI News",
+      "title_en": "The billion-dollar startup with a different idea for AI",
+      "description_en": "A billion dollars in startup funding for a company that employs 12 people is an indication that investors still have faith in AI. But the founder of the startup in question – AMI Labs’ Yann LeCun – believes that the breed of technology we currently term AI (large language models) is not the way through […]\nThe post The billion-dollar startup with a different idea for AI appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
+      "image_url": null,
+      "pub_date": "Thu, 23 Apr 2026 12:30:00 +0000",
+      "author": "Joe Green",
+      "categories": [
+        "How It Works",
+        "AMI Labs",
+        "meta",
+        "small models",
+        "startups"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-23T17:48:58.066Z",
+      "created_at": "2026-04-23T17:48:58.066Z"
+    },
+    {
+      "id": 5235,
+      "source": "Interesting Engineering",
+      "title_en": "AI War? White House accuses China of industrial-scale theft of US AI frontier models",
+      "description_en": "The White House on Thursday accused China-based actors of targeting U.S. artificial intelligence labs in...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/ai-war-white-house-accuses-china-of-industrial-scale-theft-of-us-ai-frontier-models",
+      "image_url": null,
+      "pub_date": "Thu, 23 Apr 2026 17:33:04 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-23T17:48:58.110Z",
+      "created_at": "2026-04-23T17:48:58.110Z"
+    },
+    {
+      "id": 5236,
+      "source": "Interesting Engineering",
+      "title_en": "New solar panels that imitate roof tiles can retain around 95% of their power",
+      "description_en": "German researchers have developed a technique for applying realistic designs to photovoltaic (PV) modules that...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/colored-solar-panels-tiles-roof",
+      "image_url": "https://www.youtube.com/embed/XMdeEpMCalk",
+      "pub_date": "Thu, 23 Apr 2026 17:16:05 +0000",
+      "author": "Georgina Jedikovska",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-23T17:48:58.110Z",
+      "created_at": "2026-04-23T17:48:58.110Z"
+    },
+    {
+      "id": 5237,
+      "source": "Interesting Engineering",
+      "title_en": "11th Moon mineral discovered in China’s first lunar meteorite sample study",
+      "description_en": "Scientists in China have discovered and identified the 11th new lunar mineral, according to findings...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/space/11th-moon-mineral-discovered-china-sample",
+      "image_url": null,
+      "pub_date": "Thu, 23 Apr 2026 16:50:38 +0000",
+      "author": "Chris Young",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-23T17:48:58.110Z",
+      "created_at": "2026-04-23T17:48:58.110Z"
+    },
+    {
+      "id": 5238,
+      "source": "Interesting Engineering",
+      "title_en": "US deploys Ukraine’s air defense system in Saudi against suicide drones",
+      "description_en": "The U.S. military has deployed Ukraine’s advanced air defense technology at a strategic base in...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-defense-system-saudi-base",
+      "image_url": null,
+      "pub_date": "Thu, 23 Apr 2026 16:30:35 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-23T17:48:58.110Z",
+      "created_at": "2026-04-23T17:48:58.110Z"
+    },
+    {
+      "id": 5239,
+      "source": "Interesting Engineering",
+      "title_en": "China claims 6,000x more compute power than benchmarks, 1,882 quintillion calculations per sec",
+      "description_en": "China’s artificial intelligence (AI) ambitions may be far larger than previously understood. Reports suggest that...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/china-computing-power-massive-growth",
+      "image_url": null,
+      "pub_date": "Thu, 23 Apr 2026 14:43:51 +0000",
+      "author": "Prabhat Ranjan Mishra",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-23T17:48:58.110Z",
+      "created_at": "2026-04-23T17:48:58.110Z"
+    },
+    {
+      "id": 5240,
+      "source": "Interesting Engineering",
+      "title_en": "China teases nuclear-powered aircraft carrier in new video",
+      "description_en": "A video released by Chinese state media appears to show a nuclear-powered aircraft carrier, suggesting...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/china-planning-nuclear-powered-aircraft-carrier",
+      "image_url": null,
+      "pub_date": "Thu, 23 Apr 2026 13:59:07 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-23T17:48:58.110Z",
+      "created_at": "2026-04-23T17:48:58.110Z"
+    },
+    {
+      "id": 5241,
+      "source": "Interesting Engineering",
+      "title_en": "World’s first offshore ocean heat energy platform installed to replace 25 GW fossil power",
+      "description_en": "A UK clean energy firm, Global OTEC, on Wednesday announced it has completed the offshore...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/first-ocean-heat-energy-platform-installed-offshore",
+      "image_url": null,
+      "pub_date": "Thu, 23 Apr 2026 13:31:41 +0000",
+      "author": "Sujita Sinha",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-23T17:48:58.110Z",
+      "created_at": "2026-04-23T17:48:58.110Z"
+    },
+    {
+      "id": 5242,
+      "source": "Interesting Engineering",
+      "title_en": "World’s first battery-methanol harbor tug with 6 MWh battery finishes sea trials",
+      "description_en": "The most powerful electric tugboat in the world has successfully completed sea trials and is...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/worlds-most-powerful-electric-tugboat-sea-trials",
+      "image_url": "https://www.youtube.com/embed/WTZLMMDWToc",
+      "pub_date": "Thu, 23 Apr 2026 13:18:36 +0000",
+      "author": "Georgina Jedikovska",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-23T17:48:58.110Z",
+      "created_at": "2026-04-23T17:48:58.110Z"
+    },
+    {
+      "id": 5243,
+      "source": "Interesting Engineering",
+      "title_en": "SR-1 Freedom: NASA plans to launch its first nuclear-powered Mars spacecraft in 2028",
+      "description_en": "Following a December 2025 executive order prioritizing “American space superiority,” NASA is advancing nuclear propulsion...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/space/nasa-nuclear-powered-mars-mission",
+      "image_url": "https://www.youtube.com/embed/g0AwtpgD-pE",
+      "pub_date": "Thu, 23 Apr 2026 13:09:14 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-23T17:48:58.110Z",
+      "created_at": "2026-04-23T17:48:58.110Z"
+    },
+    {
+      "id": 5244,
+      "source": "Interesting Engineering",
+      "title_en": "US: Scientists catch ‘lightning in a bottle’ to convert methane into clean fuel",
+      "description_en": "Researchers at Northwestern University in the US have successfully produced methanol from methane gas using...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/lightning-bottle-turn-methane-clean-fuel",
+      "image_url": "https://www.youtube.com/embed/uL91aouDTz0",
+      "pub_date": "Thu, 23 Apr 2026 11:37:35 +0000",
+      "author": "Ameya Paleja",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-23T17:48:58.110Z",
+      "created_at": "2026-04-23T17:48:58.110Z"
+    },
+    {
+      "id": 5245,
+      "source": "Futurism",
+      "title_en": "FBI Investigating Series of Deaths Among Top Scientists With Very Specific Specialties",
+      "description_en": "Congress is looking for a \"possible sinister connection between a string of mysterious deaths and disappearances.\"\nThe post FBI Investigating Series of Deaths Among Top Scientists With Very Specific Specialties appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/space/fbi-investigating-deaths-disappearances-top-scientists",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/fbi-investigating-deaths-disappearances-top-scientists.jpg?quality=85",
+      "pub_date": "Thu, 23 Apr 2026 12:59:26 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Space",
+          "$": {
+            "domain": "https://futurism.com/category/space"
+          }
+        },
+        {
+          "_": "Off-World",
+          "$": {
+            "domain": "https://futurism.com/category/off-world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-23T17:48:58.381Z",
+      "created_at": "2026-04-23T17:48:58.381Z"
+    },
+    {
+      "id": 5246,
+      "source": "Futurism",
+      "title_en": "SpaceX’s IPO Plan Will Give Elon Musk Ironclad Rule Over the Resulting Empire",
+      "description_en": "With great power, etc.\nThe post SpaceX’s IPO Plan Will Give Elon Musk Ironclad Rule Over the Resulting Empire appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/space/spacex-ipo-elon-musk-stocks",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/spacex-ipo-elon-musk-stocks.jpg?quality=85",
+      "pub_date": "Thu, 23 Apr 2026 12:11:07 -0400",
+      "author": "Joe Wilkins",
+      "categories": [
+        {
+          "_": "Space",
+          "$": {
+            "domain": "https://futurism.com/category/space"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://futurism.com/category/elon-musk"
+          }
+        },
+        {
+          "_": "Finance",
+          "$": {
+            "domain": "https://futurism.com/category/finance"
+          }
+        },
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        },
+        {
+          "_": "SpaceX",
+          "$": {
+            "domain": "https://futurism.com/category/spacex"
+          }
+        },
+        {
+          "_": "The Industrialists",
+          "$": {
+            "domain": "https://futurism.com/category/the-industrialists"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-23T17:48:58.381Z",
+      "created_at": "2026-04-23T17:48:58.381Z"
+    },
+    {
+      "id": 5247,
+      "source": "Futurism",
+      "title_en": "ChatGPT’s Tool for Ordering Starbucks Is So Staggeringly Bad That It’s Breaking Containment",
+      "description_en": "Who is this for?\nThe post ChatGPT’s Tool for Ordering Starbucks Is So Staggeringly Bad That It’s Breaking Containment appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/chatgpt-starbucks-breaks-containment",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/chatgpt-starbucks-breaks-containment.jpg?quality=85",
+      "pub_date": "Thu, 23 Apr 2026 11:02:30 -0400",
+      "author": "Frank Landymore",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://futurism.com/category/openai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-23T17:48:58.381Z",
+      "created_at": "2026-04-23T17:48:58.381Z"
+    },
+    {
+      "id": 5248,
+      "source": "CNBC Tech",
+      "title_en": "Jim Cramer: Tesla is a buy after hearing what Elon Musk said on the earnings call",
+      "description_en": "CNBC's Jim Cramer said he \"would be a buyer of Tesla today\" after listening to Elon Musk on the earnings call.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/23/jim-cramer-tesla-is-a-buy-after-hearing-what-elon-musk-said-on-the-earnings-call.html",
+      "image_url": null,
+      "pub_date": "Thu, 23 Apr 2026 17:32:45 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-23T17:48:58.384Z",
+      "created_at": "2026-04-23T17:48:58.384Z"
+    },
+    {
+      "id": 5249,
+      "source": "CNBC Tech",
+      "title_en": "White House warns of 'industrial-scale' efforts in China to rip off U.S. AI tech",
+      "description_en": "The U.S. government has previously accused China of targeting American AI technology and intellectual property.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/23/trump-china-ai-technology.html",
+      "image_url": null,
+      "pub_date": "Thu, 23 Apr 2026 17:29:33 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-23T17:48:58.384Z",
+      "created_at": "2026-04-23T17:48:58.384Z"
+    },
+    {
+      "id": 5250,
+      "source": "CNBC Tech",
+      "title_en": "Software stocks plunge on ServiceNow, IBM results as AI fears escalate",
+      "description_en": "Shares of ServiceNow sank over 16%, dragging down other software names like Salesforce, Workday and Oracle with it.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/23/software-stocks-plunge-on-servicenow-ibm-results-ai-fears-escalate.html",
+      "image_url": null,
+      "pub_date": "Thu, 23 Apr 2026 17:04:24 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-23T17:48:58.384Z",
+      "created_at": "2026-04-23T17:48:58.384Z"
+    },
+    {
+      "id": 5251,
+      "source": "CNBC Tech",
+      "title_en": "Microsoft plans first-ever voluntary employee buyout for up to 7% of U.S. workforce",
+      "description_en": "Microsoft's inaugural voluntary buyouts will be open to workers at the senior director level and below whose years of employment and age add up to 70 or more.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html",
+      "image_url": null,
+      "pub_date": "Thu, 23 Apr 2026 16:36:03 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-23T17:48:58.384Z",
+      "created_at": "2026-04-23T17:48:58.384Z"
+    },
+    {
+      "id": 5252,
+      "source": "CNBC Tech",
+      "title_en": "Tesla shares fall after results. But this market speculation may keep the stock afloat for a while",
+      "description_en": "The chatter is about a potential merger with SpaceX, Elon Musk's breakout rocket company that is set to go public later this year at a valuation approaching $2 trillion.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/23/tesla-shares-fall-after-results-but-this-market-speculation-may-keep-the-stock-afloat-for-a-while.html",
+      "image_url": null,
+      "pub_date": "Thu, 23 Apr 2026 15:07:05 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-23T17:48:58.384Z",
+      "created_at": "2026-04-23T17:48:58.384Z"
+    },
+    {
+      "id": 5253,
+      "source": "Tom's Hardware",
+      "title_en": "First Intel Wildcat Lake laptop spotted in the wild, geared to compete with MacBook Neo — features an aluminum chassis with 11W fanless mode",
+      "description_en": "Intel's Wildcat Lake family was launched recently, but no devices featuring the CPUs have actually shown up yet. Analyst Vaidyanathan S shared pictures of a real laptop running the new 'Core Series 3' silicon, but it's just an Intel reference machine.  It also shows that Wildcat Lake has a 17W PL1 and an 11W fanless mode, along with a 22W PL1 Max and a 35W PL2 mode.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/first-intel-wildcat-lake-laptop-spotted-in-the-wild-geared-to-compete-with-macbook-neo-features-an-aluminum-chassis-with-11w-fanless-mode",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/TxzciaVarc4gnHYC5t9dy-1280-80.png",
+      "pub_date": "Thu, 23 Apr 2026 16:43:06 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-23T17:48:58.474Z",
+      "created_at": "2026-04-23T17:48:58.474Z"
+    },
+    {
+      "id": 5254,
+      "source": "Tom's Hardware",
+      "title_en": "Intel shutters open-source evangelism program and archives key community projects — closures point to significant shift in open-source leadership",
+      "description_en": "The latest round of GitHub closures underscores a broader pullback in Intel's open-source footprint amid ongoing restructuring.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/intel-shutters-open-source-evangelism-program-and-archives-key-community-projects-closures-point-to-significant-shift-in-open-source-leadership",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/3qAuWorrwTksrwq4GhoeEL-1280-80.png",
+      "pub_date": "Thu, 23 Apr 2026 15:25:32 +0000",
+      "author": " Zak Killian ",
+      "categories": [
+        "Software"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-23T17:48:58.475Z",
+      "created_at": "2026-04-23T17:48:58.475Z"
+    },
+    {
+      "id": 5255,
+      "source": "Tom's Hardware",
+      "title_en": "Crypto scam takes advantage of Strait of Hormuz crisis by taking fake payments, leading to two ships being fired upon — two vessels reportedly fell victim and paid fake 'Iranian authorities'",
+      "description_en": "Two vessels waiting to transit the Strait of Hormuz reportedly fell victim to scammers posing as Iranian authorities and asking for transit fee payments in crypto.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/crypto-scam-takes-advantage-of-strait-of-hormuz-crisis-fake-iranian-authorities-take-payments-leading-to-two-ships-being-fired-upon-two-vessels-reportedly-fall-victim-and-were-fired-upon-by-iranians-despite-payment",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/i5qRY6okF8vT8fuXXmgptW-1280-80.jpg",
+      "pub_date": "Thu, 23 Apr 2026 15:24:17 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Cryptocurrency",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-23T17:48:58.475Z",
+      "created_at": "2026-04-23T17:48:58.475Z"
+    },
+    {
+      "id": 5256,
+      "source": "Tom's Hardware",
+      "title_en": "Anthropic surpasses biggest rival OpenAI in secondary market valuation — surges to $1 trillion amid frantic investor interest",
+      "description_en": "Anthropic’s secondary market valuation has reportedly surged to $1 trillion, surpassing OpenAI’s $880 billion, driven by intense investor demand for AI exposure, and highlighting speculative pricing in secondary markets.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-surpasses-biggest-rival-openai-in-secondary-market-valuation-surges-to-usd1-trillion-amid-frantic-investor-interest",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ScT7C9WsuqruarWf3kSRRG-1280-80.jpg",
+      "pub_date": "Thu, 23 Apr 2026 15:11:30 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-23T17:48:58.475Z",
+      "created_at": "2026-04-23T17:48:58.475Z"
+    },
+    {
+      "id": 5257,
+      "source": "Tom's Hardware",
+      "title_en": "SpaceX says it is going to begin manufacturing GPUs — $1.75 trillion IPO listing reportedly includes in-house GPU production",
+      "description_en": "Elon Musk's SpaceX set to produce 'own GPUs' at its own multi-billion fab as the company warns that it may be unable to purchase all the silicon it needs to meet its goals.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-says-it-is-going-to-begin-manufacturing-gpus-usd1-75-trillion-ipo-listing-reportedly-includes-in-house-gpu-production",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/voDLanHmcp7is6VSiU2Qea-1280-80.png",
+      "pub_date": "Thu, 23 Apr 2026 15:00:10 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-23T17:48:58.475Z",
+      "created_at": "2026-04-23T17:48:58.475Z"
+    },
+    {
+      "id": 5258,
+      "source": "Tom's Hardware",
+      "title_en": "UK spy agency releases malware-blocking gadget for HDMI and DisplayPort cables — SilentGlass blocks malicious traffic traveling between display and computer",
+      "description_en": "The NCSC, a part of the British GCHQ, has deployed this protective gadget throughout various government estates and is now making it publicly available through Goldilock Labs.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/uk-spy-agency-releases-malware-blocking-gadget-for-hdmi-and-displayport-cables-silentglass-blocks-malicious-traffic-traveling-between-display-and-computer",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/CQ4CfTn7QLjSMf3oMbjYoX-1280-80.png",
+      "pub_date": "Thu, 23 Apr 2026 14:52:23 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Cybersecurity",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-23T17:48:58.475Z",
+      "created_at": "2026-04-23T17:48:58.475Z"
     }
   ]
 }
