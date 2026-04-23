@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Claude survey: new capabilities beat speed as top AI benefit, but creatives feel left behind\n\nA survey of 81,000 Claude users shows that gaining new capabilities ranks slightly ahead of speed as the most common productivity benefit. Creatives, meanwhile, feel both limited and threatened by AI. The sample, however, has a significant bias.\nThe article Claude survey: new capabilities beat speed as top AI benefit, but creatives feel left behind appeared first on The Decoder.",
+    "t": "סקר Claude: יכולות חדשות מנצחות מהירות, אבל יוצרים מרגישים שנשארו בחוץ\n\nסקר ענק של 81,000 משתמשי Claude חושף שהקבלת יכולות חדשות היא למעשה התועלת המעשית הגדולה ביותר - קצת יותר משיפור המהירות. הבעיה הגדולה? יוצרים ואנשי דיזיין מרגישים איומים וחסומים מ-AI, וזה די משמעותי במהלך המרוץ של תחום הבינה מלאכותית. הסקר כן בעל בעיות הטיה מוגדרות, אבל הנתונים עדיין משקפים מגמה חשובה בדרך בה שונות קבוצות משתמשים חווים את עולם ה-AI.",
     "d": "Thu, 23 Apr 2026 14:10:54 +0000",
     "v": 0,
     "l": [
@@ -27,7 +27,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Certain Chatbots Vastly Worse For AI Psychosis, Study Finds\n\n\"There's no longer an excuse for releasing models that reinforce user delusions so readily.\"\nThe post Certain Chatbots Vastly Worse For AI Psychosis, Study Finds appeared first on Futurism.",
+    "t": "מחקר חדש: צ'אטבוטים מסוימים הרבה יותר מסוכנים לקשישויות פסיכוטיות של משתמשים\n\nמסתבר שחלק מה-AI צ'אטבוטים עושים עבודה끔찍ה בעניין של חיזוק אשליות ודלוזיות של משתמשים - וזה עולה בחקר חדש שזה לא עוד קאנטור להשחרר מודלים כאלו בלי בדיקה. על פי הממצאים, יש צורך דחוף ברגולציה טובה יותר בתחום כדי למנוע פגיעה נפשית של משתמשים שכבר נוטים לבעיות נפשיות.",
     "d": "Thu, 23 Apr 2026 10:03:06 -0400",
     "v": 0,
     "l": [
@@ -44,13 +44,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/certain-chatbots-worse-ai-psychosis-study.jpg?quality=85",
     "source": "Futurism"
   },
   {
     "id": 3,
-    "t": "THE PEOPLE DO NOT YEARN FOR AUTOMATION\n\nToday on Decoder, I want to lay out an idea that’s been banging around my head for weeks now as we’ve been reporting on AI and having conversations here on this show. I’ve been calling it software brain, and it’s a particular way of seeing the world that fits everything into algorithms, databases and loops — software.\nSoftware brain is powerful stuff. It’s a way of thinking that basically created our modern world. Marc Andreessen, the literal embodiment of software brain, called it in 2011 when ",
+    "t": "האנשים לא כמהים לאוטומציה\n\nהעורך של The Verge מציג קונספט שהוא קרא לו 'software brain' - דרך חשיבה שממירה הכל לאלגוריתמים וקוד, שיצרה למעשה את העולם המודרני שלנו. הרעיון הוא חזק והמשפיע, אבל יש כאן טיעון חשוב: בעוד שהטכנולוגיה מסוגלת לאוטומט כמעט הכל, בני אדם לא בהכרח רוצים את זה. זה נושא מהותי שעלינו להתעמת איתו בעידן ה-AI.",
     "d": "2026-04-23T14:00:00.000Z",
     "v": 0,
     "l": [
@@ -65,16 +65,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 4,
-    "t": "Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco\n\nStrictlyVC San Francisco is in just a week. Now’s the time to grab yourself a ticket. Join VCs and founders at Sentro Filipino Cultural Center on April 30.",
+    "t": "קחו כרטיס עכשיו: StrictlyVC הראשון של 2026 מתחיל בעוד שבוע בסן פרנסיסקו\n\nStrictlyVC San Francisco בא לכם בעוד שבוע בלבד, והזמן קצר להשיג כרטיס! מיזם VC וממייסדים יתכנסו במרכז התרבות הפיליפיני Sentro ב-30 באפריל לאירוע שלא תרצו להחמיץ.",
     "d": "Thu, 23 Apr 2026 14:00:00 +0000",
     "v": 0,
     "l": [
@@ -97,7 +96,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Another customer of troubled startup Delve suffered a big security incident\n\nTechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident.",
+    "t": "עוד חברה-לקוח של סטארטאפ בצרות - Delve, סבלה מפרץ אבטחה חמור\n\nהתברר ש-Delve, החברה שנתונה בקשיים, הייתה האחראית להסמכות הקומפליאנס וההסמכות אבטחה של Context AI - סטארטאפ בתחום AI agents שחשף לפני שבוע פרץ אבטחה משמעותי. זה כבר המקרה השני שבו לקוח של Delve מתמודד עם בעיות אבטחה חמורות, מה שמעלה שאלות על איכות השירותים של החברה.",
     "d": "Thu, 23 Apr 2026 14:00:00 +0000",
     "v": 0,
     "l": [
@@ -113,7 +112,6 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "security",
       "agents"
     ],
     "imp": "low",
@@ -122,7 +120,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "OpenAI releases open-source model that strips personal data from text\n\nOpenAI has released Privacy Filter, an open-source model designed to detect and redact personal data in text.\nThe article OpenAI releases open-source model that strips personal data from text appeared first on The Decoder.",
+    "t": "OpenAI משחררת מודל קוד פתוח שמוחק נתונים אישיים מטקסטים\n\nOpenAI בחרה לשתף קהל עם כל העולם ופתחה את הקוד של Privacy Filter, כלי חדש שמסוגל לזהות ולמחוק נתונים רגישים ואישיים מתוך טקסטים. זה משהו שהרבה מאיתנו כבר חיכינו לו - פתרון שיעזור לנו להגן על הפרטיות שלנו כשאנחנו משתמשים בטקסטים שמכילים מידע שלא בא לנו להפיץ. התוצאה היא שחברות וגם משתמשים פרטיים יכולים עכשיו להשתמש בכלי הזה בחינם, ללא כל עלות נוסף.",
     "d": "Thu, 23 Apr 2026 13:53:13 +0000",
     "v": 0,
     "l": [
@@ -142,13 +140,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 7,
-    "t": "You’re about to feel the AI money squeeze\n\nEarlier this month, millions of OpenClaw users woke up to a sweeping mandate: The viral AI agent tool, which this year took the worldwide tech industry by storm, had been severely restricted by Anthropic. \nAnthropic, like other leading AI labs, was under immense pressure to lessen the strain on its systems and start turning a profit. So if the users wanted its Claude AI to power their popular agents, they'd have to start paying handsomely for the privilege. \n\"Our subscriptions weren't built for ",
+    "t": "עוד רגע אתם הולכים להרגיש את הלחץ הכלכלי של ה-AI\n\nאנתרופיק החליטה לתגבר את הכוחניות שלה בכיס - המיליונים של משתמשי OpenClaw התעוררו השבוע לחדשות לא כל כך טובות. הכלי ה-AI Agent שפרץ לאינטרנט השנה בגדול, כעת הדורש תשלום נכבד אם רוצים להשתמש ב-Claude להנעת הסוכנים שלהם. זה סימן חדש בעולם ה-AI: החברות הגדולות כבר לא יכולות לתת הכל בחינם - הגיע הזמן להתחיל להרוויח כסף ממש.",
     "d": "2026-04-23T13:45:00.000Z",
     "v": 0,
     "l": [
@@ -176,7 +174,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "Researchers warn US politics is repeating its ChatGPT mistake with world models\n\nThe next phase of AI development is moving beyond text and into the physical world. Researchers warn that US policymakers don't yet grasp the scale of what's coming, while China is already pulling ahead in robotics.\nThe article Researchers warn US politics is repeating its ChatGPT mistake with world models appeared first on The Decoder.",
+    "t": "חוקרים מזהירים: ארה\"ב חוזרת על הטעות של ChatGPT גם עם world models\n\nAI מתפתח מעבר לטקסט אל העולם הפיזי, ואנחנו עדים לתחרות אמיתית בין ארה\"ב וסין. חוקרים מזהירים שעיתונאים ותומכי מדיניות בארה\"ב עדיין לא תופסים את הסדר גודל של המהפכה הקרובה, בזמן שהסינים כבר קופצים קדימה בתחום הרובוטיקה. נראה שנהיית לנו קצת איחור בלקח - שוב.",
     "d": "Thu, 23 Apr 2026 13:33:58 +0000",
     "v": 0,
     "l": [
@@ -194,9 +192,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "robotics",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -204,7 +200,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "American farms have a new steward for their safety net, disaster programs... Palantir\n\nWins $300M deal over Salesforce, IBM because of 'integration with existing USDA systems,' among other things Palantir has won a $300 million contract from the US Department of Agriculture (USDA) to support the National Farm Security Action Plan (NFSAP) and modernize how USDA delivers services to America's farmers.…",
+    "t": "פלנטיר קיבלה חוזה ענק בשווי 300 מיליון דולר - כעת היא תנהל את מערכת הביטחון של החקלאות האמריקאית\n\nחברת הנתונים הענקית Palantir ניצחה את Salesforce ו-IBM בתחרות על חוזה ענק עם משרד החקלאות האמריקאית (USDA), בעיקר בגלל היכולת שלה להשתלב עם המערכות הקיימות. בעזרת הטכנולוגיה שלה, Palantir תעזור לחדש את הדרך בה ה-USDA מספק שירותים לחקלאים בארה\"ב תחת תוכנית הביטחון החקלאי הלאומית.",
     "d": "2026-04-23T13:26:10.000Z",
     "v": 0,
     "l": [
@@ -219,8 +215,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -228,7 +223,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Google says 75 percent of its new code is now written by AI\n\n75 percent of new code at Google is now generated by AI and then reviewed by human developers, the company says.\nThe article Google says 75 percent of its new code is now written by AI appeared first on The Decoder.",
+    "t": "גוגל חושפת: 75% מהקוד החדש שלה כתוב כעת על ידי AI\n\nבגוגל החליטו שאפשר להאמין לـ AI די הרבה - כרבע מהקוד החדש בחברה נוצר כבר ע\"י מודלים של בינה מלאכותית, וזה פשוט עובר ביקורת אחרונה מהמפתחים האנושיים. זה לא רק נתון מושך - זה משקף את המהפכה שקורה בעולם הפיתוח, כשמכונות כבר לא עוזרות רק בקטעים משעממים אלא בחלקים משמעותיים מהעבודה.",
     "d": "Thu, 23 Apr 2026 13:23:56 +0000",
     "v": 0,
     "l": [
@@ -241,12 +236,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -254,7 +246,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "Sony AI builds the first robot to reach expert level in a sport\n\nSony's table tennis robot \"Ace\" is the first robot to reach expert-level performance in a sport, according to the company.\nThe article Sony AI builds the first robot to reach expert level in a sport appeared first on The Decoder.",
+    "t": "סוני בנתה את הרובוט הראשון שהגיע לרמת מומחה בספורט\n\nסוני חשפה את \"Ace\", רובוט טניס שולחן שהצליח להגיע לרמת ביצועים של מומחה בספורט - זה הרובוט הראשון בעולם שמשיג כזה מדד. המכונה של סוני AI לא רק משחקת טניס שולחן אלא גם מסוגלת להשחק נגד שחקנים ברמות שונות ולהתאים את כושר המשחק שלה בהתאם. זו עוד הוכחה לכך שה-AI החדש לא מוגבל יותר לדסקטופים ושולחנות - הוא כבר על המשחק.",
     "d": "Thu, 23 Apr 2026 13:12:13 +0000",
     "v": 0,
     "l": [
@@ -269,8 +261,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -278,7 +269,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "AI galaxy hunters are adding to the global GPU crunch\n\nAstronomers are turning to GPUs to find needles in the galactic haystack.",
+    "t": "ציידי הגלקסיות בAI מגבירים את המחסור העולמי בGPU\n\nאסטרונומים מחפשים דרכים חדשות למצוא כוכבי לכת וגלקסיות בחלל הרחב, וגיבשו את הנשק החדש שלהם - GPUs חזקות. התוצאה? עוד יותר אנשים מתחרים על משאבי חישוב כבר כמעט מובטחים, וזה עולה לנו בחשמל בבנקים שלנו.\n\nמקור: TechCrunch AI",
     "d": "Thu, 23 Apr 2026 13:00:00 +0000",
     "v": 0,
     "l": [
@@ -304,7 +295,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "Hands On: Corsair’s Frame Configurator brings dozens of customization options (and rippling wood) to its 4000 Series PC cases\n\nCorsair’s 4000-Series cases and configurator offer up dozens of customization options, including unique wood and RGB front panels, three motherboard trays, and more.",
+    "t": "Corsair Frame Configurator: תיבות PC 4000 Series עם אפשרויות התאמה אישית בלתי מוגבלות (כולל עץ מתנדנד)\n\nקורסייר השיקה כלי מגניב שמאפשר לכם להתאים את תיבות ה-PC 4000 Series שלכם לחלוטין - מחזיתות עץ וRGB מדהימות ועד שלוש משטחי motherboard שונים. אם אתם מחפשים משהו ממש אישי וחגיגי למחשב הגיימינג שלכם, הזה בדיוק מה שהמעצבים של קורסייר עדכנו עבורכם. מקור: Tom's Hardware",
     "d": "Thu, 23 Apr 2026 13:00:00 +0000",
     "v": 0,
     "l": [
@@ -328,7 +319,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "AI now gobbling up power and management chips for servers\n\nBad news for multiple general server components as vendors switch to more lucrative gear The chip shortage is spreading to power and management controller silicon, threatening server shipments as vendors prioritize capacity for higher-margin AI server products.…",
+    "t": "AI \"לוקחת\" את כל שבבי הכוח וההנהלה של השרתים\n\nחדשות לא כל כך טובות לשרתים רגילים - עם המהפך ל-AI, יצרני הצ'יפים מעדיפים להעביר את הקיבול שלהם לשרתי AI שמרוויחים יותר כסף. התוצאה? מחסור חדש בשבבי ניהול וחשמל שעלול למצמץ משלוחי שרתים סטנדרטיים. זה כמו שכל אחד התחיל לרוץ אחרי ה-AI ואף לא זוכר שעדיין צריכים שרתים רגילים.",
     "d": "2026-04-23T12:59:13.000Z",
     "v": 0,
     "l": [
@@ -351,7 +342,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "Astronomers Create Entire Synthetic Universe “Indistinguishable” From Our Own\n\n\"It is exhilarating to see 'galaxies' come out of our computer that look indistinguishable from the real thing.\"\nThe post Astronomers Create Entire Synthetic Universe “Indistinguishable” From Our Own appeared first on Futurism.",
+    "t": "אסטרונומים יצרו יקום סינתטי שלם שלא ניתן להבדיל ממנו של שלנו\n\nמדענים הצליחו ליצור סימולציה של יקום שלם באמצעות חישובים עמוקים, והתוצאה כל כך מדויקת שגלקסיות מסודרות שנוצרו בחשמל נראות זהות לאלה האמיתיות. זה לא רק צבירת נתונים אקראיים - מדובר בהדמיית פיזיקה של יקום אמיתי, עם כל הגלקסיות, הכוכבים וההיווצרויות הקוסמיות שמצפים לראות. הפרויקט הזה פותח דלתות חדשות להבנת כיצד היקום שלנו התפתח והתמידאשתם.",
     "d": "Thu, 23 Apr 2026 08:51:03 -0400",
     "v": 0,
     "l": [
@@ -374,7 +365,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "Tesla earnings, the future of Spirit Airlines, WBD shareholder vote and more in Morning Squawk\n\nHere are five key things investors need to know to start the trading day.",
+    "t": "הרווחים של טסלה, עתיד Spirit Airlines, הצבעת מניות WBD ועוד בפתיח המסחר\n\nאם אתם משקיעים וחסרה לכם קפה בבוקר, פה יש לכם את 5 הדברים החשובים שצריך לדעת לפני שהבורסה נפתחת. מטסלה והרווחים שלה ועד לדרמה של Spirit Airlines וההצבעה החשובה ב-WBD, כל מה שצריך לעקוב עליו היום.",
     "d": "Thu, 23 Apr 2026 12:27:15 GMT",
     "v": 0,
     "l": [
@@ -397,7 +388,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "Extra-wide tiny house brings welcome space to nomad living\n\nDownsizing is always a challenge, but the Knoll tiny house makes the jump more manageable than most. Featuring a spacious layout with plenty of storage, the towable home would be a good fit for a couple or even a small family.\nContinue Reading\nCategory: Tiny Houses, Outdoors\nTags: Building and Construction, Tiny Footprint, House, Home, Micro-House",
+    "t": "בית קטן בעיצוב רחב מביא אוויר של מרחב לחיי נוודות\n\nהבית הקטן Knoll הוא פתרון חכם למי שחוצה בין צמצום דירה וקיום חיים בנדודים - הוא מיוחד בעיצובו העחוז שמכניס הרבה אחסון וחללים שימושיים למרות הגודל המצומצם. הבית הנייד הזה אידיאלי לזוג או משפחה קטנה שרוצה להיות במצב תנועה בלי להוותר על הנוחות של בית אמיתי. (מקור: New Atlas)",
     "d": "Thu, 23 Apr 2026 12:27:00 GMT",
     "v": 0,
     "l": [
@@ -420,7 +411,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "You can now run Linux on your ancient Windows 95 desktop with a new tool — very old Windows PCs, back to Intel 486, can cooperatively run very modern Linux kernels with WSL9x\n\nWSL9x enables users to run the most modern Linux kernels in Microsoft OSes as old as Windows 95.",
+    "t": "תוכנה חדשה מאפשרת הריצת Linux מודרני על Windows 95 ישן — אפילו מחשבים עתיקים עם Intel 486 יכולים להריץ kernels של Linux עדכניים דרך WSL9x\n\nWSL9x זה כלי מטורף שמאפשר להריץ את ה-Linux kernel הכי עדכני על גרסאות Windows שהיו בשימוש לפני שנים אור — כולל Windows 95 המקדוש. אם יש לכם מחשב עתיק שהוא אוסף אבק בפינה, אתם יכולים עכשיו להחיות אותו ולהריץ עליו תשתיות Linux מודרניות. Tom's Hardware",
     "d": "Thu, 23 Apr 2026 12:22:14 +0000",
     "v": 0,
     "l": [
@@ -433,12 +424,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/pFXNGh2pxfrZj9fQwcpoZ6-1280-80.jpg",
@@ -446,7 +434,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "NVIDIA and Google infrastructure cuts AI inference costs\n\nAt the Google Cloud Next conference, Google and NVIDIA outlined their hardware roadmap designed to address the cost of AI inference at scale. The companies detailed the new A5X bare-metal instances, which run on NVIDIA Vera Rubin NVL72 rack-scale systems. Through hardware and software codesign, this architecture aims to deliver up to ten times lower […]\nThe post NVIDIA and Google infrastructure cuts AI inference costs appeared first on AI News.",
+    "t": "NVIDIA וגוגל מורידות את עלויות ה-AI inference באמצעות תשתיות משופרות\n\nבכנס Google Cloud Next, גוגל ו-NVIDIA חשפו את הדור הבא של instances A5X ברות-מתכון שמתפעלות מערכות Vera Rubin NVL72 של NVIDIA. התשתיות החדשות הללו, שעוצבו בשיתוף פעולה בין חומware וsoftware, צפויות להוריד את עלויות ה-inference ב-עד פי 10, מה שיכול להיות משחק-חדש עבור כל החברות שמריצות מודלים גדולים בסקאלה.",
     "d": "Thu, 23 Apr 2026 12:19:36 +0000",
     "v": 0,
     "l": [
@@ -461,7 +449,6 @@ window.TELEGRAM_DATA = [
     ],
     "co": [
       "Google",
-      "Meta",
       "Nvidia"
     ],
     "tags": [
@@ -475,7 +462,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "The Download: introducing the Nature issue\n\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Nature issue When we talk about “nature,” we usually mean something untouched by humans. But little of that world exists today.  From microplastics in rainforest wildlife to artificial light…",
+    "t": "ההורדה: מציגה את גיליון Nature\n\nMIT Technology Review הציגה גיליון מיוחד של ניוזלטר The Download שחוקר את הקשר המסובך בין טבע לטכנולוגיה בעולם המודרני. כמעט שום דבר בטבע כבר לא נראה כלא מושפע מאדם - מחלקיקי מיקרופלסטיק בבעלי חיים יערות גשם ועד אור מלאכותי השוקע לכל פינה של כדור הארץ. הגיליון הזה בוחן איך בני אדם וטכנולוגיה משנים את הטבע בדרכים שלא תמיד זהים איתן.",
     "d": "Thu, 23 Apr 2026 12:10:00 +0000",
     "v": 0,
     "l": [
@@ -498,7 +485,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "More than 30,000 Samsung union members take to the streets to demand an average bonus of $400,000 per worker — May 21 strike date looms, union points to rival SK hynix granting higher bonuses to its employees\n\nWorkers at Samsung's largest chip fab staged a rally today, demanding higher pay and bonuses, comparing their compensation to what SK hynix offers its people.",
+    "t": "למעלה מ-30,000 עובדי איגוד סמסונג יצאו להפגנה דורשים בונוס ממוצע של 400,000 דולר לעובד — שביתה ב-21 במאי וההשוואה ל-SK hynix\n\nעובדי מפעל הצ'יפים הגדול של סמסונג קיימו היום עצרת מחאה דורשים שכר ובונוסים גבוהים יותר, והשוו את התנאים שלהם למה שמקבלים עובדי SK hynix המתחרה. האיגוד מאיים בשביתה ב-21 במאי אם לא יתקבלו התנאים הנדרשים, וזה בעיקר בגלל הפער בבונוסים שהמתחרה הישראלית-קוריאנית מעניקה.",
     "d": "Thu, 23 Apr 2026 12:09:03 +0000",
     "v": 0,
     "l": [
@@ -521,7 +508,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "Beehiiv rolls out new creator tools, including webinars and customizable paywalls\n\nBeehiiv is clearly done being just a newsletter platform based on today's launch of a new webinar feature, customizable paywalls, and more.",
+    "t": "Beehiiv משיקה כלים חדשים ליוצרי תוכן: וובינרים וקירות תשלום מותאמים\n\nBeehiiv לא מרוצה להישאר רק פלטפורמה לניוזלטרים - היום הם הכריזו על שלל תכונות חדשות כולל וובינרים, קירות תשלום מתקדמים ועוד, וזה בעצם משנה את המשחק עבור יוצרי תוכן. זה הולך הרחק מהשורש של מה שBeehiiv היה, וכרגע הם בונים פלטפורמה שלמה עבור קריאייטורים שרוצים להרוויח כסף מהקהל שלהם.",
     "d": "Thu, 23 Apr 2026 12:00:00 +0000",
     "v": 0,
     "l": [
@@ -544,7 +531,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "Grab this epic Creality K1C 3D printer at its lowest-ever price for a limited time only, now just $369 — huge $190 saving nets you a fast, fully enclosed Core XY rig that beginners and enthusiasts will love\n\nA huge $190 saving can be had right now on this Creality K1C 3D printer, fully enclosed and ready for fast printing, and on sale for just $369 right now, matching its best-ever price.",
+    "t": "Creality K1C - המדפסת ثلاثية-D החזקה ביותר במחיר ההיסטורי שלה: רק 369 דולר עם הנחה של 190 דולר\n\nאם חיפשתם דרך להיכנס לעולם ההדפסה התלת-מימדית, הנה ההזדמנות: Creality K1C יורדת לכל הזמנים - רק 369 דולר עם הנחה משוגעת של 190 דולר. המדפסת הסגורה הזו מסוגלת להדפיס במהירות פנומנלית וגם מתחילים וגם enthusiasts יהיו מעורים בה.",
     "d": "Thu, 23 Apr 2026 11:44:53 +0000",
     "v": 0,
     "l": [
@@ -567,7 +554,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 24,
-    "t": "Musk bets Tesla's AI future on Intel node that isn't finished yet\n\nEV maker leaning on still-in-development 14A process for Terafab, says it needs to build own silicon Elon Musk used Tesla's latest earnings call to reveal plans to build AI chips on Intel's not-yet-finished 14A process – a bet on silicon that doesn't exist.…",
+    "t": "מאסק משחרר על עתידה של טסלה בשיפ של אינטל שעדיין לא סיימו\n\nאלון מאסק חשף בשיחת הרווחים האחרונה של טסלה תוכנית להנדס chips AI משלה על בסיס התהליך 14A של אינטל - שעדיין בשלבי פיתוח. זה קצת כמו להזמין מכונית חדשה על מנוע שהיצרן עדיין לא סיים לבנות, אבל בעולם הסיליקון של טסלה, נראה שזה הרהור אסטרטגי.",
     "d": "2026-04-23T11:43:12.000Z",
     "v": 0,
     "l": [
@@ -590,7 +577,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "Microsoft launches ‘vibe working’ in Word, Excel, and PowerPoint\n\nMicrosoft is rolling out a new Agent Mode inside Office apps like Word, Excel, and PowerPoint this week. Previously described by Microsoft as \"vibe working,\" the Agent Mode is a more powerful version of the Copilot experience in Office that Microsoft has been trying to sell to businesses.\n\"When we first shipped Copilot, foundation models were not powerful enough to use Copilot to command the applications,\" admits Sumit Chauhan, corporate vice president of Microsoft's Office Product Group. \"This ",
+    "t": "מיקרוסופט משיקה 'vibe working' ב-Word, Excel ו-PowerPoint\n\nמיקרוסופט מגיעה עם Agent Mode חדש ב-Office שמסוגל להרבה יותר מהCopilot הרגיל - זה כמו שיש לך עוזד AI שמבין את הכוונה שלך ויכול להפעיל את האפליקציות בעצמו בלי שתצטרך ללחוץ על הרבה כפתורים. התכונה הזו שמיקרוסופט קוראת לה 'vibe working' היא בעצם כוח גברוה של AI שמבינה טוב יותר מה אתה רוצה לעשות, ובהודו של מיקרוסופט עצמה - בעבר model המבנה הבסיסי לא היה טוב מספיק לזה. עוד דקה, זה נשמע כמו קסם למשימות משרדיות.",
     "d": "2026-04-23T11:34:18.000Z",
     "v": 0,
     "l": [
@@ -611,13 +598,13 @@ window.TELEGRAM_DATA = [
       "product",
       "agents"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 26,
-    "t": "Bag a set of Razer Nommo 2.0 speakers for just $69 for a limited time — save $40 on new desktop speakers\n\nBag a set of Razer Nommo 2.0 speakers for just $69.  Save $40 on new desktop speakers at Woot",
+    "t": "רמקולי Razer Nommo 2.0 במחיר מטורף - רק 69 דולר עם הנחה של 40 דולר\n\nאם חיפשתם רמקולים ממשיים לשולחן העבודה, הנה ההזדמנות: Razer Nommo 2.0 זמינים עכשיו ב-Woot בהנחה ענקית של 40 דולר, כך שתשלמו רק 69 דולר. זה מחיר שלא תראו כל יום על רמקולי שולחן איכותיים כאלה, אז אם אתם מעוניינים - עלייך למהר כי ההצעה מוגבלת בזמן.",
     "d": "Thu, 23 Apr 2026 11:23:27 +0000",
     "v": 0,
     "l": [
@@ -640,7 +627,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 27,
-    "t": "AI bats away ping-pong challenge as rise of the machines continues\n\nSony project claims a significant breakthrough with applications in task requiring speed and accuracy Rise of the Machines  The ancient games of chess and Go are now mere staging posts in the journey toward robots demonstrating their superior performance to humans - the machines can now beat us fleshbags at ping-pong.…",
+    "t": "AI כבשה את אתגר טניס השולחן - המכונות ממשיכות לעלות בחזקה\n\nפרויקט של סוני הצליח להשיג פריצת דרך משמעותית בתחום משימות שדורשות מהירות ודיוק - וכן, הרובוטים שלהם הצליחו להביס אנשים בטניס שולחן. אחרי שכבשו שח וגו, המכונות עברו לאתגר הבא בדרך של הוכחת הסתמות שלהן על המין האנושי.",
     "d": "2026-04-23T11:15:11.000Z",
     "v": 0,
     "l": [
@@ -655,16 +642,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Register"
   },
   {
     "id": 28,
-    "t": "U.S. Commerce Secretary says Nvidia still hasn't sold any H200 AI GPUs to China — Chinese government is blocking imports in an attempt to push domestic semiconductor industry\n\nU.S. Commerce Secretary Howard Lutnick says Nvidia still hasn't sold a single H200 AI GPU to China, despite the ban being lifted four months ago. The Chinese government is making it difficult for Chinese companies to import Nvidia chips in a bid to support the country's own domestic semiconductor industry.",
+    "t": "מזכיר המסחר האמריקני: Nvidia עדיין לא מכרה אפילו H200 אחד לסין - הממשלה הסינית חוסמת יבוא\n\nלמרות שהאיסור על מכירת H200 של Nvidia לסין הורם לפני ארבעה חודשים, עדיין לא נמכרה אפילו ערכת אחת - והסינים עצמם אלה שמעכבים את היבוא. הממשלה הסינית כוונתית מקשה על חברות סיניות לייבא GPU-ים מ-Nvidia כדי לתמוך בתעשיית הצ'יפים המקומית שלהם.",
     "d": "Thu, 23 Apr 2026 10:40:00 +0000",
     "v": 0,
     "l": [
@@ -682,8 +668,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "hardware",
-      "regulation"
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/XnJHmikP8Y9LhX5dfL4M3F-1280-80.jpg",
@@ -691,7 +676,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 29,
-    "t": "Coastal home hovers above Nova Scotia valley on slender steel legs\n\nAlong the rocky Atlantic shoreline of Nova Scotia, Canadian studio Omar Gandhi Architects has completed a home that looks like it’s floating above the landscape. The East River Residence, which is suspended on thin columns, stretches across the valley like a bridge between two embankments, letting the terrain flow underneath it like water.\nContinue Reading\nCategory: Architecture, Engineering\nTags: Home, House, Building and Construction, Canada",
+    "t": "בית על חוף נובה סקוטיה 'צף' מעל הوادי על עמודי פלדה דקים\n\nסטודיו קנדי בשם Omar Gandhi Architects הקים בית מדהים על החוף הסלעי של נובה סקוטיה, שנראה כאילו הוא צף באוויר מעל הנוף. הבית תלוי על עמודים דקים וחוצה את העמק כמו גשר בין שתי גדות, תוך שהוא משאיר את הטרקלין הטבעי לזרום תחתיו. עבודת אדריכלות מפתיעה שמתפקדת כמו חלק מהנוף בעצמו. (New Atlas)",
     "d": "Thu, 23 Apr 2026 10:26:53 GMT",
     "v": 0,
     "l": [
@@ -706,8 +691,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -715,7 +699,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 30,
-    "t": "OpenAI says its new ChatGPT for Clinicians outperforms doctors on clinical tasks even when they have unlimited time and web access\n\nOpenAI is rolling out ChatGPT for Clinicians, a free version of its chatbot for medical professionals. A new benchmark claims GPT-5.4 beats human doctors on clinical tasks, even when those doctors have unlimited time and internet access.\nThe article OpenAI says its new ChatGPT for Clinicians outperforms doctors on clinical tasks even when they have unlimited time and web access appeared first on The Decoder.",
+    "t": "OpenAI טוענת שה-ChatGPT החדש לרופאים עולה על הרופאים בחיזוי משימות קליניות, גם כשיש להם זמן בלתי מוגבל וגישה לאינטרנט\n\nOpenAI משיקה גרסה חינמית של ChatGPT מותאמת לעולם הרפואה, וטוענת שה-GPT-5.4 שלה מכניסה למטבח את הרופאים האנושיים בחיזוי משימות קליניות - אפילו כשהם יושבים עם זמן אינסופי וגישה מלאה לרשת. זה די משמעותי כי זה אומר שה-AI לא רק מהיר יותר, אלא גם יותר מדויק מהחוקרים האנושיים, אפילו כשהם מנצלים כל משאב שיש להם.\n\nמקור: The Decoder",
     "d": "Thu, 23 Apr 2026 10:21:15 +0000",
     "v": 0,
     "l": [
@@ -741,7 +725,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 31,
-    "t": "Bolt Graphics tapes out its first Zeus GPU test chip on TSMC 12nm — firm touts 17x lower cost of compute\n\nBolt Graphics has announced its completed tape-out of a test chip for its Zeus GPU, marking the startup's first move from FPGA emulation to manufactured silicon.",
+    "t": "Bolt Graphics הודיעה על ה-tape-out הראשון של Zeus GPU שלה ב-TSMC - חישוביות זולה 17 פעמים יותר\n\nסטארטאפ בשם Bolt Graphics הצליחה לעבור את שלב ה-tape-out הראשון של ה-GPU החדשה Zeus שלה, מה שסימן מעבר מעולם האמולציה של FPGA לסיליקון אמיתי שיוייצר בתהליך 12nm של TSMC. החברה טוענת שהפתרון שלה יוכל להציע חישוביות בעלות נמוכה משמעותית - עד 17 פעמים זולה מהפתרונות הקיימים בשוק היום. זו צעד חשוב למעלה לסטארטאפ, שנמצאת בדרך להתחרות בשחקנים הגדולים בתעשיית ה-GPU.",
     "d": "Thu, 23 Apr 2026 10:20:00 +0000",
     "v": 0,
     "l": [
@@ -767,7 +751,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 32,
-    "t": "Seagate FireCuda X Vault (8TB) review: A USB-powered, RGB-lit hard drive aimed at gamers\n\nSeagate’s FireCuda X Vault is a gaming-focused 3.5-inch external drive with easily controlled RGB and a single USB-C cable for power and data.",
+    "t": "ביקורת Seagate FireCuda X Vault (8TB): כונן קשיח חיצוני עם תאורת RGB לגיימרים\n\nסיגייט הציגה כונן חיצוני חדש במחזור FireCuda שמיועד ישירות לגיימרים - בעל 8TB זיכרון, עם RGB שניתן לשלוט בו בקלות וחיבור USB-C יחיד שמטפל גם בהעברת נתונים וגם בחשמל. זה נראה כמו הפתרון המושלם למי שרוצה גיבוי נתונים ללא חיווט כאוס מתחת לשולחן הגיימינג.",
     "d": "Thu, 23 Apr 2026 10:01:00 +0000",
     "v": 0,
     "l": [
@@ -793,7 +777,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 33,
-    "t": "Will fusion power get cheap? Don’t count on it.\n\nFusion power could provide a steady, zero-emissions source of electricity in the future—if companies can get plants built and running. But a new study suggests that even if that future arrives, it might not come cheap. Technologies tend to get less expensive over time. Lithium-ion batteries are now about 90% cheaper than they were in…",
+    "t": "האם אנרגיית היתוך תהיה זולה? אל תסמכו על זה\n\nאנרגיית היתוך יכולה להיות מקור חשמל יציב וחסר פליטות בעתיד, אם החברות תצליחו לבנות ולהפעיל תחנות. אבל מחקר חדש מצביע שגם אם העתיד הזה יגיע, זה לא בהכרח יהיה זול - בניגוד לתכניות רבות שהתם זולות עם הזמן (כמו בטריות ליתיום שירדו ב-90%), היתוך עשוי להישאר יקר. מקור: MIT Technology Review",
     "d": "Thu, 23 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -810,13 +794,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "MIT Technology Review"
   },
   {
     "id": 34,
-    "t": "Sony AI robot beats players as humanoid robot wins Beijing race\n\nAn autonomous table tennis robot developed by Sony AI has competed against and defeated high-level human players in regulated matches, according to Reuters. The system is part of a broader category often referred to as “physical AI,” where artificial intelligence is applied to machines operating in real-world environments. The robot, named Ace, was designed to […]\nThe post Sony AI robot beats players as humanoid robot wins Beijing race appeared first on AI News.",
+    "t": "רובוט הטניס של סוני הביס שחקנים אנושיים במרוץ בייג'ינג\n\nסוני פיתחה רובוט אוטונומי לטניס שולחן בשם Ace שהצליח להביס שחקנים מקצועיים בהתאמות רגולציות - זה לא טריק עם מצלמות אלא physical AI אמיתי שמביא מערכות AI לעולם הפיזי. הרובוט ההומנואידי זכה בתחרות בבייג'ינג ומראה שהטכנולוגיה כבר יכולה להתחרות ברמות גבוהות של משחק אנושי, במקום שם זה באמת משנה משהו.",
     "d": "Thu, 23 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -831,8 +815,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -840,7 +823,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 35,
-    "t": "AI agent designs a complete RISC-V CPU from a 219-word spec sheet in just 12 hours — comparably simple design required 'many tens of billions of tokens'\n\nAI chip design startup Verkor.io claims that its agentic AI system, Design Conductor, has autonomously produced a complete RISC-V CPU core.",
+    "t": "AI agent תכננה CPU RISC-V שלם מתיאור של 219 מילים בסך הכל 12 שעות — עיצוב דומה דרש 'עשרות מיליארדים של tokens'\n\nסטארטאפ Verkor.io טוענת שלה יש AI agent חדשני בשם Design Conductor שהצליח להשקיע במלואו ליצור CPU core RISC-V אוטונומי, במהלך שפחת משמעותית בתהליך. זה אומר שאי AI יכול להפוך משימות מורכבות של תכנון חומרה לשיום אוטומטי בזמן קצר מבחינה משמעותית לעומת השיטות המסורתיות.",
     "d": "Thu, 23 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -856,17 +839,15 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "robotics",
-      "funding",
       "agents"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/HKQEBis85dwKZgVzHrAA9M-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 36,
-    "t": "Anthropic looks to hire six-figure role for negotiating data center deals to fuel Europe AI expansion\n\nU.S. tech giants have announced huge infrastructure expenditure in 2026 as they look to scale the deployment of AI.",
+    "t": "אנת्रופיק מחפשת מנכ\"ל למו\"מ על מרכזי נתונים להתפשטות ה-AI באירופה\n\nאנת্רופיק משקיעה כסף כבד בתשתיות בשנת 2026 כדי להרחיב את פריסת ה-AI שלה, והעלייה בביקוש מאלצת את ענקי הטק האמריקניים להשתלם בגדול על חומרה וספקי אנרגיה. חברות הטק מעבירות את עתידן של מיליארדים לבניית מרכזי נתונים ענקיים שיוכלו להנעת מודלים של AI, ובשביל זה צריכים מנהיגים משכנעים שידעו לנהל קשרים עם ממשלות וספקים.",
     "d": "Thu, 23 Apr 2026 09:23:04 GMT",
     "v": 0,
     "l": [
@@ -879,12 +860,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -892,7 +870,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 37,
-    "t": "Elevating Austria: Google invests in its first data center in the Alps.\n\nGoogle has been a proud part of Austria’s landscape for years, and today, we’re announcing our first data center in Kronstorf, generating 100 direct jobs. This facility …",
+    "t": "גוגל משקיעה במרכז נתונים ראשון שלה באוסטריה\n\nגוגל כרגע מוזה את הקרדיט שלה באוסטריה עם הכרזה על מרכז נתונים חדש בקרונסטורף, שיביא עמו 100 משרות ישירות. הפעם גוגל מסיימת דברים כאן, ולא רק מדברת עליהם - השקעה משמעותית שמראה שהחברה רוצה לחזק את נוכחותה בלב אירופה.",
     "d": "Thu, 23 Apr 2026 09:00:00 +0000",
     "v": 0,
     "l": [
@@ -905,12 +883,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Kronstorf_Data_Center_1.max-600x600.format-webp.webp",
@@ -918,7 +893,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 38,
-    "t": "Stale gov.uk pages are feeding AI overviews old data and Brits are believing it\n\nWhitehall content teams play whack-a-mole with zombie pages as Google hoovers up the lot AI overviews from the likes of Google are serving up false summaries of UK government information by drawing on stale GOV.UK pages, according to content designers at the Department for Business and Trade (DBT).…",
+    "t": "עמודי gov.uk ישנים מסנווקים מידע עתיק ל-AI וברים מאמינים בזה\n\nגוגל בולעת את כל התוכן של האתר הממשלתי הבריטי וה-AI overviews שלה מחזירים סיכומים מוטעים על בסיס עמודים שלא עודכנו - טענה שמגיעה מצוותי התוכן במשרדי ממשלה בלונדון. זו בעיה חמורה שמראה איך גורמים ממשלתיים מתאמצים להיפטרות מ'עמודים זומבים' בזמן שהAI מתפשטת באינטרנט כאילו הכל בסדר.",
     "d": "2026-04-23T08:45:06.000Z",
     "v": 0,
     "l": [
@@ -931,13 +906,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -970,7 +941,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 40,
-    "t": "Monid\n\nDiscussion\n            |\n            Link",
+    "t": "Monid\n\nנראה שמדובר בעדכון מינימלי על מוצר שנקרא Monid שעלה ל-Product Hunt. מכיוון שהמידע המסופק מוגבל מאוד (רק תיאור של דיון וקישור), קשה להיות יותר ספציפי על מה בדיוק המוצר הזה עושה או מה החידוש בו. במידה ותוכלו לשתף פרטים נוספים על Monid, נוכל לתת לכם תקציר משמעותי יותר עם כל ההקשר הרלוונטי.",
     "d": "2026-04-23T07:06:33.000Z",
     "v": 0,
     "l": [
@@ -993,7 +964,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 41,
-    "t": "Vora Health\n\nDiscussion\n            |\n            Link",
+    "t": "וורה הלث - פלטפורמת בריאות חדשה\n\nסטארטאפ חדש שמציע פתרון בתחום הטכנולוגיה הרפואית, שנראה מעניין לבדיקה ויישום בשוק הישראלי. המוצר הושק ב-Product Hunt והוא זוכה לתשומת לב בקהילת הסטארטאפים כפתרון חדשני בתחום הבריאות הדיגיטלית.",
     "d": "2026-04-23T06:25:10.000Z",
     "v": 0,
     "l": [
@@ -1295,7 +1266,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 54,
-    "t": "Algebraic language models for inverse design of metamaterials via diffusion transformers",
+    "t": "מודלים שפה אלגבריים לעיצוב הפוך של מטא-חומרים דרך diffusion transformers\n\nחוקרים פתחו שיטה חדשה המשלבת AI ומתמטיקה אלגברית כדי לעצב חומרים מתקדמים עם תכונות חריגות. בעזרת diffusion transformers, הם יכולים לחזות ולייצר מטא-חומרים שלא קיימים בטבע - חומרים שמתנהגים בדרכים שאנחנו רק יכולים לתכנן. זה עוד דוגמה לאיך AI משנה את היכולות שלנו בהנדסה וחומרים, במקום לנחש ולנסות אנחנו יכולים פשוט לתכנן מה שאנחנו רוצים. מקור: Nature Machine Intelligence",
     "d": "2026-04-23T00:00:00.000Z",
     "v": 0,
     "l": [
@@ -1308,12 +1279,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -1321,7 +1289,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 55,
-    "t": "Flow matching for generative modelling in bioinformatics and computational biology",
+    "t": "Flow Matching לדוגמנות גנרטיבית בביואינפורמטיקה וביולוגיה חישובית\n\nמחקר חדש ב-Nature Machine Intelligence חוקר כיצד ניתן להשתמש בטכניקת Flow Matching, שיטה מתקדמת בתחום ה-AI, כדי ליצור מודלים חדשים שיכולים לעזור לנו להבין ולדמות תהליכים ביולוגיים מורכבים. הגישה הזו משלבת עמוק בין עולם הבינה המלאכותית ובין המחקר הביולוגי, ויכולה להיות משחק משמעותי בתיעול גילוי תרופות וניתוח נתונים גנטיים. בקיצור, זה כמו שנתנו ל-AI את הכלים כדי להיות יותר 'חכם' בהבנת המורכבויות של החיים עצמם.",
     "d": "2026-04-23T00:00:00.000Z",
     "v": 0,
     "l": [
@@ -2458,7 +2426,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 103,
-    "t": "Live Chats on Threads\n\nDiscussion\n            |\n            Link",
+    "t": "שיחות חיות בThreads\n\nMeta הוסיפה תכונה חדשה לThreads שמאפשרת לקהילות ולמותגים לערוך שיחות חיות במישרין בתוך האפליקציה - זה בעצם הניסיון של Meta להתחרות עם פלטפורמות אחרות שמציעות livestreaming וקהילות אינטראקטיביות. התכונה הזו יכולה להיות מגניבה במיוחד ליוצרי תוכן ובעלי עסקים שרוצים שיתוף פעולה חי עם הקהל שלהם בלי להעיף אותם מהאפליקציה.",
     "d": "2026-04-22T17:33:54.000Z",
     "v": 0,
     "l": [
@@ -2471,9 +2439,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Meta"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -2603,7 +2574,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 109,
-    "t": "Claude Code /ultrareview\n\nDiscussion\n            |\n            Link",
+    "t": "Claude Code - סקירה מעמיקה\n\nנראה שאנתרופיק השיקו תכונה חדשה של Claude שמתמקדת בפיתוח קוד, וכבר המון אנשים דנים בה ב-Product Hunt. אם אתם מעוניינים לדעת מה זה בדיוק וכמה זה בעצם טוב, זה המקום הנכון לקרוא על זה.",
     "d": "2026-04-22T17:09:56.000Z",
     "v": 0,
     "l": [
@@ -117360,7 +117331,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4882,
-    "t": "Vector by zauth\n\nDiscussion\n            |\n            Link",
+    "t": "Vector מ-zauth\n\nכנראה שמדובר בכלי או פלטפורמה חדשה שהוצגה ב-Product Hunt, אבל פרטים ספציפיים על מה בדיוק Vector עושה לא ברורים מהתיאור המינימליסטי הזה. אם אתם מחפשים לדעת יותר על המוצר, כדאי להיכנס ישירות לדיון בProduct Hunt כדי לקבל מידע מלא מהיוצרים ומהקהילה.",
     "d": "2026-03-22T02:30:52.000Z",
     "v": 0,
     "l": [

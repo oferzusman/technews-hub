@@ -1,14 +1,14 @@
 {
   "total": 5218,
-  "translated": 5173,
-  "untranslated": 45,
+  "translated": 5218,
+  "untranslated": 0,
   "today": 109,
   "week": 996,
   "sources": [
     {
       "name": "Product Hunt",
       "total": 606,
-      "translated": 601,
+      "translated": 606,
       "lastDate": "2026-04-23T07:06:33.000Z"
     },
     {
@@ -20,7 +20,7 @@
     {
       "name": "Tom's Hardware",
       "total": 301,
-      "translated": 292,
+      "translated": 301,
       "lastDate": "Wed, 22 Apr 2026 20:44:57 +0000"
     },
     {
@@ -38,7 +38,7 @@
     {
       "name": "Futurism",
       "total": 230,
-      "translated": 228,
+      "translated": 230,
       "lastDate": "Wed, 22 Apr 2026 16:27:39 -0400"
     },
     {
@@ -50,31 +50,31 @@
     {
       "name": "New Atlas",
       "total": 187,
-      "translated": 185,
+      "translated": 187,
       "lastDate": "Wed, 22 Apr 2026 19:28:01 GMT"
     },
     {
       "name": "CNBC Tech",
       "total": 176,
-      "translated": 174,
+      "translated": 176,
       "lastDate": "Wed, 22 Apr 2026 22:29:49 GMT"
     },
     {
       "name": "TechCrunch AI",
       "total": 151,
-      "translated": 147,
+      "translated": 151,
       "lastDate": "Wed, 22 Apr 2026 23:56:52 +0000"
     },
     {
       "name": "The Decoder",
       "total": 144,
-      "translated": 138,
+      "translated": 144,
       "lastDate": "Wed, 22 Apr 2026 18:44:36 +0000"
     },
     {
       "name": "The Register",
       "total": 137,
-      "translated": 132,
+      "translated": 137,
       "lastDate": "2026-04-23T13:26:10.000Z"
     },
     {
@@ -98,13 +98,13 @@
     {
       "name": "The Verge AI",
       "total": 83,
-      "translated": 80,
+      "translated": 83,
       "lastDate": "2026-04-23T14:00:00.000Z"
     },
     {
       "name": "MIT Technology Review",
       "total": 82,
-      "translated": 80,
+      "translated": 82,
       "lastDate": "Wed, 22 Apr 2026 12:10:00 +0000"
     },
     {
@@ -134,7 +134,7 @@
     {
       "name": "AI News",
       "total": 44,
-      "translated": 42,
+      "translated": 44,
       "lastDate": "Wed, 22 Apr 2026 15:45:14 +0000"
     },
     {
@@ -146,7 +146,7 @@
     {
       "name": "Google AI Blog",
       "total": 29,
-      "translated": 28,
+      "translated": 29,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
@@ -194,7 +194,7 @@
     {
       "name": "Nature Machine Intelligence",
       "total": 18,
-      "translated": 16,
+      "translated": 18,
       "lastDate": "2026-04-23T00:00:00.000Z"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-23T14:58:20.881Z"
+  "generatedAt": "2026-04-23T16:46:23.998Z"
 }
