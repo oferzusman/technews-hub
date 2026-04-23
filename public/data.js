@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "AI War? White House accuses China of industrial-scale theft of US AI frontier models\n\nThe White House on Thursday accused China-based actors of targeting U.S. artificial intelligence labs in...",
+    "t": "מלחמת AI? הבית הלבן מאשים את סין בגניבה בקנה מידה תעשייתי של מודלי AI מתקדמים אמריקאיים\n\nהבית הלבן הטיל אצבע על סין בגניבת מודלי AI מתקדמים של ארה\"ב בקנה מידה תעשייתי. לפי ההאשמות, שחקנים סיניים מתקדמים מנסים לחדור לחממות ה-AI האמריקאיות כדי להשיג את הטכנולוגיות הקדמיות שלהם. זה הופך להיות משחק מתחדד במלחמה הטכנולוגית בין שתי המעצמות.",
     "d": "Thu, 23 Apr 2026 17:33:04 +0000",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Jim Cramer: Tesla is a buy after hearing what Elon Musk said on the earnings call\n\nCNBC's Jim Cramer said he \"would be a buyer of Tesla today\" after listening to Elon Musk on the earnings call.",
+    "t": "ג'ים קריימר: טסלה היא קנייה אחרי ששמע מה אילון מאסק אמר בקול הרווחים\n\nכמו שציפינו, ג'ים קריימר מ-CNBC התרשם מהדברים שאילון מאסק אמר בשיחת הרווחים של טסלה והחליט שהוא היה קונה את המניה היום. נראה שהמצבים בחברה הם מתגבשים בצורה שגורמת לאנליסטים כבדים כמוהו להיות שוב בעלי תקווה על ההשקעה בחברה.",
     "d": "Thu, 23 Apr 2026 17:32:45 GMT",
     "v": 0,
     "l": [
@@ -47,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Fiery multifunctional flashlight packs its own arc ignition lighter\n\nIn my irascible opinion, there are never enough pockets in pants or backpacks for all the gadgets I need to tote around. With the arc-lighter-equipped Luxo multi-function flashlight however, that’s one less pocket taken up.\nContinue Reading\nCategory: Gear, Outdoors\nTags: Flashlights, firestarter, Kickstarter, xxKickbooster",
+    "t": "פנס רב-תכליתי Fiery עם מצית קשת מובנית\n\nאם אתם מהסוג שלנו שתמיד חסרים מקום בכיסים להכל הגאדג'טים שצריך לשאת, פנס Luxo החדש עשוי להיות הפתרון - הוא משלב פנס, מצית קשת חשמלית ועוד כמה תכונות שימושיות בכלי אחד. המכשיר זה עומד להשיק בקיקסטרטר והוא כמו מטבח בדירה שמנסה להיות רוב הדברים שאתה צריך בחוץ.",
     "d": "Thu, 23 Apr 2026 17:30:00 GMT",
     "v": 0,
     "l": [
@@ -70,7 +70,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "White House warns of 'industrial-scale' efforts in China to rip off U.S. AI tech\n\nThe U.S. government has previously accused China of targeting American AI technology and intellectual property.",
+    "t": "הבית הלבן מזהיר מנסיונות בקנה מידה תעשייתי של סין לגנוב טכנולוגיית AI אמריקאית\n\nהממשל האמריקני מנפיץ אזהרה כי סין מנהלת מאמץ ענק וממשי לגנוב ידע ופטנטים בתחום ה-AI מחברות טכנולוגיה אמריקאיות. זה לא הפעם הראשונה שארה\"ב משדדת אצבע בכיוון סין בנושא, אבל הפעם הטון נראה רציני במיוחד - דברים על קנה מידה תעשייתי זה משהו שלא סתם סחיב.",
     "d": "Thu, 23 Apr 2026 17:29:33 GMT",
     "v": 0,
     "l": [
@@ -93,7 +93,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "The Guardian view on Anthropic’s Claude Mythos: when AI finds every flaw, who controls the internet? | Editorial\n\nTech can scale cyber-attacks and defences alike, raising questions about private power, public risk and the future of a shared internet\nAnthropic announced its latest AI model, Claude Mythos, this month but said it would not be released publicly, because it turns computers into crime scenes. The company claimed that it could find previously unknown “zero-day” flaws, exploit them and, in principle, link these weaknesses in order to take over major operating systems and web browsers. Mythos did so",
+    "t": "עמדת The Guardian על Claude Mythos של Anthropic: כשAI מוצא כל באג, מי שולט באינטרנט?\n\nAnthropic חשפה את Claude Mythos, מודל AI חדש שיכול לגלות חולשות זירו-דיי בלתי ידועות ואפילו לנצל אותן כדי להשתלט על מערכות הפעלה וברauserim - ובגלל זה החברה החליטה שהוא לא יצא לציבור הרחב. זה מעלה שאלות חמות על מי באמת שולט על הרשת, מי אחראי לביטחון הקיבוצי שלנו, וכמה כוח פרטי צריך להישמר בידי חברות טק גדולות. הסיפור של Anthropic הוא למעשה המראה שלנו למציאות החדשה שבה AI יכול להיות גם הנשק שלנו וגם האיום עלינו.",
     "d": "Thu, 23 Apr 2026 17:27:59 GMT",
     "v": 0,
     "l": [
@@ -107,14 +107,11 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Anthropic",
-      "Amazon"
+      "Anthropic"
     ],
     "tags": [
       "news",
-      "model",
-      "product",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/37ad6e24ed39b8e3f672ad0c6451cd1ffbfd9e09/509_0_5031_4024/master/5031.jpg?width=140&quality=85&auto=format&fit=max&s=7d6310c0dbda16ba7096c64a5a9c84b5",
@@ -122,7 +119,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Ben Jennings on the Met’s interest in using Palantir AI technology – cartoon\n\nContinue reading...",
+    "t": "בן ג'נינגס על עניין המטרופוליטן בטכנולוגיית AI של Palantir – קריקטורה\n\nהקריקטוריסט בן ג'נינגס עושה סטירה על התעניינות המוזיאון המטרופוליטן בשימוש בטכנולוגיית הAI של Palantir, החברה הידועה בעבודה עם סוכנויות ממשלתיות. הקריקטורה משחקת על המתח בין עולם האמנות הקלאסי לבין הטכנולוגיה המודרנית של data intelligence.\n\nמקור: The Guardian AI",
     "d": "Thu, 23 Apr 2026 17:22:45 GMT",
     "v": 0,
     "l": [
@@ -145,7 +142,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Google's open-source DESIGN.md gives AI agents a prompt-ready blueprint for brand-consistent design\n\nGoogle is open-sourcing the agent prompt behind its AI design tool Stitch. The DESIGN.md format is built to teach AI agents how to follow brand rules.\nThe article Google's open-source DESIGN.md gives AI agents a prompt-ready blueprint for brand-consistent design appeared first on The Decoder.",
+    "t": "Google משחררת לציבור את DESIGN.md - הבלוprint הפתוח לסוכנים AI שיודעים לעקוב אחרי כללי הברנד\n\nגוגל החליטה לשתף עם כולנו את ה-prompt המופעל מאחורי כלי העיצוב AI שלהם בשם Stitch. DESIGN.md הוא פורמט חדש שמלמד סוכנים של AI איך להקפיד על כללי הברנד ולא להתפזר בכל כיוון - ממש כמו מתכון שכל שף יכול להשתמש בו. זה משמעותי כי זה אומר שכל חברה יכולה עכשיו להשתמש בפורמט הזה כדי ליצור עיצובים שנשמרים עקביים מול ה-brand שלהם.",
     "d": "Thu, 23 Apr 2026 17:20:06 +0000",
     "v": 0,
     "l": [
@@ -163,8 +160,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -172,7 +168,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "New solar panels that imitate roof tiles can retain around 95% of their power\n\nGerman researchers have developed a technique for applying realistic designs to photovoltaic (PV) modules that...",
+    "t": "פנלים סולאריים חדשים המחקים אריחי גג יכולים לשמור על כ-95% מהכוח שלהם\n\nחוקרים גרמנים פיתחו טכניקה מהפכנית שמאפשרת לתכנן פנלים PV כמו אריחי גג ממשיים, מה שפותר סוף-סוף את בעיית האסתטיקה של אנרגיה סולארית בבתים פרטיים. המערכת החדשה שומרת על 95% מיעילות הכיסוי אור למרות העיצוב המורכב, כלומר זה לא עוד משהו שחייבים להסתיר אלא משהו שבאמת נראה טוב על הגג. זו כנראה החדשות הטובות ביותר שהיו לנו לסולר בשנים האחרונות אם אתם מתכננים לעדכן את הגג בקרוב.",
     "d": "Thu, 23 Apr 2026 17:16:05 +0000",
     "v": 0,
     "l": [
@@ -195,7 +191,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Google explains why its all-in-one AI stack embraces competitors\n\n'Differentiated, but open' Google Cloud Next  Google Cloud’s Andi Gutmans said that the company holds a structural advantage over its largest rivals in the race to win value from AI agents in the enterprise, arguing that no competitor currently combines cloud computing infrastructure, frontier AI models, and a data platform under one roof.…",
+    "t": "גוגל מסבירה למה ה-AI stack המשולב שלה מאמצת גם תחרויות\n\nגוגל קלאוד מטענת שיש לה יתרון מובנה על התחרויות הגדולות בתחום AI agents בתוך הארגונים, כי אף חברה אחרת לא משלבת תחתיה את infrastructure הענן, מודלי ה-AI המתקדמים והפלטפורמת הנתונים כמו שהם עושים. זה כמו שגוגל אומרת: אנחנו מפתחות, אבל לא סוגרות קפסולה - אנחנו פתוחות גם לאחרים כי זה עדיף לכולם. הכל בא ביחד בצורה שנותנת להם יתרון ממשי בתחרות הגדולה על הערך של AI בעולם העסקי.",
     "d": "2026-04-23T17:13:36.000Z",
     "v": 0,
     "l": [
@@ -208,12 +204,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
       "news",
-      "model",
       "agents"
     ],
     "imp": "low",
@@ -222,7 +215,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Software stocks plunge on ServiceNow, IBM results as AI fears escalate\n\nShares of ServiceNow sank over 16%, dragging down other software names like Salesforce, Workday and Oracle with it.",
+    "t": "מניות תוכנה צוללות לאחר תוצאות ServiceNow ו-IBM כשחששות מ-AI מתגברים\n\nServiceNow קרסה ב-16% וגררה איתה למטה גולות ענקיות בתחום התוכנה כמו Salesforce, Workday ו-Oracle. השוק כנראה לא מעדיף את הדברים שהוא שומע על ה-AI ועל ההשלכות שלו על הרווחיות של חברות תוכנה - מה שגורם להשקעים לרוץ לדלתות.",
     "d": "Thu, 23 Apr 2026 17:04:24 GMT",
     "v": 0,
     "l": [
@@ -245,7 +238,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "FBI Investigating Series of Deaths Among Top Scientists With Very Specific Specialties\n\nCongress is looking for a \"possible sinister connection between a string of mysterious deaths and disappearances.\"\nThe post FBI Investigating Series of Deaths Among Top Scientists With Very Specific Specialties appeared first on Futurism.",
+    "t": "FBI חוקרת סדרה של מוות בקרב מדענים מובילים עם התמחויות ספציפיות מאוד\n\nהקונגרס מחפש קשר אפשרי בין סדרה של מוות מסתוריים והעלמויות של מדענים מיוחדים. המחקר של FBI מעלה שאלות חשוכות לגבי מה שעמד מאחורי אירועים אלה, וגוף ההנהלה בארה\"ב מעביר את הדברים לבחינה יסודית.",
     "d": "Thu, 23 Apr 2026 12:59:26 -0400",
     "v": 0,
     "l": [
@@ -260,9 +253,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/fbi-investigating-deaths-disappearances-top-scientists.jpg?quality=85",
@@ -270,7 +261,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "11th Moon mineral discovered in China’s first lunar meteorite sample study\n\nScientists in China have discovered and identified the 11th new lunar mineral, according to findings...",
+    "t": "סין גילתה את המינרל הירחי ה-11 בחקר הדגימה הראשונה שלה\n\nמדענים בסין הצליחו לזהות ולתעד מינרל ירחי חדש לגמרי - זה כבר ה-11 שנתגלה על בסיס מחקר המטאוריט הירחי הראשון של סין. התגלית הזו חוזקת את המעמד של סין כעוצמה מעצמת בחקר החלל וטוען שיש עוד הרבה מה ללמוד מהירח.",
     "d": "Thu, 23 Apr 2026 16:50:38 +0000",
     "v": 0,
     "l": [
@@ -287,13 +278,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "Interesting Engineering"
   },
   {
     "id": 13,
-    "t": "First Intel Wildcat Lake laptop spotted in the wild, geared to compete with MacBook Neo — features an aluminum chassis with 11W fanless mode\n\nIntel's Wildcat Lake family was launched recently, but no devices featuring the CPUs have actually shown up yet. Analyst Vaidyanathan S shared pictures of a real laptop running the new 'Core Series 3' silicon, but it's just an Intel reference machine.  It also shows that Wildcat Lake has a 17W PL1 and an 11W fanless mode, along with a 22W PL1 Max and a 35W PL2 mode.",
+    "t": "הלaptop הראשון של Intel Wildcat Lake נתפס בטבע - נקבע להתחרות במכונות Apple עם שסיסי אלומיניום וחסכוניות אנרגיה\n\nIntel סוף סוף החזיקה בדברים קונקרטיים - אנליסט שיתף תמונות של laptop אמיתי שרץ עם ה-Wildcat Lake החדש, וזה דבר מרשים. המכונה הזו מציגה יכולת fanless בגרירת חשמל של 11W בלבד, עם אפשרות ללהיטחן גם ב-17W ו-35W בעומסים כבדים יותר - וזה בדיוק מה שצריך כדי להתחרות עם MacBook Neo של אפל בעולם ה-ultrabook.",
     "d": "Thu, 23 Apr 2026 16:43:06 +0000",
     "v": 0,
     "l": [
@@ -306,10 +297,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Apple"
+    ],
     "tags": [
       "news",
-      "funding"
+      "product"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/TxzciaVarc4gnHYC5t9dy-1280-80.png",
@@ -317,7 +310,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Microsoft plans first-ever voluntary employee buyout for up to 7% of U.S. workforce\n\nMicrosoft's inaugural voluntary buyouts will be open to workers at the senior director level and below whose years of employment and age add up to 70 or more.",
+    "t": "מיקרוסופט מציעה לראשונה בתוכנית לפרישה התנדבותית לעד 7% מעובדיה בארה״ב\n\nבתוכנית הראשונה מסוגה, מיקרוסופט מאפשרת לעובדים בדרגת senior director ומטה (שסכום שנות ההעסקה והגיל שלהם מגיע ל-70 ומעלה) להשתתף בתכנית פרישה התנדבותית. זו צעד משמעותי של ענקית הטכנולוגיה לעיצוב מחדש של כוח העבודה שלה באופן רך יותר מפувольнения כלליות.",
     "d": "Thu, 23 Apr 2026 16:36:03 GMT",
     "v": 0,
     "l": [
@@ -330,12 +323,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -343,7 +333,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "US deploys Ukraine’s air defense system in Saudi against suicide drones\n\nThe U.S. military has deployed Ukraine’s advanced air defense technology at a strategic base in...",
+    "t": "ארה\"ב משלחת את מערכת ההגנה האווירית של אוקראינה לסעודיה נגד רחפנים התאבדות\n\nצבא ארה\"ב החליט להשתמש בטכנולוגיית הגנה אווירית מתקדמת שפותחה באוקראינה כדי להגן על בסיסים כאסטרטגיים בסעודיה מפני התקפות רחפנים. זה כמו לקחת נשק שהוכיח את עצמו בשדה הקרב האמיתי וליישמו במקום חדש - פשוט מהנדסות צבאית חכמה שמחזקת את הקשרים בין ארצות בעלות ברית.",
     "d": "Thu, 23 Apr 2026 16:30:35 +0000",
     "v": 0,
     "l": [
@@ -366,7 +356,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "SpaceX’s IPO Plan Will Give Elon Musk Ironclad Rule Over the Resulting Empire\n\nWith great power, etc.\nThe post SpaceX’s IPO Plan Will Give Elon Musk Ironclad Rule Over the Resulting Empire appeared first on Futurism.",
+    "t": "תוכנית ה-IPO של SpaceX תעניק לאלון מאסק שליטה מוחלטת על הקונגלומרט שלו\n\nיוון שוב לסיפור הישן - עם כוח גדול מגיעה אחריות גדולה, אבל במקרה של מאסק זה נראה שמעניק גם שליטה ברזלית על כל הפעילות. SpaceX מתכננת IPO שתשמור על כוחו של מאסק כמעט בלי שום הגבלה, מה שמעלק שאלות בעולם ההשקעות על מי באמת קובע החלטות בחברה.",
     "d": "Thu, 23 Apr 2026 12:11:07 -0400",
     "v": 0,
     "l": [
@@ -389,7 +379,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "OpenAI's new Trusted Access program gives Microsoft its most capable models for cyber defense\n\nOpenAI and Microsoft are joining forces to shore up cybersecurity as AI models become a bigger threat. The debate started with Anthropic's Mythos model, which is designed to hunt down security flaws on its own.\nThe article OpenAI's new Trusted Access program gives Microsoft its most capable models for cyber defense appeared first on The Decoder.",
+    "t": "תוכנית Trusted Access החדשה של OpenAI מעניקה ל-Microsoft את המודלים החזקים ביותר להגנת סייבר\n\nOpenAI ו-Microsoft חוברות ידיים כדי לחזק את ההגנה בסייבר בעולם שבו AI הופך להיות איום גדול יותר. כל זה התחיל כשAnthropicp חשפה את ה-Mythos model שלה, שמודל AI שמסוגל לחפש בעצמו פגמים ביטחוניים. עכשיו OpenAI משחקת באותו משחק ונותנת ל-Microsoft גישה לכלים החזקים ביותר שלה כדי להגן על התשתיות הדיגיטליות.",
     "d": "Thu, 23 Apr 2026 16:09:29 +0000",
     "v": 0,
     "l": [
@@ -405,15 +395,12 @@ window.TELEGRAM_DATA = [
     "co": [
       "OpenAI",
       "Anthropic",
-      "Microsoft",
-      "Amazon"
+      "Microsoft"
     ],
     "tags": [
       "news",
       "model",
-      "product",
-      "regulation",
-      "security"
+      "product"
     ],
     "imp": "low",
     "thumb": null,
@@ -421,7 +408,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "Era raises $11M to build a software platform for AI gadgets\n\nEra thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants",
+    "t": "Era גייסה 11 מיליון דולר לבניית פלטפורמה לתוכנה של gadgets AI\n\nEra משוכנעת שנראה פיצוץ של צורות שונות של hardware AI - משקפיים חכמות ועד טבעות ותליונים שיעובדו בעזרת AI. הסטארטאפ הישראלי משאיר את הדלת פתוחה לעתיד שבו כל הדברים סביבנו יהיו חכמים עוד קצת יותר. יום יום בעולם ה-AI, אחד הם מטורפים.",
     "d": "Thu, 23 Apr 2026 16:00:00 +0000",
     "v": 0,
     "l": [
@@ -436,16 +423,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 19,
-    "t": "AI neckband lets you talk without saying a word\n\nScientists at Pohang University of Science and Technology (POSTECH), in South Korea, have built a silicone neckband that reads the tiny movements of your neck as you mouth words – and turns them into speech in your own voice, transmitted to whoever is listening.\nContinue Reading\nCategory: Wearables, Consumer Tech, Technology\nTags: Postech, Collar, Speech, Artificial Intelligence, Voice",
+    "t": "רצועת AI בצוואר שמאפשרת דיבור ללא הוצאת קול\n\nמדענים בדרום קוריאה פיתחו רצועת סיליקון חכמה שנתפסת סביב הצוואר ויכולה לקרוא תנועות זעירות של הגרון כשאתם משחקים מילים בשפתיים - ואז מומירה את זה לדיבור בקולכם שלכם ושולחת הלאה למי שמאזין בצד השני. דבר כזה יכול להיות משחק משנה עבור אנשים שיש להם בעיות בדיבור ובשידורים סודיים, וזה כל כך מטורף שזה כמעט מעבר לאופנוע.",
     "d": "Thu, 23 Apr 2026 15:57:00 GMT",
     "v": 0,
     "l": [
@@ -460,8 +446,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -469,7 +454,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "Microsoft gives your Word documents an AI co-author you didn’t ask for\n\nAlso rolls out agentic Copilot in Excel and PowerPoint, letting 21st century Clippy lend a... hand Microsoft is giving Copilot the power to stop suggesting edits and start making them.…",
+    "t": "מיקרוסופט משדרגת את Word עם עוזר AI שלא ביקשתם\n\nמיקרוסופט זורמת את Copilot לכל מקום - עכשיו ה-AI לא רק מציע עריכות בWord, Excel וPowerPoint, אלא גם יכול לבצע אותן בעצמו. זהו כמו Clippy בסטרואידים, רק שהפעם הוא באמת יודע מה הוא עושה. התוכנה תפעל כ-\"סוכן\" שמבין משימות ומטפל בהן לבד - מה שאולי מעניין לחלק ומעצבן לחלק אחר שפשוט רוצה לעבוד בשקט.",
     "d": "2026-04-23T15:55:14.000Z",
     "v": 0,
     "l": [
@@ -487,8 +472,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "product",
-      "agents"
+      "product"
     ],
     "imp": "low",
     "thumb": null,
@@ -496,7 +480,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "Datadog digs down into GPU efficiency as AI costs soar\n\nDown to you to work out the value Datadog has added GPU monitoring to its observability stack, giving AI-hungry organizations more insight into exactly what's happening on their most expensive silicon.…",
+    "t": "Datadog צוללת לעומקי יעילות GPU כעלויות AI מתפוצצות\n\nDatadog הוסיפה ניטור GPU חדש לפלטפורמת ה-observability שלה, והעניקה לארגונים שיודעים AI ראיית נשר על מה שקורה בדיוק בחומרה הכי יקרה שלהם - בדיוק בזמן שעלויות ה-AI משתלטות על תקציבי ה-IT. עבור ארגונים שמחפשים להחזיק שליטה על ההוצאות שלהם, הזה בדיוק הכלי שחיפשו. המה של The Register",
     "d": "2026-04-23T15:33:40.000Z",
     "v": 0,
     "l": [
@@ -522,7 +506,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "Intel shutters open-source evangelism program and archives key community projects — closures point to significant shift in open-source leadership\n\nThe latest round of GitHub closures underscores a broader pullback in Intel's open-source footprint amid ongoing restructuring.",
+    "t": "אינטל סוגרת את תוכנית הבשורה החופשית ומארכיבה פרויקטים קהילתיים מרכזיים — סימנים לשינוי משמעותי בהנהגת הקוד הפתוח\n\nאינטל משנה כיוון משמעותי בעולם הקוד הפתוח - החברה סוגרת פרויקטים קהילתיים חשובים והפוגעת בתוכנית ההבשורה שלה, וזה חלק מהתכנסות גדולה יותר של הרגל הקוד הפתוח שלה בעקבות ההיערכויות הארגוניות. זה לא רק חוסם מספר repositories בGitHub - זה אות ברורה שאינטל משקללת מחדש את התחייבותה לקהילה הטכנולוגית הפתוחה.",
     "d": "Thu, 23 Apr 2026 15:25:32 +0000",
     "v": 0,
     "l": [
@@ -545,7 +529,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "Crypto scam takes advantage of Strait of Hormuz crisis by taking fake payments, leading to two ships being fired upon — two vessels reportedly fell victim and paid fake 'Iranian authorities'\n\nTwo vessels waiting to transit the Strait of Hormuz reportedly fell victim to scammers posing as Iranian authorities and asking for transit fee payments in crypto.",
+    "t": "תרמילאים מנצלים את משבר ממלוכת הורמוז: הונים אוניות בתרמית crypto לטובת 'רשויות איראניות' מזויפות\n\nשתי אוניות שחיכו לעבור דרך ממלוכת הורמוז נפלו קורבן לתרמילים שהתחזו לרשויות איראניות ודרשו תשלום בעלויות מעבר בקריפטו. במצב משבור וחרדה שתופסת את עולם הספנות, הונו הצוותים לשלם סכומים למה שחשבו שהוא בעבור סמכות מחוק, כשהתברר שכל זה הייתה רק תרמית ידעה שרימתה את המצב.",
     "d": "Thu, 23 Apr 2026 15:24:17 +0000",
     "v": 0,
     "l": [
@@ -562,13 +546,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/i5qRY6okF8vT8fuXXmgptW-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 24,
-    "t": "Anthropic surpasses biggest rival OpenAI in secondary market valuation — surges to $1 trillion amid frantic investor interest\n\nAnthropic’s secondary market valuation has reportedly surged to $1 trillion, surpassing OpenAI’s $880 billion, driven by intense investor demand for AI exposure, and highlighting speculative pricing in secondary markets.",
+    "t": "אנתרופיק עוקפת את OpenAI בשווקי המשנה - הערכה של טריליון דולר!\n\nאנתרופיק זה עתה הגיעה להערכה של טריליון דולר בשוק המשנה, ועוקפת את OpenAI שמוערכת ב-880 מיליארד דולר. זה אומר שהביקוש של משקיעים ל-AI exposure הוא פשוט מטורף, אבל זה גם מראה שהמחירים בשווקים המשניים יכולים להיות꽤 speculativi ולא תמיד משקפים את המציאות.",
     "d": "Thu, 23 Apr 2026 15:11:30 +0000",
     "v": 0,
     "l": [
@@ -582,21 +566,19 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Anthropic"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/ScT7C9WsuqruarWf3kSRRG-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 25,
-    "t": "Tesla shares fall after results. But this market speculation may keep the stock afloat for a while\n\nThe chatter is about a potential merger with SpaceX, Elon Musk's breakout rocket company that is set to go public later this year at a valuation approaching $2 trillion.",
+    "t": "מניית טסלה צונחת אחרי התוצאות. אבל הספקולציה בשוק עלולה להחזיק אותה למעלה לעוד זמן\n\nהשמועות בשוק מדברות על merge פוטנציאלי בין טסלה לספייס-אקס, חברת הרקטות של אילון מאסק שצפויה להיכנס לבורסה בהערכת שווי של כ-2 טריליון דולר. נראה שהציבור משוקד על הרעיון הזה, וזה בדיוק מה שיכול להציל את מניית טסלה מעיתוי קשה.",
     "d": "Thu, 23 Apr 2026 15:07:05 GMT",
     "v": 0,
     "l": [
@@ -611,8 +593,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -620,7 +601,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 26,
-    "t": "ChatGPT’s Tool for Ordering Starbucks Is So Staggeringly Bad That It’s Breaking Containment\n\nWho is this for?\nThe post ChatGPT’s Tool for Ordering Starbucks Is So Staggeringly Bad That It’s Breaking Containment appeared first on Futurism.",
+    "t": "הכלי של ChatGPT להזמנת קפה בסטארבוקס כל כך גרוע שהוא מתפוצץ ברשת\n\nOpenAI ניסתה לתת ל-ChatGPT יכולת להזמין קפה בסטארבוקס, אבל התוצאה היא כל כך קטלנית שכולם מדברים על זה. בוט שלא יודע אפילו לסדר כוס קפה כמו שצריך - זה סימן קריטי לעד כמה יש עוד דרך ארוכה לפני שהAI באמת יכול לטפל במשימות מעשיות.",
     "d": "Thu, 23 Apr 2026 11:02:30 -0400",
     "v": 0,
     "l": [
@@ -646,7 +627,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 27,
-    "t": "BMW bumps the 7 Series for 2027, adds all-new battery\n\nThe 2027 7 Series is available as an EV, with an inline-six, or an inline-six PHEV.",
+    "t": "BMW משדרגת את ה-7 Series לשנת 2027 עם סוללה חדשה לחלוטין\n\nבי.מ.וו הביאה לשוק את ה-7 Series החדשה לשנת 2027 עם שלוש אפשרויות כוח: גרסת EV טהורה, מנוע אינליין-סיקס קלאסי, וגרסת PHEV היברידית. זה סימן משמעותי בדרך יצרנית המכוניות הגרמנית לעתיד היותר חשמלי, תוך שהיא שומרת על הגמישות לצרכנים שעדיין מעדיפים נפט או היברידיות.",
     "d": "Thu, 23 Apr 2026 15:01:11 +0000",
     "v": 0,
     "l": [
@@ -670,7 +651,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 28,
-    "t": "Stop measuring AI training costs in GPU hours\n\nWhy idle time, checkpointing, and cluster failures are quietly inflating your training budget Partner Content  The cost of training today’s large-scale foundation models is often reduced to a single number: the price of a GPU hour. It's a convenient metric. It is also the wrong one. When training runs can cost tens or even hundreds of millions of dollars, operating AI at scale requires a deeper understanding of the underlying economics.…",
+    "t": "תפסיקו למדוד את עלויות AI באחד הם של GPU\n\nמסתבר שחישוב עלויות training של מודלים ענקיים לפי שעות GPU זה עמוק יותר מאשר סתם להכפיל מחיר בשעות. כשהאימונים עולים עשרות או מאות מיליוני דולרים, צריך להביא בחשבון זמנים שבהם ה-GPU עומד בחוסר שימוש, זיכרון שנשמר מראש (checkpointing), וכשלים במערכת שמעלים את הביל עלעיל. הרגולוציה הזאת של סך העלויות היא בעצם תגרום לחברות לשוב ולהעריך את כל מודל ה-infrastructure שלהם.",
     "d": "2026-04-23T15:00:12.000Z",
     "v": 0,
     "l": [
@@ -696,7 +677,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 29,
-    "t": "SpaceX says it is going to begin manufacturing GPUs — $1.75 trillion IPO listing reportedly includes in-house GPU production\n\nElon Musk's SpaceX set to produce 'own GPUs' at its own multi-billion fab as the company warns that it may be unable to purchase all the silicon it needs to meet its goals.",
+    "t": "SpaceX מתכננת לייצר GPUs משלה — ה-IPO בשווי 1.75 טריליון דולר כולל ייצור שבבים משלה\n\nחברת ספייס-אקס של אלון מאסק עומדת להקים מפעל ענק משלה לייצור GPUs, כי החברה חוששת שלא תוכל לקנות מספיק שבבים בשוק הפתוח כדי להשיג את המטרות שלה. המהלך הזה חלק מתוכנית ה-IPO המסתורית שדיווחו עליה בשווי 1.75 טריליון דולר, וזה עוד הוכחה שמאסק לא משאיר כלום להסתמך על גורמים חיצוניים כשמדובר בתשתיות קריטיות.",
     "d": "Thu, 23 Apr 2026 15:00:10 +0000",
     "v": 0,
     "l": [
@@ -714,16 +695,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "hardware",
-      "funding"
+      "hardware"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/voDLanHmcp7is6VSiU2Qea-1280-80.png",
     "source": "Tom's Hardware"
   },
   {
     "id": 30,
-    "t": "Everpure 'takes the hit' as AI-fueled supply crunch drives prices up 70%\n\nStorage vendor predicts current crunch will outlast COVID disruptions The supply crunch gripping the storage market has pushed Everpure – the artist formerly known as Pure Storage – to reassure customers it won't make things worse.…",
+    "t": "אברפיור סופגת את ההכאה כמחסור AI משאיב את המחירים ל-70%\n\nספק אחסון חזוי מתחזק שהמחסור הנוכחי יוביל עוד יותר מאשר ההשפעות של COVID. בשל קוצר ההיצע בשוק האחסון, אברפיור (פעם הייתה known כ-Pure Storage) מנסה להרגיע את הלקוחות שלא תחמיר את המצב. במחירים שקופצים ב-70%, החברה עומדת בחזית סערת AI האלו הפוגעת בזמינות רכיבים בשוק.",
     "d": "2026-04-23T14:57:19.000Z",
     "v": 0,
     "l": [
@@ -746,7 +726,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 31,
-    "t": "UK spy agency releases malware-blocking gadget for HDMI and DisplayPort cables — SilentGlass blocks malicious traffic traveling between display and computer\n\nThe NCSC, a part of the British GCHQ, has deployed this protective gadget throughout various government estates and is now making it publicly available through Goldilock Labs.",
+    "t": "סוכנות המודיעין הבריטית חשפה גאজט חדש שחוסם מלוור דרך כבלי HDMI ו-DisplayPort\n\nה-NCSC, חלק מ-GCHQ הבריטית, השתמשה בכלי הגנה חדש ומעניין שנקרא SilentGlass כדי לחסום תעבורה זדונית בין המסך והמחשב, והם החליטו להוציא אותו לציבור הרחב דרך Goldilock Labs. זה בעצם מכשיר שיכול להציל לך את הישבן אם מישהו ניסה להסתתר במסמך ההצפנה שלך דרך הכבל שלך.",
     "d": "Thu, 23 Apr 2026 14:52:23 +0000",
     "v": 0,
     "l": [
@@ -763,13 +743,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/CQ4CfTn7QLjSMf3oMbjYoX-1280-80.png",
     "source": "Tom's Hardware"
   },
   {
     "id": 32,
-    "t": "Greenhouse gases from data center boom could outpace entire nations\n\nPlants from OpenAI, Meta, xAI, and Microsoft could emit more than 129M tons annually.",
+    "t": "פליטות גזי חממה ממרכזי נתונים יכולות להעלות על עמים שלמים\n\nמוקדי הנתונים של OpenAI, Meta, xAI ו-Microsoft יכולים לפלוט מעל 129 מיליון טון של גזי חממה בשנה - כמות שתגביר משמעותית את ההשפעה הסביבתית של המהפכה ב-AI. לעומת זאת, המהירות שבה חברות הטכנולוגיה בונות ומרחיבות מרכזים אלה מעלה שאלות קשות על המחיר האמיתי של הפיתוח של מודלים גדולים של AI.",
     "d": "Thu, 23 Apr 2026 14:51:16 +0000",
     "v": 0,
     "l": [
@@ -798,7 +778,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 33,
-    "t": "China claims 6,000x more compute power than benchmarks, 1,882 quintillion calculations per sec\n\nChina’s artificial intelligence (AI) ambitions may be far larger than previously understood. Reports suggest that...",
+    "t": "סין טוענת לעוצמת חישוב גדולה 6,000 פעמים מהבנצ'מארקים - 1.88 קווינטיליון חישובים בשנייה\n\nסין כנראה משחקת משחק הרבה יותר גדול בתחום ה-AI מאשר חשבנו עד עכשיו. בעוד שהעולם עוקב אחרי ההתפתחויות הסיניות דרך הבנצ'מארקים הרגילים, כנראה שיש לסין כוח חישוב שלא דיברנו עליו בכלל - דיווחים מצביעים על עוצמה שהיא בכמה אלפים גדולה ממה שראינו עד כה. אם זה נכון, זה משנה לגמרי את המשחק בתחרות ה-AI הגלובליות.",
     "d": "Thu, 23 Apr 2026 14:43:51 +0000",
     "v": 0,
     "l": [
@@ -815,7 +795,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "Interesting Engineering"
   },
@@ -940,7 +920,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 39,
-    "t": "China teases nuclear-powered aircraft carrier in new video\n\nA video released by Chinese state media appears to show a nuclear-powered aircraft carrier, suggesting...",
+    "t": "סין חושפת בווידיאו חדש:航母 בכוח גרעיני\n\nתקשורת ממשלתית סינית פרסמה ווידיאו שמציע שהסינים מפתחים航母 (נושאת מטוסים) המופעלת בכוח גרעיני - מהלך שיכול לשנות את היחסים הצבאיים בים בתכלית. זה לא בדיוק סיום חדשות, אבל זה בטח סימן שהתחרות הגדולה בים מתעצמת ממש.",
     "d": "Thu, 23 Apr 2026 13:59:07 +0000",
     "v": 0,
     "l": [
@@ -1043,7 +1023,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 43,
-    "t": "World’s first offshore ocean heat energy platform installed to replace 25 GW fossil power\n\nA UK clean energy firm, Global OTEC, on Wednesday announced it has completed the offshore...",
+    "t": "פלטפורמת אנרגיית חום ימית חדשה בעולם הותקנה בים - תחליף ל-25 ג'יגוואט של דלקים מזהמים\n\nחברת טכנולוגיה בריטית בשם Global OTEC הודיעה שהשלימה את התקנת הפלטפורמה הראשונה בעולם שמנצלת את חום האוקיינוס לייצור חשמל. המערכת המהפכנית הזו יכולה להחליף כמות אנרגיה המקבילה ל-25 ג'יגוואט שמייצרות ככרגע תחנות כוח המזהמות ומעלות פחמן דו-חמצני לאטמוספירה.",
     "d": "Thu, 23 Apr 2026 13:31:41 +0000",
     "v": 0,
     "l": [
@@ -1112,7 +1092,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 46,
-    "t": "World’s first battery-methanol harbor tug with 6 MWh battery finishes sea trials\n\nThe most powerful electric tugboat in the world has successfully completed sea trials and is...",
+    "t": "קוטר נמל עם סוללת מתנול - הראשון בעולם עם סוללה של 6 MWh סיים בדיקות בים\n\nהסירת גרירה החשמלית החזקה בעולם סיימה בהצלחה בדיקות בים, והיא משלבת טכנולוגיית סוללה מתקדמת עם יכולות methanol כדי להפעיל עצלים כבדים בנמלים. הפרויקט הזה מסמן צעד ענקי בכיוון של הנמלות ירוקים והפחתת פליטות בתחבורה ימית. זה לא רק טוב לסביבה - זה גם משנה את כללי המשחק של הנדסה ימית מודרנית.",
     "d": "Thu, 23 Apr 2026 13:18:36 +0000",
     "v": 0,
     "l": [
@@ -1158,7 +1138,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 48,
-    "t": "SR-1 Freedom: NASA plans to launch its first nuclear-powered Mars spacecraft in 2028\n\nFollowing a December 2025 executive order prioritizing “American space superiority,” NASA is advancing nuclear propulsion...",
+    "t": "SR-1 Freedom: נאס״א מתכננת לשגר את חללית מאדים המונעת על ידי אנרגיה גרעינית ב-2028\n\nנאס״א מזרזת את פרויקט ההנעה הגרעינית שלה כחלק מתוכנית למצוות החלל של אמריקה - ותכננה להשיק את SR-1 Freedom לעבר מאדים בעוד שלוש שנים בלבד. הטכנולוגיה הגרעינית תאפשר למשימה להגיע למאדים הרבה יותר מהר מחללית קונבנציונלית, מה שיעשה את התחרות בחלל קצת יותר מעניינת.",
     "d": "Thu, 23 Apr 2026 13:09:14 +0000",
     "v": 0,
     "l": [
@@ -1277,7 +1257,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 53,
-    "t": "The billion-dollar startup with a different idea for AI\n\nA billion dollars in startup funding for a company that employs 12 people is an indication that investors still have faith in AI. But the founder of the startup in question – AMI Labs’ Yann LeCun – believes that the breed of technology we currently term AI (large language models) is not the way through […]\nThe post The billion-dollar startup with a different idea for AI appeared first on AI News.",
+    "t": "סטארטאפ בערך מיליארד דולר עם חזון שונה לעתיד ה-AI\n\nיאן לקון, מייסד AMI Labs, אספף מיליארד דולר בהשקעות למרות שלחברה יש רק 12 עובדים - וזה מעיד על האמונה של משקיעים בעתיד ה-AI. אבל בניגוד להשקפה השוררת, לקון חושב שה-LLMs הגדולים שכולם מדברים עליהם זה לא הדרך הנכונה להתקדם, ויש לו חזון אחר לחלוטין לאיך צריך להיראות הטכנולוגיה הבאה.",
     "d": "Thu, 23 Apr 2026 12:30:00 +0000",
     "v": 0,
     "l": [
@@ -1292,10 +1272,9 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "AI News"
   },
@@ -1467,7 +1446,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 61,
-    "t": "Here’s how our TPUs power increasingly demanding AI workloads.\n\nLearn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
+    "t": "ככה ה-TPUs שלנו מנהלים עומסי עבודה של AI יותר ויותר דורשניים\n\nגוגל החליטה להציג סרטון חדש שמסביר איך ה-TPUs שלה מצליחים להתמודד עם דרישות ה-AI שגדלות כל יום - בין אם זה מודלים ענקיים או תהליכים מורכבים שדורשים כוח חישוב משמעותי. זה סיפור די מעניין על איך הם בנו חומרה משוכללת שמתאימה בדיוק לצרכי התעשייה. | מקור: Google AI Blog",
     "d": "Thu, 23 Apr 2026 12:00:00 +0000",
     "v": 0,
     "l": [
@@ -1539,7 +1518,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 64,
-    "t": "US: Scientists catch ‘lightning in a bottle’ to convert methane into clean fuel\n\nResearchers at Northwestern University in the US have successfully produced methanol from methane gas using...",
+    "t": "ארה״ב: מדענים תפסו 'ברק בבקבוק' להמרת מתאן לדלק נקי\n\nחוקרים מאוניברסיטת נורת'וסטרן בארה״ב הצליחו להפוך גז מתאן למתנול בתהליך חדשני שנראה כמו ניסיון שנתפס בדיוק בזמן. הדבר יכול להוביל לפתרון משמעותי לבעיית פליטות גז דלוקה שמבזבז משאבים טבעיים ערכיים. זה כמו שחזרנו ממציאים את הגלגל בעולם האנרגיה הנקייה! | מקור: Interesting Engineering",
     "d": "Thu, 23 Apr 2026 11:37:35 +0000",
     "v": 0,
     "l": [
