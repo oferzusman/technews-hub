@@ -107204,14 +107204,14 @@
       "source": "The Verge AI",
       "title_en": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
       "description_en": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spotify, Uber, AllTrails, TripAdvisor, Instacart, TurboTax, and others. \nSome of these apps, such as Spotify, already have similar connectors in OpenAI's ChatGPT. Once an app is connected, Claude will suggest rele",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "Claude מתחבר ישירות לאפליקציות האישיות שלך כמו Spotify, Uber Eats ו-TurboTax",
+      "description_he": "Anthropic פותחת את הקשתות של Claude עם connectors חדשים לאפליקציות אישיות - מ-Spotify ו-Uber Eats ועד Instacart ו-TurboTax. זה בעצם אומר שהAI של Anthropic יוכל לעזור לכם לנהל כל מה שאתם עושים בחיים - מתכנון טיול ב-AllTrails, הזמנת אוכל, עד מילוי דיווח מס. OpenAI כבר עשתה משהו דומה עם ChatGPT, אבל Anthropic בחרה להרחיב למגוון אפליקציות חדש שמכסה הרבה יותר מה-use cases היומיומיים שלנו.",
       "link": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
       "image_url": null,
       "pub_date": "2026-04-23T22:27:11.000Z",
       "author": "Stevie Bonifield",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-23T22:41:16.880Z",
       "created_at": "2026-04-23T22:41:16.880Z"
@@ -107221,8 +107221,8 @@
       "source": "Ars Technica",
       "title_en": "US accuses China of “industrial-scale” AI theft. China says it’s “slander.”",
       "description_en": "Trump-Xi summit may be rocked by US mulling huge sanctions.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ארצות הברית מאשימה את סין בגניבת AI בקנה מידה תעשייתי. סין: זה 'השמצה'",
+      "description_he": "היחסים בין ארה״ב לסין התחממו שוב - הפעם סביב גניבת טכנולוגיות AI. ארצות הברית מתכננת כעת הטלת סנקציות כבדות מאוד, דבר שעלול לזעזע את הפגישה הקרובה בין טראמפ וקסי. סין כמובן שוללת את ההאשמות ומכנה את כל זה תעמולה.",
       "link": "https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1195493804-1152x648-1776978131.jpg",
       "pub_date": "Thu, 23 Apr 2026 21:45:10 +0000",
@@ -107240,7 +107240,7 @@
         "openai",
         "US-China relations"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-23T22:41:16.917Z",
       "created_at": "2026-04-23T22:41:16.917Z"
@@ -107250,8 +107250,8 @@
       "source": "Ars Technica",
       "title_en": "Carbon nanotube wiring gets closer to competing with copper",
       "description_en": "While this material degrades over time, it could point to better ones.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "תילים מ-Carbon Nanotube מתקרבים להתחרות עם נחושת",
+      "description_he": "חוקרים מתקדמים בכיוון של חלופה למוליכות המסורתית - חומר חדש שלמרות שמתדרדר עם הזמן, עלול לפתוח דלתות לחומרים אפילו טובים יותר בעתיד. זה יכול להיות משחק חדש לתעשיית האלקטרוניקה.",
       "link": "https://arstechnica.com/science/2026/04/researchers-get-carbon-nanotube-wiring-to-conduct-more-like-copper/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-157692460-1152x648.jpg",
       "pub_date": "Thu, 23 Apr 2026 21:22:09 +0000",
@@ -107265,7 +107265,7 @@
         "materials science",
         "Physics"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-23T22:41:16.917Z",
       "created_at": "2026-04-23T22:41:16.917Z"
@@ -107275,8 +107275,8 @@
       "source": "Ars Technica",
       "title_en": "We still don't have a more precise value for \"Big G\"",
       "description_en": "Such experiments bring \"order to the universe, whether or not the number agrees with the expected value.”",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "אנחנו עדיין לא יודעים את הערך המדויק של \"Big G\"",
+      "description_he": "מחקרים חדשים ממשיכים לנסות לפין את קבוע הגרביטציה של ניוטון, והממצאים מעניינים אם כי עדיין לא מסתדרים עם מה שציפינו. בכל מקרה, ניסויים כאלה עוזרים לנו להבין את היקום טוב יותר, גם אם המספרים לא תמיד מסכימים.",
       "link": "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/bigG1-1152x648.jpg",
       "pub_date": "Thu, 23 Apr 2026 20:57:35 +0000",
@@ -107288,7 +107288,7 @@
         "gravitational constant",
         "Physics"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-23T22:41:16.917Z",
       "created_at": "2026-04-23T22:41:16.917Z"
@@ -107298,8 +107298,8 @@
       "source": "Ars Technica",
       "title_en": "In a first, a ransomware family is confirmed to be quantum-safe",
       "description_en": "Technically speaking, there's no practical benefit to use PQC. So why is it being used?",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "לראשונה: משפחת ransomware מאומתת כעמידה לקוונטום",
+      "description_he": "למי שחושב שזה רק עניין של עתיד רחוק - טעות. הקriminals כבר מתחילים להשתמש בהצפנה עמידה לקוונטום (PQC), גם שלא יש לזה הרבה טעם מעשי כרגע. המחקר חושף משהו חשוב: התוקפים בפעם הראשונה מיישמים טכנולוגיה קוונטום-סייפ ב-ransomware, כלומר הם כבר חושבים לעתיד כשיהיו קומפיוטרים קוונטיים חזקים באמת.",
       "link": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg",
       "pub_date": "Thu, 23 Apr 2026 20:41:23 +0000",
@@ -107312,7 +107312,7 @@
         "quantum cryptography",
         "ransomware"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-23T22:41:16.917Z",
       "created_at": "2026-04-23T22:41:16.917Z"
@@ -107322,8 +107322,8 @@
       "source": "MarkTechPost",
       "title_en": "OpenAI Releases GPT-5.5, a Fully Retrained Agentic Model That Scores 82.7% on Terminal-Bench 2.0 and 84.9% on GDPval",
       "description_en": "The model targets the full stack of computer work — coding, research, data analysis, and software operation — without needing a human to supervise every step\nThe post OpenAI Releases GPT-5.5, a Fully Retrained Agentic Model That Scores 82.7% on Terminal-Bench 2.0 and 84.9% on GDPval appeared first on MarkTechPost.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "OpenAI השיקה את GPT-5.5 - מודל עצמאי שאומן מחדש לחלוטין עם ביצועים מדהימים",
+      "description_he": "OpenAI הביעה את GPT-5.5, מודל חדש וחזק שיכול לעבוד באופן עצמאי בכל תחומי העבודה הדיגיטלית - תכנות, מחקר, ניתוח נתונים וניהול תוכנות - בלי שצריך שמישהו יראה על כתפו בכל צעד. המודל הזה היא ממש משהו אחר עם ניקוד מרשים של 82.7% ב-Terminal-Bench ו-84.9% ב-GDPval, כלומר זה כמו לתת ל-AI לעבוד לבד בשולחן העבודה. זו אחת ההודעות הגדולות בתחום ה-AI בשנים האחרונות.",
       "link": "https://www.marktechpost.com/2026/04/23/openai-releases-gpt-5-5-a-fully-retrained-agentic-model-that-scores-82-7-on-terminal-bench-2-0-and-84-9-on-gdpval/",
       "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-23-at-2.57.37-PM.png",
       "pub_date": "Thu, 23 Apr 2026 22:11:30 +0000",
@@ -107343,7 +107343,7 @@
         "Tech News",
         "Technology"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-23T22:41:18.277Z",
       "created_at": "2026-04-23T22:41:18.277Z"
@@ -107353,8 +107353,8 @@
       "source": "Tom's Hardware",
       "title_en": "Intel CEO says he can 'think of no better partner than Elon Musk' to explore 'unconventional' ways to improve chip manufacturing — TeraFab partnership aims to rethink how chips are made to reduce costs",
       "description_en": "Intel CEO Lip-Bu Tan commented on the company's partnership with Elon Musk's TeraFab project, but details about the relationship are still light.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מנכ\"ל אינטל: אין לי שותף טוב יותר מאלון מאסק לתהליך ייצור שבבים מהפכני — התשותפות עם TeraFab מטרתה להוריד עלויות",
+      "description_he": "מנכ\"ל אינטל הבעיר תגובות חיוביות על התשותפות של החברה עם פרויקט TeraFab של אלון מאסק, שמטרתו לחשוב מחדש על דרך ייצור השבבים בשביל להוריד עלויות. כרגע עדיין לא ברורים כל הפרטים על ההשתתפות המדויקת של מאסק בדרך, אבל נראה שזה יכול להיות עסקה די גדולה בעולם ה-chip manufacturing.",
       "link": "https://www.tomshardware.com/tech-industry/intel-ceo-says-he-can-think-of-no-better-partner-than-elon-musk-to-explore-unconventional-ways-to-improve-chip-manufacturing-terafab-partnership-aims-to-rethink-how-chips-are-made-to-reduce-costs",
       "image_url": "https://cdn.mos.cms.futurecdn.net/EZCTC9MCaqNdiAMUCqPqEK-1280-80.jpg",
       "pub_date": "Thu, 23 Apr 2026 22:15:57 +0000",
@@ -107362,7 +107362,7 @@
       "categories": [
         "Tech Industry"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-23T22:41:22.009Z",
       "created_at": "2026-04-23T22:41:22.009Z"
