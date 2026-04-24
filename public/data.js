@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Stretchable electronic skin lets robotic hand feel touch and pressure signals\n\nStretchable, transparent electronics that can bend, roll, and even mimic human skin are moving closer...",
+    "t": "עור אלקטרוני מתיח המאפשר ליד רובוטית להרגיש מגע ולחץ\n\nמדענים פיתחו אלקטרוניקה שקופה וגמישה שיכולה להתכופף ולהתגלגל כמו עור אנושי - וזה כבר בדרך להפוך להכנה אמתית של רובוטים. הטכנולוגיה החדשה הזו תאפשר לרובוטים לחוש במגע ובלחץ בצורה שדומה הרבה יותר לבני אדם, מה שתוביל לאינטראקציות הרבה יותר טבעיות וחכמות. זה משנה משחק במלחמה בין בני אדם לחלוקי סיליקון!\n\nמקור: Interesting Engineering",
     "d": "Fri, 24 Apr 2026 19:23:22 +0000",
     "v": 0,
     "l": [
@@ -16,8 +16,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -25,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Chinese Netflix Competitor Opens Floodgates to AI Slop\n\nSorry, C-drama fans.\nThe post Chinese Netflix Competitor Opens Floodgates to AI Slop appeared first on Futurism.",
+    "t": "תחרות סינית של נטפליקס פותחת את שערי ה-AI Slop\n\nעדכון לא כל כך טוב למעריצי הסדרות הסיניות: פלטפורמת הסטרימינג הסינית החליטה להציף את התוכן שלה בתכנים שנוצרו על ידי AI, מה שמעלים חששות על איכות התוכן והשפעתו על יוצרי הקול האדם בתעשיית הבידור. זה עוד דוגמה למהירות שבה חברות משתמשות ב-AI כדי להוזיל עלויות, בעלויות המשלמים - במקרה הזה, הצופים שלנו.",
     "d": "Fri, 24 Apr 2026 15:13:56 -0400",
     "v": 0,
     "l": [
@@ -48,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Amazon custom chips get a boost from Meta, giving the cloud giant another path to win in AI\n\nAmazon hits a record high after its new Meta deal highlights how AWS is gaining traction in AI through both cloud capacity and its custom chips.",
+    "t": "שבבים מותאמים של אמזון מקבלים דחיפה מ-Meta, והענקן בענן מוצא דרך חדשה לנצח ב-AI\n\nאמזון הגיעה לשיא חדש אחרי העסקה החדשה עם Meta, ובכך מוכיחה שה-AWS משלטת בשוק ה-AI לא רק בעניין קיבולת ענן אלא גם דרך השבבים המתקדמים שלה. הפתיחה הזו מחזקת את המיצב של אמזון כשחקן משמעותי בתחרות ה-AI, בעודה משתמשת בטכנולוגיית בית שלה במקום להסתמך על ספקים חיצוניים.",
     "d": "Fri, 24 Apr 2026 19:11:46 GMT",
     "v": 0,
     "l": [
@@ -76,7 +75,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "How a new Amazon-backed Hollywood production startup deploys AI for speed and cost-cutting\n\nA new AI-powered hybrid Hollywood startup backed by AWS is betting that cutting-edge production tech can cut costs, speed up filming and bring jobs back to LA.",
+    "t": "איך סטארטאפ הליווד החדש שנתמך על ידי אמזון משתמש ב-AI כדי לחסוך זמן וכסף\n\nסטארטאפ חדש המופעל על ידי AI ותומך על ידי AWS מהמר שטכנולוגיית ייצור מהדורה חדשה יכולה לחתוך עלויות, להאיץ הפקות וליצור מקומות עבודה בחזרה ללוס אנג'לס. בעידן שבו ההוצאות בהוליווד הולכות לשמיים, חברה זו באה עם פתרון AI שיכול להפוך את כללי המשחק של ייצור תוכן - ופוטנציאל גדול למטה בעלויות המיוצר.",
     "d": "Fri, 24 Apr 2026 19:06:39 GMT",
     "v": 0,
     "l": [
@@ -102,7 +101,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "8 Gemini tips for organizing your space (and life)\n\nOrganize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
+    "t": "8 טיפים של Gemini לארגון הבית והחיים שלכם\n\nGoogle Gemini יכול להיות העוזר האישי שלכם בארגון הבית והמרחב הדיגיטלי - מתזמון ניקיון חכם ועד ניקוי תיבת הדוא״ל שנשמרה בחודשים האחרונים. AI של Google מציע טיפים מעשיים לניהול משימות עונתיות וארגון שיומי, כי למה לעשות הכל בכוח האדם כשיש לנו עוזר בענן. [מקור: Google AI Blog]",
     "d": "Fri, 24 Apr 2026 19:00:00 +0000",
     "v": 0,
     "l": [
@@ -128,7 +127,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets\n\nAnthropic said its latest agreement with Google expands on a longstanding partnership between the two companies.",
+    "t": "גוגל מתכננת להשקיע עד 40 מיליארד דולר בAnthropric - ענקית החיפוש מפזרת את ההימורים שלה ב-AI\n\nבהסכם חדש שלה עם Anthropic, גוגל מעמיקה את השותפות ארוכת המועד עם חברת ה-AI, במהלך שמראה שגם ענקיות הטק לא שמות את כל הביצים בסל אחד בתחום הבינה המלאכותית. בעיסקה שפחות מאשנה את הכול, גוגל בעצם מהמרת מיליארדים כדי שיהיו לה מספר שחקנים חזקים בעולם AI ולא תישארה תלויה בחברה אחת.",
     "d": "Fri, 24 Apr 2026 18:32:44 GMT",
     "v": 0,
     "l": [
@@ -142,21 +141,19 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Google",
       "Anthropic"
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 7,
-    "t": "OpenAI's chief scientist says AI progress has been \"surprisingly slow\" and promises big leaps ahead\n\nOpenAI has released GPT-5.5, and the company's leadership says the real breakthroughs are still ahead. Chief scientist Jakub Pachocki expects \"extremely significant improvements\" in the medium term, calling recent AI progress \"surprisingly slow.\"\nThe article OpenAI's chief scientist says AI progress has been \"surprisingly slow\" and promises big leaps ahead appeared first on The Decoder.",
+    "t": "מדען ראשי של OpenAI: התקדמות ה-AI הייתה \"באופן מפתיע איטית\" והוא מבטיח קפיצות ענקיות בעתיד\n\nOpenAI השיקה את GPT-5.5 והנהלת החברה משדרת כי התגלויות האמיתיות עדיין לפנינו. יקוב פחוצקי, מדען ראשי החברה, מדבר על \"שיפורים קיצוניים\" בחודשים הקרובים, אבל מצד שני הוא מודה שההתקדמות בשנים האחרונות הייתה \"באופן מפתיע איטית\". בקיצור: גם OpenAI מודה שיש מקום לשיפור, אבל הם בטוחים שהפעם זה יהיה שונה.",
     "d": "Fri, 24 Apr 2026 18:31:15 +0000",
     "v": 0,
     "l": [
@@ -176,13 +173,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 8,
-    "t": "Intel's stock soars more than 20% as chipmaker shows signs of a turnaround\n\nShares of Intel have more than doubled this year on optimism that backing from the government will help the company's position in AI.",
+    "t": "מניית אינטל עולה ביותר מ-20% כשחברת הצ'יפים מראה סימני התאוששות\n\nאינטל חווה יום גדול בבורסה - המניה קפצה יותר מ-20% אחרי שחברת הצ'יפים הענקית הראתה סימנים ממשיים של התאוששות. בתחזוקות לשנה, המניה כבר הכפילה את עצמה, והשוק מהמר על כך שתמיכת ממשלתית וחזרה חזקה לשוק ה-AI יעזרו לאינטל לחזור לתחרותיות. זה גם לא חדש שאינטל התקשתה, אבל נראה שהפינגווין החל לזוז.",
     "d": "Fri, 24 Apr 2026 18:06:35 GMT",
     "v": 0,
     "l": [
@@ -205,7 +202,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Google to invest up to $40B in Anthropic in cash and compute\n\nGoogle plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+    "t": "גוגל מתכננת להשקיע עד 40 מיליארד דולר באנתרופיק בכסף וחישוביים\n\nגוגל עומדת להשקיע סכום ענק של עד 40 מיליארד דולר בחברת אנתרופיק, במהלך מרוץ מטורף בין ענקי ה-AI על קיבולת חישוביים עצומה. ההשקעה המשמעותית הזו מגיעה לאחר שאנתרופיק שחררה בתוך מחקר את Mythos, מודל AI חזק שפוקד על אבטחה קיברנטית וסייבר. המהלך של גוגל מראה כמה חיוני זה נהיה לשמור על העדר בתחום ה-AI בעידן של תחרות כלכלית קשה.",
     "d": "Fri, 24 Apr 2026 18:00:03 +0000",
     "v": 0,
     "l": [
@@ -218,15 +215,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google",
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "funding",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -234,7 +225,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "China’s DeepSeek unveils V4 AI model with 1M context window, targets US rivals\n\nThe artificial intelligence race is accelerating. OpenAI launched GPT-5.5 this week, while the White House...",
+    "t": "דיפסיק הסיני חושף דגם AI V4 עם חלון context של מיליון אלפים, מכוונת לתחרות בעלויות הנמוכות נגד המתחרים האמריקאיים\n\nהמרוץ ל-AI מתגבר: OpenAI הכניסה את GPT-5.5 השבוע, ובינתיים דיפסיק מהסין השיקה את ה-V4 שלה עם context window ענקי של מיליון token, בניסיון להפחית את הפער מול החברות האמריקאיות הגדולות. המודל החדש מסוגל להחזיק כמות עצומה של מידע בזיכרון שלו, מה שמאפשר לו להתמודד עם משימות מורכבות וארוכות בהרבה מהמתחרים. זה עוד כמובן שההשקעות הסיניות ב-AI הולכות וגוברות בהתמדה, ואנחנו רואים חברות כמו דיפסיק משיקות פתרונות חזקים שלוקחים מקום גם בעולם המערבי.\n\nמקור: Interesting Engineering",
     "d": "Fri, 24 Apr 2026 17:58:28 +0000",
     "v": 0,
     "l": [
@@ -260,7 +251,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "Millionaire Big Game Hunter Trampled to Death by Elephants\n\n\"Oh dear, how sad. Hope the elephants didn't hurt their feet.\"\nThe post Millionaire Big Game Hunter Trampled to Death by Elephants appeared first on Futurism.",
+    "t": "ציד גדול עשיר נדוס למוות על ידי פילים\n\nסיפור קשה מהשטח: ציד גדול אמיד נתקל בקבוצת פילים ונדוס למוות. כמו שאומרים, הטבע תמיד מנצח - ובמקרה הזה, הפילים הוכיחו שהם לא משהו שצריך להתעלל בהם.",
     "d": "Fri, 24 Apr 2026 13:56:41 -0400",
     "v": 0,
     "l": [
@@ -283,7 +274,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B\n\nA new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus.   Ternus may be inheriting one of the most durable businesses in tech, but he’s also stepping into a very different ecosystem than the one Cook spent decades shaping. The App […]",
+    "t": "המנהל החדש של אפל, וגם למה אלון מאסק רוצה לקנות את Cursor ב-60 מיליארד דולר\n\nעידן חדש מתחיל באפל - טים קוק עומד לזנוח את תפקידו כמנכ\"ל בספטמבר, והחליפין עוברות ליוחנן טרנוס, ראש הדיוויזיה של חומרה. טרנוס יורש עסק טכנולוגי ענק וחזק, אבל הוא נכנס לאקוסיסטם לחלוטין שונה מזה שקוק בנה במשך עשרות שנים.",
     "d": "Fri, 24 Apr 2026 17:45:57 +0000",
     "v": 0,
     "l": [
@@ -296,12 +287,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Apple"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -309,7 +297,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "Soldier won $410K in Polymarket bets on timing of Maduro capture, US alleges\n\nIt's like \"Pete Rose betting on his own team,\" Trump says of arrested soldier.",
+    "t": "חייל ניצח $410K בהימורים על Polymarket לגבי זמן מעצר מדורו, טוענים ארה\"ב\n\nסיפור משונה מהשבוע: חייל אמריקאי התעשר בהימורים על Polymarket - פלטפורמת הימורים בלוקצ'יין - על זמן מדויק של מעצרו של מדורו בוונצואלה. טראמפ השווה את זה ל'פיט רוז שהתערב על הקבוצה שלו', כי בוודאי שהחייל היה בעל מידע פנימי. המקרה קורע את דיון קריטי על רגולציה של פלטפורמות הימורים דיגיטליות ובחוקיות של סחר במידע סודי.",
     "d": "Fri, 24 Apr 2026 17:41:43 +0000",
     "v": 0,
     "l": [
@@ -355,7 +343,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "Meet the 19-meter Cretaceous kraken that swam with mosasaurs\n\nLayer by layer, researchers revealed the jaws of an ancient predator.",
+    "t": "פגשו את הקראקן של התקופה הקרטיאונית בן 19 מטר ששחה לצד הדינוזאורים הימיים\n\nחוקרים חשפו שכבה אחר שכבה את הלסתות של טורף עתיק שהיה משהו כמו חלליות הים של זמנו - יצור ענקי ומפחיד שהשתלט על האוקיינוסים לפני מיליוני שנים. התגלית הזו משנה את ההבנה שלנו על החיים המימיים בעיר הדינוזאורים.",
     "d": "Fri, 24 Apr 2026 17:23:49 +0000",
     "v": 0,
     "l": [
@@ -368,12 +356,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Header-5-scaled-1-1152x648.jpeg",
@@ -404,7 +389,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "Pentagon’s Google Gemini agent designer spawns 103,000 AI tools in five weeks\n\nDefense Department personnel have built over 103,000 semi-autonomous AI agents on the Pentagon’s internal AI...",
+    "t": "סוכן Google Gemini של הפנטגון יצר 103,000 כלים AI בחמישה שבועות בלבד\n\nכוחות הדיור של משרד ההגנה האמריקני השתמשו בפלטפורמה פנימית מבוססת Gemini כדי לבנות יותר מ-103,000 סוכנים AI חצי-אוטונומיים בזמן שיא - דבר שמעיד על הפוטנציאל העצום של AI בשימושים צבאיים וגם על המהירות שבה ניתן להפוך טכנולוגיה זו לממשית בארגונים גדולים. בעיקרו של דבר, הפנטגון הוכיח שאפשר לתת לעובדים כלים חכמים ולתוך שבועות ספורים הם כבר בונים אלפים של יישומים חדשים שיכולים לחסוך משאבים ולהאיץ תהליכים קריטיים.",
     "d": "Fri, 24 Apr 2026 17:02:52 +0000",
     "v": 0,
     "l": [
@@ -422,9 +407,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "robotics",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -506,7 +489,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "Report: Samsung execs worried company could lose money on smartphones for the first time\n\nThe AI-driven memory shortage is hitting Samsung's bottom line.",
+    "t": "דוח: בכירי סמסונג חוששים שהחברה עלולה להפסיד כסף על סמארטפונים בפעם הראשונה\n\nהמחסור בזיכרון שנגרם בעקבות הביקוש ל-AI משפיע קשה על הרווחיות של סמסונג. עם התחרות הגבוהה על צ'יפים מתקדמים, החברה הדרום-קוריאנית מוצאת את עצמה במצב לא נוח שבו הייצור של טלפונים נמצא תחת לחץ כלכלי חסר תקדים.",
     "d": "Fri, 24 Apr 2026 16:58:45 +0000",
     "v": 0,
     "l": [
@@ -523,7 +506,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-2-1152x648.jpg",
     "source": "Ars Technica"
   },
@@ -599,7 +582,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "CERN switches on 312-foot HiLumi LHC test stand for 10x particle collision boost\n\nScientists at CERN have made a massive achievement after they began powering a 312-foot test...",
+    "t": "CERN הדליקה תחנת בדיקה ענקית לחיזוק התנגשויות חלקיקים פי 10\n\nמדענים ב-CERN הצליחו בהישג דבר מרשים - הם הפעילו את תחנת הבדיקה HiLumi LHC בגודל 312 מטר, שתעזור לשפר את יכולת האטום סמאשר להתנגש בחלקיקים בעוצמה עשירית גבוהה יותר. הצעד הזה חשוב מאוד למדע הפיזיקה כי הוא יתן לחוקרים יכולת חדשה להבין את מהות החומר ויצירת היקום. זה כמו שה-iPhone התחדש גרסה חדשה - כאן בקנה מידה קוסמי!",
     "d": "Fri, 24 Apr 2026 16:19:03 +0000",
     "v": 0,
     "l": [
@@ -668,7 +651,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 28,
-    "t": "Melody: Humanoid robot masters 39 degrees of freedom to achieve lifelike presence\n\nIf you find yourself lost at the Venetian Resort during the Bitcoin 2026 Conference this...",
+    "t": "מלודי: רובוט הומנואידי שולט ב-39 דרגות חופש ויוצר נוכחות אנושית מדהימה\n\nרובוט חדש בשם מלודי הציג יכולות ניידות מרשימות עם 39 דרגות חופש שמאפשרות לו תנועות טבעיות כמו אדם אמיתי. זה לא סתם רובוט נוסף - המכונה הזאת כל כך יציבה וחיה שהיא התחילה לעבוד כמדריך בכנסי גדולים כמו ועידת הביטקוין. עם הקפיצה הזו בתחום הרובוטיקה, אנחנו לא מדברים על עתיד רחוק - זה קורה כאן ועכשיו.",
     "d": "Fri, 24 Apr 2026 15:48:13 +0000",
     "v": 0,
     "l": [
@@ -683,8 +666,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.youtube.com/embed/zRfEhPnkfHE",
@@ -692,7 +674,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 29,
-    "t": "Australia’s nuclear-submarine plan gets boost as US awards new AUKUS contract\n\nAustralia’s nuclear-submarine acquisition plan is inching a step closer to reality with the United States’...",
+    "t": "תוכנית הצוללות הגרעיניות של אוסטרליה מקבלת דחיפה חדשה עם חוזה AUKUS חדש של ארה\"ב\n\nאוסטרליה מתקדמת צעד נוסף בדרך להשגת צוללות גרעיניות משלה, לאחר שארה\"ב הענקה חוזה חדש במסגרת הגבר AUKUS. בצעד שיוצא מן הרוטינה לתקנון בינלאומי, שלוש המעצמות בעלות האמתלא מעדיפות להכין את אוסטרליה לצי תת-ימי מודרני ומאובזר. הדיל הנוכחי עשוי להיות משמעותי בהיווצרות איזון כוחות בהשפעות בדרום-מזרח אסיה.",
     "d": "Fri, 24 Apr 2026 15:39:10 +0000",
     "v": 0,
     "l": [
@@ -928,7 +910,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 39,
-    "t": "Australian physicist bends light with gravity, challenges Einstein’s assumption\n\nEnbang Li, a senior lecturer at the University of Wollongong’s School of Physics, has developed...",
+    "t": "פיזיקאי אוסטרלי עוקף את איינשטיין: מכופף אור בעזרת כוח הכבידה\n\nמדען בשם אנבנג לי מאוניברסיטת וולונגונג באוסטרליה הצליח לעשות משהו שנראה בלתי אפשרי - להשתמש בכוח הכבידה כדי לכופף אור בדרך שלא היתה צפויה לפי התאוריה של איינשטיין. התגלית הזאת יכולה להיות משמעותית למדע הפיזיקה ולהבנתנו את העולם סביבנו, והיא עוד דוגמה לאיך שהקטגוריה של מדע עדיין יכולה להפתיע אותנו. מקור: Interesting Engineering",
     "d": "Fri, 24 Apr 2026 15:00:13 +0000",
     "v": 0,
     "l": [
@@ -943,8 +925,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -1048,7 +1029,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 44,
-    "t": "Bat-inspired drones could improve search and rescue ops in dark\n\nA researcher at Worcester Polytechnic Institute (WPI) is developing drone navigation technology modeled on bat...",
+    "t": "רחפנים בהשראת עטלפים יכולים לשפר פעולות חיפוש והצלה בחושך\n\nחוקר בווסטר פוליטכניק עובד על טכנולוגיית ניווט לרחפנים המעוצבת על בסיס דרך ה-echolocation של עטלפים, מה שיאפשר להם לעבוד בחושך מוחלט וללא תלות בלוויינים. הטכנולוגיה החדשה הזו יכולה להיות משחק משנה בפעולות חיפוש והצלה בתנאים קשים, במיוחד כשהראות קשה מאוד או בתוך בניינים. מקור: Interesting Engineering",
     "d": "Fri, 24 Apr 2026 14:34:14 +0000",
     "v": 0,
     "l": [
@@ -1218,7 +1199,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 51,
-    "t": "Tim Cook is stepping down. What happens to Apple now?\n\nTim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus.   Ternus may be inheriting one of the most durable businesses in tech, but he’s also stepping into a very different ecosystemthan the one Cook spent decades shaping. The App Store’s 30% cut is under pressure, the behind-the-scenes power Apple once […]",
+    "t": "טים קוק עוזב. מה קורה עכשיו באפל?\n\nטים קוק מתפטר מתפקיד ה-CEO בספטמבר, והנהיגות עוברת ליוחנן טרנוס, ראש חטיבת החומware. טרנוס יורש עסק שהוא אחד העמידים ביותר בטכנולוגיה, אך הוא נכנס לאקוסיסטם שונה לגמרי מזה שקוק בנה במשך עשרות שנים - ה-App Store עומד תחת לחץ על הקומיסיון של 30%, והכוח מאחורי הקלעים של אפל כבר לא מה שהיה.",
     "d": "Fri, 24 Apr 2026 14:00:00 +0000",
     "v": 0,
     "l": [
@@ -1231,12 +1212,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Apple"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
