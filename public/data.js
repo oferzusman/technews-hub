@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "DeepSeek AI Releases DeepSeek-V4: Compressed Sparse Attention and Heavily Compressed Attention Enable One-Million-Token Contexts\n\nDeepSeek-AI has released a preview version of the DeepSeek-V4 series: two Mixture-of-Experts (MoE) language models built around one core challenge making one-million-token context windows practical and affordable at inference time. The series consists of DeepSeek-V4-Pro, with 1.6T total parameters and 49B activated per token, and DeepSeek-V4-Flash, with 284B total parameters and 13B activated per token. […]\nThe post DeepSeek AI Releases DeepSeek-V4: Compressed Sparse Attention and Heavily Compre",
+    "t": "DeepSeek משחררת DeepSeek-V4: Compressed Sparse Attention המאפשרת חלון קונטקסט של מיליון טוקנים\n\nDeepSeek-AI חשפה את סדרת DeepSeek-V4 החדשה שמסוגלת להטפל בחלון קונטקסט ענק של מיליון טוקנים - משהו שעד עכשיו היה בלתי מעשי וקשוש מבחינת עלויות. הסדרה כוללת שני מודלים MoE: ה-V4-Pro עם 1.6T פרמטרים ו-49B פעילים, וה-V4-Flash הקומפקטי יותר עם 284B פרמטרים ו-13B בלבד. הטכנולוגיה החדשה הזו יכולה להפוך למשחק שינוי בתחום ה-AI, במיוחד לטיפול במסמכים גדולים ומורכבים.",
     "d": "Fri, 24 Apr 2026 17:36:03 +0000",
     "v": 0,
     "l": [
@@ -16,16 +16,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-24-at-10.35.07-AM-1.png",
     "source": "MarkTechPost"
   },
   {
     "id": 2,
-    "t": "Palantir’s Employees Are in Crisis\n\n\"It’s like we taped a 'kick me' sign on our own backs.\"\nThe post Palantir’s Employees Are in Crisis appeared first on Futurism.",
+    "t": "עובדי Palantir במשבר\n\nעובדי חברת Palantir, ענקית ה-AI והנתונים, חוויים משבר פנימי גדול שמזכיר עצמי-הוצאה לרגל. בעקבות החלטות ניהול שגויות, נראה שהחברה הדביקה לעצמה את התווית של בעיה במקום להיות פתרון - וזה בדיוק מה שהעובדים מתלוננים עליו בימים אלה.",
     "d": "Fri, 24 Apr 2026 13:03:26 -0400",
     "v": 0,
     "l": [
@@ -48,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "20,000 job cuts at Meta, Microsoft raise concern that AI-driven labor crisis is here\n\nMeta said it's cutting 10% of its workforce, just as Microsoft announced that it's offering employee buyouts for the first time in its 51-year history.",
+    "t": "20,000 פיטורים בMeta וMicrosoft - האם משבר עבודה מונע AI כבר כאן?\n\nMeta מפטרת 10% מעובדיה בעוד Microsoft מציעה לראשונה בהיסטוריה של 51 שנים פקדון לעזיבה חופשית. הגיגנטים של הטק משתלמים בחזקה על התחרות להפוך לחברות AI-ראשיות, וזה באמת מרגיש שחברות מתחילות לתחליף אנשים באלגוריתמים.",
     "d": "Fri, 24 Apr 2026 17:01:21 GMT",
     "v": 0,
     "l": [
@@ -76,7 +75,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "How Project Maven taught the military to love AI\n\nIn the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart System.\nIn her new book, Project Maven: A Marine Colonel, His Team, and the Dawn of AI Warfare, journalist Katrina Manson investigates the development of Maven from its inception in 2017 as an experi",
+    "t": "איך Project Maven לימד את הצבא להחביב על AI\n\nבעשים הראשות של התקפה על איראן, צבא ארה\"ב תקף יותר מ-1,000 מטרות - כמעט פי שניים מהתקפת ה'shock and awe' על עיראק לפני שני עשורים. התאוצה הזאת הייתה אפשרית בזכות סיסטמי AI שמזרזים את תהליך הכיוונון למטרות, וב-Maven Smart System בראש הרשימה. העיתונאית קטרינה מנסון בודקת בספרה החדש את התפתחות ה-Maven מהתחלתו ב-2017 כפרויקט ניסיוני שהפך לאבן דרך במלחמה עם AI.",
     "d": "2026-04-24T17:00:00.000Z",
     "v": 0,
     "l": [
@@ -99,7 +98,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "AI-boosted infrared cooker gives you real grilled flavor indoors\n\nPatio season is coming up in much of the world, but living in a smaller apartment shouldn’t stop you from enjoying a good steak at home. At the same time, most indoor cooking devices make you choose between convenience and real grilled flavor. Cozytime Lumo attempts to offer both by combining infrared cooking with AI automation that always picks the ideal settings for different foods.\nContinue Reading\nCategory: Around The Home, Consumer Tech, Technology\nTags: Kitchen, Cooking, Food, Kickstarter,",
+    "t": "תנור אינפרא-אדום מופעל בAI נותן לך טעם ביתן אמיתי בבית\n\nאם אתם חיים בדירה קטנה ולא רוצים להוותר על סטייק ממש כמו בגריל, יש לכם חדשות טובות: Cozytime Lumo היא מכשיר חדש שמשלב בישול באינפרא-אדום עם AI חכם שבאופן אוטומטי בוחר את ההגדרות המושלמות לכל סוג מזון. זה אומר שבסוף אתם מקבלים את הטעם של ביתן אמיתי בלי כל הצרות - ובלי צורך בגריל ענק בחצר של הדירה שלכם.",
     "d": "Fri, 24 Apr 2026 17:00:00 GMT",
     "v": 0,
     "l": [
@@ -122,7 +121,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Marked-up Mac minis flood eBay amid shortages driven by AI\n\nApple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
+    "t": "Mac mini-ים במחירים מופקעים בeBay בגלל מחסור הנגרם ממהפכת ה-AI\n\nה-Mac mini של אפל שנגמר במלאי הפך להיט בeBay במחירים מתוקחים, והכל בגלל שאנשים מתים על להריץ מודלים AI מקומיים על המחשב הקטן והחמוד. בקיצור, כל מי שרוצה להיות מהנדס AI ביתי מחפש את הגדגט הזה, ויש פה סיטואציה של shortage שהיא הזהב של הדילים בeBay. מקור: TechCrunch AI",
     "d": "Fri, 24 Apr 2026 16:42:19 +0000",
     "v": 0,
     "l": [
@@ -135,12 +134,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Apple"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -408,7 +404,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "Norway Approves Autonomous Buses for Public Roads\n\nThank your bus driver while you still can.\nThe post Norway Approves Autonomous Buses for Public Roads appeared first on Futurism.",
+    "t": "נורווגיה אישרה אוטובוסים אוטונומיים לכבישים ציבוריים\n\nעוד מעט זמן ולא תצטרכו להודות לנהג האוטובוס - כי פשוט לא יהיה שם. נורווגיה זו עוד פעם מובילה בעניינים של טכנולוגיה עתידנית, והפעם היא אישרה להשקת אוטובוסים אוטונומיים על הכבישים הציבוריים שלה, שזה בעצם כמו להגיד שהעתיד כבר פה.",
     "d": "Fri, 24 Apr 2026 11:05:33 -0400",
     "v": 0,
     "l": [
@@ -423,8 +419,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/norway-autonomous-buses.jpg?quality=85",
@@ -2312,7 +2307,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 98,
-    "t": "CodeCanary\n\nDiscussion\n            |\n            Link",
+    "t": "CodeCanary\n\nכלי חדש שנכנס לעולם ה-tech וגורם לקהילת המפתחים לדבר - CodeCanary הוא פיתרון שנראה שמתמודד עם בעיות בפיתוח קוד. המשתמשים ב-Product Hunt כבר התחילו לדיון על התכונות שלו והפוטנציאל שלו לשנות את סדר העדיפויות של מפתחים.",
     "d": "2026-04-23T23:25:53.000Z",
     "v": 0,
     "l": [
