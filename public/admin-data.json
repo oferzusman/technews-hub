@@ -1,7 +1,7 @@
 {
   "total": 5459,
-  "translated": 5454,
-  "untranslated": 5,
+  "translated": 5459,
+  "untranslated": 0,
   "today": 156,
   "week": 1058,
   "sources": [
@@ -38,7 +38,7 @@
     {
       "name": "Futurism",
       "total": 247,
-      "translated": 245,
+      "translated": 247,
       "lastDate": "Wed, 22 Apr 2026 16:27:39 -0400"
     },
     {
@@ -50,7 +50,7 @@
     {
       "name": "CNBC Tech",
       "total": 204,
-      "translated": 203,
+      "translated": 204,
       "lastDate": "Wed, 22 Apr 2026 22:29:49 GMT"
     },
     {
@@ -62,7 +62,7 @@
     {
       "name": "TechCrunch AI",
       "total": 165,
-      "translated": 164,
+      "translated": 165,
       "lastDate": "Wed, 22 Apr 2026 23:56:52 +0000"
     },
     {
@@ -80,7 +80,7 @@
     {
       "name": "The Guardian AI",
       "total": 111,
-      "translated": 110,
+      "translated": 111,
       "lastDate": "Wed, 22 Apr 2026 18:00:32 GMT"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-24T21:26:58.300Z"
+  "generatedAt": "2026-04-24T22:09:28.072Z"
 }
