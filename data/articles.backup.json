@@ -108432,6 +108432,425 @@
       "priority": "hot",
       "fetchedAt": "2026-04-24T10:10:01.575Z",
       "created_at": "2026-04-24T10:10:01.575Z"
+    },
+    {
+      "id": 5357,
+      "source": "TechCrunch AI",
+      "title_en": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+      "description_en": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+      "image_url": null,
+      "pub_date": "Fri, 24 Apr 2026 12:00:00 +0000",
+      "author": "Julie Bort",
+      "categories": [
+        "Enterprise",
+        "TC",
+        "Hardware",
+        "AI",
+        "Amazon",
+        "AWS",
+        "CPU",
+        "GPU",
+        "Meta",
+        "Graviton",
+        "trainium"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-24T12:41:16.788Z",
+      "created_at": "2026-04-24T12:41:16.788Z"
+    },
+    {
+      "id": 5358,
+      "source": "Ars Technica",
+      "title_en": "Rocket Report: Artemis III rocket getting ready; SpaceX is now an AI company",
+      "description_en": "\"If it doesn’t rely on a solid, there’s no reason why we can’t launch.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/space/2026/04/rocket-report-some-canadians-dont-want-a-spaceport-falcon-hits-600-landings/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/RDRE-Hot-Fire-Image-2048x1366-1-1152x648.jpg",
+      "pub_date": "Fri, 24 Apr 2026 11:00:36 +0000",
+      "author": "\n                    Eric Berger\n                ",
+      "categories": [
+        "Space",
+        "rocket report",
+        "space"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-24T12:41:16.839Z",
+      "created_at": "2026-04-24T12:41:16.839Z"
+    },
+    {
+      "id": 5359,
+      "source": "The Verge AI",
+      "title_en": "Elon Musk and Sam Altman’s court showdown will dish the dirt",
+      "description_en": "Might as well jump, as the poet David Lee Roth once said. | Image: Cath Virginia / The Verge\t\n\nElon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is scheduled to start in Oakland, California, on April 27th. Theoretically, it's a legal case about whether OpenAI defrauded Musk. But that's not really what we're all doing here. This is about mess. \nOver the pa",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
+      "image_url": null,
+      "pub_date": "2026-04-24T12:00:00.000Z",
+      "author": "Elizabeth Lopatto",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-24T12:41:16.920Z",
+      "created_at": "2026-04-24T12:41:16.920Z"
+    },
+    {
+      "id": 5360,
+      "source": "The Decoder",
+      "title_en": "Anthropic confirms Claude Code problems and promises stricter quality controls",
+      "description_en": "Users complained about declining quality in Claude Code. Anthropic identified and fixed three separate sources of error. The company promises stricter quality controls going forward.\nThe article Anthropic confirms Claude Code problems and promises stricter quality controls appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-confirms-claude-code-problems-and-promises-stricter-quality-controls/",
+      "image_url": null,
+      "pub_date": "Fri, 24 Apr 2026 10:52:07 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Claude",
+        "Claude Code"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-24T12:41:18.003Z",
+      "created_at": "2026-04-24T12:41:18.003Z"
+    },
+    {
+      "id": 5361,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: supercharged scams and studying AI healthcare",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
+      "image_url": null,
+      "pub_date": "Fri, 24 Apr 2026 12:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-24T12:41:18.144Z",
+      "created_at": "2026-04-24T12:41:18.144Z"
+    },
+    {
+      "id": 5362,
+      "source": "Hugging Face Blog",
+      "title_en": "DeepSeek-V4: a million-token context that agents can actually use",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/deepseekv4",
+      "image_url": null,
+      "pub_date": "Fri, 24 Apr 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-24T12:41:18.253Z",
+      "created_at": "2026-04-24T12:41:18.253Z"
+    },
+    {
+      "id": 5363,
+      "source": "New Atlas",
+      "title_en": "Flat-faced dogs can breathe easier for life with breakthrough injection",
+      "description_en": "A new injection developed by researchers and an Australian biotechnology company may have a life-changing impact on an estimated nine out of 10 dogs that suffer from serious respiratory issues directly tied to their breed. It has the potential to allow these flat-faced breeds to live happier and longer lives, in a far less invasive way than existing methods.\nContinue Reading\nCategory: Pets, Consumer Tech, Technology\nTags: RMIT University, Biotechnology, Dogs, Respiratory health, Lifespan, Health",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/pets/flat-faced-dogs-injection-clears-airways/",
+      "image_url": null,
+      "pub_date": "Fri, 24 Apr 2026 11:54:05 GMT",
+      "author": "Bronwyn Thompson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-24T12:41:18.830Z",
+      "created_at": "2026-04-24T12:41:18.830Z"
+    },
+    {
+      "id": 5364,
+      "source": "New Atlas",
+      "title_en": "QJMotor eyes beginner segment with 125cc enduro and supermoto",
+      "description_en": "The beginner motorcycle segment is a very interesting space – you’ve got new buyers who hardly come with any brand prejudice. They’re open to trying bikes from a number of manufacturers; they’re of course coming with a budget constraint, and most of all, they’re looking at something easy and unassuming to get them started on their motorcycling journey.\nContinue Reading\nCategory: Motorcycles, Transport\nTags: qjmotor, Supermoto, Enduro, Dirt Bikes, Off-road",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/motorcycles/qjmotor-cov-125/",
+      "image_url": null,
+      "pub_date": "Fri, 24 Apr 2026 10:37:30 GMT",
+      "author": "Utkarsh Sood",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-24T12:41:18.830Z",
+      "created_at": "2026-04-24T12:41:18.830Z"
+    },
+    {
+      "id": 5365,
+      "source": "The Register",
+      "title_en": "Meta Arms itself to the teeth by signing for 'tens of millions' of AWS Graviton cores",
+      "description_en": "After flubbing the Metaverse, Zuck embraces the Neoverse Meta plans to deploy tens of millions of Amazon Web Services' Graviton 5 CPU cores as part of a multi-year collaboration that will make the social network among the largest-ever consumers of the cloud giant’s homegrown silicon.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/meta_aws_cpu/",
+      "image_url": null,
+      "pub_date": "2026-04-24T12:00:16.000Z",
+      "author": "Tobias Mann",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-24T12:41:18.880Z",
+      "created_at": "2026-04-24T12:41:18.880Z"
+    },
+    {
+      "id": 5366,
+      "source": "The Register",
+      "title_en": "It's a myth that you need Mythos to find bugs: Open source models can do it just as well",
+      "description_en": "OpenAI's first security hire, Ari Herbert-Voss, thinks more automated bug finding will improve security without costing jobs Black Hat Asia  Open source models can find bugs as effectively as Anthropic's Mythos, according to Ari Herbert-Voss, CEO of AI-powered security startup RunSybil and OpenAI's first security hire.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/ai_bugfinding_futures/",
+      "image_url": null,
+      "pub_date": "2026-04-24T11:41:54.000Z",
+      "author": "Simon Sharwood",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-24T12:41:18.880Z",
+      "created_at": "2026-04-24T12:41:18.880Z"
+    },
+    {
+      "id": 5367,
+      "source": "Futurism",
+      "title_en": "Scientists Say They’ve Figured Out What That Golden Orb Found at the Bottom of the Pacific Ocean Actually Was",
+      "description_en": "\"This turned into a special case that required focused efforts and expertise of several different individuals.\"\nThe post Scientists Say They’ve Figured Out What That Golden Orb Found at the Bottom of the Pacific Ocean Actually Was appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/science-energy/scientists-solve-golden-orb",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/scientists-solve-golden-orb.jpg?quality=85",
+      "pub_date": "Fri, 24 Apr 2026 08:01:00 -0400",
+      "author": "Frank Landymore",
+      "categories": [
+        {
+          "_": "Science & Energy",
+          "$": {
+            "domain": "https://futurism.com/category/science-energy"
+          }
+        },
+        {
+          "_": "Biology",
+          "$": {
+            "domain": "https://futurism.com/category/biology"
+          }
+        },
+        {
+          "_": "Environment",
+          "$": {
+            "domain": "https://futurism.com/category/environment"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-24T12:41:23.890Z",
+      "created_at": "2026-04-24T12:41:23.890Z"
+    },
+    {
+      "id": 5368,
+      "source": "Futurism",
+      "title_en": "New Lawsuit Is Not Looking Good for MrBeast",
+      "description_en": "\"If true, he’s f***ed.\"\nThe post New Lawsuit Is Not Looking Good for MrBeast appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/future-society/new-lawsuit-harassment-not-good-mr-beast",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/new-lawsuit-harassment-not-good-mr-beast.jpg?quality=85",
+      "pub_date": "Fri, 24 Apr 2026 07:01:00 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        },
+        {
+          "_": "Brain",
+          "$": {
+            "domain": "https://futurism.com/category/brain"
+          }
+        },
+        {
+          "_": "Health & Medicine",
+          "$": {
+            "domain": "https://futurism.com/category/health-medicine"
+          }
+        },
+        {
+          "_": "Mental Health",
+          "$": {
+            "domain": "https://futurism.com/category/mental-health"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-24T12:41:23.890Z",
+      "created_at": "2026-04-24T12:41:23.890Z"
+    },
+    {
+      "id": 5369,
+      "source": "Tom's Hardware",
+      "title_en": "Grab 32GB of Corsair DDR5 RAM for just $28 in this Newegg combo with the new 9950X3D2 that saves you a huge $441 — $1,729.99 deal with AMD's first dual-X3D CPU also ships with a 2TB WD Black SSD and an Asus TUF Gaming motherboard",
+      "description_en": "Save 20% on this Newegg combo kit with AMD's first dual-X3D chip in the AMD Ryzen 9 9950X3D2, along with an Asus TUF Gaming X870E-Plus WiFi7 motherboard, 32GB (2x16GB) of Corsair Vengeance DDR5-6400 RAM, and a 2TB WD Black SN7100 SSD, all for $1,729.99.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/grab-32gb-of-corsair-ddr5-ram-for-just-usd28-in-this-newegg-combo-with-the-new-9950x3d2-that-saves-you-a-huge-usd441-usd1-729-99-deal-with-amds-first-dual-x3d-cpu-also-ships-with-a-2tb-wd-black-ssd-and-an-asus-tuf-gaming-motherboard",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/LpnrrUnEQyUm39yXHdT79R-1280-80.png",
+      "pub_date": "Fri, 24 Apr 2026 11:31:56 +0000",
+      "author": " Ben Stockton ",
+      "categories": [
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-24T12:41:24.044Z",
+      "created_at": "2026-04-24T12:41:24.044Z"
+    },
+    {
+      "id": 5370,
+      "source": "Tom's Hardware",
+      "title_en": "Intel stock jumps 28%, setting a record, after it posts strong Q1 with rising forecasts — Intel says yields are improving faster than expected with new nodes",
+      "description_en": "Demand for Intel's products exceed expectations and supply, but Intel is still bleeding money.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-stock-jumps-28-percent-setting-a-record-after-it-posts-strong-q1-with-rising-forecasts-intel-says-yields-are-improving-faster-than-expected-with-new-nodes",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/KiJGR8WJv72p6G8Qcysneb-1280-80.jpg",
+      "pub_date": "Fri, 24 Apr 2026 11:30:40 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-24T12:41:24.044Z",
+      "created_at": "2026-04-24T12:41:24.044Z"
+    },
+    {
+      "id": 5371,
+      "source": "Tom's Hardware",
+      "title_en": "120 Steam users now own 20,000 games or more, three whales own over 40,000 games — one player's library is worth nearly $750,000 at today’s prices",
+      "description_en": "It is easy to get sucked into Steam Sale fever and end up buying more games than you have the time or the inclination to play.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/120-steam-users-now-own-20-000-games-or-more-three-whales-own-over-40-000-games-one-players-library-is-worth-nearly-usd750-000-at-todays-prices",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/qCWBVKEAmrW4zQzEaGEjFg-1280-80.jpg",
+      "pub_date": "Fri, 24 Apr 2026 11:19:15 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "PC Gaming",
+        "Video Games"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-24T12:41:24.044Z",
+      "created_at": "2026-04-24T12:41:24.044Z"
+    },
+    {
+      "id": 5372,
+      "source": "Tom's Hardware",
+      "title_en": "Amazon Eero and Leo routers gain FCC Conditional Approval for US sales — Eero products can skirt router ban for the next 18 months, firm joins Netgear on approval list",
+      "description_en": "Amazon’s Eero is the latest router manufacturer to gain “Conditional Approval” from the Federal Communications Commission (FCC) to sell its routers in the United States.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/networking/routers/amazon-eero-and-leo-routers-gain-fcc-conditional-approval-for-us-sales-eero-products-can-skirt-router-ban-for-the-next-18-months-firm-joins-netgear-on-approval-list",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/sgsX6jdua6jzGEqv9RipeP-1280-80.jpg",
+      "pub_date": "Fri, 24 Apr 2026 10:20:00 +0000",
+      "author": " Brandon Hill ",
+      "categories": [
+        "Wi-Fi Routers",
+        "Networking"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-24T12:41:24.044Z",
+      "created_at": "2026-04-24T12:41:24.044Z"
+    },
+    {
+      "id": 5373,
+      "source": "CNBC Tech",
+      "title_en": "Israel-Lebanon ceasefire, Microsoft's first-ever buyouts, Starbucks' loyalty program and more in Morning Squawk",
+      "description_en": "Here are five key things investors need to know to start the trading day.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/24/5-things-to-know-before-the-market-opens.html",
+      "image_url": null,
+      "pub_date": "Fri, 24 Apr 2026 12:25:30 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-24T12:41:24.135Z",
+      "created_at": "2026-04-24T12:41:24.135Z"
+    },
+    {
+      "id": 5374,
+      "source": "CNBC Tech",
+      "title_en": "Meta will adopt hundreds of thousands of AWS Graviton chips in latest AI infrastructure grab",
+      "description_en": "The Amazon deal comes weeks after Meta made $48 billion in AI commitments with CoreWeave and Nebius.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/24/meta-will-use-hundreds-of-thousands-of-aws-graviton-chips.html",
+      "image_url": null,
+      "pub_date": "Fri, 24 Apr 2026 12:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-24T12:41:24.135Z",
+      "created_at": "2026-04-24T12:41:24.135Z"
+    },
+    {
+      "id": 5375,
+      "source": "CNBC Tech",
+      "title_en": "Trump warns of ‘big tariff’ if UK doesn’t drop digital services tax on U.S. tech firms",
+      "description_en": "The tax is a 2% levy on the revenues of search engines, social media services and online marketplaces that derive value from U.K. users.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/24/trump-tariffs-uk-tech-apple-google-meta.html",
+      "image_url": null,
+      "pub_date": "Fri, 24 Apr 2026 11:45:05 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-24T12:41:24.135Z",
+      "created_at": "2026-04-24T12:41:24.135Z"
+    },
+    {
+      "id": 5376,
+      "source": "CNBC Tech",
+      "title_en": "The aerospace and defense trade is taking investors deeper into space, and more ETFs are up for the mission",
+      "description_en": "VettaFi's Cinthia Murphy finds more exchange-traded funds are tackling the space theme more directly as excitement over the SpaceX IPO grows.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/24/aerospace-and-defense-as-growth-drivers-for-etfs-amid-iran-war.html",
+      "image_url": null,
+      "pub_date": "Fri, 24 Apr 2026 11:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-24T12:41:24.135Z",
+      "created_at": "2026-04-24T12:41:24.135Z"
     }
   ]
 }
