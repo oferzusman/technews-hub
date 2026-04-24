@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax\n\nClaude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spotify, Uber, AllTrails, TripAdvisor, Instacart, TurboTax, and others. \nSome of these apps, such as Spotify, already have similar connectors in OpenAI's ChatGPT. Once an app is connected, Claude will suggest rele",
+    "t": "Claude מתחבר ישירות לאפליקציות האישיות שלך כמו Spotify, Uber Eats ו-TurboTax\n\nAnthropic פותחת את הקשתות של Claude עם connectors חדשים לאפליקציות אישיות - מ-Spotify ו-Uber Eats ועד Instacart ו-TurboTax. זה בעצם אומר שהAI של Anthropic יוכל לעזור לכם לנהל כל מה שאתם עושים בחיים - מתכנון טיול ב-AllTrails, הזמנת אוכל, עד מילוי דיווח מס. OpenAI כבר עשתה משהו דומה עם ChatGPT, אבל Anthropic בחרה להרחיב למגוון אפליקציות חדש שמכסה הרבה יותר מה-use cases היומיומיים שלנו.",
     "d": "2026-04-23T22:27:11.000Z",
     "v": 0,
     "l": [
@@ -16,13 +16,11 @@ window.TELEGRAM_DATA = [
     ],
     "co": [
       "OpenAI",
-      "Anthropic",
-      "Microsoft"
+      "Anthropic"
     ],
     "tags": [
       "news",
-      "model",
-      "product"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -30,7 +28,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Intel CEO says he can 'think of no better partner than Elon Musk' to explore 'unconventional' ways to improve chip manufacturing — TeraFab partnership aims to rethink how chips are made to reduce costs\n\nIntel CEO Lip-Bu Tan commented on the company's partnership with Elon Musk's TeraFab project, but details about the relationship are still light.",
+    "t": "מנכ\"ל אינטל: אין לי שותף טוב יותר מאלון מאסק לתהליך ייצור שבבים מהפכני — התשותפות עם TeraFab מטרתה להוריד עלויות\n\nמנכ\"ל אינטל הבעיר תגובות חיוביות על התשותפות של החברה עם פרויקט TeraFab של אלון מאסק, שמטרתו לחשוב מחדש על דרך ייצור השבבים בשביל להוריד עלויות. כרגע עדיין לא ברורים כל הפרטים על ההשתתפות המדויקת של מאסק בדרך, אבל נראה שזה יכול להיות עסקה די גדולה בעולם ה-chip manufacturing.",
     "d": "Thu, 23 Apr 2026 22:15:57 +0000",
     "v": 0,
     "l": [
@@ -47,13 +45,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/EZCTC9MCaqNdiAMUCqPqEK-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 3,
-    "t": "OpenAI Releases GPT-5.5, a Fully Retrained Agentic Model That Scores 82.7% on Terminal-Bench 2.0 and 84.9% on GDPval\n\nThe model targets the full stack of computer work — coding, research, data analysis, and software operation — without needing a human to supervise every step\nThe post OpenAI Releases GPT-5.5, a Fully Retrained Agentic Model That Scores 82.7% on Terminal-Bench 2.0 and 84.9% on GDPval appeared first on MarkTechPost.",
+    "t": "OpenAI השיקה את GPT-5.5 - מודל עצמאי שאומן מחדש לחלוטין עם ביצועים מדהימים\n\nOpenAI הביעה את GPT-5.5, מודל חדש וחזק שיכול לעבוד באופן עצמאי בכל תחומי העבודה הדיגיטלית - תכנות, מחקר, ניתוח נתונים וניהול תוכנות - בלי שצריך שמישהו יראה על כתפו בכל צעד. המודל הזה היא ממש משהו אחר עם ניקוד מרשים של 82.7% ב-Terminal-Bench ו-84.9% ב-GDPval, כלומר זה כמו לתת ל-AI לעבוד לבד בשולחן העבודה. זו אחת ההודעות הגדולות בתחום ה-AI בשנים האחרונות.",
     "d": "Thu, 23 Apr 2026 22:11:30 +0000",
     "v": 0,
     "l": [
@@ -71,16 +69,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "agents"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-23-at-2.57.37-PM.png",
     "source": "MarkTechPost"
   },
   {
     "id": 4,
-    "t": "US accuses China of “industrial-scale” AI theft. China says it’s “slander.”\n\nTrump-Xi summit may be rocked by US mulling huge sanctions.",
+    "t": "ארצות הברית מאשימה את סין בגניבת AI בקנה מידה תעשייתי. סין: זה 'השמצה'\n\nהיחסים בין ארה״ב לסין התחממו שוב - הפעם סביב גניבת טכנולוגיות AI. ארצות הברית מתכננת כעת הטלת סנקציות כבדות מאוד, דבר שעלול לזעזע את הפגישה הקרובה בין טראמפ וקסי. סין כמובן שוללת את ההאשמות ומכנה את כל זה תעמולה.",
     "d": "Thu, 23 Apr 2026 21:45:10 +0000",
     "v": 0,
     "l": [
@@ -152,7 +149,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Carbon nanotube wiring gets closer to competing with copper\n\nWhile this material degrades over time, it could point to better ones.",
+    "t": "תילים מ-Carbon Nanotube מתקרבים להתחרות עם נחושת\n\nחוקרים מתקדמים בכיוון של חלופה למוליכות המסורתית - חומר חדש שלמרות שמתדרדר עם הזמן, עלול לפתוח דלתות לחומרים אפילו טובים יותר בעתיד. זה יכול להיות משחק חדש לתעשיית האלקטרוניקה.",
     "d": "Thu, 23 Apr 2026 21:22:09 +0000",
     "v": 0,
     "l": [
@@ -267,7 +264,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "We still don't have a more precise value for \"Big G\"\n\nSuch experiments bring \"order to the universe, whether or not the number agrees with the expected value.”",
+    "t": "אנחנו עדיין לא יודעים את הערך המדויק של \"Big G\"\n\nמחקרים חדשים ממשיכים לנסות לפין את קבוע הגרביטציה של ניוטון, והממצאים מעניינים אם כי עדיין לא מסתדרים עם מה שציפינו. בכל מקרה, ניסויים כאלה עוזרים לנו להבין את היקום טוב יותר, גם אם המספרים לא תמיד מסכימים.",
     "d": "Thu, 23 Apr 2026 20:57:35 +0000",
     "v": 0,
     "l": [
@@ -316,7 +313,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "In a first, a ransomware family is confirmed to be quantum-safe\n\nTechnically speaking, there's no practical benefit to use PQC. So why is it being used?",
+    "t": "לראשונה: משפחת ransomware מאומתת כעמידה לקוונטום\n\nלמי שחושב שזה רק עניין של עתיד רחוק - טעות. הקriminals כבר מתחילים להשתמש בהצפנה עמידה לקוונטום (PQC), גם שלא יש לזה הרבה טעם מעשי כרגע. המחקר חושף משהו חשוב: התוקפים בפעם הראשונה מיישמים טכנולוגיה קוונטום-סייפ ב-ransomware, כלומר הם כבר חושבים לעתיד כשיהיו קומפיוטרים קוונטיים חזקים באמת.",
     "d": "Thu, 23 Apr 2026 20:41:23 +0000",
     "v": 0,
     "l": [
