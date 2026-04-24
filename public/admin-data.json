@@ -1,9 +1,9 @@
 {
-  "total": 5312,
-  "translated": 5312,
+  "total": 5316,
+  "translated": 5316,
   "untranslated": 0,
-  "today": 9,
-  "week": 911,
+  "today": 13,
+  "week": 915,
   "sources": [
     {
       "name": "Product Hunt",
@@ -55,8 +55,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 186,
-      "translated": 186,
+      "total": 187,
+      "translated": 187,
       "lastDate": "Wed, 22 Apr 2026 22:29:49 GMT"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 106,
-      "translated": 106,
+      "total": 108,
+      "translated": 108,
       "lastDate": "Wed, 22 Apr 2026 18:00:32 GMT"
     },
     {
@@ -103,8 +103,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 83,
-      "translated": 83,
+      "total": 84,
+      "translated": 84,
       "lastDate": "Wed, 22 Apr 2026 23:59:51 +0000"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-24T03:50:04.046Z"
+  "generatedAt": "2026-04-24T06:06:13.501Z"
 }
