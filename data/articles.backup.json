@@ -110913,6 +110913,100 @@
       "priority": "batch",
       "fetchedAt": "2026-04-24T22:05:00.679Z",
       "created_at": "2026-04-24T22:05:00.679Z"
+    },
+    {
+      "id": 5466,
+      "source": "The Guardian AI",
+      "title_en": "US justice department steps in on behalf of xAI in Colorado regulation case",
+      "description_en": "Move creates conflict between state and administration as Trump seeks federal framework over states handling issue\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nThe US justice department said on Friday it had intervened in a lawsuit by Elon Musk’s xAI challenging a Colorado law aimed at regulating artificial intelligence systems.\nIn its intervention, the justice department said the law violated the 14th amendment’s equal protection guarantee by requiring compani",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/2026/apr/24/xai-colorado-elon-musk-trump",
+      "image_url": "https://i.guim.co.uk/img/media/9255f07ace68411dbed9db6758d4e207edd12fe7/204_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=c1f6d0b5cf7c267abc04c2debfa0a86e",
+      "pub_date": "Fri, 24 Apr 2026 22:12:59 GMT",
+      "author": "Reuters",
+      "categories": [
+        {
+          "_": "Trump administration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/trump-administration"
+          }
+        },
+        {
+          "_": "Colorado",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/colorado"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-24T22:55:32.563Z",
+      "created_at": "2026-04-24T22:55:32.563Z"
+    },
+    {
+      "id": 5467,
+      "source": "Interesting Engineering",
+      "title_en": "Sun unleashes back-to-back X-class flares in 7 hours, radio outages hit Earth",
+      "description_en": "The Sun fired off two powerful X-class solar flares within hours, triggering temporary radio blackouts...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/space/sun-two-x-class-flares-radio-blackout-april-2026",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/solarf-flair-1.jpg",
+      "pub_date": "Fri, 24 Apr 2026 22:54:57 +0000",
+      "author": "Neetika Walter",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-24T22:55:36.034Z",
+      "created_at": "2026-04-24T22:55:36.034Z"
+    },
+    {
+      "id": 5468,
+      "source": "CNBC Tech",
+      "title_en": "Cramer's week ahead: Record highs meet a pivotal week for tech earnings",
+      "description_en": "Jim Cramer said this market has become a \"beast\". His gameplan highlights a packed slate of tech earnings which will determine whether the surge can continue.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/24/cramers-week-ahead-record-highs-meet-a-pivotal-week-for-tech-earnings.html",
+      "image_url": null,
+      "pub_date": "Fri, 24 Apr 2026 22:29:16 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-24T22:55:36.433Z",
+      "created_at": "2026-04-24T22:55:36.433Z"
     }
   ]
 }
