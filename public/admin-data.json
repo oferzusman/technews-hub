@@ -1,15 +1,15 @@
 {
-  "total": 5316,
-  "translated": 5316,
+  "total": 5350,
+  "translated": 5350,
   "untranslated": 0,
-  "today": 13,
-  "week": 915,
+  "today": 47,
+  "week": 949,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 606,
-      "translated": 606,
-      "lastDate": "2026-04-23T07:06:33.000Z"
+      "total": 629,
+      "translated": 629,
+      "lastDate": "2026-04-24T04:39:59.000Z"
     },
     {
       "name": "Pypi.org",
@@ -25,8 +25,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 286,
-      "translated": 286,
+      "total": 289,
+      "translated": 289,
       "lastDate": "Wed, 22 Apr 2026 23:45:50 +0000"
     },
     {
@@ -49,14 +49,14 @@
     },
     {
       "name": "New Atlas",
-      "total": 191,
-      "translated": 191,
+      "total": 192,
+      "translated": 192,
       "lastDate": "Wed, 22 Apr 2026 19:28:01 GMT"
     },
     {
       "name": "CNBC Tech",
-      "total": 187,
-      "translated": 187,
+      "total": 191,
+      "translated": 191,
       "lastDate": "Wed, 22 Apr 2026 22:29:49 GMT"
     },
     {
@@ -91,8 +91,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 99,
-      "translated": 99,
+      "total": 100,
+      "translated": 100,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -103,8 +103,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 84,
-      "translated": 84,
+      "total": 85,
+      "translated": 85,
       "lastDate": "Wed, 22 Apr 2026 23:59:51 +0000"
     },
     {
@@ -133,8 +133,8 @@
     },
     {
       "name": "AI News",
-      "total": 45,
-      "translated": 45,
+      "total": 46,
+      "translated": 46,
       "lastDate": "Wed, 22 Apr 2026 15:45:14 +0000"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-24T08:22:03.353Z"
+  "generatedAt": "2026-04-24T10:02:26.146Z"
 }
