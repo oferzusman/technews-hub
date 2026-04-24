@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "לפני שלוש שנים: במאי 'אבנג'רס' ג'ו רוסו חזה שיהיה סרט AI בתוך שנתיים - מה קרה בסוף?\n\nג'ו רוסו, במאי סרטי הסופרהירו הגדולים, טוען לפני שלוש שנים שתוך שנתיים בדיוק נראה סרט שהוא בנוי 100% על AI - אבל הנבואה הזו לא בדיוק התממשה כמו שחשב. המאמר בוחן האם תיקיון ההוליווד הצודק או שהנו ממש אופטימי מדי, וזה די מצחיק כי שלוש שנים זה די זמן ארוך בעולם ה-AI.",
+    "t": "Three Years Ago Today, “Avengers” Director Joe Russo Predicted There Would Be a Fully AI-Generated Movie Within Two Years\n\nHow'd that work out?\nThe post Three Years Ago Today, “Avengers” Director Joe Russo Predicted There Would Be a Fully AI-Generated Movie Within Two Years appeared first on Futurism.",
     "d": "Fri, 24 Apr 2026 17:12:24 -0400",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "מושל דמוקרטי של מיין חוסם את ההקפאה הראשונה בארה\"ב על מרכזי נתונים חדשים\n\nמושלת מיין ג'אנט מילס vetoed את הצעת החוק שהייתה יכולה לעשות מיין למדינה הראשונה בארה\"ב שתטיל הקפאה על מרכזי נתונים ענקיים חדשים, למרות התנגדות הולכת וגדלה מהקהילה המקומית. ההחלטה משקפת את הדילמה קשה שממשלים מתמודדים איתה - איך לאזן בין הנזק הסביבתי של מרכזי הנתונים שזוללים חשמל, לבין הפרויקט להקמת data center בעצם מיין שכבר בעיצומו. זו עדויות לכך שגם פוליטיקאים שמתעניינים בסביבה צריכים להתמודד עם הפשרות כלכליות ממשיות.",
+    "t": "Democratic Maine governor vetoes first US state freeze on new datacenters\n\nJanet Mills says moratorium would’ve been ‘appropriate’ if it didn’t interfere with ongoing datacenter project in Maine\nThe Democratic governor of Maine on Friday vetoed a bill that would have made it the first US state to impose a moratorium on large new datacenters, even as local opposition to the electricity-hungry facilities grows.\nThe decision reflects the difficult trade-off facing political leaders, who must weigh the impact of datacenters on the environment and household energy bills aga",
     "d": "Fri, 24 Apr 2026 21:12:17 GMT",
     "v": 0,
     "l": [
@@ -47,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "הפסד של מטא הוא הרווח של Thinking Machines\n\nמטא קיבלה מכות בעניין הגיוס של כוח אדם מ-Thinking Machines Lab, אבל זה לא דרך חד-סטרית - גם Thinking Machines מנצלת את ההזדמנות כדי להישאר רלוונטית בשוק ה-AI התחרותי ולהושיג אנשים חכמים לצידה.",
+    "t": "Meta’s loss is Thinking Machines’ gain\n\nMeta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
     "d": "Fri, 24 Apr 2026 20:52:07 +0000",
     "v": 0,
     "l": [
@@ -60,9 +60,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Meta"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -70,7 +73,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "מניית אנווידיה הגיעה לשיא היסטורי - שווי החברה חצה את הטריליון דולר\n\nאנווידיה עלתה לגובה חדש עם סגירה בשיא היסטורי לראשונה מאז אוקטובר, וההעלאה בערך של אינטל הביאה איתה גם את כל סקטור צ'יפים. השוק מרגיש שוב אהבה למעבדים - ובמיוחד לחברה שלנו שנחשבת קריטית למירוץ ה-AI העולמי. | מקור: CNBC Tech",
+    "t": "Nvidia stock closes at record, pushing market cap past $5 trillion\n\nNvidia's stock closed at its first record since October, as a rally in Intel pushed chipmakers higher.",
     "d": "Fri, 24 Apr 2026 20:48:36 GMT",
     "v": 0,
     "l": [
@@ -83,9 +86,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Nvidia"
+    ],
     "tags": [
-      "news"
+      "news",
+      "hardware"
     ],
     "imp": "low",
     "thumb": null,
@@ -93,7 +99,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "11 מרכזי נתונים AI בלבד יכולים להפיק פליטות גדולות מ-מדינות שלמות\n\nמחקר חדש חושף עובדה המדאיגה: 11 מרכזי נתונים AI גדולים בעולם עלולים להוציא פליטות פחמן שגדולות מכל המדינות שלמות. זה מעלה שאלות חמורות על הקוסט הסביבתי של המהפכה ב-AI שאנחנו חיים בה כרגע - וזה סוג של התחזוקה שלא כל כך מדברים עליה בתוך כל ההיסטריה סביב ChatGPT ו-Claude.",
+    "t": "Just 11 AI Data Centers Could Belch More Fumes Than Entire Countries\n\nHorrifying.\nThe post Just 11 AI Data Centers Could Belch More Fumes Than Entire Countries appeared first on Futurism.",
     "d": "Fri, 24 Apr 2026 16:27:20 -0400",
     "v": 0,
     "l": [
@@ -106,13 +112,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "OpenAI",
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/data-centers-emit-more-than-countries.jpg?quality=85",
