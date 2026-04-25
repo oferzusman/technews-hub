@@ -111816,6 +111816,117 @@
       "priority": "hot",
       "fetchedAt": "2026-04-25T11:02:21.144Z",
       "created_at": "2026-04-25T11:02:21.144Z"
+    },
+    {
+      "id": 5506,
+      "source": "Ars Technica",
+      "title_en": "Palantir employees are talking about company's \"descent into fascism\"",
+      "description_en": "Slack messages, interviews with current and former works paint picture of company in turmoil.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/baddies-1152x648.jpg",
+      "pub_date": "Sat, 25 Apr 2026 10:49:52 +0000",
+      "author": "\n                    Makena Kelly, wired.com\n                ",
+      "categories": [
+        "Policy",
+        "fascism",
+        "palantir",
+        "privacy",
+        "surveillance",
+        "syndication"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-25T11:50:54.710Z",
+      "created_at": "2026-04-25T11:50:54.710Z"
+    },
+    {
+      "id": 5507,
+      "source": "Futurism",
+      "title_en": "GLP-1 Drugs Linked to Cognitive Impairment, Though the Reason Why Probably Isn’t What You Expect",
+      "description_en": "It's an extremely nuanced relationship.\nThe post GLP-1 Drugs Linked to Cognitive Impairment, Though the Reason Why Probably Isn’t What You Expect appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/health-medicine/glp-1-drugs-linked-cognitive-impairment",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/glp-1-drugs-linked-cognitive-impairment.jpg?quality=85",
+      "pub_date": "Sat, 25 Apr 2026 07:30:00 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Health & Medicine",
+          "$": {
+            "domain": "https://futurism.com/category/health-medicine"
+          }
+        },
+        {
+          "_": "Brain",
+          "$": {
+            "domain": "https://futurism.com/category/brain"
+          }
+        },
+        {
+          "_": "Developments",
+          "$": {
+            "domain": "https://futurism.com/category/developments"
+          }
+        },
+        {
+          "_": "Mental Health",
+          "$": {
+            "domain": "https://futurism.com/category/mental-health"
+          }
+        },
+        {
+          "_": "Neuroscience and Brain",
+          "$": {
+            "domain": "https://futurism.com/category/neuroscience-brain"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-25T11:50:59.361Z",
+      "created_at": "2026-04-25T11:50:59.361Z"
+    },
+    {
+      "id": 5508,
+      "source": "Tom's Hardware",
+      "title_en": "Your Walmart might be 3D printed — firm building more than a dozen 3D-printed Walmart expansions with concrete-printing Robots",
+      "description_en": "For years, 3D Concrete Printing (3DCP) has been an experimental novelty. Alquist 3D, based in Greeley, CO, is pushing the technology past the demonstration phase with their A1X, a robotic arm printer that lays down inch-thick layers at a whopping 200mm/s.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/3d-printing/your-walmart-might-be-3d-printed-firm-building-more-than-a-dozen-3d-printed-walmart-expansions-alquist-sells-superstore-on-3d-concrete-printing-robots",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/uCvhFKVN2iQ9NfY8AUnB7c-1280-80.jpg",
+      "pub_date": "Sat, 25 Apr 2026 11:20:00 +0000",
+      "author": " Denise Bertacchi ",
+      "categories": [
+        "3D Printing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-25T11:50:59.415Z",
+      "created_at": "2026-04-25T11:50:59.415Z"
+    },
+    {
+      "id": 5509,
+      "source": "Tom's Hardware",
+      "title_en": "Intel VP claims up to 30% of CPU performance is untapped by modern games — software optimization is critical to unlocking full potential of hybrid CPUs",
+      "description_en": "Intel is claiming that better software optimization for hybrid architecture CPUs can unlock up to 30% more performance without hardware upgrades. The silicon itself is very capable, but its true potential is held back by code that perhaps prioritizes more conventional silicon and, therefore, benefits from brute-force upgrades like extra L3 cache.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-vp-claims-up-to-30-percent-of-cpu-performance-is-untapped-by-modern-games-software-optimization-is-critical-to-unlocking-full-potential-of-hybrid-cpus",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Jnjcgt3QhdSo3kGCD2juTd-1280-80.png",
+      "pub_date": "Sat, 25 Apr 2026 11:00:00 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-25T11:50:59.416Z",
+      "created_at": "2026-04-25T11:50:59.416Z"
     }
   ]
 }
