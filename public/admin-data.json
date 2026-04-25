@@ -1,9 +1,9 @@
 {
-  "total": 5555,
-  "translated": 5553,
-  "untranslated": 2,
-  "today": 87,
-  "week": 1076,
+  "total": 5556,
+  "translated": 5555,
+  "untranslated": 1,
+  "today": 88,
+  "week": 1077,
   "sources": [
     {
       "name": "Product Hunt",
@@ -55,14 +55,14 @@
     },
     {
       "name": "New Atlas",
-      "total": 206,
+      "total": 207,
       "translated": 206,
       "lastDate": "Wed, 22 Apr 2026 19:28:01 GMT"
     },
     {
       "name": "TechCrunch AI",
       "total": 171,
-      "translated": 170,
+      "translated": 171,
       "lastDate": "Wed, 22 Apr 2026 23:56:52 +0000"
     },
     {
@@ -104,7 +104,7 @@
     {
       "name": "MarkTechPost",
       "total": 91,
-      "translated": 90,
+      "translated": 91,
       "lastDate": "Wed, 22 Apr 2026 23:59:51 +0000"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-25T22:00:00.664Z"
+  "generatedAt": "2026-04-25T22:49:20.092Z"
 }
