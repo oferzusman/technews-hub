@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Light-controlled artificial muscles: Researchers develop shape-shifting materials\n\nResearchers at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) are scaling individual molecular machines into three-dimensional structures to create...",
+    "t": "שרירים מלאכותיים הנשלטים באור: חוקרים פיתחו חומרים שמשנים צורה\n\nחוקרים מאוניברסיטת פרידריך-אלכסנדר בגרמניה הצליחו להגדיל מכונות מולקולריות בודדות לתוך מבנים תלת-ממדיים שמשנים צורה בהשפעת אור. הטכנולוגיה החדשנית הזו יכולה להוביל לפיתוח שרירים מלאכותיים חדשניים שמגיבים לגירויים אופטיים. זה כמו לתפוס עתיד שבו חומרים חכמים יוכלו להשתנות בעצמם בדיוק כמו שרירי גוף אמיתיים, רק שתוך שניות ועם נקודת אור בלבד.",
     "d": "Sat, 25 Apr 2026 18:52:41 +0000",
     "v": 0,
     "l": [
@@ -14,12 +14,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -27,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Climate Scientists Shake Their Heads as First US City Running Completely Out of Water\n\n\"We have no precedent to follow. There's no manual, there's no video.\"\nThe post Climate Scientists Shake Their Heads as First US City Running Completely Out of Water appeared first on Futurism.",
+    "t": "מדענים אקלימיים בהלם: העיר האמריקאית הראשונה שנגמר לה המים\n\nדרמה אמיתית במדינה שנחשבת לעוצמה - עיר אמריקאית כבר מתמודדת עם מצב חירום של היעלמות מלאה של מקורות מים. מדענים אקלימיים מסיכים פנים כי אין להם שום תשובה או תקדים ללמוד ממנו עבור משבר כזה. זו לא עוד תחזוקה או בעיה ניהולית - זה הוא תרחיש הדיסאסטר האמיתי שחזרו על אזהרה לגביו במשך שנים. מקור: Futurism",
     "d": "Sat, 25 Apr 2026 14:15:00 -0400",
     "v": 0,
     "l": [
