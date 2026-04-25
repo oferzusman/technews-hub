@@ -113093,8 +113093,8 @@
       "source": "TechCrunch AI",
       "title_en": "Anthropic created a test marketplace for agent-on-agent commerce",
       "description_en": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "אנתרופיק יצרה שוק בדיקה לסחר בין AI אגנטים",
+      "description_he": "בניסוי מעניין, אנתרופיק בנתה משהו שנראה כמו יד שנייה דיגיטלית - שוק מסווג שלם שבו AI אגנטים משחקים גם כקונים וגם כמוכרים, ויוצרים עסקאות אמיתיות עם כסף אמיתי. זה כמו לתת לבוטים שלך לצאת לקניות בעצמם, ובפעם הזאת הם גם למדו להיות יזמים וסוחרים.",
       "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
       "image_url": null,
       "pub_date": "Sat, 25 Apr 2026 21:43:37 +0000",
@@ -113105,7 +113105,7 @@
         "Anthropic",
         "project deal"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-25T21:50:38.643Z",
       "created_at": "2026-04-25T21:50:38.643Z"
@@ -113115,8 +113115,8 @@
       "source": "MarkTechPost",
       "title_en": "A Coding Implementation on kvcached for Elastic KV Cache Memory, Bursty LLM Serving, and Multi-Model GPU Sharing",
       "description_en": "In this tutorial, we explore kvcached, a dynamic KV-cache implementation on top of vLLM, to understand how dynamic KV-cache allocation transforms GPU memory usage for large language models. We begin by setting up the environment and deploying lightweight Qwen2.5 models through an OpenAI-compatible API, ensuring a realistic inference workflow. We then design controlled experiments where […]\nThe post A Coding Implementation on kvcached for Elastic KV Cache Memory, Bursty LLM Serving, and Multi-Mod",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "יישום קוד ל-kvcached לזיכרון KV Cache אלסטי, שירות LLM עם עומסים משתנים, ושיתוף GPU רב-מודלי",
+      "description_he": "במדריך הזה נכיר את kvcached, כלי חדש שבנו על vLLM שמאפשר הקצאה דינמית של KV-cache - בעיבוד בתוכנה שמשמעותה חיסכון עצום בזיכרון GPU כשמריצים מודלים גדולים. התחקרנו את זה בפועל על ידי הרצת Qwen2.5 דרך API תואם OpenAI, וניסינו תרחישים שונים בהם צריך להנדל כמה בקשות בו-זמנית ללא שהמערכת תישברח מתגבול זיכרון.",
       "link": "https://www.marktechpost.com/2026/04/25/a-coding-implementation-on-kvcached-for-elastic-kv-cache-memory-bursty-llm-serving-and-multi-model-gpu-sharing/",
       "image_url": null,
       "pub_date": "Sat, 25 Apr 2026 21:30:28 +0000",
@@ -113135,7 +113135,7 @@
         "Technology",
         "Tutorials"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-25T21:50:40.070Z",
       "created_at": "2026-04-25T21:50:40.070Z"
