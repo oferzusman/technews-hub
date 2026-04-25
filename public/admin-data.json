@@ -1,15 +1,15 @@
 {
-  "total": 5479,
-  "translated": 5478,
-  "untranslated": 1,
-  "today": 11,
-  "week": 1000,
+  "total": 5492,
+  "translated": 5479,
+  "untranslated": 13,
+  "today": 24,
+  "week": 1013,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 630,
+      "total": 641,
       "translated": 630,
-      "lastDate": "2026-04-24T04:39:59.000Z"
+      "lastDate": "2026-04-24T06:06:02.000Z"
     },
     {
       "name": "Pypi.org",
@@ -26,7 +26,7 @@
     {
       "name": "Interesting Engineering",
       "total": 309,
-      "translated": 308,
+      "translated": 309,
       "lastDate": "Wed, 22 Apr 2026 23:45:50 +0000"
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 200,
+      "total": 201,
       "translated": 200,
       "lastDate": "Wed, 22 Apr 2026 19:28:01 GMT"
     },
@@ -103,7 +103,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 88,
+      "total": 89,
       "translated": 88,
       "lastDate": "Wed, 22 Apr 2026 23:59:51 +0000"
     },
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-25T05:58:43.932Z"
+  "generatedAt": "2026-04-25T07:39:04.164Z"
 }
