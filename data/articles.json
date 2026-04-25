@@ -111695,8 +111695,8 @@
       "source": "The Decoder",
       "title_en": "Anthropic says stronger AI models cut better deals, and the losers don't even notice",
       "description_en": "Anthropic let 69 AI agents trade on behalf of employees in an internal marketplace for a week. Stronger models scored better deals, and the people stuck with weaker agents never noticed. If AI models start handling real transactions for humans, these dynamics could deepen existing economic inequalities.\nThe article Anthropic says stronger AI models cut better deals, and the losers don't even notice appeared first on The Decoder.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "אנתרופיק: מודלי AI חזקים יותר עושים עסקאות טובות יותר, וזה בחסרון שלנו",
+      "description_he": "אנתרופיק ערכה ניסוי מעניין שבו 69 סוכני AI המסחרו בשוק פנימי לטובת עובדים במשך שבוע - והתוצאות מעלות חרדה: המודלים החזקים יותר עשו עסקאות הרבה יותר טובות, בעוד שהעובדים שקיבלו סוכנים חלשים אפילו לא הבחינו בהפסד. אם בעתיד AI תתחיל להתעסק בעסקאות אמיתיות בשם אנשים, הדינמיקה הזו עלולה להעמיק קיימות חוסר שוויון כלכלי ולהעטות את העשירים עוד יותר.",
       "link": "https://the-decoder.com/anthropic-says-stronger-ai-models-cut-better-deals-and-the-losers-dont-even-notice/",
       "image_url": null,
       "pub_date": "Sat, 25 Apr 2026 10:18:31 +0000",
@@ -111707,7 +111707,7 @@
         "Anthropic",
         "Claude"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-25T11:02:19.258Z",
       "created_at": "2026-04-25T11:02:19.258Z"
@@ -111717,14 +111717,14 @@
       "source": "Interesting Engineering",
       "title_en": "How remote software updates are keeping Ukraine’s combat robots on the edge",
       "description_en": "DevDroid, a Ukrainian combat robotics company, is applying a software-style update cycle to its ground-based...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "איך עדכונים תוכנה מרחוק שומרים על הרובוטים הלוחמים של אוקראינה בחזית",
+      "description_he": "החברה האוקראינית DevDroid מיישמת מודל של עדכוני תוכנה קבועים ברובוטים קרקעיים לחימה, מה שמאפשר להם להשאר רלוונטיים בשדה הקרב. במקום להמתין לשדרוג פיזי כבד, הם יכולים לשפר יכולויות וליקויים דרך אינטרנט - כמו שמעדכנים אפליקציה בטלפון, אבל עם השלכות הרבה יותר משמעותיות. זאת עוד הוכחה איך תוכנה וAI הופכים למשחקי משנה קריטי בטכנולוגיית ההגנה המודרנית. מקור: Interesting Engineering",
       "link": "https://interestingengineering.com/military/ukrainian-devdroid-combat-robots-updates",
       "image_url": null,
       "pub_date": "Sat, 25 Apr 2026 10:53:11 +0000",
       "author": "Munis Raza",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-25T11:02:20.915Z",
       "created_at": "2026-04-25T11:02:20.915Z"
@@ -111734,8 +111734,8 @@
       "source": "Futurism",
       "title_en": "Scientists Say They’ve Tested a Way to Get to Alpha Centauri in Just 20 Years",
       "description_en": "It'd be a major upgrade over spending thousands of years to get there.\nThe post Scientists Say They’ve Tested a Way to Get to Alpha Centauri in Just 20 Years appeared first on Futurism.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מדענים טוענים שהם בדקו דרך להגיע לאלפא קנטאורי תוך 20 שנים בלבד",
+      "description_he": "חוקרים הציגו טכנולוגיה חדשה שיכולה להקטין בצורה דרמטית את זמן הנסיעה לכוכב השכן שלנו - מאלפי שנים ל-20 שנים בלבד. זה נראה כמו משימה שמוציאה את החלל מתחום הדמיון לעולם המציאות, והם כבר התחילו לבדוק את הרעיון הזה.",
       "link": "https://futurism.com/science-energy/scientists-20-years-alpha-centauri-lasers",
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/scientists-20-years-alpha-centauri-lasers.jpg?quality=85",
       "pub_date": "Sat, 25 Apr 2026 06:45:00 -0400",
@@ -111772,7 +111772,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-25T11:02:21.056Z",
       "created_at": "2026-04-25T11:02:21.056Z"
@@ -111782,8 +111782,8 @@
       "source": "Tom's Hardware",
       "title_en": "AMD EXPO 1.2 is here, but you may not notice significant gains until Zen 6 — upgraded RAM overclocking tech will unlock the next level of memory speed on Ryzen CPUs",
       "description_en": "Third-party AMD developer and hardware leakers share details of the new AMD EXPO 1.2 technology arriving on AMD AM5 motherboards.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "AMD EXPO 1.2הגיע - אבל תראו את ההבדל האמיתי רק עם Zen 6",
+      "description_he": "AMD שודרגת את טכנולוגיית ה-EXPO שלה לגרסה 1.2 עם יכולות overclock משופרות לזיכרון RAM, אבל הרגיעו - אם יש לכם מערכת אחרונה, הגרסה החדשה לא תשנה בדרמטיות את הביצועים שלכם. ההשפעה האמיתית תראו רק כשהמעבדים החדשים של Zen 6 יגיעו לשוק ויוכלו למנף במלואו את הטכנולוגיה המעודכנת הזו. מפתחים וליקר hardware כבר שיתפו את הפרטים הראשונים על הטכנולוגיה החדשה שתהיה זמינה במק\"ד AM5.",
       "link": "https://www.tomshardware.com/pc-components/ram/amd-expo-1-2-is-here-but-you-may-not-notice-significant-gains-until-zen-6-upgraded-ram-overclocking-tech-will-unlock-the-next-level-of-memory-speed-on-ryzen-cpus",
       "image_url": "https://cdn.mos.cms.futurecdn.net/DgnCy6qJLcnrV9geLHmGqW-1280-80.jpg",
       "pub_date": "Sat, 25 Apr 2026 10:40:00 +0000",
@@ -111792,7 +111792,7 @@
         "RAM",
         "PC Components"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-25T11:02:21.144Z",
       "created_at": "2026-04-25T11:02:21.144Z"
@@ -111802,8 +111802,8 @@
       "source": "Tom's Hardware",
       "title_en": "Enthusiast fixes 30-year issue with S3 graphics card — hacking the VBIOS fixes black levels by scalpelling out the Virge DX’s ‘pedestal bit’",
       "description_en": "A retro hardware enthusiast has demonstrated a fix that eliminates the washed-out appearance people witness when using 1990s graphics cards from S3.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "אנתוסיאסט תיקן בעיה בת 30 שנים בכרטיס גרפיקה S3 — פריצת VBIOS פתרה את בעיית הרמות השחור",
+      "description_he": "חובב חומרה רטרו הצליח לתקן בעיה שהטריפה משתמשים כל הזמן: כרטיסי ה-GPU מ-S3 בשנות ה-90 נראו שחוקים ודלוקים מכדי להיות נכונים. הפתרון? עריכת VBIOS וכיבוי קצת אחד שעקב כל הבעיות - וזה פשוט עבד. Tom's Hardware",
       "link": "https://www.tomshardware.com/pc-components/gpus/enthusiast-fixes-30-year-issue-with-s3-graphics-card-hacking-the-vbios-fixes-black-levels-by-scalpelling-out-the-virge-dxs-pedestal-bit",
       "image_url": "https://cdn.mos.cms.futurecdn.net/GH8LjwWs4k7BwH9FfVJBPY-1280-80.jpg",
       "pub_date": "Sat, 25 Apr 2026 10:20:00 +0000",
@@ -111812,7 +111812,7 @@
         "GPUs",
         "PC Components"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-25T11:02:21.144Z",
       "created_at": "2026-04-25T11:02:21.144Z"
