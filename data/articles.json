@@ -111689,6 +111689,133 @@
       "priority": "hot",
       "fetchedAt": "2026-04-25T10:08:27.673Z",
       "created_at": "2026-04-25T10:08:27.673Z"
+    },
+    {
+      "id": 5501,
+      "source": "The Decoder",
+      "title_en": "Anthropic says stronger AI models cut better deals, and the losers don't even notice",
+      "description_en": "Anthropic let 69 AI agents trade on behalf of employees in an internal marketplace for a week. Stronger models scored better deals, and the people stuck with weaker agents never noticed. If AI models start handling real transactions for humans, these dynamics could deepen existing economic inequalities.\nThe article Anthropic says stronger AI models cut better deals, and the losers don't even notice appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-says-stronger-ai-models-cut-better-deals-and-the-losers-dont-even-notice/",
+      "image_url": null,
+      "pub_date": "Sat, 25 Apr 2026 10:18:31 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Claude"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-25T11:02:19.258Z",
+      "created_at": "2026-04-25T11:02:19.258Z"
+    },
+    {
+      "id": 5502,
+      "source": "Interesting Engineering",
+      "title_en": "How remote software updates are keeping Ukraine’s combat robots on the edge",
+      "description_en": "DevDroid, a Ukrainian combat robotics company, is applying a software-style update cycle to its ground-based...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/ukrainian-devdroid-combat-robots-updates",
+      "image_url": null,
+      "pub_date": "Sat, 25 Apr 2026 10:53:11 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-25T11:02:20.915Z",
+      "created_at": "2026-04-25T11:02:20.915Z"
+    },
+    {
+      "id": 5503,
+      "source": "Futurism",
+      "title_en": "Scientists Say They’ve Tested a Way to Get to Alpha Centauri in Just 20 Years",
+      "description_en": "It'd be a major upgrade over spending thousands of years to get there.\nThe post Scientists Say They’ve Tested a Way to Get to Alpha Centauri in Just 20 Years appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/science-energy/scientists-20-years-alpha-centauri-lasers",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/scientists-20-years-alpha-centauri-lasers.jpg?quality=85",
+      "pub_date": "Sat, 25 Apr 2026 06:45:00 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Science & Energy",
+          "$": {
+            "domain": "https://futurism.com/category/science-energy"
+          }
+        },
+        {
+          "_": "Energy",
+          "$": {
+            "domain": "https://futurism.com/category/energy"
+          }
+        },
+        {
+          "_": "Off-World",
+          "$": {
+            "domain": "https://futurism.com/category/off-world"
+          }
+        },
+        {
+          "_": "Physics",
+          "$": {
+            "domain": "https://futurism.com/category/physics"
+          }
+        },
+        {
+          "_": "Space",
+          "$": {
+            "domain": "https://futurism.com/category/space"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-25T11:02:21.056Z",
+      "created_at": "2026-04-25T11:02:21.056Z"
+    },
+    {
+      "id": 5504,
+      "source": "Tom's Hardware",
+      "title_en": "AMD EXPO 1.2 is here, but you may not notice significant gains until Zen 6 — upgraded RAM overclocking tech will unlock the next level of memory speed on Ryzen CPUs",
+      "description_en": "Third-party AMD developer and hardware leakers share details of the new AMD EXPO 1.2 technology arriving on AMD AM5 motherboards.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ram/amd-expo-1-2-is-here-but-you-may-not-notice-significant-gains-until-zen-6-upgraded-ram-overclocking-tech-will-unlock-the-next-level-of-memory-speed-on-ryzen-cpus",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/DgnCy6qJLcnrV9geLHmGqW-1280-80.jpg",
+      "pub_date": "Sat, 25 Apr 2026 10:40:00 +0000",
+      "author": " Zhiye Liu ",
+      "categories": [
+        "RAM",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-25T11:02:21.144Z",
+      "created_at": "2026-04-25T11:02:21.144Z"
+    },
+    {
+      "id": 5505,
+      "source": "Tom's Hardware",
+      "title_en": "Enthusiast fixes 30-year issue with S3 graphics card — hacking the VBIOS fixes black levels by scalpelling out the Virge DX’s ‘pedestal bit’",
+      "description_en": "A retro hardware enthusiast has demonstrated a fix that eliminates the washed-out appearance people witness when using 1990s graphics cards from S3.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/enthusiast-fixes-30-year-issue-with-s3-graphics-card-hacking-the-vbios-fixes-black-levels-by-scalpelling-out-the-virge-dxs-pedestal-bit",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/GH8LjwWs4k7BwH9FfVJBPY-1280-80.jpg",
+      "pub_date": "Sat, 25 Apr 2026 10:20:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-25T11:02:21.144Z",
+      "created_at": "2026-04-25T11:02:21.144Z"
     }
   ]
 }
