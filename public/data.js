@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "GLP-1 Drugs Linked to Cognitive Impairment, Though the Reason Why Probably Isn’t What You Expect\n\nIt's an extremely nuanced relationship.\nThe post GLP-1 Drugs Linked to Cognitive Impairment, Though the Reason Why Probably Isn’t What You Expect appeared first on Futurism.",
+    "t": "תרופות GLP-1 קשורות לירידה בקוגניציה - אבל אולי לא בדרך שאתם חושבים\n\nחוקרים גילו קשר מעניין בין תרופות ירידת משקל פופולריות לבעיות קוגניטיביות, אך התוצאה מורכבת יותר ממה שזה נראה במבט ראשון. זה לא בדיוק שהתרופה עצמה משפיעה על המוח, אלא יותר משהו שקשור לשינוים שהן גורמות בגוף. עלון מעניין שמציע שעלינו להיות קצת יותר זהירים כשמדברים על כל הטרנדים הרפואיים החדשים.",
     "d": "Sat, 25 Apr 2026 07:30:00 -0400",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Your Walmart might be 3D printed — firm building more than a dozen 3D-printed Walmart expansions with concrete-printing Robots\n\nFor years, 3D Concrete Printing (3DCP) has been an experimental novelty. Alquist 3D, based in Greeley, CO, is pushing the technology past the demonstration phase with their A1X, a robotic arm printer that lays down inch-thick layers at a whopping 200mm/s.",
+    "t": "וולמארט מודפסת בתלת מימד — חברה בונה יותר מתריסר הרחבות של וולמארט באמצעות רובוטים להדפסת בטון\n\nהדפסת בטון תלת מימדית (3DCP) כבר לא רק ניסיון מדעי - חברת Alquist 3D מ-קולורדו מעבירה את הטכנולוגיה לשלב הייצור האמיתי עם הזרוע הרובוטית A1X שלהם, שמסוגלת להדפיס שכבות בעובי אינץ' בקצב מטורף של 200 מילימטר לשנייה. עם כל הפיתוח הזה, אנחנו עשויים לראות בקרוב חנויות וולמארט שנבנו מהר וזול בהרבה מהשיטות הקונבנציונליות.",
     "d": "Sat, 25 Apr 2026 11:20:00 +0000",
     "v": 0,
     "l": [
@@ -39,8 +39,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/uCvhFKVN2iQ9NfY8AUnB7c-1280-80.jpg",
@@ -48,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Intel VP claims up to 30% of CPU performance is untapped by modern games — software optimization is critical to unlocking full potential of hybrid CPUs\n\nIntel is claiming that better software optimization for hybrid architecture CPUs can unlock up to 30% more performance without hardware upgrades. The silicon itself is very capable, but its true potential is held back by code that perhaps prioritizes more conventional silicon and, therefore, benefits from brute-force upgrades like extra L3 cache.",
+    "t": "נציג אינטל: עד 30% מביצועי ה-CPU של המשחקים לא נוצלים — אופטימיזציה של תוכנה היא המפתח\n\nאינטל טוענת שאם משחקים יתאימו את הקוד שלהם לארכיטקטורה ההיברידית של המעבדים שלה, אפשר להוציא עד 30% ביצועים נוספים בלי צורך בחומרה חדשה. הבעיה היא שמפתחי המשחקים עדיין כותבים קוד שפועל טוב יותר על מעבדים קונבנציונליים, ולא עושים שימוש חכם בכל הליבות של המעבדים ההיברידיים של אינטל - וזה הדבר שמאט את הכל.",
     "d": "Sat, 25 Apr 2026 11:00:00 +0000",
     "v": 0,
     "l": [
@@ -94,7 +93,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Palantir employees are talking about company's \"descent into fascism\"\n\nSlack messages, interviews with current and former works paint picture of company in turmoil.",
+    "t": "עובדי פלנטיר מדברים על 'ירידה לפשיזם' של החברה\n\nהודעות Slack וראיונות עם עובדים עכשוויים ולשעבר חושפים תמונה של חברה בתהפוכות. נראה שיש עומק משמעותי של חוסר שקט פנימי בחברת הטכנולוגיה הגדולה, שעלול להשפיע על התרבות הארגונית שלה.",
     "d": "Sat, 25 Apr 2026 10:49:52 +0000",
     "v": 0,
     "l": [

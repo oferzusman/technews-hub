@@ -1,7 +1,7 @@
 {
   "total": 5509,
-  "translated": 5505,
-  "untranslated": 4,
+  "translated": 5509,
+  "untranslated": 0,
   "today": 41,
   "week": 1030,
   "sources": [
@@ -20,7 +20,7 @@
     {
       "name": "Tom's Hardware",
       "total": 327,
-      "translated": 325,
+      "translated": 327,
       "lastDate": "Wed, 22 Apr 2026 20:44:57 +0000"
     },
     {
@@ -38,13 +38,13 @@
     {
       "name": "Futurism",
       "total": 250,
-      "translated": 249,
+      "translated": 250,
       "lastDate": "Wed, 22 Apr 2026 16:27:39 -0400"
     },
     {
       "name": "Ars Technica",
       "total": 226,
-      "translated": 225,
+      "translated": 226,
       "lastDate": "Wed, 22 Apr 2026 22:07:54 +0000"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-25T12:00:31.189Z"
+  "generatedAt": "2026-04-25T13:38:35.315Z"
 }
