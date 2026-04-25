@@ -112944,6 +112944,59 @@
       "priority": "hot",
       "fetchedAt": "2026-04-25T17:56:01.994Z",
       "created_at": "2026-04-25T17:56:01.994Z"
+    },
+    {
+      "id": 5547,
+      "source": "Interesting Engineering",
+      "title_en": "Light-controlled artificial muscles: Researchers develop shape-shifting materials",
+      "description_en": "Researchers at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) are scaling individual molecular machines into three-dimensional structures to create...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/light-controlled-artificial-muscles-shape-shifting",
+      "image_url": null,
+      "pub_date": "Sat, 25 Apr 2026 18:52:41 +0000",
+      "author": "Aman Tripathi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-25T18:52:57.004Z",
+      "created_at": "2026-04-25T18:52:57.004Z"
+    },
+    {
+      "id": 5548,
+      "source": "Futurism",
+      "title_en": "Climate Scientists Shake Their Heads as First US City Running Completely Out of Water",
+      "description_en": "\"We have no precedent to follow. There's no manual, there's no video.\"\nThe post Climate Scientists Shake Their Heads as First US City Running Completely Out of Water appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/science-energy/texas-water-crisis-climate",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/texas-water-crisis-climate.jpg?quality=85",
+      "pub_date": "Sat, 25 Apr 2026 14:15:00 -0400",
+      "author": "Joe Wilkins",
+      "categories": [
+        {
+          "_": "Science & Energy",
+          "$": {
+            "domain": "https://futurism.com/category/science-energy"
+          }
+        },
+        {
+          "_": "Climate Change",
+          "$": {
+            "domain": "https://futurism.com/category/climate-change"
+          }
+        },
+        {
+          "_": "Environment",
+          "$": {
+            "domain": "https://futurism.com/category/environment"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-25T18:52:57.074Z",
+      "created_at": "2026-04-25T18:52:57.074Z"
     }
   ]
 }
