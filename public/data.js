@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Most bizarre magnet is an invisible material that erases its magnetic field\n\nMagnets are powerful, but they’re also noisy. Not in the way speakers are, but in...",
+    "t": "החומר המגנטי המוזר ביותר: חומר בלתי נראה שמחסל את השדה המגנטי שלו\n\nמדענים פיתחו חומר מגנטי מוזר שמצליח למחוק את חתימתו המגנטית שלו - משהו שנראה כמו קסם אבל זה בעצם פיזיקה חכמה מאוד. החומר הזה יכול להיות משחק משנה בתחומים כמו רפואה ודיוק, כי סוף סוף יש לנו מגנט שלא \"רועש\" בכל השדה המגנטי שלו. כמו שיגידו לך כל מנהל נתונים טוב, פחות הפרעה = יותר כיף.",
     "d": "Sat, 25 Apr 2026 16:05:43 +0000",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Waymo Baffles Police When it Plows Through Taped Off Crime Scene\n\n\"Oh my days, bruv... that's a Waymo driverless taxi, y'know, the driverless ones.\"\nThe post Waymo Baffles Police When it Plows Through Taped Off Crime Scene appeared first on Futurism.",
+    "t": "וויימו מבלבלת משטרה כשחודרת דרך סцנת פשע שסגורה בסרט\n\nבמקרה מביך למערכת האוטונומית של גוגל, מכונית Waymo ללא נהג פשוט לא שמרה על הנימוס וחדרה דרך אזור פשע שסוגר על ידי המשטרה עם סרט אדום-לבן. כנראה שה-AI של וויימו עדיין צריך ללמוד כמה כללי נימוס בסיסיים ברחוב, כי היא לא הבינה שהסרט והשוטרים באזור הם סימן עצור משפטי לכל דבר. המקרה הזה מעלה שאלות חשובות על איך רכבים אוטונומיים צריכים להתמודד עם מצבים יוצאי דופן בעולם האמיתי. \n\nמקור: Futurism",
     "d": "Sat, 25 Apr 2026 12:00:00 -0400",
     "v": 0,
     "l": [
@@ -47,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Intel's upcoming Xeon 7 \"Diamond Rapids\" server CPUs reportedly delayed to 2027 — Next-gen Coral Rapids lineup lands 2028 but can be accelerated, according to new leak\n\nDiamond Rapids, also known as Xeon 7, was supposed to launch later this year, but a new leak from Jaykihn claims the timeline has now moved to 2027. Clearwater Forest, the E-core-only successor to Sierra Forest, is set to release in the first half of this year, while the next-gen Coral Rapids family is reportedly planned for 2028.",
+    "t": "Intel עיכבה את ה-Xeon 7 'Diamond Rapids' ל-2027 — Coral Rapids הבאה תגיע ב-2028\n\nאינטל דוחפת את השקת ה-Diamond Rapids שלה (Xeon 7) בשנה שתיים קדימה, ל-2027 במקום להשנה הזו. בינתיים, Clearwater Forest תוציא בחצי הראשון של 2024, ואחריה תגיע הסדרה הבאה Coral Rapids בשנת 2028, אם כי יש אפשרות להאיץ את התהליך. זה עוד הודעה על עיכובים בלוח הזמנים של אינטל לשרתים, משהו שהפכה להיות סדר יום קבוע בחברה בשנים האחרונות.",
     "d": "Sat, 25 Apr 2026 15:47:26 +0000",
     "v": 0,
     "l": [
@@ -64,13 +64,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/VBnZto6P3Yzh9RfNDACjGT-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 4,
-    "t": "3,330-year-old ceremonial hoard unearthed, offers intriguing look at trade shaping religion\n\nA 3,330-year-old hoard of jewelry recently discovered in a Bronze Age hotspot reveals the religious...",
+    "t": "אוצר טכסי בן 3,330 שנה נחשף - חלון חדש להבנת הסחר והדת בעת הברונזה\n\nבני ארכיאולוגים גילו אוצר של תכשיטים מעת הברונזה שמדברים על עצמו - וזה לא סתם שום תכשיטים, אלא כלי שהשפיעו על הדת והאמונות של התקופה. הממצא הזה מחשיף איך הסחר בין תרבויות עיצב את המנהגים הדתיים וחיזק קשרים בין חברות שונות, מה שמראה שכבר אז היה קשר הדוק בין כסף, סחורות לאמונה.",
     "d": "Sat, 25 Apr 2026 15:39:08 +0000",
     "v": 0,
     "l": [
@@ -349,7 +349,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "China’s multi-role, stealth-capable J-35 fighter jet gets official name ‘Blue Shark’\n\nChina has officially nicknamed its Shenyang J-35 the “Blue Shark,” which, experts note, likely signals...",
+    "t": "סין נחשפה: קוד השם של הקרב החדש J-35 הוא 'כריש כחול'\n\nסין הכריזה רשמית על שם הכינוי של קרב ה-Shenyang J-35 שלה - 'כריש כחול' - במהלך שיוצא לדרך משמעותי בתחום התעופה הצבאית. מומחים מצביעים על כך שהשם הזה לא בחירה כלל אקראית, אלא אות חשובה על ההשקעה הגדולה של בייג'ינג בטכנולוגיית זריזות וסתר עיצובי בדור הבא של מטוסי קרב רב-תפקידיים.",
     "d": "Sat, 25 Apr 2026 13:17:13 +0000",
     "v": 0,
     "l": [
@@ -444,7 +444,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "US programmer job growth nearly halved since ChatGPT launched, Fed study finds\n\nProgrammers are among the professional groups whose everyday lives have changed the most as a result of generative AI. A new study by the Federal Reserve Board now provides evidence that this is also reflected in employment figures.\nThe article US programmer job growth nearly halved since ChatGPT launched, Fed study finds appeared first on The Decoder.",
+    "t": "קצב גדילת מקומות עבודה לתכנתים בארה\"ב כמעט התחצה מאז הוצאת ChatGPT - מחקר הפדרל רזרב\n\nהמחקר של הפדרל רזרב חשף נתון מעניין וקצת מדאיג: גדילת מקומות העבודה לתכנתים בארה\"ב ירדה בחצי בערך מאז ChatGPT הופץ לציבור. זה מראה שה-AI היוצר לא רק שינה את הדרך שבה תכנתים עובדים יום-יום, אלא גם השפיע ממש על שוק העבודה במקצוע. המחקר מספק ראיות קונקרטיות לכך שהמהפכה של AI כבר מרגישה במספרים החדשים של מעסיקים בתחום הטכנולוגיה.",
     "d": "Sat, 25 Apr 2026 12:44:29 +0000",
     "v": 0,
     "l": [
@@ -464,7 +464,7 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
@@ -496,7 +496,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "Space spider reborn: China revives NASA’s orbital construction robot dream\n\nChinese researcher are reportedly developing their own version of NASA’s “SpiderFab” orbital fabrication autonomous robot....",
+    "t": "עכביש החלל חוזר לחיים: סין מחדשת את חלום הרובוט הבנייה של נאסא\n\nחוקרים סינים מתאימים לעצמם גרסה משלהם של 'SpiderFab' - הרובוט האוטונומי של נאסא לייצור במרחב. הטכנולוגיה הזו יכולה להיות משחק משנה בתחום הבנייה במסלול כדור הארץ, כי היא תאפשר בניית מבנים גדולים בחלל ללא צורך להשיקם מכדור הארץ.",
     "d": "Sat, 25 Apr 2026 12:43:33 +0000",
     "v": 0,
     "l": [
@@ -511,16 +511,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://www.youtube.com/embed/M6Oc64IRE0A",
     "source": "Interesting Engineering"
   },
   {
     "id": 23,
-    "t": "US data centers to get power from Hyundai’s 684MW energy system supply deal\n\nHD Hyundai Heavy Industries has entered into a significant agreement with Aperion Energy Group to...",
+    "t": "מרכזי נתונים בארה\"ב יקבלו חשמל מחוזקת אנרגיה ענקית של היונדאי בהספק 684MW\n\nHD Hyundai Heavy Industries חתמה על הסכם משמעותי עם Aperion Energy Group לספק מערכת אנרגיה ענקית למרכזי הנתונים האמריקאיים. ההסכם מסמל צעד גדול של היונדאי לתחום ה-infrastructure של energy וmeet את הביקוש ההולך וגדל של data centers בעלויות אנרגיה גדולות. החוזקה הזו מציגה את העניין הגובר של יצרנים גדולים בעולם ה-AI ו-cloud computing להבטיח sources תבת וחסכוני של חשמל.",
     "d": "Sat, 25 Apr 2026 12:37:18 +0000",
     "v": 0,
     "l": [
@@ -543,7 +542,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 24,
-    "t": "Electric air taxis move closer to reality as VX4 completes critical transition test\n\nVertical Aerospace’s VX4 electric vertical take-off and landing (eVTOL) aircraft has completed its first piloted...",
+    "t": "מוניות אוויר חשמליות קרובות יותר למציאות: VX4 עברה בהצלחה בדיקה קריטית\n\nחברת Vertical Aerospace קידמה את הפרויקט שלה בצעדים ענקיים - המטוס החשמלי VX4, שמאפשר הנמשאה אנכית (eVTOL), עברה בהצלחה בדיקה קריטית עם טייס אמיתי בתא הטיס. זה לא סתם ניסוי במעבדה - זאת הוכחה שהטכנולוגיה של מוניות אוויר חשמליות באמת עובדת ויכולה להיות קרובה לשוק הרבה יותר מהרגשה שיש לנו. אנחנו שוחחים על זה שבעוד כמה שנים אנחנו עלולים לראות הצצה כזו דברים בשמיים של תל אביב.",
     "d": "Sat, 25 Apr 2026 12:16:45 +0000",
     "v": 0,
     "l": [
@@ -566,7 +565,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "Qwen3.6-27B beats much larger predecessor on most coding benchmarks\n\nAlibaba's new open-source model Qwen3.6-27B beats its 15-times-larger predecessor across coding benchmarks with just 27 billion parameters.\nThe article Qwen3.6-27B beats much larger predecessor on most coding benchmarks appeared first on The Decoder.",
+    "t": "Qwen3.6-27B מכה את הקודמת שלה הגדולה בהרבה בבדיקות קוד\n\nאליבאבא הוציאה מודל open-source חדש שמצליח לשבור את הכללים של המשחק - Qwen3.6-27B בן 27 מיליארד הפרמטרים מכה את קודמתה שגדולה פי 15 בכל בדיקות הקוד. זה אומר שאתם לא חייבים מודל ענקי כדי לקבל ביצועים מעולים בתכנות, וזאת חדשות טובות למי שמחפש משהו יעיל וקל יותר לריצה.",
     "d": "Sat, 25 Apr 2026 12:16:13 +0000",
     "v": 0,
     "l": [
@@ -581,10 +580,9 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
