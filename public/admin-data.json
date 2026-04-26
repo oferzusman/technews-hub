@@ -1,7 +1,7 @@
 {
   "total": 5626,
-  "translated": 5620,
-  "untranslated": 6,
+  "translated": 5626,
+  "untranslated": 0,
   "today": 69,
   "week": 1076,
   "sources": [
@@ -26,7 +26,7 @@
     {
       "name": "Interesting Engineering",
       "total": 337,
-      "translated": 334,
+      "translated": 337,
       "lastDate": "Wed, 22 Apr 2026 23:45:50 +0000"
     },
     {
@@ -38,19 +38,19 @@
     {
       "name": "Futurism",
       "total": 270,
-      "translated": 269,
+      "translated": 270,
       "lastDate": "Wed, 22 Apr 2026 16:27:39 -0400"
     },
     {
       "name": "Ars Technica",
       "total": 229,
-      "translated": 228,
+      "translated": 229,
       "lastDate": "Wed, 22 Apr 2026 22:07:54 +0000"
     },
     {
       "name": "New Atlas",
       "total": 212,
-      "translated": 211,
+      "translated": 212,
       "lastDate": "Wed, 22 Apr 2026 19:28:01 GMT"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-26T20:57:19.874Z"
+  "generatedAt": "2026-04-26T21:41:11.293Z"
 }

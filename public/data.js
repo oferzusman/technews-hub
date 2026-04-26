@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Exceptional 500 medieval cannonballs discovered in Belgium stun archaeologists\n\nThe construction of a new administrative building in Nieuwpoort, Belgium, took an unexpected and humorous...",
+    "t": "תגלית מדהימה: 500 כדורי תותח מימי הביניים התגלו בבלגיה והעירו את הארכיאולוגים\n\nבמהלך בנייה של בניין ממשלתי חדש בעיר נויופורט בבלגיה, הפועלים נתקלו בהפתעה גדולה - 500 כדורי תותח מתקופת ימי הביניים שהופקדו שם מאות שנים. התגלית הנדירה הזו גרמה לארכיאולוגים להסתערות על האתר כדי לחקור את ההיסטוריה המוסתרת של הטבע הצבאי של האזור, וטוב שלא התפוצצו אף אחד מהכדורים האלה בעבודה!",
     "d": "Sun, 26 Apr 2026 19:33:42 +0000",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Chinese-led team creates self-propelling material for uranium extraction from seawater\n\nResearchers at the Chinese Academy of Sciences have engineered a light-driven micromotor capable of navigating...",
+    "t": "צוות בהנהגת סין יוצר חומר שמניע את עצמו לייצור אורניום מים ים\n\nחוקרים מהאקדמיה הסינית למדעים פיתחו מיקרו-מוטור המונע על ידי אור שיכול לנווט בעצמאות ולחלץ אורניום ישירות מי ים. הטכנולוגיה החדשנית הזו היא משהו בין רובוטיקה לכימיה, וזה יכול להיות game-changer בתחום אנרגיה גרעינית וייצור דלק. המחקר מדגים איך ה-AI וה-nanotechnology יכולים לשנות דרכים מסורתיות ליצוג משאבים.\n\nמקור: Interesting Engineering",
     "d": "Sun, 26 Apr 2026 19:07:23 +0000",
     "v": 0,
     "l": [
@@ -47,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "'Villain-hitting' – where a shoe-wielding senior beats your foe from your life\n\nBeneath the expansive concrete overpass amid the bustling hub of Causeway Bay, you'll find a bizarre and enduring tradition in Hong Kong – \"villain hitting.\" Here, elderly women perform an elaborate ritual that involves bashing a name written on paper with a shoe, while chanting, to free people from someone causing them grief and encourage fortune and peace in their place.\nContinue Reading\nCategory: Holiday Destinations, Outdoors\nTags: History, China, Traditional medicine, Ghosts, ancient, Shoes",
+    "t": "\"הכאת הנבל\" - קשישה עם נעל מנקה לך את הרוע מהחיים\n\nבהונג קונג יש טקס מוזר שהחזיק מעמד למשך עשרות שנים: נשים קשישות מוצבות מתחת לגשר ענק בעיר, לוקחות נעל ותוקעות אותה שוב ושוב על שם של אדם שעושה לך טרחה - כל זה כדי להינצל מהשפעתו הרעה ולהביא מזל וקסם לחיים. זה משהו בין וודו לתרגול מסורתי סיני שמגיע עד ימי קדם, וזה שם בו כמעט כל אחד בהונג קונג באמת מאמין.",
     "d": "Sun, 26 Apr 2026 19:03:00 GMT",
     "v": 0,
     "l": [
@@ -70,7 +70,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Two Delivery Bots Blunder Into the Middle of a Police Incident, Have Awkward Standoff\n\n\"If I went right there where that robot is, I am one hundred percent getting arrested.\"\nThe post Two Delivery Bots Blunder Into the Middle of a Police Incident, Have Awkward Standoff appeared first on Futurism.",
+    "t": "שני רובוטי משלוחים התחזו ישירות לתוך תיק משטרה - וקרה משהו מביך באמת\n\nשני רובוטי משלוחים התנגשו בתמונה בזמן פעולת משטרה אמיתית, מה שיצר עמדה מוזרה וקצת קומית בין האנשים לרובוטים. זה כמו כשהרובוט לא מבין שהוא צריך להיות משם והחבורה לא בדיוק יודעת איך להתמודד עם המצב המשונה הזה.",
     "d": "Sun, 26 Apr 2026 14:15:00 -0400",
     "v": 0,
     "l": [
@@ -85,8 +85,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/delivery-bots-standoff.jpg?quality=85",
@@ -94,7 +93,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Experts warn AI swarms could fabricate democratic consensus\n\nCoordinated networks of AI agents could undermine democratic processes by simulating mass citizen participation —...",
+    "t": "מומחים מזהירים: 'ללועות' של AI עלולות להזיף הסכמה דמוקרטית\n\nחוקרים מגבילים על סכנה חדשה בעידן ה-AI: רשתות מתואמות של סוכנים בינכם יכולות לחבול בתהליכים דמוקרטיים על ידי סימולציה של השתתפות המונית מדומה של אזרחים. זה לא רק בעיית בוטים - אנחנו מדברים על מניפולציה מתוכננת של דעת הקהל בקנה מידה שלא ראינו עד כה. המסר הברור: אנחנו צריכים להתחיל לחשוב על הגנות דמוקרטיות מול התקופה של AI swarms.",
     "d": "Sun, 26 Apr 2026 18:08:48 +0000",
     "v": 0,
     "l": [
@@ -109,8 +108,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -187,7 +185,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Prime Video drops full trailer for Spider-Noir\n\nIt's \"a detective story, but the detective happens to also have spider powers.”—EP Chris Miller",
+    "t": "Prime Video משחררת טריילר מלא של Spider-Noir\n\nסדרה חדשה שמשלבת דרמת גשש קלאסית עם כוחות קוסם עדיין לא ראינו - בן ספיידר-מן בעל יכולות כמו עכביש, אבל במציאות עתיקה וכהה של שנות ה-30. עם הבחור של Into the Spider-Verse מופיע כמו יוצר מנהל ומובטח שזה יהיה טריפ ויזואלי לא שכחני שמחבר סוגי ז'אנר בדרך מקורית.",
     "d": "Sun, 26 Apr 2026 17:20:55 +0000",
     "v": 0,
     "l": [
