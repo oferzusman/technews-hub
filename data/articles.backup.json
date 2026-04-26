@@ -114602,6 +114602,88 @@
       "priority": "hot",
       "fetchedAt": "2026-04-26T17:27:53.589Z",
       "created_at": "2026-04-26T17:27:53.589Z"
+    },
+    {
+      "id": 5618,
+      "source": "Interesting Engineering",
+      "title_en": "Korea’s next-gen system enables simultaneous production of hydrogen using waste glycerol",
+      "description_en": "Researchers in South Korea have developed a next-generation high-efficiency electrochemical system that enables the simultaneous...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/korea-next-gen-system-hydrogen-production",
+      "image_url": null,
+      "pub_date": "Sun, 26 Apr 2026 17:58:24 +0000",
+      "author": "Prabhat Ranjan Mishra",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T18:06:43.244Z",
+      "created_at": "2026-04-26T18:06:43.244Z"
+    },
+    {
+      "id": 5619,
+      "source": "Interesting Engineering",
+      "title_en": "2,000-year-old statue of Athena found in theater of Biblical city of Laodicea",
+      "description_en": "Archaeologists uncovered a nearly complete, six-foot-tall statue of Athena at the West Theater in Laodicea,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/culture/2000-year-old-statue-of-athena",
+      "image_url": "https://www.youtube.com/embed/3dGFdu5hfrE",
+      "pub_date": "Sun, 26 Apr 2026 17:56:50 +0000",
+      "author": "Maria Mocerino",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T18:06:43.244Z",
+      "created_at": "2026-04-26T18:06:43.244Z"
+    },
+    {
+      "id": 5620,
+      "source": "Futurism",
+      "title_en": "Top Medical Journal Publishes Searing Article Warning Against Medical AI",
+      "description_en": "\"Evidence that AI tools create value for patients, providers or health systems remains scarce.\"\nThe post Top Medical Journal Publishes Searing Article Warning Against Medical AI appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/top-medical-journal-warning-against-medical-ai",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/top-medical-journal-warning-against-medical-ai.jpg?quality=85",
+      "pub_date": "Sun, 26 Apr 2026 13:30:00 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Developments",
+          "$": {
+            "domain": "https://futurism.com/category/developments"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        },
+        {
+          "_": "Health & Medicine",
+          "$": {
+            "domain": "https://futurism.com/category/health-medicine"
+          }
+        },
+        {
+          "_": "Medical",
+          "$": {
+            "domain": "https://futurism.com/category/medical"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T18:06:43.383Z",
+      "created_at": "2026-04-26T18:06:43.383Z"
     }
   ]
 }
