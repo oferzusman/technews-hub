@@ -1,15 +1,15 @@
 {
-  "total": 5557,
+  "total": 5572,
   "translated": 5557,
-  "untranslated": 0,
-  "today": 0,
-  "week": 1007,
+  "untranslated": 15,
+  "today": 15,
+  "week": 1022,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 641,
+      "total": 646,
       "translated": 641,
-      "lastDate": "2026-04-24T06:06:02.000Z"
+      "lastDate": "2026-04-25T04:15:20.000Z"
     },
     {
       "name": "Pypi.org",
@@ -55,7 +55,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 207,
+      "total": 208,
       "translated": 207,
       "lastDate": "Wed, 22 Apr 2026 19:28:01 GMT"
     },
@@ -67,19 +67,19 @@
     },
     {
       "name": "The Decoder",
-      "total": 160,
+      "total": 163,
       "translated": 160,
       "lastDate": "Wed, 22 Apr 2026 18:44:36 +0000"
     },
     {
       "name": "The Register",
-      "total": 151,
+      "total": 152,
       "translated": 151,
-      "lastDate": "2026-04-25T13:07:06.000Z"
+      "lastDate": "2026-04-26T09:28:09.000Z"
     },
     {
       "name": "The Guardian AI",
-      "total": 114,
+      "total": 116,
       "translated": 114,
       "lastDate": "Wed, 22 Apr 2026 18:00:32 GMT"
     },
@@ -96,16 +96,16 @@
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
+      "name": "MarkTechPost",
+      "total": 95,
+      "translated": 92,
+      "lastDate": "Wed, 22 Apr 2026 23:59:51 +0000"
+    },
+    {
       "name": "The Verge AI",
       "total": 92,
       "translated": 92,
       "lastDate": "2026-04-24T17:00:00.000Z"
-    },
-    {
-      "name": "MarkTechPost",
-      "total": 92,
-      "translated": 92,
-      "lastDate": "Wed, 22 Apr 2026 23:59:51 +0000"
     },
     {
       "name": "MIT Technology Review",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-26T09:14:17.211Z"
+  "generatedAt": "2026-04-26T10:08:47.638Z"
 }
