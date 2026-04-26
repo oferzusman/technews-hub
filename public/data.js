@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Hot take: AI's not going to kill open source code security\n\nCal.com considers AGPL a license to drill, but not everyone feels that way Opinion  Cal.com has closed its commercial codebase, abandoning years of AGPL-3.0 licensing in a move that has alarmed the developer community that helped build it and sent ripples through the broader open source world.…",
+    "t": "חם: ה-AI לא הולך להרוג את ביטחון הקוד הפתוח\n\nCal.com עשתה סיבוב דרמטי בעניין רישיונות קוד פתוח - הקומפניה סגרה את קוד הבסיס המסחרי שלה ופרשה מ-AGPL-3.0, מה שהעלה גלים כביר בקהילת המפתחים שבנו את הפלטפורמה. עם זאת, לא כולם מסכימים שזה רע, ויש דיון מתוח על המשמעות של הצעד הזה לעתידה של ביטחון וקוד פתוח בעולם ה-AI.",
     "d": "2026-04-26T09:28:09.000Z",
     "v": 0,
     "l": [
@@ -16,9 +16,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -26,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "500 investment bankers review AI outputs and find none ready for client delivery\n\nA new benchmark puts top models like GPT-5.4 and Claude Opus 4.6 to work on the kinds of tasks junior investment bankers handle every day. Not a single AI output was rated ready to send to a client; the results are too imprecise or flat-out wrong. Still, more than half of the bankers said they'd use the output as a starting point.\nThe article 500 investment bankers review AI outputs and find none ready for client delivery appeared first on The Decoder.",
+    "t": "500 בנקאים להשקעות בדקו פלטים של AI והגיעו למסקנה שאף אחד מהם לא מוכן ללקוחות\n\nבנקאים להשקעות בדקו את GPT-5.4 וClaude Opus 4.6 על משימות יומיומיות שעוזרים צעירים מטפלים בהן, ודברים לא הלכו כמו שצפויים - אף פלט אחד לא קיבל אישור להוצאה ללקוח בגלל שהתוצאות היו או לא מדויקות או פשוט שגויות. המעניין בעניין? יותר מחצי מהבנקאים אמרו שהם בכל זאת יהיו משתמשים בפלטים של ה-AI כנקודת התחלה לעבודתם.",
     "d": "Sun, 26 Apr 2026 09:18:16 +0000",
     "v": 0,
     "l": [
@@ -45,9 +43,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation",
-      "funding"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -55,7 +51,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Survey finds Claude's weekly active users in the US skew far wealthier than any rival AI assistant\n\nA survey shows Claude users earn significantly more than users of other AI services. Here's how income breaks down across ChatGPT, Gemini, and the rest.\nThe article Survey finds Claude's weekly active users in the US skew far wealthier than any rival AI assistant appeared first on The Decoder.",
+    "t": "סקר חושף: משתמשי Claude בארה״ב עשירים בהרבה מתחרותיהם בעולם ה-AI\n\nסקר חדש מגלה שמשתמשי Claude מרוויחים משמעותית יותר מהמשתמשים של שירותי AI אחרים - ונראה שלאפליקציית Anthropic יש בעצם את הקהל העשיר ביותר בשוק. ההשוואה כוללת את ChatGPT, Gemini וכל השחקנים האחרים, וההבדלים בהכנסה די דרמטיים.",
     "d": "Sun, 26 Apr 2026 08:50:02 +0000",
     "v": 0,
     "l": [
@@ -83,7 +79,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "AI agents aren't replacing software engineering but expanding it far beyond code, researchers argue\n\nThe popular story goes that AI agents are swallowing up more programming work and developers are headed for obsolescence. A new paper from researchers at Chalmers University of Technology and the Volvo Group argues that view misses the mark.\nThe article AI agents aren't replacing software engineering but expanding it far beyond code, researchers argue appeared first on The Decoder.",
+    "t": "AI agents לא מחליפים software engineering אלא מרחיבים אותו הרבה מעבר לקוד, טוענים חוקרים\n\nבניגוד לסיפור הפופולרי שAI agents עומדים לבלוע את כל עבודת התכנות ולהשמיד מקומות עבודה, חוקרים מאוניברסיטת Chalmers וVolvo Group מטיחים טיעון אחר - ה-AI בעצם מרחיב את התחום ומביא איתו הרבה יותר אפשרויות מעבר לכתיבת קוד בלבד. במקום להיות עוד סימן דרום לעולם שבו מכונות מחליפות אדם, הם רואים את זה כהזדמנות לאנשי הtech להפוך למקצוענים עם skill set הרבה יותר רחב ומעניין.",
     "d": "Sun, 26 Apr 2026 08:12:17 +0000",
     "v": 0,
     "l": [
@@ -107,7 +103,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Top 7 Benchmarks That Actually Matter for Agentic Reasoning in Large Language Models\n\nAs AI agents move from research demos to production deployments, one question has become impossible to ignore: how do you actually know if an agent is good? Perplexity scores and MMLU leaderboard numbers tell you very little about whether a model can navigate a real website, resolve a GitHub issue, or reliably handle a customer […]\nThe post Top 7 Benchmarks That Actually Matter for Agentic Reasoning in Large Language Models appeared first on MarkTechPost.",
+    "t": "7 בנצ'מרקים שבעצם משנים משחק בהערכת Agentic Reasoning של LLMs\n\nכשב-AI agents עוברים מדמו מחקרי לפרודקשן אמיתי, השאלה הזהובה הפכה בלתי נמנעת: איך בעצם יודעים אם אג'נט טוב? ציוני Perplexity ו-MMLU leaderboards לא באמת אומרים לך אם המודל יכול לנווט באתר, לפתור issue ב-GitHub או להתמודד בצורה אמינה עם שאלות של לקוחות. המאמר הזה מציין את הבנצ'מרקים שבאמת חשובים כשמדברים על מודלים אגנטיביים בתוך סביבת עבודה אמיתית. המקור: MarkTechPost",
     "d": "Sun, 26 Apr 2026 07:59:03 +0000",
     "v": 0,
     "l": [
@@ -131,7 +127,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "UK departments at odds over energy demands of AI datacentres\n\nDiscrepancy in forecasts raises questions over government planning for net zero\nOne vision of the UK’s future involves a decarbonised economy powered by clean, renewable energy. Another involves making the UK an AI superpower.\nThe government departments responsible for these two visions do not appear to have agreed on their numbers.\n Continue reading...",
+    "t": "משרדי הממשלה בבריטניה לא מסכימים על צריכת האנרגיה של מרכזי נתונים של AI\n\nיש כאן מתח מעניין בממשלה הבריטית - מצד אחד הם רוצים להיות AI superpower, ומצד שני מתחייבים להגיע לאפס פליטות פחמן. הבעיה? שום אחד לא יודע בדיוק כמה חשמל המרכזים האלה בעצם צריכים, ויש הבדלים ענקיים בחיזויים בין המשרדים השונים. זה יכול להיות בעיה רצינית לתכנון האנרגיה של המדינה בעשור הקרוב. מקור: The Guardian AI",
     "d": "Sun, 26 Apr 2026 07:00:08 GMT",
     "v": 0,
     "l": [
@@ -146,16 +142,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/de480a6a5dd62313de113f77399f46e9208b8c16/2791_939_5367_4294/master/5367.jpg?width=140&quality=85&auto=format&fit=max&s=a17fa9d0efeffea79d001d06f77754a0",
     "source": "The Guardian AI"
   },
   {
     "id": 7,
-    "t": "Cannes AI film festival raises eyebrows – and questions about future\n\nWhile emerging technology is banned from the Palme d’Or, an upstart movement is gaining investment and attention\nIn Cannes’ darkened screening rooms, the supposed future of cinema flickered into life this week and it was strange. The first edition of the World AI film festival (WAIFF) showcased visions of men with fish scales erupting from their necks and seaweed from their mouths, a heroine with a heart beating outside her body and so many massed armies of AI-generated tanned men sweeping acros",
+    "t": "פסטיבל הסרטים AI בקאן עוררה אי-נוחות - והרבה שאלות על העתיד\n\nבזמן שטכנולוגיה AI חדשה נאסרת מתחרות על הפלם ד'אור, פסטיבל עולמי חדש לסרטי AI זוכה להשקעות וקשב משמעותיים. בחדרי הקרנה בקאן הוקרנו בשבוע שעבר יצירות DNA מוזרות שלא ראינו מעולם - דמויות עם קשקשי דג, גבות ישראליות מלאות, והרבה הרבה גנרציה AI של גברים לטום שחוזרים שוב ושוב על המסך.",
     "d": "Sun, 26 Apr 2026 06:00:07 GMT",
     "v": 0,
     "l": [
@@ -170,17 +165,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/7aeb879c03fe2e7ebd413663569b7e108e9bb701/238_0_1348_1079/master/1348.jpg?width=140&quality=85&auto=format&fit=max&s=0d917f624ad40f168104b3d3515d9a75",
     "source": "The Guardian AI"
   },
   {
     "id": 8,
-    "t": "New ID.3 Neo: Is this what a proper VW electric hatch looks like?\n\nVolkswagen hasn’t exactly nailed the EV game yet … globally, at least. With the much hyped ID.7 sedan scrapped for North America, and cars like the ID.Buzz reporting bleak sales, VW was in a fix.\nContinue Reading\nCategory: Automotive, Transport\nTags: Volkswagen, Electric Vehicles, Buttons, Screens, Hot hatch",
+    "t": "ID.3 Neo החדש של פולקסווגן: האם זה סוף סוף ההאچ החשמלי שחיכינו לו?\n\nפולקסווגן לא בדיוק הצליחה בעולם הרכב החשמלי - בין ID.7 שבוטל בצפון אמריקה ל-ID.Buzz שנמכר כמו לחם קשוח. עכשיו החברה חוזרת עם ID.3 Neo שיכול להיות הפתרון שחיכתה עליו - האמא של כל האצים חשמליים בקטגוריה הכלכלית שלא תעלה לך עוד מאותו דבר במחיר הבנזין.",
     "d": "Sun, 26 Apr 2026 05:03:00 GMT",
     "v": 0,
     "l": [
@@ -197,13 +190,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "New Atlas"
   },
   {
     "id": 9,
-    "t": "RAG Without Vectors: How PageIndex Retrieves by Reasoning\n\nRetrieval is where most RAG systems quietly break. Traditional pipelines rely on vector similarity—embedding queries and document chunks into the same space and fetching the “closest” matches. But similarity is a weak proxy for what we actually need: relevance grounded in reasoning. In long, professional documents—like financial reports, research papers, or legal texts—the right answer […]\nThe post RAG Without Vectors: How PageIndex Retrieves by Reasoning appeared first on MarkTechPost.",
+    "t": "RAG ללא וקטורים: איך PageIndex משלג מסמכים דרך חשיבה לוגית\n\nמערכות RAG מסורתיות נשענות על חיפוש וקטורי - משהו שעובד בסדר בתרחישים פשוטים, אבל כשמדובר בדוקומנטים ארוכים ומורכבים כמו דוחות כספיים או חוזים משפטיים, זה בדיוק שם החיפוש הווקטורי מתחיל להכשל. PageIndex מציע דרך חדשה - במקום להסתמך על דמיון וקטורי, המערכת משתמשת בחשיבה לוגית כדי להבין באמת איזה מסמך או חלק מסמך רלוונטי באמת. זה יכול להיות גם יותר יעיל ודיוק טוב יותר בעולם האמיתי.",
     "d": "Sun, 26 Apr 2026 04:22:40 +0000",
     "v": 0,
     "l": [
@@ -220,13 +213,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://www.marktechpost.com/wp-content/uploads/2026/04/image-47.png",
     "source": "MarkTechPost"
   },
   {
     "id": 10,
-    "t": "A Coding Tutorial on Datashader on Rendering Massive Datasets with High-Performance Python Visual Analytics\n\nIn this tutorial, we explore Datashader, a powerful, high-performance visualization library for rendering massive datasets that quickly overwhelm traditional plotting tools. We work through its full rendering pipeline in Google Colab, starting from dense point clouds and reduction-based aggregations to categorical rendering, line visualizations, raster data, quadmesh grids, compositing, and dashboard-style analytical views. As we […]\nThe post A Coding Tutorial on Datashader on Rendering Massive ",
+    "t": "מדריך קודינג: Datashader - ויזואליזציה של מיליונים של נקודות נתונים בעזרת Python\n\nבואו נכיר את Datashader, הספריית הויזואליזציה שמהירה וחזקה שמסוגלת להתמודד עם כמויות ענקיות של נתונים שמסתדרים בדרך כלל את כלים הפלוטינג הקלאסיים. בטוטוריאל הזה נעבור על כל שלבי העיבוד, החל מעננות צפופות דרך aggregations, רינדור קטגוריות, ויזואליזציות של קווים, רסטר דאטה, grids וכל עד ל-dashboards אנליטיים.",
     "d": "Sun, 26 Apr 2026 04:04:15 +0000",
     "v": 0,
     "l": [
@@ -239,12 +232,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -1835,7 +1825,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 78,
-    "t": "Claude Connectors\n\nDiscussion\n            |\n            Link",
+    "t": "Claude Connectors\n\nAnthropic השיקה את Claude Connectors - תכונה חדשה שמאפשרת ל-Claude להתחבר לכלים וAPI חיצוניים בצורה חלקה יותר. זה בעצם נותן לעוזר ה-AI של Anthropic יכולות חדשות לעבוד עם מערכות חיצוניות ולבצע משימות בעולם האמיתי בקלות רבה יותר.",
     "d": "2026-04-25T04:15:20.000Z",
     "v": 0,
     "l": [
@@ -1999,7 +1989,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 85,
-    "t": "Pica\n\nDiscussion\n            |\n            Link",
+    "t": "פיקה - כלי חדש למעצבים ודיזיינרים\n\nעוד פרודקט חדש שהשתגע על Product Hunt היום - פיקה, שנראה כמו כלי די מעניין לעובדים בעולם העיצוב והקריאייטיב. אנחנו עדיין מחפשים דטיילס על בדיוק מה זה עושה, אבל לפי התיאור הקצר - זה נראה כמו משהו שיחסוך לכם הרבה זמן בתהליך העבודה.",
     "d": "2026-04-25T00:23:51.000Z",
     "v": 0,
     "l": [
@@ -3693,7 +3683,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 156,
-    "t": "QuickCompare by Trismik\n\nDiscussion\n            |\n            Link",
+    "t": "QuickCompare של Trismik\n\nכלי חדש שמאפשר להשוות בין מוצרים ושירותים בצורה מהירה וקלה. QuickCompare הוא פתרון פשוט שנועד לחסוך לך זמן בעת קבלת החלטות קנייה - במקום לטייל בין עשרות אתרים, הכל מרוכז במקום אחד. מוצר שראוי לבדוק אם אתה מתעייף מהשוואות ממושכות.",
     "d": "2026-04-24T14:07:21.000Z",
     "v": 0,
     "l": [
@@ -32540,7 +32530,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1369,
-    "t": "Happenstance\n\nDiscussion\n            |\n            Link",
+    "t": "הקפידא\n\nסוג של פרויקט או כלי שעלה לדיונים בקהילת Product Hunt. אנחנו לא בטוחים בדיוק מה זה עושה, אבל זה בהחלט משהו שמעניין את הקומיוניטי של המייקרים והאנושים של הטק בימים אלה.",
     "d": "2026-04-16T06:52:37.000Z",
     "v": 0,
     "l": [
@@ -41632,7 +41622,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1753,
-    "t": "Free chart generator by Embedful\n\nDiscussion\n            |\n            Link",
+    "t": "מחולל תרשימים חינמי מ-Embedful\n\nEmbedful הציגה כלי חינמי ליצירת תרשימים ויזואליים בקלות, בלי צורך בכישורי עיצוב מיוחדים. הכלי מאפשר למפתחים ובעלי עסקים ליצור גרפיקה מקצועית בשניות ולהטמיע אותה בקלות בפרויקטים שלהם.",
     "d": "2026-04-14T02:54:29.000Z",
     "v": 0,
     "l": [
