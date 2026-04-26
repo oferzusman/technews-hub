@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Strange New Worlds S4 teaser strikes a more serious tone\n\n\"I have ever been prone to seek adventure and to investigate where wiser men would have left well enough alone.\"",
+    "t": "עולמות חדשים וזרים - עונה 4: הטון הופך למעבר קשוח יותר\n\nסדרת Star Trek: Strange New Worlds חוזרת עם עונה רביעית שמראה פנים קשוחות יותר מהעבר. דברים מתחילים להישמע ממש רציניים כשהגיבור משם חקירות מסוכנות שגם חכמים מהם היו הורסים לעצמם, וזה בדיוק מה שהתיזר החדש מצליח להעביר - אווירה כבדה יותר שמבטיחה עונה מלחיכה. מי שחיכה לדרמה אמיתית בסדרה, עכשיו זה יכול להיות הזמן.\n\nמקור: Ars Technica",
     "d": "Sun, 26 Apr 2026 19:52:22 +0000",
     "v": 0,
     "l": [
