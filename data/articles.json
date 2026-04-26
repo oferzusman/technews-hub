@@ -113807,6 +113807,355 @@
       "priority": "hot",
       "fetchedAt": "2026-04-26T11:28:56.570Z",
       "created_at": "2026-04-26T11:28:56.570Z"
+    },
+    {
+      "id": 5584,
+      "source": "Ars Technica",
+      "title_en": "New robotic control software avoids jamming their joints",
+      "description_en": "Software lets robots learn from each other even if they have different hardware.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1455924520-1152x648.jpg",
+      "pub_date": "Sun, 26 Apr 2026 11:09:29 +0000",
+      "author": "\n                    Jacek Krywko\n                ",
+      "categories": [
+        "Science",
+        "Computer science",
+        "control software",
+        "Robotics"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-26T13:39:02.175Z",
+      "created_at": "2026-04-26T13:39:02.175Z"
+    },
+    {
+      "id": 5585,
+      "source": "The Decoder",
+      "title_en": "OpenAI kills its dedicated coding model Codex again, folding it into GPT-5.5",
+      "description_en": "OpenAI has once again retired its dedicated Codex coding model, folding its capabilities directly into the main model. GPT-5.5 promises stronger agentic coding and lower token usage, OpenAI says.\nThe article OpenAI kills its dedicated coding model Codex again, folding it into GPT-5.5 appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-kills-its-dedicated-coding-model-codex-again-folding-it-into-gpt-5-5/",
+      "image_url": null,
+      "pub_date": "Sun, 26 Apr 2026 12:49:27 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T13:39:03.157Z",
+      "created_at": "2026-04-26T13:39:03.157Z"
+    },
+    {
+      "id": 5586,
+      "source": "The Decoder",
+      "title_en": "GPT-5.5 tops benchmarks but still hallucinates frequently at a 20 percent higher API cost",
+      "description_en": "GPT-5.5 pushes OpenAI back to the top of the AI benchmarks. The price went up, but it still looks like the best bang for your buck among proprietary models.\nThe article GPT-5.5 tops benchmarks but still hallucinates frequently at a 20 percent higher API cost appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/gpt-5-5-tops-benchmarks-but-still-hallucinates-frequently-at-a-20-percent-higher-api-cost/",
+      "image_url": null,
+      "pub_date": "Sat, 25 Apr 2026 16:50:49 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "GPT-5.5",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-26T13:39:03.157Z",
+      "created_at": "2026-04-26T13:39:03.157Z"
+    },
+    {
+      "id": 5587,
+      "source": "Interesting Engineering",
+      "title_en": "China’s electrochemical system converts coal into electricity with no direct carbon emission",
+      "description_en": "Traditional coal-fired power generation is typically associated with high pollution levels, significant carbon emissions, and...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/chinas-converts-coal-into-electricity",
+      "image_url": "https://www.youtube.com/embed/esuAlB4NVi0",
+      "pub_date": "Sun, 26 Apr 2026 12:35:44 +0000",
+      "author": "Bojan Stojkovski",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T13:39:06.957Z",
+      "created_at": "2026-04-26T13:39:06.957Z"
+    },
+    {
+      "id": 5588,
+      "source": "Interesting Engineering",
+      "title_en": "US still ahead of China in AI as DeepSeek fails to narrow gap amid intense race: Report",
+      "description_en": "Despite a measurable step up from its predecessor, DeepSeek’s V4 Pro still trails the front-runners...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/chinas-deepseek-v4-fails",
+      "image_url": null,
+      "pub_date": "Sun, 26 Apr 2026 11:35:49 +0000",
+      "author": "Bojan Stojkovski",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-26T13:39:06.957Z",
+      "created_at": "2026-04-26T13:39:06.957Z"
+    },
+    {
+      "id": 5589,
+      "source": "Futurism",
+      "title_en": "New AI-Powered Robot Can Destroy Human Champions at Ping Pong",
+      "description_en": "They were rattled by the experience.\nThe post New AI-Powered Robot Can Destroy Human Champions at Ping Pong appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/robots-and-machines/ai-powered-robot-destroy-table-tennis-pros",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/ai-powered-robot-destroy-table-tennis-pros.jpg?quality=85",
+      "pub_date": "Sun, 26 Apr 2026 09:00:00 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Robots and Machines",
+          "$": {
+            "domain": "https://futurism.com/category/robots-and-machines"
+          }
+        },
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Robotics",
+          "$": {
+            "domain": "https://futurism.com/category/robotics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T13:39:07.202Z",
+      "created_at": "2026-04-26T13:39:07.202Z"
+    },
+    {
+      "id": 5590,
+      "source": "Futurism",
+      "title_en": "Devious New AI Tool “Clones” Software So That the Original Creator Doesn’t Hold a Copyright Over the New Version",
+      "description_en": "\"I don’t think there’s any putting the genie back in the bottle at this point.\"\nThe post Devious New AI Tool “Clones” Software So That the Original Creator Doesn’t Hold a Copyright Over the New Version appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/malus-clones-software-copyright",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/malus-clones-software-copyright.jpg?quality=85",
+      "pub_date": "Sun, 26 Apr 2026 08:15:00 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://futurism.com/category/anthropic"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T13:39:07.203Z",
+      "created_at": "2026-04-26T13:39:07.203Z"
+    },
+    {
+      "id": 5591,
+      "source": "Tom's Hardware",
+      "title_en": "Chernobyl virus turned 27 today, and it could brick your PC in ways modern malware can't by overwriting BIOS firmware",
+      "description_en": "27 years ago today, on April 26, 1999, a 1 KB virus called CIH detonated its payload on hundreds of thousands of Windows 9x machines worldwide.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/the-chernobyl-virus-turned-27-today-and-it-could-brick-your-pc-in-ways-modern-malware-cant",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/s3xySUYCCzMbDfv5Ju3ze7-1280-80.jpg",
+      "pub_date": "Sun, 26 Apr 2026 13:36:47 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Cybersecurity",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T13:39:07.498Z",
+      "created_at": "2026-04-26T13:39:07.498Z"
+    },
+    {
+      "id": 5592,
+      "source": "Tom's Hardware",
+      "title_en": "New metal 3D printer shrinks industrial tech down to workbench size with laser powder bed fusion system — aims to bring laser metal printing to workshops and labs for $9,600",
+      "description_en": "Scrap Labs has unveiled the Scrap 1, a compact laser powder bed fusion metal 3D printer that fits on a workbench and starts at $9,600 — a fraction of what industrial LPBF systems typically cost",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/3d-printing/new-metal-3d-printer-shrinks-industrial-tech-down-to-workbench-size-with-laser-powder-bed-fusion-system-aims-to-bring-laser-metal-printing-to-workshops-and-labs-for-usd9-600",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/7fBzhqUuLfYD2LTdCWHy44-1280-80.png",
+      "pub_date": "Sun, 26 Apr 2026 13:21:51 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "3D Printing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T13:39:07.498Z",
+      "created_at": "2026-04-26T13:39:07.498Z"
+    },
+    {
+      "id": 5593,
+      "source": "Tom's Hardware",
+      "title_en": "AMD Ryzen 5 7600X3D review: An unbeatable value gaming CPU",
+      "description_en": "The Ryzen 7 9850X3D was never set up for success, but our testing reveals the ugly side of AMD’s latest X3D CPU: higher power consumption for minuscule performance gains.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-7600x3d-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/xbPNZYQuQzkBJLcHa4Tt7X-1280-80.jpg",
+      "pub_date": "Sun, 26 Apr 2026 13:00:45 +0000",
+      "author": " Jake Roach ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T13:39:07.498Z",
+      "created_at": "2026-04-26T13:39:07.498Z"
+    },
+    {
+      "id": 5594,
+      "source": "Tom's Hardware",
+      "title_en": "Disabled gamer prototypes true one-handed keyboard-and-mouse controller, device nominated for award — maker inspired to build device after losing right arm in an accident",
+      "description_en": "A Redditor who lost their right arm in an accident decided to prototype and build their own single-handed controller to get back into gaming. This peripheral combines a mouse and keypad into a single ergonomic device for one-handed use of PCs and consoles.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/disabled-gamer-prototypes-true-one-handed-keyboard-and-mouse-controller-maker-inspired-to-build-device-after-losing-right-arm-in-an-accident",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/bwsNktFz9azDvZpRqd4xgX-1280-80.png",
+      "pub_date": "Sun, 26 Apr 2026 12:45:06 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Controllers and Gamepads",
+        "Peripherals"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T13:39:07.498Z",
+      "created_at": "2026-04-26T13:39:07.498Z"
+    },
+    {
+      "id": 5595,
+      "source": "Tom's Hardware",
+      "title_en": "Commodore backs down over FPGA firmware lockdown — it won’t now try and block third-party firmware installs but will stand firm against bricked modded units",
+      "description_en": "Iconic home computer brand has reversed its no-third-party firmware decision but makes it clear that users will get 'no free support/replacement for bricked modded units.'",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/commodore-backs-down-over-fpga-firmware-lockdown-it-wont-now-try-and-block-third-party-firmware-installs-but-will-stand-firm-against-bricked-modded-units",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/xeQza7BTdBLK6ZQ5mDBvWc-1280-80.jpg",
+      "pub_date": "Sun, 26 Apr 2026 12:30:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Retro Gaming",
+        "Video Games"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T13:39:07.498Z",
+      "created_at": "2026-04-26T13:39:07.498Z"
+    },
+    {
+      "id": 5596,
+      "source": "Tom's Hardware",
+      "title_en": "DeepSeek launches 1.6 trillion parameter V4 on Huawei chips as U.S. escalates AI theft accusations — U.S. gov't alleges IP theft by DeepSeek and other Chinese AI firms",
+      "description_en": "DeepSeek on Friday released a preview of its V4 large language model, the Hangzhou-based startup's most powerful to date.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-launches-1-6-trillion-parameter-v4-on-huawei-chips-as-us-escalates-ai-theft-accusations",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/zfDV4Yc5qbdYxR9jC8U8NA-1280-80.jpg",
+      "pub_date": "Sun, 26 Apr 2026 12:15:00 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T13:39:07.498Z",
+      "created_at": "2026-04-26T13:39:07.498Z"
+    },
+    {
+      "id": 5597,
+      "source": "Tom's Hardware",
+      "title_en": "Taiwan's stock market surpasses the UK's despite having less than a quarter of the UK's economy — AI boom propels Taiwan forward, TSMC alone accounts for more than 40% of Taiwan's total market value",
+      "description_en": "Taiwan's stock market is now worth more than the United Kingdom's, in a shift driven almost entirely by the insatiable global appetite for AI chips.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/taiwan-stock-market-overtakes-the-uk",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/woUU8Hr3jfctwDwsf5k5gJ-1280-80.jpg",
+      "pub_date": "Sun, 26 Apr 2026 12:00:00 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T13:39:07.498Z",
+      "created_at": "2026-04-26T13:39:07.498Z"
+    },
+    {
+      "id": 5598,
+      "source": "Tom's Hardware",
+      "title_en": "Intel reportedly says it boosted yields by selling what would normally be 'scrap' or 'low-expectation' CPUs — customers more willing to accept lesser chips due to overwhelming CPU demand",
+      "description_en": "Intel’s Investor relations team confirmed that customers are sweeping up the lower-quality chips, bringing in tangible revenue for the company.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-reportedly-says-it-boosted-yields-by-selling-what-would-normally-be-scrap-or-low-expectation-cpus-customers-more-willing-to-accept-lesser-chips-due-to-overwhelming-cpu-demand",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/d28eNoiDaojehbzBKvLxhh-1280-80.jpg",
+      "pub_date": "Sun, 26 Apr 2026 11:45:00 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T13:39:07.498Z",
+      "created_at": "2026-04-26T13:39:07.498Z"
+    },
+    {
+      "id": 5599,
+      "source": "Tom's Hardware",
+      "title_en": "Enthusiast builds 3D-printed retro PC case and shares the files so you can print it yourself — design fits ITX mobo and ATX PSU, comes with front 3.5-inch bay for USB ports",
+      "description_en": "You finish building this 3D-printed retro PC case in under 100 hours as long as you have all the right tools and materials. u/Potatozeng even included a PDF guide (with pictures!) to help you through the process.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/3d-printing/enthusiast-builds-3d-printed-retro-pc-case-and-shares-3d-files-so-you-can-print-it-yourself-design-fits-itx-mobo-and-atx-psu-comes-with-front-3-5-inch-bay-for-usb-ports",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/VUmwNtZDT5CydcoW9NPd5X-1280-80.png",
+      "pub_date": "Sun, 26 Apr 2026 11:30:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "3D Printing"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-26T13:39:07.498Z",
+      "created_at": "2026-04-26T13:39:07.498Z"
     }
   ]
 }
