@@ -113187,6 +113187,388 @@
       "priority": "hot",
       "fetchedAt": "2026-04-25T23:20:28.352Z",
       "created_at": "2026-04-25T23:20:28.352Z"
+    },
+    {
+      "id": 5558,
+      "source": "The Decoder",
+      "title_en": "500 investment bankers review AI outputs and find none ready for client delivery",
+      "description_en": "A new benchmark puts top models like GPT-5.4 and Claude Opus 4.6 to work on the kinds of tasks junior investment bankers handle every day. Not a single AI output was rated ready to send to a client; the results are too imprecise or flat-out wrong. Still, more than half of the bankers said they'd use the output as a starting point.\nThe article 500 investment bankers review AI outputs and find none ready for client delivery appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/500-investment-bankers-review-ai-outputs-and-find-none-ready-for-client-delivery/",
+      "image_url": null,
+      "pub_date": "Sun, 26 Apr 2026 09:18:16 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "AI at work",
+        "Jobs"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T09:57:03.370Z",
+      "created_at": "2026-04-26T09:57:03.370Z"
+    },
+    {
+      "id": 5559,
+      "source": "The Decoder",
+      "title_en": "Survey finds Claude's weekly active users in the US skew far wealthier than any rival AI assistant",
+      "description_en": "A survey shows Claude users earn significantly more than users of other AI services. Here's how income breaks down across ChatGPT, Gemini, and the rest.\nThe article Survey finds Claude's weekly active users in the US skew far wealthier than any rival AI assistant appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/survey-finds-claudes-weekly-active-users-in-the-us-skew-far-wealthier-than-any-rival-ai-assistant/",
+      "image_url": null,
+      "pub_date": "Sun, 26 Apr 2026 08:50:02 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "Anthropic",
+        "Claude"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T09:57:03.370Z",
+      "created_at": "2026-04-26T09:57:03.370Z"
+    },
+    {
+      "id": 5560,
+      "source": "The Decoder",
+      "title_en": "AI agents aren't replacing software engineering but expanding it far beyond code, researchers argue",
+      "description_en": "The popular story goes that AI agents are swallowing up more programming work and developers are headed for obsolescence. A new paper from researchers at Chalmers University of Technology and the Volvo Group argues that view misses the mark.\nThe article AI agents aren't replacing software engineering but expanding it far beyond code, researchers argue appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/ai-agents-arent-replacing-software-engineering-but-expanding-it-far-beyond-code-researchers-argue/",
+      "image_url": null,
+      "pub_date": "Sun, 26 Apr 2026 08:12:17 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "AI at work",
+        "Jobs"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T09:57:03.370Z",
+      "created_at": "2026-04-26T09:57:03.370Z"
+    },
+    {
+      "id": 5561,
+      "source": "MarkTechPost",
+      "title_en": "Top 7 Benchmarks That Actually Matter for Agentic Reasoning in Large Language Models",
+      "description_en": "As AI agents move from research demos to production deployments, one question has become impossible to ignore: how do you actually know if an agent is good? Perplexity scores and MMLU leaderboard numbers tell you very little about whether a model can navigate a real website, resolve a GitHub issue, or reliably handle a customer […]\nThe post Top 7 Benchmarks That Actually Matter for Agentic Reasoning in Large Language Models appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/26/top-7-benchmarks-that-actually-matter-for-agentic-reasoning-in-large-language-models/",
+      "image_url": null,
+      "pub_date": "Sun, 26 Apr 2026 07:59:03 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Large Language Model",
+        "Staff",
+        "Technology",
+        "Top"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T09:57:03.564Z",
+      "created_at": "2026-04-26T09:57:03.564Z"
+    },
+    {
+      "id": 5562,
+      "source": "MarkTechPost",
+      "title_en": "RAG Without Vectors: How PageIndex Retrieves by Reasoning",
+      "description_en": "Retrieval is where most RAG systems quietly break. Traditional pipelines rely on vector similarity—embedding queries and document chunks into the same space and fetching the “closest” matches. But similarity is a weak proxy for what we actually need: relevance grounded in reasoning. In long, professional documents—like financial reports, research papers, or legal texts—the right answer […]\nThe post RAG Without Vectors: How PageIndex Retrieves by Reasoning appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/25/rag-without-vectors-how-pageindex-retrieves-by-reasoning/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/image-47.png",
+      "pub_date": "Sun, 26 Apr 2026 04:22:40 +0000",
+      "author": "Arham Islam",
+      "categories": [
+        "Artificial Intelligence",
+        "Editors Pick",
+        "RAG",
+        "Software Engineering",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-26T09:57:03.564Z",
+      "created_at": "2026-04-26T09:57:03.564Z"
+    },
+    {
+      "id": 5563,
+      "source": "MarkTechPost",
+      "title_en": "A Coding Tutorial on Datashader on Rendering Massive Datasets with High-Performance Python Visual Analytics",
+      "description_en": "In this tutorial, we explore Datashader, a powerful, high-performance visualization library for rendering massive datasets that quickly overwhelm traditional plotting tools. We work through its full rendering pipeline in Google Colab, starting from dense point clouds and reduction-based aggregations to categorical rendering, line visualizations, raster data, quadmesh grids, compositing, and dashboard-style analytical views. As we […]\nThe post A Coding Tutorial on Datashader on Rendering Massive ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/25/a-coding-tutorial-on-datashader-on-rendering-massive-datasets-with-high-performance-python-visual-analytics/",
+      "image_url": null,
+      "pub_date": "Sun, 26 Apr 2026 04:04:15 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Artificial Intelligence",
+        "Big Data",
+        "Data Science",
+        "Editors Pick",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-26T09:57:03.564Z",
+      "created_at": "2026-04-26T09:57:03.564Z"
+    },
+    {
+      "id": 5564,
+      "source": "New Atlas",
+      "title_en": "New ID.3 Neo: Is this what a proper VW electric hatch looks like?",
+      "description_en": "Volkswagen hasn’t exactly nailed the EV game yet … globally, at least. With the much hyped ID.7 sedan scrapped for North America, and cars like the ID.Buzz reporting bleak sales, VW was in a fix.\nContinue Reading\nCategory: Automotive, Transport\nTags: Volkswagen, Electric Vehicles, Buttons, Screens, Hot hatch",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/automotive/vw-id-3-neo/",
+      "image_url": null,
+      "pub_date": "Sun, 26 Apr 2026 05:03:00 GMT",
+      "author": "Utkarsh Sood",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-26T09:57:04.274Z",
+      "created_at": "2026-04-26T09:57:04.274Z"
+    },
+    {
+      "id": 5565,
+      "source": "The Register",
+      "title_en": "Hot take: AI's not going to kill open source code security",
+      "description_en": "Cal.com considers AGPL a license to drill, but not everyone feels that way Opinion  Cal.com has closed its commercial codebase, abandoning years of AGPL-3.0 licensing in a move that has alarmed the developer community that helped build it and sent ripples through the broader open source world.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/26/opinion_column/",
+      "image_url": null,
+      "pub_date": "2026-04-26T09:28:09.000Z",
+      "author": "Steven J. Vaughan-Nichols",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T09:57:04.316Z",
+      "created_at": "2026-04-26T09:57:04.316Z"
+    },
+    {
+      "id": 5566,
+      "source": "The Guardian AI",
+      "title_en": "UK departments at odds over energy demands of AI datacentres",
+      "description_en": "Discrepancy in forecasts raises questions over government planning for net zero\nOne vision of the UK’s future involves a decarbonised economy powered by clean, renewable energy. Another involves making the UK an AI superpower.\nThe government departments responsible for these two visions do not appear to have agreed on their numbers.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/apr/26/uk-departments-at-odds-over-energy-demands-of-ai-datacentres",
+      "image_url": "https://i.guim.co.uk/img/media/de480a6a5dd62313de113f77399f46e9208b8c16/2791_939_5367_4294/master/5367.jpg?width=140&quality=85&auto=format&fit=max&s=a17fa9d0efeffea79d001d06f77754a0",
+      "pub_date": "Sun, 26 Apr 2026 07:00:08 GMT",
+      "author": "Aisha Down",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Climate crisis",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/climate-crisis"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Science",
+          "$": {
+            "domain": "https://www.theguardian.com/science/science"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Labour",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/labour"
+          }
+        },
+        {
+          "_": "Environment",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/environment"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-26T09:57:04.464Z",
+      "created_at": "2026-04-26T09:57:04.464Z"
+    },
+    {
+      "id": 5567,
+      "source": "The Guardian AI",
+      "title_en": "Cannes AI film festival raises eyebrows – and questions about future",
+      "description_en": "While emerging technology is banned from the Palme d’Or, an upstart movement is gaining investment and attention\nIn Cannes’ darkened screening rooms, the supposed future of cinema flickered into life this week and it was strange. The first edition of the World AI film festival (WAIFF) showcased visions of men with fish scales erupting from their necks and seaweed from their mouths, a heroine with a heart beating outside her body and so many massed armies of AI-generated tanned men sweeping acros",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/apr/26/cannes-ai-film-festival-raises-eyebrows-questions-future",
+      "image_url": "https://i.guim.co.uk/img/media/7aeb879c03fe2e7ebd413663569b7e108e9bb701/238_0_1348_1079/master/1348.jpg?width=140&quality=85&auto=format&fit=max&s=0d917f624ad40f168104b3d3515d9a75",
+      "pub_date": "Sun, 26 Apr 2026 06:00:07 GMT",
+      "author": "Robert Booth in Cannes",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Film",
+          "$": {
+            "domain": "https://www.theguardian.com/film/film"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Cannes film festival",
+          "$": {
+            "domain": "https://www.theguardian.com/film/cannesfilmfestival"
+          }
+        },
+        {
+          "_": "France",
+          "$": {
+            "domain": "https://www.theguardian.com/world/france"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-26T09:57:04.464Z",
+      "created_at": "2026-04-26T09:57:04.464Z"
+    },
+    {
+      "id": 5568,
+      "source": "Product Hunt",
+      "title_en": "QuickCompare by Trismik",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/quickcompare-by-trismik",
+      "image_url": null,
+      "pub_date": "2026-04-24T14:07:21.000Z",
+      "author": "Aleksandar Blazhev",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-26T09:57:10.013Z",
+      "created_at": "2026-04-26T09:57:10.013Z"
+    },
+    {
+      "id": 5569,
+      "source": "Product Hunt",
+      "title_en": "Happenstance",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/happenstance-2",
+      "image_url": null,
+      "pub_date": "2026-04-16T06:52:37.000Z",
+      "author": "Rohan Chaubey",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-26T09:57:10.013Z",
+      "created_at": "2026-04-26T09:57:10.013Z"
+    },
+    {
+      "id": 5570,
+      "source": "Product Hunt",
+      "title_en": "Free chart generator by Embedful",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/embedful",
+      "image_url": null,
+      "pub_date": "2026-04-14T02:54:29.000Z",
+      "author": "fmerian",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-26T09:57:10.013Z",
+      "created_at": "2026-04-26T09:57:10.013Z"
+    },
+    {
+      "id": 5571,
+      "source": "Product Hunt",
+      "title_en": "Claude Connectors",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/claude-connectors",
+      "image_url": null,
+      "pub_date": "2026-04-25T04:15:20.000Z",
+      "author": "Rohan Chaubey",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-26T09:57:10.013Z",
+      "created_at": "2026-04-26T09:57:10.013Z"
+    },
+    {
+      "id": 5572,
+      "source": "Product Hunt",
+      "title_en": "Pica",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/pica",
+      "image_url": null,
+      "pub_date": "2026-04-25T00:23:51.000Z",
+      "author": "Chris Messina",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-26T09:57:10.013Z",
+      "created_at": "2026-04-26T09:57:10.013Z"
     }
   ]
 }
