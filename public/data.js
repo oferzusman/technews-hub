@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "xAI Launches grok-voice-think-fast-1.0: Topping τ-voice Bench at 67.3%, Outperforming Gemini, GPT Realtime, and More\n\nThe new flagship voice model outperforms Gemini, GPT Realtime, and its own predecessor across retail, airline, and telecom workflows\nThe post xAI Launches grok-voice-think-fast-1.0: Topping τ-voice Bench at 67.3%, Outperforming Gemini, GPT Realtime, and More appeared first on MarkTechPost.",
+    "t": "xAI משיקה את grok-voice-think-fast-1.0: דגם קול חדש שמנצח את Gemini ו-GPT Realtime\n\nחברת xAI הציגה את דגם הקול הדגלי החדש שלה שמשתמש ב-AI voice להטלפונים וחנויות, והוא כבר מנצח את כל המתחרים הגדולים כולל Google Gemini ו-OpenAI GPT Realtime עם ביצועים מזהירים בשירות לקוחות וקריאות אייר לאיירליינס. הדגם החדש עם היכולות 'think fast' משיפר משמעותית את הדור הקודם ונותן עדיפויות לחברות בתחום הקמעונאות, התעופה והטלקום.",
     "d": "Sat, 25 Apr 2026 22:36:57 +0000",
     "v": 0,
     "l": [
@@ -15,13 +15,14 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
+      "OpenAI",
       "Google"
     ],
     "tags": [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-25-at-3.36.24-PM.png",
     "source": "MarkTechPost"
   },
