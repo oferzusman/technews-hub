@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Dark modes no longer block quantum effects as scientists switch them on demand\n\nIn the strange world of quantum physics, some effects are not just hard to control—they...",
+    "t": "מצבים אפלים כבר לא חוסמים תופעות קוונטיות - מדענים הצליחו להפעילם לפי הביקוש\n\nבעולם המוזר של הפיזיקה הקוונטית, חוקרים הצליחו לשלוט בתופעות שעד היום נחשבו בלתי שליטות. המדענים מצאו דרך להדליק וכבות אפקטים קוונטיים לפי הצורך, משהו שעלול להיות חוצה דרכות לתחומים כמו קומפיוטיג קוונטי ופוטוניקה. החדשה הזו יכולה לשנות את כל הגישה שלנו לעבודה עם מערכות קוונטיות.",
     "d": "Sun, 26 Apr 2026 11:15:03 +0000",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Turtle Beach's new mouse has a 2.25-inch touchscreen and hotswap batteries that last 15 hours apiece — 'MC7' costs $160, part of company's new Command Series peripheral lineup\n\nTurtle Beach's new Command Series of peripherals features a lot of screens, and the most interesting implementation is seen in the MC7 mouse. The 2.25-inch LCD rests where your thumb will, while providing macros or glanceable information like your PC stats. The mouse otherwise has cutting-edge specs and will be available in July.",
+    "t": "עכברת Turtle Beach החדשה עם מסך טאץ' 2.25 אינץ' וסוללות להחלפה המחזיקות 15 שעות - MC7 בעלת מחיר של 160 דולר, חלק מסדרת Command Series החדשה\n\nTurtle Beach הוציאה לשוק את סדרת Command Series החדשה של התקנים היקפיים, והכוכב האמיתי הוא העכברת MC7 עם מסך LCD בגודל 2.25 אינץ' ממוקם בדיוק למקום שבו אגודל היד שלך נוגעת. המסך משמש לשם מאקרוס מהירים או הצגת מידע שימושי כמו נתוני ה-PC בשקיעת עין אחת. העכברת בעלת ספציפיקציות עדכניות מאוד, וזמינה בחודש יולי. מקור: Tom's Hardware",
     "d": "Sun, 26 Apr 2026 11:15:00 +0000",
     "v": 0,
     "l": [
@@ -48,7 +48,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Nanogenerator harvests electricity from evaporating seawater\n\nImagine a device using an energy source the size of planet Earth, and offering nearly limitless electricity with no ecologically devastating mining required to get it. Science fiction? A lie from Big Battery? A fentanyl fantasy from the Energizer Bunny? No – it’s real, and it’s the ocean.\nContinue Reading\nCategory: Energy, Engineering\nTags: EPFL, Clean Energy, Water, Semiconductors",
+    "t": "ננוגנרטור שמלבן חשמל מאידוי מים ים\n\nחוקרים מ-EPFL פיתחו משהו די מטורף - התקן שמייצר חשמל מתוך אדים של מים ים שמתאדים. זה בעצם אומר שהאוקיינוס הוא ספק אנרגיה ענקי שלא צריך כרייה הרסנית, ופשוט מחכה שנשתמש בו. במילים אחרות, אנחנו מדברים על מקור אנרגיה נקיה וכמעט בלתי מוגבל שנמצא ממש בפנינו.",
     "d": "Sun, 26 Apr 2026 11:03:00 GMT",
     "v": 0,
     "l": [
@@ -71,7 +71,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Mobile SMS blasters in vehicles prowled Canadian streets, causing 13 million network disruptions and infiltrating tens of thousands of devices — blaster blocked 911 calls, stole cellphone data\n\nThe authorities say that the three individuals used the SMS blasters to send thousands of smishing messages.",
+    "t": "התקני SMS זדוניים בכלים סיידרו רחובות בקנדה: 13 מיליון הפרעות ברשת, גישה לעשרות אלפי סמארטפונים וחסימת שיחות חירום\n\nשלושה חשודים השתמשו בתקני SMS blasters לשליחת אלפי הודעות phishing. ההתקנים גרמו לנזקים ענקיים - מהפרעות רחבות ברשת הסלולר בקנדה ועד גניבת נתונים מהטלפונים של קורבנות, כשחלקם לא הצליחו אפילו להתקשר ל-911.",
     "d": "Sun, 26 Apr 2026 11:00:00 +0000",
     "v": 0,
     "l": [
@@ -94,7 +94,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Physicist Proposes Dark Matter Is Made of Black Holes That Survived Dead Universes\n\n\"The dark structures shaping galaxies today could be relics from a time before the Big Bang.\"\nThe post Physicist Proposes Dark Matter Is Made of Black Holes That Survived Dead Universes appeared first on Futurism.",
+    "t": "פיזיקאי טוען שחומר אפל עשוי מחורים שחורים שהשרידו יקומים מתים\n\nתאוריה מטורפת שטוענת שהמבנים האפלים המעצבים גלקסיות היום הם למעשה שרידים מתקופה לפני המפץ הגדול עצמו. אם זה נכון, אנחנו עשויים להיות חיים בתוך יקום שהוא למעשה הפחת של יקומים קודמים שקרסו.",
     "d": "Sun, 26 Apr 2026 06:45:00 -0400",
     "v": 0,
     "l": [
@@ -109,8 +109,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/dark-matter-black-hole-dead-universes.jpg?quality=85",
@@ -118,7 +117,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "DARPA calls for proposals for autonomous underwater drones — gov't looking for a small, cheap autonomous sub that can be developed and built quickly\n\nDARPA is looking for proposals for cheap undersea drones that can be quickly built and deployed nearly anywhere.",
+    "t": "DARPA מחפשת הצעות לדרונים תת-ימיים אוטונומיים — הממשלה רוצה צוללת קטנה וזולה שאפשר להכין במהירות\n\nDARPA משיקה קול קורא למפתחים שמעוניינים לבנות דרונים תת-ימיים זולים שניתן להכין וללוקח לפעולה במהירות רבה, כמעט בכל מקום בעולם. הסוכנות המגנה חיפשת פתרון קומפקטי וחסכוני שיהיה קל להנדס ולהשק בשטח, בלי צורך בתשתיות מורכבות.",
     "d": "Sun, 26 Apr 2026 10:45:00 +0000",
     "v": 0,
     "l": [
@@ -133,8 +132,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/dWYCacaKrHvVGZAMJfx5zH-1280-80.png",
@@ -142,7 +140,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "US fast-tracks B-21 Raider program, stealth bomber can strike fortified targets at long range\n\nThe B-21 “Raider” program has received an additional $6.1 billion in funding to accelerate its...",
+    "t": "ארה\"ב מאיצה את תוכנית המפציץ ההתגברות B-21 Raider - יכול לתקוף מטרות מוגנות בטווח ארוך\n\nתוכנית ה-B-21 \"Raider\" קיבלה הזרקת תקציב נוספת של 6.1 מיליארד דולר כדי להאיץ את הפיתוח שלה. המפציץ ההתגברות החדש של אמריקה תוכנן להיות כמעט בלתי גלוי לרדאר ויוכל להגיע ליעדים מוגנים בטווח רחוק מאוד, מה שעושה אותו נשק קריטי בתוכנית ההגנה האמריקאית. העת הם מקדמים את הפרויקט בקצב מאיץ כדי להתמודד עם איומים גיאופוליטיים משתנים. \n\nמקור: Interesting Engineering",
     "d": "Sun, 26 Apr 2026 10:34:18 +0000",
     "v": 0,
     "l": [
@@ -157,16 +155,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://www.youtube.com/embed/r8tiQrzxb7c",
     "source": "Interesting Engineering"
   },
   {
     "id": 8,
-    "t": "OpenAI says old prompts are holding GPT-5.5 back and developers need a fresh baseline\n\nOpenAI says developers shouldn't carry over old prompts for GPT-5.5. Instead, start minimal and from scratch. Role definitions, which some had written off as unnecessary, are back at the front of the framework.\nThe article OpenAI says old prompts are holding GPT-5.5 back and developers need a fresh baseline appeared first on The Decoder.",
+    "t": "OpenAI: הprompts הישנים מעכבים את GPT-5.5 ועל מפתחים להתחיל מחדש\n\nOpenAI הודיעה שמפתחים לא צריכים להעתיק prompts ישנים ל-GPT-5.5 - צריך להתחיל מאפס ובמינימום. במפתיע, הגדרות תפקיד (role definitions) שחלקם חשבו שהן לא קריטיות, חזרו להיות חלק חיוני מההסדרה של הmodel. זה בדיוק מה שמפתחים צריכים לדעת כדי לקבל את המקסימום מהדור החדש של GPT.",
     "d": "Sun, 26 Apr 2026 10:20:04 +0000",
     "v": 0,
     "l": [
@@ -192,7 +189,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Prestigious Wall Street Law Firm Humiliated When Its AI Use Is Discovered in Court\n\nRookie mistake.\nThe post Prestigious Wall Street Law Firm Humiliated When Its AI Use Is Discovered in Court appeared first on Futurism.",
+    "t": "משרד עורכי דין יוקרתי בוול סטריט נחשף בגלל שימוש ב-AI בבית משפט\n\nמשרד עורכי דין גדול בוול סטריט נקלע למצב מביך כשנחשף שהשתמש ב-AI כדי להכין תיקים משפטיים - וזה לא עבר בשקט בבית המשפט. כל מי שחושב שאפשר להשתמש בחטיבי AI בלי לבדוק את התוצאות צריך ללמוד מהדוגמה המביכה הזאת של המומחים שטבחו את זה. מקור: Futurism",
     "d": "Sun, 26 Apr 2026 06:00:00 -0400",
     "v": 0,
     "l": [
@@ -207,8 +204,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/prestigious-law-firm-humiliated-ai.jpg?quality=85",
@@ -318,7 +314,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "President Donald Trump evacuated after shots fired at media event in Washington Hilton\n\nPresident Donald J. Trump, First Lady Melania Trump, and other senior US officials have been...",
+    "t": "נשיא דונלד טראמפ פונה לאחר יריות בארוע תקשורתי בהילטון בוושינגטון\n\nנשיא ארה״ב דונלד טראמפ וגברת ראשית מלניה טראמפ פונו בחירום מארוע בוושינגטון לאחר דיווחים על יריות בסמיכות לאתר. השרים בכירים וצוותי הביטחון הנחלו את הנשיא מהזירה באופן מהיר וממולץ בעקבות התחזוקה בנושא הביטחוני.",
     "d": "Sun, 26 Apr 2026 08:06:28 +0000",
     "v": 0,
     "l": [
@@ -480,7 +476,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "World powers eye low Earth orbit satellite dominance as strategic edge in future conflicts\n\nOperating in low Earth orbit, typically below 1,250 miles, modern satellite constellations rely on hundreds...",
+    "t": "מעצמות עולם מתחרות על שליטה בלוויינים במסלול נמוך כיתרון אסטרטגי בסכסוכים עתידיים\n\nבמהלך השנים האחרונות, מדינות גדולות התחילו להבין שלוויינים במסלול נמוך (מתחת ל-1,250 קילומטרים) הם כוח צבאי חדש ולא שומר שדה. קונסטלציות של מאות לוויינים יכולות להעניק עדיפות תקשורת, ניטור וגיוס תוקף שלא הייתה אפשרית עד היום. בעולם שבו גודל הכוח במרחב הנמוך אומר דומיננציה בעת קרע, המירוץ על השיטוח כבר התחיל בחזקה. | מקור: Interesting Engineering",
     "d": "Sun, 26 Apr 2026 02:18:16 +0000",
     "v": 0,
     "l": [
