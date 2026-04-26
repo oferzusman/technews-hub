@@ -113976,7 +113976,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:07.203Z",
       "created_at": "2026-04-26T13:39:07.203Z"
     },
@@ -114095,7 +114095,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:07.498Z",
       "created_at": "2026-04-26T13:39:07.498Z"
     },
@@ -114114,7 +114114,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:07.498Z",
       "created_at": "2026-04-26T13:39:07.498Z"
     },
@@ -114134,7 +114134,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:07.498Z",
       "created_at": "2026-04-26T13:39:07.498Z"
     },
@@ -114156,6 +114156,96 @@
       "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:07.498Z",
       "created_at": "2026-04-26T13:39:07.498Z"
+    },
+    {
+      "id": 5600,
+      "source": "The Guardian AI",
+      "title_en": "Bosses don’t like the sound of a ‘four-day workweek’. Maybe it’s time to rebrand it",
+      "description_en": "Some employers are reluctant to cut workers’ hours but pay them the same – but it just might be the future of work\nWe keep hearing that the four-day workweek is the future. So why are so few businesses actually adopting it?\nBelgium, Iceland and Lithuania have passed legislation requiring the practice, and other countries in Europe are piloting the idea. Hundreds of companies in the UK have signed up for to give this a try. Microsoft tested the concept in Japan. Non-profits such as the 4 Day Week",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/apr/26/four-day-workweek-employment",
+      "image_url": "https://i.guim.co.uk/img/media/45e5fecef0fa0d1044cd0dc9c751c9c53191c5e3/2349_819_3196_2557/master/3196.jpg?width=140&quality=85&auto=format&fit=max&s=56d403d037cdafdef1b5eca7301b15e0",
+      "pub_date": "Sun, 26 Apr 2026 14:00:16 GMT",
+      "author": "Gene Marks",
+      "categories": [
+        {
+          "_": "US small business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/us-small-business"
+          }
+        },
+        {
+          "_": "Workers' rights",
+          "$": {
+            "domain": "https://www.theguardian.com/global-development/workers--rights"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Employment law",
+          "$": {
+            "domain": "https://www.theguardian.com/law/employment-law"
+          }
+        },
+        {
+          "_": "Small business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/small-business"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T14:27:45.487Z",
+      "created_at": "2026-04-26T14:27:45.487Z"
+    },
+    {
+      "id": 5601,
+      "source": "Futurism",
+      "title_en": "Experts Warn of AI Swarms Hijacking Democracy With Fake Citizens",
+      "description_en": "\"These systems are capable of coordinating autonomously, infiltrating communities, and fabricating consensus efficiently.\"\nThe post Experts Warn of AI Swarms Hijacking Democracy With Fake Citizens appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/ai-swarm-democracy-security",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/ai-swarm-democracy-security.jpg?quality=85",
+      "pub_date": "Sun, 26 Apr 2026 09:45:00 -0400",
+      "author": "Joe Wilkins",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T14:27:50.076Z",
+      "created_at": "2026-04-26T14:27:50.076Z"
     }
   ]
 }
