@@ -113813,8 +113813,8 @@
       "source": "Ars Technica",
       "title_en": "New robotic control software avoids jamming their joints",
       "description_en": "Software lets robots learn from each other even if they have different hardware.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "תוכנת בקרה רובוטית חדשה מונעת תקיעת מפרקים",
+      "description_he": "הטכנולוגיה החדשה מאפשרת לרובוטים ללמוד אחד מהשני גם כשלהם יש חומוואר שונה - משהו שחוסך הרבה כאבי ראש לחברות שמשתמשות בצי רובוטים מעורב. זה בעצם כמו שאנחנו משיגים להעתיק כישרונות בין אנשים שונים, אבל לרובוטים.",
       "link": "https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1455924520-1152x648.jpg",
       "pub_date": "Sun, 26 Apr 2026 11:09:29 +0000",
@@ -113825,7 +113825,7 @@
         "control software",
         "Robotics"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:02.175Z",
       "created_at": "2026-04-26T13:39:02.175Z"
@@ -113835,8 +113835,8 @@
       "source": "The Decoder",
       "title_en": "OpenAI kills its dedicated coding model Codex again, folding it into GPT-5.5",
       "description_en": "OpenAI has once again retired its dedicated Codex coding model, folding its capabilities directly into the main model. GPT-5.5 promises stronger agentic coding and lower token usage, OpenAI says.\nThe article OpenAI kills its dedicated coding model Codex again, folding it into GPT-5.5 appeared first on The Decoder.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "OpenAI מסיימת שוב את מודל Codex המיוחד לקוד, ומשלבת אותו ב-GPT-5.5",
+      "description_he": "OpenAI הודיעה שוב על סגירת מודל Codex הייעודי שלה לכתיבת קוד, והעתיקה את כל היכולות שלו ישירות ל-GPT-5.5 הראשי שלה. המודל החדש מבטיח קוד agentive חזק יותר וצריכת token נמוכה יותר - זה אומר שהחברה מעדיפה להיות עם מודל אחד חזק במקום שניים. מקור: The Decoder",
       "link": "https://the-decoder.com/openai-kills-its-dedicated-coding-model-codex-again-folding-it-into-gpt-5-5/",
       "image_url": null,
       "pub_date": "Sun, 26 Apr 2026 12:49:27 +0000",
@@ -113847,7 +113847,7 @@
         "Short News",
         "OpenAI"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:03.157Z",
       "created_at": "2026-04-26T13:39:03.157Z"
@@ -113857,8 +113857,8 @@
       "source": "The Decoder",
       "title_en": "GPT-5.5 tops benchmarks but still hallucinates frequently at a 20 percent higher API cost",
       "description_en": "GPT-5.5 pushes OpenAI back to the top of the AI benchmarks. The price went up, but it still looks like the best bang for your buck among proprietary models.\nThe article GPT-5.5 tops benchmarks but still hallucinates frequently at a 20 percent higher API cost appeared first on The Decoder.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "GPT-5.5 משלח OpenAI חזרה לשיא הבנצ'מרקים, אבל עם עלויות API גבוהות ב-20% והלוצינציות עדיין בעיה",
+      "description_he": "OpenAI חוזרת להנהגה בתחרות ה-AI עם GPT-5.5, שמנציח את מעמדה כמודל הקנייה הטובה ביותר בשוק. כמובן שאין בחינם - המחירים עלו ב-20%, והמודל עדיין סובל מבעיית הלוצינציות (כשהוא \"משקר\" לכם בטוב לב וחוזר עם מידע ממומחש). בקיצור: חזק יותר, יקר יותר, אבל עדיין לא מושלם.",
       "link": "https://the-decoder.com/gpt-5-5-tops-benchmarks-but-still-hallucinates-frequently-at-a-20-percent-higher-api-cost/",
       "image_url": null,
       "pub_date": "Sat, 25 Apr 2026 16:50:49 +0000",
@@ -113869,7 +113869,7 @@
         "GPT-5.5",
         "OpenAI"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:03.157Z",
       "created_at": "2026-04-26T13:39:03.157Z"
@@ -113879,14 +113879,14 @@
       "source": "Interesting Engineering",
       "title_en": "China’s electrochemical system converts coal into electricity with no direct carbon emission",
       "description_en": "Traditional coal-fired power generation is typically associated with high pollution levels, significant carbon emissions, and...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מערכת אלקטרוכימית סינית הופכת פחם לחשמל ללא פליטת פחמן ישירה",
+      "description_he": "סין פיתחה טכנולוגיה חדשנית שמערבת פחם בתהליך אלקטרוכימי ישיר, וכך מייצרת חשמל בלי לשדוך פחמן דו-חמצני לאטמוספירה - משהו שעד עכשיו נראה כמו חלום בעולם ייצור האנרגיה המסורתי. הטכנולוגיה הזו יכולה להיות game changer להתעשיית הפחם בעולם, שלא משנה כמה שנים טכנולוגיות חלופיות מתפתחות, היא עדיין כאן וגם עלולה להישאר לעוד הרבה זמן.",
       "link": "https://interestingengineering.com/energy/chinas-converts-coal-into-electricity",
       "image_url": "https://www.youtube.com/embed/esuAlB4NVi0",
       "pub_date": "Sun, 26 Apr 2026 12:35:44 +0000",
       "author": "Bojan Stojkovski",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:06.957Z",
       "created_at": "2026-04-26T13:39:06.957Z"
@@ -113896,14 +113896,14 @@
       "source": "Interesting Engineering",
       "title_en": "US still ahead of China in AI as DeepSeek fails to narrow gap amid intense race: Report",
       "description_en": "Despite a measurable step up from its predecessor, DeepSeek’s V4 Pro still trails the front-runners...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ארה״ב עדיין בקדמותה על סין בתחום ה-AI - DeepSeek לא הצליחה לצמצם את הפער בתחרות התגובשת",
+      "description_he": "למרות שה-V4 Pro של DeepSeek הוא שיפור משמעותי על הדור הקודם, הוא עדיין נותר מאחורי ההנהקות העולמיות בתחום. בעוד חברת הטק הסינית משקיעה משאבים거대ים בפיתוח מודלים של AI, נראה שהפער בין האמריקאים לסינים לא צץ להצטמצם בקרוב, ודברים עם הנתונים החדשים שהשתחררו בדוח האחרון.",
       "link": "https://interestingengineering.com/ai-robotics/chinas-deepseek-v4-fails",
       "image_url": null,
       "pub_date": "Sun, 26 Apr 2026 11:35:49 +0000",
       "author": "Bojan Stojkovski",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:06.957Z",
       "created_at": "2026-04-26T13:39:06.957Z"
@@ -113913,8 +113913,8 @@
       "source": "Futurism",
       "title_en": "New AI-Powered Robot Can Destroy Human Champions at Ping Pong",
       "description_en": "They were rattled by the experience.\nThe post New AI-Powered Robot Can Destroy Human Champions at Ping Pong appeared first on Futurism.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "רובוט חדש המופעל בעזרת AI משחק טניס שולחן בשיתוקי לאדם",
+      "description_he": "מכונה חדשה שמופעלת ב-AI הצליחה לשחוק למשמעות את אלופי העולם בטניס שולחן, והשאירה אותם קצת מזועזעים מהעלות. נראה שהתחזוקה של רובוטים מעולם לא הייתה כל כך מאיימת לשחקני הטניס.",
       "link": "https://futurism.com/robots-and-machines/ai-powered-robot-destroy-table-tennis-pros",
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/ai-powered-robot-destroy-table-tennis-pros.jpg?quality=85",
       "pub_date": "Sun, 26 Apr 2026 09:00:00 -0400",
@@ -113939,7 +113939,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:07.202Z",
       "created_at": "2026-04-26T13:39:07.202Z"
@@ -113949,8 +113949,8 @@
       "source": "Futurism",
       "title_en": "Devious New AI Tool “Clones” Software So That the Original Creator Doesn’t Hold a Copyright Over the New Version",
       "description_en": "\"I don’t think there’s any putting the genie back in the bottle at this point.\"\nThe post Devious New AI Tool “Clones” Software So That the Original Creator Doesn’t Hold a Copyright Over the New Version appeared first on Futurism.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "כלי AI חדש ו\"מתוחכם\" שמשכפל תוכנה כך שהיוצר המקורי לא מחזיק בזכויות יוצרים על הגרסה החדשה",
+      "description_he": "בואו נספר לכם משהו שיגרום לכם לחשוב - חוקרים פיתחו כלי AI שמסוגל ליצור עותקים של קוד תוכנה בדרך שמעקפת לחלוטין את הזכויות היוצרים של היוצר המקורי. זה בעצם סוג של \"פיראטיות חכמה\" שמשתמשת בבינה מלאכותית כדי לעקוף את ההגנות החוקיות - וכפי שאומרים המומחים, קשה מאוד להחזיר את הג'ין לבקבוק. עוד דבר שמראה שהתחום של זכויות קניין רוחני וAI עדיין דרוש יותר מאוד רגולציה.",
       "link": "https://futurism.com/artificial-intelligence/malus-clones-software-copyright",
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/malus-clones-software-copyright.jpg?quality=85",
       "pub_date": "Sun, 26 Apr 2026 08:15:00 -0400",
@@ -113975,7 +113975,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:07.203Z",
       "created_at": "2026-04-26T13:39:07.203Z"
@@ -113985,8 +113985,8 @@
       "source": "Tom's Hardware",
       "title_en": "Chernobyl virus turned 27 today, and it could brick your PC in ways modern malware can't by overwriting BIOS firmware",
       "description_en": "27 years ago today, on April 26, 1999, a 1 KB virus called CIH detonated its payload on hundreds of thousands of Windows 9x machines worldwide.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "וירוס צ'רנוביל חגג היום 27 שנים - והוא יכול להרוס את המחשב שלך בדרכים שמלוואים מודרניים לא יכולים",
+      "description_he": "לפני 27 שנים בדיוק, ביום 26 באפריל 1999, וירוס קטן בן קילוביט אחד בשם CIH התפוצץ במאות אלפי מחשבי Windows 9x ברחבי העולם. זה לא סתם וירוס רגיל - הבעיה היא שהוא היה מסוגל להשתלט על ה-BIOS של המחשב עצמו ולהשתיק אותו לצמיתות, משהו שמלוואים של ימינו בקושי יכולים להשיג. סיפור זה מזכיר לנו עד כמה קשה היה להתמודד עם איומי סייבר בימי Windows הקלות.",
       "link": "https://www.tomshardware.com/tech-industry/cyber-security/the-chernobyl-virus-turned-27-today-and-it-could-brick-your-pc-in-ways-modern-malware-cant",
       "image_url": "https://cdn.mos.cms.futurecdn.net/s3xySUYCCzMbDfv5Ju3ze7-1280-80.jpg",
       "pub_date": "Sun, 26 Apr 2026 13:36:47 +0000",
@@ -113995,7 +113995,7 @@
         "Cybersecurity",
         "Tech Industry"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-26T13:39:07.498Z",
       "created_at": "2026-04-26T13:39:07.498Z"
@@ -114005,8 +114005,8 @@
       "source": "Tom's Hardware",
       "title_en": "New metal 3D printer shrinks industrial tech down to workbench size with laser powder bed fusion system — aims to bring laser metal printing to workshops and labs for $9,600",
       "description_en": "Scrap Labs has unveiled the Scrap 1, a compact laser powder bed fusion metal 3D printer that fits on a workbench and starts at $9,600 — a fraction of what industrial LPBF systems typically cost",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מדפסת מתכת תלת-מימדית חדשה מביאה טכנולוגיה תעשייתית לגודל שולחן עבודה - מערכת laser powder bed fusion ב-$9,600",
+      "description_he": "חברת Scrap Labs חשפה את ה-Scrap 1, מדפסת laser metal 3D קומפקטית שמתאימה לשולחן עבודה רגיל וזולה יותר משמעותית מהמערכות התעשייתיות הקיימות. זו בעצם הדמוקרטיזציה של טכנולוגיית LPBF - היום הוא יום טוב למי שחלם להדפיס חלקי מתכת עדינים ממש מהמוקד שלו. במחיר של 9,600 דולר, המדפסת הזו יכולה להיות משחק חדש למעבדות, וורקשופים וקטנועסקים שחיפשו דרך משתלמת להיכנס לעולם הדפסת המתכות.",
       "link": "https://www.tomshardware.com/3d-printing/new-metal-3d-printer-shrinks-industrial-tech-down-to-workbench-size-with-laser-powder-bed-fusion-system-aims-to-bring-laser-metal-printing-to-workshops-and-labs-for-usd9-600",
       "image_url": "https://cdn.mos.cms.futurecdn.net/7fBzhqUuLfYD2LTdCWHy44-1280-80.png",
       "pub_date": "Sun, 26 Apr 2026 13:21:51 +0000",
@@ -114014,7 +114014,7 @@
       "categories": [
         "3D Printing"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-26T13:39:07.498Z",
       "created_at": "2026-04-26T13:39:07.498Z"
@@ -114024,8 +114024,8 @@
       "source": "Tom's Hardware",
       "title_en": "AMD Ryzen 5 7600X3D review: An unbeatable value gaming CPU",
       "description_en": "The Ryzen 7 9850X3D was never set up for success, but our testing reveals the ugly side of AMD’s latest X3D CPU: higher power consumption for minuscule performance gains.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ביקורת AMD Ryzen 5 7600X3D: מעבד גיימינג בערך שלא ניתן לתחרות",
+      "description_he": "אם חשבתם שה-Ryzen 7 9850X3D יהיה כוכב הערב של AMD, כן... זה לא קרה. בדיקות שלנו חושפות צד מעוות של ה-X3D החדש של AMD - צריכת חשמל גבוהה בהרבה כדי להשיג שיפורי ביצועים שהם בעצם עלקה.",
       "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-7600x3d-review",
       "image_url": "https://cdn.mos.cms.futurecdn.net/xbPNZYQuQzkBJLcHa4Tt7X-1280-80.jpg",
       "pub_date": "Sun, 26 Apr 2026 13:00:45 +0000",
@@ -114034,7 +114034,7 @@
         "CPUs",
         "PC Components"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:07.498Z",
       "created_at": "2026-04-26T13:39:07.498Z"
@@ -114044,8 +114044,8 @@
       "source": "Tom's Hardware",
       "title_en": "Disabled gamer prototypes true one-handed keyboard-and-mouse controller, device nominated for award — maker inspired to build device after losing right arm in an accident",
       "description_en": "A Redditor who lost their right arm in an accident decided to prototype and build their own single-handed controller to get back into gaming. This peripheral combines a mouse and keypad into a single ergonomic device for one-handed use of PCs and consoles.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "גיימר עם נכות יצר קונטרולר חד-ידי מהפכני - התקן זכה להמלצה לפרס",
+      "description_he": "רדיטור שאיבד את זרועו הימנית בתאונה החליט לבנות לעצמו קונטרולר חד-ידי משלו כדי לחזור למשחקים, והתוצאה היא התקן מחוכם שמשלב עכבר ותא מקשים בהתקן אחד מעוצב ארגונומי. ההמצאה שלו כבר זכתה להכרה בענף והיא שינתה את חיי הגיימרים עם כושר מוגבל בכל העולם. המצאה שנולדה מנחיצות אמיתית ועד לפרס - זה בדיוק סיפור ההצלחה שאנחנו אוהבים לראות בעולם הטק.",
       "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/disabled-gamer-prototypes-true-one-handed-keyboard-and-mouse-controller-maker-inspired-to-build-device-after-losing-right-arm-in-an-accident",
       "image_url": "https://cdn.mos.cms.futurecdn.net/bwsNktFz9azDvZpRqd4xgX-1280-80.png",
       "pub_date": "Sun, 26 Apr 2026 12:45:06 +0000",
@@ -114054,7 +114054,7 @@
         "Controllers and Gamepads",
         "Peripherals"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:07.498Z",
       "created_at": "2026-04-26T13:39:07.498Z"
@@ -114064,8 +114064,8 @@
       "source": "Tom's Hardware",
       "title_en": "Commodore backs down over FPGA firmware lockdown — it won’t now try and block third-party firmware installs but will stand firm against bricked modded units",
       "description_en": "Iconic home computer brand has reversed its no-third-party firmware decision but makes it clear that users will get 'no free support/replacement for bricked modded units.'",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "קומודור נסוגה בעניין נעילת ה-FPGA — לא תחסום יותר התקנת firmware של צד שלישי, אבל תעמוד בחזקה נגד יחידות שנשברו",
+      "description_he": "חברת המחשבים הגדולה שינתה דעה והחליטה לא לחסום firmware של צד שלישי, אבל היא מבהירה שמי שמודדים את היחידות שלהם לא יקבלו תמיכה או החלפה חינם. זה איזון די מתוחכם בין להעניק לקהילה חופש לשחק עם החומware שלהם, לבין להגן על התשתית של החברה.",
       "link": "https://www.tomshardware.com/video-games/retro-gaming/commodore-backs-down-over-fpga-firmware-lockdown-it-wont-now-try-and-block-third-party-firmware-installs-but-will-stand-firm-against-bricked-modded-units",
       "image_url": "https://cdn.mos.cms.futurecdn.net/xeQza7BTdBLK6ZQ5mDBvWc-1280-80.jpg",
       "pub_date": "Sun, 26 Apr 2026 12:30:00 +0000",
@@ -114074,7 +114074,7 @@
         "Retro Gaming",
         "Video Games"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:07.498Z",
       "created_at": "2026-04-26T13:39:07.498Z"
@@ -114084,8 +114084,8 @@
       "source": "Tom's Hardware",
       "title_en": "DeepSeek launches 1.6 trillion parameter V4 on Huawei chips as U.S. escalates AI theft accusations — U.S. gov't alleges IP theft by DeepSeek and other Chinese AI firms",
       "description_en": "DeepSeek on Friday released a preview of its V4 large language model, the Hangzhou-based startup's most powerful to date.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "דיפסיק משיקה V4 עם 1.6 טריליון פרמטרים על שבבי האווי בעת שארה״ב מעלה האשמות על גניבת AI",
+      "description_he": "סטארטאפ דיפסיק מחנגג הכריזה על גרסת תצוגה של מודל השפה החדש שלה V4, שהוא החזק ביותר שיצרה עד כה. השיקום מגיע תוך כדי מתח גדול בין ארה״ב לסין סביב האשמות על גניבת קניין רוחני בתחום ה-AI, כאשר הממשלה האמריקאית טוענת כי חברות AI סיניות כולל דיפסיק גנבו טכנולוגיה.",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-launches-1-6-trillion-parameter-v4-on-huawei-chips-as-us-escalates-ai-theft-accusations",
       "image_url": "https://cdn.mos.cms.futurecdn.net/zfDV4Yc5qbdYxR9jC8U8NA-1280-80.jpg",
       "pub_date": "Sun, 26 Apr 2026 12:15:00 +0000",
@@ -114094,7 +114094,7 @@
         "Artificial Intelligence",
         "Tech Industry"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:07.498Z",
       "created_at": "2026-04-26T13:39:07.498Z"
@@ -114104,8 +114104,8 @@
       "source": "Tom's Hardware",
       "title_en": "Taiwan's stock market surpasses the UK's despite having less than a quarter of the UK's economy — AI boom propels Taiwan forward, TSMC alone accounts for more than 40% of Taiwan's total market value",
       "description_en": "Taiwan's stock market is now worth more than the United Kingdom's, in a shift driven almost entirely by the insatiable global appetite for AI chips.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "שוק המניות של טייוואן עקף את בריטניה למרות שהכלכלה שלה קטנה בחצי – הבום של ה-AI משנה את כל המשחק",
+      "description_he": "טייוואן הפכה להיות מעצמה בעלת שווי שוק גבוה יותר מבריטניה, וכל זה הודות להתאבקות העולמית על שבבי AI. TSMC, שהיא בודדה, אחראית ליותר מ-40% משווי השוק של טייוואן, והיא כמו מנוע שכל העולם צריך אותו כדי לרוץ בתחרות ה-AI. תרגום: בזמן שהכלכלה של טייוואן עדיין קטנה מזו של בריטניה, שוק המניות שלה בפשוטו כלומר עלה על הבריטי וזה אומר משהו ממש גדול על עוצמת הטק שלהם.",
       "link": "https://www.tomshardware.com/tech-industry/taiwan-stock-market-overtakes-the-uk",
       "image_url": "https://cdn.mos.cms.futurecdn.net/woUU8Hr3jfctwDwsf5k5gJ-1280-80.jpg",
       "pub_date": "Sun, 26 Apr 2026 12:00:00 +0000",
@@ -114113,7 +114113,7 @@
       "categories": [
         "Tech Industry"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:07.498Z",
       "created_at": "2026-04-26T13:39:07.498Z"
@@ -114123,8 +114123,8 @@
       "source": "Tom's Hardware",
       "title_en": "Intel reportedly says it boosted yields by selling what would normally be 'scrap' or 'low-expectation' CPUs — customers more willing to accept lesser chips due to overwhelming CPU demand",
       "description_en": "Intel’s Investor relations team confirmed that customers are sweeping up the lower-quality chips, bringing in tangible revenue for the company.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "אינטל מגדילה רווחים על ידי מכירת שרצים - הלקוחות קונים כמו משוגעים בגלל המחסור",
+      "description_he": "בתור שהביקוש לחיפים עלה לשמיים, אינטל גילתה לעצמה שיטה חכמה: להשתמש בשרצים שנחשבו בעבר להפסדים מלאים. הלקוחות כל כך דחוקים שהם נשמחים לקבל אפילו ציפים בעלי ביצועים נמוכים יותר, וזה מביא לאינטל כסף ממשי שלא הייתה מחכה אליו. צוות ה-Investor Relations של אינטל אישר שעסקה זו מחזירה הכנסה כבדה מאוד לחברה.",
       "link": "https://www.tomshardware.com/pc-components/cpus/intel-reportedly-says-it-boosted-yields-by-selling-what-would-normally-be-scrap-or-low-expectation-cpus-customers-more-willing-to-accept-lesser-chips-due-to-overwhelming-cpu-demand",
       "image_url": "https://cdn.mos.cms.futurecdn.net/d28eNoiDaojehbzBKvLxhh-1280-80.jpg",
       "pub_date": "Sun, 26 Apr 2026 11:45:00 +0000",
@@ -114133,7 +114133,7 @@
         "CPUs",
         "PC Components"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:07.498Z",
       "created_at": "2026-04-26T13:39:07.498Z"
@@ -114143,8 +114143,8 @@
       "source": "Tom's Hardware",
       "title_en": "Enthusiast builds 3D-printed retro PC case and shares the files so you can print it yourself — design fits ITX mobo and ATX PSU, comes with front 3.5-inch bay for USB ports",
       "description_en": "You finish building this 3D-printed retro PC case in under 100 hours as long as you have all the right tools and materials. u/Potatozeng even included a PDF guide (with pictures!) to help you through the process.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "חובב בנה קייס PC רטרו מודפס בתלת-מימד ושיתף את הקבצים - מתאים לכל ITX ו-PSU ATX, כולל חריץ 3.5 אינץ' קדמי",
+      "description_he": "אם אתם מחפשים פרויקט DIY מעניין, זה המקום להתחיל - מישהו בקהילת Reddit יצר קייס PC בסגנון רטרו שאפשר להדפיס בעצמכם, ותהליך ההדפסה כולו יקח פחות מ-100 שעות (כמובן, אם יש לכם את כל הציוד הנדרש). המעצב אפילו סידר לכם PDF עם הוראות מלאות ותמונות כדי שהכל יהיה קל. מתאים לכל motherboard ITX וגם ל-PSU רגיל של ATX, כולל מקום להרכיב יציאות USB בחלק הקדמי.",
       "link": "https://www.tomshardware.com/3d-printing/enthusiast-builds-3d-printed-retro-pc-case-and-shares-3d-files-so-you-can-print-it-yourself-design-fits-itx-mobo-and-atx-psu-comes-with-front-3-5-inch-bay-for-usb-ports",
       "image_url": "https://cdn.mos.cms.futurecdn.net/VUmwNtZDT5CydcoW9NPd5X-1280-80.png",
       "pub_date": "Sun, 26 Apr 2026 11:30:00 +0000",
@@ -114152,7 +114152,7 @@
       "categories": [
         "3D Printing"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:07.498Z",
       "created_at": "2026-04-26T13:39:07.498Z"
@@ -114162,8 +114162,8 @@
       "source": "The Guardian AI",
       "title_en": "Bosses don’t like the sound of a ‘four-day workweek’. Maybe it’s time to rebrand it",
       "description_en": "Some employers are reluctant to cut workers’ hours but pay them the same – but it just might be the future of work\nWe keep hearing that the four-day workweek is the future. So why are so few businesses actually adopting it?\nBelgium, Iceland and Lithuania have passed legislation requiring the practice, and other countries in Europe are piloting the idea. Hundreds of companies in the UK have signed up for to give this a try. Microsoft tested the concept in Japan. Non-profits such as the 4 Day Week",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מנהלים מסתייגים מ'שבוע עבודה של 4 ימים'? אולי הגיע הזמן לשינוי שם",
+      "description_he": "אוקיי, אז כולם מדברים על שבוע עבודה של 4 ימים כעתיד העבודה, אבל למה בעצם כמעט אף חברה לא מיהרה להמיר את זה? במדינות כמו בלגיה, איסלנד וליטואניה כבר חוקקו חוקים בנושא, וחברות גדולות כמו מיקרוסופט בדקו את התפיסה בפועל. הבעיה? מעסיקים פשוט לא אוהבים את הרעיון לשמוע שעובדים יעבדו פחות שעות תמורת אותו משכורת.",
       "link": "https://www.theguardian.com/business/2026/apr/26/four-day-workweek-employment",
       "image_url": "https://i.guim.co.uk/img/media/45e5fecef0fa0d1044cd0dc9c751c9c53191c5e3/2349_819_3196_2557/master/3196.jpg?width=140&quality=85&auto=format&fit=max&s=56d403d037cdafdef1b5eca7301b15e0",
       "pub_date": "Sun, 26 Apr 2026 14:00:16 GMT",
@@ -114212,7 +114212,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-26T14:27:45.487Z",
       "created_at": "2026-04-26T14:27:45.487Z"
@@ -114222,8 +114222,8 @@
       "source": "Futurism",
       "title_en": "Experts Warn of AI Swarms Hijacking Democracy With Fake Citizens",
       "description_en": "\"These systems are capable of coordinating autonomously, infiltrating communities, and fabricating consensus efficiently.\"\nThe post Experts Warn of AI Swarms Hijacking Democracy With Fake Citizens appeared first on Futurism.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מומחים מזהירים: בעלי חיים דיגיטליים של AI עלולים לחטוף את הדמוקרטיה עם אזרחים מזויפים",
+      "description_he": "במחקר חדש חושפים מומחים כיצד מערכות AI בעלות יכולת תיאום עצמאי יכולות להסתנן לתוך קהילות ברחבי הרשת ולייצר הסכמה מעין מלאכותית בצורה מדהימה. זו לא עוד תיאוריה מדע בדיוני - המומחים מתריעים שהדבר יכול להשפיע ישירות על תהליכים דמוקרטיים ועל האופן שבו אנו מדברים זה עם זה באינטרנט.",
       "link": "https://futurism.com/artificial-intelligence/ai-swarm-democracy-security",
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/ai-swarm-democracy-security.jpg?quality=85",
       "pub_date": "Sun, 26 Apr 2026 09:45:00 -0400",
@@ -114242,7 +114242,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-26T14:27:50.076Z",
       "created_at": "2026-04-26T14:27:50.076Z"
@@ -114252,14 +114252,14 @@
       "source": "The Register",
       "title_en": "Tokenmaxxing isn't an AI strategy",
       "description_en": "Before checking AI's price tag, see whether it fits What does AI cost? It's a simple question and an important one – the answer will determine the fate of companies and shape society. But it's also a question that can't be answered in a meaningful way without additional context.…",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "\"Tokenmaxxing\" זה לא אסטרטגיית AI",
+      "description_he": "למה אתם צריכים להפסיק להתעלם מהעלויות של AI? מתברר שלא מספיק פשוט להביט על התג המחיר של מודל AI כלשהו - צריך להבין את ההקשר כולו כדי לדעת אם זה באמת משתלם. הכתבה מסבירה למה חברות שרודפות רק אחרי מודלים זולים יותר עלולות להיתקל בבעיות גדולות בעתיד. מקור: The Register",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/26/ai_price_tag/",
       "image_url": null,
       "pub_date": "2026-04-26T14:48:10.000Z",
       "author": "Thomas Claburn",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-26T15:10:10.217Z",
       "created_at": "2026-04-26T15:10:10.217Z"
@@ -114269,14 +114269,14 @@
       "source": "Interesting Engineering",
       "title_en": "French firm’s high burnup nuclear fuel secures key approval for US reactor fleet",
       "description_en": "The US Nuclear Regulatory Commission (NRC) has approved a technical report submitted by Framatome concerning...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "דלק גרעיני עם שריפה גבוהה של חברה צרפתית קיבל אישור קריטי לחי הגרעין האמריקאי",
+      "description_he": "הוועדה הרגולטורית הגרעינית האמריקאית (NRC) אישרה דוח טכני של Framatome, החברה הצרפתית המובילה בתחום, שמתאר דלק גרעיני חדש עם יכולת שריפה גבוהה יותר. התברת זו יכולה להעניק לתחנות הגרעין בארה״ב יעילות רבה יותר ותמידות של דלק ארוכה יותר בתוך הרי אקטורים. זה צעד משמעותי לחיזוק תעשיית הגרעין האמריקאית, במיוחד בעת שמדינות מחזירות את מבטן לאנרגיה גרעינית כדי להילחם בשינויי אקלים.",
       "link": "https://interestingengineering.com/energy/french-firm-high-burnup-nuclear-reactor-fuel",
       "image_url": null,
       "pub_date": "Sun, 26 Apr 2026 14:41:08 +0000",
       "author": "Aman Tripathi",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-26T15:10:13.547Z",
       "created_at": "2026-04-26T15:10:13.547Z"
@@ -114286,14 +114286,14 @@
       "source": "Interesting Engineering",
       "title_en": "$1 billion in missile business: US War Dept’s investment to boost attack rocket’s production",
       "description_en": "A Florida-based company has closed a $1 billion strategic investment from the U.S. Department of...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מיליארד דולר לעסקי טילים: השקעת משרד ההגנה האמריקאי להגברת ייצור רקטות התקפה",
+      "description_he": "חברה בסיס בפלורידה סגרה עסקה לשקעה אסטרטגית בשווי מיליארד דולר מ-משרד ההגנה האמריקאי, בעיקר כדי להגביר את קיבולת הייצור של טילים התקפיים. זו צעד משמעותי בהשקעה אמריקאית בתשתיות צבאיות, במיוחד במסגרת תחרות גיאופוליטיות עולמיות. ההשקעה מדגימה כיצד מוסדות ממשלתיים משקיעים בשדרוג יכולות צבאיות",
       "link": "https://interestingengineering.com/military/us-war-dept-missile-production",
       "image_url": null,
       "pub_date": "Sun, 26 Apr 2026 14:08:30 +0000",
       "author": "Prabhat Ranjan Mishra",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-26T15:10:13.547Z",
       "created_at": "2026-04-26T15:10:13.547Z"
@@ -114303,8 +114303,8 @@
       "source": "Futurism",
       "title_en": "New Browser Plugin Adds Typos to Your AI-Generated Emails to Make Them Look Real",
       "description_en": "\"Mess up your emails with AI.\"\nThe post New Browser Plugin Adds Typos to Your AI-Generated Emails to Make Them Look Real appeared first on Futurism.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "תוסף דפדפן חדש מוסיף שגיאות כתיב לאימיילים שנוצרו ע\"י AI כדי שיהיו נראים אמיתיים",
+      "description_he": "רוצים שהאימיילים שלכם שנוצרים על ידי AI לא יהיו מדי מושלמים? עכשיו יש תוסף דפדפן חדש שעושה בדיוק את זה - הוא מוסיף שגיאות כתיב וטעויות קטנות כדי שהההודעות שלכם יראו יותר אנושיות וטבעיות. זה כמו שתטעו קצת כדי להיראות פחות רובוטיים. מקור: Futurism",
       "link": "https://futurism.com/artificial-intelligence/browser-plugin-typos-ai-generated-emails",
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/browser-plugin-typos-ai-generated-emails.jpg?quality=85",
       "pub_date": "Sun, 26 Apr 2026 10:30:00 -0400",
@@ -114329,7 +114329,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-26T15:10:13.669Z",
       "created_at": "2026-04-26T15:10:13.669Z"
@@ -114339,8 +114339,8 @@
       "source": "Tom's Hardware",
       "title_en": "Toyota’s limited edition $3,500 Crown gaming chair has heating, cooling, and a USB-C seatbelt buckle — Toyota Crown front car seat turned into gaming chair, enjoy in-car comforts while on your PC",
       "description_en": "The world's largest automaker has branched out into computer chairs with a limited edition model as part of The Crown Collection.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "כיסא גיימינג בעיצוב טויוטה Crown - 3,500 דולר עם חימום, קירור וחיבור USB-C",
+      "description_he": "טויוטה החליטה להפתיע את כולנו וביצעה משהו לא צפוי - לקחה את הנוחות של מושב הנהג בקראון שלה והפכה אותה לכיסא גיימינג בעיצוב מוגבל. אנחנו מדברים על כיסא עם חימום וקירור, פרטים שממש לא רגילים בעולם הכיסאות למחשב. זה החלק המגניב באמת - למי שהתמיד להשקיע בציוד גיימינג, הנה לך הוכחה שגם יצרן רכבים ענקי רוצה חלק מהעוגה.\n\nמקור: Tom's Hardware",
       "link": "https://www.tomshardware.com/peripherals/gaming-chairs/toyotas-limited-edition-usd3-500-crown-gaming-chair-has-heating-cooling-and-a-usb-c-seatbelt-buckle-enjoy-in-car-comforts-while-you-are-on-your-pc",
       "image_url": "https://cdn.mos.cms.futurecdn.net/TCnfx2bgyYdxoiPx3uMJsU-1280-80.jpg",
       "pub_date": "Sun, 26 Apr 2026 14:31:39 +0000",
@@ -114349,7 +114349,7 @@
         "Gaming Chairs",
         "Peripherals"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-26T15:10:13.726Z",
       "created_at": "2026-04-26T15:10:13.726Z"
