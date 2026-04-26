@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Korea’s next-gen system enables simultaneous production of hydrogen using waste glycerol\n\nResearchers in South Korea have developed a next-generation high-efficiency electrochemical system that enables the simultaneous...",
+    "t": "מערכת הדור הבא של קוריאה: ייצור מימן בו-זמני מגליצרול פסולת\n\nחוקרים בדרום קוריאה פיתחו מערכת אלקטרוכימית חדשנית בעלת יעילות גבוהה שמאפשרת לייצר מימן בעוד בו-זמנית משתמשים בגליצרול פסולת - כלומר הם הצליחו להפוך את המשהו שזורקים לאמת משהו שיש בו ערך. הטכנולוגיה הזאת יכולה לשנות את המשחק בתחום האנרגיה הנקייה ופתיחת דרכים חדשות לממחזור חומרים תעשייתיים.",
     "d": "Sun, 26 Apr 2026 17:58:24 +0000",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "2,000-year-old statue of Athena found in theater of Biblical city of Laodicea\n\nArchaeologists uncovered a nearly complete, six-foot-tall statue of Athena at the West Theater in Laodicea,...",
+    "t": "פסל של אתנה בן 2,000 שנה התגלה בתיאטרון של העיר העתיקה לאודיקיאה\n\nארכיאולוגים חשפו פסל כמעט שלם של אתנה בגובה שני מטרים בתיאטרון המערבי של לאודיקיאה, עיר עתיקה בעלת משמעות כתובית. התגליה המרשימה הזאת מזכירה לנו עד כמה הקולטורה היוונית השתרשה בחבל הלבנט הקדום, והיא יכולה לשפוך אור חדש על החיים היומיומיים בתקופה ההלניסטית.",
     "d": "Sun, 26 Apr 2026 17:56:50 +0000",
     "v": 0,
     "l": [
@@ -47,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Top Medical Journal Publishes Searing Article Warning Against Medical AI\n\n\"Evidence that AI tools create value for patients, providers or health systems remains scarce.\"\nThe post Top Medical Journal Publishes Searing Article Warning Against Medical AI appeared first on Futurism.",
+    "t": "כתב-עת רפואי מוביל פרסם מאמר חריף שמתריע נגד AI ברפואה\n\nבקום למדעת: גם כשהעולם מתרגל ל-AI בכל מקום, כתב-עת רפואי מובחר פרסם מאמר שמעיף את הכפפות ואומר שעדיין אין הוכחות אמיתיות שכלים של AI יוצרים ערך בפועל למטופלים, לרופאים או למערכות בריאות. הוא של לא הבטחה בנייר, זה צעד חשוב בהיחס הביקורתי לטכנולוגיה בתחום הרפואי.",
     "d": "Sun, 26 Apr 2026 13:30:00 -0400",
     "v": 0,
     "l": [
