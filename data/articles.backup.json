@@ -113848,7 +113848,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:03.157Z",
       "created_at": "2026-04-26T13:39:03.157Z"
     },
@@ -113887,7 +113887,7 @@
       "author": "Bojan Stojkovski",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:06.957Z",
       "created_at": "2026-04-26T13:39:06.957Z"
     },
@@ -113940,7 +113940,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:07.202Z",
       "created_at": "2026-04-26T13:39:07.202Z"
     },
@@ -114035,7 +114035,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:07.498Z",
       "created_at": "2026-04-26T13:39:07.498Z"
     },
@@ -114055,7 +114055,7 @@
         "Peripherals"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:07.498Z",
       "created_at": "2026-04-26T13:39:07.498Z"
     },
@@ -114075,7 +114075,7 @@
         "Video Games"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-26T13:39:07.498Z",
       "created_at": "2026-04-26T13:39:07.498Z"
     },
@@ -114246,6 +114246,113 @@
       "priority": "hot",
       "fetchedAt": "2026-04-26T14:27:50.076Z",
       "created_at": "2026-04-26T14:27:50.076Z"
+    },
+    {
+      "id": 5602,
+      "source": "The Register",
+      "title_en": "Tokenmaxxing isn't an AI strategy",
+      "description_en": "Before checking AI's price tag, see whether it fits What does AI cost? It's a simple question and an important one – the answer will determine the fate of companies and shape society. But it's also a question that can't be answered in a meaningful way without additional context.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/26/ai_price_tag/",
+      "image_url": null,
+      "pub_date": "2026-04-26T14:48:10.000Z",
+      "author": "Thomas Claburn",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T15:10:10.217Z",
+      "created_at": "2026-04-26T15:10:10.217Z"
+    },
+    {
+      "id": 5603,
+      "source": "Interesting Engineering",
+      "title_en": "French firm’s high burnup nuclear fuel secures key approval for US reactor fleet",
+      "description_en": "The US Nuclear Regulatory Commission (NRC) has approved a technical report submitted by Framatome concerning...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/french-firm-high-burnup-nuclear-reactor-fuel",
+      "image_url": null,
+      "pub_date": "Sun, 26 Apr 2026 14:41:08 +0000",
+      "author": "Aman Tripathi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T15:10:13.547Z",
+      "created_at": "2026-04-26T15:10:13.547Z"
+    },
+    {
+      "id": 5604,
+      "source": "Interesting Engineering",
+      "title_en": "$1 billion in missile business: US War Dept’s investment to boost attack rocket’s production",
+      "description_en": "A Florida-based company has closed a $1 billion strategic investment from the U.S. Department of...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-war-dept-missile-production",
+      "image_url": null,
+      "pub_date": "Sun, 26 Apr 2026 14:08:30 +0000",
+      "author": "Prabhat Ranjan Mishra",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T15:10:13.547Z",
+      "created_at": "2026-04-26T15:10:13.547Z"
+    },
+    {
+      "id": 5605,
+      "source": "Futurism",
+      "title_en": "New Browser Plugin Adds Typos to Your AI-Generated Emails to Make Them Look Real",
+      "description_en": "\"Mess up your emails with AI.\"\nThe post New Browser Plugin Adds Typos to Your AI-Generated Emails to Make Them Look Real appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/browser-plugin-typos-ai-generated-emails",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/browser-plugin-typos-ai-generated-emails.jpg?quality=85",
+      "pub_date": "Sun, 26 Apr 2026 10:30:00 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://futurism.com/category/anthropic"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T15:10:13.669Z",
+      "created_at": "2026-04-26T15:10:13.669Z"
+    },
+    {
+      "id": 5606,
+      "source": "Tom's Hardware",
+      "title_en": "Toyota’s limited edition $3,500 Crown gaming chair has heating, cooling, and a USB-C seatbelt buckle — Toyota Crown front car seat turned into gaming chair, enjoy in-car comforts while on your PC",
+      "description_en": "The world's largest automaker has branched out into computer chairs with a limited edition model as part of The Crown Collection.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/peripherals/gaming-chairs/toyotas-limited-edition-usd3-500-crown-gaming-chair-has-heating-cooling-and-a-usb-c-seatbelt-buckle-enjoy-in-car-comforts-while-you-are-on-your-pc",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/TCnfx2bgyYdxoiPx3uMJsU-1280-80.jpg",
+      "pub_date": "Sun, 26 Apr 2026 14:31:39 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Gaming Chairs",
+        "Peripherals"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-26T15:10:13.726Z",
+      "created_at": "2026-04-26T15:10:13.726Z"
     }
   ]
 }
