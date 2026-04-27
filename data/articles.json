@@ -114823,6 +114823,518 @@
       "priority": "batch",
       "fetchedAt": "2026-04-26T22:55:44.842Z",
       "created_at": "2026-04-26T22:55:44.842Z"
+    },
+    {
+      "id": 5628,
+      "source": "MarkTechPost",
+      "title_en": "The LoRA Assumption That Breaks in Production",
+      "description_en": "LoRA is widely used for fine-tuning large models because it’s efficient, but it quietly assumes that all updates to a model are similar. In reality, they’re not. When you fine-tune for style (like tone, format, or persona), the changes are simple and concentrated in just a few dimensions — which LoRA handles well with low-rank […]\nThe post The LoRA Assumption That Breaks in Production  appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/26/the-lora-assumption-that-breaks-in-production/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/image-56.png",
+      "pub_date": "Mon, 27 Apr 2026 05:33:44 +0000",
+      "author": "Arham Islam",
+      "categories": [
+        "Artificial Intelligence",
+        "Big Data",
+        "Data Science",
+        "Editors Pick",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T07:27:13.005Z",
+      "created_at": "2026-04-27T07:27:13.005Z"
+    },
+    {
+      "id": 5629,
+      "source": "MarkTechPost",
+      "title_en": "How to Build a Fully Searchable AI Knowledge Base with OpenKB, OpenRouter, and Llama",
+      "description_en": "In this tutorial, we explore how to build and query a local knowledge base with OpenKB using a free, open model via OpenRouter. We securely retrieve the API key with getpass, set up the environment without hardcoding secrets, and initialize a structured, wiki-style knowledge base from scratch. As we move through the workflow, we add […]\nThe post How to Build a Fully Searchable AI Knowledge Base with OpenKB, OpenRouter, and Llama appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/26/how-to-build-a-fully-searchable-ai-knowledge-base-with-openkb-openrouter-and-llama/",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 05:20:25 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Large Language Model",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T07:27:13.006Z",
+      "created_at": "2026-04-27T07:27:13.006Z"
+    },
+    {
+      "id": 5630,
+      "source": "MarkTechPost",
+      "title_en": "How to Build Smarter Multilingual Text Wrapping with BudouX Through Parsing, HTML Rendering, Model Introspection, and Toy Training",
+      "description_en": "In this tutorial, we explore how we use BudouX to bring intelligent, phrase-aware line breaking to languages where whitespace is not naturally present, such as Japanese, Chinese, and Thai. We begin by setting up the library and working with its default parsers to understand how raw text is segmented into meaningful chunks. We then move […]\nThe post How to Build Smarter Multilingual Text Wrapping with BudouX Through Parsing, HTML Rendering, Model Introspection, and Toy Training appeared first on ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/26/how-to-build-smarter-multilingual-text-wrapping-with-budoux-through-parsing-html-rendering-model-introspection-and-toy-training/",
+      "image_url": null,
+      "pub_date": "Sun, 26 Apr 2026 22:58:28 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Artificial Intelligence",
+        "Big Data",
+        "Data Science",
+        "Editors Pick",
+        "Machine Learning",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T07:27:13.006Z",
+      "created_at": "2026-04-27T07:27:13.006Z"
+    },
+    {
+      "id": 5631,
+      "source": "OpenAI Blog",
+      "title_en": "Our principles",
+      "description_en": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/our-principles",
+      "image_url": null,
+      "pub_date": "Sun, 26 Apr 2026 16:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Company"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T07:27:13.397Z",
+      "created_at": "2026-04-27T07:27:13.397Z"
+    },
+    {
+      "id": 5632,
+      "source": "The Register",
+      "title_en": "Google Cloud Next proves what we suspected: Everything is AI now",
+      "description_en": "Join us for this week's Kettle as we dive into GCN and the latest not-so-alarming revelations about Mythos KETTLE  If you needed further evidence that AI comes first in pretty much everything nowadays, look no further than this year's Google Cloud Next show, which happened last week.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/google_cloud_next_proves_what/",
+      "image_url": null,
+      "pub_date": "2026-04-27T00:01:15.000Z",
+      "author": "Brandon Vigliarolo",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T07:27:13.517Z",
+      "created_at": "2026-04-27T07:27:13.517Z"
+    },
+    {
+      "id": 5633,
+      "source": "The Guardian AI",
+      "title_en": "Inside China’s robotics revolution – podcast",
+      "description_en": "How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out\nBy Chang Che. Read by Vincent Lai\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/news/audio/2026/apr/27/inside-chinas-robotics-revolution-podcast",
+      "image_url": "https://i.guim.co.uk/img/media/a4cce7d6113c4d3af2a15861fb8565b141f8488c/542_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=5136dde3abda9af3591cc545146a548e",
+      "pub_date": "Mon, 27 Apr 2026 04:00:33 GMT",
+      "author": "Written by Chang Che and read by Vincent Lai. Produced by Nicola Alexandrou. The executive producer was Danielle Stephens",
+      "categories": [
+        {
+          "_": "Robots",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/robots"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "China",
+          "$": {
+            "domain": "https://www.theguardian.com/world/china"
+          }
+        },
+        {
+          "_": "Xi Jinping",
+          "$": {
+            "domain": "https://www.theguardian.com/world/xi-jinping"
+          }
+        },
+        {
+          "_": "Manufacturing sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/manufacturing-sector"
+          }
+        },
+        {
+          "_": "Asia Pacific",
+          "$": {
+            "domain": "https://www.theguardian.com/world/asia-pacific"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T07:27:13.540Z",
+      "created_at": "2026-04-27T07:27:13.540Z"
+    },
+    {
+      "id": 5634,
+      "source": "New Atlas",
+      "title_en": "Nanotextured coating material shreds viruses on contact",
+      "description_en": "It doesn't take much to pick up a viral infection in spaces we share with other people – whether it's from tiny droplets in the air containing these particles, or touching doorknobs and countertops in offices and hospitals.\nContinue Reading\nCategory: Engineering\nTags: Materials, Virus, Silicon, Coating, RMIT University",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/engineering/nanotextured-coating-material-shreds-viruses-rmit/",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 01:03:00 GMT",
+      "author": "Abhimanyu Ghoshal",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T07:27:13.550Z",
+      "created_at": "2026-04-27T07:27:13.550Z"
+    },
+    {
+      "id": 5635,
+      "source": "Interesting Engineering",
+      "title_en": "Combat-proven military vehicle with powerful weapons set to bolster Australia’s defense",
+      "description_en": "A French company is set to deliver hundreds of next-generation protected vehicles to the Australian...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/military-vehicle-powerful-weapons-australia-defense",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 06:51:15 +0000",
+      "author": "Prabhat Ranjan Mishra",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T07:27:14.317Z",
+      "created_at": "2026-04-27T07:27:14.317Z"
+    },
+    {
+      "id": 5636,
+      "source": "Interesting Engineering",
+      "title_en": "UK scientists turn wool into sustainable material for bone regeneration in living animals",
+      "description_en": "Researchers have turned wool into sustainable material for bone repair. The team from King’s College...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/health/wool-sustainable-material-bone-regeneration",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 05:30:51 +0000",
+      "author": "Prabhat Ranjan Mishra",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T07:27:14.317Z",
+      "created_at": "2026-04-27T07:27:14.317Z"
+    },
+    {
+      "id": 5637,
+      "source": "Futurism",
+      "title_en": "Tinder Scanning Users’ Eyeballs to Prove They Aren’t Creeps",
+      "description_en": "Gaze into the iris-scanning orb, human.\nThe post Tinder Scanning Users’ Eyeballs to Prove They Aren’t Creeps appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/future-society/tinder-scanning-eyeballs",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/tinder-scanning-eyeballs.jpg?quality=85",
+      "pub_date": "Sun, 26 Apr 2026 19:30:00 -0400",
+      "author": "Frank Landymore",
+      "categories": [
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        },
+        {
+          "_": "Privacy",
+          "$": {
+            "domain": "https://futurism.com/category/privacy"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T07:27:14.520Z",
+      "created_at": "2026-04-27T07:27:14.520Z"
+    },
+    {
+      "id": 5638,
+      "source": "Product Hunt",
+      "title_en": "Replyless - Best Superhuman Alternative",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/replylessai",
+      "image_url": null,
+      "pub_date": "2026-04-26T11:12:50.000Z",
+      "author": "Srivatsa Mudumby",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T07:27:14.980Z",
+      "created_at": "2026-04-27T07:27:14.980Z"
+    },
+    {
+      "id": 5639,
+      "source": "Product Hunt",
+      "title_en": "Odyssey-2 Max",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/odyssey-5",
+      "image_url": null,
+      "pub_date": "2026-04-27T03:22:37.000Z",
+      "author": "Zac Zuo",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T07:27:14.980Z",
+      "created_at": "2026-04-27T07:27:14.980Z"
+    },
+    {
+      "id": 5640,
+      "source": "Product Hunt",
+      "title_en": "Logic",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/logic-ship-an-agent",
+      "image_url": null,
+      "pub_date": "2026-04-20T14:31:44.000Z",
+      "author": "Ben Lang",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T07:27:14.980Z",
+      "created_at": "2026-04-27T07:27:14.980Z"
+    },
+    {
+      "id": 5641,
+      "source": "Product Hunt",
+      "title_en": "Wafaa.io",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/wafaa-io-beta",
+      "image_url": null,
+      "pub_date": "2026-04-06T20:42:22.000Z",
+      "author": "Yousif Alroumi",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T07:27:14.980Z",
+      "created_at": "2026-04-27T07:27:14.980Z"
+    },
+    {
+      "id": 5642,
+      "source": "Product Hunt",
+      "title_en": "GitBar",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/gitbar-3",
+      "image_url": null,
+      "pub_date": "2026-04-23T09:24:16.000Z",
+      "author": "Thomas Lamars",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T07:27:14.981Z",
+      "created_at": "2026-04-27T07:27:14.981Z"
+    },
+    {
+      "id": 5643,
+      "source": "Product Hunt",
+      "title_en": "Jet AI Agents",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/jet-admin",
+      "image_url": null,
+      "pub_date": "2026-04-24T10:56:33.000Z",
+      "author": "Anton Svetlov",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T07:27:14.981Z",
+      "created_at": "2026-04-27T07:27:14.981Z"
+    },
+    {
+      "id": 5644,
+      "source": "Product Hunt",
+      "title_en": "Vouch API",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/vouch-api",
+      "image_url": null,
+      "pub_date": "2026-04-26T07:59:29.000Z",
+      "author": "Owais Aslam",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T07:27:14.981Z",
+      "created_at": "2026-04-27T07:27:14.981Z"
+    },
+    {
+      "id": 5645,
+      "source": "Product Hunt",
+      "title_en": "SNEWPapers",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/snewpapers",
+      "image_url": null,
+      "pub_date": "2026-04-25T09:16:52.000Z",
+      "author": "Brett Shinnebarger",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T07:27:14.981Z",
+      "created_at": "2026-04-27T07:27:14.981Z"
+    },
+    {
+      "id": 5646,
+      "source": "Product Hunt",
+      "title_en": "Brew Finder",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/brew-finder",
+      "image_url": null,
+      "pub_date": "2026-04-27T02:24:51.000Z",
+      "author": "Fadi Zaki",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T07:27:14.981Z",
+      "created_at": "2026-04-27T07:27:14.981Z"
+    },
+    {
+      "id": 5647,
+      "source": "Product Hunt",
+      "title_en": "Orange Slice",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/orange-slice",
+      "image_url": null,
+      "pub_date": "2026-04-24T17:48:01.000Z",
+      "author": "Garry Tan",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T07:27:14.981Z",
+      "created_at": "2026-04-27T07:27:14.981Z"
+    },
+    {
+      "id": 5648,
+      "source": "Product Hunt",
+      "title_en": "Waitlister",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/waitlister",
+      "image_url": null,
+      "pub_date": "2026-04-25T14:58:42.000Z",
+      "author": "devin daymore",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T07:27:14.981Z",
+      "created_at": "2026-04-27T07:27:14.981Z"
+    },
+    {
+      "id": 5649,
+      "source": "Product Hunt",
+      "title_en": "Atech",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/atech",
+      "image_url": null,
+      "pub_date": "2026-04-26T16:58:14.000Z",
+      "author": "Gustav Hugpd",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T07:27:14.981Z",
+      "created_at": "2026-04-27T07:27:14.981Z"
+    },
+    {
+      "id": 5650,
+      "source": "Product Hunt",
+      "title_en": "VIDEO AI ME",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/video-ai-me",
+      "image_url": null,
+      "pub_date": "2026-04-26T20:22:53.000Z",
+      "author": "Paul G",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T07:27:14.981Z",
+      "created_at": "2026-04-27T07:27:14.981Z"
+    },
+    {
+      "id": 5651,
+      "source": "Product Hunt",
+      "title_en": "Subgrapher",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/subgrapher",
+      "image_url": null,
+      "pub_date": "2026-04-27T06:29:50.000Z",
+      "author": "Srimallya",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T07:27:14.981Z",
+      "created_at": "2026-04-27T07:27:14.981Z"
+    },
+    {
+      "id": 5652,
+      "source": "Product Hunt",
+      "title_en": "PlayJoob",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/playjoob",
+      "image_url": null,
+      "pub_date": "2026-03-31T05:37:51.000Z",
+      "author": "Greg Neu",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T07:27:14.981Z",
+      "created_at": "2026-04-27T07:27:14.981Z"
     }
   ]
 }
