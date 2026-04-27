@@ -115708,7 +115708,7 @@
         "USA"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T11:26:28.367Z",
       "created_at": "2026-04-27T11:26:28.367Z"
     },
@@ -115875,7 +115875,7 @@
         "threat intelligence"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T11:26:31.332Z",
       "created_at": "2026-04-27T11:26:31.332Z"
     },
@@ -116005,7 +116005,7 @@
         "The Download"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T13:04:47.477Z",
       "created_at": "2026-04-27T13:04:47.477Z"
     },
@@ -116044,7 +116044,7 @@
         "Gemini models"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T13:04:47.711Z",
       "created_at": "2026-04-27T13:04:47.711Z"
     },
@@ -116129,7 +116129,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T13:04:48.248Z",
       "created_at": "2026-04-27T13:04:48.248Z"
     },
@@ -116146,7 +116146,7 @@
       "author": "Mrigakshi Dixit",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T13:04:51.017Z",
       "created_at": "2026-04-27T13:04:51.017Z"
     },
@@ -116163,7 +116163,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T13:04:51.497Z",
       "created_at": "2026-04-27T13:04:51.497Z"
     },
@@ -116180,7 +116180,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T13:04:51.497Z",
       "created_at": "2026-04-27T13:04:51.497Z"
     },
@@ -116197,7 +116197,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T13:04:51.497Z",
       "created_at": "2026-04-27T13:04:51.497Z"
     },
@@ -116216,7 +116216,7 @@
         "3D Printing"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T13:04:51.530Z",
       "created_at": "2026-04-27T13:04:51.530Z"
     },
@@ -116237,7 +116237,7 @@
         "Manufacturing"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T13:04:51.531Z",
       "created_at": "2026-04-27T13:04:51.531Z"
     },
@@ -116256,9 +116256,383 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T13:04:51.531Z",
       "created_at": "2026-04-27T13:04:51.531Z"
+    },
+    {
+      "id": 5690,
+      "source": "TechCrunch AI",
+      "title_en": "China blocks Meta’s $2B Manus deal after months-long probe",
+      "description_en": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 13:16:55 +0000",
+      "author": "Kate Park",
+      "categories": [
+        "AI",
+        "TC",
+        "China",
+        "manus",
+        "Meta"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T15:16:42.401Z",
+      "created_at": "2026-04-27T15:16:42.401Z"
+    },
+    {
+      "id": 5691,
+      "source": "TechCrunch AI",
+      "title_en": "OpenAI could be making a phone with AI agents replacing apps",
+      "description_en": "The phone could go in mass production in 2028, an analyst says.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 13:08:59 +0000",
+      "author": "Ivan Mehta",
+      "categories": [
+        "AI",
+        "Hardware",
+        "MediaTek",
+        "OpenAI",
+        "Qualcomm",
+        "smartphone"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T15:16:42.401Z",
+      "created_at": "2026-04-27T15:16:42.401Z"
+    },
+    {
+      "id": 5692,
+      "source": "The Verge AI",
+      "title_en": "Canva apologizes after its AI tool replaces ‘Palestine’ in designs",
+      "description_en": "I suddenly feel so much better about every embarrassing typo I’ve ever made. | Original Illustration (left) by Agathe Singer\t\n\nOne of Canva's new AI features has been caught replacing the word \"Palestine\" in designs. The Magic Layers feature - which is designed to break flat images out into separate editable components - isn't supposed to make visible alterations to user designs, but it was found by X user @ros_ie9 to automatically switch the phrase \"cats for Palestine\" to \"cats for Ukraine.\"\nTh",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
+      "image_url": null,
+      "pub_date": "2026-04-27T14:29:23.000Z",
+      "author": "Jess Weatherbed",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T15:16:42.408Z",
+      "created_at": "2026-04-27T15:16:42.408Z"
+    },
+    {
+      "id": 5693,
+      "source": "The Decoder",
+      "title_en": "OpenAI and Microsoft rewrite their deal: no more exclusivity, no more AGI clause",
+      "description_en": "OpenAI is free to distribute its products through any cloud provider, Microsoft loses its exclusive license to OpenAI's technology, and the controversial AGI clause is gone.\nThe article OpenAI and Microsoft rewrite their deal: no more exclusivity, no more AGI clause appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-and-microsoft-rewrite-their-deal-no-more-exclusivity-no-more-agi-clause/",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 14:18:40 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Microsoft",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T15:16:43.636Z",
+      "created_at": "2026-04-27T15:16:43.636Z"
+    },
+    {
+      "id": 5694,
+      "source": "The Decoder",
+      "title_en": "Sam Altman outlines five principles that double as justification for OpenAI's business decisions",
+      "description_en": "OpenAI's CEO has laid out five guiding principles for the company's future work. They also serve as a rationale for some of OpenAI's more unconventional business moves.\nThe article Sam Altman outlines five principles that double as justification for OpenAI's business decisions appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/sam-altman-outlines-five-principles-that-double-as-justification-for-openais-business-decisions/",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 13:59:05 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T15:16:43.636Z",
+      "created_at": "2026-04-27T15:16:43.636Z"
+    },
+    {
+      "id": 5695,
+      "source": "The Decoder",
+      "title_en": "Meta wants to power AI data centers with solar energy from space",
+      "description_en": "Meta has signed a deal with startup Overview Energy for up to 1 gigawatt of space-based solar power. The only catch: the technology doesn't exist yet.\nThe article Meta wants to power AI data centers with solar energy from space appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/meta-wants-to-power-ai-data-centers-with-solar-energy-from-space/",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 12:57:10 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Energy",
+        "Meta"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T15:16:43.636Z",
+      "created_at": "2026-04-27T15:16:43.636Z"
+    },
+    {
+      "id": 5696,
+      "source": "MIT Technology Review",
+      "title_en": "Rebuilding the data stack for AI",
+      "description_en": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI at scale requires something far less glamorous but far more consequential: data…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 13:00:00 +0000",
+      "author": "MIT Technology Review Insights",
+      "categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T15:16:43.740Z",
+      "created_at": "2026-04-27T15:16:43.740Z"
+    },
+    {
+      "id": 5697,
+      "source": "Hugging Face Blog",
+      "title_en": "How to build scalable web apps with OpenAI's Privacy Filter",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T15:16:43.837Z",
+      "created_at": "2026-04-27T15:16:43.837Z"
+    },
+    {
+      "id": 5698,
+      "source": "New Atlas",
+      "title_en": "Stunning retro roadster is Morgan's fastest-ever creation",
+      "description_en": "In an astonishing mix of modern technology with traditional rural crafts, English specialist sports car company Morgan has just unveiled its fastest-ever model.\nContinue Reading\nCategory: Automotive, Transport\nTags: Morgan, Sports Cars, Retro, Roadster",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/automotive/morgan-supersport-400-roadster/",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 13:18:46 GMT",
+      "author": "Simon Heptinstall",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T15:16:44.432Z",
+      "created_at": "2026-04-27T15:16:44.432Z"
+    },
+    {
+      "id": 5699,
+      "source": "Interesting Engineering",
+      "title_en": "Scientists simulate quantum vacuum decay that could end the universe",
+      "description_en": "Physicists have successfully simulated false vacuum decay, a quantum process theorized to be capable of...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/scientists-simulate-quantum-vacuum-decay-that-could-end-the-universe",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 13:52:16 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T15:16:47.449Z",
+      "created_at": "2026-04-27T15:16:47.449Z"
+    },
+    {
+      "id": 5700,
+      "source": "Interesting Engineering",
+      "title_en": "25,000 ground robots in battlefield planned by Ukraine for frontline logistics",
+      "description_en": "In a move toward fully autonomous warfare, Ukraine’s Defense Ministry plans to procure 25,000 unmanned...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/ukraine-plans-25000-unmanned-ground-vehicles",
+      "image_url": "https://www.youtube.com/embed/WGsFHimcmjM",
+      "pub_date": "Mon, 27 Apr 2026 13:46:12 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T15:16:47.449Z",
+      "created_at": "2026-04-27T15:16:47.449Z"
+    },
+    {
+      "id": 5701,
+      "source": "Interesting Engineering",
+      "title_en": "World-first submarine drone travels 1,257 miles underwater on hydrogen power",
+      "description_en": "A Canadian company’s submarine drone has traveled more than 1,257 miles fully submerged, powered by...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/world-first-submarine-drone-travels-underwater",
+      "image_url": "https://www.youtube.com/embed/F-AnNyizrRM",
+      "pub_date": "Mon, 27 Apr 2026 13:40:07 +0000",
+      "author": "Georgina Jedikovska",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T15:16:47.449Z",
+      "created_at": "2026-04-27T15:16:47.449Z"
+    },
+    {
+      "id": 5702,
+      "source": "Interesting Engineering",
+      "title_en": "China launches first 1,000,000 cubic-meter hydrogen storage project using salt caverns",
+      "description_en": "China has brought a major hydrogen storage project online in central Henan Province. The one-million-cubic-meter-level...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/china-million-cubic-meter-salt-cavern-hydrogen",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 13:10:17 +0000",
+      "author": "Sujita Sinha",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T15:16:47.449Z",
+      "created_at": "2026-04-27T15:16:47.449Z"
+    },
+    {
+      "id": 5703,
+      "source": "Futurism",
+      "title_en": "Sam Altman Issues Grim Apology",
+      "description_en": "\"I am deeply sorry that we did not alert law enforcement to the account that was banned in June.\"\nThe post Sam Altman Issues Grim Apology appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/sam-altman-shooting-apology",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/sam-altman-shooting-apology.jpg?quality=85",
+      "pub_date": "Mon, 27 Apr 2026 10:43:51 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://futurism.com/category/openai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T15:16:49.341Z",
+      "created_at": "2026-04-27T15:16:49.341Z"
+    },
+    {
+      "id": 5704,
+      "source": "Tom's Hardware",
+      "title_en": "New AI data center in Utah will generate and consume more than twice the amount of power the entire state uses — Kevin O'Leary's 9 Gigawatt Utah data center campus approved",
+      "description_en": "Utah's Military Installation Development Authority on Friday approved a development agreement for a hyperscale data center campus in Box Elder County.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/kevin-o-learys-9-gw-utah-data-center-campus-approved",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/RSehTW2oDYtFQurj9iJ5cS-1280-80.jpg",
+      "pub_date": "Mon, 27 Apr 2026 14:58:17 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T15:16:49.479Z",
+      "created_at": "2026-04-27T15:16:49.479Z"
+    },
+    {
+      "id": 5705,
+      "source": "CNBC Tech",
+      "title_en": "Prediction markets prepare to invade one of crypto’s biggest and riskiest trades",
+      "description_en": "There’s a landgrab underway in the U.S. for perpetual futures, one of the biggest and riskiest parts of crypto — and prediction markets want a piece of it.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/27/prediction-markets-prepare-to-invade-one-of-cryptos-biggest-and-riskiest-trades.html",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 15:07:27 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T15:16:49.510Z",
+      "created_at": "2026-04-27T15:16:49.510Z"
+    },
+    {
+      "id": 5706,
+      "source": "CNBC Tech",
+      "title_en": "Amazon’s bet on satellites is expensive and faces fierce competition. It also just might work",
+      "description_en": "Leo has the potential to \"be a huge business out of nowhere,\" Jim Cramer said.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/27/amazon-spacex-satellites-jim-cramer-investing-club.html",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 14:51:32 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T15:16:49.510Z",
+      "created_at": "2026-04-27T15:16:49.510Z"
+    },
+    {
+      "id": 5707,
+      "source": "CNBC Tech",
+      "title_en": "Spotify teams up with Peloton to launch global fitness content hub",
+      "description_en": "Spotify teams with Peloton to launch fitness content, potentially opening new revenue streams while expanding Peloton’s global reach.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/27/spotify-peloton-fitness-content-hub.html",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 13:04:36 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T15:16:49.510Z",
+      "created_at": "2026-04-27T15:16:49.510Z"
+    },
+    {
+      "id": 5708,
+      "source": "CNBC Tech",
+      "title_en": "OpenAI shakes up partnership with Microsoft, capping revenue share payments",
+      "description_en": "Things have changed since Microsoft and OpenAI announced a broad agreement following OpenAI's restructuring in October.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/27/openai-microsoft-partnership-revenue-cap.html",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 14:12:15 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T15:16:49.510Z",
+      "created_at": "2026-04-27T15:16:49.510Z"
     }
   ]
 }

@@ -116279,7 +116279,7 @@
         "Meta"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T15:16:42.401Z",
       "created_at": "2026-04-27T15:16:42.401Z"
     },
@@ -116320,7 +116320,7 @@
       "author": "Jess Weatherbed",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T15:16:42.408Z",
       "created_at": "2026-04-27T15:16:42.408Z"
     },
@@ -116342,7 +116342,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T15:16:43.636Z",
       "created_at": "2026-04-27T15:16:43.636Z"
     },
@@ -116363,7 +116363,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T15:16:43.636Z",
       "created_at": "2026-04-27T15:16:43.636Z"
     },
@@ -116439,7 +116439,7 @@
       "author": "Simon Heptinstall",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T15:16:44.432Z",
       "created_at": "2026-04-27T15:16:44.432Z"
     },
@@ -116456,7 +116456,7 @@
       "author": "Munis Raza",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T15:16:47.449Z",
       "created_at": "2026-04-27T15:16:47.449Z"
     },
@@ -116473,7 +116473,7 @@
       "author": "Mrigakshi Dixit",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T15:16:47.449Z",
       "created_at": "2026-04-27T15:16:47.449Z"
     },
@@ -116490,7 +116490,7 @@
       "author": "Georgina Jedikovska",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T15:16:47.449Z",
       "created_at": "2026-04-27T15:16:47.449Z"
     },
@@ -116543,7 +116543,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T15:16:49.341Z",
       "created_at": "2026-04-27T15:16:49.341Z"
     },
@@ -116596,7 +116596,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T15:16:49.510Z",
       "created_at": "2026-04-27T15:16:49.510Z"
     },
@@ -116630,9 +116630,559 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T15:16:49.510Z",
       "created_at": "2026-04-27T15:16:49.510Z"
+    },
+    {
+      "id": 5709,
+      "source": "The Verge AI",
+      "title_en": "Microsoft and OpenAI’s famed AGI agreement is dead",
+      "description_en": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has officially been dropped.\nOn Monday morning, Microsoft announced a handful of big changes to its long-standing OpenAI deal. Microsoft will remain OpenAI's \"primary cloud partner, and OpenAI products will ship first on Azure, unless Microsoft cannot and chooses not to support the necessary capabilities.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
+      "image_url": null,
+      "pub_date": "2026-04-27T16:15:47.000Z",
+      "author": "Hayden Field",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T16:58:09.767Z",
+      "created_at": "2026-04-27T16:58:09.767Z"
+    },
+    {
+      "id": 5710,
+      "source": "The Verge AI",
+      "title_en": "Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "description_en": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes forward his 2024 lawsuit that accuses OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead.\nMusk was a cofounder of OpenAI and claims that Altman and cofounder Greg Brockman tricked him into giving the company money, only to t",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "image_url": null,
+      "pub_date": "2026-04-27T15:50:29.000Z",
+      "author": "Elizabeth Lopatto",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T16:58:09.767Z",
+      "created_at": "2026-04-27T16:58:09.767Z"
+    },
+    {
+      "id": 5711,
+      "source": "TechCrunch AI",
+      "title_en": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
+      "description_en": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 16:13:02 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "AI",
+        "Apps",
+        "Startups",
+        "ai apps",
+        "signull labs",
+        "Skye"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T16:58:09.786Z",
+      "created_at": "2026-04-27T16:58:09.786Z"
+    },
+    {
+      "id": 5712,
+      "source": "Ars Technica",
+      "title_en": "National Science Board eviscerated; Trump admin fires all 22 members",
+      "description_en": "Members had planned to release report that US is ceding scientific ground to China.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/science/2026/04/national-science-board-eviscerated-trump-admin-fires-all-22-members/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2221489911-1152x648-1753287237.jpg",
+      "pub_date": "Mon, 27 Apr 2026 15:04:00 +0000",
+      "author": "\n                    Beth Mole\n                ",
+      "categories": [
+        "Health",
+        "Science",
+        "National Science Board",
+        "National Science Foundation",
+        "NSF",
+        "science",
+        "Trump"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T16:58:09.850Z",
+      "created_at": "2026-04-27T16:58:09.850Z"
+    },
+    {
+      "id": 5713,
+      "source": "Ars Technica",
+      "title_en": "Next El Niño could be tipping point for a hotter climate",
+      "description_en": "Pacific heat pulse is temporary, but scientists warn that its climate impacts are not.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/science/2026/04/next-el-nino-could-be-tipping-point-for-a-hotter-climate/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/amazondust-1152x648.jpg",
+      "pub_date": "Mon, 27 Apr 2026 14:12:41 +0000",
+      "author": "\n                    Inside Climate News\n                ",
+      "categories": [
+        "Science",
+        "anthropogenic climate change",
+        "climate change",
+        "El Niño",
+        "syndication"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T16:58:09.850Z",
+      "created_at": "2026-04-27T16:58:09.850Z"
+    },
+    {
+      "id": 5714,
+      "source": "Ars Technica",
+      "title_en": "Gateway manufacturer finally acknowledges issue, fails to mention \"corrosion\"",
+      "description_en": "\"At this time, further comments would be premature.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/space/2026/04/gateway-manufacturer-finally-acknowledges-issue-fails-to-mention-corrosion/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/halo-module-1152x648.jpg",
+      "pub_date": "Mon, 27 Apr 2026 14:02:43 +0000",
+      "author": "\n                    Eric Berger\n                ",
+      "categories": [
+        "Space",
+        "lunar gateway",
+        "NASA",
+        "space"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T16:58:09.850Z",
+      "created_at": "2026-04-27T16:58:09.850Z"
+    },
+    {
+      "id": 5715,
+      "source": "MIT Technology Review",
+      "title_en": "The missing step between hype and profit",
+      "description_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. But…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 16:13:41 +0000",
+      "author": "Will Douglas Heaven",
+      "categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "The Algorithm"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T16:58:10.893Z",
+      "created_at": "2026-04-27T16:58:10.893Z"
+    },
+    {
+      "id": 5716,
+      "source": "The Register",
+      "title_en": "AI reality check: Here's what three companies learned building wallets, homes, and games",
+      "description_en": "Executives from Citi, Home Depot, and Capcom describe early work with AI agents While AI agents have moved from experimental tools to customer-facing workers in a matter of months, the next challenge is governance and reliability once those agents touch real money, real shoppers, and real creative output.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/ai_use_cases_citi_home_depot_capcom_google_cloud_next/",
+      "image_url": null,
+      "pub_date": "2026-04-27T16:20:09.000Z",
+      "author": "O'Ryan Johnson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T16:58:11.464Z",
+      "created_at": "2026-04-27T16:58:11.464Z"
+    },
+    {
+      "id": 5717,
+      "source": "The Register",
+      "title_en": "Meta to power its bit barns with energy from space",
+      "description_en": "Facebook provider also working with energy storage firm to keep 100 hours of juice on hand With AI demand growing, Facebook parent Meta is looking for new ways to power its datacenters, with one ambitious project pledging to send solar power down from orbit. Another agreement offers Meta the opportunity to store enough power to keep its bit barns going, even when the grid is over capacity or down.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/meta_wants_to_beam_solar/",
+      "image_url": null,
+      "pub_date": "2026-04-27T15:47:41.000Z",
+      "author": "Dan Robinson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T16:58:11.464Z",
+      "created_at": "2026-04-27T16:58:11.464Z"
+    },
+    {
+      "id": 5718,
+      "source": "The Register",
+      "title_en": "Microsoft and OpenAI's open relationship is now official",
+      "description_en": "No. More. Exclusivity. Redmond keeps the ring until 2032, but OpenAI is free to see other clouds Once tied tightly together, Microsoft and OpenAI have amended their agreement, making the Windows giant's license non-exclusive. In exchange, Microsoft will no longer owe OpenAI a revenue share.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/microsofts_and_openai_change_relationship/",
+      "image_url": null,
+      "pub_date": "2026-04-27T15:14:54.000Z",
+      "author": "Richard Speed",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T16:58:11.464Z",
+      "created_at": "2026-04-27T16:58:11.464Z"
+    },
+    {
+      "id": 5719,
+      "source": "New Atlas",
+      "title_en": "The aérOnde flying doughnut could be Homer Simpson’s dream",
+      "description_en": "If you’re a longtime viewer of The Simpsons, then you know at least two things about Homer: he loves doughnuts, and he’s an absolutely terrible designer of vehicles. But that doesn’t mean no one should ever combine vehicle design with doughnuts, as French company aérOnde has shown us with its aérOnde (“Air-Round”) airship that looks like a giant, flying doughnut covered in white icing.\nContinue Reading\nCategory: Aircraft, Transport\nTags: eVTOL, Balloon, Airships",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/aircraft/aeronde-flying-doughnut-airship/",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 16:30:00 GMT",
+      "author": "Malcolm Azania",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T16:58:11.473Z",
+      "created_at": "2026-04-27T16:58:11.473Z"
+    },
+    {
+      "id": 5720,
+      "source": "The Guardian AI",
+      "title_en": "If it’s only AI that’s keeping you up at night, maybe you’re doing OK | Letters",
+      "description_en": "Poverty is far more pressing for many people, writes Lynsey Hanley. Plus letters from Martin Pitt and Michael Bulley\nReading Alexander Hurst’s column on the frictionless experience of life promised – or threatened – by AI algorithms, I was struck by how little I recognised the picture he painted of daily experience being stripped of the friction necessary to furnish it with meaning (To be human is to live with friction. That’s something AI boosters will never understand, 23 April). Rather, isn’t",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/apr/27/if-its-only-ai-thats-keeping-you-up-at-night-maybe-youre-doing-ok",
+      "image_url": "https://i.guim.co.uk/img/media/cfb105bd08288e8e0bcd6c886b7191ed904975bb/0_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=0a1d8efb0290799611b5055314282b2a",
+      "pub_date": "Mon, 27 Apr 2026 15:30:40 GMT",
+      "author": "Guardian Staff",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Homelessness",
+          "$": {
+            "domain": "https://www.theguardian.com/society/homelessness"
+          }
+        },
+        {
+          "_": "Poverty",
+          "$": {
+            "domain": "https://www.theguardian.com/society/poverty"
+          }
+        },
+        {
+          "_": "Social exclusion",
+          "$": {
+            "domain": "https://www.theguardian.com/society/socialexclusion"
+          }
+        },
+        {
+          "_": "Housing",
+          "$": {
+            "domain": "https://www.theguardian.com/society/housing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T16:58:11.808Z",
+      "created_at": "2026-04-27T16:58:11.808Z"
+    },
+    {
+      "id": 5721,
+      "source": "The Guardian AI",
+      "title_en": "Taylor Swift files trademarks for voice and image amid concern over AI misuse",
+      "description_en": "The singer’s company filed three applications on Friday after Matthew McConaughey launched similar strategy\nTaylor Swift has filed applications to trademark her voice and image in a move seemingly designed to protect against AI misuse.\nOn 24 April, Swift’s company TAS Rights Management filed three trademark applications, Variety reports. Two of these are sound trademarks which cover Swift saying the phrases “Hey, it’s Taylor Swift” and “Hey, it’s Taylor.”\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/music/2026/apr/27/taylor-swift-trademarks-voice-image-ai",
+      "image_url": "https://i.guim.co.uk/img/media/a10e8fb0eeca2e874ffd326bf8286821fcc31215/262_0_2656_2126/master/2656.jpg?width=140&quality=85&auto=format&fit=max&s=65172597f3d0f4797aa485176a10affc",
+      "pub_date": "Mon, 27 Apr 2026 16:18:53 GMT",
+      "author": "Owen Myers",
+      "categories": [
+        {
+          "_": "Taylor Swift",
+          "$": {
+            "domain": "https://www.theguardian.com/music/taylor-swift"
+          }
+        },
+        {
+          "_": "Music",
+          "$": {
+            "domain": "https://www.theguardian.com/music/music"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T16:58:11.808Z",
+      "created_at": "2026-04-27T16:58:11.808Z"
+    },
+    {
+      "id": 5722,
+      "source": "The Guardian AI",
+      "title_en": "How AI job scams are destroying people’s hopes | Letters",
+      "description_en": "Sasha Cooklin, Darryl Dixon and Niall Leonard respond to an article by Victoria Turk about the boom in AI-driven fraud in recruitment\nArtificial intelligence isn’t just being used by scammers to promise fake roles and trick job-seekers, it is becoming increasingly prevalent in responses and screening processes for real jobs (AI job scams are booming – and I was fooled by one. Here is how to avoid them, 21 April). Not only are good people losing out on jobs, but companies are losing out on better",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/money/2026/apr/27/how-ai-job-scams-are-destroying-peoples-hopes",
+      "image_url": "https://i.guim.co.uk/img/media/aef842585554bb060b6e3477afb57ad6c01419e1/150_0_3328_2663/master/3328.jpg?width=140&quality=85&auto=format&fit=max&s=03bb778a6b024882458ce99238c3ee2a",
+      "pub_date": "Mon, 27 Apr 2026 15:32:42 GMT",
+      "author": "Guardian Staff",
+      "categories": [
+        {
+          "_": "Job hunting",
+          "$": {
+            "domain": "https://www.theguardian.com/money/job-hunting"
+          }
+        },
+        {
+          "_": "Scams",
+          "$": {
+            "domain": "https://www.theguardian.com/money/scamsandfraud"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Money",
+          "$": {
+            "domain": "https://www.theguardian.com/money/money"
+          }
+        },
+        {
+          "_": "Immigration and asylum",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/immigration"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Work & careers",
+          "$": {
+            "domain": "https://www.theguardian.com/money/work-and-careers"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T16:58:11.808Z",
+      "created_at": "2026-04-27T16:58:11.808Z"
+    },
+    {
+      "id": 5723,
+      "source": "Tom's Hardware",
+      "title_en": "Microsoft and OpenAI end exclusivity agreement, opening up potential partnerships with Amazon and Google — Microsoft will continue to receive revenue share through 2030",
+      "description_en": "Microsoft and OpenAI are ending their long-standing exclusivity agreement, allowing OpenAI to leverage cloud providers like Amazon and Google.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/microsoft-and-openai-end-exclusivity-agreement-opening-up-potential-partnerships-with-amazon-and-google-microsoft-will-continue-to-receive-revenue-share-through-2030",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/hn5RWTK7n5cduCvNuBGMd6-1280-80.jpg",
+      "pub_date": "Mon, 27 Apr 2026 16:13:56 +0000",
+      "author": " Jake Roach ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T16:58:15.089Z",
+      "created_at": "2026-04-27T16:58:15.089Z"
+    },
+    {
+      "id": 5724,
+      "source": "Tom's Hardware",
+      "title_en": "Complex that supplies 70% of global critical PCB base targeted in Iranian strike — attack could fracture the already disrupted electronics supply chain",
+      "description_en": "War-related disruptions in the Middle East are hitting global electronics supply chains, triggering shortages in critical PCB and chipmaking materials that could drive up prices of gadgets",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/complex-that-supplies-70-percent-of-global-critical-pcb-base-targeted-in-iranian-strike-attack-could-fracture-the-already-disrupted-electronics-supply-chain",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/3JTt8RPcbk6em5GveahXac-1280-80.jpg",
+      "pub_date": "Mon, 27 Apr 2026 15:47:06 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T16:58:15.089Z",
+      "created_at": "2026-04-27T16:58:15.089Z"
+    },
+    {
+      "id": 5725,
+      "source": "Tom's Hardware",
+      "title_en": "Claude-powered AI coding agent deletes entire company database in 9 seconds — backups zapped, after Cursor tool powered by Anthropic's Claude goes rogue",
+      "description_en": "After the company database was wiped in just 9 seconds, the founder of PocketOS penned a social media post to warn others about the 'systemic failures' of flagship AI and digital services providers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/KftF4KS8QDVA2Fck9iibDN-1280-80.jpg",
+      "pub_date": "Mon, 27 Apr 2026 15:20:36 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T16:58:15.089Z",
+      "created_at": "2026-04-27T16:58:15.089Z"
+    },
+    {
+      "id": 5726,
+      "source": "CNBC Tech",
+      "title_en": "Jury selection kicks off in Musk v. Altman trial",
+      "description_en": "The Musk v. Altman trial kicked off at a federal courthouse in Oakland, California, with jury selection followed by opening arguments.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/27/musk-altman-trial-openai-jury-selection.html",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 16:54:34 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T16:58:15.245Z",
+      "created_at": "2026-04-27T16:58:15.245Z"
+    },
+    {
+      "id": 5727,
+      "source": "CNBC Tech",
+      "title_en": "Former Google DeepMind researcher's AI startup raises record $1.1 billion seed funding to pursue superintelligence",
+      "description_en": "Ineffable Intelligence has emerged from stealth with a $5.1 billion valuation.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 15:29:55 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T16:58:15.245Z",
+      "created_at": "2026-04-27T16:58:15.245Z"
+    },
+    {
+      "id": 5728,
+      "source": "Futurism",
+      "title_en": "Video Shows NASA Astronaut Struggling to Walk After Journey Around the Moon",
+      "description_en": "\"Guess I’ll be waiting a minute to surf again.\"\nThe post Video Shows NASA Astronaut Struggling to Walk After Journey Around the Moon appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/space/video-nasa-astronaut-struggling-walk-moon",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/video-nasa-astronaut-struggling-walk-moon.jpg?quality=85",
+      "pub_date": "Mon, 27 Apr 2026 12:41:11 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Space",
+          "$": {
+            "domain": "https://futurism.com/category/space"
+          }
+        },
+        {
+          "_": "Astronomy",
+          "$": {
+            "domain": "https://futurism.com/category/astronomy"
+          }
+        },
+        {
+          "_": "International Space Station",
+          "$": {
+            "domain": "https://futurism.com/category/international-space-station"
+          }
+        },
+        {
+          "_": "Moon",
+          "$": {
+            "domain": "https://futurism.com/category/moon"
+          }
+        },
+        {
+          "_": "NASA",
+          "$": {
+            "domain": "https://futurism.com/category/nasa"
+          }
+        },
+        {
+          "_": "Off-World",
+          "$": {
+            "domain": "https://futurism.com/category/off-world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T16:58:16.536Z",
+      "created_at": "2026-04-27T16:58:16.536Z"
     }
   ]
 }
