@@ -114843,7 +114843,7 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T07:27:13.005Z",
       "created_at": "2026-04-27T07:27:13.005Z"
     },
@@ -115030,7 +115030,7 @@
       "author": "Prabhat Ranjan Mishra",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T07:27:14.317Z",
       "created_at": "2026-04-27T07:27:14.317Z"
     },
@@ -115047,7 +115047,7 @@
       "author": "Prabhat Ranjan Mishra",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T07:27:14.317Z",
       "created_at": "2026-04-27T07:27:14.317Z"
     },
@@ -115315,7 +115315,7 @@
       "author": "Srimallya",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T07:27:14.981Z",
       "created_at": "2026-04-27T07:27:14.981Z"
     },
@@ -115335,6 +115335,294 @@
       "priority": "batch",
       "fetchedAt": "2026-04-27T07:27:14.981Z",
       "created_at": "2026-04-27T07:27:14.981Z"
+    },
+    {
+      "id": 5653,
+      "source": "MarkTechPost",
+      "title_en": "Meta AI Releases Sapiens2: A High-Resolution Human-Centric Vision Model for Pose, Segmentation, Normals, Pointmap, and Albedo",
+      "description_en": "Meta Reality Labs releases a new foundation model family for human-centric vision that pushes pose estimation, segmentation, and 3D geometry to new state-of-the-art levels — all from a single backbone.\nThe post Meta AI Releases Sapiens2: A High-Resolution Human-Centric Vision Model for Pose, Segmentation, Normals, Pointmap, and Albedo appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/27/meta-ai-releases-sapiens2-a-high-resolution-human-centric-vision-model-for-pose-segmentation-normals-pointmap-and-albedo/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-27-at-1.43.16-AM.png",
+      "pub_date": "Mon, 27 Apr 2026 08:47:20 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Uncategorized",
+        "Vision Language Model"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T09:38:29.081Z",
+      "created_at": "2026-04-27T09:38:29.081Z"
+    },
+    {
+      "id": 5654,
+      "source": "New Atlas",
+      "title_en": "Oppo tempts photo pros with dual 200-MP cams and 10x optical telephoto",
+      "description_en": "Oppo’s Find X9 Ultra takes smartphone photography to the next level with a 10x optical zoom telephoto and dual 200MP cameras built around a Hasselblad-tuned system, plus an externally mounted teleconverter lens option to reach even farther.\nContinue Reading\nCategory: Mobile Technology, Consumer Tech, Technology\nTags: Oppo, Hasselblad, Photography, Lens, smartphones",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/mobile-technology/oppo-find-x9-ultra/",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 09:28:21 GMT",
+      "author": "Monica J. White",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T09:38:29.671Z",
+      "created_at": "2026-04-27T09:38:29.671Z"
+    },
+    {
+      "id": 5655,
+      "source": "The Register",
+      "title_en": "Watch out UK taxpayers: 28,000 HMRC staffers just got an AI copilot",
+      "description_en": "Microsoft Copilot now heading into ‘Official Sensitive’ work after winning back just 26 minutes a day in a trial HMRC is betting big on Microsoft Copilot, rolling it out to tens of thousands of staff after a Whitehall trial estimated it saved each user roughly 26 minutes of time per day.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/hmrc_hands_28000_staff_ai/",
+      "image_url": null,
+      "pub_date": "2026-04-27T09:15:14.000Z",
+      "author": "Carly Page",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T09:38:29.728Z",
+      "created_at": "2026-04-27T09:38:29.728Z"
+    },
+    {
+      "id": 5656,
+      "source": "The Register",
+      "title_en": "Anthropic's magic code-sniffer: More Swiss cheese than cheddar, for now",
+      "description_en": "AI vuln-hunter finds what humans taught it to find. Funny that Opinion  In retrospect, calling it Mythos made it a hostage to fortune. Anthropic may have hoped that the name implied its AI code security model had mythical god-like powers, but there's an alternate reading. Another definition for Mythos is a set of beliefs of obscure origin which are incompatible with reality.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/anthropics_magic_codesniffer_more_swiss/",
+      "image_url": null,
+      "pub_date": "2026-04-27T08:30:15.000Z",
+      "author": "Rupert Goodwins",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T09:38:29.728Z",
+      "created_at": "2026-04-27T09:38:29.728Z"
+    },
+    {
+      "id": 5657,
+      "source": "The Register",
+      "title_en": "It's time to make agentic automation scalable",
+      "description_en": "Enough experimentation, already. WorkHQ promises real-world agentic benefits Sponsored Post  IT landscapes are a little like archaeological digs. There are layers of automation that can't communicate, blocking any serious multi-agent workflow. Fragmented systems prevent automation, systems, people, and AI agents from communicating effectively. Most organizations struggle with disconnected automation efforts as AI agents enter the enterprise.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/its_time_make_agentic/",
+      "image_url": null,
+      "pub_date": "2026-04-27T08:00:09.000Z",
+      "author": "David Gordon",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T09:38:29.728Z",
+      "created_at": "2026-04-27T09:38:29.728Z"
+    },
+    {
+      "id": 5658,
+      "source": "The Guardian AI",
+      "title_en": "Oil at three-week high as US-Iran peace talks stall; China blocks Meta’s takeover of AI agent Manus – business live",
+      "description_en": "Rolling coverage of the latest economic and financial news\nShares in athletic apparel and footwear company Adidas have jumped by almost 1.75% in early trading after three of its athletes shone at the London Marathon yesterday.\nSabastian Sawe and Yomif Kejelcha both smashed the two-hour barrier in the men’s marathon race, and Tigist Assefa set a women-only world record in the women’s race.\nThe adidas family is incredibly proud of Sabastian and Tigist’s historic achievements, marking the fastest t",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/live/2026/apr/27/oil-prices-high-us-iran-peace-talks-stock-markets-house-prices-latest-news-updates",
+      "image_url": "https://i.guim.co.uk/img/media/2886c96d6f1951ee616dedee7523558bcf46ce23/759_0_4148_3319/master/4148.jpg?width=140&quality=85&auto=format&fit=max&s=7b059df13b181e56d47662fcc93659dd",
+      "pub_date": "Mon, 27 Apr 2026 09:23:02 GMT",
+      "author": "Graeme Wearden",
+      "categories": [
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Economics",
+          "$": {
+            "domain": "https://www.theguardian.com/business/economics"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "FTSE",
+          "$": {
+            "domain": "https://www.theguardian.com/business/ftse"
+          }
+        },
+        {
+          "_": "Oil",
+          "$": {
+            "domain": "https://www.theguardian.com/business/oil"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T09:38:29.994Z",
+      "created_at": "2026-04-27T09:38:29.994Z"
+    },
+    {
+      "id": 5659,
+      "source": "The Guardian AI",
+      "title_en": "Elon Musk and Sam Altman face off in court over OpenAI’s founding mission",
+      "description_en": "Musk’s lawsuit accuses Altman of fraud, while OpenAI says that Musk is ‘motivated by jealousy’\nA lawsuit between two of Silicon Valley’s biggest tycoons goes to trial Monday in California, the culmination of a years-long bitter feud. Elon Musk has accused Sam Altman of betraying the founding agreement of the non-profit they started together, OpenAI, by changing it to a for-profit enterprise.\nMusk accuses Altman, OpenAI, its president Greg Brockman, and its major partner Microsoft of breach of co",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/apr/27/elon-musk-sam-altman-open-ai-lawsuit",
+      "image_url": "https://i.guim.co.uk/img/media/6ee77d2ef9db98d209fdf117968db3920520007b/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=b80f4c5143b6eb5c16fa6928e148d379",
+      "pub_date": "Mon, 27 Apr 2026 08:00:38 GMT",
+      "author": "Blake Montgomery, Dara Kerr and Nick Robins-Early",
+      "categories": [
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "Sam Altman",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/sam-altman"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T09:38:29.994Z",
+      "created_at": "2026-04-27T09:38:29.994Z"
+    },
+    {
+      "id": 5660,
+      "source": "Interesting Engineering",
+      "title_en": "World’s largest: Japan plans 1 GW floating offshore wind farm to power Tokyo",
+      "description_en": "The Tokyo Metropolitan Government has announced an ambitious plan to build the world’s largest floating...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/japan-world-largest-floating-wind-farm",
+      "image_url": "https://www.youtube.com/embed/3eHz6IdlNrM",
+      "pub_date": "Mon, 27 Apr 2026 09:32:36 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T09:38:34.466Z",
+      "created_at": "2026-04-27T09:38:34.466Z"
+    },
+    {
+      "id": 5661,
+      "source": "Interesting Engineering",
+      "title_en": "US Navy plans hypersonic Blackbeard weapon tests on Super Hornet jets by 2027",
+      "description_en": "A California startup has secured a major U.S. Navy contract to advance a hypersonic weapon...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-navy-blackbeard-hypersonic-super-hornet",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 09:19:17 +0000",
+      "author": "Sujita Sinha",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T09:38:34.466Z",
+      "created_at": "2026-04-27T09:38:34.466Z"
+    },
+    {
+      "id": 5662,
+      "source": "Interesting Engineering",
+      "title_en": "Soviet jet dropping 11-kiloton nuclear bomb captured in rare Cold War-era video",
+      "description_en": "Recently, footage has circulated on social media that appears to document one of the most...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/soviet-su-7-live-nuclear-bomb-drop-1962",
+      "image_url": "https://www.youtube.com/embed/OGYt-G5u2-c",
+      "pub_date": "Mon, 27 Apr 2026 09:07:26 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T09:38:34.466Z",
+      "created_at": "2026-04-27T09:38:34.466Z"
+    },
+    {
+      "id": 5663,
+      "source": "Nature Machine Intelligence",
+      "title_en": "A domain-adapted large language model to support clinicians in psychiatric clinical practice",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.nature.com/articles/s42256-026-01224-w",
+      "image_url": null,
+      "pub_date": "2026-04-27T00:00:00.000Z",
+      "author": "Ruoxi Wang",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T09:38:34.622Z",
+      "created_at": "2026-04-27T09:38:34.622Z"
+    },
+    {
+      "id": 5664,
+      "source": "CNBC Tech",
+      "title_en": "China blocks Meta's acquisition of AI startup Manus",
+      "description_en": "China said Monday it has decided to block Meta's $2 billion acquisition of Manus, a Singaporean AI startup with Chinese roots.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 09:21:34 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T09:38:34.954Z",
+      "created_at": "2026-04-27T09:38:34.954Z"
     }
   ]
 }
