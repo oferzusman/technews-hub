@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Prediction markets prepare to invade one of crypto’s biggest and riskiest trades\n\nThere’s a landgrab underway in the U.S. for perpetual futures, one of the biggest and riskiest parts of crypto — and prediction markets want a piece of it.",
+    "t": "שווקי ניבוי מתכננים להיכנס לאחד מהסחר הסכום והמסוכן ביותר בקריפטו\n\nיש כרגע תחרות אינטנסיבית בארה\"ב על perpetual futures - אחד החלקים הגדולים והמסוכנים ביותר בעולם הקריפטו - ושווקי ניבוי רוצים להשתתף בחלק מהעוגה הזו. זה כמו להשקיע בהימור על המחירים בעתיד, אבל עם סכומים ענקיים ורמת סיכון שיכולה להכאיב. (מקור: CNBC Tech)",
     "d": "Mon, 27 Apr 2026 15:07:27 GMT",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "New AI data center in Utah will generate and consume more than twice the amount of power the entire state uses — Kevin O'Leary's 9 Gigawatt Utah data center campus approved\n\nUtah's Military Installation Development Authority on Friday approved a development agreement for a hyperscale data center campus in Box Elder County.",
+    "t": "מרכז נתונים AI ענק ביוטה: קמפוס של 9 ג'יגוואט שיצרוך יותר חשמל מכל המדינה\n\nהאישור ניתן ליוטה Military Installation Development Authority לקמפוס מרכזי נתונים ענקי בחסות קווין או'ליירי בקטגוריית Box Elder. המתקן המשוער יצרוך יותר מפעמיים את כמות החשמל שכל מדינת יוטה משתמשת בה, מה שהופך אותו לפרויקט AI בעל משמעות גלובלית.\n\nמקור: Tom's Hardware",
     "d": "Mon, 27 Apr 2026 14:58:17 +0000",
     "v": 0,
     "l": [
@@ -47,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Amazon’s bet on satellites is expensive and faces fierce competition. It also just might work\n\nLeo has the potential to \"be a huge business out of nowhere,\" Jim Cramer said.",
+    "t": "ההימור של אמזון על לווינים יקר וממתיק תחרות - אבל זה בדיוק עלול לעבוד\n\nאמזון משקיעה כסף ענק בפרויקט Kuiper שלה כדי להקים רשת לווינים עצמאית, ומנקדי השוק חושבים שלזה בכלל יש סיכוי. ג'ים קריימר טוען שלפי כל ההיגיון זה לא היה צריך להצליח, אבל למשהו כמו זה יכול להיות פוטנציאל עסקי ענקי. בעולם בו Starlink כבר שולט, אמזון עדיין חושבת שיש מקום להצלחה גדולה.",
     "d": "Mon, 27 Apr 2026 14:51:32 GMT",
     "v": 0,
     "l": [
@@ -60,12 +60,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -73,7 +70,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Sam Altman Issues Grim Apology\n\n\"I am deeply sorry that we did not alert law enforcement to the account that was banned in June.\"\nThe post Sam Altman Issues Grim Apology appeared first on Futurism.",
+    "t": "סם אלטמן מודיע התנצלות קשה\n\nסם אלטמן התנצל בחריפות על כך שOpenAI לא הזהירה את השלטונות על חשבון שנחסם ביוני. במהלך הפרשה זו הומחה החשש מאחריות וציות של חברת הAI הגדולה בעולם - וברור שזה עולה גם על הקהל הישראלי שרוצה לדעת מה בדיוק קורה בחדרי ההנהלה של ChatGPT.",
     "d": "Mon, 27 Apr 2026 10:43:51 -0400",
     "v": 0,
     "l": [
@@ -86,10 +83,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
       "news",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/sam-altman-shooting-apology.jpg?quality=85",
@@ -97,7 +96,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Canva apologizes after its AI tool replaces ‘Palestine’ in designs\n\nI suddenly feel so much better about every embarrassing typo I’ve ever made. | Original Illustration (left) by Agathe Singer\t\n\nOne of Canva's new AI features has been caught replacing the word \"Palestine\" in designs. The Magic Layers feature - which is designed to break flat images out into separate editable components - isn't supposed to make visible alterations to user designs, but it was found by X user @ros_ie9 to automatically switch the phrase \"cats for Palestine\" to \"cats for Ukraine.\"\nTh",
+    "t": "קנווה התנצלה אחרי שכלי ה-AI שלה החליף את המילה 'פלסטין' בעיצובים\n\nתכונת Magic Layers החדשה של קנווה נתפסה בזמן שהיא מחליפה באופן אוטומטי את הטקסט בעיצובי משתמשים - מישהו גילה שהביטוי 'cats for Palestine' הופך ל-'cats for Ukraine'. הוא לא אמור להוסיף שום שינויים גלויים לעיצובים, אבל נראה שיש לו בעיה קטנה עם זה. קנווה כבר התנצלה על התקלה המביכה הזו.",
     "d": "2026-04-27T14:29:23.000Z",
     "v": 0,
     "l": [
@@ -120,7 +119,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "OpenAI and Microsoft rewrite their deal: no more exclusivity, no more AGI clause\n\nOpenAI is free to distribute its products through any cloud provider, Microsoft loses its exclusive license to OpenAI's technology, and the controversial AGI clause is gone.\nThe article OpenAI and Microsoft rewrite their deal: no more exclusivity, no more AGI clause appeared first on The Decoder.",
+    "t": "OpenAI ומיקרוסופט כתבו מחדש את הסכם: אין יותר בלעדיות, אין יותר סעיף AGI\n\nאחרי שנים של שיתוף פעולה בלעדי, OpenAI ומיקרוסופט פירקו את האחיזה של העיתאות בהסכמם החדש - OpenAI יכולה להפיץ את המוצרים שלה דרך כל ספק ענן שתבחר, מיקרוסופט מאבדת את הרישיון בלעדי לטכנולוגיית OpenAI, וגם הסעיף המעוררת השערות על AGI נעלם. זה משמעותי: OpenAI קיבלה חופש תנועה בעולם הענן, ומיקרוסופט מתאיכת לעצמה אחרת כדי להישמר בתחרות.",
     "d": "Mon, 27 Apr 2026 14:18:40 +0000",
     "v": 0,
     "l": [
@@ -134,13 +133,11 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Microsoft"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "model",
-      "product"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -148,7 +145,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "OpenAI shakes up partnership with Microsoft, capping revenue share payments\n\nThings have changed since Microsoft and OpenAI announced a broad agreement following OpenAI's restructuring in October.",
+    "t": "OpenAI משנה את הכללים: הגבלה על הכנסות משיתוף הפעולה עם מיקרוסופט\n\nאחרי שהשניים הכריזו על הסכם שיתוף פעולה ענק בעקבות הארגון מחדש של OpenAI באוקטובר, נראה שהם גם יודעים לשנות את הדברים. OpenAI מציבה כעת תקרה על תשלומי חלוקת הכנסות לחברת גיגנט התוכנה, מה שמצביע על איזון כוחות שונה בין שתי הענקיות הטכנולוגיות.",
     "d": "Mon, 27 Apr 2026 14:12:15 GMT",
     "v": 0,
     "l": [
@@ -162,21 +159,19 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Microsoft"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "model",
-      "product"
+      "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 8,
-    "t": "Sam Altman outlines five principles that double as justification for OpenAI's business decisions\n\nOpenAI's CEO has laid out five guiding principles for the company's future work. They also serve as a rationale for some of OpenAI's more unconventional business moves.\nThe article Sam Altman outlines five principles that double as justification for OpenAI's business decisions appeared first on The Decoder.",
+    "t": "סם אלטמן חושף חמש עקרונות שמשמשים גם כהצדקה להחלטות העסקיות של OpenAI\n\nמנכ\"ל OpenAI הציג חמישה עקרונות מנחים שיהפכו את דרך פעולתה של החברה בעתיד - והם גם משמשים כתירוץ די חכם לצעדים עסקיים לא שגרתיים שOpenAI עשתה עד כה. במילים אחרות, אלטמן בעצם הראה לנו כיצד העברות ההשקעות והשינויים בעמדות החברה כולם תואמים למסגרת ערכית שהיא הגדירה מראש.",
     "d": "Mon, 27 Apr 2026 13:59:05 +0000",
     "v": 0,
     "l": [
@@ -202,7 +197,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Scientists simulate quantum vacuum decay that could end the universe\n\nPhysicists have successfully simulated false vacuum decay, a quantum process theorized to be capable of...",
+    "t": "מדענים סימולו קריסת ואקום קוונטית שיכולה להשמיד את היקום\n\nפיזיקאים הצליחו לסמלץ תהליך קוונטי מטורף שנקרא false vacuum decay - בעצם תרחיש קטסטרופי שבו היקום יכול פשוט... להיעלם. המעולמת? הם כרגע רק סימלו את זה במחשב, אבל זה עדיין משהו שמצוות פיזיקה מנסה להבין כדי לברר אם אנחנו בסכנה אמיתית או לא.\n\nמקור: Interesting Engineering",
     "d": "Mon, 27 Apr 2026 13:52:16 +0000",
     "v": 0,
     "l": [
@@ -225,7 +220,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "25,000 ground robots in battlefield planned by Ukraine for frontline logistics\n\nIn a move toward fully autonomous warfare, Ukraine’s Defense Ministry plans to procure 25,000 unmanned...",
+    "t": "אוקראינה מתכננת לפרוס 25,000 רובוטים קרקע בחזית הקרב לשימושי לוגיסטיקה\n\nאוקראינה עומדת על סף מהפכה צבאית - משרד ההגנה שלה מתכנן לרכוש 25,000 רובוטים חסרי אדם שיטיילו בחזית ויתמודדו עם משימות לוגיסטיות מסוכנות. זה לא רק עוד טריק טכנולוגי - זה שינוי תיאורטי במלחמה המודרנית שכן הרובוטים הללו יוכלו לתמוך בחיילים ולהביא אספקה ללא חשיפת חיים אנושיים. החזון של אוקראינה הוא למעשה מעבר להנעה מלאה של מערכות צבאיות autonomously בשדה הקרב.",
     "d": "Mon, 27 Apr 2026 13:46:12 +0000",
     "v": 0,
     "l": [
@@ -249,7 +244,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "World-first submarine drone travels 1,257 miles underwater on hydrogen power\n\nA Canadian company’s submarine drone has traveled more than 1,257 miles fully submerged, powered by...",
+    "t": "רחפן תת-ימי מופעל בחשמל מימן עבר 2,000 קילומטר תחת המים\n\nחברה קנדית השגה הישג היסטורי: רחפן תת-ימי שלה טייל יותר מ-2,000 קילומטר כולו תחת פני המים, מונע לחלוטין על ידי תא דלק של מימן. זה יוצא דופן - עד עכשיו לא הייתה טכנולוגיה שהצליחה בתחום המרחקים הארוכים האלה תת-ימית. החידוש הזה יכול לשנות משחק במטלות של ניטור אוקיינוסים ומשימות כל שהוא מעבר לטווחים דיגיטליים.",
     "d": "Mon, 27 Apr 2026 13:40:07 +0000",
     "v": 0,
     "l": [
@@ -272,7 +267,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Stunning retro roadster is Morgan's fastest-ever creation\n\nIn an astonishing mix of modern technology with traditional rural crafts, English specialist sports car company Morgan has just unveiled its fastest-ever model.\nContinue Reading\nCategory: Automotive, Transport\nTags: Morgan, Sports Cars, Retro, Roadster",
+    "t": "רכב הספורט הרטרו המדהים של מורגן - המהיר ביותר בהיסטוריה\n\nמורגן, חברת הרכבים הבריטית האגדית, כשלא עזבה אף רגע את סגנונה הקלסי, הצליחה להטמיע טכנולוגיה מודרנית בחדשה שלה - והתוצאה? המכונית המהירה ביותר שאי פעם יצאה מהמפעל. זה כמו להביא מכונית מהשנות ה-50 לעידן הפיוטק, ורק מורגן יכלה לעשות משהו כזה עם הגאווה והמקצועיות שלה.",
     "d": "Mon, 27 Apr 2026 13:18:46 GMT",
     "v": 0,
     "l": [
@@ -295,7 +290,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "China blocks Meta’s $2B Manus deal after months-long probe\n\nChina has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+    "t": "סין חוסמת את עסקת Manus של מטא בשווי 2 מיליארד דולר לאחר חקירה ארוכה\n\nסין הורתה למטא לבטל את רכישת Manus הגדולה, בחבטה משמעותית לתוכניות הזוקרברג להתפשטות לעולם ה-AI agents. בחודשים האחרונים כללה החקירה בדיקה עמוקה של העסקה, ועכשיו נראה שהממשלה הסינית מחליטה שהיא לא מתיישבת עם האינטרסים הלאומיים שלה - פחות או יותר כמו שיטת ה\"לא\" של סין לטכגיגנטים של סיליקון ווילי במרחב הסיני.",
     "d": "Mon, 27 Apr 2026 13:16:55 +0000",
     "v": 0,
     "l": [
@@ -308,22 +303,18 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
       "news",
-      "model",
-      "funding",
       "agents"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 14,
-    "t": "China launches first 1,000,000 cubic-meter hydrogen storage project using salt caverns\n\nChina has brought a major hydrogen storage project online in central Henan Province. The one-million-cubic-meter-level...",
+    "t": "סין השיקה את פרויקט אחסון המימן הראשון בעולם בהיקף מיליון קוב בשימוש בחללי מלח\n\nסין הניחה קו לאחד הפרויקטים המשמעותיים ביותר בתחום אחסון המימן - בקבול בן מיליון קוב בפרובינציית האנן במרכז המדינה. המהלך הזה חתום קו בחול ללא בעיה עם הטעונים - סין מוקדשת להפיכת המימן לגורם משחקים גדול בעתיד האנרגיה שלה, והאחסון בחללי מלח הוא לא רק חכם מבחינה כלכלית אלא גם מאסיבי מבחינת הקיבולת.",
     "d": "Mon, 27 Apr 2026 13:10:17 +0000",
     "v": 0,
     "l": [
@@ -340,13 +331,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "Interesting Engineering"
   },
   {
     "id": 15,
-    "t": "OpenAI could be making a phone with AI agents replacing apps\n\nThe phone could go in mass production in 2028, an analyst says.",
+    "t": "OpenAI עשויה לפתח טלפון שבו AI agents מחליפים אפליקציות\n\nאנליסטים מעריכים שהטלפון יוכל להיכנס לייצור בהיקף מלא כבר ב-2028. דמיינו עולם שבו במקום להקליק על אפ של מטוי תוך שניה, אתם פשוט אומרים למה שאתם צריכים - וה-AI agent לוקח את זה משם. זה בדיוק מה שנראה שOpenAI עובדת עליו, ולפי דיווחים האחרונים, הטלפון הזה יכול להיות בידינו תוך שנים ספורות בלבד.",
     "d": "Mon, 27 Apr 2026 13:08:59 +0000",
     "v": 0,
     "l": [
@@ -373,7 +364,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "Spotify teams up with Peloton to launch global fitness content hub\n\nSpotify teams with Peloton to launch fitness content, potentially opening new revenue streams while expanding Peloton’s global reach.",
+    "t": "Spotify ו-Peloton משתפות פעולה ויוצרות מוקד תוכן כושר גלובלי\n\nSpotify ו-Peloton חתמו על שיתוף פעולה שיביא תוכן כושר משודרג ישירות לאפליקציית המוזיקה, תוך פתיחת דלתות לרחפת הכנסות חדשה לספוטיפיי והרחבה גלובלית ענקית עבור Peloton. זה בעצם כמו שהמפיקה הגדולה בעולם למוזיקה החליטה שחסר לה קוד הפיטנס שלה, ודבר זה עלול לגרום לפיתוח ענקי בשוק ההכשרה הדיגיטלית. מקור: CNBC Tech",
     "d": "Mon, 27 Apr 2026 13:04:36 GMT",
     "v": 0,
     "l": [
@@ -396,7 +387,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "China develops iron battery 80 times cheaper than lithium that can last 16 years\n\nA research team at the Institute of Metal Research of the Chinese Academy of Sciences...",
+    "t": "סין פיתחה סוללת ברזל שזולה פי 80 מליתיום ויכולה להחזיק 16 שנים\n\nחוקרים מטכסגון בסין הצליחו לפתח סוללה מהפכנית שמבוססת על ברזל במקום ליתיום - הטכנולוגיה הזאת יכולה להיות משחק משנה בעולם האנרגיה המתחדשת כי היא הרבה יותר זולה ועמידה. הסוללה החדשה יכולה להישאר פעילה לפחות 16 שנים, מה שהופכת אותה לפתרון סופר משתלם לאחסון אנרגיה בקנה מידה גדול. זה עוד דוגמה לכך שהתחרות הטכנולוגית בין מעצמות עולמיות דוחפת פורוץ אמיתיים בתחום הטכנולוגיה הירוקה.",
     "d": "Mon, 27 Apr 2026 13:04:15 +0000",
     "v": 0,
     "l": [
@@ -409,12 +400,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.youtube.com/embed/2yArg0fphGI",
@@ -422,7 +410,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "Sadiq Khan may try to stop Scotland Yard signing Palantir contract\n\nExclusive: Mayor raises concerns about using public money to support firms who act ‘contrary to London’s values’\nThe mayor of London, Sadiq Khan may oppose Scotland Yard using Palantir’s AI systems to process criminal intelligence because of his “concerns about using public money to support firms who act contrary to London’s values”.\nThe mayor of London’s office made the statement after the Guardian revealed last week that Palantir, which works for Donald Trump’s ICE immigration crackdown and Is",
+    "t": "סאדיק חאן עלול להתנגד לחתימת סקוטלנד יארד על חוזה עם פלנתיר\n\nראש עיר לונדון מביע חשש מעשוי של כספי ציבור לתמוך בחברות שפועלות 'בניגוד לערכי לונדון'. פלנתיר, שמספקת systems AI למעקב אחרי אינטליגנציה פלילית, עומדת בביקורת חריפה כי היא עובדת עם תוכנית ICE למעקב הגירה של טראמפ, ועכשיו העירייה השנייה בבריטניה מגבלת את כניסתה למערכות הביטחון המקומיות.",
     "d": "Mon, 27 Apr 2026 13:03:57 GMT",
     "v": 0,
     "l": [
@@ -437,16 +425,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/e16d41c0deac5248671df06065cf8cf93a6112f5/563_0_5629_4503/master/5629.jpg?width=140&quality=85&auto=format&fit=max&s=dd3b0415d0c03f947e48f309e557dcec",
     "source": "The Guardian AI"
   },
   {
     "id": 19,
-    "t": "Join the new AI Agents Vibe Coding Course from Google and Kaggle\n\nGoogle is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
+    "t": "הצטרפו לקורס 'Vibe Coding' החדש של AI Agents מ-Google וKaggle\n\nGoogle וKaggle חוזרים עם קורס אינטנסיבי של 5 ימים בנושא AI Agents, והפעם הרישום כבר פתוח לכולם! אם אתם רוצים להבין איך לבנות agents חכמים שעובדים באופן אוטונומי, זו ההזדמנות שלכם. קורס מעולה למי שרוצה להתעמק בעולם ה-AI מודרני ישירות מהמקור.\n\n*מקור: Google AI Blog",
     "d": "Mon, 27 Apr 2026 13:00:00 +0000",
     "v": 0,
     "l": [
@@ -473,7 +460,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "Rebuilding the data stack for AI\n\nArtificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI at scale requires something far less glamorous but far more consequential: data…",
+    "t": "שיקום מחדש של ה-Data Stack עבור AI\n\nכולם מדברים על AI בדירקטוריון, אבל חברות גדולות גילו שהבעיה האמיתית היא לא באלגוריתמים - זה הנתונים שלהם. בעוד שכלים כמו ChatGPT עשו חזקה בלהרשים את המשתמשים, מנהלים בישראל וברחבי העולם מבינים שכדי להטמיע AI בגודל ממש, צריך להשקיע בנתונים נקיים וארגון מחדש של כל ה-infrastructure שלהם. זו כמו למכור בית יפה בחוץ אבל היסודות שלו רקוב.",
     "d": "Mon, 27 Apr 2026 13:00:00 +0000",
     "v": 0,
     "l": [
@@ -486,9 +473,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -496,7 +486,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "Qualcomm jumps 12% on report it’s partnering with OpenAI on smartphone AI chip\n\nQualcomm will be working alongside MediaTek to develop a smartphone chip for OpenAI, with manufacturer Luxshare co-designing the device, an analyst said.",
+    "t": "קוואלקום עלתה ב-12% לאחר דיווח על שיתוף פעולה עם OpenAI בשבב AI לסמartphones\n\nקוואלקום תעבוד יחד עם MediaTek על פיתוח שבב סמartphone חדש ל-OpenAI, כשחברת ההייצור Luxshare תעזור בעיצוב הדיוויס. הדיווח מצביע על צעד משמעותי של OpenAI להחדיר את טכנולוגיית ה-AI שלה ישירות לתוך סמartphones, בדומה למה שעושות אפל וגוגל עם שבבי ה-AI שלהן.",
     "d": "Mon, 27 Apr 2026 12:59:27 GMT",
     "v": 0,
     "l": [
@@ -516,13 +506,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 22,
-    "t": "Meta wants to power AI data centers with solar energy from space\n\nMeta has signed a deal with startup Overview Energy for up to 1 gigawatt of space-based solar power. The only catch: the technology doesn't exist yet.\nThe article Meta wants to power AI data centers with solar energy from space appeared first on The Decoder.",
+    "t": "מטא רוצה להנעיל את מרכזי הנתונים שלה בכוח סולארי מהחלל\n\nמטא חתמה על הסכם עם סטארטאפ Overview Energy לקבלת עד 1 ג'יגוואט של אנרגיה סולארית מהמרחב - זה נשמע מדע בדיוני, אבל זה בדיוק מה שהחברה משקיעה בו. הבעיה קטנה? הטכנולוגיה עדיין לא קיימת, אז מטא בעצם מהמרת על עתיד די רחוק כדי לתמוך בתיאבון הגדול של מרכזי ה-AI שלה. מה שמוביל אותנו לשאלה: האם זה גיוני או שזה סתם PR חכם?",
     "d": "Mon, 27 Apr 2026 12:57:10 +0000",
     "v": 0,
     "l": [
@@ -535,12 +525,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -548,7 +535,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "WHCD shooting, DOJ ends Powell probe, Musk vs. Altman and more in Morning Squawk\n\nHere are five key things investors need to know to start the trading day.",
+    "t": "תקיפה בארוחת העיתונאים, סיום חקירה של DOJ בפרשת פאוול, קונפליקט מאסק מול אלטמן ועוד בתחילת הבוקר\n\nחמש טיטאנים שכל משקיע צריך לדעת עליהם לפני שהשוק נפתח ביום הלימורים 📈 מהפרשות פוליטיות כבדות ועד קרבות טכנולוגיים חמים בין ענקי ה-AI, זה בוקר עם הרבה מה-digest. תקרא מהר כי השווקים כבר מתחילים לנוע על רקע החדשות הללו!",
     "d": "Mon, 27 Apr 2026 12:42:05 GMT",
     "v": 0,
     "l": [
@@ -571,7 +558,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 24,
-    "t": "Hacktivists share a guide on making working electronics PCBs made from natural clay with prehistoric technique — ethical hardware tutorial explains how to find clay, stamp 3D printed circuits, paint traces, and fire tablets\n\nFeminist Hackers share a compelling solution for custom PCB-needy DIYers - a hand-made wild clay prehistoric-fired alternative.",
+    "t": "האקטיביסטים משיתפים מדריך: כיצד לייצר PCB תוך שימוש בחימר טבעי וטכניקות עתיקות — כולל הדרכה על מציאת חומרים, הדפסה תלת-ממדית ופירוק בתנור\n\nקבוצת Feminist Hackers חשפה פתרון מבריק למי שרוצה לבנות PCB משלהם ללא תלות בתעשייה: לוחות מעוצבים מחימר טבעי שמשתמשים בטכניקות עתיקות לשריפה. זה לא רק DIY חכם, זה גם הצהרה אתית על חומרה עצמאית שאפשר לעשות בבית עם החומרים הפשוטים ביותר.",
     "d": "Mon, 27 Apr 2026 12:28:10 +0000",
     "v": 0,
     "l": [
@@ -595,7 +582,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "This bank CEO let his AI clone handle an earnings call — now he's signing an OpenAI deal\n\nIt's part of Customers Bank CEO Sam Sidhu's effort to get ahead in the industry's race to transform itself using AI agents as a new digital workforce",
+    "t": "מנכ\"ל בנק שחרר את קלוןאי שלו לשיחת הכנסות - עכשיו הוא חותם עם OpenAI\n\nמנכ\"ל Customers Bank, סם סידהו, מוביל מירוץ תעשייתי להשתמש ב-AI agents כחיל עבודה דיגיטלי חדש - והוא כבר הלך הלאה מניסוי האקלונים ופנה ישר ל-OpenAI כדי להתקדם בתחרות הזו.",
     "d": "Mon, 27 Apr 2026 12:12:35 GMT",
     "v": 0,
     "l": [
@@ -623,7 +610,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 26,
-    "t": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models\n\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts…",
+    "t": "ההורדה: פריצת הדרך האחרונה של DeepSeek וההתחרות על בניית מודלים עולמיים\n\nDeepSeek, חברת ה-AI הסינית, שחררה ביום שישי את תצוגה ראשונה של V4 - המודל הדגל החדש שלה שהחכו לו הרבה זמן. המודל החדש יכול לעבד הודעות (prompts) הרבה יותר ארוכות מהקודמות שלו, מה שמסמן צעד משמעותי בתחרות העולמית על בניית world models. זה עוד עדות לעליית ישראל-סין בתחום ה-AI המתחרה בישירות עם המובילים המערביים.",
     "d": "Mon, 27 Apr 2026 12:10:00 +0000",
     "v": 0,
     "l": [
@@ -640,13 +627,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "MIT Technology Review"
   },
   {
     "id": 27,
-    "t": "TSMC's details next-gen CoWoS roadmap: over 14-reticle packages and 48x leap in compute power expected by 2029 — massive size enables 24 HBM5E stacks and additional memory bandwidth jump\n\nTSMC claims that CoWoS innovations will enable 48x more compute and 34x more memory bandwidth for 2029 AI processors.",
+    "t": "TSMC חושפת תוכנית דרכים למגזן CoWoS של דור הבא: חבילות ענקיות עם 14 ריטיקל ועלייה פי 48 בכוח עיבוד עד 2029\n\nTSMC משיקה עלייה משמעותית בטכנולוגיית CoWoS שתאפשר לחיפושי AI בשנת 2029 עלייה של פי 48 בכוח חישוב ופי 34 בזרימת זיכרון, בזכות תמיכה ב-24 ערימות HBM5E בחבילה אחת. זה פירושו שמעבדי AI של דור הבא יהיו הרבה יותר חזקים וגם יוכלו להשתמש בהרבה יותר זיכרון בו-זמנית. תחזוקה זו מראה כיצד טסטים ממשיכה לפתור את בעיות ההנדסה הגדולות בתעשייה. | מקור: Tom's Hardware",
     "d": "Mon, 27 Apr 2026 11:56:06 +0000",
     "v": 0,
     "l": [
@@ -661,8 +648,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/5v5TynY3T6qoQvHBybftxE-1280-80.jpg",
@@ -670,7 +656,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 28,
-    "t": "Save a colossal $1,184 on a 9950X3D2, 64GB DDR5, and a 4TB Samsung SSD for a powerhouse gaming PC build — epic Newegg deal comes with AMD's first dual X3D chip and a flagship Asus ROG board for $2,899\n\nSave nearly $1,200 on a $4,000+ gaming PC build with this Newegg combo deal, featuring the 9950X3D2, flagship Asus ROG Crosshair X870E motherboard, 64GB of G.Skill Ripjaws DDR5 RAM, and a 4TB Samsung 990 Pro SSD.",
+    "t": "חיסכון ענק של $1,184 על מחשב גיימינג עם 9950X3D2, 64GB DDR5 ו-4TB SSD - דיל משגע מNewegg ב-$2,899\n\nNewegg עשתה משהו קשוח - זרקה deal שחוסך כמעט $1,200 על בנייה של מחשב גיימינג שיעלה אתכם למעלה מ-$4,000. בחבילה יש את ה-9950X3D2 החדש של AMD (כן, שני X3D ראשונים בחיפוש שלנו!), לוח Asus ROG דגם פלגשט, 64GB RAM DDR5 של G.Skill ו-SSD של 4TB מSamsung שמטורף - הכל תמורת קרוב ל-3K דולר שזה בכלל לא כמו שזה אמור להיות.",
     "d": "Mon, 27 Apr 2026 11:55:29 +0000",
     "v": 0,
     "l": [
@@ -683,12 +669,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/W9oA44ytWzg24eabyXLN9Q-1280-80.jpg",
@@ -696,7 +679,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 29,
-    "t": "Google warns malicious web pages are poisoning AI agents\n\nPublic web pages are actively hijacking enterprise AI agents via indirect prompt injections, Google researchers warn. Security teams scanning the Common Crawl repository (a massive database of billions of public web pages) have uncovered a growing trend of digital booby traps. Website administrators and malicious actors are embedding hidden instructions within standard HTML. These invisible […]\nThe post Google warns malicious web pages are poisoning AI agents appeared first on AI News.",
+    "t": "גוגל מזהירה: דפי אינטרנט זדוניים מזיקים לסוכני AI של חברות\n\nחוקרי גוגל חשפו תופעה חדשה ומדאיגה: פושעי סייבר משדרים הוראות נסתרות בעמודי אינטרנט כדי לחטוף סוכני AI של ארגונים דרך \"indirect prompt injections\". המחקר שסרק מיליארדי דפים בממסד Common Crawl גילה שמנהלי אתרים וגורמים ממוקסדים מטמינים מלכודות דיגיטליות בקוד HTML סטנדרטי, דבר שיכול לשנות את התנהגות ה-AI וליצור סיכונים אבטחה ממשיים לעסקים. זו עוד הוכחה שבעידן AI, אפילו דפי אינטרנט רגילים הפכו לשדה קרב פוטנציאלי.",
     "d": "Mon, 27 Apr 2026 11:12:52 +0000",
     "v": 0,
     "l": [
@@ -709,23 +692,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "funding",
-      "security",
-      "agents"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "AI News"
   },
   {
     "id": 30,
-    "t": "China blocks Meta's $2 billion acquisition of AI startup Manus\n\nBeijing orders the unwinding of the already completed acquisition. The move comes amid intensifying technological rivalry between the US and China.\nThe article China blocks Meta's $2 billion acquisition of AI startup Manus appeared first on The Decoder.",
+    "t": "סין חוסמת את רכישת Meta בן ה-2 מיליארד דולר של стартап AI Manus\n\nבייג'ינג הורה לביטול העסקה שכבר הסתיימה, במהלך התגברות המתחרות הטכנולוגית בין ארה״ב לסין. זו עוד הוכחה לכך שהתופעה של חסימת עסקות טכנולוגיות בין הכוחות הגדולים הופכת למשהו די שכיח בימים אלה, וסין לא מתביישת להשתמש בכוחה הרגולטורי כנגד ענקי הטכנולוגיה האמריקאיים.",
     "d": "Mon, 27 Apr 2026 11:08:32 +0000",
     "v": 0,
     "l": [
@@ -743,16 +720,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 31,
-    "t": "‘Predator-like’ light-powered micromotors to mine uranium from oceans, wastewater\n\nScientists at the Qinghai Institute of Salt Lakes in China have developed microscopic material that...",
+    "t": "מיקרומנועים מונעי אור 'כמו טורף' לכריית אורניום מהאוקיינוס והשפכים\n\nחוקרים סינים פיתחו חומר מיקרוסקופי שפועל כמו טורף קטנטן - הוא נע בעזרת אור ויכול לספוג אורניום מהאוקיינוס ומהשפכים. הטכנולוגיה הזאת יכולה לפתור בעיה גדולה בעולם - הוא אחת הדרכים החדשות והחוכמות ביותר להשיג דלק גרעיני בדרך שהרבה יותר יעילה מהשיטות המסורתיות. זה בעצם רובוטיקה בגודל ננו שעושה עבודה שלא אדם או מכונה רגילה יכולים לעשות - רחוק מדעת! מקור: Interesting Engineering",
     "d": "Mon, 27 Apr 2026 11:02:54 +0000",
     "v": 0,
     "l": [
@@ -775,7 +751,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 32,
-    "t": "The AI-designed car is taking shape\n\nThe auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. \nThose sketches traditionally see endless iteration and refinement from all angles before being turned into 3D models by hand, some dying in the digital world, others sculpted into clay to better visualize lines and profiles. That's just the beginning of a design and development process that often takes a half-decade or more. \nThat means many n",
+    "t": "המכונית שעוצבה על ידי AI מתחילה להיווצר\n\nעד עכשיו, עיצוב מכוניות זה עסק מייגע של סקיצות, איטרציות אינסופיות וגילום בחימר - תהליך שיכול להימשך שנים. אבל עכשיו AI נכנסת לתמונה ומשנה את הכללים של המשחק בתעשיית הרכב. עם כלים חדשים של ויזואליזציה תלת-מימדית ו-VR sculpting, המעצבים יכולים להזריז את התהליך בצורה דרמטית ולחקור עשרות קונספטים בזמן שלפני כן היה אפשרי רק אחד או שניים.",
     "d": "2026-04-27T11:00:00.000Z",
     "v": 0,
     "l": [
@@ -798,7 +774,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 33,
-    "t": "Meet the players who lost big money on Peter Molyneux’s failed Legacy\n\nAfter millions in NFT sales, the hyped “play to earn” game was effectively dead in weeks.",
+    "t": "מי הם השחקנים שהפסידו כסף ענק במשחק ההנצחה הכושל של פיטר מוליניוקס\n\nאחרי מיליונים בהכנסות NFT, המשחק \"play to earn\" המפורסם שלו מת למעשה תוך שבועות ספורים. עוד הוכחה שהקהילת הגיימינג צריכה ללמוד שלא כל דבר בblockchain צריך להיות משחק, במיוחד כשמעורבב בו איש שהשם שלו בא לפני מילה שמשמעותה 'הבטחה חסרת ביסוס'.",
     "d": "Mon, 27 Apr 2026 10:45:31 +0000",
     "v": 0,
     "l": [
@@ -821,7 +797,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 34,
-    "t": "China blocks $2bn Meta takeover of AI agent developer Manus\n\nBeijing says domestic tech companies must seek explicit government approval for accepting US investment\n\nBusiness live – latest updates\n\n\nChina has blocked Meta’s $2bn (£1.5bn) acquisition of an AI startup as it cracks down on US investments in domestic tech companies.\nMark Zuckerberg’s Meta, the owner of Facebook, Instagram and WhatsApp, announced the acquisition of Manus, a developer of autonomous AI agents, in December.\n Continue reading...",
+    "t": "סין חוסמת את הרכישה של Meta בהיקף 2 מיליארד דולר לחברת AI Manus\n\nבייג'ינג הטילה וטו על עסקת המו\"מ בין מטא לבין Manus, חברה ישראלית-סינית למפתחי AI agents, במסגרת הדרכה חדשה שלה כנגד השקעות אמריקאיות בטכנולוגיה. סין דורשת כעת אישור ממשלתי מפורש לכל השקעה של חברות אמריקאיות בחברות טכנולוגיה מקומיות, והחלטה זו משקפת התגברות המתחים בין וושינגטון לבייג'ינג על שליטה בטכנולוגיות ה-AI. זוכרים שמק זוקרברג הכריז על הרכישה בדצמבר, אבל נראה שנמוג זה לא תהיה זיכיון לעסקה.",
     "d": "Mon, 27 Apr 2026 10:44:22 GMT",
     "v": 0,
     "l": [
@@ -840,17 +816,15 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news",
       "model",
-      "robotics",
-      "funding",
       "agents"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/c2c71daeaf767d71e44badec6d592401e7b702ce/509_0_5031_4024/master/5031.jpg?width=140&quality=85&auto=format&fit=max&s=a07bc38b2048d87d9dbf4aa0d08afdbb",
     "source": "The Guardian AI"
   },
   {
     "id": 35,
-    "t": "3D printing community organizes against California law that would restrict sales to state-approved models to prevent printing gun parts\n\nExperts warn that \"safety algorithms\" are a death sentence for makerspaces, schools, and innovation.",
+    "t": "קהילת ההדפסה התלת-ממדית קמה נגד חוק קליפורניה שמגביל מכירות לדגמים מאושרים בלבד\n\nקהילת ההדפסה התלת-ממדית בקליפורניה בעיצומה של התארגנות כנגד חוק חדש שיפרוץ לפקד על סוגי המודלים שניתן להדפיס - מה שמוקדים וניידות טוענים שיהיה מכת מוות לעולם ה-makerspaces וחדרי הכיתה. המומחים מזהירים כי אלגוריתמי \"בטיחות\" כאלה יגנבו את הנשימה מחדשנות וייצור עצמאי, תוך שהם מטילים כל מיני אישורים ובדיקות שלא ברור אפילו אים כן בזמן.",
     "d": "Mon, 27 Apr 2026 10:43:01 +0000",
     "v": 0,
     "l": [
@@ -865,8 +839,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/ACXYa9zA7qEo2JeFLtP2vB-1280-80.png",
@@ -874,7 +847,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 36,
-    "t": "Video: Boston Dynamics’ Spot robot dog gets AI power for nonstop patrols, asset tracking\n\nRobotic security systems are moving closer to real-world deployment across industrial sites. DroneDog, developed by...",
+    "t": "וידאו: כלב הרובוט Spot של Boston Dynamics מקבל כוחות AI לסיורים ללא הפסקה וניטור נכסים\n\nרובוטי האבטחה מתקרבים למשימות אמיתיות בתחומי תעשייה - וSpot של Boston Dynamics עכשיו עם יכולות AI שיכולות לעשות סיורים אוטומטיים וללא הפסקה. זה כבר לא סתם רובוט מעניין בסרטונים - זה התחלה של משהו שאנחנו עוד נראה בחצרות תעשיה וחוות ישראלית. הטכנולוגיה הזו יכולה לשנות לגמרי את תעשיית האבטחה כמו שאנחנו מכירים אותה.",
     "d": "Mon, 27 Apr 2026 10:33:48 +0000",
     "v": 0,
     "l": [
@@ -890,8 +863,7 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "robotics",
-      "security"
+      "robotics"
     ],
     "imp": "low",
     "thumb": "https://www.youtube.com/embed/z6HF17mZM6k",
@@ -899,7 +871,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 37,
-    "t": "Developer creates a basic first person shooter game using Gaussian splats, and you can play it for free in your browser\n\nIt's not much of a game, but it's an impressive proof of concept for the novel technology.",
+    "t": "מפתח יצר משחק שחרור ראשון בסיסי באמצעות Gaussian Splats - ותוכלו לשחק בו בחינם בדפדפן\n\nזה לא משחק מוד, אבל זה הוכחת קונספט מרשימה של טכנולוגיה חדשה שמשנה את דרך עיבוד הגרפיקה התלת-מימדית. במקום מודלים מסורתיים, ה-Gaussian Splats משתמש בנקודות אור חכמות כדי ליצור עולמות וירטואליים בביצועים טובים הרבה יותר, והפרויקט הזה מוכיח שאפשר להשתמש בזה אפילו למשחקים אמיתיים.",
     "d": "Mon, 27 Apr 2026 10:30:00 +0000",
     "v": 0,
     "l": [
@@ -922,7 +894,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 38,
-    "t": "China-made all-iron flow battery runs 6,000 cycles at 80 times cheaper than lithium\n\nResearchers at the Chinese Academy of Sciences have developed an all-iron flow battery electrolyte that...",
+    "t": "סוללת זרימה סינית מברזל טהור: 6,000 מחזורים בחזקה של 80 פי יותר זול מליתיום\n\nחוקרים מהאקדמיה הסינית למדעים פיתחו סוללת זרימה חדשה שמבוססת על ברזל בלבד, וזה כבר מעיר כמה גדול הדבר הזה. הטכנולוגיה הזאת יכולה לעמוד ב-6,000 מחזורי טעינה וריקנון וזה במחיר שהוא 80 פעמים זול יותר מסוללות ליתיום, מה שעשוי להיות המהפכה שחיכינו לה בתחום אחסון האנרגיה.",
     "d": "Mon, 27 Apr 2026 10:03:36 +0000",
     "v": 0,
     "l": [
@@ -945,7 +917,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 39,
-    "t": "Meta inks deal for solar power at night, beamed from space\n\nOverview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
+    "t": "מטא חתמה על הסכם לאנרגיה סולארית בלילה - המשודרת מהחלל\n\nחברת Overview Energy חתמה את החוזה הראשון שלה עם מטא, ובזה עוד צעד קטן אבל משמעותי לכיוון עתיד שבו אנרגיה סולארית תישודר אלינו ישירות מהחלל. אם זה יעבוד כמו שצריך, עוד לא תצטרכו לדאוג לשמש שלא זורחת בשביל שהנתונים שלכם יישארו דלוקים.",
     "d": "Mon, 27 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -958,12 +930,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -971,7 +940,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 40,
-    "t": "Linux kernel's ‘second-in-command’ uses local AI bot to hunt bugs, powered by 'clanker' system with AMD's Ryzen AI Max+ — Framework Desktop has resulted in close to two dozen patches\n\nGreg Kroah-Hartman posted a photo to Mastodon this weekend showing the hardware behind his AI-assisted bug-finding tool.",
+    "t": "מנהיג ליבת לינוקס משתמש ב-AI מקומי לציד באגים עם מערכת 'Clanker' ו-Ryzen AI Max של AMD — Framework Desktop הניב כ-20 patch-ים\n\nגרג קרוהן-הרטמן פרסם בסוף השבוע תמונה ב-Mastodon של החומware מאחורי כלי ציד הבאגים בעזרת AI שלו. זה די משהו - בחור שנחשב למנהיג השני בחשיבותו של kernel לינוקס מגלה שהוא יכול להשתמש ב-AI מקומי כדי למצוא באגים ברמה מקצועית, וכל זה עובד על מחשב שולחני שקיבל עוד סיבוב של פיתוח ושיפורים.",
     "d": "Mon, 27 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -994,7 +963,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 41,
-    "t": "World’s largest: Japan plans 1 GW floating offshore wind farm to power Tokyo\n\nThe Tokyo Metropolitan Government has announced an ambitious plan to build the world’s largest floating...",
+    "t": "שום דבר כמו זה: יפן בונה את חוות הרוח הצפה הגדולה בעולם כדי להנציח את טוקיו\n\nממשלת טוקיו הכריזה על תוכנית מטורפת - חוות רוח צפה בעוצמה של 1 ג'יגווט שתהיה הגדולה בעולם. זו לא רק מהלך חכם לייצור אנרגיה נקייה, אלא גם תשובה של ממש לבעיות הקיימות בתחום האנרגיה של יפן. אם זה יצליח, יכול להיות שאנחנו רואים כאן את העתיד של אנרגיה ימית ברחבי העולם.\n\nמקור: Interesting Engineering",
     "d": "Mon, 27 Apr 2026 09:32:36 +0000",
     "v": 0,
     "l": [
@@ -1017,7 +986,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 42,
-    "t": "Oppo tempts photo pros with dual 200-MP cams and 10x optical telephoto\n\nOppo’s Find X9 Ultra takes smartphone photography to the next level with a 10x optical zoom telephoto and dual 200MP cameras built around a Hasselblad-tuned system, plus an externally mounted teleconverter lens option to reach even farther.\nContinue Reading\nCategory: Mobile Technology, Consumer Tech, Technology\nTags: Oppo, Hasselblad, Photography, Lens, smartphones",
+    "t": "אופו פותחת את הלב של צלמים עם דואל 200 מגה-פיקסל וזום אופטי 10x\n\nאופו משגעת עם ה-Find X9 Ultra החדש שלה - סמארטפון שנראה כאילו הוא עבור צלמי מקצוע, עם שתי עדשות 200MP וטלפוטו אופטי 10x בכיוונון Hasselblad. העשרה על העוגה? יש להם גם אפשרות של טלה-קונברטר חיצוני שמאפשר זום אפילו יותר גדול לצילומים קסומים מרחוק.",
     "d": "Mon, 27 Apr 2026 09:28:21 GMT",
     "v": 0,
     "l": [
@@ -1040,7 +1009,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 43,
-    "t": "Oil at three-week high as US-Iran peace talks stall; China blocks Meta’s takeover of AI agent Manus – business live\n\nRolling coverage of the latest economic and financial news\nShares in athletic apparel and footwear company Adidas have jumped by almost 1.75% in early trading after three of its athletes shone at the London Marathon yesterday.\nSabastian Sawe and Yomif Kejelcha both smashed the two-hour barrier in the men’s marathon race, and Tigist Assefa set a women-only world record in the women’s race.\nThe adidas family is incredibly proud of Sabastian and Tigist’s historic achievements, marking the fastest t",
+    "t": "נפט בשיא של שלוש שבועות כשיחות שלום בין ארה״ב לאיראן קופאות; סין חוסמת את הרכישה של Meta לחברת ה-AI Manus\n\nשוקי האופנה והטכנולוגיה רותחים היום: מניות אדידס צנחו אחרי ההישגים המדהימים במרתון לונדון, בעוד הגזירה בין ארה״ב לאיראן משפיעה על מחירי הנפט. בבחזית ה-AI, סין חוסמת את ניסיון Meta לקנות את Manus, שזה סימן משמעותי על המתחים הגיאופוליטיים בתחום הטכנולוגיה. אם חיזקתם לפחות במרתון, המחירים בשוק בהחלט לא רצים אליכם בעדיפות.",
     "d": "Mon, 27 Apr 2026 09:23:02 GMT",
     "v": 0,
     "l": [
@@ -1058,8 +1027,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/2886c96d6f1951ee616dedee7523558bcf46ce23/759_0_4148_3319/master/4148.jpg?width=140&quality=85&auto=format&fit=max&s=7b059df13b181e56d47662fcc93659dd",
@@ -1067,7 +1035,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 44,
-    "t": "China blocks Meta's acquisition of AI startup Manus\n\nChina said Monday it has decided to block Meta's $2 billion acquisition of Manus, a Singaporean AI startup with Chinese roots.",
+    "t": "סין חוסמת את רכישת Meta של startup ה-AI Manus\n\nסין הודיעה שהיא חוסמת את רכישתה של Meta את Manus תמורת 2 מיליארד דולר, startup בתחום ה-AI מסינגפור בעל שורשים סינים. זו עוד הוכחה לשגעון הגיאופוליטי סביב הטכנולוגיה - סין לא משחררת את השליטה על חברות AI בעלות קשרים סיניים, גם אם הן כבר בחו\"ל. Meta תיצטרך לשכוח מהעסקה הזו ולהמשיך לבנות את יכולות ה-AI שלה בדרך אחרת.\n\nמקור: CNBC Tech",
     "d": "Mon, 27 Apr 2026 09:21:34 GMT",
     "v": 0,
     "l": [
@@ -1085,16 +1053,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 45,
-    "t": "US Navy plans hypersonic Blackbeard weapon tests on Super Hornet jets by 2027\n\nA California startup has secured a major U.S. Navy contract to advance a hypersonic weapon...",
+    "t": "חיל הים האמריקני מתכנן לבדוק את נשק היפרסוניק Blackbeard על מטוסי Super Hornet עד 2027\n\nסטארט-אפ קליפורניאני זכה בחוזה ענק מחיל הים האמריקני לפיתוח נשק היפרסוניק חדש. המטרה היא להטיס את הנשק החדש במטוסי Super Hornet כבר בשנת 2027, בצעד שעשוי לשנות את כושר ההגנה של הצי האמריקני. מדובר בטכנולוגיה צבאית מתקדמת שתאפשר לארה״ב להרחיק את עצמה מיריביה בעולם ההצטיידות הצבאית.",
     "d": "Mon, 27 Apr 2026 09:19:17 +0000",
     "v": 0,
     "l": [
@@ -1117,7 +1084,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 46,
-    "t": "Watch out UK taxpayers: 28,000 HMRC staffers just got an AI copilot\n\nMicrosoft Copilot now heading into ‘Official Sensitive’ work after winning back just 26 minutes a day in a trial HMRC is betting big on Microsoft Copilot, rolling it out to tens of thousands of staff after a Whitehall trial estimated it saved each user roughly 26 minutes of time per day.…",
+    "t": "זהירות משלמי מיסים בבריטניה: 28,000 עובדי מס קיבלו AI copilot\n\nמיקרוסופט משיגרת את Copilot שלה לעבודה רשמית בבריטניה, לאחר שניסיון הראה שהוא חוסך כ-26 דקות ביום לכל עובד במס. הממשלה הבריטית מהמרת על הטכנולוגיה הזו ופורסת אותה ל-28,000 עובדים בהנהלת המסים, בתקווה שיזה יעזור להם להיות יותר פרודוקטיביים בעבודה.",
     "d": "2026-04-27T09:15:14.000Z",
     "v": 0,
     "l": [
@@ -1143,7 +1110,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 47,
-    "t": "Soviet jet dropping 11-kiloton nuclear bomb captured in rare Cold War-era video\n\nRecently, footage has circulated on social media that appears to document one of the most...",
+    "t": "וידאו נדיר מימי המלחמה הקרה: מטוס סובייטי משחרר פצצה גרעינית בעוצמה של 11 קילוטון\n\nסרטון היסטורי שצף לאחרונה ברשתות החברתיות תיעד את אחד הרגעים המדהימים ביותר מתקופת המלחמה הקרה - מטוס סובייטי בעת זריקת ראש גרעיני מסיבי. התצילום הנדיר הזה מראה לנו כיצד נראו בפועל בדיקות גרעיניות של ברית המועצות בתקופה שהייתה הדוקטרינה של הרתעה גרעינית בשיא שלה.",
     "d": "Mon, 27 Apr 2026 09:07:26 +0000",
     "v": 0,
     "l": [
@@ -1166,7 +1133,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 48,
-    "t": "The company with a monopoly on AI's most critical machine is racing to build more\n\nASML plans to significantly increase production of its EUV lithography machines to keep pace with growing demand for AI chips, the Wall Street Journal reports.\nThe article The company with a monopoly on AI's most critical machine is racing to build more appeared first on The Decoder.",
+    "t": "החברה שיש לה מונופול על המכונה הקריטית ביותר של AI משקיעה בהרחבת הייצור\n\nASML, שהיא למעשה שווקת את המכונות החדשות ביותר בעולם לייצור שבבים, מתכננת להגדיל בצורה משמעותית את קיבולת הייצור שלה כדי להתמודד עם הביקוש ההמתנה ל-AI chips. המכונות האלה של EUV lithography הן קריטיות לייצור השבבים הכי חדישים שמחברות כמו Nvidia משתמשות בהם, ובעצם ASML היא בעלת הכוח כאן - היא בעצם המחנק בחוט של כל תעשיית ה-AI.",
     "d": "Mon, 27 Apr 2026 08:58:25 +0000",
     "v": 0,
     "l": [
@@ -1179,17 +1146,20 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
-    "tags": [
-      "news"
+    "co": [
+      "Nvidia"
     ],
-    "imp": "medium",
+    "tags": [
+      "news",
+      "hardware"
+    ],
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 49,
-    "t": "OpenAI reportedly developing its own smartphone chips with MediaTek and Qualcomm\n\nAccording to analyst Ming-Chi Kuo, OpenAI is working with MediaTek and Qualcomm on custom smartphone processors, with Luxshare as the exclusive partner for system design and manufacturing.\nThe article OpenAI reportedly developing its own smartphone chips with MediaTek and Qualcomm appeared first on The Decoder.",
+    "t": "OpenAI מפתחת שבבים משלה לסמארטפונים עם MediaTek ו-Qualcomm\n\nאוקיי, זה די מטורף - OpenAI לא סתם עובדת על AI אלא גם מתכננת שבבי סמארטפון משלה בשיתוף עם MediaTek ו-Qualcomm. לפי האנליסט Ming-Chi Kuo, חברת Luxshare תהיה האחראית על תכנון וייצור הפרוסצסורים המותאמים האלה, וזה נראה כמו צעד של OpenAI להתרחיק מהתלות בשחקנים אחרים בעולם ה-AI.",
     "d": "Mon, 27 Apr 2026 08:55:45 +0000",
     "v": 0,
     "l": [
@@ -1209,13 +1179,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 50,
-    "t": "Meta AI Releases Sapiens2: A High-Resolution Human-Centric Vision Model for Pose, Segmentation, Normals, Pointmap, and Albedo\n\nMeta Reality Labs releases a new foundation model family for human-centric vision that pushes pose estimation, segmentation, and 3D geometry to new state-of-the-art levels — all from a single backbone.\nThe post Meta AI Releases Sapiens2: A High-Resolution Human-Centric Vision Model for Pose, Segmentation, Normals, Pointmap, and Albedo appeared first on MarkTechPost.",
+    "t": "מטא משחררת את Sapiens2: מודל ראייה מתקדם המתמחה בניתוח גופים אנושיים בברזולוציה גבוהה\n\nמעבדות Reality Labs של מטא חשפו מודל ביסוס חדש שמתמקד בחזון הקשור לאדם, ומביא את הערכת ה姿势ה, הפילוח וגיאומטריה 3D לרמות חדשות וחסרות תקדים - הכל מעמוד שדרה אחד. המודל החדש מסוגל לטפל בכמה משימות סיור וניתוח גוף בבת אחת עם דיוק מרשים, דבר שעלול לפתוח דלתות לשימושים חדשים בתחומי AR, VR וביצוע חזיטה דיגיטלית.",
     "d": "Mon, 27 Apr 2026 08:47:20 +0000",
     "v": 0,
     "l": [
@@ -1228,14 +1198,11 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-27-at-1.43.16-AM.png",
     "source": "MarkTechPost"
   },
