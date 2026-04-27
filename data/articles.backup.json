@@ -115382,7 +115382,7 @@
       "author": "Monica J. White",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T09:38:29.671Z",
       "created_at": "2026-04-27T09:38:29.671Z"
     },
@@ -115552,7 +115552,7 @@
       "author": "Mrigakshi Dixit",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T09:38:34.466Z",
       "created_at": "2026-04-27T09:38:34.466Z"
     },
@@ -115640,7 +115640,7 @@
         "AI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T11:26:27.069Z",
       "created_at": "2026-04-27T11:26:27.069Z"
     },
@@ -115667,7 +115667,7 @@
         "web3 gaming"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T11:26:27.104Z",
       "created_at": "2026-04-27T11:26:27.104Z"
     },
@@ -115684,7 +115684,7 @@
       "author": "Tim Stevens",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T11:26:27.116Z",
       "created_at": "2026-04-27T11:26:27.116Z"
     },
@@ -115836,7 +115836,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T11:26:29.780Z",
       "created_at": "2026-04-27T11:26:29.780Z"
     },
@@ -115892,7 +115892,7 @@
       "author": "Ameya Paleja",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T11:26:34.494Z",
       "created_at": "2026-04-27T11:26:34.494Z"
     },
@@ -115909,7 +115909,7 @@
       "author": "Jijo Malayil",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T11:26:34.495Z",
       "created_at": "2026-04-27T11:26:34.495Z"
     },
@@ -115926,7 +115926,7 @@
       "author": "Munis Raza",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T11:26:34.495Z",
       "created_at": "2026-04-27T11:26:34.495Z"
     },
@@ -115945,7 +115945,7 @@
         "3D Printing"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T11:26:34.694Z",
       "created_at": "2026-04-27T11:26:34.694Z"
     },
@@ -115965,7 +115965,7 @@
         "Software"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T11:26:34.694Z",
       "created_at": "2026-04-27T11:26:34.694Z"
     },
@@ -115986,9 +115986,279 @@
         "Operating Systems"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-27T11:26:34.694Z",
       "created_at": "2026-04-27T11:26:34.694Z"
+    },
+    {
+      "id": 5679,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 12:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T13:04:47.477Z",
+      "created_at": "2026-04-27T13:04:47.477Z"
+    },
+    {
+      "id": 5680,
+      "source": "Google AI Blog",
+      "title_en": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+      "description_en": "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp",
+      "pub_date": "Mon, 27 Apr 2026 13:00:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Anant Nawalgaria"
+        ],
+        "title": [
+          "Group Product Manager, Founder of GenAI Intensive"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Google DeepMind",
+        "Developer tools",
+        "Google Cloud",
+        "AI",
+        "Gemini models"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T13:04:47.711Z",
+      "created_at": "2026-04-27T13:04:47.711Z"
+    },
+    {
+      "id": 5681,
+      "source": "OpenAI Blog",
+      "title_en": "The next phase of the Microsoft OpenAI partnership",
+      "description_en": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 06:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Company"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-27T13:04:47.951Z",
+      "created_at": "2026-04-27T13:04:47.951Z"
+    },
+    {
+      "id": 5682,
+      "source": "The Guardian AI",
+      "title_en": "Sadiq Khan may try to stop Scotland Yard signing Palantir contract",
+      "description_en": "Exclusive: Mayor raises concerns about using public money to support firms who act ‘contrary to London’s values’\nThe mayor of London, Sadiq Khan may oppose Scotland Yard using Palantir’s AI systems to process criminal intelligence because of his “concerns about using public money to support firms who act contrary to London’s values”.\nThe mayor of London’s office made the statement after the Guardian revealed last week that Palantir, which works for Donald Trump’s ICE immigration crackdown and Is",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/politics/2026/apr/27/sadiq-khan-may-try-to-stop-scotland-yard-signing-palantir-contract",
+      "image_url": "https://i.guim.co.uk/img/media/e16d41c0deac5248671df06065cf8cf93a6112f5/563_0_5629_4503/master/5629.jpg?width=140&quality=85&auto=format&fit=max&s=dd3b0415d0c03f947e48f309e557dcec",
+      "pub_date": "Mon, 27 Apr 2026 13:03:57 GMT",
+      "author": "Robert Booth UK technology editor",
+      "categories": [
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "London",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/london"
+          }
+        },
+        {
+          "_": "Sadiq Khan",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/sadiq-khan"
+          }
+        },
+        {
+          "_": "Metropolitan police",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/metropolitan-police"
+          }
+        },
+        {
+          "_": "Police",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/police"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Palantir",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/palantir"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T13:04:48.248Z",
+      "created_at": "2026-04-27T13:04:48.248Z"
+    },
+    {
+      "id": 5683,
+      "source": "Interesting Engineering",
+      "title_en": "China develops iron battery 80 times cheaper than lithium that can last 16 years",
+      "description_en": "A research team at the Institute of Metal Research of the Chinese Academy of Sciences...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/new-all-iron-battery-sustains-6000-cycles",
+      "image_url": "https://www.youtube.com/embed/2yArg0fphGI",
+      "pub_date": "Mon, 27 Apr 2026 13:04:15 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T13:04:51.017Z",
+      "created_at": "2026-04-27T13:04:51.017Z"
+    },
+    {
+      "id": 5684,
+      "source": "CNBC Tech",
+      "title_en": "WHCD shooting, DOJ ends Powell probe, Musk vs. Altman and more in Morning Squawk",
+      "description_en": "Here are five key things investors need to know to start the trading day.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/27/5-things-to-know-before-the-market-opens.html",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 12:42:05 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T13:04:51.497Z",
+      "created_at": "2026-04-27T13:04:51.497Z"
+    },
+    {
+      "id": 5685,
+      "source": "CNBC Tech",
+      "title_en": "Qualcomm jumps 12% on report it’s partnering with OpenAI on smartphone AI chip",
+      "description_en": "Qualcomm will be working alongside MediaTek to develop a smartphone chip for OpenAI, with manufacturer Luxshare co-designing the device, an analyst said.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/27/qualcomm-qcom-openai-smartphone-chip-partnership-stock.html",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 12:59:27 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T13:04:51.497Z",
+      "created_at": "2026-04-27T13:04:51.497Z"
+    },
+    {
+      "id": 5686,
+      "source": "CNBC Tech",
+      "title_en": "This bank CEO let his AI clone handle an earnings call — now he's signing an OpenAI deal",
+      "description_en": "It's part of Customers Bank CEO Sam Sidhu's effort to get ahead in the industry's race to transform itself using AI agents as a new digital workforce",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/27/openai-partners-with-customers-bank-in-push-to-automate-finance.html",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 12:12:35 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T13:04:51.497Z",
+      "created_at": "2026-04-27T13:04:51.497Z"
+    },
+    {
+      "id": 5687,
+      "source": "Tom's Hardware",
+      "title_en": "Hacktivists share a guide on making working electronics PCBs made from natural clay with prehistoric technique — ethical hardware tutorial explains how to find clay, stamp 3D printed circuits, paint traces, and fire tablets",
+      "description_en": "Feminist Hackers share a compelling solution for custom PCB-needy DIYers - a hand-made wild clay prehistoric-fired alternative.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/3d-printing/hacktivists-share-a-guide-on-making-working-electronics-pcbs-made-from-natural-clay-with-prehistoric-technique-ethical-hardware-tutorial-explains-how-to-find-clay-stamp-3d-printed-circuits-paint-traces-and-fire-tablets",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/wpadvnmJ8QFqe9DQPeeD74-1280-80.jpg",
+      "pub_date": "Mon, 27 Apr 2026 12:28:10 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "3D Printing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T13:04:51.530Z",
+      "created_at": "2026-04-27T13:04:51.530Z"
+    },
+    {
+      "id": 5688,
+      "source": "Tom's Hardware",
+      "title_en": "TSMC's details next-gen CoWoS roadmap: over 14-reticle packages and 48x leap in compute power expected by 2029 — massive size enables 24 HBM5E stacks and additional memory bandwidth jump",
+      "description_en": "TSMC claims that CoWoS innovations will enable 48x more compute and 34x more memory bandwidth for 2029 AI processors.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmcs-details-next-gen-cowos-roadmap-over-14-reticle-packages-and-48x-leap-in-compute-power-expected-by-2029-massive-size-enables-24-hbm5e-stacks-and-additional-memory-bandwidth-jump",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/5v5TynY3T6qoQvHBybftxE-1280-80.jpg",
+      "pub_date": "Mon, 27 Apr 2026 11:56:06 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T13:04:51.531Z",
+      "created_at": "2026-04-27T13:04:51.531Z"
+    },
+    {
+      "id": 5689,
+      "source": "Tom's Hardware",
+      "title_en": "Save a colossal $1,184 on a 9950X3D2, 64GB DDR5, and a 4TB Samsung SSD for a powerhouse gaming PC build — epic Newegg deal comes with AMD's first dual X3D chip and a flagship Asus ROG board for $2,899",
+      "description_en": "Save nearly $1,200 on a $4,000+ gaming PC build with this Newegg combo deal, featuring the 9950X3D2, flagship Asus ROG Crosshair X870E motherboard, 64GB of G.Skill Ripjaws DDR5 RAM, and a 4TB Samsung 990 Pro SSD.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/save-a-colossal-usd1-184-on-a-9950x3d2-64gb-ddr5-and-a-4tb-samsung-ssd-for-a-powerhouse-gaming-pc-build-epic-newegg-deal-comes-with-amds-first-dual-x3d-chip-and-a-flagship-asus-rog-board-for-usd2-899",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/W9oA44ytWzg24eabyXLN9Q-1280-80.jpg",
+      "pub_date": "Mon, 27 Apr 2026 11:55:29 +0000",
+      "author": " Ben Stockton ",
+      "categories": [
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-27T13:04:51.531Z",
+      "created_at": "2026-04-27T13:04:51.531Z"
     }
   ]
 }
