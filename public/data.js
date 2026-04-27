@@ -2295,7 +2295,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 96,
-    "t": "A domain-adapted large language model to support clinicians in psychiatric clinical practice",
+    "t": "מודל AI גדול מותאם לתחום הפסיכיאטריה לתמיכה בעבודת הקלינicians\n\nחוקרים פיתחו LLM ספציפי שעבר הדרכה על נתונים פסיכיאטריים כדי להבין טוב יותר את האתגרים הייחודיים של הטיפול הנפשי. המודל יכול לעזור לרופאים בעבודה קלינית יומיומית, מהניתוח של מקרים מורכבים ועד להצעת טיפולים מבוססי ראיות. זוהי כל כך דוגמה טובה איך AI מתאימה עצמה לצרכים ספציפיים בתחום הרפואה.",
     "d": "2026-04-27T00:00:00.000Z",
     "v": 0,
     "l": [
@@ -2417,7 +2417,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 101,
-    "t": "How to Build Smarter Multilingual Text Wrapping with BudouX Through Parsing, HTML Rendering, Model Introspection, and Toy Training\n\nIn this tutorial, we explore how we use BudouX to bring intelligent, phrase-aware line breaking to languages where whitespace is not naturally present, such as Japanese, Chinese, and Thai. We begin by setting up the library and working with its default parsers to understand how raw text is segmented into meaningful chunks. We then move […]\nThe post How to Build Smarter Multilingual Text Wrapping with BudouX Through Parsing, HTML Rendering, Model Introspection, and Toy Training appeared first on ",
+    "t": "בניית עטיפת טקסט חכמה וריבות-לשונית עם BudouX דרך Parsing, HTML Rendering ו-Model Training\n\nהטיפ הזה מראה איך משתמשים ב-BudouX כדי להביא שיבוץ שורות ותחכום לשפות שמו ככות כמו יפנית, סינית ותאית, שבהן אין רווחים טבעיים בין מילים. המדריך עובר על הגדרת הספרייה, עבודה עם ה-parsers המובנים שלה להבנת איך הטקסט מתחלק לחלקים משמעותיים, ואז מדבר על כיצד ניתן לשלב את זה ב-HTML ואפילו לטרן מודלים משלך עם training בסיסי.",
     "d": "Sun, 26 Apr 2026 22:58:28 +0000",
     "v": 0,
     "l": [
@@ -2440,7 +2440,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 102,
-    "t": "VIDEO AI ME\n\nDiscussion\n            |\n            Link",
+    "t": "וידאו AI MI\n\nכלי חדש שמאפשר ליצור וידאו באמצעות בינה מלאכותית - נראה שזה עוד כלי בעולם ה-generative video שגדל במהירות. המוצר זה עלה ל-Product Hunt וזה סימן שהקהילה הטכנולוגית שמה עליו עין.",
     "d": "2026-04-26T20:22:53.000Z",
     "v": 0,
     "l": [
@@ -2762,7 +2762,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 116,
-    "t": "Atech\n\nDiscussion\n            |\n            Link",
+    "t": "Atech\n\nנראה שקיבלנו כאן הודעה קצרה מעל פי על משהו שנקרא Atech שפורסם ב-Product Hunt, אבל בלי שום פרטים ממשיים אפשר לא מעריכים בדיוק מה המוצר הזה עושה. אם אתם רוצים לדעת יותר, כנראה שכדאי לכם ללחוץ על הקישור ישירות ל-Product Hunt.",
     "d": "2026-04-26T16:58:14.000Z",
     "v": 0,
     "l": [
@@ -2831,7 +2831,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 119,
-    "t": "Our principles\n\nOur mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
+    "t": "העקרונות שלנו\n\nסם אלטמן מפרסם חמישה עקרונות מנחים שמובילים את ה-AGI שלהם. OpenAI רוצה להבטיח שהטכנולוגיה הזו תעזור לכולנו, ולא רק לקצת אנשים, והם מסבירים בדיוק איך הם מתכננים לעשות את זה.",
     "d": "Sun, 26 Apr 2026 16:00:00 GMT",
     "v": 0,
     "l": [
@@ -2844,9 +2844,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -3535,7 +3538,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 149,
-    "t": "Replyless - Best Superhuman Alternative\n\nDiscussion\n            |\n            Link",
+    "t": "Replyless - החלופה הטובה ביותר ל-Superhuman\n\nכלי חדש שמטרתו לתחרות עם Superhuman ולהציע פתרון מקביל לניהול דוא״ל חכם ביעילות. זו אחת מהחלופות המעניינות שעולות בשנים האחרונות עבור מי שמחפש אוטומציה וAI בתיבת הדוא״ל שלו.",
     "d": "2026-04-26T11:12:50.000Z",
     "v": 0,
     "l": [
@@ -3870,7 +3873,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 163,
-    "t": "Vouch API\n\nDiscussion\n            |\n            Link",
+    "t": "Vouch API\n\nVouch API הוא כלי חדש שעלה לבחינה ב-Product Hunt, שנראה שעוסק בהנגשת API כלשהי לעבודה יותר קלה ופשוטה. לפי התיאור הקצר, יש כאן דיון סביב הפתרון והם מציעים לינק ישיר ללמידה נוספת, אבל פרטים נוספים על מה בדיוק הוא עושה עדיין לא ברורים לחלוטין.",
     "d": "2026-04-26T07:59:29.000Z",
     "v": 0,
     "l": [
@@ -4691,7 +4694,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 198,
-    "t": "Waitlister\n\nDiscussion\n            |\n            Link",
+    "t": "וויטליסטר\n\nנראה שמדובר בכלי חדש שהוצג ב-Product Hunt, אבל פרטים מדויקים על מה בדיוק עושה הוויטליסטר זה קצת מעורפל מההתיאור. אם זה קשור לניהול רשימות המתנה (waitlist), זה יכול להיות כלי שימושי לסטארטאפים או חברות שרוצות לבנות buzz ו-anticipation עבור המוצר שלהם. בכל מקרה, זה עוד דבר מגניב שעלה לאוויר בשוק ה-tech בשבוע הזה!",
     "d": "2026-04-25T14:58:42.000Z",
     "v": 0,
     "l": [
@@ -5537,7 +5540,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 234,
-    "t": "SNEWPapers\n\nDiscussion\n            |\n            Link",
+    "t": "SNEWPapers\n\nנראה שזה כלי חדש שמסייע בניהול ודיון סביב מאמרים ומחקר. אם אתם מחפשים דרך חכמה יותר לעדכן עצמכם בחדשות טכנולוגיה ומדע, זה אולי בדיוק מה שחסם. הידיעה הגיעה דרך Product Hunt, שם תוכלו למצוא קישור ישיר ולהצטרף לדיון.",
     "d": "2026-04-25T09:16:52.000Z",
     "v": 0,
     "l": [
@@ -6666,7 +6669,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 281,
-    "t": "Orange Slice\n\nDiscussion\n            |\n            Link",
+    "t": "Orange Slice\n\nנראה שזה קיצור של עמוד דיון או הודעה על מוצר חדש שהתפרסם ב-Product Hunt. בלי מידע נוסף ברור, קשה להבין בדיוק על מה מדובר, אבל זה כנראה משהו שווה להעיף עליו מבט אם אתה עוקב אחרי חידושים חדשים בעולם הטכנולוגיה.",
     "d": "2026-04-24T17:48:01.000Z",
     "v": 0,
     "l": [
@@ -8490,7 +8493,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 358,
-    "t": "Jet AI Agents\n\nDiscussion\n            |\n            Link",
+    "t": "סוכני AI מסוג Jet\n\nבמה חדשה ב-Product Hunt שמדברת על סוכני AI חכמים שנראה שמטרתם להפוך את אופן עבודתנו עם אפליקציות שונות לקל יותר. זה עוד אחד מהמגמות הגדולות בתחום ה-AI שמנסה לתת לנו עוזרים דיגיטליים שממש מבינים מה אנחנו צריכים. כל סוכן כזה אמור להיות בעל יכולות משלו ולעבוד בצורה עצמאית יותר מ-chatbots רגילים.",
     "d": "2026-04-24T10:56:33.000Z",
     "v": 0,
     "l": [
@@ -8505,8 +8508,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -12625,7 +12627,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 530,
-    "t": "GitBar\n\nDiscussion\n            |\n            Link",
+    "t": "GitBar\n\nכלי חדשה שנראה שמאפשרת לדיוויליפרים לנהל את המחסן שלהם ב-Git בצורה יותר חכמה ויעילה. זה אחד מהפרוייקטים המעניינים שעלו ב-Product Hunt ושווה בדיקה אם אתם עובדים הרבה עם repositories. הקהילה כבר מדברת על זה ויש דיון מעניין סביב התכונות שלה.",
     "d": "2026-04-23T09:24:16.000Z",
     "v": 0,
     "l": [
@@ -23848,7 +23850,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1003,
-    "t": "Logic\n\nDiscussion\n            |\n            Link",
+    "t": "לוגיק\n\nכלי חדש שמופיע ב-Product Hunt שנראה קשור לעולם ה-AI או automation, אם כי הפרטים קצת מעורפלים. נראה שזה משהו שכדאי להביא בעיניים כי Community ב-Product Hunt כבר בדיון על זה. מקור: Product Hunt",
     "d": "2026-04-20T14:31:44.000Z",
     "v": 0,
     "l": [
@@ -113595,7 +113597,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4730,
-    "t": "Wafaa.io\n\nDiscussion\n            |\n            Link",
+    "t": "Wafaa.io\n\nפלטפורמה חדשה שמופיעה ב-Product Hunt שנראה שמציעה פתרון כלשהו לעולם التكנולוגיה, אבל בגלל התיאור המינימליסטי קשה לדעת בדיוק מה בדיוק זה עושה. לכאורה זה משהו שכדאי להעיף עליו מבט אם אתם עוקבים אחרי סטארטאפים חדשים ומעניינים בScenes של Product Hunt.",
     "d": "2026-04-06T20:42:22.000Z",
     "v": 0,
     "l": [
@@ -127184,7 +127186,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5296,
-    "t": "PlayJoob\n\nDiscussion\n            |\n            Link",
+    "t": "PlayJoob\n\nנראה שיש כאן משהו חדש בעולם ההשמה והקריירה. PlayJoob זה כנראה פלטפורמה או כלי שרלוונטי לעולם החיפוש after work או משהו בתחום ה-job market. המוצר הופיע בProduct Hunt, מה שאומר שזה משהו שטכנולוגי וחדיש שראוי לעקוב עליו.",
     "d": "2026-03-31T05:37:51.000Z",
     "v": 0,
     "l": [
