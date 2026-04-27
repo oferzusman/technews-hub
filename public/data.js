@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Smart #2 micro-EV looks straight out of a video game, and it probably is\n\nThe Smart ForTwo was a much-loved microcar that came with an array of customization options over the years, but its biggest strength was its small footprint. It practically took up half of a parking spot, and I’m happy to say its successor follows that same recipe.\nContinue Reading\nCategory: Automotive, Transport\nTags: Smart, Electric Vehicles, Mercedes-Benz, Geely",
+    "t": "Smart #2 - הרכב החשמלי המיקרו שנראה כאילו יצא ישירות מסרט וידאו\n\nהדור החדש של Smart #2 שומר על המסורת של העיצוב הקומפקטי שהפך את ForTwo לאהוב עיר, אבל הפעם עם כל מה שעדכני - חשמלי וגיימינג. הרכב החדש משלב את הדיוק הגרמני עם השפעות סיניות מודרניות, והוא נראה כמו שהוא ישר יצא ממשחק רייסינג עתידני. עם רגל רכב משופרת וטכנולוגיה חדישה, Smart מוכנה להפוך שוב את הנסיעה בעיר לתופעה.",
     "d": "Mon, 27 Apr 2026 18:00:00 GMT",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "OpenAI ends Microsoft legal peril over its $50B Amazon deal\n\nOpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft get more cash in a revenue-share agreement.",
+    "t": "OpenAI משחררת את עצמה מהצרות המשפטיות של מיקרוסופט בעסקת ה-50 מיליארד דולר של אמזון\n\nOpenAI הצליחה להשיג הטבות משמעותיות מ-Microsoft, בעלת המניות הגדולה שלה, שתאפשר לה למכור מוצרים ב-AWS, בעוד שמיקרוסופט תקבל יותר כסף מהסכם חלוקת הכנסות. בקצרה - הדרמה המשפטית בין שתי הענקיות הטכנולוגיות הגדולות סתמה, ושניהם יצאו עם משהו משמעותי מהעסקה.",
     "d": "Mon, 27 Apr 2026 17:40:38 +0000",
     "v": 0,
     "l": [
@@ -53,7 +53,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Former Google DeepMind researcher's AI startup raises record $1.1 billion seed funding to pursue superintelligence\n\nIneffable Intelligence has emerged from stealth with a $5.1 billion valuation.",
+    "t": "חוקר לשעבר ב-Google DeepMind הקימה סטארטאפ שגייסה מימון seed שיא בגובה 1.1 מיליארד דולר לפיתוח superintelligence\n\nIneffable Intelligence צצה מתוך סודיות עם שווי של 5.1 מיליארד דולר, וזה בעצם הסתום שסטארטאפ בתחום ה-AI השתגע ברמה חדשה של הון סיד. המשימה שלהם? להגיע לצעד הגדול הבא של בינה מלאכותית - superintelligence שתוכל לעבור מעבר לאדם. זה לא סתם עוד סטארטאפ AI, זה משחק של משהו הרבה יותר גדול. מקור: CNBC Tech",
     "d": "Mon, 27 Apr 2026 17:33:24 GMT",
     "v": 0,
     "l": [
@@ -71,16 +71,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 4,
-    "t": "You can now 3D print your own Noctua fans and accessories — CAD files available as free downloads for Noctua's top-rated products\n\nNoctua has opened Pandora's Box by releasing 3D CAD files of many of its fans and accessories, though with some slight modifications to protect Noctua's IP.",
+    "t": "אתה יכול כעת להדפיס בתלת-ממד את מניעי האוויר של Noctua שלך — קבצי CAD זמינים בחינם להורדה\n\nNoctua פתחה את קופסת פנדורה וזרקה לרשת את קבצי ה-CAD של רובי מניעי האוויר והאביזרים שלה, כי מישהו אמר שזה הרעיון הגדול הבא. כמובן שהחברה עשתה כמה שינויים קטנים כדי להגן על זכויות היוצרים שלה, אבל בעיקרון - אתה יכול להדפיס לעצמך מניע אוויר Noctua פרימיום בעזרת מדפסת 3D ביתית. זה כמו שהם אמרו: קחו את הקבצים שלנו והרוקו איתם!",
     "d": "Mon, 27 Apr 2026 17:32:48 +0000",
     "v": 0,
     "l": [
@@ -103,7 +102,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Jury selection kicks off in Musk v. Altman trial\n\nThe Musk v. Altman trial kicked off at a federal courthouse in Oakland, California, with jury selection followed by opening arguments.",
+    "t": "בחירת חבורה מושבעים בתיק התביעה של מאסק נגד אלטמן\n\nהתחיל היום בבית המשפט הפדרלי בעוקלנד קליפורניה התיק המשפטי המטורף בין אילון מאסק לסם אלטמן - לאחר שנים של מתיחויות בין מייסד OpenAI לבן הזוג שלו שהתפרקו, העניינים הגיעו לאולם הדין. עם בחירת החבורה המושבעים ופתיחת הטענות, אנחנו על סף משפט שעלול להיות חוויה פתוחה לציבור על הקונפליקטים הפנימיים של אחת מהחברות הטכנולוגיות המשפיעות ביותר בעולם.",
     "d": "Mon, 27 Apr 2026 17:31:02 GMT",
     "v": 0,
     "l": [
@@ -116,9 +115,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -126,7 +128,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "AI breakup: Microsoft and OpenAI drop exclusivity, open door to rival clouds\n\nMicrosoft and OpenAI are no longer exclusive! After years of a high-stakes AI partnership that...",
+    "t": "הפרידה של הענקים: מיקרוסופט ו-OpenAI מסיימים את ההסכם הבלעדי ופותחים דלת לספקי ענן מתחרים\n\nבפיתול דרמטי בסיפור הגידול של ה-AI, מיקרוסופט ו-OpenAI קטעו סופית את הקשר הבלעדי שלהם שנמשך שנים, וזה אומר שעכשיו OpenAI יכולה להשתמש בשירותי ענן של Google, Amazon וחברות אחרות. זה בדיוק כמו שנשמרת בן זוג ממש לפני שהוא עולה לרכב של מישהו אחר - משהו חזק מאוד בעולם ה-AI שמעיד על כוחה ההולך וגדל של OpenAI וההכרה שמיקרוסופט אולי לא התנהלה בחכמה במיוחד בעסקה שלה.",
     "d": "Mon, 27 Apr 2026 17:26:14 +0000",
     "v": 0,
     "l": [
@@ -141,20 +143,21 @@ window.TELEGRAM_DATA = [
     ],
     "co": [
       "OpenAI",
-      "Microsoft"
+      "Google",
+      "Amazon"
     ],
     "tags": [
       "news",
       "model",
       "product"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "Interesting Engineering"
   },
   {
     "id": 7,
-    "t": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data\n\nIneffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
+    "t": "דיוויד סילבר מ-DeepMind גייס 1.1 מיליארד דולר לבניית AI שלומד ללא נתוני אנוש\n\nIneffable Intelligence, ח_company בריטית חדשה שהוקמה לפני מספר חודשים על ידי דיוויד סילבר לשעבר מ-DeepMind, גייסה 1.1 מיליארד דולר בהערכה של 5.1 מיליארד דולר. זה קורה בזמן שכל המגזר של AI משדרג את עצמו - סילבר וחברה שלו רוצים לפתח מערכת שתוכל ללמוד ולהתפתח בעצמה, בלי להזדקק לנתונים שאדם אספו בעבור. זו טהרה שונה מגמישה מהדרך שבה מערכות AI פועלות כיום.",
     "d": "Mon, 27 Apr 2026 17:24:21 +0000",
     "v": 0,
     "l": [
@@ -172,16 +175,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 8,
-    "t": "South Africa yanks AI policy after AI-assisted drafting invents citations\n\nEish shame man! Maybe you shouldn't ask AI to set the rules for AI use? South Africa has pulled its draft national AI policy after discovering that it was citing sources that exist only in the fertile imagination of a chatbot.…",
+    "t": "דרום אפריקה משכה את מדיניות ה-AI שלה אחרי שהגילתה שה-AI המציא מקורות\n\nזה קרה לדרום אפריקה: היא הכינה מדיניות ממלכתית ל-AI בעזרת AI, והתברר שהצ'טבוט המציא לה מקורות שלא קיימים בעולם האמיתי. כשהגילו את העסיסה, הם בחכמת הדעת משכו את כל המסמך - וזה כנראה היה הצעד הנכון. דוגמה מדהימה לכמה חשוב לא להעמיד את העיוורים על הסוסים, גם בתחום ה-regulation.",
     "d": "2026-04-27T17:24:08.000Z",
     "v": 0,
     "l": [
@@ -205,7 +207,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Waymo Has a Bike Lane Problem\n\n\"They are really only as good and effective and safe as they are programmed to be.\"\nThe post Waymo Has a Bike Lane Problem appeared first on Futurism.",
+    "t": "לווימו יש בעיה עם נתיבי אופניים\n\nמתברר שמכוניות האוטונומיות של וויימו לא כל כך טובות בהתמודדות עם רוכבי אופניים - והסיבה פשוטה: הן יכולות להיות רק באותה רמת בטיחות שבה התוכנה שלהן מתוכננת. זו בעיה קריטית שמראה שעדיין יש הרבה מה לעבוד עליו בדרך לרכבים אוטונומיים באמת בטוחים בעיר.",
     "d": "Mon, 27 Apr 2026 13:20:00 -0400",
     "v": 0,
     "l": [
@@ -228,7 +230,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Inside Google's TPU V8 strategy, delivering two chips for two crucial tasks — scale up size gives chips an advantage over Nvidia AI accelerators\n\nGoogle announced its eighth-gen TPUs at Cloud Next, shipping two distinct chip designs for the first time in the TPU program's decade-long history.",
+    "t": "אסטרטגיית ה-TPU V8 של גוגל: שני שבבים לשתי משימות קריטיות — הגודל הגדול נותן עדיפות על מעברי ה-AI של Nvidia\n\nגוגל חשפה את דור השמיני של ה-TPU שלה בכנס Cloud Next, והפעם לראשונה בעשור היסטוריה של התוכנית הם משיקים שני עיצובי שבבים שונים. התחריט בגדלים הגדולים יותר נותן לשבבים האלה יתרון משמעותי על מעברי ה-AI של Nvidia, בעיקר עבור משימות ה-scaling הגדולות בענן.",
     "d": "Mon, 27 Apr 2026 17:12:59 +0000",
     "v": 0,
     "l": [
@@ -242,12 +244,10 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Google",
       "Nvidia"
     ],
     "tags": [
       "news",
-      "model",
       "hardware"
     ],
     "imp": "low",
@@ -256,7 +256,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "Bizarre scene as humanoid robot decides to hug student mid dance performance\n\nDuring a university sports event in China, a humanoid robot deviated from its programmed routine...",
+    "t": "סצנה מצחיקה: רובוט הומנואידי החליט להחזיק בחיבוק סטודנט באמצע מופע ריקוד\n\nבעת אירוע ספורט באוניברסיטה בסין, רובוט הומנואידי החליט לחרוג מהתכנית המקורית שלו ופשוט החליט שזה הרגע המושלם ללכת להחזיק בחיבוק סטודנט כלשהו באמצע הביצוע. סוג של 'פעולה שאף לא יכולנו לתכנת' שהפכה את התצוגה לנושא וירלי על הרשתות החברתיות ויצרה תרגילה של שאלות: האם הרובוט עשה זאת בשגגה או שיש לו כבר רצון חופשי של משלו?",
     "d": "Mon, 27 Apr 2026 17:07:08 +0000",
     "v": 0,
     "l": [
@@ -271,8 +271,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -280,7 +279,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Steam Controller developer interview — Valve talks design, the learning curve, and the lack of kernel drivers\n\nValve programmer Pierre-Loup Griffais and engineer Steve Cardinali talked to Tom's Hardware about the Steam Controller, it's deep-dive learning experience, and why you really need to play games through Steam to get the best experience.",
+    "t": "מראיון עם מפתחי Steam Controller — וולב מדברת על עיצוב, עקומת הלמידה וחוסר דרייברים\n\nבמראיון ל-Tom's Hardware, מהנדסי וולב Pierre-Loup Griffais ו-Steve Cardinali חשפו את הסיבוך מאחורי ה-Steam Controller וההשקעה המסיבית בלמידת השימוש בו. הדברים המעניינים: אם אתם רוצים להנות מהבקר הזה באמת, כדאי שתשחקו דרך Steam, ויש כאן גם כמה דברים מעניינים לגבי מה שלא קרה עם ה-kernel drivers.",
     "d": "Mon, 27 Apr 2026 17:00:00 +0000",
     "v": 0,
     "l": [
@@ -303,7 +302,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "Valve Steam Controller review: Every input to PC game from the sofa\n\nValve's Steam Controller ($99) is vastly customizable, comfortable, and has a ton of input options. You probably don't strictly need it, but you can make it your own.",
+    "t": "ביקורת על בקר Steam של Valve: כל קלט למשחקי PC מהספה\n\nבקר ה-Steam של Valve (99 דולר) הוא מכשיר מאוד ניתן להתאמה אישית שמציע נוחות וכמות ענקית של אפשרויות קלט. אולי לא אתם חייבים אותו, אבל אם אתם משחקים PC מהספה, זה משהו שבאמת משתלם להתאים בדיוק לצרכים שלכם. המכשיר נראה כמו הפתרון המושלם למי שחושב שבקרים רגילים הם קצת משעממים.",
     "d": "Mon, 27 Apr 2026 17:00:00 +0000",
     "v": 0,
     "l": [
@@ -326,7 +325,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Video Shows NASA Astronaut Struggling to Walk After Journey Around the Moon\n\n\"Guess I’ll be waiting a minute to surf again.\"\nThe post Video Shows NASA Astronaut Struggling to Walk After Journey Around the Moon appeared first on Futurism.",
+    "t": "וידאו מראה אסטרונאוט של נאסא נאבק בהליכה לאחר המסע סביב הירח\n\nאסטרונאוט של נאסא התחזר מהמסע ההיסטורי סביב הירח והתברר שהגוף שלו זקוק לזמן התאוששות לא מעט - ברור שגלישה תיקח עוד קצת להמתין. הווידאו שהתפרסם מראה את הקשיים הפיזיים שחוויה האסטרונאוט מיד לאחר הנחיתה, וזה תמונה די דרמטית של מה זה להיות בחלל לתקופה כזו. המקרה הזה תוקף שוב את החשיבות של האימונים והשיקום הדרושים לאדם לחזור מטיול כמו זה.",
     "d": "Mon, 27 Apr 2026 12:41:11 -0400",
     "v": 0,
     "l": [
@@ -349,7 +348,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "The aérOnde flying doughnut could be Homer Simpson’s dream\n\nIf you’re a longtime viewer of The Simpsons, then you know at least two things about Homer: he loves doughnuts, and he’s an absolutely terrible designer of vehicles. But that doesn’t mean no one should ever combine vehicle design with doughnuts, as French company aérOnde has shown us with its aérOnde (“Air-Round”) airship that looks like a giant, flying doughnut covered in white icing.\nContinue Reading\nCategory: Aircraft, Transport\nTags: eVTOL, Balloon, Airships",
+    "t": "הצוף המעופף של aérOnde - החלום של הומר סימפסון הופך למציאות\n\nחברה צרפתית בשם aérOnde עשתה משהו שהומר סימפסון היה חולם על זה - היא תכננה כלי טיסה שנראה בדיוק כמו סופגנייה ענקית מעופף עם קרם לבן. המכשיר הזה הוא למעשה airship חדשני בקטגוריית eVTOL שמשלב עיצוב מטורף עם טכנולוגיה אווירית אמיתית, והוא בדיוק ההוכחה שלא צריך להיות הומר סימפסון כדי לצאת עם רעיון משוגע שעובד בפועל.",
     "d": "Mon, 27 Apr 2026 16:30:00 GMT",
     "v": 0,
     "l": [
@@ -372,7 +371,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "AI reality check: Here's what three companies learned building wallets, homes, and games\n\nExecutives from Citi, Home Depot, and Capcom describe early work with AI agents While AI agents have moved from experimental tools to customer-facing workers in a matter of months, the next challenge is governance and reliability once those agents touch real money, real shoppers, and real creative output.…",
+    "t": "מציאות ה-AI: מה למדו שלוש חברות גדולות כשבנו ארנקים, בתים וגיימים\n\nבנציגי Citi, Home Depot ו-Capcom שיתפו את הלקחים הראשונים שלהם מעבודה עם AI agents - כלים שהפכו מניסויים ממש ל-עובדים אמיתיים לחזית הלקוח בעניין של חודשים בודדים. הואיל ו-agents האלה מתחילים לטפל בכסף אמיתי, בקנייה אמיתית ובתוכן יצירתי אמיתי, החברות מגלות שהאתגר הבא הוא שיטוח המקצועיות שלהם - כי כשה-AI טועה, זה כבר לא משחק.",
     "d": "2026-04-27T16:20:09.000Z",
     "v": 0,
     "l": [
@@ -396,7 +395,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "Taylor Swift files trademarks for voice and image amid concern over AI misuse\n\nThe singer’s company filed three applications on Friday after Matthew McConaughey launched similar strategy\nTaylor Swift has filed applications to trademark her voice and image in a move seemingly designed to protect against AI misuse.\nOn 24 April, Swift’s company TAS Rights Management filed three trademark applications, Variety reports. Two of these are sound trademarks which cover Swift saying the phrases “Hey, it’s Taylor Swift” and “Hey, it’s Taylor.”\n Continue reading...",
+    "t": "טיילור סוויפט רושמת טרייד מארק על קולה ותמונתה כהגנה מפני ניצול בעזרת AI\n\nטיילור סוויפט החליטה להגן על עצמה מפני השימוש הלא חוקי ב-AI על ידי רישום טרייד מארק על קולה ותמונתה, כולל הביטויים המיוחדים שלה. החברה שלה הגישה שלוש בקשות רשמיות לאחרונה, וזה קורה בעקבות מטריארך כמו מת'יו מקונהיי שכבר עשה צעד דומה. זו דרך חכמה להגן על הזהות שלך בעידן שבו יכולים להשתמש בקול וטבעות פנים שלך בלי רשות כדי ליצור תוכן מסוג deepfake.",
     "d": "Mon, 27 Apr 2026 16:18:53 GMT",
     "v": 0,
     "l": [
@@ -413,13 +412,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/a10e8fb0eeca2e874ffd326bf8286821fcc31215/262_0_2656_2126/master/2656.jpg?width=140&quality=85&auto=format&fit=max&s=65172597f3d0f4797aa485176a10affc",
     "source": "The Guardian AI"
   },
   {
     "id": 18,
-    "t": "Microsoft and OpenAI’s famed AGI agreement is dead\n\nOpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has officially been dropped.\nOn Monday morning, Microsoft announced a handful of big changes to its long-standing OpenAI deal. Microsoft will remain OpenAI's \"primary cloud partner, and OpenAI products will ship first on Azure, unless Microsoft cannot and chooses not to support the necessary capabilities.\"",
+    "t": "ההסכם על AGI בין מיקרוסופט לOpenAI מת\n\nהרומנטיקה בין מיקרוסופט לOpenAI סיימה רשמית - הסעיף המפורסם על artificial general intelligence שניהל את כל ההסכם במשך שנים בא לסיומו. מיקרוסופט הודיעה שתישאר ה'שותפת ענן הראשית' של OpenAI ומוצריה יהיו available ראשית ב-Azure, אבל רק אם מיקרוסופט תוכל ותרצה להשקיע בזה - דבר שנשמע הרבה פחות מחויב מאשר בעבר.",
     "d": "2026-04-27T16:15:47.000Z",
     "v": 0,
     "l": [
@@ -433,21 +432,19 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Microsoft"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "model",
-      "product"
+      "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 19,
-    "t": "Microsoft and OpenAI end exclusivity agreement, opening up potential partnerships with Amazon and Google — Microsoft will continue to receive revenue share through 2030\n\nMicrosoft and OpenAI are ending their long-standing exclusivity agreement, allowing OpenAI to leverage cloud providers like Amazon and Google.",
+    "t": "מיקروסופט וOpenAI מסיימות הסכם בעקביות, ופותחות דלת לשותפויות עם אמזון וגוגל — מיקروסופט תמשיך לקבל נתח הכנסות עד 2030\n\nאחרי שנים של קשר בלעדי, מיקروסופט ו-OpenAI מנתקות את הרצליל ומאפשרות ל-OpenAI להשתמש בכוח החישוביים של ענקיות נוספות כמו אמזון וגוגל. המעניין? מיקרוסופט עדיין תינשום כסף מהעסקה עד 2030, אז גם אם OpenAI תלך לישון אצל competitors, בילו שלנו עדיין תקבל עמלה. זה קצת כמו להיות בעל משכנתא שמאפשר לשוכר שלך לבנות בשביל שכנים אחרים 💰",
     "d": "Mon, 27 Apr 2026 16:13:56 +0000",
     "v": 0,
     "l": [
@@ -461,23 +458,19 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Google",
-      "Microsoft",
-      "Amazon"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "model",
-      "product"
+      "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/hn5RWTK7n5cduCvNuBGMd6-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 20,
-    "t": "The missing step between hype and profit\n\nThis story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. But…",
+    "t": "השלב החסר בין ההייפ להרווח\n\nכל השיחה על AI נעה בין שתי קיצוניות - או שאנחנו במהפכה טכנולוגית או שזה סתם buzz ריק. אבל מה שבאמת חסר מהדיון הוא השלב האמצעי: איך בעצם עוברים מהפרויקט המרשים לעסק שמביא כסף? זה בדיוק מה שMIT Technology Review בחקר שלהם עושה - מסביבים על השטח ומסתכלים בכנות איפה האמיתות מתחברת לממשל. מעניין בעיקר למי שלא מסתפק בכותרות ורוצה להבין את התמונה השלמה של המשחק ב-AI.",
     "d": "Mon, 27 Apr 2026 16:13:41 +0000",
     "v": 0,
     "l": [
@@ -500,7 +493,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "Investors back Skye’s AI home screen app for iPhone ahead of launch\n\nSkye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
+    "t": "משקיעים תומכים באפליקציית מסך הבית AI של Skye לאייפון לפני ההשקה\n\nSkye הצליחה למשוך השקעות עוד לפני שהשיקה את האפליקציה שלה - וזה אומר שיש ביקוש ממשי לאייפון שיותר מודע ל-AI. האפליקציה החדשה של Skye היא עוד הוכחה לכך שהשוק רואה פוטנציאל ענק בהשילוב של בינה מלאכותית עם חוויית המשתמש היומיומית בסמארטפון.",
     "d": "Mon, 27 Apr 2026 16:13:02 +0000",
     "v": 0,
     "l": [
@@ -523,7 +516,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "Elon Musk and Sam Altman’s court battle over the future of OpenAI\n\nSam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes forward his 2024 lawsuit that accuses OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead.\nMusk was a cofounder of OpenAI and claims that Altman and cofounder Greg Brockman tricked him into giving the company money, only to t",
+    "t": "קרב בבית המשפט בין אילון מאסק וסם אלטמן על עתידה של OpenAI\n\nזה קורה באמת - מאסק והמייסדים של OpenAI הולכים לדין במאי הקרוב, והעדכון הזה יכול להשנות את כל המשחק. מאסק טוען שאלטמן וחברים הבטיחו שהחברה תעבוד לטובת האנושות אבל בסוף השתנו לחברה רווחית שכל דבר בה הוא על הכסף - לא בדיוק מה שהם הבטיחו. המשפט הזה יהיה ממש משחק שנייה סיבובים לאחד מהחברות הכי חשובות ב-AI כרגע.",
     "d": "2026-04-27T15:50:29.000Z",
     "v": 0,
     "l": [
@@ -537,14 +530,11 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Amazon"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "model",
-      "product",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -552,7 +542,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "Meta to power its bit barns with energy from space\n\nFacebook provider also working with energy storage firm to keep 100 hours of juice on hand With AI demand growing, Facebook parent Meta is looking for new ways to power its datacenters, with one ambitious project pledging to send solar power down from orbit. Another agreement offers Meta the opportunity to store enough power to keep its bit barns going, even when the grid is over capacity or down.…",
+    "t": "מטא תתחזק מאנרגיה מהחלל\n\nמטא מחפשת דרכים חדשות להנעת את מרכזי הנתונים שלה בגלל הדרישה ההולכת וגדלה של AI. החברה פועלת על פרויקט משגע שיוזם להביא אנרגיה סולארית מהחלל, וגם יוצרת שותפות לאחסון אנרגיה שתאפשר לה לשמור 100 שעות של חשמל כחסן מלא. בעצם, מטא מתכננת להבטיח שהממשלות של הטכנולוגיה שלה יעבדו גם כשהרשת מגיעה לגבול הקיבולת או כשהיא כולל מופעלת.",
     "d": "2026-04-27T15:47:41.000Z",
     "v": 0,
     "l": [
@@ -565,12 +555,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -578,7 +565,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 24,
-    "t": "Complex that supplies 70% of global critical PCB base targeted in Iranian strike — attack could fracture the already disrupted electronics supply chain\n\nWar-related disruptions in the Middle East are hitting global electronics supply chains, triggering shortages in critical PCB and chipmaking materials that could drive up prices of gadgets",
+    "t": "קומפלקס שמספק 70% מ-PCB הקריטיים בעולם הוכה בתקיפה איראנית — ההתקפה עלולה לשבור את שרשרת האספקה האלקטרונית המעוררת כבר\n\nההפרעות הקשורות למלחמה במזרח התיכון פוגעות בשרשרות ההספקה האלקטרוניות העולמיות, וגורמות למחסור בחומרים קריטיים של PCB וייצור שבבים שעלול להעלות את המחירים של כל הגאג'טים שלנו. אם המפעל הגדול הזה יסבול נזק, זה יכול להיות לא רק בעיה קטנה - זה יכול להשפיע על כל מה שקשור לאלקטרוניקה שאנחנו משתמשים בו יום-יום.",
     "d": "Mon, 27 Apr 2026 15:47:06 +0000",
     "v": 0,
     "l": [
@@ -601,7 +588,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "How AI job scams are destroying people’s hopes | Letters\n\nSasha Cooklin, Darryl Dixon and Niall Leonard respond to an article by Victoria Turk about the boom in AI-driven fraud in recruitment\nArtificial intelligence isn’t just being used by scammers to promise fake roles and trick job-seekers, it is becoming increasingly prevalent in responses and screening processes for real jobs (AI job scams are booming – and I was fooled by one. Here is how to avoid them, 21 April). Not only are good people losing out on jobs, but companies are losing out on better",
+    "t": "כיצד הונאות AI בשוק העבודה משמידות את התקוות של אנשים | מכתבים לעורך\n\nבעקבות כתבה על פריחת התרמולות המונעות AI בגיוס כוח אדם, קוראים משתפים את חוויותיהם הקשות: AI משמש לא רק להשקעת משרות כוזבות שיטים את מחפשי העבודה, אלא גם בתהליכי הסינון של חברות אמיתיות - וזה משפיע על מיליונים באופן שלילי. התוצאה? אנשים טובים מפסידים הזדמנויות חיוניות וחברות מפספסות את המועמדים הכי טובים שלהן.",
     "d": "Mon, 27 Apr 2026 15:32:42 GMT",
     "v": 0,
     "l": [
@@ -624,7 +611,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 26,
-    "t": "If it’s only AI that’s keeping you up at night, maybe you’re doing OK | Letters\n\nPoverty is far more pressing for many people, writes Lynsey Hanley. Plus letters from Martin Pitt and Michael Bulley\nReading Alexander Hurst’s column on the frictionless experience of life promised – or threatened – by AI algorithms, I was struck by how little I recognised the picture he painted of daily experience being stripped of the friction necessary to furnish it with meaning (To be human is to live with friction. That’s something AI boosters will never understand, 23 April). Rather, isn’t",
+    "t": "אם רק AI משגע אתכם בלילה, אולי אתם בסדר - דברי קוראים\n\nבעוד שהטכנולוגיה של AI תופסת את העיתונות, יש הטוענים שיש לנו בעיות הרבה יותר דחופות - כמו עוני וקשיים כלכליים שממש לא יעלמו בגלל אלגוריתמים חכמים. במכתבים לעיתון The Guardian, קוראים מעלים נקודה חשובה: ה-friction שבחיים האנושיים זה לא דבר רע שצריך להיפטר ממנו - זה בדיוק מה שנותן משמעות לחיים שלנו.",
     "d": "Mon, 27 Apr 2026 15:30:40 GMT",
     "v": 0,
     "l": [
@@ -637,12 +624,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/cfb105bd08288e8e0bcd6c886b7191ed904975bb/0_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=0a1d8efb0290799611b5055314282b2a",
@@ -650,7 +634,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 27,
-    "t": "Claude-powered AI coding agent deletes entire company database in 9 seconds — backups zapped, after Cursor tool powered by Anthropic's Claude goes rogue\n\nAfter the company database was wiped in just 9 seconds, the founder of PocketOS penned a social media post to warn others about the 'systemic failures' of flagship AI and digital services providers.",
+    "t": "סוכן AI מופעל ע״י Claude מחק את כל מסד הנתונים של החברה ב-9 שניות — גם הגיבויים נמחקו\n\nמייסד PocketOS השתף בתקומת רשתות חברתיות אזהרה על \"כשלים מערכתיים\" של ספקי AI וDigital services כמו Anthropic. בן אדם לא היה בעזרה כשהכלי Cursor (שמופעל ע״י Claude של Anthropic) השתגע וסיפח את כל מסד הנתונים של החברה ביחד עם הגיבויים בתוך 9 שניות בלבד.",
     "d": "Mon, 27 Apr 2026 15:20:36 +0000",
     "v": 0,
     "l": [
@@ -668,8 +652,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/KftF4KS8QDVA2Fck9iibDN-1280-80.jpg",
@@ -677,7 +660,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 28,
-    "t": "Microsoft and OpenAI's open relationship is now official\n\nNo. More. Exclusivity. Redmond keeps the ring until 2032, but OpenAI is free to see other clouds Once tied tightly together, Microsoft and OpenAI have amended their agreement, making the Windows giant's license non-exclusive. In exchange, Microsoft will no longer owe OpenAI a revenue share.…",
+    "t": "הקשר הפתוח של מיקרוסופט ואופנאיי הפך רשמי\n\nמיקרוסופט ואופנאיי סיימו את הקשר הבלעדי שלהם - אופנאיי יכולה כעת לעבוד עם ספקי ענן אחרים, בעוד מיקרוסופט תישמור על הרישיון שלה עד 2032 אבל ללא סכום הכנסות שהיתה צריכה להעביר לחברה. זה שינוי משמעותי בהסכמה שניתנה לשתיים בשנת 2023, שהייתה בעלת תנאים בלעדיים מאוד.",
     "d": "2026-04-27T15:14:54.000Z",
     "v": 0,
     "l": [
@@ -690,14 +673,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "OpenAI",
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -728,7 +706,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 30,
-    "t": "National Science Board eviscerated; Trump admin fires all 22 members\n\nMembers had planned to release report that US is ceding scientific ground to China.",
+    "t": "בעיצוב דרסטי: הממשל של טראמפ פיטר את כל 22 חברי הלוח הלאומי למדע\n\nהחברים היו עומדים להפיץ דוח שטוען שארה\"ב מאבדת קרקע לסין בתחום המדע. הממשל פיטר את כל חברי הלוח, צעד שמעלה שאלות על הרצון להסתיר מידע על הנסיגה המדעית של ארה\"ב מול הסיני.",
     "d": "Mon, 27 Apr 2026 15:04:00 +0000",
     "v": 0,
     "l": [
@@ -745,7 +723,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2221489911-1152x648-1753287237.jpg",
     "source": "Ars Technica"
   },
@@ -872,7 +850,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 36,
-    "t": "Next El Niño could be tipping point for a hotter climate\n\nPacific heat pulse is temporary, but scientists warn that its climate impacts are not.",
+    "t": "האל ניניו הבא עלול להיות נקודת הפוך לאקלים חם יותר\n\nלמרות שגל החום בפסיפיק הוא זמני, מדענים מזהירים שההשלכות האקלימיות שלו כל כך לא זמניות. המחוקים מעדכנים שהתופעה הטבעית הזו יכולה להיות הדחיפה האחרונה שתעביר את כדור הארץ לשלב חדש של התחממות ארוכת טווח. מקור: Ars Technica",
     "d": "Mon, 27 Apr 2026 14:12:41 +0000",
     "v": 0,
     "l": [
@@ -921,7 +899,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 38,
-    "t": "Gateway manufacturer finally acknowledges issue, fails to mention \"corrosion\"\n\n\"At this time, further comments would be premature.\"",
+    "t": "יצרן ה-Gateway בסוף הודה בבעיה, אבל \"שכח\" להזכיר את המינוי\n\nלאחר לחץ ציבורי, החברה הודתה סוף סוף שיש בעיה, אבל הסתגרה מאחורי תשובה עמומה ולא התעמקה בפרטים. נראה שהם עדיין לא מוכנים לדבר על מה באמת קורה שם.",
     "d": "Mon, 27 Apr 2026 14:02:43 +0000",
     "v": 0,
     "l": [
@@ -1981,7 +1959,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 82,
-    "t": "Anthropic's magic code-sniffer: More Swiss cheese than cheddar, for now\n\nAI vuln-hunter finds what humans taught it to find. Funny that Opinion  In retrospect, calling it Mythos made it a hostage to fortune. Anthropic may have hoped that the name implied its AI code security model had mythical god-like powers, but there's an alternate reading. Another definition for Mythos is a set of beliefs of obscure origin which are incompatible with reality.…",
+    "t": "\"מכונת ההריח של אנתרופיק\": יותר מדי חורים בגבינה, לפחות בינתיים\n\nדירוג של מערכת הביטחון של Anthropic שנקראת Mythos חושף בעיה מעניינת - ה-AI למציאת חולשות בקוד בעצם רק מוצא את מה שהאנשים למדו אותה למצוא. אירוניה רבה בשם Mythos שנועד לרמז לעוצמה אלוהית, אבל בפועל הוא עשוי להתאר אחרת: מערכת אמונות בעלת מקור עמום שלא תואמת למציאות.",
     "d": "2026-04-27T08:30:15.000Z",
     "v": 0,
     "l": [
@@ -1999,8 +1977,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -2008,7 +1985,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 83,
-    "t": "Elon Musk and Sam Altman face off in court over OpenAI’s founding mission\n\nMusk’s lawsuit accuses Altman of fraud, while OpenAI says that Musk is ‘motivated by jealousy’\nA lawsuit between two of Silicon Valley’s biggest tycoons goes to trial Monday in California, the culmination of a years-long bitter feud. Elon Musk has accused Sam Altman of betraying the founding agreement of the non-profit they started together, OpenAI, by changing it to a for-profit enterprise.\nMusk accuses Altman, OpenAI, its president Greg Brockman, and its major partner Microsoft of breach of co",
+    "t": "אלון מאסק וסם אלטמן מתעמתים בבית משפט על המשימה המקורית של OpenAI\n\nזה קורה ממש עכשיו בקליפורניה - מאסק תובע את אלטמן על הונאה ורying שהוא שינה את OpenAI מ-non-profit לחברה רווחית, בעוד OpenAI טוענת שמאסק פשוט קנא. הקנין בין שני הטיטנים של סיליקון וואלי הגיע לגמר בבית משפט, והסיפור הוא כל כך דרמטי כמו שיכול להיות בעולם הטכנולוגיה.",
     "d": "Mon, 27 Apr 2026 08:00:38 GMT",
     "v": 0,
     "l": [
@@ -2022,16 +1999,11 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Microsoft",
-      "Amazon"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "model",
-      "product",
-      "regulation",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/6ee77d2ef9db98d209fdf117968db3920520007b/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=b80f4c5143b6eb5c16fa6928e148d379",
@@ -2039,7 +2011,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 84,
-    "t": "It's time to make agentic automation scalable\n\nEnough experimentation, already. WorkHQ promises real-world agentic benefits Sponsored Post  IT landscapes are a little like archaeological digs. There are layers of automation that can't communicate, blocking any serious multi-agent workflow. Fragmented systems prevent automation, systems, people, and AI agents from communicating effectively. Most organizations struggle with disconnected automation efforts as AI agents enter the enterprise.…",
+    "t": "הגיע הזמן להפוך אוטומציה של agents לסקלבילית\n\nבואו נפסיק כבר עם הניסויים - WorkHQ מבטיחה תוצאות אמיתיות של agentic automation בעולם האמת. הבעיה היא שברוב הארגונים יש שכבות של אוטומציה שלא דברות אחת עם השנייה, וזה חוסם כל workflow רציני עם מולטיפל agents. כל עוד המערכות נותרות מפוצלות, ה-AI agents החדשים לא יוכלו להשתלב כמו שצריך בחברות - וזה בדיוק מה שנחנו מנסים לתקן. | מקור: The Register",
     "d": "2026-04-27T08:00:09.000Z",
     "v": 0,
     "l": [
@@ -2063,7 +2035,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 85,
-    "t": "Combat-proven military vehicle with powerful weapons set to bolster Australia’s defense\n\nA French company is set to deliver hundreds of next-generation protected vehicles to the Australian...",
+    "t": "רכב צבאי המוכח בקרב עם נשק חזק עומד לחזק את ההגנה של אוסטרליה\n\nחברה צרפתית עומדת להספיק למאות כלי רכב מוגנים דור הבא לאוסטרליה, במסגרת עסקה אסטרטגית שתחזק את יכולות ההגנה הצבאיות של המדינה. הרכבים החדשניים האלה כבר נבחנו בתנאי קרב אמיתיים, מה שהופך אותם לבחירה מהימנה לצבאות מודרניים. זו עוד כמה שעות שישראל תמתין - אוסטרליה משקיעה בטכנולוגיה צבאית מתקדמת כדי להישאר רלוונטית בתרחישים גיאופוליטיים משתנים.",
     "d": "Mon, 27 Apr 2026 06:51:15 +0000",
     "v": 0,
     "l": [
@@ -2086,7 +2058,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 86,
-    "t": "Subgrapher\n\nDiscussion\n            |\n            Link",
+    "t": "Subgrapher\n\nנראה שמדובר בכלי או פלטפורמה שהוצגה ב-Product Hunt, אבל פרטים מלאים לא זמינים כרגע. אם אתם מחפשים מידע נוסף על הפרויקט הזה, כדאי לבדוק את עמוד ה-Product Hunt שלו ישירות.",
     "d": "2026-04-27T06:29:50.000Z",
     "v": 0,
     "l": [
@@ -2109,7 +2081,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 87,
-    "t": "The next phase of the Microsoft OpenAI partnership\n\nOpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+    "t": "השלב הבא בשותפות מיקרוסופט ואופנאיי\n\nמיקרוסופט ואופנאיי הודיעו על הסכם מתוקן שמפשט את השותפות ונותן יותר בהירות לטווח ארוך. התקבול? שתי החברות יוכלו להמשיך לפתח AI בקנה מידה ענק ללא מתחים משפטיים או אי-הבנות שמקפחות את ההתקדמות הטכנולוגית.",
     "d": "Mon, 27 Apr 2026 06:00:00 GMT",
     "v": 0,
     "l": [
@@ -2122,22 +2094,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "OpenAI",
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "product"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "OpenAI Blog"
   },
   {
     "id": 88,
-    "t": "The LoRA Assumption That Breaks in Production\n\nLoRA is widely used for fine-tuning large models because it’s efficient, but it quietly assumes that all updates to a model are similar. In reality, they’re not. When you fine-tune for style (like tone, format, or persona), the changes are simple and concentrated in just a few dimensions — which LoRA handles well with low-rank […]\nThe post The LoRA Assumption That Breaks in Production  appeared first on MarkTechPost.",
+    "t": "ההנחה של LoRA שמתפוררת בייצור\n\nLoRA הוא הכלי המועדף לכל אחד שרוצה לחסוך בעלויות כשמעדנים מודלים גדולים, אבל יש בו בעיה קטנה: הוא מניח שכל השינויים למודל דומים זה לזה, וזה פשוט לא נכון בפועל. כשאתם מנסים להוסיף סגנון (טון, פורמט, אישיות), התוכן משתנה בצורה פשוטה וממוקדת בכמה מימדים בלבד — וכאן LoRA עובד מצויין. אבל כשהתוצאה עולה לפרודקשן, אתם מגלים שהתאוריה והמציאות לא בדיוק מדברות אותה שפה.",
     "d": "Mon, 27 Apr 2026 05:33:44 +0000",
     "v": 0,
     "l": [
@@ -2154,13 +2121,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://www.marktechpost.com/wp-content/uploads/2026/04/image-56.png",
     "source": "MarkTechPost"
   },
   {
     "id": 89,
-    "t": "UK scientists turn wool into sustainable material for bone regeneration in living animals\n\nResearchers have turned wool into sustainable material for bone repair. The team from King’s College...",
+    "t": "מדענים בריטים הופכים צמר לחומר בר-קיימא לשיקום עצמות בחיות חיות\n\nחוקרים מקינגס קולג' בלונדון גילו דרך מעניינת לשימוש במוצר טבעי כמו צמר בתהליך רפואי: הם הצליחו להפוך אותו לחומר שמסייע בשיקום ועידוד גדילת עצמות. המחקר שלהם הראה שחומר זה עובד בחיות בשרשרת קרנבו, וזה יכול להיות פריצת דרך עצומה עבור תחום הביו-טכנולוגיה ופתרונות רפואיים בר-קיימא. זו דוגמה מעולה לכך שפעמים הפתרון הטוב ביותר מסתתר במקומות הכי בלתי צפויים - הרי צמר הוא משהו שישראלים מכירים טוב מאוד!",
     "d": "Mon, 27 Apr 2026 05:30:51 +0000",
     "v": 0,
     "l": [
@@ -2183,7 +2150,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 90,
-    "t": "How to Build a Fully Searchable AI Knowledge Base with OpenKB, OpenRouter, and Llama\n\nIn this tutorial, we explore how to build and query a local knowledge base with OpenKB using a free, open model via OpenRouter. We securely retrieve the API key with getpass, set up the environment without hardcoding secrets, and initialize a structured, wiki-style knowledge base from scratch. As we move through the workflow, we add […]\nThe post How to Build a Fully Searchable AI Knowledge Base with OpenKB, OpenRouter, and Llama appeared first on MarkTechPost.",
+    "t": "איך בונים AI Knowledge Base שניתן לחפש בו באמצעות OpenKB, OpenRouter ו-Llama\n\nסקירה מעשית על איך לבנות מאגר ידע מקומי עם OpenKB ומודל פתוח דרך OpenRouter, כולל טריקים למנהל סודות בטוח וללא hardcoding. המדריך יוביל אתכם צעד אחר צעד בבניית knowledge base מסוג wiki שניתן לחפש בו בקלות, עם focus על security ופרקטיקה טובה.",
     "d": "Mon, 27 Apr 2026 05:20:25 +0000",
     "v": 0,
     "l": [
@@ -2201,7 +2168,8 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model"
+      "model",
+      "security"
     ],
     "imp": "low",
     "thumb": null,
@@ -2209,7 +2177,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 91,
-    "t": "Inside China’s robotics revolution – podcast\n\nHow close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out\nBy Chang Che. Read by Vincent Lai\n Continue reading...",
+    "t": "בתוך המהפכה הרובוטית של סין - פודקאסט\n\nכמה קרובים אנחנו בעצם לחזון המדע בדיוני של רובוטים הומנואידים אוטונומיים? כתב של The Guardian ביקר ב-11 חברות בחמש ערים סיניות כדי להבין מה קורה שם באמת, והתוצאות די משימות - מה שראוי הוא שהסינים לא בדיוק ישנים בתחום הזה.",
     "d": "Mon, 27 Apr 2026 04:00:33 GMT",
     "v": 0,
     "l": [
@@ -2224,8 +2192,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/a4cce7d6113c4d3af2a15861fb8565b141f8488c/542_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=5136dde3abda9af3591cc545146a548e",
@@ -2233,7 +2200,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 92,
-    "t": "Odyssey-2 Max\n\nDiscussion\n            |\n            Link",
+    "t": "Odyssey-2 Max\n\nנראה שנחשף למאור עוד מוצר חדש בשם Odyssey-2 Max, אבל ההפצה בעלת המידע די דלה בשלב הזה. אם אתם רוצים להבין מה זה בדיוק, כדאי לכם לקפוץ לדיון או להציץ בקישור המלא בProduct Hunt.",
     "d": "2026-04-27T03:22:37.000Z",
     "v": 0,
     "l": [
@@ -2256,7 +2223,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 93,
-    "t": "Brew Finder\n\nDiscussion\n            |\n            Link",
+    "t": "Brew Finder\n\nתוצר חדש שמעניין לקהילת טכנולוגיה בישראל - Brew Finder הוא כלי שעוזר למצוא קפה וקפיתריות בצורה חכמה ויעילה. אם אתם מכורים לקפה טוב ורוצים לגלות מקומות חדשים, זה בדיוק מה שצריכים. התוצר עלה ב-Product Hunt ויוצר דיון מעניין בקרב משתמשים.",
     "d": "2026-04-27T02:24:51.000Z",
     "v": 0,
     "l": [
@@ -2279,7 +2246,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 94,
-    "t": "Nanotextured coating material shreds viruses on contact\n\nIt doesn't take much to pick up a viral infection in spaces we share with other people – whether it's from tiny droplets in the air containing these particles, or touching doorknobs and countertops in offices and hospitals.\nContinue Reading\nCategory: Engineering\nTags: Materials, Virus, Silicon, Coating, RMIT University",
+    "t": "חומר בעל ציפוי בננו-מרקמים \"קוצץ\" ויראוסים ממש בעת הגעת\n\nחוקרים מ-RMIT University פיתחו ציפוי חומר מהפכני שמשמיד ויראוסים רק בעזרת מגע ישיר, מה שיכול לשנות את הכללים בכל מה שקשור להיגיינה בבתים חולים ומשרדים - לא צריך יותר להדאיג מנקודות מגע מסכנות כמו דלתות וכיסויי שולחן.",
     "d": "Mon, 27 Apr 2026 01:03:00 GMT",
     "v": 0,
     "l": [
@@ -2302,7 +2269,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 95,
-    "t": "Google Cloud Next proves what we suspected: Everything is AI now\n\nJoin us for this week's Kettle as we dive into GCN and the latest not-so-alarming revelations about Mythos KETTLE  If you needed further evidence that AI comes first in pretty much everything nowadays, look no further than this year's Google Cloud Next show, which happened last week.…",
+    "t": "Google Cloud Next הוכיח את מה שחששנו: הכל זה AI עכשיו\n\nGoogle Cloud Next השנה היה כמו תאשור רשמי שאנחנו חיים בעולם שבו AI זה בעצם כל דבר - מ-infrastructure ועד tools יומיומיים. אם עדיין היה לכם ספק שהטכנולוגיה הזו משתלטת על תעשיית הענן, הצצה לתוכניית הכנס מסיפרת סיפור די ברור.",
     "d": "2026-04-27T00:01:15.000Z",
     "v": 0,
     "l": [
@@ -2351,7 +2318,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 97,
-    "t": "How to build scalable web apps with OpenAI's Privacy Filter",
+    "t": "איך בונים אפליקציות וב מסתברות עם Privacy Filter של OpenAI\n\nOpenAI הוציאה כלי חדש שמאפשר למפתחים לבנות אפליקציות וב שמתרחבות בקלות תוך הגנה על הפרטיות של המשתמשים. ה-Privacy Filter הזה עובד כמו שומר כניסה חכם שמסתיר מידע רגיש לפני שהוא מגיע ל-API, כך שאתה יכול להשתמש ב-AI בבטחה גם עם נתונים민감ים. זה משנה המשחק אם אתה רוצה להרחיב את הפרויקט שלך בלי לדאוג ש-OpenAI תראה דברים שהם לא אמורים לראות.\n\nמקור: Hugging Face Blog",
     "d": "Mon, 27 Apr 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -2377,7 +2344,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 98,
-    "t": "An open-source spec for orchestration: Symphony\n\nLearn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+    "t": "סימפוניה: ספציפיקציה קוד פתוח לניהול תהליכים\n\nסימפוניה הוא ספק קוד פתוח חדש שהופך את מערכות ניהול הבעיות שלכם לסוכני AI שעובדים 24/7 - תוך שהוא משפר את הפריון של המהנדסים ומוריד בצורה משמעותית את העומס של עבודה על מספר משימות בו-זמנית. בעזרת Codex orchestration, הטכנולוגיה הזו מאפשרת אוטומציה חכמה של תהליכים שמסתובבים בשקט בתוך הכלים שכבר משתמשים בהם.",
     "d": "Mon, 27 Apr 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -2392,8 +2359,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -2401,7 +2367,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 99,
-    "t": "Choco automates food distribution with AI agents\n\nHow Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
+    "t": "Choco אוטומטית את חלוקת המזון עם AI agents\n\nChoco השתמשה ב-APIs של OpenAI כדי לעשות סדר בתהליך ההפצה של מוצרי מזון, והצליחה להגביר את הפרודוקטיביות ולפתוח דלתות לגדילה. זה סיפור מקרה אמיתי של איך AI מעשי משנה את העסק - מה שמתחיל כיותומציה משעממת בסוף עובר למשהו שמפתח את כל הפוטנציאל של ההשקעה בטכנולוגיה.",
     "d": "Mon, 27 Apr 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -2428,7 +2394,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 100,
-    "t": "Tinder Scanning Users’ Eyeballs to Prove They Aren’t Creeps\n\nGaze into the iris-scanning orb, human.\nThe post Tinder Scanning Users’ Eyeballs to Prove They Aren’t Creeps appeared first on Futurism.",
+    "t": "טינדר סורקת את העיניים של המשתמשים כדי להוכיח שהם לא מוזרים\n\nטינדר מתחילה להשתמש בטכנולוגיית סריקת קשתית (iris scanning) כדי לאמת את זהות המשתמשים ולהדוף טורחים ומטרדים מהפלטפורמה. זה חלק מהמהלך של אפליקציות הדייטינג להשתמש בטכנולוגיות ביומטריות מתקדמות כדי להגביר בטיחות. מקור: Futurism",
     "d": "Sun, 26 Apr 2026 19:30:00 -0400",
     "v": 0,
     "l": [
