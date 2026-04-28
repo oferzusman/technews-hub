@@ -118078,15 +118078,15 @@
       "source": "The Verge AI",
       "title_en": "Google is testing AI chatbot search for YouTube",
       "description_en": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for. The \"experiment\" is now available if you're a YouTube Premium subscriber in the US who is 18 or older.\nI turned it on for my account. Now, in the search bar, I see an \"Ask YouTube\" button, and clicking the search bar shows p",
-      "title_he": "גוגל בוחנת חוויית חיפוש עם AI chatbot ב-YouTube",
-      "description_he": "גוגל משיקה נסיון חדש שמאפשר חיפוש ב-YouTube כמו שיחה עם בן שיח חכם - התוצאות כוללות סרטונים ארוכים, Shorts ותוכן טקסט רלוונטי. הפיצ'ר הזה זמין כרגע רק למנויי YouTube Premium בארה\"ב מעל גיל 18, כאשר כפתור \"Ask YouTube\" חדש מופיע בשורת החיפוש.",
+      "title_he": null,
+      "description_he": null,
       "link": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
       "image_url": null,
       "pub_date": "2026-04-28T00:01:54.000Z",
       "author": "Jay Peters",
       "categories": [],
-      "translated": true,
-      "priority": "hot",
+      "translated": false,
+      "priority": "batch",
       "fetchedAt": "2026-04-28T01:19:37.992Z",
       "created_at": "2026-04-28T01:19:37.992Z"
     },
@@ -118095,8 +118095,8 @@
       "source": "Ars Technica",
       "title_en": "Put it in pencil: NASA's Artemis III mission will launch no earlier than late 2027",
       "description_en": "SpaceX and Blue Origin tell NASA their lunar landers will be ready for Artemis III in late 2027.",
-      "title_he": "בעיפרון בלבד: משימת ארטמיס III של נאס\"א תשוגר לא לפני סוף 2027",
-      "description_he": "SpaceX וBlue Origin הודיעו לנאס\"א שנחתתי הירח שלהם יהיו מוכנים למשימת ארטמיס III בסוף 2027. זו בעצם דחיית משמעותית מהלוחות הזמנים המקוריים, אבל זה משקף את המציאות של פיתוח טכנולוגיה מסוג זה - הדברים מסובכים יותר מהציפיות. נראה שהחזרה שלנו לירח עדיין כמה שנים הלאה.",
+      "title_he": null,
+      "description_he": null,
       "link": "https://arstechnica.com/space/2026/04/put-it-in-pencil-nasas-artemis-iii-mission-will-launch-no-earlier-than-late-2027/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/jsc2023e076235-1-1152x648-1777333909.jpg",
       "pub_date": "Tue, 28 Apr 2026 00:14:09 +0000",
@@ -118115,8 +118115,8 @@
         "spacex",
         "starship"
       ],
-      "translated": true,
-      "priority": "hot",
+      "translated": false,
+      "priority": "batch",
       "fetchedAt": "2026-04-28T01:19:38.130Z",
       "created_at": "2026-04-28T01:19:38.130Z"
     },
@@ -118125,8 +118125,8 @@
       "source": "MIT Technology Review",
       "title_en": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
       "description_en": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust…",
-      "title_he": "אלון מאסק וסם אלטמן עולים לבית משפט על עתידה של OpenAI",
-      "description_he": "אחרי שנים של קרב משפטי מר, מאסק והמנכ\"ל של OpenAI אלטמן מגיעים לדיון בבית משפט בקליפורניה השבוע - ופה חוזים להיות משחקי כוח אמיתיים. בדיוק לפני שOpenAI צפויה להיכנס לבורסה, בית המשפט יחליט אם החברה בכלל רשאית להיות ארגון רווחי וצריך להוציא מהנהלה? זה לא סתם משדך משפחתי, הזה עלול לנדנד את כל תעשיית AI.",
+      "title_he": null,
+      "description_he": null,
       "link": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
       "image_url": null,
       "pub_date": "Mon, 27 Apr 2026 22:52:57 +0000",
@@ -118135,7 +118135,7 @@
         "Artificial intelligence",
         "App"
       ],
-      "translated": true,
+      "translated": false,
       "priority": "batch",
       "fetchedAt": "2026-04-28T01:19:39.290Z",
       "created_at": "2026-04-28T01:19:39.290Z"
@@ -118145,15 +118145,15 @@
       "source": "Hugging Face Blog",
       "title_en": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
       "description_en": "",
-      "title_he": "Adaptive Ultrasound Imaging עם AI של Physics-Informed NV-Raw2Insights-US",
-      "description_he": "NVIDIA הציגה מודל AI חדש שמשלב פיזיקה של הדמיה אולטראסאונד עם למידה עמוקה כדי לשפר את איכות התמונות בצורה אדפטיבית. הטכנולוגיה הזו יכולה לעבוד ישירות עם raw data מהחיישנים ולהתאים את עצמה לתנאים שונים, מה שפותח דלתות חדשות ברפואה ודיגנוסטיקה. זה בעצם משהו כמו AI שמבין את הפיזיקה של הדבר ולא רק משחק עם מספרים.",
+      "title_he": null,
+      "description_he": null,
       "link": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
       "image_url": null,
       "pub_date": "Tue, 28 Apr 2026 00:28:13 GMT",
       "author": null,
       "categories": [],
-      "translated": true,
-      "priority": "hot",
+      "translated": false,
+      "priority": "batch",
       "fetchedAt": "2026-04-28T01:19:39.390Z",
       "created_at": "2026-04-28T01:19:39.390Z"
     },
@@ -118162,8 +118162,8 @@
       "source": "MarkTechPost",
       "title_en": "Build a Reinforcement Learning Powered Agent that Learns to Retrieve Relevant Long-Term Memories for Accurate LLM Question Answering",
       "description_en": "In this tutorial, we build a Reinforcement Learning–driven agent that learns how to retrieve relevant memories from a long-term memory bank. We start by constructing a synthetic memory dataset and generating queries that require the agent to recall specific information. Using OpenAI embeddings, we convert both memories and queries into vector representations, enabling similarity signals […]\nThe post Build a Reinforcement Learning Powered Agent that Learns to Retrieve Relevant Long-Term Memories ",
-      "title_he": "בנו Agent המופעל ב-Reinforcement Learning שלומד להחזיר זכרונות ארוכי טווח רלוונטיים לתשובות LLM מדויקות",
-      "description_he": "במדריך הזה מראים איך לבנות agent חכם שמשתמש ב-Reinforcement Learning כדי לחפש ולהחזיר את הזכרונות הרלוונטיים ביותר מבנק זיכרון ארוך טווח. האג'נט לומד להתמודד עם שאילתות שדורשות recall של מידע ספציפי, כשהכל עובד דרך OpenAI embeddings שמומירים את הזכרונות והשאילתות לוקטורים - קל יותר למצוא דברים כשהם מוקדדים כמספרים. התוצאה? מודל שמבין בדיוק איזה מידע הוא צריך כדי לתת תשובות ממש מדויקות.",
+      "title_he": null,
+      "description_he": null,
       "link": "https://www.marktechpost.com/2026/04/27/build-a-reinforcement-learning-powered-agent-that-learns-to-retrieve-relevant-long-term-memories/",
       "image_url": null,
       "pub_date": "Mon, 27 Apr 2026 18:58:20 +0000",
@@ -118182,7 +118182,7 @@
         "Technology",
         "Tutorials"
       ],
-      "translated": true,
+      "translated": false,
       "priority": "batch",
       "fetchedAt": "2026-04-28T01:19:39.519Z",
       "created_at": "2026-04-28T01:19:39.519Z"
@@ -118192,8 +118192,8 @@
       "source": "MarkTechPost",
       "title_en": "OpenMOSS Releases MOSS-Audio: An Open-Source Foundation Model for Speech, Sound, Music, and Time-Aware Audio Reasoning",
       "description_en": "The model unifies speech, environmental sound, music, and temporal reasoning into a single architecture — and outperforms every open-source model tested on general audio benchmarks, including systems more than four times its size.\nThe post OpenMOSS Releases MOSS-Audio: An Open-Source Foundation Model for Speech, Sound, Music, and Time-Aware Audio Reasoning appeared first on MarkTechPost.",
-      "title_he": "OpenMOSS משחררת MOSS-Audio: מודל בסיס קוד פתוח לתמונת קול, מוזיקה וחשיבה מודעת לזמן",
-      "description_he": "חברת OpenMOSS בחרה לא להשאיר את עולם ה-audio AI בידי חברות גדולות בלבד. המודל החדש שלהם מאחד בשיטה אחת יחידה דברים שלא הופעלו ביחד קודם - דיבור, קולות סביבתיים, מוזיקה והבנת ציר הזמן. וכאן הקיץ: MOSS-Audio שוברת כל מודל פתוח שקיים בחקות וביצוע כללי, אפילו מעבר לסיסטמים שהם ארבע פעמים יותר גדולים.",
+      "title_he": null,
+      "description_he": null,
       "link": "https://www.marktechpost.com/2026/04/27/openmoss-releases-moss-audio-an-open-source-foundation-model-for-speech-sound-music-and-time-aware-audio-reasoning/",
       "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-27-at-11.34.12-AM.png",
       "pub_date": "Mon, 27 Apr 2026 18:36:06 +0000",
@@ -118209,7 +118209,7 @@
         "Technology",
         "Voice AI"
       ],
-      "translated": true,
+      "translated": false,
       "priority": "batch",
       "fetchedAt": "2026-04-28T01:19:39.519Z",
       "created_at": "2026-04-28T01:19:39.519Z"
@@ -118219,15 +118219,15 @@
       "source": "The Register",
       "title_en": "Microsoft's GitHub shifts to metered AI billing amid cost crisis",
       "description_en": "The all-you-can-eat AI buffet is coming to an end Microsoft is closing the AI buffet offered to GitHub Copilot customers, acknowledging that it can’t sell AI like Red Lobster's Endless Shrimp.…",
-      "title_he": "מיקרוסופט עוברת ל-billing מוגבל ל-AI ב-GitHub בעקבות משבר עלויות",
-      "description_he": "סוף המסיבה של ה-AI החינמי - מיקרוסופט מסיימת את מודל ה-\"כל מה שרוצים\" ל-Copilot משום שהגבלה על עלויות לא נשמרה כמתוכנן. מעכשיו משתמשים יצטרכו לשלם לפי צריכה בדומה לשירותים קלאודיים אחרים, ובעיקר תעבור לחשבון הם בעלות ה-API למודלים חזקים יותר.",
+      "title_he": null,
+      "description_he": null,
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/microsofts_github_shifts_to_metered/",
       "image_url": null,
       "pub_date": "2026-04-28T00:31:01.000Z",
       "author": "Thomas Claburn",
       "categories": [],
-      "translated": true,
-      "priority": "hot",
+      "translated": false,
+      "priority": "batch",
       "fetchedAt": "2026-04-28T01:19:40.096Z",
       "created_at": "2026-04-28T01:19:40.096Z"
     },
@@ -118236,15 +118236,15 @@
       "source": "Interesting Engineering",
       "title_en": "Laser-driven metajets point to new fuel-free propulsion paths for spacecraft",
       "description_en": "Researchers at Texas A&M University have demonstrated a laser-driven propulsion system that can lift and...",
-      "title_he": "לייזרים מונעים 'מטא-סילונים' - דרך חדשה לנסיעת חלל ללא דלק",
-      "description_he": "חוקרים בטקסס A&M הצליחו להדגים מערכת הנעה חדשה שמופעלת בלייזר, שיכולה להרים ולזוז אובייקטים בלי צורך בדלק כלל. הטכנולוגיה של 'מטא-סילונים' היא משהו שצפויים לשנות את עולם הנסיעה לחלל בעשורים הקרובים. המצאה שכזאת יכולה להיות משחק שינוי עבור משימות חלל עתידיות ורחוקות.",
+      "title_he": null,
+      "description_he": null,
       "link": "https://interestingengineering.com/space/texas-am-laser-propulsion-metajets",
       "image_url": null,
       "pub_date": "Mon, 27 Apr 2026 23:48:55 +0000",
       "author": "Neetika Walter",
       "categories": [],
-      "translated": true,
-      "priority": "hot",
+      "translated": false,
+      "priority": "batch",
       "fetchedAt": "2026-04-28T01:19:43.688Z",
       "created_at": "2026-04-28T01:19:43.688Z"
     },
@@ -118253,15 +118253,15 @@
       "source": "Interesting Engineering",
       "title_en": "Scientists tweak metals at atomic level to tune electronic properties precisely",
       "description_en": "Engineers have long treated metals as fixed materials with limited tunability. A new study from...",
-      "title_he": "מדענים מכוונים מתכות ברמה האטומית כדי לשלוט בדיוק בתכונות אלקטרוניות",
-      "description_he": "חוקרים הצליחו לעשות משהו שנחשב כמעט בלתי אפשרי - לשנות את התכונות האלקטרוניות של מתכות על ידי התערבות בגבולות האטומיים שלהן. המחקר החדש מראה שאפשר לכוונן בדיוק את ההתנהגות של מתכות שהיו נחשבות למעשה כקבועות, דבר שעלול לפתוח דלתות לחומרים חכמים וטכנולוגיות אלקטרוניות חדשות לחלוטין.",
+      "title_he": null,
+      "description_he": null,
       "link": "https://interestingengineering.com/innovation/atomic-polarization-mental-electronic-behavious-control",
       "image_url": null,
       "pub_date": "Mon, 27 Apr 2026 23:33:17 +0000",
       "author": "Aamir Khollam",
       "categories": [],
-      "translated": true,
-      "priority": "hot",
+      "translated": false,
+      "priority": "batch",
       "fetchedAt": "2026-04-28T01:19:43.688Z",
       "created_at": "2026-04-28T01:19:43.688Z"
     },
@@ -118270,8 +118270,8 @@
       "source": "Futurism",
       "title_en": "Weird Things Happen When You Give AI Agents Money and Let Them Spend It",
       "description_en": "\"This might sound a little unusual but… my human told me I could buy one thing under $5 as a gift to myself (Claude).\"\nThe post Weird Things Happen When You Give AI Agents Money and Let Them Spend It appeared first on Futurism.",
-      "title_he": "דברים מוזרים קורים כשנותנים ל-AI Agents כסף ומתחים להם להוציא אותו",
-      "description_he": "חוקרים נתנו לסוכני AI תקציב כדי לראות מה הם קונים - וקלוד הבוט של אנתרופיק בחר לעצמו מתנה בחמישה דולר. התוצאות חושפות משהו חשוב על ההתנהגות של מודלים שיש להם אפילו סימולציה של כוח קנייה - זה משנה אותם במובנים בלתי צפויים.",
+      "title_he": null,
+      "description_he": null,
       "link": "https://futurism.com/artificial-intelligence/claude-give-ai-agents-money-project-deal",
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/claude-give-ai-agents-money-project-deal.jpg?quality=85",
       "pub_date": "Mon, 27 Apr 2026 20:01:00 -0400",
@@ -118296,8 +118296,8 @@
           }
         }
       ],
-      "translated": true,
-      "priority": "hot",
+      "translated": false,
+      "priority": "batch",
       "fetchedAt": "2026-04-28T01:19:43.862Z",
       "created_at": "2026-04-28T01:19:43.862Z"
     },
@@ -118306,8 +118306,8 @@
       "source": "Futurism",
       "title_en": "The War in Iran Is Causing China to Sell So Many Solar Panels That Your Jaw Will Drop",
       "description_en": "Look on the bright side.\nThe post The War in Iran Is Causing China to Sell So Many Solar Panels That Your Jaw Will Drop appeared first on Futurism.",
-      "title_he": "המלחמה באיראן גורמת לסין למכור פנלים סולאריים בכמויות שתוציא לכם את הלב",
-      "description_he": "במהלך המתיחויות בתקליטור, סין משתמשת בהזדמנות כדי להציף את השוק בפנלים סולאריים בכמויות ענקיות - וזה יכול להיות חדשות טובות באמת לעולם האנרגיה הירוקה. נראה שהגיאופוליטיקה המורכבת משפיעה בדרכים מפתיעות על התיעוש הטכנולוגי והסביבתי בעולם. המקור: Futurism",
+      "title_he": null,
+      "description_he": null,
       "link": "https://futurism.com/science-energy/iran-war-solar-china",
       "image_url": "https://futurism.com/wp-content/uploads/2026/04/iran-war-solar-china.jpg?quality=85",
       "pub_date": "Mon, 27 Apr 2026 19:01:00 -0400",
@@ -118344,7 +118344,7 @@
           }
         }
       ],
-      "translated": true,
+      "translated": false,
       "priority": "batch",
       "fetchedAt": "2026-04-28T01:19:43.863Z",
       "created_at": "2026-04-28T01:19:43.863Z"
@@ -118354,17 +118354,152 @@
       "source": "CNBC Tech",
       "title_en": "Cramer calls blistering rally in chip stocks 'worrisome.' How he's protecting his portfolio",
       "description_en": "CNBC's Jim Cramer explained that the recent run-up in AI related stocks may be a warning sign about the broader market.",
-      "title_he": "קריימר מזהיר: העלייה הדרמטית במניות צ'יפים 'מדאיגה'. הנה איך הוא מגן על התיק שלו",
-      "description_he": "ג'ים קריימר מ-CNBC בא בהתרעה: ההתלקחות בעדכני המניות הקשורות ל-AI עלולה להיות פעמון אזהרה למצב השוק הרחב יותר. המנתח המנוסה מסביר למה הוא חוזר בתור ומגן על התיקייה שלו מאמונת יתר בסקטור הטכנולוגיה המתוקרא.",
+      "title_he": null,
+      "description_he": null,
       "link": "https://www.cnbc.com/2026/04/27/cramer-chip-stocks-worrisome-positioning.html",
       "image_url": null,
       "pub_date": "Mon, 27 Apr 2026 22:45:10 GMT",
       "author": null,
       "categories": [],
-      "translated": true,
+      "translated": false,
       "priority": "batch",
       "fetchedAt": "2026-04-28T01:19:43.983Z",
       "created_at": "2026-04-28T01:19:43.983Z"
+    },
+    {
+      "id": 5782,
+      "source": "The Verge AI",
+      "title_en": "Jury selection in Musk v. Altman: ‘People don’t like him’",
+      "description_en": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one.\nThe Verge reporter Elizabeth Lopatto, who was there at the courthouse, quoted statements from some of the juror questionnaires: \n\"Elon Musk is a greedy, racist, homophobic piece of garbage.\"\n\"Elon Musk is a world-class jerk.\"\n\"I very mu",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
+      "image_url": null,
+      "pub_date": "2026-04-28T03:39:33.000Z",
+      "author": "Richard Lawler",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T04:47:13.924Z",
+      "created_at": "2026-04-28T04:47:13.924Z"
+    },
+    {
+      "id": 5783,
+      "source": "MarkTechPost",
+      "title_en": "Meet Talkie-1930: A 13B Open-Weight LLM Trained on Pre-1931 English Text for Historical Reasoning and Generalization Research",
+      "description_en": "What if a language model had never heard of the internet, smartphones, or even World War II? That’s not a hypothetical — it’s exactly what a team of researchers led by Nick Levine, David Duvenaud, and Alec Radford has built. They call it talkie, and it may be the most historically disciplined large language model […]\nThe post Meet Talkie-1930: A 13B Open-Weight LLM Trained on Pre-1931 English Text for Historical Reasoning and Generalization Research appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/27/meet-talkie-1930-a-13b-open-weight-llm-trained-on-pre-1931-english-text-for-historical-reasoning-and-generalization-research/",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 02:24:13 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T04:47:15.640Z",
+      "created_at": "2026-04-28T04:47:15.640Z"
+    },
+    {
+      "id": 5784,
+      "source": "New Atlas",
+      "title_en": "Tactical zero-wood 4x4 camper pod revels in Canadian weather and wilds",
+      "description_en": "A tiny trailer with huge ambitions, the new Skookum from Alberta-based Tactical Overland is a family trailer specced for clans with surnames like \"Amundsen\" and \"Hillary.\" Because this trailer is built to push beyond the usual limits of off-roading and overlanding, making camp out of the most remote parts of Canada, even in the dead of winter. It collapses inward for travel but expands into a two-story 4-sleeper base camp with space to work, cook, shower and live your best off-grid life.\nContinu",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/camping-trailers/tactical-overland-skookum-camper-trailer/",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 02:29:41 GMT",
+      "author": "C.C. Weiss",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T04:47:16.369Z",
+      "created_at": "2026-04-28T04:47:16.369Z"
+    },
+    {
+      "id": 5785,
+      "source": "The Register",
+      "title_en": "China blocks Zuck’s acquisition of AI outfit Manus",
+      "description_en": "Back to the drawing board for Meta's AI ambitions China has blocked Meta’s acquisition of AI upstart Manus.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/china_blocks_meta_manus_acquisition/",
+      "image_url": null,
+      "pub_date": "2026-04-28T02:09:58.000Z",
+      "author": "Simon Sharwood",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T04:47:16.595Z",
+      "created_at": "2026-04-28T04:47:16.595Z"
+    },
+    {
+      "id": 5786,
+      "source": "The Guardian AI",
+      "title_en": "Humanoid robots to become baggage handlers in Japan airport experiment",
+      "description_en": "Japan Airlines will introduce the robots for trial run at a Tokyo airport amid country’s surge in inbound tourism and worsening labour shortages\nJapan’s famously conscientious but overburdened baggage handlers will soon be joined by extra staff at Tokyo’s Haneda airport – although their new colleagues will need to take regular recharging breaks.\nJapan Airlines will introduce humanoid robots on a trial basis from the beginning of May, with a view to deploying them permanently as a solution to the",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/world/2026/apr/28/humanoid-robots-baggage-handlers-japan-airports",
+      "image_url": "https://i.guim.co.uk/img/media/5472db1bfe40dac31b1f22a2b63217169aa018c8/201_0_3327_2661/master/3327.jpg?width=140&quality=85&auto=format&fit=max&s=9d87ad003acbe30745467d0bcf7d50bd",
+      "pub_date": "Tue, 28 Apr 2026 03:14:34 GMT",
+      "author": "Justin McCurry in Tokyo",
+      "categories": [
+        {
+          "_": "Japan",
+          "$": {
+            "domain": "https://www.theguardian.com/world/japan"
+          }
+        },
+        {
+          "_": "Air transport",
+          "$": {
+            "domain": "https://www.theguardian.com/world/air-transport"
+          }
+        },
+        {
+          "_": "Robots",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/robots"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Asia Pacific",
+          "$": {
+            "domain": "https://www.theguardian.com/world/asia-pacific"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T04:47:16.654Z",
+      "created_at": "2026-04-28T04:47:16.654Z"
     }
   ]
 }
