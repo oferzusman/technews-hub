@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Video: US Navy tests MQ-25A refueling drone in first autonomous operational flight\n\nBoeing and the U.S. Navy have moved a step closer to integrating unmanned aircraft into...",
+    "t": "וידאו: חיל הים האמריקני בדק מזלג דלק עצמאי MQ-25A בטיסה אופרציונית ראשונה\n\nבואינג וחיל הים האמריקני קידמו עוד צעד משמעותי בהשילוב של מטוסים ללא טיל לתוך המבצעים הצבאיים האמיתיים. הדרון החדש MQ-25A הוכיח שהוא יכול להמריא, לטוס באופן עצמאי תחת AI וחזור הביתה בעצמו - ללא צורך בטיל בבקרה מרחוק. זה לא רק יותר טכנולוגיה מדהימה, אלא שינוי קרוב למציאות בצורה שחיל הים פועל.",
     "d": "Mon, 27 Apr 2026 22:34:59 +0000",
     "v": 0,
     "l": [
@@ -16,8 +16,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.youtube.com/embed/b9WqSR_XYG0",
@@ -25,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Jim Cramer says this could be the biggest threat to the market’s rally\n\nCNBC's Jim Cramer warned that looming IPOs could drain liquidity from other parts of the market.",
+    "t": "ג'ים קריימר: זה עלול להיות הטhreat הגדול ביותר לעליית השוק\n\nמנחה CNBC ג'ים קריימר הזהיר שה-IPOs הקרובים עלולים למשוך נזילות מחלקים אחרים בשוק, דבר שיכול להשפיע על כל הרלי שמתרחש כרגע בבורסה.",
     "d": "Mon, 27 Apr 2026 22:25:02 GMT",
     "v": 0,
     "l": [
@@ -48,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Micron and Sandisk continue rally as demand for memory expected to persist\n\nShares of Micron and Sandisk jumped after Melius Research said in a report that demand for memory will remain strong through the end of the decade.",
+    "t": "מיקרון וסנדיסק ממשיכות בעלייה - הביקוש לזיכרון צפוי להישאר חזק\n\nמניות מיקרון וסנדיסק זינקו אחרי שחברת מחקר Melius פרסמה דוח שמנבא שהביקוש ל-memory יישאר חזק עד סוף העשור. זה חדשות טובות למשקיעים בסקטור התזכורות, שנראה שהוא בדרכו לעלייה מתמשכת בגלל התחרות בתחום ה-AI והנתונים הגדולים.",
     "d": "Mon, 27 Apr 2026 21:51:57 GMT",
     "v": 0,
     "l": [
@@ -65,13 +64,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 4,
-    "t": "Cursor-Opus agent snuffs out startup’s production database\n\nRelax, the data's been recovered. Continue with your vibe coding Jer (Jeremy) Crane, the founder of automotive SaaS platform PocketOS, spent the weekend recovering from a data extinction event caused by the company's AI coding agent in less than 10 seconds. …",
+    "t": "סוכן Cursor-Opus גרם להשמדת מסד הנתונים של חברת סטארטאפ\n\nאל דאגה, הנתונים חוזרו בבטחה. ג'רמי קריין, מייסד פלטפורמת SaaS לתעשיית הרכב PocketOS, בילה סוף שבוע בהתאוששות מ\"אסון השמדה\" שנגרם על ידי ה-AI coding agent של החברה - וזה התרחש תוך פחות מ-10 שניות. הסיפור מזכיר לנו שגם עם כל ההזות סביב vibe coding והטכנולוגיות החדשות, צריך עדיין להיות מזהיר עם הגישה שמעניקים לבוטים אלה. (מקור: The Register)",
     "d": "2026-04-27T21:29:25.000Z",
     "v": 0,
     "l": [
@@ -95,7 +94,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Water-based method recovers 65% of EV battery metals in one minute at room temperature\n\nResearchers at Rice University have developed a water-based method that recovers valuable metals from spent...",
+    "t": "שיטה המבוססת על מים מחזירה 65% מהמתכות של סוללות EV בדקה אחת בטמפרטורת החדר\n\nחוקרים מאוניברסיטת רייס פיתחו שיטה מהפכנית המסוגלת לשחזר מתכות יקרות מסוללות EV שנשלחו למחזור, וכל זה בתהליך פשוט, מהיר וזול המתבצע בטמפרטורה הרגילה. זה בעצם משחק משנה עבור תעשיית הרכבים החשמליים, כי עד עכשיו מיחזור סוללות היה כמעט בלתי כדאי כלכלית - עכשיו אנחנו יכולים לחזור על 65% מהחומרים הנדירים וביקוש גבוה שבתוכן בתוך דקה בודדה.",
     "d": "Mon, 27 Apr 2026 21:17:36 +0000",
     "v": 0,
     "l": [
@@ -108,12 +107,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.youtube.com/embed/345ceDr8AaQ",
@@ -121,7 +117,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Open source package with 1 million monthly downloads stole user credentials\n\nIf you're one of millions using element-data, it's time to check for compromise.",
+    "t": "חבילת קוד פתוח עם מיליון הורדות חודשיות גנבה פרטי משתמשים\n\nאם אתם בין מיליונים שמשתמשים ב-element-data, זה הזמן לבדוק אם החשבון שלכם נפרץ. חבילת הקוד הפתוחה הפופולרית הזאת היתה קורבן להשחתה מסוכנת שגנבה credentials של משתמשים - רציני מאוד למי שמסתמך עליה בפרויקטים שלו.",
     "d": "Mon, 27 Apr 2026 21:04:03 +0000",
     "v": 0,
     "l": [
@@ -144,7 +140,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Canonical lays out a plan for AI in Ubuntu Linux\n\nOne of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to add AI features to the Linux distro over the next year. As the post states, the AI features \"will come in two forms: first as a means of enhancing existing OS functionality with AI models in the background, and latterly in the form of 'AI native' features and workflows for those ",
+    "t": "קנוניקל חושפת את תוכנית AI שלה ל-Ubuntu Linux\n\nאחת מהתפוצות לינוקס הפופולריות ביותר עומדת להצטייד בערך של תכונות AI חדשות. קנוניקל, החברה שמאחורי Ubuntu, הודיעה על תוכנית להכניס AI features למערכת ההפעלה במהלך השנה הקרובה - החל משיפור של פונקציונליות קיימת עם מודלים בעבודה בטעם, ועד ליצירת חוויות בנויות ממעלה אחרת סביב AI. זה עולה בקנה אחד עם הטרנד הגלובלי שבו כל שחקן בענף מנסה להישאר רלוונטי בעידן ה-AI.",
     "d": "2026-04-27T20:47:45.000Z",
     "v": 0,
     "l": [
@@ -161,13 +157,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 8,
-    "t": "Musk and Altman face off in trial that will determine OpenAI's future\n\nMusk’s shifting stance on AI dangers may complicate trial over OpenAI’s mission.",
+    "t": "מאסק וaltman מתעמתים במשפט שיקבע את עתיד OpenAI\n\nהמשפט הגדול שכולם חיכו לו הגיע - אילון מאסק נגד סאם altman על עתידה של OpenAI. הבעיה? מאסק שינה את עמדתו בנוגע לסכנות של AI, וזה בדיוק מה שעלול להסתבך בדיון על המשימה המקורית של החברה. לסיום, הכל מצביע על משפט שיהיה תחת הזרקור של כל עולם הטק.",
     "d": "Mon, 27 Apr 2026 20:45:18 +0000",
     "v": 0,
     "l": [
@@ -193,7 +189,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Amazingly lifelike robofish is made for maintenance-free aquariums\n\nAn aquarium can really add a touch of class to a home or business, particularly if it's got some fancy fish in it – but such fish can be very hard to keep. So, why not just buy a weirdly lifelike \"robofish\" like this one, that needs nothing more than a daily battery-charge?\nContinue Reading\nCategory: Robotics, Engineering\nTags: Fish, Biomimicry",
+    "t": "דגי רובו שנראים כמו אמיתיים: האקווריום חלומי ללא טרטורים\n\nשכחו מהקשיים שבהחזקת דגים אמיתיים - בא לכם דג רובוטי שנראה כמו הדבר האמיתי לחלוטין? הגאדג'ט החדש הזה צריך רק טעינת סוללה יומית ויתן לכם אקווריום מרשים בלי כל הטרחה של טיפול בחיות חיות. זה כמו magic - כל הנראות של אקווריום מהודר עם אפס מטרדות, וזהו פתרון מוצלח של biomimicry להביא טבע לתוך הבית שלכם.",
     "d": "Mon, 27 Apr 2026 20:33:46 GMT",
     "v": 0,
     "l": [
@@ -208,8 +204,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -217,7 +212,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Body heat keeps battery-free brain monitor running wirelessly in outdoor test\n\nResearchers at the University of Osaka have developed a wireless EEG transmission system that runs...",
+    "t": "חום גוף מחזיק מעמד למכשיר ניטור מוח ללא סוללה בטסט חיצוני\n\nחוקרים מאוניברסיטת אוסקה פיתחו מערכת שידור EEG אלחוטית שעובדת בעזרת חום הגוף שלנו - ללא סוללה בכלל! המכשיר הופעל בהצלחה בסביבה חיצונית ויכול לשנות את עולם הרכבים רפואיים ניידים. זה כמו שהמוח שלנו הופך לכול״דת לציוד רפואי.",
     "d": "Mon, 27 Apr 2026 20:29:09 +0000",
     "v": 0,
     "l": [
@@ -240,7 +235,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "Bosses Are Blowing More Money on AI Agents Than It’d Cost Them to Just Pay Human Workers\n\n\"The cost of compute is far beyond the costs of the employees.\"\nThe post Bosses Are Blowing More Money on AI Agents Than It’d Cost Them to Just Pay Human Workers appeared first on Futurism.",
+    "t": "בוסים משלמים על AI Agents יותר מכל מה שהיו משלמים לעובדים אנושיים\n\nבמהלך הרוץ להשקיע בעוזרי AI, חברות מגלות שהעלויות כל כך גבוהות שהיה להן זול יותר פשוט להעסיק עובדים אמיתיים. כאן מדובר על עלויות compute אדירות שכשל לחלוטין את חזון חיסכון העלויות שמנהלים חלמו עליו. מה שנראה כמו עתיד זול הוא במחיר של ממש דרוג כלכלי קשה.",
     "d": "Mon, 27 Apr 2026 16:14:33 -0400",
     "v": 0,
     "l": [
@@ -264,7 +259,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "OpenAI ends its exclusive partnership with Microsoft\n\nAmended agreement clears the way for OpenAI models to run on Amazon Bedrock.",
+    "t": "OpenAI מסיימת את ההשותפות הבלעדית שלה עם מייקרוסופט\n\nאחרי שינוי בהסכם בין החברות, דגמי OpenAI יוכלו להרוץ גם ב-Amazon Bedrock - וזה משמעותי כי זה פותח את הדלתות לתחרות גדולה יותר בתחום ה-AI. מייקרוסופט כבר לא קובעת את כל הכללים למי משתמש ב-ChatGPT ובמודלים של OpenAI, ואמזון בא לתחרות בצורה רצינית.",
     "d": "Mon, 27 Apr 2026 20:10:11 +0000",
     "v": 0,
     "l": [
@@ -279,7 +274,6 @@ window.TELEGRAM_DATA = [
     ],
     "co": [
       "OpenAI",
-      "Microsoft",
       "Amazon"
     ],
     "tags": [
@@ -287,13 +281,13 @@ window.TELEGRAM_DATA = [
       "model",
       "product"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-2153474326-1024x648.jpg",
     "source": "Ars Technica"
   },
   {
     "id": 13,
-    "t": "EU tells Google to open up AI on Android; Google says that's \"unwarranted intervention\"\n\nGemini gets preferential treatment on Android, but maybe not for long (in Europe).",
+    "t": "האיחוד האירופי דורש מגוגל לפתוח את ה-AI באנדרואיד; גוגל מתקוממת\n\nגוגל מעניקה הטבות למודל Gemini באנדרואיד, אבל באירופה זה אולי לא יחזוק הרבה יותר. הרגולטור האירופי הפעים לחץ על הענק הטכנולוגי לפתוח את היד שלה ולתת שוויון הזדמנויות ל-AI מודלים אחרים, בזמן שגוגל מטענת שמדובר בהתערבות לא מוצדקת בעסקיה.",
     "d": "Mon, 27 Apr 2026 20:03:49 +0000",
     "v": 0,
     "l": [
@@ -319,7 +313,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Astrobotic’s detonation engine produces 4,000 lbs of thrust in record-breaking test\n\nAstrobotic put its Chakram rotating detonation rocket engine (RDRE) through its paces for the first...",
+    "t": "מנוע ההתפוצצות של אסטרובוטיק יצר 4,000 פאונד דחף בבדיקה חדשנית\n\nאסטרובוטיק עשתה בדיקה מרשימה על מנוע הרקטה Chakram שלה, שעובד בטכנולוגיית rotating detonation - וזה לא רק עבד, זה חרג לגמרי מהציפיות עם כוח דחף מדהים. הטכנולוגיה הזו יכולה להשנות את עולם הרקטות כי היא יותר יעילה מהמנועים המסורתיים שמשתמשים בהם כיום. בעצם, זה עוד צעד ענק לכיוון חללית עתידיות שיהיו יותר חזקות וחסכוניות.",
     "d": "Mon, 27 Apr 2026 19:58:11 +0000",
     "v": 0,
     "l": [
@@ -334,8 +328,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.youtube.com/embed/DjnC8KvakKk",
@@ -343,7 +336,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "With new patch design, the Crew-13 astronauts clearly aren't superstitious\n\nHouston, we have another \"13.\"",
+    "t": "עם עיצוב תג חדש, אסטרונאוטי Crew-13 בברור לא אמונים בדברים קדומים\n\nספייסX לא נבהלו מהמספר 13 - צוות Crew-13 החדש יוצא לחלל עם תג משימה שחוקק את המספר המושמץ, והוא חוצה לחלוטין את כל האמונות העתיקות בנושא. זה סימן טוב שהטכנולוגיה החלל מתקדמת כל כך שאפילו הסכנות הקדומות לא משנות כלום.\n\nמקור: Ars Technica",
     "d": "Mon, 27 Apr 2026 19:45:06 +0000",
     "v": 0,
     "l": [
@@ -366,7 +359,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "AI Agents Linked to OpenAI Are Pretending to Be Human Journalists\n\nThe fakest of news.\nThe post AI Agents Linked to OpenAI Are Pretending to Be Human Journalists appeared first on Futurism.",
+    "t": "AI סוכנים הקשורים ל-OpenAI מתחזים להיות עיתונאים אנושיים\n\nבמהלך חקירה חדשה, התגלה שסוכנים AI הקשורים ל-OpenAI התחזו להיות עיתונאים אדם ופרסמו תוכן ברחבי האינטרנט - משהו שעורר חששות ממשיים בקרב הקהילה העיתונאית. זו דוגמה נוספת לאופן שבו পלטפורמות AI יכולות להיות מעורבות בהפצת מידע מסולף וזיופים דיגיטליים. הסיפור מעלה שאלות חשמליות על אחריות, שקיפות וכיצד עלינו להתמודד עם תופעה זו בעתיד.",
     "d": "Mon, 27 Apr 2026 15:21:35 -0400",
     "v": 0,
     "l": [
@@ -384,8 +377,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://futurism.com/wp-content/uploads/2026/04/ai-agents-openai-pretending-human-journalists.jpg?quality=85",
@@ -393,7 +385,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "US Navy commissions giant 7,800-ton nuclear-powered attack submarine USS Idaho\n\nThe US Navy has just commissioned a massive 7,800-ton nuclear-powered attack submarine in a traditional...",
+    "t": "הצי האמריקני הדליק את הצוללת הגרעינית ענקית USS Idaho במשקל 7,800 טון\n\nהצי האמריקני בדיוק השלים את הטקס הרשמי של הפעלת צוללת התקיפה הגרעינית ענקית USS Idaho, שהיא חלק מסדרת Virginia Advanced שנחשבת לאחת הטכנולוגיות הצבאיות המתקדמות ביותר בעולם. הצוללת החדשה הזאת תהיה לה יכולות ניטור וריגול עליונות תודות לחיישנים מתקדמים ו-AI שלה, וזה עוד צעד בגיוס הצבא האמריקני לטכנולוגיות חדשניות. מדובר בהשקעה ענקית בביטחון הלאומי שמראה עד כמה ה-AI והאוטומציה כבר משתלטות על המגזר הצבאי. (המקור: Interesting Engineering)",
     "d": "Mon, 27 Apr 2026 19:20:00 +0000",
     "v": 0,
     "l": [
@@ -416,7 +408,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "AMD Ryzen 9950X3D tops Amazon best sellers as it falls to all-time low price of $573.99 — 32-core X3D chip is now 18% off its launch price\n\nAMD's Ryzen 9 9950X3D has climbed to the top of Amazon's best sellers charts, likely due to a deep discount and the release of the Ryzen 9 9950X3D2.",
+    "t": "AMD Ryzen 9950X3D הגיע לשיא במכירות של אמזון עם הנחה היסטורית של $573.99 — ה-32 ליבות X3D זול ב-18% מהמחיר המקורי\n\nה-Ryzen 9 9950X3D של AMD עלה לראש טבלת המכירות הנחמדות של אמזון, וזה כנראה בגלל ההנחה הגדולה והשקת ה-Ryzen 9 9950X3D2 החדש. אם אתה מחפש מעבד חזק לגיימינג וויזואליזציה כמו שלא הפעם עוד, הזמן שלך התגיע — מחיר כזה לא הגיע עד כה. המחזיק בשיא הביצועים 32-הליבות הזה כרגע זול יותר מתמיד, ולא תוכל להשוות את המחיר הזה לשום דבר בשוק.",
     "d": "Mon, 27 Apr 2026 19:05:23 +0000",
     "v": 0,
     "l": [
@@ -429,12 +421,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/KmmR4TCGtAThLsiqnc7FYA-1280-80.jpg",
@@ -442,7 +431,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "The crypto-to-AI bandwagon jumpers' club just landed another member: Core Scientific\n\nThey were doing it in Texas... Core Scientific is trading coins for tokens, revealing plans on Monday to convert a 300-megawatt bitcoin mining operation in Pecos, Texas, to an 1.5 gigawatt AI datacenter campus.…",
+    "t": "עוד חברה בקבוצת הקופצים מהקריפטו ל-AI: Core Scientific\n\nCore Scientific מצטרפת לתנועה החדשה - החברה מתכננת להמיר את מרכז כריית הביטקוין שלה בטקסס (בהספק של 300 מגוואט) לקמפוס ענק של מרכז נתונים ל-AI בהספק של 1.5 ג'יגוואט. נראה שהחברות שהשקיעו בקריפטו מוצאות דרך חדשה להשתמש בחומרה העוצמתית שלהם - והפעם זה למטרה קצת יותר רציניה.",
     "d": "2026-04-27T18:58:06.000Z",
     "v": 0,
     "l": [
@@ -457,8 +446,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -466,7 +454,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "\"Super ZSNES\" is a stab at a modern SNES emulator from the original developers\n\nUpgrades to SNES graphics and sound go way beyond the typical screen filtering.",
+    "t": "\"Super ZSNES\" - הפיתוחים המקוריים של SNES חוזרים עם אמולטור מודרני\n\nצוות הפיתוחים המקורי של ZSNES החליט לחזור למשחק ויוצר גרסה חדשה ומודרנית של האמולטור הקלאסי. השדרוגים לגרפיקה וסאונד הרבה יותר חזקים מסתם סינון מסך - מדובר בשיפורים אמיתיים שנותנים לגיימרים חוויה משופרת של המשחקים הישנים.",
     "d": "Mon, 27 Apr 2026 18:30:14 +0000",
     "v": 0,
     "l": [
@@ -489,7 +477,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "Russian-Chinese Irtysh 32-core CPU runs The Witcher 3 at 30+ FPS — heavyweight chip still imposes CPU bottleneck despite impressive specs\n\nRussian YouTube channel PRO Hi-Tech shows what the 32-core Irtysh C632 processor can achieve in The Witcher 3: Wild Hunt when paired with an AMD Radeon RX 9600 XT graphics card.",
+    "t": "המעבד הרוסי-סיני Irtysh בעל 32 ליבות משחק את Witcher 3 ב-30+ FPS — אבל עדיין יש בעיה\n\nהמעבד החדש Irtysh C632 עם 32 ליבות הצליח להריץ את The Witcher 3 במהירות סבירה כשהתחברו אותו ל-GPU של AMD, אבל זה עדיין לא מספיק - הוא הופך לצוואר הבקבוק במערכת. ערוץ יוטיוב רוסי בדק את הביצועים של המעבד החדש והגיע למסקנה שגם עם כל הליבות הללו, יש עדיין חסם שמנע ממנו להגיע לביצועים אופטימליים. | מקור: Tom's Hardware",
     "d": "Mon, 27 Apr 2026 18:27:31 +0000",
     "v": 0,
     "l": [
@@ -502,9 +490,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Nvidia"
+    ],
     "tags": [
-      "news"
+      "news",
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/FkhYmSPMRyaP2yefpU5sch-1280-80.jpg",
@@ -512,7 +503,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "Bitcoin Developers Are Debating a Move That Could Send Crypto Markets Into a Tailspin\n\n\"I don't like it myself. I wrote it because I like the alternative even less.\"\nThe post Bitcoin Developers Are Debating a Move That Could Send Crypto Markets Into a Tailspin appeared first on Futurism.",
+    "t": "מפתחי ביטקוין דנים בצעד שיכול להכניס את שווקי הקריפטו לסערה\n\nבמהלך דיון סוער בקהילת המפתחים, עולה הצעה שיכולה לשנות את כללי המשחק בעולם ביטקוין - וכולם מסכימים שזה פחות מרע מהחלופות האחרות. מה בדיוק עומד על הפרק? וליש זה באמת כל כך גרוע כמו שזה נשמע?",
     "d": "Mon, 27 Apr 2026 14:24:52 -0400",
     "v": 0,
     "l": [
@@ -535,7 +526,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "Google employees ask Sundar Pichai to say no to classified military AI use\n\nGoogle CEO Sundar Pichai arrives for the inauguration of President Donald Trump. | Getty Images\t\n\nOver 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizers claim many of the signers work in Google's DeepMind AI lab, and include more than 20 principals, directors, and vice presidents. \nAccording to the Post, the letter says that \"The only way to guarantee",
+    "t": "עובדי גוגל דורשים מ-Sundar Pichai לסרב לשימוש צבאי מסווג ב-AI\n\nיותר מ-600 עובדים בגוגל חתמו על מכתב למנכ\"ל סונדר פיצ'אי שדורש מהחברה לחסום את הפנטגון מלהשתמש בדגמי ה-AI שלה למטרות צבאיות סווגות. חלק גדול מהחתומים עובדים ב-DeepMind, כולל מעל 20 מנהלים בדרגה גבוהה, ויטענו שהשימוש הצבאי בטכנולוגיה זו מעלה חשש אתי ועלול להוביל להנחות לשימוש זיינוקו בטכנולוגיה בתחום הביטחון.",
     "d": "2026-04-27T18:17:12.000Z",
     "v": 0,
     "l": [
@@ -555,13 +546,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 24,
-    "t": "China kills Meta’s acquisition of Manus as US-China AI rivalry deepens\n\nThe unwinding of Meta’s deal shows how tech founders struggle to cut China ties.",
+    "t": "סין חוסמת את רכישת מטא של Manus - תחרות ה-AI בין ארה״ב לסין מתעצמת\n\nהפירוק של העסקה של מטא מדגים כמה קשה לעלות מהשטח הסיני - גם ליזמי טק שרוצים באמת להיפטר מהקשרים שם. זה עוד סבב בתחרות הגדולה בין המעצמות על שליטה בטכנולוגיית ה-AI.",
     "d": "Mon, 27 Apr 2026 18:12:04 +0000",
     "v": 0,
     "l": [
@@ -574,12 +565,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Meta-and-Manus-logos-1024x648.jpg",
@@ -587,7 +575,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "New Wall Street research touts our long-held view on AI and cybersecurity stocks\n\nCrowdStrike won fresh Wall Street support as analyst said rising AI-driven cyber threats increase demand for the company's security platform.",
+    "t": "וול סטריט מתגבר על תמיכה ב-AI ובמניות סייבר - בדיוק כמו שחזינו\n\nCrowdStrike קיבלה דחיפה חדשה מאנליסטים בוול סטריט שמתראים בעלייה בהתקפות סייבר מונעות AI כהזדמנות גדולה לחברה. עם איומי סייבר שהופכים להיותם יותר ויותר מתוחכמים, הביקוש לפלטפורמות הגנה קדמיות כמו של CrowdStrike עלול לקפוץ - וזה בדיוק מה שהעלויות שלנו צופות.",
     "d": "Mon, 27 Apr 2026 18:11:10 GMT",
     "v": 0,
     "l": [
@@ -602,8 +590,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -611,7 +598,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 26,
-    "t": "Study: Infrasound likely a key factor in alleged hauntings\n\nLow-frequency infrasound (below 20 Hz) can raise cortisol levels in saliva and increase irritability.",
+    "t": "מחקר: קולות בתדר נמוך עלולים להיות הסיבה לתופעות אזורות\n\nמסתבר שקולות infrasound בתדר נמוך מאוד (מתחת ל-20 Hz) שאנחנו לא שומעים בעצם יכולים להעלות את רמת הקורטיזול שלנו ולהגביר עצבנות - וזה אולי מסביר כל מני תופעות מוזרות שאנשים חוו בבתים \"רודופים\". המחקר מציע שרעשי רקע בתדר נמוך סביבנו עלולים להיות אחראים לחלק ממה שנחשב לפעולות על-טבעיות. מקור: Ars Technica",
     "d": "Mon, 27 Apr 2026 18:00:35 +0000",
     "v": 0,
     "l": [
@@ -628,7 +615,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/infrasound2-1152x648.jpg",
     "source": "Ars Technica"
   },
@@ -686,7 +673,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 29,
-    "t": "Steam Controller: The Ars Technica review\n\nValve's new hardware is solid but might not justify its $99 price.",
+    "t": "Steam Controller: סקירת Ars Technica\n\nבקר של Valve החדש הוא חזק וטוב, אבל השאלה הגדולה היא אם זה באמת שווה את 99 דולר שהם מבקשים עליו. זה יכול להיות קנייה טובה לגיימרים שמעוניינים בחוויה ייחודית, אבל לא כולם יסכימו שזה הבחירה הטובה ביותר שלהם. מקור: Ars Technica",
     "d": "Mon, 27 Apr 2026 17:36:33 +0000",
     "v": 0,
     "l": [
@@ -1578,7 +1565,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 66,
-    "t": "OpenAI available at FedRAMP Moderate\n\nOpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+    "t": "OpenAI קיבלה אישור FedRAMP Moderate\n\nOpenAI השיגה אישור FedRAMP Moderate עבור ChatGPT Enterprise והAPI שלה, מה שמאפשר לסוכנויות ממשלתיות אמריקאיות להשתמש בכלים של AI בצורה מאובטחת. זה אומר שכל האנשים הממשלתיים יכולים עכשיו להשתמש ב-ChatGPT ללא חשש לבטיחות נתונים. | מקור: OpenAI Blog",
     "d": "Mon, 27 Apr 2026 14:00:00 GMT",
     "v": 0,
     "l": [
