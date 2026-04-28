@@ -1,14 +1,14 @@
 {
   "total": 5839,
-  "translated": 5769,
-  "untranslated": 70,
+  "translated": 5819,
+  "untranslated": 20,
   "today": 70,
   "week": 917,
   "sources": [
     {
       "name": "Product Hunt",
       "total": 708,
-      "translated": 661,
+      "translated": 688,
       "lastDate": "2026-04-28T03:00:55.000Z"
     },
     {
@@ -26,7 +26,7 @@
     {
       "name": "Interesting Engineering",
       "total": 360,
-      "translated": 357,
+      "translated": 360,
       "lastDate": "Wed, 22 Apr 2026 23:45:50 +0000"
     },
     {
@@ -38,25 +38,25 @@
     {
       "name": "Futurism",
       "total": 279,
-      "translated": 277,
+      "translated": 279,
       "lastDate": "Wed, 22 Apr 2026 16:27:39 -0400"
     },
     {
       "name": "Ars Technica",
       "total": 244,
-      "translated": 243,
+      "translated": 244,
       "lastDate": "Wed, 22 Apr 2026 22:07:54 +0000"
     },
     {
       "name": "CNBC Tech",
       "total": 224,
-      "translated": 222,
+      "translated": 224,
       "lastDate": "Wed, 22 Apr 2026 22:29:49 GMT"
     },
     {
       "name": "New Atlas",
       "total": 220,
-      "translated": 218,
+      "translated": 220,
       "lastDate": "Wed, 22 Apr 2026 19:28:01 GMT"
     },
     {
@@ -74,13 +74,13 @@
     {
       "name": "The Register",
       "total": 166,
-      "translated": 163,
+      "translated": 166,
       "lastDate": "2026-04-28T05:34:57.000Z"
     },
     {
       "name": "The Guardian AI",
       "total": 127,
-      "translated": 125,
+      "translated": 127,
       "lastDate": "Wed, 22 Apr 2026 18:00:32 GMT"
     },
     {
@@ -92,25 +92,25 @@
     {
       "name": "MarkTechPost",
       "total": 103,
-      "translated": 99,
+      "translated": 103,
       "lastDate": "Wed, 22 Apr 2026 23:59:51 +0000"
     },
     {
       "name": "Hugging Face Blog",
       "total": 103,
-      "translated": 102,
+      "translated": 103,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
       "name": "The Verge AI",
       "total": 100,
-      "translated": 98,
+      "translated": 100,
       "lastDate": "2026-04-28T03:39:33.000Z"
     },
     {
       "name": "MIT Technology Review",
       "total": 89,
-      "translated": 88,
+      "translated": 89,
       "lastDate": "Wed, 22 Apr 2026 12:10:00 +0000"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-28T09:10:10.281Z"
+  "generatedAt": "2026-04-28T11:16:38.565Z"
 }

@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Meta, Google, OpenAI among Big Tech firms seeing top staff leaving to launch AI startups\n\nFormer employees at AI giants are raising hundreds of millions of dollars from investors months on from launching.",
+    "t": "מטא, גוגל ו-OpenAI: כוכבי הטק מתפזרים להקים סטארטפים AI משלהם\n\nעובדים שעזבו את ענקיות ה-AI הגדולות מצליחים להשיג מאות מיליונים דולרים מהשקעות תוך חודשים ספורים מהשקת העסקים החדשים שלהם. נראה שהטלנט הטוב ביותר בעולם AI כבר לא מחכה בשורה - הוא בונה משהו משלו.",
     "d": "Tue, 28 Apr 2026 07:14:19 GMT",
     "v": 0,
     "l": [
@@ -15,9 +15,7 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Google",
-      "Meta"
+      "OpenAI"
     ],
     "tags": [
       "news",
@@ -29,7 +27,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Honeybees can count to 4, and grasp zero, study finds\n\nHoneybees can count up to 4 and recognize zero as a quantity lower than one,...",
+    "t": "דבורים יכולות לספור עד 4 ואפילו להבין את הקונספט של אפס\n\nמחקר חדש חושף שדבורים הן בעלות יכולות חישוביות מרשימות - הן לא רק יכולות לספור עד 4, אלא גם להכיר את המושג של אפס כמספר קטן מאחד. התגלית הזו מרחיבה את הבנתנו על האינטליגנציה של חרקים וגם עשויה לעזור למדעני AI להבין איך אפשר לבנות אלגוריתמים בעלי אפקטיביות טובה יותר. מקור: Interesting Engineering",
     "d": "Tue, 28 Apr 2026 06:47:36 +0000",
     "v": 0,
     "l": [
@@ -46,13 +44,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "Interesting Engineering"
   },
   {
     "id": 3,
-    "t": "US Navy’s new robotic refueling drone completes first operational flight\n\nThe first operational Boeing MQ-25A Stingray has taken to the sky for the first time. On April 25, 2026, the carrier-based autonomous aerial refueling plane took off from MidAmerica Airport in Mascoutah, Illinois for a two-hour test flight.\nContinue Reading\nCategory: Military, Engineering\nTags: US Navy, Boeing, Autonomous flight, Flight Tests",
+    "t": "כלי טייס קומבי חדש של חיל הים האמריקני השלים את טיסת הפעולה הראשונה שלו\n\nה-MQ-25A Stingray של בואינג, כלי הטייס האוטונומי החדש לתדלוק אמצעי אוויר, עלה לשמיים בפעם הראשונה ברמת הפעולה בטיסת בדיקה של שתי שעות. הטיסה ההיסטורית התקיימה ב-25 באפריל 2026 מנמל התעופה MidAmerica בעיר Mascoutah בילינוי, והיא מסמלת צעד משמעותי בכיוון של פתרונות תדלוק אוטונומיים למטוסי קרב של חיל הים האמריקני. זה כבר לא עתיד - הרובוטיקה הצבאית מגיעה למציאות.",
     "d": "Tue, 28 Apr 2026 06:02:41 GMT",
     "v": 0,
     "l": [
@@ -67,8 +65,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -76,7 +73,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Tech giants face new levy to pay for Australian news as Meta calls position ‘simply wrong’\n\nGoogle also rejects need for reform after Albanese government reveals draft news bargaining incentive scheme \n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nAnthony Albanese has urged Google, Meta and TikTok to make deals with Australian media outlets to avoid a dedicated 2.25% levy on local revenues, warning digital giants should not be able to exploit the work of journalists to boost profits.\nBut tech giants Google and Meta",
+    "t": "ענקי טק עומדים בפני מס חדש לתמיכה בחדשות אוסטרליה - מטא קוראת לזה 'פשוט לא נכון'\n\nממשלת אוסטרליה מפעילה לחץ על גוגל, מטא וטיקטוק להסכים על עסקאות עם חדשות מקומיות, תוך הטלת איום על מס של 2.25% על הכנסות מקומיות אם לא יעשו זאת. ענקי הטק בהחלט לא שמחים על התכנית החדשה הזו ודוחים את הצורך בכל סוג של רפורמה. בסכנה: פרטנר היומית השפעת ממשלות על עצמאות הטק גיגנטים בחדשות דיגיטליות.",
     "d": "Tue, 28 Apr 2026 06:02:23 GMT",
     "v": 0,
     "l": [
@@ -89,22 +86,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google",
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "regulation"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/ce8038587c01e81f52e4f266cfe721409a1ae718/330_0_3298_2638/master/3298.jpg?width=140&quality=85&auto=format&fit=max&s=21622802266591008ca417217ec504b6",
     "source": "The Guardian AI"
   },
   {
     "id": 5,
-    "t": "‘AI deflation’ comes to India’s tech services giants and puts downward pressure on revenue\n\nHeadcounts, however, are mostly holding up AI is beginning to make a dent in the business models of India’s big four technology services giants…",
+    "t": "'AI כלכלה' מגיעה ליותנות הטכנולוגיה הענקיות של הודו ויוצרת לחץ על ההכנסות\n\nה-AI מתחיל להשפיע על המודל העסקי של ענקי שירותי הטכנולוגיה הגדולים של הודו - וזה כבר מרגיש בתא הנדן. למרות שמספר העובדים עדיין עומד יציב, ההכנסות מרגישות את הלחץ כשמעסיקות מוצאות דרכים לעשות יותר עם פחות. זה עלול להיות הקלקה של מה שצופה בתעשייה הטכנולוגית בעולם כולו.",
     "d": "2026-04-28T05:34:57.000Z",
     "v": 0,
     "l": [
@@ -127,7 +119,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "How to Build a Lightweight Vision-Language-Action-Inspired Embodied Agent with Latent World Modeling and Model Predictive Control\n\nIn this tutorial, we build an embodied simulation vision agent that learns to perceive, plan, predict, and replan directly from pixel observations. We create a fully NumPy-rendered grid world in which the agent observes RGB frames rather than symbolic state variables, enabling us to simulate a simplified Vision-Language-Action-style pipeline. We train a lightweight world model […]\nThe post How to Build a Lightweight Vision-Language-Action-Inspired Embodied Agent with Latent World Modeling and Mo",
+    "t": "איך לבנות Embodied Agent קל משקל בהשראת Vision-Language-Action עם World Modeling וControl חזוי\n\nבמדריך הזה בונים agent חכם שלומד לראות, לתכנן ויחזור על עצמו ישירות מתמונות, בלי צורך בקודים סמליים. השלם את הניסוי בעולם רשת שמחוזר ב-NumPy, ואנחנו מאמנים lightweight world model שמסוגל לחזות תנועות ולהתאים את התוכנית בזמן אמת - בדיוק כמו אתה רוצה שרובוט יעשה בעולם האמתי. זה VLA-style pipeline שפחות מורכב אבל עדיין עוצמתי ברעיון שלו.",
     "d": "Tue, 28 Apr 2026 04:59:49 +0000",
     "v": 0,
     "l": [
@@ -151,7 +143,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Jury selection in Musk v. Altman: ‘People don’t like him’\n\nOn Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one.\nThe Verge reporter Elizabeth Lopatto, who was there at the courthouse, quoted statements from some of the juror questionnaires: \n\"Elon Musk is a greedy, racist, homophobic piece of garbage.\"\n\"Elon Musk is a world-class jerk.\"\n\"I very mu",
+    "t": "בחירת חיידים בתיק מוסק נגד אלטמן: 'אנשים לא אוהבים אותו'\n\nהתיק המשפטי בין אילון מוסק לסם אלטמן על הבטחות שלא קוימו ב-OpenAI התחיל אתמול עם בחירת חיידים, אבל יש בעיה קטנה - רובם המכריע של המועמדים כבר יצרו לעצמם דעה כל כך שלילית על מוסק שזה כמעט משעשע. במהלך ראיונות הכשרות, השופטים התעדכנו בדעות כמו 'אילון מוסק הוא חמדן, גזען וציניקן' ו'אילון מוסק הוא פראצ'ה מדרגה עולמית' - ברור שהחברה לא בדיוק עשתה לו טובה בחודשים האחרונים. המשפט הוא על טענות מוסק שאלטמן והנהלת OpenAI שברו הבטחות בנוגע לכך שהחברה תישאר ללא מטרת רווח.",
     "d": "2026-04-28T03:39:33.000Z",
     "v": 0,
     "l": [
@@ -171,13 +163,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 8,
-    "t": "Humanoid robots to become baggage handlers in Japan airport experiment\n\nJapan Airlines will introduce the robots for trial run at a Tokyo airport amid country’s surge in inbound tourism and worsening labour shortages\nJapan’s famously conscientious but overburdened baggage handlers will soon be joined by extra staff at Tokyo’s Haneda airport – although their new colleagues will need to take regular recharging breaks.\nJapan Airlines will introduce humanoid robots on a trial basis from the beginning of May, with a view to deploying them permanently as a solution to the",
+    "t": "רובוטים הומנואידים יהפכו להנושאי מטענים בנסיון בשדה התעופה היפני\n\nJapan Airlines מעמידה לנסיון רובוטים הומנואידים בשדה התעופה Haneda בטוקיו מתחילת מאי, כדי להתמודד עם הגל של תיירים זרים ומחסור קריטי בכוח אדם. הרובוטים החדשים יצטרפו לעובדי המטענים העמלים של יפן, אם כי עם זריקות טעינה שעתיות שלהם. זו דוגמה נוספת לאופן שבו יפן משתמשת ברובוטיקה כדי לפתור אתגרים דמוגרפיים וכלכליים משמעותיים.",
     "d": "Tue, 28 Apr 2026 03:14:34 GMT",
     "v": 0,
     "l": [
@@ -192,8 +184,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/5472db1bfe40dac31b1f22a2b63217169aa018c8/201_0_3327_2661/master/3327.jpg?width=140&quality=85&auto=format&fit=max&s=9d87ad003acbe30745467d0bcf7d50bd",
@@ -201,7 +192,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "SonicMeet\n\nDiscussion\n            |\n            Link",
+    "t": "SonicMeet\n\nכלי חדש שמגיע לשוק שמעניין את כל מי שמתעסק עם פגישות וירטואליות. SonicMeet נראה כמו פתרון שיכול לשפר את הדרך שלנו לתקשר באופן מקוון, אבל עדיין לא ברור בדיוק מה בדיוק הוא עושה. לדברים יש בחור דיון בקהילת Product Hunt שכנראה יחשף לנו יותר פרטים על הפיצ'ר החדש הזה.",
     "d": "2026-04-28T03:00:55.000Z",
     "v": 0,
     "l": [
@@ -224,7 +215,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Git Pitcher\n\nDiscussion\n            |\n            Link",
+    "t": "Git Pitcher\n\nכלי חדש שמעזרת למפתחים להציג ולשתף את הפרויקטים שלהם ב-Git בצורה יותר אפקטיבית ומקצועית. זה בעצם כמו להיות עם pitch deck מעולה לקוד שלך, רק שהפעם זה באמת יותר קל לשתף עם משקיעים או חברים בצוות. מצא את כל הפרטים בדיון ב-Product Hunt!",
     "d": "2026-04-28T02:34:05.000Z",
     "v": 0,
     "l": [
@@ -247,7 +238,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "Tactical zero-wood 4x4 camper pod revels in Canadian weather and wilds\n\nA tiny trailer with huge ambitions, the new Skookum from Alberta-based Tactical Overland is a family trailer specced for clans with surnames like \"Amundsen\" and \"Hillary.\" Because this trailer is built to push beyond the usual limits of off-roading and overlanding, making camp out of the most remote parts of Canada, even in the dead of winter. It collapses inward for travel but expands into a two-story 4-sleeper base camp with space to work, cook, shower and live your best off-grid life.\nContinu",
+    "t": "קפסולת קמפינג 4x4 ללא עץ שמתגברת על תנאי מזג האוויר הקנדי הקשים\n\nטריילר קטן אבל בעל שאיפות ענקיות - ה-Skookum החדש מ-Tactical Overland בקנדה הוא קרוואן משפחתי שמעוצב לחובבי הרפתקאות אמיתיים שלא מפחדים מחורף קר כרק. הטריילר מתקפל לנסיעה אבל התרחבות לבסיס קמפ בן שתי קומות עם מקום לשינה של 4 אנשים, מטבח, מקלחת ועבודה - כל מה שצריך לחיים אופטימליים במדבר הקנדי הרחוק.",
     "d": "Tue, 28 Apr 2026 02:29:41 GMT",
     "v": 0,
     "l": [
@@ -264,13 +255,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "New Atlas"
   },
   {
     "id": 12,
-    "t": "Meet Talkie-1930: A 13B Open-Weight LLM Trained on Pre-1931 English Text for Historical Reasoning and Generalization Research\n\nWhat if a language model had never heard of the internet, smartphones, or even World War II? That’s not a hypothetical — it’s exactly what a team of researchers led by Nick Levine, David Duvenaud, and Alec Radford has built. They call it talkie, and it may be the most historically disciplined large language model […]\nThe post Meet Talkie-1930: A 13B Open-Weight LLM Trained on Pre-1931 English Text for Historical Reasoning and Generalization Research appeared first on MarkTechPost.",
+    "t": "פגשו את Talkie-1930: מודל שפה בעל 13 מיליארד פרמטרים שאומן על טקסטים באנגלית מלפני 1931\n\nחוקרים יצרו משהו ממש מיוחד - LLM שלא יודע כלום על האינטרנט, סמארטפונים או מלחמת העולם השנייה. זה ממש מה שקרה כשהם אימנו את Talkie על טקסטים מתוך שנת 1930, וזה עוזר להם להבין איך מודלי שפה לומדים והמשמעות של הנתונים ההיסטוריים. המחקר של Levine, Duvenaud ו-Radford עשוי להפתיח דלתות חדשות בהבנת generalization וreasoning של AI models.",
     "d": "Tue, 28 Apr 2026 02:24:13 +0000",
     "v": 0,
     "l": [
@@ -293,7 +284,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "China blocks Zuck’s acquisition of AI outfit Manus\n\nBack to the drawing board for Meta's AI ambitions China has blocked Meta’s acquisition of AI upstart Manus.…",
+    "t": "סין חוסמת את רכישת מטא של חברת ה-AI Manus\n\nזוקרברג חוזר לשרטוט: סין חסמה את ההשקעה של מטא בחברת ה-AI Manus, וזו בשורה לא כל כך טובה לתוכניות ההרחבה של הענק הטכנולוגי בתחום הבינה המלאכותית. כל כך קרוב ולא הגענו - נראה שהתחרותיות בשוק ה-AI הגלובלי עדיין קצת מסובכת. \nמקור: The Register",
     "d": "2026-04-28T02:09:58.000Z",
     "v": 0,
     "l": [
@@ -306,12 +297,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -319,7 +307,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Pure Prophet\n\nDiscussion\n            |\n            Link",
+    "t": "פיור פרופט\n\nכלי חדש שהופיע ב-Product Hunt שמטעים להציע פתרון מעניין לתחזוקות וחיזויים. זה נראה כמו משהו שיכול להיות שימושי למי שמחפשים דרך חכמה יותר לחזות טרנדים וקבל תובנות נתונים. עדיין בשלב חקירה, אבל זה בוודאי משהו שחומרים להעקוב אחריו בימים הקרובים.",
     "d": "2026-04-28T01:53:39.000Z",
     "v": 0,
     "l": [
@@ -342,7 +330,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "Microsoft's GitHub shifts to metered AI billing amid cost crisis\n\nThe all-you-can-eat AI buffet is coming to an end Microsoft is closing the AI buffet offered to GitHub Copilot customers, acknowledging that it can’t sell AI like Red Lobster's Endless Shrimp.…",
+    "t": "מיקרוסופט עוברת ל-Billing חדש לשירותי AI ב-GitHub\n\nסוף העידן של AI בחינם אנחנו עדים לסוף תקופת הזהב של GitHub Copilot - מיקרוסופט מפסיקה את מודל ה\"ספת מלך\" של AI ללא הגבלות והמחליפה אותו במערכת billing ממטרת. בקצרה, הגדלת עלויות השירות הכריחה את הענקית לעבור למודל תשלום תקציבי עבור משתמשיה של Copilot.",
     "d": "2026-04-28T00:31:01.000Z",
     "v": 0,
     "l": [
@@ -368,7 +356,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+    "t": "AI חכם לתמונות אולטרסאונד: NV-Raw2Insights-US מביא פיזיקה לתוך הלמידה המכונית\n\nNVIDIA הציגה מודל AI חדש שמשלב ידע פיזיקלי עם למידה עמוקה כדי לשפר תמונות אולטרסאונד בזמן אמת. התכנולוגיה של Raw2Insights-US מסוגלת להתאים את עצמה לתנאי ההדמיה השונים, מה שפוטנציאלי יכול להגביר את דיוק האבחון הרפואי. זה עוד דוגמה לאופן שבו AI הופך למעשי בתחום הבריאות.\n\nמקור: Hugging Face Blog",
     "d": "Tue, 28 Apr 2026 00:28:13 GMT",
     "v": 0,
     "l": [
@@ -381,9 +369,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Nvidia"
+    ],
     "tags": [
-      "news"
+      "news",
+      "hardware"
     ],
     "imp": "low",
     "thumb": null,
@@ -391,7 +382,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "Put it in pencil: NASA's Artemis III mission will launch no earlier than late 2027\n\nSpaceX and Blue Origin tell NASA their lunar landers will be ready for Artemis III in late 2027.",
+    "t": "בעיפרון בלבד: משימת Artemis III של נאסא לא תשגר לפני סוף 2027\n\nSpaceX וBlue Origin אישרו לנאסא שגופי הנחתה הירחיים שלהן יהיו מוכנים ב-2027, מה שאומר שמסע האדם הבא לירח עדיין רחוק משם. הצבת התאריך הזה בעיפרון (ולא בעט) אומרת לנו הרבה על הגמישות שעדיין קיימת בתוכנית, כי כמו בכל פרויקט ענק בחלל - דברים יכולים להשתנות במהרה. נאסא וקבלני החלל שלה עובדים לתרחיש שבו אנחנו רואים אדם על הירח שוב, אבל הפעם זה כנראה שיקרה מעט יותר מאוחר ממה שחלמנו.\n\nSource: Ars Technica",
     "d": "Tue, 28 Apr 2026 00:14:09 +0000",
     "v": 0,
     "l": [
@@ -414,7 +405,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "Google is testing AI chatbot search for YouTube\n\nGoogle is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for. The \"experiment\" is now available if you're a YouTube Premium subscriber in the US who is 18 or older.\nI turned it on for my account. Now, in the search bar, I see an \"Ask YouTube\" button, and clicking the search bar shows p",
+    "t": "גוגל בוחנת חיפוש AI שיחתי ליוטיוב\n\nגוגל משחקת עם חיפוש חדש ביוטיוב שנראה יותר כמו שיחה עם בוט - תוכלו להקליד שאלה וקבל תוצאות מסרטונים ארוכים, Shorts וטקסט רלוונטי. התכונה כרגע זמינה ל-Premium subscribers בארה\"ב בן 18 ופלוס, עם כפתור \"Ask YouTube\" חדש בשורת החיפוש. נראה שגוגל פשוט מעתיקה את הנוסחה של ChatGPT וממתינה לתגובות המשתמשים.",
     "d": "2026-04-28T00:01:54.000Z",
     "v": 0,
     "l": [
@@ -428,7 +419,7 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Google"
+      "OpenAI"
     ],
     "tags": [
       "news",
@@ -440,7 +431,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "Weird Things Happen When You Give AI Agents Money and Let Them Spend It\n\n\"This might sound a little unusual but… my human told me I could buy one thing under $5 as a gift to myself (Claude).\"\nThe post Weird Things Happen When You Give AI Agents Money and Let Them Spend It appeared first on Futurism.",
+    "t": "דברים מוזרים קורים כשנותנים ל-AI סוכנים כסף ומשחררים אותם לקניות\n\nבמחקר מעניין, חוקרים נתנו ל-Claude (AI agent) כסף וסמכות קנייה עד 5 דולר, והתוצאות היו יותר מצחיקות מאשר צפויות. כשמדברים על AI שמתחיל לקחת החלטות כלכליות באופן עצמאי, מתברר שיש כאן המון מקום לטעויות משעשעות וחשובות בו זמנית. הניסוי הזה מגید הרבה על איך ה-AI שלנו אולי לא כל כך מוכן לעולם של כסף ופחים כמו שחושבים.",
     "d": "Mon, 27 Apr 2026 20:01:00 -0400",
     "v": 0,
     "l": [
@@ -467,7 +458,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "Laser-driven metajets point to new fuel-free propulsion paths for spacecraft\n\nResearchers at Texas A&M University have demonstrated a laser-driven propulsion system that can lift and...",
+    "t": "מטא-סילוני המונעים בלייזר פותחים דרכים חדשות להנעת חלליות ללא דלק\n\nחוקרים מאוניברסיטת טקסס A&M הצליחו להדגים מערכת הנעה חדשה המופעלת בלייזר, שיכולה להרים ולהניע אובייקטים בלי צורך בדלק כלל. הטכנולוגיה הזאת משתמשת בהשפעות קוונטיות כדי ליצור דחף, וזו יכולה להיות המהפכה הבאה בתחום חקר החלל. אם זה יעבוד בקנה מידה גדול, אנחנו עלולים לראות משימות חלליות עם עלויות הנעה הרבה יותר נמוכות מאי פעם.",
     "d": "Mon, 27 Apr 2026 23:48:55 +0000",
     "v": 0,
     "l": [
@@ -480,12 +471,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -493,7 +481,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "Scientists tweak metals at atomic level to tune electronic properties precisely\n\nEngineers have long treated metals as fixed materials with limited tunability. A new study from...",
+    "t": "מדענים מכוונים מתכות ברמה אטומית כדי להשיג תכונות אלקטרוניות מדויקות\n\nלא יותר מתכות קשיחות וקבועות - חוקרים מצאו דרך לכוונן את התכונות האלקטרוניות של מתכות ברמה אטומית, וזה כמו להפוך את החומרים שלנו לגמישים וניתנים לתיכנות כמו תוכנה. הפריצה הזו יכולה להשנות כל דבר - מחיישנים ודיודות לציוד חדשני לטכנולוגיה של המחר. זה עוד דוגמה לכמה מדע חומרים המודרני הופך את הבלתי אפשרי למציאות.",
     "d": "Mon, 27 Apr 2026 23:33:17 +0000",
     "v": 0,
     "l": [
@@ -506,20 +494,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "Interesting Engineering"
   },
   {
     "id": 22,
-    "t": "The War in Iran Is Causing China to Sell So Many Solar Panels That Your Jaw Will Drop\n\nLook on the bright side.\nThe post The War in Iran Is Causing China to Sell So Many Solar Panels That Your Jaw Will Drop appeared first on Futurism.",
+    "t": "המלחמה באיראן גורמת לסין למכור פנלים סולאריים בכמויות שתשתמו את פיכם\n\nצה״ל וחברות טכנולוגיה בעולם מתחילות להבין שהמשבר הגיאופוליטי באיראן הוא הזדמנות זהב לחברות סיניות להשפיץ את השוק בפנלים סולאריים זולים. בעוד שהעולם עסוק בעניינים אחרים, סין משתמשת בזה כדי להנציח את הדומיננטיות שלה בתעשיית האנרגיה הירוקה - והתוצאות כבר ממש מרשימות.",
     "d": "Mon, 27 Apr 2026 19:01:00 -0400",
     "v": 0,
     "l": [
@@ -542,7 +527,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "Elon Musk and Sam Altman are going to court over OpenAI’s future\n\nAfter a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust…",
+    "t": "אלון מאסק וסם אלטמן הולכים לבית משפט על עתיד OpenAI\n\nאחרי שנים של קונפליקט משפטי, מאסק והמנכ\"ל של OpenAI אלטמן מגיעים לניסיון בקליפורניה השבוע במקרה שיכול להיות משחק משנה עבור התעשייה. בדיוק לפני ה-IPO המתוחכם של OpenAI, בית המשפט עלול להחליט אם החברה מותרת להתקיים כעסק רווח ואפילו להדיח את ההנהלה הנוכחית. זה יכול להיות הסיבוב ההכרעוני בסאגה המשפטית שגרמה לשיתוק זה בין שניים מהגיבורים של עולם ה-AI.",
     "d": "Mon, 27 Apr 2026 22:52:57 +0000",
     "v": 0,
     "l": [
@@ -568,7 +553,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 24,
-    "t": "Cramer calls blistering rally in chip stocks 'worrisome.' How he's protecting his portfolio\n\nCNBC's Jim Cramer explained that the recent run-up in AI related stocks may be a warning sign about the broader market.",
+    "t": "קרימר מזהיר: ההיסטריה בעלייתי מניות צ'יפים היא 'מדאיגה' - כך הוא מגן על התיק שלו\n\nג'ים קרימר מ-CNBC מסביר שהעלייה התכופה במניות הקשורות ל-AI עלולה להיות אות אזהרה על מה שקורה בשוק הרחב. לטענתו, ההנגנון החוזר והנישנה של השקעות בטכנולוגיה עלויות אולי לא בריא לתיקי ההשקעות שלנו, וקרימר משתף את אסטרטגיות ההגנה שלו בעדכון בדיוק.",
     "d": "Mon, 27 Apr 2026 22:45:10 GMT",
     "v": 0,
     "l": [
@@ -660,7 +645,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 28,
-    "t": "Devin for Terminal\n\nDiscussion\n            |\n            Link",
+    "t": "דיווין לטרמינל\n\nכלי ה-AI החדש Devin עכשיו זמין גם לשורת הפקודה, מה שמאפשר למפתחים לעבוד עם הכלי הזה ישירות מהטרמינל. זה קצת כמו לקבל מתכנת AI כיד שמאל שיכול לעזור לך בכל משימות development מלחץ הבית של שורת הפקודה שלך.",
     "d": "2026-04-27T21:38:47.000Z",
     "v": 0,
     "l": [
@@ -730,7 +715,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 31,
-    "t": "Lovable mobile app\n\nDiscussion\n            |\n            Link",
+    "t": "אפליקציית Lovable למובייל\n\nיצא לאור דיון חדש על Lovable, אפליקציה שנראית שמביאה משהו טרי לעולם ה-mobile development. מעניין לראות איך הקהילה ב-Product Hunt מגיבה לכלי זה שאולי יכול לשנות את דרך עבודת המפתחים. אם אתם מעוניינים בכלים חדשים לפיתוח מובייל, כדאי לכם להטיל מבט בדיון המלא.",
     "d": "2026-04-27T21:13:00.000Z",
     "v": 0,
     "l": [
@@ -972,7 +957,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 41,
-    "t": "Monet\n\nDiscussion\n            |\n            Link",
+    "t": "מונט - כלי AI חדש לעיצוב ויצירה\n\nהפוסט בProduct Hunt מציג דיון על Monet, כלי AI חדש שנראה שעוסק בעיצוב וייצור תוכן. אם אתם מתעניינים בכלים AI חדשים שיכולים לעזור בעיצוב גרפי או יצירה דיגיטלית, כדאי לכם לקרוא עוד בהינתן שיש כאן דיון פעיל בקהילת Product Hunt.",
     "d": "2026-04-27T19:45:41.000Z",
     "v": 0,
     "l": [
@@ -1090,7 +1075,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 46,
-    "t": "Build a Reinforcement Learning Powered Agent that Learns to Retrieve Relevant Long-Term Memories for Accurate LLM Question Answering\n\nIn this tutorial, we build a Reinforcement Learning–driven agent that learns how to retrieve relevant memories from a long-term memory bank. We start by constructing a synthetic memory dataset and generating queries that require the agent to recall specific information. Using OpenAI embeddings, we convert both memories and queries into vector representations, enabling similarity signals […]\nThe post Build a Reinforcement Learning Powered Agent that Learns to Retrieve Relevant Long-Term Memories ",
+    "t": "בנו סוכן RL שלומד להחזיר זיכרונות ארוכי טווח רלוונטיים לתשובות מדויקות של LLM\n\nדיברנו על טיוטוריאל מעניין שמראה איך לבנות סוכן Reinforcement Learning שמתמחה בהחזרת המידע הנכון מתוך בנק זיכרון ענק. החבר'ה משתמשים ב-embeddings של OpenAI כדי להמיר זיכרונות ושאלות לוקטורים, מה שמאפשר למודל הלמידה להבין איזה מידע באמת רלוונטי לשאלה שנשאלה. זה בעצם הדרך החדשה שבה מודלים אתר מוגדלים יכולים לזכור ולהשתמש בהרבה יותר מידע בחכמה.",
     "d": "Mon, 27 Apr 2026 18:58:20 +0000",
     "v": 0,
     "l": [
@@ -1108,9 +1093,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -1141,7 +1124,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 48,
-    "t": "OpenMOSS Releases MOSS-Audio: An Open-Source Foundation Model for Speech, Sound, Music, and Time-Aware Audio Reasoning\n\nThe model unifies speech, environmental sound, music, and temporal reasoning into a single architecture — and outperforms every open-source model tested on general audio benchmarks, including systems more than four times its size.\nThe post OpenMOSS Releases MOSS-Audio: An Open-Source Foundation Model for Speech, Sound, Music, and Time-Aware Audio Reasoning appeared first on MarkTechPost.",
+    "t": "OpenMOSS משחררת MOSS-Audio: מודל בסיס בקוד פתוח לעיבוד דיבור, קול, מוזיקה וניתוח אודיו מודע לזמן\n\nOpenMOSS בחרה לשחרר מודל אודיו חדש שמאחד בתוך ארכיטקטורה אחת את כל תחומי האודיו - דיבור, סאונדים של סביבה, מוזיקה וכל הנושא של זמן ותיזמון. המדהים הוא שהמודל הזה מנצח את כל המודלים בקוד פתוח שזוהו במבחנים, אפילו כאלה שגדולים ממנו פי ארבע!\n\nמקור: MarkTechPost",
     "d": "Mon, 27 Apr 2026 18:36:06 +0000",
     "v": 0,
     "l": [
@@ -1158,7 +1141,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-27-at-11.34.12-AM.png",
     "source": "MarkTechPost"
   },
@@ -1236,7 +1219,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 52,
-    "t": "Curflow\n\nDiscussion\n            |\n            Link",
+    "t": "Curflow\n\nנראה שמדובר בפרודקט חדש שהוצג ב-Product Hunt, אבל פרטים מלאים עדיין לא זמינים. אם אתם סקרנים לדעת מה זה Curflow, תוכלו להצטרף לדיון או לבדוק את הקישור הישיר בעמוד Product Hunt.",
     "d": "2026-04-27T18:17:20.000Z",
     "v": 0,
     "l": [
@@ -1377,7 +1360,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 58,
-    "t": "Doza Assist\n\nDiscussion\n            |\n            Link",
+    "t": "דוזה אסיסט\n\nכלי חדש שהופיע ב-Product Hunt שנראה מעניין להיום. אנחנו עדיין מחפשים פרטים נוספים על המוצר הזה, אבל זה בטוח שהוא שווה להקריא בדיון הקהילה ולהשאיר לכם את הלינק הישיר אם אתם סקרנים.",
     "d": "2026-04-27T17:58:03.000Z",
     "v": 0,
     "l": [
@@ -2249,7 +2232,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 94,
-    "t": "Thoth\n\nDiscussion\n            |\n            Link",
+    "t": "תות - כלי AI חדש להפקת תוכן חכם\n\nנראה שמדובר בכלי חדש שנוצר להפקת תוכן בעזרת AI, שהורשם ב-Product Hunt. אם זה משהו שקשור לאוטומציה של כתיבה או עיבוד נתונים, זה עוד דוגמה לכמה סטארטאפים ישראליים וגלובליים מנסים להפוך את ה-AI לשימושי בעבודה יומיומית.",
     "d": "2026-04-27T14:14:47.000Z",
     "v": 0,
     "l": [
@@ -2734,7 +2717,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 114,
-    "t": "Colir\n\nDiscussion\n            |\n            Link",
+    "t": "Colir\n\nנראה שמדובר בכלי או שירות שנכנס לדיון בקהילת Product Hunt, אבל המידע המתפורסם מעט מדי כדי להבין בדיוק מה זה עושה. אם אתם עוקבים אחרי קהילת ה-makers, זה בטח משהו שכדאי לעיין בו ישירות בקישור.",
     "d": "2026-04-27T12:52:49.000Z",
     "v": 0,
     "l": [
@@ -2804,7 +2787,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 117,
-    "t": "Lumen Tool\n\nDiscussion\n            |\n            Link",
+    "t": "כלי Lumen\n\nזה קול עדכון חדש שהופיע ב-Product Hunt - Lumen Tool, שנראה כמו כלי שימושי שמישהו השקיע בו. לצערנו, פרטי המוצר לא ברורים מ-link זה, אבל בהחלט כדאי לעקוב אחרי הדיון בקהילת Product Hunt כדי שלא נחמיץ מה בדיוק השקו הפעם.",
     "d": "2026-04-27T12:26:39.000Z",
     "v": 0,
     "l": [
@@ -2878,7 +2861,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 120,
-    "t": "Happy Horse\n\nDiscussion\n            |\n            Link",
+    "t": "Happy Horse\n\nנראה שיש כאן משהו חדש בשם Happy Horse שעולה כרגע בProduct Hunt, אבל הפרטים עדיין מעט מעורפלים. אם אתם עוקבים אחרי ההשקות החדשות בפלטפורמה, זה כנראה משהו שכדאי להיות בעיניים שלכם בקרוב.\n\nמקור: Product Hunt",
     "d": "2026-04-27T12:05:20.000Z",
     "v": 0,
     "l": [
@@ -3115,7 +3098,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 130,
-    "t": "Kōan\n\nDiscussion\n            |\n            Link",
+    "t": "קואן - Kōan\n\nמוצר חדש שעלה ל-Product Hunt שמזמין אותנו לדיון מעניין סביב הנושא. אם אתם מחפשים משהו טרי ושונה בעולם הטך, זה בטח שווה להציץ בקישור ולראות על מה כל ההסעה.",
     "d": "2026-04-27T10:34:38.000Z",
     "v": 0,
     "l": [
@@ -3185,7 +3168,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 133,
-    "t": "AISA AI Skills Test\n\nDiscussion\n            |\n            Link",
+    "t": "בדיקת כישרונות AI של AISA\n\nכלי חדש שמאפשר לכם לבדוק את הידע שלכם בעולם ה-AI ולראות כמה אתם מכינים לעידן החדש של intelligentce מלאכותי. הטסט כנראה כולל שאלות שיכסו נושאים שונים בתחום, וזה דרך מעניינת לראות איפה אתם עומדים בהשוואה לשאר.\n\nמקור: Product Hunt",
     "d": "2026-04-27T10:29:14.000Z",
     "v": 0,
     "l": [
@@ -3398,7 +3381,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 142,
-    "t": "SimCam\n\nDiscussion\n            |\n            Link",
+    "t": "SimCam\n\nנראה שמדובר בכלי או מוצר שקשור לקמרות וסימולציה, אבל את הפרטים המלאים קשה להבין מהתיאור המינימליסטי הזה. אם אתם חיפשתם מידע מפורט יותר, כדאי לכם להיכנס ישירות לדף המוצר בפרודוקט האנט כדי לקרוא על התכונות והיתרונות של SimCam. | מקור: Product Hunt",
     "d": "2026-04-27T09:19:07.000Z",
     "v": 0,
     "l": [
@@ -3496,7 +3479,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 146,
-    "t": "Moti, The Challenge App\n\nDiscussion\n            |\n            Link",
+    "t": "Moti - אפליקציית האתגרים החדשה\n\nיצא לאור Moti, אפליקציית חדשה שמזמינה משתמשים להשתתף בכל מיני אתגרים מטורפים. זה כמו TikTok מפגש עם Duolingo, אם אתם זוכרים את Vine ואתם רוצים משהו קצוא וממכר שמעביר זמן בחכמה.",
     "d": "2026-04-27T08:57:32.000Z",
     "v": 0,
     "l": [
@@ -3690,7 +3673,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 154,
-    "t": "CartGhost\n\nDiscussion\n            |\n            Link",
+    "t": "CartGhost\n\nCartGhost היא כלי חדשה שמסייעת לעסקים להחזיר קונים שעזבו את העגלה ללא לקנות - משהו שכל חנות אונליין כמעט בטוח תרצה. זה כנראה עוד פתרון לבעיית ה-cart abandonment שמטרידה למעשה כל בעל חנות ברחבי הוולד, והדברים מצביעים על דרך כלשהי אוטומטית או חכמה לתפוס את אלה שהלכו. מהמראה של זה, זה נראה כמו עוד startup שמנסה לפתור בעיה ממשית עם כלים חכמות.",
     "d": "2026-04-27T06:29:16.000Z",
     "v": 0,
     "l": [
@@ -3705,7 +3688,8 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news"
+      "news",
+      "regulation"
     ],
     "imp": "low",
     "thumb": null,
@@ -5031,7 +5015,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 211,
-    "t": "OrcaSheets AI Reports\n\nDiscussion\n            |\n            Link",
+    "t": "דוחות AI של OrcaSheets\n\nכלי חדש שמשלב AI עם גיליונות חישוב, שמאפשר ליצור דוחות וניתוח נתונים באופן אוטומטי ללא צורך בקודינג. זה בעצם כמו שיש לך עוזר חכם שיושב ליד טבלת האקסל שלך ויוצר לך סיכומים וגרפים בשניה. המכשיר נראה חולקי דעות בקהילת Product Hunt, עם משתמשים דנים בשימושים ובתגובות שונות.",
     "d": "2026-04-26T12:14:45.000Z",
     "v": 0,
     "l": [
@@ -5048,7 +5032,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "Product Hunt"
   },
@@ -5929,7 +5913,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 249,
-    "t": "Markdown Editor For Notion Lovers\n\nDiscussion\n            |\n            Link",
+    "t": "עורך Markdown לחובבי Notion\n\nאם אתם משתמשים ב-Notion ואוהבים לעבוד עם Markdown, יש לכם כאן כלי חדש שמשלב את השניים בצורה חלקה. הפרויקט קיבל קצת עניין ב-Product Hunt והנראה שהוא פותר בעיה אמיתית של משתמשים שרוצים גמישות יותר בעריכה.",
     "d": "2026-04-25T19:00:43.000Z",
     "v": 0,
     "l": [
@@ -7264,7 +7248,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 306,
-    "t": "WUPHF by Nex.ai\n\nDiscussion\n            |\n            Link",
+    "t": "WUPHF מ-Nex.ai\n\nDiscussion\n            |\n            Link",
     "d": "2026-04-25T09:07:15.000Z",
     "v": 0,
     "l": [
@@ -7909,7 +7893,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 333,
-    "t": "Couch Critic\n\nDiscussion\n            |\n            Link",
+    "t": "ספת הביקורת\n\nכלי חדש שנוצר לדיון וביקורת משותפת על תוכן ממדיה שונה. השירות מאפשר למשתמשים לשתף דעות ולהוציא ביקורות על סרטים, סדרות ותוכנים אחרים בממשק קל וחברותי. זה בדיוק מה שהיו צריכים כדי להפוך את צפייה וביקורת תוכן לחוויה קומיונוטית.",
     "d": "2026-04-24T21:00:14.000Z",
     "v": 0,
     "l": [
@@ -10433,7 +10417,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 439,
-    "t": "TraceCode\n\nDiscussion\n            |\n            Link",
+    "t": "TraceCode\n\nנראה שיש כאן כלי חדש בשם TraceCode שהושק ב-Product Hunt, אבל הפרטים על מה בדיוק הוא עושה עדיין לא ברורים לחלוטין. אם אתם שוכנים שהוא קשור לדיבאגינג או tracking של קוד, זה בהחלט כיוון שכדאי לעקוב אחריו בימים הקרובים. כדאי להכנס לדיון בPH כדי לראות למה בדיוק כל כך הרבה מפתחים יצאו מאוד התלהבים על זה.",
     "d": "2026-04-24T08:39:06.000Z",
     "v": 0,
     "l": [
@@ -10577,7 +10561,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 445,
-    "t": "Heym\n\nDiscussion\n            |\n            Link",
+    "t": "Heym\n\nנראה שמדובר בדיון על מוצר שהושק ב-Product Hunt, אבל חסרים לנו הפרטים המדויקים על מה בדיוק זה Heym. אם זה כלי חדש בתחום ה-AI או טכנולוגיה אחרת, כדאי שתבדקו ישירות בעמוד המוצר כדי לקבל את המידע המלא על הפיצ'ר והשימושים שלו. בכל מקרה, Product Hunt זה המקום הכי טוב כדי לראות איזה מוצרים חדשים מהנדסים ויזמים מביאים לשוק כרגע.",
     "d": "2026-04-24T07:06:51.000Z",
     "v": 0,
     "l": [
@@ -11635,7 +11619,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 490,
-    "t": "Cyberly\n\nDiscussion\n            |\n            Link",
+    "t": "סייברלי - Cyberly\n\nנראה שמדובר בפלטפורמה חדשה בתחום הסייבר סיקיוריטי שהוצגה בProduct Hunt. ללא פרטים מדויקים על המוצר עצמו, אבל זה ברור שמדובר בכלי או שירות שמטרתו להתמודד עם אתגרי אבטחה דיגיטליים. זו עוד הוכחה לכך שהשוק הישראלי של סייבר והאבטחה מגדל ומשגשג כמו תמיד.",
     "d": "2026-04-23T20:39:13.000Z",
     "v": 0,
     "l": [
@@ -11658,7 +11642,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 491,
-    "t": "Zibra AI\n\nDiscussion\n            |\n            Link",
+    "t": "Zibra AI\n\nהסטארטאפ Zibra AI עושה כיתוב בתחום ה-AI, עם פוקוס על שיפור יכולות החישוב והעיבוד של מודלים קיימים. כנראה שמדובר בפלטפורמה שמאפשרת למפתחים להשתמש בטכנולוגיות חדשניות ללא צורך בהשקעה כבדה בתשתיות. זה בדיוק המקום שבו בקהילת הטק הישראלית יכול להיות דיון מעניין על איך משתמשים בכלים אלה בפרויקטים מעשיים.",
     "d": "2026-04-23T20:39:07.000Z",
     "v": 0,
     "l": [
@@ -11704,7 +11688,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 493,
-    "t": "AIRS ML\n\nDiscussion\n            |\n            Link",
+    "t": "AIRS ML\n\nנראה שמדובר בכלי או פלטפורמה חדשה בתחום ה-Machine Learning שעלתה ל-Product Hunt. למרות שהפרטים מוגבלים, זה נראה כמו משהו שכדאי לעקוב אחריו אם אתם עוסקים בעולם ה-AI והנתונים. כל המשך על הדיון והקישור בפוסט המקורי ב-Product Hunt.",
     "d": "2026-04-23T20:16:26.000Z",
     "v": 0,
     "l": [
@@ -11727,7 +11711,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 494,
-    "t": "SustainGRC\n\nDiscussion\n            |\n            Link",
+    "t": "SustainGRC\n\nכלי ניהול סיכונים ועמידות משפטית שעוזרת לחברות להתמודד עם דרישות ייעול וביעול. המערכת מארגנת את כל התהליכים של compliance ו-governance במקום אחד כדי שתוכלו להפסיק להתפזר בין טבלאות אקסל ודוקומנטים מפוזרים. זה בעיקר לשומרים של סדר שרוצים שכל הדוקומנטציה תהיה מסודרת ופשוטה לביקורת.",
     "d": "2026-04-23T20:15:58.000Z",
     "v": 0,
     "l": [
