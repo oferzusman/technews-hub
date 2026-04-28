@@ -1,9 +1,9 @@
 {
-  "total": 5781,
+  "total": 5786,
   "translated": 5769,
-  "untranslated": 12,
-  "today": 12,
-  "week": 859,
+  "untranslated": 17,
+  "today": 17,
+  "week": 864,
   "sources": [
     {
       "name": "Product Hunt",
@@ -55,7 +55,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 218,
+      "total": 219,
       "translated": 218,
       "lastDate": "Wed, 22 Apr 2026 19:28:01 GMT"
     },
@@ -73,13 +73,13 @@
     },
     {
       "name": "The Register",
-      "total": 164,
+      "total": 165,
       "translated": 163,
-      "lastDate": "2026-04-28T00:31:01.000Z"
+      "lastDate": "2026-04-28T02:09:58.000Z"
     },
     {
       "name": "The Guardian AI",
-      "total": 125,
+      "total": 126,
       "translated": 125,
       "lastDate": "Wed, 22 Apr 2026 18:00:32 GMT"
     },
@@ -97,15 +97,15 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 101,
+      "total": 102,
       "translated": 99,
       "lastDate": "Wed, 22 Apr 2026 23:59:51 +0000"
     },
     {
       "name": "The Verge AI",
-      "total": 99,
+      "total": 100,
       "translated": 98,
-      "lastDate": "2026-04-28T00:01:54.000Z"
+      "lastDate": "2026-04-28T03:39:33.000Z"
     },
     {
       "name": "MIT Technology Review",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-28T04:04:49.569Z"
+  "generatedAt": "2026-04-28T06:43:39.075Z"
 }
