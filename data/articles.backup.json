@@ -118086,7 +118086,7 @@
       "author": "Jay Peters",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-28T01:19:37.992Z",
       "created_at": "2026-04-28T01:19:37.992Z"
     },
@@ -118116,7 +118116,7 @@
         "starship"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-28T01:19:38.130Z",
       "created_at": "2026-04-28T01:19:38.130Z"
     },
@@ -118153,7 +118153,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-28T01:19:39.390Z",
       "created_at": "2026-04-28T01:19:39.390Z"
     },
@@ -118227,7 +118227,7 @@
       "author": "Thomas Claburn",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-28T01:19:40.096Z",
       "created_at": "2026-04-28T01:19:40.096Z"
     },
@@ -118244,7 +118244,7 @@
       "author": "Neetika Walter",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-28T01:19:43.688Z",
       "created_at": "2026-04-28T01:19:43.688Z"
     },
@@ -118261,7 +118261,7 @@
       "author": "Aamir Khollam",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-28T01:19:43.688Z",
       "created_at": "2026-04-28T01:19:43.688Z"
     },
@@ -118297,7 +118297,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-28T01:19:43.862Z",
       "created_at": "2026-04-28T01:19:43.862Z"
     },
@@ -118365,6 +118365,141 @@
       "priority": "batch",
       "fetchedAt": "2026-04-28T01:19:43.983Z",
       "created_at": "2026-04-28T01:19:43.983Z"
+    },
+    {
+      "id": 5782,
+      "source": "The Verge AI",
+      "title_en": "Jury selection in Musk v. Altman: ‘People don’t like him’",
+      "description_en": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one.\nThe Verge reporter Elizabeth Lopatto, who was there at the courthouse, quoted statements from some of the juror questionnaires: \n\"Elon Musk is a greedy, racist, homophobic piece of garbage.\"\n\"Elon Musk is a world-class jerk.\"\n\"I very mu",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
+      "image_url": null,
+      "pub_date": "2026-04-28T03:39:33.000Z",
+      "author": "Richard Lawler",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T04:47:13.924Z",
+      "created_at": "2026-04-28T04:47:13.924Z"
+    },
+    {
+      "id": 5783,
+      "source": "MarkTechPost",
+      "title_en": "Meet Talkie-1930: A 13B Open-Weight LLM Trained on Pre-1931 English Text for Historical Reasoning and Generalization Research",
+      "description_en": "What if a language model had never heard of the internet, smartphones, or even World War II? That’s not a hypothetical — it’s exactly what a team of researchers led by Nick Levine, David Duvenaud, and Alec Radford has built. They call it talkie, and it may be the most historically disciplined large language model […]\nThe post Meet Talkie-1930: A 13B Open-Weight LLM Trained on Pre-1931 English Text for Historical Reasoning and Generalization Research appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/27/meet-talkie-1930-a-13b-open-weight-llm-trained-on-pre-1931-english-text-for-historical-reasoning-and-generalization-research/",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 02:24:13 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T04:47:15.640Z",
+      "created_at": "2026-04-28T04:47:15.640Z"
+    },
+    {
+      "id": 5784,
+      "source": "New Atlas",
+      "title_en": "Tactical zero-wood 4x4 camper pod revels in Canadian weather and wilds",
+      "description_en": "A tiny trailer with huge ambitions, the new Skookum from Alberta-based Tactical Overland is a family trailer specced for clans with surnames like \"Amundsen\" and \"Hillary.\" Because this trailer is built to push beyond the usual limits of off-roading and overlanding, making camp out of the most remote parts of Canada, even in the dead of winter. It collapses inward for travel but expands into a two-story 4-sleeper base camp with space to work, cook, shower and live your best off-grid life.\nContinu",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/camping-trailers/tactical-overland-skookum-camper-trailer/",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 02:29:41 GMT",
+      "author": "C.C. Weiss",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T04:47:16.369Z",
+      "created_at": "2026-04-28T04:47:16.369Z"
+    },
+    {
+      "id": 5785,
+      "source": "The Register",
+      "title_en": "China blocks Zuck’s acquisition of AI outfit Manus",
+      "description_en": "Back to the drawing board for Meta's AI ambitions China has blocked Meta’s acquisition of AI upstart Manus.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/china_blocks_meta_manus_acquisition/",
+      "image_url": null,
+      "pub_date": "2026-04-28T02:09:58.000Z",
+      "author": "Simon Sharwood",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T04:47:16.595Z",
+      "created_at": "2026-04-28T04:47:16.595Z"
+    },
+    {
+      "id": 5786,
+      "source": "The Guardian AI",
+      "title_en": "Humanoid robots to become baggage handlers in Japan airport experiment",
+      "description_en": "Japan Airlines will introduce the robots for trial run at a Tokyo airport amid country’s surge in inbound tourism and worsening labour shortages\nJapan’s famously conscientious but overburdened baggage handlers will soon be joined by extra staff at Tokyo’s Haneda airport – although their new colleagues will need to take regular recharging breaks.\nJapan Airlines will introduce humanoid robots on a trial basis from the beginning of May, with a view to deploying them permanently as a solution to the",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/world/2026/apr/28/humanoid-robots-baggage-handlers-japan-airports",
+      "image_url": "https://i.guim.co.uk/img/media/5472db1bfe40dac31b1f22a2b63217169aa018c8/201_0_3327_2661/master/3327.jpg?width=140&quality=85&auto=format&fit=max&s=9d87ad003acbe30745467d0bcf7d50bd",
+      "pub_date": "Tue, 28 Apr 2026 03:14:34 GMT",
+      "author": "Justin McCurry in Tokyo",
+      "categories": [
+        {
+          "_": "Japan",
+          "$": {
+            "domain": "https://www.theguardian.com/world/japan"
+          }
+        },
+        {
+          "_": "Air transport",
+          "$": {
+            "domain": "https://www.theguardian.com/world/air-transport"
+          }
+        },
+        {
+          "_": "Robots",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/robots"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Asia Pacific",
+          "$": {
+            "domain": "https://www.theguardian.com/world/asia-pacific"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T04:47:16.654Z",
+      "created_at": "2026-04-28T04:47:16.654Z"
     }
   ]
 }
