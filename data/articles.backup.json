@@ -119469,6 +119469,729 @@
       "priority": "batch",
       "fetchedAt": "2026-04-28T07:22:10.458Z",
       "created_at": "2026-04-28T07:22:10.458Z"
+    },
+    {
+      "id": 5840,
+      "source": "The Verge AI",
+      "title_en": "Google and Pentagon reportedly agree deal for ‘any lawful’ use of AI",
+      "description_en": "Google has signed a classified deal that allows the US Department of Defense to use its AI models for \"any lawful government purpose,\" The Information reports. The agreement was reported less than a day after Google employees demanded CEO Sundar Pichai block the Pentagon from using its AI amid concerns that it would be used in \"inhumane or extremely harmful ways.\"\nIf the agreement is confirmed, it would place Google alongside OpenAI and xAI, which have also made classified AI deals with the US g",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+      "image_url": null,
+      "pub_date": "2026-04-28T11:09:32.000Z",
+      "author": "Jess Weatherbed",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T11:28:25.150Z",
+      "created_at": "2026-04-28T11:28:25.150Z"
+    },
+    {
+      "id": 5841,
+      "source": "The Verge AI",
+      "title_en": "Attack of the killer script kiddies",
+      "description_en": "Last August, some of the best cybersecurity teams in the business gathered in Las Vegas to demonstrate the strength of their AI bug-finding systems at DARPA's Artificial Intelligence Cyber Challenge (AIxCC). The tools had scanned 54 million lines of actual software code that DARPA had injected with artificial flaws. The teams were capable enough to identify most of the artificial bugs, but their automated tools went beyond that - they found more than a dozen bugs that DARPA hadn't inserted at al",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai",
+      "image_url": null,
+      "pub_date": "2026-04-28T11:00:00.000Z",
+      "author": "Yael Grauer",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T11:28:25.151Z",
+      "created_at": "2026-04-28T11:28:25.151Z"
+    },
+    {
+      "id": 5842,
+      "source": "The Decoder",
+      "title_en": "Google signs AI deal with the Pentagon, ignoring protest from over 600 employees",
+      "description_en": "Despite an open letter from hundreds of employees, Google has signed a contract giving the U.S. Department of Defense access to its AI models for classified work. Legal experts say the contract's safety clauses aren't legally binding.\nThe article Google signs AI deal with the Pentagon, ignoring protest from over 600 employees appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/google-signs-ai-deal-with-the-pentagon-ignoring-protest-from-over-600-employees/",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 11:10:05 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "AI and warfare",
+        "Google",
+        "Pentagon"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T11:28:26.313Z",
+      "created_at": "2026-04-28T11:28:26.313Z"
+    },
+    {
+      "id": 5843,
+      "source": "The Decoder",
+      "title_en": "OpenAI misses revenue targets as Anthropic and Google close in",
+      "description_en": "OpenAI fell short of internal revenue goals for the first quarter of 2026. Meanwhile, pressure from competitors like Anthropic and Google is mounting, and tensions inside the company over massive spending commitments are growing.\nThe article OpenAI misses revenue targets as Anthropic and Google close in appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-misses-revenue-targets-as-anthropic-and-google-close-in/",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 09:29:03 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Anthropic",
+        "ChatGPT",
+        "Google",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T11:28:26.313Z",
+      "created_at": "2026-04-28T11:28:26.313Z"
+    },
+    {
+      "id": 5844,
+      "source": "The Decoder",
+      "title_en": "GitHub Copilot switches to token-based billing in June 2026",
+      "description_en": "Starting June 1, 2026, GitHub will charge Copilot users based on actual usage instead of premium request counts.\nThe article GitHub Copilot switches to token-based billing in June 2026 appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/github-copilot-switches-to-token-based-billing-in-june-2026/",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 09:19:53 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T11:28:26.313Z",
+      "created_at": "2026-04-28T11:28:26.313Z"
+    },
+    {
+      "id": 5845,
+      "source": "MarkTechPost",
+      "title_en": "Top 10 Physical AI Models Powering Real-World Robots in 2026",
+      "description_en": "The gap between language model capabilities and robotic deployment has been narrowing considerably over the past 18 months. A new class of foundation models — purpose-built not for text generation but for physical action — is now running on real hardware across factories, warehouses, and research labs. These systems span deployed robot policies, private-preview VLAs, […]\nThe post Top 10 Physical AI Models Powering Real-World Robots in 2026 appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/28/top-10-physical-ai-models-powering-real-world-robots-in-2026/",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 08:14:02 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Editors Pick",
+        "Physical AI",
+        "Robotics",
+        "Staff",
+        "Top"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T11:28:26.521Z",
+      "created_at": "2026-04-28T11:28:26.521Z"
+    },
+    {
+      "id": 5846,
+      "source": "The Register",
+      "title_en": "Locked, stocked, and losing budget: AI vendor lock-in bites back",
+      "description_en": "Execs in the C-suite thought they could swap models in a week. They were hallucinating Opinion  The days when you could jump from one frontier AI model to another at the drop of a hat are going away as vendor lock-in starts to kick in, and prices increase.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/locked_stocked_and_losing_budget/",
+      "image_url": null,
+      "pub_date": "2026-04-28T09:15:10.000Z",
+      "author": "Steven J. Vaughan-Nichols",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T11:28:26.996Z",
+      "created_at": "2026-04-28T11:28:26.996Z"
+    },
+    {
+      "id": 5847,
+      "source": "New Atlas",
+      "title_en": "Production EV packing sub-zero-operation sodium-ion batteries on its way",
+      "description_en": "Chinese battery giant CATL and automaker Changan announced the launch of the Changan Nevo A06, the world's first mass-production electric vehicle (EV) powered by sodium-ion batteries. It's due to hit the market mid-2026, and it marks the moment a technology long trapped in the lab finally steps onto the road.\nContinue Reading\nCategory: Automotive, Transport\nTags: CATL, Sodium battery, Electric Vehicles, Changan",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/automotive/catl-naxtra-sodium-ion-changan-nevo-a06/",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 10:06:11 GMT",
+      "author": "Omar Kardoudi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T11:28:27.026Z",
+      "created_at": "2026-04-28T11:28:27.026Z"
+    },
+    {
+      "id": 5848,
+      "source": "The Guardian AI",
+      "title_en": "Tell us: have you become emotionally attached to AI?",
+      "description_en": "We would like to hear from people who converse with AI chatbots on a personal level\nLots of people now use chatbots as personal assistants, sometimes to the extent that they have formed an emotional attachment to them.\nWe would like to hear from people who converse with AI chatbots on a personal level. Have you formed an emotional bond to an AI chatbot?\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/apr/28/tell-us-have-you-become-emotionally-attached-to-ai",
+      "image_url": "https://i.guim.co.uk/img/media/aa928b9989732277d7fd78e2f863ef47192ddc6b/584_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=0edf1819ea0b170640c8eeb06b3f1b74",
+      "pub_date": "Tue, 28 Apr 2026 09:15:41 GMT",
+      "author": "Guardian community team",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T11:28:27.101Z",
+      "created_at": "2026-04-28T11:28:27.101Z"
+    },
+    {
+      "id": 5849,
+      "source": "The Guardian AI",
+      "title_en": "If it feels like the world is rejecting science and truth, here are five ways to fight back | Helen Pearson",
+      "description_en": "All of us can choose to consider facts, not vibes, in our next decision. One simple hack is go and look up some easily accessible peer-reviewed studies\n\nHelen Pearson is an editor for Nature and author of Beyond Belief: How Evidence Shows What Really Works\n\nIn 1992, a group of rebel doctors published a radical idea in the prestigious Journal of the American Medical Association. They argued that the practice of medicine needed to be transformed so that doctors didn’t rely on intuition and convent",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/28/world-rejecting-science-truth-five-ways-fight-back",
+      "image_url": "https://i.guim.co.uk/img/media/4604d17b921b444bd25e2abe526aca607177fe2c/558_0_6293_5036/master/6293.jpg?width=140&quality=85&auto=format&fit=max&s=3fce4e0dc0e06d9da12bbbc636d57297",
+      "pub_date": "Tue, 28 Apr 2026 10:20:35 GMT",
+      "author": "Helen Pearson",
+      "categories": [
+        {
+          "_": "Medical research",
+          "$": {
+            "domain": "https://www.theguardian.com/science/medical-research"
+          }
+        },
+        {
+          "_": "Health",
+          "$": {
+            "domain": "https://www.theguardian.com/society/health"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Science",
+          "$": {
+            "domain": "https://www.theguardian.com/science/science"
+          }
+        },
+        {
+          "_": "Society",
+          "$": {
+            "domain": "https://www.theguardian.com/society/society"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T11:28:27.101Z",
+      "created_at": "2026-04-28T11:28:27.101Z"
+    },
+    {
+      "id": 5850,
+      "source": "The Guardian AI",
+      "title_en": "‘They’re supposed to be handmade’: zine creators fight to resist AI influence",
+      "description_en": "Artists and writers argue scrappy nature of self-published booklets is incompatible with artificial intelligence\nThe self-published zine has long been central to cultural revolutions, from queer activism to Black feminism and the riot grrrl punk movement, producing titles such as Sniffin’ Glue and Sweet-Thang along the way. But now the traditionally analogue art form faces a new shift: artificial intelligence.\nAI may seem incompatible with the these cult DIY booklets, but some creatives, designe",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/apr/28/zine-creators-fight-to-resist-ai-influence",
+      "image_url": "https://i.guim.co.uk/img/media/c7d3cae67369b5a04bd02e71658c34b0dc02bb83/0_913_3024_2419/master/3024.jpg?width=140&quality=85&auto=format&fit=max&s=cc9f51c58c242bf3105b6e80d0f700bc",
+      "pub_date": "Tue, 28 Apr 2026 09:00:46 GMT",
+      "author": "Claudia Efemini",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Magazines",
+          "$": {
+            "domain": "https://www.theguardian.com/media/magazines"
+          }
+        },
+        {
+          "_": "Publishing",
+          "$": {
+            "domain": "https://www.theguardian.com/books/publishing"
+          }
+        },
+        {
+          "_": "Media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/media"
+          }
+        },
+        {
+          "_": "Newspapers & magazines",
+          "$": {
+            "domain": "https://www.theguardian.com/media/pressandpublishing"
+          }
+        },
+        {
+          "_": "Books",
+          "$": {
+            "domain": "https://www.theguardian.com/books/books"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T11:28:27.101Z",
+      "created_at": "2026-04-28T11:28:27.101Z"
+    },
+    {
+      "id": 5851,
+      "source": "AI News",
+      "title_en": "Kakao Mobility details Level 4 autonomous driving roadmap for physical AI",
+      "description_en": "Kakao Mobility has set out plans to develop Level 4 autonomous driving technologies in-house as part of its physical AI strategy. Kim Jin-kyu, vice president and head of Kakao Mobility’s Physical AI division, presented the roadmap at the 2026 World IT Show conference at COEX in Seoul. His session focused on autonomous driving services built […]\nThe post Kakao Mobility details Level 4 autonomous driving roadmap for physical AI appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/kakao-mobility-level-4-autonomous-driving-roadmap/",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 10:00:00 +0000",
+      "author": "Muhammad Zulhusni",
+      "categories": [
+        "AI Business Strategy",
+        "AI in Action",
+        "Artificial Intelligence",
+        "Features",
+        "Governance, Regulation & Policy",
+        "Physical AI",
+        "ai",
+        "autonomous cars",
+        "data",
+        "physical ai"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T11:28:28.186Z",
+      "created_at": "2026-04-28T11:28:28.186Z"
+    },
+    {
+      "id": 5852,
+      "source": "AI News",
+      "title_en": "Lightelligence’s 400% debut is a bet that AI’s next bottleneck is the optical interconnect",
+      "description_en": "When a company with US$15.5 million in annual revenue debuts on a stock exchange and its market capitalisation briefly hits US$10 billion, the obvious question is: what do investors know that the financials don’t show yet? In Lightelligence’s case, the answer is optical interconnect and the growing conviction that conventional copper wiring between AI chips […]\nThe post Lightelligence’s 400% debut is a bet that AI’s next bottleneck is the optical interconnect appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/lightelligence-ipo-optical-interconnect-ai-infrastructure/",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 10:00:00 +0000",
+      "author": "Dashveenjit Kaur",
+      "categories": [
+        "AI Hardware & Chips",
+        "Artificial Intelligence",
+        "How It Works",
+        "Infrastructure & Hardware",
+        "Inside AI",
+        "AI chips",
+        "China tech",
+        "Hong Kong IPO",
+        "Lightelligence",
+        "optical interconnect",
+        "optoelectronic computing",
+        "photonics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T11:28:28.186Z",
+      "created_at": "2026-04-28T11:28:28.186Z"
+    },
+    {
+      "id": 5853,
+      "source": "Interesting Engineering",
+      "title_en": "228-tonne inner safety dome installed at China’s 1100 MW nuclear power plant site",
+      "description_en": "The inner safety dome was successfully installed at Unit 1 of the Shidaowon nuclear reactor...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/inner-safety-dome-nuclear-site-china",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 11:10:17 +0000",
+      "author": "Ameya Paleja",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T11:28:30.363Z",
+      "created_at": "2026-04-28T11:28:30.363Z"
+    },
+    {
+      "id": 5854,
+      "source": "Interesting Engineering",
+      "title_en": "Japan’s Haneda airport deploys Unitree’s G1 humanoid robot to work alongside humans",
+      "description_en": "Humanoid robots will soon assist ground crews in Tokyo as Japan Airlines launches a trial...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/japan-humanoid-robots-haneda-airport",
+      "image_url": "https://www.youtube.com/embed/D9Br0hD6jUw",
+      "pub_date": "Tue, 28 Apr 2026 08:43:43 +0000",
+      "author": "Jijo Malayil",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T11:28:30.363Z",
+      "created_at": "2026-04-28T11:28:30.363Z"
+    },
+    {
+      "id": 5855,
+      "source": "Interesting Engineering",
+      "title_en": "Rolls-Royce’s 70,000 hp gas turbines to power Australia’s future Mogami-class warships",
+      "description_en": "Australia has confirmed it will equip its next generation of warships with a proven propulsion...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/australias-warships-rolls-royce-engine",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 08:20:49 +0000",
+      "author": "Sujita Sinha",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T11:28:30.364Z",
+      "created_at": "2026-04-28T11:28:30.364Z"
+    },
+    {
+      "id": 5856,
+      "source": "CNBC Tech",
+      "title_en": "True Anomaly raises $650 million to support space interceptors for Trump's Golden Dome",
+      "description_en": "True Anomaly, a four-year-old startup, plans to use the funding to scale manufacturing and double its workforce by the end of the year.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/28/true-anomaly-trump-golden-dome.html",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 09:45:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T11:28:30.566Z",
+      "created_at": "2026-04-28T11:28:30.566Z"
+    },
+    {
+      "id": 5857,
+      "source": "CNBC Tech",
+      "title_en": "'Draconian development' in Meta-Manus deal draws the line in China's AI race with the U.S.",
+      "description_en": "Beijing's decision to block Meta's acquisition of Manus is a warning to other startups thinking of relocating data, talent and intellectual property abroad.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/28/china-blocks-meta-manus-deal-ai-tech-rivalry.html",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 08:31:40 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T11:28:30.566Z",
+      "created_at": "2026-04-28T11:28:30.566Z"
+    },
+    {
+      "id": 5858,
+      "source": "Nature Machine Intelligence",
+      "title_en": "Probabilistic modelling of single-cell bisulfite sequencing data with MethylVI",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.nature.com/articles/s42256-026-01225-9",
+      "image_url": null,
+      "pub_date": "2026-04-28T00:00:00.000Z",
+      "author": "Ethan Weinberger",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T11:28:30.607Z",
+      "created_at": "2026-04-28T11:28:30.607Z"
+    },
+    {
+      "id": 5859,
+      "source": "Tom's Hardware",
+      "title_en": "Scientists create electronic devices that function reliably at extreme temperatures from 500 degrees Celcuis to absolute zero — advanced semiconductor material unlocks new possibilities in space tech and quantum computing",
+      "description_en": "Scientists have demonstrated a new semiconductor material that can operate at extreme temperatures, from 500°C and down to -271.1°C.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/scientists-create-electronic-devices-that-function-reliably-at-extreme-temperatures-using-advanced-silicon-doped-beta-gallium-oxide-semiconductor-material",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/cRDtFR492NVRFzdTmvokv6-1280-80.jpg",
+      "pub_date": "Tue, 28 Apr 2026 11:20:00 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T11:28:30.773Z",
+      "created_at": "2026-04-28T11:28:30.773Z"
+    },
+    {
+      "id": 5860,
+      "source": "Tom's Hardware",
+      "title_en": "Decades-old pre-Stuxnet cyber sabotage tool breaks cover, NSA listed it as 'nothing to see here' — fast16 targeted nuclear reactors, dam design, and other high-precision civil engineering software years before Stuxnet broke cover",
+      "description_en": "Security researchers have uncovered a cyber-sabotage platform that targeted software used for major civil engineering projects and predates Stuxnet by at least half a decade.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/security-software/decades-old-pre-stuxnet-cyber-sabotage-tool-breaks-cover-nsa-listed-it-as-nothing-to-see-here-fast16-targeted-nuclear-reactors-dam-design-and-other-high-precision-civil-engineering-software-years-before-stuxnet-broke-cover",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/9pfK5duR7u5rV8xaNjJVTb-1280-80.jpg",
+      "pub_date": "Tue, 28 Apr 2026 11:04:20 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Security Software",
+        "Software"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T11:28:30.773Z",
+      "created_at": "2026-04-28T11:28:30.773Z"
+    },
+    {
+      "id": 5861,
+      "source": "Tom's Hardware",
+      "title_en": "EXPO 1.2 only brings partial CUDIMM support due to lack of native IMC compatibility — Asus also working on updating older B650 and X670 boards with EXPO 1.2",
+      "description_en": "New AGESA updates are bringing EXPO 1.2 support to more and more 800-series AM5 motherboards, but CUDIMM support remains only partial. Because Zen 4 and 5's IMC is incompatible with CUDIMM, it can only run in bypass mode with limited speeds. Moreover, older 600-series motherboards are now also expected to get EXPO 1.2 support later.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/motherboards/expo-1-2-only-brings-partial-cudimm-support-due-to-lack-of-native-imc-compatibility-asus-also-working-on-updating-older-b650-and-x670-boards-with-expo-1-2",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/HaABEZdLS9EfkDxan7xYzh-1280-80.jpg",
+      "pub_date": "Tue, 28 Apr 2026 11:00:00 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "Motherboards",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T11:28:30.773Z",
+      "created_at": "2026-04-28T11:28:30.773Z"
+    },
+    {
+      "id": 5862,
+      "source": "Tom's Hardware",
+      "title_en": "Vendor slaps extra 'memory fee' on each tech purchase amid global chip crunch — the more you buy, the more you pay",
+      "description_en": "Ubiquiti Inc. has started charging customers a 'Memory Surcharge' of up to 5.8% on some of the products sold in its online store.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/vendor-slaps-extra-memory-fee-on-each-tech-purchase-amid-global-chip-crunch-the-more-you-buy-the-more-you-pay",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/6iYW2DTtLyPVmZQNnrkhja-1280-80.jpg",
+      "pub_date": "Tue, 28 Apr 2026 10:40:00 +0000",
+      "author": " Zhiye Liu ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T11:28:30.774Z",
+      "created_at": "2026-04-28T11:28:30.774Z"
+    },
+    {
+      "id": 5863,
+      "source": "Tom's Hardware",
+      "title_en": "News site linked to OpenAI super PAC sent bots posing as journalists to interview real people — site has published nearly 100 articles with real quotes gathered by fake writers",
+      "description_en": "The site has published 94 articles since late December using a fully automated pipeline that drafts stories, reviews them, and deploys bots to solicit quotes from real people under fake bylines.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/news-site-linked-to-openai-super-pac-sent-bots-posing-as-journalists-to-interview-real-people",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/jaeYdAUL3zpvZxJ35rSr9J-1280-80.jpg",
+      "pub_date": "Tue, 28 Apr 2026 10:20:00 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T11:28:30.774Z",
+      "created_at": "2026-04-28T11:28:30.774Z"
+    },
+    {
+      "id": 5864,
+      "source": "Tom's Hardware",
+      "title_en": "Denuvo has been cracked in all single-player games it previously protected — 2K Games and Denuvo reportedly retaliate with mandatory 14-day online checks",
+      "description_en": "Denuvo has been bypassed in all single-player, non-VR games it previously protected with the widely-publicized hypervisor bypass.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/denuvo-has-been-bypassed-in-all-single-player-games-it-previously-protected-2k-games-and-denuvo-reportedly-retaliate-with-mandatory-14-day-online-checks",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/NgNprVVnWz46KEcoC6U6V8-1280-80.jpg",
+      "pub_date": "Tue, 28 Apr 2026 10:00:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "PC Gaming",
+        "Video Games"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T11:28:30.774Z",
+      "created_at": "2026-04-28T11:28:30.774Z"
+    },
+    {
+      "id": 5865,
+      "source": "Product Hunt",
+      "title_en": "Taxnova",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/taxnova",
+      "image_url": null,
+      "pub_date": "2026-04-23T20:15:26.000Z",
+      "author": "Rajiv Ayyangar",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T11:28:35.491Z",
+      "created_at": "2026-04-28T11:28:35.491Z"
+    },
+    {
+      "id": 5866,
+      "source": "Product Hunt",
+      "title_en": "VisaBot & xVisa",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/visabot-2",
+      "image_url": null,
+      "pub_date": "2026-04-23T20:39:10.000Z",
+      "author": "Rajiv Ayyangar",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T11:28:35.491Z",
+      "created_at": "2026-04-28T11:28:35.491Z"
+    },
+    {
+      "id": 5867,
+      "source": "Product Hunt",
+      "title_en": "Immigram",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/immigram",
+      "image_url": null,
+      "pub_date": "2026-04-23T20:15:31.000Z",
+      "author": "Rajiv Ayyangar",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T11:28:35.491Z",
+      "created_at": "2026-04-28T11:28:35.491Z"
+    },
+    {
+      "id": 5868,
+      "source": "Product Hunt",
+      "title_en": "Nura Scan by Evolve Neuro",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/evolve-neuro",
+      "image_url": null,
+      "pub_date": "2026-04-23T20:16:23.000Z",
+      "author": "Rajiv Ayyangar",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T11:28:35.491Z",
+      "created_at": "2026-04-28T11:28:35.491Z"
+    },
+    {
+      "id": 5869,
+      "source": "Product Hunt",
+      "title_en": "Caribou",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/caribou",
+      "image_url": null,
+      "pub_date": "2026-04-23T20:16:15.000Z",
+      "author": "Rajiv Ayyangar",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T11:28:35.491Z",
+      "created_at": "2026-04-28T11:28:35.491Z"
+    },
+    {
+      "id": 5870,
+      "source": "Product Hunt",
+      "title_en": "Otamiser",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/otamiser",
+      "image_url": null,
+      "pub_date": "2026-04-23T20:39:18.000Z",
+      "author": "Rajiv Ayyangar",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T11:28:35.491Z",
+      "created_at": "2026-04-28T11:28:35.491Z"
+    },
+    {
+      "id": 5871,
+      "source": "Product Hunt",
+      "title_en": "Sumvin",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/sumvin",
+      "image_url": null,
+      "pub_date": "2026-04-23T20:14:48.000Z",
+      "author": "Rajiv Ayyangar",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T11:28:35.491Z",
+      "created_at": "2026-04-28T11:28:35.491Z"
+    },
+    {
+      "id": 5872,
+      "source": "Product Hunt",
+      "title_en": "Bonsai Smart Wealth",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/bonsai-smart-wealth",
+      "image_url": null,
+      "pub_date": "2026-04-23T20:15:07.000Z",
+      "author": "Rajiv Ayyangar",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T11:28:35.491Z",
+      "created_at": "2026-04-28T11:28:35.491Z"
     }
   ]
 }
