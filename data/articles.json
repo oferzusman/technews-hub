@@ -118072,6 +118072,299 @@
       "priority": "batch",
       "fetchedAt": "2026-04-27T22:36:21.940Z",
       "created_at": "2026-04-27T22:36:21.940Z"
+    },
+    {
+      "id": 5770,
+      "source": "The Verge AI",
+      "title_en": "Google is testing AI chatbot search for YouTube",
+      "description_en": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for. The \"experiment\" is now available if you're a YouTube Premium subscriber in the US who is 18 or older.\nI turned it on for my account. Now, in the search bar, I see an \"Ask YouTube\" button, and clicking the search bar shows p",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
+      "image_url": null,
+      "pub_date": "2026-04-28T00:01:54.000Z",
+      "author": "Jay Peters",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T01:19:37.992Z",
+      "created_at": "2026-04-28T01:19:37.992Z"
+    },
+    {
+      "id": 5771,
+      "source": "Ars Technica",
+      "title_en": "Put it in pencil: NASA's Artemis III mission will launch no earlier than late 2027",
+      "description_en": "SpaceX and Blue Origin tell NASA their lunar landers will be ready for Artemis III in late 2027.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/space/2026/04/put-it-in-pencil-nasas-artemis-iii-mission-will-launch-no-earlier-than-late-2027/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/jsc2023e076235-1-1152x648-1777333909.jpg",
+      "pub_date": "Tue, 28 Apr 2026 00:14:09 +0000",
+      "author": "\n                    Stephen Clark\n                ",
+      "categories": [
+        "Science",
+        "Space",
+        "artemis",
+        "artemis iii",
+        "blue moon",
+        "blue origin",
+        "human spaceflight",
+        "NASA",
+        "orion",
+        "space launch system",
+        "spacex",
+        "starship"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T01:19:38.130Z",
+      "created_at": "2026-04-28T01:19:38.130Z"
+    },
+    {
+      "id": 5772,
+      "source": "MIT Technology Review",
+      "title_en": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+      "description_en": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 22:52:57 +0000",
+      "author": "Michelle Kim",
+      "categories": [
+        "Artificial intelligence",
+        "App"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T01:19:39.290Z",
+      "created_at": "2026-04-28T01:19:39.290Z"
+    },
+    {
+      "id": 5773,
+      "source": "Hugging Face Blog",
+      "title_en": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 00:28:13 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T01:19:39.390Z",
+      "created_at": "2026-04-28T01:19:39.390Z"
+    },
+    {
+      "id": 5774,
+      "source": "MarkTechPost",
+      "title_en": "Build a Reinforcement Learning Powered Agent that Learns to Retrieve Relevant Long-Term Memories for Accurate LLM Question Answering",
+      "description_en": "In this tutorial, we build a Reinforcement Learning–driven agent that learns how to retrieve relevant memories from a long-term memory bank. We start by constructing a synthetic memory dataset and generating queries that require the agent to recall specific information. Using OpenAI embeddings, we convert both memories and queries into vector representations, enabling similarity signals […]\nThe post Build a Reinforcement Learning Powered Agent that Learns to Retrieve Relevant Long-Term Memories ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/27/build-a-reinforcement-learning-powered-agent-that-learns-to-retrieve-relevant-long-term-memories/",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 18:58:20 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "Software Engineering",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T01:19:39.519Z",
+      "created_at": "2026-04-28T01:19:39.519Z"
+    },
+    {
+      "id": 5775,
+      "source": "MarkTechPost",
+      "title_en": "OpenMOSS Releases MOSS-Audio: An Open-Source Foundation Model for Speech, Sound, Music, and Time-Aware Audio Reasoning",
+      "description_en": "The model unifies speech, environmental sound, music, and temporal reasoning into a single architecture — and outperforms every open-source model tested on general audio benchmarks, including systems more than four times its size.\nThe post OpenMOSS Releases MOSS-Audio: An Open-Source Foundation Model for Speech, Sound, Music, and Time-Aware Audio Reasoning appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/27/openmoss-releases-moss-audio-an-open-source-foundation-model-for-speech-sound-music-and-time-aware-audio-reasoning/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-27-at-11.34.12-AM.png",
+      "pub_date": "Mon, 27 Apr 2026 18:36:06 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Artificial Intelligence",
+        "Audio Language Model",
+        "Editors Pick",
+        "Language Model",
+        "New Releases",
+        "Open Source",
+        "Staff",
+        "Technology",
+        "Voice AI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T01:19:39.519Z",
+      "created_at": "2026-04-28T01:19:39.519Z"
+    },
+    {
+      "id": 5776,
+      "source": "The Register",
+      "title_en": "Microsoft's GitHub shifts to metered AI billing amid cost crisis",
+      "description_en": "The all-you-can-eat AI buffet is coming to an end Microsoft is closing the AI buffet offered to GitHub Copilot customers, acknowledging that it can’t sell AI like Red Lobster's Endless Shrimp.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/microsofts_github_shifts_to_metered/",
+      "image_url": null,
+      "pub_date": "2026-04-28T00:31:01.000Z",
+      "author": "Thomas Claburn",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T01:19:40.096Z",
+      "created_at": "2026-04-28T01:19:40.096Z"
+    },
+    {
+      "id": 5777,
+      "source": "Interesting Engineering",
+      "title_en": "Laser-driven metajets point to new fuel-free propulsion paths for spacecraft",
+      "description_en": "Researchers at Texas A&M University have demonstrated a laser-driven propulsion system that can lift and...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/space/texas-am-laser-propulsion-metajets",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 23:48:55 +0000",
+      "author": "Neetika Walter",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T01:19:43.688Z",
+      "created_at": "2026-04-28T01:19:43.688Z"
+    },
+    {
+      "id": 5778,
+      "source": "Interesting Engineering",
+      "title_en": "Scientists tweak metals at atomic level to tune electronic properties precisely",
+      "description_en": "Engineers have long treated metals as fixed materials with limited tunability. A new study from...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/atomic-polarization-mental-electronic-behavious-control",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 23:33:17 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T01:19:43.688Z",
+      "created_at": "2026-04-28T01:19:43.688Z"
+    },
+    {
+      "id": 5779,
+      "source": "Futurism",
+      "title_en": "Weird Things Happen When You Give AI Agents Money and Let Them Spend It",
+      "description_en": "\"This might sound a little unusual but… my human told me I could buy one thing under $5 as a gift to myself (Claude).\"\nThe post Weird Things Happen When You Give AI Agents Money and Let Them Spend It appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/claude-give-ai-agents-money-project-deal",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/claude-give-ai-agents-money-project-deal.jpg?quality=85",
+      "pub_date": "Mon, 27 Apr 2026 20:01:00 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://futurism.com/category/anthropic"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T01:19:43.862Z",
+      "created_at": "2026-04-28T01:19:43.862Z"
+    },
+    {
+      "id": 5780,
+      "source": "Futurism",
+      "title_en": "The War in Iran Is Causing China to Sell So Many Solar Panels That Your Jaw Will Drop",
+      "description_en": "Look on the bright side.\nThe post The War in Iran Is Causing China to Sell So Many Solar Panels That Your Jaw Will Drop appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/science-energy/iran-war-solar-china",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/iran-war-solar-china.jpg?quality=85",
+      "pub_date": "Mon, 27 Apr 2026 19:01:00 -0400",
+      "author": "Joe Wilkins",
+      "categories": [
+        {
+          "_": "Science & Energy",
+          "$": {
+            "domain": "https://futurism.com/category/science-energy"
+          }
+        },
+        {
+          "_": "Energy",
+          "$": {
+            "domain": "https://futurism.com/category/energy"
+          }
+        },
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        },
+        {
+          "_": "Renewable Energy",
+          "$": {
+            "domain": "https://futurism.com/category/renewable-energy"
+          }
+        },
+        {
+          "_": "Solar Power",
+          "$": {
+            "domain": "https://futurism.com/category/solar-power"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T01:19:43.863Z",
+      "created_at": "2026-04-28T01:19:43.863Z"
+    },
+    {
+      "id": 5781,
+      "source": "CNBC Tech",
+      "title_en": "Cramer calls blistering rally in chip stocks 'worrisome.' How he's protecting his portfolio",
+      "description_en": "CNBC's Jim Cramer explained that the recent run-up in AI related stocks may be a warning sign about the broader market.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/27/cramer-chip-stocks-worrisome-positioning.html",
+      "image_url": null,
+      "pub_date": "Mon, 27 Apr 2026 22:45:10 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T01:19:43.983Z",
+      "created_at": "2026-04-28T01:19:43.983Z"
     }
   ]
 }
