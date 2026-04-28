@@ -119483,7 +119483,7 @@
       "author": "Jess Weatherbed",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-28T11:28:25.150Z",
       "created_at": "2026-04-28T11:28:25.150Z"
     },
@@ -119500,7 +119500,7 @@
       "author": "Yael Grauer",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-28T11:28:25.151Z",
       "created_at": "2026-04-28T11:28:25.151Z"
     },
@@ -119523,7 +119523,7 @@
         "Pentagon"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-28T11:28:26.313Z",
       "created_at": "2026-04-28T11:28:26.313Z"
     },
@@ -119547,7 +119547,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-28T11:28:26.313Z",
       "created_at": "2026-04-28T11:28:26.313Z"
     },
@@ -119625,7 +119625,7 @@
       "author": "Omar Kardoudi",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-28T11:28:27.026Z",
       "created_at": "2026-04-28T11:28:27.026Z"
     },
@@ -119715,7 +119715,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-28T11:28:27.101Z",
       "created_at": "2026-04-28T11:28:27.101Z"
     },
@@ -119803,7 +119803,7 @@
         "physical ai"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-28T11:28:28.186Z",
       "created_at": "2026-04-28T11:28:28.186Z"
     },
@@ -119833,7 +119833,7 @@
         "photonics"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-28T11:28:28.186Z",
       "created_at": "2026-04-28T11:28:28.186Z"
     },
@@ -119850,7 +119850,7 @@
       "author": "Ameya Paleja",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-28T11:28:30.363Z",
       "created_at": "2026-04-28T11:28:30.363Z"
     },
@@ -119901,7 +119901,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-28T11:28:30.566Z",
       "created_at": "2026-04-28T11:28:30.566Z"
     },
@@ -119974,7 +119974,7 @@
         "Software"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-28T11:28:30.773Z",
       "created_at": "2026-04-28T11:28:30.773Z"
     },
@@ -119994,7 +119994,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-28T11:28:30.773Z",
       "created_at": "2026-04-28T11:28:30.773Z"
     },
@@ -120013,7 +120013,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-28T11:28:30.774Z",
       "created_at": "2026-04-28T11:28:30.774Z"
     },
@@ -120033,7 +120033,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-28T11:28:30.774Z",
       "created_at": "2026-04-28T11:28:30.774Z"
     },
@@ -120053,7 +120053,7 @@
         "Video Games"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-28T11:28:30.774Z",
       "created_at": "2026-04-28T11:28:30.774Z"
     },
@@ -120192,6 +120192,521 @@
       "priority": "batch",
       "fetchedAt": "2026-04-28T11:28:35.491Z",
       "created_at": "2026-04-28T11:28:35.491Z"
+    },
+    {
+      "id": 5873,
+      "source": "TechCrunch AI",
+      "title_en": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+      "description_en": "Tank OS puts OpenClaw AI agents into a container that let's it run reliably and more safely, especially for those running fleets of them.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 13:00:00 +0000",
+      "author": "Julie Bort",
+      "categories": [
+        "TC",
+        "AI",
+        "red hat",
+        "openclaw"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T13:15:21.698Z",
+      "created_at": "2026-04-28T13:15:21.698Z"
+    },
+    {
+      "id": 5874,
+      "source": "TechCrunch AI",
+      "title_en": "Otter’s new feature lets users search across their enterprise tools",
+      "description_en": "Otter is also releasing a new Windows app that can capture meeting notes without joining one",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 12:00:00 +0000",
+      "author": "Ivan Mehta",
+      "categories": [
+        "AI",
+        "otter",
+        "AI meeting",
+        "AI notetaker"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T13:15:21.698Z",
+      "created_at": "2026-04-28T13:15:21.698Z"
+    },
+    {
+      "id": 5875,
+      "source": "Ars Technica",
+      "title_en": "Start with the sensors, then design the rest: How Zoox built its robotaxi",
+      "description_en": "The bidirectional design has some clear advantages for a working taxi.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/cars/2026/04/start-with-the-sensors-then-design-the-rest-how-zoox-built-its-robotaxi/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Zoox-Las-Vegas-6-1152x648.jpg",
+      "pub_date": "Tue, 28 Apr 2026 11:20:49 +0000",
+      "author": "\n                    Jonathan M. Gitlin\n                ",
+      "categories": [
+        "Cars",
+        "autonomous vehicles",
+        "robotaxis",
+        "Zoox"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T13:15:21.790Z",
+      "created_at": "2026-04-28T13:15:21.790Z"
+    },
+    {
+      "id": 5876,
+      "source": "Ars Technica",
+      "title_en": "Neanderthal brains measure up to ours—literally",
+      "description_en": "The differences between our brains and Neanderthals' were likely cosmetic.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/science/2026/04/neanderthal-brains-measure-up-to-ours-literally/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/Sapiens_neanderthal_comparison_en_blackbackground.png",
+      "pub_date": "Tue, 28 Apr 2026 11:05:46 +0000",
+      "author": "\n                    Kiona N. Smith\n                ",
+      "categories": [
+        "Science",
+        "anthropology",
+        "Archaeology",
+        "brains",
+        "hominin evolution",
+        "hominins",
+        "human evolution",
+        "Neanderthals",
+        "paleoanthropology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T13:15:21.790Z",
+      "created_at": "2026-04-28T13:15:21.790Z"
+    },
+    {
+      "id": 5877,
+      "source": "The Decoder",
+      "title_en": "Researchers find AI text is making the internet more uniform and weirdly cheerful",
+      "description_en": "A large-scale analysis of websites from the Internet Archive shows just how much AI text already saturates the web. According to the researchers, though, the actual effects look quite different from what the public assumes.\nThe article Researchers find AI text is making the internet more uniform and weirdly cheerful appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/researchers-find-ai-text-is-making-the-internet-more-uniform-and-weirdly-cheerful/",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 12:51:47 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Generative AI",
+        "Internet"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T13:15:23.155Z",
+      "created_at": "2026-04-28T13:15:23.155Z"
+    },
+    {
+      "id": 5878,
+      "source": "The Decoder",
+      "title_en": "Google's \"Ask YouTube\" turns video search into a conversation",
+      "description_en": "Google is testing \"Ask YouTube,\" a conversational search feature that replaces the standard video list with a results page combining text, full-length videos, and Shorts.\nThe article Google's \"Ask YouTube\" turns video search into a conversation appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/googles-ask-youtube-turns-video-search-into-a-conversation/",
+      "image_url": "http://the-decoder.de/wp-content/uploads/2026/04/google-youtube-ai-chatbot-message-428804744-4238528618900524772.mp4",
+      "pub_date": "Tue, 28 Apr 2026 11:30:41 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "YouTube"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T13:15:23.155Z",
+      "created_at": "2026-04-28T13:15:23.155Z"
+    },
+    {
+      "id": 5879,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Elon Musk and Sam Altman are going to court over OpenAI’s future Elon Musk and OpenAI CEO Sam Altman head to trial this week in a case with sweeping consequences. Ahead…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 12:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T13:15:23.272Z",
+      "created_at": "2026-04-28T13:15:23.272Z"
+    },
+    {
+      "id": 5880,
+      "source": "The Register",
+      "title_en": "Tenstorrent’s Galaxy Blackhole AI servers escape the event horizon",
+      "description_en": "RISC-V-based systems pack 32 Blackhole accelerators in a 6U, $110K chassis Tenstorrent on Tuesday announced the general availability of its Galaxy Blackhole AI compute platform.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/tenstorrent_galaxy_blackhole_ai_servers_ga/",
+      "image_url": null,
+      "pub_date": "2026-04-28T13:00:07.000Z",
+      "author": "Tobias Mann",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T13:15:24.008Z",
+      "created_at": "2026-04-28T13:15:24.008Z"
+    },
+    {
+      "id": 5881,
+      "source": "The Register",
+      "title_en": "Brussels orders Google to share Android's AI sandbox with the other kids",
+      "description_en": "DMA enforcers want rival assistants to get same deep device access as Gemini Those pencil pushers at the European Commission are drawing up measures to ensure Google opens up its Android smartphone platform to something few users asked for – competing AI services.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/ai_competition_in_android_phones/",
+      "image_url": null,
+      "pub_date": "2026-04-28T12:30:12.000Z",
+      "author": "Dan Robinson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T13:15:24.009Z",
+      "created_at": "2026-04-28T13:15:24.009Z"
+    },
+    {
+      "id": 5882,
+      "source": "AI News",
+      "title_en": "The evolution of encoders: From simple models to multimodal AI",
+      "description_en": "When people talk about artificial intelligence, they usually focus on what it produces: Human-like text, stunning images, or eerily accurate recommendations. What rarely gets attention is how AI understands anything in the first place. That understanding begins with encoders. Think of an encoder as a translator that converts messy, real-world information into a structured language […]\nThe post The evolution of encoders: From simple models to multimodal AI appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/the-evolution-of-encoders-from-simple-models-to-multimodal-ai/",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 13:01:51 +0000",
+      "author": "Emerging Software ",
+      "categories": [
+        "Sponsored Content"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T13:15:25.307Z",
+      "created_at": "2026-04-28T13:15:25.307Z"
+    },
+    {
+      "id": 5883,
+      "source": "Interesting Engineering",
+      "title_en": "US: Northrop proves multiple AI systems can control Talon aircraft mid-flight",
+      "description_en": "US Defence firm Northrop Grumman conducted flight tests showing multiple AI systems can seamlessly transfer...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/multiple-ai-systems-control-aircraft-mid-flight",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 13:14:13 +0000",
+      "author": "Jijo Malayil",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T13:15:27.234Z",
+      "created_at": "2026-04-28T13:15:27.234Z"
+    },
+    {
+      "id": 5884,
+      "source": "Interesting Engineering",
+      "title_en": "Grenade rifle prototype for US Army test fires blade-deploying drone-killing rounds",
+      "description_en": "The U.S. Army’s next-generation grenade weapon moved a step closer to fielding last week after...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/barrett-grenade-rifle-drone-killing-round",
+      "image_url": "https://www.youtube.com/embed/u1Cq-CzuBQs",
+      "pub_date": "Tue, 28 Apr 2026 12:43:40 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T13:15:27.234Z",
+      "created_at": "2026-04-28T13:15:27.234Z"
+    },
+    {
+      "id": 5885,
+      "source": "Interesting Engineering",
+      "title_en": "Safran’s new open-fan aircraft engine moves closer to real flight testing by 2029",
+      "description_en": "Franco-American aerospace company CFM—a joint venture between Safran Aircraft Engines and GE Aerospace—has moved to...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/safrans-open-fan-engine-tests-advances",
+      "image_url": "https://www.youtube.com/embed/YMKVXZWl9Hk",
+      "pub_date": "Tue, 28 Apr 2026 12:32:33 +0000",
+      "author": "Chris Young",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T13:15:27.234Z",
+      "created_at": "2026-04-28T13:15:27.234Z"
+    },
+    {
+      "id": 5886,
+      "source": "Interesting Engineering",
+      "title_en": "Engineering breakthrough reuses aging solar modules for smart electric furniture",
+      "description_en": "Retired solar panels may have a second life as smart electric picnic tables. Researchers have outlined...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/engineering-breakthrough-reuses-aging-solar-modules-for-smart-electric-furniture",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 11:56:49 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T13:15:27.234Z",
+      "created_at": "2026-04-28T13:15:27.234Z"
+    },
+    {
+      "id": 5887,
+      "source": "Futurism",
+      "title_en": "Scientists Experimenting With Quantum Effect That Some Fear Could Cause Chain Reaction That Ends Entire Universe",
+      "description_en": "What could possibly go wrong?\nThe post Scientists Experimenting With Quantum Effect That Some Fear Could Cause Chain Reaction That Ends Entire Universe appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/science-energy/scientists-quantum-effect-false-vacuum-end-universe",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/scientists-quantum-effect-false-vacuum-end-universe.jpg?quality=85",
+      "pub_date": "Tue, 28 Apr 2026 08:50:58 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Science & Energy",
+          "$": {
+            "domain": "https://futurism.com/category/science-energy"
+          }
+        },
+        {
+          "_": "Energy",
+          "$": {
+            "domain": "https://futurism.com/category/energy"
+          }
+        },
+        {
+          "_": "Physics",
+          "$": {
+            "domain": "https://futurism.com/category/physics"
+          }
+        },
+        {
+          "_": "Quantum Physics",
+          "$": {
+            "domain": "https://futurism.com/category/quantum-physics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T13:15:27.400Z",
+      "created_at": "2026-04-28T13:15:27.400Z"
+    },
+    {
+      "id": 5888,
+      "source": "Tom's Hardware",
+      "title_en": "Gigabyte X870E Aorus Xtreme X3D AI Top motherboard review: The latest and greatest Xtreme",
+      "description_en": "Gigabyte’s X870E Aorus Xtreme X3D AI Top delivers flagship-class hardware and excellent performance at a comparatively lower price, balancing high-end features, comprehensive connectivity, and even AI-focused tools for premium AM5 builds.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/motherboards/gigabyte-x870e-aorus-xtreme-x3d-ai-top-motherboard-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/tEaB2LTySP6Xd8xrGMz5f3-1280-80.jpg",
+      "pub_date": "Tue, 28 Apr 2026 12:26:28 +0000",
+      "author": " Joe Shields ",
+      "categories": [
+        "Motherboards",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T13:15:27.477Z",
+      "created_at": "2026-04-28T13:15:27.477Z"
+    },
+    {
+      "id": 5889,
+      "source": "Tom's Hardware",
+      "title_en": "Save $400 on this 4K-ready MSI gaming PC with an RTX 5070 Ti and 32GB DDR5 — budget-friendly Aegis Z2 rig also ships with eight-core AMD Ryzen CPU and a 2TB SSD, now just $1,849",
+      "description_en": "A $400 saving means this MSI Aegis Z2 gaming PC, with an eight-core AMD Ryzen CPU, Nvidia GeForce RTX 5070 Ti, 32GB of DDR5 RAM, and 2TB SSD, could be yours for just $1,849.99.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd400-on-this-4k-ready-msi-gaming-pc-with-an-rtx-5070-ti-and-32gb-ddr5-budget-friendly-aegis-z2-rig-also-ships-with-eight-core-amd-ryzen-cpu-and-a-2tb-ssd-now-just-usd1-849",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/9YcjMbR8j9skeLkWinWUAD-1280-80.jpg",
+      "pub_date": "Tue, 28 Apr 2026 11:59:36 +0000",
+      "author": " Ben Stockton ",
+      "categories": [
+        "Gaming PCs",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T13:15:27.477Z",
+      "created_at": "2026-04-28T13:15:27.477Z"
+    },
+    {
+      "id": 5890,
+      "source": "Tom's Hardware",
+      "title_en": "The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026?",
+      "description_en": "We go over every GPU in the RTX 30-series lineup to determine whether or not it's the right time to leave the Ampere platform for newer Blackwell and RDNA4-based pastures.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/the-geforce-rtx-30-series-upgrade-matrix-does-your-ampere-gpu-need-an-upgrade-in-2026",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/CtjbEccpy8xAumrT9GBe7M-1280-80.jpg",
+      "pub_date": "Tue, 28 Apr 2026 11:27:12 +0000",
+      "author": " Jeffrey Kampman ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T13:15:27.477Z",
+      "created_at": "2026-04-28T13:15:27.477Z"
+    },
+    {
+      "id": 5891,
+      "source": "CNBC Tech",
+      "title_en": "Spotify stock plummets after earnings beat expectations as guidance disappoints",
+      "description_en": "The Swedish audiostreamer's soft guidance overshadowed an earnings beat.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/28/spotify-stock-spot-earnings-beat-guidance.html",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 12:57:02 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T13:15:27.653Z",
+      "created_at": "2026-04-28T13:15:27.653Z"
+    },
+    {
+      "id": 5892,
+      "source": "CNBC Tech",
+      "title_en": "Meta's new AI model shows early promise, but investors want to see Zuckerberg's strategy",
+      "description_en": "Meta introduced its new AI model at the beginning of the second quarter, so Mark Zuckerberg's commentary about the future will be key during earnings.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/28/meta-muse-spark-has-promise-wall-street-wants-zuckerberg-ai-strategy.html",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 12:30:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T13:15:27.653Z",
+      "created_at": "2026-04-28T13:15:27.653Z"
+    },
+    {
+      "id": 5893,
+      "source": "CNBC Tech",
+      "title_en": "Tech's hyperscalers face Wall Street for first time since U.S. Iran war sent oil prices soaring",
+      "description_en": "Wall Street is optimistic about big tech companies and their data center construction plans, despite a memory shortage and the Iran war.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/28/tech-hyperscalers-q1-earnings-after-iran-war-lifts-energy-ai-prices.html",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 12:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T13:15:27.653Z",
+      "created_at": "2026-04-28T13:15:27.653Z"
+    },
+    {
+      "id": 5894,
+      "source": "CNBC Tech",
+      "title_en": "Musk and Altman go to trial, GM earnings, Spotify's fitness push and more in Morning Squawk",
+      "description_en": "Here are five key things investors need to know to start the trading day.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/28/5-things-to-know-before-the-market-opens.html",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 11:59:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T13:15:27.653Z",
+      "created_at": "2026-04-28T13:15:27.653Z"
+    },
+    {
+      "id": 5895,
+      "source": "Product Hunt",
+      "title_en": "Litero",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/litero",
+      "image_url": null,
+      "pub_date": "2026-04-23T20:14:59.000Z",
+      "author": "Rajiv Ayyangar",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T13:15:35.445Z",
+      "created_at": "2026-04-28T13:15:35.445Z"
+    },
+    {
+      "id": 5896,
+      "source": "Product Hunt",
+      "title_en": "Palma",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/palma",
+      "image_url": null,
+      "pub_date": "2026-04-23T20:15:36.000Z",
+      "author": "Rajiv Ayyangar",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T13:15:35.445Z",
+      "created_at": "2026-04-28T13:15:35.445Z"
+    },
+    {
+      "id": 5897,
+      "source": "Product Hunt",
+      "title_en": "TAMI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/tami",
+      "image_url": null,
+      "pub_date": "2026-04-23T20:15:21.000Z",
+      "author": "Rajiv Ayyangar",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T13:15:35.445Z",
+      "created_at": "2026-04-28T13:15:35.445Z"
+    },
+    {
+      "id": 5898,
+      "source": "Product Hunt",
+      "title_en": "SegmentStream",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/segmentstream",
+      "image_url": null,
+      "pub_date": "2026-04-23T20:15:40.000Z",
+      "author": "Rajiv Ayyangar",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T13:15:35.445Z",
+      "created_at": "2026-04-28T13:15:35.445Z"
     }
   ]
 }
