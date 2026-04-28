@@ -1,14 +1,14 @@
 {
   "total": 5961,
-  "translated": 5961,
-  "untranslated": 0,
+  "translated": 5919,
+  "untranslated": 42,
   "today": 192,
   "week": 1039,
   "sources": [
     {
       "name": "Product Hunt",
       "total": 728,
-      "translated": 728,
+      "translated": 689,
       "lastDate": "2026-04-28T14:46:39.000Z"
     },
     {
@@ -32,7 +32,7 @@
     {
       "name": "OpenAI Blog",
       "total": 287,
-      "translated": 287,
+      "translated": 286,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -80,7 +80,7 @@
     {
       "name": "The Guardian AI",
       "total": 135,
-      "translated": 135,
+      "translated": 134,
       "lastDate": "Wed, 22 Apr 2026 18:00:32 GMT"
     },
     {
@@ -164,7 +164,7 @@
     {
       "name": "Nature Machine Intelligence",
       "total": 25,
-      "translated": 25,
+      "translated": 24,
       "lastDate": "2026-04-28T00:00:00.000Z"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-28T21:42:08.138Z"
+  "generatedAt": "2026-04-28T20:40:08.409Z"
 }

@@ -122246,6 +122246,300 @@
       "priority": "batch",
       "fetchedAt": "2026-04-28T19:06:07.973Z",
       "created_at": "2026-04-28T19:06:07.973Z"
+    },
+    {
+      "id": 5962,
+      "source": "TechCrunch AI",
+      "title_en": "Amazon is already offering new OpenAI products on AWS",
+      "description_en": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 19:48:02 +0000",
+      "author": "Julie Bort",
+      "categories": [
+        "AI",
+        "TC",
+        "Amazon",
+        "AWS",
+        "In Brief",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T21:40:29.841Z",
+      "created_at": "2026-04-28T21:40:29.841Z"
+    },
+    {
+      "id": 5963,
+      "source": "Ars Technica",
+      "title_en": "Flesh-eating bacteria devour man's arm and leg in just three days",
+      "description_en": "When doctors saw him, his limbs were discolored and crackling.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/health/2026/04/flesh-eating-bacteria-devour-mans-arm-and-leg-in-just-three-days/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-151039025-1152x648.jpg",
+      "pub_date": "Tue, 28 Apr 2026 20:15:04 +0000",
+      "author": "\n                    Beth Mole\n                ",
+      "categories": [
+        "Health",
+        "climate change",
+        "flesh-eating bacteria",
+        "infection",
+        "Vibrio vulnificus"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T21:40:30.233Z",
+      "created_at": "2026-04-28T21:40:30.233Z"
+    },
+    {
+      "id": 5964,
+      "source": "Ars Technica",
+      "title_en": "FCC orders review of ABC licenses after Kimmel joke offends Trump and first lady",
+      "description_en": "Kimmel joke calling Melania an \"expectant widow\" followed quickly by FCC order.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/04/fcc-orders-review-of-abc-licenses-after-kimmel-joke-offends-trump-and-first-lady/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/jimmy-kimmel-1152x648-1758212989.jpg",
+      "pub_date": "Tue, 28 Apr 2026 19:57:13 +0000",
+      "author": "\n                    Jon Brodkin\n                ",
+      "categories": [
+        "Policy",
+        "ABC",
+        "Disney",
+        "fcc chairman brendan carr",
+        "jimmy kimmel"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T21:40:30.234Z",
+      "created_at": "2026-04-28T21:40:30.234Z"
+    },
+    {
+      "id": 5965,
+      "source": "Ars Technica",
+      "title_en": "Drone pilot makes US rescind no-fly zones around unmarked, moving ICE vehicles",
+      "description_en": "Civil liberty concerns spur FAA to revise drone no-fly zones near ICE vehicles.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gadgets/2026/04/no-fly-zones-around-moving-ice-vehicles-this-drone-pilot-fought-back-and-won/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/powderhorn_jan_10-1152x648.jpg",
+      "pub_date": "Tue, 28 Apr 2026 19:37:09 +0000",
+      "author": "\n                    Jeremy Hsu\n                ",
+      "categories": [
+        "Features",
+        "Policy",
+        "Tech",
+        "civil liberties",
+        "customs and border protection",
+        "Department of Homeland Security",
+        "DHS",
+        "drone pilots",
+        "drones",
+        "FAA",
+        "Federal Aviation Administration",
+        "immigration and customs enforcement",
+        "minneapolis",
+        "unmanned aerial vehicles"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T21:40:30.234Z",
+      "created_at": "2026-04-28T21:40:30.234Z"
+    },
+    {
+      "id": 5966,
+      "source": "Ars Technica",
+      "title_en": "Humanoid robots start sorting luggage in Tokyo airport test amid labor shortage",
+      "description_en": "Humanoid robots could load cargo and clean aircraft cabins at Haneda Airport.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/04/japan-airlines-tests-having-robots-instead-of-humans-handle-travelers-luggage/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2272048837-1152x648.jpg",
+      "pub_date": "Tue, 28 Apr 2026 18:01:36 +0000",
+      "author": "\n                    Jeremy Hsu\n                ",
+      "categories": [
+        "AI",
+        "airlines",
+        "airports",
+        "Chinese AI",
+        "humanoid robots",
+        "Japan",
+        "Robotics",
+        "robots"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T21:40:30.234Z",
+      "created_at": "2026-04-28T21:40:30.234Z"
+    },
+    {
+      "id": 5967,
+      "source": "The Register",
+      "title_en": "OpenAI jumps out of Microsoft's bed, into Amazon's Bedrock",
+      "description_en": "Altman's gaggle of GPTs now available in limited preview in an AWS region near you OpenAI's top models are officially available on Amazon Web Services' Bedrock managed inference and agent platform.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/openai_climbs_into_amazons_bedrock/",
+      "image_url": null,
+      "pub_date": "2026-04-28T19:21:50.000Z",
+      "author": "Tobias Mann",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T21:40:32.067Z",
+      "created_at": "2026-04-28T21:40:32.067Z"
+    },
+    {
+      "id": 5968,
+      "source": "New Atlas",
+      "title_en": "Chery-JLR revives the Freelander nameplate with a new all-electric SUV",
+      "description_en": "The original Land Rover Freelander may have died after just two generations in 2015, but that hasn’t stopped Jaguar Land Rover from reviving the nameplate now in 2026. Except it’s no longer a standalone SUV, with Chery-JLR launching Freelander as a full-fledged brand.\nContinue Reading\nCategory: Automotive, Transport\nTags: Chery, Jaguar Land Rover, SUV, China, Electric Vehicles",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/automotive/chery-jlr-freelander/",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 21:00:00 GMT",
+      "author": "Utkarsh Sood",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T21:40:32.105Z",
+      "created_at": "2026-04-28T21:40:32.105Z"
+    },
+    {
+      "id": 5969,
+      "source": "New Atlas",
+      "title_en": "Titanium multitool combines a steel-headed hammer with a wrench and rulers",
+      "description_en": "Eck Studio is a Hong Kong-based design studio famous for its everyday carry (EDC) tools and practical outdoor gear. After successfully releasing its titanium compact stove and compass/lighter combo, the company is back with another Kickstarter project: the Eck Hammer. The idea of turning a hammer into an EDC tool is all about balancing size and functionality, and this tool seems to check both boxes.\nContinue Reading\nCategory: Gear, Outdoors\nTags: EDC, Multitools, Titanium, Kickstarter, xxKickboo",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/outdoor-gear/eck-hammer-multitool/",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 19:30:00 GMT",
+      "author": "Maryna Holovnova",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T21:40:32.105Z",
+      "created_at": "2026-04-28T21:40:32.105Z"
+    },
+    {
+      "id": 5970,
+      "source": "Futurism",
+      "title_en": "Police Are Using AI Camera Networks to Stalk Women",
+      "description_en": "\"The fundamental problem with these systems is that they place private information about people's movements over time in the hands of every officer.\"\nThe post Police Are Using AI Camera Networks to Stalk Women appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/artificial-intelligence/police-ai-surveillance-stalking",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/police-ai-surveillance-stalking.jpg?quality=85",
+      "pub_date": "Tue, 28 Apr 2026 15:56:21 -0400",
+      "author": "Joe Wilkins",
+      "categories": [
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-28T21:40:33.198Z",
+      "created_at": "2026-04-28T21:40:33.198Z"
+    },
+    {
+      "id": 5971,
+      "source": "Futurism",
+      "title_en": "Sam Altman Caught in What May Be His Most Spectacular Lie Yet",
+      "description_en": "Two-faced Sam strikes again.\nThe post Sam Altman Caught in What May Be His Most Spectacular Lie Yet appeared first on Futurism.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://futurism.com/future-society/sam-altman-caught-lie-bruno-mars",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/sam-altman-caught-lie-bruno-mars.jpg?quality=85",
+      "pub_date": "Tue, 28 Apr 2026 15:10:17 -0400",
+      "author": "Victor Tangermann",
+      "categories": [
+        {
+          "_": "Future Society",
+          "$": {
+            "domain": "https://futurism.com/category/future-society"
+          }
+        },
+        {
+          "_": "Artificial Intelligence",
+          "$": {
+            "domain": "https://futurism.com/category/artificial-intelligence"
+          }
+        },
+        {
+          "_": "Blockchain",
+          "$": {
+            "domain": "https://futurism.com/category/blockchain"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://futurism.com/category/ethics"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://futurism.com/category/openai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T21:40:33.199Z",
+      "created_at": "2026-04-28T21:40:33.199Z"
+    },
+    {
+      "id": 5972,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia quietly launches 12GB RTX 5070 laptop GPU — midrange mobile gaming gets more VRAM amid the RAMpocalypse",
+      "description_en": "Despite ongoing memory shortages, Nvidia has launched a higher-capacity 12GB trim of its RTX 5070 laptop GPU. The new part has 50% more capacity compared to Nvidia's existing RTX 5070 8GB model.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-quietly-launches-12gb-rtx-5070-laptop-gpu-midrange-mobile-gaming-gets-more-vram-amid-the-rampocalypse",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/awY26wXsqo6XivfVjis7QA-1280-80.jpg",
+      "pub_date": "Tue, 28 Apr 2026 19:17:15 +0000",
+      "author": " Aaron Klotz ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T21:40:33.285Z",
+      "created_at": "2026-04-28T21:40:33.285Z"
+    },
+    {
+      "id": 5973,
+      "source": "Product Hunt",
+      "title_en": "Stasher",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/stasher",
+      "image_url": null,
+      "pub_date": "2026-04-23T20:14:54.000Z",
+      "author": "Rajiv Ayyangar",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-28T21:40:33.764Z",
+      "created_at": "2026-04-28T21:40:33.764Z"
     }
   ]
 }
