@@ -1,9 +1,9 @@
 {
-  "total": 5991,
+  "total": 5987,
   "translated": 5987,
-  "untranslated": 4,
-  "today": 4,
-  "week": 882,
+  "untranslated": 0,
+  "today": 0,
+  "week": 878,
   "sources": [
     {
       "name": "Product Hunt",
@@ -25,13 +25,13 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 378,
+      "total": 377,
       "translated": 377,
-      "lastDate": "Wed, 29 Apr 2026 00:06:33 +0000"
+      "lastDate": "Wed, 22 Apr 2026 23:45:50 +0000"
     },
     {
       "name": "OpenAI Blog",
-      "total": 288,
+      "total": 287,
       "translated": 287,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
@@ -43,7 +43,7 @@
     },
     {
       "name": "Ars Technica",
-      "total": 255,
+      "total": 254,
       "translated": 254,
       "lastDate": "Wed, 22 Apr 2026 22:07:54 +0000"
     },
@@ -61,9 +61,9 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 187,
+      "total": 186,
       "translated": 186,
-      "lastDate": "Wed, 29 Apr 2026 00:40:16 +0000"
+      "lastDate": "Wed, 22 Apr 2026 23:56:52 +0000"
     },
     {
       "name": "The Decoder",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-29T04:49:50.008Z"
+  "generatedAt": "2026-04-29T01:23:36.079Z"
 }

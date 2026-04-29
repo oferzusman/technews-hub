@@ -122786,6 +122786,90 @@
       "priority": "batch",
       "fetchedAt": "2026-04-28T23:40:40.515Z",
       "created_at": "2026-04-28T23:40:40.515Z"
+    },
+    {
+      "id": 5988,
+      "source": "TechCrunch AI",
+      "title_en": "At his OpenAI trial, Musk relitigates an old friendship",
+      "description_en": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+      "image_url": null,
+      "pub_date": "Wed, 29 Apr 2026 00:40:16 +0000",
+      "author": "Connie Loizos",
+      "categories": [
+        "AI",
+        "Elon Musk",
+        "Google",
+        "In Brief",
+        "Larry Page",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T01:25:52.643Z",
+      "created_at": "2026-04-29T01:25:52.643Z"
+    },
+    {
+      "id": 5989,
+      "source": "Ars Technica",
+      "title_en": "Anti-Trump Instagram pic of seashells now enough to indict ex-FBI directors",
+      "description_en": "The clown car is all gassed up.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/04/anti-trump-instagram-pic-of-seashells-now-enough-to-indict-ex-fbi-directors/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/department-of-clowns-1152x648.jpg",
+      "pub_date": "Tue, 28 Apr 2026 23:08:02 +0000",
+      "author": "\n                    Nate Anderson\n                ",
+      "categories": [
+        "Policy",
+        "come",
+        "DoJ",
+        "Instagram",
+        "social media",
+        "Trump"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-29T01:25:52.687Z",
+      "created_at": "2026-04-29T01:25:52.687Z"
+    },
+    {
+      "id": 5990,
+      "source": "OpenAI Blog",
+      "title_en": "Our commitment to community safety",
+      "description_en": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/our-commitment-to-community-safety",
+      "image_url": null,
+      "pub_date": "Tue, 28 Apr 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Safety"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-29T01:25:54.247Z",
+      "created_at": "2026-04-29T01:25:54.247Z"
+    },
+    {
+      "id": 5991,
+      "source": "Interesting Engineering",
+      "title_en": "Elon Musk accuses OpenAI of betraying charity mission in major US courtroom clash",
+      "description_en": "Elon Musk took the stand Tuesday in a closely watched U.S. trial over the future...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/musk-openai-trial-nonprofit-dispute",
+      "image_url": null,
+      "pub_date": "Wed, 29 Apr 2026 00:06:33 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T01:25:56.063Z",
+      "created_at": "2026-04-29T01:25:56.063Z"
     }
   ]
 }
