@@ -123478,6 +123478,371 @@
       "priority": "batch",
       "fetchedAt": "2026-04-29T07:22:03.606Z",
       "created_at": "2026-04-29T07:22:03.606Z"
+    },
+    {
+      "id": 6018,
+      "source": "The Verge AI",
+      "title_en": "General Motors is adding Gemini to four million cars",
+      "description_en": "Gemini is coming to Cadillac, Chevrolet, Buick, and GMC vehicles. | Image: General Motors\t\n\nGeneral Motors is planning to bring Google's Gemini AI assistant to around four million vehicles across the US. Model year 2022 and newer Cadillac, Chevrolet, Buick, and GMC vehicles with Google built-in will be eligible for the AI upgrade, which will be rolled out via over-the-air software updates for GM's infotainment system \"over several months,\" according to GM's announcement.\nGM says this update repr",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update",
+      "image_url": null,
+      "pub_date": "2026-04-29T09:14:38.000Z",
+      "author": "Jess Weatherbed",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T09:32:37.821Z",
+      "created_at": "2026-04-29T09:32:37.821Z"
+    },
+    {
+      "id": 6019,
+      "source": "The Decoder",
+      "title_en": "With Nemotron 3 Nano Omni, Nvidia reveals what really goes into a modern multimodal model",
+      "description_en": "Nvidia releases Nemotron 3 Nano Omni, an open multimodal model for text, image, video and audio. Not only the performance is exciting, but also a look at the training data: it comes from Qwen, GPT-OSS, Kimi and DeepSeek OCR, among others.\nThe article With Nemotron 3 Nano Omni, Nvidia reveals what really goes into a modern multimodal model appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/with-nemotron-3-nano-omni-nvidia-reveals-what-really-goes-into-a-modern-multimodal-model/",
+      "image_url": null,
+      "pub_date": "Wed, 29 Apr 2026 09:28:29 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "AI training",
+        "Nemotron",
+        "Nvidia"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T09:32:39.106Z",
+      "created_at": "2026-04-29T09:32:39.106Z"
+    },
+    {
+      "id": 6020,
+      "source": "MIT Technology Review",
+      "title_en": "It’s time to make a plan for nuclear waste",
+      "description_en": "Today, nuclear energy enjoys a rare moment of support across the political spectrum in the US. Interest from tech companies that are scrambling to meet demand for massive data centers has sparked a resurgence of money and attention in the industry. That newfound interest is exactly why it’s time to talk about an old problem:…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/",
+      "image_url": null,
+      "pub_date": "Wed, 29 Apr 2026 08:00:00 +0000",
+      "author": "Casey Crownhart",
+      "categories": [
+        "Climate change and energy",
+        "App",
+        "The Spark"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T09:32:39.267Z",
+      "created_at": "2026-04-29T09:32:39.267Z"
+    },
+    {
+      "id": 6021,
+      "source": "MarkTechPost",
+      "title_en": "Meta FAIR Releases NeuralSet: A Python Package for Neuro-AI That Supports fMRI, M/EEG, Spikes, and HuggingFace Embeddings",
+      "description_en": "Introducing NeuralSet: Meta's Simple, Fast, and Scalable Python Package That Bridges Neuroscience and AI\nThe post Meta FAIR Releases NeuralSet: A Python Package for Neuro-AI That Supports fMRI, M/EEG, Spikes, and HuggingFace Embeddings appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/29/meta-fair-releases-neuralset-a-python-package-for-neuro-ai-that-supports-fmri-m-eeg-spikes-and-huggingface-embeddings/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-29-at-12.54.07-AM-1.png",
+      "pub_date": "Wed, 29 Apr 2026 07:56:02 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Artificial Intelligence",
+        "Big Data",
+        "Data Science",
+        "Editors Pick",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T09:32:39.903Z",
+      "created_at": "2026-04-29T09:32:39.903Z"
+    },
+    {
+      "id": 6022,
+      "source": "MarkTechPost",
+      "title_en": "smol-audio: A Colab-Friendly Notebook Collection for Fine-Tuning Whisper, Parakeet, Voxtral, Granite Speech, and Audio Flamingo 3",
+      "description_en": "smol-audio Is the Audio AI Cookbook Practitioners Have Been Waiting For\nThe post smol-audio: A Colab-Friendly Notebook Collection for Fine-Tuning Whisper, Parakeet, Voxtral, Granite Speech, and Audio Flamingo 3 appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/29/smol-audio-a-colab-friendly-notebook-collection-for-fine-tuning-whisper-parakeet-voxtral-granite-speech-and-audio-flamingo-3/",
+      "image_url": null,
+      "pub_date": "Wed, 29 Apr 2026 07:31:31 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Audio Language Model",
+        "Editors Pick",
+        "New Releases",
+        "Open Source",
+        "Staff",
+        "Technology",
+        "Voice AI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-29T09:32:39.903Z",
+      "created_at": "2026-04-29T09:32:39.903Z"
+    },
+    {
+      "id": 6023,
+      "source": "The Register",
+      "title_en": "AI clause in new SAP API policy has partners worried over lock-in",
+      "description_en": "Expert says it could push customers and partners to work with undocumented APIs SAP is prohibiting the use of its APIs to integrate with AI systems outside its endorsed architectures, raising concerns that it is locking out third-party AI tools from customers' SAP data.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/new_sap_api_policy_provokes/",
+      "image_url": null,
+      "pub_date": "2026-04-29T09:15:14.000Z",
+      "author": "Lindsay Clark",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T09:32:40.269Z",
+      "created_at": "2026-04-29T09:32:40.269Z"
+    },
+    {
+      "id": 6024,
+      "source": "The Guardian AI",
+      "title_en": "Meet the AI jailbreakers: ‘I see the worst things humanity has produced’",
+      "description_en": "To test the safety and security of AI, hackers have to trick large language models into breaking their own rules. It requires ingenuity and manipulation – and can come at a deep emotional cost\nA few months ago, Valen Tagliabue sat in his hotel room watching his chatbot, and felt euphoric. He had just manipulated it so skilfully, so subtly, that it began ignoring its own safety rules. It told him how to sequence new, potentially lethal pathogens and how to make them resistant to known drugs.\nTagl",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/apr/29/meet-the-ai-jailbreakers-i-see-the-worst-things-humanity-has-produced",
+      "image_url": "https://i.guim.co.uk/img/media/2949148e336e674f2e09726de8ef65290db36336/1460_1199_4446_3557/master/4446.jpg?width=140&quality=85&auto=format&fit=max&s=85834f1b84eaa97761756b6fba0d2b2c",
+      "pub_date": "Wed, 29 Apr 2026 09:00:51 GMT",
+      "author": "Jamie Bartlett",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Hacking",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/hacking"
+          }
+        },
+        {
+          "_": "Psychology",
+          "$": {
+            "domain": "https://www.theguardian.com/science/psychology"
+          }
+        },
+        {
+          "_": "ChatGPT",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatgpt"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T09:32:40.377Z",
+      "created_at": "2026-04-29T09:32:40.377Z"
+    },
+    {
+      "id": 6025,
+      "source": "AI News",
+      "title_en": "GPT-5.5 is OpenAI’s most capable agentic AI model yet–at twice the API price",
+      "description_en": "OpenAI launched GPT-5.5 on April 23 as what it calls “a new class of intelligence for real work and powering agents,” and the framing is deliberate. OpenAI says it’s the most capable agentic AI model to date, built from the ground up to plan, use tools, check its own output, and work through tasks independently. […]\nThe post GPT-5.5 is OpenAI’s most capable agentic AI model yet–at twice the API price appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/",
+      "image_url": null,
+      "pub_date": "Wed, 29 Apr 2026 09:08:13 +0000",
+      "author": "Dashveenjit Kaur",
+      "categories": [
+        "World of Work",
+        "agentic workflows",
+        "chatgpt",
+        "openai"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T09:32:41.005Z",
+      "created_at": "2026-04-29T09:32:41.005Z"
+    },
+    {
+      "id": 6026,
+      "source": "Interesting Engineering",
+      "title_en": "China plans 8,500 AI robots for power grid operations with massive $1 billion push",
+      "description_en": "China is ramping up the use of robotics in its power grid, with plans to...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/china-8500-robots-power-grid",
+      "image_url": "https://www.youtube.com/embed/D9Br0hD6jUw",
+      "pub_date": "Wed, 29 Apr 2026 09:31:10 +0000",
+      "author": "Jijo Malayil",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T09:32:43.219Z",
+      "created_at": "2026-04-29T09:32:43.219Z"
+    },
+    {
+      "id": 6027,
+      "source": "Interesting Engineering",
+      "title_en": "Oxford to build next-gen robotic solutions for nuclear energy sites with AtkinsRéalis",
+      "description_en": "In the high-risk environment of nuclear energy, the most valuable worker may soon be the...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/atkinsrealis-oxford-robots-nuclear-energy-sites",
+      "image_url": "https://www.youtube.com/embed/YsOF-D5Lyvw",
+      "pub_date": "Wed, 29 Apr 2026 08:56:17 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T09:32:43.219Z",
+      "created_at": "2026-04-29T09:32:43.219Z"
+    },
+    {
+      "id": 6028,
+      "source": "Interesting Engineering",
+      "title_en": "US Marines to deploy pilotless helicopter lifting up to 2,500 lbs in combat zones",
+      "description_en": "The U.S. Marine Corps has awarded Sikorsky and Robinson Unmanned a $15.5 million contract to...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-marines-pilotless-cargo-helicopter",
+      "image_url": null,
+      "pub_date": "Wed, 29 Apr 2026 08:15:05 +0000",
+      "author": "Sujita Sinha",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T09:32:43.219Z",
+      "created_at": "2026-04-29T09:32:43.219Z"
+    },
+    {
+      "id": 6029,
+      "source": "CNBC Tech",
+      "title_en": "Meta told it's violating EU law by not doing enough to keep children off Facebook and Instagram",
+      "description_en": "Children can create Instagram and Facebook accounts simply by inputting a false birth date, a preliminary EU investigation found.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/29/meta-eu-law-minors-facebook-instagram-child-safety.html",
+      "image_url": null,
+      "pub_date": "Wed, 29 Apr 2026 09:20:46 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T09:32:43.552Z",
+      "created_at": "2026-04-29T09:32:43.552Z"
+    },
+    {
+      "id": 6030,
+      "source": "Tom's Hardware",
+      "title_en": "Nanoscale device generates continuous electricity from evaporating water and some sunlight — paves the path for battery-free sensors, wearable electronics, and more",
+      "description_en": "Researchers at Switzerland’s École Polytechnique Fédérale de Lausanne have developed a nanoscale device that generates continuous electricity from evaporating water, with heat and sunlight boosting the process.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/nanoscale-device-generates-continuous-electricity-from-evaporating-water-and-some-sunlight-paves-the-path-for-battery-free-sensors-wearable-electronics-and-more",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Snzx28A6TzchF8yMAWXdWU-1280-80.jpg",
+      "pub_date": "Wed, 29 Apr 2026 09:30:00 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T09:32:43.576Z",
+      "created_at": "2026-04-29T09:32:43.576Z"
+    },
+    {
+      "id": 6031,
+      "source": "Product Hunt",
+      "title_en": "Venture Factory AI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/venture-factory-ai",
+      "image_url": null,
+      "pub_date": "2026-04-28T15:33:54.000Z",
+      "author": "Elena Goldgerg",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-29T09:32:43.762Z",
+      "created_at": "2026-04-29T09:32:43.762Z"
+    },
+    {
+      "id": 6032,
+      "source": "Product Hunt",
+      "title_en": "Snapr",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/snapr-5",
+      "image_url": null,
+      "pub_date": "2026-04-26T02:52:42.000Z",
+      "author": "Sangwon Lee",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-29T09:32:43.763Z",
+      "created_at": "2026-04-29T09:32:43.763Z"
+    },
+    {
+      "id": 6033,
+      "source": "Product Hunt",
+      "title_en": "Picsart CLI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/picsart",
+      "image_url": null,
+      "pub_date": "2026-04-28T14:31:08.000Z",
+      "author": "Lora",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-29T09:32:43.763Z",
+      "created_at": "2026-04-29T09:32:43.763Z"
+    },
+    {
+      "id": 6034,
+      "source": "Product Hunt",
+      "title_en": "noirdoc",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/noirdoc",
+      "image_url": null,
+      "pub_date": "2026-04-28T15:32:08.000Z",
+      "author": "Antonio Maiolo",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-29T09:32:43.763Z",
+      "created_at": "2026-04-29T09:32:43.763Z"
     }
   ]
 }
