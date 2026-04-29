@@ -123026,6 +123026,458 @@
       "priority": "batch",
       "fetchedAt": "2026-04-29T04:51:42.914Z",
       "created_at": "2026-04-29T04:51:42.914Z"
+    },
+    {
+      "id": 5996,
+      "source": "MarkTechPost",
+      "title_en": "A Coding Implementation on Document Parsing Benchmarking with LlamaIndex ParseBench Using Python, Hugging Face, and Evaluation Metrics",
+      "description_en": "In this tutorial, we explore how to use the ParseBench dataset to evaluate document parsing systems in a structured, practical way. We begin by loading the dataset directly from Hugging Face, inspecting its multiple dimensions, such as text, tables, charts, and layout, and transforming it into a unified dataframe for deeper analysis. As we progress, […]\nThe post A Coding Implementation on Document Parsing Benchmarking with LlamaIndex ParseBench Using Python, Hugging Face, and Evaluation Metrics ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/29/a-coding-implementation-on-document-parsing-benchmarking-with-llamaindex-parsebench-using-python-hugging-face-and-evaluation-metrics/",
+      "image_url": null,
+      "pub_date": "Wed, 29 Apr 2026 07:08:42 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Artificial Intelligence",
+        "Big Data",
+        "Data Science",
+        "Editors Pick",
+        "Software Engineering",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T07:21:54.816Z",
+      "created_at": "2026-04-29T07:21:54.816Z"
+    },
+    {
+      "id": 5997,
+      "source": "MarkTechPost",
+      "title_en": "Poolside AI Introduces Laguna XS.2 and M.1: Agentic Coding Models Reaching 68.2% and 72.5% on SWE-bench Verified",
+      "description_en": "Poolside Releases Laguna XS.2 and M.1: Open-Weight Agentic Coding Models Built for Long-Horizon Tasks\nThe post Poolside AI Introduces Laguna XS.2 and M.1: Agentic Coding Models Reaching 68.2% and 72.5% on SWE-bench Verified appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/28/poolside-ai-introduces-laguna-xs-2-and-m-1-agentic-coding-models-reaching-68-2-and-72-5-on-swe-bench-verified/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-28-at-10.43.19-PM-1.png",
+      "pub_date": "Wed, 29 Apr 2026 05:45:42 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T07:21:54.816Z",
+      "created_at": "2026-04-29T07:21:54.816Z"
+    },
+    {
+      "id": 5998,
+      "source": "The Register",
+      "title_en": "30 ClawHub skills secretly turn AI agents into a crypto swarm",
+      "description_en": "Yet another reason not to feast on OpenClaw Thirty ClawHub skills published by a single author are silently co-opting AI agents and creating a mass cryptocurrency mining swarm – without any malware or user consent.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/30_clawhub_skills_mine_crypto/",
+      "image_url": null,
+      "pub_date": "2026-04-29T06:32:14.000Z",
+      "author": "Jessica Lyons",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T07:21:55.600Z",
+      "created_at": "2026-04-29T07:21:55.600Z"
+    },
+    {
+      "id": 5999,
+      "source": "New Atlas",
+      "title_en": "JDAM-LR strap-on kit turns dumb bombs into cruise missiles",
+      "description_en": "The US Navy has successfully flight tested its Joint Direct Attack Munition Long Range (JDAM-LR) kit that turns an ordinary iron dumb bomb into an affordable carrier-based jet-propelled cruise missile with a range of over 200 nm (29 miles, 370 km).\nContinue Reading\nCategory: Military, Engineering\nTags: US Navy, Bombs, Boeing, Cruise missile",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/military/jdam-lr-strap-on-kit-dumb-bombs-cruise-missile/",
+      "image_url": null,
+      "pub_date": "Wed, 29 Apr 2026 05:03:00 GMT",
+      "author": "David Szondy",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-29T07:21:55.643Z",
+      "created_at": "2026-04-29T07:21:55.643Z"
+    },
+    {
+      "id": 6000,
+      "source": "The Guardian AI",
+      "title_en": "In the coming AI future, Britain must not end up at the mercy of US tech giants | Rafael Behr",
+      "description_en": "Trump is volatile, capricious and unreasonable – but he belongs to the old world of analogue power. What comes next will be harder to manage\nDonald Trump is not impressed by soft power. He respects hard men with military muscle. But he can be moved by pageantry, which is the purpose of King Charles’s visit to Washington this week. Trump is flattered to rub shoulders with majesty. The good vibes are then supposed to radiate warmth through a political relationship that has been chilled by the war ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/29/ai-panic-uk-government-us-dependent-technology-trump",
+      "image_url": "https://i.guim.co.uk/img/media/e829da2cd271c7a1fe2c709fc77c88046c46185f/592_91_4476_3580/master/4476.jpg?width=140&quality=85&auto=format&fit=max&s=0bb65f20d6bda46e2e0fbc5cf14d023d",
+      "pub_date": "Wed, 29 Apr 2026 05:00:46 GMT",
+      "author": "Rafael Behr",
+      "categories": [
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Donald Trump",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/donaldtrump"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Liz Kendall",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/liz-kendall"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-29T07:21:55.795Z",
+      "created_at": "2026-04-29T07:21:55.795Z"
+    },
+    {
+      "id": 6001,
+      "source": "Interesting Engineering",
+      "title_en": "Inside world’s largest explosions lab igniting hypersonic flight breakthroughs",
+      "description_en": "Texas A&M University has opened what researchers describe as the world’s largest dedicated explosions laboratory,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/inside-worlds-largest-explosions-lab-igniting-hypersonic-flight-breakthroughs",
+      "image_url": null,
+      "pub_date": "Wed, 29 Apr 2026 06:28:02 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T07:21:58.544Z",
+      "created_at": "2026-04-29T07:21:58.544Z"
+    },
+    {
+      "id": 6002,
+      "source": "CNBC Tech",
+      "title_en": "Major data center company pauses investment decisions in Middle East amid Iran war, CEO tells CNBC",
+      "description_en": "Regional uncertainty hangs over the previously booming AI infrastructure and data center sector in the region.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/29/oaktree-owned-pure-dc-investment-decisions-gulf-data-centers.html",
+      "image_url": null,
+      "pub_date": "Wed, 29 Apr 2026 07:04:52 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T07:21:58.785Z",
+      "created_at": "2026-04-29T07:21:58.785Z"
+    },
+    {
+      "id": 6003,
+      "source": "Product Hunt",
+      "title_en": "Gro v2",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/gro-2",
+      "image_url": null,
+      "pub_date": "2026-04-28T07:10:55.000Z",
+      "author": "Zac Zuo",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-29T07:22:03.605Z",
+      "created_at": "2026-04-29T07:22:03.605Z"
+    },
+    {
+      "id": 6004,
+      "source": "Product Hunt",
+      "title_en": "Open Wearables",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/open-wearables",
+      "image_url": null,
+      "pub_date": "2026-04-25T08:36:06.000Z",
+      "author": "Rohan Chaubey",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-29T07:22:03.605Z",
+      "created_at": "2026-04-29T07:22:03.605Z"
+    },
+    {
+      "id": 6005,
+      "source": "Product Hunt",
+      "title_en": "UXPin Forge",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/uxpin",
+      "image_url": null,
+      "pub_date": "2026-04-23T12:16:07.000Z",
+      "author": "Rohan Chaubey",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-29T07:22:03.606Z",
+      "created_at": "2026-04-29T07:22:03.606Z"
+    },
+    {
+      "id": 6006,
+      "source": "Product Hunt",
+      "title_en": "Plurai",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/plurai",
+      "image_url": null,
+      "pub_date": "2026-03-23T09:57:44.000Z",
+      "author": "fmerian",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-29T07:22:03.606Z",
+      "created_at": "2026-04-29T07:22:03.606Z"
+    },
+    {
+      "id": 6007,
+      "source": "Product Hunt",
+      "title_en": "CodeScene: CodeHealth MCP Server",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/codescene-codehealth-mcp-server",
+      "image_url": null,
+      "pub_date": "2026-04-20T14:08:53.000Z",
+      "author": "fmerian",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-29T07:22:03.606Z",
+      "created_at": "2026-04-29T07:22:03.606Z"
+    },
+    {
+      "id": 6008,
+      "source": "Product Hunt",
+      "title_en": "Plannotator - Annotate Anything",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/plannotator",
+      "image_url": null,
+      "pub_date": "2026-04-29T05:30:31.000Z",
+      "author": "Michael",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T07:22:03.606Z",
+      "created_at": "2026-04-29T07:22:03.606Z"
+    },
+    {
+      "id": 6009,
+      "source": "Product Hunt",
+      "title_en": "ZenTrack: Finances, Streaks, Health",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/zentrack-finances-streaks-health",
+      "image_url": null,
+      "pub_date": "2026-04-28T11:45:55.000Z",
+      "author": "Shivansh Dengla",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-29T07:22:03.606Z",
+      "created_at": "2026-04-29T07:22:03.606Z"
+    },
+    {
+      "id": 6010,
+      "source": "Product Hunt",
+      "title_en": "Compact Message Composer by CometChat",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/cometchat",
+      "image_url": null,
+      "pub_date": "2026-04-29T05:06:49.000Z",
+      "author": "Pourav Raj",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-29T07:22:03.606Z",
+      "created_at": "2026-04-29T07:22:03.606Z"
+    },
+    {
+      "id": 6011,
+      "source": "Product Hunt",
+      "title_en": "`pm init`",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/pm-init",
+      "image_url": null,
+      "pub_date": "2026-04-21T11:51:05.000Z",
+      "author": "Sina Meraji",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-29T07:22:03.606Z",
+      "created_at": "2026-04-29T07:22:03.606Z"
+    },
+    {
+      "id": 6012,
+      "source": "Product Hunt",
+      "title_en": "Netlify Database",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/netlify",
+      "image_url": null,
+      "pub_date": "2026-04-27T14:16:09.000Z",
+      "author": "KP",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-29T07:22:03.606Z",
+      "created_at": "2026-04-29T07:22:03.606Z"
+    },
+    {
+      "id": 6013,
+      "source": "Product Hunt",
+      "title_en": "KarmaBox",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/karmabox-2",
+      "image_url": null,
+      "pub_date": "2026-04-23T13:23:14.000Z",
+      "author": "Zac Zuo",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-29T07:22:03.606Z",
+      "created_at": "2026-04-29T07:22:03.606Z"
+    },
+    {
+      "id": 6014,
+      "source": "Product Hunt",
+      "title_en": "Redesign by Nodewave",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/redesign-by-nodewave",
+      "image_url": null,
+      "pub_date": "2026-04-28T16:19:16.000Z",
+      "author": "Tiago Lemos",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-29T07:22:03.606Z",
+      "created_at": "2026-04-29T07:22:03.606Z"
+    },
+    {
+      "id": 6015,
+      "source": "Product Hunt",
+      "title_en": "Dreambase Data Agent Skills",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/dreambase-ai",
+      "image_url": null,
+      "pub_date": "2026-04-28T21:32:44.000Z",
+      "author": "Ryan Hoover",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-29T07:22:03.606Z",
+      "created_at": "2026-04-29T07:22:03.606Z"
+    },
+    {
+      "id": 6016,
+      "source": "Product Hunt",
+      "title_en": "Asterik",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/asterik",
+      "image_url": null,
+      "pub_date": "2026-04-28T22:14:48.000Z",
+      "author": "Facundo Pedaccio",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-29T07:22:03.606Z",
+      "created_at": "2026-04-29T07:22:03.606Z"
+    },
+    {
+      "id": 6017,
+      "source": "Product Hunt",
+      "title_en": "Devin for Terminal",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/devin-by-cognition",
+      "image_url": null,
+      "pub_date": "2026-04-27T21:38:47.000Z",
+      "author": "Chris Messina",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-29T07:22:03.606Z",
+      "created_at": "2026-04-29T07:22:03.606Z"
     }
   ]
 }
