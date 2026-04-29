@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "AWS keynote hypes AI as magic. Its own engineers tell a different story\n\nNo shortcuts, human-review everything, says internal team - and keep hiring junior developers Interview  Steve Tarcza, director of Amazon Stores, says his team — StoreGen — exists to help the retail giant's developers move faster and cut friction. But despite the AI mandate, one principle is non-negotiable: nothing ships without a human checking it first.…",
+    "t": "AWS משווק AI כקסם, אבל המהנדסים שלהם מספרים סיפור אחר\n\nאמזון מנסה להפוך את ה-AI לחיסול סימנים בקוד, אבל בפועל הצוות הפנימי שלהם מתעקש: אף קוד לא משתגר בלי בדיקה אנושית! דרך אגב, הם גם לא בודדים בהעסקת מפתחי junior - ויש להם סיבות טובות לכך. זה בדיוק ההפך מהשיבוץ המהומה שAWS משדרת בכנסים.",
     "d": "2026-04-29T12:51:27.000Z",
     "v": 0,
     "l": [
@@ -27,7 +27,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Framework's new RTX 5070 12GB graphics module costs a whopping $1,199 — 72% more expensive than $699 8GB version, says pricing is beyond its control\n\nFramework has just launched a new graphics module featuring the RTX 5070 mobile 12GB, and it costs a cool $1,200, representing a 72% raise in pricing over the 8GB variant, that's $699. Both GPUs are identical apart from the memory capacity (and bandwidth), but Framework says pricing is out of its control.",
+    "t": "מודול גרפיקה RTX 5070 של Framework יעלה 1,199 דולר - עלייה של 72% מול הגרסה של 8GB\n\nFramework שוק את מודול הגרפיקה החדש עם RTX 5070 בעל 12GB זיכרון, והמחיר? 1,200 דולר! זה עלייה משוגעת של 72% בהשוואה לגרסת ה-8GB שעולה 699 דולר. ה-GPU עצמו זהה פרט לגודל הזיכרון, אבל Framework טוענת שהיא לא קובעת את המחירים - אלה הם כאלה וזהו.",
     "d": "Wed, 29 Apr 2026 12:20:58 +0000",
     "v": 0,
     "l": [
@@ -45,8 +45,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "hardware",
-      "regulation"
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/ZEff4HSsbm89ndVV2MHXG6-1280-80.jpg",
@@ -54,7 +53,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "US makes room-temp material with 100x stronger electric control for low-power computing\n\nEngineers at Rice University in the U.S. have developed a new room-temperature multiferroic material that...",
+    "t": "ארה\"ב פיתחה חומר בטמפרטורת החדר עם שליטה חשמלית חזקה פי 100 למחשוב חסכוני בחשמל\n\nמהנדסים באוניברסיטת Rice בארה\"ב הצליחו לפתח חומר מולטיפרואיק חדש שפועל בטמפרטורת החדר ומאפשר שליטה חשמלית בעוצמה חסרת תקדים - פי 100 יותר חזקה מהטכנולוגיות הקיימות היום. התגלית הזו יכולה להיות משחקון בעולם המחשוב של עתיד, במיוחד לציוד נייד וחסכוני בחשמל שלא יצטרך כל כך הרבה סוללה. זה בעצם הדבר שכולנו חיכינו לו - יותר כוח חישובי עם פחות אנרגיה.",
     "d": "Wed, 29 Apr 2026 12:18:13 +0000",
     "v": 0,
     "l": [
@@ -77,7 +76,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "The Download: storing nuclear waste and orchestrating agents\n\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. It’s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum. Public approval has spiked, and Big Tech is throwing money around to…",
+    "t": "ההורדה: אחסון פסולת גרעינית וניהול סוכנים AI\n\nבעיתון היום של The Download - הניוזלטר היומי שלנו על עולם הטכנולוגיה - אנחנו מדברים על שתי בעיות משמעותיות: ראשית, צריך סוף-סוף לתכנן איך להתמודד עם פסולת גרעינית, וזה הזמן לעשות זאת כי כולם כרגע בעד אנרגיה גרעינית (אפילו זה נדיר לפוליטיקאים שונים לסכום) ובמספר ענקי של כסף). שנית, אנחנו צופים בעיצוב של סוכנים AI אוטונומיים שיכולים לעבוד ביחד - וזה קצת מסובך כמו שזה נשמע. (מקור: MIT Technology Review)",
     "d": "Wed, 29 Apr 2026 12:10:00 +0000",
     "v": 0,
     "l": [
@@ -92,8 +91,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -101,7 +99,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Fed day, Starbucks earnings, UAE leaves OPEC and more in Morning Squawk\n\nHere are five key things investors need to know to start the trading day.",
+    "t": "יום הFed, הרווחים של סטארבקס, העלייה של איחוד האמירויות מ-OPEC ועוד בMorning Squawk\n\nחמישה דברים חיוניים שכל משקיע צריך לדעת לפני שהיום הכלכלי מתחיל. כולל החלטות הFed, ביצועי קפה סטארבקס, והתפנית הגדולה של איחוד האמירויות שעזבה את ברית OPEC - יום בשווקים העולמיים שמחזיק הרבה סיפורים למי שמעקב.",
     "d": "Wed, 29 Apr 2026 12:05:25 GMT",
     "v": 0,
     "l": [
@@ -124,7 +122,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "School-shooting lawsuits accuse OpenAI of hiding violent ChatGPT users\n\nLawsuits: OpenAI didn't report ChatGPT user to cops to protect Altman, IPO.",
+    "t": "תביעות: OpenAI הסתירה משתמשים אלימים ב-ChatGPT בגלל הירי בבית ספר\n\nOpenAI עומדת במרכז סערה משפטית: התביעות טוענות שחברת ה-AI לא דיווחה לשוטרים על משתמש מסוכן ב-ChatGPT כדי להגן על ה-IPO הקרוב של סאם אלטמן. מה שעלול להיות סקנדל ענק לאחד מחברות ה-AI החשובות בעולם.",
     "d": "Wed, 29 Apr 2026 12:00:41 +0000",
     "v": 0,
     "l": [
@@ -138,22 +136,19 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Amazon"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "model",
-      "product",
-      "regulation"
+      "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2261040231-1024x648.jpg",
     "source": "Ars Technica"
   },
   {
     "id": 7,
-    "t": "OpenAI looms over earnings from tech hyperscalers\n\nAmazon, Alphabet, Meta and Microsoft report quarterly results after the bell, and OpenAI is likely to be a big topic across the board.",
+    "t": "OpenAI משדדת את צללה על הרווחים של ענקי הטק\n\nאמזון, גוגל, מטא ומיקרוסופט מפרסמים תוצאות רבעוניות היום, והשאלה הגדולה היא כמה OpenAI תהיה בשיחות. ברור שכולם יצטרכו להסביר איך משקיעים בה מתחזקת עם ה-AI הלהוט שלה, ואיך זה כל הזמן משנה את עסקי הענקים.",
     "d": "Wed, 29 Apr 2026 12:00:02 GMT",
     "v": 0,
     "l": [
@@ -167,23 +162,19 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Meta",
-      "Microsoft",
-      "Amazon"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "model",
-      "product"
+      "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 8,
-    "t": "US stops exports of tools to China’s number two chip maker — Hua Hong and Huali Microelectronics reportedly on the cusp of starting a 7-nm fab in Shanghai\n\nApplied Materials, KLA, and Lam Research received letters from the U.S. Department of Commerce preventing them from shipping some of Hua Hong's orders for the latest chipmaking tools. These are reportedly being planned for use on the Chinese company's planned 7-nm fab in Shanghai.",
+    "t": "ארה\"ב חוסמת ייצוא כלים לייצור שבבים לחברה הסינית השנייה בגודלה — Hua Hong ו-Huali מתכננים להקים מפעל 7 ננומטר בשנגחאי\n\nממשלת ארה\"ב חסמה את היצוא של כלים לייצור שבבים מחברות כמו Applied Materials ו-KLA לעבר Hua Hong, אחת מענקיות הסמיקונדקטור בסין. הכלים המעולים הללו היו אמורים להשמש במפעל חדש שמתכננת החברה הסינית להקים בשנגחאי, שיוכל לייצר שבבים בטכנולוגיית 7 ננומטר. זו עוד צעד בקרב הטכנולוגיה בין ארה\"ב לסין על השליטה בשוק של מיקרו-מעבדים מתקדמים.",
     "d": "Wed, 29 Apr 2026 11:59:05 +0000",
     "v": 0,
     "l": [
@@ -200,13 +191,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/uzbuyKRdiHEjTQh9QtKjxF-1280-80.png",
     "source": "Tom's Hardware"
   },
   {
     "id": 9,
-    "t": "Google rolls out Gemini memory in Europe and wants you to bring your ChatGPT data along\n\nGemini can now remember your preferences and import your chat history from other AI apps.\nThe article Google rolls out Gemini memory in Europe and wants you to bring your ChatGPT data along appeared first on The Decoder.",
+    "t": "גוגל משיקה זיכרון ב-Gemini באירופה וקוראת לכם להביא את הנתונים שלכם מ-ChatGPT\n\nGemini עכשיו יכולה לזכור את ההעדפות שלכם ואפילו לייבא את היסטוריית השיחות שלכם מאפליקציות AI אחרות - כולל ChatGPT. גוגל בעצם אומרת לכם: אתם לא חייבים להתחיל מאפס, בואו תביאו את כל השיחות שלכם ממקום אחר ותחזקו אותן אתנו.",
     "d": "Wed, 29 Apr 2026 11:50:10 +0000",
     "v": 0,
     "l": [
@@ -233,7 +224,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Northrop, Hanwha to jointly develop solid rocket booster for long-range AReS missile\n\nNorthrop Grumman and South Korean defense company Hanwha Aerospace have signed a Memorandum of Agreement...",
+    "t": "נורתרופ והנווה משתפות פעולה בפיתוח מנוע רקטי מוצק למערכת הטילים AReS\n\nנורתרופ גרומן וחברת ההגנה הדרום קוריאנית Hanwha Aerospace חתמו על הסכם שיתוף פעולה לפיתוח מנוע רקטי מוצק מתקדם עבור מערכת הטילים AReS בטווח ארוך. השותפות בין שתי החברות משקפת עמקה בשיתוף הטכנולוגיה ההגנה בין ארה״ב לדרום קוריאה, וצפויה להעלות משמעותית את יכולות ההשמה של מערכות נשק קרקעיות. הפרויקט מייצג צעד משמעותי בהנדסה צבאית עם השלכות אסטרטגיות חשובות לאזור הדרום אסיה.\n\nמקור: Interesting Engineering",
     "d": "Wed, 29 Apr 2026 11:47:34 +0000",
     "v": 0,
     "l": [
@@ -256,7 +247,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "Palit Group says Galax GPU brand will continue to operate following restructure — Galax management centralized under Palit Group in 'pre-planned' shakeup\n\nGalax has moved under the direct control of Palit, owned by the Palit Group, but the brand itself isn't going anywhere. Official statements from both companies clarify that Galax will continue to design, produce, and release hardware like before, but will be managed by Palit now to streamline the business.",
+    "t": "Palit Group מאשרת שמותג Galax ימשיך להפעול לאחר ארגון מחדש — הנהלת Galax מתמרכזת תחת Palit Group בשינוי 'מתוכנן'\n\nGalax עברה לשליטה ישירה של Palit, החברה הבת של Palit Group, אבל המותג עצמו לא הולך לשום מקום. שתי החברות הבהירו שGalax תמשיך לעצב, לייצר ולהשיק GPU וחומרה אחרת כמו קודם, אך כעת תהיה מנוהלת על ידי Palit כדי לייעל את העסק ולהפחית כפילויות.",
     "d": "Wed, 29 Apr 2026 11:40:35 +0000",
     "v": 0,
     "l": [
@@ -282,7 +273,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Developer re-enables 3D printer features that Bambu Lab disabled, firm promptly threatens legal action — OrcaSlicer-BambuLab project now shuttered\n\nIndependent software developer Pawel Jarczak has voluntarily shuttered his popular “OrcaSlicer-BambuLab” project following legal threats from Bambu Lab, ending one man’s fight to restore direct control to the popular third-party slicer.",
+    "t": "מפתח השיב פיצ'רים שBambu Lab כיבתה, החברה איימה על תביעה משפטית — פרויקט OrcaSlicer-BambuLab סגור\n\nמפתח תוכנה עצמאי בשם Pawel Jarczak סגר את הפרויקט הפופולרי שלו OrcaSlicer-BambuLab לאחר איומי משפט מ-Bambu Lab. כל הסיפור התחיל כשהוא ניסה להחזיר למשתמשים שליטה ישירה על המדפסת 3D, אבל Bambu Lab לא הסכימה וחזקה את הקבע שלה בדרך שזה לא כל כך יפה.",
     "d": "Wed, 29 Apr 2026 11:40:00 +0000",
     "v": 0,
     "l": [
@@ -305,7 +296,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "Check your gravity with NASA's Artemis II zero-g indicator\n\nOn sale through the NASA exchange.",
+    "t": "בדקו את הכבידה שלכם עם מחוון zero-g של נאס\"א Artemis II\n\nנאס\"א הוציאה מוצר מצחיק לשוק דרך חנותה הרשמית - מחוון gravity משעשע שיגיד לכם בדיוק כמה כבידה אתם חוויים. זה כמו סלפי בחלל, אבל עם יותר פיזיקה וקצת הומור של סוכנות החלל האמריקנית. הדבר הזה מכיל תוכן שניתן לשנות ועל פי הדברים - הוא כבר זמין בחנות נאס\"א המקוונת.\n\nמקור: Ars Technica",
     "d": "Wed, 29 Apr 2026 11:30:59 +0000",
     "v": 0,
     "l": [
@@ -328,7 +319,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Nvidia exec says AI is more expensive than actual workers — yet some companies don't see the extra costs as a negative\n\nAs advanced LLMs do more and more for modern businesses, the outlays to cover all those tokens can cost more than worker salaries alone. But some companies don't see the added costs as a negative as they look toward a more automated future.",
+    "t": "ממנהל Nvidia: AI יכול להיות יקר יותר מעובדים — אבל חברות מסוימות לא רואות בזה בעיה\n\nבזמן שמודלי שפה מתקדמים עושים יותר ויותר עבור חברות, עלויות הטוקנים יכולות להגיע לסכומים גדולים יותר מגם משכר עובדים. למרות זאת, יש חברות שמתייחסות להוצאות הגבוהות האלו כהשקעה ראויה בדרך לעתיד אוטומטי יותר ויעיל יותר. מקור: Tom's Hardware",
     "d": "Wed, 29 Apr 2026 11:20:00 +0000",
     "v": 0,
     "l": [
@@ -354,7 +345,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "Get 32GB of Corsair DDR5 RAM for just $56 in this Newegg 9950X3D2 combo deal — $1,705 barebones kit for an AMD gaming PC also ships with a 2TB WD Black SSD and an Asus ROG Strix motherboard\n\nSave 20% on this Newegg combo kit with AMD's first dual-X3D chip in the AMD Ryzen 9 9950X3D2, along with an Asus ROG Strix motherboard, 32GB (2x16GB) of Corsair Vengeance DDR5-6400 RAM, and a 2TB WD Black SN7100 SSD, all for $1,704.99.",
+    "t": "32GB של Corsair DDR5 במחיר של 56 דולר בלבד - חבילת Newegg המיוחדת עם AMD 9950X3D2 ב-1,705 דולר כוללת גם SSD של 2TB ולוח Asus ROG\n\nNewegg עושה סדר כאן עם חבילת combo מהמם שמוזלת ב-20% - אתם מקבלים את ה-Ryzen 9 9950X3D2 החדש של AMD עם dual-X3D, לוח Asus ROG Strix, 32GB Corsair Vengeance DDR5, ו-SSD של 2TB, הכל ב-1,704.99 דולר. זה בעצם כמו לקנות את המעבד ולוח הם בחינם ועוד להשאיר גם את זיכרון ה-RAM וה-SSD כבונוס.",
     "d": "Wed, 29 Apr 2026 11:15:27 +0000",
     "v": 0,
     "l": [
@@ -377,7 +368,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "Is Meta's AI spending blitz working? The stock's next move depends on the answer\n\nThe market lately hasn't known quite how to digest Meta's ambitious plans.",
+    "t": "האם השקעות ה-AI הענקיות של מטא עובדות? התשובה תקבע את המהלך הבא של המניה\n\nהשוק עדיין לא ממש יודע איך להעכל את התוכניות החדשות של מטא. בשבועות האחרונים, השוק התקשה להבין אם ההשקעות האדירות של מטא ב-AI יהפכו לעצמאות כלכלית, וזה כמובן משפיע ישירות על מחיר המניה שלהם.",
     "d": "Wed, 29 Apr 2026 11:09:28 GMT",
     "v": 0,
     "l": [
@@ -390,12 +381,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -403,7 +391,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "MIT turns chaotic laser light into brain imaging tool with 25 times faster scans\n\nMIT researchers have converted chaotic, disordered laser light into a high-speed brain imaging tool capable...",
+    "t": "MIT הפוך אור לייזר כאוטי לכלי הדמיה מוחית עם סריקות מהירות 25 פעמים\n\nחוקרים מ-MIT עשו משהו די מטורף - הם לקחו אור לייזר כאוטי ובלתי סדור והפכו אותו לכלי הדמיה מוחית סופר מהיר. התוצאה? סריקות מוח שמהירות פי 25 מהשיטות הקיימות, מה שיכול לשנות את עולם האבחון הרפואי. זה בדיוק המין של פריצה דור שמחשבת מחדש מה שאנחנו חשבנו שאפשר לעשות עם טכנולוגיה קיימת.",
     "d": "Wed, 29 Apr 2026 11:07:08 +0000",
     "v": 0,
     "l": [
@@ -426,7 +414,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "Dell's exceptional 34-inch Alienware QD-OLED gaming monitor returns to Black Friday pricing — $649 all time low for awesome color accuracy and 240Hz refresh rate\n\nDell's 34-inch QD-OLED monitor has fallen back to its all-time-low Black Friday price of $649.",
+    "t": "מסך Alienware QD-OLED של דל בגודל 34 אינץ' חזר לתמחור Black Friday - $649 עם דיוק צבע מדהים ו-240Hz\n\nמסך ה-QD-OLED ענקי של דל ירד חזרה למחיר הנמוך בכל הזמנים שלו מ-Black Friday - $649 בלבד. זה מציאה חמה למי שמחפש מסך גיימינג אולטימטיבי עם צבעים מטורפים ו-refresh rate שמעניק חלקות משחקים כמו חמאה, בקנייה עכשיו אתם מחסכים הרבה כסף מהמחיר הרגיל.",
     "d": "Wed, 29 Apr 2026 11:04:17 +0000",
     "v": 0,
     "l": [
@@ -449,7 +437,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden\n\nSecurity firms find themselves especially exposed.",
+    "t": "למה התקפת supply-chain לאחרונה כיוונה במיוחד לחברות הביטחון Checkmarx וBitwarden\n\nהתגלה כי חברות ביטחון מוצאות עצמן במצב חשוף במיוחד להתקפות כאלו. בהתקפה שפרצה לאחרונה, התוקפים בחרו במטרה שלהם בחוכמה - הם כיוונו ישירות לכלים שאמורים להגן עלינו, מה שמעלה שאלות חוזרות על כמה בטוחה באמת הspply chain שלנו.",
     "d": "Wed, 29 Apr 2026 11:00:24 +0000",
     "v": 0,
     "l": [
@@ -464,8 +452,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg",
@@ -473,7 +460,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "More details emerge about how Intel now earns more revenue from each wafer by looking to the edges — analyst reports say reduced yield variability across each wafer leads to more sellable CPUs\n\nAccording to analyst reports, Intel is reducing wafer yield variability to get more useful CPU dies from wafer edges amid AI-driven demand.",
+    "t": "אינטל מרוויחה יותר מכל ויפר: הסוד הוא בקצוות — אנליסטים מדווחים על הקטנת שינויים בתשואה\n\nאינטל מצליחה להוציא יותר CPU שימושיים מכל ויפר על ידי הפחתת שינויים בתשואה, כולל בקצוות הויפר שבעבר היו בעיה. בעקבות הביקוש הגדול ל-AI, החברה מוצאת דרך חכמה להשתמש בכל אלקטרון, וזה מובילה להרבה יותר מעבדים למכור מכל יחידת ייצור.",
     "d": "Wed, 29 Apr 2026 11:00:00 +0000",
     "v": 0,
     "l": [
@@ -490,13 +477,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/yy58ngAfSpXbtQwNK2cC88-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 21,
-    "t": "PS5 Linux loader goes public, turning ‘Phat’ consoles into full Linux PCs — build script includes bootable Ubuntu 24.04 image, can output 4K games at 60 FPS\n\nOnly PS5 Phat consoles on older firmware 3.00, 3.10, 3.20, 3.21, 4.00, 4.02, 4.03, 4.50, or 4.51 are supported.",
+    "t": "PS5 Phat הופך ללינוקס מלא - עכשיו אפשר להריץ Ubuntu וגיימים ב-4K ו-60 FPS\n\nהטריק עובד רק על קונסולות PS5 Phat עם גרסאות firmware ישנות (עד 4.51), והחבר'ה כבר הכינו script שמתאים לך Ubuntu 24.04 ישר מהקופסה. בעיקרון, אם יש לך PS5 ישנה שלא עדכנת, אתה יכול בעצם להפוך אותה למחשב Linux שלם שמריץ גם גיימים בדיוק כמו הקונסולה המקורית.",
     "d": "Wed, 29 Apr 2026 10:57:18 +0000",
     "v": 0,
     "l": [
@@ -519,7 +506,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "Chinese GPU maker Lisuan Tech becomes only the fourth GPU maker ever to earn Microsoft WHQL certification — LX 7G100 GPU joins Nvidia, AMD, and Intel as it crosses the WHQL driver finish line, first Chinese firm to earn certification\n\nLisuan Tech has secured Windows Hardware Quality Labs (WHQL) certification for its 6nm graphics cards, making it only the fourth company to ever do so.",
+    "t": "יצרנית GPU סינית Lisuan Tech הופכת להיות הרביעית בעולם שמקבלת הסמכת Microsoft WHQL\n\nLisuan Tech הצליחה להשיג הסמכת WHQL של מיקרוסופט ל-GPU שלה בטכנולוגיית 6 ננומטר, וכך הפכה לחברה הסינית הראשונה שמגיעה להישג זה אחרי Nvidia, AMD ו-Intel. זה לא סתם קטגוריה קטנה - רק ארבע חברות בעולם כלל הצליחו להעבור את קו הסיום של התאמות ה-driver הקשוח הזה של מיקרוסופט.",
     "d": "Wed, 29 Apr 2026 10:40:00 +0000",
     "v": 0,
     "l": [
@@ -547,7 +534,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "China freezes new robotaxi licenses after Baidu chaos\n\nA Baidu Apollo Go robotaxi in Wuhan, China. | Image: Bloomberg via Getty Images\t\n\nChina has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creating chaos. \nThe restrictions will prevent companies from adding new driverless cars to their fleets, expanding into new cities, or starting new test projects. It",
+    "t": "סין קופאת רישיונות לטכסיות רובוטיות חדשות לאחר כאוס של Baidu\n\nסין הקפיאה את הרישוי של כלי רכב אוטונומיים חדשים, במהלך שנראה כתגובה לתקלה בדרך של Baidu שגרמה לעשרות רובוטקסים להיתקע בתנועה בווהאן בחודש שעבר. ההגבלות החדשות מונעות מחברות להוסיף טכסיות ללא נהג לצי שלהן, להרחיב לעיירות חדשות או להשקיע בפרויקטי בדיקה נוספים. זהו סימן נוסף לאופן שבו סין משתמשת בחו\"ק לבקרה על חברות טכנולוגיה גדולות, במיוחד בתחומים רגישים כמו transportation ו-AI.",
     "d": "2026-04-29T10:39:21.000Z",
     "v": 0,
     "l": [
@@ -562,16 +549,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 24,
-    "t": "Ransomware accidentally destroys all files larger than 128KB, preventing decryption — VECT code likely partly vibe coded with AI or used an old code base, security researchers suggest\n\nA ransomware's major flaw meant that files cannot be decrypted because of a programming mistake. It also has several minor issues, showing that its creator may not be as sophisticated as suggested. Still, researchers point out that these can be rectified in future versions of the malware.",
+    "t": "תוכנת כופר הרסה בטעות את כל הקבצים גדולים מ-128KB וחיסלה את היכולת להצפין אותם מחדש — חוקרי אבטחה משערים שהקוד כתוב בחלקו על ידי AI או בנוי על בסיס קוד ישן\n\nבחומרה בתוכנת הכופר VECT התגלתה버그קריטית שגורמת לקבצים גדולים להיהרס לחלוטין, מה שמונע מכל דבר להתקבל לתמורה - סתם באופן מקסום. מעבר לתקלה הגדולה הזו, יש בתוכנה עוד מספר באגים שמעידים על כך שמי שכתב אותה לא בדיוק כזה שריון בעולם הסייבר, אבל חוקרים מזהירים שלא לרוגעים - גם הדברים האלה אפשר לתקן בגרסה הבאה.",
     "d": "Wed, 29 Apr 2026 10:20:00 +0000",
     "v": 0,
     "l": [
@@ -586,9 +572,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/FRKea6agfJsYdo9T4XMVBT-1280-80.jpg",
@@ -596,7 +580,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "GitHub rushed to fix a critical vulnerability in less than six hours\n\nGitHub employees fixed a critical remote code execution vulnerability in less than six hours last month. Wiz Research used AI models to uncover a vulnerability in GitHub's internal git infrastructure that could have allowed attackers to access millions of public and private code repositories.\n\"Our security team immediately began validating the bug bounty report. Within 40 minutes, we had reproduced the vulnerability internally and confirmed the severity,\" explains Alexis Wales, GitHub chief info",
+    "t": "GitHub תיקן חולשה קריטית בפחות משש שעות\n\nצוות הביטחון של GitHub נע כמו רקטה - תיקן vulnerability קריטי שהיה יכול להוביל ל-RCE (remote code execution) בפחות משש שעות! Wiz Research גילה באמצעות AI models חולשה ברכיבי ה-git הפנימיים של GitHub שהייתה יכולה לתת לתוקפים גישה למיליונים של repositories ציבוריים וخاصים. GitHub התגיעה כבר תוך 40 דקות לשחזור הבאג בתוך המערכת שלהם ואישרו את ההשלכות הקשות - וזו דוגמה מושלמת כיצד תגובה מהירה לחולשות בטחון יכולה לחסוך הרבה צרות.",
     "d": "2026-04-29T10:04:25.000Z",
     "v": 0,
     "l": [
@@ -614,13 +598,13 @@ window.TELEGRAM_DATA = [
       "news",
       "security"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 26,
-    "t": "Zuckerberg's Meta will beam sunlight from space to power AI data centers, solar-collecting satellites will orbit 22,000 miles above Earth — firm reserves 1 Gigawatt of orbital solar energy and 100 Gigawatt-hours of long-duration storage\n\nMeta has announced plans to help power its AI data centers using sunlight beamed from space through a partnership with Overview Energy, alongside a 100 GWh long-duration storage deal with Noon Energy, as the AI industry’s energy demands continue to surge.",
+    "t": "זוקרברג משגע: Meta תקבל חשמל מלוויינים שיישרפו שמש מהחלל כדי להנעות את מרכזי ה-AI שלה\n\nMeta הכריזה על תוכנית פעילונית שבה תחברה לאנרגיה סולרית המופקת ישירות מהחלל דרך לוויינים במסלול גיאוסטציונרי - 22,000 קילומטרים מעל כדור הארץ. המטה בטוחה ל-1 ג'יגווט אנרגיה שמש מסלולית ו-100 ג'יגווט-שעות של אחסון ארוך טווח, בשיתוף פעולה עם חברות Overview Energy ו-Noon Energy, כל זאת כי תיאבון ה-AI למיליארדי קילוואטים לא עוצר. (Tom's Hardware)",
     "d": "Wed, 29 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -640,13 +624,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/j6DTtb2ERfLrsdK6Nt2HPB-1280-80.png",
     "source": "Tom's Hardware"
   },
   {
     "id": 27,
-    "t": "Colby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp\n\nWe visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
+    "t": "Scout AI של Colby Adcock גייסה 100 מיליון דולר לאימון מודלים לשימוש צבאי. ביקרנו בבוט קמפ שלה\n\nScout AI עובדת על AI agents מדהימים שיעזרו לחיילים בודדים להפעיל צי שלם של כלים אוטונומיים - וזה יכול להיות שינוי משחק בתחום הצבאי. ביקרנו בשטח ההכשרה שלהם ורואים מקרוב איך הטכנולוגיה הזו עובדת בפועל.",
     "d": "Wed, 29 Apr 2026 09:45:00 +0000",
     "v": 0,
     "l": [
@@ -662,17 +646,15 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "robotics",
-      "funding",
       "agents"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 28,
-    "t": "Dual-iris laser projector brings theater-level blacks to home cinema\n\nNo matter how many lumens a home projector throws at the wall, dark scenes still go gray. But XGIMI thinks a pair of mechanical irises can change that, and a fresh Kickstarter campaign suggests that thousands of home cinema enthusiasts are willing to bet on it.\nContinue Reading\nCategory: Home Entertainment, Consumer Tech, Technology\nTags: XGIMI, Kickstarter, xxKickbooster, Projectors, Laser, home theater, 4K UHD",
+    "t": "מקרן לייזר עם שתי קשתות קיריס מביא שחורים בעומק קולנוע לסלון הבית\n\nXGIMI חשפה פתרון חדש וחכם לבעיה שמטרידה מאבדי בתים בכל העולם - סצנות אפלות שנראות אפורות במקום שחורות כמו בקולנוע. הרעיון? שתי קשתות מכניות (iris) שמעדינות את הקרן במדויק, וכמאות אלפים כבר מתעניינים בקיימפיין קיקסטרטר החדש שלהם. זה כנראה הדברים הכי מרגשים שקרה ל-home theater מאז שהיום האחרון שלנו בקולנוע.",
     "d": "Wed, 29 Apr 2026 09:37:55 GMT",
     "v": 0,
     "l": [
@@ -1245,7 +1227,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 52,
-    "t": "Cybersecurity in the Intelligence Age\n\nOpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+    "t": "סייבר סecurity בעידן הבינה המלאכותית\n\nOpenAI פרסמה תוכנית פעולה בן חמש נקודות להחזקת ההגנה הסייבר, כשההדגש הוא על הנגשת כלי AI להגנה בפני התקפות וחיזוק של מערכות קריטיות. בקיצור - OpenAI מעלה את הרף של אבטחה דיגיטלית וחושבת איך להפוך את ההגנה בעזרת AI לנגישה גם לארגונים קטנים יותר.",
     "d": "Wed, 29 Apr 2026 04:00:00 GMT",
     "v": 0,
     "l": [
@@ -1263,8 +1245,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -1396,7 +1377,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 58,
-    "t": "Pretraining a foundation model for small-molecule natural products",
+    "t": "הכשרה מקדימה של מודל יסוד לתרכובות טבעיות זעירות\n\nחוקרים פיתחו מודל AI חדש שתומך בגילוי של תרופות וחומרים כימיים על בסיס מולקולות טבעיות. המודל הזה, שהוכשר על מיליוני מולקולות, יכול לחזות תכונות של חומרים חדשים ולהאיץ משמעותית את תהליך הפיתוח של תרופות טבעיות. זו בשורה טובה למדע הביוטכנולוגיה בישראל, שכן כל קיצור בזמן המחקר יכול להציל חיים ולהוזיל עלויות פיתוח.",
     "d": "2026-04-29T00:00:00.000Z",
     "v": 0,
     "l": [
@@ -2823,7 +2804,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 117,
-    "t": "Electrocuting coffee can identify the best brew for your buck\n\nThe lab techniques for accurately testing the qualities of a batch of coffee are out of reach, for even the most maniacally obsessed coffee nerds in search of the perfect cuppa joe. But what if you could instead electrocute your brew to determine if it's indeed good stuff – right in the mug?\nContinue Reading\nCategory: Diet & Nutrition, Wellness and Healthy Living, Body and Mind\nTags: Coffee, University of Oregon",
+    "t": "חשמול הקפה יכול לחשוף את ההברו הטוב ביותר תמורת הכסף שלך\n\nנחקרים מאוניברסיטת אורגון גילו דרך פשוטה וחכמה לבדוק את איכות הקפה שלך - בעזרת זרם חשמלי ישירות בכוס! אל תצחקו, הטכניקה הזו אמורה לזהות את המרכיבים של הקפה הטוב בצורה שהיא הרבה יותר נגישה מלבים קפהנים עם ציוד מעבדה מיוחד. עכשיו כל קפהוודי יכול להיות מדען קטן ולגלות אם הקפה שלו באמת שווה את הכסף שהוציא עליו.",
     "d": "Tue, 28 Apr 2026 15:02:00 GMT",
     "v": 0,
     "l": [
@@ -3490,7 +3471,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 145,
-    "t": "A 2,200-year-old ship's life, charted from pollen and pitch\n\nAn ancient Roman ship was repaired multiple times, with multiple techniques, and in multiple places around the Adriatic Sea before it sank, a new study suggests. The findings highlight the expansive nature of trade and technical transfer in the Roman Republic.\nContinue Reading\nCategory: Archaeology, Science\nTags: Ships, ancient, University of Strasbourg, Underwater, Ocean, Shipwrecks",
+    "t": "ספינה רומית בת 2,200 שנה: חשיפת סיפור חייה דרך אבקת פרחים וזפת\n\nחוקרים גילו שספינה רומית עתיקה עברה תיקונים רבים בטכניקות שונות בנקודות שונות סביב ים אדריאטי, לפני שטבעה. הממצאים מעידים על טווח רחב של סחר והעברת ידע טכני בעת הרפובליקה הרומית - ונראה שהעתיקים הללו היו די טכנולוגיים בדרכם שלהם!",
     "d": "Tue, 28 Apr 2026 13:01:00 GMT",
     "v": 0,
     "l": [
@@ -3507,7 +3488,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "New Atlas"
   },
@@ -6834,7 +6815,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 285,
-    "t": "'Quite Tiny' experiment reveals how RNA jump-started complex life on Earth\n\nIt’s generally believed that the most complex systems of our world began from very simple things. Then, as a force of survival, evolution began to occur, and things gradually became more complex. This same perspective applies to science’s general understanding of the origin of life. The entire complexity of the molecular system, and life as we know it, all began from something very small, and has evolved into the concept of genetics and modern biology.\nContinue Reading\nCategory: Biology, Science",
+    "t": "ניסוי 'זעום' חושף כיצד RNA הצית את החיים המורכבים על כדור הארץ\n\nמחקר חדש מראה שהמערכות המורכבות ביותר בעולם החלו מדברים פשוטים מאוד - וגם מקורות החיים בעצם לא היו שונים. כל המורכבות של המערכות המולקולריות שלנו התחילה מגנים, RNA וחלקיקים זעירים שהתפתחו על פני מיליארדי שנים לתוך הביולוגיה המודרנית שאנחנו מכירים היום.",
     "d": "Mon, 27 Apr 2026 15:02:00 GMT",
     "v": 0,
     "l": [
@@ -7867,7 +7848,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 328,
-    "t": "Anxiety linked to an inability to digest sugar\n\nHumans are eating more fructose than ever and it’s becoming problematic — not just for our widening waistlines but for our brains, mounting research suggests.\nContinue Reading\nCategory: Biology, Science\nTags: fructose, Sugar, Gut health, Gut Bacteria, Anxiety",
+    "t": "חרדה קשורה לבעיות בעיכול סוכר\n\nמחקרים חדשים חושפים קשר מפתיע בין צריכת פרוקטוז גבוהה (סוכר פשוט) לבין בעיות חרדה והנפש שלנו. זה לא רק שביל שומן - אלא המיקרוביום של הקיבה שלנו משתתף במשחק הגדול הזה. נראה שהסדרה של בקטריות 'טובות' שלנו מושפעות מהעודפת של סוכרים, וזה יכול להשפיע ישירות על הבריאות המנטלית שלנו.",
     "d": "Mon, 27 Apr 2026 10:37:00 GMT",
     "v": 0,
     "l": [
@@ -8677,7 +8658,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 362,
-    "t": "COPD symptoms and lung health improved by easy diet addition\n\nAround 30 million Americans are living with chronic obstructive pulmonary disease (COPD) – close to double the number of those officially diagnosed – making it one of the deadliest health conditions worldwide. While frontline treatment is generally medication to support and boost lung function, it's a surprisingly complex disease without a one-size-fits-all management plan and a good deal of conflicting advice on interventions like exercise.\nContinue Reading\nCategory: Diet & Nutrition, Wellness ",
+    "t": "תוספת תזונה פשוטה משפרת תסמינים של COPD ובריאות הריאות\n\nכ-30 מיליון אמריקאים סובלים מ-COPD, מחלה כרונית של הריאות שהיא אחת מהמקטלות ביותר בעולם, אבל יש כאן חדשות טובות: מחקר חדש מגלה שתוספת דיאטטית פשוטה יכולה לשפר משמעותית את התסמינים וגם את בריאות הריאות בכלל. מעבר לתרופות המסורתיות שמעולם לא היו פתרון מושלם, זה עוד כלי חשוב בארגז הכלים שלנו בקרב COPD. המחקר מהווה קרן אור למיליונים שמחפשים דרכים טבעיות יותר לשפר את איכות החיים שלהם.",
     "d": "Mon, 27 Apr 2026 00:12:00 GMT",
     "v": 0,
     "l": [
@@ -12109,7 +12090,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 508,
-    "t": "Are chatbots eroding our thinking skills?\n\nLast year, researchers at the MIT Media Lab shared preliminary research investigating the cognitive costs of using a chatbot for writing essays. Though the study hadn’t gone through peer-review yet – where other scientists check the quality of the work and help spot errors – it still hit the headlines via major news outlets like TIME.\nContinue Reading\nCategory: Science\nTags: LLM (Large Language Model), chatbot, Brain, Cognitive functioning, GPT, Features",
+    "t": "האם chatbots משחקים עם כושר החשיבה שלנו?\n\nחוקרים מ-MIT Media Lab פרסמו מחקר שטוען שהשימוש בחבוצי AI לכתיבת תרגילים יכול להשפיע לרעה על התפתחות קוגניטיבית - ותוך שלא עבר בדיקת עמיתים כראוי, המחקר כבר זרק גלים בתקשורת הגדולה. השאלה החם בימים אלה: האם אנחנו הופכים ללצים מנטליים על ידי הסתמכות על LLM ו-GPT לעבודות כבדות?",
     "d": "Sat, 25 Apr 2026 09:03:00 GMT",
     "v": 0,
     "l": [
@@ -12126,7 +12107,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "New Atlas"
   },
@@ -14554,7 +14535,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 611,
-    "t": "Neanderthal babies grew twice as fast as today’s toddlers\n\nOur closest extinct relatives may have developed a very different growth trajectory from us. While modern humans follow a steady growth pattern, Neanderthals may have reached their physical and brain maturity much earlier in their lives, reports a newly published study.\nContinue Reading\nCategory: Archaeology, Science\nTags: Neanderthal, Human",
+    "t": "תינוקות נאנדרתלים גדלו פי שניים מהר יותר מילדינו היום\n\nמחקר חדש חושף שהקרובים המת שלנו התפתחו בקצב שונה לגמרי - בעודנו אנחנו גדלים בהדרגתיות, נאנדרתלים הגיעו להבשלות גופנית וחברותית הרבה יותר מהר. כלומר, בן הנאנדרתל בן 10 היה כבר בגיל מבוגר בהשוואה לילד של ימינו, וזה משנה לנו הרבה בהבנת כיצד החברות שלהם פעלו.",
     "d": "Fri, 24 Apr 2026 13:02:00 GMT",
     "v": 0,
     "l": [
@@ -14571,7 +14552,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "New Atlas"
   },
@@ -18689,7 +18670,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 785,
-    "t": "Juvenile Swedish salmon have a cocaine problem\n\nA recently published marine biology study shines a light on yet another damaging effect of the global illegal drug trade.\nContinue Reading\nCategory: Biology, Science\nTags: Marine Biology, Drugs, Cocaine, Sweden",
+    "t": "דגי סלמון צעירים בשוודיה סובלים מבעיית קוקאין\n\nמחקר ימי חדש חושף עוד פעם כמה רחוק מגיע הנזק של סחר הסמים הבלתי חוקי בעולם - הפעם אפילו עד לתא המים של הסלמון הצעיר בשוודיה. המולקולות של הסם הזה לא רק שעוברות דרך מערכות המים, אלא גם משפיעות על הדגים ומחבלות בהם באופן משמעותי.",
     "d": "Thu, 23 Apr 2026 14:34:00 GMT",
     "v": 0,
     "l": [
@@ -18706,7 +18687,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "New Atlas"
   },
@@ -18761,7 +18742,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 788,
-    "t": "These fish know exactly when you're staring at their offspring\n\nWhile collecting fish samples in the field in Africa recently, behavioral ecologist Shun Satoh made an intriguing discovery. When he gazed towards a group of emperor chichlids, the fish seemed to be more alert and aggressive. This personal intuition became the starting point for a study to determine whether the fish could detect when a diver was directing visual attention toward their offspring.\nContinue Reading\nCategory: Biology, Science\nTags: Marine Biology, Behavior, Fish",
+    "t": "דגים יודעים בדיוק מתי אתם מסתכלים על הצאצאים שלהם\n\nחוקר התנהגות גילה משהו מעניין באפריקה: דגי ציקלידים קיסריים מתוקפים וזועמים כשמישהו מביט ישר לעבר הגוזלים שלהם. כלומר, הדגים הקטנים האלה כנראה קולטים בדיוק מתי משהו מסתכל על הצאצאים שלהם - דבר שעד עכשיו חשבנו שרק בעלי חיים מתוחכמים יותר יכולים להבין.",
     "d": "Thu, 23 Apr 2026 14:04:00 GMT",
     "v": 0,
     "l": [
@@ -18778,7 +18759,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "New Atlas"
   },
@@ -21936,7 +21917,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 921,
-    "t": "Targeted: A bacterial culprit behind age-related memory decline\n\nThe community of bacteria living in the intestines could be one of the drivers of memory loss in old age, at least in mice. As rodents age, shifts in their gut microbes weaken the signaling pathway connecting the gut to the brain, a study published in the journal Nature finds.\nContinue Reading\nCategory: Biology, Science\nTags: Gut Bacteria, Gut health, Gut-brain axis, Stanford University, Memory, Cognitive functioning",
+    "t": "מעצר: חיידק במעיים שעומד מאחורי ירידת הזיכרון בגיל מבוגר\n\nמחקר חדש מסטנפורד שפורסם ב-Nature חושף שהחיידקים במעיים שלנו עשויים להיות אחד הגורמים הראשיים לעלייה בבעיות זיכרון עם הגיל. כשעכברים מזדקנים, שינויים בחיידקי המעיים משתתקים את נתיב התקשורת בין המעיים למוח, מה שמוביל לירידה קוגניטיבית. התגלית הזו פותחת דלת חדשה להבנת הקשר בין בריאות המעיים לבריאות המוח שלנו.",
     "d": "Wed, 22 Apr 2026 17:27:00 GMT",
     "v": 0,
     "l": [
@@ -21953,7 +21934,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "New Atlas"
   },
@@ -23657,7 +23638,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 993,
-    "t": "Ancient Egyptian horoscopes uncover life under Emperor Augustus\n\nBroken pottery pieces at a site in ancient Upper Egypt show 150 horoscopes for ordinary people in the region, revealing the location as a hub of astrological and astronomical activities thousands of years ago.\nContinue Reading\nCategory: Archaeology, Science\nTags: Egypt",
+    "t": "הורוסקופים מצריים עתיקים חושפים חיים תחת הקיסר אוגוסטוס\n\nחתיכות חרס שבורות שנחפרו באתר בעליון מצרים חשפו 150 הורוסקופים של אנשים פשוטים מהאזור, וזה מעיד שהמקום היה ממש hub של פעילויות אסטרולוגיות ואסטרונומיות לפני אלפיים שנה. המגילות הקדומות האלה נותנות לנו חלון חיוור על איך אנשים בתקופת הרומאים השתמשו בכוכבים כדי להבין את גורלם ולתכנן את חייהם.",
     "d": "Wed, 22 Apr 2026 12:02:00 GMT",
     "v": 0,
     "l": [
