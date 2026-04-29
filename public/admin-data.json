@@ -1,9 +1,9 @@
 {
-  "total": 6135,
+  "total": 6157,
   "translated": 6135,
-  "untranslated": 0,
-  "today": 148,
-  "week": 1026,
+  "untranslated": 22,
+  "today": 170,
+  "week": 1048,
   "sources": [
     {
       "name": "Product Hunt",
@@ -25,9 +25,9 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 394,
+      "total": 398,
       "translated": 394,
-      "lastDate": "Wed, 29 Apr 2026 18:05:00 +0000"
+      "lastDate": "Wed, 29 Apr 2026 20:49:03 +0000"
     },
     {
       "name": "OpenAI Blog",
@@ -43,33 +43,33 @@
     },
     {
       "name": "Ars Technica",
-      "total": 262,
+      "total": 268,
       "translated": 262,
-      "lastDate": "Wed, 29 Apr 2026 16:06:28 +0000"
+      "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 250,
+      "total": 254,
       "translated": 250,
-      "lastDate": "Wed, 29 Apr 2026 17:38:06 GMT"
+      "lastDate": "Wed, 29 Apr 2026 21:59:25 GMT"
     },
     {
       "name": "New Atlas",
-      "total": 245,
+      "total": 246,
       "translated": 245,
-      "lastDate": "Wed, 29 Apr 2026 18:00:00 GMT"
+      "lastDate": "Wed, 29 Apr 2026 20:01:42 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 192,
+      "total": 195,
       "translated": 192,
-      "lastDate": "Wed, 29 Apr 2026 16:42:33 +0000"
+      "lastDate": "Wed, 29 Apr 2026 20:59:00 +0000"
     },
     {
       "name": "The Decoder",
-      "total": 187,
+      "total": 188,
       "translated": 187,
-      "lastDate": "Wed, 29 Apr 2026 17:18:57 +0000"
+      "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "The Register",
@@ -79,21 +79,21 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 141,
+      "total": 142,
       "translated": 141,
-      "lastDate": "Wed, 29 Apr 2026 17:31:04 GMT"
+      "lastDate": "Wed, 29 Apr 2026 21:28:33 GMT"
     },
     {
       "name": "The Verge AI",
-      "total": 118,
+      "total": 119,
       "translated": 118,
-      "lastDate": "2026-04-29T18:03:05.000Z"
+      "lastDate": "2026-04-29T20:28:11.000Z"
     },
     {
       "name": "MarkTechPost",
-      "total": 112,
+      "total": 113,
       "translated": 112,
-      "lastDate": "Wed, 29 Apr 2026 17:28:17 +0000"
+      "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
       "name": "Hugging Face Blog",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-29T21:18:08.578Z"
+  "generatedAt": "2026-04-29T22:29:38.310Z"
 }
