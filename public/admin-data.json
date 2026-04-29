@@ -1,7 +1,7 @@
 {
   "total": 6135,
-  "translated": 6124,
-  "untranslated": 11,
+  "translated": 6135,
+  "untranslated": 0,
   "today": 148,
   "week": 1026,
   "sources": [
@@ -26,7 +26,7 @@
     {
       "name": "Interesting Engineering",
       "total": 394,
-      "translated": 392,
+      "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 18:05:00 +0000"
     },
     {
@@ -44,31 +44,31 @@
     {
       "name": "Ars Technica",
       "total": 262,
-      "translated": 261,
+      "translated": 262,
       "lastDate": "Wed, 29 Apr 2026 16:06:28 +0000"
     },
     {
       "name": "CNBC Tech",
       "total": 250,
-      "translated": 249,
+      "translated": 250,
       "lastDate": "Wed, 29 Apr 2026 17:38:06 GMT"
     },
     {
       "name": "New Atlas",
       "total": 245,
-      "translated": 244,
+      "translated": 245,
       "lastDate": "Wed, 29 Apr 2026 18:00:00 GMT"
     },
     {
       "name": "TechCrunch AI",
       "total": 192,
-      "translated": 190,
+      "translated": 192,
       "lastDate": "Wed, 29 Apr 2026 16:42:33 +0000"
     },
     {
       "name": "The Decoder",
       "total": 187,
-      "translated": 185,
+      "translated": 187,
       "lastDate": "Wed, 29 Apr 2026 17:18:57 +0000"
     },
     {
@@ -86,7 +86,7 @@
     {
       "name": "The Verge AI",
       "total": 118,
-      "translated": 117,
+      "translated": 118,
       "lastDate": "2026-04-29T18:03:05.000Z"
     },
     {
@@ -98,7 +98,7 @@
     {
       "name": "Hugging Face Blog",
       "total": 107,
-      "translated": 106,
+      "translated": 107,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-29T20:08:23.638Z"
+  "generatedAt": "2026-04-29T21:18:08.578Z"
 }

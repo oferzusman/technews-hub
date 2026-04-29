@@ -444,7 +444,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "NXP Semiconductors soars 26%, paces for its best day ever after earnings beat\n\nShares rose 26% Wednesday, the biggest surge since the Dutch chipmaker went public in 2010.",
+    "t": "NXP Semiconductors מטפסת ב-26% - יום ההיסטוריה של החברה מאז ההנפקה\n\nהמניה של יצרנית הצ'יפים ההולנדית התרחקה לעוד עולם אתמול בעלייה של 26%, שזה הקפיצה הגדולה ביותר שלה מאז הנפקת המניה ב-2010. כל זה קרה אחרי שהחברה הפתיעה את השוק בתוצאות הרבעון שלה, ויש הערכות שזה יכול להיות יום הסיום הטוב ביותר בהיסטוריה של NXP. עוד דבר שחשוב לדעת - זה מצביע על התאוששות משמעותית בשוק הסמיקונדקטורים, בתקופה שבה כל השחקנים הגדולים מחפשים כל אות חיוביות שהן יכולות למצוא.",
     "d": "Wed, 29 Apr 2026 16:38:56 GMT",
     "v": 0,
     "l": [
@@ -1231,7 +1231,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 51,
-    "t": "MagniAIR: New 175 kW air-cooled electric engine unveiled for general aviation flights\n\nWashington state-based MagniX has introduced the MagniAIR, its first electric aircraft engine developed specifically for...",
+    "t": "MagniAIR: מנוע חשמלי חדש בהספק 175 קילוואט למטוסים אזרחיים\n\nחברת MagniX מוואשינגטון חשפה את MagniAIR, המנוע החשמלי הראשון שלה שתוכנן ספציפית לטסיות אזרחיות קטנות. המנוע המעודכן, המצונן באוויר, מסוגל להחליף מנועי בנזין מסורתיים ולהפחית משמעותית את עלויות התפעול והזיהום. זו צעד משמעותי בכיוון האוויאציה החשמלית בעולם, עם פוטנציאל גדול לחיסכון כלכלי וסביבתי בטיסות קצרות.",
     "d": "Wed, 29 Apr 2026 13:23:08 +0000",
     "v": 0,
     "l": [
@@ -1254,7 +1254,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 52,
-    "t": "Rocket-shaped skyscraper soars to record-breaking height\n\nDesigned to resemble a rocket on a launchpad readying for takeoff, this extraordinary tower reportedly draws inspiration from a billionaire's trip to a NASA facility in the late 1960s. The building reaches a height of 250 m (820 ft), setting a new record for Morocco and making it one of the tallest skyscrapers on the African continent.\nContinue Reading\nCategory: Architecture, Engineering\nTags: Building and Construction, Skyscrapers, Office",
+    "t": "מגדל בצורת רקטה מגיע לגובה שלא הכיר עוד\n\nמבנה מדהים שמעוצב כמו רקטה מוכנה לשיגור זה עתה השלים בנייה במרוקו, והוא מגיע לגובה מרשים של 250 מטר - שיא חדש לארץ. ההשראה לעיצוב המיוחד הזה הגיעה ממסע של איש עסקים מיליארדר לנאס״א בשנות ה-60, וכעת המגדל עומד בין הגורדי השחקים הגבוהים ביותר בכל אפריקה.",
     "d": "Wed, 29 Apr 2026 13:14:22 GMT",
     "v": 0,
     "l": [
@@ -1267,21 +1267,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "New Atlas"
   },
   {
     "id": 53,
-    "t": "Firestorm Labs raises $82M to take drone factories into the field\n\nA defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
+    "t": "Firestorm Labs מגייסת 82 מיליון דולר כדי להביא מפעלי רחפנים לשדה הקרב\n\nסטארטאפ הגנה חדשה רק גייסה 82 מיליון דולר בשביל משהו שנראה כמו מתוך סרט מדע בדיון - מפעלי ייצור רחפנים שלמים שמתחזקים בתוך קונטיינרים ניידים שאפשר להביא ישירות לחזית הקרב. זה בעצם אומר שיחידות צבאיות יוכלו לייצר רחפנים בזמן אמת, כמו שהן מצריכות אותם, במקום להיות תלויות בשרשרת אספקה ממרוחק.",
     "d": "Wed, 29 Apr 2026 13:10:57 +0000",
     "v": 0,
     "l": [
@@ -1296,16 +1292,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 54,
-    "t": "US delivers 135-ton ‘beating heart’ magnet for world’s largest nuclear fusion reactor\n\nThe US ITER has completed the final deliveries for the central solenoid magnet at the...",
+    "t": "ארה\"ב מסרה מגנט ענק בן 135 טון - ה'לב הפועם' של כור הנתוך הגרעיני הגדול בעולם\n\nהצוות האמריקאי של ITER סיים את ההעברה של מגנט הסולנואיד המרכזי - החלק החיוני ביותר בפרויקט הנתוך הגרעיני הגדול בעולם שמתקיים בצרפת. המגנט הענק הזה, שמשקלו 135 טון, מעין 'לב פועם' של הכור, יהיה אחראי על הבקרה של הפלזמה במהלך התגובה. זהו יום היסטורי בדרך להשגת אנרגיה נתוך זולה וניקייה!",
     "d": "Wed, 29 Apr 2026 13:07:37 +0000",
     "v": 0,
     "l": [
@@ -1328,7 +1323,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 55,
-    "t": "OpenAI lands on AWS one day after Microsoft deal restructuring\n\nMicrosoft and OpenAI dissolve their exclusivity deal. One day later, AWS rolls out three new OpenAI offerings on its Bedrock platform, including a jointly built agent service.\nThe article OpenAI lands on AWS one day after Microsoft deal restructuring appeared first on The Decoder.",
+    "t": "OpenAI נחתה ב-AWS יום אחרי שינוי ההסכם עם מיקרוסופט\n\nאחרי שמיקרוסופט וOpenAI ביטלו את הסכם הבלעדיות ביניהם, AWS לא פיספסה זמן והשיקה שלוש הצעות חדשות של OpenAI בפלטפורמה של Bedrock שלה - כולל שירות agents שפותח בשיתוף פעולה. זה שיניה משמעותית בתחום ה-AI, כי עד עכשיו OpenAI הייתה קשורה בעיקר למיקרוסופט, והתנועה של AWS מראה שהשחקנים הגדולים בענף מתחרים על הנוכל של הטכנולוגיה הזאת.",
     "d": "Wed, 29 Apr 2026 13:06:01 +0000",
     "v": 0,
     "l": [
@@ -1343,7 +1338,6 @@ window.TELEGRAM_DATA = [
     ],
     "co": [
       "OpenAI",
-      "Microsoft",
       "Amazon"
     ],
     "tags": [
@@ -1358,7 +1352,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 56,
-    "t": "Meet Shapes, the app bringing humans and AI into the same group chats\n\nThink Discord chats, but with AI characters in addition to humans.",
+    "t": "הכירו את Shapes - האפליקציה שמביאה בני אדם ו-AI לאותה קבוצת צ'אט\n\nThink Discord chats, but with AI characters in addition to humans.",
     "d": "Wed, 29 Apr 2026 13:00:00 +0000",
     "v": 0,
     "l": [
@@ -1381,7 +1375,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 57,
-    "t": "Taylor Swift deepfakes are pushing scams on TikTok\n\nScammers are using AI-generated videos of celebrities including Taylor Swift and Rihanna to promote shady services on TikTok, according to authentication company Copyleaks. \nThe ads typically show celebrities in interview settings, such as red carpets, podcasts, or talk shows, and often manipulate real footage with AI, the company said. Many promote rewards programs claiming users can earn money by watching TikTok content and giving feedback. TikTok's official branding appears in some of the ads",
+    "t": "Deepfakes של טיילור סוויפט משמשים לתופסות בTikTok\n\nמתרמים משתמשים בסרטוני AI של סלבריטאיות כמו טיילור סוויפט ורייהנה כדי להלבין תוכניות מפוקפקות בTikTok. הפוסטים מראים את הכוכבות בהסכמות כאילו היו בראיונות על הכל קרמט וסדרות פודקאסט, וחלקם אפילו משתמשים בTikTok's לוגו רשמי. הרוב של הקליפים הללו מפתים משתמשים שיצפו בתוכן ויתנו פידבק כי יוכלו להרוויח כסף - פשוט בדיוק מה שאתה צריך להימנע ממנו. מקור: The Verge AI",
     "d": "2026-04-29T13:00:00.000Z",
     "v": 0,
     "l": [
@@ -1404,7 +1398,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 58,
-    "t": "Musk and Altman face off in court over OpenAI's for-profit pivot\n\nThe closely watched trial between Elon Musk and OpenAI CEO Sam Altman kicked off in federal court in Oakland. Both sides laid out wildly different versions of the AI lab's early days.\nThe article Musk and Altman face off in court over OpenAI's for-profit pivot appeared first on The Decoder.",
+    "t": "מאסק וקלטמן עומדים זה מול זה בבית המשפט על המעבר של OpenAI למודל רווחי\n\nהמשפט המתוקשר בין אילון מאסק לסם קלטמן, מנכ\"ל OpenAI, התחיל בבית משפט פדרלי באוקלנד, וכל צד הצביע על גרסה שונה לחלוטין לימי העלומים של מעבדת ה-AI. במרכז ההליך עומדת השאלה המעוררת סערה: האם OpenAI נטשה את המטרה הלא-רווחית המקורית שלה בעבור הכסף?",
     "d": "Wed, 29 Apr 2026 12:59:56 +0000",
     "v": 0,
     "l": [
@@ -1456,7 +1450,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 60,
-    "t": "A Falcon 9 rocket will hit the Moon this summer at seven times the speed of sound\n\nThe object will be traveling at 2.43 km a second, or 5,400 mph, upon impact.",
+    "t": "רקטת Falcon 9 תפגע בירח הקיץ הזה במהירות שביעית מזו של הקול\n\nחלק מרקטה של SpaceX מתוכננת להתנגש בירח בקיץ הקרוב במהירות מטורפת של 2.43 קילומטר בשנייה - זה כמו להשליך כדור בצורה שהוא יתפוצץ בירח! התנגשות זו היא לא בעצם אירוע אפילו כי זה כבר קרה מספר פעמים עם פסולת חלל מ-SpaceX, אבל הפעם זה יהיה תיעוד ישיר של התנגשות רקטה בשמיים.",
     "d": "Wed, 29 Apr 2026 12:39:52 +0000",
     "v": 0,
     "l": [
@@ -2852,7 +2846,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 118,
-    "t": "DeepInfra on Hugging Face Inference Providers 🔥",
+    "t": "DeepInfra הצטרפה לספקיות ההסקה של Hugging Face 🔥\n\nDeepInfra הלך ברשת כשנכנס לפלטפורמה של Hugging Face כספק inference רשמי. זה אומר שפתחו לכם כמו עד עכשיו היה רק לחברות גדולות - גישה ישירה לאינספור מודלים AI בקליק אחד דרך API שלהם. בקיצור, עוד דרך קלה להרים מודלים ללא צרות בשביל כל מי שרוצה לעבוד עם בינה מלאכותית.",
     "d": "Wed, 29 Apr 2026 00:00:00 GMT",
     "v": 0,
     "l": [
