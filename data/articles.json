@@ -122876,8 +122876,8 @@
       "source": "MarkTechPost",
       "title_en": "How to Build Traceable and Evaluated LLM Workflows Using Promptflow, Prompty, and OpenAI",
       "description_en": "In this tutorial, we build a complete, production-style LLM workflow using Promptflow within a Colab environment. We begin by setting up a reliable keyring backend to avoid OS dependency issues and securely configure our OpenAI connection. From there, we establish a clean workspace and define a structured Prompty file that acts as the core LLM […]\nThe post How to Build Traceable and Evaluated LLM Workflows Using Promptflow, Prompty, and OpenAI appeared first on MarkTechPost.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "איך לבנות LLM Workflows שיכולים להישמר ולהיבחן עם Promptflow, Prompty ו-OpenAI",
+      "description_he": "במדריך הזה מראים איך לבנות workflow של LLM שלם וייצור-רדי בעזרת Promptflow בסביבת Colab. התהליך כולל הגדרה של keyring backend בטוח, חיבור מאובטח ל-OpenAI, והגדרת קובץ Prompty שיציג את ה-LLM בצורה מובנית. המדריך מלמד גם איך לעקוב אחרי כל השלבים של הworkflow ולהעריך את איכותו בדרך ממשית.",
       "link": "https://www.marktechpost.com/2026/04/28/how-to-build-traceable-and-evaluated-llm-workflows-using-promptflow-prompty-and-openai/",
       "image_url": null,
       "pub_date": "Wed, 29 Apr 2026 02:47:22 +0000",
@@ -122891,7 +122891,7 @@
         "Technology",
         "Tutorials"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-29T04:51:42.356Z",
       "created_at": "2026-04-29T04:51:42.356Z"
@@ -122901,8 +122901,8 @@
       "source": "The Guardian AI",
       "title_en": "‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards",
       "description_en": "Delegates at event in Cape Verde highlight opportunities from tech while stressing AI is no replacement for talent\nLast July, the Nigerian singer-songwriter Fave found herself caught up in a viral moment: an unauthorised version of a track featuring an AI choir had been released, quickly becoming an internet sensation. To get ahead of the situation, she recorded her own remix that integrated the AI-assisted song and added it to her discography.\n“In my view, [that] was smart and very business awa",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "'זה לעולם לא יכול להחליף את האמיתי': תעשיית המוזיקה האפריקאית שוקלת את הסיכונים וההזדמנויות של AI",
+      "description_he": "בכנס בקייפ ורדה דנו יוצרים אפריקאים בהזדמנויות שמציע לעולם החדש של AI למוזיקה - אבל הם מבהירים שאין לטכנולוגיה כוח להחליף את התיבה הצליל האנושית והכישרון. השחקנית הניגרית Fave למשל התמודדה עם גרסה AI לא מורשית של הרצועה שלה שהפכה וירלית, אבל במקום להילחם בזה היא עשתה משהו חכם: שילבה את הטראק בעצמה וגרסה רמיקס משלה.",
       "link": "https://www.theguardian.com/world/2026/apr/29/africa-music-industry-ai-artificial-intelligence",
       "image_url": "https://i.guim.co.uk/img/media/a99e8872bb6baf3fe4a4b3ea862ed763a0ef60f4/457_0_6440_5152/master/6440.jpg?width=140&quality=85&auto=format&fit=max&s=bf1fe3bc8dccc0dcb6811b7b2a912db8",
       "pub_date": "Wed, 29 Apr 2026 04:00:45 GMT",
@@ -122951,7 +122951,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-04-29T04:51:42.901Z",
       "created_at": "2026-04-29T04:51:42.901Z"
@@ -122961,8 +122961,8 @@
       "source": "The Guardian AI",
       "title_en": "A whole new world: Disneyland adds facial recognition to some entrance lanes",
       "description_en": "Walt Disney Company says technology at California theme park will prevent fraud and streamline re-entry\nDisneyland, the beloved California adventure park, has outfitted some entrance lanes with facial recognition technology, a move its parent company says will prevent fraud and streamline re-entry.\nAt certain entrance lanes, a camera will capture images of visitors, which can be converted via biometric technology into unique numerical values, according to the Walt Disney Company’s website.\n Cont",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "עולם חדש לגמרי: דיסנילנד מוסיפה facial recognition בכניסות לפארק",
+      "description_he": "דיסני החליטה להתקין טכנולוגיית זיהוי פנים בחלק מנתיבי הכניסה בפארק קליפורניה שלהם, וטוענת שזה יעזור למנוע הונאות ויאיץ את תהליך הכניסה החוזרת של מבקרים. המערכת תופסת תמונות של מבקרים ומחזירה אותן לערכים מספריים ייחודיים דרך טכנולוגיית biometric, כך שתוכלו לדלג על תור וליהנות מהפארק יותר מהר.",
       "link": "https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition",
       "image_url": "https://i.guim.co.uk/img/media/7462bde6518a5d70751171c6c3dc99b92c5c0f87/688_443_3711_2971/master/3711.jpg?width=140&quality=85&auto=format&fit=max&s=6bfcbc373e0d14609ce19a40888f56b5",
       "pub_date": "Wed, 29 Apr 2026 01:44:42 GMT",
@@ -123005,7 +123005,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-29T04:51:42.901Z",
       "created_at": "2026-04-29T04:51:42.901Z"
@@ -123015,14 +123015,14 @@
       "source": "The Register",
       "title_en": "Future holiday horror: ‘A robot lost my luggage in Tokyo’",
       "description_en": "Haneda airport will start testing humanoid robots, because everything that gets a plane flying was designed for our species Your next holiday memory might involve humanoid robots losing your luggage.…",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "סיוט החופשים העתידי: 'רובוט הפסיד לי את המזוודה בטוקיו'",
+      "description_he": "נמל התעופה האנדה בטוקיו עומד להתחיל לבדוק רובוטים הומניידים, ובכן - זה בדיוק מה שחסר לנו בחופשה. הבחור שלך הבא עלול לכלול זיכרון מתוק על רובוט שרמס את המזוודה שלך, כי כמעט כל מה שקשור לנמלי תעופה תוכנן בצורה גרועה מלכתחילה.",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/japan_airport_robot_trial/",
       "image_url": null,
       "pub_date": "2026-04-29T02:15:26.000Z",
       "author": "Simon Sharwood",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-29T04:51:42.914Z",
       "created_at": "2026-04-29T04:51:42.914Z"
