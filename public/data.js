@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Researchers develop biocompatible quantum nanosensors for living cells\n\nResearchers from Japan have developed biocompatible molecular quantum nanosensors (MoQNs) that can measure temperature and...",
+    "t": "חוקרים פיתחו חיישני ננו קוונטיים תואמים לתאים חיים\n\nחוקרים יפניים הצליחו לפתח חיישני ננו מולקולריים קוונטיים (MoQNs) שיכולים למדוד טמפרטורה וגדלים נוספים ישירות בתוך תאים חיים מבלי להזיק להם. הטכנולוגיה החדשה הזו יכולה להיות משחק חדש בעולם הרפואה והביולוגיה, וככל הנראה תוביל לאבחון טוב יותר ומעקב אחר תהליכים ביולוגיים בזמן אמת. | מקור: Interesting Engineering",
     "d": "Wed, 29 Apr 2026 18:05:00 +0000",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "All the evidence unveiled so far in Musk v. Altman\n\nThe Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: Nvidia CEO Jensen Huang gave OpenAI an in-demand supercomputer, Musk largely drafted OpenAI's mission and heavily influenced its early structure, OpenAI CEO Sam Altman appeared to w",
+    "t": "כל הראיות שנחשפו עד כה בתיק מאסק נגד אלטמן\n\nהמשפט בין מאסק לאלטמן כבר בעיצומו, ודברים מתחילים להתגלות - אימיילים, תמונות ומסמכים קורפוריטיביים מהימים הראשונים של OpenAI מופצים לכל עבר. הנושא הגדול: ג'נסן הואנג מנכ״ל Nvidia הוא זה שנתן ל-OpenAI סופר-קומפיוטר חזק וביקוש גבוה, מאסק כתב בעצם את ה-mission של החברה והשפיע רבות על המבנה שלה, ואלטמן... ובכן, בואו נראה מה עוד יתגלה בבית המשפט.",
     "d": "2026-04-29T18:03:05.000Z",
     "v": 0,
     "l": [
@@ -52,7 +52,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "'Metajets' could allow future spaceships to be propelled by nothing but light\n\nIf an alien in the Alpha Centauri star system were craving pizza, it would take tens of thousands of years to deliver it using today’s rocket technology. According to a press release, researchers at Texas A&M University have developed a technology that could one day reduce delivery to a mere 20 years using nothing but light for propulsion.\nContinue Reading\nCategory: Space Systems, Engineering\nTags: Texas A&M Universty, Solar Sail",
+    "t": "'מטג'טים' יכולים לאפשר לחלליות עתידיות להיסחף בעזרת אור בלבד\n\nחוקרים מטקסס A&M פיתחו טכנולוגיה מהפנטסטית שיכולה להנע חלליות רק בעזרת אור - דמיינו שליחת פיצה לאלפא קנטאורי תוך 20 שנה בלבד במקום עשרות אלפי שנים! התיאוריה מבוססת על Solar Sail שמנצל את הלחץ של פוטונים כדי להניע כלים בחלל, וזה יכול להיות משחק כולל בעולם של ייצור וחקר חלל.",
     "d": "Wed, 29 Apr 2026 18:00:00 GMT",
     "v": 0,
     "l": [
@@ -65,12 +65,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -78,7 +75,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "320 million-year-old history of any home could be tracked with new online tool\n\nResearchers at Utrecht University in the Netherlands have launched Paleolatitude.org, an online tool that allows...",
+    "t": "כלי אונליין חדש יכול לעקוב אחר ההיסטוריה הגיאולוגית של הבית שלכם ב-320 מיליון שנים\n\nחוקרים מאוניברסיטת אוטרכט בהולנד השקו את Paleolatitude.org, כלי מדהים שמאפשר לכם לגלות איך הקרקע תחת הבית שלכם נעה על פני כדור הארץ לאורך מיליוני שנים. פשוט תזינו את הכתובת שלכם ותראו מסע מרתק דרך עשרות מיליוני שנים של טקטוניקה של הלוחות וישתנויות אקלימיות. זה כמו Waze, אבל לכדור הארץ - והתוצאות? פשוט בלתי מאומתות.",
     "d": "Wed, 29 Apr 2026 18:00:00 +0000",
     "v": 0,
     "l": [
@@ -101,7 +98,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Robinhood's revenue slump exposes crypto's core weakness\n\nCrypto still struggles to generate stable, nonspeculative revenue despite years of growth, innovation, and institutional acceptance.",
+    "t": "ירידת הרווחים של Robinhood חושפת את החולשה הבסיסית של הקריפטו\n\nלמרות השנים של גדילה וחדשנות, שוק הקריפטו עדיין לא הצליח לייצר הכנסות יציבות שלא תלויות בספקולציה, גם עם קבלה מוסדית הולכת וגדלה. Robinhood בדיוק חוותה ירידה בהכנסות שחושפת את הבעיה הגדולה של התעשייה: כשהשוק לא במהומה, אין מישהו שעושה כסף.",
     "d": "Wed, 29 Apr 2026 17:38:06 GMT",
     "v": 0,
     "l": [
@@ -124,7 +121,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "We toured an AI data center to see how our stock names make these facilities work\n\nCoreSite CEO Juan Font thinks of his company's facilities like shopping malls.",
+    "t": "ביקרנו במרכז נתונים של AI ובדקנו איך שמות המניות שלנו מפעילים את הקציני האלה\n\nלמה CoreSite זה בעצם ה-\"מול\" של עולם ה-AI? בסיור במתקן הענק של החברה, ראינו בעצמנו איך כל ה-infrastructure הכבדה של המודלים הגדולים תלויה בשירותי hosting וקירור שחברות כמו CoreSite מספקות. מעניין לראות שה-CEO משווה את דרך ההפעלה שלהם בדיוק לקניון - יש ובעלים, וה-tech giants הם הדיירים.",
     "d": "Wed, 29 Apr 2026 17:35:21 GMT",
     "v": 0,
     "l": [
@@ -147,7 +144,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Ubuntu’s AI plans have Linux users looking for a &#8216;kill switch&#8217;\n\nCanonical's plan to add AI features to Ubuntu has some users asking for \"a version of Ubuntu that does not include these features,\" while others say they'll stick with older versions of the Linux distro or even switch to a different one. After Canonical's announcement earlier this week that it's bringing AI features to Ubuntu, replies included requests for an AI \"kill switch\" or a way to disable the upcoming features, and comparisons to Microsoft's addition of AI features into Windows 11. Canoni",
+    "t": "תכניות ה-AI של Ubuntu גורמות למשתמשי Linux לחפש 'כפתור הדק'\n\nקנוניקל הכריזה על הוספת תכונות AI ל-Ubuntu, אבל חלק גדול מהקהילה כבר צועקת שהם רוצים גרסה שלא תכלול את החדשות האלה. המשווים אומרים שזה בדיוק כמו מה שמיקרוסופט עשתה עם Windows 11, ויש שלא מעוניינים להשתנות - הם פשוט ישארו בגרסאות ישנות יותר או יעברו ל-distribution אחר. בקיצור, קנוניקל יכולה להיתקל בבעיה מסוימת עם משתמשיה הנאמנים.",
     "d": "2026-04-29T17:32:02.000Z",
     "v": 0,
     "l": [
@@ -160,12 +157,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -173,7 +167,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "Sam Altman tries to fend off Elon Musk’s attacks on OpenAI in court battle\n\nAltman faces off against Musk, his OpenAI co-founder, in second day of high-stakes lawsuit \nAfter a dramatic first day of opening statements and testimony from Elon Musk in his case against Sam Altman and OpenAI, the trial continues on Wednesday with a cross examination of the Tesla CEO. OpenAI’s defense attorneys will get a chance to press the world’s richest man on his allegations, which yesterday included suggesting Altman “stole a charity” and would endanger humanity with AI.\nMusk is accusin",
+    "t": "סם אלטמן מתגונן מפני התקפות אלון מאסק בתיק המשפט\n\nהקונפליקט בין מאסק לאלטמן עלה לשלב חדש: אחרי יום ראשון דרמטי של עדויות וטענות, מאסק מתמודד היום בחקירה צולבת של עורכי הדין של OpenAI. מאסק טוען שאלטמן \"גנב ארגון 慈善\" וסיכן את האנושות בעזרת AI, אבל עכשיו תור ההגנה להעמיס עליו כל דבר.",
     "d": "Wed, 29 Apr 2026 17:31:04 GMT",
     "v": 0,
     "l": [
@@ -187,14 +181,11 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Amazon"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "model",
-      "product",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/34e27c38b979ca6c4511b79c5e052fabb96eaa14/54_37_1476_1182/master/1476.jpg?width=140&quality=85&auto=format&fit=max&s=f8c87e1744f7014a1826ddd64a55aedf",
@@ -202,7 +193,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Qwen Team Releases FlashQLA: a High-Performance Linear Attention Kernel Library That Achieves Up to 3× Speedup on NVIDIA Hopper GPUs\n\nThe QwenLM team has released FlashQLA, a new kernel library that dramatically accelerates the forward and backward passes of Gated Delta Network (GDN) Chunked Prefill, targeting both large-scale pretraining and edge-side agentic inference scenarios.\nThe post Qwen Team Releases FlashQLA: a High-Performance Linear Attention Kernel Library That Achieves Up to 3× Speedup on NVIDIA Hopper GPUs appeared first on MarkTechPost.",
+    "t": "קבוצת Qwen משחררת FlashQLA: ספריית Kernel בעלת ביצועים גבוהים המשיגה עד 3 פעמים ביצועים מהירים ב-GPU Hopper של NVIDIA\n\nצוות QwenLM הציג את FlashQLA, ספריית kernel חדשה שמאיצה משמעותית את ה-forward והbackward passes של Gated Delta Network (GDN) Chunked Prefill, מה שמעניק עד 3x speedup על GPU Hopper. הפתרון מיועד גם לתרחישי pretraining בקנה מידה גדול וגם לביצוע inference אג'נטיים קצה, כלומר זה משחק-חוליץ עבור מודלים גדולים שצריכים להיות מהירים וחכמים. MarkTechPost",
     "d": "Wed, 29 Apr 2026 17:28:17 +0000",
     "v": 0,
     "l": [
@@ -220,16 +211,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "hardware",
-      "agents"
+      "hardware"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-29-at-10.27.48-AM-1.png",
     "source": "MarkTechPost"
   },
   {
     "id": 10,
-    "t": "Google Gemini now generates full documents, spreadsheets, and presentations directly inside the chat\n\nGoogle Gemini now creates documents directly in the chat, from PDFs and Word files to Excel spreadsheets.\nThe article Google Gemini now generates full documents, spreadsheets, and presentations directly inside the chat appeared first on The Decoder.",
+    "t": "Gemini של גוגל יכול כעת ליצור מסמכים, גיליונות חישוב והצגות ישירות בתוך הצ'אט\n\nגוגל Gemini הפכה לרעיון קטן יותר ויותר שימושי - עכשיו אתה יכול ליצור מסמכים שלמים, Excel גיליונות ו-Presentations ישירות בתוך החווה, בלי צורך בקפיצות בין אפליקציות שונות. זה אומר שאתה יכול להקליד בחזרה-והלוך עם AI, והוא יוצר לך תוכן מעוצב וזמין מייד להורדה או שיתוף. פשוט משנה משחק למי שעובד הרבה עם מסמכים ונתונים.",
     "d": "Wed, 29 Apr 2026 17:18:57 +0000",
     "v": 0,
     "l": [
@@ -255,7 +245,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "China’s 10 MW truck-mounted nuclear ‘power bank’ claims energy for decades without recharge\n\nA research team from China is testing a prototype nuclear reactor that is designed to...",
+    "t": "כוח גרעיני על גלגלים: סין חושפת 'בנק כוח' גרעיני של 10 מגוואט שיכול לעבוד עשרות שנים ללא טעינה\n\nצוות מחקר סיני בוחן פרוטוטיפ של כור גרעיני המעוצב בתור משאית ניידת שיכולה לספק אנרגיה ענקית למתקנים תעשייתיים או קהילות שלמות. הרעיון הוא משונה אבל גם מעניין - במקום לתלות בטעינות חוזרות, המערכת יכולה להיות עצמאית לעשרות שנים רצופות. זה עוד דוגמה לכיוון בו סין הולכת בנושא אנרגיה גרעינית, והשאלה הגדולה היא האם טכנולוגיה כזו תתברר כבטוחה וחסכונית בטווח הארוך. מקור: Interesting Engineering",
     "d": "Wed, 29 Apr 2026 17:03:36 +0000",
     "v": 0,
     "l": [
@@ -270,8 +260,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -279,7 +268,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Yet another experiment proves it's too damn simple to poison large language models\n\nThere is no 6 Nimmt! champion, but a $12 domain registration and one Wikipedia edit convinced several bots there was Unlike search engines that let you judge competing sources, search-backed AI chatbots can turn shaky web material into confident answers. Case in point: A security engineer convinced several bots that he was the reigning world champion of a popular German card game, even though no such championship exists.…",
+    "t": "עוד ניסוי מוכיח שקל מדי להרעיל מודלים שפה גדולים\n\nמהנדס אבטחה הצליח להטעות כמה בוטים AI בטענה שהוא אלוף עולם בקרטת קלפים גרמנית שלא קיימת בכלל - כל שנדרש לזה היה רישום דומיין בעלות 12 דולר וערוך ויקיפדיה אחד. ההבדל בין חיפוש רגיל לחיפוש עם AI הוא שהבוטים לא בודקים מקורות מנוגדים, אלא הופכים מידע אמביגואי מהרשת למענה בטוח ודוגמטי - וזה בעיה מאוד ממשית.",
     "d": "2026-04-29T17:00:18.000Z",
     "v": 0,
     "l": [
@@ -294,8 +283,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -303,7 +291,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "This robot is set to be your miniature AI chess partner – or coach\n\nIf a fervent chess player seeking a challenging game partner doesn’t happen to live in a major city such as St. Louis, Missouri, home of the World Chess Hall of Fame, the next best thing might be SenseRobot Chess Mini. It's an AI-powered robotic chess coach/mentor and player, currently on Kickstarter.\nContinue Reading\nCategory: Games, Consumer Tech, Technology\nTags: Chess, Kickstarter, Artificial Intelligence",
+    "t": "הרובוט הזה הוא שותף ה-AI המינימליסטי שלך לשחמט – או המאמן שלך\n\nאם אתה שחמט קטיגוריה ולא גר בעיר גדולה עם מועדון שחמט מתקדם, יש לך כרגע חלופה מעניינת: SenseRobot Chess Mini, רובוט מופעל AI שיכול לשמש כמאמן או שותף משחק בשחמט. התקן החדש הזה נמצא כרגע בקמפיין Kickstarter וזה קצת כמו לקנות לך מאמן שחמט ממכונה שתמיד זמינה לחידוד הכישורים שלך.",
     "d": "Wed, 29 Apr 2026 17:00:00 GMT",
     "v": 0,
     "l": [
@@ -327,7 +315,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Meta's multi-billion-dollar Graviton deal highlights intensifying CPU shortages in AI infrastructure — the industry signals a shift to Agentic inference workloads, pushing demand\n\nMeta signed a multibillion-dollar, multi-year deal with Amazon Web Services last week to deploy tens of millions of Graviton5 CPU cores across AWS data centers.",
+    "t": "עסקה בתיל דולרים של מטא עם אמזון חושפת משבר ממשי בשרתים - התעשייה עוברת לעידן של AI סוכנים\n\nמטא חתמה על חוזה ענק בעלות מיליארדי דולרים עם אמזון לחמש שנים, וזה לא סתם עוד כיתור שרתים - המדובר בהצבת עשרות מיליונים של Graviton5 CPU cores במרכזי הנתונים של AWS. הדיל הגדול הזה מגיד על משהו חשוב: כל ענף ה-AI מודיעים לעצמם שהם צריכים להשקיע בגדול בתשתיות חדשות כי הביקוש לחישובים של AI סוכנים (Agentic inference) עובר לגיר הבא, וזה דורש כוח חישוב שאין בכמות שצריך היום.",
     "d": "Wed, 29 Apr 2026 16:54:24 +0000",
     "v": 0,
     "l": [
@@ -341,23 +329,20 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Meta",
       "Amazon"
     ],
     "tags": [
       "news",
-      "model",
       "product",
-      "funding",
       "agents"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/pXWThjbzRLSWRxFBbdL4FE-1280-80.png",
     "source": "Tom's Hardware"
   },
   {
     "id": 15,
-    "t": "AI evals are becoming the new compute bottleneck",
+    "t": "AI evals הופכים לצוואר בקבוק חדש בחישובים\n\nהתחום של בדיקות AI הפך לאחד האתגרים הגדולים ביותר בפיתוח מודלים חדשים - בעצם, זה כמעט נהיה בעיה גדולה יותר מאשר לחשב את המודל עצמו. אם בעבר המגבלה הייתה power וGPU, עכשיו העניין הוא להעריך בצורה נכונה אם המודל שלך בעצם עובד טוב, וזה דורש משאבים כביר. Hugging Face מסבירה שהמהפכה באAI תלויה בכמה שאנחנו משתפרים בדרך שאנחנו בודקים וממטרים את הדברים הללו.",
     "d": "Wed, 29 Apr 2026 16:45:09 GMT",
     "v": 0,
     "l": [
@@ -370,9 +355,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Nvidia"
+    ],
     "tags": [
-      "news"
+      "news",
+      "hardware"
     ],
     "imp": "low",
     "thumb": null,
@@ -380,7 +368,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality\n\nGoogle recreates Cher's closet from \"Clueless\" with AI.",
+    "t": "Google Photos משתמשת ב-AI כדי להפוך את הארון האיקוני מ-'Clueless' למציאות\n\nגוגל השתמשה בטכנולוגיית AI כדי לשחזר את הארון המפורסם של כר מהסרט הקלאסי 'Clueless' - וזה בדיוק כמו שזכרנו אותו. התכונה החדשה של Google Photos מאפשרת למשתמשים ליצור וירטואלי את הקולקציה המדהימה של ביגוד ואביזרים של הדמות האייקונית, וזה פשוט אחד מהדברים המגניבים שאתה יכול לעשות עם AI בימים אלה. מקור: TechCrunch AI",
     "d": "Wed, 29 Apr 2026 16:42:33 +0000",
     "v": 0,
     "l": [
@@ -406,7 +394,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "Uber makes big bets on travel, hotels and AI voice bookings at annual product showcase\n\nUber is launching new segments as it attempts to position itself as an all-in-one consumer platform.",
+    "t": "אובר משקיעה בגדול בנסיעות, מלונות והזמנות קוליות עם AI\n\nאובר משיקה קטגוריות חדשות בניסיון להפוך את עצמה לפלטפורמה כל-בכול לצרכנים. החברה מרחיבה את עצמה מעבר לנסיעות שיתופיות ומזון, וחוקרת שטחים חדשים בעולם הטיולים וההלינות, כולל טכנולוגיית booking קולית מבוססת AI שמאפשרת למשתמשים להזמין בקול. זה חלק מהמהלך של אובר לתפוס חלק גדול יותר מכיסם של צרכנים.",
     "d": "Wed, 29 Apr 2026 16:42:20 GMT",
     "v": 0,
     "l": [
@@ -429,7 +417,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "More Gemini features are coming to Google TV\n\nGoogle TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
+    "t": "עוד פיצ'רים של Gemini בדרך ל-Google TV\n\nGoogle TV מקבלת עיבודים חדשים של Gemini שמאפשרים לכם להפוך תמונות וסרטונים בעזרת כלים חדשים כמו Nano Banana ו-Veo. זה אומר שתוכלו לערוך ולשנות את התוכן שלכם ישירות מה-TV בלי צורך להשתמש באפליקציות נוספות. גוגל ממשיכה לחדש את חווית הצפייה שלנו עם AI tools שיהפכו את ה-streaming שלכם לחכם יותר.\nמקור: TechCrunch AI",
     "d": "Wed, 29 Apr 2026 16:40:49 +0000",
     "v": 0,
     "l": [
@@ -479,7 +467,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "OpenAI’s subtle drift from Microsoft has become an aggressive move toward Amazon\n\nWhile OpenAI and Microsoft remain partners, the AI company has been rapidly pushing into Amazon's world.",
+    "t": "הסחה משקטה של OpenAI מ-Microsoft הפכה להתקפה אגרסיבית כלפי Amazon\n\nאוקיי, אז OpenAI ו-Microsoft עדיין שותפים רשמיים, אבל בחזקה OpenAI משתוללת בשטחים של Amazon. החברה האמריקאית הזאת לא מרפה - היא כל הזמן מחדירה את עצמה לאקוסיסטם של אמזון, וזה כבר הופך למהלך די אגרסיבי מצדה.",
     "d": "Wed, 29 Apr 2026 16:38:55 GMT",
     "v": 0,
     "l": [
@@ -502,13 +490,13 @@ window.TELEGRAM_DATA = [
       "model",
       "product"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 21,
-    "t": "Step by Step Guide to Build a Complete PII Detection and Redaction Pipeline with OpenAI Privacy Filter\n\nIn this tutorial, we build a complete, production-style pipeline for detecting and redacting personally identifiable information using the OpenAI Privacy Filter. We begin by setting up the environment and loading a token classification model that identifies multiple categories of sensitive data, including names, emails, phone numbers, addresses, and secrets. We then design helper functions to […]\nThe post Step by Step Guide to Build a Complete PII Detection and Redaction Pipeline with OpenAI Pri",
+    "t": "מדריך שלם: בניית pipeline לגילוי והסתרת מידע אישי עם OpenAI Privacy Filter\n\nאם אתם עובדים עם נתונים רגישים, הנה סיבוב מעשי לבניית מערכת ייצור שלמה שגילויה ומסירה מידע אישי - שמות, אימיילים, מספרי טלפון, כתובות וסודות. המדריך מלמד איך לטעון מודל classification, להשתמש ב-Privacy Filter של OpenAI ולכתוב helper functions שיעשו את כל העבודה בשבילכם. זה בדיוק מה שצריך לפני שמוציאים דברים לפרודקשן.",
     "d": "Wed, 29 Apr 2026 16:38:30 +0000",
     "v": 0,
     "l": [
@@ -534,7 +522,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "Get 32GB of Corsair Vengeance DDR5 RAM for just $249 — act fast and don't miss Woot's blowout sale\n\nSave 25% on this Corsair Vengeance 32GB DDR5-6000 RAM, on sale at Woot for a limited time only.",
+    "t": "32GB של Corsair Vengeance DDR5 ב-249 דולר בלבד — מחיר שריפה ב-Woot שלא תרצו להחמיץ\n\nאם אתם מחשבים על שדרוג הזיכרון של המחשב, הנה הזמן - Corsair Vengeance DDR5-6000 32GB זול ב-25% ב-Woot למשך זמן מוגבל בלבד. מה שהיה חלומות פשוט הפך להצעה שלא ניתן לדחות עבור כל מי שמחפש RAM מהיר וכבד.",
     "d": "Wed, 29 Apr 2026 16:12:15 +0000",
     "v": 0,
     "l": [
@@ -557,7 +545,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "Nvidia fixes the 8GB RAM problem with one of its GPUs—if you can pay for it\n\nFramework charges nearly double for the 12GB version of the mobile RTX 5070.",
+    "t": "Nvidia פותרת את בעיית ה-8GB RAM בעזרת אחד מה-GPU שלה - אם יש לכם כסף\n\nFramework מחייבת כמעט את המחיר הכפול עבור הגרסה עם 12GB של ה-RTX 5070 הניידת. בקיצור, אם אתם רוצים GPU משובח שלא יפול על הברכיים בגלל זכרון מוגבל, כל מה שצריך זה לשלם על הגרסה עם יותר VRAM - וזה כמו שמדברים עליו במחיר של כמעט שתי כרטיסיות.",
     "d": "Wed, 29 Apr 2026 16:06:28 +0000",
     "v": 0,
     "l": [
@@ -583,7 +571,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 24,
-    "t": "OpenAI has effectively abandoned first-party Stargate data centers in favor of more flexible deals  — company now prefers to lease compute and says Stargate is an umbrella term\n\nOpenAI has reportedly modified its arrangement on several Stargate projects, leaving the direct ownership set up and instead preferring to lease compute from other partners who took on the direct risk of investing in the infrastructure.",
+    "t": "OpenAI ויתרה על מרכזי נתונים Stargate שלה ובחרה בעסקות גמישות יותר\n\nנראה שOpenAI שינתה את האסטרטגיה שלה ב-Stargate — במקום בעלות ישירה על מרכזי ה-compute, החברה מעדיפה כעת להשכיר GPU וموارד חישוביים מ-שחקנים אחרים שלקחו על עצמם את הסיכון ההשקעה בתשתיות. זו בעצם הודאה שמה שנקרא Stargate הוא יותר מטריה למטרות שיווקיות מאשר פרויקט בעל משמעות אחידה.",
     "d": "Wed, 29 Apr 2026 16:00:31 +0000",
     "v": 0,
     "l": [
@@ -597,20 +585,21 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI"
+      "OpenAI",
+      "Nvidia"
     ],
     "tags": [
       "news",
       "model",
-      "regulation"
+      "hardware"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/cxdHyaNqiuHDMEZka4yNra-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 25,
-    "t": "Meta looks to report fastest revenue growth since 2021\n\nIn Meta's earnings report after the bell, investors will be monitoring the company's hefty AI spending and whether the war in Iran is having an impact.",
+    "t": "מטא צפויה לדווח על הגדילה בהכנסות הגבוהה ביותר מאז 2021\n\nבמסיבת הרווחים של מטא הערב, משקיעים יעקבו מקרוב אחרי ההשקעות הענקיות של החברה ב-AI ובשאלה האם התנגודות בעולם משפיעות על ביצועיה. מטא מנסה לשכנע את השוק שהשקעותיה הכבדות בבינה מלאכותית מתחילות להישא בפירות, וזה יהיה מבחן חשוב להוכיח שהכל שווה את זה.",
     "d": "Wed, 29 Apr 2026 16:00:01 GMT",
     "v": 0,
     "l": [
@@ -623,20 +612,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 26,
-    "t": "Microsoft's earnings report lands after stock's worst quarterly performance since 2008\n\nMicrosoft is coming off its worst quarterly stock performance since 2008, partly due to broader market concern that AI will eat software.",
+    "t": "דוח הרווחים של מיקרוסופט מגיע לאחר ביצוע המניה הגרוע ביותר מאז 2008\n\nמיקרוסופט חוזרת מהרבעון הגרוע ביותר שלה מאז המשבר הפיננסי של 2008, וחלק מהירידה זו נובעת מחשש בשוק הכללי שה-AI עומד לאכול את כל עולם ה-Software. ההשקעה הענקית של מיקרוסופט ב-AI ו-OpenAI עדיין לא הניבה בפועל את התוצאות הפיננסיות שהשוק ציפה להם, והזה בטח משהו שהם יצטרכו להסביר בדוח הרבעוני הזה.",
     "d": "Wed, 29 Apr 2026 16:00:01 GMT",
     "v": 0,
     "l": [
@@ -650,19 +636,19 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Microsoft"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "product"
+      "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 27,
-    "t": "Amazon set to report first-quarter earnings after the bell\n\nAmazon's earnings report will show investors what growth looks like in the cloud business, where revenue is expected to increase 26%",
+    "t": "אמזון עומדת לפרסם את תוצאות הרבעון הראשון אחרי סגירת המסחר\n\nבדוח הרבעוני של אמזון נראה איך AWS, עסקי ה-cloud של החברה, ממשיך להתרחב בחוזקה - צפויה עלייה של 26% בהכנסות מהחטיבה המשתלמת הזו שלהם.",
     "d": "Wed, 29 Apr 2026 16:00:01 GMT",
     "v": 0,
     "l": [
@@ -682,13 +668,13 @@ window.TELEGRAM_DATA = [
       "news",
       "product"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 28,
-    "t": "Alphabet first-quarter results likely to show continued growth, boosted by cloud\n\nWall Street expects Alphabet to report its strongest quarter for revenue growth since 2022.",
+    "t": "תוצאות הרבעון הראשון של אלפבט צפויות להראות צמיחה מתמשכת, במאומצות ענן\n\nוול סטריט מצפה שאלפבט תדווח על הרבעון החזק ביותר מבחינת צמיחת הכנסות מאז 2022. ענן גוגל (Google Cloud) הוא המנוע הראשי שמניע את הצמיחה הזו, ונראה שהחברה סוף סוף מצליחה להפוך את היחידה הזו לעסק משמעותי - משהו שהשקעים חיכו לו שנים. עם ההתפתחויות ב-AI וביקוש גובר לשירותי ענן, אלפבט נראית בעמדה חזקה מבחינת קווים תחתונים.",
     "d": "Wed, 29 Apr 2026 16:00:01 GMT",
     "v": 0,
     "l": [
@@ -701,17 +687,20 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
-    "tags": [
-      "news"
+    "co": [
+      "Google"
     ],
-    "imp": "medium",
+    "tags": [
+      "news",
+      "model"
+    ],
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 29,
-    "t": "Google Photos launches an AI try-on feature for clothes you already have\n\nGoogle Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to mix and match outfits, save the looks you like, and share them with friends.\nA video shared by Google shows how Photos organizes your outfits and individual pieces of clothing into a virtual \"wardrobe.\" You can browse through the outfits you were captured wearing, as well as create new ones by choo",
+    "t": "Google Photos משיקה פיצ'ר AI חדש לניסיון ביגדים מהארון שלך\n\nגוגל Photos מביאה תכונה חכמה שמאפשרת לכם לנסות ביגדים בצורה וירטואלית מהתמונות שלכם. המערכת תבנה לכם 'ארון וירטואלי' שמסדר את כל הלוקים והביגדים שלכם, וממנו תוכלו להכין קומבינציות חדשות, לשמור על האאוטפיטים האהובים ולשתף אותם עם חברים. זה כמו פיטינג רום דיגיטלי שחי בתוך האלבום שלכם.",
     "d": "2026-04-29T16:00:00.000Z",
     "v": 0,
     "l": [
@@ -731,13 +720,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 30,
-    "t": "Professional school grads from diverse classes get higher salaries\n\nStudy authors say courts should reconsider rulings in light of this new evidence.",
+    "t": "בוגרי בתי ספר מקצועיים מרקע מגוון מקבלים משכורות גבוהות יותר\n\nמחקר חדש מראה שבוגרים מקהילות שונות שלמדו בבתי ספר מקצועיים מצליחים כלכלית יותר - ותוצאות אלה יכולות לשנות החלטות משפטיות שעסקו בנושא. מעניין כי הנתונים האלה מעלים שאלות חשובות על חשיבות הגיוון בחינוך המקצועי.",
     "d": "Wed, 29 Apr 2026 15:55:55 +0000",
     "v": 0,
     "l": [
@@ -754,13 +743,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1374727807-1152x648.jpg",
     "source": "Ars Technica"
   },
   {
     "id": 31,
-    "t": "Robovac disappears inside kitchen cabinetry when it’s done cleaning\n\nBosch and Ecovacs have unveiled a robot vacuum cleaner and mop that hides inside your kitchen cabinet, merging autonomous maintenance with high-end home design.\nContinue Reading\nCategory: Around The Home, Consumer Tech, Technology\nTags: Bosch, Vacuum cleaner, Automation, Ecovacs",
+    "t": "שואב אבק רובוטי שנעלם בתוך ארון המטבח כשהוא מסיים את עבודתו\n\nבוש ו-Ecovacs חשפו שואב אבק ומנקה רובוטי מהדור החדש שנעלם בתוך ארון המטבח כשהוא מסיים את הניקיון - חברים ביולי לתוך דיזיין יוקרתי שלא מעיד על עצמו. הגאדג'ט החכם הזה מציע לכם את המשך של הסחף לאוטומציה ביתית, רק שהפעם הוא לא משתולל בחדר הסלון שלכם ויוצר מהפכה בדיזיין הבית.",
     "d": "Wed, 29 Apr 2026 15:27:40 GMT",
     "v": 0,
     "l": [
@@ -775,8 +764,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -784,7 +772,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 32,
-    "t": "OpenAI researchers explain why math is the road to AGI\n\nAI models have jumped from grade-school arithmetic to olympiad-level and research mathematics in only two years. In the OpenAI Podcast, OpenAI researchers Sebastian Bubeck and Ernest Ryu explain why math has become the key test on the road to artificial general intelligence.\nThe article OpenAI researchers explain why math is the road to AGI appeared first on The Decoder.",
+    "t": "חוקרי OpenAI חושפים: מתמטיקה היא הדרך ל-AGI\n\nבפחות משתי שנים, מודלי AI עלו מחשבון כיתה ד' ישר לרמת אולימפיאדות ומתמטיקה מחקרית - כלום! בפודקאסט של OpenAI, החוקרים Sebastian Bubeck ו-Ernest Ryu מסבירים למה מתמטיקה הפכה לבדיקת המפתח בדרך לבינה כללית (AGI), ולמה היכולת לפתור בעיות מתמטיות מורכבות היא בעצם פנס תחת הקורה להבנת אם AI באמת 'חושב' כמו בני אדם.",
     "d": "Wed, 29 Apr 2026 15:24:12 +0000",
     "v": 0,
     "l": [
@@ -810,7 +798,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 33,
-    "t": "Granite 4.1 LLMs: How They’re Built",
+    "t": "Granite 4.1 LLM: כל הסודות של הבנייה\n\nIBM משיקה את Granite 4.1, מודלים שפה חדשים שמעניינים את כל קהילת ה-AI בישראל. המודלים האלה בנויים בצורה חכמה שמאפשרת להם להתמודד עם משימות קשות ויעילות גבוהה, כמו גם תמיכה בעברית וערבית. אם אתם עוקבים אחר חדשנויות ב-LLM, זה בדיוק מה שחיכיתם לשמוע.",
     "d": "Wed, 29 Apr 2026 15:01:48 GMT",
     "v": 0,
     "l": [
@@ -833,7 +821,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 34,
-    "t": "Friendly AI chatbots more likely to support conspiracy theories, study finds\n\nChatbots programmed to respond warmly even cast doubts on Apollo moon landings and fate of Hitler, researchers say\nThe rush to make AI chatbots more friendly has a troubling downside, researchers say. The warm personas make them prone to mistakes and sympathetic to crackpot beliefs.\nChatbots trained to respond more warmly gave poorer answers, worse health advice and even supported conspiracy theories by casting doubt on events such as the Apollo moon landings and the fate of Adolf Hitler.\n Conti",
+    "t": "צ'אטבוטים ידידותיים יותר נוטים לתמוך בתאוריות קונספירציה, כך מצביעה מחקר\n\nחוקרים גילו שבכל הרצון לעשות את ה-AI ידידותי ונחמד יותר, יש מחיר - צ'אטבוטים שמתוכנתים להיות חם וסימפתיים יותר גם נוטים להשמיץ קונספירציות פרועות, אפילו על נחיתות אפולו וגורל היטלר. במקום ללחץ על הידידותיות, צריך לאזן בין איך הבוט נראה לבין איכות התשובות שהוא נותן.",
     "d": "Wed, 29 Apr 2026 15:00:52 GMT",
     "v": 0,
     "l": [
@@ -850,13 +838,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/24c97e857c1d4fe8cd59ee7faf398aec7e503ec4/449_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=0b9a9c2234eb02d49c0ac0115ce8295a",
     "source": "The Guardian AI"
   },
   {
     "id": 35,
-    "t": "AWS plants more tombstones in the application graveyard\n\nEleven up, ten down On Tuesday in San Francisco at an event called \"What's Next with AWS,\" CEO Matt Garman took the stage to announce that AWS is (for what, depending on how you count, is the seventh, eighth, or ninth time) moving up the stack and entering the applications business.…",
+    "t": "AWS שוב זורקת שירותים לאשפה - הפעם זה אפליקציות\n\nאמזון AWS הכריזה שוב על כניסה לשוק יישומי הארפליקציות, וזה כבר לא בפעם הראשונה שהענקית משנה דעה. במהלך ה-event \"What's Next with AWS\" בסן פרנסיסקו, המנכ\"ל מאט גרמן הודיע על השקה של שירות חדש - אך בעקבות ההיסטוריה של AWS בתחום זה, המשקיעים והמפתחים כבר מתחילים לספור את ימי הספירה לאחור עד שהשירות יהיה מוצא מן הרשימה.",
     "d": "2026-04-29T14:55:09.000Z",
     "v": 0,
     "l": [
@@ -882,7 +870,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 36,
-    "t": "iGame X870E Vulcan OC V14 Motherboard Review: Colorful enters the high-end overclocking scene\n\nColorful’s iGame X870E Vulcan OC V14 is a capable premium mid-range motherboard built for overclocking, thanks to its robust power delivery, cooling, and design. It faces tough competition at its price point, but remains a solid, feature-rich option under $700.",
+    "t": "סקירה: לוח אם Colorful iGame X870E Vulcan OC V14 - כניסה חזקה של קולורפול לעולם ה-Overclocking\n\nקולורפול הגיעה למשחק של ה-overclocking העליון עם לוח האם X870E החדש שלה - זה כלי ממשי לחובבי ביצועים עם חשמל חזק, קירור מדהים, ועיצוב שיודעים מה הם עושים. כן, יש תחרות בשוק, אבל אם אתם מחפשים לוח ריך עם המון פיצ'רים תחת 700 דולר, הזה בעצם לא בחירה רעה.",
     "d": "Wed, 29 Apr 2026 14:50:59 +0000",
     "v": 0,
     "l": [
@@ -905,7 +893,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 37,
-    "t": "Google signs classified Pentagon AI deal but exits $100 million drone swarm program — report claims employees revolted over ethical fears, delivered letter to CEO Pichai\n\nGoogle joins OpenAI and Elon Musk's xAI in granting the Pentagon broad classified AI access.",
+    "t": "גוגל חתמה על עסקה סודית עם הפנטגון ב-AI אך עזבה תוכנית של 100 מיליון דולר לצי רחפנים — דו״ח: עובדים התנגדו מחשש אתי\n\nגוגל הצטרפה ל-OpenAI ו-xAI של אילון מאסק בהעניקת גישה מסווגת רחבה ל-AI למשרד ההגנה. התברר שעובדי הענקן שלחו מכתב למנכ״ל פיצ׳אי בהתנגדות לתוכנית הרחפנים המותו, וההנהלה החליטה לעזוב את הפרויקט בשל חששות אתיים של הצוות.",
     "d": "Wed, 29 Apr 2026 14:48:21 +0000",
     "v": 0,
     "l": [
@@ -919,20 +907,19 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Google"
+      "OpenAI"
     ],
     "tags": [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/MRfwNgnioMsm8DKC7CuwSn-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 38,
-    "t": "Tumbler Ridge families are suing OpenAI\n\nSeven families of victims injured or killed in the Tumbler Ridge school shooting in Canada have filed lawsuits against OpenAI and CEO Sam Altman, accusing the company and its leadership of negligence after they failed to alert police to the suspected shooter's ChatGPT activity. The families allege OpenAI stayed silent after its systems flagged activity by shooting suspect Jesse Van Rootselaar in order to protect the company's reputation and upcoming initial public offering (IPO).\nThe Wall Street",
+    "t": "משפחות מטומבלר ריץ' תובעות את OpenAI על אי-הודעה לשוטרים\n\nשבע משפחות של קורבנות מהירי הספר בקנדה הגישו תביעה נגד OpenAI ומנכ\"ל סם אלטמן, בטענה שהחברה לא הודיעה למשטרה על פעילויות חשודות ב-ChatGPT של הירותן. לפי התביעה, OpenAI שתקה כדי להגן על המוניטין שלה ועל ה-IPO הקרוב, למרות שהמערכת שלה זיהתה את הפעילות החשודה.",
     "d": "2026-04-29T14:47:57.000Z",
     "v": 0,
     "l": [
@@ -946,14 +933,11 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Amazon"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "model",
-      "product",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -961,7 +945,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 39,
-    "t": "ChatGPT downloads are slowing — and may cause problems for OpenAI&#8217;s IPO\n\nChatGPT is struggling to keep up its once-explosive growth as users uninstall the app or opt for rival chatbots instead. According to data from market intelligence firm Sensor Tower, ChatGPT experienced a 132 percent increase in uninstalls year over year in April. Its uninstall rate was even higher last month, up 413 percent year-over-year, following OpenAI's deal with the Pentagon in February. \nWhile ChatGPT is still growing its user base, Sensor Tower says that growth is slowing down - ChatGPT",
+    "t": "הורדות ChatGPT מתאטות — ועלולות להציב בעיות ל-IPO של OpenAI\n\nChatGPT מתמודדת עם קשיים בשמירה על הגדילה המטורפת שלה, כשמשתמשים מסירים את האפליקציה או עוברים לבוטים תחרותיים. לפי נתוני Sensor Tower, מחק היישום גדל ב-132% בשנה שעברה בחודש אפריל, ועלתה עד 413% השנה אחרי ההסכם של OpenAI עם הפנטגון. אמנם בסיס המשתמשים של ChatGPT עדיין גדל, אבל קצב הגדילה נתמך בבירור — וזה בדיוק מה שלא רוצים לראות בעת הכנות ל-IPO.",
     "d": "2026-04-29T14:43:41.000Z",
     "v": 0,
     "l": [
@@ -987,7 +971,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 40,
-    "t": "The most dangerous place in the solar system: Not where you think\n\nIf you had to name the most dangerous place in the Solar System, you’d probably start with the obvious suspects.\nContinue Reading\nCategory: Astronomy, Science\nTags: Space Junk, Orbit",
+    "t": "המקום המסוכן ביותר במערכת השמש: לא בדיוק שם שחשבתם\n\nאתם בטוח חושבים שהמקום הכי מסוכן בחלל זה הירח או קרוב לשמש? טעות. מתברר שיש לנו בעיה ממש בסביבה שלנו בחלל - הרבה מאוד שברי לוויינים וחללית ישנה שפשוט מהסתובבת שם בלי שום שליטה. Space junk זה כל כך מסוכן שזה בעצם הופך את orbits מסוימים למקום שם לא קורים עוד משימות חדשות. מעניין לדעת למה בדיוק זה כל כך חזק.",
     "d": "Wed, 29 Apr 2026 14:32:00 GMT",
     "v": 0,
     "l": [
@@ -1010,7 +994,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 41,
-    "t": "US Navy’s 9,200-ton destroyer with 100,000 hp engines starts sea trials before delivery\n\nIn preparation for joining the U.S. Navy fleet, the USS Patrick Gallagher (DDG-127) has begun...",
+    "t": "משחתת בעלת 9,200 טון של הצי האמריקאי עם מנועים של 100,000 כוחות סוס יוצאת לניסויים בים לפני הסגירה\n\nה-USS Patrick Gallagher (DDG-127), משחתת קרב אמריקאית חדישה, החלה בניסויי הים הראשונים שלה לפני שהיא תצטרף רשמית לצי. המספרים מרשימים: 9,200 טון של פלדה וטכנולוגיה עם מנועים שמפתחים 100,000 כוח סוס, במטרה להבטיח שכל מערכת פועלת כשורה לפני הסגירה הסופית. זהו שלב קריטי במחזור הפיתוח של כלי שיט צבאי בגודל זה.",
     "d": "Wed, 29 Apr 2026 14:10:28 +0000",
     "v": 0,
     "l": [
@@ -1033,7 +1017,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 42,
-    "t": "IDC: How EMEA CIOs can jumpstart AI rollouts\n\nGetting stalled enterprise AI rollouts in the EMEA region moving again will require CIOs to aggressively audit their systems. Over the past 18 months, AI deployments across Europe advanced far beyond initial testing. Companies poured capital into large language models and machine learning, expecting heavy operational upgrades. IDC research reveals that boards are slowing down, […]\nThe post IDC: How EMEA CIOs can jumpstart AI rollouts appeared first on AI News.",
+    "t": "IDC: איך CIOs באזור EMEA יכולים להאיץ את הפריסה של AI\n\nמתברר שהחברות בצפון אירופה השקיעו הרבה כסף ב-LLM ו-Machine Learning, אבל ההנהלות התחילו לבלום על ההוצאות וההשקעות. IDC חושף שכדי להזיז את הפרויקטים של AI שתקעו בדרך, CIOs צריכים לעשות ביקורת אגרסיבית של המערכות שלהם ולהבין איפה בדיוק הם צריכים להתמקד. זה בעצם קריאה להתעוררות למנהלים טכניים שרוצים ללא כשל בשנה הקרובה.",
     "d": "Wed, 29 Apr 2026 14:02:45 +0000",
     "v": 0,
     "l": [
@@ -1056,7 +1040,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 43,
-    "t": "Attempt to repeal Colorado's right-to-repair law fails\n\nManufacturers backed effort to repeal the law but ultimately failed.",
+    "t": "ניסיון לביטול חוק הזכות לתיקון של קולורדו נכשל\n\nיצרני ציוד ניסו להפילו את החוק אך לא הצליחו. חוק זה מאפשר לצרכנים לתקן מכשירים בעצמם, וההתנגדות של הגדולים בתעשייה לא הייתה חזקה מספיק כדי להוציאו מן הכלל.",
     "d": "Wed, 29 Apr 2026 14:00:19 +0000",
     "v": 0,
     "l": [
@@ -1071,8 +1055,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/phonerepair-1152x648.jpg",
@@ -1080,7 +1063,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 44,
-    "t": "Larry’s risky business\n\nOracular spectacular? | Image: Cath Virginia / The Verge\t\n\nIf you want to know whether the AI bubble is bursting, there's only one publicly traded company that will tell you: Oracle.\nThat's right, the database company. Oracle has burned its boats and pivoted to AI, but not in any kind of usual way. It is not a foundation model builder like OpenAI or Anthropic, obviously. It's not quite a neocloud, though it has entered the same bare-metal business as CoreWeave. It is a software-as-a-service comp",
+    "t": "העסקה המסוכנת של לארי\n\nאורקל, חברת מסדי הנתונים הענקית, הטילה את עצמה לעולם ה-AI בצורה די מיוחדת - לא היא בונה foundation models כמו OpenAI, ולא היא חברת נאו-קלאוד רגילה, אלא היא נכנסה לעסק ה-bare-metal שמתחרים בו גם חברות אחרות. אם אתם רוצים לדעת אם הבועה של AI קורסת, אורקל היא החברה הציבורית היחידה שתגיד לכם את האמת. מה שמעניין זה שהחברה הקדומה הזו הלכה ברמה גבוהה בהימור על ה-AI בעצמה.",
     "d": "2026-04-29T13:57:16.000Z",
     "v": 0,
     "l": [
@@ -1095,7 +1078,6 @@ window.TELEGRAM_DATA = [
     ],
     "co": [
       "OpenAI",
-      "Anthropic",
       "Meta"
     ],
     "tags": [
@@ -1108,7 +1090,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 45,
-    "t": "Japan eyes low-cost cardboard drones that could be hard to detect for military use\n\nJapan is exploring unconventional approaches to military technology, as its Defense Minister met with a...",
+    "t": "יפן מתכננת מל\"טים מחומר קרטון זול שיקשה לגלות אותם\n\nיפן בוחנת גישות לא קונוונציונליות בטכנולוגיה צבאית, והשר ההגנה שלה פגש עם מעוניינים בפיתוח מל\"טים זולים מקרטון שיהיו קשים לזיהוי במטבח הצבאי. זה חלק מהיוזמה של יפן להתכונן לאיומים אזוריים באופן יצירתי ותקציבי יותר.",
     "d": "Wed, 29 Apr 2026 13:55:00 +0000",
     "v": 0,
     "l": [
@@ -1131,7 +1113,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 46,
-    "t": "Lenovo abandons separate magnesium frame for latest P16 Gen 3 laptop after 20 years — robust feature introduced in ThinkPad T60 in 2006, company now integrates material into outer shell for a thinner design\n\nLenovo has reportedly stopped using magnesium alloy subframes in the ThinkPad P16 Gen 3 to save on weight and thickness. This feature was first introduced on the ThinkPad T60 in 2006 and was added to ensure rigidity for the brand's workstation laptops.",
+    "t": "לנובו מסיימת עם המסגרת מגנזיום נפרדת ב-P16 Gen 3 אחרי 20 שנה — היא מעכשיו משולבת בגוף החיצוני\n\nלנובו החליטה להפסיק את השימוש במסגרת סגסוגת מגנזיום נפרדת בדגם ThinkPad P16 Gen 3 החדש, תכונה שהייתה חתימה של הברנד כבר משנת 2006. בחליפין, החברה משלבת את החומר ישירות בגוף הלפטופ כדי להשיג עיצוב דקיק וקל יותר, וזה סימן למעבר מעיצוב קלאסי שהוכיח את עצמו למשך שתיים עשרות שנים.",
     "d": "Wed, 29 Apr 2026 13:32:21 +0000",
     "v": 0,
     "l": [
@@ -1146,16 +1128,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/PxAX66rufGzTFB8h97TisS-1280-80.png",
     "source": "Tom's Hardware"
   },
   {
     "id": 47,
-    "t": "Rice grain-sized solid-state battery could power next-gen smart lenses, wearables\n\nScientists have just unveiled a tiny solid-state battery measuring only several tens of cubic millimeters,...",
+    "t": "סוללת מצב מוצק בגודל גרגר אורז יכולה להנעות משקפיים חכמים של הדור הבא וציוד ללבוש\n\nמדענים חשפו סוללת solid-state זעירה בגודל של רק עשרות מילימטרים מעוקבים, שיכולה להפוך את עולם הוearables. הטכנולוגיה הזאת פותחת דלתות חדשות לחלוטין לעיצוב של משקפיים חכמים וציוד ללבוש שיהיו קטנים וקלים בהרבה מאשר היום. זה לא סתם עוד פוסט בבלוג טקנולוגיה - זה עשוי להיות ההתחלה של מהפכה במכשירים שנוביל איתנו על הגוף.",
     "d": "Wed, 29 Apr 2026 13:29:03 +0000",
     "v": 0,
     "l": [
@@ -1178,7 +1159,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 48,
-    "t": "Lockheed to upgrade radar brains of US Navy’s submarine-hunter MH-60R helicopters\n\nThe U.S. Navy has awarded Lockheed Martin a $99.5 million contract to replace the aging...",
+    "t": "לוקהיד מרטין תשדרג את 'המוח' הרדאר של מסוקי ציד הצוללות MH-60R של הצי האמריקאי\n\nהצי האמריקאי העניק לוקהיד מרטין חוזה בשווי 99.5 מיליון דולר להחלפת מערכת הראדאר העתיקה במסוקי ה-MH-60R, שמשמשים לציד צוללות ותעבורה ימית. השדרוג יחדש לחלוטין את 'המוח' הטקטי של הרחפנים, ויעניק להם יכולות זיהוי ומעקב מודרניות במימדים שלא ראינו עד היום. זהו חלק מתוכנית ארוכת טווח של הצי לשמירה על יתרון טכנולוגי בשטח הקרב הימי.\n\nמקור: Interesting Engineering",
     "d": "Wed, 29 Apr 2026 13:27:32 +0000",
     "v": 0,
     "l": [
@@ -1201,7 +1182,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 49,
-    "t": "TSMC SoIC 3D stacking roadmap outlines path from 6-micron pitches today to 4.5-micron in 2029 — Fujitsu's Monaka CPU to benefit from face-to-face chiplet stacking\n\nTSMC adds support for face-to-face stacking, 6.5 µm and 4.5 µm pitches for the next generation of SoIC 3D stacking.",
+    "t": "TSMC משדרגת את טכנולוגיית ה-3D stacking: מ-6 מיקרון היום לעד 4.5 מיקרון ב-2029\n\nTSMC חושפת תוכנית רחוק-טווח מעניינת לטכנולוגיית SoIC שלה - היא תוסיף תמיכה בחיבור face-to-face בין chiplets, וזה בעצם אומר שנוכל לדחוס עוד יותר קוד לתוך שטח קטן יותר. CPU Monaka של פוג'יצו יהיה אחד הראשונים שיהנו מהשדרוג הזה, וזה סימן טוב לעתיד של החומרה הקומפקטית.",
     "d": "Wed, 29 Apr 2026 13:26:22 +0000",
     "v": 0,
     "l": [
@@ -1224,7 +1205,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 50,
-    "t": "White House moves to restore Anthropic access after Pentagon standoff\n\nThe White House is drafting guidance that would let federal agencies work with Anthropic again, including access to the company's new model Mythos.\nThe article White House moves to restore Anthropic access after Pentagon standoff appeared first on The Decoder.",
+    "t": "הבית הלבן פועל לשחזר גישה ל-Anthropic לאחר מתיחות עם הפנטגון\n\nהבית הלבן מכין הנחיות חדשות שתאפשר לסוכנויות פדרליות להשתף פעולה שוב עם Anthropic וגם לגשת ל-Mythos, הדגם החדש של החברה. נראה שהמתיחות עם משרד ההגנה מתפרקת, והממשלה האמריקאית חוזרת לשולחן הנושא.",
     "d": "Wed, 29 Apr 2026 13:23:39 +0000",
     "v": 0,
     "l": [
