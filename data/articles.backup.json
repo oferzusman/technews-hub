@@ -124737,7 +124737,7 @@
       "author": "Emma Roth",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-29T16:56:22.291Z",
       "created_at": "2026-04-29T16:56:22.291Z"
     },
@@ -124830,7 +124830,7 @@
         "nvidia geforce"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-29T16:56:22.350Z",
       "created_at": "2026-04-29T16:56:22.350Z"
     },
@@ -124854,7 +124854,7 @@
         "law school"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-29T16:56:22.350Z",
       "created_at": "2026-04-29T16:56:22.350Z"
     },
@@ -124922,7 +124922,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-29T16:56:23.622Z",
       "created_at": "2026-04-29T16:56:23.622Z"
     },
@@ -125056,7 +125056,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-29T16:56:24.022Z",
       "created_at": "2026-04-29T16:56:24.022Z"
     },
@@ -125090,7 +125090,7 @@
       "author": "Monica J. White",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-29T16:56:24.634Z",
       "created_at": "2026-04-29T16:56:24.634Z"
     },
@@ -125184,7 +125184,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-29T16:56:24.642Z",
       "created_at": "2026-04-29T16:56:24.642Z"
     },
@@ -125407,7 +125407,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-29T16:56:27.739Z",
       "created_at": "2026-04-29T16:56:27.739Z"
     },
@@ -125521,7 +125521,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-29T16:56:27.795Z",
       "created_at": "2026-04-29T16:56:27.795Z"
     },
@@ -125538,7 +125538,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-29T16:56:27.795Z",
       "created_at": "2026-04-29T16:56:27.795Z"
     },
@@ -125555,7 +125555,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-29T16:56:27.795Z",
       "created_at": "2026-04-29T16:56:27.795Z"
     },
@@ -125572,7 +125572,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-29T16:56:27.795Z",
       "created_at": "2026-04-29T16:56:27.795Z"
     },
@@ -125609,6 +125609,279 @@
       "priority": "hot",
       "fetchedAt": "2026-04-29T16:56:27.795Z",
       "created_at": "2026-04-29T16:56:27.795Z"
+    },
+    {
+      "id": 6123,
+      "source": "The Verge AI",
+      "title_en": "All the evidence unveiled so far in Musk v. Altman",
+      "description_en": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: Nvidia CEO Jensen Huang gave OpenAI an in-demand supercomputer, Musk largely drafted OpenAI's mission and heavily influenced its early structure, OpenAI CEO Sam Altman appeared to w",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+      "image_url": null,
+      "pub_date": "2026-04-29T18:03:05.000Z",
+      "author": "Hayden Field",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T18:11:31.005Z",
+      "created_at": "2026-04-29T18:11:31.005Z"
+    },
+    {
+      "id": 6124,
+      "source": "The Verge AI",
+      "title_en": "Ubuntu’s AI plans have Linux users looking for a &#8216;kill switch&#8217;",
+      "description_en": "Canonical's plan to add AI features to Ubuntu has some users asking for \"a version of Ubuntu that does not include these features,\" while others say they'll stick with older versions of the Linux distro or even switch to a different one. After Canonical's announcement earlier this week that it's bringing AI features to Ubuntu, replies included requests for an AI \"kill switch\" or a way to disable the upcoming features, and comparisons to Microsoft's addition of AI features into Windows 11. Canoni",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch",
+      "image_url": null,
+      "pub_date": "2026-04-29T17:32:02.000Z",
+      "author": "Stevie Bonifield",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T18:11:31.005Z",
+      "created_at": "2026-04-29T18:11:31.005Z"
+    },
+    {
+      "id": 6125,
+      "source": "The Decoder",
+      "title_en": "Google Gemini now generates full documents, spreadsheets, and presentations directly inside the chat",
+      "description_en": "Google Gemini now creates documents directly in the chat, from PDFs and Word files to Excel spreadsheets.\nThe article Google Gemini now generates full documents, spreadsheets, and presentations directly inside the chat appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/google-gemini-now-generates-full-documents-spreadsheets-and-presentations-directly-inside-the-chat/",
+      "image_url": "http://the-decoder.com/wp-content/uploads/2026/04/google_gemini_files_update.mp4",
+      "pub_date": "Wed, 29 Apr 2026 17:18:57 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Google",
+        "Google Gemini"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T18:11:32.081Z",
+      "created_at": "2026-04-29T18:11:32.081Z"
+    },
+    {
+      "id": 6126,
+      "source": "MarkTechPost",
+      "title_en": "Qwen Team Releases FlashQLA: a High-Performance Linear Attention Kernel Library That Achieves Up to 3× Speedup on NVIDIA Hopper GPUs",
+      "description_en": "The QwenLM team has released FlashQLA, a new kernel library that dramatically accelerates the forward and backward passes of Gated Delta Network (GDN) Chunked Prefill, targeting both large-scale pretraining and edge-side agentic inference scenarios.\nThe post Qwen Team Releases FlashQLA: a High-Performance Linear Attention Kernel Library That Achieves Up to 3× Speedup on NVIDIA Hopper GPUs appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/04/29/qwen-team-releases-flashqla-a-high-performance-linear-attention-kernel-library-that-achieves-up-to-3x-speedup-on-nvidia-hopper-gpus/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-29-at-10.27.48-AM-1.png",
+      "pub_date": "Wed, 29 Apr 2026 17:28:17 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T18:11:32.286Z",
+      "created_at": "2026-04-29T18:11:32.286Z"
+    },
+    {
+      "id": 6127,
+      "source": "The Register",
+      "title_en": "Yet another experiment proves it's too damn simple to poison large language models",
+      "description_en": "There is no 6 Nimmt! champion, but a $12 domain registration and one Wikipedia edit convinced several bots there was Unlike search engines that let you judge competing sources, search-backed AI chatbots can turn shaky web material into confident answers. Case in point: A security engineer convinced several bots that he was the reigning world champion of a popular German card game, even though no such championship exists.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/poisoning_large_language_models_6nimmt/",
+      "image_url": null,
+      "pub_date": "2026-04-29T17:00:18.000Z",
+      "author": "Brandon Vigliarolo",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T18:11:32.924Z",
+      "created_at": "2026-04-29T18:11:32.924Z"
+    },
+    {
+      "id": 6128,
+      "source": "New Atlas",
+      "title_en": "'Metajets' could allow future spaceships to be propelled by nothing but light",
+      "description_en": "If an alien in the Alpha Centauri star system were craving pizza, it would take tens of thousands of years to deliver it using today’s rocket technology. According to a press release, researchers at Texas A&M University have developed a technology that could one day reduce delivery to a mere 20 years using nothing but light for propulsion.\nContinue Reading\nCategory: Space Systems, Engineering\nTags: Texas A&M Universty, Solar Sail",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/space-systems/metajets-light-propelled-spaceships/",
+      "image_url": null,
+      "pub_date": "Wed, 29 Apr 2026 18:00:00 GMT",
+      "author": "Etiido Uko",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T18:11:32.977Z",
+      "created_at": "2026-04-29T18:11:32.977Z"
+    },
+    {
+      "id": 6129,
+      "source": "New Atlas",
+      "title_en": "This robot is set to be your miniature AI chess partner – or coach",
+      "description_en": "If a fervent chess player seeking a challenging game partner doesn’t happen to live in a major city such as St. Louis, Missouri, home of the World Chess Hall of Fame, the next best thing might be SenseRobot Chess Mini. It's an AI-powered robotic chess coach/mentor and player, currently on Kickstarter.\nContinue Reading\nCategory: Games, Consumer Tech, Technology\nTags: Chess, Kickstarter, Artificial Intelligence",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/games/senserobot-chess-mini-robot/",
+      "image_url": null,
+      "pub_date": "Wed, 29 Apr 2026 17:00:00 GMT",
+      "author": "Shirl Leigh",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T18:11:32.977Z",
+      "created_at": "2026-04-29T18:11:32.977Z"
+    },
+    {
+      "id": 6130,
+      "source": "The Guardian AI",
+      "title_en": "Sam Altman tries to fend off Elon Musk’s attacks on OpenAI in court battle",
+      "description_en": "Altman faces off against Musk, his OpenAI co-founder, in second day of high-stakes lawsuit \nAfter a dramatic first day of opening statements and testimony from Elon Musk in his case against Sam Altman and OpenAI, the trial continues on Wednesday with a cross examination of the Tesla CEO. OpenAI’s defense attorneys will get a chance to press the world’s richest man on his allegations, which yesterday included suggesting Altman “stole a charity” and would endanger humanity with AI.\nMusk is accusin",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/apr/29/elon-musk-openai-sam-altman-lawsuit",
+      "image_url": "https://i.guim.co.uk/img/media/34e27c38b979ca6c4511b79c5e052fabb96eaa14/54_37_1476_1182/master/1476.jpg?width=140&quality=85&auto=format&fit=max&s=f8c87e1744f7014a1826ddd64a55aedf",
+      "pub_date": "Wed, 29 Apr 2026 17:31:04 GMT",
+      "author": "Dara Kerr in Oakland, California, and Nick Robins-Early",
+      "categories": [
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        },
+        {
+          "_": "Sam Altman",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/sam-altman"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T18:11:33.198Z",
+      "created_at": "2026-04-29T18:11:33.198Z"
+    },
+    {
+      "id": 6131,
+      "source": "Interesting Engineering",
+      "title_en": "Researchers develop biocompatible quantum nanosensors for living cells",
+      "description_en": "Researchers from Japan have developed biocompatible molecular quantum nanosensors (MoQNs) that can measure temperature and...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/biocompatible-quantum-nanosensors-living-cells",
+      "image_url": "https://www.youtube.com/embed/rFYHtw0hrqM",
+      "pub_date": "Wed, 29 Apr 2026 18:05:00 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T18:11:33.822Z",
+      "created_at": "2026-04-29T18:11:33.822Z"
+    },
+    {
+      "id": 6132,
+      "source": "Interesting Engineering",
+      "title_en": "320 million-year-old history of any home could be tracked with new online tool",
+      "description_en": "Researchers at Utrecht University in the Netherlands have launched Paleolatitude.org, an online tool that allows...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/new-online-tool-tracks-earths-tectonic-journey",
+      "image_url": "https://www.youtube.com/embed/5v07drgUdeg",
+      "pub_date": "Wed, 29 Apr 2026 18:00:00 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T18:11:33.822Z",
+      "created_at": "2026-04-29T18:11:33.822Z"
+    },
+    {
+      "id": 6133,
+      "source": "Interesting Engineering",
+      "title_en": "China’s 10 MW truck-mounted nuclear ‘power bank’ claims energy for decades without recharge",
+      "description_en": "A research team from China is testing a prototype nuclear reactor that is designed to...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/china-10-mw-truck-mounted-nuclear-power-bank",
+      "image_url": null,
+      "pub_date": "Wed, 29 Apr 2026 17:03:36 +0000",
+      "author": "Aman Tripathi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T18:11:33.822Z",
+      "created_at": "2026-04-29T18:11:33.822Z"
+    },
+    {
+      "id": 6134,
+      "source": "CNBC Tech",
+      "title_en": "Robinhood's revenue slump exposes crypto's core weakness",
+      "description_en": "Crypto still struggles to generate stable, nonspeculative revenue despite years of growth, innovation, and institutional acceptance.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/29/robinhoods-revenue-slump-exposes-cryptos-core-weakness.html",
+      "image_url": null,
+      "pub_date": "Wed, 29 Apr 2026 17:38:06 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T18:11:33.993Z",
+      "created_at": "2026-04-29T18:11:33.993Z"
+    },
+    {
+      "id": 6135,
+      "source": "CNBC Tech",
+      "title_en": "We toured an AI data center to see how our stock names make these facilities work",
+      "description_en": "CoreSite CEO Juan Font thinks of his company's facilities like shopping malls.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/29/we-toured-an-ai-data-center-to-see-how-our-stocks-make-these-facilities-work.html",
+      "image_url": null,
+      "pub_date": "Wed, 29 Apr 2026 17:35:21 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T18:11:33.993Z",
+      "created_at": "2026-04-29T18:11:33.993Z"
     }
   ]
 }
