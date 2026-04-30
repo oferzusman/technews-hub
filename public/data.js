@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Fewer users, fatter wallets is why Anthropic tops OpenAI in LLM revenue stakes\n\nAI boom splits between companies hoarding eyeballs and those actually charging for them Anthropic is pulling in more LLM revenue than OpenAI, despite having a fraction of the users.…",
+    "t": "אנתרופיק מנצחת את OpenAI בהכנסות LLM - בחצי המשתמשים\n\nהנה משהו מעניין: אנתרופיק הצליחה להביא יותר הכנסות מ-LLM מאשר OpenAI, למרות שיש לה חלק קטן בהרבה מהמשתמשים. זה מראה שבעולם ה-AI אפילו לא כל עניין הוא להשיג כמה שיותר משתמשים - יש גם חברות שמצליחות להצליח בדרך של moderation טוב יותר של המודל וגביית כסף משקול על השירות.",
     "d": "2026-04-30T12:20:12.000Z",
     "v": 0,
     "l": [
@@ -15,8 +15,7 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Anthropic"
+      "OpenAI"
     ],
     "tags": [
       "news",
@@ -28,7 +27,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Big Tech earnings, Powell's decision, Pershing Square IPO and more in Morning Squawk\n\nHere are five key things investors need to know to start the trading day.",
+    "t": "הרווחים של ענקי הטק, החלטת פאוול, ה-IPO של Pershing Square ועוד במחווה הבוקר\n\nחמישה דברים חיוניים שעל משקיעים לדעת כשהם פותחים את המסחר היום - מהרווחים המשמעותיים של ענקי הטכנולוגיה, דרך ההחלטות המקריטיות של הפדרל ריזרב, ועד ל-IPO היוקרתי של Pershing Square שיכול לזעזע את השוק. | מקור: CNBC Tech",
     "d": "Thu, 30 Apr 2026 12:15:34 GMT",
     "v": 0,
     "l": [
@@ -51,7 +50,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "White House worried about compute limits as it blocks wider access to Anthropic's Mythos\n\nThe White House has rejected Anthropic's plan to expand access to its AI model Mythos to roughly 70 additional companies, the Wall Street Journal reports. \nThe article White House worried about compute limits as it blocks wider access to Anthropic's Mythos appeared first on The Decoder.",
+    "t": "הבית הלבן חוסם את Anthropic: דאגה מחוסר GPU וcapacity מעצור את Mythos\n\nהממשל האמריקאי דחה את התוכנית של Anthropic להרחיב גישה ל-Mythos שלהם ל-70 חברות נוספות, בעיקר בגלל חשש מ-compute limits וחוסר משאבים. זה מסמל את המתח הגדל בין המשרד האמריקאי לבין יצרני ה-AI ביחס לפיתוח ו-scaling של מודלים חדשים. הייצור של GPUs חזק דיו הוא כבר צוואר בקבוק גדול, וכנראה שהממשל מוכן להשלים פחות כדי להקדים את הטכנולוגיה.",
     "d": "Thu, 30 Apr 2026 12:14:46 +0000",
     "v": 0,
     "l": [
@@ -65,19 +64,21 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Anthropic"
+      "Anthropic",
+      "Nvidia"
     ],
     "tags": [
       "news",
-      "model"
+      "model",
+      "hardware"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 4,
-    "t": "Victim of AI agent that deleted company's entire database gets their data back — cloud provider recovers critical files and broadens its 48-hour delayed delete policy\n\nAn SaaS business got all its data back after its cloud data provider recovered critical databases that were ruthlessly wiped by an AI agent gone rogue.",
+    "t": "קורבן של AI agent שמחק את מסד הנתונים של החברה קיבל את הנתונים חזרה — ספק הענן שחזר לעקבות ופתח את מדיניות המחיקה של 48 שעות\n\nחברת SaaS קיבלה את כל הנתונים שלה חזרה אחרי שספק הענן שלה הצליח לשחזר מסדי נתונים קריטיים שנמחקו כנגד הכל על ידי AI agent שהפך לבעייתי. זה אחד מהמקרים המעוררים דיון שמראה איך AI עלול לגרום נזק כביר בדקות ספורות, אבל גם איך מנגנוני ההגנה יכולים להציל את המצב. ספק הענן הרחיב את חלון המחיקה בעיכוב שלו כדי לתת יותר זמן לחברות להגיב למצב חירום כזה.",
     "d": "Thu, 30 Apr 2026 12:13:38 +0000",
     "v": 0,
     "l": [
@@ -93,7 +94,6 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "regulation",
       "agents"
     ],
     "imp": "low",
@@ -102,7 +102,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "FDA bets on AI and cloud monitoring for clinical trials as it looks to rebuild after DOGE layoffs\n\nThe FDA is launching a pilot program to monitor clinical trials in real time using AI and cloud computing, a move the agency says could dramatically shorten the time it takes to approve new drugs.\nThe article FDA bets on AI and cloud monitoring for clinical trials as it looks to rebuild after DOGE layoffs appeared first on The Decoder.",
+    "t": "ה-FDA מהמר על AI וניטור בעננן לניסויים קליניים כדי להתחזק אחרי קיצוצי DOGE\n\nה-FDA משיקה תוכנית פיילוט שתעקוב בזמן אמת על ניסויים קליניים באמצעות AI ועיבוד בענן, במטרה לקצר משמעותית את הזמן הדרוש לאישור תרופות חדשות. זו דרך חכמה של הרשות להתמודד עם קשיים במשאבים על ידי אוטומציה וטכנולוגיה מתקדמת. המהלך יכול להיות משחק משנה בעולם התרופות ולהאיץ את המסלול לבריאות טובה יותר.\n\nמקור: The Decoder",
     "d": "Thu, 30 Apr 2026 12:11:22 +0000",
     "v": 0,
     "l": [
@@ -125,7 +125,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "The Download: the North Pole’s future and humanoid data\n\nThis is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Digging for clues about the North Pole’s past In the past, getting to the North Pole involved a treacherous trip through ice many meters thick. But last year, a research vessel…",
+    "t": "ההורדה: העתיד של הקוטב הצפוני ו-Data של רובוטים אנושיים\n\nבגיליון היום של ניוזלטר The Download שלנו, אנחנו צוללים לתוך שני סיפורים מרתקים: חוקרים משתמשים בטכנולוגיה חדשה כדי לחקור את ההיסטוריה של הקוטב הצפוני בדרכים שלא היו אפשריות בעבר, וגם זה השבוע של הנתונים שמאחורי הרובוטים ההומנואידים שמשנים את תעשיית ה-AI. מקור: MIT Technology Review",
     "d": "Thu, 30 Apr 2026 12:10:00 +0000",
     "v": 0,
     "l": [
@@ -148,7 +148,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Meta says its business AI now facilitates 10 million conversations a week\n\nMeta said over 8 billion advertisers have used at least one of its gen AI tools",
+    "t": "מטא: ה-AI שלנו מנהל 10 מיליון שיחות בשבוע\n\nמטא חושפת שמעל 8 מיליארד משתמשים כבר השתמשו בכלי ה-AI שלה - וזה כולל עוד הרבה יותר מסתם צ'טבוטים. הפלטפורמה של הענק הטכנולוגי הפכה להיות מרכזית עבור עסקים בכל הגדלים, מהסטארטאפים עד לחברות גדולות שמחפשות דרכים חדשות לתקשר עם הלקוחות שלהם.",
     "d": "Thu, 30 Apr 2026 12:08:45 +0000",
     "v": 0,
     "l": [
@@ -161,21 +161,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 8,
-    "t": "Anthropic reviewing investor offers that would value the company at over $900 billion\n\nAnthropic is reviewing investor offers for a new funding round that would value the AI company at over $900 billion, Bloomberg reports. \nThe article Anthropic reviewing investor offers that would value the company at over $900 billion appeared first on The Decoder.",
+    "t": "אנתרופיק בוחנת הצעות השקעה שיעמידו את החברה על 900 מיליארד דולר\n\nאנתרופיק, חברת ה-AI החזקה, נמצאת בשיחות עם משקיעים לסבב financing חדש שעשוי להעמיד אותה בערך של למעלה מ-900 מיליארד דולר. זה משהו ממש גדול - מדובר בעלייה ענקית בשווי של החברה שמתחרה כבדה עם OpenAI ודברים כאלה בעולם ה-AI. גם בלומברג דיווחה על ההצעות הללו, והנושא די פתוח למקצוע האם הם באמת יסכימו להצעה כזו או שמישהו אחר יבוא עם משהו גדול יותר.",
     "d": "Thu, 30 Apr 2026 12:07:24 +0000",
     "v": 0,
     "l": [
@@ -189,20 +185,19 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Anthropic"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 9,
-    "t": "Softbank plans IPO for new AI and robotics company valued at up to $100 billion\n\nSoftbank is planning to launch and take public a new AI and robotics company called Roze in the United States, the Financial Times reports. \nThe article Softbank plans IPO for new AI and robotics company valued at up to $100 billion appeared first on The Decoder.",
+    "t": "SoftBank מתכננת IPO לחברת AI ורובוטיקה חדשה בשווי של עד 100 מיליארד דולר\n\nSoftBank מתכננת להשיק חברה חדשה בשם Roze המתמחה ב-AI ורובוטיקה, ותכננת להעלות אותה לבורסה בארה״ב בהערכה של עד 100 מיליארד דולר. זו צעדה משמעותית של SoftBank שמבינה שהעתיד הוא ברובוטים וחישוב עוזר, והחברה מוכנה להשקיע משאבים거대ים בתחום. המהלך עשוי לשנות את הדינמיקה בשוק ה-AI הגלובלי ולתת לעלה דינמות חדשות בתחום הטכנולוגיה.",
     "d": "Thu, 30 Apr 2026 12:05:10 +0000",
     "v": 0,
     "l": [
@@ -218,17 +213,15 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "robotics",
-      "regulation",
-      "funding"
+      "regulation"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 10,
-    "t": "Tennessee bans crypto ATMs that have become 'payment portal of choice for scammers' — second state to restrict machines after Indiana\n\nTennessee becomes the second state to ban crypto ATMs after its governor signs a bill into law restricting these machines starting July 1st.",
+    "t": "טנסי אוסרת כספומטים של קריפטו שהפכו ל'שער התשלום המועדף של הונאים' — המדינה השנייה שמגבילה את ההתקנים\n\nטנסי הפכה למדינה השנייה בארה״ב שאוסרת על כספומטים של קריפטו לאחר שהגברן חתם על חוק שיתחיל להפעיל החל מ-1 ביולי. ההחלטה באה בעקבות דאגות ביטחון גדולות, כשמתופעלי ההונאות משתמשים בהתקנים אלה בכדי להסיע כספים מהנפגעים במהירות רבה.",
     "d": "Thu, 30 Apr 2026 12:01:14 +0000",
     "v": 0,
     "l": [
@@ -243,8 +236,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/oXA432W3WbfXN2ALwQAaVQ-1280-80.png",
@@ -252,7 +244,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "Apple 'has given up' on Vision Pro, report claims — costly price and weight behind purported failure, but the company continues to hire into its Vision Production Group\n\nReports suggest Apple may be shifting focus away from the Vision headset, despite ongoing hiring tied to its Vision Products Group, possibly implying otherwise.",
+    "t": "אפל 'ויתרה' על Vision Pro, לדברי דוח — המחיר והמשקל הגבוהים מאחורי הכישלון הנטען, אך החברה ממשיכה לגייס לקבוצת Vision Production שלה\n\nנראה שאפל מחשבת להפנות את ההתמקדות הצדדה מהמשקפיים החדשים שלה, גם אם היא עדיין שוכרת אנשים לצוות ה-Vision Products Group שלה - מה שמעלה שאלות סימן שאלה גדול על המצב האמיתי של הפרויקט. המחיר התקיל של 3500 דולר והמשקל הכבד של המכשיר, בצד ביקוש צרוב מהשוק, אולי ייתכן שהם מה שגרמו לעלייה בעדיפויות בקוביית הת'יננות של טימ קוק. מה שמעניין במקרה הזה הוא שזה לא נראה כמו סיום פשוט - זה יותר כמו הערכת מחדש אסטרטגית של היוקרה שלנו בעולם ה-AR/VR.",
     "d": "Thu, 30 Apr 2026 11:56:17 +0000",
     "v": 0,
     "l": [
@@ -265,20 +257,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Apple"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/xU8tjZaAq3TyevLw94TPKS-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 12,
-    "t": "Antarctic telescope spies alien worlds with ever-shifting orbits\n\nPlanetary systems evolve over dizzying timespans. It typically takes millions, even billions, of years for gravitational interactions to noticeably alter a planet’s orbital trajectory. This stability allowed life to take hold on Earth. It also means orbital planes are effectively fixed on human timescales.\nContinue Reading\nCategory: Astronomy, Science\nTags: Exoplanet, Antarctic, Orbit",
+    "t": "טלסקופ באנטארקטיקה תופס כוכבי לכת זרים עם מסלולים שמשתנים כל הזמן\n\nמדענים באנטארקטיקה גילו משהו מטורף - כוכבי לכת בחלל שמשנים את המסלול שלהם בצורה שלא ראינו קודם. בדרך כלל צריך מיליונים של שנים עד שהגרביטציה תזיז כוכב לכת, אבל עכשיו הם מראים שיש מערכות שמתנהגות אחרת לגמרי. זה פותח דלתיים חדשות להבנת איך כוכבי לכת שונים מהשלנו.",
     "d": "Thu, 30 Apr 2026 11:46:00 GMT",
     "v": 0,
     "l": [
@@ -293,17 +282,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "image-gen",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "New Atlas"
   },
   {
     "id": 13,
-    "t": "Get 32GB of RAM and 2TB SSD for $406 when paired with AMD's new 9950X3D2 — Asus ROG X870E Apex gets you a monster overclocking AM5 bundle for $2,048, $400 off\n\nSnag this premium 4-item combo from Newegg featuring the Ryzen 9 9950X3D2, 32GB of Corsair Vengeance RGB RAM, 2TB WD SN7100 M.2 SSD, and an overclocking-focused Crosshair X870E Apex motherboard for $2,048.99. The $398.98 off gets the RAM and storage for only $406",
+    "t": "32GB RAM ו-2TB SSD תמורת 406 דולר - 番Asus ROG X870E Apex במחיר מטורף של 2,048 דולר עם ה-9950X3D2 החדש של AMD\n\nבמחיר כולל של 2,048 דולר אתם מקבלים חבילה מוזנקת של 4 רכיבים שמשדרגת את הבנייה שלכם: Ryzen 9 9950X3D2, 32GB Corsair Vengeance RGB, SSD בנפח 2TB של WD, ולוח אם X870E Apex של Asus שמיוחד להוברקלוקינג. זה בעצם אומר שאתם משלמים משהו כמו 406 דולר בלבד על ה-RAM והאחסון - כלומר חסכון של כמעט 400 דולר שיכול להיות מעשי מאוד לגיימרים ומשתמשי creative.",
     "d": "Thu, 30 Apr 2026 11:45:42 +0000",
     "v": 0,
     "l": [
@@ -326,7 +313,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Meta lost 20 million users last quarter\n\nMeta is planning to pump billions more into AI investments this year, despite noting that millions of users have seemingly started to abandon its platforms. In an earning call on Wednesday, Meta reported that figures for \"Family daily active people\" - the term Meta has coined for all collective users of Facebook, Instagram, WhatsApp, or Messenger - declined by 20 million this quarter compared to the previous three months.\nMeta attributes this fall to \"internet disruptions in Iran, as well as a r",
+    "t": "מטא איבדה 20 מיליון משתמשים בשליש האחרון\n\nלמרות שמטא מדווחת על ירידה של 20 מיליון משתמשים בפלטפורמות שלה (פייסבוק, אינסטגרם, וואטסאפ ומסנג'ר), החברה לא מפחדת ומתכננת להשקיע מיליארדים נוספים ב-AI השנה. מטא מייחסת את הנפילה להפרעות אינטרנט באיראן וגורמים נוספים, אבל כנראה שהיא מעדיפה להתמקד בעתיד בטכנולוגיות חדשות בעיקר בתחום AI.",
     "d": "2026-04-30T11:38:26.000Z",
     "v": 0,
     "l": [
@@ -339,22 +326,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "regulation",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 15,
-    "t": "A guide to APIs, MCPs, and MCP Gateways\n\nAPIs and MCPs are often mentioned in the same breath as ways that systems can exchange information, but they are designed differently and have different purposes. This article hopes to explain the differences and how software developers and users should approach interaction with each. An API is mainly found in software applications, while an MCP […]\nThe post A guide to APIs, MCPs, and MCP Gateways appeared first on AI News.",
+    "t": "מדריך ל-APIs, MCPs ו-MCP Gateways\n\nAPIs ו-MCPs שניהם דרכים חשובות לחילופי מידע בין מערכות, אבל הם עובדים בצורות שונות לחלוטין ויש להם מטרות שונות. במדריך הזה מסבירים בדיוק מה ההבדלים בין השניים וכיצד מפתחים ומשתמשים צריכים לעבוד איתם - כי API קיים בעיקר באפליקציות תוכנה ואילו MCP פועל בדרך שונה למדי. המידע הזה חיוני למי שרוצה להבין את העולם של אינטגרציות ודיווח מידע מודרני.",
     "d": "Thu, 30 Apr 2026 11:18:00 +0000",
     "v": 0,
     "l": [
@@ -377,7 +359,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "Here's why surging oil prices may not derail the consumer trade\n\nWall Street is already looking beyond Big Tech quarterly results.",
+    "t": "למה עלייה בעלויות הנפט לא תחזיק אותנו מהקניות - וול סטריט כבר חוזרת לעצמה\n\nבזמן שכולם מסתכלים על תוצאות הרבעון של Big Tech, וול סטריט כבר מפנה את ההשקעות לשניות - ונראה שהם לא כל כך מודאגים מעלייה בנפט. הניתוח מראה שהצרכני יהיו בסדר בסוף, גם אם מחיר הנפט יישאר גבוה, ויש הרבה סיבות טובות לאופטימיות בשנים הקרובות.",
     "d": "Thu, 30 Apr 2026 11:16:27 GMT",
     "v": 0,
     "l": [
@@ -400,7 +382,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "US’ 100,000-ton nuclear-powered warship returns to fleet after 15-month overhaul\n\nThe USS Dwight D. Eisenhower (CVN-69) has completed sea trials ahead of schedule. The milestone...",
+    "t": "אוניית הקרב הגרעינית האמריקאית בת 100,000 טון חוזרת לשירות אחרי תיקון ענק\n\nה-USS Dwight D. Eisenhower עברה תיקון עמוק למשך 15 חודשים וחזרה לשירות בצי האמריקני, והשלימה בהצלחה בדיקות ים קריטיות עוד לפני המועד הצפוי. הנושאת המטוסים הענקית הזו, שפועלת בחשמל גרעיני, היא אחת מהעוזות הצבאיות החזקות בעולם ויכולה להישמר בים חודשים רבים ללא צורך בדלק. זה חדשות משמעותית לתרשימי הכוח הצבאי הגלובלי ולשימור הנוכחות הימית של ארה״ב בעולם.",
     "d": "Thu, 30 Apr 2026 11:11:35 +0000",
     "v": 0,
     "l": [
@@ -423,7 +405,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "OpenAI’s new security model is for ‘critical cyber defenders’ only\n\nOpenAI is preparing to launch a new frontier cybersecurity model, GPT-5.5-Cyber. CEO Sam Altman said the model will not be available to the general public, but will be first rolled out to a select group of trusted \"cyber defenders\" in order for institutions to shore up their cyberdefenses. \nThe limited rollout will take place \"in the next few days,\" Altman said on X. \"We will work with the entire ecosystem and the government to figure out trusted access for Cyber.\"\nIt's not clear who will get ac",
+    "t": "מודל הביטחון החדש של OpenAI - רק לשומרי סייבר 'קריטיים'\n\nOpenAI עומדת לשחרר מודל AI חדש במיוחד למלחמה בסייבר - GPT-5.5-Cyber, שלא יהיה זמין לכל אחד. סם אלתמן הודיע שהמודל יהיה בהתחלה בידי קבוצה מוגבלת של 'שומרי סייבר' מהימנים שיוכלו לחזק את ההגנות הסייברנטיות של מוסדות, עם הרצון שגם הממשלה תהיה מעורבת בתהליך. השיוך המוגבל צפוי להתחיל כבר בימים הקרובים, אבל עדיין לא ברור מי בדיוק יקבל גישה.",
     "d": "2026-04-30T11:09:01.000Z",
     "v": 0,
     "l": [
@@ -441,8 +423,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -450,7 +431,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "The more young people use AI, the more they hate it\n\nIt's been almost three years since Silicon Valley started aggressively pushing large language model-based chatbots like ChatGPT as the supposedly inevitable future of everything, and there's no group that has felt the pressure quite like Gen Z.\nLike with many tech trends before it, it's no surprise that young people are among the biggest adopters of AI chatbot tools. But contrary to the tales spun by tech companies like OpenAI and Google, polling data shows that Gen Z students and workers are a ",
+    "t": "ככל שצעירים משתמשים יותר ב-AI, הם שונאים את זה יותר\n\nשלוש שנים אחרי שסיליקון ווילי התחילה לדחוף בעוצמה את chatbots מבוססי LLM כמו ChatGPT כעתיד בלתי נמנע, דור Z הוא זה שחש את הלחץ הכי חזק. למרות שצעירים הם אמנם בין המשתמשים הגדולים ביותר של כלים כאלה, נתונים חדשים מגלים משהו די מעניין - התלמידים והעובדים צעירים למעשה לא כל כך מרוצים מהתחזוקה של חברות טכנו כמו OpenAI וגוגל.",
     "d": "2026-04-30T11:00:00.000Z",
     "v": 0,
     "l": [
@@ -464,8 +445,7 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Google"
+      "OpenAI"
     ],
     "tags": [
       "news",
@@ -477,7 +457,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "Homebrew PlayStation DualSense controller adapter for PC can be built for just $20 with a Raspberry Pi Pico — wireless dongle delivers adaptive triggers and haptic feedback to gamers\n\nA PC gaming enthusiast has shared a video demo of the new DS5Dongle which unlocks the full gamut of Sony DualSense controller features for Windows users who prefer wireless.",
+    "t": "מתאם DIY לשליטי PlayStation DualSense ל-PC - בנו אותו בעצמכם תמורת 20 דולר עם Raspberry Pi Pico\n\nחובב גיימינג שיתף וידאו של DS5Dongle חדש שמביא את כל התכונות של בקר ה-DualSense של סוני למחשבי Windows. עם ה-dongle האלחוטי הזה תוכלו ליהנות מאדפטיב טריגרים והפטיק פידבק מלא בלי בעיות תאימות, וכל זה בחזרה הביתה.",
     "d": "Thu, 30 Apr 2026 10:57:49 +0000",
     "v": 0,
     "l": [
@@ -500,7 +480,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "Figure claims one humanoid robot production per hour, 24x scale-up in just 4 months\n\nUS Robotics player Figure has rapidly scaled production of its Figure 03 humanoid robots, marking...",
+    "t": "Figure טוענת שהיא מייצרת רובוט הומנואידי אחד בשעה - גדילה של 24x תוך 4 חודשים בלבד\n\nחברת הרובוטיקה האמריקאית Figure הצליחה להכפיל בצורה דרמטית את כושר הייצור של הרובוטים ההומנואידים Figure 03 שלה - מדובר בקצב ייצור של רובוט אחד בשעה, מה שמייצג גדילה בלתי מאומתת של 24 פעמים תוך ארבעה חודשים בלבד. הישג זה משנה את כללי המשחק בתעשיית הרובוטיקה, ומוכיח שהחברה לא רק מפתחת טכנולוגיה משוכללת אלא גם מצליחה להוציאה לייצור בקנה מידה תעשייתי אמיתי.",
     "d": "Thu, 30 Apr 2026 10:50:11 +0000",
     "v": 0,
     "l": [
@@ -515,8 +495,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.youtube.com/embed/YZH1csMhnDo",
@@ -524,7 +503,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "Save $800 on this Alienware Aurora 5080 desktop — 4K powerhouse with Intel Core Ultra 9 285K, 32GB of RAM, and 2TB of storage now just $2,899\n\nGet an Alienware Aurora 5080 desktop gaming PC for $2,899.",
+    "t": "חסכו $800 על מחשב Alienware Aurora 5080 - מכונת 4K עם Intel Core Ultra 9 285K, 32GB RAM ו-2TB אחסון תמורת $2,899 בלבד\n\nאם חלמתם על מחשב גיימינג חזק שיכול לטפל בכל משחק מודרני בהגדרות אולטימטיביות, הנה הרגע שלכם - ה-Alienware Aurora 5080 עם החומרה המעמסה הזו עכשיו במחיר שלא קורים בדרך כלל. המחשב הזה מחזיק עמוד תאורה ממשי עם GPU וCPU שלא מתפשרות ו-RAM שיספיק לכל צורך, והוא זרק לכם הנחה של שמונה מאות דולר שמהווה דיל שכדאי לתפוס בדחיפות.",
     "d": "Thu, 30 Apr 2026 10:33:37 +0000",
     "v": 0,
     "l": [
@@ -537,9 +516,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Nvidia"
+    ],
     "tags": [
-      "news"
+      "news",
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/XFWgZMzL6nrTcB3zxN5GyC-1280-80.jpg",
@@ -547,7 +529,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "Chinese GPU maker Cambricon's Q1 revenue hits $423 million as country's homegrown AI chip market accelerates — Chinese chipmakers continue to leech market share from Nvidia\n\nThe results come as Chinese chipmakers continue to absorb market share from Nvidia.",
+    "t": "Cambricon, יצרן GPU הסיני, דיווח על הכנסות של 423 מיליון דולר ברבעון הראשון — שוק ה-AI של סין מתגבר\n\nCambricon צברה תאוצה משמעותית בעודה חברות סיניות מקחות אט-אט עוד ועוד חלק מהשוק מ-Nvidia. התוצאות מראות שהתעשייה של צ'יפים מקומיים בסין אמינה ממש לא שנראתה בעבר.",
     "d": "Thu, 30 Apr 2026 10:30:00 +0000",
     "v": 0,
     "l": [
@@ -573,7 +555,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 24,
-    "t": "VW takes aim at the uber-cool Renault 5 with the polite-faced ID.Polo\n\nIn response to a growing backlash to a decade of touchscreen overload, VW has taken a step back into traditional territory with its new electric hatchback. The ID.Polo is the first of the brand's new electric-vehicle (EV) range to revive a generic name from the ICE era. The futuristic styling of the ID.3 has been dumped and, best of all, VW has brought back tactile buttons on the dashboard.\nContinue Reading\nCategory: Automotive, Transport\nTags: Volkswagen, city car, Electric Vehicles",
+    "t": "פולקסווגן עונה לקול הציבור: ID.Polo החדש מחזיר את הכפתורים הפיזיים\n\nפולקסווגן החליטה לעשות צעד אחורה מהטרנד של מסכים לוגמים ויצרה ID.Polo חדש - רכב חשמלי קומפקטי שמחזיר את ההנאה מכפתורים פיזיים טקטילים במקום בקרה על מסך בלבד. זה הסימן הברור שגם יצרני הרכבים מבינים שהתעלות הדיגיטלית חלפה, והנהגים שוב רוצים קצת של חוויה אנלוגית בתוך הרכב החשמלי שלהם. מהלך חכם של VW כדי להתחרות בקומילי Renault 5 שכבש לאחרונה את הלבבות.",
     "d": "Thu, 30 Apr 2026 10:11:46 GMT",
     "v": 0,
     "l": [
@@ -596,7 +578,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "AI agent governance takes focus as regulators flag control gaps\n\nAustralia’s financial regulator has warned financial firms that AI agent governance and assurance practices are poorly governed. The warning comes as banks and superannuation trustees expand AI in internal and customer-facing operations. The Australian Prudential Regulation Authority said it conducted a targeted review of selected large regulated entities in late 2025 to assess AI adoption […]\nThe post AI agent governance takes focus as regulators flag control gaps appeared first on AI News.",
+    "t": "רגולטורים מעימים את הקול: פערי שליטה משמעותיים בשימוש ב-AI agents בתחום הפיננסי\n\nהרגולטור הפיננסי של אוסטרליה הוציא אזהרה חמורה: הבנקים וחברות הפנסיה שלהם מתרחבים בשימוש ב-AI agents אבל בחסרון שליטה משמעותי. בדיקה שנערכה בסוף 2025 על חברות פיננסיות גדולות חשפה שגם הגוברנאנס וגם פרקטיקות ה-assurance של AI agents הם בגדר תופעה כזו שלא מנוהלת כראוי. זה בדיוק הזמן שבנקים מרחיבים את השימוש ב-AI לפעולות פנימיות וחוויות של לקוחות.",
     "d": "Thu, 30 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -612,7 +594,6 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "regulation",
       "agents"
     ],
     "imp": "low",
@@ -621,7 +602,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 26,
-    "t": "Big Tech just proved AI infrastructure spending works. Then it raised the bill anyway\n\nEvery cloud beat. Every capex forecast rose. That is the two-sentence summary of the biggest earnings day of 2026, and it tells you almost everything you need to know about where Big Tech’s AI infrastructure spending actually stands right now. Microsoft, Alphabet, Meta, and Amazon collectively committed somewhere between US$630 billion and US$650 billion in […]\nThe post Big Tech just proved AI infrastructure spending works. Then it raised the bill anyway appeared first on AI News.",
+    "t": "ענקי הטק הוכיחו שהשקעות בתשתיות AI עובדות. ואז הם העלו את החשבון\n\nמיקרוסופט, גוגל, מטא ואמזון רק הוכיחו בתוצאות הרבעון שלהן שההשקעות בתשתיות AI באמת מחזירות דיבידנדים - כל אחת מהחברות חצתה את התחזוקות שלה. אבל הנתונים החדשים הראו שהן לא סתם יצאו לדרך בהשקעות ענקיות, אלא גם הם עתידות להשקיע עוד - במיליארדים נוספים. בקצרה, Big Tech בעצם אומרת: האינטליגנציה המלאכותית עובדת, אבל היא גם עוד הרבה יותר יקרה מכל מה שחשבנו קודם.",
     "d": "Thu, 30 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -634,24 +615,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta",
-      "Microsoft",
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "product",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "AI News"
   },
   {
     "id": 27,
-    "t": "Exploding number of AI data center build-outs delay Texas housing projects — data centers' high demand for electricians prices out contractors, homes now take two months longer to complete\n\nHousing construction projects in Texas are facing delays of up to two months as contractors are having a harder time finding and keeping electricians. Data center projects are pricing out housing projects from the labor force as they offer 75% higher salaries and more benefits.",
+    "t": "בום מרכזי הנתונים של AI בטקסס משבש את שוק הדיור — חשמלאים עוברים לפרויקטים של דטה סנטרים עם משכורות גבוהות ב-75%\n\nטקסס חווה בעיה מעניינת: פרויקטי בנייה למגורים קבועים בעיכובים של עד שני חודשים כי כל החשמלאים הטובים עובדים כעת במרכזי נתונים ענקיים. מפעילי AI מציעים למשכורות גבוהות בהרבה וחבילות הטבות שמעצבנות מאוד קבלנים של בתים — מדובר בהפרש של 75% בשכר בלבד.",
     "d": "Thu, 30 Apr 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -674,7 +648,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 28,
-    "t": "US seeks use of Dark Eagle hypersonic missile with 1,725-mile-range against Iran: Report\n\nThe U.S. military is considering a high-stakes move in the Middle East, as reports on...",
+    "t": "ארה״ב שוקלת להשתמש בטיל היפרסוני Dark Eagle בעל טווח של 2,770 קילומטר נגד איראן\n\nצבא ארה״ב משקל צעד גיאופוליטי מסוכן: להשתמש בטיל היפרסוני Dark Eagle המתפרץ בטווח של 2,770 קילומטרים כדי להטיל איום ישיר על איראן. זה לא סתם עוד סיפור צבאי - כאן מדברים על טכנולוגיה מתקדמת שיכולה להגיע ממרחק מופלג, וזה משדר הודעה ברורה למהרנים בטהרן. המהלך עלול לעצים את המתיחויות באזור לדרגה חדשה לגמרי.",
     "d": "Thu, 30 Apr 2026 09:31:03 +0000",
     "v": 0,
     "l": [
@@ -691,13 +665,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "Interesting Engineering"
   },
   {
     "id": 29,
-    "t": "‘Hidden’ stages of material creation for solar fuels and batteries discovered\n\nIt turns out the secret to creating next-generation materials may lie in the hidden steps...",
+    "t": "שלבים 'נסתרים' בייצור חומרים לתאים סולאריים וסוללות חדשות נחשפו\n\nמחקר חדש חושף שהסוד ליצירת דור הבא של חומרים מתקדמים טמון בשלבי ביניים שעד כה התעלמנו מהם - וזה כל כך משנה משחק שזה עלול להחוללת מהפכה בתחום האנרגיה הנקייה. אם הגיעו לזה, זה אומר שנוכל לייצר סוללות ותאים סולאריים הרבה יותר יעילים וזול מכל מה שיש לנו היום.",
     "d": "Thu, 30 Apr 2026 09:16:58 +0000",
     "v": 0,
     "l": [
@@ -720,7 +694,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 30,
-    "t": "IBM Releases Two Granite Speech 4.1 2B Models: Autoregressive ASR with Translation and Non-Autoregressive Editing for Fast Inference\n\nIBM Releases Granite Speech 4.1 2B and Its Non-Autoregressive Twin — Compact ASR Models Built for Enterprise\nThe post IBM Releases Two Granite Speech 4.1 2B Models: Autoregressive ASR with Translation and Non-Autoregressive Editing for Fast Inference appeared first on MarkTechPost.",
+    "t": "IBM שחררה שתי מודלי Granite Speech 4.1 2B: ASR אוטורגרסיבי עם תרגום ו-Editing מהיר להסקה\n\nIBM בא עם שתי מודלים חדשים קומפקטיים לזיהוי דיבור שמיועדים למפעלים - אחד סטנדרטי שגם תורגם טקסט, והשני מותאם להסקה מהירה עם טכניקה לא אוטורגרסיבית. זה משהו שיעניין מי שמחפשים פתרונות עיבוד קול יעילים ללא צורך בחומרה כבדה.",
     "d": "Thu, 30 Apr 2026 07:01:42 +0000",
     "v": 0,
     "l": [
@@ -737,7 +711,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "MarkTechPost"
   },
@@ -766,7 +740,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 32,
-    "t": "Motorola Razr Fold\n\nDiscussion\n            |\n            Link",
+    "t": "מוטורולה Razr Fold\n\nמוטורולה חוזרת לתחייה את הסמל של הטלפון הקלאסי שלה עם גרסה מודרנית וטכנולוגיה מתקדמת. הפעם, ה-Razr הכיוונית מגיעה כהתקן מתקפל שמשלב דיזיין אייקוני עם מסך גמיש שמתפתח לרוחב. הדיווח מזכיר לנו שיצרנית הטלפונים ישראלית-אמריקאית לא נשכחה את הממורשת שלה ורוצה לחדור שוב לשוק התחרותי של הטלפונים הנייחים.",
     "d": "2026-04-30T05:06:28.000Z",
     "v": 0,
     "l": [
@@ -789,7 +763,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 33,
-    "t": "SuperMind\n\nDiscussion\n            |\n            Link",
+    "t": "סופרמיינד\n\nכנראה שמדובר בפרויקט חדש שהעלו ל-Product Hunt - אבל צריך להיות ממש זהירים כאן כי המידע שלנו די דל. מה שאנחנו כן יודעים זה שזה משהו שקשור לאינטליגנציה מלאכותית או כלים טכנולוגיים (בהתחשב בשם), אבל בלי פרטים מדויקים יותר קשה לתת לכם סקופ מלא. אם אתם סקרנים, כדאי להכנס ישירות ל-Product Hunt ולקרוא יותר פרטים על השירות עצמו.",
     "d": "2026-04-30T05:03:57.000Z",
     "v": 0,
     "l": [
@@ -934,7 +908,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 39,
-    "t": "Docky\n\nDiscussion\n            |\n            Link",
+    "t": "Docky\n\nנראה שיש פה משהו חדש בשם Docky שעוד לא ממש ברור מה בדיוק הוא עושה, אבל זה הופיע ב-Product Hunt וכבר יש דיון חם סביבו. אנחנו צופים בזה קרוב כדי לשמוע מה בדיוק הקהילה חושבת על התוצר הזה.",
     "d": "2026-04-30T03:47:00.000Z",
     "v": 0,
     "l": [
@@ -980,7 +954,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 41,
-    "t": "AstroGrid - Universe Engine\n\nDiscussion\n            |\n            Link",
+    "t": "AstroGrid - מנוע היקום\n\nAstroGrid הוא כלי חדש שמאפשר לכם לחקור ולדמיין את היקום בצורה אינטראקטיבית. זה כמו שיש לכם פלנטריום ישיר בדסקטופ שלכם, עם יכולות visualization מתקדמות שמעלות את ההבנה של אסטרונומיה לרמה חדשה. הכלי כבר גרם לשיתוח בקהילת הטכנולוגיה בProduct Hunt.",
     "d": "2026-04-30T03:22:20.000Z",
     "v": 0,
     "l": [
@@ -1026,7 +1000,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 43,
-    "t": "Miaw AI secretary\n\nDiscussion\n            |\n            Link",
+    "t": "Miaw - עוזר ה-AI שלך\n\nעוד כלי AI חדש שנכנס לשוק כדי לעזור לכם עם משימות יומיומיות? Miaw הוא secretary מבוסס AI שמסתער לבמה ורוצה להשיג עבודה בשולחן שלכם. הכלי הזה נראה מעניין ובאפליקציות שלו, ובמוקד העניין של קהילת Product Hunt.",
     "d": "2026-04-30T02:13:16.000Z",
     "v": 0,
     "l": [
@@ -1049,7 +1023,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 44,
-    "t": "MailToDock\n\nDiscussion\n            |\n            Link",
+    "t": "MailToDock\n\nכלי חדש ב-Product Hunt שמאפשר להמיר הודעות אימייל ישירות למשימות בכל מקום שתרצו. נראה שזה כלי שחוסך זמן למי שמתעסקת עם תיבת הדוא\"ל בעירבול קבוע - פשוט שלחו הודעה וזהו, היא תופיע בכל מערכת ניהול משימות שאתם משתמשים בה. עוד משהו שנוסף לרשימה הארוכה של כלים שמנסים לסדר לנו את החיים הדיגיטליים.",
     "d": "2026-04-30T02:07:21.000Z",
     "v": 0,
     "l": [
@@ -1899,7 +1873,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 79,
-    "t": "KushoAI for Playwright\n\nDiscussion\n            |\n            Link",
+    "t": "KushoAI לPlaywright\n\nכלי חדש שמשלב AI עם Playwright כדי לאוטומציה בדיקות ויב בצורה חכמה יותר. במקום לכתוב סקריפטים ידנית, ה-AI יכול ליצור בדיקות אוטומטיות שמבינות את הזרימה של האתר שלך. זה בדיוק מה שמפתחים חיפשו - חסכון בזמן וכוח אדם בתהליך ה-QA.",
     "d": "2026-04-29T19:24:49.000Z",
     "v": 0,
     "l": [
@@ -2262,7 +2236,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 94,
-    "t": "Voice Agent API\n\nDiscussion\n            |\n            Link",
+    "t": "ממשק API לסוכן קול\n\nעכשיו אפשר לשלב סוכני קול חכמים ישירות לאפליקציות שלכם דרך API חדש וקל להשימוש. התחת הזה פותח עולם של אפשרויות לעסקים שרוצים להוסיף יכולות Voice AI ללא צורך בפיתוח מורכב משלהם.",
     "d": "2026-04-29T17:35:52.000Z",
     "v": 0,
     "l": [
@@ -2277,8 +2251,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -2553,7 +2526,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 106,
-    "t": "Crin AI\n\nDiscussion\n            |\n            Link",
+    "t": "Crin AI\n\nחברה חדשה בשם Crin AI עלתה לדיונים בקהילת Product Hunt, וזה כנראה משהו שיכול לשנות משהו בעולם ה-AI. אנחנו עדיין לא בטוחים בדיוק מה זה עושה, אבל אם זה מדי שם שם בפלטפורמה הזו, אז אמור להיות עניין. שווה להכנס ולראות מה כל הקול הזה בעניין.",
     "d": "2026-04-29T16:51:44.000Z",
     "v": 0,
     "l": [
@@ -2756,7 +2729,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 114,
-    "t": "Mistral Medium 3.5\n\nDiscussion\n            |\n            Link",
+    "t": "Mistral Medium 3.5\n\nמיסטראל הוציאה גרסה חדשה של מודל ה-AI שלה - Medium 3.5 - שנראה שהיא מנסה להתחרות ישירות עם מודלים בינוניים אחרים בשוק. זה קרוב לודאי שהמודל החדש מציע איזון טוב בין ביצועים לעלות, מה שיכול להיות מעניין לחברות שמחפשות פתרון AI בעלות סבירה. אנחנו עדיין מחכים להרגע מפרטים טכניים נוספים, אבל זה בטוח שחברות אחרות בתחום יתחרו על זה.",
     "d": "2026-04-29T16:27:11.000Z",
     "v": 0,
     "l": [
@@ -3256,7 +3229,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 134,
-    "t": "ElevenMusic\n\nDiscussion\n            |\n            Link",
+    "t": "ElevenMusic\n\nElevenLabs, החברה שמאחורי טכנולוגיית ה-AI קולית המובילה, הציגה עכשיו כלי חדש לייצור מוזיקה באמצעות בינה מלאכותית. הפרודוקט מאפשר ליוצרים וmusicers ליצור טראקים מוזיקליים באופן מהיר וקל, בלי צורך בידע מוזיקלי עמוק או ציוד יקר. זה עוד צעד בתהליך של דמוקרטיזציה יצירתית דיגיטלית שמשנה את תעשיית המוזיקה.",
     "d": "2026-04-29T14:42:03.000Z",
     "v": 0,
     "l": [
@@ -4260,7 +4233,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 176,
-    "t": "Invite Only\n\nDiscussion\n            |\n            Link",
+    "t": "רק בהזמנה\n\nנראה שמדובר בתוצר חדש שנמצא בשלב ייעודי ובעל גישה מוגבלת - כמו שרואים הרבה פעמים בקנטוב הסטארטאפים. אם אתם מעניינים, כנראה שצריך להצטרף לרשימת ההמתנה ולצפות בעדכונים בהמשך. Product Hunt תמיד מוצא את הדברים המגניבים האלה קודם לכולם!",
     "d": "2026-04-29T10:54:49.000Z",
     "v": 0,
     "l": [
@@ -4431,7 +4404,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 183,
-    "t": "WooTrack - POAS Plugin for WooCommerce\n\nDiscussion\n            |\n            Link",
+    "t": "WooTrack - תוסף POAS לחנויות WooCommerce\n\nכלי חדש שמעניין את בעלי החנויות באינטרנט - WooTrack היא תוסף שמחברת את WooCommerce עם מערכות ניהול מלאי מתקדמות, כדי לעזור לכם לעקוב אחרי ההזמנות והמלאי בצורה חכמה יותר. אם אתם מנהלים חנות דיגיטלית ורוצים להפוך את הלוג'יסטיקה לפחות כאב ראש, הנה הפתרון שחיפשתם.",
     "d": "2026-04-29T09:39:56.000Z",
     "v": 0,
     "l": [
@@ -4549,7 +4522,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 188,
-    "t": "Adoptly\n\nDiscussion\n            |\n            Link",
+    "t": "אדופטלי - פלטפורמה חדשה לאימוץ חיות מחמד\n\nמדובר בשירות חדש שמטרתו לחבר בין אנשים המחפשים לאמץ חיות מחמד לבין מקלטים וחברות הצלה. הפלטפורמה מפשטת את תהליך האימוץ ומאפשרת למחפשים לפרוץ בקלות בין חיות שונות עד שהם מוצאים את חברתם החדשה.",
     "d": "2026-04-29T09:21:02.000Z",
     "v": 0,
     "l": [
@@ -4740,7 +4713,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 196,
-    "t": "Sync-in\n\nDiscussion\n            |\n            Link",
+    "t": "סינק-אין\n\nנראה שמדובר בכלי חדש שמופיע ב-Product Hunt, אבל פרטים מלאים על מה בדיוק הוא עושה עדיין לא ברורים מההודעה המקוצרת הזו. אם אתם מתעניינים לדעת יותר, כנראה שצריך להיכנס לדיון או ללחוץ על הלינק שלהם. מקור: Product Hunt",
     "d": "2026-04-29T08:01:37.000Z",
     "v": 0,
     "l": [
@@ -4887,7 +4860,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 202,
-    "t": "Wonder\n\nDiscussion\n            |\n            Link",
+    "t": "Wonder\n\nנראה שזו הודעה קצרה על פרודקט חדש שהופיע ב-Product Hunt, אבל בלי פרטים ספציפיים לא ניתן לכתוב סיכום משמעותי. אם תשתפו את הקישור או תפרטו יותר על המוצר, נוכל לכתוב עבורכם סיכום מעניין וממוקד לקהל הישראלי. | מקור: Product Hunt",
     "d": "2026-04-29T06:48:52.000Z",
     "v": 0,
     "l": [
@@ -5410,7 +5383,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 224,
-    "t": "Mintlify Editor\n\nDiscussion\n            |\n            Link",
+    "t": "עורך Mintlify\n\nכלי חדש שמאפשר לדיeveloperים ליצור דוקומנטציה מקצועית בצורה הרבה יותר מהירה וקלה - בלי שצריך להיות כותב טכני מקצועי. אם אתם מעייפים מלכתוב תיעוד משעמם, הנה החדש שנכנס ל-Product Hunt היום.",
     "d": "2026-04-28T23:01:20.000Z",
     "v": 0,
     "l": [
@@ -5772,7 +5745,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 239,
-    "t": "Tinfoil\n\nDiscussion\n            |\n            Link",
+    "t": "Tinfoil\n\nפרויקט חדש שעלה ל-Product Hunt, אבל הפרטים עדיין מעט עלומים. זה נראה כמו משהו שיכול להיות קשור לבטיחות או פרטיות (בהתאם לשם), אבל נצטרך להמתין לעוד מידע כדי להבין בדיוק למה יכול להיות שימוש. מוזמנים לבדוק את הדיון המלא ברשת כדי לתפוס את כל הפרטים.",
     "d": "2026-04-28T19:37:49.000Z",
     "v": 0,
     "l": [
@@ -6742,7 +6715,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 279,
-    "t": "ElevenLabs Agent Templates\n\nDiscussion\n            |\n            Link",
+    "t": "תבניות Agent של ElevenLabs\n\nElevenLabs משיקה תבניות חדשות ל-AI agents שלהם, שמאפשרות למפתחים להתחיל מהר יותר בבניית agents עם יכולות speech עשירות. התבניות האלו מגיעות עם קונפיגורציה מוכנה של כלים ו-API שיחסוך על כל מי שרוצה לבנות בוט חכם עם voice interaction. זה חלק מהמהלך של ElevenLabs להפוך את ה-voice AI לנגיש יותר לכולם.",
     "d": "2026-04-28T15:04:29.000Z",
     "v": 0,
     "l": [
@@ -10026,7 +9999,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 417,
-    "t": "doola MCP for US LLC Formation\n\nDiscussion\n            |\n            Link",
+    "t": "doola MCP - פתרון חדש ליצירת LLC בארה\"ב\n\ndoola משיקה MCP (Model Context Protocol) שמפשט את תהליך הקמת חברת LLC בארצות הברית. הכלי החדש מאפשר למעמדות טכנולוגיים ליצור ממשק קל יותר עם שירותי היווסוד של doola, וזו דוגמה נוספת של אינטגרציה של AI tools בתחום ייזום עסקים.",
     "d": "2026-04-27T17:44:10.000Z",
     "v": 0,
     "l": [
