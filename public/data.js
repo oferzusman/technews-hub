@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "DJI announces entry-level but fully capable Lito Series drones\n\nDJI is one of the leading manufacturers of drones for aerial photography and videography. As social media continues to grow, beginners and content creators are seeking lightweight, easy-to-use devices for short-form video. DJI’s latest releases are designed to meet that demand.\nContinue Reading\nCategory: Drones, Consumer Tech, Technology\nTags: DJI Innovations, Camera drone, Quadcopter",
+    "t": "DJI משיקה סדרת Lito - רחפנים חדשים לכל אחד ללא ויתורים\n\nDJI הביאה לשוק סדרה חדשה של רחפנים שנועדה לתוכן קריאייטורים וביקורים שרוצים משהו קל ונוח לעבודה עם TikTok ו-Reels. הרחפנים החדשים של DJI מציעים יכולות מלאות - מצלמה איכותית וביצועים טובים - מבלי להכביד על הכיס או על התא שלך. זה בדיוק מה שהיוצרים החדשים שלנו מחכים לו.",
     "d": "Thu, 30 Apr 2026 17:30:00 GMT",
     "v": 0,
     "l": [
@@ -16,16 +16,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "New Atlas"
   },
   {
     "id": 2,
-    "t": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too\n\nLink lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
+    "t": "Stripe משיקה את Link - ארנק דיגיטלי שגם AI agents יכולים להשתמש בו\n\nLink מאפשר למשתמשים לחבר כרטיסי אשראי, חשבונות בנק והנדסי בחיתוך, ואז לתת ל-AI agents אישור להוצאת כסף בצורה מאובטחת דרך מערכת אישור חכמה. בעצם, Stripe פתחה דלת חדשה לתשלומים אוטונומיים - עכשיו גם ה-bots שלכם יוכלו לשלם בעצמם, אבל תמיד עם אישורכם. מהלך די חזוי בעולם שבו AI agents הופכים ליותר ויותר עצמאיים בביצוע משימות.",
     "d": "Thu, 30 Apr 2026 17:15:19 +0000",
     "v": 0,
     "l": [
@@ -41,8 +40,6 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "robotics",
-      "regulation",
       "agents"
     ],
     "imp": "low",
@@ -51,7 +48,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Blue Owl shares surge after private credit firm cites 10X gains from SpaceX\n\nBlue Owl said it's made 10 times its investment in SpaceX, which is headed for a record IPO later this year.",
+    "t": "מניות Blue Owl עלו לאחר שחברת אשראי פרטי דיווחה על רווח של 10X בSpaceX\n\nBlue Owl חושפת שהרוויחה 10 פעמים את השקעתה ב-SpaceX, וזה פשוט מגניב - במיוחד כשמאסק מכין הנפקה ציבורית ענקית השנה. ההשקעה הזאת של קרן האשראי הפרטי עשויה להיות אחת מהתרומות הטובות ביותר לתיקיה שלהם, ובגלל זה השוק מחזיק בדיווח הטוב הזה בשמחה.",
     "d": "Thu, 30 Apr 2026 17:10:27 GMT",
     "v": 0,
     "l": [
@@ -66,8 +63,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -75,7 +71,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Meta tanks 9%, Alphabet climbs 7% as each company raises capex spend\n\nBoth Alphabet and Meta said they expect their capital expenditures to keep growing this year, but investors sent Alphabet's shares up, while Meta's stock slid.",
+    "t": "Meta צונחת 9%, Alphabet עולה 7% - שתי חברות מגדילות הוצאות הון\n\nגוגל ומטא הודיעו ששניהם מתכננות להמשיך להשקיע מיליארדים ב-capex השנה, אבל בורסה הראתה סימפטומים של שיזופרניה - Alphabet זיהה סיגנל ירוק וקיפצה 7% למעלה, בעוד Meta טונחת 9% למטה. נראה שהשוק עדיין לא בטוח מה בדיוק יוצא מכל ההוצאות האלו על AI ותשתיות.",
     "d": "Thu, 30 Apr 2026 16:49:00 GMT",
     "v": 0,
     "l": [
@@ -93,16 +89,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 5,
-    "t": "Meta is running get-rich-quick ads for its AI tools\n\nManus, an AI company Meta acquired for $2 billion last year is running ads promising quick, easy money with AI: Find local businesses without websites or with bad websites, have AI build them one, then call them up and sell it to them.\nAs part of the campaign, Manus was paying content creators to build out Instagram, YouTube, and TikTok accounts that promote its AI product as an easy, lucrative gig. (The creators' TikTok accounts were taken down after The Verge inquired about them.) Some of thes",
+    "t": "Meta משיווקת את כלי ה-AI שלה עם פרומו של עשיר במהירות\n\nמנוס, החברה שקנתה Meta ב-2 מיליארד דולר, מפיצה מודעות שמבטיחות כסף קל - למצוא עסקים קטנים ללא אתר או עם אתר גרוע, להשתמש ב-AI כדי לבנות להם אחד, ואז לתקשר איתם ולמכור להם את זה. כחלק מהקמפיין הזה, Manus שלמה ליוצרי תוכן כדי לבנות חשבונות ב-Instagram, YouTube ו-TikTok שמקדמים את המוצר כ-gig קל וחד-פעמי (חשבונות TikTok של היוצרים הוסרו אחרי שThe Verge פנתה אליהם).",
     "d": "2026-04-30T16:48:13.000Z",
     "v": 0,
     "l": [
@@ -120,16 +115,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 6,
-    "t": "Talent over tokens: AI models are becoming more expensive to run, and productivity gains are limited — efficient workers might be the solution to strained budgets\n\nMajor firms are finding the rising costs of AI hard to manage, as human workers are now often more affordable alternatives to AI within certain contexts. With many platforms switching to per-token billing and rising model costs, we may be reaching an inflection point where human workers are a more efficient way to spend.",
+    "t": "כישרון על תעודות: מודלי AI הופכים יקרים יותר להפעלה, ושיפור הפרודוקטיביות מוגבל — עובדים יעילים עלולים להיות הפתרון\n\nחברות גדולות מגלות שהעלויות ההולכות וגדלות של AI קשות לניהול, וכל יום יותר עובדים אנושיים הופכים לאלטרנטיבה משתלמת יותר מ-AI בהקשרים מסוימים. עם המעבר של פלטפורמות רבות לתמחור למודל per-token וגדילת עלויות המודלים, אנחנו עלולים להגיע לנקודת שיווי משקל שבה השקעה בעובדים יעילים היא בעצם הדרך החסכונית יותר להוציא כסף.",
     "d": "Thu, 30 Apr 2026 16:47:46 +0000",
     "v": 0,
     "l": [
@@ -152,7 +146,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Brain-inspired chip could reduce AI energy use by 70%\n\nReplicating the brain's capabilities, an impossible task, may theoretically require thousands of H100, one of NVIDIA's most powerful GPUs. At 700 watts per chip, we are looking at power consumption in the megawatt range. The brain runs on 20 watts. Scientists have taken inspiration from this remarkable organ to create chips that could cut conventional energy use by 70%.\nContinue Reading\nCategory: AI and Humanoids, Technology\nTags: University of Cambridge, Memristor, Biomimicry, Brain",
+    "t": "שבב בהשראת המוח יכול להפחית צריכת אנרגיה של AI ב-70%\n\nמדענים מאוניברסיטת קיימברידג' פתחו דרך חדשה לחסוך אנרגיה ענקית בעולם ה-AI - שבב שמחקה את דרך הפעולה של המוח האנושי. בזמן שה-GPU החזקים של NVIDIA דוקרים מגוואט של חשמל כדי לחקות את יכולות המוח, אנחנו יודעים שהמוח עצמו צורך רק 20 וואט. התוצאה? ממצא שיכול להפחית צריכת אנרגיה ב-70% לעומת השיטות הקונבנציונליות שאנחנו משתמשים היום.",
     "d": "Thu, 30 Apr 2026 16:30:00 GMT",
     "v": 0,
     "l": [
@@ -178,7 +172,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "Jim Cramer crowns Alphabet the hyperscale earnings winner, sees more upside ahead\n\nJim Cramer named Alphabet the standout among big tech earnings, citing clear AI monetization as the reason the stock should continue to climb.",
+    "t": "ג'ים קריימר הכתיר את אלפابט כמנצחת הטכנולוגיה הענקית, צופה בעוד עליות בדרך\n\nקריימר זיהה את אלפابט כהבולטת בין ענקיות הטק בעונת הדוחות, והעלה את האצבע על כך שחברה הצליחה לממש את הפוטנציאל של AI בצורה ממשית ויעילה. לפי ניתוח זה, יש עוד מקום לעלייה משמעותית במחיר המניה של גוגל בקרוב.",
     "d": "Thu, 30 Apr 2026 16:21:39 GMT",
     "v": 0,
     "l": [
@@ -201,7 +195,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "RFK Jr. appeals ruling that wiped out his vaccine advisory panel\n\nThere was uncertainty about whether Kennedy would fight or simply try an end run.",
+    "t": "RFK ג'וניור משערר על החלטה שביטלה את הוועדה הייעוצית שלו בנושא חיסונים\n\nהיה ספק האם קנדי יתאבק על ההחלטה או פשוט ינסה עקיפה משפטית - והנה הוא בוחר בקרב משפטי מלא. ההחלטה שביטלה את הוועדה הזו נחשבה משמעותית במחלוקת סביב מדיניות החיסונים בארה״ב.",
     "d": "Thu, 30 Apr 2026 16:20:45 +0000",
     "v": 0,
     "l": [
@@ -224,7 +218,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Jim Cramer: Don’t let Meta’s post-earnings plunge scare you out of the stock\n\nAlthough the stock is headed for its worst day in six months, Cramer remains a firm believer in CEO Mark Zuckerberg's vision.",
+    "t": "ג'ים קריימר: אל תתנו למפולת מטא אחרי דוחות הרווחים להפחיד אתכם\n\nלמרות שהמניה צונחת לרמה הנמוכה ביותר שלה ב-6 חודשים, קריימר עדיין משוכנע שהוויזיון של מארק צוקרברג הוא הנכון. הוא מציע למשקיעים לא להיכנס לפניקה בגלל התנודות קצרות הטווח בבורסה.",
     "d": "Thu, 30 Apr 2026 16:15:19 GMT",
     "v": 0,
     "l": [
@@ -237,12 +231,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -250,7 +241,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "Jim Cramer is far from impressed with Microsoft earnings. Here's why\n\nMicrosoft's quarter was \"not joyous,\" CNBC's Jim Cramer said on CNBC on Thursday.",
+    "t": "ג'ים קריימר לא מרשים עם הרווחים של מיקרוסופט. וזה למה\n\nמיקרוסופט לא הפליאה את ג'ים קריימר בעונה האחרונה - ההוא אפילו כינה את התוצאות \"לא משמחות\" בשידור ב-CNBC ביום חמישי. למראה הדברים, גם עם כל ההייپ סביב AI והענקיות של מיקרוסופט, משהו לא עבד לו כמו שצריך בדוח הרווחיות הזה.",
     "d": "Thu, 30 Apr 2026 16:14:39 GMT",
     "v": 0,
     "l": [
@@ -263,12 +254,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -276,7 +264,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Pirate RPG game is secretly looting your SSD lifespan — new Windrose patch promises smoother sailing and addresses excessive disk writing\n\nGamers have reported that Windrose is consuming abnormally high disk I/O while playing, with up to 30 MB/s of constant read/write activity to the drive across most areas of the game world.",
+    "t": "משחק הפיראטים Windrose אוכל את ה-SSD שלך - תיקיה חדשה מבטיחה להקל על הכתיבה המטורפת\n\nגיימרים דיווחו שWindrose כותבת וקוראת מהדיסק בקצב מטורף של עד 30 MB/s כמעט בכל מקום במשחק, דבר שמאיץ את בלאי ה-SSD בקצב מחריד. המפתחים תופסים אתגר ובאים עם פיקס שצריך להקל כמעט מאה אחוז על הבעיה הקשה הזו.",
     "d": "Thu, 30 Apr 2026 16:11:57 +0000",
     "v": 0,
     "l": [
@@ -293,13 +281,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/w4qwGwHUf2nk8v9qP9h9ZB-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 13,
-    "t": "Salesforce is crowdsourcing its AI roadmap — with customers\n\nSalesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too.",
+    "t": "סיילספורס מעניקה לגרוקמים את ההנהגה של מפת הדרכים של ה-AI שלה\n\nסיילספורס החליטה שלא הם יגידו למה צריך AI, אלא הגרוקמים - כי אם חברה אנטרפריז גדולה יש לה בעיה מסוימת, בטוח שיש אותה גם לעוד עשר. זה כמו שהחברה אומרת: בואו תגידו לנו מה כואב לכם, ואנחנו נתקן את זה ביחד. די חכם אם אתם שואלים אותנו - אל תתכננו בחדר סגור, תשמעו למי שבעצם משתמש בהמון.",
     "d": "Thu, 30 Apr 2026 16:06:49 +0000",
     "v": 0,
     "l": [
@@ -322,7 +310,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Gemini sets sights on derivatives expansion after winning key U.S. regulatory approval\n\nExchanges are leaning into products like event contracts and futures as a way to stabilize revenue that otherwise swings with crypto prices.",
+    "t": "ג'מיני מתכננת להרחיב לנגזרות לאחר קבלת אישור רגולטורי חיוני בארה״ב\n\nפלטפורמת הקריפטו ג'מיני מעיינת בהרחבת תיקייה להכללת חוזי אירועים וחוזים עתידיים, במטרה לייצב את הכנסות הבורסה שמתנדנדות עם מחירי הקריפטו. זהו צעד אסטרטגי של הפלטפורמה להפחית תלות בתנודות השוק ולהציע למשקיעים כלים מימון יותר מגוונים.",
     "d": "Thu, 30 Apr 2026 16:06:19 GMT",
     "v": 0,
     "l": [
@@ -335,12 +323,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -348,7 +333,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "Musk faces third day of questioning in contentious trial over OpenAI’s founding\n\nTrial continues after heated back and forth during OpenAI’s cross-examination of the Tesla CEO on Wednesday\nElon Musk’s court case against Sam Altman continues on Thursday, after a day of contentious exchanges during OpenAI’s cross-examination of the Tesla CEO. Musk will face another round of questioning before his lawyer calls more witnesses, including OpenAI’s president, Greg Brockman.\nWitness testimony and evidence has revealed formerly private emails, text messages and diary entries surround",
+    "t": "מאסק עומד לשלישי לחקירה כללית במשפט סוער על ייסודה של OpenAI\n\nהתביעה של אילון מאסק נגד סם אלטמן מתחזקת ביום שלישי, לאחר יום מלא מחלופים קשים בחקירה הנגדית של OpenAI למנכ״ל טסלה. מאסק עוד ייתוודע לשאלות קשות, וזה כשהעדים של צידו כולל את נשיא OpenAI, גרג ברוקמן, אמורים להעיד בעניין היחסים המסובכים בין שני המועדים על המייל, הודעות וכתבי יומן פרטיים שחשפו לראשונה במשפט.",
     "d": "Thu, 30 Apr 2026 16:03:35 GMT",
     "v": 0,
     "l": [
@@ -366,8 +351,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/ede06f3c5b4f0f71b830a9cc619734efd42d5f49/321_0_3212_2571/master/3212.jpg?width=140&quality=85&auto=format&fit=max&s=765ae018c06dbc05a304e36976a59ec8",
@@ -375,7 +359,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "Apple eyes iPhone growth in first earnings report since Tim Cook's announced exit\n\nApple is expected to report roughly 20% growth in iPhone revenue as the popularity of the company's flagship device shows no sign of waning.",
+    "t": "אפל מסתכלת על גדילת אייפון בדוח הרווחים הראשון מאז הכרזת יציאת טים קוק\n\nאפל צפויה להדווח על גדילה של כ-20% בהכנסות אייפון, מה שמעיד שהאהדה לטלפון הדגל של החברה לא מראה שום סימן של התضעלפות. בדוח זה, שיפורסם לראשונה לאחר ההכרזה על פרישת טים קוק מתפקידו כמנכ\"ל, נוכל לראות כיצד הביצועים של אפל ממשיכים להשתנות.",
     "d": "Thu, 30 Apr 2026 16:00:01 GMT",
     "v": 0,
     "l": [
@@ -388,20 +372,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Apple"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 17,
-    "t": "Gemini is rolling out to cars with Google built-in\n\nHere’s an early look at the new Gemini assistant on a vehicle infotainment system. | Image: Google\t\n\nGoogle is preparing to update vehicles that have Google built-in with its Gemini AI assistant.  This will be an upgrade from the current Google Assistant according to Google's announcement, and promises to provide an improved experience for natural conversations, fetching vehicle-specific information, settings adjustments, and more.\n\"When cars with Google built-in first hit the road in 2020, we m",
+    "t": "Gemini מגיע לרכב עם Google built-in\n\nגוגל משדרגת את עוזר הקול בכוללי שלה - Gemini החדש מחליף את Google Assistant בתוך המכוניות ומביא איתו שיחות בטבעי ויותר חכמות, קבלת מידע ספציפי לרכב, והתאמת הגדרות. בעצם, כל מה שאתם רוצים לעשות עם קול - אבל עכשיו עם כוחה של Gemini.",
     "d": "2026-04-30T16:00:00.000Z",
     "v": 0,
     "l": [
@@ -427,7 +408,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "Here&#8217;s how the new Microsoft and OpenAI deal breaks down\n\nMicrosoft's relationship with OpenAI has always been complicated, so I expected the close partnership-turned-situationship to end in tears. After all, executive disagreements, rearranged contracts, and frustrations over AI infrastructure have all regularly been part of the partnership, creating plenty of tension along the way. But against all odds, Microsoft and OpenAI divorced this week in a way that looks strangely amicable.\nMicrosoft announced the updates to its long-standing OpenAI deal on M",
+    "t": "ככה מתפצלת ההסכם החדש בין מיקרוסופט ל-OpenAI\n\nאחרי שנים של קשר מסובך בין מיקרוסופט ל-OpenAI עם המון דרמה ויצירת מתחים, בסוף השבוע השניים הכריזו על הסדר גירושין שנראה... לא כזה רע? מיקרוסופט וOpenAI הודיעו על עדכונים להסכם הקשור ביניהם שיכול להשנות משמעותית את הנוף של AI בתעשייה בישראל ובעולם. מדובר בדבר ש-Microsoft וOpenAI יעבדו יותר ביתר בלוקים נפרדים, אבל בדרך שנראית כמעט משפחתית.",
     "d": "2026-04-30T16:00:00.000Z",
     "v": 0,
     "l": [
@@ -449,13 +430,13 @@ window.TELEGRAM_DATA = [
       "model",
       "product"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 19,
-    "t": "What LG and NVIDIA’s talks reveal about the future of physical AI\n\nLG is currently engaged in exploratory discussions with NVIDIA concerning physical AI, data centres, and mobility. Following a meeting in Seoul between LG CEO Ryu Jae-cheol and Madison Huang, Senior Director of Product Marketing for Omniverse and Robotics at NVIDIA, the core operational dependencies required to run complex automated systems are becoming apparent. While the […]\nThe post What LG and NVIDIA’s talks reveal about the future of physical AI appeared first on AI News.",
+    "t": "מה השיחות בין LG לנווידיה חושפות על עתיד ה-Physical AI\n\nLG ונווידיה בדיונים מתקדמים על Physical AI, data centers ו-mobility - וזה מגיד לנו כמה חשוב יהיה התשתית של GPU ומחשוב עמוק לרובוטים ומערכות אוטומציה בעתיד. הפגישה בסיאול בין מנכ\"ל LG לנציגי הענק הטכנולוגי חושפת שהדברים האמיתיים מתרחשים לא במעבדות אלא בעולם הפיזי, והצלחתם תלויה בתשתיות הנכונות. עבור תחום ה-AI בישראל, זה אות חשובה שהטכנולוגיה עוברת שלב - מצ'ט בוטים לכיוון מערכות חכמות שמתחברות לעולם האמיתי.",
     "d": "Thu, 30 Apr 2026 15:59:54 +0000",
     "v": 0,
     "l": [
@@ -473,8 +454,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "hardware",
-      "robotics"
+      "hardware"
     ],
     "imp": "low",
     "thumb": null,
@@ -482,7 +462,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "This startup’s new mechanistic interpretability tool lets you debug LLMs\n\nThe San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built than was once thought possible. Goodfire claims Silico…",
+    "t": "כלי חדש של סטארטאپ מאפשר לך לתקן LLMs בקלות\n\nGoodfire, סטארטאפ מסן פרנסיסקו, השיקה כלי חדש בשם Silico שמאפשר לחוקרים ומהנדסים להציץ פנימה למודלי AI ולהתאים את הפרמטרים שלהם בזמן האימון. זה נותן לבונים של מודלים שליטה הרבה יותר עדקה על איך הטכנולוגיה הזאת בנויה, משהו שלא חשבו שאפשרי עד עכשיו. במילים פשוטות - יותר קל לעכשיו לדעת מה קורה בפנים של ה-AI ולתקן דברים שלא עובדים טוב. מקור: MIT Technology Review",
     "d": "Thu, 30 Apr 2026 15:59:41 +0000",
     "v": 0,
     "l": [
@@ -505,7 +485,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "Google cloud growth tops Microsoft and Amazon as all three beat estimates on AI demand\n\nAmazon, Google and Microsoft all reported better-than-expected first-quarter cloud results, signaling an acceleration of AI demand",
+    "t": "Google Cloud גדלה יותר מ-Microsoft ו-Amazon - כל שלוש חברות עברו הערכות בגלל ביקוש ל-AI\n\nאמזון, גוגל ומיקרוסופט כולן דיווחו על תוצאות ענן טובות יותר מהצפוי ברבעון הראשון, מה שמעיד על האצה משמעותית בביקוש ל-AI. בתחרות הענקיות בחוק, גוגל עפה הגבוה ביותר ושתי היריבות האחרות גם ממילא הרווחו מפיצוץ ההשקעות בבינה מלאכותית.",
     "d": "Thu, 30 Apr 2026 15:58:18 GMT",
     "v": 0,
     "l": [
@@ -528,13 +508,13 @@ window.TELEGRAM_DATA = [
       "model",
       "product"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 22,
-    "t": "A vacuum company is somehow building the world's quickest car\n\nYou might recognize Dreame as a fast-growing electronics brand from China that specializes in vacuum cleaners. Somehow, it's found time in its busy dust-buster-manufacturing schedule to stick a couple of rocket boosters on a sportscar and engineer the living daylights out of it... to the point that it's expected to hit a never-seen-before 0-60 mph (0-100 km/h) time of 0.9 seconds.\nContinue Reading\nCategory: Automotive, Transport\nTags: Electric Vehicles, Concept Vehicle",
+    "t": "חברת שואבי אבק בונה את המכונית המהירה ביותר בעולם\n\nDreame, החברה הסינית שכולנו מכירים מפרסומות לשואבי אבק חכמים, החליטה לקחת שבר מהעסק הראשי וללחוץ על דוושת הגז - והם בנו מכונית ספורט חשמלית עם ביצועים משוגעים שצפויה להגיע מ-0 ל-100 קילומטר בשעה ב-0.9 שניות בלבד. זה פשוטו כמשמעו שיא עולמי שלא נראה מעולם, ואנחנו עדיין מנסים להבין איך החברה הספיקה לעשות את זה בין ייצור סטנדרטי של שואבי אבק.",
     "d": "Thu, 30 Apr 2026 15:57:00 GMT",
     "v": 0,
     "l": [
@@ -557,7 +537,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "Jim Cramer says Amazon going up another 15% and 'not stopping' there\n\nCNBC's Jim Cramer explained why he's bullish on Amazon after the company delivered one of the strongest quarters he's seen.",
+    "t": "ג'ים קריימר: אמזון עוד עולה 15% ו'לא עוצרת' שם\n\nמנתח CNBC הידוע קריימר מסביר למה הוא משוכנע לגבי אמזון לאחר שהחברה הפיקה רבעון אחד החזקים ביותר שראה בשנים האחרונות. על פי קריימר, אין סוף לעלייה שעומדת להגיע למניית הענקית הטכנולוגית בקרוב.",
     "d": "Thu, 30 Apr 2026 15:37:56 GMT",
     "v": 0,
     "l": [
@@ -570,12 +550,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -583,7 +560,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 24,
-    "t": "In motorsport, there's nowhere to hide as AI becomes new CFD tool\n\nAI finds value in motorsport, multiplying limited computational fluid dynamics resources.",
+    "t": "בספורט מוטור אין מקום להסתתר - AI הופך לכלי CFD חדש\n\nAI משנה את המשחק בעולם המוטורספורט על ידי הכפלת משאבי החישוב המוגבלים של CFD. כשכל אלפית שנייה חשובה, הטכנולוגיה החדשה מאפשרת לקבוצות לעשות יותר עם פחות - ולא משאירה מקום לתחרות להסתתר מהתחרות.",
     "d": "Thu, 30 Apr 2026 15:37:41 +0000",
     "v": 0,
     "l": [
@@ -606,7 +583,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "A Coding Implementation on Pyright Type Checking Covering Generics, Protocols, Strict Mode, Type Narrowing, and Modern Python Typing\n\nA Coding Implementation on Pyright Type Checking Covering Generics, Protocols, Strict Mode, Type Narrowing, and Modern Python Typing\nThe post A Coding Implementation on Pyright Type Checking Covering Generics, Protocols, Strict Mode, Type Narrowing, and Modern Python Typing appeared first on MarkTechPost.",
+    "t": "מדריך מעשי ל-Pyright: בדיקת טיפוסים מתקדמת עם Generics, Protocols ו-Type Narrowing\n\nדיווח על מדריך טכני שכסה את כל הפונקציונליות של Pyright, כלי בדיקת הטיפוסים החזק לפייתון. המדריך מציג תוך עיסוק עמוק בתכונות מתקדמות כמו Generics, Protocols ו-Strict Mode שמאפשרות למפתחים לכתוב קוד בטוח יותר וללא באגים. אם אתם עובדים עם Python בצורה סדירה, הטיפים הנה יכולים לשנות את דרך כתיבת הקוד שלכם.",
     "d": "Thu, 30 Apr 2026 15:33:36 +0000",
     "v": 0,
     "l": [
@@ -629,7 +606,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 26,
-    "t": "Crucial Taiwan undersea cable severed by old shipwreck — backup microwave communications activated to keep population connected\n\nBad weather has caused a shipwreck to shift from its original position on the seafloor, severing a crucial undersea link between Dongyin and Beigan islands. These two islands are strategically located near the Chinese coast and the northern mouth of the Taiwan Strait and reportedly have a heavy military presence of Taiwanese troops.",
+    "t": "כבל תקשורת תת-ימי קריטי של טייוואן נקطע בגלל אונית沉 ישנה — תקשורת מיקרוגל גיבוי הופעלה כדי לשמור על חיבור האוכלוסייה\n\nמזג אוויר קשה גרם לאניית טביעה שנמצאת על קרקעית הים להיסחף מממקומה המקורי, וחתך כבל תקשורת קריטי בין איים דונגיין וביגן של טייוואן. שני האיים הללו ממוקמים באופן אסטרטגי בקרבת החוף הסיני וסביב הפתח הצפוני של ישר טייוואן, ולפי הדיווחים יש בהם נוכחות צבאית כבדה של כוחות טייוואניים. בתגובה, הרשויות הפעילו מערכת תקשורת מיקרוגל גיבוי כדי לשמור על החיבור של האוכלוסייה בתקופת הטיפול בתקלה.",
     "d": "Thu, 30 Apr 2026 15:33:27 +0000",
     "v": 0,
     "l": [
@@ -646,13 +623,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/7VACUqLSZwHokhrsGEUFQa-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 27,
-    "t": "The naps that are red flags as we age, backed by two decades of data\n\nNaps are one of life's pleasures, but as we age, they can also be an early sign of health issues we're unaware of. These findings are thanks to a groundbreaking study of more than 1,000 people who had their daytime naps tracked for up to 19 years.\nContinue Reading\nCategory: Sleep, Wellness and Healthy Living, Body and Mind\nTags: Massachusetts General Hospital, Cognitive functioning, Chronic illness, Age-Related, Diagnostic tools, Sleep monitors, Health",
+    "t": "התנומות האדומות שמסמנות אזהרה עם הגיל - מחקר בן שני עשורים\n\nמחקר ענק שעקב אחרי יותר מ-1,000 אנשים למשך 19 שנים גילה שהתנומות בחוץ עשויות להיות פעמון אזהרה לבעיות בריאות שלא יודעים עליהן. תרדמת בחוץ, שנראית כמו משהו סתום וטבעי, יכולה להוות אינדיקטור מוקדם למחלות כרוניות ובעיות בתפקוד הקוגניטיבי. אז בפעם הבאה שתרצו להתנמנם אחרי ארוחת צהריים, כדאי שתשקלו מה זה אומר על בריאותכם. - New Atlas",
     "d": "Thu, 30 Apr 2026 15:27:37 GMT",
     "v": 0,
     "l": [
@@ -669,13 +646,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "New Atlas"
   },
   {
     "id": 28,
-    "t": "X announces a rebuilt ad platform powered by AI\n\nX is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again.",
+    "t": "X משיקה פלטפורמת פרסום חדשה המופעלת בעזרת AI\n\nX משקיעה בשחזור מלא של מערכת הפרסומות שלה עם AI בחזית, בנסיון להציל את הכנסות הפרסומות שלה. החברה מקווה שהטכנולוגיה החדשה תעזור למפרסמים להגיע ליעדים בצורה חכמה יותר ותחזיר את המודל העסקי של הפלטפורמה למסלול הרווחי.",
     "d": "Thu, 30 Apr 2026 15:14:55 +0000",
     "v": 0,
     "l": [
@@ -692,13 +669,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 29,
-    "t": "Jim Cramer sees these 2 stocks as buys after a busy night of Big Tech earnings\n\nThe Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "t": "ג'ים קריימר בחר 2 מניות טק ענק שכדאי לקנות אחרי לילה עמוס של ריזולטים\n\nאחרי שבוע שוטף של דיווחי הכנסות של ענקי הטכנולוגיה, קריימר וקבוצת המשקיעים שלו התכנסו בישיבת הבוקר שלהם בכדי לאתר את ההזדמנויות הטובות ביותר בשוק. הם מעיפים מבט לשתי מניות שמעניינות אותם במיוחד לאחר הטלטלה הערב.",
     "d": "Thu, 30 Apr 2026 15:03:27 GMT",
     "v": 0,
     "l": [
@@ -721,7 +698,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 30,
-    "t": "All these smart glasses and nothing to do\n\nDespite only having one face, I made testing work.\t\n\nI'm currently wearing a pair of smart glasses called the Even Realities G2. Another two pairs, from Rokid, sit on my desk. A few feet away, I've got the Meta Ray-Ban Display charging alongside their Neural Wristband. In my closet are six pairs of $50 smart sunnies that an overzealous Walmart rep sent me. Those sit next to some Xreal, RayNeo, and Lucyd glasses, plus an old pair of Razer Anzu. Later, I'm calling my optician because I'm hoping to",
+    "t": "כל המשקפיים החכמים האלה ואין מה לעשות איתם\n\nכתב מהווריג' בודק משקפיים חכמים מעל בראשו - מה'Even Realities G2' של אבן ועד לקולקציה מטורפת של משקפיים מ-Meta, Rokid, Xreal ועוד מותגים שהצטברו בדרך. התחושה? יש לנו חומרה מדהימה אבל עדיין אין יישומים שווי-ערך שיוצדקו את ההשקעה הזו, וזה בדיוק הבעיה שעוד צריכה לפתור.",
     "d": "2026-04-30T15:00:00.000Z",
     "v": 0,
     "l": [
@@ -739,8 +716,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -748,7 +724,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 31,
-    "t": "OpenAI trial recap: Musk cross-examination gets heated with Altman's lawyer on day 3\n\nElon Musk sued OpenAI, Sam Altman and Greg Brockman in 2024, claiming they reneged on their promise to keep the artificial intelligence lab a nonprofit.",
+    "t": "משפט OpenAI: חקירת הנגד של מאסק התחממה ביום השלישי עם עורך דינו של אלתמן\n\nמאסק תבע את OpenAI, סם אלתמן וגרג ברוקמן בטענה שהם בגדו בהבטחה לשמור על מעבדת ה-AI כ-nonprofit. בעדות לוהטת היום השלישי, הצדדים התעמתו על כל אחד מ-180 מיליון דולר שטוענים שמגיעים לו - וברור שהמשפט הזה הוא לא רק על כסף, אלא על מי באמת השתנה דעותיו לאורך השנים.",
     "d": "Thu, 30 Apr 2026 14:47:06 GMT",
     "v": 0,
     "l": [
@@ -766,8 +742,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -775,7 +750,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 32,
-    "t": "Samsung and SK hynix warn AI-driven memory shortages could last until 2027 and beyond, as HBM demand explodes — customers already reserving supply years ahead, while the wider DRAM market begins to tighten\n\nSamsung and SK hynix warn that severe AI-driven memory shortages could persist through 2027 as exploding HBM demand overwhelms supply, tightens the broader DRAM market, and fuels record profits",
+    "t": "Samsung ו-SK hynix מזהירות: גירעון בזיכרון מונע AI עלול להימשך עד 2027 ומעבר - הביקוש ל-HBM מתפוצץ וחברות כבר מזמינות מראש לשנים\n\nסמסונג והיינקס זה מעל וזה מתחת כשמדברים על משבר הזיכרון שלנו - הביקוש המטורף ל-HBM מכיוון של ה-AI כל כך גדול שהם מזהירים שעד 2027 עדיין נהיה בבעיה. בינתיים, לקוחות כבר מתחנן להם על זיכרון שיגיע רק בעוד שנים, וגם שוק ה-DRAM הרחב מתחיל להיות צר - אבל לחברות זה טוב, מאוד טוב להן.",
     "d": "Thu, 30 Apr 2026 14:46:57 +0000",
     "v": 0,
     "l": [
@@ -798,7 +773,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 33,
-    "t": "Newegg finally has a worthwhile Intel combo that includes memory, saving almost $240 — snag an Intel Core Ultra 7 270K Plus, ASRock Z890 motherboard, and 32GB of GSkill Trident Z5 DDR5 RAM for only $768.34\n\nGet $239.98 off this Newegg Intel bundle - Score a Core Ultra 270K Plus, 32GB G.Skill Trident Z5 RAM, and an ASRock Z890 Pro RS motherboard for only $768.34",
+    "t": "סוף סוף! Newegg מציעה חבילת Intel שווה במחיר - Core Ultra 7 270K, לוח אם ASRock וזכרון 32GB ב-768 דולר בלבד\n\nNewegg זרקו הנחה ענקית של 240 דולר על חבילת Intel כוללת שכוללת את ה-Core Ultra 270K Plus, 32GB של RAM DDR5 מ-G.Skill ולוח אם ASRock Z890 Pro RS - הכל ב-768.34 דולר בלבד. זה יום טוב למי שחיפש סט שלם לבנייה חדשה של מחשב גיימינג או עבודה בעלות סבירה. דיל שכזה לא מופיע כל יום, אז אם חשבתם על עדכון - זה הזמן.",
     "d": "Thu, 30 Apr 2026 14:27:30 +0000",
     "v": 0,
     "l": [
@@ -821,7 +796,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 34,
-    "t": "This cargo ebike could replace your family car but fits in your closet\n\nMost electric cargo bikes live in garages, because that's the only place big enough to put them. JackRabbit's new MG Cargo is so slim it can live in a closet or a hallway. It will still carry your kids, a week's worth of groceries, or an adult passenger on the back – all on a frame that weighs less than a suitcase.\nContinue Reading\nCategory: Urban Transport, Transport\nTags: ebikes, cargo bike, JackRabbit",
+    "t": "אופניים חשמליים לנשיאת מטענים שיכולים להחליף את המכונית המשפחתית - ויתאימו לארון הבגדים\n\nJackRabbit הציגה כעת eBike קרגו מהפכני שנחמד וצר כל כך שאתה יכול להחזיק אותו בארון או בחדר שינה, בלי צורך לדחוק אותו לחנייה. ההפתעה היא שהדבר הזה כמעט לא שוקל כל שום דבר (פחות מזו של מזוודה) אבל עדיין מסוגל להוביל את הילדים, מכולת לשבוע שלם, או אפילו מבוגר נוסף על המושב האחורי. זה בדיוק מה שחיפשנו - כמו לקחת את הנוחות של המכונית ולדחוס אותה לגודל של אופניים רגילים.",
     "d": "Thu, 30 Apr 2026 14:27:00 GMT",
     "v": 0,
     "l": [
@@ -836,8 +811,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -845,7 +819,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 35,
-    "t": "Microsoft open-sources \"the earliest DOS source code discovered to date\"\n\nOld 86-DOS source code dates back to the time before Microsoft bought it.",
+    "t": "מיקרוסופט פתחה קוד מקור של DOS הקדום ביותר שנמצא עד היום\n\nמיקרוסופט פרסמה את קוד המקור של 86-DOS מהתקופה שלפני שהחברה קנתה אותו, והזדמנות נדירה להציץ לתוך ההיסטוריה של מערכות ההפעלה המודרניות. זה כמו למצוא את תאולט המקורי של תעשיית התוכנה, וכל מי שחקר אי פעם את שורשי המחשוב בעברית יכול להעריך את הגדולה הזו.",
     "d": "Thu, 30 Apr 2026 14:20:29 +0000",
     "v": 0,
     "l": [
@@ -858,12 +832,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/86-DOS-artifact-and-IBM-PC-1152x648.jpg",
@@ -871,7 +842,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 36,
-    "t": "Survey says no, American workers are not keen on Microsoft's AI\n\nLock-in worries threaten to dampen the E7 launch party The Coalition for Fair Software Licensing has published research showing that US workers reckon Microsoft is using its productivity tools to lock their employers into the company's AI services.…",
+    "t": "סקר חושף: עובדים אמריקאים לא מתרגשים מה-AI של מייקרוסופט\n\nנתונים חדשים מראים שעובדים בארה\"ב חוששים שמייקרוסופט משתמשת בכלי הייצור שלה כדי לנעול לה ממש את המעסיקים לשירותי ה-AI שלה - וזה יכול להקטיע את הספגה של עמדות העבודה החדשות E7. המחקר שפורסם על ידי הקואליציה לרישוי ברוגע של תוכנה מראה שיש כאן בעיית סינור בלתי קטנה שמעניינת את כל המארד.",
     "d": "2026-04-30T14:19:08.000Z",
     "v": 0,
     "l": [
@@ -884,12 +855,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -897,7 +865,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 37,
-    "t": "It’s time to tax AI slop | Mike Pepi\n\nWe are stuck in a deluge of meaningless content that threatens human creativity. Here’s a simple way to mitigate its harms\nAs the US midterm elections approach, voters are voicing concern about AI. According to an NBC News poll of registered voters, 57% believe the risks of AI outweigh the benefits. A rising political cohort is particularly concerned. A Pew Research poll showed that 61% of adults under 30 say more AI in society will make people worse at creative thinking. A recent Quinnipiac pol",
+    "t": "הגיע הזמן למסות על AI slop | Mike Pepi\n\nאנחנו טבועים בשיטפון של תוכן חסר משמעות שמאיים על הקריאטיביות האנושית, וכתב העת The Guardian מציע פתרון פשוט - מס על תוכן AI שנוצר באופן ממוני. על פי סקרים אחרונים בארה\"ב, 57% מהבוחרים חושבים שהסיכונים של AI גדולים מהיתרונות, ואפילו 61% מהצעירים אומרים שעלייה ב-AI בחברה תפגע ביכולת היצירה שלנו.",
     "d": "Thu, 30 Apr 2026 14:00:20 GMT",
     "v": 0,
     "l": [
@@ -920,7 +888,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 38,
-    "t": "OpenAI talks about not talking about goblins\n\nOpenAI is opening up about its goblin problem. After a report from Wired revealed instructions to OpenAI's coding model to \"never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures,\" the AI startup published an explanation on its website, calling references to the creatures a \"strange habit\" its models developed as a result of their training.\nAs outlined in the blog post, OpenAI began noticing metaphors referencing goblins and other creatures starting w",
+    "t": "OpenAI מדברת על המקרה המוזר של הגובלינים\n\nיוצא שלדגמי AI של OpenAI יש כמו 'בעיה כיתה' עם יצורים מדומיינים - הם לא רוצים לדבר על גובלינים, גרמלינים וזוחלים אחרים. אחרי שוויירד חשף הוראות סודיות, OpenAI הודתה שזה הרגל מוזר שהמודלים שלהם פיתחו בזמן האימון. החברה פרסמה הסבר רשמי וקראה לזה 'התנהגות מוזרה' שנוצרה מתוך הנתונים בעברית. מעניין מה יש להם נגד גובלינים...",
     "d": "2026-04-30T13:42:29.000Z",
     "v": 0,
     "l": [
@@ -934,20 +902,19 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Meta"
+      "OpenAI"
     ],
     "tags": [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Verge AI"
   },
   {
     "id": 39,
-    "t": "SAP user group slams 'uncertainty' in ERP giant's API policy\n\nConcerns over new rules might stop customers from adopting innovations – including AI – that connect to SAP systems An influential SAP user group has criticized the vendor's API policy update, saying it lacks clarity and potentially prevents users from starting new projects and innovating on their SAP platforms.…",
+    "t": "קבוצת משתמשי SAP תוקפת את 'אי-הוודאות' בנהלי ה-API של ענק ה-ERP\n\nקבוצת משתמשים משפיעה של SAP העלתה ביקורת חריפה על עדכון מדיניות ה-API של החברה, בטענה שהוא מעורפל מדי ועלול להעיק על לקוחות שרוצים להשק טכנולוגיות חדשות - כולל פתרונות AI - המחוברים לסביבות SAP שלהם. החשש העיקרי הוא שאי-הבהירות בנהלים החדשים עלולה להקפיא פרויקטים חדשים וחדשנויות על פלטפורמות SAP, דבר שיכול להשפיע על יכולתם של עסקים להשתמש בכלים מודרניים.",
     "d": "2026-04-30T13:41:13.000Z",
     "v": 0,
     "l": [
@@ -962,8 +929,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -971,7 +937,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 40,
-    "t": "Google CEO says Pichai says people \"love\" AI Overviews and keep coming back to search more\n\nAlphabet is investing up to $190 billion in AI and cloud infrastructure through 2026, and the company says spending will rise \"significantly\" again in 2027.\nThe article Google CEO says Pichai says people \"love\" AI Overviews and keep coming back to search more appeared first on The Decoder.",
+    "t": "מנכ\"ל גוגל: המשתמשים 'אוהבים' את ה-AI Overviews וחוזרים לחפש עוד\n\nאלפابית משקיעה עד 190 מיליארד דולר בתשתיות AI ובענן עד 2026, והחברה מדווחת שההוצאות יעלו משמעותית שוב ב-2027. גוגל טוענת שהאוברוויוז של AI שלה הם היט אמיתי - המשתמשים לא רק אוהבים אותם, הם גם חוזרים לבצע עוד חיפושים.",
     "d": "Thu, 30 Apr 2026 13:38:54 +0000",
     "v": 0,
     "l": [
@@ -984,21 +950,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 41,
-    "t": "Sony confirms PS4 and PS5 digital games don't require an online check-in every 30 days — new DRM policy only checks once for license to combat against refund scams\n\nThe supposed new DRM policy surrounding digital PS4 and PS5 games has been finally debunked by Sony. You don't need to check-in online every 30 days for your games to still be playable, rather, only one check-in is required right after the game has been downloaded to convert a temporary license into a permanent one.",
+    "t": "סוני מבהירה: משחקי PS4 ו-PS5 דיגיטליים לא צריכים בדיקת אונליין כל 30 ימים — המדיניות החדשה בדוקה רק פעם אחת\n\nסוני סיפקה הבהרה חשובה שהרגיעה את קהל המשחקים: אתם לא צריכים להתחבר לאינטרנט כל חודש כדי שהמשחקים הדיגיטליים שלכם יישארו פעילים. במקום זאת, בדיקה של הרישיון דרושה רק פעם אחת, מיד אחרי ההורדה של המשחק, כדי להמיר את הרישיון הזמני לקבוע. המהלך החדש של סוני מיועד למנוע הונאות בעניין החזרות משחקים.",
     "d": "Thu, 30 Apr 2026 13:28:37 +0000",
     "v": 0,
     "l": [
@@ -1013,8 +975,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/Foe4F2dYKdESYtgVd5ahmC-1280-80.png",
@@ -1022,7 +983,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 42,
-    "t": "Google, Microsoft, Meta, and Amazon capex spending to hit $725 billion in 2026, up 77% from last year — analyst says bear thesis is 'garbage'\n\nGoogle, Amazon, Microsoft, and Meta collectively plan to spend $725 billion on capex in 2026, up 77% from last year's record $410 billion.",
+    "t": "גוגל, מיקروסופט, מטה ואמזון מתכננות הוצאה של 725 מיליארד דולר בשנת 2026 — אנליסטים אומרים שהטזה הדובית היא 'זבל'\n\nענקי הטק הגדולים בעולם לא מעניינים אתכם? בשנה הקרובה גוגל, אמזון, מיקרוסופט ומטה מתכננות להשקיע 725 מיליארד דולר בתשתיות (capex) — עלייה משוגעת של 77% מהשנה שעברה שכבר הייתה שיא בעצמה. לא תמיד אנחנו רואים הוצאות כל כך מסיביות, ואנליסטים טוענים שמי שחוששים מהדבר פשוט מתעלמים מהפוטנציאל האמיתי של AI והוא בנוי על יסודות איתנים.",
     "d": "Thu, 30 Apr 2026 13:18:23 +0000",
     "v": 0,
     "l": [
@@ -1035,25 +996,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google",
-      "Meta",
-      "Microsoft",
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "product",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/imAAPcMxEKi3AJFyFvaDfH-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 43,
-    "t": "More than half of all  Polymarket \"long shot\" bets on military action pay off\n\nSensitive information and the prediction markets can be a winning combination.",
+    "t": "יותר מחצי מ\"ההימורים של חתכים\" על פעולה צבאית ב-Polymarket הצליחו\n\nבשוק התחזוקות Polymarket מתברר שמידע רגיש ותחזוקות חיזוי יכולים להיות שילוב זוכה - בעיקר כשמדובר בסיכויים נמוכים על אירועים צבאיים שנמשכים מתקבלים על הדעת בצורה מפתיעה. זה מעלה שאלות מעניינות על איך מידע זה מגיע לשחקנים בשוק ומה זה אומר על הרגולציה של prediction markets בעת משברים גיאופוליטיים.",
     "d": "Thu, 30 Apr 2026 13:16:04 +0000",
     "v": 0,
     "l": [
@@ -1076,7 +1029,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 44,
-    "t": "Verified by Spotify badge lets you know this artist isn&#8217;t AI\n\nSpotify is launching a new verification program to combat spam, fakes, and AI. Some artists will now have a \"Verified by Spotify\" badge and a green checkmark on their profile, indicating that the company has confirmed a real person is behind the music and the profile. At least at launch, Spotify says that AI personas or profiles that primarily upload AI-generated music are not eligible for the verification program. It did leave the door open to the possibility in the future, though, saying, \"the",
+    "t": "תג \"Verified by Spotify\" - כדי שתדעו שהאמן הוא אדם אמיתי ולא AI\n\nSpotify משיקה תוכנית אימות חדשה נגד זיופים וזבל בפלטפורמה, והאמנים שאומתו יקבלו תג ירוק מיוחד שיאשר שאדם אמיתי עומד מאחורי הפרופיל והמוזיקה. בשלב הראשון, חללים ופרופילים של אמנים AI שמעלים בעיקר מוזיקה ממוחשבת לא יהיו זכאים לאימות הזה, אבל Spotify לא סוגרת את הדלת בפני אפשרות כזו בעתיד. מהדרך, Spotify מנסה לתקוף בחזקות את בעיית ההונאות והמוזיקה המזויפת שהפכו לבעיה גוברת בפלטפורמה.",
     "d": "2026-04-30T13:08:23.000Z",
     "v": 0,
     "l": [
@@ -1099,7 +1052,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 45,
-    "t": "Microsoft boss tells investors the company is working to 'win back fans'\n\nBut why did those fans go away in the first place, Satya? Microsoft boss Satya Nadella told investors during an earnings call last night that the company needs to \"win back\" its fans.…",
+    "t": "בוס מיקרוסופט: אנחנו צריכים להחזיר בחזרה את המעריצים שלנו\n\nסתיה נדלה, המנכ\"ל של מיקרוסופט, הודיע באתמול בקול זמול עם משקיעים שהחברה צריכה \"להחזיר בחזרה\" את האוהדים שלה - אבל כמובן שהשאלה הגדולה היא: למה הם בכלל עזבו בראשית? מיקרוסופט כנראה מבינה שיש לה קצת בעיה image להתמודד עם בעיות בחברה ובתפקידה בתעשייה ה-AI.\n\nמקור: The Register",
     "d": "2026-04-30T13:00:12.000Z",
     "v": 0,
     "l": [
@@ -1112,12 +1065,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -1125,7 +1075,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 46,
-    "t": "Compact home in Quebec brings the forest indoors\n\nA compact residential dwelling designed by Canadian architectural firm Nathalie Thibodeau Architecte has been completed in Boileau, Quebec. Dubbed La Maraude, the home is set within a wooded site near the Maskinongé River, and dissolves the boundaries between interior living zones and the outdoors. The project invites the forest indoors through its geometric layout, emphasizing light, openness, and continuity by positioning courtyards as integral spaces throughout the home.\nContinue Reading\nCate",
+    "t": "בית קומפקטי בקוויבק מביא את היער פנימה\n\nהסטודיו הקנדי Nathalie Thibodeau Architecte סיים בניית בית מדהים בשם La Maraude בקוויבק, שנמצא בתוך אתר יערות קרוב לנהר Maskinongé. הבית הזה משחק משחק חכם עם הגבולות בין הפנים לחוץ - דרך פנימיות וחצרות משולבות בחוכמה, הם הצליחו להביא את האווירה של היער הישר פנימה, עם הרבה אור וחללים פתוחים שמרגישים כמו המשך של הטבע סביבך.",
     "d": "Thu, 30 Apr 2026 12:58:00 GMT",
     "v": 0,
     "l": [
@@ -1148,7 +1098,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 47,
-    "t": "OpenAI says it hit its 10 gigawatt compute goal years ahead of schedule\n\nOpenAI says it has reached its goal of 10 gigawatts of AI compute capacity in the United States several years ahead of schedule. \nThe article OpenAI says it hit its 10 gigawatt compute goal years ahead of schedule appeared first on The Decoder.",
+    "t": "OpenAI הגיעה ליעד של 10 ג'יגוואט חישוביים - שנים קודם לתזמון\n\nOpenAI הודיעה שהגיעה ליעד שלה של 10 ג'יגוואט של AI compute capacity בארצות הברית, וזה קרה שנים לפני התאריך המתוכנן. הישג זה משמעותי לחברה בהקשר של יכולתה לאמן מודלים גדולים יותר ולתמוך בביקוש הגדל לשירותי AI. זה מראה שהשקעות ענקיות של OpenAI בתשתיות מחשוביות מתחילות להישא פרי.",
     "d": "Thu, 30 Apr 2026 12:45:11 +0000",
     "v": 0,
     "l": [
@@ -1174,7 +1124,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 48,
-    "t": "Anthropic's new benchmark claims Claude can match human experts in bioinformatics\n\nWith BioMysteryBench, Anthropic wants to show that Claude can solve real bioinformatics problems at an expert level. The results are promising, but come with important caveats.\nThe article Anthropic's new benchmark claims Claude can match human experts in bioinformatics appeared first on The Decoder.",
+    "t": "מערכת Anthropic הוא Claude יכול להתחרות עם מומחים אנושיים בביואינפורמטיקה\n\nAnthropic השיקה בנצ'מארק חדש בשם BioMysteryBench שמטרתו להוכיח ש-Claude יכול לפתור בעיות ביולוגיות מורכבות ברמה של מומחים אמיתיים. התוצאות נראות מרשימות, אבל יש כאן כמה הערות חשובות שצריך לקחת בחשבון לפני שמרוצים על עצמנו.",
     "d": "Thu, 30 Apr 2026 12:31:31 +0000",
     "v": 0,
     "l": [
@@ -1200,7 +1150,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 49,
-    "t": "Tencent's 440 MB AI model translates 33 languages offline on your phone\n\nTencent has released a compact AI translation model as an open-weight model that it claims outperforms Google Translate and runs completely offline on smartphones.\nThe article Tencent's 440 MB AI model translates 33 languages offline on your phone appeared first on The Decoder.",
+    "t": "דגם AI של טנסנט בגודל 440 MB מתרגם 33 שפות ללא חיבור אינטרנט ישירות בטלפון שלך\n\nטנסנט הוציאה לאור דגם תרגום AI קומפקטי שלטענתה משגר את גוגל תרנסלייט וגם עובד בלי חיבור אינטרנט ישירות בסמארטפון. מדובר במודל open-weight שיכול להתרגם 33 שפות שונות, וזה בעצם משחק משנה - לא צריך עוד להיות תלויים בשרתים חיצוניים כדי לתרגם טקסט בדרך.",
     "d": "Thu, 30 Apr 2026 12:24:34 +0000",
     "v": 0,
     "l": [
@@ -1213,12 +1163,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -1607,7 +1554,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 66,
-    "t": "Florida Republicans reject plan to weaken childhood vaccine requirements\n\nDeSantis had called for a special session to take up the proposed changes.",
+    "t": "הרפובליקנים בפלורידה דחו תוכנית להחלשת דרישות החיסונים לילדים\n\nגוב' דסנטיס קרא לוועדה מיוחדת כדי להתמודד עם השינויים המוצעים, אך הרפובליקנים בעדיפות אחרת. זה יפתוק שיחות על כוח הפוליטיקה בעניינים של בריאות ציבורית בארה״ב.",
     "d": "Thu, 30 Apr 2026 11:15:43 +0000",
     "v": 0,
     "l": [
