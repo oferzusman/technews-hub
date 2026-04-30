@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Intel's stock more than doubles in April for best month in chipmaker's 55 years on Nasdaq\n\nIntel's market cap more than doubled in April, boosted by a blowout earnings report and optimism that the chipmaker is in the midst of a revival.",
+    "t": "מניית אינטל עלתה ביותר מ-100% באפריל - החודש הטוב ביותר ב-55 שנות הנסחירות שלה בנסדק\n\nאינטל חוגגת חזרה למשחק בגדול - שווי השוק של החברה הכפיל את עצמו באפריל, תודה לדוח רווחים מדהים ולתחזוקה שהענקית הטכנולוגית במצב התאוששות אמיתית. זה הופך את החודש הזה למעצבן של אינטל מאז שהיא הנסחרת בבורסה.",
     "d": "Thu, 30 Apr 2026 20:10:36 GMT",
     "v": 0,
     "l": [
@@ -18,13 +18,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 2,
-    "t": "Reddit reports 69% jump in revenue, topping analyst estimates\n\nReddit reported first-quarter earnings and revenue that exceeded Wall Street expectations.",
+    "t": "רדיט דיווחה על עלייה של 69% בהכנסות, עברה את ציפיות האנליסטים\n\nרדיט הפתיעה את וול סטריט בדוח הרבעוני שלה - ההכנסות עלו משמעותית וחרגו מכל הצפויות של המנתחים. זו כנראה חדשה טובה למשקיעים שחיכו לחזרה למסלול הרווחיות של הפלטפורמה המפורסמת.",
     "d": "Thu, 30 Apr 2026 20:09:48 GMT",
     "v": 0,
     "l": [
@@ -41,13 +41,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 3,
-    "t": "Spotify rolls out ‘Verified’ badge to distinguish human artists from AI\n\nGreen checkmark will appear on artist profiles to signal they meet the platform’s standard for authenticity\nSpotify on Thursday unveiled a new verification system designed to help listeners distinguish human musicians from AI-generated content, as people flood streaming platforms with a growing volume of synthetic tracks made with artificial intelligence.\nThe Swedish streaming giant said its “Verified by Spotify” badge – marked by a green checkmark – will begin appearing on artist profiles and i",
+    "t": "Spotify משיקה תג 'מאומת' כדי להבדיל בין אמנים אנושיים לתוכן AI\n\nסימן ביקורת ירוק חדש יופיע בפרופילי אמנים כדי להוכיח שהם עומדים בסטנדרטים של אותנטיות. Spotify מנסה להילחם בגל של מוזיקה AI שמציפה את הפלטפורמה, ועכשיו המשתמשים יוכלו בקלות להבין מי אמנם אדם אמיתי ומי פשוט בוט שיצר קטע בשניה. זה צעד חכם בעיר של תוכן סינתטי שמתפשט בכל מקום.",
     "d": "Thu, 30 Apr 2026 19:56:12 GMT",
     "v": 0,
     "l": [
@@ -70,7 +70,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "OpenAI trial live updates: Head of Musk's family office takes the stand\n\nElon Musk sued OpenAI, Sam Altman and Greg Brockman in 2024, claiming they reneged on their promise to keep the artificial intelligence lab a nonprofit.",
+    "t": "עדכונים חיים מהתיקייה נגד OpenAI: ראש משרד המשפחה של מאסק עד עדות\n\nבאלון מאסק זקוף תביעה ממש כבדה נגד OpenAI ומנהלים כמו סם אלטמן וגרג ברוקמן, שטוענים שהחברה מעולם לא התכוונה להישאר כ-nonprofit כמו שהבטיחו בתחילה. המשפט קיבל תאוצה בימים האלה עם עדויות חשובות, וכרגע אפילו אנשים קרובים למאסק מגיעים להעיד בבימת בית המשפט.",
     "d": "Thu, 30 Apr 2026 19:38:20 GMT",
     "v": 0,
     "l": [
@@ -90,13 +90,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 5,
-    "t": "Researchers try to cut the genetic code from 20 to 19 amino acids\n\nUsing AI tools, the team reworked part of the ribosome to need one less amino acid.",
+    "t": "חוקרים משנים את הקוד הגנטי: מ-20 חומצות אמיניות ל-19\n\nצוקד מחוקרים השתמש בכלי AI כדי לעשות משהו פשוט ומטורף - הם שיכתבו חלק מהריבוזום כך שהוא יצטרך רק 19 חומצות אמיניות במקום 20. אם זה יעבוד, זה יכול להיות סיפור גדול עבור הנדסה גנטית ויצור אורגניזמים מותאמים. המחקר הזה מראה איך AI יכול לעזור לביולוגים לעשות דברים שקודם לא חשבנו שאפשר. \n\nמקור: Ars Technica",
     "d": "Thu, 30 Apr 2026 19:34:15 +0000",
     "v": 0,
     "l": [
@@ -119,7 +119,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too\n\nOpenAI will begin rolling out it cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
+    "t": "אחרי שחרגנו את אנתרופיק על הגבלות ב-Mythos, אופנאיי מגביל גם את גישת ה-Cyber\n\nOpenAI משיקה את כלי בדיקת ה-cybersecurity החדש, GPT-5.5 Cyber, אבל לא לכולם - בהתחלה רק ל'הגנת סייבר קריטית'. נראה שגם החברה שלנו בחרה ללכת בדרך של גישה מוגבלת לכלים רגישים, בדיוק כמו מה שהיא ביקרה בזה לא מזמן.",
     "d": "Thu, 30 Apr 2026 19:27:41 +0000",
     "v": 0,
     "l": [
@@ -133,8 +133,7 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Anthropic"
+      "OpenAI"
     ],
     "tags": [
       "news",
@@ -147,7 +146,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Blue Origin certainly has ambitious launch targets for New Glenn\n\nIf Blue Origin wants to launch New Glenn 100 times a year, we're here for it.",
+    "t": "בלו אוריג'ין קובעת לעצמה יעדים אמביציוזיים לטילי ניו גלן\n\nאם בלו אוריג'ין באמת מתכננת להשיק טילי ניו גלן 100 פעמים בשנה, אנחנו בהחלט כאן לזה. זה משהו שיכול להיות משחק גדול בתעשיית החלל - אם הם יצליחו לעמוד בקצב הזה, זה יהיה צעד ענק להנעת תחרות בשוק ההשקות.",
     "d": "Thu, 30 Apr 2026 19:12:26 +0000",
     "v": 0,
     "l": [
@@ -170,7 +169,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "Stranded traveler gets more than he bargained for in Resident Evil teaser\n\nFresh off the Oscar-winning Weapons, director Zach Cregger has his own vision for the gaming franchise.",
+    "t": "תייר תקוע קיבל הרבה יותר ממה שהוא ציפה בטיזר של Resident Evil\n\nבמאי הסרט החתום זך קרגר, שזה עתה זכה לפרס אוסקר על 'Weapons', מביא את הראיית שלו האישית לסדרת המשחקים האגדית. מתברר שהפרויקט הזה הולך להיות יותר מסתם התאמה ישירה - קרגר מתוכנן ליצור משהו חדש ומפתיע למעריצי הזומבים והאימה.",
     "d": "Thu, 30 Apr 2026 19:02:10 +0000",
     "v": 0,
     "l": [
@@ -193,7 +192,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Inside Wealth: Markets are underpricing the risk of Middle East pullback in AI, says tech investor Jack Selby\n\nMiddle East investors account for roughly a quarter of global AI investments over the next 5 years, said Jack Selby, managing director of Thiel Capital.",
+    "t": "בתוך העושר: השווקים מזלזלים בסיכון של התנסחות תרבותית במזרח התיכון בתחום ה-AI, אומר משקיע בטכנולוגיה\n\nהמשקיעים במזרח התיכון אחראים לכ-רבע מכל ההשקעות הגלובליות בתחום ה-AI בחמש השנים הקרובות, לפי דברי ג'ק סלבי, מנהל קרן Thiel Capital. זה אומר שהחברות הטכנולוגיות צריכות להישמר - כל שינוי פוליטי או כלכלי בעולם ערבי יכול להזיז ממש מיליארדים מהשקעות בעולם התקשורת. סוג של ווקינג קול למשקיעים לחשוב שוב על הזחיחות הגיאופוליטיות.",
     "d": "Thu, 30 Apr 2026 18:44:31 GMT",
     "v": 0,
     "l": [
@@ -208,8 +207,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -217,7 +215,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones\n\nThe ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for “brainless clones” to serve the role of backup human bodies. by Antonio Regalado March 20, 2026 Related Stories: Access all subscriber-only eBooks:",
+    "t": "ספר אלקטרוני בלעדי: סטארטאפ סודי שהציע שיבוט אנושי ללא מוח\n\nR3 Bio, סטארטאפ קטן שזה עתה הצליח למשוך תשומת לב, הציעה ראיית עולם מטורפת לגמרי: גופים אנושיים משוכפלים ללא מוח שישמשו כ\"חלקי חילוף\" עבור בני אדם. הסיפור בוחן את התוכנית המשוגעת הזו למצות חיים נצחיים וגם את כל הצרות האתיות שמגיעות איתה. מאמר בלעדי של MIT Technology Review",
     "d": "Thu, 30 Apr 2026 18:42:50 +0000",
     "v": 0,
     "l": [
@@ -240,7 +238,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "AI boom: Big Tech capital expenditures now seen topping $1 trillion in 2027\n\nThe overall cost has been causing heads to spin, but analysts say they're seeing flowthrough from investments to revenue.",
+    "t": "בום בינה מלאכותית: הוצאות ההון של חברות הטק הגדולות צפויות להגיע ל-טריליון דולר ב-2027\n\nהמספרים המדהימים של השקעות בAI גורמים לעולם ההייטק להסתחרר, אבל אנליסטים כבר רואים איך הכסף הזה מתחזר בחזרה להכנסות ענקיות. בעצם, זה כבר מתחיל להשתלם למובילי הענף - והאולטימטום עוד לפנינו.",
     "d": "Thu, 30 Apr 2026 18:26:43 GMT",
     "v": 0,
     "l": [
@@ -255,8 +253,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -264,7 +261,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico\n\nOpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
+    "t": "OpenAI משיקה אבטחה מתקדמת לחשבונות ChatGPT בשיתוף עם Yubico\n\nOpenAI מוסיפה שכבה חדשה של הגנה לחשבונות ChatGPT שלכם - והפעם זה כולל שיתוף פעולה עם Yubico, חברת ההתמחות בחיזוק הסיסמאות. החדשות טובות: כל ההגנות הללו אופציונליות, אז אתם תחליטו אם זה בכלל צריך אתכם - מה שכן בטוח שזה עוד סיבה טובה להגן על החשבון שלכם בכוח זקן. (מקור: TechCrunch AI)",
     "d": "Thu, 30 Apr 2026 18:20:03 +0000",
     "v": 0,
     "l": [
@@ -282,16 +279,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 13,
-    "t": "Samsung reports record quarterly profit as chip income jumps almost 50-fold\n\nThe AI boom is worsening a global memory chip shortage, which Samsung predicts will continue into 2027\nSamsung Electronics on Thursday reported record quarterly profit driven by a 49-fold jump in chip income, saying it expects a severe supply shortage to deepen next year as clients spend on AI, driving up prices of its memory chips.\nA boom in the construction of AI datacentres has spurred Samsung and chipmaking peers to allocate production capacity to advanced chips that Nvidia uses in its so-ca",
+    "t": "סמסונג דיווחה על רווח שיא ברבעון - הכנסות מחיפים קפצו פי 50\n\nסמסונג מטוס ברבעון הזה בגדול - הכנסות מ-memory chips שלהם עפו פי 49! זה בגלל שכל החברות טורפות chips ל-AI datacenters, וסמסונג חוזה שהמחסור בחיפים יתחמור עוד יותר עד 2027. בעיקרון, כמו שכולם שרים בשירת ה-AI, המחירים של חיפים בעלייה כל הזמן.",
     "d": "Thu, 30 Apr 2026 18:17:08 GMT",
     "v": 0,
     "l": [
@@ -304,20 +300,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Nvidia"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "hardware"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/a7708e34460a18f4302758394db71df29d0b657e/109_0_3727_2983/master/3727.jpg?width=140&quality=85&auto=format&fit=max&s=997a138d8919c5ab658aeb91ee7e4374",
     "source": "The Guardian AI"
   },
   {
     "id": 14,
-    "t": "Elon Musk confirms xAI used OpenAI’s models to train Grok\n\nIn a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own. \nThe matter at question is model distillation, a common industry practice by which one larger AI model acts as a \"teacher\" of sorts to pass on knowledge to a smaller AI model, the \"student.\" Although it's often used legitimately within companies using one of their own AI models to train another, it's also a practice that's sometimes used by smaller AI l",
+    "t": "אלון מאסק מאשר: xAI השתמשה במודלים של OpenAI לאימון Grok\n\nמאסק הודה בעדות בבית משפט בקליפורניה שחברת ה-AI שלו, xAI, השתמשה במודלים של OpenAI כדי לשפר את שלה - דרך טכניקה שנקראת model distillation שבה מודל גדול מלמד מודל קטן יותר. זה נוהג נפוץ בתעשייה, אבל יכול להיות גם בעייתי כשמשתמשים בו ללא היתר עם מודלים של מתחרים. פתאום המחלוקת בין xAI ל-OpenAI הופכת לעניין משפטי חם.",
     "d": "2026-04-30T18:16:57.000Z",
     "v": 0,
     "l": [
@@ -343,7 +336,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "Elon Musk testifies that xAI trained Grok on OpenAI models\n\n\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
+    "t": "אלון מאסק מעיד: xAI אימנה את Grok על מודלים של OpenAI\n\nמסתבר שיש כאן סיפור מעניין על \"distillation\" - הטכניקה שבה חברות גדולות מנסות להגן על המודלים שלהן מפני חברות קטנות יותר שרוצות להעתיק אותם. xAI של מאסק טבולה בסערה אחרי הגילוי הזה, והעניין רלוונטי למה שקורה עכשיו בזירת AI כשכולם מנסים להגן על הטכנולוגיה שלהם.",
     "d": "Thu, 30 Apr 2026 18:03:57 +0000",
     "v": 0,
     "l": [
@@ -369,7 +362,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "AI outperforms doctors in Harvard trial of emergency triage diagnoses\n\nResearchers say results mark a ‘profound change in technology that will reshape medicine’\nFrom George Clooney in ER to Noah Wyle in The Pitt, emergency department doctors have long been popular heroes. But will it soon be time to hang up the scrubs?\nA groundbreaking Harvard study has found that AI systems outperformed human doctors in high-pressure emergency medicine triage, diagnosing more accurately in the potentially life and death moments when people are first rushed to hospital.\n Continue r",
+    "t": "AI עדיף מרופאים - בניסוי של הרווארד ל-triage בחדר האירוע\n\nמחקר פורץ דרך מהרווארד הראה שמערכות AI מאבחנות טוב יותר מרופאים בני אדם בחדרי חירום, בדיוק כשצריך - בתוך הרגעים הקריטיים הראשונים כשחולים מגיעים לבית החולים. החוקרים אומרים שזה מסמן שינוי עמוק בטכנולוגיה שעתיד לשנות את כל רפואת הطיפול בחירום. בוודאות יש כאן סיבה טובה למחוקי הרופאים לדאוג קצת.",
     "d": "Thu, 30 Apr 2026 18:00:23 GMT",
     "v": 0,
     "l": [
@@ -386,13 +379,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/7f4b1062db43fb053f4d68c08b8e92dd39f49107/0_62_4362_3487/master/4362.jpg?width=140&quality=85&auto=format&fit=max&s=1997d4b3bbf30315255a3b96c575f38e",
     "source": "The Guardian AI"
   },
   {
     "id": 17,
-    "t": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder\n\nBioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape.",
+    "t": "אישור FDA, גיוס כספים וממשיות בניית סטארטאפ בתחום הבריאות - על פי מייסד BioticsAI\n\nמייסד BioticsAI, Robhy Bustami, סיפר כיצד החברה שלו מנווטת בשדה מוסדר ומורכב של healthcare תוך שמירה על מוטיבציית הצוות. השיחה עם Isabelle Johannessen התמקדה בכל האתגרים שמצפים לסטארטאפים שמנסים לתקוף תחום שפיקוד ותקנות הם חלק אינטגרלי שלו - מהאישורים הדרוסטיים של ה-FDA ועד ליצירת תמונה ברורה לגיוס הכספים הדרוש.",
     "d": "Thu, 30 Apr 2026 17:53:53 +0000",
     "v": 0,
     "l": [
@@ -415,7 +408,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "Microsoft CEO Satya Nadella says AI success is \"more about getting intense users and intense usage\" than seat counts\n\nMicrosoft is posting record profits and strong cloud growth, but just like Google, the company is saying little about how its generative AI business is actually performing.\nThe article Microsoft CEO Satya Nadella says AI success is \"more about getting intense users and intense usage\" than seat counts appeared first on The Decoder.",
+    "t": "סטיה נדלה מ-Microsoft: הצלחה ב-AI זה על משתמשים אינטנסיביים, לא על מספר עמדות עבודה\n\nמיקרוסופט מדווחת על רווחים שיא וגדילה חזקה ב-cloud, אבל בדיוק כמו גוגל, החברה שומרת על שתיקות מוחלטת בנוגע להצלחה האמיתית של עסקי ה-AI שלה. סטיה נדלה משחק כאן משחק חכם - במקום לדבר על מספרים של משתמשים שקנו לישנים של Copilot, הוא מדגיש שמה שחשוב באמת הוא עומק השימוש ויותר פחות את כמות המנויים.",
     "d": "Thu, 30 Apr 2026 17:49:04 +0000",
     "v": 0,
     "l": [
@@ -429,12 +422,10 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Google",
       "Microsoft"
     ],
     "tags": [
       "news",
-      "model",
       "product"
     ],
     "imp": "low",
@@ -443,7 +434,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "Beijing bans drone sales even as rest of world buys Chinese drones\n\nBeijing's citywide ban restricts the sale, transport, and storage of drones.",
+    "t": "בייג'ינג חוסמת מכירת רחפנים בזמן שהעולם כולו קונה דרונים סיניים\n\nבירת סין הטילה איסור כלל-עירוני על מכירה, הובלה ואחסון של רחפנים, בזמן שיצרנים סיניים כמו DJI שולטים בשוק הגלובלי. נראה שהממשלה הסינית חוששת מנושאי ביטחון והשגחה, אבל זה לא עוצר את הביקוש העולמי לדרונים סיניים זולים וטובי איכות.",
     "d": "Thu, 30 Apr 2026 17:47:17 +0000",
     "v": 0,
     "l": [
@@ -458,8 +449,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2265042408-1024x648.jpg",
@@ -467,7 +457,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "Google’s Gemini AI assistant is hitting the road in millions of vehicles\n\nThe move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
+    "t": "Gemini של Google יוצא לדרכים - ייגיע למיליוני רכבים\n\nגוגל עושה צעד משמעותי בדרך להבאת AI התיחום ומשוכלל לתוך חוויית הנסיעה שלנו. זה אומר שקריאות וציוו קוליים בעתידים הרכב הם עלולים להשתנות משמעותית, כשJemini תופס תפקיד מרכזי בהפיכת הרכב לעוזר אישי חכם יותר. התנועה הזו משקפת את הנחישות של גוגל להחדיר AI מתקדם ושיחות טבעיות לכל מקום בחיינו. - TechCrunch AI",
     "d": "Thu, 30 Apr 2026 17:46:54 +0000",
     "v": 0,
     "l": [
@@ -2118,7 +2108,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 89,
-    "t": "The hidden cost of Google's AI defaults and the illusion of choice\n\nGoogle says it respects user privacy in AI, but the reality is not so black and white.",
+    "t": "העלות הנסתרת של ברירות ה-AI של גוגל והאשליה של בחירה חופשית\n\nגוגל טוענת שהיא מכבדת את פרטיותך ב-AI, אבל למעשה המציאות הרבה יותר מסובכת. התיעוד חושף איך הענקית בעצם דוחקת אלגוריתמים של AI לתוך כל פינה של השירותים שלה, והאפשרות שלך 'להסכים' היא בעצם בחירה בין גרוע לגרוע יותר. זה עוד דוגמה לאופן שבו חברות טכנולוגיה משתמשות בשפה חכמה כדי להסתיר מה שבעצם קורה מאחורי הקלעים.",
     "d": "Thu, 30 Apr 2026 11:00:31 +0000",
     "v": 0,
     "l": [
@@ -2131,12 +2121,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-3-1152x648.jpg",
@@ -2955,7 +2942,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 124,
-    "t": "Introducing Advanced Account Security\n\nIntroducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+    "t": "הצגת אבטחת חשבון מתקדמת\n\nOpenAI משיקה תכונות אבטחה חדשות שמעניקות הגנה מפני התקפות phishing, אפשרויות שחזור חזקות יותר והגנות משופרות כדי להבטיח שהחשבון שלכם לא ייקח אחד אחר. בעיצומו של עולם המאמנים הדיגיטליים, זה נראה כמו צעד חכם למדי.",
     "d": "Thu, 30 Apr 2026 00:00:00 GMT",
     "v": 0,
     "l": [
@@ -2968,10 +2955,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
       "news",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
