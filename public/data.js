@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "SoftBank reportedly weighs $100 billion valuation for new AI and robotics spinout in potential U.S. IPO\n\nSoftBank Group is planning to create and list a standalone artificial intelligence and robotics company, coined \"Roze\" in the U.S.",
+    "t": "סופטבנק שוקלת הערכה של 100 מיליארד דולר לחברת AI ורובוטיקה חדשה בIPO אמריקאי\n\nסופטבנק מתכננת להפריד את פעילויות ה-AI והרובוטיקה שלה לחברה עצמאית בשם 'Roze' והכוונה היא להנפיק אותה בבורסה בארה״ב. זה צעד חזק של יפנים שמחזיקים בהשקעות ענקיות בתחום, וזה עלול לשנות את הדינמיקה של שוק הטכנולוגיה הגלובלי. המהלך מראה איך חברות גדולות מחליטות לתת דגש מיוחד ליחידות AI שלהן כחברות בפני עצמן.",
     "d": "Thu, 30 Apr 2026 05:12:54 GMT",
     "v": 0,
     "l": [
@@ -16,18 +16,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics",
-      "regulation",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 2,
-    "t": "Nvidia just invested in the AI legal startup that's splashing Jude Law ads everywhere\n\nSwedish startup Legora has raised more than $800 million in the past 12 months, and the latest deal values it at $5.6 billion.",
+    "t": "Nvidia בחרה להשקיע בסטארטאפ AI משפטי שמפציע פרסומות עם ג'וד לו\n\nLegora, סטארטאפ שוודי שנראה בפרסומות בכל מקום, גייסה יותר מ-800 מיליון דולר בשנה האחרונה בלבד - והערכתה כרגע בכ-5.6 מיליארד דולר. הסביבה של AI משפטי בהחלט משדרגת, ועכשיו גם ענקית הטכנולוגיה Nvidia מחליטה שהיא רוצה חלק מהעוגה הזו.",
     "d": "Thu, 30 Apr 2026 05:00:01 GMT",
     "v": 0,
     "l": [
@@ -45,17 +42,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "hardware",
-      "regulation",
-      "funding"
+      "hardware"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 3,
-    "t": "Cursor Introduces a TypeScript SDK for Building Programmatic Coding Agents With Sandboxed Cloud VMs, Subagents, Hooks, and Token-Based Pricing\n\nCursor Launches TypeScript SDK to Let Developers Build and Deploy Programmatic Coding Agents\nThe post Cursor Introduces a TypeScript SDK for Building Programmatic Coding Agents With Sandboxed Cloud VMs, Subagents, Hooks, and Token-Based Pricing appeared first on MarkTechPost.",
+    "t": "Cursor משיקה TypeScript SDK לבניית Coding Agents עם סביבות Cloud מסוגרות ותמחור מבוסס Token\n\nCursor בא עם כלי חדש וחזק שמאפשר למפתחים לבנות ולהטיל בייצור Coding Agents בצורה תכנותית, עם תמיכה ב-Subagents, Hooks וסביבות Cloud מבודדות לביטחון מירבי. הפלטפורמה מציעה גם מודל תמחור חדש מבוסס Token שנועד להיות גמיש ויעיל יותר לפיתוח AI Agents בקנה מידה.",
     "d": "Thu, 30 Apr 2026 04:40:37 +0000",
     "v": 0,
     "l": [
@@ -73,13 +68,13 @@ window.TELEGRAM_DATA = [
       "news",
       "agents"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://www.marktechpost.com/wp-content/uploads/2026/04/QxSyhJ1ZPxPlvUt8-1.mp4",
     "source": "MarkTechPost"
   },
   {
     "id": 4,
-    "t": "I took an algorithm to court in Sweden. The algorithm won | Charlotta Kronblad\n\nGothenburg promised to optimise school admissions with a piece of code. The resulting chaos showed how unaccountable systems are ruining lives\nWe like to imagine that injustice announces itself loudly. That when something goes wrong in the public system, alarms go off and someone takes responsibility or is held accountable if they do not. But in 2020 in Gothenburg, injustice arrived quietly, disguised as efficiency.\nFor the first time, the city used an algorithm to allocate places in its schools",
+    "t": "לקחתי אלגוריתם לבית משפט בשוודיה. האלגוריתם ניצח\n\nבשנת 2020, עיר גוטנבורג בשוודיה החליטה להשתמש באלגוריתם כדי להקצות מקומות בבתי ספר - ותוך זמן קצר הכל התפוצץ לאוויר. האלגוריתם שנועד להיות יעיל הוביל לתוך כאוס שהשפיע על חיי משפחות אמיתיות, וכשנלחמו על זה בבית משפט, התברר שלא היה אחראי על השטויות שקרו. סיפור על איך המערכות ה-AI שלנו יכולות לבחול חיים ולהתחמק מכל אחריות.",
     "d": "Thu, 30 Apr 2026 04:00:07 GMT",
     "v": 0,
     "l": [
@@ -96,13 +91,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/27430352f4700f9af6793cb13c17112123cbf7cd/384_0_3840_3072/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=a8fe044106e58dd0a2d0ba1458eaf50e",
     "source": "The Guardian AI"
   },
   {
     "id": 5,
-    "t": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO\n\nYou need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+    "t": "סופטבנק משיקה חברת רובוטיקה לבניית מרכזי נתונים - וכבר תוכננת IPO של 100 מיליארד דולר\n\nסופטבנק מצאה דרך חכמה להתמודד עם בעיה ישנה: אם צריך infrastructure כדי לבנות AI ורובוטים, למה לא להשתמש ב-AI ורובוטים כדי לבנות את ה-infrastructure? החברה החדשה תבנה מרכזי נתונים באמצעות רובוטים, וכאילו הם כבר חושבים בגדול - ה-IPO המתוכנן? בערך 100 מיליארד דולר. מקור: TechCrunch AI",
     "d": "Thu, 30 Apr 2026 03:58:22 +0000",
     "v": 0,
     "l": [
@@ -117,9 +112,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -127,7 +120,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Google to sell its TPUs to some customers, who also fancy big-G GPUs\n\nAI is driving more searches and ads Google Cloud will start selling its custom tensor processing units to some customers, because they want them and the search giant wants to diversify its revenues.…",
+    "t": "גוגל תתחיל למכור TPUs לחלק מהלקוחות, שגם רוצים את ה-GPUs שלה\n\nגוגל מחליטה להיכנס לעסק של מכירת ה-TPUs שלה - יחידות העיבוד המתמחות שלה - ללקוחות בחוץ, כי בסוף יש ביקוש גדול לחומרה כזו בעידן ה-AI. המהלך מאפשר לעמקק לא רק להרוויח יותר כסף מעל השירותים הקיימים, אלא גם לגוונן את מקורות ההכנסה שלה בשוק הפרוח של בינה מלאכותית. גם ללקוחות היש עניין, כי הם יוכלו לקנות את ה-TPUs ביחד עם ה-GPUs של גוגל, במקום שיצטרכו להסתבך עם מספר ספקים.",
     "d": "2026-04-30T03:49:05.000Z",
     "v": 0,
     "l": [
@@ -141,12 +134,10 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Google",
       "Nvidia"
     ],
     "tags": [
       "news",
-      "model",
       "hardware"
     ],
     "imp": "low",
@@ -155,7 +146,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Samsung profit surges over eightfold to beat estimates as AI boom fuels memory chip crunch\n\nSamsung Electronics reported an over eightfold increase in first-quarter operating profits, hitting a new record and beating analysts' estimates.",
+    "t": "רווח סמסונג קפץ פי 8 והעלה את הציפיות - בום ה-AI משנה את השוק\n\nסמסונג השתגעה בשוק הזיכרון - הרווח התפעולי בתקופה הראשונה עלה פי 8 וחרג מכל הציפיות של האנליסטים, עם תשואות שהן שיא היסטורי. זה המשך של הגל הענק של ביקוש לשבבי זיכרון שנגרם מפיצוץ של פרויקטי AI בעולם, וסמסונג לוקחת את החלק הגדול של העוגה.",
     "d": "Thu, 30 Apr 2026 03:22:28 GMT",
     "v": 0,
     "l": [
@@ -172,13 +163,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 8,
-    "t": "Triple-pop truck camper squeezes full base camp into short pickup bed\n\nLoads of pickup campers we've looked at over the years pop upward to expand interior headroom, but far fewer pop out. The all-new Roam Rider SL does both, and it pops outward twice, sliding wings out of both sides to add an additional 20 cubic feet (566 L) of interior space. The sliding continues inside, where amenities slide open and closed rather than occupying finite space permanently. Roam Rider then manages to house a deconstructed part-time kitchen, deployable interior bathroom, L-shaped s",
+    "t": "קמפר על גלגלים עם שלוש דרכי פריסה - כל מחנה בסיס בתוך מטען קצר של פיקאפ\n\nה-Roam Rider SL החדש הוא מכונת תופעות חכמה שלא פשוט מתרוממת כמו קמפרים רגילים - היא נפתחת גם לצדדים עם כנפיים שמחליקות משני הצדדים והוסיפות 20 קוב מטר של מרחב פנימי. בתוך הקמפר עצמו הכל חוקי: מטבח מתקפל, חדר אמבטיה שנשלף, וכל דבר אחר מחליק פנימה והחוצה במקום לתפוס מרחב קבוע. אם אתם זקוקים לבסיס קמפינג שלם בפיקאפ רגיל - זה הוא המכשיר שלכם.",
     "d": "Thu, 30 Apr 2026 02:50:02 GMT",
     "v": 0,
     "l": [
@@ -201,7 +192,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Microsoft lifts 2026 AI spend by $25 billion to cover component price rises\n\nWill write checks for $190 billion and even those megabucks may not satisfy demand If you've felt the sting of surging hardware prices, Microsoft can sympathize because the company on Wednesday said it expects its 2026 capital expenditure will hit $190 billion, with $25 billion of that due to rising component costs.…",
+    "t": "מייקרוסופט מגבירה בעלויות AI ב-25 מיליארד דולר לשנת 2026 בגלל עלייה במחירי רכיבים\n\nמייקרוסופט זורקת 190 מיליארד דולר לשנת 2026 - וזה כולל 25 מיליארד דולר נוספים רק בגלל המחירים המטורפים של GPU ורכיבי חומרה אחרים. כמו כן, גם סכום ענק זה אולי לא יספיק כדי לספק את הביקוש המטורף ל-AI. מאובן שזה מסביר גם למה כל המשחקים על Copilot ו-AI כל כך יקרים בימים אלה. מקור: The Register",
     "d": "2026-04-30T01:15:56.000Z",
     "v": 0,
     "l": [
@@ -215,20 +206,21 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Microsoft"
+      "Microsoft",
+      "Nvidia"
     ],
     "tags": [
       "news",
       "product",
-      "funding"
+      "hardware"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Register"
   },
   {
     "id": 10,
-    "t": "Investors still trust Google more than Meta when it comes to spending their money on AI\n\nAlphabet and Meta both boosted their capex guidance in their first-quarter earnings reports, but Wall Street viewed one much more favorably than the other.",
+    "t": "משקיעים עדיין סומכים על גוגל יותר מעל מטא כשמדובר בהשקעות בבינה מלאכותית\n\nגוגל ומטא שניהם הגדילו את הנחיות ההוצאות שלהם בדוחות הרבעון הראשון, אבל וול סטריט קיבלה הרבה יותר טוב את התוכניות של גוגל. בעוד ששתי החברות משקיעות ביד כבדה ב-AI, נראה שהשוק עדיין בטוח יותר בדרך של אלפבית.",
     "d": "Thu, 30 Apr 2026 01:02:40 GMT",
     "v": 0,
     "l": [
@@ -241,21 +233,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google",
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 11,
-    "t": "Bernie Sanders urges international cooperation to halt AI’s ‘runaway train’\n\nUS senator holds panel with leading Chinese scientists and warns of risks to society unless new technology is regulated \nThe US senator Bernie Sanders espoused the importance of international cooperation in regulating AI at a Wednesday panel on Capitol Hill alongside two leading Chinese scientists.\nAs startups and tech giants, most prominently in Silicon Valley and Beijing, race to advance and scale their artificial intelligence, Sanders has been among the AI skeptics advocating for safeguards.\n",
+    "t": "ברני סנדרס קורא לשיתוף פעולה בינלאומי כדי לעצור את הרכבת התאונות של AI\n\nסנדרס התכנס בcapitol hill עם מדענים סינים מובילים והזהיר שבלי רגולציה חדשה, AI עלול לגרום נזק חברתי משמעותי. בזמן שחברות סטארטאפ וענקיות טק מתחרים בהמוניהם כדי להתקדם בעולם ה-AI, הסנטור האמריקאי ממשיך להצביע על הצורך בבלמים וסדרי משחק בינלאומיים כדי שהטכנולוגיה לא תצא מכלל שליטה.",
     "d": "Thu, 30 Apr 2026 01:01:09 GMT",
     "v": 0,
     "l": [
@@ -278,7 +266,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Microsoft delivers a promising quarter but can't shake the software fears\n\nWith plenty of puts and takes, it's not surprising to see the stock oscillating between modest gains and losses in after-hours trading.",
+    "t": "מיקרוסופט מגישה רבעון מבטיח אבל לא יכולה להיפטר מחששות התוכנה\n\nמיקרוסופט הצליחה להדהים בתוצאות הרבעון, אבל השוק עדיין חוגג בזהירות - יש כאן ספיקים ויש כאן צללים שמונעים מהמניה להחליט אם היא רוצה להעפיל או להיסוג. בסופו של דבר, ההתנודדות בשוק אחרי-שעות עדכן אותנו שהטבעת הכסף של ענקי הטכנולוגיה זה עסק מורכב שלא כל כך קל להחליט עליו. מקור: CNBC Tech",
     "d": "Thu, 30 Apr 2026 00:23:30 GMT",
     "v": 0,
     "l": [
@@ -291,12 +279,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -304,7 +289,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "Amazon’s cloud business is surging — and so is its capital spending\n\nThe e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
+    "t": "עסקי הענן של אמזון מתפוצצים - וגם ההשקעות שלהם\n\nAWS של אמזון מדפיקה כסף יותר מהצפוי, אבל בתמורה החברה שוקלת להשקיע בעצום בתשתיות ו-AI בעוד זמן ממושך. המנכ\"ל של הענק האמריקאי מדגיש שהתבואה הגדולה של cloud computing דורשת כסף כבד, והם מוכנים לשלם את המחיר.",
     "d": "Thu, 30 Apr 2026 00:14:23 +0000",
     "v": 0,
     "l": [
@@ -330,7 +315,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Sources: Anthropic could raise a new $50B round at a valuation of $900B\n\nThe maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+    "t": "מקורות: Anthropic עשויה להגיע לסבב גיוס של 50 מיליארד דולר בהערכה של 900 מיליארד\n\nיוצרת Claude מקבלת הצעות קדם-אמיתיות בהערכות שנעות בין 850 ל-900 מיליארד דולר, לפי מקורות מעופים בנושא. זה אומר שחברת ה-AI הישראלית (כן, כמו כל חברה בתחום!) הופכת לאחת החברות היקרות ביותר בעולם, כמעט כמו שזה קרה ל-OpenAI ו-Anthropic שמשנות את המשחק. מדובר בהשקעה ענקית שתחזק את המרוץ בין ענקי ה-AI להשתלטות על השוק.",
     "d": "Thu, 30 Apr 2026 00:07:15 +0000",
     "v": 0,
     "l": [
@@ -344,20 +329,20 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
+      "OpenAI",
       "Anthropic"
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 15,
-    "t": "Robot dives 1.5 miles to map French shipwreck with 86,000 images, recovers artifacts\n\nA remotely operated robot has retrieved artifacts from a 16th-century shipwreck more than 1.5 miles...",
+    "t": "רובוט צלל 2.4 קילומטרים למפות ספינה沉没צרפתית עם 86,000 תמונות והחזיר חפצים\n\nרובוט שליטה מרחוק בצלל לעומק של 2.4 קילומטרים כדי לתעד ספינה沉没מהמאה ה-16 בצרפת - וצולם 86,000 תמונות! המשימה הייתה סופר מרשימה: הרובוט הצליח לא רק למפות את אתר השריפה אלא גם להחזיר חפצים היסטוריים שיתנו לנו חלון לעבר. זה כמו הרובוטיקה משחקת ארכיאולוגיה בסגנון פלזמה - טכנולוגיה משכנעת בשירות ההיסטוריה. מקור: Interesting Engineering",
     "d": "Thu, 30 Apr 2026 00:07:01 +0000",
     "v": 0,
     "l": [
@@ -372,8 +357,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -381,7 +365,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "Elon Musk’s worst enemy in court is Elon Musk\n\nJust a simple country CEO who was being tricked by that sophisticated lawyer | Image: Cath Virginia / The Verge, Getty Images\t\n\nAbout five hours into Elon Musk's testimony, I typed the following sentence into my notes: \"I have never been more sympathetic to Sam Altman in my life.\"\nMusk's direct testimony was an improvement over yesterday - even if his lawyer kept asking leading questions to cue him in how to answer. But that memory was immediately obliterated by an absolutely miserable cross-exa",
+    "t": "אויבו הגדול של אילון מאסק בחדר המשפט? אילון מאסק עצמו\n\nמאסק התחיל לעדות בבית המשפט והדברים לא הלכו כמו שהוא כנראה תכנן - התשובות שלו תחת חקירה צולבת היו כל כך בעייתיות שאפילו מי שטוען שסאם אלטמן הוא הנבל של הסיפור זה קשה להגן עליו. הסתברות טובה שהעורך דינו של מאסק כרגע מתחרט על כל בחירה בחייו.",
     "d": "2026-04-30T00:01:24.000Z",
     "v": 0,
     "l": [
@@ -396,8 +380,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -405,7 +388,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "On the stand, Elon Musk can’t escape his own tweets\n\nElon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
+    "t": "בעדותו, אילון מאסק לא יכול להימלט מהציוצים שלו\n\nאילון מאסק חזר לעדות היום למחרת בניסיון המשפטי שלו לפרק את OpenAI. בזמן השימוע, הוא נתקל בהוכחות שונות מהטיוטים הישנים שלו שאמורים לתמוך בטענותיו נגד החברה שהוא עזר להקים בעצמו.",
     "d": "Wed, 29 Apr 2026 23:58:36 +0000",
     "v": 0,
     "l": [
@@ -431,7 +414,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "Meta is still burning money on AR/VR\n\nMeta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+    "t": "מטא עדיין שורפת כסף על AR/VR\n\nReality Labs של מטא ממשיכה להוציא מיליארדים דולר בכל רבעון, ועם ההשקעות הענקיות שלהם ב-AI, ההוצאות רק הולכות לעלות עוד יותר. כנראה שזאק בטוח שזה עדיין העתיד, גם אם זה עולה לו פורטונה.",
     "d": "Wed, 29 Apr 2026 23:58:26 +0000",
     "v": 0,
     "l": [
@@ -444,21 +427,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 19,
-    "t": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal\n\nMicrosoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+    "t": "סטיה נדלה מוכן ל'ניצול' מירבי' של הסכם OpenAI החדש\n\nמיקרוסופט קיבלה גישה לטכנולוגיה של OpenAI כדי להציע לגרייהלקוחות הענן שלה בלי לשלם על זה - וזה בדיוק מה שנדלה חיכה לזה. בעצם, הנשיא של מיקרוסופט הבהיר שהם עומדים להשתמש בזה בכל הדרכים האפשריות כדי לחזק את מעמד החברה בשוק ה-AI.",
     "d": "Wed, 29 Apr 2026 23:55:23 +0000",
     "v": 0,
     "l": [
@@ -472,13 +451,11 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Microsoft"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "model",
-      "product"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -486,7 +463,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "Alphabet increases AI spending but gets rewarded for further proof that it's paying off\n\nAs of Wednesday's nearly record-high close of around $350, the stock was already up nearly 12% year to date.",
+    "t": "גוגל מגביל הוצאות AI אבל השוק מנחמד אותה על ההוכחות שזה כדאי\n\nאלפבית לא חוסכת בהוצאות AI ובשביל זה השוק מעניק לה עמידה - המניה עלתה כ-12% מתחילת השנה ואגיע רוב בימים האלו לקרוב לשיא כל הזמנים של 350 דולר.",
     "d": "Wed, 29 Apr 2026 23:50:55 GMT",
     "v": 0,
     "l": [
@@ -509,7 +486,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "We're raising our price target on Amazon after its all-around killer quarter\n\nThe stock's April rally set a high bar heading into Wednesday's print. But the company's results resoundingly cleared it.",
+    "t": "אמזון הצליחה לעלות את ציפיות המתחזקים - ניתוח המחיר עולה\n\nאמזון זרקה רובע מנצח שמנפצים את כל הציפיות שהיו כבר גבוהות - הרלי באפריל כבר הציבה סטנדרט חזק, אבל תוצאות החברה עלו מעל הכל. המחיר של המניה אמור לתפוס עוד דחיפה כלפי מעלה, ובגלל זה המתחזקים החליטו להעלות את ה-price target שלהם. | מקור: CNBC Tech",
     "d": "Wed, 29 Apr 2026 23:50:50 GMT",
     "v": 0,
     "l": [
@@ -522,12 +499,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -535,7 +509,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "Amazon chips no longer just a side dish, they're a $20B biz\n\nThe Trainium train keeps a-rollin' Amazon is now among the top three datacenter chip businesses in the world, as its semiconductor business surpassed a $20 billion annual run rate ... and it would be closer to $50 billion if it included itself among the customers, CEO Andy Jassy said during the company’s first quarter earnings call on Wednesday.…",
+    "t": "שבבי אמזון כבר לא צד - זו ביזנס של 20 מיליארד דולר\n\nאמזון הפכה לאחד שלושת שחקנים המובילים בעולם בתחום שבבי מרכזי נתונים, כשחטיבת ה-Trainium שלה עברה את סף ה-20 מיליארד דולר בשנה. המספר היה יכול להגיע לכמעט 50 מיליארד אם היו סופרים גם את השימוש של אמזון בעצמה בשבביה - כך הגיד ה-CEO של החברה בכנס הרווחים של הרבעון הראשון. מה שהתחיל כ'פרויקט צד' הפך להיות ממש ביזנס אמיתי של אמזון.",
     "d": "2026-04-29T23:47:45.000Z",
     "v": 0,
     "l": [
@@ -548,21 +522,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Register"
   },
   {
     "id": 23,
-    "t": "For first time in 50 years, Utah nuclear reactor will generate electricity for AI\n\nThe University of Utah is preparing an unusual nuclear experiment this summer. Its TRIGA research...",
+    "t": "לראשונה ב-50 שנה: כור גרעיני ביוטה יייצר חשמל עבור AI\n\nאוניברסיטת יוטה עומדת לבצע ניסוי גרעיני מוזר הקיץ הקרוב - הם הולכים להשתמש בכור TRIGA שלהם, שלא הפיק חשמל למטרות מעשיות כמעט חמישים שנה, בשביל להנעת תשתיות AI. זה כמו שהצילום הקדום פתאום החליט שהוא רוצה להיות ישראלי של הטכנולוגיה.",
     "d": "Wed, 29 Apr 2026 23:46:06 +0000",
     "v": 0,
     "l": [
@@ -612,7 +582,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "15-second semicylinder air tent unboxes from the cube\n\nLast year, South African camping trailer manufacturer AlphaGo slid off wheeled chassis and launched the impressive Cube Air Tent, a larger-than-life inflatable built to sleep up to six people. But wilderness wanderers who really want to escape daily life for the warm embrace of wild serenity might be best-served by leaving those five others behind ... back in the city.\nContinue Reading\nCategory: Tents, Gear, Outdoors\nTags: Tent, Inflatable, Camping, Outdoors and Camping",
+    "t": "אוהל אוויר חצי-גלילוני שפורץ מקוביה תוך 15 שניות\n\nהיצרנית הדרום אפריקאית AlphaGo השיקה את ה-Cube Air Tent, אוהל מתנפח ענקי שיכול להכיל עד שישה אנשים ולהתרחב תוך שניות ממינימום. אם אתם חלומות על בריחה אמיתית מהעיר עם משפחה או חברים, זהו ה-game changer שהיתם מחכים לו בטיולי קמפינג.",
     "d": "Wed, 29 Apr 2026 23:04:00 GMT",
     "v": 0,
     "l": [
@@ -1000,7 +970,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 41,
-    "t": "Where the goblins came from\n\nHow goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+    "t": "מהיכן הגבלינים בכלל הגיעו\n\nOpenAI חשפה את התעלומה של התנהגויות המוזרות שהופיעו ב-GPT-5 - איך בדיוק הודים מוזרים אלה התחילו להופיע בפלט המודל ומה הסיבה השורשית מאחוריהם. המחקר מתאר את הציר הזמני המלא, הגורמים האמיתיים, וכמובן גם את התיקונים שמנעו מרובוט ה-AI להישאר גבלין אישיות מוזר לנצח. מקור: OpenAI Blog",
     "d": "Wed, 29 Apr 2026 20:00:00 GMT",
     "v": 0,
     "l": [
