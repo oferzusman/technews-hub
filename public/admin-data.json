@@ -1,9 +1,9 @@
 {
-  "total": 6246,
+  "total": 6298,
   "translated": 6246,
-  "untranslated": 0,
-  "today": 82,
-  "week": 943,
+  "untranslated": 52,
+  "today": 134,
+  "week": 995,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 412,
+      "total": 419,
       "translated": 412,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
@@ -31,7 +31,7 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 291,
+      "total": 292,
       "translated": 291,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
@@ -42,56 +42,56 @@
       "lastDate": "Wed, 22 Apr 2026 16:27:39 -0400"
     },
     {
-      "name": "Ars Technica",
-      "total": 268,
-      "translated": 268,
-      "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
-    },
-    {
       "name": "CNBC Tech",
-      "total": 265,
+      "total": 276,
       "translated": 265,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
+      "name": "Ars Technica",
+      "total": 274,
+      "translated": 268,
+      "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
+    },
+    {
       "name": "New Atlas",
-      "total": 250,
+      "total": 256,
       "translated": 250,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 204,
+      "total": 207,
       "translated": 204,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "The Decoder",
-      "total": 192,
+      "total": 196,
       "translated": 192,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "The Register",
-      "total": 184,
+      "total": 187,
       "translated": 184,
-      "lastDate": "2026-04-30T12:20:12.000Z"
+      "lastDate": "2026-04-30T14:19:08.000Z"
     },
     {
       "name": "The Guardian AI",
-      "total": 145,
+      "total": 147,
       "translated": 145,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
       "name": "The Verge AI",
-      "total": 123,
+      "total": 129,
       "translated": 123,
-      "lastDate": "2026-04-30T11:38:26.000Z"
+      "lastDate": "2026-04-30T16:48:13.000Z"
     },
     {
       "name": "MarkTechPost",
-      "total": 115,
+      "total": 116,
       "translated": 115,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -109,7 +109,7 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 93,
+      "total": 94,
       "translated": 93,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
@@ -127,7 +127,7 @@
     },
     {
       "name": "AI News",
-      "total": 57,
+      "total": 58,
       "translated": 57,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-30T16:55:32.764Z"
+  "generatedAt": "2026-04-30T18:08:17.999Z"
 }
