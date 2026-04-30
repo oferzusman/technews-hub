@@ -125895,7 +125895,7 @@
       "author": "Jay Peters",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-29T22:09:40.447Z",
       "created_at": "2026-04-29T22:09:40.447Z"
     },
@@ -125920,7 +125920,7 @@
         "YouTube"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-29T22:09:40.496Z",
       "created_at": "2026-04-29T22:09:40.496Z"
     },
@@ -126243,7 +126243,7 @@
       "author": "Neetika Walter",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-29T22:09:44.331Z",
       "created_at": "2026-04-29T22:09:44.331Z"
     },
@@ -126260,7 +126260,7 @@
       "author": "Neetika Walter",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-29T22:09:44.331Z",
       "created_at": "2026-04-29T22:09:44.331Z"
     },
@@ -126328,7 +126328,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-29T22:09:48.683Z",
       "created_at": "2026-04-29T22:09:48.683Z"
     },
@@ -126345,7 +126345,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-04-29T22:09:48.683Z",
       "created_at": "2026-04-29T22:09:48.683Z"
     },
@@ -126365,6 +126365,156 @@
       "priority": "batch",
       "fetchedAt": "2026-04-29T22:09:48.683Z",
       "created_at": "2026-04-29T22:09:48.683Z"
+    },
+    {
+      "id": 6158,
+      "source": "TechCrunch AI",
+      "title_en": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+      "description_en": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+      "image_url": null,
+      "pub_date": "Wed, 29 Apr 2026 23:02:23 +0000",
+      "author": "Julie Bort",
+      "categories": [
+        "AI",
+        "copilot ai",
+        "Microsoft"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T23:09:54.024Z",
+      "created_at": "2026-04-29T23:09:54.024Z"
+    },
+    {
+      "id": 6159,
+      "source": "TechCrunch AI",
+      "title_en": "Google Cloud surpasses $20B but says growth was capacity-constrained",
+      "description_en": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+      "image_url": null,
+      "pub_date": "Wed, 29 Apr 2026 22:20:48 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "AI",
+        "Enterprise",
+        "Alphabet",
+        "Enterprise AI",
+        "google cloud"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T23:09:54.025Z",
+      "created_at": "2026-04-29T23:09:54.025Z"
+    },
+    {
+      "id": 6160,
+      "source": "OpenAI Blog",
+      "title_en": "Building the compute infrastructure for the Intelligence Age",
+      "description_en": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+      "image_url": null,
+      "pub_date": "Wed, 29 Apr 2026 15:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Global Affairs"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-04-29T23:09:55.918Z",
+      "created_at": "2026-04-29T23:09:55.918Z"
+    },
+    {
+      "id": 6161,
+      "source": "The Guardian AI",
+      "title_en": "Claude AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’",
+      "description_en": "PocketOS was left scrambling after a rogue AI agent deleted swaths of code underpinning its business\nIt only took nine seconds for an AI coding agent gone rogue to delete a company’s entire production database and its backups, according to its founder. PocketOS, which sells software that car rental businesses rely on, descended into chaos after its databases were wiped, the company’s founder Jeremy Crane said.\nThe culprit was Cursor, an AI agent powered by Anthropic’s Claude Opus 4.6 model, whic",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database",
+      "image_url": "https://i.guim.co.uk/img/media/fa34b7fa4b1128132c4cb04504f8108b473af0c8/542_0_5417_4334/master/5417.jpg?width=140&quality=85&auto=format&fit=max&s=e221f627a54107a7d1a62ca7b7372d4f",
+      "pub_date": "Wed, 29 Apr 2026 22:12:49 GMT",
+      "author": "Sanya Mansoor",
+      "categories": [
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Software",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/software"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T23:09:56.567Z",
+      "created_at": "2026-04-29T23:09:56.567Z"
+    },
+    {
+      "id": 6162,
+      "source": "Interesting Engineering",
+      "title_en": "RIPSAW M1 military robot vehicle hits 53 mph, scouts terrain and launches munitions",
+      "description_en": "The U.S. Marine Corps is reshaping how it fights along coastlines. Smaller units, faster movement,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/ripsaw-m1-robot-53mph-munition-launcher",
+      "image_url": null,
+      "pub_date": "Wed, 29 Apr 2026 22:24:23 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T23:09:59.011Z",
+      "created_at": "2026-04-29T23:09:59.011Z"
+    },
+    {
+      "id": 6163,
+      "source": "CNBC Tech",
+      "title_en": "Jim Cramer reveals the secret to finding a winning tech stock in this market",
+      "description_en": "CNBC's Jim Cramer said tech stocks need more than an earnings beat to rally right now. They need a shortage.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/29/jim-cramer-secret-winning-tech-stock.html",
+      "image_url": null,
+      "pub_date": "Wed, 29 Apr 2026 22:45:30 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T23:09:59.526Z",
+      "created_at": "2026-04-29T23:09:59.526Z"
+    },
+    {
+      "id": 6164,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic in talks with investors to raise funds at $900 billion valuation, higher than OpenAI",
+      "description_en": "Anthropic is in talks with investors about raising cash at a valuation of $900 billion, CNBC has confirmed.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/04/29/anthropic-weighs-raising-funds-at-900b-valuation-topping-openai.html",
+      "image_url": null,
+      "pub_date": "Wed, 29 Apr 2026 23:09:46 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-04-29T23:09:59.526Z",
+      "created_at": "2026-04-29T23:09:59.526Z"
     }
   ]
 }
