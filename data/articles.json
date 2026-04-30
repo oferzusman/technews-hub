@@ -128419,8 +128419,8 @@
       "source": "Ars Technica",
       "title_en": "The hidden cost of Google's AI defaults and the illusion of choice",
       "description_en": "Google says it respects user privacy in AI, but the reality is not so black and white.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "העלות הנסתרת של ברירות המחדל של AI של גוגל והאשליה של בחירה",
+      "description_he": "גוגל טוענת שהיא שומרת על פרטיותך ב-AI, אבל במציאות זה הרבה יותר מסובך. התוקצר של הענקית הטכנולוגית כשמדובר בהגנת נתונים ו-AI הוא לא כל כך קשור לצבע הירוק של היוקרה, וגם לא כל כך שחור כמו שאנחנו מעלים דעות. בעיקרו של דבר, רוב המשתמשים לא באמת יודעים מה קורה עם הנתונים שלהם.",
       "link": "https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-3-1152x648.jpg",
       "pub_date": "Thu, 30 Apr 2026 11:00:31 +0000",
@@ -128435,7 +128435,7 @@
         "google",
         "privacy"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-30T17:43:29.711Z",
       "created_at": "2026-04-30T17:43:29.711Z"
@@ -128576,8 +128576,8 @@
       "source": "OpenAI Blog",
       "title_en": "Introducing Advanced Account Security",
       "description_en": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "הצגת אבטחת חשבון מתקדמת",
+      "description_he": "OpenAI משיקה שכבת אבטחה חדשה שמגנה על החשבונות שלנו מפני התקפות phishing, עם אפשרויות התחזוקה חזקות יותר והגנות משופרות שמונעות כניסות בלתי מורשות. זה בעצם ההתקנה הביטחונית שכולנו חיכינו לה. מקור: OpenAI Blog",
       "link": "https://openai.com/index/advanced-account-security",
       "image_url": null,
       "pub_date": "Thu, 30 Apr 2026 00:00:00 GMT",
@@ -128585,7 +128585,7 @@
       "categories": [
         "Product"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-04-30T17:43:31.320Z",
       "created_at": "2026-04-30T17:43:31.320Z"
