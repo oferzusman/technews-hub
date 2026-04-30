@@ -1,15 +1,15 @@
 {
-  "total": 6189,
+  "total": 6228,
   "translated": 6189,
-  "untranslated": 0,
-  "today": 25,
-  "week": 886,
+  "untranslated": 39,
+  "today": 64,
+  "week": 925,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 751,
+      "total": 778,
       "translated": 751,
-      "lastDate": "2026-04-29T05:30:31.000Z"
+      "lastDate": "2026-04-30T05:06:28.000Z"
     },
     {
       "name": "Pypi.org",
@@ -19,13 +19,13 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 404,
+      "total": 408,
       "translated": 404,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 401,
+      "total": 404,
       "translated": 401,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 248,
+      "total": 249,
       "translated": 248,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -85,13 +85,13 @@
     },
     {
       "name": "The Verge AI",
-      "total": 120,
+      "total": 121,
       "translated": 120,
-      "lastDate": "2026-04-30T00:01:24.000Z"
+      "lastDate": "2026-04-30T11:00:00.000Z"
     },
     {
       "name": "MarkTechPost",
-      "total": 114,
+      "total": 115,
       "translated": 114,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -127,7 +127,7 @@
     },
     {
       "name": "AI News",
-      "total": 54,
+      "total": 56,
       "translated": 54,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-30T09:34:03.198Z"
+  "generatedAt": "2026-04-30T11:18:35.069Z"
 }
