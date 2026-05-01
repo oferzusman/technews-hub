@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "באג קריטי ב-Linux נותן גישת מנהל מערכת למעשה מיידית בכמעט כל ההפצות מאז 2017\n\nחברות וארגונים ישראליים שמריצים Linux צריכים להיות מעולים - התגלה חור אבטחה זעום שנח במערכות לפחות 6 שנים וב-boom, כל משתמש מקומי יכול לקבל הרשאות root בשניה. בעצם זה בעיה בטיפול שגוי של קריפטוגרפיה במערכת, וזה כל כך קל שזה כמעט בדיחה.",
+    "t": "Linux exploit instantly grants administrator access on most distributions since 2017 — cryptography optimization snafu grants root privileges to local users\n\nZero-day exploit instantly grants administrator access on most Linux distributions since 2017",
     "d": "Fri, 01 May 2026 10:20:00 +0000",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "מסמכי תקציב הפנטגון חושפים: ארצות הברית מפתחת נשקי לייזר בעוצמה 300 קילוואט שיורים טילים - חלק מיוזמה הגנה בשווי 17.9 מיליארד דולר\n\nהמסמכים התקציביים החדשים של הפנטגון לשנת 2027 חושפים פרויקט חדש ושם - Joint Laser Weapon System, נשק לייזר ניידכל בעוצמה עוצמתית של למעלה מ-300 קילוואט שתפקידו לחצוף טילי שיוט באוויר. המערכת היא חלק מגדול מהיוזמה 'Golden Dome' של צבא ארה\"ב להגנה מפני טילים, שקיבלה תקציב ענק של 17.9 מיליארד דולר - וזה נראה כמו משהו שישר בא מסרט מדע בדיון.",
+    "t": "Pentagon budget documents reveal it's pursuing containerized 300kW+ laser weapons, ambitious Joint Laser Weapon System designed to shoot down cruise missiles — system part of $17.9 billion Golden Dome missile-defense initiative\n\nNew Pentagon FY2027 budget documents reveal the Joint Laser Weapon System, a containerized 300kW+ laser weapon designed to intercept cruise missiles as part of the US military’s Golden Dome missile-defense initiative.",
     "d": "Fri, 01 May 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -39,15 +39,16 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news"
+      "news",
+      "funding"
     ],
-    "imp": "low",
+    "imp": "high",
     "thumb": "https://cdn.mos.cms.futurecdn.net/Kt3YycFmFuEiXfjCacjMmb-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 3,
-    "t": "רובוטים הומנואידים יטפלו בתיקים שלכם בנמל התעופה המעומת בטוקיו\n\nבפעם הבאה שתעוף דרך נמל התעופה Haneda בטוקיו, יכול להיות שרובוט הומנואיד עם ידיים דקות וגמישות יטפל בהכנסת התיקים שלך - פתרון חכם לבעיית הקילוח בצוות שהשדה סובל ממנה. יפן ממשיכה להוביל בתחום ה-robotics עם פתרונות כאלה שמשפרים את חוויית הנוסעים והחוזקים של העבודות שאנשים לא כל כך רוצים לעשות.",
+    "t": "Humanoids will handle your baggage at Tokyo's short-staffed airport\n\nThe next time you fly through Tokyo's Haneda Airport, your luggage might be taken care of by the dexterous hands of a humanoid robot.\nContinue Reading\nCategory: AI and Humanoids, Technology\nTags: Humanoid, Unitree, Japan, Airports, Robot, Automation",
     "d": "Fri, 01 May 2026 09:57:00 GMT",
     "v": 0,
     "l": [
@@ -71,7 +72,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "ה-\"AI co-clinician\" של Google DeepMind הביס את GPT-5.4 במבחנים עיוור של רופאים, אבל עדיין מפגר מאחורי רופאים מנוסים\n\nGoogle DeepMind בנתה מערכת AI שנועדה להיות \"co-clinician\" ולעזור לרופאים בטיפול בחולים, והיא כבר מראה תוצאות מרשימות במבחנים סימולציה - אפילו טובות יותר מ-GPT-5.4. אבל בואו לא נשכחים שהיא עדיין מפגרת מאחורי רופאים בעלי ניסיון, וזה בעצם מראה לנו למה אפילו voice mode של ChatGPT הוא עדיין רחוק מלהיות מוכן למשימות קריטיות כמו ייעוץ רפואי. המחקר הזה מזכיר לנו שגם כשה-AI מרביץ לאדם בחינה מסוימת, זה לא בדיוק אומר שהוא מוכן להחליף את הקיימים.",
+    "t": "Google Deepmind's \"AI co-clinician\" beats GPT-5.4 in blind doctor tests but still trails experienced physicians\n\nGoogle Deepmind is building an \"AI co-clinician\" to help doctors care for patients. The system shows promising results in simulation studies but still trails experienced physicians. The research also shows why ChatGPT's voice mode isn't ready for serious tasks, let alone medical consultations.\nThe article Google Deepmind's \"AI co-clinician\" beats GPT-5.4 in blind doctor tests but still trails experienced physicians appeared first on The Decoder.",
     "d": "Fri, 01 May 2026 09:21:32 +0000",
     "v": 0,
     "l": [
@@ -98,7 +99,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "חוקרי אוקספורד יצרו אפקט קוונטי נדיר פי 100 מהר ממה שציפו\n\nבפעם הראשונה בהיסטוריה, חוקרים באוקספורד הצליחו להדגים תופעה קוונטית מורכבת הנקראת quadsqueezing שעובדת מהר בהרבה מכל ההערכות הקודמות. התגלית הזו יכולה להיות משחק משנה בתחום הקוונטום ועשויה לפתוח דלתות חדשות בתחום המדידות ודיוק במערכות קוונטיות. מדעני הקוונטום כבר מוקד השמש על הגלים עם הממצא הזה שעלול להשפיע על פיתוח טכנולוגיות קוונטיות עתידיות. מקור: Interesting Engineering",
+    "t": "Oxford scientists create rare quantum effect 100 times faster than expected\n\nFor the first time in quantum physics, Oxford researchers have demonstrated quadsqueezing, a complex fourth-order...",
     "d": "Fri, 01 May 2026 09:03:23 +0000",
     "v": 0,
     "l": [
@@ -121,7 +122,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "הפувольнение ההמוני של טראמפ נחבט נוסף למדע האמריקני\n\nבשבוע שעבר קרה משהו די קשוח למדע בארה\"ב - הנשיא טראמפ פיטר בכלל את כל חברי הדירקטוריון של ה-NSF, הסוכנות הממשלתית שמממנת פרויקטי מחקר לכמעט 9 מיליארד דולר בשנה. עד החמישי האחרון, 22 מדענים מהגדולים בתחומם כיוונו את הארגון - ועכשיו כולם בחוץ. זה עוד כוח חבטה בראש המערכת המדעית האמריקנית שכבר לוקחת מכות מזה הרבה זמן.",
+    "t": "Trump’s mass firing just dealt another blow to American science\n\nThis past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The foundation’s efforts were overseen by a board of 22 prominent scientists. On Friday last week, they were all fired.…",
     "d": "Fri, 01 May 2026 09:00:00 +0000",
     "v": 0,
     "l": [
@@ -136,15 +137,16 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news"
+      "news",
+      "funding"
     ],
-    "imp": "low",
+    "imp": "high",
     "thumb": null,
     "source": "MIT Technology Review"
   },
   {
     "id": 7,
-    "t": "רשת סלולר חדשה בארה\"ב לנוצרים חוסמת תוכן למבוגרים וקשור לנושאי מגדר\n\nרשת סלולר חדשה המיועדת לקהילה הנוצרית בארה\"ב עומדת להשקם בשבוע הקרוב, והיא עושה משהו שלא קרה מעולם בתעשיית הטלקום האמריקאית - חסימה של תוכן פורנוגרפי ברמת הרשת שלא ניתן להשבית אפילו על ידי בעלי חשבונות מבוגרים. רשת זו מוציאה לאור שאלות חשובות על שליטה בתוכן, חופש בחירה וגבולות של שירותים דתיים בתחום הטכנולוגיה.",
+    "t": "A new US phone network for Christians aims to block porn and gender-related content\n\nA new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out a filter…",
     "d": "Fri, 01 May 2026 09:00:00 +0000",
     "v": 0,
     "l": [
@@ -159,7 +161,8 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news"
+      "news",
+      "security"
     ],
     "imp": "low",
     "thumb": null,
@@ -167,7 +170,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "וידאו: מזרק - הרחפן הקמיקזה הטורקי שיכול לעוף 1000 קילומטר עם ראש חרב של 40 קילוגרם\n\nחברת Baykar הטורקית חשפה את הדור החדש של הנשקים הממונעים שלה - מזרק, שיכול לעוף למרחקים ארוכים מדהימים בשביל להכות יעדים עם דיוק קטלני. הטכנולוגיה הזו של loitering munition מייצגת קפיצה משמעותית בתחום המזלטים אווירים ומעלה שאלות חדשות על עתיד המלחמות המודרניות.",
+    "t": "Video: Mizrak kamikaze drone can fly 620 miles to strike targets with 88-pound warhead\n\nBaykar, a Turkish drone maker, introduced its new long-range loitering munition called Mizrak on April...",
     "d": "Fri, 01 May 2026 08:56:44 +0000",
     "v": 0,
     "l": [
@@ -190,7 +193,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "אסון 14 השבועות של DVLA – הטכנולוגיה, האנשים והצ'טבוט שמנסים לתקן את זה\n\nרשות הרישוי הבריטית DVLA התגבלה על בעיה קריטית שבה זמני עיבוד של בקשות רישיון נהיגה עם בדיקות רפואיות הגיעו ל-14 שבועות, ולכן הציגה מערכות טכנולוגיות חדשות כולל צ'טבוט להאצת התהליך. מחזיקי הבקשות עדיין משתהים חודשים על תוך שהגוף ממשיך להבטיח שהוא \"מסדר את הדברים\" – וזה עשוי להיות בדיוק הסוג של בעיית תשתית שלא יפתרו הוספת טכנולוגיה לבד. מקור: The Register",
+    "t": "DVLA's 14-week driving license fiasco – the tech, people and chatbot trying to clear it\n\nMedical license applicants still waiting months while agency insists it's 'putting things right' The Driver and Vehicle Licensing Agency (DVLA) has introduced new techto support driving license applications that require medical checks, after processing times exceeded 14 weeks in February.…",
     "d": "2026-05-01T08:30:15.000Z",
     "v": 0,
     "l": [
@@ -213,7 +216,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Qwen משחררת את Qwen-Scope: ערכת כלים פתוחת קוד של Sparse AutoEncoders שהופכת את החלקים הפנימיים של מודלי שפה לכלים פרקטיים\n\nצוות Qwen בא בחדשות גדולה: הם שחררו את Qwen-Scope, ערכת SAE חדשה שמאפשרת למפתחים להבין ולהשתמש בתכונות הפנימיות של מודלי שפה גדולים בצורה מעשית. זה בעצם מכניס אור לתוך ה'קופסה שחורה' של ה-LLM ונותן בחזרה כלים אמיתיים שאפשר להשתמש בהם. הכלים פתוחים לכולם, מה שאומר שכל מי שרוצה יכול להתחיל להשתמש בזה היום.",
+    "t": "Qwen AI Releases Qwen-Scope: An Open-Source Sparse AutoEncoders (SAE) Suite That Turns LLM Internal Features into Practical Development Tools\n\nQwen Team Introduces Qwen-Scope: An Open-Source Sparse Autoencoder Suite That Turns LLM Internals into Practical Development Tools\nThe post Qwen AI Releases Qwen-Scope: An Open-Source Sparse AutoEncoders (SAE) Suite That Turns LLM Internal Features into Practical Development Tools appeared first on MarkTechPost.",
     "d": "Fri, 01 May 2026 08:25:21 +0000",
     "v": 0,
     "l": [
@@ -230,13 +233,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "low",
+    "imp": "high",
     "thumb": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-01-at-1.00.12-AM-1.png",
     "source": "MarkTechPost"
   },
   {
     "id": 11,
-    "t": "Mistral Medium 3.5 - המודל הגדול החדש שמשלב chat, reasoning וקוד בחבילה אחת\n\nחברת Mistral הצרפתית משגרת את ה-Medium 3.5 החדש שלה, מודל ישיר שמאחד את מה שפעם היו שלוש יכולות נפרדות - שיחה, reasoning והרצת קוד - לכלי אחד חזק. בנוסף, החברה משדרגת את ה-AI agents שלה בכל מקום: agents אסינכרוניים חדשים בכלי הקוד Vibe וmode חדש ב-Le Chat שמסתמך על agents intelligence.",
+    "t": "Mistral's new flagship Medium 3.5 folds chat, reasoning, and code into one model\n\nMistral's new flagship, Mistral Medium 3.5, merges what used to be separate models for chat, reasoning, and code into a single product. The French company is also adding asynchronous cloud agents to its coding tool Vibe and giving Le Chat a new agent mode.\nThe article Mistral's new flagship Medium 3.5 folds chat, reasoning, and code into one model appeared first on The Decoder.",
     "d": "Fri, 01 May 2026 08:21:14 +0000",
     "v": 0,
     "l": [
@@ -260,7 +263,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "בית זעיר לשניים שמחזיר את ההיתכנות להשקעה בדיור קטן\n\nסטארטאפ משיק בית קטנטן חדש שמוכיח שלא צריך להוציא הון כדי לחיות בתנאים נחמדים - הדבר יכול להכיל עד שני אנשים עם מחיר שעדיין יתן לכם לישון בלילה. הפרויקט הזה חוזר לשורשים של תנועת ה-tiny living עם דגש על כך שעדיין אפשר לחיות בחכמה וברווחה כשמדברים על דיור קטן וזול. זה חדש מהתחום של בנייה מינימליסטית שעשוי להשנות את הדיון בישראל על משברי הדיור.",
+    "t": "Two-person tiny house puts the affordable back into small living\n\nThis pint-sized tiny house recalls the small living movement's humble roots by combining a very compact footprint that sleeps up to two people with a surprisingly affordable price.\nContinue Reading\nCategory: Tiny Houses, Outdoors\nTags: Building and Construction, Tiny Footprint, Micro-House, House, Home",
     "d": "Fri, 01 May 2026 08:03:18 GMT",
     "v": 0,
     "l": [
@@ -283,7 +286,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "האו\"ם מזהיר: נשים בחיים הציבוריים מתחת לאש של אלימות דיגיטלית מתוחכמת\n\nהדוח של האו\"ם על נשים חושף תופעה מחרידה: AI משוקללת והעדר חוקים יעילים יוצרים סביבה רעה באופן קריטי למעורבות בעולם הדיגיטלי. עיתונאיות, פעילות זכויות אדם ונשים בחיים הציבוריים מוצאות עצמן מול איומים גוברים של אלימות מקוונת מתוחכמת, כולל שימוש ב-AI ליצירת תוכן מיניימה מדומה. הבעיה מחמירה עוד יותר בגלל האנונימיות במרחב הדיגיטלי והכישלון של מערכות החוק להתמודד עם התופעה.",
+    "t": "UN warns women in public life face increasingly sophisticated online violence\n\nUN Women report says AI, anonymity and lack of effective laws are increasing the risks of engaging in digital spaces\nWomen in public life are facing growing and increasingly sophisticated forms of online violence, the UN has said, warning that “AI-assisted ‘virtual rape’ is now at the fingertips of perpetrators”.\nFemale rights campaigners, journalists and other public communicators face a deepening threat due to a combination of artificial intelligence, anonymity and the absence of effective law",
     "d": "Fri, 01 May 2026 07:00:42 GMT",
     "v": 0,
     "l": [
@@ -296,17 +299,21 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
-    "tags": [
-      "news"
+    "co": [
+      "Amazon"
     ],
-    "imp": "low",
+    "tags": [
+      "news",
+      "product",
+      "regulation"
+    ],
+    "imp": "medium",
     "thumb": "https://i.guim.co.uk/img/media/260c9aca4a334541fc27f0dacb7de931beacd76f/218_0_2564_2051/master/2564.jpg?width=140&quality=85&auto=format&fit=max&s=b75c5ca8ab9d11dfc08d336a45ae3576",
     "source": "The Guardian AI"
   },
   {
     "id": 14,
-    "t": "רובוטים ספורטיבים מחמיצים את עצם הרוח של הספורט – בלי רגשות אין דרמה\n\nבעולם שבו רובוטים מתחרים מול אנשים, תוצאות מושלמות אולי מרשימות אבל גם משעממות למות. אמנם הרובוט יכול לקלוע בדיוק מתמטי, אבל הוא לעולם לא יחווה את כאבו של החטא בנקודה משמעותית או את האדרנלין של ניצחון במשחק קרוב - וזה בדיוק מה שהופך ספורט להיות מעניין.",
+    "t": "Robo athletes miss the point of sport – there is no drama without emotion | Emma John\n\nWe are in a world where robots compete against humans and while perfect scores might be impressive, they are also dull\nIt hurts to miss an unmarked shot in basketball. And it certainly seemed to pain the Alvark Tokyo shooter, halfway through April’s Japanese league game against Shimane Susanoo Magic. As the ball bounded off the rim, the player wheeled away, head lowered, eyes downcast. The disappointment looked glaringly real.\nWhich is interesting, because it was not. The player could not have c",
     "d": "Fri, 01 May 2026 07:00:39 GMT",
     "v": 0,
     "l": [
@@ -321,7 +328,8 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news"
+      "news",
+      "robotics"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/b49c09fed712b471a1dee1cdfa649bec875542cb/42_0_5841_4672/master/5841.jpg?width=140&quality=85&auto=format&fit=max&s=aa5004df30b5faa256f3d7ba666f799d",
@@ -329,7 +337,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "מנכ\"ל אפל טים קוק מזהיר מחוסר זכרון שיתמשך. 'נבדוק מגוון אפשרויות'\n\nבדו\"ח הרווחים הרבעוני של אפל, טים קוק הזהיר שחוסר זכרון (memory) יהיה בעיה מתמשכת בשלושת הרבעונים הקרובים, וברור שהחברה צריכה למצוא פתרונות יצירתיים כדי להתמודד עם הבעיה הזו. נראה שהעניין קשור גם לדרישה הגוברת על צ'יפים חזקים יותר, במיוחד עם התפתחות ה-AI ותחום הלמידה המכונית.",
+    "t": "Apple CEO Tim Cook warns of extended memory crunch. 'We'll look at a range of options'\n\nIn Apple's quarterly earnings report, CEO Tim Cook warned of further memory constraints in the coming quarters.",
     "d": "Fri, 01 May 2026 07:00:01 GMT",
     "v": 0,
     "l": [
@@ -342,17 +350,20 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
-    "tags": [
-      "news"
+    "co": [
+      "Apple"
     ],
-    "imp": "low",
+    "tags": [
+      "news",
+      "product"
+    ],
+    "imp": "medium",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 16,
-    "t": "צלילה עמוקה לקוד: Agentic UI, Generative UI, סנכרון מצב ו-Approval Flows\n\nבמדריך מעניין הזה בנו את כל ה-Agentic UI stack מאפס בעזרת Python טהור, ללא תלות בפריימוורקים חיצוניים. התוכנית מציגה את ה-AG-UI event stream שמאפשר לצפות בהתנהגות של agents בזמן אמת, ובונים שכבה declarative עם A2UI שמאפשרת לממשקים להיות יותר חכמים וגמישים. למי שרוצה להבין איך בעצם עובדות הממשקים של AI agents - זה המקום לתחול!",
+    "t": "A Coding Deep Dive into Agentic UI, Generative UI, State Synchronization, and Interrupt-Driven Approval Flows\n\nIn this tutorial, we build the entire Agentic UI stack from the ground up using plain Python, without relying on external frameworks to abstract away the core ideas. We implement the AG-UI event stream to make agent behavior observable in real time, and we bring in A2UI as a declarative layer that allows interfaces to […]\nThe post A Coding Deep Dive into Agentic UI, Generative UI, State Synchronization, and Interrupt-Driven Approval Flows appeared first on MarkTechPost.",
     "d": "Fri, 01 May 2026 05:06:51 +0000",
     "v": 0,
     "l": [
@@ -376,7 +387,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "'פשוט נורא': מחפשי עבודה בבריטניה משתפים את התסכול שלהם מראיונות AI\n\nכמעט חצי מחפשי העבודה בבריטניה עברו כבר ראיון עם AI, וחלקם עזבו את התהליך כולו בגלל זה. המחקר של Greenhouse חושף שהתהליך תחום וחוקי מאוד, וכמעט שליש מהמועמדים בחרו להתנער מחברות שהשתמשו בטכנולוגיה הזו בשלב הראיון - כי בסופו של דבר, אנחנו עדיין רוצים להרגיש שאנחנו מדברים עם בן אדם אמיתי.",
+    "t": "‘Completely horrible’: UK job hunters share frustration with AI interviews\n\nPeople describe awkward and unnatural process as survey finds nearly half of job seekers have been interviewed by AI\nNearly half (47%) of UK job seekers have had an AI interview, research from the hiring platform Greenhouse has found.\nIn its survey of 2,950 active job seekers, including 1,132 UK-based workers, with additional respondents from the US, Germany, Australia and Ireland, it found that 30% of UK candidates had walked away from a hiring process because it included an AI interview.\n Cont",
     "d": "Fri, 01 May 2026 05:00:38 GMT",
     "v": 0,
     "l": [
@@ -399,7 +410,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "PeekFocus\n\nכלי חדש שעולה לאתר Product Hunt שנראה שנועד לעזור לכם להתמקד בעבודה ולהימנע מהפיזור. אנחנו עדיין מחכים לפרטים מלאים על כל מה שהטול הזה יכול לעשות, אבל זה נראה כמו משהו שצריך לעקוב אחריו אם אתם מתקשים עם הריכוזיות.",
+    "t": "PeekFocus\n\nDiscussion\n            |\n            Link",
     "d": "2026-05-01T04:57:56.000Z",
     "v": 0,
     "l": [
@@ -422,7 +433,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "פוג'יצו מאשרת: עידן מחשבי המיינפריים יסתיים ב-2035, וקוונטום AI יירשום את המשך הדרך\n\nפוג'יצו הודיעה רשמית שהיא תוציא מהשוק את קו המחשבים המיינפריים שלה עד 2035, בזמן שהחברה היפנית כבר עוסקת בפיתוח טכנולוגיות הגנה קוונטום-אי-אי חדיננית בשיתוף עם יפן, בריטניה וגם אוסטרליה. לפי הדברים, הפרויקטים הם חלק מהשקעה גדולה בטכנולוגיות שתורמות ל'יציבות גלובלית' - כל זה בזמן שהעולם עוזב לאט את הממלכה של מחשובי ענקות לטובת מערכות קוונטום שצפויות להיות מהפכניות.",
+    "t": "Fujitsu confirms mainframe biz to die in 2035, in time for quantum AI supercomputers to take over\n\nIn talks with Japan, the UK, and Australia on defense tech that can ‘contribute to global stability’ Japanese tech giant Fujitsu has confirmed the demise of its mainframe business in the year 2035 and hinted it’s working on significant defense projects.…",
     "d": "2026-05-01T04:55:52.000Z",
     "v": 0,
     "l": [
@@ -437,7 +448,8 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news"
+      "news",
+      "image-gen"
     ],
     "imp": "low",
     "thumb": null,
@@ -445,7 +457,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "מלחמת המחירים בכלים חשמליים של סין הופכת למירוץ AI - מעבר לרכבים זולים\n\nחברות הרכבים החשמליים הסיניות משחקות משחק חדש: במקום להתחרות רק על המחיר, הן משחקות בכרטיס ה-AI ומפתחות תכונות חכמות במכוניות כדי להיבדל. הבעיה? כל התכונות המטורללות הללו הופכות במהירות לסטנדרט, מה שאומר שהחדשנות היא לפעמים בעלת אומר קצר בשוק הזה. מה שהתחיל כשווקעת תחרותית הופך במהירות לעוד אחד מהחזיתות בהן כולם צריכים להיות טובים כדי להישאר במשחק. (מקור: CNBC Tech)",
+    "t": "China’s EV price war turns into AI arms race beyond cheaper cars\n\nChinese EV firms are rapidly rolling out in-car AI features to gain an edge, but as the price war drags on, those technologies are quickly becoming commoditized.",
     "d": "Fri, 01 May 2026 04:19:25 GMT",
     "v": 0,
     "l": [
@@ -468,7 +480,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "חברת Japan Airlines מתחילה בניסויים עם רובוטים הומנואידים בנמל התעופה של טוקיו\n\nנמל התעופה Haneda בטוקיו מתחיל לבדוק רובוטים הומנואידים בשירותי קרקע של המטוס, בתגובה לבעיית ההיעדר עובדים הקרונית וההזדקנות המהירה של כוח העבודה. Japan Airlines מחפשת פתרונות אוטומטיים כדי לפתור את החוסם בשיוך כוח אדם בשדות התעופה, והרובוטים הם כל הסיכוי שלהם. זה עוד דוגמה לאופן שבו טכנולוגיה עוזרת ליפן להתמודד עם אתגרי דמוגרפיה בעולם העבודה.",
+    "t": "Japan Airlines begins humanoid robot trials at Tokyo's Haneda airport as labor shortages bite\n\nTokyo's Haneda Airport is beginning a trial of humanoid robots in airport ground services amid chronic labor challenges and a rapidly ageing workforce.",
     "d": "Fri, 01 May 2026 02:49:23 GMT",
     "v": 0,
     "l": [
@@ -483,7 +495,8 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news"
+      "news",
+      "robotics"
     ],
     "imp": "low",
     "thumb": null,
@@ -491,7 +504,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "רובוט Ripsaw M1 - נועד לסיור ולהסחת דעת האויב עבור הMarines האמריקני\n\nTextron Systems חשפה ברחוב Modern Day Marine Exposition בוושינגטון את ה-Ripsaw M1, רובוט קרבי שמיועד להלחם בצד American Marines. המכונה האוטונומית הזאת תפעל כמכפיל כוח עבור הרכבים המטיילים ARV ו-ACV, מה שאומר שהיא תסייע בסיורים מסוכנים והסחת דעת של אויבים בשדה הקרב. זה עוד דוגמה לאיך צבא ה-US משתמש ב-UGV (רובוטים קרקעיים) כדי לשמור על חייליו.",
+    "t": "Robotic Ripsaw M1 built to scout and draw fire for US Marines\n\nAt the recent Modern Day Marine Exposition in Washington, DC, Textron Systems rolled out a robot made to fight alongside US Marines. Called the Ripsaw M1, it's designed to act as a robotic force multiplier for the Advanced Reconnaissance Vehicle (ARV) and Amphibious Combat Vehicle (ACV).\nContinue Reading\nCategory: Military, Engineering\nTags: Textron, US Marines, UGV",
     "d": "Fri, 01 May 2026 02:11:27 GMT",
     "v": 0,
     "l": [
@@ -506,7 +519,8 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news"
+      "news",
+      "robotics"
     ],
     "imp": "low",
     "thumb": null,
@@ -514,7 +528,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "ChatGPT Images 2.0 כובש את הודו, אבל עדיין לא התפרץ בעולם\n\nמשתמשים בהודו מתחממים ל-ChatGPT Images 2.0 וחוקרים את כל האפשרויות ליצירת ויזואליים יצירתיים - מאווטרים מעוצבים ועד לתמונות קולנועיות שנראות כמו מצילם אמיתי. נראה שהאפליקציה מצליחה בגדול בשוק ההודי בזמן שבשאר העולם עדיין משחקים עם העלמת הפוטנציאל שלה.",
+    "t": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet\n\nUsers in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
     "d": "Fri, 01 May 2026 02:00:00 +0000",
     "v": 0,
     "l": [
@@ -540,7 +554,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 24,
-    "t": "Moonshot AI פתחה את הקוד של FlashKDA: CUTLASS Kernels עבור Kimi Delta Attention עם Variable-Length Batching והשוואות ביצועים ל-H20\n\nMoonshot AI השיקה את FlashKDA, implementation חדש וחזק של Kimi Delta Attention שמשתלב בקלות לאקוסיסטם של flash-linear-attention - וההשוואות מראות שהביצועים משמעותית יותר מהירים. זה בעצם עוד קפיצה בהתחרות על מימושים מהירים של attention mechanisms שמשפיעים ישירות על מהירות ודיוק של מודלים גדולים.",
+    "t": "Moonshot AI Open-Sources FlashKDA: CUTLASS Kernels for Kimi Delta Attention with Variable-Length Batching and H20 Benchmarks\n\nMoonshot AI releases FlashKDA, a high-performance implementation of Kimi Delta Attention that plugs directly into the flash-linear-attention ecosystem — and benchmarks show it's meaningfully faster.\nThe post Moonshot AI Open-Sources FlashKDA: CUTLASS Kernels for Kimi Delta Attention with Variable-Length Batching and H20 Benchmarks appeared first on MarkTechPost.",
     "d": "Fri, 01 May 2026 01:16:07 +0000",
     "v": 0,
     "l": [
@@ -557,13 +571,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "low",
+    "imp": "high",
     "thumb": null,
     "source": "MarkTechPost"
   },
   {
     "id": 25,
-    "t": "World-R1 של Microsoft Research משתמשת ב-Flow-GRPO ו-Rewards תלת-ממדיים כדי להוסיף עקביות גיאומטרית ל-Wan 2.1 ללא שינויים ארכיטקטוניים\n\nמעבדות Microsoft Research הצליחו להזריק עקביות תלת-ממדית אמיתית למודלי Text-to-Video בעזרת טכניקת Reinforcement Learning חדשנית בשם World-R1, וההגיון המעניין פה זה שהם עשו את זה בלי לנגוע בשום חלק מהארכיטקטורה המקורית של המודל. בעיקרון, הם השתמשו בFlow-GRPO וב-3D-Aware Rewards כדי ללמד את המודל להפיק סרטונים שבהם העולם התלת-ממדי אכן עקבי ולא משתנה באופן מוזר בין פריימים, וזה משנה משחק עבור יצירת וידאו AI באיכות גבוהה.\n\nמקור: MarkTechPost",
+    "t": "Microsoft Research’s World-R1 Uses Flow-GRPO and 3D-Aware Rewards to Inject Geometric Consistency Into Wan 2.1 Without Architectural Changes\n\nMicrosoft Research's World-R1 Uses Reinforcement Learning to Force 3D Consistency Into Text-to-Video Models\nThe post Microsoft Research’s World-R1 Uses Flow-GRPO and 3D-Aware Rewards to Inject Geometric Consistency Into Wan 2.1 Without Architectural Changes appeared first on MarkTechPost.",
     "d": "Fri, 01 May 2026 00:40:01 +0000",
     "v": 0,
     "l": [
@@ -589,7 +603,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 26,
-    "t": "אפל מחזיקה ברבעון כמעט מושלם, עם החלפת מנכ\"ל ועדכון AI בדרך\n\nזה היה הרבעון של מרץ הטוב ביותר בהיסטוריה של החברה, ומניית אפל קפצה 4% בסחירה אחרי שעות הסגירה. החברה מתכוננת לשינויים גדולים במנהיגות ולהשקת עדכוני AI חדשים שעשויים להשפיע משמעותית על המוצרים שלה.",
+    "t": "Apple delivers a nearly perfect quarter, with a CEO change and an AI update ahead\n\nIn fact, it was the best March quarter in company history, and Apple stock jumped 4% in after-hours trading.",
     "d": "Thu, 30 Apr 2026 23:43:06 GMT",
     "v": 0,
     "l": [
@@ -602,9 +616,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Apple"
+    ],
     "tags": [
-      "news"
+      "news",
+      "product"
     ],
     "imp": "low",
     "thumb": null,
@@ -612,7 +629,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 27,
-    "t": "סין חושפת את הסופרקומפיוטר LineShine עם 47,000 מעבדים, במטרה להגיע ל-2 אקסהפלופ\n\nהממשלה הסינית השיקה מערכת חדשה שנקראת LineShine שמורכבת מ-47,000 מעבדים - זה כמו להרכיב שרתים בגודל ענקי שמטרתם להגיע לכוח עיבוד של 2 אקסהפלופ, שזה מספר אסטרונומי בעברית טכנית. הפרויקט הזה של מרכז הסופרקומפיוטרים הלאומי בשנזן חושף את המרוץ ההולך וגובר בין סין לעולם המערבי בתחום הקומפיוטציה העצומה.",
+    "t": "China unveils LineShine supercomputer with 47,000 CPUs, targets 2-exaflop scale\n\nChina’s National Supercomputing Center (NSCC) in Shenzhen has introduced “LineShine,” a next-generation supercomputing system that...",
     "d": "Thu, 30 Apr 2026 23:39:49 +0000",
     "v": 0,
     "l": [
@@ -635,7 +652,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 28,
-    "t": "תאי סולאריים מפרובסקיט שומרים על 98% יעילות אחרי 1,200 שעות בחום של 194 מעלות\n\nחדשות מעודדות מעולם האנרגיה הירוקה: מדענים הצליחו להוכיח שתאי סולאריים מפרובסקיט הלידי סוסים את המשך ודיות לאורך זמן בטמפרטורות גבוהות, מה שפותח דלתות לחלופה זולה וטכנית למה שיש לנו היום עם סיליקון. הפתיחה הזו יכולה להיות משחק צדק בתחום האנרגיה המתחדשת.",
+    "t": "Perovskite solar cells retain 98% efficiency after 1,200 hours at 194°F heat\n\nHalide perovskites have long been considered a low-cost alternative to silicon in solar cells, but...",
     "d": "Thu, 30 Apr 2026 23:21:44 +0000",
     "v": 0,
     "l": [
@@ -708,7 +725,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 31,
-    "t": "העונה המטורפת ביותר במשפט מאסק נגד אלטמן התרחשה כשחבורת המושבעים לא הייתה בחדר\n\nבמשפט המתפרסם בין אילון מאסק ללידר OpenAI סם אלטמן, קרה משהו קריטי כשחבורת המושבעים לא היתה נוכחת - ונראה שעורכי הדין של מאסק עלולים להיות זה עשו צעד מאוד טיפש. ג'ייימס בירצ'ול, איש הכספים והמתווך של מאסק, עלה להעיד אחרי מאסק עצמו, והעדותו הייתה דחוסה בנתונים משעממים - עד שבסוף זה התפוצץ בדבר-מה שעלול להשנות את כל המשחק.",
+    "t": "The craziest part of Musk v. Altman happened while the jury was out of the room\n\nOkay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk's lawyers may have just fucked up big.\nJared \"James Brickhouse\" Birchall, Musk's finance guy and all-around fixer, took the stand after Musk today. Most of his testimony was dull and seemed to exist primarily to get some documents read into the record, which sucks but is a normal part of sitting through trials. But at the very end of his boring testimony somethin",
     "d": "2026-04-30T22:59:51.000Z",
     "v": 0,
     "l": [
@@ -721,12 +738,10 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "OpenAI"
-    ],
+    "co": [],
     "tags": [
       "news",
-      "model"
+      "regulation"
     ],
     "imp": "low",
     "thumb": null,
@@ -826,7 +841,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 36,
-    "t": "טראמפ מתמנה רופא מ-Fox News לתפקיד הנשיא הרופא של ארה\"ב\n\nטראמפ הודיע על המינוי החדש שלו תוך התקפות חריפות על הסנטור קסידי. בחירה שגרמה למספר התגובות בעקבות מינוי זה, והעלתה שאלות על הכישוריים המקצועיים של המועמד.",
+    "t": "Trump nominates Fox News doctor to be the next surgeon general\n\nTrump lashes out at Cassidy while announcing his new nomination.",
     "d": "Thu, 30 Apr 2026 22:09:36 +0000",
     "v": 0,
     "l": [
@@ -872,7 +887,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 38,
-    "t": "ארה״ב נופלת מתחת לאוקראינה בדירוג חופש העיתונות כשאוטוקרטיה משתלטת בעולם\n\nבחדשות שמעלות דגלים אדומים, דירוג חופש העיתונות הגלובלי הגיע לנקודת שפל היסטורית - במשך 25 שנים, הניקוד הממוצע מעולם לא היה נמוך כל כך. ארה״ב עצמה ירדה מתחת לאוקראינה בדירוג, סימן חדש על התפשטות האוטוקרטיה ותשחוקי חופש העיתונות גם בדמוקרטיות מובילות.",
+    "t": "US falls below Ukraine in press freedom as global autocracy takes hold\n\n\"In 25 years, the average score... has never been so low.\"",
     "d": "Thu, 30 Apr 2026 21:53:48 +0000",
     "v": 0,
     "l": [
@@ -918,7 +933,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 40,
-    "t": "LaunchCut\n\nכלי חדש שעוזר למפתחים לחסוך זמן בתהליך ההשקה של אפליקציות. LaunchCut מגיע עם מערכת יעילה שמפשטת את כל ההתהליכים המורכבים שלוקחים זמן רב בדרך כלל. אם אתם מחפשים דרך מהירה ופחות מעצבנת לשגר את הפרויקט שלכם, זה כנראה משהו שכדאי לכם לבדוק.",
+    "t": "LaunchCut\n\nDiscussion\n            |\n            Link",
     "d": "2026-04-30T21:35:28.000Z",
     "v": 0,
     "l": [
@@ -1797,7 +1812,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 77,
-    "t": "Beauty Diagram\n\nנראה שמדובר בכלי או פרויקט שקשור לתחום היופי, אבל פרטי המידע מוגבלים. אם אתם מחפשים עוד פרטים על המוצר הזה, כדאי לבדוק ישירות ב-Product Hunt כדי לראות את הדיון המלא והקישור להשקה.",
+    "t": "Beauty Diagram\n\nDiscussion\n            |\n            Link",
     "d": "2026-04-30T16:57:43.000Z",
     "v": 0,
     "l": [
@@ -1918,7 +1933,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 82,
-    "t": "Zed 1.0\n\nעורך הקוד החדש Zed שמפתחים שלו יוצאי תוכנת Atom רסמי לשוק בגרסה 1.0, ומדובר בכלי מפתחים שנבנה מאפס עם ביצועים על הסטרואידים. העורך מתמקד בשיתוף פעולה בזמן אמת וביעילות קיצונית, כשהוא מנצל Rust וגיוני AI כדי לתת לכם את ה-IDE המהיר ביותר שנראה לכם. אם אתה מפתח שמתעייף מתוכנות כבדות שמעכבות אותך, הזמן להתחיל לבדוק את Zed בא למעשה עכשיו.",
+    "t": "Zed 1.0\n\nDiscussion\n            |\n            Link",
     "d": "2026-04-30T16:34:46.000Z",
     "v": 0,
     "l": [
@@ -2332,7 +2347,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 99,
-    "t": "Ghosted: חכם Presence\n\nכלי חדש שמשפר את ניהול ההופעה הדיגיטלית שלכם - בין אם אתם עובדים מהבית או במשרד. זה כמו להיות בשני מקומות בו-זמנית, אבל בלי כל הדרמה של להיות \"מוקצה\".",
+    "t": "Ghosted: Smart Presence\n\nDiscussion\n            |\n            Link",
     "d": "2026-04-30T15:54:01.000Z",
     "v": 0,
     "l": [
@@ -2355,7 +2370,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 100,
-    "t": "מונטאז'\n\nDiscussion\n            |\n            Link",
+    "t": "Montage\n\nDiscussion\n            |\n            Link",
     "d": "2026-04-30T15:50:23.000Z",
     "v": 0,
     "l": [
@@ -2893,7 +2908,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 123,
-    "t": "CipherLock\n\nכלי אבטחה חדש שנועד להגן על הנתונים שלכם בעזרת הצפנה מתקדמת. CipherLock מציעה פתרון פשוט אך חזק למי שרוצים שמירה מקסימלית על הפרטיות שלהם בעולם הדיגיטלי.",
+    "t": "CipherLock\n\nDiscussion\n            |\n            Link",
     "d": "2026-04-30T13:09:03.000Z",
     "v": 0,
     "l": [
@@ -3776,7 +3791,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 160,
-    "t": "Nudge\n\nנראה שמדובר בפרויקט חדש שהשקת בחדשות הטכנולוגיה, אבל המידע שהוקדם לנו הוא מינימלי ומאוד כללי. בלי פרטים נוספים על המוצר או השירות, קשה לתת סיכום משמעותי של מה בדיוק זה עושה.",
+    "t": "nudge\n\nDiscussion\n            |\n            Link",
     "d": "2026-04-30T09:59:09.000Z",
     "v": 0,
     "l": [
@@ -3799,7 +3814,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 161,
-    "t": "Marx Finance\n\nפרויקט חדש שעלה ל-Product Hunt שנראה מתמקד בתחום הפיננסים. זה עדיין די מוקדם לדעת בדיוק מה המטרה של הפלטפורמה, אבל אם השם Marx Finance אומר משהו, אפשר להניח שמדובר על כלי כלשהו לניהול כספים או ניתוח פיננסי. כדאי לעקוב אחרי הפרויקט הזה כדי להבין מה בדיוק הם מביאים לשולחן.",
+    "t": "Marx Finance\n\nDiscussion\n            |\n            Link",
     "d": "2026-04-30T09:41:02.000Z",
     "v": 0,
     "l": [
@@ -7580,7 +7595,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 317,
-    "t": "AnyDrop\n\nאנחנו מדברים על AnyDrop, כלי חדש שהופיע ב-Product Hunt. זו נראית כמו פלטפורמה שמיועדת להקל על שיתוף קבצים וסינכרון נתונים בין מכשירים שונים. הפרטים המלאים עדיין לא ברורים לגמרי, אבל זה בהחלט משהו שצריך להעקוב אחריו אם אתם מחפשים פתרון פשוט לניהול קבצים.",
+    "t": "AnyDrop\n\nDiscussion\n            |\n            Link",
     "d": "2026-04-29T09:48:08.000Z",
     "v": 0,
     "l": [
@@ -11716,7 +11731,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 490,
-    "t": "ScreenVeil\n\nכלי חדש שנחשף ב-Product Hunt שמטרתו להגן על פרטיות המסך שלכם. ScreenVeil נראה כמו פתרון חכם לבעיה שכולנו מכירים - כשאנחנו רוצים לשמור על הפרטיות שלנו בזמן שימוש במחשב או בתא עם אנשים אחרים. הכלי עדיין בשלבי דיון בקהילה, אבל כבר יש כאן פוטנציאל מעניין למי שחשוב להם הביטחון הדיגיטלי.",
+    "t": "ScreenVeil\n\nDiscussion\n            |\n            Link",
     "d": "2026-04-28T07:56:19.000Z",
     "v": 0,
     "l": [
@@ -11904,7 +11919,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 498,
-    "t": "ביטגריין - פלטפורמה לניהול נתונים חקלאיים\n\nBitgrain היא פלטפורמה חדשה שמנצלת AI וטכנולוגיות גיאוגרפיות כדי לעזור לחקלאים ולעסקי חקלאות להנהל ולחזות יבולים בצורה חכמה יותר. המערכת אוספת נתונים מחישלים, תנאי מזג אוויר וחיישנים בשטח כדי לתת לחקלאים תובנות חיוניות בזמן אמת.",
+    "t": "Bitgrain\n\nDiscussion\n            |\n            Link",
     "d": "2026-04-28T04:44:07.000Z",
     "v": 0,
     "l": [
@@ -12366,7 +12381,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 517,
-    "t": "בודה\n\nנראה שמדובר בדיון על מוצר חדש שהועלה ל-Product Hunt, אבל פרטים מלאים לא זמינים בעדכון זה. אם אתם מחפשים להכיר את הכלים הטכנולוגיים החדשים ביותר, בודאי שווה לעקוב אחרי הפלטפורמה הזו שם מתפרסמים פתרונות מעניינים כל יום.",
+    "t": "Buda\n\nDiscussion\n            |\n            Link",
     "d": "2026-04-27T23:18:01.000Z",
     "v": 0,
     "l": [
@@ -17015,7 +17030,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 712,
-    "t": "Postiz\n\nנראה שמדובר בכלי שמטרתה לעזור בניהול וחיבור רשתות חברתיות, אבל המידע הזמין מועט מדי כדי לתת סיכום מלא. המוצר הופיע ב-Product Hunt, מה שאומר שזה כנראה משהו חדש וזעיר בעולם טכנולוגיית ה-marketing האוטומציה.",
+    "t": "Postiz\n\nDiscussion\n            |\n            Link",
     "d": "2026-04-26T12:37:39.000Z",
     "v": 0,
     "l": [
@@ -21385,7 +21400,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 897,
-    "t": "Zush: כלי AI לשינוי שמות קבצים\n\nכלי חדש שמשתמש ב-AI כדי להפוך את החלוקה המייגעת של שינוי שמות קבצים לאוטומטית וחכמה. Zush מבין את תוכן הקבצים שלכם ומוצע שמות אינטליגנטיים במקום שתצטרכו לעבור על כל קובץ בנפרד. המערכת עושה סדר במחשב שלכם בלחיצת כפתור.\n\nמקור: Product Hunt",
+    "t": "Zush: AI File Renamer\n\nDiscussion\n            |\n            Link",
     "d": "2026-04-24T14:28:09.000Z",
     "v": 0,
     "l": [
@@ -42274,7 +42289,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1778,
-    "t": "MUSIXQUARE\n\nפלטפורמה חדשה שמחברת מוזיקה וטכנולוגיה בדרך חדשנית. זה נראה כמו כלי שימושי למי שעובדים בתעשיית המוזיקה ורוצים להשתמש בכלים דיגיטליים מודרניים. במידע הדיון בProduct Hunt אפשר למצוא עוד פרטים על המוצר והחוויות של המשתמשים הראשונים.",
+    "t": "MUSIXQUARE\n\nDiscussion\n            |\n            Link",
     "d": "2026-04-18T22:18:21.000Z",
     "v": 0,
     "l": [
@@ -94030,7 +94045,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3933,
-    "t": "Genspark for Word\n\nכלי חדש שמביא AI ישירות לתוך Microsoft Word ועוזר לכם לכתוב, לערוך ולחקור תוכן בצורה חכמה ומהירה. הפלאג-אין החדש מאפשר לכם להשתמש בכוח ה-AI בזמן שאתם כותבים, מבלי להסתובב בין כמה טאבים ויישומים. זה בעצם Copilot כמו-כל אחד, אבל מדי שניה בתוך התוכנה שכולנו משתמשים בה בכל יום.",
+    "t": "Genspark for Word\n\nDiscussion\n            |\n            Link",
     "d": "2026-04-08T15:53:54.000Z",
     "v": 0,
     "l": [
@@ -94043,12 +94058,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -145090,7 +145102,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6047,
-    "t": "TrafficClaw\n\nנראה שטראפיקקלאו היא כלי או פלטפורמה חדשה שהוצגה ב-Product Hunt, אבל הפרטים המלאים עדיין לא ברורים מהתיאור המינימליסטי. בהחזקה יש דיון וקישור למידע נוסף שיוכלו לחשוף למה בדיוק מדובר - אולי משהו קשור לניהול תנועה דיגיטלית או ניתוח נתונים? כדאי לעקוב אחרי הפיתוחים הקרובים כדי להבין את כל הפוטנציאל של הכלי הזו.",
+    "t": "TrafficClaw\n\nDiscussion\n            |\n            Link",
     "d": "2026-03-20T14:25:13.000Z",
     "v": 0,
     "l": [
