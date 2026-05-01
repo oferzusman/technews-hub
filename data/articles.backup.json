@@ -131273,6 +131273,533 @@
       "priority": "hot",
       "fetchedAt": "2026-05-01T10:21:08.072Z",
       "created_at": "2026-05-01T10:21:08.072Z"
+    },
+    {
+      "id": 6391,
+      "source": "The Verge AI",
+      "title_en": "Microsoft wants lawyers to trust its new AI agent in Word documents",
+      "description_en": "Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation history, and complex documents to help legal teams handle tasks like reviewing contracts.\n\"Instead of relying on general AI models to interpret commands, the agent follows structured workflows shaped by real legal practice, managing clearly defined, repeatable tasks like reviewing contracts clause by clause against a playbook,\" explains Sumit Chauhan, co",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
+      "image_url": null,
+      "pub_date": "2026-05-01T11:18:54.000Z",
+      "author": "Tom Warren",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T12:40:00.128Z",
+      "created_at": "2026-05-01T12:40:00.128Z"
+    },
+    {
+      "id": 6392,
+      "source": "Ars Technica",
+      "title_en": "There's a lot of hype about Chinese EVs—is any of it true?",
+      "description_en": "In addition to being full of screens, China now wants its cars to be packed with AI.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/cars/2026/05/theres-a-lot-of-hype-about-chinese-evs-is-any-of-it-true/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/image-3-1152x648.png",
+      "pub_date": "Fri, 01 May 2026 11:00:15 +0000",
+      "author": "\n                    Jonathan M. Gitlin\n                ",
+      "categories": [
+        "Cars",
+        "Features",
+        "Chinese EVs"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T12:40:00.263Z",
+      "created_at": "2026-05-01T12:40:00.263Z"
+    },
+    {
+      "id": 6393,
+      "source": "The Decoder",
+      "title_en": "GPT-5.5 matches Claude Mythos in cyber attack tests, UK AI Security Institute finds",
+      "description_en": "OpenAI's GPT-5.5 is the second AI model capable of autonomously solving a full network attack simulation, according to the UK AI Security Institute. Its performance is nearly on par with Anthropic's Claude Mythos, which is still only available to a small group. GPT-5.5, meanwhile, is already shipping in ChatGPT and through the API.\nThe article GPT-5.5 matches Claude Mythos in cyber attack tests, UK AI Security Institute finds appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/gpt-5-5-matches-claude-mythos-in-cyber-attack-tests-uk-ai-security-institute-finds/",
+      "image_url": null,
+      "pub_date": "Fri, 01 May 2026 10:25:37 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Cybersecurity",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-01T12:40:01.537Z",
+      "created_at": "2026-05-01T12:40:01.537Z"
+    },
+    {
+      "id": 6394,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: a new Christian phone network, and debugging LLMs",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new US phone network for Christians aims to block porn and gender-related content A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
+      "image_url": null,
+      "pub_date": "Fri, 01 May 2026 12:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T12:40:01.756Z",
+      "created_at": "2026-05-01T12:40:01.756Z"
+    },
+    {
+      "id": 6395,
+      "source": "MIT Technology Review",
+      "title_en": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
+      "description_en": "Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical miles of the Pacific seafloor in search of critical mineral deposits. But it isn’t doing it alone; for a month starting this week, it will…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
+      "image_url": null,
+      "pub_date": "Fri, 01 May 2026 10:00:00 +0000",
+      "author": "Hannah Richter",
+      "categories": [
+        "Engineering",
+        "App"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-01T12:40:01.756Z",
+      "created_at": "2026-05-01T12:40:01.756Z"
+    },
+    {
+      "id": 6396,
+      "source": "New Atlas",
+      "title_en": "Brembo distills its racing know-how into mountain bike brakes",
+      "description_en": "Brembo's braking equipment has graced many a champion-winning F1 racecar and MotoGP superbike over the last several decades. It's now targeting cyclists who demand serious stopping power, with a whole ecosystem of gear specifically for mountain bikes.\nContinue Reading\nCategory: Bicycles, Transport\nTags: Mountain Bikes, Braking, Bicycle",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/bicycles/brembo-mountain-bike-brakes-gr-pro/",
+      "image_url": null,
+      "pub_date": "Fri, 01 May 2026 12:17:32 GMT",
+      "author": "Abhimanyu Ghoshal",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T12:40:02.855Z",
+      "created_at": "2026-05-01T12:40:02.855Z"
+    },
+    {
+      "id": 6397,
+      "source": "The Register",
+      "title_en": "OpenAI locks GPT-5.5-Cyber behind velvet rope despite slamming Anthropic for doing exactly that",
+      "description_en": "Altman's crew now doing the same gatekeeping it recently mocked OpenAI is lining up a limited release of its new GPT-5.5-Cyber model to a handpicked circle of \"cyber defenders,\" just weeks after taking a swipe at Anthropic for doing almost exactly the same thing.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/openai_locks_gpt55cyber_behind_velvet/",
+      "image_url": null,
+      "pub_date": "2026-05-01T11:42:01.000Z",
+      "author": "Carly Page",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T12:40:03.025Z",
+      "created_at": "2026-05-01T12:40:03.025Z"
+    },
+    {
+      "id": 6398,
+      "source": "The Guardian AI",
+      "title_en": "Pentagon plans to make US military ‘AI-first fighting force’ by pairing with companies",
+      "description_en": "Agreements with artificial intelligence firms spark concerns over public spending, cyber security and domestic surveillance\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nThe Pentagon said on Friday it had reached agreements with seven leading artificial intelligence (AI) companies: SpaceX, OpenAI, Google, Nvidia, Reflection, Microsoft and Amazon Web Services.\n“These agreements accelerate the transformation toward establishing the United States military as an AI-",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/2026/may/01/pentagon-us-military-pairs-with-spacex-google-openai",
+      "image_url": "https://i.guim.co.uk/img/media/8b5b81b3d7abbbb9a5a2c9375594df73f3b4e782/447_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=236942dd60606f88a20eb64dc247d818",
+      "pub_date": "Fri, 01 May 2026 12:35:14 GMT",
+      "author": "Guardian staff and agency",
+      "categories": [
+        {
+          "_": "Trump administration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/trump-administration"
+          }
+        },
+        {
+          "_": "US national security",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-national-security"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "Pete Hegseth",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/pete-hegseth"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Microsoft",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/microsoft"
+          }
+        },
+        {
+          "_": "SpaceX",
+          "$": {
+            "domain": "https://www.theguardian.com/science/spacex"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        },
+        {
+          "_": "Nvidia",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/nvidia"
+          }
+        },
+        {
+          "_": "Amazon",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/amazon"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T12:40:03.191Z",
+      "created_at": "2026-05-01T12:40:03.191Z"
+    },
+    {
+      "id": 6399,
+      "source": "Interesting Engineering",
+      "title_en": "China reveals 198-ton ‘six-module’ plan for Tiangong space station as ISS era ends",
+      "description_en": "The US-China space race is set to intensify on the orbital front. With the International...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/space/china-reveals-six-module-plan-for-tiangong",
+      "image_url": "https://www.youtube.com/embed/Qyyx-G1KAB8",
+      "pub_date": "Fri, 01 May 2026 11:52:19 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T12:40:03.705Z",
+      "created_at": "2026-05-01T12:40:03.705Z"
+    },
+    {
+      "id": 6400,
+      "source": "Interesting Engineering",
+      "title_en": "US military plans turning MQ-9 Reaper into drone mothership with 100 small UAVs",
+      "description_en": "U.S. Special Operations Command wants a large funding boost in its 2027 budget to expand...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-military-plans-mq-9-drone-mothership",
+      "image_url": null,
+      "pub_date": "Fri, 01 May 2026 11:23:09 +0000",
+      "author": "Sujita Sinha",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T12:40:03.705Z",
+      "created_at": "2026-05-01T12:40:03.705Z"
+    },
+    {
+      "id": 6401,
+      "source": "Interesting Engineering",
+      "title_en": "Russia’s 820 MW sodium-cooled reactor ‘burns’ next-gen actinide nuclear fuel successfully",
+      "description_en": "Three trial uranium-plutonium MOX fuel assemblies containing americium-241 and neptunium-237 have completed three fuel campaigns...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/russia-fast-reactor-nuclear-waste-actinide-fuel",
+      "image_url": null,
+      "pub_date": "Fri, 01 May 2026 10:42:26 +0000",
+      "author": "Aman Tripathi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T12:40:03.705Z",
+      "created_at": "2026-05-01T12:40:03.705Z"
+    },
+    {
+      "id": 6402,
+      "source": "AI News",
+      "title_en": "Per-token AI charges come to GitHub Copilot",
+      "description_en": "As of 1st June 2026, GitHub Copilot will charge its users on the basis of the tokens they use, rather than a flat rate subscription model. The model that’s seeing the shutters closed on it is, or rather was, simple to understand and use. Users were given a set number of ‘Premium Requests’ according to […]\nThe post Per-token AI charges come to GitHub Copilot appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
+      "image_url": null,
+      "pub_date": "Fri, 01 May 2026 11:00:00 +0000",
+      "author": "Joe Green",
+      "categories": [
+        "AI Market Trends",
+        "automation",
+        "charging models",
+        "github copilot",
+        "microsoft",
+        "software development"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T12:40:03.818Z",
+      "created_at": "2026-05-01T12:40:03.818Z"
+    },
+    {
+      "id": 6403,
+      "source": "Tom's Hardware",
+      "title_en": "Slimline Commodore 64C Ultimate Edition computers go up for pre-order — firm reintroduces the C64’s sleeker 1986-1994 styling across the range",
+      "description_en": "Commodore 64C Ultimate Edition reintroduces the C64’s sleeker 1986-1994 styling across the range using original molds and tooling.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/slimline-commodore-64c-ultimate-edition-computers-go-up-for-pre-order-firm-reintroduces-the-c64s-sleeker-1986-1994-styling-across-the-range",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/keZsfnSbZRStJaHnCcDxQG-1280-80.jpg",
+      "pub_date": "Fri, 01 May 2026 11:55:59 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Retro Gaming",
+        "Video Games"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T12:40:04.169Z",
+      "created_at": "2026-05-01T12:40:04.169Z"
+    },
+    {
+      "id": 6404,
+      "source": "Tom's Hardware",
+      "title_en": "ASML's roadmap for chipmaking lithography tools examined — from DUV to Low-NA, High-NA, Hyper-NA, and beyond",
+      "description_en": "ASML shipped 48 EUV lithography systems and 131 immersion DUV tools in 2025, generating €32.7 billion in total revenue and ending the year with a €38.8 billion order backlog.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-lithograpy-roadmap-examined-from-duv-to-hyper-na",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/yigtYLnV9mYF7u9h27AiYi-1280-80.png",
+      "pub_date": "Fri, 01 May 2026 11:30:00 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T12:40:04.169Z",
+      "created_at": "2026-05-01T12:40:04.169Z"
+    },
+    {
+      "id": 6405,
+      "source": "Tom's Hardware",
+      "title_en": "Wingtech posts $1.3 billion loss and faces Shanghai delisting as Nexperia audit collapses — 57% of company's assets can't be verified",
+      "description_en": "According to a filing to the Shanghai bourse on Wednesday, Wingtech's stock will carry a delisting risk warning starting May 6th.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/wingtech-posts-1-3-billion-loss-and-faces-shanghai-delisting-as-nexperia-audit-collapses",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/XMLWANTcTr2ieutVjTfoRH-1280-80.jpg",
+      "pub_date": "Fri, 01 May 2026 11:20:00 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T12:40:04.169Z",
+      "created_at": "2026-05-01T12:40:04.169Z"
+    },
+    {
+      "id": 6406,
+      "source": "Tom's Hardware",
+      "title_en": "Save a huge $400 on this Acer Predator OLED gaming laptop with an RTX 5070 Ti and 32GB DDR5, now under $1,800 — big saving on Helios Neo 16S AI rig that ships with a 24-core Intel CPU, 1TB SSD, and a 240Hz refresh rate",
+      "description_en": "Best Buy has slashed the cost of this Acer Predator Helios Neo 16S AI laptop with an RTX 5070 Ti, 32 GB of RAM, 240 Hz OLED display, and a Core Ultra 9 275HX processor, knocking it down to $1,799.99 and saving you $400.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/save-a-huge-usd400-on-this-acer-predator-oled-gaming-laptop-with-an-rtx-5070-ti-and-32gb-ddr5-now-under-usd1-800-big-saving-on-helios-neo-16s-ai-rig-that-ships-with-a-24-core-intel-cpu-1tb-ssd-and-a-240hz-refresh-rate",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/RcdEvT7RdgN8B36M58cu3d-1280-80.jpg",
+      "pub_date": "Fri, 01 May 2026 11:14:59 +0000",
+      "author": " Ben Stockton ",
+      "categories": [
+        "Gaming Laptops",
+        "Laptops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T12:40:04.169Z",
+      "created_at": "2026-05-01T12:40:04.169Z"
+    },
+    {
+      "id": 6407,
+      "source": "Tom's Hardware",
+      "title_en": "Mark Zuckerberg says Meta is cutting 8,000 jobs to pay for AI infrastructure — insatiable compute demand means the company can't rule out further headcount reductions",
+      "description_en": "Meta spent $72.2 billion on capex in all of 2025. The midpoint of its new 2026 guidance would nearly double that figure in a single year.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/mark-zuckerberg-says-meta-is-cutting-8000-jobs-to-pay-for-ai-infrastructure",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/JFeg3wSMPZgN7k7TJ2sMzH-1280-80.jpg",
+      "pub_date": "Fri, 01 May 2026 11:05:38 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Big Tech",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T12:40:04.169Z",
+      "created_at": "2026-05-01T12:40:04.169Z"
+    },
+    {
+      "id": 6408,
+      "source": "Tom's Hardware",
+      "title_en": "Intel details 18A-P process node, touts higher performance, lower power, and better thermals — 9% more performance, thermal conductivity improved by 50%",
+      "description_en": "Intel details improvements of 18A-P that include higher performance, lower power, reduced variability, improved yields, and more.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-details-18a-p-process-node-touts-higher-performance-lower-power-and-better-thermals-9-percent-more-performance-thermal-conductivity-improved-by-50-percent",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/yy58ngAfSpXbtQwNK2cC88-1280-80.jpg",
+      "pub_date": "Fri, 01 May 2026 11:00:00 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T12:40:04.169Z",
+      "created_at": "2026-05-01T12:40:04.169Z"
+    },
+    {
+      "id": 6409,
+      "source": "Tom's Hardware",
+      "title_en": "Get 32GB of DDR5 RAM for just $126 when paired with AMD's blistering 9850X3D — X870 motherboardbundle is less than $830 for your AM5 gaming battlestation",
+      "description_en": "Get an AMD Ryzen 9850X3D CPU, 32GB of DDR5, an X870 MSI MAG Tomahawk motherboard, and a 750W PSU combo deal at Newegg",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/get-32gb-of-ddr5-ram-for-just-usd126-when-paired-with-amds-blistering-9850x3d-x870-motherboard-bundle-is-less-than-usd830-for-your-am5-gaming-battlestation",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/YztYVnsvEwm4yvNbZwbQi3-1280-80.jpg",
+      "pub_date": "Fri, 01 May 2026 10:58:00 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T12:40:04.169Z",
+      "created_at": "2026-05-01T12:40:04.169Z"
+    },
+    {
+      "id": 6410,
+      "source": "Tom's Hardware",
+      "title_en": "Commodore 64 and ZX Spectrum receive clamshell makeover — iconic 8-bit legends join the handheld gaming wars",
+      "description_en": "Retro Games Ltd and Blaze Entertainment put The C64 Handheld and The Spectrum Handheld up for preorder at $129.99.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/commodore-64-and-zx-spectrum-receive-clamshell-makeover-iconic-8-bit-legends-join-the-handheld-gaming-wars",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/5Y9UPy23Sxt56wocEtKAdK-1280-80.jpg",
+      "pub_date": "Fri, 01 May 2026 10:40:00 +0000",
+      "author": " Zhiye Liu ",
+      "categories": [
+        "Retro Gaming",
+        "Video Games"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T12:40:04.169Z",
+      "created_at": "2026-05-01T12:40:04.169Z"
+    },
+    {
+      "id": 6411,
+      "source": "CNBC Tech",
+      "title_en": "Apple earnings, DHS shutdown, 'Ozempic breath' and more in Morning Squawk",
+      "description_en": "Here are five key things investors need to know to start the trading day.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/01/5-things-to-know-before-the-market-opens.html",
+      "image_url": null,
+      "pub_date": "Fri, 01 May 2026 12:09:15 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T12:40:04.308Z",
+      "created_at": "2026-05-01T12:40:04.308Z"
+    },
+    {
+      "id": 6412,
+      "source": "CNBC Tech",
+      "title_en": "Elon Musk billionaires bill supporters draw progressive challengers in Delaware",
+      "description_en": "Musk, whose record pay package was in legal limbo in Delaware, relocated Tesla's incorporation out of state during the spat.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/01/elon-musk-billionaire-bill-elections-progressive-challengers-delaware.html",
+      "image_url": null,
+      "pub_date": "Fri, 01 May 2026 12:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T12:40:04.308Z",
+      "created_at": "2026-05-01T12:40:04.308Z"
+    },
+    {
+      "id": 6413,
+      "source": "CNBC Tech",
+      "title_en": "Pentagon tech chief says Anthropic is still blacklisted, but Mythos is a separate issue",
+      "description_en": "The DOD announced it has entered into agreements with seven other AI companies.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/01/pentagon-anthropic-blacklist-mythos-michael.html",
+      "image_url": null,
+      "pub_date": "Fri, 01 May 2026 12:36:30 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T12:40:04.308Z",
+      "created_at": "2026-05-01T12:40:04.308Z"
+    },
+    {
+      "id": 6414,
+      "source": "CNBC Tech",
+      "title_en": "The Tech Download: Chip stocks surge in ‘historic’ month as investors’ AI buildout concerns ease",
+      "description_en": "March saw many chip stocks drop amid concerns over the AI buildout, but their fortunes have reversed in April.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/01/tech-download-chip-stocks-surge-historic-month-intel-apple.html",
+      "image_url": null,
+      "pub_date": "Fri, 01 May 2026 11:15:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T12:40:04.308Z",
+      "created_at": "2026-05-01T12:40:04.308Z"
     }
   ]
 }
