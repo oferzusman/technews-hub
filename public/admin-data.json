@@ -1,9 +1,9 @@
 {
   "total": 6342,
-  "translated": 6318,
-  "untranslated": 24,
-  "today": 178,
-  "week": 1039,
+  "translated": 6342,
+  "untranslated": 0,
+  "today": 0,
+  "week": 874,
   "sources": [
     {
       "name": "Product Hunt",
@@ -26,7 +26,7 @@
     {
       "name": "Interesting Engineering",
       "total": 415,
-      "translated": 405,
+      "translated": 415,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -44,25 +44,25 @@
     {
       "name": "CNBC Tech",
       "total": 285,
-      "translated": 281,
+      "translated": 285,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "Ars Technica",
       "total": 282,
-      "translated": 278,
+      "translated": 282,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
       "name": "New Atlas",
       "total": 257,
-      "translated": 256,
+      "translated": 257,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "TechCrunch AI",
       "total": 215,
-      "translated": 212,
+      "translated": 215,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -74,7 +74,7 @@
     {
       "name": "The Register",
       "total": 189,
-      "translated": 187,
+      "translated": 189,
       "lastDate": "2026-04-30T21:27:22.000Z"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-04-30T23:50:37.897Z"
+  "generatedAt": "2026-05-01T02:46:05.000Z"
 }

@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Anthropic potential $900B+ valuation round could happen within two weeks\n\nAnthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
+    "t": "סבב גיוס הון של Anthropic עשוי להגיע ל-900 מיליארד דולר תוך שבועיים\n\nכנראה שהדברים קורים במהירות ב-Anthropic - החברה הישראליות מבקשת מהמשקיעים להגיש הצעות כמעט בזמן אמת, עם סגירת ההצעות תוך 48 שעות בלבד. אם זה יקרה, זו תהיה הערכת שווי ענקית של יותר מ-900 מיליארד דולר, שזה אומר שהתחרות בין Anthropic ל-OpenAI על הנ\"מ של AI זה עדיין בעיצומו. המרוץ על רחוק AI כבר מגיע לקומה 40 של בנין שישים קומות, ובכל שבוע יש טוויסט חדש.",
     "d": "Thu, 30 Apr 2026 23:07:56 +0000",
     "v": 0,
     "l": [
@@ -15,12 +15,12 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
+      "OpenAI",
       "Anthropic"
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -28,7 +28,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "6-sleeper split-room camper van amplifies the Ford Nugget blueprint\n\nGerman camper van upstart Alcovia Vans has taken the well-known Ford Nugget multi-room camper van layout and adapted it for the ever-popular Fiat Ducato full-size van. It elevates the floor plan's versatility and comfort by adding an extra bed, trimming it all out in warm wood and felt, slatting in adjustable separation between the two \"rooms\" on the main floor, and adding an extra available seat to carry and sleep up to six people.\nContinue Reading\nCategory: Campervans, Adventure Vehicles, Outd",
+    "t": "קרוואן שינה עם 6 מקומות - גרמנים משדרגים את תכנית ה-Ford Nugget\n\nהחברה הגרמנית Alcovia Vans לקחה את הפריסה המוכרת של קרוואן Ford Nugget ועיצבה אותה מחדש על בסיס ה-Fiat Ducato הגדול יותר. התוצאה היא קרוואן מגניב עם עד 6 מקומות שינה, חדרים נפרדים בעיזור מחיצות מתכווננות, ועיצוב חם עם עץ והרגשה בייתית. למי שמחפש להכניס כמה כדורים נוספים לחופשה זו בדרום אירופה, זה אולי הפתרון המושלם.",
     "d": "Thu, 30 Apr 2026 23:04:00 GMT",
     "v": 0,
     "l": [
@@ -51,7 +51,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Reddit's CEO calls his company 'the fuel' for artificial intelligence\n\nReddit CEO Steve Huffman said the platform’s vast library of human conversations makes it a critical input for AI, calling it “the fuel” behind the technology.",
+    "t": "מנכ\"ל Reddit קורא לחברתו 'הדלק' של בינה מלאכותית\n\nמנכ\"ל Reddit, סטיב האפמן, טוען שהספרייה ההיסטורית של השיחות האנושיות בפלטפורמה היא קלט קריטי ללמודי AI, וקרא לה בכל פשטות 'הדלק' שמנעות את הטכנולוגיה. בעצם, Reddit מגיעה לכאן וטוענת שהיא יותר מסתם אתר תגובות - היא הנתון הגולמי שמשדרג את כל מודלי ה-AI שאנחנו משתמשים בהם.",
     "d": "Thu, 30 Apr 2026 22:48:30 GMT",
     "v": 0,
     "l": [
@@ -74,7 +74,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Veeva Systems to join S&P 500 index, replacing Coterra Energy\n\nVeeva's stock has been hit this year along with the rest of cloud software as investors fear the impact of AI.",
+    "t": "Veeva Systems תצטרף ל-S&P 500 תחת מקום Coterra Energy\n\nVeeva, חברת ענן הכיסוי בתחום חברות פרמה וביוטק, מקבלת הכרה מובילה בהצטרפותה למדד S&P 500 - אבל את זה היא משיגה לא בשיא הדרך. מניות Veeva סבלו השנה יחד עם שאר שוק ה-cloud software כשמשקיעים חוששים מהשפעת ה-AI על העסק. חברה המתמחה בתוכנות לתעשיית הרופאים והתרופות מוכנה לפרק חדש בהיסטוריה שלה, אם כי עם קצת רוח נגדית בנושא הטכנולוגיות החדשות.",
     "d": "Thu, 30 Apr 2026 22:40:57 GMT",
     "v": 0,
     "l": [
@@ -97,7 +97,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Jim Cramer says the market’s biggest winners all have one thing in common\n\nCNBC's Jim Cramer said he only sees two sectors in the market these days — the data center stocks and everything else.",
+    "t": "ג'ים קריימר: לכל הזוכים בשוק יש משהו אחד משותף\n\nכתב CNBC המפורסם ג'ים קריימר טוען שבימים אלה הוא רואה בשוק בעצם רק שני סוגי מניות - מניות data center שנותנות כסף ממש וכל השאר. למעשה, אם אתה לא בתחום ה-data centers בימים אלה, קשה לך להתחרות על תשומת לב של המשקיעים.",
     "d": "Thu, 30 Apr 2026 22:16:50 GMT",
     "v": 0,
     "l": [
@@ -120,7 +120,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Apple was surprised by AI-driven demand for Macs\n\nApple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
+    "t": "אפל הופתעה מהביקוש הענק למחשבי Mac מכוח AI\n\nמה שקרה כאן זה שאפל לא ציפתה שתהיה כזו התרסקות של ביקוש ל-Mac mini ו-Studio בגלל המעניינות סביב AI, וזה אפילו השפיע על חוקי ההיצע שלהם. החברה כבר הודיעה שהיא תהיה בעיה עם מלאי בשלושת הדברים האלה גם בשליש הבא, כי אנשים פשוט רוצים מכונות חזקות לעבודה עם מודלים של AI.\nמקור: TechCrunch AI",
     "d": "Thu, 30 Apr 2026 22:12:52 +0000",
     "v": 0,
     "l": [
@@ -133,12 +133,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Apple"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -146,7 +143,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Drone mothership drops armed FPVs mid-air, extends strike reach in US test\n\nA U.S. startup has demonstrated a drone capable of launching armed first-person view (FPV) drones...",
+    "t": "אם-דרון אמריקאית משחררת FPV חמוש באוויר ומרחיקה את טווח התקיפה\n\nסטארטאפ אמריקאית הדגימה מערכת דרונים מתקדמת שבה אם-דרון גדולה משחררת FPV חמוש בשטח, כמו בן זוג מטורף שיוצא מהמטוס בקפיצת צניחה - וזה משנה את המשחק בתחום הטכנולוגיה הצבאית. הטכנולוגיה הזו מאפשרת הגעה למרחקים רחוקים הרבה יותר מאשר דרונים רגילים, וחושפת אפשרויות חדשות (ומעוררות חשיבה) בעולם המל\"טים.",
     "d": "Thu, 30 Apr 2026 22:01:01 +0000",
     "v": 0,
     "l": [
@@ -169,7 +166,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "US Air Force shows B-1B bomber carrying hypersonic missile system for first time\n\nA brief video posted from Edwards Air Force Base offers a small but telling detail....",
+    "t": "חיל האוויר האמריקאי חושף בפעם הראשונה מפציץ B-1B נושא מערכת טילים היפרסוניים\n\nצילום קצר שפורסם מבסיס אדוארדס חושף לפעם הראשונה את הפיתוח המעשי של מערכת הטילים ההיפרסוניים על המטוס המפורסם. זה סימן חשוב לשלב חדש בתחום הנשקים מתקדמים של ארה״ב, שמצביע על היכולת לשלב טכנולוגיה היפרסונית מתקדמת לפלטפורמות קרב קיימות. מדובר בהתפתחות מרשימה שמשקפת את המחוקה בתחום ההנדסה הצבאית.",
     "d": "Thu, 30 Apr 2026 21:45:40 +0000",
     "v": 0,
     "l": [
@@ -192,7 +189,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Russia cloaks launch schedule after spaceport falls in Ukraine's sights\n\n\"We had serious inbound attempts to the cosmodrome that day.\"",
+    "t": "רוסיה מסתירה לוח זמנים של משגרים לאחר שנמל החלל נופל תחת התקפות אוקראיניות\n\nרוסיה מחביאה את פרטי משגרי החלל שלה כשתחנת הקוסמוס שלהם נמצאת בסכנה מתקפות אוקראיניות. בדיווח האחרון, עובדי התחנה דיווחו על \"ניסיונות התקפה רציניים נכנסים לקוסמודרום ביום זה.\" זה מראה כיצד הסכסוך משפיע ישירות על התעשיית החלל הרוסית ותוכניותיה.",
     "d": "Thu, 30 Apr 2026 21:35:02 +0000",
     "v": 0,
     "l": [
@@ -215,7 +212,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Govern your bots carefully or chaos could ensue\n\nStop the sprawl! With the average Global Fortune 500 enterprise expected to run more than 150,000 AI agents by 2028, up from fewer than 15 today, there’s plenty of room for chaos. Analyst firm Gartner says that, without proper governance, those agents will multiply and run amok.…",
+    "t": "שלטו בבוטים שלכם בזהירות או שהכאוס ינצח\n\nבואו נתעצרו רגע - חברות ענק בעולם צפויות להפעיל כ-150,000 AI agents בשנת 2028, לעומת פחות מ-15 היום. גרטנר מזהירה שבלי governance קשוח, הרובוטים הללו יתחילו להתרבות ולהתנהג כמו פראים. זה כמו לשחרר רובוץ ללא מעצור במשרדך - תוכנית לא ברורה.",
     "d": "2026-04-30T21:27:22.000Z",
     "v": 0,
     "l": [
@@ -239,7 +236,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial\n\nElon Musk spent three days testifying as the first witness in his trial against OpenAI.",
+    "t": "7 הכישלונות הגדולים של אלון מאסק בעדות בתיק נגד OpenAI\n\nמאסק בילה שלושה ימים בעדות כעד ראשון בתיק המשפטי שלו נגד OpenAI, והנתינה שלו לא הלכה חלק - היו כאן כמה רגעים שרגע אחרי שנה לא יחפוץ שיזכרו. ההתקפה על החברה שלו מסתבכת כשהעדויות שלו לא תואמות את העובדות, וזה יכול להשפיע בגדול על כל התיק.",
     "d": "Thu, 30 Apr 2026 21:11:51 +0000",
     "v": 0,
     "l": [
@@ -265,7 +262,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Firefox maker torches Google for building Prompt API into browser\n\nMozilla fears wiring an AI API into Chrome will make the web less open Mozilla has reiterated its opposition to Google's decision to build AI plumbing into its Chrome browser, though rather belatedly now that the technology, known as the Prompt API, is already being tested in Chrome and Microsoft Edge.…",
+    "t": "מוזילה תוקפת את גוגל על שילוב Prompt API בדפדפן\n\nמוזילה חוזרת בתסכול לתקוף את החלטת גוגל להטמיע API של AI ישירות בדפדפן Chrome, וחוששת שהצעד הזה יהפוך את הרשת לפחות פתוחה וחופשית. הטכנולוגיה כבר נמצאת בבדיקות בכרום ובEdge של מיקרוסופט, אבל מוזילה מתעקשת שזה לא הדרך הנכונה.",
     "d": "2026-04-30T20:49:00.000Z",
     "v": 0,
     "l": [
@@ -278,14 +275,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google",
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -293,7 +285,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "Spotify adds artist Verified badge, tightens rules as AI music floods platform\n\nSpotify is rolling out a new verification system aimed at strengthening trust in the age...",
+    "t": "Spotify משיקה תג Verified לאמנים ומחמירה את הכללים כדי להתמודד עם הצפת מוזיקת AI\n\nספוטיפיי מטילה סדר בחוזה - הם משיקים סימן Verified חדש שנועד לעזור למאזינים להבדיל בין אמנים אמיתיים לבין הבורות של AI שמציפה את הפלטפורמה. המהלך מסמל שהחברה מבינה שכמו ברשתות חברתיות, גם בעולם המוזיקה צריך אימות כדי לשמור על אמינות ויוקרה של יוצרים אמיתיים.",
     "d": "Thu, 30 Apr 2026 20:46:16 +0000",
     "v": 0,
     "l": [
@@ -316,7 +308,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Tech stocks close out best month since start of Covid pandemic in 2020\n\nThe Nasdaq Composite climbed over 15% in April, as strong earnings reports helped fuel the rally.",
+    "t": "מניות טק סגרו את החודש הטוב ביותר שלהן מאז תחילת משבר הקורונה ב-2020\n\nה-Nasdaq עלה ביותר מ-15% באפריל, כשדוחות רווחים חזקים הביאו לעלייה משמעותית בשוק. זה סימן חזק שהשוק טכנולוגי מכיל תאוצה ממשמעותית, וברור שהמשקיעים שוב בעלי אופטימיזם לגבי עתיד הענף.",
     "d": "Thu, 30 Apr 2026 20:34:41 GMT",
     "v": 0,
     "l": [
@@ -333,13 +325,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 15,
-    "t": "The most severe Linux threat to surface in years catches the world flat-footed\n\nCopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
+    "t": "האיום הכי חמור על Linux בשנים האחרונות תופס את העולם בחסרון זיכרון\n\nCopyFail זו חוליה חדשה שמאיימת על שרתים מולטי-טנאנט, זרימות CI/CD וקונטיינרים של Kubernetes - בקיצור, על כל האינפרה הקריטית שלנו. זה משהו שאף אחד לא ראה בא מרחוק, והעולם של DevOps בטוח שנצפה לעת עתה קדימה בדאגה מעומק הלב.",
     "d": "Thu, 30 Apr 2026 20:20:48 +0000",
     "v": 0,
     "l": [
@@ -362,7 +354,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter\n\nThe two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
+    "t": "סטארטап משפטי Legora הגיע לשווי של 5.6 מיליארד דולר והקרב שלו עם Harvey הולך להיות חם\n\nשתי החברות שגדלות בקצב משוגע הגיעו למימון ענק והחלו תוקפות זו את השנייה בשוקיהן, כשהן מנהלות כעת קמפיינים פרסומיים מתנגדים שלהן. התחרות בין שני ענקי ה-Legal AI הזה לא הייתה אי פעם חוזקה כל כך, והנראה שזו רק התחלת המלחמה.",
     "d": "Thu, 30 Apr 2026 20:14:47 +0000",
     "v": 0,
     "l": [
@@ -377,8 +369,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -455,7 +446,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "Meta cuts contractors who reported seeing Ray-Ban Meta users have sex\n\nMeta said the Kenyan workers didn't \"meet our standards.\"",
+    "t": "מטא פיטרה קבלנים שדיווחו על תוכן מיני בשימוש משקפי Ray-Ban של מטא\n\nמטא טוענת שעובדים קניים שעבדו עבורה לא עמדו בסטנדרטים שלה. העיתונות מדווחת שהחברה פיטרה קבלנים לאחר שדיווחו על חשיפה לתוכן בעייתי תוך הסקר איכות של מוצרי הטכנולוגיה של החברה. מעניין שמטא בחרה להעיף את המדווחים ולא לטפל בעצם הבעיה של התוכן הבעייתי.",
     "d": "Thu, 30 Apr 2026 19:55:18 +0000",
     "v": 0,
     "l": [
@@ -468,15 +459,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
       "news",
-      "model",
       "regulation"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/unnamed-874x648.jpg",
     "source": "Ars Technica"
   },
@@ -604,7 +592,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 26,
-    "t": "Powering the AI boom without breaking the grid\n\nIn our latest episode of Lexicon, we sat down with Diane Watkins, Vice President of...",
+    "t": "הנעת בום ה-AI בלי להפוך את הרשת לאפילה\n\nבפרק החדש של Lexicon, ישבנו עם דיאן וטקינס, סגנית נשיא ה-...בכדי לדון בכיצד אנחנו יכולים להנעות את הפיצוץ של בינה מלאכותית מבלי להטעין על יותר מדי את תשתית החשמל שלנו. זו בעיה שפשוט לא יכול להיות לנו זמן לפתור מחר - המדינות כבר התחילו להתחרות על עוצמת חישוב. מגניב וחשוב.",
     "d": "Thu, 30 Apr 2026 18:57:05 +0000",
     "v": 0,
     "l": [
@@ -673,7 +661,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 29,
-    "t": "US’ first integrated humanoid factory to build 100,000 NEO robots by 2027\n\nU.S.-based robotics firm 1X has started full-scale production of its humanoid robot NEO at a...",
+    "t": "המפעל ההומנואידי המשולב הראשון בארה\"ב יייצר 100,000 רובוטים NEO עד 2027\n\nחברת הרובוטיקה האמריקאית 1X התחילה בייצור בקנה מידה מלא של הרובוט ההומנואידי NEO שלה, בתוכנית שיצרה בערך 100,000 יחידות עד 2027. זו תהיה תפנית גדולה בתעשיית הרובוטיקה - לא רק חידוש טכנולוגי אלא הוכחה שאנחנו סוף סוף מדברים על ייצור מסיבי של רובוטים הומנואידים בעולם האמיתי. מה שמחכה לנו הוא כוח עבודה חדש לחלוטין שעלול להשנות כל מיני תעשיות.",
     "d": "Thu, 30 Apr 2026 18:38:09 +0000",
     "v": 0,
     "l": [
@@ -688,8 +676,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.youtube.com/embed/ag_rFhvSNmE",
@@ -697,7 +684,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 30,
-    "t": "Solid-state EV battery hits 350 Wh/kg energy density, 500 cycles at ultra-low pressure\n\nResearchers at the Korea Electrotechnology Research Institute (KERI) have developed a nano-tin interlayer that allows...",
+    "t": "סוללת EV במצב מוצק משיגה צפיפות אנרגיה של 350 Wh/kg, 500 מחזורים בלחץ אולטרה-נמוך\n\nחוקרים במכון הקוריאני למחקר אלקטרוטכנולוגיה (KERI) פיתחו שכבת ביניים מננו-פח שמאפשרת לסוללות solid-state להגיע לצפיפות אנרגיה מרשימה של 350 וואט-שעות לקילוגרם - זה יכול להיות משחק חדש לחלוטין לרכבים חשמליים. הטכנולוגיה החדשה עמדה בהצלחה ב-500 מחזורי טעינה ופריקה בלחץ נמוך באופן חסר תקדים, מה שמشפיע על החיזוי של סוללות עמידות ויעילות הרבה יותר מהדור הנוכחי.",
     "d": "Thu, 30 Apr 2026 18:31:42 +0000",
     "v": 0,
     "l": [
@@ -867,7 +854,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 37,
-    "t": "MIT scientists unveil first-ever 3D atomic charge map to advance next-gen sensor design\n\nResearchers from MIT and collaborating institutions have, for the first time, directly measured the 3D...",
+    "t": "מדעני MIT חשפו לראשונה מפת תלת-מימדית של מטענים אטומיים לפיתוח חיישנים לדור הבא\n\nחוקרים מ-MIT הצליחו למדוד בפעם הראשונה בהיסטוריה את התפלגות המטענים החשמליים של אטומים בתלת-מימד, דבר שיכול להיות משחק חדש בעיצוב חיישנים ומכשירים אלקטרוניים עדכניים. התגלית הזו פותחת דלתות לבנייה של סנסורים חכמים יותר ועם דיוק גבוה הרבה יותר, וזה בדיוק מה שהתעשייה הטק חיכתה. המחקר, שפורסם בידי Interesting Engineering, עלול לשנות לחלוטין את הדרך שבה אנחנו משתמשים בטכנולוגיה למטרות חישה וגילוי.",
     "d": "Thu, 30 Apr 2026 18:00:00 +0000",
     "v": 0,
     "l": [
@@ -1133,7 +1120,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 48,
-    "t": "US-built reusable liquid rocket engine completes 10 flights, hits hypersonic speeds\n\nA US aerospace and defense company has taken a huge step towards operational hypersonic systems...",
+    "t": "מנוע רקטה נוזלי בן שימוש חוזר שיוצר בארה\"ב השלים 10 טיסות והגיע למהירויות היפרסוניות\n\nחברת תעופה והגנה אמריקאית עשתה צעד ענק לעבר מערכות היפרסוניות תפעוליות - המנוע שלהם החדש כבר הוכיח שהוא יכול להשתמש בו שוב ושוב, משהו שלא היה אפשרי עד עכשיו. כשמדברים על מהירויות היפרסוניות, אנחנו מדברים על חומרה שנעה במהירות שמתחת רחוק לפני קול רגיל, וזה סימן שנחנו קרובים לעתיד של טיסות קצובות יותר מהרות וזולות יותר. המשימה הזאת היא כמו צעד ענק במירוץ טכנולוגיה בין מעצמות, ויוצרת תקדים לכל מה שבא אחרי זה.",
     "d": "Thu, 30 Apr 2026 16:43:43 +0000",
     "v": 0,
     "l": [
@@ -1734,7 +1721,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 73,
-    "t": "China’s life-size humanoid robot with 18,000 sensors masters 115 degrees of freedom\n\nA Chinese AI research firm has just unveiled KAI, a full-sized faceless humanoid robot that...",
+    "t": "הרובוט הומניאידי בגודל אדם של סין עם 18,000 חיישנים שולט ב-115 מעלות חופש\n\nחברת מחקר AI סינית חשפה את KAI, רובוט הומניאידי חסר פנים בגודל מלא הטעון בעשרות אלפי חיישנים. המכונה הזו מסוגלת לתנועות מורכבות וחלקות בזכות 115 מעלות חופש, מה שהופך אותה לאחד המערכות הרובוטיות המתקדמות ביותר בעולם. זו עוד הוכחה לכך שסין ממשיכה להשקיע בענק ברובוטיקה והוא יום אחרי יום.",
     "d": "Thu, 30 Apr 2026 14:59:14 +0000",
     "v": 0,
     "l": [
@@ -1749,8 +1736,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.youtube.com/embed/Nr4-8ADt2e0",
@@ -2086,7 +2072,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 88,
-    "t": "New 3D-printed jet engine hits 1,000 lbf thrust for uncrewed combat drones\n\nColorado-based firm Beehive Industries has unveiled a 3D-printed turbofan engine for uncrewed combat aircraft. The...",
+    "t": "מנוע סילון מודפס בתלת-ממד השיג 1,000 כוח דחף לרחפנים קרביים\n\nחברה קולורדית בשם Beehive Industries חשפה מנוע טורבופאן מודפס בתלת-ממד שתוכנן במיוחד לכלים אווריים ללא טייס. הטכנולוגיה הזו פותחת דלתות חדשות לייצור רחפנים קרביים יותר קלים ויעילים, כשהמנוע משיג יכולות דחף רשמיות. זה עוד צעד בהתפתחות של טכנולוגיית ייצור תלת-ממדית במגזר ההגנה.",
     "d": "Thu, 30 Apr 2026 13:08:08 +0000",
     "v": 0,
     "l": [
