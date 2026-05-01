@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Mythos complicates the breakup, says Pentagon CTO, but Anthropic is still barred\n\nEmil Michael says agencies are evaluating the cybersecurity model, not deploying it Pentagon CTO Emil Michael pushed back on reports of a thaw in the department’s relationship with Anthropic: The two are not getting back together, even as Mythos draws interest from government agencies.…",
+    "t": "מיתוס מסבכת את הקשר: Pentagon CTO אומר שAnthropic עדיין חסומה\n\nה-Pentagon עדיין לא חוזר אל Anthropic, גם אם חברת Mythos מעוררת עניין בקרב סוכנויות ממשלתיות. ה-CTO של הפנטגון Emil Michael הבהיר שמדובר בהערכת מודל cybersecurity בלבד, לא בהטמעה בפועל - אז אל דאגה, Anthropic עדיין בתא המינוח הרשמי של ממשלת ארה\"ב. מקור: The Register",
     "d": "2026-05-01T16:57:17.000Z",
     "v": 0,
     "l": [
@@ -15,22 +15,20 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Anthropic",
-      "Amazon"
+      "Anthropic"
     ],
     "tags": [
       "news",
       "model",
-      "product",
       "security"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Register"
   },
   {
     "id": 2,
-    "t": "New panels produce hydrogen fuel using only water, sunlight and no electricity\n\nA spin-off from the Karlsruhe Institute of Technology (KIT), Photreon, gained significant attraction at the...",
+    "t": "פנלים חדשים מייצרים דלק מימן באמצעות מים ואור שמש בלבד - ללא חשמל\n\nסטארטאפ בשם Photreon, שהוא ספיןאוף מהמכון הטכנולוגי קרלסרוהה בגרמניה, גרם להרבה רעש בעולם הטכנולוגיה בחודשים האחרונים. החברה פיתחה פנלים שמצליחים להמיר מים ואור שמש ישירות למימן, בלי להזדקק לחשמל כלל - משהו שיכול להיות משחק-הגמר למהפכת האנרגיה הירוקה.",
     "d": "Fri, 01 May 2026 16:37:12 +0000",
     "v": 0,
     "l": [
@@ -53,7 +51,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Apple stages sharpest rally in 9 months as execs cite iPhone, Mac demand in boosting guidance\n\nOn its quarterly earnings call, Apple said revenue growth in the current quarter would be between 14% and 17%, well above analysts' estimates.",
+    "t": "אפל עושה קפיצה משמעותית - המכירות של iPhone ו-Mac מנפצות את הציפיות\n\nאפל הפתיעה בגדול בקול הארנינגס שלה - החברה צופה גדילה בהכנסות של 14-17% ברבעון הקרוב, משמעותית מעל הציפיות של אנליסטים. בעקבות הידיעה הטובה, מחיר המניה של אפל עשה את התגיד החדה ביותר שלו בתשעה חודשים האחרונים. נראה שהביקוש לאיכותניות החדשות של iPhone ו-Mac עדיין חזק ויפה.\n\nמקור: CNBC Tech",
     "d": "Fri, 01 May 2026 16:35:56 GMT",
     "v": 0,
     "l": [
@@ -66,12 +64,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Apple"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -79,7 +74,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Eight tech giants sign Pentagon deals to build an \"AI-first fighting force\" across classified networks\n\nEight tech companies are supplying AI for classified US military networks, part of the Pentagon's push to build an \"AI-first fighting force.\" Anthropic is notably absent from the list after the company rejected a usage clause and got flagged as a security risk.\nThe article Eight tech giants sign Pentagon deals to build an \"AI-first fighting force\" across classified networks appeared first on The Decoder.",
+    "t": "שמונה ענקיות טכנולוגיה חתמו על חוזים עם הפנטגון לבניית \"כוח לחימה ממוקד AI\" ברשתות מסווגות\n\nשמונה חברות טכנולוגיה סיפקו AI לרשתות צבאיות מסווגות של ארה\"ב כחלק מהמהלך של הפנטגון להפוך את הצבא לממוקד AI. Anthropic לא הצטרפה לרשימה - החברה דחתה תנאי שימוש מסוים וסומנה כסיכון ביטחוני על ידי הממשל האמריקאי.",
     "d": "Fri, 01 May 2026 16:30:38 +0000",
     "v": 0,
     "l": [
@@ -97,8 +92,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -106,7 +100,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Scorpions go terminator mode and reinforce their weapons with metal\n\nDifferent hunting patterns seem to dictate different distributions of metal.",
+    "t": "עקרבים נכנסים למצב ״טרמינטור״ ומחזקים את נשקם במתכת\n\nמסתבר שעקרבים לא סתם טורפים - הם מתחנכים כמו אלופי UFC. חוקרים גילו שהחרקים האלה מחזקים את המוקדים שלהם במתכת כדי להיות קשוחים יותר בטיים, וההתפלגות של המתכת משתנה בהתאם לאסטרטגיית הציד שלהם. זה כמו שצבא קנה ציוד מתוך הלוגיסטיקה שלו - כל עקרב מתאים את עצמו למה שהוא צריך.",
     "d": "Fri, 01 May 2026 16:24:45 +0000",
     "v": 0,
     "l": [
@@ -119,12 +113,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-998526802-1152x648.jpg",
@@ -132,7 +123,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Roblox shares plummet 18% as child safety measures weigh on bookings\n\nRoblox is facing over 140 federal lawsuits accusing it of failing to prevent child exploitation, and last month settled with Alabama and West Virginia.",
+    "t": "מניות Roblox צונחות 18% עקב אמצעי בטיחות לילדים\n\nRoblox נתקלת בסערה משפטית ענקית עם למעלה מ-140 תביעות פדרליות שמאשימות את הפלטפורמה בכישלון למנוע ניצול של ילדים, והחברה הסתדרה לאחרונה גם עם הממשלות של אלבמה וווסט וירג'יניה. השורה התחתונה? המחסוميות על הבטיחות משפיעות ממש על ההכנסות, ויתכן שמשקיעים הולכים לקחת עלי הם לפחות בקצרם.",
     "d": "Fri, 01 May 2026 16:23:09 GMT",
     "v": 0,
     "l": [
@@ -145,13 +136,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -159,7 +146,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Harvard scientists design elephant-inspired 3D-printed filaments for soft robotics\n\nResearchers have developed a 3D printing strategy to create programmable artificial muscles.  Harvard’s SEAS and...",
+    "t": "מדענים בהארווארד עיצבו חוטים תלת-ממדיים בהשראת פילים לרובוטיקה רכה\n\nחוקרים בהארווארד פתחו שיטת הדפסה תלת-ממדית חדשנית שיוצרת שרירים מלאכותיים התגובים לתכנות - קצת כמו לקחת את החוזק של חוף פיל ולהפוך אותו לרובוט מדויק. הטכנולוגיה הזו יכולה להיות משחקון במיוחד לתחום הרובוטיקה הרכה, בו אתה צריך תנועות גמישות וחזקות במקביל. המחקר מעניין במיוחד כי הוא משלב בין בעלי חיים ופיזיקה כדי ליצור משהו שלא היינו יכולים לעשות עם טכנולוגיה קונבנציונלית. | מקור: Interesting Engineering",
     "d": "Fri, 01 May 2026 16:17:30 +0000",
     "v": 0,
     "l": [
@@ -174,8 +161,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.youtube.com/embed/r5vUdW43Zf4",
@@ -183,7 +169,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "First Chinese AI startups are reportedly ditching offshore structures to register directly in China\n\nAfter Beijing blocked Meta's takeover of Manus, China's securities regulator signaled that companies hoping to go public should be registered at home. Now AI startups like Moonshot AI and StepFun are considering dissolving their foreign holding structures and registering directly in China as part of Beijing's broader push to keep its AI industry under tight control.\nThe article First Chinese AI startups are reportedly ditching offshore structures to register directly in China appeared first on T",
+    "t": "סטארטאפי AI סיניים ראשונים מוותרים על מבנים חוץ-חופיים ורשמים את עצמם ישירות בסין\n\nסין מחמירה את הפיקוח על תעשיית ה-AI שלה: סטארטאפים כמו Moonshot AI ו-StepFun נאלצים לתרוג מהמבנים הרחוקים שלהם וליישם את הרישום ישירות בסין כדי לעמוד בדרישות הרגולציה החדשות. פעם אחרי שנכשלה הpretsatah של מטה (Meta) לרכוש את Manus, הרגולטורים הסיניים הוציאו אות ברורה שחברות שרוצות להיות ציבוריות צריכות להיות רשומות בתוך החלק היבשתי של סין.",
     "d": "Fri, 01 May 2026 16:06:04 +0000",
     "v": 0,
     "l": [
@@ -203,13 +189,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 9,
-    "t": "Biwin M350 2TB SSD Review: A Better Budget Alternative?\n\nThe Biwin M350 is a budget PCIe 4.0 SSD done right. It has good performance where it matters and good power efficiency, too. But it still has the weaknesses of QLC flash, like poor sustained performance.",
+    "t": "ביקורת Biwin M350 2TB: אלטרנטיבה תקציבית טובה יותר?\n\nה-Biwin M350 הוא כונן SSD בגודל PCIe 4.0 שעושה עבודה טובה במחיר נמוך, עם ביצועים טובים במקומות שחשוב וצריכת חשמל חסכונית. אבל זה עדיין סובל מחולשות של זיכרון QLC - בעיקר ביצועים חלשים בעומסים קשים וממושכים.",
     "d": "Fri, 01 May 2026 16:02:59 +0000",
     "v": 0,
     "l": [
@@ -232,7 +218,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks\n\nThe deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+    "t": "הפנטגון חתם עסקאות עם Nvidia, Microsoft ו-AWS לפריסת AI ברשתות מסווגות\n\nמשרד ההגנה האמריקני מחזק את התמקדותו בעבודה עם מספר ספקי AI לאחר התגרות עם Anthropic על תנאי השימוש במודלים שלהם. הצעד הזה מראה שהצבא משנה את האסטרטגיה שלו ולא רוצה להיות תלוי בספק אחד בעת פריסת טכנולוגיות AI רגישות על רשתות מוגנות.",
     "d": "Fri, 01 May 2026 16:02:36 +0000",
     "v": 0,
     "l": [
@@ -263,7 +249,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "The Pentagon announces AI deals with OpenAI, Google, Microsoft, Amazon, Nvidia, and more — LLMs to be deployed on classified Department of War networks ‘for lawful operational use’\n\nThe U.S. Department of War announced agreements with seven AI providers, allowing it to deploy multiple LLMs for its use and avoiding lock up with a single vendor.",
+    "t": "הפנטגון חתם עסקאות AI עם OpenAI, Google, Microsoft ו-Amazon — LLM יוצגו ברשתות צבאיות סווג״ות\n\nמשרד ההגנה האמריקאי חתם הסכמים עם שבע חברות AI שונות, מה שיאפשר לו לפרוס מודלי שפה גדולים לשימוש צבאי בכל הפלטפורמות, תוך הימנעות מקשר לחברה יחידה. זה מהלך חכם מבחינה אסטרטגית — לא רוצים שהצבא יהיה תלוי בספק אחד בעת העובדה שכל החברות האלה נלחמות על הדומיננציה בשוק ה-AI.",
     "d": "Fri, 01 May 2026 16:00:45 +0000",
     "v": 0,
     "l": [
@@ -280,23 +266,20 @@ window.TELEGRAM_DATA = [
       "OpenAI",
       "Google",
       "Microsoft",
-      "Nvidia",
       "Amazon"
     ],
     "tags": [
       "news",
       "model",
-      "product",
-      "hardware",
-      "regulation"
+      "product"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/6vTk3xJGhojSU7NNDcyECo-1280-80.png",
     "source": "Tom's Hardware"
   },
   {
     "id": 12,
-    "t": "Cyber-Insecurity in the AI Era\n\nCybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review’s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after…",
+    "t": "אי-ביטחון סייבר בעידן ה-AI\n\nהביטחון הסייבר היה כבר בחוצים עוד לפני שה-AI הגיע למשחק, וכרגע כשה-AI פותח משטחי התקפה חדשים ומוסיף מורכבות, זה כמו לנסות להגן על טירה עם מנעולים מהתקופה הביניימית מול רובוטים זוממים. במפגש מתוך הכנס EmTech AI של MIT Technology Review, מעמיקים בשאלה הקשה: למה שמירה על ביטחון בעולם של AI זה לא סתם עניין של להניח תיקייה נוספת על הגנות ישנות, אלא צריך לחזור לשורש ולבנות מחדש מהיסוד.",
     "d": "Fri, 01 May 2026 15:54:01 +0000",
     "v": 0,
     "l": [
@@ -311,16 +294,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "MIT Technology Review"
   },
   {
     "id": 13,
-    "t": "Skyrocketing component prices push Big Tech capex to record $725 billion — Microsoft alone attributes $25 billion of AI budget to increased memory and chip costs\n\nGoogle, Amazon, Microsoft, and Meta plan to spend a combined $725 billion on capital expenditure in 2026, a 77% increase over last year's record $410 billion.",
+    "t": "מחירי רכיבים דוקרים: טכ ענק מתקציבים 725 מיליארד דולר לקפיטל - מיקרוסופט לבדה מוציאה 25 מיליארד לזיכרון וצ'יפים\n\nגוגל, אמזון, מיקרוסופט ומטא מתכננות להשקיע 725 מיליארד דולר בהוצאות הון ב-2026, עלייה מטורפת של 77% בהשוואה ל-410 מיליארד שהוצאו בשנה שעברה. המחיר של GPU-ים ורכיבים יקרים אחרים שמזינים את מירוץ ה-AI הופך את המשוואה כלכלית: מיקרוסופט לבדה תוציא 25 מיליארד דולר בלבד על זיכרון וצ'יפים - זה כמו לקנות עיר שלמה.\nמקור: Tom's Hardware",
     "d": "Fri, 01 May 2026 15:49:09 +0000",
     "v": 0,
     "l": [
@@ -334,24 +316,19 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Google",
-      "Meta",
-      "Microsoft",
-      "Amazon"
+      "Nvidia"
     ],
     "tags": [
       "news",
-      "model",
-      "product",
-      "funding"
+      "hardware"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/7ZfYx4wyiuAKGHcmrwJb8a-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 14,
-    "t": "Microsoft begins rolling out Xbox Mode to Windows 11 desktops and laptops — consolidated storefronts and console-style interface come to PC\n\nXbox Mode replaces the standard Windows desktop with an Xbox-style interface designed for gamepad navigation.",
+    "t": "מיקרוסופט מתחילה להשקות Xbox Mode ל-Windows 11 - ממשק בסגנון קונסולה מגיע ל-PC\n\nמיקרוסופט מרוקנת את שולחן העבודה של Windows בממשק שנראה כמו Xbox, מעוצב לניווט עם gamepad. המצב החדש מביא חנות משוחדת וחוויה דומה לקונסולה ישר לשולחן העבודה שלכם, מה שהופך את העברת משחקים בין PC לקונסולה להרבה יותר חלקה.",
     "d": "Fri, 01 May 2026 15:35:33 +0000",
     "v": 0,
     "l": [
@@ -364,12 +341,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/z7rELRyT5wF7Umv38zKfmH-1280-80.png",
@@ -377,7 +351,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests\n\nNew results suggest Mythos' cyber threat isn't \"a breakthrough specific to one model.\"",
+    "t": "GPT-5.5 משווה את Mythos Preview בתחזוקות סייבר חדשות\n\nהתוצאות החדשות מראות שהיתרון של Mythos בתחום הסייבר לא בדיוק \"פריצת דרך שייחודית לדגם אחד בלבד\". במילים אחרות, גם GPT-5.5 של OpenAI מצליחה לעמוד בתחרות דומות, מה שמשמיע פעמון קטן לחברות שהשקעו הרבה בהייפ סביב הדגם החדש של Mythos.",
     "d": "Fri, 01 May 2026 15:32:27 +0000",
     "v": 0,
     "l": [
@@ -395,16 +369,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "security"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2234175849-1152x648.jpg",
     "source": "Ars Technica"
   },
   {
     "id": 16,
-    "t": "Operationalizing AI for Scale and Sovereignty\n\nCompanies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review’s EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and governance—positioning data…",
+    "t": "ניצול AI בקנה מידה גדול ושמירת ריבונות הנתונים\n\nחברות בעולם מבינות שהן צריכות לשלוט בנתוניהן שלהן כדי לבנות מודלי AI שמותאמים בדיוק לצרכיהן, אבל זה לא פשוט - צריך להשיג איזון בדוק בין שמירת הבעלות על הנתונים לבין קבלת זרימה בטוחה של נתונים באיכות גבוהה. בכנס EmTech AI של MIT Technology Review דיברו על איך ה-'AI factories' הללו מאפשרות להוציא את הטכנולוגיה לקנה מידה גדול תוך שמירה על משמעות וגיבוי אמינות - וזה פשוט משנה את המשחק עבור חברות ישראליות שרוצות להיות עצמאיות בנתונים שלהן. מקור: MIT Technology Review",
     "d": "Fri, 01 May 2026 15:31:09 +0000",
     "v": 0,
     "l": [
@@ -427,7 +400,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "Is your Purosangue SUV not sharp enough? Ferrari has you covered.\n\nWe'll soon get to see the brand's first EV; first, a more honed V12 four-seater.",
+    "t": "ה-Purosangue שלך לא חד מספיק? פרארי כאן כדי לעזור לך\n\nפרארי מביאה גרסה משופרת של ה-SUV שלהם עם V12 חדש וחריף יותר, לפני שהם יעברו למכונית חשמלית. זה כמו שהם אומרים: בואו קודם נעשה את המהדורה הקלאסית עוד יותר כמו פרארי, ואז נרוץ לעתיד החשמלי.",
     "d": "Fri, 01 May 2026 15:23:38 +0000",
     "v": 0,
     "l": [
@@ -450,7 +423,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "Forget digital keystone, this tri-laser 4K projector puts optical first\n\nOn the face of it, JMGO's latest lifestyle projector might look like just another boxy smart entertainment hub. But this model is reported to boast the world's first 3-in-1 optical system, and rests on a nifty gimbal stand that can adjust itself or play follow the user.\nContinue Reading\nCategory: Home Entertainment, Consumer Tech, Technology\nTags: Laser, Projectors, Google TV, 4K UHD, Gimbals",
+    "t": "שכחו מ-Digital Keystone - פרוגקטור לייזר תלת-אלומי 4K שמעדיף אופטיקה\n\nJMGO הציגה פרוגקטור ליישום בחיי היומיום שנראה כמו דבר כל-הימים, אבל מדובר במערכת אופטית 3-in-1 ראשונה מסוגה בעולם עם תמיכה ב-4K UHD. הדבר המעניין ביותר? הפרוגקטור עומד על סטנד gimbal חכם שמסוגל להתאים את עצמו באופן אוטומטי או לעקוב אחרי המשתמש, מה שמעניק גמישות שלא ראינו קודם בעולם ההקרנה הביתית.",
     "d": "Fri, 01 May 2026 15:13:26 GMT",
     "v": 0,
     "l": [
@@ -463,20 +436,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "New Atlas"
   },
   {
     "id": 19,
-    "t": "CIOs ready for another role-change as AI becomes agent of chaos\n\nIf software writes software the risk is “systematic failure at scale”. Someone needs to take charge, argues Forrester Forrester predicts that by decade's end, the rush toward agentic AI will grow so chaotic that CIOs will be forced into a new role as enforcer of order.…",
+    "t": "CIOs מתכוננים לתפקיד חדש כאשר AI הופך לגורם כאוס\n\nפורסטר מחזיקה בחזון די כהה לעתיד: עד סוף העשור, הזעם סביב AI אגנטים יהיה כל כך בחוסר שליטה שה-CIOs יצטרכו להפוך למשטרה של הסדר בחברה שלהם. כשתוכנה כותבת תוכנה, ההשלכות עלולות להיות \"כישלון שיטתי בקנה מידה ענק\" - ומישהו צריך לתפוס שם את ההגה.",
     "d": "2026-05-01T14:54:13.000Z",
     "v": 0,
     "l": [
@@ -491,8 +461,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -500,7 +469,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "Virgin Galactic reveals new ship, but it's running out of time and cash\n\nIt's not clear whether Virgin Galactic has the cash reserves to fund a prolonged test phase.",
+    "t": "וירג'ין גלקטיק חשפה ספינה חדשה, אבל הזמן וההכספים נגמרים\n\nוירג'ין גלקטיק הציגה את הספינה החדשה שלה לטיסות תיירותיות לחלל, אבל יש פה בעיה קטנה - לא ברור אם באמת יש להם מספיק כסף כדי להשלים את כל שלבי הבדיקה שנדרשים. החברה נמצאת בלחץ זמן וגם תקציבי, והשאלה הגדולה היא האם הם יצליחו לעמוד במחסום הפיננסי הזה.",
     "d": "Fri, 01 May 2026 14:42:45 +0000",
     "v": 0,
     "l": [
@@ -523,7 +492,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "Big tech's AI spending balloons to $725 billion this year\n\nBig tech keeps pouring more money into AI data centers, chips, and infrastructure. According to the Financial Times, Google, Amazon, Microsoft, and Meta have a combined budget of around $725 billion for next year.\nThe article Big tech's AI spending balloons to $725 billion this year appeared first on The Decoder.",
+    "t": "ההוצאות של ענקי הטק על AI מתפוצצות ל-725 מיליארד דולר השנה\n\nגוגל, אמזון, מיקרוסופט ומטא לא מפסיקות להשקיע עתק של כסף בבניית data centers וצ'יפים חדשים - השנה הם עומדים להוציא לבדם 725 מיליארד דולר על כל הנושא הזה, על פי דיווחים מ-Financial Times. זה בעצם אומר שהתחרות על AI היא כל כך אמיתית שהחברות האלה מוכנות להשקיע סכומים מטורפים כדי שלא להישאר מאחור.",
     "d": "Fri, 01 May 2026 14:41:45 +0000",
     "v": 0,
     "l": [
@@ -536,25 +505,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google",
-      "Meta",
-      "Microsoft",
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "product",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 22,
-    "t": "SoftBank plans robotics and AI firm in the US to build data centers — aims for $100 billion valuation and an IPO this year\n\nSoftBank is planning to launch an AI and robotics startup in the U.S. to build data centers. The firm is gunning for a $100 billion valuation and aims to list the startup this year.",
+    "t": "SoftBank משיקה חברת AI וזרוביטיקה בארה״ב לבניית data centers — שואפת להערכה של 100 מיליארד דולר ו-IPO השנה\n\nסופטבנק מתכננת לשיגר סטארטאפ חדש בארה״ב שיתמחה ב-AI וזרוביטיקה, עם מיקוד בבניית data centers ענקיים. החברה משאפה להערכת שוק של 100 מיליארד דולר, ותוכננת להביא את הסטארטאפ לבורסה עוד השנה — עסקה שתהיה משמעותית בתחום ה-infrastructure וה-AI.",
     "d": "Fri, 01 May 2026 14:23:18 +0000",
     "v": 0,
     "l": [
@@ -570,17 +531,15 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "robotics",
-      "regulation",
-      "funding"
+      "regulation"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/ncKfApzgqCY2EPQAdhE6ZQ-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 23,
-    "t": "Atlassian stock soars 20% after earnings show strong cloud, data center growth\n\nAtlassian's stock has been hit hard in the \"SaaS-pocalypse\" sweeping software names as AI threatens to disrupt their business models.",
+    "t": "מניית אטלסיאן עלתה ב-20% לאחר דוח רווחים שהראה צמיחה חזקה בענן ובמרכזי נתונים\n\nאטלסיאן הצליחה להתגבר על הגל של ירידות שחיסלו חברות SaaS רבות בשנה האחרונה - פשוט בגלל שהם מוכיחים שהביזנס שלהם בענן וב-data center עדיין צומח בכוח. זה כמובן משמח את המשקיעים שכבר אמנם לא האמינו שטכנולוגיה זה עסק בר-קיימא.",
     "d": "Fri, 01 May 2026 14:21:31 GMT",
     "v": 0,
     "l": [
@@ -603,7 +562,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 24,
-    "t": "Apple may take \"several months\" to catch up to Mac mini and Studio demand\n\nChip shortages and demand from AI enthusiasts are both playing a part.",
+    "t": "אפל תצטרך \"כמה חודשים\" כדי להשיג את הביקוש ל-Mac mini ו-Studio\n\nנראה שהביקוש המטורף ל-Mac mini וMac Studio הוא בשיא שלו, וגם מחסומי chips עולמיים וגם התעניינות של חובבי ה-AI משחקים כאן תפקיד משמעותי. אפל פשוט לא מספיקה לייצור מהיר מספיק כדי להשיג את ההזמנות, והחברה קופחת שזה יקח עוד כמה חודשים עד שתחזור לשכל הישר.",
     "d": "Fri, 01 May 2026 14:10:48 +0000",
     "v": 0,
     "l": [
@@ -616,12 +575,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Apple"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_0159-1152x648.jpeg",
@@ -629,7 +585,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic\n\nThe Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense Department has left out Anthropic - which it previously used for classified information - after declaring it a supply-chain risk.\nThis builds upon deals with OpenAI and xAI, which have already reached agreements with the Pentagon for the \"la",
+    "t": "הפנטגון חתם על עסקות AI סודות עם OpenAI, Google ו-Nvidia — אבל לא עם Anthropic\n\nמשהו מעניין קרה בקשרים בין הצבא האמריקני לחברות ה-AI: הפנטגון חתם על הסכמים עם OpenAI, Google, Microsoft, Amazon, Nvidia ו-xAI של אילון מאסק, שמאפשרים להם להשתמש בכלים של AI גם במידע מסווג. אבל חכו - Anthropic, שעבדה עם הפנטגון לפני כן, נשארה בחוץ כי המשרד הגדיר אותה כ'סיכון בשרשרת אספקה'. זה בעצם קשקוש גיאופוליטי שמשקף את הכוח של הממשל האמריקני על שוק ה-AI המתנפח. מקור: The Verge AI",
     "d": "2026-05-01T14:09:56.000Z",
     "v": 0,
     "l": [
@@ -662,7 +618,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 26,
-    "t": "ChatGPT's goblin obsession may be hilarious, but it points to a deeper problem in AI training\n\nA faulty reward signal during training caused ChatGPT models to start dropping goblins, gremlins, and other mythical creatures into their answers at a surprising rate. OpenAI says it's an example of how small, poorly tuned training incentives can produce unexpected side effects.\nThe article ChatGPT's goblin obsession may be hilarious, but it points to a deeper problem in AI training appeared first on The Decoder.",
+    "t": "התעלולי הגובלינים של ChatGPT: מצחיק כן, אבל זה חושף בעיה עמוקה בהדרכת AI\n\nזה שזכיתם לראות את ChatGPT מטבח גובלינים וגרמלינים לכל תשובה? זה לא bug אקראי - זה חטא בריווארד סיגנל שהשתבש בזמן ההדרכה. OpenAI טוענת שהחוויה הזו היא דוגמה מושלמת לאיך incentives קטנים שלא מכויילים כמו שצריך יכולים ליצור side effects לא צפויים שלמים ברחבי ה-AI. בקיצור: even small mistakes בtraining process יכולים להביא לתוצאות מטורללות.",
     "d": "Fri, 01 May 2026 13:47:57 +0000",
     "v": 0,
     "l": [
@@ -688,7 +644,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 27,
-    "t": "Elon Musk’s SpaceX rocket set for 5,400 mph crash on moon’s Einstein crater: Report\n\nIronically, SpaceX’s workhorse Falcon 9 rocket might beat Starship to the Moon. Instead of gracefully...",
+    "t": "רקטת SpaceX של אלון מאסק עומדת להתרסק על הירח במהירות 5,400 מייל לשעה - דוח\n\nבמהלך מצחיק של הגורל, נראה שה-Falcon 9 של SpaceX - רקטת העבודה של החברה - עלולה להגיע לירח לפני Starship עצמה. במקום נחיתה אלגנטית, הרקטה אמורה להתרסק בקרטר איינשטיין של הירח במהירות כושלנית - אבל אפילו התאונה הזאת יכולה לתרום מדעית למשימות הירחיות העתידיות.",
     "d": "Fri, 01 May 2026 13:40:54 +0000",
     "v": 0,
     "l": [
@@ -705,13 +661,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "Interesting Engineering"
   },
   {
     "id": 28,
-    "t": "Elon Musk had a bad week in court\n\nElon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case against the company, but he's fighting it anyway. So you'd think he'd have done better when it was his time to take the stand.\n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here",
+    "t": "אלון מאסק עבר שבוע קשה בבית המשפט\n\nמאסק עצמו זה שדחף את התביעה נגד OpenAI, וטען חודשים שהם \"גנבו סטארטאפ ללא מטרות רווח\" והוא היה הכוח האמיתי שעמד מאחורי החברה החשובה ביותר בטק כיום. אבל מכל הסימנים, נראה שהוא לא יזכה בתיק - בכל זאת הוא ממשיך להילחם. וכשהגיע הזמן שלו לעמוד בעדות? זה לא הלך בדיוק כמו שהוא כנראה קיווה.",
     "d": "2026-05-01T13:33:15.000Z",
     "v": 0,
     "l": [
@@ -737,7 +693,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 29,
-    "t": "IBM to cut quantum-powered aerodynamic designing for race cars to minutes\n\nA top technology company has joined hands with a high-performance vehicle manufacturer to advance vehicle...",
+    "t": "IBM מביאה את עיצוב אווירודינמיקה לרכבי מרוצים לדקות בעזרת קומפיוטינג קוונטי\n\nIBM שיתפה פעולה עם יצרנית רכבים בעלי ביצועים גבוהים כדי לחולל מהפכה בתכנון אווירודינמיקי - משהו שדרש בעבר ימים שלמים וכעת יתאפשר בדקות בלבד בעזרת הכוח של קומפיוטינג קוונטי. זה משנה משחק אמיתי לתעשיית מרוצים שמחפשת קצב פיתוח מהיר ודיוק חישובי על-אנושי.",
     "d": "Fri, 01 May 2026 13:32:32 +0000",
     "v": 0,
     "l": [
@@ -760,7 +716,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 30,
-    "t": "China’s Unitree reshapes entry-level humanoid robot market with $4,290 droid\n\nChinese robotics firm Unitree has introduced a low-cost bipedal humanoid robot with an upper-body-only design....",
+    "t": "חברה סינית משנה את שוק הרובוטים הביומנואידים עם דרואיד בדחוף רק 4,290 דולר\n\nUnitree, חברת רובוטיקה סינית, הכניסה לשוק רובוט ביומנואיד בעלות נמוכה עם עיצוב חדשני - רק הגוף העליון פעיל. המחיר הפחות רזה פותח את הדלת לכל סוג של מפתחים וחברות קטנות שלא סיימו את זה אפילו יכלו להרשות לעצמם רובוט אנושי עד היום. זו בדיוק המהלך שצריך להסיט את ה-equilibrium של תעשיית הרובוטיקה.",
     "d": "Fri, 01 May 2026 13:27:47 +0000",
     "v": 0,
     "l": [
@@ -775,8 +731,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -784,7 +739,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 31,
-    "t": "Women sue the men who used their Instagram feeds to create AI porn influencers\n\nAI ModelForge is a platform that teaches men how to generate their own AI influencers.",
+    "t": "נשים תובעות גברים שיצרו מהן כוכבות AI פורנוגרפיות באמצעות פוסטים באינסטגרם\n\nפלטפורמה בשם ModelForge AI לימדה גברים כיצד ליצור influencers AI משלהם, ונראה שחלקם השתמשו בתמונות של נשים אמיתיות מהרשתות החברתיות כדי ליצור תוכן מיני מזוייף. המקרה הזה מעלה שאלות חמורות על זכויות דימוי ותחליפים דיגיטליים בעידן ה-AI.",
     "d": "Fri, 01 May 2026 13:26:34 +0000",
     "v": 0,
     "l": [
@@ -807,7 +762,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 32,
-    "t": "Christian content creators are outsourcing AI slop to gig workers on Fiverr\n\nIn the beginning, platforms like Fiverr were places where people could hire freelancers to do specialized creative labor using skills that took years to develop. In the age of generative AI, though, many of these gig workers have embraced the technology in order to meet clients' demands. These workers' profiles emphasize that they can quickly (and cheaply) whip up images and videos of just about anything. But often, what their clients are looking for are dramatic animations inspired by the Chris",
+    "t": "יוצרי תוכן משיחי משכרים עובדים ב-Fiverr כדי לייצר AI slop\n\nפלטפורמות כמו Fiverr הפכו למקום שבו עובדים בחופש משתמשים בכוח בGenerative AI כדי לעמוד בביקושים של לקוחות - במקום לפתח כישורים יצירתיים שלקח שנים ללמוד. העובדים הללו מוכנים לייצר תוכן וידאו ותמונות בזמן קצר וחיסכוני, וכמו שצפוי, יש עלייה משמעותית בחיפושים אחר אנימציות דרמטיות בעלות השראה משיחית. זה עוד דוגמה לחידוש של עבודה אנושית בעידן הAI - עובדי gig שהפכו בעצם למנהלי פרומפטים.",
     "d": "2026-05-01T13:25:25.000Z",
     "v": 0,
     "l": [
@@ -830,7 +785,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 33,
-    "t": "In a first, US university’s nuclear reactor to power a high-performance GPU node\n\nIn a proof-of-concept demonstration, researchers at Utah University and Elemental Nuclear Energy Corporation plan to...",
+    "t": "בפעם הראשונה: ריאקטור גרעיני באוניברסיטה אמריקאית יספק חשמל ל-GPU node בעל ביצועים גבוהים\n\nבמשהו שנראה כמו מתוך סרט מדע בדיוני, חוקרים מאוניברסיטת יוטה וחברת Elemental Nuclear Energy Corporation עומדים לבצע הדגמה חדשנית שתחבר אנרגיה גרעינית ישירות לאינפרא של AI. הפרויקט הזה כנראה יהיה בדיקה ראשונה של התכנון הזה, ויכול להיות שהוא משנה את כל המשחק בנושא של צריכת חשמל של מרכזי נתונים.",
     "d": "Fri, 01 May 2026 13:24:32 +0000",
     "v": 0,
     "l": [
@@ -856,7 +811,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 34,
-    "t": "Microsoft puts an AI legal agent inside Word for contract review\n\nMicrosoft is bringing an AI agent for lawyers straight into Word. The \"Legal Agent\" reviews contracts, suggests edits, and checks clauses against internal guidelines.\nThe article Microsoft puts an AI legal agent inside Word for contract review appeared first on The Decoder.",
+    "t": "מיקרוסופט משיקה AI עורך דין בתוך Word לבדיקת חוזים\n\nמיקרוסופט הוסיפה סוכן AI חדש ישירות ל-Word שתפקידו לעזור לעורכי דין - הוא בודק חוזים, מציע עריכות ותופס סתירות לעומת הנחיות הארגון. זה בעצם כמו שיקול דעת משפטי מובנה שעובד בזמן אמת בזמן שאתה עובד על המסמך.",
     "d": "Fri, 01 May 2026 13:11:36 +0000",
     "v": 0,
     "l": [
@@ -869,14 +824,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "regulation",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": "http://the-decoder.com/wp-content/uploads/2026/05/Word-Legal-Agent-in-Frontier-Microsoft-Community-Hub.mp4",
@@ -884,7 +834,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 35,
-    "t": "SAP: How enterprise AI governance secures profit margins\n\nAccording to SAP, enterprise AI governance secures profit margins by replacing statistical guesses with deterministic control. Ask a consumer-grade model to count the words in a document, and it will often miss the mark by ten percent. Manos Raptopoulos, Global President of Customer Success Europe, APAC, Middle East & Africa at SAP, observes that the […]\nThe post SAP: How enterprise AI governance secures profit margins appeared first on AI News.",
+    "t": "SAP: כיצד ממשל AI ארגוני מגן על שולי הרווח\n\nSAP טוענת שממשל AI חכם בארגונים מחליף ניחושים סטטיסטיים בשליטה אמינה - כי כשאתה מבקש מ-AI צרכני לספור מילים בטקסט, הוא בהחלט יטעה ב-10 אחוז. המסר הברור של SAP: זה לא מספיק להשתמש בדגמים גנריים, צריך בקרה קפדנית על ה-AI כדי שלא יגרום נזקים כלכליים לחברה. זה נושא שהולך להיות כל יותר קריטי כשיותר ויותר חברות מתחילות לסמוך על AI בתהליכים עסקיים קריטיים.",
     "d": "Fri, 01 May 2026 13:05:37 +0000",
     "v": 0,
     "l": [
@@ -907,7 +857,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 36,
-    "t": "Huawei could seize China’s AI chip crown in 2026 as Nvidia's H200 shipments stall in regulatory limbo — Beijing pushes homegrown AI hardware dominance in a market projected to hit $67 billion by 2030\n\nHuawei is reportedly on track to become China’s top AI chip supplier as Nvidia faces export restrictions and customs delays. Analysts forecast China’s domestic AI chip market could hit $67 billion by 2030.",
+    "t": "חואווי עלולה להשתלט על כתר ה-AI של סין ב-2026 כשמשלחות ה-H200 של Nvidia תקועות בשל מגבלות רגולטוריות — בייג'ינג דוחפת לשליטה בחומרה AI מקומית בשוק שצפוי להגיע ל-67 מיליארד דולר עד 2030\n\nחואווי בדרך להפוך לספק ה-AI chip מובילה בסין, בזמן שNvidia מתמודדת עם הגבלות ייצוא והשהיות בהכנסה למדינה. אנליסטים מעריכים שהשוק המקומי של AI chips בסין יכול להגיע ל-67 מיליארד דולר עד 2030, ובתוך כך סין מנסה להשיג עצמאות טכנולוגית בתחום זה.",
     "d": "Fri, 01 May 2026 13:01:44 +0000",
     "v": 0,
     "l": [
@@ -925,16 +875,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "hardware",
-      "funding"
+      "hardware"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/ZM7QHi9Pi9ZCnNXVYqUb5-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 37,
-    "t": "Anthropic launches Claude Security to give defenders the same AI edge attackers already have\n\nAnthropic wants to give cyber defenders an edge with Claude Security, drawing on the same offensive capabilities it recently deemed too dangerous to release in another model.\nThe article Anthropic launches Claude Security to give defenders the same AI edge attackers already have appeared first on The Decoder.",
+    "t": "אנתרופיק משיקה Claude Security כדי לתת למגנים את אותה היתרון AI שיש כבר לתוקפים\n\nאנתרופיק מחליטה לשתף את מגני הסייבר בכוחות ה-AI שלה עם Claude Security, תוך שימוש בעצם היכולות ההתקפיות שהיא עדיין חוששת שהן מסוכנות מדי לשחרור בדגמים אחרים. במהלך הזה, החברה בעצם אומרת שהאפליקציה היא כל כך חזקה שחייבים לתן אותה לצד הטוב כדי לא לאבד את הקרב על הסייבר.",
     "d": "Fri, 01 May 2026 13:00:10 +0000",
     "v": 0,
     "l": [
@@ -955,13 +904,13 @@ window.TELEGRAM_DATA = [
       "model",
       "security"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 38,
-    "t": "Rocket Report: Falcon Heavy is back; Russia's Soyuz-5 finally debuts\n\nTwo launches this week delivered 61 more satellites to orbit for the Amazon Leo broadband network.",
+    "t": "דוח רקטות: פלקון הבי חוזר לפעילות; סויוז-5 הרוסית בעלייתה הראשונה\n\nשבוע עשיר בשיגורים - שתי משימות הצליחו להוציא 61 לווינים נוספים לחלל עבור רשת האינטרנט של אמזון (Amazon Leo). בחזרה דרמטית, פלקון הבי של SpaceX שוב בשמיים, וברוסיה סיבחנו לבסוף את הסויוז-5 החדשה שלהם.",
     "d": "Fri, 01 May 2026 12:39:03 +0000",
     "v": 0,
     "l": [
@@ -979,10 +928,9 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "product",
-      "regulation"
+      "product"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/fh_viasat_streak-1152x648-1777603849.jpg",
     "source": "Ars Technica"
   },
