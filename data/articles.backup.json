@@ -130657,7 +130657,7 @@
       "author": "Adam Williams",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-01T08:51:44.121Z",
       "created_at": "2026-05-01T08:51:44.121Z"
     },
@@ -130746,7 +130746,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-01T08:51:44.511Z",
       "created_at": "2026-05-01T08:51:44.511Z"
     },
@@ -130794,7 +130794,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-01T08:51:44.511Z",
       "created_at": "2026-05-01T08:51:44.511Z"
     },
@@ -130811,7 +130811,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-01T08:51:48.771Z",
       "created_at": "2026-05-01T08:51:48.771Z"
     },
@@ -131120,6 +131120,160 @@
       "priority": "batch",
       "fetchedAt": "2026-05-01T08:51:49.063Z",
       "created_at": "2026-05-01T08:51:49.063Z"
+    },
+    {
+      "id": 6383,
+      "source": "The Decoder",
+      "title_en": "Google Deepmind's \"AI co-clinician\" beats GPT-5.4 in blind doctor tests but still trails experienced physicians",
+      "description_en": "Google Deepmind is building an \"AI co-clinician\" to help doctors care for patients. The system shows promising results in simulation studies but still trails experienced physicians. The research also shows why ChatGPT's voice mode isn't ready for serious tasks, let alone medical consultations.\nThe article Google Deepmind's \"AI co-clinician\" beats GPT-5.4 in blind doctor tests but still trails experienced physicians appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/google-deepminds-ai-co-clinician-beats-gpt-5-4-in-blind-doctor-tests-but-still-trails-experienced-physicians/",
+      "image_url": "http://the-decoder.com/wp-content/uploads/2026/05/deepmind_AI_telemedicine.mp4",
+      "pub_date": "Fri, 01 May 2026 09:21:32 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Deepmind",
+        "Google Deepmind"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T10:21:06.216Z",
+      "created_at": "2026-05-01T10:21:06.216Z"
+    },
+    {
+      "id": 6384,
+      "source": "MIT Technology Review",
+      "title_en": "Trump’s mass firing just dealt another blow to American science",
+      "description_en": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The foundation’s efforts were overseen by a board of 22 prominent scientists. On Friday last week, they were all fired.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
+      "image_url": null,
+      "pub_date": "Fri, 01 May 2026 09:00:00 +0000",
+      "author": "Jessica Hamzelou",
+      "categories": [
+        "Policy",
+        "App",
+        "The Checkup"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T10:21:06.250Z",
+      "created_at": "2026-05-01T10:21:06.250Z"
+    },
+    {
+      "id": 6385,
+      "source": "MIT Technology Review",
+      "title_en": "A new US phone network for Christians aims to block porn and gender-related content",
+      "description_en": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out a filter…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
+      "image_url": null,
+      "pub_date": "Fri, 01 May 2026 09:00:00 +0000",
+      "author": "James O'Donnell",
+      "categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T10:21:06.250Z",
+      "created_at": "2026-05-01T10:21:06.250Z"
+    },
+    {
+      "id": 6386,
+      "source": "New Atlas",
+      "title_en": "Humanoids will handle your baggage at Tokyo's short-staffed airport",
+      "description_en": "The next time you fly through Tokyo's Haneda Airport, your luggage might be taken care of by the dexterous hands of a humanoid robot.\nContinue Reading\nCategory: AI and Humanoids, Technology\nTags: Humanoid, Unitree, Japan, Airports, Robot, Automation",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/ai-humanoids/humanoid-robots-baggage-handlers-tokyo-airport-unitree/",
+      "image_url": null,
+      "pub_date": "Fri, 01 May 2026 09:57:00 GMT",
+      "author": "Abhimanyu Ghoshal",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T10:21:06.903Z",
+      "created_at": "2026-05-01T10:21:06.903Z"
+    },
+    {
+      "id": 6387,
+      "source": "Interesting Engineering",
+      "title_en": "Oxford scientists create rare quantum effect 100 times faster than expected",
+      "description_en": "For the first time in quantum physics, Oxford researchers have demonstrated quadsqueezing, a complex fourth-order...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/new-quantum-interaction-using-single-trapped-ion",
+      "image_url": "https://www.youtube.com/embed/qdv4DSlFOeo",
+      "pub_date": "Fri, 01 May 2026 09:03:23 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T10:21:07.908Z",
+      "created_at": "2026-05-01T10:21:07.908Z"
+    },
+    {
+      "id": 6388,
+      "source": "Interesting Engineering",
+      "title_en": "Video: Mizrak kamikaze drone can fly 620 miles to strike targets with 88-pound warhead",
+      "description_en": "Baykar, a Turkish drone maker, introduced its new long-range loitering munition called Mizrak on April...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/turkey-baykar-kamikaze-drone-mizrak",
+      "image_url": "https://www.youtube.com/embed/FOXeKSiUX_c",
+      "pub_date": "Fri, 01 May 2026 08:56:44 +0000",
+      "author": "Sujita Sinha",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T10:21:07.908Z",
+      "created_at": "2026-05-01T10:21:07.908Z"
+    },
+    {
+      "id": 6389,
+      "source": "Tom's Hardware",
+      "title_en": "Linux exploit instantly grants administrator access on most distributions since 2017 — cryptography optimization snafu grants root privileges to local users",
+      "description_en": "Zero-day exploit instantly grants administrator access on most Linux distributions since 2017",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/linux-exploit-instantly-grants-administrator-access-on-most-distributions-since-2017-cryptography-optimization-snafu-grants-root-privileges-to-local-users",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/iMxEdJKjjPfdmwRbtJFnhh-1280-80.jpg",
+      "pub_date": "Fri, 01 May 2026 10:20:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Cybersecurity",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T10:21:08.072Z",
+      "created_at": "2026-05-01T10:21:08.072Z"
+    },
+    {
+      "id": 6390,
+      "source": "Tom's Hardware",
+      "title_en": "Pentagon budget documents reveal it's pursuing containerized 300kW+ laser weapons, ambitious Joint Laser Weapon System designed to shoot down cruise missiles — system part of $17.9 billion Golden Dome missile-defense initiative",
+      "description_en": "New Pentagon FY2027 budget documents reveal the Joint Laser Weapon System, a containerized 300kW+ laser weapon designed to intercept cruise missiles as part of the US military’s Golden Dome missile-defense initiative.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/pentagon-budget-documents-reveal-its-pursuing-containerized-300kw-laser-weapons-ambitious-joint-laser-weapon-system-designed-to-shoot-down-cruise-missiles-system-part-of-usd17-9-billion-golden-dome-missile-defense-initiative",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Kt3YycFmFuEiXfjCacjMmb-1280-80.jpg",
+      "pub_date": "Fri, 01 May 2026 10:00:00 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-01T10:21:08.072Z",
+      "created_at": "2026-05-01T10:21:08.072Z"
     }
   ]
 }
