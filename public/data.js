@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Canonical under sustained DDoS attack as Ubuntu 26 releases — Iranian group 313 Team claims responsibility\n\nCanonical under sustained DDoS attack as Ubuntu 26 releases",
+    "t": "Canonical במתקפת DDoS המתמשכת בעת שחרור Ubuntu 26 — קבוצה איראנית 313 Team משימה על אחריות\n\nבדיוק כשקנוניקל שחררה את גרסה 26 של אובונטו, הוד הפעם הא אתר החברה לתקיפת DDoS קשה שטענה לה הקבוצה האיראנית 313 Team. זו בעיה לא קטנה עבור שחרור כל כך חשוב - מיליונים סתם התקשו להוריד את הגרסה החדשה בגלל הבעיות ברשת. הסיפור עוד מתפתח וברור שזו סכסוך ספייבר מינימלי שלא סיימנו לשמוע עליו. - Tom's Hardware",
     "d": "Fri, 01 May 2026 19:15:21 +0000",
     "v": 0,
     "l": [
@@ -18,13 +18,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/8izzbmJ92toHHLyjU3ky2G-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 2,
-    "t": "The market isn't grading all Big Tech earnings the same — here's why\n\nAfter a big week of mega-cap tech earnings, investors are starting to differentiate AI tech winners from those still proving themselves.",
+    "t": "השוק לא נותן לכולם את אותה הציון - הנה למה\n\nאחרי שבוע של תוצאות רבע-שנתיות מטורפות בקרב ענקי הטק, משקיעים כבר מתחילים להבדיל בין חברות שהצליחו להוכיח את עצמן בעולם ה-AI לבין אלו שעדיין צריכות להראות לנו שהן ממש מובילות בתחום.",
     "d": "Fri, 01 May 2026 19:11:36 GMT",
     "v": 0,
     "l": [
@@ -47,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Pentagon taps NVIDIA, Google, OpenAI to deploy AI on new top-secret military networks\n\nThe U.S. Department of Defense has expanded its artificial intelligence push, signing new agreements with...",
+    "t": "פנטגון משתף פעולה עם NVIDIA, גוגל ו-OpenAI כדי להטמיע AI בנתיבי צבא סודיים\n\nמשרד ההגנה האמריקאי הרחיב את המאמץ שלו בתחום ה-AI וחתם על הסכמים חדשים עם שלושת הענקים הטכנולוגיים הגדולים. זה חלק מצעד אסטרטגי לשילוב טכנולוגיית AI מתקדמת בתשתיות צבאיות רגישות ובדיוק מעל הראש - וזה כמובן מעסיק הרבה אנשים בעולם הטכנולוגיה.",
     "d": "Fri, 01 May 2026 18:31:13 +0000",
     "v": 0,
     "l": [
@@ -62,7 +62,6 @@ window.TELEGRAM_DATA = [
     ],
     "co": [
       "OpenAI",
-      "Google",
       "Nvidia"
     ],
     "tags": [
@@ -76,7 +75,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Senators ban themselves from prediction markets after candidates bet on own races\n\nSenator decries \"blatant, brazen corruption,\" wants to target Trump admin next.",
+    "t": "סנטורים אוסרים על עצמם להשתתף בשוקי תחזוקות לאחר שמועמדים הימרו על הבחירות שלהם\n\nסנטור הכריז על \"שחיתות בוטה וחצופתית\" ודורש לתקוף גם את הממשל של טראמפ. בעקבות חשיפת מקרים של סנטורים שהימרו כנגד עצמם בשוקי התחזוקות, הם החליטו להטיל איסור על עצמם בפעילות הזו, אבל יש שרוצים להרחיב את ההגבלות גם לממשל הנוכחי.",
     "d": "Fri, 01 May 2026 17:51:24 +0000",
     "v": 0,
     "l": [
@@ -91,8 +90,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/us-capitol-1152x648-1777657457.jpg",
@@ -100,7 +98,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.\n\nElon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the […]",
+    "t": "\"אתה לא יכול לגנוב צדקה? אל דאגה. אילון מאסק יזכיר לך.\"\n\nאילון מאסק בילה שלושה ימים בעדות בבית המשפט נגד OpenAI, ואפילו עד עכשיו זה כבר הופך להיות בלגן של ממש. אימיילים, הודעות טקסט וטוויטים משלו צפים בבית הדין, וזה רק ההתחלה. טענתו של מאסק? OpenAI בעצם בגדה בחזון המקורי של החברה כלא-רווחית כשהפכה אותה למודל רווחי.",
     "d": "Fri, 01 May 2026 17:44:29 +0000",
     "v": 0,
     "l": [
@@ -114,14 +112,11 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Amazon"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "model",
-      "product",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -129,7 +124,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines\n\nMore evidence of Grok CSAM seen as Minnesota passes nudifying app ban.",
+    "t": "מינסוטה חוקקת איסור על תמונות עירום מזויפות של AI; יזמי אפליקציות צפויים לקנסות של 500 אלף דולר\n\nמינסוטה התקדימה בחוקיקה חדשה נגד אפליקציות שיוצרות תמונות עירום מלאכותיות של בני אדם - עם קנסות כבדים של חצי מיליון דולר ליזמים שיפרו את החוק. החוק בא בעקבות הלקחים מהערךGrok של OpenAI, שעליו זצעקו עדויות לשימוש בתוכן פדופילי, ובאופן ספציפי - יישומים שמייצרים תמונות עירום של אנשים ללא הסכמתם.",
     "d": "Fri, 01 May 2026 17:36:29 +0000",
     "v": 0,
     "l": [
@@ -142,10 +137,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
       "news",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1211553945-1152x648.jpg",
@@ -153,7 +150,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Amazon stuck with months of repairs after drone strikes on data centers\n\nAWS stops billing Middle East cloud customers as repairs to war damage drag on.",
+    "t": "אמזון תקועה בעדים של תיקונים אחרי פגיעות drone במרכזי נתונים\n\nAWS הפסיקה חיוב ללקוחות ענן במזרח התיכון בעוד שהתיקונים של הנזקים מהסכסוך נמשכים חודשים. אמזון מצאה את עצמה בבעיה ממשית - אחרי תקיפות של drones במרכזי הנתונים שלה באזור, AWS החליטה להפסיק גבייה מהלקוחות לפחות עד שהם יחזרו לשירות מלא. התוכניות של התיקון נמשכות הרבה יותר מהחזוי.",
     "d": "Fri, 01 May 2026 17:09:59 +0000",
     "v": 0,
     "l": [
@@ -796,7 +793,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 33,
-    "t": "Musk v. Altman is just getting started\n\nElon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the […]",
+    "t": "הקרב בין מאסק לאלטמן זה עוד רק התחלה\n\nאלון מאסק בילה שלושה ימים על דוכן העדים בחודשים האחרונים בתביעה שלו נגד OpenAI, והדברים כבר הופכים למעוררי שנים. מיילים, הודעות טקסט וטוויטים משלו עולים לבית המשפט, וזה רק ההתחלה - עוד הרבה עדים לפנינו. טענת מאסק? שם אלטמן המיר את החברה למודל for-profit, הוא בגד בהבטחה המקורית שהחברה תנוע כ-nonprofit.",
     "d": "Fri, 01 May 2026 14:00:00 +0000",
     "v": 0,
     "l": [
@@ -810,14 +807,11 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Amazon"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "model",
-      "product",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
