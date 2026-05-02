@@ -133100,6 +133100,53 @@
       "priority": "hot",
       "fetchedAt": "2026-05-01T23:33:06.694Z",
       "created_at": "2026-05-01T23:33:06.694Z"
+    },
+    {
+      "id": 6476,
+      "source": "MarkTechPost",
+      "title_en": "A New NVIDIA Research Shows Speculative Decoding in NeMo RL Achieves 1.8× Rollout Generation Speedup at 8B and Projects 2.5× End-to-End Speedup at 235B",
+      "description_en": "A new paper from NVIDIA Research integrates speculative decoding directly into NeMo RL with a vLLM backend, delivering lossless rollout acceleration at both 8B and projected 235B model scales.\nThe post A New NVIDIA Research Shows Speculative Decoding in NeMo RL Achieves 1.8× Rollout Generation Speedup at 8B and Projects 2.5× End-to-End Speedup at 235B appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/01/a-new-nvidia-research-shows-speculative-decoding-in-nemo-rl-achieves-1-8x-rollout-generation-speedup-at-8b-and-projects-2-5x-end-to-end-speedup-at-235b/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-01-at-8.46.43-PM-1.png",
+      "pub_date": "Sat, 02 May 2026 03:47:47 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-02T04:29:32.799Z",
+      "created_at": "2026-05-02T04:29:32.799Z"
+    },
+    {
+      "id": 6477,
+      "source": "New Atlas",
+      "title_en": "Tiny bike camper expands via slide-out to sleep 2 people + toilet",
+      "description_en": "Most bicycle campers just tow, but there are some that flip, that drop, that pitch and that straight blow up. The new Alpencamper adds another motion to that mix: sliding. The two-wheel towable borrows a trick from larger caravans and motorhomes, using a sidewall slide-out to expand its tiny interior enough to house a double bed comparable to what you'd find in a full-blown camper van – not bad for a little 'drop trailer that weighs less than the average adult.\nContinue Reading\nCategory: Camping",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/camping-trailers/alpencamper-lightweight-slide-out-bike-camper/",
+      "image_url": null,
+      "pub_date": "Sat, 02 May 2026 02:07:00 GMT",
+      "author": "C.C. Weiss",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-02T04:29:33.250Z",
+      "created_at": "2026-05-02T04:29:33.250Z"
     }
   ]
 }
