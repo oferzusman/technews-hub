@@ -133127,7 +133127,7 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-02T04:29:32.799Z",
       "created_at": "2026-05-02T04:29:32.799Z"
     },
@@ -133147,6 +133147,40 @@
       "priority": "batch",
       "fetchedAt": "2026-05-02T04:29:33.250Z",
       "created_at": "2026-05-02T04:29:33.250Z"
+    },
+    {
+      "id": 6478,
+      "source": "Interesting Engineering",
+      "title_en": "US Navy’s next 21,000-ton nuclear-powered ballistic missile submarine to be delivered in 2028",
+      "description_en": "The United States Navy’s effort to build its newest class of nuclear-powered ballistic missile submarines...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-navy-nuclear-submarine-delivery",
+      "image_url": null,
+      "pub_date": "Sat, 02 May 2026 06:21:47 +0000",
+      "author": "Prabhat Ranjan Mishra",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-02T06:26:36.200Z",
+      "created_at": "2026-05-02T06:26:36.200Z"
+    },
+    {
+      "id": 6479,
+      "source": "Interesting Engineering",
+      "title_en": "New compact bike camper packs a double bed and toilet in 110lb",
+      "description_en": "The Alpencamper is a compact, towable camper designed to be pulled by a bicycle, and...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/alpencamper-slide-out-lightweight-bike-camper",
+      "image_url": "https://www.youtube.com/embed/TxmIFOU8_ds",
+      "pub_date": "Sat, 02 May 2026 06:04:47 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-02T06:26:36.200Z",
+      "created_at": "2026-05-02T06:26:36.200Z"
     }
   ]
 }
