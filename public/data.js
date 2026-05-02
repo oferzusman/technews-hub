@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "This must-have miniature Macintosh retro dock gives your M4 Mac Mini a 1980s makeover — equipped with a 5-inch HD display and M.2 NVMe SSD slot\n\nThe Wokyis M5 Retro Dock Station will add USB ports, memory card readers, and an external SSD enclosure to your Mac mini while giving you a small '80s Macintosh on your desk.",
+    "t": "דוק רטרו חובה: תחנת עגינה בעיצוב Macintosh שנות ה-80 עם מסך HD וחריץ SSD לMac Mini M4\n\nה-Wokyis M5 הוא דוק רטרו מדהים שהופך את ה-Mac Mini שלך למכונה וינטג' אמיתית, עם מסך 5 אינץ' וצבע בוژ קלאסי מימי הזהב של אפל. התחנה מוסיפה יציאות USB, קורא כרטיסי זכרון וחריץ SSD חיצוני, כל זאת בעיצוב מטורף שיגרום לכל מי שעובר במשרד שלך להזדקק לצילום. זה לא רק אביזר פונקציונלי - זה statement piece שמביא נוסטלגיה טכנולוגית לשולחן העבודה המודרני שלך.",
     "d": "Sat, 02 May 2026 16:57:48 +0000",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Not a supernova, but a binary system hits 100 TeV, stuns particle physics\n\nFor years, scientists have searched for the sources of the most energetic particles in our...",
+    "t": "לא סופרנובה אלא מערכת בינארית פוגעת ב-100 TeV ומדהימה את פיזיקת החלקיקים\n\nבמשך שנים חיפשו מדענים את המקורות של החלקיקים האנרגטיים ביותר ביקום, והפעם הם גילו משהו בדיוק לא צפוי - זוג כוכבים שמייצר אנרגיה בגיגה-סקאלה שלא ראו אותה בעבר. התגלית הזאת משנה את כל הבנתנו על איפה בעצם מגיעה האנרגיה הקוסמית הזו, וזה בדיוק הסוג של החיזוי ההוא שמערער את כל התיאוריות הישנות שלנו.",
     "d": "Sat, 02 May 2026 16:12:03 +0000",
     "v": 0,
     "l": [
@@ -47,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Ukraine’s rapid rise as an anti-drone powerhouse\n\nIn only four years after the Russian invasion, Ukraine went from being a country knocked back on its heels and scrambling for military aid to emerging as a leading provider of battlefield-tested counter-drone expertise and exporter of anti-drone weapons systems. How did this happen? Let's find out.\nContinue Reading\nCategory: Military, Engineering\nTags: Ukraine , drones, NATO, xxShowcase",
+    "t": "אוקראינה הפכה לעצמת כוח בתחום הלחימה בדרונים\n\nבמהלך ארבע שנים בלבד מתחילת הפלישה הרוסית, אוקראינה עברה מטלטלה צבאית למצב של מגדלור עולמי בתחום הנגד-דרונים - והיא כבר מייצאת נשקיות anti-drone שעברו בדיקת אש במלחמה. זה סיפור של היתגברות טכנולוגית מרשים שהפך מדינה בצוקת הצד לשחקן עיקרי בשדה הקרב האווירי החדש. בואו נבדוק איך קרה המשהו הזה.\n\nמקור: New Atlas",
     "d": "Sat, 02 May 2026 16:03:00 GMT",
     "v": 0,
     "l": [
@@ -70,7 +70,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "The best AI dictation apps, tested and ranked\n\nAI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+    "t": "אפליקציות הדיקטציה של AI הטובות ביותר - בדוקות ומדורגות\n\nבדקנו בשביל כם את כל אפליקציות הדיקטציה המופעלות ב-AI, ותוכלו להשתמש בהן לא רק להשבת מיילים וכתיבת פתקים, אלא אפילו לכתיבת קוד דרך הקול. מקור: TechCrunch AI",
     "d": "Sat, 02 May 2026 16:00:00 +0000",
     "v": 0,
     "l": [
