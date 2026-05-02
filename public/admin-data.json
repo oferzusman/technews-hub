@@ -1,9 +1,9 @@
 {
-  "total": 6524,
+  "total": 6528,
   "translated": 6524,
-  "untranslated": 0,
-  "today": 49,
-  "week": 967,
+  "untranslated": 4,
+  "today": 53,
+  "week": 971,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,13 +19,13 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 448,
+      "total": 449,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 442,
+      "total": 443,
       "translated": 442,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -55,13 +55,13 @@
     },
     {
       "name": "New Atlas",
-      "total": 267,
+      "total": 268,
       "translated": 267,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 221,
+      "total": 222,
       "translated": 221,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-02T17:30:08.774Z"
+  "generatedAt": "2026-05-02T18:30:38.446Z"
 }
