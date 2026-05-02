@@ -133625,7 +133625,7 @@
       "author": "Aaron Turpen",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-02T14:29:07.413Z",
       "created_at": "2026-05-02T14:29:07.413Z"
     },
@@ -133642,7 +133642,7 @@
       "author": "Munis Raza",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-02T14:29:09.217Z",
       "created_at": "2026-05-02T14:29:09.217Z"
     },
@@ -133843,7 +133843,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-02T14:29:09.549Z",
       "created_at": "2026-05-02T14:29:09.549Z"
     },
@@ -133863,7 +133863,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-02T14:29:09.549Z",
       "created_at": "2026-05-02T14:29:09.549Z"
     },
@@ -133947,6 +133947,64 @@
       "priority": "batch",
       "fetchedAt": "2026-05-02T14:29:09.549Z",
       "created_at": "2026-05-02T14:29:09.549Z"
+    },
+    {
+      "id": 6520,
+      "source": "CNBC Tech",
+      "title_en": "The S&P 500 and Nasdaq kept their record rallies going. Here are 3 key takeaways",
+      "description_en": "It seemed like what really captivated Wall Street though was corporate earnings.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/02/the-sp-500-and-nasdaq-kept-their-record-rallies-going-here-are-3-key-takeaways-.html",
+      "image_url": null,
+      "pub_date": "Sat, 02 May 2026 15:13:09 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-02T15:24:27.847Z",
+      "created_at": "2026-05-02T15:24:27.847Z"
+    },
+    {
+      "id": 6521,
+      "source": "Tom's Hardware",
+      "title_en": "Sony increases prices for refurbished PS5 slims by $100 — PS5 Fortnite bundle is out of stock, marking the end of new $399 consoles",
+      "description_en": "Sony increased prices for refurbished PlayStation 5 Slim consoles, following its move last month to make brand-new models more expensive.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/playstation/sony-increases-prices-for-refurbished-ps5-slims-by-usd100-ps5-fortnite-bundle-is-out-of-stock-marking-the-end-of-new-usd399-consoles",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ztFNaQKs5aTvVYMqoQdc29-1280-80.png",
+      "pub_date": "Sat, 02 May 2026 14:56:28 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "PlayStation",
+        "Video Games",
+        "Console Gaming"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-02T15:24:28.026Z",
+      "created_at": "2026-05-02T15:24:28.026Z"
+    },
+    {
+      "id": 6522,
+      "source": "Tom's Hardware",
+      "title_en": "45 years later, earliest DOS source code transcribed from a stack of old printouts found in a garage — code was open-sourced to mark 86-DOS 1.00’s anniversary",
+      "description_en": "Microsoft continues to make some of the earliest chapters of its operating system history open-source and freely available. Here's 86-DOS 1.00, released on its 45th anniversary, for example.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/operating-systems/45-years-later-earliest-dos-source-code-transcribed-from-a-stack-of-old-printouts-found-in-a-garage-code-was-open-sourced-to-mark-86-dos-1-00s-anniversary",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/aHC3QPvYaHb7EF6jjpStoi-1280-80.jpg",
+      "pub_date": "Sat, 02 May 2026 14:40:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Operating Systems",
+        "Software"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-02T15:24:28.026Z",
+      "created_at": "2026-05-02T15:24:28.026Z"
     }
   ]
 }
