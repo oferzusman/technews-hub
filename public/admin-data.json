@@ -1,9 +1,9 @@
 {
-  "total": 6495,
+  "total": 6522,
   "translated": 6495,
-  "untranslated": 0,
-  "today": 20,
-  "week": 938,
+  "untranslated": 27,
+  "today": 47,
+  "week": 965,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,25 +19,25 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 436,
+      "total": 448,
       "translated": 436,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 435,
+      "total": 441,
       "translated": 435,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "Ars Technica",
-      "total": 299,
+      "total": 300,
       "translated": 299,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 298,
+      "total": 300,
       "translated": 298,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 266,
+      "total": 267,
       "translated": 266,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -67,15 +67,15 @@
     },
     {
       "name": "The Decoder",
-      "total": 209,
+      "total": 213,
       "translated": 209,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "The Register",
-      "total": 195,
+      "total": 196,
       "translated": 195,
-      "lastDate": "2026-05-02T08:30:09.000Z"
+      "lastDate": "2026-05-02T11:30:07.000Z"
     },
     {
       "name": "The Guardian AI",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-02T13:37:17.008Z"
+  "generatedAt": "2026-05-02T15:31:11.138Z"
 }
