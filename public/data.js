@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Switzerland is building the world's most powerful redox flow battery\n\nIn northern Switzerland, a construction team is hard at work excavating a hole in the ground that will end up being over 88 ft (27 m) deep, and spanning the length of two soccer pitches. This pit will be home to Switzerland's first redox flow battery for storing clean energy – and it'll be the most powerful of its kind in the world.\nContinue Reading\nCategory: Energy, Engineering\nTags: Flow Battery, Battery, Redox Flow Batteries, Grid-Level Energy Storage, Switzerland, Renewable Energy",
+    "t": "שוויץ בונה את סוללת redox flow החזקה בעולם\n\nבחלק הצפוני של שוויץ, צוות בנייה חופר בור ענק בעומק של 27 מטר שיהפוך לסוללת redox flow לאחסון אנרגיה נקייה - והזה יהיה החזק מהסוג הזה בעולם כולו. זו בעצם מהפכה בתחום אחסון האנרגיה ברמה לאומית, שיכולה לשנות את דרך הפעולה של רשתות חשמל בעתיד.",
     "d": "Sat, 02 May 2026 09:03:00 GMT",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "China’s BYD moves exhaust to engine bay to support larger batteries exceeding 100kWh\n\nChinese EV giant BYD is rethinking plug-in hybrid packaging with its new “Heyuan” platform, introducing...",
+    "t": "בי‌וד הסינית מעביר את מערכת הפליטה כדי להכניס סוללות ענקיות של מעל 100 קילוואט-שעה\n\nהענקית הסינית של רכבים חשמליים, BYD, מחלחלת חדשות עם פלטפורמה חדשה בשם \"Heyuan\" שמאפשרת לסוללות לגדול עוד יותר. בחכמה, הם הזיזו את מערכת הפליטה של מנוע ההייבריד לתא המנוע כדי לפנות מקום בתוך הרכב, וזה אומר יותר חלל לסוללות עצומות שעולות על 100 קילוואט-שעה. זו טקטיקה חכמה שמראה איך BYD חושבת שונה בתחום הרכבים ההיברידיים.",
     "d": "Sat, 02 May 2026 08:59:22 +0000",
     "v": 0,
     "l": [
@@ -47,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Scientists find hidden ‘frozen-in’ rules in Einstein’s spacetime that shape cosmic evolution\n\nSpacetime isn’t supposed to be predictable, but scientists may have just found the rules it...",
+    "t": "מדענים גילו כללים 'קפואים' מוסתרים בזמינו של איינשטיין שעיצבו את התפתחות היקום\n\nהתברר שמרחב-הזמן של איינשטיין עלול להיות הרבה יותר צפוי מאשר חשבנו עד כה - מדענים גילו כללים מוסתרים שנראים כמו 'קפואים' במבנה היקום ויכולים להסביר הרבה מהתנהגותו המוזרה. המגילה הזו יכולה לשנות את ההבנה שלנו כיצד היקום התפתח מהמפץ הגדול ובעצם איך כל מה שאנחנו רואים סביבנו הגיע להיות.",
     "d": "Sat, 02 May 2026 08:31:50 +0000",
     "v": 0,
     "l": [
@@ -70,7 +70,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "ChatGPT now tracks users for ads by default as OpenAI looks for new revenue\n\nOpenAI has turned on marketing cookies by default for free ChatGPT users in countries where ads are running. Tracking is automatically active for free accounts but not for paying subscribers. You can disable it in your account settings.\nThe article ChatGPT now tracks users for ads by default as OpenAI looks for new revenue appeared first on The Decoder.",
+    "t": "ChatGPT כעת עוקב אחרי משתמשים למודעות כברירת מחדל - OpenAI מחפשת הכנסות חדשות\n\nOpenAI הפעילה cookies לשיווק עבור משתמשי ChatGPT חינם בתוך מדינות שבהן מופעלות מודעות - וזה קורה באופן אוטומטי כברירת מחדל. המעניין הוא שמנויים משלמים לא נתונים לעקיבה הזו, רק משתמשי החינם, אבל אם אתה לא מרוצה אתה יכול פשוט לכבות את זה בהגדרות החשבון שלך.",
     "d": "Sat, 02 May 2026 08:30:15 +0000",
     "v": 0,
     "l": [
@@ -96,7 +96,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Brace for the patch tsunami: AI is unearthing decades of buried code debt\n\nBritain's cyber agency says the bill for years of technical shortcuts is coming due, and it's arriving all at once Britain's cyber agency is warning that AI-fuelled bug hunting is about to flush out years of buried flaws, leaving defenders scrambling to keep up.…",
+    "t": "צונמי תיקונים בדרך: ה-AI חושף עשרות שנים של חובות קוד מוקברות\n\nסוכנות הסייבר הבריטית משתמעת הרמזים שה-AI הולך להוציא לאור אלפי버גים שנוצרו מקצרים טכניים לאורך שנים, ומה שמחכה לנו זה שיטפון של עבודות תיקון שמגנים על מערכות יעלמו לא יוכלו להתחרות איתו. בעצם, זה כמו לחפור בתוך מחסן מלוכלך שנשכח במשך שנים - והחול של בעיות קוד מסתגרת בחזרה לפני הדברים שחסכנו בו קודם. מקור: The Register",
     "d": "2026-05-02T08:30:09.000Z",
     "v": 0,
     "l": [
@@ -109,13 +109,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -123,7 +119,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Meta acquires Assured Robot Intelligence to accelerate humanoid robot push\n\nMeta has acquired robotics AI startup Assured Robot Intelligence to accelerate its work on humanoid robots. The goal is an open platform for the entire industry, similar to what Android did for smartphones.\nThe article Meta acquires Assured Robot Intelligence to accelerate humanoid robot push appeared first on The Decoder.",
+    "t": "מטא קנתה את Assured Robot Intelligence כדי להאיץ את פיתוח הרובוטים הומנואידים\n\nמטא רכשה את חברת ה-AI לרובוטיקה Assured Robot Intelligence, בצעד שמטרתו להאיץ את עבודתה על רובוטים הומנואידים. החברה שואפת ליצור פלטפורמה פתוחה לכל התעשייה - משהו שיעשה לרובוטים מה שאנדרואיד עשה לסמארטפונים. זה עוד צעד משמעותי של מטא בתחום הרובוטיקה והאוטומציה.",
     "d": "Sat, 02 May 2026 08:02:06 +0000",
     "v": 0,
     "l": [
@@ -136,21 +132,18 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
       "news",
-      "model",
       "robotics"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 7,
-    "t": "A Coding Implementation to Parsing, Analyzing, Visualizing, and Fine-Tuning Agent Reasoning Traces Using the lambda/hermes-agent-reasoning-traces Dataset\n\nIn this tutorial, we explore the lambda/hermes-agent-reasoning-traces dataset to understand how agent-based models think, use tools, and generate responses across multi-turn conversations. We start by loading and inspecting the dataset, examining its structure, categories, and conversational format to get a clear idea of the available information. We then build simple parsers to extract key components […]\nThe post A Coding Implementation to Parsing, Analyzing, Visualizing, and Fine-Tuning Agent ",
+    "t": "מדריך מעשי: ניתוח וביצוע Fine-Tuning של Reasoning Traces של AI Agents באמצעות Dataset של Hermes\n\nמדריך חדש מסביר איך לחשוף את ה'חשיבה' של מודלי AI - כיצד הם משתמשים בכלים, מקבלים החלטות ומשיבים בשיחות ממשיכות. התוכן כולל parsing חכם של Dataset של Hermes, ויזואליזציה של תהליכי ה-reasoning, ואפילו fine-tuning של מודלים משלכם על סמך הנתונים האלה. זה בעצם הדרך לפתוח את הקופסה השחורה של agents חדישים!",
     "d": "Sat, 02 May 2026 07:47:46 +0000",
     "v": 0,
     "l": [
@@ -174,7 +167,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects\n\nWith Grok 4.3, xAI is leaning into low prices and better tool use. The model shows gains on practical tasks, but it still trails the top models from OpenAI and Anthropic. The release also brings a new agent-based image generator.\nThe article xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects appeared first on The Decoder.",
+    "t": "xAI משגרת את Grok 4.3 עם הנחות משמעותיות וויוא חדש של Imagine agent למיזם יצירתי\n\nxAI מטיחה כאן מהלך חכם - Grok 4.3 בא עם מחירים שנופלו דרמטית וביכולות שיפור בעבודה עם כלים שונים, אבל בכנות, זה עדיין לא מתרוצץ בקצב של מודלים מ-OpenAI ו-Anthropic. בנוסף, החברה משיקה Imagine - agent חדש שמייצר תמונות בעצמו, וזה כבר יותר מעניין לאנשים שעוסקים בפרויקטים יצירתיים.",
     "d": "Sat, 02 May 2026 07:35:24 +0000",
     "v": 0,
     "l": [
@@ -2905,7 +2898,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 121,
-    "t": "Ara\n\nDiscussion\n            |\n            Link",
+    "t": "Ara\n\nנראה שמדובר בפרודוקט חדש שהופיע ב-Product Hunt, אבל הפרטים קצת מעורפלים. אם אתם מחפשים עוד מידע על Ara, כדאי להכנס ישירות לעמוד המוצר כדי להבין מה בדיוק זה ומה הקסם שלו.",
     "d": "2026-05-01T01:30:46.000Z",
     "v": 0,
     "l": [
@@ -4766,7 +4759,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 199,
-    "t": "Cloud Computer by Manus\n\nDiscussion\n            |\n            Link",
+    "t": "מחשב ענן מ-Manus\n\nManus הציגה פתרון חדש של cloud computing שמאפשר לכם לגשת למחשב שלם מכל מקום. זה בעצם משנה את המשחק עבור מי שצריך כוח חישוב כבד בלי להשקיע בחומware יקר - פשוט מתחברים מהדפדפן והכל זורם שם. הטכנולוגיה הזאת יכולה להיות גם בחנם או בעלות מינימלית, תלוי בתכנית שתבחרו. מקור: Product Hunt",
     "d": "2026-04-30T15:50:18.000Z",
     "v": 0,
     "l": [
@@ -6754,7 +6747,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 283,
-    "t": "Feather\n\nDiscussion\n            |\n            Link",
+    "t": "Feather\n\nנראה שמדובר בפרויקט חדש שעלה ל-Product Hunt, אבל הפרטים קצת מעורפלים. מה שכן ברור לנו זה שיש דיון פתוח מסביב למוצר הזה, אז אם אתם סקרנים - כדאי להסתכל בדיון כדי לתפוס את ההקשר המלא של מה שקורה כאן.",
     "d": "2026-04-30T00:13:24.000Z",
     "v": 0,
     "l": [
@@ -9964,7 +9957,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 415,
-    "t": "Breaks\n\nDiscussion\n            |\n            Link",
+    "t": "Breaks\n\nלמרות שהכותרת קצרה וספMystery, נראה שמדובר בדיון או בקישור חדש שפורסם ב-Product Hunt. בלי מידע נוסף על התוכן, קשה לומר בדיוק על מה זה, אבל זה כנראה משהו שקהילת ה-Tech בישראל תרצה לעקוב אחריו. אם אתם רוצים לדעת יותר, כדאי להזיז לעמוד עצמו ולקרוא את הדיון המלא.",
     "d": "2026-04-29T10:16:20.000Z",
     "v": 0,
     "l": [
@@ -18605,7 +18598,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 776,
-    "t": "Filect\n\nDiscussion\n            |\n            Link",
+    "t": "Filect\n\nנראה שזה פרודקט חדש שהופיע ב-Product Hunt, אבל פרטים מדויקים על מה בדיוק Filect עושה לא ברורים מתיאור זה. אם אתם מחפשים להבין יותר על הכלי הזה, כדאי להיכנס ישירות ל-Product Hunt ולקרוא את הדיון של הקהילה שם.",
     "d": "2026-04-26T21:57:34.000Z",
     "v": 0,
     "l": [
@@ -33941,7 +33934,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1422,
-    "t": "Microsoft Copilot Health\n\nDiscussion\n            |\n            Link",
+    "t": "Microsoft Copilot Health\n\nמייקروסופט משיקה את Copilot Health, כלי חדש שמשלב AI ויכולות בריאות דיגיטליות לעזרת תושבים בניהול בריאותם. הפיצ'ר החדש מקל על הגישה לאינפורמציה רפואית וסיוע בנושאים בריאותיים דרך הממשק המוכר של Copilot. זה עוד צעד של ענקית הטק להרחיב את השימוש ב-AI שלה לתחומים קריטיים כמו בריאות.",
     "d": "2026-04-22T10:34:44.000Z",
     "v": 0,
     "l": [
@@ -33990,7 +33983,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1424,
-    "t": "DESIGN.md by Google Stitch\n\nDiscussion\n            |\n            Link",
+    "t": "DESIGN.md מגוגל Stitch\n\nגוגל השיקה את DESIGN.md, כלי חדש שמעזר למפתחים לתעד ולשתף את העיצוב של הפרויקטים שלהם בצורה מסודרת וקלה. זה בעצם סטנדרט חדש לתיעוד ארכיטקטורה וquality של קוד שיכול לחסוך הרבה כאבי ראש בעבודה בצוותים גדולים. המכשיר עשוי להפוך לחלק חיוני בזרימת העבודה של מפתחים בתוך גוגל ובעולם.",
     "d": "2026-04-22T10:29:26.000Z",
     "v": 0,
     "l": [
@@ -34003,12 +33996,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -35423,7 +35413,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1484,
-    "t": "Scholé\n\nDiscussion\n            |\n            Link",
+    "t": "סקולה - Scholé\n\nנראה שמדובר בפלטפורמה או כלי חדש שהוצג ב-Product Hunt, אבל הפרטים המלאים לא ברורים מהתיאור המינימליסטי. אם אתם מתעניינים בפרויקט זה, כדאי לכנס לדיון הממש ב-Product Hunt כדי לקבל מידע מלא מהיוצרים ומהקהילה.",
     "d": "2026-04-21T22:30:17.000Z",
     "v": 0,
     "l": [
