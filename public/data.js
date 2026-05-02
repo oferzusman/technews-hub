@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "US Space Force closes decades-long GPS modernization chapter, pivots to next generation\n\nLaunched atop a SpaceX Falcon 9 last month, the tenth and final GPS III satellite,...",
+    "t": "כוחות הספייס של ארה״ב סוגרים פרק של עשרות שנים בכיל״ני GPS, עוברים לדור הבא\n\nאחרי שנים של עבודה, ארה״ב השיקה את הלוויין GPS III האחרון על גב SpaceX Falcon 9, וסוגרת בכך עידן שלם של מודרניזציה של מערכת הניווט הגלובלית. כעת הצבא האמריקני מתחיל להסתכל קדימה לדור הבא של GPS, שעתיד להיות עוד יותר מהיר ודיוק יותר. זה קטע ממש חשוב בעולם הטכנולוגיה הצבאית והתקשורת, שזה משהו שמשפיע על כולנו פה בישראל גם כן.",
     "d": "Sat, 02 May 2026 15:53:07 +0000",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "The S&P 500 and Nasdaq kept their record rallies going. Here are 3 key takeaways\n\nIt seemed like what really captivated Wall Street though was corporate earnings.",
+    "t": "ה-S&P 500 וה-Nasdaq ממשיכים בעלייתם השיאית - 3 דברים חשובים שצריך לדעת\n\nיוצא שמה שממש תפס את תשומת הלב של וול סטריט בשבועות האחרונים זה הרווחים של החברות הגדולות. מידע כלכלי חיוני שמשפיע ישירות על כל משקיע טכנולוגיה בישראל שעוקב אחרי מגמות בשוק ההון הגלובלי.",
     "d": "Sat, 02 May 2026 15:13:09 GMT",
     "v": 0,
     "l": [
@@ -47,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Sony increases prices for refurbished PS5 slims by $100 — PS5 Fortnite bundle is out of stock, marking the end of new $399 consoles\n\nSony increased prices for refurbished PlayStation 5 Slim consoles, following its move last month to make brand-new models more expensive.",
+    "t": "סוני מעלה מחירים ל-PS5 Slim משופצות ב-100 דולר — ההצעה של 399 דולר נעלמת מהשוק\n\nסוני הגביהה את המחירים של קונסולות PS5 Slim משופצות, בהמשך לצעד שנעשה החודש שעבר להעלות את המחירים של הדגמים החדשים. זה בעצם אומר שאין יותר דרך זולה להשיג את הקונסולה — אפילו הדגמים המשופצים עולים עכשיו יותר מאשר התמחור המקורי שלהם.",
     "d": "Sat, 02 May 2026 14:56:28 +0000",
     "v": 0,
     "l": [
@@ -70,7 +70,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "45 years later, earliest DOS source code transcribed from a stack of old printouts found in a garage — code was open-sourced to mark 86-DOS 1.00’s anniversary\n\nMicrosoft continues to make some of the earliest chapters of its operating system history open-source and freely available. Here's 86-DOS 1.00, released on its 45th anniversary, for example.",
+    "t": "45 שנה אחרי: קוד ה-DOS הקדום ביותר עוד סוף-סוף תומלל מהדפסות שנמצאו בחניה — Microsoft פתחה את הקוד בחינם לציון יום הולדתו\n\nMicrosoft ממשיכה לחשוף לציבור את העמודים הראשונים של ההיסטוריה של מערכת ההפעלה שלה, והפעם זה 86-DOS 1.00 שחוגג את יום הולדתו ה-45 עם קוד פתוח. מה שמעניין במיוחד? המשימה כללה תמלול פיזי של קוד מדפסות ישנות שהייתה מטמונה בחניה כל הזמן הזה, וזה די מטריף להיות ישיר.",
     "d": "Sat, 02 May 2026 14:40:00 +0000",
     "v": 0,
     "l": [
@@ -96,7 +96,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Research roundup: 6 cool science stories we almost missed\n\nCrushing soda cans for science, why dolphins swim so fast, how urine helps mushrooms communicate, and more",
+    "t": "סיכום מחקר: 6 סיפורים מדעיים מגניבים שכמעט החמצנו\n\nמחקרים מתוקים שעלולנו להחמיץ - מעיסוק בפחיות סודה לטובת המדע, דרך תעלומת המהירות של דולפינים, ועד לתגלית משעשעת על אופן התקשורת בין פטריות בעזרת שתן. סיפורים מדעיים אקסצנטריים שיוכיחו לכם שחקר מדעי זה הרבה יותר משעמום מאשר אתם חשבתם.",
     "d": "Sat, 02 May 2026 14:23:31 +0000",
     "v": 0,
     "l": [
@@ -119,7 +119,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Retailer selling broken RTX 5090 GPUs for as low as $1,760 — GPUs were damaged during transport, but include all components on the PCB\n\nA French retailer is willing to sell you defective RTX 5090s for half of what they cost new, on the condition that you'll be able to repair or recycle them. You can either get a random 5090 variant, depending on stock, for around $1,760 or pay almost $2,000 specifically for an MSI Ventus 3X OC model. The units come with transport-related damage.",
+    "t": "חנות בצרפת מוכרת RTX 5090 שבורות ב-1,760 דולר בלבד — כרטיסים נפגעו בהובלה אך כוללים את כל הרכיבים\n\nיש לך הזדמנות זהב לתפוס RTX 5090 פגומה במחיר של כמעט חצי ממחיר הקנייה החדש, בתנאי שתדע לתקן או למחזר אותה. חנות צרפתית מציעה כרטיסים אקראיים בסביבות 1,760 דולר או דגם MSI Ventus 3X OC ספציפי בכ-2,000 דולר - כל היחידות סובלות מנזקי הובלה אך עם כל הקומפוננטים על ה-PCB שלמים. זה מציע לייצרני DIY ולעוסקים בתיקון חומרה סיכוי מכניס לקבל כרטיס דור חדש בחצי המחיר.\n\n(מקור: Tom's Hardware)",
     "d": "Sat, 02 May 2026 14:20:36 +0000",
     "v": 0,
     "l": [
@@ -132,12 +132,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Nvidia"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "hardware"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/M7GjigjZBV5QdNRUyiNce5-1280-80.jpg",
@@ -145,7 +142,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "FCC votes to ban all Chinese labs from certifying electronics sold in the US due to national security concerns — ruling would affect 75 percent of US-bound devices\n\nThe FCC estimates that roughly 75% of all U.S.-bound electronics are currently tested in Chinese facilities.",
+    "t": "ה-FCC הצביע להחרים מעבדות סיניות שמאשרות אלקטרוניקה בארה״ב - החלטה תשפיע על 75% מהמכשירים\n\nבצעד משמעותי למען הביטחון הלאומי, ה-FCC החליט להרחיק מעבדות בדיקה סיניות מתהליך ההסמכה של אלקטרוניקה המיועדת לשוק האמריקני. המהלך הוא די דרמטי כי כרגע כ-75% מכל המכשירים שנשלחים לארה״ב עוברים בדיקה בסינים, מה שיוביל לשיבושים משמעותיים בשרשרת האספקה הגלובלית ובעלויות.\n\nמקור: Tom's Hardware",
     "d": "Sat, 02 May 2026 14:20:00 +0000",
     "v": 0,
     "l": [
@@ -160,9 +157,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/ScWkdXEcbCzcmrjizukTn7-1280-80.jpg",
@@ -170,7 +165,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "US Navy signs deal with AI firm for training underwater drones to detect mines in Strait of Hormuz — $100 million would allow drone minesweepers to update their detection algorithms in days instead of months\n\nThe U.S. Navy just signed a $99.7 million deal with Domino Data Lab to build software to monitor other AI mine detection systems, identify failures, and push corrections in the field.",
+    "t": "הצי האמריקני חתם על הסכם עם חברת AI לאימון רחפנים תת-ימיים לגילוי מכות בתעלת הורמוז — 100 מיליון דולר יאפשרו לרחפני טיהור מכות לעדכן את אלגוריתמי הגילוי שלהם בימים במקום בחודשים\n\nהצי האמריקני חתם על חוזה בשווי 99.7 מיליון דולר עם Domino Data Lab לפיתוח software שיסקור מערכות גילוי מכות AI אחרות, יזהה כשלים ויצמצם תיקונים בשטח בזמן אמת. הטכנולוגיה תאפשר לרחפנים הצבאיים לעדכן את ה-algorithms שלהם תוך ימים ספורים במקום החודשים הדרושים כיום, מה שיחזק משמעותית את יכולת הגנת הגדול הימי האמריקני.",
     "d": "Sat, 02 May 2026 14:01:04 +0000",
     "v": 0,
     "l": [
@@ -193,7 +188,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Enthusiast creates Peltier thermoelectric cooler from scratch — impressive rig uses two 360mm AIOs, homemade DC controllers, and a custom loop\n\nA YouTuber made his own Peltier liquid cooling system to see if GPUs benefit from thermoelectric cooling. Sadly, the cooler was barely capable of cooling an RTX 3070 below ambient temperatures despite consuming over 300 watts of power.",
+    "t": "חובב טכנולוגיה בנה מערכת קירור Peltier בעצמו — rig מרשים עם שתי AIO בגודל 360 מ״מ ובקרים DC ביתיים\n\nיוטיובר בנה מערכת קירור נוזלית עם טכנולוגיית Peltier כדי לבדוק אם GPU-ים מנצלים קירור תרמו-אלקטרי. למרות שהמערכת צרכה יותר מ-300 וואט, היא כמעט לא הצליחה להוריד את הטמפרטורה של RTX 3070 מתחת לטמפרטורת הסביבה. Tom's Hardware",
     "d": "Sat, 02 May 2026 14:00:00 +0000",
     "v": 0,
     "l": [
@@ -219,7 +214,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Even the latest AI models make three systematic reasoning errors, ARC-AGI-3 analysis shows\n\nThe ARC Prize Foundation analyzed 160 game runs of OpenAI's GPT-5.5 and Anthropic's Opus 4.7 on the ARC-AGI-3 benchmark. Three systematic error patterns explain why both models stay below 1 percent on tasks that humans can solve without much trouble.\nThe article Even the latest AI models make three systematic reasoning errors, ARC-AGI-3 analysis shows appeared first on The Decoder.",
+    "t": "אפילו המודלים של AI החדישים ביותר עושים שלוש טעויות חשיבה שיטתיות - ניתוח ARC-AGI-3 חושף\n\nמסתבר שגם GPT-5.5 של OpenAI וגם Opus 4.7 של Anthropic עדיין לא מסוגלים להתמודד עם משימות שבני אדם פותרים בלי בעיה. ARC Prize Foundation ניתחה 160 ריצות של המודלים החדשים על בנצ'מארק ARC-AGI-3 וגילתה שלוש דפוסי טעות שיטתיים שמסבירים למה שתי המערכות נשארות מתחת לאחוז אחד בתוצאות - חולק גדול מהציפיות שלנו. המחקר מצביע על כך שעדיין יש הרבה עבודה לעשות עד שנוכל לדבר על AGI אמיתי. מקור: The Decoder",
     "d": "Sat, 02 May 2026 13:31:52 +0000",
     "v": 0,
     "l": [
@@ -246,7 +241,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "Celebrate Star Wars Day 2026 with these upgrades to your gaming PC setup — May the 4th bring you peace and prosperity with brand-new peripherals, games, collectibles, and more\n\nGet your fill of Star Wars-themed tech that can turn your setup from Padawan to Jedi Master this May the Fourth.",
+    "t": "חגגו יום Star Wars 2026 עם שדרוגים למחשב הגיימינג שלכם — ב-4 במאי תזכו לשלום וברכה עם פריפריאליים חדשים, משחקים וקולקטיביים\n\nאם אתם Star Wars nerds וגם גיימרים, יש לכם סיבה טובה לעדכן את ההכל. מ-עכברים וקלידים בסגנון גלקסיה רחוקה ועד משחקים חדשים וקולקטיביים בעלי ערך, אפשר להפוך את ההגדרה שלכם מ-Padawan למשהו שנראה כמו Jedi Master. Tom's Hardware בחר לכם כמה מהאפשרויות הכי טובות לאקדמיית היום הזה.",
     "d": "Sat, 02 May 2026 13:17:56 +0000",
     "v": 0,
     "l": [
@@ -269,7 +264,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Review: 2026 Lexus RX 450h+ is a true realtor’s car\n\nThe RX 450h+ plug-in hybrid luxury SUV sits right at the intersection of pragmatism and indulgence, sipping electrons like a monk but wrapped in enough leather to make a cattle ranch nervous.\nContinue Reading\nCategory: Automotive, Transport\nTags: Lexus, SUV, Reviews",
+    "t": "ביקורת: לקסוס RX 450h+ 2026 - המכונית המושלמת לסוכני נדלן\n\nה-RX 450h+ היא רכב היברידי פלאג-אין יוקרתי שמצליח להיות גם מעשי וגם מפנק - היא שותה חשמל כמו נזיר אבל עטופה בעור בתוך שלא לדבר. אם אתם מחפשים SUV שמשלב כוח, יעילות ונוח מרבי, זה כנראה מה שאתם מחפשים.",
     "d": "Sat, 02 May 2026 13:03:00 GMT",
     "v": 0,
     "l": [
@@ -292,7 +287,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "Gigabyte Z890 Aorus Elite Duo X Motherboard Review: CQDIMM support with Arrow Lake Refresh\n\nGigabyte’s Z890 Aorus Elite Duo X lands square in the mid-range sweet spot, offering ample connectivity, five M.2 sockets, native Arrow Lake Refresh support, and CQDIMM compatibility, all for a compelling sub-$280 price.",
+    "t": "ביקורת על לוחת האם Gigabyte Z890 Aorus Elite Duo X: תמיכה CQDIMM עם Arrow Lake Refresh\n\nלוחת האם החדשה של Gigabyte Z890 Aorus Elite Duo X מגיעה עם מחיר שמתחת ל-280 דולר ומציעה חבילה מרשימה: תמיכה מלאה ב-Arrow Lake Refresh, CQDIMM, חמישה שקעי M.2, וחיבוריות עשירות שמשמעות שאתה לא צריך לקנות כמה כרטיסים adapters מיותרים. זו בחירה חכמה למי שרוצה אמת אמצע הדרך עם ערך נכון.",
     "d": "Sat, 02 May 2026 13:00:00 +0000",
     "v": 0,
     "l": [
@@ -315,7 +310,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "First-of-its-kind NASA lithium MPD thruster hits 120 kW in ground test\n\nNASA has successfully ignited a prototype magnetoplasmadynamic thruster powered by lithium metal vapor, reaching 120...",
+    "t": "מנוע ליתיום חדשני של נאסא הגיע ל-120 קילוואט בתנאים תעשייתיים\n\nנאסא הצליחה לנסות בהצלחה מנוע חדש לחלוטין מסוג MPD שעובד עם אדי ליתיום מתכתי, והגיע לעוצמה מרשימה של 120 קילוואט בבדיקות קרקעיות. התפתחות זו עשויה לשנות את עתידות החלל, כי מנועים אלה יכולים לאיץ חלליות לטווחים ארוכים הרבה יותר יעילות מהמנועים הקיימים היום. זו קפיצה משמעותית בטכנולוגיית ההנעה של חקר החלל שעלולה להפוך משימות לחלל העמוק למעשיות בעשור הקרוב.\nמקור: Interesting Engineering",
     "d": "Sat, 02 May 2026 12:57:09 +0000",
     "v": 0,
     "l": [
@@ -328,12 +323,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -341,7 +333,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "World first: Particle polarization survived laser-plasma acceleration for nuclear fusion\n\nResearchers from Heinrich Heine University Düsseldorf and Forschungszentrum Jülich have confirmed “for the first time...",
+    "t": "פריצה בעולם: קיטוב חלקיקים שרד האצה בלייזר-פלזמה לפיוזיה גרעינית\n\nחוקרים מאוניברסיטת היינריך היינה בדיסלדורף ומכון הצוקצמה במנהיים הצליחו להוכיח לראשונה שקיטוב החלקיקים נותר יציב גם לאחר תהליך ההאצה המאתגר של לייזר-פלזמה. התגלית הזו יכולה להיות חלק משמעותי בחתיכת הפאזל של טכנולוגיית הפיוזיה גרעינית, שכן היא מראה שאפשר לשמור על תכונות קוונטיות חשובות גם בתנאים קיצוניים של האצה. זה צעד מעניין בכיוון של הנדלקת כוכבים על כדור הארץ.",
     "d": "Sat, 02 May 2026 12:24:29 +0000",
     "v": 0,
     "l": [
@@ -364,7 +356,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "xAI's new Custom Voices feature turns a minute of speech into a usable voice clone\n\nxAI now lets developers clone their own voices for AI applications. The new \"Custom Voices\" feature builds on the recently launched Grok Speech-to-Text and Text-to-Speech APIs.\nThe article xAI's new Custom Voices feature turns a minute of speech into a usable voice clone appeared first on The Decoder.",
+    "t": "xAI משיקה Custom Voices - שיבוט קול מדקה של הקלטה\n\nחברת xAI פתחה לפני מעט את הדלת לעולם של קלונים קוליים - עכשיו מפתחים יכולים ליצור קול משלהם באמצעות Custom Voices feature שעובדת על בסיס כמו דקה אחת של הקלטה. התכונה החדשה הזו בנויה על ה-API החדש של Grok Speech-to-Text ו-Text-to-Speech שהשיקו לא מזמן, וזה בעצם משנה את המשחק למי שעובד עם AI applications.",
     "d": "Sat, 02 May 2026 12:14:46 +0000",
     "v": 0,
     "l": [
@@ -387,7 +379,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "US Air Force moves closers to procure unmanned fighter jets, seeks $1B funding\n\nThe United States Air Force is preparing to move its Collaborative Combat Aircraft (CCA) initiative...",
+    "t": "חיל האוויר האמריקני קרוב יותר לרכישת מטוסי קרב ללא טיס, מחפש מימון של מיליארד דולר\n\nחיל האוויר האמריקני מתקדם במהירות בעם יוזמת ה-Collaborative Combat Aircraft (CCA) שלו - פרויקט שמטרתו להכניס מטוסי קרב אוטונומיים לשדה הקרב. הצבא מבקש מימון של כ-מיליארד דולר כדי להמשיך בפיתוח הטכנולוגיה המהפכנית הזו שעשויה לשנות לחלוטין את חיל האוויר בעשור הקרוב. זה לא מה שדיברנו עליו רק בדוקומנטריים - זה קורה באמת, עכשיו.\n\nמקור: Interesting Engineering",
     "d": "Sat, 02 May 2026 12:00:23 +0000",
     "v": 0,
     "l": [
@@ -402,8 +394,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -411,7 +402,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "Musk testimony dominated first week Musk v. Altman. 'You can't just steal a charity'\n\nElon Musk, the world's richest person, took the stand and testified over the course of three days in his trial against OpenAI CEO Sam Altman.",
+    "t": "עדות מאסק שלטה בשבוע הראשון של משפט מאסק נגד אלתמן. 'אתה לא יכול פשוט לגנוב ארגון慈善'\n\nאלון מאסק, האדם העשיר בעולם, עמד בעדות במשך שלושה ימים במשפט שלו נגד מנכ\"ל OpenAI סם אלתמן. במהלך השבוע הראשון של ההליכים המשפטיים, עדותו של מאסק הייתה בחזית וגמריט, כשהוא התמודד עם שאלות ישירות על האשמות בגניבת תוכן וסחיטה. המשפט המתגלגל הזה מעלה שאלות משמעותיות על ממשלנות ופתירת עסקים בעולם ה-AI.",
     "d": "Sat, 02 May 2026 12:00:01 GMT",
     "v": 0,
     "l": [
@@ -437,7 +428,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "Dinosaurs first emerged 10 million years earlier than previously thought, study suggests\n\nA new study by Princeton and Yale Universities has revised the timeline of dinosaur origins,...",
+    "t": "דינוזאורים הופיעו 10 מיליון שנים קודם לכן מما שחשבנו עד היום\n\nמחקר חדש משתי אוניברסיטאות מובילות בארה\"ב - פרינסטון ויייל - הפך את כל מה שידענו על היעדויות של דינוזאורים. אם זה נכון, פירוש הדבר שהחיות האלה שלטו בכדור הארץ הרבה יותר זמן מאשר חשבנו עד כה, וזה עלול לשנות את הבנתנו של כל התכנית האבולוציונית.",
     "d": "Sat, 02 May 2026 11:50:52 +0000",
     "v": 0,
     "l": [
@@ -454,13 +445,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://www.youtube.com/embed/q-hr-Qc4Dz0",
     "source": "Interesting Engineering"
   },
   {
     "id": 20,
-    "t": "Infrasound waves stop kitchen fires, but can they replace sprinklers?\n\nAcoustic fire suppression goes commercial.",
+    "t": "גלי אינפראסאונד עוצרים שריפות במטבח - אבל האם הם יכולים להחליף ספרינקלרים?\n\nטכנולוגיה דיי פנטסטית שמשתמשת בגלים אקוסטיים כדי לכבות שריפות - והיא בדרך לשוק המסחרי. מה שמתחיל בלabs של מחקר עכשיו יכול להגיע למטבחים של מסעדות ובתים, והשאלה הגדולה היא אם הטכנולוגיה החדשה הזו באמת עוד צריכה את ספרינקלרים המסורתיים. מקור: Ars Technica",
     "d": "Sat, 02 May 2026 11:30:26 +0000",
     "v": 0,
     "l": [
@@ -483,7 +474,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "Usage-based pricing killing your vibe - here's how to roll your own local AI coding agents\n\nTake those token limits and shove them by vibe coding with a local LLM With model devs pushing more aggressive rate limits, raising prices, or even abandoning subscriptions for usage-based pricing, that vibe-coded hobby project is about to get a whole lot more expensive. Fortunately, you're not without cost-saving options.…",
+    "t": "תמחור מבוסס שימוש הורג את הרוח? הנה איך לבנות לעצמכם AI coding agents מקומי\n\nהמודלים של OpenAI ו-Anthropic הופכים יקרים יותר בכל יום? אתם יכולים פשוט להריץ LLM בעצמכם בלי להשתלם על כל token שמעובד. במאמר הזה נגיד לכם איך להימנע מתוקי השימוש המטורפים של הענקים ולתחזוק את פרויקטי ה-AI coding שלכם בחינם בעצמכם.",
     "d": "2026-05-02T11:30:07.000Z",
     "v": 0,
     "l": [
@@ -496,10 +487,13 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI",
+      "Anthropic"
+    ],
     "tags": [
       "news",
-      "regulation",
+      "model",
       "agents"
     ],
     "imp": "low",
@@ -508,7 +502,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "Supercharging the RTX 5090 in PhysX games using an RTX 5060 as a  secondary GPU — SLI may be dead, but how much can dual GPUs boost performance in classic PhysX titles?\n\nWe're testing the impact of using a dedicated secondary RTX 5060 GPU to boost the performance of an RTX 5090 in a few classic Batman Arkham titles that support 32-bit PhysX.",
+    "t": "ד״ר PhysX עונים לחיים: RTX 5090 עם RTX 5060 משני כמגבש ביצועים במשחקי הקלאסיקה\n\nטום'ס הווקור בדק אם אפשר להשתמש ב-RTX 5060 כ-GPU משני כדי לתחוס את ה-RTX 5090 במשחקי Batman Arkham הישנים שתומכים ב-PhysX. למרות שה-SLI קיבל את האתנות שלו, זה כנראה עדיין מעניין לראות אם שני כרטיסים ביחד יכולים לתת לנו boost אמיתי בתוכנות שעדיין יודעות לעבוד עם המערכת הזאת.",
     "d": "Sat, 02 May 2026 11:00:00 +0000",
     "v": 0,
     "l": [
@@ -534,7 +528,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "Apple warns Mac mini and Mac Studio shortages could last for months — local AI boom and memory crunch drive demand beyond Apple’s manufacturing capacity\n\nApple CEO Tim Cook warns Mac mini and Mac Studio shortages could continue for months as developers rush to buy high-memory Apple Silicon systems for running local AI models and agentic AI workloads.",
+    "t": "אפל מזהירה: המחסור במק מיני ומק סטודיו עלול להימשך חודשים — בום ה-AI המקומי וזעזוע בזיכרון דוחפים ביקוש מעבר ליכולות הייצור\n\nטים קוק מזהיר שהמחסור בMac mini ו-Mac Studio עלול להתמשך חודשים כשמפתחים משתוללים כדי לקנות מערכות Apple Silicon עם זיכרון גבוה להרצת מודלי AI מקומיים. הביקוש לחומרה חזקה לעבודה עם AI ו-agentic systems עלה בתלילות כל כך שאפל פשוט לא מספיקה לייצר מספיק יחידות כדי לענות לכולם.",
     "d": "Sat, 02 May 2026 10:40:00 +0000",
     "v": 0,
     "l": [
@@ -561,7 +555,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 24,
-    "t": "Russian forces rehearse Arctic sea denial with 186-mile mobile Bastion missile strike\n\nRussian forces have rehearsed their “Bastion” Arctic sea-denial strike from a remote Arctic outpost, Franz...",
+    "t": "כוחות רוסיים מתרגלים תקפי דחיית ים בארקטיקה עם טילי Bastion במרחק 186 קילומטר\n\nהצבא הרוסי קיים תרגיל התקפה בעזרת מערכת הטילים Bastion מתוך מתקן צבאי מבודד בארקטיקה, במסגרת הדגמת יכולתו לשלוט בים בחלקים הקיצוניים של העולם. התרגיל הראה את הטווח הארוך של הטילים - יותר מ-180 קילומטר - והשליטה הרוסית בהיבטים טכטיים ביצורים מרוחקים במצבי קור קיצוני. זה חלק מאסטרטגיית הביטחון הארטיקטית של רוסיה שמנסה לעשות כן לחזקה בעולם בזמן שהתחרויות גיאופוליטיות בחלק זה של הגלובוס מתגברות.",
     "d": "Sat, 02 May 2026 10:39:55 +0000",
     "v": 0,
     "l": [
@@ -584,7 +578,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "Nvidia CEO Jensen Huang calls out tech leaders' \"god complex\" over reckless AI job loss predictions\n\nAI scaremongering costs jobs instead of protecting them, says Nvidia CEO Jensen Huang. Talking young people out of future careers, he argues, does real harm to society.\nThe article Nvidia CEO Jensen Huang calls out tech leaders' \"god complex\" over reckless AI job loss predictions appeared first on The Decoder.",
+    "t": "מנכ\"ל Nvidia ג'נסן הואנג מתקיף את \"קומפלקס האלוהות\" של מנהיגי טק על חיזויי אובדן מקומות עבודה בלי שום בסיס\n\nהואנג טוען שהפחדים מ-AI בגלל אובדן מקומות עבודה עושים נזק אמיתי למשק - הם מרתיעים צעירים מלבחור קריירה בטכנולוגיה. לדברי מנכ\"ל Nvidia, מנהיגי תעשייה שמפיצים ניבויים קטסטרופליים סתם מחממים תאוריות בלי בסיס מדעי, וזה בעצם הורג יותר מקומות עבודה מאשר מציל אותם. במילים אחרות: מי שהוא גדול במשק ודוחף פניקה זה לא מצטער אחר כך.",
     "d": "Sat, 02 May 2026 10:32:09 +0000",
     "v": 0,
     "l": [
@@ -610,7 +604,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 26,
-    "t": "Tech teardown specialist delids a Xeon with a blowtorch and hunting knife — wood chopping block makes a worthy stage for the sacrifice\n\nThe Hackinator delids an Intel Xeon Silver 4110 processor and prepares it for a die shot using unconventional techniques.",
+    "t": "מומחה פירוק טכנולוגיה מפיל Xeon עם משאבת חום וסכין ציד — גוש עץ למכרסום משמש זירה מושלמת לקרבן\n\nThe Hackinator עשה עבודה פרוצה על Xeon Silver 4110 של אינטל, והשתמש בכלים שנראים כמו מתוך סרט אקשן כדי להחלצת את הביצ'ים הפנימיים של המעבד. הבחור פשלי לא נחמד - משאבת חום, סכין ציד וגוש עץ למכרסום - כי כמובן שזה הדרך היחידה לעשות properly die shot של processor שכזה. Tom's Hardware",
     "d": "Sat, 02 May 2026 10:20:00 +0000",
     "v": 0,
     "l": [
@@ -634,7 +628,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 27,
-    "t": "Redditor gambles $20 on a 4TB Temu external HDD — receives a microSD card reader hot-glued inside a plastic box\n\nA Reddit user tried their luck with a $20 4TB external HDD, and, to no surprise, they received a microSD card strapped inside a card reader and hot-glued to the back of the plastic case of an \"external hard drive.\"",
+    "t": "משתמש רדיט הימר 20 דולר על כונן חיצוני 4TB מטמו - קיבל קורא כרטיסי זיכרון דבוק בחם בתוך קופסה פלסטית\n\nמשתמש ברדיט החליט להתנסות בהצעה של כונן קשיח חיצוני 4TB ב-20 דולר מטמו, וכמו שהיה אפשר לצפות - קיבל כרטיס זיכרון microSD דבוק בקורא כרטיסים ודבוק בחם על גב הקופסה הפלסטית של ה'כונן'. זה בדיוק אחד מהמקרים המפורסמים של סחורות מזויפות שמגיעות מאתרי קניות בזול בסיוע מפתיע מהחבל...",
     "d": "Sat, 02 May 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -657,7 +651,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 28,
-    "t": "US fast-tracks stealth nuclear cruise missile to enhance bomber stand-off strike range\n\nThe Pentagon has announced its intentions to accelerate the development of America’s latest nuclear-armed air-launched...",
+    "t": "ארה\"ב מאיצה פיתוח טיל סיור גרעיני התבה לשיפור טווח הפגיעה של מפציצים\n\nהפנטגון החליט להאיץ את פיתוח הדור החדש של טילים גרעיניים המשוגרים מאוויר, במטרה להגביר את יכולת התקיפה של מטוסי ההפצצה האמריקנים מטווחים גדולים יותר. הצעד הזה הוא חלק מאסטרטגיה גיאופוליטית רחבה יותר, במיוחד בהתאם לעלייה של איומים גיאופוליטיים מגדלות כמו סין ורוסיה. זהו משום שטילים כאלו מאפשרים למטוסים צבאיים להישאר במרחק בטוח מהגנות אוויר אויב, תוך שמירה על כוח משמעותי של הרסה.",
     "d": "Sat, 02 May 2026 09:50:18 +0000",
     "v": 0,
     "l": [
@@ -680,7 +674,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 29,
-    "t": "Elon Musk calls himself a fool for giving OpenAI $38 million that became an $800 billion company\n\nElon Musk called himself a \"fool\" in court, warned of a \"Terminator\" future, and admitted that xAI taps OpenAI's models for its own AI training. Week one of Musk's trial against Sam Altman delivered plenty of drama; and the best may still be ahead.\nThe article Elon Musk calls himself a fool for giving OpenAI $38 million that became an $800 billion company appeared first on The Decoder.",
+    "t": "אילון מאסק קורא לעצמו 'טיפש' על תרומת 38 מיליון דולר לOpenAI שהפכה לחברה של 800 מיליארד דולר\n\nבשבוע הראשון של המשפט של מאסק נגד סאם אלטמן התעלו דברים משפטיים כמו בסרט דרמה - מאסק הודה שהוא 'טיפש' שנתן כסף לOpenAI כשהיא הייתה סטארטאפ, והזהיר מ'עתיד Terminator'. בנוסף, הוא גם הודה שחברת xAI שלו משתמשת בדגמים של OpenAI לאימון של המערכות שלה. זה רק השבוע הראשון - אז קסום מה עוד יצא לאור בבית המשפט.",
     "d": "Sat, 02 May 2026 09:27:21 +0000",
     "v": 0,
     "l": [
@@ -698,10 +692,9 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
