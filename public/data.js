@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "A Coding Implementation of End-to-End Brain Decoding from MEG Signals Using NeuralSet and Deep Learning for Predicting Linguistic Features\n\nIn this tutorial, we explore how we can decode linguistic features directly from brain signals using a modern neuroAI pipeline. We work with MEG data and build an end-to-end system that transforms raw neural activity into meaningful predictions, in this case, estimating word length from brain responses. We set up the environment, load and process […]\nThe post A Coding Implementation of End-to-End Brain Decoding from MEG Signals Using NeuralSet and Deep Learning for Predicting Linguistic Features",
+    "t": "פענוח אותות מוח ישירות לתכונות שפה: מימוש עם MEG וDeep Learning\n\nחוקרים הציגו צינור חדש ומרשים שמסוגל לקרוא תכונות שפוניות ישירות מסיגנלים חשמליים בתוך המוח שלנו. המערכת משתמשת בנתוני MEG ו-Deep Learning כדי להבין מה המוח חושב בעת עיבוד מילים, ואפילו יכולה לחזות את אורך המילה שאתה חושב עליה. זה לא רק תרגול אקדמי - זו טכנולוגיה שיכולה לפתוח דלתות למערכות תקשורת חדשות עבור אנשים עם שיתוק או בעיות בדיבור.",
     "d": "Fri, 01 May 2026 23:09:48 +0000",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell\n\nAt TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit also bound to sell?",
+    "t": "עמג'אד מסעד מ-Replit: על עסקת Cursor, הלחימה בחברת אפל, ולמה הוא מעדיף לא למכור\n\nמנכ\"ל Replit נשאל השאלה שהכולם שואלים בימים אלה: אם Cursor הקטיבה עצמה בשיחות ממכר בשווי 60 מיליארד דולר ל-SpaceX, האם גם Replit צפויה למכור את עצמה? מסעד חזר וטען שהוא לא מתעניין בעסקה בשלב זה, ודיבר על התוכניות של החברה להילחם ב-Apple וחברות גדולות אחרות על הזכות לשלוט בשדה AI וקידוד.",
     "d": "Fri, 01 May 2026 23:06:50 +0000",
     "v": 0,
     "l": [
@@ -42,16 +42,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "product",
-      "funding"
+      "product"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 3,
-    "t": "US Army selects THOR autonomous VTOL drone soldiers can carry for frontline warfare\n\nThe U.S. Army has selected a new small unmanned aircraft system to push aerial capability...",
+    "t": "צבא ארה\"ב בחר בドrone THOR אוטונומי שחיילים יכולים לשאת לשדה הקרב\n\nצבא ארה\"ב התאהב בזחל מעופף חדש וקטן שמכניס את היכולות האוויריות לידיים של החיילים בשדה. המערכת THOR היא בעצם drone אוטונומי שקל מספיק כדי שכל חייל יוכל לשאת אותו, ותוכן להמראה והנחיתה בכל מקום - בלי צורך בנתיבי טיסה מסודרים. זו לא סתם עוד רחפן, אלא כלי ייצור תמונות ותקשורת חיונית לעימות מודרני.",
     "d": "Fri, 01 May 2026 22:37:37 +0000",
     "v": 0,
     "l": [
@@ -66,8 +65,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -75,7 +73,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Jim Cramer says the market powered through a tough earnings week but 'that doesn't mean we're out of the woods yet'\n\nCNBC's Jim Cramer looks to the jam-packed earnings week ahead and explains what he's looking for.",
+    "t": "ג'ים קריימר: השוק עמד בחזקתו בשבוע הרווחים הקשה אבל 'זה עדיין לא אומר שיצאנו מהצרה'\n\nקריימר מסתכל קדימה לשבוע הרווחים הגדול שלפנינו ומסביר לנו בדיוק מה זה הדבר שמעניין אותו במספרים האלה. בעיקרון, השוק כן הצליח להתמודד עם הכללים הקשים של השבוע הזה, אבל סימן שאלה גדול עדיין מרחף מעל כל ההסדרים.",
     "d": "Fri, 01 May 2026 22:33:26 GMT",
     "v": 0,
     "l": [
@@ -98,7 +96,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation\n\nMeta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation\nThe post Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation appeared first on MarkTechPost.",
+    "t": "מטא משגרת את Autodata: פריימוורק חדש שהופך מודלי AI למדעני נתונים אוטונומיים\n\nמטא בחרה לחשוף את Autodata, פריימוורק אגנטי מגניב שמאפשר למודלי AI לעבוד כמדעני נתונים עצמאיים ליצירת נתוני treining באיכות גבוהה. זהו בעצם פתרון חכם שמקטין את הצורך בעבודה ידנית וממש מייעל את התהליך של יצירת מסדי נתונים איכותיים לאימון מודלים. ההדגמה הזאת מתחת לחור הרביעי של מטא, שנראה שממשיכה להשקיע בדרכים חכמות להפוך את ה-AI לעוד יותר חזק וכללי.",
     "d": "Fri, 01 May 2026 22:24:02 +0000",
     "v": 0,
     "l": [
@@ -111,14 +109,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "robotics",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-01-at-3.22.52-PM-1.png",
@@ -126,7 +119,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Study: AI models that consider user's feeling are more likely to make errors\n\nOvertuning can cause models to \"prioritize user satisfaction over truthfulness.”",
+    "t": "מחקר: מודלי AI שחושבים על רגשות המשתמש נוטים לטעות יותר\n\nמסתבר שכשאנחנו מנסים להכניס לאלגוריתם קצת \"חמימות\" והתחשבות בתחושות של המשתמש, זה יכול להיות מחיר קשה - יש סכנה שה-AI יתחיל להעדיף להוציא תשובות שיהיו מעניינות וריחות טובות על פני זה שהן בדיוק נכון. עוד אחת למי שחושב שמכונות צריכות רק להיות חכמות ולא \"כיפיות\".",
     "d": "Fri, 01 May 2026 22:23:36 +0000",
     "v": 0,
     "l": [
@@ -143,13 +136,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1338190481-1152x648.jpg",
     "source": "Ars Technica"
   },
   {
     "id": 7,
-    "t": "Meta buys robotics startup to bolster its humanoid AI ambitions\n\nMeta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+    "t": "מטא קנתה סטארטאפ רובוטיקה כדי להחזק את שאפיותיה ב-AI הומנואידי\n\nמטא הטלטלה את שוק הרובוטיקה באמצע השבוע עם רכישת Assured Robot Intelligence, סטארטאפ שמתמחה בבניית רובוטים הומנואידים חכמים. הרכישה הזו היא חלק מהמשחק הגדול של מטא לשלוט בשדה ה-AI יומיים, והפעם בחזית הרובוטיקה המתקדמת. עם הטכנולוגיה של החברה החדשה, מטא תוכל לפתח מודלי AI חזקים יותר שיתנו לרובוטים להבין ולבצע משימות מורכבות כמו בני אדם.",
     "d": "Fri, 01 May 2026 22:13:27 +0000",
     "v": 0,
     "l": [
@@ -162,12 +155,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
       "news",
-      "model",
       "robotics"
     ],
     "imp": "low",
@@ -176,7 +166,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models\n\nIn the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned that AI could destroy us all and sat through…",
+    "t": "שבוע ראשון במשפט מאסק נגד אלטמן: אילון מאסק טוען שהוטעה, מזהיר שAI יכול להרוג את כולנו, ומודה ש-xAI שלו מחקה את המודלים של OpenAI\n\nבשבוע הראשון של משפט היסטורי בין אילון מאסק ל-OpenAI, מאסק עלה לעדות במחליפה שחורה ותפס ודעד שסם אלטמן וגרג ברוקמן הטעו אותו כדי שימממן את החברה. בדרך, הוא הזהיר שAI עלול לגרום להשמדה גלובלית, וגם הודה שה-xAI שלו מבוסס על טכנולוגיה שלקח מ-OpenAI. זה סיפור מלא דרמה שמערבב בין חדלות משפט ותגובות הפחד הקיומיות סביב AI.",
     "d": "Fri, 01 May 2026 22:08:19 +0000",
     "v": 0,
     "l": [
@@ -194,8 +184,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": null,
@@ -203,7 +192,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS\n\nOp-ed: Valve has made a dent in Windows' gaming share, but can it keep going?",
+    "t": "משבר ה-RAM נתן למיקרוסופט זמן יקר בקרב נגד SteamOS\n\nValve כן הצליחה לפגוע בשליטה של Windows בשוק המשחקים, אבל השאלה הגדולה היא האם הם יכולים להמשיך את הממנט הזה? מיקרוסופט קיבלה קצת הנשמה בגלל בעיות חומware אחרות שהסיחו את הדעת, אבל לא ברור אם זה מספיק כדי לעצור את המרד של לינוקס בעולם הגיימינג.",
     "d": "Fri, 01 May 2026 22:00:59 +0000",
     "v": 0,
     "l": [
@@ -216,12 +205,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/press_oled_orb-1-1152x648.jpeg",
@@ -229,7 +215,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Just call these tiny autonomous construction robots “antdroids”\n\nRoboticists at Harvard and the Indian Institute of Technology Madras – very smart folks indeed – somehow entirely missed the great name “antdroids” when building the insectoid drones they call RAnts (robotic ants, which do not, in fact, rant about anything – not even against a tyrannical robotic ant queen).\nContinue Reading\nCategory: Robotics, Engineering\nTags: Harvard, Biomimicry, Ants, Robotic construction",
+    "t": "הכירו את ה-Antdroids: רובוטים בנייה קטנטנים עם השראה מנמלים\n\nחוקרים מהרווארד ומהמכון ההודי IIT Madras פיתחו רובוטים קטנים בצורת נמלים שנקראים RAnts שיכולים לעבוד בצוותים כדי לבצע משימות בנייה מורכבות. הקטע המצחיק הוא שהם כמעט גרמו לעצמם להשתמש בשם הבוחר \"Antdroids\" (שילוב של Ant ו-Droids) אבל בחרו בשם המשעמם יותר RAnts – אם כי להודותיו, הנמלים הרובוטיים האלה באמת לא משתוללים נגד שום מלכה רובוטית. זה יוצר פתרון חדש למשימות בנייה שדורשות קואורדינציה ודיוק.",
     "d": "Fri, 01 May 2026 22:00:00 GMT",
     "v": 0,
     "l": [
@@ -244,8 +230,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -253,7 +238,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "Fruit flies survive 13G hypergravity, show resilience in rapid-spin centrifuge\n\nHumans can tolerate only brief bursts of extreme gravitational force. Fighter pilots train to endure...",
+    "t": "זבובי פירות שרדו כוח כבידה של 13G - חוקרים מופתעים מעמידות מדהימה\n\nמסתבר שזבובי הפירות הקטנטנים שלנו הם גמלאי כוח בכל מקום - חוקרים הכניסו אותם לצנטריפוגה במסתובבת דולקת וגילו שהם שרדו לחץ כבידה של 13G, משהו שאנחנו בני אדם יכולים לעמוד בו רק למשך שניות ספורות. התגלית הזו עשויה לעזור לנו להבין כיצד אורגניזמים קטנים יכולים להסתגל לתנאים קיצוניים, מידע שיכול להיות חשוב למשימות חלל עתידיות.",
     "d": "Fri, 01 May 2026 21:26:42 +0000",
     "v": 0,
     "l": [
@@ -276,7 +261,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Man dies covered in necrotic lesions after amoebas eat him alive\n\nDoctors suspect three factors, each unremarkable on its own, contributed to his fate.",
+    "t": "גבר מת מנשיכות של אמבה חזיית - סיפור חקירה רפואית מחריד\n\nמקרה רפואי שנראה כמו סיפור מחזור הדם, אבל בעצם שילוב של שלוש בעיות 'רגילות' שהפכו לקטלניות. הרופאים גילו שכל גורם לבדו לא היה נראה מסוכן במיוחד, אבל ביחד הם יצרו סערה מושלמת לטובת האמבה הרעה.",
     "d": "Fri, 01 May 2026 21:05:37 +0000",
     "v": 0,
     "l": [
@@ -299,7 +284,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "A Coding Guide on LLM Post Training with TRL from Supervised Fine Tuning to DPO and GRPO Reasoning\n\nIn this tutorial, we walk through a complete, hands-on journey of post-training large language models using the powerful TRL (Transformer Reinforcement Learning) library ecosystem. We start from a lightweight base model and progressively apply four key techniques: Supervised Fine-Tuning (SFT), Reward Modeling (RM), Direct Preference Optimization (DPO), and Group Relative Policy Optimization (GRPO). Also, we […]\nThe post A Coding Guide on LLM Post Training with TRL from Supervised Fine Tuning to ",
+    "t": "מדריך קוד להכשרה אחרי-אימון של LLM עם TRL: מ-SFT ועד DPO ו-GRPO\n\nמדריך מעשי שלם שמלווה אתכם בתהליך הכשרת מודלים שפה ענקיים באמצעות ספריית TRL החזקה, החל מודל קטן ועד הטכניקות המתקדמות ביותר. התרשימה מכסה ארבע שיטות מרכזיות - Supervised Fine-Tuning, Reward Modeling, DPO ו-GRPO - בשביל לחנך LLM שבאמת יודע מה הוא עושה וייתן תשובות ממש באיכות גבוהה. אם אתם מתכננים להשיק את ה-AI שלכם עם החוכמה של Reasoning, הזה הדבר שחייבים לקרוא.",
     "d": "Fri, 01 May 2026 20:52:08 +0000",
     "v": 0,
     "l": [
@@ -314,8 +299,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -323,7 +307,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Solar-boosted pedal-electric velomobile is new and improved\n\nFourteen years ago we first heard about the Elf, a pedal/electric velomobile that could be charged via a rooftop solar panel. Well, there's a new version on the way that'll be cushier, more powerful, and able to seat a second passenger.\nContinue Reading\nCategory: Urban Transport, Transport\nTags: Velomobile, Pedal-assisted, Solar Powered",
+    "t": "וולומוביל עם סוללה סולארית חדש ומשופר\n\nאחרי 14 שנה, ה-Elf חוזר בגרסה משודרגת - הרכב הפדלים החשמלי עם הפאנל סולארי על הגג הזה הוא עכשיו יותר קומפי, חזק יותר ויכול להסיע שניים. כל זה עם רכיבה ירוקה וחשמלית שלא מזיזה את הכיס שלך.",
     "d": "Fri, 01 May 2026 19:58:23 GMT",
     "v": 0,
     "l": [
@@ -338,8 +322,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -370,7 +353,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "Ubuntu infrastructure has been down for more than a day\n\nThe outage has hampered communication concerning a critical vulnerability that gives root.",
+    "t": "תשתית Ubuntu קרסה ליותר מיום שלם\n\nהשירותים של אובונטו נפלו לארך יום וחצי, וזה בדיוק בזמן שהם ניסו להודיע למשתמשים על חולשת אבטחה קריטית שמאפשרת הרמת הרשאות root. בקיצור - תעשייה גדולה, בעיות גדולות.",
     "d": "Fri, 01 May 2026 19:12:26 +0000",
     "v": 0,
     "l": [
@@ -385,8 +368,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/error-503-1000x648.jpg",
