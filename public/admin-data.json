@@ -1,9 +1,9 @@
 {
-  "total": 6475,
+  "total": 6477,
   "translated": 6475,
-  "untranslated": 0,
-  "today": 0,
-  "week": 918,
+  "untranslated": 2,
+  "today": 2,
+  "week": 920,
   "sources": [
     {
       "name": "Product Hunt",
@@ -55,7 +55,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 264,
+      "total": 265,
       "translated": 264,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -91,7 +91,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 123,
+      "total": 124,
       "translated": 123,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-02T03:50:19.224Z"
+  "generatedAt": "2026-05-02T06:04:42.900Z"
 }
