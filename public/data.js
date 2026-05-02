@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "US Navy’s next 21,000-ton nuclear-powered ballistic missile submarine to be delivered in 2028\n\nThe United States Navy’s effort to build its newest class of nuclear-powered ballistic missile submarines...",
+    "t": "הצי האמריקאי יקבל צוללת בליסטית חדשה בנת 21,000 טון ב-2028\n\nהצי האמריקאי מקדם את הפרויקט להשלמת דור חדש של צוללות גרעיניות מתקדמות שיעסוקו בנשיאת טילים בליסטיים. הצוללת החדשה, שתשקל 21,000 טון, צפויה להיות מסורה לשירות בשנת 2028 וסימנה צעד משמעותי בחיזוק הכוח הימי של ארה״ב. זו בנייה ענקית שמתייצבת כחלק מתוכנית הצבאית האסטרטגית של ארה״ב לעשור הקרוב.",
     "d": "Sat, 02 May 2026 06:21:47 +0000",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "New compact bike camper packs a double bed and toilet in 110lb\n\nThe Alpencamper is a compact, towable camper designed to be pulled by a bicycle, and...",
+    "t": "קמפר קומפקטי חדש: מיטה זוגית ושירותים בפחות מ-110 קילוגרם\n\nהאלפנקמפר הוא קמפר זעיר וקל שנועד להיסחב על ידי אופניים, וכולל בתוכו כל מה שצריך לשינה נוחה ואפילו שירותים - וזה כל הדבר שוקל קצת יותר מ-50 קילוגרם בלבד! אם אתם חלמתם על טיולי אופניים עם קצת יותר מנוחה וללא צריך להסתמך על אתרי קמפינג, זה אולי החוק שחיכיתם לו.",
     "d": "Sat, 02 May 2026 06:04:47 +0000",
     "v": 0,
     "l": [
@@ -47,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "A New NVIDIA Research Shows Speculative Decoding in NeMo RL Achieves 1.8× Rollout Generation Speedup at 8B and Projects 2.5× End-to-End Speedup at 235B\n\nA new paper from NVIDIA Research integrates speculative decoding directly into NeMo RL with a vLLM backend, delivering lossless rollout acceleration at both 8B and projected 235B model scales.\nThe post A New NVIDIA Research Shows Speculative Decoding in NeMo RL Achieves 1.8× Rollout Generation Speedup at 8B and Projects 2.5× End-to-End Speedup at 235B appeared first on MarkTechPost.",
+    "t": "מחקר חדש מ-NVIDIA מראה שSpeculative Decoding ב-NeMo RL משיג האצה של 1.8x בדור Rollout ב-8B ותחזוקה של 2.5x בקצה לקצה ב-235B\n\nNVIDIA Research שיתפה מחקר חדש המשלב speculative decoding ישירות ל-NeMo RL עם backend של vLLM, והתוצאה? האצה ממש רצינית בדור Rollout - 1.8x במודל 8B וצפי של 2.5x בקצה לקצה עם המודל הענק של 235B, וזה בלי הפסד בביצועים. זה ממש מעניין לפיתוח מודלים שמדברים וחושבים בצורה חכמה.",
     "d": "Sat, 02 May 2026 03:47:47 +0000",
     "v": 0,
     "l": [
@@ -73,7 +73,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Tiny bike camper expands via slide-out to sleep 2 people + toilet\n\nMost bicycle campers just tow, but there are some that flip, that drop, that pitch and that straight blow up. The new Alpencamper adds another motion to that mix: sliding. The two-wheel towable borrows a trick from larger caravans and motorhomes, using a sidewall slide-out to expand its tiny interior enough to house a double bed comparable to what you'd find in a full-blown camper van – not bad for a little 'drop trailer that weighs less than the average adult.\nContinue Reading\nCategory: Camping",
+    "t": "קמפר אופניים זעום שנפתח דרך דלת הזזה - למיטה זוגית ושירותים\n\nקמפר האופניים החדש Alpencamper מביא עדכון מעניין לעולם הקמפינג המינימליסטי - הוא משתמש בטריק של דלת הזזה (slide-out) שנלקח ישר מקרוואנים גדולים כדי להרחיב את הפנים הצר שלו. המשקל שלו קל כמו מבוגר בודד, אבל כשהוא נפתח אתה מקבל מיטה זוגית ממש כמו בקמפר ואן אמיתי, בתוספת גם שירותים. זה כמו קסם הנדסי שמוכיח שלא צריך הרבה כדי להנות מחופשת קמפינג אמתית.\n\nמקור: New Atlas",
     "d": "Sat, 02 May 2026 02:07:00 GMT",
     "v": 0,
     "l": [
@@ -90,7 +90,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "New Atlas"
   },
