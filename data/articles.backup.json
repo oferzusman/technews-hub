@@ -133522,7 +133522,7 @@
         "Opus 4.7"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-02T14:29:06.941Z",
       "created_at": "2026-05-02T14:29:06.941Z"
     },
@@ -133803,7 +133803,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-02T14:29:09.549Z",
       "created_at": "2026-05-02T14:29:09.549Z"
     },
@@ -133824,7 +133824,7 @@
         "Cooling"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-02T14:29:09.549Z",
       "created_at": "2026-05-02T14:29:09.549Z"
     },
@@ -134005,6 +134005,43 @@
       "priority": "hot",
       "fetchedAt": "2026-05-02T15:24:28.026Z",
       "created_at": "2026-05-02T15:24:28.026Z"
+    },
+    {
+      "id": 6523,
+      "source": "Ars Technica",
+      "title_en": "Research roundup: 6 cool science stories we almost missed",
+      "description_en": "Crushing soda cans for science, why dolphins swim so fast, how urine helps mushrooms communicate, and more",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/science/2026/05/research-roundup-6-cool-science-stories-we-almost-missed-4/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/dolphin1-1152x648.jpg",
+      "pub_date": "Sat, 02 May 2026 14:23:31 +0000",
+      "author": "\n                    Jennifer Ouellette\n                ",
+      "categories": [
+        "Science",
+        "research roundup"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-02T16:08:54.070Z",
+      "created_at": "2026-05-02T16:08:54.070Z"
+    },
+    {
+      "id": 6524,
+      "source": "Interesting Engineering",
+      "title_en": "US Space Force closes decades-long GPS modernization chapter, pivots to next generation",
+      "description_en": "Launched atop a SpaceX Falcon 9 last month, the tenth and final GPS III satellite,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/space/us-space-force-gps-modernization-chapter",
+      "image_url": null,
+      "pub_date": "Sat, 02 May 2026 15:53:07 +0000",
+      "author": "Bojan Stojkovski",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-02T16:08:59.283Z",
+      "created_at": "2026-05-02T16:08:59.283Z"
     }
   ]
 }
