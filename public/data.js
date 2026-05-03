@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "224-sq-ft tiny house sleeps up to six people for under $50K\n\nCombining a low price with a modest footprint of just 224 sq ft (20.81 sq m), the Rasa tiny house comes with a carefully considered interior that sleeps four in comfort – or even up to six at a squeeze.\nContinue Reading\nCategory: Tiny Houses, Outdoors\nTags: Building and Construction, Tiny Footprint, Micro-House, House, Home",
+    "t": "בית זעיר של 224 מטר רבוע ישן עד שישה אנשים תמורת פחות מ-50 אלף דולר\n\nבית Rasa החדש מוכיח שאפשר לחיות בקומפקטיות ללא הקרבה על איכות החיים - עם רק 224 מטר רבוע, הוא מצליח להכיל מיטות לארבעה אנשים בנוחות מלאה, או אפילו שישה אם אתם בחברה הטובה. במחיר של מתחת ל-50 אלף דולר, זה הופך לאופציה ממשית למי שחוקר את עולם הדיור הקטן והחסכוני.",
     "d": "Sun, 03 May 2026 16:03:00 GMT",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "AI facial recognition oversight lagging far behind technology, watchdogs warn\n\nExclusive: Biometrics commissioners say face-scanning not as effective as claimed and new laws needed to regulate use\n\nHow does live facial recognition work and how many police forces use it? \n\nGuilty until proven innocent: shoppers falsely identified by facial recognition\n\nBritain’s biometrics watchdogs have warned that national oversight of AI-powered face scanning to catch criminals is lagging far behind the technology’s rapid growth.\nWith the Metropolitan police almost doubling the number of",
+    "t": "משטרת פנים: פיקוח על טכנולוגיות זיהוי פנים בAI נאחר הרבה מעדכונים הטכנולוגיה\n\nשומרי הגבול הבריטיים מצביעים על בעיה שלא מעט קריטית: משטרות משתמשות בזיהוי פנים בAI כדי לתפוס פושעים, אבל כל זה קורה ללא פיקוח ממשי וללא חוקים מתאימים שיווסתו את השימוש בטכנולוגיה המשפיעה. המשטרה המטרופוליטנית בלונדון כמעט הכפילה את השימוש בה, אבל מתברר שהדיוק של הטכנולוגיה לא כמו שחושבים - ויש כל מיני אנשים בעלי חשד שווא בגלל זה. עוד דבר: הפיקוח הממשלתי פשוט לא עושה קצב עם קצב ההתפתחות של הטכנולוגיה.",
     "d": "Sun, 03 May 2026 16:00:02 GMT",
     "v": 0,
     "l": [
@@ -37,13 +37,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/1c1b06bc7a14c84ec55ad4bed812f6d4df67ff2e/1_0_2499_2000/master/2499.jpg?width=140&quality=85&auto=format&fit=max&s=345c197901b0d40585077683b7726996",
@@ -51,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "How does live facial recognition work and how many UK police forces use it?\n\nTechnology has been deployed since 2020 in London, leading to concerns over data privacy and racial bias\n\nAI facial recognition oversight lagging far behind technology, watchdogs warn\n\nGuilty until proven innocent: shoppers falsely identified by facial recognition\n\nThe Labour government thinks facial recognition technology is “the biggest breakthrough for catching criminals since DNA matching”. It wants all police forces to use it and recently announced 40 new vans rigged with live facial recogn",
+    "t": "איך עובדת הכרת פנים בזמן אמת וכמה כוחות משטרה בבריטניה משתמשים בה?\n\nטכנולוגיית ה-facial recognition החיה נמצאת בשימוש בלונדון מאז 2020, אבל היא גורמת לחששות ממשיים סביב פרטיות נתונים והטיות גזעיות. הממשלה הלייבורית חושבת שזה \"הפריצה הכי גדולה לתפיסת פושעים מאז DNA matching\", אבל מפקחי הממשל מזהירים שהפיקוח על הטכנולוגיה עדיין מפגר בהרבה מאחור. בינתיים יש כאן סיפורים מטורפים של קניות שהוזהו בטעות על ידי המערכת הזו.",
     "d": "Sun, 03 May 2026 16:00:00 GMT",
     "v": 0,
     "l": [
@@ -68,13 +64,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/01066da73eeea045f2f1be8a05e736470fbfa21f/1_0_2499_2000/master/2499.jpg?width=140&quality=85&auto=format&fit=max&s=afe41fc824d4b9fdca23f1b2f718730e",
     "source": "The Guardian AI"
   },
   {
     "id": 4,
-    "t": "Here are the 3 big things we're watching in the stock market in the week ahead\n\nA trio of Club holdings report earnings. Plus, there is Corning's investor day and a fresh batch of jobs data.",
+    "t": "3 דברים גדולים שעלינו לעקוב אחריהם בשוק המניות בשבוע הקרוב\n\nשלוש חברות מ-Club יגידו לנו על הרווחים שלהן, Corning תקיים יום משקיעים חדש, וגם נקבל נתונים טריים על שוק העבודה. סבבות מלא של דברים שישפיעו על השוק בימים הקרובים.",
     "d": "Sun, 03 May 2026 15:48:16 GMT",
     "v": 0,
     "l": [
@@ -91,13 +87,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 5,
-    "t": "TechTuber builds a PC big enough to live in — humans in this RGB-lit fish tank case look just like figurines\n\nA Chinese TechTuber scaled a tower PC large enough for a human to work and play in. It has air conditioning, too.",
+    "t": "יוטיובר טק בנה מחשב גדול מספיק כדי לגור בתוכו — האדם בתוך המקרה עם התאורה RGB נראה כמו פיגורינה\n\nיוטיובר סיני בנה PC ענק שאפילו אדם יכול לעבוד ולשחק בתוכו, וכולל אפילו מערכת קירור (AC)! המחשב הענקי הזה עם התאורה RGB כל כך מרשים שהאדם בתוכו נראה בדיוק כמו פיגורה קטנה, וזה בהחלט משהו שצריך לראות כדי להאמין.",
     "d": "Sun, 03 May 2026 15:24:10 +0000",
     "v": 0,
     "l": [
@@ -120,7 +116,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Nvidia accelerates end-of-life for some Jetson AI processors due to memory shortages — RAMpocalypse sends older DDR4-based modules to the great scrapheap in the sky\n\nNvidia is apparently discontinuing some older embedded platforms earlier than anticipated, but this is mostly about market reality finally catching up, not abrupt discontinuation.",
+    "t": "Nvidia מפסיקה במהירות את הייצור של מעבדי Jetson AI ישנים עקב מחסור בזיכרון — ה-RAMpocalypse שולח מודולי DDR4 לעולם הדעכת חומרה\n\nNvidia מחליטה להפסיק מוקדם יותר את הייצור של כמה מהפלטפורמות ה-Embedded הישנות שלה, אבל זה בעיקר שוק שמתחיל להתייצב מול המציאות - לא קורסה פתאומית. מודולי הזיכרון ה-DDR4 הישנים שלהם פשוט כבר לא רלוונטיים בתחזוקה, וזה מסבר את הרחוק מהעמדה הזו.",
     "d": "Sun, 03 May 2026 14:53:08 +0000",
     "v": 0,
     "l": [
@@ -146,7 +142,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "US firm’s high-tech unmanned boats that could decide battle outcome to be delivered to Navy\n\nA Rhode Island-based company is to deliver Uncrewed Surface Vessels (USVs) to support the U.S....",
+    "t": "חברה אמריקנית תסופק לחיל הים סירות ללא אנוש שעלולות להחליט את תוצאת הקרב\n\nחברה מרוד איילנד בדרך להעביר ספינות משטח ללא הנמנות (USVs) לחיל הים האמריקני, וכלים טכנולוגיים אלה עלולים להשפיע משמעותית על יכולות צבאיות ימיות. מדובר בטכנולוגיה עתירת חדשנות שמסוגלת לפעול באופן אוטונומי בימים ולתמוך בפעילויות ביטחוניות קריטיות.",
     "d": "Sun, 03 May 2026 14:46:22 +0000",
     "v": 0,
     "l": [
@@ -169,7 +165,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "Save $370 on this AMD Ryzen 9 9950X3D2 Dual Edition with an X870E motherboard and 32GB of RAM — big savings for your next high-end build\n\nThis Newegg bundle offers cutting-edge performance with practical value, combining AMD’s latest flagship CPU with high-end supporting components at a discounted price.",
+    "t": "חסכון של 370 דולר על ערכת AMD Ryzen 9 9950X3D2 עם לוח אם X870E ו-32GB זיכרון — עסקה משמעותית למי שבונה PC חזק\n\nNewegg הוציאה ערכה כזו שמשלבת את המעבד הדגל החדש של AMD עם רכיבי תמיכה איכותיים בחיתוך מחיר לא רע, במיוחד אם אתם מתכננים בנייה גדולה. זה הזמן להעלות את ה-setup שלכם עם טכנולוגיה חדישה בלי להוציא כל כך הרבה כסף.\n\nמקור: Tom's Hardware",
     "d": "Sun, 03 May 2026 14:37:58 +0000",
     "v": 0,
     "l": [
@@ -192,7 +188,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "A suspected YouTube interface bug spikes RAM usage above 7 gigabytes, users report severe lag and frozen tabs — bug might be trapping browsers in an endless layout loop\n\nReports of YouTube freezing browsers and consuming massive amounts of RAM are spreading online, with developers tracing the issue to a suspected UI bug that may trigger endless layout recalculations and severe system lag.",
+    "t": "באג בחזהו של YouTube גורם לצריכת RAM של 7GB - משתמשים מדווחים על הקפאות ודפדפן כמעט מושפל\n\nמשתמשים ברחבי העולם מדווחים על בעיה חמורה ביוטיוב שגורמת לדפדפן להשתלט כמעט לגמרי על משאבי המחשב - כל עד 7GB RAM! המטומטמים בקהילת המפתחים כבר גילו שזה כנראה באג בחזהו של היוטיוב שגורם לדפדפן לתקוע בלולאה אינסופית של חישובי עיצוב, ובפשטות מקפיא את הכל.",
     "d": "Sun, 03 May 2026 14:12:47 +0000",
     "v": 0,
     "l": [
@@ -209,7 +205,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/83cDsUf2Fo5e8PvNpsKoPY-1280-80.jpg",
     "source": "Tom's Hardware"
   },
