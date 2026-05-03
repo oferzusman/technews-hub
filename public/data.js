@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Mistral AI Launches Remote Agents in Vibe and Mistral Medium 3.5 with 77.6% SWE-Bench Verified Score\n\nMistral AI's latest release brings async cloud-based coding sessions, a new 128B flagship model, and an agentic Work mode to Le Chat — a meaningful step forward for developers building with AI agents.\nThe post Mistral AI Launches Remote Agents in Vibe and Mistral Medium 3.5 with 77.6% SWE-Bench Verified Score appeared first on MarkTechPost.",
+    "t": "Mistral AI משיקה Remote Agents ב-Vibe ו-Mistral Medium 3.5 עם ניקוד 77.6% ב-SWE-Bench\n\nמיסטראל AI הוציאה לא מכמה דברים מדהימים הפעם - סשנים קידוד בענן שעובדים ב-async, מודל ענק חדש בגודל 128B, ועוד מצב אגנטי חדש ב-Le Chat שנקרא Work mode. זה די משמעותי למפתחים שבונים עם AI agents, מכיוון שהם יכולים לזוז הרבה יותר מהר ולעשות דברים יותר מורכבים עם הכלים החדשים הזה. הציון של 77.6% ב-SWE-Bench אומר שהמודל החדש שלהם מסוגל לטפל בבעיות תכנות מורכבות באופן מעט מדהים.",
     "d": "Sun, 03 May 2026 00:38:20 +0000",
     "v": 0,
     "l": [
@@ -19,13 +19,13 @@ window.TELEGRAM_DATA = [
       "news",
       "agents"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-02-at-5.36.17-PM-1.png",
     "source": "MarkTechPost"
   },
   {
     "id": 2,
-    "t": "Japanese scientists map energy levels in perovskite solar cells, boost efficiency, stability\n\nOver the past decade, perovskite solar cells (PSCs) have moved to the forefront of next-generation...",
+    "t": "מדענים יפנים מיפו רמות אנרגיה בתאים סולריים של פרובסקייט וחיזקו את היעילות והעמידות\n\nחוקרים יפנים הצליחו למפות את רמות האנרגיה בתאים סולריים המבוססים על פרובסקייט, וזה עוזר להם לשפר משמעותית את היעילות ושמירת הביצועים לאורך זמן. התגלית הזו יכולה לתת דחיפה חזקה לפיתוח תאים סולריים חדשים שיוכלו להתחרות עם הטכנולוגיות הקיימות. מחקר זה מחזק את האשרור שפרובסקייט בדרכו להיות השחקן המרכזי בעולם האנרגיה הירוקה.",
     "d": "Sun, 03 May 2026 00:05:32 +0000",
     "v": 0,
     "l": [
@@ -40,8 +40,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "image-gen"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.youtube.com/embed/XMdeEpMCalk",
@@ -49,7 +48,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "BYD's upcoming hyperconvertible zooms from 0-60 mph in under 2 seconds\n\nAs if it wasn't already running enough laps around its competition in the electric-vehicle (EV) world, BYD's now building a hypercar for drop-top aficionados.\nContinue Reading\nCategory: Automotive, Transport\nTags: Hypercar, BYD, Electric Vehicles",
+    "t": "הקונברטיבל ההיפר של BYD מגיע מ-0 ל-100 קמ״ש בפחות משתיים שניות\n\nBYD לא מסתפקת עם הדומיננציה שלה בשוק הרכבים החשמליים - החברה הסינית משיקה עכשיו היפרקאר גדול עם גג נשלף שיזרוק תחת הרגליים לתחרות. אנחנו מדברים על תאוצה מטורפת: 0 ל-100 קמ״ש בפחות מ-2 שניות, כמו משהו שיצא ישר מסרט אקשן. זה עוד הוכחה שהמהפכה החשמלית לא רק על רכבים משפחתיים - גם בשוק המכוניות הפרימיום הגדולות, BYD באה לשחק.",
     "d": "Sun, 03 May 2026 00:03:00 GMT",
     "v": 0,
     "l": [
@@ -72,7 +71,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "AI-generated actors and scripts are now ineligible for Oscars\n\nBad news for Tilly Norwood.",
+    "t": "שחקנים וחסרי תסריטים שנוצרו על ידי AI כבר לא זכאים לפרס אוסקר\n\nהאקדמיה קבעה לעצמה כללים חדשים: אם רצו להשתמש ב-AI כדי ליצור שחקנים או לכתוב תסריטים, אתם יכולים לשכוח מהפסל הזהב. זו חברה מעניינת שמראה שגם בהוליווד יש להם חשש מ-AI לוקח את המקום של אנשים, וזה גם מעביר הודעה ברורה למוקדשי התאים: בואו תסתכלו על הכללים לפני שאתם מתחילים לבנות את הפרויקט הבא שלכם.",
     "d": "Sat, 02 May 2026 21:54:58 +0000",
     "v": 0,
     "l": [
@@ -95,7 +94,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Grab a 1440p-capable gaming rig with an RTX 5060 for just $1,049 — Save up to 25% on ABS Flux & Cyclone prebuilts that also feature 32 GB of RAM\n\nBuilding a PC has its advantages, such as cheaper parts costs and a learning experience that'll stick with you forever. However, when our AI overlords suck the joy out of DIY custom rigs, we need to venture out to find good deals in such turbulent times, and these prebuilts from ABS provide exactly that.",
+    "t": "מחשב גיימינג עם RTX 5060 ב-1,049 דולר בלבד — חסכו עד 25% על מחשבים מובנים של ABS Flux & Cyclone עם 32GB RAM\n\nבנייה עצמית של PC זה כיף וחוסך כסף, אבל כשהשוק מקבל מהלומות, עדיף לחפש דילים טובים אצל היצרנים. ABS הוציאו עכשיו מחשבים מובנים שמציעים ביצועי 1440p ישרים עם RTX 5060 החדשה, בעלויות שאתה פשוט לא יכול להתעלם מהן.",
     "d": "Sat, 02 May 2026 21:14:29 +0000",
     "v": 0,
     "l": [
@@ -118,7 +117,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation\n\nBuild a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation\nThe post Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation appeared first on MarkTechPost.",
+    "t": "בניית Workflow של AI מולטי-אגנטי לדימוי רשתות ביולוגיות, אינטראקציות חלבונים וסימולציית סימול תאי\n\nמתברר שמדענים ובעלי טכנולוגיה עובדים על דרך חדשה וחכמה לדימוי תהליכים ביולוגיים מורכבים בעזרת מודלים של AI שעובדים בצוותים. במקום סוכן AI אחד שניסיון להתמודד עם כל הסיבוכים של רשתות ביולוגיות, חלבונים וסימול תאי, הם שילבו מספר אגנטים שכל אחד מתמחה בתחום אחר. זה כמו לקחת קבוצה של מומחים שונים והפיכתם לעבוד ביחד בסימולציה של מה שקורה בתוך התא שלנו.",
     "d": "Sat, 02 May 2026 20:31:07 +0000",
     "v": 0,
     "l": [
@@ -131,13 +130,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -145,7 +140,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Ingenious unpowered sensor detects motion by generating ultrasound\n\nResearchers at the Georgia Institute of Technology have created a passive motion/contact sensor that detects motion using only sound. Without electricity, electronics, or batteries. The sensors are small, uniquely shaped metal tags that each emit very specific ultrasonic sounds upon contact. They are smaller than a penny and cost only a few cents each.\nContinue Reading\nCategory: Good Thinking, Technology\nTags: Georgia Tech, Georgia Institute of Technology, Motion sensor, Ultrasound",
+    "t": "חיישן גניאלי ללא חשמל מגלה תנועה בעזרת אולטרסאউנד\n\nמחקרים חדשים מהטכניון של ג'ורג'יה הביאו לפיתוח חיישני תנועה פסיביים שעובדים בעזרת קול בלבד - ללא צורך בחשמל, אלקטרוניקה או סוללות. החיישנים הם תגים מתכתיים זעירים בגודל קטן מפרוטה, המייצרים אולטרסאউנד ספציפי כשהם נחשפים ללחץ, והעלות שלהם היא סך הכל כמה סנטים לחיישן. הטכנולוגיה הזו יכולה להיות משחק משנה בעולם ה-IoT וה-Wearables.",
     "d": "Sat, 02 May 2026 20:03:00 GMT",
     "v": 0,
     "l": [
@@ -158,12 +153,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -171,7 +163,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "Under a cloud: the growing resentment against the massive datacentres sprouting across Australian cities\n\nResidents say AI factories with unknown environmental impacts are being rushed into development as proponents argue Australia must ride the data boom or be left behind\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nWhen West Footscray resident Sean Brown takes his 19-month-old boy to the park, their walk passes an imposing new building cheerily spruiked as “Australia’s largest hyperscale AI factory”, a datacentre called M3.\nH",
+    "t": "בעננים: הקינאה הגדלה נגד מרכזי הנתונים ענקיים שצומחים ברחבי ערים אוסטרליות\n\nתושבים אוסטרליים זועמים על מפעלי AI שמתפשטים בעיר ללא בדיקות סביבתיות ברורות, בזמן שתומכי הפרויקטים טוענים שאוסטרליה חייבת להשתתף בבום הנתונים כדי לא להישאר מאחור. מרכזי הנתונים ענקיים האלה, כולל המפעל M3 שנקרא 'מפעל ה-AI הגדול ביותר של אוסטרליה', מעוררים חשש בקרב התושבים לגבי ההשפעות הסביבתיות שלהם. מקור: The Guardian AI",
     "d": "Sat, 02 May 2026 20:00:35 GMT",
     "v": 0,
     "l": [
@@ -188,7 +180,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/598ef0e6661ea75f1a88e26cef9621abfba031e4/776_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=0e398eec5b277e7c260e6630d06a785e",
     "source": "The Guardian AI"
   },
