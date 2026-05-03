@@ -135242,6 +135242,100 @@
       "priority": "hot",
       "fetchedAt": "2026-05-03T13:45:19.434Z",
       "created_at": "2026-05-03T13:45:19.434Z"
+    },
+    {
+      "id": 6578,
+      "source": "Interesting Engineering",
+      "title_en": "US firm’s high-tech unmanned boats that could decide battle outcome to be delivered to Navy",
+      "description_en": "A Rhode Island-based company is to deliver Uncrewed Surface Vessels (USVs) to support the U.S....",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-unmanned-boats-battle-outcome",
+      "image_url": null,
+      "pub_date": "Sun, 03 May 2026 14:46:22 +0000",
+      "author": "Prabhat Ranjan Mishra",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-03T15:27:22.735Z",
+      "created_at": "2026-05-03T15:27:22.735Z"
+    },
+    {
+      "id": 6579,
+      "source": "Tom's Hardware",
+      "title_en": "TechTuber builds a PC big enough to live in — humans in this RGB-lit fish tank case look just like figurines",
+      "description_en": "A Chinese TechTuber scaled a tower PC large enough for a human to work and play in. It has air conditioning, too.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/pc-building/techtuber-builds-a-pc-big-enough-to-live-in-humans-in-this-rgb-lit-fish-tank-case-look-just-like-figurines",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/P7pckwnJFV4vxDA7yMEEVZ-1280-80.jpg",
+      "pub_date": "Sun, 03 May 2026 15:24:10 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "PC Building",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-03T15:27:23.071Z",
+      "created_at": "2026-05-03T15:27:23.071Z"
+    },
+    {
+      "id": 6580,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia accelerates end-of-life for some Jetson AI processors due to memory shortages — RAMpocalypse sends older DDR4-based modules to the great scrapheap in the sky",
+      "description_en": "Nvidia is apparently discontinuing some older embedded platforms earlier than anticipated, but this is mostly about market reality finally catching up, not abrupt discontinuation.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/maker-stem/nvidia-accelerates-end-of-life-for-some-jetson-ai-processors-due-to-memory-shortages-rampocalypse-sends-older-ddr4-based-modules-to-the-great-scrapheap-in-the-sky",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/YqyE7WKzDBtHaoJrTAM6zg-1280-80.jpg",
+      "pub_date": "Sun, 03 May 2026 14:53:08 +0000",
+      "author": " Zak Killian ",
+      "categories": [
+        "Maker and STEM"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-03T15:27:23.071Z",
+      "created_at": "2026-05-03T15:27:23.071Z"
+    },
+    {
+      "id": 6581,
+      "source": "Tom's Hardware",
+      "title_en": "Save $370 on this AMD Ryzen 9 9950X3D2 Dual Edition with an X870E motherboard and 32GB of RAM — big savings for your next high-end build",
+      "description_en": "This Newegg bundle offers cutting-edge performance with practical value, combining AMD’s latest flagship CPU with high-end supporting components at a discounted price.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/save-usd370-on-this-amd-ryzen-9-9950x3d2-dual-edition-with-an-x870e-motherboard-and-32gb-of-ram-big-savings-for-your-next-high-end-build",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/cDAWcNc7vq2DEQWgnj4tDK-1280-80.jpg",
+      "pub_date": "Sun, 03 May 2026 14:37:58 +0000",
+      "author": " Kunal Khullar ",
+      "categories": [
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-03T15:27:23.071Z",
+      "created_at": "2026-05-03T15:27:23.071Z"
+    },
+    {
+      "id": 6582,
+      "source": "Tom's Hardware",
+      "title_en": "A suspected YouTube interface bug spikes RAM usage above 7 gigabytes, users report severe lag and frozen tabs — bug might be trapping browsers in an endless layout loop",
+      "description_en": "Reports of YouTube freezing browsers and consuming massive amounts of RAM are spreading online, with developers tracing the issue to a suspected UI bug that may trigger endless layout recalculations and severe system lag.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/a-suspected-youtube-interface-bug-spikes-ram-usage-above-7-gigabytes-users-report-severe-lag-and-frozen-tabs-bug-might-be-trapping-browsers-in-an-endless-layout-loop",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/83cDsUf2Fo5e8PvNpsKoPY-1280-80.jpg",
+      "pub_date": "Sun, 03 May 2026 14:12:47 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "Software"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-03T15:27:23.071Z",
+      "created_at": "2026-05-03T15:27:23.071Z"
     }
   ]
 }
