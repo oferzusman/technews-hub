@@ -134359,7 +134359,7 @@
         "Microsoft Copilot"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-03T10:39:58.623Z",
       "created_at": "2026-05-03T10:39:58.623Z"
     },
@@ -134738,7 +134738,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-03T10:40:03.233Z",
       "created_at": "2026-05-03T10:40:03.233Z"
     },
@@ -135005,6 +135005,61 @@
       "priority": "hot",
       "fetchedAt": "2026-05-03T11:27:00.609Z",
       "created_at": "2026-05-03T11:27:00.609Z"
+    },
+    {
+      "id": 6565,
+      "source": "The Verge AI",
+      "title_en": "AI music is flooding streaming services — but who wants it?",
+      "description_en": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nThe use of generative AI in pop music started almost as a gimmick. There was a sense of experimentalism to 2018's I AM AI by Taryn Southern and 2019's Proto by Holly Herndon, albums that were created with signifi",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
+      "image_url": null,
+      "pub_date": "2026-05-03T12:00:00.000Z",
+      "author": "Terrence O’Brien",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-03T12:06:09.277Z",
+      "created_at": "2026-05-03T12:06:09.277Z"
+    },
+    {
+      "id": 6566,
+      "source": "Interesting Engineering",
+      "title_en": "Rare 210-million-year-old crocodile cousins found during the rise of the dinosaurs",
+      "description_en": "Two hundred ten million years ago, two crocodile cousins tragically died side by side, according...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/culture/rare-crocodile-cousins-found",
+      "image_url": "https://www.youtube.com/embed/q-hr-Qc4Dz0",
+      "pub_date": "Sun, 03 May 2026 11:53:43 +0000",
+      "author": "Maria Mocerino",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-03T12:06:14.164Z",
+      "created_at": "2026-05-03T12:06:14.164Z"
+    },
+    {
+      "id": 6567,
+      "source": "Tom's Hardware",
+      "title_en": "Utah first state to hold websites liable for users who mask their location with VPNs — law goes into effect, designed to prevent bypassing age checks",
+      "description_en": "Utah's Online Age Verification Amendments, formally Senate Bill 73, take effect on May 6.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/vpn/utah-becomes-first-us-state-to-target-vpn-use-with-age-verification-law",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/6XV8bh92LpaxMG9NUay7tR-1280-80.jpg",
+      "pub_date": "Sun, 03 May 2026 11:40:00 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "VPN",
+        "Software",
+        "Security Software"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-03T12:06:14.596Z",
+      "created_at": "2026-05-03T12:06:14.596Z"
     }
   ]
 }
