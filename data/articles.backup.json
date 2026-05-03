@@ -135603,7 +135603,7 @@
       "author": "Bojan Stojkovski",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-03T20:01:37.944Z",
       "created_at": "2026-05-03T20:01:37.944Z"
     },
@@ -135620,7 +135620,7 @@
       "author": "Rupendra Brahambhatt",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-03T20:01:37.944Z",
       "created_at": "2026-05-03T20:01:37.944Z"
     },
@@ -135640,6 +135640,28 @@
       "priority": "hot",
       "fetchedAt": "2026-05-03T20:01:38.231Z",
       "created_at": "2026-05-03T20:01:38.231Z"
+    },
+    {
+      "id": 6593,
+      "source": "TechCrunch AI",
+      "title_en": "‘This is fine’ creator says AI startup stole his art",
+      "description_en": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "image_url": null,
+      "pub_date": "Sun, 03 May 2026 20:16:51 +0000",
+      "author": "Anthony Ha",
+      "categories": [
+        "AI",
+        "Startups",
+        "artisan",
+        "kc green"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-03T20:58:22.864Z",
+      "created_at": "2026-05-03T20:58:22.864Z"
     }
   ]
 }
