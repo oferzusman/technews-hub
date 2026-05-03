@@ -1,9 +1,9 @@
 {
-  "total": 6577,
+  "total": 6582,
   "translated": 6577,
-  "untranslated": 0,
-  "today": 49,
-  "week": 950,
+  "untranslated": 5,
+  "today": 54,
+  "week": 955,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,13 +19,13 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 459,
+      "total": 463,
       "translated": 459,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 454,
+      "total": 455,
       "translated": 454,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-03T15:10:26.895Z"
+  "generatedAt": "2026-05-03T16:00:05.294Z"
 }
