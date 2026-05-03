@@ -134381,7 +134381,7 @@
         "Scaling"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-03T10:39:58.623Z",
       "created_at": "2026-05-03T10:39:58.623Z"
     },
@@ -134597,7 +134597,7 @@
       "author": "Abhimanyu Ghoshal",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-03T10:39:59.387Z",
       "created_at": "2026-05-03T10:39:59.387Z"
     },
@@ -134665,7 +134665,7 @@
       "author": "Christopher McFadden",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-03T10:40:03.049Z",
       "created_at": "2026-05-03T10:40:03.049Z"
     },
@@ -134843,6 +134843,168 @@
       "priority": "batch",
       "fetchedAt": "2026-05-03T10:40:05.457Z",
       "created_at": "2026-05-03T10:40:05.457Z"
+    },
+    {
+      "id": 6559,
+      "source": "MarkTechPost",
+      "title_en": "Sakana AI Introduces KAME: A Tandem Speech-to-Speech Architecture That Injects LLM Knowledge in Real Time",
+      "description_en": "Sakana AI Introduces KAME: A Tandem Architecture That Injects Real-Time LLM Knowledge Into Speech-to-Speech Conversational AI Without Adding Latency\nThe post Sakana AI Introduces KAME: A Tandem Speech-to-Speech Architecture That Injects LLM Knowledge in Real Time appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/03/sakana-ai-introduces-kame-a-tandem-speech-to-speech-architecture-that-injects-llm-knowledge-in-real-time/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-03-at-12.46.41-AM-1.png",
+      "pub_date": "Sun, 03 May 2026 07:47:42 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Audio Language Model",
+        "Editors Pick",
+        "Generative AI",
+        "Language Model",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Voice AI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-03T11:26:58.702Z",
+      "created_at": "2026-05-03T11:26:58.702Z"
+    },
+    {
+      "id": 6560,
+      "source": "MarkTechPost",
+      "title_en": "What is Tokenization Drift and How to Fix It?",
+      "description_en": "A model can behave perfectly one moment and degrade the next—without any change to your data, pipeline, or logic. The root cause often lies in something far more subtle: how your input is tokenized. Before a model processes text, it converts it into token IDs, and even minor formatting differences—like spacing, line breaks, or punctuation—can […]\nThe post What is Tokenization Drift and How to Fix It? appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/03/what-is-tokenization-drift-and-how-to-fix-it/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/image-2.png",
+      "pub_date": "Sun, 03 May 2026 07:06:45 +0000",
+      "author": "Arham Islam",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Software Engineering",
+        "Staff",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-03T11:26:58.702Z",
+      "created_at": "2026-05-03T11:26:58.702Z"
+    },
+    {
+      "id": 6561,
+      "source": "The Guardian AI",
+      "title_en": "Will human minds still be special in an age of AI?",
+      "description_en": "We tend to think of intelligence like height – and imagine ourselves being overtaken. That misses the point\nUntil recently, we humans have been able to be smug about our abilities. No other animals play boardgames, write essays or prove mathematical theorems. But lately, progress in AI seems as though it might challenge our self-image as the smartest entities around. AI systems not only beat us at the most complicated games, but can also write polished prose and win medals in maths. Tech CEOs pr",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/books/2026/may/03/will-human-minds-still-be-special-in-an-age-of-ai",
+      "image_url": "https://i.guim.co.uk/img/media/0f14734ba6dba29af4b6b22ed3f15595608f4871/459_0_2935_2348/master/2935.jpg?width=140&quality=85&auto=format&fit=max&s=d3ed56a9d572708bea334e0ed64d33b8",
+      "pub_date": "Sun, 03 May 2026 11:00:54 GMT",
+      "author": "Tom Griffiths",
+      "categories": [
+        {
+          "_": "Books",
+          "$": {
+            "domain": "https://www.theguardian.com/books/books"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-03T11:26:59.294Z",
+      "created_at": "2026-05-03T11:26:59.294Z"
+    },
+    {
+      "id": 6562,
+      "source": "Interesting Engineering",
+      "title_en": "World’s first: Indian startup GalaxEye launches OptoSAR payload aboard SpaceX",
+      "description_en": "Indian startup GalaxEye has placed its first satellite, Drishti, into orbit aboard a SpaceX rocket,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/space/galaxeye-mission-drishti-spacex-launch-optosar",
+      "image_url": null,
+      "pub_date": "Sun, 03 May 2026 10:59:54 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-03T11:27:00.271Z",
+      "created_at": "2026-05-03T11:27:00.271Z"
+    },
+    {
+      "id": 6563,
+      "source": "Tom's Hardware",
+      "title_en": "Keychain-size ‘GameCube’ uses genuine Nintendo silicon — system also includes a dock, design shared to GitHub",
+      "description_en": "Video showcases the Nintendo Kawaii project, in which modders have shrunken a boxy GameCube down to a keychain.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/nintendo/keychain-size-gamecube-uses-genuine-nintendo-silicon-system-also-includes-a-dock-design-shared-to-github",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/7En8WagyGRmiv93yaXhbsQ-1280-80.jpg",
+      "pub_date": "Sun, 03 May 2026 11:20:12 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Nintendo",
+        "Video Games",
+        "Console Gaming"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-03T11:27:00.609Z",
+      "created_at": "2026-05-03T11:27:00.609Z"
+    },
+    {
+      "id": 6564,
+      "source": "Tom's Hardware",
+      "title_en": "Microsoft now recommends 32GB of RAM as the future-proof 'no worries' config for gaming — 16GB becomes the new 'practical starting point' during the RAMageddon",
+      "description_en": "Pretty much no games recommend more than 16GB of RAM, even in the unoptimized era we're living in right now. Only a few titles at their highest presets say 32GB is ideal, so Microsoft claiming that 32GB is the future-proof standard isn't exactly wrong. You'll be fine with 16GB today, but perhaps not tomorrow.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/windows/microsoft-now-recommends-32gb-of-ram-as-the-future-proof-no-worries-config-for-gaming-16gb-becomes-the-new-practical-starting-point-during-the-ramageddon",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/3Xz957pzcTadwqJNj3tu3T-1280-80.jpg",
+      "pub_date": "Sun, 03 May 2026 10:40:00 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "Windows",
+        "Software",
+        "Operating Systems"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-03T11:27:00.609Z",
+      "created_at": "2026-05-03T11:27:00.609Z"
     }
   ]
 }
