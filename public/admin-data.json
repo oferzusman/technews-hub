@@ -1,9 +1,9 @@
 {
-  "total": 6582,
+  "total": 6586,
   "translated": 6577,
-  "untranslated": 5,
-  "today": 54,
-  "week": 955,
+  "untranslated": 9,
+  "today": 58,
+  "week": 959,
   "sources": [
     {
       "name": "Product Hunt",
@@ -37,7 +37,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 300,
+      "total": 301,
       "translated": 300,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 273,
+      "total": 274,
       "translated": 273,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -79,7 +79,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 158,
+      "total": 160,
       "translated": 158,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-03T16:00:05.294Z"
+  "generatedAt": "2026-05-03T17:01:35.494Z"
 }
