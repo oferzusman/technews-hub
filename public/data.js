@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Popular 90s search engine ‘Ask Jeeves’ finally bites the dust — parent company shutters website that pioneered natural language queries, only a placeholder results page remains\n\nIAC, the parent company of Ask Jeeves, is finally putting the search engine out to pasture after 30 years.",
+    "t": "אל תשאלו יותר - Ask Jeeves סוף סוף נסגר אחרי 30 שנים של שירות\n\nIAC החליטה להוריד את הווילון על Ask Jeeves, מנוע החיפוש הקלאסי מהשנות 90 שפיתח את טכנולוגיית השאלות בשפה טבעית. הכל שנשאר בעמוד הישן הוא placeholder בודד, וזה סוף תקופה בתולדות ה-search.",
     "d": "Sun, 03 May 2026 13:22:25 +0000",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Inference is giving AI chip startups a second chance to make their mark\n\nIn a disaggregated AI world, Nvidia can be both a friend and an enemy AI adoption is reaching an inflection point as the focus shifts from training new models to serving them. For the AI startups vying for a slice of Nvidia's pie, it's now or never.…",
+    "t": "Inference נותן הזדמנות שנייה לסטארטאפים של שבבי AI לעשות רושם\n\nהעולם של AI משתנה ועכשיו הפוקוס עובר מאימון של מודלים חדשים להשמת שירותים בפועל - וזה דווקא הרגע הזהב של סטארטאפים קטנים. בעוד Nvidia משלטת בשוק, יש חלון הזדמנויות לחברות חדשות להתחזק בתחום ה-inference, והזמן לא רב - או עכשיו או אף פעם.",
     "d": "2026-05-03T13:05:11.000Z",
     "v": 0,
     "l": [
@@ -50,7 +50,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "US to bolster surveillance operations with more aircraft to modernize early warning capabilities\n\nThe United States Air Force (USAF) has announced its plans to bolster its fleet of...",
+    "t": "ארה\"ב משקיעה בחיל האוויר: עוד מטוסי מעקב להעדכון מערכות התרעה\n\nחיל האוויר האמריקני מכריז על תוכנית להרחבת הצי שלו עם מטוסי מעקב מתקדמים, במטרה לשדרג את יכולות ההתרעה המוקדמת שלו. ההשקעה הזו משקפת את ההבנה של ארה\"ב כי צריך תשתית חזקה יותר לגילוי איומים בזמן אמת ותגובה מהירה. זה חלק מתהליך יותר רחב של מודרניזציה צבאית בעידן התעופה ו-AI.",
     "d": "Sun, 03 May 2026 13:04:46 +0000",
     "v": 0,
     "l": [
@@ -73,7 +73,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Review: 2026 Nissan Frontier runs with an “if it ain’t broke” philosophy\n\nThe 2026 Nissan Frontier is a truck that’s equal parts stubborn old-school and new-face modernized. And honestly? That tension is exactly what makes the Frontier interesting.\nContinue Reading\nCategory: Automotive, Transport\nTags: Truck, Pickup, Nissan, Reviews",
+    "t": "ביקורת: ניסאן פרונטייר 2026 פועלת על פי הפילוסופיה 'אם זה לא שבור, אל תתקן'\n\nניסאן פרונטייר החדשה היא משהו בין טראק עקשן וישן לבין פיקאפ מודרני וטרנדי - ותמזמזים שהתנגודות האלה הן בדיוק מה שגורם לה להיות כזו מעניינת. הרכב שומר על הנוסחה המוכחת בעוד שמביא עם זה רכיבים טכנולוגיים עדכניים שעושים אותה רלוונטית לשנות ה-2020.",
     "d": "Sun, 03 May 2026 13:03:00 GMT",
     "v": 0,
     "l": [
@@ -96,7 +96,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "How the internet’s favorite squirrel dad made the hottest camera app of 2026\n\nDowney at home in LA with one of his channel’s frequent guest stars. | Image: The Verge; Shutterstock\t\n\nIt's not hyperbole to call DualShot Recorder an overnight sensation. \nIt took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps. It was a surprise success - but what's even more surprising is the app's origin story: it all started with a cadre of friendly neighborhood squirrels and their favorite caretaker.\nDerrick Downey Jr. built a career ",
+    "t": "איך אבא הסנאים האהוב בעולם יצר את אפליקציית המצלמה הכי חמה של 2026\n\nDualShot Recorder הפכה להיט מדהים - שעה לאחר ההשקה היא כבר הייתה מספר 1 בחנות האפליקציות. אבל זה עוד לא הדבר המשהו - מסתבר שכל זה התחיל בגלל קהילת סנאים ידודה והאיש שנוהג לטפל בהם, דריק דאוני הג'וניור. אחד מהימים המדהימים הללו של היוטיוב סיפר לנו איך סנאים ובן אדם אחד יצרו אחת מהאפליקציות הטכנולוגיות הכי מתחכמות בתחום.",
     "d": "2026-05-03T13:00:00.000Z",
     "v": 0,
     "l": [
@@ -119,7 +119,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Anthropic in early talks to buy DRAM-less AI inference chips from UK startup — Fractile's SRAM architecture reduces need for pricey memory during extreme pricing and shortage crunch\n\nAnthropic has reportedly held early discussions with London-based chip startup Fractile about purchasing the company's inference accelerators.",
+    "t": "אנתרופיק בשיחות עם סטארטאפ בריטי לרכישת שבבי AI זולים — Fractile מפתחת ארכיטקטורה חדשנית שמחליפה זכרון יקר\n\nיוצא הדופן בתחום: אנתרופיק בודקת שיתוף פעולה עם Fractile, חברה בריטית שמפתחת שבבי inference לAI שלא צריכים DRAM יקר. הטריק שלהם הוא שימוש ב-SRAM במקום — זה משנה את המשחק כשהזיכרון הוא מבקבוק הצוואר. בעיקרון, אם זה יצליח, זה עלול לחסוך הרבה כסף לחברות בתחום AI שמתמודדות עם משבר בהספקת רכיבים.",
     "d": "Sun, 03 May 2026 12:51:54 +0000",
     "v": 0,
     "l": [
@@ -132,20 +132,17 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/iAtJT6Ab8gPu3iDZq9bCnL-1280-80.jpg",
     "source": "Tom's Hardware"
   },
   {
     "id": 7,
-    "t": "Chinese court rules companies can't fire workers just because AI is cheaper — ruling says automation alone doesn't justify layoffs\n\nChinese courts ruled that companies cannot automatically fire workers simply because AI can do the job more cheaply, declaring that automation alone does not justify dismissal under labor law.",
+    "t": "בית משפט סיני קבע: לא יכולים לפטר עובדים רק כי AI זול יותר — אוטומציה לבדה לא מספיקה\n\nבהחלטה שחשובה לעובדים בכל העולם, בית משפט בסין קבע שחברות לא יכולות לעשות פיטורים בעלייה של ש'דו 'רק בגלל שה-AI עושה את העבודה בזול יותר. התקנה מבהירה שאוטומציה בלבד לא יכולה להשפיע על כוח האדם תחת חוקי העבודה המקומיים. זה סימן חשוב כנגד האובססיה של קורפוריציות להחליף בני אדם בטכנולוגיה בלי שום שיקול אנושי.",
     "d": "Sun, 03 May 2026 12:35:13 +0000",
     "v": 0,
     "l": [
@@ -160,8 +157,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/MEJnfpzr4aaVDtGEnb6R8R-1280-80.jpg",
@@ -169,7 +165,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "Grounded after three flights, Blue Origin wants 100 new Glenns a year by 2029\n\nA company that took over a decade to launch its first rocket is now targeting...",
+    "t": "Blue Origin עוצרת לאחר שלוש טיסות - שואפת ל-100 רקטות Glenn חדשות בשנה עד 2029\n\nBlue Origin קובעת לעצמה מטרה חדשה ושמחה: להיות מייצרת 100 רקטות Glenn בשנה עד 2029, זה אחרי שלקחה למעלה מעשור רק כדי להשיג את ההמראה הראשונה. המטרה של החברה היא להפוך לשחקן ממשי בשוק השיגורים למסלול נמוך של כדור הארץ, ועם הקצב הזה היא בדרך להיות כל כך שיחקנית שלא תעלם.",
     "d": "Sun, 03 May 2026 12:30:20 +0000",
     "v": 0,
     "l": [
@@ -192,7 +188,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "Jensen says Nvidia now has 'zero percent' market share in China — says US export policy 'has already largely backfired'\n\nJensen Huang says China has become a lost market for Nvidia due to U.S. sanctions, but warns that America could lose out in a broader AI competition.",
+    "t": "ג'נסן: לנווידיה אפס אחוזים שוק בסין - המדיניות האמריקאית 'כבר נכשלה'\n\nהמנכ\"ל של נווידיה טוען שסין הפכה לשוק אבוד עבור החברה בגלל הסנקציות האמריקאיות, אבל הוא מזהיר שארה\"ב עלולה להפסיד במרוץ ה-AI הגלובלי. ג'נסן האנג אומר שמדיניות הייצוא של ארה\"ב 'כבר עשתה יותר נזק מטוב', ובזה הוא משקף חזון עולמי שונה על תחרותיות טכנולוגית.",
     "d": "Sun, 03 May 2026 12:08:47 +0000",
     "v": 0,
     "l": [
@@ -205,13 +201,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Nvidia"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "hardware",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/kzsQ9kF5A9MCd4sEEdZa4o-1280-80.png",
@@ -219,7 +211,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "New carbon-free hydrogen fuel production method slashes temperature requirement by 900°F\n\nUniversity of Birmingham researchers have developed a method to produce hydrogen at lower temperatures using...",
+    "t": "שיטה חדשה לייצור מימן ללא פחמן מפחיתה את דרישת הטמפרטורה ב-900 מעלות פרנהייט\n\nחוקרים מאוניברסיטת ברמינגהם הצליחו לפתח שיטה למהפכנית לייצור מימן בטמפרטורות הרבה יותר נמוכות מהשיטות הקיימות היום. התיאוריה היא שאם נצליח להוזיל את עלויות הייצור וחסך אנרגיה, אנחנו יכולים להאיץ את המעבר של העולם לדלקים נקיים. זה פוטנציאל ענק לתעשייה הירוקה בעשור הקרוב.",
     "d": "Sun, 03 May 2026 12:08:21 +0000",
     "v": 0,
     "l": [
@@ -242,7 +234,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "AI music is flooding streaming services — but who wants it?\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nThe use of generative AI in pop music started almost as a gimmick. There was a sense of experimentalism to 2018's I AM AI by Taryn Southern and 2019's Proto by Holly Herndon, albums that were created with signifi",
+    "t": "AI מוזיקה מציפה את שירותי הסטרימינג — אבל מי בעצם רוצה את זה?\n\nהשנים האחרונות העלו לנו הרבה יצירות מוזיקליות שנוצרו עם generative AI, אבל קצת בדומה לאופנה שעברה - כולם עשו את זה כי אפשר, לא בהכרח כי היה צורך בזה. מה שהתחיל כניסיון מעניין של אמנים כמו Taryn Southern ו-Holly Herndon בשנות 2018-2019 הפך לגל ענק של תוכן AI שמוצף את פלטפורמות הסטרימינג, ועכשיו השאלה החשובה היא: האם זה באמת משהו שהמאזינים רוצים לשמוע?",
     "d": "2026-05-03T12:00:00.000Z",
     "v": 0,
     "l": [
@@ -265,7 +257,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Rare 210-million-year-old crocodile cousins found during the rise of the dinosaurs\n\nTwo hundred ten million years ago, two crocodile cousins tragically died side by side, according...",
+    "t": "גילוי נדיר של בני דודים של תנינים בן 210 מיליון שנה מתקופת עלייתם של הדינוזאורים\n\nחוקרים גילו שני שרידים מאובנים של יצורים שדומים לתנינים שמתו זה ליד זה לפני 210 מיליון שנה, בדיוק בתקופה שהדינוזאורים התחילו לשלוט על כדור הארץ. המגלה מציעה תיאור מרתק של האקוסיסטם העתיק ועוזרת לנו להבין יותר טוב איך התפתחו החיות בעידן הזוואי הקדום הזה.",
     "d": "Sun, 03 May 2026 11:53:43 +0000",
     "v": 0,
     "l": [
@@ -288,7 +280,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "Utah first state to hold websites liable for users who mask their location with VPNs — law goes into effect, designed to prevent bypassing age checks\n\nUtah's Online Age Verification Amendments, formally Senate Bill 73, take effect on May 6.",
+    "t": "יוטה הופכת למדינה הראשונה שמחייבת אתרים לאחריות על משתמשים שמחביאים את מיקומם עם VPN\n\nחוק חדש ביוטה שנכנס לתוקף ב-6 במאי מטיל אחריות על אתרים באם משתמשים יעקפו בדיקות גיל באמצעות VPN - והמדינה פתחה חזית חדשה בקרב הרגולציה על גישה למתגבר. זה אומר שלמעשה אתר יצטרך לוודא שמי שנכנס לתוכן רגיש לגיל הוא באמת בגיל המתאים, גם אם הוא מנסה להסתיר את מיקומו הממשי.",
     "d": "Sun, 03 May 2026 11:40:00 +0000",
     "v": 0,
     "l": [
@@ -303,8 +295,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/6XV8bh92LpaxMG9NUay7tR-1280-80.jpg",
@@ -312,7 +303,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Keychain-size ‘GameCube’ uses genuine Nintendo silicon — system also includes a dock, design shared to GitHub\n\nVideo showcases the Nintendo Kawaii project, in which modders have shrunken a boxy GameCube down to a keychain.",
+    "t": "מעריץ בנה GameCube בגודל מחזיק מפתחות עם שבב אמיתי של נינטנדו — והוא שיתף את העיצוב ב-GitHub\n\nפרויקט מטורף שנקרא Nintendo Kawaii הצליח לכווץ את ה-GameCube הגדול לתכשיט קטן ממש, בשימוש בחומרה אמיתית של נינטנדו. המערכת כוללת אפילו dock דוקינג משלה, וההאקר החכם הביא לשיתוף החופשי את כל התוכנית כדי שגם אחרים יוכלו ליצור את שלהם. מי שחשב שגיימינג retro לא יכול להיות פחות, תסתכל על זה!",
     "d": "Sun, 03 May 2026 11:20:12 +0000",
     "v": 0,
     "l": [
@@ -335,7 +326,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "Will human minds still be special in an age of AI?\n\nWe tend to think of intelligence like height – and imagine ourselves being overtaken. That misses the point\nUntil recently, we humans have been able to be smug about our abilities. No other animals play boardgames, write essays or prove mathematical theorems. But lately, progress in AI seems as though it might challenge our self-image as the smartest entities around. AI systems not only beat us at the most complicated games, but can also write polished prose and win medals in maths. Tech CEOs pr",
+    "t": "האם המוח האנושי עדיין יהיה משהו מיוחד בעידן של AI?\n\nזמן רב היינו יכולים להתגאות בתכונותינו הקוגניטיביות - אף בעל חיים אחר לא משחק שחמט או כותב מאמרים. אבל בימים אלה AI מערער את כל זה: המערכות האלה לא רק מנצחות אותנו במשחקים מורכבים, אלא גם כותבות טקסטים מלוטשים וזוכות בתחרויות במתמטיקה. השאלה שדורגנו היא לא באמת מי חכם יותר, אלא איך אנחנו מעמידים בערך את הייחודיות האנושית בעולם שבו AI הופך יותר ויותר חכם. מקור: The Guardian AI",
     "d": "Sun, 03 May 2026 11:00:54 GMT",
     "v": 0,
     "l": [
@@ -358,7 +349,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "World’s first: Indian startup GalaxEye launches OptoSAR payload aboard SpaceX\n\nIndian startup GalaxEye has placed its first satellite, Drishti, into orbit aboard a SpaceX rocket,...",
+    "t": "עולמי ראשון: החברה ההודית GalaxEye השיקה את טעינת OptoSAR דרך SpaceX\n\nההזנק ההודי GalaxEye הצליח לשלוח את הלוויין הראשון שלו, דרישטי, למסלול סביב כדור הארץ בעזרת רקטה של SpaceX. זוהי הישג משמעותי של חברה ישראלית חדשה שפיתחה טכנולוגיית ראדר אופטי מתקדמת (OptoSAR) שיכולה לספק נתונים צילום מהאוויר באיכות גבוהה. הלוויין יהיה ממיד זמין לשימוש מסחרי וצפוי לשנות את תחום התצפיות מהחלל בהודו ובעולם.",
     "d": "Sun, 03 May 2026 10:59:54 +0000",
     "v": 0,
     "l": [
@@ -375,13 +366,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "Interesting Engineering"
   },
   {
     "id": 17,
-    "t": "Microsoft now recommends 32GB of RAM as the future-proof 'no worries' config for gaming — 16GB becomes the new 'practical starting point' during the RAMageddon\n\nPretty much no games recommend more than 16GB of RAM, even in the unoptimized era we're living in right now. Only a few titles at their highest presets say 32GB is ideal, so Microsoft claiming that 32GB is the future-proof standard isn't exactly wrong. You'll be fine with 16GB today, but perhaps not tomorrow.",
+    "t": "מיקרוסופט ממליצה על 32GB RAM כתצורה 'ללא דאגות' עתידית לגיימינג — 16GB הופך לנקודת ההתחלה המעשית החדשה\n\nמיקרוסופט מעלה את הרף: אם עד היום 16GB היה נחשב לסטנדרט סביר, יום המחר שייך ל-32GB. רוב המשחקים עדיין מסתפקים ב-16GB אפילו בהגדרות מקסימום, אבל טרנד ברור מתגבר ברחבי התעשייה, והמחירים כבר משתנים בהתאם לתחזוקה החדשה של ענקית הטק.",
     "d": "Sun, 03 May 2026 10:40:00 +0000",
     "v": 0,
     "l": [
@@ -394,12 +385,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Microsoft"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/3Xz957pzcTadwqJNj3tu3T-1280-80.jpg",
@@ -407,7 +395,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "US advances replenishment of 500 Patriot interceptors to Qatar to combat ballistic risks\n\nWashington has signed off on a $4 billion package to rebuild Qatar’s Patriot-based air and...",
+    "t": "ארה\"ב מאשרת אספקת 500 יירוטי פטריוט לקטר כנגד איומים בליסטיים\n\nוושינגטון אישרה חבילה צבאית בשווי 4 מיליארד דולר לשיפור מערכת ההגנה האווירית של קטר. הדיל כולל עדכון משמעותי של יכולות היירוט של מערכות פטריוט, במטרה להגביר את ההשגה נגד איומים בליסטיים באזור. זה חלק מגישת ארה\"ב לחיזוק בעלי הברית במזרח התיכון מול הלחצים הביטחוניים הגוברים בעולם.",
     "d": "Sun, 03 May 2026 10:28:56 +0000",
     "v": 0,
     "l": [
@@ -422,16 +410,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://www.youtube.com/embed/CIgmwm_D61Q",
     "source": "Interesting Engineering"
   },
   {
     "id": 19,
-    "t": "Amazon’s Middle East data centers damaged by Iran drone and missile attacks will be down for several months during repairs — U.S. and Iran currently observing an uneasy truce, but renewed strikes possible if talks break down\n\nAmazon says that it will take months before it can return its Bahrain and UAE data center back to full operational status. In the meantime, the company suspends billing for affected customers while also recommending that they move to other Regions to restore service.",
+    "t": "מרכזי הנתונים של אמזון במזרח התיכון נפגעו בהתקפת רחפנים וטילים של איראן - תיקומים יימשכו חודשים\n\nאמזון הודיעה שיידרשו חודשים עד שמרכזי הנתונים שלה בבחריין ובאUAE יחזרו לתפוקה מלאה, ובינתיים החברה הקפיאה את החיוב ללקוחות המושפעים וממליצה להם להעביר את השירותים שלהם לאזורים אחרים כדי לחזור לפעולה רגילה.",
     "d": "Sun, 03 May 2026 10:20:00 +0000",
     "v": 0,
     "l": [
@@ -444,12 +431,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/8izbJRoTC86JCQP5ZqVdpG-1280-80.jpg",
@@ -457,7 +441,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "High-intensity beams, not whispers: Study suggests aliens might send strong signals\n\nFor more than half a century, the search for extraterrestrial intelligence has been built on...",
+    "t": "קרני אור חזקות, לא ששון קול: מחקר מציע שחייזרים עשויים לשלוח אותות חזקים\n\nלמשך יותר מ-50 שנה, החיפוש אחר חיים תבוניים בחלל התבסס על הנחה שתרבויות מתקדמות יחכו בשקט. אבל מחקר חדש מערער את כל הקונספט הזה - וגם למה שלא שליחת אותות חזקים מאוד כדי לתפוס תשומת לב? גם כשאנחנו מדברים על אנטנות וGPU, נראה שהחייזרים לא בדיוק מעוניינים בחיסכון בחשמל.",
     "d": "Sun, 03 May 2026 10:06:11 +0000",
     "v": 0,
     "l": [
@@ -470,17 +454,20 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
-    "tags": [
-      "news"
+    "co": [
+      "Nvidia"
     ],
-    "imp": "medium",
+    "tags": [
+      "news",
+      "hardware"
+    ],
+    "imp": "low",
     "thumb": null,
     "source": "Interesting Engineering"
   },
   {
     "id": 21,
-    "t": "Japan is deploying ultra-cheap cardboard drones built for swarm warfare and expendable combat missions — $2,000 expendable combat drones cost less than some gaming PCs\n\nJapan is deploying ultra-cheap cardboard drones built for swarm warfare and expendable combat missions. The flat-packed AirKamuy 150 costs as little as $2,000 — far cheaper than many military drones.",
+    "t": "יפן משדרת רחפנים זולים מנייר קרטון למלחמת נחיל ומשימות קרב - דרונים ל-2,000 דולר בלבד\n\nיפן החלה בהנדסה של רחפנים זולים ומעשיים מאוד שמעוצבים למלחמות נחיל ומשימות קרב חד-פעמיות. ה-AirKamuy 150 עולה בערך 2,000 דולר בלבד - משמעותית זול יותר מרחפנים צבאיים מסורתיים ואפילו מחלק מהמחשבי גיימינג הכי טובים. זה משנה את כללי המשחק בתחום הטכנולוגיה הצבאית כי עכשיו אפשר להשמיד כמות ענקית של דרונים בלי להשתמש בתקציב עצום.",
     "d": "Sun, 03 May 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -503,7 +490,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "Microsoft caught sneaking \"Co-Authored-by Copilot\" into VS Code commits - even with AI off\n\nMicrosoft quietly slipped a \"Co-Authored-by Copilot\" line into Git commits in Visual Studio Code - even for developers who had turned off the AI features entirely.\nThe article Microsoft caught sneaking \"Co-Authored-by Copilot\" into VS Code commits - even with AI off appeared first on The Decoder.",
+    "t": "מיקרוסופט תפסה בעת הכנסת \"Co-Authored-by Copilot\" לקומיטים ב-VS Code - אפילו כשה-AI כבוי\n\nמיקרוסופט הצליחה להחביא שורת \"Co-Authored-by Copilot\" בקומיטים של Git ב-Visual Studio Code, אפילו למפתחים שכיבו לחלוטין את תכונות ה-AI. התגלית הזו מעלית שאלות חמות על שקיפות וביצוע התוכנה - כי במה בדיוק קרה כאן? המחדשים של קוד מתרגזים שMicrosoft משנה משהו בקומיטים שלהם בלי לבקש אישור, ובעיקר שהדבר קורה גם כשהם חשבו שכיבו את כל המעורבות של Copilot.",
     "d": "Sun, 03 May 2026 09:31:15 +0000",
     "v": 0,
     "l": [
@@ -529,7 +516,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "US humanoid robot passenger causes safety concern with banned battery size, flight delay\n\nA humanoid robot called “Bebop” has delayed a flight out of California Airport due to...",
+    "t": "רובוט הומנואידי אמריקאי גרם לחששות בטיחות עם גודל סוללה אסור - וגם עיכב טיסה\n\nרובוט בשם \"Bebop\" עיכב טיסה מנמל התעופה בקליפורניה בגלל סוללה שגודלה חוצה את התקנים של הרשויות - חברת התעופה לא הרשתה לו לעלות על הטיסה בגלל החשש לבטיחות. המקרה מראה שגם הרובוטים צריכים לעמוד בחוקי הטיסה כמו כל נוסע אחר, ושהתעשייה עדיין מתמודדת עם שאלות חוקיות סביב זה.",
     "d": "Sun, 03 May 2026 09:25:41 +0000",
     "v": 0,
     "l": [
@@ -544,9 +531,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -554,7 +539,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 24,
-    "t": "This mind-reading beanie could make keyboards obsolete\n\nDictation tech for typing on your computer and mobile devices has gotten way better and more accessible over the last few years, thanks to sophisticated AI models. But an upcoming device can remove even more friction from the process of getting words onto your screen, by simply reading your thoughts.\nContinue Reading\nCategory: Wearables, Consumer Tech, Technology\nTags: Brain-computer interface, EEG, Electroencephalography (EEG), wearable computing",
+    "t": "כובע קורא מחשבות שעלול להפוך את המקלדת להיסטוריה\n\nשכחו מהקול וממקלדות - עכשיו אפשר פשוט לחשוב בקול רם. מכשיר חדש בעזרת טכנולוגיית brain-computer interface ו-EEG יכול לקרוא את הגלים החשמליים של המוח שלכם ולהפוך אותם ישירות לטקסט במחשב או בסמארטפון, מה שמעיל את כל התהליך של כתיבה וריבוי משימות. זה נראה כמו מדע בדיוני, אבל עם התקדמות ה-AI בשנים האחרונות, הטכנולוגיה הזו הולכת להיות הרבה יותר נגישה מאשר חשבנו.",
     "d": "Sun, 03 May 2026 09:03:00 GMT",
     "v": 0,
     "l": [
@@ -577,7 +562,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "MIT study explains why scaling language models works so reliably\n\nMIT researchers have a mechanistic explanation for why large language model performance scales so reliably with size. The answer comes down to a phenomenon called superposition.\nThe article MIT study explains why scaling language models works so reliably appeared first on The Decoder.",
+    "t": "מחקר MIT פוענח לנו למה scaling של מודלים לשוניים עובד בצורה כל כך אמינה\n\nחוקרים מ-MIT גילו את ההסבר המכני לאחורי התופעה שדיברנו עליה הרבה - למה בעצם כל פעם שאנחנו עושים מודל גדול יותר, הוא באמת עובד יותר טוב? התשובה קשורה לתופעה מעניינת בשם superposition שמתרחשת בתוך הנטוורק. זה עוד עדות לכך שיש לנו דרך רבה ללמוד על איך בעצם עובדות ה-LLM האלה מלמטה.",
     "d": "Sun, 03 May 2026 08:42:45 +0000",
     "v": 0,
     "l": [
@@ -594,13 +579,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 26,
-    "t": "Mystery sitter in Holbein portrait could be Anne Boleyn, AI analysis finds\n\nResearchers say works may have been incorrectly inscribed in 1700s, leading to centuries-long misunderstanding\nThey are two small sketches by the Renaissance master Hans Holbein: one has long been considered to be a portrait of Henry VIII’s doomed second wife, Anne Boleyn, and the other is of an unknown woman whose name was lost to time.\nNow researchers using AI have discovered that the unnamed woman might be the tragic queen after all, while the other figure could in fact be Boleyn’s mother.\n C",
+    "t": "AI חשף מסתורין: דמות בלתי ידועה בתמונה היסטורית עלולה להיות אן בולין\n\nחוקרים השתמשו בבינה מלאכותית כדי לחדש את ההבנה שלנו על שתי סקיצות של האמן הנוסח האנה בולין. מתברר שהאישה שזהוותה במשך מאות שנים כלא ידועה עלולה להיות כל הזמן המלכה הטרגית עצמה, בעוד שהדמות השנייה אולי הייתה הם של אן בולין. מכיוון שהציורים נכתבו בתווית שגויה כבר בשנות ה-1700, נשמרה הבלבול היסטורי זה כל הדרך עד ימנו. מקור: The Guardian AI",
     "d": "Sun, 03 May 2026 08:33:29 GMT",
     "v": 0,
     "l": [
@@ -623,7 +608,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 27,
-    "t": "China is falling behind in the AI race, according to a US government benchmark\n\nA US government agency says China is now eight months behind in the AI race, but independent data doesn't back that up. And while US labs keep chasing smarter models, the price edge from Deepseek and other Chinese players may end up being the stronger argument.\nThe article China is falling behind in the AI race, according to a US government benchmark appeared first on The Decoder.",
+    "t": "סין מפסידה בתחרות ה-AI, לפי בנצ'מארק של הממשלה האמריקנית\n\nסוכנות ממשלתית אמריקנית טוענת שסין אחורה בשמונה חודשים בתחרות ה-AI, אבל הנתונים העצמאיים לא ממש תומכים בזה. בזמן שהלאבים האמריקניים רודפים אחרי מודלים חכמים יותר, ייתכן שהיתרון המחיר של Deepseek וחברות סיניות אחרות יהיה הטיעון החזק ביותר בסוף.",
     "d": "Sun, 03 May 2026 08:12:00 +0000",
     "v": 0,
     "l": [
@@ -646,7 +631,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 28,
-    "t": "Sakana AI Introduces KAME: A Tandem Speech-to-Speech Architecture That Injects LLM Knowledge in Real Time\n\nSakana AI Introduces KAME: A Tandem Architecture That Injects Real-Time LLM Knowledge Into Speech-to-Speech Conversational AI Without Adding Latency\nThe post Sakana AI Introduces KAME: A Tandem Speech-to-Speech Architecture That Injects LLM Knowledge in Real Time appeared first on MarkTechPost.",
+    "t": "Sakana AI חושפת את KAME: ארכיטקטורה speech-to-speech שמזרימה ידע LLM בזמן אמת\n\nחברת Sakana AI הציגה KAME, מערכת חדשה שמצליחה להטמיע את כוח ה-LLM ישירות לשיחות speech-to-speech בלי להוסיף latency. זו למעשה פריצת דרך למוקדים שירות וסיוע וירטואלי, כי עכשיו המערכת יכולה להבין ולהשיב בדיבור עם הידע של מודלים לשוניים ענקיים, הכל בחצי שנייה.",
     "d": "Sun, 03 May 2026 07:47:42 +0000",
     "v": 0,
     "l": [
@@ -669,7 +654,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 29,
-    "t": "Xiaomi's open-weight MiMo-V2.5-Pro takes aim at Claude Opus with hours-long autonomous coding\n\nXiaomi's new MiMo-V2.5-Pro nearly matches Anthropic's Claude Opus 4.6 on coding benchmarks while burning 40 to 60 percent fewer tokens, according to the company. The release pushes Xiaomi deeper into the race among Chinese open-weight providers like Deepseek, where the fight is shifting from raw benchmark scores to how cheaply and how long a model can run autonomously on a single task.\nThe article Xiaomi's open-weight MiMo-V2.5-Pro takes aim at Claude Opus with hours-long autonomous coding appea",
+    "t": "ה-MiMo-V2.5-Pro של Xiaomi מתחרה עם Claude Opus במשימות קודינג אוטונומיות שנמשכות שעות\n\nשיאומי הוציאה לשוק את ה-MiMo-V2.5-Pro החדשה שלה, מודל open-weight שמתקרב לביצועי Claude Opus 4.6 בבדיקות קודינג, אבל במחיר הרבה יותר זול - היא צורכת 40 עד 60 אחוז פחות tokens. התחרות בין ספקי ה-open-weight הסינים כמו Deepseek משתנה: כבר לא רק על ציוני בדיקה, אלא על יכולת להריץ משימות קודינג כבדות לשעות ארוכות בצורה עצמאית וחסכונית.",
     "d": "Sun, 03 May 2026 07:24:01 +0000",
     "v": 0,
     "l": [
@@ -687,8 +672,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "robotics"
+      "model"
     ],
     "imp": "low",
     "thumb": "http://the-decoder.com/wp-content/uploads/2026/05/Xiaomi-MiMo-V2-5-Video-Editing-Software.mp4",
@@ -696,7 +680,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 30,
-    "t": "US to bolster missile defense with new contract for space-based, combat-proven interceptors\n\nThe United States is making efforts to bolster layered missile defense. The Space Force Systems...",
+    "t": "ארה״ב חוזקת הגנה מפני טילים עם חוזה חדש לירי מרחפנים מחלל המבוססים על טכנולוגיה מוכחת בקרב\n\nארה״ב משקיעה בשיפור מערכת ההגנה השכבתית נגד טילים, וה-Space Force חתמה על חוזה חדש להפריסת מערכות התקפה מחלל שכבר הוכיחו את עצמן בשדה קרב. זה חלק מהמהלך הרחב של ההנהגה האמריקאית לחזק את יכולות ההגנה האווירית מהחלל, במטרה ליצור רשת הגנה רב-שכבתית שתכסה את כל הטווחים.",
     "d": "Sun, 03 May 2026 07:18:37 +0000",
     "v": 0,
     "l": [
@@ -719,7 +703,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 31,
-    "t": "What is Tokenization Drift and How to Fix It?\n\nA model can behave perfectly one moment and degrade the next—without any change to your data, pipeline, or logic. The root cause often lies in something far more subtle: how your input is tokenized. Before a model processes text, it converts it into token IDs, and even minor formatting differences—like spacing, line breaks, or punctuation—can […]\nThe post What is Tokenization Drift and How to Fix It? appeared first on MarkTechPost.",
+    "t": "מהו Tokenization Drift וכיצד לתקן אותו?\n\nדמיינו מצב שבו המודל שלכם עובד בצורה מושלמת ופתאום מתחיל להתדרדר - גם כשלא שינيתם כלום בנתונים או בקוד. הסיבה המרשימה? זה קשור לכמעט כל דבר - spacing, line breaks, וסימני פיסוק קטנים שמשנים איך המודל מחלק את הטקסט לתוקנים. המאמר הזה חוקר את התופעה של Tokenization Drift וממלא כאן כל החמצונים הנחוצים כדי לתקן זאת עוד הפעם.",
     "d": "Sun, 03 May 2026 07:06:45 +0000",
     "v": 0,
     "l": [
@@ -742,7 +726,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 32,
-    "t": "Same prompt, different morals: how frontier AI models diverge on ethical dilemmas\n\nA new benchmark puts leading language models through 100 everyday ethical scenarios, from data misuse in sales to protocol violations in oncology. Behind the results lies a bigger question: who decides what an AI is allowed to do, and whose ethics does it follow?\nThe article Same prompt, different morals: how frontier AI models diverge on ethical dilemmas appeared first on The Decoder.",
+    "t": "אותו prompt, מוסר שונה: איך מודלי AI ממדרגה ראשונה נבדלים בדילמות אתיות\n\nחוקרים בדקו את המודלים המובילים בעולם דרך 100 תרחישים אתיים מעולם האמת - מנושאי שימוש נתונים במכירות ועד הפרות פרוטוקול בהנקולוגיה. התוצאות חושפות סוגיה גדולה בהרבה: מי בעצם קובע מה מותר ל-AI לעשות, ולמי המוסר שלו מתאימה?\n\nמקור: The Decoder",
     "d": "Sun, 03 May 2026 07:00:50 +0000",
     "v": 0,
     "l": [
@@ -765,7 +749,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 33,
-    "t": "AI chatbot fraud: the ‘gift card’ subcription that may cost you dear\n\nAfter subscribing to the Claude chatbot, mystery payments started to appear on one family’s credit card bill. They are not alone\nDavid Duggan* was so impressed with the ability of the Claude chatbot to answer medical questions and organise family life, that a $20-a-month (£15) subscription seemed like money well spent.\nBut then his wife spotted two $200 payments on his credit card bill for gift cards to use the artificial intelligence tool.\n Continue reading...",
+    "t": "הונאת AI: מנוי 'כרטיס מתנה' שיכול להעלות לכם עלויות כבדות\n\nמשפחה גילתה חיובים מסתוריים של 200 דולר בחשבון האשראי שלהם אחרי שהירשמו ל-Claude - ה-chatbot המשוכלל של Anthropic. מה שהתחיל כ-subscription פשוט של 20 דולר בחודש התגלה כמלכודת הונאה שנשקפת גם לאחרים. נשמע שיש כאן בעיה ברצינות עם תשלומים לא מורשים בעולם ה-AI.",
     "d": "Sun, 03 May 2026 06:00:46 GMT",
     "v": 0,
     "l": [
@@ -791,7 +775,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 34,
-    "t": "1,000 caves in Nottingham puts city on map with largest network in Europe\n\nWith a record number of 1,000 caves discovered beneath the city of Nottingham, the UK...",
+    "t": "1,000 מערות בנוטינגהם: העיר הבריטית בעלת רשת המערות הגדולה בירופה\n\nנוטינגהם זה לא רק העיר של רובין הוד - תחת רחובותיה מסתתרת רשת ענקית של 1,000 מערות, המגדירה אותה כבעלת הרשת הגדולה ביבשת! המערות האלה לא רק סיפור ארכיאולוגי מרתק, הן גם חלק חיוני מהתולדות העירוניות של בריטניה, ושימשו למטרות שונות על פני מאות שנים. מגילוי זה מעמיד את נוטינגהם על המפה כנקודת עניין גיאולוגית וhistorית ייחודית בתמונת העיור האירופית.",
     "d": "Sun, 03 May 2026 05:41:36 +0000",
     "v": 0,
     "l": [
@@ -814,7 +798,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 35,
-    "t": "Luxury car collection hidden inside a forest garage\n\nRussian design studio ATRIUM has completed a private multi-use garage in Moscow. Set within a forested estate, Garage for Car Collection, is a bespoke building for a private collection of luxury and vintage vehicles. The 200-sq-m (2,153-sq-ft) garage is a modern extension to the site, and also features a home gym, office, lounge areas, practical storage, mud room, and ski racks.\nContinue Reading\nCategory: Architecture, Engineering\nTags: sustainable design, Architects, Fusion Garage, Tiny Footpri",
+    "t": "אוסף מכוניות יוקרה מוסתר בתוך מוסך ביער\n\nסטודיו ד-זיין רוסי בשם ATRIUM סיים לבנות מוסך פרטי חכם במוסקבה שמוקף בעצים, שמשמש כמחסן לאוסף רכבים קלאסיים ויוקרתיים של בעלים פרטי. המבנה המודרני בן 200 קמ\"ר לא רק מגן על המכוניות אלא כולל גם חדר כושר, משרד ואזורי רווחה - בעצם בריון מלא שנעלם בטבע. זה הוכחה נחמדה שאפילו פרוייקטים יוקרתיים יכולים להיות סוסטיינבל ומתוכננים בהיגיון.",
     "d": "Sun, 03 May 2026 05:03:00 GMT",
     "v": 0,
     "l": [
@@ -6945,7 +6929,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 291,
-    "t": "Aximote In-Car App\n\nDiscussion\n            |\n            Link",
+    "t": "אפליקציית Aximote לרכב\n\nאפליקציה חדשה שמטרתה להקל על הנסיעה ברכב ולתן למשתמשים שליטה טובה יותר על תכונות הרכב. זה נראה כמו פתרון שיהיה שימושי במיוחד לבעלי רכבים מודרניים שרוצים טכנולוגיה חכמה ונוחה.",
     "d": "2026-04-30T14:04:40.000Z",
     "v": 0,
     "l": [
@@ -9988,7 +9972,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 418,
-    "t": "PandaProbe\n\nDiscussion\n            |\n            Link",
+    "t": "PandaProbe\n\nכלי חדש שנראה מעניין שהוצג ב-Product Hunt, אבל הפרטים המדויקים עדיין לא ברורים לגמרי. מדובר בתוצר שעורר דיון בקהילת ההובי, ויש לעקוב אחריו כדי להבין בדיוק מה הוא מציע. מומלץ לבדוק את הדיון המלא בPH כדי לקבל תמונה שלמה של היכולות שלו.",
     "d": "2026-04-29T16:53:50.000Z",
     "v": 0,
     "l": [
@@ -22428,7 +22412,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 938,
-    "t": "Huddle01 VMs\n\nDiscussion\n            |\n            Link",
+    "t": "Huddle01 VMs\n\nHuddle01 חושפת מכונות וירטואליות חדשות שמעניקות יכולות תקשורת עתيرות לתוך כל אפליקציה. בעזרת הפתרון החדש הזה, מפתחים יכולים להשתלב בקלות יותר תכונות וידיאו וקול עם API פשוט, בלי צורך להתמודד עם הסיבוכיות הטכנית של בניית infrastructrue תקשורת מאפס.",
     "d": "2026-04-25T18:17:26.000Z",
     "v": 0,
     "l": [
@@ -31294,7 +31278,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1312,
-    "t": "Radar\n\nDiscussion\n            |\n            Link",
+    "t": "Radar\n\nנראה שמדובר בדיון סביב פרוג'קט חדש ב-Product Hunt, אבל פרטים מדויקים על מה בדיוק זה Radar עדיין לא ברורים מהתיאור הקצר. אם אתם מחפשים לדעת יותר, כדאי לכם להכנס ישירות לדיון בעמוד המוצר כדי להבין מה קורה כאן. | מקור: Product Hunt",
     "d": "2026-04-23T11:26:09.000Z",
     "v": 0,
     "l": [
@@ -31978,7 +31962,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1340,
-    "t": "Mockin 2.0\n\nDiscussion\n            |\n            Link",
+    "t": "Mockin 2.0\n\nנראה שמדובר בעדכון גדול לכלי Mockin שמשמש למטרות testing ו-mocking. זה כנראה כולל פיצ'רים חדשים שיהפכו את העבודה של מפתחים ל-QA engineers לחלקה יותר. המוצר עלה ל-Product Hunt, מה שאומר שזה ממש טרי וחם מהתנור.",
     "d": "2026-04-23T07:54:41.000Z",
     "v": 0,
     "l": [
@@ -80109,7 +80093,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3366,
-    "t": "Rosentic\n\nDiscussion\n            |\n            Link",
+    "t": "Rosentic\n\nRosentic היא תוצר חדש שהוצג בـ Product Hunt, אבל למרבה הצער פרטים מלאים על מה בדיוק היא עוד לא זמינים. אם אתם סקרנים לדעת יותר, אפשר להשתתף בדיון הקהילה או לבדוק את הלינק המלא בעמוד Product Hunt.",
     "d": "2026-04-09T10:25:31.000Z",
     "v": 0,
     "l": [
