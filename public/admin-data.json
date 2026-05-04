@@ -1,9 +1,9 @@
 {
-  "total": 6631,
+  "total": 6658,
   "translated": 6631,
-  "untranslated": 0,
-  "today": 33,
-  "week": 862,
+  "untranslated": 27,
+  "today": 60,
+  "week": 889,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,25 +19,25 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 467,
+      "total": 471,
       "translated": 467,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "Tom's Hardware",
-      "total": 466,
+      "total": 471,
       "translated": 466,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 304,
+      "total": 308,
       "translated": 304,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 301,
+      "total": 304,
       "translated": 301,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -55,31 +55,31 @@
     },
     {
       "name": "New Atlas",
-      "total": 278,
+      "total": 281,
       "translated": 278,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 225,
+      "total": 226,
       "translated": 225,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "The Decoder",
-      "total": 220,
+      "total": 222,
       "translated": 220,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "The Register",
-      "total": 200,
+      "total": 202,
       "translated": 200,
-      "lastDate": "2026-05-04T08:00:30.000Z"
+      "lastDate": "2026-05-04T15:04:20.000Z"
     },
     {
       "name": "The Guardian AI",
-      "total": 163,
+      "total": 164,
       "translated": 163,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -109,7 +109,7 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 102,
+      "total": 103,
       "translated": 102,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
@@ -157,9 +157,9 @@
     },
     {
       "name": "Nature Machine Intelligence",
-      "total": 26,
+      "total": 27,
       "translated": 26,
-      "lastDate": "2026-04-29T00:00:00.000Z"
+      "lastDate": "2026-05-04T00:00:00.000Z"
     },
     {
       "name": "Financial Post",
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-04T14:30:10.928Z"
+  "generatedAt": "2026-05-04T16:19:34.079Z"
 }
