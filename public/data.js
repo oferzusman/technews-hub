@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Sleek Swiss capsule camp stove adds 35% more power and loses weight\n\nIn 2021, Optimus debuted the Gemini stove, a sleek, uniquely shaped dual-burner stove that split the difference between backpacking and car camping gear. The brand immediately took home several prestigious awards for its design efforts, including an ISPO Award in Europe and an Outdoor Retailer Innovation Award in the US. Now it's doubling down on what makes the Gemini stove great, debuting a Gemini II that packs over a third more power per burner while still managing to drop a couple ounces.\nCon",
+    "t": "תנור קמפינג שוויצרי מהודר עם 35% יותר כוח וקל יותר\n\nאופטימוס חזרה לדרך שלה עם דור שני של תנור ה-Gemini, הכוכב הזוהר של עולם הקמפינג. המודל החדש מביא 35% יותר כוח בכל דוד תוך שהוא מצליח להוריד גם כמה גרמים מהמשקל - וזה כבר הישג בפני עצמו. אם הגרסה הקודמת זכתה בפרסים בינלאומיים על העיצוב שלה, הגרסה II יכולה רק לעשות טוב יותר.",
     "d": "Sun, 03 May 2026 23:04:00 GMT",
     "v": 0,
     "l": [
@@ -27,7 +27,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Largest Viking Age coin hoard ever found in Norway astonishes archaeologists\n\nHailed as a “historic discovery,” metal detectorists led archaeologists to the largest Viking Age hoard...",
+    "t": "הממצא המטבעות הוויקינגי הגדול בהיסטוריה התגלה בנורווגיה וזעזע את החוקרים\n\nבממצא שמתואר כ\"גילוי היסטורי\", חוקרים עם גלאי מתכות הובילו את הארכיאולוגים לאוצר מטבעות ענק מתקופת הווייקינגים בנורווגיה. זה לא סתם עוד ממצא ארכיאולוגי - אנחנו מדברים על הקלף הוויקינגי הגדול ביותר שאי פעם התגלה, וזה משנה בעצם את מה שאנחנו יודעים על התרבות הזו. מקור: Interesting Engineering",
     "d": "Sun, 03 May 2026 21:51:55 +0000",
     "v": 0,
     "l": [
@@ -40,12 +40,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://www.youtube.com/embed/q-hr-Qc4Dz0",
@@ -53,7 +50,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "A Developer’s Guide to Systematic Prompting: Mastering Negative Constraints, Structured JSON Outputs, and Multi-Hypothesis Verbalized Sampling\n\nMost developers treat prompting as an afterthought—write something reasonable, observe the output, and iterate if needed. That approach works until reliability becomes critical. As LLMs move into production systems, the difference between a prompt that usually works and one that works consistently becomes an engineering concern. In response, the research community has formalized prompting into […]\nThe post A Developer’s Guide to Systematic Prompting: Mastering Negative Constraints, Structured JS",
+    "t": "מדריך למפתחים: שליטה בPrompting הסיסטמתי - אילוצים שליליים, JSON מובנה ודגימה מרובת השערות\n\nרוב המפתחים מתייחסים ל-prompting כמו לעניין שניוני - כותבים משהו סביר, בודקים את התוצאה ומשנים אם צריך. השיטה הזו עובדת עד שאתה צריך להיות באמת אמין. כשה-LLMs נכנסים לסביבות ייצור, ההבדל בין prompt שלפעמים עובד לבין prompt שעובד ביציבות הוא כבר עניין הנדסי אמיתי. הקהילית המחקרית כבר התחילה לעשות סדר בתחום - ויש כאן כמה טכניקות חכמות שכל מפתח צריך להכיר.",
     "d": "Sun, 03 May 2026 21:41:48 +0000",
     "v": 0,
     "l": [
@@ -76,7 +73,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Japanese scientists fine-tune molecular flow in nanoreactors to boost catalytic performance\n\nConventional intuition suggests that the most efficient way to accelerate a chemical reaction is to...",
+    "t": "מדענים יפנים משפרים זרימה מולקולרית בתוך ננו-כלים לביצועי קטליזה עדיפים\n\nצוות של חוקרים יפנים חקר איך לשלוט בתנועת מולקולות בתוך ננו-כלים תגובה, וגילה שדרך חדשה בשליטה על הזרימה יכולה להאיץ תגובות כימיות בצורה משמעותית. התגלית הזאת יכולה להיות משחקון חדש לתעשייה הכימית, בייחוד בייצור תרופות וחומרים מתקדמים. החוקרים מגלים שהגיון קונבנציונלי לא תמיד המדרך הטוב ביותר כשמדובר בהאצת תגובות כימיות קטנות מאוד.",
     "d": "Sun, 03 May 2026 21:34:42 +0000",
     "v": 0,
     "l": [
@@ -99,7 +96,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "A Coding Implementation to Explore and Analyze the TaskTrove Dataset with Streaming Parsing Visualization and Verifier Detection\n\nIn this tutorial, we take a deep dive into the TaskTrove dataset on Hugging Face and build a complete, practical workflow to efficiently explore it. Instead of downloading the full multi-gigabyte dataset, we stream it directly and work with individual samples in real time. We begin by setting up the environment and inspecting the raw […]\nThe post A Coding Implementation to Explore and Analyze the TaskTrove Dataset with Streaming Parsing Visualization and Verifier Detection appeared first on Mark",
+    "t": "מדריך מעשי: חקירה ניתוח של מערך הנתונים TaskTrove עם Streaming וכלי ויזואליזציה מתקדמים\n\nמדריך שמראה איך לעבוד עם מערך הנתונים הענק TaskTrove מ-Hugging Face בלי צורך להוריד את כל הגיגה-בייטים - פשוט משדרים את הנתונים ישירות וחוקרים כל דוגמה בזמן אמת. התוכן מכסה הכנת הסביבה, ויזואליזציה חכמה של הנתונים ויכולות verifier detection שנעבדו שלא מדי בבלוגוספירה הישראלית.",
     "d": "Sun, 03 May 2026 21:26:42 +0000",
     "v": 0,
     "l": [
