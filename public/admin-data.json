@@ -1,15 +1,15 @@
 {
-  "total": 6601,
+  "total": 6615,
   "translated": 6598,
-  "untranslated": 3,
-  "today": 3,
-  "week": 832,
+  "untranslated": 17,
+  "today": 17,
+  "week": 846,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 810,
+      "total": 819,
       "translated": 810,
-      "lastDate": "2026-05-01T04:57:56.000Z"
+      "lastDate": "2026-05-03T23:39:06.000Z"
     },
     {
       "name": "Pypi.org",
@@ -25,13 +25,13 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 460,
+      "total": 462,
       "translated": 460,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 302,
+      "total": 303,
       "translated": 302,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -79,7 +79,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 160,
+      "total": 162,
       "translated": 160,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-04T04:57:43.929Z"
+  "generatedAt": "2026-05-04T07:48:36.968Z"
 }
