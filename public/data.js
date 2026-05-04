@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "500 dramas a day: China’s AI factory is churning out titles at an alarming rate\n\nA new AI-generated micro-drama went live on a Chinese streaming platform every 90 seconds in...",
+    "t": "500 דרמות ביום: מפעל ה-AI של סין מייצר תוכן בקצב משוגע\n\nבסין מתחוללת מהפכה של AI בתחום התוכן הטלוויזיוני - כל 90 שניות עולה לשידור דרמה חדשה שנוצרה בעזרת intelligencesummary, מה שמביא ליותר מ-500 סדרות ביום! זה לא רק סתם מספר מרשים - הזה משנה את כללי המשחק בתעשיית הסדרות, כשAI עושה את עבודתו של צוותי כתיבה וייצור שלמים. השאלה הגדולה היא כמובן מה קורה לכל התוכן האנושי כשמכונות כותבות דרמות בקצב הזה.",
     "d": "Mon, 04 May 2026 11:23:21 +0000",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "‘World’s most powerful redox flow battery’ could power 210,000 Swiss homes for a day\n\nIn a quiet corner of northern Switzerland, construction crews are currently digging a hole so...",
+    "t": "סוללת הזרימה הרדוקס החזקה בעולם - יכולה להנים 210,000 בתים שוויצריים למשך יום שלם\n\nבפינה שקטה בצפון שוויץ, הם בונים כרגע סוללת זרימה ענקית שיכולה לאחסן אנרגיה בקנה מידה שלא ראינו קודם. הטכנולוגיה הזאת יכולה להיות משחק חדש לחלוטין בעולם האנרגיה המתחדשת, כי היא פותרת בעיה גדולה - איך לאחסן חשמל מפנלים סולאריים וטורבינות רוח כשהם לא מייצרים בשיא. תוכנו לשמוע יותר על הפרויקט המשוגע הזה שעלול להשנות את דרך שאנחנו מחשבים על אנרגיה ברחבי העולם. *מקור: Interesting Engineering*",
     "d": "Mon, 04 May 2026 11:14:09 +0000",
     "v": 0,
     "l": [
@@ -47,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "Cerebras targets $40 billion valuation in second IPO attempt\n\nAI chip maker Cerebras Systems is heading to the Nasdaq under the ticker CBRS. The IPO roadshow kicks off Monday, with shares targeted between $115 and $125, Reuters reports, citing a person familiar with the matter.\nThe article Cerebras targets $40 billion valuation in second IPO attempt appeared first on The Decoder.",
+    "t": "Cerebras שואפת להערכה של 40 מיליארד דולר בניסיון IPO שני\n\nיצרנית ה-AI chips Cerebras Systems חוזרת לשוק ההון ועומדת לרשום את עצמה בנסדאק תחת הסימול CBRS. הרודשו של ההנפקה מתחיל יום שני עם מחיר יעד של 115 עד 125 דולר למניה - זו כבר הנסיון השני של החברה להשתמר בבורסה. אם ההנפקה תצליח, הערכת החברה תגיע ל-40 מיליארד דולר, מה שמשקף את הביקוש הגובר לשבבי AI יוצרים.",
     "d": "Mon, 04 May 2026 11:11:13 +0000",
     "v": 0,
     "l": [
@@ -62,16 +62,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 4,
-    "t": "US Navy gets 26-foot drone submarine with 1,243 mile-range from Australia\n\nAustralian firm C2 Robotics has delivered a large uncrewed submarine, the Speartooth Large Uncrewed Undersea...",
+    "t": "הצי האמריקני קיבל תת-אנייה דרונים אוסטרלית עם טווח של 1,243 קילומטר\n\nהחברה האוסטרלית C2 Robotics סיפקה לצי האמריקני את ה-Speartooth, תת-אנייה חסרת צוות ענקית שיכולה לטוס לטווח של כמעט 2,000 קילומטר ללא הפסקה. המכשיר הזה, שגדול מ-7 מטר, עשוי להפוך את אופן ה-reconnaissance ותשמורת הימים של הצי, מבלי לסכן חיי לוחמים. זו עוד הוכחה שהטכנולוגיה הישראלית והבינלאומית במשטחי הים (ויתחת) הולכת להשתנות בצורה דרמטית בעוד כמה שנים.",
     "d": "Mon, 04 May 2026 11:04:52 +0000",
     "v": 0,
     "l": [
@@ -95,7 +94,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "SAIL tech lets robots perform human-scale tasks far more quickly\n\nThanks to researchers at Georgia Tech, robots have taken several new steps towards replacing human labor – and not simply for dangerous tasks such as mining the depths of the Earth and exploring the Moon, or difficult tasks such as high-speed mass-assembly of thousands of cars.\nContinue Reading\nCategory: Robotics, Engineering\nTags: Georgia Tech, Georgia Institute of Technology, Humanoid",
+    "t": "טכנולוגיית SAIL מאפשרת לרובוטים לבצע משימות בקנה מידה אנושי הרבה יותר מהר\n\nחוקרים מ-Georgia Tech הצליחו לקדם רובוטים צעד גדול קדימה בכיוון החלפת כוח אדם אנושי - ולא רק למשימות מסוכנות כמו כריית מחנכות או חקירת הירח, אלא גם למשימות מורכבות כמו הרכבה בעלת קצב גבוה של אלפי כלים. הטכנולוגיה החדשה מאפשרת לרובוטים הומנואידים לבצע עבודות שדורשות דיוק וגמישות בהיקף אנושי, בעזרת שימוש בטכניקות AI מתקדמות שמעצימות את היכולות המוטוריות שלהם.",
     "d": "Mon, 04 May 2026 11:03:00 GMT",
     "v": 0,
     "l": [
@@ -110,8 +109,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -119,7 +117,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Physical AI raises governance questions for autonomous systems\n\nGovernance around Physical AI is becoming harder as autonomous AI systems move into robots, sensors, and industrial equipment. The issue is not only whether AI agents can complete tasks. It is how their actions are tested, monitored, and stopped when they interact with real-world systems. Industrial robotics already provides a large base for that discussion. […]\nThe post Physical AI raises governance questions for autonomous systems appeared first on AI News.",
+    "t": "Physical AI מעלה שאלות ממשלתיות על מערכות אוטונומיות\n\nככל שה-AI אוטונומי עובר מעולם הדיגיטל אל הרובוטים, חיישנים וציוד תעשייתי, השאלה כבר לא רק איך המערכות משלימות משימות - אלא איך בעצם מבחנים, מנטרים ועוצרים את הפעולות שלהן בעולם הממשי. התעשיה של הרובוטיקה כבר מהווה בסיס ענק לדיון הזה על כיצד אנחנו צריכים להשגיח על טכנולוגיות שפועלות בתוך מערכות פיזיות. \nמקור: AI News",
     "d": "Mon, 04 May 2026 11:00:00 +0000",
     "v": 0,
     "l": [
@@ -134,18 +132,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics",
-      "funding",
-      "agents"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "AI News"
   },
   {
     "id": 7,
-    "t": "Steam Controller interview full transcript — Valve programmer and engineer discuss design, latency, prototyping, and the joys of not having a kernel driver\n\nValve sat down with Tom's Hardware to discuss the new Steam Controller, its design, dealing with latency, and why you really need Steam to use it.",
+    "t": "ראיון מלא עם Steam Controller — מהנדסי ואלף דנים בעיצוב, latency והשמחה שלא צריך kernel driver\n\nואלף שבה לדבר עם Tom's Hardware על ה-Steam Controller החדש שלהם, וחקרה את כל הטכניקות מאחורי העיצוב, הדרכים להתמודד עם latency, וגם למה בעצם אתה צריך את Steam כדי שהחומצה הזו תעבוד כמו שצריך.",
     "d": "Mon, 04 May 2026 11:00:00 +0000",
     "v": 0,
     "l": [
@@ -168,7 +163,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "AI chipmaker Cerebras targets $3.5 billion raise in IPO\n\nThe share sale could give the company a valuation of up to $24.5 billion, compared with $23 billion as of February.",
+    "t": "Cerebras, יצרנית שבבי AI, מכוונת להגיוס של 3.5 מיליארד דולר בIPO\n\nחברת הטכנולוגיה שמתמחה בשבבים לבינה מלאכותית מכניסה אותנו למרוץ של ערכמנות ענקית - הם יכולים להגיע לשווי שוק של 24.5 מיליארד דולר, עלייה משמעותית מ-23 מיליארד שלהם בפברואר. זהו תזוזה גדולה בבורסה שמעידה על הביקוש הממשי לחומרה מתקדמת של AI בתקופה זו שבה כולם רצים אחרי נושא הבינה המלאכותית.",
     "d": "Mon, 04 May 2026 10:45:24 GMT",
     "v": 0,
     "l": [
@@ -183,16 +178,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 9,
-    "t": "Scientists control nuclear spin in hydrogen with ice, unlock quantum applications\n\nScientists at the University of Maryland have successfully demonstrated the control of the nuclear spin...",
+    "t": "מדענים שלטו בספין גרעיני של מימן בעזרת קרח וביירו דלתות לאפליקציות קוונטיות\n\nמחקר חדש מאוניברסיטת מרילנד הראה שניתן לשלוט בספין גרעיני של אטומי מימן בשיטה מעניינת - בעזרת קרח רגיל. התגלית הזו עשויה להיות משחק חדש עבור מחשוב קוונטי וטכנולוגיות קוונטיות שונות שתלויות בשליטה דקיקה על מצבי חלקיקים קטנטנים.",
     "d": "Mon, 04 May 2026 10:45:12 +0000",
     "v": 0,
     "l": [
@@ -215,7 +209,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Crushing shortages have pushed long-term supply agreements for SSDs and HDDs to record five years — large customers are signing large contracts\n\nDemand for storage devices is so high that large customers are willing to sign up to five-year long-term supply agreements, according to Sandisk, Seagate, and Western Digital.",
+    "t": "המחסור הגדול: חברות טכנולוגיה גדולות חותמות על הסכמי אספקה ל-SSD ו-HDD למשך חמש שנים\n\nהביקוש לכונני אחסון כל כך גבוה עכשיו שאפילו חברות ענק כמו Sandisk, Seagate ו-Western Digital מעדיפות להציע הסכמים ארוכי טווח - וחברות גדולות באמת מוכנות לחתום עליהם. זה בעצם גיור של מחסור קשה בשוק שדוחף את כולם לתחזוקת אספקה יציבה לטווח ממש ארוך.",
     "d": "Mon, 04 May 2026 10:30:00 +0000",
     "v": 0,
     "l": [
@@ -238,7 +232,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "Democrats are counting on Trump’s unpopularity to save them. It won’t | Osita Nwanevu\n\nYes, Trump might carry them to victory in the midterms. But he can’t carry them much longer – especially not in the 2028 elections\nAll told, Democrats already seem as though they’re headed for a great midterm election. Voters already troubled by the state of the economy now have the impacts of Donald Trump’s teeter-tottering war in Iran to contend with, and polls tell us they aren’t happy ⁠– per poll averages from the analyst Nate Silver, nearly 55% of Americans oppose the war in Iran, 61% of Am",
+    "t": "דמוקרטים מסתמכים על חוסר הפופולריות של טראמפ כדי להצילם. זה לא יעבוד | Osita Nwanevu\n\nכן, טראמפ אולי יוביל את הדמוקרטים לניצחון בבחירות הביניים, אבל הוא לא יוכל לשאת אותם הרבה יותר – במיוחד לא בבחירות 2028. הבחורים כבר נראים שהם בדרך להצליח בבחירות הביניים, אבל בעיית הכלכלה והמלחמה בעניין איראן של טראמפ משפיעה על הבוחרים – כמעט 55% מהאמריקאים מתנגדים למלחמה בעניין איראן ו-61% כועסים על המצב הנוכחי.",
     "d": "Mon, 04 May 2026 10:00:20 GMT",
     "v": 0,
     "l": [
@@ -261,7 +255,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Google made agentic AI governance a product. Enterprises still have to catch up.\n\nTwo weeks ago at Google Cloud Next ’26 in Las Vegas, Google did something the enterprise AI industry has been dancing around for the better part of two years: it made agentic AI governance a native product feature, not an afterthought. The centrepiece announcement was the Gemini Enterprise Agent Platform, pitched as the successor to Vertex AI […]\nThe post Google made agentic AI governance a product. Enterprises still have to catch up. appeared first on AI News.",
+    "t": "גוגל הפכה את הגבולות של AI אג'נטי לפיצ'ר מוצר - והעסקים עדיין צריכים להדביק\n\nגוגל פשוט עשתה משהו שתעשיית הAI לעסקים הימנעה ממנו שנתיים - היא הכניסה agentic AI governance כתכונה אדומה וקובעת בפלטפורמה החדשה Gemini Enterprise Agent Platform, שמתוכננת להחליף את Vertex AI. הבעיה היא שרוב העסקים עדיין לא יודעים איך בעצם להשתמש בזה, וצריכים להתחיל להבין איך מנהלים וסוקרים agentim אלה שמטייסים בעצמם החלטות.",
     "d": "Mon, 04 May 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -288,7 +282,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "AMD Ryzen 9 PRO 9965X3D spotted on Passmark — company's first PRO chip with 3D V-Cache also bumps the lineup up to 16 cores\n\nA new Ryzen PRO series processor has appeared on PassMark with just three samples, but a very promising spec sheet. The Ryzen 9 PRO 9965X3D is a 16-core Zen 5 chip with 3D V-Cache, making it the first of its kind. It performs quite closely to the standard 9950X3D it's based on, but likely has a lower TDP.",
+    "t": "AMD Ryzen 9 PRO 9965X3D התגלה ב-Passmark — המעבד PRO הראשון של החברה עם 3D V-Cache וכמה בונוס של 16 ליבות\n\nמעבד חדש בסדרת Ryzen PRO הופיע ב-Passmark עם ספק צי קטן אבל גיליון מפרט מאוד מרשים. ה-Ryzen 9 PRO 9965X3D הוא שבב Zen 5 עם 16 ליבות ו-3D V-Cache, וזה הראשון מסוגו בעולם PRO. המעבד מתפקד בצורה קרובה מאוד ל-9950X3D הרגיל שעליו הוא מבוסס, אבל כנראה עם TDP נמוך יותר - וזה חדשות טובות לחברות שמחפשות כוח חישוב עם צריכת חשמל יותר מתונה.",
     "d": "Mon, 04 May 2026 10:00:00 +0000",
     "v": 0,
     "l": [
@@ -303,8 +297,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/UfyH6da46RSyvJAPCQfffE-1280-80.jpg",
@@ -312,7 +305,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "OpenAI says human attention is the bottleneck, so it built a system to let agents manage themselves\n\nOpenAI's new Symphony spec flips the AI coding workflow on its head: instead of developers babysitting multiple Codex sessions, agents pull their own tickets straight from Linear and run until the job is done.\nThe article OpenAI says human attention is the bottleneck, so it built a system to let agents manage themselves appeared first on The Decoder.",
+    "t": "OpenAI טוען שתשומת לב אנושית היא הצוואר הצר, אז הם בנו מערכת שמאפשרת לאגנטים להנהל את עצמם\n\nOpenAI חשפה את Symphony - מערכת חדשה שמהפכת את דרך העבודה של מפתחים עם AI. במקום שמשתמשים יישגחו על מודלים שפועלים במקביל, agents חכמים יכולים עכשיו לתפוס tickets ישירות מLinear ולהריץ עד שהעבודה מסתיימת לגמרי, בלי שצריך להם בני אדם להנחות אותם בכל צעד. זה יותר מעובדה של אוטומציה - זה כמו שתן לAI לעבוד בעצמאות.",
     "d": "Mon, 04 May 2026 09:35:53 +0000",
     "v": 0,
     "l": [
@@ -339,7 +332,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "World’s largest single-unit floating wind turbine installed, could power 24,000 homes\n\nChina has installed the world’s largest floating offshore wind turbine, taking a big step forward...",
+    "t": "התקנת טורבינת רוח צפה ענקית בעולם - תוכלה להנעות 24,000 בתים\n\nסין הציבה את טורבינת הרוח הצפה הגדולה בעולם, ובעזרתה יוכלו להנעות עד 24 אלף בתים. זה צעד ענק קדימה בתחום האנרגיות הנדלקות, וזה מראה שהטכנולוגיה הזו סוף סוף מגיעה למודל שכזה שאפילו סין משקיעה בו בגדול. יותר מעניין - הטורבינות הצפות האלה פותחות אפשרויות חדשות לגדול אנרגיה ממקומות שלא ניתן להשתמש בהם למטרות אחרות.",
     "d": "Mon, 04 May 2026 08:18:10 +0000",
     "v": 0,
     "l": [
@@ -362,7 +355,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "How TeamViewer ONE transforms IT operations from firefighting to autopilot\n\nForget \"have you tried turning it off and on again?\" Agentic AI support systems now seek and destroy tech issues before they're a problem. Sponsored Feature  Most IT teams know how quickly they can fix things when they break. This means they can usually tell you their mean time to resolution (MTTR) for helpdesk tickets down to the minute.…",
+    "t": "איך TeamViewer ONE הופכת את ניהול IT מ'כיבוי שריפות' להנהלה אוטומטית\n\nשכחו מ'יש ניסיתם לכבות והדליק קצת'? מערכות AI חדשות כמו TeamViewer ONE למעשה מוצאות ותוקעות בעיות טכניות עוד לפני שהן בכלל קורות. במקום שצוותי IT יספיקו להגיב למקרים דחופים, הם יכולים כעת להיות בעמדת הגנה - דוגמה מושלמת של איך Agentic AI משנה את המשחק בתחום העזרה הטכנית.",
     "d": "2026-05-04T08:00:30.000Z",
     "v": 0,
     "l": [
@@ -386,7 +379,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "New passive ultrasonic sensors track motion without electricity or batteries\n\nResearchers at the Georgia Institute of Technology have built a motion and contact sensor that...",
+    "t": "חיישני אולטרסוני פסיביים חדשים עוקבים אחר תנועה ללא חשמל או סוללות\n\nחוקרים מהטכניון של ג'ורג'יה פיתחו חיישן תנועה ומגע שלא צריך כלל אנרגיה להפעלה - וזה כנראה משנה משהו בעולם של IoT וחיישנים חכמים. הטכנולוגיה משתמשת בגלי אולטרסוני פסיביים כדי לתפוס תנועה, מה שאומר שאפשר להשתמש בה במקומות שבהם לא אפשר לשנות סוללות או להשקיע בתשתיות חשמל. סיטואציה די מעניינת למערכות ניטור חכמות שצריכות להיות ממש לא תלויות.",
     "d": "Mon, 04 May 2026 06:56:41 +0000",
     "v": 0,
     "l": [
@@ -409,7 +402,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "Wikipedia founder brands Australia’s social media ban an ‘unmitigated disaster’ and an ‘embarrassment’\n\nJimmy Wales remembers a toxic internet even before social media and says AI is ‘not a disaster’ for the free – and freely edited - online encyclopaedia\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nWikipedia’s founder, Jimmy Wales, has branded the Australian social media ban an “unmitigated disaster” and an “embarrassment” that is teaching kids to accept surveillance from tech companies when they go online.\nThe online encycl",
+    "t": "מייסד ויקיפדיה: האיסור של אוסטרליה על מדיה חברתית הוא 'אסון ביעור' ו'שפלות'\n\nג'ימי וויילס, מייסד ויקיפדיה, התנפל על החוק החדש של אוסטרליה שאוסר על רשתות חברתיות לקטינים, וקרא לו 'אסון ביעור' שמלמד ילדים להשתעבד לפיקוח של חברות טק. וויילס טוען שהעניין הזה לא מסתכן בוויקיפדיה עצמה, ולמעשה הוא מעלה נקודות חיוביות על ה-AI בהקשר של אנציקלופדיה חופשית שנערכת בידי הקהל.",
     "d": "Mon, 04 May 2026 06:49:38 GMT",
     "v": 0,
     "l": [
@@ -424,16 +417,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/7946d2a8f02eb3a4b2dd2009f98e6cab79215463/0_0_3167_2535/master/3167.jpg?width=140&quality=85&auto=format&fit=max&s=df3bdada41301bcc77bb8e622519ae0b",
     "source": "The Guardian AI"
   },
   {
     "id": 19,
-    "t": "Flaws in Kenya’s AI-driven health reforms driving up costs for the poorest\n\nExclusive: amid unrest, President William Ruto promised to give all Kenyans access to healthcare. But the algorithm favours the rich, an investigation has found\n\n\r\n An AI system used to predict how much Kenyans can afford to pay for access to healthcare, has systemically driven up costs for the poor, an investigation has found.\nThe healthcare system being rolled out across the country, a key electoral promise of President William Ruto, was launched in October 2024 and intended to replace Kenya’s",
+    "t": "באגים במערכת הבריאות AI של קניה מעלים עלויות עבור העניים ביותר\n\nחקירה בלעדית חשפה שה-algorithm שפיתחה קניה לחיזוי יכולת התשלום של אזרחים בעבור שירותי בריאות, למעשה מעלה עלויות דווקא לעשירים בכיסם בקרב העדר יכולת להציע - וזה בדיוק ההפך מהמטרה המקורית של הנשיא Ruto. המערכת שהושקה באוקטובר 2024 אמורה היתה להביא שוויון בגישה לבריאות, אבל במציאות היא עוזרת בעיקר לעשירים.",
     "d": "Mon, 04 May 2026 06:00:16 GMT",
     "v": 0,
     "l": [
@@ -446,13 +438,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/2f67d40cd03693e44b4894f64d22fe9ee81cb5fa/301_0_4806_3845/master/4806.jpg?width=140&quality=85&auto=format&fit=max&s=578b17a54f4acc3afb06b05b302491b3",
@@ -460,7 +448,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "Denmark faces data center reckoning as power grid overwhelmed by surging demand\n\nThe data center industry is facing a reckoning as governments around the world consider imposing limits on the growth of the power-hungry facilities.",
+    "t": "דנמרק מתמודדת עם משבר מרכזי נתונים כשרשת החשמל מתעלפת מהביקוש\n\nתעשיית מרכזי הנתונים עומדת בפני רגע של אמת - ממשלות בעולם שוקלות לראשונה להטיל מגבלות על גדילת המתקנים שזוללים חשמל. דנמרק והמדינות האחרות מגלות שה-AI ברוק זהב הזה דורש תמורה במחיר - ורשתות החשמל שלנו פשוט לא עמידות בקצב הזה.",
     "d": "Mon, 04 May 2026 05:00:01 GMT",
     "v": 0,
     "l": [
@@ -483,7 +471,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "German firm to deliver Romania’s first hydrogen-powered train to boost decarbonization effort\n\nA German company is set to deliver Romania’s first hydrogen-powered train fleet. Siemens Mobility has...",
+    "t": "חברה גרמנית תספק את הרכבת הימנית הראשונה של רומניה כדי להגביר את מאמצי הטיהור\n\nסיימנס מוביליטי עומדת לספק לרומניה את קfleet הרכבות הימניות הראשון שלה, במהלך שיוטל בעמוד הזמנים האירופי לעבור ירוק. זו כבר לא בדיוני - רומניה מחליפה כאן את הדיזל בהידרוגן כדי להפחית פליטות ולשמור על הסביבה, בדיוק כמו שאנחנו רוצים לעשות גם בישראל.",
     "d": "Mon, 04 May 2026 04:31:46 +0000",
     "v": 0,
     "l": [
@@ -506,7 +494,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "Five Eyes spook shops warn agentic is too wonky for rapid rollout\n\nPrioritize resilience over productivity, say CISA, NCSC and their friends from Oz, NZ, Canada Information security agencies from the nations of the Five Eyes security alliance have co-authored guidance on the use of agentic AI that warns the technology will likely misbehave and amplifies organizations’ existing frailties, and therefore recommend slow and careful adoption of the tech.…",
+    "t": "סוכנויות המודיעין של חמש העיניים מזהירות: AI אוטונומי עדיין בשלב 'תקלות'\n\nסוכנויות הסייבר מהבריטים, האמריקנים והחברים שלהם מאוסטרליה וקנדה פרסמו הנחיות משותפות שמזהירות שה-AI האוטונומי עדיין לא מוכן לשימוש נרחב - הטכנולוגיה חושפת ומגבירה בעיות אבטחה בארגונים. ההמלצה? לעזוב לעת עתה את הרעיון להטיל עליו משימות קריטיות והתמקד בבטיחות על פני מהירות.",
     "d": "2026-05-04T02:35:29.000Z",
     "v": 0,
     "l": [
@@ -521,9 +509,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -531,7 +517,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "Just in time for Labour Day, China makes it illegal to fire humans if AI takes their jobs\n\nPLUS: Samsung cashes in on RAM prices; Booze from space fetches huge price; China's hyperscalers surge A Chinese court has ruled that it’s illegal to replace human workers with AI.…",
+    "t": "בדיוק לפני יום העבודה - סין הופכת הכנסת עובדים בגלל AI לבלתי חוקית\n\nסין קיבלה החלטה משפטית מכרעת: חברות לא יכולות להעיף עובדים כדי להחליף אותם ב-AI - וזה שינוי גדול בעולם המודרני. בנוסף, סמסונג מרוויחה מהשערים המטורפים של זכרון RAM, והייצורנים הסיניים הענקיים (hyperscalers) משפרים את הביצועים שלהם. וכן, יש גם סיפור משונע על אלכוהול שטס לחלל והנמכר בנקוביות...",
     "d": "2026-05-04T00:33:04.000Z",
     "v": 0,
     "l": [
@@ -554,7 +540,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 24,
-    "t": "Watch: Sony's insane autonomous robot shows off 'superhuman' skills\n\nFlying under the radar of robot hype, Sony AI's Ace has shown off its rapid-speed learning abilities that are seriously remarkable, displaying powerful split-second decision-making while taking on some of the best table tennis players – and winning.\nContinue Reading\nCategory: Robotics, Engineering\nTags: Sony, Sport, Autonomous, Self-Learning, Robotic construction",
+    "t": "צפו: הרובוט האוטונומי המטורף של סוני מציג כישורים 'אנושיים על'\n\nסוני AI השיקה את Ace, רובוט שמסוגל ללמוד בקצב מדהים ולקבל החלטות בחלק משנייה - והוא כל כך טוב בטניס שולחן שהוא למעשה מנצח שחקנים אנושיים מומחים. זה לא רק מזה מעניין, הטכנולוגיה שמאחוריו מראה עד כמה רובוטיקה וAI התקדמו בעשור האחרון. המתחרה החדש של סוני עוד לא צף תחת רדאר של כל ה-hype סביב רובוטים, אבל זה בהחלט שווה לעקוב אחריו.\n\nמקור: New Atlas",
     "d": "Mon, 04 May 2026 00:03:00 GMT",
     "v": 0,
     "l": [
@@ -569,8 +555,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -578,7 +563,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "Aaavatar\n\nDiscussion\n            |\n            Link",
+    "t": "Aaavatar\n\nפרויקט חדש שהופיע בחדשות הטק - Aaavatar. זה נראה כמו משהו קשור לאוואטרים או אפליקציית AI שמייצרת תמונות פרופיל, אבל בלי פרטים מדויקים על המוצר, קשה לתת עוד פרטים. אם אתם מעוניינים, אתם יכולים להשתתף בדיון בקהילה או ללחוץ על הקישור לתוכן המלא ב-Product Hunt.",
     "d": "2026-05-03T23:39:06.000Z",
     "v": 0,
     "l": [
@@ -880,7 +865,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 38,
-    "t": "Dropy\n\nDiscussion\n            |\n            Link",
+    "t": "דרופי\n\nאנחנו מדברים על Dropy, מוצר חדש שהופיע בProduct Hunt. זה נראה כמו פתרון שווה לשים לב אליו, אבל הפרטים הספציפיים עדיין לא ברורים לנו. אם אתה חוקר מוצרים חדשים בתחום, זה בהחלט ראוי בדיקה.",
     "d": "2026-05-03T17:22:54.000Z",
     "v": 0,
     "l": [
@@ -1960,7 +1945,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 84,
-    "t": "Flowly\n\nDiscussion\n            |\n            Link",
+    "t": "Flowly\n\nנראה שיש כאן משהו חדש בשם Flowly שהופיע בProduct Hunt, אבל הפרטים די דלים. לפי מה שאנחנו רואים, זה נראה כמו כלי או פלטפורמה כלשהי שעוד בשלבי הדיון ופיתוח. כדי להבין בדיוק מה זה עושה, צריך להיכנס לקישור המלא בProduct Hunt.",
     "d": "2026-05-03T00:13:34.000Z",
     "v": 0,
     "l": [
@@ -2813,7 +2798,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 120,
-    "t": "Manex\n\nDiscussion\n            |\n            Link",
+    "t": "מאנקס\n\nנראה שזה עוד כלי טכנולוגי שעלה ל-Product Hunt, אבל הפרטים על מה בדיוק מאנקס עושה קצת ערומים כאן. אם אתם יודעים משהו על הכלי הזה, בואו נשמע בדיון!",
     "d": "2026-05-02T10:38:25.000Z",
     "v": 0,
     "l": [
@@ -3530,7 +3515,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 150,
-    "t": "Panels Store\n\nDiscussion\n            |\n            Link",
+    "t": "Panels Store\n\nנראה שמדובר בפלטפורמה או שירות חדש שעלה ל-Product Hunt, אבל הפרטים עדיין מעט מעורפלים. אם אתם מחפשים מידע נוסף, כדאי להכנס ישירות לדיון בקהילה או ללחוץ על הקישור של המוצר.",
     "d": "2026-05-01T21:00:27.000Z",
     "v": 0,
     "l": [
@@ -6141,7 +6126,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 258,
-    "t": "Regulus by Cumbuca\n\nDiscussion\n            |\n            Link",
+    "t": "Regulus של Cumbuca\n\nנראה שמדובר בכלי או שירות חדש שהוצג בפורום Product Hunt, אבל הפרטים עדיין לא ברורים לחלוטין. אם אתם מעוניינים להבין מה זה בדיוק, כדאי לכם להיכנס לדיון ישירות בקישור כדי לקבל עדכון מהקהילה. מקור: Product Hunt",
     "d": "2026-04-30T22:35:10.000Z",
     "v": 0,
     "l": [
@@ -35265,7 +35250,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1479,
-    "t": "Mindra\n\nDiscussion\n            |\n            Link",
+    "t": "Mindra\n\nנראה שמדובר בכלי או פלטפורמה חדשה שעוד לא חשפנו לכם בפרטים מלאים, אבל היא כבר גוררת דיונים בקהילת Product Hunt. אם אתם עוקבים אחרי סטארטאפים חדשים בתחום ה-AI או טכנולוגיה, זה אחד המוקדים החמים שכדאי לעקוב אחריו בימים הקרובים.",
     "d": "2026-04-22T16:34:27.000Z",
     "v": 0,
     "l": [
@@ -46028,7 +46013,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 1934,
-    "t": "Replyke V7\n\nDiscussion\n            |\n            Link",
+    "t": "Replyke V7\n\nReplyke השיקה את הגרסה השביעית שלה, והיא נראית שיפור משמעותי לעוד טיפה בדרכים של AI וחיסול המכות של המלחמה הדיגיטלית. לפי מה שאנחנו מבינים, התוצר הזה מתמקד בעזרה לעבודות שהן מסובכות והוא גם עוזר לחברות לממן כספים בצורה יותר חכמה.",
     "d": "2026-04-20T05:28:08.000Z",
     "v": 0,
     "l": [
@@ -59558,7 +59543,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2504,
-    "t": "Visitor Profiles and Timeline by Croct\n\nDiscussion\n            |\n            Link",
+    "t": "פרופילי מבקרים וציר הזמן של Croct\n\nCroct שוק בטול חדש שמאפשר לאתרים להבין טוב יותר את המבקרים שלהם דרך פרופילים מפורטים וציר זמן אינטראקטיבי. הכלי הזה עוזר למפתחים וחברות לפרסום לאופטימיזציה של חוויית המשתמש בהתאם לנתונים בזמן אמת. עוד פלטפורמה שמנסה להוסיף קצת AI-magic למיקום האתר שלכם.",
     "d": "2026-04-15T20:00:46.000Z",
     "v": 0,
     "l": [
