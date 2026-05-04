@@ -1,7 +1,7 @@
 {
   "total": 6658,
-  "translated": 6631,
-  "untranslated": 27,
+  "translated": 6657,
+  "untranslated": 1,
   "today": 60,
   "week": 889,
   "sources": [
@@ -20,25 +20,25 @@
     {
       "name": "Interesting Engineering",
       "total": 471,
-      "translated": 467,
+      "translated": 471,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "Tom's Hardware",
       "total": 471,
-      "translated": 466,
+      "translated": 471,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "CNBC Tech",
       "total": 308,
-      "translated": 304,
+      "translated": 307,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "Ars Technica",
       "total": 304,
-      "translated": 301,
+      "translated": 304,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -56,31 +56,31 @@
     {
       "name": "New Atlas",
       "total": 281,
-      "translated": 278,
+      "translated": 281,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "TechCrunch AI",
       "total": 226,
-      "translated": 225,
+      "translated": 226,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "The Decoder",
       "total": 222,
-      "translated": 220,
+      "translated": 222,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "The Register",
       "total": 202,
-      "translated": 200,
+      "translated": 202,
       "lastDate": "2026-05-04T15:04:20.000Z"
     },
     {
       "name": "The Guardian AI",
       "total": 164,
-      "translated": 163,
+      "translated": 164,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -110,7 +110,7 @@
     {
       "name": "MIT Technology Review",
       "total": 103,
-      "translated": 102,
+      "translated": 103,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -158,7 +158,7 @@
     {
       "name": "Nature Machine Intelligence",
       "total": 27,
-      "translated": 26,
+      "translated": 27,
       "lastDate": "2026-05-04T00:00:00.000Z"
     },
     {
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-04T16:19:34.079Z"
+  "generatedAt": "2026-05-04T17:59:11.293Z"
 }

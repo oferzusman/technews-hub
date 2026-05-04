@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Bret Taylor's Sierra raises nearly $1 billion months after last capital push\n\nSierra's $950 million Series E funding round was led by Tiger and Google's GV, with participation from Benchmark, Sequoia, Greenoaks and others.",
+    "t": "סיירה של ברט טיילור גייסה כמעט מיליארד דולר חודשים לאחר סבב הון קודם\n\nהסטארטאפ גייס 950 מיליון דולר בסבב Series E בהנהגת Tiger וGV של גוגל, עם השתתפות של Benchmark, Sequoia וGreenOaks. זה אומר שסיירה, שמתמחה ב-AI לניהול מכירות וקשרי לקוחות, עולה בקצב מטורף ומושכת כסף מהגדולים בתעשייה כמו זה אין מחר. מעניין לראות שהם חזרו לשוק כל כך מהר עם סבב הון כזה거대 - הצריך לפחות על מה הם חושבים לתוכנית הבאה.",
     "d": "Mon, 04 May 2026 15:08:32 GMT",
     "v": 0,
     "l": [
@@ -14,21 +14,18 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
       "news",
-      "model",
       "funding"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 2,
-    "t": "Shadow IT has given way to shadow AI. Enter AI-BOMs\n\n'If you don't have visibility, you can't understand what to protect' When it comes to securing enterprise supply chains, now heavily infused with AI applications and agents, a software bill of materials (SBOM) no longer provides a complete inventory of all the components in the environment. Enter AI-BOMs.…",
+    "t": "Shadow AI החליף את Shadow IT - והנה AI-BOMs\n\nאם אתה לא רואה מה קורה בתשתית שלך, אתה לא יכול להגן עליה כמו שצריך. ב-enterprise בימים אלה, כשAI agents וapplications רצים בכל מקום, ה-SBOM הישן (Software Bill of Materials) כבר לא מספיק - צריך AI-BOM שיתן מלא visibility על כל הרכיבים וה-AI components שמותקנים בסביבה. זה הפתרון החדש לבעיית ה-Shadow AI שגדלה כמו פטריות בארגונים.",
     "d": "2026-05-04T15:04:20.000Z",
     "v": 0,
     "l": [
@@ -52,7 +49,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "AI inference just plays by different rules\n\nWhy no cloud storage architecture was designed for what agentic AI is about to demand Partner Content  Nvidia CEO Jensen Huang recently declared that we are entering the era of \"AI factories,\" where the primary output of the global tech economy isn't software, it's intelligence. He's right. But while the world is obsessing over GPU clusters and trillion-parameter models, a massive, silent crisis is brewing further down the stack in your AWS, Azure and Google Cloud environments.…",
+    "t": "AI Inference משחק לפי כללים אחרים\n\nג'נסן הואנג מנVIDIA הכריז שאנחנו נכנסים לעידן של 'AI factories', אבל יש בעיה ענקית שכולם מתעלמים ממנה - ארכיטקטורות Cloud storage קיימות פשוט לא מוכנות להתמודד עם הדרישות של Agentic AI. בזמן שהעולם ממוקד על GPU clusters, משהו גדול מתרחש בשקט בתוך AWS, Azure ו-Google Cloud שלכם.",
     "d": "2026-05-04T15:00:13.000Z",
     "v": 0,
     "l": [
@@ -83,7 +80,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "Musk texted OpenAI's Brockman about settlement two days before trial began\n\nElon Musk co-founded OpenAI in 2015 and sued the company, President Greg Brockman and CEO Sam Altman in 2024.",
+    "t": "מאסק שלח הודעה לברוקמן מ-OpenAI על הסכם פשרה יומיים לפני תחילת המשפט\n\nאלון מאסק, שהקים את OpenAI בשנת 2015, הגיש תביעה נגד החברה, נשיא גרג ברוקמן ו-CEO סם אלטמן בשנת 2024. בהתפתחות הדרמטית, עולה כי מאסק פנה לברוקמן בהודעת טקסט בדקות האחרונות לפני שהמשפט הקשה בין הצדדים התחיל - ניסיון אחרון לפשרה בעימות שהשתלח לפני שנפתחו הדלתות של בית המשפט.",
     "d": "Mon, 04 May 2026 14:46:55 GMT",
     "v": 0,
     "l": [
@@ -109,7 +106,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "CISA flags actively exploited ‘Copy Fail’ Linux kernel flaw enabling root takeover across major distros — unpatched systems may remain vulnerable to attack\n\nCISA warns of the actively exploited “Copy Fail” Linux flaw (CVE-2026-31431), enabling root access, with a public exploit released before patches were ready.",
+    "t": "CISA מעלה אזהרה על פרצת Linux קריטית 'Copy Fail' שמאפשרת השתלטות root על סביבות ליניוקס עיקריות\n\nהסוכנות הסייבר האמריקאית CISA זורעת פיסת חרדה: יש פרצה חדשה בליניוקס (CVE-2026-31431) שנחקרת כבר בפעולה, והיא מאפשרת לתוקף להשיג הרשאות root מלאות על המערכת. הבעיה הגדולה? exploit ציבוררי כבר התפזר לרשת עד שחברות ההפצה הצליחו להוציא תיקונים - אז יש הרבה מערכות לא מעודכנות שעדיין בסכנה.",
     "d": "Mon, 04 May 2026 14:36:47 +0000",
     "v": 0,
     "l": [
@@ -124,8 +121,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/Nhs4yvdLbHSMdgjnZmv4wn-1280-80.jpg",
@@ -133,7 +129,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6,
-    "t": "Three-bedroom tiny house makes space for comfortable family living\n\nDesigning a tiny house for a couple is one thing, but creating a home on wheels for an entire family is another challenge entirely. The Soma addresses this with a remarkably spacious layout that packs in three bedrooms and a large open living area.\nContinue Reading\nCategory: Tiny Houses, Outdoors\nTags: Building and Construction, Tiny Footprint, Micro-House, House, Home",
+    "t": "בית זעיר עם שלוש חדרי שינה - פתרון חכם למשפחה שלמה\n\nבית על גלגלים שמכניס שלוש חדרי שינה וסלון ענק בתוך שטח מינימלי? זה בדיוק מה שהבית Soma מביא לשולחן, ומוכיח שאתה לא צריך להקריב נוחות כדי לחיות קטן. הדיזיין הזה שובר את כל הקדימות של בתים זעירים ומציע פתרון אמיתי למשפחות שרוצות לברוח מהנורמה.",
     "d": "Mon, 04 May 2026 14:30:00 GMT",
     "v": 0,
     "l": [
@@ -156,7 +152,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Intel's Arc Pro B70 workstation GPU with 32GB of VRAM gets tested in games — Roughly twice as fast as Arc B580 on average, beats RTX 5060 Ti in some titles\n\nIn a new review for the Arc Pro B70, the workstation GPU performs rather well across five games tested at 1440p resolution. On average, it loses to the RTX 5060 Ti 16GB in traditional raster but beats it in ray tracing. Overall, the B70 was only 2.9% behind the 5060 Ti in all games when you average out both RT and raster.",
+    "t": "Intel Arc Pro B70 - GPU עם 32GB זיכרון שהוא כמעט פי 2 יותר מהיר מ-B580 וגם מנצח את RTX 5060 Ti בכמה משחקים\n\nבדיקות חדשות של ה-Arc Pro B70 מראות שה-GPU של אינטל עדיין לא הגיע לאנביידיה מבחינת ביצועים כלליים, אבל הוא כמעט שם - הוא מפסיד רק 2.9% לממתחריו RTX 5060 Ti כשמחברים את כל התוצאות. אלו חדשות טובות בעיקר בשביל מי שצריך ray tracing, כי ב-B70 הוא בעצם עולה על הנווידיה בתחום הזה.",
     "d": "Mon, 04 May 2026 14:22:09 +0000",
     "v": 0,
     "l": [
@@ -182,7 +178,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "OpenAI raises over $4 billion for new enterprise deployment venture\n\nOpenAI has raised more than $4 billion for a new joint venture called \"The Deployment Company,\" according to Bloomberg. \nThe article OpenAI raises over $4 billion for new enterprise deployment venture appeared first on The Decoder.",
+    "t": "OpenAI גייסה למעלה מ-4 מיליארד דולר לפרויקט חדש של פריסה עסקית\n\nOpenAI הודיעה על גיוס של יותר מ-4 מיליארד דולר לכלי משותף חדש שנקרא \"The Deployment Company\", שמטרתו לחזק את ההיצע של ChatGPT ברחבי הסקטור הקorporטיבי בעולם. זו צעד משמעותי שמאפשרת לחברה להרחיב את יכולותיה בשירות ארגונים גדולים ולהתחרות בעוד יותר על שוק ה-AI הגדול. \n\nמקור: The Decoder",
     "d": "Mon, 04 May 2026 14:02:18 +0000",
     "v": 0,
     "l": [
@@ -200,16 +196,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 9,
-    "t": "5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass\n\nThe BOGO offer is live. For a limited time, buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Offer ends this Friday, May 8. Save here.",
+    "t": "5 ימים בלבד: קחו איתכם חבר וקבלו 50% הנחה על כרטיס שני ל-TechCrunch Disrupt 2026\n\nTechCrunch הוציאה אופר שדורש דיון - קנו כרטיס אחד ל-Disrupt 2026 וקבלו חצי מחיר על כרטיס שני מאותו סוג. זהו רק למשך 5 ימים עד יום שישי, 8 במאי, אז אם אתם חושבים ללכת לאחד האירועים הגדולים ביותר בעולם הטק, הזמן עכשיו להביא קולגה ולחסוך לשניכם. המודל BOGO (Buy One Get One) עובד מצוין כשמדובר בדירוג הנוכחי של כרטיסים בתחום ה-tech.",
     "d": "Mon, 04 May 2026 14:00:00 +0000",
     "v": 0,
     "l": [
@@ -232,7 +227,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Scientists identify vortex rings as key to dolphin speed using a supercomputer\n\nResearchers from Osaka University have used supercomputer simulations to solve the mystery of how dolphins...",
+    "t": "מדענים גילו שטבעות מערבולת הן המפתח למהירות הדולפינים בעזרת סופרקומפיוטר\n\nחוקרים מאוניברסיטת אוסקה השתמשו בסימולציות סופרקומפיוטר כדי לפענח את הסוד של מהירות הדולפינים - והם גילו שהחיות יוצרות טבעות מערבולת חכמות במים שנותנות להן דחיפה אפילו בעצירה. זה מראה שהטבע מצא פתרונות פיזיקליים מתוחכמים הרבה לפני שהאנושות חשבה עליהם. מחקר שכזה עשוי לעזור בעיצוב כלים הידרודינמיים יותר יעילים. (מקור: Interesting Engineering)",
     "d": "Mon, 04 May 2026 13:52:18 +0000",
     "v": 0,
     "l": [
@@ -255,7 +250,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "Vine video-sharing app is back – and battling AI slop\n\nTwitter co-founder Jack Dorsey is backing new version of app called Divine, where content must be made by a human\nAs a pioneer of the short-form video format, Vine has been credited as one of the most influential – if short-lived – social media platforms.\nThe app, which allowed users to record a looping six seconds of video, boomed in popularity after its launch in 2013, spawning a plethora of viral comedy sketches and internet memes. It hit 100 million monthly active users at its peak and helpe",
+    "t": "Vine חוזרת למשחק – הפעם כדי להילחם בהבלגן של AI\n\nJack Dorsey, המייסד של Twitter, תומך בגרסה חדשה של האפליקציה בשם Divine, שם כל התוכן חייב להיות מיוצר על ידי בני אדם בלבד. המקורית Vine, שאפשרה למשתמשים להעלות קליפ וידאו של 6 שניות בלולאה, הייתה פיוניירית בתחום הווידאו הקצר והיתה אחד הפלטפורמות הקוצרות אך המשפיעות ביותר בהיסטוריה של רשתות חברתיות. כשהיא הגיעה לשיא שלה עם 100 מיליון משתמשים פעילים חודשיים, היא יצרה סדרה ארוכה של סקיצות קומדיה וירליות וממים שהפכו ליקונים של האינטרנט.",
     "d": "Mon, 04 May 2026 13:47:22 GMT",
     "v": 0,
     "l": [
@@ -278,7 +273,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Nvidia's exposure to Asian supply chains for components hits 90% of its production costs — marked increase from 65% could intensify as physical AI adds even more exposure\n\nAsian suppliers now represent roughly 90% of Nvidia's production costs, up from about 65% a year earlier, according to data compiled by Bloomberg.",
+    "t": "התלות של Nvidia בשרשראות אספקה אסיאתיות הגיעה ל-90% מעלויות הייצור שלה — קפיצה משמעותית מ-65% עלולה להתגבר עוד\n\nסופלייים אסיאתיים מהווים כעת כ-90% מעלויות הייצור של Nvidia, עלייה ניכרת מ-65% שנה קודם לכן, בהתאם לנתונים של Bloomberg. התלות הגוברת של הענקה הטכנולוגית בשרשרת האספקה האסיאתית עשויה להתעמק עוד יותר עם התפשטות ה-Physical AI, וזה בוודאי עלול להטיל צל על יציבותה הכלכלית בעתיד.",
     "d": "Mon, 04 May 2026 13:25:56 +0000",
     "v": 0,
     "l": [
@@ -304,7 +299,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "Trump administration cites national security in stalling 165 wind farms\n\nOnshore wind development in the United States is being brought to a standstill.",
+    "t": "ממשל טראמפ עוצר 165 חוות רוח בטענת ביטחון לאומי\n\nפיתוח אנרגיית רוח בארה״ב עומד למעשה בעצירה מוחלטת. ממשל טראמפ החל לעכב במסיבי התאמות בחוות רוח קיימות וחדשות, בטענה שמדובר בסכנה לביטחון הלאומי - צעד שמעצור למעשה את התפתחות כל תעשיית הרוח בארץ.",
     "d": "Mon, 04 May 2026 13:23:22 +0000",
     "v": 0,
     "l": [
@@ -319,8 +314,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2019/03/4991007667_eeca19cf67_b.jpg",
@@ -328,7 +322,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Building AI data centers is becoming a stress test for banks\n\nThe construction of new AI data centers devours billions in borrowed capital. Major banks such as JPMorgan and Morgan Stanley are now looking for ways to pass on the growing credit risks to other investors.\nThe article Building AI data centers is becoming a stress test for banks appeared first on The Decoder.",
+    "t": "בניית מרכזי נתונים של AI הופכת לבחן ההתח לבנקים\n\nהבנקים הגדולים בעולם כמו JPMorgan ו-Morgan Stanley עומדים מול אתגר ענק: מרכזי נתונים חדשים לـ AI זולעים מיליארדים בהלוואות ענקיות, וכל בנק חושב איך להעביר את הסיכונים הכספיים האלה למשקיעים אחרים. זה כמו משחק פינגפונג פיננסי שלא בדיוק מצחיק כשמדובר במיליארדים שתלויים בהצלחת מהפכת ה-AI.",
     "d": "Mon, 04 May 2026 13:21:07 +0000",
     "v": 0,
     "l": [
@@ -343,17 +337,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "The Decoder"
   },
   {
     "id": 15,
-    "t": "MIT's virtual violin offers luthiers a new design tool\n\nComputational model lets users tweak parameters to hear effect on the sound in early design process.",
+    "t": "הכינור הווירטואלי של MIT - כלי עיצוב חדש ללנתני כלים\n\nחוקרים ב-MIT פיתחו מודל חישובי שמאפשר ללנתני כלים לשחק עם פרמטרים שונים ולשמוע בזמן אמת איך זה משפיע על הצליל. זה בדיוק מה שחסר - במקום לבנות פיזית ולנסות, אתה יכול להתנסות בווירטואל בשלב העיצוב המוקדם. טכנולוגיה די מגניבה שיכולה לחסוך הרבה זמן וחומרים בתהליך ההנדסה של כלים.",
     "d": "Mon, 04 May 2026 13:12:26 +0000",
     "v": 0,
     "l": [
@@ -376,7 +368,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "US Navy’s only submarine-launched nuclear missile to get tracking upgrade from L3Harris\n\nThe Department of Defense announced a significant contract modification for L3Harris Technologies. The goal is...",
+    "t": "הצי האמריקאי משדרג את מערכת הניווט של הטיל הגרעיני היחיד שלו בשיתוף L3Harris\n\nמשרד ההגנה האמריקאי חתם על חוזה משמעותי עם L3Harris Technologies לשדרוג מערכת הניתוב והמעקב של טיל בליסטי גרעיני שמושק מכלים תת-ימיים. השדרוג הזה מטרתו להחזיק ברמת דיוק גבוהה וביכולת ניווט משופרת בעידן המתקדם של איומים צבאיים. התיקיה חלק מהמאמצים הרחבים של ארה״ב לחדש ולהגביר את הכוח ההרסני שלה בים.",
     "d": "Mon, 04 May 2026 13:12:24 +0000",
     "v": 0,
     "l": [
@@ -399,7 +391,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "US Army combines bunker-buster warhead with drone delivery\n\nOne of the biggest hitters in the conventional arsenal merged with drone technology, as the US Army tested a bunker-buster warhead combined with an expendable Unmanned Aerial Vehicle (UAV) for field testing at Redstone Arsenal in Alabama.\nContinue Reading\nCategory: Military, Engineering\nTags: US Army, drones, Weapons",
+    "t": "צבא ארה״ב שילב חימוש אנטי-בונקר עם טכנולוגיית רחפנים\n\nהצבא האמריקאי בדק בעשור האחרון משהו די משמעותי - שילוב בין חימוש כבד להרסת בונקרים עם רחפן חד-פעמי (UAV). הניסוי התקיים בבסיס צבאי בAlabama, והרעיון הוא למעשה פשוט אבל יעיל: לשלוח את הנשק הכבד לדיוק דרך drone שמתנהל מרחוק. זה כמו להעביר את כוחו של טיל קרקע-קרקע למערכת טיסה זעירה וניידת.",
     "d": "Mon, 04 May 2026 13:03:00 GMT",
     "v": 0,
     "l": [
@@ -422,7 +414,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "Tailoring AI solutions for health care needs\n\nThe AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cancer and performing surgery to streamlining…",
+    "t": "התאמת פתרונות AI לצרכי הבריאות\n\nשוק ה-AI מלא בהבטחות גדולות על שינוי משמעותי, והרפואה היא בול הזהב של כל חברת טק. בתחום הבריאות יש הרבה צרכים דחופים - עלויות גבוהות, מחסור בכוח אדם וגם אוכלוסייה מזדקנת שצריכה יותר טיפול. המפתחים של AI כבר מיקדים אותו בכל כיוון אפשרי - מריפוי סרטן ביצוע ניתוחים וכל עד לאוטומציה של משימות מינהליות שלוקחות זמן. זה בדיוק המקום שבו הטכנולוגיה יכולה באמת לעזור.\n\nמקור: MIT Technology Review",
     "d": "Mon, 04 May 2026 13:00:00 +0000",
     "v": 0,
     "l": [
@@ -445,7 +437,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "DIY robot head inspired by Star Wars’ C-3PO droid comes to life with local AI\n\nA hobbyist maker has transformed a popular science fiction character into a functional desktop robot,...",
+    "t": "ראש רובוט DIY בהשראת C-3PO מ-מלחמות הכוכבים התעורר לחיים עם AI מקומי\n\nיוצר חובבני הצליח להפוך את הדמות המיקונית מ-Star Wars לרובוט שולחני פונקציונלי שמעובד בחומרה מקומית. הפרויקט משלב עיצוב חדשני עם טכנולוגיית AI כדי ליצור דמות אינטראקטיבית שממש נראית כאילו יצאה ישר מהמסך. עוד דוגמה מדהימה לכמה רחוק הגיע עולם ה-DIY robotics בעידן ה-AI.",
     "d": "Mon, 04 May 2026 12:34:52 +0000",
     "v": 0,
     "l": [
@@ -469,7 +461,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "AltoVolo gets a prototype of its spicy high-performance eVTOL in the air\n\nThe last time we heard from the UK's AltoVolo, it only had renders of its grand vision for a sportscar equivalent of an eVTOL to show off. That was exactly a year ago – and it's now got a working prototype taking to the skies.\nContinue Reading\nCategory: Aircraft, Transport\nTags: eVTOL, Hybrid eVTOLs, Personal eVTOLs",
+    "t": "AltoVolo הטיסה בהצלחה את הפרוטוטיפ של ה-eVTOL עם הביצועים המטורפים שלה\n\nהחברה הבריטית AltoVolo עברה מתצוגת רנדרים יפים להשגת אבן דרך ממשית - הפרוטוטיפ של ה-eVTOL בעל ביצועים גבוהים שלהם פשוטו למשמעו עף לשמיים! אחרי שנה של עבודה, הם הוכיחו שהחזון של מטוס חשמלי מאומץ כמו מכונית ספורט זה לא רק חלום - זה יכול להיות מציאות. הטכנולוגיה הזו יכולה לשנות את העתיד של תחבורה אישית.",
     "d": "Mon, 04 May 2026 12:13:23 GMT",
     "v": 0,
     "l": [
@@ -492,7 +484,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "Berkshire Hathaway meeting, Spirit shuts down, Meta's return to court and more in Morning Squawk\n\nHere are five key things investors need to know to start the trading day.",
+    "t": "ישיבת ברקשייר האת'ווי, Spirit סוגרת חנויות, Meta חוזרת לבית המשפט ועוד בחדשות הבוקר\n\nחמשת הדברים החשובים שכל משקיע צריך לדעת לפני שהמסחר מתחיל - מהתפתחויות בחברות הגדולות ועד לניסיונות המשפטיים שמטלטלים את הענף. תחזוקה מהיום שצריך להיות בתוכנית שלכם אם אתם עוקבים אחרי השוק הטכנולוגי והפיננסי.",
     "d": "Mon, 04 May 2026 12:10:11 GMT",
     "v": 0,
     "l": [
@@ -518,7 +510,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "Save $1,100 on this prebuilt gaming rig with Nvidia RTX 5070 Ti, Intel 14900KF, 32GB of RAM, and 2TB of storage — AB Kaze II Aqua on deep discount\n\nNewegg deal actually delivers. Score the ABS Kaze II Aqua with i9-14900KF and RTX 5070 Ti for $2,175 with code—over $1,100 off a powerful, ready-to-game prebuilt.",
+    "t": "חיסכון של $1,100 על מחשב gaming מובנה עם Nvidia RTX 5070 Ti, Intel 14900KF, 32GB RAM ו-2TB אחסון — AB Kaze II Aqua במחיר משוגע\n\nעכשיו יש לכם סיבה טובה להתחיל להימר - ה-ABS Kaze II Aqua עם ה-i9-14900KF והRTX 5070 Ti זמין בנייג'ואג בדיל שהוא באמת משנה משחק: $2,175 עם קוד, וזה הנחה של למעלה מ-$1,100! זה הריג מחשב gaming מקצועי שכבר מגיע מותקן ומוכן לשחק, בלי צורך בעבודה ביד.",
     "d": "Mon, 04 May 2026 12:08:49 +0000",
     "v": 0,
     "l": [
@@ -571,7 +563,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 24,
-    "t": "Astronomers discover 27 potential new planets orbiting twin star systems\n\nAstronomers have identified 27 potential new planets orbiting binary star systems, more than doubling the...",
+    "t": "אסטרונומים גילו 27 כוכבי לכת פוטנציאליים במערכות כוכבים בינריות\n\nבמהלך מחקר מרגש, אסטרונומים זיהו 27 כוכבי לכת חדשים אפשריים שמקיפים מערכות כוכבים תאומים, דבר שיותר מדוביל את מספר כוכבי הלכת הידועים במערכות כאלה. התגלית הזו פותחת חלון חדש למחקר של כוכבי לכת אקזוטיים ומרגישה שוב לנו שיש עדיין המון דברים שלא ידענו על היקום שלנו.",
     "d": "Mon, 04 May 2026 11:46:07 +0000",
     "v": 0,
     "l": [
@@ -594,7 +586,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "AMD Ryzen AI Max+ PRO 495 APU could arrive with 192GB of unified memory — leaked PassMark benchmarks suggest modest update over Strix Halo\n\nThe Ryzen AI Max+ PRO 495 appears to retain the same core configuration as its predecessor while adding more unified memory and slightly better performance.",
+    "t": "AMD Ryzen AI Max+ PRO 495 עלול להגיע עם 192GB זיכרון unified — דליפות PassMark מצביעות על שדרוג צנוע מ-Strix Halo\n\nנראה שה-Ryzen AI Max+ PRO 495 החדש מחזיק באותה תצורת ליבות כמו קודמו, אבל מוסיף יותר זיכרון unified וביצועים טיפה טובים יותר. זה יותר שדרוג מתון מאשר מהפכה, אבל עבור משימות AI וחישוב כבד, עוד 192GB זיכרון זה בטח לא משנה.",
     "d": "Mon, 04 May 2026 11:38:55 +0000",
     "v": 0,
     "l": [
@@ -733,7 +725,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 31,
-    "t": "Toyota built a $10 billion private utopia—what’s going on in there?\n\nWoven City is a privacy nightmare but could be helpful to an OEM desperate to be more.",
+    "t": "טויוטה בנתה עיר פרטית בת 10 מיליארד דולר - מה בדיוק קורה שם?\n\nהעיר 'Woven City' של טויוטה היא בעצם חלום של יצרן רכב שרוצה להיות יותר מ'בלבד' יצרן - היא מעבדה ענקית לטסטים של טכנולוגיות חכמות וAI בעולם האמיתי. אבל תחת כל הבריק הזה יש בעיה רצינית של פרטיות - כי כשאתה גר בעיר שבנתה חברה בשביל לאסוף נתונים עליך, זה משהו לא כל כך מנומנם.",
     "d": "Mon, 04 May 2026 11:00:31 +0000",
     "v": 0,
     "l": [
@@ -748,10 +740,9 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Official-Launch-1-1152x648-1777295784.jpg",
     "source": "Ars Technica"
   },
@@ -1203,7 +1194,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 51,
-    "t": "A collaborative constrained graph diffusion model for the generation of realistic synthetic molecules",
+    "t": "מודל דיפוזיה גרפי שיתופי עם אילוצים ליצירת מולקולות סינתטיות ריאליסטיות\n\nחוקרים פיתחו מודל AI חדש שמשתמש בטכנולוגיית graph diffusion כדי ליצור מולקולות סינתטיות שנראות כמו הן באמת יכולות להיות קיימות. המודל משלב אילוצים שיתופיים שמוודאים שהמולקולות שנוצרות מקיימות דרישות כימיות וביולוגיות אמיתיות, דבר שיכול להיות המשחק הגדול בפיתוח תרופות חדשות ומחקר כימי. המחקר פורסם ב-Nature Machine Intelligence וממחיש עד כמה AI יכול לעזור לנו להבין ולבנות מבנים מולקולריים מורכבים.",
     "d": "2026-05-04T00:00:00.000Z",
     "v": 0,
     "l": [
