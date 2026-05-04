@@ -135799,7 +135799,7 @@
       "author": "Simon Sharwood",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-04T04:12:18.470Z",
       "created_at": "2026-05-04T04:12:18.470Z"
     },
@@ -135819,6 +135819,366 @@
       "priority": "batch",
       "fetchedAt": "2026-05-04T04:12:18.470Z",
       "created_at": "2026-05-04T04:12:18.470Z"
+    },
+    {
+      "id": 6602,
+      "source": "The Guardian AI",
+      "title_en": "Wikipedia founder brands Australia’s social media ban an ‘unmitigated disaster’ and an ‘embarrassment’",
+      "description_en": "Jimmy Wales remembers a toxic internet even before social media and says AI is ‘not a disaster’ for the free – and freely edited - online encyclopaedia\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nWikipedia’s founder, Jimmy Wales, has branded the Australian social media ban an “unmitigated disaster” and an “embarrassment” that is teaching kids to accept surveillance from tech companies when they go online.\nThe online encycl",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/04/wikipedia-founder-brands-australias-social-media-ban-an-unmitigated-disaster-and-an-embarrassment",
+      "image_url": "https://i.guim.co.uk/img/media/7946d2a8f02eb3a4b2dd2009f98e6cab79215463/0_0_3167_2535/master/3167.jpg?width=140&quality=85&auto=format&fit=max&s=df3bdada41301bcc77bb8e622519ae0b",
+      "pub_date": "Mon, 04 May 2026 06:49:38 GMT",
+      "author": "Josh Taylor Technology reporter",
+      "categories": [
+        {
+          "_": "Social media ban",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/social-media-ban"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Wikipedia",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/wikipedia"
+          }
+        },
+        {
+          "_": "Social media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/social-media"
+          }
+        },
+        {
+          "_": "Digital media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/digital-media"
+          }
+        },
+        {
+          "_": "Internet",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/internet"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        },
+        {
+          "_": "Media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/media"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T07:27:00.255Z",
+      "created_at": "2026-05-04T07:27:00.255Z"
+    },
+    {
+      "id": 6603,
+      "source": "The Guardian AI",
+      "title_en": "Flaws in Kenya’s AI-driven health reforms driving up costs for the poorest",
+      "description_en": "Exclusive: amid unrest, President William Ruto promised to give all Kenyans access to healthcare. But the algorithm favours the rich, an investigation has found\n\n\r\n An AI system used to predict how much Kenyans can afford to pay for access to healthcare, has systemically driven up costs for the poor, an investigation has found.\nThe healthcare system being rolled out across the country, a key electoral promise of President William Ruto, was launched in October 2024 and intended to replace Kenya’s",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor",
+      "image_url": "https://i.guim.co.uk/img/media/2f67d40cd03693e44b4894f64d22fe9ee81cb5fa/301_0_4806_3845/master/4806.jpg?width=140&quality=85&auto=format&fit=max&s=578b17a54f4acc3afb06b05b302491b3",
+      "pub_date": "Mon, 04 May 2026 06:00:16 GMT",
+      "author": "Purity Mukami, Joy Kirigia, Gabriel Geiger, Tomas Statius and Aisha Down",
+      "categories": [
+        {
+          "_": "Global development",
+          "$": {
+            "domain": "https://www.theguardian.com/global-development/global-development"
+          }
+        },
+        {
+          "_": "Kenya",
+          "$": {
+            "domain": "https://www.theguardian.com/world/kenya"
+          }
+        },
+        {
+          "_": "Health",
+          "$": {
+            "domain": "https://www.theguardian.com/society/health"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Africa",
+          "$": {
+            "domain": "https://www.theguardian.com/world/africa"
+          }
+        },
+        {
+          "_": "Society",
+          "$": {
+            "domain": "https://www.theguardian.com/society/society"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Social protection",
+          "$": {
+            "domain": "https://www.theguardian.com/global-development/social-protection"
+          }
+        },
+        {
+          "_": "Global health",
+          "$": {
+            "domain": "https://www.theguardian.com/global-development/global-health"
+          }
+        },
+        {
+          "_": "Poverty",
+          "$": {
+            "domain": "https://www.theguardian.com/society/poverty"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T07:27:00.255Z",
+      "created_at": "2026-05-04T07:27:00.255Z"
+    },
+    {
+      "id": 6604,
+      "source": "Interesting Engineering",
+      "title_en": "New passive ultrasonic sensors track motion without electricity or batteries",
+      "description_en": "Researchers at the Georgia Institute of Technology have built a motion and contact sensor that...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/new-passive-ultrasonic-sensors-track-motion-without-electricity-or-batteries",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 06:56:41 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T07:27:02.222Z",
+      "created_at": "2026-05-04T07:27:02.222Z"
+    },
+    {
+      "id": 6605,
+      "source": "Interesting Engineering",
+      "title_en": "German firm to deliver Romania’s first hydrogen-powered train to boost decarbonization effort",
+      "description_en": "A German company is set to deliver Romania’s first hydrogen-powered train fleet. Siemens Mobility has...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/german-firm-romania-first-hydrogen-powered-train",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 04:31:46 +0000",
+      "author": "Prabhat Ranjan Mishra",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-04T07:27:02.222Z",
+      "created_at": "2026-05-04T07:27:02.222Z"
+    },
+    {
+      "id": 6606,
+      "source": "CNBC Tech",
+      "title_en": "Denmark faces data center reckoning as power grid overwhelmed by surging demand",
+      "description_en": "The data center industry is facing a reckoning as governments around the world consider imposing limits on the growth of the power-hungry facilities.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/04/denmark-data-centers-moratorium-grid-pause-power-demand.html",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 05:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-04T07:27:02.418Z",
+      "created_at": "2026-05-04T07:27:02.418Z"
+    },
+    {
+      "id": 6607,
+      "source": "Product Hunt",
+      "title_en": "Regulus by Cumbuca",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/cumbuca",
+      "image_url": null,
+      "pub_date": "2026-04-30T22:35:10.000Z",
+      "author": "Bruno Cury",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-04T07:27:04.903Z",
+      "created_at": "2026-05-04T07:27:04.903Z"
+    },
+    {
+      "id": 6608,
+      "source": "Product Hunt",
+      "title_en": "Manex",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/manex",
+      "image_url": null,
+      "pub_date": "2026-05-02T10:38:25.000Z",
+      "author": "Ravi Krishnan",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-04T07:27:04.903Z",
+      "created_at": "2026-05-04T07:27:04.903Z"
+    },
+    {
+      "id": 6609,
+      "source": "Product Hunt",
+      "title_en": "Mindra",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/mindra",
+      "image_url": null,
+      "pub_date": "2026-04-22T16:34:27.000Z",
+      "author": "Ben Lang",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-04T07:27:04.903Z",
+      "created_at": "2026-05-04T07:27:04.903Z"
+    },
+    {
+      "id": 6610,
+      "source": "Product Hunt",
+      "title_en": "Replyke V7",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/replyke",
+      "image_url": null,
+      "pub_date": "2026-04-20T05:28:08.000Z",
+      "author": "fmerian",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-04T07:27:04.903Z",
+      "created_at": "2026-05-04T07:27:04.903Z"
+    },
+    {
+      "id": 6611,
+      "source": "Product Hunt",
+      "title_en": "Flowly",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/flowly-6",
+      "image_url": null,
+      "pub_date": "2026-05-03T00:13:34.000Z",
+      "author": "Hakan",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-04T07:27:04.903Z",
+      "created_at": "2026-05-04T07:27:04.903Z"
+    },
+    {
+      "id": 6612,
+      "source": "Product Hunt",
+      "title_en": "Visitor Profiles and Timeline by Croct",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/croct",
+      "image_url": null,
+      "pub_date": "2026-04-15T20:00:46.000Z",
+      "author": "Juliana Amorim",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-04T07:27:04.903Z",
+      "created_at": "2026-05-04T07:27:04.903Z"
+    },
+    {
+      "id": 6613,
+      "source": "Product Hunt",
+      "title_en": "Panels Store",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/panels-store",
+      "image_url": null,
+      "pub_date": "2026-05-01T21:00:27.000Z",
+      "author": "Victor Baro",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-04T07:27:04.903Z",
+      "created_at": "2026-05-04T07:27:04.903Z"
+    },
+    {
+      "id": 6614,
+      "source": "Product Hunt",
+      "title_en": "Dropy",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/dropy-price-tracker-price-history",
+      "image_url": null,
+      "pub_date": "2026-05-03T17:22:54.000Z",
+      "author": "Dmitriy Smagin",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-04T07:27:04.903Z",
+      "created_at": "2026-05-04T07:27:04.903Z"
+    },
+    {
+      "id": 6615,
+      "source": "Product Hunt",
+      "title_en": "Aaavatar",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/aaavatar",
+      "image_url": null,
+      "pub_date": "2026-05-03T23:39:06.000Z",
+      "author": "Thierry Emmery",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-04T07:27:04.903Z",
+      "created_at": "2026-05-04T07:27:04.903Z"
     }
   ]
 }
