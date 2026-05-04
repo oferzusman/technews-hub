@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Palantir tops estimates on 85% revenue growth, fastest expansion since market debut in 2020\n\nPalantir reported better-than-expected revenue and profit, driven by growth in sales to U.S. government agencies.",
+    "t": "פלנטיר חוצה את הציפיות עם גדילה בהכנסות של 85% - קצב ההתרחבות המהיר ביותר מאז ההנפקה ב-2020\n\nפלנטיר הפתיעה את השוק בדוח הרבעון עם הכנסות ורווחים גבוהים מהצפוי, בעיקר בגלל ההוצאות החזקות מסוכנויות ממשלתיות אמריקאיות שממשיכות להיות הגיבור של החברה. זו לא סתם תוצאה טובה - זה קצב גדילה שלא ראינו מפלנטיר מאז שהייתה בורסאית, והעדות מעידה שתזומת הממשלה האמריקאית בנתונים גדולים עדיין בעלת זרם דם חזק.",
     "d": "Mon, 04 May 2026 20:12:10 GMT",
     "v": 0,
     "l": [
@@ -18,13 +18,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 2,
-    "t": "Steam Controller scalpers are asking for $300+ on eBay — Valve's $99 controller demands high price as pre-orders sell out almost immediately\n\nValve's long-anticipated Steam Controller sold out almost immediately, and scalpers have stepped in with price demands of $300 or more.",
+    "t": "קונים בעלי כרטיסים מחפשים $300 עבור ה-Steam Controller החדש של Valve — הבקר שנמכר ב-$99 כבר אזל מן המדפים\n\nבקר ה-Steam החדש של Valve שהיה המתוחכם שלה למשך שנים אזל מהמלאי כמעט מיד, והמספקלורים כבר מנסים למכור אותו בeBay בעבור יותר מ-$300. כן, אנחנו מדברים על כפלת ההמחיר במהירות הברק, ובכל זאת יש אנשים שמוכנים לשלם — זה ממש כמו צעצועי צפייה בנובמבר.",
     "d": "Mon, 04 May 2026 20:05:05 +0000",
     "v": 0,
     "l": [
@@ -47,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "🗣 Demis says he wants to see a Western open source AI stack and that we’re losing to China.He also says Google doesn’t have enough compute to build two frontier (open and closed) models, which is why\n\n🗣 Demis says he wants to see a Western open source AI stack and that we’re losing to China.He also says Google doesn’t have enough compute to build two frontier (open and closed) models, which is why Gemma is a smaller family of models.@aipost 🏴",
+    "t": "דמיס מדחוף לפתיחת stack AI קוד פתוח מערבי ומעיר שאנחנו מפסידים לסין\n\nדמיס האסתא גם אומר שלגוגל פשוט אין מספיק compute כדי לבנות שני מודלים frontier בו זמנית - אחד פתוח וכל אחד סגור - ולכן ההחלטה הייתה להוציא את Gemma כמשפחה של מודלים קטנים יותר. בקצרה, מדובר בהודעה די חשובה על האסטרטגיה של גוגל בתחום הAI וההתחרות הגלובלית עם סין.",
     "d": "2026-05-04T19:42:01+00:00",
     "v": 0,
     "l": [
@@ -60,12 +60,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -73,7 +70,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "⚡️Лондонские школы используют VR, чтобы снять стресс у учениковРасслабляющие сенасы в виртуальной реальности должны помочь школьникам справляться со стрессом перед экзаменами, СДВГ и переживаниями из-\n\n⚡️Лондонские школы используют VR, чтобы снять стресс у учениковРасслабляющие сенасы в виртуальной реальности должны помочь школьникам справляться со стрессом перед экзаменами, СДВГ и переживаниями из-за проблем в семье.💻 Семиминутный VR-тур начинается с постепенного погружения: комната пустеет, свет гаснет, и пользователь оказывается в темноте с мягкими световыми эффектами, которые движутся ему навстречу. Это помогает ученикам успокоиться и «заземлиться».Школьники могут использовать VR в заране",
+    "t": "⚡️בתי ספר בלונדון משתמשים ב-VR כדי להפחית סטרס אצל תלמידים\n\nבתי ספר בלונדון התחילו להשתמש בחוויות VR מרגיעות כדי לעזור לתלמידים להתמודד עם חרדות בחינות, ADHD ובעיות משפחתיות. בסיור וירטואלי של 7 דקות, התלמידים נכנסים לחשך הדרגתי עם אפקטי אור רכים שיוצרים תחושת שקט והשקרעות עמוקה. זה נראה כמו דרך יצירתית וחכמה להחזיר קצת שלוות מנטלית לכיתות הלחוצות של בני הנוער בימנו.",
     "d": "2026-05-04T19:26:15+00:00",
     "v": 0,
     "l": [
@@ -96,7 +93,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "Image AI models now drive app growth, beating chatbot upgrades\n\nAppfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
+    "t": "מודלי AI לתמונות מובילים את גדילת האפליקציות, משנים את הכללים מול עדכוני צ'אטבוטים\n\nAppfigures גילו שהשקת מודלים ויזואליים מניבה 6.5 פעמים יותר הורדות מאשר שדרוגי צ'אטבוט - אבל רוב היזמים עדיין לא יודעים איך להפוך את הקפיצה הזאת לכסף אמיתי בכיסם. זה בעצם תופעה מעניינת שמראה שהציבור מתיידד יותר עם כלים שמייצרים תמונות מאשר עם בוטים שמדברים, אבל ההמרה למודל עסקי רווחי עדיין מהווה אתגר ממשי.",
     "d": "Mon, 04 May 2026 19:12:49 +0000",
     "v": 0,
     "l": [
@@ -113,13 +110,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 6,
-    "t": "⚡️ Анонимный мессенджер для «белых списков» нашли в России — Delta Chat работает через почтовые сервера и шифрует каждое сообщение. Три ключевые фичи:1️⃣ Для регистрации не нужен номер телефона или пе\n\n⚡️ Анонимный мессенджер для «белых списков» нашли в России — Delta Chat работает через почтовые сервера и шифрует каждое сообщение. Три ключевые фичи:1️⃣ Для регистрации не нужен номер телефона или персональный данные — только e-mail. Подойдёт любой российский почтовый сервис. 2️⃣ Ограничить мессенджер невозможно — все сообщения идут через почтовые клиенты. Delta Chat будет работать даже при «белых списках».3️⃣ Все сообщения зашифрованы — после переписки на почте остаются только пустые письма с ",
+    "t": "⚡️ מסנג'ר אנונימי של \"רשימות לבנות\" שהתגלה ברוסיה — Delta Chat עובד דרך שרתי דוא\"ל ומצפין כל הודעה\n\nהוא Delta Chat, מסנג'ר חדש שעובד דרך הדוא\"ל בלי צורך בנתונים אישיים או מספר טלפון — רק אימייל כשיר. מה שמעניין — אי אפשר להוציא את המסנג'ר מהשחקה כי כל ההודעות עוברות דרך שרתי דוא\"ל רגילים, אז היא תעבוד אפילו עם \"רשימות לבנות\". וכמובן, הכל מוצפן בקריפטוגרפיה כמו שצריך — בקופת הדוא\"ל נשארות רק הודעות ריקות.",
     "d": "2026-05-04T19:12:24+00:00",
     "v": 0,
     "l": [
@@ -142,7 +139,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "Influential study touting ChatGPT in education retracted over red flags\n\nThe retracted study on ChatGPT in education was already cited hundreds of times.",
+    "t": "מחקר משפיע שהשבח את ChatGPT בחינוך נסגר בגלל דגלים אדומים\n\nמחקר שכבר צוטט מאות פעמים בנוגע לשימוש ChatGPT בחינוך בוטל רשמית. נתברר שהיו בעיות משמעותיות במחקר שגרמו לכותבים להחזיר אותו, וזה מזכיר לנו עד כמה חשוב לבדוק מחדש טענות על AI בתחומים רגישים כמו חינוך.",
     "d": "Mon, 04 May 2026 19:03:39 +0000",
     "v": 0,
     "l": [
@@ -162,13 +159,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2235760397-1152x648.jpg",
     "source": "Ars Technica"
   },
   {
     "id": 8,
-    "t": "«Черепашки-ниндзя»: как весь мир полюбил пиццуОгромная медиаимперия выросла из мрачного независимого комикса, нарисованного на занятую тысячу долларов. Вместо выверенного бизнес-плана фундаментом стал\n\n«Черепашки-ниндзя»: как весь мир полюбил пиццуОгромная медиаимперия выросла из мрачного независимого комикса, нарисованного на занятую тысячу долларов. Вместо выверенного бизнес-плана фундаментом стали чистый энтузиазм и спонтанные контракты с аутсайдерами рынка игрушек.Дальнейшая хронология развития вселенной напоминает американские горки. Ошеломительный коммерческий взлёт быстро сменился творческим выгоранием создателей и многолетней разлукой. Но спустя десятилетия авторы объединились вновь, ч",
+    "t": "\"צבי הנינג'ה\": איך כל העולם התאהב בפיצה\n\nסיפור מדהים על אחת מהאמפריות התקשורתיות הגדולות שגדלה מקומיקס עצמאי מודחק שציירו בתקציב של אלף דולר בלבד. במקום תכנית עסקית מחוכמת, הכל התחיל מנתונים של אנתוזיאזם טהור וחוזים ספונטניים עם שחקנים שוליים בתעשיית הצעצועים. מאז הגיע העניין לעלייה מסחררת ואחריה שרק ירידה חדה בתשראתיות, אבל אחרי עשרות שנים המיוצרים התחברו שוב למשהו מיוחד.",
     "d": "2026-05-04T19:00:58+00:00",
     "v": 0,
     "l": [
@@ -191,7 +188,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "⚡️ На геймдев сбросили БОМБУ — Unity выпустил ИИ-агента для создания игр из промптов Обо всем по порядку:• Агент заменяет устаревший Unity Muse, в нем собрали аж 2️⃣0️⃣ лет опыта разработчиков движка \n\n⚡️ На геймдев сбросили БОМБУ — Unity выпустил ИИ-агента для создания игр из промптов Обо всем по порядку:• Агент заменяет устаревший Unity Muse, в нем собрали аж 2️⃣0️⃣ лет опыта разработчиков движка Unity.• Агент максимально заточен только под геймдев.• База — модели от Scenario, Layer, Kinetix и других. Это одни из самых сильных нейронок для создателей игр прямо сейчас.• Сам пишет код и фиксит баги — да, теперь не нужны даже ноды.• Сам генерит все ассеты: модели, текстуры и звуки.• Самое круто",
+    "t": "⚡️ תפילה לגיימרים - Unity שחררה AI-אגנט שיוצר משחקים מפרומפטים\n\nUnity זרקה炸弹 אמיתית על עולם ההתפתחות - הם שחררו AI-אגנט חדש שמחליף את ה-Muse הישן, וזה מלא בחוכמת 20 שנות פיתוח של המנוע עצמו. האגנט הזה בנוי רק לגיימדיוב ומגיבש כוחות משמעותיים של Scenario, Layer, Kinetix ועוד - כמה שהן החזקות ביותר כרגע לקריאייטורים של משחקים. הכיף? הוא כותב קוד לבד, תיקן באגים, יוצר את כל ה-assets (מודלים, טקסטורות וקולות) - אתה פשוט כותב מה אתה רוצה ב-prompt.",
     "d": "2026-05-04T18:40:36+00:00",
     "v": 0,
     "l": [
@@ -214,7 +211,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Unity 6 открывает эпоху нейросетевого геймдева — ИИ-помощник вышел в открытую бету 😋Движок Unity официально внедряет «агентный» интеллект прямо в редактор. Это полноценный соавтор, который понимает к\n\nUnity 6 открывает эпоху нейросетевого геймдева — ИИ-помощник вышел в открытую бету 😋Движок Unity официально внедряет «агентный» интеллект прямо в редактор. Это полноценный соавтор, который понимает контекст вашего проекта и может сам менять сцены или код.Что внутри:— Умный прораб Plan Mode — сам пишет код, ищет баги и строит архитектуру по вашему плану;— Интеграция с Figma: закидываем ссылку на макет — движок сам верстает готовое меню;— Встроенный генератор ЛЮБЫХ ассетов: звуки, текстуры и 3D-м",
+    "t": "Unity 6 פותחת עידן של gamedev עם AI - העוזר החכם עברה לבטא פתוחה\n\nUnity החדש כבר לא רק מנוע גיימים - זה כמו לעבוד עם שותף פיתוח AI שמבין את הפרויקט שלך ויכול לכתוב קוד, למצוא באגים ולחזק ארכיטקטורה בעצמו. המערכת יודעת להתחבר ישירות ל-Figma, להעלות עיצובים למנוע ולהמיר אותם לממשק משחק מוכן, וגם יוצרת ל-你 ביצוע כל סוג של אסט - מסאונדים עד טקסטורות תלת-ממדיות. זה למעשה משנה את כל המשחק של פיתוח משחקים בישראל ובעולם.",
     "d": "2026-05-04T18:37:14+00:00",
     "v": 0,
     "l": [
@@ -237,7 +234,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "Cramer defends AMD after downgrade: 'This stock is going to go up much more'\n\nCNBC's Jim Cramer said he's bullish on AMD despite a recent downgrade, arguing demand for AI-driven CPUs will keep pushing the stock higher.",
+    "t": "קריימר הגן על AMD לאחר ירידה בדירוג: 'המניה הזאת עתידה לעלות הרבה יותר'\n\nג'ים קריימר מ-CNBC הצהיר שהוא שומר על האופטימיות שלו בנוגע ל-AMD, גם אחרי שחברות מחקר הורידו את הדירוג שלה. קריימר טוען שהביקוש ל-CPU מבוססי AI בעולם עדיין יהיה חזק מספיק כדי להניע את המניה למעלה, וזה בדיוק המשחק שעל AMD לנצח בשנים הבאות.",
     "d": "Mon, 04 May 2026 18:14:25 GMT",
     "v": 0,
     "l": [
@@ -260,7 +257,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Anthropic and OpenAI now agree on one thing: selling AI requires a lot more than just the AI\n\nAnthropic, Blackstone, Hellman & Friedman, and Goldman Sachs are launching a new AI services company to help mid-market businesses adopt Claude.\nThe article Anthropic and OpenAI now agree on one thing: selling AI requires a lot more than just the AI appeared first on The Decoder.",
+    "t": "Anthropic ו-OpenAI מסכימים על משהו אחד: למכור AI זה הרבה יותר מסתם ה-AI\n\nAnthropic השיקה שירות AI חדש יחד עם Blackstone וגולדמן זקס כדי לעזור לעסקים בגודל בינוני להשתמש ב-Claude - וזה מעיד על משהו חשוב: בתעשיית ה-AI, הטכנולוגיה היא רק חלק מהחידה. גם OpenAI הבינה זאת כבר: להצליח בשוק זה צריך ערך מוסף, אינטגרציה, ופתרונות מעשיים - לא סתם מודל חכם.\nמקור: The Decoder",
     "d": "Mon, 04 May 2026 18:04:35 +0000",
     "v": 0,
     "l": [
@@ -287,7 +284,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "Al Wugeisha: Dubai’s 163-meter, 2,000-ton TBM excavates at 17 meters a day\n\nA tunnel boring machine (TBM) Al Wugeisha began excavation this week for the underground sections...",
+    "t": "אל וג'ישה: מכונת קידוח מנהרות ענקית בדובאי חופרת 17 מטר ביום\n\nבמהלך השבוע התחילה מכונת הקידוח TBM ענקית בשם אל וג'ישה את עבודתה בדובאי - המכונה שגובהה 163 מטר ושוקלת 2,000 טון מתחילה לחפור את הקטעים התת-קרקעיים של פרויקט תשתיות ענק. המכונה המפורסמת מסוגלת לחפור 17 מטר ביום, וזה כבר משהו כשמדברים על פרויקטים בהיקף הזה בעיר המודרנית של חצי האי הערבי.",
     "d": "Mon, 04 May 2026 18:04:21 +0000",
     "v": 0,
     "l": [
@@ -310,7 +307,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "Get a DDR5 starter build with a Ryzen 5 7600X and ASRock B650M Pro motherboard for 23% off — $430 bundle helps avoid inflated RAM prices\n\nStart your next gaming build with this this combo from Newegg featuring a Ryzen 5 7600X, 16GB of DDR5-6000 memory, and a Micro-ATX B650M motherboard from ASRock for just $430.",
+    "t": "עכשיו אפשר להשיג בילד DDR5 עם Ryzen 5 7600X ו-ASRock B650M ב-23% הנחה — חבילה ב-430 דולר משחררת אתכם מחירי RAM מנופחים\n\nNewegg משיקה מבצע מטורף למי שחולם על בילד גיימינג חדש: Ryzen 5 7600X, 16GB זיכרון DDR5-6000, ולוחית אם B650M מ-ASRock, והכל תמורת 430 דולר בלבד. זה הזמן הנכון להירכז בחומרה חדשה בלי שהתעודכנות בזיכרון תחסל לכם את הכיס.\n\nמקור: Tom's Hardware",
     "d": "Mon, 04 May 2026 18:01:48 +0000",
     "v": 0,
     "l": [
@@ -333,7 +330,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it\n\nAmid falling revenue and store closures, GameStop wants to buy the much larger eBay.",
+    "t": "גיימסטופ מציעה 56 מיליארד דולר לאיביי - אבל בעיה קטנה, אין לה כסף\n\nבתוך שההכנסות שלה צונחות וחנויות סגרות, גיימסטופ החליטה ללא הסברה למה שלא - היא רוצה להשתלט על איביי שהיא הרבה יותר גדולה. זה בערך כמו שחברת טקסי קטנה שנמצאת בקשיים כלכליים מציעה 56 מיליארד דולר לרכישת חברת טיסות ענקית וחוצה אצבעות שמישהו יאמין לה שיש לה את הכסף.",
     "d": "Mon, 04 May 2026 17:57:46 +0000",
     "v": 0,
     "l": [
@@ -348,16 +345,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/gamestop-store-1152x648-1777915631.jpg",
     "source": "Ars Technica"
   },
   {
     "id": 16,
-    "t": "Secretlab launches Mandalorian Titan Evo gaming chair in Star Wars collection for May the 4th — collab builds with a new high-end themed chair\n\nSecretlab dropped a Mandalorian Edition, along with other Star Wars-themed designs, to its Titan Evo gaming chair lineup on Star Wars Day.",
+    "t": "Secretlab הכניסה כיסא Mandalorian Titan Evo חדש לקולקציית Star Wars ביום May the 4th\n\nסיקרטלאב חגגה את יום Star Wars עם קולקציה בלעדית של כיסאות גיימינג Titan Evo בעיצובים מהיקום המכוער, כולל גרסה Mandalorian מיוחדת שכוללת עיצוב פרימיום וחומרים איכותיים. זו דוגמה טובה עוד של הברנד שמשלב בין ניידות טכנולוגיה וקולטורה פופולרית כדי למשוך גיימרים שתמיד חיפשו כיסא שנראה כמו בר לנמי דינאריה. המיתוג הזה מדגים איך חברות tech וגיימינג חוצות לשיתופי פעולה שמעניינים את הלהקות של מעריצים בכל העולם.",
     "d": "Mon, 04 May 2026 17:55:57 +0000",
     "v": 0,
     "l": [
@@ -374,13 +370,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/wqo4B6UtTANbF7aTFujB2U-1280-80.png",
     "source": "Tom's Hardware"
   },
   {
     "id": 17,
-    "t": "Top Search and Fetch APIs for Building AI Agents in 2026: Tools, Tradeoffs, and Free Tiers\n\nDiscover the top search and fetch APIs for AI agents in 2026. Compare tools like TinyFish, Tavily, and Firecrawl based on latency, token efficiency, and free tiers to optimize your agent's web retrieval.\nThe post Top Search and Fetch APIs for Building AI Agents in 2026: Tools, Tradeoffs, and Free Tiers appeared first on MarkTechPost.",
+    "t": "ה-APIs המובילים לחיפוש והבאת נתונים לבניית AI Agents בשנת 2026: כלים, חילופים ותוכניות בחינם\n\nאם אתם בונים AI agents ותצריכים להבין איזה APIs יעבדו הכי טוב, יש לנו עבורכם השוואה מלאה של הכלים המובילים בתחום כמו TinyFish, Tavily ו-Firecrawl. המאמר בוחן את הדברים שחשובים - latency, יעילות token וחבילות בחינם - כדי שתוכלו לבחור את הפתרון המושלם עבור הproject שלכם. מצאו כל המידע בMarkTechPost!",
     "d": "Mon, 04 May 2026 17:55:35 +0000",
     "v": 0,
     "l": [
@@ -404,7 +400,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 18,
-    "t": "Circle jumps 20% on Clarity Act compromise that preserves stablecoin rewards\n\nLawmakers over the weekend reached a compromise on the market structure bill known as the CLARITY Act that keeps stablecoin reward programs intact.",
+    "t": "Circle עלתה ב-20% על רקע פשרה בחוק CLARITY שמשמרת תוכניות גמול בסטייבלקוין\n\nמחוקקים הגיעו בסוף השבוע לפשרה בביל הרגולציה הידוע כ-CLARITY Act, שמאפשרת להחזיק בתוכניות גמול עבור סטייבלקוין. החדשות הטובות הללו הרמו את מחיר ה-USDC של Circle בעלייה משמעותית, מה שמעיד על הקלה משמעותית בחרדות הרגולטוריות של השוק. זו ניצחון למטבעות דיגיטליים בישראל ובעולם שהיו חוששים לאבוד תכניות תגמול חשובות.",
     "d": "Mon, 04 May 2026 17:49:45 GMT",
     "v": 0,
     "l": [
@@ -419,8 +415,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -428,7 +423,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 19,
-    "t": "F1 in Miami: That's what it looks like when an upgrade works\n\n2026's Formula 1 championship now looks far from a foregone thing.",
+    "t": "F1 בMiami: ככה זה נראה כשהעדכון באמת עובד\n\nאחרי השדרוג החדש, הטיטול של 2026 כבר לא נראה כמו משחק שרוצים לסגור מראש. כל קבוצה יכולה לזכות ועכשיו המירוץ הופך להיות הרבה יותר מעניין ותחרותי לכולם. מי שחשב שהכל כבר הוחלט יכול לחשוב שוב.",
     "d": "Mon, 04 May 2026 17:47:05 +0000",
     "v": 0,
     "l": [
@@ -451,7 +446,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "⚡️ Steam Controller выпустили — самый мощный геймпад для геймеров будет стоить $99 (7500 рублей), при этом в России предзаказы открыты в три раза дороже, 19 990 рублей. Но мы нашли дешёвый способ. Соб\n\n⚡️ Steam Controller выпустили — самый мощный геймпад для геймеров будет стоить $99 (7500 рублей), при этом в России предзаказы открыты в три раза дороже, 19 990 рублей. Но мы нашли дешёвый способ. Собрали все мясо по девайсу:• По сути это полноценный Steam Deck без экрана, как утверждают разрабы. Его создали специально, чтобы вы могли управлять сложным интерфейсом компа и Steam прямо с дивана.• Стики, тачпады, гироскоп, вибрация и задние кнопки — все в наличии и как полагается.• TMR-стики без др",
+    "t": "⚡️ Steam Controller הוצא לשוק - הג'ויסטיק החזק ביותר ליגמרים יעלה $99, אבל בروסיה המחיר גבוה פי 3\n\nValve הוציאה את ה-Steam Controller החדש שלהם - בעצם זה Steam Deck ללא מסך, כמו שהמפתחים טוענים. התקן חדש זה מיועד לשחקנים שרוצים לשלוט בממשק המחשב וב-Steam ישר מהספה, עם סטיקים מלאים, טאچפדים, ג'יירו, וייברציה וכמובן כפתורים אחוריים. המחיר בחו\"ל הוא $99 אבל ברוסיה הוא מכובד בתוקף - שלוש פעמים יותר יקר!",
     "d": "2026-05-04T17:26:35+00:00",
     "v": 0,
     "l": [
@@ -474,7 +469,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 21,
-    "t": "Над этим рыдал даже Хемингуэй:\n\nНад этим рыдал даже Хемингуэй:",
+    "t": "גם המינגווי היה בוכה על זה:\n\nכותרת דרמטית שמעוררת כל מיני שאלות על מה בדיוק גרם לאפילו כותב הספרות הגדול בעולם להתפרץ בדמעות. זו כנראה כלשהי מ'הידיעות' המטורפות שמופיעות בערוץ של Backdoor - אלה שמוסיפות קצת טוויסט דרמטי לחדשות הטכנולוגיה שלנו.",
     "d": "2026-05-04T17:01:22+00:00",
     "v": 0,
     "l": [
@@ -497,7 +492,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 22,
-    "t": "Концепция Байесовского мозга, или Почему этот заголовок в моменте — ваша галлюцинацияСравнение биологического интеллекта и алгоритмов машинного обучения регулярно сводится к абстракциям. За фасадом из\n\nКонцепция Байесовского мозга, или Почему этот заголовок в моменте — ваша галлюцинацияСравнение биологического интеллекта и алгоритмов машинного обучения регулярно сводится к абстракциям. За фасадом из метафор легко упустить архитектурную идентичность двух систем.Нервная система игнорирует прямую обработку внешних сигналов. Вместо этого задействуется байесовский вывод: мозг генерирует предсказания сенсорного ввода, непрерывно минимизируя ошибку. Процесс математически повторяет принципы работы диф",
+    "t": "קונספט המוח הבייסיאני: למה הכותרת הזו בעצם ז幻ציה שלך\n\nמשהו מעניין בהשוואה בין המוח הביולוגי ל-AI - גם זה וגם זה לא באמת עובדים על פי מה שאנחנו חושבים. המוח שלנו לא סתם מעבד את הסיגנלים שנכנסים; הוא כל הזמן מנחש מה צריך להיות, ומשפר את הניחושים הללו לפי טעויות - זה בדיוק Bayesian inference. התיאור של המתמטיקה מאחורי זה מזכיר הרבה את איך שאלגוריתמי ML מודרניים למעשה עובדים.",
     "d": "2026-05-04T17:00:51+00:00",
     "v": 0,
     "l": [
@@ -520,7 +515,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 23,
-    "t": "The latest AI news we announced in April 2026\n\nHere are Google’s latest AI updates from April 2026",
+    "t": "חדשות ה-AI העדכניות שהכרזנו באפריל 2026\n\nגוגל חשפה את העדכונים החדשים שלה בעולם ה-AI באפריל 2026, והתוצאות נראות די מרשימות. אנחנו מדברים על שיפורים משמעותיים שאמורים להשפיע על כל מיני יישומים, מעיבוד טקסט ועד ניתוח תמונות. אם אתם עוקבים אחרי התפתחויות בעולם ה-AI, זה בהחלט משהו שכדאי לכם להכיר. מקור: Google AI Blog",
     "d": "Mon, 04 May 2026 17:00:00 +0000",
     "v": 0,
     "l": [
@@ -540,13 +535,13 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp",
     "source": "Google AI Blog"
   },
   {
     "id": 24,
-    "t": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race\n\nStuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
+    "t": "עד המומחה היחיד של אלון מאסק בתביעה נגד OpenAI חוזר אל הדיון על מרוץ ה-AGI\n\nסטיוארט ראסל, חוקר בינה מלאכותית בעל משקל כבד בתחום, הופיע כעד זקוף עבור מאסק והביע חשש מול מרוץ התחרות האכזר בין החברות על AGI. ראסל הטוען שממשלות צריכות להטיל אילוצים משמעותיים על מעבדות ה-AI חזיתיות כדי למנוע תרחיש של כושר הרסני ללא בקרה.",
     "d": "Mon, 04 May 2026 16:57:47 +0000",
     "v": 0,
     "l": [
@@ -572,7 +567,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 25,
-    "t": "Это точно какой-то вирус 😬@xor_journal\n\nЭто точно какой-то вирус 😬@xor_journal",
+    "t": "זה בודאי איזה וירוס 😬\n\nXOR Journal חושף תופעה חשודה שנראית כמו עבודה של מלוות זדוניות - אולי זה וירוס, אולי זה משהו יותר מחוכם. בכל מקרה, זה משהו שאתם בטח תרצו לדעת עליו אם אתם מודאגים מאבטחת הסייבר שלכם. לא להיות אלרמיסט, אבל בימים האלה עדיף להיות עירני.",
     "d": "2026-05-04T16:54:54+00:00",
     "v": 0,
     "l": [
@@ -595,7 +590,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 26,
-    "t": "Alienware 16 Area-51 review: OLED screen update\n\nThe Alienware 16 Area-51 is a slightly updated spaceship of a laptop that's powerful and finally gets an OLED display option.",
+    "t": "סקירה Alienware 16 Area-51: עדכון מסך OLED\n\nה-Alienware 16 Area-51 הוא כלי עבודה חזק וחסר תחרות שלבסוף קיבל מסך OLED שראוי לו. לפטופ הגיימינג של אלינוור יש עדכונים קטנים אך משמעותיים שהופכים אותו לעוד יותר משהו שכל גיימר רציני היה רוצה להחזיק. עם הטכנולוגיית OLED החדשה, קבלת תמונה עם צבעים עמוקים וזמן תגובה מהיר זה כבר לא חלום.",
     "d": "Mon, 04 May 2026 16:54:39 +0000",
     "v": 0,
     "l": [
@@ -618,7 +613,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 27,
-    "t": "🔥 Humanoid robots are quietly entering mass productionFigure AI just dropped a stat that feels straight out of sci-fi: Their BotQ factory can produce one fully functional humanoid robot every 90 minu\n\n🔥 Humanoid robots are quietly entering mass productionFigure AI just dropped a stat that feels straight out of sci-fi: Their BotQ factory can produce one fully functional humanoid robot every 90 minutesProduction at scale: • Target for this year: 100,000 robots• That’s already approaching automotive-level manufacturing scale• Long-term goal: 1 million robots per yearBut here’s the twist: • These robots aren’t even on the open market yet• They’re being deployed quietly in controlled environments",
+    "t": "🔥 רובוטים הומנואידים נכנסים בשקט לייצור המוני\n\nFigure AI בדיוק חשפה נתון שנראה ישר מסרט מדע בדיוני: מפעל ה-BotQ שלהם מייצר רובוט הומנואידי מלא תפקוד כל 90 דקות! החברה מדברת על ייצור של 100,000 יחידות השנה, וזה כבר בסדר גודל של תעשיית הרכב, עם מטרה לטווח ארוך של מיליון רובוטים בשנה. אבל הנתון המעניין באמת: הרובוטים האלה עדיין לא בשוק הפתוח - הם מתופסים בשקט בסביבות מבוקרות בכל העולם.",
     "d": "2026-05-04T16:54:01+00:00",
     "v": 0,
     "l": [
@@ -633,8 +628,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -642,7 +636,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 28,
-    "t": "AMD Ryzen AI 5 435G APU breaks cover in early benchmarks — six-core Zen 5 chip goes head-to-head with the Ryzen 5 8600G for budget PC builders\n\nThe Ryzen AI 5 435G shows similar performance to the existing Ryzen 5 8600G in new Geekbench 6 benchmarks.",
+    "t": "AMD Ryzen AI 5 435G חדש נחשף בבנצ'מארקים ראשונים — שבב Zen 5 עם 6 ליבות עומד מול Ryzen 5 8600G לבנאים של PC בחסכוניות\n\nה-Ryzen AI 5 435G החדש של AMD מתחיל להראות את עצמו בנתוני ביצועים שפורסמו הזה, וזה נראה שהוא מתקרב מאוד ליכולות ה-8600G הקודם שלהם. בבנצ'מארק Geekbench 6 החדש, הAPU החדש מראה ביצועים דומים מאוד, מה שהופך אותו לאפשרות מעניינת למי שחפץ במחיר זול בלי להקריב כוח עיבוד משמעותי.",
     "d": "Mon, 04 May 2026 16:52:18 +0000",
     "v": 0,
     "l": [
@@ -665,7 +659,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 29,
-    "t": "The creator of Roomba is back with a furry robot companion\n\nThe first “Familiar” from Colin Angle’s new startup, Familiar Machines & Magic, is a robot that is designed to live in your home and interact autonomously with family members. | Image: Familiar Machines and Magic\t\n\nColin Angle, the maker of the Roomba and the man who helped put 50 million household robots into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner.\nThe first robot from Angle's new company, Familiar Machines & Magic, is a dog-sized roboti",
+    "t": "יוצר ה-Roomba חוזר עם רובוט שעוזר - הפעם כחברה לבית\n\nקולין אנגל, האיש שהביא 50 מיליון רובוטים לבתים שלנו, יצא בסטארטאפ חדש בשם Familiar Machines & Magic עם רובוט שנראה כמו כלב קטן. השונות הגדולה? הפעם זה לא יטאטא את הדירה שלך - הוא בא להיות חברה אמיתית שתקיים אינטראקציה עם החברים והמשפחה בצורה אוטונומית. אם זה עובד כמו שמתכננים, עלולה להיות לנו מהפכה חדשה בעולם הרובוטיקה הביתית.",
     "d": "2026-05-04T16:51:38.000Z",
     "v": 0,
     "l": [
@@ -680,8 +674,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -689,7 +682,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 30,
-    "t": "Anthropic teams with Goldman, Blackstone and others on $1.5 billion AI venture targeting PE-owned firms\n\nThe move marks Anthropic's latest effort to deepen its lead in the market for enterprise AI as competition intensifies with rivals including OpenAI",
+    "t": "אנתרופיק משתפת פעולה עם Goldman Sachs וBlackstone בעסקה של 1.5 מיליארד דולר לפתרונות AI למשרדי PE\n\nאנתרופיק מחזקת את המעמד שלה בשוק ה-Enterprise AI עם קרן חדשה של 1.5 מיליארד דולר בשיתוף עם שחקנים כלכליים גדולים, במטרה להיות הממשקפת המועדפת של חברות ה-Private Equity. המהלך מראה שהחברה לא רוצה לשכוח את היוקרה של ווקיל עסקי כשהיא מתחרה עם OpenAI על השליטה בשוק ה-AI הארגוני.",
     "d": "Mon, 04 May 2026 16:46:31 GMT",
     "v": 0,
     "l": [
@@ -703,21 +696,19 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Anthropic"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "CNBC Tech"
   },
   {
     "id": 31,
-    "t": "Sierra raises $950M as the race to own enterprise AI gets serious\n\nThe raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
+    "t": "סיירה גייסה 950 מיליון דולר - המרוץ להשתלטות על ה-AI הארגוני מתחמם\n\nעם יותר מ-מיליארד דולר בקופה, סיירה מתכננת להפוך ל\"הסטנדרט הגלובלי\" עבור חוויות לקוח מופעלות ע\"י AI. רואים פה טובה עוד כמה שחקנים גדולים שמנסים להטות את השוק של customer service חכם לכיוונם.",
     "d": "Mon, 04 May 2026 16:45:55 +0000",
     "v": 0,
     "l": [
@@ -732,16 +723,15 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "funding"
+      "news"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 32,
-    "t": "Банки убирают мессенджеры из приложений«Сбер» и «Т-Банк» постепенно отключают пользовательские чаты и убирают комментарии к переводам.У «Сбера» функция окончательно исчезнет 5 мая. У «Т-Банка» раздел \n\nБанки убирают мессенджеры из приложений«Сбер» и «Т-Банк» постепенно отключают пользовательские чаты и убирают комментарии к переводам.У «Сбера» функция окончательно исчезнет 5 мая. У «Т-Банка» раздел «Чат» уже заменяют на «Поддержку», а переписки между пользователями удаляют. Но у некоторых всё ещё работает.Официальных объяснений нет. В сети предполагают, что причина — требования к установке специальных систем хранения переписок для попадания в «белые списки», о чём в феврале писало РБК.• Канал ",
+    "t": "הבנקים מסירים מסנג'רים מהאפליקציות - סבר וטי-בנק מכבים צ'טים בהדרגה\n\nסבר וטי-בנק הרוסיים מתחילים להיפטר מפונקציות המסנג'ר שלהם - הם מסירים צ'טים בין משתמשים והערות על העברות כסף. סבר מתכננת להשמיד לחלוטין את התכונה בתאריך 5 במאי, בעוד שטי-בנק כבר החליף את סעיף ה-Chat לעמוד Support. אף אחד מהבנקים לא הסביר בצורה רשמית מה קורה כאן, אבל כמה כתבים יוצאים מדעה שזה קשור לדרישות בנוגע להיצמדות לרגולציה קשוחה יותר על אחסון נתונים.",
     "d": "2026-05-04T16:41:16+00:00",
     "v": 0,
     "l": [
@@ -764,7 +754,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 33,
-    "t": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims\n\nMusk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America.\"",
+    "t": "אלון מאסק שלח הודעות איומות לגברג ברוקמן וסם אלטמן אחרי שביקש הסדר, טוען OpenAI\n\nבמהלך סכסוך משפטי עם OpenAI, מאסק שלח SMS מאיים לנשיא החברה ולמייסד המשותף שלה, בהם טוען שהוא וה-CEO סם אלטמן 'יהפכו לגברים השנואים ביותר באמריקה'. זה רק החלק האחרון בדרמה המשפטית שמתפתחת בין מאסק לחברת ה-AI שלא הרחיקה לנושא.",
     "d": "Mon, 04 May 2026 16:36:03 +0000",
     "v": 0,
     "l": [
@@ -790,7 +780,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 34,
-    "t": "AMD is adding HDMI 2.1 support for Linux. That's good news for the Steam Machine.\n\nFixed Rate Link being added now; Display Stream Compression coming soon.",
+    "t": "AMD מוסיפה תמיכה ב-HDMI 2.1 ל-Linux. חדשות טובות ל-Steam Machine\n\nAMD עובדת על שיפור התמיכה בחיבור ה-HDMI לינוקס, עם Fixed Rate Link שכבר בדרך ו-Display Stream Compression שיגיע בקרוב. זה אמור להיות משפט טוב לחובבי gaming על לינוקס והמכשירים כמו Steam Machine, שיוכלו סוף סוף להנות מתצוגה ברזולוציה גבוהה וrefresh rate אמיתי. בעיקרון, שדרוג די משמעותי שישדרג את החוויה של משחקים על פלטפורמה הפתוחה.\n\nמקור: Ars Technica",
     "d": "Mon, 04 May 2026 16:26:49 +0000",
     "v": 0,
     "l": [
@@ -813,7 +803,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 35,
-    "t": "🏆 Победители акселератора Yandex AI Startup Lab появились на рекламных креативах в МосквеТысяча заявок. Финал из 12 команд. Три месяца работы с менторами Яндекса и вот победители:🥇 Gradius — создают\n\n🏆 Победители акселератора Yandex AI Startup Lab появились на рекламных креативах в МосквеТысяча заявок. Финал из 12 команд. Три месяца работы с менторами Яндекса и вот победители:🥇 Gradius — создают технологию, которая встраивает контекстную рекламу в ответы нейросетей. Проект увеличил количество пользователей, которые видят креативы в чатах с ИИ, с 1 до 3 млн.🥈 VisioMed.​AI — разработчики системы для анализа снимка сетчатки глаза и помощи офтальмологам в выявлении заболевания на ранних стади",
+    "t": "🏆 הזוכים של תאצ'ינג יאנדקס AI יופיעו בקמפיינים פרסומיים במוסקבה\n\nיאנדקס סיימה את תאצ'ינג ה-AI שלה עם אלף בקשות ו-12 קבוצות בפינל. Gradius זכתה בזהב בעוד שהצליחה להטמיע פרסומות בתוך תשובות של בוטים - מה שגדל את הכמות של משתמשים שרואים את הקריאטיבים מ-1 ל-3 מיליון! VisioMed.AI, שזכתה בכסף, בנתה AI שמנתחת תמונות של הרשתית ועוזרת לרופאי עיניים לתפוס מחלות בשלבים מוקדמים. סוף-סוף מישהו עושה משהו שימושי עם כל ה-AI הזה!",
     "d": "2026-05-04T16:25:24+00:00",
     "v": 0,
     "l": [
@@ -836,7 +826,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 36,
-    "t": "Если хочешь разрабатывать умные устройства, то для тебя есть идеальные магистратуры! 🤓ВШЭ и МФТИ вместе с Яндексом разработали программы «Аппаратная разработка умных устройств». Там тебя научат работ\n\nЕсли хочешь разрабатывать умные устройства, то для тебя есть идеальные магистратуры! 🤓ВШЭ и МФТИ вместе с Яндексом разработали программы «Аппаратная разработка умных устройств». Там тебя научат работать с железом, интегрировать ML-модели и управлять умной техникой. И всё это под руководством инженеров из команды Алисы и «Умных устройств» Яндекса и с топовыми преподавателями. Программы разрабатывались при участии разработчиков Яндекса и опытных преподавателей, поэтому актуальные знания и практик",
+    "t": "רוצים לפתח מכשירים חכמים? וש״ע ו-MFTI עם Yandex הכינו לכם תוכניות מדוקדקות! 🤓\n\nוש״ע ו-MFTI שיתפו פעולה עם Yandex והשיקו תוכניות מוסמכות ב\"אפליקציות חומרה לעולם IoT\". בתוכניות האלה תלמדו לעבוד עם hardware, לשלב ML-מודלים ולנהל מכשירים חכמים - הכל תחת ההדרכה של מהנדסי אליסה ו-Smart Home של Yandex. התוכנית פותחה בהשתתפות מפתחי Yandex וללא ספק תדע כל מה שצריך כדי להיכנס לתחום הקופץ הזה.",
     "d": "2026-05-04T16:15:09+00:00",
     "v": 0,
     "l": [
@@ -859,7 +849,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 37,
-    "t": "⚡️ Интернета на майские не будет и в Питере — с 5 по 9 число жители Северной столицы получают цифровой детокс.Мегафон и Yota уже предупредили об отключениях.Трогаем траву все майские.👍 Бэкдор\n\n⚡️ Интернета на майские не будет и в Питере — с 5 по 9 число жители Северной столицы получают цифровой детокс.Мегафон и Yota уже предупредили об отключениях.Трогаем траву все майские.👍 Бэкдор",
+    "t": "⚡️ אין אינטרנט בסנט פטרבורג ליום העצמאות - תושבי העיר מקבלים \"דיטוקס דיגיטלי\" מ-5 עד 9 במאי\n\nחדשות שמעוררות צחוק או דאגה - Megafon ו-Yota הודיעו על הפסקות אינטרנט בסנט פטרבורג בימי חג העצמאות. לכן אם אתם רוצים לדבר עם חברים שלכם בעיר, תצטרכו לצאת החוצה ולגעת בעץ (כלומר לחזור להיות אנושיים לרגע). זה כמו שהטבע חזר לתא הזכרון! 👍",
     "d": "2026-05-04T16:03:17+00:00",
     "v": 0,
     "l": [
@@ -882,7 +872,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 38,
-    "t": "AI platforms reference Nigel Farage more than other leaders when prompted on UK politics, study shows\n\nReform UK is ‘doing something right when it comes to visibility’ on multiple AI systems, say researchers\nAI platforms are more likely to reference Nigel Farage than any other UK leader when prompted about British politics, according to an AI search analytics firm.\n“We are confident in saying that Reform are showing up significantly more than you would expect,” said Malte Landwehr, an expert at Peec AI, the firm that did the research. “So they’re doing something right when it comes to LLM [large ",
+    "t": "מחקר חושף: פלטפורמות AI מזכירות את ניג'ל פראג' יותר מכל מנהיג בריטי אחר כשמדברים על פוליטיקה בבריטניה\n\nמערכות AI שונות מופיעות בהן הפניות לניג'ל פראג' ולמפלגת Reform UK בתדירות גבוהה משמעותית יותר מאשר למנהיגים בריטיים אחרים, כך עולה ממחקר של חברת Peec AI. חוקרים טוענים שReform UK מצליחה לקבל ראות מדיה משמעותית בLLMs, מה שמעיד על אסטרטגיה תקשורתית יעילה במרחב הדיגיטלי. זה מעלה שאלות חשובות על איך AI models לומדים על אישים ומפלגות פוליטיות ומה זה אומר לעתידות הבחירות בעידן הבינה המלאכותית.",
     "d": "Mon, 04 May 2026 16:00:27 GMT",
     "v": 0,
     "l": [
@@ -899,13 +889,13 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://i.guim.co.uk/img/media/8750e026eef0661d94a835ad30b6f6eb03d04746/500_141_4653_3722/master/4653.jpg?width=140&quality=85&auto=format&fit=max&s=4c900a7ef1c5e0c7487b9f25a7dc0901",
     "source": "The Guardian AI"
   },
   {
     "id": 39,
-    "t": "Motion-capture exoskeletons let violinists feel each others’ subtlest moves\n\nWorld-renowned science fiction author Arthur C. Clarke (2001: A Space Odyssey, Childhood’s End) once quipped that “Any teacher who can be replaced by a computer should be.” Some people think Clarke’s statement means we should replace all teachers.\nContinue Reading\nCategory: Robotics, Engineering\nTags: Exoskeleton, Education, Training aid, Ghent University, Violin",
+    "t": "אקסוסקלטוןs בצילום תנועה מאפשרים לנגני כינור להרגיש זה את המהלכים הדקים של זה\n\nמה זה קרה בגטנט אוניברסיטי? חוקרים פיתחו exoskeleton חדש שמצייד את נגני הכינור בחיישנים כדי שיוכלו להעביר תנועות ותחושות מדויקות לתלמידים שלהם - כמו שמעביר מאסטר תנועות קטנוטות בידיים דרך טכנולוגיה. זה שינוי משחק בעולם ההכשרה המוזיקלית, כי כל עכשיו אתה יכול ממש להרגיש איך המנחה שלך מזיז את הקשת ולא רק לראות את זה.",
     "d": "Mon, 04 May 2026 16:00:00 GMT",
     "v": 0,
     "l": [
@@ -920,8 +910,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -929,7 +918,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 40,
-    "t": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services\n\nBoth Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
+    "t": "Anthropic ו-OpenAI משיקים שותפויות משותפות לשירותי AI ארגוניים\n\nגם Anthropic וגם OpenAI החליטו לעבוד עם מנהלי נכסים כדי להגביר את הטחנות השיווק של מוצרי ה-AI שלהם לעסקים. זה נראה כמו צעד אסטרטגי של שתי החברות הענקיות לתפוס יותר מהשוק הארגוני שגדל בטירוף - במקום להתחרות רק על משתמשים רגילים.",
     "d": "Mon, 04 May 2026 15:59:24 +0000",
     "v": 0,
     "l": [
@@ -956,7 +945,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 41,
-    "t": "Week one of the Musk v. Altman trial: What it was like in the room\n\nThis story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging that the millions he spent to…",
+    "t": "שבוע ראשון במשפט מאסק נגד אלתמן: איך זה נראה בתוך החדר\n\nשניים מהאנשים החזקים ביותר בעולם ה-AI - סם אלתמן ואילון מאסק - התחילו בעימות משפטי בעוקלנד בשבוע שעבר. מאסק תובע את OpenAI בטענה שהמיליונים שהוציא כדי להקים את החברה לא שימשו לפיתוח טכנולוגיה לטובת האנושות כפי שהיה מתוכנן. זה המשפט של השנה בעולם הטק, וייקטור הוא שם בזירה.",
     "d": "Mon, 04 May 2026 15:51:27 +0000",
     "v": 0,
     "l": [
@@ -982,7 +971,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 42,
-    "t": "⚡️ Интернета в Москве точно не будет на вторые майские! Операторы продолжают рассылать предупреждения юзерам.На этот раз «письмо счастья» прилетело от МТС. До этого об отключении писал Билайн.Готовим \n\n⚡️ Интернета в Москве точно не будет на вторые майские! Операторы продолжают рассылать предупреждения юзерам.На этот раз «письмо счастья» прилетело от МТС. До этого об отключении писал Билайн.Готовим голубиную почту.👍 Бэкдор",
+    "t": "⚡️ אין אינטרנט בתקופת החגים במוסקבה! מפעילי הרשת משלחים אזהרות למשתמשים\n\nהמפעילים ברוסיה לא מתכוונים לתת לנו קצת שלום - הפעם הגיע התרעון מ-MTS, ולפני זה גם Beeline הזהיר על הפסקות. נראה שצריכים להזמין דיוניות בחזרה לתקשורת... 👍 | מקור: Backdoor",
     "d": "2026-05-04T15:17:50+00:00",
     "v": 0,
     "l": [
@@ -1005,7 +994,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 43,
-    "t": "В сеть попала часть спецификаций линейки Google Pixel 11  Судя по утечке Mystic Leaks, Google готовит что-то интересное: новый ширик, процессор Tensor G6, а также подсветка Pixel Glow, которая заменит\n\nВ сеть попала часть спецификаций линейки Google Pixel 11  Судя по утечке Mystic Leaks, Google готовит что-то интересное: новый ширик, процессор Tensor G6, а также подсветка Pixel Glow, которая заменит собой бесполезный термометр. Ресурс говорит, что её разместят в плато камеры, хотя на недавних рендерах от OnLeaks его не было. В сети также гуляет вариант с подсветкой вокруг камеры, и кто знает, может быть, именно он дойдёт до релиза.Характеристики от младшей к старшей модели вплоть до Pixel 11 P",
+    "t": "דלף חלק מהספציפיקציות של סדרת Google Pixel 11 - Tensor G6 ותאורת Pixel Glow בדרך\n\nהקו של גוגל החדש מתחיל להתגלות: לפי דליפת Mystic Leaks, Pixel 11 יגיע עם Tensor G6 חדש וקצת פיצ'רים מעניינים כמו Pixel Glow - תאורה חכמה שתחליף את מד הטמפרטורה שלא השתמשנו בו בכלל. Google תחניך את ההדפסה בפלטפורמת המצלמה, אבל עדיין יש ספקות אם זה יגיע למוצר הסופי או שהם יקחו את הגרסה עם התאורה סביב העדשה. בקרוב נקבל יותר פרטים על כל המודלים עד Pixel 11 Pro.",
     "d": "2026-05-04T15:16:07+00:00",
     "v": 0,
     "l": [
@@ -1055,7 +1044,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 45,
-    "t": "Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial\n\nOpenAI accuses Musk of trying to \"coerce\" a settlement days before trial started.",
+    "t": "איום \"מלחמת עולם שלישית\" של מאסק בתביעת טוויטר חוזר להציתו בתביעת OpenAI\n\nOpenAI טוענת שמאסק ניסה \"לכפות\" הסדר פשרה ימים ספורים לפני תחילת המשפט. זה קצת דרמתי - המיליארדר המשוגע שלנו נוגע בחוטים האדומים שלו בכל מקום, וגם בעולם של AI הוא לא חריג. Ars Technica",
     "d": "Mon, 04 May 2026 15:05:58 +0000",
     "v": 0,
     "l": [
@@ -1069,14 +1058,11 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Amazon"
+      "OpenAI"
     ],
     "tags": [
       "news",
-      "model",
-      "product",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2273259145-1024x648.jpg",
@@ -1108,7 +1094,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 47,
-    "t": "Запрещённая математика в твоём autograd: бесконечно малые, дуальные числа и нестандартный анализКлассический матанализ десятилетиями отвергал бесконечно малые величины, заменяя их громоздкими пределам\n\nЗапрещённая математика в твоём autograd: бесконечно малые, дуальные числа и нестандартный анализКлассический матанализ десятилетиями отвергал бесконечно малые величины, заменяя их громоздкими пределами. Физики продолжали оперировать дифференциалами интуитивно, пока теоретики считали это ересью. Однако вызов loss.backward() в ML-фреймворках опирается на ту самую «запрещённую» концепцию Лейбница.Автодифференцирование, на котором держатся PyTorch и JAX, работает не через абстрактные предельные пере",
+    "t": "המתמטיקה האסורה בautogradים שלך: אינפיניטסימלים, מספרים דואליים והאנליזה הלא-סטנדרטית\n\nלעשרות שנים החלל הקלאסי דחה את רעיון האינפיניטסימלים והחליף אותם בגבולות מסורבלים, אבל פיזיקאים המשיכו להשתמש בדיפרנציאלים בדרך אינטואיטיבית בזמן שתיאורטיקנים קראו לזה כדת. כאן הפתעה: כשאתה קורא loss.backward() בPyTorch או JAX, למעשה אתה משתמש בדיוק בתפיסה ה\"אסורה\" הזאת של לייבניץ. אוטודיפרנציאציה - התשתית של כל מסגרות ה-ML המודרניות - עובדת לא דרך גבולות מתמטיים מופשטים אלא דרך דואל נומברים - מושג שהיה נחשב הרطיה עד שלא התברר שהוא בדיוק מה שצריך בשביל backprop יעיל.",
     "d": "2026-05-04T15:00:53+00:00",
     "v": 0,
     "l": [
@@ -1188,7 +1174,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 50,
-    "t": "📸 Chinese authorities are urging people to stop flashing the V sign in photos, so no one can steal your fingerprintsThe warning was issued by CCTV ahead of the May holidays.A clear shot of your finge\n\n📸 Chinese authorities are urging people to stop flashing the V sign in photos, so no one can steal your fingerprintsThe warning was issued by CCTV ahead of the May holidays.A clear shot of your fingers from just 1.5 meters away is enough to copy a fingerprint accurately, experts say. And as a 2017 study by Japanese researchers showed, no special equipment is required.This is exactly how a hacker recreated the fingerprints of Germany's Defense Minister in 2014, using a few photos from a public e",
+    "t": "⚠️ הרשויות הסיניות מזהירות: הפסיקו לעשות V בתמונות - כן, באמת בגלל טביעות אצבע\n\nCCTV הסיני הוציא אזהרה רשמית לפני חגי מאי - מסתבר שתמונה ברורה של האצבעות שלכם מ-1.5 מטר בלבד מספיקה כדי להעתיק טביעת אצבע בדיוק. מחקר של חוקרים יפנים מ-2017 הוכיח שלא צריך שום ציוד מיוחד, וזה בדיוק איך האקר הצליח בשנת 2014 לשחזר את טביעות האצבע של שרת ההגנה של גרמניה באמצעות כמה תמונות מתוך הרשת הציבורית.",
     "d": "2026-05-04T14:43:01+00:00",
     "v": 0,
     "l": [
@@ -1203,10 +1189,9 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "security"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": "https://cdn4.telesco.pe/file/O2UpR3ZVUps3FgZmtvqFNuBhPh8UdQCsMiBS6v2jJgO3WQYHO42H8PjZF1azlOYVMaqmECOwB901a3X9fQIzLYYo_MMPFZxFOvzhVgKfSu8H01PTwQcEDb9v_wV0YES0Hlwxw2ZskT90PDXFdEj9SA8MLUppN8WTxLpL98tXtjOYgMrhSJTYiP_TxVgsoplYwEafL_ZJeRYsvbcM5eTX1QKVFrHbcnKfjf07NLeNE22_F31DfT4Vx2VFzPQcc0JoOB-xZlzpPL9sZoDb9HlgTeXLoozDUAobSW-6rXKKYJcxjEmz7haerbGnlC1ZLAHY7w_Um1rLXrx5FWV-vOy42Q.jpg",
     "source": "Hi, AI English (TG)"
   },
@@ -1284,7 +1269,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 54,
-    "t": "🇭🇰 D1 is a robot developed by the Hong Kong–based startup Direct Drive Tech. It can automatically assemble into a larger robot or separate into smaller units depending on the task. This helps it mov\n\n🇭🇰 D1 is a robot developed by the Hong Kong–based startup Direct Drive Tech. It can automatically assemble into a larger robot or separate into smaller units depending on the task. This helps it move through tight spaces or carry heavier loads for inspection and maintenance work.@aipost 🏴",
+    "t": "D1 - הרובוט המודולארי מהונג קונג שמתפרק ומתחבר לפי הצורך\n\nסטארטאפ הונג קוניגי Direct Drive Tech פיתחה רובוט חכם שיודע להתפרק למודולים קטנים או להתחבר לרובוט ענקי - כל זה בהתאם למשימה שלפניו. D1 יכול להתגנב למרווחים צרים וגם להרים משאות כבדות, מה שעושה אותו מושלם לעבודות בדיקה ותחזוקה.",
     "d": "2026-05-04T14:07:01+00:00",
     "v": 0,
     "l": [
@@ -1299,8 +1284,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -1308,7 +1292,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 55,
-    "t": "⚡️ Официально: с 27 мая из параллельного импорта исключат ноутбуки и жесткие диски западных производителей, но ассортимент не сократится — в России достаточно своих аналогов.Минпромторг прямо так и ск\n\n⚡️ Официально: с 27 мая из параллельного импорта исключат ноутбуки и жесткие диски западных производителей, но ассортимент не сократится — в России достаточно своих аналогов.Минпромторг прямо так и сказал:Аналоги, чтобы заместить товары из недружественных стран, есть. Такие меры повысят спрос на отечественную радиоэлектронную продукцию, что в свою очередь будет способствовать развитию отечественной радиоэлектронной промышленности.На пикче — всё, что придётся заменить на радиоприёмники.👍 Бэкдор",
+    "t": "⚡️ רשמי: מ-27 במאי יוסרו מיבוא מקביל נייד וכוננים של יצרנים מערביים, אך המלאי לא יצטמצם - ברוסיה יש מספיק אנלוגים מקומיים\n\nרוסיה מסירה רשמית מיבוא מקביל לפטופים וכוננים קשיחים של חברות מערביות החל מ-27 במאי, אבל לא חששו - המשרד לתעשייה מובטח שיש להם חלופות מקומיות שתופסות את המקום. הצעד הזה אמור להגביר את הביקוש לאלקטרוניקה רוסית וליתן דחיפה לתעשייה המקומית (כן, הם רוצים להחליף כל זה ברדיו קלסיים 😅). Backdoor",
     "d": "2026-05-04T14:03:45+00:00",
     "v": 0,
     "l": [
@@ -1426,7 +1410,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 60,
-    "t": "«Почта России» больше не позволяет следить за посылкойВ мобильном приложении теперь отображается лишь начальный и конечный статус доставки, поэтому все отправления теперь как тот суслик из «ДМБ»: ты е\n\n«Почта России» больше не позволяет следить за посылкойВ мобильном приложении теперь отображается лишь начальный и конечный статус доставки, поэтому все отправления теперь как тот суслик из «ДМБ»: ты его не видишь, а он есть.Дополнительно поперхнуться чаем можно от того, что на такие изменения сервис пошёл после обратной связи россиян. Это что за сатана такие отзывы оставлял?• Канал Wylsacom в MAX",
+    "t": "דואר רוסיה הפסיק לאפשר מעקב אחרי חבילות - רק סטטוס התחלה וסיום\n\nדואר רוסיה עשה צעד די מוזר - באפליקציה הנייד שלהם עכשיו מופיעים רק הסטטוס ההתחלתי והסיום של המשלוח, וזה בעצם אומר שהחבילה שלך נעלמת לחלוטין באמצע הדרך (כמו אותו susliq מהסרט הרוסי - קיים אבל אתה לא רואה אותו). והדבר המצחיק ביותר? דואר רוסיה קובע שהם עשו את השינוי הזה בגלל משוב מהציבור - אז כנראה שיש אנשים שבאמת רצו פחות שקיפות בעקבוב הדברים שלהם.",
     "d": "2026-05-04T13:45:10+00:00",
     "v": 0,
     "l": [
@@ -1590,7 +1574,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 67,
-    "t": "Простой способ сделать мессенджер Макс безопаснее без Docker и проксиИзоляция веб-приложений часто ассоциируется с развёртыванием увесистой инфраструктуры. Кажется, что для ограничения сетевых запросо\n\nПростой способ сделать мессенджер Макс безопаснее без Docker и проксиИзоляция веб-приложений часто ассоциируется с развёртыванием увесистой инфраструктуры. Кажется, что для ограничения сетевых запросов мессенджера обязательно нужен Docker, выделенный прокси-сервер или сложные PAC-файлы.Однако движок Firefox позволяет собрать надёжную песочницу без лишних сущностей.",
+    "t": "איך להפוך את מסנג'ר מקס לבטוח יותר בלי Docker או פרוקסי\n\nלמרות שמרבית המפתחים חושבים שצריך Docker או סרבר פרוקסי כדי לבודד אפליקציות וב, יש דרך הרבה יותר פשוטה: Firefox engine מאפשר לבנות sandbox אמיתי בלי כל ההשקעה בתשתית כבדה. כך שאם אתם רוצים להגביל בקשות רשת של מסנג'ר מקס, אפשר לעשות זאת בצורה אלגנטית וקלה בהרבה מדי.",
     "d": "2026-05-04T13:01:16+00:00",
     "v": 0,
     "l": [
