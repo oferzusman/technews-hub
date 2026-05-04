@@ -1,9 +1,9 @@
 {
-  "total": 6683,
+  "total": 6859,
   "translated": 6657,
-  "untranslated": 26,
-  "today": 85,
-  "week": 914,
+  "untranslated": 202,
+  "today": 261,
+  "week": 1090,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 475,
+      "total": 476,
       "translated": 471,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
@@ -31,13 +31,13 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 311,
+      "total": 312,
       "translated": 307,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 308,
+      "total": 309,
       "translated": 304,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -61,7 +61,7 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 231,
+      "total": 232,
       "translated": 226,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -198,16 +198,58 @@
       "lastDate": "2026-04-09T07:04:31Z"
     },
     {
+      "name": "Habr (TG)",
+      "total": 20,
+      "translated": 0,
+      "lastDate": "2026-05-04T19:00:58+00:00"
+    },
+    {
+      "name": "Hi, AI English (TG)",
+      "total": 20,
+      "translated": 0,
+      "lastDate": "2026-05-04T14:43:01+00:00"
+    },
+    {
+      "name": "Prompt AI News (TG)",
+      "total": 20,
+      "translated": 0,
+      "lastDate": "2026-04-09T11:00:02+00:00"
+    },
+    {
+      "name": "Hi, AI Russian (TG)",
+      "total": 19,
+      "translated": 0,
+      "lastDate": "2026-05-04T19:26:15+00:00"
+    },
+    {
+      "name": "AI Post (TG)",
+      "total": 19,
+      "translated": 0,
+      "lastDate": "2026-05-04T19:42:01+00:00"
+    },
+    {
       "name": "Nature.com",
       "total": 18,
       "translated": 18,
       "lastDate": "2026-04-09T00:00:00Z"
     },
     {
+      "name": "Artificial Intelligence (TG)",
+      "total": 18,
+      "translated": 0,
+      "lastDate": "2026-04-29T14:15:40+00:00"
+    },
+    {
       "name": "TechRadar",
       "total": 17,
       "translated": 17,
       "lastDate": "2026-04-09T05:25:00Z"
+    },
+    {
+      "name": "XOR Journal (TG)",
+      "total": 17,
+      "translated": 0,
+      "lastDate": "2026-05-04T18:37:14+00:00"
     },
     {
       "name": "iTnews",
@@ -228,6 +270,12 @@
       "lastDate": "2026-04-09T05:54:14Z"
     },
     {
+      "name": "Backdoor (TG)",
+      "total": 15,
+      "translated": 0,
+      "lastDate": "2026-05-04T19:12:24+00:00"
+    },
+    {
       "name": "CNA",
       "total": 14,
       "translated": 14,
@@ -238,6 +286,12 @@
       "total": 14,
       "translated": 14,
       "lastDate": "2026-04-08T19:03:10Z"
+    },
+    {
+      "name": "Data Science ODS.ai (TG)",
+      "total": 14,
+      "translated": 0,
+      "lastDate": "2026-05-04T12:15:31+00:00"
     },
     {
       "name": "Livemint",
@@ -322,6 +376,12 @@
       "total": 10,
       "translated": 10,
       "lastDate": "2026-04-09T05:56:39Z"
+    },
+    {
+      "name": "Wylsacom Red (TG)",
+      "total": 10,
+      "translated": 0,
+      "lastDate": "2026-05-04T16:41:16+00:00"
     },
     {
       "name": "The Next Web",
@@ -2658,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-04T19:49:49.629Z"
+  "generatedAt": "2026-05-04T21:05:52.790Z"
 }
