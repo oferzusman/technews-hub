@@ -1,5 +1,6 @@
 import 'dotenv/config';
 import Parser from 'rss-parser';
+import * as cheerio from 'cheerio';
 import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
@@ -25,7 +26,83 @@ function saveDb(db) {
   writeFileSync(DB_PATH, JSON.stringify(db, null, 2), 'utf8');
 }
 
+async function fetchTelegramSource(source, db, cutoffDate, now) {
+  console.log(`Fetching ${source.name} (Telegram)...`);
+  const res = await fetch(source.url, {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+      'Accept-Language': 'en-US,en;q=0.9',
+    },
+    signal: AbortSignal.timeout(FEED_TIMEOUT_MS * 2), // Telegram can be slower
+  });
+  if (!res.ok) throw new Error(`Telegram HTTP ${res.status}`);
+  const html = await res.text();
+  const $ = cheerio.load(html);
+
+  const existingLinks = new Set(db.articles.map((a) => a.link));
+  let added = 0;
+  let nextId = db.articles.length > 0 ? Math.max(...db.articles.map((a) => a.id)) + 1 : 1;
+  const items = [];
+
+  $('.tgme_widget_message_wrap').each((_, el) => {
+    const $el = $(el);
+    const text = $el.find('.tgme_widget_message_text').first().text().trim();
+    if (!text) return;
+    const dateLink = $el.find('.tgme_widget_message_date').attr('href') || '';
+    const dateAttr = $el.find('.tgme_widget_message_date time').attr('datetime') || '';
+    const photoStyle = $el.find('.tgme_widget_message_photo_wrap').attr('style') || '';
+    const photoMatch = photoStyle.match(/url\(['"]?(https?:[^'")\s]+)['"]?\)/);
+    items.push({ text, link: dateLink, pubDate: dateAttr, image: photoMatch?.[1] || null });
+  });
+
+  for (const item of items) {
+    const link = item.link?.trim();
+    if (!link || existingLinks.has(link)) continue;
+
+    const pubDate = new Date(item.pubDate || 0);
+    if (pubDate < cutoffDate) continue;
+
+    const lines = item.text.split('\n').map(l => l.trim()).filter(Boolean);
+    const title = lines[0]?.slice(0, 200) || '(untitled)';
+    const description = item.text.replace(/<[^>]+>/g, '').trim().slice(0, 500);
+
+    const ageMs = now - pubDate.getTime();
+    const priority = ageMs < HOT_WINDOW_MS ? 'hot' : 'batch';
+
+    const article = {
+      id: nextId++,
+      source: source.name,
+      title_en: title,
+      description_en: description,
+      title_he: null,
+      description_he: null,
+      link,
+      image_url: item.image || null,
+      pub_date: item.pubDate || new Date().toISOString(),
+      author: null,
+      categories: [],
+      translated: false,
+      priority,
+      fetchedAt: new Date().toISOString(),
+      created_at: new Date().toISOString(),
+    };
+
+    db.articles.push(article);
+    existingLinks.add(link);
+    added++;
+    console.log(`  + [${priority}] ${title.slice(0, 70)}`);
+  }
+
+  console.log(`  ${source.name}: ${added} new articles`);
+  return added;
+}
+
 async function fetchSource(source, db, cutoffDate, now) {
+  // Dispatch to Telegram scraper for t.me URLs
+  if (source.url.includes('t.me/s/')) {
+    return fetchTelegramSource(source, db, cutoffDate, now);
+  }
+
   const parser = new Parser({
     customFields: { item: ['media:content', 'media:thumbnail', 'enclosure'] },
     timeout: FEED_TIMEOUT_MS,
