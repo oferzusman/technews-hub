@@ -137130,17 +137130,620 @@
       "source": "CNBC Tech",
       "title_en": "Meta's public nuisance case in New Mexico has billion-dollar consequences",
       "description_en": "Meta is back in a Santa Fe courthouse in a child safety case that could determine whether the company is a public nuisance.",
-      "title_he": "תיק ההטרדה הציבורית של מטה בניו מקסיקו: השלכות של מיליארד דולר",
-      "description_he": "מטה חוזרת לבית משפט בסנטה פה במקרה של בטיחות ילדים שעלול להכריע האם החברה מהווה טרדה ציבורית. ההשלכות כלכליות? גדולות מאוד. זה עוד פרק בסאגה ההולכת וגדלה של Meta בעניין השפעתה על קטינים ברשתות החברתיות.",
+      "title_he": null,
+      "description_he": null,
       "link": "https://www.cnbc.com/2026/05/04/meta-new-mexico-child-safety-facebook-instagram.html",
       "image_url": null,
       "pub_date": "Mon, 04 May 2026 12:00:01 GMT",
       "author": null,
       "categories": [],
-      "translated": true,
+      "translated": false,
       "priority": "batch",
       "fetchedAt": "2026-05-04T15:17:19.342Z",
       "created_at": "2026-05-04T15:17:19.342Z"
+    },
+    {
+      "id": 6659,
+      "source": "TechCrunch AI",
+      "title_en": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+      "description_en": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 16:57:47 +0000",
+      "author": "Tim Fernholz",
+      "categories": [
+        "AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T18:50:24.342Z",
+      "created_at": "2026-05-04T18:50:24.342Z"
+    },
+    {
+      "id": 6660,
+      "source": "TechCrunch AI",
+      "title_en": "Sierra raises $950M as the race to own enterprise AI gets serious",
+      "description_en": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 16:45:55 +0000",
+      "author": "Connie Loizos",
+      "categories": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "AI agents",
+        "Bret Taylor",
+        "sierra",
+        "Uber"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-04T18:50:24.342Z",
+      "created_at": "2026-05-04T18:50:24.342Z"
+    },
+    {
+      "id": 6661,
+      "source": "TechCrunch AI",
+      "title_en": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
+      "description_en": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 16:36:03 +0000",
+      "author": "Julie Bort, Tim Fernholz",
+      "categories": [
+        "AI",
+        "TC",
+        "Elon Musk",
+        "OpenAI",
+        "openai lawsuit"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-04T18:50:24.342Z",
+      "created_at": "2026-05-04T18:50:24.342Z"
+    },
+    {
+      "id": 6662,
+      "source": "TechCrunch AI",
+      "title_en": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+      "description_en": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 15:59:24 +0000",
+      "author": "Russell Brandom",
+      "categories": [
+        "AI",
+        "Anthropic",
+        "Blackstone",
+        "Goldman Sachs",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-04T18:50:24.342Z",
+      "created_at": "2026-05-04T18:50:24.342Z"
+    },
+    {
+      "id": 6663,
+      "source": "TechCrunch AI",
+      "title_en": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
+      "description_en": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 13:00:00 +0000",
+      "author": "Ivan Mehta",
+      "categories": [
+        "AI",
+        "Commerce",
+        "DoorDash",
+        "food delivery",
+        "Restaurants"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-04T18:50:24.342Z",
+      "created_at": "2026-05-04T18:50:24.342Z"
+    },
+    {
+      "id": 6664,
+      "source": "The Verge AI",
+      "title_en": "The creator of Roomba is back with a furry robot companion",
+      "description_en": "The first “Familiar” from Colin Angle’s new startup, Familiar Machines & Magic, is a robot that is designed to live in your home and interact autonomously with family members. | Image: Familiar Machines and Magic\t\n\nColin Angle, the maker of the Roomba and the man who helped put 50 million household robots into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner.\nThe first robot from Angle's new company, Familiar Machines & Magic, is a dog-sized roboti",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
+      "image_url": null,
+      "pub_date": "2026-05-04T16:51:38.000Z",
+      "author": "Jennifer Pattison Tuohy",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T18:50:24.352Z",
+      "created_at": "2026-05-04T18:50:24.352Z"
+    },
+    {
+      "id": 6665,
+      "source": "Ars Technica",
+      "title_en": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
+      "description_en": "Amid falling revenue and store closures, GameStop wants to buy the much larger eBay.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/gamestop-store-1152x648-1777915631.jpg",
+      "pub_date": "Mon, 04 May 2026 17:57:46 +0000",
+      "author": "\n                    Jon Brodkin\n                ",
+      "categories": [
+        "Biz & IT",
+        "Policy",
+        "eBay",
+        "Gamestop"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T18:50:24.432Z",
+      "created_at": "2026-05-04T18:50:24.432Z"
+    },
+    {
+      "id": 6666,
+      "source": "Ars Technica",
+      "title_en": "F1 in Miami: That's what it looks like when an upgrade works",
+      "description_en": "2026's Formula 1 championship now looks far from a foregone thing.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/cars/2026/05/f1-in-miami-thats-what-it-looks-like-when-an-upgrade-works/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2274048573-1152x648.jpg",
+      "pub_date": "Mon, 04 May 2026 17:47:05 +0000",
+      "author": "\n                    Jonathan M. Gitlin\n                ",
+      "categories": [
+        "Cars",
+        "Formula 1"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T18:50:24.432Z",
+      "created_at": "2026-05-04T18:50:24.432Z"
+    },
+    {
+      "id": 6667,
+      "source": "Ars Technica",
+      "title_en": "AMD is adding HDMI 2.1 support for Linux. That's good news for the Steam Machine.",
+      "description_en": "Fixed Rate Link being added now; Display Stream Compression coming soon.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gaming/2026/05/amd-is-adding-hdmi-2-1-support-for-linux-thats-good-news-for-the-steam-machine/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/valve-steam-machine-desktop-1-1152x648.jpeg",
+      "pub_date": "Mon, 04 May 2026 16:26:49 +0000",
+      "author": "\n                    Kyle Orland\n                ",
+      "categories": [
+        "Gaming",
+        "AMD",
+        "HDMI",
+        "hdmi 2.1",
+        "Linux",
+        "steam machine",
+        "Valve"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-04T18:50:24.432Z",
+      "created_at": "2026-05-04T18:50:24.432Z"
+    },
+    {
+      "id": 6668,
+      "source": "Ars Technica",
+      "title_en": "Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial",
+      "description_en": "OpenAI accuses Musk of trying to \"coerce\" a settlement days before trial started.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2273259145-1024x648.jpg",
+      "pub_date": "Mon, 04 May 2026 15:05:58 +0000",
+      "author": "\n                    Ashley Belanger\n                ",
+      "categories": [
+        "AI",
+        "Policy",
+        "agi",
+        "artificial general intelligence",
+        "Elon Musk",
+        "greg brockman",
+        "openai",
+        "sam altman",
+        "X",
+        "xAI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-04T18:50:24.432Z",
+      "created_at": "2026-05-04T18:50:24.432Z"
+    },
+    {
+      "id": 6669,
+      "source": "The Decoder",
+      "title_en": "Anthropic and OpenAI now agree on one thing: selling AI requires a lot more than just the AI",
+      "description_en": "Anthropic, Blackstone, Hellman & Friedman, and Goldman Sachs are launching a new AI services company to help mid-market businesses adopt Claude.\nThe article Anthropic and OpenAI now agree on one thing: selling AI requires a lot more than just the AI appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-and-openai-now-agree-on-one-thing-selling-ai-requires-a-lot-more-than-just-the-ai/",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 18:04:35 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T18:50:25.689Z",
+      "created_at": "2026-05-04T18:50:25.689Z"
+    },
+    {
+      "id": 6670,
+      "source": "MIT Technology Review",
+      "title_en": "Week one of the Musk v. Altman trial: What it was like in the room",
+      "description_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging that the millions he spent to…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 15:51:27 +0000",
+      "author": "James O'Donnell",
+      "categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "The Algorithm"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-04T18:50:25.825Z",
+      "created_at": "2026-05-04T18:50:25.825Z"
+    },
+    {
+      "id": 6671,
+      "source": "MarkTechPost",
+      "title_en": "Top Search and Fetch APIs for Building AI Agents in 2026: Tools, Tradeoffs, and Free Tiers",
+      "description_en": "Discover the top search and fetch APIs for AI agents in 2026. Compare tools like TinyFish, Tavily, and Firecrawl based on latency, token efficiency, and free tiers to optimize your agent's web retrieval.\nThe post Top Search and Fetch APIs for Building AI Agents in 2026: Tools, Tradeoffs, and Free Tiers appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/04/top-search-and-fetch-apis-for-building-ai-agents-in-2026-tools-tradeoffs-and-free-tiers/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/search_fetch_api_table_2026-1.png",
+      "pub_date": "Mon, 04 May 2026 17:55:35 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T18:50:25.899Z",
+      "created_at": "2026-05-04T18:50:25.899Z"
+    },
+    {
+      "id": 6672,
+      "source": "Google AI Blog",
+      "title_en": "The latest AI news we announced in April 2026",
+      "description_en": "Here are Google’s latest AI updates from April 2026",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp",
+      "pub_date": "Mon, 04 May 2026 17:00:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "The Keyword Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Translate",
+        "Google Labs",
+        "Developer tools",
+        "Google Workspace",
+        "Google.org",
+        "Google Cloud",
+        "AI",
+        "Gemini models",
+        "Fitbit"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T18:50:26.124Z",
+      "created_at": "2026-05-04T18:50:26.124Z"
+    },
+    {
+      "id": 6673,
+      "source": "OpenAI Blog",
+      "title_en": "How OpenAI delivers low-latency voice AI at scale",
+      "description_en": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Engineering"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-04T18:50:26.177Z",
+      "created_at": "2026-05-04T18:50:26.177Z"
+    },
+    {
+      "id": 6674,
+      "source": "The Guardian AI",
+      "title_en": "AI platforms reference Nigel Farage more than other leaders when prompted on UK politics, study shows",
+      "description_en": "Reform UK is ‘doing something right when it comes to visibility’ on multiple AI systems, say researchers\nAI platforms are more likely to reference Nigel Farage than any other UK leader when prompted about British politics, according to an AI search analytics firm.\n“We are confident in saying that Reform are showing up significantly more than you would expect,” said Malte Landwehr, an expert at Peec AI, the firm that did the research. “So they’re doing something right when it comes to LLM [large ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/04/ai-platforms-nigel-farage-prompted-uk-politics-study",
+      "image_url": "https://i.guim.co.uk/img/media/8750e026eef0661d94a835ad30b6f6eb03d04746/500_141_4653_3722/master/4653.jpg?width=140&quality=85&auto=format&fit=max&s=4c900a7ef1c5e0c7487b9f25a7dc0901",
+      "pub_date": "Mon, 04 May 2026 16:00:27 GMT",
+      "author": "Aisha Down",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Nigel Farage",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/nigel-farage"
+          }
+        },
+        {
+          "_": "Reform UK",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/brexit-party"
+          }
+        },
+        {
+          "_": "Keir Starmer",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/keir-starmer"
+          }
+        },
+        {
+          "_": "Labour",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/labour"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "ChatGPT",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatgpt"
+          }
+        },
+        {
+          "_": "Google",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/google"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-04T18:50:26.623Z",
+      "created_at": "2026-05-04T18:50:26.623Z"
+    },
+    {
+      "id": 6675,
+      "source": "New Atlas",
+      "title_en": "Motion-capture exoskeletons let violinists feel each others’ subtlest moves",
+      "description_en": "World-renowned science fiction author Arthur C. Clarke (2001: A Space Odyssey, Childhood’s End) once quipped that “Any teacher who can be replaced by a computer should be.” Some people think Clarke’s statement means we should replace all teachers.\nContinue Reading\nCategory: Robotics, Engineering\nTags: Exoskeleton, Education, Training aid, Ghent University, Violin",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/robotics/motion-capture-exoskeletons-linked-violinists/",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 16:00:00 GMT",
+      "author": "Malcolm Azania",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-04T18:50:28.478Z",
+      "created_at": "2026-05-04T18:50:28.478Z"
+    },
+    {
+      "id": 6676,
+      "source": "Interesting Engineering",
+      "title_en": "Al Wugeisha: Dubai’s 163-meter, 2,000-ton TBM excavates at 17 meters a day",
+      "description_en": "A tunnel boring machine (TBM) Al Wugeisha began excavation this week for the underground sections...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/al-wugeisha-dubai-metro-blue-line-tunnel-boring-machine",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 18:04:21 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T18:50:28.708Z",
+      "created_at": "2026-05-04T18:50:28.709Z"
+    },
+    {
+      "id": 6677,
+      "source": "Tom's Hardware",
+      "title_en": "Get a DDR5 starter build with a Ryzen 5 7600X and ASRock B650M Pro motherboard for 23% off — $430 bundle helps avoid inflated RAM prices",
+      "description_en": "Start your next gaming build with this this combo from Newegg featuring a Ryzen 5 7600X, 16GB of DDR5-6000 memory, and a Micro-ATX B650M motherboard from ASRock for just $430.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/get-a-ddr5-starter-build-with-a-ryzen-5-7600x-and-asrock-b650m-pro-motherboard-for-23-percent-off-usd430-bundle-helps-avoid-inflated-ram-prices",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/KaxAGA7bUBRywXiaBRNJej-1280-80.png",
+      "pub_date": "Mon, 04 May 2026 18:01:48 +0000",
+      "author": " Aaron Klotz ",
+      "categories": [
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T18:50:29.029Z",
+      "created_at": "2026-05-04T18:50:29.029Z"
+    },
+    {
+      "id": 6678,
+      "source": "Tom's Hardware",
+      "title_en": "Secretlab launches Mandalorian Titan Evo gaming chair in Star Wars collection for May the 4th — collab builds with a new high-end themed chair",
+      "description_en": "Secretlab dropped a Mandalorian Edition, along with other Star Wars-themed designs, to its Titan Evo gaming chair lineup on Star Wars Day.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/peripherals/gaming-chairs/secretlab-launches-mandalorian-titan-evo-gaming-chair-for-star-wars-day",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/wqo4B6UtTANbF7aTFujB2U-1280-80.png",
+      "pub_date": "Mon, 04 May 2026 17:55:57 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Gaming Chairs",
+        "Peripherals"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T18:50:29.029Z",
+      "created_at": "2026-05-04T18:50:29.029Z"
+    },
+    {
+      "id": 6679,
+      "source": "Tom's Hardware",
+      "title_en": "Alienware 16 Area-51 review: OLED screen update",
+      "description_en": "The Alienware 16 Area-51 is a slightly updated spaceship of a laptop that's powerful and finally gets an OLED display option.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/alienware-16-area-51-oled-2026-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/i2HPk7nEgQGeJGbur5ehQB-1280-80.jpg",
+      "pub_date": "Mon, 04 May 2026 16:54:39 +0000",
+      "author": " Andrew E. Freedman ",
+      "categories": [
+        "Gaming Laptops",
+        "Laptops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T18:50:29.029Z",
+      "created_at": "2026-05-04T18:50:29.029Z"
+    },
+    {
+      "id": 6680,
+      "source": "Tom's Hardware",
+      "title_en": "AMD Ryzen AI 5 435G APU breaks cover in early benchmarks — six-core Zen 5 chip goes head-to-head with the Ryzen 5 8600G for budget PC builders",
+      "description_en": "The Ryzen AI 5 435G shows similar performance to the existing Ryzen 5 8600G in new Geekbench 6 benchmarks.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-ai-5-435g-apu-breaks-cover-in-early-benchmarks-six-core-zen-5-chip-goes-head-to-head-with-the-ryzen-5-8600g-for-budget-pc-builders",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/eZV796hTDov6DGLQmbVpGD-1280-80.jpg",
+      "pub_date": "Mon, 04 May 2026 16:52:18 +0000",
+      "author": " Zhiye Liu ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T18:50:29.029Z",
+      "created_at": "2026-05-04T18:50:29.029Z"
+    },
+    {
+      "id": 6681,
+      "source": "CNBC Tech",
+      "title_en": "Cramer defends AMD after downgrade: 'This stock is going to go up much more'",
+      "description_en": "CNBC's Jim Cramer said he's bullish on AMD despite a recent downgrade, arguing demand for AI-driven CPUs will keep pushing the stock higher.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/04/jim-cramer-amd-stock-downgrade.html",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 18:14:25 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T18:50:29.100Z",
+      "created_at": "2026-05-04T18:50:29.100Z"
+    },
+    {
+      "id": 6682,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic teams with Goldman, Blackstone and others on $1.5 billion AI venture targeting PE-owned firms",
+      "description_en": "The move marks Anthropic's latest effort to deepen its lead in the market for enterprise AI as competition intensifies with rivals including OpenAI",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 16:46:31 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-04T18:50:29.101Z",
+      "created_at": "2026-05-04T18:50:29.101Z"
+    },
+    {
+      "id": 6683,
+      "source": "CNBC Tech",
+      "title_en": "Circle jumps 20% on Clarity Act compromise that preserves stablecoin rewards",
+      "description_en": "Lawmakers over the weekend reached a compromise on the market structure bill known as the CLARITY Act that keeps stablecoin reward programs intact.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/04/circle-jumps-16percent-on-clarity-act-compromise-that-preserves-stablecoin-rewards.html",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 17:49:45 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T18:50:29.101Z",
+      "created_at": "2026-05-04T18:50:29.101Z"
     }
   ]
 }
