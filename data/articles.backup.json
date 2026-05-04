@@ -135888,7 +135888,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-04T07:27:00.255Z",
       "created_at": "2026-05-04T07:27:00.255Z"
     },
@@ -135972,7 +135972,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-04T07:27:00.255Z",
       "created_at": "2026-05-04T07:27:00.255Z"
     },
@@ -135989,7 +135989,7 @@
       "author": "Munis Raza",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-04T07:27:02.222Z",
       "created_at": "2026-05-04T07:27:02.222Z"
     },
@@ -136179,6 +136179,40 @@
       "priority": "batch",
       "fetchedAt": "2026-05-04T07:27:04.903Z",
       "created_at": "2026-05-04T07:27:04.903Z"
+    },
+    {
+      "id": 6616,
+      "source": "The Register",
+      "title_en": "How TeamViewer ONE transforms IT operations from firefighting to autopilot",
+      "description_en": "Forget \"have you tried turning it off and on again?\" Agentic AI support systems now seek and destroy tech issues before they're a problem. Sponsored Feature  Most IT teams know how quickly they can fix things when they break. This means they can usually tell you their mean time to resolution (MTTR) for helpdesk tickets down to the minute.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/04/how_teamviewer_one_transforms/",
+      "image_url": null,
+      "pub_date": "2026-05-04T08:00:30.000Z",
+      "author": "Cath Everett",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T09:36:44.755Z",
+      "created_at": "2026-05-04T09:36:44.755Z"
+    },
+    {
+      "id": 6617,
+      "source": "Interesting Engineering",
+      "title_en": "World’s largest single-unit floating wind turbine installed, could power 24,000 homes",
+      "description_en": "China has installed the world’s largest floating offshore wind turbine, taking a big step forward...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/world-largest-single-unit-floating-wind-turbine",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 08:18:10 +0000",
+      "author": "Sujita Sinha",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T09:36:46.916Z",
+      "created_at": "2026-05-04T09:36:46.916Z"
     }
   ]
 }
