@@ -223,6 +223,76 @@
       "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
       "language": "en",
       "enabled": true
+    },
+    {
+      "id": "tg-wylsared",
+      "name": "Wylsacom Red (TG)",
+      "url": "https://rsshub.app/telegram/channel/Wylsared",
+      "language": "ru",
+      "enabled": true
+    },
+    {
+      "id": "tg-whackdoor",
+      "name": "Backdoor (TG)",
+      "url": "https://rsshub.app/telegram/channel/whackdoor",
+      "language": "ru",
+      "enabled": true
+    },
+    {
+      "id": "tg-xor-journal",
+      "name": "XOR Journal (TG)",
+      "url": "https://rsshub.app/telegram/channel/xor_journal",
+      "language": "ru",
+      "enabled": true
+    },
+    {
+      "id": "tg-habr",
+      "name": "Habr (TG)",
+      "url": "https://rsshub.app/telegram/channel/habr_com",
+      "language": "ru",
+      "enabled": true
+    },
+    {
+      "id": "tg-hiaimedia-en",
+      "name": "Hi, AI English (TG)",
+      "url": "https://rsshub.app/telegram/channel/hiaimediaen",
+      "language": "en",
+      "enabled": true
+    },
+    {
+      "id": "tg-hiaimedia-ru",
+      "name": "Hi, AI Russian (TG)",
+      "url": "https://rsshub.app/telegram/channel/hiaimedia",
+      "language": "ru",
+      "enabled": true
+    },
+    {
+      "id": "tg-aipost",
+      "name": "AI Post (TG)",
+      "url": "https://rsshub.app/telegram/channel/aipost",
+      "language": "ru",
+      "enabled": true
+    },
+    {
+      "id": "tg-opendatascience",
+      "name": "Data Science ODS.ai (TG)",
+      "url": "https://rsshub.app/telegram/channel/opendatascience",
+      "language": "en",
+      "enabled": true
+    },
+    {
+      "id": "tg-prompt",
+      "name": "Prompt AI News (TG)",
+      "url": "https://rsshub.app/telegram/channel/prompt",
+      "language": "ru",
+      "enabled": true
+    },
+    {
+      "id": "tg-artificial-intelligence",
+      "name": "Artificial Intelligence (TG)",
+      "url": "https://rsshub.app/telegram/channel/Artificial_intelligence_in",
+      "language": "ru",
+      "enabled": true
     }
   ]
 }
