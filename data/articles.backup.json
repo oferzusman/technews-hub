@@ -136193,7 +136193,7 @@
       "author": "Cath Everett",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-04T09:36:44.755Z",
       "created_at": "2026-05-04T09:36:44.755Z"
     },
@@ -136210,9 +136210,362 @@
       "author": "Sujita Sinha",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-04T09:36:46.916Z",
       "created_at": "2026-05-04T09:36:46.916Z"
+    },
+    {
+      "id": 6618,
+      "source": "The Decoder",
+      "title_en": "Cerebras targets $40 billion valuation in second IPO attempt",
+      "description_en": "AI chip maker Cerebras Systems is heading to the Nasdaq under the ticker CBRS. The IPO roadshow kicks off Monday, with shares targeted between $115 and $125, Reuters reports, citing a person familiar with the matter.\nThe article Cerebras targets $40 billion valuation in second IPO attempt appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/cerebras-targets-40-billion-valuation-in-second-ipo-attempt/",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 11:11:13 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Cerebras"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T11:25:07.027Z",
+      "created_at": "2026-05-04T11:25:07.027Z"
+    },
+    {
+      "id": 6619,
+      "source": "The Decoder",
+      "title_en": "OpenAI says human attention is the bottleneck, so it built a system to let agents manage themselves",
+      "description_en": "OpenAI's new Symphony spec flips the AI coding workflow on its head: instead of developers babysitting multiple Codex sessions, agents pull their own tickets straight from Linear and run until the job is done.\nThe article OpenAI says human attention is the bottleneck, so it built a system to let agents manage themselves appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-says-human-attention-is-the-bottleneck-so-it-built-a-system-to-let-agents-manage-themselves/",
+      "image_url": "http://the-decoder.com/wp-content/uploads/2026/05/openai_symphony_for_orchestrating_agents.mp4",
+      "pub_date": "Mon, 04 May 2026 09:35:53 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T11:25:07.027Z",
+      "created_at": "2026-05-04T11:25:07.027Z"
+    },
+    {
+      "id": 6620,
+      "source": "New Atlas",
+      "title_en": "SAIL tech lets robots perform human-scale tasks far more quickly",
+      "description_en": "Thanks to researchers at Georgia Tech, robots have taken several new steps towards replacing human labor – and not simply for dangerous tasks such as mining the depths of the Earth and exploring the Moon, or difficult tasks such as high-speed mass-assembly of thousands of cars.\nContinue Reading\nCategory: Robotics, Engineering\nTags: Georgia Tech, Georgia Institute of Technology, Humanoid",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/robotics/sail-robots-human-scale-tasks/",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 11:03:00 GMT",
+      "author": "Malcolm Azania",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T11:25:07.602Z",
+      "created_at": "2026-05-04T11:25:07.602Z"
+    },
+    {
+      "id": 6621,
+      "source": "The Guardian AI",
+      "title_en": "Democrats are counting on Trump’s unpopularity to save them. It won’t | Osita Nwanevu",
+      "description_en": "Yes, Trump might carry them to victory in the midterms. But he can’t carry them much longer – especially not in the 2028 elections\nAll told, Democrats already seem as though they’re headed for a great midterm election. Voters already troubled by the state of the economy now have the impacts of Donald Trump’s teeter-tottering war in Iran to contend with, and polls tell us they aren’t happy ⁠– per poll averages from the analyst Nate Silver, nearly 55% of Americans oppose the war in Iran, 61% of Am",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/may/04/democrats-trump-election-voter-poll",
+      "image_url": "https://i.guim.co.uk/img/media/641fd284fe695c2fd1d4b6be7208371c2759da49/764_0_4501_3600/master/4501.jpg?width=140&quality=85&auto=format&fit=max&s=ca33c81a5b518504b1c1d41d3dbdc316",
+      "pub_date": "Mon, 04 May 2026 10:00:20 GMT",
+      "author": "Osita Nwanevu",
+      "categories": [
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "US midterm elections 2026",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-midterm-elections-2026"
+          }
+        },
+        {
+          "_": "Democrats",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/democrats"
+          }
+        },
+        {
+          "_": "Republicans",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/republicans"
+          }
+        },
+        {
+          "_": "Donald Trump",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/donaldtrump"
+          }
+        },
+        {
+          "_": "Trump administration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/trump-administration"
+          }
+        },
+        {
+          "_": "US Congress",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-congress"
+          }
+        },
+        {
+          "_": "US-Israel war on Iran",
+          "$": {
+            "domain": "https://www.theguardian.com/world/us-israel-war-on-iran"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T11:25:07.997Z",
+      "created_at": "2026-05-04T11:25:07.997Z"
+    },
+    {
+      "id": 6622,
+      "source": "Interesting Engineering",
+      "title_en": "500 dramas a day: China’s AI factory is churning out titles at an alarming rate",
+      "description_en": "A new AI-generated micro-drama went live on a Chinese streaming platform every 90 seconds in...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/culture/china-ai-state-funding-micro-drama-industry",
+      "image_url": "https://www.youtube.com/embed/RHXEwgo2sEI",
+      "pub_date": "Mon, 04 May 2026 11:23:21 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T11:25:08.410Z",
+      "created_at": "2026-05-04T11:25:08.410Z"
+    },
+    {
+      "id": 6623,
+      "source": "Interesting Engineering",
+      "title_en": "‘World’s most powerful redox flow battery’ could power 210,000 Swiss homes for a day",
+      "description_en": "In a quiet corner of northern Switzerland, construction crews are currently digging a hole so...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/switzerland-redox-flow-battery",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 11:14:09 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T11:25:08.410Z",
+      "created_at": "2026-05-04T11:25:08.410Z"
+    },
+    {
+      "id": 6624,
+      "source": "Interesting Engineering",
+      "title_en": "US Navy gets 26-foot drone submarine with 1,243 mile-range from Australia",
+      "description_en": "Australian firm C2 Robotics has delivered a large uncrewed submarine, the Speartooth Large Uncrewed Undersea...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/australia-delivers-robotic-submarine-to-us",
+      "image_url": "https://www.youtube.com/embed/1HNWZW-4v2A",
+      "pub_date": "Mon, 04 May 2026 11:04:52 +0000",
+      "author": "Chris Young",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T11:25:08.410Z",
+      "created_at": "2026-05-04T11:25:08.410Z"
+    },
+    {
+      "id": 6625,
+      "source": "Interesting Engineering",
+      "title_en": "Scientists control nuclear spin in hydrogen with ice, unlock quantum applications",
+      "description_en": "Scientists at the University of Maryland have successfully demonstrated the control of the nuclear spin...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/scientists-alter-quantum-states-of-hydrogen-with-dry-ice",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 10:45:12 +0000",
+      "author": "Ameya Paleja",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T11:25:08.410Z",
+      "created_at": "2026-05-04T11:25:08.410Z"
+    },
+    {
+      "id": 6626,
+      "source": "AI News",
+      "title_en": "Physical AI raises governance questions for autonomous systems",
+      "description_en": "Governance around Physical AI is becoming harder as autonomous AI systems move into robots, sensors, and industrial equipment. The issue is not only whether AI agents can complete tasks. It is how their actions are tested, monitored, and stopped when they interact with real-world systems. Industrial robotics already provides a large base for that discussion. […]\nThe post Physical AI raises governance questions for autonomous systems appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 11:00:00 +0000",
+      "author": "Muhammad Zulhusni",
+      "categories": [
+        "Artificial Intelligence",
+        "Governance, Regulation & Policy",
+        "Manufacturing & Engineering AI",
+        "Multimodal AI",
+        "Physical AI",
+        "TechEx Events",
+        "ai",
+        "governance",
+        "manufacturing",
+        "multimodal AI",
+        "physical ai"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T11:25:08.494Z",
+      "created_at": "2026-05-04T11:25:08.494Z"
+    },
+    {
+      "id": 6627,
+      "source": "AI News",
+      "title_en": "Google made agentic AI governance a product. Enterprises still have to catch up.",
+      "description_en": "Two weeks ago at Google Cloud Next ’26 in Las Vegas, Google did something the enterprise AI industry has been dancing around for the better part of two years: it made agentic AI governance a native product feature, not an afterthought. The centrepiece announcement was the Gemini Enterprise Agent Platform, pitched as the successor to Vertex AI […]\nThe post Google made agentic AI governance a product. Enterprises still have to catch up. appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 10:00:00 +0000",
+      "author": "Dashveenjit Kaur",
+      "categories": [
+        "AI Business Strategy",
+        "AI in Action",
+        "AI Market Trends",
+        "Artificial Intelligence",
+        "Featured News",
+        "Governance, Regulation & Policy",
+        "Inside AI",
+        "agentic ai",
+        "AI agents",
+        "ai governance",
+        "ai infrastructure",
+        "ai security",
+        "enterprise AI",
+        "gemini",
+        "google cloud",
+        "Google Cloud Next"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T11:25:08.494Z",
+      "created_at": "2026-05-04T11:25:08.494Z"
+    },
+    {
+      "id": 6628,
+      "source": "Tom's Hardware",
+      "title_en": "Steam Controller interview full transcript — Valve programmer and engineer discuss design, latency, prototyping, and the joys of not having a kernel driver",
+      "description_en": "Valve sat down with Tom's Hardware to discuss the new Steam Controller, its design, dealing with latency, and why you really need Steam to use it.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/steam-controller-interview-full-transcript-valve-programmer-and-engineer-discuss-design-latency-prototyping-and-the-joys-of-not-having-a-kernel-driver",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/SBHHZNXTZVnqdJgZjJUTk7-1280-80.jpg",
+      "pub_date": "Mon, 04 May 2026 11:00:00 +0000",
+      "author": " Andrew E. Freedman ",
+      "categories": [
+        "Controllers and Gamepads",
+        "Peripherals"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T11:25:08.779Z",
+      "created_at": "2026-05-04T11:25:08.779Z"
+    },
+    {
+      "id": 6629,
+      "source": "Tom's Hardware",
+      "title_en": "Crushing shortages have pushed long-term supply agreements for SSDs and HDDs to record five years — large customers are signing large contracts",
+      "description_en": "Demand for storage devices is so high that large customers are willing to sign up to five-year long-term supply agreements, according to Sandisk, Seagate, and Western Digital.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ssds/crushing-shortages-have-pushed-long-term-supply-agreements-for-ssds-and-hdds-to-record-five-years-large-customers-are-signing-large-contracts",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/bcsFWLTDVtHVgtDn4K27hi-1280-80.jpg",
+      "pub_date": "Mon, 04 May 2026 10:30:00 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "SSDs",
+        "PC Components",
+        "Storage"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T11:25:08.779Z",
+      "created_at": "2026-05-04T11:25:08.779Z"
+    },
+    {
+      "id": 6630,
+      "source": "Tom's Hardware",
+      "title_en": "AMD Ryzen 9 PRO 9965X3D spotted on Passmark — company's first PRO chip with 3D V-Cache also bumps the lineup up to 16 cores",
+      "description_en": "A new Ryzen PRO series processor has appeared on PassMark with just three samples, but a very promising spec sheet. The Ryzen 9 PRO 9965X3D is a 16-core Zen 5 chip with 3D V-Cache, making it the first of its kind. It performs quite closely to the standard 9950X3D it's based on, but likely has a lower TDP.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-pro-9965x3d-spotted-on-passmark-companys-first-pro-chip-with-3d-v-cache-also-bumps-the-lineup-up-to-16-cores",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/UfyH6da46RSyvJAPCQfffE-1280-80.jpg",
+      "pub_date": "Mon, 04 May 2026 10:00:00 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T11:25:08.779Z",
+      "created_at": "2026-05-04T11:25:08.779Z"
+    },
+    {
+      "id": 6631,
+      "source": "CNBC Tech",
+      "title_en": "AI chipmaker Cerebras targets $3.5 billion raise in IPO",
+      "description_en": "The share sale could give the company a valuation of up to $24.5 billion, compared with $23 billion as of February.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/04/cerebras-ipo-ai-chipmaker.html",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 10:45:24 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-04T11:25:08.845Z",
+      "created_at": "2026-05-04T11:25:08.845Z"
     }
   ]
 }
