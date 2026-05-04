@@ -1,9 +1,9 @@
 {
-  "total": 6658,
+  "total": 6683,
   "translated": 6657,
-  "untranslated": 1,
-  "today": 60,
-  "week": 889,
+  "untranslated": 26,
+  "today": 85,
+  "week": 914,
   "sources": [
     {
       "name": "Product Hunt",
@@ -18,32 +18,32 @@
       "lastDate": "2026-04-09T07:21:22Z"
     },
     {
-      "name": "Interesting Engineering",
-      "total": 471,
-      "translated": 471,
-      "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
-    },
-    {
       "name": "Tom's Hardware",
-      "total": 471,
+      "total": 475,
       "translated": 471,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
+      "name": "Interesting Engineering",
+      "total": 472,
+      "translated": 471,
+      "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
+    },
+    {
       "name": "CNBC Tech",
-      "total": 308,
+      "total": 311,
       "translated": 307,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 304,
+      "total": 308,
       "translated": 304,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
       "name": "OpenAI Blog",
-      "total": 292,
+      "total": 293,
       "translated": 292,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
@@ -55,19 +55,19 @@
     },
     {
       "name": "New Atlas",
-      "total": 281,
+      "total": 282,
       "translated": 281,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 226,
+      "total": 231,
       "translated": 226,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "The Decoder",
-      "total": 222,
+      "total": 223,
       "translated": 222,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -79,19 +79,19 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 164,
+      "total": 165,
       "translated": 164,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
       "name": "The Verge AI",
-      "total": 137,
+      "total": 138,
       "translated": 137,
-      "lastDate": "2026-05-03T13:00:00.000Z"
+      "lastDate": "2026-05-04T16:51:38.000Z"
     },
     {
       "name": "MarkTechPost",
-      "total": 131,
+      "total": 132,
       "translated": 131,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -102,16 +102,16 @@
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
+      "name": "MIT Technology Review",
+      "total": 104,
+      "translated": 103,
+      "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
+    },
+    {
       "name": "Onefootball.com",
       "total": 104,
       "translated": 104,
       "lastDate": "2026-04-09T07:08:00Z"
-    },
-    {
-      "name": "MIT Technology Review",
-      "total": 103,
-      "translated": 103,
-      "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
       "name": "The Times of India",
@@ -145,7 +145,7 @@
     },
     {
       "name": "Google AI Blog",
-      "total": 33,
+      "total": 34,
       "translated": 33,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
@@ -2658,5 +2658,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-04T17:59:11.293Z"
+  "generatedAt": "2026-05-04T19:49:49.629Z"
 }
