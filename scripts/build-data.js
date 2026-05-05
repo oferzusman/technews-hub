@@ -95,12 +95,13 @@ async function main() {
     : { articles: [] };
   const db = Array.isArray(rawDb) ? { articles: rawDb } : rawDb;
 
-  // Include all articles; use translated text when available, fall back to English
+  // ONLY include translated articles - English articles confuse Hebrew users
   const translated = db.articles
-    .slice()
+    .filter((a) => a.translated && a.title_he && a.description_he)
     .sort((a, b) => new Date(b.pub_date) - new Date(a.pub_date));
 
-  console.log(`Building data.js from ${translated.length} translated articles...`);
+  const skipped = db.articles.length - translated.length;
+  console.log(`Building data.js from ${translated.length} translated articles (skipped ${skipped} untranslated)`);
 
   const rssEntries = translated.map((a, i) => articleToEntry(a, i + 1));
   const telegramEntries = loadTelegramData().map((e) => ({ ...e, source: e.source || 'Telegram' }));
