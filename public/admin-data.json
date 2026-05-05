@@ -1,13 +1,13 @@
 {
-  "total": 7053,
+  "total": 7065,
   "translated": 7038,
-  "untranslated": 15,
-  "today": 174,
-  "week": 1066,
+  "untranslated": 27,
+  "today": 186,
+  "week": 1078,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 870,
+      "total": 871,
       "translated": 869,
       "lastDate": "2026-05-05T05:57:40.000Z"
     },
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 482,
+      "total": 486,
       "translated": 482,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -31,13 +31,13 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 321,
+      "total": 322,
       "translated": 321,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 313,
+      "total": 314,
       "translated": 312,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -67,27 +67,27 @@
     },
     {
       "name": "The Decoder",
-      "total": 232,
+      "total": 233,
       "translated": 230,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "The Register",
-      "total": 210,
+      "total": 211,
       "translated": 209,
-      "lastDate": "2026-05-05T17:29:10.000Z"
+      "lastDate": "2026-05-05T19:44:41.000Z"
     },
     {
       "name": "The Guardian AI",
-      "total": 174,
+      "total": 175,
       "translated": 174,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
       "name": "The Verge AI",
-      "total": 147,
+      "total": 148,
       "translated": 147,
-      "lastDate": "2026-05-05T17:00:00.000Z"
+      "lastDate": "2026-05-05T19:45:30.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -168,16 +168,16 @@
       "lastDate": "2026-05-04T00:00:00.000Z"
     },
     {
+      "name": "AI Post (TG)",
+      "total": 27,
+      "translated": 26,
+      "lastDate": "2026-05-05T19:39:40+00:00"
+    },
+    {
       "name": "Financial Post",
       "total": 26,
       "translated": 26,
       "lastDate": "2026-04-09T04:35:19Z"
-    },
-    {
-      "name": "AI Post (TG)",
-      "total": 26,
-      "translated": 26,
-      "lastDate": "2026-05-05T16:49:45+00:00"
     },
     {
       "name": "Ibtimes.com.au",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-05T19:01:36.449Z"
+  "generatedAt": "2026-05-05T20:05:41.529Z"
 }
