@@ -511,13 +511,10 @@
       </div>
     </div>
 
-    <!-- Source filter (collapsible) -->
+    <!-- Source filter -->
     <div class="sidebar-card">
-      <div class="sidebar-title source-toggle" id="source-toggle" style="cursor:pointer; display:flex; align-items:center; justify-content:space-between;">
-        <span>מקור</span>
-        <span id="source-arrow" style="transition:transform .2s">▼</span>
-      </div>
-      <div class="filter-chips" id="filter-source" style="display:none; margin-top:10px">
+      <div class="sidebar-title">מקור</div>
+      <div class="filter-chips" id="filter-source">
         <span class="filter-chip chip chip-release active" data-val="all">הכל</span>
       </div>
     </div>
@@ -1051,20 +1048,10 @@ const SOURCE_COLORS = [
   ['#fff7ed','#9a3412'], ['#f0fdf4','#166534'], ['#eff6ff','#1e40af'],
 ];
 
-// Curated list of major sources to show in the sidebar (regex match)
-const FEATURED_SOURCES = [
-  'TechCrunch', 'The Verge', 'OpenAI Blog', 'Anthropic', 'Google AI',
-  'Hugging Face', 'MIT Technology Review', 'VentureBeat', 'The Decoder',
-  'MarkTechPost', 'Wired', 'Ars Technica', 'The Guardian',
-  'Hi, AI English (TG)', 'AI Post (TG)', 'Prompt AI News (TG)',
-  'Artificial Intelligence (TG)', 'Habr (TG)',
-];
-
 function buildSourceChips() {
-  const allSources = new Set((window.TELEGRAM_DATA || []).map(a => a.source).filter(Boolean));
-  // Show only featured sources that actually exist in data
-  const sources = FEATURED_SOURCES.filter(s => allSources.has(s));
+  const sources = [...new Set((window.TELEGRAM_DATA || []).map(a => a.source).filter(Boolean))].sort();
   const container = document.getElementById('filter-source');
+  // Keep the "הכל" chip, remove any previously generated ones
   container.querySelectorAll('.filter-chip:not([data-val="all"])').forEach(c => c.remove());
   sources.forEach((name, i) => {
     const [bg, fg] = SOURCE_COLORS[i % SOURCE_COLORS.length];
@@ -1075,19 +1062,6 @@ function buildSourceChips() {
     chip.textContent = name;
     container.appendChild(chip);
   });
-
-  // Toggle handler (collapsed by default)
-  const toggle = document.getElementById('source-toggle');
-  const list = document.getElementById('filter-source');
-  const arrow = document.getElementById('source-arrow');
-  if (toggle && !toggle._wired) {
-    toggle._wired = true;
-    toggle.addEventListener('click', () => {
-      const open = list.style.display !== 'none';
-      list.style.display = open ? 'none' : 'flex';
-      arrow.style.transform = open ? 'rotate(0deg)' : 'rotate(180deg)';
-    });
-  }
 }
 
 /* ─── Disclaimer ────────────────────────────────────────── */
