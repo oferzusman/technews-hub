@@ -630,7 +630,7 @@
 </div>
 
 <script src="data.js" defer></script>
-<script defer>
+<script>
 /* ─── State ────────────────────────────────────────────── */
 const LS = {
   get: (k) => { try { return JSON.parse(localStorage.getItem(k) || 'null'); } catch { return null; } },
@@ -1076,8 +1076,16 @@ if (!sessionStorage.getItem('disclaimer-seen')) {
 }
 
 /* ─── Init ─────────────────────────────────────────────── */
-buildSourceChips();
-renderFeed();
+function _init() {
+  buildSourceChips();
+  renderFeed();
+}
+// Wait for deferred data.js to load
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', _init);
+} else {
+  _init();
+}
 </script>
 </body>
 </html>
