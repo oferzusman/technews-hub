@@ -1082,14 +1082,20 @@ if (!sessionStorage.getItem('disclaimer-seen')) {
 
 /* ─── Init ─────────────────────────────────────────────── */
 function _init() {
+  // Wait until data.js finished loading (might still be deferred)
+  if (!window.TELEGRAM_DATA || !Array.isArray(window.TELEGRAM_DATA) || window.TELEGRAM_DATA.length === 0) {
+    return setTimeout(_init, 50);
+  }
   buildSourceChips();
   renderFeed();
 }
-// Wait for deferred data.js to load
-if (document.readyState === 'loading') {
-  document.addEventListener('DOMContentLoaded', _init);
-} else {
+// Run on load (fires after all deferred scripts + images)
+if (document.readyState === 'complete') {
   _init();
+} else {
+  window.addEventListener('load', _init);
+  // Also try DOMContentLoaded as early signal
+  document.addEventListener('DOMContentLoaded', _init);
 }
 </script>
 </body>
