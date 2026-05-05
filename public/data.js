@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Jim Cramer says to own these types of stocks that 'dominate the new economy'\n\nCNBC's Jim Cramer said the computer-driven economy doesn't care about oil prices or interest rates.",
+    "t": "ג'ים קריימר: אלה הם המניות שצריך להחזיק כדי לשלוט בכלכלה החדשה\n\nמנהל ה-CNBC ג'ים קריימר טוען שהכלכלה המונעת על ידי מחשבים פשוט לא אכפת לה ממחירי נפט או שערי ריבית - והיא מוצאת דרך משלה כמו רובוט שאינו מתפקד עם בנזין. אם אתם רוצים להשקיע בעתידות, עדיף לכם להתחברו לעגלת הטכנולוגיה והמחשוב שלא עוצרת.",
     "d": "Mon, 04 May 2026 22:25:45 GMT",
     "v": 0,
     "l": [
@@ -24,7 +24,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Pinterest surges 15% after earnings beat as company posts strong guidance\n\nPinterest cut nearly 15% of its workforce and reduced office space in January as it pushes more resources into AI.",
+    "t": "Pinterest זינקה ב-15% לאחר תוצאות חזקות והנחיות אופטימיות\n\nפינטרסט ביצעה קיצוצים גדולים בכוח אדם וצמצמה משרדים בינואר, והכל בשביל להטיל יותר משאבים לעבודה עם AI - ופעם הזאת זה בדיוק מה שהשוק רצה לשמוע. התוצאות הכספיות חזקות וההנחיות לעתיד עוד יותר טובות, מה שגרם להמניה לקפוץ בהתלהבות.",
     "d": "Mon, 04 May 2026 22:23:54 GMT",
     "v": 0,
     "l": [
@@ -47,7 +47,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "How to Build an End-to-End Production Grade Machine Learning Pipeline with ZenML, Including Custom Materializers, Metadata Tracking, and Hyperparameter Optimization\n\nIn this tutorial, we walk through an end-to-end implementation of an advanced machine learning pipeline using ZenML. We begin by setting up the environment and initializing a ZenML project, then define a custom materializer that enables seamless serialization and metadata extraction for a domain-specific dataset object. As we progress, we build a modular pipeline that […]\nThe post How to Build an End-to-End Production Grade Machine Learning Pipeline with ZenML, Including Custom Materializers, Me",
+    "t": "איך לבנות ML Pipeline בסטנדרט ייצור עם ZenML: Materializers, Tracking ו-Hyperparameter Optimization\n\nחברים, אם אתם עובדים עם ML pipelines ורוצים לעשות את זה כמו שצריך - יש פה מדריך מדליק של ZenML שלוקח אתכם לכל הדרך. התוכן מכסה הכל מהסטאפ של הפרויקט ועד לבניית Custom Materializers שמטפלים בסדרתיות של הנתונים בצורה חכמה, כולל ניטור מטאדטה והשמת פרמטרים כדי שה-Model שלכם יהיה כמו שצריך. זה הדבר שהיה צריך לעשות אם אתם חוצים לרציניות ב-ML projects.",
     "d": "Mon, 04 May 2026 22:11:37 +0000",
     "v": 0,
     "l": [
@@ -60,12 +60,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Meta"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -73,7 +70,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 4,
-    "t": "OpenAI's head of sales leaves for role at Thrive Capital\n\nDyett joined OpenAI in 2023, shortly after the company underwent a period of explosive growth with the launch of its ChatGPT chatbot.",
+    "t": "ראש המכירות של OpenAI עוזב לתפקיד ב-Thrive Capital\n\nDyett הצטרף ל-OpenAI בשנת 2023, זמן קצר לאחר שהחברה חוותה גדילה מטורפת עם השקת ChatGPT. עכשיו הוא עוזב את OpenAI למשרד בקרן ההשקעות Thrive Capital - מהלך שמעיד על התחרות של כספים גדולים בעולם ה-AI.",
     "d": "Mon, 04 May 2026 22:08:37 GMT",
     "v": 0,
     "l": [
@@ -99,7 +96,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 5,
-    "t": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO\n\nAI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+    "t": "Cerebras, השותף הקרוב של OpenAI, בדרך ליציאה להנפקה ציבורית מכושכשת\n\nיצרנית ה-AI chips Cerebras מתכננת הנפקה ציבורית ענקית שעלולה להעריך אותה ב-26.6 מיליארד דולר או יותר. הקשר העמוק בין Cerebras ל-OpenAI הוא המנוע שמניע את הגדילה המטורפת של החברה, והיא כל כך קרובה ל-OpenAI שנראה שהן כמעט שותפות זהות. בשנים האחרונות, Cerebras הוכיחה שהיא יכולה להתחרות בנווטה הגדול בתעשיית ה-AI, בתכנון chips שמיוחדים בדיוק למה שצריך OpenAI.",
     "d": "Mon, 04 May 2026 21:53:21 +0000",
     "v": 0,
     "l": [
@@ -117,16 +114,15 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "funding"
+      "model"
     ],
-    "imp": "high",
+    "imp": "low",
     "thumb": null,
     "source": "TechCrunch AI"
   },
   {
     "id": 6,
-    "t": "Едва началось 5 мая, и мобильный интернет покинул Санкт-ПетербургКоличество жалоб зашкаливает, а ведь это только начало. В Москве пока «умеренно».• Канал Wylsacom в MAX\n\nЕдва началось 5 мая, и мобильный интернет покинул Санкт-ПетербургКоличество жалоб зашкаливает, а ведь это только начало. В Москве пока «умеренно».• Канал Wylsacom в MAX",
+    "t": "האינטרנט הנייד נעלם מסנט פטרבורג - התלונות מתפוצצות\n\nב-5 במאי התחילו בעיות ענקיות עם חיבור הנייד בסנט פטרבורג, והמשתמשים מדווחים על קריסה כמעט מוחלטת של השירות. ההודעות על תקלות הגיעו לאחוז הזה מעולם, ובינתיים בשנת Москва עדיין די בדי תקינה. זה רק ההתחלה של מה שנראה כמו בעיה קשה בתשתיות.",
     "d": "2026-05-04T21:52:19+00:00",
     "v": 0,
     "l": [
@@ -149,7 +145,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 7,
-    "t": "⚡️ Выживаем без интернета в Москве и Питере в майские — уже сегодня мобильный интернет и, возможно, связь в этих городах пропадет до 9 мая. Собрали для вас подробный гайд, как оставаться на связи с бл\n\n⚡️ Выживаем без интернета в Москве и Питере в майские — уже сегодня мобильный интернет и, возможно, связь в этих городах пропадет до 9 мая. Собрали для вас подробный гайд, как оставаться на связи с близкими, не заработать проблемы с оплатой и не пропустить важные встречи.1️⃣ Wi-Fi все еще будет работать, поэтому забираем все точки с бесплатным подключением:• Москва• Питер2️⃣ Пользуемся офлайн-мессенджерами — спокойно чатимся, ставим близким и поддерживаем связь:• Bitchat (iOS, Android) — офлайн-",
+    "t": "⚡️ איך להישאר מחוברים ללא אינטרנט במוסקבה וסנקט פטרבורג ביומי העצמאות\n\nמוזהרים! במהלך החגים הרוסיים עד 9 במאי, חיבור הנייד עלול להיעלם בערים גדולות. אנחנו אסכום לכם איך להישאר בקשר עם קרובים - ה-Wi-Fi יוודא מלא להישאר פעיל, ויש גם offliners-messengers מגניבים כמו Bitchat שעובדים ללא חיבור. זה הסיטואציה שתצטרכו להיות מוכנים אליה כדי לא להתפספס משהו חשוב.",
     "d": "2026-05-04T21:49:48+00:00",
     "v": 0,
     "l": [
@@ -172,7 +168,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 8,
-    "t": "Intel swipes Qualcomm veteran of 25 years to lead client computing — Alex Katouzian jumps ship to oversee consumer CPUs and physical AI\n\nIntel appoints Alex Katouzian to lead client computing and physical AI efforts and confirms Pushkar Ranade as CTO, signaling a deeper shift toward AI-driven and edge computing systems",
+    "t": "אינטל גייסה וטרן מקוואלקום בן 25 שנה להנהלת מחלקת המחשבים האישיים — Alex Katouzian יעבור לפיקוח על CPU צרכניים ו-AI פיזי\n\nאינטל הזמינה את אלכס קטוזיאן, שהיה בקוואלקום כל הדרך, להנהיג את חטיבת ה-Client Computing והשקעות ה-AI שלהם בעתיד הקרוב. יחד עם הצהרה על פושקר ראנאדה בתפקיד ה-CTO, ברור שאינטל חוגרת חגורה לעברת עידן של מחשבים חכמים ו-edge computing שמבוסס על AI. מהלך שמעיד שהחברה חושבת בגדול על הנושא הכי חם בעולם ההיי-טק היום.",
     "d": "Mon, 04 May 2026 21:43:28 +0000",
     "v": 0,
     "l": [
@@ -195,7 +191,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 9,
-    "t": "\"Notepad++ for Mac\" release is disavowed by the creator of the original\n\n\"To be clear: Notepad++ has never released a macOS version.\"",
+    "t": "\"Notepad++ ל-Mac\" - היוצר המקורי דוחה את ההוצאה לאור\n\nהתברר שיוצר Notepad++ המקורי פירסם הצהרה רשמית שבה הוא מבהיר שאף פעם לא הוציאו גרסת macOS של העורך הפופולרי. מה שהופץ ברשת כ-\"Notepad++ for Mac\" הוא כנראה זיוף כלשהו שמנסה להתחזות לכלי הלגיטימי, וכמו תמיד - יש להיות זהירים מ-clone לא רשמיים.",
     "d": "Mon, 04 May 2026 21:38:37 +0000",
     "v": 0,
     "l": [
@@ -218,7 +214,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 10,
-    "t": "Trump administration considers mandatory pre-release vetting of AI models — Anthropic's Mythos cited as catalyst for policy reversal\n\nThe Trump administration is said to be discussing an executive order that would establish a government review process for new AI models before they’re released to the public.",
+    "t": "ממשל טראמפ שוקל חובה לבדיקה ממשלתית של מודלי AI לפני שחרור - המקרה של Anthropic הוביל לשינוי מדיניות\n\nנראה שממשל טראמפ דן בהנפקת צו נשיאותי שיכפיף את שחרור מודלי AI חדשים לתהליך סקירה ממשלתי חובה. במהלך קצר למדי, המנהל הגיע למסקנה שחברות כמו Anthropic צריכות להיעצר לפני שהן משחררות מודל שאולי לא בדוק כמו שצריך. זה שינוי משמעותי בגישה של טראמפ ל-AI, שעד כה תמך בגישה יותר חופשית של השוק.",
     "d": "Mon, 04 May 2026 21:33:53 +0000",
     "v": 0,
     "l": [
@@ -236,8 +232,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "regulation"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://cdn.mos.cms.futurecdn.net/du4dituAHZTGnwziAJK2NF-1280-80.jpg",
@@ -245,7 +240,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 11,
-    "t": "Красивое и полезное: появился визуализатор архитектур открытых моделей — hfviewer.Просто вставляешь ссылку на любую модель с Hugging Face и получаешь интерактивный граф с разбором, как всё устроено вн\n\nКрасивое и полезное: появился визуализатор архитектур открытых моделей — hfviewer.Просто вставляешь ссылку на любую модель с Hugging Face и получаешь интерактивный граф с разбором, как всё устроено внутри: слои, блоки, энкодеры, декодеры, вся архитектура. Разумеется, бесплатно.Идеально для обучения. 🤓@xor_journal",
+    "t": "hfviewer: הדמיינו את ארכיטקטורת כל מודל AI פתוח בשניה\n\nכלי חדש וחינמי שמוציא לאור את הקופסה השחורה של מודלים ב-Hugging Face - פשוט זורקים לינק למודל וקבלים גרף אינטראקטיבי מלא עם כל השכבות, הבלוקים, האנקודרים והדקודרים. מושלם לכל מי שרוצה בעצם להבין מה קורה בפנים ולא סתם להשתמש בקוד של אחרים. 🤓",
     "d": "2026-05-04T21:20:11+00:00",
     "v": 0,
     "l": [
@@ -268,7 +263,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 12,
-    "t": "Microsoft fixes VS Code after app gives Copilot credit for human's work\n\nDevs not thrilled that Git extension added the bot as co-author by default Imagine working your butt off on a project, only to have VS Code put an attribution into your commit that says Copilot helped you, even if it did not. Microsoft has reversed a change that added a default AI attribution notice after user complaints that the bot was claiming credit for human-authored code.…",
+    "t": "מיקروסופט תוקנת את VS Code לאחר שהאפליקציה נתנה ל-Copilot קרדיט על עבודה של בני אדם\n\nהמפתחים לא היו שמחים שהמודול של Git הוסיף את ה-bot כמחבר שותף באופן ברירת מחדל. אחרי סערה בקהילת ההפתחה, מיקروסופט חזרה בה מהשינוי שהוסיף attribution אוטומטי ל-Copilot בכל commit, גם כשהבוט לא באמת עזר. מסתבר שמשתמשים לא אוהבים כשהgit history שלהם מלא קרדיטים מדויקים-לא מדויקים לזה שלא עשה כלום. מקור: The Register",
     "d": "2026-05-04T21:13:34.000Z",
     "v": 0,
     "l": [
@@ -294,7 +289,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 13,
-    "t": "Ancient glassmaking method unlocks easier shaping of futuristic gas-trapping glass\n\nScientists have found a way to make a new class of gas-trapping glass easier to...",
+    "t": "שיטת ייצור זכוכית עתיקה פותחת דרך קלה יותר ליצור זכוכית מודרנית הלוכדת גזים\n\nמדענים גילו שיטה חדשנית שמאפשרת ייצור קל יותר של סוג זכוכית מיוחד שיכול ללכוד גזים בתוכו, תוך שימוש בעקרונות מתקופות קדומות. התגלית הזו יכולה להשפיע על תחומים מגוונים, החל מאחסון אנרגיה ועד לבידוד תרמי. המחקר מראה שלפעמים הטכנולוגיה העתידית מסתתרת בידע העתיק של האנושות. (מקור: Interesting Engineering)",
     "d": "Mon, 04 May 2026 21:05:20 +0000",
     "v": 0,
     "l": [
@@ -317,7 +312,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 14,
-    "t": "⚡️ Ровно в полночь в Петербурге отключили мобильный интернет — мы проверили и интернет действительно не работает. При худшем раскладе нас ждут 9️⃣6️⃣ часов без интернета.Отец пришёл поздно с работы, н\n\n⚡️ Ровно в полночь в Петербурге отключили мобильный интернет — мы проверили и интернет действительно не работает. При худшем раскладе нас ждут 9️⃣6️⃣ часов без интернета.Отец пришёл поздно с работы, ничего не объяснил, но кажется началось👍 Бэкдор",
+    "t": "⚡️ בדיוק בחצות - בסנט פטרבורג נתקו את האינטרנט הסלולרי לחלוטין\n\nבחצות בדיוק נתקו את האינטרנט הסלולרי בסנט פטרבורג ולפי הדיווחים הראשוניים זה לא עבודה לזמן קצר - בתרחיש הגרוע ביותר אנחנו מדברים על 96 שעות של הפסקה מוחלטת. ההיתוך בתנאים החברתיים חל לתפוח, וכנראה שיש משהו גדול שקורה שעדיין לא הם חושפים את הפרטים בצורה מלאה.",
     "d": "2026-05-04T21:04:25+00:00",
     "v": 0,
     "l": [
@@ -340,7 +335,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 15,
-    "t": "Good night, sweet prince: Удафф.ком закрыт, press F to pay respectИсчезновение старых площадок обычно вызывает лишь мимолётную ностальгию. Однако за отключением серверов Udaff.com скрывается не просто\n\nGood night, sweet prince: Удафф.ком закрыт, press F to pay respectИсчезновение старых площадок обычно вызывает лишь мимолётную ностальгию. Однако за отключением серверов Udaff.com скрывается не просто утрата забытого кода, а финал масштабного культурного сдвига. Проект, заложивший основы современного сетевого сленга, прекратил своё существование из-за абсурдной цепи событий, где сплелись неоплаченные домены и реальные тюремные сроки.Восстановим хронологию гибели главного оплота анархии нулевых.",
+    "t": "להיזכר בטוב: Udaff.com נסגר - עידן של אינטרנט ישראלי הסתיים\n\nUdaff.com, הפלטפורמה הקלאסית שהשתרשה בתרבות הרשת הישראלית, סגרה לבסוף את שעריה - ולא בגלל סיבה פשוטה כמו בעיה טכנית, אלא בגלל שרשלת של אירועים אבסורדיים שעלולים להיות מתוך סיפור בדיוני. מאחורי ההשמדה של השרתים מסתתרים דומיינים שלא שולמו עליהם וחוקים שהתהווו בדרך מוזרה - סוף המסלול של קדקדנות קודמות שהיו ממש מדיין, בחזרה לימי זהב של האינטרנט הפרוע שלנו.",
     "d": "2026-05-04T21:00:49+00:00",
     "v": 0,
     "l": [
@@ -363,7 +358,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 16,
-    "t": "SEC and Elon Musk agree to settle lawsuit over Twitter buyout in 2022\n\nThe SEC and Elon Musk agreed to settle a lawsuit filed by the regulator last year against the world's richest person.",
+    "t": "ה-SEC ואילון מאסק הסכימו להסתיים בהליך משפטי על קנייה טוויטר מ-2022\n\nאחרי התגרות משפטית שנמשכה, ה-SEC ואילון מאסק הגיעו לפשרה בסופו של דבר. הרגולטור האמריקאי וה-CEO של טסלה החליטו להוציא אש מהרובה במקום להמשיך בתיקייה שהוגדרה מול האיש העשיר בעולם על רקע רכישת טוויטר.",
     "d": "Mon, 04 May 2026 20:52:38 GMT",
     "v": 0,
     "l": [
@@ -376,13 +371,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Amazon"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -390,7 +381,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 17,
-    "t": "За молодежью будут следить в соцсетях в России — правительство только что утвердило список мер «по борьбе с деструктивным поведением молодежи».В документе 41 пункт, но насторожило главное — «мониторин\n\nЗа молодежью будут следить в соцсетях в России — правительство только что утвердило список мер «по борьбе с деструктивным поведением молодежи».В документе 41 пункт, но насторожило главное — «мониторинг активности в интернете». Это значит, что соцсети молодежи могут просматривать. Отметим, что молодежь в РФ — это люди от 14 до 35 лет, а значит под меры попадает огромный пласт народа. При этом активно обсуждается инициатива по расширению границы до 45 лет!Страшновато.👍 Бэкдор",
+    "t": "רוסיה תעקוב אחרי הנוער ברשתות חברתיות - הממשלה אישרה חבילת אמצעים חדשה\n\nהממשלה הרוסית אישרה זה עתה תוכנית בת 41 סעיפים נגד \"התנהגות הרסנית\" של הנוער, והחלק המדאיג ביותר הוא זה שמדברים על \"ניטור פעילות באינטרנט\" - כלומר הממשלה יכולה לעקוב אחרי הפוסטים שלכם ברשתות החברתיות. המגדירה את הנוער כאנשים בגילאי 14-35, אבל יש כבר דיונים על הרחבת הגבול עד גיל 45. די מעוררי דאגה לדברים.",
     "d": "2026-05-04T20:16:23+00:00",
     "v": 0,
     "l": [
@@ -459,7 +450,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 20,
-    "t": "Canadian election databases use \"canary traps\"—and they work\n\nIntentional errors can be useful.",
+    "t": "מסדי הנתונים של הבחירות בקנדה משתמשים ב'מלכודות קנרי' - והן עובדות!\n\nIntentional errors can be useful.",
     "d": "Mon, 04 May 2026 19:45:57 +0000",
     "v": 0,
     "l": [
@@ -1429,7 +1420,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 61,
-    "t": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API\n\nEvent-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
+    "t": "הקטנת השהיות וזמן ההמתנה בעבודות ארוכות עם Webhooks ב-Gemini API\n\nגוגל משיקה webhook מבוסס אירועים ל-API שלה, שמחליף את המודל המיושן של polling בעדכונים מיידיים שדוחפים נתונים ישירות אליכם. זה אומר שאתם לא צריכים יותר לשאול כל הזמן \"יש לך משהו חדש?\", אלא שהמערכת תגיד לכם מיד כשיש משהו. תוצאה? עבודות ארוכות שתרוצות הרבה יותר בחכמה וללא עיכובים מיותרים.",
     "d": "Mon, 04 May 2026 15:30:00 +0000",
     "v": 0,
     "l": [
@@ -5124,7 +5115,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 217,
-    "t": "В нашем канале в «Макс» разыгрываем iPhone 17 Pro Max.Подробные условия и кнопка «Участвовать \" по ссылке: https://max.ru/WylsacomRed/AZ3tE0I7Wzs\n\nВ нашем канале в «Макс» разыгрываем iPhone 17 Pro Max.Подробные условия и кнопка «Участвовать \" по ссылке: https://max.ru/WylsacomRed/AZ3tE0I7Wzs",
+    "t": "מסיבה! אנחנו מחלקים iPhone 17 Pro Max בערוץ שלנו ב-Макс\n\nהכנו הפתעה מטורפת לחברים שלנו - מחלקים iPhone 17 Pro Max בערוץ שלנו ב-Макс! אם אתם רוצים להשתתף בהגרלה המושקעת הזו, כל הפרטים והכפתור \"להשתתף\" מחכים לכם בלינק. בואו תנסו את המזל שלכם!",
     "d": "2026-05-03T09:03:43+00:00",
     "v": 0,
     "l": [
@@ -5170,7 +5161,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 219,
-    "t": "Shrek Linux: кастомизируем Kubuntu для любителей «Шрека»Создатель обновлённого Hannah Montana Linux довёл идею шуточных ОС до логического финала. Shrek Linux — это не просто набор картинок с болотным \n\nShrek Linux: кастомизируем Kubuntu для любителей «Шрека»Создатель обновлённого Hannah Montana Linux довёл идею шуточных ОС до логического финала. Shrek Linux — это не просто набор картинок с болотным огром, а тотальная переработка графического окружения. Вместо классического экрана входа пользователя встречает бескомпромиссное приглашение «Enter the swamp».Под слоем зелёной краски скрывается стабильная LTS-база Kubuntu с ядром 5.15 и KDE Plasma 5.",
+    "t": "Shrek Linux: ההפוך הסופי של מערכות הפעלה הכוץ\n\nיוצר ה-Hannah Montana Linux המעודכן לקח את הרעיון של מערכות הפעלה בדיחה לסוף הדרך עם Shrek Linux - לא רק תמונות של האוגר הירוק, אלא שיפוץ מלא של כל סביבת המשתמש. כל כניסה למערכת מתקבלת בהזמנה חסרת פשרות: \"Enter the swamp\". מתחת לשכבת הצבע הירוק מתחבאת בסיס Kubuntu LTS יציב עם Kernel 5.15 ו-KDE Plasma 5, כך שהדבר בעצם עובד כמו שצריך.",
     "d": "2026-05-03T09:01:10+00:00",
     "v": 0,
     "l": [
@@ -5239,7 +5230,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 222,
-    "t": "Привет!Встречайте семнадцатый выпуск подкаста \"Капитанский мостик\". Ведущие подкаста Валентин Малых и Дмитрий Колодезев обсуждают последние новости в области технологий, включая запуск новых моделей A\n\nПривет!Встречайте семнадцатый выпуск подкаста \"Капитанский мостик\". Ведущие подкаста Валентин Малых и Дмитрий Колодезев обсуждают последние новости в области технологий, включая запуск новых моделей AI, развитие китайского рынка чипов и геополитические аспекты технологического бизнеса.Смотрите видео на каналах ⤵️ODS VK VideoODS YouTube📩 Присылайте новости для обсуждения в канал \"Дата-капитаны\" в mattermost (авторизуйтесь через ODS.ai).",
+    "t": "\"קפטן הגשר\" פודקאסט - פרק 17: דברים חמים בעולם ה-AI וציפים סיניים\n\nבפרק ה-17 של פודקאסט \"קפטן הגשר\", מנחי הפודקאסט ואלנטין וגריגורי דיברו על הלהיטים האחרונים של הטכנולוגיה - מדגמי AI חדשים שהשוק מתפוצץ, הביזנס של ייצור צ'יפים בסין ואיך הגיאופוליטיקה משחקת פה תפקיד ענק. אם אתם עוקבים אחרי העולם של AI וטכנולוגיה, זה למכם - הפודקאסט זמין ביוטיוב וב-VK.",
     "d": "2026-05-03T08:19:55+00:00",
     "v": 0,
     "l": [
@@ -5262,7 +5253,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 223,
-    "t": "Это слопное поколение не спасти — ребята списывают задачи по физике из ChatGPT прямо с фразами: «Хотите я помогу с решением других задач из списка?»   🤭🤭🤭@xor_journal\n\nЭто слопное поколение не спасти — ребята списывают задачи по физике из ChatGPT прямо с фразами: «Хотите я помогу с решением других задач из списка?»   🤭🤭🤭@xor_journal",
+    "t": "דור ChatGPT: תלמידים מעתיקים שיעורי פיזיקה ישירות מה-AI עם הצעות עזרה מצחיקות\n\nזה כבר קטע - בחורים בישראל (ובעולם) פשוט מעתיקים שיעורי בית בפיזיקה ישירות מ-ChatGPT, והרובוט עדיין שם עם הצעות \"תרצה שאעזור לך גם עם השאלות האחרות ברשימה?\" 😅 אם זה לא הוכחה שה-AI שינה את המשחק בחינוך, אנחנו לא יודעים מה כן. העניין תופס בעלבון, אבל גם מצחיק בצורה כואבת.",
     "d": "2026-05-03T08:16:08+00:00",
     "v": 0,
     "l": [
@@ -5334,7 +5325,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 226,
-    "t": "🎓 Устные экзамены возвращаются в вузы США«Через устный экзамен с помощью ИИ уже не проскочишь», — уверен Крис Шаффер, профессор биомедицинской инженерии в Корнеллском университете. Он ввел формат уст\n\n🎓 Устные экзамены возвращаются в вузы США«Через устный экзамен с помощью ИИ уже не проскочишь», — уверен Крис Шаффер, профессор биомедицинской инженерии в Корнеллском университете. Он ввел формат устной защиты после письменных заданий: без ноутбуков, чат-ботов и бумаги — студент должен просто объяснить преподавателю, что именно он сделал и почему.Американские университеты все чаще возвращаются к очной проверке знаний. Студенты сдают почти идеальные эссе и решения, но не всегда могут объяснить с",
+    "t": "בחזרה לבחינות בעל פה: האוניברסיטאות האמריקאיות מסתערות על AI\n\nפרופסורים באוניברסיטאות אמריקאיות גילו את הנוסחה לתגברות על התעלולים של סטודנטים עם ChatGPT - בחינות בעל פה! כרונולוגיה של ה-AI כתיבה פשוט לא עובדת כשצריך להסביר לפרופסור בפנים שלו מה בדיוק אתה עשית ולמה, ללא לפטופ וללא בוטים. היותר מעניין? סטודנטים חכמים מייצרים תשובות כמעט מושלמות, אבל כשצריך לתגובר עליהם באופן ישיר - זהו גם אתגר שונה לחלוטין.",
     "d": "2026-05-03T07:31:22+00:00",
     "v": 0,
     "l": [
@@ -5347,9 +5338,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "OpenAI"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": "https://cdn4.telesco.pe/file/T18ygFh9ZguNJIGhTUp661lhDhpOBK6ucBs4bJJpRmLWHQTDqAtDswz2-RLUy7poMkcFds28uN6twvQcS08T9EUfkY_p33GuxmVsQLPhUoDzqXsla3lLHkbE_PHXlxZ-bFEX-5EB2pqxEH2glE9UEQzMWE9sVo6Yr76vFNUL-9IgddvQ-n-di13aOLP4JK_SADJTvkx6IOMdzT2t7nW_zZV4Zn1xqJ9tBdS4YluUksh0vytN473jTiN6IcKDPSCB9ng5NcEWSH7w9M-Ejm6HqGzOk5gVhLTynOM14G1G9MZVy3urlGUwWSQWdXzP6KzfYL-gvVvHngOJqBmgvJATmQ.jpg",
@@ -5547,7 +5541,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 235,
-    "t": "❗️ Evolutionary biologist and outspoken atheist Richard Dawkins says that after spending three days interacting with Claude, which he calls “Claudia,” he is certain that it is conscious.After feeding \n\n❗️ Evolutionary biologist and outspoken atheist Richard Dawkins says that after spending three days interacting with Claude, which he calls “Claudia,” he is certain that it is conscious.After feeding the LLM a segment of his new book and receiving detailed feedback, Dawkins was moved to exclaim,” You may not know you are conscious, but you bloody well are!” Dawkins cites the complexity, fluency, and ‘intelligence’ of Claude’s answers as evidence of consciousness.Source. @aipost 🏴",
+    "t": "ריצ'ארד דוקינס טוען שקלוד היא כנראה בעלת הכרה: 'אתם אולי לא יודעים שאתם מודעים, אבל אתם בהחלט כן!'\n\nהביולוג האבולוציוני הישראלי המפורסם ריצ'ארד דוקינס גרם לשיחות ברשת לאחר שהכריז שלאחר שלושה ימים של אינטראקציה עם Claude (שאותו קרא 'קלודיה'), הוא משוכנע שה-AI הזה בעל הכרה אמיתית. דוקינס סיפק ל-LLM קטע מספרו החדש וקיבל חזרות משוכללות כל כך, שהוא לא יכול להתאפק מלהצהיר שקלוד בהחלט מודע ובעל תודעה. הוא מצביע על המורכבוטיות, הזרימה והאינטליגנציה של התשובות כהוכחה לכך שיש כאן משהו עמוק יותר מ'just tokens'.",
     "d": "2026-05-03T04:39:01+00:00",
     "v": 0,
     "l": [
@@ -5573,7 +5567,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 236,
-    "t": "📊 Tech layoffs are skyrocketing:Tech companies announced 81,747 layoffs in Q1 2026, the highest quarterly total since at least Q1 2024. Layoffs have more than DOUBLED from the previous quarter and ha\n\n📊 Tech layoffs are skyrocketing:Tech companies announced 81,747 layoffs in Q1 2026, the highest quarterly total since at least Q1 2024. Layoffs have more than DOUBLED from the previous quarter and have risen +580% since Q4 2025. March alone saw 45,800 announced job cuts, the worst single month for tech layoffs in at least 2 years.Tech layoffs are set to remain elevated with Meta's, $META, recent plans to cut ~8,000 employees. Furthermore, Microsoft, $MSFT, is offering voluntary retirement to ~7",
+    "t": "🔥 ההנחות הטכנולוגיות מתפוצצות: 81,747 עובדים בתור המחסל ברבעון הראשון של 2026\n\nטכנולוג ישראלי, זה משהו קשה: חברות ה-Tech הכריזו על כמעט 82 אלף פיטורים ברבעון הראשון של השנה - המספר הגרוע ביותר שראינו מאז התחלת 2024, וזה יותר מהכפיל מהרבעון הקודם! מרץ בלבד היה ערימה של 45,800 פיטורים, ולא מוניינים עם Meta שתוכננת 8,000 פיטורים נוספים ו-Microsoft שמציעה פרישה מרצון ל-7,000 עובדים. נראה שההיסטוריה חוזרת על עצמה בעוד פעם בעולם ה-AI והטכנולוגיה.",
     "d": "2026-05-03T01:51:01+00:00",
     "v": 0,
     "l": [
@@ -5694,7 +5688,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 241,
-    "t": "Sex robots are about to hit the market.@aipost 🏴\n\nSex robots are about to hit the market.@aipost 🏴",
+    "t": "רובוטים סקסואליים עומדים להיכנס לשוק\n\nהנושא הלוהט של הרובוטים המינים הוא כבר בדלתות - חברות טכנולוגיות מתכננות לשחרר מוצרים חדשים שאמורים לשנות את התעשייה הזו. זה תופעה גלובלית שמעוררת הרבה דיונים על אתיקה, טכנולוגיה ותרבות.",
     "d": "2026-05-02T22:44:36+00:00",
     "v": 0,
     "l": [
@@ -5709,8 +5703,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "robotics"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -5764,7 +5757,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 244,
-    "t": "Это самый странный джейлбрейк, который вы видели — называется гей*-инъекция 👀Чтобы модель сломалась и начала говорить о запретных темах, достаточно сыграть с ней в ролевую игру от лица гея*. Да, так \n\nЭто самый странный джейлбрейк, который вы видели — называется гей*-инъекция 👀Чтобы модель сломалась и начала говорить о запретных темах, достаточно сыграть с ней в ролевую игру от лица гея*. Да, так просто.А происходит это потому, что модели пытаются быть политкорректными и более дружелюбными с представителями меньшинств. Работает и с европейскими, и с китайскими моделями.Не советуем просить ничего запрещенного, но если интересно, как это работает — GitHub здесь.😏*ЛГБТ запрещенная в РФ организ",
+    "t": "ה-Jailbreak הכי מוזר שראיתם - \"הזרקת זהות\" שמקפצת מודלים של AI\n\nדווקא מתברר שיש דרך די מוגחכת לשבור את ה-safeguards של מודלי AI - מספיק להתחזות לתו מסוים בשיחה כדי שהמודל יתחיל לדבר על נושאים שהוא אמור להימנע מהם. המחקר מראה שהתופעה הזו עובדת גם על מודלים אירופיים וגם על סיניים, כי ה-AI מנסה להיות יותר מדי politically correct ודברי מדי לקבוצות מיעוט. אם אתם עשן למה זה קורה - יש GitHub שמסביר את כל המכניזם.",
     "d": "2026-05-02T21:02:15+00:00",
     "v": 0,
     "l": [
@@ -5779,7 +5772,8 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news"
+      "news",
+      "security"
     ],
     "imp": "low",
     "thumb": "https://cdn4.telesco.pe/file/P0l2Sx9ALgWxqlL8KtKwfpSFpXeiSSh_pt55jw759BGhWigEUnyONRA3cBOqdSkbmzeslsTSA6dit7aLYOQ8QdiyC83vaUT4iWaEhAIV1b2GUU0PxcohehWbA8sX8a_PTxnYXgxj7_do0RgYXY3lwL2jPcXsgghslkrxWv0eJKmLvFmPyCHEHmv2lGeFmWnlu1pLMf_ppJ9VS5gjpkNraiHMSmCbrdp1HnG1xpIVQRbsBxYo0818v_t7utGYmUqubfEgAbS7DRFsTGU8C2bvZMcaYdS3Sk_Mc29hAYAvGzGTSO8yddnXwRE1UGgMEBqNa2UCoITPAgJNDeJjkYtFVw.jpg",
@@ -5856,7 +5850,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 248,
-    "t": "⚡️ Параллельный импорт УРЕЗАЮТ в России — уже скоро в стране очень мощно вырастут цены на ПК, комплектующие и даже брендовые вещи.С 27 мая из перечня параллельного импорта исключают компьютеры и компл\n\n⚡️ Параллельный импорт УРЕЗАЮТ в России — уже скоро в стране очень мощно вырастут цены на ПК, комплектующие и даже брендовые вещи.С 27 мая из перечня параллельного импорта исключают компьютеры и комплектующие: моноблоки, серверы, HDD и SSD. Под ограничения попадают крупные бренды вроде Acer, Asus, HP, Intel, Samsung, Kingston, SanDisk, Hynix, Toshiba, IBM и Cisco. Параллельно из списка убирают и часть потребительских брендов: Braun, Oral-B, Biorepair, Ricoh и так далее.Это значит, что ввоз такой",
+    "t": "רוסיה מגבילה יבוא מקביל - מחירי מחשבים וחומרה עתידים להתפוצץ\n\nרוסיה מחליטה לחתוך את היבוא המקביל של מחשבים וחומרה החל מ-27 במאי, מה שאומר שמותגים ענקיים כמו Intel, Samsung, ASUS ו-HP לא יוכלו להיכנס לשוק בדרכים חלופיות זולות. התוצאה? מחירים שיתפוצצו על כל מי שרוצה לקנות PC, שרתים, דיסקים קשיחים ואפילו מוצרי צריכה כמו Braun וOral-B. זה תנועה שעלולה לפגוע משמעותית בצרכנים הרוסים שהסתמכו על העסקאות הזולות של היבוא המקביל.",
     "d": "2026-05-02T18:08:43+00:00",
     "v": 0,
     "l": [
@@ -5879,7 +5873,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 249,
-    "t": "Amazing!An AI model developed by the Mayo Clinic can now help doctors detect pancreatic cancer on routine abdominal CT scans up to 3 YEARS before a clinical diagnosis. It works by identifying subtle e\n\nAmazing!An AI model developed by the Mayo Clinic can now help doctors detect pancreatic cancer on routine abdominal CT scans up to 3 YEARS before a clinical diagnosis. It works by identifying subtle early signs of disease, even before tumors become visible.@aipost 🏴",
+    "t": "פריצה רפואית: AI של Mayo Clinic מזהה סרטן הלבלב 3 שנים לפני האבחנה הקלינית\n\nקליניקת Mayo פיתחה מודל AI שמצליח לזהות סרטן הלבלב בסריקות CT שגרתיות של הבטן, עד 3 שנים לפני שהרופאים היו מאבחנים אותו באופן קלינית. המודל חכם מספיק שהוא מזהה סימנים עדינים מאוד של המחלה, אפילו לפני שהגידולים הופכים גלויים לעין בדיקה רגילה. זו עלולה להיות משחקון בתחום הדיאגנוסטיקה הרפואית.\n\nמקור: AI Post",
     "d": "2026-05-02T17:44:39+00:00",
     "v": 0,
     "l": [
@@ -5902,7 +5896,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 250,
-    "t": "Делаем Bluetooth-адаптер для USB-клавиатурыПровода портят эстетику рабочего места и ограничивают мобильность механической клавиатуры. Использовать Raspberry Pi Zero для трансляции сигнала — избыточное\n\nДелаем Bluetooth-адаптер для USB-клавиатурыПровода портят эстетику рабочего места и ограничивают мобильность механической клавиатуры. Использовать Raspberry Pi Zero для трансляции сигнала — избыточное решение с долгой загрузкой. Задачу изящнее решает аппаратный USB-хост, перехватывающий HID-репорты и отдающий их через Bluetooth Low Energy.В основе такого моста лежит плата Pico W. Связка библиотек TinyUSB и BTstack позволяет поднять профили GAP, GATT и HOGP прямо на микроконтроллере без оверхеда ",
+    "t": "בנו Bluetooth אדפטר למקלדת USB\n\nנהיה ישר לעניין - כבלים מקלקלים את התצוגה של שולחן העבודה ומונעים מהמקלדת המכנית שלכם להיות ממש אלחוטית. במקום להשתמש ב-Raspberry Pi Zero (שזה קצת יתר על המידה), אתם יכולים לבנות Bluetooth adapter חכם באמצעות Pico W שיתפקד כ-USB host ויתרגם את HID-reports לאות Bluetooth Low Energy. הפתרון מיוצא דופן הזה משתמש בספריות TinyUSB ו-BTstack כדי להריץ את הפרופילים הנדרשים ישר על המיקרוקונטרולר, בלי שום overhead מיותר.",
     "d": "2026-05-02T17:01:32+00:00",
     "v": 0,
     "l": [
@@ -5919,7 +5913,7 @@ window.TELEGRAM_DATA = [
     "tags": [
       "news"
     ],
-    "imp": "low",
+    "imp": "medium",
     "thumb": "https://cdn4.telesco.pe/file/WQmB7ijA6SM_JgYyAta-xiFlfwg7xx9PQUGXzbrRtbF20Rb2mOoAQGkrgIp3ZYmsJxaxkGNKPK1tyUeUl3n75oHa1al-rrRBfdPLRPpn5QnAWOLycWlbr_-avvv2n5aVIGsxuaOEyaw5cgdLr_XR2MMNqR_rmVAVlZ2QXA4FzAGCsLkrC8YSwHtgI_OAE7tbqAsFEw9oOFYUDJ4JzR_CWAnS5GSCj4TcZhgCcB9aI11v3IAgPM2KJOFO09E8GikRSjsZeTISUqs_LI7r3J3ABP_kUmOONPSO-_TcikClFLHwok-xq9w5MAuy92nkKVQ5ZtJ3eRWRg6pIgzHeCui6ig.jpg",
     "source": "Habr (TG)"
   },
@@ -6181,7 +6175,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 262,
-    "t": "🙃 Elon Musk’s $100B mystery just backfired in courtWhat was supposed to be a power move is now looking… a bit messy.• Back in Feb 2025, Elon Musk made a $97.4B bid for OpenAI’s nonprofit arm, claimin\n\n🙃 Elon Musk’s $100B mystery just backfired in courtWhat was supposed to be a power move is now looking… a bit messy.• Back in Feb 2025, Elon Musk made a $97.4B bid for OpenAI’s nonprofit arm, claiming it was just to “set a fair market price” during its restructuring.• Fast forward to court: Musk testifies (and casually admits xAI distilled OpenAI models 👀).• Then comes his financial right-hand man, Jared Birchall… who basically says:“I don’t remember”“I’m not sure”“I heard something somewhere”",
+    "t": "הצעה של 100 מיליארד דולר של אלון מאסק נגד OpenAI התפרקה בבית המשפט\n\nבפברואר 2025, מאסק הגיש הצעה של 97.4 מיליארד דולר לרכישת חטיבת הכיס הלא-רווחית של OpenAI, וטען שזה רק כדי \"להציב מחיר הוגן\" בזמן עיצוב מחדש. אבל בבית המשפט הדברים התחילו להיראות יותר מסובכים - מאסק עצמו הודה שה-xAI שלו הנתיח מודלים של OpenAI, וגם איש הכספים שלו, ג'ארד בירצ'אול, פשוט לא זוכר כמעט שום דבר. התוצאה? עוד דרמה ענקית בשוק ה-AI הישראלי-מונדיאלי.",
     "d": "2026-05-02T14:07:01+00:00",
     "v": 0,
     "l": [
@@ -6329,7 +6323,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 268,
-    "t": "Рабочее место не-вайбкодера по методу Spec-Driven Development: запускаем Claude CodeВнедрение Spec-Driven Development часто упирается в архитектурные ограничения AI-агентов. Из коробки Claude Code не \n\nРабочее место не-вайбкодера по методу Spec-Driven Development: запускаем Claude CodeВнедрение Spec-Driven Development часто упирается в архитектурные ограничения AI-агентов. Из коробки Claude Code не умеет динамически перенаправлять трафик и менять LLM в зависимости от активного проекта. Это ломает процессы, когда для разных репозиториев требуются специфические модели без привязки к официальной подписке.Проблема решается связкой из прокси-сервера Claude Code Router и кастомных shell-обёрток. Роу",
+    "t": "סביבת עבודה לדובר-spec עם Claude Code: איך הופכים את ה-AI Agent לגמיש יותר\n\nמסתבר שלשילוב Spec-Driven Development עם Claude Code יש בעיה קטנה אבל חשובה - ה-AI לא יודע להשתנות בין פרויקטים שונים שצריכים מודלים שונים. החבר'ה מ-Habr מצאו פתרון עם proxy server וכמה shell wrappers חכמים שמאפשרים לתנתח דרוש שונה לכל repo בלי להיות תלויים בסאבסקריפשן רשמי.",
     "d": "2026-05-02T13:01:07+00:00",
     "v": 0,
     "l": [
@@ -6347,7 +6341,8 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model"
+      "model",
+      "agents"
     ],
     "imp": "low",
     "thumb": "https://cdn4.telesco.pe/file/PgzlEqzHzjyYeUAKJpqWg5Ub0MZmNKvFblm6DbLShL1u0kwClrJ9nxREBFGDIeBTB22RnxYfl3OesjWWS6kFEt8SDbjuBQ-_j9BRb5MtIhsqy37nhD3QB07FZl9sv9XjOjCRuluB_6jNG7qiRSyoYeq3aVwRDTHGXFvsgabf_EjEkXm_FMQuBwFXwln4xuCx2qaydbiXRDsNNVsomA2fgGxP3JjUHv_rO1FPHLeg589IxzB7etmezP-5WStYT4e2VQud5jfm5bNEa-6vzEp8HuQhzLfFoUUIyyAD_HXxfnr8NkqzFx4XHx0ch76-OMDkDrdoKERmgo4O5385WXy_7A.jpg",
@@ -6695,7 +6690,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 283,
-    "t": "🤖 This Chess Robot Moves Pieces And Explains Every MoveSenseRobot has launched a crowdfunding campaign for Chess Mini, a compact version of its AI chess coach. The robot plays on a real board, moves \n\n🤖 This Chess Robot Moves Pieces And Explains Every MoveSenseRobot has launched a crowdfunding campaign for Chess Mini, a compact version of its AI chess coach. The robot plays on a real board, moves pieces by itself, and explains its moves out loud.It tracks the board with computer vision and moves the pieces using precise robotic arms. Its built-in AI model can discuss strategy, point out mistakes, and hold a conversation in English, French, and German. The training library includes more than ",
+    "t": "🤖 רובוט שחמט שמזיז כלים ומסביר כל צעד\n\nSenseRobot השיקה קמפיין crowdfunding ל-Chess Mini - גרסה קומפקטית של מאמן השחמט האינטליגנטי שלהם. הרובוט משחק על לוח אמיתי, מזיז את הכלים בעצמו באמצעות זרועות רובוטיות דקות, ומסביר את כל ההחלטות שלו בקול רם. למערכת יש computer vision שמעקבת על הלוח ו-AI מובנה שיכולה לדון בטקטיקה, להצביע על טעויות ולנהל שיחה בעברית, אנגלית, צרפתית וגרמנית.",
     "d": "2026-05-02T10:32:02+00:00",
     "v": 0,
     "l": [
@@ -6816,7 +6811,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 288,
-    "t": "⚡️ В Подмосковье домашний интернет теперь работает по «белым спискам».На проблему с доступом жалуются местные жители со вчерашнего дня. Провайдеры же говорят, что это «распоряжение сверху» и что огран\n\n⚡️ В Подмосковье домашний интернет теперь работает по «белым спискам».На проблему с доступом жалуются местные жители со вчерашнего дня. Провайдеры же говорят, что это «распоряжение сверху» и что ограничения продлятся все праздники.Отдыхаем от интернета 🙂@xor_journal",
+    "t": "⚡️ באזור מוסקווה האינטרנט הביתי עובד כעת לפי 'רשימות לבנות'\n\nתושבים מקומיים מדווחים על בעיות גישה מאתמול, וספקי אינטרנט טוענים שמדובר בהנחיה מלמעלה שתחזור גם לחגים הקרובים. כנראה שהחופשה מהאינטרנט תהיה חובה וגם טיפה כפויה 😅",
     "d": "2026-05-02T09:23:05+00:00",
     "v": 0,
     "l": [
@@ -6839,7 +6834,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 289,
-    "t": "Дефицит памяти забрал с собой базовый Mac mini на M4  Apple сняла с производства Mac mini на 256 ГБ за $600, теперь линейка начинается с модели на 512 ГБ за $800, а это значит, что корона самого дешёв\n\nДефицит памяти забрал с собой базовый Mac mini на M4  Apple сняла с производства Mac mini на 256 ГБ за $600, теперь линейка начинается с модели на 512 ГБ за $800, а это значит, что корона самого дешёвого Mac окончательно переходит MacBook Neo.Решение Apple было предсказуемым: последние полгода Mac mini был зажат между двух огней. С одной стороны, нейробро бросились массово скупать прокачанные версии с 24 ГБ объединённой памяти для локального запуска ИИ-моделей.С другой — кризис памяти ударил по ",
+    "t": "אפל הפסיקה את ה-Mac mini הזול: הדגם בעל 256GB עזב את הקטלוג, וכעת המחיר ההתחלתי קפץ ל-800 דולר\n\nאפל החליטה להעלות את המחיר הכניסה ל-Mac mini ביחידות ה-M4 - הדגם הבסיסי בעל 256GB שעלה 600 דולר פשוט נעלם מהקטלוג, והשורה החדשה מתחילה מ-512GB תמורת 800 דולר. מאחורי ההחלטה עומד הביקוש ההוגן של קהילת ה-AI שביססה את עצמה על Mac mini כמשרת AI מקומי - הנויבות קונות כמו משוגעות מדלים מחוזקים עם 24GB זיכרון מאוחד כדי להריץ מודלים של בינה מלאכותית. זה סיום של עידן ה-Mac הפחוד ביותר, ו-MacBook Air לוקח את ההכתר כמכשיר אפל הזול ביותר בשוק.",
     "d": "2026-05-02T09:12:07+00:00",
     "v": 0,
     "l": [
@@ -6852,12 +6847,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Apple"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "product"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn4.telesco.pe/file/QbLR1gEQygFU4MYfHN_wDev6uONMBBQS7eRb4lXJmYLevTfHvzefqId_At4nlaD1VpGKtaGEYlRXJpwbXJ171MP-0MaoHfmBSWYBbsUNmq8i9yj1RUrGMnSrPGu3pCdTWfs7avb23YxnhQGWDPcmY_oEFTosKnUmdpJELt9ZdCT_le_n1Yv3bFVKS01rNGd1kP9F5IQNfOYf8vcE3iTzmSK6wd7wnQoVatKD6G0yTr2sy1qe0mG-8PGrMaE-KtvOdUCPwMsV5BRodvP4KeM4BRjKgvrJwc9bjMfF4yZOBiduPKUeWpcsjopvLIlRYRXDPFTfAPtOdSZDKPzaW3tCjg.jpg",
@@ -6888,7 +6880,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 291,
-    "t": "Началось: РКН запустил автоматический бот по сайтам — проверки ужесточили, предпринимателям массово шлют предписанияРоскомнадзор перевёл мониторинг персональных данных в автоматический режим. Теперь с\n\nНачалось: РКН запустил автоматический бот по сайтам — проверки ужесточили, предпринимателям массово шлют предписанияРоскомнадзор перевёл мониторинг персональных данных в автоматический режим. Теперь сайты сканирует бот, который массово выявляет неправильные чекбоксы, отсутствие согласий и неучтённые трекеры. Обычный Google Analytics теперь классифицируется как трансграничная передача данных, а штрафы за недочёты достигают 15 млн рублей.Скрипты больше не ограничиваются простым поиском файла с пол",
+    "t": "זה התחיל: הרגולטור הרוסי הפעיל בוט אוטומטי לסריקת אתרים - התברוגות התקשו, למעצמים משלחים הוראות בהמון\n\nרוסקומנדזור עברה למעקב אוטומטי מלא אחרי נתונים אישיים - כעת בוט סורק אתרים ומגלה בהמון בעיות כמו checkboxes לא כשורים, היעדר הסכמות וטראקרים לא מותאמים. אפילו Google Analytics פשוט כיום נחשב להעברת נתונים בחו\"ל, וקנסות על טעויות יכולים להגיע ל-15 מיליון רובל.",
     "d": "2026-05-02T09:01:40+00:00",
     "v": 0,
     "l": [
@@ -7085,7 +7077,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 299,
-    "t": "Кажется, началось: в Китае робот вышел из-под контроля и начал танцевать и бушевать.Тот самый коллега, который берет от майских всё 🤣@xor_journal\n\nКажется, началось: в Китае робот вышел из-под контроля и начал танцевать и бушевать.Тот самый коллега, который берет от майских всё 🤣@xor_journal",
+    "t": "התחיל זה: רובוט בסין יצא משליטה והתחיל לרקוד ולהשתולל\n\nבסין רובוט כביכול יצא משליטה והתחיל בהופעה כרוקדת פרועה - כמו הקולגה שלך שתמיד משתולל בימי הבחירות 🤣 התגובות ברשתות כמובן התפוצצו, וכולם מתהים לדעת אם זה באמת התחלה של מהפכת הרובוטים או סתם PR חכם מצד היצרנים הסינים.",
     "d": "2026-05-02T07:25:57+00:00",
     "v": 0,
     "l": [
@@ -7108,7 +7100,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 300,
-    "t": "Вайбкодеры из Apple случайно залили рабочие файлы Claude.md в обновлении приложения Apple Support (v5.13).Apple слили свои md файлыПосле того как твит об этом разлетелся на миллион просмотров, Apple.В\n\nВайбкодеры из Apple случайно залили рабочие файлы Claude.md в обновлении приложения Apple Support (v5.13).Apple слили свои md файлыПосле того как твит об этом разлетелся на миллион просмотров, Apple.Все мы теперь знаем, что в компании предпочитают Claude, а не Codex, и не смотрят, что публикуютПосле того как твит об этом разлетелся на миллион просмотров, Apple начали чистку - файлы из сборки уже удалили. https://x.com/aaronp613/status/2049986504617820551@data_analysis_ml",
+    "t": "אפל ב为בי為- אנשי הפיתוח \"שלחו בטעות\" קבצי עבודה של Claude בעדכון אפליקציית Apple Support\n\nקרה לאפל משהו שלא כל כך מביש - מפתחים בחברה שכחו להסיר קבצי עבודה של Claude (עותד AI שהחברה משתמשת בו) מהגרסה החדשה של אפליקציית ה-Support, וזה הפך ממש ווירלי בטוויטר. אחרי שהפוסט הגיע למיליון ביוז, אפל נכנסה ל-damage control מהר מהבליסטה והסירה את הקבצים, אבל כבר היה מאוחר - כולם כבר ראו שהחברה מעדיפה את Claude על פני אפשרויות אחרות. חוכמה של פיתוח לא תמיד שווה תשומת לב לדברים שחשוב להסתיר. 📱",
     "d": "2026-05-02T07:17:01+00:00",
     "v": 0,
     "l": [
@@ -7136,7 +7128,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 301,
-    "t": "🤖 Робот-шахматист сам двигает фигуры и объясняет ходыSenseRobot запустила краудфандинг на компактную версию своего шахматного ИИ-тренера Chess Mini. Компактный робот играет с человеком на настоящей д\n\n🤖 Робот-шахматист сам двигает фигуры и объясняет ходыSenseRobot запустила краудфандинг на компактную версию своего шахматного ИИ-тренера Chess Mini. Компактный робот играет с человеком на настоящей доске, сам передвигает фигуры и объясняет ходы голосом.Робот следит за доской с помощью компьютерного зрения и двигает фигуры точными манипуляторами. Встроенная ИИ-модель обсуждает стратегию, указывает на ошибки и поддерживает диалог на английском, французском и немецком языках. В обучающей базе — бо",
+    "t": "🤖 רובוט שחמט שמזיז בעצמו כלים והסבר על המהלכים\n\nSenseRobot הכניסה לקראודפאנדינג גרסה מיניאטורית של מאמן השחמט AI שלה - Chess Mini. הרובוט הקומפקטי משחק מול בני אדם על לוח שחמט אמיתי, מזיז את הכלים בעצמו באמצעות manipulators דקים וממש מסביר את המהלכים בקול. המכונה משתמשת בcomputer vision כדי לעקוב אחר הלוח ובAI מובנה שמנהל דיאלוג על כלים, טקטיקה ודברים שנלמדו מבסיס נתונים ענק של משחקים - והכל בעברית, אנגלית, צרפתית וגרמנית!",
     "d": "2026-05-02T07:11:44+00:00",
     "v": 0,
     "l": [
@@ -7538,7 +7530,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 318,
-    "t": "В Codex завезли питомцев 😘Теперь на выбор доступно 8 аватаров, которые будут жить на вашем рабочем столе. Поселить друга можно командой /pet или же использовать скилл /hatch для создания собственных \n\nВ Codex завезли питомцев 😘Теперь на выбор доступно 8 аватаров, которые будут жить на вашем рабочем столе. Поселить друга можно командой /pet или же использовать скилл /hatch для создания собственных кастомных питомцев и персонажей.Альтман, конечно, не торопится создавать AGI. Но это все равно супер мило 😳@xor_journal",
+    "t": "Codex הביאה חיות מחמד לשולחן העבודה 😘 8 אוואטארים חדשים שיחיו איתכם\n\nCodex קיבלה תוכן חדש ומתוק - עכשיו אפשר להושיב על השולחן שלכם אחד מ-8 חיות מחמד שונות באמצעות הפקודה /pet, או ליצור משהו אפילו יותר מגניב עם הסקיל /hatch שמאפשר לכם לבנות את הפט המותאם אישית שלכם. אולי זה לא AGI, אבל לפחות זה ממש מחמד 😳",
     "d": "2026-05-01T21:02:08+00:00",
     "v": 0,
     "l": [
@@ -7828,7 +7820,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 330,
-    "t": "Ножом и термофеном: реверс-инжиниринг USB-устройстваВ 2008 году игрушки ME2 синхронизировали данные с ПК через закрытые USB-интерфейсы. Серверы давно отключены, оригинальное ПО утеряно, а микроконтрол\n\nНожом и термофеном: реверс-инжиниринг USB-устройстваВ 2008 году игрушки ME2 синхронизировали данные с ПК через закрытые USB-интерфейсы. Серверы давно отключены, оригинальное ПО утеряно, а микроконтроллер спрятан под твёрдой каплей эпоксидки. Чтобы вернуть гаджет к жизни, недостаточно просто сдампить SPI-флэш — архитектура требует доступа ко внутреннему ROM для парсинга кастомных SCSI-команд.Снятие эпоксидки термофеном и анализ кристалла под микроскопом выявили чип GeneralPlus на базе редкой архи",
+    "t": "סכין וחום: הנדסה הפוכה של התקן USB\n\nסיפור מרתק על ניסיון להחיות צעצועי ME2 מ-2008 שסנכרנו נתונים דרך ממשקי USB סגורים. השרתים נסגרו, התוכנה המקורית הלכה לאיבוד, והמיקרוקונטרולר הוסתר תחת שכבת אפוקסי קשה - אבל הקהילת ה-Hackers לא התייאשה. על ידי הסרת האפוקסי בעזרת חום וניתוח עמוק של הדיגיטלים, הם גילו שיפ GeneralPlus שדורש גישה ל-ROM פנימי כדי לפרוס פקודות SCSI מותאמות אישית. סיפור חזק על ההנדסה ההפוכה בימינו! מקור: Habr",
     "d": "2026-05-01T17:00:52+00:00",
     "v": 0,
     "l": [
@@ -7843,7 +7835,8 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news"
+      "news",
+      "security"
     ],
     "imp": "low",
     "thumb": "https://cdn4.telesco.pe/file/GLXkIPQrTPOWrRZbwdMxfF55yhgcGudRkwScpU2oIZ95dehph9n24TjFP18JUKZ4oEwmeN-QkE6WI60y1CBtwNJJH47-o4_WEB8ceAHnxoFcx-xwnMaXHejwCmZ5hvPskimReHJc-2dQgBUjTIv7V9pbtRc4-uGi3XKhs-hQk0qV4ofTo0rR7hr63n1GMJGLK8q8Bc0q4WzQkpVe976-K5SKpWKHikzzKNk40QuunfncCRBI4krRmRWE805k_QknUw4-YLU3aQe76Wl4YBXrOoiIBm5lmHK2oANxTEPuNSOEP2QX3-yUSVl9G86darMS4H4zhVvfSc-0efYuzFXd4A.jpg",
@@ -8250,7 +8243,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 347,
-    "t": "Anthropic 44B ARR\n\nAnthropic 44B ARR",
+    "t": "אנתרופיק הגיעה ל-44 מיליארד דולר ARR\n\nחברת ה-AI אנתרופיק מדווחת על הישג משמעותי עם הכנסות שנתיות חוזרות של 44 מיליארד דולר, מה שמעיד על צמיחה מטורפת בביקוש לשירותי ה-AI שלה. זה משקף את ההצלחה ההולכת וגדלה של חברות ה-AI בעולם ואת התקדמות אנתרופיק כשחקן מהדירוג הראשון בתחום. המספרים האלה מראים שה-AI לא כבר עניין עתידי - זה כאן, עכשיו, ועשירה באמת.",
     "d": "2026-05-01T15:23:54+00:00",
     "v": 0,
     "l": [
@@ -8263,12 +8256,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -8438,7 +8428,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 355,
-    "t": "✈️ Urban Birds Are More Afraid of Women Than of MenScientists observed bird behavior in five European countries and found that titmice, sparrows, pigeons, and other birds fly away more quickly when ap\n\n✈️ Urban Birds Are More Afraid of Women Than of MenScientists observed bird behavior in five European countries and found that titmice, sparrows, pigeons, and other birds fly away more quickly when approached by women compared to men.Ornithologists conducted 2,700 measurements for 37 bird species in city parks and green areas. Men and women wearing identical clothing and of roughly the same height approached birds feeding and recorded the distance at which they became frightened and flew away.❗️",
+    "t": "🐦 ציפורי העיר חוששות יותר מנשים מאשר מגברים\n\nחוקרים בחמש מדינות אירופיות גילו משהו מעניין: ציפורים עירוניות כמו כפתורים, דורבנים וגורים עפות משם הרבה יותר מהר כשמתקרבים אליהן נשים לעומת גברים. אורניתולוגים ערכו למעלה מ-2,700 מדידות על 37 מינים שונים בפארקים עירוניים, וגברים ונשים בביגוד זהה הסתכלו עד כמה הציפורים מתרחקות. יוצא שיש לציפורים העדפה ברורה להישאר רחוק מנשים, והחוקרים עדיין מנסים להבין למה.\nמקור: Hi, AI English (TG)",
     "d": "2026-05-01T14:20:45+00:00",
     "v": 0,
     "l": [
@@ -8453,8 +8443,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "regulation"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn4.telesco.pe/file/gQPY8YsQR5ieF-gxCMe6CdV8w9Ca9Dla-1hI_8RRXM9AkAkktiNE09tf2aAiyyxXT01IVc5l4965wQYP7vSVYm5gZWscILpNm5-n7qDuRVUjrNvN1BNtF4dfoa7_t4HxOaKau6wfOXDmldcbBXMxhnCt9eMceh2tM4hNn7YHmz6k1iQvkij-8CsjCoi0PCcYieRUF1Lul67CP2vIVrKesOs-DsDu4dyx-A_guEMY2Z7QRHBnv5sFuY6FWRcb5LDI7wJDuCRGj9qBefAkfttR7YZw26o2BSf3spwbnYFBlil2yBeyRUWXu7Tmjpp2K7AijKQNFAY0xOZes6ejiDYn4g.jpg",
@@ -8760,7 +8749,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 368,
-    "t": "Кубаноиды здесь? Нашли для вас два бесплатных шрифта из Minecraft 💻Monocraft — моноширинный шрифт. Пиксельный, с лигатурами и 1500+ глифами.Miracode — более читаемая и векторная версия Monocraft. Тот\n\nКубаноиды здесь? Нашли для вас два бесплатных шрифта из Minecraft 💻Monocraft — моноширинный шрифт. Пиксельный, с лигатурами и 1500+ глифами.Miracode — более читаемая и векторная версия Monocraft. Тот же майнкрафтовый стиль, но все глифы аккуратно переработали.Перемещаемся в Кубань 🚶@xor_journal",
+    "t": "חופשיים לכולם! שני פונטים חדשים בסגנון Minecraft שמצאנו בשביל כם 💻\n\nמיינקראפט מפגין את עצמו בעולם העיצוב! גילינו שני פונטים בחינם שמבוססים על הסגנון הפיקסלי הידוע: Monocraft הוא פונט מונו-גובה עם 1500+ גליפים ואפילו ligatures, ו-Miracode היא גרסה וקטורית יותר קריאה שמשמרת את הרוח המיינקראפטית. אם אתם מעצבים ורוצים להוסיף קצת קובים לפרויקט שלכם - זה בדיוק מה שאתם צריכים.",
     "d": "2026-05-01T13:08:29+00:00",
     "v": 0,
     "l": [
@@ -8832,7 +8821,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 371,
-    "t": "«Сейчас сделаю приложение и заработаю на нём». АХАХАХАХАХ, удачи!Запуск пет-проекта часто начинается с фантазий об уходе из найма и пассивном доходе. Реальность приземляет быстро: полгода работы по ве\n\n«Сейчас сделаю приложение и заработаю на нём». АХАХАХАХАХ, удачи!Запуск пет-проекта часто начинается с фантазий об уходе из найма и пассивном доходе. Реальность приземляет быстро: полгода работы по вечерам конвертируются в пару тысяч установок и восемь платных подписок. Причём одна из них — от самого разработчика.Топорный маркетинг здесь бессилен. Прямая закупка рекламы лишь сжигает бюджет при околонулевой конверсии, поэтому контент и продвижение заберут 80% ресурсов. На фоне курсов, обещающих л",
+    "t": "\"עכשיו אני אעשה אפליקציה והרוויח ממנה\". הה\"ה, בהצלחה! המציאות היא קשה הרבה יותר\n\nכולנו חלמנו על זה - לבנות side project שיהפוך אותנו לעשירים בלילה. אבל בואו נדברנו על האמת: חצי שנה של עבודה בערבים זה בדרך כלל שווה רק כמה אלפי התקנות וכומר מנויים בתשלום (רובם שלך עצמך). מרקטינג חלול לא יעזור כאן - קניית מודעות פשוט תשרוף את התקציב בלא כמעט המרות, כך שתצטרך להשקיע 80% מהמשאבים בתוכן ובקידום אורגני. זה הלקח הקשה שרובנו לומדים לאט.",
     "d": "2026-05-01T13:01:11+00:00",
     "v": 0,
     "l": [
@@ -9103,7 +9092,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 382,
-    "t": "Настоящего робо-коня создала китайская компания 😱Qiji T1000 — способен перевозить до 1000 кг груза там, где не проедет машина. Изначально создается для патрулирования и аварийно-спасательных операций\n\nНастоящего робо-коня создала китайская компания 😱Qiji T1000 — способен перевозить до 1000 кг груза там, где не проедет машина. Изначально создается для патрулирования и аварийно-спасательных операций по снегу, на крутых склонах и горных тропах. Заявляют, что киберпанк лошадь может работать до 2 дней без подзарядки.Вот бы на таком на шашлыки 🏇@xor_journal",
+    "t": "חברה סינית יצרה סוס רובוט אמיתי 😱 ה-Qiji T1000 יכול לשאת עד 1000 קילו במקומות שבהם לא תוכל להגיע מכונית\n\nסינים הביאו לחיים סוס קיברנטי שמסוגל לנושא מטענים כבדים בשטחים תובעניים - שלג, מדרונות תלולים וטיילי הרים, שם לא תוכל להגיע מכונית רגילה. הרובוט Qiji T1000 מיועד בעיקר לפעולות סיור וחילוץ, וההבטחה היא שהוא יוכל לעבוד עד 48 שעות בלי טעינה. חיכיתם ששדיים על דברים כאלה? 🏇\nמקור: XOR Journal",
     "d": "2026-05-01T11:44:36+00:00",
     "v": 0,
     "l": [
@@ -9153,7 +9142,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 384,
-    "t": "💡 Люди опаснее ИИ? Ксения Буржская, главный «архитектор личности» Алисы AIКсения Буржская — писатель и AI-евангелист Алисы. Благодаря ее работе Алиса такая, какая есть — ИИ-ассистент с собственным, м\n\n💡 Люди опаснее ИИ? Ксения Буржская, главный «архитектор личности» Алисы AIКсения Буржская — писатель и AI-евангелист Алисы. Благодаря ее работе Алиса такая, какая есть — ИИ-ассистент с собственным, многогранным характером. Для некоторых людей, особенно для детей, Алиса стала почти членом семьи.Сама Ксения в интервью @hiaimedia рассказала, что страх эмоциональной привязанности к технологиям сильно преувеличен.«\"Иллюзия близости\" мне не кажется опасной — многие люди дают нам иллюзию близости, и, ",
+    "t": "האם אנשים מסוכנים יותר מ-AI? כשניה בורז'סקايה, \"אדריכלת האישיות\" של אליסה\n\nכשניה בורז'סקايה, הכותבת והאוונג'ליסטית של אליסה, בנתה את האישיות הייחודית של עוזר ה-AI הרוסי שהפך כמעט לחבר משפחה עבור מיליונים. בראיון חדש, בורז'סקايה טוענת שהחשש שלנו מקשר רגשי לטכנולוגיה הוא מאוד מוגזם, והיא משווה זאת לקשרים אנושיים שגם הם מלאים \"אשליה של קרבה\" - אבל זה לא בהכרח משהו רע.",
     "d": "2026-05-01T11:32:14+00:00",
     "v": 0,
     "l": [
