@@ -565,6 +565,15 @@
       </div>
     </div>
 
+    <!-- Tag Cloud (popular keywords) -->
+    <div class="sidebar-card">
+      <div class="sidebar-title" style="cursor:pointer; display:flex; align-items:center; justify-content:space-between;" id="cloud-toggle">
+        <span>נושאים פופולריים</span>
+        <span id="cloud-arrow" style="transition:transform .2s; transform:rotate(180deg)">▼</span>
+      </div>
+      <div id="tag-cloud" style="margin-top:12px; line-height:1.9; text-align:center; padding:6px 4px;"></div>
+    </div>
+
     <!-- Status filter -->
     <div class="sidebar-card">
       <div class="sidebar-title">סטטוס</div>
@@ -1060,6 +1069,90 @@ const FEATURED_SOURCES = [
   'Artificial Intelligence (TG)', 'Habr (TG)',
 ];
 
+/* ─── Tag Cloud (popular keywords from titles) ─────────── */
+// Common words to ignore
+const STOPWORDS = new Set([
+  'של','את','על','עם','אל','כי','גם','לא','זה','זו','הוא','היא','הם','הן','אם',
+  'יש','אין','כל','כך','עוד','אחר','כמו','אבל','מה','איך','למה','מי','מתי','איפה',
+  'the','a','an','and','or','but','of','in','on','at','to','for','with','by','from',
+  'is','are','was','were','be','been','being','it','this','that','these','those',
+  'will','would','can','could','should','may','might','as','if','than','then',
+  'how','what','when','where','why','who','your','our','their','his','her','its',
+  'new','first','last','more','most','one','two','say','said','says','use','used',
+  'about','also','out','up','no','yes','do','does','did','has','have','had','not',
+  'just','now','here','there','all','any','some','many','much','very','only',
+]);
+
+function tokenize(text) {
+  return (text || '')
+    .toLowerCase()
+    .replace(/["'״׳`]/g, '')
+    .replace(/[^֐-׿A-Za-z0-9\s-]/g, ' ')
+    .split(/\s+/)
+    .filter(w => w.length >= 3 && !STOPWORDS.has(w) && !/^\d+$/.test(w));
+}
+
+const TAG_COLORS = ['#3730a3','#15803d','#b91c1c','#9d174d','#0e7490','#7e22ce','#854d0e','#1e40af','#c2410c','#065f46'];
+
+function buildTagCloud() {
+  const data = window.TELEGRAM_DATA || [];
+  if (!data.length) return;
+  const counts = {};
+  for (const item of data) {
+    const text = (item.t || '').slice(0, 200); // first 200 chars (title + start of desc)
+    for (const w of tokenize(text)) {
+      counts[w] = (counts[w] || 0) + 1;
+    }
+    // Also boost company tags & explicit tags (count once per appearance)
+    for (const c of (item.co || [])) counts[c.toLowerCase()] = (counts[c.toLowerCase()] || 0) + 3;
+    for (const t of (item.tags || [])) {
+      if (t === 'news') continue;
+      counts[t.toLowerCase()] = (counts[t.toLowerCase()] || 0) + 2;
+    }
+  }
+  // Sort, take top 40
+  const top = Object.entries(counts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 40);
+  if (!top.length) return;
+  const maxCount = top[0][1];
+  const minCount = top[top.length - 1][1];
+
+  const container = document.getElementById('tag-cloud');
+  if (!container) return;
+  container.innerHTML = top.map(([word, n], i) => {
+    // Logarithmic font scale: 0.7rem (min) to 1.4rem (max)
+    const ratio = Math.log(n - minCount + 1) / Math.log(maxCount - minCount + 1);
+    const size = (0.72 + ratio * 0.85).toFixed(2);
+    const color = TAG_COLORS[i % TAG_COLORS.length];
+    const opacity = (0.55 + ratio * 0.45).toFixed(2);
+    return `<span class="tag-cloud-word" data-word="${escAttr(word)}" style="font-size:${size}rem; color:${color}; opacity:${opacity}; cursor:pointer; margin:2px 4px; display:inline-block; transition:transform .15s; font-weight:600;" title="${n} פעמים">${escHtml(word)}</span>`;
+  }).join('');
+
+  // Wire clicks: filter by search
+  container.querySelectorAll('.tag-cloud-word').forEach(el => {
+    el.addEventListener('click', () => {
+      const word = el.dataset.word;
+      const search = document.getElementById('search-input');
+      if (search) { search.value = word; search.dispatchEvent(new Event('input')); }
+    });
+    el.addEventListener('mouseenter', () => el.style.transform = 'scale(1.15)');
+    el.addEventListener('mouseleave', () => el.style.transform = 'scale(1)');
+  });
+
+  // Toggle handler
+  const toggle = document.getElementById('cloud-toggle');
+  const arrow = document.getElementById('cloud-arrow');
+  if (toggle && !toggle._wired) {
+    toggle._wired = true;
+    toggle.addEventListener('click', () => {
+      const open = container.style.display !== 'none';
+      container.style.display = open ? 'none' : 'block';
+      arrow.style.transform = open ? 'rotate(0deg)' : 'rotate(180deg)';
+    });
+  }
+}
+
 function buildSourceChips() {
   const allSources = new Set((window.TELEGRAM_DATA || []).map(a => a.source).filter(Boolean));
   // Show only featured sources that actually exist in data
@@ -1113,6 +1206,7 @@ function _init() {
     return setTimeout(_init, 50);
   }
   buildSourceChips();
+  buildTagCloud();
   renderFeed();
 }
 // Run on load (fires after all deferred scripts + images)
