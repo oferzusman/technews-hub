@@ -1,26 +1,26 @@
 {
   "total": 7065,
-  "translated": 7038,
-  "untranslated": 27,
+  "translated": 7065,
+  "untranslated": 0,
   "today": 186,
   "week": 1078,
   "sources": [
     {
       "name": "Product Hunt",
       "total": 871,
-      "translated": 869,
+      "translated": 871,
       "lastDate": "2026-05-05T05:57:40.000Z"
     },
     {
       "name": "Tom's Hardware",
       "total": 490,
-      "translated": 486,
+      "translated": 490,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
       "total": 486,
-      "translated": 482,
+      "translated": 486,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -32,19 +32,19 @@
     {
       "name": "CNBC Tech",
       "total": 322,
-      "translated": 321,
+      "translated": 322,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "Ars Technica",
       "total": 314,
-      "translated": 312,
+      "translated": 314,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
       "name": "OpenAI Blog",
       "total": 297,
-      "translated": 294,
+      "translated": 297,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -68,25 +68,25 @@
     {
       "name": "The Decoder",
       "total": 233,
-      "translated": 230,
+      "translated": 233,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "The Register",
       "total": 211,
-      "translated": 209,
+      "translated": 211,
       "lastDate": "2026-05-05T19:44:41.000Z"
     },
     {
       "name": "The Guardian AI",
       "total": 175,
-      "translated": 174,
+      "translated": 175,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
       "name": "The Verge AI",
       "total": 148,
-      "translated": 147,
+      "translated": 148,
       "lastDate": "2026-05-05T19:45:30.000Z"
     },
     {
@@ -104,7 +104,7 @@
     {
       "name": "MIT Technology Review",
       "total": 106,
-      "translated": 105,
+      "translated": 106,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -170,7 +170,7 @@
     {
       "name": "AI Post (TG)",
       "total": 27,
-      "translated": 26,
+      "translated": 27,
       "lastDate": "2026-05-05T19:39:40+00:00"
     },
     {
@@ -206,13 +206,13 @@
     {
       "name": "Hi, AI English (TG)",
       "total": 22,
-      "translated": 21,
+      "translated": 22,
       "lastDate": "2026-05-05T13:06:08+00:00"
     },
     {
       "name": "Hi, AI Russian (TG)",
       "total": 22,
-      "translated": 21,
+      "translated": 22,
       "lastDate": "2026-05-05T12:06:10+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-05T20:05:41.529Z"
+  "generatedAt": "2026-05-05T21:13:50.819Z"
 }
