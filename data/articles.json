@@ -141145,6 +141145,533 @@
       "priority": "hot",
       "fetchedAt": "2026-05-04T22:36:30.721Z",
       "created_at": "2026-05-04T22:36:30.721Z"
+    },
+    {
+      "id": 6880,
+      "source": "TechCrunch AI",
+      "title_en": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+      "description_en": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+      "image_url": null,
+      "pub_date": "Tue, 05 May 2026 03:31:54 +0000",
+      "author": "Lucas Ropek",
+      "categories": [
+        "AI",
+        "chips",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-05T06:34:39.735Z",
+      "created_at": "2026-05-05T06:34:39.735Z"
+    },
+    {
+      "id": 6881,
+      "source": "The Verge AI",
+      "title_en": "OpenAI’s president does ‘all the things,’ except answer a question",
+      "description_en": "When the bromance sours, we all end up in court. | Image: Cath Virginia / The Verge, Getty Images\t\n\nThe strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second.\nBrockman was called to the stand in a rather unusual way - he was cross-examined first, followed by a direct examination - and he had some serious high school debate club energy. There was a lot of \"I wouldn't characterize it that way,\" \"I wouldn't say i",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
+      "image_url": null,
+      "pub_date": "2026-05-04T23:49:33.000Z",
+      "author": "Elizabeth Lopatto",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-05T06:34:39.765Z",
+      "created_at": "2026-05-05T06:34:39.765Z"
+    },
+    {
+      "id": 6882,
+      "source": "MarkTechPost",
+      "title_en": "A Coding Guide to Survey Bias Correction Using Facebook Research Balance with IPW CBPS Ranking and Post Stratification Methods",
+      "description_en": "In this tutorial, we walk through a complete, end-to-end workflow for correcting bias in survey data using the balance library. We simulate a realistic population, deliberately introduce sampling bias, and then apply multiple re-weighting techniques to recover unbiased estimates. We focus on four widely used methods: Inverse Probability Weighting (IPW), Covariate Balancing Propensity Scores (CBPS), […]\nThe post A Coding Guide to Survey Bias Correction Using Facebook Research Balance with IPW CBP",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/04/a-coding-guide-to-survey-bias-correction-using-facebook-research-balance-with-ipw-cbps-ranking-and-post-stratification-methods/",
+      "image_url": null,
+      "pub_date": "Tue, 05 May 2026 04:46:45 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Applications",
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Editors Pick",
+        "Machine Learning",
+        "Software Engineering",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-05T06:34:41.317Z",
+      "created_at": "2026-05-05T06:34:41.317Z"
+    },
+    {
+      "id": 6883,
+      "source": "MarkTechPost",
+      "title_en": "Zyphra Introduces Tensor and Sequence Parallelism (TSP): A Hardware-Aware Training and Inference Strategy That Delivers 2.6x Throughput Over Matched TP+SP Baselines",
+      "description_en": "Zyphra Introduces Tensor and Sequence Parallelism (TSP): A Folded Parallelism Strategy That Reduces Both Parameter and Activation Memory Across the Same GPU Axis\nThe post Zyphra Introduces Tensor and Sequence Parallelism (TSP): A Hardware-Aware Training and Inference Strategy That Delivers 2.6x Throughput Over Matched TP+SP Baselines appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/04/zyphra-introduces-tensor-and-sequence-parallelism-tsp-a-hardware-aware-training-and-inference-strategy-that-delivers-2-6x-throughput-over-matched-tpsp-baselines/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-04-at-4.15.18-PM-1-scaled.png",
+      "pub_date": "Mon, 04 May 2026 23:15:49 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Hardware",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-05T06:34:41.317Z",
+      "created_at": "2026-05-05T06:34:41.317Z"
+    },
+    {
+      "id": 6884,
+      "source": "OpenAI Blog",
+      "title_en": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "description_en": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "image_url": null,
+      "pub_date": "Mon, 04 May 2026 21:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Global Affairs"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-05T06:34:41.737Z",
+      "created_at": "2026-05-05T06:34:41.738Z"
+    },
+    {
+      "id": 6885,
+      "source": "New Atlas",
+      "title_en": "LOCUST laser weapon scores 100% kill rate in US Navy trials",
+      "description_en": "Laser weapons reached a new milestone as the US Navy tested the AeroVironment (AV) LOCUST Laser Weapon System (LWS) aboard the nuclear aircraft carrier USS George H W Bush (CVN-77), notching up a 100% kill rate against multiple aerial drone threats.\nContinue Reading\nCategory: Military, Engineering\nTags: Aircraft Carrier, AeroVironment, US Navy, Laser weapon",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/military/aerovironment-locust-laser-weapon-us-navy-trials/",
+      "image_url": null,
+      "pub_date": "Tue, 05 May 2026 06:03:00 GMT",
+      "author": "David Szondy",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-05T06:34:41.970Z",
+      "created_at": "2026-05-05T06:34:41.970Z"
+    },
+    {
+      "id": 6886,
+      "source": "The Register",
+      "title_en": "Singapore boffins get diverse SIEMs singing in harmony with agentic rule translation",
+      "description_en": "Vendors all use different formats. This tech translates them all so you can smooth your SOC Academics from Singapore and China have found a way to make AI useful for cyber-defenders, by creating a technique that translates rules from diverse Security Information and Event Managements (SIEMs) so they’re easier to consume across multiple systems.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/arulecon_siem_rule_conversion/",
+      "image_url": null,
+      "pub_date": "2026-05-05T02:12:16.000Z",
+      "author": "Simon Sharwood",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-05T06:34:42.066Z",
+      "created_at": "2026-05-05T06:34:42.067Z"
+    },
+    {
+      "id": 6887,
+      "source": "The Guardian AI",
+      "title_en": "Tuesday briefing: How AI facial recognition in policing works – and how it can go wrong",
+      "description_en": "In today’s newsletter: With the use of facial recognition skyrocketing, there are calls for the rapid development of safeguards\nGood morning. Over the last couple of days, the Guardian has been reporting that facial recognition technology is being rolled out across the UK at a pace that appears to be outstripping the rules designed to govern it. Police forces are increasingly using live systems to scan members of the public in real time, while retailers are deploying similar tools to identify su",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/world/2026/may/05/tuesday-briefing-how-ai-facial-recognition-in-policing-works-and-how-it-can-go-wrong",
+      "image_url": "https://i.guim.co.uk/img/media/6f928ac91720aeb292c5266f27756beb074587e6/1071_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=1e813aa4461a46925947d50e2b0da2c0",
+      "pub_date": "Tue, 05 May 2026 05:45:43 GMT",
+      "author": "Martin Belam",
+      "categories": [
+        {
+          "_": "Facial recognition",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/facial-recognition"
+          }
+        },
+        {
+          "_": "UK civil liberties",
+          "$": {
+            "domain": "https://www.theguardian.com/law/uk-civil-liberties"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Law",
+          "$": {
+            "domain": "https://www.theguardian.com/law/law"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Race",
+          "$": {
+            "domain": "https://www.theguardian.com/world/race"
+          }
+        },
+        {
+          "_": "London",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/london"
+          }
+        },
+        {
+          "_": "Police",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/police"
+          }
+        },
+        {
+          "_": "Metropolitan police",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/metropolitan-police"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-05T06:34:42.312Z",
+      "created_at": "2026-05-05T06:34:42.312Z"
+    },
+    {
+      "id": 6888,
+      "source": "The Guardian AI",
+      "title_en": "Google DeepMind workers in UK vote to unionize amid deal with US military",
+      "description_en": "Exclusive: Worker pointed to Iran war and Pentagon’s Anthropic feud as indications the department is ‘not a responsible partner’\nWorkers developing Google’s artificial intelligence products in the UK have voted to unionize, in part out of concerns about a deal between the company and the US military that was announced last week.\nIn a letter slated to go to management on Tuesday and shared exclusively with the Guardian, workers at Google DeepMind, the company’s AI research laboratory, requested r",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/2026/may/04/google-deepmind-uk-workers-union",
+      "image_url": "https://i.guim.co.uk/img/media/f80f7c0faa77addae41acd9052268a4cf4515372/482_0_4822_3859/master/4822.jpg?width=140&quality=85&auto=format&fit=max&s=1bd63843f3d1304e03255bdf6653ef1c",
+      "pub_date": "Tue, 05 May 2026 05:05:42 GMT",
+      "author": "Alice Speri",
+      "categories": [
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Google",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/google"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "DeepMind",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/deepmind"
+          }
+        },
+        {
+          "_": "Trade unions",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/tradeunions"
+          }
+        },
+        {
+          "_": "Alphabet",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/alphabet"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-05T06:34:42.312Z",
+      "created_at": "2026-05-05T06:34:42.312Z"
+    },
+    {
+      "id": 6889,
+      "source": "The Guardian AI",
+      "title_en": "Canadian fiddler sues Google after AI Overview wrongly claimed he was a sex offender",
+      "description_en": "Ashley MacIsaac, who is seeking $1.5m in civil lawsuit, says inaccurate information led to concert cancellation\nAn acclaimed Canadian fiddle player has launched a $1.5m civil lawsuit against Google, alleging that the online giant defamed him by falsely identifying him as a sex offender in an AI-generated summary of his life and career.\nAshley MacIsaac, a three-time Juno award-winning musician, filed the claim in the Ontario superior court of justice, asserting that Google was liable for the “for",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb",
+      "image_url": "https://i.guim.co.uk/img/media/4642f2ca4299ccec57c56b3c44dc41ddb56a21cd/89_0_2219_1776/master/2219.jpg?width=140&quality=85&auto=format&fit=max&s=62ac2705ed915ea961e73699133fb182",
+      "pub_date": "Tue, 05 May 2026 02:22:38 GMT",
+      "author": "Sian Cain",
+      "categories": [
+        {
+          "_": "Music",
+          "$": {
+            "domain": "https://www.theguardian.com/music/music"
+          }
+        },
+        {
+          "_": "Canada",
+          "$": {
+            "domain": "https://www.theguardian.com/world/canada"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Google",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/google"
+          }
+        },
+        {
+          "_": "Americas",
+          "$": {
+            "domain": "https://www.theguardian.com/world/americas"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-05T06:34:42.312Z",
+      "created_at": "2026-05-05T06:34:42.312Z"
+    },
+    {
+      "id": 6890,
+      "source": "CNBC Tech",
+      "title_en": "Andy Jassy says Amazon investors will be rewarded by all its AI spending",
+      "description_en": "CEO Andy Jassy said Amazon’s massive AI spending reflects a once-in-a-generation opportunity and will ultimately reward investors.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/04/andy-jassy-amazon-investors-rewarded-ai-spending.html",
+      "image_url": null,
+      "pub_date": "Tue, 05 May 2026 00:38:58 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-05T06:34:47.160Z",
+      "created_at": "2026-05-05T06:34:47.160Z"
+    },
+    {
+      "id": 6891,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Universal дропнул большой трейлер «Одиссеи» Кристофера НоланаПриключенческий эпос с Мэттом Деймоном в главной роли выйдет в мировой прокат 17 июля.• Канал Wylsacom в MAX",
+      "description_en": "Universal дропнул большой трейлер «Одиссеи» Кристофера НоланаПриключенческий эпос с Мэттом Деймоном в главной роли выйдет в мировой прокат 17 июля.• Канал Wylsacom в MAX",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/32751",
+      "image_url": null,
+      "pub_date": "2026-05-05T05:28:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-05T06:34:48.161Z",
+      "created_at": "2026-05-05T06:34:48.161Z"
+    },
+    {
+      "id": 6892,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Продажи Steam Machine могут стартовать уже в мае  Valve провезла через американскую таможню крупную партию устройств весом 50 тонн, задекларировав содержимое контейнера как «игровые консоли». Либо Val",
+      "description_en": "Продажи Steam Machine могут стартовать уже в мае  Valve провезла через американскую таможню крупную партию устройств весом 50 тонн, задекларировав содержимое контейнера как «игровые консоли». Либо Valve наконец-то возобновила поставки Steam Deck, либо внутри долгожданная «Стим машина».При условии, что Steam Machine (вместе с контроллером и коробкой) весит чуть больше 3 кг, внутри контейнера находится примерно 16 500 консолей. Партия, мягко скажем, небольшая.Сегодня ночью стартовали предзаказы St",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/32752",
+      "image_url": "https://cdn4.telesco.pe/file/vCVyV6Wis7hMXo1IMFIOgNzNpU13CmTDH1LS62OjSUGknjfFQhvM3oiHvbZnV-gnQYQMJPUac_xtUQtbdeieAQCi4j7CzqHFKrHk0oMPruexxw0QunFpOJD4c58fWHzCqc8SgQfOptXghFjIBxounuzMx_3D88R94bKAz9UQxBNIhixvEKriUWG177u1vl8gMpVe5gq9buu3VQHUgyezsHEQLIrmj4n5xZAWYyINGmf13ZC7_QwkQcvFEkfh1ZVPxjH9G8Iv46bwo8UjUrARHRVhp83lUVEE-T49PzlphxCpuORd2psJ9Poojgfa7RswpNAA1lfRDr5AxzbfKm0xBw.jpg",
+      "pub_date": "2026-05-05T06:16:07+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-05T06:34:48.161Z",
+      "created_at": "2026-05-05T06:34:48.161Z"
+    },
+    {
+      "id": 6893,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Москва осталась без интернета. Мобильную связь заглушили сразу в несколько районах. Не открываются даже белые списки.  Ранее операторы предупреждали об отключениях с 5 по 9 мая. 👍 Бэкдор",
+      "description_en": "⚡️ Москва осталась без интернета. Мобильную связь заглушили сразу в несколько районах. Не открываются даже белые списки.  Ранее операторы предупреждали об отключениях с 5 по 9 мая. 👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28200",
+      "image_url": "https://cdn4.telesco.pe/file/INRnFW5Z7sT01OSB9fe5sH3JjdpYS12ya2Hi3t2A0e3uZX8bUp0lJ5i4CqpFJgIhTXoNRFaJN_raHnqc0rx4uxn36ZfUNvAxXOl6elOhjF6D2EefjMuBlSHrFK5ZIw1AcG0Uuze8El5iFRu5vZ1YZHfDe4Ym1zEaQ-71k1jWxRHAsKaUhbpR8XJwf-Ze9eJvbvB6gJH9BNKOe42-RCo5SlLKBvwMBVqqev7OqQOtf1WCRBLfRDW_t1KHkxP0DIBHhIjUmQN9g8G1LC663AOIR4PCeHA04Yh2Z7lmkYRB7dW4wCGU7n6hiWHHlw-HMO390oVeSDwvDf_8iPjAIWIwcw.jpg",
+      "pub_date": "2026-05-05T05:59:57+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-05T06:34:48.207Z",
+      "created_at": "2026-05-05T06:34:48.207Z"
+    },
+    {
+      "id": 6894,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ «Одиссея» Нолана — вышел полноценный трейлер! Это будет самый дорогой и эпичный фильм в карьере маэстро.Бюджет картины — 250 млн долларов, а среди основного каста только суперзвёзды — Мэтт Дэймон, ",
+      "description_en": "⚡️ «Одиссея» Нолана — вышел полноценный трейлер! Это будет самый дорогой и эпичный фильм в карьере маэстро.Бюджет картины — 250 млн долларов, а среди основного каста только суперзвёзды — Мэтт Дэймон, Том Холланд, Зендея, Энн Хэтэуэй, Роберт Паттинсон, Шарлиз Терон и Джон Бернтал.Эпик выйдет в прокат уже 17 июля.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28201",
+      "image_url": null,
+      "pub_date": "2026-05-05T06:19:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-05T06:34:48.208Z",
+      "created_at": "2026-05-05T06:34:48.208Z"
+    },
+    {
+      "id": 6895,
+      "source": "Habr (TG)",
+      "title_en": "Парадокс Ту-214: передовая аэродинамика из 80-х против производственных ограниченийОбычно Ту-214 воспринимают как вынужденную меру на фоне санкций, забывая про сверхкритический профиль крыла, хитрую б",
+      "description_en": "Парадокс Ту-214: передовая аэродинамика из 80-х против производственных ограниченийОбычно Ту-214 воспринимают как вынужденную меру на фоне санкций, забывая про сверхкритический профиль крыла, хитрую балансировку перекачкой топлива в киль и электродистанционное управление. Долгие годы самолёт находился в тени иностранных конкурентов из-за трёхчленного экипажа и тяжёлых двигателей ПС-90А.Сейчас полностью импортозамещённый борт готов к полётам, но упёрся в бутылочное горлышко конвейера, выдавая все",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/68558",
+      "image_url": "https://cdn4.telesco.pe/file/eu3pq63L4CIfCCB-jLNyiKSbELw3kOQ4CF1j7XKm-BFRLR50bCmG95G-TXRcR-jyYjZVTOjgu38DFy75a4SJ6PnTPTgUD97OSNx4368QLXAhW4tb5oURoE1A8yLxo0Bm97Bb0qtzkJ2nvIddXFiAMnDMCX7NubFlKj7Z68H2-lJIYYbmcjerWl5xuV0suFEj_YwVHhw_eLkXZQTC6rT7F8XiGLe6FrzedtCOw1Tmy2sV-BxztD6C-E8pckCnupLM9Z4KqpeF4MRU_DmLGvGk37gJKXmknRSmDwwmafuEVwQx-teeTSbUrI3SC6knAlhgQP7unlG5HCggXdoqQxFJFw.jpg",
+      "pub_date": "2026-05-05T05:00:56+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-05T06:34:48.585Z",
+      "created_at": "2026-05-05T06:34:48.585Z"
+    },
+    {
+      "id": 6896,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🎥 ИИ-актеры и нейросетевые сценарии не получат «Оскар»По новым правилам Американской киноакадемии, в актерских номинациях могут участвовать только роли, «исполненные людьми с их согласия». В сценарны",
+      "description_en": "🎥 ИИ-актеры и нейросетевые сценарии не получат «Оскар»По новым правилам Американской киноакадемии, в актерских номинациях могут участвовать только роли, «исполненные людьми с их согласия». В сценарных категориях правило еще жестче: сценарий должен быть написан человеком.👨 То есть статуэтку даже теоретически не может получить, например, ИИ-актриса Тилли Норвуд, несмотря на то, что создатели подают ее как потенциально полноценную участницу индустрии, способную заинтересовать студии.Также это пре",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3177",
+      "image_url": "https://cdn4.telesco.pe/file/jBPxJMCj_ALdd9pVecACYaNxqD9dJqgz99cKD9E6pt3r9m7mQW0q5vuXHLgz6Jp9rPrkWa-apCrDzOOah6jFI_Ib247gFUh79mwTZqJQjW5P8ky0quEt-YduJT8q9AMfYqWTi801bqt1sYIIJCCnkNLfN6QY6cyINRA1QYdvKg-ydToJ9XA-D2CuYmRIKQvoFUcgEEQj4xa441KJLEI3-K0eZSboxKa1OSuB9JmoGIWZ_WdJKf6KoUMYbkNOe-ALaFg5QO-ti8i3wsygI19eIkF_zRlr7uWf4OMdMPCmCVv7fDyz-4o4ci8YRmuf6LShWeO9MvzHDSHzCLsLnT1Zqw.jpg",
+      "pub_date": "2026-05-05T06:31:57+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-05T06:34:48.647Z",
+      "created_at": "2026-05-05T06:34:48.647Z"
+    },
+    {
+      "id": 6897,
+      "source": "AI Post (TG)",
+      "title_en": "❗️ Sam Altman's new podcast: Today's AI \"models are still quite dumb relative to what they will be. But more than that, they have quite limited awareness of your life. You are still having to massage ",
+      "description_en": "❗️ Sam Altman's new podcast: Today's AI \"models are still quite dumb relative to what they will be. But more than that, they have quite limited awareness of your life. You are still having to massage them, cajole them, and try to get the thing that you want.We are no longer that far away from a model that just knows all of your context. It knows about you. It knows about your life. It knows what you're doing. It doesn't care about those other people in your life. It has access to your computer a",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6803",
+      "image_url": null,
+      "pub_date": "2026-05-04T22:52:47+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-05T06:34:48.984Z",
+      "created_at": "2026-05-05T06:34:48.984Z"
+    },
+    {
+      "id": 6898,
+      "source": "AI Post (TG)",
+      "title_en": "When a dog meets a robot dog and has NO idea what’s going on 😂@aipost 🏴",
+      "description_en": "When a dog meets a robot dog and has NO idea what’s going on 😂@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6804",
+      "image_url": null,
+      "pub_date": "2026-05-05T02:05:05+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-05T06:34:48.984Z",
+      "created_at": "2026-05-05T06:34:48.984Z"
+    },
+    {
+      "id": 6899,
+      "source": "AI Post (TG)",
+      "title_en": "🗣Sam Altman says the \"nightmare scenario\" is AGI without robotsComputers do incredible things, but humans end up as the actuators, running around moving tables because we never solved the physical wo",
+      "description_en": "🗣Sam Altman says the \"nightmare scenario\" is AGI without robotsComputers do incredible things, but humans end up as the actuators, running around moving tables because we never solved the physical world. \"What matters is automated manufacturing with the generality of chatgpt\".@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6805",
+      "image_url": null,
+      "pub_date": "2026-05-05T05:14:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-05T06:34:48.984Z",
+      "created_at": "2026-05-05T06:34:48.984Z"
     }
   ]
 }
