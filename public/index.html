@@ -779,10 +779,18 @@ function renderNextPage() {
   const slice = _filteredCache.slice(_renderedCount, _renderedCount + PAGE_SIZE);
   if (!slice.length) return;
 
-  // Append cards without re-rendering existing ones
+  const sentinel = document.getElementById('scroll-sentinel');
   const fragment = document.createElement('div');
   fragment.innerHTML = slice.map(renderCard).join('');
-  while (fragment.firstChild) feed.appendChild(fragment.firstChild);
+
+  // Insert before sentinel (so sentinel stays at the very end)
+  while (fragment.firstChild) {
+    if (sentinel) {
+      feed.insertBefore(fragment.firstChild, sentinel);
+    } else {
+      feed.appendChild(fragment.firstChild);
+    }
+  }
 
   _renderedCount += slice.length;
   updateResultCount();
