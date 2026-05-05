@@ -23,15 +23,37 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/data.js public/admin-data.json
-          git diff --staged --quiet && echo "No changes" && exit 0
 
-          git stash
+          # Save the build outputs
+          cp public/data.js /tmp/new-data.js
+          cp public/admin-data.json /tmp/new-admin-data.json
+
+          # Sync to latest remote
           git fetch origin master
           git reset --hard origin/master
-          git stash pop
 
+          # Restore our build outputs
+          cp /tmp/new-data.js public/data.js
+          cp /tmp/new-admin-data.json public/admin-data.json
+
+          # Stage ONLY build outputs
           git add public/data.js public/admin-data.json
-          git diff --staged --quiet && echo "No net changes" && exit 0
+          git diff --staged --quiet && echo "No changes" && exit 0
           git commit -m "build: update site data"
-          git push origin master
+
+          for i in 1 2 3; do
+            git push origin master && exit 0
+            echo "Push attempt $i failed, syncing and retrying..."
+            cp public/data.js /tmp/new-data.js
+            cp public/admin-data.json /tmp/new-admin-data.json
+            git fetch origin master
+            git reset --hard origin/master
+            cp /tmp/new-data.js public/data.js
+            cp /tmp/new-admin-data.json public/admin-data.json
+            git add public/data.js public/admin-data.json
+            git diff --staged --quiet && echo "Already up to date" && exit 0
+            git commit --amend --no-edit
+            sleep 3
+          done
+          echo "All push attempts failed"
+          exit 1

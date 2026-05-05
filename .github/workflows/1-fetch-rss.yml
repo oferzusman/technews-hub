@@ -38,12 +38,34 @@ jobs:
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Save the modified data file content
+          cp data/articles.json /tmp/new-articles.json
+
+          # Sync to latest remote (preserves OUR changes only via copy/paste)
+          git fetch origin master
+          git reset --hard origin/master
+
+          # Restore our updated data
+          cp /tmp/new-articles.json data/articles.json
+
+          # Stage ONLY the data file (avoid clobbering anything else)
           git add data/articles.json
           git diff --staged --quiet && echo "No changes" && exit 0
           git commit -m "data: fetch rss"
-          git fetch origin master
-          git reset --soft origin/master
-          git add -A
-          git diff --staged --quiet && echo "No net changes" && exit 0
-          git commit -m "data: fetch rss"
-          git push origin master
+
+          # Retry push up to 3 times in case of concurrent push
+          for i in 1 2 3; do
+            git push origin master && exit 0
+            echo "Push attempt $i failed, syncing and retrying..."
+            cp data/articles.json /tmp/new-articles.json
+            git fetch origin master
+            git reset --hard origin/master
+            cp /tmp/new-articles.json data/articles.json
+            git add data/articles.json
+            git diff --staged --quiet && echo "Already up to date after pull" && exit 0
+            git commit --amend --no-edit
+            sleep 3
+          done
+          echo "All push attempts failed"
+          exit 1
