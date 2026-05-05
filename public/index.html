@@ -796,7 +796,6 @@ function updateResultCount() {
 }
 
 function setupScrollObserver() {
-  // Add sentinel element at end of feed
   const feed = document.getElementById('feed');
   let sentinel = document.getElementById('scroll-sentinel');
   if (sentinel) sentinel.remove();
@@ -805,20 +804,26 @@ function setupScrollObserver() {
   sentinel.style.cssText = 'grid-column: 1/-1; height: 60px; display: flex; align-items: center; justify-content: center; color: var(--text-muted); font-size: 0.9rem;';
   feed.appendChild(sentinel);
 
+  let loading = false;
   _scrollObserver = new IntersectionObserver((entries) => {
+    if (loading) return;
     if (entries[0].isIntersecting && _renderedCount < _filteredCache.length) {
+      loading = true;
       sentinel.textContent = '⏳ טוען עוד...';
-      // Move sentinel back to end after loading
       requestAnimationFrame(() => {
-        sentinel.remove();
         renderNextPage();
-        if (_renderedCount < _filteredCache.length) {
-          feed.appendChild(sentinel);
+        // Move sentinel back to the end of feed (after new cards)
+        feed.appendChild(sentinel);
+        if (_renderedCount >= _filteredCache.length) {
+          sentinel.textContent = '✓ הצגתי את הכל';
+          _scrollObserver.disconnect();
+        } else {
           sentinel.textContent = '';
         }
+        loading = false;
       });
     }
-  }, { rootMargin: '400px' });
+  }, { rootMargin: '600px' });
 
   _scrollObserver.observe(sentinel);
 }
