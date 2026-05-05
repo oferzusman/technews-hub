@@ -153816,7 +153816,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6412,
-    "t": "Top 10 Python Libraries for Generative AI You Need to Master in 2026 (The tools behind document agents, intelligent assistants, and next-gen interfaces.)\n\nTop 10 Python Libraries for Generative AI You Need to Master in 2026 (The tools behind document agents, intelligent assistants, and next-gen interfaces.)",
+    "t": "10 ספריות Python חובה ל-Generative AI בשנת 2026 (הכלים מאחורי סוכני מסמכים, עוזרים חכמים וממשקים דור הבא)\n\nאם אתם רוצים להישאר רלוונטיים בעולם ה-AI בשנה הקרובה, חייבים להכיר את 10 הספריות החזקות ביותר של Python שמעניקות כוח לסוכנים בינוניים, עוזרים אינטליגנטיים וממשקי משתמש מהדור הבא. המאמר סוקר את כל הכלים הקריטיים שאתם צריכים כדי לבנות פתרונות Generative AI מתקדמים ולהתחרות בשוק הטכנולוגיה המשתנה במהירות. זה גיד לא להחמיץ אם אתם ממשתמשי פיתוח Python שרוצים להתחיל או להעמיק את ידיעותיכם.",
     "d": "2026-03-30T16:08:36+00:00",
     "v": 0,
     "l": [
@@ -153831,8 +153831,7 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn5.telesco.pe/file/eDYuQxSISMdwuzjOYPz5KoFSOdMnn0rSjnbzIya7mjFvMsG1pX_RaJ8MiEqlk7sOltSQdTmv2nYU9KiSjzPneq0mVbJ6llWMU1nefHhLaCAK_0ZXwTedI3n3hZDUYo3tSr3rMw-n9hRTtjDZknBAMmMaN57iM0kThtu6S4saQSpWxSZ0soyGwSSHOqYFCHAB7oJQCVX1Yg_CtHbUZqM9IIMKbAOhXUtklf-t5xkia9nYK7P3-c5YBHMhqDo8F6KKoFr--9k6h4PjZpme6iI6k7zpqHsoX3M5G4Iyvc4FL_ttzTBKQKbSJiFCuKLQmenb-jtY40PqYW7aaW7oE6dgfQ.jpg",
@@ -154753,7 +154752,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6452,
-    "t": "Someone just built a Claude skill that clones any website with a single prompt 🤯It reverse engineers the design, extracts assets, and rebuilds the full layout automatically. It's also open-source.Git\n\nSomeone just built a Claude skill that clones any website with a single prompt 🤯It reverse engineers the design, extracts assets, and rebuilds the full layout automatically. It's also open-source.GitHub:https://github.com/JCodesMore/ai-website-cloner-template",
+    "t": "מישהו בנה Claude skill שמשכפל כל אתר בהודעה אחת 🤯\n\nזה בדיוק כמו שזה נשמע - יש כאן כלי חדש שלוקח כל אתר אינטרנט, מפרש את העיצוב, מחלץ את כל הנכסים ובונה קופיה מלאה בצורה אוטומטית. וכמובן שזה open-source, אז כל אחד יכול להשתמש בזה. זה משהו שאמור לשנות את דרך בה אנחנו יוצרים ומעדכנים אתרים.",
     "d": "2026-03-29T00:04:13+00:00",
     "v": 0,
     "l": [
@@ -155674,7 +155673,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6490,
-    "t": "A new version of GlassWorm malware is spreading through npm, PyPI, GitHub and developer tools, stealing browser data, crypto wallets and even installing a remote access trojan. It hides its command se\n\nA new version of GlassWorm malware is spreading through npm, PyPI, GitHub and developer tools, stealing browser data, crypto wallets and even installing a remote access trojan. It hides its command servers inside Solana blockchain transactions, making it harder to detect or shut down. 🤢Once inside, it logs keystrokes, steals cookies, captures screenshots and even installs a fake Google Docs Offline extension to monitor sessions and steal crypto credentials. It can also show fake Ledger or Trezo",
+    "t": "GlassWorm - תולעת זדונית חדשה שמתפשטת דרך npm ו-PyPI וגוזלת ממשלות קריפטו וסיסמאות\n\nGlassWorm הוא malware חדש שמתפשט בשביל npm, PyPI וכלים של מפתחים, וגוזל נתונים מדפדפנים, ארנקי קריפטו והרבה יותר - הוא אפילו מתקין backdoor RAT שקשה להסיר. החולה הזו משתמשת בבלוקצ'יין של Solana כדי להסתיר שרתי פקודה, וברגע שהיא בתוך המערכת שלך היא מתחילה לתעד הקשות מקלדת, לגנוב cookies וצילומי מסך, והיא אפילו מעמיתה תוספת Google Docs מזויפת כדי לעקוב אחרי הצפנה ופרטי ארנקים. זה בעצם הכnightmare של כל מפתח ישראלי שעובד עם dependency חיצוניות.",
     "d": "2026-03-25T14:47:40+00:00",
     "v": 0,
     "l": [
@@ -156256,7 +156255,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6514,
-    "t": "This Week in AI - Major Global Developments 🚀🧠📈Foundation Models & Big AI Platforms* Anthropic’s Claude reportedly crossed 11 million daily active users, narrowing the usage gap with OpenAI’s ChatG\n\nThis Week in AI - Major Global Developments 🚀🧠📈Foundation Models & Big AI Platforms* Anthropic’s Claude reportedly crossed 11 million daily active users, narrowing the usage gap with OpenAI’s ChatGPT and signaling stronger enterprise + developer adoption.* OpenAI is reported to have launched GPT-5.4 Mini and Nano, pushing smaller high-efficiency models for lower-cost deployment and edge inference.* Mistral AI announced Mistral Forge, a new platform aimed at enterprise model deployment and cus",
+    "t": "השבוע ב-AI - התפתחויות גלובליות גדולות 🚀🧠📈\n\nClaude של Anthropic חצה את ה-11 מיליון משתמשים פעילים ביום, בעוד OpenAI משיקה את GPT-5.4 Mini ו-Nano לדיפלוימנט משכלל וחסכוני - והעולם של foundation models הולך ונעשה יותר תחרותי. גם Mistral AI קפצה לריקודים עם Mistral Forge, פלטפורמה חדשה שמטרתה להפוך את ה-enterprise deployment ל-יותר נגיש ודומיננטי.",
     "d": "2026-03-21T14:51:21+00:00",
     "v": 0,
     "l": [
@@ -156277,7 +156276,7 @@ window.TELEGRAM_DATA = [
       "news",
       "model"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "Artificial Intelligence (TG)"
   },
@@ -157273,7 +157272,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6556,
-    "t": "🚨 Anthropic dropped a FREE 33-page playbook revealing Claude's very own cheat code:The 'Skills' folder.Spend 30 minutes building it,and you’ll never have to explain your process again.Top-tier users \n\n🚨 Anthropic dropped a FREE 33-page playbook revealing Claude's very own cheat code:The 'Skills' folder.Spend 30 minutes building it,and you’ll never have to explain your process again.Top-tier users don't just type commands, they build systems.Grab your free copy of Anthropic's official guide to building Claude skills right here: https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf",
+    "t": "🚨 אנתרופיק שחררה מדריך חינם בן 33 עמודים: התעלול הסודי של Claude - תיקייה 'Skills'\n\nאנתרופיק בא בחדשות חם - הם שחררו מדריך רשמי שלם להכשרת Claude בדרך שלך, וזה דברים משנה משחק. אם תשקיעו חצי שעה בבניית 'Skills folder' נכון, תוכלו להפוג מהעבודה הכבדה של הסברים חוזרים ונשנים וליצור סיסטם שעובד לכם אוטומטית. הגדולים בשטח כבר מבינים שזה לא על להקליד פקודות - זה על בניית infrastructure חכם שעובד בשבילך.",
     "d": "2026-03-09T17:09:14+00:00",
     "v": 0,
     "l": [
@@ -158735,7 +158734,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6614,
-    "t": "There are 2 career paths in AI right now:The API Caller: Knows how to use an API. (Low leverage, first to be automated, $150k salary).The Architect: Knows how to build the API. (High leverage, builds \n\nThere are 2 career paths in AI right now:The API Caller: Knows how to use an API. (Low leverage, first to be automated, $150k salary).The Architect: Knows how to build the API. (High leverage, builds the tools, $500k+ salary).Bootcamps train you to be an API Caller. This free 17-video Stanford course trains you to be an Architect.It's CS336: Language Modeling from Scratch.The syllabus is pure signal, no noise: ➡️ Data Collection & Curation (Lec 13-14)➡️ Building Transformers & MoE (Lec 3-4)➡️ Ma",
+    "t": "שתי דרכים בקריירה של AI: קורא API מול אדריכל API\n\nבעולם ה-AI יש כרגע שתי דרכים קריירה שונות: \"קורא API\" שיודע להשתמש בכלים קיימים (משכורת $150K אבל קל להחליף אותו בתוכנה), מול \"אדריכל API\" שיודע בעצם לבנות את הכלים האלה (משכורת $500K+ וגם בטוח לעתיד הרבה יותר). במקום bootcamps שמלמדים אתכם להיות \"קוראי API\", יש קורס מדהים בחינם מסטנפורד - CS336 - שמלמד אתכם את הפלטפורמה הנכונה ממש מהבסיס, כולל איך בונים Transformers, MoE וכל הקטגוריות החשובות באמת.",
     "d": "2026-02-17T13:52:01+00:00",
     "v": 0,
     "l": [
@@ -158758,7 +158757,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6615,
-    "t": "There is a reason everyone is talking about Claude Code.It is the Most Powerful AI tool available.This is the full breakdown you need to understand it:You now no longer need to know coding to code.You\n\nThere is a reason everyone is talking about Claude Code.It is the Most Powerful AI tool available.This is the full breakdown you need to understand it:You now no longer need to know coding to code.You don't need to write the code; you just manage the agents that write it.People are building some incredible apps and websites using it in a couple of hours max.Which is pretty crazy, all things considered. Yet another seismic moment.However, if you don't know where to start, it can be a tiny bit con",
+    "t": "למה כולם מדברים על Claude Code? הכלי ה-AI החזק ביותר שיש - הסבר מלא\n\nClaude Code זה כרגע הדבר החם בעולם ה-AI, ויש סיבה טובה לזה. אתה כבר לא צריך לדעת תכנות כדי לכתוב קוד - פשוט מנהל את ה-agents שכותבים בשבילך, והתוצאה היא שאנשים בונים אפליקציות ווובסיטים מטורפים בתוך שעות ספורות. זה שינוי סיסמי שלם, אבל אם אתה לא יודע מאיפה להתחיל, יכול להיות קצת מבלבל.",
     "d": "2026-02-16T02:35:32+00:00",
     "v": 0,
     "l": [
@@ -159346,7 +159345,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6638,
-    "t": "If you understand these 8 classic ML algorithms, u can solve most real-world prediction problems even before touching deep learning.These 8 algorithms are timeless:Linear Regression — predict continuo\n\nIf you understand these 8 classic ML algorithms, u can solve most real-world prediction problems even before touching deep learning.These 8 algorithms are timeless:Linear Regression — predict continuous values (pricing, demand, forecasting)Logistic Regression — classification baseline (fraud/churn/risk)Decision Trees — interpretable decision-makingRandom Forest — strong performance with minimal tuningSVM — great for clean high-dimensional boundariesKNN — simple, intuitive “similarity-based” lear",
+    "t": "8 אלגוריתמים קלאסיים של Machine Learning שיפתרו לכם 99% מהבעיות בעולם האמיתי\n\nאם אתם שולטים בשמונה אלגוריתמים קלאסיים של ML, תוכלו לפתור כמעט כל בעיית prediction בשוק הישראלי - וזה לפני שאפילו תקרבו ל-deep learning. מ-Linear Regression לחיזוי מחירים ועד Random Forest שמנצח בביצועים בלי צורך בטיונינג מטורף, אלה הכלים שבאמת עובדים. הכתבה מסבירה את כל 8 האלגוריתמים הנצחיים האלה שכל data scientist צריך להכיר.",
     "d": "2026-02-04T03:03:31+00:00",
     "v": 0,
     "l": [
@@ -159541,7 +159540,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6646,
-    "t": "Google just released Genie, a real time world simulator you can actually walk through 🌍 Text or images turn into explorable worlds with object permanence and environments that keep expanding instead \n\nGoogle just released Genie, a real time world simulator you can actually walk through 🌍 Text or images turn into explorable worlds with object permanence and environments that keep expanding instead of collapsing.This isn’t a game engine or a video model. It’s a foundation model for worlds 🧠 Today you move and look around. Tomorrow, those worlds respond.Learn more: https://labs.google/projectgenie",
+    "t": "גוגל השיקה את Genie - סימולטור עולמות בזמן אמת שאתה יכול להסתובב בתוכו 🌍\n\nגוגל בא עם משהו שהוא קצת מטורף - Genie, סימולטור עולמות שמה שאתה כותב או מעלה כתמונה הופך בתוך שנייה לעולם שלם שאתה יכול להסתובב בתוכו. זה לא משחק, זה לא וידאו - זה foundation model עבור עולמות שלמות עם object permanence שמתחזקת. היום אתה יכול ללכת ולהסתכל סביב, מחר העולמות האלה יתחילו להגיב לך 🧠",
     "d": "2026-01-30T12:24:07+00:00",
     "v": 0,
     "l": [
@@ -159554,12 +159553,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": null,
@@ -159567,7 +159563,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6647,
-    "t": "RSA just hit 59.31% on ARC-AGI-2 and the method is dumb simpleGenerate reasoning chains in parallel. Split into random subsets. Ask the model to merge each subset into one better chain. Repeat.No code\n\nRSA just hit 59.31% on ARC-AGI-2 and the method is dumb simpleGenerate reasoning chains in parallel. Split into random subsets. Ask the model to merge each subset into one better chain. Repeat.No code scaffolding. No multi-agent systems. Just the model arguing with itself.With Gemini 3 Flash it beats Gemini DeepThink at 1/10th the cost 💸. Nearly matches Poetiq with a fraction of the complexity.LLMs are inconsistent but weirdly good at picking the best parts from multiple attempts. RSA just turn",
+    "t": "RSA הגיעה ל-59.31% ב-ARC-AGI-2 עם שיטה פשוטה בעצם מדי\n\nRSA רק עשתה משהו מטורף - היא מייצרת שרשיר הנמקות במקביל, מחלקת אותו לתתי-קבוצות אקראיות, ואז שואלת את המודל לעצמו למזג את זה לשרשיר אחד טוב יותר. בלי שום קוד מסובך, בלי מערכות מולטי-אגנט, פשוט המודל מוכיח לעצמו. עם Gemini 3 Flash היא כבר מכה את DeepThink בעלות של עשירית בלבד 💸. התופעה הזו מראה שהמודלים הלשוניים אולי לא עקביים, אבל הם חריפים מאוד בהרמת החלקים הטובים ביותר מכמה ניסיונות שונים.",
     "d": "2026-01-29T21:40:51+00:00",
     "v": 0,
     "l": [
@@ -159585,8 +159581,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://cdn4.telesco.pe/file/ho9qm5wf2Ly3GZdN6tpRvI7GdoYAhKkJ9D3uiWxSaxO_yGMUjtZKw1PZUVk9TpKo1eNy2Wp8PurYhElb3OzSPSGLNSonrx-AVyQ_Y671dEBdYFojMe31zjLVUdA8e043W7MR3JoCs-fXe8fZhBNphz7d_1-CLllcfCSiuA1Sy9XX-5iUmbeJFLkJ4eJD-qlv1ZMSmr36Xa6ml3PkEw-Qbaig5UXfWO5OBSHVj33LaYfvwu6puJC8bYRJkIG3kPMMP9iLg5zeOEwFw_hsuf68VgHC4K3O9PluR7AM2yfVY4qxn8TGw2D-e0TaL285y5k2rJMM1HjL9LC5hSfH-_iryA.jpg",
@@ -159951,7 +159946,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6662,
-    "t": "ChatGPT is still the nº1 AI site, but its lead is shrinking fast. New Similarweb numbers show ChatGPT dropping to 64.6% global traffic share while Google’s Gemini jumped to 22%, and that’s the first t\n\nChatGPT is still the nº1 AI site, but its lead is shrinking fast. New Similarweb numbers show ChatGPT dropping to 64.6% global traffic share while Google’s Gemini jumped to 22%, and that’s the first time since 2023 ChatGPT has been under 65%.The story isn’t \"ChatGPT is falling apart\", it’s Google finally turned distribution into growth. Gemini is everywhere in Google’s ecosystem, and that kind of default placement is brutally effective. If this trend holds, the market won’t be one king anymore, ",
+    "t": "ChatGPT עדיין המלך, אבל הכתר מתנדנד - Google Gemini עולה בחזקה\n\nChatGPT מאבד את ההשפעה שלו: נתוני Similarweb החדשים מראים שהחלק שלו בטרפיק העולמי ירד ל-64.6%, בעוד ש-Google Gemini כבר בשיעור של 22% - זה הפעם הראשונה מאז 2023 שChatGPT נמצא מתחת ל-65%. זה לא שChatGPT מתמוטט, זה שGoogle סוף סוף ביצע את ההפצה שלו כמו שצריך - Gemini כבר everywhere בגוגל, והמיקום דיפולטיבי כזה הוא פשוט קוטל. אם הטרנד הזה נמשך, בשוק לא יהיה יותר מלך אחד בודד.",
     "d": "2026-01-26T21:23:10+00:00",
     "v": 0,
     "l": [
@@ -159978,7 +159973,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6663,
-    "t": "𝐌𝐨𝐬𝐭 𝐩𝐞𝐨𝐩𝐥𝐞 𝐬𝐞𝐞 𝐆𝐨𝐨𝐠𝐥𝐞 𝐀𝐈 𝐚𝐬 \"𝐣𝐮𝐬𝐭 𝐆𝐞𝐦𝐢𝐧𝐢.\"They are missing the bigger picture.Google is not competing on Models anymore. They are building a Full-Stack AI Operating S\n\n𝐌𝐨𝐬𝐭 𝐩𝐞𝐨𝐩𝐥𝐞 𝐬𝐞𝐞 𝐆𝐨𝐨𝐠𝐥𝐞 𝐀𝐈 𝐚𝐬 \"𝐣𝐮𝐬𝐭 𝐆𝐞𝐦𝐢𝐧𝐢.\"They are missing the bigger picture.Google is not competing on Models anymore. They are building a Full-Stack AI Operating System. Here is are the 6 Layer 𝟏. 𝐓𝐡𝐞 𝐌𝐨𝐝𝐞𝐥𝐬Gemini 3 (Pro, Thinking, Flash, Fast) + GemmaThe reasoning and multimodal foundation from deep reasoning to low-latency, cost-efficient workloads.𝟐. 𝐁𝐮𝐢𝐥𝐝 & 𝐂𝐨𝐝𝐞Gemini Code Assist, Jules, Antigravity, AI Studio, App BuilderAI-native dev",
+    "t": "גוגל לא רק Gemini - זה מערכת הפעלה AI בשלם שמשנה את המשחק\n\nאנשים חושבים שהתחרות של גוגל בעולם ה-AI זה רק Gemini, אבל הם מחמיקים את התמונה הגדולה. גוגל בנויה כאן מערכת הפעלה AI שלמה בשש שכבות - החל מה-Models עצמה (Gemini 3 עם גרסאות שונות ו-Gemma), עוברת דרך כלים לפיתוח (Code Assist, Jules, AI Studio), ועד תשתיות ותשלוב יעיל. זה הרבה יותר מחברת מודלים - זה משהו שרואים אצל OpenAI רק בחלקים - והדבר הזה הוא הפעם הראשונה שגוגל בונה משהו כמו זה שיכול להיות אמיתי יריב תיכנה סופי.",
     "d": "2026-01-26T17:16:30+00:00",
     "v": 0,
     "l": [
@@ -159992,6 +159987,7 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
+      "OpenAI",
       "Google"
     ],
     "tags": [
@@ -160077,7 +160073,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6667,
-    "t": "I’m Head of AI/ML with more than 9+ years of experience.6 pieces of advice I would give to people in their 20s, who want to make a career in AI/ML in 2026:1️⃣ 𝗠𝗮𝘀𝘁𝗲𝗿 𝘁𝗵𝗲 𝗯𝗼𝗿𝗶𝗻𝗴 𝗳𝘂𝗻𝗱\n\nI’m Head of AI/ML with more than 9+ years of experience.6 pieces of advice I would give to people in their 20s, who want to make a career in AI/ML in 2026:1️⃣ 𝗠𝗮𝘀𝘁𝗲𝗿 𝘁𝗵𝗲 𝗯𝗼𝗿𝗶𝗻𝗴 𝗳𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 𝗯𝗲𝗳𝗼𝗿𝗲 𝘁𝗵𝗲 𝘀𝗵𝗶𝗻𝘆 𝗟𝗟𝗠 𝘁𝗿𝗶𝗰𝗸𝘀→ Nail linear regression, regularisation, loss functions, TF-IDF & BM25.→ Explain tokenisation and embeddings from scratch - don’t just import Hugging Face.→ Build a non-linear model on a toy dataset you created yourself; understand ",
+    "t": "ראש AI/ML עם 9+ שנות ניסיון חולק 6 טיפים לצעירים שרוצים קריירה בתחום ב-2026\n\nמנהיג בתחום ה-AI חושף את הסודות האמיתיים לקריירה משגשגת: לפני שאתם צוללים לעולם ה-LLM וה-transformers המרתקים, חייבים להשתיל לעומק את היסודות - linear regression, regularization, loss functions, TF-IDF ו-BM25. הטיפ החשוב ביותר? אל תסתמכו על ספריות מוכנות - בנו מודלים משלכם, הבינו tokenization ו-embeddings מהשורש, וזה יעשה אתכם שונים מכל המתחרים בשוק.",
     "d": "2026-01-23T06:24:04+00:00",
     "v": 0,
     "l": [
@@ -160205,7 +160201,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6672,
-    "t": "5 AI projects that (actually) get you hired.Most resumes get ignored, these won't:1 → RAG from ScratchBuild retrieval systems properly.No framework shortcuts.https://github.com/langchain-ai/rag-from-s\n\n5 AI projects that (actually) get you hired.Most resumes get ignored, these won't:1 → RAG from ScratchBuild retrieval systems properly.No framework shortcuts.https://github.com/langchain-ai/rag-from-scratch2 → AI Social Media AgentAutonomous content generation.Real world automation.https://github.com/langchain-ai/social-media-agent3 → Medical Image AnalysisHealthcare AI applications.Production ready pipeline.https://github.com/databricks-industry-solutions/pixels4 → MCP Tool Calling AgentsMulti ",
+    "t": "5 פרויקטי AI שבאמת מקבלים אתכם לעבודה\n\nשכחו מ-CV שנזרקים לפח - הנה 5 פרויקטים שיגרמו למעסיקים להסתכל פעמיים. מבניית RAG systems מ-scratch עד agents שמייצרים תוכן באופן אוטומטי, וגם medical imaging בלי shortcuts - כל הפרויקטים האלה production-ready ויראו חד בתיקייה שלכם.",
     "d": "2026-01-21T14:23:01+00:00",
     "v": 0,
     "l": [
@@ -160221,7 +160217,6 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "robotics",
       "agents"
     ],
     "imp": "low",
@@ -160482,7 +160477,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6683,
-    "t": "This is huge.Now you can use Claude Code for FREE:Ollama is now compatible with the anthropic messages API. which means you can use Claude code with open-source models.Think about that for a second. t\n\nThis is huge.Now you can use Claude Code for FREE:Ollama is now compatible with the anthropic messages API. which means you can use Claude code with open-source models.Think about that for a second. the entire Claude harness:- the agentic loops- the tool use- the coding workflowsAll powered by private LLMs running on your own machine. https://dailydoseofds.github.io/ai-engg-book?trk=public_post_comment-text",
+    "t": "זה ענק! עכשיו אתה יכול להשתמש בClaude Code בחינם: Ollama תואם ל-Anthropic Messages API\n\nקראו את זה: Ollama התחבר ל-API של Anthropic, מה שאומר שאתם יכולים להשתמש בכל כוחות ה-Claude - הלולאות האגנטיביות, tool use והקוד - כל זה עם מודלים open-source שרצים על המחשב שלכם בבית, בחינם ובעלמא פרטית. זה משנה כל משחק לכל מי שלא רוצה להוציא כסף על API calls או חרד מפרטיות הנתונים שלהם.",
     "d": "2026-01-20T03:13:06+00:00",
     "v": 0,
     "l": [
@@ -160501,8 +160496,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://cdn5.telesco.pe/file/nybfoViHWulF9SRdccMYPmt7q7kASFWT5HTuJy6nbvPOLw4_zbqwQDkijODOMnm0LJj_29U2VEVuxsqZumfxg-XCSZwLBPwxQpZfkJKf9-NvOQPYClajOWUJECaw-arTojt_MjBEyJ24FG-78wVvrxahm_q_uz9JvwDYQ-p1C2PFfz2Q3jAQXh9iZ83DgBO81CTwyK9SynPr3en0E_7l_1FJMlBXwtoSphnhtiEUjTrqkWoTK6XPkAjztp97qzoakLSUHa-38P572SU_NtMmERlrRR-qPmwIe5KfnsfOkyq66208Glvzj26658azCxWGAdxWGAIKnebOwpxSwnpDAw.jpg",
@@ -160637,7 +160631,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6689,
-    "t": "🛌🤖 Imagine if a single night of sleep could reveal your future health.That’s what SleepFM is claiming: a model trained on 585,000 hours of polysomnography from 65,000 people. The paper says it can p\n\n🛌🤖 Imagine if a single night of sleep could reveal your future health.That’s what SleepFM is claiming: a model trained on 585,000 hours of polysomnography from 65,000 people. The paper says it can predict 130 diseases, with some big numbers: all-cause mortality (0.84), dementia (0.85), heart attack (0.81), stroke (0.78) (metrics like C-Index/AUROC).It’s still not as simple as wearing a smartwatch. This is lab-grade data: brain, heart, and breathing signals captured overnight.",
+    "t": "SleepFM: AI שחוזה 130 מחלויות מנתוני שינה בלילה אחד\n\nסטארטאפ חדש טוען שיכול לחזות את בעיות הבריאות שלך העתידיות על סמך ניתוח של לילה שינה אחד בלבד. המודל AI שלהם התאומן על 585,000 שעות של נתוני פוליסומנוגרפיה מ-65,000 אנשים וטוען שיכול לחזות מוות בגלל כל סיבה (דיוק 0.84), דמנציה (0.85), התקף לב (0.81) ושבץ (0.78). זה לא פשוט כמו smartwatch - צריך נתונים בדיוק של מעבדה עם אותות מוח, לב והנשמה.",
     "d": "2026-01-17T00:34:21+00:00",
     "v": 0,
     "l": [
@@ -160709,7 +160703,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6692,
-    "t": "🚨 BIG news for students! 🚨College students can now get 1 YEAR FREE of Microsoft 365 Premium - AI + LinkedIn Premium +  🎓💻That means: ✨ Career tools on LinkedIn ✨  Get the ultimate AI experience  ✨\n\n🚨 BIG news for students! 🚨College students can now get 1 YEAR FREE of Microsoft 365 Premium - AI + LinkedIn Premium +  🎓💻That means: ✨ Career tools on LinkedIn ✨  Get the ultimate AI experience  ✨  Word, Excel, PowerPoint & more ✨ Resume building, job prep, and productivity — all freeThis is one of the most exciting student perks Microsoft launched 🙌 Don’t miss it —share with every college student you know!🔗 Link: https://www.microsoft.com/en-us/microsoft-365/college-student-pricing",
+    "t": "🚨 חדשות גדולות לסטודנטים! 🚨 שנה חינם של Microsoft 365 Premium - AI + LinkedIn Premium + כל הכלים שצריכים לקריירה\n\nמיקרוסופט הוציאה קניון משמעותי לסטודנטים: שנה שלמה בחינם של Microsoft 365 Premium עם גישה מלאה ל-AI, LinkedIn Premium, וכל הקלאסיקות - Word, Excel, PowerPoint ועוד. זה כולל כלים לבניית קורות חיים, הכנה לראיונות, וגם את החוויה הלא-מוגבלת של עולם ה-AI. אם אתם סטודנטים, זה הזמן להירשם - לא צריך להחמיץ את ההצעה הזאת! 🎓💻",
     "d": "2026-01-16T10:09:42+00:00",
     "v": 0,
     "l": [
@@ -160787,7 +160781,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6695,
-    "t": "The most expensive AI education in the world is now FREE — most will ignore it 🛑That’s the real gap in 2026.Next year, winners won’t be the people who know AI.They’ll be the ones who turn complexity \n\nThe most expensive AI education in the world is now FREE — most will ignore it 🛑That’s the real gap in 2026.Next year, winners won’t be the people who know AI.They’ll be the ones who turn complexity into progress while others stay busy and burnt out.After leading AI and digital transformation across legal tech, housing, government, and professional bodies — here are the 10 capabilities that actually move careers and companies forward:1️⃣ Prompt EngineeringClarity beats cleverness — context, con",
+    "t": "חינוך ה-AI היקר ביותר בעולם כעת חינם — ורוב האנשים פשוט יתעלמו מזה\n\nהעלות הגדולה ביותר בשנה הקרובה היא לא כסף אלא זמן — כי כשכל חומרי ההדרכה ב-AI נהיו חינמיים, מי שיזכה יהיה לא מי שמבין AI, אלא מי שממש יודע להוציא ממנו ערך אמיתי. מתוך ניסיון בשדות כמו legal tech ו-government, ההבדל החד בין הצלחה לתקיעות יהיה היכולת להפוך מורכבות לתוצאות בעוד שאחרים עדיין תקועים בשריפת מוחות.",
     "d": "2026-01-15T10:56:44+00:00",
     "v": 0,
     "l": [
@@ -160961,7 +160955,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6702,
-    "t": "It sounds like a joke, but Google Research claims a prompting trick that actually works: paste your prompt twice, exactly the same, before sending it 🤖📋In a recent preprint, they show that turning <\n\nIt sounds like a joke, but Google Research claims a prompting trick that actually works: paste your prompt twice, exactly the same, before sending it 🤖📋In a recent preprint, they show that turning  into  improves results when the model is not asked to reason. Across many benchmarks and models, repetition wins most comparisons and never clearly loses.They also report that outputs don’t get longer and latency usually stays the same, since the extra cost is in reading the prompt, not generating t",
+    "t": "טריק פשוט שעובד: גוגל מגלה שהדבקת ה-Prompt פעמיים משפרת את תוצאות ה-AI 🤖📋\n\nזה נשמע כמו בדיחה, אבל חוקרי גוגל גילו שדבר אחד פשוט באמת עובד - כשאתם שולחים את אותו prompt פעמיים בדיוק, המודל מחזיר תוצאות טובות יותר. במחקר חדש שלהם הראו שהטריק הזה זוכה בהשוואות על רוב ה-benchmarks ובלי להאט את התהליך או להאריך את ה-output, כי כל העלות נמצאת בקריאת ה-prompt ולא בייצור התשובה.",
     "d": "2026-01-12T20:19:27+00:00",
     "v": 0,
     "l": [
@@ -160974,14 +160968,11 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Google"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
-    "imp": "medium",
+    "imp": "low",
     "thumb": null,
     "source": "Prompt AI News (TG)"
   },
@@ -161094,7 +161085,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6707,
-    "t": "🩺 OpenAI is quietly moving ChatGPT closer to your real lifeWith ChatGPT Health, users can link medical records and wellness apps so answers are grounded in their own health data. It’s not a doctor an\n\n🩺 OpenAI is quietly moving ChatGPT closer to your real lifeWith ChatGPT Health, users can link medical records and wellness apps so answers are grounded in their own health data. It’s not a doctor and it won’t diagnose you, but it aims to help you understand your information better and ask smarter questions.Health chats live in a separate space, stay private, and aren’t used to train models. ChatGPT wants to be a personal assistant that follows you beyond search and work, while trying to earn t",
+    "t": "🩺 OpenAI מקרוב מביאה את ChatGPT לחייך האמיתיים\n\nOpenAI השיקה את ChatGPT Health, תכונה חדשה שמאפשרת לקשר את הרשומות הרפואיות שלך ואפליקציות wellness ישירות לצ'אט, כדי שהתשובות יהיו מבוססות על הנתונים הבריאותיים שלך. זה לא תחליף לרופא ולא יעשה אבחנות, אבל זה עוזר לך להבין טוב יותר את המידע הרפואי שלך ולשאול שאלות חכמות יותר. כל השיחות הרפואיות נשמרות במרחב נפרד, פרטי לגמרי, ולא משמשות לאימון של המודלים.",
     "d": "2026-01-08T15:04:29+00:00",
     "v": 0,
     "l": [
@@ -161201,7 +161192,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6711,
-    "t": "💻🧯 PC makers are finally reading the roomAt CES 2026, Dell basically admitted what everyone feels but no one in marketing wants to hear: people are not buying laptops because of AI stickers or NPUs.\n\n💻🧯 PC makers are finally reading the roomAt CES 2026, Dell basically admitted what everyone feels but no one in marketing wants to hear: people are not buying laptops because of AI stickers or NPUs. Every new Dell and Alienware machine still has AI hardware inside, but the pitch has shifted back to performance, thermals, screens, actual use cases.AI hype is staying under the hood where it belongs. Consumers want a good laptop, not a lecture about neural engines.",
+    "t": "💻🧯 יצרני מחשבים סוף סוף שומעים את הקול - ב-CES 2026 דל הודתה שלאף אחד לא קונה לפטופים בגלל AI\n\nב-CES 2026 דל בעצם אמרה בקול מה שכולם חושבים אבל שום מנהל שיווק לא רוצה להודות: אנשים לא קונים לפטופים בגלל stickers של AI או NPUs. כן, עדיין יש hardware של AI בכל מכונה של דל ואלינוויר, אבל המסר חזר למה שחשוב באמת - ביצועים, קירור, מסכים ותיקיות שמעניינות את המשתמש. ה-AI hype זה עומד להיות מתחת לקפוט שם שהוא שייך, וצרכנים פשוט רוצים לפטופ טוב במקום הרצאה על neural engines.",
     "d": "2026-01-07T15:50:35+00:00",
     "v": 0,
     "l": [
@@ -161378,7 +161369,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6718,
-    "t": "🎧 OpenAI is betting that the future of tech won’t be on a screen, but in your ears.They’re rebuilding their audio AI and working on an “audio first” device that talks and reacts like a real conversat\n\n🎧 OpenAI is betting that the future of tech won’t be on a screen, but in your ears.They’re rebuilding their audio AI and working on an “audio first” device that talks and reacts like a real conversation partner. At the same time, Meta, Google, Tesla and a wave of startups are all pushing toward a world where we don’t tap or swipe. We just talk.With Jony Ive shaping the hardware, the goal is clear: less screen time, more human interaction.The future won’t be seen. It will be heard.",
+    "t": "🎧 OpenAI מהמר שעתיד הטכנולוגיה לא על המסך, אלא באוזניים שלך\n\nOpenAI בונה מחדש את ה-AI השמיעתי שלה ומפתחת устройство \"audio first\" שמדבר ותגיב כמו שיחה אמיתית עם בן שיחה. Meta, Google, Tesla והמון startupים מצטרפים לתחרות ויוצרים עולם שבו אתה פשוט מדבר בלי לגעת או להחליק על המסך. עם Jony Ive שמעצב את החומware, המטרה ברורה: פחות זמן על המסך, יותר אינטראקציה אנושית - והעתיד לא יהיה נראה, הוא יישמע.",
     "d": "2026-01-02T12:43:31+00:00",
     "v": 0,
     "l": [
@@ -161992,7 +161983,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6742,
-    "t": "🚀 If you’re entering an AI career right now, here’s the truth:It’s not about learning “everything.”It’s about learning the right technical foundations — the ones the industry actually uses.These are \n\n🚀 If you’re entering an AI career right now, here’s the truth:It’s not about learning “everything.”It’s about learning the right technical foundations — the ones the industry actually uses.These are the core skills that will matter for the next 5–10 years, no matter how fast AI evolves 👇1️⃣ Learn how modern LLMs actually workYou don’t need to know the math behind transformers,but you must understand: • tokens & embeddings • context windows • attention • prompting vs reasoning • fine-tuning vs ",
+    "t": "🚀 אם אתם נכנסים לקריירה ב-AI עכשיו, הנה האמת: זה לא בשביל ללמוד הכל\n\nאם אתם חושבים שצריך ללמוד את כל ה-AI כדי להיות רלוונטיים - טעויים! המעסיקים בתחום מחפשים מישהו שיודע את התשתיות הטכניות שבאמת משנות - LLMs, tokens, embeddings, context windows ועוד סטיות קטן כאלה שלא משתנות כל שבוע. המאמר מסביר בדיוק אילו skills תצטרכו להתמקד בהם כדי להישאר רלוונטיים בחמש השנים הבאות, בלי להיות עגום מפני טרנדים חדשים שיבואו כל יום שני.",
     "d": "2025-12-12T11:14:42+00:00",
     "v": 0,
     "l": [
@@ -162582,7 +162573,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 6765,
-    "t": "@Prompt:Restore and colorize the uploaded historical black-and-white photograph while keeping the overall scene, pose, and subjects consistent with what is visible. Do not change the composition, but \n\n@Prompt:Restore and colorize the uploaded historical black-and-white photograph while keeping the overall scene, pose, and subjects consistent with what is visible. Do not change the composition, but you may reconstruct missing or unclear areas when the image is too damaged to determine exact detail.Perform a full restoration across the entire image, including:repairing heavy fading, stains, cracks, scratches, and missing sectionsreconstructing faces, clothing, and background features based on t",
+    "t": "שחזור והצבעת תמונות היסטוריות בשחור-לבן עם AI - טכנולוגיה חדשה שמחזירה חיים לתצלומים ישנים\n\nטכנולוגיית AI חדשה מאפשרת שחזור מלא של תמונות היסטוריות פגומות - לא רק הצבעה אלא גם תיקון של שריטות, סדקים וחלקים חסרים. המערכת שומרת על הקומפוזיציה המקורית ותמונת הנושאים בתמונה, אבל יודעת לשחזר בחכמה פנים, ביגוד ורקע שנמחקו בזמן. זה מה שהופך תצלומים מעמעמים משנות ה-50 לשקופיות צבעוניות שניתן להציג כמו בדיוק היום.",
     "d": "2025-12-05T08:57:33+00:00",
     "v": 0,
     "l": [
