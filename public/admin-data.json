@@ -1,9 +1,9 @@
 {
-  "total": 7065,
+  "total": 7080,
   "translated": 7065,
-  "untranslated": 0,
-  "today": 186,
-  "week": 1078,
+  "untranslated": 15,
+  "today": 201,
+  "week": 1093,
   "sources": [
     {
       "name": "Product Hunt",
@@ -31,13 +31,13 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 322,
+      "total": 324,
       "translated": 322,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 314,
+      "total": 316,
       "translated": 314,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -61,7 +61,7 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 243,
+      "total": 245,
       "translated": 243,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Register",
-      "total": 211,
+      "total": 213,
       "translated": 211,
-      "lastDate": "2026-05-05T19:44:41.000Z"
+      "lastDate": "2026-05-05T21:02:01.000Z"
     },
     {
       "name": "The Guardian AI",
@@ -85,13 +85,13 @@
     },
     {
       "name": "The Verge AI",
-      "total": 148,
+      "total": 151,
       "translated": 148,
-      "lastDate": "2026-05-05T19:45:30.000Z"
+      "lastDate": "2026-05-05T21:46:04.000Z"
     },
     {
       "name": "MarkTechPost",
-      "total": 137,
+      "total": 139,
       "translated": 137,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -157,21 +157,21 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 28,
+      "total": 29,
       "translated": 28,
-      "lastDate": "2026-05-05T17:27:22+00:00"
+      "lastDate": "2026-05-05T22:08:00+00:00"
+    },
+    {
+      "name": "AI Post (TG)",
+      "total": 28,
+      "translated": 27,
+      "lastDate": "2026-05-05T21:50:21+00:00"
     },
     {
       "name": "Nature Machine Intelligence",
       "total": 27,
       "translated": 27,
       "lastDate": "2026-05-04T00:00:00.000Z"
-    },
-    {
-      "name": "AI Post (TG)",
-      "total": 27,
-      "translated": 27,
-      "lastDate": "2026-05-05T19:39:40+00:00"
     },
     {
       "name": "Financial Post",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-05T21:13:50.819Z"
+  "generatedAt": "2026-05-05T22:14:04.965Z"
 }
