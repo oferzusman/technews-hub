@@ -653,10 +653,41 @@ let likes    = LS.get('tnhub_likes')    || {};
 let saves    = LS.get('tnhub_saves')    || {};
 let followups= LS.get('tnhub_followups')|| {};
 
-// per-item counter objects (shared across all viewers — stored per-browser)
+// per-item counter objects (user clicks, stored per-browser)
 let likeCounts    = LS.get('tnhub_likeCounts')    || {};
 let saveCounts    = LS.get('tnhub_saveCounts')    || {};
 let followCounts  = LS.get('tnhub_followCounts')  || {};
+
+/* ─── Pre-launch fake engagement (deterministic + daily growth) ─── */
+const LAUNCH_DATE_MS = new Date('2026-05-05T00:00:00Z').getTime();
+const MS_PER_DAY = 86400000;
+function _daysSinceLaunch() {
+  return Math.max(0, (Date.now() - LAUNCH_DATE_MS) / MS_PER_DAY);
+}
+// Deterministic pseudo-random in [0,1) keyed by (id, salt)
+function _seedRandom(id, salt) {
+  let h = (id * 2654435761) ^ (salt * 1779033703);
+  h = ((h ^ (h >>> 13)) * 1274126177) >>> 0;
+  h ^= h >>> 16;
+  return (h >>> 0) / 4294967295;
+}
+// Returns baseline fake count for (id, type). type: 0=like, 1=save, 2=follow
+function fakeCount(id, type) {
+  if (id == null) return 0;
+  const base = _seedRandom(id, type * 7 + 1);
+  const popular = _seedRandom(id, type * 7 + 2) > 0.92;
+  // Most: 0-12, popular ~8%: 30-150
+  const baseCount = popular
+    ? Math.floor(30 + base * 120)
+    : Math.floor(base * 13);
+  // Linear daily growth: +20% of base per day since launch
+  const growth = 1 + 0.20 * _daysSinceLaunch();
+  return Math.round(baseCount * growth);
+}
+// Total displayed count = fake baseline + user's local clicks
+function displayCount(counts, id, type) {
+  return (counts[id] || 0) + fakeCount(id, type);
+}
 
 function persist() {
   LS.set('tnhub_likes',    likes);
@@ -753,7 +784,7 @@ function getFiltered() {
   });
 
   if (sortBy === 'date')  data.sort((a,b) => new Date(b.d) - new Date(a.d));
-  if (sortBy === 'likes') data.sort((a,b) => (likeCounts[b.id]||0) - (likeCounts[a.id]||0));
+  if (sortBy === 'likes') data.sort((a,b) => displayCount(likeCounts, b.id, 0) - displayCount(likeCounts, a.id, 0));
   if (sortBy === 'views') data.sort((a,b) => (b.v||0) - (a.v||0));
 
   return data;
@@ -854,9 +885,9 @@ function renderCard(item) {
     ...(item.tags||[]).filter(t=>t!=='news').slice(0,2).map(t => chipFor(t,'tag')),
   ].join('');
 
-  const lc = likeCounts[item.id]||0;
-  const sc = saveCounts[item.id]||0;
-  const fc = followCounts[item.id]||0;
+  const lc = displayCount(likeCounts, item.id, 0);
+  const sc = displayCount(saveCounts, item.id, 1);
+  const fc = displayCount(followCounts, item.id, 2);
 
   return `<article class="card" onclick="openModal(${item.id})">
     <div class="card-thumb">
@@ -909,16 +940,26 @@ function updateCardBtns(id) {
   const lEl = document.getElementById(`lc-${id}`);
   const sEl = document.getElementById(`sc-${id}`);
   const fEl = document.getElementById(`fc-${id}`);
-  if (lEl) { lEl.textContent = likeCounts[id]||0; lEl.closest('.btn-like').classList.toggle('active', !!likes[id]); }
-  if (sEl) { sEl.textContent = saveCounts[id]||0; sEl.closest('.btn-save').classList.toggle('active', !!saves[id]); }
-  if (fEl) { fEl.textContent = followCounts[id]||0; fEl.closest('.btn-follow').classList.toggle('active', !!followups[id]); }
+  if (lEl) { lEl.textContent = displayCount(likeCounts, id, 0); lEl.closest('.btn-like').classList.toggle('active', !!likes[id]); }
+  if (sEl) { sEl.textContent = displayCount(saveCounts, id, 1); sEl.closest('.btn-save').classList.toggle('active', !!saves[id]); }
+  if (fEl) { fEl.textContent = displayCount(followCounts, id, 2); fEl.closest('.btn-follow').classList.toggle('active', !!followups[id]); }
 }
 
 function updateStatsBar() {
-  document.getElementById('stat-total').textContent  = (window.TELEGRAM_DATA||[]).length;
-  document.getElementById('stat-likes').textContent  = Object.values(likeCounts).reduce((a,b)=>a+b,0);
-  document.getElementById('stat-saves').textContent  = Object.values(saveCounts).reduce((a,b)=>a+b,0);
-  document.getElementById('stat-follows').textContent= Object.values(followCounts).reduce((a,b)=>a+b,0);
+  const data = window.TELEGRAM_DATA || [];
+  document.getElementById('stat-total').textContent = data.length;
+  // Sum baseline fake counts + user's clicks
+  let lTotal = Object.values(likeCounts).reduce((a,b)=>a+b,0);
+  let sTotal = Object.values(saveCounts).reduce((a,b)=>a+b,0);
+  let fTotal = Object.values(followCounts).reduce((a,b)=>a+b,0);
+  for (const item of data) {
+    lTotal += fakeCount(item.id, 0);
+    sTotal += fakeCount(item.id, 1);
+    fTotal += fakeCount(item.id, 2);
+  }
+  document.getElementById('stat-likes').textContent  = lTotal.toLocaleString();
+  document.getElementById('stat-saves').textContent  = sTotal.toLocaleString();
+  document.getElementById('stat-follows').textContent= fTotal.toLocaleString();
 }
 
 /* ─── Modal ────────────────────────────────────────────── */
@@ -965,13 +1006,13 @@ function openModal(id) {
 function updateModalBtns(id) {
   document.getElementById('modal-actions').innerHTML = `
     <button class="action-btn btn-like ${likes[id]?'active':''}" onclick="toggleLike(${id})">
-      ❤️ אהבתי <span class="cnt">${likeCounts[id]||0}</span>
+      ❤️ אהבתי <span class="cnt">${displayCount(likeCounts, id, 0)}</span>
     </button>
     <button class="action-btn btn-save ${saves[id]?'active':''}" onclick="toggleSave(${id})">
-      🔖 שמור <span class="cnt">${saveCounts[id]||0}</span>
+      🔖 שמור <span class="cnt">${displayCount(saveCounts, id, 1)}</span>
     </button>
     <button class="action-btn btn-follow ${followups[id]?'active':''}" onclick="toggleFollow(${id})">
-      🔔 מעקב <span class="cnt">${followCounts[id]||0}</span>
+      🔔 מעקב <span class="cnt">${displayCount(followCounts, id, 2)}</span>
     </button>`;
 }
 
