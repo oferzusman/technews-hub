@@ -629,8 +629,8 @@
   </div>
 </div>
 
-<script src="data.js"></script>
-<script>
+<script src="data.js" defer></script>
+<script defer>
 /* ─── State ────────────────────────────────────────────── */
 const LS = {
   get: (k) => { try { return JSON.parse(localStorage.getItem(k) || 'null'); } catch { return null; } },
@@ -747,22 +747,80 @@ function getFiltered() {
   return data;
 }
 
-/* ─── Render ───────────────────────────────────────────── */
+/* ─── Render with infinite scroll ──────────────────────── */
+const PAGE_SIZE = 50;
+let _renderedCount = 0;
+let _filteredCache = [];
+let _scrollObserver = null;
+
 function renderFeed() {
   const feed = document.getElementById('feed');
-  const data = getFiltered();
-
-  document.getElementById('result-count').innerHTML =
-    `מוצגים <strong>${data.length}</strong> מתוך ${(window.TELEGRAM_DATA||[]).length} פריטים`;
+  _filteredCache = getFiltered();
+  _renderedCount = 0;
 
   updateStatsBar();
+  updateResultCount();
 
-  if (!data.length) {
+  // Disconnect old observer
+  if (_scrollObserver) { _scrollObserver.disconnect(); _scrollObserver = null; }
+
+  if (!_filteredCache.length) {
     feed.innerHTML = `<div class="empty-state"><h2>אין תוצאות</h2><p>נסה לשנות את הפילטרים</p></div>`;
     return;
   }
 
-  feed.innerHTML = data.map(renderCard).join('');
+  feed.innerHTML = '';
+  renderNextPage();
+  setupScrollObserver();
+}
+
+function renderNextPage() {
+  const feed = document.getElementById('feed');
+  const slice = _filteredCache.slice(_renderedCount, _renderedCount + PAGE_SIZE);
+  if (!slice.length) return;
+
+  // Append cards without re-rendering existing ones
+  const fragment = document.createElement('div');
+  fragment.innerHTML = slice.map(renderCard).join('');
+  while (fragment.firstChild) feed.appendChild(fragment.firstChild);
+
+  _renderedCount += slice.length;
+  updateResultCount();
+}
+
+function updateResultCount() {
+  const el = document.getElementById('result-count');
+  if (!el) return;
+  const total = (window.TELEGRAM_DATA || []).length;
+  el.innerHTML = `מוצגים <strong>${_renderedCount}</strong> מתוך ${_filteredCache.length} (סה"כ ${total} במאגר)`;
+}
+
+function setupScrollObserver() {
+  // Add sentinel element at end of feed
+  const feed = document.getElementById('feed');
+  let sentinel = document.getElementById('scroll-sentinel');
+  if (sentinel) sentinel.remove();
+  sentinel = document.createElement('div');
+  sentinel.id = 'scroll-sentinel';
+  sentinel.style.cssText = 'grid-column: 1/-1; height: 60px; display: flex; align-items: center; justify-content: center; color: var(--text-muted); font-size: 0.9rem;';
+  feed.appendChild(sentinel);
+
+  _scrollObserver = new IntersectionObserver((entries) => {
+    if (entries[0].isIntersecting && _renderedCount < _filteredCache.length) {
+      sentinel.textContent = '⏳ טוען עוד...';
+      // Move sentinel back to end after loading
+      requestAnimationFrame(() => {
+        sentinel.remove();
+        renderNextPage();
+        if (_renderedCount < _filteredCache.length) {
+          feed.appendChild(sentinel);
+          sentinel.textContent = '';
+        }
+      });
+    }
+  }, { rootMargin: '400px' });
+
+  _scrollObserver.observe(sentinel);
 }
 
 function renderCard(item) {
