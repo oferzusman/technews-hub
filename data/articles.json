@@ -148261,6 +148261,78 @@
       "priority": "hot",
       "fetchedAt": "2026-05-06T19:09:22.956Z",
       "created_at": "2026-05-06T19:09:22.956Z"
+    },
+    {
+      "id": 7207,
+      "source": "The Verge AI",
+      "title_en": "How David Sacks crashed and burned in the White House",
+      "description_en": "AI and Crypto Czar David O. Sacks speaks during a meeting of the White House Task Force on Artificial Intelligence Education at the White House. | Matt McClain/The Washington Post via Getty Images\t\n\nHello and welcome to Regulator, a newsletter exclusively for Verge subscribers about tech, politics, and Washington intrigue. (It's basically House of Cards, but for nerds.) Not a subscriber yet? You really should become one, and to save you a Google search, here is the direct link to do so! And do y",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review",
+      "image_url": null,
+      "pub_date": "2026-05-06T20:18:00.000Z",
+      "author": "Tina Nguyen",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-06T20:27:11.096Z",
+      "created_at": "2026-05-06T20:27:11.096Z"
+    },
+    {
+      "id": 7208,
+      "source": "The Decoder",
+      "title_en": "OpenAI built a networking protocol with AMD, Broadcom, Intel, Microsoft, and NVIDIA to fix AI supercomputer bottlenecks",
+      "description_en": "OpenAI has teamed up with AMD, Broadcom, Intel, Microsoft, and NVIDIA to develop MRC, an open source network protocol that sends data across hundreds of paths simultaneously between GPUs. Instead of three or four switch layers, MRC needs only two to connect over 100,000 GPUs, cutting both power and costs. The protocol is already running on OpenAI's Stargate supercomputer.\nThe article OpenAI built a networking protocol with AMD, Broadcom, Intel, Microsoft, and NVIDIA to fix AI supercomputer bottl",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-built-a-networking-protocol-with-amd-broadcom-intel-microsoft-and-nvidia-to-fix-ai-supercomputer-bottlenecks/",
+      "image_url": null,
+      "pub_date": "Wed, 06 May 2026 19:13:21 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-06T20:27:12.258Z",
+      "created_at": "2026-05-06T20:27:12.258Z"
+    },
+    {
+      "id": 7209,
+      "source": "New Atlas",
+      "title_en": "Want to make earthquake-resistant buildings? Try butterfly wings",
+      "description_en": "When you hear about designers biomimicking butterflies, your first thought is probably about creating remote-controlled flying toys or small, artificial flying machines that could be useful in pollination, especially in regions experiencing bee colony collapse. But butterfly mimicry goes far beyond those uses to include scattering light to replace toxic paints or as an anti-fraud mechanism against counterfeiters, advancing optical computing, and even creating superior eye implants.\nContinue Read",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/engineering/earthquake-resistant-buildings-butterfly-wings/",
+      "image_url": null,
+      "pub_date": "Wed, 06 May 2026 19:15:34 GMT",
+      "author": "Malcolm Azania",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-06T20:27:12.967Z",
+      "created_at": "2026-05-06T20:27:12.967Z"
+    },
+    {
+      "id": 7210,
+      "source": "CNBC Tech",
+      "title_en": "Snap issues cautious guidance as Perplexity deal ends, Middle East 'geopolitical situation' causes uncertainty",
+      "description_en": "Snap reported first-quarter earnings and provided cautious sales guidance while revealing it no longer has a deal with the generative AI startup Perplexity.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/06/snap-q1-earnings-report-2026.html",
+      "image_url": null,
+      "pub_date": "Wed, 06 May 2026 20:13:17 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-06T20:27:18.124Z",
+      "created_at": "2026-05-06T20:27:18.124Z"
     }
   ]
 }
