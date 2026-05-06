@@ -1,9 +1,9 @@
 {
-  "total": 7090,
-  "translated": 7090,
+  "total": 7099,
+  "translated": 7099,
   "untranslated": 0,
-  "today": 5,
-  "week": 926,
+  "today": 14,
+  "week": 935,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 486,
-      "translated": 486,
+      "total": 488,
+      "translated": 488,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -31,8 +31,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 326,
-      "translated": 326,
+      "total": 328,
+      "translated": 328,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -48,16 +48,16 @@
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
+      "name": "New Atlas",
+      "total": 287,
+      "translated": 287,
+      "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
+    },
+    {
       "name": "Futurism",
       "total": 287,
       "translated": 287,
       "lastDate": "Wed, 22 Apr 2026 16:27:39 -0400"
-    },
-    {
-      "name": "New Atlas",
-      "total": 286,
-      "translated": 286,
-      "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "TechCrunch AI",
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Register",
-      "total": 213,
-      "translated": 213,
-      "lastDate": "2026-05-05T21:02:01.000Z"
+      "total": 214,
+      "translated": 214,
+      "lastDate": "2026-05-06T02:32:56.000Z"
     },
     {
       "name": "The Guardian AI",
@@ -91,8 +91,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 139,
-      "translated": 139,
+      "total": 140,
+      "translated": 140,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -150,6 +150,12 @@
       "lastDate": "2026-04-09T06:28:29Z"
     },
     {
+      "name": "AI Post (TG)",
+      "total": 30,
+      "translated": 30,
+      "lastDate": "2026-05-06T03:44:01+00:00"
+    },
+    {
       "name": "pymnts.com",
       "total": 29,
       "translated": 29,
@@ -160,12 +166,6 @@
       "total": 29,
       "translated": 29,
       "lastDate": "2026-05-05T22:08:00+00:00"
-    },
-    {
-      "name": "AI Post (TG)",
-      "total": 28,
-      "translated": 28,
-      "lastDate": "2026-05-05T21:50:21+00:00"
     },
     {
       "name": "Nature Machine Intelligence",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-06T04:04:26.280Z"
+  "generatedAt": "2026-05-06T06:44:37.322Z"
 }
