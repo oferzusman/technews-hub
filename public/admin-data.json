@@ -1,7 +1,7 @@
 {
   "total": 7232,
-  "translated": 7216,
-  "untranslated": 16,
+  "translated": 7231,
+  "untranslated": 1,
   "today": 147,
   "week": 1068,
   "sources": [
@@ -20,7 +20,7 @@
     {
       "name": "Interesting Engineering",
       "total": 497,
-      "translated": 494,
+      "translated": 497,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -32,19 +32,19 @@
     {
       "name": "CNBC Tech",
       "total": 341,
-      "translated": 338,
+      "translated": 341,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "Ars Technica",
       "total": 329,
-      "translated": 325,
+      "translated": 329,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
       "name": "OpenAI Blog",
       "total": 302,
-      "translated": 300,
+      "translated": 302,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -62,7 +62,7 @@
     {
       "name": "TechCrunch AI",
       "total": 263,
-      "translated": 261,
+      "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -92,7 +92,7 @@
     {
       "name": "MarkTechPost",
       "total": 145,
-      "translated": 144,
+      "translated": 145,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-06T23:34:01.269Z"
+  "generatedAt": "2026-05-06T23:46:49.793Z"
 }
