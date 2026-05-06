@@ -1,0 +1,43 @@
+name: "6. Kicker (dumb fallback trigger)"
+# Defense in depth: even if Watchdog has a bug, this dumb kicker just triggers
+# all workflows every 30 min to keep the pipeline moving.
+# Each workflow has its own concurrency group + smart "no changes" exits
+# so back-to-back triggers are safe.
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 minutes
+  workflow_dispatch:
+permissions:
+  actions: write
+  contents: read
+concurrency:
+  group: kicker
+  cancel-in-progress: true
+jobs:
+  kick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Trigger all 3 workflows in sequence
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set +e
+          trigger() {
+            local file=$1
+            for i in 1 2 3; do
+              if gh workflow run "$file" --repo "$GITHUB_REPOSITORY"; then
+                echo "✅ Kicked $file"
+                return 0
+              fi
+              sleep 5
+            done
+            echo "❌ Could not kick $file"
+          }
+
+          trigger "1-fetch-rss.yml"
+          sleep 60
+          trigger "3-translate.yml"
+          sleep 60
+          trigger "4-build-deploy.yml"
+          echo "🎯 All workflows kicked"

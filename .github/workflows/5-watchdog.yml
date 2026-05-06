@@ -1,7 +1,10 @@
 name: "5. Watchdog (auto-recovery)"
+# NOTE: GitHub cron may silently skip scheduled runs during quiet repo periods.
+# This watchdog uses git COMMIT timestamps (not file mtimes - actions/checkout
+# resets mtimes!) to detect real staleness and re-trigger workflows.
 on:
   schedule:
-    - cron: "*/20 * * * *"   # every 20 minutes
+    - cron: "*/15 * * * *"   # every 15 minutes
   workflow_dispatch:
 permissions:
   actions: write
@@ -15,69 +18,95 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
-      - name: Check freshness & trigger if stale
-        env:
-          GH_TOKEN: ${{ github.token }}
+        with:
+          fetch-depth: 100   # need git log history for commit timestamps
+
+      - name: Diagnose freshness via git commit timestamps
+        id: diag
         run: |
           set -e
+          NOW=$(date +%s)
 
-          # ---------- 1. Translation freshness ----------
+          # Last time articles.json was committed (from RSS fetch)
+          LAST_DATA_COMMIT=$(git log -1 --format="%ct" -- data/articles.json || echo 0)
+          # Last time data.js was committed (from build)
+          LAST_BUILD_COMMIT=$(git log -1 --format="%ct" -- public/data.js || echo 0)
+          # Last time we did a translate (commit message starts with "data: translate")
+          LAST_TRANSLATE_COMMIT=$(git log -1 --format="%ct" --grep="^data: translate" || echo 0)
+
+          ARTICLES_AGE_MIN=$(( (NOW - LAST_DATA_COMMIT) / 60 ))
+          BUILD_AGE_MIN=$(( (NOW - LAST_BUILD_COMMIT) / 60 ))
+          TRANSLATE_AGE_MIN=$(( (NOW - LAST_TRANSLATE_COMMIT) / 60 ))
+
+          # Count untranslated
           UNTRANSLATED=$(node -e "
             const d = JSON.parse(require('fs').readFileSync('data/articles.json','utf8'));
             const a = Array.isArray(d) ? d : (d.articles || []);
             console.log(a.filter(x => !x.translated).length);
           ")
-          echo "📊 Untranslated articles: $UNTRANSLATED"
 
-          # ---------- 2. data.js freshness ----------
-          DATA_AGE_MIN=$(node -e "
-            const fs = require('fs');
-            const stat = fs.statSync('public/data.js');
-            const ageMs = Date.now() - stat.mtimeMs;
-            console.log(Math.round(ageMs / 60000));
-          ")
-          echo "📊 data.js age: $DATA_AGE_MIN minutes"
+          echo "📊 articles.json last commit: ${ARTICLES_AGE_MIN} min ago"
+          echo "📊 data.js last commit: ${BUILD_AGE_MIN} min ago"
+          echo "📊 last translate commit: ${TRANSLATE_AGE_MIN} min ago"
+          echo "📊 untranslated articles: ${UNTRANSLATED}"
 
-          # ---------- 3. articles.json freshness ----------
-          ARTICLES_AGE_MIN=$(node -e "
-            const fs = require('fs');
-            const stat = fs.statSync('data/articles.json');
-            const ageMs = Date.now() - stat.mtimeMs;
-            console.log(Math.round(ageMs / 60000));
-          ")
-          echo "📊 articles.json age: $ARTICLES_AGE_MIN minutes"
+          # Export for next step
+          echo "ARTICLES_AGE_MIN=$ARTICLES_AGE_MIN" >> $GITHUB_ENV
+          echo "BUILD_AGE_MIN=$BUILD_AGE_MIN" >> $GITHUB_ENV
+          echo "TRANSLATE_AGE_MIN=$TRANSLATE_AGE_MIN" >> $GITHUB_ENV
+          echo "UNTRANSLATED=$UNTRANSLATED" >> $GITHUB_ENV
 
-          # ---------- 4. Latest commit author check ----------
-          LAST_DATA_COMMIT_MIN=$(git log -1 --format="%cr" -- data/articles.json | grep -oP '\d+' | head -1 || echo 999)
-          echo "📊 Last data commit: $LAST_DATA_COMMIT_MIN units ago"
+      - name: Trigger stale workflows
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set +e
+
+          trigger() {
+            local file=$1
+            local reason=$2
+            for i in 1 2 3; do
+              if gh workflow run "$file" 2>&1 | tee /tmp/gh-out; then
+                echo "✅ Triggered $file (attempt $i) — reason: $reason"
+                return 0
+              fi
+              echo "⚠️  Attempt $i for $file failed, retrying in 5s..."
+              sleep 5
+            done
+            echo "❌ Failed to trigger $file after 3 attempts"
+            return 1
+          }
 
           TRIGGERED=""
 
-          # If fetch is stale (>20 min since last data commit), run fetch
-          if [ "$ARTICLES_AGE_MIN" -gt "20" ]; then
-            echo "🔄 Triggering Fetch RSS (articles.json $ARTICLES_AGE_MIN min old)"
-            gh workflow run 1-fetch-rss.yml || true
-            TRIGGERED="${TRIGGERED}fetch "
-            sleep 30
-          fi
+          # Emergency mode: everything stale > 60 min → trigger all sequentially
+          if [ "$ARTICLES_AGE_MIN" -gt "60" ] && [ "$BUILD_AGE_MIN" -gt "60" ]; then
+            echo "🚨 EMERGENCY: all data > 60 min stale, full recovery"
+            trigger "1-fetch-rss.yml" "emergency-fetch"
+            sleep 90
+            trigger "3-translate.yml" "emergency-translate"
+            sleep 90
+            trigger "4-build-deploy.yml" "emergency-build"
+            TRIGGERED="emergency"
+          else
+            # Normal individual checks
+            if [ "$ARTICLES_AGE_MIN" -gt "20" ]; then
+              trigger "1-fetch-rss.yml" "articles ${ARTICLES_AGE_MIN}min stale" && TRIGGERED="$TRIGGERED fetch"
+              sleep 30
+            fi
 
-          # If many untranslated, run translate
-          if [ "$UNTRANSLATED" -gt "10" ]; then
-            echo "🔄 Triggering Translate ($UNTRANSLATED untranslated)"
-            gh workflow run 3-translate.yml || true
-            TRIGGERED="${TRIGGERED}translate "
-            sleep 30
-          fi
+            if [ "$UNTRANSLATED" -gt "5" ] || [ "$TRANSLATE_AGE_MIN" -gt "30" ]; then
+              trigger "3-translate.yml" "untranslated=$UNTRANSLATED, last translate ${TRANSLATE_AGE_MIN}min" && TRIGGERED="$TRIGGERED translate"
+              sleep 30
+            fi
 
-          # If data.js is stale, run build
-          if [ "$DATA_AGE_MIN" -gt "20" ]; then
-            echo "🔄 Triggering Build & Deploy (data.js $DATA_AGE_MIN min old)"
-            gh workflow run 4-build-deploy.yml || true
-            TRIGGERED="${TRIGGERED}build "
+            if [ "$BUILD_AGE_MIN" -gt "25" ]; then
+              trigger "4-build-deploy.yml" "data.js ${BUILD_AGE_MIN}min stale" && TRIGGERED="$TRIGGERED build"
+            fi
           fi
 
           if [ -z "$TRIGGERED" ]; then
             echo "✅ All systems fresh — no action needed"
           else
-            echo "🚨 Recovered: triggered → $TRIGGERED"
+            echo "🔄 Recovery triggered:$TRIGGERED"
           fi
