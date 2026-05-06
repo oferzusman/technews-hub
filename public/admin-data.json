@@ -1,9 +1,9 @@
 {
-  "total": 7159,
-  "translated": 7159,
+  "total": 7165,
+  "translated": 7165,
   "untranslated": 0,
-  "today": 74,
-  "week": 995,
+  "today": 80,
+  "week": 1001,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 498,
-      "translated": 498,
+      "total": 499,
+      "translated": 499,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 492,
-      "translated": 492,
+      "total": 493,
+      "translated": 493,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -31,14 +31,14 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 332,
-      "translated": 332,
+      "total": 333,
+      "translated": 333,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 319,
-      "translated": 319,
+      "total": 320,
+      "translated": 320,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 251,
-      "translated": 251,
+      "total": 252,
+      "translated": 252,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -157,9 +157,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 32,
-      "translated": 32,
-      "lastDate": "2026-05-06T12:04:26+00:00"
+      "total": 33,
+      "translated": 33,
+      "lastDate": "2026-05-06T14:22:04+00:00"
     },
     {
       "name": "pymnts.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-06T14:48:49.822Z"
+  "generatedAt": "2026-05-06T15:34:58.064Z"
 }
