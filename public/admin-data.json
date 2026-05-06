@@ -1,7 +1,7 @@
 {
   "total": 7210,
-  "translated": 7206,
-  "untranslated": 4,
+  "translated": 7210,
+  "untranslated": 0,
   "today": 125,
   "week": 1046,
   "sources": [
@@ -32,7 +32,7 @@
     {
       "name": "CNBC Tech",
       "total": 338,
-      "translated": 337,
+      "translated": 338,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -50,7 +50,7 @@
     {
       "name": "New Atlas",
       "total": 289,
-      "translated": 288,
+      "translated": 289,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -68,7 +68,7 @@
     {
       "name": "The Decoder",
       "total": 240,
-      "translated": 239,
+      "translated": 240,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -86,7 +86,7 @@
     {
       "name": "The Verge AI",
       "total": 156,
-      "translated": 155,
+      "translated": 156,
       "lastDate": "2026-05-06T20:18:00.000Z"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-06T20:45:44.291Z"
+  "generatedAt": "2026-05-06T21:19:16.805Z"
 }
