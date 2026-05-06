@@ -146455,8 +146455,8 @@
       "source": "OpenAI Blog",
       "title_en": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
       "description_en": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "פתיחת רשתות AI בהיקף ענק עם MRC (Multipath Reliable Connection)",
+      "description_he": "OpenAI חשפה בדיוק פרוטוקול רשת חדש בשם MRC שמיועד לתת על הראש לבעיות ההימור של אימון AI בקנה מידה ענק. הטכנולוגיה הזאת, שהשיקה דרך OCP, יכולה משמעותית להגביר את היציבות והביצועים של מרכזי נתונים שמטפלים בחישובי AI כבדים. במילים אחרות, OpenAI בעצם מגיעה לקריאה אחרונה בקרב להנדסת הרשתות של ההעידן החדש.",
       "link": "https://openai.com/index/mrc-supercomputer-networking",
       "image_url": null,
       "pub_date": "Tue, 05 May 2026 10:00:00 GMT",
@@ -146464,7 +146464,7 @@
       "categories": [
         "Engineering"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-05-06T14:17:45.889Z",
       "created_at": "2026-05-06T14:17:45.889Z"
@@ -146850,14 +146850,14 @@
       "source": "Product Hunt",
       "title_en": "Magic",
       "description_en": "Discussion\n            |\n            Link",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מג'יק",
+      "description_he": "עוד פרודקט חדש שהגיע ל-Product Hunt והוא עוסק בתחום של AI. למרות שהתיאור קצר, נראה שזה משהו שראוי לעקוב אחריו בדיונים הקהילתיים. אם אתם רוצים לדעת יותר, מומלץ להיכנס ישירות לדף הפרודקט על ה-Hunt.",
       "link": "https://www.producthunt.com/products/magic-13",
       "image_url": null,
       "pub_date": "2026-03-23T14:54:48.000Z",
       "author": "Gabe Perez",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-05-06T14:17:51.355Z",
       "created_at": "2026-05-06T14:17:51.355Z"
