@@ -1,9 +1,9 @@
 {
-  "total": 7099,
+  "total": 7107,
   "translated": 7099,
-  "untranslated": 0,
-  "today": 14,
-  "week": 935,
+  "untranslated": 8,
+  "today": 22,
+  "week": 943,
   "sources": [
     {
       "name": "Product Hunt",
@@ -61,7 +61,7 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 247,
+      "total": 248,
       "translated": 247,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -73,13 +73,13 @@
     },
     {
       "name": "The Register",
-      "total": 214,
+      "total": 215,
       "translated": 214,
-      "lastDate": "2026-05-06T02:32:56.000Z"
+      "lastDate": "2026-05-06T05:08:49.000Z"
     },
     {
       "name": "The Guardian AI",
-      "total": 177,
+      "total": 179,
       "translated": 177,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -150,6 +150,12 @@
       "lastDate": "2026-04-09T06:28:29Z"
     },
     {
+      "name": "XOR Journal (TG)",
+      "total": 30,
+      "translated": 29,
+      "lastDate": "2026-05-06T05:30:29+00:00"
+    },
+    {
       "name": "AI Post (TG)",
       "total": 30,
       "translated": 30,
@@ -160,12 +166,6 @@
       "total": 29,
       "translated": 29,
       "lastDate": "2026-04-09T00:29:48Z"
-    },
-    {
-      "name": "XOR Journal (TG)",
-      "total": 29,
-      "translated": 29,
-      "lastDate": "2026-05-05T22:08:00+00:00"
     },
     {
       "name": "Nature Machine Intelligence",
@@ -180,16 +180,22 @@
       "lastDate": "2026-04-09T04:35:19Z"
     },
     {
+      "name": "Habr (TG)",
+      "total": 26,
+      "translated": 25,
+      "lastDate": "2026-05-06T05:01:37+00:00"
+    },
+    {
       "name": "Ibtimes.com.au",
       "total": 25,
       "translated": 25,
       "lastDate": "2026-04-09T02:36:13Z"
     },
     {
-      "name": "Habr (TG)",
+      "name": "Backdoor (TG)",
       "total": 25,
-      "translated": 25,
-      "lastDate": "2026-05-05T08:15:54+00:00"
+      "translated": 24,
+      "lastDate": "2026-05-06T06:03:31+00:00"
     },
     {
       "name": "SiliconANGLE News",
@@ -198,22 +204,16 @@
       "lastDate": "2026-04-09T02:20:06Z"
     },
     {
-      "name": "Backdoor (TG)",
-      "total": 24,
-      "translated": 24,
-      "lastDate": "2026-05-05T17:51:50+00:00"
+      "name": "Hi, AI Russian (TG)",
+      "total": 23,
+      "translated": 22,
+      "lastDate": "2026-05-06T06:07:41+00:00"
     },
     {
       "name": "Hi, AI English (TG)",
       "total": 22,
       "translated": 22,
       "lastDate": "2026-05-05T13:06:08+00:00"
-    },
-    {
-      "name": "Hi, AI Russian (TG)",
-      "total": 22,
-      "translated": 22,
-      "lastDate": "2026-05-05T12:06:10+00:00"
     },
     {
       "name": "Towards Data Science",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-06T06:44:37.322Z"
+  "generatedAt": "2026-05-06T09:11:35.767Z"
 }
