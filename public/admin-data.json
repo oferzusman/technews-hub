@@ -1,9 +1,9 @@
 {
-  "total": 7188,
+  "total": 7206,
   "translated": 7188,
-  "untranslated": 0,
-  "today": 103,
-  "week": 1024,
+  "untranslated": 18,
+  "today": 121,
+  "week": 1042,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,7 +13,7 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 500,
+      "total": 503,
       "translated": 500,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
@@ -31,19 +31,19 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 335,
+      "total": 337,
       "translated": 335,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 321,
+      "total": 325,
       "translated": 321,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
       "name": "OpenAI Blog",
-      "total": 299,
+      "total": 300,
       "translated": 299,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
@@ -61,13 +61,13 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 257,
+      "total": 260,
       "translated": 257,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "The Decoder",
-      "total": 238,
+      "total": 239,
       "translated": 238,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -79,15 +79,15 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 182,
+      "total": 183,
       "translated": 182,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
       "name": "The Verge AI",
-      "total": 154,
+      "total": 155,
       "translated": 154,
-      "lastDate": "2026-05-06T13:00:30.000Z"
+      "lastDate": "2026-05-06T17:55:53.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -97,7 +97,7 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 108,
+      "total": 109,
       "translated": 108,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
@@ -144,16 +144,16 @@
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
+      "name": "AI Post (TG)",
+      "total": 36,
+      "translated": 35,
+      "lastDate": "2026-05-06T19:02:23+00:00"
+    },
+    {
       "name": "Slashdot.org",
       "total": 35,
       "translated": 35,
       "lastDate": "2026-04-09T06:28:29Z"
-    },
-    {
-      "name": "AI Post (TG)",
-      "total": 35,
-      "translated": 35,
-      "lastDate": "2026-05-06T16:11:01+00:00"
     },
     {
       "name": "XOR Journal (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-06T19:12:13.722Z"
+  "generatedAt": "2026-05-06T20:00:38.463Z"
 }
