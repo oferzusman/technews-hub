@@ -234,8 +234,19 @@ async function main() {
 
   const BATCH_SIZE = 5;
   const GLOBAL_TIMEOUT_MS = 3.5 * 60 * 1000; // 3.5 min max
+  const HARD_PER_SOURCE_MS = 15000; // hard kill any source after 15s (unstuck guarantee)
   const startTime = Date.now();
   let total = 0;
+
+  // Wraps fetchSource with a HARD timeout - prevents one stuck feed from hanging the whole run
+  function fetchWithHardTimeout(source) {
+    return Promise.race([
+      fetchSource(source, db, cutoffDate, now),
+      new Promise((_, rej) =>
+        setTimeout(() => rej(new Error(`hard timeout ${HARD_PER_SOURCE_MS}ms`)), HARD_PER_SOURCE_MS)
+      ),
+    ]);
+  }
 
   for (let i = 0; i < enabled.length; i += BATCH_SIZE) {
     if (Date.now() - startTime > GLOBAL_TIMEOUT_MS) {
@@ -244,9 +255,7 @@ async function main() {
     }
     const batch = enabled.slice(i, i + BATCH_SIZE);
     console.log(`\nBatch ${Math.floor(i / BATCH_SIZE) + 1}: ${batch.map(s => s.name).join(', ')}`);
-    const results = await Promise.allSettled(
-      batch.map(source => fetchSource(source, db, cutoffDate, now))
-    );
+    const results = await Promise.allSettled(batch.map(fetchWithHardTimeout));
     for (let j = 0; j < results.length; j++) {
       if (results[j].status === 'fulfilled') {
         total += results[j].value;
