@@ -1,13 +1,13 @@
 {
-  "total": 7238,
+  "total": 7255,
   "translated": 7238,
-  "untranslated": 0,
-  "today": 6,
-  "week": 896,
+  "untranslated": 17,
+  "today": 23,
+  "week": 913,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 875,
+      "total": 883,
       "translated": 875,
       "lastDate": "2026-05-06T03:17:32.000Z"
     },
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 500,
+      "total": 501,
       "translated": 500,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -49,7 +49,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 291,
+      "total": 292,
       "translated": 291,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -61,7 +61,7 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 263,
+      "total": 264,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -79,7 +79,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 183,
+      "total": 184,
       "translated": 183,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -91,7 +91,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 145,
+      "total": 146,
       "translated": 145,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -139,9 +139,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 39,
+      "total": 40,
       "translated": 39,
-      "lastDate": "2026-05-07T03:24:01+00:00"
+      "lastDate": "2026-05-07T06:23:39+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -157,9 +157,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 34,
+      "total": 35,
       "translated": 34,
-      "lastDate": "2026-05-06T21:25:08+00:00"
+      "lastDate": "2026-05-07T07:16:04+00:00"
     },
     {
       "name": "pymnts.com",
@@ -180,28 +180,28 @@
       "lastDate": "2026-05-04T00:00:00.000Z"
     },
     {
+      "name": "Backdoor (TG)",
+      "total": 27,
+      "translated": 26,
+      "lastDate": "2026-05-07T06:23:01+00:00"
+    },
+    {
       "name": "Financial Post",
       "total": 26,
       "translated": 26,
       "lastDate": "2026-04-09T04:35:19Z"
     },
     {
-      "name": "Backdoor (TG)",
+      "name": "Hi, AI Russian (TG)",
       "total": 26,
-      "translated": 26,
-      "lastDate": "2026-05-06T16:45:20+00:00"
+      "translated": 25,
+      "lastDate": "2026-05-07T06:07:51+00:00"
     },
     {
       "name": "Ibtimes.com.au",
       "total": 25,
       "translated": 25,
       "lastDate": "2026-04-09T02:36:13Z"
-    },
-    {
-      "name": "Hi, AI Russian (TG)",
-      "total": 25,
-      "translated": 25,
-      "lastDate": "2026-05-06T14:03:01+00:00"
     },
     {
       "name": "SiliconANGLE News",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-07T07:45:20.039Z"
+  "generatedAt": "2026-05-07T08:29:21.854Z"
 }
