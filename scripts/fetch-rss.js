@@ -273,7 +273,13 @@ async function main() {
   console.log(`Untranslated — hot: ${hot}, batch: ${batch}`);
 }
 
-main().catch((err) => {
-  console.error(err);
-  process.exit(1);
-});
+main()
+  .then(() => {
+    // Force-exit even if hanging fetch operations (sockets) remain pending.
+    // Promise.race timeouts don't kill underlying fetches, so pending IO can hold Node open indefinitely.
+    process.exit(0);
+  })
+  .catch((err) => {
+    console.error(err);
+    process.exit(1);
+  });
