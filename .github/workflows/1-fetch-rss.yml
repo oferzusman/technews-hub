@@ -56,7 +56,10 @@ jobs:
 
           # Retry push up to 3 times in case of concurrent push
           for i in 1 2 3; do
-            git push origin master && exit 0
+            if git push origin master; then
+              echo "PUSHED=true" >> $GITHUB_ENV
+              break
+            fi
             echo "Push attempt $i failed, syncing and retrying..."
             cp data/articles.json /tmp/new-articles.json
             git fetch origin master
@@ -67,5 +70,12 @@ jobs:
             git commit --amend --no-edit
             sleep 3
           done
-          echo "All push attempts failed"
-          exit 1
+
+      # CHAIN: trigger translate immediately so new articles get translated ASAP
+      - name: Chain → Translate
+        if: env.PUSHED == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          echo "🔗 Chaining to translate workflow"
+          gh workflow run 3-translate.yml --repo "$GITHUB_REPOSITORY" || true
