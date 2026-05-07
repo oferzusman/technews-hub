@@ -1,9 +1,9 @@
 {
-  "total": 7382,
-  "translated": 7382,
+  "total": 7387,
+  "translated": 7387,
   "untranslated": 0,
-  "today": 150,
-  "week": 1040,
+  "today": 155,
+  "week": 1045,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 515,
-      "translated": 515,
+      "total": 516,
+      "translated": 516,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 295,
-      "translated": 295,
+      "total": 296,
+      "translated": 296,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 272,
-      "translated": 272,
+      "total": 273,
+      "translated": 273,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -73,8 +73,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 247,
-      "translated": 247,
+      "total": 248,
+      "translated": 248,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -198,16 +198,16 @@
       "lastDate": "2026-04-09T04:35:19Z"
     },
     {
+      "name": "Hi, AI English (TG)",
+      "total": 26,
+      "translated": 26,
+      "lastDate": "2026-05-07T18:34:38+00:00"
+    },
+    {
       "name": "Ibtimes.com.au",
       "total": 25,
       "translated": 25,
       "lastDate": "2026-04-09T02:36:13Z"
-    },
-    {
-      "name": "Hi, AI English (TG)",
-      "total": 25,
-      "translated": 25,
-      "lastDate": "2026-05-07T08:05:43+00:00"
     },
     {
       "name": "SiliconANGLE News",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-07T18:58:05.824Z"
+  "generatedAt": "2026-05-07T19:15:49.330Z"
 }
