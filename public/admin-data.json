@@ -1,19 +1,19 @@
 {
-  "total": 7273,
+  "total": 7277,
   "translated": 7255,
-  "untranslated": 18,
-  "today": 41,
-  "week": 931,
+  "untranslated": 22,
+  "today": 45,
+  "week": 935,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 889,
+      "total": 890,
       "translated": 883,
       "lastDate": "2026-05-07T06:50:49.000Z"
     },
     {
       "name": "Tom's Hardware",
-      "total": 504,
+      "total": 506,
       "translated": 503,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
@@ -151,9 +151,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 36,
+      "total": 37,
       "translated": 35,
-      "lastDate": "2026-05-07T09:40:12+00:00"
+      "lastDate": "2026-05-07T10:18:49+00:00"
     },
     {
       "name": "Slashdot.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-07T10:26:30.861Z"
+  "generatedAt": "2026-05-07T10:41:07.829Z"
 }
