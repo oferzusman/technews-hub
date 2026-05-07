@@ -151684,6 +151684,227 @@
       "priority": "hot",
       "fetchedAt": "2026-05-07T17:16:33.598Z",
       "created_at": "2026-05-07T17:16:33.598Z"
+    },
+    {
+      "id": 7376,
+      "source": "The Verge AI",
+      "title_en": "ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns",
+      "description_en": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns. Friends, family members, or caregivers designated as a \"Trusted Contact\" will be notified if OpenAI detects that a person may have discussed topics like self-harm or suicide with the chatbot.\n\"Trusted Contact is designed around a simple, expert-validated premise: when someone may be in crisis, connecting with someone they know and trust can make",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
+      "image_url": null,
+      "pub_date": "2026-05-07T18:00:00.000Z",
+      "author": "Jess Weatherbed",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-07T18:08:32.322Z",
+      "created_at": "2026-05-07T18:08:32.322Z"
+    },
+    {
+      "id": 7377,
+      "source": "The Decoder",
+      "title_en": "Europe's answer to AI regulation complexity is to just delay most of it",
+      "description_en": "The EU has agreed on simplified AI rules. The \"Digital Omnibus on AI\" pushes back deadlines for high-risk AI to late 2027 or 2028 and eases requirements for small and medium-sized businesses. \"Nudification\" apps are now explicitly banned. The labeling requirement for deepfakes and AI-generated text still takes effect in August 2026.\nThe article Europe's answer to AI regulation complexity is to just delay most of it appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/europes-answer-to-ai-regulation-complexity-is-to-just-delay-most-of-it/",
+      "image_url": null,
+      "pub_date": "Thu, 07 May 2026 17:36:39 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "AI and policy",
+        "EU",
+        "EU AI Act"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-07T18:08:33.694Z",
+      "created_at": "2026-05-07T18:08:33.694Z"
+    },
+    {
+      "id": 7378,
+      "source": "OpenAI Blog",
+      "title_en": "Introducing Trusted Contact in ChatGPT",
+      "description_en": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+      "image_url": null,
+      "pub_date": "Thu, 07 May 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Safety"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-07T18:08:33.962Z",
+      "created_at": "2026-05-07T18:08:33.962Z"
+    },
+    {
+      "id": 7379,
+      "source": "The Guardian AI",
+      "title_en": "The Guardian view on facial recognition technology: mistaken identities are a political issue | Editorial",
+      "description_en": "Once again, digital tools are running ahead of regulators. Civil liberties must not be sacrificed to policing \nIt is a familiar story. Extravagant claims are made on behalf of novel computerised tools. The public are told that this or that digital application or system is going to change the world for the better. Efficiencies will be unlocked and problems solved as human limitations are overcome by networked devices plugged into vast stores of data. Anyone who questions the narrative is a pessim",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/may/07/the-guardian-view-on-facial-recognition-technology-mistaken-identities-are-a-political-issue",
+      "image_url": "https://i.guim.co.uk/img/media/7ac170e6f5b5d1370cdeefb92621d38435b6ccaf/631_0_6313_5051/master/6313.jpg?width=140&quality=85&auto=format&fit=max&s=dfcc8131fecc05df9b6f2a12ea3df966",
+      "pub_date": "Thu, 07 May 2026 17:35:10 GMT",
+      "author": "Editorial",
+      "categories": [
+        {
+          "_": "Facial recognition",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/facial-recognition"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Metropolitan police",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/metropolitan-police"
+          }
+        },
+        {
+          "_": "Mark Rowley",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/mark-rowley"
+          }
+        },
+        {
+          "_": "Home Office",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/home-office"
+          }
+        },
+        {
+          "_": "Police",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/police"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "Sadiq Khan",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/sadiq-khan"
+          }
+        },
+        {
+          "_": "London",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/london"
+          }
+        },
+        {
+          "_": "Race",
+          "$": {
+            "domain": "https://www.theguardian.com/world/race"
+          }
+        },
+        {
+          "_": "Crime",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/ukcrime"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Scotland",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/scotland"
+          }
+        },
+        {
+          "_": "Surveillance",
+          "$": {
+            "domain": "https://www.theguardian.com/world/surveillance"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-07T18:08:34.742Z",
+      "created_at": "2026-05-07T18:08:34.742Z"
+    },
+    {
+      "id": 7380,
+      "source": "Tom's Hardware",
+      "title_en": "White House reportedly considers mandatory government vetting of AI models before release — executive order under discussion",
+      "description_en": "The Trump administration is in early discussions about an executive order that would create a government review process for AI models before public release.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/white-house-considers-mandatory-government-vetting-of-ai-models-before-release",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/xxGSW9NKmqebd4DPgXMQq9-1280-80.jpg",
+      "pub_date": "Thu, 07 May 2026 17:53:21 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-07T18:08:36.110Z",
+      "created_at": "2026-05-07T18:08:36.110Z"
+    },
+    {
+      "id": 7381,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Google представила бюджетный аналог Whoop  Компания внезапно реанимировала бренд спортивных аксессуаров Fitbit, первым устройством в линейке стал фитнес-браслет Air — вместе с ремешком он весит всего ",
+      "description_en": "Google представила бюджетный аналог Whoop  Компания внезапно реанимировала бренд спортивных аксессуаров Fitbit, первым устройством в линейке стал фитнес-браслет Air — вместе с ремешком он весит всего 12 граммов.Дисплея у него нет, зато есть все базовые сенсоры, включая шагомер, оптический датчик пульса, инфракрасный датчик для мониторинга насыщения крови кислородом, а также датчик температуры.Носить Fitbit Air сможет не каждый: официальные ремешки «Гугла», включая силиконовые браслеты размера L,",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/32796",
+      "image_url": "https://cdn4.telesco.pe/file/cbs9gdzOPwpZSN3jk5AqyFtuPJ1JQuvCug_WgqbczGFJvvBW-us2b_HD5lteLp9OrZ4dr6q9Q_9i4wIDNH7tbfbpFSjWb0vFnrNshr46u26jOUYQziHI-_N6PIC26l5nRR3AXJ1R1zJAJ95JvNeN4vsuEn6I6AtEAMuo3hKS6jZHp2I6qvkWEXUc2IegBsJ0iIEiXmdbJkybD7-GfInXqALhcHntHSJgQU6T1eYwUrqJCd1Ffc65OyrmEco8CTQCYi9CoqfW4mPmhyDAynrVxsUfAJt9h-xOu6B5LBfrwVVjMErgYjKPB4SARWl_LNBIN_-n5UkMRSBqpqdFhBO6tg.jpg",
+      "pub_date": "2026-05-07T17:50:30+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-07T18:08:41.686Z",
+      "created_at": "2026-05-07T18:08:41.686Z"
+    },
+    {
+      "id": 7382,
+      "source": "Data Science ODS.ai (TG)",
+      "title_en": "Советские звёзды, которые прошли войнуК 9 Мая вспоминаем советских знаменитостей, которые воевали на фронте и прошли через тяжёлые испытания Великой Отечественной войны.Юрий Никулин служил в зенитной ",
+      "description_en": "Советские звёзды, которые прошли войнуК 9 Мая вспоминаем советских знаменитостей, которые воевали на фронте и прошли через тяжёлые испытания Великой Отечественной войны.Юрий Никулин служил в зенитной батарее под Ленинградом и участвовал в Финской и Великой Отечественной войнах.Алексей Смирнов был разведчиком и стал полным кавалером ордена Славы.Анатолий Папанов служил старшим сержантом, был тяжело ранен под Харьковом и комиссован.Владимир Этуш воевал, участвовал в освобождении Ростова-на-Дону и ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/opendatascience/3285",
+      "image_url": null,
+      "pub_date": "2026-05-07T18:01:38+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-07T18:08:42.559Z",
+      "created_at": "2026-05-07T18:08:42.560Z"
     }
   ]
 }
