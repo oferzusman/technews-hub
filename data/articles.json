@@ -151905,6 +151905,105 @@
       "priority": "hot",
       "fetchedAt": "2026-05-07T18:08:42.559Z",
       "created_at": "2026-05-07T18:08:42.560Z"
+    },
+    {
+      "id": 7383,
+      "source": "TechCrunch AI",
+      "title_en": "Bumble is getting rid of the swipe, CEO says",
+      "description_en": "\"We are going to be saying goodbye to the swipe,\" CEO Whitney Wolfe Herd said.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+      "image_url": null,
+      "pub_date": "Thu, 07 May 2026 19:06:17 +0000",
+      "author": "Amanda Silberling",
+      "categories": [
+        "AI",
+        "Apps",
+        "Social",
+        "bumble",
+        "dating apps"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-07T19:14:36.758Z",
+      "created_at": "2026-05-07T19:14:36.758Z"
+    },
+    {
+      "id": 7384,
+      "source": "The Decoder",
+      "title_en": "OpenAI's new voice model brings GPT-5-level reasoning to real-time conversations",
+      "description_en": "OpenAI is shipping three new voice models—GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper—that can reason in real time, translate across 70+ languages, and transcribe live speech. GPT-Realtime-2 brings reasoning that OpenAI says matches GPT-5.\nThe article OpenAI's new voice model brings GPT-5-level reasoning to real-time conversations appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openais-new-voice-model-brings-gpt-5-level-reasoning-to-real-time-conversations/",
+      "image_url": "http://the-decoder.com/wp-content/uploads/2026/05/openai_RealtimeDemo22.mp4",
+      "pub_date": "Thu, 07 May 2026 18:44:08 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "AI and audio",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-07T19:14:37.883Z",
+      "created_at": "2026-05-07T19:14:37.883Z"
+    },
+    {
+      "id": 7385,
+      "source": "New Atlas",
+      "title_en": "This egg-shaped mouse is the latest to offer less wrist strain",
+      "description_en": "Engineers have been experimenting with alternatives to the traditional mouse for years, producing pen-shaped, flat, and even ring-shaped mice. And just when it seems like we’ve seen it all, UK-based startup NextAxis Design has introduced an egg-shaped mouse called Ovo, currently available for backing on Kickstarter.\nContinue Reading\nCategory: Computing, Consumer Tech, Technology\nTags: Mouse, Kickstarter, Ergonomic",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/computers/ovo-egg-shaped-mouse-wrist-strain/",
+      "image_url": null,
+      "pub_date": "Thu, 07 May 2026 18:30:00 GMT",
+      "author": "Maryna Holovnova",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-07T19:14:38.647Z",
+      "created_at": "2026-05-07T19:14:38.647Z"
+    },
+    {
+      "id": 7386,
+      "source": "Tom's Hardware",
+      "title_en": "AMD announces MI350P PCIe AI accelerator card with 144GB of HBM3E — roughly 40% faster in FP16 and FP8 theoretical compute compared to Nvidia's H200 NVL competitor",
+      "description_en": "AMD launches a new MI350P PCIe AI-accelerator card with half the cores and memory of its flagship Instinct MI355X GPU. The new card provides customers with a drop-in upgrade solution for existing air-cooled servers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/amd-announces-mi350p-pcie-ai-accelerator-card-with-144gb-of-hbm3e-roughly-40-percent-faster-in-fp16-and-fp8-theoretical-compute-compared-to-nvidias-h200-nvl-competitor",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/6jbHyzPsPmMudxSVmcRXfS-1280-80.jpg",
+      "pub_date": "Thu, 07 May 2026 19:07:58 +0000",
+      "author": " Aaron Klotz ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-07T19:14:43.703Z",
+      "created_at": "2026-05-07T19:14:43.703Z"
+    },
+    {
+      "id": 7387,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🎓 A \"Mind-Reading\" Hat Instead of a Brain ImplantStartup Sabi claims it has developed a hat that lets you type using nothing but your thoughts.It appears to be a regular cap, with approximately 100,0",
+      "description_en": "🎓 A \"Mind-Reading\" Hat Instead of a Brain ImplantStartup Sabi claims it has developed a hat that lets you type using nothing but your thoughts.It appears to be a regular cap, with approximately 100,000 miniature EEG sensors designed to detect electrical activity in the brain through the scalp and skull. These signals are processed by a \"brain foundation model\" trained on 100,000 hours of data from around a hundred volunteers.The system converts thoughts into text at speeds of up to 30 words per",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2509",
+      "image_url": null,
+      "pub_date": "2026-05-07T18:34:38+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-07T19:14:44.883Z",
+      "created_at": "2026-05-07T19:14:44.883Z"
     }
   ]
 }
