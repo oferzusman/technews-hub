@@ -1,9 +1,9 @@
 {
-  "total": 7373,
-  "translated": 7373,
+  "total": 7375,
+  "translated": 7375,
   "untranslated": 0,
-  "today": 141,
-  "week": 1031,
+  "today": 143,
+  "week": 1033,
   "sources": [
     {
       "name": "Product Hunt",
@@ -43,14 +43,14 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 303,
-      "translated": 303,
+      "total": 304,
+      "translated": 304,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
       "name": "New Atlas",
-      "total": 294,
-      "translated": 294,
+      "total": 295,
+      "translated": 295,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-07T17:03:28.543Z"
+  "generatedAt": "2026-05-07T17:17:30.033Z"
 }
