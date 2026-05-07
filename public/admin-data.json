@@ -1,9 +1,9 @@
 {
-  "total": 7361,
+  "total": 7366,
   "translated": 7347,
-  "untranslated": 14,
-  "today": 129,
-  "week": 1019,
+  "untranslated": 19,
+  "today": 134,
+  "week": 1024,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,7 +13,7 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 512,
+      "total": 513,
       "translated": 512,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
@@ -61,7 +61,7 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 269,
+      "total": 271,
       "translated": 269,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -139,9 +139,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 42,
+      "total": 44,
       "translated": 42,
-      "lastDate": "2026-05-07T12:19:01+00:00"
+      "lastDate": "2026-05-07T15:11:25+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-07T15:11:18.593Z"
+  "generatedAt": "2026-05-07T15:15:07.652Z"
 }
