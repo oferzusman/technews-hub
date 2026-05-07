@@ -1,14 +1,14 @@
 {
   "total": 7255,
-  "translated": 7238,
-  "untranslated": 17,
+  "translated": 7255,
+  "untranslated": 0,
   "today": 23,
   "week": 913,
   "sources": [
     {
       "name": "Product Hunt",
       "total": 883,
-      "translated": 875,
+      "translated": 883,
       "lastDate": "2026-05-06T03:17:32.000Z"
     },
     {
@@ -20,7 +20,7 @@
     {
       "name": "Interesting Engineering",
       "total": 501,
-      "translated": 500,
+      "translated": 501,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -50,7 +50,7 @@
     {
       "name": "New Atlas",
       "total": 292,
-      "translated": 291,
+      "translated": 292,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -62,7 +62,7 @@
     {
       "name": "TechCrunch AI",
       "total": 264,
-      "translated": 263,
+      "translated": 264,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -80,7 +80,7 @@
     {
       "name": "The Guardian AI",
       "total": 184,
-      "translated": 183,
+      "translated": 184,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -92,7 +92,7 @@
     {
       "name": "MarkTechPost",
       "total": 146,
-      "translated": 145,
+      "translated": 146,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -140,7 +140,7 @@
     {
       "name": "AI Post (TG)",
       "total": 40,
-      "translated": 39,
+      "translated": 40,
       "lastDate": "2026-05-07T06:23:39+00:00"
     },
     {
@@ -158,7 +158,7 @@
     {
       "name": "XOR Journal (TG)",
       "total": 35,
-      "translated": 34,
+      "translated": 35,
       "lastDate": "2026-05-07T07:16:04+00:00"
     },
     {
@@ -182,7 +182,7 @@
     {
       "name": "Backdoor (TG)",
       "total": 27,
-      "translated": 26,
+      "translated": 27,
       "lastDate": "2026-05-07T06:23:01+00:00"
     },
     {
@@ -194,7 +194,7 @@
     {
       "name": "Hi, AI Russian (TG)",
       "total": 26,
-      "translated": 25,
+      "translated": 26,
       "lastDate": "2026-05-07T06:07:51+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-07T08:29:21.854Z"
+  "generatedAt": "2026-05-07T10:06:59.637Z"
 }
