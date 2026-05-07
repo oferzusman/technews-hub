@@ -148896,6 +148896,373 @@
       "priority": "hot",
       "fetchedAt": "2026-05-07T04:49:22.213Z",
       "created_at": "2026-05-07T04:49:22.213Z"
+    },
+    {
+      "id": 7239,
+      "source": "TechCrunch AI",
+      "title_en": "Five architects of the AI economy explain where the wheels are coming off",
+      "description_en": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tech is wrong.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+      "image_url": null,
+      "pub_date": "Thu, 07 May 2026 05:25:10 +0000",
+      "author": "Connie Loizos",
+      "categories": [
+        "AI",
+        "TC",
+        "applied intuition",
+        "ASML",
+        "Christophe Fouquet",
+        "Dimitry Shevelenko",
+        "Eve Bodnia",
+        "Francis deSouza",
+        "google cloud",
+        "Logical Intelligence",
+        "Milken Institute",
+        "Qasar Younis"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-07T07:43:33.545Z",
+      "created_at": "2026-05-07T07:43:33.545Z"
+    },
+    {
+      "id": 7240,
+      "source": "MarkTechPost",
+      "title_en": "Zyphra Releases ZAYA1-8B: A Reasoning MoE Trained on AMD Hardware That Punches Far Above Its Weight Class",
+      "description_en": "Zyphra releases ZAYA1-8B, a reasoning Mixture of Experts model with only 760M active parameters that outperforms open-weight models many times its size on math and coding benchmarks — closing in on DeepSeek-V3.2 and surpassing Claude 4.5 Sonnet on HMMT'25 with its novel Markovian RSA test-time compute method. Trained end-to-end on AMD Instinct MI300 hardware and released under Apache 2.0, it sets a new standard for intelligence density in the small language model weight class.\nThe post Zyphra Re",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/06/zyphra-releases-zaya1-8b-a-reasoning-moe-trained-on-amd-hardware-that-punches-far-above-its-weight-class/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-06-at-10.35.41-PM-1.png",
+      "pub_date": "Thu, 07 May 2026 05:44:59 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-07T07:43:34.765Z",
+      "created_at": "2026-05-07T07:43:34.765Z"
+    },
+    {
+      "id": 7241,
+      "source": "New Atlas",
+      "title_en": "Morbidelli N125V: Here's what a 125cc Ducati naked moto would look like",
+      "description_en": "In my wildest dreams I couldn't have imagined that I’d ever see a 125cc motorcycle from China dressed in Ducati-like underpinnings. I’m not kidding – a proper liquid-cooled V-twin, a steel trellis frame, an aluminum single-sided swingarm … this might just be the coolest entry-level moto ever!\nContinue Reading\nCategory: Motorcycles, Transport\nTags: Ducati, qjmotor, V-Twin, China",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/motorcycles/morbidelli-n125v/",
+      "image_url": null,
+      "pub_date": "Thu, 07 May 2026 05:19:30 GMT",
+      "author": "Utkarsh Sood",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-07T07:43:35.435Z",
+      "created_at": "2026-05-07T07:43:35.435Z"
+    },
+    {
+      "id": 7242,
+      "source": "The Guardian AI",
+      "title_en": "Europe’s AI translation industry told it risks reputation by partnering with US firms",
+      "description_en": "Partnership between top startup DeepL and Amazon comes amid concern about Silicon Valley’s monopoly over digital infrastructure\nAI companies in Europe risk losing their world-leading status in the field of machine translation, industry figures have said, after the decision by one of the continent’s leading startups to partner with Amazon’s cloud computing division provoked alarm.\nWhile businesses in the EU have generally lagged behind the US and China in AI adoption, a small group of European co",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/07/europe-ai-translation-industry-deepl-partnering-us-firms",
+      "image_url": "https://i.guim.co.uk/img/media/2a59b4aace070a3f36963c66221efc0678a2f106/309_0_1624_1299/master/1624.jpg?width=140&quality=85&auto=format&fit=max&s=f086ffb1d2db6ad6c15cb4a00d145711",
+      "pub_date": "Thu, 07 May 2026 06:00:40 GMT",
+      "author": "Philip Oltermann European culture editor",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Amazon",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/amazon"
+          }
+        },
+        {
+          "_": "Language",
+          "$": {
+            "domain": "https://www.theguardian.com/science/language"
+          }
+        },
+        {
+          "_": "Europe",
+          "$": {
+            "domain": "https://www.theguardian.com/world/europe-news"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-07T07:43:35.723Z",
+      "created_at": "2026-05-07T07:43:35.723Z"
+    },
+    {
+      "id": 7243,
+      "source": "Interesting Engineering",
+      "title_en": "Genesis AI’s robotic brain aims to give general-purpose robots human-level dexterity",
+      "description_en": "Genesis AI has unveiled GENE-26.5, an AI model the company describes as a robotic brain...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/genesis-ai-robot-brain-human-movement",
+      "image_url": null,
+      "pub_date": "Thu, 07 May 2026 05:41:07 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-07T07:43:39.516Z",
+      "created_at": "2026-05-07T07:43:39.517Z"
+    },
+    {
+      "id": 7244,
+      "source": "Product Hunt",
+      "title_en": "Bagel AI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/bagel-ai",
+      "image_url": null,
+      "pub_date": "2026-05-05T18:18:45.000Z",
+      "author": "Rajiv Ayyangar",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-07T07:43:40.998Z",
+      "created_at": "2026-05-07T07:43:40.998Z"
+    },
+    {
+      "id": 7245,
+      "source": "Product Hunt",
+      "title_en": "Bagel AI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/bagel-ai-2",
+      "image_url": null,
+      "pub_date": "2026-05-01T01:52:13.000Z",
+      "author": "Rajiv Ayyangar",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-07T07:43:40.998Z",
+      "created_at": "2026-05-07T07:43:40.998Z"
+    },
+    {
+      "id": 7246,
+      "source": "Product Hunt",
+      "title_en": "Navigage AI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/navigage-ai",
+      "image_url": null,
+      "pub_date": "2026-05-01T01:50:47.000Z",
+      "author": "Rajiv Ayyangar",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-07T07:43:40.998Z",
+      "created_at": "2026-05-07T07:43:40.998Z"
+    },
+    {
+      "id": 7247,
+      "source": "Product Hunt",
+      "title_en": "SLED AI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/sled-ai",
+      "image_url": null,
+      "pub_date": "2026-05-01T01:52:30.000Z",
+      "author": "Rajiv Ayyangar",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-07T07:43:40.998Z",
+      "created_at": "2026-05-07T07:43:40.998Z"
+    },
+    {
+      "id": 7248,
+      "source": "Product Hunt",
+      "title_en": "Avon AI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/avon-ai",
+      "image_url": null,
+      "pub_date": "2026-05-01T01:51:10.000Z",
+      "author": "Rajiv Ayyangar",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-07T07:43:40.998Z",
+      "created_at": "2026-05-07T07:43:40.998Z"
+    },
+    {
+      "id": 7249,
+      "source": "Product Hunt",
+      "title_en": "Genrate.ai",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/genrate-ai",
+      "image_url": null,
+      "pub_date": "2026-05-01T01:50:51.000Z",
+      "author": "Rajiv Ayyangar",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-07T07:43:40.998Z",
+      "created_at": "2026-05-07T07:43:40.998Z"
+    },
+    {
+      "id": 7250,
+      "source": "Product Hunt",
+      "title_en": "Kai ai",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/kai-ai",
+      "image_url": null,
+      "pub_date": "2026-05-01T01:51:14.000Z",
+      "author": "Rajiv Ayyangar",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-07T07:43:40.998Z",
+      "created_at": "2026-05-07T07:43:40.998Z"
+    },
+    {
+      "id": 7251,
+      "source": "Product Hunt",
+      "title_en": "Safebooks AI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/safebooks-ai",
+      "image_url": null,
+      "pub_date": "2026-05-01T01:50:45.000Z",
+      "author": "Rajiv Ayyangar",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-07T07:43:40.998Z",
+      "created_at": "2026-05-07T07:43:40.998Z"
+    },
+    {
+      "id": 7252,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Claude Code убил CapCut — вышел полноценный ИИ-монтажёр на базе хайпового кодинг-ассистента. Вы сможете смонтировать любые видосы прямо через чат-бот.• Пережует любые видосы — от долгих интервью и ",
+      "description_en": "⚡️ Claude Code убил CapCut — вышел полноценный ИИ-монтажёр на базе хайпового кодинг-ассистента. Вы сможете смонтировать любые видосы прямо через чат-бот.• Пережует любые видосы — от долгих интервью и туториалов до сырых влогов • Редактирует отдельные отрывки и делает финальный монтаж по вашим запросам• Вырезает паузы, вздохи, охи и слова-паразиты, автоматически делая видос динамичным • Правит цветокоррекцию в нужном вам стиле• Анимации, субтитры, эффекты — всё это тоже есть• Сохраняет прогресс —",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28252",
+      "image_url": "https://cdn4.telesco.pe/file/WMkHVOF5NhBkI_KT5_n8tistDj0GP_ZBSZ1mJVtAwD_fxSHGy4A3dYkmQGXGSnpwqujy7KMhcJ9iodzBEDSThKJ3e5ksX-Ugcg-ztq0WYz3PlQyyYewj_iO_9bSP3toHFvotzUKhPfpAfZjNzKnErrLuvLtueW4vjXim2mE5112xOG5k_SG2RAMfL3nGS_8iy4Gg5Q0zZMNpm9ToY-tblFEdtSebjlbCGP5hVF8yBYujf43BiPhQvOmt7ygBWwIDv6X75Ill71-e8JBBqkk28dsWMY6gYXHirsP2QdRBKDu0cmzxvAW5J8phpW2YPqQnXLqouP7qsqMmaMutG5A5Sw.jpg",
+      "pub_date": "2026-05-07T06:23:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-07T07:43:41.549Z",
+      "created_at": "2026-05-07T07:43:41.549Z"
+    },
+    {
+      "id": 7253,
+      "source": "XOR Journal (TG)",
+      "title_en": "Появилось «Кладбище ИИ» — и если думали делать ИИ-проект, сначала загляните сюда 💀Внутри 178 инструментов, которые прекратили свою работу из-за релизов Anthropic или были приобретены и интегрированы ",
+      "description_en": "Появилось «Кладбище ИИ» — и если думали делать ИИ-проект, сначала загляните сюда 💀Внутри 178 инструментов, которые прекратили свою работу из-за релизов Anthropic или были приобретены и интегрированы в другие продукты. У каждого есть описание и… список работающих аналогов. Если хотите — можете добавить и свой.Изучаем и анализируем.@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9198",
+      "image_url": "https://cdn4.telesco.pe/file/XFH9yxX1FfnNnbQupyLKSLER_bYIxgdoEVQWkcdfciCYcwCvDJyeD9_mQqeZhwdBcSgCy1lCnfZS7MTz52VlsC5shZsgRIGu9zAS88GIWAFfSFH4n_fWKRVOs_IAQq6muG_qeCHtLvrYRHAd9ceDOeXzOW0ekvQIzRJ3pqISSYJca5VBTBBCIaKG9RuypzaJGZiWToCkLxfscYjKQtnlpC0MRbxzc4inVx_aRF_0YJvvO3gN2rkNqI4prSkpzFsFpZ88BqOYC1Teu9zwrTSvxE5MR0_0byBXvyEdDRI37lwaOG5mkamhnGtCXlUVL3hs9-6DY-YjylyP9ra_xOPEzQ.jpg",
+      "pub_date": "2026-05-07T07:16:04+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-07T07:43:41.628Z",
+      "created_at": "2026-05-07T07:43:41.628Z"
+    },
+    {
+      "id": 7254,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "❤️ Кольца для перевода жестового языка в текст создали корейские ученыеСемь беспроводных колец WRSLT надеваются на пальцы, отслеживают движения и с задержкой всего 0,1–0,3 секунды превращают жесты в т",
+      "description_en": "❤️ Кольца для перевода жестового языка в текст создали корейские ученыеСемь беспроводных колец WRSLT надеваются на пальцы, отслеживают движения и с задержкой всего 0,1–0,3 секунды превращают жесты в текст. 💻 В каждом кольце — акселерометр, магнит и Bluetooth-модуль для подключения к смартфону или ПК. Между собой кольца не соединены проводами — руки двигаются свободно.✅ Систему обучили всего на 100 словах американского жестового языка и 100 словах международного жестового языка. В тестах точност",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3188",
+      "image_url": "https://cdn4.telesco.pe/file/B59gA5T1wLoHI7GlhXFDash5qyPE01ibP124AB9DmP9T3l1KaNa_k2Ra8Ww7j70n1cB6zrBC5120y74-36UIZA2JJo8ClPGSajtoefwH0yS2Ky0RupfwP8ZsZeq_HZwFa43-cHgws4OkRfqAdqdNAvSwVcDRahUs8H3miRFThunTYSkp9MNK6W3Mvt-LwWwDZJgvSKlUtFTz2XAv4qh6eUOHx5FhPSr_7ha-1g4ejQ9dW1gao5lKxf76cV2nHQV6xqdktvpoW78RdChbK_ZUftLGXfK-WkiPyozA7Iho636HDNDclO75fOnE7v_0n0e1gGEmSlfMJh06uEILzxQprA.jpg",
+      "pub_date": "2026-05-07T06:07:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-07T07:43:41.948Z",
+      "created_at": "2026-05-07T07:43:41.948Z"
+    },
+    {
+      "id": 7255,
+      "source": "AI Post (TG)",
+      "title_en": "xAI to merge with SpaceX, rebranded as SpaceXAIxAI is set to cease operations as an independent company and will be integrated into SpaceX under the new name SpaceXAI. This change will mean that all A",
+      "description_en": "xAI to merge with SpaceX, rebranded as SpaceXAIxAI is set to cease operations as an independent company and will be integrated into SpaceX under the new name SpaceXAI. This change will mean that all AI projects previously managed by xAI will now be part of SpaceX’s suite of products. The rebranding reflects a consolidation of efforts under the SpaceX organization, with future developments in artificial intelligence to be pursued through SpaceXAI. No further details on the restructuring have been",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6827",
+      "image_url": "https://cdn4.telesco.pe/file/JZskadq2elGOr35nfINUAc9BQj5I3MlAaeg9igLROUdT3a0G1p17xBFybM9s_8mldmyle-7TcTTVSxeJ1ehkgiO3nREJFctIV6MLhEhLxt0fOx1MuPhyxptSysS-b5KqY2BGg8etWnHOhCRdBPk_BV1ezFJT_ja_zZxbHPgdC2s_TrkE3KloB62JfHbIOMPOWoRfXVQkHTLJaAWGVyXnMs9iEd-E7vXaYfnpMuOZeTVgSDZV4Rl5lgFsED3b7TxC1tbwvS1m-GIetC7H8aKEmvOHK5fN_oSGxdS3ob_UlX13f-gDl_cqocBV8OGhcjyycqM85AJ2ZBq0GijsFYsx-Q.jpg",
+      "pub_date": "2026-05-07T06:23:39+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-07T07:43:42.162Z",
+      "created_at": "2026-05-07T07:43:42.162Z"
     }
   ]
 }
