@@ -5,6 +5,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  actions: write   # for chain trigger (gh workflow run)
 concurrency:
   group: fetch-rss
   cancel-in-progress: true
