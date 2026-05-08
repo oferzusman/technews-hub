@@ -1,9 +1,9 @@
 {
-  "total": 7443,
-  "translated": 7443,
+  "total": 7445,
+  "translated": 7445,
   "untranslated": 0,
-  "today": 30,
-  "week": 968,
+  "today": 32,
+  "week": 970,
   "sources": [
     {
       "name": "Product Hunt",
@@ -139,9 +139,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 49,
-      "translated": 49,
-      "lastDate": "2026-05-08T05:51:01+00:00"
+      "total": 50,
+      "translated": 50,
+      "lastDate": "2026-05-08T08:36:01+00:00"
     },
     {
       "name": "XOR Journal (TG)",
@@ -217,9 +217,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 21,
-      "translated": 21,
-      "lastDate": "2026-05-07T17:50:30+00:00"
+      "total": 22,
+      "translated": 22,
+      "lastDate": "2026-05-08T08:22:50+00:00"
     },
     {
       "name": "Towards Data Science",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-08T08:12:05.238Z"
+  "generatedAt": "2026-05-08T08:50:59.435Z"
 }
