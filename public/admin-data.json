@@ -1,9 +1,9 @@
 {
-  "total": 7461,
-  "translated": 7461,
+  "total": 7472,
+  "translated": 7472,
   "untranslated": 0,
-  "today": 48,
-  "week": 986,
+  "today": 59,
+  "week": 997,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 522,
-      "translated": 522,
+      "total": 524,
+      "translated": 524,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 512,
-      "translated": 512,
+      "total": 514,
+      "translated": 514,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -31,14 +31,14 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 358,
-      "translated": 358,
+      "total": 359,
+      "translated": 359,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 333,
-      "translated": 333,
+      "total": 334,
+      "translated": 334,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 299,
-      "translated": 299,
+      "total": 300,
+      "translated": 300,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 189,
-      "translated": 189,
+      "total": 190,
+      "translated": 190,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -103,8 +103,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 108,
-      "translated": 108,
+      "total": 109,
+      "translated": 109,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -145,9 +145,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 42,
-      "translated": 42,
-      "lastDate": "2026-05-08T10:25:57+00:00"
+      "total": 43,
+      "translated": 43,
+      "lastDate": "2026-05-08T12:43:14+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -180,16 +180,16 @@
       "lastDate": "2026-05-08T09:15:27+00:00"
     },
     {
+      "name": "Hi, AI Russian (TG)",
+      "total": 29,
+      "translated": 29,
+      "lastDate": "2026-05-08T12:03:52+00:00"
+    },
+    {
       "name": "Nature Machine Intelligence",
       "total": 28,
       "translated": 28,
       "lastDate": "2026-05-07T00:00:00.000Z"
-    },
-    {
-      "name": "Hi, AI Russian (TG)",
-      "total": 28,
-      "translated": 28,
-      "lastDate": "2026-05-08T06:14:27+00:00"
     },
     {
       "name": "Hi, AI English (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-08T12:18:45.054Z"
+  "generatedAt": "2026-05-08T13:07:28.338Z"
 }
