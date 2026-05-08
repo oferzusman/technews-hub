@@ -1,9 +1,9 @@
 {
-  "total": 7449,
-  "translated": 7449,
+  "total": 7461,
+  "translated": 7461,
   "untranslated": 0,
-  "today": 36,
-  "week": 974,
+  "today": 48,
+  "week": 986,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 517,
-      "translated": 517,
+      "total": 522,
+      "translated": 522,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 511,
-      "translated": 511,
+      "total": 512,
+      "translated": 512,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -31,8 +31,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 356,
-      "translated": 356,
+      "total": 358,
+      "translated": 358,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -73,8 +73,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 249,
-      "translated": 249,
+      "total": 250,
+      "translated": 250,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -139,15 +139,15 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 50,
-      "translated": 50,
-      "lastDate": "2026-05-08T08:36:01+00:00"
+      "total": 51,
+      "translated": 51,
+      "lastDate": "2026-05-08T11:20:48+00:00"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 41,
-      "translated": 41,
-      "lastDate": "2026-05-08T07:37:13+00:00"
+      "total": 42,
+      "translated": 42,
+      "lastDate": "2026-05-08T10:25:57+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -217,9 +217,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 22,
-      "translated": 22,
-      "lastDate": "2026-05-08T08:22:50+00:00"
+      "total": 23,
+      "translated": 23,
+      "lastDate": "2026-05-08T11:25:36+00:00"
     },
     {
       "name": "Towards Data Science",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-08T11:10:26.007Z"
+  "generatedAt": "2026-05-08T11:51:56.036Z"
 }
