@@ -1,15 +1,15 @@
 {
-  "total": 7427,
-  "translated": 7427,
+  "total": 7432,
+  "translated": 7432,
   "untranslated": 0,
-  "today": 14,
-  "week": 952,
+  "today": 19,
+  "week": 957,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 890,
-      "translated": 890,
-      "lastDate": "2026-05-07T06:50:49.000Z"
+      "total": 891,
+      "translated": 891,
+      "lastDate": "2026-05-07T14:17:36.000Z"
     },
     {
       "name": "Tom's Hardware",
@@ -31,8 +31,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 355,
-      "translated": 355,
+      "total": 356,
+      "translated": 356,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -163,9 +163,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 32,
-      "translated": 32,
-      "lastDate": "2026-05-07T11:01:04+00:00"
+      "total": 33,
+      "translated": 33,
+      "lastDate": "2026-05-08T07:01:47+00:00"
     },
     {
       "name": "pymnts.com",
@@ -180,16 +180,16 @@
       "lastDate": "2026-05-07T00:00:00.000Z"
     },
     {
+      "name": "Hi, AI Russian (TG)",
+      "total": 28,
+      "translated": 28,
+      "lastDate": "2026-05-08T06:14:27+00:00"
+    },
+    {
       "name": "Backdoor (TG)",
       "total": 27,
       "translated": 27,
       "lastDate": "2026-05-07T06:23:01+00:00"
-    },
-    {
-      "name": "Hi, AI Russian (TG)",
-      "total": 27,
-      "translated": 27,
-      "lastDate": "2026-05-07T11:07:15+00:00"
     },
     {
       "name": "Financial Post",
@@ -246,16 +246,16 @@
       "lastDate": "2026-04-09T11:00:02+00:00"
     },
     {
+      "name": "Data Science ODS.ai (TG)",
+      "total": 19,
+      "translated": 19,
+      "lastDate": "2026-05-08T06:53:12+00:00"
+    },
+    {
       "name": "Nature.com",
       "total": 18,
       "translated": 18,
       "lastDate": "2026-04-09T00:00:00Z"
-    },
-    {
-      "name": "Data Science ODS.ai (TG)",
-      "total": 18,
-      "translated": 18,
-      "lastDate": "2026-05-07T18:01:38+00:00"
     },
     {
       "name": "Artificial Intelligence (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-08T06:20:38.670Z"
+  "generatedAt": "2026-05-08T07:15:57.916Z"
 }
