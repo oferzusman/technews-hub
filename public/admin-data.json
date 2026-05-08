@@ -1,9 +1,9 @@
 {
-  "total": 7502,
-  "translated": 7502,
-  "untranslated": 0,
-  "today": 89,
-  "week": 1027,
+  "total": 7509,
+  "translated": 7508,
+  "untranslated": 1,
+  "today": 96,
+  "week": 1034,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 517,
-      "translated": 517,
+      "total": 519,
+      "translated": 518,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 308,
-      "translated": 308,
+      "total": 309,
+      "translated": 309,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -73,8 +73,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 253,
-      "translated": 253,
+      "total": 254,
+      "translated": 254,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -97,8 +97,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 111,
-      "translated": 111,
+      "total": 112,
+      "translated": 112,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -169,21 +169,21 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
+      "total": 31,
+      "translated": 31,
+      "lastDate": "2026-05-08T17:36:17+00:00"
+    },
+    {
+      "name": "Backdoor (TG)",
       "total": 30,
       "translated": 30,
-      "lastDate": "2026-05-08T14:35:25+00:00"
+      "lastDate": "2026-05-08T17:01:00+00:00"
     },
     {
       "name": "pymnts.com",
       "total": 29,
       "translated": 29,
       "lastDate": "2026-04-09T00:29:48Z"
-    },
-    {
-      "name": "Backdoor (TG)",
-      "total": 29,
-      "translated": 29,
-      "lastDate": "2026-05-08T09:15:27+00:00"
     },
     {
       "name": "Nature Machine Intelligence",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-08T17:24:18.300Z"
+  "generatedAt": "2026-05-08T17:59:07.091Z"
 }
