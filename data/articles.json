@@ -152706,8 +152706,8 @@
       "source": "TechCrunch AI",
       "title_en": "Why you can never get your doctor to call you back",
       "description_en": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried about drowning.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "למה הרופא שלך לא מחזיר לך שיחות",
+      "description_he": "חברת Basata משתמשת ב-AI כדי לאתום את כל הבירוקרטיה המטורפת שמעכבת את הענף הרפואי, והיא עלולה לעשות הפלאים עם זמן התגובה של הקליניקות. בדרך זו או אחרת, התחזוקה של איזון עדין בין הגדלת כוח האדם לבין החלפתו בא\"י תהיה שאלה שתופיע בקרוב - אבל לעכשיו, הצוות האדמיניסטרטיבי בבתי הרפואה פשוט רוצה לא להטבע בכמות העבודה שלהם.",
       "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
       "image_url": null,
       "pub_date": "Fri, 08 May 2026 04:42:29 +0000",
@@ -152723,7 +152723,7 @@
         "Sofeon",
         "Victoria Treyger"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-08T05:50:26.411Z",
       "created_at": "2026-05-08T05:50:26.411Z"
@@ -152733,8 +152733,8 @@
       "source": "The Guardian AI",
       "title_en": "‘Being human helps’: despite rise of AI is there still hope for Europe’s translators?",
       "description_en": "A booming tech sector has disrupted translation jobs in publishing – but they could be needed for a while longer yet\nIn February 2022, while he was plugging away at rendering the US writer Dana Spiotta’s novel Wayward into French, the literary translator Yoann Gentric decided he needed a bit of light relief. He would test whether AI could put him out of work.\nGentric had been grappling with a short non-verbal sentence that described the book’s protagonist’s feelings upon opening a window: “Brigh",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "האם עדיין יש תקווה? מתרגמים אירופאים מתמודדים עם עלייה של AI",
+      "description_he": "בעוד ש-AI משנה את עולם התרגום ומאיים על עבודה של מתרגמים ספרותיים, מתברר שהטוש האנושי עדיין בלתי מחליף - לפחות כרגע. מתרגם ספרותי בשם יואן ג'נטריק בדק אם AI יכול להחליף אותו בתרגום רומן של סופרת אמריקאית, והגיע למסקנה שהן הקריאטיביות והן ההבנה העמוקה של האדם עדיין קריטיות לתרגומים איכותיים. מקור: The Guardian AI",
       "link": "https://www.theguardian.com/technology/2026/may/08/being-human-helps-despite-rise-of-ai-is-there-still-hope-for-europes-translators",
       "image_url": "https://i.guim.co.uk/img/media/726e5848316bbe71abf2f2680d0e07d8e3f8e398/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=11fe19c1a79cd82f0c7dad6289cbf1a8",
       "pub_date": "Fri, 08 May 2026 04:00:37 GMT",
@@ -152795,7 +152795,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-08T05:50:28.502Z",
       "created_at": "2026-05-08T05:50:28.502Z"
@@ -152805,14 +152805,14 @@
       "source": "XOR Journal (TG)",
       "title_en": "Точно пригодится: гений создал открытую CLI-утилиту, чтобы следить за блокировками от РКН. Она показывает, почему сайт не открывается — из-за проблем сети или из-за блокировок.«Инструмент определяет, ",
       "description_en": "Точно пригодится: гений создал открытую CLI-утилиту, чтобы следить за блокировками от РКН. Она показывает, почему сайт не открывается — из-за проблем сети или из-за блокировок.«Инструмент определяет, находится ли ваше соединение в зоне блокировки RKN/TSPU — и, что более полезно, какой именно тип блокировки (отравление DNS, сброс TCP, TLS DPI на SNI или страница‑заглушка от провайдера).»Какие времена, такие и утилиты 🙂@xor_journal",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "גאון יצר CLI טול פתוח לניטור חסימות RKN - זה בדיוק מה שצריך",
+      "description_he": "מישהו יצר כלי שורת פקודה פתוחה מדהימה שמגיעה בדיוק לעניין: היא אומרת לך בדיוק למה האתר לא נפתח - האם זו בעיה ברשת או חסימה ממשלתית. הטול מזהה אם אתה בזונת חסימה של RKN/TSPU ויותר חשוב מזה - הוא מדווח בדיוק איזה סוג חסימה זה (DNS poisoning, TCP reset, TLS DPI בSNI או עמוד בלוק מהספק). כל מה שצריך לדעת בשורה אחת, פשוט וביעיל.",
       "link": "https://t.me/xor_journal/9203",
       "image_url": "https://cdn4.telesco.pe/file/FKODQCAh45l09yK4734Xm52JTrc_xvJvOPLhZQMjJdCyR_Gc-UNi33nb2ccvpK8rn6i9HuxWPN3RLfF6o1FNYVqXjQYeHObOwfASkJWzQZlckqphj96Kr__wzpXB8-d2pHgAtdXySamXY2CzBZak2vRfrYBfHNuPti6uQv3mbRjTTRhvVBQ8edzzt3E4-HD087N3f2C4lZccn34PD_bBmsxP1pyzXL_BjXVKreDGN8atQxkUUsp7hBmlj3_tswBbpSJfRTIyAhUlbPXTuklQZrAGQ6O0PXywsEORwyVJuIc3CXaTssKeyG5FGv-o93nS2WyDa-XPJoiS5Mo-KH3H9w.jpg",
       "pub_date": "2026-05-08T04:40:06+00:00",
       "author": null,
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-08T05:50:30.399Z",
       "created_at": "2026-05-08T05:50:30.399Z"
