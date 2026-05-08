@@ -1,9 +1,9 @@
 {
-  "total": 7491,
-  "translated": 7491,
+  "total": 7498,
+  "translated": 7498,
   "untranslated": 0,
-  "today": 78,
-  "week": 1016,
+  "today": 85,
+  "week": 1023,
   "sources": [
     {
       "name": "Product Hunt",
@@ -31,14 +31,14 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 361,
-      "translated": 361,
+      "total": 362,
+      "translated": 362,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 334,
-      "translated": 334,
+      "total": 335,
+      "translated": 335,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 280,
-      "translated": 280,
+      "total": 281,
+      "translated": 281,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -73,8 +73,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 252,
-      "translated": 252,
+      "total": 253,
+      "translated": 253,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -85,9 +85,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 165,
-      "translated": 165,
-      "lastDate": "2026-05-08T13:31:37.000Z"
+      "total": 166,
+      "translated": 166,
+      "lastDate": "2026-05-08T15:25:02.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -97,14 +97,14 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 110,
-      "translated": 110,
+      "total": 111,
+      "translated": 111,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
       "name": "MIT Technology Review",
-      "total": 109,
-      "translated": 109,
+      "total": 110,
+      "translated": 110,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-08T15:58:08.493Z"
+  "generatedAt": "2026-05-08T16:45:09.728Z"
 }
