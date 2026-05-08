@@ -1,9 +1,9 @@
 {
-  "total": 7478,
-  "translated": 7478,
+  "total": 7487,
+  "translated": 7487,
   "untranslated": 0,
-  "today": 65,
-  "week": 1003,
+  "today": 74,
+  "week": 1012,
   "sources": [
     {
       "name": "Product Hunt",
@@ -31,8 +31,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 360,
-      "translated": 360,
+      "total": 361,
+      "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 300,
-      "translated": 300,
+      "total": 301,
+      "translated": 301,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 279,
-      "translated": 279,
+      "total": 280,
+      "translated": 280,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -73,14 +73,14 @@
     },
     {
       "name": "The Decoder",
-      "total": 251,
-      "translated": 251,
+      "total": 252,
+      "translated": 252,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "The Guardian AI",
-      "total": 190,
-      "translated": 190,
+      "total": 193,
+      "translated": 193,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -139,9 +139,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 51,
-      "translated": 51,
-      "lastDate": "2026-05-08T11:20:48+00:00"
+      "total": 52,
+      "translated": 52,
+      "lastDate": "2026-05-08T14:09:01+00:00"
     },
     {
       "name": "XOR Journal (TG)",
@@ -168,6 +168,12 @@
       "lastDate": "2026-05-08T07:01:47+00:00"
     },
     {
+      "name": "Hi, AI Russian (TG)",
+      "total": 30,
+      "translated": 30,
+      "lastDate": "2026-05-08T14:35:25+00:00"
+    },
+    {
       "name": "pymnts.com",
       "total": 29,
       "translated": 29,
@@ -178,12 +184,6 @@
       "total": 29,
       "translated": 29,
       "lastDate": "2026-05-08T09:15:27+00:00"
-    },
-    {
-      "name": "Hi, AI Russian (TG)",
-      "total": 29,
-      "translated": 29,
-      "lastDate": "2026-05-08T12:03:52+00:00"
     },
     {
       "name": "Nature Machine Intelligence",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-08T14:22:03.512Z"
+  "generatedAt": "2026-05-08T15:04:06.314Z"
 }
