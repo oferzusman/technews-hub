@@ -154864,8 +154864,8 @@
       "source": "Ars Technica",
       "title_en": "ABC refuses to capitulate to Trump admin, fights FCC probe into The View",
       "description_en": "FCC chair hasn't been able to bully ABC and owner Disney into submission.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ABC מסרבת להיכנע לממשל טראמפ, נלחמת בחקירת FCC על The View",
+      "description_he": "ABC ודיסני לא מעוניינות להשתמע ללחץ - יושב ראש ה-FCC לא הצליח עד כה לכפוף אותן לרצונו. הערוץ לוחם בחקירה נגדו כאשר הממשל מנסה להשתמש בכוח הרגולטורי כדי להטיל עונש על תחנות טלוויזיה שנתפסו כעוינות לטראמפ.",
       "link": "https://arstechnica.com/tech-policy/2026/05/abc-fights-trump-fccs-attempt-to-control-content-of-broadcast-tv-shows/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/the-view-1152x648-1770666942.jpg",
       "pub_date": "Fri, 08 May 2026 21:08:42 +0000",
@@ -154878,7 +154878,7 @@
         "The View",
         "Trump"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-08T21:43:30.571Z",
       "created_at": "2026-05-08T21:43:30.571Z"
@@ -154888,8 +154888,8 @@
       "source": "Ars Technica",
       "title_en": "Sony says \"efficient\" AI tools will lead to even more games flooding the market",
       "description_en": "But human artists still \"must remain at the center,\" PlayStation maker says.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "סוני: כלי AI יעילים יביאו לפיצוץ של משחקים בשוק",
+      "description_he": "יצרנית ה-PlayStation חושבת שהטכנולוגיה תמיד תהיה כלי עוזר בלבד - והיוצרים האנושיים יישארו בלב התהליך. סוני משוכנעת שAI יאפשר לסטודיוהים קטנים יותר להפיק תוכן באופן יותר יעיל, אבל זה לא יחליף את העבודה של אמנים ומעצבי משחקים.",
       "link": "https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2264634340-1152x648.jpg",
       "pub_date": "Fri, 08 May 2026 20:51:17 +0000",
@@ -154904,7 +154904,7 @@
         "Sony",
         "vibe coding"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-08T21:43:30.571Z",
       "created_at": "2026-05-08T21:43:30.571Z"
@@ -154914,8 +154914,8 @@
       "source": "Ars Technica",
       "title_en": "The unprecedented and deadly cruise ship hantavirus outbreak, explained",
       "description_en": "\"This is not COVID,\" and other reasons why risk to the public is currently low.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "התפרצות הנדירה והקטלנית של הנטה וירוס בספינת תיירים - מה בעצם קרה שם",
+      "description_he": "זה לא COVID, וזה רחוק מלהיות זעם בקנה מידה עולמי - אבל ההתפרצות של נטה וירוס בספינת תיירים היא כל כך נדירה שכדאי להבין מה בעצם קרה ולים אומרים שהסיכון לציבור הרחב הוא נמוך כרגע. Ars Technica בדקו את הפרטים.",
       "link": "https://arstechnica.com/health/2026/05/everything-you-need-to-know-about-the-hantavirus-cruise-ship-outbreak/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2274223105-1152x648.jpg",
       "pub_date": "Fri, 08 May 2026 20:42:35 +0000",
@@ -154926,7 +154926,7 @@
         "hantavirus",
         "virus"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-08T21:43:30.571Z",
       "created_at": "2026-05-08T21:43:30.571Z"
@@ -154936,8 +154936,8 @@
       "source": "MarkTechPost",
       "title_en": "How to Build a Single-Cell RNA-seq Analysis Pipeline with Scanpy for PBMC Clustering, Annotation, and Trajectory Discovery",
       "description_en": "In this tutorial, we perform an advanced single-cell RNA-seq analysis workflow using Scanpy on the PBMC-3k benchmark dataset. We start by loading the dataset, inspecting its structure, and applying quality control checks to evaluate gene counts, total counts, mitochondrial content, and ribosomal gene signals. We then filter low-quality cells and genes, detect potential doublets with […]\nThe post How to Build a Single-Cell RNA-seq Analysis Pipeline with Scanpy for PBMC Clustering, Annotation, and",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "איך לבנות Pipeline לניתוח Single-Cell RNA-seq עם Scanpy לקלסטרינג PBMC, Annotation וגילוי Trajectory",
+      "description_he": "סקנו מציגה לכם טיול מעמיק בעולם ניתוח single-cell RNA-seq בעזרת ספריית Scanpy - כלי חזק למי שעובד עם ביואינפורמטיקה. המדריך מכסה הכל מטעינת הנתונים של PBMC, בדיקות איכות שלהם, סינון תאים וגנים של נמוכה איכות, עד לגילוי doublets וביצוע clustering וAnnotation של התאים. זה משהו שישמח כל חוקר ביולוגיה חישובית שרוצה להבין את המורכבות של יחיד תא בצורה אמיתית.",
       "link": "https://www.marktechpost.com/2026/05/08/how-to-build-a-single-cell-rna-seq-analysis-pipeline-with-scanpy-for-pbmc-clustering-annotation-and-trajectory-discovery/",
       "image_url": null,
       "pub_date": "Fri, 08 May 2026 21:32:12 +0000",
@@ -154953,7 +154953,7 @@
         "Technology",
         "Tutorials"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-08T21:43:32.084Z",
       "created_at": "2026-05-08T21:43:32.084Z"
