@@ -1,9 +1,9 @@
 {
-  "total": 7472,
-  "translated": 7472,
+  "total": 7475,
+  "translated": 7475,
   "untranslated": 0,
-  "today": 59,
-  "week": 997,
+  "today": 62,
+  "week": 1000,
   "sources": [
     {
       "name": "Product Hunt",
@@ -31,8 +31,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 359,
-      "translated": 359,
+      "total": 360,
+      "translated": 360,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -73,8 +73,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 250,
-      "translated": 250,
+      "total": 251,
+      "translated": 251,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -240,16 +240,16 @@
       "lastDate": "2026-04-09T07:04:31Z"
     },
     {
+      "name": "Data Science ODS.ai (TG)",
+      "total": 20,
+      "translated": 20,
+      "lastDate": "2026-05-08T13:10:13+00:00"
+    },
+    {
       "name": "Prompt AI News (TG)",
       "total": 20,
       "translated": 20,
       "lastDate": "2026-04-09T11:00:02+00:00"
-    },
-    {
-      "name": "Data Science ODS.ai (TG)",
-      "total": 19,
-      "translated": 19,
-      "lastDate": "2026-05-08T06:53:12+00:00"
     },
     {
       "name": "Nature.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-08T13:26:17.687Z"
+  "generatedAt": "2026-05-08T13:28:13.907Z"
 }
