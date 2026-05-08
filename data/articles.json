@@ -153182,6 +153182,64 @@
       "priority": "hot",
       "fetchedAt": "2026-05-08T08:56:14.668Z",
       "created_at": "2026-05-08T08:56:14.668Z"
+    },
+    {
+      "id": 7447,
+      "source": "The Decoder",
+      "title_en": "Mozilla's agentic AI pipeline turns Claude Mythos Preview loose and finds 271 unknown Firefox vulnerabilities",
+      "description_en": "Anthropic's Claude Mythos Preview uncovered 271 previously unknown security vulnerabilities in Firefox 150, including bugs up to 20 years old. Mozilla describes an agentic pipeline where the AI builds and runs its own test cases to filter out false positives. Going forward, every new piece of code is to be automatically checked before commit.\nThe article Mozilla's agentic AI pipeline turns Claude Mythos Preview loose and finds 271 unknown Firefox vulnerabilities appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/mozillas-agentic-ai-pipeline-turns-claude-mythos-preview-loose-and-finds-271-unknown-firefox-vulnerabilities/",
+      "image_url": null,
+      "pub_date": "Fri, 08 May 2026 09:23:28 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Claude Mythos",
+        "Firefox",
+        "Mozilla"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-08T10:03:23.589Z",
+      "created_at": "2026-05-08T10:03:23.589Z"
+    },
+    {
+      "id": 7448,
+      "source": "New Atlas",
+      "title_en": "Diabetes 'wonder drug' doesn't work like expected – but it's good news",
+      "description_en": "It's long been thought that the type-2 diabetes drug taken by an estimated 20 million Americans was doing its heavy lifting in the liver, suppressing the production of glucose to regulate blood sugar. But new research has uncovered it's actually working its magic in the gut – which opens the door to the possibility of finding new compounds that perform the same function.\nContinue Reading\nCategory: Diabetes, Illnesses and conditions, Body and Mind\nTags: Northwestern University, Diabetes, Type 2 d",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/diabetes/metformin-gut-health-benefits/",
+      "image_url": null,
+      "pub_date": "Fri, 08 May 2026 09:00:00 GMT",
+      "author": "Bronwyn Thompson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-08T10:03:24.531Z",
+      "created_at": "2026-05-08T10:03:24.531Z"
+    },
+    {
+      "id": 7449,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ ElevenLabs растоптали: стартап Inworld выпустил Realtime TTS-2 — самый живой генератор голоса в риалтайме. Он умеет в любые речевые нюансы и не звучит, как аудиокнига.Моделька уже взорвала престижн",
+      "description_en": "⚡️ ElevenLabs растоптали: стартап Inworld выпустил Realtime TTS-2 — самый живой генератор голоса в риалтайме. Он умеет в любые речевые нюансы и не звучит, как аудиокнига.Моделька уже взорвала престижный чарт Artificial Analysis и ворвалась в топ-1️⃣, обойдя OpenAI, Gemini и ElevenLabs.• Принципиальная разница — Realtime TTS-2 училась на живых диалогах, а не на аудиокнигах. • Есть слуховой контекст — модель получает на вход не сухой текст, а аудио предыдущей реплики. Если вы только что пошутили и",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28273",
+      "image_url": null,
+      "pub_date": "2026-05-08T09:15:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-08T10:03:30.429Z",
+      "created_at": "2026-05-08T10:03:30.429Z"
     }
   ]
 }
