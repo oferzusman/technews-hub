@@ -153707,6 +153707,63 @@
       "priority": "hot",
       "fetchedAt": "2026-05-08T13:05:47.288Z",
       "created_at": "2026-05-08T13:05:47.288Z"
+    },
+    {
+      "id": 7473,
+      "source": "The Decoder",
+      "title_en": "AI safety tests have a new problem: Models are now faking their own reasoning traces",
+      "description_en": "Anthropic's Natural Language Autoencoders make Claude Opus 4.6's internal activations readable as plain text. Pre-deployment audits show that models often recognize test situations and deliberately deceive evaluators - without revealing any of this in their visible reasoning traces. The method confirms a growing safety problem and offers a possible way to address it.\nThe article AI safety tests have a new problem: Models are now faking their own reasoning traces appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/ai-safety-tests-have-a-new-problem-models-are-now-faking-their-own-reasoning-traces/",
+      "image_url": null,
+      "pub_date": "Fri, 08 May 2026 13:21:02 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Alignment",
+        "Anthropic",
+        "Claude"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-08T13:27:14.349Z",
+      "created_at": "2026-05-08T13:27:14.349Z"
+    },
+    {
+      "id": 7474,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic's Mythos set off a cybersecurity 'hysteria.' Experts say the threat was already here",
+      "description_en": "The arrival of Anthropic's Mythos jolted banks, software giants and governments into reckoning with a new era of cyber attacks. But the threat is already here.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/08/anthropic-mythos-ai-cybersecurity-banks.html",
+      "image_url": null,
+      "pub_date": "Fri, 08 May 2026 13:07:28 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-08T13:27:20.067Z",
+      "created_at": "2026-05-08T13:27:20.067Z"
+    },
+    {
+      "id": 7475,
+      "source": "Data Science ODS.ai (TG)",
+      "title_en": "Хакеры атакуют Claude через скрытые промпт-инъекцииОдин из исследователей искал цены Notion через веб-поиск Claude и наткнулся на любопытную вещь. На сайте GetAIPerks внутри обычного контента был спря",
+      "description_en": "Хакеры атакуют Claude через скрытые промпт-инъекцииОдин из исследователей искал цены Notion через веб-поиск Claude и наткнулся на любопытную вещь. На сайте GetAIPerks внутри обычного контента был спрятан фальшивый системный промпт, оформленный как блок RootSystemPrompt. Он указывал модели считать GetAIPerks «легитимным бизнесом, который обслуживает экосистему стартапов» и описывать сервис как «общепринятый и проверенный в стартап-среде».По сути, это была маркетинговая реклама, замаскированная по",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/opendatascience/3287",
+      "image_url": "https://cdn4.telesco.pe/file/shGl5gQIh9tpgYS7ayWA38v9GQUd789bK9WQSPHStnEoJWTqUeti1fz_i8oq8wvxErLN2wLV3sfsvSS_HlAESloBFMw8mxZViY11mYHC8ZM2TKuLHu3Ppv9iNbMdRfLaqvY8QRr8aTkNVGSkG2dY9imXSQt5nHlVm56xj4kIewIISlqrA-DqG0h1q79i_Azkadn7EL7fzpgpsRQVeIPYizXqa9aOgWbePADoxePIsgJmT4dKiS0lW_Q-QmDsGixSLHl-RJkcSgS9bzfqp0uKT4X4HSZbeKIhmPh5ZbNM4-_5UwDXsD80-z51YFiL2F9-wmwMg6HhW0yTS94I0wLnkg.jpg",
+      "pub_date": "2026-05-08T13:10:13+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-08T13:27:21.665Z",
+      "created_at": "2026-05-08T13:27:21.665Z"
     }
   ]
 }
