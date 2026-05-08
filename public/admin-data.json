@@ -1,9 +1,9 @@
 {
-  "total": 7487,
-  "translated": 7487,
+  "total": 7490,
+  "translated": 7490,
   "untranslated": 0,
-  "today": 74,
-  "week": 1012,
+  "today": 77,
+  "week": 1015,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 515,
-      "translated": 515,
+      "total": 516,
+      "translated": 516,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -127,8 +127,8 @@
     },
     {
       "name": "AI News",
-      "total": 66,
-      "translated": 66,
+      "total": 67,
+      "translated": 67,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
     {
@@ -151,8 +151,8 @@
     },
     {
       "name": "Google AI Blog",
-      "total": 37,
-      "translated": 37,
+      "total": 38,
+      "translated": 38,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-08T15:05:31.046Z"
+  "generatedAt": "2026-05-08T15:09:07.500Z"
 }
