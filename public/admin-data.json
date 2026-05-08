@@ -1,9 +1,9 @@
 {
-  "total": 7417,
-  "translated": 7417,
+  "total": 7422,
+  "translated": 7422,
   "untranslated": 0,
-  "today": 4,
-  "week": 942,
+  "today": 9,
+  "week": 947,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 516,
-      "translated": 516,
+      "total": 517,
+      "translated": 517,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 509,
-      "translated": 509,
+      "total": 510,
+      "translated": 510,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 297,
-      "translated": 297,
+      "total": 298,
+      "translated": 298,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 187,
-      "translated": 187,
+      "total": 188,
+      "translated": 188,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -139,9 +139,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 47,
-      "translated": 47,
-      "lastDate": "2026-05-07T23:57:01+00:00"
+      "total": 48,
+      "translated": 48,
+      "lastDate": "2026-05-08T02:41:01+00:00"
     },
     {
       "name": "XOR Journal (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-08T01:24:18.785Z"
+  "generatedAt": "2026-05-08T03:52:25.106Z"
 }
