@@ -154653,6 +154653,59 @@
       "priority": "hot",
       "fetchedAt": "2026-05-08T19:11:38.193Z",
       "created_at": "2026-05-08T19:11:38.193Z"
+    },
+    {
+      "id": 7514,
+      "source": "The Verge AI",
+      "title_en": "Nanoleaf bets its future on robots, red light therapy, and AI",
+      "description_en": "Nanoleaf teased a trio of new products focused on embodied AI as it looks to move its brand beyond smart lighting. | Image: Nanoleaf\t\n\nSmart lighting company Nanoleaf has been unusually quiet recently. While competitors such as Govee and Philips Hue have been pumping out new products and innovative features at an impressive pace, Nanoleaf has launched just a handful of smart lighting products in the last two years. There's a reason for this lull - the company has been going through a \"brand evol",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness",
+      "image_url": null,
+      "pub_date": "2026-05-08T12:15:00.000Z",
+      "author": "Jennifer Pattison Tuohy",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-08T19:41:06.651Z",
+      "created_at": "2026-05-08T19:41:06.651Z"
+    },
+    {
+      "id": 7515,
+      "source": "OpenAI Blog",
+      "title_en": "Running Codex safely at OpenAI",
+      "description_en": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/running-codex-safely",
+      "image_url": null,
+      "pub_date": "Fri, 08 May 2026 12:30:00 GMT",
+      "author": null,
+      "categories": [
+        "Security"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-08T19:41:08.264Z",
+      "created_at": "2026-05-08T19:41:08.264Z"
+    },
+    {
+      "id": 7516,
+      "source": "CNBC Tech",
+      "title_en": "Wall Street sees 'changing of the guard in AI' as Intel, AMD shares soar while Nvidia lags",
+      "description_en": "Intel, AMD and Micron surged double digits this week as investors bet on CPU makers and memory companies powering the next stage of AI",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/08/wall-street-ai-chip-love-moves-from-nvidia-to-intel-amd-and-micron.html",
+      "image_url": null,
+      "pub_date": "Fri, 08 May 2026 19:23:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-08T19:41:12.950Z",
+      "created_at": "2026-05-08T19:41:12.950Z"
     }
   ]
 }
