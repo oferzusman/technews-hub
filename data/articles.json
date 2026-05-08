@@ -152565,6 +152565,119 @@
       "priority": "hot",
       "fetchedAt": "2026-05-08T00:05:44.524Z",
       "created_at": "2026-05-08T00:05:44.524Z"
+    },
+    {
+      "id": 7418,
+      "source": "New Atlas",
+      "title_en": "Tiny clamshell camper cranks into madly efficient untethered habitat",
+      "description_en": "Originally envisioned as a Tesla Model 3 hatch camper, the all-new Wheelhome Dashaway ECT micro-camping trailer series eventually earned its own wheels. It's still aimed at efficient all-electric camping trips but is able to furnish travelers with a surprising number of amenities, giving an adventurer or two everything they need to survive in comfort: a cozy lounge-cum-bedroom, a high-efficiency kitchen, cargo storage and even a toilet room, all in a pop-up wedge-shaped vessel inspired by a roof",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/camping-trailers/wheelhome-dashaway-clamshell-camper/",
+      "image_url": null,
+      "pub_date": "Fri, 08 May 2026 02:03:00 GMT",
+      "author": "C.C. Weiss",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-08T03:51:12.495Z",
+      "created_at": "2026-05-08T03:51:12.495Z"
+    },
+    {
+      "id": 7419,
+      "source": "The Guardian AI",
+      "title_en": "The AI jailbreakers – podcast",
+      "description_en": "Journalist Jamie Bartlett on the people trying to get AI to say things it shouldn’t … for the safety of us all\nAll the major AI chatbots – from ChatGPT to Gemini to Grok to Claude – have things they should and shouldn’t say.\nHate speech, criminal material, exploitation of vulnerable users – all of this is content that the most successful large language models in the world shouldn’t produce, that their safety features should guard against.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/news/audio/2026/may/08/the-ai-jailbreakers-podcast",
+      "image_url": "https://i.guim.co.uk/img/media/514564b10d9a0052b893e014fdc15e5683457169/61_0_3163_2530/master/3163.jpg?width=140&quality=85&auto=format&fit=max&s=42e01166c5b433a792dd5f57e24df78e",
+      "pub_date": "Fri, 08 May 2026 02:00:32 GMT",
+      "author": "Presented by Annie Kelly with Jamie Bartlett; produced by Guy Szafman and Brian McNamara; executive producers Elizabeth Cassin and Sami Kent",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Hacking",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/hacking"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-08T03:51:12.853Z",
+      "created_at": "2026-05-08T03:51:12.853Z"
+    },
+    {
+      "id": 7420,
+      "source": "Interesting Engineering",
+      "title_en": "Pangea 5: TotalEnergies unveils AI supercomputer with 6x computing power",
+      "description_en": "French energy major TotalEnergies is building a new high-performance supercomputer called Pangea 5 to expand...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/totalenergies-pangea5-supercomputer-ai-seismic-imaging",
+      "image_url": null,
+      "pub_date": "Fri, 08 May 2026 00:15:44 +0000",
+      "author": "Neetika Walter",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-08T03:51:16.079Z",
+      "created_at": "2026-05-08T03:51:16.079Z"
+    },
+    {
+      "id": 7421,
+      "source": "Tom's Hardware",
+      "title_en": "Devastating 'Dirty Frag' exploit leaks out, gives immediate root access on most Linux machines since 2017, no patches available, no warning given — Copy Fail-like vulnerability had its embargo broken",
+      "description_en": "Dirty Frag exploit gets root on most Linux machines since 2017, no patches available",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/dirty-frag-exploit-gets-root-on-most-linux-machines-since-2017-no-patches-available-no-warning-given-copy-fail-like-vulnerability-had-its-embargo-broken",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/jUiTQD8NGQavENsfMbTkPH-1280-80.jpg",
+      "pub_date": "Fri, 08 May 2026 00:17:41 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Cybersecurity",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-08T03:51:16.375Z",
+      "created_at": "2026-05-08T03:51:16.375Z"
+    },
+    {
+      "id": 7422,
+      "source": "AI Post (TG)",
+      "title_en": "🏘 Nvidia wants to turn homes into AI data centersInstead of building giant server farms, startup Span is testing a strange new idea with Nvidia and homebuilder PulteGroup: installing mini AI compute ",
+      "description_en": "🏘 Nvidia wants to turn homes into AI data centersInstead of building giant server farms, startup Span is testing a strange new idea with Nvidia and homebuilder PulteGroup: installing mini AI compute hubs directly onto houses.The system, called XFRA, places a box with around 16 Blackwell GPUs outside the home. Span’s smart panel sends unused household electricity to the GPUs for AI workloads.So your house could literally help run AI models while you sleep.In return, homeowners could get cheaper ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6848",
+      "image_url": "https://cdn4.telesco.pe/file/cJEt1U0A3tIi5W1xSJi2zOKSr3G_jF3mvn0Urz0_oLAr9R1HhNMv1aacZtpZsRypgDWHnkl15VckNA5g6h3gdwpryDIr-aIupIIxGe6zT6swvoXu5C-TqNRpy4SouoKBjp5085-BXHNrmGaf297kSJilOIDNMohF073NcGYu5QG4sJOKEgnFaCXt5OVtLsbugx3_r9ydfn_DfkBZEsAqwyxa2_d2NMoWhI6L-Ti7lmLRTzUDaX74boYlnqdUjtd8XSIaMsJzDFuALDx_HPt-v25gHBCK16BpI4VjbsN7L-h5WTjl-jVKnc3U8I7zQjPL5R585gMPEGR4N83Z2sl7JQ.jpg",
+      "pub_date": "2026-05-08T02:41:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-08T03:51:21.691Z",
+      "created_at": "2026-05-08T03:51:21.691Z"
     }
   ]
 }
