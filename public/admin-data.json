@@ -1,9 +1,9 @@
 {
-  "total": 7475,
-  "translated": 7475,
+  "total": 7478,
+  "translated": 7478,
   "untranslated": 0,
-  "today": 62,
-  "week": 1000,
+  "today": 65,
+  "week": 1003,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 514,
-      "translated": 514,
+      "total": 515,
+      "translated": 515,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -85,9 +85,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 164,
-      "translated": 164,
-      "lastDate": "2026-05-07T19:55:22.000Z"
+      "total": 165,
+      "translated": 165,
+      "lastDate": "2026-05-08T13:31:37.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -145,9 +145,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 43,
-      "translated": 43,
-      "lastDate": "2026-05-08T12:43:14+00:00"
+      "total": 44,
+      "translated": 44,
+      "lastDate": "2026-05-08T13:27:56+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-08T13:28:13.907Z"
+  "generatedAt": "2026-05-08T13:49:01.321Z"
 }
