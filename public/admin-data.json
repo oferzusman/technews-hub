@@ -1,15 +1,15 @@
 {
-  "total": 7432,
-  "translated": 7432,
+  "total": 7443,
+  "translated": 7443,
   "untranslated": 0,
-  "today": 19,
-  "week": 957,
+  "today": 30,
+  "week": 968,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 891,
-      "translated": 891,
-      "lastDate": "2026-05-07T14:17:36.000Z"
+      "total": 896,
+      "translated": 896,
+      "lastDate": "2026-05-07T22:32:29.000Z"
     },
     {
       "name": "Tom's Hardware",
@@ -91,14 +91,14 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 150,
-      "translated": 150,
+      "total": 152,
+      "translated": 152,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
       "name": "Hugging Face Blog",
-      "total": 109,
-      "translated": 109,
+      "total": 110,
+      "translated": 110,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -145,9 +145,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 40,
-      "translated": 40,
-      "lastDate": "2026-05-08T04:40:06+00:00"
+      "total": 41,
+      "translated": 41,
+      "lastDate": "2026-05-08T07:37:13+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -180,28 +180,28 @@
       "lastDate": "2026-05-07T00:00:00.000Z"
     },
     {
+      "name": "Backdoor (TG)",
+      "total": 28,
+      "translated": 28,
+      "lastDate": "2026-05-08T07:35:15+00:00"
+    },
+    {
       "name": "Hi, AI Russian (TG)",
       "total": 28,
       "translated": 28,
       "lastDate": "2026-05-08T06:14:27+00:00"
     },
     {
-      "name": "Backdoor (TG)",
+      "name": "Hi, AI English (TG)",
       "total": 27,
       "translated": 27,
-      "lastDate": "2026-05-07T06:23:01+00:00"
+      "lastDate": "2026-05-08T07:33:40+00:00"
     },
     {
       "name": "Financial Post",
       "total": 26,
       "translated": 26,
       "lastDate": "2026-04-09T04:35:19Z"
-    },
-    {
-      "name": "Hi, AI English (TG)",
-      "total": 26,
-      "translated": 26,
-      "lastDate": "2026-05-07T18:34:38+00:00"
     },
     {
       "name": "Ibtimes.com.au",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-08T08:06:38.066Z"
+  "generatedAt": "2026-05-08T08:11:10.871Z"
 }
