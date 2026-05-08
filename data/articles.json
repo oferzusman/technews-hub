@@ -154375,6 +154375,76 @@
       "priority": "hot",
       "fetchedAt": "2026-05-08T16:43:48.300Z",
       "created_at": "2026-05-08T16:43:48.300Z"
+    },
+    {
+      "id": 7499,
+      "source": "The Verge AI",
+      "title_en": "PlayStation sees AI as a ‘powerful tool’ to help make games",
+      "description_en": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generative AI has recently been showing up in bigger games - though many indie developers still reject it - and while Sony calls AI a \"powerful tool,\" it says that the \"vision, the design, and the emotional impact of our games will always come from the talent of our studios and performers.\" and that \"AI is m",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
+      "image_url": null,
+      "pub_date": "2026-05-08T16:30:56.000Z",
+      "author": "Jay Peters",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-08T16:51:37.612Z",
+      "created_at": "2026-05-08T16:51:37.612Z"
+    },
+    {
+      "id": 7500,
+      "source": "OpenAI Blog",
+      "title_en": "How ChatGPT learns about the world while protecting privacy",
+      "description_en": "Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve AI models.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/how-chatgpt-protects-privacy",
+      "image_url": null,
+      "pub_date": "Wed, 06 May 2026 08:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Global Affairs"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-08T16:51:39.440Z",
+      "created_at": "2026-05-08T16:51:39.440Z"
+    },
+    {
+      "id": 7501,
+      "source": "Interesting Engineering",
+      "title_en": "New Pentagon UFO archives detail Apollo 17 moon anomalies and strange drone lights",
+      "description_en": "The conspiracy theorists, YouTubers, and tin-foil hatters have long kept the UFO conversation alive, pushing...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/culture/new-pentagon-ufo-archives-detail-apollo-17-moon-anomalies-and-strange-drone-lights",
+      "image_url": null,
+      "pub_date": "Fri, 08 May 2026 16:42:07 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-08T16:51:43.114Z",
+      "created_at": "2026-05-08T16:51:43.114Z"
+    },
+    {
+      "id": 7502,
+      "source": "Data Science ODS.ai (TG)",
+      "title_en": "Специалист по кибербезопасности Маркус Хатчинс (известный тем, что остановил распространение шифровальщика WannaCry) провел эксперимент по автоматизации поиска 0-day уязвимостей  с помощью ИИ-модели C",
+      "description_en": "Специалист по кибербезопасности Маркус Хатчинс (известный тем, что остановил распространение шифровальщика WannaCry) провел эксперимент по автоматизации поиска 0-day уязвимостей  с помощью ИИ-модели Claude Opus без ограничений безопасности.По его наблюдениям, современные нейросети не обладают магическими способностями и в реальности плохо понимают архитектуру компьютера. Они работают исключительно как механизмы поиска знакомых паттернов в коде. Маркусу пришлось самостоятельно писать скрипты для ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/opendatascience/3288",
+      "image_url": "https://cdn4.telesco.pe/file/EAPfx59YNOIStxIR7lTew5HkMxGGS_HjIzbJyaetnChupvIbkdiJlR9vMP-sYLCLlJb_83Bmm8lHuCKx2HW3X_MC7brGOecdE_hryseL8FzyNdQq2acFnBda2XDK_g4iEK_Mz1CxQ0dgRlIbmzpv4dGvS3qNPTPWTf45i2ZqZ2kptUPntBMtEjtAy8ODd8Zz6sXoqafdaYE_J7bFrAQQc6BRkX-nbfUSFApaaBJBuicSywOfotA0w8cLSozwTeHx8eBcY_Mitm1q8891uSg8clcUucsM79VPf7vh08qvU-ni3a59Z0_8WFQNfwOiNoxofqinHEdOOMiZE0jz2rryxg.jpg",
+      "pub_date": "2026-05-08T16:45:41+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-08T16:51:45.338Z",
+      "created_at": "2026-05-08T16:51:45.338Z"
     }
   ]
 }
