@@ -152684,8 +152684,8 @@
       "source": "MarkTechPost",
       "title_en": "Build a CloakBrowser Automation Workflow with Stealth Chromium, Persistent Profiles, and Browser Signal Inspection",
       "description_en": "In this tutorial, we explore CloakBrowser, a Python-friendly browser automation tool that uses Playwright-style APIs within a stealth Chromium environment. We begin by setting up CloakBrowser, preparing the required browser binary, and resolving the common Colab asyncio loop issue by running the sync browser workflow in a separate worker thread. We then move through practical […]\nThe post Build a CloakBrowser Automation Workflow with Stealth Chromium, Persistent Profiles, and Browser Signal Insp",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "בניית Workflow לאוטומציה של CloakBrowser עם Stealth Chromium, פרופילים קבועים וביקורת Browser Signal",
+      "description_he": "סיור מעמיק ב-CloakBrowser, כלי automation לדפדפנים שנבנה על Python ומעמיד פנים להיות דפדפן רגיל עם Stealth Chromium. המדריך עוזר לכם להגדיר את הכלי, להתמודד עם בעיות asyncio ב-Google Colab, ולהשתמש בפרופילים קבועים שלא נשכחים בין הסשנים - כל זה כדי שהדפדפן שלכם לא יהיה מושתק בעת הסקרייפינג או בדיקות אוטומטיות.",
       "link": "https://www.marktechpost.com/2026/05/07/build-a-cloakbrowser-automation-workflow-with-stealth-chromium-persistent-profiles-and-browser-signal-inspection/",
       "image_url": null,
       "pub_date": "Fri, 08 May 2026 00:14:49 +0000",
@@ -152696,7 +152696,7 @@
         "Editors Pick",
         "Tutorials"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-05-08T03:58:54.245Z",
       "created_at": "2026-05-08T03:58:54.245Z"
