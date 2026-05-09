@@ -155728,6 +155728,81 @@
       "priority": "hot",
       "fetchedAt": "2026-05-09T13:15:22.875Z",
       "created_at": "2026-05-09T13:15:22.875Z"
+    },
+    {
+      "id": 7566,
+      "source": "Interesting Engineering",
+      "title_en": "Physicists may have found a new route into the black hole information paradox",
+      "description_en": "Black holes have a problem that physicists still cannot explain. According to Stephen Hawking’s famous...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/space/physicists-route-black-hole-information-paradox",
+      "image_url": "https://www.youtube.com/embed/rrKoLl_-eto",
+      "pub_date": "Sat, 09 May 2026 13:19:36 +0000",
+      "author": "Rupendra Brahambhatt",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-09T13:58:28.336Z",
+      "created_at": "2026-05-09T13:58:28.336Z"
+    },
+    {
+      "id": 7567,
+      "source": "Tom's Hardware",
+      "title_en": "Nextorage NEM-PAC 2TB SSD Review: A solid, PS5-ready workhorse",
+      "description_en": "The Nextorage NEM-PAC is a quiet contender with good performance and a PS5-compliant heatsink. It’s a competent Gen 4 SSD but is otherwise unexciting.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ssds/nextorage-nem-pac-2tb-ssd-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/7xU8eBvXyv5MqvrYVrExfN-1280-80.jpg",
+      "pub_date": "Sat, 09 May 2026 13:37:47 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "SSDs",
+        "PC Components",
+        "Storage"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-09T13:58:28.610Z",
+      "created_at": "2026-05-09T13:58:28.610Z"
+    },
+    {
+      "id": 7568,
+      "source": "Tom's Hardware",
+      "title_en": "Best budget gaming laptops of 2026: The best cheap laptops we've tested and benchmarked",
+      "description_en": "Gaming laptops are expensive, and only getting pricier as AI-driven shortages increase. Here are the best options for budget gaming laptops on the cheap, comprised of laptop models that we have tested throughout our full, stringent gaming test suite that measures performance in demanding graphical conditions.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/best-budget-gaming-laptops",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/XEJEag3LmxWAajjYbZPq3V-1280-80.jpg",
+      "pub_date": "Sat, 09 May 2026 13:17:38 +0000",
+      "author": " Andrew E. Freedman ",
+      "categories": [
+        "Gaming Laptops",
+        "Laptops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-09T13:58:28.610Z",
+      "created_at": "2026-05-09T13:58:28.610Z"
+    },
+    {
+      "id": 7569,
+      "source": "AI Post (TG)",
+      "title_en": "⚡️Google just found a way to make Gemma-4 generate text nearly 3× fasterInstead of predicting words one token at a time like most transformer models, Google introduced Multi-Token Prediction (MTP) dra",
+      "description_en": "⚡️Google just found a way to make Gemma-4 generate text nearly 3× fasterInstead of predicting words one token at a time like most transformer models, Google introduced Multi-Token Prediction (MTP) drafters for Gemma-4.Here’s the trick:A smaller auxiliary model “drafts” several tokens ahead, while the main model checks the entire batch in a single pass. If one token is wrong, it gets corrected and generation resumes from that exact point.That means fewer expensive passes through the main model an",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6862",
+      "image_url": "https://cdn4.telesco.pe/file/EMrb_0eKq4tXG2L683C8kYPHPcFUAIhUu18_U9fuj6c9KT-aw3LyTJD5h4kU-nPucELWNeOokt39829KA3lMFBYDHhre2aQNGCaaElazxitgkL5FIxYDPyReEy5D_5jsoxpEz6B816G93E00IGvgJTlMM8Bf2-asoX2dac9uwxBrLMj8FDkEy5qBpbbrVmUArCBjXhK9e1UySkg4GwBGbqyYfY02P6U7KYZybvrCfPO8a6XKJWI0-8Ob8gvQNH1TcUa9-EtnI9SCktPr04_RW2LnD7CXWvMh3rti4kZEGDrI8i_7vnnX_Nec4CEgcNEVPtytPShZEKF01Ny5RzxzPw.jpg",
+      "pub_date": "2026-05-09T13:51:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-09T13:58:30.819Z",
+      "created_at": "2026-05-09T13:58:30.819Z"
     }
   ]
 }
