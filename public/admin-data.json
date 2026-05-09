@@ -1,9 +1,9 @@
 {
-  "total": 7562,
-  "translated": 7562,
+  "total": 7565,
+  "translated": 7565,
   "untranslated": 0,
-  "today": 28,
-  "week": 1034,
+  "today": 31,
+  "week": 1037,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 527,
-      "translated": 527,
+      "total": 528,
+      "translated": 528,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 340,
-      "translated": 340,
+      "total": 341,
+      "translated": 341,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -223,9 +223,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 22,
-      "translated": 22,
-      "lastDate": "2026-05-09T09:55:52+00:00"
+      "total": 23,
+      "translated": 23,
+      "lastDate": "2026-05-09T12:52:03+00:00"
     },
     {
       "name": "Towards Data Science",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-09T12:43:02.393Z"
+  "generatedAt": "2026-05-09T13:16:08.543Z"
 }
