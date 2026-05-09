@@ -1,9 +1,9 @@
 {
-  "total": 7552,
-  "translated": 7552,
+  "total": 7554,
+  "translated": 7554,
   "untranslated": 0,
-  "today": 18,
-  "week": 1024,
+  "today": 20,
+  "week": 1026,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 521,
-      "translated": 521,
+      "total": 522,
+      "translated": 522,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 194,
-      "translated": 194,
+      "total": 195,
+      "translated": 195,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-09T10:03:15.943Z"
+  "generatedAt": "2026-05-09T10:15:09.463Z"
 }
