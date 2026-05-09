@@ -155925,6 +155925,95 @@
       "priority": "hot",
       "fetchedAt": "2026-05-09T15:00:52.709Z",
       "created_at": "2026-05-09T15:00:52.709Z"
+    },
+    {
+      "id": 7576,
+      "source": "The Guardian AI",
+      "title_en": "Google developers significantly misstate carbon emissions of proposed UK datacentres",
+      "description_en": "Emissions understated by factor of five in Essex plans for tech giant, while Greystoke’s Lincolnshire plans show similar error\nDevelopers working for Google have significantly misstated how much carbon two proposed AI datacentres will contribute to the UK’s total emissions in planning documents reviewed by the Guardian.\nThe tech company wants to build two huge datacentres – one 52-hectare (130 acre) project in Thurrock and another at an airfield in North Weald, both in Essex. To do so, developer",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/09/google-developers-significantly-misstate-carbon-emissions-of-proposed-uk-datacentres",
+      "image_url": "https://i.guim.co.uk/img/media/21cd8c4dd6b45f172b3127a755cd58f87745944b/908_7_1739_1392/master/1739.jpg?width=140&quality=85&auto=format&fit=max&s=5c9d8d6c1a184ae46296416015b4b046",
+      "pub_date": "Sat, 09 May 2026 16:00:01 GMT",
+      "author": "Aisha Down and Priya Bharadia",
+      "categories": [
+        {
+          "_": "Google",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/google"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Greenhouse gas emissions",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/carbon-emissions"
+          }
+        },
+        {
+          "_": "Carbon footprints",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/carbonfootprints"
+          }
+        },
+        {
+          "_": "Environment",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/environment"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-09T16:05:45.647Z",
+      "created_at": "2026-05-09T16:05:45.647Z"
+    },
+    {
+      "id": 7577,
+      "source": "XOR Journal (TG)",
+      "title_en": "На фоне блокировок Claude подъехала грустная и показательная история — парень попал под блок с половиной бизнеса. 💀Внутри чатов хранились скрипты продаж, письма клиентам, разборы конкурентов, тексты ",
+      "description_en": "На фоне блокировок Claude подъехала грустная и показательная история — парень попал под блок с половиной бизнеса. 💀Внутри чатов хранились скрипты продаж, письма клиентам, разборы конкурентов, тексты лендинга, гипотезы, заметки с созвонов. И самое грустное — ничего нельзя сделать. Это чужой сервис, чужие правила и та самая кнопка, на которую ты даже в суд не подашь. На Хабре в комментах уже предлагают переходить на локальные модели (но это вариант не для всех) или хотя бы использовать решения, г",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9210",
+      "image_url": "https://cdn4.telesco.pe/file/vecnJg13n4EGLrWHT7JFbIziP3rEcNj9kMB13-0wTs6A0o5DQhEWr5rqQ-bnpvBviuX4b3Mjn3BEYY0sInJsNb7ED75e8IAMKduIItE94noEGQtIaXQNxc3Vg5nob-2sYtIJnUL7_rJ4ps3WrVd7rG9lkToxAOg2lGzmCNZRPdRFuY0lXoJiM144UH9clwg_W0q6P-P0gG4buhYvVb0k12NWlGdZaRkREwMCSmAqlEZoDJpLtqvDms0gtXn0K1qefacAzA5ZNKbRcS2yoiQHuiosQn6c4ldB8Vcp8Abp88G7GTW7OD8gAzRma-P1viTpF1WtAOocXQJUTmtTRldbIg.jpg",
+      "pub_date": "2026-05-09T15:53:07+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-09T16:05:52.432Z",
+      "created_at": "2026-05-09T16:05:52.433Z"
     }
   ]
 }
