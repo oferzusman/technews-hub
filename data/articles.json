@@ -155515,6 +155515,85 @@
       "priority": "hot",
       "fetchedAt": "2026-05-09T10:14:15.862Z",
       "created_at": "2026-05-09T10:14:15.862Z"
+    },
+    {
+      "id": 7555,
+      "source": "The Decoder",
+      "title_en": "Google's \"Preferred Sources\" feature is a free pass for more garbage in search",
+      "description_en": "Google frames \"Preferred Sources\" as a way to bring more quality journalism into search. In practice, it shifts responsibility to a manual setting almost no one will use. That gives Google a user-choice argument for users and regulators while it keeps sidelining the open web in favor of its own AI interfaces.\nThe article Google's \"Preferred Sources\" feature is a free pass for more garbage in search appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/googles-preferred-sources-feature-is-a-free-pass-for-more-garbage-in-search/",
+      "image_url": null,
+      "pub_date": "Sat, 09 May 2026 10:29:00 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "AI search",
+        "Google"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-09T10:45:31.458Z",
+      "created_at": "2026-05-09T10:45:31.458Z"
+    },
+    {
+      "id": 7556,
+      "source": "Interesting Engineering",
+      "title_en": "Ukrainian anti-drone laser system with 16400-foot engagement range nears deployment",
+      "description_en": "Ukraine’s Celebra Tech is edging closer to deploying its Tryzub anti-drone laser weapon in Ukraine,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/ukrainian-anti-drone-laser-system",
+      "image_url": "https://www.youtube.com/embed/RdSEb-eyiGw",
+      "pub_date": "Sat, 09 May 2026 10:27:16 +0000",
+      "author": "Christopher McFadden",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-09T10:45:33.924Z",
+      "created_at": "2026-05-09T10:45:33.924Z"
+    },
+    {
+      "id": 7557,
+      "source": "Tom's Hardware",
+      "title_en": "Supermicro-tied execs used Thailand government entity to ship Nvidia AI GPUs to China — report alleges Chinese web giant Alibaba received restricted servers",
+      "description_en": "A network to smuggle restricted Nvidia AI hardware has been found: it shipped to Alibaba, among other destinations.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/supermicro-tied-execs-used-thailand-government-entity-to-ship-nvidia-ai-gpus-to-china-report-alleges-chinese-web-giant-alibaba-received-restricted-servers",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/aet3KurpvhSKoRZMjPtZd4-1280-80.jpg",
+      "pub_date": "Sat, 09 May 2026 10:40:00 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-09T10:45:34.118Z",
+      "created_at": "2026-05-09T10:45:34.118Z"
+    },
+    {
+      "id": 7558,
+      "source": "Tom's Hardware",
+      "title_en": "Chinese grey market sells Claude API access at 90% off by using stolen credentials, model substitution, and harvesting users' prompts and outputs for resale as AI training data — 'transfer stations' operate through proxy networks that harvest user data",
+      "description_en": "A grey-market economy of API proxy services in China is reselling access to Anthropic's Claude models at as little as 10% of the official price.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-grey-market-sells-claude-api-access-at-90-percent-off-through-proxy-networks-that-harvest-user-data",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ScT7C9WsuqruarWf3kSRRG-1280-80.jpg",
+      "pub_date": "Sat, 09 May 2026 10:20:00 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-09T10:45:34.118Z",
+      "created_at": "2026-05-09T10:45:34.118Z"
     }
   ]
 }
