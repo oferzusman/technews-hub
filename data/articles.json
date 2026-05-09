@@ -155450,6 +155450,71 @@
       "priority": "hot",
       "fetchedAt": "2026-05-09T09:57:07.566Z",
       "created_at": "2026-05-09T09:57:07.566Z"
+    },
+    {
+      "id": 7553,
+      "source": "The Guardian AI",
+      "title_en": "Who is Louis Mosley, the man tasked with defending Palantir against its critics?",
+      "description_en": "The company’s UK and Europe boss has become a lightning rod for the British public’s fear of a US tech takeover\nThe hall was packed with rightwing radicals when Louis Mosley heralded a coming revolution. Just as Oliver Cromwell – that “crusader for Christ and liberty” – routed King Charles I’s royalists, “a similar revolution is brewing today”, said the UK and Europe boss of Palantir. Globalism’s “twilight” was upon us, he said in a speech dotted with admiring mentions of the podcaster Joe Rogan",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/09/who-is-louis-mosley-defending-palantir-critics",
+      "image_url": "https://i.guim.co.uk/img/media/68b77cc72498b08c37a3a59ee8bcf158a0e85fe7/249_0_3445_2756/master/3445.jpg?width=140&quality=85&auto=format&fit=max&s=db2b5bff3c819e3d9d66e1f5638c04de",
+      "pub_date": "Sat, 09 May 2026 10:00:53 GMT",
+      "author": "Robert Booth UK technology editor",
+      "categories": [
+        {
+          "_": "Palantir",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/palantir"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-09T10:14:11.964Z",
+      "created_at": "2026-05-09T10:14:11.964Z"
+    },
+    {
+      "id": 7554,
+      "source": "Interesting Engineering",
+      "title_en": "US begins study for B-52 bomber successor, weighs stealth against stand-off capacity",
+      "description_en": "After almost 75 years of service, the United States is getting the ball rolling on...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/us-looks-for-b-52-successor",
+      "image_url": "https://www.youtube.com/embed/OWYADawjp2M",
+      "pub_date": "Sat, 09 May 2026 10:12:42 +0000",
+      "author": "Christopher McFadden",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-09T10:14:15.862Z",
+      "created_at": "2026-05-09T10:14:15.862Z"
     }
   ]
 }
