@@ -155668,6 +155668,66 @@
       "priority": "hot",
       "fetchedAt": "2026-05-09T12:40:08.256Z",
       "created_at": "2026-05-09T12:40:08.256Z"
+    },
+    {
+      "id": 7563,
+      "source": "Ars Technica",
+      "title_en": "The new Wild West of AI kids’ toys",
+      "description_en": "These connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2240670637-1152x648.jpg",
+      "pub_date": "Sat, 09 May 2026 11:00:51 +0000",
+      "author": "\n                    Sophie Charara, WIRED.com\n                ",
+      "categories": [
+        "AI",
+        "Policy",
+        "ai toys",
+        "syndication",
+        "Toys"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-09T13:15:15.554Z",
+      "created_at": "2026-05-09T13:15:15.554Z"
+    },
+    {
+      "id": 7564,
+      "source": "Tom's Hardware",
+      "title_en": "Testing Nvidia's RTX Mega Geometry tech — VRAM-reducing tech a leap forward for path-traced rendering",
+      "description_en": "We took Nvidia's RTX Mega Geometry technology through a series of tests in Alan Wake 2 and the RTX Bonsai Diorama Demo to see how this tech reduces VRAM consumption and eliminates visual artifacts, thus helping pave the way to photorealistic real-time graphics.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/testing-nvidias-rtx-mega-geometry-tech-vram-reducing-tech-a-leap-forward-for-path-traced-rendering",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/BXgpcMQ8uLY7iUGwtcYXpj-1280-80.jpg",
+      "pub_date": "Sat, 09 May 2026 13:00:38 +0000",
+      "author": " Dan Mateescu ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-09T13:15:19.522Z",
+      "created_at": "2026-05-09T13:15:19.522Z"
+    },
+    {
+      "id": 7565,
+      "source": "Data Science ODS.ai (TG)",
+      "title_en": "С Днём Победы!!!",
+      "description_en": "С Днём Победы!!!",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/opendatascience/3298",
+      "image_url": null,
+      "pub_date": "2026-05-09T12:52:03+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-09T13:15:22.875Z",
+      "created_at": "2026-05-09T13:15:22.875Z"
     }
   ]
 }
