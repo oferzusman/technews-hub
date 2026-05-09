@@ -1,9 +1,9 @@
 {
-  "total": 7544,
-  "translated": 7544,
+  "total": 7549,
+  "translated": 7549,
   "untranslated": 0,
-  "today": 10,
-  "week": 1016,
+  "today": 15,
+  "week": 1021,
   "sources": [
     {
       "name": "Product Hunt",
@@ -49,8 +49,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 306,
-      "translated": 306,
+      "total": 307,
+      "translated": 307,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -73,8 +73,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 254,
-      "translated": 254,
+      "total": 255,
+      "translated": 255,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -145,9 +145,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 45,
-      "translated": 45,
-      "lastDate": "2026-05-08T21:10:10+00:00"
+      "total": 46,
+      "translated": 46,
+      "lastDate": "2026-05-09T07:42:09+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -175,9 +175,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 31,
-      "translated": 31,
-      "lastDate": "2026-05-08T17:36:17+00:00"
+      "total": 32,
+      "translated": 32,
+      "lastDate": "2026-05-09T07:10:36+00:00"
     },
     {
       "name": "pymnts.com",
@@ -193,9 +193,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 27,
-      "translated": 27,
-      "lastDate": "2026-05-08T07:33:40+00:00"
+      "total": 28,
+      "translated": 28,
+      "lastDate": "2026-05-09T08:10:51+00:00"
     },
     {
       "name": "Financial Post",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-09T07:09:26.793Z"
+  "generatedAt": "2026-05-09T08:23:28.948Z"
 }
