@@ -156527,8 +156527,8 @@
       "source": "The Decoder",
       "title_en": "Anthropic and OpenAI sit down with religious leaders to seek ethical advice",
       "description_en": "Anthropic and OpenAI are turning to religious leaders for help with AI ethics. At the first \"Faith-AI Covenant\" roundtable in New York, representatives from both companies met with faith leaders from various religions. Critics like AI researcher Rumman Chowdhury call the talks \"at best a distraction\" from concrete questions about regulation and control over AI systems.\nThe article Anthropic and OpenAI sit down with religious leaders to seek ethical advice appeared first on The Decoder.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "אנתרופיק ו-OpenAI יושבות עם מנהיגים דתיים לחיפוש עצות אתיות",
+      "description_he": "שתי חברות ה-AI הגדולות החליטו שהגיע הזמן להתייעץ עם הכוחות שמעל - אנתרופיק ו-OpenAI התאימו פגישה עם מנהיגים דתיים שונים בניו יורק כדי לדון בשאלות אתיות במודלים שלהן. אבל לא כולם מרוצים מהתנועה: חוקרים כמו Rumman Chowdhury טוענים שזה בעצם 'הסחת דעת' מהשאלות הממשיות על ייזום ובקרה של מערכות AI.",
       "link": "https://the-decoder.com/anthropic-and-openai-sit-down-with-religious-leaders-to-seek-ethical-advice/",
       "image_url": null,
       "pub_date": "Sun, 10 May 2026 10:41:00 +0000",
@@ -156539,7 +156539,7 @@
         "Anthropic",
         "OpenAI"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-10T10:53:42.997Z",
       "created_at": "2026-05-10T10:53:42.997Z"
@@ -156549,8 +156549,8 @@
       "source": "Tom's Hardware",
       "title_en": "$200 'socketed' Nvidia AI GPU for servers hacked into a PCIe card with custom PCB and 3D-printed cooling — modded Tesla V100 SMX data center GPU runs AI LLMs and is more efficient than many modern midrange offerings in AI inference",
       "description_en": "Turns out, Nvidia's older Turing-era V100 AI GPU is still pretty capable today, even with just 16GB of VRAM. A YouTuber got his hands on the SMX variant for just $100, converted it to a PCIe x16 interface for another $100 with an adapter, and got some pretty impressive results across AI inference and NVR benchmarks.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "Nvidia V100 ישן בעלות של 200$ הוסב לכרטיס PCIe עם PCB מותאם וקירור בטכנולוגיית 3D — ה-GPU הישן עדיין משתמש ביעילות להרצת מודלים AI",
+      "description_he": "מסתבר שה-Nvidia V100 מעידת Turing עדיין יודע לעשות עבודה די טובה גם בימינו, אפילו עם 16GB VRAM בלבד. יוטיוברץ קנה את הגרסה SMX בסך 100 דולר, המיר אותה לממשק PCIe x16 בעוד 100 דולר באמצעות adapter מותאם, והשיג תוצאות מרשימות במבחני AI inference וNVR. זה אחד מאלה המקרים שבהם Hardware ישן עדיין יכול להיות כדאי למי שמחפש קטנות שוות בעלויות נמוכות.",
       "link": "https://www.tomshardware.com/pc-components/gpus/usd200-nvidia-server-ai-gpu-hacked-into-a-pcie-card-with-custom-pcb-and-3d-printed-cooling-modded-tesla-v100-smx-gpu-turing-data-center-card-runs-ai-llms-and-is-more-efficient-than-many-modern-midrange-offerings-in-ai-inference",
       "image_url": "https://cdn.mos.cms.futurecdn.net/n52HGVDv5uA2aYBBjvPm5G-1280-80.jpg",
       "pub_date": "Sun, 10 May 2026 10:50:00 +0000",
@@ -156559,7 +156559,7 @@
         "GPUs",
         "PC Components"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-10T10:53:48.652Z",
       "created_at": "2026-05-10T10:53:48.652Z"
@@ -156569,8 +156569,8 @@
       "source": "Tom's Hardware",
       "title_en": "NASA pushes Mars helicopter rotors past the speed of sound for the first time ever — next-gen “SkyFall” aircraft's rotors hit 3,750 RPM, ten times faster than normal helicopters",
       "description_en": "NASA successfully tested Mars helicopter rotors at Mach 1.08 inside JPL’s Mars simulator chamber, paving the way for larger next-generation aircraft under the proposed SkyFall mission to explore more of the Red Planet.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "נאסא הטיסה את הרוטורים של מסוק מאדים מעבר למהירות הקול – המטוס SkyFall דור הבא הגיע ל-3,750 סיבובים לדקה",
+      "description_he": "נאסא הצליחה לבחון בהצלחה רוטורים של מסוק מאדים במהירות של Mach 1.08 בתא הסימולציה של JPL, וזה פותח את הדרך למטוסים גדולים יותר שנועדו למשימת SkyFall החדשה שתחקור עוד יותר רחוק בכוכב האדום. הרוטורים הגיעו לעשר פעמים מהירות של מסוקים רגילים, מה שמוכיח שאנחנו בעומק הדרך לגילוי מאדים באמצעות טכנולוגיה חדשה ומרשימה.",
       "link": "https://www.tomshardware.com/tech-industry/nasa-pushes-mars-helicopter-rotors-past-the-speed-of-sound-for-the-first-time-ever-next-gen-skyfall-aircrafts-rotors-hit-3-750-rpm-ten-times-faster-than-normal-helicopters",
       "image_url": "https://cdn.mos.cms.futurecdn.net/ztQ7Upyh4FNBmkmKXvKdNV-1280-80.jpg",
       "pub_date": "Sun, 10 May 2026 10:25:00 +0000",
@@ -156578,7 +156578,7 @@
       "categories": [
         "Tech Industry"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-10T10:53:48.652Z",
       "created_at": "2026-05-10T10:53:48.652Z"
@@ -156588,8 +156588,8 @@
       "source": "Tom's Hardware",
       "title_en": "Ukraine’s new AI-guided laser burns holes in Shahed suicide drones in seconds from 3.1 miles away — also useful for demining operations, trailer-mounted Tryzub system is in final stages of testing",
       "description_en": "Ukraine has developed a mobile AI-powered anti-drone laser that can down lethal Shahed drones up to 3.1 miles away.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "אוקראינה פיתחה לייזר מודרך AI שחוקם דרונים בשניות מרחק של 5 קילומטרים — מערכת Tryzub הממוסגרת נמצאת בשלבי בדיקה סופיים",
+      "description_he": "אוקראינה הצליחה לפתח נשק לייזר נייד מבוסס AI שמסוגל להפיל דרונים מתאבדים מסוג Shahed מטווח של כמעט 5 קילומטרים. מערכת Tryzub האלי הזו לא רק יעילה במיוחד נגד הוכחות אוויר, אלא גם יכולה לסייע בפינוי מוקשים — והכל בשניות ספורות בלבד. המערכה קרובה להשלמת בדיקותיה הסופיות.\n\nמקור: Tom's Hardware",
       "link": "https://www.tomshardware.com/tech-industry/ukraines-new-ai-laser-burns-holes-in-shahed-drones-from-3-1-miles-away-trailer-mounted-tryzub-system-is-in-final-stages-of-testing-by-maker-celebra-tech",
       "image_url": "https://cdn.mos.cms.futurecdn.net/trtkt9EwnwEtNVFuPBo6jB-1280-80.jpg",
       "pub_date": "Sun, 10 May 2026 10:00:00 +0000",
@@ -156597,7 +156597,7 @@
       "categories": [
         "Tech Industry"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-10T10:53:48.652Z",
       "created_at": "2026-05-10T10:53:48.652Z"
@@ -156607,14 +156607,14 @@
       "source": "AI Post (TG)",
       "title_en": "When Claude Opus 6 tells you to \"stop spiraling and go to bed\" @aipost 🏴",
       "description_en": "When Claude Opus 6 tells you to \"stop spiraling and go to bed\" @aipost 🏴",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "כשקלוד אופוס 6 אומר לך 'תפסיק לכנס עצמך וקח קצת שינה'",
+      "description_he": "קלוד אופוס 6 כל כך חכם שהוא לא רק פותר לכם בעיות טכניות - הוא גם יודע מתי אתם צריכים להתחיל לדאוג לעצמכם. בדיוק כמו חבר טוב שמזהה כשאתם בספירלה בלילה, ה-AI החדש משכנע אתכם ללכת לישון. אחד הדברים המהנים שמראים את הצד האנושי של מודלים מודרניים של AI. | מקור: AI Post (TG)",
       "link": "https://t.me/aipost/6872",
       "image_url": null,
       "pub_date": "2026-05-10T10:30:58+00:00",
       "author": null,
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-10T10:53:51.439Z",
       "created_at": "2026-05-10T10:53:51.439Z"
