@@ -156298,6 +156298,54 @@
       "priority": "hot",
       "fetchedAt": "2026-05-10T04:13:48.834Z",
       "created_at": "2026-05-10T04:13:48.834Z"
+    },
+    {
+      "id": 7593,
+      "source": "MarkTechPost",
+      "title_en": "NVIDIA AI Just Released cuda-oxide: An Experimental Rust-to-CUDA Compiler Backend that Compiles SIMT GPU Kernels Directly to PTX",
+      "description_en": "NVlabs releases cuda-oxide v0.1.0, a custom rustc codegen backend that compiles #[kernel]-annotated Rust functions to PTX through a Rust → Stable MIR → Pliron IR → LLVM IR → PTX pipeline, with single-source host+device compilation from one cargo oxide build command.\nThe post NVIDIA AI Just Released cuda-oxide: An Experimental Rust-to-CUDA Compiler Backend that Compiles SIMT GPU Kernels Directly to PTX appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/09/nvidia-ai-just-released-cuda-oxide-an-experimental-rust-to-cuda-compiler-backend-that-compiles-simt-gpu-kernels-directly-to-ptx/",
+      "image_url": null,
+      "pub_date": "Sun, 10 May 2026 06:01:13 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-10T06:13:09.435Z",
+      "created_at": "2026-05-10T06:13:09.435Z"
+    },
+    {
+      "id": 7594,
+      "source": "AI Post (TG)",
+      "title_en": "This might be the most important part of the new Anthropic deal with SpaceXAI.Elon is now building a neocloud in a market that he dominates almost entirely. I expect we'll see more deals like this in ",
+      "description_en": "This might be the most important part of the new Anthropic deal with SpaceXAI.Elon is now building a neocloud in a market that he dominates almost entirely. I expect we'll see more deals like this in the near future.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6870",
+      "image_url": "https://cdn4.telesco.pe/file/fkvpFm1EIwu2PQyKVmEPL9zXSOo_TxV3sqF6RTJhHV8ouftp-p_NL54UPPanN-CmOT0_eyVfLH_n1pJlt9NUoqArrlxxhXnX_SKE39yHUi53ISO7B00OAwd8U1-JfNk3qnBTTfAUGRndIyT57NQeGCo6BpJAyzc7WvfMHWkuyJemAP_OjX5Tz2WLnRM8xpxpDkgsGZMWMyNRA76nHc1mtIdSUIygLh3SseCHrWan7hrFd8oIbstCoO_Z2ZQg5Y488HRHjfBxDK0VtGrtT3QwWrlBjwluhqXwkLqbApq15wnAY5BDt7it7ouSdgd4OebDCnMB1AoCMY3Jh4wK8zNSwA.jpg",
+      "pub_date": "2026-05-10T04:32:43+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-10T06:13:13.591Z",
+      "created_at": "2026-05-10T06:13:13.591Z"
     }
   ]
 }
