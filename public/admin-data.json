@@ -1,9 +1,9 @@
 {
-  "total": 7608,
-  "translated": 7608,
+  "total": 7611,
+  "translated": 7611,
   "untranslated": 0,
-  "today": 22,
-  "week": 1010,
+  "today": 25,
+  "week": 1013,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 537,
-      "translated": 537,
+      "total": 538,
+      "translated": 538,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 308,
-      "translated": 308,
+      "total": 309,
+      "translated": 309,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -186,16 +186,16 @@
       "lastDate": "2026-04-09T00:29:48Z"
     },
     {
+      "name": "Hi, AI English (TG)",
+      "total": 29,
+      "translated": 29,
+      "lastDate": "2026-05-10T11:01:08+00:00"
+    },
+    {
       "name": "Nature Machine Intelligence",
       "total": 28,
       "translated": 28,
       "lastDate": "2026-05-07T00:00:00.000Z"
-    },
-    {
-      "name": "Hi, AI English (TG)",
-      "total": 28,
-      "translated": 28,
-      "lastDate": "2026-05-09T08:10:51+00:00"
     },
     {
       "name": "Financial Post",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-10T11:02:51.467Z"
+  "generatedAt": "2026-05-10T11:12:20.251Z"
 }
