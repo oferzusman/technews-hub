@@ -1,15 +1,15 @@
 {
-  "total": 7594,
-  "translated": 7594,
+  "total": 7601,
+  "translated": 7601,
   "untranslated": 0,
-  "today": 8,
-  "week": 996,
+  "today": 15,
+  "week": 1003,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 897,
-      "translated": 897,
-      "lastDate": "2026-05-07T23:10:14.000Z"
+      "total": 899,
+      "translated": 899,
+      "lastDate": "2026-05-09T22:27:11.000Z"
     },
     {
       "name": "Tom's Hardware",
@@ -73,8 +73,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 258,
-      "translated": 258,
+      "total": 260,
+      "translated": 260,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -126,16 +126,16 @@
       "lastDate": "2026-04-09T07:00:00Z"
     },
     {
+      "name": "AI Post (TG)",
+      "total": 68,
+      "translated": 68,
+      "lastDate": "2026-05-10T07:42:01+00:00"
+    },
+    {
       "name": "AI News",
       "total": 67,
       "translated": 67,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
-    },
-    {
-      "name": "AI Post (TG)",
-      "total": 67,
-      "translated": 67,
-      "lastDate": "2026-05-10T04:32:43+00:00"
     },
     {
       "name": "Github.com",
@@ -145,9 +145,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 49,
-      "translated": 49,
-      "lastDate": "2026-05-09T22:20:11+00:00"
+      "total": 50,
+      "translated": 50,
+      "lastDate": "2026-05-10T08:24:53+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -175,9 +175,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 32,
-      "translated": 32,
-      "lastDate": "2026-05-09T07:10:36+00:00"
+      "total": 33,
+      "translated": 33,
+      "lastDate": "2026-05-10T07:30:39+00:00"
     },
     {
       "name": "pymnts.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-10T06:46:00.739Z"
+  "generatedAt": "2026-05-10T08:28:09.586Z"
 }
