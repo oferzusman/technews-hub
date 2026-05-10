@@ -1,9 +1,9 @@
 {
-  "total": 7616,
-  "translated": 7616,
+  "total": 7619,
+  "translated": 7619,
   "untranslated": 0,
-  "today": 30,
-  "week": 1018,
+  "today": 33,
+  "week": 1021,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 539,
-      "translated": 539,
+      "total": 540,
+      "translated": 540,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -31,8 +31,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 366,
-      "translated": 366,
+      "total": 367,
+      "translated": 367,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -216,16 +216,16 @@
       "lastDate": "2026-04-09T02:20:06Z"
     },
     {
+      "name": "Data Science ODS.ai (TG)",
+      "total": 24,
+      "translated": 24,
+      "lastDate": "2026-05-10T12:25:33+00:00"
+    },
+    {
       "name": "Wylsacom Red (TG)",
       "total": 23,
       "translated": 23,
       "lastDate": "2026-05-08T11:25:36+00:00"
-    },
-    {
-      "name": "Data Science ODS.ai (TG)",
-      "total": 23,
-      "translated": 23,
-      "lastDate": "2026-05-09T12:52:03+00:00"
     },
     {
       "name": "Towards Data Science",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-10T12:11:23.543Z"
+  "generatedAt": "2026-05-10T12:40:35.985Z"
 }
