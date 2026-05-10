@@ -156769,6 +156769,61 @@
       "priority": "hot",
       "fetchedAt": "2026-05-10T12:05:37.668Z",
       "created_at": "2026-05-10T12:05:37.668Z"
+    },
+    {
+      "id": 7617,
+      "source": "CNBC Tech",
+      "title_en": "Alphabet's 160% rally in a year reflects value of owning 'most of the stack' in AI",
+      "description_en": "Google was seen as an AI laggard in the early days of the AI boom, but investors are now betting that the search giant will be a clear winner.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/10/alphabet-160percent-rally-in-year-reflects-value-of-owning-most-of-ai-stack.html",
+      "image_url": null,
+      "pub_date": "Sun, 10 May 2026 12:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-10T12:39:41.819Z",
+      "created_at": "2026-05-10T12:39:41.819Z"
+    },
+    {
+      "id": 7618,
+      "source": "Tom's Hardware",
+      "title_en": "Tiny credit card computer includes eInk screen and is just 1mm thick — Muxcard is powered by the ESP32-C3 microcontroller",
+      "description_en": "A GitHub project shares details of the prototype for 'a fully working computer that is literally the size of a credit card,' dubbed the Muxcard",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/maker-stem/microcontrollers-projects/tiny-credit-card-computer-includes-eink-screen-and-is-just-1mm-thick-muxcard-is-powered-by-the-esp32-c3-microcontroller",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/8JZZurWYJK76DjDQ4zGXo9-1280-80.jpg",
+      "pub_date": "Sun, 10 May 2026 12:20:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Microcontroller Projects",
+        "Maker and STEM",
+        "Microcontrollers"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-10T12:39:42.049Z",
+      "created_at": "2026-05-10T12:39:42.049Z"
+    },
+    {
+      "id": 7619,
+      "source": "Data Science ODS.ai (TG)",
+      "title_en": "🦀 Полный roadmap по изучению Rust на русском + бесплатный курс для начинающих + большой список ресурсов. Rust Roadmap 2026 на русском - пошаговый план изучения Rust для начинающих и продвинутых разра",
+      "description_en": "🦀 Полный roadmap по изучению Rust на русском + бесплатный курс для начинающих + большой список ресурсов. Rust Roadmap 2026 на русском - пошаговый план изучения Rust для начинающих и продвинутых разработчиков.Что внутри:- базовый синтаксис- ownership, borrowing и lifetimes- Option, Result, traits и generics- тестирование и обработка ошибок- std, smart pointers и многопоточность- async/await и Tokio- macros, unsafe и FFI- web, CLI, embedded, WASM, gamedev и ML- мини-проекты на каждом этапеХорошый",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/opendatascience/3299",
+      "image_url": "https://cdn4.telesco.pe/file/MZFN9ad5PwDSgVIRmRbQrgBjcMfaS51t55oqsvo1lyTeVKuscs24-8WyAkSyyL_oTd5crP7xhLzlUwn64LldnW6UPO13pn5Zha23zffF8ZYthBhkSkxao-gHQ336aboXvnwRt9gJRYo48_dCrje9pdQPKysGcgbWRwblbXxiOWXfyCPY_5lh3IUj7Is-nwHK6mfzLVHMSWEgfKCHiZKTp3ShYSZtoFSvFhRjkKCwY3JKnl8ZyT-a4-IG_evI3eyNhxJP88baJ9Wpq27iWhzGFar7zQ7jLCSe8Payir_5Z69CuvEV7_2JAlzUMxzrRz0Mxj9ee-MbRsyUJhk6zuc6eg.jpg",
+      "pub_date": "2026-05-10T12:25:33+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-10T12:39:47.858Z",
+      "created_at": "2026-05-10T12:39:47.858Z"
     }
   ]
 }
