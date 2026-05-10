@@ -156824,6 +156824,153 @@
       "priority": "hot",
       "fetchedAt": "2026-05-10T12:39:47.858Z",
       "created_at": "2026-05-10T12:39:47.858Z"
+    },
+    {
+      "id": 7620,
+      "source": "The Guardian AI",
+      "title_en": "I knew my writing students were using AI. Their confessions led to a powerful teaching moment | Micah Nathan",
+      "description_en": "The problem wasn’t just the perfectly polished, yet mediocre prose. It’s what’s lost when we surrender the struggle to translate thought into words\nI have been teaching fiction writing at MIT since 2017. Many of my students last wrote fiction in middle school, and very few have experienced a proper workshop, so at the start of every semester I offer these directions for writer and reader alike:\nRead the story at least twice. Mark what works and what doesn’t – underline great sentences, flag clun",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai",
+      "image_url": "https://i.guim.co.uk/img/media/e6dcf73db64c84a2c7e3ae1f9ab84be7459303ee/0_2_3000_2398/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=e9b3739c8b5ad2b8e528f924a61a5fb5",
+      "pub_date": "Sun, 10 May 2026 13:00:27 GMT",
+      "author": "Micah Nathan",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "US education",
+          "$": {
+            "domain": "https://www.theguardian.com/education/education-us"
+          }
+        },
+        {
+          "_": "Higher education",
+          "$": {
+            "domain": "https://www.theguardian.com/education/higher-education"
+          }
+        },
+        {
+          "_": "Education",
+          "$": {
+            "domain": "https://www.theguardian.com/education/education"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-10T13:51:48.257Z",
+      "created_at": "2026-05-10T13:51:48.257Z"
+    },
+    {
+      "id": 7621,
+      "source": "Interesting Engineering",
+      "title_en": "Next-gen nuclear fusion alloy discovery reduced from months to hours with new US tool",
+      "description_en": "Scientists at Ames National Laboratory are currently expanding a new artificial intelligence tool to improve...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/next-gen-nuclear-fusion-alloy-discovery",
+      "image_url": null,
+      "pub_date": "Sun, 10 May 2026 13:17:14 +0000",
+      "author": "Aman Tripathi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-10T13:51:49.304Z",
+      "created_at": "2026-05-10T13:51:49.304Z"
+    },
+    {
+      "id": 7622,
+      "source": "Tom's Hardware",
+      "title_en": "China's Hanyuan-2 debuts as 'world's first' dual-core quantum computer — 200-qubit claims incredible power efficiency, but lacks critical performance benchmarks",
+      "description_en": "CAS Cold Atom Technology, a Wuhan-based firm affiliated with the Chinese Academy of Sciences (CAS), unveiled what it calls the world's first dual-core quantum computer.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/quantum-computing/china-claims-worlds-first-dual-core-quantum-computer",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/QdnrxHEUS4bNyyfEJ9qjJ6-1280-80.png",
+      "pub_date": "Sun, 10 May 2026 13:31:55 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Quantum Computing",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-10T13:51:49.658Z",
+      "created_at": "2026-05-10T13:51:49.658Z"
+    },
+    {
+      "id": 7623,
+      "source": "Tom's Hardware",
+      "title_en": "3DMakerPro Toucan 3D Scanner review: All-in-one 3D scanning",
+      "description_en": "Designed to be used as a standalone device, the 3DMakerPro Toucan allows users to capture a point cloud, generate a 3D model, and export it without using a computer. The hardware has a premium feel, and the Class 3R laser can create detailed point clouds quickly. However, the software lacks polish and has some quirks. Tracking loss, inconsistent export via Wi-Fi, and blurry color textures are all issues that occurred during testing.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/3d-printing/3d-scanning/3dmakerpro-toucan-3d-scanner-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/yWAqLxeNCp9rtGL8xsscig-1280-80.jpg",
+      "pub_date": "Sun, 10 May 2026 13:00:00 +0000",
+      "author": " Andrew Sink ",
+      "categories": [
+        "3D Scanning",
+        "3D Printing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-10T13:51:49.658Z",
+      "created_at": "2026-05-10T13:51:49.658Z"
+    },
+    {
+      "id": 7624,
+      "source": "Tom's Hardware",
+      "title_en": "AI data center project secretly sucked 29 million gallons of water over 15 months before detected by residents complaining about low water pressure — officials refuse to fine massive 6.2 million-square-foot facility over unauthorized water consumption",
+      "description_en": "QTS says the extra 29 million gallons were consumed during temporary construction activities, including concrete work, dust control, and site preparation.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/georgia-data-center-used-29-million-gallons-of-water",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/8K8xkKj7a9LFdAhMdjyXTc-1280-80.jpg",
+      "pub_date": "Sun, 10 May 2026 12:40:00 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-10T13:51:49.658Z",
+      "created_at": "2026-05-10T13:51:49.658Z"
+    },
+    {
+      "id": 7625,
+      "source": "AI Post (TG)",
+      "title_en": "Podcasts expected to remain human-led despite rise in AI contentThe expansion of AI-generated podcast material has not displaced human hosts in successful podcasts. Data indicates that audiences conti",
+      "description_en": "Podcasts expected to remain human-led despite rise in AI contentThe expansion of AI-generated podcast material has not displaced human hosts in successful podcasts. Data indicates that audiences continue to respond to the qualities hosts bring—such as strong speaking skills and relatability—that foster a sense of participation and community for listeners.This engagement is often compared to the appeal of live concerts, where the human element and social aspect are central to the experience.AI to",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6873",
+      "image_url": "https://cdn4.telesco.pe/file/Ohgqg4CnGLYVdd5SGtbw5ZUCml_xRK3FqCq0VmlFp3RYOU8-syU3KRdGSG5yvhTiGaeChynUbNS5jHo-limSdY7Jn-AhMXagLIF86aY6QsCpJPADBazxeFEaDfnZ_P9z2jUn3Qe5lL6cJAsz7wtxXlfvIAJ-0xTl8JOIJdW6dJrUqqbJakFa_he4Si_f3du8qkfCC_MOh5pVZXzOaLIhILAxn8TByXSSLkEUdqJ4-mBogFfx-_9MJVHgHwOIXMBY7b3Ram_OSuDcbsuH25IrQAFUOYrLmdkWSeBEXtmDgRANjXTL7oRIE3FYmYW2ZFAvFJF7tyj5XnIaA33QQ2--Tg.jpg",
+      "pub_date": "2026-05-10T13:16:10+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-10T13:51:51.474Z",
+      "created_at": "2026-05-10T13:51:51.474Z"
     }
   ]
 }
