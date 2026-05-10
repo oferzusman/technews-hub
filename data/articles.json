@@ -157132,6 +157132,88 @@
       "priority": "hot",
       "fetchedAt": "2026-05-10T15:51:18.309Z",
       "created_at": "2026-05-10T15:51:18.309Z"
+    },
+    {
+      "id": 7634,
+      "source": "MarkTechPost",
+      "title_en": "OpenClaw vs Hermes Agent: Why Nous Research’s Self-Improving Agent Now Leads OpenRouter’s Global Rankings",
+      "description_en": "Hermes Agent, the open-source self-improving AI agent from Nous Research, has overtaken OpenClaw to claim the #1 position on OpenRouter's global daily token rankings as of May 10, 2026 — generating 224 billion daily tokens versus OpenClaw's 186 billion. The milestone places a Nous Research project ahead of an OpenAI-sponsored platform in real-world daily inference volume, just three months after launch.\nThe post OpenClaw vs Hermes Agent: Why Nous Research’s Self-Improving Agent Now Leads OpenRou",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/10/openclaw-vs-hermes-agent-why-nous-researchs-self-improving-agent-now-leads-openrouters-global-rankings/",
+      "image_url": null,
+      "pub_date": "Sun, 10 May 2026 16:20:53 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "Editors Pick",
+        "Staff"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-10T16:28:55.032Z",
+      "created_at": "2026-05-10T16:28:55.032Z"
+    },
+    {
+      "id": 7635,
+      "source": "The Guardian AI",
+      "title_en": "Mistaking AI behaviour for conscious being | Letter",
+      "description_en": "Dr Simon Nieder responds to Richard Dawkins’ encounters with a chatbot\nRichard Dawkins’ reflections on AI consciousness are striking – not because they show that machines have crossed some hidden threshold into inner life, but because they reveal how readily we can be persuaded that they have (Richard Dawkins concludes AI is conscious, even if it doesn’t know it, 5 May).\nMany will recognise the experience: a system that responds with fluency, humour and apparent understanding. At some point, sim",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/10/mistaking-ai-behaviour-for-conscious-being",
+      "image_url": "https://i.guim.co.uk/img/media/b23b6af7acdbb34944ec571e381c47905a493662/919_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6d1cff22468301c350a7e3c8ce75c7d6",
+      "pub_date": "Sun, 10 May 2026 15:55:14 GMT",
+      "author": "Guardian Staff",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Richard Dawkins",
+          "$": {
+            "domain": "https://www.theguardian.com/science/dawkins"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Science",
+          "$": {
+            "domain": "https://www.theguardian.com/science/science"
+          }
+        },
+        {
+          "_": "Philosophy",
+          "$": {
+            "domain": "https://www.theguardian.com/world/philosophy"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-10T16:28:55.411Z",
+      "created_at": "2026-05-10T16:28:55.411Z"
     }
   ]
 }
