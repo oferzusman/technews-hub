@@ -156521,6 +156521,103 @@
       "priority": "hot",
       "fetchedAt": "2026-05-10T09:54:22.245Z",
       "created_at": "2026-05-10T09:54:22.245Z"
+    },
+    {
+      "id": 7604,
+      "source": "The Decoder",
+      "title_en": "Anthropic and OpenAI sit down with religious leaders to seek ethical advice",
+      "description_en": "Anthropic and OpenAI are turning to religious leaders for help with AI ethics. At the first \"Faith-AI Covenant\" roundtable in New York, representatives from both companies met with faith leaders from various religions. Critics like AI researcher Rumman Chowdhury call the talks \"at best a distraction\" from concrete questions about regulation and control over AI systems.\nThe article Anthropic and OpenAI sit down with religious leaders to seek ethical advice appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-and-openai-sit-down-with-religious-leaders-to-seek-ethical-advice/",
+      "image_url": null,
+      "pub_date": "Sun, 10 May 2026 10:41:00 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-10T10:53:42.997Z",
+      "created_at": "2026-05-10T10:53:42.997Z"
+    },
+    {
+      "id": 7605,
+      "source": "Tom's Hardware",
+      "title_en": "$200 'socketed' Nvidia AI GPU for servers hacked into a PCIe card with custom PCB and 3D-printed cooling — modded Tesla V100 SMX data center GPU runs AI LLMs and is more efficient than many modern midrange offerings in AI inference",
+      "description_en": "Turns out, Nvidia's older Turing-era V100 AI GPU is still pretty capable today, even with just 16GB of VRAM. A YouTuber got his hands on the SMX variant for just $100, converted it to a PCIe x16 interface for another $100 with an adapter, and got some pretty impressive results across AI inference and NVR benchmarks.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/usd200-nvidia-server-ai-gpu-hacked-into-a-pcie-card-with-custom-pcb-and-3d-printed-cooling-modded-tesla-v100-smx-gpu-turing-data-center-card-runs-ai-llms-and-is-more-efficient-than-many-modern-midrange-offerings-in-ai-inference",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/n52HGVDv5uA2aYBBjvPm5G-1280-80.jpg",
+      "pub_date": "Sun, 10 May 2026 10:50:00 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-10T10:53:48.652Z",
+      "created_at": "2026-05-10T10:53:48.652Z"
+    },
+    {
+      "id": 7606,
+      "source": "Tom's Hardware",
+      "title_en": "NASA pushes Mars helicopter rotors past the speed of sound for the first time ever — next-gen “SkyFall” aircraft's rotors hit 3,750 RPM, ten times faster than normal helicopters",
+      "description_en": "NASA successfully tested Mars helicopter rotors at Mach 1.08 inside JPL’s Mars simulator chamber, paving the way for larger next-generation aircraft under the proposed SkyFall mission to explore more of the Red Planet.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/nasa-pushes-mars-helicopter-rotors-past-the-speed-of-sound-for-the-first-time-ever-next-gen-skyfall-aircrafts-rotors-hit-3-750-rpm-ten-times-faster-than-normal-helicopters",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ztQ7Upyh4FNBmkmKXvKdNV-1280-80.jpg",
+      "pub_date": "Sun, 10 May 2026 10:25:00 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-10T10:53:48.652Z",
+      "created_at": "2026-05-10T10:53:48.652Z"
+    },
+    {
+      "id": 7607,
+      "source": "Tom's Hardware",
+      "title_en": "Ukraine’s new AI-guided laser burns holes in Shahed suicide drones in seconds from 3.1 miles away — also useful for demining operations, trailer-mounted Tryzub system is in final stages of testing",
+      "description_en": "Ukraine has developed a mobile AI-powered anti-drone laser that can down lethal Shahed drones up to 3.1 miles away.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/ukraines-new-ai-laser-burns-holes-in-shahed-drones-from-3-1-miles-away-trailer-mounted-tryzub-system-is-in-final-stages-of-testing-by-maker-celebra-tech",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/trtkt9EwnwEtNVFuPBo6jB-1280-80.jpg",
+      "pub_date": "Sun, 10 May 2026 10:00:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-10T10:53:48.652Z",
+      "created_at": "2026-05-10T10:53:48.652Z"
+    },
+    {
+      "id": 7608,
+      "source": "AI Post (TG)",
+      "title_en": "When Claude Opus 6 tells you to \"stop spiraling and go to bed\" @aipost 🏴",
+      "description_en": "When Claude Opus 6 tells you to \"stop spiraling and go to bed\" @aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6872",
+      "image_url": null,
+      "pub_date": "2026-05-10T10:30:58+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-10T10:53:51.439Z",
+      "created_at": "2026-05-10T10:53:51.439Z"
     }
   ]
 }
