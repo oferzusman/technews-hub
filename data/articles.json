@@ -157069,6 +157069,69 @@
       "priority": "hot",
       "fetchedAt": "2026-05-10T14:50:26.768Z",
       "created_at": "2026-05-10T14:50:26.768Z"
+    },
+    {
+      "id": 7631,
+      "source": "TechCrunch AI",
+      "title_en": "We’re feeling cynical about xAI’s big deal with Anthropic",
+      "description_en": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+      "image_url": null,
+      "pub_date": "Sun, 10 May 2026 15:34:25 +0000",
+      "author": "Anthony Ha",
+      "categories": [
+        "AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-10T15:51:11.289Z",
+      "created_at": "2026-05-10T15:51:11.289Z"
+    },
+    {
+      "id": 7632,
+      "source": "MarkTechPost",
+      "title_en": "How to Build a Cost-Aware LLM Routing System with NadirClaw Using Local Prompt Classification and Gemini Model Switching",
+      "description_en": "In this tutorial, we explore NadirClaw as an intelligent routing layer that classifies prompts into simple and complex tiers before sending them to the most suitable model. We start by installing the required packages, setting up an optional Gemini API key, and testing the local classifier through the NadirClaw CLI without making any live LLM […]\nThe post How to Build a Cost-Aware LLM Routing System with NadirClaw Using Local Prompt Classification and Gemini Model Switching appeared first on Mar",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/10/how-to-build-a-cost-aware-llm-routing-system-with-nadirclaw-using-local-prompt-classification-and-gemini-model-switching/",
+      "image_url": null,
+      "pub_date": "Sun, 10 May 2026 15:18:43 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Software Engineering",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-10T15:51:13.124Z",
+      "created_at": "2026-05-10T15:51:13.124Z"
+    },
+    {
+      "id": 7633,
+      "source": "Tom's Hardware",
+      "title_en": "AMD's excellent Radeon RX 9070 with 16 GB of VRAM hits all-time low pricing — PowerColor Hellhound variant is 23% off list price",
+      "description_en": "If you've been looking for a GPU upgrade but were disappointed by the ongoing market conditions, a small window of opportunity has just sprung open. AMD's fantastic RX 9070 is on sale for just $554, discounted $165 from its typical retail price. It's a very capable 1440p card that can even game at 4K with enough upscaling.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/amds-excellent-radeon-rx-9070-with-16-gb-of-vram-hits-all-time-low-pricing-powercolor-hellhound-variant-is-23-percent-off-list-price",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/fFBDzjyS6sZBmL5Qa6Cevf-1280-80.png",
+      "pub_date": "Sun, 10 May 2026 15:22:39 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-10T15:51:18.309Z",
+      "created_at": "2026-05-10T15:51:18.309Z"
     }
   ]
 }
