@@ -1,7 +1,7 @@
 {
   "total": 7613,
-  "translated": 7611,
-  "untranslated": 2,
+  "translated": 7613,
+  "untranslated": 0,
   "today": 27,
   "week": 1015,
   "sources": [
@@ -14,7 +14,7 @@
     {
       "name": "Tom's Hardware",
       "total": 539,
-      "translated": 538,
+      "translated": 539,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -164,7 +164,7 @@
     {
       "name": "Backdoor (TG)",
       "total": 34,
-      "translated": 33,
+      "translated": 34,
       "lastDate": "2026-05-10T11:19:21+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-10T11:41:03.229Z"
+  "generatedAt": "2026-05-10T11:41:25.275Z"
 }
