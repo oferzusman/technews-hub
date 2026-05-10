@@ -1,9 +1,9 @@
 {
-  "total": 7586,
-  "translated": 7586,
+  "total": 7589,
+  "translated": 7589,
   "untranslated": 0,
-  "today": 0,
-  "week": 988,
+  "today": 3,
+  "week": 991,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 524,
-      "translated": 524,
+      "total": 525,
+      "translated": 525,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -91,8 +91,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 157,
-      "translated": 157,
+      "total": 158,
+      "translated": 158,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -133,9 +133,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 64,
-      "translated": 64,
-      "lastDate": "2026-05-09T22:46:43+00:00"
+      "total": 65,
+      "translated": 65,
+      "lastDate": "2026-05-10T01:35:02+00:00"
     },
     {
       "name": "Github.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-10T00:15:15.007Z"
+  "generatedAt": "2026-05-10T02:56:06.504Z"
 }
