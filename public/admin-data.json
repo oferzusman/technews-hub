@@ -1,9 +1,9 @@
 {
-  "total": 7601,
-  "translated": 7601,
+  "total": 7603,
+  "translated": 7603,
   "untranslated": 0,
-  "today": 15,
-  "week": 1003,
+  "today": 17,
+  "week": 1005,
   "sources": [
     {
       "name": "Product Hunt",
@@ -73,8 +73,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 260,
-      "translated": 260,
+      "total": 262,
+      "translated": 262,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-10T08:50:43.611Z"
+  "generatedAt": "2026-05-10T09:55:19.978Z"
 }
