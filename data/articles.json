@@ -157075,8 +157075,8 @@
       "source": "TechCrunch AI",
       "title_en": "We’re feeling cynical about xAI’s big deal with Anthropic",
       "description_en": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "אנחנו סקפטיים לגבי העסקה הענקית של xAI עם Anthropic",
+      "description_he": "בפרק האחרון של פודקאסט Equity דנו במשמעות העסקה בין xAI ל-Anthropic - והשאלה הגדולה היא מה זה בעצם אומר לחברת האם SpaceX. נראה שיש כאן הרבה שאלות סביב היתרונות האמיתיים של הדיל הזה, ואם זה באמת נכון עבור כל הצדדים המעורבים.",
       "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
       "image_url": null,
       "pub_date": "Sun, 10 May 2026 15:34:25 +0000",
@@ -157084,7 +157084,7 @@
       "categories": [
         "AI"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-10T15:51:11.289Z",
       "created_at": "2026-05-10T15:51:11.289Z"
@@ -157094,8 +157094,8 @@
       "source": "MarkTechPost",
       "title_en": "How to Build a Cost-Aware LLM Routing System with NadirClaw Using Local Prompt Classification and Gemini Model Switching",
       "description_en": "In this tutorial, we explore NadirClaw as an intelligent routing layer that classifies prompts into simple and complex tiers before sending them to the most suitable model. We start by installing the required packages, setting up an optional Gemini API key, and testing the local classifier through the NadirClaw CLI without making any live LLM […]\nThe post How to Build a Cost-Aware LLM Routing System with NadirClaw Using Local Prompt Classification and Gemini Model Switching appeared first on Mar",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "איך לבנות מערכת routing חסכונית ל-LLM עם NadirClaw: סיווג מקומי של prompts והחלפת מודלים של Gemini",
+      "description_he": "במדריך הזה נלמד איך להשתמש ב-NadirClaw כשכבת routing חכמה שמסווגת prompts לפשוטים ומורכבים, ואז שולחת אותם למודל המתאים ביותר. נעבור על התקנת החבילות הדרושות, הגדרת Gemini API key, ובדיקת ה-classifier המקומי דרך CLI בלי להריץ LLM אמתי. זה דרך מעולה לחסוך כסף על קריאות API על ידי שליחת שאילתות פשוטות למודלים קלילים ורק השאלות המורכבות לגיגנטים כמו Gemini.",
       "link": "https://www.marktechpost.com/2026/05/10/how-to-build-a-cost-aware-llm-routing-system-with-nadirclaw-using-local-prompt-classification-and-gemini-model-switching/",
       "image_url": null,
       "pub_date": "Sun, 10 May 2026 15:18:43 +0000",
@@ -157109,7 +157109,7 @@
         "Technology",
         "Tutorials"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-10T15:51:13.124Z",
       "created_at": "2026-05-10T15:51:13.124Z"
@@ -157119,8 +157119,8 @@
       "source": "Tom's Hardware",
       "title_en": "AMD's excellent Radeon RX 9070 with 16 GB of VRAM hits all-time low pricing — PowerColor Hellhound variant is 23% off list price",
       "description_en": "If you've been looking for a GPU upgrade but were disappointed by the ongoing market conditions, a small window of opportunity has just sprung open. AMD's fantastic RX 9070 is on sale for just $554, discounted $165 from its typical retail price. It's a very capable 1440p card that can even game at 4K with enough upscaling.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "AMD's Radeon RX 9070 עם 16GB VRAM בהנחה היסטורית — גרסת PowerColor Hellhound במחיר 23% נמוך מהרשמי",
+      "description_he": "אם חיכיתם לעדכן את ה-GPU שלכם, הגיע הזמן - ה-Radeon RX 9070 של AMD זה עכשיו בעד $554 בלבד, הנחה של $165 מהמחיר הרגיל. כרטיס גרפיקה ממש חזק שמספיק לגיימינג ב-1440p ואפילו 4K עם upscaling.",
       "link": "https://www.tomshardware.com/pc-components/amds-excellent-radeon-rx-9070-with-16-gb-of-vram-hits-all-time-low-pricing-powercolor-hellhound-variant-is-23-percent-off-list-price",
       "image_url": "https://cdn.mos.cms.futurecdn.net/fFBDzjyS6sZBmL5Qa6Cevf-1280-80.png",
       "pub_date": "Sun, 10 May 2026 15:22:39 +0000",
@@ -157128,7 +157128,7 @@
       "categories": [
         "PC Components"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-10T15:51:18.309Z",
       "created_at": "2026-05-10T15:51:18.309Z"
