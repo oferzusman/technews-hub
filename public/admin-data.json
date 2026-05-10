@@ -1,9 +1,9 @@
 {
-  "total": 7613,
-  "translated": 7613,
+  "total": 7616,
+  "translated": 7616,
   "untranslated": 0,
-  "today": 27,
-  "week": 1015,
+  "today": 30,
+  "week": 1018,
   "sources": [
     {
       "name": "Product Hunt",
@@ -37,8 +37,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 341,
-      "translated": 341,
+      "total": 342,
+      "translated": 342,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -67,8 +67,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 263,
-      "translated": 263,
+      "total": 264,
+      "translated": 264,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -145,9 +145,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 50,
-      "translated": 50,
-      "lastDate": "2026-05-10T08:24:53+00:00"
+      "total": 51,
+      "translated": 51,
+      "lastDate": "2026-05-10T11:51:55+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-10T12:04:30.959Z"
+  "generatedAt": "2026-05-10T12:06:29.207Z"
 }
