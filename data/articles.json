@@ -156191,6 +156191,62 @@
       "priority": "hot",
       "fetchedAt": "2026-05-09T23:01:54.814Z",
       "created_at": "2026-05-09T23:01:54.814Z"
+    },
+    {
+      "id": 7587,
+      "source": "MarkTechPost",
+      "title_en": "A Coding Implementation to Recover Hidden Malware IOCs with FLARE-FLOSS Beyond Classic Strings Analysis",
+      "description_en": "In this tutorial, we explore how FLARE-FLOSS helps us recover hidden and obfuscated strings from a Windows PE file. We begin by setting up FLOSS and the MinGW-w64 cross-compiler. We synthesize a small malware-like executable that hides strings using multiple techniques, including static strings, stack-built strings, tight strings, and XOR-decoded strings. After that, we compare […]\nThe post A Coding Implementation to Recover Hidden Malware IOCs with FLARE-FLOSS Beyond Classic Strings Analysis ap",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/09/a-coding-implementation-to-recover-hidden-malware-iocs-with-flare-floss-beyond-classic-strings-analysis/",
+      "image_url": null,
+      "pub_date": "Sun, 10 May 2026 01:11:59 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Editors Pick",
+        "Security",
+        "Staff",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-10T02:55:11.127Z",
+      "created_at": "2026-05-10T02:55:11.127Z"
+    },
+    {
+      "id": 7588,
+      "source": "Interesting Engineering",
+      "title_en": "China unveils 200-qubit Hanyuan-2 dual-core quantum computer, consumes less than 7kW of power",
+      "description_en": "Chinese researchers claim that the launch of Hanyuan-2 represents a major step forward for the...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/china-200-qubit-hanyuan-2-quantum-computer",
+      "image_url": "https://www.youtube.com/embed/qdv4DSlFOeo",
+      "pub_date": "Sun, 10 May 2026 02:13:16 +0000",
+      "author": "Bojan Stojkovski",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-10T02:55:15.259Z",
+      "created_at": "2026-05-10T02:55:15.259Z"
+    },
+    {
+      "id": 7589,
+      "source": "AI Post (TG)",
+      "title_en": "💰 Big Tech is transforming from software giants into infrastructure empiresAmazon, Alphabet, Microsoft, and Meta are pouring unprecedented amounts of money into AI infrastructure, data centers, GPUs,",
+      "description_en": "💰 Big Tech is transforming from software giants into infrastructure empiresAmazon, Alphabet, Microsoft, and Meta are pouring unprecedented amounts of money into AI infrastructure, data centers, GPUs, networking, and power systems turning the AI race into one of the most expensive tech buildouts in history.Total investment commitments have now reached roughly $725 billion.The shift is already hitting profitability:• Combined free cash flow for the four companies could drop to just $4 billion in ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6868",
+      "image_url": "https://cdn4.telesco.pe/file/bSFqzJcFZ8PFtBw1G1ZiK54bTx_yaoXeJwq3dcoGhirJmLApkdpA6UScZ9fFU9c817sq67X_NbEbWxfMz2nvxQV4Gc7QEQl5E0NhocXipC25wDky_vQTWt6pdFuw8Wm3ug5vmIyLwwP3zl7xsGoqtHD_b7moEV6AzmOUo4ErmEEpuaxdeWhND6q68hjZcFwHnAP5J7ojgMehxQ0d4YQy0zj7nsTG2a3jDXRznwHgCUQe7ma5LZPjNkcQp32yucqZnLVmv5OH8pnhaKE-yOwwNixoEHkhDFRiVTL2Vu7LD8x6cbByAeyeXsuGn-WWngzz5T7MzRs-dA-5zRofEGjivg.jpg",
+      "pub_date": "2026-05-10T01:35:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-10T02:55:18.323Z",
+      "created_at": "2026-05-10T02:55:18.323Z"
     }
   ]
 }
