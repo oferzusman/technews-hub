@@ -159614,8 +159614,8 @@
       "source": "MarkTechPost",
       "title_en": "Understanding LLM Distillation Techniques",
       "description_en": "Modern large language models are no longer trained only on raw internet text. Increasingly, companies are using powerful “teacher” models to help train smaller or more efficient “student” models. This process, broadly known as LLM distillation or model-to-model training, has become a key technique for building high-performing models at lower computational cost. Meta used its […]\nThe post Understanding LLM Distillation Techniques  appeared first on MarkTechPost.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "הבנת טכניקות ההידרלציה של מודלים לשוניים",
+      "description_he": "כל חברות הטקנולוגיה הגדולות כבר גילו את הטריק: במקום לאמן מודל ענק של AI, אפשר פשוט לקחת מודל חזק שכבר קיים ולהשתמש בו כ'מורה' לאמן מודל קטן ויעיל יותר. התהליך הזה, שנקרא LLM distillation, הוא כרגע הדרך החכמה ביותר לבנות מודלים חזקים בעלות חישוב נמוכה הרבה יותר - וגם Meta משתמשת בזה.",
       "link": "https://www.marktechpost.com/2026/05/11/understanding-llm-distillation-techniques/",
       "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/image-29.png",
       "pub_date": "Mon, 11 May 2026 20:20:16 +0000",
@@ -159628,7 +159628,7 @@
         "Staff",
         "Technology"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-11T20:52:27.328Z",
       "created_at": "2026-05-11T20:52:27.328Z"
