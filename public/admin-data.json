@@ -1,9 +1,9 @@
 {
-  "total": 7728,
+  "total": 7734,
   "translated": 7728,
-  "untranslated": 0,
-  "today": 82,
-  "week": 849,
+  "untranslated": 6,
+  "today": 88,
+  "week": 855,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,7 +13,7 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 553,
+      "total": 554,
       "translated": 553,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
@@ -31,7 +31,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 374,
+      "total": 376,
       "translated": 374,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -85,9 +85,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 170,
+      "total": 171,
       "translated": 170,
-      "lastDate": "2026-05-11T14:00:00.000Z"
+      "lastDate": "2026-05-11T16:09:42.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -133,7 +133,7 @@
     },
     {
       "name": "AI News",
-      "total": 68,
+      "total": 69,
       "translated": 68,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
@@ -180,16 +180,16 @@
       "lastDate": "2026-05-11T09:01:03+00:00"
     },
     {
+      "name": "Hi, AI English (TG)",
+      "total": 31,
+      "translated": 30,
+      "lastDate": "2026-05-11T16:26:15+00:00"
+    },
+    {
       "name": "Nature Machine Intelligence",
       "total": 30,
       "translated": 30,
       "lastDate": "2026-05-11T00:00:00.000Z"
-    },
-    {
-      "name": "Hi, AI English (TG)",
-      "total": 30,
-      "translated": 30,
-      "lastDate": "2026-05-11T07:57:56+00:00"
     },
     {
       "name": "pymnts.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-11T15:59:24.910Z"
+  "generatedAt": "2026-05-11T16:45:42.371Z"
 }
