@@ -1,9 +1,9 @@
 {
-  "total": 7734,
-  "translated": 7734,
+  "total": 7736,
+  "translated": 7736,
   "untranslated": 0,
-  "today": 88,
-  "week": 855,
+  "today": 90,
+  "week": 857,
   "sources": [
     {
       "name": "Product Hunt",
@@ -55,8 +55,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 291,
-      "translated": 291,
+      "total": 292,
+      "translated": 292,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -168,16 +168,16 @@
       "lastDate": "2026-05-11T15:04:40+00:00"
     },
     {
+      "name": "Habr (TG)",
+      "total": 35,
+      "translated": 35,
+      "lastDate": "2026-05-11T17:00:57+00:00"
+    },
+    {
       "name": "Hi, AI Russian (TG)",
       "total": 35,
       "translated": 35,
       "lastDate": "2026-05-11T12:42:32+00:00"
-    },
-    {
-      "name": "Habr (TG)",
-      "total": 34,
-      "translated": 34,
-      "lastDate": "2026-05-11T09:01:03+00:00"
     },
     {
       "name": "Hi, AI English (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-11T16:47:19.368Z"
+  "generatedAt": "2026-05-11T17:06:07.845Z"
 }
