@@ -1,9 +1,9 @@
 {
-  "total": 7751,
-  "translated": 7751,
+  "total": 7752,
+  "translated": 7752,
   "untranslated": 0,
-  "today": 105,
-  "week": 872,
+  "today": 106,
+  "week": 873,
   "sources": [
     {
       "name": "Product Hunt",
@@ -138,16 +138,16 @@
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
     {
+      "name": "XOR Journal (TG)",
+      "total": 55,
+      "translated": 55,
+      "lastDate": "2026-05-11T21:10:14+00:00"
+    },
+    {
       "name": "Github.com",
       "total": 54,
       "translated": 54,
       "lastDate": "2026-04-09T06:45:21Z"
-    },
-    {
-      "name": "XOR Journal (TG)",
-      "total": 54,
-      "translated": 54,
-      "lastDate": "2026-05-11T14:15:03+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-11T20:59:09.885Z"
+  "generatedAt": "2026-05-11T21:17:40.848Z"
 }
