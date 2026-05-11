@@ -159744,6 +159744,40 @@
       "priority": "hot",
       "fetchedAt": "2026-05-11T22:33:04.939Z",
       "created_at": "2026-05-11T22:33:04.939Z"
+    },
+    {
+      "id": 7758,
+      "source": "The Verge AI",
+      "title_en": "OpenAI just released its answer to Claude Mythos",
+      "description_en": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher risk ones.\nIts launch comes just over a month after rival Anthropic announced Claude Mythos, a security-focused AI model it claimed was to",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+      "image_url": null,
+      "pub_date": "2026-05-11T23:05:01.000Z",
+      "author": "Stevie Bonifield",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-11T23:08:49.649Z",
+      "created_at": "2026-05-11T23:08:49.649Z"
+    },
+    {
+      "id": 7759,
+      "source": "AI Post (TG)",
+      "title_en": "AI is everywhere 🤣@aipost 🏴",
+      "description_en": "AI is everywhere 🤣@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6885",
+      "image_url": "https://cdn4.telesco.pe/file/azKaVCa5ePy6OX1lnAaP06MHjC108ftQ0xoEwPD1XaqO-4OyeyNnS5aR3H_MbdeY9miQfVDz8KHhoSvTzHUWJy3BL2iS5oEljsj7bY4o6oVWKZ-X8Xi8rx4mdslrfkZZpgtPxRzY_h7z0VAEdNEtQvPAdQ4MAdbR50M-5IOoOrMtzc5w9omByPxGf7gZZsrkEcPFTxb1mgDQTQRE-XTLxbDpn1bmmT8QS3dp7TkJEDnI86aevy1IwZhiUvKeRbd-N2SpRTOc1lpy1mcpmuRG6G8AfY4Mu0UAUcwALlO0HjvsUBV4JIc9f4_oGeBTz33j5tSxfxVKn22V_OxfRBdNJw.jpg",
+      "pub_date": "2026-05-11T22:52:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-11T23:09:01.374Z",
+      "created_at": "2026-05-11T23:09:01.374Z"
     }
   ]
 }
