@@ -159455,6 +159455,46 @@
       "priority": "hot",
       "fetchedAt": "2026-05-11T17:55:58.035Z",
       "created_at": "2026-05-11T17:55:58.035Z"
+    },
+    {
+      "id": 7743,
+      "source": "The Decoder",
+      "title_en": "The EU wants to regulate AI but needs OpenAI and Anthropic to let regulators through the door",
+      "description_en": "OpenAI has offered the EU Commission direct access to its new GPT-5.5 Cyber model for security review, with talks already underway. Anthropic is proving harder to pin down: after four to five meetings on its Mythos model, regulators still don't have access. The gap highlights how dependent Europe's AI oversight remains on voluntary cooperation from the companies it aims to regulate.\nThe article The EU wants to regulate AI but needs OpenAI and Anthropic to let regulators through the door appeared",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/the-eu-wants-to-regulate-ai-but-needs-openai-and-anthropic-to-let-regulators-through-the-door/",
+      "image_url": null,
+      "pub_date": "Mon, 11 May 2026 18:19:50 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "AI in Europe",
+        "EU",
+        "Europe"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-11T18:25:49.519Z",
+      "created_at": "2026-05-11T18:25:49.519Z"
+    },
+    {
+      "id": 7744,
+      "source": "CNBC Tech",
+      "title_en": "Google says it likely thwarted effort by hacker group to use AI for 'mass exploitation event'",
+      "description_en": "Hackers are rapidly adopting AI to find previously unknown software flaws even without the help of Anthropic's powerful Mythos model.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html",
+      "image_url": null,
+      "pub_date": "Mon, 11 May 2026 18:11:04 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-11T18:25:53.489Z",
+      "created_at": "2026-05-11T18:25:53.489Z"
     }
   ]
 }
