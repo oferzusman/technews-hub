@@ -1,9 +1,9 @@
 {
-  "total": 7755,
-  "translated": 7755,
+  "total": 7757,
+  "translated": 7757,
   "untranslated": 0,
-  "today": 109,
-  "week": 876,
+  "today": 111,
+  "week": 878,
   "sources": [
     {
       "name": "Product Hunt",
@@ -85,9 +85,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 171,
-      "translated": 171,
-      "lastDate": "2026-05-11T16:09:42.000Z"
+      "total": 172,
+      "translated": 172,
+      "lastDate": "2026-05-11T22:19:15.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -156,16 +156,16 @@
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
+      "name": "Backdoor (TG)",
+      "total": 36,
+      "translated": 36,
+      "lastDate": "2026-05-11T22:18:01+00:00"
+    },
+    {
       "name": "Slashdot.org",
       "total": 35,
       "translated": 35,
       "lastDate": "2026-04-09T06:28:29Z"
-    },
-    {
-      "name": "Backdoor (TG)",
-      "total": 35,
-      "translated": 35,
-      "lastDate": "2026-05-11T15:04:40+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-11T22:13:19.929Z"
+  "generatedAt": "2026-05-11T22:33:55.490Z"
 }
