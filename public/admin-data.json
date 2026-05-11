@@ -1,9 +1,9 @@
 {
-  "total": 7742,
+  "total": 7744,
   "translated": 7742,
-  "untranslated": 0,
-  "today": 96,
-  "week": 863,
+  "untranslated": 2,
+  "today": 98,
+  "week": 865,
   "sources": [
     {
       "name": "Product Hunt",
@@ -31,7 +31,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 376,
+      "total": 377,
       "translated": 376,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -67,7 +67,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 272,
+      "total": 273,
       "translated": 272,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-11T17:58:17.566Z"
+  "generatedAt": "2026-05-11T18:26:22.194Z"
 }
