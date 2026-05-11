@@ -159274,6 +159274,47 @@
       "priority": "hot",
       "fetchedAt": "2026-05-11T16:44:46.124Z",
       "created_at": "2026-05-11T16:44:46.124Z"
+    },
+    {
+      "id": 7735,
+      "source": "TechCrunch AI",
+      "title_en": "Digg tries again, this time as an AI news aggregator",
+      "description_en": "Digg returns (again) as another place to read AI news.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+      "image_url": null,
+      "pub_date": "Mon, 11 May 2026 17:02:35 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "AI",
+        "Media & Entertainment",
+        "aggregation",
+        "Digg",
+        "News",
+        "Startups"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-11T17:05:03.000Z",
+      "created_at": "2026-05-11T17:05:03.000Z"
+    },
+    {
+      "id": 7736,
+      "source": "Habr (TG)",
+      "title_en": "Как Ричард Докинз решил, что ИИ разуменДискуссии о прохождении теста Тьюринга современными LLM превратились в предсказуемый обмен аргументами об имитации интеллекта. Эволюционный биолог Ричард Докинз ",
+      "description_en": "Как Ричард Докинз решил, что ИИ разуменДискуссии о прохождении теста Тьюринга современными LLM превратились в предсказуемый обмен аргументами об имитации интеллекта. Эволюционный биолог Ричард Докинз провёл серию диалогов с Claude и столкнулся с фундаментальной аномалией. Нейросеть демонстрирует сложную рефлексию и понимание контекста, оперируя временем как статичным массивом данных. Возникает биологический парадокс: если машина решает сложнейшие творческие задачи, оставаясь «компетентным зомби»",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/68616",
+      "image_url": "https://cdn4.telesco.pe/file/CV28fFTIm1Lfgf06UI7jo1g8O0gpMqIBwOaWwgigmzSpZ2ukRLG8UOE_V_GWxJIgBPE42bXiVjh6BRz2W8l9togdFHy6KzlYGFYleyfDkf91oHU9IflcdX6NAFsWHIM5X3X8VbVCe3ime0TpMr3yD9-s7AB7twieoG4huY-hOO0maGJjEg9eFV6gcUDt4prQI3EZboE806jWnOU5lVlm1n3zUsa4HoNa-bSTolcTS1KLfMrlOhmd5dfIZsgzgmXDkgRiKTj2iOKJf3d7-6NBCCe4XaJqG2AhxgyUBplR37NlP3vutEA84rY3DEppiD0VqLTiLetsJ4PNOyHjAwcNIQ.jpg",
+      "pub_date": "2026-05-11T17:00:57+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-11T17:05:11.510Z",
+      "created_at": "2026-05-11T17:05:11.510Z"
     }
   ]
 }
