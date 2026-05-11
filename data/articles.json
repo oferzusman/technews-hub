@@ -159495,6 +159495,43 @@
       "priority": "hot",
       "fetchedAt": "2026-05-11T18:25:53.489Z",
       "created_at": "2026-05-11T18:25:53.489Z"
+    },
+    {
+      "id": 7745,
+      "source": "Ars Technica",
+      "title_en": "Passengers from hantavirus ship arrive in US; 3 people in biocontainment",
+      "description_en": "A US passenger tested \"mildly positive,\" but WHO is calling it \"inconclusive\" for now.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/health/2026/05/passengers-from-hantavirus-ship-arrive-in-us-3-people-in-biocontainment/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2275145416-1152x648.jpg",
+      "pub_date": "Mon, 11 May 2026 18:12:43 +0000",
+      "author": "\n                    Beth Mole\n                ",
+      "categories": [
+        "Health",
+        "hantavirus"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-11T19:07:09.767Z",
+      "created_at": "2026-05-11T19:07:09.767Z"
+    },
+    {
+      "id": 7746,
+      "source": "Interesting Engineering",
+      "title_en": "Inchworm-inspired robot uses 10 MeV-tolerant muscles to navigate Mars-like terrain",
+      "description_en": "A team led by researchers at the University of Gothenburg has developed an inchworm-inspired soft...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/esa-inchworm-soft-robot-planetary-exploration",
+      "image_url": null,
+      "pub_date": "Mon, 11 May 2026 18:47:58 +0000",
+      "author": "Neetika Walter",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-11T19:07:12.797Z",
+      "created_at": "2026-05-11T19:07:12.797Z"
     }
   ]
 }
