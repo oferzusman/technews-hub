@@ -1,9 +1,9 @@
 {
-  "total": 7759,
+  "total": 7760,
   "translated": 7759,
-  "untranslated": 0,
-  "today": 113,
-  "week": 880,
+  "untranslated": 1,
+  "today": 114,
+  "week": 881,
   "sources": [
     {
       "name": "Product Hunt",
@@ -103,7 +103,7 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 114,
+      "total": 115,
       "translated": 114,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-11T23:12:28.209Z"
+  "generatedAt": "2026-05-11T23:38:28.108Z"
 }
