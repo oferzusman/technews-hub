@@ -1,9 +1,9 @@
 {
-  "total": 7793,
-  "translated": 7793,
+  "total": 7797,
+  "translated": 7797,
   "untranslated": 0,
-  "today": 33,
-  "week": 708,
+  "today": 37,
+  "week": 712,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 555,
-      "translated": 555,
+      "total": 557,
+      "translated": 557,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -67,8 +67,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 273,
-      "translated": 273,
+      "total": 274,
+      "translated": 274,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -115,9 +115,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 85,
-      "translated": 85,
-      "lastDate": "2026-05-12T07:20:23+00:00"
+      "total": 86,
+      "translated": 86,
+      "lastDate": "2026-05-12T10:04:32+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-12T09:41:26.617Z"
+  "generatedAt": "2026-05-12T10:14:26.322Z"
 }
