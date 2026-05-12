@@ -160803,6 +160803,47 @@
       "priority": "hot",
       "fetchedAt": "2026-05-12T11:30:42.313Z",
       "created_at": "2026-05-12T11:30:42.313Z"
+    },
+    {
+      "id": 7812,
+      "source": "Tom's Hardware",
+      "title_en": "Compromised Mistral AI and TanStack packages may have exposed GitHub, cloud and CI/CD credentials in 'mini Shai Hulud' malware infection — supply-chain campaign spreads across npm and AI developer ecosystems like wildfire",
+      "description_en": "Microsoft says attackers compromised the mistralai PyPI package with malware that executed on import, while researchers link related npm compromises affecting TanStack and Mistral SDKs to the broader “Mini Shai-Hulud” supply-chain campaign.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/compromised-mistral-ai-and-tanstack-packages-may-have-exposed-github-cloud-and-ci-cd-credentials-in-mini-shai-hulud-malware-infection-supply-chain-campaign-spreads-across-npm-and-ai-developer-ecosystems-like-wildfire",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/YUDxAZxxyWFMPWzwJRmWvH-1280-80.jpg",
+      "pub_date": "Tue, 12 May 2026 11:53:04 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "Cybersecurity",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-12T11:56:05.450Z",
+      "created_at": "2026-05-12T11:56:05.450Z"
+    },
+    {
+      "id": 7813,
+      "source": "Tom's Hardware",
+      "title_en": "Dell SupportAssist update is crashing PCs with constant blue screens and reboot loops — the boot service built for system recovery is the culprit of unending instability",
+      "description_en": "SupportAssist Remediation is a background service that Dell bundles on its Windows PCs to automate system recovery and repair tasks, and a recent update is reportedly causing BSOD loops.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/windows/dell-supportassist-update-is-crashing-pcs-with-constant-blue-screens-and-reboot-loops",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Dasgrx6ZCHKBsWxUoKAGgP-1280-80.jpg",
+      "pub_date": "Tue, 12 May 2026 11:40:00 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Windows",
+        "Software",
+        "Operating Systems"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-12T11:56:05.450Z",
+      "created_at": "2026-05-12T11:56:05.450Z"
     }
   ]
 }
