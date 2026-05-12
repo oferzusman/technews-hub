@@ -1,9 +1,9 @@
 {
-  "total": 7771,
-  "translated": 7771,
+  "total": 7775,
+  "translated": 7775,
   "untranslated": 0,
-  "today": 11,
-  "week": 686,
+  "today": 15,
+  "week": 690,
   "sources": [
     {
       "name": "Product Hunt",
@@ -79,8 +79,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 202,
-      "translated": 202,
+      "total": 203,
+      "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -91,8 +91,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 167,
-      "translated": 167,
+      "total": 168,
+      "translated": 168,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -139,9 +139,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 56,
-      "translated": 56,
-      "lastDate": "2026-05-12T04:46:52+00:00"
+      "total": 57,
+      "translated": 57,
+      "lastDate": "2026-05-12T06:34:00+00:00"
     },
     {
       "name": "Github.com",
@@ -162,6 +162,12 @@
       "lastDate": "2026-05-11T22:18:01+00:00"
     },
     {
+      "name": "Hi, AI Russian (TG)",
+      "total": 36,
+      "translated": 36,
+      "lastDate": "2026-05-12T06:11:29+00:00"
+    },
+    {
       "name": "Slashdot.org",
       "total": 35,
       "translated": 35,
@@ -172,12 +178,6 @@
       "total": 35,
       "translated": 35,
       "lastDate": "2026-05-11T17:00:57+00:00"
-    },
-    {
-      "name": "Hi, AI Russian (TG)",
-      "total": 35,
-      "translated": 35,
-      "lastDate": "2026-05-11T12:42:32+00:00"
     },
     {
       "name": "Hi, AI English (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-12T04:55:26.228Z"
+  "generatedAt": "2026-05-12T06:38:28.785Z"
 }
