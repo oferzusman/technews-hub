@@ -162864,6 +162864,25 @@
       "priority": "hot",
       "fetchedAt": "2026-05-12T22:48:07.129Z",
       "created_at": "2026-05-12T22:48:07.129Z"
+    },
+    {
+      "id": 7895,
+      "source": "OpenAI Blog",
+      "title_en": "How finance teams use Codex",
+      "description_en": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/academy/how-finance-teams-use-codex",
+      "image_url": null,
+      "pub_date": "Tue, 12 May 2026 15:00:00 GMT",
+      "author": null,
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-12T23:01:36.067Z",
+      "created_at": "2026-05-12T23:01:36.067Z"
     }
   ]
 }
