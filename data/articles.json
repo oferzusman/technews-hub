@@ -162840,6 +162840,30 @@
       "priority": "batch",
       "fetchedAt": "2026-05-12T22:05:05.166Z",
       "created_at": "2026-05-12T22:05:05.166Z"
+    },
+    {
+      "id": 7894,
+      "source": "Ars Technica",
+      "title_en": "The newest AI boom pitch: Host a mini data center at your home",
+      "description_en": "The plan aims to speed up AI compute deployment while compensating residents.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/XFRA-SPAN-Lifestyle-Brown-house-1152x648.png",
+      "pub_date": "Tue, 12 May 2026 21:59:03 +0000",
+      "author": "\n                    Jeremy Hsu\n                ",
+      "categories": [
+        "AI",
+        "ai data centers",
+        "AI GPU",
+        "data centers",
+        "GPU",
+        "NVIDIA"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-12T22:48:07.129Z",
+      "created_at": "2026-05-12T22:48:07.129Z"
     }
   ]
 }
