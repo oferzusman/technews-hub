@@ -161031,6 +161031,219 @@
       "priority": "hot",
       "fetchedAt": "2026-05-12T13:24:49.519Z",
       "created_at": "2026-05-12T13:24:49.519Z"
+    },
+    {
+      "id": 7822,
+      "source": "TechCrunch AI",
+      "title_en": "Dessn raises $6M for its production focused design tool",
+      "description_en": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+      "image_url": null,
+      "pub_date": "Tue, 12 May 2026 13:00:00 +0000",
+      "author": "Ivan Mehta",
+      "categories": [
+        "AI",
+        "Fundraising",
+        "BetaWorks",
+        "design",
+        "Figma",
+        "Dessn"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-12T14:29:26.824Z",
+      "created_at": "2026-05-12T14:29:26.824Z"
+    },
+    {
+      "id": 7823,
+      "source": "Ars Technica",
+      "title_en": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
+      "description_en": "Workers are using an internal AI tool to automate non-essential tasks.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/getty-amazon-warehouse-1152x648.jpg",
+      "pub_date": "Tue, 12 May 2026 13:33:05 +0000",
+      "author": "\n                    Rafe Rosner-Uddin, Financial Times\n                ",
+      "categories": [
+        "AI",
+        "Amazon",
+        "syndication",
+        "tokens"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-12T14:29:26.914Z",
+      "created_at": "2026-05-12T14:29:26.914Z"
+    },
+    {
+      "id": 7824,
+      "source": "The Decoder",
+      "title_en": "\"Tokenmaxxing\" spreads at Amazon as employees game internal AI leaderboards",
+      "description_en": "Amazon employees are automating unnecessary tasks just to climb internal AI leaderboards.\nThe article \"Tokenmaxxing\" spreads at Amazon as employees game internal AI leaderboards appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/tokenmaxxing-spreads-at-amazon-as-employees-game-internal-ai-leaderboards/",
+      "image_url": null,
+      "pub_date": "Tue, 12 May 2026 14:03:12 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and coding",
+        "Amazon"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-12T14:29:28.187Z",
+      "created_at": "2026-05-12T14:29:28.187Z"
+    },
+    {
+      "id": 7825,
+      "source": "The Guardian AI",
+      "title_en": "The end of typing? Why workers are suddenly ditching their keyboards",
+      "description_en": "Employees are now whispering to AI voice dictation tools rather than clacking the keys. Will ‘voicepilling’ make everyone more productive – or just more annoying?\nName: Voicepilled.\nAge: Reid Hoffman first declared himself “voicepilled” in the autumn of last year.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/12/end-of-typing-workers-ditching-keyboards-voicepilling-ai-dictation",
+      "image_url": "https://i.guim.co.uk/img/media/10ef7f7f3bde9efe10b004b660a4682e3f5c1bdd/0_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=398af71e4926b48bdca8013f11821be4",
+      "pub_date": "Tue, 12 May 2026 14:00:12 GMT",
+      "author": "Guardian Staff",
+      "categories": [
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Work & careers",
+          "$": {
+            "domain": "https://www.theguardian.com/money/work-and-careers"
+          }
+        },
+        {
+          "_": "Money",
+          "$": {
+            "domain": "https://www.theguardian.com/money/money"
+          }
+        },
+        {
+          "_": "Apps",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/apps"
+          }
+        },
+        {
+          "_": "ChatGPT",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatgpt"
+          }
+        },
+        {
+          "_": "Chatbots",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatbots"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-12T14:29:29.596Z",
+      "created_at": "2026-05-12T14:29:29.596Z"
+    },
+    {
+      "id": 7826,
+      "source": "AI News",
+      "title_en": "Hugging Face hosted malicious software masquerading as OpenAI release",
+      "description_en": "A malicious Hugging Face repository that posed as an OpenAI release delivered infostealer malware to Windows machines and recorded about 244,000 downloads before removal, according to research from AI security firm HiddenLayer. The number of downloads may have been artificially inflated by the attackers to make the model seem more popular, so the extent of […]\nThe post Hugging Face hosted malicious software masquerading as OpenAI release appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
+      "image_url": null,
+      "pub_date": "Tue, 12 May 2026 13:52:00 +0000",
+      "author": "AI News",
+      "categories": [
+        "Cybersecurity AI",
+        "ai models",
+        "hugging face",
+        "malware"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-12T14:29:30.899Z",
+      "created_at": "2026-05-12T14:29:30.899Z"
+    },
+    {
+      "id": 7827,
+      "source": "CNBC Tech",
+      "title_en": "OpenAI trial updates: Board chair Taylor continues testimony, Altman set to take stand",
+      "description_en": "Elon Musk is accusing OpenAI CEO Sam Altman and President Greg Brockman of trying to 'steal a charity.'",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/12/openai-trial-updates-sam-altman-set-to-testify-in-musk-suit.html",
+      "image_url": null,
+      "pub_date": "Tue, 12 May 2026 14:10:02 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-12T14:29:31.288Z",
+      "created_at": "2026-05-12T14:29:31.288Z"
+    },
+    {
+      "id": 7828,
+      "source": "Tom's Hardware",
+      "title_en": "Jensen Huang snubbed by White House for President Trump’s China state visit — Nvidia CEO not on roster, which includes Apple's Tim Cook and Elon Musk",
+      "description_en": "Jensen Huang was reportedly not invited to President Trump's state visit to China, even though the Nvidia CEO has accompanied the U.S. president in several state visits across the globe. One expert says that this is a \"strong signal\" to Beijing that Washington won't budge on its stance of banning the export of high-end chips to China.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/jensen-huang-snubbed-by-white-house-for-president-trumps-china-state-visit-nvidia-ceo-not-on-roster-which-includes-apples-tim-cook-and-elon-musk",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/2V7Vcu9Q5xNV3KCkrFbD5H-1280-80.jpg",
+      "pub_date": "Tue, 12 May 2026 13:57:10 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-12T14:29:31.488Z",
+      "created_at": "2026-05-12T14:29:31.489Z"
+    },
+    {
+      "id": 7829,
+      "source": "Tom's Hardware",
+      "title_en": "Amazon employees admit to using AI unnecessarily to pump up internal usage scores — workers complain of intense pressure to use AI tools",
+      "description_en": "Amazon is the latest hyperscaler where employees have been caught inflating AI token consumption to hit internal usage targets.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/big-tech-has-a-tokenmaxxing-habit",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/7tPTeAtBjquh74okNqyo7B-1280-80.jpg",
+      "pub_date": "Tue, 12 May 2026 13:24:11 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Big Tech",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-12T14:29:31.489Z",
+      "created_at": "2026-05-12T14:29:31.489Z"
     }
   ]
 }
