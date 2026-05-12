@@ -1,9 +1,9 @@
 {
-  "total": 7829,
+  "total": 7833,
   "translated": 7829,
-  "untranslated": 0,
-  "today": 69,
-  "week": 744,
+  "untranslated": 4,
+  "today": 73,
+  "week": 748,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 545,
+      "total": 546,
       "translated": 545,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -79,7 +79,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 205,
+      "total": 206,
       "translated": 205,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -181,9 +181,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 32,
+      "total": 33,
       "translated": 32,
-      "lastDate": "2026-05-12T07:34:37+00:00"
+      "lastDate": "2026-05-12T14:32:33+00:00"
     },
     {
       "name": "Nature Machine Intelligence",
@@ -210,6 +210,12 @@
       "lastDate": "2026-04-09T02:36:13Z"
     },
     {
+      "name": "Wylsacom Red (TG)",
+      "total": 25,
+      "translated": 24,
+      "lastDate": "2026-05-12T14:42:01+00:00"
+    },
+    {
       "name": "Data Science ODS.ai (TG)",
       "total": 25,
       "translated": 25,
@@ -220,12 +226,6 @@
       "total": 24,
       "translated": 24,
       "lastDate": "2026-04-09T02:20:06Z"
-    },
-    {
-      "name": "Wylsacom Red (TG)",
-      "total": 24,
-      "translated": 24,
-      "lastDate": "2026-05-12T10:52:01+00:00"
     },
     {
       "name": "Towards Data Science",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-12T14:32:11.421Z"
+  "generatedAt": "2026-05-12T15:18:39.392Z"
 }
