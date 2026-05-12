@@ -160809,8 +160809,8 @@
       "source": "Tom's Hardware",
       "title_en": "Compromised Mistral AI and TanStack packages may have exposed GitHub, cloud and CI/CD credentials in 'mini Shai Hulud' malware infection — supply-chain campaign spreads across npm and AI developer ecosystems like wildfire",
       "description_en": "Microsoft says attackers compromised the mistralai PyPI package with malware that executed on import, while researchers link related npm compromises affecting TanStack and Mistral SDKs to the broader “Mini Shai-Hulud” supply-chain campaign.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "חבילות Mistral AI ו-TanStack נחדרו במלוות זדוניות – מסע התקפות supply-chain משתולל בחבילות npm וב-ecosystem של מפתחי AI",
+      "description_he": "מחקרים חושפים שמתקפלים הצליחו להחדיר malware לחבילה mistralai בפייתון שהתבצע באופן אוטומטי ברגע שגם הייתם משתמשים בה, וזה רק חלק מקמפיין התקפות supply-chain רחב שנקרא 'Mini Shai-Hulud' שפגע גם בחבילות npm ו-SDK של Mistral. מדובר בהחמרה משמעותית - המלוות הצליחו להוציא סודות קריטיים כמו credentials ל-GitHub, cloud services ו-CI/CD pipelines של מפתחים.",
       "link": "https://www.tomshardware.com/tech-industry/cyber-security/compromised-mistral-ai-and-tanstack-packages-may-have-exposed-github-cloud-and-ci-cd-credentials-in-mini-shai-hulud-malware-infection-supply-chain-campaign-spreads-across-npm-and-ai-developer-ecosystems-like-wildfire",
       "image_url": "https://cdn.mos.cms.futurecdn.net/YUDxAZxxyWFMPWzwJRmWvH-1280-80.jpg",
       "pub_date": "Tue, 12 May 2026 11:53:04 +0000",
@@ -160819,7 +160819,7 @@
         "Cybersecurity",
         "Tech Industry"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-12T11:56:05.450Z",
       "created_at": "2026-05-12T11:56:05.450Z"
@@ -160829,8 +160829,8 @@
       "source": "Tom's Hardware",
       "title_en": "Dell SupportAssist update is crashing PCs with constant blue screens and reboot loops — the boot service built for system recovery is the culprit of unending instability",
       "description_en": "SupportAssist Remediation is a background service that Dell bundles on its Windows PCs to automate system recovery and repair tasks, and a recent update is reportedly causing BSOD loops.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "עדכון SupportAssist של Dell הופך מחשבים לבלתי יציבים - שירות ההחזרה הופך לגורם לכשלים קשים",
+      "description_he": "דל התרחשה טרגדיה עם עדכון האחרון של SupportAssist Remediation, שירות הרקע שאמור להציל מחשבים מבעיות - אבל הוא בדיוק הגורם לתקלות כחולות קשות וחזרות הפעלה אינסופיות. אם יש לכם Dell, אתם אולי הגיבורים הלא מעוניינים של המצב הזה.",
       "link": "https://www.tomshardware.com/software/windows/dell-supportassist-update-is-crashing-pcs-with-constant-blue-screens-and-reboot-loops",
       "image_url": "https://cdn.mos.cms.futurecdn.net/Dasgrx6ZCHKBsWxUoKAGgP-1280-80.jpg",
       "pub_date": "Tue, 12 May 2026 11:40:00 +0000",
@@ -160840,7 +160840,7 @@
         "Software",
         "Operating Systems"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-12T11:56:05.450Z",
       "created_at": "2026-05-12T11:56:05.450Z"
