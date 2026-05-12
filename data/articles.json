@@ -162764,6 +162764,82 @@
       "priority": "hot",
       "fetchedAt": "2026-05-12T21:42:12.095Z",
       "created_at": "2026-05-12T21:42:12.095Z"
+    },
+    {
+      "id": 7890,
+      "source": "MarkTechPost",
+      "title_en": "Build a Hybrid-Memory Autonomous Agent with Modular Architecture and Tool Dispatch Using OpenAI",
+      "description_en": "In this tutorial, we begin by exploring the architecture behind a hybrid-memory autonomous agent. This system combines semantic vector search, keyword-based retrieval, and a modular tool-dispatching loop to create an agent capable of reasoning, remembering, and acting autonomously. We walk through each layer of the design from the ground up, starting with abstract interfaces that […]\nThe post Build a Hybrid-Memory Autonomous Agent with Modular Architecture and Tool Dispatch Using OpenAI appeared",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/12/build-a-hybrid-memory-autonomous-agent-with-modular-architecture-and-tool-dispatch-using-openai/",
+      "image_url": null,
+      "pub_date": "Tue, 12 May 2026 21:55:57 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Agentic AI",
+        "Editors Pick",
+        "Software Engineering",
+        "Staff",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-12T22:05:04.745Z",
+      "created_at": "2026-05-12T22:05:04.745Z"
+    },
+    {
+      "id": 7891,
+      "source": "OpenAI Blog",
+      "title_en": "How finance teams use Codex",
+      "description_en": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/academy/codex-for-work/how-finance-teams-use-codex",
+      "image_url": null,
+      "pub_date": "Tue, 12 May 2026 15:00:00 GMT",
+      "author": null,
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-12T22:05:05.165Z",
+      "created_at": "2026-05-12T22:05:05.165Z"
+    },
+    {
+      "id": 7892,
+      "source": "OpenAI Blog",
+      "title_en": "How NVIDIA engineers and researchers build with Codex",
+      "description_en": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/nvidia",
+      "image_url": null,
+      "pub_date": "Tue, 12 May 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-12T22:05:05.166Z",
+      "created_at": "2026-05-12T22:05:05.166Z"
+    },
+    {
+      "id": 7893,
+      "source": "OpenAI Blog",
+      "title_en": "AutoScout24 scales engineering with AI-powered workflows",
+      "description_en": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/autoscout24",
+      "image_url": null,
+      "pub_date": "Tue, 12 May 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-12T22:05:05.166Z",
+      "created_at": "2026-05-12T22:05:05.166Z"
     }
   ]
 }
