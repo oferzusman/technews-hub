@@ -1,9 +1,9 @@
 {
-  "total": 7821,
-  "translated": 7821,
+  "total": 7829,
+  "translated": 7829,
   "untranslated": 0,
-  "today": 61,
-  "week": 736,
+  "today": 69,
+  "week": 744,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 565,
-      "translated": 565,
+      "total": 567,
+      "translated": 567,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -31,14 +31,14 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 380,
-      "translated": 380,
+      "total": 381,
+      "translated": 381,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 348,
-      "translated": 348,
+      "total": 349,
+      "translated": 349,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -55,8 +55,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 296,
-      "translated": 296,
+      "total": 297,
+      "translated": 297,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -67,8 +67,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 275,
-      "translated": 275,
+      "total": 276,
+      "translated": 276,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 204,
-      "translated": 204,
+      "total": 205,
+      "translated": 205,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -133,8 +133,8 @@
     },
     {
       "name": "AI News",
-      "total": 70,
-      "translated": 70,
+      "total": 71,
+      "translated": 71,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-12T13:26:14.285Z"
+  "generatedAt": "2026-05-12T14:31:14.644Z"
 }
