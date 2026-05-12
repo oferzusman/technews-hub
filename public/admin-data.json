@@ -1,9 +1,9 @@
 {
-  "total": 7760,
-  "translated": 7760,
+  "total": 7761,
+  "translated": 7761,
   "untranslated": 0,
-  "today": 0,
-  "week": 675,
+  "today": 1,
+  "week": 676,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 539,
-      "translated": 539,
+      "total": 540,
+      "translated": 540,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-12T00:00:14.172Z"
+  "generatedAt": "2026-05-12T00:09:53.219Z"
 }
