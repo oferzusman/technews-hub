@@ -1,9 +1,9 @@
 {
-  "total": 7862,
-  "translated": 7862,
+  "total": 7870,
+  "translated": 7870,
   "untranslated": 0,
-  "today": 102,
-  "week": 777,
+  "today": 110,
+  "week": 785,
   "sources": [
     {
       "name": "Product Hunt",
@@ -43,8 +43,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 321,
-      "translated": 321,
+      "total": 322,
+      "translated": 322,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -55,8 +55,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 302,
-      "translated": 302,
+      "total": 306,
+      "translated": 306,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -67,8 +67,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 277,
-      "translated": 277,
+      "total": 278,
+      "translated": 278,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -85,9 +85,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 179,
-      "translated": 179,
-      "lastDate": "2026-05-12T17:00:00.000Z"
+      "total": 180,
+      "translated": 180,
+      "lastDate": "2026-05-12T17:34:09.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -156,16 +156,16 @@
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
+      "name": "Backdoor (TG)",
+      "total": 38,
+      "translated": 38,
+      "lastDate": "2026-05-12T18:03:01+00:00"
+    },
+    {
       "name": "Hi, AI Russian (TG)",
       "total": 38,
       "translated": 38,
       "lastDate": "2026-05-12T12:04:02+00:00"
-    },
-    {
-      "name": "Backdoor (TG)",
-      "total": 37,
-      "translated": 37,
-      "lastDate": "2026-05-12T09:19:53+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-12T18:08:18.169Z"
+  "generatedAt": "2026-05-12T18:16:33.332Z"
 }
