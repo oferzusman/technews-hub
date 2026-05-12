@@ -1,9 +1,9 @@
 {
-  "total": 7882,
-  "translated": 7882,
+  "total": 7885,
+  "translated": 7885,
   "untranslated": 0,
-  "today": 122,
-  "week": 797,
+  "today": 125,
+  "week": 800,
   "sources": [
     {
       "name": "Product Hunt",
@@ -79,8 +79,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 212,
-      "translated": 212,
+      "total": 213,
+      "translated": 213,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -115,9 +115,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 90,
-      "translated": 90,
-      "lastDate": "2026-05-12T18:34:01+00:00"
+      "total": 92,
+      "translated": 92,
+      "lastDate": "2026-05-12T20:37:59+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-12T20:57:31.023Z"
+  "generatedAt": "2026-05-12T20:58:00.539Z"
 }
