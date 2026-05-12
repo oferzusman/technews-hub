@@ -1,9 +1,9 @@
 {
-  "total": 7833,
-  "translated": 7833,
+  "total": 7839,
+  "translated": 7839,
   "untranslated": 0,
-  "today": 73,
-  "week": 748,
+  "today": 79,
+  "week": 754,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 567,
-      "translated": 567,
+      "total": 568,
+      "translated": 568,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -67,8 +67,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 276,
-      "translated": 276,
+      "total": 277,
+      "translated": 277,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -79,15 +79,15 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 206,
-      "translated": 206,
+      "total": 207,
+      "translated": 207,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
       "name": "The Verge AI",
-      "total": 173,
-      "translated": 173,
-      "lastDate": "2026-05-11T23:05:01.000Z"
+      "total": 174,
+      "translated": 174,
+      "lastDate": "2026-05-12T15:51:38.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -115,9 +115,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 88,
-      "translated": 88,
-      "lastDate": "2026-05-12T13:16:01+00:00"
+      "total": 89,
+      "translated": 89,
+      "lastDate": "2026-05-12T15:22:01+00:00"
     },
     {
       "name": "The Times of India",
@@ -133,8 +133,8 @@
     },
     {
       "name": "AI News",
-      "total": 71,
-      "translated": 71,
+      "total": 72,
+      "translated": 72,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-12T16:00:08.865Z"
+  "generatedAt": "2026-05-12T16:01:45.775Z"
 }
