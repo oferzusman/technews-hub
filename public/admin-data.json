@@ -1,9 +1,9 @@
 {
-  "total": 7791,
-  "translated": 7791,
+  "total": 7793,
+  "translated": 7793,
   "untranslated": 0,
-  "today": 31,
-  "week": 706,
+  "today": 33,
+  "week": 708,
   "sources": [
     {
       "name": "Product Hunt",
@@ -31,8 +31,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 378,
-      "translated": 378,
+      "total": 379,
+      "translated": 379,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -210,16 +210,16 @@
       "lastDate": "2026-04-09T02:36:13Z"
     },
     {
+      "name": "Data Science ODS.ai (TG)",
+      "total": 25,
+      "translated": 25,
+      "lastDate": "2026-05-12T09:36:14+00:00"
+    },
+    {
       "name": "SiliconANGLE News",
       "total": 24,
       "translated": 24,
       "lastDate": "2026-04-09T02:20:06Z"
-    },
-    {
-      "name": "Data Science ODS.ai (TG)",
-      "total": 24,
-      "translated": 24,
-      "lastDate": "2026-05-10T12:25:33+00:00"
     },
     {
       "name": "Wylsacom Red (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-12T09:34:45.313Z"
+  "generatedAt": "2026-05-12T09:40:21.186Z"
 }
