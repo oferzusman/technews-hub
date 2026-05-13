@@ -1,9 +1,9 @@
 {
-  "total": 7945,
-  "translated": 7945,
+  "total": 7952,
+  "translated": 7952,
   "untranslated": 0,
-  "today": 46,
-  "week": 713,
+  "today": 53,
+  "week": 720,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 572,
-      "translated": 572,
+      "total": 575,
+      "translated": 575,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -55,8 +55,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 307,
-      "translated": 307,
+      "total": 308,
+      "translated": 308,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 217,
-      "translated": 217,
+      "total": 218,
+      "translated": 218,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 41,
-      "translated": 41,
-      "lastDate": "2026-05-13T10:15:51+00:00"
+      "total": 42,
+      "translated": 42,
+      "lastDate": "2026-05-13T11:44:02+00:00"
     },
     {
       "name": "Backdoor (TG)",
@@ -199,9 +199,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 28,
-      "translated": 28,
-      "lastDate": "2026-05-13T07:53:13+00:00"
+      "total": 29,
+      "translated": 29,
+      "lastDate": "2026-05-13T11:08:35+00:00"
     },
     {
       "name": "Financial Post",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-13T11:08:33.058Z"
+  "generatedAt": "2026-05-13T12:32:41.284Z"
 }
