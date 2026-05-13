@@ -1,9 +1,9 @@
 {
-  "total": 7908,
-  "translated": 7908,
+  "total": 7909,
+  "translated": 7909,
   "untranslated": 0,
-  "today": 9,
-  "week": 676,
+  "today": 10,
+  "week": 677,
   "sources": [
     {
       "name": "Product Hunt",
@@ -198,16 +198,16 @@
       "lastDate": "2026-04-09T00:29:48Z"
     },
     {
+      "name": "Wylsacom Red (TG)",
+      "total": 27,
+      "translated": 27,
+      "lastDate": "2026-05-13T05:07:11+00:00"
+    },
+    {
       "name": "Financial Post",
       "total": 26,
       "translated": 26,
       "lastDate": "2026-04-09T04:35:19Z"
-    },
-    {
-      "name": "Wylsacom Red (TG)",
-      "total": 26,
-      "translated": 26,
-      "lastDate": "2026-05-13T02:54:44+00:00"
     },
     {
       "name": "Ibtimes.com.au",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-13T05:04:53.059Z"
+  "generatedAt": "2026-05-13T05:10:25.180Z"
 }
