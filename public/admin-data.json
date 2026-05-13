@@ -1,9 +1,9 @@
 {
-  "total": 7901,
-  "translated": 7901,
+  "total": 7908,
+  "translated": 7908,
   "untranslated": 0,
-  "today": 2,
-  "week": 669,
+  "today": 9,
+  "week": 676,
   "sources": [
     {
       "name": "Product Hunt",
@@ -31,8 +31,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 383,
-      "translated": 383,
+      "total": 384,
+      "translated": 384,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 323,
-      "translated": 323,
+      "total": 325,
+      "translated": 325,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 213,
-      "translated": 213,
+      "total": 215,
+      "translated": 215,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -115,9 +115,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 95,
-      "translated": 95,
-      "lastDate": "2026-05-13T01:05:11+00:00"
+      "total": 96,
+      "translated": 96,
+      "lastDate": "2026-05-13T03:15:09+00:00"
     },
     {
       "name": "The Times of India",
@@ -204,16 +204,16 @@
       "lastDate": "2026-04-09T04:35:19Z"
     },
     {
+      "name": "Wylsacom Red (TG)",
+      "total": 26,
+      "translated": 26,
+      "lastDate": "2026-05-13T02:54:44+00:00"
+    },
+    {
       "name": "Ibtimes.com.au",
       "total": 25,
       "translated": 25,
       "lastDate": "2026-04-09T02:36:13Z"
-    },
-    {
-      "name": "Wylsacom Red (TG)",
-      "total": 25,
-      "translated": 25,
-      "lastDate": "2026-05-12T14:42:01+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-13T01:30:18.463Z"
+  "generatedAt": "2026-05-13T05:03:02.261Z"
 }
