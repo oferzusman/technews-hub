@@ -163890,6 +163890,108 @@
       "priority": "hot",
       "fetchedAt": "2026-05-13T10:41:17.830Z",
       "created_at": "2026-05-13T10:41:17.830Z"
+    },
+    {
+      "id": 7943,
+      "source": "The Guardian AI",
+      "title_en": "Datacentres using 6% of electricity supply in UK and US, research says",
+      "description_en": "Industry body says energy consumption driven by AI up 15% globally in two years as it warns of societal backlash\nDatacentres are consuming 6% of electricity in the UK and US, with the growing strain of AI on energy supplies prompting community resistance, according to research.\nThe proportion of electricity used by vast warehouses stacked with microchips to power AI and the internet has risen 15% worldwide in the past two years as annual global investment in datacentres approaches $1tn (£740bn) ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/13/datacentres-electricity-consumption-uk-us-ai",
+      "image_url": "https://i.guim.co.uk/img/media/b06cb76a8d1930cd7908c77e28a524a5ece8ed02/1345_0_6723_5381/master/6723.jpg?width=140&quality=85&auto=format&fit=max&s=fd7c6ddf04b50e06709677af7f00f18e",
+      "pub_date": "Wed, 13 May 2026 10:48:13 GMT",
+      "author": "Robert Booth UK technology editor",
+      "categories": [
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Internet",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/internet"
+          }
+        },
+        {
+          "_": "Energy industry",
+          "$": {
+            "domain": "https://www.theguardian.com/business/energy-industry"
+          }
+        },
+        {
+          "_": "Energy",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/energy"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-13T11:00:07.552Z",
+      "created_at": "2026-05-13T11:00:07.552Z"
+    },
+    {
+      "id": 7944,
+      "source": "Tom's Hardware",
+      "title_en": "Intel confirms Googlebook AI laptop partnership, opening x86 possibilities for new OS — Google VP says devices to also ship with Qualcomm and MediaTek chips",
+      "description_en": "Intel has officially confirmed its partnership with Googlebook as Google prepares a new lineup of Gemini-powered AI laptops.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/laptops/intel-confirms-googlebook-ai-laptop-partnership-opening-x86-possibilities-for-new-os-google-vp-says-devices-to-also-ship-with-qualcomm-and-mediatek-chips",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/S36LUQXQBe6D3TPy2TNwYM-1280-80.jpg",
+      "pub_date": "Wed, 13 May 2026 10:58:33 +0000",
+      "author": " Kunal Khullar ",
+      "categories": [
+        "Laptops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-13T11:00:08.400Z",
+      "created_at": "2026-05-13T11:00:08.400Z"
+    },
+    {
+      "id": 7945,
+      "source": "XOR Journal (TG)",
+      "title_en": "Теперь можно попросить Claude разобрать проект и создать интерактивную документацию за один промпт 😱Разраб поделился промптом, который создаёт HTML-страницу, где отображаются все компоненты и модули ",
+      "description_en": "Теперь можно попросить Claude разобрать проект и создать интерактивную документацию за один промпт 😱Разраб поделился промптом, который создаёт HTML-страницу, где отображаются все компоненты и модули проекта. А по клику на сценарии показывается, как данные проходят через систему и что с ними происходит + формируется JSON с подробным описанием.На выходе получается и документация, и готовый контекст для дальнейшей работы с ИИ. Удобно? Удобно.Сам промпт:Create a single page html that documents work",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9230",
+      "image_url": null,
+      "pub_date": "2026-05-13T10:58:32+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-13T11:00:13.825Z",
+      "created_at": "2026-05-13T11:00:13.825Z"
     }
   ]
 }
