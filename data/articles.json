@@ -163896,8 +163896,8 @@
       "source": "The Guardian AI",
       "title_en": "Datacentres using 6% of electricity supply in UK and US, research says",
       "description_en": "Industry body says energy consumption driven by AI up 15% globally in two years as it warns of societal backlash\nDatacentres are consuming 6% of electricity in the UK and US, with the growing strain of AI on energy supplies prompting community resistance, according to research.\nThe proportion of electricity used by vast warehouses stacked with microchips to power AI and the internet has risen 15% worldwide in the past two years as annual global investment in datacentres approaches $1tn (£740bn) ",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מרכזי נתונים צורכים 6% מחשמל בבריטניה והאמריקה",
+      "description_he": "התחנות הענקיות שמנעות את ה-AI וה-internet כבר צורכות 6% מכל החשמל בבריטניה ובאמריקה, וההצריכה הולכת וגדלה בקצב משוגע - עלייה של 15% בעולם בשנתיים האחרונות! עם השקעות גלובליות שמגיעות כמעט לטריליון דולר במרכזי נתונים, התושבים מתחילים להתנגד ברצינות לנטל הכבד על מערכת החשמל. מתברר שהמרוץ הענק אחרי AI פשוту עולה לנו בהרבה יותר מכסף - גם בחשמל והוצאות אנרגיה. מקור: The Guardian AI",
       "link": "https://www.theguardian.com/technology/2026/may/13/datacentres-electricity-consumption-uk-us-ai",
       "image_url": "https://i.guim.co.uk/img/media/b06cb76a8d1930cd7908c77e28a524a5ece8ed02/1345_0_6723_5381/master/6723.jpg?width=140&quality=85&auto=format&fit=max&s=fd7c6ddf04b50e06709677af7f00f18e",
       "pub_date": "Wed, 13 May 2026 10:48:13 GMT",
@@ -163952,7 +163952,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-13T11:00:07.552Z",
       "created_at": "2026-05-13T11:00:07.552Z"
@@ -163962,8 +163962,8 @@
       "source": "Tom's Hardware",
       "title_en": "Intel confirms Googlebook AI laptop partnership, opening x86 possibilities for new OS — Google VP says devices to also ship with Qualcomm and MediaTek chips",
       "description_en": "Intel has officially confirmed its partnership with Googlebook as Google prepares a new lineup of Gemini-powered AI laptops.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "אינטל מאשרת שותפות עם גוגל ל-AI laptops חדשים - התקנים יגיעו גם עם שבבי Qualcomm ו-MediaTek",
+      "description_he": "אינטל רשמית אישרה את ההשתתפות שלה בפיתוח סדרת AI laptops חדשה של גוגל עם Gemini. התקנים האלה לא יהיו בעלי אקסקלוסיביות לשבבי x86 של אינטל - גוגל תשתמש גם בשבבים של Qualcomm ו-MediaTek, מה שנותן לה גמישות רבה יותר בפיתוח עולם הAI laptops החדש. מהלך חכם של גוגל שפותח אפשרויות רחבות עבור הקו הממוד הבא של מחשבים ניידים. מקור: Tom's Hardware",
       "link": "https://www.tomshardware.com/laptops/intel-confirms-googlebook-ai-laptop-partnership-opening-x86-possibilities-for-new-os-google-vp-says-devices-to-also-ship-with-qualcomm-and-mediatek-chips",
       "image_url": "https://cdn.mos.cms.futurecdn.net/S36LUQXQBe6D3TPy2TNwYM-1280-80.jpg",
       "pub_date": "Wed, 13 May 2026 10:58:33 +0000",
@@ -163971,7 +163971,7 @@
       "categories": [
         "Laptops"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-13T11:00:08.400Z",
       "created_at": "2026-05-13T11:00:08.400Z"
@@ -163981,14 +163981,14 @@
       "source": "XOR Journal (TG)",
       "title_en": "Теперь можно попросить Claude разобрать проект и создать интерактивную документацию за один промпт 😱Разраб поделился промптом, который создаёт HTML-страницу, где отображаются все компоненты и модули ",
       "description_en": "Теперь можно попросить Claude разобрать проект и создать интерактивную документацию за один промпт 😱Разраб поделился промптом, который создаёт HTML-страницу, где отображаются все компоненты и модули проекта. А по клику на сценарии показывается, как данные проходят через систему и что с ними происходит + формируется JSON с подробным описанием.На выходе получается и документация, и готовый контекст для дальнейшей работы с ИИ. Удобно? Удобно.Сам промпт:Create a single page html that documents work",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "Claude יכול עכשיו ליצור תיעוד אינטראקטיבי למשהו בקליק אחד 🤯",
+      "description_he": "מפתח שיתף prompts חכם שגורם ל-Claude לנתח פרוייקט שלם ובעצם ליצור דף HTML אינטראקטיבי עם כל הקומפוננטים והמודולים. כשאתה לוחץ על הכל, זה מראה לך איך הדאטה זורם בתוך המערכת ועוד יוצא JSON עם תיעוד מלא. במילים אחרות - במהלך זה אתה מקבל גם תיעוד מדוקדק וגם context מוכן לעבודה הבאה עם AI. זה באמת משנה משחק עבור devs שלא בא להם לכתוב דוקס בעצמם.",
       "link": "https://t.me/xor_journal/9230",
       "image_url": null,
       "pub_date": "2026-05-13T10:58:32+00:00",
       "author": null,
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-13T11:00:13.825Z",
       "created_at": "2026-05-13T11:00:13.825Z"
