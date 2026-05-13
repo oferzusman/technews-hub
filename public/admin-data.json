@@ -1,9 +1,9 @@
 {
-  "total": 8016,
+  "total": 8024,
   "translated": 8016,
-  "untranslated": 0,
-  "today": 117,
-  "week": 784,
+  "untranslated": 8,
+  "today": 125,
+  "week": 792,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 561,
+      "total": 562,
       "translated": 561,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -37,7 +37,7 @@
     },
     {
       "name": "Ars Technica",
-      "total": 356,
+      "total": 359,
       "translated": 356,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -49,7 +49,7 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 319,
+      "total": 320,
       "translated": 319,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
@@ -61,7 +61,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 288,
+      "total": 290,
       "translated": 288,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -97,7 +97,7 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 118,
+      "total": 119,
       "translated": 118,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-13T18:25:24.103Z"
+  "generatedAt": "2026-05-13T19:25:15.120Z"
 }
