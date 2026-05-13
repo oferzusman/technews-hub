@@ -1,9 +1,9 @@
 {
-  "total": 8011,
-  "translated": 8011,
+  "total": 8015,
+  "translated": 8015,
   "untranslated": 0,
-  "today": 112,
-  "week": 779,
+  "today": 116,
+  "week": 783,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 560,
-      "translated": 560,
+      "total": 561,
+      "translated": 561,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 355,
-      "translated": 355,
+      "total": 356,
+      "translated": 356,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 287,
-      "translated": 287,
+      "total": 288,
+      "translated": 288,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -150,16 +150,16 @@
       "lastDate": "2026-04-09T06:45:21Z"
     },
     {
+      "name": "Backdoor (TG)",
+      "total": 42,
+      "translated": 42,
+      "lastDate": "2026-05-13T17:38:50+00:00"
+    },
+    {
       "name": "Hi, AI Russian (TG)",
       "total": 42,
       "translated": 42,
       "lastDate": "2026-05-13T11:44:02+00:00"
-    },
-    {
-      "name": "Backdoor (TG)",
-      "total": 41,
-      "translated": 41,
-      "lastDate": "2026-05-13T12:56:56+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-13T17:41:28.220Z"
+  "generatedAt": "2026-05-13T18:08:33.325Z"
 }
