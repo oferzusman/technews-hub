@@ -1,9 +1,9 @@
 {
-  "total": 8030,
-  "translated": 8030,
+  "total": 8036,
+  "translated": 8036,
   "untranslated": 0,
-  "today": 131,
-  "week": 798,
+  "today": 137,
+  "week": 804,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 563,
-      "translated": 563,
+      "total": 564,
+      "translated": 564,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -31,14 +31,14 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 393,
-      "translated": 393,
+      "total": 394,
+      "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 359,
-      "translated": 359,
+      "total": 362,
+      "translated": 362,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -139,9 +139,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 65,
-      "translated": 65,
-      "lastDate": "2026-05-13T17:32:30+00:00"
+      "total": 66,
+      "translated": 66,
+      "lastDate": "2026-05-13T21:15:23+00:00"
     },
     {
       "name": "Github.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-13T21:03:51.099Z"
+  "generatedAt": "2026-05-13T21:44:11.751Z"
 }
