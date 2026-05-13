@@ -165738,6 +165738,55 @@
       "priority": "hot",
       "fetchedAt": "2026-05-13T20:17:45.836Z",
       "created_at": "2026-05-13T20:17:45.836Z"
+    },
+    {
+      "id": 8029,
+      "source": "MarkTechPost",
+      "title_en": "Fastino Labs Open-Sources GLiGuard: A 300M Parameter Safety Moderation Model That Matches or Exceeds Accuracy of Models 23–90x Its Size",
+      "description_en": "Fastino Labs has released GLiGuard, a 300M parameter open-source safety moderation model that evaluates four safety tasks — prompt safety, jailbreak strategy detection, harm category classification, and refusal detection — in a single forward pass. Built on an encoder architecture rather than the decoder-only design used by most guardrail models, GLiGuard achieves up to 16x higher throughput and 16.6x lower latency than current state-of-the-art models, while matching or exceeding the accuracy of",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/13/fastino-labs-open-sources-gliguard-a-300m-parameter-safety-moderation-model-that-matches-or-exceeds-accuracy-of-models-23-90x-its-size/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-13-at-1.38.03-PM-1.png",
+      "pub_date": "Wed, 13 May 2026 20:41:13 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "New Releases",
+        "Open Source",
+        "Security",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-13T21:02:15.423Z",
+      "created_at": "2026-05-13T21:02:15.423Z"
+    },
+    {
+      "id": 8030,
+      "source": "CNBC Tech",
+      "title_en": "Cisco's stock pops 15% on surging AI orders, as company says it's cutting almost 4,000 jobs",
+      "description_en": "Cisco's AI story has finally started resonating with Wall Street, with the stock hitting a record late last year and continuing to rally in 2026.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/13/cisco-csco-q3-earnings-report-2026.html",
+      "image_url": null,
+      "pub_date": "Wed, 13 May 2026 20:48:06 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-13T21:02:17.121Z",
+      "created_at": "2026-05-13T21:02:17.121Z"
     }
   ]
 }
