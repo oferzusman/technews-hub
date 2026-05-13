@@ -164526,6 +164526,63 @@
       "priority": "hot",
       "fetchedAt": "2026-05-13T13:23:44.331Z",
       "created_at": "2026-05-13T13:23:44.331Z"
+    },
+    {
+      "id": 7972,
+      "source": "TechCrunch AI",
+      "title_en": "Poppy debuts a proactive AI assistant to help organize your digital life",
+      "description_en": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what’s happening in your life.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
+      "image_url": null,
+      "pub_date": "Wed, 13 May 2026 13:27:09 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "AI",
+        "Apps",
+        "ai apps",
+        "AI assistant",
+        "poppy"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-13T13:36:14.558Z",
+      "created_at": "2026-05-13T13:36:14.558Z"
+    },
+    {
+      "id": 7973,
+      "source": "Interesting Engineering",
+      "title_en": "Google and SpaceX negotiating launch deal for orbital data centers, reports claim",
+      "description_en": "Since AI needs more power than Earth’s electricity grids can handle, tech giants are now...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/space/spacex-google-orbital-data-center",
+      "image_url": "https://www.youtube.com/embed/xuuo4qWhK6I",
+      "pub_date": "Wed, 13 May 2026 13:33:40 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-13T13:36:21.033Z",
+      "created_at": "2026-05-13T13:36:21.033Z"
+    },
+    {
+      "id": 7974,
+      "source": "Interesting Engineering",
+      "title_en": "23% extended EV battery life achieved with new tech without increasing charge time",
+      "description_en": "Researchers at Chalmers University of Technology in Sweden have developed an artificial intelligence method that...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/ev-battery-life-extended-charge-time",
+      "image_url": null,
+      "pub_date": "Wed, 13 May 2026 13:27:08 +0000",
+      "author": "Aman Tripathi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-13T13:36:21.033Z",
+      "created_at": "2026-05-13T13:36:21.033Z"
     }
   ]
 }
