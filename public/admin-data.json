@@ -1,9 +1,9 @@
 {
-  "total": 8041,
-  "translated": 8041,
+  "total": 8043,
+  "translated": 8043,
   "untranslated": 0,
-  "today": 142,
-  "week": 809,
+  "today": 144,
+  "week": 811,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 564,
-      "translated": 564,
+      "total": 565,
+      "translated": 565,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -115,9 +115,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 102,
-      "translated": 102,
-      "lastDate": "2026-05-13T20:11:01+00:00"
+      "total": 103,
+      "translated": 103,
+      "lastDate": "2026-05-13T22:47:49+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-13T22:38:41.267Z"
+  "generatedAt": "2026-05-13T22:51:23.270Z"
 }
