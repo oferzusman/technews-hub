@@ -1,7 +1,7 @@
 {
   "total": 8024,
-  "translated": 8016,
-  "untranslated": 8,
+  "translated": 8024,
+  "untranslated": 0,
   "today": 125,
   "week": 792,
   "sources": [
@@ -20,7 +20,7 @@
     {
       "name": "Interesting Engineering",
       "total": 562,
-      "translated": 561,
+      "translated": 562,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -38,7 +38,7 @@
     {
       "name": "Ars Technica",
       "total": 359,
-      "translated": 356,
+      "translated": 359,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -50,7 +50,7 @@
     {
       "name": "OpenAI Blog",
       "total": 320,
-      "translated": 319,
+      "translated": 320,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -62,7 +62,7 @@
     {
       "name": "The Decoder",
       "total": 290,
-      "translated": 288,
+      "translated": 290,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -98,7 +98,7 @@
     {
       "name": "MIT Technology Review",
       "total": 119,
-      "translated": 118,
+      "translated": 119,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-13T19:25:15.120Z"
+  "generatedAt": "2026-05-13T19:25:33.952Z"
 }
