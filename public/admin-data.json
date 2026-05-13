@@ -1,9 +1,9 @@
 {
-  "total": 8024,
-  "translated": 8024,
-  "untranslated": 0,
-  "today": 125,
-  "week": 792,
+  "total": 8027,
+  "translated": 8026,
+  "untranslated": 1,
+  "today": 128,
+  "week": 795,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 562,
+      "total": 563,
       "translated": 562,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -55,8 +55,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 316,
-      "translated": 316,
+      "total": 318,
+      "translated": 318,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-13T19:26:44.383Z"
+  "generatedAt": "2026-05-13T20:08:26.863Z"
 }
