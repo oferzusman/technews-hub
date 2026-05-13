@@ -165022,6 +165022,118 @@
       "priority": "hot",
       "fetchedAt": "2026-05-13T15:34:12.569Z",
       "created_at": "2026-05-13T15:34:12.569Z"
+    },
+    {
+      "id": 7995,
+      "source": "The Decoder",
+      "title_en": "Luma opens Uni-1.1 image model API at prices and quality matching OpenAI and Google",
+      "description_en": "Luma is making its Uni-1.1 image model available via API, with prices starting at $0.04 per image at 2,048-pixel resolution. On the Arena leaderboard, the model ranks third, right behind Google and OpenAI. The API includes web search, built-in reasoning, and support for up to nine reference images.\nThe article Luma opens Uni-1.1 image model API at prices and quality matching OpenAI and Google appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/luma-opens-uni-1-1-image-model-api-at-prices-and-quality-matching-openai-and-google/",
+      "image_url": null,
+      "pub_date": "Wed, 13 May 2026 15:45:46 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Image AI",
+        "Luma"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-13T16:00:01.131Z",
+      "created_at": "2026-05-13T16:00:01.131Z"
+    },
+    {
+      "id": 7996,
+      "source": "The Guardian AI",
+      "title_en": "One in seven prefer consulting AI chatbots to seeing a doctor, UK study shows",
+      "description_en": "Exclusive: Doctors say ‘highly concerning’ poll highlights risk to patients of turning to AI for medical advice\nOne in seven people are using AI chatbots for health advice instead of seeing their GP, a UK study has found.\nThe poll of more than 2,000 people found that – of the 15% turning to chatbots – one in four had done so because of long NHS waiting lists.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/society/2026/may/13/one-in-seven-prefer-ai-chatbots-to-seeing-doctor-uk-study",
+      "image_url": "https://i.guim.co.uk/img/media/afbfee4ff0412a020c6abe8ab5b6bd254f59748f/484_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=9ee4e218261333574256d5c03f163ea8",
+      "pub_date": "Wed, 13 May 2026 15:55:17 GMT",
+      "author": "Tobi Thomas Health and inequalities correspondent",
+      "categories": [
+        {
+          "_": "Health",
+          "$": {
+            "domain": "https://www.theguardian.com/society/health"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "NHS",
+          "$": {
+            "domain": "https://www.theguardian.com/society/nhs"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Medicine",
+          "$": {
+            "domain": "https://www.theguardian.com/education/medicine"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-13T16:00:03.156Z",
+      "created_at": "2026-05-13T16:00:03.156Z"
+    },
+    {
+      "id": 7997,
+      "source": "Tom's Hardware",
+      "title_en": "Japanese chemical giant JSR expands to Taiwan for EUV photoresist production near TSMC — plant to fill missing chemical link to scale EUV materials",
+      "description_en": "The plant, located in Yunlin County, is expected to come online as early as 2028 and will co-develop advanced photoresists with TSMC.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/jsr-builds-first-taiwan-photoresist-plant-as-japanese-materials-makers-race-to-embed-next-to-tsmc",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/uoySxtkp73yxewfA7G26nQ-1280-80.jpg",
+      "pub_date": "Wed, 13 May 2026 15:37:18 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-13T16:00:04.454Z",
+      "created_at": "2026-05-13T16:00:04.454Z"
+    },
+    {
+      "id": 7998,
+      "source": "Tom's Hardware",
+      "title_en": "$1,260 off a Sandisk 8TB external SSD is a deal you can't ignore at 11 cents per gigabyte — pro storage at blistering 1GB/s speeds for $739",
+      "description_en": "The Sandisk Desk Drive 8TB normally retails for $1,999.99, but you can have it today for just $739.99, saving $1,260.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/external-ssds/usd1-260-off-a-sandisk-8tb-external-ssd-is-a-deal-you-cant-ignore-at-11-cents-per-gigabyte-pro-storage-at-blistering-1gb-s-speeds-for-usd739",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/EmSDnRwmPXQpqzXm7zsoJh-1280-80.jpg",
+      "pub_date": "Wed, 13 May 2026 15:36:47 +0000",
+      "author": " Zhiye Liu ",
+      "categories": [
+        "External SSDs",
+        "PC Components",
+        "Storage",
+        "SSDs"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-13T16:00:04.454Z",
+      "created_at": "2026-05-13T16:00:04.454Z"
     }
   ]
 }
