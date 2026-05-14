@@ -1,9 +1,9 @@
 {
-  "total": 8050,
-  "translated": 8050,
+  "total": 8052,
+  "translated": 8052,
   "untranslated": 0,
-  "today": 4,
-  "week": 637,
+  "today": 6,
+  "week": 639,
   "sources": [
     {
       "name": "Product Hunt",
@@ -49,8 +49,8 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 320,
-      "translated": 320,
+      "total": 321,
+      "translated": 321,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -91,8 +91,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 176,
-      "translated": 176,
+      "total": 177,
+      "translated": 177,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-14T04:14:13.627Z"
+  "generatedAt": "2026-05-14T05:08:25.056Z"
 }
