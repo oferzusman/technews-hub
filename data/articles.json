@@ -168401,8 +168401,8 @@
       "source": "The Register",
       "title_en": "Sick and wrong: Ontario auditors find doctors' AI note takers routinely blow basic facts",
       "description_en": "60% of evaluated AI Scribe systems mixed up prescribed drugs in patient notes, auditors say",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "חולה וטעות: מבקרים בונטריו גילו שמערכות AI לתיעוד רופאים עושות טעויות בסיסיות",
+      "description_he": "זה כבר לא בדיחה - 60% ממערכות ה-AI Scribe שנבדקו התבלבלו בתרופות שרופאים רשמו למטופלים, וזה עלול להיות מסוכן מאוד. מבקרים בקנדה גילו שהמערכות הללו שהן אמורות להקל על חיי הרופאים, על ידי תיעוד אוטומטי של הפגישות, בעצם עושות בעיות בנושאים בסיסיים במידע רפואי קריטי.",
       "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
       "image_url": "https://image.theregister.com/?imageId=5240796&width=800",
       "pub_date": "Thu, 14 May 2026 22:50:05 +0200",
@@ -168410,7 +168410,7 @@
       "categories": [
         "ai + ml"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-14T20:52:52.745Z",
       "created_at": "2026-05-14T20:52:52.745Z"
