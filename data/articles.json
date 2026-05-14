@@ -167045,6 +167045,104 @@
       "priority": "hot",
       "fetchedAt": "2026-05-14T10:43:14.950Z",
       "created_at": "2026-05-14T10:43:14.950Z"
+    },
+    {
+      "id": 8090,
+      "source": "The Verge AI",
+      "title_en": "You can make an app for that",
+      "description_en": "The tyranny of software is almost over. Since the first computer programmers wrote the first computer programs, we, the users of that software, have been forced to live in the worlds those programs create. The features are the features. The design is the design. Want something else, something better? Learn to code, I guess.\nUntil now, the people making a given piece of software - mostly well-paid professional developers - have rarely been the same as the ones using it: lawyers, doctors, churches",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution",
+      "image_url": null,
+      "pub_date": "2026-05-14T11:00:00.000Z",
+      "author": "David Pierce",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-14T11:21:56.157Z",
+      "created_at": "2026-05-14T11:21:56.157Z"
+    },
+    {
+      "id": 8091,
+      "source": "The Guardian AI",
+      "title_en": "The Elon Musk v Sam Altman battle is a distraction | Karen Hao",
+      "description_en": "Fixating on questions of whether Altman is untrustworthy, or whether Musk is even less so distracts from a far deeper problem with AI\nIf it wasn’t already clear, Elon Musk and Sam Altman hate each other.\nWhile the two men were once cofounders of OpenAI, they’re now locked in a vicious feud, playing out in all its theatrics in front of a judge and jury in a California courtroom. Musk is suing, alleging that Altman and OpenAI president Greg Brockman tricked him into forming and funding the organiz",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/commentisfree/2026/may/14/elon-musk-sam-altman-ai-feud",
+      "image_url": "https://i.guim.co.uk/img/media/58416a7cd940b07811f030978f7bb03328d5357d/148_0_1483_1186/master/1483.jpg?width=140&quality=85&auto=format&fit=max&s=0a898ffc61a848f4e16a7b5774dfdbb1",
+      "pub_date": "Thu, 14 May 2026 11:00:24 GMT",
+      "author": "Karen Hao",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Sam Altman",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/sam-altman"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-14T11:21:58.727Z",
+      "created_at": "2026-05-14T11:21:58.727Z"
+    },
+    {
+      "id": 8092,
+      "source": "AI News",
+      "title_en": "Physical AI moves closer to factory floors as companies test humanoid robots",
+      "description_en": "British technology company Humanoid will deploy humanoid robots at factories operated by German industrial supplier Schaeffler, Reuters reported. The two companies’ agreement covers an estimated 1,000 to 2,000 robots in Schaeffler’s global manufacturing sites by 2032, according to a Humanoid spokesperson. The companies have not disclosed the contract value. The first deployment is scheduled between […]\nThe post Physical AI moves closer to factory floors as companies test humanoid robots appeared",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/",
+      "image_url": null,
+      "pub_date": "Thu, 14 May 2026 10:00:00 +0000",
+      "author": "Muhammad Zulhusni",
+      "categories": [
+        "AI in Action",
+        "Artificial Intelligence",
+        "Manufacturing & Engineering AI",
+        "Physical AI",
+        "World of Work",
+        "ai",
+        "data",
+        "manufacturing",
+        "physical ai",
+        "robots"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-14T11:21:59.372Z",
+      "created_at": "2026-05-14T11:21:59.372Z"
+    },
+    {
+      "id": 8093,
+      "source": "CNBC Tech",
+      "title_en": "Chinese companies are ramping up homegrown AI chips, even if Nvidia is coming back",
+      "description_en": "Chinese tech companies have turned to domestic chips as Nvidia has remained shut out of the market.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/14/china-ai-chips-nvidia.html",
+      "image_url": null,
+      "pub_date": "Thu, 14 May 2026 11:17:09 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-14T11:22:01.959Z",
+      "created_at": "2026-05-14T11:22:01.959Z"
     }
   ]
 }
