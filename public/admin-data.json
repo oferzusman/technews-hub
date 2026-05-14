@@ -1,9 +1,9 @@
 {
-  "total": 8093,
-  "translated": 8093,
+  "total": 8102,
+  "translated": 8102,
   "untranslated": 0,
-  "today": 47,
-  "week": 680,
+  "today": 56,
+  "week": 689,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 582,
-      "translated": 582,
+      "total": 585,
+      "translated": 585,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 363,
-      "translated": 363,
+      "total": 364,
+      "translated": 364,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 292,
-      "translated": 292,
+      "total": 294,
+      "translated": 294,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -97,8 +97,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 119,
-      "translated": 119,
+      "total": 120,
+      "translated": 120,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -109,9 +109,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 108,
-      "translated": 108,
-      "lastDate": "2026-05-14T08:54:01+00:00"
+      "total": 109,
+      "translated": 109,
+      "lastDate": "2026-05-14T11:29:01+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 43,
-      "translated": 43,
-      "lastDate": "2026-05-14T06:27:46+00:00"
+      "total": 44,
+      "translated": 44,
+      "lastDate": "2026-05-14T11:41:01+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-14T11:29:35.367Z"
+  "generatedAt": "2026-05-14T12:19:29.298Z"
 }
