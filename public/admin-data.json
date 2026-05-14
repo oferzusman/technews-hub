@@ -1,9 +1,9 @@
 {
-  "total": 8107,
-  "translated": 8107,
+  "total": 8119,
+  "translated": 8119,
   "untranslated": 0,
-  "today": 61,
-  "week": 694,
+  "today": 73,
+  "week": 706,
   "sources": [
     {
       "name": "Product Hunt",
@@ -31,8 +31,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 398,
-      "translated": 398,
+      "total": 399,
+      "translated": 399,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -43,14 +43,14 @@
     },
     {
       "name": "New Atlas",
-      "total": 333,
-      "translated": 333,
+      "total": 334,
+      "translated": 334,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 321,
-      "translated": 321,
+      "total": 324,
+      "translated": 324,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 294,
-      "translated": 294,
+      "total": 296,
+      "translated": 296,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -97,21 +97,21 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 120,
-      "translated": 120,
+      "total": 122,
+      "translated": 122,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
       "name": "Hugging Face Blog",
-      "total": 115,
-      "translated": 115,
+      "total": 116,
+      "translated": 116,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 109,
-      "translated": 109,
-      "lastDate": "2026-05-14T11:29:01+00:00"
+      "total": 110,
+      "translated": 110,
+      "lastDate": "2026-05-14T14:11:04+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -175,9 +175,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 37,
-      "translated": 37,
-      "lastDate": "2026-05-14T09:34:19+00:00"
+      "total": 38,
+      "translated": 38,
+      "lastDate": "2026-05-14T14:04:18+00:00"
     },
     {
       "name": "Slashdot.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-14T13:16:47.613Z"
+  "generatedAt": "2026-05-14T15:04:55.925Z"
 }
