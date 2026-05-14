@@ -1,26 +1,26 @@
 {
-  "total": 8079,
-  "translated": 8079,
+  "total": 8089,
+  "translated": 8089,
   "untranslated": 0,
-  "today": 33,
-  "week": 666,
+  "today": 43,
+  "week": 676,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 939,
-      "translated": 939,
+      "total": 941,
+      "translated": 941,
       "lastDate": "2026-05-14T06:50:48.000Z"
     },
     {
       "name": "Tom's Hardware",
-      "total": 578,
-      "translated": 578,
+      "total": 582,
+      "translated": 582,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 567,
-      "translated": 567,
+      "total": 568,
+      "translated": 568,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 221,
-      "translated": 221,
+      "total": 223,
+      "translated": 223,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -175,9 +175,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 36,
-      "translated": 36,
-      "lastDate": "2026-05-13T14:50:20+00:00"
+      "total": 37,
+      "translated": 37,
+      "lastDate": "2026-05-14T09:34:19+00:00"
     },
     {
       "name": "Slashdot.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-14T10:36:27.953Z"
+  "generatedAt": "2026-05-14T10:44:54.382Z"
 }
