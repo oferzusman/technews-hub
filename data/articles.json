@@ -166178,8 +166178,8 @@
       "source": "OpenAI Blog",
       "title_en": "Our response to the TanStack npm supply chain attack",
       "description_en": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "התגובה של OpenAI להתקפת supply chain של TanStack",
+      "description_he": "OpenAI חשפה את פרטי התקפת ה-supply chain שהשפיעה על TanStack (שקיבלה את השם 'Mini Shai-Hulud' וייחודי לישראל), וגילתה איזה מערכות נפגעו וכיצד היא מגנה עליהן עכשיו. משהו חשוב: משתמשי macOS חייבים לעדכן את האפליקציות של OpenAI עד ל-12 ביוני 2026, וחברה דברה גם על איך היא מחזקת את ההגנות נגד התקפות supply chain שזה בעצם הולך להיות הרבה יותר מסובך בעתיד.",
       "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
       "image_url": null,
       "pub_date": "Wed, 13 May 2026 00:00:00 GMT",
@@ -166187,7 +166187,7 @@
       "categories": [
         "Security"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-05-14T05:07:42.294Z",
       "created_at": "2026-05-14T05:07:42.294Z"
@@ -166197,8 +166197,8 @@
       "source": "MarkTechPost",
       "title_en": "How to Build a Dynamic Zero-Trust Network Simulation with Graph-Based Micro-Segmentation, Adaptive Policy Engine, and Insider Threat Detection",
       "description_en": "In this tutorial, we build a realistic Zero-Trust network simulation by modeling a micro-segmented environment as a directed graph and forcing every request to earn access through continuous verification. We implement a dynamic policy engine that blends ABAC-style permissions with device posture, MFA, path reachability, zone sensitivity, and live risk signals such as anomaly and […]\nThe post How to Build a Dynamic Zero-Trust Network Simulation with Graph-Based Micro-Segmentation, Adaptive Policy",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "איך בונים סימולציית Zero-Trust דינמית עם Micro-Segmentation מבוסס גרפים, מנוע מדיניות אדפטיבי וגילוי איומי מפנים",
+      "description_he": "טיפול עמוק לבניית סימולציית Zero-Trust שמדמה סביבת רשת מקטנת עם בטיחות מקסימלית - כל בקשה צריכה להוכיח שהיא בטוחה בזמן אמת. המערכת משלבת מנוע מדיניות חכם שמטמיע ABAC, בדיקות device posture, MFA וניטור סיכונים כגון anomaly detection כדי לתפוס איומי מפנים שלא הולכים תחת רדאר.",
       "link": "https://www.marktechpost.com/2026/05/13/how-to-build-a-dynamic-zero-trust-network-simulation-with-graph-based-micro-segmentation-adaptive-policy-engine-and-insider-threat-detection/",
       "image_url": null,
       "pub_date": "Thu, 14 May 2026 02:31:47 +0000",
@@ -166210,7 +166210,7 @@
         "Staff",
         "Tutorials"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-05-14T05:07:42.365Z",
       "created_at": "2026-05-14T05:07:42.365Z"
