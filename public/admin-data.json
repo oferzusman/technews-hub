@@ -1,9 +1,9 @@
 {
-  "total": 8054,
-  "translated": 8054,
+  "total": 8058,
+  "translated": 8058,
   "untranslated": 0,
-  "today": 8,
-  "week": 641,
+  "today": 12,
+  "week": 645,
   "sources": [
     {
       "name": "Product Hunt",
@@ -48,16 +48,16 @@
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
+      "name": "TechCrunch AI",
+      "total": 321,
+      "translated": 321,
+      "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
+    },
+    {
       "name": "OpenAI Blog",
       "total": 321,
       "translated": 321,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
-    },
-    {
-      "name": "TechCrunch AI",
-      "total": 320,
-      "translated": 320,
-      "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "The Decoder",
@@ -91,8 +91,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 177,
-      "translated": 177,
+      "total": 178,
+      "translated": 178,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -109,9 +109,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 106,
-      "translated": 106,
-      "lastDate": "2026-05-14T02:47:01+00:00"
+      "total": 107,
+      "translated": 107,
+      "lastDate": "2026-05-14T05:40:14+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 42,
-      "translated": 42,
-      "lastDate": "2026-05-13T17:38:50+00:00"
+      "total": 43,
+      "translated": 43,
+      "lastDate": "2026-05-14T06:09:24+00:00"
     },
     {
       "name": "Hi, AI Russian (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-14T05:32:56.107Z"
+  "generatedAt": "2026-05-14T06:24:36.633Z"
 }
