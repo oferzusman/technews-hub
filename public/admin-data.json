@@ -1,9 +1,9 @@
 {
-  "total": 8157,
+  "total": 8164,
   "translated": 8157,
-  "untranslated": 0,
-  "today": 111,
-  "week": 744,
+  "untranslated": 7,
+  "today": 118,
+  "week": 751,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 575,
+      "total": 577,
       "translated": 575,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -31,7 +31,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 401,
+      "total": 402,
       "translated": 401,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -49,7 +49,7 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 329,
+      "total": 331,
       "translated": 329,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -85,9 +85,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 192,
+      "total": 193,
       "translated": 192,
-      "lastDate": "2026-05-14T20:00:00.000Z"
+      "lastDate": "2026-05-14T20:59:23.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -109,9 +109,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 112,
+      "total": 113,
       "translated": 112,
-      "lastDate": "2026-05-14T19:22:01+00:00"
+      "lastDate": "2026-05-14T21:48:01+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-14T20:54:56.430Z"
+  "generatedAt": "2026-05-14T21:50:52.242Z"
 }
