@@ -1,14 +1,14 @@
 {
-  "total": 8071,
-  "translated": 8071,
-  "untranslated": 0,
-  "today": 25,
-  "week": 658,
+  "total": 8079,
+  "translated": 8078,
+  "untranslated": 1,
+  "today": 33,
+  "week": 666,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 937,
-      "translated": 937,
+      "total": 939,
+      "translated": 939,
       "lastDate": "2026-05-14T06:50:48.000Z"
     },
     {
@@ -31,7 +31,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 395,
+      "total": 396,
       "translated": 395,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 291,
-      "translated": 291,
+      "total": 292,
+      "translated": 292,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 220,
-      "translated": 220,
+      "total": 221,
+      "translated": 221,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -109,9 +109,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 107,
-      "translated": 107,
-      "lastDate": "2026-05-14T05:40:14+00:00"
+      "total": 108,
+      "translated": 108,
+      "lastDate": "2026-05-14T08:54:01+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -139,9 +139,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 68,
-      "translated": 68,
-      "lastDate": "2026-05-14T07:30:12+00:00"
+      "total": 69,
+      "translated": 69,
+      "lastDate": "2026-05-14T08:31:11+00:00"
     },
     {
       "name": "Github.com",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 43,
-      "translated": 43,
-      "lastDate": "2026-05-14T06:09:24+00:00"
+      "total": 44,
+      "translated": 44,
+      "lastDate": "2026-05-14T08:11:01+00:00"
     },
     {
       "name": "Hi, AI Russian (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-14T08:11:12.876Z"
+  "generatedAt": "2026-05-14T09:15:51.976Z"
 }
