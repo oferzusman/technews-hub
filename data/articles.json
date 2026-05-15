@@ -170944,6 +170944,23 @@
       "priority": "hot",
       "fetchedAt": "2026-05-15T20:18:13.498Z",
       "created_at": "2026-05-15T20:18:13.498Z"
+    },
+    {
+      "id": 8282,
+      "source": "The Verge AI",
+      "title_en": "ArXiv will ban researchers who upload papers full of AI slop",
+      "description_en": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop.\nIf a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" left by an LLM, authors will be banned from ArXiv for a year, according to Thomas Dietterich, ArXiv's section chair of its computer science section. Future ArXiv submissions will also have to be accept",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+      "image_url": null,
+      "pub_date": "2026-05-15T20:38:19.000Z",
+      "author": "Jay Peters",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-15T20:40:07.526Z",
+      "created_at": "2026-05-15T20:40:07.526Z"
     }
   ]
 }
