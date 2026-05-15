@@ -1,9 +1,9 @@
 {
-  "total": 8231,
-  "translated": 8231,
+  "total": 8243,
+  "translated": 8243,
   "untranslated": 0,
-  "today": 53,
-  "week": 697,
+  "today": 65,
+  "week": 709,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 593,
-      "translated": 593,
+      "total": 594,
+      "translated": 594,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 581,
-      "translated": 581,
+      "total": 584,
+      "translated": 584,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 368,
-      "translated": 368,
+      "total": 371,
+      "translated": 371,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 333,
-      "translated": 333,
+      "total": 334,
+      "translated": 334,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 302,
-      "translated": 302,
+      "total": 303,
+      "translated": 303,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -85,9 +85,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 195,
-      "translated": 195,
-      "lastDate": "2026-05-15T11:00:00.000Z"
+      "total": 196,
+      "translated": 196,
+      "lastDate": "2026-05-15T14:00:00.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -103,9 +103,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 119,
-      "translated": 119,
-      "lastDate": "2026-05-15T11:45:50+00:00"
+      "total": 120,
+      "translated": 120,
+      "lastDate": "2026-05-15T14:38:01+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -186,16 +186,16 @@
       "lastDate": "2026-04-09T06:28:29Z"
     },
     {
+      "name": "Wylsacom Red (TG)",
+      "total": 34,
+      "translated": 34,
+      "lastDate": "2026-05-15T14:05:40+00:00"
+    },
+    {
       "name": "Nature Machine Intelligence",
       "total": 33,
       "translated": 33,
       "lastDate": "2026-05-15T00:00:00.000Z"
-    },
-    {
-      "name": "Wylsacom Red (TG)",
-      "total": 33,
-      "translated": 33,
-      "lastDate": "2026-05-15T09:54:26+00:00"
     },
     {
       "name": "pymnts.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-15T14:34:21.096Z"
+  "generatedAt": "2026-05-15T14:45:06.011Z"
 }
