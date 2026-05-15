@@ -1,9 +1,9 @@
 {
-  "total": 8201,
-  "translated": 8201,
+  "total": 8208,
+  "translated": 8208,
   "untranslated": 0,
-  "today": 23,
-  "week": 667,
+  "today": 30,
+  "week": 674,
   "sources": [
     {
       "name": "Product Hunt",
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 298,
-      "translated": 298,
+      "total": 299,
+      "translated": 299,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 225,
-      "translated": 225,
+      "total": 226,
+      "translated": 226,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -91,27 +91,27 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 183,
-      "translated": 183,
+      "total": 184,
+      "translated": 184,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
       "name": "MIT Technology Review",
-      "total": 122,
-      "translated": 122,
+      "total": 123,
+      "translated": 123,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
+    },
+    {
+      "name": "AI Post (TG)",
+      "total": 118,
+      "translated": 118,
+      "lastDate": "2026-05-15T09:20:36+00:00"
     },
     {
       "name": "Hugging Face Blog",
       "total": 117,
       "translated": 117,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
-    },
-    {
-      "name": "AI Post (TG)",
-      "total": 117,
-      "translated": 117,
-      "lastDate": "2026-05-15T06:27:01+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -157,21 +157,21 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 47,
-      "translated": 47,
-      "lastDate": "2026-05-15T06:06:42+00:00"
+      "total": 48,
+      "translated": 48,
+      "lastDate": "2026-05-15T09:20:31+00:00"
+    },
+    {
+      "name": "Habr (TG)",
+      "total": 40,
+      "translated": 40,
+      "lastDate": "2026-05-15T09:02:34+00:00"
     },
     {
       "name": "Google AI Blog",
       "total": 39,
       "translated": 39,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
-    },
-    {
-      "name": "Habr (TG)",
-      "total": 39,
-      "translated": 39,
-      "lastDate": "2026-05-15T08:04:06+00:00"
     },
     {
       "name": "Hi, AI English (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-15T08:24:13.363Z"
+  "generatedAt": "2026-05-15T09:37:13.555Z"
 }
