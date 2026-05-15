@@ -1,9 +1,9 @@
 {
-  "total": 8184,
-  "translated": 8184,
+  "total": 8190,
+  "translated": 8190,
   "untranslated": 0,
-  "today": 6,
-  "week": 650,
+  "today": 12,
+  "week": 656,
   "sources": [
     {
       "name": "Product Hunt",
@@ -43,8 +43,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 337,
-      "translated": 337,
+      "total": 338,
+      "translated": 338,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -91,8 +91,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 181,
-      "translated": 181,
+      "total": 182,
+      "translated": 182,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -109,9 +109,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 116,
-      "translated": 116,
-      "lastDate": "2026-05-15T03:31:16+00:00"
+      "total": 117,
+      "translated": 117,
+      "lastDate": "2026-05-15T06:27:01+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -151,15 +151,15 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 47,
-      "translated": 47,
-      "lastDate": "2026-05-14T21:56:55+00:00"
+      "total": 48,
+      "translated": 48,
+      "lastDate": "2026-05-15T06:31:08+00:00"
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 46,
-      "translated": 46,
-      "lastDate": "2026-05-14T18:41:27+00:00"
+      "total": 47,
+      "translated": 47,
+      "lastDate": "2026-05-15T06:06:42+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -252,16 +252,16 @@
       "lastDate": "2026-04-09T11:00:02+00:00"
     },
     {
+      "name": "Artificial Intelligence (TG)",
+      "total": 19,
+      "translated": 19,
+      "lastDate": "2026-05-15T06:27:34+00:00"
+    },
+    {
       "name": "Nature.com",
       "total": 18,
       "translated": 18,
       "lastDate": "2026-04-09T00:00:00Z"
-    },
-    {
-      "name": "Artificial Intelligence (TG)",
-      "total": 18,
-      "translated": 18,
-      "lastDate": "2026-04-29T14:15:40+00:00"
     },
     {
       "name": "TechRadar",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-15T05:35:03.373Z"
+  "generatedAt": "2026-05-15T06:46:18.872Z"
 }
