@@ -1,9 +1,9 @@
 {
-  "total": 8179,
-  "translated": 8179,
+  "total": 8184,
+  "translated": 8184,
   "untranslated": 0,
-  "today": 1,
-  "week": 645,
+  "today": 6,
+  "week": 650,
   "sources": [
     {
       "name": "Product Hunt",
@@ -43,8 +43,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 336,
-      "translated": 336,
+      "total": 337,
+      "translated": 337,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -55,8 +55,8 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 323,
-      "translated": 323,
+      "total": 324,
+      "translated": 324,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -91,8 +91,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 180,
-      "translated": 180,
+      "total": 181,
+      "translated": 181,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -109,9 +109,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 115,
-      "translated": 115,
-      "lastDate": "2026-05-15T00:42:01+00:00"
+      "total": 116,
+      "translated": 116,
+      "lastDate": "2026-05-15T03:31:16+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -139,9 +139,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 72,
-      "translated": 72,
-      "lastDate": "2026-05-14T22:32:32+00:00"
+      "total": 73,
+      "translated": 73,
+      "lastDate": "2026-05-15T04:36:54+00:00"
     },
     {
       "name": "Github.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-15T04:16:51.062Z"
+  "generatedAt": "2026-05-15T05:14:33.464Z"
 }
