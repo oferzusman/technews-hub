@@ -1,15 +1,15 @@
 {
-  "total": 8190,
-  "translated": 8190,
+  "total": 8201,
+  "translated": 8201,
   "untranslated": 0,
-  "today": 12,
-  "week": 656,
+  "today": 23,
+  "week": 667,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 941,
-      "translated": 941,
-      "lastDate": "2026-05-14T06:50:48.000Z"
+      "total": 949,
+      "translated": 949,
+      "lastDate": "2026-05-15T02:36:56.000Z"
     },
     {
       "name": "Tom's Hardware",
@@ -91,8 +91,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 182,
-      "translated": 182,
+      "total": 183,
+      "translated": 183,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -169,9 +169,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 38,
-      "translated": 38,
-      "lastDate": "2026-05-14T08:02:04+00:00"
+      "total": 39,
+      "translated": 39,
+      "lastDate": "2026-05-15T08:04:06+00:00"
     },
     {
       "name": "Hi, AI English (TG)",
@@ -193,9 +193,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 31,
-      "translated": 31,
-      "lastDate": "2026-05-14T18:23:06+00:00"
+      "total": 32,
+      "translated": 32,
+      "lastDate": "2026-05-15T06:45:49+00:00"
     },
     {
       "name": "pymnts.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-15T07:40:36.366Z"
+  "generatedAt": "2026-05-15T08:23:02.075Z"
 }
