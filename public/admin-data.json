@@ -1,9 +1,9 @@
 {
-  "total": 8213,
-  "translated": 8213,
+  "total": 8214,
+  "translated": 8214,
   "untranslated": 0,
-  "today": 35,
-  "week": 679,
+  "today": 36,
+  "week": 680,
   "sources": [
     {
       "name": "Product Hunt",
@@ -186,16 +186,16 @@
       "lastDate": "2026-04-09T06:28:29Z"
     },
     {
+      "name": "Nature Machine Intelligence",
+      "total": 33,
+      "translated": 33,
+      "lastDate": "2026-05-15T00:00:00.000Z"
+    },
+    {
       "name": "Wylsacom Red (TG)",
       "total": 33,
       "translated": 33,
       "lastDate": "2026-05-15T09:54:26+00:00"
-    },
-    {
-      "name": "Nature Machine Intelligence",
-      "total": 32,
-      "translated": 32,
-      "lastDate": "2026-05-13T00:00:00.000Z"
     },
     {
       "name": "pymnts.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-15T10:47:44.231Z"
+  "generatedAt": "2026-05-15T10:58:46.333Z"
 }
