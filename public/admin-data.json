@@ -1,7 +1,7 @@
 {
   "total": 8255,
-  "translated": 8250,
-  "untranslated": 5,
+  "translated": 8255,
+  "untranslated": 0,
   "today": 77,
   "week": 721,
   "sources": [
@@ -32,7 +32,7 @@
     {
       "name": "CNBC Tech",
       "total": 408,
-      "translated": 407,
+      "translated": 408,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -44,7 +44,7 @@
     {
       "name": "New Atlas",
       "total": 339,
-      "translated": 338,
+      "translated": 339,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -56,7 +56,7 @@
     {
       "name": "OpenAI Blog",
       "total": 325,
-      "translated": 324,
+      "translated": 325,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -86,7 +86,7 @@
     {
       "name": "The Verge AI",
       "total": 197,
-      "translated": 196,
+      "translated": 197,
       "lastDate": "2026-05-15T16:00:00.000Z"
     },
     {
@@ -170,7 +170,7 @@
     {
       "name": "Hi, AI English (TG)",
       "total": 40,
-      "translated": 39,
+      "translated": 40,
       "lastDate": "2026-05-15T15:39:33+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-15T16:27:22.959Z"
+  "generatedAt": "2026-05-15T16:28:32.036Z"
 }
