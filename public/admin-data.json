@@ -1,7 +1,7 @@
 {
   "total": 8276,
-  "translated": 8274,
-  "untranslated": 2,
+  "translated": 8276,
+  "untranslated": 0,
   "today": 98,
   "week": 742,
   "sources": [
@@ -32,7 +32,7 @@
     {
       "name": "CNBC Tech",
       "total": 410,
-      "translated": 409,
+      "translated": 410,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -50,7 +50,7 @@
     {
       "name": "TechCrunch AI",
       "total": 337,
-      "translated": 336,
+      "translated": 337,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-15T19:53:12.671Z"
+  "generatedAt": "2026-05-15T20:08:52.036Z"
 }
