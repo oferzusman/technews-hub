@@ -170777,6 +170777,55 @@
       "priority": "batch",
       "fetchedAt": "2026-05-15T18:57:14.534Z",
       "created_at": "2026-05-15T18:57:14.534Z"
+    },
+    {
+      "id": 8275,
+      "source": "TechCrunch AI",
+      "title_en": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+      "description_en": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI? All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with a whole generation of founders already spinning out […]",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+      "image_url": null,
+      "pub_date": "Fri, 15 May 2026 19:24:16 +0000",
+      "author": "Kirsten Korosec, Sean O'Kane, Anthony Ha, Theresa Loconsolo",
+      "categories": [
+        "AI",
+        "Startups",
+        "anduril",
+        "Anthropic",
+        "cowboy space",
+        "Elon Musk",
+        "Equity podcast",
+        "lawsuit",
+        "mind robotics",
+        "OpenAI",
+        "Roundup",
+        "sam altman",
+        "SpaceX",
+        "Vapi"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-15T19:27:51.816Z",
+      "created_at": "2026-05-15T19:27:51.816Z"
+    },
+    {
+      "id": 8276,
+      "source": "CNBC Tech",
+      "title_en": "What you need to know about Nvidia competitor Cerebras after wild IPO",
+      "description_en": "Nvidia competitor Cerebras made a stunning debut on Wall Street Thursday, signaling unstoppable demand for AI chips. Here's how its chips compete with Nvidia's.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/15/nvidia-cerebras-stock-price-ipo.html",
+      "image_url": null,
+      "pub_date": "Fri, 15 May 2026 19:11:02 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-15T19:27:54.585Z",
+      "created_at": "2026-05-15T19:27:54.585Z"
     }
   ]
 }
