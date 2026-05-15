@@ -1,9 +1,9 @@
 {
-  "total": 8276,
-  "translated": 8276,
+  "total": 8281,
+  "translated": 8281,
   "untranslated": 0,
-  "today": 98,
-  "week": 742,
+  "today": 103,
+  "week": 747,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 584,
-      "translated": 584,
+      "total": 585,
+      "translated": 585,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 374,
-      "translated": 374,
+      "total": 376,
+      "translated": 376,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -91,8 +91,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 184,
-      "translated": 184,
+      "total": 185,
+      "translated": 185,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -103,9 +103,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 121,
-      "translated": 121,
-      "lastDate": "2026-05-15T17:32:01+00:00"
+      "total": 122,
+      "translated": 122,
+      "lastDate": "2026-05-15T20:16:01+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-15T20:08:52.036Z"
+  "generatedAt": "2026-05-15T20:19:10.106Z"
 }
