@@ -1,9 +1,9 @@
 {
-  "total": 8250,
+  "total": 8255,
   "translated": 8250,
-  "untranslated": 0,
-  "today": 72,
-  "week": 716,
+  "untranslated": 5,
+  "today": 77,
+  "week": 721,
   "sources": [
     {
       "name": "Product Hunt",
@@ -31,7 +31,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 407,
+      "total": 408,
       "translated": 407,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -43,7 +43,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 338,
+      "total": 339,
       "translated": 338,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 324,
+      "total": 325,
       "translated": 324,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
@@ -85,9 +85,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 196,
+      "total": 197,
       "translated": 196,
-      "lastDate": "2026-05-15T14:00:00.000Z"
+      "lastDate": "2026-05-15T16:00:00.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -168,16 +168,16 @@
       "lastDate": "2026-05-15T09:02:34+00:00"
     },
     {
+      "name": "Hi, AI English (TG)",
+      "total": 40,
+      "translated": 39,
+      "lastDate": "2026-05-15T15:39:33+00:00"
+    },
+    {
       "name": "Google AI Blog",
       "total": 39,
       "translated": 39,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
-    },
-    {
-      "name": "Hi, AI English (TG)",
-      "total": 39,
-      "translated": 39,
-      "lastDate": "2026-05-15T11:26:38+00:00"
     },
     {
       "name": "Slashdot.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-15T16:25:55.980Z"
+  "generatedAt": "2026-05-15T16:27:22.959Z"
 }
