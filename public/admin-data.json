@@ -1,7 +1,7 @@
 {
   "total": 8184,
-  "translated": 8183,
-  "untranslated": 1,
+  "translated": 8184,
+  "untranslated": 0,
   "today": 6,
   "week": 650,
   "sources": [
@@ -56,7 +56,7 @@
     {
       "name": "OpenAI Blog",
       "total": 324,
-      "translated": 323,
+      "translated": 324,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-15T05:15:26.628Z"
+  "generatedAt": "2026-05-15T05:35:03.373Z"
 }
