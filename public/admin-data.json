@@ -1,9 +1,9 @@
 {
-  "total": 8249,
-  "translated": 8249,
+  "total": 8250,
+  "translated": 8250,
   "untranslated": 0,
-  "today": 71,
-  "week": 715,
+  "today": 72,
+  "week": 716,
   "sources": [
     {
       "name": "Product Hunt",
@@ -139,8 +139,8 @@
     },
     {
       "name": "AI News",
-      "total": 75,
-      "translated": 75,
+      "total": 76,
+      "translated": 76,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-15T15:25:44.107Z"
+  "generatedAt": "2026-05-15T15:32:34.602Z"
 }
