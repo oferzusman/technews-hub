@@ -1,7 +1,7 @@
 {
   "total": 8335,
-  "translated": 8334,
-  "untranslated": 1,
+  "translated": 8335,
+  "untranslated": 0,
   "today": 44,
   "week": 749,
   "sources": [
@@ -14,7 +14,7 @@
     {
       "name": "Tom's Hardware",
       "total": 604,
-      "translated": 603,
+      "translated": 604,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-16T13:58:52.340Z"
+  "generatedAt": "2026-05-16T13:59:09.276Z"
 }
