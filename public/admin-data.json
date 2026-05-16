@@ -1,14 +1,14 @@
 {
-  "total": 8295,
-  "translated": 8295,
+  "total": 8301,
+  "translated": 8301,
   "untranslated": 0,
-  "today": 4,
-  "week": 709,
+  "today": 10,
+  "week": 715,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 949,
-      "translated": 949,
+      "total": 952,
+      "translated": 952,
       "lastDate": "2026-05-15T02:36:56.000Z"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 341,
-      "translated": 341,
+      "total": 342,
+      "translated": 342,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -91,8 +91,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 186,
-      "translated": 186,
+      "total": 187,
+      "translated": 187,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -157,9 +157,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 48,
-      "translated": 48,
-      "lastDate": "2026-05-15T09:20:31+00:00"
+      "total": 49,
+      "translated": 49,
+      "lastDate": "2026-05-16T06:33:28+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-16T06:34:22.916Z"
+  "generatedAt": "2026-05-16T07:07:16.428Z"
 }
