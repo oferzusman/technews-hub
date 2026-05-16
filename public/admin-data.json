@@ -1,9 +1,9 @@
 {
-  "total": 8311,
-  "translated": 8311,
+  "total": 8314,
+  "translated": 8314,
   "untranslated": 0,
-  "today": 20,
-  "week": 725,
+  "today": 23,
+  "week": 728,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 596,
-      "translated": 596,
+      "total": 597,
+      "translated": 597,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 309,
-      "translated": 309,
+      "total": 310,
+      "translated": 310,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 126,
-      "translated": 126,
-      "lastDate": "2026-05-16T07:33:01+00:00"
+      "total": 127,
+      "translated": 127,
+      "lastDate": "2026-05-16T10:02:01+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-16T09:57:04.938Z"
+  "generatedAt": "2026-05-16T10:14:35.471Z"
 }
