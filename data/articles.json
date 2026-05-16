@@ -172503,8 +172503,8 @@
       "source": "MarkTechPost",
       "title_en": "Nous Research Proposes Lighthouse Attention: A Training-Only Selection-Based Hierarchical Attention That Delivers 1.4–1.7× Pretraining Speedup at Long Context",
       "description_en": "Nous Research has published Lighthouse Attention, a selection-based hierarchical attention mechanism that wraps around standard scaled dot-product attention during pretraining and is removed afterward. Unlike prior methods such as NSA and HISA that pool only keys and values, Lighthouse pools Q, K, and V symmetrically across a multi-resolution pyramid, reducing the attention call from O(N·S·d) to O(S²·d) and running stock FlashAttention on a small dense sub-sequence. Tested on a 530M Llama-3-styl",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "Nous Research משיקה Lighthouse Attention: מנגנון תשומת לב היררכי המוגבל לשלב האימון שמזריז עד פי 1.7 את ההכשרה בהקשרים ארוכים",
+      "description_he": "Nous Research הציגה פתרון חדש שנקרא Lighthouse Attention - מנגנון attention חכם שמתפקד רק בשלב ההדרכה ונעלם אחר כך. הטכנולוגיה הזו עובדת בצורה סימטרית על Q, K ו-V בפירמידה מרובת רזולוציות, מה שמוריד משמעותית את עומס החישוב ומאפשר למודלים להתאמן מהר יותר - עד 1.4-1.7 פעמים יותר מהר בהשוואה לשיטות קיימות. בבדיקות שערכו על מודל בגודל 530M בסגנון Llama-3, הממצאים מראים שזה עובד ממש טוב עם הודעות ארוכות.",
       "link": "https://www.marktechpost.com/2026/05/16/nous-research-proposes-lighthouse-attention-a-training-only-selection-based-hierarchical-attention-that-delivers-1-4-1-7x-pretraining-speedup-at-long-context/",
       "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-16-at-3.22.13-PM-1.png",
       "pub_date": "Sat, 16 May 2026 22:23:09 +0000",
@@ -172526,7 +172526,7 @@
         "Tech News",
         "Technology"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-16T22:44:04.796Z",
       "created_at": "2026-05-16T22:44:04.796Z"
