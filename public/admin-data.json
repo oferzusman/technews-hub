@@ -1,9 +1,9 @@
 {
-  "total": 8331,
-  "translated": 8330,
-  "untranslated": 1,
-  "today": 40,
-  "week": 745,
+  "total": 8334,
+  "translated": 8334,
+  "untranslated": 0,
+  "today": 43,
+  "week": 748,
   "sources": [
     {
       "name": "Product Hunt",
@@ -14,13 +14,13 @@
     {
       "name": "Tom's Hardware",
       "total": 603,
-      "translated": 602,
+      "translated": 603,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 587,
-      "translated": 587,
+      "total": 588,
+      "translated": 588,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 343,
-      "translated": 343,
+      "total": 344,
+      "translated": 344,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 313,
-      "translated": 313,
+      "total": 314,
+      "translated": 314,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-16T12:43:25.595Z"
+  "generatedAt": "2026-05-16T13:22:43.754Z"
 }
