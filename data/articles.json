@@ -171743,6 +171743,180 @@
       "priority": "hot",
       "fetchedAt": "2026-05-16T11:50:58.787Z",
       "created_at": "2026-05-16T11:50:58.787Z"
+    },
+    {
+      "id": 8324,
+      "source": "Ars Technica",
+      "title_en": "The US is betting on AI to catch insider trading in prediction markets",
+      "description_en": "The Commodity Futures Trading Commission wants us to know it's taking this very seriously.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2018/05/roulette-1152x648.jpg",
+      "pub_date": "Sat, 16 May 2026 11:00:01 +0000",
+      "author": "\n                    Kate Knibbs, wired.com\n                ",
+      "categories": [
+        "AI",
+        "Policy",
+        "cftc",
+        "Kalshi",
+        "polymarket",
+        "prediction markets",
+        "syndication"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-16T12:42:12.796Z",
+      "created_at": "2026-05-16T12:42:12.796Z"
+    },
+    {
+      "id": 8325,
+      "source": "The Decoder",
+      "title_en": "YouTube opens its deepfake face-swap detection tool to all adult creators",
+      "description_en": "YouTube is opening its Likeness Detection tool to all creators 18 and older. The system spots AI-generated face fakes in other users' videos and lets creators file removal requests directly through YouTube Studio. Until now, the feature was limited to partner program members; now it's meant to protect smaller channels too.\nThe article YouTube opens its deepfake face-swap detection tool to all adult creators appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/youtube-opens-its-deepfake-face-swap-detection-tool-to-all-adult-creators/",
+      "image_url": null,
+      "pub_date": "Sat, 16 May 2026 12:21:39 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Deepfakes",
+        "Google",
+        "YouTube"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-16T12:42:14.019Z",
+      "created_at": "2026-05-16T12:42:14.019Z"
+    },
+    {
+      "id": 8326,
+      "source": "The Guardian AI",
+      "title_en": "Pity the poor AI data centers facing ‘discrimination’ | Arwa Mahdawi",
+      "description_en": "The centers are diverting much-needed resources from regular people. Local resistance has the industry playing defense\nBack in 2016, Marco Gutiérrez, the Mexican-born founder of Latinos for Trump, issued an ominous warning to the US. “My culture is a very dominant culture,” he said on MSNBC. “It is imposing and it’s causing problems. If you don’t do something about it, you’re going to have taco trucks on every corner.”\nA decade later, I regret to inform you there is not a taco truck on every cor",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/may/16/pity-the-poor-ai-datacenters-facing-discrimination",
+      "image_url": "https://i.guim.co.uk/img/media/db2dc0d94ca0ddb4e49eef6f8e2a384e6c13be29/609_0_4350_3480/master/4350.jpg?width=140&quality=85&auto=format&fit=max&s=aa26fcb1e7c0c6fd262d9730f6fbbce3",
+      "pub_date": "Sat, 16 May 2026 12:00:10 GMT",
+      "author": "Arwa Mahdawi",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Environment",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/environment"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-16T12:42:14.848Z",
+      "created_at": "2026-05-16T12:42:14.848Z"
+    },
+    {
+      "id": 8327,
+      "source": "Tom's Hardware",
+      "title_en": "Modder uses Nintendo Switch to boost aging 3D printer's speed by 90%, dropping 3DBenchy print time from 90 minutes to a mere 8 minutes and 41 seconds — enthusiast claims big quality improvements by using jailbroken quad-core console",
+      "description_en": "A keen nozzle-head has dramatically sped up their 3D printer using the portable power of a Nintendo Switch and Klipper firmware replacement.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/3d-printing/modder-uses-nintendo-switch-to-boost-aging-3d-printers-speed-by-90-percent-dropping-3dbenchy-print-time-from-90-minutes-to-a-mere-8-minutes-and-41-seconds-enthusiast-claims-big-quality-improvements-by-using-jailbroken-quad-core-console",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/BYmhEMH8GdGhQPPMjTiznj-1280-80.png",
+      "pub_date": "Sat, 16 May 2026 12:20:24 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "3D Printing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-16T12:42:15.880Z",
+      "created_at": "2026-05-16T12:42:15.880Z"
+    },
+    {
+      "id": 8328,
+      "source": "Tom's Hardware",
+      "title_en": "AI data centers trigger massive 'irreversible' 76% electricity price spike in largest US region — federal watchdog demands tech giants pay for their own power infrastructure",
+      "description_en": "Industry watchdog Monitoring Analytics says that PJM Interconnection is not doing enough to prevent power prices from spiking due to massive data center demand.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/ai-data-centers-trigger-massive-irreversible-76-percent-electricity-price-spike-in-largest-us-region-federal-watchdog-demands-tech-giants-pay-for-their-own-power-infrastructure",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/KHUetaXQbsmm6z9m5g5Pne-1280-80.jpg",
+      "pub_date": "Sat, 16 May 2026 12:02:35 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-16T12:42:15.880Z",
+      "created_at": "2026-05-16T12:42:15.880Z"
+    },
+    {
+      "id": 8329,
+      "source": "CNBC Tech",
+      "title_en": "Creator content made the main stage at TV's 'upfront' pitches — and not just for YouTube",
+      "description_en": "In media companies' annual pitch to advertisers this week, creator content played a bigger role as a new category for reaching younger audiences.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/16/tv-upfronts-creator-content-youtube-fox-wbd.html",
+      "image_url": null,
+      "pub_date": "Sat, 16 May 2026 12:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-16T12:42:15.953Z",
+      "created_at": "2026-05-16T12:42:15.953Z"
+    },
+    {
+      "id": 8330,
+      "source": "CNBC Tech",
+      "title_en": "Cerebras' blockbuster IPO boosts hype for SpaceX and OpenAI, but crowds out smaller players",
+      "description_en": "After Cerebras popped in its market debut, all attention turns to SpaceX, OpenAI and Anthropic, which are already among the most valuable U.S. tech companies.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/16/cerebras-blockbuster-ipo-boosts-hype-for-spacex-openai-anthropic.html",
+      "image_url": null,
+      "pub_date": "Sat, 16 May 2026 12:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-16T12:42:15.953Z",
+      "created_at": "2026-05-16T12:42:15.953Z"
+    },
+    {
+      "id": 8331,
+      "source": "AI Post (TG)",
+      "title_en": "❗️Ray Kurzweil believes humans could reach “longevity escape velocity” by around 2032.His idea is simple but wild: Science may soon extend human life faster than time takes it away.In practice, that m",
+      "description_en": "❗️Ray Kurzweil believes humans could reach “longevity escape velocity” by around 2032.His idea is simple but wild: Science may soon extend human life faster than time takes it away.In practice, that means every year you survive, medical breakthroughs could add more than a year back to your life expectancy.Kurzweil thinks AI is the key.He says future AI systems will rapidly test billions of molecular combinations to discover treatments for diseases humans struggle to cure today.But he sees this a",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6937",
+      "image_url": null,
+      "pub_date": "2026-05-16T12:41:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-16T12:42:17.473Z",
+      "created_at": "2026-05-16T12:42:17.473Z"
     }
   ]
 }
