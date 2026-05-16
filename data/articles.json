@@ -171592,8 +171592,8 @@
       "source": "The Decoder",
       "title_en": "OpenAI bought a voice cloning startup famous for celebrity imitations",
       "description_en": "OpenAI has acquired Weights.gg, a small startup that let users create and share AI voice clones of celebrities like Taylor Swift and Donald Trump. The team of around six now works at OpenAI, but the company doesn't plan to release a standalone cloning product.\nThe article OpenAI bought a voice cloning startup famous for celebrity imitations appeared first on The Decoder.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "OpenAI קנתה סטארטאפ לשיבוט קולות שהיה מפורסם בקלוני סלבריטאים",
+      "description_he": "OpenAI רכשה את Weights.gg, סטארטאפ קטנטן שאפשר למשתמשים ליצור ולשתף קלונים של קולות של סלבריטאים כמו טיילור סוויפט ודונלד טראמפ. צוות של כשש אנשים כבר עובד ב-OpenAI, אבל החברה לא מתכננת להשיק מוצר standalone לשיבוט קולות. במילים אחרות - OpenAI תיקחו את הטכנולוגיה והמומחיות, אבל לא צפויים שנראה אפליקציה פומבית לשיבוט קולות של סלבריטאים.",
       "link": "https://the-decoder.com/openai-bought-a-voice-cloning-startup-famous-for-celebrity-imitations/",
       "image_url": null,
       "pub_date": "Sat, 16 May 2026 10:23:55 +0000",
@@ -171605,7 +171605,7 @@
         "ChatGPT",
         "OpenAI"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-16T10:45:07.461Z",
       "created_at": "2026-05-16T10:45:07.461Z"
@@ -171615,8 +171615,8 @@
       "source": "OpenAI Blog",
       "title_en": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
       "description_en": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "OpenAI ומלטה משתפות פעולה: ChatGPT Plus לכל אזרחי המדינה",
+      "description_he": "במהלך אחד꙱שם של דרך, OpenAI וממשלת מלטה חתמו על שותפות גדולה שתביא גישה חופשית ל-ChatGPT Plus לכל תושבי האי. התוכנית כוללת גם הכשרות להנצת כישורי AI מעשיים ולשימוש אחראי בטכנולוגיה, מה שעושה את מלטה לאחת הדוגמאות הראשונות בעולם של שום שכללה לחלוטין בביותו של AI להציבור הרחב.",
       "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
       "image_url": null,
       "pub_date": "Sat, 16 May 2026 00:00:00 GMT",
@@ -171624,7 +171624,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-05-16T10:45:08.103Z",
       "created_at": "2026-05-16T10:45:08.103Z"
@@ -171634,8 +171634,8 @@
       "source": "Tom's Hardware",
       "title_en": "M5 Max MacBook Pro paired with RTX 5090 in an eGPU dock — runs Cyberpunk 2077 at over 100 FPS at max settings with frame generation",
       "description_en": "A software engineer figured out a way to run an RTX 5090 on an M5 Max MacBook and play Cyberpunk 2077 at over 100FPS. The process required a lot of tweaking, including running a Linux VM and using the FEX translation layer to get games to work.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "MacBook Pro M5 Max עם RTX 5090 בדוק חיצוני — משחק Cyberpunk 2077 ב-100 FPS במצב גבוה לכל עלותו",
+      "description_he": "מהנדס תוכנה הצליח לחבר RTX 5090 ל-MacBook M5 Max וזרק Cyberpunk 2077 ב-100 FPS בהגדרות מקסימום, אבל זה לא היה פשוט בכלל. התהליך דרש כל מני התחכומים כמו הרצת Linux VM ושימוש בשכבת התרגום FEX כדי להגיע למשחק שעובד. מעניין לראות שמכונות אפל יכולות להתמודד עם חומרה כל כך חזקה, אם כי בדרך קצת מעקלת.",
       "link": "https://www.tomshardware.com/laptops/macbooks/m5-max-macbook-pro-paired-with-rtx-5090-in-an-egpu-dock-runs-cyberpunk-2077-at-over-100-fps-at-max-settings-with-frame-generation",
       "image_url": "https://cdn.mos.cms.futurecdn.net/HGEGidJsoNPJ4xHi9Skdc6-1280-80.jpg",
       "pub_date": "Sat, 16 May 2026 10:40:00 +0000",
@@ -171644,7 +171644,7 @@
         "Macbooks",
         "Laptops"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-16T10:45:09.030Z",
       "created_at": "2026-05-16T10:45:09.030Z"
@@ -171654,14 +171654,14 @@
       "source": "Hi, AI English (TG)",
       "title_en": "🎓 ChatGPT Is Raising Students' Grades, But Not Their KnowledgeThe number of straight-A students at American universities has surged. AI is likely the cause, according to researcher Igor Chirikov, who",
       "description_en": "🎓 ChatGPT Is Raising Students' Grades, But Not Their KnowledgeThe number of straight-A students at American universities has surged. AI is likely the cause, according to researcher Igor Chirikov, who analyzed over 500,000 grades from one large Texas university spanning 2018–2025.He split all courses into two groups: \"AI-vulnerable,\" where an AI model can complete assignments for students (essays, coding), and \"AI-resistant,\" where such tasks are rare (math, physics, lab work). Before 2022, grad",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ChatGPT מעלה ציונים אבל לא ידע - הסיפור המדומיין של הסטודנטים באוניברסיטאות האמריקאיות",
+      "description_he": "חוקר בשם Igor Chirikov בדק למעלה מ-500 אלף ציונים באוניברסיטה גדולה בטקסס ומצא משהו מעניין: מספר התלמידים עם ממוצע 100 התגבר משמעותית לאחר 2022, בדיוק כשChatGPT הגיע לשוק. הוא חילק את הקורסים לשתי קטגוריות - קורסים \"חשופים ל-AI\" שם בוטים יכולים לעשות עבודות (סיכומים וקוד), וקורסים \"עמידים ל-AI\" כמו מתמטיקה ופיזיקה שהתייצבו. המשמעות? הציונים עולים אבל ההבנה האמיתית של החומר נשארת מאחור.",
       "link": "https://t.me/hiaimediaen/2524",
       "image_url": "https://cdn4.telesco.pe/file/v6IV0m6HaZ44vkdShZpabu4Pr2GGoer39r8FJz1OU7Zeu8tb937owwiFOWDW6yMMOaoLgevW_mzwxmhgKRhJxM-HWoUEnYi0KbTpMwdBDq8zMSiAx1-g7QqiIhjBQ1xXEqYu9capdDeJk4Ttk-BCmA0mgWVpCjesB1HLmEnQDIJMLPn1UlGVc9tYn0jQqvW9XSkHuTVm2vpeFyp694orumXL_TYpZOc-DhKhSBWZaYjRsyfb02ynRc4DkILoQy7PILhaW48DJKpXjUqEClK_-WaSUjTSI2yKxPpm_3zn1s0NkKgeHVYHJcah2Lh-KX6hKx73CjeeAGKA33pMh52-qQ.jpg",
       "pub_date": "2026-05-16T10:24:12+00:00",
       "author": null,
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-16T10:45:10.297Z",
       "created_at": "2026-05-16T10:45:10.297Z"
