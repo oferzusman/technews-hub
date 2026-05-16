@@ -171671,8 +171671,8 @@
       "source": "The Decoder",
       "title_en": "New benchmark confirms AI video generators look stunning but still can't reason about the world",
       "description_en": "A new benchmark called WorldReasonBench tests video generators not on image quality, but on physical and logical plausibility. ByteDance's Seedance 2.0 leads the field ahead of Veo 3.1 and Sora 2, with commercial models scoring roughly twice as high as open-source alternatives. Logical reasoning remains the hardest category for every model by a wide margin. The jump from pixel generator to actual world model still hasn't happened.\nThe article New benchmark confirms AI video generators look stunn",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "בנצ'מארק חדש מוכיח: יוצרי ווידיאו AI נראים מדהימים אבל עדיין לא יודעים להבין את העולם",
+      "description_he": "ובכן, יצא בנצ'מארק חדש בשם WorldReasonBench שבודק את יוצרי הווידיאו לא על איך הווידיאו נראה יפה אלא על משהו חשוב יותר - האם הם בכלל מבינים פיזיקה ולוגיקה. Seedance 2.0 של בייטדנס מוביל את הדרוג' לפני Veo 3.1 וSora 2, וה-models המסחריים משחקים כמו פי 2 מהקוד הפתוח. הדבר המעניין הוא שהנמוכה הגדולה היא בדיוק בחשיבה לוגית - וזה מראה שהקפיצה מ-pixel generator לmodel שבעצם מבין את העולם עדיין לא קרתה.",
       "link": "https://the-decoder.com/new-benchmark-confirms-ai-video-generators-look-stunning-but-still-cant-reason-about-the-world/",
       "image_url": null,
       "pub_date": "Sat, 16 May 2026 10:55:47 +0000",
@@ -171683,7 +171683,7 @@
         "AI and Video",
         "Video"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-16T11:18:03.383Z",
       "created_at": "2026-05-16T11:18:03.383Z"
@@ -171693,8 +171693,8 @@
       "source": "Tom's Hardware",
       "title_en": "First Apple M5 memory exploit discovered using Anthropic AI, gives root access on MacOS — Claude Mythos helps security researchers bypass Memory Integrity Enforcement",
       "description_en": "Apple M5 architecture gets its first privilege escalation exploit",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "חולשה קשה בחיפ M5 של אפל: חוקרי אבטחה גילו דרך להשיג הרשאות root בעזרת Claude AI",
+      "description_he": "הגילוי הראשון של פגיעות בארכיטקטורת M5 של אפל חושף כיצד אפשר למעשה לעקוף את מערכות ההגנה של מקינטוש ולקבל שליטה מלאה על המחשב. חוקרי אבטחה השתמשו בـ Claude, ה-AI של Anthropic, כדי לפתוח את זה - משהו שיכול להיות די חמור אם מישהו רע ירצה להשתמש בזה. אפל כנראה תצטרך להתאמץ קשות כדי לתקן את הבעיה הזו במהדורה הקרובה.",
       "link": "https://www.tomshardware.com/tech-industry/cyber-security/apple-m5-architecture-suffers-first-privilege-escalation-exploit-anthropics-claude-mythos-helps-researchers-bypass-memory-integrity-enforcement",
       "image_url": "https://cdn.mos.cms.futurecdn.net/7nJebNFNWuydWZGUNQ2N6Y-1280-80.jpg",
       "pub_date": "Sat, 16 May 2026 11:00:00 +0000",
@@ -171703,7 +171703,7 @@
         "Cybersecurity",
         "Tech Industry"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-16T11:18:04.960Z",
       "created_at": "2026-05-16T11:18:04.960Z"
