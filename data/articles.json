@@ -172328,8 +172328,8 @@
       "source": "MarkTechPost",
       "title_en": "Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent Sandboxes and Persistent Session Management in Production",
       "description_en": "Running AI agents in a local script is straightforward. Running them reliably in production across teams, across restarts, with isolated environments per context is a different problem entirely. BerriAI, the company behind the LiteLLM AI Gateway, is now open-sourcing a purpose-built answer to that problem: the LiteLLM Agent Platform. The platform is described as a […]\nThe post Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent Sandboxes and Persi",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "פגשו את LiteLLM Agent Platform: תשתית מבוססת Kubernetes להרצת AI Agents בייצור",
+      "description_he": "BerriAI, החברה מאחורי ה-AI Gateway LiteLLM, פתחה קוד של פתרון חדש שעוקם את הכאב של הרצת AI Agents בפרודקשן - LiteLLM Agent Platform. זה כמו שאתה יודע להריץ agents בסקריפט מקומי בחצי שעה, אבל להריץ אותם בצורה יציבה בעצמך עם צוות, הגנה בין הרצות וסביבות מבודדות? זה סיפור שונה לגמרי. הפלטפורמה החדשה מציעה Kubernetes-based solution עם session persistence וagent isolation, כדי שתוכלו להפעיל AI agents בעצמאות מלאה.",
       "link": "https://www.marktechpost.com/2026/05/16/meet-litellm-agent-platform-a-kubernetes-based-self-hosted-infrastructure-layer-for-isolated-agent-sandboxes-and-persistent-session-management-in-production/",
       "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/593413924-a68b21fa-20b6-4ddc-a011-1bc9e6a3b296-1.gif",
       "pub_date": "Sat, 16 May 2026 17:59:09 +0000",
@@ -172350,7 +172350,7 @@
         "Tech News",
         "Technology"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-16T18:09:59.049Z",
       "created_at": "2026-05-16T18:09:59.049Z"
