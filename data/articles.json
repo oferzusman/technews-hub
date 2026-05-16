@@ -171665,6 +171665,48 @@
       "priority": "hot",
       "fetchedAt": "2026-05-16T10:45:10.297Z",
       "created_at": "2026-05-16T10:45:10.297Z"
+    },
+    {
+      "id": 8320,
+      "source": "The Decoder",
+      "title_en": "New benchmark confirms AI video generators look stunning but still can't reason about the world",
+      "description_en": "A new benchmark called WorldReasonBench tests video generators not on image quality, but on physical and logical plausibility. ByteDance's Seedance 2.0 leads the field ahead of Veo 3.1 and Sora 2, with commercial models scoring roughly twice as high as open-source alternatives. Logical reasoning remains the hardest category for every model by a wide margin. The jump from pixel generator to actual world model still hasn't happened.\nThe article New benchmark confirms AI video generators look stunn",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/new-benchmark-confirms-ai-video-generators-look-stunning-but-still-cant-reason-about-the-world/",
+      "image_url": null,
+      "pub_date": "Sat, 16 May 2026 10:55:47 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "AI and Video",
+        "Video"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-16T11:18:03.383Z",
+      "created_at": "2026-05-16T11:18:03.383Z"
+    },
+    {
+      "id": 8321,
+      "source": "Tom's Hardware",
+      "title_en": "First Apple M5 memory exploit discovered using Anthropic AI, gives root access on MacOS — Claude Mythos helps security researchers bypass Memory Integrity Enforcement",
+      "description_en": "Apple M5 architecture gets its first privilege escalation exploit",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/apple-m5-architecture-suffers-first-privilege-escalation-exploit-anthropics-claude-mythos-helps-researchers-bypass-memory-integrity-enforcement",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/7nJebNFNWuydWZGUNQ2N6Y-1280-80.jpg",
+      "pub_date": "Sat, 16 May 2026 11:00:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Cybersecurity",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-16T11:18:04.960Z",
+      "created_at": "2026-05-16T11:18:04.960Z"
     }
   ]
 }
