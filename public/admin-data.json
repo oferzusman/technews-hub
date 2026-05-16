@@ -1,9 +1,9 @@
 {
-  "total": 8293,
-  "translated": 8293,
+  "total": 8295,
+  "translated": 8295,
   "untranslated": 0,
-  "today": 2,
-  "week": 707,
+  "today": 4,
+  "week": 709,
   "sources": [
     {
       "name": "Product Hunt",
@@ -103,9 +103,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 123,
-      "translated": 123,
-      "lastDate": "2026-05-15T23:04:01+00:00"
+      "total": 125,
+      "translated": 125,
+      "lastDate": "2026-05-16T04:40:10+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-16T04:00:40.413Z"
+  "generatedAt": "2026-05-16T04:46:23.721Z"
 }
