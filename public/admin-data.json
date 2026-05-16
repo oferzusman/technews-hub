@@ -1,9 +1,9 @@
 {
-  "total": 8336,
-  "translated": 8336,
+  "total": 8341,
+  "translated": 8341,
   "untranslated": 0,
-  "today": 45,
-  "week": 750,
+  "today": 50,
+  "week": 755,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 605,
-      "translated": 605,
+      "total": 608,
+      "translated": 608,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 229,
-      "translated": 229,
+      "total": 230,
+      "translated": 230,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -180,16 +180,16 @@
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
+      "name": "Wylsacom Red (TG)",
+      "total": 36,
+      "translated": 36,
+      "lastDate": "2026-05-16T15:00:29+00:00"
+    },
+    {
       "name": "Slashdot.org",
       "total": 35,
       "translated": 35,
       "lastDate": "2026-04-09T06:28:29Z"
-    },
-    {
-      "name": "Wylsacom Red (TG)",
-      "total": 35,
-      "translated": 35,
-      "lastDate": "2026-05-15T15:05:04+00:00"
     },
     {
       "name": "Nature Machine Intelligence",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-16T15:03:28.031Z"
+  "generatedAt": "2026-05-16T15:20:38.607Z"
 }
