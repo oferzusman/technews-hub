@@ -171917,6 +171917,65 @@
       "priority": "hot",
       "fetchedAt": "2026-05-16T12:42:17.473Z",
       "created_at": "2026-05-16T12:42:17.473Z"
+    },
+    {
+      "id": 8332,
+      "source": "The Decoder",
+      "title_en": "New benchmark shows Claude Mythos and GPT-5.5 can develop real browser exploits autonomously",
+      "description_en": "Researchers at Carnegie Mellon University built a new benchmark that measures how far AI agents can go when exploiting real vulnerabilities in Google's V8 engine. Mythos leads GPT-5.5 by a wide margin but costs twelve times as much.\nThe article New benchmark shows Claude Mythos and GPT-5.5 can develop real browser exploits autonomously appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/new-benchmark-shows-claude-mythos-and-gpt-5-5-can-develop-real-browser-exploits-autonomously/",
+      "image_url": null,
+      "pub_date": "Sat, 16 May 2026 13:08:05 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Claude Mythos",
+        "Cybersecurity",
+        "Mythos",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-16T13:21:45.195Z",
+      "created_at": "2026-05-16T13:21:45.195Z"
+    },
+    {
+      "id": 8333,
+      "source": "New Atlas",
+      "title_en": "Strap into this real-life mecha suit for just $650,000",
+      "description_en": "Unitree has just gone and made many a kid-at-heart's wildest dream come true. The Chinese robotics firm has created the GD01, a functional mecha suit that you can hop into and walk about on two legs or four.\nContinue Reading\nCategory: Robotics, Engineering\nTags: Unitree, Future Robot",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/robotics/unitree-gd01-mecha-suit-robot/",
+      "image_url": null,
+      "pub_date": "Sat, 16 May 2026 13:03:00 GMT",
+      "author": "Abhimanyu Ghoshal",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-16T13:21:45.926Z",
+      "created_at": "2026-05-16T13:21:45.926Z"
+    },
+    {
+      "id": 8334,
+      "source": "Interesting Engineering",
+      "title_en": "China’s near-silent wave-powered drones could redefine maritime patrols",
+      "description_en": "Chinese researchers have claimed that artificial intelligence (AI) controlled unmanned surface vehicles (USVs) could be...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/china-near-silent-wave-powered-drones",
+      "image_url": "https://www.youtube.com/embed/m7gmf4Mfba4",
+      "pub_date": "Sat, 16 May 2026 13:03:30 +0000",
+      "author": "Christopher McFadden",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-16T13:21:46.598Z",
+      "created_at": "2026-05-16T13:21:46.598Z"
     }
   ]
 }
