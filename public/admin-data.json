@@ -1,9 +1,9 @@
 {
-  "total": 8321,
-  "translated": 8321,
+  "total": 8323,
+  "translated": 8323,
   "untranslated": 0,
-  "today": 30,
-  "week": 735,
+  "today": 32,
+  "week": 737,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 600,
-      "translated": 600,
+      "total": 601,
+      "translated": 601,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -121,9 +121,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 83,
-      "translated": 83,
-      "lastDate": "2026-05-16T07:47:27+00:00"
+      "total": 84,
+      "translated": 84,
+      "lastDate": "2026-05-16T11:45:46+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-16T11:19:03.857Z"
+  "generatedAt": "2026-05-16T11:51:43.048Z"
 }
