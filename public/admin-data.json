@@ -1,9 +1,9 @@
 {
-  "total": 8291,
-  "translated": 8291,
+  "total": 8293,
+  "translated": 8293,
   "untranslated": 0,
-  "today": 0,
-  "week": 705,
+  "today": 2,
+  "week": 707,
   "sources": [
     {
       "name": "Product Hunt",
@@ -55,8 +55,8 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 325,
-      "translated": 325,
+      "total": 326,
+      "translated": 326,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -97,8 +97,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 124,
-      "translated": 124,
+      "total": 125,
+      "translated": 125,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-16T00:06:00.630Z"
+  "generatedAt": "2026-05-16T01:15:46.855Z"
 }
