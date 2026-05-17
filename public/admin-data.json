@@ -1,14 +1,14 @@
 {
-  "total": 8360,
-  "translated": 8359,
+  "total": 8363,
+  "translated": 8362,
   "untranslated": 1,
-  "today": 4,
-  "week": 714,
+  "today": 7,
+  "week": 717,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 952,
-      "translated": 952,
+      "total": 954,
+      "translated": 954,
       "lastDate": "2026-05-15T02:36:56.000Z"
     },
     {
@@ -204,16 +204,16 @@
       "lastDate": "2026-04-09T00:29:48Z"
     },
     {
+      "name": "Data Science ODS.ai (TG)",
+      "total": 27,
+      "translated": 27,
+      "lastDate": "2026-05-17T07:03:42+00:00"
+    },
+    {
       "name": "Financial Post",
       "total": 26,
       "translated": 26,
       "lastDate": "2026-04-09T04:35:19Z"
-    },
-    {
-      "name": "Data Science ODS.ai (TG)",
-      "total": 26,
-      "translated": 26,
-      "lastDate": "2026-05-15T15:22:39+00:00"
     },
     {
       "name": "Ibtimes.com.au",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-17T06:37:42.751Z"
+  "generatedAt": "2026-05-17T07:18:05.214Z"
 }
