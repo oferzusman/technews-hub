@@ -172912,6 +172912,108 @@
       "priority": "hot",
       "fetchedAt": "2026-05-17T09:15:06.619Z",
       "created_at": "2026-05-17T09:15:06.619Z"
+    },
+    {
+      "id": 8374,
+      "source": "The Decoder",
+      "title_en": "Greg Brockman consolidates OpenAI's product teams to build an \"agentic future\"",
+      "description_en": "OpenAI is merging ChatGPT, its coding agent Codex, and the developer API into a single product team led by Codex boss Thibault Sottiaux. The goal: a \"super app\" that also integrates the Atlas browser. Co-founder Greg Brockman officially takes over product strategy.\nThe article Greg Brockman consolidates OpenAI's product teams to build an \"agentic future\" appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/greg-brockman-consolidates-openais-product-teams-to-build-an-agentic-future/",
+      "image_url": null,
+      "pub_date": "Sun, 17 May 2026 09:51:41 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-17T10:41:08.159Z",
+      "created_at": "2026-05-17T10:41:08.159Z"
+    },
+    {
+      "id": 8375,
+      "source": "The Decoder",
+      "title_en": "Mistral CEO Arthur Mensch warns France against letting Anthropic's Mythos scan military code bases",
+      "description_en": "Mistral CEO Arthur Mensch warns of Europe's growing cybersecurity dependency: France's military code bases should not be scanned by US AI models. Modern AI can orchestrate attacks and suggest exploits, including Mistral's own models. Mensch rules out a sale and says Mistral is aiming for an IPO instead.\nThe article Mistral CEO Arthur Mensch warns France against letting Anthropic's Mythos scan military code bases appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/mistral-ceo-arthur-mensch-warns-france-against-letting-anthropics-mythos-scan-military-code-bases/",
+      "image_url": null,
+      "pub_date": "Sun, 17 May 2026 09:15:30 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "Mistral"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-17T10:41:08.159Z",
+      "created_at": "2026-05-17T10:41:08.159Z"
+    },
+    {
+      "id": 8376,
+      "source": "Tom's Hardware",
+      "title_en": "Taiwan declares itself 'sovereign and independent' after Trump questions US defense commitment — comments come after Trump said he opposes Taiwan independence",
+      "description_en": "The statement came hours after President Donald Trump told Fox News he opposes Taiwan pursuing formal independence.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/taiwan-declares-itself-sovreign-and-independent-after-trump-questions-us-defense-commitment",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/5pmsxhkfCkcjp6JZ8FNX3n-1280-80.jpg",
+      "pub_date": "Sun, 17 May 2026 10:20:00 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-17T10:41:10.280Z",
+      "created_at": "2026-05-17T10:41:10.280Z"
+    },
+    {
+      "id": 8377,
+      "source": "Tom's Hardware",
+      "title_en": "Jensen Huang slams 'stupid' analogy comparing GPUs to nuclear weapons — Nvidia CEO says government should allow selling GPUs to 'adversarial countries'",
+      "description_en": "The Nvidia chief said that you cannot compare AI GPUs to nuclear weapons.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/jensen-huang-says-comparing-gpus-to-atomic-bombs-is-stupid-nvidia-ceo-says-government-should-allow-selling-gpus-to-adversarial-companies",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/EjoBUVevVde7qbBdwgKJHn-1280-80.png",
+      "pub_date": "Sun, 17 May 2026 10:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-17T10:41:10.280Z",
+      "created_at": "2026-05-17T10:41:10.280Z"
+    },
+    {
+      "id": 8378,
+      "source": "Tom's Hardware",
+      "title_en": "Maker packs an opinionated, googly-eyed AI chatbot into a mobile suitcase, powered by an Nvidia Jetson — entirely local machine entity runs Gemma 4 E4B and can respond in 200ms",
+      "description_en": "Sparky is an opinionated googly-eyed AI in a suitcase powered by an Nvidia Jetson Orin NS Super 16GB.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maker-packs-an-opinionated-googly-eyed-ai-chatbot-into-a-mobile-suitcase-powered-by-an-nvidia-jetson-entirely-local-machine-entity-runs-gemma-4-e4b-and-can-respond-in-200ms",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/5sqpiXx8bLUqPjSuGDfmvY-1280-80.jpg",
+      "pub_date": "Sun, 17 May 2026 09:40:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-17T10:41:10.280Z",
+      "created_at": "2026-05-17T10:41:10.280Z"
     }
   ]
 }
