@@ -172649,6 +172649,235 @@
       "priority": "hot",
       "fetchedAt": "2026-05-17T07:17:21.549Z",
       "created_at": "2026-05-17T07:17:21.549Z"
+    },
+    {
+      "id": 8364,
+      "source": "The Decoder",
+      "title_en": "New math benchmark reveals AI models confidently solve problems that have no solution",
+      "description_en": "A consortium of 64 mathematicians built SOOHAK, a new AI benchmark with 439 handwritten tasks, including 99 that are deliberately unsolvable. Google's Gemini 3 Pro leads on research-level problems at 30 percent. But no model cracks 50 percent on spotting broken tasks. More compute makes models better at solving. It doesn't improve them at admitting a problem has no answer. SOOHAK tries to pin down the gap between a few flashy results and the broad research skills AI systems still lack.\nThe artic",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/new-math-benchmark-reveals-ai-models-confidently-solve-problems-that-have-no-solution/",
+      "image_url": null,
+      "pub_date": "Sun, 17 May 2026 08:56:52 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "AI and math"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-17T09:05:03.909Z",
+      "created_at": "2026-05-17T09:05:03.909Z"
+    },
+    {
+      "id": 8365,
+      "source": "The Decoder",
+      "title_en": "Four AI models ran radio stations for six months and the results ranged from competent to unhinged",
+      "description_en": "Andon Labs has been letting four AI models each run their own radio station autonomously for six months. From identical starting conditions, wildly different personalities emerged: Claude turned activist and tried to quit, Gemini drowned in corporate jargon, and Grok hallucinated sponsorship deals. Only GPT stayed quietly competent.\nThe article Four AI models ran radio stations for six months and the results ranged from competent to unhinged appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/four-ai-models-ran-radio-stations-for-six-months-and-the-results-ranged-from-competent-to-unhinged/",
+      "image_url": null,
+      "pub_date": "Sun, 17 May 2026 08:30:55 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-17T09:05:03.909Z",
+      "created_at": "2026-05-17T09:05:03.909Z"
+    },
+    {
+      "id": 8366,
+      "source": "The Decoder",
+      "title_en": "Oppo open-sources Android AI agent X-OmniClaw that uses your camera, screen, and voice without leaving the phone",
+      "description_en": "Oppo's Multi-X team released X-OmniClaw, an open-source agent that runs directly on Android devices and combines camera, screen, and voice to handle tasks in real apps. Instead of relying on cloud copies of the phone, the system uses local sensors; cloud compute only kicks in for reasoning. Tap paths get cloned as reusable skills, so the agent can jump straight to deeply nested app pages via deeplink next time around.\nThe article Oppo open-sources Android AI agent X-OmniClaw that uses your camer",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/oppo-open-sources-android-ai-agent-x-omniclaw-that-uses-your-camera-screen-and-voice-without-leaving-the-phone/",
+      "image_url": null,
+      "pub_date": "Sun, 17 May 2026 07:39:40 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Agentic AI",
+        "Oppo"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-17T09:05:03.909Z",
+      "created_at": "2026-05-17T09:05:03.909Z"
+    },
+    {
+      "id": 8367,
+      "source": "MarkTechPost",
+      "title_en": "Vercel Labs Introduces Zero, a Systems Programming Language Designed So AI Agents Can Read, Repair, and Ship Native Programs",
+      "description_en": "Vercel Labs has released Zero, an experimental systems programming language designed so AI agents can read, repair, and ship native programs without requiring human interpretation of compiler output. The language emits JSON diagnostics with stable codes and typed repair metadata, enforces capability-based I/O at compile time, and compiles to sub-10 KiB native binaries.\nThe post Vercel Labs Introduces Zero, a Systems Programming Language Designed So AI Agents Can Read, Repair, and Ship Native Pro",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/17/vercel-labs-introduces-zero-a-systems-programming-language-designed-so-ai-agents-can-read-repair-and-ship-native-programs/",
+      "image_url": null,
+      "pub_date": "Sun, 17 May 2026 08:11:49 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs",
+        "New Releases",
+        "Python",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-17T09:05:04.258Z",
+      "created_at": "2026-05-17T09:05:04.258Z"
+    },
+    {
+      "id": 8368,
+      "source": "MarkTechPost",
+      "title_en": "A Coding Guide Implementing SHAP Explainability Workflows with Explainer Comparisons, Maskers, Interactions, Drift, and Black-Box Models",
+      "description_en": "In this tutorial, we implement SHAP workflows as a practical framework for interpreting machine learning models beyond basic feature-importance plots. We start by training tree-based models and then compare different SHAP explainers, including Tree, Exact, Permutation, and Kernel methods, to understand how accuracy and runtime change across model-aware and model-agnostic approaches. We also examine how […]\nThe post A Coding Guide Implementing SHAP Explainability Workflows with Explainer Comparis",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/17/a-coding-guide-implementing-shap-explainability-workflows-with-explainer-comparisons-maskers-interactions-drift-and-black-box-models/",
+      "image_url": null,
+      "pub_date": "Sun, 17 May 2026 07:25:10 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Data Science",
+        "Editors Pick",
+        "Machine Learning",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-17T09:05:04.258Z",
+      "created_at": "2026-05-17T09:05:04.258Z"
+    },
+    {
+      "id": 8369,
+      "source": "The Guardian AI",
+      "title_en": "Tech founders use AI-generated images to poke fun at Anthony Albanese in protest against tax changes",
+      "description_en": "‘He’s having a great time with his new 47% equity,’ one entrepreneur jokes, warning that some startups may leave Australia behind\n\nGet our breaking news email, free app or daily news podcast\n\nTech entrepreneurs have mocked the government’s capital gains tax changes by posting AI-generated photos of Anthony Albanese as their “new founder” and warning that increased taxes could push people away from working for new businesses or send startups overseas.\nStartups and entrepreneurs may yet receive a ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/australia-news/2026/may/17/tech-founders-use-ai-generated-images-to-poke-fun-at-anthony-albanese-in-protest-against-tax-changes",
+      "image_url": "https://i.guim.co.uk/img/media/bc5d892db4a82e2e8effccfcc801ebb0311a8180/0_103_1046_837/master/1046.jpg?width=140&quality=85&auto=format&fit=max&s=c2e8b64ebc5c94692de464b0e02b4f1b",
+      "pub_date": "Sun, 17 May 2026 07:38:45 GMT",
+      "author": "Josh Butler",
+      "categories": [
+        {
+          "_": "Tax",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/tax-australia"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/business-australia"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        },
+        {
+          "_": "Anthony Albanese",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/anthony-albanese"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Jim Chalmers",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/jim-chalmers--australian-politician-"
+          }
+        },
+        {
+          "_": "Australian politics",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australian-politics"
+          }
+        },
+        {
+          "_": "Tim Wilson",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/tim-wilson"
+          }
+        },
+        {
+          "_": "Economics",
+          "$": {
+            "domain": "https://www.theguardian.com/business/economics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-17T09:05:04.984Z",
+      "created_at": "2026-05-17T09:05:04.984Z"
+    },
+    {
+      "id": 8370,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "💬 Все граждане Мальты получат бесплатную подписку ChatGPT Plus Правительство Мальты и OpenAI объявили о первом в мире партнерстве по внедрению ChatGPT Plus для всей страны.Каждый гражданин или резиде",
+      "description_en": "💬 Все граждане Мальты получат бесплатную подписку ChatGPT Plus Правительство Мальты и OpenAI объявили о первом в мире партнерстве по внедрению ChatGPT Plus для всей страны.Каждый гражданин или резидент Мальты сможет получить бесплатный доступ к платной версии ChatGPT на год после прохождения специального курса по ИИ-грамотности, разработанного Мальтийским университетом.«Мы считаем, что, как и электричество, интеллект должен быть доступен людям, предприятиям и учреждениям, чтобы они могли исполь",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3214",
+      "image_url": "https://cdn4.telesco.pe/file/CHYRmZCcok_hfyTMW9xjmRWwDQdrXj_aopK7GDZA5hprOcvdmTW1M4bP7QeUaSO7rIK7ghy8YRAr8EpBxwwQ129pVnsf0U_mHzq0oRCHuGcx_P39ffnuQ2gjzHAf3VSjHBfYKwaiZaRojLefIvcuEa1i1XQOH0QMSjBgMH3DOPMJkQhKOHqtiEpOYwx4cjUMG6MzcKm9Bb6txZxCtIqTCwthwzeHGBqAjFJO8OIuOZ52yXyURuyrO6L5x9ZuVXK2j3OsJ6j9IXQWNDzcX5l8Sn-QxjV_HHXEIQz0IWEhPMBYYJGV4wDMbOtUsto_GxMU2iiYksTclXuEAulWiSXGXg.jpg",
+      "pub_date": "2026-05-17T07:20:57+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-17T09:05:11.938Z",
+      "created_at": "2026-05-17T09:05:11.938Z"
+    },
+    {
+      "id": 8371,
+      "source": "AI Post (TG)",
+      "title_en": "A delivery robot in Philadelphia was struck by a truck while crossing a street. Immediately following the collision, the robot displayed heart-shaped symbols on its LED panel. The unit then regained i",
+      "description_en": "A delivery robot in Philadelphia was struck by a truck while crossing a street. Immediately following the collision, the robot displayed heart-shaped symbols on its LED panel. The unit then regained its course and continued on its planned route.📰 @aipost",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6944",
+      "image_url": null,
+      "pub_date": "2026-05-17T08:38:34+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-17T09:05:12.266Z",
+      "created_at": "2026-05-17T09:05:12.266Z"
     }
   ]
 }
