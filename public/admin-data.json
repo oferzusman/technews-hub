@@ -1,9 +1,9 @@
 {
-  "total": 8400,
-  "translated": 8399,
+  "total": 8401,
+  "translated": 8400,
   "untranslated": 1,
-  "today": 44,
-  "week": 754,
+  "today": 45,
+  "week": 755,
   "sources": [
     {
       "name": "Product Hunt",
@@ -85,9 +85,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 205,
-      "translated": 205,
-      "lastDate": "2026-05-17T12:00:00.000Z"
+      "total": 206,
+      "translated": 206,
+      "lastDate": "2026-05-17T17:22:23.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-17T16:57:16.772Z"
+  "generatedAt": "2026-05-17T17:33:00.832Z"
 }
