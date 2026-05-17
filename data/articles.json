@@ -173057,8 +173057,8 @@
       "source": "The Guardian AI",
       "title_en": "‘Nobody’s negotiating for the people here’: comedian Charlie Berens takes on AI datacenters",
       "description_en": "Known for his ‘Manitowoc Minute’ skits and midwestern humor, the journalist turned comedian is speaking out against the AI datacenter boom in Wisconsin\nLast summer, journalist turned comedian Charlie Berens started getting social media messages from concerned Wisconsin residents about plans for a massive datacenter campus in their state.\nThe developer, Vantage Data Centers, claimed the $8 bn project would largely run on zero-emission energy resources like solar, wind and battery storage. The com",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "קומיקאי ישראלי תוקף את בום מרכזי הנתונים של AI",
+      "description_he": "צ'ארלי ברנס, הקומיקאי המפורסם בסקיצות 'Manitowoc Minute', החל לקבל הודעות מתושבי ויסקונסין מודאגים לגבי מתחם ענק של AI datacenter שעומד להיבנות בעצם מולם. תכנית בשווי 8 מיליארד דולר של Vantage Data Centers טוענת שהיא תעמוד על אנרגיה נקייה, אבל ברנס החליט לא להישמע בדמים וללחוץ על השאלה - מי בעצם שם את דעות המקומיים בשולחן? תגובה חריפה מעולם ה-comedy למציאות הלא כל כך מצחיקה של מהומת techs בחציר האמריקני.",
       "link": "https://www.theguardian.com/us-news/ng-interactive/2026/may/17/comedian-charlie-berens-ai-datacenters",
       "image_url": "https://i.guim.co.uk/img/media/1944a9066b442611222ed415ba637d6839bcdde8/1919_1334_5533_4426/master/5533.jpg?width=140&quality=85&auto=format&fit=max&s=2f4647f6101a845c52fca8e4137b9dcf",
       "pub_date": "Sun, 17 May 2026 11:00:36 GMT",
@@ -173095,7 +173095,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-17T11:46:51.050Z",
       "created_at": "2026-05-17T11:46:51.050Z"
@@ -173105,8 +173105,8 @@
       "source": "Tom's Hardware",
       "title_en": "US FTC reportedly launches antitrust probe into Arm following its launch of its own AGI CPU — regulators investigate if chip designer is restricting architecture access to rivals",
       "description_en": "The U.S. FTC is looking into Arm Holdings to see if it's abusing its market position as a dominant chip designer to gives its new chip manufacturing business an advantage over competitors who build semiconductors based on Arm designs.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ה-FTC האמריקאית פותחת חקירת קרטל נגד Arm לאחר שהשיקה CPU משלה - חוקרים בודקים אם מעצבת השבבים מגבילה גישה לארכיטקטורה של מתחרים",
+      "description_he": "ה-FTC בוחנת את Arm כדי לבדוק אם היא ניצלת את עוצמתה כמעצבת השבבים הדומיננטית כדי לתת יתרון לחטיבת הייצור שלה על פני מתחרים שבנים שבבים מבוססי Arm. זה נראה כמו סיפור קלאסי של ענקית שמנצלת את הגישה הבלעדית שלה לשימוע משלה - Tom's Hardware",
       "link": "https://www.tomshardware.com/tech-industry/big-tech/us-ftc-reportedly-launches-antitrust-probe-into-arm-following-its-launch-of-its-own-agi-cpu-regulators-investigate-if-chip-designer-is-restricting-architecture-access-to-rivals",
       "image_url": "https://cdn.mos.cms.futurecdn.net/eNtVhb5GoBQCE9XK3irTnB-1280-80.jpg",
       "pub_date": "Sun, 17 May 2026 11:40:00 +0000",
@@ -173115,7 +173115,7 @@
         "Big Tech",
         "Tech Industry"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-17T11:46:51.918Z",
       "created_at": "2026-05-17T11:46:51.918Z"
@@ -173125,8 +173125,8 @@
       "source": "Tom's Hardware",
       "title_en": "China bypasses US GPU bans with 1.54-exaflops 'LineShine' supercomputer — CPU-only monster packs 2.4 million Huawei-designed Armv9 cores",
       "description_en": "China's National Supercomputing Center in Shenzhen takes a page from Japan's Fugaku supercomputer and Fujitsu's A64FX processor, build LineShine supercomputer based entirely on Armv9-based LineShine LX2 CPUs.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "סין עוקפת את הגבלות ה-GPU של ארה\"ב עם סופרקומפיוטר 'LineShine' בעוצמה 1.54 אקזהפלופס — מפלצת ללא GPU עם 2.4 מיליון ליבות Armv9 של Huawei",
+      "description_he": "מרכז הסופרקומפיוטרים הלאומי של סין בשנזן בנה מערכת ענקית בשם LineShine שמסתמכת כולה על מעבדים Armv9 משלהם, בדומה לאסטרטגיה של יפן עם Fugaku. זה משום שאינם יכולים להשתמש בשבבי GPU של נווידיה בגלל האמברגו האמריקני, אז הם בחרו ללכת בדרך של CPU-only ענקי עם עוצמת עיבוד אדירה.",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/china-bypasses-us-gpu-bans-with-1-54-exaflops-lineshine-supercomputer-cpu-only-monster-packs-2-4-million-huawei-designed-armv9-cores",
       "image_url": "https://cdn.mos.cms.futurecdn.net/n4uucZP4dV7mmuFv43MWGE-1280-80.jpg",
       "pub_date": "Sun, 17 May 2026 11:00:00 +0000",
@@ -173135,7 +173135,7 @@
         "Artificial Intelligence",
         "Tech Industry"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-17T11:46:51.918Z",
       "created_at": "2026-05-17T11:46:51.918Z"
@@ -173145,14 +173145,14 @@
       "source": "Hi, AI English (TG)",
       "title_en": "💬 Every Citizen in Malta to Receive Free ChatGPT Plus SubscriptionThe government of Malta and OpenAI have announced the world's first partnership to roll out ChatGPT Plus nationwide.Every citizen or ",
       "description_en": "💬 Every Citizen in Malta to Receive Free ChatGPT Plus SubscriptionThe government of Malta and OpenAI have announced the world's first partnership to roll out ChatGPT Plus nationwide.Every citizen or resident of Malta will be able to receive one year of free access to the paid version of ChatGPT after completing a special AI literacy course developed by the University of Malta.\"At OpenAI, we're turning intelligence into a global utility. We believe that, like electricity, intelligence should be ",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "כל אזרח במלטה יקבל מנוי ChatGPT Plus בחינם",
+      "description_he": "מלטה עושה היסטוריה: הממשלה שלה חתמה על חוזה ראשון בעולם עם OpenAI שמבטיח ChatGPT Plus חינם לכל תושב במדינה. אחרי סיום קורס AI literacy שפותחה בידי אוניברסיטת מלטה, כל אזרח או תושב יוכל להנות משנה של גישה חינם למוצר המשלם. זה חלק מתוכנית גדולה של OpenAI להפוך intelligence לשימושי ציבורי כמו חשמל.",
       "link": "https://t.me/hiaimediaen/2525",
       "image_url": "https://cdn4.telesco.pe/file/eeOuhgSoad-Xa1IWNywayD0OmUMFqFrx5vVkZpwletVGRVMUViQ9IoB-2cq0PMm2j4IIT-ekz9OlKrL_--L3L7HLudR1hh7H9g1w4HQgFMR1JQh8--jtReDviG6noi21TIU6CJQjQG_zYeidbbk-lY683bBGBBFmNq7pH56Vinei1GBm84G6_UKwY90-K9P_D6iOC5nizlJzAgX_odIQu6pIGspFXX212wphYISLItJEncBjdxPE839mhb7deRSCf1_VdNKN5ZdSOZdlk9ogzMTwVRR9FpcEOmbVpvDW679ag9g17S3GANz9GbV9lzoxxghVO7Bdubc7KPrRIicKTg.jpg",
       "pub_date": "2026-05-17T10:55:15+00:00",
       "author": null,
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-17T11:46:52.987Z",
       "created_at": "2026-05-17T11:46:52.987Z"
