@@ -1,9 +1,9 @@
 {
-  "total": 8409,
-  "translated": 8408,
+  "total": 8411,
+  "translated": 8410,
   "untranslated": 1,
-  "today": 53,
-  "week": 763,
+  "today": 55,
+  "week": 765,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 592,
-      "translated": 592,
+      "total": 593,
+      "translated": 593,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 138,
-      "translated": 137,
-      "lastDate": "2026-05-17T19:10:34+00:00"
+      "total": 139,
+      "translated": 138,
+      "lastDate": "2026-05-17T22:04:48+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-17T22:07:37.157Z"
+  "generatedAt": "2026-05-17T22:27:45.370Z"
 }
