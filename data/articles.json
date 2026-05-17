@@ -173719,6 +173719,40 @@
       "priority": "hot",
       "fetchedAt": "2026-05-17T20:38:37.735Z",
       "created_at": "2026-05-17T20:38:37.735Z"
+    },
+    {
+      "id": 8408,
+      "source": "Interesting Engineering",
+      "title_en": "YouTuber builds 7 times larger Arduino tortoise bot that still navigates autonomously",
+      "description_en": "Instead of sticking with the typical tabletop-scale builds, Arduino hobbyist and YouTuber UncleStem chose to...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/youtuber-builds-7-times-larger-arduino-tortoise-bot",
+      "image_url": "https://www.youtube.com/embed/KtBT_bazFGo",
+      "pub_date": "Sun, 17 May 2026 21:22:56 +0000",
+      "author": "Bojan Stojkovski",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-17T21:27:08.651Z",
+      "created_at": "2026-05-17T21:27:08.651Z"
+    },
+    {
+      "id": 8409,
+      "source": "XOR Journal (TG)",
+      "title_en": "Полезное на ночь: принесли проверенный инструмент для проектирования баз данных — drawDB 😎Получившиеся схемы можно редактировать прямо в браузере и там же забрать SQL-код — удобно. Поддерживает MySQL",
+      "description_en": "Полезное на ночь: принесли проверенный инструмент для проектирования баз данных — drawDB 😎Получившиеся схемы можно редактировать прямо в браузере и там же забрать SQL-код — удобно. Поддерживает MySQL, PostgreSQL, SQLite, MariaDB и SQL Server. Самое приятное: это бесплатно и можно легко развернуть локально!GitHub тут, сервис здесь. 😊@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9264",
+      "image_url": null,
+      "pub_date": "2026-05-17T21:20:07+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-17T21:27:10.008Z",
+      "created_at": "2026-05-17T21:27:10.008Z"
     }
   ]
 }
