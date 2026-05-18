@@ -1,9 +1,9 @@
 {
-  "total": 8437,
-  "translated": 8436,
+  "total": 8448,
+  "translated": 8447,
   "untranslated": 1,
-  "today": 26,
-  "week": 677,
+  "today": 37,
+  "week": 688,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 620,
-      "translated": 620,
+      "total": 622,
+      "translated": 622,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 378,
-      "translated": 378,
+      "total": 379,
+      "translated": 379,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 236,
-      "translated": 236,
+      "total": 238,
+      "translated": 238,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 143,
-      "translated": 142,
-      "lastDate": "2026-05-18T07:34:01+00:00"
+      "total": 144,
+      "translated": 143,
+      "lastDate": "2026-05-18T10:41:01+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -162,16 +162,16 @@
       "lastDate": "2026-05-18T06:35:42+00:00"
     },
     {
+      "name": "Habr (TG)",
+      "total": 43,
+      "translated": 43,
+      "lastDate": "2026-05-18T10:02:06+00:00"
+    },
+    {
       "name": "Hi, AI English (TG)",
       "total": 43,
       "translated": 43,
       "lastDate": "2026-05-18T08:34:02+00:00"
-    },
-    {
-      "name": "Habr (TG)",
-      "total": 42,
-      "translated": 42,
-      "lastDate": "2026-05-18T09:02:00+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -181,21 +181,21 @@
     },
     {
       "name": "Wylsacom Red (TG)",
+      "total": 37,
+      "translated": 37,
+      "lastDate": "2026-05-18T11:19:45+00:00"
+    },
+    {
+      "name": "Nature Machine Intelligence",
       "total": 36,
       "translated": 36,
-      "lastDate": "2026-05-16T15:00:29+00:00"
+      "lastDate": "2026-05-18T00:00:00.000Z"
     },
     {
       "name": "Slashdot.org",
       "total": 35,
       "translated": 35,
       "lastDate": "2026-04-09T06:28:29Z"
-    },
-    {
-      "name": "Nature Machine Intelligence",
-      "total": 33,
-      "translated": 33,
-      "lastDate": "2026-05-15T00:00:00.000Z"
     },
     {
       "name": "pymnts.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-18T09:58:23.003Z"
+  "generatedAt": "2026-05-18T12:00:38.504Z"
 }
