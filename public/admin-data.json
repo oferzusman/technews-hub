@@ -1,9 +1,9 @@
 {
-  "total": 8468,
-  "translated": 8467,
+  "total": 8479,
+  "translated": 8478,
   "untranslated": 1,
-  "today": 57,
-  "week": 708,
+  "today": 68,
+  "week": 719,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 624,
-      "translated": 624,
+      "total": 625,
+      "translated": 625,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 600,
-      "translated": 600,
+      "total": 601,
+      "translated": 601,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -37,20 +37,20 @@
     },
     {
       "name": "Ars Technica",
-      "total": 379,
-      "translated": 379,
+      "total": 380,
+      "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 350,
-      "translated": 350,
+      "total": 351,
+      "translated": 351,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 344,
-      "translated": 344,
+      "total": 346,
+      "translated": 346,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 324,
-      "translated": 324,
+      "total": 325,
+      "translated": 325,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 240,
-      "translated": 240,
+      "total": 241,
+      "translated": 241,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -109,8 +109,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 117,
-      "translated": 117,
+      "total": 119,
+      "translated": 119,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -121,9 +121,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 90,
-      "translated": 90,
-      "lastDate": "2026-05-18T08:35:04+00:00"
+      "total": 91,
+      "translated": 91,
+      "lastDate": "2026-05-18T14:41:59+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-18T13:52:40.581Z"
+  "generatedAt": "2026-05-18T15:53:56.851Z"
 }
