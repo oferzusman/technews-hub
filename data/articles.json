@@ -174603,6 +174603,224 @@
       "priority": "hot",
       "fetchedAt": "2026-05-18T11:59:04.794Z",
       "created_at": "2026-05-18T11:59:04.794Z"
+    },
+    {
+      "id": 8449,
+      "source": "The Decoder",
+      "title_en": "MAGA-aligned groups want government oversight of frontier AI models",
+      "description_en": "A coalition of conservative organizations led by Humans First has called on President Donald Trump in an open letter to issue an executive order requiring mandatory safety testing for frontier AI models before they ship.\nThe article MAGA-aligned groups want government oversight of frontier AI models appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/maga-aligned-groups-want-government-oversight-of-frontier-ai-models/",
+      "image_url": null,
+      "pub_date": "Mon, 18 May 2026 12:48:55 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Regulation",
+        "USA"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T12:55:22.221Z",
+      "created_at": "2026-05-18T12:55:22.221Z"
+    },
+    {
+      "id": 8450,
+      "source": "The Decoder",
+      "title_en": "Anthropic to brief global financial regulators on cyber flaws found by Claude Mythos",
+      "description_en": "Anthropic will brief leading finance ministries and central banks on vulnerabilities in the global financial system's cyber defenses that its new AI model Claude Mythos Preview has uncovered.\nThe article Anthropic to brief global financial regulators on cyber flaws found by Claude Mythos appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-to-brief-global-financial-regulators-on-cyber-flaws-found-by-claude-mythos/",
+      "image_url": null,
+      "pub_date": "Mon, 18 May 2026 12:40:41 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "Anthropic",
+        "Claude Mythos",
+        "Cybersecurity",
+        "Finance"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T12:55:22.221Z",
+      "created_at": "2026-05-18T12:55:22.221Z"
+    },
+    {
+      "id": 8451,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side. In the final week of the Musk v. Altman trial,…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
+      "image_url": null,
+      "pub_date": "Mon, 18 May 2026 12:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T12:55:22.352Z",
+      "created_at": "2026-05-18T12:55:22.352Z"
+    },
+    {
+      "id": 8452,
+      "source": "The Guardian AI",
+      "title_en": "Trump cuts to weather data could make forecasts less reliable, warn experts",
+      "description_en": "Use of AI is a valuable tool for weather prediction but only when it’s trained with ample data, experts say\nAs the US prepares for hurricane season and a summer of record-breaking heat, experts fear the Trump administration’s cuts to climate and weather data programming could make the federal government’s weather forecasts less reliable when they are needed most.\nThe National Oceanic and Atmospheric Administration (Noaa) late last year launched a suite of artificial intelligence-powered global w",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/2026/may/18/trump-cuts-ai-weather-prediction-forecasts",
+      "image_url": "https://i.guim.co.uk/img/media/2445be40575ff2f0236aa36f0f8b697decae86ac/80_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=7e3fdf3daea973f1ad4bfe3ec8788cd2",
+      "pub_date": "Mon, 18 May 2026 12:00:46 GMT",
+      "author": "Dharna Noor",
+      "categories": [
+        {
+          "_": "Trump administration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/trump-administration"
+          }
+        },
+        {
+          "_": "Climate crisis",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/climate-crisis"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Extreme weather",
+          "$": {
+            "domain": "https://www.theguardian.com/world/extreme-weather"
+          }
+        },
+        {
+          "_": "Environment",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/environment"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T12:55:27.663Z",
+      "created_at": "2026-05-18T12:55:27.663Z"
+    },
+    {
+      "id": 8453,
+      "source": "AI News",
+      "title_en": "Amazon launches Alexa for Shopping as Rufus moves behind the scenes",
+      "description_en": "Amazon has introduced Alexa for Shopping, combining its Rufus shopping chatbot with Alexa+ across its app, website, and Echo Show devices. The assistant can answer product questions, compare items, track prices, and support shopping reminders. It can also handle scheduled shopping actions and eligible automated purchases. The company said Alexa for Shopping combines Rufus’ product […]\nThe post Amazon launches Alexa for Shopping as Rufus moves behind the scenes appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/",
+      "image_url": null,
+      "pub_date": "Mon, 18 May 2026 10:00:00 +0000",
+      "author": "Muhammad Zulhusni",
+      "categories": [
+        "AI Business Strategy",
+        "AI in Action",
+        "Artificial Intelligence",
+        "Features",
+        "Retail & Logistics AI",
+        "ai",
+        "amazon",
+        "customer experience",
+        "retail"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-18T12:55:27.848Z",
+      "created_at": "2026-05-18T12:55:27.848Z"
+    },
+    {
+      "id": 8454,
+      "source": "CNBC Tech",
+      "title_en": "Trump's Iran threat, Berkshire's airline bet, Lululemon's proxy battle and more in Morning Squawk",
+      "description_en": "Here are five key things investors need to know to start the trading day.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/18/5-things-to-know-before-the-market-opens.html",
+      "image_url": null,
+      "pub_date": "Mon, 18 May 2026 12:33:32 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T12:55:28.488Z",
+      "created_at": "2026-05-18T12:55:28.488Z"
+    },
+    {
+      "id": 8455,
+      "source": "CNBC Tech",
+      "title_en": "Meta layoffs starting this week stress harsh AI reality inside Zuckerberg’s company",
+      "description_en": "Meta is starting layoffs this week, with 8,000 jobs expected to be cut, as employees brace for a new era of AI.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/18/metas-layoffs-starting-this-week-underscore-zuckerbergs-ai-reality-.html",
+      "image_url": null,
+      "pub_date": "Mon, 18 May 2026 12:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T12:55:28.488Z",
+      "created_at": "2026-05-18T12:55:28.488Z"
+    },
+    {
+      "id": 8456,
+      "source": "Tom's Hardware",
+      "title_en": "LG UltraGear 52G930B 52-inch 5K gaming monitor review: Extreme in every respect",
+      "description_en": "LG combines the extremes of size and resolution in its UltraGear 52G930B. It’s a 52-inch 1000R curved VA gaming monitor with 5120x2160 pixels, 240 Hz, Adaptive-Sync HDR600, and wide gamut color.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/monitors/gaming-monitors/lg-ultragear-52g930b-52-inch-5k-gaming-monitor-review-extreme-in-every-respect",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/KQtxKecGDJVAyNdMj4w3cY-1280-80.jpg",
+      "pub_date": "Mon, 18 May 2026 12:00:00 +0000",
+      "author": " Christian Eberle ",
+      "categories": [
+        "Gaming Monitors",
+        "Monitors"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T12:55:28.788Z",
+      "created_at": "2026-05-18T12:55:28.788Z"
+    },
+    {
+      "id": 8457,
+      "source": "AI Post (TG)",
+      "title_en": "JPMorgan CEO Jamie Dimon says AI is going to \"cure cancer.\"  @aipost 🏴",
+      "description_en": "JPMorgan CEO Jamie Dimon says AI is going to \"cure cancer.\"  @aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6954",
+      "image_url": null,
+      "pub_date": "2026-05-18T11:59:46+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T12:55:33.569Z",
+      "created_at": "2026-05-18T12:55:33.570Z"
     }
   ]
 }
