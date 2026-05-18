@@ -176496,6 +176496,101 @@
       "priority": "hot",
       "fetchedAt": "2026-05-18T23:01:07.914Z",
       "created_at": "2026-05-18T23:01:07.914Z"
+    },
+    {
+      "id": 8536,
+      "source": "The Guardian AI",
+      "title_en": "Third of university students in Great Britain think AI job losses will cause social unrest, poll finds",
+      "description_en": "Tracker of attitudes towards artificial intelligence also finds almost half of the public would prefer to avoid it\nOne in three university students think AI will wipe out jobs so rapidly it will trigger civil unrest, according to a survey by King’s College London (KCL).\nStudents are among the heaviest users of AI, the poll found, with 77% using it at least a few times a month – compared with 46% of workers – and 27% using it daily or almost daily.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/19/third-university-students-think-ai-job-losses-cause-social-unrest-poll",
+      "image_url": "https://i.guim.co.uk/img/media/8865462f0988119ca6c21f7cc576b36797e1d26d/484_0_4621_3696/master/4621.jpg?width=140&quality=85&auto=format&fit=max&s=812a6ec874f58a983f28ec385e7dc0b7",
+      "pub_date": "Mon, 18 May 2026 23:01:00 GMT",
+      "author": "Sally Weale Education correspondent",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Higher education",
+          "$": {
+            "domain": "https://www.theguardian.com/education/higher-education"
+          }
+        },
+        {
+          "_": "Students",
+          "$": {
+            "domain": "https://www.theguardian.com/education/students"
+          }
+        },
+        {
+          "_": "Young people",
+          "$": {
+            "domain": "https://www.theguardian.com/society/youngpeople"
+          }
+        },
+        {
+          "_": "Work & careers",
+          "$": {
+            "domain": "https://www.theguardian.com/money/work-and-careers"
+          }
+        },
+        {
+          "_": "Education",
+          "$": {
+            "domain": "https://www.theguardian.com/education/education"
+          }
+        },
+        {
+          "_": "Money",
+          "$": {
+            "domain": "https://www.theguardian.com/money/money"
+          }
+        },
+        {
+          "_": "Society",
+          "$": {
+            "domain": "https://www.theguardian.com/society/society"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T23:42:36.893Z",
+      "created_at": "2026-05-18T23:42:36.893Z"
+    },
+    {
+      "id": 8537,
+      "source": "AI Post (TG)",
+      "title_en": "Musk’s lawsuit against Altman dismissed as untimely  A jury found that all three main claims in Elon Musk’s case against Sam Altman were barred by statutes of limitations after approximately 90 minute",
+      "description_en": "Musk’s lawsuit against Altman dismissed as untimely  A jury found that all three main claims in Elon Musk’s case against Sam Altman were barred by statutes of limitations after approximately 90 minutes of consideration.  The counts—breach of charitable trust…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6960",
+      "image_url": "https://cdn4.telesco.pe/file/jKhBaSqgzeLHM4jjsFqPu5khypmqvK2NfK_TbH94YmvKBgaTdaUMbRK8S_wE5uOIlcLdaj-r2PnrED3YY2MNy7Vwl16umRwP673GwvbiI1Vo4HzGCHWkdvufdsQyOwtxCkanyNSPXItKsxTcORR9i4wRbip6Xhsrow26fRRvVxvuSpp7wzKzX7DE-76HmgDrECIAEOO6fEXo8W9STiRoMmfT78JYvvVPHGEkWhLI0FgzCC6-XfjMCh6Bh_ND9ssO8UPLXcXFdxW8UqcikgHVnfj3X1_YVJyUj3aGGkaOK6RfCJCvqSzTQsnUZUvfElFbithakFEzZM4f8eR9bHI1Yg.jpg",
+      "pub_date": "2026-05-18T23:10:11+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T23:42:38.812Z",
+      "created_at": "2026-05-18T23:42:38.812Z"
     }
   ]
 }
