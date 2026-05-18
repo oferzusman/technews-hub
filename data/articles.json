@@ -175507,6 +175507,228 @@
       "priority": "hot",
       "fetchedAt": "2026-05-18T16:46:17.570Z",
       "created_at": "2026-05-18T16:46:17.570Z"
+    },
+    {
+      "id": 8490,
+      "source": "The Verge AI",
+      "title_en": "Elon Musk lost his case against Sam Altman",
+      "description_en": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitations, and a third failed thanks to the dismissal of one of these.\nThe jury here is an advisory jury, meaning the group is installed solely to offer another opinion to the judge, and its verdict is technically not legally binding. Ultimately, US District Judge Yvonne Gonzalez Rogers is the ultimate lega",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
+      "image_url": null,
+      "pub_date": "2026-05-18T17:39:32.000Z",
+      "author": "Hayden Field",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T18:00:48.197Z",
+      "created_at": "2026-05-18T18:00:48.197Z"
+    },
+    {
+      "id": 8491,
+      "source": "TechCrunch AI",
+      "title_en": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "description_en": "Elon Musk's claim that he was mistreated by his OpenAI cofounders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "image_url": null,
+      "pub_date": "Mon, 18 May 2026 17:34:43 +0000",
+      "author": "Tim Fernholz",
+      "categories": [
+        "AI",
+        "TC",
+        "Elon Musk",
+        "OpenAI trial"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T18:00:48.216Z",
+      "created_at": "2026-05-18T18:00:48.216Z"
+    },
+    {
+      "id": 8492,
+      "source": "The Decoder",
+      "title_en": "Cursor's Composer 2.5 matches Opus 4.7 and GPT-5.5 benchmarks at a fraction of the cost",
+      "description_en": "Cursor ships Composer 2.5, an AI coding model built on Kimi K2.5 and trained on 25x more synthetic tasks than its predecessor. It matches Opus 4.7 and GPT-5.5 on benchmarks at a fraction of the price.\nThe article Cursor's Composer 2.5 matches Opus 4.7 and GPT-5.5 benchmarks at a fraction of the cost appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/cursors-composer-2-5-matches-opus-4-7-and-gpt-5-5-benchmarks-at-a-fraction-of-the-cost/",
+      "image_url": null,
+      "pub_date": "Mon, 18 May 2026 17:29:01 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and coding",
+        "Coding",
+        "Cursor"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T18:00:50.545Z",
+      "created_at": "2026-05-18T18:00:50.545Z"
+    },
+    {
+      "id": 8493,
+      "source": "MIT Technology Review",
+      "title_en": "What to expect from Google this week",
+      "description_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at Google I/O…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+      "image_url": null,
+      "pub_date": "Mon, 18 May 2026 17:35:43 +0000",
+      "author": "Grace Huckins",
+      "categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "The Algorithm"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T18:00:50.618Z",
+      "created_at": "2026-05-18T18:00:50.618Z"
+    },
+    {
+      "id": 8494,
+      "source": "OpenAI Blog",
+      "title_en": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "description_en": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "image_url": null,
+      "pub_date": "Mon, 18 May 2026 10:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Company"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-18T18:00:50.880Z",
+      "created_at": "2026-05-18T18:00:50.880Z"
+    },
+    {
+      "id": 8495,
+      "source": "The Guardian AI",
+      "title_en": "Jury hands victory to Sam Altman and OpenAI in battle with Elon Musk",
+      "description_en": "OpenAI CEO and president found not liable for breaking contracts made with Musk when founding the startup\nA jury ruled in favor of Sam Altman in the culmination of a long and bitter legal battle that pitted the richest person in the world against a leader of the AI boom.\nThe federal jury in Oakland, California, found Altman and Greg Brockman, OpenAI’s president, not liable for unjustly enriching themselves and breaking contracts made with Musk when founding the startup.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/18/sam-altman-trial-victory-elon-musk-openai",
+      "image_url": "https://i.guim.co.uk/img/media/e58e6018ecf5d31f073cbecec654aa2d8ffd0a7b/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=a9504195b92112a7533193b714caab5f",
+      "pub_date": "Mon, 18 May 2026 17:37:37 GMT",
+      "author": "Nick Robins-Early",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Sam Altman",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/sam-altman"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Law (US)",
+          "$": {
+            "domain": "https://www.theguardian.com/law/law-us"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "California",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/california"
+          }
+        },
+        {
+          "_": "West Coast",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/west-coast"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T18:00:51.429Z",
+      "created_at": "2026-05-18T18:00:51.429Z"
+    },
+    {
+      "id": 8496,
+      "source": "CNBC Tech",
+      "title_en": "Elon Musk loses court battle against Sam Altman and OpenAI after 3-week trial",
+      "description_en": "A jury in Oakland, California, ruled against Elon Musk in his dramatic court battle with Sam Altman and OpenAI.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/18/musk-altman-openai-trial-verdict.html",
+      "image_url": null,
+      "pub_date": "Mon, 18 May 2026 17:59:52 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T18:00:52.352Z",
+      "created_at": "2026-05-18T18:00:52.352Z"
+    },
+    {
+      "id": 8497,
+      "source": "XOR Journal (TG)",
+      "title_en": "1.3 миллиона долларов тратит ежемесячно создатель OpenClaw на Codex 😳Оказалось, что гуру вайбкодинга запускает сотни агентов параллельно, а работают они 24/7:«Мы постоянно запускаем ~100 агентов Code",
+      "description_en": "1.3 миллиона долларов тратит ежемесячно создатель OpenClaw на Codex 😳Оказалось, что гуру вайбкодинга запускает сотни агентов параллельно, а работают они 24/7:«Мы постоянно запускаем ~100 агентов Codex, проверяя каждый PR, каждую задачу… Мы запускаем codex на каждый коммит, чтобы проверять на проблемы безопасности (ведь так легко что-то упустить)… У нас есть codex, которые сканируют комментарии на спам и банят людей.»Кстати, если хотите следить за лимитами как создатель OpenClaw, то ловите Codex",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9268",
+      "image_url": "https://cdn4.telesco.pe/file/BSAu_uB9nstDN5NgLelnga9SxRfP7XtCUfdtZ71VsXjbKw_wIuvd8zvS2hq_jLZPoWIOTKrtXfxj76sW2zWJdaHjVW7mfR9NUXj72Mterp3QLItPtC5VAC9dzGUcjXiKkZEAdfW49vXTlwRrYEtx76op_E2xyZ7veMX2OQ6kN0j0D8PsA3b5HQNYYFc5Z_c3n-aBXG94GiDJGL0Twb59pewrF3Zu7eAC-YeL7gJr7oF-sI35VMp3QCmH6Ek3kezrReh4ddgVNzFwLwoZQWK5aLVEOjsd-V_ohr5HAWfhKP1t_1dJ2vWuTeltphJ3qWmiGyApaZOIc8xiRVfwkJqydQ.jpg",
+      "pub_date": "2026-05-18T16:47:08+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T18:00:53.518Z",
+      "created_at": "2026-05-18T18:00:53.518Z"
     }
   ]
 }
