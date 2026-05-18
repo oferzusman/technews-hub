@@ -175820,6 +175820,284 @@
       "priority": "hot",
       "fetchedAt": "2026-05-18T18:25:14.233Z",
       "created_at": "2026-05-18T18:25:14.233Z"
+    },
+    {
+      "id": 8503,
+      "source": "TechCrunch AI",
+      "title_en": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "description_en": "Stainless, a New York-based startup, will wind down all hosted products as part of the acquisition.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "image_url": null,
+      "pub_date": "Mon, 18 May 2026 19:27:52 +0000",
+      "author": "Kirsten Korosec",
+      "categories": [
+        "AI",
+        "Anthropic",
+        "Stainless"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T20:09:05.141Z",
+      "created_at": "2026-05-18T20:09:05.141Z"
+    },
+    {
+      "id": 8504,
+      "source": "The Verge AI",
+      "title_en": "Musk v. Altman proved that AI is led by the wrong people",
+      "description_en": "The tech trial of the year, Musk v. Altman, was ultimately a fight for control. Elon Musk argued that Sam Altman, with whom he helped found the now-massive company OpenAI, shouldn't direct the future of AI. Altman's lawyers, in turn, poked at Musk's own credibility. A jury came to a verdict on Monday after just two hours of deliberation, dismissing Musk's claims due to the statute of limitations.\nIn a strictly legal sense, three weeks of testimony added up to nothing. But the trial offered a mor",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
+      "image_url": null,
+      "pub_date": "2026-05-18T19:00:00.000Z",
+      "author": "Hayden Field",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T20:09:05.190Z",
+      "created_at": "2026-05-18T20:09:05.190Z"
+    },
+    {
+      "id": 8505,
+      "source": "Ars Technica",
+      "title_en": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
+      "description_en": "Musk plans to appeal after judge immediately affirmed the jury's decision.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2276194137-1024x648.jpg",
+      "pub_date": "Mon, 18 May 2026 18:09:41 +0000",
+      "author": "\n                    Ashley Belanger\n                ",
+      "categories": [
+        "AI",
+        "Policy",
+        "Artificial Intelligence",
+        "Elon Musk",
+        "openai",
+        "sam altman",
+        "xAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T20:09:05.361Z",
+      "created_at": "2026-05-18T20:09:05.361Z"
+    },
+    {
+      "id": 8506,
+      "source": "Ars Technica",
+      "title_en": "Pompeii victim ID'd as a likely doctor",
+      "description_en": "New X-rays and CT scans showed small case with locking mechanism containing metal instruments.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/science/2026/05/pompeii-victim-idd-as-a-likely-doctor/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/pompeii1-1-1152x648.jpg",
+      "pub_date": "Mon, 18 May 2026 18:03:32 +0000",
+      "author": "\n                    Jennifer Ouellette\n                ",
+      "categories": [
+        "Science",
+        "Archaeology",
+        "Pompeii"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-18T20:09:05.361Z",
+      "created_at": "2026-05-18T20:09:05.361Z"
+    },
+    {
+      "id": 8507,
+      "source": "Ars Technica",
+      "title_en": "The Dory Sign is E ink, smart screen simplicity at its finest",
+      "description_en": "Dory CEO claims the $149 signs won't be bricked should Dory go out of business.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gadgets/2026/05/the-dory-sign-is-e-ink-smart-screen-simplicity-at-its-finest/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/unnamed-1-1-1152x648.jpg",
+      "pub_date": "Mon, 18 May 2026 17:26:15 +0000",
+      "author": "\n                    Scharon Harding\n                ",
+      "categories": [
+        "Reviews",
+        "Tech",
+        "e-ink",
+        "reviews",
+        "smart home"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-18T20:09:05.361Z",
+      "created_at": "2026-05-18T20:09:05.361Z"
+    },
+    {
+      "id": 8508,
+      "source": "The Guardian AI",
+      "title_en": "Pope Leo to issue text on human dignity and AI with Anthropic co-founder",
+      "description_en": "The pope’s encyclical will address ‘the protection of the human person in the age of AI’, the Vatican says\nIn the first major text of his papacy, Pope Leo will address the rapid rise of artificial intelligence.\nThe Chicago-born pontiff will present the document, known as an encyclical, at the Vatican next week during an event attended by Christopher Olah, the co-founder of Anthropic – a US-based AI firm that has clashed with Donald Trump’s administration.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/world/2026/may/18/pope-leo-encyclical-human-dignity-ai-anthropic",
+      "image_url": "https://i.guim.co.uk/img/media/42f5cad5cee9f4d32463f11d0daff3c629611625/4_0_3543_2835/master/3543.jpg?width=140&quality=85&auto=format&fit=max&s=dd872168b039588c82c35afe0610522d",
+      "pub_date": "Mon, 18 May 2026 19:22:44 GMT",
+      "author": "Angela Giuffrida in Rome",
+      "categories": [
+        {
+          "_": "Pope Leo XIV",
+          "$": {
+            "domain": "https://www.theguardian.com/world/pope-leo-xiv"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "The papacy",
+          "$": {
+            "domain": "https://www.theguardian.com/world/the-papacy"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Catholicism",
+          "$": {
+            "domain": "https://www.theguardian.com/world/catholicism"
+          }
+        },
+        {
+          "_": "Religion",
+          "$": {
+            "domain": "https://www.theguardian.com/world/religion"
+          }
+        },
+        {
+          "_": "Vatican",
+          "$": {
+            "domain": "https://www.theguardian.com/world/vatican"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T20:09:07.333Z",
+      "created_at": "2026-05-18T20:09:07.333Z"
+    },
+    {
+      "id": 8509,
+      "source": "Interesting Engineering",
+      "title_en": "Avex Corp. receives USAF contract for mass producible, kamikaze drones",
+      "description_en": "U.S. Air Force has awarded Aevex Corporation a $18.5 million contract for the delivery of...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/avex-corp-receives-usaf-contract-for-mass-producible-kamikaze-drones",
+      "image_url": null,
+      "pub_date": "Mon, 18 May 2026 19:14:05 +0000",
+      "author": "Aditya Jadhav",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T20:09:07.975Z",
+      "created_at": "2026-05-18T20:09:07.975Z"
+    },
+    {
+      "id": 8510,
+      "source": "Interesting Engineering",
+      "title_en": "Elon Musk loses major OpenAI court battle after jury rules lawsuit came too late",
+      "description_en": "A federal jury in California on Monday rejected Elon Musk’s lawsuit against OpenAI, ruling that...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/jury-rejects-musk-openai-claims",
+      "image_url": null,
+      "pub_date": "Mon, 18 May 2026 18:49:07 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T20:09:07.975Z",
+      "created_at": "2026-05-18T20:09:07.975Z"
+    },
+    {
+      "id": 8511,
+      "source": "Tom's Hardware",
+      "title_en": "Jury throws out Elon Musk's lawsuit against OpenAI after less than two hours of deliberation — Unanimous vote that Musk filed the lawsuit too late",
+      "description_en": "A federal jury in Oakland, California, on Monday unanimously rejected every claim in Elon Musk's lawsuit against OpenAI.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jury-throws-out-elon-musks-lawsuit-against-openai-after-less-than-two-hours-of-deliberation",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/rQhHGzzFHhGgMD9R9r5aag-1280-80.jpg",
+      "pub_date": "Mon, 18 May 2026 19:38:46 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T20:09:08.212Z",
+      "created_at": "2026-05-18T20:09:08.212Z"
+    },
+    {
+      "id": 8512,
+      "source": "AI Post (TG)",
+      "title_en": "Musk’s lawsuit against Altman dismissed as untimelyA jury found that all three main claims in Elon Musk’s case against Sam Altman were barred by statutes of limitations after approximately 90 minutes ",
+      "description_en": "Musk’s lawsuit against Altman dismissed as untimelyA jury found that all three main claims in Elon Musk’s case against Sam Altman were barred by statutes of limitations after approximately 90 minutes of consideration.The counts—breach of charitable trust, aiding and abetting breach, and restitution or unjust enrichment—were each ruled time-barred. Judge Yvonne Gonzalez Rogers recognized and agreed with the jury’s conclusion, resulting in all three claims being dismissed.These were the only claim",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6957",
+      "image_url": "https://cdn4.telesco.pe/file/bnEasUFtECWdLEEmarJtZeAYImvVFN6y2Xmcg3Vg-8wDiB-70z4xQO5x0POFVgoD9SfSGMdpMdQrYTAxZH4321WHaQOEem-eM832DHGGJWDJDj1y-dox1iVsNkzeYBJ_LRxsa-u4dDVBl0YyhdSGFqehUJxiS4MCvboE9jmp7q2yS55MIAiftFYub-H_54B7auk-9esOAaHoGu_iM526t5W36i1rUjzj5JEYNKb3AaVOoGvlud3ap9mPrNyu6wqNJfQZTMJqfRTj6IU3mkEInI9bub3eCluxNbGTvOYCTMpqNavljE_rWLRBer8k2YuT3mIbLL8bBpY-jC3PeABlXw.jpg",
+      "pub_date": "2026-05-18T18:25:38+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T20:09:09.910Z",
+      "created_at": "2026-05-18T20:09:09.910Z"
+    },
+    {
+      "id": 8513,
+      "source": "AI Post (TG)",
+      "title_en": "The jury did not assess whether Altman or Brockman committed a breach, determining only that Musk’s lawsuit had been filed too late.",
+      "description_en": "The jury did not assess whether Altman or Brockman committed a breach, determining only that Musk’s lawsuit had been filed too late.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6958",
+      "image_url": null,
+      "pub_date": "2026-05-18T19:23:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T20:09:09.911Z",
+      "created_at": "2026-05-18T20:09:09.911Z"
+    },
+    {
+      "id": 8514,
+      "source": "Prompt AI News (TG)",
+      "title_en": "⚖️🤖 Musk's OpenAI lawsuit dies in under two hours. Jury says: too late.A federal jury found that Musk waited too long to bring his case against Altman, Brockman, and OpenAI, and TechCrunch reports it",
+      "description_en": "⚖️🤖 Musk's OpenAI lawsuit dies in under two hours. Jury says: too late.A federal jury found that Musk waited too long to bring his case against Altman, Brockman, and OpenAI, and TechCrunch reports it ended on statute-of-limitations grounds after a three-week trial. The verdict was unanimous.Musk's team had wanted the court to force OpenAI and Microsoft to disgorge up to $134 billion in gains and remove Altman and Brockman from leadership. None of that happens. One major threat to OpenAI, a poss",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/154",
+      "image_url": null,
+      "pub_date": "2026-05-18T19:46:06+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T20:09:10.285Z",
+      "created_at": "2026-05-18T20:09:10.285Z"
     }
   ]
 }
