@@ -1,9 +1,9 @@
 {
-  "total": 8489,
-  "translated": 8488,
+  "total": 8497,
+  "translated": 8496,
   "untranslated": 1,
-  "today": 78,
-  "week": 729,
+  "today": 86,
+  "week": 737,
   "sources": [
     {
       "name": "Product Hunt",
@@ -31,8 +31,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 417,
-      "translated": 417,
+      "total": 418,
+      "translated": 418,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -49,20 +49,20 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 346,
-      "translated": 346,
+      "total": 347,
+      "translated": 347,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "OpenAI Blog",
-      "total": 330,
-      "translated": 330,
+      "total": 331,
+      "translated": 331,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
       "name": "The Decoder",
-      "total": 325,
-      "translated": 325,
+      "total": 326,
+      "translated": 326,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -79,15 +79,15 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 242,
-      "translated": 242,
+      "total": 243,
+      "translated": 243,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
       "name": "The Verge AI",
-      "total": 208,
-      "translated": 208,
-      "lastDate": "2026-05-18T15:55:25.000Z"
+      "total": 209,
+      "translated": 209,
+      "lastDate": "2026-05-18T17:39:32.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -103,8 +103,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 127,
-      "translated": 127,
+      "total": 128,
+      "translated": 128,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -121,9 +121,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 92,
-      "translated": 92,
-      "lastDate": "2026-05-18T16:17:06+00:00"
+      "total": 93,
+      "translated": 93,
+      "lastDate": "2026-05-18T16:47:08+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-18T17:59:40.745Z"
+  "generatedAt": "2026-05-18T18:02:29.481Z"
 }
