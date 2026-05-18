@@ -1,9 +1,9 @@
 {
-  "total": 8479,
-  "translated": 8478,
+  "total": 8484,
+  "translated": 8483,
   "untranslated": 1,
-  "today": 68,
-  "week": 719,
+  "today": 73,
+  "week": 724,
   "sources": [
     {
       "name": "Product Hunt",
@@ -85,9 +85,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 207,
-      "translated": 207,
-      "lastDate": "2026-05-17T18:40:28.000Z"
+      "total": 208,
+      "translated": 208,
+      "lastDate": "2026-05-18T15:55:25.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -109,8 +109,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 119,
-      "translated": 119,
+      "total": 120,
+      "translated": 120,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -121,9 +121,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 91,
-      "translated": 91,
-      "lastDate": "2026-05-18T14:41:59+00:00"
+      "total": 92,
+      "translated": 92,
+      "lastDate": "2026-05-18T16:17:06+00:00"
     },
     {
       "name": "The Times of India",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 52,
-      "translated": 52,
-      "lastDate": "2026-05-18T13:15:10+00:00"
+      "total": 53,
+      "translated": 53,
+      "lastDate": "2026-05-18T16:17:02+00:00"
     },
     {
       "name": "Backdoor (TG)",
@@ -163,9 +163,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 43,
-      "translated": 43,
-      "lastDate": "2026-05-18T10:02:06+00:00"
+      "total": 44,
+      "translated": 44,
+      "lastDate": "2026-05-18T16:01:44+00:00"
     },
     {
       "name": "Hi, AI English (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-18T15:55:39.407Z"
+  "generatedAt": "2026-05-18T16:18:44.241Z"
 }
