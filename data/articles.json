@@ -173855,6 +173855,129 @@
       "priority": "hot",
       "fetchedAt": "2026-05-18T03:40:00.159Z",
       "created_at": "2026-05-18T03:40:00.159Z"
+    },
+    {
+      "id": 8416,
+      "source": "The Guardian AI",
+      "title_en": "More than 100 UK datacentres plan to burn gas to generate electricity",
+      "description_en": "Requests for gas connections by operators amount to more than 15 terawatt hours per year, endangering climate targets\nMore than 100 new datacentres in the UK plan to burn gas to generate electricity, some potentially doing so permanently.\nBritish officials say this is an inevitable consequence of a years-long wait to connect to the National Grid, and raises an “interesting question” about the UK’s climate targets.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/may/18/uk-datacentres-plan-to-burn-gas-to-generate-electricity",
+      "image_url": "https://i.guim.co.uk/img/media/87e18670ff742ef16d4bfc6e92462d6a794595bc/465_0_4653_3722/master/4653.jpg?width=140&quality=85&auto=format&fit=max&s=158533b5af6a9f01c5d2cb05c0522981",
+      "pub_date": "Mon, 18 May 2026 04:00:59 GMT",
+      "author": "Aisha Down",
+      "categories": [
+        {
+          "_": "Gas",
+          "$": {
+            "domain": "https://www.theguardian.com/business/gas"
+          }
+        },
+        {
+          "_": "Energy industry",
+          "$": {
+            "domain": "https://www.theguardian.com/business/energy-industry"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Environment",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/environment"
+          }
+        },
+        {
+          "_": "Energy",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/energy"
+          }
+        },
+        {
+          "_": "Climate crisis",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/climate-crisis"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T05:52:47.991Z",
+      "created_at": "2026-05-18T05:52:47.991Z"
+    },
+    {
+      "id": 8417,
+      "source": "CNBC Tech",
+      "title_en": "How Elon Musk and Sam Altman went from besties to bitter rivals",
+      "description_en": "In the 11 years since Elon Musk and Sam Altman helped start OpenAI, their once tight bond has unwound, leaving the two billionaires fighting it out in court.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/18/how-elon-musk-and-sam-altman-went-from-besties-to-bitter-rivals.html",
+      "image_url": null,
+      "pub_date": "Mon, 18 May 2026 05:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T05:52:48.642Z",
+      "created_at": "2026-05-18T05:52:48.642Z"
+    },
+    {
+      "id": 8418,
+      "source": "CNBC Tech",
+      "title_en": "High energy prices could derail Europe’s AI race with U.S. and China",
+      "description_en": "Energy costs vary widely across Europe, creating clear winners and losers in attracting investment.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/18/europe-ai-energy-electricity-costs-data-centers-china-us.html",
+      "image_url": null,
+      "pub_date": "Mon, 18 May 2026 05:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T05:52:48.642Z",
+      "created_at": "2026-05-18T05:52:48.642Z"
+    },
+    {
+      "id": 8419,
+      "source": "AI Post (TG)",
+      "title_en": "🇨🇳 In China, a 10-year-old casually gets a Mac Studio for “raising lobsters,” aka letting multiple AI agents work together like a tiny digital crew.“The world of the future belongs to those who unde",
+      "description_en": "🇨🇳 In China, a 10-year-old casually gets a Mac Studio for “raising lobsters,” aka letting multiple AI agents work together like a tiny digital crew.“The world of the future belongs to those who understand Tokens.”Meet the AI-native children.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6951",
+      "image_url": null,
+      "pub_date": "2026-05-18T04:52:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-18T05:52:55.235Z",
+      "created_at": "2026-05-18T05:52:55.235Z"
     }
   ]
 }
