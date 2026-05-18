@@ -176315,8 +176315,8 @@
       "source": "MarkTechPost",
       "title_en": "Meet MemPrivacy: An Edge-Cloud Framework that Uses Local Reversible Pseudonymization to Protect User Data Without Breaking Memory Utility",
       "description_en": "As LLM-powered agents move from research to production, one design tension is becoming harder to ignore: the more useful cloud-hosted memory becomes, the more private user data it exposes. Researchers from MemTensor (Shanghai), HONOR Device and Tongji University have introduced MemPrivacy, a framework that attempts to resolve this tension without sacrificing the utility that makes […]\nThe post Meet MemPrivacy: An Edge-Cloud Framework that Uses Local Reversible Pseudonymization to Protect User Da",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "פגשו את MemPrivacy: פריימוורק Edge-Cloud שמגן על נתוני משתמשים עם פסאודונימיזציה הפוכה מקומית",
+      "description_he": "עם שוק של AI agents עם LLM שעובר מחקר לייצור, הגישור בין תועלת זיכרון ענן לפרטיות משתמשים הוא אתגר מחודש. חוקרים מ-MemTensor בשנגחאי, HONOR Device וטונג'י יוניברסיטי הציגו FrameWork חדש שמצליח לשמור על הפרטיות של מידע זה ללא הפסד של המוכנות והשימוש שמביא תועלת לעלויות של הזיכרון בענן.",
       "link": "https://www.marktechpost.com/2026/05/18/meet-memprivacy-an-edge-cloud-framework-that-uses-local-reversible-pseudonymization-to-protect-user-data-without-breaking-memory-utility/",
       "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-18-at-2.14.57-PM-1.png",
       "pub_date": "Mon, 18 May 2026 21:26:04 +0000",
@@ -176337,7 +176337,7 @@
         "Tech News",
         "Technology"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-18T21:40:20.362Z",
       "created_at": "2026-05-18T21:40:20.362Z"
@@ -176347,8 +176347,8 @@
       "source": "MarkTechPost",
       "title_en": "Stochastic Gradient Descent (SGD’s) Frequency Bias and How Adam Fixes It",
       "description_en": "Modern language models are trained on data with extremely uneven token distributions. A small number of words appear in almost every sentence, while many rare but meaningful tokens occur only occasionally. This creates a hidden optimization challenge: parameters associated with common tokens receive constant gradient updates, while parameters tied to rare tokens may go hundreds […]\nThe post Stochastic Gradient Descent (SGD’s) Frequency Bias and How Adam Fixes It  appeared first on MarkTechPost.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "הטיית התדירות ב-SGD וכיצד Adam פותר את הבעיה",
+      "description_he": "כשמאמנים מודלים של שפה, מתברר שיש בעיה מעניינת: מילים נפוצות מקבלות עדכוני gradient כל הזמן, בעוד שמילים נדירות אבל חשובות כמעט לא מתרגלות. זה יוצר אי-ישוניות בתהליך האימון שיכול להשפיע על איכות המודל. המאמר מסביר איך האופטימייזר Adam מצליח להתמודד עם הבעיה הזו ולתת טיפול הוגן לכל הטוקנים, בין נפוצים ובין נדירים. מתעניינים בפרטים הטכניים? זה חומר כבד אבל מעניין לכל מי שעוסק ב-training של LLMs.",
       "link": "https://www.marktechpost.com/2026/05/18/stochastic-gradient-descent-sgds-frequency-bias-and-how-adam-fixes-it/",
       "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/image-36.png",
       "pub_date": "Mon, 18 May 2026 20:18:55 +0000",
@@ -176363,7 +176363,7 @@
         "Technology",
         "Tutorials"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-18T21:40:20.362Z",
       "created_at": "2026-05-18T21:40:20.362Z"
