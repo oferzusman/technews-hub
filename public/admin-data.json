@@ -1,9 +1,9 @@
 {
-  "total": 8596,
-  "translated": 8595,
+  "total": 8605,
+  "translated": 8604,
   "untranslated": 1,
-  "today": 58,
-  "week": 697,
+  "today": 67,
+  "week": 706,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 611,
-      "translated": 611,
+      "total": 615,
+      "translated": 615,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 384,
-      "translated": 384,
+      "total": 385,
+      "translated": 385,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -55,8 +55,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 331,
-      "translated": 331,
+      "total": 332,
+      "translated": 332,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -97,20 +97,20 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 156,
-      "translated": 155,
-      "lastDate": "2026-05-19T11:54:01+00:00"
+      "total": 157,
+      "translated": 156,
+      "lastDate": "2026-05-19T14:21:02+00:00"
     },
     {
       "name": "MIT Technology Review",
-      "total": 131,
-      "translated": 131,
+      "total": 132,
+      "translated": 132,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
       "name": "Hugging Face Blog",
-      "total": 120,
-      "translated": 120,
+      "total": 121,
+      "translated": 121,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-19T13:31:00.279Z"
+  "generatedAt": "2026-05-19T14:36:10.832Z"
 }
