@@ -1,9 +1,9 @@
 {
-  "total": 8538,
-  "translated": 8537,
+  "total": 8541,
+  "translated": 8540,
   "untranslated": 1,
-  "today": 127,
-  "week": 778,
+  "today": 3,
+  "week": 642,
   "sources": [
     {
       "name": "Product Hunt",
@@ -43,8 +43,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 354,
-      "translated": 354,
+      "total": 355,
+      "translated": 355,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -97,14 +97,14 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 151,
-      "translated": 150,
-      "lastDate": "2026-05-18T23:10:11+00:00"
+      "total": 152,
+      "translated": 151,
+      "lastDate": "2026-05-19T00:52:01+00:00"
     },
     {
       "name": "MIT Technology Review",
-      "total": 128,
-      "translated": 128,
+      "total": 129,
+      "translated": 129,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-18T23:49:20.531Z"
+  "generatedAt": "2026-05-19T01:29:45.896Z"
 }
