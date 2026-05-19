@@ -176720,6 +176720,27 @@
       "priority": "batch",
       "fetchedAt": "2026-05-19T05:44:36.640Z",
       "created_at": "2026-05-19T05:44:36.640Z"
+    },
+    {
+      "id": 8545,
+      "source": "MarkTechPost",
+      "title_en": "How to Build an Advanced Agentic AI System with Planning, Tool Calling, Memory, and Self-Critique Using OpenAI API",
+      "description_en": "In this tutorial, we build an advanced agentic AI system using the OpenAI API and a hidden terminal prompt for the API key. We design the agent as a small pipeline of specialized roles: planner, tool-using executor, and critic, so that we can separate strategy, action, and quality control. We also integrate structured tools (calculator, […]\nThe post How to Build an Advanced Agentic AI System with Planning, Tool Calling, Memory, and Self-Critique Using OpenAI API appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/18/how-to-build-an-advanced-agentic-ai-system-with-planning-tool-calling-memory-and-self-critique-using-openai-api/",
+      "image_url": null,
+      "pub_date": "Tue, 19 May 2026 05:29:40 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Agentic AI",
+        "Editors Pick",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-19T06:05:32.701Z",
+      "created_at": "2026-05-19T06:05:32.701Z"
     }
   ]
 }
