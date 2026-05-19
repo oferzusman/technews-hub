@@ -1,9 +1,9 @@
 {
-  "total": 8567,
-  "translated": 8566,
+  "total": 8569,
+  "translated": 8568,
   "untranslated": 1,
-  "today": 29,
-  "week": 668,
+  "today": 31,
+  "week": 670,
   "sources": [
     {
       "name": "Product Hunt",
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 328,
-      "translated": 328,
+      "total": 329,
+      "translated": 329,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -126,16 +126,16 @@
       "lastDate": "2026-05-19T09:15:09+00:00"
     },
     {
+      "name": "AI News",
+      "total": 79,
+      "translated": 79,
+      "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
+    },
+    {
       "name": "The Times of India",
       "total": 79,
       "translated": 79,
       "lastDate": "2026-04-09T07:23:47Z"
-    },
-    {
-      "name": "AI News",
-      "total": 78,
-      "translated": 78,
-      "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
     {
       "name": "GlobeNewswire",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-19T09:44:55.745Z"
+  "generatedAt": "2026-05-19T10:04:35.482Z"
 }
