@@ -177215,8 +177215,8 @@
       "source": "The Decoder",
       "title_en": "Anthropic adds self-hosted sandboxes and MCP tunnels to Claude Managed Agents",
       "description_en": "Anthropic is expanding Claude Managed Agents with self-hosted sandboxes and MCP tunnels. Companies can now move their AI agents' tool execution into their own infrastructure. But Anthropic isn't handing over full control of the agent itself.\nThe article Anthropic adds self-hosted sandboxes and MCP tunnels to Claude Managed Agents appeared first on The Decoder.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "אנתרופיק מוסיפה sandboxes עצמאיים ותעלות MCP ל-Claude Managed Agents",
+      "description_he": "אנתרופיק משדרגת את Claude Managed Agents עם יכולת להריץ כלים בתוך התשתית שלכם - זה אומר שחברות יכולות לשמור על הAI agents שלהם בסביבה פרטית יותר, בזמן שאנתרופיק עדיין שומרת על השליטה בהתנהגות האג'נט עצמו. החדשנות הזו אמורה להתחיל כדי לפתור חרדות פרטיות וביטחון עבור ארגונים שמתחילים להשתמש ב-AI agents בעבודה. זה קידום משמעותי עבור השימוש הממוסד בטכנולוגיה המתקדמת הזו.",
       "link": "https://the-decoder.com/anthropic-adds-self-hosted-sandboxes-and-mcp-tunnels-to-claude-managed-agents/",
       "image_url": null,
       "pub_date": "Tue, 19 May 2026 10:02:11 +0000",
@@ -177229,7 +177229,7 @@
         "Claude",
         "MCP"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-19T10:03:38.902Z",
       "created_at": "2026-05-19T10:03:38.902Z"
@@ -177239,8 +177239,8 @@
       "source": "AI News",
       "title_en": "The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected",
       "description_en": "President Trump flew to Beijing, brought Jensen Huang along at the last minute, and left two days later, telling reporters that “something could happen” on chip exports. Nothing did. Not a single Nvidia H200 has shipped to China since Trump first authorised the sales in December 2025, and US Trade Representative Jamieson Greer told Bloomberg that semiconductor controls were […]\nThe post The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected appeared first on ",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "עסקת ה-Nvidia H200 עם סין שרדה את הקSummit בין טראמפ לשי - אבל לא בדרך שחשבו",
+      "description_he": "טראמפ טס לבייג'ינג עם ג'נסן הואנג בפתעה אחרונה, אבל מ'משהו יכול לקרות' עם יצוא הצ'יפים עבר לתוך האוויר - עד היום לא נשלחה אפילו H200 אחת לסין, והמס מתרגל הסחר של ארה\"ב הוא בחזקת קרטל. המשחק סביב ההגבלות על סמיקונדקטורים עדיין משחק בין וושינגטון לבייג'ינג, רק שלא בדרך שאנשי התעשייה בא לך רצו.",
       "link": "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/",
       "image_url": null,
       "pub_date": "Tue, 19 May 2026 10:00:00 +0000",
@@ -177258,7 +177258,7 @@
         "nvidia",
         "Trump Xi summit"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-05-19T10:03:42.186Z",
       "created_at": "2026-05-19T10:03:42.186Z"
