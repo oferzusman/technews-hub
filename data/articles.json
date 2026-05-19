@@ -177209,6 +177209,59 @@
       "priority": "hot",
       "fetchedAt": "2026-05-19T09:42:41.627Z",
       "created_at": "2026-05-19T09:42:41.628Z"
+    },
+    {
+      "id": 8568,
+      "source": "The Decoder",
+      "title_en": "Anthropic adds self-hosted sandboxes and MCP tunnels to Claude Managed Agents",
+      "description_en": "Anthropic is expanding Claude Managed Agents with self-hosted sandboxes and MCP tunnels. Companies can now move their AI agents' tool execution into their own infrastructure. But Anthropic isn't handing over full control of the agent itself.\nThe article Anthropic adds self-hosted sandboxes and MCP tunnels to Claude Managed Agents appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-adds-self-hosted-sandboxes-and-mcp-tunnels-to-claude-managed-agents/",
+      "image_url": null,
+      "pub_date": "Tue, 19 May 2026 10:02:11 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Agents",
+        "Anthropic",
+        "Claude",
+        "MCP"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-19T10:03:38.902Z",
+      "created_at": "2026-05-19T10:03:38.902Z"
+    },
+    {
+      "id": 8569,
+      "source": "AI News",
+      "title_en": "The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected",
+      "description_en": "President Trump flew to Beijing, brought Jensen Huang along at the last minute, and left two days later, telling reporters that “something could happen” on chip exports. Nothing did. Not a single Nvidia H200 has shipped to China since Trump first authorised the sales in December 2025, and US Trade Representative Jamieson Greer told Bloomberg that semiconductor controls were […]\nThe post The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected appeared first on ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/",
+      "image_url": null,
+      "pub_date": "Tue, 19 May 2026 10:00:00 +0000",
+      "author": "Dashveenjit Kaur",
+      "categories": [
+        "Artificial Intelligence",
+        "Governance, Regulation & Policy",
+        "Government & Public Sector AI",
+        "AI chips",
+        "china",
+        "chip geopolitics",
+        "deepseek",
+        "huawei",
+        "jensen huang",
+        "nvidia",
+        "Trump Xi summit"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-19T10:03:42.186Z",
+      "created_at": "2026-05-19T10:03:42.186Z"
     }
   ]
 }
