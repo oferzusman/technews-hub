@@ -1,9 +1,9 @@
 {
-  "total": 8688,
-  "translated": 8687,
+  "total": 8699,
+  "translated": 8698,
   "untranslated": 1,
-  "today": 150,
-  "week": 789,
+  "today": 161,
+  "week": 800,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 637,
-      "translated": 637,
+      "total": 638,
+      "translated": 638,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -31,14 +31,14 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 435,
-      "translated": 435,
+      "total": 437,
+      "translated": 437,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 387,
-      "translated": 387,
+      "total": 390,
+      "translated": 390,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -49,14 +49,14 @@
     },
     {
       "name": "New Atlas",
-      "total": 355,
-      "translated": 355,
+      "total": 356,
+      "translated": 356,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "The Decoder",
-      "total": 335,
-      "translated": 335,
+      "total": 336,
+      "translated": 336,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 253,
-      "translated": 253,
+      "total": 254,
+      "translated": 254,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 159,
-      "translated": 158,
-      "lastDate": "2026-05-19T17:02:01+00:00"
+      "total": 160,
+      "translated": 159,
+      "lastDate": "2026-05-19T19:50:27+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -162,6 +162,12 @@
       "lastDate": "2026-04-09T06:45:21Z"
     },
     {
+      "name": "Hi, AI English (TG)",
+      "total": 47,
+      "translated": 47,
+      "lastDate": "2026-05-19T20:04:25+00:00"
+    },
+    {
       "name": "Google AI Blog",
       "total": 46,
       "translated": 46,
@@ -172,12 +178,6 @@
       "total": 46,
       "translated": 46,
       "lastDate": "2026-05-19T09:01:51+00:00"
-    },
-    {
-      "name": "Hi, AI English (TG)",
-      "total": 46,
-      "translated": 46,
-      "lastDate": "2026-05-19T16:30:37+00:00"
     },
     {
       "name": "Wylsacom Red (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-19T19:28:22.972Z"
+  "generatedAt": "2026-05-19T20:09:15.405Z"
 }
