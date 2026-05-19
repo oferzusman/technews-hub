@@ -177262,6 +177262,369 @@
       "priority": "hot",
       "fetchedAt": "2026-05-19T10:03:42.186Z",
       "created_at": "2026-05-19T10:03:42.186Z"
+    },
+    {
+      "id": 8570,
+      "source": "The Verge AI",
+      "title_en": "Gemini is in danger of going full Copilot",
+      "description_en": "I actually use the Gemini app quite a bit on my phone, but let’s not get carried away.\t\n\nGemini has a creep problem.\nA few years ago, that little sparkle icon started showing up in all of our Google apps. Gemini in your inbox! Gemini in your Google Drive! It was slow at first, and easy enough to tune out, but something has changed in the past few months. Gemini is creeping. It's showing up in all kinds of places at a relentless pace, and personally, it's starting to really cheese me off. \nThe AI",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace",
+      "image_url": null,
+      "pub_date": "2026-05-19T10:30:00.000Z",
+      "author": "Allison Johnson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-19T11:55:44.813Z",
+      "created_at": "2026-05-19T11:55:44.813Z"
+    },
+    {
+      "id": 8571,
+      "source": "The Decoder",
+      "title_en": "Mistral AI acquires Viennese physical AI startup Emmi AI",
+      "description_en": "French AI company Mistral AI has acquired Vienna-based startup Emmi AI to expand its offering for industrial clients across Europe.\nThe article Mistral AI acquires Viennese physical AI startup Emmi AI appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/mistral-ai-acquires-viennese-physical-ai-startup-emmi-ai/",
+      "image_url": null,
+      "pub_date": "Tue, 19 May 2026 11:27:09 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI in Europe",
+        "Mistral",
+        "Mistral AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-19T11:55:46.116Z",
+      "created_at": "2026-05-19T11:55:46.116Z"
+    },
+    {
+      "id": 8572,
+      "source": "The Decoder",
+      "title_en": "Cloudflare says Anthropic's Mythos Preview finds exploit chains that earlier frontier models missed",
+      "description_en": "Cloudflare tested Anthropic's security-focused AI model Mythos Preview across more than 50 of its own code repositories as part of Project Glasswing.\nThe article Cloudflare says Anthropic's Mythos Preview finds exploit chains that earlier frontier models missed appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/cloudflare-says-anthropics-mythos-preview-finds-exploit-chains-that-earlier-frontier-models-missed/",
+      "image_url": null,
+      "pub_date": "Tue, 19 May 2026 11:13:48 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "Anthropic",
+        "Claude",
+        "Claude Mythos",
+        "Cloudflare",
+        "Cybersecurity"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-19T11:55:46.116Z",
+      "created_at": "2026-05-19T11:55:46.116Z"
+    },
+    {
+      "id": 8573,
+      "source": "The Guardian AI",
+      "title_en": "Who’s behind the Facebook page posting hateful AI slop about the UK? The answer might lie in south Asia | Niamh McIntyre",
+      "description_en": "Our research has uncovered young entrepreneurs in Sri Lanka and Pakistan using AI tools to make deeply objectionable content – and money\n\nNiamh McIntyre is a senior reporter at the Bureau of Investigative Journalism\n\nScroll through any Facebook feed in Britain and, between the baby announcements and petty neighbourhood beefs, you’re likely to come across an account with a union jack profile picture and a vague, generic name like Britain Today.\nThese accounts – and there are hundreds, possibly th",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/may/19/social-media-facebook-ai-slop-hateful-south-asia",
+      "image_url": "https://i.guim.co.uk/img/media/ab08a68ad2af83e8bbe0cb960d497e7c31119d28/152_0_2867_2294/master/2867.jpg?width=140&quality=85&auto=format&fit=max&s=d6f80979df82059c2e2e5e2ac12214b4",
+      "pub_date": "Tue, 19 May 2026 10:40:27 GMT",
+      "author": "Niamh McIntyre",
+      "categories": [
+        {
+          "_": "Facebook",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/facebook"
+          }
+        },
+        {
+          "_": "Meta",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/meta"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Islamophobia",
+          "$": {
+            "domain": "https://www.theguardian.com/news/islamophobia"
+          }
+        },
+        {
+          "_": "Social networking",
+          "$": {
+            "domain": "https://www.theguardian.com/media/socialnetworking"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/media"
+          }
+        },
+        {
+          "_": "Islam",
+          "$": {
+            "domain": "https://www.theguardian.com/world/islam"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-19T11:55:47.308Z",
+      "created_at": "2026-05-19T11:55:47.308Z"
+    },
+    {
+      "id": 8574,
+      "source": "CNBC Tech",
+      "title_en": "Modular data center builder Armada raises $230 million, to build Arizona factory with new investor Johnson Controls",
+      "description_en": "Modular data center builder Armada has raised $230 million from investors at a valuation of $2 billion, with BlackRock becoming a new investor.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/19/modular-data-center-builder-armada-raises-230-million.html",
+      "image_url": null,
+      "pub_date": "Tue, 19 May 2026 11:05:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-19T11:55:48.554Z",
+      "created_at": "2026-05-19T11:55:48.554Z"
+    },
+    {
+      "id": 8575,
+      "source": "CNBC Tech",
+      "title_en": "2026 CNBC Disruptor 50 list: Why Anthropic was No. 1 in this year's rankings",
+      "description_en": "Anthropic, posting explosive growth for its powerful AI systems that enterprises trust, has leapfrogged OpenAI on the CNBC Disruptor 50 list as the new No. 1.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/19/2026-cnbc-disruptor-50-rankings-anthropic-no-1.html",
+      "image_url": null,
+      "pub_date": "Tue, 19 May 2026 11:08:39 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-19T11:55:48.554Z",
+      "created_at": "2026-05-19T11:55:48.554Z"
+    },
+    {
+      "id": 8576,
+      "source": "CNBC Tech",
+      "title_en": "2026 CNBC Disruptor 50 list: How we chose this year's companies",
+      "description_en": "The 2026 CNBC Disruptor 50 list demonstrates how quickly AI has become essential to disruptive business models across every sector of the economy.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/19/2026-cnbc-disruptor-50-list-how-we-chose-this-years-companies.html",
+      "image_url": null,
+      "pub_date": "Tue, 19 May 2026 11:10:49 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-19T11:55:48.554Z",
+      "created_at": "2026-05-19T11:55:48.554Z"
+    },
+    {
+      "id": 8577,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic and U.S. government to face off in DC court over blacklisting of AI company",
+      "description_en": "Anthropic sued the Defense Department in March after the agency declared the artificial intelligence startup a supply chain risk.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/19/anthropic-dod-blacklist-court-opening-arguments.html",
+      "image_url": null,
+      "pub_date": "Tue, 19 May 2026 10:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-19T11:55:48.554Z",
+      "created_at": "2026-05-19T11:55:48.554Z"
+    },
+    {
+      "id": 8578,
+      "source": "CNBC Tech",
+      "title_en": "2026 CNBC Disruptor 50: See the full list of companies, rankings, and a new leader in the AI race",
+      "description_en": "CNBC reveals the 2026 Disruptor 50 list led by an increasingly powerful and highly valued group of AI companies.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/19/2026-cnbc-disruptor-50-rankings-full-list-companies.html",
+      "image_url": null,
+      "pub_date": "Tue, 19 May 2026 10:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-19T11:55:48.554Z",
+      "created_at": "2026-05-19T11:55:48.554Z"
+    },
+    {
+      "id": 8579,
+      "source": "Tom's Hardware",
+      "title_en": "Save a whopping $900 on this incredible 4-item AM5 combo from Newegg — for only $2,269, high-end parts including the flagship 9950X3D2 processor, 64GB of GSkill RAM, 4TB of fast M.2 storage, and a quality MSI motherboard",
+      "description_en": "Massively upgrade your PC with this killer combo deal from Newegg - Snag the latest Ryzen 9 9950X3D2, 64GB of RAM, 4TB of storage for an incredible $899.97 off retail.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/save-a-whopping-usd900-on-this-incredible-4-item-am5-combo-from-newegg-for-only-usd2-269-high-end-parts-including-the-flagship-9950x3d2-processor-64gb-of-gskill-ram-4tb-of-fast-m-2-storage-and-a-quality-msi-motherboard",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/jGw7KEevAFPtPJTRwt3wx6-1280-80.png",
+      "pub_date": "Tue, 19 May 2026 11:45:20 +0000",
+      "author": " Joe Shields ",
+      "categories": [
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-19T11:55:48.571Z",
+      "created_at": "2026-05-19T11:55:48.571Z"
+    },
+    {
+      "id": 8580,
+      "source": "Tom's Hardware",
+      "title_en": "LG unveils 'world's first' native 1000 Hz refresh rate at 1080p for serious competitive gaming — UltraGear 25G590B to launch in the second half of 2026",
+      "description_en": "Unlike previous dual-mode displays that lowered resolution to hit extreme refresh rates, LG’s latest monitor supports native 1000Hz gaming at full-HD resolution",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/monitors/gaming-monitors/lg-unveils-worlds-first-native-1000-hz-refresh-rate-at-1080p-for-serious-competitive-gaming-ultragear-25g590b-to-launch-in-the-second-half-of-2026",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/a6AMLyHfnVv3EdD5zPXZJG-1280-80.jpg",
+      "pub_date": "Tue, 19 May 2026 11:30:38 +0000",
+      "author": " Kunal Khullar ",
+      "categories": [
+        "Gaming Monitors",
+        "Monitors"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-19T11:55:48.571Z",
+      "created_at": "2026-05-19T11:55:48.571Z"
+    },
+    {
+      "id": 8581,
+      "source": "Tom's Hardware",
+      "title_en": "Pick up an RTX 5090-powered prebuilt desktop for $5 less than the GPU alone — HP's Omen 45L costs $3,795 thanks to $1,265 discount",
+      "description_en": "A new discount code lets you grab $1,265 off the HP Omen 45L with RTX 5090 inside. Making the entire PC purchase less than the GPU alone.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/pick-up-an-rtx-5090-powered-prebuilt-desktop-for-usd5-less-than-the-gpu-alone-hps-omen-45l-costs-usd3-795-thanks-to-usd1-265-discount",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/9MxFZ9mozwDStpuhWA3K2E-1280-80.jpg",
+      "pub_date": "Tue, 19 May 2026 11:24:39 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "Gaming PCs",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-19T11:55:48.571Z",
+      "created_at": "2026-05-19T11:55:48.571Z"
+    },
+    {
+      "id": 8582,
+      "source": "Tom's Hardware",
+      "title_en": "Intel's Project Firefly creates sub-$600 laptops to compete with Apple's MacBook Neo — leverages China's smartphone manufacturing blueprint to produce affordable Wildcat Lake systems",
+      "description_en": "Intel China has unveiled Project Firefly, which borrows a page from China's smartphone supply chain to produce budget-friendly laptops that leverage Wildcat Lake processors.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/laptops/intels-project-firefly-creates-sub-usd600-laptops-to-compete-with-macbook-neo-leverages-chinas-smartphone-manufacturing-blueprint-to-produce-affordable-wildcat-lake-systems",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/opKr6QKGPQ5r2x9kYaanyD-1280-80.jpg",
+      "pub_date": "Tue, 19 May 2026 10:40:00 +0000",
+      "author": " Zhiye Liu ",
+      "categories": [
+        "Laptops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-19T11:55:48.571Z",
+      "created_at": "2026-05-19T11:55:48.571Z"
+    },
+    {
+      "id": 8583,
+      "source": "Tom's Hardware",
+      "title_en": "Fake Samsung SSD spotting comes to CrystalDiskInfo as AI crunch drives sophisticated counterfeit market — free open-source software can flag clones by checking firmware, PCI Vendor ID",
+      "description_en": "CrystalDiskInfo's new feature will tell you whether your Samsung SSD is the real deal or not.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ssds/fake-samsung-ssd-spotting-comes-to-crystaldiskinfo-as-ai-crunch-drives-sophisticated-counterfeit-market-free-open-source-software-can-flag-clones-by-checking-firmware-pci-vendor-id",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/qjXukgvXrnVbR4Lrd3W9y9-1280-80.jpg",
+      "pub_date": "Tue, 19 May 2026 10:05:15 +0000",
+      "author": " Zhiye Liu ",
+      "categories": [
+        "SSDs",
+        "PC Components",
+        "Storage"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-19T11:55:48.571Z",
+      "created_at": "2026-05-19T11:55:48.571Z"
+    },
+    {
+      "id": 8584,
+      "source": "XOR Journal (TG)",
+      "title_en": "«Сеньоры уходят на пенсию, они не хотят с этим разбираться» — создатель C++ раскритиковал вайбкод.В новом двухчасовом интервью легенда Бьёрн Страуструп пожаловался, что сгенерированный код пока создаё",
+      "description_en": "«Сеньоры уходят на пенсию, они не хотят с этим разбираться» — создатель C++ раскритиковал вайбкод.В новом двухчасовом интервью легенда Бьёрн Страуструп пожаловался, что сгенерированный код пока создаёт слишком много багов, раздувает проект, плодит дыры в безопасности и не поддаётся нормальной проверке. Также слоп-кодерами не доволен Линус Торвальдс — он оказался буквально завален кривыми отчетами, которые мешают разрабатывать ядро.Сеньоры уже бегут с тонущего корабля 😐@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9275",
+      "image_url": null,
+      "pub_date": "2026-05-19T10:17:44+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-19T11:55:49.790Z",
+      "created_at": "2026-05-19T11:55:49.790Z"
+    },
+    {
+      "id": 8585,
+      "source": "AI Post (TG)",
+      "title_en": "🔥 Stop saying to ChatGPT \"Write me an email\"! Bad request = bad result.Use these prompts instead and you'll see the magic:1. Professional Email Writer​\"Act as a first-class communications specialist.",
+      "description_en": "🔥 Stop saying to ChatGPT \"Write me an email\"! Bad request = bad result.Use these prompts instead and you'll see the magic:1. Professional Email Writer​\"Act as a first-class communications specialist. Rewrite this email to make it professional, clear, concise, and polite while preserving my original intent. Improve the tone, structure, grammar, and overall flow of the text. My email: [Paste the email].\"2. The Perfect Cold Email​\"Write a short, persuasive, and highly impactful cold email for this",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6965",
+      "image_url": null,
+      "pub_date": "2026-05-19T11:54:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-19T11:55:50.463Z",
+      "created_at": "2026-05-19T11:55:50.463Z"
     }
   ]
 }
