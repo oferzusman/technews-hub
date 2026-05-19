@@ -1,9 +1,9 @@
 {
-  "total": 8619,
-  "translated": 8618,
+  "total": 8633,
+  "translated": 8632,
   "untranslated": 1,
-  "today": 81,
-  "week": 720,
+  "today": 95,
+  "week": 734,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 617,
-      "translated": 617,
+      "total": 618,
+      "translated": 618,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -31,14 +31,14 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 431,
-      "translated": 431,
+      "total": 433,
+      "translated": 433,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 385,
-      "translated": 385,
+      "total": 386,
+      "translated": 386,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 250,
-      "translated": 250,
+      "total": 252,
+      "translated": 252,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 158,
-      "translated": 157,
-      "lastDate": "2026-05-19T15:48:01+00:00"
+      "total": 159,
+      "translated": 158,
+      "lastDate": "2026-05-19T17:02:01+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -121,9 +121,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 102,
-      "translated": 102,
-      "lastDate": "2026-05-19T16:20:09+00:00"
+      "total": 103,
+      "translated": 103,
+      "lastDate": "2026-05-19T17:24:45+00:00"
     },
     {
       "name": "AI News",
@@ -144,16 +144,16 @@
       "lastDate": "2026-04-09T07:00:00Z"
     },
     {
+      "name": "Backdoor (TG)",
+      "total": 60,
+      "translated": 60,
+      "lastDate": "2026-05-19T17:25:32+00:00"
+    },
+    {
       "name": "Hi, AI Russian (TG)",
       "total": 58,
       "translated": 58,
       "lastDate": "2026-05-19T15:46:21+00:00"
-    },
-    {
-      "name": "Backdoor (TG)",
-      "total": 55,
-      "translated": 55,
-      "lastDate": "2026-05-19T12:02:00+00:00"
     },
     {
       "name": "Github.com",
@@ -169,9 +169,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 45,
-      "translated": 45,
-      "lastDate": "2026-05-19T08:10:01+00:00"
+      "total": 46,
+      "translated": 46,
+      "lastDate": "2026-05-19T16:30:37+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-19T16:40:16.105Z"
+  "generatedAt": "2026-05-19T17:30:53.044Z"
 }
