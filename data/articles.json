@@ -181067,7 +181067,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-20T08:00:57.902Z",
       "created_at": "2026-05-20T08:00:57.902Z"
     },
@@ -181138,6 +181138,120 @@
       "priority": "hot",
       "fetchedAt": "2026-05-20T08:00:58.273Z",
       "created_at": "2026-05-20T08:00:58.273Z"
+    },
+    {
+      "id": 8747,
+      "source": "MarkTechPost",
+      "title_en": "Alibaba Qwen Team Introduces Qwen3.5-LiveTranslate-Flash: Real-Time Multimodal Interpretation Across 60 Languages at 2.8-Second Latency",
+      "description_en": "Alibaba's Qwen team has released Qwen3.5-LiveTranslate-Flash, a real-time multimodal translation model that processes audio and video simultaneously. The model covers 60 input languages and produces speech output in 29 languages at 2.8 seconds of latency. Key additions over the previous Qwen3 version include real-time speaker voice cloning, vision-enhanced comprehension via lip movements and on-screen text, and dynamic keyword configuration for domain-specific terminology. On FLEURS and CoVoST2 ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/20/alibaba-qwen-team-introduces-qwen3-5-livetranslate-flash-real-time-multimodal-interpretation-across-60-languages-at-2-8-second-latency/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-20-at-1.09.04-AM-1.png",
+      "pub_date": "Wed, 20 May 2026 08:09:51 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T08:43:36.402Z",
+      "created_at": "2026-05-20T08:43:36.402Z"
+    },
+    {
+      "id": 8748,
+      "source": "OpenAI Blog",
+      "title_en": "The next phase of OpenAI’s Education for Countries",
+      "description_en": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "image_url": null,
+      "pub_date": "Wed, 20 May 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Global Affairs"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-20T08:43:36.494Z",
+      "created_at": "2026-05-20T08:43:36.494Z"
+    },
+    {
+      "id": 8749,
+      "source": "The Guardian AI",
+      "title_en": "Tell us: have you used an AI chatbot to make a significant decision – and regretted it?",
+      "description_en": "We would like to hear from people who regret turning to AI chatbots for advice on their personal or social lives \nPeople are increasingly turning to AI chatbots for advice on their personal and social lives. But researchers and even some AI companies are beginning to worry that some users are becoming overly dependent on their chatbots.\nHave you taken the advice of an AI chatbot to make a significant decision - and regretted it?\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/20/tell-us-have-you-used-ai-chatbot-tsignificant-decision-regretted-it",
+      "image_url": "https://i.guim.co.uk/img/media/6e9c307d04534203fc36e51a3585215097fb7591/373_0_3728_2984/master/3728.jpg?width=140&quality=85&auto=format&fit=max&s=6e80347ee44f3275be31a005ae1cb375",
+      "pub_date": "Wed, 20 May 2026 08:43:09 GMT",
+      "author": "Guardian community team",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T08:43:36.715Z",
+      "created_at": "2026-05-20T08:43:36.715Z"
+    },
+    {
+      "id": 8750,
+      "source": "Product Hunt",
+      "title_en": "Multi-Claude",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/multi-claude",
+      "image_url": null,
+      "pub_date": "2026-05-19T03:49:40.000Z",
+      "author": "Bryan Parker",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-20T08:43:39.088Z",
+      "created_at": "2026-05-20T08:43:39.088Z"
+    },
+    {
+      "id": 8751,
+      "source": "AI Post (TG)",
+      "title_en": "🔥If you're not using Claude at your job, you're already behind.Copy these 9 prompts:1. Parallel Task Coordinator\"I have these tasks: [list them]. Handle each one fully and independently. Flag any con",
+      "description_en": "🔥If you're not using Claude at your job, you're already behind.Copy these 9 prompts:1. Parallel Task Coordinator\"I have these tasks: [list them]. Handle each one fully and independently. Flag any conflicts between them as you go. Merge all outputs into one clean deliverable at the end.\"2. Project Auditor\"Audit my uploaded project. Give me a prioritized list of: architecture problems, technical debt, security vulnerabilities, performance bottlenecks, and outdated dependencies. For each issue, se",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6974",
+      "image_url": null,
+      "pub_date": "2026-05-20T08:14:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T08:43:40.206Z",
+      "created_at": "2026-05-20T08:43:40.206Z"
     }
   ]
 }
