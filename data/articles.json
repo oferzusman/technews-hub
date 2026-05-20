@@ -180878,6 +180878,71 @@
       "priority": "hot",
       "fetchedAt": "2026-05-20T05:42:16.604Z",
       "created_at": "2026-05-20T05:42:16.604Z"
+    },
+    {
+      "id": 8735,
+      "source": "The Guardian AI",
+      "title_en": "AI engineer says Google unfairly sacked him after he protested against work for Israel",
+      "description_en": "Exclusive: Employment tribunal claim says worker lost his job after distributing leaflets throughout London office\nGoogle is facing a legal challenge from an AI engineer who claims he was unfairly dismissed after he protested against its work for the Israeli government, in the latest sign of growing concern about the social and ethical impacts of AI.\nThe engineer distributed flyers around Google DeepMind’s London offices, which read “Google provides military AI to forces committing genocide” and",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/20/ai-engineer-says-google-unfairly-sacked-him-after-he-protested-against-work-for-israel",
+      "image_url": "https://i.guim.co.uk/img/media/f80f7c0faa77addae41acd9052268a4cf4515372/964_0_4822_3859/master/4822.jpg?width=140&quality=85&auto=format&fit=max&s=8824a4771122aafe5117f066f89c2798",
+      "pub_date": "Wed, 20 May 2026 06:00:26 GMT",
+      "author": "Robert Booth UK technology editor",
+      "categories": [
+        {
+          "_": "Google",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/google"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "London",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/london"
+          }
+        },
+        {
+          "_": "Israel",
+          "$": {
+            "domain": "https://www.theguardian.com/world/israel"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T06:07:56.311Z",
+      "created_at": "2026-05-20T06:07:56.311Z"
+    },
+    {
+      "id": 8736,
+      "source": "AI Post (TG)",
+      "title_en": "🔍 Google introduced Gemini Omni Omni is their new model that can create anything from any input, starting with video (think Nano Banana but for video). Available in the Gemini App, Flow, and YouTube,",
+      "description_en": "🔍 Google introduced Gemini Omni Omni is their new model that can create anything from any input, starting with video (think Nano Banana but for video). Available in the Gemini App, Flow, and YouTube, with API support coming soon!@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6973",
+      "image_url": null,
+      "pub_date": "2026-05-20T06:07:19+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T06:08:00.092Z",
+      "created_at": "2026-05-20T06:08:00.092Z"
     }
   ]
 }
