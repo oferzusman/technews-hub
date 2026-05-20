@@ -183563,7 +183563,7 @@
         "Ryzen"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-20T20:58:50.150Z",
       "created_at": "2026-05-20T20:58:50.150Z"
     },
@@ -183693,6 +183693,40 @@
       "priority": "hot",
       "fetchedAt": "2026-05-20T20:59:00.027Z",
       "created_at": "2026-05-20T20:59:00.027Z"
+    },
+    {
+      "id": 8855,
+      "source": "The Verge AI",
+      "title_en": "‘Solve all diseases,’ you say?",
+      "description_en": "Let’s unpack what Demis Hassabis said at the end of yesterday’s Google I/O keynote.\t\n\nThis is  Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This week's issue is a special early edition tied to The Verge's Google I/O coverage. You can expect our next issue at its usual time next Friday. Opt in for Optimizer here.\nToward the end of this year's Google I/O keynote, ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health",
+      "image_url": null,
+      "pub_date": "2026-05-20T21:06:35.000Z",
+      "author": "Victoria Song",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T21:20:58.826Z",
+      "created_at": "2026-05-20T21:20:58.826Z"
+    },
+    {
+      "id": 8856,
+      "source": "XOR Journal (TG)",
+      "title_en": "OpenAI обновил свою библиотеку с готовыми сценариями для Codex — теперь в ней более 50 распространенных воркфлоу! 🤩Внутри есть всё, что обычно хочется поручить агенту: разбор больших кодовых баз, рев",
+      "description_en": "OpenAI обновил свою библиотеку с готовыми сценариями для Codex — теперь в ней более 50 распространенных воркфлоу! 🤩Внутри есть всё, что обычно хочется поручить агенту: разбор больших кодовых баз, ревью, обновление документации, миграции, работа с таблицами, почтой, разными приложениями и финансовыми моделями.Причем внутри каждого раздела целый мини-гайд: кому подходит, какие плагины и скиллы нужны, какой промпт использовать + подробная документация, как всё настроить. И все это бесплатно.Учимся",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9314",
+      "image_url": null,
+      "pub_date": "2026-05-20T21:10:07+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T21:21:05.912Z",
+      "created_at": "2026-05-20T21:21:05.912Z"
     }
   ]
 }
