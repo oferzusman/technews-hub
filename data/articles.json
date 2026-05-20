@@ -181323,6 +181323,368 @@
       "priority": "hot",
       "fetchedAt": "2026-05-20T09:59:48.773Z",
       "created_at": "2026-05-20T09:59:48.773Z"
+    },
+    {
+      "id": 8756,
+      "source": "The Decoder",
+      "title_en": "Google's Gemini 3.5 Flash follows Anthropic and OpenAI in making newer AI models significantly pricier",
+      "description_en": "Google's Gemini 3.5 Flash is a big step up from its predecessor, but in benchmark testing, it costs 5.5 times as much to run. On agent tasks, total costs even exceed the pricier Gemini 3.1 Pro by 75 percent because the model needs more interaction steps than any rival tested. Google isn't alone here: AI is getting more expensive across the board as the massive investments need to pay off.\nThe article Google's Gemini 3.5 Flash follows Anthropic and OpenAI in making newer AI models significantly p",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/googles-gemini-3-5-flash-follows-anthropic-and-openai-in-making-newer-ai-models-significantly-pricier/",
+      "image_url": null,
+      "pub_date": "Wed, 20 May 2026 10:40:51 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Gemini",
+        "Google"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T11:18:05.035Z",
+      "created_at": "2026-05-20T11:18:05.035Z"
+    },
+    {
+      "id": 8757,
+      "source": "MarkTechPost",
+      "title_en": "NVIDIA AI Releases Nemotron-Labs-Diffusion: A Tri-Mode Language Model with 6× Tokens Per Forward Over Qwen3-8B",
+      "description_en": "NVIDIA researchers have released Nemotron-Labs-Diffusion, a language model family that unifies three decoding modes in one architecture. The model supports autoregressive (AR) decoding, diffusion-based parallel decoding, and self-speculation decoding. It is available in 3B, 8B, and 14B parameter sizes. The family includes base, instruct, and vision-language variants. Sequential Decoding Limits Throughput Standard autoregressive (AR) language […]\nThe post NVIDIA AI Releases Nemotron-Labs-Diffusio",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/20/nvidia-ai-releases-nemotron-labs-diffusion-a-tri-mode-language-model-with-6x-tokens-per-forward-over-qwen3-8b/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-20-at-3.28.04-AM-1.png",
+      "pub_date": "Wed, 20 May 2026 10:41:02 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T11:18:05.348Z",
+      "created_at": "2026-05-20T11:18:05.348Z"
+    },
+    {
+      "id": 8758,
+      "source": "New Atlas",
+      "title_en": "Habitable bridge spans 100 feet over two streams in rural India",
+      "description_en": "Somewhere in the hills outside the city of Karjat in India, there is a marvelous house that bridges the gap between two pieces of land. Built by Wallmakers, the Bridge House spans 100 feet (30 m) across two streams that have carved a 30-ft (7-m) gorge through the landscape, and expertly combines mud, steel and thatch to create a simple yet functional four-bedroom home.\nContinue Reading\nCategory: Architecture, Engineering\nTags: Bridge, Housing, House, Building and Construction",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/architecture/wallmakers-bridge-house-india/",
+      "image_url": null,
+      "pub_date": "Wed, 20 May 2026 10:21:58 GMT",
+      "author": "Stefan Ionescu",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T11:18:05.715Z",
+      "created_at": "2026-05-20T11:18:05.715Z"
+    },
+    {
+      "id": 8759,
+      "source": "The Guardian AI",
+      "title_en": "‘I don’t worry about a robot takeover’: AI expert Michael Wooldridge on big tech’s real dangers (and occasional blessings)",
+      "description_en": "Almost 50 years after he first got his hands on a computer, the Oxford professor still believes in the power of technology. Can his beloved game theory explain why Silicon Valley’s entrepreneurs consistently misuse it?\nMichael Wooldridge is like the teacher you wish you’d had: approachable, able to explain difficult things in simple terms, neither dauntingly highbrow nor off-puttingly cool, and genuinely enthusiastic about what he does. “I love it when you see the light go on in somebody, when t",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/lifeandstyle/2026/may/20/i-dont-worry-about-a-robot-takeover-ai-expert-michael-wooldridge-on-big-techs-real-dangers-and-occasional-blessings",
+      "image_url": "https://i.guim.co.uk/img/media/0bfd25c9cc8742fabf638f5b4753d03a7cc3f765/417_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=a1f69580b974d1665efc820f5f9a3716",
+      "pub_date": "Wed, 20 May 2026 11:00:39 GMT",
+      "author": "Steve Rose",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Iran",
+          "$": {
+            "domain": "https://www.theguardian.com/world/iran"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T11:18:05.748Z",
+      "created_at": "2026-05-20T11:18:05.748Z"
+    },
+    {
+      "id": 8760,
+      "source": "The Guardian AI",
+      "title_en": "Musk and the US government fought an AI anti-discrimination law. The arguments don’t hold up | Genevieve Smith",
+      "description_en": "The justice department’s lawsuit is part of a federal effort to reframe AI consumer protections as ideological overreach\nThis April, the US Department of Justice joined Elon Musk’s xAI in suing the state of Colorado to kill its AI anti-discrimination law.\nWhen the federal government sides with a billionaire against a state trying to protect its residents from AI discrimination, that’s not only a Colorado story. That’s everyone’s story.\nDr Genevieve Smith is a postdoctoral research fellow at Stan",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/may/20/elon-musk-us-government-ai-law",
+      "image_url": "https://i.guim.co.uk/img/media/a734882f3de88c5b05b6183349bc722f415315b2/400_0_3999_3199/master/3999.jpg?width=140&quality=85&auto=format&fit=max&s=f1f419b599210b0db0a617f100b495e8",
+      "pub_date": "Wed, 20 May 2026 10:00:33 GMT",
+      "author": "Genevieve Smith",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "Colorado",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/colorado"
+          }
+        },
+        {
+          "_": "Trump administration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/trump-administration"
+          }
+        },
+        {
+          "_": "Law (US)",
+          "$": {
+            "domain": "https://www.theguardian.com/law/law-us"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T11:18:05.748Z",
+      "created_at": "2026-05-20T11:18:05.748Z"
+    },
+    {
+      "id": 8761,
+      "source": "AI News",
+      "title_en": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
+      "description_en": "Alibaba has unveiled a new AI processor built specifically for AI agents, pairing the chip announcement with a multi-year silicon roadmap and a new large language model, signalling that the company is building an integrated AI stack, not just filling a gap left by US export controls. The Zhenwu M890, developed by Alibaba’s semiconductor subsidiary […]\nThe post Alibaba is designing AI chips around agents, and that changes what the race is actually about appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
+      "image_url": null,
+      "pub_date": "Wed, 20 May 2026 10:00:00 +0000",
+      "author": "Dashveenjit Kaur",
+      "categories": [
+        "AI Hardware & Chips",
+        "AI in Action",
+        "Artificial Intelligence",
+        "Infrastructure & Hardware",
+        "agentic ai",
+        "ai",
+        "artificial intelligence",
+        "enterprise",
+        "T-Head"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T11:18:06.322Z",
+      "created_at": "2026-05-20T11:18:06.322Z"
+    },
+    {
+      "id": 8762,
+      "source": "Tom's Hardware",
+      "title_en": "$300 slashed from Apple's M4 MacBook Air with 24GB of RAM — get a premium laptop for just $1,099",
+      "description_en": "Apple's MacBook Air M5 and M4 laptops both take a price cut in Best Buy's Memorial Day sale.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/laptops/macbooks/usd300-slashed-from-apples-m4-macbook-air-with-24gb-of-ram-get-a-premium-laptop-for-just-usd1-099",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/dy2UD4NRyuP927jfPPMGuT-1280-80.jpg",
+      "pub_date": "Wed, 20 May 2026 11:02:37 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "Macbooks",
+        "Laptops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T11:18:07.079Z",
+      "created_at": "2026-05-20T11:18:07.079Z"
+    },
+    {
+      "id": 8763,
+      "source": "Tom's Hardware",
+      "title_en": "Laser-driven spintronic memory device switches 1,000 times faster than DRAM —non-volatile device switches in 40 picoseconds while generating almost no heat",
+      "description_en": "Researchers at the University of Tokyo demonstrated a non-volatile Mn₃Sn magnetic switching device capable of flipping bits in just 40 picoseconds while generating minimal heat, potentially paving the way for lower-power AI hardware and memory systems.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/storage/laser-driven-spintronic-memory-device-switches-1-000-times-faster-than-dram-non-volatile-device-switches-in-40-picoseconds-while-generating-almost-no-heat",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/C4qM7bpMsN5cBj9KcAj4Dg-1280-80.jpg",
+      "pub_date": "Wed, 20 May 2026 10:20:37 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "Storage",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T11:18:07.079Z",
+      "created_at": "2026-05-20T11:18:07.079Z"
+    },
+    {
+      "id": 8764,
+      "source": "Tom's Hardware",
+      "title_en": "Score up to $129 off a new Secretlab gaming chair or desk ahead of the Memorial Day weekend — bundles and sales galore on a whole range of upgrades for your setup, with stackable coupon codes that knock up to $100 extra off for big orders",
+      "description_en": "You can save up to $129 on a new gaming chair or desk in this Secretlab Memorial Day Sale, with huge discounts on accessories, too.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/peripherals/gaming-chairs/score-up-to-usd129-off-a-new-secretlab-gaming-chair-or-desk-ahead-of-the-memorial-day-weekend-bundles-and-sales-galore-on-a-whole-range-of-upgrades-for-your-setup-with-stackable-coupon-codes-that-knock-up-to-usd100-extra-off-for-big-orders",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/2EEMcVmrQcSDBGZ68CL8Fe-1280-80.png",
+      "pub_date": "Wed, 20 May 2026 10:00:00 +0000",
+      "author": " Ben Stockton ",
+      "categories": [
+        "Gaming Chairs",
+        "Peripherals"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T11:18:07.079Z",
+      "created_at": "2026-05-20T11:18:07.079Z"
+    },
+    {
+      "id": 8765,
+      "source": "Tom's Hardware",
+      "title_en": "Lisa Su meets China's vice premier during China visit — AMD CEO pledges deeper investment days after Trump-Xi summit",
+      "description_en": "AMD CEO Lisa Su met with Chinese Vice Premier He Lifeng at the Great Hall of the People in Beijing on Monday, pledging further investment and expanded operations in what she calls \"the world’s most dynamic AI ecosystem.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/amd-ceo-lisa-su-meets-chinas-vice-premier",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/V6g9erh8DezsJ2RfiySJiT-1280-80.png",
+      "pub_date": "Wed, 20 May 2026 10:00:00 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T11:18:07.079Z",
+      "created_at": "2026-05-20T11:18:07.079Z"
+    },
+    {
+      "id": 8766,
+      "source": "XOR Journal (TG)",
+      "title_en": "Платформа Т-Банка Sage Observability становится AI-first — это ускорит настройку мониторинга ИТ-систем, поиск и выявление отклонений минимум в 20 (!) раз 🤔Платформу Sage можно использовать для наблюд",
+      "description_en": "Платформа Т-Банка Sage Observability становится AI-first — это ускорит настройку мониторинга ИТ-систем, поиск и выявление отклонений минимум в 20 (!) раз 🤔Платформу Sage можно использовать для наблюдения большого количества блоков. И да, банки, НСПК и другие крупные компании уже используют ее, чтобы предотвращать инциденты. До конца года платформа получит интеллектуальный слой Sage AI — рассказал технический директор Т-Банка Игорь Маслов на конференции ЦИПР-2026. Под капотом Sage AI два ключевы",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9302",
+      "image_url": "https://cdn4.telesco.pe/file/Oq7NQovpjDkpO_NqV8q8PNzTG3Bz5ANWgcLRKB3ayx7gwzaV-VvXpKviHzl6rWbxndrODd5yTnozeA2SsxzeyKICawrvoSi1Ad-lHIfL9_c-M15JsKoO9UxvzwZlaYXBJpdZ_eaC3Uh_oyrt0-iZMa594tUocN1tkMxUDJCmvPGIZ3VrGGjl1VXU51y2d30jGDtRNpTMNq4VAtVvo8FV3dkjvL1l23jG6noiLpIYKIqgYDhcKj2sZPI-pGjv3tpcU9mJQUgqhCAIXk5TYyvnhQNKdgvxq4OFQJLr_tx_wQ1hkTMvqO3XEyZp_Q7NpFEBCJbchDtKynBXNLbaUYMspg.jpg",
+      "pub_date": "2026-05-20T10:15:12+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T11:18:10.026Z",
+      "created_at": "2026-05-20T11:18:10.026Z"
+    },
+    {
+      "id": 8767,
+      "source": "XOR Journal (TG)",
+      "title_en": "Красотааа: появился виртуальный музей ВСЕХ операционных систем, которые вы только можете себе представить.Внутри коллекция из 570 ОС, 250 платформ и 1700 виртуальных машин: от Manchester Baby 1948 год",
+      "description_en": "Красотааа: появился виртуальный музей ВСЕХ операционных систем, которые вы только можете себе представить.Внутри коллекция из 570 ОС, 250 платформ и 1700 виртуальных машин: от Manchester Baby 1948 года и ранних Unix до Apple II, Commodore, Atari. И этих рыбов не только показывают — можно выбрать и запустить через эмулятор.Кстати, автор собирал эту коллекцию с 2003 года, так что это буквально музей компьютерной археологии.Залипаем и прикасаемся к истории 😎@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9303",
+      "image_url": "https://cdn4.telesco.pe/file/OdTkf6S6DhjgBmVq62wJmOOuRcD2CYsTm1FmIZGze-HGrF4VQLL8YkAdEZZeAJWnKL1YSBNKGH-3Kipk0CCY-okCARFnYVmk1yOgvm0fCSVGEx3tvIV0B98IC_cxowqTz3eAw6Q-d5-CkcqdRnzDvQgixQoCXUUQFapkWfJEbusIG45oaYxoynrHGcntdOxH0fwS2arK8cJYmF4zlm0tQ1nUywA4_ltysWXanf4roPWinPUbgm8Bp2rf4GYTu-ONDebgq6Zrvs2TkyYU3vzJQQXJH8TQyBgHz--t7rOnl0FdxCZ1D_yf10dcgaJnBhUb3PFiNHomFb5dmIiw_0czdA.jpg",
+      "pub_date": "2026-05-20T10:48:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T11:18:10.026Z",
+      "created_at": "2026-05-20T11:18:10.026Z"
+    },
+    {
+      "id": 8768,
+      "source": "Backdoor (TG)",
+      "title_en": "Новый Gemini Omni оказался мегахорош в точечном редактировании видео — модель идеально понимает запросы и очень естественно меняет объекты в кадре. Чел показал мощь на простых промптах:1. Исходное вид",
+      "description_en": "Новый Gemini Omni оказался мегахорош в точечном редактировании видео — модель идеально понимает запросы и очень естественно меняет объекты в кадре. Чел показал мощь на простых промптах:1. Исходное видео2. Сделай её невидимой, надень на неё перчатки3. Пока она говорит, двое мужиков уносят картину в рамке4. Поменяй ей одежду.Возможности редактирования практически безграничны. Попробовать можно тут. 👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28538",
+      "image_url": null,
+      "pub_date": "2026-05-20T11:02:46+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T11:18:10.082Z",
+      "created_at": "2026-05-20T11:18:10.082Z"
     }
   ]
 }
