@@ -182685,6 +182685,366 @@
       "priority": "batch",
       "fetchedAt": "2026-05-20T16:27:29.479Z",
       "created_at": "2026-05-20T16:27:29.479Z"
+    },
+    {
+      "id": 8813,
+      "source": "The Verge AI",
+      "title_en": "You can now remix other people’s YouTube Shorts with AI",
+      "description_en": "Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people's videos using Gemini Omni. Now, at the bottom of a YouTube Short, when you click the remix icon, you'll see an option to \"reimagine\" it. Here, you can prompt Gemini to turn a video into pixel art, an anime, or a found-footage horror film. But, beyond that, you can also alter the contents by, say, inflating heads, inserting background actors, dressing people in pirate cos",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
+      "image_url": null,
+      "pub_date": "2026-05-20T16:41:40.000Z",
+      "author": "Terrence O’Brien",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T17:18:26.067Z",
+      "created_at": "2026-05-20T17:18:26.067Z"
+    },
+    {
+      "id": 8814,
+      "source": "Google AI Blog",
+      "title_en": "A new experiment brings better group meetings to Google Beam",
+      "description_en": "See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp",
+      "pub_date": "Wed, 20 May 2026 16:45:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Mohamed Abdelgany"
+        ],
+        "title": [
+          "Google Beam"
+        ],
+        "department": [
+          "Group Product Manager"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Google Workspace",
+        "Google Research",
+        "AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T17:18:28.106Z",
+      "created_at": "2026-05-20T17:18:28.106Z"
+    },
+    {
+      "id": 8815,
+      "source": "The Guardian AI",
+      "title_en": "Why patients are turning to Dr Chatbot | Letters",
+      "description_en": "Richard Eltringham and Barbara Riddell point to the decline in general practice as the reason why people are turning to AI for health advice. Plus a letter from Dr Katie Baker\nYour report (One in seven in UK prefer consulting AI chatbots to seeing doctor, study finds, 13 May) will no doubt be greeted with the usual hand‑wringing about the decline of human connection in healthcare. But the more honest explanation is far simpler: many of us no longer see our registered doctor in any meaningful sen",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/society/2026/may/20/why-patients-are-turning-to-dr-chatbot",
+      "image_url": "https://i.guim.co.uk/img/media/3f73cf2e73be7a9667b81f6b3578105857a30d55/598_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6005820dde1d8158c558bb7dc0459c01",
+      "pub_date": "Wed, 20 May 2026 16:59:29 GMT",
+      "author": "Guardian Staff",
+      "categories": [
+        {
+          "_": "GPs",
+          "$": {
+            "domain": "https://www.theguardian.com/society/gps"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "NHS",
+          "$": {
+            "domain": "https://www.theguardian.com/society/nhs"
+          }
+        },
+        {
+          "_": "Health",
+          "$": {
+            "domain": "https://www.theguardian.com/society/health"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Society",
+          "$": {
+            "domain": "https://www.theguardian.com/society/society"
+          }
+        },
+        {
+          "_": "Doctors",
+          "$": {
+            "domain": "https://www.theguardian.com/society/doctors"
+          }
+        },
+        {
+          "_": "Health policy",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/health"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T17:18:28.763Z",
+      "created_at": "2026-05-20T17:18:28.763Z"
+    },
+    {
+      "id": 8816,
+      "source": "The Guardian AI",
+      "title_en": "Nobel laureates and human rights abuses | Brief letters",
+      "description_en": "Abiy Ahmed | AI job losses | Deer ruminations | Harry Belafonte | Stephen Yaxley‑Lennon\nIn reference to your report about 112 Nobel laureates calling on Iran to release the gravely ill activist Narges Mohammadi )(12 May), I write to note the irony that Abiy Ahmed, the prime minister of Ethiopia, has had under his leadership several activists imprisoned for protesting against human rights violations and a profound undemocratic social order since he was awarded the Nobel prize for peace in 2019. P",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/world/2026/may/20/nobel-laureates-and-human-rights-abuses",
+      "image_url": "https://i.guim.co.uk/img/media/c385ab40f66f9afb856758a581c14ae7c4f0cb52/133_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=907e08822fb5e7e7925472b94706e0ae",
+      "pub_date": "Wed, 20 May 2026 16:59:16 GMT",
+      "author": "Guardian Staff",
+      "categories": [
+        {
+          "_": "Ethiopia",
+          "$": {
+            "domain": "https://www.theguardian.com/world/ethiopia"
+          }
+        },
+        {
+          "_": "Nobel peace prize",
+          "$": {
+            "domain": "https://www.theguardian.com/world/nobelpeaceprize"
+          }
+        },
+        {
+          "_": "Iran",
+          "$": {
+            "domain": "https://www.theguardian.com/world/iran"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Universities",
+          "$": {
+            "domain": "https://www.theguardian.com/education/universities"
+          }
+        },
+        {
+          "_": "Harry Belafonte",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/harry-belafonte"
+          }
+        },
+        {
+          "_": "Tommy Robinson",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/tommy-robinson"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Human rights",
+          "$": {
+            "domain": "https://www.theguardian.com/global-development/human-rights"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T17:18:28.764Z",
+      "created_at": "2026-05-20T17:18:28.764Z"
+    },
+    {
+      "id": 8817,
+      "source": "Tom's Hardware",
+      "title_en": "Memory makers brace for hydrogen fluoride pricing shock as Hormuz blockade impacts supply chain — key etching and cleaning material faces sharp cost increase amid trade disruption",
+      "description_en": "Rising production costs for key chip etching and cleaning material, anhydrous hydrogen fluoride, could lead to further price rises for consumers on memory and storage products, even as salvation lies in the latter months of the year.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/memory-makers-brace-for-hydrogen-fluoride-pricing-shock-as-hormuz-blockade-impacts-supply-chain-key-etching-and-cleaning-material-faces-sharp-cost-increase-amid-trade-disruption",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/tUJXqvQS7CdaxpztyhT8hT-1280-80.jpg",
+      "pub_date": "Wed, 20 May 2026 17:07:22 +0000",
+      "author": " Jon Martindale ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T17:18:30.158Z",
+      "created_at": "2026-05-20T17:18:30.158Z"
+    },
+    {
+      "id": 8818,
+      "source": "Tom's Hardware",
+      "title_en": "Ryzen 7 5800X3D AM4 10th Anniversary Edition surfaces online for $310 — return of iconic gaming CPU for budget builders seems imminent",
+      "description_en": "Indian retailer lists AMD's Ryzen 7 5800X3D AM4 10th Anniversary Edition processor for $310.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/ryzen-7-5800x3d-am4-10th-anniversary-edition-surfaces-online-for-usd310-return-of-iconic-gaming-cpu-for-budget-builders-seems-imminent",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/nar3qvtVVZLKZqesYE8CeD-1280-80.jpg",
+      "pub_date": "Wed, 20 May 2026 16:49:49 +0000",
+      "author": " Zhiye Liu ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T17:18:30.159Z",
+      "created_at": "2026-05-20T17:18:30.159Z"
+    },
+    {
+      "id": 8819,
+      "source": "Tom's Hardware",
+      "title_en": "Team Group agrees to $1.1 million DRAM settlement in another false advertising lawsuit — claimed advertised memory speeds required BIOS tweaks and overclocking settings",
+      "description_en": "Team Group denies all wrongdoing but has agreed to settle the lawsuit involving advertised RAM performance and overclocking-related settings.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/dram/team-group-agrees-to-usd1-1-million-dram-settlement-in-another-false-advertising-lawsuit-claimed-advertised-memory-speeds-required-bios-tweaks-and-overclocking-settings",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/MAMAvzZwAu8bMeGoJhNvhK-1280-80.jpg",
+      "pub_date": "Wed, 20 May 2026 16:32:02 +0000",
+      "author": " Kunal Khullar ",
+      "categories": [
+        "DRAM",
+        "PC Components",
+        "RAM"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T17:18:30.159Z",
+      "created_at": "2026-05-20T17:18:30.159Z"
+    },
+    {
+      "id": 8820,
+      "source": "CNBC Tech",
+      "title_en": "Airbnb adds hotels, car rentals. Chesky says app can become an 'Amazon for services'",
+      "description_en": "Airbnb on Wednesday added new services and independent hotels to its platform in its latest expansion move in the travel industry.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/20/airbnb-hotels-car-rentals-ai-rentals.html",
+      "image_url": null,
+      "pub_date": "Wed, 20 May 2026 17:01:35 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T17:18:30.325Z",
+      "created_at": "2026-05-20T17:18:30.325Z"
+    },
+    {
+      "id": 8821,
+      "source": "CNBC Tech",
+      "title_en": "OpenAI to confidentially file for IPO as soon as Friday: Source",
+      "description_en": "OpenAI is working with banks including Goldman Sachs and Morgan Stanley.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
+      "image_url": null,
+      "pub_date": "Wed, 20 May 2026 17:14:41 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T17:18:30.325Z",
+      "created_at": "2026-05-20T17:18:30.325Z"
+    },
+    {
+      "id": 8822,
+      "source": "XOR Journal (TG)",
+      "title_en": "Цикл замкнулся 🤭@xor_journal",
+      "description_en": "Цикл замкнулся 🤭@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9313",
+      "image_url": "https://cdn4.telesco.pe/file/bzDWDJvPyR_4NQMAlb5VieEb_edAKRDiceYDWOq5sGpVhq6JFEHiPovYU21nSvvM-Rv2AgjYl4m7lxoQ7uraugqQ8PFY-217Ez9P8rEvvL7RE9wxQ99z0EwF9U2ffwEdg-jNVgXYNX7jBWNbGe6c5YYiw7XcABQGuvk4-zNELjFoTYc4o47lk6OkY5lOCiBKjtd0qmANFV7svLGs3iZUzPaZQ61ZCw1uFkzwVJypXeFeFsmxVCe9BSqrWFAaUqfWyvMwlIPE5vdQ1QzjXk4GrjgiK5TBR9eo6IBSyHfYjcJdHsuBWVceQzRGXIvXjb9_4qV5nNOiDGm_GAW9y3bXXQ.jpg",
+      "pub_date": "2026-05-20T17:00:44+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T17:18:35.689Z",
+      "created_at": "2026-05-20T17:18:35.689Z"
+    },
+    {
+      "id": 8823,
+      "source": "Habr (TG)",
+      "title_en": "«Я заставил LLM писать Rust полгода. Вот что они стабильно ломают»Нейросети уверенно генерируют Rust-код, который проходит cargo test и clippy, но тихо ломает логику приложения. Причина кроется в архи",
+      "description_en": "«Я заставил LLM писать Rust полгода. Вот что они стабильно ломают»Нейросети уверенно генерируют Rust-код, который проходит cargo test и clippy, но тихо ломает логику приложения. Причина кроется в архитектурных слепых пятнах трансформеров: языковая модель обрабатывает токены последовательно, тогда как borrow checker оценивает графы заимствований во времени.Изолированные функции успешно компилируются, но разрушают глобальные контракты. Возникает lifetime laundering со схлопывающимися ссылками, std",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/68685",
+      "image_url": "https://cdn4.telesco.pe/file/Y9QVZY2ElW3-LgnXecupwrR-NTGmh3gXSKryuP9M2hyYbfqI1G5qtIskyO4z_K1h2doS7WCEKEDm3dFlyZBOVQ-u8YyL6ksTlBA_LjiZHL0_DEpf86v_khmnRLAPp6f2Cz7Szid4KJMtPTRhSa2_yYOnVXI3cyijYwkEbYCqMNevlrjOr0Ex8fY2x9NbqKazJW91oTiEubk1KOmT5V0DbGFsdHtduOpYyJGIv1Z5ps0WOihUEeBcfRtqPPTXyB1dG8--CYluRwQX6kJjqjmet_lvtsmI5oCKRtsrphgcfKt48wXFnG2EMDUAOOEe90DOK9EU2uMC1JpXf-55vs8ong.jpg",
+      "pub_date": "2026-05-20T17:01:07+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T17:18:36.077Z",
+      "created_at": "2026-05-20T17:18:36.077Z"
+    },
+    {
+      "id": 8824,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "💡 Мозг летавших в VR людей «поверил», что у них есть крыльяВ ходе эксперимента 25 добровольцев в течение недели четыре раза «летали» в виртуальной реальности.Во время получасовых сеансов люди наблюда",
+      "description_en": "💡 Мозг летавших в VR людей «поверил», что у них есть крыльяВ ходе эксперимента 25 добровольцев в течение недели четыре раза «летали» в виртуальной реальности.Во время получасовых сеансов люди наблюдали в зеркале свои аватары с крыльями, которыми они отмахивались от падающих шаров, удерживались в воздухе над крутыми обрывами и пролетали сквозь кольца.💡 Участникам делали МРТ мозга до эксперимента и после. Спустя неделю «полетов» у них нашли изменения в области затылочно-височной коры, отвечающей",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3228",
+      "image_url": null,
+      "pub_date": "2026-05-20T16:37:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T17:18:36.159Z",
+      "created_at": "2026-05-20T17:18:36.159Z"
+    },
+    {
+      "id": 8825,
+      "source": "AI Post (TG)",
+      "title_en": "Leaked audio from a Meta all-hands on April 30: Zuckerberg told employees the company is using them to train AI models before mass layoffs hit. His argument? Meta's engineers are smarter than any exte",
+      "description_en": "Leaked audio from a Meta all-hands on April 30: Zuckerberg told employees the company is using them to train AI models before mass layoffs hit. His argument? Meta's engineers are smarter than any external workforce, so having them solve coding tasks internally will make Meta's models better, faster than competitors. The layoffs are expected Wednesday at 4 am. Train your replacement, then get walked out. That's the deal now.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6978",
+      "image_url": null,
+      "pub_date": "2026-05-20T17:02:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T17:18:36.454Z",
+      "created_at": "2026-05-20T17:18:36.454Z"
     }
   ]
 }
