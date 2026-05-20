@@ -183059,7 +183059,7 @@
       "author": "Allison Johnson",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-20T18:40:01.508Z",
       "created_at": "2026-05-20T18:40:01.508Z"
     },
@@ -183152,7 +183152,7 @@
         "Microsoft"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-20T18:40:03.093Z",
       "created_at": "2026-05-20T18:40:03.093Z"
     },
@@ -183169,7 +183169,7 @@
       "author": "Mrigakshi Dixit",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-20T18:40:04.821Z",
       "created_at": "2026-05-20T18:40:04.821Z"
     },
@@ -183203,7 +183203,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-20T18:40:05.776Z",
       "created_at": "2026-05-20T18:40:05.776Z"
     },
@@ -183220,7 +183220,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-20T18:40:05.776Z",
       "created_at": "2026-05-20T18:40:05.776Z"
     },
@@ -183254,7 +183254,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-20T18:40:07.985Z",
       "created_at": "2026-05-20T18:40:07.985Z"
     },
@@ -183271,7 +183271,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-20T18:40:07.985Z",
       "created_at": "2026-05-20T18:40:07.985Z"
     },
@@ -183288,7 +183288,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-20T18:40:07.985Z",
       "created_at": "2026-05-20T18:40:07.985Z"
     },
@@ -183337,7 +183337,7 @@
         "Deepseek"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-20T19:35:04.181Z",
       "created_at": "2026-05-20T19:35:04.181Z"
     },
@@ -183365,7 +183365,7 @@
         "Tutorials"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-20T19:35:04.600Z",
       "created_at": "2026-05-20T19:35:04.600Z"
     },
@@ -183456,7 +183456,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-20T19:35:05.181Z",
       "created_at": "2026-05-20T19:35:05.181Z"
     },
@@ -183476,6 +183476,223 @@
       "priority": "hot",
       "fetchedAt": "2026-05-20T19:35:06.380Z",
       "created_at": "2026-05-20T19:35:06.380Z"
+    },
+    {
+      "id": 8845,
+      "source": "TechCrunch AI",
+      "title_en": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+      "description_en": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+      "image_url": null,
+      "pub_date": "Wed, 20 May 2026 20:28:27 +0000",
+      "author": "Rebecca Bellan",
+      "categories": [
+        "AI",
+        "ChatGPT",
+        "erdos problems",
+        "OpenAI",
+        "reasoning models"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T20:58:50.033Z",
+      "created_at": "2026-05-20T20:58:50.033Z"
+    },
+    {
+      "id": 8846,
+      "source": "TechCrunch AI",
+      "title_en": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+      "description_en": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+      "image_url": null,
+      "pub_date": "Wed, 20 May 2026 19:47:20 +0000",
+      "author": "Lucas Ropek",
+      "categories": [
+        "AI",
+        "andrew ng",
+        "google brain",
+        "IrisGo"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T20:58:50.034Z",
+      "created_at": "2026-05-20T20:58:50.034Z"
+    },
+    {
+      "id": 8847,
+      "source": "Ars Technica",
+      "title_en": "Masters of the Universe final trailer brings the '80s nostalgia",
+      "description_en": "\"You are he who will restore peace to Eternia.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/culture/2026/05/masters-of-the-universe-final-trailer-brings-the-80s-nostalgia/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/heman1-1152x648.jpg",
+      "pub_date": "Wed, 20 May 2026 20:29:39 +0000",
+      "author": "\n                    Jennifer Ouellette\n                ",
+      "categories": [
+        "Culture",
+        "amazon mgm studios",
+        "entertainment",
+        "Masters of the Universe",
+        "Trailers"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T20:58:50.149Z",
+      "created_at": "2026-05-20T20:58:50.149Z"
+    },
+    {
+      "id": 8848,
+      "source": "Ars Technica",
+      "title_en": "\"Ryzen 5800X3D 10th Anniversary Edition\" may help you avoid paying for a new PC",
+      "description_en": "It could be one way to make your old PC play nicely with a high-end GPU.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gadgets/2026/05/amd-reportedly-plans-ryzen-5800x3d-re-release-for-upgraders-on-a-budget/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_0216-1-1152x648.jpeg",
+      "pub_date": "Wed, 20 May 2026 19:19:44 +0000",
+      "author": "\n                    Andrew Cunningham\n                ",
+      "categories": [
+        "Tech",
+        "3d V-cache",
+        "AMD",
+        "Ryzen"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T20:58:50.150Z",
+      "created_at": "2026-05-20T20:58:50.150Z"
+    },
+    {
+      "id": 8849,
+      "source": "Google AI Blog",
+      "title_en": "We’re announcing new community investments in Missouri.",
+      "description_en": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp",
+      "pub_date": "Wed, 20 May 2026 20:40:00 +0000",
+      "author": null,
+      "categories": [
+        "Google.org",
+        "Global Network",
+        "Creating opportunity",
+        "AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T20:58:51.936Z",
+      "created_at": "2026-05-20T20:58:51.936Z"
+    },
+    {
+      "id": 8850,
+      "source": "Google AI Blog",
+      "title_en": "100 things we announced at I/O 2026",
+      "description_en": "This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp",
+      "pub_date": "Wed, 20 May 2026 19:30:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Keyword Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Search",
+        "Gemini",
+        "AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T20:58:51.936Z",
+      "created_at": "2026-05-20T20:58:51.936Z"
+    },
+    {
+      "id": 8851,
+      "source": "OpenAI Blog",
+      "title_en": "How Ramp engineers accelerate code review with Codex",
+      "description_en": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/ramp",
+      "image_url": null,
+      "pub_date": "Wed, 20 May 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-20T20:58:52.118Z",
+      "created_at": "2026-05-20T20:58:52.118Z"
+    },
+    {
+      "id": 8852,
+      "source": "Interesting Engineering",
+      "title_en": "US spends $40M to rebuild Cold War-era Arctic radar for missile, low-flying threats",
+      "description_en": "The U.S. Air Force has awarded a $40 million contract to rebuild aging Arctic radar...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/usaf-cold-war-arctic-radar-rebuild",
+      "image_url": null,
+      "pub_date": "Wed, 20 May 2026 20:36:44 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T20:58:53.083Z",
+      "created_at": "2026-05-20T20:58:53.083Z"
+    },
+    {
+      "id": 8853,
+      "source": "CNBC Tech",
+      "title_en": "Intuit plans to cut workforce by about 17% as tax software maker reckons with slowing growth",
+      "description_en": "Intuit's stock has been hammered this year as investors worry that generative artificial intelligence models could threaten software companies.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/20/intuit-intu-q3-earnings-report-2026-company-cutting-17percent-of-staff.html",
+      "image_url": null,
+      "pub_date": "Wed, 20 May 2026 20:17:46 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T20:58:53.917Z",
+      "created_at": "2026-05-20T20:58:53.917Z"
+    },
+    {
+      "id": 8854,
+      "source": "AI Post (TG)",
+      "title_en": "💰 Nvidia just went full empire mode.Over the past 16 months, Nvidia poured nearly $90 billion into 145 companies, from AI model labs to cloud infrastructure startups, making it one of the most aggres",
+      "description_en": "💰 Nvidia just went full empire mode.Over the past 16 months, Nvidia poured nearly $90 billion into 145 companies, from AI model labs to cloud infrastructure startups, making it one of the most aggressive investors in tech history.According to bankers interviewed by the Financial Times, Nvidia is basically “funding everyone.”The strategy is simple: back the companies building the AI future, then power them with Nvidia chips and infrastructure.But regulators are paying attention.Antitrust concern",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6980",
+      "image_url": null,
+      "pub_date": "2026-05-20T20:34:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T20:59:00.027Z",
+      "created_at": "2026-05-20T20:59:00.027Z"
     }
   ]
 }
