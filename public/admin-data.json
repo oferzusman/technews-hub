@@ -1,7 +1,7 @@
 {
   "total": 8812,
-  "translated": 8810,
-  "untranslated": 2,
+  "translated": 8811,
+  "untranslated": 1,
   "today": 91,
   "week": 766,
   "sources": [
@@ -50,7 +50,7 @@
     {
       "name": "New Atlas",
       "total": 361,
-      "translated": 360,
+      "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-20T16:37:28.153Z"
+  "generatedAt": "2026-05-20T16:44:39.072Z"
 }
