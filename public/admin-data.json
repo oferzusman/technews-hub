@@ -1,9 +1,9 @@
 {
-  "total": 8751,
-  "translated": 8750,
+  "total": 8755,
+  "translated": 8754,
   "untranslated": 1,
-  "today": 30,
-  "week": 705,
+  "today": 34,
+  "week": 709,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 638,
-      "translated": 638,
+      "total": 639,
+      "translated": 639,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 622,
-      "translated": 622,
+      "total": 623,
+      "translated": 623,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 165,
-      "translated": 164,
-      "lastDate": "2026-05-20T08:14:01+00:00"
+      "total": 166,
+      "translated": 165,
+      "lastDate": "2026-05-20T09:44:01+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -115,9 +115,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 111,
-      "translated": 111,
-      "lastDate": "2026-05-20T07:35:56+00:00"
+      "total": 112,
+      "translated": 112,
+      "lastDate": "2026-05-20T09:11:20+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-20T08:46:50.614Z"
+  "generatedAt": "2026-05-20T10:00:44.541Z"
 }
