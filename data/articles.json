@@ -183082,7 +183082,7 @@
         "search"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-20T18:40:01.560Z",
       "created_at": "2026-05-20T18:40:01.560Z"
     },
@@ -183104,7 +183104,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-20T18:40:01.591Z",
       "created_at": "2026-05-20T18:40:01.591Z"
     },
@@ -183186,7 +183186,7 @@
       "author": "Jijo Malayil",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-20T18:40:04.821Z",
       "created_at": "2026-05-20T18:40:04.821Z"
     },
@@ -183237,7 +183237,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-20T18:40:07.628Z",
       "created_at": "2026-05-20T18:40:07.628Z"
     },
@@ -183291,6 +183291,191 @@
       "priority": "hot",
       "fetchedAt": "2026-05-20T18:40:07.985Z",
       "created_at": "2026-05-20T18:40:07.985Z"
+    },
+    {
+      "id": 8839,
+      "source": "TechCrunch AI",
+      "title_en": "OpenAI barrels toward IPO that may happen in September",
+      "description_en": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+      "image_url": null,
+      "pub_date": "Wed, 20 May 2026 17:24:24 +0000",
+      "author": "Julie Bort",
+      "categories": [
+        "AI",
+        "Startups",
+        "Elon Musk",
+        "In Brief",
+        "IPOs",
+        "OpenAI",
+        "sam altman"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-20T19:35:02.856Z",
+      "created_at": "2026-05-20T19:35:02.856Z"
+    },
+    {
+      "id": 8840,
+      "source": "The Decoder",
+      "title_en": "Deepseek wants to take on Claude Code and OpenAI's Codex with \"Deepseek Code\"",
+      "description_en": "Deepseek is building a new team in Beijing to develop its own AI code agent, working title \"Deepseek Code,\" a direct competitor to Claude Code, Codex, and Cursor. Applicants should know agent loops, MCP, and context engineering and be heavy users of existing coding tools.\nThe article Deepseek wants to take on Claude Code and OpenAI's Codex with \"Deepseek Code\" appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/deepseek-wants-to-take-on-claude-code-and-openais-codex-with-deepseek-code/",
+      "image_url": null,
+      "pub_date": "Wed, 20 May 2026 18:48:47 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Anthropic",
+        "Claude Code",
+        "Deepseek"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T19:35:04.181Z",
+      "created_at": "2026-05-20T19:35:04.181Z"
+    },
+    {
+      "id": 8841,
+      "source": "MarkTechPost",
+      "title_en": "How to Build Knowledge Graph Generation Pipelines From Text With kg-gen, NetworkX Analytics, and Interactive Visualizations",
+      "description_en": "In this tutorial, we will generate knowledge graphs from plain text, conversations, and multiple source documents using kg-gen. We start by setting up the required dependencies and configuring an LLM through LiteLLM, then we extract entities, predicates, and relationships from simple text. As we move forward, we work with longer passages using chunking and clustering, […]\nThe post How to Build Knowledge Graph Generation Pipelines From Text With kg-gen, NetworkX Analytics, and Interactive Visuali",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/20/how-to-build-knowledge-graph-generation-pipelines-from-text-with-kg-gen-networkx-analytics-and-interactive-visualizations/",
+      "image_url": null,
+      "pub_date": "Wed, 20 May 2026 18:24:08 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Big Data",
+        "Data Science",
+        "Editors Pick",
+        "Knowledge Graphs",
+        "Software Engineering",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T19:35:04.600Z",
+      "created_at": "2026-05-20T19:35:04.600Z"
+    },
+    {
+      "id": 8842,
+      "source": "OpenAI Blog",
+      "title_en": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "description_en": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "image_url": null,
+      "pub_date": "Wed, 20 May 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Research"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-20T19:35:04.800Z",
+      "created_at": "2026-05-20T19:35:04.800Z"
+    },
+    {
+      "id": 8843,
+      "source": "The Guardian AI",
+      "title_en": "San Francisco turns to AI to save whales from ship strikes as deaths soar",
+      "description_en": "Climate change is pushing starving grey whales to San Francisco Bay, where ship strikes led to 40% of 21 deaths\nFerries, cargo ships and tankers cut through choppy waters in the San Francisco Bay on Tuesday as a whale surfaced nearby, its spout barely visible against the white caps. Until now, whales could easily go unnoticed by mariners, but an AI-powered detection network launched this week is designed to track them day and night.\nThe system, called WhaleSpotter, scans the bay around the clock",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/environment/2026/may/20/san-francisco-bay-ai-whales",
+      "image_url": "https://i.guim.co.uk/img/media/d98e7f552376ffff076448b69da87cf0077948c6/557_656_4182_3344/master/4182.jpg?width=140&quality=85&auto=format&fit=max&s=98333272e4cc9f0c406976b29888f16c",
+      "pub_date": "Wed, 20 May 2026 18:43:41 GMT",
+      "author": "Associated Press",
+      "categories": [
+        {
+          "_": "Whales",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/whales"
+          }
+        },
+        {
+          "_": "Climate crisis",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/climate-crisis"
+          }
+        },
+        {
+          "_": "Environment",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/environment"
+          }
+        },
+        {
+          "_": "Wildlife",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/wildlife"
+          }
+        },
+        {
+          "_": "Marine life",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/marine-life"
+          }
+        },
+        {
+          "_": "San Francisco",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/san-francisco"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "West Coast",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/west-coast"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T19:35:05.181Z",
+      "created_at": "2026-05-20T19:35:05.181Z"
+    },
+    {
+      "id": 8844,
+      "source": "CNBC Tech",
+      "title_en": "Bezos defends billionaires, hypes AI, talks taxes and praises Trump in major CNBC interview",
+      "description_en": "Jeff Bezos rejected accusations that Amazon's decision to release a documentary on first lady Melania Trump was an effort to curry favor with the president.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/20/jeff-bezos-taxes-ai-corporations-trump.html",
+      "image_url": null,
+      "pub_date": "Wed, 20 May 2026 19:24:33 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-20T19:35:06.380Z",
+      "created_at": "2026-05-20T19:35:06.380Z"
     }
   ]
 }
