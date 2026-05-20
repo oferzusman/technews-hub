@@ -1,9 +1,9 @@
 {
-  "total": 8768,
-  "translated": 8767,
+  "total": 8778,
+  "translated": 8777,
   "untranslated": 1,
-  "today": 47,
-  "week": 722,
+  "today": 57,
+  "week": 732,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 643,
-      "translated": 643,
+      "total": 646,
+      "translated": 646,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 623,
-      "translated": 623,
+      "total": 624,
+      "translated": 624,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 391,
-      "translated": 391,
+      "total": 392,
+      "translated": 392,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -55,8 +55,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 337,
-      "translated": 337,
+      "total": 338,
+      "translated": 338,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 166,
-      "translated": 165,
-      "lastDate": "2026-05-20T09:44:01+00:00"
+      "total": 167,
+      "translated": 166,
+      "lastDate": "2026-05-20T11:33:01+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -115,9 +115,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 114,
-      "translated": 114,
-      "lastDate": "2026-05-20T10:48:29+00:00"
+      "total": 116,
+      "translated": 116,
+      "lastDate": "2026-05-20T12:22:07+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 60,
-      "translated": 60,
-      "lastDate": "2026-05-20T06:20:44+00:00"
+      "total": 61,
+      "translated": 61,
+      "lastDate": "2026-05-20T11:23:58+00:00"
     },
     {
       "name": "Github.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-20T11:20:02.433Z"
+  "generatedAt": "2026-05-20T12:34:16.784Z"
 }
