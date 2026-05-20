@@ -1,14 +1,14 @@
 {
   "total": 8751,
-  "translated": 8737,
-  "untranslated": 14,
+  "translated": 8750,
+  "untranslated": 1,
   "today": 30,
   "week": 705,
   "sources": [
     {
       "name": "Product Hunt",
       "total": 968,
-      "translated": 964,
+      "translated": 968,
       "lastDate": "2026-05-19T19:39:26.000Z"
     },
     {
@@ -62,7 +62,7 @@
     {
       "name": "OpenAI Blog",
       "total": 334,
-      "translated": 333,
+      "translated": 334,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -80,7 +80,7 @@
     {
       "name": "The Guardian AI",
       "total": 257,
-      "translated": 255,
+      "translated": 257,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -92,13 +92,13 @@
     {
       "name": "MarkTechPost",
       "total": 202,
-      "translated": 200,
+      "translated": 202,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
       "name": "AI Post (TG)",
       "total": 165,
-      "translated": 163,
+      "translated": 164,
       "lastDate": "2026-05-20T08:14:01+00:00"
     },
     {
@@ -116,7 +116,7 @@
     {
       "name": "XOR Journal (TG)",
       "total": 111,
-      "translated": 109,
+      "translated": 111,
       "lastDate": "2026-05-20T07:35:56+00:00"
     },
     {
@@ -164,7 +164,7 @@
     {
       "name": "Hi, AI English (TG)",
       "total": 48,
-      "translated": 47,
+      "translated": 48,
       "lastDate": "2026-05-20T07:32:01+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-20T08:44:41.750Z"
+  "generatedAt": "2026-05-20T08:45:22.514Z"
 }
