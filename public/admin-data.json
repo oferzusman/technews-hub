@@ -1,13 +1,13 @@
 {
-  "total": 8746,
+  "total": 8751,
   "translated": 8737,
-  "untranslated": 9,
-  "today": 25,
-  "week": 700,
+  "untranslated": 14,
+  "today": 30,
+  "week": 705,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 967,
+      "total": 968,
       "translated": 964,
       "lastDate": "2026-05-19T19:39:26.000Z"
     },
@@ -61,7 +61,7 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 333,
+      "total": 334,
       "translated": 333,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
@@ -79,7 +79,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 256,
+      "total": 257,
       "translated": 255,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -91,15 +91,15 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 201,
+      "total": 202,
       "translated": 200,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
       "name": "AI Post (TG)",
-      "total": 164,
+      "total": 165,
       "translated": 163,
-      "lastDate": "2026-05-20T06:07:19+00:00"
+      "lastDate": "2026-05-20T08:14:01+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-20T08:06:24.226Z"
+  "generatedAt": "2026-05-20T08:44:41.750Z"
 }
