@@ -1,15 +1,15 @@
 {
-  "total": 8736,
-  "translated": 8735,
-  "untranslated": 1,
-  "today": 15,
-  "week": 690,
+  "total": 8746,
+  "translated": 8737,
+  "untranslated": 9,
+  "today": 25,
+  "week": 700,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 964,
+      "total": 967,
       "translated": 964,
-      "lastDate": "2026-05-19T05:09:58.000Z"
+      "lastDate": "2026-05-19T19:39:26.000Z"
     },
     {
       "name": "Tom's Hardware",
@@ -79,7 +79,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 255,
+      "total": 256,
       "translated": 255,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -91,7 +91,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 200,
+      "total": 201,
       "translated": 200,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -115,9 +115,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 108,
-      "translated": 108,
-      "lastDate": "2026-05-19T21:05:07+00:00"
+      "total": 111,
+      "translated": 109,
+      "lastDate": "2026-05-20T07:35:56+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 59,
-      "translated": 59,
-      "lastDate": "2026-05-19T19:10:10+00:00"
+      "total": 60,
+      "translated": 60,
+      "lastDate": "2026-05-20T06:20:44+00:00"
     },
     {
       "name": "Github.com",
@@ -163,9 +163,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 47,
+      "total": 48,
       "translated": 47,
-      "lastDate": "2026-05-19T20:04:25+00:00"
+      "lastDate": "2026-05-20T07:32:01+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-20T06:09:55.635Z"
+  "generatedAt": "2026-05-20T08:02:51.477Z"
 }
