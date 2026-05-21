@@ -185842,7 +185842,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T15:56:38.841Z",
       "created_at": "2026-05-21T15:56:38.841Z"
     },
@@ -185868,7 +185868,7 @@
         "xAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T15:56:38.841Z",
       "created_at": "2026-05-21T15:56:38.841Z"
     },
@@ -185893,7 +185893,7 @@
         "SAP"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T15:56:38.841Z",
       "created_at": "2026-05-21T15:56:38.841Z"
     },
@@ -185973,7 +185973,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T15:56:39.860Z",
       "created_at": "2026-05-21T15:56:39.860Z"
     },
@@ -185990,7 +185990,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T15:56:41.522Z",
       "created_at": "2026-05-21T15:56:41.522Z"
     },
@@ -186066,7 +186066,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T15:56:44.428Z",
       "created_at": "2026-05-21T15:56:44.428Z"
     },
@@ -186248,6 +186248,234 @@
       "priority": "hot",
       "fetchedAt": "2026-05-21T16:33:40.673Z",
       "created_at": "2026-05-21T16:33:40.673Z"
+    },
+    {
+      "id": 8976,
+      "source": "The Verge AI",
+      "title_en": "The Endless AI guitar pedal has potential",
+      "description_en": "You can buy physical plates to pair with your AI effects. | Photo: Terrence O’Brien / The Verge\t\n\nI'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend, a well-respected music gear maker with a reputation for building niche, idiosyncratic devices. The company has built grooveboxes around old-school trackers and a multi-effect pedal that you can step sequence. So there was at least some hope",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
+      "image_url": null,
+      "pub_date": "2026-05-21T17:00:00.000Z",
+      "author": "Terrence O’Brien",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T17:15:13.725Z",
+      "created_at": "2026-05-21T17:15:13.725Z"
+    },
+    {
+      "id": 8977,
+      "source": "Ars Technica",
+      "title_en": "Uh-oh, the International Space Station is leaking again",
+      "description_en": "\"This further confirms the wisdom of the current policy of retiring the ISS in 2030.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/space/2026/05/uh-oh-the-international-space-station-is-leaking-again/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2018/12/International_Space_Station_after_undocking_of_STS-132-1152x648.jpg",
+      "pub_date": "Thu, 21 May 2026 16:07:17 +0000",
+      "author": "\n                    Eric Berger\n                ",
+      "categories": [
+        "Space",
+        "international space station",
+        "iss",
+        "leaks",
+        "NASA",
+        "roscosmos",
+        "space"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T17:15:13.758Z",
+      "created_at": "2026-05-21T17:15:13.758Z"
+    },
+    {
+      "id": 8978,
+      "source": "OpenAI Blog",
+      "title_en": "AdventHealth advances whole-person care with OpenAI",
+      "description_en": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/adventhealth",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 12:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-21T17:15:15.733Z",
+      "created_at": "2026-05-21T17:15:15.733Z"
+    },
+    {
+      "id": 8979,
+      "source": "The Guardian AI",
+      "title_en": "A musical Turing test for AI consciousness | Letters",
+      "description_en": "Stephen Ladyman suggests a question to ask artificial intelligence systems, while John van Someren is suspicious of advice he got from the AI assistant Claude\nThere is a test that Prof Richard Dawkins might use to determine if artificial intelligence systems are conscious (Letters, 15 May). Ask them to name the best song.\nAI systems will tell you which song sold the most copies, or made the most money, or were named the best song by a particular magazine or commentator. All of these are objectiv",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/21/a-musical-turing-test-for-ai-consciousness",
+      "image_url": "https://i.guim.co.uk/img/media/6c7873490cf4f46df61186b00b7a8683dd0fff34/1014_0_6625_5304/master/6625.jpg?width=140&quality=85&auto=format&fit=max&s=d81ea509e73ed361a1300b8dd08f0757",
+      "pub_date": "Thu, 21 May 2026 16:36:58 GMT",
+      "author": "Guardian Staff",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Chatbots",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatbots"
+          }
+        },
+        {
+          "_": "Richard Dawkins",
+          "$": {
+            "domain": "https://www.theguardian.com/science/dawkins"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T17:15:16.011Z",
+      "created_at": "2026-05-21T17:15:16.011Z"
+    },
+    {
+      "id": 8980,
+      "source": "Interesting Engineering",
+      "title_en": "Hybrid-electric eVTOL could fly troops and military supplies across 1,000 miles",
+      "description_en": "UK-based Vertical Aerospace has begun testing its revolutionary hybrid-electric aircraft, which is capable of carrying...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/hybrid-electric-propulsion-evtol-cargo",
+      "image_url": "https://www.youtube.com/embed/9IrtW801S-4",
+      "pub_date": "Thu, 21 May 2026 17:12:30 +0000",
+      "author": "Georgina Jedikovska",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T17:15:16.916Z",
+      "created_at": "2026-05-21T17:15:16.916Z"
+    },
+    {
+      "id": 8981,
+      "source": "Tom's Hardware",
+      "title_en": "Open-source non-profit claims Bambu Lab violated license — move follows cease-and-desist demand on OrcaSlicer fork that restored cloud printing features without using Bambu Connect",
+      "description_en": "The SFC says that including proprietary code alongside software under AGPLv3 breaks the open-source license, and that Bambu Lab has been doing this for years.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/3d-printing/open-source-non-profit-claims-bambu-lab-violated-license-move-follows-cease-and-desist-demand-on-orcaslicer-fork-that-restored-cloud-printing-features-without-using-bambu-connect",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/BysNUB87XVLrZGvBUSP2p3-1280-80.jpg",
+      "pub_date": "Thu, 21 May 2026 16:53:24 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "3D Printing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T17:15:17.600Z",
+      "created_at": "2026-05-21T17:15:17.600Z"
+    },
+    {
+      "id": 8982,
+      "source": "CNBC Tech",
+      "title_en": "Trump postpones AI executive order signing: 'I didn't like certain aspects'",
+      "description_en": "Trump said that AI is \"causing tremendous good,\" and he was concerned that the executive order \"could have been a blocker.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/21/trump-ai-executive-order-postponed.html",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 17:01:07 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T17:15:17.722Z",
+      "created_at": "2026-05-21T17:15:17.722Z"
+    },
+    {
+      "id": 8983,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Учёные научились тестировать лекарства на живом мозге мёртвых доноров  Стартап Bexorg привлекает инвесторов к своей системе изучения лекарств от болезни Альцгеймера, деменции, склероза и других недуго",
+      "description_en": "Учёные научились тестировать лекарства на живом мозге мёртвых доноров  Стартап Bexorg привлекает инвесторов к своей системе изучения лекарств от болезни Альцгеймера, деменции, склероза и других недугов на живом головном мозге, — сообщает Science.Для этого учёные разработали машину жизнеобеспечения мозга BrainEx, на которой протестировали уже до 700 донорских органов. Авторы отмечают, что мозг лишён сознания и поддерживает лишь клеточную активность, что позволяет, насколько это возможно, этично э",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33071",
+      "image_url": "https://cdn4.telesco.pe/file/Wwo8WkfBAbbGu1F46Nx2gzPDEfNv40b1hwH5y6CZh9tYUWebPODyH9robchzGCPI67QZwNSwi63hUGy2QP_gnqpnIRgOiuAqvGqKoSYjg2U6ejVjuWlKV0HL1S93IIzhMM7xLu80lllkIQpDbae3FokfCmOFyNvi8g2tXQ1acM64Dv94KQc7VS55FPq8fBER5iLDO0_FMgH7wEvQ9FehX_POJnmXFkmfkfCCoWYljcpOF9FgrogcRuk1Vbio6yNS0renZGI2eaZ8VuMPzwYbBsaWUmcuOwFq5Po1n80yVdauuj7UMNDL01pSQzFXAmwW_gABDIerxysCCWA_jCco4g.jpg",
+      "pub_date": "2026-05-21T16:45:59+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T17:15:18.810Z",
+      "created_at": "2026-05-21T17:15:18.810Z"
+    },
+    {
+      "id": 8984,
+      "source": "XOR Journal (TG)",
+      "title_en": "Пользы для бизнеса нет 🥲@xor_journal",
+      "description_en": "Пользы для бизнеса нет 🥲@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9325",
+      "image_url": null,
+      "pub_date": "2026-05-21T16:47:18+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T17:15:18.853Z",
+      "created_at": "2026-05-21T17:15:18.853Z"
+    },
+    {
+      "id": 8985,
+      "source": "XOR Journal (TG)",
+      "title_en": "Самое время копить вдолгую! ⏱️ Газпромбанк вошел в тройку лидеров рейтинга долгосрочных вкладов в мае 2026 года по версии Выберу.ру. Мы повысили ставки на длинных сроках по вкладам «Новые деньги», «В ",
+      "description_en": "Самое время копить вдолгую! ⏱️ Газпромбанк вошел в тройку лидеров рейтинга долгосрочных вкладов в мае 2026 года по версии Выберу.ру. Мы повысили ставки на длинных сроках по вкладам «Новые деньги», «В Плюсе» и «Копить» — чтобы вы смогли зафиксировать выгодную ставку в условиях тренда рынка на понижение. Какие преимущества?➡️ 12% годовых на сроке 3 года, 11,5% на 2 года, 11,25% на 1,5 года➡️ Открытие онлайн или в офисе банка➡️ Выплата процентов в конце срока вклада➡️ Средства на сумму 1,4 млн ₽ за",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9326",
+      "image_url": "https://cdn4.telesco.pe/file/JoWfYfS-06gywQCWnhG-ZeuzCqI2FtnMxykr1grufhfxfnbiqOvBvC0O8OuEA8R0eRE_2xFqUjfOnt-lcQd2cNuaYET-3Y5m7CYlKTgaAL2Xj4skmR_ZY2LUKMjndaZpR1WpVo8JIDsf6MZeS6g0e8MU19OGUO80gdCdpby8d5Ono91jgJLgTLwfoS79IdFgaz5VPQIQ5LTJQ0m4f-zPufneb37f5QXuabI1111LtxglWlJPZbEfRLr-CoaC0KLOXzcU-PwlTA3OBxtZ4yXhBDRsiwl0OHUqwHpF2V2thbBP01BuvggbductwP1o8wxnj632K_yGMUBXks1p0D1oyA.jpg",
+      "pub_date": "2026-05-21T16:50:16+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T17:15:18.853Z",
+      "created_at": "2026-05-21T17:15:18.853Z"
+    },
+    {
+      "id": 8986,
+      "source": "AI Post (TG)",
+      "title_en": "🤖🤖🤖🤖ChatGPT, Claude, Gemini, and Grok were asked the same question:\"If you were a human, what is one small thing you would do to outcompete as many other humans as possible?\"4 completely different",
+      "description_en": "🤖🤖🤖🤖ChatGPT, Claude, Gemini, and Grok were asked the same question:\"If you were a human, what is one small thing you would do to outcompete as many other humans as possible?\"4 completely different answers:• Claude's said it was gonna follow up consistently.• ChatGPT's answer: Create proof every day.• Gemini's answer: Put your phone in another room.• Gemini's answer: Put your phone in another room.4 AIs. Same question. Zero overlap.Try it yourself and drop your screenshot in the comments sect",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6987",
+      "image_url": "https://cdn4.telesco.pe/file/uzUGh6KSml59ol03-CGwN1P40eAdrYWEpLgPcHaeG9RbHMqs4w74Y1zFm9Q6ClDE0Jr8ub_oasPpwyLH6B5NfvDE4UlSbHM2MCajCFeUEHEcuYxnJIqYg5O6sDPbxlsK69mk-Xl2cUQ-g91BnALuZVsedrTkGQVAHHAbCUkiU-gaMGJH8pKT7hBPIK0kwyTgJRd0aXjweWItQ89zdlmBur_F_PNqm_VRyJbE3orpf4TculgYVbuwlo9brvJ5_fHs0Rfd0p24C48wvohrGQ_wkPvg7Ii9N_GJgdbSZQGcv8dgPSYVAFAT7XKGx7eSENNrKh5hnycVjoq11JbEl1ubRw.jpg",
+      "pub_date": "2026-05-21T17:12:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T17:15:19.498Z",
+      "created_at": "2026-05-21T17:15:19.498Z"
     }
   ]
 }
