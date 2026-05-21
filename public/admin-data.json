@@ -1,9 +1,9 @@
 {
-  "total": 8901,
+  "total": 8916,
   "translated": 8824,
-  "untranslated": 77,
-  "today": 36,
-  "week": 723,
+  "untranslated": 92,
+  "today": 51,
+  "week": 738,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,7 +13,7 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 653,
+      "total": 659,
       "translated": 652,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
@@ -31,7 +31,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 459,
+      "total": 461,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -49,7 +49,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 367,
+      "total": 368,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -85,9 +85,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 234,
+      "total": 235,
       "translated": 231,
-      "lastDate": "2026-05-21T03:42:45.000Z"
+      "lastDate": "2026-05-21T09:20:46.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -97,9 +97,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 174,
+      "total": 175,
       "translated": 168,
-      "lastDate": "2026-05-21T06:15:19+00:00"
+      "lastDate": "2026-05-21T09:28:01+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -109,9 +109,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 123,
+      "total": 126,
       "translated": 119,
-      "lastDate": "2026-05-21T07:20:10+00:00"
+      "lastDate": "2026-05-21T10:50:12+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -145,9 +145,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 69,
+      "total": 70,
       "translated": 68,
-      "lastDate": "2026-05-21T07:14:06+00:00"
+      "lastDate": "2026-05-21T10:10:18+00:00"
     },
     {
       "name": "Hi, AI Russian (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-21T08:33:48.618Z"
+  "generatedAt": "2026-05-21T10:57:40.827Z"
 }
