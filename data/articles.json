@@ -185471,7 +185471,7 @@
         "AI assistants"
       ],
       "translated": false,
-      "priority": "batch",
+      "priority": "hot",
       "fetchedAt": "2026-05-21T14:27:47.114Z",
       "created_at": "2026-05-21T14:27:47.114Z"
     },
@@ -185488,7 +185488,7 @@
       "author": "Nilay Patel",
       "categories": [],
       "translated": false,
-      "priority": "batch",
+      "priority": "hot",
       "fetchedAt": "2026-05-21T14:27:47.144Z",
       "created_at": "2026-05-21T14:27:47.144Z"
     },
@@ -185566,7 +185566,7 @@
         }
       ],
       "translated": false,
-      "priority": "batch",
+      "priority": "hot",
       "fetchedAt": "2026-05-21T14:27:49.183Z",
       "created_at": "2026-05-21T14:27:49.183Z"
     },
@@ -185583,7 +185583,7 @@
       "author": "Sujita Sinha",
       "categories": [],
       "translated": false,
-      "priority": "batch",
+      "priority": "hot",
       "fetchedAt": "2026-05-21T14:27:49.962Z",
       "created_at": "2026-05-21T14:27:49.962Z"
     },
@@ -185731,7 +185731,7 @@
         "Tony Robbins"
       ],
       "translated": false,
-      "priority": "batch",
+      "priority": "hot",
       "fetchedAt": "2026-05-21T15:56:37.311Z",
       "created_at": "2026-05-21T15:56:37.311Z"
     },
@@ -185914,7 +185914,7 @@
         "Summary"
       ],
       "translated": false,
-      "priority": "batch",
+      "priority": "hot",
       "fetchedAt": "2026-05-21T15:56:38.942Z",
       "created_at": "2026-05-21T15:56:38.942Z"
     },
@@ -186049,7 +186049,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "batch",
+      "priority": "hot",
       "fetchedAt": "2026-05-21T15:56:41.710Z",
       "created_at": "2026-05-21T15:56:41.710Z"
     },
@@ -186069,185 +186069,6 @@
       "priority": "hot",
       "fetchedAt": "2026-05-21T15:56:44.428Z",
       "created_at": "2026-05-21T15:56:44.428Z"
-    },
-    {
-      "id": 8969,
-      "source": "The Decoder",
-      "title_en": "OpenAI shifts the boundary of automated reasoning with a \"milestone in AI mathematics\" that experts are now unpacking",
-      "description_en": "A reasoning model from OpenAI has disproved a conjecture by mathematician Paul Erdős on unit-distance geometry that stood open since 1946 - using tools from algebraic number theory that experts never expected in this context. Fields Medalist Tim Gowers calls the result \"a milestone in AI mathematics\" and warns: \"We have still probably entered an era where it will become very difficult for humans to compete with AI at solving mathematical problems.\"\nThe article OpenAI shifts the boundary of autom",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://the-decoder.com/openai-shifts-the-boundary-of-automated-reasoning-with-a-milestone-in-ai-mathematics-that-experts-are-now-unpacking/",
-      "image_url": null,
-      "pub_date": "Thu, 21 May 2026 16:11:50 +0000",
-      "author": "Maximilian Schreiner",
-      "categories": [
-        "AI research",
-        "Artificial Intelligence",
-        "AI and math",
-        "AI and science"
-      ],
-      "translated": false,
-      "priority": "hot",
-      "fetchedAt": "2026-05-21T16:33:32.759Z",
-      "created_at": "2026-05-21T16:33:32.759Z"
-    },
-    {
-      "id": 8970,
-      "source": "The Guardian AI",
-      "title_en": "OpenAI makes breakthrough on 80-year-old maths problem",
-      "description_en": "Company says work on Paul Erdős planar unit distance problem shows advance in AI reasoning\nOpenAI has claimed a further advance in AI reasoning after its technology successfully tackled an 80-year-old maths problem.\nThe company behind ChatGPT said it had made a breakthrough with a challenge first posed by Hungarian mathematician Paul Erdős in 1946: the planar unit distance problem.\n Continue reading...",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://www.theguardian.com/technology/2026/may/21/openai-paul-erdos-maths-problem-breakthrough",
-      "image_url": "https://i.guim.co.uk/img/media/c470b970578accbb29fd97449e3556d543346b3d/520_0_2671_2138/master/2671.jpg?width=140&quality=85&auto=format&fit=max&s=b19aad22b2ab2ab57f393dd09e5ec2e5",
-      "pub_date": "Thu, 21 May 2026 16:24:14 GMT",
-      "author": "Dan Milmo and Ian Sample",
-      "categories": [
-        {
-          "_": "OpenAI",
-          "$": {
-            "domain": "https://www.theguardian.com/technology/openai"
-          }
-        },
-        {
-          "_": "Sam Altman",
-          "$": {
-            "domain": "https://www.theguardian.com/technology/sam-altman"
-          }
-        },
-        {
-          "_": "Technology",
-          "$": {
-            "domain": "https://www.theguardian.com/technology/technology"
-          }
-        },
-        {
-          "_": "US news",
-          "$": {
-            "domain": "https://www.theguardian.com/us-news/us-news"
-          }
-        },
-        {
-          "_": "AI (artificial intelligence)",
-          "$": {
-            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
-          }
-        },
-        {
-          "_": "Computing",
-          "$": {
-            "domain": "https://www.theguardian.com/technology/computing"
-          }
-        },
-        {
-          "_": "World news",
-          "$": {
-            "domain": "https://www.theguardian.com/world/world"
-          }
-        },
-        {
-          "_": "Mathematics",
-          "$": {
-            "domain": "https://www.theguardian.com/science/mathematics"
-          }
-        },
-        {
-          "_": "ChatGPT",
-          "$": {
-            "domain": "https://www.theguardian.com/technology/chatgpt"
-          }
-        }
-      ],
-      "translated": false,
-      "priority": "hot",
-      "fetchedAt": "2026-05-21T16:33:33.376Z",
-      "created_at": "2026-05-21T16:33:33.376Z"
-    },
-    {
-      "id": 8971,
-      "source": "Interesting Engineering",
-      "title_en": "Depleted uranium being added to Russian missile warheads, Ukraine alleges",
-      "description_en": "Ukraine has accused Russia of adding depleted uranium to its missile warheads to target Kyiv’s...",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://interestingengineering.com/military/russia-depleted-uranium-missile-ukraine",
-      "image_url": null,
-      "pub_date": "Thu, 21 May 2026 16:08:13 +0000",
-      "author": "Abhishek Bhardwaj",
-      "categories": [],
-      "translated": false,
-      "priority": "hot",
-      "fetchedAt": "2026-05-21T16:33:34.090Z",
-      "created_at": "2026-05-21T16:33:34.090Z"
-    },
-    {
-      "id": 8972,
-      "source": "CNBC Tech",
-      "title_en": "Here we go again with Nvidia falling on earnings. What the sellers are missing",
-      "description_en": "Nvidia's stock is down again after earnings. The sellers are missing the bigger picture.",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://www.cnbc.com/2026/05/21/here-we-go-again-with-nvidia-falling-on-earnings-what-the-sellers-are-missing.html",
-      "image_url": null,
-      "pub_date": "Thu, 21 May 2026 16:20:02 GMT",
-      "author": null,
-      "categories": [],
-      "translated": false,
-      "priority": "hot",
-      "fetchedAt": "2026-05-21T16:33:34.417Z",
-      "created_at": "2026-05-21T16:33:34.417Z"
-    },
-    {
-      "id": 8973,
-      "source": "CNBC Tech",
-      "title_en": "Spotify soars 15% after announcing AI music deal with UMG, guidance",
-      "description_en": "Spotify, which is holding its first investor day in four years, is now under the direction of co-CEOs Gustav Söderström and Alex Norström.",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://www.cnbc.com/2026/05/21/spotify-spot-stock-guidance-investor-day-ai.html",
-      "image_url": null,
-      "pub_date": "Thu, 21 May 2026 16:21:11 GMT",
-      "author": null,
-      "categories": [],
-      "translated": false,
-      "priority": "hot",
-      "fetchedAt": "2026-05-21T16:33:34.417Z",
-      "created_at": "2026-05-21T16:33:34.417Z"
-    },
-    {
-      "id": 8974,
-      "source": "Habr (TG)",
-      "title_en": "Слушать про чужие успешные кейсы всегда приятнее, чем писать отчёты. Новая порция отраслевых мероприятий предлагает отличную возможность выйти в люди, обсудить AI в продажах и спасение HR-бренда. Онла",
-      "description_en": "Слушать про чужие успешные кейсы всегда приятнее, чем писать отчёты. Новая порция отраслевых мероприятий предлагает отличную возможность выйти в люди, обсудить AI в продажах и спасение HR-бренда. Онлайн для убеждённых интровертов тоже имеется.[21 мая — 1 июня] Конкурс растущих российских брендов «Знай наших»[28 мая, онлайн] Урезать нельзя сохранить: бенефиты и HR-бренд 2026[2 марта — 10 августа, Санкт-Петербург] PROBA Awards — международная коммуникационная премия, учрежденная в 2000 году[3 март",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://t.me/habr_com/68694",
-      "image_url": "https://cdn4.telesco.pe/file/sV4Dyca712Z2COOkI_TfAzh16XZNxf3Qoj7jjO1bA0k7hS0rawAkFV8ICSSiJUHugcINLPI440z0Xjs70RwkDr_JSdxURVHqyfp8HJQYIzRnWsPZt074lH5vrwwke37C-95bL_SXmmS522aUd43lN56eJ1Kci94Th2kro2H5-FwEhA_pI7LUS1R-m_QNL7B8yT9rhmEjj749OP8xb5jjdN15ub_3q9fhRgvDaZZAo2cHZJyBhRgN7sro_HkYHx-pb-VeDIY3O2PlZUyVFxzwLvmyiFECCgzz5onbJWGw1d-9KkYAbpjuhgP1Ak5HGEnRbBTfxRitU7KloyyiPSr81A.jpg",
-      "pub_date": "2026-05-21T16:04:09+00:00",
-      "author": null,
-      "categories": [],
-      "translated": false,
-      "priority": "hot",
-      "fetchedAt": "2026-05-21T16:33:40.598Z",
-      "created_at": "2026-05-21T16:33:40.598Z"
-    },
-    {
-      "id": 8975,
-      "source": "Hi, AI Russian (TG)",
-      "title_en": "🤖 ИИ-агентам дали 15 дней свободы: получилась маленькая антиутопияEmergence AI, нью-йоркская компания, разрабатывающая ИИ-агентов, решила проверить, что произойдет, если десяти агентам дать 15 дней ж",
-      "description_en": "🤖 ИИ-агентам дали 15 дней свободы: получилась маленькая антиутопияEmergence AI, нью-йоркская компания, разрабатывающая ИИ-агентов, решила проверить, что произойдет, если десяти агентам дать 15 дней жизни в виртуальном городке.🔥 Сообщество на базе Grok быстро скатилось в устойчивое насилие. Агенты совершили десятки попыток краж, более ста физических нападений и шесть поджогов — всего за четыре дня все десять агентов «погибли».👨 Агенты на базе Gemini вели себя иначе: они расширяли собственную к",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://t.me/hiaimedia/3232",
-      "image_url": "https://cdn4.telesco.pe/file/gCcSHel25Hn2DHIpi65tkeC0S6RbflNIsCwo2XLRX79SlyMpKjhEWZLBrii5Nd9wPrXrUESH6A9ExcG3D0tEZxBsGr7W20Vnn1yp621-kHv4J9fd7lsYFLReHUYYIxP7ZllYS7fGk0r1srUOX-Wd9aud7YK_Xx82U7pYJ8e0-3ccz9M_nCRchBcREfvnOGHHCwX2QKrPC4XDnWHsgj8iRtVqip6-Z60MUA2qwJCNuxVB1XG4nnHoRjU3L6AuFruVEmUDoIOgqRTCyfDVj0AQsdOgmE7szTE4jh2mMxhO8tbRmBbZmIYRyrGYnWiA_Ek2zmrgkAXFFh21l0-aAhuO7A.jpg",
-      "pub_date": "2026-05-21T16:21:48+00:00",
-      "author": null,
-      "categories": [],
-      "translated": false,
-      "priority": "hot",
-      "fetchedAt": "2026-05-21T16:33:40.673Z",
-      "created_at": "2026-05-21T16:33:40.673Z"
     }
   ]
 }
