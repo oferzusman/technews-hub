@@ -1,9 +1,9 @@
 {
-  "total": 8968,
+  "total": 8975,
   "translated": 8824,
-  "untranslated": 144,
-  "today": 103,
-  "week": 790,
+  "untranslated": 151,
+  "today": 110,
+  "week": 797,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 641,
+      "total": 642,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -31,7 +31,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 464,
+      "total": 466,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 348,
+      "total": 349,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -79,7 +79,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 268,
+      "total": 269,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -151,9 +151,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 65,
+      "total": 66,
       "translated": 63,
-      "lastDate": "2026-05-21T13:20:11+00:00"
+      "lastDate": "2026-05-21T16:21:48+00:00"
     },
     {
       "name": "Github.com",
@@ -175,9 +175,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 47,
+      "total": 48,
       "translated": 47,
-      "lastDate": "2026-05-20T17:01:07+00:00"
+      "lastDate": "2026-05-21T16:04:09+00:00"
     },
     {
       "name": "Wylsacom Red (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-21T16:34:43.425Z"
+  "generatedAt": "2026-05-21T16:34:59.271Z"
 }
