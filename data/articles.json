@@ -185074,7 +185074,7 @@
         "Console Gaming"
       ],
       "translated": false,
-      "priority": "batch",
+      "priority": "hot",
       "fetchedAt": "2026-05-21T12:14:31.223Z",
       "created_at": "2026-05-21T12:14:31.223Z"
     },
@@ -185179,7 +185179,7 @@
         "The Download"
       ],
       "translated": false,
-      "priority": "batch",
+      "priority": "hot",
       "fetchedAt": "2026-05-21T13:53:50.758Z",
       "created_at": "2026-05-21T13:53:50.758Z"
     },
@@ -185346,7 +185346,7 @@
         "Manufacturing"
       ],
       "translated": false,
-      "priority": "batch",
+      "priority": "hot",
       "fetchedAt": "2026-05-21T13:53:53.284Z",
       "created_at": "2026-05-21T13:53:53.284Z"
     },
@@ -185380,7 +185380,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "batch",
+      "priority": "hot",
       "fetchedAt": "2026-05-21T13:53:53.593Z",
       "created_at": "2026-05-21T13:53:53.593Z"
     },
@@ -185448,144 +185448,9 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "batch",
+      "priority": "hot",
       "fetchedAt": "2026-05-21T13:53:55.912Z",
       "created_at": "2026-05-21T13:53:55.912Z"
-    },
-    {
-      "id": 8943,
-      "source": "TechCrunch AI",
-      "title_en": "Hark raises $700M Series A for its secretive “universal” AI interface",
-      "description_en": "Brett Adcock's new AI startup is now valued at $6 billion by its investors.",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-      "image_url": null,
-      "pub_date": "Thu, 21 May 2026 14:00:00 +0000",
-      "author": "Tim Fernholz",
-      "categories": [
-        "AI",
-        "Fundraising",
-        "hark",
-        "AI hardware",
-        "AI assistants"
-      ],
-      "translated": false,
-      "priority": "hot",
-      "fetchedAt": "2026-05-21T14:27:47.114Z",
-      "created_at": "2026-05-21T14:27:47.114Z"
-    },
-    {
-      "id": 8944,
-      "source": "The Verge AI",
-      "title_en": "Musk v. Altman: Much ado about nothing",
-      "description_en": "Today I’m talking with Liz Lopatto, who spent the last month covering the Musk v. Altman trial in all its chaos. You’ll hear her describe the courthouse as a “zoo” and explain that there were protests of one kind or another happening outside every day.\nBoth Elon Musk and Sam Altman are big personalities, and people have a lot of feelings about both of them and the AI industry. And in the end… nothing happened! The jury found that Elon had filed his lawsuit after the statute of limitations had ru",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
-      "image_url": null,
-      "pub_date": "2026-05-21T14:00:00.000Z",
-      "author": "Nilay Patel",
-      "categories": [],
-      "translated": false,
-      "priority": "hot",
-      "fetchedAt": "2026-05-21T14:27:47.144Z",
-      "created_at": "2026-05-21T14:27:47.144Z"
-    },
-    {
-      "id": 8945,
-      "source": "The Guardian AI",
-      "title_en": "BT warns of smartphone price rises due to chip shortages from AI boom",
-      "description_en": "Telecoms company CEO says tech firms are buying up memory chips to power datacentres relied on by AI\n\nBusiness live – latest updates\n\nBT has said the cost of smartphones could rise as technology companies buy up semiconductor chips because of the boom in artificial intelligence, putting pressure on supply chains.\nThe telecoms company’s chief executive, Allison Kirkby, said she was anticipating shortages as tech firms bought large quantities of memory chips to power the datacentres relied on by A",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://www.theguardian.com/business/2026/may/21/bt-smartphone-price-rises-chip-shortages-ai-boom",
-      "image_url": "https://i.guim.co.uk/img/media/d9b2d86d10fcc0cbaca5fcec6f39c8562e75abbd/1319_212_4489_3592/master/4489.jpg?width=140&quality=85&auto=format&fit=max&s=da54e3bee495d7c01b28bc253b7f3102",
-      "pub_date": "Thu, 21 May 2026 14:05:29 GMT",
-      "author": "Joanna Partridge",
-      "categories": [
-        {
-          "_": "BT",
-          "$": {
-            "domain": "https://www.theguardian.com/business/btgroup"
-          }
-        },
-        {
-          "_": "Telecommunications industry",
-          "$": {
-            "domain": "https://www.theguardian.com/business/telecoms"
-          }
-        },
-        {
-          "_": "Business",
-          "$": {
-            "domain": "https://www.theguardian.com/business/business"
-          }
-        },
-        {
-          "_": "AI (artificial intelligence)",
-          "$": {
-            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
-          }
-        },
-        {
-          "_": "Smartphones",
-          "$": {
-            "domain": "https://www.theguardian.com/technology/smartphones"
-          }
-        },
-        {
-          "_": "Computing",
-          "$": {
-            "domain": "https://www.theguardian.com/technology/computing"
-          }
-        },
-        {
-          "_": "Mobile phones",
-          "$": {
-            "domain": "https://www.theguardian.com/technology/mobilephones"
-          }
-        },
-        {
-          "_": "Technology",
-          "$": {
-            "domain": "https://www.theguardian.com/technology/technology"
-          }
-        },
-        {
-          "_": "Telecoms",
-          "$": {
-            "domain": "https://www.theguardian.com/technology/telecoms"
-          }
-        },
-        {
-          "_": "Technology sector",
-          "$": {
-            "domain": "https://www.theguardian.com/business/technology"
-          }
-        }
-      ],
-      "translated": false,
-      "priority": "hot",
-      "fetchedAt": "2026-05-21T14:27:49.183Z",
-      "created_at": "2026-05-21T14:27:49.183Z"
-    },
-    {
-      "id": 8946,
-      "source": "Interesting Engineering",
-      "title_en": "Video: US firm debuts 5.7-pound throwable recon robot with live thermal vision",
-      "description_en": "Teledyne FLIR Defense has launched a new throwable reconnaissance robot at SOF Week in Florida....",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://interestingengineering.com/military/us-teledyne-firstlook-125-recon-robot",
-      "image_url": "https://www.youtube.com/embed/upBj2ArbduE",
-      "pub_date": "Thu, 21 May 2026 13:57:17 +0000",
-      "author": "Sujita Sinha",
-      "categories": [],
-      "translated": false,
-      "priority": "hot",
-      "fetchedAt": "2026-05-21T14:27:49.962Z",
-      "created_at": "2026-05-21T14:27:49.962Z"
     }
   ]
 }
