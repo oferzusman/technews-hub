@@ -186088,7 +186088,7 @@
         "AI and science"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T16:33:32.759Z",
       "created_at": "2026-05-21T16:33:32.759Z"
     },
@@ -186160,7 +186160,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T16:33:33.376Z",
       "created_at": "2026-05-21T16:33:33.376Z"
     },
@@ -186177,7 +186177,7 @@
       "author": "Abhishek Bhardwaj",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T16:33:34.090Z",
       "created_at": "2026-05-21T16:33:34.090Z"
     },
@@ -186194,7 +186194,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T16:33:34.417Z",
       "created_at": "2026-05-21T16:33:34.417Z"
     },
@@ -186211,7 +186211,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T16:33:34.417Z",
       "created_at": "2026-05-21T16:33:34.417Z"
     },
@@ -186245,7 +186245,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T16:33:40.673Z",
       "created_at": "2026-05-21T16:33:40.673Z"
     },
@@ -186262,7 +186262,7 @@
       "author": "Terrence O’Brien",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T17:15:13.725Z",
       "created_at": "2026-05-21T17:15:13.725Z"
     },
@@ -186287,7 +186287,7 @@
         "space"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T17:15:13.758Z",
       "created_at": "2026-05-21T17:15:13.758Z"
     },
@@ -186352,7 +186352,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T17:15:16.011Z",
       "created_at": "2026-05-21T17:15:16.011Z"
     },
@@ -186369,7 +186369,7 @@
       "author": "Georgina Jedikovska",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T17:15:16.916Z",
       "created_at": "2026-05-21T17:15:16.916Z"
     },
@@ -186388,7 +186388,7 @@
         "3D Printing"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T17:15:17.600Z",
       "created_at": "2026-05-21T17:15:17.600Z"
     },
@@ -186405,7 +186405,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T17:15:17.722Z",
       "created_at": "2026-05-21T17:15:17.722Z"
     },
@@ -186422,7 +186422,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T17:15:18.810Z",
       "created_at": "2026-05-21T17:15:18.810Z"
     },
@@ -186439,7 +186439,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T17:15:18.853Z",
       "created_at": "2026-05-21T17:15:18.853Z"
     },
@@ -186456,7 +186456,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T17:15:18.853Z",
       "created_at": "2026-05-21T17:15:18.853Z"
     },
@@ -186473,7 +186473,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T17:15:19.498Z",
       "created_at": "2026-05-21T17:15:19.498Z"
     },
@@ -186549,6 +186549,101 @@
       "priority": "hot",
       "fetchedAt": "2026-05-21T18:04:52.903Z",
       "created_at": "2026-05-21T18:04:52.903Z"
+    },
+    {
+      "id": 8991,
+      "source": "TechCrunch AI",
+      "title_en": "Six search engines worth trying now that Google isn’t really Google anymore",
+      "description_en": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 19:19:05 +0000",
+      "author": "Amanda Silberling",
+      "categories": [
+        "AI",
+        "evergreen",
+        "Google"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T19:19:27.377Z",
+      "created_at": "2026-05-21T19:19:27.377Z"
+    },
+    {
+      "id": 8992,
+      "source": "The Decoder",
+      "title_en": "Google checks websites for llms.txt in new agentic browsing audit",
+      "description_en": "Google is testing how well websites handle AI agents through a new experimental category called \"Agentic Browsing\" in its Lighthouse analysis tool.\nThe article Google checks websites for llms.txt in new agentic browsing audit appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/google-tests-websites-for-llms-txt-and-agent-compatibility/",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 19:07:33 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Chrome",
+        "Google"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T19:19:28.446Z",
+      "created_at": "2026-05-21T19:19:28.446Z"
+    },
+    {
+      "id": 8993,
+      "source": "New Atlas",
+      "title_en": "Gloriously retro wooden box camera contains its own film processing lab",
+      "description_en": "If you’re a fan of Buster Keaton’s 1928 silent film The Cameraman, and are intrigued by his portrayal of a street photographer who processes his own film, then you might want to check out the Alfie BOXX camera currently on Kickstarter.\nContinue Reading\nCategory: Photography, Consumer Tech, Technology\nTags: Kickstarter, Film Cameras, Retro",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/photography/alfie-boxx-wooden-box-camera/",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 18:05:48 GMT",
+      "author": "Shirl Leigh",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T19:19:28.896Z",
+      "created_at": "2026-05-21T19:19:28.896Z"
+    },
+    {
+      "id": 8994,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment",
+      "description_en": "Microsoft has not made the Maia 200 chips available to customers, but they are used in the company's data centers, offering better efficiency than other silicon.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/21/anthropic-microsoft-maia-200-ai-chip.html",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 19:13:15 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T19:19:32.215Z",
+      "created_at": "2026-05-21T19:19:32.215Z"
+    },
+    {
+      "id": 8995,
+      "source": "XOR Journal (TG)",
+      "title_en": "ИИ-сервис для поиска борщевика выиграл премию ЦИПР.Разработкой занимались студенты ШАДа и спецы Центра технологий для общества Yandex Cloud совместно с экспертами движения «СтопБорщевик». ИИ-система о",
+      "description_en": "ИИ-сервис для поиска борщевика выиграл премию ЦИПР.Разработкой занимались студенты ШАДа и спецы Центра технологий для общества Yandex Cloud совместно с экспертами движения «СтопБорщевик». ИИ-система обрабатывает спутниковые снимки и с помощью компьютерного зрения находит заражённые участки в 50 раз быстрее ручной проверки.  С помощью сервиса уже обнаружили около 9 км² зарослей в 18 регионах России. В будущем функционал планируют расширить для поиска других инвазивных растений.Тот случай, когда к",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9331",
+      "image_url": "https://cdn4.telesco.pe/file/apxGb60zIWYi4UHQenamZ1pHrOigBHuoiI5tbg-m2ra02giwRLPJG-FvUil3CIFOSQECN6KeFIEuvp6nXherxWcZ1sLajusYBg7QZjSbUVmVpRLYDUq8gXgHQR9mZiVQXIvNEqxFjHeGfeDlWTWtF8uVfFR2VXTo8DOM1WD59IjWGWydy3sQW7YM7Xdj-rcXFMc04UIf2nYIrVrZl51KaO4BhMvKUIDiWG39JB90xB9IwxtIY3UYiDx6Xz6aGpT1RqDAg4yzri8W_YwhBhxyT5JYBUMo5Vl5I6EfzSD5EoBWuCIBqMaxgBxETiezqu2xVQXIxvTlIJp9fgtPVMS5Bw.jpg",
+      "pub_date": "2026-05-21T18:30:07+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T19:19:34.295Z",
+      "created_at": "2026-05-21T19:19:34.295Z"
     }
   ]
 }
