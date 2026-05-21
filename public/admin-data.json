@@ -1,9 +1,9 @@
 {
-  "total": 8916,
+  "total": 8922,
   "translated": 8824,
-  "untranslated": 92,
-  "today": 51,
-  "week": 738,
+  "untranslated": 98,
+  "today": 57,
+  "week": 744,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,7 +13,7 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 659,
+      "total": 663,
       "translated": 652,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
@@ -79,7 +79,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 265,
+      "total": 266,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -109,9 +109,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 126,
+      "total": 127,
       "translated": 119,
-      "lastDate": "2026-05-21T10:50:12+00:00"
+      "lastDate": "2026-05-21T11:30:55+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-21T11:44:37.710Z"
+  "generatedAt": "2026-05-21T12:16:28.219Z"
 }
