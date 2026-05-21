@@ -1,9 +1,9 @@
 {
-  "total": 9006,
+  "total": 9011,
   "translated": 8824,
-  "untranslated": 182,
-  "today": 141,
-  "week": 828,
+  "untranslated": 187,
+  "today": 146,
+  "week": 833,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 644,
+      "total": 645,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -31,7 +31,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 469,
+      "total": 470,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -91,7 +91,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 207,
+      "total": 208,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -109,9 +109,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 134,
+      "total": 135,
       "translated": 119,
-      "lastDate": "2026-05-21T19:30:26+00:00"
+      "lastDate": "2026-05-21T21:02:07+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -145,9 +145,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 70,
+      "total": 71,
       "translated": 68,
-      "lastDate": "2026-05-21T10:10:18+00:00"
+      "lastDate": "2026-05-21T21:13:47+00:00"
     },
     {
       "name": "Hi, AI Russian (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-21T21:10:36.581Z"
+  "generatedAt": "2026-05-21T21:56:00.687Z"
 }
