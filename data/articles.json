@@ -186682,7 +186682,7 @@
       "author": "Janus Rose",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T20:17:29.814Z",
       "created_at": "2026-05-21T20:17:29.814Z"
     },
@@ -186736,7 +186736,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T20:17:40.043Z",
       "created_at": "2026-05-21T20:17:40.043Z"
     },
@@ -186830,7 +186830,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T21:01:33.239Z",
       "created_at": "2026-05-21T21:01:33.239Z"
     },
@@ -186847,7 +186847,7 @@
       "author": "Aditya Jadhav",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T21:01:33.924Z",
       "created_at": "2026-05-21T21:01:33.924Z"
     },
@@ -186898,7 +186898,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T21:01:37.340Z",
       "created_at": "2026-05-21T21:01:37.340Z"
     },
@@ -187001,6 +187001,54 @@
       "priority": "hot",
       "fetchedAt": "2026-05-21T21:54:57.308Z",
       "created_at": "2026-05-21T21:54:57.308Z"
+    },
+    {
+      "id": 9012,
+      "source": "MarkTechPost",
+      "title_en": "Qwen Introduces Qwen3.7-Max: A Reasoning Agent Model With a 1M-Token Context Window",
+      "description_en": "Alibaba's Qwen team introduced Qwen3.7-Max at the 2026 Alibaba Cloud Summit, describing it as its most advanced and comprehensive agent model to date. The model features a 1M-token context window, extended-thinking mode, and is designed for long-horizon tasks including coding, debugging, and multi-step workflow automation. It scored 56.6 on the Artificial Analysis Intelligence Index, ranking fifth overall among proprietary models.\nThe post Qwen Introduces Qwen3.7-Max: A Reasoning Agent Model Wit",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/21/qwen-introduces-qwen3-7-max-a-reasoning-agent-model-with-a-1m-token-context-window/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-21-at-3.32.30-PM.png",
+      "pub_date": "Thu, 21 May 2026 22:33:10 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T22:38:41.127Z",
+      "created_at": "2026-05-21T22:38:41.127Z"
+    },
+    {
+      "id": 9013,
+      "source": "Interesting Engineering",
+      "title_en": "China’s new lithium battery reaches 451 Wh/kg with 3-minute charging and 700 cycles",
+      "description_en": "Researchers at the Chinese Academy of Sciences said they developed a solid-state lithium-metal battery that...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/china-solid-state-battery-451whkg-fast-charging",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 22:04:27 +0000",
+      "author": "Neetika Walter",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T22:38:42.093Z",
+      "created_at": "2026-05-21T22:38:42.093Z"
     }
   ]
 }
