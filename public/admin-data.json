@@ -1,9 +1,9 @@
 {
-  "total": 9011,
+  "total": 9013,
   "translated": 8824,
-  "untranslated": 187,
-  "today": 146,
-  "week": 833,
+  "untranslated": 189,
+  "today": 148,
+  "week": 835,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 645,
+      "total": 646,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -91,7 +91,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 208,
+      "total": 209,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-21T21:58:48.758Z"
+  "generatedAt": "2026-05-21T22:40:42.913Z"
 }
