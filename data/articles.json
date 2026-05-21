@@ -186567,7 +186567,7 @@
         "Google"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T19:19:27.377Z",
       "created_at": "2026-05-21T19:19:27.377Z"
     },
@@ -186590,7 +186590,7 @@
         "Google"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T19:19:28.446Z",
       "created_at": "2026-05-21T19:19:28.446Z"
     },
@@ -186624,7 +186624,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T19:19:32.215Z",
       "created_at": "2026-05-21T19:19:32.215Z"
     },
@@ -186665,7 +186665,7 @@
         "universal music group"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T20:17:29.767Z",
       "created_at": "2026-05-21T20:17:29.767Z"
     },
@@ -186702,7 +186702,7 @@
         "sponsored"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T20:17:30.894Z",
       "created_at": "2026-05-21T20:17:30.894Z"
     },
@@ -186719,7 +186719,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T20:17:39.502Z",
       "created_at": "2026-05-21T20:17:39.502Z"
     },
@@ -186901,6 +186901,106 @@
       "priority": "hot",
       "fetchedAt": "2026-05-21T21:01:37.340Z",
       "created_at": "2026-05-21T21:01:37.340Z"
+    },
+    {
+      "id": 9007,
+      "source": "MarkTechPost",
+      "title_en": "Cohere Releases Command A+: A 218B Sparse MoE Model for Agentic Workflows That Runs on as Few as Two H100 GPUs",
+      "description_en": "Cohere releases Command A+, an open-source 218B Sparse Mixture-of-Experts model consolidating four prior Command A variants into one. It runs on as few as two H100 GPUs at W4A4 quantization, supports 48 languages, and is Cohere's first multimodal reasoning model.\nThe post Cohere Releases Command A+: A 218B Sparse MoE Model for Agentic Workflows That Runs on as Few as Two H100 GPUs appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/21/cohere-releases-command-a-a-218b-sparse-moe-model-for-agentic-workflows-that-runs-on-as-few-as-two-h100-gpus/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-21-at-2.39.46-PM-1.png",
+      "pub_date": "Thu, 21 May 2026 21:47:00 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Tech News",
+        "Technology",
+        "Open Source Projects"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T21:54:54.964Z",
+      "created_at": "2026-05-21T21:54:54.964Z"
+    },
+    {
+      "id": 9008,
+      "source": "Interesting Engineering",
+      "title_en": "Meta settles major Kentucky school lawsuit over alleged teen social media addiction",
+      "description_en": "Meta Platforms has settled the first school district lawsuit set for trial over claims that...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/culture/meta-settles-school-social-media-harm-lawsuit",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 21:21:55 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T21:54:56.046Z",
+      "created_at": "2026-05-21T21:54:56.046Z"
+    },
+    {
+      "id": 9009,
+      "source": "CNBC Tech",
+      "title_en": "Job training for robots: How China is getting machines ready to join the workforce",
+      "description_en": "Tesla CEO Elon Musk said on the company's fourth-quarter earnings call that China is the biggest competition for humanoid robots.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/21/china-robots-humanoid-job-training.html",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 21:07:25 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T21:54:56.270Z",
+      "created_at": "2026-05-21T21:54:56.270Z"
+    },
+    {
+      "id": 9010,
+      "source": "XOR Journal (TG)",
+      "title_en": "Как неожиданно: российские процессоры Иртыш могут оказаться китайским клоном.Сам Минпромторг усомнился в реальном происхождении российских процессоров «Иртыш». Оказалось, что характеристики чипов полн",
+      "description_en": "Как неожиданно: российские процессоры Иртыш могут оказаться китайским клоном.Сам Минпромторг усомнился в реальном происхождении российских процессоров «Иртыш». Оказалось, что характеристики чипов полностью совпадают с китайскими Loongson — причем буквально цифра в цифру. Ведомство считает, что оборудование на базе таких чипов-двойников может создать угрозу национальной безопасности. На секундочку — они получили 1,3 млрд рублей на развитие.Импортозамещение. Итоги 🤔@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9333",
+      "image_url": "https://cdn4.telesco.pe/file/c6Yo5wj8msB4CjICOVmgYgCuenbZpnJguKdOIHP2h3uz6csxQIxur4IKT5veS85RurHGUbyI66KRwTW9IlqXGtZIcrYgS-HM6HjHSrrE121emvPFpxQjksCFResPdSVN7BZBDrU0PFgK-FqaKSjROQNVQe1qZs5tfjGxysKrRJJgbLps3OFZ6gj-Ix5PyDbaBur_wJcvrdqnt1-vpp4ccW79PUUhu2k1n6NhzDhmbkp5xZsFipNRUbx85hATi0dmoY_GLMquY86JOtV6_5enXsBnjMlktj4w_8STWPiVFPI-8_qinFoncVhPe3bhzej4MUJE50luo70hz8KI6vLqdA.jpg",
+      "pub_date": "2026-05-21T21:02:07+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T21:54:57.243Z",
+      "created_at": "2026-05-21T21:54:57.243Z"
+    },
+    {
+      "id": 9011,
+      "source": "Backdoor (TG)",
+      "title_en": "Что: Gemini 3.5 Flash сделала сайт стоимостью 3️⃣, 5️⃣ млн рублей за 25 (!) минут. Разработчики могут точно паковать вещи.Модель вышла пару дней назад, а уже буквально рвет интернет. Вайбкодер снял ро",
+      "description_en": "Что: Gemini 3.5 Flash сделала сайт стоимостью 3️⃣, 5️⃣ млн рублей за 25 (!) минут. Разработчики могут точно паковать вещи.Модель вышла пару дней назад, а уже буквально рвет интернет. Вайбкодер снял ролик, как ИИ с нуля создал сложный веб-интерфейс с 3D-анимацией, частицами и параллакс-эффектом. Все БЕСПЛАТНО и меньше чем за полчаса!Команды дизайнеров и прогеров готовятся идти на заводы.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28581",
+      "image_url": "https://cdn4.telesco.pe/file/I8Vvhxhw3EHg0menkjbEjGRyogkVqlvJ0E3qFwXNjv4Nl2E31r8PlFPBMIEmWSyEXcHrY2DnnPN0rj1dQ-JeHhU3OJ8aGGmCqEQp5oJUpN6ZmiH2R23KysUFITjjVE8cbOv3Tos5qr7kgu8lOs5u9YJnlBwfSRJfqivb720my8oWmgIT-rl8eqVGfrab07mS3tSVSRnz-ccEDvnBJLHzT1VHRziQ7FcU0TadpkEDC3R5je-mE7S-KxT1Tn8j9jZXcZ9vOD4Qnvf42xXvnH9Ao4XI2LWdYlpmmvoby9ZBhFepvj_qu6Ln4YYesZWzBZ1wwKxFPlARt6EgVuydtssXyA.jpg",
+      "pub_date": "2026-05-21T21:13:47+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T21:54:57.308Z",
+      "created_at": "2026-05-21T21:54:57.308Z"
     }
   ]
 }
