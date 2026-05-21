@@ -183795,7 +183795,7 @@
         "nvidia"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-20T22:38:46.859Z",
       "created_at": "2026-05-20T22:38:46.859Z"
     },
@@ -184076,6 +184076,26 @@
       "priority": "hot",
       "fetchedAt": "2026-05-21T00:00:22.750Z",
       "created_at": "2026-05-21T00:00:22.750Z"
+    },
+    {
+      "id": 8874,
+      "source": "Tom's Hardware",
+      "title_en": "AMD Ryzen AI Max 400 ‘Gorgon Halo’ packs up to 192GB of unified memory — refreshed APU uses Zen 5 and RDNA 3.5, and can clock up to 5.2 GHz",
+      "description_en": "AMD is refreshing its Ryzen AI Max chips with the new 400 series, known as Gorgon Halo, and they’ll show up in the Ryzen AI Halo development box. That box, with last-gen Strix Halo chips, is going up for pre-order in June, starting at $3,999.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-ai-max-400-gorgon-halo-packs-up-to-192gb-of-unified-memory-refreshed-apu-uses-zen-5-and-rdna-3-5-and-can-clock-up-to-5-2-ghz",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ssTpUsCMwXHCrNaxPa96oQ-1280-80.jpg",
+      "pub_date": "Thu, 21 May 2026 00:00:00 +0000",
+      "author": " Jake Roach ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T00:05:20.607Z",
+      "created_at": "2026-05-21T00:05:20.607Z"
     }
   ]
 }
