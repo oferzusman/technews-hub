@@ -1,9 +1,9 @@
 {
-  "total": 8865,
+  "total": 8873,
   "translated": 8824,
-  "untranslated": 41,
-  "today": 144,
-  "week": 819,
+  "untranslated": 49,
+  "today": 8,
+  "week": 695,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 633,
+      "total": 634,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -31,13 +31,13 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 452,
+      "total": 455,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 397,
+      "total": 398,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -49,7 +49,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 361,
+      "total": 363,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -97,9 +97,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 171,
+      "total": 172,
       "translated": 168,
-      "lastDate": "2026-05-20T20:34:01+00:00"
+      "lastDate": "2026-05-20T23:51:01+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-20T22:53:20.890Z"
+  "generatedAt": "2026-05-21T00:03:21.622Z"
 }
