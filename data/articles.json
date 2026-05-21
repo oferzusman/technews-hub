@@ -185091,7 +185091,7 @@
       "author": "Andrew J. Hawkins",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T13:53:49.347Z",
       "created_at": "2026-05-21T13:53:49.347Z"
     },
@@ -185108,7 +185108,7 @@
       "author": "Sean Hollister",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T13:53:49.347Z",
       "created_at": "2026-05-21T13:53:49.347Z"
     },
@@ -185135,7 +185135,7 @@
         "spark"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T13:53:49.358Z",
       "created_at": "2026-05-21T13:53:49.358Z"
     },
@@ -185160,7 +185160,7 @@
         "Sortera"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T13:53:49.358Z",
       "created_at": "2026-05-21T13:53:49.358Z"
     },
@@ -185196,7 +185196,7 @@
       "author": "Stefan Ionescu",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T13:53:51.220Z",
       "created_at": "2026-05-21T13:53:51.220Z"
     },
@@ -185213,7 +185213,7 @@
       "author": "Jijo Malayil",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T13:53:53.184Z",
       "created_at": "2026-05-21T13:53:53.184Z"
     },
@@ -185230,7 +185230,7 @@
       "author": "Aman Tripathi",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T13:53:53.184Z",
       "created_at": "2026-05-21T13:53:53.184Z"
     },
@@ -185247,7 +185247,7 @@
       "author": "Mrigakshi Dixit",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T13:53:53.184Z",
       "created_at": "2026-05-21T13:53:53.184Z"
     },
@@ -185264,7 +185264,7 @@
       "author": "Chris Young",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T13:53:53.184Z",
       "created_at": "2026-05-21T13:53:53.184Z"
     },
@@ -185284,7 +185284,7 @@
         "Desktops"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T13:53:53.284Z",
       "created_at": "2026-05-21T13:53:53.284Z"
     },
@@ -185304,7 +185304,7 @@
         "Peripherals"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T13:53:53.284Z",
       "created_at": "2026-05-21T13:53:53.284Z"
     },
@@ -185325,7 +185325,7 @@
         "Manufacturing"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T13:53:53.284Z",
       "created_at": "2026-05-21T13:53:53.284Z"
     },
@@ -185363,7 +185363,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T13:53:53.593Z",
       "created_at": "2026-05-21T13:53:53.593Z"
     },
@@ -185397,7 +185397,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T13:53:55.068Z",
       "created_at": "2026-05-21T13:53:55.068Z"
     },
@@ -185414,7 +185414,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T13:53:55.110Z",
       "created_at": "2026-05-21T13:53:55.110Z"
     },
@@ -185431,7 +185431,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T13:53:55.655Z",
       "created_at": "2026-05-21T13:53:55.655Z"
     },
@@ -185586,6 +185586,489 @@
       "priority": "hot",
       "fetchedAt": "2026-05-21T14:27:49.962Z",
       "created_at": "2026-05-21T14:27:49.962Z"
+    },
+    {
+      "id": 8947,
+      "source": "The Verge AI",
+      "title_en": "Spotify is launching AI-generated remixes",
+      "description_en": "Spotify and Universal Music Group (UMG) announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for streaming songs. The tool will be a paid add-on for Premium subscribers. Artists will be able to opt out of the program, but those who do participate will collect royalties on these AI remixes.\nIn October of last year, Spotify announced that it was working with UMG, as well as other major labels, Sony Music Group, Warner Music Group, Merlin, and B",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
+      "image_url": null,
+      "pub_date": "2026-05-21T15:54:03.000Z",
+      "author": "Terrence O’Brien",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T15:56:37.246Z",
+      "created_at": "2026-05-21T15:56:37.246Z"
+    },
+    {
+      "id": 8948,
+      "source": "The Verge AI",
+      "title_en": "Spotify Studio&#8217;s AI agent creates a daily podcast just for you",
+      "description_en": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated content draws from your Spotify listening history, as well as info from apps you connect to it, like your email inbox, calendar, and notes. Spotify says its AI can also \"take action on your behalf,\" such as \"researching topics, using a web browser, organizing information, and helping complete tasks.\" \nAny content you generate in Studio, lik",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
+      "image_url": null,
+      "pub_date": "2026-05-21T15:47:29.000Z",
+      "author": "Stevie Bonifield",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T15:56:37.246Z",
+      "created_at": "2026-05-21T15:56:37.246Z"
+    },
+    {
+      "id": 8949,
+      "source": "The Verge AI",
+      "title_en": "AI video is moving beyond clip slop",
+      "description_en": "A still from Innovative Dreams, a new production company by Luma and Wonder Project | Image: Luma/X\t\n\nThis is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week.\nHollywood is cooked - or so a growing number of people on social media would like you to believe. Their purported proof: AI-generated clips of Daniel Craig riding a Vespa through an Italian city, Godzilla fighting King Kong, or The A",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/column/935310/ai-video-luma-hollywood",
+      "image_url": null,
+      "pub_date": "2026-05-21T15:30:00.000Z",
+      "author": "Janko Roettgers",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T15:56:37.246Z",
+      "created_at": "2026-05-21T15:56:37.246Z"
+    },
+    {
+      "id": 8950,
+      "source": "TechCrunch AI",
+      "title_en": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+      "description_en": "Spotify is releasing new audiobook plans later this year",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 15:27:00 +0000",
+      "author": "Ivan Mehta",
+      "categories": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "audiobooks",
+        "ElevenLabs",
+        "Spotify"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T15:56:37.310Z",
+      "created_at": "2026-05-21T15:56:37.310Z"
+    },
+    {
+      "id": 8951,
+      "source": "TechCrunch AI",
+      "title_en": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+      "description_en": "Spotify will let you generate daily or weekly briefs based on your prompts",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 15:27:00 +0000",
+      "author": "Ivan Mehta",
+      "categories": [
+        "AI",
+        "Apps",
+        "AI audio",
+        "ai generated content",
+        "Spotify"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T15:56:37.310Z",
+      "created_at": "2026-05-21T15:56:37.310Z"
+    },
+    {
+      "id": 8952,
+      "source": "TechCrunch AI",
+      "title_en": "Spotify takes on Google’s NotebookLM with its new app",
+      "description_en": "Spotify is releasing the new desktop app as a research preview in more than 20 markets",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 15:27:00 +0000",
+      "author": "Ivan Mehta",
+      "categories": [
+        "TC",
+        "AI",
+        "Apps",
+        "Spotify",
+        "podcasts",
+        "AI generated podcasts"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T15:56:37.310Z",
+      "created_at": "2026-05-21T15:56:37.310Z"
+    },
+    {
+      "id": 8953,
+      "source": "TechCrunch AI",
+      "title_en": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+      "description_en": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 14:00:00 +0000",
+      "author": "Julie Bort",
+      "categories": [
+        "AI",
+        "Apps",
+        "Biotech & Health",
+        "Fundraising",
+        "calm",
+        "mental health apps",
+        "The Path",
+        "Tony Robbins"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T15:56:37.311Z",
+      "created_at": "2026-05-21T15:56:37.311Z"
+    },
+    {
+      "id": 8954,
+      "source": "Ars Technica",
+      "title_en": "Plug-in hybrids get plugged in more than you might think",
+      "description_en": "Toyota is the latest automaker to report PHEV charging stats, and they're encouraging.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/cars/2026/05/plug-in-hybrids-get-plugged-in-more-than-you-might-think/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1884481559-1152x648.jpg",
+      "pub_date": "Thu, 21 May 2026 13:34:53 +0000",
+      "author": "\n                    Jonathan M. Gitlin\n                ",
+      "categories": [
+        "Cars",
+        "PHEV",
+        "plug-in hybrid"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-21T15:56:37.495Z",
+      "created_at": "2026-05-21T15:56:37.495Z"
+    },
+    {
+      "id": 8955,
+      "source": "The Decoder",
+      "title_en": "US Cyber Command races to deploy AI on top-secret networks",
+      "description_en": "US Cyber Command has launched a task force to run AI models from OpenAI, Google, and others on the most classified Pentagon and NSA networks. The trigger: AI systems like Anthropic's Claude Mythos can find security vulnerabilities faster than the best human hackers - and according to Anthropic, comparable tools could be widely available within six to 24 months.\nThe article US Cyber Command races to deploy AI on top-secret networks appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/us-cyber-command-races-to-deploy-ai-on-top-secret-networks/",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 15:20:44 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "AI and warfare",
+        "Cybersecurity",
+        "USA"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T15:56:38.840Z",
+      "created_at": "2026-05-21T15:56:38.840Z"
+    },
+    {
+      "id": 8956,
+      "source": "The Decoder",
+      "title_en": "Cohere open-sources its strongest model yet",
+      "description_en": "The Canadian AI company Cohere is releasing its most powerful language model to date, Command A+, as open source under an Apache 2.0 license.\nThe article Cohere open-sources its strongest model yet appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/cohere-open-sources-its-strongest-model-yet/",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 15:17:35 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Cohere",
+        "Command A+",
+        "Open Source"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T15:56:38.840Z",
+      "created_at": "2026-05-21T15:56:38.840Z"
+    },
+    {
+      "id": 8957,
+      "source": "The Decoder",
+      "title_en": "Anthropic is about to become the first profitable AI lab",
+      "description_en": "Anthropic is approaching its first profitable quarter, the Wall Street Journal reports - with a projected operating profit of $559 million on $10.9 billion in Q2 revenue. Just last summer, the company didn't expect to turn a profit before 2028. The main drivers are coding tools and agentic Claude usage, which at times pushed demand beyond available compute capacity.\nThe article Anthropic is about to become the first profitable AI lab appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-is-about-to-become-the-first-profitable-ai-lab/",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 15:15:30 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Anthropic"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T15:56:38.841Z",
+      "created_at": "2026-05-21T15:56:38.841Z"
+    },
+    {
+      "id": 8958,
+      "source": "The Decoder",
+      "title_en": "OpenAI could file confidential IPO paperwork within days",
+      "description_en": "OpenAI is also preparing an IPO, according to the Wall Street Journal, and could file confidential paperwork with the SEC within days.\nThe article OpenAI could file confidential IPO paperwork within days appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-could-file-confidential-ipo-paperwork-within-days/",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 15:12:36 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T15:56:38.841Z",
+      "created_at": "2026-05-21T15:56:38.841Z"
+    },
+    {
+      "id": 8959,
+      "source": "The Decoder",
+      "title_en": "SpaceX IPO filing shows billions in AI losses, a $2 trillion valuation target, and turbine spending that signals more data center conflicts ahead",
+      "description_en": "SpaceX has filed for what could be the largest IPO ever, targeting a valuation of up to $2 trillion. The filing reveals xAI losses of $6.36 billion in 2025 and an Anthropic compute deal worth $15 billion per year. Elon Musk secures 85.1 percent of voting power through dual-class shares, effectively making him impossible to outvote.\nThe article SpaceX IPO filing shows billions in AI losses, a $2 trillion valuation target, and turbine spending that signals more data center conflicts ahead appeared",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/spacex-ipo-filing-shows-billions-in-ai-losses-a-2-trillion-valuation-target-and-turbine-spending-that-signals-more-data-center-conflicts-ahead/",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 15:10:21 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Elon Musk",
+        "Grok",
+        "SpaceX",
+        "SpaceXAI",
+        "xAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T15:56:38.841Z",
+      "created_at": "2026-05-21T15:56:38.841Z"
+    },
+    {
+      "id": 8960,
+      "source": "The Decoder",
+      "title_en": "SAP taps Mistral AI to help customers migrate legacy software",
+      "description_en": "SAP uses Mistral AI models to simplify the migration to S/4HANA.\nThe article SAP taps Mistral AI to help customers migrate legacy software appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/sap-taps-mistral-ai-to-help-customers-migrate-legacy-software/",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 14:59:18 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI in Europe",
+        "Mistral",
+        "Mistral AI",
+        "SAP"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T15:56:38.841Z",
+      "created_at": "2026-05-21T15:56:38.841Z"
+    },
+    {
+      "id": 8961,
+      "source": "MIT Technology Review",
+      "title_en": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+      "description_en": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the last week that was completely written…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 14:30:45 +0000",
+      "author": "Will Douglas Heaven",
+      "categories": [
+        "Artificial intelligence",
+        "App",
+        "Summary"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T15:56:38.942Z",
+      "created_at": "2026-05-21T15:56:38.942Z"
+    },
+    {
+      "id": 8962,
+      "source": "New Atlas",
+      "title_en": "Family oriented tiny house prioritizes personal space and privacy",
+      "description_en": "Downsizing is never easy if you have a family in tow. However, with its larger-than-average dimensions and clever layout that provides separation and privacy, the River tiny house is much better suited to full-time family living than many other models.\nContinue Reading\nCategory: Tiny Houses, Outdoors\nTags: Building and Construction, Tiny Footprint, House, Home, Micro-House",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/tiny-houses/river-vagabond-haven/",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 15:33:00 GMT",
+      "author": "Adam Williams",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T15:56:39.666Z",
+      "created_at": "2026-05-21T15:56:39.666Z"
+    },
+    {
+      "id": 8963,
+      "source": "The Guardian AI",
+      "title_en": "WiseTech begins redundancies – but omits ‘AI’ from emails to Chinese employees, workers say",
+      "description_en": "ASX-listed company announced in February it would lay off almost 30% of its 7,000-strong workforce across 40 countries\n\nGet our breaking news email, free app or daily news podcast\n\nWiseTech has begun informing staff that they will lose their jobs as part of redundancies the company has said is due to artificial intelligence advancements – although an email to staff in China omitted the word “AI” after a court case against another company in the country.\nStaff at WiseTech have been waiting almost",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/22/wisetech-redundancies-australia-omits-ai-from-emails-to-chinese-employees",
+      "image_url": "https://i.guim.co.uk/img/media/c154a26d6a5682febab92b6a19b11365e6734008/470_0_2585_2069/master/2585.jpg?width=140&quality=85&auto=format&fit=max&s=b0cf5cbb91e3ebe7ad737993df9a5b45",
+      "pub_date": "Thu, 21 May 2026 15:00:35 GMT",
+      "author": "Josh Taylor Technology reporter",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T15:56:39.860Z",
+      "created_at": "2026-05-21T15:56:39.860Z"
+    },
+    {
+      "id": 8964,
+      "source": "CNBC Tech",
+      "title_en": "Strategy's Michael Saylor says tokenization will let investors 'shop' for yield",
+      "description_en": "Bitcoin evangelist Michael Saylor told CNBC's \"Squawk Box\" tokenization will pose a direct challenge to traditional banking and brokerage businesses.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/21/strategys-michael-saylor-says-tokenization-will-let-investors-shop-for-yield.html",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 14:51:08 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T15:56:41.522Z",
+      "created_at": "2026-05-21T15:56:41.522Z"
+    },
+    {
+      "id": 8965,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia's memory costs soar 485%, latest AI systems now cost $7.8 million to build — memory now comprises 25% of the total cost, Rubin GPUs a mere $50,000 apiece",
+      "description_en": "As memory content per rack increases in Vera Rubin platform, it now accounts for nearly 25% of its cost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/iaLn9eep6ryDrWj6V9zkb9-1280-80.jpg",
+      "pub_date": "Thu, 21 May 2026 15:41:01 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T15:56:41.710Z",
+      "created_at": "2026-05-21T15:56:41.710Z"
+    },
+    {
+      "id": 8966,
+      "source": "Tom's Hardware",
+      "title_en": "EU forced to exempt banned Chinese chipmaker after auto industry warns of supply crisis — European car factories warn of imminent supply chain collapse",
+      "description_en": "The European Commission is preparing to propose a temporary exemption for a Chinese semiconductor manufacturer from the EU's 20th Russia sanctions package.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/eu-moves-to-exempt-sanctioned-chinese-chipmaker-after-auto-industry-warns-of-weeks-long-supply-crisis",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/LTwbDyUf22muymoDMVT7Fk-1280-80.jpg",
+      "pub_date": "Thu, 21 May 2026 15:26:25 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T15:56:41.710Z",
+      "created_at": "2026-05-21T15:56:41.710Z"
+    },
+    {
+      "id": 8967,
+      "source": "Tom's Hardware",
+      "title_en": "Samsung reportedly set to distribute up to $26.6 billion to staff in AI-driven semiconductor bonuses after last-minute union deal — average payouts could approach $400,000 per chip employee",
+      "description_en": "Samsung Electronics is reportedly preparing to distribute up to 40 trillion won ($26.6 billion) in semiconductor employee bonuses after reaching a last-minute labor agreement. The proposed deal ties payouts to AI-driven chip profits and could see average employee bonuses approach $400,000.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/samsung-reportedly-set-to-distribute-up-to-usd26-6-billion-to-staff-in-ai-driven-semiconductor-bonuses-after-last-minute-union-deal-average-payouts-could-approach-usd400-000-per-chip-employee",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/tRrvFL7XAZrRiJiCFASp6E-1280-80.jpg",
+      "pub_date": "Thu, 21 May 2026 14:25:18 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "Big Tech",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T15:56:41.710Z",
+      "created_at": "2026-05-21T15:56:41.710Z"
+    },
+    {
+      "id": 8968,
+      "source": "AI Post (TG)",
+      "title_en": "🔥 Alibaba just launched Qwen3.7-Max and it’s clearly built for the AI agent race.Alibaba says the new model is designed for “the Agent Era,” where AI systems don’t just chat, but actually execute com",
+      "description_en": "🔥 Alibaba just launched Qwen3.7-Max and it’s clearly built for the AI agent race.Alibaba says the new model is designed for “the Agent Era,” where AI systems don’t just chat, but actually execute complex tasks for hours without supervision.What stands out:💻Full coding-agent behavior: Not just autocomplete. Qwen3.7-Max can handle frontend prototypes, multi-file refactors, debugging, and longer engineering workflows end-to-end.🗂️ Productivity + office automation: The model integrates with MCP t",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6986",
+      "image_url": "https://cdn4.telesco.pe/file/EKlt9eS_n1dIDpEik28e04FdtdVHO8I5tpmaGaZZQnFd_DKVFuWb_sxIp-Hbam2g-wPwAt_BG874Ll_L88xTN3fAule5nD-vP5y08mF2pFcQo-IM7f-m4hXB8Y8ERY17pX23G7JycFTdFtm9mW2iMEXJxvqywE37vX8KQ5ThoNH3szKUYNh1bGdygGnH91wxe608ojiTjeW6tRKMay9UO0HwSuzSdx0FlGqXQ4FwTlX8JWqoTARlUq8H-GEORJJ6veP8NUps6SAeQvRC34Z9dmpZtFEfh9R6nmvgSAN2vxubbgzM3q-hnpFszPH_uYMYndEjlKV7tIHBQtfvPOlFOA.jpg",
+      "pub_date": "2026-05-21T14:52:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T15:56:44.428Z",
+      "created_at": "2026-05-21T15:56:44.428Z"
     }
   ]
 }
