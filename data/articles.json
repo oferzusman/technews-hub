@@ -184645,7 +184645,7 @@
       "author": "Jess Weatherbed",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T10:54:37.490Z",
       "created_at": "2026-05-21T10:54:37.490Z"
     },
@@ -184760,7 +184760,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T10:54:40.495Z",
       "created_at": "2026-05-21T10:54:40.495Z"
     },
@@ -184780,7 +184780,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T10:54:40.495Z",
       "created_at": "2026-05-21T10:54:40.495Z"
     },
@@ -184899,9 +184899,163 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T10:54:41.873Z",
       "created_at": "2026-05-21T10:54:41.873Z"
+    },
+    {
+      "id": 8917,
+      "source": "The Guardian AI",
+      "title_en": "London mayor Sadiq Khan blocks £50m Met police deal with Palantir",
+      "description_en": "Exclusive: Scotland Yard had been in talks to use Palantir’s AI technology to automate intelligence analysis\nA £50m Met police deal with the controversial US tech company Palantir has been blocked by the London mayor, Sadiq Khan, with City Hall citing a “clear and serious breach” of procurement rules.\nScotland Yard had been in talks, revealed by the Guardian last month, to use Palantir’s AI technology to automate intelligence analysis in criminal investigations. But Khan intervened on Thursday t",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/uk-news/2026/may/21/london-mayor-sadiq-khan-blocks-met-police-deal-with-palantir",
+      "image_url": "https://i.guim.co.uk/img/media/58263c476c5d9d478efd0bb1b825a7b2744d09ed/335_78_1195_956/master/1195.jpg?width=140&quality=85&auto=format&fit=max&s=d8b42784bec9584fd9c74f705dc59f4b",
+      "pub_date": "Thu, 21 May 2026 11:00:09 GMT",
+      "author": "Robert Booth UK technology editor",
+      "categories": [
+        {
+          "_": "Metropolitan police",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/metropolitan-police"
+          }
+        },
+        {
+          "_": "Sadiq Khan",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/sadiq-khan"
+          }
+        },
+        {
+          "_": "London politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/london"
+          }
+        },
+        {
+          "_": "Palantir",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/palantir"
+          }
+        },
+        {
+          "_": "London",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/london"
+          }
+        },
+        {
+          "_": "Police",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/police"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T11:44:52.911Z",
+      "created_at": "2026-05-21T11:44:52.911Z"
+    },
+    {
+      "id": 8918,
+      "source": "Tom's Hardware",
+      "title_en": "Save over $1,120 on this 4K-ready RTX 5070 Ti gaming PC with 32GB DDR5 and a 2TB SSD — score a big discount on this ABS Kaze II rig from Newegg with a 24-core Intel CPU and powerful Nvidia GPU",
+      "description_en": "This Newegg deal on an ABS Kaze II Aqua gaming PC drops the price down to just $2,175.49 with discount code ABSGAMER5, netting you a PC with a 24-core Intel Core i9-14900KF CPU, an Nvidia GeForce RTX 5070 Ti GPU, a 2TB SSD, and 32GB of DDR5 RAM.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-over-usd1-120-on-this-4k-ready-rtx-5070-ti-gaming-pc-with-32gb-ddr5-and-a-2tb-ssd-score-a-big-discount-on-this-abs-kaze-ii-rig-from-newegg-with-a-24-core-intel-cpu-and-powerful-nvidia-gpu",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/3vZiLwEjriUb9HBe59TJ6E-1280-80.png",
+      "pub_date": "Thu, 21 May 2026 11:08:23 +0000",
+      "author": " Ben Stockton ",
+      "categories": [
+        "Gaming PCs",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T11:44:54.092Z",
+      "created_at": "2026-05-21T11:44:54.092Z"
+    },
+    {
+      "id": 8919,
+      "source": "Tom's Hardware",
+      "title_en": "Intel leans on LPDDR5X to dodge global HBM crisis, leaked Crescent Island AI GPU pics reveal massive Xe3P core — chip sidesteps HBM shortage with 160GB of cheaper memory",
+      "description_en": "Images of the PCB Intel will be using with Crescent Island has been published on X, showing a single-GPU design and pads for the graphics card's 20 LPDDR5X modules.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/pcb-shots-appear-of-intels-crescent-island-revealing-a-single-gpu-setup-and-pads-for-20-lpddr5x-modules",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/qXjw6K9cVJzeNZurs6CD3H-1280-80.jpg",
+      "pub_date": "Thu, 21 May 2026 11:00:00 +0000",
+      "author": " Aaron Klotz ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T11:44:54.092Z",
+      "created_at": "2026-05-21T11:44:54.092Z"
+    },
+    {
+      "id": 8920,
+      "source": "Tom's Hardware",
+      "title_en": "New Flipper One computing multitool bristles with network, GPIO, and M.2 connectivity — new keychain device is also a fully open Arm Linux computer",
+      "description_en": "The creators of the Flipper Zero “portable multi-tool device for geeks” have announced the Flipper One.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/networking/flipper-one-computing-multitool-bristles-with-network-gpio-and-m-2-connectivity-new-keychain-device-is-also-a-fully-open-arm-linux-computer",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/UKhCg3VkjNiLLnvB2EV8uQ-1280-80.jpg",
+      "pub_date": "Thu, 21 May 2026 11:00:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Networking"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T11:44:54.092Z",
+      "created_at": "2026-05-21T11:44:54.092Z"
+    },
+    {
+      "id": 8921,
+      "source": "XOR Journal (TG)",
+      "title_en": "В Азии появился новый способ показать статус — мерч с работы.Теперь на свидания и встречи с одногруппниками ходят в жилетках SK Hynix и кроссовках TSMC, а не в люксовых брендах. Ведь что вообще нужно ",
+      "description_en": "В Азии появился новый способ показать статус — мерч с работы.Теперь на свидания и встречи с одногруппниками ходят в жилетках SK Hynix и кроссовках TSMC, а не в люксовых брендах. Ведь что вообще нужно доказывать, если ты работаешь в компании, которая делает чипы для NVIDIA и Apple и получаешь жирнючие бонусы и премии.Самые дальновидные уже ищут мерч нужных компаний на вторичке. 😁@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9321",
+      "image_url": "https://cdn4.telesco.pe/file/PO06wmoyxRY1BVxNIul_ExaJkuMx1mFPvryFUXiejCodIWzig2RRARyqIAkfbhtfM1zDKE30rPoC7ssxSO_U7sx8QVXrMopgYZtmpiXJrtwzbsUCETxREQNKEJB02BRCbJqp8WuTrNWl-7s94YleTJBp1I9CYQGFkLT-d6UO6UNJ4WAfEO2Y4_hE3zp7DolX_eoRgOaI-SCs18CipR1NesBCHyzA83I05FrQjslrp55S-TYRRpF15HsXfDMNByEpWA80ongQZ5Q02p-yQ_YmUBQcYWfpzCe6q3o1CkqrCPLICoeeLbfoh2CUVD-yGUbrOH5JixLlix1-d8gzjjBTeQ.jpg",
+      "pub_date": "2026-05-21T11:30:55+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T11:44:59.975Z",
+      "created_at": "2026-05-21T11:44:59.975Z"
     }
   ]
 }
