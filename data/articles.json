@@ -184721,7 +184721,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T10:54:40.495Z",
       "created_at": "2026-05-21T10:54:40.495Z"
     },
@@ -184740,7 +184740,7 @@
         "Gift Guides and Seasonal Sales"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T10:54:40.495Z",
       "created_at": "2026-05-21T10:54:40.495Z"
     },
@@ -184797,7 +184797,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T10:54:40.587Z",
       "created_at": "2026-05-21T10:54:40.587Z"
     },
@@ -184831,7 +184831,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T10:54:41.353Z",
       "created_at": "2026-05-21T10:54:41.353Z"
     },
@@ -185056,6 +185056,27 @@
       "priority": "hot",
       "fetchedAt": "2026-05-21T11:44:59.975Z",
       "created_at": "2026-05-21T11:44:59.975Z"
+    },
+    {
+      "id": 8922,
+      "source": "Tom's Hardware",
+      "title_en": "Lenovo G02 retro handheld allegedly comes preloaded with thousands of copyrighted games, including Nintendo ROMs — company confirms that it’s an officially white-labeled device meant for the Chinese market",
+      "description_en": "Lenovo confirms that it partnered with a third-party manufacturer to build, sell, and market the G02 retro gaming handheld in China. However, it allegedly contained thousands of gaming ROMs, many from Nintendo, right out of the box, raising questions about the validity of the licenses of these titles.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/handheld-gaming/lenovo-g02-retro-handheld-allegedly-comes-preloaded-with-thousands-of-copyrighted-games-including-nintendo-roms-company-confirms-that-its-an-officially-white-labeled-device-meant-for-the-chinese-market",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/jLHQAoMxtJy4K3wpoVvN45-1280-80.jpg",
+      "pub_date": "Thu, 21 May 2026 11:56:36 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Handheld Gaming",
+        "Video Games",
+        "Console Gaming"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T12:14:31.223Z",
+      "created_at": "2026-05-21T12:14:31.223Z"
     }
   ]
 }
