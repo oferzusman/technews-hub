@@ -1,9 +1,9 @@
 {
-  "total": 8990,
+  "total": 9000,
   "translated": 8824,
-  "untranslated": 166,
-  "today": 125,
-  "week": 812,
+  "untranslated": 176,
+  "today": 135,
+  "week": 822,
   "sources": [
     {
       "name": "Product Hunt",
@@ -31,13 +31,13 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 467,
+      "total": 468,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 400,
+      "total": 402,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -49,13 +49,13 @@
     },
     {
       "name": "New Atlas",
-      "total": 370,
+      "total": 371,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "The Decoder",
-      "total": 349,
+      "total": 350,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -85,9 +85,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 242,
+      "total": 243,
       "translated": 231,
-      "lastDate": "2026-05-21T17:00:00.000Z"
+      "lastDate": "2026-05-21T20:00:06.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -97,21 +97,21 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 178,
+      "total": 179,
       "translated": 168,
-      "lastDate": "2026-05-21T17:12:02+00:00"
+      "lastDate": "2026-05-21T20:04:01+00:00"
     },
     {
       "name": "MIT Technology Review",
-      "total": 137,
+      "total": 138,
       "translated": 135,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 132,
+      "total": 134,
       "translated": 119,
-      "lastDate": "2026-05-21T17:56:28+00:00"
+      "lastDate": "2026-05-21T19:30:26+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-21T19:19:14.124Z"
+  "generatedAt": "2026-05-21T20:18:33.920Z"
 }
