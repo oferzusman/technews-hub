@@ -186641,7 +186641,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T19:19:34.295Z",
       "created_at": "2026-05-21T19:19:34.295Z"
     },
@@ -186739,6 +186739,168 @@
       "priority": "hot",
       "fetchedAt": "2026-05-21T20:17:40.043Z",
       "created_at": "2026-05-21T20:17:40.043Z"
+    },
+    {
+      "id": 9001,
+      "source": "MIT Technology Review",
+      "title_en": "Roundtables: Can AI Learn to Understand the World?",
+      "description_en": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor Will Douglas Heaven, and AI reporter…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 20:41:05 +0000",
+      "author": "MIT Technology Review",
+      "categories": [
+        "Artificial intelligence",
+        "artificial intelligence",
+        "Roundtables",
+        "Subscriber-Only Stories"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T21:01:32.494Z",
+      "created_at": "2026-05-21T21:01:32.494Z"
+    },
+    {
+      "id": 9002,
+      "source": "The Guardian AI",
+      "title_en": "Spotify and Universal Music agree deal to let subscribers create AI remixes",
+      "description_en": "Licensing agreement will allow listeners to use AI to create content on streaming platform for first time\nSpotify and Universal Music Group have agreed on a deal that will allow subscribers to generate song covers and remixes using artificial intelligence.\nThe licensing agreement is the first time the Swedish streaming company will allow listeners to use AI to create content through its platform.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/21/spotify-and-universal-music-agree-deal-to-let-subscribers-create-ai-remixes",
+      "image_url": "https://i.guim.co.uk/img/media/7720a23fe78987213e79ec1cc44a07953edad891/0_398_4750_3801/master/4750.jpg?width=140&quality=85&auto=format&fit=max&s=2f9778f724918509b3b51f4e6ce4c03a",
+      "pub_date": "Thu, 21 May 2026 20:24:37 GMT",
+      "author": "Zesha Saleem",
+      "categories": [
+        {
+          "_": "Spotify",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/spotify"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Universal Music",
+          "$": {
+            "domain": "https://www.theguardian.com/music/universal-music"
+          }
+        },
+        {
+          "_": "Digital music and audio",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/digital-music-and-audio"
+          }
+        },
+        {
+          "_": "Music",
+          "$": {
+            "domain": "https://www.theguardian.com/music/music"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Music streaming",
+          "$": {
+            "domain": "https://www.theguardian.com/music/music-streaming"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T21:01:33.239Z",
+      "created_at": "2026-05-21T21:01:33.239Z"
+    },
+    {
+      "id": 9003,
+      "source": "Interesting Engineering",
+      "title_en": "US launches Minuteman III missile; test verifies ICBM’s propulsion, guidance, re-entry systems",
+      "description_en": "The US Air Force Global Strike Command conducted a test launch of an unarmed Minuteman...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-launches-minuteman-iii-missile",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 20:21:48 +0000",
+      "author": "Aditya Jadhav",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T21:01:33.924Z",
+      "created_at": "2026-05-21T21:01:33.924Z"
+    },
+    {
+      "id": 9004,
+      "source": "CNBC Tech",
+      "title_en": "Workday jumps 14% as it bumps up margin forecast on AI strength",
+      "description_en": "Workday's CEO says the company is seeing success in artificial intelligence.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/21/workday-wday-q1-earnings-report-2027.html",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 20:44:31 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T21:01:35.195Z",
+      "created_at": "2026-05-21T21:01:35.195Z"
+    },
+    {
+      "id": 9005,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🦔 AI Is Helping Save HedgehogsSince 2000, the number of hedgehogs in rural areas of the UK has fallen by up to 75%. To understand what is making it harder for the species to survive, researchers at t",
+      "description_en": "🦔 AI Is Helping Save HedgehogsSince 2000, the number of hedgehogs in rural areas of the UK has fallen by up to 75%. To understand what is making it harder for the species to survive, researchers at the University of Cambridge have mapped hedgehog habitats using the open AI model TESSERA.The model analyzes satellite data to create data-rich maps of the Earth. In these maps, each pixel contains information about a 10m x 10m square of the planet's surface. Hedgehogs themselves cannot be seen from ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2534",
+      "image_url": "https://cdn4.telesco.pe/file/j1QwwMLpuW5Pfe7gefTBzZfG6k5FhSZKj0chbXrMEjuEpraa_AVs5EoAq53FvmP-E8wL9sB0T4wZ2CX5VfMjh7USOCNm5pGfbLzKNSF12S0hS36dStP5KjIW6lOZ1aJAzeDXju2iVXblPqlwiIyfBCAVYcDV7voCxipiv38vl3mzTu-Hek70scISiQHQKlKJAtW3aj6VdhyQVYfO0mvyNi_RBwY-B4ICqE8ndukgyIYPmI9zqbCnqDkQsvNv4SQUKPHdcJkaF7JAMfsx7VDcqI7ljQ3zMYi2D3ouQjGyiJ7mX0Y_zGNluMBdnIAg7FCCEy5fevON6Q2tgTjRIHI0iA.jpg",
+      "pub_date": "2026-05-21T20:40:45+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T21:01:37.298Z",
+      "created_at": "2026-05-21T21:01:37.298Z"
+    },
+    {
+      "id": 9006,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🦔 ИИ спасает ежейС 2000 года численность ежей в сельских районах Великобритании упала почти на 75%. Чтобы понять, что мешает виду выживать, исследователи Кембриджского университета построили карту ме",
+      "description_en": "🦔 ИИ спасает ежейС 2000 года численность ежей в сельских районах Великобритании упала почти на 75%. Чтобы понять, что мешает виду выживать, исследователи Кембриджского университета построили карту мест обитания зверей с помощью открытой ИИ-модели TESSERA.Нейросеть обрабатывает спутниковые снимки и собирает карту Великобритании с разрешением 10×10 метров. Самих ежей с орбиты не разглядеть, поэтому ИИ ищет их главные убежища — ежевичные заросли.Затем эти карты сопоставляют с данными GPS-трекеров,",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3234",
+      "image_url": "https://cdn4.telesco.pe/file/SkLLw02wcpMKLdnDQWlKHEIJl1_tr8GLux6WzVE_wxLkPdtcqHRJOibxJH5knhwTAzSyiloYxj7mBEqmQe6WdTsEc0o-gk1PGNKQ-FMmEd5AJWb05I99cvn6zMA5icQ5j4sGIj2j2pUv_VtqHKy6AHzxotNKsA2jKkbhoMX05lqCv20eRYHGm1R0N3S5YerEYUTlplUAEKiznyLRDP0j16dv8GCdolHCAL4N8Owigm8yJSP2XfCK6sPPKnE_XzMHXv0s6pYRx3TgdGnjseW2FJOWS4CWWVqcD9j92QOLSnOVnImH5ClIueyEA4w8fAjPIvdsY-oxyYAtzN8FJLtC4g.jpg",
+      "pub_date": "2026-05-21T20:32:48+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-21T21:01:37.340Z",
+      "created_at": "2026-05-21T21:01:37.340Z"
     }
   ]
 }
