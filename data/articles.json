@@ -187414,7 +187414,7 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T08:41:32.080Z",
       "created_at": "2026-05-22T08:41:32.080Z"
     },
@@ -187576,7 +187576,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T08:41:37.389Z",
       "created_at": "2026-05-22T08:41:37.389Z"
     },
@@ -187644,7 +187644,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T08:41:37.438Z",
       "created_at": "2026-05-22T08:41:37.438Z"
     },
@@ -187661,7 +187661,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T08:41:37.821Z",
       "created_at": "2026-05-22T08:41:37.821Z"
     },
@@ -187678,7 +187678,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T08:41:38.153Z",
       "created_at": "2026-05-22T08:41:38.153Z"
     },
@@ -187699,7 +187699,7 @@
         "The Checkup"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T09:23:01.232Z",
       "created_at": "2026-05-22T09:23:01.232Z"
     },
@@ -187789,7 +187789,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T09:23:02.107Z",
       "created_at": "2026-05-22T09:23:02.107Z"
     },
@@ -187822,7 +187822,7 @@
         "US-China AI race"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T09:23:02.602Z",
       "created_at": "2026-05-22T09:23:02.602Z"
     },
@@ -187842,9 +187842,404 @@
         "Desktops"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T09:23:03.005Z",
       "created_at": "2026-05-22T09:23:03.005Z"
+    },
+    {
+      "id": 9050,
+      "source": "Ars Technica",
+      "title_en": "Rocket Report: Starship launch delayed, German launch company may aid Canada",
+      "description_en": "All eyes on South Texas for the latest Starship test flight.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/space/2026/05/rocket-report-starship-launch-delayed-german-launch-company-may-aid-canada/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/HIu9mKcWAAAmrHQ-1152x648.jpg",
+      "pub_date": "Fri, 22 May 2026 11:20:43 +0000",
+      "author": "\n                    Eric Berger\n                ",
+      "categories": [
+        "Space",
+        "rocket report",
+        "space"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T11:33:37.344Z",
+      "created_at": "2026-05-22T11:33:37.344Z"
+    },
+    {
+      "id": 9051,
+      "source": "Ars Technica",
+      "title_en": "The $58,000 TV bill: When DirecTV sued O.J. Simpson for piracy",
+      "description_en": "In 2001, the FBI raided O.J.'s house and found smartcards, bootloaders.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/05/the-58000-tv-bill-when-directv-sued-o-j-simpson-for-piracy/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-51985137-1152x648-1779298700.jpg",
+      "pub_date": "Fri, 22 May 2026 11:00:43 +0000",
+      "author": "\n                    Nate Anderson\n                ",
+      "categories": [
+        "Features",
+        "Policy",
+        "copyright",
+        "DIRECTV",
+        "OJ Simpson",
+        "piracy",
+        "satellite TV"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T11:33:37.345Z",
+      "created_at": "2026-05-22T11:33:37.345Z"
+    },
+    {
+      "id": 9052,
+      "source": "Ars Technica",
+      "title_en": "A hacker group is poisoning open source code at an unprecedented scale",
+      "description_en": "GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2270725355-1152x648.jpg",
+      "pub_date": "Fri, 22 May 2026 10:30:14 +0000",
+      "author": "\n                    Andy Greenberg and Lily Hay Newman, WIRED.com\n                ",
+      "categories": [
+        "Biz & IT",
+        "Security",
+        "GitHub",
+        "malware",
+        "open source",
+        "syndication",
+        "teampcp"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T11:33:37.345Z",
+      "created_at": "2026-05-22T11:33:37.345Z"
+    },
+    {
+      "id": 9053,
+      "source": "The Verge AI",
+      "title_en": "Samsung&#8217;s memory chip employees negotiated $340,000 bonuses this year",
+      "description_en": "48,000 Samsung workers had threatened to strike unless bonus caps were lifted. | Photo: Jung Yeon-je / AFP via Getty Images\t\n\nDetails have emerged about a tentative deal struck between Samsung and semiconductor employees who had threatened to strike. The deal reportedly makes some workers eligible for average annual bonuses of $340,000.\nThe proposed 18-day strike had hinged on Samsung's bonus cap for employees in the semiconductor division and followed a substantial rise in the possible bonuses ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus",
+      "image_url": null,
+      "pub_date": "2026-05-22T11:05:25.000Z",
+      "author": "Dominic Preston",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T11:33:37.376Z",
+      "created_at": "2026-05-22T11:33:37.376Z"
+    },
+    {
+      "id": 9054,
+      "source": "The Decoder",
+      "title_en": "Trump pulls AI safety order after last-minute calls from Musk, Zuckerberg, and Sacks",
+      "description_en": "Trump killed an executive order on AI safety at the last minute after calls from Elon Musk, Mark Zuckerberg, and former advisor David Sacks. The order would have created a voluntary review system for frontier models with a 90-day window before release.\nThe article Trump pulls AI safety order after last-minute calls from Musk, Zuckerberg, and Sacks appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/trump-pulls-ai-safety-order-after-last-minute-calls-from-musk-zuckerberg-and-sacks/",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 11:26:47 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Regulation",
+        "USA"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T11:33:38.512Z",
+      "created_at": "2026-05-22T11:33:38.512Z"
+    },
+    {
+      "id": 9055,
+      "source": "MIT Technology Review",
+      "title_en": "Google I/O showed how the path for AI-driven science is shifting",
+      "description_en": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically transforms the world. But what struck me as I listened in the…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 10:00:00 +0000",
+      "author": "Grace Huckins",
+      "categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "Summary"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T11:33:38.635Z",
+      "created_at": "2026-05-22T11:33:38.635Z"
+    },
+    {
+      "id": 9056,
+      "source": "The Guardian AI",
+      "title_en": "Trump postpones executive order on AI over China concerns – US politics live",
+      "description_en": "The US president said he doesn’t ‘want to do anything to get in the way’ of tech firms competing with China\nHouse Republicans canceled a scheduled Thursday vote on a war powers resolution aimed at ending the US war with Iran, a measure that likely would have advanced had the vote been held.\nDonald Trump has announced he will deploy an “additional” 5,000 US troops to Poland, just days after the Pentagon controversially halted a long-planned deployment of forces to the country – the largest on Nat",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/live/2026/may/22/donald-trump-ai-china-iran-war-powers-hormuz-latest-news-updates",
+      "image_url": "https://i.guim.co.uk/img/media/b1c9215e0b3fd5098d97828168578c0af50fcbf8/1077_0_6466_5173/master/6466.jpg?width=140&quality=85&auto=format&fit=max&s=ec30639c9a2e4d75ac34f8ddeef0ade2",
+      "pub_date": "Fri, 22 May 2026 11:24:51 GMT",
+      "author": "Morgan Ofori",
+      "categories": [
+        {
+          "_": "Donald Trump",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/donaldtrump"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Trump administration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/trump-administration"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T11:33:41.316Z",
+      "created_at": "2026-05-22T11:33:41.316Z"
+    },
+    {
+      "id": 9057,
+      "source": "The Guardian AI",
+      "title_en": "Standard Chartered boss apologises for ‘lower-value human capital’ comments amid job cuts",
+      "description_en": "Bill Winters faced backlash over remarks about some of near 80,000 staff set to lose roles to AI\nThe chief executive of Standard Chartered has apologised for referring to some of the almost 8,000 staff that are set to lose their jobs to artificial intelligence as “lower-value human capital”.\nBill Winters offered the apology after a backlash over comments he made earlier this week as the London-headquartered lender became one of the first major global banks to lay out plans to cut about 7,800 bac",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/may/22/standard-chartered-boss-apologises-for-lower-value-human-capital-comments-amid-job-cuts",
+      "image_url": "https://i.guim.co.uk/img/media/e594cdf26c42af843198701085d97b990d825fe4/767_356_1163_931/master/1163.jpg?width=140&quality=85&auto=format&fit=max&s=67afaeb865ea8a00f20850d125843b4e",
+      "pub_date": "Fri, 22 May 2026 10:51:11 GMT",
+      "author": "Mark Sweney",
+      "categories": [
+        {
+          "_": "Standard Chartered",
+          "$": {
+            "domain": "https://www.theguardian.com/business/standardchartered"
+          }
+        },
+        {
+          "_": "Banking",
+          "$": {
+            "domain": "https://www.theguardian.com/business/banking"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Europe",
+          "$": {
+            "domain": "https://www.theguardian.com/world/europe-news"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Job losses",
+          "$": {
+            "domain": "https://www.theguardian.com/business/job-losses"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T11:33:41.317Z",
+      "created_at": "2026-05-22T11:33:41.317Z"
+    },
+    {
+      "id": 9058,
+      "source": "AI News",
+      "title_en": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
+      "description_en": "OpenAI will open its first Applied AI Lab outside the US in Singapore. The lab is part of a new partnership with the Ministry of Digital Development and Information. The initiative, called OpenAI for Singapore, was announced at the ATx Summit and is backed by a commitment of more than S$300 million. The lab will […]\nThe post OpenAI opens Singapore AI lab as IMDA updates AI framework appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 10:00:00 +0000",
+      "author": "Muhammad Zulhusni",
+      "categories": [
+        "Governance, Regulation & Policy",
+        "Government & Public Sector AI",
+        "agentic ai",
+        "ai",
+        "engineering",
+        "openai",
+        "singapore"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T11:33:41.876Z",
+      "created_at": "2026-05-22T11:33:41.876Z"
+    },
+    {
+      "id": 9059,
+      "source": "AI News",
+      "title_en": "China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention",
+      "description_en": "Every major economy is staring at the same problem right now. Artificial intelligence is consuming electricity at a pace that grids were never designed to handle. In the US, capacity market prices in PJM, the country’s largest grid operator, have risen more than tenfold in two years, with data-centre growth identified as a primary driver. […]\nThe post China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 10:00:00 +0000",
+      "author": "Dashveenjit Kaur",
+      "categories": [
+        "Environment & Sustainability",
+        "alibaba",
+        "artificial intelligence",
+        "china",
+        "data centres",
+        "deep learning",
+        "energy",
+        "Geospatial AI",
+        "Grid Infrastructure",
+        "Renewable Energy",
+        "sustainability"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T11:33:41.876Z",
+      "created_at": "2026-05-22T11:33:41.876Z"
+    },
+    {
+      "id": 9060,
+      "source": "Tom's Hardware",
+      "title_en": "Save 30% on a 12-month Proton Unlimited sub to secure an all-in-one privacy suite for under $110 — big price drop on service that includes a no-logs VPN with servers across 145 countries, 500GB of cloud storage, encrypted mail, password manager, and more",
+      "description_en": "Grab a 30% saving on a 12 month subscription to Proton Unlimited for a limited time only.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/vpn/save-30-percent-on-a-12-month-proton-unlimited-sub-to-secure-an-all-in-one-privacy-suite-for-under-usd110-big-price-drop-on-service-that-includes-a-no-logs-vpn-with-servers-across-145-countries-500gb-of-cloud-storage-encrypted-mail-password-manager-and-more",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/YE2TBj72wzJCkmypXF6V77-1280-80.png",
+      "pub_date": "Fri, 22 May 2026 10:23:53 +0000",
+      "author": " Ben Stockton ",
+      "categories": [
+        "VPN",
+        "Software",
+        "Security Software"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T11:33:42.270Z",
+      "created_at": "2026-05-22T11:33:42.270Z"
+    },
+    {
+      "id": 9061,
+      "source": "CNBC Tech",
+      "title_en": "The Tech Download: What you might have missed in Nvidia’s earnings — a $200 billion opportunity and edge computing",
+      "description_en": "While Jensen Huang said the chip giant had \"conceded\" the China market, Nvidia reported another blockbuster quarter on Wednesday.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/22/the-tech-download-what-you-might-have-missed-in-nvidias-earnings.html",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 11:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T11:33:42.380Z",
+      "created_at": "2026-05-22T11:33:42.380Z"
+    },
+    {
+      "id": 9062,
+      "source": "CNBC Tech",
+      "title_en": "Mega-IPOs could signal market top, say analysts as SpaceX and OpenAI prep record floats",
+      "description_en": "SpaceX's IPO, expected on June 12, could mark the largest float in history.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/22/ipo-flurry-top-market-analysts-ai-spacex-musk-altman.html",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 10:20:05 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T11:33:42.380Z",
+      "created_at": "2026-05-22T11:33:42.380Z"
+    },
+    {
+      "id": 9063,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🌐 Топ-5 ИИ-бразуеров, которые стоит попробоватьОбычные браузеры просто показывают вам страницы. ИИ-браузеры сами ищут, анализируют и делают выводы за вас. 1️⃣ Perplexity CometИИ-поисковик Perplexity ",
+      "description_en": "🌐 Топ-5 ИИ-бразуеров, которые стоит попробоватьОбычные браузеры просто показывают вам страницы. ИИ-браузеры сами ищут, анализируют и делают выводы за вас. 1️⃣ Perplexity CometИИ-поисковик Perplexity встроен прямо в браузер. Он видит все открытые вкладки, может покупать товары, отправлять письма, бронировать и обобщать данные из разных источников, есть управление голосом.Доступен бесплатно — с подпиской можно использовать передовые модели, агентный режим и другие функции.2️⃣ BraveАссистент Leo у",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3236",
+      "image_url": "https://cdn4.telesco.pe/file/BXqDLTvuamUqv5dcyWnxHxg-Iaem7F27p6REXgtohJkXsQrDYb35nB27n3AMqGA1PThtHSKYobDTSWpQgAxO8OG-VOls-lYw0y-W-7-OfqvegDoF8OaqDM-YeqagwQaIWWrfIb0i3Qz2M4X7iDCms4xKlub7Z9MHIF5TwaXWDmReuM_vjtxvdp7cnS0MhXEc6mKPn1Nshg5yz9mUS0lV62Kovy5ce_WQxle1coYhtjumO_zD4uTF4hK6PxfsNxR6Hzrdl8Qn7VlXdq_Gh7klQAZcFhOXd1sHS2Z8ZvvjrbDMaOttQKf7PHz6vYkGcA9a5E3C8y2rKsEESCqEq0VZwQ.jpg",
+      "pub_date": "2026-05-22T11:27:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T11:33:45.880Z",
+      "created_at": "2026-05-22T11:33:45.880Z"
+    },
+    {
+      "id": 9064,
+      "source": "AI Post (TG)",
+      "title_en": "SpaceX is reportedly considering acquiring Cursor, an AI coding software company that recently reached an annualized sales rate of $3 billion. Cursor’s client base includes over 3,000 organizations, e",
+      "description_en": "SpaceX is reportedly considering acquiring Cursor, an AI coding software company that recently reached an annualized sales rate of $3 billion. Cursor’s client base includes over 3,000 organizations, each paying at least $100,000 per year. The deal could value Cursor at $60 billion, structured as an outright acquisition or with a $10 billion fee based on collaboration.Sources indicate SpaceX views AI tools like Cursor as a way to accelerate the engineering cycles behind its rockets, satellites, a",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6997",
+      "image_url": "https://cdn4.telesco.pe/file/lBSjfX-njQY8kwIm_DBEKtPSDdYWFXHsoRkQ3P97mH_jQY4RsoY87VGqiwrR-pgKcVe1DI4j8FmyVH8m_GgsL54z47hDOAQLVMAOZAuq6o7QS0b4EDSs2tPvbUohSarzRf4b6Kae0emvZM0QLq-FmAOLoMMnULmeJxAROjo_2HH7TAXXryt-BuvhCo9Fe75TGuPDlwMgUfmgKdukFYWSZQvo2XuOK52MuNCtdlMwHUcmAedAw2eAHZixTm1y4V5oiAzdpWJzbkBTRadB-HWTP2C1wYJ4kxE2gTzrGUgsGBBefe5y4O-53HEZSOFPaL3pe_d3VygPOwHwJk7_CF6haA.jpg",
+      "pub_date": "2026-05-22T11:15:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T11:33:46.128Z",
+      "created_at": "2026-05-22T11:33:46.128Z"
     }
   ]
 }
