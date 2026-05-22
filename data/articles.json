@@ -188935,7 +188935,7 @@
       "author": "Robert Hart",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T17:22:15.864Z",
       "created_at": "2026-05-22T17:22:15.864Z"
     },
@@ -188957,7 +188957,7 @@
         "Deepseek"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T17:22:17.241Z",
       "created_at": "2026-05-22T17:22:17.241Z"
     },
@@ -189328,6 +189328,23 @@
       "priority": "hot",
       "fetchedAt": "2026-05-22T19:10:12.354Z",
       "created_at": "2026-05-22T19:10:12.354Z"
+    },
+    {
+      "id": 9116,
+      "source": "New Atlas",
+      "title_en": "Soundcore's screen-equipped earbuds moonlight as a meeting note-taker",
+      "description_en": "Anker's audio hardware brand Soundcore has expanded its Liberty lineup of wireless earbuds with a new feature-packed model aimed at productivity nerds.\nContinue Reading\nCategory: Consumer Tech, Technology\nTags: Artificial Intelligence, Earbuds, Earphones, Translation",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/consumer-tech/soundcore-liberty-5-pro-max-buds/",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 19:30:00 GMT",
+      "author": "Abhimanyu Ghoshal",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T19:44:37.027Z",
+      "created_at": "2026-05-22T19:44:37.027Z"
     }
   ]
 }
