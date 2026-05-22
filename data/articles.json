@@ -189366,7 +189366,7 @@
         "Valuations"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T20:46:14.181Z",
       "created_at": "2026-05-22T20:46:14.181Z"
     },
@@ -189383,7 +189383,7 @@
       "author": "Atharva Gosavi",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T20:46:16.813Z",
       "created_at": "2026-05-22T20:46:16.813Z"
     },
@@ -189410,7 +189410,7 @@
         "Spotify"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T21:09:23.956Z",
       "created_at": "2026-05-22T21:09:23.956Z"
     },
@@ -189427,7 +189427,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T21:09:28.685Z",
       "created_at": "2026-05-22T21:09:28.685Z"
     },
@@ -189446,7 +189446,7 @@
         "Gift Guides and Seasonal Sales"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T21:09:28.885Z",
       "created_at": "2026-05-22T21:09:28.885Z"
     },
@@ -189463,7 +189463,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T21:09:31.927Z",
       "created_at": "2026-05-22T21:09:31.927Z"
     },
@@ -189480,7 +189480,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T21:09:32.817Z",
       "created_at": "2026-05-22T21:09:32.817Z"
     },
@@ -189497,7 +189497,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T21:09:32.817Z",
       "created_at": "2026-05-22T21:09:32.817Z"
     },
@@ -189514,7 +189514,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T21:37:47.269Z",
       "created_at": "2026-05-22T21:37:47.269Z"
     },
@@ -189534,7 +189534,7 @@
         "Tech"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T22:33:57.856Z",
       "created_at": "2026-05-22T22:33:57.856Z"
     },
@@ -189588,6 +189588,64 @@
       "priority": "hot",
       "fetchedAt": "2026-05-22T22:34:01.464Z",
       "created_at": "2026-05-22T22:34:01.464Z"
+    },
+    {
+      "id": 9130,
+      "source": "TechCrunch AI",
+      "title_en": "AI is being used to resurrect the voices of dead pilots",
+      "description_en": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 23:03:33 +0000",
+      "author": "Kirsten Korosec",
+      "categories": [
+        "AI",
+        "Transportation",
+        "crash",
+        "flight",
+        "In Brief",
+        "NTSB"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T23:45:43.021Z",
+      "created_at": "2026-05-22T23:45:43.021Z"
+    },
+    {
+      "id": 9131,
+      "source": "New Atlas",
+      "title_en": "Sub-teardrop Jeep tiny camper evolves as steel-on-steel adventure core",
+      "description_en": "Utah startup Addax Outdoors unleashed a rather unexpected micro-camping trailer on the floor of SEMA 2022. While rugged teardrop-sized trailers are par for the course at the high-flash auto supplier show, the original Addax Overland trailer was developed with a rare combination of military toughness and land speed record vehicle expertise. It sized in even tinier than the typical off-road tagalong and wore official \"Jeep\" badging. The rugged, little sub-teardrop Jeep trailer, now named the Basec",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/camping-trailers/jeep-off-road-tiny-camper/",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 23:07:00 GMT",
+      "author": "C.C. Weiss",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T23:45:44.775Z",
+      "created_at": "2026-05-22T23:45:44.775Z"
+    },
+    {
+      "id": 9132,
+      "source": "AI Post (TG)",
+      "title_en": "❗️Marc Andreessen just dropped a flood of AI predictions on Joe Rogan and some of them sound straight out of science fiction.Here are the biggest takeaways from the 3h+ conversation:• Andreessen says ",
+      "description_en": "❗️Marc Andreessen just dropped a flood of AI predictions on Joe Rogan and some of them sound straight out of science fiction.Here are the biggest takeaways from the 3h+ conversation:• Andreessen says AGI has effectively already arrived. He thinks models like GPT-5.5, Claude 4.6, Gemini 3, and Grok 4.3 crossed the line a few months ago, but the pace of progress is so fast nobody paused to notice.• He claims top AI models now outperform many real-world experts for most questions including people h",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7002",
+      "image_url": null,
+      "pub_date": "2026-05-22T23:07:04+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T23:45:48.160Z",
+      "created_at": "2026-05-22T23:45:48.160Z"
     }
   ]
 }
