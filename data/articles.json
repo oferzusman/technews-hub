@@ -188557,7 +188557,7 @@
       "author": "Gaby Del Valle",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T15:28:42.330Z",
       "created_at": "2026-05-22T15:28:42.330Z"
     },
@@ -188668,7 +188668,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T15:28:44.545Z",
       "created_at": "2026-05-22T15:28:44.545Z"
     },
@@ -188688,7 +188688,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T15:28:46.000Z",
       "created_at": "2026-05-22T15:28:46.000Z"
     },
@@ -188707,7 +188707,7 @@
         "Gift Guides and Seasonal Sales"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T15:28:46.000Z",
       "created_at": "2026-05-22T15:28:46.000Z"
     },
@@ -188727,7 +188727,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T15:28:46.000Z",
       "created_at": "2026-05-22T15:28:46.000Z"
     },
@@ -188921,6 +188921,105 @@
       "priority": "hot",
       "fetchedAt": "2026-05-22T16:29:55.582Z",
       "created_at": "2026-05-22T16:29:55.582Z"
+    },
+    {
+      "id": 9097,
+      "source": "The Verge AI",
+      "title_en": "Elon, stop trying to make Grok happen",
+      "description_en": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barely appears in federal records of how the US government used AI last year. It's not the only sign xAI's signature chatbot is in trouble, even as Musk puts it at the heart of what could be the biggest IPO in history.\nReuters reviewed more than 400 examples of government AI use where specific vendors we",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
+      "image_url": null,
+      "pub_date": "2026-05-22T17:17:06.000Z",
+      "author": "Robert Hart",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T17:22:15.864Z",
+      "created_at": "2026-05-22T17:22:15.864Z"
+    },
+    {
+      "id": 9098,
+      "source": "The Decoder",
+      "title_en": "Deepseek reportedly prioritizes AGI research over quick profits despite billions in funding",
+      "description_en": "Deepseek is about to raise around $10 billion, which would value the Chinese AI startup at roughly $45 billion. Founder Liang Wenfeng is telling investors he's putting AGI research ahead of short-term profits.\nThe article Deepseek reportedly prioritizes AGI research over quick profits despite billions in funding appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/deepseek-reportedly-prioritizes-agi-research-over-quick-profits-despite-billions-in-funding/",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 17:18:58 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Deepseek"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T17:22:17.241Z",
+      "created_at": "2026-05-22T17:22:17.241Z"
+    },
+    {
+      "id": 9099,
+      "source": "The Decoder",
+      "title_en": "OpenAI Appshots turn any Mac window into context for Codex",
+      "description_en": "With the new Codex feature Appshots, Mac users can send the contents of any app window to OpenAI's coding assistant Codex at the press of a button, giving it the context it needs for a task.\nThe article OpenAI Appshots turn any Mac window into context for Codex appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-appshots-turn-any-mac-window-into-context-for-codex/",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 16:56:20 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Codex"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T17:22:17.241Z",
+      "created_at": "2026-05-22T17:22:17.241Z"
+    },
+    {
+      "id": 9100,
+      "source": "Interesting Engineering",
+      "title_en": "China’s perovskite-silicon solar cell retains 90% efficiency after 1,000 hours",
+      "description_en": "Scientists in China have developed a new passivation method that has resulted in the design...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/china-perovskite-silicon-solar-cell",
+      "image_url": "https://www.youtube.com/embed/ts1a4fxcwgs",
+      "pub_date": "Fri, 22 May 2026 16:57:38 +0000",
+      "author": "Georgina Jedikovska",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T17:22:18.789Z",
+      "created_at": "2026-05-22T17:22:18.789Z"
+    },
+    {
+      "id": 9101,
+      "source": "Tom's Hardware",
+      "title_en": "Class-action price-fixing lawsuit targets hard drive component makers as costs skyrocket — 13-year scheme allegedly drove up prices for major HDD brands",
+      "description_en": "Class-action lawsuit filed against HDD suspension assembly makers",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/hdds/class-action-price-fixing-lawsuit-targets-hard-drive-component-makers-as-costs-skyrocket-13-year-scheme-allegedly-drove-up-prices-for-major-hdd-brands",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/QBrRzDRS6ePUCvwuoY83uE-1280-80.jpg",
+      "pub_date": "Fri, 22 May 2026 16:30:27 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "HDDs",
+        "PC Components",
+        "Storage"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T17:22:20.388Z",
+      "created_at": "2026-05-22T17:22:20.388Z"
     }
   ]
 }
