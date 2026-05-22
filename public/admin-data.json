@@ -1,9 +1,9 @@
 {
-  "total": 9125,
+  "total": 9129,
   "translated": 8824,
-  "untranslated": 301,
-  "today": 109,
-  "week": 834,
+  "untranslated": 305,
+  "today": 113,
+  "week": 838,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 659,
+      "total": 660,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -31,13 +31,13 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 475,
+      "total": 476,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 410,
+      "total": 411,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -61,7 +61,7 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 338,
+      "total": 339,
       "translated": 334,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-22T21:57:09.444Z"
+  "generatedAt": "2026-05-22T22:35:59.002Z"
 }
