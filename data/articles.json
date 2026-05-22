@@ -188318,7 +188318,7 @@
         "USA"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T13:58:26.474Z",
       "created_at": "2026-05-22T13:58:26.474Z"
     },
@@ -188415,7 +188415,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T13:58:27.235Z",
       "created_at": "2026-05-22T13:58:27.235Z"
     },
@@ -188452,7 +188452,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T13:58:29.172Z",
       "created_at": "2026-05-22T13:58:29.172Z"
     },
@@ -188506,7 +188506,7 @@
       "author": "Michel Valenzuela",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T13:58:29.675Z",
       "created_at": "2026-05-22T13:58:29.675Z"
     },
@@ -188540,7 +188540,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T13:58:30.547Z",
       "created_at": "2026-05-22T13:58:30.547Z"
     },
@@ -188574,7 +188574,7 @@
       "author": "Terrence O’Brien",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T15:28:42.330Z",
       "created_at": "2026-05-22T15:28:42.330Z"
     },
@@ -188599,7 +188599,7 @@
         "truth"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T15:28:42.752Z",
       "created_at": "2026-05-22T15:28:42.752Z"
     },
@@ -188621,7 +188621,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T15:28:43.664Z",
       "created_at": "2026-05-22T15:28:43.664Z"
     },
@@ -188730,6 +188730,197 @@
       "priority": "hot",
       "fetchedAt": "2026-05-22T15:28:46.000Z",
       "created_at": "2026-05-22T15:28:46.000Z"
+    },
+    {
+      "id": 9087,
+      "source": "TechCrunch AI",
+      "title_en": "You can no longer Google the word ‘disregard’",
+      "description_en": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 16:16:48 +0000",
+      "author": "Russell Brandom",
+      "categories": [
+        "AI",
+        "Google Search",
+        "AI summaries"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T16:29:50.751Z",
+      "created_at": "2026-05-22T16:29:50.751Z"
+    },
+    {
+      "id": 9088,
+      "source": "TechCrunch AI",
+      "title_en": "We tried Google’s AI glasses and they’re almost there",
+      "description_en": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 15:37:15 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "AI",
+        "Gadgets",
+        "Hardware",
+        "TC",
+        "Android XR",
+        "android xr glasses",
+        "gemini glasses",
+        "Google",
+        "google glasses"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T16:29:50.751Z",
+      "created_at": "2026-05-22T16:29:50.751Z"
+    },
+    {
+      "id": 9089,
+      "source": "The Verge AI",
+      "title_en": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
+      "description_en": "Google's AI Overviews are running into an interesting problem right now. As of this writing, if you search for the term \"disregard,\" instead of showing the usual AI-generated summary of search results, the AI Overview section instead includes a response like what you'd see from a more traditional AI chatbot, as called out by a post on X.\nTo one Verge colleague searching \"disregard\":\nGot it! Let me know if you need help with anything else.\nNothing else followed in the AI Overview portion of the r",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+      "image_url": null,
+      "pub_date": "2026-05-22T16:01:17.000Z",
+      "author": "Jay Peters",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T16:29:50.772Z",
+      "created_at": "2026-05-22T16:29:50.772Z"
+    },
+    {
+      "id": 9090,
+      "source": "OpenAI Blog",
+      "title_en": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "description_en": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "AI Adoption"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-22T16:29:52.609Z",
+      "created_at": "2026-05-22T16:29:52.609Z"
+    },
+    {
+      "id": 9091,
+      "source": "Interesting Engineering",
+      "title_en": "China tests humanoid robots in tea farms before the 2026 World Robot Games",
+      "description_en": "Humanoid robots have moved from lab demos to running tracks and now into tea fields...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/china-tests-humanoid-robots-in-tea-farms-before-the-2026-world-robot-games",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 16:23:18 +0000",
+      "author": "Aditya Jadhav",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T16:29:53.532Z",
+      "created_at": "2026-05-22T16:29:53.532Z"
+    },
+    {
+      "id": 9092,
+      "source": "Interesting Engineering",
+      "title_en": "Havoc Spear: US unveils new air-launched cruise missile with 460-mile-range",
+      "description_en": "The United States Air Force Special Operations Command (AFSOC) has publicly unveiled a new cruise...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-air-force-havoc-spear-cruise-missile",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 16:06:42 +0000",
+      "author": "Abhishek Bhardwaj",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T16:29:53.533Z",
+      "created_at": "2026-05-22T16:29:53.533Z"
+    },
+    {
+      "id": 9093,
+      "source": "Interesting Engineering",
+      "title_en": "100 hours of stability: New hydrogen catalyst uses ‘hidden oxygen’ to ditch precious metals",
+      "description_en": "A research team from Sungkyunkwan University and Kyungpook National University has developed a non-precious metal...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/hydrogen-catalyst-uses-hidden-oxygen",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 15:55:26 +0000",
+      "author": "Aman Tripathi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T16:29:53.533Z",
+      "created_at": "2026-05-22T16:29:53.533Z"
+    },
+    {
+      "id": 9094,
+      "source": "Interesting Engineering",
+      "title_en": "UK military deploys low-cost laser-guided rockets to destroy drones with precision defense",
+      "description_en": "The Royal Air Force has started deploying a low-cost laser-guided counter-drone weapon on its Eurofighter...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/laser-guided-rockets-for-anti-drone-missions",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 15:42:04 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T16:29:53.533Z",
+      "created_at": "2026-05-22T16:29:53.533Z"
+    },
+    {
+      "id": 9095,
+      "source": "Tom's Hardware",
+      "title_en": "Chinese memory maker CXMT enters the mainstream consumer memory with Corsair Vengeance DDR5 kit — Chinese-made DRAM emerges as an antidote for crushing shortages",
+      "description_en": "Is the answer to the RAM crisis Chinese-made DRAM that's much cheaper to source since those companies aren't tied up in AI data center contracts? It's too early to say yet, but when a manufacturer as big as Corsair starts using DDR5 modules from ChangXing Memory Technologies (CXMT), that notion gains a lot of merit.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ddr5/chinese-memory-maker-cxmt-enters-the-mainstream-consumer-memory-with-corsair-vengeance-ddr5-kit-chinese-made-dram-emerges-as-an-antidote-for-crushing-shortages",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4ooHVFYv9eGQp5U6CY7T2c-1280-80.jpg",
+      "pub_date": "Fri, 22 May 2026 15:45:08 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "DDR5",
+        "PC Components",
+        "RAM",
+        "DRAM"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T16:29:54.214Z",
+      "created_at": "2026-05-22T16:29:54.214Z"
+    },
+    {
+      "id": 9096,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🌐 Top 5 AI Browsers You Should TryRegular browsers just show you pages. AI browsers search, analyze, and draw conclusions for you.1️⃣ Perplexity CometThe Perplexity AI search engine is built right in",
+      "description_en": "🌐 Top 5 AI Browsers You Should TryRegular browsers just show you pages. AI browsers search, analyze, and draw conclusions for you.1️⃣ Perplexity CometThe Perplexity AI search engine is built right into the browser. It sees all your open tabs, can shop online, send emails, make reservations, and summarize data from multiple sources. Voice control is also available.Free to use—a subscription unlocks advanced models, agent mode, and other features.2️⃣ BraveThe Leo assistant can read websites, PDFs",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2536",
+      "image_url": "https://cdn4.telesco.pe/file/eQLeJP4HlcGB1cHlstCclh8rJhIANVWgbu0-V3HRF69OL1GMsQxWyLRdHIbKZ-WCffs3x0eV1Ehge0_QWOCmCLorSpthf5Qc6V5Nztiw_tBq8YK4G1oQYIGuIznd76pqNbAcoX7FfWW865t8FoCj8U48l9DdgFAojdFu46Ak3G7QJJLrZpKb9krCnT-vUUlDWosXL2ZVYSHAUZZPOJ1jkujQfCTUOjXUkzLqK11VPGKQ7nARFfKGQfXhP7G135MED7jxaYgkKe3ZgolfHVCuUgAMM6Era7jNLQtXEhMBP67AwqGn7tpsH9bItsu3sALI9OcmFhebnPeDljWKyeIWMA.jpg",
+      "pub_date": "2026-05-22T16:18:41+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T16:29:55.582Z",
+      "created_at": "2026-05-22T16:29:55.582Z"
     }
   ]
 }
