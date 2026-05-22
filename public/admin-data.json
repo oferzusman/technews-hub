@@ -1,9 +1,9 @@
 {
-  "total": 9049,
+  "total": 9064,
   "translated": 8824,
-  "untranslated": 225,
-  "today": 33,
-  "week": 758,
+  "untranslated": 240,
+  "today": 48,
+  "week": 773,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,7 +13,7 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 672,
+      "total": 673,
       "translated": 652,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
@@ -31,21 +31,21 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 471,
+      "total": 473,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
+    },
+    {
+      "name": "Ars Technica",
+      "total": 404,
+      "translated": 394,
+      "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
       "name": "TechCrunch AI",
       "total": 402,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
-    },
-    {
-      "name": "Ars Technica",
-      "total": 401,
-      "translated": 394,
-      "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
       "name": "New Atlas",
@@ -55,7 +55,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 350,
+      "total": 351,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -79,15 +79,15 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 273,
+      "total": 275,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
       "name": "The Verge AI",
-      "total": 243,
+      "total": 244,
       "translated": 231,
-      "lastDate": "2026-05-21T20:00:06.000Z"
+      "lastDate": "2026-05-22T11:05:25.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -97,13 +97,13 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 183,
+      "total": 184,
       "translated": 168,
-      "lastDate": "2026-05-22T08:09:01+00:00"
+      "lastDate": "2026-05-22T11:15:00+00:00"
     },
     {
       "name": "MIT Technology Review",
-      "total": 140,
+      "total": 141,
       "translated": 135,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
@@ -127,7 +127,7 @@
     },
     {
       "name": "AI News",
-      "total": 83,
+      "total": 85,
       "translated": 81,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
@@ -151,9 +151,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 69,
+      "total": 70,
       "translated": 63,
-      "lastDate": "2026-05-22T06:28:53+00:00"
+      "lastDate": "2026-05-22T11:27:00+00:00"
     },
     {
       "name": "Github.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-22T10:00:55.257Z"
+  "generatedAt": "2026-05-22T11:45:41.988Z"
 }
