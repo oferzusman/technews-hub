@@ -1,9 +1,9 @@
 {
-  "total": 9025,
+  "total": 9029,
   "translated": 8824,
-  "untranslated": 201,
-  "today": 9,
-  "week": 734,
+  "untranslated": 205,
+  "today": 13,
+  "week": 738,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 648,
+      "total": 649,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -97,9 +97,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 181,
+      "total": 182,
       "translated": 168,
-      "lastDate": "2026-05-22T02:16:01+00:00"
+      "lastDate": "2026-05-22T05:50:03+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -145,15 +145,15 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 71,
+      "total": 72,
       "translated": 68,
-      "lastDate": "2026-05-21T21:13:47+00:00"
+      "lastDate": "2026-05-22T06:12:04+00:00"
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 68,
+      "total": 69,
       "translated": 63,
-      "lastDate": "2026-05-21T20:32:48+00:00"
+      "lastDate": "2026-05-22T06:28:53+00:00"
     },
     {
       "name": "Github.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-22T05:49:29.731Z"
+  "generatedAt": "2026-05-22T06:39:11.911Z"
 }
