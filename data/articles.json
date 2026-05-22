@@ -189073,7 +189073,7 @@
         "Stainless"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T18:17:46.095Z",
       "created_at": "2026-05-22T18:17:46.095Z"
     },
@@ -189218,7 +189218,7 @@
         "VPN"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T19:10:05.601Z",
       "created_at": "2026-05-22T19:10:05.601Z"
     },
@@ -189308,7 +189308,7 @@
         "Uncategorized"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T19:10:07.107Z",
       "created_at": "2026-05-22T19:10:07.108Z"
     },
@@ -189325,7 +189325,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T19:10:12.354Z",
       "created_at": "2026-05-22T19:10:12.354Z"
     },
@@ -189345,6 +189345,47 @@
       "priority": "hot",
       "fetchedAt": "2026-05-22T19:44:37.027Z",
       "created_at": "2026-05-22T19:44:37.027Z"
+    },
+    {
+      "id": 9117,
+      "source": "TechCrunch AI",
+      "title_en": "How VCs and founders use inflated ‘ARR’ to kingmake AI startups",
+      "description_en": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 20:40:48 +0000",
+      "author": "Marina Temkin",
+      "categories": [
+        "AI",
+        "Startups",
+        "Venture",
+        "annual recurring revenue",
+        "Exclusive",
+        "Valuations"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T20:46:14.181Z",
+      "created_at": "2026-05-22T20:46:14.181Z"
+    },
+    {
+      "id": 9118,
+      "source": "Interesting Engineering",
+      "title_en": "Google joins Japanese robotics giant to power next-gen autonomous factory robots",
+      "description_en": "Google has joined hands with Japanese robotics giant FANUC America Corporation to advance Physical AI...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/google-fanuc-physical-ai-industrial-robots",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 20:40:14 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T20:46:16.813Z",
+      "created_at": "2026-05-22T20:46:16.813Z"
     }
   ]
 }
