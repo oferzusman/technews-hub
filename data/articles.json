@@ -187525,7 +187525,7 @@
       "author": "Matt Gordon",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T08:41:36.675Z",
       "created_at": "2026-05-22T08:41:36.675Z"
     },
@@ -187593,7 +187593,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T08:41:37.415Z",
       "created_at": "2026-05-22T08:41:37.415Z"
     },
@@ -187610,7 +187610,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T08:41:37.437Z",
       "created_at": "2026-05-22T08:41:37.437Z"
     },
@@ -187681,6 +187681,170 @@
       "priority": "hot",
       "fetchedAt": "2026-05-22T08:41:38.153Z",
       "created_at": "2026-05-22T08:41:38.153Z"
+    },
+    {
+      "id": 9046,
+      "source": "MIT Technology Review",
+      "title_en": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
+      "description_en": "This Sunday, a group of 42 athletes will gather in Las Vegas to compete in a somewhat unusual sporting competition. Participants in the inaugural Enhanced Games are being encouraged to take performance-enhancing drugs. The goal is to “push the boundaries of human performance.” The games’ organizers have said that competitors will only be taking substances that…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 09:00:00 +0000",
+      "author": "Jessica Hamzelou",
+      "categories": [
+        "Biotechnology and health",
+        "App",
+        "The Checkup"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T09:23:01.232Z",
+      "created_at": "2026-05-22T09:23:01.232Z"
+    },
+    {
+      "id": 9047,
+      "source": "The Guardian AI",
+      "title_en": "Mars colony and Grok warnings: five strange details in SpaceX’s pitch to investors",
+      "description_en": "IPO filing from Elon Musk’s company reveals closer look at finances, cosmic ambitions and tech empire’s quirks\nSpaceX publicly released an investor prospectus on Wednesday as part of its plan for a $1.75tn debut on the US stock market next month, revealing unseen details about the finances and future plans of Elon Musk’s flagship company. In addition to new information on operating costs and revenue, the filing also included trademark Muskian sweeping proclamations about the universe and insight",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/22/spacex-ipo-filing-details",
+      "image_url": "https://i.guim.co.uk/img/media/1ebb58dcff431a5d69cd1f2faa3b41f153d165ea/462_0_3076_2462/master/3076.jpg?width=140&quality=85&auto=format&fit=max&s=a5a7505ec999945e10780db8fab119e8",
+      "pub_date": "Fri, 22 May 2026 09:00:55 GMT",
+      "author": "Nick Robins-Early",
+      "categories": [
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "SpaceX",
+          "$": {
+            "domain": "https://www.theguardian.com/science/spacex"
+          }
+        },
+        {
+          "_": "Space",
+          "$": {
+            "domain": "https://www.theguardian.com/science/space"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "Science",
+          "$": {
+            "domain": "https://www.theguardian.com/science/science"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Tesla",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/tesla"
+          }
+        },
+        {
+          "_": "Mars",
+          "$": {
+            "domain": "https://www.theguardian.com/science/mars"
+          }
+        },
+        {
+          "_": "The moon",
+          "$": {
+            "domain": "https://www.theguardian.com/science/moon"
+          }
+        },
+        {
+          "_": "Grok AI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/grok-ai"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T09:23:02.107Z",
+      "created_at": "2026-05-22T09:23:02.107Z"
+    },
+    {
+      "id": 9048,
+      "source": "AI News",
+      "title_en": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
+      "description_en": "The ceremony was scheduled. The CEOs were on the guest list. And then it wasn’t happening. On Thursday, US President Donald Trump scrapped a planned AI executive order, which had already been delayed multiple times, citing concerns that it might erode America’s competitive edge over China. “We’re leading China, we’re leading everybody, and I don’t […]\nThe post Musk and Zuckerberg convinced Trump to scrap AI executive order appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 09:00:00 +0000",
+      "author": "Dashveenjit Kaur",
+      "categories": [
+        "Artificial Intelligence",
+        "ai",
+        "ai governance",
+        "AI policy",
+        "ai regulation",
+        "anthropic",
+        "artificial intelligence",
+        "David Sacks",
+        "elon musk",
+        "executive order",
+        "government",
+        "mark zuckerberg",
+        "openai",
+        "trump",
+        "US-China AI race"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T09:23:02.602Z",
+      "created_at": "2026-05-22T09:23:02.602Z"
+    },
+    {
+      "id": 9049,
+      "source": "Tom's Hardware",
+      "title_en": "Save up to $350 on an iBuyPower gaming PC in this massive Memorial Day sale — use the coupon code to secure a high-spec pre-built rig or configure your own with AMD, Nvidia, and Intel parts",
+      "description_en": "iBuyPower's Memorial Day sale on gaming PCs is here, with extra savings of up to $350 until May 26.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-up-to-usd350-on-an-ibuypower-gaming-pc-in-this-massive-memorial-day-sale-use-the-coupon-code-to-secure-a-high-spec-pre-built-rig-or-configure-your-own-with-amd-nvidia-and-intel-parts",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Ko8C9J2dXJBdttgjaktzXR-1280-80.png",
+      "pub_date": "Fri, 22 May 2026 09:00:00 +0000",
+      "author": " Ben Stockton ",
+      "categories": [
+        "Gaming PCs",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T09:23:03.005Z",
+      "created_at": "2026-05-22T09:23:03.005Z"
     }
   ]
 }
