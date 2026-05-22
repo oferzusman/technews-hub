@@ -189517,6 +189517,77 @@
       "priority": "hot",
       "fetchedAt": "2026-05-22T21:37:47.269Z",
       "created_at": "2026-05-22T21:37:47.269Z"
+    },
+    {
+      "id": 9126,
+      "source": "Ars Technica",
+      "title_en": "First-generation Chromecast users stressed by devices suddenly failing",
+      "description_en": "Google tells Ars it fixed the first-gen Chromecast bug.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1470646299-1152x648-1779483037.jpg",
+      "pub_date": "Fri, 22 May 2026 21:42:59 +0000",
+      "author": "\n                    Scharon Harding\n                ",
+      "categories": [
+        "Google",
+        "Tech"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T22:33:57.856Z",
+      "created_at": "2026-05-22T22:33:57.856Z"
+    },
+    {
+      "id": 9127,
+      "source": "OpenAI Blog",
+      "title_en": "How Virgin Atlantic ships faster with Codex",
+      "description_en": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/virgin-atlantic",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-22T22:33:59.638Z",
+      "created_at": "2026-05-22T22:33:59.638Z"
+    },
+    {
+      "id": 9128,
+      "source": "Interesting Engineering",
+      "title_en": "Project Glasswing: Anthropic says Claude found 10,000 critical software flaws in a month",
+      "description_en": "Anthropic says its cybersecurity initiative Project Glasswing has helped uncover more than 10,000 high- and...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/anthropic-project-glasswing-10000-software-vulnerabilities",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 22:11:08 +0000",
+      "author": "Neetika Walter",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T22:34:00.606Z",
+      "created_at": "2026-05-22T22:34:00.606Z"
+    },
+    {
+      "id": 9129,
+      "source": "CNBC Tech",
+      "title_en": "SpaceX will retry Starship test flight after scrubbing prior launch",
+      "description_en": "SpaceX aims to launch its massive Starship rocket on Friday, a day after the company scrubbed plans before takeoff.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/22/spacex-prepares-another-attempt-at-starship-launch-after-prior-scrub.html",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 21:52:11 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T22:34:01.464Z",
+      "created_at": "2026-05-22T22:34:01.464Z"
     }
   ]
 }
