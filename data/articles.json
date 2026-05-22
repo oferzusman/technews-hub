@@ -187863,7 +187863,7 @@
         "space"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T11:33:37.344Z",
       "created_at": "2026-05-22T11:33:37.344Z"
     },
@@ -187888,7 +187888,7 @@
         "satellite TV"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T11:33:37.345Z",
       "created_at": "2026-05-22T11:33:37.345Z"
     },
@@ -187913,7 +187913,7 @@
         "teampcp"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T11:33:37.345Z",
       "created_at": "2026-05-22T11:33:37.345Z"
     },
@@ -187930,7 +187930,7 @@
       "author": "Dominic Preston",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T11:33:37.376Z",
       "created_at": "2026-05-22T11:33:37.376Z"
     },
@@ -187952,7 +187952,7 @@
         "USA"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T11:33:38.512Z",
       "created_at": "2026-05-22T11:33:38.512Z"
     },
@@ -188028,7 +188028,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T11:33:41.316Z",
       "created_at": "2026-05-22T11:33:41.316Z"
     },
@@ -188094,7 +188094,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T11:33:41.317Z",
       "created_at": "2026-05-22T11:33:41.317Z"
     },
@@ -188169,7 +188169,7 @@
         "Security Software"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T11:33:42.270Z",
       "created_at": "2026-05-22T11:33:42.270Z"
     },
@@ -188186,7 +188186,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T11:33:42.380Z",
       "created_at": "2026-05-22T11:33:42.380Z"
     },
@@ -188203,7 +188203,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T11:33:42.380Z",
       "created_at": "2026-05-22T11:33:42.380Z"
     },
@@ -188220,7 +188220,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T11:33:45.880Z",
       "created_at": "2026-05-22T11:33:45.880Z"
     },
@@ -188237,7 +188237,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T11:33:46.128Z",
       "created_at": "2026-05-22T11:33:46.128Z"
     },
@@ -188261,7 +188261,7 @@
         "USPSTF"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T12:04:37.467Z",
       "created_at": "2026-05-22T12:04:37.467Z"
     },
@@ -188278,7 +188278,7 @@
       "author": "Atharva Gosavi",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T12:04:40.249Z",
       "created_at": "2026-05-22T12:04:40.249Z"
     },
@@ -188295,9 +188295,254 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T12:04:44.779Z",
       "created_at": "2026-05-22T12:04:44.779Z"
+    },
+    {
+      "id": 9068,
+      "source": "The Decoder",
+      "title_en": "California governor signs first US executive order to protect workers from AI job loss",
+      "description_en": "California's governor just signed the first executive order by a US governor aimed at protecting workers from AI-driven job loss.\nThe article California governor signs first US executive order to protect workers from AI job loss appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/california-governor-signs-first-us-executive-order-to-protect-workers-from-ai-job-loss/",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 13:36:27 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "Regulation",
+        "USA"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T13:58:26.474Z",
+      "created_at": "2026-05-22T13:58:26.474Z"
+    },
+    {
+      "id": 9069,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code with Claude, attendees were asked if they’d shipped code…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 12:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T13:58:26.603Z",
+      "created_at": "2026-05-22T13:58:26.603Z"
+    },
+    {
+      "id": 9070,
+      "source": "The Guardian AI",
+      "title_en": "Palantir hits back at Sadiq Khan after £50m contract with Met police blocked",
+      "description_en": "London mayor accused of ‘putting politics above public safety’ for rejecting deal to use AI in intelligence analysis\n\nUK politics live – latest updates\n\nPalantir has accused Sadiq Khan of “putting politics above public safety” after the London mayor blocked its £50m contract with the Metropolitan police in a move that has also led to tensions inside Labour over its involvement with the US tech company.\nLouis Mosley, who heads Palantir in the UK and Europe, accused Khan of politicising procuremen",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/22/palantir-hits-back-sadiq-khan-contract-met-police-blocked",
+      "image_url": "https://i.guim.co.uk/img/media/4db7bfacb800f63f849445b5aa153c86c70e5b96/218_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=20da4ee9196dffac0dbcd49916bfec36",
+      "pub_date": "Fri, 22 May 2026 13:45:37 GMT",
+      "author": "Robert Booth UK technology editor",
+      "categories": [
+        {
+          "_": "Palantir",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/palantir"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Metropolitan police",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/metropolitan-police"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Police",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/police"
+          }
+        },
+        {
+          "_": "London",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/london"
+          }
+        },
+        {
+          "_": "Sadiq Khan",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/sadiq-khan"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Crime",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/ukcrime"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T13:58:27.235Z",
+      "created_at": "2026-05-22T13:58:27.235Z"
+    },
+    {
+      "id": 9071,
+      "source": "Interesting Engineering",
+      "title_en": "UK’s Humanoid partners with Bosch to mass-produce HMND robots for industries",
+      "description_en": "London-based robotics company Humanoid has partnered with German firm Bosch to scale production of its...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/uk-humanoid-bosch-industrial-robot",
+      "image_url": "https://www.youtube.com/embed/I1KdmuAtp9g",
+      "pub_date": "Fri, 22 May 2026 12:44:22 +0000",
+      "author": "Jijo Malayil",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T13:58:28.925Z",
+      "created_at": "2026-05-22T13:58:28.925Z"
+    },
+    {
+      "id": 9072,
+      "source": "Tom's Hardware",
+      "title_en": "AI is starting to out-design chip engineers in narrow areas as LLMs accelerate software chip design tool development — \"There is still a lot of human guidance\" says Berkley researcher",
+      "description_en": "We interview researchers and chip design experts to explore where and how AI is being used during the process, and what trials and tribulations come alongside the usage of the nascent technology in their workflows.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-is-starting-to-out-design-chip-engineers-in-narrow-areas-as-llms-accelerate-software-chip-design-tool-development-there-is-still-a-lot-of-human-guidance-says-berkley-researcher",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/sasCqBvGGnXxAiSsx5yMwL-1280-80.jpg",
+      "pub_date": "Fri, 22 May 2026 13:51:51 +0000",
+      "author": " Chris Stokel-Walker ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T13:58:29.172Z",
+      "created_at": "2026-05-22T13:58:29.172Z"
+    },
+    {
+      "id": 9073,
+      "source": "Tom's Hardware",
+      "title_en": "Acer Nitro 65 review: Solid gaming performance, but skimping on some features",
+      "description_en": "The Nitro 65 excels in gaming, but it’s an AIO cooler away from being a truly excellent rig.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/acer-nitro-65-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ZVzUWfcx95NL9c59NXqWTR-1280-80.jpg",
+      "pub_date": "Fri, 22 May 2026 13:00:00 +0000",
+      "author": " Brandon Hill ",
+      "categories": [
+        "Gaming PCs",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T13:58:29.172Z",
+      "created_at": "2026-05-22T13:58:29.172Z"
+    },
+    {
+      "id": 9074,
+      "source": "CNBC Tech",
+      "title_en": "Microsoft’s GitHub was positioned to win the AI coding race. Outages got in the way",
+      "description_en": "GitHub's user base has swelled under Microsoft's ownership, but the software repository has fallen behind newer rivals in the world of vibe coding.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/22/microsoft-was-positioned-to-win-in-ai-coding-outages-got-in-the-way.html",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 12:22:20 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T13:58:29.312Z",
+      "created_at": "2026-05-22T13:58:29.312Z"
+    },
+    {
+      "id": 9075,
+      "source": "Product Hunt",
+      "title_en": "Nota: AI Notes & Voice",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/nota-ai-notes-voice",
+      "image_url": null,
+      "pub_date": "2026-05-22T13:47:02.000Z",
+      "author": "Michel Valenzuela",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T13:58:29.675Z",
+      "created_at": "2026-05-22T13:58:29.675Z"
+    },
+    {
+      "id": 9076,
+      "source": "XOR Journal (TG)",
+      "title_en": "Просто попробуй: в «Школе 21» от Сбера можно зайти в ИТ с нуля и бесплатно.И это не шутка. А еще внутри нет лекций и оценок — только практика и реальные задачи. При этом половина участников начинают б",
+      "description_en": "Просто попробуй: в «Школе 21» от Сбера можно зайти в ИТ с нуля и бесплатно.И это не шутка. А еще внутри нет лекций и оценок — только практика и реальные задачи. При этом половина участников начинают без опыта — и успешно входят в ИТ.Залетаем в 21-school.ru ⌨️Реклама. Заказчик АНО «Школа 21» ИНН 7736316133",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9338",
+      "image_url": "https://cdn4.telesco.pe/file/eT3FpNzSjApLWIQWw8k5JTKvx6rKCtrFL7lXWC4IVdQKwr_wGdWBOfi5jkzN84p04mJsR3NGHxlxtdmmo_a8E6DWHDqd1C3EGqJwSHKJkR9cGpBCMfvQIt6DXIxrep7-KRcDbMCC9kcvbHCut57wviKaQtB7MNjLeyr0Xut7yxX65v3MWHAA9aJrNToJNZdwwFexDFue_p3F5qgUWUU6DDnYYoflm-POziBlBS-lwczV2ri4wBnjgIma30b22RHcG3WknU5-PrJSLAaIq5nvTTKfhySb_z0b7lchILX_NZJAnWhZ4-F_gFvuOwWyT-Gr2kf6tJVHKRrsiFSmOVOuDg.jpg",
+      "pub_date": "2026-05-22T12:35:12+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T13:58:30.547Z",
+      "created_at": "2026-05-22T13:58:30.547Z"
+    },
+    {
+      "id": 9077,
+      "source": "XOR Journal (TG)",
+      "title_en": "Типичный CEO в 2026 😖@xor_journal",
+      "description_en": "Типичный CEO в 2026 😖@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9339",
+      "image_url": null,
+      "pub_date": "2026-05-22T13:32:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T13:58:30.547Z",
+      "created_at": "2026-05-22T13:58:30.547Z"
     }
   ]
 }
