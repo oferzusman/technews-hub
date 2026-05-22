@@ -188828,7 +188828,7 @@
       "author": "Aditya Jadhav",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T16:29:53.532Z",
       "created_at": "2026-05-22T16:29:53.532Z"
     },
@@ -188918,7 +188918,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T16:29:55.582Z",
       "created_at": "2026-05-22T16:29:55.582Z"
     },
@@ -188979,7 +188979,7 @@
         "Codex"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T17:22:17.241Z",
       "created_at": "2026-05-22T17:22:17.241Z"
     },
@@ -188996,7 +188996,7 @@
       "author": "Georgina Jedikovska",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T17:22:18.789Z",
       "created_at": "2026-05-22T17:22:18.789Z"
     },
@@ -189017,7 +189017,7 @@
         "Storage"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T17:22:20.388Z",
       "created_at": "2026-05-22T17:22:20.388Z"
     },
@@ -189044,7 +189044,7 @@
         "national security"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T17:51:02.053Z",
       "created_at": "2026-05-22T17:51:02.053Z"
     },
@@ -189170,6 +189170,164 @@
       "priority": "hot",
       "fetchedAt": "2026-05-22T18:17:50.228Z",
       "created_at": "2026-05-22T18:17:50.228Z"
+    },
+    {
+      "id": 9109,
+      "source": "TechCrunch AI",
+      "title_en": "SpaceX files to go public, and the math requires a little faith",
+      "description_en": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target that would make it the largest IPO in American […]",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 14:30:00 +0000",
+      "author": "Theresa Loconsolo",
+      "categories": [
+        "AI",
+        "Enterprise",
+        "AI SearchEquity Podcast",
+        "Anthropic",
+        "Elon Musk",
+        "Equity Video",
+        "Nano Claw",
+        "OpenAI",
+        "spacex ipo",
+        "Stainless"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-22T19:10:05.557Z",
+      "created_at": "2026-05-22T19:10:05.557Z"
+    },
+    {
+      "id": 9110,
+      "source": "Ars Technica",
+      "title_en": "Police boast of hacking VPN where criminals \"believed themselves to be safe\"",
+      "description_en": "Law enforcement intercepted VPN traffic, seized domains, and arrested its operator.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/05/police-boast-of-hacking-vpn-where-criminals-believed-themselves-to-be-safe/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/first-vpn-1152x648-1779474790.jpg",
+      "pub_date": "Fri, 22 May 2026 18:43:54 +0000",
+      "author": "\n                    Jon Brodkin\n                ",
+      "categories": [
+        "Policy",
+        "Security",
+        "First VPN",
+        "ransomware",
+        "VPN"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T19:10:05.601Z",
+      "created_at": "2026-05-22T19:10:05.601Z"
+    },
+    {
+      "id": 9111,
+      "source": "Ars Technica",
+      "title_en": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
+      "description_en": "Critics note a lack of factual support in lawsuit filed by US Senate candidate.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/whatsapp-1024x648.jpg",
+      "pub_date": "Fri, 22 May 2026 18:13:05 +0000",
+      "author": "\n                    Dan Goodin\n                ",
+      "categories": [
+        "Biz & IT",
+        "Policy",
+        "Security",
+        "cryptography",
+        "encryption",
+        "meta",
+        "whatsapp"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T19:10:05.601Z",
+      "created_at": "2026-05-22T19:10:05.601Z"
+    },
+    {
+      "id": 9112,
+      "source": "Ars Technica",
+      "title_en": "Marketer that claimed it could tap devices for ad targeting will pay $880K settlement",
+      "description_en": "Two additional marketing companies will also pay $25,000 each.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/05/marketer-that-claimed-it-could-tap-devices-for-ad-targeting-will-pay-880k-settlement/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1344903607-1152x648.jpg",
+      "pub_date": "Fri, 22 May 2026 17:48:03 +0000",
+      "author": "\n                    Scharon Harding\n                ",
+      "categories": [
+        "Policy",
+        "Tech",
+        "ads",
+        "FTC",
+        "voice assistant"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T19:10:05.601Z",
+      "created_at": "2026-05-22T19:10:05.601Z"
+    },
+    {
+      "id": 9113,
+      "source": "The Decoder",
+      "title_en": "Cloudflare CEO Prince says builders and sellers are safe but AI is coming for the measurers",
+      "description_en": "Cloudflare CEO Matthew Prince laid off more than 20 percent of the workforce despite record revenue, claiming AI is replacing middle management and compliance roles. But the company offers no hard evidence for that. Falling margins and a headcount that surged 40 percent in two years point to a classic efficiency program wrapped in AI branding.\nThe article Cloudflare CEO Prince says builders and sellers are safe but AI is coming for the measurers appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/cloudflare-ceo-prince-says-builders-and-sellers-are-safe-but-ai-is-coming-for-the-measurers/",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 19:07:55 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "AI and jobs",
+        "ChatGPT",
+        "Jobs"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T19:10:06.962Z",
+      "created_at": "2026-05-22T19:10:06.962Z"
+    },
+    {
+      "id": 9114,
+      "source": "MarkTechPost",
+      "title_en": "A Step-by-Step Coding Tutorial to Implement GBrain: The Self-Wiring Memory Layer Built by Y Combinator’s Garry Tan for AI Agents",
+      "description_en": "AI agents start every session from zero — no memory of meetings, notes, or decisions. GBrain, the open-source memory layer Y Combinator's Garry Tan built to power his own OpenClaw and Hermes deployments, fixes that with a markdown-first knowledge graph that wires itself through regex inference, not LLM calls. This step-by-step coding tutorial walks through installing GBrain v0.38.2.0, building a brain repo, running hybrid search, and connecting it to Claude Code via MCP — about 20 minutes, all t",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/22/a-step-by-step-coding-tutorial-to-implement-gbrain-the-self-wiring-memory-layer-built-by-y-combinators-garry-tan-for-ai-agents/",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 18:23:40 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Uncategorized"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T19:10:07.107Z",
+      "created_at": "2026-05-22T19:10:07.108Z"
+    },
+    {
+      "id": 9115,
+      "source": "AI Post (TG)",
+      "title_en": "🔥Claude can now build your entire startup from idea to launch like a seasoned entrepreneur, without spending a single dollar.Here are 10 Claude prompts to validate your idea, build your business, and",
+      "description_en": "🔥Claude can now build your entire startup from idea to launch like a seasoned entrepreneur, without spending a single dollar.Here are 10 Claude prompts to validate your idea, build your business, and start making money faster than 99% of beginners:1. Startup Idea ValidatorPrompt: \"Act like an experienced startup mentor. Analyze this business idea: [describe your idea]. Evaluate the market demand, target audience, and competitors. Highlight the biggest risks, weaknesses, and opportunities, and s",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6998",
+      "image_url": null,
+      "pub_date": "2026-05-22T18:25:56+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T19:10:12.354Z",
+      "created_at": "2026-05-22T19:10:12.354Z"
     }
   ]
 }
