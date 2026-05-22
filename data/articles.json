@@ -188337,7 +188337,7 @@
         "The Download"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T13:58:26.603Z",
       "created_at": "2026-05-22T13:58:26.603Z"
     },
@@ -188432,7 +188432,7 @@
       "author": "Jijo Malayil",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T13:58:28.925Z",
       "created_at": "2026-05-22T13:58:28.925Z"
     },
@@ -188472,7 +188472,7 @@
         "Desktops"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T13:58:29.172Z",
       "created_at": "2026-05-22T13:58:29.172Z"
     },
@@ -188489,7 +188489,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T13:58:29.312Z",
       "created_at": "2026-05-22T13:58:29.312Z"
     },
@@ -188523,7 +188523,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T13:58:30.547Z",
       "created_at": "2026-05-22T13:58:30.547Z"
     },
@@ -188543,6 +188543,193 @@
       "priority": "hot",
       "fetchedAt": "2026-05-22T13:58:30.547Z",
       "created_at": "2026-05-22T13:58:30.547Z"
+    },
+    {
+      "id": 9078,
+      "source": "The Verge AI",
+      "title_en": "The literary world isn’t prepared for AI",
+      "description_en": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selections for the prestigious award: It appears to have been written by AI.\nJamir Nazir's \"The Serpent in the Grove\" has many of the hallmarks of LLM-generated prose - mixed metaphors, anaphora, lists of threes. (I'm aware this, too, is a list of threes, and I promise I wrote this post myself, unassisted, a",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
+      "image_url": null,
+      "pub_date": "2026-05-22T14:30:00.000Z",
+      "author": "Gaby Del Valle",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T15:28:42.330Z",
+      "created_at": "2026-05-22T15:28:42.330Z"
+    },
+    {
+      "id": 9079,
+      "source": "The Verge AI",
+      "title_en": "Why would you disrespect your favorite artist with an AI remix?",
+      "description_en": "Prompt something better than Beyoncé’s “Break My Soul,” I dare you. | Image: Cath Virginia / The Verge | Photo from Getty Images\t\n\nAI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of The Weeknd, and monotonous Motown reimaginings of AC/DC. Now, a new tool from Spotify will make them even easier to generate and share.\nSpotify and Universal Music Grou",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
+      "image_url": null,
+      "pub_date": "2026-05-22T14:20:00.000Z",
+      "author": "Terrence O’Brien",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T15:28:42.330Z",
+      "created_at": "2026-05-22T15:28:42.330Z"
+    },
+    {
+      "id": 9080,
+      "source": "Ars Technica",
+      "title_en": "AI put \"synthetic quotes\" in his book. But this author wants to keep using it.",
+      "description_en": "Steven Rosenbaum explains how inaccurate quotes got into his book The Future of Truth.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/ai-fabricated-quotes-Rosenbaum-1152x648.jpg",
+      "pub_date": "Fri, 22 May 2026 14:05:56 +0000",
+      "author": "\n                    Kyle Orland\n                ",
+      "categories": [
+        "AI",
+        "addiction",
+        "author",
+        "ChatGPT",
+        "Claude",
+        "intoxication",
+        "truth"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T15:28:42.752Z",
+      "created_at": "2026-05-22T15:28:42.752Z"
+    },
+    {
+      "id": 9081,
+      "source": "The Decoder",
+      "title_en": "OpenAI burned through $1.22 per dollar earned even after stripping out stock-based compensation",
+      "description_en": "OpenAI pulled in about $5.7 billion in Q1 2026 revenue but still lost $1.22 for every dollar earned, putting its adjusted operating margin at minus 122 percent.\nThe article OpenAI burned through $1.22 per dollar earned even after stripping out stock-based compensation appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-burned-through-1-22-per-dollar-earned-even-after-stripping-out-stock-based-compensation/",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 14:18:32 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T15:28:43.664Z",
+      "created_at": "2026-05-22T15:28:43.664Z"
+    },
+    {
+      "id": 9082,
+      "source": "Hugging Face Blog",
+      "title_en": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 15:25:59 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T15:28:43.906Z",
+      "created_at": "2026-05-22T15:28:43.906Z"
+    },
+    {
+      "id": 9083,
+      "source": "The Guardian AI",
+      "title_en": "Has the great AI backlash begun? | Fiona Katauskas",
+      "description_en": "The signs are there\n\nSee more of Fiona Katauskas’s cartoons here\n\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/may/23/has-the-great-ai-backlash-begun",
+      "image_url": "https://i.guim.co.uk/img/media/4863922d2b4531f1bee10547ae603c2609e773c2/0_0_1180_944/master/1180.jpg?width=140&quality=85&auto=format&fit=max&s=e50c32dd0a6e20a6fbb590dea63e3951",
+      "pub_date": "Fri, 22 May 2026 15:00:06 GMT",
+      "author": "Fiona Katauskas",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T15:28:44.545Z",
+      "created_at": "2026-05-22T15:28:44.545Z"
+    },
+    {
+      "id": 9084,
+      "source": "Tom's Hardware",
+      "title_en": "Meta data center allegedly muddies Georgia town's drinking water, investigation underway — EPA promises immediate investigation after congresswoman brings dirty jars of water to hearing",
+      "description_en": "Morgan County residents are complaining about dirty water coming out of their faucets ever since Meta began constructing a data center near the area.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/meta-data-center-allegedly-muddies-georgia-towns-drinking-water-investigation-underway-epa-promises-immediate-investigation-after-congresswoman-brings-dirty-jars-of-water-to-hearing",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/k6MMroVti7vTuUaTu5GVBF-1280-80.png",
+      "pub_date": "Fri, 22 May 2026 15:05:30 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Big Tech",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T15:28:46.000Z",
+      "created_at": "2026-05-22T15:28:46.000Z"
+    },
+    {
+      "id": 9085,
+      "source": "Tom's Hardware",
+      "title_en": "Save up to $300 on a new 3D printer right now, thanks to these Memorial Day discounts — filament and resin 3DP deals from Bambu Lab, Elegoo, Creality, and more are perfect for beginners and pros",
+      "description_en": "These are some of the top 3D printer deals available right now during this Memorial Day weekend.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/save-up-to-usd300-on-a-new-3d-printer-right-now-thanks-to-these-memorial-day-discounts-filament-and-resin-3dp-deals-from-bambu-lab-elegoo-creality-and-more-are-perfect-for-beginners-and-pros",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/JSX9E8r9rq59YZs3NAa7v6-1280-80.png",
+      "pub_date": "Fri, 22 May 2026 14:57:57 +0000",
+      "author": " Ben Stockton ",
+      "categories": [
+        "Gift Guides and Seasonal Sales"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T15:28:46.000Z",
+      "created_at": "2026-05-22T15:28:46.000Z"
+    },
+    {
+      "id": 9086,
+      "source": "Tom's Hardware",
+      "title_en": "Analyst says Nvidia poised to capture two-thirds of the x86 server CPU market from Intel and AMD with expected $20 billion in revenue — 'Nvidia is already on track'to deliver 4 million Vera CPUs in FY2027",
+      "description_en": "Having become the main supplier of AI accelerators, Nvidia is now on track to outsell AMD and Intel with Vera CPUs and become a leading supplier of processors.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/analyst-says-nvidia-poised-to-capture-two-thirds-of-the-x86-server-cpu-market-from-intel-and-amd-with-expected-usd20-billion-in-revenue-nvidia-is-already-on-track-to-deliver-4-million-vera-cpus-in-fy2027",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/GTXRhmBHe5AUFcb2FUVB9b-1280-80.jpg",
+      "pub_date": "Fri, 22 May 2026 14:30:00 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T15:28:46.000Z",
+      "created_at": "2026-05-22T15:28:46.000Z"
     }
   ]
 }
