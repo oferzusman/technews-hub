@@ -186930,7 +186930,7 @@
         "Open Source Projects"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T21:54:54.964Z",
       "created_at": "2026-05-21T21:54:54.964Z"
     },
@@ -187029,7 +187029,7 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T22:38:41.127Z",
       "created_at": "2026-05-21T22:38:41.127Z"
     },
@@ -187046,7 +187046,7 @@
       "author": "Neetika Walter",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T22:38:42.093Z",
       "created_at": "2026-05-21T22:38:42.093Z"
     },
@@ -187076,7 +187076,7 @@
         "xAI Grok"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T23:06:11.055Z",
       "created_at": "2026-05-21T23:06:11.055Z"
     },
@@ -187093,7 +187093,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T23:06:17.603Z",
       "created_at": "2026-05-21T23:06:17.603Z"
     },
@@ -187119,9 +187119,137 @@
         "Tech News"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-21T23:39:19.198Z",
       "created_at": "2026-05-21T23:39:19.198Z"
+    },
+    {
+      "id": 9017,
+      "source": "New Atlas",
+      "title_en": "Can art galleries really slow aging? An expert explains the science",
+      "description_en": "Peter Tennant, Yale University; University of Leeds/ The Conversation\nContinue Reading\nCategory: Brain Health, Body and Mind\nTags: Art, Brain, Aging",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/brain/art-galleries-slow-aging-expert-explains/",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 01:11:58 GMT",
+      "author": "The Conversation",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T01:28:58.980Z",
+      "created_at": "2026-05-22T01:28:58.980Z"
+    },
+    {
+      "id": 9018,
+      "source": "New Atlas",
+      "title_en": "Better bee-lieve it – World Bee Day is time to celebrate our fuzzy life-givers",
+      "description_en": "For many years, bees were among New Atlas readers' favorite animals. But then things went south, and you guys switched off from learning about these fuzzy little flyers. Maybe it was tall poppy syndrome – since bees are quite obsessed with these nectar treasure chests – but they're staging a comeback framed around World Bee Day.\nContinue Reading\nCategory: Environment, Science\nTags: Bees, Wildlife, Ecosystem, Insect, Animal science",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/environment/world-bee-day-science/",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 00:27:36 GMT",
+      "author": "Bronwyn Thompson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T01:28:58.980Z",
+      "created_at": "2026-05-22T01:28:58.980Z"
+    },
+    {
+      "id": 9019,
+      "source": "The Guardian AI",
+      "title_en": "If Australia is home to an AI gold rush, let’s not squander it. Let’s fjord a different path | Peter Lewis",
+      "description_en": "Tech titans appear to be cosying up to Canberra with an eye to training data models here. An AI wealth fund could share in the profits\n\nGet our breaking news email, free app or daily news podcast\n\nThe CEOs of AI titans Microsoft and Anthropic have been duchessing Canberra. The reason? They have bet the house that we are at the beginning of an AI gold rush and they have a big problem: they need to find secure places to train their massive models.\nHaving exhausted the US’s public tolerance for dat",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/may/22/australia-artificial-intelligence-ai-investment-wealth-fund",
+      "image_url": "https://i.guim.co.uk/img/media/fcbe6a8fd002f5ac7731f573e7f3f10b36aabfa3/1116_412_6021_4819/master/6021.jpg?width=140&quality=85&auto=format&fit=max&s=1873de8090f2fd582429e60a6b6ec1db",
+      "pub_date": "Fri, 22 May 2026 01:06:51 GMT",
+      "author": "Peter Lewis",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Australian economy",
+          "$": {
+            "domain": "https://www.theguardian.com/business/australia-economy"
+          }
+        },
+        {
+          "_": "Tax",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/tax-australia"
+          }
+        },
+        {
+          "_": "Energy",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/energy-australia"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Renewable energy",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/renewableenergy"
+          }
+        },
+        {
+          "_": "Australian politics",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australian-politics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T01:28:59.009Z",
+      "created_at": "2026-05-22T01:28:59.009Z"
+    },
+    {
+      "id": 9020,
+      "source": "Interesting Engineering",
+      "title_en": "Starship V3: World’s tallest rocket misses launch after SpaceX scrub at T-40 seconds",
+      "description_en": "The countdown froze at T-40 seconds. Then it restarted. Then it stopped again. A hydraulic...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/space/spacex-starship-v3-launch-abort-hydraulic-failure-tower-arm",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 00:22:12 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T01:28:59.538Z",
+      "created_at": "2026-05-22T01:28:59.538Z"
+    },
+    {
+      "id": 9021,
+      "source": "Interesting Engineering",
+      "title_en": "Skin-like autonomous computing patch maps fatal heart rhythms with 99.6% accuracy",
+      "description_en": "Researchers at the University of Chicago have developed a stretchable computing patch that can process...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/stretchable-computing-patch-heart-monitoring",
+      "image_url": null,
+      "pub_date": "Thu, 21 May 2026 23:41:48 +0000",
+      "author": "Neetika Walter",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T01:28:59.538Z",
+      "created_at": "2026-05-22T01:28:59.538Z"
     }
   ]
 }
