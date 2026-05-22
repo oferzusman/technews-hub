@@ -1,9 +1,9 @@
 {
-  "total": 9045,
+  "total": 9049,
   "translated": 8824,
-  "untranslated": 221,
-  "today": 29,
-  "week": 754,
+  "untranslated": 225,
+  "today": 33,
+  "week": 758,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,7 +13,7 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 671,
+      "total": 672,
       "translated": 652,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
@@ -79,7 +79,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 272,
+      "total": 273,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -103,7 +103,7 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 139,
+      "total": 140,
       "translated": 135,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
@@ -127,7 +127,7 @@
     },
     {
       "name": "AI News",
-      "total": 82,
+      "total": 83,
       "translated": 81,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-22T08:56:39.666Z"
+  "generatedAt": "2026-05-22T09:25:04.055Z"
 }
