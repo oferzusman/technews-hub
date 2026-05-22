@@ -187153,7 +187153,7 @@
       "author": "Bronwyn Thompson",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T01:28:58.980Z",
       "created_at": "2026-05-22T01:28:58.980Z"
     },
@@ -187230,7 +187230,7 @@
       "author": "Aamir Khollam",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T01:28:59.538Z",
       "created_at": "2026-05-22T01:28:59.538Z"
     },
@@ -187247,9 +187247,43 @@
       "author": "Neetika Walter",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T01:28:59.538Z",
       "created_at": "2026-05-22T01:28:59.538Z"
+    },
+    {
+      "id": 9022,
+      "source": "New Atlas",
+      "title_en": "Toyota's most indestructible truck gets even more rugged & covetable",
+      "description_en": "Toyota's global-market Hilux pickup platform and its turbo-diesel engine is already highly coveted unobtainium in the US, and it's about to get more attractive than ever. A forthcoming upgrade will make it even better for trades workers, off-roaders, overlanders and other diehard truck fans, boosting available payload so the incomparably rugged little truck can carry more weight, whether we're talking stacks of landscaping rock or expansive camper setups.\nContinue Reading\nCategory: Automotive, T",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/automotive/toyota-increases-gvm-hilux-hd/",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 02:42:22 GMT",
+      "author": "C.C. Weiss",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T02:50:09.256Z",
+      "created_at": "2026-05-22T02:50:09.256Z"
+    },
+    {
+      "id": 9023,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 AI cracked a math problem that stood untouched since 1946 and the scary part is how ordinary the system was.OpenAI says its general-purpose reasoning model disproved a major conjecture from legenda",
+      "description_en": "🤖 AI cracked a math problem that stood untouched since 1946 and the scary part is how ordinary the system was.OpenAI says its general-purpose reasoning model disproved a major conjecture from legendary mathematician Paul Erdős, solving the long-running “planar unit distance problem.”For decades, mathematicians believed the best way to maximize one-unit distances between points was basically some variation of a square grid. The intuition looked obvious. Turns out it was wrong.The model discovere",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/6993",
+      "image_url": null,
+      "pub_date": "2026-05-22T02:16:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T02:50:16.596Z",
+      "created_at": "2026-05-22T02:50:16.596Z"
     }
   ]
 }
