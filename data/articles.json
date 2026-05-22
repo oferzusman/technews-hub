@@ -188638,7 +188638,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T15:28:43.906Z",
       "created_at": "2026-05-22T15:28:43.906Z"
     },
@@ -188775,7 +188775,7 @@
         "google glasses"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T16:29:50.751Z",
       "created_at": "2026-05-22T16:29:50.751Z"
     },
@@ -188879,7 +188879,7 @@
       "author": "Atharva Gosavi",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T16:29:53.533Z",
       "created_at": "2026-05-22T16:29:53.533Z"
     },
@@ -188901,7 +188901,7 @@
         "DRAM"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T16:29:54.214Z",
       "created_at": "2026-05-22T16:29:54.214Z"
     },
@@ -189020,6 +189020,33 @@
       "priority": "hot",
       "fetchedAt": "2026-05-22T17:22:20.388Z",
       "created_at": "2026-05-22T17:22:20.388Z"
+    },
+    {
+      "id": 9102,
+      "source": "Ars Technica",
+      "title_en": "Trump abruptly cancels EO signing event after top AI firm CEOs declined to go",
+      "description_en": "Trump delays AI safety testing EO, claiming it would be an innovation “blocker.”",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2276026044-1152x648-1779465384.jpg",
+      "pub_date": "Fri, 22 May 2026 16:51:40 +0000",
+      "author": "\n                    Ashley Belanger\n                ",
+      "categories": [
+        "AI",
+        "Policy",
+        "AI regulation",
+        "AI safety",
+        "ai safety testing",
+        "Artificial Intelligence",
+        "cybersecurity",
+        "Donald Trump",
+        "national security"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T17:51:02.053Z",
+      "created_at": "2026-05-22T17:51:02.053Z"
     }
   ]
 }
