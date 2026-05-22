@@ -187974,7 +187974,7 @@
         "Summary"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T11:33:38.635Z",
       "created_at": "2026-05-22T11:33:38.635Z"
     },
@@ -188119,7 +188119,7 @@
         "singapore"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T11:33:41.876Z",
       "created_at": "2026-05-22T11:33:41.876Z"
     },
@@ -188148,7 +188148,7 @@
         "sustainability"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T11:33:41.876Z",
       "created_at": "2026-05-22T11:33:41.876Z"
     },
@@ -188240,6 +188240,64 @@
       "priority": "hot",
       "fetchedAt": "2026-05-22T11:33:46.128Z",
       "created_at": "2026-05-22T11:33:46.128Z"
+    },
+    {
+      "id": 9065,
+      "source": "Ars Technica",
+      "title_en": "First vaccines, now mammograms? RFK Jr.’s latest firings have doctors outraged.",
+      "description_en": "Doctors are angry and alarmed that preventive care could go the way of vaccines.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/health/2026/05/doctors-outraged-after-rfk-jr-fires-leaders-of-key-preventive-medicine-panel/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2221878046-1152x648.jpg",
+      "pub_date": "Fri, 22 May 2026 11:30:38 +0000",
+      "author": "\n                    Beth Mole\n                ",
+      "categories": [
+        "Health",
+        "ama",
+        "preventive care",
+        "rfk jr",
+        "robert f kennedy jr",
+        "USPSTF"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T12:04:37.467Z",
+      "created_at": "2026-05-22T12:04:37.467Z"
+    },
+    {
+      "id": 9066,
+      "source": "Interesting Engineering",
+      "title_en": "AGIBOT’s humanoid robot steals the show with dance, calligraphy at cultural event",
+      "description_en": "Chinese firm AGIBOT showcased its advanced humanoid robot during a cultural event in Jakarta, Indonesia,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/china-agibot-humanoid-robot-calligraphy-dance",
+      "image_url": null,
+      "pub_date": "Fri, 22 May 2026 11:51:34 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T12:04:40.249Z",
+      "created_at": "2026-05-22T12:04:40.249Z"
+    },
+    {
+      "id": 9067,
+      "source": "XOR Journal (TG)",
+      "title_en": "Первая победа людей над нейронками: Starbucks отключили ИИ для подсчёта продуктов после 9 месяцев мучений. 😂Нейросеть должна была автоматически проводить инвентаризацию и учет продуктов через камеры ",
+      "description_en": "Первая победа людей над нейронками: Starbucks отключили ИИ для подсчёта продуктов после 9 месяцев мучений. 😂Нейросеть должна была автоматически проводить инвентаризацию и учет продуктов через камеры и лидар. Систему запустили осенью прошлого года по всей Северной Америке, но она постоянно путала похожие позиции, пропускала товары и ломала весь учёт. Так что компания приняла решение официально вернуться к ручному учету.Так и разрабов обратно начнут нанимать 😁@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9337",
+      "image_url": "https://cdn4.telesco.pe/file/vand2RLEgFrEmPLvp8grXudPrEJrn2kjaXvBOaIGIPpbre3jA1d-JoeLmzZqJ5BssnW8zDsCN-SPRPwj_ChpfAfMypVQe31uo3ZSVI9mNvOCeJyiSJxY1dWa_S79IezxE4R99DkXlK8FxRC45PyR03rYbyPOHQIGtFPrZOfVoMojQjSj80lbFhJ_1E3UTbZxBy9BaoMcvsXSNygLDhqhskonPRbj7S7hMustDOxxDFe_7zi6EXR8MmPjMNZplUKfdXoKD1UYIJfIMhxP4OhoIebaRCXIXheeh5zfOqQdJjalB0vX9YkKXEZC8jd_5gnZaOZZKiMsO-3-0t3_R66lIQ.jpg",
+      "pub_date": "2026-05-22T11:54:19+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-22T12:04:44.779Z",
+      "created_at": "2026-05-22T12:04:44.779Z"
     }
   ]
 }
