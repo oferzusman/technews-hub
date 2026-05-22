@@ -1,13 +1,13 @@
 {
-  "total": 9023,
+  "total": 9025,
   "translated": 8824,
-  "untranslated": 199,
-  "today": 7,
-  "week": 732,
+  "untranslated": 201,
+  "today": 9,
+  "week": 734,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 969,
+      "total": 970,
       "translated": 968,
       "lastDate": "2026-05-21T02:08:22.000Z"
     },
@@ -31,7 +31,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 470,
+      "total": 471,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-22T02:53:06.482Z"
+  "generatedAt": "2026-05-22T05:46:33.925Z"
 }
