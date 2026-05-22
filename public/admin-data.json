@@ -1,9 +1,9 @@
 {
-  "total": 9129,
+  "total": 9132,
   "translated": 8824,
-  "untranslated": 305,
-  "today": 113,
-  "week": 838,
+  "untranslated": 308,
+  "today": 116,
+  "week": 841,
   "sources": [
     {
       "name": "Product Hunt",
@@ -43,13 +43,13 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 408,
+      "total": 409,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 376,
+      "total": 377,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -97,9 +97,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 187,
+      "total": 188,
       "translated": 168,
-      "lastDate": "2026-05-22T21:08:20+00:00"
+      "lastDate": "2026-05-22T23:07:04+00:00"
     },
     {
       "name": "XOR Journal (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-22T22:55:29.865Z"
+  "generatedAt": "2026-05-22T23:57:16.044Z"
 }
