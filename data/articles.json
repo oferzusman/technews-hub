@@ -190192,7 +190192,7 @@
       "author": "Jijo Malayil",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T12:41:36.157Z",
       "created_at": "2026-05-23T12:41:36.157Z"
     },
@@ -190209,7 +190209,7 @@
       "author": "Maria Mocerino",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T12:41:36.157Z",
       "created_at": "2026-05-23T12:41:36.157Z"
     },
@@ -190228,7 +190228,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T12:41:36.616Z",
       "created_at": "2026-05-23T12:41:36.616Z"
     },
@@ -190245,7 +190245,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T12:41:37.666Z",
       "created_at": "2026-05-23T12:41:37.666Z"
     },
@@ -190262,7 +190262,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T12:41:37.958Z",
       "created_at": "2026-05-23T12:41:37.958Z"
     },
@@ -190289,7 +190289,7 @@
         "xAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T13:48:19.551Z",
       "created_at": "2026-05-23T13:48:19.551Z"
     },
@@ -190306,7 +190306,7 @@
       "author": "Christopher McFadden",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T13:48:22.342Z",
       "created_at": "2026-05-23T13:48:22.342Z"
     },
@@ -190343,7 +190343,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T13:48:22.792Z",
       "created_at": "2026-05-23T13:48:22.792Z"
     },
@@ -190384,6 +190384,90 @@
       "priority": "hot",
       "fetchedAt": "2026-05-23T13:58:09.346Z",
       "created_at": "2026-05-23T13:58:09.346Z"
+    },
+    {
+      "id": 9169,
+      "source": "The Guardian AI",
+      "title_en": "How big tech got its way on Trump’s AI executive order",
+      "description_en": "The US president’s reversal on calling for a safety review of new AI models is a green light for tech’s unchecked power\nOnly hours before Donald Trump was set to sign a long-awaited executive order on Thursday that would have called for a government safety review of new artificial intelligence models before their release, the president abruptly backed out. Despite growing public backlash to the technology and experts warning new models will pose critical security risks, Trump vowed the US govern",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/23/trump-ai-order-big-tech",
+      "image_url": "https://i.guim.co.uk/img/media/1fc1c3f2c938f57503782eed5cb531731e192afa/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=065c45aef388a8fd12e84ff23985cb61",
+      "pub_date": "Sat, 23 May 2026 14:00:29 GMT",
+      "author": "Nick Robins-Early",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Donald Trump",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/donaldtrump"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Trump administration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/trump-administration"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Republicans",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/republicans"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T15:08:11.537Z",
+      "created_at": "2026-05-23T15:08:11.537Z"
     }
   ]
 }
