@@ -190326,7 +190326,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T13:48:22.716Z",
       "created_at": "2026-05-23T13:48:22.716Z"
     },
@@ -190364,7 +190364,7 @@
         "Manufacturing"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T13:58:03.322Z",
       "created_at": "2026-05-23T13:58:03.322Z"
     },
@@ -190381,7 +190381,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T13:58:09.346Z",
       "created_at": "2026-05-23T13:58:09.346Z"
     },
@@ -190468,6 +190468,31 @@
       "priority": "hot",
       "fetchedAt": "2026-05-23T15:08:11.537Z",
       "created_at": "2026-05-23T15:08:11.537Z"
+    },
+    {
+      "id": 9170,
+      "source": "TechCrunch AI",
+      "title_en": "Ferrari is using IBM’s AI to create F1 superfans",
+      "description_en": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "image_url": null,
+      "pub_date": "Sat, 23 May 2026 15:08:00 +0000",
+      "author": "Dominic-Madori Davis",
+      "categories": [
+        "Transportation",
+        "AI",
+        "IBM",
+        "Apps",
+        "formula one",
+        "Exclusive",
+        "f1"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T16:00:07.981Z",
+      "created_at": "2026-05-23T16:00:07.981Z"
     }
   ]
 }
