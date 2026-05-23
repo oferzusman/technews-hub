@@ -1,9 +1,9 @@
 {
-  "total": 9134,
+  "total": 9135,
   "translated": 8824,
-  "untranslated": 310,
-  "today": 2,
-  "week": 778,
+  "untranslated": 311,
+  "today": 3,
+  "week": 779,
   "sources": [
     {
       "name": "Product Hunt",
@@ -97,9 +97,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 188,
+      "total": 189,
       "translated": 168,
-      "lastDate": "2026-05-22T23:07:04+00:00"
+      "lastDate": "2026-05-23T02:17:01+00:00"
     },
     {
       "name": "XOR Journal (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-23T04:06:48.691Z"
+  "generatedAt": "2026-05-23T04:26:41.451Z"
 }
