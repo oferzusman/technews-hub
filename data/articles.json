@@ -190490,7 +190490,7 @@
         "f1"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T16:00:07.981Z",
       "created_at": "2026-05-23T16:00:07.981Z"
     },
@@ -190530,6 +190530,29 @@
       "priority": "hot",
       "fetchedAt": "2026-05-23T16:31:18.874Z",
       "created_at": "2026-05-23T16:31:18.874Z"
+    },
+    {
+      "id": 9173,
+      "source": "The Decoder",
+      "title_en": "Deepseek makes its 75 percent discount permanent, pricing output tokens at least 34x below GPT-5.5",
+      "description_en": "Deepseek is making the 75 percent discount on its top model V4-Pro permanent. At $0.435 per million input tokens, it's at least 11.5 times cheaper than GPT-5.5 and over 34 times cheaper on output. For token-hungry agentic systems, this kind of pricing could squeeze Western providers hard.\nThe article Deepseek makes its 75 percent discount permanent, pricing output tokens at least 34x below GPT-5.5 appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/deepseek-makes-its-75-percent-discount-permanent-pricing-output-tokens-at-least-34x-below-gpt-5-5/",
+      "image_url": null,
+      "pub_date": "Sat, 23 May 2026 17:10:59 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "AI in China",
+        "China",
+        "Deepseek"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T17:13:11.376Z",
+      "created_at": "2026-05-23T17:13:11.376Z"
     }
   ]
 }
