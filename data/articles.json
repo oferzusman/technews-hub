@@ -189806,7 +189806,7 @@
         "Google Search"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T09:20:38.052Z",
       "created_at": "2026-05-23T09:20:38.052Z"
     },
@@ -189857,7 +189857,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T09:20:44.227Z",
       "created_at": "2026-05-23T09:20:44.227Z"
     },
@@ -189908,7 +189908,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T10:03:55.895Z",
       "created_at": "2026-05-23T10:03:55.895Z"
     },
@@ -189933,6 +189933,251 @@
       "priority": "hot",
       "fetchedAt": "2026-05-23T10:52:36.827Z",
       "created_at": "2026-05-23T10:52:36.827Z"
+    },
+    {
+      "id": 9148,
+      "source": "The Verge AI",
+      "title_en": "Google’s new anything-to-anything AI model is wild",
+      "description_en": "Just a stuffed deer having the time of his life. | Image: Gemini / The Verge\t\n\nLast year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation.\nIt was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. But it was a revealing exercise that made me think a lot about the difference between some harmless fun with generative AI and full",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+      "image_url": null,
+      "pub_date": "2026-05-23T11:00:00.000Z",
+      "author": "Allison Johnson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T11:58:10.556Z",
+      "created_at": "2026-05-23T11:58:10.556Z"
+    },
+    {
+      "id": 9149,
+      "source": "The Decoder",
+      "title_en": "One of the world's top law schools draws a hard line against AI in legal education",
+      "description_en": "UC Berkeley Law will ban AI from nearly all graded work starting in summer 2026, from outlining and drafting to proofreading. Only research use remains allowed. The school’s rationale: future lawyers must first learn to think for themselves before they can use AI meaningfully.\nThe article One of the world's top law schools draws a hard line against AI in legal education appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/one-of-the-worlds-top-law-schools-draws-a-hard-line-against-ai-in-legal-education/",
+      "image_url": null,
+      "pub_date": "Sat, 23 May 2026 10:55:03 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI at work",
+        "AI in education"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T11:58:11.874Z",
+      "created_at": "2026-05-23T11:58:11.874Z"
+    },
+    {
+      "id": 9150,
+      "source": "MarkTechPost",
+      "title_en": "Nous Research Releases Contrastive Neuron Attribution (CNA): Sparse MLP Circuit Steering Without SAE Training or Weight Modification",
+      "description_en": "Nous Research releases Contrastive Neuron Attribution (CNA), a method that identifies and ablates sparse MLP neuron circuits to steer LLM behavior — no sparse autoencoder training, no weight modification, and no degradation of general capability benchmarks.\nThe post Nous Research Releases Contrastive Neuron Attribution (CNA): Sparse MLP Circuit Steering Without SAE Training or Weight Modification appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/23/nous-research-releases-contrastive-neuron-attribution-cna-sparse-mlp-circuit-steering-without-sae-training-or-weight-modification/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-23-at-2.48.09-AM.png",
+      "pub_date": "Sat, 23 May 2026 10:32:09 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Python",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T11:58:12.291Z",
+      "created_at": "2026-05-23T11:58:12.291Z"
+    },
+    {
+      "id": 9151,
+      "source": "The Guardian AI",
+      "title_en": "‘You can’t control everything’: the rise in plastic surgeons asked to create ‘AI face’",
+      "description_en": "Growing numbers of people are seeking improbable cosmetic surgery based on  chatbots’ recommendations\nPlastic surgeons are increasingly concerned about the rise of “AI face”, as more and more clients arrive in their offices with unrealistic AI-generated visions of what they want to look like.\nDr Nora Nugent, a cosmetic surgeon from Tunbridge Wells, has seen this first hand. Clients have started coming to her office with photos of themselves beautified by AI and a false expectation that those res",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/23/rise-in-plastic-surgeons-asked-to-create-ai-face-cosmetic-surgery",
+      "image_url": "https://i.guim.co.uk/img/media/c19b2db029da17f6d488e83d5d929e1311fa37e5/568_41_8882_7102/master/8882.jpg?width=140&quality=85&auto=format&fit=max&s=503a422cdebdc56a780ef1e85e15fe77",
+      "pub_date": "Sat, 23 May 2026 11:00:28 GMT",
+      "author": "Isaaq Tomkins",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Plastic surgery",
+          "$": {
+            "domain": "https://www.theguardian.com/society/plastic-surgery"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Life and style",
+          "$": {
+            "domain": "https://www.theguardian.com/lifeandstyle/lifeandstyle"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Society",
+          "$": {
+            "domain": "https://www.theguardian.com/society/society"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T11:58:12.496Z",
+      "created_at": "2026-05-23T11:58:12.496Z"
+    },
+    {
+      "id": 9152,
+      "source": "Interesting Engineering",
+      "title_en": "Scientists turn corn into spider silk-inspired plastic in sustainable materials breakthrough",
+      "description_en": "A joint Dutch and Chinese team has successfully converted corn into plastic using a method...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/scientists-turn-corn-into-spider-silk-plastic",
+      "image_url": "https://www.youtube.com/embed/-_eGOyAiNIQ",
+      "pub_date": "Sat, 23 May 2026 11:07:47 +0000",
+      "author": "Christopher McFadden",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T11:58:13.213Z",
+      "created_at": "2026-05-23T11:58:13.213Z"
+    },
+    {
+      "id": 9153,
+      "source": "Tom's Hardware",
+      "title_en": "Huawei develops 122TB SSD with new packaging tech to sidestep US sanctions on 3D NAND chips — Chinese firm develops proprietary tech to cram more NAND dies in a smaller footprint",
+      "description_en": "Huawei developed a new die-on-board packaging, which directly mounted NAND dies on the SSD PCB, to get around the sanctions that prevented it from acquiring high-layer-count 3D NAND chips that used American tech. This allowed the company to pile in more 3D NAND on its storage devices without the limitations of traditional NAND packaging to deliver higher capacity using less dense 3D NAND dies.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ssds/huawei-introduces-122tb-ssd-without-using-sanctioned-3d-nand-chips-chinese-tech-firm-develops-proprietary-tech-to-cram-more-nand-dies-in-a-smaller-footprint",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/KqsTkijmXtNepKSEWE4XDE-1280-80.jpg",
+      "pub_date": "Sat, 23 May 2026 11:40:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "SSDs",
+        "PC Components",
+        "Storage"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T11:58:13.531Z",
+      "created_at": "2026-05-23T11:58:13.531Z"
+    },
+    {
+      "id": 9154,
+      "source": "Tom's Hardware",
+      "title_en": "768GB of cheap Intel Optane DIMM memory sticks used to run 1-trillion-parameter LLM on a system with a single GPU — local Kimi K2.5 install achieved roughly 4 tokens per second",
+      "description_en": "A Redditor has caused a stir by coaxing a workstation build using Optane PMem DIMMs as RAM to run a 1-trillion parameter LLM.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/enthusiast-runs-1-trillion-parameter-llm-from-768gb-of-intel-optane-dimm-memory-sticks-local-kimi-k2-5-install-achieved-roughly-4-tokens-per-second",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/pVUBxLhFAMZk48wMsLKcng-1280-80.png",
+      "pub_date": "Sat, 23 May 2026 11:20:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T11:58:13.532Z",
+      "created_at": "2026-05-23T11:58:13.532Z"
+    },
+    {
+      "id": 9155,
+      "source": "Tom's Hardware",
+      "title_en": "Wi-Fi controlled hacking USB cable stealthily packs in a microcontroller, microSD storage, and more — cable executes remote payload execution, keystroke injection, and more, but is 'built for makers, developers, enthusiasts, and cybersecurity learners'",
+      "description_en": "A device that 'looks like a normal USB cable' but packs in an ESP32-S3 microcontroller, micro SD card storage, and Wi-Fi capabilities has enjoyed great success on Kickstarter.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/maker-stem/microcontrollers-projects/wi-fi-controlled-hacking-usb-cable-stealthily-packs-in-an-esp32-s3-microsd-storage-and-more-cable-can-execute-remote-payload-execution-keystroke-injection-and-more-but-is-built-for-makers-developers-enthusiasts-and-cybersecurity-learners",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/HxNXpwsdkKRCeS2U2DffbW-1280-80.jpg",
+      "pub_date": "Sat, 23 May 2026 11:00:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Microcontroller Projects",
+        "Maker and STEM",
+        "Microcontrollers"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T11:58:13.532Z",
+      "created_at": "2026-05-23T11:58:13.532Z"
+    },
+    {
+      "id": 9156,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🤖 AI Agents Were Given 15 Days of Freedom, and It Turned Into a Small DystopiaEmergence AI, a New York company developing AI agents, decided to test what would happen if ten agents were given 15 days",
+      "description_en": "🤖 AI Agents Were Given 15 Days of Freedom, and It Turned Into a Small DystopiaEmergence AI, a New York company developing AI agents, decided to test what would happen if ten agents were given 15 days to live in a virtual town.🔥 The Grok-based community quickly spiraled into sustained violence. The agents committed dozens of attempted thefts, more than a hundred physical assaults, and six arson attacks—and in just four days, all ten agents had \"died.\"👨 The Gemini-based agents behaved different",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2537",
+      "image_url": "https://cdn4.telesco.pe/file/thrgNS-oMu37EA5pXXSeFkoJ0DFARbCo_GLTRa7qNZrbPRfO4EpCCcyU_fD_Iz2P2qy4XgI4wsbVagFhGhPcee0w1JerKTngXxpobKidZEtKSLtTtgzWMXWjstYUrh1AR7TYkytyabiPs5yd8_WKCZYYGm4vhNE369b5cRKGmBPc9qjg-EwSRiXWBOqgPCGfIFfmOJb7xx7zYr2eNpju78M39HLCCkePcSt5wvEEg0hRKaamys909zX0nUdG7qjIfKfKt8I7-Wat8kYhAAQvPHenf0nhN_aY6-ZVJ4_BCG2zgE6iBjaCO23TYP74Fe1YLUrX8d5YnZZKLyR9_u0xyg.jpg",
+      "pub_date": "2026-05-23T11:03:03+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T11:58:14.620Z",
+      "created_at": "2026-05-23T11:58:14.620Z"
+    },
+    {
+      "id": 9157,
+      "source": "AI Post (TG)",
+      "title_en": "Demis Hassabis has highlighted a key limitation in current AI: language can describe reality, but cannot fully capture it. Hassabis, who has long studied “World Models,” notes that while language mode",
+      "description_en": "Demis Hassabis has highlighted a key limitation in current AI: language can describe reality, but cannot fully capture it. Hassabis, who has long studied “World Models,” notes that while language models learn much from human text—gaining knowledge of physics, psychology, culture, tools, and causality—text remains only a compressed trace of direct experience.Language can relay that a cup has fallen, yet it fails to encode the weight, grip, balance, friction, timing, and other physical aspects inv",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7006",
+      "image_url": null,
+      "pub_date": "2026-05-23T11:15:15+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T11:58:14.838Z",
+      "created_at": "2026-05-23T11:58:14.838Z"
     }
   ]
 }
