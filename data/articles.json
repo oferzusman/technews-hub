@@ -190633,7 +190633,7 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T19:39:51.916Z",
       "created_at": "2026-05-23T19:39:51.916Z"
     },
@@ -190657,7 +190657,7 @@
         "Tutorials"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T19:39:51.916Z",
       "created_at": "2026-05-23T19:39:51.916Z"
     },
@@ -190674,7 +190674,7 @@
       "author": "Prabhat Ranjan Mishra",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T19:39:52.738Z",
       "created_at": "2026-05-23T19:39:52.738Z"
     },
@@ -190691,7 +190691,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T19:39:57.651Z",
       "created_at": "2026-05-23T19:39:57.651Z"
     },
@@ -190711,6 +190711,40 @@
       "priority": "hot",
       "fetchedAt": "2026-05-23T20:30:51.902Z",
       "created_at": "2026-05-23T20:30:51.902Z"
+    },
+    {
+      "id": 9182,
+      "source": "XOR Journal (TG)",
+      "title_en": "Остались тут еще те, кто не умеет вайбкодить? Вице-президент Wix запустил платформу для обучения кодингу с Claude 😳Внутри zero2claude.dev почти 150 интерактивных уроков и 14 (!) уровней. Короче, это ",
+      "description_en": "Остались тут еще те, кто не умеет вайбкодить? Вице-президент Wix запустил платформу для обучения кодингу с Claude 😳Внутри zero2claude.dev почти 150 интерактивных уроков и 14 (!) уровней. Короче, это прям огромный курс, который с нуля, тихо и не спеша проведет вас от терминала, MCP и агентов до полноценной разработки с Claude Code. Отлично подходит для нетехнарей.Курс оценил сам Борис Черный — создатель Claude Code. И самый мёд: это все отдают бесплатно.Влетаем в мир вайбкодинга🚀@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9350",
+      "image_url": "https://cdn4.telesco.pe/file/ZK8gR4S5Fx7CDnJ_iGrOTS3f_N4ba5CABFxRGAuv3W_Dx-etShHaY5fpByUT3jqKllEmdn6HGzY-kNBZqCr5CM3v7TQ0Ua3-MDXvykWvyENanL5y-FmCtAjZnTDBBumX25HomrAjyw3U-9escyRT7ohV5kzqmSSW7aYR8SNmop0eUeV8HcntlHUbpF-hfTYPYV_klil3KOu8rCWUe40XdCtcNxG-gaSIPfPWwlEuCHDyvrUqq1N8f0rOjuC2VFn4lcqQkOUVehr9P-onxsQR-ohFaAZl0zFJf9IvMrbYMicx_mkOXNAZlIOZUFpmTXdCHG6ZSs5bgtiw3xGz0fTTNg.jpg",
+      "pub_date": "2026-05-23T21:20:09+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T21:33:08.527Z",
+      "created_at": "2026-05-23T21:33:08.527Z"
+    },
+    {
+      "id": 9183,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Бустим FPS в любых играх с помощью Claude — гении собрали топ промптов, которые проведут полный анализ системы и железа, а затем выкатят инструкции по увеличению FPS.Турецкий геймер так бустанулся ",
+      "description_en": "⚡️ Бустим FPS в любых играх с помощью Claude — гении собрали топ промптов, которые проведут полный анализ системы и железа, а затем выкатят инструкции по увеличению FPS.Турецкий геймер так бустанулся аж на 90 FPS, получив анализ системы и разобрав все мусорные процессы на своем компе.1️⃣ Проводим полный анализ системы. Вставляем промпт в Claude вместе с инфой о ПК и железе:«Проанализируй мою систему и найди причины FPS-дропов в играх (особенно в Valorant). Проверь shader cache, фоновые сервисы, ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28627",
+      "image_url": "https://cdn4.telesco.pe/file/t2CrHRHlK3SM11aJewWitaAN_pl8HOHkbChMFE38fUrBdXx8-HDLD7dQlH6pnraS7oqxR3w4SgGcTtFpW5Zf9UjKFlHVWf17sF_83RVmtJJZl30IFizlogx5uHY5zSNPG0llvz7HNL3ZQgzSuQDGGx0lpr3FwSHbUZ373cYq416h1LIgKcd054O7ZkC4hqc37c7R5kKpjSuuCh8iohq22SJYpPY_sG2UC9W4rme0XkKCwqO8qZv5TFZTifLU9wTUBo68JHSLenRyCJsZx0S2R8bf3yUJ7bn-c9N_fx9S2tnX0s6gLE9nHhXZza4dPwt1BbRO48IdW995wVmB6Im8uA.jpg",
+      "pub_date": "2026-05-23T21:19:57+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T21:33:08.564Z",
+      "created_at": "2026-05-23T21:33:08.564Z"
     }
   ]
 }
