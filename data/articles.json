@@ -189930,7 +189930,7 @@
         "Qwen"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T10:52:36.827Z",
       "created_at": "2026-05-23T10:52:36.827Z"
     },
@@ -190002,7 +190002,7 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T11:58:12.291Z",
       "created_at": "2026-05-23T11:58:12.291Z"
     },
@@ -190178,6 +190178,93 @@
       "priority": "hot",
       "fetchedAt": "2026-05-23T11:58:14.838Z",
       "created_at": "2026-05-23T11:58:14.838Z"
+    },
+    {
+      "id": 9158,
+      "source": "Interesting Engineering",
+      "title_en": "SpaceX’s most powerful rocket ever launched in test, but booster fails and crashes",
+      "description_en": "SpaceX’s giant Starship V3 rocket test saw its booster crash into the Indian Ocean during...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/spacex-most-powerful-rocket-booster-fails",
+      "image_url": "https://www.youtube.com/embed/xGF2gUrv0WA",
+      "pub_date": "Sat, 23 May 2026 12:34:07 +0000",
+      "author": "Jijo Malayil",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T12:41:36.157Z",
+      "created_at": "2026-05-23T12:41:36.157Z"
+    },
+    {
+      "id": 9159,
+      "source": "Interesting Engineering",
+      "title_en": "First physical evidence of legendary Peruvian hairless dogs found in Wari tombs",
+      "description_en": "Archaeologists have discovered the first physical evidence of Peruvian hairless dogs at the only Wari...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/culture/first-evidence-of-peruvian-hairless-dogs",
+      "image_url": "https://www.youtube.com/embed/q-hr-Qc4Dz0",
+      "pub_date": "Sat, 23 May 2026 12:22:57 +0000",
+      "author": "Maria Mocerino",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T12:41:36.157Z",
+      "created_at": "2026-05-23T12:41:36.157Z"
+    },
+    {
+      "id": 9160,
+      "source": "Tom's Hardware",
+      "title_en": "Micron's Virginia fab begins producing America's most advanced DRAM memory — fab expansion to quadruple output, easing DDR4 shortage for automotive and defense sectors",
+      "description_en": "Micron is scaling up DDR4 production as the supply of the older memory standard has become unexpectedly tight.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/micron-begins-producing-americas-most-advanced-dram-at-its-virginia-fab",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/MKPAJtT8MT8FuEjoJ2s7Ko-1280-80.jpg",
+      "pub_date": "Sat, 23 May 2026 12:00:00 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T12:41:36.616Z",
+      "created_at": "2026-05-23T12:41:36.616Z"
+    },
+    {
+      "id": 9161,
+      "source": "Backdoor (TG)",
+      "title_en": "Генерим современные веб-интерфейсы за секунду — Google выложили свой набор скиллов, в который они вложили лучшие дизайн-практики мира!• Modern Web Guidance делает из вашего ИИ-агента топового дизайнер",
+      "description_en": "Генерим современные веб-интерфейсы за секунду — Google выложили свой набор скиллов, в который они вложили лучшие дизайн-практики мира!• Modern Web Guidance делает из вашего ИИ-агента топового дизайнера и буквально кормит его знаниями от сотен специалистов.• Внутри — больше 100 актуальных скиллов, которые проверили эксперты.• Никаких устаревших API и старых UI-дизайнов — только современные бизнес-решения.• Работает с Claude Code, Cursor и Antigravity.😶😶😶😶😶😶😶😶😶Дизайним как профи — тут.👍 ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28620",
+      "image_url": null,
+      "pub_date": "2026-05-23T12:16:15+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T12:41:37.666Z",
+      "created_at": "2026-05-23T12:41:37.666Z"
+    },
+    {
+      "id": 9162,
+      "source": "XOR Journal (TG)",
+      "title_en": "Ор, появился сайт, который показывает — окупились ли инвестиции в ИИ. 🤑Внутри интерактивная панель с расходами и доходами OpenAI, Google, Microsoft, Meta, Amazon, xAI и других компаний. Можно сортиро",
+      "description_en": "Ор, появился сайт, который показывает — окупились ли инвестиции в ИИ. 🤑Внутри интерактивная панель с расходами и доходами OpenAI, Google, Microsoft, Meta, Amazon, xAI и других компаний. Можно сортировать их по прибыли, убыткам, выручке и осознать, что от всей этой ИИ-гонки пока выигрывает… только Nvidia.Следим за ИИ-пузырем 📈@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9343",
+      "image_url": "https://cdn4.telesco.pe/file/pwD7zkpuaAwgFbKEBvB5ObILmCjcVXBOb-gBCxuSz2_-BCHnOpvitBupMTg9rulOTW_f19GvPgpUOA-e9ha-hhXiQZZLKa3Aj9dhRwx48wu0AerEWuQbemiVc8WJxXsKynCzAEjgy8XrCk19E-aqMcLr8yq4HEkWKA1sV9mVUwry_gBct1gn7aSedqUDqGq2Hia0aEc0iQeI-rYEymyH3BnGLFh_BZtQ2NHMjrBKlUbk1doQwFjbROM9CemuBVIDbEFOAoUqQ4VYDp0B2qmJerB5fzHJnKIc78t2ddctHHUFY4vT_0m-EJnMNVAVVgXIHl79A-8aREBWpqxOCBnO7g.jpg",
+      "pub_date": "2026-05-23T12:40:21+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T12:41:37.958Z",
+      "created_at": "2026-05-23T12:41:37.958Z"
     }
   ]
 }
