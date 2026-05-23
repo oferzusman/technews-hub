@@ -189568,7 +189568,7 @@
       "author": "Neetika Walter",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T22:34:00.606Z",
       "created_at": "2026-05-22T22:34:00.606Z"
     },
@@ -189609,7 +189609,7 @@
         "NTSB"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T23:45:43.021Z",
       "created_at": "2026-05-22T23:45:43.021Z"
     },
@@ -189626,7 +189626,7 @@
       "author": "C.C. Weiss",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T23:45:44.775Z",
       "created_at": "2026-05-22T23:45:44.775Z"
     },
@@ -189643,7 +189643,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-22T23:45:48.160Z",
       "created_at": "2026-05-22T23:45:48.160Z"
     },
@@ -189663,6 +189663,23 @@
       "priority": "hot",
       "fetchedAt": "2026-05-23T00:07:33.477Z",
       "created_at": "2026-05-23T00:07:33.477Z"
+    },
+    {
+      "id": 9134,
+      "source": "New Atlas",
+      "title_en": "Watch: Daredevil fish climb 50-foot waterfall in never-seen-before video",
+      "description_en": "At the end of the rainy and beginning of the dry season, thousands of small fish, about 5 cm (2 inches) in length, begin scaling a near-vertical rock face soaked in waterfall splash.\nContinue Reading\nCategory: Biology, Science\nTags: Marine Biology, Behavior, Animal science, nature",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/biology/shellear-fish-climb-50-foot-waterfall/",
+      "image_url": null,
+      "pub_date": "Sat, 23 May 2026 00:12:00 GMT",
+      "author": "Jay Kakade",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T01:29:23.036Z",
+      "created_at": "2026-05-23T01:29:23.036Z"
     }
   ]
 }
