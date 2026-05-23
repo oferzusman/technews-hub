@@ -190465,7 +190465,7 @@
         }
       ],
       "translated": false,
-      "priority": "batch",
+      "priority": "hot",
       "fetchedAt": "2026-05-23T15:08:11.537Z",
       "created_at": "2026-05-23T15:08:11.537Z"
     },
@@ -190493,43 +190493,6 @@
       "priority": "hot",
       "fetchedAt": "2026-05-23T16:00:07.981Z",
       "created_at": "2026-05-23T16:00:07.981Z"
-    },
-    {
-      "id": 9171,
-      "source": "Tom's Hardware",
-      "title_en": "007: First Light drops last-minute Denuvo DRM bombshell, leaving pre-order customers and fans furious — Bond title risks FPS drops and strict online check-ins, Pirates eagerly await repack as day-one cracks become the norm",
-      "description_en": "IO Interative's latest James Bond adventure has been hit with the curse of Denuvo DRM, leaving many paying customers frustrated over a deliberate roadblock. With all versions of Denuvo now cracked anyways, there's a high chance 007: First Light will be cracked within a few days of its launch anyways.",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/007-first-light-drops-last-minute-denuvo-drm-bombshell-leaving-pre-order-customers-and-fans-furious-bond-title-risks-fps-drops-and-strict-online-check-ins-pirates-eagerly-await-repack-as-day-one-cracks-become-the-norm",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/bNbBCDxhXnNEnZ8yNB5ctG-1280-80.jpg",
-      "pub_date": "Sat, 23 May 2026 16:08:14 +0000",
-      "author": " Hassam Nasir ",
-      "categories": [
-        "PC Gaming",
-        "Video Games"
-      ],
-      "translated": false,
-      "priority": "hot",
-      "fetchedAt": "2026-05-23T16:30:03.973Z",
-      "created_at": "2026-05-23T16:30:03.973Z"
-    },
-    {
-      "id": 9172,
-      "source": "AI Post (TG)",
-      "title_en": "It won't be long until robots beat pro soccer players. Booster Robotics' upcoming T2 humanoid.@aipost 🏴",
-      "description_en": "It won't be long until robots beat pro soccer players. Booster Robotics' upcoming T2 humanoid.@aipost 🏴",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://t.me/aipost/7008",
-      "image_url": null,
-      "pub_date": "2026-05-23T16:12:30+00:00",
-      "author": null,
-      "categories": [],
-      "translated": false,
-      "priority": "hot",
-      "fetchedAt": "2026-05-23T16:30:10.452Z",
-      "created_at": "2026-05-23T16:30:10.452Z"
     }
   ]
 }
