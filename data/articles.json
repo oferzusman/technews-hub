@@ -189731,6 +189731,62 @@
       "priority": "batch",
       "fetchedAt": "2026-05-23T07:14:54.639Z",
       "created_at": "2026-05-23T07:14:54.639Z"
+    },
+    {
+      "id": 9138,
+      "source": "The Decoder",
+      "title_en": "Anthropic warns Claude Mythos Preview finds bugs faster than developers can patch them",
+      "description_en": "Anthropic's AI model Claude Mythos Preview, working with about 50 partners as part of Project Glasswing, has found over 10,000 critical vulnerabilities in system-critical software. The bugs are piling up faster than anyone can patch them. Anthropic warns this creates a high-risk transition period and says no company, itself included, has built safeguards strong enough to prevent misuse of these models.\nThe article Anthropic warns Claude Mythos Preview finds bugs faster than developers can patch ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-warns-claude-mythos-preview-finds-bugs-faster-than-developers-can-patch-them/",
+      "image_url": null,
+      "pub_date": "Sat, 23 May 2026 07:42:10 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Claude"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T08:04:39.469Z",
+      "created_at": "2026-05-23T08:04:39.469Z"
+    },
+    {
+      "id": 9139,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Вычищаем Windows от мусора и бесполезных процессов — нашли тулзу OptimizerDuck, которая напрочь вырубает телеметрию, рекламу, Copilot, все фоновые сервисы и процессы. Она уберет любые вещи, которые",
+      "description_en": "⚡️ Вычищаем Windows от мусора и бесполезных процессов — нашли тулзу OptimizerDuck, которая напрочь вырубает телеметрию, рекламу, Copilot, все фоновые сервисы и процессы. Она уберет любые вещи, которые замедляют вашу систему.• Программа собирает все в один список, чтобы вы не копались в реестре и бесконечных гайдах.• Сервис оптимизирует комп для игр, настраивает GPU и производительность процессора, работает с менеджером автозагрузки, удаляет встроенный bloatware, чистит систему.• При этом инструм",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28614",
+      "image_url": "https://cdn4.telesco.pe/file/lBeOiXOmDSA5YZSuxHoV67zWCJvOd7AhkWDFy4_qAlCvLFQGJD6Sf-bxlQN8hy3Ufs1iC3tXv9EaTyAEEX5ugcyuZrUT4mTUvXAoYB5I9suddRX20jo8z57QS2LMFa1dD1_l9brfss_DOktzrK2G3TUMxZUkcNmx8WDdTFqKfyhvgZDFJAmHsRbKGPibpYKJeqOu5VlRYTYTJ3cQ47jUEEo2fEZ7ix1xW2dbGViqw6qWLEluLfQYIhlCmBVuXH6xvsWkLWJRwJpFVnxQGz1r6LJN8D9p94F6OzgCVjYF06FPHtrQMX5dqbkIOcViIvDXgG-pbajPGRd72FPUqZ1qbg.jpg",
+      "pub_date": "2026-05-23T07:57:18+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T08:04:42.818Z",
+      "created_at": "2026-05-23T08:04:42.818Z"
+    },
+    {
+      "id": 9140,
+      "source": "XOR Journal (TG)",
+      "title_en": "Google выложили Modern Web Guidance — свою библиотеку скиллов для создания современных веб-интерфейсов.Дело в том, что модели обучаются на старом коде и на ответах со Stack Overflow. Поэтому даже лучш",
+      "description_en": "Google выложили Modern Web Guidance — свою библиотеку скиллов для создания современных веб-интерфейсов.Дело в том, что модели обучаются на старом коде и на ответах со Stack Overflow. Поэтому даже лучшие ИИ до сих пор регулярно генерируют сомнительный UI и выбирают небезопасные решения. Modern Web Guidance это как раз и исправляет.Внутри — актуальные и проверенные экспертами практики для 100+ сценариев, всё подключается и работает с Claude Code, Copilot CLI и другими агентами. Сами Google говорят",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9342",
+      "image_url": null,
+      "pub_date": "2026-05-23T07:51:11+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T08:04:42.938Z",
+      "created_at": "2026-05-23T08:04:42.938Z"
     }
   ]
 }
