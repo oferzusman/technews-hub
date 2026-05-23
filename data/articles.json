@@ -190527,7 +190527,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T16:31:18.874Z",
       "created_at": "2026-05-23T16:31:18.874Z"
     },
@@ -190589,6 +190589,23 @@
       "priority": "hot",
       "fetchedAt": "2026-05-23T17:34:43.954Z",
       "created_at": "2026-05-23T17:34:43.954Z"
+    },
+    {
+      "id": 9176,
+      "source": "XOR Journal (TG)",
+      "title_en": "Прямо сейчас в Москве проходит городская игра «Рекурсия по городу» от Яндекса — инженеры вышли на улицы чинить чужой легаси-код 14-летней давности.😄Участники копаются в остатках заброшенной системы в",
+      "description_en": "Прямо сейчас в Москве проходит городская игра «Рекурсия по городу» от Яндекса — инженеры вышли на улицы чинить чужой легаси-код 14-летней давности.😄Участники копаются в остатках заброшенной системы в поисках ответов и ключей. Задания чисто для своих:🟢 Чтобы запустить секьюрити-блок, спускаешься в бункер, светишь УФ-фонариком на доску и ищешь некритические алерты (например, CVE-1998 не может существовать — программа CVE работает с 1999-го). Из этого собирается физический пулл-реквест.🟢 Есть и ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9344",
+      "image_url": "https://cdn4.telesco.pe/file/E5263IeDQvBi6Cog3vIde365NXm-5cGvsbyQX4hhKGOv_TGFx43q5pNoUmfmQkvbVnkbZeQlZtt8JH6k9ZgXVolbSAtwzj9dqg7NRpBXjahlXOdvq1MDCxjWmSFdhVLOySk7fA-Z9L5Jx8RY6c1EdOEt5S60fsIujuRqP4LyTgcsmhDFH12cWDAyUhaKs5GCQ9LCEqcCji6DSy0kNmDuYSJAuWAGZIWplyRhGJhrN4_6FhCYq6v8qpIYMiZfBHoP0ZOlz6pOMpCTGvOVJH-AjwIRGmWRk1eidljwxIuuFIZR4v8oEQYmbJQWCVFSZqKROA2mikElJqSBsX5j6PK2Mg.jpg",
+      "pub_date": "2026-05-23T18:40:09+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T18:41:22.620Z",
+      "created_at": "2026-05-23T18:41:22.620Z"
     }
   ]
 }
