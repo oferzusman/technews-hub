@@ -189947,7 +189947,7 @@
       "author": "Allison Johnson",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T11:58:10.556Z",
       "created_at": "2026-05-23T11:58:10.556Z"
     },
@@ -189970,7 +189970,7 @@
         "AI in education"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T11:58:11.874Z",
       "created_at": "2026-05-23T11:58:11.874Z"
     },
@@ -190062,7 +190062,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T11:58:12.496Z",
       "created_at": "2026-05-23T11:58:12.496Z"
     },
@@ -190079,7 +190079,7 @@
       "author": "Christopher McFadden",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T11:58:13.213Z",
       "created_at": "2026-05-23T11:58:13.213Z"
     },
@@ -190100,7 +190100,7 @@
         "Storage"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T11:58:13.531Z",
       "created_at": "2026-05-23T11:58:13.531Z"
     },
@@ -190120,7 +190120,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T11:58:13.532Z",
       "created_at": "2026-05-23T11:58:13.532Z"
     },
@@ -190141,7 +190141,7 @@
         "Microcontrollers"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T11:58:13.532Z",
       "created_at": "2026-05-23T11:58:13.532Z"
     },
@@ -190158,7 +190158,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T11:58:14.620Z",
       "created_at": "2026-05-23T11:58:14.620Z"
     },
@@ -190175,7 +190175,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-23T11:58:14.838Z",
       "created_at": "2026-05-23T11:58:14.838Z"
     },
@@ -190265,6 +190265,87 @@
       "priority": "hot",
       "fetchedAt": "2026-05-23T12:41:37.958Z",
       "created_at": "2026-05-23T12:41:37.958Z"
+    },
+    {
+      "id": 9163,
+      "source": "TechCrunch AI",
+      "title_en": "Elon Musk has given up on solar power (on Earth)",
+      "description_en": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "image_url": null,
+      "pub_date": "Sat, 23 May 2026 13:00:00 +0000",
+      "author": "Tim De Chant",
+      "categories": [
+        "AI",
+        "Climate",
+        "Analysis",
+        "data centers",
+        "Elon Musk",
+        "Solar Power",
+        "SpaceX",
+        "Tesla",
+        "xAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T13:48:19.551Z",
+      "created_at": "2026-05-23T13:48:19.551Z"
+    },
+    {
+      "id": 9164,
+      "source": "Interesting Engineering",
+      "title_en": "China’s J-35 stealth jets could be deployed on every aircraft carrier, state media says",
+      "description_en": "According to Chinese state media, all three of China’s aircraft carriers could soon field the...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/china-j35-stealth-jets-on-every-aircraft-carrier",
+      "image_url": "https://www.youtube.com/embed/-P3SXEIWOKY",
+      "pub_date": "Sat, 23 May 2026 12:47:51 +0000",
+      "author": "Christopher McFadden",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T13:48:22.342Z",
+      "created_at": "2026-05-23T13:48:22.342Z"
+    },
+    {
+      "id": 9165,
+      "source": "Tom's Hardware",
+      "title_en": "AI cost crisis hits tech giants as employee 'tokenmaxxing' backfires — agentic AI eats up to 1000x more tokens than standard AI, sparks corporate pullback at Microsoft, Meta, and Amazon",
+      "description_en": "Agentic AI is consuming so many tokens that it's draining AI budgets way faster than expected. Jevons Paradox rings true 161 years after it was coined.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-cost-crisis-hits-tech-giants-as-employee-tokenmaxxing-backfires-agentic-ai-eats-up-to-1000x-more-tokens-than-standard-ai-sparks-corporate-pullback-at-microsoft-meta-and-amazon",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/iBu6BXKDx9eNtLPFhAZHXh-1280-80.jpg",
+      "pub_date": "Sat, 23 May 2026 13:43:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T13:48:22.716Z",
+      "created_at": "2026-05-23T13:48:22.716Z"
+    },
+    {
+      "id": 9166,
+      "source": "CNBC Tech",
+      "title_en": "Microsoft’s new responsible tech lead on how to humanize high-speed AI development",
+      "description_en": "Jenny Lay-Flurrie, head of Microsoft's Trusted Technology Group, says responsible tech is: How do we build it right? And how do we keep it that way?",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/23/microsofts-new-responsible-tech-lead-on-high-speed-ai-development.html",
+      "image_url": null,
+      "pub_date": "Sat, 23 May 2026 13:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-23T13:48:22.792Z",
+      "created_at": "2026-05-23T13:48:22.792Z"
     }
   ]
 }
