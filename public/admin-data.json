@@ -1,9 +1,9 @@
 {
-  "total": 9140,
+  "total": 9145,
   "translated": 8824,
-  "untranslated": 316,
-  "today": 8,
-  "week": 784,
+  "untranslated": 321,
+  "today": 13,
+  "week": 789,
   "sources": [
     {
       "name": "Product Hunt",
@@ -55,7 +55,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 358,
+      "total": 359,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -91,15 +91,15 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 213,
+      "total": 214,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
       "name": "AI Post (TG)",
-      "total": 190,
+      "total": 191,
       "translated": 168,
-      "lastDate": "2026-05-23T05:22:02+00:00"
+      "lastDate": "2026-05-23T08:25:00+00:00"
     },
     {
       "name": "XOR Journal (TG)",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 70,
+      "total": 71,
       "translated": 63,
-      "lastDate": "2026-05-22T11:27:00+00:00"
+      "lastDate": "2026-05-23T08:07:01+00:00"
     },
     {
       "name": "Github.com",
@@ -175,9 +175,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 48,
+      "total": 49,
       "translated": 47,
-      "lastDate": "2026-05-21T16:04:09+00:00"
+      "lastDate": "2026-05-23T09:00:58+00:00"
     },
     {
       "name": "Wylsacom Red (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-23T08:54:02.636Z"
+  "generatedAt": "2026-05-23T09:22:43.179Z"
 }
