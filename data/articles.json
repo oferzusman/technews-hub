@@ -190985,7 +190985,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T07:36:50.691Z",
       "created_at": "2026-05-24T07:36:50.691Z"
     },
@@ -191073,7 +191073,7 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T08:08:32.654Z",
       "created_at": "2026-05-24T08:08:32.654Z"
     },
@@ -191090,9 +191090,82 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T08:08:37.371Z",
       "created_at": "2026-05-24T08:08:37.371Z"
+    },
+    {
+      "id": 9195,
+      "source": "The Decoder",
+      "title_en": "Anthropic may keep supplying Claude to the NSA despite being flagged as a supply chain risk by the Pentagon",
+      "description_en": "Anthropic will likely keep supplying AI models to the NSA despite being labeled a \"supply chain risk.\" Intelligence agencies lack Nvidia's latest Grace Blackwell chips, and Anthropic's \"Mythos\" model reportedly runs on older hardware too. The controversial \"any lawful use\" clause that derailed earlier talks is not part of the deal.\nThe article Anthropic may keep supplying Claude to the NSA despite being flagged as a supply chain risk by the Pentagon appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-may-keep-supplying-claude-to-the-nsa-despite-being-flagged-as-a-supply-chain-risk-by-the-pentagon/",
+      "image_url": null,
+      "pub_date": "Sun, 24 May 2026 08:51:02 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Anthropic"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T09:54:05.641Z",
+      "created_at": "2026-05-24T09:54:05.641Z"
+    },
+    {
+      "id": 9196,
+      "source": "XOR Journal (TG)",
+      "title_en": "Аж плохо стало 🤬@xor_journal",
+      "description_en": "Аж плохо стало 🤬@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9353",
+      "image_url": "https://cdn4.telesco.pe/file/gX-D3WARCD_BCIkb_Qpdn8CEdtb05ViXHHcY7hiWI9bVff3-b1ZDCy4r_vHPRA8gj9PJZTK8eOOr1QEkprVJa_YOkLm_gUEl9Z0ZZuDnzx4uFmFkQhWrvD0ZhkIoiqMJmYsD_Bd52HXJdKadV_y9fPh9Im9s8zdFuRZw8GAb3HFr_cZ0BTyNNtNRoDao2V9KxhhDWv519hQkDHRyHW4Ybs0RNbouU-T79djX4xIB1VU-vbtO2pTMfC1QQGxJbRunnNuVbNfJ60roNF32wlYtnpNK6Fxj22NDu2anQ8G7ELjEcwpZo12ffenPs069ZWjOn3nuQzyYHnd1JL2OPz6WHg.jpg",
+      "pub_date": "2026-05-24T08:47:15+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T09:54:12.006Z",
+      "created_at": "2026-05-24T09:54:12.006Z"
+    },
+    {
+      "id": 9197,
+      "source": "Backdoor (TG)",
+      "title_en": "Выкручиваем эффективность ИИ-агентов на максимум — Microsoft выкатили AI Engineer Coach. Это плагин для VS Code, Cursor и Antigravity, который мощно прокачивает любых нейропомощников.• Читает, изучает",
+      "description_en": "Выкручиваем эффективность ИИ-агентов на максимум — Microsoft выкатили AI Engineer Coach. Это плагин для VS Code, Cursor и Antigravity, который мощно прокачивает любых нейропомощников.• Читает, изучает и анализирует локальные логи сессий из GitHub Copilot, Claude Code, Codex CLI, OpenCode и Xcode. • Оценивает ваш воркфлоу по пяти параметрам, включая качество промптов и работу с контекстом.• Проверяет типичные ошибки по базе из 45 паттернов: ненужный расход токенов, длинные сессии и прочее.• Храни",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28629",
+      "image_url": null,
+      "pub_date": "2026-05-24T08:41:43+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T09:54:12.041Z",
+      "created_at": "2026-05-24T09:54:12.041Z"
+    },
+    {
+      "id": 9198,
+      "source": "AI Post (TG)",
+      "title_en": "Fei-Fei Li has offered a clear framework for understanding robotics, emphasizing their purpose over their appearance. Robotics are defined as “embodied machines” that operate by perceiving, interpreti",
+      "description_en": "Fei-Fei Li has offered a clear framework for understanding robotics, emphasizing their purpose over their appearance. Robotics are defined as “embodied machines” that operate by perceiving, interpreting, and acting within a three-dimensional physical environment.According to Li, the fundamental unifier of all robotics is spatial intelligence — the capacity enabling robots to carry out physical tasks and collaborate with humans in real-world settings.Historically, humanity has operated in a singl",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7013",
+      "image_url": null,
+      "pub_date": "2026-05-24T08:24:19+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T09:54:12.610Z",
+      "created_at": "2026-05-24T09:54:12.610Z"
     }
   ]
 }
