@@ -190830,7 +190830,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T05:44:39.436Z",
       "created_at": "2026-05-24T05:44:39.436Z"
     },
@@ -190847,9 +190847,181 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T05:44:42.785Z",
       "created_at": "2026-05-24T05:44:42.785Z"
+    },
+    {
+      "id": 9188,
+      "source": "The Guardian AI",
+      "title_en": "‘AI washing’: firms are scrambling to rebrand themselves as tech-focused",
+      "description_en": "PR executives say UK companies are forcing them to present ordinary automation as artificial intelligence \nUK companies are performing “yoga-level” stretches to describe themselves as AI specialists in an attempt to capitalise on the buzz around the technology, public relations firms have said.\nWeary communications executives tasked with securing media coverage for brands have complained that bosses in low-tech industries or running businesses that use automation but not generative AI, are incre",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+      "image_url": "https://i.guim.co.uk/img/media/6c4dd4b2880760003ffbd14e8d6884b367237ad3/1844_305_2349_1879/master/2349.jpg?width=140&quality=85&auto=format&fit=max&s=4e8c2b81df6245421d9f8f5cbadb68d9",
+      "pub_date": "Sun, 24 May 2026 06:00:50 GMT",
+      "author": "Aisha Down",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Marketing & PR",
+          "$": {
+            "domain": "https://www.theguardian.com/media/marketingandpr"
+          }
+        },
+        {
+          "_": "Media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/media"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T07:36:50.691Z",
+      "created_at": "2026-05-24T07:36:50.691Z"
+    },
+    {
+      "id": 9189,
+      "source": "The Guardian AI",
+      "title_en": "I avoid AI tools because thinking is supposed to be hard. It’s what makes us human | Wendy Liu",
+      "description_en": "As intelligence itself becomes privatised by big tech, allowing your intellectual faculties to wither in service of inane bots seems a dangerous move\nLong before the age of multi-billion-dollar AI companies promising to disrupt the field of software development, I was learning to code the hard way.\nIt was the mid-2000s, and I was a child with unmonitored access to the family computer. With the help of a basic text editor program, I learned how to make websites – first basic, then increasingly co",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/may/24/ai-tools-thinking-human-hard-coding-writing-technology",
+      "image_url": "https://i.guim.co.uk/img/media/33da76068c7ef0751e582a1edd27000a2d1070aa/977_0_4374_3500/master/4374.jpg?width=140&quality=85&auto=format&fit=max&s=7ccaa04994d6c5d1ec89af88e15927e9",
+      "pub_date": "Sun, 24 May 2026 07:00:50 GMT",
+      "author": "Wendy Liu",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Silicon Valley",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/silicon-valley"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Education",
+          "$": {
+            "domain": "https://www.theguardian.com/education/education"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Children",
+          "$": {
+            "domain": "https://www.theguardian.com/society/children"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Society",
+          "$": {
+            "domain": "https://www.theguardian.com/society/society"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T07:36:50.691Z",
+      "created_at": "2026-05-24T07:36:50.691Z"
+    },
+    {
+      "id": 9190,
+      "source": "Product Hunt",
+      "title_en": "Runway Agent",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/runway-agent",
+      "image_url": null,
+      "pub_date": "2026-05-14T03:37:40.000Z",
+      "author": "Rohan Chaubey",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-24T07:36:55.616Z",
+      "created_at": "2026-05-24T07:36:55.616Z"
+    },
+    {
+      "id": 9191,
+      "source": "Product Hunt",
+      "title_en": "Freu AI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/freu-cli",
+      "image_url": null,
+      "pub_date": "2026-05-19T01:08:40.000Z",
+      "author": "Justin Jincaid",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-24T07:36:55.616Z",
+      "created_at": "2026-05-24T07:36:55.616Z"
     }
   ]
 }
