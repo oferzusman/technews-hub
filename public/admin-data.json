@@ -1,9 +1,9 @@
 {
-  "total": 9191,
+  "total": 9194,
   "translated": 8824,
-  "untranslated": 367,
-  "today": 7,
-  "week": 780,
+  "untranslated": 370,
+  "today": 10,
+  "week": 783,
   "sources": [
     {
       "name": "Product Hunt",
@@ -55,7 +55,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 362,
+      "total": 363,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -91,7 +91,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 217,
+      "total": 218,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -151,9 +151,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 71,
+      "total": 72,
       "translated": 63,
-      "lastDate": "2026-05-23T08:07:01+00:00"
+      "lastDate": "2026-05-24T07:44:40+00:00"
     },
     {
       "name": "Github.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-24T07:38:50.865Z"
+  "generatedAt": "2026-05-24T08:15:32.783Z"
 }
