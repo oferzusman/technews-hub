@@ -1,9 +1,9 @@
 {
-  "total": 9216,
+  "total": 9222,
   "translated": 8824,
-  "untranslated": 392,
-  "today": 32,
-  "week": 805,
+  "untranslated": 398,
+  "today": 38,
+  "week": 811,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,13 +13,13 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 696,
+      "total": 698,
       "translated": 652,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 669,
+      "total": 670,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 365,
+      "total": 367,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -132,16 +132,16 @@
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
     {
+      "name": "Backdoor (TG)",
+      "total": 80,
+      "translated": 68,
+      "lastDate": "2026-05-24T13:42:33+00:00"
+    },
+    {
       "name": "The Times of India",
       "total": 79,
       "translated": 79,
       "lastDate": "2026-04-09T07:23:47Z"
-    },
-    {
-      "name": "Backdoor (TG)",
-      "total": 79,
-      "translated": 68,
-      "lastDate": "2026-05-24T12:05:51+00:00"
     },
     {
       "name": "GlobeNewswire",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-24T13:51:13.071Z"
+  "generatedAt": "2026-05-24T14:20:19.886Z"
 }
