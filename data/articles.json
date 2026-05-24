@@ -191235,7 +191235,7 @@
       "author": "Abhimanyu Ghoshal",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T11:16:40.076Z",
       "created_at": "2026-05-24T11:16:40.076Z"
     },
@@ -191252,7 +191252,7 @@
       "author": "Jijo Malayil",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T11:16:40.799Z",
       "created_at": "2026-05-24T11:16:40.799Z"
     },
@@ -191271,7 +191271,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T11:16:41.290Z",
       "created_at": "2026-05-24T11:16:41.290Z"
     },
@@ -191288,7 +191288,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T11:16:42.156Z",
       "created_at": "2026-05-24T11:16:42.156Z"
     },
@@ -191305,7 +191305,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T11:16:42.558Z",
       "created_at": "2026-05-24T11:16:42.558Z"
     },
@@ -191322,7 +191322,7 @@
       "author": "Christopher McFadden",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T11:40:21.772Z",
       "created_at": "2026-05-24T11:40:21.772Z"
     },
@@ -191341,7 +191341,7 @@
         "3D Printing"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T11:40:22.082Z",
       "created_at": "2026-05-24T11:40:22.082Z"
     },
@@ -191361,7 +191361,7 @@
         "Peripherals"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T11:40:22.082Z",
       "created_at": "2026-05-24T11:40:22.082Z"
     },
@@ -191378,7 +191378,7 @@
       "author": "Robert Hart",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T12:40:51.610Z",
       "created_at": "2026-05-24T12:40:51.610Z"
     },
@@ -191395,7 +191395,7 @@
       "author": "Bojan Stojkovski",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T12:40:54.511Z",
       "created_at": "2026-05-24T12:40:54.511Z"
     },
@@ -191434,7 +191434,7 @@
         "Peripherals"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T12:40:54.848Z",
       "created_at": "2026-05-24T12:40:54.848Z"
     },
@@ -191453,7 +191453,7 @@
         "Maker and STEM"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T12:40:54.848Z",
       "created_at": "2026-05-24T12:40:54.848Z"
     },
@@ -191470,7 +191470,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T12:40:57.445Z",
       "created_at": "2026-05-24T12:40:57.445Z"
     },
@@ -191487,7 +191487,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T12:40:57.993Z",
       "created_at": "2026-05-24T12:40:57.993Z"
     },
@@ -191510,6 +191510,123 @@
       "priority": "hot",
       "fetchedAt": "2026-05-24T12:47:47.847Z",
       "created_at": "2026-05-24T12:47:47.847Z"
+    },
+    {
+      "id": 9217,
+      "source": "The Decoder",
+      "title_en": "ByteDance study finds that asking LMMs questions beats making it transcribe text for long document training",
+      "description_en": "ByteDance Seed shows that a 7B model can answer questions on long, image-heavy documents more reliably than much larger models, even when documents are four times longer than anything it saw during training. Instead of transcribing pages, the model learns by answering questions and finding the right passages on its own.\nThe article ByteDance study finds that asking LMMs questions beats making it transcribe text for long document training appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/bytedance-study-finds-that-asking-lmms-questions-beats-making-it-transcribe-text-for-long-document-training/",
+      "image_url": null,
+      "pub_date": "Sun, 24 May 2026 13:28:45 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "ByteDance"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T14:15:37.731Z",
+      "created_at": "2026-05-24T14:15:37.731Z"
+    },
+    {
+      "id": 9218,
+      "source": "The Decoder",
+      "title_en": "Deepmind's Hassabis sees humanity \"in the foothills of the singularity\" while LeCun says current AI isn't intelligent",
+      "description_en": "Yann LeCun says current AI systems aren't genuinely intelligent. Demis Hassabis thinks humanity is already \"standing in the foothills of the singularity.\" And Gemini co-lead Oriol Vinyals splits the difference: today's models would've looked like AGI seven years ago, but they still can't learn from experience or produce real breakthroughs.\nThe article Deepmind's Hassabis sees humanity \"in the foothills of the singularity\" while LeCun says current AI isn't intelligent appeared first on The Decode",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/deepminds-hassabis-sees-humanity-in-the-foothills-of-the-singularity-while-lecun-says-current-ai-isnt-intelligent/",
+      "image_url": null,
+      "pub_date": "Sun, 24 May 2026 12:54:07 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "Research"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T14:15:37.731Z",
+      "created_at": "2026-05-24T14:15:37.731Z"
+    },
+    {
+      "id": 9219,
+      "source": "Interesting Engineering",
+      "title_en": "Thin air turned into power as new generator uses everyday material like salt, gelatin",
+      "description_en": "Researchers from Queen Mary University of London, the University of Warwick, Imperial College London, and...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/thin-air-turned-into-power",
+      "image_url": null,
+      "pub_date": "Sun, 24 May 2026 13:22:56 +0000",
+      "author": "Aman Tripathi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T14:15:39.944Z",
+      "created_at": "2026-05-24T14:15:39.944Z"
+    },
+    {
+      "id": 9220,
+      "source": "Tom's Hardware",
+      "title_en": "Steam Machine appears in Vulkan’s conformant product database — upcoming Valve console is certified compliant with the graphics API",
+      "description_en": "The Khronos Group, which created the Vulkan API standard and continues to develop and maintain it, added the Steam Machine to its list of conformant products. This does not indicate how far or soon a product will come to the market, but it's a step in the right direction showing that much-awaited console will arrive... someday.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/console-gaming/steam-machine-appears-in-vulkans-conformant-product-database-upcoming-valve-console-is-certified-compliant-with-the-graphics-api",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ezvx5AHi3zwTuCHc9VihpB-1280-80.jpg",
+      "pub_date": "Sun, 24 May 2026 13:17:28 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Console Gaming",
+        "Video Games"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T14:15:40.152Z",
+      "created_at": "2026-05-24T14:15:40.152Z"
+    },
+    {
+      "id": 9221,
+      "source": "Tom's Hardware",
+      "title_en": "We tested Advanced Shader Delivery on the RX 9070 XT in six games — up to 95% improvement in load times and 33 percent faster 1% Low FPS",
+      "description_en": "Today, we will take a look at Advanced Shader Delivery (ASD) – a new gaming feature aimed at improving the overall user experience by reducing load times dramatically and improving 1% low FPS. We tested six games, measuring up to a 95% improvement in game loading times and solid improvements in 1% Low FPS in some titles.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/we-tested-advanced-shader-delivery-on-the-rx-9070-xt",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/qkDbPQVU8R9f2kGQUmEMU4-1280-80.jpg",
+      "pub_date": "Sun, 24 May 2026 12:58:10 +0000",
+      "author": " Dan Mateescu ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T14:15:40.152Z",
+      "created_at": "2026-05-24T14:15:40.152Z"
+    },
+    {
+      "id": 9222,
+      "source": "Backdoor (TG)",
+      "title_en": "Claude заменит целую компанию — вышел репозиторий с 1️⃣1️⃣ плагинами, которые выполняют обязанности огромного списка современных профессий.Это буквально корпорация на одном компе:• Маркетинг, продажи,",
+      "description_en": "Claude заменит целую компанию — вышел репозиторий с 1️⃣1️⃣ плагинами, которые выполняют обязанности огромного списка современных профессий.Это буквально корпорация на одном компе:• Маркетинг, продажи, торговые операции и финансы. Контроль текущей деятельности компании.• Психология, продуктивность, адаптация сотрудников, проджект-менеджмент.• Юриспруденция, защита авторских прав и персональных данных.• Аналитика данных, построение дашбордов, подготовка презентаций, создание аналитических документ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28641",
+      "image_url": "https://cdn4.telesco.pe/file/owD7CRHwG6yIZoRcdUfJH9h4oa_W7qqBGfhMlJu_TpZ2VWq0Od7_Dr_9wTFOq5C80T6BOJCV8LEdO6c8x46seXcO99MruzB36mB6-VOJ3sxrBOsKUT9RQIxllnur9Ym65hC-LrkXNDaFvYmUIa-ZDaDPvOJkiZUV7FeZoj8ooDbv1sBAcWT90gGY08Jupk2wbjLvclWreM4-E_EcaFIT9acwdh2zC8LmXw7bI8OjODdGAesoEKm5KBqi4vbxCW2R5bd7McjVQmPrMErU5-0BK6u7RL2mKAYqK5jEmgn9ZdX0EM-sfyYlEpGn2Es3l0Zx00DXDoSTXqVSirWmpRSy5A.jpg",
+      "pub_date": "2026-05-24T13:42:33+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T14:15:45.615Z",
+      "created_at": "2026-05-24T14:15:45.615Z"
     }
   ]
 }
