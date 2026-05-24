@@ -191414,7 +191414,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T12:40:54.848Z",
       "created_at": "2026-05-24T12:40:54.848Z"
     },
@@ -191507,7 +191507,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T12:47:47.847Z",
       "created_at": "2026-05-24T12:47:47.847Z"
     },
@@ -191528,7 +191528,7 @@
         "ByteDance"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T14:15:37.731Z",
       "created_at": "2026-05-24T14:15:37.731Z"
     },
@@ -191550,7 +191550,7 @@
         "Research"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T14:15:37.731Z",
       "created_at": "2026-05-24T14:15:37.731Z"
     },
@@ -191567,7 +191567,7 @@
       "author": "Aman Tripathi",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T14:15:39.944Z",
       "created_at": "2026-05-24T14:15:39.944Z"
     },
@@ -191587,7 +191587,7 @@
         "Video Games"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T14:15:40.152Z",
       "created_at": "2026-05-24T14:15:40.152Z"
     },
@@ -191607,7 +191607,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T14:15:40.152Z",
       "created_at": "2026-05-24T14:15:40.152Z"
     },
@@ -191646,6 +191646,63 @@
       "priority": "hot",
       "fetchedAt": "2026-05-24T14:23:44.837Z",
       "created_at": "2026-05-24T14:23:44.837Z"
+    },
+    {
+      "id": 9224,
+      "source": "TechCrunch AI",
+      "title_en": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+      "description_en": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+      "image_url": null,
+      "pub_date": "Sun, 24 May 2026 15:00:00 +0000",
+      "author": "Lucas Ropek",
+      "categories": [
+        "AI",
+        "Gadgets",
+        "Amazon",
+        "AI hardware",
+        "Bee wearable"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T15:36:42.282Z",
+      "created_at": "2026-05-24T15:36:42.282Z"
+    },
+    {
+      "id": 9225,
+      "source": "XOR Journal (TG)",
+      "title_en": "Кажется, DeepSeek начали душить в России 🥲Пользователи массово жалуются, что сайт нейросети перестал открываться без VPN. При этом с VPN сервис продолжает нормально работать.«Код Дурова» пишет, что п",
+      "description_en": "Кажется, DeepSeek начали душить в России 🥲Пользователи массово жалуются, что сайт нейросети перестал открываться без VPN. При этом с VPN сервис продолжает нормально работать.«Код Дурова» пишет, что поведение очень похоже на блокировку РКН, но официальных комментариев пока нет.«Соединение с сайтом обрывается на этапе TLS — это поведение совпадает с заблокированными Роскомнадзором сайтами.»,Последнее забирают 🥲@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9355",
+      "image_url": "https://cdn4.telesco.pe/file/uJa1JrkH5FPhZREyKBBjgeKEbaq_jcZIya58j8D3Gsj3sVu7k5vneWANehqjw9qDt12H0qnmzfBzslW15k3IVaL3Nwms43j0-6f7mvFdb2jtvlbUUXDUJoaMJXGwx9ytobkKfl4Flkls08DOos2JRK9qfcL7kJrbPbTxs5YoTcU5j_dmBhGtVlHPapckbSAqSV_FOEdRnjqoUkMubbSSQVu6IXg7Y8-eCZSp44QlJ3oI2lhj2XEDdFmOhx8IIpQ-OvJg_4SkoO0m8ybKklvMuFV2lqHpsSJTVNnf84bOzKkM_KUvlXqgscvoPAxiruhUNECny5r6EvvfBaIq0A0gLg.jpg",
+      "pub_date": "2026-05-24T15:00:35+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T15:36:47.037Z",
+      "created_at": "2026-05-24T15:36:47.037Z"
+    },
+    {
+      "id": 9226,
+      "source": "AI Post (TG)",
+      "title_en": "❗️An AI-generated song (“The Puerto Rico Song”) has blown up on TikTok with more than 50k posts It’s now being called the song of the summer. The creator writes lyrics about cities he visits, and then",
+      "description_en": "❗️An AI-generated song (“The Puerto Rico Song”) has blown up on TikTok with more than 50k posts It’s now being called the song of the summer. The creator writes lyrics about cities he visits, and then feeds them into Suno.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7015",
+      "image_url": null,
+      "pub_date": "2026-05-24T15:04:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T15:36:47.600Z",
+      "created_at": "2026-05-24T15:36:47.600Z"
     }
   ]
 }
