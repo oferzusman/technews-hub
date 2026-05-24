@@ -190779,6 +190779,77 @@
       "priority": "batch",
       "fetchedAt": "2026-05-24T04:11:31.792Z",
       "created_at": "2026-05-24T04:11:31.792Z"
+    },
+    {
+      "id": 9186,
+      "source": "The Guardian AI",
+      "title_en": "‘We’re expanding the cinematic toolbox’: AI fault lines on show at Cannes",
+      "description_en": "Darren Aronofsky among proponents of using technology, while Guillermo del Toro says he would ‘rather die’\nUnder a white marquee on Cannes’ Croisette beach, with the Mediterranean glistening behind him and superyachts drifting across the horizon, the director Darren Aronofsky addressed an audience of executives and tech evangelists gathered for an “AI for Talent” summit.\n“There’s so much pushback against AI,” said Aronofsky, who has faced criticism over his embrace of generative AI projects thou",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/24/cinematic-toolbox-ai-fault-lines-cannes",
+      "image_url": "https://i.guim.co.uk/img/media/c84557861eefbe376f55e4a2d52e4e3e326d127d/218_0_3424_2740/master/3424.jpg?width=140&quality=85&auto=format&fit=max&s=7b80eda7759ff446deee8c6261b4b2c1",
+      "pub_date": "Sun, 24 May 2026 05:00:48 GMT",
+      "author": "Nadia Khomami Arts and culture correspondent",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Cannes film festival",
+          "$": {
+            "domain": "https://www.theguardian.com/film/cannesfilmfestival"
+          }
+        },
+        {
+          "_": "Film",
+          "$": {
+            "domain": "https://www.theguardian.com/film/film"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T05:44:39.436Z",
+      "created_at": "2026-05-24T05:44:39.436Z"
+    },
+    {
+      "id": 9187,
+      "source": "AI Post (TG)",
+      "title_en": "🤖Very soon they become part of our lives, and we will not be able to live without them. Like modern smartphones@aipost 🏴",
+      "description_en": "🤖Very soon they become part of our lives, and we will not be able to live without them. Like modern smartphones@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7012",
+      "image_url": null,
+      "pub_date": "2026-05-24T05:10:12+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T05:44:42.785Z",
+      "created_at": "2026-05-24T05:44:42.785Z"
     }
   ]
 }
