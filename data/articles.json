@@ -191186,7 +191186,7 @@
         "Copilot"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T11:16:39.270Z",
       "created_at": "2026-05-24T11:16:39.270Z"
     },
@@ -191364,6 +191364,132 @@
       "priority": "hot",
       "fetchedAt": "2026-05-24T11:40:22.082Z",
       "created_at": "2026-05-24T11:40:22.082Z"
+    },
+    {
+      "id": 9209,
+      "source": "The Verge AI",
+      "title_en": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
+      "description_en": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nHacking the first generation of AI chatbots was a laughably simple affair. You didn't need any technical know-how, backdoor access, or even a basic understanding of what a large language model was. You didn't need to code. To get an AI system that had c",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+      "image_url": null,
+      "pub_date": "2026-05-24T12:00:00.000Z",
+      "author": "Robert Hart",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T12:40:51.610Z",
+      "created_at": "2026-05-24T12:40:51.610Z"
+    },
+    {
+      "id": 9210,
+      "source": "Interesting Engineering",
+      "title_en": "China’s BYD claims assisted driving slashes severe crash rates to one-sixth of human levels",
+      "description_en": "At a recent event, BYD executive Yang Dongsheng outlined the company’s rapid expansion of assisted...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/china-byd-assisted-driving-slashes-severe-crash",
+      "image_url": "https://www.youtube.com/embed/d7PQf-prb8s",
+      "pub_date": "Sun, 24 May 2026 12:06:32 +0000",
+      "author": "Bojan Stojkovski",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T12:40:54.511Z",
+      "created_at": "2026-05-24T12:40:54.511Z"
+    },
+    {
+      "id": 9211,
+      "source": "Tom's Hardware",
+      "title_en": "Researcher develops 'spray-on' stealth coating for drones — volcanic rock formulation claims to reduce radar return signals by up to 43dB, compared to 20 to 30dB for typical radar absorbent material",
+      "description_en": "Users can easily spray on this radar absorbent material on any drone to increase their survivability in contested skies.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/researcher-develops-spray-on-stealth-coating-for-drones-volcanic-rock-formulation-claims-to-reduce-radar-return-signals-by-up-to-43db-compared-to-20-to-30db-for-typical-radar-absorbent-material",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Va2JXRwyhwrT8gDaF6KHu3-1280-80.jpg",
+      "pub_date": "Sun, 24 May 2026 12:25:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T12:40:54.848Z",
+      "created_at": "2026-05-24T12:40:54.848Z"
+    },
+    {
+      "id": 9212,
+      "source": "Tom's Hardware",
+      "title_en": "Autonomous ErgoChair Pro Review: Comfortable, but that's it",
+      "description_en": "The Autonomous ErgoChair Pro is a solid entry in the ErgoChair line, offering good back support and adjustability. However, it lacks any standout features that separate it from the wide range of office chairs available.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/peripherals/gaming-chairs/autonomous-ergochair-pro-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ZCqdTjbqkDJuL4Hi4kiPaL-1280-80.jpg",
+      "pub_date": "Sun, 24 May 2026 12:00:00 +0000",
+      "author": " Matt Keith ",
+      "categories": [
+        "Gaming Chairs",
+        "Peripherals"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T12:40:54.848Z",
+      "created_at": "2026-05-24T12:40:54.848Z"
+    },
+    {
+      "id": 9213,
+      "source": "Tom's Hardware",
+      "title_en": "Electronics buff hand-draws and etches custom PCBs at home — functional home-etched PCB runs a 3D-printed fume extractor fan",
+      "description_en": "A maker bored with the staid designs of modern factory-produced PCBs has perfected their own hand-inking and home-etching process.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/maker-stem/electronics-buff-hand-draws-and-etches-custom-pcbs-at-home-functional-home-etched-pcb-runs-a-3d-printed-fume-extractor-fan",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/UdgMuhzhPhaDY6ahq69TYh-1280-80.jpg",
+      "pub_date": "Sun, 24 May 2026 11:53:38 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Maker and STEM"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T12:40:54.848Z",
+      "created_at": "2026-05-24T12:40:54.848Z"
+    },
+    {
+      "id": 9214,
+      "source": "Backdoor (TG)",
+      "title_en": "Идеального промпта для Gemini не существ…👍 Бэкдор",
+      "description_en": "Идеального промпта для Gemini не существ…👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28640",
+      "image_url": "https://cdn4.telesco.pe/file/SRdnNfl5KLq7xiHvuFKHlmAduMLVbI9oglzJ_IgzWzYtc1DszlmuYfjbvj_AviBQEtokEUK1RJDNmWxZfifmaiOrfhsYoQ24ToKgTgSCFkaiRERlXPWujkEy4FfJF4t6kdJNKBcbGPxJkEnlr7apbjuVHtHQ-LtFpDvrIamROPWiFEAt-7sSVA_55efQHDQHKNT12DSUecLEFucvFnhcfz9vDB4FEU2r2GK4sbJlLXjJs8lO0V8NZv45nBspkg8u1NTVeb7S4iuGDROzuuZIt_4-LlLWA6FrNg9ED9CqkkVx55CFe1IqvTSTKcOp8b9aVwdX6gcevfb7uXlPUY-r6A.jpg",
+      "pub_date": "2026-05-24T12:05:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T12:40:57.445Z",
+      "created_at": "2026-05-24T12:40:57.445Z"
+    },
+    {
+      "id": 9215,
+      "source": "AI Post (TG)",
+      "title_en": "🇨🇳 A Chinese AI startup just unveiled one of the wildest gadgets of 2026.It’s an AI-powered pet collar that claims to translate dog barks and cat meows into actual human sentences, with up to 95% ac",
+      "description_en": "🇨🇳 A Chinese AI startup just unveiled one of the wildest gadgets of 2026.It’s an AI-powered pet collar that claims to translate dog barks and cat meows into actual human sentences, with up to 95% accuracy.Yes, seriously.Your pet could now say things like:• “I’m hungry.”• “I want to go outside.”• “I don’t like this food.”• “Play with me.”The collar analyzes sounds, behavior patterns, and emotional signals in real time, then converts them into readable messages through an app. What sounded like ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7014",
+      "image_url": null,
+      "pub_date": "2026-05-24T11:59:47+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T12:40:57.993Z",
+      "created_at": "2026-05-24T12:40:57.993Z"
     }
   ]
 }
