@@ -191791,6 +191791,133 @@
       "priority": "hot",
       "fetchedAt": "2026-05-24T22:08:53.669Z",
       "created_at": "2026-05-24T22:08:53.669Z"
+    },
+    {
+      "id": 9232,
+      "source": "MarkTechPost",
+      "title_en": "Build a Complete Langfuse Observability and Evaluation Pipeline for Tracing, Prompt Management, Scoring, and Experiments",
+      "description_en": "In this tutorial, we implement the Langfuse (an open-source LLM engineering platform) pipeline for tracing, prompt management, scoring, datasets, and experiments. We build a complete workflow that works with either a real OpenAI key or a deterministic mock LLM, so we can understand every major Langfuse feature without depending on paid model access. We start […]\nThe post Build a Complete Langfuse Observability and Evaluation Pipeline for Tracing, Prompt Management, Scoring, and Experiments appea",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/24/build-a-complete-langfuse-observability-and-evaluation-pipeline-for-tracing-prompt-management-scoring-and-experiments/",
+      "image_url": null,
+      "pub_date": "Sun, 24 May 2026 23:03:09 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T23:13:22.511Z",
+      "created_at": "2026-05-24T23:13:22.511Z"
+    },
+    {
+      "id": 9233,
+      "source": "MarkTechPost",
+      "title_en": "StepFun Releases StepAudio 2.5 Realtime: An End-to-End Voice Model with Roleplay-Specific RLHF and Paralinguistic Comprehension",
+      "description_en": "StepFun, the Shanghai-based AI lab, released StepAudio 2.5 Realtime in May 2026 — an end-to-end real-time speech large language model with fully customizable persona capabilities. The model connects via a WebSocket API, supports Chinese and English, and ranked first across all five benchmark dimensions tested in April 2026, including an 80.41 human evaluation score and 82.18 on paralinguistic comprehension.\nThe post StepFun Releases StepAudio 2.5 Realtime: An End-to-End Voice Model with Roleplay",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/24/stepfun-releases-stepaudio-2-5-realtime-an-end-to-end-voice-model-with-roleplay-specific-rlhf-and-paralinguistic-comprehension/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-24-at-3.50.40-PM-1.png",
+      "pub_date": "Sun, 24 May 2026 22:51:05 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Artificial Intelligence",
+        "Audio Language Model",
+        "Editors Pick",
+        "Language Model",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Technology",
+        "TTS",
+        "Voice AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T23:13:22.512Z",
+      "created_at": "2026-05-24T23:13:22.512Z"
+    },
+    {
+      "id": 9234,
+      "source": "The Guardian AI",
+      "title_en": "Scotland’s ‘green datacentres’ policy ignores emissions impact of AI, analysis shows",
+      "description_en": "Definition of green facilities made in 2022, before release of ChatGPT, says Action to Protect Rural Scotland\nA Scottish government policy designed to encourage datacentres to build in Scotland could lead to a massive volume of carbon emissions being ignored, according to an analysis by a Scottish charity.\n“Green datacentres” are at the heart of Scotland’s ambitions to develop economically. Enshrined in national policy, they are part of a larger, UK-wide effort to attract big AI investment to Sc",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/uk-news/2026/may/25/scotland-policy-green-datacentres-emissions-impact-ai-analysis",
+      "image_url": "https://i.guim.co.uk/img/media/2376ec6dae4dcbd920110145a1929a2e3521de6e/329_0_3083_2467/master/3083.jpg?width=140&quality=85&auto=format&fit=max&s=ad19e16ec43e58aaf2e460f6548732a9",
+      "pub_date": "Sun, 24 May 2026 23:01:09 GMT",
+      "author": "Aisha Down",
+      "categories": [
+        {
+          "_": "Scotland",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/scotland"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Greenhouse gas emissions",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/carbon-emissions"
+          }
+        },
+        {
+          "_": "Environment",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/environment"
+          }
+        },
+        {
+          "_": "Energy",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/energy"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Energy industry",
+          "$": {
+            "domain": "https://www.theguardian.com/business/energy-industry"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T23:13:22.946Z",
+      "created_at": "2026-05-24T23:13:22.946Z"
     }
   ]
 }
