@@ -190907,7 +190907,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T07:36:50.691Z",
       "created_at": "2026-05-24T07:36:50.691Z"
     },
@@ -191022,6 +191022,77 @@
       "priority": "batch",
       "fetchedAt": "2026-05-24T07:36:55.616Z",
       "created_at": "2026-05-24T07:36:55.616Z"
+    },
+    {
+      "id": 9192,
+      "source": "The Decoder",
+      "title_en": "Researchers let Claude Code discover AI scaling algorithms that humans probably wouldn't have designed",
+      "description_en": "Researchers from UMD, Google, Meta, and other institutions use AutoTTS to let a coding agent independently discover control algorithms for AI reasoning. The algorithm it found cuts compute by about 70 percent compared to standard self-consistency while matching its accuracy. The whole search cost $40 and took 160 minutes.\nThe article Researchers let Claude Code discover AI scaling algorithms that humans probably wouldn't have designed appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/researchers-let-claude-code-discover-ai-scaling-algorithms-that-humans-probably-wouldnt-have-designed/",
+      "image_url": null,
+      "pub_date": "Sun, 24 May 2026 08:06:35 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Research"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T08:08:32.231Z",
+      "created_at": "2026-05-24T08:08:32.231Z"
+    },
+    {
+      "id": 9193,
+      "source": "MarkTechPost",
+      "title_en": "NVIDIA AI Releases Gated DeltaNet-2: A Linear Attention Layer That Decouples Erase and Write in the Delta Rule",
+      "description_en": "Linear attention squeezes the unbounded KV cache into a fixed-size recurrent state, but editing that memory without scrambling existing associations is hard. Prior delta-rule models like Gated DeltaNet and KDA use one scalar gate to control both erasing old content and writing new content. NVIDIA's Gated DeltaNet-2 decouples these into a channel-wise erase gate b_t on the key axis and a channel-wise write gate w_t on the value axis. At 1.3B parameters trained on 100B FineWeb-Edu tokens, it outpe",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/24/nvidia-ai-releases-gated-deltanet-2-a-linear-attention-layer-that-decouples-erase-and-write-in-the-delta-rule/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-24-at-12.26.27-AM-1.png",
+      "pub_date": "Sun, 24 May 2026 07:42:09 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Physical AI",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T08:08:32.654Z",
+      "created_at": "2026-05-24T08:08:32.654Z"
+    },
+    {
+      "id": 9194,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "⚡️ «Когда наши дети вырастут, ИИ научится лечить рак»Уже в ближайшем будущем люди будут болеть значительно реже, уверена соосновательница Anthropic Даниэла Амодеи.Дарио и Даниэла Амодеи считают, что И",
+      "description_en": "⚡️ «Когда наши дети вырастут, ИИ научится лечить рак»Уже в ближайшем будущем люди будут болеть значительно реже, уверена соосновательница Anthropic Даниэла Амодеи.Дарио и Даниэла Амодеи считают, что ИИ поможет создать лекарства, которые мы сегодня не можем себе представить. Эти препараты смогут побеждать болезни в самом «зародыше» — причем даже те, что мучили человечество на протяжении тысячелетий. 💡 По мнению Дарио Амодея, ИИ можно будет сравнить с «ангелом, который сидит у вас на плече и подс",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3238",
+      "image_url": "https://cdn4.telesco.pe/file/pIalEJDTEhuljhXi99FlpJLY8vHhXRD94q7xVLsZCwTmAUO62x9FlLfueJ8WOUU6or3tQbRsTZBNgdOAnIqmkb_I2lX7x3S5yIOMZQIp_p-DAkED_hiqfzEM5qagRAt7mzVvdoE5Vl58nwIek2qBzgQA7hHQyjOm0qmw2JSlOCannKXoOC7k4YJJhrs69JuD_IR4zcXh_0-wUl99Hv92amIzS1sDv2v9362Skslv_TWF0tQHO0siIxvGSnKc1kQtKIuG0AwurYsYnWVO242hYkAGuJPnb8wc_De-LJK_QT1RxtbqT40VRAnu2uxHQ3uhpZ4DqWc-Mo3hyUOpuZE_ZQ.jpg",
+      "pub_date": "2026-05-24T07:44:40+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T08:08:37.371Z",
+      "created_at": "2026-05-24T08:08:37.371Z"
     }
   ]
 }
