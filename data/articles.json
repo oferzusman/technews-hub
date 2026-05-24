@@ -191683,7 +191683,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T15:36:47.037Z",
       "created_at": "2026-05-24T15:36:47.037Z"
     },
@@ -191700,9 +191700,26 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T15:36:47.600Z",
       "created_at": "2026-05-24T15:36:47.600Z"
+    },
+    {
+      "id": 9227,
+      "source": "XOR Journal (TG)",
+      "title_en": "Выдыхаем: DeepSeek заработал в России!После информации о возможной блокировке и скором опровержении РКН — сервис внезапно снова заработал в обычном режиме.Совпадение? 🤔@xor_journal",
+      "description_en": "Выдыхаем: DeepSeek заработал в России!После информации о возможной блокировке и скором опровержении РКН — сервис внезапно снова заработал в обычном режиме.Совпадение? 🤔@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9358",
+      "image_url": "https://cdn4.telesco.pe/file/Sn4l0vQ_pRgSuqlEWHS8qFHPc21Hq0X5uMvdrPyYTRCHvY4aroPs2HeraXd08OopEnGyAbc2b5w12BSxgNF3ORj2VYcL4ZbR8MgxwsG1tNaZXfFgsw7-bb2L_9rujgbj0vv-fFjAFzocw4rFl0u0lYKcIc0A0OX3izeSmirVNLoRt4rnCqEsARfWM2vzhCKj7BwneeE-GsQeFNJQEP_SlZxJfLgkAHXuck4cLtf5ohKEkboyQi6wkSaO4_0oBdXtpgxtrAKBkGtMxVrn5ceKd1K9LBqyCSZ9QXyyOMhPPe4cIjId52epADMB4WuZalc8fiiZ3QOvAprlO8t1bUvllg.jpg",
+      "pub_date": "2026-05-24T17:23:58+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-24T17:39:05.843Z",
+      "created_at": "2026-05-24T17:39:05.843Z"
     }
   ]
 }
