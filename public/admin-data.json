@@ -1,9 +1,9 @@
 {
-  "total": 9226,
+  "total": 9227,
   "translated": 8824,
-  "untranslated": 402,
-  "today": 42,
-  "week": 815,
+  "untranslated": 403,
+  "today": 43,
+  "week": 816,
   "sources": [
     {
       "name": "Product Hunt",
@@ -103,9 +103,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 151,
+      "total": 152,
       "translated": 119,
-      "lastDate": "2026-05-24T15:00:35+00:00"
+      "lastDate": "2026-05-24T17:23:58+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-24T17:16:50.700Z"
+  "generatedAt": "2026-05-24T17:40:02.817Z"
 }
