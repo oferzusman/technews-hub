@@ -1,9 +1,9 @@
 {
-  "total": 9208,
+  "total": 9215,
   "translated": 8824,
-  "untranslated": 384,
-  "today": 24,
-  "week": 797,
+  "untranslated": 391,
+  "today": 31,
+  "week": 804,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,13 +13,13 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 692,
+      "total": 695,
       "translated": 652,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 668,
+      "total": 669,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -85,9 +85,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 249,
+      "total": 250,
       "translated": 231,
-      "lastDate": "2026-05-23T11:00:00.000Z"
+      "lastDate": "2026-05-24T12:00:00.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -97,9 +97,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 199,
+      "total": 200,
       "translated": 168,
-      "lastDate": "2026-05-24T08:24:19+00:00"
+      "lastDate": "2026-05-24T11:59:47+00:00"
     },
     {
       "name": "XOR Journal (TG)",
@@ -139,9 +139,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 78,
+      "total": 79,
       "translated": 68,
-      "lastDate": "2026-05-24T08:41:43+00:00"
+      "lastDate": "2026-05-24T12:05:51+00:00"
     },
     {
       "name": "GlobeNewswire",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-24T11:59:11.768Z"
+  "generatedAt": "2026-05-24T12:42:56.440Z"
 }
