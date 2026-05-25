@@ -192653,7 +192653,7 @@
       "author": "Sujita Sinha",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T14:16:44.953Z",
       "created_at": "2026-05-25T14:16:44.953Z"
     },
@@ -192670,7 +192670,7 @@
       "author": "Jijo Malayil",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T14:16:44.954Z",
       "created_at": "2026-05-25T14:16:44.954Z"
     },
@@ -192687,7 +192687,7 @@
       "author": "Abhishek Bhardwaj",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T14:16:44.954Z",
       "created_at": "2026-05-25T14:16:44.954Z"
     },
@@ -192707,7 +192707,7 @@
         "Video Games"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T14:16:45.543Z",
       "created_at": "2026-05-25T14:16:45.543Z"
     },
@@ -192728,7 +192728,7 @@
         "Manufacturing"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T14:16:45.543Z",
       "created_at": "2026-05-25T14:16:45.543Z"
     },
@@ -192745,7 +192745,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T14:16:47.099Z",
       "created_at": "2026-05-25T14:16:47.099Z"
     },
@@ -192762,7 +192762,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T14:16:47.115Z",
       "created_at": "2026-05-25T14:16:47.115Z"
     },
@@ -192779,9 +192779,172 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T14:16:47.772Z",
       "created_at": "2026-05-25T14:16:47.772Z"
+    },
+    {
+      "id": 9276,
+      "source": "TechCrunch AI",
+      "title_en": "The pope’s AI encyclical isn’t really about AI",
+      "description_en": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "image_url": null,
+      "pub_date": "Mon, 25 May 2026 15:09:41 +0000",
+      "author": "Rebecca Bellan",
+      "categories": [
+        "AI",
+        "ai encyclical",
+        "Magnifica Humanitas",
+        "pope leo xiv",
+        "the vatican"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T15:37:32.346Z",
+      "created_at": "2026-05-25T15:37:32.346Z"
+    },
+    {
+      "id": 9277,
+      "source": "TechCrunch AI",
+      "title_en": "Startup Battlefield 200 applications close in days: Apply before May 27",
+      "description_en": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+      "image_url": null,
+      "pub_date": "Mon, 25 May 2026 14:30:00 +0000",
+      "author": "TechCrunch Events",
+      "categories": [
+        "TC",
+        "Startups",
+        "Crypto",
+        "Climate",
+        "Fintech",
+        "Biotech & Health",
+        "AI",
+        "Robotics",
+        "Fundraising",
+        "Startup Battlefield",
+        "TechCrunch Disrupt 2026"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T15:37:32.346Z",
+      "created_at": "2026-05-25T15:37:32.346Z"
+    },
+    {
+      "id": 9278,
+      "source": "The Verge AI",
+      "title_en": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
+      "description_en": "Pope Leo XIV attends the presentation of his first Encyclical Letter \"Magnifica humanitas\" on May 25, 2026 in Vatican City, Vatican. | Getty Images\t\n\nPope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on \"safeguarding the human person in the time of artificial intelligence,\" in which he discusses the dangers of AI-powered warfare, the effects of AI on labor, and the need fo",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+      "image_url": null,
+      "pub_date": "2026-05-25T15:05:07.000Z",
+      "author": "Mia Sato",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T15:37:32.478Z",
+      "created_at": "2026-05-25T15:37:32.478Z"
+    },
+    {
+      "id": 9279,
+      "source": "Hugging Face Blog",
+      "title_en": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/agent-glossary",
+      "image_url": null,
+      "pub_date": "Mon, 25 May 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-25T15:37:34.009Z",
+      "created_at": "2026-05-25T15:37:34.009Z"
+    },
+    {
+      "id": 9280,
+      "source": "Tom's Hardware",
+      "title_en": "Imec builds world's first High-NA EUV-fabricated quantum dot qubit device — breakthrough could pull quantum computing onto the same manufacturing roadmap as next-gen AI processors, compressing timelines",
+      "description_en": "Imec unveiled the world’s first silicon quantum dot qubit device fabricated with High-NA EUV lithography, suggesting quantum computing may eventually scale using the semiconductor industry’s existing advanced manufacturing ecosystem.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/imec-builds-worlds-first-high-na-euv-fabricated-quantum-dot-qubit-device-breakthrough-could-pull-quantum-computing-onto-the-same-manufacturing-roadmap-as-next-gen-ai-processors-compressing-timelines",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vx6gWrh3KXPQ5bjvAYJpSV-1280-80.jpg",
+      "pub_date": "Mon, 25 May 2026 15:27:00 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T15:37:35.690Z",
+      "created_at": "2026-05-25T15:37:35.690Z"
+    },
+    {
+      "id": 9281,
+      "source": "Tom's Hardware",
+      "title_en": "Testing GPU Safeguard+ on the MSI MPG Ai1600TS PSU – solution aims to tame melting 16-pin connectors",
+      "description_en": "At CES 2026, MSI unveiled a new lineup of power supplies under its MPG and MAG series. The 2026 MPG models are available in 1600W and 1300W variants and feature server-grade SiC MOSFETs designed to deliver a high level of stability and power efficiency. However, the standout addition is GPU Safeguard+, a new protection system aimed at preventing the overheating and melting issues associated with 12V-2x6 GPU power connectors.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/testing-gpu-safeguard-on-the-msi-mpg-ai1600ts-psu-solution-aims-to-tame-melting-16-pin-connectors",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/FwadaHzBQA9mYKUEuEP3FD-1280-80.jpg",
+      "pub_date": "Mon, 25 May 2026 15:26:17 +0000",
+      "author": " Dan Mateescu ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T15:37:35.690Z",
+      "created_at": "2026-05-25T15:37:35.690Z"
+    },
+    {
+      "id": 9282,
+      "source": "Tom's Hardware",
+      "title_en": "Save up to $200 on a 13-inch or 15-inch MacBook Air with M5 chip and 16GB of RAM — Memorial Day discounts get you Apple's latest and best consumer laptop for as low as $899",
+      "description_en": "The MacBook Air is an easy recommendation in the world of laptops thanks to its excellent pillars, featuring a great screen, build quality, performance, keyboard, trackpad, webcam, speakers, and battery life. Apple's latest M5 model can be yours for as low as $899 for the 13-inch version, or $1,099 for the 15-inch mahine.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/save-up-to-usd200-on-a-13-inch-or-15-inch-macbook-air-with-m5-chip-and-16gb-of-ram-memorial-day-discounts-get-you-apples-latest-and-best-consumer-laptop-for-as-low-as-usd899",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Mjhcgdqu9AEkYNnCWYLwZF-1280-80.jpg",
+      "pub_date": "Mon, 25 May 2026 15:22:36 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T15:37:35.690Z",
+      "created_at": "2026-05-25T15:37:35.690Z"
+    },
+    {
+      "id": 9283,
+      "source": "AI Post (TG)",
+      "title_en": "🚀 SpaceX just pulled back the curtain ahead of its IPO and the numbers are wild.The company quietly revealed new financial data, massive losses, and a corporate structure designed to keep Elon Musk f",
+      "description_en": "🚀 SpaceX just pulled back the curtain ahead of its IPO and the numbers are wild.The company quietly revealed new financial data, massive losses, and a corporate structure designed to keep Elon Musk firmly in control even after going public.According to filings submitted to the U.S. Securities and Exchange Commission, SpaceX generated $18.7 billion in revenue in 2025, a 33% jump year-over-year.But despite the explosive growth, the company posted a staggering $4.9 billion net loss, compared to a ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7023",
+      "image_url": "https://cdn4.telesco.pe/file/JtrppmxhDXB943Oia3BplB-FiHE2NqPy4BBvk4Ej9vdU0MNuJPb2goGElrOkM4UC7TUb3dySOjipBMk4tuItsBncBn6V6JidvqDQ79Re-IaIfLvnn-pbm8REyWQPd1MDsCoOh7GWexfWFPuumu_hpRkzBZhRO0BsSkmUcxp0vyWVG4mGhw4S0TFZi44gJoLGiVDqRDn7cHYHF6w2QR74R0dGMCd6Ynkbqqgb_HsRrmqastlZbyXXrGQIZgBO1HlmVGeOGbdEKWWBufVTsdr5-eRhZM2ZTqMS5b1xsw-BYrdkDWjeTe1PR9NTCT_JH9-4YzLRQAV27ujWtEBLe2zlSg.jpg",
+      "pub_date": "2026-05-25T14:31:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T15:37:37.383Z",
+      "created_at": "2026-05-25T15:37:37.383Z"
     }
   ]
 }
