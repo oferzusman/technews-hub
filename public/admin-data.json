@@ -1,15 +1,15 @@
 {
-  "total": 9241,
+  "total": 9252,
   "translated": 8824,
-  "untranslated": 417,
-  "today": 7,
-  "week": 703,
+  "untranslated": 428,
+  "today": 18,
+  "week": 714,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 980,
+      "total": 982,
       "translated": 968,
-      "lastDate": "2026-05-23T02:56:16.000Z"
+      "lastDate": "2026-05-25T03:24:52.000Z"
     },
     {
       "name": "Tom's Hardware",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 671,
+      "total": 672,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 367,
+      "total": 368,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -91,21 +91,21 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 221,
+      "total": 222,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
       "name": "AI Post (TG)",
-      "total": 205,
+      "total": 206,
       "translated": 168,
-      "lastDate": "2026-05-25T04:12:01+00:00"
+      "lastDate": "2026-05-25T08:09:06+00:00"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 153,
+      "total": 155,
       "translated": 119,
-      "lastDate": "2026-05-24T22:05:08+00:00"
+      "lastDate": "2026-05-25T08:41:41+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 55,
+      "total": 56,
       "translated": 49,
-      "lastDate": "2026-05-24T11:03:14+00:00"
+      "lastDate": "2026-05-25T08:15:06+00:00"
     },
     {
       "name": "Github.com",
@@ -181,9 +181,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 44,
+      "total": 45,
       "translated": 40,
-      "lastDate": "2026-05-22T07:00:32+00:00"
+      "lastDate": "2026-05-25T07:58:40+00:00"
     },
     {
       "name": "Nature Machine Intelligence",
@@ -198,16 +198,16 @@
       "lastDate": "2026-04-09T06:28:29Z"
     },
     {
+      "name": "Data Science ODS.ai (TG)",
+      "total": 30,
+      "translated": 29,
+      "lastDate": "2026-05-25T07:11:32+00:00"
+    },
+    {
       "name": "pymnts.com",
       "total": 29,
       "translated": 29,
       "lastDate": "2026-04-09T00:29:48Z"
-    },
-    {
-      "name": "Data Science ODS.ai (TG)",
-      "total": 29,
-      "translated": 29,
-      "lastDate": "2026-05-19T15:27:51+00:00"
     },
     {
       "name": "Financial Post",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-25T08:39:33.492Z"
+  "generatedAt": "2026-05-25T08:58:33.588Z"
 }
