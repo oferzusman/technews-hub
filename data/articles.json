@@ -192210,6 +192210,34 @@
       "priority": "hot",
       "fetchedAt": "2026-05-25T08:54:24.703Z",
       "created_at": "2026-05-25T08:54:24.703Z"
+    },
+    {
+      "id": 9252,
+      "source": "MarkTechPost",
+      "title_en": "WorkOS Releases auth.md: An Open Agent Registration Protocol Built on OAuth Standards",
+      "description_en": "Most web applications still have no structured way for an AI agent to register. auth.md proposes a fix: a Markdown file apps publish at their domain that tells agents which registration flows are supported, which scopes to request, and how to get credentials tied to a real user — without a human filling out a form.\nThe post WorkOS Releases auth.md: An Open Agent Registration Protocol Built on OAuth Standards appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/25/workos-releases-auth-md-an-open-agent-registration-protocol-built-on-oauth-standards/",
+      "image_url": null,
+      "pub_date": "Mon, 25 May 2026 07:38:15 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T08:56:29.897Z",
+      "created_at": "2026-05-25T08:56:29.898Z"
     }
   ]
 }
