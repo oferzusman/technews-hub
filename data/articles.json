@@ -193342,7 +193342,7 @@
         "Tutorials"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T21:05:51.028Z",
       "created_at": "2026-05-25T21:05:51.028Z"
     },
@@ -193359,7 +193359,7 @@
       "author": "Maryna Holovnova",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T21:05:51.384Z",
       "created_at": "2026-05-25T21:05:51.384Z"
     },
@@ -193427,6 +193427,29 @@
       "priority": "hot",
       "fetchedAt": "2026-05-25T22:16:42.616Z",
       "created_at": "2026-05-25T22:16:42.616Z"
+    },
+    {
+      "id": 9304,
+      "source": "Ars Technica",
+      "title_en": "Citing Gandalf, Pope Leo says we must \"disarm\" AI",
+      "description_en": "In an age of AI, Pope looks for \"artisans of hope.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2277573960-1-1152x648-1779741792.jpg",
+      "pub_date": "Mon, 25 May 2026 21:07:42 +0000",
+      "author": "\n                    Nate Anderson\n                ",
+      "categories": [
+        "Policy",
+        "AI",
+        "Anthropic",
+        "Catholic Church",
+        "morality"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T22:34:19.579Z",
+      "created_at": "2026-05-25T22:34:19.579Z"
     }
   ]
 }
