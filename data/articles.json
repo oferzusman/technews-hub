@@ -192580,7 +192580,7 @@
         "TechCrunch Disrupt 2026"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T14:16:40.803Z",
       "created_at": "2026-05-25T14:16:40.803Z"
     },
@@ -192831,7 +192831,7 @@
         "TechCrunch Disrupt 2026"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T15:37:32.346Z",
       "created_at": "2026-05-25T15:37:32.346Z"
     },
@@ -192942,9 +192942,77 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T15:37:37.383Z",
       "created_at": "2026-05-25T15:37:37.383Z"
+    },
+    {
+      "id": 9284,
+      "source": "New Atlas",
+      "title_en": "Earth’s outer core reversed direction in 2010 and scientists may finally know why",
+      "description_en": "Deep beneath the Pacific near the equator, Earth’s outer core now flows east instead of west. Dynamics deeper within our planet’s core may help explain the change and what to expect in the near future.\nContinue Reading\nCategory: Physics, Science\nTags: Earth core, Magnetic field, Geology",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/physics/earths-outer-core-reversed-2010-scientists-may-know-why/",
+      "image_url": null,
+      "pub_date": "Mon, 25 May 2026 16:25:30 GMT",
+      "author": "Mike McRae",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T16:36:40.367Z",
+      "created_at": "2026-05-25T16:36:40.367Z"
+    },
+    {
+      "id": 9285,
+      "source": "Interesting Engineering",
+      "title_en": "Chinese firm eyes 2027 home robot launch with Wuhan pilot and sub-$15K pricing",
+      "description_en": "Chinese tech firm GigaAI has unveiled what it describes as the first commercial robotic butler,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/chinese-firm-eyes-2027-home-robot-launch-with-wuhan-pilot-and-sub-15k-pricing",
+      "image_url": "https://www.youtube.com/embed/euTzURYU3_Q",
+      "pub_date": "Mon, 25 May 2026 16:12:04 +0000",
+      "author": "Jijo Malayil",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T16:36:40.935Z",
+      "created_at": "2026-05-25T16:36:40.935Z"
+    },
+    {
+      "id": 9286,
+      "source": "AI Post (TG)",
+      "title_en": "🔥DeepMind’s AI just cracked 9 unsolved math problems, autonomously.Researchers revealed that DeepMind’s new agent, AlphaProof Nexus, successfully solved 9 open Erdős problems, including two that had ",
+      "description_en": "🔥DeepMind’s AI just cracked 9 unsolved math problems, autonomously.Researchers revealed that DeepMind’s new agent, AlphaProof Nexus, successfully solved 9 open Erdős problems, including two that had remained unsolved for more than 50 years.What’s wild is the cost: each successful solution reportedly took only a few hundred dollars in compute. But behind that number was a massive search effort.The system actually attempted all 353 formalized Erdős problems, repeatedly generating proofs, checking",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7024",
+      "image_url": "https://cdn4.telesco.pe/file/XsmTkrSc68LPpc3K9jJaFE6FlkIoimd_xUu00S1-6Ez-Z99DJDVR8jifnp_HNJGKgetkX7DV2b4veLm8KyNM_wraJCmniMzT2Iailh3PrGoWWyRGFGFdyrTL-LsrfxUSrIRvKTy-6E55ThBzdjy64YxZ9qI531lpIF5WxWHTQmAEgGYAtVwPz_Hm2S-Tl859xvrTP4DF8sYnlW00LoEGaZfdcTJzZ1maVfVMEEy6xch22kKj_MXI4iw1CU5rSexiaLOWKjjbZiwvhOB9DjuBlY6PmvNl1tUl5suuMkO0n70sOg1QyJbt3qBx-_PDE_x8dddpwaJTFmJwTpItONuwZw.jpg",
+      "pub_date": "2026-05-25T16:11:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T16:36:45.189Z",
+      "created_at": "2026-05-25T16:36:45.189Z"
+    },
+    {
+      "id": 9287,
+      "source": "AI Post (TG)",
+      "title_en": "🔥DeepMind’s AI just cracked 9 unsolved math problems, autonomously.  Researchers revealed that DeepMind’s new agent, AlphaProof Nexus, successfully solved 9 open Erdős problems, including two that ha",
+      "description_en": "🔥DeepMind’s AI just cracked 9 unsolved math problems, autonomously.  Researchers revealed that DeepMind’s new agent, AlphaProof Nexus, successfully solved 9 open Erdős problems, including two that had remained unsolved for more than 50 years.  What’s wild…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7025",
+      "image_url": null,
+      "pub_date": "2026-05-25T16:26:04+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T16:36:45.189Z",
+      "created_at": "2026-05-25T16:36:45.189Z"
     }
   ]
 }
