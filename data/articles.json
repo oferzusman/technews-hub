@@ -192054,7 +192054,7 @@
         "Artificial Intelligence"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T08:54:21.591Z",
       "created_at": "2026-05-25T08:54:21.591Z"
     },
@@ -192122,7 +192122,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T08:54:24.129Z",
       "created_at": "2026-05-25T08:54:24.129Z"
     },
@@ -192139,7 +192139,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T08:54:24.153Z",
       "created_at": "2026-05-25T08:54:24.153Z"
     },
@@ -192156,7 +192156,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T08:54:24.153Z",
       "created_at": "2026-05-25T08:54:24.153Z"
     },
@@ -192173,7 +192173,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T08:54:24.568Z",
       "created_at": "2026-05-25T08:54:24.568Z"
     },
@@ -192190,7 +192190,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T08:54:24.690Z",
       "created_at": "2026-05-25T08:54:24.690Z"
     },
@@ -192207,7 +192207,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T08:54:24.703Z",
       "created_at": "2026-05-25T08:54:24.703Z"
     },
@@ -192235,9 +192235,201 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T08:56:29.897Z",
       "created_at": "2026-05-25T08:56:29.898Z"
+    },
+    {
+      "id": 9253,
+      "source": "The Decoder",
+      "title_en": "Google Deepmind's AlphaProof Nexus solves decades-old math problems for a few hundred dollars",
+      "description_en": "Google Deepmind's AlphaProof Nexus has autonomously solved nine open Erdős problems, including two that stumped mathematicians for 56 years, for just a few hundred dollars per problem in inference costs. Unlike OpenAI's natural-language approach, the system uses the Lean compiler to verify every proof step automatically. Still, the overall success rate sits at just 2.5 percent.\nThe article Google Deepmind's AlphaProof Nexus solves decades-old math problems for a few hundred dollars appeared firs",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solves-decades-old-math-problems-for-a-few-hundred-dollars/",
+      "image_url": null,
+      "pub_date": "Mon, 25 May 2026 10:41:19 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "AI and math",
+        "Deepmind",
+        "Google Deepmind"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T11:03:17.369Z",
+      "created_at": "2026-05-25T11:03:17.369Z"
+    },
+    {
+      "id": 9254,
+      "source": "The Decoder",
+      "title_en": "George Hotz says coding agents will be \"one of the most costly mistakes\" in software development",
+      "description_en": "Programmer George Hotz warns that AI coding agents will become one of the industry's most costly mistakes. After six months of testing, his verdict: LLMs deliver fast prototypes but fall apart on the details, producing bugs that keep getting harder to spot. His stance is one example of how deeply split the AI community is over the role of LLMs.\nThe article George Hotz says coding agents will be \"one of the most costly mistakes\" in software development appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/george-hotz-says-coding-agents-will-be-one-of-the-most-costly-mistakes-in-software-development/",
+      "image_url": null,
+      "pub_date": "Mon, 25 May 2026 09:05:34 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "AI and coding",
+        "Coding"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T11:03:17.369Z",
+      "created_at": "2026-05-25T11:03:17.369Z"
+    },
+    {
+      "id": 9255,
+      "source": "MarkTechPost",
+      "title_en": "Best Authentication Platforms for AI Agents and MCP Servers in 2026",
+      "description_en": "As MCP crosses 97 million monthly SDK downloads and AI agents move into production workflows, authentication has become the most critical infrastructure decision teams face. This guide ranks the eight leading platforms — WorkOS, Stytch, Auth0 by Okta, Composio, Nango, Arcade, TrueFoundry, and Cloudflare — on spec compliance, enterprise identity depth, integration breadth, and real-world fit for 2026 deployments.\nThe post Best Authentication Platforms for AI Agents and MCP Servers in 2026 appeare",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/25/best-authentication-platforms-for-ai-agents-and-mcp-servers-in-2026/",
+      "image_url": null,
+      "pub_date": "Mon, 25 May 2026 10:34:02 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Model Context Protocol (MCP)",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Top"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T11:03:17.891Z",
+      "created_at": "2026-05-25T11:03:17.891Z"
+    },
+    {
+      "id": 9256,
+      "source": "The Guardian AI",
+      "title_en": "Pope Leo denounces ‘culture of power’ driving rise of AI",
+      "description_en": "Pontiff calls for ‘most rigorous’ ethical constraints on tech and apologises for church’s delay in condemning slavery\nPope Leo has denounced the “culture of power” driving the rapid rise of artificial intelligence while warning that the technology must be subject to the “most rigorous” ethical constraints as it infiltrates everything from work to war.\nIn his encyclical – the first major text on safeguarding humankind of his papacy – Leo, the first US-born pontiff, also apologised for the Catholi",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/world/2026/may/25/pope-leo-encyclical-ai-artificial-intelligence-slavery",
+      "image_url": "https://i.guim.co.uk/img/media/1455602b89e6a85f8c3441dffaf127af28e25c05/1799_0_5681_4545/master/5681.jpg?width=140&quality=85&auto=format&fit=max&s=221140628e33791246f83a644bc97a21",
+      "pub_date": "Mon, 25 May 2026 10:54:05 GMT",
+      "author": "Angela Giuffrida in Rome",
+      "categories": [
+        {
+          "_": "Pope Leo XIV",
+          "$": {
+            "domain": "https://www.theguardian.com/world/pope-leo-xiv"
+          }
+        },
+        {
+          "_": "The papacy",
+          "$": {
+            "domain": "https://www.theguardian.com/world/the-papacy"
+          }
+        },
+        {
+          "_": "Catholicism",
+          "$": {
+            "domain": "https://www.theguardian.com/world/catholicism"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Slavery",
+          "$": {
+            "domain": "https://www.theguardian.com/world/slavery"
+          }
+        },
+        {
+          "_": "Christianity",
+          "$": {
+            "domain": "https://www.theguardian.com/world/christianity"
+          }
+        },
+        {
+          "_": "Religion",
+          "$": {
+            "domain": "https://www.theguardian.com/world/religion"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T11:03:18.096Z",
+      "created_at": "2026-05-25T11:03:18.096Z"
+    },
+    {
+      "id": 9257,
+      "source": "Interesting Engineering",
+      "title_en": "China’s new humanoid robot joins officers to handle street management tasks",
+      "description_en": "China launched its first urban management enforcement pilot program featuring collaboration between human officers and...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/chinas-humanoid-robot-handle-street-management",
+      "image_url": null,
+      "pub_date": "Mon, 25 May 2026 09:53:57 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T11:03:18.746Z",
+      "created_at": "2026-05-25T11:03:18.746Z"
+    },
+    {
+      "id": 9258,
+      "source": "Nature Machine Intelligence",
+      "title_en": "A large-scale unified deep learning model for peptide mass spectrum interpretation trained on multimodal data",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.nature.com/articles/s42256-026-01234-8",
+      "image_url": null,
+      "pub_date": "2026-05-25T00:00:00.000Z",
+      "author": "Jiale Zhao",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-25T11:03:22.380Z",
+      "created_at": "2026-05-25T11:03:22.380Z"
+    },
+    {
+      "id": 9259,
+      "source": "Habr (TG)",
+      "title_en": "Копипаст из ChatGPT бьёт по репутации: почему сырая выдача LLM хуже молчанияПринято списывать отправку нередактированных простыней от LLM в рабочие чаты на банальную нехватку времени. Кажется, что маш",
+      "description_en": "Копипаст из ChatGPT бьёт по репутации: почему сырая выдача LLM хуже молчанияПринято списывать отправку нередактированных простыней от LLM в рабочие чаты на банальную нехватку времени. Кажется, что машина выдаёт вполне гладкие списки базовых практик, экономя часы рутины. На деле мнимая продуктивность оборачивается обнулением собственной ценности.Подмена живого технического мнения усреднёнными паттернами превращает специалиста в обычную API-прослойку. Если собеседнику нужен синтетический ответ, он",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/68718",
+      "image_url": "https://cdn4.telesco.pe/file/KvPG-Pq8W0cNcTPVFunwVaI2mrkkBOpXgpEv_85Vh-VGnlCZIlRNlYu4crFM0SNFNfaNlIHQKrjY9tpzZfegsbmVU5K3VeEbQHdij88o3t3dn0yQQqT0-j5lfiTAFqmVC321gk2N7NDrmz6UhbuGacj6JMc9dmtjwhLkxYKqn4FdNnRZDAxj_BiLbqOGletq5V0B0SfYVCA8TEKNST6K-yfnWe7tajlkkhmCB6FedEmslTK5Iw6F4fVH5mZRcbPiDMZVU5sqOkfVJvsNsDKU2pUvgPv6PpQW6Dk6yDp8_jhArjkbwA6z8ODY7kWolQ5WPf4SnPUDzZHSw_x17yIhMQ.jpg",
+      "pub_date": "2026-05-25T09:02:10+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-25T11:03:23.471Z",
+      "created_at": "2026-05-25T11:03:23.471Z"
     }
   ]
 }
