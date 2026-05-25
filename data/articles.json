@@ -192280,7 +192280,7 @@
         "Coding"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T11:03:17.369Z",
       "created_at": "2026-05-25T11:03:17.369Z"
     },
@@ -192393,7 +192393,7 @@
       "author": "Atharva Gosavi",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T11:03:18.746Z",
       "created_at": "2026-05-25T11:03:18.746Z"
     },
@@ -192430,6 +192430,129 @@
       "priority": "batch",
       "fetchedAt": "2026-05-25T11:03:23.471Z",
       "created_at": "2026-05-25T11:03:23.471Z"
+    },
+    {
+      "id": 9260,
+      "source": "The Guardian AI",
+      "title_en": "A Louisiana state senator helped secure Meta’s largest datacenter. Then he sold the land beside it",
+      "description_en": "Jay Morris denies experts’ claims that he violated ethics rules over land deals near the site of Meta’s Hyperion datacenter\nThis story is from Floodlight, a non-profit newsroom that investigates the powers stalling climate action\nFor more than two years, John “Jay” Morris, a Louisiana state senator, helped pave the way for Meta to build one of the world’s largest datacenters, called Hyperion, in Richland Parish.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/environment/2026/may/25/louisiana-state-senator-jay-morris-meta-datacenter",
+      "image_url": "https://i.guim.co.uk/img/media/b3ca920dbb7a7c1f530f30e32e931c11f1c39f10/238_159_1268_1015/master/1268.jpg?width=140&quality=85&auto=format&fit=max&s=550b990deac74cae878813fd14ec4914",
+      "pub_date": "Mon, 25 May 2026 12:00:25 GMT",
+      "author": "Garrett Hazelwood",
+      "categories": [
+        {
+          "_": "Louisiana",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/louisiana"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Environment",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/environment"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Meta",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/meta"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Energy",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/energy"
+          }
+        },
+        {
+          "_": "Energy industry",
+          "$": {
+            "domain": "https://www.theguardian.com/business/energy-industry"
+          }
+        },
+        {
+          "_": "New Orleans",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/new-orleans"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T12:27:46.431Z",
+      "created_at": "2026-05-25T12:27:46.431Z"
+    },
+    {
+      "id": 9261,
+      "source": "XOR Journal (TG)",
+      "title_en": "Удалили объект в S3-хранилище и поняли это слишком поздно?В S3 Selectel появилась функция Object Lock — дополнительная защита объектов от изменений и удаления на заданный срок.Даже если в хранилище уж",
+      "description_en": "Удалили объект в S3-хранилище и поняли это слишком поздно?В S3 Selectel появилась функция Object Lock — дополнительная защита объектов от изменений и удаления на заданный срок.Даже если в хранилище уже настроены репликация, версионирование и доступы, все еще остается риск случайного удаления или действий шифровальщиков. Object Lock работает по принципу WORM (Write Once, Read Many) и помогает дополнительно защитить данные. Что можно сделать:🟢 настроить временную блокировку объектов;🟢 включить б",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9362",
+      "image_url": "https://cdn4.telesco.pe/file/Wo1SsWJTTioqJA5VoQFJ8jpBwSmHL0rOTX-xTPBnZxDXddewJT5XUh-3lJ7O9tbWJYODsE5XCr5uaCWhjXsEjL2d8FtXPxScYj1dCcID9X6y1wczo4C02L5QqOJkcP3zNJuWdVSa6GKBx9PVx7BUEOq1Ebj0rdFVZhvo7GuINGuya858mOOI0yUYgqOrmFQ2Ljyymf1xUuj6GZaSbEz8wBMEOVwuYdgnonzrb_3gqhs5fSO3G8YvOUozNZX0PXw4wkWG40MNTt6mR7nsRUtMKR5lFriLGBmbJrtoSqDLKsWQVSg0m6VDfl-SbbO3vMl8dXBpntYWXXSj8uyr2PL40g.jpg",
+      "pub_date": "2026-05-25T12:05:08+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T12:27:52.212Z",
+      "created_at": "2026-05-25T12:27:52.212Z"
+    },
+    {
+      "id": 9262,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Google Fitbit Air уже работает с iPhone, а с Android-смартфонами — нет  Фитнес-браслеты уже получили первые заказавшие, после чего побежали жаловаться на Reddit, так как устройство просто не подключае",
+      "description_en": "Google Fitbit Air уже работает с iPhone, а с Android-смартфонами — нет  Фитнес-браслеты уже получили первые заказавшие, после чего побежали жаловаться на Reddit, так как устройство просто не подключается к смартфону.Дело в том, что Google просто не успела развернуть обновление Google Health 5.0 для смартфонов на Android. Об этом сообщил представитель компании, который пришёл успокаивать недовольных покупателей.Забавно, что для iOS апдейт доступен несколько дней кряду. Неужто Google снова предпоч",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33114",
+      "image_url": "https://cdn4.telesco.pe/file/gDRUM3i9voDFRHagGgF5XVk6pNI0Qb7Sh9tzD5F3HkmIc7c9M9vUXvs5xJY5NqpdH0cci9UX7DL9e-Ge2EuKWYqtagdMNkZRDxPPTfkUKr71lpYKPXywVPfBBmhUfIG0uL77bgPgv2sklp0CWyy6yS4781C-ywp9Y4vzFZYowR1AoSLovyT_3ts2tnYOsC7NjWYFNeDwpDIOadZPs3vmH8EQHnO0Qm54ra0r-QLud5n8WOU-sK6JarsU1vaEXgqRzGSPKyt4wq7pSAR4ZFrfuH6xL18uPWkBaw_BBMEy3LvvyA_RqIyWq_mFqIj7BDMN9nm9mvr7D-zf0m9tDwXMlg.jpg",
+      "pub_date": "2026-05-25T11:30:07+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T12:27:52.316Z",
+      "created_at": "2026-05-25T12:27:52.316Z"
+    },
+    {
+      "id": 9263,
+      "source": "AI Post (TG)",
+      "title_en": "🇺🇸 New Fed Chair Kevin Warsh on CNBC:\"AI is a significant disinflationary force, boosting productivity and wages.\"Translation: If AI productivity drops inflation, rate cuts are back on the table.@ai",
+      "description_en": "🇺🇸 New Fed Chair Kevin Warsh on CNBC:\"AI is a significant disinflationary force, boosting productivity and wages.\"Translation: If AI productivity drops inflation, rate cuts are back on the table.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7022",
+      "image_url": null,
+      "pub_date": "2026-05-25T11:33:13+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T12:27:52.882Z",
+      "created_at": "2026-05-25T12:27:52.882Z"
     }
   ]
 }
