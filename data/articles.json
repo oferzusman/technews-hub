@@ -191932,7 +191932,7 @@
       "author": "Bronwyn Thompson",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T02:10:31.565Z",
       "created_at": "2026-05-25T02:10:31.565Z"
     },
@@ -191949,9 +191949,43 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T02:10:39.010Z",
       "created_at": "2026-05-25T02:10:39.010Z"
+    },
+    {
+      "id": 9237,
+      "source": "New Atlas",
+      "title_en": "Stormy weather linked with spikes in stroke and brain hemorrhages",
+      "description_en": "Stormy skies could send more patients to the emergency room, according to an analysis of weather systems and medical data by researchers in Hungary.\nContinue Reading\nCategory: Stroke, Brain Health, Body and Mind\nTags: Stroke, Brain, Tropical Storms, Emergency",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/stroke/stormy-weather-linked-with-spikes-in-stroke-and-brain-haemorrhages/",
+      "image_url": null,
+      "pub_date": "Mon, 25 May 2026 03:59:59 GMT",
+      "author": "Kerry Taylor-Smith",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T04:44:41.921Z",
+      "created_at": "2026-05-25T04:44:41.921Z"
+    },
+    {
+      "id": 9238,
+      "source": "AI Post (TG)",
+      "title_en": "Machine learning 😂@aipost 🏴",
+      "description_en": "Machine learning 😂@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7020",
+      "image_url": null,
+      "pub_date": "2026-05-25T04:12:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T04:44:47.751Z",
+      "created_at": "2026-05-25T04:44:47.751Z"
     }
   ]
 }
