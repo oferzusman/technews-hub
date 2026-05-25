@@ -193317,7 +193317,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T19:39:14.504Z",
       "created_at": "2026-05-25T19:39:14.504Z"
     },
@@ -193362,6 +193362,54 @@
       "priority": "hot",
       "fetchedAt": "2026-05-25T21:05:51.384Z",
       "created_at": "2026-05-25T21:05:51.384Z"
+    },
+    {
+      "id": 9301,
+      "source": "MarkTechPost",
+      "title_en": "Together AI Open-Sources OSCAR: An Attention-Aware 2-Bit KV Cache Quantization System for Long-Context LLM Serving",
+      "description_en": "Together AI has released OSCAR (Offline Spectral Covariance-Aware Rotation), an INT2 KV cache quantization method for long-context LLM serving. Unlike prior rotation-based approaches that apply data-oblivious Hadamard transforms, OSCAR derives separate rotations for keys and values from attention-aware covariance structures estimated offline. At 2.28 bits per KV element, OSCAR reduces the BF16 accuracy gap to 3.78 points on Qwen3-4B-Thinking-2507 and 1.42 points on Qwen3-8B, while delivering app",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/25/together-ai-open-sources-oscar-an-attention-aware-2-bit-kv-cache-quantization-system-for-long-context-llm-serving/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-25-at-2.24.00-PM-1.png",
+      "pub_date": "Mon, 25 May 2026 21:24:31 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Uncategorized"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T21:44:11.629Z",
+      "created_at": "2026-05-25T21:44:11.629Z"
+    },
+    {
+      "id": 9302,
+      "source": "AI Post (TG)",
+      "title_en": "This is hilarious. 🤣Anthropic onboarding day: Michael Scott introducing Karpathy like he just signed Wemby in free agency.@aipost 🏴",
+      "description_en": "This is hilarious. 🤣Anthropic onboarding day: Michael Scott introducing Karpathy like he just signed Wemby in free agency.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7027",
+      "image_url": null,
+      "pub_date": "2026-05-25T21:37:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T21:44:14.386Z",
+      "created_at": "2026-05-25T21:44:14.386Z"
     }
   ]
 }
