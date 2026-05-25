@@ -1,9 +1,9 @@
 {
-  "total": 9252,
+  "total": 9259,
   "translated": 8824,
-  "untranslated": 428,
-  "today": 18,
-  "week": 714,
+  "untranslated": 435,
+  "today": 25,
+  "week": 721,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 672,
+      "total": 673,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 368,
+      "total": 370,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -73,7 +73,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 283,
+      "total": 284,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -91,7 +91,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 222,
+      "total": 223,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -175,9 +175,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 49,
+      "total": 50,
       "translated": 47,
-      "lastDate": "2026-05-23T09:00:58+00:00"
+      "lastDate": "2026-05-25T09:02:10+00:00"
     },
     {
       "name": "Wylsacom Red (TG)",
@@ -187,9 +187,9 @@
     },
     {
       "name": "Nature Machine Intelligence",
-      "total": 37,
+      "total": 38,
       "translated": 37,
-      "lastDate": "2026-05-18T00:00:00.000Z"
+      "lastDate": "2026-05-25T00:00:00.000Z"
     },
     {
       "name": "Slashdot.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-25T08:58:33.588Z"
+  "generatedAt": "2026-05-25T11:06:19.949Z"
 }
