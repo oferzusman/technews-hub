@@ -193064,7 +193064,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T17:21:34.411Z",
       "created_at": "2026-05-25T17:21:34.411Z"
     },
@@ -193136,7 +193136,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T17:43:14.608Z",
       "created_at": "2026-05-25T17:43:14.608Z"
     },
@@ -193153,7 +193153,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T17:43:21.097Z",
       "created_at": "2026-05-25T17:43:21.097Z"
     },
@@ -193303,6 +193303,23 @@
       "priority": "hot",
       "fetchedAt": "2026-05-25T18:58:58.972Z",
       "created_at": "2026-05-25T18:58:58.972Z"
+    },
+    {
+      "id": 9298,
+      "source": "Backdoor (TG)",
+      "title_en": "Стираем все следы нейронок из текстов и делаем генерации человеческими, без воды и прочего мусора. Нашли 6️⃣ промптов, которые прокачают ваши тексты в разы.1️⃣ Убираем клише нейронок:Never use:- Gener",
+      "description_en": "Стираем все следы нейронок из текстов и делаем генерации человеческими, без воды и прочего мусора. Нашли 6️⃣ промптов, которые прокачают ваши тексты в разы.1️⃣ Убираем клише нейронок:Never use:- Generic introductions- Generic conclusions- Empty transitions- Corporate jargon- Motivational filler- Overexplaining- Predictable sentence patterns- Obvious observations- Unnecessary context- Balanced arguments where evidence clearly favors one sideAlways:- Lead with the most important idea- Prioritize i",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28670",
+      "image_url": "https://cdn4.telesco.pe/file/PHnEZpQv6fVTSb70ahH86KYhguVsAn9pneD2pZC6Tdy2uiqLlRjK1Z-jJ-Si3VE7d0jYVrqgEKWuIKBW1z6jljRDfZukxqo55Bhy5cg-sae4A019owjDeTsSK9p5La236yoa5kvDZWyswwrYEKXq2LOxKDq-POvDsAsPgasZkQ1kIEmvM2jfMSgGGnA5SwQHDXYvja1DiU2uJlsLzff-TglfhUeuMZKW57PReVdtd2crn1AYcU4W2TyRMP0rS_Kg18agzgtTj_cENs9uVYMSM8l0YlK4Oexzr6bNiSMATKrpK5wWWB8BxP5bOf9G_clLc1uhP_XFKDpw-ba-25KMSw.jpg",
+      "pub_date": "2026-05-25T19:20:03+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T19:39:14.504Z",
+      "created_at": "2026-05-25T19:39:14.504Z"
     }
   ]
 }
