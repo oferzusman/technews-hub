@@ -192802,7 +192802,7 @@
         "the vatican"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T15:37:32.346Z",
       "created_at": "2026-05-25T15:37:32.346Z"
     },
@@ -192848,7 +192848,7 @@
       "author": "Mia Sato",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T15:37:32.478Z",
       "created_at": "2026-05-25T15:37:32.478Z"
     },
@@ -193013,6 +193013,60 @@
       "priority": "hot",
       "fetchedAt": "2026-05-25T16:36:45.189Z",
       "created_at": "2026-05-25T16:36:45.189Z"
+    },
+    {
+      "id": 9288,
+      "source": "Tom's Hardware",
+      "title_en": "Chinese GPU maker sells out over 30,000 gaming GPUs within 48 hours despite lukewarm benchmarks — LX 7G100 proves hype trumps performance",
+      "description_en": "Lisuan Tech reports having sold out 30,,000 preorder LX 7G100 graphics cards with a second batch on June 18.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/chinese-gpu-maker-sells-out-over-30-000-gaming-gpus-within-48-hours-despite-lukewarm-benchmarks-lx-7g100-proves-hype-trumps-performance",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/kotvQ8jVxfQLZ9eTrLNyNR-1280-80.jpg",
+      "pub_date": "Mon, 25 May 2026 16:45:58 +0000",
+      "author": " Zhiye Liu ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T17:21:33.722Z",
+      "created_at": "2026-05-25T17:21:33.722Z"
+    },
+    {
+      "id": 9289,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Разгоняем Windows одной кнопкой — гении в сети нашли фичу, с помощью которой можно запустить ПК в космос. Достаточно отключить «Сжатие памяти», чтобы она не съедала ресурсы процессора в фоновом реж",
+      "description_en": "⚡️ Разгоняем Windows одной кнопкой — гении в сети нашли фичу, с помощью которой можно запустить ПК в космос. Достаточно отключить «Сжатие памяти», чтобы она не съедала ресурсы процессора в фоновом режиме.Сжатие памяти на Винде может очень сильно грузить процессор, поэтому ее стоит отключить:1️⃣ Открываем PowerShell на правах администратора.2️⃣ Вставляем команду:Disable-MMAgent -MemoryCompression3️⃣ Жмем Enter.4️⃣ Перезагружаем комп.Важно: если у вас меньше 16 ГБ ОЗУ, лучше ничего не делать! Сжат",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28668",
+      "image_url": "https://cdn4.telesco.pe/file/f_Mwofjn5-E2y0fC3ZNsxblrjZw5LrkldSpCGhxJv-XhB1IbfNr7U5diDpR5Lbx7vByyXHqAxbyAf2Y8BashIOBza4TzcIGLsg9Re0LOaULFj9RSiz85vMCC2YFUsOgFzJJX3hy8T1CDCvG-pPbPGbW-kz4uehhU8FHP5NekGK1KbAUTCn5zlRzd-bXc4c6IDQJ-JubJ5_UdXvZ74n4ZQHY293XEJDxsddpVcTTOT_ZtxdU0Hls26dZMUwSpjD7NH6c7b8kNmnKk7LIpIkJZwxMg8lk73r-sagpSd9-j1rc7G62z3kz4aKj4K1h8CY2B4fd__hTu0UCrOrlH7raG6Q.jpg",
+      "pub_date": "2026-05-25T16:58:24+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T17:21:34.323Z",
+      "created_at": "2026-05-25T17:21:34.323Z"
+    },
+    {
+      "id": 9290,
+      "source": "XOR Journal (TG)",
+      "title_en": "Критическая ситуация выглядит так 😭@xor_journal",
+      "description_en": "Критическая ситуация выглядит так 😭@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9364",
+      "image_url": "https://cdn4.telesco.pe/file/otcUkAMOaO6xEf3CYqJJVycnl35t503jsiX3Mh5vNYqZVkUAtaQWSPomhsIRbBbI1u6p47wSgUsbF9Jw9GJnUrjwUQb7ra9xkLaDQ92UoyFFPV0TfuTanyfP2lMVaRiKn1OK52V1lsYTEFJpFf0W75QZOGRVH78qQZVB-GAoacqowjI-ZBQe50nElJXQW0LICJVAuJLI1Pzyzl15gSKF-fdHFnjmU9koQy3kWtGnFdImhgxqUrQzR3n7blgSaJofmUBqw5e19ckoWRK7f4rYj7ta_TnZNRXXwCueloj--Ljee1zLJLSminVsma9yxZ3-8ESo94GgEEZXzgdTQV5aOg.jpg",
+      "pub_date": "2026-05-25T17:02:11+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T17:21:34.411Z",
+      "created_at": "2026-05-25T17:21:34.411Z"
     }
   ]
 }
