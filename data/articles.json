@@ -192886,7 +192886,7 @@
         "Manufacturing"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T15:37:35.690Z",
       "created_at": "2026-05-25T15:37:35.690Z"
     },
@@ -192906,7 +192906,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T15:37:35.690Z",
       "created_at": "2026-05-25T15:37:35.690Z"
     },
@@ -192925,7 +192925,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T15:37:35.690Z",
       "created_at": "2026-05-25T15:37:35.690Z"
     },
@@ -193067,6 +193067,95 @@
       "priority": "hot",
       "fetchedAt": "2026-05-25T17:21:34.411Z",
       "created_at": "2026-05-25T17:21:34.411Z"
+    },
+    {
+      "id": 9291,
+      "source": "The Guardian AI",
+      "title_en": "The Guardian view on the Pope and Claude: Leo XIV’s encyclical on AI is right to put humanity first | Editorial",
+      "description_en": "In calling for regulation of the digital revolution, and foregrounding human dignity, the pontiff has contributed to a crucial ethical debate\nWhen the present pope adopted his regnal name, he explained the choice by reference to a 19th-century predecessor who used the papacy to address the great social question of his time. In the 1891 encyclical, Rerum Novarum (Of New Things), Pope Leo XIII analysed the social forces unleashed by the Industrial Revolution, and outlined principles for a just set",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/may/25/the-guardian-view-on-the-pope-and-claude-encyclical-on-ai-is-right-to-put-humanity-first",
+      "image_url": "https://i.guim.co.uk/img/media/7dcd8053a63b83b1e290e457ad04d2f99d15be68/950_106_4014_3212/master/4014.jpg?width=140&quality=85&auto=format&fit=max&s=165c3ae1501dbd1dad2ed80fbd5baf9a",
+      "pub_date": "Mon, 25 May 2026 17:21:42 GMT",
+      "author": "Editorial",
+      "categories": [
+        {
+          "_": "Pope Leo XIV",
+          "$": {
+            "domain": "https://www.theguardian.com/world/pope-leo-xiv"
+          }
+        },
+        {
+          "_": "Religion",
+          "$": {
+            "domain": "https://www.theguardian.com/world/religion"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Catholicism",
+          "$": {
+            "domain": "https://www.theguardian.com/world/catholicism"
+          }
+        },
+        {
+          "_": "Christianity",
+          "$": {
+            "domain": "https://www.theguardian.com/world/christianity"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "The papacy",
+          "$": {
+            "domain": "https://www.theguardian.com/world/the-papacy"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T17:43:14.608Z",
+      "created_at": "2026-05-25T17:43:14.608Z"
+    },
+    {
+      "id": 9292,
+      "source": "XOR Journal (TG)",
+      "title_en": "В преддверии ПМЭФ в Сбербанк Онлайн завезли обновлённый народный антискам 📞На главной странице бесплатного «Определителя номера» банка теперь доступна история звонков ― там удобно заблокировать мошен",
+      "description_en": "В преддверии ПМЭФ в Сбербанк Онлайн завезли обновлённый народный антискам 📞На главной странице бесплатного «Определителя номера» банка теперь доступна история звонков ― там удобно заблокировать мошенников и спамеров. Если вы заносите подозрительный номер в черный список обновленного «Определителя», он автоматически отлетает в блок или получает спам-баннер у всех остальных пользователей. Так даже один юзер помогает сформировать коллективный цифровой имуннитет против  защитить миллионы.Случайных ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9365",
+      "image_url": "https://cdn4.telesco.pe/file/reXcE8kIrQHn_NhmEYE5F73eUnjHFlyqbiNu8yBUcmeY70rc__OVxb93tVQOTjtDNaxC2tHUInO8pBXxvyuWeOV0nH536MIvQyOL4cOxEoi4qrf3CzqsPoErGZ0EkooKffzuvJ94YQI7oecH9guks38vSMTP5r1QWyghOv3u7QUDO1jidj3JPI5SuBaEZ0JVjwPkiqlehZcl-dvRw4LBmvKqFa5qaxCzwESIgDMo9G8GMlkSpyc-C8ACf4QGlG1dU1CSskWfamCnsbvGE0VjJHJ-7L9_zJQQ66VPxIzNydRlMqjn1uejzeuKtrJuWaLvrnMdY3_x4HpFWBz7zhG64g.jpg",
+      "pub_date": "2026-05-25T17:25:07+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T17:43:21.097Z",
+      "created_at": "2026-05-25T17:43:21.097Z"
     }
   ]
 }
