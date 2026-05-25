@@ -1,9 +1,9 @@
 {
-  "total": 9303,
+  "total": 9304,
   "translated": 8824,
-  "untranslated": 479,
-  "today": 69,
-  "week": 765,
+  "untranslated": 480,
+  "today": 70,
+  "week": 766,
   "sources": [
     {
       "name": "Product Hunt",
@@ -43,7 +43,7 @@
     },
     {
       "name": "Ars Technica",
-      "total": 411,
+      "total": 412,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-25T22:17:38.648Z"
+  "generatedAt": "2026-05-25T22:36:17.478Z"
 }
