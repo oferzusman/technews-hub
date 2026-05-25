@@ -191815,7 +191815,7 @@
         "Tutorials"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T23:13:22.511Z",
       "created_at": "2026-05-24T23:13:22.511Z"
     },
@@ -191843,7 +191843,7 @@
         "Voice AI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T23:13:22.512Z",
       "created_at": "2026-05-24T23:13:22.512Z"
     },
@@ -191915,9 +191915,43 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-24T23:13:22.946Z",
       "created_at": "2026-05-24T23:13:22.946Z"
+    },
+    {
+      "id": 9235,
+      "source": "New Atlas",
+      "title_en": "Your handwriting might reveal more about your brain than you realize",
+      "description_en": "Many of us probably don't get much time to put pen to paper these days, with our world of correspondence now dominated by digital communication. But a new study from Portugal's University of Évora suggests that changes in handwriting could be an early red flag of serious age-related cognitive decline.\nContinue Reading\nCategory: Brain Health, Body and Mind\nTags: Dementia, Cognitive functioning, Brain, Diagnostic tools, Alzheimer's disease, Writing, Processing",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/brain/writing-slowly-brain-decline/",
+      "image_url": null,
+      "pub_date": "Mon, 25 May 2026 01:34:46 GMT",
+      "author": "Bronwyn Thompson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T02:10:31.565Z",
+      "created_at": "2026-05-25T02:10:31.565Z"
+    },
+    {
+      "id": 9236,
+      "source": "AI Post (TG)",
+      "title_en": "🧠 Yann LeCun just explained AI in a way that completely changes how you think about intelligence.On Lex Fridman’s podcast, LeCun said the only thing he truly cares about right now is “self-supervised",
+      "description_en": "🧠 Yann LeCun just explained AI in a way that completely changes how you think about intelligence.On Lex Fridman’s podcast, LeCun said the only thing he truly cares about right now is “self-supervised learning.” Not humans labeling data. Not machines learning from explicit instructions.Instead:• Remove part of a sentence → let the AI predict the missing words• Hide the next frame in a video → let the AI predict what happens nextThe system learns by reconstructing incomplete information. That’s t",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7019",
+      "image_url": null,
+      "pub_date": "2026-05-25T00:56:52+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T02:10:39.010Z",
+      "created_at": "2026-05-25T02:10:39.010Z"
     }
   ]
 }
