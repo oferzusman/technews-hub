@@ -192959,7 +192959,7 @@
       "author": "Mike McRae",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T16:36:40.367Z",
       "created_at": "2026-05-25T16:36:40.367Z"
     },
@@ -193010,7 +193010,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T16:36:45.189Z",
       "created_at": "2026-05-25T16:36:45.189Z"
     },
@@ -193030,7 +193030,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T17:21:33.722Z",
       "created_at": "2026-05-25T17:21:33.722Z"
     },
@@ -193047,7 +193047,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-25T17:21:34.323Z",
       "created_at": "2026-05-25T17:21:34.323Z"
     },
@@ -193156,6 +193156,153 @@
       "priority": "hot",
       "fetchedAt": "2026-05-25T17:43:21.097Z",
       "created_at": "2026-05-25T17:43:21.097Z"
+    },
+    {
+      "id": 9293,
+      "source": "TechCrunch AI",
+      "title_en": "What ClickUp’s mass layoff tells us about the future of work",
+      "description_en": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "image_url": null,
+      "pub_date": "Mon, 25 May 2026 16:00:00 +0000",
+      "author": "Marina Temkin",
+      "categories": [
+        "Startups",
+        "AI",
+        "layoff",
+        "ClickUp"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-25T18:58:51.843Z",
+      "created_at": "2026-05-25T18:58:51.843Z"
+    },
+    {
+      "id": 9294,
+      "source": "OpenAI Blog",
+      "title_en": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "description_en": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "image_url": null,
+      "pub_date": "Mon, 25 May 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Global Affairs"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-25T18:58:53.846Z",
+      "created_at": "2026-05-25T18:58:53.846Z"
+    },
+    {
+      "id": 9295,
+      "source": "The Guardian AI",
+      "title_en": "Rachel Reeves tells ministers to ‘buy British’ in four key industries",
+      "description_en": "Exclusive: Chancellor pushes for procurement of ships, steel, energy and AI to prioritise Britishness as well as cost\nRachel Reeves has instructed cabinet colleagues to award government contracts in four critical industries directly to British companies, making clear her irritation that ministers have been sending too much government business abroad.\nIn a letter seen by the Guardian, the chancellor tells every cabinet minister in charge of a spending department to “buy British” wherever possible",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/politics/2026/may/25/rachel-reeves-tells-ministers-to-buy-british-in-four-key-industries",
+      "image_url": "https://i.guim.co.uk/img/media/66892a05d6cff704d09c172a8552c1e82c1394e6/756_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ec8f06f2693464eae2cc930f72962a32",
+      "pub_date": "Mon, 25 May 2026 18:43:39 GMT",
+      "author": "Kiran Stacey Policy editor",
+      "categories": [
+        {
+          "_": "Rachel Reeves",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/rachel-reeves"
+          }
+        },
+        {
+          "_": "Steel industry",
+          "$": {
+            "domain": "https://www.theguardian.com/business/steel-industry"
+          }
+        },
+        {
+          "_": "Shipping industry",
+          "$": {
+            "domain": "https://www.theguardian.com/business/shipping-industry"
+          }
+        },
+        {
+          "_": "Energy industry",
+          "$": {
+            "domain": "https://www.theguardian.com/business/energy-industry"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "Labour",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/labour"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T18:58:54.202Z",
+      "created_at": "2026-05-25T18:58:54.202Z"
+    },
+    {
+      "id": 9296,
+      "source": "XOR Journal (TG)",
+      "title_en": "Реддитор создал GeoGuessr для программистов 😱В StarGuessr вам показывают случайные репы, а вы пытаетесь угадать, сколько у них звёзд на GitHub. Есть ежедневные челленджи с лидербордом, мультиплеер и ",
+      "description_en": "Реддитор создал GeoGuessr для программистов 😱В StarGuessr вам показывают случайные репы, а вы пытаетесь угадать, сколько у них звёзд на GitHub. Есть ежедневные челленджи с лидербордом, мультиплеер и бесконечный режим.А еще это интересный способ открыть для себя новые классные репозитории. Пробуем 👍@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9366",
+      "image_url": null,
+      "pub_date": "2026-05-25T18:18:34+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T18:58:58.293Z",
+      "created_at": "2026-05-25T18:58:58.293Z"
+    },
+    {
+      "id": 9297,
+      "source": "AI Post (TG)",
+      "title_en": "🗣Demis Hassabis says the hardest part isn't the technology, it's that human brains think linearly, while AI is an exponential technologyBut the one advantage we have is that everyone can use it now. ",
+      "description_en": "🗣Demis Hassabis says the hardest part isn't the technology, it's that human brains think linearly, while AI is an exponential technologyBut the one advantage we have is that everyone can use it now. \"That familiarity is what prepares us for the scale of what's coming\"@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7026",
+      "image_url": null,
+      "pub_date": "2026-05-25T18:48:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-25T18:58:58.972Z",
+      "created_at": "2026-05-25T18:58:58.972Z"
     }
   ]
 }
