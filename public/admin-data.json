@@ -1,9 +1,9 @@
 {
-  "total": 9393,
+  "total": 9396,
   "translated": 8824,
-  "untranslated": 569,
-  "today": 89,
-  "week": 672,
+  "untranslated": 572,
+  "today": 92,
+  "week": 675,
   "sources": [
     {
       "name": "Product Hunt",
@@ -37,7 +37,7 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 422,
+      "total": 423,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -91,7 +91,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 227,
+      "total": 228,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -133,9 +133,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 84,
+      "total": 85,
       "translated": 68,
-      "lastDate": "2026-05-26T14:57:53+00:00"
+      "lastDate": "2026-05-26T22:45:05+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-26T22:39:14.318Z"
+  "generatedAt": "2026-05-26T22:47:12.780Z"
 }
