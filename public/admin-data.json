@@ -1,9 +1,9 @@
 {
-  "total": 9307,
+  "total": 9310,
   "translated": 8824,
-  "untranslated": 483,
-  "today": 3,
-  "week": 586,
+  "untranslated": 486,
+  "today": 6,
+  "week": 589,
   "sources": [
     {
       "name": "Product Hunt",
@@ -49,7 +49,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 384,
+      "total": 386,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -97,9 +97,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 214,
+      "total": 215,
       "translated": 168,
-      "lastDate": "2026-05-26T00:34:16+00:00"
+      "lastDate": "2026-05-26T03:25:09+00:00"
     },
     {
       "name": "XOR Journal (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-26T02:50:52.642Z"
+  "generatedAt": "2026-05-26T04:45:35.005Z"
 }
