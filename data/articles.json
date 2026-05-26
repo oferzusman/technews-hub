@@ -193552,6 +193552,192 @@
       "priority": "batch",
       "fetchedAt": "2026-05-26T04:43:38.917Z",
       "created_at": "2026-05-26T04:43:38.917Z"
+    },
+    {
+      "id": 9311,
+      "source": "MarkTechPost",
+      "title_en": "Meet OmniVoice Studio: A Local, Open-Source Alternative to ElevenLabs",
+      "description_en": "OmniVoice Studio runs voice cloning, video dubbing, real-time dictation, and speaker diarization entirely on your own hardware. No API keys, no cloud account, and no subscription required. The project supports 646 languages for TTS and exposes an MCP server for integration with Claude, Cursor, or any MCP client.\nThe post Meet OmniVoice Studio: A Local, Open-Source Alternative to ElevenLabs appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/26/meet-omnivoice-studio-a-local-open-source-alternative-to-elevenlabs/",
+      "image_url": null,
+      "pub_date": "Tue, 26 May 2026 07:56:17 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Audio Language Model",
+        "Editors Pick",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Technology",
+        "TTS",
+        "Voice AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T08:31:11.295Z",
+      "created_at": "2026-05-26T08:31:11.295Z"
+    },
+    {
+      "id": 9312,
+      "source": "MarkTechPost",
+      "title_en": "Design a Complete Multimodal RLVR Pipeline with Open-MM-RL, Vision-Language Prompting, Reward Scoring, and GRPO Export",
+      "description_en": "In this tutorial, we explore the TuringEnterprises/Open-MM-RL dataset as a practical foundation for multimodal reasoning and reinforcement learning with verifiable rewards. We load the dataset, inspect its schema, analyze domains, formats, question lengths, answer types, and image distributions, and visualize representative examples from each domain. We also build a lightweight reward function that checks exact, […]\nThe post Design a Complete Multimodal RLVR Pipeline with Open-MM-RL, Vision-Lang",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/26/design-a-complete-multimodal-rlvr-pipeline-with-open-mm-rl-vision-language-prompting-reward-scoring-and-grpo-export/",
+      "image_url": null,
+      "pub_date": "Tue, 26 May 2026 07:25:55 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Editors Pick",
+        "Reinforcement Learning",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T08:31:11.295Z",
+      "created_at": "2026-05-26T08:31:11.295Z"
+    },
+    {
+      "id": 9313,
+      "source": "The Guardian AI",
+      "title_en": "US students on why they booed their pro-AI graduation speakers: ‘They’re not reading the room’",
+      "description_en": "Recent college grads are not very fond of commencement speakers hyping up a technology they see as a threat to their career prospects\nWhen Jacob Pagel graduated from Middle Tennessee State University this spring, predictions about artificial intelligence already had him questioning the value of his degree. Then a music executive started preaching about AI’s transformative power during a commencement speech.\n“This industry will change on you in a heartbeat. It has already changed more in the last",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/26/students-boo-pro-ai-graduation-speakers",
+      "image_url": "https://i.guim.co.uk/img/media/1096f89b3579c276b8cd72e460025530bd17b133/687_0_6871_5497/master/6871.jpg?width=140&quality=85&auto=format&fit=max&s=cd5fd47af06792b9085dd16ab9bed8da",
+      "pub_date": "Tue, 26 May 2026 08:00:49 GMT",
+      "author": "Sanya Mansoor",
+      "categories": [
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "US work & careers",
+          "$": {
+            "domain": "https://www.theguardian.com/money/work-careers-us"
+          }
+        },
+        {
+          "_": "US universities",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-universities"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "US education",
+          "$": {
+            "domain": "https://www.theguardian.com/education/education-us"
+          }
+        },
+        {
+          "_": "Graduation",
+          "$": {
+            "domain": "https://www.theguardian.com/education/graduation"
+          }
+        },
+        {
+          "_": "Students",
+          "$": {
+            "domain": "https://www.theguardian.com/education/students"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T08:31:12.334Z",
+      "created_at": "2026-05-26T08:31:12.334Z"
+    },
+    {
+      "id": 9314,
+      "source": "Product Hunt",
+      "title_en": "AI Shadowing",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/ai-shadowing",
+      "image_url": null,
+      "pub_date": "2026-05-22T15:07:49.000Z",
+      "author": "Xiling Gong",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-26T08:31:13.731Z",
+      "created_at": "2026-05-26T08:31:13.731Z"
+    },
+    {
+      "id": 9315,
+      "source": "XOR Journal (TG)",
+      "title_en": "Microsoft выкатили сразу два полезных инструмента для вайбкодеров — и вам это точно надо 😳🟢 AI Engineer Coach — опенсорсный плагин, который анализирует, насколько профессионально вы работаете с аген",
+      "description_en": "Microsoft выкатили сразу два полезных инструмента для вайбкодеров — и вам это точно надо 😳🟢 AI Engineer Coach — опенсорсный плагин, который анализирует, насколько профессионально вы работаете с агентами. Показывает, где вы жжёте дорогие модели на ерунду, выявляет аж 45 анти-паттернов, анализирует качество промптов и вообще проверяет, готов ли ваш проект к агентному кодингу (и что можно улучшить). Всё работает локально и бесплатно.🟢 SkillOpt — это система, которая прокачивает навыки агента. ИИ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9368",
+      "image_url": null,
+      "pub_date": "2026-05-26T07:36:52+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T08:31:14.412Z",
+      "created_at": "2026-05-26T08:31:14.412Z"
+    },
+    {
+      "id": 9316,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "📸 Пластические хирурги жалуются, что клиенты просят их о нереальных операциях из-за ИИПеред визитом к врачу клиенты все чаще генерируют свое «идеальное лицо» с помощью ИИ. Для женщин это кожа «без по",
+      "description_en": "📸 Пластические хирурги жалуются, что клиенты просят их о нереальных операциях из-за ИИПеред визитом к врачу клиенты все чаще генерируют свое «идеальное лицо» с помощью ИИ. Для женщин это кожа «без пор», четко очерченные скулы, изящный нос, пухлые губы и большие глаза. Для мужчин — широкая линия подбородка, более низкие брови и полные верхние веки. Хирурги рассказывают, что женщины 60-70 лет приходят с нейросетевыми фотографиями, где они омоложены на 40 лет. И врачам приходится объяснять, что та",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3240",
+      "image_url": "https://cdn4.telesco.pe/file/jx_WeZYp5cTMTAbWPSvzGSQDLtVI8pOiVx_7puE48yjwX4XBTMd8UWzT6p9Z5GUWbu89RA7WcS0nDeeSKHwa4bkJnaxf2cVhsGxrKjtka0PV1DvXwtjAd3ZeogKC0nsD6BnP6W55g1gtpXZOd0OqhdxMBkDXAYUoaLCoI8klkYN1sVkSNDK4v2-ysx0hxZmpLMLUItQ8Q4R3pWtih-B07-j3q1dRkgBvC4hLAcTTw1bvYlCR2KsFUjPHd9PTyRc77Z61F3pvBPcV0Qrt3cs1kMuf3BseM3ozcsfVPCXt6U9AFcqkv63zX1xdDzwQEVZSMfPb4ayKGzG0PSnMTqPM8A.jpg",
+      "pub_date": "2026-05-26T06:17:21+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-26T08:31:14.822Z",
+      "created_at": "2026-05-26T08:31:14.822Z"
+    },
+    {
+      "id": 9317,
+      "source": "AI Post (TG)",
+      "title_en": "Grok Foundation Model V9-Medium completes trainingThe training process for the Grok Foundation Model V9-Medium, comprising 1.5 trillion parameters, has concluded.This version is expected to show signi",
+      "description_en": "Grok Foundation Model V9-Medium completes trainingThe training process for the Grok Foundation Model V9-Medium, comprising 1.5 trillion parameters, has concluded.This version is expected to show significant improvements over the currently deployed 0.5 trillion parameter V8-Small model, particularly for complex programming tasks.Deployment is scheduled for two weeks from now.📰 @aipost",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7031",
+      "image_url": "https://cdn4.telesco.pe/file/tHnBgCdJLJ9Ryyi0KaZVsjP9jJ__6Ui-hSlringAxLwV-HuuGOgzwZik7JmYFniyjYgYPXQ-lCNKud0DoFZKlJSSxktUDJzwyRGH5zBMoQHjbQBzFCaCZqp-MaCvi-vH_QRLBZuipxOn7mWLX2g639xr-jxoCH7rFQVuO9HbFjAghWDuCtMsEcWDfiDUGb00oN8gvpf_9Bk9swIC492kl68EpbTKEaTs4yZ6klGUve9HZkAZ4I1ZnuxiIntzNziqm-UZZoo8yqQQUMx9gAZsKxPhu9BXgnbViicIfNrkgzKwgqmKmQn8O5HVMHfMNidgnYbD41SVPwxw6hlhzTWxOg.jpg",
+      "pub_date": "2026-05-26T06:30:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-26T08:31:15.072Z",
+      "created_at": "2026-05-26T08:31:15.072Z"
     }
   ]
 }
