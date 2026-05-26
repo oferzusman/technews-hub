@@ -195091,7 +195091,7 @@
         "openrouter"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T18:41:41.876Z",
       "created_at": "2026-05-26T18:41:41.876Z"
     },
@@ -195115,7 +195115,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T18:41:43.284Z",
       "created_at": "2026-05-26T18:41:43.284Z"
     },
@@ -195132,7 +195132,7 @@
       "author": "Neetika Walter",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T18:41:45.149Z",
       "created_at": "2026-05-26T18:41:45.149Z"
     },
@@ -195152,6 +195152,64 @@
       "priority": "hot",
       "fetchedAt": "2026-05-26T19:53:57.413Z",
       "created_at": "2026-05-26T19:53:57.413Z"
+    },
+    {
+      "id": 9386,
+      "source": "Ars Technica",
+      "title_en": "Millions of AI agents imperiled by critical vulnerability in open source package",
+      "description_en": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+      "pub_date": "Tue, 26 May 2026 19:50:33 +0000",
+      "author": "\n                    Dan Goodin\n                ",
+      "categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "AI agents",
+        "Starlette",
+        "vulnerability"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T20:53:04.544Z",
+      "created_at": "2026-05-26T20:53:04.544Z"
+    },
+    {
+      "id": 9387,
+      "source": "CNBC Tech",
+      "title_en": "Apple's surge to record highs faces a major test next month. What it must do to pass",
+      "description_en": "The iPhone maker's WWDC kicks off on June 8, offering Apple another chance to impress Wall Street on AI.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/26/apples-surge-to-record-highs-faces-a-major-test-next-month-what-it-must-do-to-pass.html",
+      "image_url": null,
+      "pub_date": "Tue, 26 May 2026 20:47:39 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T20:53:07.850Z",
+      "created_at": "2026-05-26T20:53:07.850Z"
+    },
+    {
+      "id": 9388,
+      "source": "AI Post (TG)",
+      "title_en": "🇨🇳 China just put its top AI researchers on a tighter leash.Leading AI experts from companies like Alibaba and DeepSeek now reportedly need government approval before traveling abroad.No approval = ",
+      "description_en": "🇨🇳 China just put its top AI researchers on a tighter leash.Leading AI experts from companies like Alibaba and DeepSeek now reportedly need government approval before traveling abroad.No approval = no flight.Beijing says it’s about preventing: data leaks, talent poaching and sensitive AI knowledge leaving the country. China is treating AI talent like strategic infrastructure now, the same way countries protect chips, energy, or defense tech.This comes as Chinese chipmakers already control a gr",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7037",
+      "image_url": "https://cdn4.telesco.pe/file/UcaQrchhfmTcDAkpe3-geyhmyDUnW2wf4pkyepJyUBqLdRsEdYTMMf7fNK4YvRAul9xdo5wFPD6Lltuj-qAjRQ9M_447qLgFAfF2IdOuduw2Z9slKI2NaAM4Xx0CcA2pSN5EbcpcBaOh7_p7ph3D3E6aF62z7yP4XdjVyYFujqCdKwPT1lJREMyT_lTciUx-BguwanYc36pmVAFybX8N0VzaBFJLczRPv68oVugUW-oVtwgG3hn4374ENGTJYvI1YAkguceSLf27s9qvqAWFFl9rGi3YuN-jCeM5CI_0NaZKXI8bshvt1hIDBSn9QJ_N5aamuJs1iFf_OaepknZd5g.jpg",
+      "pub_date": "2026-05-26T20:19:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T20:53:12.837Z",
+      "created_at": "2026-05-26T20:53:12.838Z"
     }
   ]
 }
