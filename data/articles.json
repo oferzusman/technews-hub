@@ -194551,7 +194551,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T14:36:56.601Z",
       "created_at": "2026-05-26T14:36:56.601Z"
     },
@@ -194648,7 +194648,7 @@
         "universal music group"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T16:24:02.566Z",
       "created_at": "2026-05-26T16:24:02.566Z"
     },
@@ -194668,7 +194668,7 @@
         "sponsored"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T16:24:03.783Z",
       "created_at": "2026-05-26T16:24:03.783Z"
     },
@@ -194702,7 +194702,7 @@
       "author": "Monica J. White",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T16:24:04.493Z",
       "created_at": "2026-05-26T16:24:04.493Z"
     },
@@ -194719,7 +194719,7 @@
       "author": "Atharva Gosavi",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T16:24:05.314Z",
       "created_at": "2026-05-26T16:24:05.314Z"
     },
@@ -194736,7 +194736,7 @@
       "author": "Munis Raza",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T16:24:05.314Z",
       "created_at": "2026-05-26T16:24:05.314Z"
     },
@@ -194777,7 +194777,7 @@
         "Operating Systems"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T16:24:07.130Z",
       "created_at": "2026-05-26T16:24:07.130Z"
     },
@@ -194797,7 +194797,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T16:24:07.130Z",
       "created_at": "2026-05-26T16:24:07.130Z"
     },
@@ -194818,7 +194818,7 @@
         "Cooling"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T16:24:07.130Z",
       "created_at": "2026-05-26T16:24:07.130Z"
     },
@@ -194835,7 +194835,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T16:24:07.170Z",
       "created_at": "2026-05-26T16:24:07.170Z"
     },
@@ -194852,7 +194852,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T16:24:07.170Z",
       "created_at": "2026-05-26T16:24:07.170Z"
     },
@@ -194869,7 +194869,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T16:24:07.170Z",
       "created_at": "2026-05-26T16:24:07.170Z"
     },
@@ -194886,7 +194886,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T16:24:11.213Z",
       "created_at": "2026-05-26T16:24:11.213Z"
     },
@@ -194903,9 +194903,121 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T16:24:11.963Z",
       "created_at": "2026-05-26T16:24:11.963Z"
+    },
+    {
+      "id": 9374,
+      "source": "Ars Technica",
+      "title_en": "Windows' classic 3D Space Cadet pinball is getting a physical re-creation",
+      "description_en": "But there are some real-world constraints that virtual pinball could easily ignore.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gaming/2026/05/windows-classic-3d-space-cadet-pinball-is-getting-a-physical-re-creation/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/3dspacecadet-1152x648-1779811060.jpeg",
+      "pub_date": "Tue, 26 May 2026 16:24:02 +0000",
+      "author": "\n                    Kyle Orland\n                ",
+      "categories": [
+        "Gaming",
+        "3D space cadet",
+        "hackers",
+        "microsoft",
+        "pinball",
+        "Windows"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T17:47:09.749Z",
+      "created_at": "2026-05-26T17:47:09.749Z"
+    },
+    {
+      "id": 9375,
+      "source": "Interesting Engineering",
+      "title_en": "China: First heterogeneous humanoid robot training facility to open in Shanghai",
+      "description_en": "China is set to launch its first heterogeneous humanoid robot training facility in Shanghai this...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/china-first-heterogeneous-humanoid-robot-training-facility-to-open-in-shanghai",
+      "image_url": null,
+      "pub_date": "Tue, 26 May 2026 16:54:39 +0000",
+      "author": "Jijo Malayil",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T17:47:12.741Z",
+      "created_at": "2026-05-26T17:47:12.741Z"
+    },
+    {
+      "id": 9376,
+      "source": "Interesting Engineering",
+      "title_en": "Hawaii startup builds 3D-printed Navy boat using volcanic basalt composite",
+      "description_en": "A Hawaii-based startup is proposing a different way to build military boats. Print them from...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/hawaii-startup-builds-3d-printed-navy-boat",
+      "image_url": null,
+      "pub_date": "Tue, 26 May 2026 16:50:48 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T17:47:12.741Z",
+      "created_at": "2026-05-26T17:47:12.741Z"
+    },
+    {
+      "id": 9377,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia is finally ditching its iconic Control Panel after 20 years — new driver updates only ship in the Nvidia App",
+      "description_en": "Nvidia has finally retired its 20-year-old control panel for GeForce GPUs. From now on, new GeForce drivers will only include the Nvidia App.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-is-finally-ditching-its-iconic-control-panel-after-20-years-new-driver-updates-only-ship-in-the-nvidia-app",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/SJK44CHKacrsa86eCY3ZRC-1280-80.jpg",
+      "pub_date": "Tue, 26 May 2026 16:45:59 +0000",
+      "author": " Aaron Klotz ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T17:47:14.993Z",
+      "created_at": "2026-05-26T17:47:14.993Z"
+    },
+    {
+      "id": 9378,
+      "source": "Hi, AI English (TG)",
+      "title_en": "💡 After \"Flying\" in VR, People Believed They Had WingsIn an experiment conducted by Chinese scientists, 25 volunteers \"flew\" in virtual reality four times over the course of a week.During the half-ho",
+      "description_en": "💡 After \"Flying\" in VR, People Believed They Had WingsIn an experiment conducted by Chinese scientists, 25 volunteers \"flew\" in virtual reality four times over the course of a week.During the half-hour sessions, the participants watched their winged avatars in a mirror as they flapped their virtual wings to fend off falling balls, hover over cliffs, and steer through rings in the air.💡 The participants underwent brain MRIs before and after the experiment. After a week of \"flights,\" the researc",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2541",
+      "image_url": null,
+      "pub_date": "2026-05-26T16:58:53+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T17:47:18.293Z",
+      "created_at": "2026-05-26T17:47:18.293Z"
+    },
+    {
+      "id": 9379,
+      "source": "AI Post (TG)",
+      "title_en": "A SharpaWave robotic hand has demonstrated the ability to perform rapid hand cycles exceeding four repetitions per second. One of the central engineering challenges in developing dexterous robotic han",
+      "description_en": "A SharpaWave robotic hand has demonstrated the ability to perform rapid hand cycles exceeding four repetitions per second. One of the central engineering challenges in developing dexterous robotic hands is achieving an effective balance between strength and speed. The hand features a Dynamic Tactile Array that integrates both visual and tactile sensing capabilities. Its fingertip combines an onboard camera with more than 1,000 tactile pixels, enabling sophisticated visuo-tactile feedback during ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7036",
+      "image_url": null,
+      "pub_date": "2026-05-26T17:35:07+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T17:47:18.588Z",
+      "created_at": "2026-05-26T17:47:18.588Z"
     }
   ]
 }
