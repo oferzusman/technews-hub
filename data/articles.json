@@ -193578,7 +193578,7 @@
         "Voice AI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T08:31:11.295Z",
       "created_at": "2026-05-26T08:31:11.295Z"
     },
@@ -193667,7 +193667,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T08:31:12.334Z",
       "created_at": "2026-05-26T08:31:12.334Z"
     },
@@ -193757,7 +193757,7 @@
         "Business Impact"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T09:51:05.448Z",
       "created_at": "2026-05-26T09:51:05.448Z"
     },
@@ -193779,7 +193779,7 @@
         "Business Impact"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T09:51:05.448Z",
       "created_at": "2026-05-26T09:51:05.448Z"
     },
@@ -193796,7 +193796,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T09:51:13.936Z",
       "created_at": "2026-05-26T09:51:13.936Z"
     },
@@ -193813,7 +193813,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T09:51:14.027Z",
       "created_at": "2026-05-26T09:51:14.027Z"
     },
@@ -193830,7 +193830,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T09:51:14.402Z",
       "created_at": "2026-05-26T09:51:14.402Z"
     },
@@ -193847,9 +193847,764 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T09:51:14.655Z",
       "created_at": "2026-05-26T09:51:14.655Z"
+    },
+    {
+      "id": 9324,
+      "source": "The Verge AI",
+      "title_en": "Sundar Pichai on AI, the future of search, and what’s happening to the web",
+      "description_en": "Today, I’m talking with Google and Alphabet CEO Sundar Pichai, in a conversation we recorded just after the Google I/O developer conference. This is the fifth year Sundar and I have sat down after I/O, and it’s become one of my favorite Decoder traditions.\nThere’s always a lot of news at I/O, and this year was no exception — Google has powerful new Gemini models, it’s putting AI agents in everything, and it’s making huge changes to Search on both the web and YouTube that will once again reshape ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
+      "image_url": null,
+      "pub_date": "2026-05-26T14:00:00.000Z",
+      "author": "Nilay Patel",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T14:36:48.852Z",
+      "created_at": "2026-05-26T14:36:48.852Z"
+    },
+    {
+      "id": 9325,
+      "source": "The Verge AI",
+      "title_en": "Nobody wants to tell me why they only listen to their own Suno slop",
+      "description_en": "Do you even like art? | Image: Cath Virginia / The Verge, Getty Images\t\n\nThere's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclaim that they don't listen to music on traditional streaming platforms anymore - it's just AI all day.\n\"Does anyone just listen to their own music now and not even music on Spotify anymore.?\"\n\"I definitely listen to my own music ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
+      "image_url": null,
+      "pub_date": "2026-05-26T12:46:03.000Z",
+      "author": "Terrence O’Brien",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T14:36:48.852Z",
+      "created_at": "2026-05-26T14:36:48.852Z"
+    },
+    {
+      "id": 9326,
+      "source": "The Verge AI",
+      "title_en": "AI warfare is already here",
+      "description_en": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended in November 2017, she thought the five-day sessions - which dealt largely in hypotheticals, speculating on a world where warfare was fought with killer robots - would be business as usual. After all, this was technology some thought might never be developed, and likely never deployed. That year, she ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
+      "image_url": null,
+      "pub_date": "2026-05-26T12:00:00.000Z",
+      "author": "Hayden Field",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-26T14:36:48.852Z",
+      "created_at": "2026-05-26T14:36:48.852Z"
+    },
+    {
+      "id": 9327,
+      "source": "The Verge AI",
+      "title_en": "Uber president says AI spending is getting ‘harder to justify’",
+      "description_en": "Uber president Andrew Macdonald (pictured) says its “hard to draw a line” between AI spending and deliverable features. | Photo: Zed Jameson/Bloomberg via Getty Images\t\n\nAfter reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments. In an interview with Rapid Response, Uber president and chief operating officer Andrew Macdonald said the company isn't seeing a connection between rising token ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+      "image_url": null,
+      "pub_date": "2026-05-26T09:55:09.000Z",
+      "author": "Jess Weatherbed",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-26T14:36:48.852Z",
+      "created_at": "2026-05-26T14:36:48.852Z"
+    },
+    {
+      "id": 9328,
+      "source": "TechCrunch AI",
+      "title_en": "TechCrunch Disrupt 2026 Early Bird ticket rates end May 29",
+      "description_en": "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisco.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
+      "image_url": null,
+      "pub_date": "Tue, 26 May 2026 14:00:00 +0000",
+      "author": "TechCrunch Events",
+      "categories": [
+        "TC",
+        "Startups",
+        "Hardware",
+        "Crypto",
+        "Climate",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "AI",
+        "Apps",
+        "Robotics",
+        "Fundraising",
+        "TechCrunch Disrupt 2026"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T14:36:49.226Z",
+      "created_at": "2026-05-26T14:36:49.226Z"
+    },
+    {
+      "id": 9329,
+      "source": "The Decoder",
+      "title_en": "China reportedly now requires top AI researchers to get permission before leaving the country",
+      "description_en": "China is now restricting overseas travel for top AI researchers at private companies like Alibaba and DeepSeek. Those affected need official approval before leaving the country. Beijing fears data leaks, technology theft, and talent poaching and is tightening its grip on the domestic AI industry.\nThe article China reportedly now requires top AI researchers to get permission before leaving the country appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/china-reportedly-now-requires-top-ai-researchers-to-get-permission-before-leaving-the-country/",
+      "image_url": null,
+      "pub_date": "Tue, 26 May 2026 14:25:50 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "China",
+        "USA"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T14:36:50.155Z",
+      "created_at": "2026-05-26T14:36:50.155Z"
+    },
+    {
+      "id": 9330,
+      "source": "The Decoder",
+      "title_en": "Google Cloud COO says AI security belongs in the boardroom, not just the server room",
+      "description_en": "Google Cloud COO Francis de Souza is urging companies to build security into their AI strategy from day one.\nThe article Google Cloud COO says AI security belongs in the boardroom, not just the server room appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/google-cloud-coo-says-ai-security-belongs-in-the-boardroom-not-just-the-server-room/",
+      "image_url": null,
+      "pub_date": "Tue, 26 May 2026 13:25:58 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Cybersecurity"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T14:36:50.156Z",
+      "created_at": "2026-05-26T14:36:50.156Z"
+    },
+    {
+      "id": 9331,
+      "source": "The Decoder",
+      "title_en": "AI-hallucinated citations are creeping into papers that shape clinical guidelines, researchers warn",
+      "description_en": "An audit of 2.5 million biomedical papers by Columbia University and other institutions shows that the rate of fabricated references has increased more than twelvefold since 2023. The researchers suspect a link to the widespread use of language models - the fake references match their paper's topic, follow correct formatting, and are nearly impossible to spot. 98 percent of the affected papers have received no response from their publishers.\nThe article AI-hallucinated citations are creeping int",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/ai-hallucinated-citations-are-creeping-into-papers-that-shape-clinical-guidelines-researchers-warn/",
+      "image_url": null,
+      "pub_date": "Tue, 26 May 2026 12:36:11 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "AI and medicine",
+        "AI and science",
+        "Generative AI",
+        "Hallucination"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-26T14:36:50.156Z",
+      "created_at": "2026-05-26T14:36:50.156Z"
+    },
+    {
+      "id": 9332,
+      "source": "The Decoder",
+      "title_en": "Y Combinator founder Paul Graham says AI-written founder emails feel like being lied to",
+      "description_en": "Y Combinator founder Paul Graham ignores emails clearly written by AI—they feel \"like being lied to,\" he says. That's coming from one of OpenAI's earliest investors. Studies suggest his reaction is anything but unusual.\nThe article Y Combinator founder Paul Graham says AI-written founder emails feel like being lied to appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/y-combinator-founder-paul-graham-says-ai-written-founder-emails-feel-like-being-lied-to/",
+      "image_url": null,
+      "pub_date": "Tue, 26 May 2026 11:00:57 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "AI research"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-26T14:36:50.156Z",
+      "created_at": "2026-05-26T14:36:50.156Z"
+    },
+    {
+      "id": 9333,
+      "source": "The Decoder",
+      "title_en": "The AI justice gap solution is slowly turning into an existential paperwork nightmare for US federal courts",
+      "description_en": "A new study from MIT and the University of Southern California shows that lawsuits filed without a lawyer at US federal courts have nearly doubled since ChatGPT went mainstream. One in five complaints now contains AI-generated text. Judges are resorting to drastic measures to cope with the flood of filings.\nThe article The AI justice gap solution is slowly turning into an existential paperwork nightmare for US federal courts appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/the-ai-justice-gap-solution-is-slowly-turning-into-an-existential-paperwork-nightmare-for-us-federal-courts/",
+      "image_url": null,
+      "pub_date": "Tue, 26 May 2026 10:42:00 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "AI and law",
+        "Generative AI",
+        "USA"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-26T14:36:50.156Z",
+      "created_at": "2026-05-26T14:36:50.156Z"
+    },
+    {
+      "id": 9334,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: puncturing the AI jobs panic",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hysteria over AI’s threat to white-collar jobs, there’s still scant evidence that the technology has had a large-scale impact on…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
+      "image_url": null,
+      "pub_date": "Tue, 26 May 2026 12:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-26T14:36:50.299Z",
+      "created_at": "2026-05-26T14:36:50.299Z"
+    },
+    {
+      "id": 9335,
+      "source": "New Atlas",
+      "title_en": "Dutch timber homes hit carbon-negative milestone with Delft Red reboot",
+      "description_en": "With the constant pressure for architecture to reduce its massive carbon footprint, studios are always looking for solutions beyond traditional materials. ORGA from the Netherlands has taken on this challenge, rewriting the rulebook by building a carbon-negative neighborhood prototype in the village of Marknesse.\nContinue Reading\nCategory: Architecture, Engineering\nTags: Carbon Neutral, sustainable design, Timber, Building and Construction, Prototype",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/architecture/orga-carbon-negative-affordable-housing/",
+      "image_url": null,
+      "pub_date": "Tue, 26 May 2026 12:57:00 GMT",
+      "author": "Stefan Ionescu",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T14:36:51.010Z",
+      "created_at": "2026-05-26T14:36:51.010Z"
+    },
+    {
+      "id": 9336,
+      "source": "New Atlas",
+      "title_en": "Ferrari's first EV is a surprisingly practical 5-seater",
+      "description_en": "I certainly didn't have a zero-emissions Ferrari sedan on my 2026 Bingo card, but that's what we're getting with the Luce.\nContinue Reading\nCategory: Automotive, Transport\nTags: Electric Vehicles, Ferrari, Sedan",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/automotive/ferrari-first-ev-luce-practical-sedan/",
+      "image_url": null,
+      "pub_date": "Tue, 26 May 2026 11:00:20 GMT",
+      "author": "Abhimanyu Ghoshal",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-26T14:36:51.010Z",
+      "created_at": "2026-05-26T14:36:51.010Z"
+    },
+    {
+      "id": 9337,
+      "source": "The Guardian AI",
+      "title_en": "‘We can stitch together our past’: the AI-generated time-travellers vlogging from history",
+      "description_en": "The content creators behind channels like Chloe VS History are using AI tools to ‘bring history to life in a really visceral way’\n“I have just arrived in Tudor London, 1536,” a young woman in a green puffer jacket tells the camera. “I’m going to check in at my room in the inn, get into the market. Then, later I am meeting the actual king – yep, Henry VIII – in person.”\nOn YouTube and other social platforms, users are flocking to watch AI-generated “history influencers”, characters that vlog thei",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/26/we-can-stitch-together-our-past-the-ai-generated-time-travellers-vlogging-from-history",
+      "image_url": "https://i.guim.co.uk/img/media/9c14d5b75dd6e8d5dbf4908dca6907aa94b220e6/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=af6ace40ea254bb8fc905d5bb215db52",
+      "pub_date": "Tue, 26 May 2026 10:00:49 GMT",
+      "author": "Priya Bharadia",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Instagram",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/instagram"
+          }
+        },
+        {
+          "_": "YouTube",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/youtube"
+          }
+        },
+        {
+          "_": "History",
+          "$": {
+            "domain": "https://www.theguardian.com/education/historyandhistoryofart"
+          }
+        },
+        {
+          "_": "Education",
+          "$": {
+            "domain": "https://www.theguardian.com/education/education"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-26T14:36:51.329Z",
+      "created_at": "2026-05-26T14:36:51.329Z"
+    },
+    {
+      "id": 9338,
+      "source": "The Guardian AI",
+      "title_en": "Spotify boss defends move to AI music, saying it is better than ‘slop’",
+      "description_en": "Streaming platform says remix tool agreed with Universal Music Group will protect artists from piracy\nSpotify’s chief executive has defended the company’s move into AI-generated music, claiming it offers users and creators a better alternative to piracy and unregulated AI slop.\nLast week, the platform announced a new feature in which premium users will be allowed to create their own, AI-generated remixes and song covers using music from participating artists.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/26/spotify-ai-remix-tool-protects-artists-slop",
+      "image_url": "https://i.guim.co.uk/img/media/d950e5360d1f85482f2da9d67d66dea5ea23cb64/849_0_5195_4156/master/5195.jpg?width=140&quality=85&auto=format&fit=max&s=34b8bf3d65615d226b3d1b4a8840750c",
+      "pub_date": "Tue, 26 May 2026 13:40:37 GMT",
+      "author": "Aisha Down",
+      "categories": [
+        {
+          "_": "Spotify",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/spotify"
+          }
+        },
+        {
+          "_": "Digital music and audio",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/digital-music-and-audio"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/media"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Music",
+          "$": {
+            "domain": "https://www.theguardian.com/music/music"
+          }
+        },
+        {
+          "_": "Music streaming",
+          "$": {
+            "domain": "https://www.theguardian.com/music/music-streaming"
+          }
+        },
+        {
+          "_": "Universal Music",
+          "$": {
+            "domain": "https://www.theguardian.com/music/universal-music"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T14:36:51.329Z",
+      "created_at": "2026-05-26T14:36:51.329Z"
+    },
+    {
+      "id": 9339,
+      "source": "AI News",
+      "title_en": "Autonomous AI systems test governance in physical environments",
+      "description_en": "Autonomous AI systems are beginning to move beyond software environments and into warehouses, delivery networks, and public spaces. The development is drawing attention to whether current AI rules cover systems that operate in physical environments. Most existing AI governance frameworks have focused on online harms and model outputs, including bias, misinformation, and harmful content. Embodied […]\nThe post Autonomous AI systems test governance in physical environments appeared first on AI News",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/",
+      "image_url": null,
+      "pub_date": "Tue, 26 May 2026 10:00:00 +0000",
+      "author": "Muhammad Zulhusni",
+      "categories": [
+        "AI in Action",
+        "Artificial Intelligence",
+        "Governance, Regulation & Policy",
+        "Physical AI",
+        "agentic ai",
+        "ai",
+        "autonomous",
+        "governance",
+        "physical ai"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-26T14:36:51.708Z",
+      "created_at": "2026-05-26T14:36:51.708Z"
+    },
+    {
+      "id": 9340,
+      "source": "AI News",
+      "title_en": "Proving the case on day two at TechEx North America",
+      "description_en": "The AI and Big Data programme on day two of TechEx North America referred at least once to the “AI graveyard,” meaning the large number of pilots that never become durable systems. That phrase set the tone. The question was proof. The Enterprise AI Implementation, ROI and Adoption track dealt with the hard middle of […]\nThe post Proving the case on day two at TechEx North America appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/proving-the-case-on-day-two-at-techex-north-america/",
+      "image_url": null,
+      "pub_date": "Wed, 20 May 2026 02:37:00 +0000",
+      "author": "AI News",
+      "categories": [
+        "TechEx Events",
+        "agentic ai",
+        "banking",
+        "fintech",
+        "governance"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-26T14:36:51.708Z",
+      "created_at": "2026-05-26T14:36:51.708Z"
+    },
+    {
+      "id": 9341,
+      "source": "Interesting Engineering",
+      "title_en": "US Air Force sends ULTRA Turbo drone with multi-day endurance to Middle East",
+      "description_en": "The U.S. Air Force plans to deploy an upgraded version of its glider-like ULTRA surveillance...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/upgraded-ultra-turbo-us-surveillance-drones",
+      "image_url": null,
+      "pub_date": "Tue, 26 May 2026 14:09:05 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T14:36:51.799Z",
+      "created_at": "2026-05-26T14:36:51.799Z"
+    },
+    {
+      "id": 9342,
+      "source": "Interesting Engineering",
+      "title_en": "China: ENGINEAI’s 129,000 sq ft factory claims to build one humanoid robot every 15 mins",
+      "description_en": "A Chinese robotics company, ENGINEAI, has opened a large smart manufacturing facility in Shenzhen to...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/china-engineai-humanoid-robot-factory",
+      "image_url": "https://www.youtube.com/embed/3VBK_jZmagU",
+      "pub_date": "Tue, 26 May 2026 13:50:27 +0000",
+      "author": "Sujita Sinha",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T14:36:51.799Z",
+      "created_at": "2026-05-26T14:36:51.799Z"
+    },
+    {
+      "id": 9343,
+      "source": "Interesting Engineering",
+      "title_en": "World’s first quantum chip uses advanced lithography to make qubits easier to scale",
+      "description_en": "Imec, a Belgium-based research and innovation lab working on advanced semiconductor technologies, has built the...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/quantum-dot-qubit-device-euv-lithography",
+      "image_url": null,
+      "pub_date": "Tue, 26 May 2026 13:50:21 +0000",
+      "author": "Ameya Paleja",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T14:36:51.799Z",
+      "created_at": "2026-05-26T14:36:51.799Z"
+    },
+    {
+      "id": 9344,
+      "source": "Interesting Engineering",
+      "title_en": "IAI blue Diamond suite: Integrating modular loitering munitions on light naval hulls",
+      "description_en": "Israel Aerospace Industries (IAI) has unveiled a naval weapon system called Diamond, designed to outfit...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/iai-blue-diamond-naval-offering-modular-missiles-small-vessels",
+      "image_url": "https://www.youtube.com/embed/9rzldkekfLY",
+      "pub_date": "Tue, 26 May 2026 13:38:57 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T14:36:51.799Z",
+      "created_at": "2026-05-26T14:36:51.799Z"
+    },
+    {
+      "id": 9345,
+      "source": "Tom's Hardware",
+      "title_en": "Arctic Freezer 36-S Review: Small size, effective performance, low price",
+      "description_en": "We tested Arctic’s entry-level Freezer 36-S with AMD’s Ryzen 9 9950X3D, and it did better than you might expect for a single-tower air cooler.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/air-cooling/arctic-freezer-36-s-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/kFqLxUNjcXaCWad86W6SWi-1280-80.jpg",
+      "pub_date": "Tue, 26 May 2026 13:00:00 +0000",
+      "author": " Albert Thomas ",
+      "categories": [
+        "Air Cooling",
+        "PC Components",
+        "Cooling"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T14:36:52.083Z",
+      "created_at": "2026-05-26T14:36:52.083Z"
+    },
+    {
+      "id": 9346,
+      "source": "Tom's Hardware",
+      "title_en": "SK hynix unveils 'iHBM' thermal architecture that cools AI memory at the source — integrated cooling elements inside HBM interface cut thermal resistance by 30%, target next-gen HBM5 accelerators and dense AI data centers",
+      "description_en": "SK hynix has unveiled iHBM, a new thermal packaging architecture that embeds cooling elements directly into the HBM interface layer, reducing thermal resistance by 30% and helping future AI accelerators avoid performance-killing thermal throttling.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-unveils-ihbm-thermal-architecture-that-cools-ai-memory-at-the-source-integrated-cooling-elements-inside-hbm-interface-cut-thermal-resistance-by-30-percent-target-next-gen-hbm5-accelerators-and-dense-ai-data-centers",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/fqTti4KdcXiuxcu6QwyyKe-1280-80.jpg",
+      "pub_date": "Tue, 26 May 2026 11:49:14 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-26T14:36:52.083Z",
+      "created_at": "2026-05-26T14:36:52.083Z"
+    },
+    {
+      "id": 9347,
+      "source": "Tom's Hardware",
+      "title_en": "Uber chief warns no link yet between AI tokenmaxxing and shipping successful products — company pumps the brakes on all-out AI spending",
+      "description_en": "Uber might be having a serious rethink about lavishing cash on AI services as management still can't draw a clear link between LLM use and beneficial results.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/uber-chief-warns-no-link-yet-between-ai-tokenmaxxing-and-shipping-successful-products-company-pumps-the-brakes-on-all-out-ai-spending",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/hBXjYPMV93iZ5WJrEfkuWM-1280-80.jpg",
+      "pub_date": "Tue, 26 May 2026 11:15:53 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-26T14:36:52.083Z",
+      "created_at": "2026-05-26T14:36:52.083Z"
+    },
+    {
+      "id": 9348,
+      "source": "Tom's Hardware",
+      "title_en": "Angry TSMC employees considering strikes, unionization over employee bonuses, report claims — company reportedly considering 15% payout cut to fund capex despite record revenues fuelled by AI surge",
+      "description_en": "TSMC responded by saying it expects employee profit-sharing bonuses to grow at a faster rate in 2026 than they did in 2025.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/tsmc-employees-threaten-samsung-style-strike-over-rumored-15-percent-bonus-cuts-despite-record-profits",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/dPC6mjsAPHZKQApYbCFMRG-1280-80.jpg",
+      "pub_date": "Tue, 26 May 2026 10:57:30 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-26T14:36:52.083Z",
+      "created_at": "2026-05-26T14:36:52.083Z"
+    },
+    {
+      "id": 9349,
+      "source": "Tom's Hardware",
+      "title_en": "AI shrinks zero-day exploit time from a year to a single day, heading toward one minute — Zero-Day Clock warns security window has collapsed",
+      "description_en": "Zero-Day clock visualizes the effect of AI on software security and predicts that exploits will happen one minute after disclosure in 2027.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/zero-day-clock-visualizes-and-quantifies-the-effects-of-ai-on-software-security-time-until-exploit-went-from-one-year-to-one-day-and-projected-to-be-one-minute-soon-enough",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4G5SwapR6Ldgi5PgLpMAjK-1280-80.jpg",
+      "pub_date": "Tue, 26 May 2026 10:20:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Cybersecurity",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-26T14:36:52.083Z",
+      "created_at": "2026-05-26T14:36:52.083Z"
+    },
+    {
+      "id": 9350,
+      "source": "Tom's Hardware",
+      "title_en": "Survey reveals that 99% of CEOs now expect AI-driven layoffs — companies are racing to replace junior workers with AI, even as many executives remain uncertain about the returns on AI investments",
+      "description_en": "A new Mercer report reveals that 99% of CEOs expect AI-driven layoffs within two years, with entry-level workers facing the biggest threat as companies slash junior roles despite many executives admitting AI investments still show weak or unproven returns.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/survey-reveals-that-99-percent-of-ceos-now-expect-ai-driven-layoffs-companies-are-racing-to-replace-junior-workers-with-ai-even-as-many-executives-remain-uncertain-about-the-returns-on-ai-investments",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/sRXCycRiDmjzupbguQiUoU-1280-80.jpg",
+      "pub_date": "Tue, 26 May 2026 10:00:00 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-26T14:36:52.083Z",
+      "created_at": "2026-05-26T14:36:52.083Z"
+    },
+    {
+      "id": 9351,
+      "source": "CNBC Tech",
+      "title_en": "Dropbox CEO Drew Houston to step down after 19 years at helm of cloud storage pioneer",
+      "description_en": "Dropbox CEO Drew Houston, who started the cloud storage company when he was 24, plans to step down and assume the role of executive chairman.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
+      "image_url": null,
+      "pub_date": "Tue, 26 May 2026 13:15:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T14:36:52.327Z",
+      "created_at": "2026-05-26T14:36:52.327Z"
+    },
+    {
+      "id": 9352,
+      "source": "CNBC Tech",
+      "title_en": "We're again trimming a stock up 46% last week and 80% since our April initiation",
+      "description_en": "More broadly, we don't buy parabolic moves; we take profits.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/26/were-again-trimming-a-stock-up-46percent-last-week-and-80percent-since-our-april-initiation.html",
+      "image_url": null,
+      "pub_date": "Tue, 26 May 2026 12:57:43 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T14:36:52.327Z",
+      "created_at": "2026-05-26T14:36:52.327Z"
+    },
+    {
+      "id": 9353,
+      "source": "XOR Journal (TG)",
+      "title_en": "Больше никаких оправданий для опозданий на созвоны — появилась милая напоминалка о встречах в виде летающих зверей. 😎QuakPit запускает через весь экран самолет с цветным баннером за 5 или 10 минут до",
+      "description_en": "Больше никаких оправданий для опозданий на созвоны — появилась милая напоминалка о встречах в виде летающих зверей. 😎QuakPit запускает через весь экран самолет с цветным баннером за 5 или 10 минут до встречи. Пилота можно выбрать самому: утка, голубь, капибара, корги или динозавр (каждый со своим звуком, разумеется) будут лететь и напоминать вам о звонке.Самый мёд: напоминалка бесплатная, опенсорсная и автоматически  синхронизируется с вашим календарем.Сеньоры, забираем: сайт тут, GitHub здесь.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9371",
+      "image_url": null,
+      "pub_date": "2026-05-26T13:36:26+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T14:36:56.248Z",
+      "created_at": "2026-05-26T14:36:56.248Z"
+    },
+    {
+      "id": 9354,
+      "source": "Habr (TG)",
+      "title_en": "Пандемия, нейросети и базовые протоколы: самые просматриваемые статьи на ХабреЗа два десятилетия именно эти три лонгрида собрали максимальный трафик, зафиксировав главные интересы Рунета.Коронавирус: ",
+      "description_en": "Пандемия, нейросети и базовые протоколы: самые просматриваемые статьи на ХабреЗа два десятилетия именно эти три лонгрида собрали максимальный трафик, зафиксировав главные интересы Рунета.Коронавирус: почему надо действовать прямо сейчас[5 650 556 просмотров]Автор перевёл сухую статистику в наглядные графики, математически доказав необходимость социальной изоляции.Топ-11 бесплатных нейросетей для генерации изображений: лучшие AI-генераторы 2026 года[2 455 400 просмотров]Практический обзор, показы",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/68731",
+      "image_url": "https://cdn4.telesco.pe/file/rntTjMsPTdVpqNlHd70DHaEWcWTvKWSPlJHlT9wvTdNfWOn-N-A5byOi2Ke38gIi3047aXO-9NhE8BunsHHoDk56gcRNTMFmGcenC39W1iQs7DDgx9YOijAoQm7mUUsQF1ucUNsbO4NV2ozjcS8CK4V2m-HCqnDwFKSIL9vK9e0Fdof2rSh2_DkcEPewQrDTVePZhFqAnnG11iFyR_YvuJT6alQvpO38l631jNdtOiRVHkRfDYOYIpHZtJr36666qcBCdqsJKqkrKCOob5D2zzJYpXh-mgQWlwnfElXf8EX_Kzh6n5rCtZChSbn2PTdj4wqE0nFyN-vP2cwmpRbnWw.jpg",
+      "pub_date": "2026-05-26T14:35:14+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T14:36:56.601Z",
+      "created_at": "2026-05-26T14:36:56.601Z"
+    },
+    {
+      "id": 9355,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "Zara выпустила сумку в виде The PlayStation PortableПередняя часть повторяет форму портативной консоли с её кнопками и виниловым «экраном», а на задней размещён логотип PSP. Ремень дополнили символами",
+      "description_en": "Zara выпустила сумку в виде The PlayStation PortableПередняя часть повторяет форму портативной консоли с её кнопками и виниловым «экраном», а на задней размещён логотип PSP. Ремень дополнили символами кнопок PlayStation: Square, Circle, Triangle и Cross.Стоимость PSP Crossbody Bag — $35,9.Сумка-PSP — это…👍 — неожиданно, но класс🔥 — хочу🤔 — сомнительный мерч❤️ Надо мерить",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3241",
+      "image_url": "https://cdn4.telesco.pe/file/OpmGR0NyzUk76cV8wxLrP67pgCjn1iW4HGTn7na1Hb1CE1bh7nfPukQSUdiT7xqzFnRnZjZsokUa0fq_ecYJ76AC4rqw0dYHE0AOq2B5vEAhDGzRAW34wBSVl9ot45orKJtYf_qDFjIjLa0H2wYYzspalB0h72_jtWJVgO3onW8BzqRPWqQNU42TB7xitkXspKxQXgA0PCg3t1LIs5qFaW2yD3VN17-A8Z7QC1ckn1uF9cm01ue1uWxfJMuiiFbknp4s2M34cRcVktbvZpwmWV94wL0NbA6vvo2pO3RmgQ9MYMFzmdPGOd2wRJQUsSK4L9ghIo5f8lVzw6AohL959A.jpg",
+      "pub_date": "2026-05-26T11:06:18+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-26T14:36:56.629Z",
+      "created_at": "2026-05-26T14:36:56.629Z"
+    },
+    {
+      "id": 9356,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "👨 ИИ-версию культовой фотографии Ансела Адамса выставили на продажу за $10 тыс.Нью-йоркская Danziger Gallery показала на ярмарке AIPAD цветную ИИ-версию знаменитой черно-белой фотографии Ансела Адамс",
+      "description_en": "👨 ИИ-версию культовой фотографии Ансела Адамса выставили на продажу за $10 тыс.Нью-йоркская Danziger Gallery показала на ярмарке AIPAD цветную ИИ-версию знаменитой черно-белой фотографии Ансела Адамса «Восход луны, Эрнандес, Нью-Мексико». Работа была подписана как A.I. GENERATED с указанием промпта: «Сделай реалистичную цветную версию культовой фотографии Ансела Адамса \"Moonrise Over Hernandez\"».В апреле 2025 года ранний отпечаток этой фотографии ушел на Sotheby's за $635 000.⚡️ Фонд AAPRT, осн",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3244",
+      "image_url": "https://cdn4.telesco.pe/file/RzzKxWAt7OKQBPmIfAAU2h-uFoUOof4YUWhVChoPMpVxorqDWYOm7MliPyiJuOWHhxjCWKFs3CSmXJ_dpsl3GiWs-7HN5QHHS4Qnh1c3h4cA5o-SojM9I4cB2sM30SE67dxPxQWpbG3zLxg1oSeJBhJ4cKM7fpZ8-IqZfMPshwx8FfmhIojqSu7dca3_kRIaJ6zbccXr_GwiegbpVpYZW9Vllj93bDKHM2DQyqIPqZf25oBX7R5yp6WX9l2DefmckdEsMXHmIwPe793sHoAF2Noq-QI4ysakWwySuF6ZEayMnsX6CyPw0CzRSyGirDmX8IvyGXTUfO3Vo0lqFs8BDw.jpg",
+      "pub_date": "2026-05-26T13:17:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T14:36:56.629Z",
+      "created_at": "2026-05-26T14:36:56.629Z"
+    },
+    {
+      "id": 9357,
+      "source": "AI Post (TG)",
+      "title_en": "FDA initiates pilot program for evaluating AI-designed drugsOver 200 drugs developed using artificial intelligence are currently in clinical trials around the world. To date, none have received FDA ap",
+      "description_en": "FDA initiates pilot program for evaluating AI-designed drugsOver 200 drugs developed using artificial intelligence are currently in clinical trials around the world. To date, none have received FDA approval.The Food and Drug Administration has introduced a pilot initiative aimed at determining how to assess AI-generated evidence in drug applications. Ten companies have been selected for an accelerated, interactive review process.Development in the AI pharmaceutical sector has progressed more rap",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7033",
+      "image_url": "https://cdn4.telesco.pe/file/i_sVMiIogyTo8XaFtFQJRh2rXPcBDrG3wlx51NEgmdRlc6eyNP4PAPqOCvhwpkigLbHjDon0zvCmuzdduFxv_-EG2sGoPTgZ__4nyoTMdqI7pndYmOGv3eAYPJCBckfwuQNfI83xg-F8Tq5Hkr4nUeI29aYsyT4nQqoo2tqATxiXYxE55If59p7M8PT1P2vCmhqsMc7AwXsl5b_qRNS9OkDHeRj4rJPOnhZF5iHEmMvyVrFX8HrxqontNz6vIFT-5UBqA9cl4CwgIlmf8hoV7X7Uvfc_k23Tzfu2fk3vMLS0GTHyg9FXWi9_HcLenkq0mG08n_79-Q0h3WPQb7qaOw.jpg",
+      "pub_date": "2026-05-26T12:03:31+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-26T14:36:56.910Z",
+      "created_at": "2026-05-26T14:36:56.910Z"
     }
   ]
 }
