@@ -194625,7 +194625,7 @@
         "Human Archive"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T16:24:02.566Z",
       "created_at": "2026-05-26T16:24:02.566Z"
     },
@@ -194685,7 +194685,7 @@
       "author": "Omar Kardoudi",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T16:24:04.492Z",
       "created_at": "2026-05-26T16:24:04.492Z"
     },
@@ -194756,7 +194756,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T16:24:07.130Z",
       "created_at": "2026-05-26T16:24:07.130Z"
     },
@@ -194927,7 +194927,7 @@
         "Windows"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T17:47:09.749Z",
       "created_at": "2026-05-26T17:47:09.749Z"
     },
@@ -195018,6 +195018,123 @@
       "priority": "hot",
       "fetchedAt": "2026-05-26T17:47:18.588Z",
       "created_at": "2026-05-26T17:47:18.588Z"
+    },
+    {
+      "id": 9380,
+      "source": "Ars Technica",
+      "title_en": "FBI agent explains how easy it is to ID people posting AI porn without consent",
+      "description_en": "A creepy saved post on Instagram linked man to AI porn account, FBI says.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2228756838medium-1152x648.jpg",
+      "pub_date": "Tue, 26 May 2026 17:46:01 +0000",
+      "author": "\n                    Ashley Belanger\n                ",
+      "categories": [
+        "AI",
+        "Policy",
+        "ai porn",
+        "Artificial Intelligence",
+        "etc",
+        "fbi",
+        "nudify",
+        "revenge porn",
+        "take it down act"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T18:41:41.851Z",
+      "created_at": "2026-05-26T18:41:41.851Z"
+    },
+    {
+      "id": 9381,
+      "source": "Ars Technica",
+      "title_en": "3D-printable humanoid legs let robotics experiments run wild",
+      "description_en": "Hugging Face debuts $2,500 bipedal robot project for builders and researchers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Hugging-Face-LeHumanoid-Robot-legs-1152x648.png",
+      "pub_date": "Tue, 26 May 2026 17:16:07 +0000",
+      "author": "\n                    Jeremy Hsu\n                ",
+      "categories": [
+        "AI",
+        "Bipedalism",
+        "Hugging Face",
+        "humanoid robots",
+        "robot training",
+        "Robotics",
+        "robots"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T18:41:41.851Z",
+      "created_at": "2026-05-26T18:41:41.851Z"
+    },
+    {
+      "id": 9382,
+      "source": "TechCrunch AI",
+      "title_en": "OpenRouter more than doubles valuation to $1.3B in a year",
+      "description_en": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+      "image_url": null,
+      "pub_date": "Tue, 26 May 2026 18:33:01 +0000",
+      "author": "Julie Bort",
+      "categories": [
+        "AI",
+        "Startups",
+        "TC",
+        "AI gateway",
+        "CapitalG",
+        "openrouter"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T18:41:41.876Z",
+      "created_at": "2026-05-26T18:41:41.876Z"
+    },
+    {
+      "id": 9383,
+      "source": "The Decoder",
+      "title_en": "Claude Mythos reportedly solves OpenAI's landmark Erdős problem with a \"cute, simple proof\"",
+      "description_en": "Shortly after OpenAI disproved Erdős' unit-distance conjecture, Anthropic shows Claude Mythos can solve the problem too - \"over the weekend.\" Engineer Sholto Douglas says Mythos cracked the 1946 conjecture with a \"cute, simple proof,\" a sign of \"serious overhang\" in AI-driven math discoveries.\nThe article Claude Mythos reportedly solves OpenAI's landmark Erdős problem with a \"cute, simple proof\" appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/claude-mythos-reportedly-solves-openais-landmark-erdos-problem-with-a-cute-simple-proof/",
+      "image_url": null,
+      "pub_date": "Tue, 26 May 2026 18:31:07 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Anthropic",
+        "Math",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T18:41:43.284Z",
+      "created_at": "2026-05-26T18:41:43.284Z"
+    },
+    {
+      "id": 9384,
+      "source": "Interesting Engineering",
+      "title_en": "California’s first carbon vault starts trapping CO2 more than one mile underground",
+      "description_en": "California has begun permanent underground carbon dioxide storage for the first time after California Resources...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/california-first-ccs-project-carbon-terra-vault",
+      "image_url": null,
+      "pub_date": "Tue, 26 May 2026 18:41:25 +0000",
+      "author": "Neetika Walter",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T18:41:45.149Z",
+      "created_at": "2026-05-26T18:41:45.149Z"
     }
   ]
 }
