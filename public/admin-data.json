@@ -1,9 +1,9 @@
 {
-  "total": 9379,
+  "total": 9384,
   "translated": 8824,
-  "untranslated": 555,
-  "today": 75,
-  "week": 658,
+  "untranslated": 560,
+  "today": 80,
+  "week": 663,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 688,
+      "total": 689,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -37,13 +37,13 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 420,
+      "total": 421,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "Ars Technica",
-      "total": 413,
+      "total": 415,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 376,
+      "total": 377,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-26T17:50:15.492Z"
+  "generatedAt": "2026-05-26T18:43:43.318Z"
 }
