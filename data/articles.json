@@ -195310,6 +195310,74 @@
       "priority": "hot",
       "fetchedAt": "2026-05-26T22:19:14.767Z",
       "created_at": "2026-05-26T22:19:14.767Z"
+    },
+    {
+      "id": 9394,
+      "source": "TechCrunch AI",
+      "title_en": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "description_en": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "image_url": null,
+      "pub_date": "Tue, 26 May 2026 22:32:56 +0000",
+      "author": "Rebecca Bellan",
+      "categories": [
+        "AI",
+        "Enterprise",
+        "AI search",
+        "DuckDuckGo",
+        "Google",
+        "Google Search"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T22:46:11.791Z",
+      "created_at": "2026-05-26T22:46:11.791Z"
+    },
+    {
+      "id": 9395,
+      "source": "MarkTechPost",
+      "title_en": "Stability AI Releases Stable Audio 3: A Family of Fast Latent Diffusion Models for Audio Generation and Editing",
+      "description_en": "Stability AI has released Stable Audio 3, a family of latent diffusion models for instrumental music and sound effects generation. The release includes open weights for the small and medium variants. Small runs on a MacBook Pro M4 CPU. Medium fits on consumer GPUs with 8 GB of VRAM. Both generate stereo audio at 44.1 kHz using a three-stage training pipeline: flow matching, distillation warmup, and adversarial post-training. On the BBC Sound Effects benchmark at 5 seconds, SA3 medium scores FAD ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/26/stability-ai-releases-stable-audio-3-a-family-of-fast-latent-diffusion-models-for-audio-generation-and-editing/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-26-at-3.08.35-PM-1.png",
+      "pub_date": "Tue, 26 May 2026 22:31:02 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Artificial Intelligence",
+        "Audio Language Model",
+        "Editors Pick",
+        "Language Model",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Technology",
+        "Voice AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T22:46:13.444Z",
+      "created_at": "2026-05-26T22:46:13.444Z"
+    },
+    {
+      "id": 9396,
+      "source": "Backdoor (TG)",
+      "title_en": "Забираем топ- 6️⃣ самых имбовых парсеров прямо сейчас — в сети собрали лучший софт, который поможет получить любые данные из всевозможных источников.• Crawl4AI — самый быстрый краулер с вшитым ИИ, кот",
+      "description_en": "Забираем топ- 6️⃣ самых имбовых парсеров прямо сейчас — в сети собрали лучший софт, который поможет получить любые данные из всевозможных источников.• Crawl4AI — самый быстрый краулер с вшитым ИИ, который рендерит JS и выдает готовые данные для нейронок.• Firecrawl — мощнейший универсальный парсер для ИИ-агентов, который превращает сайты в markdown. • Scrapy — проверенный годами фреймворк на Python, который переваривает большие объемы и сложные задачи.• Crawlee — сочетание Node.js и Python, кото",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28690",
+      "image_url": "https://cdn4.telesco.pe/file/t5OFyovR-cGtbxK0WYnc1CLxw1Kol6pLsAePQ9kylzDjnouu87OB9QpP1-FTyAaDHIyNeGzB7QGjwuaAy_oYwxjbsqOzVzeUK_9r6NLvv-sVbhZQ62nbi6QhuvwEuUB4H4JjODpT88q4r7_ExDJdtPEho3WmVX4i7bR4_nOlqTl5XkH9pEMSgTAZGzD8D31logwW4pEHnsPgxnJNbOdSX_VclRUkMqvMZK68yX-5IMBJYT3pzX81ikgRNC8Y5bl3diPAhBa4RAGqW5KxznjmY6OUvFnS7dma_ZqjuwNlWQBZUETKadB3jPutFi0Hi9Wx8LQ16MCmdsxooJ89DSrg4g.jpg",
+      "pub_date": "2026-05-26T22:45:05+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-26T22:46:21.198Z",
+      "created_at": "2026-05-26T22:46:21.198Z"
     }
   ]
 }
