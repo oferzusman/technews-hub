@@ -1,9 +1,9 @@
 {
-  "total": 9388,
+  "total": 9393,
   "translated": 8824,
-  "untranslated": 564,
-  "today": 84,
-  "week": 667,
+  "untranslated": 569,
+  "today": 89,
+  "week": 672,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,13 +19,13 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 689,
+      "total": 690,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 484,
+      "total": 485,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -37,13 +37,13 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 421,
+      "total": 422,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "Ars Technica",
-      "total": 416,
+      "total": 417,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -103,9 +103,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 165,
+      "total": 166,
       "translated": 119,
-      "lastDate": "2026-05-26T19:27:05+00:00"
+      "lastDate": "2026-05-26T21:20:10+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-26T21:28:06.458Z"
+  "generatedAt": "2026-05-26T22:21:13.543Z"
 }
