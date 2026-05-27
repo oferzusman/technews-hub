@@ -195975,7 +195975,7 @@
         "travel ban"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T14:00:41.457Z",
       "created_at": "2026-05-27T14:00:41.457Z"
     },
@@ -196091,7 +196091,7 @@
       "author": "Jennifer Pattison Tuohy",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T14:00:41.471Z",
       "created_at": "2026-05-27T14:00:41.471Z"
     },
@@ -196650,7 +196650,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T14:00:46.498Z",
       "created_at": "2026-05-27T14:00:46.498Z"
     },
@@ -196670,7 +196670,7 @@
         "Desktops"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T14:00:46.498Z",
       "created_at": "2026-05-27T14:00:46.498Z"
     },
@@ -196861,7 +196861,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T14:00:51.907Z",
       "created_at": "2026-05-27T14:00:51.907Z"
     },
@@ -196963,7 +196963,7 @@
         "TechCrunch Disrupt 2026"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T15:41:07.922Z",
       "created_at": "2026-05-27T15:41:07.922Z"
     },
@@ -196987,7 +196987,7 @@
         "Music"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T15:41:07.923Z",
       "created_at": "2026-05-27T15:41:07.923Z"
     },
@@ -197013,7 +197013,7 @@
         "ai sleep coach"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T15:41:07.923Z",
       "created_at": "2026-05-27T15:41:07.923Z"
     },
@@ -197048,7 +197048,7 @@
         "TechCrunch Disrupt 2026"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T15:41:07.923Z",
       "created_at": "2026-05-27T15:41:07.923Z"
     },
@@ -197082,7 +197082,7 @@
       "author": "Emma Roth",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T15:41:07.950Z",
       "created_at": "2026-05-27T15:41:07.950Z"
     },
@@ -197135,7 +197135,7 @@
       "author": "Utkarsh Sood",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T15:41:10.244Z",
       "created_at": "2026-05-27T15:41:10.244Z"
     },
@@ -197152,7 +197152,7 @@
       "author": "Ameya Paleja",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T15:41:10.912Z",
       "created_at": "2026-05-27T15:41:10.912Z"
     },
@@ -197169,7 +197169,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T15:41:14.277Z",
       "created_at": "2026-05-27T15:41:14.277Z"
     },
@@ -197186,9 +197186,183 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T15:41:14.277Z",
       "created_at": "2026-05-27T15:41:14.277Z"
+    },
+    {
+      "id": 9481,
+      "source": "TechCrunch AI",
+      "title_en": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+      "description_en": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 16:00:00 +0000",
+      "author": "Julie Bort",
+      "categories": [
+        "AI",
+        "Startups",
+        "ai coding",
+        "cognition",
+        "Devin"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T17:30:37.642Z",
+      "created_at": "2026-05-27T17:30:37.642Z"
+    },
+    {
+      "id": 9482,
+      "source": "Ars Technica",
+      "title_en": "Nvidia kills Windows XP-era Control Panel \"after 20 years of dedicated service\"",
+      "description_en": "Nvidia says the Control Panel's features have been migrated to the Nvidia app.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/nvidia-control-panel-1152x648-1779893010.jpg",
+      "pub_date": "Wed, 27 May 2026 15:06:01 +0000",
+      "author": "\n                    Andrew Cunningham\n                ",
+      "categories": [
+        "Gaming",
+        "Tech",
+        "GeForce",
+        "GPU",
+        "NVIDIA"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-27T17:30:37.694Z",
+      "created_at": "2026-05-27T17:30:37.694Z"
+    },
+    {
+      "id": 9483,
+      "source": "The Decoder",
+      "title_en": "YouTube will try to automatically flag AI videos starting this month",
+      "description_en": "YouTube is tightening its AI labeling rules. Labels for photorealistic or heavily AI-altered content will now show up in more visible spots, below the player for long videos and as an overlay on Shorts. Starting May 2026, an automatic detection system will flag AI-generated content even if creators don't disclose it. Recommendations and monetization won't be affected.\nThe article YouTube will try to automatically flag AI videos starting this month appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/youtube-will-try-to-automatically-flag-ai-videos-starting-this-month/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 16:54:14 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Google",
+        "YouTube"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T17:30:38.801Z",
+      "created_at": "2026-05-27T17:30:38.801Z"
+    },
+    {
+      "id": 9484,
+      "source": "Hugging Face Blog",
+      "title_en": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 17:20:29 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T17:30:39.037Z",
+      "created_at": "2026-05-27T17:30:39.037Z"
+    },
+    {
+      "id": 9485,
+      "source": "New Atlas",
+      "title_en": "World's largest eVTOL just proved it can play nice with other flyers",
+      "description_en": "AutoFlight has completed a heterogeneous three-aircraft formation flight with the V5000 Matrix, a 5-metric-ton electric aircraft that could push eVTOL technology well beyond the urban air taxi niche.\nContinue Reading\nCategory: Aircraft, Transport\nTags: VTOL, Autoflight, drones, eVTOL, Cargo",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/aircraft/autoflight-v5000-matrix-formation-fight/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 16:06:59 GMT",
+      "author": "Omar Kardoudi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T17:30:39.609Z",
+      "created_at": "2026-05-27T17:30:39.609Z"
+    },
+    {
+      "id": 9486,
+      "source": "Tom's Hardware",
+      "title_en": "Italian council sets 200% tax on data center development in agricultural zones — aims to spur the use of old industrial areas instead and limit environmental impact",
+      "description_en": "This 200% tax will make it more expensive to build in rural areas and is aimed at spurring data center development in disused industrial zones instead.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/italian-council-sets-200-percent-tax-on-data-center-development-in-agricultural-zones-aims-to-spur-the-use-of-old-industrial-areas-instead-and-limit-environmental-impact",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/zJ9ZuTa8TZQqPgypFTN5Kf-1280-80.png",
+      "pub_date": "Wed, 27 May 2026 16:40:27 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T17:30:40.589Z",
+      "created_at": "2026-05-27T17:30:40.589Z"
+    },
+    {
+      "id": 9487,
+      "source": "XOR Journal (TG)",
+      "title_en": "⚡️ В России усилили блокировку прокси и VPN — пишет «Код Дурова». 😒Пользователи массово жалуются на отключения, причём независимо от оператора, региона или провайдера. Дело в том, что, по словам исто",
+      "description_en": "⚡️ В России усилили блокировку прокси и VPN — пишет «Код Дурова». 😒Пользователи массово жалуются на отключения, причём независимо от оператора, региона или провайдера. Дело в том, что, по словам источников издания, регуляторы могли найти новую уязвимость в механизме работы MTProto-прокси, из-за чего они массово перестали работать.У вас стало хуже работать?👍 — да🌚 — нет@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9379",
+      "image_url": null,
+      "pub_date": "2026-05-27T17:12:24+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T17:30:45.999Z",
+      "created_at": "2026-05-27T17:30:45.999Z"
+    },
+    {
+      "id": 9488,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "💡 Энциклика Папы Льва XIV об ИИ могла быть написана ИИБлогер Linch считает, что по крайней мере часть главного папского документа Magnifica Humanitas о сохранении человечности в эпоху ИИ написана ней",
+      "description_en": "💡 Энциклика Папы Льва XIV об ИИ могла быть написана ИИБлогер Linch считает, что по крайней мере часть главного папского документа Magnifica Humanitas о сохранении человечности в эпоху ИИ написана нейросетью. Аргументы довольно типичные для подобных разборов:1️⃣ Высокая частота «длинных тире» (em-dash). В новой энциклике они встречаются 127 раз — в ранних посланиях других понтификов их гораздо меньше или нет вовсе.2️⃣ Гораздо больше слов «действительно» по сравнению с прошлыми документами.3️⃣ Мн",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3247",
+      "image_url": "https://cdn4.telesco.pe/file/hzvY5KHs-k3ZptgiEDijzHsQ6RFDQk_VQFxsMaDw7zffwIktg4PzvhfujBfv_LAQtlJa5RptFC94Ecwm2t5yuVtmXgo0gZEWxbzKaghdcJ98KyanPJcgU8Uxw8yuT5c1RiPI6Yc86ub2mZ-xNccoee-ZZ1kbOp0IPyvWTDJiwGLUHSU0Q6eGW8NULlC43aekSAz5-6xNyBRBPteZOXpRkX0_ql0MSLW74Yd2-c-bD2GIQ5syQ1sHUc-aHLhiDuCrvnEXpy8uq3ytNkaVwf9FdSovXGaT-dqISUYlhe8dsaialXdwf4P8S_jvN_EoiKLBMh9joOo0lf3G0F8upkRzJw.jpg",
+      "pub_date": "2026-05-27T16:39:19+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T17:30:46.411Z",
+      "created_at": "2026-05-27T17:30:46.411Z"
+    },
+    {
+      "id": 9489,
+      "source": "AI Post (TG)",
+      "title_en": "🔥Robinhood is turning AI agents into personal shoppers and financial assistants.Robinhood just announced new AI agents that can automatically research, monitor prices, and make purchases for you base",
+      "description_en": "🔥Robinhood is turning AI agents into personal shoppers and financial assistants.Robinhood just announced new AI agents that can automatically research, monitor prices, and make purchases for you based on rules you set.The pitch is simple: Instead of spending hours scrolling, comparing, and tracking prices… your AI agent does it for you.Examples they showed:• Sneakerheads can auto-buy rare drops under a price limit.• Foodies can hunt restaurant reservations the moment they open.• Small business ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7043",
+      "image_url": "https://cdn4.telesco.pe/file/duyP29Pu4Mz_RM_eyPCDkxJ7btym9Mw5fAjed8XLAT3SZo0ES7HI6gjwWv6KAtP3kMitL4AU-i_D13ZiL1DNmkkqmoXYeifzLkwTCfGrljPsPJ_MbGvPUnZ7k57EqT9Y3Osq6QPlb6-49AGCGQ5xzy3zQS3rsfas4ZGBL6ZiJLc59eudQf3CFC8zl4yGWunx4y--9u1tbvw10vZlUD6IcBPMLoORQSk0JiefAsVSu6r0eUD-QuIwdU-9IcG86jrsf9LW5pM9yI_fvQ6oU6Me3or40MGsvEQYgXL2ifx4pHegU9Q3Byp989cC-Nj84E8ResPzOUiLyMbe1TJcwmvJug.jpg",
+      "pub_date": "2026-05-27T16:37:56+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T17:30:46.553Z",
+      "created_at": "2026-05-27T17:30:46.553Z"
     }
   ]
 }
