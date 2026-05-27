@@ -1,9 +1,9 @@
 {
-  "total": 9480,
+  "total": 9489,
   "translated": 8824,
-  "untranslated": 656,
-  "today": 81,
-  "week": 615,
+  "untranslated": 665,
+  "today": 90,
+  "week": 624,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,7 +13,7 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 726,
+      "total": 727,
       "translated": 652,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
@@ -37,25 +37,25 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 432,
+      "total": 433,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "Ars Technica",
-      "total": 418,
+      "total": 419,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 398,
+      "total": 399,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "The Decoder",
-      "total": 380,
+      "total": 381,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -97,15 +97,15 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 226,
+      "total": 227,
       "translated": 168,
-      "lastDate": "2026-05-27T12:40:05+00:00"
+      "lastDate": "2026-05-27T16:37:56+00:00"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 171,
+      "total": 172,
       "translated": 119,
-      "lastDate": "2026-05-27T13:54:37+00:00"
+      "lastDate": "2026-05-27T17:12:24+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -115,7 +115,7 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 127,
+      "total": 128,
       "translated": 122,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
@@ -145,9 +145,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 78,
+      "total": 79,
       "translated": 63,
-      "lastDate": "2026-05-27T11:44:33+00:00"
+      "lastDate": "2026-05-27T16:39:19+00:00"
     },
     {
       "name": "GlobeNewswire",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-27T15:43:12.623Z"
+  "generatedAt": "2026-05-27T17:38:44.789Z"
 }
