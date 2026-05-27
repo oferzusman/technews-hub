@@ -1,9 +1,9 @@
 {
-  "total": 9489,
+  "total": 9500,
   "translated": 8824,
-  "untranslated": 665,
-  "today": 90,
-  "week": 624,
+  "untranslated": 676,
+  "today": 101,
+  "week": 635,
   "sources": [
     {
       "name": "Product Hunt",
@@ -25,7 +25,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 492,
+      "total": 493,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -37,37 +37,37 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 433,
+      "total": 434,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "Ars Technica",
-      "total": 419,
+      "total": 421,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 399,
+      "total": 400,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "The Decoder",
-      "total": 381,
+      "total": 383,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "OpenAI Blog",
-      "total": 341,
+      "total": 343,
       "translated": 334,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
       "name": "The Guardian AI",
-      "total": 293,
+      "total": 294,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -157,9 +157,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 59,
+      "total": 60,
       "translated": 49,
-      "lastDate": "2026-05-27T07:45:55+00:00"
+      "lastDate": "2026-05-27T17:33:58+00:00"
     },
     {
       "name": "Github.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-27T17:45:15.115Z"
+  "generatedAt": "2026-05-27T18:31:24.807Z"
 }
