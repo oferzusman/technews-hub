@@ -197390,7 +197390,7 @@
         "meta ai"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T18:29:27.240Z",
       "created_at": "2026-05-27T18:29:27.240Z"
     },
@@ -197415,7 +197415,7 @@
         "Universal Pictures"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T18:29:27.525Z",
       "created_at": "2026-05-27T18:29:27.525Z"
     },
@@ -197464,7 +197464,7 @@
         "Devin"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T18:29:28.546Z",
       "created_at": "2026-05-27T18:29:28.546Z"
     },
@@ -197485,7 +197485,7 @@
         "Finance"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T18:29:28.546Z",
       "created_at": "2026-05-27T18:29:28.546Z"
     },
@@ -197540,7 +197540,7 @@
       "author": "Maryna Holovnova",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T18:29:29.305Z",
       "created_at": "2026-05-27T18:29:29.305Z"
     },
@@ -197618,7 +197618,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T18:29:29.445Z",
       "created_at": "2026-05-27T18:29:29.445Z"
     },
@@ -197635,7 +197635,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T18:29:30.458Z",
       "created_at": "2026-05-27T18:29:30.458Z"
     },
@@ -197729,7 +197729,7 @@
         "Microsoft"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T19:38:35.611Z",
       "created_at": "2026-05-27T19:38:35.611Z"
     },
@@ -197781,6 +197781,183 @@
       "priority": "hot",
       "fetchedAt": "2026-05-27T19:38:39.983Z",
       "created_at": "2026-05-27T19:38:39.983Z"
+    },
+    {
+      "id": 9506,
+      "source": "TechCrunch AI",
+      "title_en": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+      "description_en": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 20:10:00 +0000",
+      "author": "Julie Bort",
+      "categories": [
+        "Enterprise",
+        "TC",
+        "AI",
+        "Amazon",
+        "AWS",
+        "Snowflake",
+        "AI chips"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T20:35:38.638Z",
+      "created_at": "2026-05-27T20:35:38.638Z"
+    },
+    {
+      "id": 9507,
+      "source": "TechCrunch AI",
+      "title_en": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+      "description_en": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 19:39:45 +0000",
+      "author": "Anna Heim",
+      "categories": [
+        "AI",
+        "AI adoption",
+        "Remote"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T20:35:38.638Z",
+      "created_at": "2026-05-27T20:35:38.638Z"
+    },
+    {
+      "id": 9508,
+      "source": "Ars Technica",
+      "title_en": "Trump admin to block Ebola-exposed Americans from US, move them to Kenya",
+      "description_en": "Trump official asked CDC staff to volunteer to screen travelers at airports.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/health/2026/05/us-walls-itself-off-from-ebola-beefed-up-travel-ban-no-citizen-repatriation/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2277709807-1-1024x648.jpg",
+      "pub_date": "Wed, 27 May 2026 18:52:45 +0000",
+      "author": "\n                    Beth Mole\n                ",
+      "categories": [
+        "Health",
+        "CDC",
+        "drc",
+        "ebola",
+        "kenya",
+        "outbreak",
+        "travel restrictions",
+        "Trump",
+        "WHO"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T20:35:38.691Z",
+      "created_at": "2026-05-27T20:35:38.691Z"
+    },
+    {
+      "id": 9509,
+      "source": "OpenAI Blog",
+      "title_en": "Warp’s big bet on building open source with GPT-5.5",
+      "description_en": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/warp",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Startup"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-27T20:35:40.176Z",
+      "created_at": "2026-05-27T20:35:40.176Z"
+    },
+    {
+      "id": 9510,
+      "source": "New Atlas",
+      "title_en": "Review: 2026 GMC Sierra 1500 has a powertrain for everybody",
+      "description_en": "Trucks used to be pretty easy. You bought a GMC because it was nicer than the others. Powertrain choice was about what your plans were with the truck. Now it’s ... Well, still easy. It just looks complicated.\nContinue Reading\nCategory: Automotive, Transport\nTags: GMC, Pickup, Truck, Electric truck, Reviews",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/automotive/review-2026-gmc-sierra-1500/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 19:37:21 GMT",
+      "author": "Aaron Turpen",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T20:35:40.852Z",
+      "created_at": "2026-05-27T20:35:40.852Z"
+    },
+    {
+      "id": 9511,
+      "source": "Interesting Engineering",
+      "title_en": "Researchers develop armadillo-inspired protective shell module for soft robotics",
+      "description_en": "Nature spent millions of years perfecting the armadillo, the armored mammal. Materials scientists just replicated...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/researchers-develop-armadillo-inspired-protective-shell-module-for-soft-robotics",
+      "image_url": "https://www.youtube.com/embed/gvLDpsL7ulI",
+      "pub_date": "Wed, 27 May 2026 20:19:37 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T20:35:41.547Z",
+      "created_at": "2026-05-27T20:35:41.547Z"
+    },
+    {
+      "id": 9512,
+      "source": "Interesting Engineering",
+      "title_en": "New 20-legged Argus robot redefines robotics with directionless movement design",
+      "description_en": "Researchers at Duke University have developed a novel robotic system that challenges traditional design principles...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/new-20-legged-argus-robot-redefines-robotics-with-directionless-movement-design",
+      "image_url": "https://www.youtube.com/embed/D9Br0hD6jUw",
+      "pub_date": "Wed, 27 May 2026 20:09:42 +0000",
+      "author": "Jijo Malayil",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T20:35:41.547Z",
+      "created_at": "2026-05-27T20:35:41.547Z"
+    },
+    {
+      "id": 9513,
+      "source": "CNBC Tech",
+      "title_en": "Salesforce beats on earnings and revenue but full-year guidance comes in light",
+      "description_en": "Salesforce has been hammered by investors on concern that artificial intelligence models and services will disrupt some traditional software products.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/27/salesforce-crm-q1-earnings-report-2027.html",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 20:17:19 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T20:35:43.670Z",
+      "created_at": "2026-05-27T20:35:43.670Z"
+    },
+    {
+      "id": 9514,
+      "source": "CNBC Tech",
+      "title_en": "Meta to start testing AI subscription services, with cheapest plan at $7.99 a month",
+      "description_en": "Meta confirmed Wednesday that it will begin testing two subscription plans for its AI offerings.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/27/meta-testing-ai-subscription-services-cheapest-plan-at-7point99-a-month.html",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 19:55:29 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T20:35:43.670Z",
+      "created_at": "2026-05-27T20:35:43.670Z"
     }
   ]
 }
