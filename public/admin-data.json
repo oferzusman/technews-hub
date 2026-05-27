@@ -1,9 +1,9 @@
 {
-  "total": 9405,
+  "total": 9412,
   "translated": 8824,
-  "untranslated": 581,
-  "today": 6,
-  "week": 540,
+  "untranslated": 588,
+  "today": 13,
+  "week": 547,
   "sources": [
     {
       "name": "Product Hunt",
@@ -25,7 +25,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 487,
+      "total": 488,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -49,7 +49,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 393,
+      "total": 394,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -91,21 +91,21 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 229,
+      "total": 230,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
       "name": "AI Post (TG)",
-      "total": 223,
+      "total": 224,
       "translated": 168,
-      "lastDate": "2026-05-27T02:20:11+00:00"
+      "lastDate": "2026-05-27T05:33:07+00:00"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 166,
+      "total": 167,
       "translated": 119,
-      "lastDate": "2026-05-26T21:20:10+00:00"
+      "lastDate": "2026-05-27T05:25:37+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 76,
+      "total": 77,
       "translated": 63,
-      "lastDate": "2026-05-26T13:17:01+00:00"
+      "lastDate": "2026-05-27T06:11:29+00:00"
     },
     {
       "name": "Hi, AI English (TG)",
@@ -169,9 +169,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 51,
+      "total": 52,
       "translated": 47,
-      "lastDate": "2026-05-26T14:35:14+00:00"
+      "lastDate": "2026-05-27T05:01:01+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-27T03:50:32.322Z"
+  "generatedAt": "2026-05-27T06:48:33.253Z"
 }
