@@ -195831,7 +195831,7 @@
       "author": "Abhimanyu Ghoshal",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T10:32:44.504Z",
       "created_at": "2026-05-27T10:32:44.504Z"
     },
@@ -195851,7 +195851,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T10:32:46.213Z",
       "created_at": "2026-05-27T10:32:46.213Z"
     },
@@ -195868,7 +195868,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T10:32:46.316Z",
       "created_at": "2026-05-27T10:32:46.316Z"
     },
@@ -195885,7 +195885,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T10:32:46.316Z",
       "created_at": "2026-05-27T10:32:46.316Z"
     },
@@ -195919,7 +195919,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T10:32:51.698Z",
       "created_at": "2026-05-27T10:32:51.698Z"
     },
@@ -195936,7 +195936,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T10:32:51.698Z",
       "created_at": "2026-05-27T10:32:51.698Z"
     },
@@ -195953,9 +195953,985 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T10:32:52.283Z",
       "created_at": "2026-05-27T10:32:52.283Z"
+    },
+    {
+      "id": 9429,
+      "source": "TechCrunch AI",
+      "title_en": "China is increasingly keeping its best AI talent to itself",
+      "description_en": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 13:48:41 +0000",
+      "author": "Kate Park",
+      "categories": [
+        "AI",
+        "Government & Policy",
+        "China",
+        "travel ban"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:41.457Z",
+      "created_at": "2026-05-27T14:00:41.457Z"
+    },
+    {
+      "id": 9430,
+      "source": "TechCrunch AI",
+      "title_en": "ClickHouse triples anualized revenue to $250M, charting a path toward an IPO",
+      "description_en": "The database provider is eyeing a public debut within the next few years.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/27/clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 13:04:20 +0000",
+      "author": "Marina Temkin",
+      "categories": [
+        "AI",
+        "Enterprise",
+        "Venture",
+        "AI infranstructure",
+        "ClickHouse",
+        "database services",
+        "IPO"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:41.457Z",
+      "created_at": "2026-05-27T14:00:41.457Z"
+    },
+    {
+      "id": 9431,
+      "source": "TechCrunch AI",
+      "title_en": "YouTube will now automatically label AI videos",
+      "description_en": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more prominent.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 13:00:00 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "TC",
+        "Media & Entertainment",
+        "AI",
+        "YouTube",
+        "media",
+        "Creators",
+        "AI content"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:41.457Z",
+      "created_at": "2026-05-27T14:00:41.457Z"
+    },
+    {
+      "id": 9432,
+      "source": "TechCrunch AI",
+      "title_en": "Tech CEOs are apparently suffering from AI psychosis",
+      "description_en": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 12:30:00 +0000",
+      "author": "Julie Bort",
+      "categories": [
+        "Startups",
+        "Venture",
+        "AI",
+        "Box",
+        "Layoffs",
+        "tech layoffs",
+        "ai psychosis"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:41.457Z",
+      "created_at": "2026-05-27T14:00:41.457Z"
+    },
+    {
+      "id": 9433,
+      "source": "TechCrunch AI",
+      "title_en": "Robinhood now lets your AI agents trade stocks",
+      "description_en": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 12:30:00 +0000",
+      "author": "Ivan Mehta",
+      "categories": [
+        "Fintech",
+        "AI",
+        "payments",
+        "Robinhood",
+        "AI agents",
+        "AI stock trading"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:41.457Z",
+      "created_at": "2026-05-27T14:00:41.457Z"
+    },
+    {
+      "id": 9434,
+      "source": "The Verge AI",
+      "title_en": "This smart bird feeder captures more of my backyard drama",
+      "description_en": "This smart bird feeder sees more but with less whimsy. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nSince moving to South Carolina's Lowcountry, I've been spellbound by the myriad of beautiful birds that share the coast with us - ospreys raising their babies in towering nests beside the road to my daughter's school, roseate spoonbills wading in the marsh on my morning walks, eagles circling over my son's tennis matches, and a constant parade of songbirds through my backyard. The challenge, a",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review",
+      "image_url": null,
+      "pub_date": "2026-05-27T14:00:00.000Z",
+      "author": "Jennifer Pattison Tuohy",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:41.471Z",
+      "created_at": "2026-05-27T14:00:41.471Z"
+    },
+    {
+      "id": 9435,
+      "source": "The Verge AI",
+      "title_en": "YouTube is putting AI labels where you’ll actually see them",
+      "description_en": "The labels are more prominent, and they actually say “AI” now. | Image: YouTube / The Verge\t\n\nIn the wake of Google expanding its AI verification efforts at I/O, YouTube is now finally going to start taking AI labeling seriously. YouTube has announced that it's relocating AI disclosures on Shorts and long-form videos to make them easier to spot and will start automatically identifying and labeling AI-generated content on the platform.\nFor regular YouTube videos, the label - which says \"AI\" next ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates",
+      "image_url": null,
+      "pub_date": "2026-05-27T13:00:00.000Z",
+      "author": "Jess Weatherbed",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:41.471Z",
+      "created_at": "2026-05-27T14:00:41.471Z"
+    },
+    {
+      "id": 9436,
+      "source": "The Verge AI",
+      "title_en": "The AI fight brewing inside The New York Times",
+      "description_en": "Yellow taxis pass in front of The New York Times newspaper building. | Alexandra Schuler/dpa (Photo by Alexandra Schuler/picture alliance via Getty Images)\t\n\nHow newsrooms should use AI - or if they should at all - has been a recurrent debate within the media industry over the last several years. Increasingly, these rules are being hammered out at the bargaining table between unions and publishers. Right now, employees at The New York Times are gearing up for a fight.\nUnionized staff with the Te",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract",
+      "image_url": null,
+      "pub_date": "2026-05-27T12:00:00.000Z",
+      "author": "Mia Sato",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-27T14:00:41.471Z",
+      "created_at": "2026-05-27T14:00:41.471Z"
+    },
+    {
+      "id": 9437,
+      "source": "The Verge AI",
+      "title_en": "The Pope isn’t AGI-pilled",
+      "description_en": "On Monday, Pope Leo XIV unveiled an encyclical letter addressing the societal implications of artificial intelligence. The letter, titled Magnifica Humanitas, warned that the \"use of AI is never a purely technical matter: when it enters processes that affect people's lives, it touches on rights, opportunities, status and freedom.\" Alongside him was Anthropic cofounder and interpretability team lead Christopher Olah, representing a partnership between the Catholic Church and one of the biggest pl",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
+      "image_url": null,
+      "pub_date": "2026-05-27T12:00:00.000Z",
+      "author": "Hayden Field",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-27T14:00:41.471Z",
+      "created_at": "2026-05-27T14:00:41.471Z"
+    },
+    {
+      "id": 9438,
+      "source": "Ars Technica",
+      "title_en": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
+      "description_en": "The feds are raising the alarm about a new category of threat.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2263649204-1152x648.jpg",
+      "pub_date": "Wed, 27 May 2026 10:30:28 +0000",
+      "author": "\n                    Daniel Boguslaw, WIRED.com\n                ",
+      "categories": [
+        "AI",
+        "AI harms",
+        "anti-tech",
+        "extremism",
+        "online extremism",
+        "syndication"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-27T14:00:41.505Z",
+      "created_at": "2026-05-27T14:00:41.505Z"
+    },
+    {
+      "id": 9439,
+      "source": "The Decoder",
+      "title_en": "The AI boom drove Nvidia's yearly Taiwan spending from $15 billion to $150 billion",
+      "description_en": "Nvidia now spends up to $150 billion a year on suppliers like TSMC in Taiwan.\nThe article The AI boom drove Nvidia's yearly Taiwan spending from $15 billion to $150 billion appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/the-ai-boom-drove-nvidias-yearly-taiwan-spending-from-15-billion-to-150-billion/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 13:07:39 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "AI Chips",
+        "Nvidia"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:42.781Z",
+      "created_at": "2026-05-27T14:00:42.781Z"
+    },
+    {
+      "id": 9440,
+      "source": "The Decoder",
+      "title_en": "China turns its aging camera network into an AI-powered mass surveillance apparatus",
+      "description_en": "China's police are upgrading millions of old surveillance cameras with AI. Manufacturers like Hikvision and Huawei now ship cameras with built-in computer vision and language models that automatically detect crowds, suspicious behavior, or unauthorized access. Instead of reviewing footage manually, officers just type a text query. Human Rights Watch warns this creates unprecedented behavioral surveillance at scale.\nThe article China turns its aging camera network into an AI-powered mass surveill",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/china-turns-its-aging-camera-network-into-an-ai-powered-mass-surveillance-apparatus/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 13:02:22 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "AI in China",
+        "AI Surveillance"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:42.782Z",
+      "created_at": "2026-05-27T14:00:42.782Z"
+    },
+    {
+      "id": 9441,
+      "source": "The Decoder",
+      "title_en": "Sam Altman and Dario Amodei walk back their AI job apocalypse predictions",
+      "description_en": "Sam Altman and Dario Amodei row back on their prophecies of the AI job apocalypse, just in time for billion-dollar IPOs.\nThe article Sam Altman and Dario Amodei walk back their AI job apocalypse predictions appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/sam-altman-and-dario-amodei-walk-back-their-ai-job-apocalypse-predictions/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 12:37:39 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "AI at work",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:42.782Z",
+      "created_at": "2026-05-27T14:00:42.782Z"
+    },
+    {
+      "id": 9442,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: keeping up with AI, and the future of IVF",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world of artificial intelligence…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 12:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:42.809Z",
+      "created_at": "2026-05-27T14:00:42.809Z"
+    },
+    {
+      "id": 9443,
+      "source": "Hugging Face Blog",
+      "title_en": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/delta-weight-sync",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-27T14:00:42.911Z",
+      "created_at": "2026-05-27T14:00:42.911Z"
+    },
+    {
+      "id": 9444,
+      "source": "The Guardian AI",
+      "title_en": "People in the US: what are your views on Pope Leo’s comments about AI?",
+      "description_en": "We’d like to hear what Americans think about the pope’s latest remarks criticizing the rapid development of AI\nThe first American pope has made waves since taking the position. However, after his latest remarks – that AI could make civilization less human and a plea for governments globally to actively slow AI development – people in the US have been divided.\nSome Americans celebrated the commentary, with former New York council member Brad Lander calling it “bold moral leadership” and Florida r",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/27/pope-leo-ai-comments-tell-us",
+      "image_url": "https://i.guim.co.uk/img/media/2e80e0524f6140b76ca07fdda3184aa21b64390a/248_0_1897_1517/master/1897.jpg?width=140&quality=85&auto=format&fit=max&s=03b80f8b0e480c2af60885f31ab8d3f4",
+      "pub_date": "Wed, 27 May 2026 11:41:20 GMT",
+      "author": "Guardian community team",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Pope Leo XIV",
+          "$": {
+            "domain": "https://www.theguardian.com/world/pope-leo-xiv"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "The papacy",
+          "$": {
+            "domain": "https://www.theguardian.com/world/the-papacy"
+          }
+        },
+        {
+          "_": "Catholicism",
+          "$": {
+            "domain": "https://www.theguardian.com/world/catholicism"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-27T14:00:44.614Z",
+      "created_at": "2026-05-27T14:00:44.614Z"
+    },
+    {
+      "id": 9445,
+      "source": "The Guardian AI",
+      "title_en": "Tony Blair is strong on diagnosis, deluded on prescription: Britain’s ills can’t be fixed by him | Larry Elliott",
+      "description_en": "The former PM’s essay rightly calls for a coherent economic plan, but then sets too much store by AI – and a worldview stuck in the past\nTony Blair is right. Labour has made some big and avoidable mistakes since it came to power nearly two years ago. Keir Starmer had a strategy for winning the election but lacked a coherent plan for what his government would do next. Fair cop.\nBlair is also correct when he says that unless Britain tackles some long-term structural issues, it is in danger of bein",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/may/27/tony-blair-strong-diagnosis-deluded-prescription-britain-artificial-intelligence",
+      "image_url": "https://i.guim.co.uk/img/media/477988e34d89b3c4a5bf7aedee16c0b0b76f5429/505_0_3645_2917/master/3645.jpg?width=140&quality=85&auto=format&fit=max&s=8f1c92892b64a9fa57d5ee3aec49ee81",
+      "pub_date": "Wed, 27 May 2026 13:26:40 GMT",
+      "author": "Larry Elliott",
+      "categories": [
+        {
+          "_": "Tony Blair",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/tonyblair"
+          }
+        },
+        {
+          "_": "Economic growth (GDP)",
+          "$": {
+            "domain": "https://www.theguardian.com/business/economicgrowth"
+          }
+        },
+        {
+          "_": "Labour",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/labour"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Economics",
+          "$": {
+            "domain": "https://www.theguardian.com/business/economics"
+          }
+        },
+        {
+          "_": "Climate crisis",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/climate-crisis"
+          }
+        },
+        {
+          "_": "Andy Burnham",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/andyburnham"
+          }
+        },
+        {
+          "_": "Margaret Thatcher",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/margaretthatcher"
+          }
+        },
+        {
+          "_": "Donald Trump",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/donaldtrump"
+          }
+        },
+        {
+          "_": "Welfare",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/welfare"
+          }
+        },
+        {
+          "_": "Banking",
+          "$": {
+            "domain": "https://www.theguardian.com/business/banking"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:44.614Z",
+      "created_at": "2026-05-27T14:00:44.614Z"
+    },
+    {
+      "id": 9446,
+      "source": "The Guardian AI",
+      "title_en": "Samsung memory chip staff in line for £310,000 bonuses after AI profit-sharing deal",
+      "description_en": "Agreement averts strike and shows latest impact of AI boom as two more chipmakers join $1tn club\n\nBusiness live – latest updates\n\nEmployees at Samsung Electronics’s memory chip division are to receive bonuses averaging about £310,000 each through a landmark profit-sharing agreement, as the AI boom drives up chipmakers’ profits.\nFears of a strike at Samsung were averted on Wednesday after two unions for the world’s largest memory chipmaker said that 74% of the 62,616 workers who cast their votes ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/27/samsung-memory-chip-staff-bonuses-ai-profit-sharing-deal",
+      "image_url": "https://i.guim.co.uk/img/media/32c1d9407eb6312fe549e4df227884d7e419d79e/250_0_4368_3496/master/4368.jpg?width=140&quality=85&auto=format&fit=max&s=45146aac7dd3609daa2c513988f6978a",
+      "pub_date": "Wed, 27 May 2026 11:53:19 GMT",
+      "author": "Graeme Wearden",
+      "categories": [
+        {
+          "_": "Samsung",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/samsung"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "South Korea",
+          "$": {
+            "domain": "https://www.theguardian.com/world/south-korea"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Asia Pacific",
+          "$": {
+            "domain": "https://www.theguardian.com/world/asia-pacific"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-27T14:00:44.614Z",
+      "created_at": "2026-05-27T14:00:44.614Z"
+    },
+    {
+      "id": 9447,
+      "source": "New Atlas",
+      "title_en": "Portable projector brings Roku TV streaming straight out of the box",
+      "description_en": "Portable projectors nothing new, but as the tech has steadily improved in recent years, they've become great tools for comfy viewing in TV-unfriendly places. Lately, we've seen a push toward smarter, more self-contained designs, including Yaber's portable projector with built-in Google TV and Aurzen's own tri-fold Zip pico projector, both of which try to cut down on the fiddly setup that usually comes with projector ownership.\nContinue Reading\nCategory: Home Entertainment, Consumer Tech, Technol",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/home-entertainment/aurzen-eazze-d1r-air-roku-tv/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 13:01:00 GMT",
+      "author": "Monica J. White",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:44.623Z",
+      "created_at": "2026-05-27T14:00:44.623Z"
+    },
+    {
+      "id": 9448,
+      "source": "Interesting Engineering",
+      "title_en": "World’s largest LNG-powered ship can haul 24,212 containers in a single trip",
+      "description_en": "A French shipping giant has recently unveiled the world’s largest liquefied natural gas (LNG)-powered container...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/worlds-largest-lng-powered-cargo-ship",
+      "image_url": "https://www.youtube.com/embed/2-Fj3WvSFqg",
+      "pub_date": "Wed, 27 May 2026 13:15:32 +0000",
+      "author": "Georgina Jedikovska",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:45.546Z",
+      "created_at": "2026-05-27T14:00:45.546Z"
+    },
+    {
+      "id": 9449,
+      "source": "Interesting Engineering",
+      "title_en": "China deploys 6,000-ton Type 054B warship with carrier near Japan in Pacific drills",
+      "description_en": "China’s Liaoning aircraft carrier has begun joint drills with the country’s newest frigate, the Type...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/chinas-type-054b-frigate-joins-pacific-drills",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 13:08:40 +0000",
+      "author": "Sujita Sinha",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:45.546Z",
+      "created_at": "2026-05-27T14:00:45.546Z"
+    },
+    {
+      "id": 9450,
+      "source": "Interesting Engineering",
+      "title_en": "Video: Atlas humanoid robot learns soccer skills from World Cup game footage",
+      "description_en": "Ahead of the 2026 World Cup, Boston Dynamics released a video showing its Atlas humanoid...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/video-atlas-humanoid-robot-learns-soccer-skills-from-world-cup-game-footage",
+      "image_url": "https://www.youtube.com/embed/ITCklufC25Y",
+      "pub_date": "Wed, 27 May 2026 12:42:43 +0000",
+      "author": "Jijo Malayil",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:45.546Z",
+      "created_at": "2026-05-27T14:00:45.546Z"
+    },
+    {
+      "id": 9451,
+      "source": "AI News",
+      "title_en": "Google folds Display Ads into AI-first Demand Gen platform",
+      "description_en": "Google is folding Display Ads into its AI-powered Demand Gen platform, marking the end of a long-standing digital advertising model. The Google Display Network (GDN) has been a staple of the open internet for almost twenty years. Marketers previously relied on its predictable framework to target placements, bid on audiences, and A/B test static creative […]\nThe post Google folds Display Ads into AI-first Demand Gen platform appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 13:12:06 +0000",
+      "author": "Ryan Daws",
+      "categories": [
+        "AI Business Strategy",
+        "AI in Action",
+        "AI Market Trends",
+        "Creative Industries",
+        "Featured News",
+        "Features",
+        "Inside AI",
+        "Marketing AI",
+        "Opinion",
+        "Retail & Logistics AI",
+        "Trust, Bias & Fairness",
+        "World of Work",
+        "adtech",
+        "advertising",
+        "ai",
+        "automation",
+        "crm",
+        "data pipelines",
+        "demand gen",
+        "digital ads",
+        "google",
+        "google ads",
+        "machine learning",
+        "marketing",
+        "martech",
+        "meta",
+        "retail"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:46.296Z",
+      "created_at": "2026-05-27T14:00:46.296Z"
+    },
+    {
+      "id": 9452,
+      "source": "AI News",
+      "title_en": "Exploring the Benefits of AI Bots for Forex Trading in Forex Markets",
+      "description_en": "The foreign exchange market is really moving away from pure intuition and toward a space shaped by speed, data and precision. By using automated systems in your routine, you can approach volatility with a level of discipline that manual trading often struggles to maintain. Every entry and exit can be based on clear rules, not […]\nThe post Exploring the Benefits of AI Bots for Forex Trading in Forex Markets appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/exploring-the-benefits-of-ai-bots-for-forex-trading-in-forex-markets/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 12:38:44 +0000",
+      "author": "Bazoom",
+      "categories": [
+        "Sponsored Content"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:46.296Z",
+      "created_at": "2026-05-27T14:00:46.296Z"
+    },
+    {
+      "id": 9453,
+      "source": "Tom's Hardware",
+      "title_en": "Get your hands on a 2TB Samsung 990 Pro SSD for under $390 — $250 savings brings one of the fastest PCIe 4.0 SSDs to its lowest price in months",
+      "description_en": "Samsung's 990 Pro 2TB is one of the fastest PCIe 4.0 M.2 SSDs around, delivering excellent performance and efficiency and backed by a 5-year warranty - at $389.99, it's not the cheapest, but is a well-rounded storage upgrade for any build.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/get-your-hands-on-a-2tb-samsung-990-pro-ssd-for-under-usd390-usd250-savings-brings-one-of-the-fastest-pcie-4-0-ssds-to-its-lowest-price-in-months",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vRRVSSWuYLcw8FeKxRZQDW-1280-80.png",
+      "pub_date": "Wed, 27 May 2026 13:58:03 +0000",
+      "author": " Joe Shields ",
+      "categories": [
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:46.498Z",
+      "created_at": "2026-05-27T14:00:46.498Z"
+    },
+    {
+      "id": 9454,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia offers restricted access to Vera CPU in first round of Linux benchmarks - 88-core monster competes with or beats Epyc and Xeon in selected tests",
+      "description_en": "NVIDIA's new server CPU doesn't win outright in most tests, but it's running very close to AMD's EPYC, which is incredible for a first-generation custom server core from NVIDIA.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/servers/nvidias-vera-cpu-tested-in-common-linux-benchmarks-88-core-monster-competes-or-beats-amd-epyc-intel-xeon-in-carefully-curated-test",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/stgRwsudP2gsuUobMgFu3b-1280-80.jpg",
+      "pub_date": "Wed, 27 May 2026 13:52:31 +0000",
+      "author": " Zak Killian ",
+      "categories": [
+        "Servers",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:46.498Z",
+      "created_at": "2026-05-27T14:00:46.498Z"
+    },
+    {
+      "id": 9455,
+      "source": "Tom's Hardware",
+      "title_en": "Erin Brockovich starts tracking AI data centers, calls on affected communities to submit issues — website shows more than 2,700 reports from across the US raising various concerns",
+      "description_en": "Erin Brockovich, who made her name making a case against PG&E in the '90s that resulted in a $333 million settlement, is now looking at the impact of data center developments on communities and is recording community reports along the way.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/erin-brockovich-starts-tracking-ai-data-centers-calls-on-affected-communities-to-submit-issues-website-shows-more-than-2-700-reports-from-across-the-us-raising-various-concerns",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/XpreZBmhbzk49XygenBx24-1280-80.jpg",
+      "pub_date": "Wed, 27 May 2026 13:23:06 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:46.498Z",
+      "created_at": "2026-05-27T14:00:46.498Z"
+    },
+    {
+      "id": 9456,
+      "source": "Tom's Hardware",
+      "title_en": "China adds homegrown AI chips to 'secure and reliable' procurement list for the first time — nine options added as move away from Nvidia continues",
+      "description_en": "The certifications are valid for three years and were issued jointly by the China Information Technology Security Evaluation Centre and the National Secrecy Science and Technology Evaluation Centre.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/china-certifies-nine-domestic-ai-chips-for-government-procurement",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Jkou5w3ynsSt9QqVKLHK4e-1280-80.jpg",
+      "pub_date": "Wed, 27 May 2026 12:28:46 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:46.498Z",
+      "created_at": "2026-05-27T14:00:46.498Z"
+    },
+    {
+      "id": 9457,
+      "source": "Tom's Hardware",
+      "title_en": "Prototype of the ‘world’s first fluid circuit board’ can be physically rewired in less than a minute, startup claims — could make hardware iteration 1,000 times faster than traditional PCB",
+      "description_en": "A deep tech startup has come out of stealth brandishing a prototype of what it claims to be 'the world’s first fluid circuit board.'",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/prototype-of-the-worlds-first-fluid-circuit-board-can-be-physically-rewired-in-less-than-a-minute-startup-claims-could-make-hardware-iteration-1-000-times-faster-than-traditional-pcb",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/PKia79QCyygFUPLPRTD2mM-1280-80.jpg",
+      "pub_date": "Wed, 27 May 2026 12:00:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-27T14:00:46.498Z",
+      "created_at": "2026-05-27T14:00:46.498Z"
+    },
+    {
+      "id": 9458,
+      "source": "Tom's Hardware",
+      "title_en": "SpaceX admits it can't find enough chips for orbital AI yet, requires 'significantly more than are currently available to us' — firm's risk factors in IPO paperwork also says ambitious TeraFab project may not be successful",
+      "description_en": "SpaceX warns that it may not secure enough AI hardware to achieve its orbital AI ambitions even with supply from TeraFab. Also, Intel and Tesla may leave the TeraFab project.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-admits-it-cant-find-enough-chips-for-orbital-ai-yet-requires-significantly-more-than-are-currently-available-to-us-firms-risk-factors-in-ipo-paperwork-also-says-ambitious-terafab-project-may-not-be-successful",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/voDLanHmcp7is6VSiU2Qea-1280-80.png",
+      "pub_date": "Wed, 27 May 2026 11:52:53 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-27T14:00:46.498Z",
+      "created_at": "2026-05-27T14:00:46.498Z"
+    },
+    {
+      "id": 9459,
+      "source": "Tom's Hardware",
+      "title_en": "Lenovo says it's digging into allegations that its China-only G10 handheld is  being used for piracy — third parties may be including illicit games to inflate prices in the gray market",
+      "description_en": "Lenovo has announced it is conducting an in-depth investigation of its Chinese  retail supply chains following allegations that its recently released G02 retro-gaming handheld is enabling piracy.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/handheld-gaming/lenovo-says-its-digging-into-allegations-that-its-china-only-g10-handheld-is-being-used-for-piracy-third-parties-may-be-including-illicit-games-to-inflate-prices-in-the-gray-market",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/N9uwYkXGjezxENZAjqh3s9-1280-80.jpg",
+      "pub_date": "Wed, 27 May 2026 11:43:26 +0000",
+      "author": " Zhiye Liu ",
+      "categories": [
+        "Handheld Gaming",
+        "Video Games",
+        "Console Gaming"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-27T14:00:46.498Z",
+      "created_at": "2026-05-27T14:00:46.498Z"
+    },
+    {
+      "id": 9460,
+      "source": "Tom's Hardware",
+      "title_en": "Taiwan authorities arrest three on suspicion of smuggling Nvidia chips to China — operation allegedly used Japan as transshipment point before forwarding banned Supermicro servers to Hong Kong",
+      "description_en": "Reports say that the three individuals successfully shipped a batch of banned Nvidia AI chips in Super Micro servers to China from Taiwan to Hong Kong via Japan using falsified documentation.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/taiwan-authorities-arrest-three-on-suspicion-of-smuggling-nvidia-chips-to-china-operation-allegedly-used-japan-as-transshipment-point-before-forwarding-banned-supermicro-servers-to-hong-kong",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/jYawKxvt8GVp68CXLYbZuF-1280-80.jpg",
+      "pub_date": "Wed, 27 May 2026 11:10:39 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-27T14:00:46.499Z",
+      "created_at": "2026-05-27T14:00:46.499Z"
+    },
+    {
+      "id": 9461,
+      "source": "Tom's Hardware",
+      "title_en": "Samsung chip workers vote to accept $340,000 average bonus, ending months-long strike threat — resentment over deal has slowed down Samsung foundry division",
+      "description_en": "The agreement allocates 10.5% of Samsung's semiconductor division operating profit as stock-based bonuses.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/samsung-chip-workers-vote-to-accept-340000-average-bonus-ending-months-long-strike-threat",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/YwsH8NY4SuqAmKZWKAJ3Mj-1280-80.jpg",
+      "pub_date": "Wed, 27 May 2026 10:56:23 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-27T14:00:46.499Z",
+      "created_at": "2026-05-27T14:00:46.499Z"
+    },
+    {
+      "id": 9462,
+      "source": "CNBC Tech",
+      "title_en": "Amazon starts selling its AI shopping technology to other retailers",
+      "description_en": "Amazon said it's already signed up Kate Spade as a customer for its AI shopping technology.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/27/amazon-ai-shopping-alexa-kate-spade.html",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 13:10:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:46.542Z",
+      "created_at": "2026-05-27T14:00:46.542Z"
+    },
+    {
+      "id": 9463,
+      "source": "CNBC Tech",
+      "title_en": "Signos grows foothold in weight-loss wave fueled by GLP-1s with its AI health data tracking",
+      "description_en": "Health tech startup Signos announced a $20 million funding round Wednesday, including an expanded partnership with medical device giant Dexcom.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/27/ai-health-tech-signos-dexcom.html",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 13:11:56 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:46.542Z",
+      "created_at": "2026-05-27T14:00:46.542Z"
+    },
+    {
+      "id": 9464,
+      "source": "XOR Journal (TG)",
+      "title_en": "Цифра дня: 99% руководителей планируют увольнения из-за ИИ в ближайшие два года 😐Опрос среди почти 1000 топ-менеджеров показал, что компании уже готовятся сокращать людей и автоматизировать их работу",
+      "description_en": "Цифра дня: 99% руководителей планируют увольнения из-за ИИ в ближайшие два года 😐Опрос среди почти 1000 топ-менеджеров показал, что компании уже готовятся сокращать людей и автоматизировать их работу агентами. Под удар в первую очередь, разумеется, попадут джуны и сотрудники с рутинными задачами.И это всё при том, что компании до сих пор не могут даже понять, реально ли есть от нейросетей профит. Единственный реальный пока эффект — ухудшение состояния сотрудников и бесконечный стресс на фоне ИИ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9378",
+      "image_url": "https://cdn4.telesco.pe/file/idSrvzInaXaZwBtl8vBOPtWz0DsSNbf9sWKalhZyZQPAUYkTldoW5A0kQyGSCkzZMCY0wZGqXL_yPV6VDaH7wTO6pSHn664UgeG5UH7F5sIbPeOo6QczigXzUvYwPGP4tEQOTBPZ2SmufMjwDwT3BlbceC7Zx1_X1sOl9qP9YdhhESMVgnPqc2ASqCsuZFUsFxMzZ2NXWqMn-Qx3GFLlvk9UhWyETDNhzMCKbF8HvvwAU-Kfn3iOPYNcBTj_hYp74NrFFESN68zwUW9t9wxFW6l5NAk00U_Qn49GL7TC_5CC8QJkG_rb6f5xuhxF6iGFGt7yJnKeXKPEySSO1C6lSQ.jpg",
+      "pub_date": "2026-05-27T13:54:37+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:51.907Z",
+      "created_at": "2026-05-27T14:00:51.907Z"
+    },
+    {
+      "id": 9465,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Слух: улучшенная защита iPhone от краж будет блокировать устройство немедленно  Apple работает над новой системой безопасности, которая заблокирует устройство сразу после того, как его выхватили у вас",
+      "description_en": "Слух: улучшенная защита iPhone от краж будет блокировать устройство немедленно  Apple работает над новой системой безопасности, которая заблокирует устройство сразу после того, как его выхватили у вас из рук. Её упоминание в коде беты iOS заметил Маркус Мендес с портала 9to5Mac.Детектить момент кражи iPhone будет при помощи встроенного акселерометра и дополнительно проверять расстояние до сопряжённых AirPods и Apple Watch.Заблокированный iPhone не позволит похитителям перевести iPhone в режим по",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33168",
+      "image_url": "https://cdn4.telesco.pe/file/PNryEE_pmpOc5J16g-_4KFtcPyTrV9GPVMloddyz6neCietyLACtKIhCB7OIiDB14Ur3mW6QErTGgj6AJca1u2TDZ8BpfHbvxSb1Lb_hEYOc5Q8N0hLXtqPxD3ePQOgfwsoVIr4CrvEopXFWlHxhidPlLGKfkvwshciSOJzZ5AObzGYH0aPKwS9JsLUGd-6n3U7N03rxCWETHKuBTixVYc_WomxmK5y1KYSN7fM4gqt9ZYxhnTIreLD-5GQUZ0xOgqnOnIf_481xla_-lGIf4TbSEDWSlo4I3H77BMrsN50J4KKr0XkvFm6CYh6lPDKhgc6fhfb6VR_2hSBdvjp11w.jpg",
+      "pub_date": "2026-05-27T11:43:22+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-27T14:00:51.959Z",
+      "created_at": "2026-05-27T14:00:51.959Z"
+    },
+    {
+      "id": 9466,
+      "source": "Backdoor (TG)",
+      "title_en": "Безопасники, зацените утёнка! А ещё сохраните важную инфу: 28 мая пройдёт стрим, в котором вас ждёт обзор актуальных угроз для контейнерных сред, технологии защиты и демонстрация новинок Kaspersky Con",
+      "description_en": "Безопасники, зацените утёнка! А ещё сохраните важную инфу: 28 мая пройдёт стрим, в котором вас ждёт обзор актуальных угроз для контейнерных сред, технологии защиты и демонстрация новинок Kaspersky Container Security.Эксперты покажут, как специализированное решение помогает предотвращать и обнаруживать ключевые сценарии атак — от уязвимых образов до компрометации в рантайме.По ходу дела представят также ИИ-функциональность и покажут всё с точки зрения оркестрации. Гость студии Kaspersky — Владими",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28705",
+      "image_url": null,
+      "pub_date": "2026-05-27T12:01:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:51.992Z",
+      "created_at": "2026-05-27T14:00:51.992Z"
+    },
+    {
+      "id": 9467,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "❤️ «Живой кардиостимулятор» из стволовых клеток вырастили китайские ученые Исследователи из Шанхая создали первую в мире лабораторную модель синоатриального узла — крошечного набора клеток в сердце, к",
+      "description_en": "❤️ «Живой кардиостимулятор» из стволовых клеток вырастили китайские ученые Исследователи из Шанхая создали первую в мире лабораторную модель синоатриального узла — крошечного набора клеток в сердце, который генерирует импульсы для стабильного сердцебиения.Синоатриальный узел — это «природный кардиостимулятор». Если он дает сбой, то сердце бьется слишком медленно или даже останавливается. Электронные кардиостимуляторы, которые ставят при нарушениях работы узла, требуют хирургической установки, не",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3246",
+      "image_url": "https://cdn4.telesco.pe/file/Hdb5D0vAnugcal7VdCra3WJoactL-zEi_hqGgJnSSZbsFBzYRr_-HGlyNxYtpJaMgsrZN6q6o_Ugp5d7TJauzsrd2E0q2EKyvRntWe2mxahV1m96DuLFJENh51qd1GVRXmNqxOEs-1lXbZglOiRGqtOT_KGe8p0XgQireHZIVaYGKnzR-da36-vWmQp_0lyjYR6TzC8AV8j0fLePU-vAkHwH3c39CwJJ_rnGo-MBHf_kT5kJvz0oA5pVjsHcOLCYPwAAkI_LX_L2buEg5Xk6YS-MSG102ObB7TfANpG5D1VmefOH1mzQD61Gm0sN5PTvQr7-LKobIZguqyDViAip6w.jpg",
+      "pub_date": "2026-05-27T11:44:33+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-27T14:00:52.369Z",
+      "created_at": "2026-05-27T14:00:52.369Z"
+    },
+    {
+      "id": 9468,
+      "source": "AI Post (TG)",
+      "title_en": "Demis Hassabis updates AGI timeline to 2029Demis Hassabis predicts that artificial general intelligence (AGI) could be achieved by 2029, moving his timeline forward by a year. He describes humanity as",
+      "description_en": "Demis Hassabis updates AGI timeline to 2029Demis Hassabis predicts that artificial general intelligence (AGI) could be achieved by 2029, moving his timeline forward by a year. He describes humanity as being in the \"foothills of the singularity.\"There is still no consensus on AGI's definition, with differing interpretations among leaders like Hassabis and Sam Altman. He proposes the \"Einstein Test\" to measure AGI: an AI trained with knowledge up to 1911 should independently develop general relati",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7042",
+      "image_url": "https://cdn4.telesco.pe/file/RKkBMUIn2VMZ1tBfuy3dtqCsr2f3CcbqkX9EQm5Fxi0kg6QWCJZI-Dj8lJQ8r9fgpngIXQqD47g0WxNPi6gv4oi1gCyWROcwv1CHhB0zvTdudQQndT0GhKaYNhAv1lF8rfkf8PM0gwAggjAwg2ZqT0QtbcsbWShHZ94TKyPSOkGvj1v1YBW9AXYqIEAqfzjvEvXDdsA2OnRDPjedsFxaXX1bJyZS-LfjIfihfFB3UW3TXB5VYjrg8BLTyU72eOk1uWJBzjcumBPm5BVUeS1BSfZiWPuw-_cHP4qhn0MTy4DdhaXH9XNJeenR4uzYzdAFZTwGb5GpKTYiVpfGBTp_mQ.jpg",
+      "pub_date": "2026-05-27T12:40:05+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T14:00:52.543Z",
+      "created_at": "2026-05-27T14:00:52.543Z"
     }
   ]
 }
