@@ -197065,7 +197065,7 @@
       "author": "Tina Nguyen",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T15:41:07.950Z",
       "created_at": "2026-05-27T15:41:07.950Z"
     },
@@ -197209,7 +197209,7 @@
         "Devin"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T17:30:37.642Z",
       "created_at": "2026-05-27T17:30:37.642Z"
     },
@@ -197289,7 +197289,7 @@
       "author": "Omar Kardoudi",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T17:30:39.609Z",
       "created_at": "2026-05-27T17:30:39.609Z"
     },
@@ -197363,6 +197363,298 @@
       "priority": "hot",
       "fetchedAt": "2026-05-27T17:30:46.553Z",
       "created_at": "2026-05-27T17:30:46.553Z"
+    },
+    {
+      "id": 9490,
+      "source": "TechCrunch AI",
+      "title_en": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "description_en": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 18:00:00 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "Media & Entertainment",
+        "AI",
+        "Apps",
+        "Social",
+        "Facebook",
+        "social media",
+        "Instagram",
+        "subscriptions",
+        "WhatsApp",
+        "Meta",
+        "Creators",
+        "meta ai"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T18:29:27.240Z",
+      "created_at": "2026-05-27T18:29:27.240Z"
+    },
+    {
+      "id": 9491,
+      "source": "Ars Technica",
+      "title_en": "Disclosure Day final trailer features Spielberg himself",
+      "description_en": "Director describes how his views on existence of aliens have changed, interspersed with footage from film.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/culture/2026/05/disclosure-day-final-trailer-features-spielberg-himself/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/disclosure2-1152x648.jpg",
+      "pub_date": "Wed, 27 May 2026 17:51:07 +0000",
+      "author": "\n                    Jennifer Ouellette\n                ",
+      "categories": [
+        "Culture",
+        "Disclosure Day",
+        "entertainment",
+        "film trailers",
+        "Steven Spielberg",
+        "Trailers",
+        "Universal Pictures"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T18:29:27.525Z",
+      "created_at": "2026-05-27T18:29:27.525Z"
+    },
+    {
+      "id": 9492,
+      "source": "Ars Technica",
+      "title_en": "YouTube to begin automatically labeling AI videos",
+      "description_en": "AI videos that are animated, unrealistic, or only have a little AI may still hide their origins, though.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/youtube-logo-1024x648.jpg",
+      "pub_date": "Wed, 27 May 2026 17:36:10 +0000",
+      "author": "\n                    Ryan Whitwam\n                ",
+      "categories": [
+        "AI",
+        "Google",
+        "Tech",
+        "Ai video",
+        "Artificial Intelligence",
+        "generative ai",
+        "google",
+        "YouTube"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T18:29:27.525Z",
+      "created_at": "2026-05-27T18:29:27.525Z"
+    },
+    {
+      "id": 9493,
+      "source": "The Decoder",
+      "title_en": "AI coding agent Devin maker Cognition more than doubles its valuation to $26 billion in under nine months",
+      "description_en": "Cognition, the company behind AI software developer Devin, has raised over $1 billion at a valuation north of $26 billion. The massive round shows just how much investor money is flowing into AI coding agents, even as their real-world value remains hotly debated.\nThe article AI coding agent Devin maker Cognition more than doubles its valuation to $26 billion in under nine months appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/ai-coding-agent-devin-maker-cognition-more-than-doubles-its-valuation-to-26-billion-in-under-nine-months/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 18:09:51 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Cognition",
+        "Devin"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T18:29:28.546Z",
+      "created_at": "2026-05-27T18:29:28.546Z"
+    },
+    {
+      "id": 9494,
+      "source": "The Decoder",
+      "title_en": "Robinhood lets AI agents trade shares and make credit card purchases for customers",
+      "description_en": "Robinhood now lets customers connect AI agents like Anthropic's Claude to a separate investment account via MCP. The agents can trade stocks on their own. US brokerage regulator FINRA already flags such agents as a new risk area, warning about unchecked decisions. Robinhood itself admits the product isn't for everyone.\nThe article Robinhood lets AI agents trade shares and make credit card purchases for customers appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/robinhood-lets-ai-agents-trade-shares-and-make-credit-card-purchases-for-customers/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 17:42:57 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Finance"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T18:29:28.546Z",
+      "created_at": "2026-05-27T18:29:28.546Z"
+    },
+    {
+      "id": 9495,
+      "source": "OpenAI Blog",
+      "title_en": "Election information and safeguards in 2026",
+      "description_en": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/election-safeguards-2026",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Global Affairs"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-27T18:29:29.061Z",
+      "created_at": "2026-05-27T18:29:29.061Z"
+    },
+    {
+      "id": 9496,
+      "source": "OpenAI Blog",
+      "title_en": "How to use Codex for everyday work",
+      "description_en": "Explore 10 practical ChatGPT Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/academy/how-to-use-codex-for-everyday-work",
+      "image_url": null,
+      "pub_date": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "author": null,
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-27T18:29:29.061Z",
+      "created_at": "2026-05-27T18:29:29.061Z"
+    },
+    {
+      "id": 9497,
+      "source": "New Atlas",
+      "title_en": "'Super sleeping bag' takes its name from near-indestructible micro-animal",
+      "description_en": "Graphene-X is a Hong Kong-based company that produces outdoor clothing and gear. This time around it's entering the camping market with a product called the Tardigrade Sleeping System, currently available for backing on Kickstarter.\nContinue Reading\nCategory: Outdoors\nTags: Sleeping Bags, Kickstarter, xxKickbooster, Graphene, Aerogels",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/outdoors/tardigrade-sleeping-bag/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 18:03:44 GMT",
+      "author": "Maryna Holovnova",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T18:29:29.305Z",
+      "created_at": "2026-05-27T18:29:29.305Z"
+    },
+    {
+      "id": 9498,
+      "source": "The Guardian AI",
+      "title_en": "The Guardian view on Tony Blair’s advice for Labour: policymaking like it’s 1999 will not lead to a revival | Editorial",
+      "description_en": "A scathing essay by the former prime minister rehashes assumptions that underpinned his own rise to power. But the challenges are quite different now\nA paradox lies at the heart of Sir Tony Blair’s latest sermon to a Labour party that he seems actively to dislike these days. The 5,700-word intervention, published on the website of his Institute for Global Change, emphasises the sheer novelty of challenges such as the AI revolution and the rise of insurgent populism in western democracies. Yet th",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/may/27/the-guardian-view-on-tony-blairs-advice-for-labour-policymaking-like-its-1999-will-not-lead-to-a-revival",
+      "image_url": "https://i.guim.co.uk/img/media/477988e34d89b3c4a5bf7aedee16c0b0b76f5429/498_0_3647_2917/master/3647.jpg?width=140&quality=85&auto=format&fit=max&s=eaa2a3c3e7251a4a8d04ee4e2c2c97da",
+      "pub_date": "Wed, 27 May 2026 17:58:40 GMT",
+      "author": "Editorial",
+      "categories": [
+        {
+          "_": "Tony Blair",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/tonyblair"
+          }
+        },
+        {
+          "_": "Keir Starmer",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/keir-starmer"
+          }
+        },
+        {
+          "_": "Labour",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/labour"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Wes Streeting",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/wes-streeting"
+          }
+        },
+        {
+          "_": "Andy Burnham",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/andyburnham"
+          }
+        },
+        {
+          "_": "NHS",
+          "$": {
+            "domain": "https://www.theguardian.com/society/nhs"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Labour party leadership",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/labourleadership"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T18:29:29.445Z",
+      "created_at": "2026-05-27T18:29:29.445Z"
+    },
+    {
+      "id": 9499,
+      "source": "CNBC Tech",
+      "title_en": "Here’s our monthly update on all 33 portfolio stocks, including 4 to buy right now",
+      "description_en": "AI stocks aren't the only place to put money to work, Jim Cramer said at the Investing Club's May Monthly Meeting.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/27/heres-our-monthly-update-on-all-33-portfolio-stocks-including-4-to-buy-right-now.html",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 18:08:37 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T18:29:30.458Z",
+      "created_at": "2026-05-27T18:29:30.458Z"
+    },
+    {
+      "id": 9500,
+      "source": "Hi, AI English (TG)",
+      "title_en": "❤️ Chinese Scientists Grew a \"Living Pacemaker\" from Stem CellsResearchers in Shanghai have created the world's first lab-grown model of the sinoatrial node—the tiny cluster of cells in the heart that",
+      "description_en": "❤️ Chinese Scientists Grew a \"Living Pacemaker\" from Stem CellsResearchers in Shanghai have created the world's first lab-grown model of the sinoatrial node—the tiny cluster of cells in the heart that generates the electrical impulses for a steady heartbeat.The sinoatrial node is the heart's natural pacemaker. When it malfunctions, the heart beats too slowly or even stops. Electronic pacemakers, which are used when the node fails, require surgery to implant, are not always accessible, and impose",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2543",
+      "image_url": "https://cdn4.telesco.pe/file/p28A-8Z2ecaw3ModmY12SoffZtcPdgesbZvXkM_y-skEn0OjwmI4LCzY0exRBhrw6q05OCZgYIBrD3btsJ6AEDDLZNk6ELsxzq41tpHUQVcp2EeHIiCJkChIoxf0Jp9rjo5GSyv1V0CF7VZNFJ5Yo6t6WtH6cDfJEt-ZOBLrdeotCJHa8xL5-0cbe1infadHbGdwQKp_oPsGy1mBMBkavI9rwyR1zzHwZlA40BDID_28bH6pcMAVLaKasv3YwG3ME3KHR9VSnp2jTy2Afu8DfGTxzFdDv_3YAE81lADZfMGbPvG3aDwxMdp6YqoeyrF5rCWMqeIwOQVaEdmvKbPguQ.jpg",
+      "pub_date": "2026-05-27T17:33:58+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T18:29:36.325Z",
+      "created_at": "2026-05-27T18:29:36.325Z"
     }
   ]
 }
