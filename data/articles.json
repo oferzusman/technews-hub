@@ -195331,7 +195331,7 @@
         "Google Search"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T22:46:11.791Z",
       "created_at": "2026-05-26T22:46:11.791Z"
     },
@@ -195358,7 +195358,7 @@
         "Voice AI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T22:46:13.444Z",
       "created_at": "2026-05-26T22:46:13.444Z"
     },
@@ -195375,7 +195375,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T22:46:21.198Z",
       "created_at": "2026-05-26T22:46:21.198Z"
     },
@@ -195399,7 +195399,7 @@
         "Tutorials"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T23:39:06.190Z",
       "created_at": "2026-05-26T23:39:06.190Z"
     },
@@ -195416,7 +195416,7 @@
       "author": "C.C. Weiss",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T23:39:06.630Z",
       "created_at": "2026-05-26T23:39:06.630Z"
     },
@@ -195433,9 +195433,77 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-26T23:39:10.425Z",
       "created_at": "2026-05-26T23:39:10.425Z"
+    },
+    {
+      "id": 9400,
+      "source": "The Verge AI",
+      "title_en": "Did the Pope use AI to write about the dangers of AI?",
+      "description_en": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram.\nThe document includes known traits that appear in AI-generated writing, such as a higher use of the word \"genuinely\" - which crops up in writing by Anthropic's Claude - than previo",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+      "image_url": null,
+      "pub_date": "2026-05-27T00:38:11.000Z",
+      "author": "Jay Peters",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T01:50:41.067Z",
+      "created_at": "2026-05-27T01:50:41.067Z"
+    },
+    {
+      "id": 9401,
+      "source": "New Atlas",
+      "title_en": "Surprising osteoporosis warning sign found in the eyes",
+      "description_en": "For many people, osteoporosis is only diagnosed following their first broken bone. Finding a cheap, accessible method for predicting this common bone-weakening condition early could help prevent the pain, debilitation, and potential death from serious fractures in more people around the world.\nContinue Reading\nCategory: Imaging & Diagnostics, Medical Innovations, Body and Mind\nTags: Duke-NUS Medical School, Osteoporosis, Eye, Diagnostic tools, Age-Related, Aging",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/imaging-diagnostics/eyes-age-risk-osteoporosis/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 00:32:47 GMT",
+      "author": "Mike McRae",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T01:50:43.023Z",
+      "created_at": "2026-05-27T01:50:43.023Z"
+    },
+    {
+      "id": 9402,
+      "source": "CNBC Tech",
+      "title_en": "European companies double down on China manufacturing despite EU de-risking push",
+      "description_en": "Low manufacturing costs in China are keeping many European businesses' supply chains in the country despite pressure in the EU to reduce overseas reliance.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/27/european-companies-expand-china-supply-chains-automation-costs.html",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 01:28:37 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T01:50:46.320Z",
+      "created_at": "2026-05-27T01:50:46.320Z"
+    },
+    {
+      "id": 9403,
+      "source": "CNBC Tech",
+      "title_en": "SK Hynix hits $1 trillion valuation as AI boom lifts South Korean chip stocks",
+      "description_en": "Shares of SK Hynix soared over 11% on Wednesday, pushing the South Korean memory-chip maker above the $1 trillion market capitalization mark.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 00:59:09 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T01:50:46.320Z",
+      "created_at": "2026-05-27T01:50:46.320Z"
     }
   ]
 }
