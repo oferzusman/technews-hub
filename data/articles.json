@@ -195467,7 +195467,7 @@
       "author": "Mike McRae",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T01:50:43.023Z",
       "created_at": "2026-05-27T01:50:43.023Z"
     },
@@ -195504,6 +195504,40 @@
       "priority": "hot",
       "fetchedAt": "2026-05-27T01:50:46.320Z",
       "created_at": "2026-05-27T01:50:46.320Z"
+    },
+    {
+      "id": 9404,
+      "source": "New Atlas",
+      "title_en": "Hidden space between brain cells is now a new Alzheimer’s target",
+      "description_en": "One of the biggest mysteries in neuroscience is why women account for nearly two-thirds of Alzheimer’s disease cases. Now, we may be a step closer to understanding this phenomenon, with new findings that highlight an overlooked part of the brain that appears to fail as estrogen levels fall with age.\nContinue Reading\nCategory: Brain Health, Body and Mind\nTags: Brain, Alzheimer's disease, Menopause, Women's health, Brain, Memory, Cognitive functioning, Neuroscience",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/brain/estrogen-loss-sabotages-brain/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 02:24:40 GMT",
+      "author": "Bronwyn Thompson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T02:34:31.789Z",
+      "created_at": "2026-05-27T02:34:31.789Z"
+    },
+    {
+      "id": 9405,
+      "source": "AI Post (TG)",
+      "title_en": "There’s only one right answer according to these devs.@aipost 🏴",
+      "description_en": "There’s only one right answer according to these devs.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7039",
+      "image_url": null,
+      "pub_date": "2026-05-27T02:20:11+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T02:34:34.577Z",
+      "created_at": "2026-05-27T02:34:34.577Z"
     }
   ]
 }
