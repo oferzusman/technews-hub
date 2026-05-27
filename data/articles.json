@@ -197255,7 +197255,7 @@
         "YouTube"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T17:30:38.801Z",
       "created_at": "2026-05-27T17:30:38.801Z"
     },
@@ -197272,7 +197272,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T17:30:39.037Z",
       "created_at": "2026-05-27T17:30:39.037Z"
     },
@@ -197309,7 +197309,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T17:30:40.589Z",
       "created_at": "2026-05-27T17:30:40.589Z"
     },
@@ -197326,7 +197326,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T17:30:45.999Z",
       "created_at": "2026-05-27T17:30:45.999Z"
     },
@@ -197343,7 +197343,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T17:30:46.411Z",
       "created_at": "2026-05-27T17:30:46.411Z"
     },
@@ -197360,7 +197360,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T17:30:46.553Z",
       "created_at": "2026-05-27T17:30:46.553Z"
     },
@@ -197441,7 +197441,7 @@
         "YouTube"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T18:29:27.525Z",
       "created_at": "2026-05-27T18:29:27.525Z"
     },
@@ -197652,9 +197652,135 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T18:29:36.325Z",
       "created_at": "2026-05-27T18:29:36.325Z"
+    },
+    {
+      "id": 9501,
+      "source": "TechCrunch AI",
+      "title_en": "Your SEO strategy is optimized for a search engine that no longer exists.",
+      "description_en": "Google I/O made it official: AI-generated answers are now front and center in search, and most brands have almost no visibility into how AI is describing them to their customers. For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a pretty significant way.  On this episode of TechCrunch’s Equity podcast, Rebecca […]",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 18:39:17 +0000",
+      "author": "Rebecca Bellan, Theresa Loconsolo",
+      "categories": [
+        "AI",
+        "Startups",
+        "AI agents",
+        "AI search",
+        "discoverability",
+        "Equity podcast",
+        "Geo",
+        "google io",
+        "Google Search",
+        "scrunch",
+        "SEO"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T19:38:34.451Z",
+      "created_at": "2026-05-27T19:38:34.451Z"
+    },
+    {
+      "id": 9502,
+      "source": "TechCrunch AI",
+      "title_en": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
+      "description_en": "The database provider is eyeing a public debut within the next few years.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 13:04:20 +0000",
+      "author": "Marina Temkin",
+      "categories": [
+        "AI",
+        "Enterprise",
+        "Venture",
+        "AI infranstructure",
+        "ClickHouse",
+        "database services",
+        "IPO"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-27T19:38:34.451Z",
+      "created_at": "2026-05-27T19:38:34.451Z"
+    },
+    {
+      "id": 9503,
+      "source": "The Decoder",
+      "title_en": "Microsoft's MAI-Image-2.5 pulls even with Google's Nano Banana 2 on benchmarks",
+      "description_en": "Microsoft's MAI-Image-2.5 ranks third on Arena's text-to-image leaderboard, on par with Google's Nano Banana 2 but still behind OpenAI's Image-2. The model shows clear gains over its predecessor, especially in rendering text inside images and commercial visuals.\nThe article Microsoft's MAI-Image-2.5 pulls even with Google's Nano Banana 2 on benchmarks appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/microsofts-mai-image-2-5-pulls-even-with-googles-nano-banana-2-on-benchmarks/",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 18:31:10 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "MAI",
+        "Microsoft"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T19:38:35.611Z",
+      "created_at": "2026-05-27T19:38:35.611Z"
+    },
+    {
+      "id": 9504,
+      "source": "MarkTechPost",
+      "title_en": "NVIDIA Releases Polar, a Token-Faithful Rollout Framework for GRPO Training Across Codex, Claude Code, and Qwen Code",
+      "description_en": "NVIDIA researchers have introduced Polar, a rollout framework that trains language agents using reinforcement learning without modifying their agent harnesses. Polar places a model API proxy between the harness and the inference server, capturing token-level interactions and reconstructing trainer-ready trajectories. Using GRPO on a Qwen3.5-4B base model, Polar improves SWE-Bench Verified pass@1 by 22.6 points under the Codex harness, 4.8 points under Claude Code, and 6.2 points under Pi. The fr",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/27/nvidia-releases-polar-a-token-faithful-rollout-framework-for-grpo-training-across-codex-claude-code-and-qwen-code/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-27-at-10.08.51-AM-1.png",
+      "pub_date": "Wed, 27 May 2026 17:09:38 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-27T19:38:36.259Z",
+      "created_at": "2026-05-27T19:38:36.259Z"
+    },
+    {
+      "id": 9505,
+      "source": "AI Post (TG)",
+      "title_en": "❗️Every major LLM has a hidden Anti-Slop Response Mode.You can use it to stop getting watered-down, over-formatted, sycophantic answers that all sound the same. Add these custom instructions to activa",
+      "description_en": "❗️Every major LLM has a hidden Anti-Slop Response Mode.You can use it to stop getting watered-down, over-formatted, sycophantic answers that all sound the same. Add these custom instructions to activate it: 1. Strip fillers.\"Never open with filler like 'Great question!' or 'Absolutely!' or 'That's a really interesting point.' Start with the answer. If you don't know, say so. If you disagree with my premise, say that instead.\"2. Fix formatting.\"Stop defaulting to bullet points, numbered lists, an",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7044",
+      "image_url": null,
+      "pub_date": "2026-05-27T19:36:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T19:38:39.983Z",
+      "created_at": "2026-05-27T19:38:39.983Z"
     }
   ]
 }
