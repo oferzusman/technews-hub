@@ -198004,7 +198004,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T21:26:10.688Z",
       "created_at": "2026-05-27T21:26:10.688Z"
     },
@@ -198112,6 +198112,23 @@
       "priority": "hot",
       "fetchedAt": "2026-05-27T22:40:49.420Z",
       "created_at": "2026-05-27T22:40:49.420Z"
+    },
+    {
+      "id": 9523,
+      "source": "CNBC Tech",
+      "title_en": "Salesforce CEO Marc Benioff outlines his plan to turn around his struggling stock",
+      "description_en": "Salesforce CEO Marc Benioff said the company’s strategy during its stock slump is to continue delivering strong products for customers and buy back shares.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/27/salesforce-ceo-marc-benioff-outlines-his-plan-to-turn-around-his-struggling-stock.html",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 22:35:39 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T22:55:59.915Z",
+      "created_at": "2026-05-27T22:55:59.915Z"
     }
   ]
 }
