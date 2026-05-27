@@ -197778,7 +197778,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T19:38:39.983Z",
       "created_at": "2026-05-27T19:38:39.983Z"
     },
@@ -197803,7 +197803,7 @@
         "AI chips"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T20:35:38.638Z",
       "created_at": "2026-05-27T20:35:38.638Z"
     },
@@ -197824,7 +197824,7 @@
         "Remote"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T20:35:38.638Z",
       "created_at": "2026-05-27T20:35:38.638Z"
     },
@@ -197887,7 +197887,7 @@
       "author": "Aaron Turpen",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T20:35:40.852Z",
       "created_at": "2026-05-27T20:35:40.852Z"
     },
@@ -197904,7 +197904,7 @@
       "author": "Mrigakshi Dixit",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T20:35:41.547Z",
       "created_at": "2026-05-27T20:35:41.547Z"
     },
@@ -197921,7 +197921,7 @@
       "author": "Jijo Malayil",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T20:35:41.547Z",
       "created_at": "2026-05-27T20:35:41.547Z"
     },
@@ -197938,7 +197938,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T20:35:43.670Z",
       "created_at": "2026-05-27T20:35:43.670Z"
     },
@@ -197955,7 +197955,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T20:35:43.670Z",
       "created_at": "2026-05-27T20:35:43.670Z"
     },
@@ -197984,7 +197984,7 @@
         "Taiwan"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T21:26:07.522Z",
       "created_at": "2026-05-27T21:26:07.522Z"
     },
@@ -198075,6 +198075,43 @@
       "priority": "hot",
       "fetchedAt": "2026-05-27T21:26:17.513Z",
       "created_at": "2026-05-27T21:26:17.513Z"
+    },
+    {
+      "id": 9521,
+      "source": "Ars Technica",
+      "title_en": "California defeats Tesla's attempt to throw out racial discrimination lawsuit",
+      "description_en": "California civil rights agency hails win over Tesla, anticipates trial in July.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/05/california-defeats-teslas-attempt-to-throw-out-racial-discrimination-lawsuit/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/tesla-fremont-1152x648-1779913505.jpg",
+      "pub_date": "Wed, 27 May 2026 21:08:51 +0000",
+      "author": "\n                    Jon Brodkin\n                ",
+      "categories": [
+        "Policy",
+        "Tesla"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T22:40:45.677Z",
+      "created_at": "2026-05-27T22:40:45.677Z"
+    },
+    {
+      "id": 9522,
+      "source": "CNBC Tech",
+      "title_en": "Jim Cramer says ask yourself this question when looking for AI winners to buy",
+      "description_en": "CNBC's Jim Cramer said investors should stop focusing on how much a stock has already rallied and instead think about how much upside may still remain.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/27/jim-cramer-says-ask-yourself-this-question-when-looking-for-ai-winners-to-buy.html",
+      "image_url": null,
+      "pub_date": "Wed, 27 May 2026 22:17:33 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-27T22:40:49.420Z",
+      "created_at": "2026-05-27T22:40:49.420Z"
     }
   ]
 }
