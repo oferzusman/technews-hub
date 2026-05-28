@@ -1,15 +1,15 @@
 {
-  "total": 9536,
+  "total": 9549,
   "translated": 8824,
-  "untranslated": 712,
-  "today": 13,
-  "week": 520,
+  "untranslated": 725,
+  "today": 26,
+  "week": 533,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 987,
+      "total": 990,
       "translated": 968,
-      "lastDate": "2026-05-26T10:43:30.000Z"
+      "lastDate": "2026-05-28T05:21:51.000Z"
     },
     {
       "name": "Tom's Hardware",
@@ -25,7 +25,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 498,
+      "total": 499,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -49,13 +49,13 @@
     },
     {
       "name": "New Atlas",
-      "total": 404,
+      "total": 405,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "The Decoder",
-      "total": 384,
+      "total": 385,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -91,21 +91,21 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 232,
+      "total": 234,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
       "name": "AI Post (TG)",
-      "total": 231,
+      "total": 232,
       "translated": 168,
-      "lastDate": "2026-05-28T03:15:10+00:00"
+      "lastDate": "2026-05-28T06:22:01+00:00"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 173,
+      "total": 174,
       "translated": 119,
-      "lastDate": "2026-05-27T21:25:32+00:00"
+      "lastDate": "2026-05-28T08:05:09+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -138,16 +138,16 @@
       "lastDate": "2026-05-27T21:03:48+00:00"
     },
     {
+      "name": "Hi, AI Russian (TG)",
+      "total": 81,
+      "translated": 63,
+      "lastDate": "2026-05-28T08:00:11+00:00"
+    },
+    {
       "name": "The Times of India",
       "total": 79,
       "translated": 79,
       "lastDate": "2026-04-09T07:23:47Z"
-    },
-    {
-      "name": "Hi, AI Russian (TG)",
-      "total": 79,
-      "translated": 63,
-      "lastDate": "2026-05-27T16:39:19+00:00"
     },
     {
       "name": "GlobeNewswire",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 60,
+      "total": 61,
       "translated": 49,
-      "lastDate": "2026-05-27T17:33:58+00:00"
+      "lastDate": "2026-05-28T08:11:35+00:00"
     },
     {
       "name": "Github.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-28T04:48:56.100Z"
+  "generatedAt": "2026-05-28T08:29:11.495Z"
 }
