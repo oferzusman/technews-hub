@@ -200182,7 +200182,7 @@
         "Opus"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T18:25:25.420Z",
       "created_at": "2026-05-28T18:25:25.420Z"
     },
@@ -200199,7 +200199,7 @@
       "author": "Jay Peters",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T18:25:25.433Z",
       "created_at": "2026-05-28T18:25:25.433Z"
     },
@@ -200223,7 +200223,7 @@
         "Illinois"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T18:25:25.514Z",
       "created_at": "2026-05-28T18:25:25.514Z"
     },
@@ -200342,7 +200342,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T18:25:27.993Z",
       "created_at": "2026-05-28T18:25:27.993Z"
     },
@@ -200384,7 +200384,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T18:25:27.993Z",
       "created_at": "2026-05-28T18:25:27.993Z"
     },
@@ -200418,7 +200418,7 @@
       "author": "Kaif Shaikh",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T18:25:28.617Z",
       "created_at": "2026-05-28T18:25:28.617Z"
     },
@@ -200435,7 +200435,7 @@
       "author": "Kaif Shaikh",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T18:25:28.617Z",
       "created_at": "2026-05-28T18:25:28.617Z"
     },
@@ -200471,7 +200471,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T18:25:31.296Z",
       "created_at": "2026-05-28T18:25:31.296Z"
     },
@@ -200505,7 +200505,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T18:25:31.333Z",
       "created_at": "2026-05-28T18:25:31.333Z"
     },
@@ -200522,7 +200522,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T18:25:31.698Z",
       "created_at": "2026-05-28T18:25:31.698Z"
     },
@@ -200539,7 +200539,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T18:25:31.768Z",
       "created_at": "2026-05-28T18:25:31.768Z"
     },
@@ -200617,6 +200617,46 @@
       "priority": "hot",
       "fetchedAt": "2026-05-28T18:38:34.568Z",
       "created_at": "2026-05-28T18:38:34.568Z"
+    },
+    {
+      "id": 9642,
+      "source": "TechCrunch AI",
+      "title_en": "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO",
+      "description_en": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+      "image_url": null,
+      "pub_date": "Thu, 28 May 2026 18:52:51 +0000",
+      "author": "Rebecca Bellan",
+      "categories": [
+        "AI",
+        "Fundraising",
+        "Anthropic",
+        "Claude",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-28T19:11:10.045Z",
+      "created_at": "2026-05-28T19:11:10.045Z"
+    },
+    {
+      "id": 9643,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round",
+      "description_en": "Anthropic is now the most valuable AI company in Silicon Valley after a new $65 billion funding round.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html",
+      "image_url": null,
+      "pub_date": "Thu, 28 May 2026 19:08:07 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-28T19:11:14.343Z",
+      "created_at": "2026-05-28T19:11:14.343Z"
     }
   ]
 }
