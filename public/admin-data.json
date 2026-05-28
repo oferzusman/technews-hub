@@ -1,9 +1,9 @@
 {
-  "total": 9656,
+  "total": 9659,
   "translated": 8824,
-  "untranslated": 832,
-  "today": 133,
-  "week": 640,
+  "untranslated": 835,
+  "today": 136,
+  "week": 643,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 712,
+      "total": 713,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 391,
+      "total": 392,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -103,9 +103,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 177,
+      "total": 178,
       "translated": 119,
-      "lastDate": "2026-05-28T16:58:12+00:00"
+      "lastDate": "2026-05-28T21:36:15+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-28T22:21:38.468Z"
+  "generatedAt": "2026-05-28T22:21:58.312Z"
 }
