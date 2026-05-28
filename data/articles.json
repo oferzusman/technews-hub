@@ -198109,7 +198109,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T22:40:49.420Z",
       "created_at": "2026-05-27T22:40:49.420Z"
     },
@@ -198126,7 +198126,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-27T22:55:59.915Z",
       "created_at": "2026-05-27T22:55:59.915Z"
     },
@@ -198143,7 +198143,7 @@
       "author": "Bronwyn Thompson",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T00:00:30.952Z",
       "created_at": "2026-05-28T00:00:30.952Z"
     },
@@ -198160,7 +198160,7 @@
       "author": "C.C. Weiss",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T00:00:30.952Z",
       "created_at": "2026-05-28T00:00:30.952Z"
     },
@@ -198177,7 +198177,7 @@
       "author": "Neetika Walter",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T00:00:31.699Z",
       "created_at": "2026-05-28T00:00:31.699Z"
     },
@@ -198194,7 +198194,7 @@
       "author": "Neetika Walter",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T00:00:31.700Z",
       "created_at": "2026-05-28T00:00:31.700Z"
     },
@@ -198211,9 +198211,223 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T00:00:31.946Z",
       "created_at": "2026-05-28T00:00:31.946Z"
+    },
+    {
+      "id": 9529,
+      "source": "TechCrunch AI",
+      "title_en": "Why Google’s AI can’t spell Google (or anything else)",
+      "description_en": "Google is embarrassing itself, again.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+      "image_url": null,
+      "pub_date": "Thu, 28 May 2026 00:17:41 +0000",
+      "author": "Amanda Silberling",
+      "categories": [
+        "AI",
+        "Google",
+        "spelling"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-28T04:22:23.646Z",
+      "created_at": "2026-05-28T04:22:23.646Z"
+    },
+    {
+      "id": 9530,
+      "source": "New Atlas",
+      "title_en": "Hundreds of conflicting engineering solutions may prevent alien visitors, scientist says",
+      "description_en": "Kai James, Georgia Institute of Technology/ The Conversation\nContinue Reading\nCategory: Physics, Science\nTags: aliens, interstellar space, Stars, Distance",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/physics/conflicting-engineering-prevent-alien-visitors/",
+      "image_url": null,
+      "pub_date": "Thu, 28 May 2026 01:20:55 GMT",
+      "author": "The Conversation",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-28T04:22:25.652Z",
+      "created_at": "2026-05-28T04:22:25.652Z"
+    },
+    {
+      "id": 9531,
+      "source": "The Guardian AI",
+      "title_en": "AI ‘art’ is boring, soulless theft – and when I see it as an artist I see red | Jess Harwood",
+      "description_en": "I draw the old way – with my hand. Doing it with AI would not make me more creative, it would drain the colour out of my existence\nLast week I went to a gig by myself for the first time. I sat myself down in my single seat, possibly the youngest person in the room and one of thousands excited to see Split Enz. I loved it – I felt joy and heartache as the lyrics spoke of human experiences, really lived. I happily realised that I did not have to wonder whether Split Enz had used AI in their work (",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/commentisfree/2026/may/28/ai-art-is-boring-soulless-theft-visual-artist",
+      "image_url": "https://i.guim.co.uk/img/media/8c59c1993b44b6b85fb550da175ed2b186dfa563/1_0_2046_1638/master/2046.jpg?width=140&quality=85&auto=format&fit=max&s=a99ed00f1cc91c71b1f84b4530856f7e",
+      "pub_date": "Thu, 28 May 2026 02:37:59 GMT",
+      "author": "Jess Harwood",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Art",
+          "$": {
+            "domain": "https://www.theguardian.com/artanddesign/art"
+          }
+        },
+        {
+          "_": "Music",
+          "$": {
+            "domain": "https://www.theguardian.com/music/music"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-28T04:22:25.844Z",
+      "created_at": "2026-05-28T04:22:25.844Z"
+    },
+    {
+      "id": 9532,
+      "source": "The Guardian AI",
+      "title_en": "Are robots nearing their ChatGPT moment? – podcast",
+      "description_en": "Last month at Beijing’s half marathon, a robot named Lightning beat the human world record by nearly seven minutes. It’s the latest in a string of AI-powered milestones that have got people wondering whether robots are about to enter our everyday lives, just as chatbots have. And the country leading the charge is China, where the government has pledged to invest more than £100bn in robotics over the next 20 years. To find out how robots are already entering the workforce, and what needs to happe",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/science/audio/2026/may/28/are-robots-nearing-their-chatgpt-moment-podcast",
+      "image_url": "https://i.guim.co.uk/img/media/9563770e0eb8e4628031614d3f9a6bac8d63a2e5/417_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=7d6f9cb61ad1f70dc59b1335b56054f4",
+      "pub_date": "Thu, 28 May 2026 04:00:56 GMT",
+      "author": "Presented by Ian Sample with Amy Hawkins, sound design by Joel Cox, the executive producer was Ellie Bury",
+      "categories": [
+        {
+          "_": "Science",
+          "$": {
+            "domain": "https://www.theguardian.com/science/science"
+          }
+        },
+        {
+          "_": "Robots",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/robots"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "China",
+          "$": {
+            "domain": "https://www.theguardian.com/world/china"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-28T04:22:25.844Z",
+      "created_at": "2026-05-28T04:22:25.844Z"
+    },
+    {
+      "id": 9533,
+      "source": "Interesting Engineering",
+      "title_en": "Ferrari vs Tesla: $640K Luce EV loses key speed and range battles to Model S Plaid",
+      "description_en": "Ferrari’s upcoming electric grand tourer, the Luce, has already sparked intense debate online. Much of...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/tesla-model-s-ferrari-luce-ev-comparison",
+      "image_url": null,
+      "pub_date": "Thu, 28 May 2026 00:04:36 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-28T04:22:28.339Z",
+      "created_at": "2026-05-28T04:22:28.339Z"
+    },
+    {
+      "id": 9534,
+      "source": "Interesting Engineering",
+      "title_en": "Rugged supercomputer built on NVIDIA IGX Thor targets next-gen space missions",
+      "description_en": "Aitech, a U.S.-based company that builds rugged computers for space and defense missions, is integrating...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/space/nvidia-igx-thor-space-ai-supercomputer",
+      "image_url": null,
+      "pub_date": "Thu, 28 May 2026 00:02:14 +0000",
+      "author": "Neetika Walter",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-28T04:22:28.339Z",
+      "created_at": "2026-05-28T04:22:28.339Z"
+    },
+    {
+      "id": 9535,
+      "source": "AI Post (TG)",
+      "title_en": "🗣Sam Altman reveals why he no longer believes universal basic income is the answer to AI:\"I used to be really excited about universal basic income, where you just give everybody money. I still am kin",
+      "description_en": "🗣Sam Altman reveals why he no longer believes universal basic income is the answer to AI:\"I used to be really excited about universal basic income, where you just give everybody money. I still am kind of excited about that. But I think people really need agency\"\"If you just say AI is going to do everything and everybody gets a dividend, it's not going to feel good, and I don't think it would actually be good for people\"\"I don't just want a check every month. What I'd want is an ownership share ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7046",
+      "image_url": null,
+      "pub_date": "2026-05-28T00:02:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-28T04:22:30.825Z",
+      "created_at": "2026-05-28T04:22:30.825Z"
+    },
+    {
+      "id": 9536,
+      "source": "AI Post (TG)",
+      "title_en": "Asimov walks through how they designed the legs for their humanoid robot v1.@aipost 🏴",
+      "description_en": "Asimov walks through how they designed the legs for their humanoid robot v1.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7047",
+      "image_url": null,
+      "pub_date": "2026-05-28T03:15:10+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-28T04:22:30.825Z",
+      "created_at": "2026-05-28T04:22:30.825Z"
     }
   ]
 }
