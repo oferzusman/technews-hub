@@ -200826,7 +200826,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T20:40:27.528Z",
       "created_at": "2026-05-28T20:40:27.528Z"
     },
@@ -200843,7 +200843,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T20:40:27.528Z",
       "created_at": "2026-05-28T20:40:27.528Z"
     },
@@ -200913,7 +200913,7 @@
         "vibe coding"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T21:31:12.792Z",
       "created_at": "2026-05-28T21:31:12.792Z"
     },
@@ -201012,6 +201012,55 @@
       "priority": "hot",
       "fetchedAt": "2026-05-28T22:20:41.839Z",
       "created_at": "2026-05-28T22:20:41.839Z"
+    },
+    {
+      "id": 9660,
+      "source": "MarkTechPost",
+      "title_en": "Anthropic Ships Claude Opus 4.8 Alongside Dynamic Workflows and Cheaper Fast Mode, With Workflows Capped at 1,000 Subagents",
+      "description_en": "Anthropic's Claude Opus 4.8 brings dynamic workflows and cheaper fast mode to Claude Code, now in research preview\nThe post Anthropic Ships Claude Opus 4.8 Alongside Dynamic Workflows and Cheaper Fast Mode, With Workflows Capped at 1,000 Subagents appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/28/anthropic-ships-claude-opus-4-8-alongside-dynamic-workflows-and-cheaper-fast-mode-with-workflows-capped-at-1000-subagents/",
+      "image_url": null,
+      "pub_date": "Thu, 28 May 2026 22:12:16 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-28T22:42:50.835Z",
+      "created_at": "2026-05-28T22:42:50.835Z"
+    },
+    {
+      "id": 9661,
+      "source": "CNBC Tech",
+      "title_en": "Jim Cramer says these 3 mistakes are keeping investors out of AI winners",
+      "description_en": "CNBC’s Jim Cramer pointed to three reasons investors may be missing some of the market’s biggest AI winners.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/28/jim-cramer-says-these-3-mistakes-are-keeping-investors-out-of-ai-winners.html",
+      "image_url": null,
+      "pub_date": "Thu, 28 May 2026 22:28:55 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-28T22:42:52.516Z",
+      "created_at": "2026-05-28T22:42:52.516Z"
     }
   ]
 }
