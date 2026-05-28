@@ -199284,7 +199284,7 @@
         "TechCrunch Disrupt 2026"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T15:37:43.669Z",
       "created_at": "2026-05-28T15:37:43.669Z"
     },
@@ -199307,7 +199307,7 @@
         "agentic payments"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T15:37:43.669Z",
       "created_at": "2026-05-28T15:37:43.669Z"
     },
@@ -199363,7 +199363,7 @@
       "author": "Emma Roth",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T15:37:43.725Z",
       "created_at": "2026-05-28T15:37:43.725Z"
     },
@@ -199380,7 +199380,7 @@
       "author": "Nilay Patel",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T15:37:43.725Z",
       "created_at": "2026-05-28T15:37:43.725Z"
     },
@@ -199623,7 +199623,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T15:37:47.354Z",
       "created_at": "2026-05-28T15:37:47.354Z"
     },
@@ -199922,6 +199922,219 @@
       "priority": "hot",
       "fetchedAt": "2026-05-28T15:37:53.326Z",
       "created_at": "2026-05-28T15:37:53.326Z"
+    },
+    {
+      "id": 9612,
+      "source": "The Verge AI",
+      "title_en": "A $2,000 AI-generated film will make its debut at Tribeca",
+      "description_en": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government's mass killing of protestors in January, with the people and images fully created by AI, as reported earlier by The Hollywood Reporter.\nDreams of Violets cost $2,000 to make and is \"based on journalistic reports, photographs, and eyewitness accounts,\" according to a press release. It was created by Ash and Pooya Koosha, two ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
+      "image_url": null,
+      "pub_date": "2026-05-28T16:08:45.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-28T16:20:14.487Z",
+      "created_at": "2026-05-28T16:20:14.487Z"
+    },
+    {
+      "id": 9613,
+      "source": "The Verge AI",
+      "title_en": "YouTube takes baby steps to being a real podcast app",
+      "description_en": "New features coming to YouTube could make it better for listening to podcasts, rolling out to Premium subscribers starting today on Android and coming later to iOS. \nA new \"on-the-go mode\" shifts YouTube into an audio-first layout, with larger, simplified playback buttons, a still image in place of the video, and a timeline showing video chapters. YouTube says you can turn on this new mode in a video's settings - a pop up will also appear if YouTube detects you're moving around while watching a ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/streaming/939051/youtube-premium-podcast-features",
+      "image_url": null,
+      "pub_date": "2026-05-28T16:05:00.000Z",
+      "author": "Stevie Bonifield",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-28T16:20:14.487Z",
+      "created_at": "2026-05-28T16:20:14.487Z"
+    },
+    {
+      "id": 9614,
+      "source": "Google AI Blog",
+      "title_en": "Catch up on 12 major I/O 2026 moments",
+      "description_en": "Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_KNH.max-600x600.format-webp.webp",
+      "pub_date": "Thu, 28 May 2026 15:00:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Zahra Thompson"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          "The Keyword"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Search",
+        "Android",
+        "Google Labs",
+        "Shopping",
+        "AI",
+        "Gemini App",
+        "Gemini models"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-28T16:20:16.276Z",
+      "created_at": "2026-05-28T16:20:16.276Z"
+    },
+    {
+      "id": 9615,
+      "source": "The Guardian AI",
+      "title_en": "Image of Thai police in sparkly dresses with handcuffed suspect turns out to be AI fake",
+      "description_en": "Picture was created by administrator in charge of station’s Facebook account who wanted to create ‘friendlier image’\nIt was an arresting image and an irresistible story. A group of tough Thai police officers – five men and one woman – all wearing elaborate festival-style dresses, surrounding a drug dealer they had caught while undercover.\nThe image, released by local police, was so compelling that it found its way on to the front page of the UK’s Daily Star, as well as in picture stories in the ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/28/image-of-thai-police-in-sparkly-dresses-with-handcuffed-suspect-turns-out-to-be-ai-fake",
+      "image_url": "https://i.guim.co.uk/img/media/d3633cb48472a736251988a520826f730d063d9b/257_0_2318_1855/master/2318.jpg?width=140&quality=85&auto=format&fit=max&s=a5e6007280519724fdcf1cbdb4e59c62",
+      "pub_date": "Thu, 28 May 2026 16:05:33 GMT",
+      "author": "Michael Savage Media editor",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/media"
+          }
+        },
+        {
+          "_": "Thailand",
+          "$": {
+            "domain": "https://www.theguardian.com/world/thailand"
+          }
+        },
+        {
+          "_": "Newspapers",
+          "$": {
+            "domain": "https://www.theguardian.com/media/newspapers"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Asia Pacific",
+          "$": {
+            "domain": "https://www.theguardian.com/world/asia-pacific"
+          }
+        },
+        {
+          "_": "Newspapers & magazines",
+          "$": {
+            "domain": "https://www.theguardian.com/media/pressandpublishing"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-28T16:20:16.626Z",
+      "created_at": "2026-05-28T16:20:16.626Z"
+    },
+    {
+      "id": 9616,
+      "source": "Interesting Engineering",
+      "title_en": "US scientists use neutron fingerprints to spot dangerous nuclear materials in minutes",
+      "description_en": "US researchers have unveiled a new method to identify hidden nuclear materials after pairing the...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/neutron-fingerprints-nuclear-materials",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/05/Z2_33bad6.jpg",
+      "pub_date": "Thu, 28 May 2026 16:17:53 +0000",
+      "author": "Georgina Jedikovska",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-28T16:20:17.235Z",
+      "created_at": "2026-05-28T16:20:17.235Z"
+    },
+    {
+      "id": 9617,
+      "source": "Interesting Engineering",
+      "title_en": "Video: New $13K humanoid from China aims to widen access to advanced robotics",
+      "description_en": "Chinese robotics startup Astribot, also known as Stardust Intelligence, has unveiled one of China’s most...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/humanoid-robot-china-video",
+      "image_url": "https://www.youtube.com/embed/AePEcHIIk9s",
+      "pub_date": "Thu, 28 May 2026 16:12:38 +0000",
+      "author": "Jijo Malayil",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-28T16:20:17.235Z",
+      "created_at": "2026-05-28T16:20:17.235Z"
+    },
+    {
+      "id": 9618,
+      "source": "Interesting Engineering",
+      "title_en": "Video: World’s largest 12,566-pound eVTOL completes 3-aircraft formation flight",
+      "description_en": "Chinese electric aircraft maker AutoFlight recently conducted a coordinated flight with its largest eVTOL aircraft...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/worlds-largest-evtol-flies-in-formation",
+      "image_url": "https://www.youtube.com/embed/1XRAzieNRTE",
+      "pub_date": "Thu, 28 May 2026 16:00:54 +0000",
+      "author": "Sujita Sinha",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-28T16:20:17.235Z",
+      "created_at": "2026-05-28T16:20:17.235Z"
+    },
+    {
+      "id": 9619,
+      "source": "Tom's Hardware",
+      "title_en": "Trailing-edge foundry roadmaps for GlobalFoundries, UMC, and SMIC — mature node chipmakers each pursue differing strategies and IP",
+      "description_en": "We explore Globalfoundries, UMC, and SMIC's individual trailing-edge roadmaps, as each company is pursuing a fundamentally different strategy shaped by geography, regulation, and technology choices.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/the-trailing-edge-foundry-roadmap-examined",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/RDRDxfSMpnNVf6QfdZd63b-1280-80.png",
+      "pub_date": "Thu, 28 May 2026 16:16:35 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-28T16:20:17.318Z",
+      "created_at": "2026-05-28T16:20:17.318Z"
     }
   ]
 }
