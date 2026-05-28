@@ -200576,6 +200576,47 @@
       "priority": "hot",
       "fetchedAt": "2026-05-28T18:25:32.095Z",
       "created_at": "2026-05-28T18:25:32.095Z"
+    },
+    {
+      "id": 9640,
+      "source": "TechCrunch AI",
+      "title_en": "Just like gold and oil, we’ll soon be able to trade AI token futures",
+      "description_en": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+      "image_url": null,
+      "pub_date": "Thu, 28 May 2026 18:32:25 +0000",
+      "author": "Ram Iyer",
+      "categories": [
+        "AI",
+        "AI futures",
+        "ai tokens",
+        "CME Group",
+        "commodities",
+        "Intercontinental Exchange"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-28T18:38:31.921Z",
+      "created_at": "2026-05-28T18:38:31.921Z"
+    },
+    {
+      "id": 9641,
+      "source": "Interesting Engineering",
+      "title_en": "NVIDIA research shows robots trained in simulation can handle real-world tasks",
+      "description_en": "Robots trained entirely in simulation are beginning to perform more reliably in the real world,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/nvidia-robots-simulation-real-world-icra",
+      "image_url": null,
+      "pub_date": "Thu, 28 May 2026 18:27:06 +0000",
+      "author": "Neetika Walter",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-28T18:38:34.568Z",
+      "created_at": "2026-05-28T18:38:34.568Z"
     }
   ]
 }
