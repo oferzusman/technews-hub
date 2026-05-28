@@ -200677,7 +200677,7 @@
         "Stack AI"
       ],
       "translated": false,
-      "priority": "batch",
+      "priority": "hot",
       "fetchedAt": "2026-05-28T20:40:22.169Z",
       "created_at": "2026-05-28T20:40:22.169Z"
     },
@@ -200694,7 +200694,7 @@
       "author": "Emma Roth",
       "categories": [],
       "translated": false,
-      "priority": "batch",
+      "priority": "hot",
       "fetchedAt": "2026-05-28T20:40:22.197Z",
       "created_at": "2026-05-28T20:40:22.197Z"
     },
@@ -200809,7 +200809,7 @@
         }
       ],
       "translated": false,
-      "priority": "batch",
+      "priority": "hot",
       "fetchedAt": "2026-05-28T20:40:24.502Z",
       "created_at": "2026-05-28T20:40:24.502Z"
     },
@@ -200956,62 +200956,6 @@
       "priority": "hot",
       "fetchedAt": "2026-05-28T21:31:18.995Z",
       "created_at": "2026-05-28T21:31:18.995Z"
-    },
-    {
-      "id": 9657,
-      "source": "The Decoder",
-      "title_en": "Claude company Anthropic nears a trillion-dollar valuation after raising $65 billion in Series H",
-      "description_en": "Anthropic raises $65 billion in a Series H round at a $965 billion valuation. Annualized revenue tops $47 billion, according to CFO Krishna Rao. The company plans to invest in safety research, computing capacity, and expanding its Claude product lineup.\nThe article Claude company Anthropic nears a trillion-dollar valuation after raising $65 billion in Series H appeared first on The Decoder.",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://the-decoder.com/claude-company-anthropic-nears-a-trillion-dollar-valuation-after-raising-65-billion-in-series-h/",
-      "image_url": null,
-      "pub_date": "Thu, 28 May 2026 21:30:58 +0000",
-      "author": "Matthias Bastian",
-      "categories": [
-        "AI in practice",
-        "Artificial Intelligence",
-        "Short News",
-        "Anthropic"
-      ],
-      "translated": false,
-      "priority": "hot",
-      "fetchedAt": "2026-05-28T22:20:34.001Z",
-      "created_at": "2026-05-28T22:20:34.001Z"
-    },
-    {
-      "id": 9658,
-      "source": "Interesting Engineering",
-      "title_en": "Anthropic unveils Claude Opus 4.8, its most honest model and smartest coder yet",
-      "description_en": "Anthropic has launched Claude Opus 4.8, a new version of its flagship AI model that...",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://interestingengineering.com/ai-robotics/anthropic-claude-opus-48-ai-honesty-agentic-coding",
-      "image_url": null,
-      "pub_date": "Thu, 28 May 2026 21:31:19 +0000",
-      "author": "Neetika Walter",
-      "categories": [],
-      "translated": false,
-      "priority": "hot",
-      "fetchedAt": "2026-05-28T22:20:35.742Z",
-      "created_at": "2026-05-28T22:20:35.742Z"
-    },
-    {
-      "id": 9659,
-      "source": "XOR Journal (TG)",
-      "title_en": "Пу-пу-пу: разрабы всё чаще верят ИИ на слово — вайбкод в 5 раз чаще доходит до коммитов без ручной проверки.Cursor выпустили большое исследование, как нейросети меняют программирование — и это страшно",
-      "description_en": "Пу-пу-пу: разрабы всё чаще верят ИИ на слово — вайбкод в 5 раз чаще доходит до коммитов без ручной проверки.Cursor выпустили большое исследование, как нейросети меняют программирование — и это страшно.Главное:🟢Скорость создания кода выросла за год в 2 раза. Но топ-1% истинных вайбкодеров сильно отрываются от остальных: они пишут в 46 раз больше строк кода и закрывают в 15 раз больше пулреквестов, чем остальные;🟢В среднем PR стали больше в 2.5 раза — одна котлета в 1000+ строк кода уже норма. И",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://t.me/xor_journal/9387",
-      "image_url": "https://cdn4.telesco.pe/file/geRH80nooZrv5NtRz_73ajDXeO8TJ0fadxwunVn6NyWv8TuusecORa1I55oPpc2_gTCf5Si-cJ6rgFlWdWyuABMQSBUvAuexZKH2g-kcS6_Jj_GGu1H-bRuWCLX4aeaNZHTugXYoQdZWDxzY-BjCnVt9lE5e9I911yvSiR7eGk4cpRdSCNPvrnGjpHwfD3TfNhRnb0orVVd99o_pVJjM-e1PcqUZpubLntSRZ-jsqu0ycohCuQuhp-gnR4XX2tJ_t5KfXbPn5T4kR97Tv6AEvaJmidnvt9X_oAB2u1XAZ4Dk9AnBpNcJF3hDZWKPBmPB_Jr06N9R1fSw00rmGf0O6g.jpg",
-      "pub_date": "2026-05-28T21:36:15+00:00",
-      "author": null,
-      "categories": [],
-      "translated": false,
-      "priority": "hot",
-      "fetchedAt": "2026-05-28T22:20:41.839Z",
-      "created_at": "2026-05-28T22:20:41.839Z"
     }
   ]
 }
