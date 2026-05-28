@@ -200158,7 +200158,7 @@
         "StrictlyVC LA"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T18:25:25.420Z",
       "created_at": "2026-05-28T18:25:25.420Z"
     },
@@ -200269,7 +200269,7 @@
         "App"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T18:25:26.967Z",
       "created_at": "2026-05-28T18:25:26.967Z"
     },
@@ -200401,7 +200401,7 @@
       "author": "Kaif Shaikh",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T18:25:28.617Z",
       "created_at": "2026-05-28T18:25:28.617Z"
     },
@@ -200454,7 +200454,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T18:25:30.315Z",
       "created_at": "2026-05-28T18:25:30.315Z"
     },
@@ -200556,7 +200556,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T18:25:32.095Z",
       "created_at": "2026-05-28T18:25:32.095Z"
     },
@@ -200573,7 +200573,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T18:25:32.095Z",
       "created_at": "2026-05-28T18:25:32.095Z"
     },
@@ -200597,7 +200597,7 @@
         "Intercontinental Exchange"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T18:38:31.921Z",
       "created_at": "2026-05-28T18:38:31.921Z"
     },
@@ -200614,7 +200614,7 @@
       "author": "Neetika Walter",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T18:38:34.568Z",
       "created_at": "2026-05-28T18:38:34.568Z"
     },
@@ -200657,6 +200657,195 @@
       "priority": "hot",
       "fetchedAt": "2026-05-28T19:11:14.343Z",
       "created_at": "2026-05-28T19:11:14.343Z"
+    },
+    {
+      "id": 9644,
+      "source": "TechCrunch AI",
+      "title_en": "Asana acquires no-code agent-builder Stack AI",
+      "description_en": "Asana will incorporate Stack AI into its growing suite of AI workflow tools.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+      "image_url": null,
+      "pub_date": "Thu, 28 May 2026 20:06:07 +0000",
+      "author": "Russell Brandom",
+      "categories": [
+        "AI",
+        "acquisition",
+        "Asana",
+        "Automation",
+        "Stack AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-28T20:40:22.169Z",
+      "created_at": "2026-05-28T20:40:22.169Z"
+    },
+    {
+      "id": 9645,
+      "source": "The Verge AI",
+      "title_en": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+      "description_en": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft.\nThe redesign, which is rolling out across desktop and mobile devices, comes with a feature Microsoft calls \"progressive disclosure.\" That means Copilot will present you with tools and controls based on your prompt, instead of sh",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+      "image_url": null,
+      "pub_date": "2026-05-28T20:14:07.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-28T20:40:22.197Z",
+      "created_at": "2026-05-28T20:40:22.197Z"
+    },
+    {
+      "id": 9646,
+      "source": "Ars Technica",
+      "title_en": "Apple working to cram massive Gemini model into iPhone to power new Siri",
+      "description_en": "As Apple tries to shrink Gemini for the iPhone, a cloud component is probably inevitable.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/apple-google-logo-1152x648.jpg",
+      "pub_date": "Thu, 28 May 2026 18:30:48 +0000",
+      "author": "\n                    Ryan Whitwam\n                ",
+      "categories": [
+        "AI",
+        "Apple",
+        "Google",
+        "apple",
+        "Artificial Intelligence",
+        "gemini",
+        "google",
+        "iphone"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-28T20:40:22.217Z",
+      "created_at": "2026-05-28T20:40:22.217Z"
+    },
+    {
+      "id": 9647,
+      "source": "Ars Technica",
+      "title_en": "Amazon turns to Jeff Bezos' other company to do some heavy lifting",
+      "description_en": "Amazon is turning a corner with its launch providers, but ULA's Vulcan remains grounded.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/space/2026/05/amazon-turns-to-jeff-bezos-other-company-to-do-some-heavy-lifting/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/HJVyIu2WoAEFclh-1152x648-1779990562.jpg",
+      "pub_date": "Thu, 28 May 2026 18:17:41 +0000",
+      "author": "\n                    Stephen Clark\n                ",
+      "categories": [
+        "Science",
+        "Space",
+        "Amazon",
+        "amazon leo",
+        "ariane 6",
+        "Arianespace",
+        "atlas v",
+        "blue origin",
+        "broadband",
+        "launch",
+        "new glenn",
+        "ng-4",
+        "united launch alliance",
+        "vulcan"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-28T20:40:22.217Z",
+      "created_at": "2026-05-28T20:40:22.217Z"
+    },
+    {
+      "id": 9648,
+      "source": "Ars Technica",
+      "title_en": "Intel makes a bid for handheld gaming PCs with new Arc G3 processors",
+      "description_en": "Intel's Arc B390 integrated GPU has offered impressive performance in laptops.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gadgets/2026/05/intel-makes-a-bid-for-handheld-gaming-pcs-with-new-arc-g3-processors/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/intel-arc-g-series-1152x648.jpg",
+      "pub_date": "Thu, 28 May 2026 17:10:10 +0000",
+      "author": "\n                    Andrew Cunningham\n                ",
+      "categories": [
+        "Gaming",
+        "Tech",
+        "Intel",
+        "Intel Arc",
+        "steam deck",
+        "steamos",
+        "windows 11",
+        "XBox",
+        "xbox mode"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-28T20:40:22.217Z",
+      "created_at": "2026-05-28T20:40:22.217Z"
+    },
+    {
+      "id": 9649,
+      "source": "The Guardian AI",
+      "title_en": "Anthropic reaches valuation of $965bn, beating OpenAI to become world’s most valuable AI firm",
+      "description_en": "Claude’s parent company’s $65bn in latest funding round underscores vast sums of money still flowing into industry\nAnthropic, the AI firm behind the Claude chatbot, announced on Thursday it had raised $65bn in funding to value the company at $965bn post-money. The move makes Anthropic the world’s most valuable AI startup, eclipsing its competitor OpenAI.\nThe deal marks an exceedingly successful period of growth for Anthropic, which was once considered to be a smaller player in the global AI arms",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/28/anthropic-ai-valuation",
+      "image_url": "https://i.guim.co.uk/img/media/b1104d27ad69538fffbff7d084ff3cf6a70b5651/582_0_3748_2998/master/3748.jpg?width=140&quality=85&auto=format&fit=max&s=f1319595261fa2f2b2818e19a6ef09bf",
+      "pub_date": "Thu, 28 May 2026 19:56:23 GMT",
+      "author": "Nick Robins-Early",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-28T20:40:24.502Z",
+      "created_at": "2026-05-28T20:40:24.502Z"
+    },
+    {
+      "id": 9650,
+      "source": "CNBC Tech",
+      "title_en": "Dell shares jump 15% after server maker reports fastest sales growth since return to public market in 2018",
+      "description_en": "Dell has gone from being a sleepy legacy tech company to a high-growth AI story, assembling servers packed with graphics processing units.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/28/dell-q1-earnings-report-2027.html",
+      "image_url": null,
+      "pub_date": "Thu, 28 May 2026 20:33:56 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-28T20:40:27.528Z",
+      "created_at": "2026-05-28T20:40:27.528Z"
+    },
+    {
+      "id": 9651,
+      "source": "CNBC Tech",
+      "title_en": "Okta tops first-quarter results on agentic AI demand",
+      "description_en": "CEO Todd McKinnon said Okta is \"playing a long game\" on AI and is allocating more resources to agentic tools.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/28/okta-okta-earnings-q1-2027.html",
+      "image_url": null,
+      "pub_date": "Thu, 28 May 2026 20:33:04 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-28T20:40:27.528Z",
+      "created_at": "2026-05-28T20:40:27.528Z"
     }
   ]
 }
