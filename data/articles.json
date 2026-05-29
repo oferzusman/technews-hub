@@ -203432,7 +203432,7 @@
         "Laptops"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T19:58:36.022Z",
       "created_at": "2026-05-29T19:58:36.022Z"
     },
@@ -203560,6 +203560,73 @@
       "priority": "hot",
       "fetchedAt": "2026-05-29T21:26:26.986Z",
       "created_at": "2026-05-29T21:26:26.986Z"
+    },
+    {
+      "id": 9780,
+      "source": "MarkTechPost",
+      "title_en": "StepFun Releases Step 3.7 Flash: A 198B MoE Vision-Language Model for Coding Agents and Search Workflows",
+      "description_en": "StepFun releases Step 3.7 Flash, a 198B MoE model with native vision, 256k context, and Advisor Mode.\nThe post StepFun Releases Step 3.7 Flash: A 198B MoE Vision-Language Model for Coding Agents and Search Workflows appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/29/stepfun-releases-step-3-7-flash-a-198b-moe-vision-language-model-for-coding-agents-and-search-workflows/",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 21:25:05 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Vision Language Model"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T21:57:08.449Z",
+      "created_at": "2026-05-29T21:57:08.449Z"
+    },
+    {
+      "id": 9781,
+      "source": "XOR Journal (TG)",
+      "title_en": "Отдыхаем на выходных качественно: принесли игру, где становишься хакером и пишешь скрипты для взлома — Bitburner.Это классная бесплатная киберпанк-RPG, где можно в том числе прокачать навыки программи",
+      "description_en": "Отдыхаем на выходных качественно: принесли игру, где становишься хакером и пишешь скрипты для взлома — Bitburner.Это классная бесплатная киберпанк-RPG, где можно в том числе прокачать навыки программирования. Внутри нужно писать реальные скрипты на JavaScript, работать с терминалом, взламывать порты, зарабатывать и вообще строить свою хакерскую инфраструктуру.Внутри есть редактор кода, документация + можно качать своего персонажа и даже вступать в хакерские фракции.Вайб Mr. Robot обеспечен 😎@xo",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9400",
+      "image_url": null,
+      "pub_date": "2026-05-29T21:40:12+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T21:57:11.411Z",
+      "created_at": "2026-05-29T21:57:11.411Z"
+    },
+    {
+      "id": 9782,
+      "source": "AI Post (TG)",
+      "title_en": "🤯 AI may have just triggered a domino effect in pure mathematics.  A few weeks ago, researchers at OpenAI revealed that one of their internal models found a radically new construction for the famous ",
+      "description_en": "🤯 AI may have just triggered a domino effect in pure mathematics.  A few weeks ago, researchers at OpenAI revealed that one of their internal models found a radically new construction for the famous Erdős single-distance problem, overturning what mathematicians…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7063",
+      "image_url": "https://cdn4.telesco.pe/file/MztzBktoSB6Ir39gtsvQVKbbSieqS7pqAgZDkG-JYK47T8pVEAWrKprE3RYlmLR--L6bfi9yOcUqGNzi6WH9JnUm0KgWamGOS6e6wPrmGO-6uMvfRbi2oA8kWgIgcM5bTa8_1Isy41m-2FGiSpbRRUFilIFQ_pQ6yCZ4K_swqtYdIpmvvgjzqy0kbZGRpAszFnN3my8v7o9j4XnDS5DURGpLhLOkWuvt9neP1c11565CvOQeQfIu6qWmliO_NZee7JoJumS8-OlnILM2raeJrbwlZS_FQnIx6W95Q0jidBRM-DrwAizZ2fbwo6M7OsZ3wBUVW9i-Ra_Mx6sYdBL_AQ.jpg",
+      "pub_date": "2026-05-29T21:52:34+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T21:57:12.682Z",
+      "created_at": "2026-05-29T21:57:12.682Z"
     }
   ]
 }
