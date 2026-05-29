@@ -201165,7 +201165,7 @@
         "revenue"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T01:31:37.810Z",
       "created_at": "2026-05-29T01:31:37.810Z"
     },
@@ -201182,7 +201182,7 @@
       "author": "Neetika Walter",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T01:31:40.853Z",
       "created_at": "2026-05-29T01:31:40.853Z"
     },
@@ -201199,7 +201199,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T01:31:47.482Z",
       "created_at": "2026-05-29T01:31:47.482Z"
     },
@@ -201219,6 +201219,23 @@
       "priority": "hot",
       "fetchedAt": "2026-05-29T02:01:39.602Z",
       "created_at": "2026-05-29T02:01:39.602Z"
+    },
+    {
+      "id": 9670,
+      "source": "AI Post (TG)",
+      "title_en": "💰 Anthropic has officially raised $65 billion at a $965 billion valuationARR crossed $47 billion this month. Anthropic is now officially bigger than OpenAI.@aipost 🏴",
+      "description_en": "💰 Anthropic has officially raised $65 billion at a $965 billion valuationARR crossed $47 billion this month. Anthropic is now officially bigger than OpenAI.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7056",
+      "image_url": "https://cdn4.telesco.pe/file/aRwX1hROfMfA8aBf3DfTbpfOZBH_CSXBsYXQCZvW4pgWPmKh74fR25BPxSito-OO0jutqJY3s-5XspsIXVMuiDcd_Xsn7yvNLuesTuKNlyxYLlORPdaEMv7tM2XMGy91FSAbVz3bk4ubsWbNWqMwJRP1uXpGZPFaEnMnI86ywLIe7MtDjH6vz_UxykDuKLxr02RJVII5knQavoQ4owYenx0m81uNG-j7ZotM-lN0olR4DUVz41wTedrIVvcrGPfS4j_wjso4quFraQxGrPrr7O4ZOP_LucO14z9GvZjx-iWzTV93ME18NlUeytvXtINsvafRymlqs8Jvbtl6wLoqNw.jpg",
+      "pub_date": "2026-05-29T02:55:14+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T03:38:15.248Z",
+      "created_at": "2026-05-29T03:38:15.248Z"
     }
   ]
 }
