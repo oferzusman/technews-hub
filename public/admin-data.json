@@ -1,9 +1,9 @@
 {
-  "total": 9752,
+  "total": 9755,
   "translated": 8824,
-  "untranslated": 928,
-  "today": 87,
-  "week": 620,
+  "untranslated": 931,
+  "today": 90,
+  "week": 623,
   "sources": [
     {
       "name": "Product Hunt",
@@ -37,13 +37,13 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 461,
+      "total": 462,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "Ars Technica",
-      "total": 434,
+      "total": 436,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-29T17:04:18.659Z"
+  "generatedAt": "2026-05-29T17:35:35.480Z"
 }
