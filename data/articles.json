@@ -203449,7 +203449,7 @@
       "author": "Aamir Khollam",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T20:25:15.595Z",
       "created_at": "2026-05-29T20:25:15.595Z"
     },
@@ -203627,6 +203627,43 @@
       "priority": "hot",
       "fetchedAt": "2026-05-29T21:57:12.682Z",
       "created_at": "2026-05-29T21:57:12.682Z"
+    },
+    {
+      "id": 9783,
+      "source": "TechCrunch AI",
+      "title_en": "Coders are refusing to work without AI — and that could come back to bite them",
+      "description_en": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 22:14:22 +0000",
+      "author": "Julie Bort",
+      "categories": [
+        "AI",
+        "TC"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T22:47:32.993Z",
+      "created_at": "2026-05-29T22:47:32.993Z"
+    },
+    {
+      "id": 9784,
+      "source": "CNBC Tech",
+      "title_en": "Jim Cramer says Dell’s blowout quarter sets up a crucial week for AI stocks",
+      "description_en": "CNBC’s Jim Cramer said Dell Technologies’ blockbuster quarter reignited enthusiasm around AI and data center stocks.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/29/jim-cramer-says-dells-blowout-quarter-sets-up-a-crucial-week-for-ai-stocks.html",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 22:18:08 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T22:47:37.042Z",
+      "created_at": "2026-05-29T22:47:37.042Z"
     }
   ]
 }
