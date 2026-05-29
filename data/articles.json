@@ -201041,7 +201041,7 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T22:42:50.835Z",
       "created_at": "2026-05-28T22:42:50.835Z"
     },
@@ -201058,7 +201058,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T22:42:52.516Z",
       "created_at": "2026-05-28T22:42:52.516Z"
     },
@@ -201075,7 +201075,7 @@
       "author": "C.C. Weiss",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T23:16:41.932Z",
       "created_at": "2026-05-28T23:16:41.932Z"
     },
@@ -201109,7 +201109,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T23:46:45.306Z",
       "created_at": "2026-05-28T23:46:45.306Z"
     },
@@ -201141,9 +201141,67 @@
         "Uncategorized"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-28T23:56:19.092Z",
       "created_at": "2026-05-28T23:56:19.092Z"
+    },
+    {
+      "id": 9666,
+      "source": "TechCrunch AI",
+      "title_en": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+      "description_en": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 00:44:37 +0000",
+      "author": "Marina Temkin",
+      "categories": [
+        "AI",
+        "Enterprise",
+        "Startups",
+        "AI search",
+        "Glean",
+        "revenue"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T01:31:37.810Z",
+      "created_at": "2026-05-29T01:31:37.810Z"
+    },
+    {
+      "id": 9667,
+      "source": "Interesting Engineering",
+      "title_en": "33,000 high-speed objects now turn Earth’s orbit into a growing collision zone",
+      "description_en": "Earth’s orbit is becoming increasingly crowded with dangerous space debris, and engineers warn the problem...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/space/growing-space-debris-crisis-earth-orbit",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 00:43:31 +0000",
+      "author": "Neetika Walter",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T01:31:40.853Z",
+      "created_at": "2026-05-29T01:31:40.853Z"
+    },
+    {
+      "id": 9668,
+      "source": "AI Post (TG)",
+      "title_en": "Mathematician reacts to OpenAI's recent proof.@aipost 🏴",
+      "description_en": "Mathematician reacts to OpenAI's recent proof.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7055",
+      "image_url": "https://cdn4.telesco.pe/file/g7XfcIYuTKVEQbAR8-M1fA_wtClzxRgIV3Y3a74cZkfcYH0rdE3cQ8HmOZgJERM5lJdbbqt1VO4SHnaUPFUHyDPNgXzaFd6UxfV9QuiGZ75v8nnNM0IbKnMMDMnQo2bvoaZQqbFlQzDbi-hHb6-RrLNDflWSz5U7I7mrAlqoNbmu5FMg35er5Jj0pWDi1VsmC8gotNX5b0SIil8qWsYqv_rNM1iA7Vd5rZV-R_vtKQ3LgWbV96FoeIuoIXjBWTYRYMXN8TYQApGJYp0J646pCOv3LITP8wahb3t0Bm0-OX5Rs5LFW3UQq3VRZr1pAE5ty2AZjlermkj__zvpiPLWcQ.jpg",
+      "pub_date": "2026-05-29T00:11:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T01:31:47.482Z",
+      "created_at": "2026-05-29T01:31:47.482Z"
     }
   ]
 }
