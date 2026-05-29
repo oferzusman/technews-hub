@@ -203038,6 +203038,98 @@
       "priority": "hot",
       "fetchedAt": "2026-05-29T17:33:29.143Z",
       "created_at": "2026-05-29T17:33:29.143Z"
+    },
+    {
+      "id": 9756,
+      "source": "The Verge AI",
+      "title_en": "Tech companies desperately want to film you doing chores",
+      "description_en": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. \nBut there's a catch. There's always a catch. \nIn exchange for the cleaning, Shift wants footage of its cleaners at work: scrubbing dishes, wiping counters, dusting tables, mopping floors. It wants everything. Video of all the boring domestic labor we'd happily outsource if we could - and ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
+      "image_url": null,
+      "pub_date": "2026-05-29T17:37:43.000Z",
+      "author": "Robert Hart",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T17:45:29.434Z",
+      "created_at": "2026-05-29T17:45:29.434Z"
+    },
+    {
+      "id": 9757,
+      "source": "The Decoder",
+      "title_en": "One company reportedly spent $500 million on Claude in one month after failing to cap AI usage",
+      "description_en": "An unnamed company allegedly blew half a billion dollars on Claude licenses in a single month because nobody set usage limits. Cases like this show that without real AI expertise in model selection and context engineering, productivity promises just turn into runaway costs.\nThe article One company reportedly spent $500 million on Claude in one month after failing to cap AI usage appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/one-company-reportedly-spent-500-million-on-claude-in-one-month-after-failing-to-cap-ai-usage/",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 17:35:26 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Economy"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T17:45:30.701Z",
+      "created_at": "2026-05-29T17:45:30.701Z"
+    },
+    {
+      "id": 9758,
+      "source": "Google AI Blog",
+      "title_en": "11 demos of Gemini Omni and Gemini 3.5 in action",
+      "description_en": "Watch 11 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp",
+      "pub_date": "Fri, 29 May 2026 17:30:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Zahra Thompson"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          "The Keyword"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Gemini models",
+        "Google DeepMind",
+        "AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T17:45:30.987Z",
+      "created_at": "2026-05-29T17:45:30.987Z"
+    },
+    {
+      "id": 9759,
+      "source": "CNBC Tech",
+      "title_en": "Blue Origin warns of rocket explosion debris after failed New Glenn test at Cape Canaveral",
+      "description_en": "Jeff Bezos' rocket maker suffered a setback on Thursday as its New Glenn rocket went up in flames.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/29/blue-origin-new-glenn-rocket-explosion-florida-test-nasa-artemis.html",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 17:38:04 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T17:45:34.005Z",
+      "created_at": "2026-05-29T17:45:34.005Z"
     }
   ]
 }
