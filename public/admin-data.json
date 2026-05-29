@@ -1,9 +1,9 @@
 {
-  "total": 9698,
+  "total": 9703,
   "translated": 8824,
-  "untranslated": 874,
-  "today": 33,
-  "week": 566,
+  "untranslated": 879,
+  "today": 38,
+  "week": 571,
   "sources": [
     {
       "name": "Product Hunt",
@@ -61,13 +61,13 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 347,
+      "total": 348,
       "translated": 334,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
       "name": "The Guardian AI",
-      "total": 301,
+      "total": 303,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -115,7 +115,7 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 128,
+      "total": 129,
       "translated": 122,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
@@ -127,7 +127,7 @@
     },
     {
       "name": "AI News",
-      "total": 91,
+      "total": 92,
       "translated": 81,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-29T10:31:40.363Z"
+  "generatedAt": "2026-05-29T11:55:58.549Z"
 }
