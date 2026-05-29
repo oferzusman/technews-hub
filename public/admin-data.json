@@ -1,9 +1,9 @@
 {
-  "total": 9779,
+  "total": 9782,
   "translated": 8824,
-  "untranslated": 955,
-  "today": 114,
-  "week": 647,
+  "untranslated": 958,
+  "today": 117,
+  "week": 650,
   "sources": [
     {
       "name": "Product Hunt",
@@ -91,21 +91,21 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 245,
+      "total": 246,
       "translated": 168,
-      "lastDate": "2026-05-29T18:55:08+00:00"
+      "lastDate": "2026-05-29T21:52:34+00:00"
     },
     {
       "name": "MarkTechPost",
-      "total": 240,
+      "total": 241,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 185,
+      "total": 186,
       "translated": 119,
-      "lastDate": "2026-05-29T14:23:51+00:00"
+      "lastDate": "2026-05-29T21:40:12+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-29T21:27:43.226Z"
+  "generatedAt": "2026-05-29T22:14:11.011Z"
 }
