@@ -1,15 +1,15 @@
 {
-  "total": 9673,
+  "total": 9683,
   "translated": 8824,
-  "untranslated": 849,
-  "today": 8,
-  "week": 541,
+  "untranslated": 859,
+  "today": 18,
+  "week": 551,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 990,
+      "total": 992,
       "translated": 968,
-      "lastDate": "2026-05-28T05:21:51.000Z"
+      "lastDate": "2026-05-28T15:00:52.000Z"
     },
     {
       "name": "Tom's Hardware",
@@ -49,7 +49,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 409,
+      "total": 410,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -97,15 +97,15 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 237,
+      "total": 239,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 178,
+      "total": 180,
       "translated": 119,
-      "lastDate": "2026-05-28T21:36:15+00:00"
+      "lastDate": "2026-05-29T07:40:07+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -139,9 +139,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 83,
+      "total": 84,
       "translated": 63,
-      "lastDate": "2026-05-28T17:06:15+00:00"
+      "lastDate": "2026-05-29T06:21:25+00:00"
     },
     {
       "name": "The Times of India",
@@ -174,16 +174,16 @@
       "lastDate": "2026-05-28T12:01:04+00:00"
     },
     {
+      "name": "Wylsacom Red (TG)",
+      "total": 52,
+      "translated": 40,
+      "lastDate": "2026-05-29T07:30:27+00:00"
+    },
+    {
       "name": "Google AI Blog",
       "total": 51,
       "translated": 47,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
-    },
-    {
-      "name": "Wylsacom Red (TG)",
-      "total": 50,
-      "translated": 40,
-      "lastDate": "2026-05-28T12:50:23+00:00"
     },
     {
       "name": "Nature Machine Intelligence",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-29T06:24:12.948Z"
+  "generatedAt": "2026-05-29T08:30:46.079Z"
 }
