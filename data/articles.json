@@ -201563,7 +201563,7 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T10:27:55.600Z",
       "created_at": "2026-05-29T10:27:55.600Z"
     },
@@ -201804,6 +201804,217 @@
       "priority": "hot",
       "fetchedAt": "2026-05-29T10:27:58.531Z",
       "created_at": "2026-05-29T10:27:58.531Z"
+    },
+    {
+      "id": 9699,
+      "source": "Hugging Face Blog",
+      "title_en": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/torch-profiler",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-29T10:59:33.411Z",
+      "created_at": "2026-05-29T10:59:33.411Z"
+    },
+    {
+      "id": 9700,
+      "source": "OpenAI Blog",
+      "title_en": "Strengthening societal resilience with Rosalind Biodefense",
+      "description_en": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 03:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Product"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-29T10:59:33.758Z",
+      "created_at": "2026-05-29T10:59:33.758Z"
+    },
+    {
+      "id": 9701,
+      "source": "The Guardian AI",
+      "title_en": "Give staff more say over AI to ensure they share benefits, UK thinktank urges",
+      "description_en": "Exclusive: IPPR report backed by TUC proposes ‘worker support levy’ to boost employees’ influence\nWorkers urgently need more bargaining power over the way AI is adopted in the workplace to ensure the benefits are fairly shared, according to a TUC-backed report from a leading thinktank.\nThe Institute for Public Policy Research (IPPR) is calling for a package of measures to boost employees’ influence at what it calls a “pivotal moment in the history of work”.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/may/29/give-staff-more-say-over-ai-to-ensure-they-share-benefits-uk-thinktank-urges",
+      "image_url": "https://i.guim.co.uk/img/media/09d0e1dda1e535fc09c2920904a6f7a3c4b7f563/43_27_5082_4063/master/5082.jpg?width=140&quality=85&auto=format&fit=max&s=dc72f5623d03f67c13ff6fd11c0c2ce5",
+      "pub_date": "Fri, 29 May 2026 10:35:06 GMT",
+      "author": "Heather Stewart Economics editor",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Workers' rights",
+          "$": {
+            "domain": "https://www.theguardian.com/global-development/workers--rights"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "TUC",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/tuc"
+          }
+        },
+        {
+          "_": "Thinktanks",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/thinktanks"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Trade unions",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/tradeunions"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T10:59:34.115Z",
+      "created_at": "2026-05-29T10:59:34.115Z"
+    },
+    {
+      "id": 9702,
+      "source": "The Guardian AI",
+      "title_en": "‘Like a billionaire on acid’: Star Wars director Gareth Edwards comes out in favour of AI",
+      "description_en": "Speaking at Amazon’s AI on the Lot event, the Rogue One film-maker Gareth Edwards said ‘it’ll do anything you ask’ and ‘it’s going to be better than CGI’\nJurassic World Rebirth and Rogue One director Gareth Edwards has enthusiastically endorsed the use of generative AI in film-making, saying “it is a fucking genius at helping you” and “it’s going to be better than CGI”.\nEdwards was speaking at AI on the Lot, an event in Culver City, California, organised by Amazon, and in remarks reported by the",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/film/2026/may/29/star-wars-rogue-one-director-gareth-edwards-praises-ai-film-making",
+      "image_url": "https://i.guim.co.uk/img/media/9429f1be73dfdc2e32dcc42248fd742145c29225/515_80_6082_4866/master/6082.jpg?width=140&quality=85&auto=format&fit=max&s=f68a3c9bba113d451e6344bcc463af9a",
+      "pub_date": "Fri, 29 May 2026 10:55:01 GMT",
+      "author": "Andrew Pulver",
+      "categories": [
+        {
+          "_": "Film",
+          "$": {
+            "domain": "https://www.theguardian.com/film/film"
+          }
+        },
+        {
+          "_": "Gareth Edwards",
+          "$": {
+            "domain": "https://www.theguardian.com/film/gareth-edwards"
+          }
+        },
+        {
+          "_": "Paul Schrader",
+          "$": {
+            "domain": "https://www.theguardian.com/film/paul-schrader"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "California",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/california"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Amazon",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/amazon"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T10:59:34.115Z",
+      "created_at": "2026-05-29T10:59:34.115Z"
+    },
+    {
+      "id": 9703,
+      "source": "AI News",
+      "title_en": "Anthropic releases Claude Opus 4.8",
+      "description_en": "Anthropic has released Claude Opus 4.8, an upgrade to Claude Opus 4.7 that the company says brings improved results for coding, agent work, reasoning, and knowledge work. The platform can be used through claude.ai, Claude Code and the Claude API, with the API name claude-opus-4-8. The company has also altered some of the details of […]\nThe post Anthropic releases Claude Opus 4.8 appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 10:44:00 +0000",
+      "author": "AI News",
+      "categories": [
+        "AI Market Trends",
+        "agentic coding",
+        "anthropic",
+        "claude",
+        "parallel workflows",
+        "sub-agents",
+        "token burn"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T10:59:34.793Z",
+      "created_at": "2026-05-29T10:59:34.793Z"
     }
   ]
 }
