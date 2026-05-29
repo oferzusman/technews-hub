@@ -201284,7 +201284,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T06:13:52.629Z",
       "created_at": "2026-05-29T06:13:52.629Z"
     },
@@ -201311,7 +201311,7 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T07:40:42.162Z",
       "created_at": "2026-05-29T07:40:42.162Z"
     },
@@ -201352,7 +201352,7 @@
       "author": "Bronwyn Thompson",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T07:40:42.560Z",
       "created_at": "2026-05-29T07:40:42.560Z"
     },
@@ -201403,7 +201403,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T07:40:49.454Z",
       "created_at": "2026-05-29T07:40:49.454Z"
     },
@@ -201420,7 +201420,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T07:40:49.454Z",
       "created_at": "2026-05-29T07:40:49.454Z"
     },
@@ -201437,7 +201437,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T07:40:49.520Z",
       "created_at": "2026-05-29T07:40:49.520Z"
     },
@@ -201454,7 +201454,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T07:40:49.521Z",
       "created_at": "2026-05-29T07:40:49.521Z"
     },
@@ -201471,9 +201471,339 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T07:40:50.047Z",
       "created_at": "2026-05-29T07:40:50.047Z"
+    },
+    {
+      "id": 9684,
+      "source": "The Verge AI",
+      "title_en": "Adobe’s conversational AI agent is a mediocre design intern",
+      "description_en": "It explained the process of how it made these edits beautifully, I’m just not terribly impressed by the results. | Images by Jess Weatherbed / The Verge\t\n\nAI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable result. So I was pleasantly surprised by Adobe's latest take on an AI image assistant: it's a bot designed to take away some busywork, while still ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+      "image_url": null,
+      "pub_date": "2026-05-29T10:00:00.000Z",
+      "author": "Jess Weatherbed",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T10:27:54.071Z",
+      "created_at": "2026-05-29T10:27:54.071Z"
+    },
+    {
+      "id": 9685,
+      "source": "The Decoder",
+      "title_en": "Amazon kills internal AI leaderboard after employees gamed it with pointless tasks",
+      "description_en": "Amazon is pulling an internal AI ranking system, the Financial Times reports, after employees inflated their scores through meaningless AI usage and driving up the company's cloud costs in the process.\nThe article Amazon kills internal AI leaderboard after employees gamed it with pointless tasks appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/amazon-kills-internal-ai-leaderboard-after-employees-gamed-it-with-pointless-tasks/",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 09:45:29 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and coding",
+        "Amazon",
+        "Kiro"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T10:27:55.160Z",
+      "created_at": "2026-05-29T10:27:55.160Z"
+    },
+    {
+      "id": 9686,
+      "source": "MIT Technology Review",
+      "title_en": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+      "description_en": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 10:00:00 +0000",
+      "author": "Séamus Finn, Susan Francois",
+      "categories": [
+        "Artificial intelligence",
+        "AI",
+        "App"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T10:27:55.208Z",
+      "created_at": "2026-05-29T10:27:55.208Z"
+    },
+    {
+      "id": 9687,
+      "source": "MarkTechPost",
+      "title_en": "Meet mKernel: A Multi-GPU, Multi-Node Fused Kernel Library for GPU-Driven Communication",
+      "description_en": "UC Berkeley's UCCL team releases mKernel, fusing intra-node NVLink, inter-node RDMA, and dense compute into a single persistent CUDA kernel.\nThe post Meet mKernel: A Multi-GPU, Multi-Node Fused Kernel Library for GPU-Driven Communication appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/29/meet-mkernel-a-multi-gpu-multi-node-fused-kernel-library-for-gpu-driven-communication/",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 08:43:32 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T10:27:55.600Z",
+      "created_at": "2026-05-29T10:27:55.600Z"
+    },
+    {
+      "id": 9688,
+      "source": "The Guardian AI",
+      "title_en": "Why I’m grateful to the Pope for his encyclical on AI | Francine Prose",
+      "description_en": "The intelligent and thoughtful encyclical is an important warning of the uses and misuses of a rapidly developing technology. Silicon Valley is wrong to dismiss it\nOften I’m asked if I think that the novels of the future will all be written by AI. It’s not so much a question as a provocation. Do I worry that a machine can do what I do, only better? I usually say something like: “No algorithm is going to write Anna Karenina!” which is also not a real answer.\nSo I’m grateful to Pope Leo XIV, the A",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/may/29/pope-ai-encyclical",
+      "image_url": "https://i.guim.co.uk/img/media/0dbc670840a49f3540fedf13768a49e5ec5f8630/0_0_3529_2825/master/3529.jpg?width=140&quality=85&auto=format&fit=max&s=8aa4223d8f9321dc7e3f5f977959f985",
+      "pub_date": "Fri, 29 May 2026 10:00:47 GMT",
+      "author": "Francine Prose",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Pope Leo XIV",
+          "$": {
+            "domain": "https://www.theguardian.com/world/pope-leo-xiv"
+          }
+        },
+        {
+          "_": "Silicon Valley",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/silicon-valley"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "The papacy",
+          "$": {
+            "domain": "https://www.theguardian.com/world/the-papacy"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Books",
+          "$": {
+            "domain": "https://www.theguardian.com/books/books"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T10:27:55.785Z",
+      "created_at": "2026-05-29T10:27:55.785Z"
+    },
+    {
+      "id": 9689,
+      "source": "Tom's Hardware",
+      "title_en": "Startup unveils underwater drone designed for protecting undersea cables — small drone dives to 1,640 feet, comes with four-hour battery endurance or unlimited range when tethered to surface power source",
+      "description_en": "A British-New Zealand startup revealed an AI-powered undersea drone designed to for patrolling undersea infrastructure. It's powered by an autonomous software stack that allows a single operator to coordinate multiple drones from the air, land, and the surface of the sea with the undersea drone.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/startup-unveils-uncrewed-vehicle-designed-for-monitoring-undersea-cables-small-drone-comes-with-four-hour-battery-endurance-or-unlimited-range-when-tethered-to-surface-power-source",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/SRYiAyMD3KZoShx8QJjJre-1280-80.png",
+      "pub_date": "Fri, 29 May 2026 10:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T10:27:56.840Z",
+      "created_at": "2026-05-29T10:27:56.840Z"
+    },
+    {
+      "id": 9690,
+      "source": "Tom's Hardware",
+      "title_en": "Mystery company accidentally blew $500 million on Claude AI in a single month — failed to put usage limit on licenses for employees",
+      "description_en": "A new report cites an AI consultant claiming a client accidentally spent $500,000,000 on Claude in a single month.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/x6ncGS6uofFfg45ekfiJrc-1280-80.jpg",
+      "pub_date": "Fri, 29 May 2026 09:44:01 +0000",
+      "author": " Stephen Warwick ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T10:27:56.840Z",
+      "created_at": "2026-05-29T10:27:56.840Z"
+    },
+    {
+      "id": 9691,
+      "source": "Tom's Hardware",
+      "title_en": "Microsoft warns GPU mining malware is being spread to users through SEO poisoning and AI chatbots — cryptojacking campaign targets gamers and high-end PC users with downloads disguised as popular PC utilities",
+      "description_en": "Microsoft has uncovered a GPU-focused cryptojacking campaign that used SEO poisoning and, in some cases, AI chatbot software recommendations to spread malware disguised as popular PC utilities like HWMonitor and CrystalDiskInfo",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-warns-gpu-mining-malware-is-being-spread-to-users-through-seo-poisoning-and-ai-chatbots-cryptojacking-campaign-targets-gamers-and-high-end-pc-users-with-downloads-disguised-as-popular-pc-utilities",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ESTHX56Yy7gyNJmjbMXDbk-1280-80.jpg",
+      "pub_date": "Fri, 29 May 2026 09:30:00 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T10:27:56.840Z",
+      "created_at": "2026-05-29T10:27:56.840Z"
+    },
+    {
+      "id": 9692,
+      "source": "CNBC Tech",
+      "title_en": "Infighting, court battles could put long-hyped air taxi breakthrough in jeopardy",
+      "description_en": "Trump's eVTOL pilot program is giving the air taxi industry its validation, but legal battles have put investor sentiment on hold.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/29/evtol-air-taxi-lawsuits-us-launch-trump.html",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 10:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T10:27:56.989Z",
+      "created_at": "2026-05-29T10:27:56.989Z"
+    },
+    {
+      "id": 9693,
+      "source": "XOR Journal (TG)",
+      "title_en": "Безумие: сотрудники сожгли ПОЛМИЛЛИАРДА долларов за месяц на Claude… случайно 🥲По данным СМИ, работягам дали доступ к Claude, но забыли поставить лимиты и не мониторили расход. Юные вайбкодеры начали",
+      "description_en": "Безумие: сотрудники сожгли ПОЛМИЛЛИАРДА долларов за месяц на Claude… случайно 🥲По данным СМИ, работягам дали доступ к Claude, но забыли поставить лимиты и не мониторили расход. Юные вайбкодеры начали гонять агентов 24/7, уничтожив больше $500M всего за 30 дней.Лицо босса, когда пришел счет —  💀",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9393",
+      "image_url": null,
+      "pub_date": "2026-05-29T08:07:48+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-29T10:27:57.810Z",
+      "created_at": "2026-05-29T10:27:57.810Z"
+    },
+    {
+      "id": 9694,
+      "source": "XOR Journal (TG)",
+      "title_en": "Крах Amazon все ближе: сотрудники начали жечь токены впустую, лишь бы не попасть под сокращения и косые взгляды менеджеров 🧠  Менеджеры компании выдали программистам доступ к внутреннему инструменту ",
+      "description_en": "Крах Amazon все ближе: сотрудники начали жечь токены впустую, лишь бы не попасть под сокращения и косые взгляды менеджеров 🧠  Менеджеры компании выдали программистам доступ к внутреннему инструменту MeshClaw (по факту форк OpenClaw), чтобы автоматизировать…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9394",
+      "image_url": "https://cdn4.telesco.pe/file/ExwiEGM1dQ_CiOBxpnqxBxtpZ68BdgpgWaXOhAVvrm9mDavc9kWOrGMYKIUFbCGpIWq8cK9VlEW7ka3Ms1ORXqKvo9QkmWppo8iNNLFFAAJ1Q5pp9DGkmcCh8Rw_L1ClzL85em5xWpGSxanm3mTFW13-cd_77r9FRRKKf8UKE1sjsTa97wcqu93odnEqpy0cQzbfhKerFk4WuuW17dOoIuhwVodE8qRKCvfBCdVo1Frc2MzCjZLThmlXDjxHlE-WWnhWTU4AznJF_jY2jruDjpYx7-DMY3s8zF427FiN1q7gcSMX8ZEcdO74gPodp_nwBwfV48JVqny8OVTJbUB3iA.jpg",
+      "pub_date": "2026-05-29T09:41:15+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T10:27:57.810Z",
+      "created_at": "2026-05-29T10:27:57.810Z"
+    },
+    {
+      "id": 9695,
+      "source": "XOR Journal (TG)",
+      "title_en": "Акселератор Sber500хГигаЧат собрал реальные кейсы стартапов, где нейросеть уже приносит профит 😨ИИ-помощник уже окончательно стал рабочим инструментом бизнеса, с помощью него:— Бизнес-процессы ускори",
+      "description_en": "Акселератор Sber500хГигаЧат собрал реальные кейсы стартапов, где нейросеть уже приносит профит 😨ИИ-помощник уже окончательно стал рабочим инструментом бизнеса, с помощью него:— Бизнес-процессы ускорились до 16 раз— Операционные затраты сократились до 90%— Рутинные задачи автоматизированы на 95%— Выручка выросла до 30%Изучить интерактивную карту и описания решений от ИИ можно по ссылке.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9395",
+      "image_url": "https://cdn4.telesco.pe/file/pJBOjcQanGBZxHAK1OEkwhftQfHIigjRHH-7zH6yOZqT9oolcnIjZahTMS4gBl5tYIbNfhwK5r55WznP1Nl_yiB8eCQqTcVskibaPN44rpFXO2LDnQQSpl9bpSYNgl3XqxioxZmd6ztEIi9-VmO0VOTA4qJVLtbnlbx2gRq_r9lg6Lx-_5kIgxoV9hWtxjLh073EgOzWnxY0NBKT_WWKF6FxgD3CPJmv_GAIrAcFptfGCwd1HkT3nBC5z9t53HPcgMBsDDzk7bxVVMK9DTpk82R3BsVswOU7Rq8eklksRLDMyY5Q1efEgk1-QEc8eIxE57iW3qWV--TQbpDA_1kb9g.jpg",
+      "pub_date": "2026-05-29T10:15:09+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T10:27:57.810Z",
+      "created_at": "2026-05-29T10:27:57.810Z"
+    },
+    {
+      "id": 9696,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🎧 AI Can Be Hacked With Sound Humans Can't HearResearchers from China and Singapore have demonstrated a new kind of attack on voice AI assistants: a malicious command can be hidden directly inside au",
+      "description_en": "🎧 AI Can Be Hacked With Sound Humans Can't HearResearchers from China and Singapore have demonstrated a new kind of attack on voice AI assistants: a malicious command can be hidden directly inside audio—for example, in a podcast, video, music track, or Zoom call recording. A person hears normal audio, maybe with slight distortion, while the model picks up a hidden instruction.In tests, these signals caused the AI to ignore the original request, give false answers, insert malicious links, or eve",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2546",
+      "image_url": "https://cdn4.telesco.pe/file/ZfGyg6JNgR22BI4hxccW7M0hlLbBOFQtYrec10brAXYn35RGToEsAx7Dh23pRzjF-S-sXSi9wK7FwiNlF-SrjpxJTHWzTJhW642WbxVTbhSFWYuPG0kLlD47SuJnmVCXB9vR2pCGVkTTvI89XfOP0r3nsIXpk3h9ym6c3KrPzXiDtRerkWoapRfZrwswrYlNP6hDHo4EQCgZTbXUiYLvUK8s3dZDqIplOR_IraxYd5V-A5VIFeiISFoDTXwVlKOUEb2r0J0EgMMKlTXRV9FnBjANe8f9FmPuLJAAlA5zjgCJjp_-fQ_fb_k64WsfbjzpYRRaZfy2Iqnvau9v8oQkYg.jpg",
+      "pub_date": "2026-05-29T08:06:13+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-29T10:27:58.300Z",
+      "created_at": "2026-05-29T10:27:58.300Z"
+    },
+    {
+      "id": 9697,
+      "source": "Habr (TG)",
+      "title_en": "⚡ Новости к этому часу🔥 ПОДДЕРЖИТЕ КАНАЛ ГОЛОСАМИ 😎🌱 Новое исследование показало, что растения планируют свой рост, «подслушивая» запахи соседей🧮 Представлен интерпретатор на TypeScript РАПИРЫ — с",
+      "description_en": "⚡ Новости к этому часу🔥 ПОДДЕРЖИТЕ КАНАЛ ГОЛОСАМИ 😎🌱 Новое исследование показало, что растения планируют свой рост, «подслушивая» запахи соседей🧮 Представлен интерпретатор на TypeScript РАПИРЫ — советского учебного языка программирования начала 1980-х годов💸 Штраф Autodesk за лицензию Maya обанкротил инди-студию The Scholastics🧑‍🚀 НАСА приступает к первому этапу строительства лунной базы🚕 Waymo выводит на дороги Ojai — роботакси на базе китайского минивэна Zeekr RT с шестым поколением ав",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/68759",
+      "image_url": null,
+      "pub_date": "2026-05-29T10:00:28+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T10:27:58.325Z",
+      "created_at": "2026-05-29T10:27:58.325Z"
+    },
+    {
+      "id": 9698,
+      "source": "AI Post (TG)",
+      "title_en": "🔥 Claude can now teach you any skill in 30 days for free.1. Professional Skill Instructor“Act as a professional instructor and practitioner with deep real-world experience in [skill]. Teach me this s",
+      "description_en": "🔥 Claude can now teach you any skill in 30 days for free.1. Professional Skill Instructor“Act as a professional instructor and practitioner with deep real-world experience in [skill]. Teach me this skill from beginner to advanced level in 30 days. Focus on practical understanding, correct fundamentals, and real application instead of theory or academic explanations.”2. The 30-Day Skill Roadmap“Create a detailed 30-day learning roadmap for mastering [skill]. Break it into daily or weekly stages,",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7059",
+      "image_url": null,
+      "pub_date": "2026-05-29T09:30:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T10:27:58.531Z",
+      "created_at": "2026-05-29T10:27:58.531Z"
     }
   ]
 }
