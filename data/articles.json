@@ -203179,7 +203179,7 @@
         "Waymo robotaxi"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T19:39:43.987Z",
       "created_at": "2026-05-29T19:39:43.987Z"
     },
@@ -203229,7 +203229,7 @@
         "license plates"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T19:39:44.248Z",
       "created_at": "2026-05-29T19:39:44.248Z"
     },
@@ -203275,7 +203275,7 @@
         "Google"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T19:39:45.454Z",
       "created_at": "2026-05-29T19:39:45.454Z"
     },
@@ -203396,7 +203396,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T19:39:47.390Z",
       "created_at": "2026-05-29T19:39:47.390Z"
     },
@@ -203416,6 +203416,25 @@
       "priority": "hot",
       "fetchedAt": "2026-05-29T19:39:50.260Z",
       "created_at": "2026-05-29T19:39:50.260Z"
+    },
+    {
+      "id": 9773,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia and Microsoft tease \"a new era of PC\" ahead of Computex 2026 — coordinated social media posts could indicate that rumored N1X laptops will be Windows on Arm systems",
+      "description_en": "An Nvidia-powered Arm PC running Windows could inspire new local AI experiences beyond Copilot+.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/laptops/nvidia-and-microsoft-tease-a-new-era-of-pc-ahead-of-computex-2026-coordinated-social-media-posts-could-indicate-that-rumored-n1x-laptops-will-be-windows-on-arm-systems",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Cp3pwQj6c3BuvJ3XzYaXQV-1280-80.webp",
+      "pub_date": "Fri, 29 May 2026 19:48:40 +0000",
+      "author": " Jeffrey Kampman ",
+      "categories": [
+        "Laptops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T19:58:36.022Z",
+      "created_at": "2026-05-29T19:58:36.022Z"
     }
   ]
 }
