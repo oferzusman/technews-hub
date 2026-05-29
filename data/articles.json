@@ -202601,7 +202601,7 @@
         "scott wu"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T17:01:12.240Z",
       "created_at": "2026-05-29T17:01:12.240Z"
     },
@@ -202700,7 +202700,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T17:01:13.788Z",
       "created_at": "2026-05-29T17:01:13.788Z"
     },
@@ -202753,7 +202753,7 @@
       "author": "Georgina Jedikovska",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T17:01:15.400Z",
       "created_at": "2026-05-29T17:01:15.400Z"
     },
@@ -202770,7 +202770,7 @@
       "author": "Mrigakshi Dixit",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T17:01:15.401Z",
       "created_at": "2026-05-29T17:01:15.401Z"
     },
@@ -202787,7 +202787,7 @@
       "author": "Chris Young",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T17:01:15.401Z",
       "created_at": "2026-05-29T17:01:15.401Z"
     },
@@ -202804,7 +202804,7 @@
       "author": "Ameya Paleja",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T17:01:15.401Z",
       "created_at": "2026-05-29T17:01:15.401Z"
     },
@@ -202844,7 +202844,7 @@
         "vector database"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T17:01:15.412Z",
       "created_at": "2026-05-29T17:01:15.412Z"
     },
@@ -202865,7 +202865,7 @@
         "Manufacturing"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T17:01:15.703Z",
       "created_at": "2026-05-29T17:01:15.703Z"
     },
@@ -202902,7 +202902,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T17:01:15.912Z",
       "created_at": "2026-05-29T17:01:15.912Z"
     },
@@ -202936,7 +202936,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T17:01:21.212Z",
       "created_at": "2026-05-29T17:01:21.212Z"
     },
@@ -202992,7 +202992,7 @@
         "nvidia"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T17:33:29.036Z",
       "created_at": "2026-05-29T17:33:29.036Z"
     },
@@ -203015,7 +203015,7 @@
         "robots"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T17:33:29.143Z",
       "created_at": "2026-05-29T17:33:29.143Z"
     },
@@ -203035,7 +203035,7 @@
         "Formula 1"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T17:33:29.143Z",
       "created_at": "2026-05-29T17:33:29.143Z"
     },
@@ -203052,7 +203052,7 @@
       "author": "Robert Hart",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T17:45:29.434Z",
       "created_at": "2026-05-29T17:45:29.434Z"
     },
@@ -203073,7 +203073,7 @@
         "Economy"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T17:45:30.701Z",
       "created_at": "2026-05-29T17:45:30.701Z"
     },
@@ -203110,7 +203110,7 @@
         "AI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T17:45:30.987Z",
       "created_at": "2026-05-29T17:45:30.987Z"
     },
@@ -203127,9 +203127,295 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T17:45:34.005Z",
       "created_at": "2026-05-29T17:45:34.005Z"
+    },
+    {
+      "id": 9760,
+      "source": "TechCrunch AI",
+      "title_en": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "description_en": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 18:49:19 +0000",
+      "author": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
+      "categories": [
+        "AI",
+        "artificial intelligence",
+        "evergreens",
+        "Glossary"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T19:39:43.987Z",
+      "created_at": "2026-05-29T19:39:43.987Z"
+    },
+    {
+      "id": 9761,
+      "source": "TechCrunch AI",
+      "title_en": "What happens when companies become too AI-pilled?",
+      "description_en": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, […]",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 17:57:05 +0000",
+      "author": "Theresa Loconsolo",
+      "categories": [
+        "AI",
+        "Aaron Levie",
+        "AI agents",
+        "AI layoffs",
+        "ai psychosis",
+        "Amazon competition",
+        "AWS",
+        "Equity",
+        "openrouter",
+        "Snowflake",
+        "Stord",
+        "Waymo robotaxi"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T19:39:43.987Z",
+      "created_at": "2026-05-29T19:39:43.987Z"
+    },
+    {
+      "id": 9762,
+      "source": "Ars Technica",
+      "title_en": "House of the Dragon S3 trailer revels in dragons, fire, and blood",
+      "description_en": "\"The crown is a weight that crushes. You'll do things that spell death for all involved.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/dragon1-1152x648.jpg",
+      "pub_date": "Fri, 29 May 2026 18:21:44 +0000",
+      "author": "\n                    Jennifer Ouellette\n                ",
+      "categories": [
+        "Culture",
+        "entertainment",
+        "George R.R. Martin",
+        "HBO",
+        "house of the dragon",
+        "streaming television",
+        "Trailers"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T19:39:44.247Z",
+      "created_at": "2026-05-29T19:39:44.247Z"
+    },
+    {
+      "id": 9763,
+      "source": "Ars Technica",
+      "title_en": "DOJ sues states that rejected ICE requests for undercover license plates",
+      "description_en": "DOJ keeps accusing ICE monitoring sites of doxing, but evidence remains scarce.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/05/doj-sues-states-that-rejected-ice-requests-for-undercover-license-plates/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2230548231-1152x648-1780073944.jpg",
+      "pub_date": "Fri, 29 May 2026 17:41:56 +0000",
+      "author": "\n                    Ashley Belanger\n                ",
+      "categories": [
+        "Policy",
+        "censorship",
+        "DHS",
+        "Donald Trump",
+        "ice",
+        "immigration and customs enforcement",
+        "license plates"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T19:39:44.248Z",
+      "created_at": "2026-05-29T19:39:44.248Z"
+    },
+    {
+      "id": 9764,
+      "source": "The Decoder",
+      "title_en": "OpenAI gives GPT-5.5 Instant a readability upgrade while phasing out two older models",
+      "description_en": "OpenAI is updating GPT-5.5 Instant for more natural responses and dropping the Canvas feature from its latest models. Writing and coding tasks will run directly in the chat instead. The company is also retiring the older o3 and GPT-4.5 models from ChatGPT, with both shutting down by August 2026 at the latest.\nThe article OpenAI gives GPT-5.5 Instant a readability upgrade while phasing out two older models appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-gives-gpt-5-5-instant-a-readability-upgrade-while-phasing-out-two-older-models/",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 18:11:34 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "ChatGPT",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T19:39:45.454Z",
+      "created_at": "2026-05-29T19:39:45.454Z"
+    },
+    {
+      "id": 9765,
+      "source": "The Decoder",
+      "title_en": "Google fixes several bugs in Gemini usage limits that burned through quotas too fast",
+      "description_en": "A bug in Google's Gemini app caused just one or two Omni videos to eat up the entire usage quota. Google has fixed the bug, Ultra members now get twice as many video generations, and failed requests are no longer charged. Google also plans to add more transparency around other usage.\nThe article Google fixes several bugs in Gemini usage limits that burned through quotas too fast appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/google-fixes-several-bugs-in-gemini-usage-limits-that-burned-through-quotas-too-fast/",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 17:51:46 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Gemini",
+        "Google"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T19:39:45.454Z",
+      "created_at": "2026-05-29T19:39:45.454Z"
+    },
+    {
+      "id": 9766,
+      "source": "Google AI Blog",
+      "title_en": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "description_en": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp",
+      "pub_date": "Fri, 29 May 2026 19:00:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Zahra Thompson"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          "The Keyword"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Developer tools",
+        "AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T19:39:45.883Z",
+      "created_at": "2026-05-29T19:39:45.883Z"
+    },
+    {
+      "id": 9767,
+      "source": "OpenAI Blog",
+      "title_en": "How Braintrust turns customer requests into code with Codex",
+      "description_en": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/braintrust",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 12:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-29T19:39:46.068Z",
+      "created_at": "2026-05-29T19:39:46.068Z"
+    },
+    {
+      "id": 9768,
+      "source": "New Atlas",
+      "title_en": "I tried to break the Luba 3 AWD robomower",
+      "description_en": "When I reviewed the Luba 2 AWD 3000HX in September, I was seriously impressed. It's quiet, very capable, kind of fun, and made me feel like a neighborhood hero while sending it from house to house mowing everyone's yards.\nContinue Reading\nCategory: Around The Home, Consumer Tech, Technology\nTags: Lawnmower, Lawnmowers, Reviews, Garden, Autonomous",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/around-the-home/review-mammotion-luba-3-awd-3000/",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 19:04:32 GMT",
+      "author": "Joe Salas",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T19:39:46.365Z",
+      "created_at": "2026-05-29T19:39:46.365Z"
+    },
+    {
+      "id": 9769,
+      "source": "Interesting Engineering",
+      "title_en": "Robots learn to recover from dangerous stair falls using smart stabilising system",
+      "description_en": "Robots that navigate staircases still face a major safety problem as losing balance often causes...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/ai-robot-fall-mitigation-stair-climbing-sutd",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 18:15:03 +0000",
+      "author": "Neetika Walter",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T19:39:47.003Z",
+      "created_at": "2026-05-29T19:39:47.003Z"
+    },
+    {
+      "id": 9770,
+      "source": "CNBC Tech",
+      "title_en": "Tokens or humans? The new corporate trade-off",
+      "description_en": "AI is costing far more than companies expected, forcing CFOs into a new trade-off between tokens and humans and posing a risk the market hasn't priced in.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/29/-tokens-or-humans-the-new-corporate-trade-off.html",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 18:41:14 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T19:39:47.390Z",
+      "created_at": "2026-05-29T19:39:47.390Z"
+    },
+    {
+      "id": 9771,
+      "source": "CNBC Tech",
+      "title_en": "Dell's earnings blowout makes clear now is not the time to go against the AI grain",
+      "description_en": "Don't fight the tape.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/29/dells-earnings-blowout-makes-clear-now-is-not-the-time-to-go-against-the-ai-grain.html",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 17:47:47 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T19:39:47.390Z",
+      "created_at": "2026-05-29T19:39:47.390Z"
+    },
+    {
+      "id": 9772,
+      "source": "AI Post (TG)",
+      "title_en": "🤯 AI may have just triggered a domino effect in pure mathematics.A few weeks ago, researchers at OpenAI revealed that one of their internal models found a radically new construction for the famous Er",
+      "description_en": "🤯 AI may have just triggered a domino effect in pure mathematics.A few weeks ago, researchers at OpenAI revealed that one of their internal models found a radically new construction for the famous Erdős single-distance problem, overturning what mathematicians had believed for nearly 80 years. The shocking part wasn’t just the result, it was the method.Instead of using the standard geometric approach, the AI connected the problem to deep algebraic number theory using towers of class fields, a di",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7062",
+      "image_url": "https://cdn4.telesco.pe/file/l7eihKuaac68SR5pe9WYFrhUXP_pnv8WQTpEXXbs5uqozMg8utap78qcdFfspom5bqkN_-vUzUvBRdT1VZPQb22UluwbEnPY50Gh5e1zhYr6pPeoe42eDfztq_NkHVA9uhIZLGCR-wA-dR-dyNHll3gqPRyVOjwBRI2KtzcUa52D4b9V5LlMnwmcTyciBvpt6JCr5O2bUBxIHhMIxA74WyDo6FtFO6nI9F4vadLEmJLTC2Wt3yS4FLAopQ4vPaQGS6DhfftlpGtGAc8RBARsTlth0GF_9QzXQelUYXAnxtTiytEas3LTBjvNbb3ZEHirSGE_YAMTlWlv-Hx97febPg.jpg",
+      "pub_date": "2026-05-29T18:55:08+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T19:39:50.260Z",
+      "created_at": "2026-05-29T19:39:50.260Z"
     }
   ]
 }
