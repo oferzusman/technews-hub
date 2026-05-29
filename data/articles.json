@@ -202039,7 +202039,7 @@
         "XCENA"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T13:42:33.166Z",
       "created_at": "2026-05-29T13:42:33.166Z"
     },
@@ -202073,7 +202073,7 @@
       "author": "Robert Hart",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T13:42:33.247Z",
       "created_at": "2026-05-29T13:42:33.247Z"
     },
@@ -202114,7 +202114,7 @@
         "The Download"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T13:42:34.485Z",
       "created_at": "2026-05-29T13:42:34.485Z"
     },
@@ -202156,7 +202156,7 @@
         "AI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T13:42:34.712Z",
       "created_at": "2026-05-29T13:42:34.712Z"
     },
@@ -202241,7 +202241,7 @@
       "author": "Jijo Malayil",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T13:42:36.040Z",
       "created_at": "2026-05-29T13:42:36.040Z"
     },
@@ -202418,7 +202418,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T13:42:37.409Z",
       "created_at": "2026-05-29T13:42:37.409Z"
     },
@@ -202489,6 +202489,95 @@
       "priority": "hot",
       "fetchedAt": "2026-05-29T13:42:38.301Z",
       "created_at": "2026-05-29T13:42:38.301Z"
+    },
+    {
+      "id": 9730,
+      "source": "TechCrunch AI",
+      "title_en": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
+      "description_en": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most anticipated tech events of the year. Register now.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 14:00:00 +0000",
+      "author": "TechCrunch Events",
+      "categories": [
+        "TC",
+        "Startups",
+        "Transportation",
+        "Security",
+        "Hardware",
+        "Crypto",
+        "Climate",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "AI",
+        "Apps",
+        "Robotics",
+        "Fundraising",
+        "TechCrunch Disrupt 2026"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T14:12:33.419Z",
+      "created_at": "2026-05-29T14:12:33.419Z"
+    },
+    {
+      "id": 9731,
+      "source": "Ars Technica",
+      "title_en": "Here's why the failure of Blue Origin's New Glenn rocket is so catastrophic",
+      "description_en": "\"I hope that it makes it far enough away from the pad that it does not cause pad damage.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/features/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG-2-Ascent-11-1152x648.jpg",
+      "pub_date": "Fri, 29 May 2026 12:43:35 +0000",
+      "author": "\n                    Eric Berger\n                ",
+      "categories": [
+        "Features",
+        "Space",
+        "blue origin",
+        "new glenn"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T14:12:33.538Z",
+      "created_at": "2026-05-29T14:12:33.538Z"
+    },
+    {
+      "id": 9732,
+      "source": "New Atlas",
+      "title_en": "Latest Hypershell exoskeletons put an AI-powered spring in your step",
+      "description_en": "Hypershell’s new X Series exoskeletons use AI-driven motion control to give you a little extra spring in your step, offering walking and hiking assistance across different terrain, ranges, and support levels.\nContinue Reading\nCategory: Gear, Outdoors\nTags: Exoskeleton, Wearable, Artificial Intelligence, Mobility, Fitness, Hiking",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/outdoor-gear/2026-hypershell-x-series-exoskeletons/",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 13:57:00 GMT",
+      "author": "Monica J. White",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T14:12:35.425Z",
+      "created_at": "2026-05-29T14:12:35.425Z"
+    },
+    {
+      "id": 9733,
+      "source": "CNBC Tech",
+      "title_en": "Dell stock skyrockets 32%, heads for best day ever as AI server revenue soars",
+      "description_en": "Dell reported its fastest pace of revenue growth since returning to the public market in 2018, with AI server revenue soaring 757% over last year.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/29/dell-stock-earnings-ai-servers.html",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 13:45:56 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T14:12:37.185Z",
+      "created_at": "2026-05-29T14:12:37.185Z"
     }
   ]
 }
