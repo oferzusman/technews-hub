@@ -202970,9 +202970,74 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T17:01:21.895Z",
       "created_at": "2026-05-29T17:01:21.895Z"
+    },
+    {
+      "id": 9753,
+      "source": "TechCrunch AI",
+      "title_en": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
+      "description_en": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 17:27:13 +0000",
+      "author": "Dominic-Madori Davis",
+      "categories": [
+        "AI",
+        "Startups",
+        "Venture",
+        "nvidia"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T17:33:29.036Z",
+      "created_at": "2026-05-29T17:33:29.036Z"
+    },
+    {
+      "id": 9754,
+      "source": "Ars Technica",
+      "title_en": "Startup offers free home cleaning—if it can record it all for robot training",
+      "description_en": "The latest twist in paying humans to wear head cameras for robot training data.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Screenshot-2026-05-29-at-9.24.24-AM-1152x648.png",
+      "pub_date": "Fri, 29 May 2026 16:16:14 +0000",
+      "author": "\n                    Jeremy Hsu\n                ",
+      "categories": [
+        "AI",
+        "AI training data",
+        "Artificial Intelligence",
+        "robot training",
+        "robots"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T17:33:29.143Z",
+      "created_at": "2026-05-29T17:33:29.143Z"
+    },
+    {
+      "id": 9755,
+      "source": "Ars Technica",
+      "title_en": "After years of stability, F1 reliability can no longer be taken for granted",
+      "description_en": "Until recently, a driver had maybe a six in ten chance of finishing a race.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/cars/2026/05/f1-in-2026-to-finish-first-first-you-have-to-finish/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2278023232-1152x648.jpg",
+      "pub_date": "Fri, 29 May 2026 16:03:28 +0000",
+      "author": "\n                    Jonathan M. Gitlin\n                ",
+      "categories": [
+        "Cars",
+        "Formula 1"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T17:33:29.143Z",
+      "created_at": "2026-05-29T17:33:29.143Z"
     }
   ]
 }
