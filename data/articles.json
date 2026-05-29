@@ -203523,7 +203523,7 @@
       "author": "Ben Coxworth",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T21:26:19.155Z",
       "created_at": "2026-05-29T21:26:19.155Z"
     },
@@ -203540,7 +203540,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T21:26:20.729Z",
       "created_at": "2026-05-29T21:26:20.729Z"
     },
@@ -203557,7 +203557,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T21:26:26.986Z",
       "created_at": "2026-05-29T21:26:26.986Z"
     },
@@ -203664,6 +203664,23 @@
       "priority": "hot",
       "fetchedAt": "2026-05-29T22:47:37.042Z",
       "created_at": "2026-05-29T22:47:37.042Z"
+    },
+    {
+      "id": 9785,
+      "source": "New Atlas",
+      "title_en": "Nissan pushes beyond camper vans with factory 4WD overnight wagon",
+      "description_en": "With help from its Autech/NMC tuning and customization arm, Nissan has developed out quite a camper van line in Japan, ranging from adorable tiny campers to large wellness-retreat ramblers. Traditionally, those models have all been based on some form of van, but one of the latest Nissan campers to arrive as a factory option comes based instead on Nissan's top-selling SUV platform. The new X-Trail Rock Creek Multi-Bed is a rugged, versatile all-terrain camper wagon, and while it's a pure Japanese",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/campervans/nissan-x-trail-multibed-camper-wagon/",
+      "image_url": null,
+      "pub_date": "Fri, 29 May 2026 23:04:00 GMT",
+      "author": "C.C. Weiss",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-29T23:14:48.259Z",
+      "created_at": "2026-05-29T23:14:48.259Z"
     }
   ]
 }
