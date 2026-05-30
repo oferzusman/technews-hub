@@ -203986,7 +203986,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-30T09:16:48.585Z",
       "created_at": "2026-05-30T09:16:48.585Z"
     },
@@ -204016,7 +204016,7 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-30T09:30:59.165Z",
       "created_at": "2026-05-30T09:30:59.165Z"
     },
@@ -204033,7 +204033,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-30T09:31:05.016Z",
       "created_at": "2026-05-30T09:31:05.016Z"
     },
@@ -204102,7 +204102,7 @@
         "Salesforce"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-30T10:56:58.997Z",
       "created_at": "2026-05-30T10:56:58.997Z"
     },
@@ -204249,6 +204249,110 @@
       "priority": "hot",
       "fetchedAt": "2026-05-30T11:03:46.842Z",
       "created_at": "2026-05-30T11:03:46.842Z"
+    },
+    {
+      "id": 9813,
+      "source": "The Verge AI",
+      "title_en": "The SpaceX IPO is great for Elon Musk and terrible for you",
+      "description_en": "Number go up? | Image: Cath Virginia / The Verge, Getty Images\t\n\nI haven't seen anything as stupid as the WeWork IPO document in a very long time - that is, until Elon Musk filed to take SpaceX public. WeWork was a joke. SpaceX is a threat. And if Musk and his bankers have their way, you are going to be their bagholder.\nLots of the top-line details leaked long before the S-1 filing itself became public. There's the rumored valuation of more than $1 trillion. That's despite the nearly $5 billion ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai",
+      "image_url": null,
+      "pub_date": "2026-05-30T12:00:00.000Z",
+      "author": "Elizabeth Lopatto",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-30T12:02:15.140Z",
+      "created_at": "2026-05-30T12:02:15.140Z"
+    },
+    {
+      "id": 9814,
+      "source": "New Atlas",
+      "title_en": "Small, flat, rooftop satellite antennas could replace big, bulky, costly dishes",
+      "description_en": "\"Ground Control to Major Tom,\" the evergreen lyrics to David Bowie’s 70s hit, Space Oddity. What’s odd is that, despite huge advances in satellites themselves, much of the physical infrastructure connecting those spacecraft to Earth still relies on large mechanically steered dishes, a model increasingly strained by the rise of massive low-Earth-orbit constellations.\nContinue Reading\nCategory: Telecommunications, Technology\nTags: UC San Diego, Antenna, Satellite, Spacecraft",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/telecommunications/flat-rooftop-satellite-antennas/",
+      "image_url": null,
+      "pub_date": "Sat, 30 May 2026 11:03:00 GMT",
+      "author": "Etiido Uko",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-30T12:02:17.395Z",
+      "created_at": "2026-05-30T12:02:17.395Z"
+    },
+    {
+      "id": 9815,
+      "source": "Interesting Engineering",
+      "title_en": "Bio-hybrid robotics system ‘listens’ to cyborg insects for collaborative control",
+      "description_en": "Japanese researchers have developed a new approach to controlling cyborg insects that focuses on understanding...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/hybrid-system-for-cyborg-insects",
+      "image_url": "https://www.youtube.com/embed/lkdLg0Nq4SQ",
+      "pub_date": "Sat, 30 May 2026 11:15:24 +0000",
+      "author": "Bojan Stojkovski",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-30T12:02:18.140Z",
+      "created_at": "2026-05-30T12:02:18.140Z"
+    },
+    {
+      "id": 9816,
+      "source": "Interesting Engineering",
+      "title_en": "China’s autonomous drone swarm system claims to hunt targets despite network jamming, chaos",
+      "description_en": "A Chinese research team claims to have developed a new artificial intelligence (AI) algorithm capable...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/china-autonomous-drone-swarm-system",
+      "image_url": "https://www.youtube.com/embed/rx0yczThPog",
+      "pub_date": "Sat, 30 May 2026 11:12:38 +0000",
+      "author": "Christopher McFadden",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-30T12:02:18.140Z",
+      "created_at": "2026-05-30T12:02:18.140Z"
+    },
+    {
+      "id": 9817,
+      "source": "Tom's Hardware",
+      "title_en": "Huawei chairman thanks the US for export restrictions on chips, says it supercharged China’s semiconductor industry — Washington’s export controls encouraged Chinese firms to invest in R&D and build their own tech stack competing with American tech",
+      "description_en": "Huawei's current Rotating Chairman thanked the United States for its export bans, which boosted the progress of China's semiconductor industry. He made the comment after unveiling the groundbreaking LogicFolding chip architecture, when reporters asked him how the company came up with the idea.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/huawei-chairman-thanks-the-us-for-supercharging-chinas-semiconductor-industry-washingtons-export-controls-encouraged-chinese-firms-to-invest-in-r-and-d-and-build-their-own-tech-stack-competing-with-american-technologies",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/GgPdYEHgr4MXhF4VFT3HtR-1280-80.png",
+      "pub_date": "Sat, 30 May 2026 12:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-30T12:02:20.868Z",
+      "created_at": "2026-05-30T12:02:20.868Z"
+    },
+    {
+      "id": 9818,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🎥 «Звездный городок»: альтернативная история, в которой СССР отправляет женщину на Луну«Звездный городок» — спин-офф сериала «Ради всего человечества», который переворачивает привычную оптику космиче",
+      "description_en": "🎥 «Звездный городок»: альтернативная история, в которой СССР отправляет женщину на Луну«Звездный городок» — спин-офф сериала «Ради всего человечества», который переворачивает привычную оптику космической гонки.Оригинальный сериал показывал альтернативную реальность, в которой СССР первым высадился на Луну. Теперь в центре — история попытки отправить на Луну женщину. В сверхсекретной миссии участвуют космонавты, инженеры, партийные чиновники и, конечно, КГБ.🚀 Сериал строится вокруг настоящего З",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3255",
+      "image_url": null,
+      "pub_date": "2026-05-30T11:15:57+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-30T12:02:25.453Z",
+      "created_at": "2026-05-30T12:02:25.453Z"
     }
   ]
 }
