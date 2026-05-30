@@ -1,13 +1,13 @@
 {
-  "total": 9794,
+  "total": 9797,
   "translated": 8824,
-  "untranslated": 970,
-  "today": 8,
-  "week": 610,
+  "untranslated": 973,
+  "today": 11,
+  "week": 613,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 993,
+      "total": 994,
       "translated": 968,
       "lastDate": "2026-05-28T15:00:52.000Z"
     },
@@ -103,9 +103,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 186,
+      "total": 187,
       "translated": 119,
-      "lastDate": "2026-05-29T21:40:12+00:00"
+      "lastDate": "2026-05-30T06:55:06+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -139,9 +139,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 85,
+      "total": 86,
       "translated": 63,
-      "lastDate": "2026-05-29T13:18:49+00:00"
+      "lastDate": "2026-05-30T06:57:41+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-30T06:37:47.978Z"
+  "generatedAt": "2026-05-30T07:20:46.714Z"
 }
