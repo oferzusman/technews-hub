@@ -204671,7 +204671,7 @@
       "author": "Adam Williams",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-30T15:22:53.920Z",
       "created_at": "2026-05-30T15:22:53.920Z"
     },
@@ -204691,7 +204691,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-30T15:22:54.905Z",
       "created_at": "2026-05-30T15:22:54.905Z"
     },
@@ -204820,6 +204820,23 @@
       "priority": "hot",
       "fetchedAt": "2026-05-30T16:33:40.077Z",
       "created_at": "2026-05-30T16:33:40.077Z"
+    },
+    {
+      "id": 9840,
+      "source": "Habr (TG)",
+      "title_en": "Слишком много открытых файлов: лимит Linux, который валит прод в 3 часа ночиПроцесс падает под нагрузкой с ошибкой too many open files. Диагностика путает: ulimit -n показывает миллион, fs.file-max бе",
+      "description_en": "Слишком много открытых файлов: лимит Linux, который валит прод в 3 часа ночиПроцесс падает под нагрузкой с ошибкой too many open files. Диагностика путает: ulimit -n показывает миллион, fs.file-max бездонен, а lsof выдаёт лишь пару тысяч активных дескрипторов.Причина сбоя кроется в пересечении трёх независимых ограничений ОС. При малейшей утечке HTTP-демон исчерпывает квоты, плодя зависшие сессии CLOSE_WAIT. В Kubernetes ситуация хуже: спецификация пода не поддерживает openFiles, контейнер молча",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/68766",
+      "image_url": "https://cdn4.telesco.pe/file/eI7AebLwzFlXLBSbdDGuqfIl-OqPeavHuZp5Qzt8Pp-AOK2hOLAa8ZGO7_hHzExYbDPs9QjSUvBJ6QCHq5hK5zhJG9joj6AkOOW9fuKS8KgLy0X_30uyfXyZVmNioEllp2rUywgN-FKFeQ_l6vIYraoNWWizf3mjTTA4hXJ7PLkMM9aRn_rNlxBmN3rAYrZXPRmx8Cg_vhytOkS-SvGxRomLMTHWN-1yelM2WPOo8alakRNmtJbY56Xz6zUUHInCrbF3G0RmcUBJMlPHSqz5ZAC12kKbPYyf6LPYvegAMTw5c5CXJhNRAeVJusGkGOKw90DiiVXays4q683Byg2K-w.jpg",
+      "pub_date": "2026-05-30T17:00:57+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-30T17:04:33.104Z",
+      "created_at": "2026-05-30T17:04:33.104Z"
     }
   ]
 }
