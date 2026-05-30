@@ -1,9 +1,9 @@
 {
-  "total": 9792,
+  "total": 9793,
   "translated": 8824,
-  "untranslated": 968,
-  "today": 6,
-  "week": 608,
+  "untranslated": 969,
+  "today": 7,
+  "week": 609,
   "sources": [
     {
       "name": "Product Hunt",
@@ -91,9 +91,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 247,
+      "total": 248,
       "translated": 168,
-      "lastDate": "2026-05-30T00:41:01+00:00"
+      "lastDate": "2026-05-30T03:35:00+00:00"
     },
     {
       "name": "MarkTechPost",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-30T03:26:04.215Z"
+  "generatedAt": "2026-05-30T04:16:03.179Z"
 }
