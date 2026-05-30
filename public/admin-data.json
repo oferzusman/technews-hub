@@ -1,9 +1,9 @@
 {
-  "total": 9810,
+  "total": 9812,
   "translated": 8824,
-  "untranslated": 986,
-  "today": 24,
-  "week": 626,
+  "untranslated": 988,
+  "today": 26,
+  "week": 628,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,7 +13,7 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 751,
+      "total": 752,
       "translated": 652,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
@@ -67,7 +67,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 303,
+      "total": 304,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-30T10:59:35.726Z"
+  "generatedAt": "2026-05-30T12:02:58.508Z"
 }
