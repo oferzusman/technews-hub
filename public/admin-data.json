@@ -1,9 +1,9 @@
 {
-  "total": 9787,
+  "total": 9792,
   "translated": 8824,
-  "untranslated": 963,
-  "today": 1,
-  "week": 603,
+  "untranslated": 968,
+  "today": 6,
+  "week": 608,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 724,
+      "total": 726,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -91,13 +91,13 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 246,
+      "total": 247,
       "translated": 168,
-      "lastDate": "2026-05-29T21:52:34+00:00"
+      "lastDate": "2026-05-30T00:41:01+00:00"
     },
     {
       "name": "MarkTechPost",
-      "total": 242,
+      "total": 244,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-30T02:46:51.909Z"
+  "generatedAt": "2026-05-30T03:26:04.215Z"
 }
