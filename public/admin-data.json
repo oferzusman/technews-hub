@@ -1,9 +1,9 @@
 {
-  "total": 9840,
+  "total": 9841,
   "translated": 8824,
-  "untranslated": 1016,
-  "today": 54,
-  "week": 656,
+  "untranslated": 1017,
+  "today": 55,
+  "week": 657,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,7 +13,7 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 756,
+      "total": 757,
       "translated": 652,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-30T17:06:31.468Z"
+  "generatedAt": "2026-05-30T17:44:11.667Z"
 }
