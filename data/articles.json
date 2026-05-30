@@ -204924,6 +204924,48 @@
       "priority": "hot",
       "fetchedAt": "2026-05-30T19:59:15.240Z",
       "created_at": "2026-05-30T19:59:15.240Z"
+    },
+    {
+      "id": 9846,
+      "source": "The Guardian AI",
+      "title_en": "An industry targeting Australia’s ageing population is growing, but can AI deliver more humanity in aged care?",
+      "description_en": "While companion robots are being introduced and virtual experiences hope to ‘take loneliness away’, one expert agrees tech should never replace the human element\n\nGet our breaking news email, free app or daily news podcast\n\n“You’ll never get rid of humans,” Prof Wendy Moyle says, during a discussion about robots and other technology in aged care and residential homes.\nThen, a beat later, she adds: “Well, I don’t think we’ll get rid of humans.”\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/australia-news/2026/may/31/ai-companion-robots-in-aged-care-australia-ageing-population-humanity",
+      "image_url": "https://i.guim.co.uk/img/media/f17d8d1bc3f034e93cb1f15703a813dcf38cdc2a/590_0_5363_4293/master/5363.jpg?width=140&quality=85&auto=format&fit=max&s=8aa117a053afc96087f5352892803f49",
+      "pub_date": "Sat, 30 May 2026 20:00:30 GMT",
+      "author": "Tory Shepherd",
+      "categories": [
+        {
+          "_": "Aged care",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/aged-care"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-30T20:08:47.523Z",
+      "created_at": "2026-05-30T20:08:47.523Z"
     }
   ]
 }
