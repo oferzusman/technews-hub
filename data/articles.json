@@ -203755,7 +203755,7 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-30T03:24:05.615Z",
       "created_at": "2026-05-30T03:24:05.615Z"
     },
@@ -203845,9 +203845,26 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-30T04:15:01.904Z",
       "created_at": "2026-05-30T04:15:01.904Z"
+    },
+    {
+      "id": 9794,
+      "source": "AI Post (TG)",
+      "title_en": "Codex adds Windows computer control via ChatGPT appCodex now enables users to manage Windows computers directly, including through the ChatGPT mobile application. This update allows for the remote ini",
+      "description_en": "Codex adds Windows computer control via ChatGPT appCodex now enables users to manage Windows computers directly, including through the ChatGPT mobile application. This update allows for the remote initiation, monitoring, and adjustment of coding tasks on a user's PC.The new capabilities are designed to support users working on code tasks remotely, ensuring that work on the computer continues while actions are directed from another device.📰 @aipost",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7066",
+      "image_url": null,
+      "pub_date": "2026-05-30T06:20:12+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-30T06:35:57.392Z",
+      "created_at": "2026-05-30T06:35:57.392Z"
     }
   ]
 }
