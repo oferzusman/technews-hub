@@ -1,9 +1,9 @@
 {
-  "total": 9850,
+  "total": 9851,
   "translated": 8824,
-  "untranslated": 1026,
-  "today": 64,
-  "week": 666,
+  "untranslated": 1027,
+  "today": 65,
+  "week": 667,
   "sources": [
     {
       "name": "Product Hunt",
@@ -37,7 +37,7 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 471,
+      "total": 472,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-30T21:35:12.772Z"
+  "generatedAt": "2026-05-30T22:13:41.328Z"
 }
