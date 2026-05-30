@@ -1,9 +1,9 @@
 {
-  "total": 9845,
+  "total": 9846,
   "translated": 8824,
-  "untranslated": 1021,
-  "today": 59,
-  "week": 661,
+  "untranslated": 1022,
+  "today": 60,
+  "week": 662,
   "sources": [
     {
       "name": "Product Hunt",
@@ -67,7 +67,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 305,
+      "total": 306,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-30T20:02:20.331Z"
+  "generatedAt": "2026-05-30T20:10:48.333Z"
 }
