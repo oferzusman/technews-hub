@@ -204717,7 +204717,7 @@
         "Gemini Spark"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-30T15:46:10.402Z",
       "created_at": "2026-05-30T15:46:10.402Z"
     },
@@ -204734,7 +204734,7 @@
       "author": "Bojan Stojkovski",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-30T15:46:13.032Z",
       "created_at": "2026-05-30T15:46:13.032Z"
     },
@@ -204837,6 +204837,25 @@
       "priority": "hot",
       "fetchedAt": "2026-05-30T17:04:33.104Z",
       "created_at": "2026-05-30T17:04:33.104Z"
+    },
+    {
+      "id": 9841,
+      "source": "Tom's Hardware",
+      "title_en": "A robot startup is wreaking havoc on short-term rentals in San Francisco — Airbnb hosts allege 'guests' secretly tested robots indoors, left the units completely trashed",
+      "description_en": "Picture this: you're the owner of a dainty place in San Francisco. You put it up on Airbnb, considering the area is sprawling with AI bros, thinking you'd get a pretty good return on your investment. What you actually get in return are scratched kitchens, damaged appliances, bizarre rearrangements, and just straight up missing items.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/a-robot-startup-is-wreaking-havoc-on-short-term-rentals-in-san-francisco-airbnb-hosts-allege-guests-secretly-tested-robots-indoors-left-the-units-completely-trashed",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/fhJ2wuHBx9aNgN8TVrRc4i-1280-80.jpg",
+      "pub_date": "Sat, 30 May 2026 17:09:50 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-30T17:41:49.229Z",
+      "created_at": "2026-05-30T17:41:49.229Z"
     }
   ]
 }
