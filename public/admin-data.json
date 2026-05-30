@@ -1,9 +1,9 @@
 {
-  "total": 9797,
+  "total": 9801,
   "translated": 8824,
-  "untranslated": 973,
-  "today": 11,
-  "week": 613,
+  "untranslated": 977,
+  "today": 15,
+  "week": 617,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 726,
+      "total": 727,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 398,
+      "total": 399,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -126,16 +126,16 @@
       "lastDate": "2026-04-09T07:08:00Z"
     },
     {
+      "name": "Backdoor (TG)",
+      "total": 94,
+      "translated": 68,
+      "lastDate": "2026-05-30T08:47:34+00:00"
+    },
+    {
       "name": "AI News",
       "total": 93,
       "translated": 81,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
-    },
-    {
-      "name": "Backdoor (TG)",
-      "total": 93,
-      "translated": 68,
-      "lastDate": "2026-05-29T13:36:01+00:00"
     },
     {
       "name": "Hi, AI Russian (TG)",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 64,
+      "total": 65,
       "translated": 49,
-      "lastDate": "2026-05-29T13:32:25+00:00"
+      "lastDate": "2026-05-30T09:15:22+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-30T08:59:14.585Z"
+  "generatedAt": "2026-05-30T09:18:47.286Z"
 }
