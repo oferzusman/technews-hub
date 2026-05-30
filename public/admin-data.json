@@ -1,9 +1,9 @@
 {
-  "total": 9831,
+  "total": 9833,
   "translated": 8824,
-  "untranslated": 1007,
-  "today": 45,
-  "week": 647,
+  "untranslated": 1009,
+  "today": 47,
+  "week": 649,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,7 +13,7 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 755,
+      "total": 756,
       "translated": 652,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
@@ -49,7 +49,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 416,
+      "total": 417,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-30T14:15:28.118Z"
+  "generatedAt": "2026-05-30T15:25:47.173Z"
 }
