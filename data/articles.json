@@ -203935,7 +203935,7 @@
         "Meta AI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-30T09:16:45.852Z",
       "created_at": "2026-05-30T09:16:45.852Z"
     },
@@ -203969,7 +203969,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-30T09:16:48.157Z",
       "created_at": "2026-05-30T09:16:48.157Z"
     },
@@ -204036,6 +204036,145 @@
       "priority": "hot",
       "fetchedAt": "2026-05-30T09:31:05.016Z",
       "created_at": "2026-05-30T09:31:05.016Z"
+    },
+    {
+      "id": 9804,
+      "source": "The Decoder",
+      "title_en": "Attackers abuse shared ChatGPT and Claude chats to spread malware",
+      "description_en": "Attackers are exploiting the chat-sharing features in ChatGPT and Claude to spread malware through shared conversations. The chats mimic error messages or install guides and slip past security tools undetected because they're hosted on trusted domains.\nThe article Attackers abuse shared ChatGPT and Claude chats to spread malware appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/attackers-abuse-shared-chatgpt-and-claude-chats-to-spread-malware/",
+      "image_url": null,
+      "pub_date": "Sat, 30 May 2026 10:32:22 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Cybersecurity",
+        "Security"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-30T10:56:58.997Z",
+      "created_at": "2026-05-30T10:56:58.997Z"
+    },
+    {
+      "id": 9805,
+      "source": "The Decoder",
+      "title_en": "OpenAI's Codex can now operate your Windows PC autonomously, hunting bugs and testing apps on its own",
+      "description_en": "OpenAI's Codex app now runs on Windows 11 with \"Computer Use\": the AI can independently control programs, test apps, and hunt for bugs. When no one's at the PC, the ChatGPT mobile app lets users start and monitor tasks remotely from their phone.\nThe article OpenAI's Codex can now operate your Windows PC autonomously, hunting bugs and testing apps on its own appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openais-codex-can-now-operate-your-windows-pc-autonomously-hunting-bugs-and-testing-apps-on-its-own/",
+      "image_url": "http://the-decoder.com/wp-content/uploads/2026/05/codex_windows_mobile_computer_use.mp4",
+      "pub_date": "Sat, 30 May 2026 10:16:39 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Codex",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-30T10:56:58.997Z",
+      "created_at": "2026-05-30T10:56:58.997Z"
+    },
+    {
+      "id": 9806,
+      "source": "The Decoder",
+      "title_en": "Salesforce claims AI agents cut a 231-day migration to 13 days with fewer incidents",
+      "description_en": "Salesforce says it moved its entire dev org to Anthropic's Claude Code with no token limits and reports massive productivity gains for April 2026: 79 percent more pull requests per developer, five percent fewer incidents. The numbers can't be independently verified. The case shows just how divided the coding world is over the agentic shift: real revolution or the biggest build-up of tech debt ever?\nThe article Salesforce claims AI agents cut a 231-day migration to 13 days with fewer incidents ap",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/salesforce-claims-ai-agents-cut-a-231-day-migration-to-13-days-with-fewer-incidents/",
+      "image_url": null,
+      "pub_date": "Sat, 30 May 2026 09:32:57 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "AI and coding",
+        "Claude Code",
+        "Coding",
+        "Salesforce"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-30T10:56:58.997Z",
+      "created_at": "2026-05-30T10:56:58.997Z"
+    },
+    {
+      "id": 9807,
+      "source": "Interesting Engineering",
+      "title_en": "Humanoid robots join human models in rampwalk at futuristic Seoul fashion show",
+      "description_en": "Humanoid robots wearing designer outfits walked alongside human models at a fashion show in Seoul...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/humanoid-robot-fashion-show",
+      "image_url": null,
+      "pub_date": "Sat, 30 May 2026 10:30:35 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-30T10:57:00.377Z",
+      "created_at": "2026-05-30T10:57:00.377Z"
+    },
+    {
+      "id": 9808,
+      "source": "Tom's Hardware",
+      "title_en": "Pentagon eyes 3D-printed military boats made from volcanic fiber — non-conductive hulls add stealth capabilities while replacing a 6,545-mile supply chain, could scale to 25,000 vessels a year at forward bases",
+      "description_en": "Voltage Vessels hopes to allow the U.S. Navy to build boats where they're needed and reduce reliance on an overly long supply chain. The company claims that it can forward deploy its 3D printers in-theater and also increase output up to 15,000 metric tons annually.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/3d-printing/us-navy-pitched-3d-printed-inflatable-boat-for-maritime-defense-six-meter-vessel-combines-recycled-petg-plastic-with-chopped-basalt-fiber-for-better-strength-water-resistance-and-stealth",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/7zcBU3Y2HiXCWbfLXjtn2o-1280-80.png",
+      "pub_date": "Sat, 30 May 2026 10:30:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "3D Printing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-30T10:57:02.571Z",
+      "created_at": "2026-05-30T10:57:02.571Z"
+    },
+    {
+      "id": 9809,
+      "source": "CNBC Tech",
+      "title_en": "This Trump-linked startup plans to put humanoid robots in the military",
+      "description_en": "With ties to the Trump family,  Foundation Robotics Labs is aiming to deploy humanoid robots in the military in the next 12 to 18 months.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/30/humanoid-robots-ukraine-war-foundation-military-ai.html",
+      "image_url": null,
+      "pub_date": "Sat, 30 May 2026 10:03:32 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-30T10:57:02.701Z",
+      "created_at": "2026-05-30T10:57:02.701Z"
+    },
+    {
+      "id": 9810,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Эра ПК не будет прежней — Nvidia и Microsoft готовят «ПК2». Компании анонсировали новый виток в развитии компов. Инсайдеры уверены, Дядя Хуанг уже 1 июня на выставке Computex 2026 покажет мощнейшие",
+      "description_en": "⚡️ Эра ПК не будет прежней — Nvidia и Microsoft готовят «ПК2». Компании анонсировали новый виток в развитии компов. Инсайдеры уверены, Дядя Хуанг уже 1 июня на выставке Computex 2026 покажет мощнейшие процессоры N1 и N1Х:• Это буквально убийцы Apple Silicon — мощные чипы с графикой и ИИ-ускорителем в комплекте.• Утечки солидарны: у процессора будет аж 20 (!) ядер ARM и графика на уровне RTX 5070.• Это значит, новые тоненькие и супермощные ноуты, которые потянут ЛЮБЫЕ игры.Готовимся к апгрейду.👍",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28774",
+      "image_url": "https://cdn4.telesco.pe/file/pZ2XHIYaVBoGfb7SwLEPu0DPdXnsV31q2UjPduGSVAOjuZ8LB41BhWGFZRmlWY4P8SWkr0581gegIQKyXXGQ2Atd96wOoYOHxYS310hLFIGlbp2gR_eUFeDx6k-V4Bmmb1OR9cucJFigtW6o0HJoBVloNmK3K0_oDu4GStb9JiSs9gOTQmX_sxQhgEV5KCFuJDJaLSFteZtKtTk21_A_EMByjcV63mAxUyDbqVFmoqf0IeRYUq0_1r7Gd5lXoJnksirga12gGUsB5W_W_SbQjAQHaMqtFsxFvRnUmmiUuvCyzjE8oA3U_zkta7Tjlgwc2I6cFwTwND_bEmyc8E6Vfg.jpg",
+      "pub_date": "2026-05-30T10:55:44+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-30T10:57:03.944Z",
+      "created_at": "2026-05-30T10:57:03.944Z"
     }
   ]
 }
