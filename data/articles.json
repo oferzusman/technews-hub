@@ -204904,7 +204904,7 @@
       "author": "Bojan Stojkovski",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-30T19:59:15.240Z",
       "created_at": "2026-05-30T19:59:15.240Z"
     },
@@ -205017,6 +205017,35 @@
       "priority": "hot",
       "fetchedAt": "2026-05-30T21:10:06.504Z",
       "created_at": "2026-05-30T21:10:06.504Z"
+    },
+    {
+      "id": 9850,
+      "source": "MarkTechPost",
+      "title_en": "Best Text-to-Speech TTS Models in 2026: A Benchmark-Based Comparison",
+      "description_en": "Text-to-speech changed fast in 2026. This guide ranks the leading commercial and open-weight TTS models, comparing quality, latency, cost, language coverage, and licensing so engineers can match a model to the job.\nThe post Best Text-to-Speech TTS Models in 2026: A Benchmark-Based Comparison appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/30/best-text-to-speech-tts-models-in-2026-a-benchmark-based-comparison/",
+      "image_url": null,
+      "pub_date": "Sat, 30 May 2026 21:26:24 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Audio Language Model",
+        "Editors Pick",
+        "Language Model",
+        "Staff",
+        "Technology",
+        "Text to Audio",
+        "Top",
+        "TTS",
+        "Voice AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-30T21:33:11.910Z",
+      "created_at": "2026-05-30T21:33:11.910Z"
     }
   ]
 }
