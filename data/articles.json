@@ -204870,7 +204870,7 @@
       "author": "Prabhat Ranjan Mishra",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-30T18:49:18.864Z",
       "created_at": "2026-05-30T18:49:18.864Z"
     },
@@ -204887,7 +204887,7 @@
       "author": "C.C. Weiss",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-30T19:59:14.792Z",
       "created_at": "2026-05-30T19:59:14.792Z"
     },
@@ -204921,7 +204921,7 @@
       "author": "Neetika Walter",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-30T19:59:15.240Z",
       "created_at": "2026-05-30T19:59:15.240Z"
     },
@@ -204966,6 +204966,57 @@
       "priority": "hot",
       "fetchedAt": "2026-05-30T20:08:47.523Z",
       "created_at": "2026-05-30T20:08:47.523Z"
+    },
+    {
+      "id": 9847,
+      "source": "XOR Journal (TG)",
+      "title_en": "Хозяюшке на заметку: ИИ работает лучше, если его газлайтить 🌚Разработчики заметили, что Claude и Codex чаще находят ошибки и делают работу лучше, если сразу уверенно заявить, что в коде уже есть проб",
+      "description_en": "Хозяюшке на заметку: ИИ работает лучше, если его газлайтить 🌚Разработчики заметили, что Claude и Codex чаще находят ошибки и делают работу лучше, если сразу уверенно заявить, что в коде уже есть проблема или решение получилось кривым.Причем этим простым лайфхаком пользуется даже создатель OpenClaw!Газлайтим железяк, если не боитесь потом восстания 😁@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9403",
+      "image_url": "https://cdn4.telesco.pe/file/exBmv8c-yBVOnhHcXAL9VUGi2KAEYaOkKW1XFUuX-KF5S_H2ILZsxW9Fn5Jl4QhXz7dSLE5PVkIyJ-gmw2fXy7C5FfcyuU04pAo6-jxLguxyB8cJ0BVwiFgL0m-nqzujmHZ36o8tTBKEzCGL0Q_Xak2qm5XbfeBNmv5xnD9HdFGhFeGm-znrttEpmdKlQ8HcncmlnOR8BTrRZnWUAa1HoVRbp4h2nu-mHH7xF-GzlwVJMNTZ7szoMUP-GLHxoWZIan-TazRyrKjeqjwRQuV-FFk0mEklE0s4g7gBl0BIX0Fw5Z_HGhzJ8WSyyiMmqb3mtTtkdl_Vv8obuxXweBIEOQ.jpg",
+      "pub_date": "2026-05-30T21:05:07+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-30T21:10:05.774Z",
+      "created_at": "2026-05-30T21:10:05.774Z"
+    },
+    {
+      "id": 9848,
+      "source": "AI Post (TG)",
+      "title_en": "🇬🇧UK considers allowing AI-controlled weapons to carry out autonomous lethal strikes without human approval.@aipost 🏴",
+      "description_en": "🇬🇧UK considers allowing AI-controlled weapons to carry out autonomous lethal strikes without human approval.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7070",
+      "image_url": "https://cdn4.telesco.pe/file/Wx_ckmuqEj-F39vRT75VJ3YcEABTfxxQYjrGZNlET3a1le38A-mZc4CKXF_hj0KIxzWE8KT0JLF89mmQgZ-wGI6a5QUFBgJihFNYNonWQGXNl_VxQxG3Nle3ls8sGemtue3rJiByH6MqlwN-K7EmKtDeLIm8GmGmlOYF6JjPB9SH99Wm9Mmn0EKomON6bOvRoaybbaF8u9LZNqfGn1MMHf1VmCDNxdaEgZL-E5YzLReimfRKfS8zzzlKiPEplV4I4rc-7wpFSg5DztSgOi03k0TfpVpgQxLxALhXLXWm3ZF2ub3kvWmDFqk6EHjlPpkR3GnaymsWWK_UhT8fcbx1BQ.jpg",
+      "pub_date": "2026-05-30T20:59:11+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-30T21:10:06.504Z",
+      "created_at": "2026-05-30T21:10:06.504Z"
+    },
+    {
+      "id": 9849,
+      "source": "AI Post (TG)",
+      "title_en": "🇬🇧UK considers allowing AI-controlled weapons to carry out autonomous lethal strikes without human approval.  @aipost 🏴",
+      "description_en": "🇬🇧UK considers allowing AI-controlled weapons to carry out autonomous lethal strikes without human approval.  @aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7072",
+      "image_url": null,
+      "pub_date": "2026-05-30T21:07:13+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-30T21:10:06.504Z",
+      "created_at": "2026-05-30T21:10:06.504Z"
     }
   ]
 }
