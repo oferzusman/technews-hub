@@ -1,9 +1,9 @@
 {
-  "total": 9835,
+  "total": 9839,
   "translated": 8824,
-  "untranslated": 1011,
-  "today": 49,
-  "week": 651,
+  "untranslated": 1015,
+  "today": 53,
+  "week": 655,
   "sources": [
     {
       "name": "Product Hunt",
@@ -37,7 +37,7 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 469,
+      "total": 471,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 404,
+      "total": 405,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -91,9 +91,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 251,
+      "total": 252,
       "translated": 168,
-      "lastDate": "2026-05-30T12:07:01+00:00"
+      "lastDate": "2026-05-30T16:14:25+00:00"
     },
     {
       "name": "MarkTechPost",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-30T16:33:25.036Z"
+  "generatedAt": "2026-05-30T16:33:54.532Z"
 }
