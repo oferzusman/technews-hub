@@ -203624,7 +203624,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T21:57:12.682Z",
       "created_at": "2026-05-29T21:57:12.682Z"
     },
@@ -203644,7 +203644,7 @@
         "TC"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T22:47:32.993Z",
       "created_at": "2026-05-29T22:47:32.993Z"
     },
@@ -203661,7 +203661,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-29T22:47:37.042Z",
       "created_at": "2026-05-29T22:47:37.042Z"
     },
@@ -203711,6 +203711,23 @@
       "priority": "hot",
       "fetchedAt": "2026-05-29T23:49:11.553Z",
       "created_at": "2026-05-29T23:49:11.553Z"
+    },
+    {
+      "id": 9787,
+      "source": "Product Hunt",
+      "title_en": "Hyper: Self-driving Company Brain",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/hyper-11",
+      "image_url": null,
+      "pub_date": "2026-05-27T20:25:45.000Z",
+      "author": "Garry Tan",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-05-30T00:18:42.951Z",
+      "created_at": "2026-05-30T00:18:42.951Z"
     }
   ]
 }
