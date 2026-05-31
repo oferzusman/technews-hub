@@ -205974,6 +205974,28 @@
       "priority": "hot",
       "fetchedAt": "2026-05-31T20:05:59.232Z",
       "created_at": "2026-05-31T20:05:59.232Z"
+    },
+    {
+      "id": 9895,
+      "source": "MarkTechPost",
+      "title_en": "An Implementation of the Microsoft Agent Governance Toolkit for Safe AI Agent Tool Use with Policies, Approvals, Audit Logs, and Risk Controls",
+      "description_en": "In this tutorial, we build a governed AI-agent workflow using Microsoft’s Agent Governance Toolkit as the reference point. We create a Colab-ready implementation where agents do not directly execute tools; instead, every action first passes through a governance layer that checks the agent’s identity, trust score, risk tier, requested tool, action type, sensitivity level, and […]\nThe post An Implementation of the Microsoft Agent Governance Toolkit for Safe AI Agent Tool Use with Policies, Approva",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/31/an-implementation-of-the-microsoft-agent-governance-toolkit-for-safe-ai-agent-tool-use-with-policies-approvals-audit-logs-and-risk-controls/",
+      "image_url": null,
+      "pub_date": "Sun, 31 May 2026 20:07:01 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Agentic AI",
+        "Editors Pick",
+        "Staff",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T20:07:45.640Z",
+      "created_at": "2026-05-31T20:07:45.640Z"
     }
   ]
 }
