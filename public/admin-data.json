@@ -1,9 +1,9 @@
 {
-  "total": 9862,
+  "total": 9865,
   "translated": 8824,
-  "untranslated": 1038,
-  "today": 11,
-  "week": 628,
+  "untranslated": 1041,
+  "today": 14,
+  "week": 631,
   "sources": [
     {
       "name": "Product Hunt",
@@ -55,7 +55,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 406,
+      "total": 407,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -139,9 +139,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 87,
+      "total": 88,
       "translated": 63,
-      "lastDate": "2026-05-30T11:15:57+00:00"
+      "lastDate": "2026-05-31T08:21:55+00:00"
     },
     {
       "name": "The Times of India",
@@ -210,16 +210,16 @@
       "lastDate": "2026-04-09T00:29:48Z"
     },
     {
+      "name": "Prompt AI News (TG)",
+      "total": 27,
+      "translated": 23,
+      "lastDate": "2026-05-31T09:06:10+00:00"
+    },
+    {
       "name": "Financial Post",
       "total": 26,
       "translated": 26,
       "lastDate": "2026-04-09T04:35:19Z"
-    },
-    {
-      "name": "Prompt AI News (TG)",
-      "total": 26,
-      "translated": 23,
-      "lastDate": "2026-05-20T18:21:22+00:00"
     },
     {
       "name": "Ibtimes.com.au",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-31T08:21:45.327Z"
+  "generatedAt": "2026-05-31T09:27:50.761Z"
 }
