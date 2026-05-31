@@ -205082,7 +205082,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T00:05:15.633Z",
       "created_at": "2026-05-31T00:05:15.633Z"
     },
@@ -205105,9 +205105,26 @@
         "Tutorials"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T01:31:50.033Z",
       "created_at": "2026-05-31T01:31:50.033Z"
+    },
+    {
+      "id": 9854,
+      "source": "AI Post (TG)",
+      "title_en": "🇪🇺 Europe doesn’t need more AI engineers, it needs more AI users.A new McKinsey report shows AI skills are exploding across Europe’s job market. Nearly 1 in 5 occupations now require AI-related skil",
+      "description_en": "🇪🇺 Europe doesn’t need more AI engineers, it needs more AI users.A new McKinsey report shows AI skills are exploding across Europe’s job market. Nearly 1 in 5 occupations now require AI-related skills, more than triple the share seen just two years ago. The biggest surprise? The hottest skill isn’t building AI models, it’s AI fluency.That means knowing how to prompt AI, manage it, fact-check its outputs, and use it effectively in everyday work. Demand for AI fluency has surged 5x, growing from",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7074",
+      "image_url": "https://cdn4.telesco.pe/file/DXgTZXJk4hPFI7dZJCM7vFbPp5tIN10vkrripCj7m25WmXNP1vJzVAoCnVcFS88FNapI-Vzq90S_OTtbqz_aMNpWU-nzR7q6A8jDaAycgXDihjovnqojpQZoTEP8FC7JbiDe-iL5swmIkd1XpNjjlrbzvm977BFB_ACBxLPalPkTBjLyMrcdT-VeRs4aShcz8B5mPhICuMdyY3X3P0oh6n2_wDJWKR9lg42MA2S8rXPD-riZcPZPEYOqQ3veUF43o9Umr6HIeBVnAnPo5aXDTrcyX8zE4JajTYiO5jJFlHPjYwk4a-z9Nd0IkKYdBs3X2BCzo4gPzAFVe3RadahOSg.jpg",
+      "pub_date": "2026-05-31T03:12:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T04:51:42.272Z",
+      "created_at": "2026-05-31T04:51:42.272Z"
     }
   ]
 }
