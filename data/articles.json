@@ -206015,7 +206015,7 @@
         "erin brockovich"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T21:13:36.133Z",
       "created_at": "2026-05-31T21:13:36.133Z"
     },
@@ -206032,7 +206032,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T21:13:42.382Z",
       "created_at": "2026-05-31T21:13:42.382Z"
     },
@@ -206052,6 +206052,40 @@
       "priority": "hot",
       "fetchedAt": "2026-05-31T22:16:13.302Z",
       "created_at": "2026-05-31T22:16:13.302Z"
+    },
+    {
+      "id": 9899,
+      "source": "New Atlas",
+      "title_en": "10-oz octagonal trigger stove targets extreme backcountry conditions",
+      "description_en": "Finding the modern backpacking stove market unfit for its hard-charging, bushwhacking, peak-scrambling hunts, Colorado's Roughridge Stove Co. determined to make a tougher, more inextinguishable breed of all-in-one backcountry cook system. It reached for the lightest, toughest materials available and reconfigured a few critical specs to create a system that travels lightly, holds up to use after abuse, and works in all weather. It's the Highcountry stove, and it's built to work when and where you",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/outdoor-cooking/roughridge-highcountry-stove-system/",
+      "image_url": null,
+      "pub_date": "Sun, 31 May 2026 23:07:00 GMT",
+      "author": "C.C. Weiss",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T23:32:54.649Z",
+      "created_at": "2026-05-31T23:32:54.649Z"
+    },
+    {
+      "id": 9900,
+      "source": "AI Post (TG)",
+      "title_en": "🔥Humanoid sorters go on dutyAt the China Post Guangzhou Logistics Center,humanoid robots (RobotEra M7) are working on the sorting lines, automatically processing packages. Each humanoid can sort 1,20",
+      "description_en": "🔥Humanoid sorters go on dutyAt the China Post Guangzhou Logistics Center,humanoid robots (RobotEra M7) are working on the sorting lines, automatically processing packages. Each humanoid can sort 1,200 packages per hour, helping to ease the heavy pressure of order fulfillment. In 2025, Guangzhou handled approximately 22billion express parcels, ranking first among all Chinese cities.(just how many humanoid robots would that take?)In the \"first mile,\" humanoid robots are emerging as the primary wo",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7082",
+      "image_url": null,
+      "pub_date": "2026-05-31T23:04:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T23:32:57.286Z",
+      "created_at": "2026-05-31T23:32:57.286Z"
     }
   ]
 }
