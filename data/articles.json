@@ -205971,7 +205971,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T20:05:59.232Z",
       "created_at": "2026-05-31T20:05:59.232Z"
     },
@@ -205993,7 +205993,7 @@
         "Tutorials"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T20:07:45.640Z",
       "created_at": "2026-05-31T20:07:45.640Z"
     },
@@ -206035,6 +206035,23 @@
       "priority": "hot",
       "fetchedAt": "2026-05-31T21:13:42.382Z",
       "created_at": "2026-05-31T21:13:42.382Z"
+    },
+    {
+      "id": 9898,
+      "source": "New Atlas",
+      "title_en": "Review: Pocket phone thermal camera a big step up from its solid predecessor",
+      "description_en": "The latest compact smartphone camera from Thermal Master may look a fair bit like its earlier pocket-sized model we covered, but looks are deceiving – and the new P4 makes some pretty big advances that you'll see as soon as you plug it in.\nContinue Reading\nCategory: Consumer Tech, Technology\nTags: Consumer Electronics, Thermal Imaging, Artificial Intelligence, Digital imaging, Photography, Portable Video, Portable, Reviews",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/consumer-tech/review-smartphone-thermal-camera/",
+      "image_url": null,
+      "pub_date": "Sun, 31 May 2026 22:03:00 GMT",
+      "author": "Bronwyn Thompson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T22:16:13.302Z",
+      "created_at": "2026-05-31T22:16:13.302Z"
     }
   ]
 }
