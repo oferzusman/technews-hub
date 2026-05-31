@@ -205415,7 +205415,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T10:23:22.706Z",
       "created_at": "2026-05-31T10:23:22.706Z"
     },
@@ -205514,7 +205514,7 @@
         "syndication"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T11:53:54.689Z",
       "created_at": "2026-05-31T11:53:54.689Z"
     },
@@ -205558,6 +205558,26 @@
       "priority": "hot",
       "fetchedAt": "2026-05-31T11:53:57.615Z",
       "created_at": "2026-05-31T11:53:57.615Z"
+    },
+    {
+      "id": 9876,
+      "source": "Tom's Hardware",
+      "title_en": "Orpheus II ISA soundcard returns due to ‘popular demand’ — aimed at DOS and early Windows users, this card includes hardware to support every major audio standard",
+      "description_en": "Want real Sound Blaster, Gravis UltraSound, OPL3 FM synthesis, and MPU-401 MIDI support? You got it.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/sound-cards/orpheus-ii-isa-soundcard-returns-due-to-popular-demand-aimed-at-dos-and-early-windows-users-this-card-includes-hardware-to-support-every-major-audio-standard",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/48tSZiGWBQUjk2TY8UFabH-1280-80.jpg",
+      "pub_date": "Sun, 31 May 2026 12:00:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Sound Cards",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T12:01:55.713Z",
+      "created_at": "2026-05-31T12:01:55.713Z"
     }
   ]
 }
