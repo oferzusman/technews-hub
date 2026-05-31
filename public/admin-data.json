@@ -1,9 +1,9 @@
 {
-  "total": 9852,
+  "total": 9853,
   "translated": 8824,
-  "untranslated": 1028,
-  "today": 1,
-  "week": 618,
+  "untranslated": 1029,
+  "today": 2,
+  "week": 619,
   "sources": [
     {
       "name": "Product Hunt",
@@ -97,7 +97,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 246,
+      "total": 247,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-31T00:14:45.855Z"
+  "generatedAt": "2026-05-31T01:52:18.828Z"
 }
