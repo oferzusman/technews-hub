@@ -205474,7 +205474,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T11:14:57.466Z",
       "created_at": "2026-05-31T11:14:57.466Z"
     },
@@ -205491,7 +205491,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T11:15:03.074Z",
       "created_at": "2026-05-31T11:15:03.074Z"
     },
@@ -205534,7 +205534,7 @@
         "Artificial Intelligence"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T11:53:55.762Z",
       "created_at": "2026-05-31T11:53:55.762Z"
     },
@@ -205555,7 +205555,7 @@
         "GPUs"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T11:53:57.615Z",
       "created_at": "2026-05-31T11:53:57.615Z"
     },
@@ -205575,7 +205575,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T12:01:55.713Z",
       "created_at": "2026-05-31T12:01:55.713Z"
     },
@@ -205592,7 +205592,7 @@
       "author": "David Szondy",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T12:49:30.521Z",
       "created_at": "2026-05-31T12:49:30.521Z"
     },
@@ -205637,6 +205637,132 @@
       "priority": "hot",
       "fetchedAt": "2026-05-31T12:49:31.804Z",
       "created_at": "2026-05-31T12:49:31.804Z"
+    },
+    {
+      "id": 9880,
+      "source": "The Verge AI",
+      "title_en": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
+      "description_en": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers Bitcoin\" emblazoned across it. It claimed to be advertising a device called Gudtrip, and I thought everything about it sounded fake.\nSo I went looking for it. What I eventually found, after weeks of searching, dozens of emails, and a reporting effort that spanned continents, was somehow even dumber t",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
+      "image_url": null,
+      "pub_date": "2026-05-31T13:00:00.000Z",
+      "author": "Robert Hart",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T14:17:12.363Z",
+      "created_at": "2026-05-31T14:17:12.363Z"
+    },
+    {
+      "id": 9881,
+      "source": "The Guardian AI",
+      "title_en": "Our tech overlords are planning for conscious AI to conquer the cosmos. What could go wrong? | Eduardo Porter",
+      "description_en": "A new belief set is uniting some of the wealthiest men in the world around a ‘transhuman’ future – actual humanity be damned\nSam Altman, the chief executive of OpenAI, took to the Internet a few years ago to propose that homo sapiens would be the first species “to design our own descendants”. In his best case scenario, the “merge” between humans and artificial intelligence occurs at some point over the next 50 years. The alternative, where we remain simply human and the machines follow their own",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai",
+      "image_url": "https://i.guim.co.uk/img/media/dcb90867e1781366f118492c29268ef4c8fe1ef4/0_0_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=6e2ddd4c9f9c440aa82f0b54967de0be",
+      "pub_date": "Sun, 31 May 2026 13:00:49 GMT",
+      "author": "Eduardo Porter",
+      "categories": [
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "Sam Altman",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/sam-altman"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T14:17:14.504Z",
+      "created_at": "2026-05-31T14:17:14.504Z"
+    },
+    {
+      "id": 9882,
+      "source": "Tom's Hardware",
+      "title_en": "Lenovo Yoga Slim 7x review: Snapdragon X2 Elite makes its case",
+      "description_en": "The Yoga Slim 7x brings Snapdragon performance, long battery life, and an OLED display provided you’re fine with ARM apps and USB-C everything.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/laptops/lenovo-yoga-slim-7x-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/XA8Y2EgVwRo3W8qBb8M9xd-1280-80.jpg",
+      "pub_date": "Sun, 31 May 2026 13:56:36 +0000",
+      "author": " Charles Jefferies ",
+      "categories": [
+        "Laptops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T14:17:15.495Z",
+      "created_at": "2026-05-31T14:17:15.495Z"
+    },
+    {
+      "id": 9883,
+      "source": "Tom's Hardware",
+      "title_en": "Microsoft veteran recalls the last time Nvidia and Arm was the future of Windows — shares a video of ‘the first time Windows ran on Nvidia Tegra Arm’ from 2010",
+      "description_en": "Microsoft veteran Steven Sinofsky is here to remind folks that excitement about a new PC era fueled by Nvidia and Arm culminated in the Surface RT 16 years ago.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/microsoft-veteran-recalls-the-last-time-nvidia-and-arm-was-the-future-of-windows-shares-a-video-of-the-first-time-windows-ran-on-nvidia-tegra-arm-from-2010",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/cvw4Xco4QeGuyH9FTXtCGM-1280-80.jpg",
+      "pub_date": "Sun, 31 May 2026 13:05:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T14:17:15.495Z",
+      "created_at": "2026-05-31T14:17:15.495Z"
+    },
+    {
+      "id": 9884,
+      "source": "AI Post (TG)",
+      "title_en": "That's how programming feels nowadays.@aipost 🏴",
+      "description_en": "That's how programming feels nowadays.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7079",
+      "image_url": null,
+      "pub_date": "2026-05-31T12:50:33+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T14:17:21.809Z",
+      "created_at": "2026-05-31T14:17:21.809Z"
     }
   ]
 }
