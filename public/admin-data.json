@@ -1,9 +1,9 @@
 {
-  "total": 9872,
+  "total": 9875,
   "translated": 8824,
-  "untranslated": 1048,
-  "today": 21,
-  "week": 638,
+  "untranslated": 1051,
+  "today": 24,
+  "week": 641,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,7 +13,7 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 757,
+      "total": 758,
       "translated": 652,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
@@ -43,7 +43,7 @@
     },
     {
       "name": "Ars Technica",
-      "total": 438,
+      "total": 439,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 409,
+      "total": 410,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-31T11:16:11.360Z"
+  "generatedAt": "2026-05-31T11:54:57.983Z"
 }
