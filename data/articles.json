@@ -205613,7 +205613,7 @@
         "Cryptocurrency"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T12:49:31.804Z",
       "created_at": "2026-05-31T12:49:31.804Z"
     },
@@ -205760,9 +205760,28 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T14:17:21.809Z",
       "created_at": "2026-05-31T14:17:21.809Z"
+    },
+    {
+      "id": 9885,
+      "source": "Tom's Hardware",
+      "title_en": "SoftBank to spend up to $87 billion on French AI data centers — country offers ample nuclear grid that US sites lack",
+      "description_en": "SoftBank carries over $130 billion in debt and took a $40 billion bridge loan in March to fund its latest OpenAI investment.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/softbank-to-spend-up-to-75-billion-on-french-ai-data-centers",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/DWK343Hd4XaLdbBxt6uQAW-1280-80.jpg",
+      "pub_date": "Sun, 31 May 2026 14:48:09 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T14:54:50.663Z",
+      "created_at": "2026-05-31T14:54:50.663Z"
     }
   ]
 }
