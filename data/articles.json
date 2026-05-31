@@ -205352,7 +205352,7 @@
         "Anthropic"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T10:23:13.741Z",
       "created_at": "2026-05-31T10:23:13.741Z"
     },
@@ -205578,6 +205578,65 @@
       "priority": "hot",
       "fetchedAt": "2026-05-31T12:01:55.713Z",
       "created_at": "2026-05-31T12:01:55.713Z"
+    },
+    {
+      "id": 9877,
+      "source": "New Atlas",
+      "title_en": "Is SpaceX ushering in a new Space Age?",
+      "description_en": "SpaceX has once again set the record for flying the largest and most powerful rocket in history. It's also on the verge of launching more satellites than the rest of the world combined since Sputnik. Are we witnessing the beginning of a new Space Age?\nContinue Reading\nCategory: Space Systems, Engineering\nTags: SpaceX, Boeing, Rocket, Rocket Lab, Starlink, Starship, xxShowcase",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/space-systems/spacex-new-space-age/",
+      "image_url": null,
+      "pub_date": "Sun, 31 May 2026 12:03:00 GMT",
+      "author": "David Szondy",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T12:49:30.521Z",
+      "created_at": "2026-05-31T12:49:30.521Z"
+    },
+    {
+      "id": 9878,
+      "source": "Tom's Hardware",
+      "title_en": "New AI-compute cryptocurrency Pearl sparks a GPU mining rush but profitability is already sliding — RTX 5090 daily revenue has halved to $17.19 since April",
+      "description_en": "A new cryptocurrency called Pearl has set off a short-lived GPU mining rush.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cryptomining/new-ai-compute-cryptocurrency-pearl-sparks-a-gpu-mining-rush-but-profitability-is-sliding",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/YjX8TJVFkFDKzjssdLLNod-1280-80.png",
+      "pub_date": "Sun, 31 May 2026 12:40:00 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Cryptomining",
+        "Tech Industry",
+        "Cryptocurrency"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T12:49:31.804Z",
+      "created_at": "2026-05-31T12:49:31.804Z"
+    },
+    {
+      "id": 9879,
+      "source": "Tom's Hardware",
+      "title_en": "The 'ultimate mosquito killer' uses lasers and AI — custom model trained to detect and lock lasers on these pests",
+      "description_en": "A computer vision and robotics expert has created and trained what he boasts is “the ultimate mosquito killer” using machine learning and a laser.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/maker-stem/robot-kits/the-ultimate-mosquito-killer-uses-lasers-and-ai-custom-model-trained-to-detect-and-lock-lasers-on-these-pests",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/JpGBuXBBr3M6EkWbURBm6Y-1280-80.jpg",
+      "pub_date": "Sun, 31 May 2026 12:20:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Robot Kits",
+        "Maker and STEM",
+        "Microcontrollers"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T12:49:31.804Z",
+      "created_at": "2026-05-31T12:49:31.804Z"
     }
   ]
 }
