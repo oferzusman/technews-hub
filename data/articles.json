@@ -205296,7 +205296,7 @@
         "Softbank"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T09:20:43.904Z",
       "created_at": "2026-05-31T09:20:43.904Z"
     },
@@ -205330,7 +205330,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T09:20:52.999Z",
       "created_at": "2026-05-31T09:20:52.999Z"
     },
@@ -205398,7 +205398,7 @@
         "Tutorials"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T10:23:13.889Z",
       "created_at": "2026-05-31T10:23:13.889Z"
     },
@@ -205435,6 +205435,65 @@
       "priority": "hot",
       "fetchedAt": "2026-05-31T10:23:23.118Z",
       "created_at": "2026-05-31T10:23:23.118Z"
+    },
+    {
+      "id": 9871,
+      "source": "The Guardian AI",
+      "title_en": "Are ‘mind children’ the future of reproduction?",
+      "description_en": "Forget dirty nappies. In Silicon Valley, there’s increasing chatter about virtual offspring\nA few months ago, an AI researcher from Europe attended a dinner party in Silicon Valley. During one of the many courses, the host addressed his guests, all of whom worked in AI. The researcher paraphrased his message like this: “Isn’t it amazing that we are the last generation of humans who will need to think about procreating biologically? We were lucky enough to be born at a time where we can simply up",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/books/2026/may/31/are-mind-children-the-future-of-reproduction",
+      "image_url": "https://i.guim.co.uk/img/media/fc82a599828a27b706231490b4ed02e3d03cc2eb/0_415_1847_1477/master/1847.jpg?width=140&quality=85&auto=format&fit=max&s=8760563fb0bcb8ebe9785c945ad9d73d",
+      "pub_date": "Sun, 31 May 2026 11:00:47 GMT",
+      "author": "Laura Spinney",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Reproduction",
+          "$": {
+            "domain": "https://www.theguardian.com/science/reproduction"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Science",
+          "$": {
+            "domain": "https://www.theguardian.com/science/science"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T11:14:57.466Z",
+      "created_at": "2026-05-31T11:14:57.466Z"
+    },
+    {
+      "id": 9872,
+      "source": "Habr (TG)",
+      "title_en": "☀️ Летняя ИТ-афиша переворачивает всё вверх дном, миксуя хардкорную кибербезопасность с выездными антиконференциями.[5 июня, Краснодар] Альфа-Будущее Фест[16 июня, онлайн] Вебинар «Аутентификация в об",
+      "description_en": "☀️ Летняя ИТ-афиша переворачивает всё вверх дном, миксуя хардкорную кибербезопасность с выездными антиконференциями.[5 июня, Краснодар] Альфа-Будущее Фест[16 июня, онлайн] Вебинар «Аутентификация в облаке: почему ИБ против и как мы это исправили»[19 июня, Екатеринбург, онлайн] Конференция IT IS conf 2026 — живой диалог о будущем ИТ и ИБ[3-5 июля, Село Успенское] Летняя антиконференция Summer Merge[5 июля, Москва] Фестиваль RUNIT by AGIMA[16 июля, Москва] «Код человечности»: как измерить внимание",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/68768",
+      "image_url": "https://cdn4.telesco.pe/file/ftOI5tkgQ-DLUNQXq8WQ0fEUgXahNWbHkPbY7hsRl59OpkxenCtnri453WmLO8Y_dq8nYxDwrvea9Vr-zL-__r7uKzEtMr3KLSKEKHG5Wve1hz6XQUGrkKGF8son0Y1rj5Ns-Ze_iMRen3J7j4LQmuUsfGu9RWoML3Nkq9OvZr3pq0HdNmq1MQMafoUjnujWnjRNFN4efAUg0PxiKFsYnC2SHvT91I6E2srajiOhfAOYcwWGlfPvhWLatHijq2THt-JycVR-dU5lmLYeeW2CQBSiMlRKfxuc4GZWbNTdcuXr6kqtepi2KwF1UFeiwLtCIR0Fb8hjYkvBYtuAE_HY-Q.jpg",
+      "pub_date": "2026-05-31T11:01:31+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T11:15:03.074Z",
+      "created_at": "2026-05-31T11:15:03.074Z"
     }
   ]
 }
