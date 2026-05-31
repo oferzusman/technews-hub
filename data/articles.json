@@ -205724,7 +205724,7 @@
         "Laptops"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T14:17:15.495Z",
       "created_at": "2026-05-31T14:17:15.495Z"
     },
@@ -205779,7 +205779,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T14:54:50.663Z",
       "created_at": "2026-05-31T14:54:50.663Z"
     },
@@ -205903,6 +205903,43 @@
       "priority": "hot",
       "fetchedAt": "2026-05-31T15:47:54.544Z",
       "created_at": "2026-05-31T15:47:54.544Z"
+    },
+    {
+      "id": 9891,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia's long-awaited N1/N1X SoC specs leak ahead of Computex launch — N1 to feature up to 20 Arm-based cores, standard N1 equipped with 12- and 10-core configs",
+      "description_en": "The N1X reportedly comes in two SKUs: a top-end 20-core option with 6,144 CUDA cores matching the desktop RTX 5070, and a cut-down 18-core option with 5,120 CUDA cores. The standard N1 also has two configs, one with a 12-core CPU and 2,560 CUDA cores and a 10-core model with 2,048 CUDA cores.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/nvidias-long-awaited-n1-n1x-soc-specs-leak-ahead-of-computex-launch-n1-to-feature-up-to-20-arm-based-cores-standard-n1-equipped-with-12-and-10-core-configs",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/BTBLXoJ6tF2ZZnoNuABN2F-1280-80.jpg",
+      "pub_date": "Sun, 31 May 2026 15:47:07 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T16:48:47.474Z",
+      "created_at": "2026-05-31T16:48:47.474Z"
+    },
+    {
+      "id": 9892,
+      "source": "AI Post (TG)",
+      "title_en": "🗣Terence Tao: \"We lived in a world with cognitive friction until very recently, where every task required us to use our brain. So we didn't really think about it, we just thought this was the cost of",
+      "description_en": "🗣Terence Tao: \"We lived in a world with cognitive friction until very recently, where every task required us to use our brain. So we didn't really think about it, we just thought this was the cost of doing something intellectual. But now we have AI and the other technologies that can bring these frictions down to zero.\"Most research time is not spent having cinematic insights. It is spent checking cases, chasing references, translating intuition into computation, testing a path, finding it fals",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7080",
+      "image_url": null,
+      "pub_date": "2026-05-31T16:43:52+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T16:48:49.410Z",
+      "created_at": "2026-05-31T16:48:49.410Z"
     }
   ]
 }
