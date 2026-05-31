@@ -1,9 +1,9 @@
 {
-  "total": 9865,
+  "total": 9870,
   "translated": 8824,
-  "untranslated": 1041,
-  "today": 14,
-  "week": 631,
+  "untranslated": 1046,
+  "today": 19,
+  "week": 636,
   "sources": [
     {
       "name": "Product Hunt",
@@ -55,7 +55,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 407,
+      "total": 409,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -91,13 +91,13 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 258,
+      "total": 259,
       "translated": 168,
-      "lastDate": "2026-05-31T06:36:01+00:00"
+      "lastDate": "2026-05-31T09:58:12+00:00"
     },
     {
       "name": "MarkTechPost",
-      "total": 248,
+      "total": 249,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -211,9 +211,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 27,
+      "total": 28,
       "translated": 23,
-      "lastDate": "2026-05-31T09:06:10+00:00"
+      "lastDate": "2026-05-31T09:22:50+00:00"
     },
     {
       "name": "Financial Post",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-31T09:27:50.761Z"
+  "generatedAt": "2026-05-31T10:26:13.686Z"
 }
