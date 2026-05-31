@@ -1,13 +1,13 @@
 {
-  "total": 9855,
+  "total": 9862,
   "translated": 8824,
-  "untranslated": 1031,
-  "today": 4,
-  "week": 621,
+  "untranslated": 1038,
+  "today": 11,
+  "week": 628,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 994,
+      "total": 995,
       "translated": 968,
       "lastDate": "2026-05-28T15:00:52.000Z"
     },
@@ -49,13 +49,13 @@
     },
     {
       "name": "New Atlas",
-      "total": 418,
+      "total": 419,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "The Decoder",
-      "total": 405,
+      "total": 406,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -91,9 +91,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 256,
+      "total": 258,
       "translated": 168,
-      "lastDate": "2026-05-31T03:12:01+00:00"
+      "lastDate": "2026-05-31T06:36:01+00:00"
     },
     {
       "name": "MarkTechPost",
@@ -103,9 +103,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 189,
+      "total": 190,
       "translated": 119,
-      "lastDate": "2026-05-30T21:05:07+00:00"
+      "lastDate": "2026-05-31T07:47:02+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -199,9 +199,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 33,
+      "total": 34,
       "translated": 29,
-      "lastDate": "2026-05-30T12:58:57+00:00"
+      "lastDate": "2026-05-31T07:05:44+00:00"
     },
     {
       "name": "pymnts.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-05-31T06:15:24.424Z"
+  "generatedAt": "2026-05-31T08:11:32.029Z"
 }
