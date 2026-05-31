@@ -205651,7 +205651,7 @@
       "author": "Robert Hart",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T14:17:12.363Z",
       "created_at": "2026-05-31T14:17:12.363Z"
     },
@@ -205705,7 +205705,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T14:17:14.504Z",
       "created_at": "2026-05-31T14:17:14.504Z"
     },
@@ -205743,7 +205743,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T14:17:15.495Z",
       "created_at": "2026-05-31T14:17:15.495Z"
     },
@@ -205782,6 +205782,127 @@
       "priority": "hot",
       "fetchedAt": "2026-05-31T14:54:50.663Z",
       "created_at": "2026-05-31T14:54:50.663Z"
+    },
+    {
+      "id": 9886,
+      "source": "TechCrunch AI",
+      "title_en": "Making sense of the debate over AI psychosis",
+      "description_en": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "image_url": null,
+      "pub_date": "Sun, 31 May 2026 15:30:00 +0000",
+      "author": "Anthony Ha",
+      "categories": [
+        "Startups",
+        "AI",
+        "Google",
+        "Aaron Levie",
+        "DuckDuckGo",
+        "Equity podcast",
+        "ai psychosis"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T15:47:47.401Z",
+      "created_at": "2026-05-31T15:47:47.401Z"
+    },
+    {
+      "id": 9887,
+      "source": "New Atlas",
+      "title_en": "Compact tiny house hits sweet spot between size and features",
+      "description_en": "The Tommy is a much more capable tiny house than its compact size implies. With a length of just 7.2 m (23.6 ft), it sleeps up to six people and also has some notable features, including a space-saving folding staircase and optional off-grid operation.\nContinue Reading\nCategory: Tiny Houses, Outdoors\nTags: Building and Construction, Tiny Footprint, Micro-House, House, Home",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/tiny-houses/tommy-craft-house/",
+      "image_url": null,
+      "pub_date": "Sun, 31 May 2026 15:03:00 GMT",
+      "author": "Adam Williams",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T15:47:49.506Z",
+      "created_at": "2026-05-31T15:47:49.506Z"
+    },
+    {
+      "id": 9888,
+      "source": "The Guardian AI",
+      "title_en": "This model is not a real person: how AI is shaking up fashion – video",
+      "description_en": "From digital twins to models ‘sculpted’ by programmers, generative AI has been popping up all over the fashion industry. When an Australian e-commerce retailer started using AI-generated models to sell products, lifestyle editor Alyx Gorman had to see if the garments were more than mere pixels.\n\nThe Iconic, which sells the dress worn in this video, said in a statement: ‘Where AI-generated imagery is used to advertise products for sale on our platform, our expectation is that it is clearly labell",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/fashion/video/2026/jun/01/how-ai-is-shaking-up-fashion-video",
+      "image_url": "https://i.guim.co.uk/img/media/9eb0b6765b917b1edd413ad9d56b248c91d8641a/964_0_4556_3647/master/4556.jpg?width=140&quality=85&auto=format&fit=max&s=a11e1bb86038dac3b635e11d1ce10dd3",
+      "pub_date": "Sun, 31 May 2026 15:00:51 GMT",
+      "author": "Presented by Alyx Gorman, produced by Bertin Huynh, Rafqa Touma and Matilda Boseley . The executive producers are Stephen Byrne and Molly Glassey",
+      "categories": [
+        {
+          "_": "Fashion",
+          "$": {
+            "domain": "https://www.theguardian.com/fashion/fashion"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Australian fashion",
+          "$": {
+            "domain": "https://www.theguardian.com/fashion/australia-fashion"
+          }
+        },
+        {
+          "_": "Australian lifestyle",
+          "$": {
+            "domain": "https://www.theguardian.com/lifeandstyle/australian-lifestyle"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T15:47:49.875Z",
+      "created_at": "2026-05-31T15:47:49.875Z"
+    },
+    {
+      "id": 9889,
+      "source": "Tom's Hardware",
+      "title_en": "Core i7-14700F gaming PC with RTX 5060, 32GB of RAM, and 1TB of storage gets $470 discount — Newegg's ABS Cyclone Aqua prebuilt is $1,329 with code",
+      "description_en": "Newegg's ABS Cyclone Aqua prebuilt combines Intel's 20-core Core i7-14700F with Nvidia's RTX 5060, and 32GB of DDR5 memory for less than the cost of building a comparable system",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/core-i7-14700f-gaming-pc-with-rtx-5060-32gb-of-ram-and-1tb-of-storage-gets-usd470-discount-neweggs-abs-cyclone-aqua-prebuilt-is-usd1-329-with-code",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/SJREsDNwD3HY3nFQ9B6i7J-1280-80.jpg",
+      "pub_date": "Sun, 31 May 2026 15:01:35 +0000",
+      "author": " Kunal Khullar ",
+      "categories": [
+        "Gaming PCs",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T15:47:51.885Z",
+      "created_at": "2026-05-31T15:47:51.885Z"
+    },
+    {
+      "id": 9890,
+      "source": "Hi, AI English (TG)",
+      "title_en": "💼 There Will Be No \"AI Apocalypse\" in the Labor MarketThis week, OpenAI CEO Sam Altman admitted that he was \"delighted to ⁠be wrong\" in his predictions about AI's impact on the labor market and job c",
+      "description_en": "💼 There Will Be No \"AI Apocalypse\" in the Labor MarketThis week, OpenAI CEO Sam Altman admitted that he was \"delighted to ⁠be wrong\" in his predictions about AI's impact on the labor market and job cuts.According to him, AI has had much less impact on the labor market so far than he expected. In practice, people simply like working with people, and AI still cannot replace the \"human\" part of work.At the same time, Altman also notes that the risks to many jobs from AI are indeed real.Will AI hav",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2549",
+      "image_url": "https://cdn4.telesco.pe/file/CGxPz42oa-YywjSeMLI_2Ij-dRdjBWfvEULm05InzdXHuGYaAhPXcK-WnJGJAm5ZrTQsOZ4BAXBv9Q0Qw9yu5WNCm6FbVyjLTgyM27oY0XfkijmQLSGlTcDVeLUqdl6RiJe7ZipM8F8k_NIbN2RKBkbGDbE4Z_dCN7xQaY1fUiJ9rgMVKfmujs1_hbWEPFhNx83SODWpODP-DH0ke71CX-V5x9O53w0RBdgxPhJj-elG8ZEZrj1xffu6Nvecd9l_cyrPWMdViKnL7qHgncgMccgrHQBtZPnWUVNxE2wJh6hBtpDyX5oav2W5PYlO3Dpjzb9MMuJaOlsnCcz3hRbb3A.jpg",
+      "pub_date": "2026-05-31T15:40:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T15:47:54.544Z",
+      "created_at": "2026-05-31T15:47:54.544Z"
     }
   ]
 }
