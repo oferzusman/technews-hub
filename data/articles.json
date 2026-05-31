@@ -205241,7 +205241,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T08:08:40.264Z",
       "created_at": "2026-05-31T08:08:40.264Z"
     },
@@ -205258,7 +205258,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T08:08:40.264Z",
       "created_at": "2026-05-31T08:08:40.264Z"
     },
@@ -205275,9 +205275,64 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T08:08:40.286Z",
       "created_at": "2026-05-31T08:08:40.286Z"
+    },
+    {
+      "id": 9863,
+      "source": "The Decoder",
+      "title_en": "SoftBank plans 75 billion euro AI data center buildout in France",
+      "description_en": "SoftBank plans to build AI data centers with up to 5 gigawatts of capacity in France, the company's largest AI infrastructure investment in Europe, at up to 75 billion euros. By 2031, facilities worth 45 billion euros are set to go up at three sites in northern France. SoftBank's mega announcements keep stacking up worldwide, but many projects have yet to materialize.\nThe article SoftBank plans 75 billion euro AI data center buildout in France appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/softbank-plans-75-billion-euro-ai-data-center-buildout-in-france/",
+      "image_url": null,
+      "pub_date": "Sun, 31 May 2026 08:45:46 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Softbank"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T09:20:43.904Z",
+      "created_at": "2026-05-31T09:20:43.904Z"
+    },
+    {
+      "id": 9864,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "💼 «ИИ-апокалипсиса» на рынке труда не будет?На этой неделе CEO OpenAI Сэм Альтман признал, что «рад ошибаться» в прогнозах о влиянии ИИ на рынок труда и сокращения.По его словам, на сегодня ИИ горазд",
+      "description_en": "💼 «ИИ-апокалипсиса» на рынке труда не будет?На этой неделе CEO OpenAI Сэм Альтман признал, что «рад ошибаться» в прогнозах о влиянии ИИ на рынок труда и сокращения.По его словам, на сегодня ИИ гораздо меньше повлиял на рынок труда, чем он ожидал. На деле, людям просто нравится работать с людьми — и ИИ пока не может заменить «человеческую» часть в работе.Впрочем, Альтман также оговаривается, что в целом риски для многих рабочих мест от ИИ действительно реальные.ИИ сильно повлияет на рынок труда?",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3256",
+      "image_url": "https://cdn4.telesco.pe/file/iqNFQM0F6Ps4XP2kyOTKMH-nmTeAPZYDDCkEnB7DKPhXQb_TebcW2VuPsn4puJ2ccZtGEbvlNmG0ujema51jdB7Ze1k0tTx9U333oAKyQmUXou0t_h9Fbmr0D4GqKh3pAoErifJ5QThQOGaNx8rMKLSxaQtY652CKFqQO3n09zGgsFcT6GiNwVtbsRLAEQMVd2jHZlGZnmXSQ_ULXCz2F_YCNBPhfOab8BDCFgBQ8TCyk8XpVdhmIDCYOxeKgxU2jvH46-ufdWFP2DYT5CQ7o-sZtNq8PrineKs2gk79H2DyC4JQf5HaMcxSxgE03N3GoMUk3N6eJXj5TLOuDomuOg.jpg",
+      "pub_date": "2026-05-31T08:21:55+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T09:20:52.458Z",
+      "created_at": "2026-05-31T09:20:52.458Z"
+    },
+    {
+      "id": 9865,
+      "source": "Prompt AI News (TG)",
+      "title_en": "⚡️ Beijing's Booster Robotics is quietly becoming the platform that runs robot soccerEach team runs fully autonomously, driven by AI, with zero human intervention. The slapstick hides real tech.Booste",
+      "description_en": "⚡️ Beijing's Booster Robotics is quietly becoming the platform that runs robot soccerEach team runs fully autonomously, driven by AI, with zero human intervention. The slapstick hides real tech.Booster's T1 robots trot, tackle, shoot, and defend entirely on their own. Teams bolt their own AI models on top of Booster's hardware, making it the Android of humanoid robotics.China isn't just building robots. It's building the platform everyone else runs on.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/160",
+      "image_url": null,
+      "pub_date": "2026-05-31T09:06:10+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-05-31T09:20:52.999Z",
+      "created_at": "2026-05-31T09:20:52.999Z"
     }
   ]
 }
