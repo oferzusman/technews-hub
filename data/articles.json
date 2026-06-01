@@ -206103,7 +206103,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T00:13:01.279Z",
       "created_at": "2026-06-01T00:13:01.279Z"
     },
@@ -206139,9 +206139,46 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T01:56:57.163Z",
       "created_at": "2026-06-01T01:56:57.163Z"
+    },
+    {
+      "id": 9904,
+      "source": "Tom's Hardware",
+      "title_en": "AMD’s formerly China-exclusive Radeon RX 9070 GRE goes global for $549 on June 2 — RDNA 4 GPU will bridge the gap between RX 9060 XT and RX 9070",
+      "description_en": "AMD has officially launched the Radeon RX 9070 GRE for $549, an RDNA 4 graphics card that was previously exclusive to the Chinese market.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/amds-formerly-china-exclusive-radeon-rx-9070-gre-goes-global-for-usd549-on-june-2-rdna-4-gpu-will-bridge-the-gap-between-rx-9060-xt-and-rx-9070",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/jnq9Gbw6TNh7CugEU2Q7rH-1280-80.jpg",
+      "pub_date": "Mon, 01 Jun 2026 02:00:21 +0000",
+      "author": " Zhiye Liu ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T02:33:17.330Z",
+      "created_at": "2026-06-01T02:33:17.330Z"
+    },
+    {
+      "id": 9905,
+      "source": "AI Post (TG)",
+      "title_en": "❗️Hollywood might be facing its biggest disruption since CGI.A film called Dreams of Violets is set to become the first fully AI-generated movie to premiere at a major festival. It reportedly cost jus",
+      "description_en": "❗️Hollywood might be facing its biggest disruption since CGI.A film called Dreams of Violets is set to become the first fully AI-generated movie to premiere at a major festival. It reportedly cost just $2,000 and took two months to make. A similar film made the traditional way could have cost $2–5 million and required a large cast and crew.Meanwhile, Amazon MGM Studios has started experimenting with AI-animated shows, though one project reportedly backed out after public backlash. That’s the big",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7083",
+      "image_url": null,
+      "pub_date": "2026-06-01T02:11:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T02:33:23.350Z",
+      "created_at": "2026-06-01T02:33:23.350Z"
     }
   ]
 }
