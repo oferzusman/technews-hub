@@ -206978,7 +206978,7 @@
         "Paul Erdos"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T12:44:35.057Z",
       "created_at": "2026-06-01T12:44:35.057Z"
     },
@@ -207090,7 +207090,7 @@
       "author": "Atharva Gosavi",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T12:44:38.102Z",
       "created_at": "2026-06-01T12:44:38.102Z"
     },
@@ -207328,6 +207328,59 @@
       "priority": "hot",
       "fetchedAt": "2026-06-01T12:44:45.003Z",
       "created_at": "2026-06-01T12:44:45.003Z"
+    },
+    {
+      "id": 9958,
+      "source": "Interesting Engineering",
+      "title_en": "NVIDIA unveils ‘world’s most powerful’ deskside AI supercomputer for Windows",
+      "description_en": "NVIDIA has unveiled its DGX Station, which lets users develop and run artificial intelligence (AI)...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/nvidia-dgx-station-1-trillion-parameter-ai-workflows-windows",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 13:14:17 +0000",
+      "author": "Ameya Paleja",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T13:17:22.200Z",
+      "created_at": "2026-06-01T13:17:22.200Z"
+    },
+    {
+      "id": 9959,
+      "source": "Interesting Engineering",
+      "title_en": "Battlefield robot trials in Ukraine highlight Phantom MK-1 humanoid’s current limits",
+      "description_en": "The trial deployment of humanoid robot soldiers in Ukraine has highlighted both the promise and...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/humanoid-robot-battlefield-ukraine",
+      "image_url": "https://www.youtube.com/embed/dKzbRMuu77w",
+      "pub_date": "Mon, 01 Jun 2026 13:10:27 +0000",
+      "author": "Jijo Malayil",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T13:17:22.200Z",
+      "created_at": "2026-06-01T13:17:22.200Z"
+    },
+    {
+      "id": 9960,
+      "source": "Tom's Hardware",
+      "title_en": "Tom's Hardware Unfiltered: Computex 2026, Day 0 — peek behind the curtain to see how we're covering the biggest trade show of the year",
+      "description_en": "Our team is on the ground in Taipei for Computex 2026. For the first time, we're peeling back the curtain to show you exactly how we're covering it, documenting our trials and tribulations during the massive event.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/toms-hardware-unfiltered-computex-2026-day-0-peek-behind-the-curtain-to-see-how-were-covering-the-biggest-trade-show-of-the-year",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Ry788pRrUnguJ2QeA7RWwM-1280-80.jpg",
+      "pub_date": "Mon, 01 Jun 2026 13:00:00 +0000",
+      "author": " Paul Alcorn ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T13:17:22.839Z",
+      "created_at": "2026-06-01T13:17:22.839Z"
     }
   ]
 }
