@@ -1,9 +1,9 @@
 {
-  "total": 10041,
+  "total": 10043,
   "translated": 8824,
-  "untranslated": 1217,
-  "today": 141,
-  "week": 737,
+  "untranslated": 1219,
+  "today": 143,
+  "week": 739,
   "sources": [
     {
       "name": "Product Hunt",
@@ -43,13 +43,13 @@
     },
     {
       "name": "Ars Technica",
-      "total": 447,
+      "total": 448,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 427,
+      "total": 428,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-01T23:03:44.418Z"
+  "generatedAt": "2026-06-01T23:53:02.122Z"
 }
