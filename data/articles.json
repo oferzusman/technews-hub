@@ -206120,7 +206120,7 @@
       "author": "Bridget Borgobello",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T01:56:56.058Z",
       "created_at": "2026-06-01T01:56:56.058Z"
     },
@@ -206159,7 +206159,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T02:33:17.330Z",
       "created_at": "2026-06-01T02:33:17.330Z"
     },
@@ -206176,9 +206176,359 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T02:33:23.350Z",
       "created_at": "2026-06-01T02:33:23.350Z"
+    },
+    {
+      "id": 9906,
+      "source": "Hugging Face Blog",
+      "title_en": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 04:44:55 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T05:25:20.441Z",
+      "created_at": "2026-06-01T05:25:20.441Z"
+    },
+    {
+      "id": 9907,
+      "source": "MarkTechPost",
+      "title_en": "Parallax: A Parameterized Local Linear Attention That Keeps Softmax and Adds a Learned Covariance Correction Branch",
+      "description_en": "Parallax replaces LLA's per-query solver with a learned projector, doubling arithmetic intensity and improving perplexity at 0.6B and 1.7B.\nThe post Parallax: A Parameterized Local Linear Attention That Keeps Softmax and Adds a Learned Covariance Correction Branch appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/05/31/parallax-a-parameterized-local-linear-attention-that-keeps-softmax-and-adds-a-learned-covariance-correction-branch/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-31-at-9.27.43-PM-1.png",
+      "pub_date": "Mon, 01 Jun 2026 04:36:49 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Machine Learning",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T05:25:20.595Z",
+      "created_at": "2026-06-01T05:25:20.595Z"
+    },
+    {
+      "id": 9908,
+      "source": "The Guardian AI",
+      "title_en": "AI is devoid of meaning and humanity. That’s why its vapid voice suits this political moment | Nesrine Malik",
+      "description_en": "For ease and speed, we are degrading our ability to connect and to organise our societies. We must assert our trust in humans over machines\nHere is a nightmare scenario for you. You are writing a book about how AI reshapes reality. You start using it as a research partner, confident that you are applying the right hygiene by not letting it actually write a sentence of the book. You think you’ll be careful, you will double check everything. And then your book comes out and it appears that it incl",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/jun/01/ai-meaning-humanity-political-moment-trust-humans-over-machines",
+      "image_url": "https://i.guim.co.uk/img/media/5828f141ed625a11cdb993acab9ee307fe55972b/4_0_2437_1949/master/2437.jpg?width=140&quality=85&auto=format&fit=max&s=ddaa6f594666ad796fcfb38c2d06bb4a",
+      "pub_date": "Mon, 01 Jun 2026 05:00:09 GMT",
+      "author": "Nesrine Malik",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Creative writing",
+          "$": {
+            "domain": "https://www.theguardian.com/books/creative-writing"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Keir Starmer",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/keir-starmer"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Books",
+          "$": {
+            "domain": "https://www.theguardian.com/books/books"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T05:25:21.330Z",
+      "created_at": "2026-06-01T05:25:21.330Z"
+    },
+    {
+      "id": 9909,
+      "source": "The Guardian AI",
+      "title_en": "Charities decry UK plan to use AI to assess age of young asylum seekers",
+      "description_en": "Coalition of more than 100 organisations says move could lead to more children ending up in adult detention facilities\nA coalition of more than a hundred refugee children’s organisations has said controversial plans to use AI to assess the age of young asylum seekers could lead to more children wrongly ending up in adult prisons or detention centres.\nThe warning follows a Home Office announcement on Friday of a contract to roll out AI facial age estimation technology on young asylum seekers whos",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/uk-news/2026/jun/01/charities-decry-uk-plan-to-use-ai-to-assess-age-of-young-asylum-seekers",
+      "image_url": "https://i.guim.co.uk/img/media/c3631d6aa5ecaac3fd446659bf42886de8c8abfa/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=caa201199580edd707419d4af70537aa",
+      "pub_date": "Mon, 01 Jun 2026 05:00:08 GMT",
+      "author": "Diane Taylor",
+      "categories": [
+        {
+          "_": "Immigration and asylum",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/immigration"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Home Office",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/home-office"
+          }
+        },
+        {
+          "_": "Young people",
+          "$": {
+            "domain": "https://www.theguardian.com/society/youngpeople"
+          }
+        },
+        {
+          "_": "Children",
+          "$": {
+            "domain": "https://www.theguardian.com/society/children"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "Society",
+          "$": {
+            "domain": "https://www.theguardian.com/society/society"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T05:25:21.330Z",
+      "created_at": "2026-06-01T05:25:21.330Z"
+    },
+    {
+      "id": 9910,
+      "source": "Interesting Engineering",
+      "title_en": "US scientists use machine learning to generate electrolyte formulations for next-gen batteries",
+      "description_en": "Electrolytes used in batteries are far from simple compounds; they are carefully balanced mixtures of...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/ai-generates-battery-electrolyte-systems",
+      "image_url": "https://www.youtube.com/embed/GoiECSXOvQE",
+      "pub_date": "Mon, 01 Jun 2026 02:44:36 +0000",
+      "author": "Bojan Stojkovski",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-01T05:25:22.101Z",
+      "created_at": "2026-06-01T05:25:22.101Z"
+    },
+    {
+      "id": 9911,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia unveils RTX Spark Superchip for laptops and desktop PCs at Computex 2026 – new platform promises to turn Windows into an agentic AI OS with Arm CPU, Blackwell GPU, and 128GB unified memory",
+      "description_en": "At Computex 2026, Nvidia CEO Jensen Huang unveiled the RTX Spark Superchip, a new Arm laptop and desktop platform that powers agentic AI on Windows with a 20-core Arm CPU, powerful 6144-CUDA-core Blackwell GPU, and up to 128 GB of local memory.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/laptops/nvidia-unveils-rtx-spark-superchip-at-computex-2026-new-platform-promises-to-turn-windows-into-an-agentic-ai-os-with-arm-cpu-blackwell-gpu-and-128gb-unified-memory",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/zJJHTzdkSwJptkeprCr2j3-1280-80.jpg",
+      "pub_date": "Mon, 01 Jun 2026 04:52:13 +0000",
+      "author": " Jeffrey Kampman ",
+      "categories": [
+        "Laptops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T05:25:22.584Z",
+      "created_at": "2026-06-01T05:25:22.584Z"
+    },
+    {
+      "id": 9912,
+      "source": "Tom's Hardware",
+      "title_en": "Intel Xeon 7 ‘Diamond Rapids’ CPUs officially launching in 2027 on Intel 18A-P — next-gen P-core Xeon features PCIe 6.0, 50% higher core counts, and twice the memory bandwidth",
+      "description_en": "Intel has officially confirmed its next-gen Xeon 7 Diamond Rapids CPUs are coming in 2027, featuring 50% higher core counts and twice the memory bandwidth of Xeon 6 in a bid to compete against AMD’s upcoming EPYC Venice CPUs.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-xeon-7-diamond-rapids-cpus-officially-launching-in-2027-on-intel-18a-p-next-gen-p-core-xeon-features-pcie-6-0-50-percent-higher-core-counts-and-twice-the-memory-bandwidth",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ahhn4jSgJG4vyoYRpPAEcF-1280-80.jpg",
+      "pub_date": "Mon, 01 Jun 2026 03:00:00 +0000",
+      "author": " Jake Roach ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-01T05:25:22.584Z",
+      "created_at": "2026-06-01T05:25:22.584Z"
+    },
+    {
+      "id": 9913,
+      "source": "Tom's Hardware",
+      "title_en": "Intel details long-awaited Crescent Island AI GPU at Computex, boasts up to 480 GB of LPDDR5X to combat memory shortages — company shares more details of its Xe3P inference accelerator at Computex",
+      "description_en": "Intel revealed more details of its next-gen Data Center GPU, code-named Crescent Island, at Computex 2026. This inference-optimized chip will feature up to 480GB of LPDDR5X memory for efficient handling of massive AI contexts.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/intel-details-long-awaited-crescent-island-ai-gpu-at-computex-boasts-up-to-480-gb-of-lpddr5x-to-combat-memory-shortages-company-shares-more-details-of-its-xe3p-inference-accelerator-at-computex",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/EHBDowzSyUhefjVDkxcdH6-1280-80.jpg",
+      "pub_date": "Mon, 01 Jun 2026 03:00:00 +0000",
+      "author": " Jeffrey Kampman ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-01T05:25:22.585Z",
+      "created_at": "2026-06-01T05:25:22.585Z"
+    },
+    {
+      "id": 9914,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia picks Unitree for humanoid robot platform as Chinese startup eyes IPO",
+      "description_en": "The U.S. chipmaker's first publicly available humanoid robotics system will use humanoids from Chinese startup Unitree.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/01/nvidia-unitree-humanoid-robotics-system-researchers.html",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 05:04:24 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T05:25:22.617Z",
+      "created_at": "2026-06-01T05:25:22.617Z"
+    },
+    {
+      "id": 9915,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia-backed $5 billion AI company tells CNBC it's launching major expansion in London",
+      "description_en": "Runway follows U.S. AI giants including Anthropic and OpenAI in announcing big London growth plans.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/01/nvidia-backed-runway-london-expansion.html",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 05:00:02 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T05:25:22.617Z",
+      "created_at": "2026-06-01T05:25:22.617Z"
+    },
+    {
+      "id": 9916,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia jumps into PCs with new Arm-based chip debuting in laptops from Microsoft, Dell, HP",
+      "description_en": "Nvidia CEO Jensen Huang unveiled a long-awaited Arm-based PC chip, breaking into PCs for the first time on new laptops by Dell, Microsoft, HP, ASUS and others.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/05/31/nvidias-new-chip-to-power-fresh-line-of-windows-laptops-by-dell-hp.html",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 05:04:49 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T05:25:22.617Z",
+      "created_at": "2026-06-01T05:25:22.617Z"
+    },
+    {
+      "id": 9917,
+      "source": "AI Post (TG)",
+      "title_en": "⚠️ TikTok's new 'Allow AI to Remix Content' feature is a nightmare for creatorsThey rolled it out quietly as the new default on all posts, and the best part? There's no way to turn it off for your who",
+      "description_en": "⚠️ TikTok's new 'Allow AI to Remix Content' feature is a nightmare for creatorsThey rolled it out quietly as the new default on all posts, and the best part? There's no way to turn it off for your whole account; you have to opt out on each individual post.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7084",
+      "image_url": null,
+      "pub_date": "2026-06-01T05:17:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T05:25:24.140Z",
+      "created_at": "2026-06-01T05:25:24.140Z"
+    },
+    {
+      "id": 9918,
+      "source": "Data Science ODS.ai (TG)",
+      "title_en": "✔️ MiniMax представила M3 - новую open-weights модель для кода, агентов и мультимодальных задач.Одна модель, чтобы работать в как агент, держать длинный контекст (1M) и понимать разные типы модальност",
+      "description_en": "✔️ MiniMax представила M3 - новую open-weights модель для кода, агентов и мультимодальных задач.Одна модель, чтобы работать в как агент, держать длинный контекст (1M) и понимать разные типы модальностей.Бенчмарки- 59.0% на SWE-Bench Pro- 66.0% на Terminal Bench 2.1- 34.8% на SWE-fficiency- 28.8% на KernelBench Hard- 74.2% на MCP Atlas- контекст до 1M токенов за счёт MiniMax Sparse Attention- нативная мультимодальность Отдельно запустили MiniMax Code - среду для работы с кодом на базе новой модел",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/opendatascience/3315",
+      "image_url": "https://cdn4.telesco.pe/file/KlJ6fwpP30rnu0ZMbml1f9O1sztC1_f63Fv39nT9mJFhFKCisn2ypSW_rTX3R3Y4cyUoSnRZ59VyflSdnKTbY99Rxx2IOawk6VziHPSC6wB_b2kmEd4q8q9J5TbfyOB-JFeG4qvb_viyoz2jkZZOcG7AeGea9fut_SlySCaa4nXDuwZ65rhWnr80YoKPBAnaLrk6FSuiPNb06PyOQxh4-X6NSBS7OR8kpXNRDL1ouuWcsFjWUcUwt4gT28TdUwDrtxV3OOhStglaeEFKdcyQXqVrG53gJSzlHDGIAwcvD9Bkrq5JG6tjKeGPhWE2dXiDI20p39Y1x4X6_WL2GKWgDA.jpg",
+      "pub_date": "2026-06-01T04:22:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T05:25:24.199Z",
+      "created_at": "2026-06-01T05:25:24.199Z"
     }
   ]
 }
