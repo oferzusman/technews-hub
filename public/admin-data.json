@@ -1,9 +1,9 @@
 {
-  "total": 10012,
+  "total": 10028,
   "translated": 8824,
-  "untranslated": 1188,
-  "today": 112,
-  "week": 708,
+  "untranslated": 1204,
+  "today": 128,
+  "week": 724,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,19 +19,19 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 744,
+      "total": 745,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 543,
+      "total": 545,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 479,
+      "total": 480,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -43,7 +43,7 @@
     },
     {
       "name": "Ars Technica",
-      "total": 442,
+      "total": 445,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -61,13 +61,13 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 351,
+      "total": 352,
       "translated": 334,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
       "name": "The Guardian AI",
-      "total": 314,
+      "total": 315,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -79,9 +79,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 282,
+      "total": 285,
       "translated": 231,
-      "lastDate": "2026-06-01T16:40:38.000Z"
+      "lastDate": "2026-06-01T20:02:31.000Z"
     },
     {
       "name": "The Register",
@@ -91,21 +91,21 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 268,
+      "total": 269,
       "translated": 168,
-      "lastDate": "2026-06-01T15:37:02+00:00"
+      "lastDate": "2026-06-01T19:15:26+00:00"
     },
     {
       "name": "MarkTechPost",
-      "total": 252,
+      "total": 253,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 196,
+      "total": 198,
       "translated": 119,
-      "lastDate": "2026-06-01T14:30:28+00:00"
+      "lastDate": "2026-06-01T20:18:29+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-01T20:44:02.476Z"
+  "generatedAt": "2026-06-01T20:57:00.056Z"
 }
