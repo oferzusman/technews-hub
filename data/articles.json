@@ -206193,7 +206193,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T05:25:20.441Z",
       "created_at": "2026-06-01T05:25:20.441Z"
     },
@@ -206221,7 +206221,7 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T05:25:20.595Z",
       "created_at": "2026-06-01T05:25:20.595Z"
     },
@@ -206401,7 +206401,7 @@
         "Laptops"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T05:25:22.584Z",
       "created_at": "2026-06-01T05:25:22.584Z"
     },
@@ -206526,9 +206526,63 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T05:25:24.199Z",
       "created_at": "2026-06-01T05:25:24.199Z"
+    },
+    {
+      "id": 9919,
+      "source": "Interesting Engineering",
+      "title_en": "Ukraine pairs MBDA Meteor missiles with Saab Gripen fighter to counter Russian glide bombs",
+      "description_en": "Russia’s widespread use of glide bombs over Ukraine has created a persistent air defense problem...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/ukraine-gripen-meteor-missile-combo-russian-glide-bombs",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 06:13:21 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T06:59:07.185Z",
+      "created_at": "2026-06-01T06:59:07.185Z"
+    },
+    {
+      "id": 9920,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia lays out RTX Spark roadmap for laptops and desktop PCs at Computex 2026 — three generations outlined, Rubin with LPDDR6 memory, followed by Rosa Feynman",
+      "description_en": "Along with its first-generation RTX Spark platform for desktop and laptop PCs, Nvidia CEO Jensen Huang revealed the company's commitment to future generations of those platforms on its future roadmaps.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/nvidia-unveils-dgx-sparrk-roadmap-for-laptops-and-desktop-pcs-at-computex-2026-three-generations-outlined-rubin-followed-by-rosa-feynman",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/oqQzPxhGwfTqrmjNcKCxaL-1280-80.jpg",
+      "pub_date": "Mon, 01 Jun 2026 05:55:07 +0000",
+      "author": " Jeffrey Kampman ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T06:59:07.454Z",
+      "created_at": "2026-06-01T06:59:07.454Z"
+    },
+    {
+      "id": 9921,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "⚡️ Миллионы зараженных комаров хочет выпустить Google в СШАТехногигант подал в Агентство по охране окружающей среды США заявку на выпуск из инкубаторов в Калифорнии и Флориде 64 млн самцов комаров, за",
+      "description_en": "⚡️ Миллионы зараженных комаров хочет выпустить Google в СШАТехногигант подал в Агентство по охране окружающей среды США заявку на выпуск из инкубаторов в Калифорнии и Флориде 64 млн самцов комаров, зараженных бактерией Вольбахией. Задача проекта Debug — пресечь распространение опасных для людей лихорадки Западного Нила и энцефалита Сент-Луис.⚙️ Вольбахия делает самцов комаров практически стерильными: они могут оплодотворить яйцеклетку, но если самка здорова, то эмбрион не развивается, и яйца не ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3257",
+      "image_url": "https://cdn4.telesco.pe/file/OtZIzh8WnNqCNfk7GKnNZmDh02jI637LeAfKS_Ke7yzhqSuQP_MKgltUg7wpgEf4kg2ekrsYdg0_ravxXHwS0mSMEGpHarZlZe8682f5Gj1_9K2zya8Hn7VYpjJ04tWpqB7vo9xMYTxjruqXiKdeGUa1YvHxoomLJDpE7P2IPvbRFTD4Riay397zMxi3VpN_eqS5kjxZCIxtVbxvR0-LPh57CB3o8a8y8kD-Xn6ytD0GEprN8_bKs8-HV_A0P4rFUHowJw2hTpDLZIOSNkplEoi66RhjmbCw7Ui3SGevcPf5fjj9G5x1Vkds8xG7WSLhM_m5yMMLMFYlh2HUpYLRKQ.jpg",
+      "pub_date": "2026-06-01T06:34:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T06:59:08.799Z",
+      "created_at": "2026-06-01T06:59:08.799Z"
     }
   ]
 }
