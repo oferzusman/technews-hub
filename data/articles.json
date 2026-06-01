@@ -208614,7 +208614,7 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T20:54:58.989Z",
       "created_at": "2026-06-01T20:54:58.989Z"
     },
@@ -208669,7 +208669,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T20:54:59.636Z",
       "created_at": "2026-06-01T20:54:59.636Z"
     },
@@ -208703,7 +208703,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T20:55:01.646Z",
       "created_at": "2026-06-01T20:55:01.646Z"
     },
@@ -208720,7 +208720,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T20:55:01.646Z",
       "created_at": "2026-06-01T20:55:01.646Z"
     },
@@ -208754,7 +208754,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T20:55:05.670Z",
       "created_at": "2026-06-01T20:55:05.670Z"
     },
@@ -208866,7 +208866,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T21:50:43.853Z",
       "created_at": "2026-06-01T21:50:43.853Z"
     },
@@ -208890,7 +208890,7 @@
         "WHO"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T22:15:53.227Z",
       "created_at": "2026-06-01T22:15:53.227Z"
     },
@@ -208913,7 +208913,7 @@
         "meta"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T22:15:53.227Z",
       "created_at": "2026-06-01T22:15:53.227Z"
     },
@@ -208950,6 +208950,104 @@
       "priority": "hot",
       "fetchedAt": "2026-06-01T22:15:57.476Z",
       "created_at": "2026-06-01T22:15:57.476Z"
+    },
+    {
+      "id": 10038,
+      "source": "TechCrunch AI",
+      "title_en": "Alphabet plans to raise $80 billion to pay for AI buildout",
+      "description_en": "The Google parent company plans to raise the funds by selling stock.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 22:55:09 +0000",
+      "author": "Lucas Ropek",
+      "categories": [
+        "AI",
+        "Alphabet",
+        "compute",
+        "Google"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T23:01:40.733Z",
+      "created_at": "2026-06-01T23:01:40.733Z"
+    },
+    {
+      "id": 10039,
+      "source": "The Guardian AI",
+      "title_en": "Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account",
+      "description_en": "Breach confirmed by Meta raises concerns about how safe it is to rely on AI for key security measures such as passwords\nHackers used Meta’s AI-powered support chatbot to infiltrate high-profile Instagram accounts, the company confirmed on Monday, saying it had resolved the problem after researchers exposed it.\nThe targets ranged from Barack Obama’s White House account to Sephora and the US Space Force Chief Master Sergeant, according to reporting from 404 Media. Everyday users complained of simi",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/01/meta-ai-hack-obama-sephora-instagram",
+      "image_url": "https://i.guim.co.uk/img/media/0a1521f6c70403081189e0e46a7e802e2737a669/567_0_5665_4534/master/5665.jpg?width=140&quality=85&auto=format&fit=max&s=812ce3e99be538a6f8a37be6de0c82d3",
+      "pub_date": "Mon, 01 Jun 2026 22:32:26 GMT",
+      "author": "Sanya Mansoor",
+      "categories": [
+        {
+          "_": "Meta",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/meta"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Instagram",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/instagram"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T23:01:42.530Z",
+      "created_at": "2026-06-01T23:01:42.530Z"
+    },
+    {
+      "id": 10040,
+      "source": "CNBC Tech",
+      "title_en": "Jim Cramer says Jensen Huang’s Computex keynote revealed more winners in the AI boom",
+      "description_en": "CNBC's Jim Cramer said Nvidia CEO Jensen Huang’s Computex keynote showed the AI infrastructure boom is creating winners well beyond Nvidia.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/01/jim-cramer-jensen-huang-computex-keynote-revealed-winners-ai-boom.html",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 22:20:04 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T23:01:43.705Z",
+      "created_at": "2026-06-01T23:01:43.705Z"
+    },
+    {
+      "id": 10041,
+      "source": "AI Post (TG)",
+      "title_en": "📊 AI is rapidly expanding in education.A recent study showed 85% of teachers and 86% of students used AI during the 2024-25 school year. And, teachers who use AI tools at least weekly save an average",
+      "description_en": "📊 AI is rapidly expanding in education.A recent study showed 85% of teachers and 86% of students used AI during the 2024-25 school year. And, teachers who use AI tools at least weekly save an average of 5.9 hours per week, the equivalent of 6 full weeks per school year.In 2025, the global AI in education market was valued at $7.1 billion in 2025 and is projected to reach $136.8 billion by 2035. As big as AI has become, we are still incredibly early when it comes to AI adoption.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7091",
+      "image_url": "https://cdn4.telesco.pe/file/ZB3Q8Ld7dNqvNF4tYxmlA-7OnJKH83_zBT56funko-pCjKqmJJVD5yksNLQcuJyLV4hPom53FIT7LyP04XzYyCOzCkBFYB-XlTMsnbpZW4UpkkWOhx3N1ki4RTvU2L5LGHE-mlDqhcBqgaGGeR9ZdOUwpSTcpKzLtbktmRre094E7HFcWBUauGiOwkZzug7mEmLOKQ4MWRdBF2afumE4t1J2wcOmEdR7deK7LYleg7Nry3yzwLWSZuXjXrLQOvVZAsOul3V_G4sDAIjLJHcXHMCP_qQLj0e2IBMB56lkTEtA00ulmAwkQO9SE6pcobYzsMDJVW9jG_diBNm8zPmq7A.jpg",
+      "pub_date": "2026-06-01T22:19:45+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T23:01:45.542Z",
+      "created_at": "2026-06-01T23:01:45.542Z"
     }
   ]
 }
