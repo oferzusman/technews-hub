@@ -207395,7 +207395,7 @@
       "author": "Tom Warren",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T16:37:26.428Z",
       "created_at": "2026-06-01T16:37:26.428Z"
     },
@@ -207454,7 +207454,7 @@
         "windows on arm"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T16:37:26.457Z",
       "created_at": "2026-06-01T16:37:26.457Z"
     },
@@ -207524,7 +207524,7 @@
         "Windborne Systems"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T16:37:26.973Z",
       "created_at": "2026-06-01T16:37:26.973Z"
     },
@@ -207549,7 +207549,7 @@
         "Search"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T16:37:26.973Z",
       "created_at": "2026-06-01T16:37:26.973Z"
     },
@@ -207658,7 +207658,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T16:37:27.996Z",
       "created_at": "2026-06-01T16:37:27.996Z"
     },
@@ -207692,7 +207692,7 @@
       "author": "Omar Kardoudi",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T16:37:28.328Z",
       "created_at": "2026-06-01T16:37:28.328Z"
     },
@@ -207799,7 +207799,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T16:37:29.407Z",
       "created_at": "2026-06-01T16:37:29.407Z"
     },
@@ -207818,7 +207818,7 @@
         "Laptops"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T16:37:29.407Z",
       "created_at": "2026-06-01T16:37:29.407Z"
     },
@@ -207837,7 +207837,7 @@
         "Laptops"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T16:37:29.407Z",
       "created_at": "2026-06-01T16:37:29.407Z"
     },
@@ -207856,7 +207856,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T16:37:29.407Z",
       "created_at": "2026-06-01T16:37:29.407Z"
     },
@@ -207876,7 +207876,7 @@
         "Monitors"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T16:37:29.407Z",
       "created_at": "2026-06-01T16:37:29.407Z"
     },
@@ -207912,7 +207912,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T16:37:29.564Z",
       "created_at": "2026-06-01T16:37:29.564Z"
     },
@@ -207946,7 +207946,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T16:37:29.564Z",
       "created_at": "2026-06-01T16:37:29.564Z"
     },
@@ -208014,7 +208014,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T16:37:30.937Z",
       "created_at": "2026-06-01T16:37:30.937Z"
     },
@@ -208099,9 +208099,327 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T16:37:32.041Z",
       "created_at": "2026-06-01T16:37:32.041Z"
+    },
+    {
+      "id": 9997,
+      "source": "TechCrunch AI",
+      "title_en": "Water access is now a risk factor in SpaceX’s IPO",
+      "description_en": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 18:19:53 +0000",
+      "author": "Sean O'Kane",
+      "categories": [
+        "AI",
+        "Space",
+        "artificial intelligence",
+        "data centers",
+        "Elon Musk",
+        "SpaceX"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T18:29:33.842Z",
+      "created_at": "2026-06-01T18:29:33.842Z"
+    },
+    {
+      "id": 9998,
+      "source": "TechCrunch AI",
+      "title_en": "The groupthink boom: what 3 top VCs really think about the AI frenzy",
+      "description_en": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means you're really good; you might already have a Series A [offer],\" said one, half-kiddingly.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+      "image_url": null,
+      "pub_date": "Sat, 30 May 2026 14:49:27 +0000",
+      "author": "Connie Loizos",
+      "categories": [
+        "AI",
+        "Venture",
+        "Andreas Stavropoulos",
+        "Ben Blume",
+        "niko bonatsos",
+        "StrictlyVC Athens"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-01T18:29:33.843Z",
+      "created_at": "2026-06-01T18:29:33.843Z"
+    },
+    {
+      "id": 9999,
+      "source": "The Verge AI",
+      "title_en": "Anthropic has officially filed to go public",
+      "description_en": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities and Exchange Commission.\nThe filing sets the stage for what's sure to be a massive IPO. As of its fundraise last week, Anthropic is being called the world's most valuable startup, with a post-money valuation of $965 billion. That tops the $852 billion post-money valuation of OpenAI, which is its big",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
+      "image_url": null,
+      "pub_date": "2026-06-01T16:40:38.000Z",
+      "author": "Hayden Field",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T18:29:33.944Z",
+      "created_at": "2026-06-01T18:29:33.944Z"
+    },
+    {
+      "id": 10000,
+      "source": "The Decoder",
+      "title_en": "Claude maker Anthropic files for IPO with the SEC",
+      "description_en": "Anthropic has confidentially filed a draft IPO registration with the US Securities and Exchange Commission (SEC). The company behind the chatbot Claude is valued at just under $1 trillion after its latest funding round. Competitor OpenAI is also gearing up for an IPO. The race for investor dollars in the AI sector is heating up.\nThe article Claude maker Anthropic files for IPO with the SEC appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/claude-maker-anthropic-files-for-ipo-with-the-sec/",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 17:26:59 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Anthropic"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T18:29:35.108Z",
+      "created_at": "2026-06-01T18:29:35.108Z"
+    },
+    {
+      "id": 10001,
+      "source": "The Decoder",
+      "title_en": "Turing Award winner Richard Sutton says pure generative AI can't do real science",
+      "description_en": "Turing Award winner Richard Sutton sees a central weakness in conventional generative AI: it can't evaluate its own results. Without that ability, real scientific discovery remains impossible: novelty flickers briefly and is lost again. Systems like AlphaGo or AlphaProof show that only built-in evaluation loops let AI be genuinely creative, Sutton argues.\nThe article Turing Award winner Richard Sutton says pure generative AI can't do real science appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/turing-award-winner-richard-sutton-says-pure-generative-ai-cant-do-real-science/",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 17:10:26 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T18:29:35.109Z",
+      "created_at": "2026-06-01T18:29:35.109Z"
+    },
+    {
+      "id": 10002,
+      "source": "Google AI Blog",
+      "title_en": "How we used Gemini to build Google I/O 2026",
+      "description_en": "Learn how Googlers used AI to produce Google I/O 2026.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_IO.max-600x600.format-webp.webp",
+      "pub_date": "Mon, 01 Jun 2026 16:00:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Marvin Chow"
+        ],
+        "title": [
+          "VP"
+        ],
+        "department": [
+          "Marketing"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Gemini models",
+        "Google Labs",
+        "Developer tools",
+        "AI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-01T18:29:35.461Z",
+      "created_at": "2026-06-01T18:29:35.461Z"
+    },
+    {
+      "id": 10003,
+      "source": "MarkTechPost",
+      "title_en": "Meet Memory OS: A 6-Layer Open-Source Memory Stack Built on Top of Hermes Agent",
+      "description_en": "The open-source project adds local persistent memory to Hermes Agent through six layers, gated retrieval, and a wiki.\nThe post Meet Memory OS: A 6-Layer Open-Source Memory Stack Built on Top of Hermes Agent appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/01/meet-memory-os-a-6-layer-open-source-memory-stack-built-on-top-of-hermes-agent/",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 16:53:07 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T18:29:35.520Z",
+      "created_at": "2026-06-01T18:29:35.520Z"
+    },
+    {
+      "id": 10004,
+      "source": "The Register",
+      "title_en": "Anthropic, now atop the AI bubble, files for its IPO",
+      "description_en": "First it tops OpenAI's valuation, then it beats Altman to the IPO punch",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/01/anthropic-now-atop-the-ai-bubble-files-for-its-ipo/5249753",
+      "image_url": "https://image.theregister.com/?imageId=4093866&width=800",
+      "pub_date": "Mon, 01 Jun 2026 20:12:22 +0200",
+      "author": null,
+      "categories": [
+        "ai and ml"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T18:29:36.460Z",
+      "created_at": "2026-06-01T18:29:36.460Z"
+    },
+    {
+      "id": 10005,
+      "source": "Interesting Engineering",
+      "title_en": "Anthropic confidentially files for IPO after soaring to $965 billion valuation",
+      "description_en": "Wall Street’s artificial intelligence boom is edging toward a new milestone as one of the...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/anthropic-confidential-ipo-filing",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 17:07:52 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T18:29:36.830Z",
+      "created_at": "2026-06-01T18:29:36.830Z"
+    },
+    {
+      "id": 10006,
+      "source": "Tom's Hardware",
+      "title_en": "Windows Server vulnerability can grant system privileges with just a malformed packet — domain controllers are being exploited in the wild",
+      "description_en": "9.8-rated Windows Server vulnerability can grants system privileges with just a malformed packet — domain controllers being exploited in the wild",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/windows-server-vulnerability-can-grant-system-privileges-with-just-a-malformed-packet-domain-controllers-are-being-exploited-in-the-wild",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/pz5RrXZwcNJ2XMi65FHwK9-1280-80.jpg",
+      "pub_date": "Mon, 01 Jun 2026 17:22:54 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Cybersecurity",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T18:29:37.094Z",
+      "created_at": "2026-06-01T18:29:37.094Z"
+    },
+    {
+      "id": 10007,
+      "source": "Tom's Hardware",
+      "title_en": "Anthropic files for IPO — Claude maker races OpenAI and SpaceX to Wall Street",
+      "description_en": "Anthropic, the AI company that makes Claude, confidentially filed to go public with the U.S. Securities and Exchange Commission.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/anthropic-files-to-go-public-claude-maker-races-openai-and-spacex-to-ipo",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/EZuRVPH6Lz9ExTNXiAWFR9-1280-80.jpg",
+      "pub_date": "Mon, 01 Jun 2026 17:01:41 +0000",
+      "author": " Andrew E. Freedman ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T18:29:37.094Z",
+      "created_at": "2026-06-01T18:29:37.094Z"
+    },
+    {
+      "id": 10008,
+      "source": "CNBC Tech",
+      "title_en": "SpaceX sets aside up to 5% of shares in IPO for certain employees and friends",
+      "description_en": "In an updated IPO prospectus, SpaceX said that up to 5% of stock being offered by the company in the offering will be available in a direct share program.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/01/spacex-sets-aside-up-to-5percent-of-shares-in-ipo-for-employees-and-friends.html",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 18:00:49 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T18:29:37.102Z",
+      "created_at": "2026-06-01T18:29:37.102Z"
+    },
+    {
+      "id": 10009,
+      "source": "CNBC Tech",
+      "title_en": "Florida AG sues OpenAI, seeks to hold CEO Altman personally liable for alleged harms",
+      "description_en": "The complaint said the harms are the result of OpenAI's \"insatiable quest to win the AI arms race and amass large fortunes.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/01/florida-ag-open-ai-altman-lawsuit.html",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 17:32:50 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T18:29:37.102Z",
+      "created_at": "2026-06-01T18:29:37.102Z"
+    },
+    {
+      "id": 10010,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Осталась неделя до показа iOS 27!В честь этого Грег Джозвиак поделился тизером грядущей WWDC 2026, которая стартует 8 июня. Официальный слоган презентации — All systems glow (Все системы светятся). Фр",
+      "description_en": "Осталась неделя до показа iOS 27!В честь этого Грег Джозвиак поделился тизером грядущей WWDC 2026, которая стартует 8 июня. Официальный слоган презентации — All systems glow (Все системы светятся). Фраза созвучна эпитету all systems go (все системы готовы) и такая игра слов явно намекает на появление обновлённой Siri.Кроме того, компания выложила тематические обои для Mac, iPad и iPhone, которые можно скачать по ссылке.• Канал Wylsacom в MAX",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33287",
+      "image_url": "https://cdn4.telesco.pe/file/H9f9U_tc1yCcS2KhDWw2ShlJ2ViarTR_0matyCqRymfMNKsZ2c1qdMsZJHkff6GeBFNSj4RtiHSfdx6NLfZ29OxbX65ShReKF8nPA1V8_byTEWkZBwiGIoDy4w2qB7tRYfMIbUI7_nOqpY6OiVyUyfj4t5cD3H_MGCx2hMg_cMqtX7e6wEq3GHLkmEwP7Mzeu6erasvJ4ewxWypU6Ikmilx3SUMV52XkP2_ap2clHTo8LlWGEwdVVBiEe53yhtzUrkYwYKjs-W2A8GKP-ThRBDfRgaeiDuGKv_FAzG5dWW9PplCW7RJnoq3tVZHgpQyQ6Na-TglgP9ocHHVmzgavyA.jpg",
+      "pub_date": "2026-06-01T16:59:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T18:29:37.856Z",
+      "created_at": "2026-06-01T18:29:37.856Z"
+    },
+    {
+      "id": 10011,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "❤️ Внучка сделала бабушке ИИ-подругу У 82-летней Галины из Ижевска деменция и болезнь Альцгеймера. Ее внучка Юлия Гринь не хотела, чтобы бабушка оставалась одна, и адаптировала для нее умную колонку с",
+      "description_en": "❤️ Внучка сделала бабушке ИИ-подругу У 82-летней Галины из Ижевска деменция и болезнь Альцгеймера. Ее внучка Юлия Гринь не хотела, чтобы бабушка оставалась одна, и адаптировала для нее умную колонку с Алисой.Юлия синхронизировала колонку с телеграм-ботом. Теперь она удаленно отправляет сообщения, которые колонка озвучивает в доме бабушки.Устройство стало для женщины постоянным ИИ-компаньоном. Алиса следит за режимом дня, напоминает про таблетки, включает музыку, читает книги, играет и повторяет ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3259",
+      "image_url": "https://cdn4.telesco.pe/file/W2nv3WHe0iR4CaxVMnof_L1lKNngcRs9s9ladEF1GBPSGv6kNoV0VG8KNhs_1uJ8uorgcc7GgHKca8c8aLn2IzikY8BqqCRnOGWwUYvXpGtShXTlldRgfA9tNNXFZr3987OvMjrxbjY_mSTtjC3OKwpRFb99jqt-CHiWmT_jAuEmH_C5iF0TrDnONZVcGKHeDwrlh93n9NmmXtELNOiA8eFfPoOnhxiB62Anb14k1zjlSH_Xc_iFVY5hMaCIwRWoj2uMiO2JHkfZVZiE6fYwrEQ0ZcJ_ZzZF6R7HC5HvlIM_Mb86CL7KI5uT6eYqzaX2E7qZGaDUBxdP4sB_so9SjQ.jpg",
+      "pub_date": "2026-06-01T16:48:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T18:29:38.239Z",
+      "created_at": "2026-06-01T18:29:38.239Z"
     }
   ]
 }
