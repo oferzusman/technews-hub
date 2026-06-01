@@ -1,9 +1,9 @@
 {
-  "total": 9905,
+  "total": 9918,
   "translated": 8824,
-  "untranslated": 1081,
-  "today": 5,
-  "week": 601,
+  "untranslated": 1094,
+  "today": 18,
+  "week": 614,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,19 +13,19 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 769,
+      "total": 772,
       "translated": 652,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 735,
+      "total": 736,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 529,
+      "total": 532,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -67,7 +67,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 309,
+      "total": 311,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -91,13 +91,13 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 264,
+      "total": 265,
       "translated": 168,
-      "lastDate": "2026-06-01T02:11:02+00:00"
+      "lastDate": "2026-06-01T05:17:01+00:00"
     },
     {
       "name": "MarkTechPost",
-      "total": 250,
+      "total": 251,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -115,7 +115,7 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 129,
+      "total": 130,
       "translated": 122,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
@@ -199,9 +199,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 34,
+      "total": 35,
       "translated": 29,
-      "lastDate": "2026-05-31T07:05:44+00:00"
+      "lastDate": "2026-06-01T04:22:29+00:00"
     },
     {
       "name": "pymnts.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-01T05:18:47.081Z"
+  "generatedAt": "2026-06-01T05:27:21.257Z"
 }
