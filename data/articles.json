@@ -206066,7 +206066,7 @@
       "author": "C.C. Weiss",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T23:32:54.649Z",
       "created_at": "2026-05-31T23:32:54.649Z"
     },
@@ -206083,7 +206083,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T23:32:57.286Z",
       "created_at": "2026-05-31T23:32:57.286Z"
     },
@@ -206106,6 +206106,42 @@
       "priority": "hot",
       "fetchedAt": "2026-06-01T00:13:01.279Z",
       "created_at": "2026-06-01T00:13:01.279Z"
+    },
+    {
+      "id": 9902,
+      "source": "New Atlas",
+      "title_en": "Tiny triangular cabin perches off a slope in Ecuador's cloud forest",
+      "description_en": "A compact elevated shelter by Baquio Arquitectura has been installed on the slopes above Mindo, in Ecuador’s Chocó cloud forest. Dubbed Casa 6-3, the project is a tiny timber retreat with a lightweight footprint, overlooking the surrounding mountains and rainforest.\nContinue Reading\nCategory: Tiny Houses, Outdoors\nTags: Cabins, Tiny Footprint, Building and Construction, Shelter, Home",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/tiny-houses/casa-6-3-baquio-arquitectura/",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 01:03:00 GMT",
+      "author": "Bridget Borgobello",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T01:56:56.058Z",
+      "created_at": "2026-06-01T01:56:56.058Z"
+    },
+    {
+      "id": 9903,
+      "source": "Tom's Hardware",
+      "title_en": "Watch Nvidia's Computex 2026 keynote here — Jensen Huang takes the stage for Computex and GTC Taipei at 8pm PT / 11pm ET on May 31",
+      "description_en": "Nvidia CEO Jensen Huang is set to take the stage at Computex 2026 and GTC Taipei. Here's how to watch the keynote address, where we could hear more about the rumored N1X.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/nvidia-keynote-computex-2026-gtc-taipei-where-to-watch",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/s8oZY8R9mUgEH85SaFQLu5-1280-80.png",
+      "pub_date": "Mon, 01 Jun 2026 00:21:39 +0000",
+      "author": " Jake Roach ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T01:56:57.163Z",
+      "created_at": "2026-06-01T01:56:57.163Z"
     }
   ]
 }
