@@ -1,9 +1,9 @@
 {
-  "total": 10028,
+  "total": 10037,
   "translated": 8824,
-  "untranslated": 1204,
-  "today": 128,
-  "week": 724,
+  "untranslated": 1213,
+  "today": 137,
+  "week": 733,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,19 +19,19 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 745,
+      "total": 746,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 545,
+      "total": 546,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 480,
+      "total": 481,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -43,7 +43,7 @@
     },
     {
       "name": "Ars Technica",
-      "total": 445,
+      "total": 447,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -61,7 +61,7 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 352,
+      "total": 353,
       "translated": 334,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
@@ -103,9 +103,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 198,
+      "total": 199,
       "translated": 119,
-      "lastDate": "2026-06-01T20:18:29+00:00"
+      "lastDate": "2026-06-01T22:05:10+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -127,9 +127,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 96,
+      "total": 97,
       "translated": 68,
-      "lastDate": "2026-06-01T08:05:38+00:00"
+      "lastDate": "2026-06-01T21:23:32+00:00"
     },
     {
       "name": "AI News",
@@ -163,9 +163,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 60,
+      "total": 61,
       "translated": 47,
-      "lastDate": "2026-06-01T10:05:10+00:00"
+      "lastDate": "2026-06-01T21:00:53+00:00"
     },
     {
       "name": "Wylsacom Red (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-01T20:57:00.056Z"
+  "generatedAt": "2026-06-01T22:16:53.729Z"
 }
