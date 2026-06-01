@@ -206049,7 +206049,7 @@
       "author": "Bronwyn Thompson",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-05-31T22:16:13.302Z",
       "created_at": "2026-05-31T22:16:13.302Z"
     },
@@ -206086,6 +206086,26 @@
       "priority": "hot",
       "fetchedAt": "2026-05-31T23:32:57.286Z",
       "created_at": "2026-05-31T23:32:57.286Z"
+    },
+    {
+      "id": 9901,
+      "source": "Tom's Hardware",
+      "title_en": "AMD brings back Ryzen 7 5800X3D, launches Ryzen 7 7700X3D to combat rising component prices — eight-core X3D CPUs arrive under $350 for AM4 or AM5, DDR4 or DDR5",
+      "description_en": "AMD is rereleasing the Ryzen 7 5800X3D and introducing the Ryzen 7 7700X3D, both eight-core chips with 3DV-Cache targeting midrange gamers who’ve been under the thumb of rising component prices.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-brings-back-ryzen-7-5800x3d-launches-ryzen-7-7700x3d-to-combat-rising-component-prices-eight-core-x3d-cpus-arrive-under-usd350-for-am4-or-am5-ddr4-or-ddr5",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/GzEgUMa8S5PrXBdVHc4LWR-1280-80.jpg",
+      "pub_date": "Mon, 01 Jun 2026 00:00:00 +0000",
+      "author": " Jake Roach ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T00:13:01.279Z",
+      "created_at": "2026-06-01T00:13:01.279Z"
     }
   ]
 }
