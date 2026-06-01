@@ -206293,7 +206293,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T05:25:21.330Z",
       "created_at": "2026-06-01T05:25:21.330Z"
     },
@@ -206365,7 +206365,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T05:25:21.330Z",
       "created_at": "2026-06-01T05:25:21.330Z"
     },
@@ -206458,7 +206458,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T05:25:22.617Z",
       "created_at": "2026-06-01T05:25:22.617Z"
     },
@@ -206475,7 +206475,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T05:25:22.617Z",
       "created_at": "2026-06-01T05:25:22.617Z"
     },
@@ -206492,7 +206492,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T05:25:22.617Z",
       "created_at": "2026-06-01T05:25:22.617Z"
     },
@@ -206509,7 +206509,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T05:25:24.140Z",
       "created_at": "2026-06-01T05:25:24.140Z"
     },
@@ -206583,6 +206583,57 @@
       "priority": "hot",
       "fetchedAt": "2026-06-01T06:59:08.799Z",
       "created_at": "2026-06-01T06:59:08.799Z"
+    },
+    {
+      "id": 9922,
+      "source": "Product Hunt",
+      "title_en": "Paint By JSON | An API Client for Figma",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/paint-by-json-an-api-client-for-figma",
+      "image_url": null,
+      "pub_date": "2026-05-31T21:45:07.000Z",
+      "author": "Rob McLoughlin",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-01T07:31:55.010Z",
+      "created_at": "2026-06-01T07:31:55.010Z"
+    },
+    {
+      "id": 9923,
+      "source": "Product Hunt",
+      "title_en": "BrainCircle - Memory Game",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/followcircle",
+      "image_url": null,
+      "pub_date": "2026-05-29T23:49:02.000Z",
+      "author": "MIKA PARK",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-01T07:31:55.010Z",
+      "created_at": "2026-06-01T07:31:55.010Z"
+    },
+    {
+      "id": 9924,
+      "source": "Product Hunt",
+      "title_en": "Mistral Vibe",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/mistral-7b",
+      "image_url": null,
+      "pub_date": "2026-06-01T03:25:48.000Z",
+      "author": "Zac Zuo",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-01T07:31:55.010Z",
+      "created_at": "2026-06-01T07:31:55.010Z"
     }
   ]
 }
