@@ -208123,7 +208123,7 @@
         "SpaceX"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T18:29:33.842Z",
       "created_at": "2026-06-01T18:29:33.842Z"
     },
@@ -208186,7 +208186,7 @@
         "Anthropic"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T18:29:35.108Z",
       "created_at": "2026-06-01T18:29:35.108Z"
     },
@@ -208206,7 +208206,7 @@
         "Artificial Intelligence"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T18:29:35.109Z",
       "created_at": "2026-06-01T18:29:35.109Z"
     },
@@ -208293,7 +208293,7 @@
         "ai and ml"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T18:29:36.460Z",
       "created_at": "2026-06-01T18:29:36.460Z"
     },
@@ -208310,7 +208310,7 @@
       "author": "Aamir Khollam",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T18:29:36.830Z",
       "created_at": "2026-06-01T18:29:36.830Z"
     },
@@ -208330,7 +208330,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T18:29:37.094Z",
       "created_at": "2026-06-01T18:29:37.094Z"
     },
@@ -208366,7 +208366,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T18:29:37.102Z",
       "created_at": "2026-06-01T18:29:37.102Z"
     },
@@ -208383,7 +208383,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T18:29:37.102Z",
       "created_at": "2026-06-01T18:29:37.102Z"
     },
@@ -208434,9 +208434,346 @@
       "author": "Neetika Walter",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T19:04:33.789Z",
       "created_at": "2026-06-01T19:04:33.789Z"
+    },
+    {
+      "id": 10013,
+      "source": "The Verge AI",
+      "title_en": "This could be Windows’ M1 moment — but expect it to cost a ton",
+      "description_en": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering great battery life - at least on the Mac. In the Windows world, performance hasn't fully matched up under Qualcomm chips, mostly in the graphics department. There's clearly still untapped potential, and Nvidia seems to be promising to deliver it.\nThis could be Windows' moment to blow us away with a ne",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
+      "image_url": null,
+      "pub_date": "2026-06-01T20:02:31.000Z",
+      "author": "Antonio G. Di Benedetto",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T20:54:57.459Z",
+      "created_at": "2026-06-01T20:54:57.459Z"
+    },
+    {
+      "id": 10014,
+      "source": "The Verge AI",
+      "title_en": "Gemini’s new AI agent is about as good as Google’s demo",
+      "description_en": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs.\nThe company gave me access to Spark last week. Google advertises Spark as an AI agent that can take on tasks and work on them in the background - even tasks that have multiple steps - allowing you to put your phone down or walk away from your computer. It also advertises at the very top of the Spark website that it's \"a",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+      "image_url": null,
+      "pub_date": "2026-06-01T20:00:00.000Z",
+      "author": "Jay Peters",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T20:54:57.460Z",
+      "created_at": "2026-06-01T20:54:57.460Z"
+    },
+    {
+      "id": 10015,
+      "source": "The Verge AI",
+      "title_en": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
+      "description_en": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's chatbot to switch the email associated with someone else's profile and then reset the password.\nThe issue, which Meta says has since been patched, cropped up around the same time Barack Obama's White House account on Instagram was hacked. On Sunday, users noticed that the @obamawhitehouse account b",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
+      "image_url": null,
+      "pub_date": "2026-06-01T19:20:47.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T20:54:57.460Z",
+      "created_at": "2026-06-01T20:54:57.460Z"
+    },
+    {
+      "id": 10016,
+      "source": "Ars Technica",
+      "title_en": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
+      "description_en": "Altman has an \"utter disregard\" for human lives, Florida AG says.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2265991640-1024x648.jpg",
+      "pub_date": "Mon, 01 Jun 2026 18:52:19 +0000",
+      "author": "\n                    Ashley Belanger\n                ",
+      "categories": [
+        "AI",
+        "Policy",
+        "chatbot",
+        "ChatGPT",
+        "child safety",
+        "Florida",
+        "murder",
+        "Online safety",
+        "openai",
+        "suicide"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-01T20:54:57.603Z",
+      "created_at": "2026-06-01T20:54:57.603Z"
+    },
+    {
+      "id": 10017,
+      "source": "Ars Technica",
+      "title_en": "From 15 hours to one minute: How AI/ML is speeding up GM's development",
+      "description_en": "From CFD and FEA to digital twins, carmaking now involves a lot of virtualization.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/CoSim-SG1-1152x648.jpeg",
+      "pub_date": "Mon, 01 Jun 2026 17:41:47 +0000",
+      "author": "\n                    Jonathan M. Gitlin\n                ",
+      "categories": [
+        "AI",
+        "Cars",
+        "General Motors",
+        "GM",
+        "machine learning"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-01T20:54:57.603Z",
+      "created_at": "2026-06-01T20:54:57.603Z"
+    },
+    {
+      "id": 10018,
+      "source": "Ars Technica",
+      "title_en": "Allegedly trashing Airbnbs to test robots puts startup in legal trouble",
+      "description_en": "Lawsuit seeks $12,000 from startup that allegedly damaged home in robot tests.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2248542588-1152x648.jpg",
+      "pub_date": "Mon, 01 Jun 2026 17:17:55 +0000",
+      "author": "\n                    Jeremy Hsu\n                ",
+      "categories": [
+        "AI",
+        "airbnb",
+        "bot company",
+        "robot training",
+        "Robotics",
+        "robots"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-01T20:54:57.603Z",
+      "created_at": "2026-06-01T20:54:57.603Z"
+    },
+    {
+      "id": 10019,
+      "source": "TechCrunch AI",
+      "title_en": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "description_en": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 20:03:40 +0000",
+      "author": "Lucas Ropek",
+      "categories": [
+        "AI",
+        "ChatGPT",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T20:54:57.810Z",
+      "created_at": "2026-06-01T20:54:57.810Z"
+    },
+    {
+      "id": 10020,
+      "source": "MarkTechPost",
+      "title_en": "MiniMax Releases MiniMax M3 with MSA Architecture Supporting 1M-Token Context, Native Multimodality, and Agentic Coding",
+      "description_en": "MiniMax M3 introduces MiniMax Sparse Attention, a 1M-token context window, and native image, video, and computer use support.\nThe post MiniMax Releases MiniMax M3 with MSA Architecture Supporting 1M-Token Context, Native Multimodality, and Agentic Coding appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/01/minimax-releases-minimax-m3-with-msa-architecture-supporting-1m-token-context-native-multimodality-and-agentic-coding/",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 20:40:05 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T20:54:58.989Z",
+      "created_at": "2026-06-01T20:54:58.989Z"
+    },
+    {
+      "id": 10021,
+      "source": "OpenAI Blog",
+      "title_en": "Building the infrastructure for the Intelligence Age in Michigan",
+      "description_en": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/stargate-michigan-data-center",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 12:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Global Affairs"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-01T20:54:59.189Z",
+      "created_at": "2026-06-01T20:54:59.189Z"
+    },
+    {
+      "id": 10022,
+      "source": "The Guardian AI",
+      "title_en": "Can you stop AI datacenters? Comedian Charlie Berens thinks so – Stateside with Kai and Carter",
+      "description_en": "Last summer, Wisconsin comedian Charlie Berens started getting messages from people in his state about plans for a major datacenter in their community. When Berens dug in, he was shocked to discover the impact the datacenter would have on local residents. So he responded with comedy. The video he posted online about the datacenter went viral, and Berens has been on the frontlines of the fight against datacenters ever since. Carter Sherman speaks to Berens about how he is using his comedy as a to",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/video/2026/jun/01/ai-datacenters-charlie-berens",
+      "image_url": "https://i.guim.co.uk/img/media/e721756dacff396e75bf7c5d890215872e74c6ac/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=0a7de7bf3ea0007674f2635d1abcf039",
+      "pub_date": "Mon, 01 Jun 2026 20:46:32 GMT",
+      "author": "Hosted by Carter Sherman . Produced by Suzanne Gaber and Tiara Chiaramonte , engineered by Ivan Kuraev executive producer Rachel Humphreys",
+      "categories": [
+        {
+          "_": "Wisconsin",
+          "$": {
+            "domain": "https://www.theguardian.com/world/wisconsin"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T20:54:59.636Z",
+      "created_at": "2026-06-01T20:54:59.636Z"
+    },
+    {
+      "id": 10023,
+      "source": "Interesting Engineering",
+      "title_en": "New US-Taiwan partnership targets silicon carbide wafers for faster, cooler 6G chips",
+      "description_en": "Purdue University has announced a strategic partnership with GeChi Compound Semiconductor (GCCS) aimed at scaling...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/purdue-gccs-silicon-carbide-semiconductor-manufacturing",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 20:11:58 +0000",
+      "author": "Aditya Jadhav",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T20:55:00.164Z",
+      "created_at": "2026-06-01T20:55:00.164Z"
+    },
+    {
+      "id": 10024,
+      "source": "CNBC Tech",
+      "title_en": "HPE skyrockets 30% on biggest earnings beat since 2018",
+      "description_en": "HPE's blowout second-quarter earnings report was highlighted by a strong Cloud & AI segment that showed soaring server revenue.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/01/hpe-stock-earnings-q2.html",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 20:51:51 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T20:55:01.646Z",
+      "created_at": "2026-06-01T20:55:01.646Z"
+    },
+    {
+      "id": 10025,
+      "source": "CNBC Tech",
+      "title_en": "Microsoft and Google are late to AI coding, but 'absolutely critical' they compete for growth",
+      "description_en": "Coding tools are becoming an increasingly big target for Google and Microsoft as they try to catch up to Anthropic and OpenAI.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 20:18:21 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T20:55:01.646Z",
+      "created_at": "2026-06-01T20:55:01.646Z"
+    },
+    {
+      "id": 10026,
+      "source": "XOR Journal (TG)",
+      "title_en": "⚡️  Ого, Сбер в преддверии ПМЭФ анонсировал новое устройство!Многие сходятся во мнении, что это будет новый формат AI-киоска. Эта категория пока не является устоявшейся, но в технологической среде так",
+      "description_en": "⚡️  Ого, Сбер в преддверии ПМЭФ анонсировал новое устройство!Многие сходятся во мнении, что это будет новый формат AI-киоска. Эта категория пока не является устоявшейся, но в технологической среде так называют публичные устройства с экраном, камерой, микрофонами и ИИ, через которые человек взаимодействует с цифровыми сервисами в физическом пространстве.Ждем 💪@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9414",
+      "image_url": "https://cdn4.telesco.pe/file/RiMBGeFVFYrMl6atcvVPGJ2tzl3FwkGy3aiS-LLxcsiYvNmCFxCDTs3Ub9eaVxc_I5OJX_RQIxBXvKMh4b2q0R6VY6_FmSDPzMwl9_FpjlrSwqqhTrlnP4iqfpU1GQelcVlWHYxJ9K-VUqvOTn6HcTkro0a_L4d2S9tYUznNYALiKVDgjWBdyXqtA1FBbXG8XqSY5UxevMjEX97j8Su-eBU9VyQm7cS8HYQwaiJqeCjEOwHUMsIko2ipmWvoFIZmfQR1SJy8BghxLCNVhDoxW34Hr79DPe3yxFvWkibLIOWacwxG8wEcPtg36cWTBV7reYnf_7vVE6KRhJyS0MWpgw.jpg",
+      "pub_date": "2026-06-01T19:09:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T20:55:05.670Z",
+      "created_at": "2026-06-01T20:55:05.670Z"
+    },
+    {
+      "id": 10027,
+      "source": "XOR Journal (TG)",
+      "title_en": "Это следующий грейд 🤭@xor_journal",
+      "description_en": "Это следующий грейд 🤭@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9415",
+      "image_url": "https://cdn4.telesco.pe/file/P3g4RggWUuTiCPNbDt2mqH6_I0rtMhiI9BBGfMTd5yfFhotV21P6IfvzLABg_6HMuYbkXnZfHYnEZ-SRFcW2D7G7hL3eQD01rP4Eoj59Ckvl_6B7RlYDAej-l0RIm3pU2nRiNuzDXCdy_ziGIPZR9jWqfFajIHjNpxyla25zgg_ovfwh16mSGE5wPlRSgQd1yZNtKGtWwruG6OCY_31qSeMNO-gZ-9MNEYUn42J1y8ug6Cg-IkoWEj8xIQrDx-IKBALyGHEhpykZqCTUt-X1WW5ucsl2di4lojqj7mMxaeIpb73A7PZWrv2BNHaeI8d8ymd0mScHcv1YMrcurKPzlg.jpg",
+      "pub_date": "2026-06-01T20:18:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T20:55:05.670Z",
+      "created_at": "2026-06-01T20:55:05.670Z"
+    },
+    {
+      "id": 10028,
+      "source": "AI Post (TG)",
+      "title_en": "🇵🇱 Meet Poland’s robot celebrity. His name is Edward Warchocki. Edward recently went viral after being spotted helping chase away wild boars, and he’s even had a meeting with Donald Tusk.While most ",
+      "description_en": "🇵🇱 Meet Poland’s robot celebrity. His name is Edward Warchocki. Edward recently went viral after being spotted helping chase away wild boars, and he’s even had a meeting with Donald Tusk.While most humanoid robots are busy showing off in labs, Edward has been building a fan base in the real world.Will he replace humans?Probably not.But judging by his moves, he might already have us beaten on the dance floor. 🕺@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7090",
+      "image_url": null,
+      "pub_date": "2026-06-01T19:15:26+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T20:55:06.472Z",
+      "created_at": "2026-06-01T20:55:06.472Z"
     }
   ]
 }
