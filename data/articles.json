@@ -208451,7 +208451,7 @@
       "author": "Antonio G. Di Benedetto",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T20:54:57.459Z",
       "created_at": "2026-06-01T20:54:57.459Z"
     },
@@ -208468,7 +208468,7 @@
       "author": "Jay Peters",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T20:54:57.460Z",
       "created_at": "2026-06-01T20:54:57.460Z"
     },
@@ -208581,7 +208581,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T20:54:57.810Z",
       "created_at": "2026-06-01T20:54:57.810Z"
     },
@@ -208686,7 +208686,7 @@
       "author": "Aditya Jadhav",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T20:55:00.164Z",
       "created_at": "2026-06-01T20:55:00.164Z"
     },
@@ -208869,6 +208869,87 @@
       "priority": "hot",
       "fetchedAt": "2026-06-01T21:50:43.853Z",
       "created_at": "2026-06-01T21:50:43.853Z"
+    },
+    {
+      "id": 10034,
+      "source": "Ars Technica",
+      "title_en": "Moderna gets $50 million to develop mRNA Ebola vaccine against Bundibugyo",
+      "description_en": "Amid a raging Ebola outbreak, officials \"urgently accelerate development\" of vaccines.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/health/2026/06/moderna-gets-50-million-to-develop-mrna-ebola-vaccine-against-bundibugyo/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2278375280-1-1024x648.jpg",
+      "pub_date": "Mon, 01 Jun 2026 20:58:34 +0000",
+      "author": "\n                    Beth Mole\n                ",
+      "categories": [
+        "Health",
+        "CEPI",
+        "ebola",
+        "moderna",
+        "vaccine",
+        "WHO"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T22:15:53.227Z",
+      "created_at": "2026-06-01T22:15:53.227Z"
+    },
+    {
+      "id": 10035,
+      "source": "Ars Technica",
+      "title_en": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
+      "description_en": "Pricey Instagram handles were stolen and resold before Meta patched the exploit.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Meta-AI-logo-1152x648.jpg",
+      "pub_date": "Mon, 01 Jun 2026 20:44:37 +0000",
+      "author": "\n                    Jeremy Hsu\n                ",
+      "categories": [
+        "AI",
+        "Security",
+        "ai chatbot",
+        "Instagram",
+        "meta"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T22:15:53.227Z",
+      "created_at": "2026-06-01T22:15:53.227Z"
+    },
+    {
+      "id": 10036,
+      "source": "Interesting Engineering",
+      "title_en": "Spain launches floating solar platform that uses the sea to improve power output",
+      "description_en": "A Spanish renewable energy company has taken a step closer to generating solar power at...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/spain-launches-floating-solar-platform-that-uses-the-sea-to-improve-power-output",
+      "image_url": "https://www.youtube.com/embed/ulp-qoGZMdw",
+      "pub_date": "Mon, 01 Jun 2026 21:59:48 +0000",
+      "author": "Georgina Jedikovska",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T22:15:55.992Z",
+      "created_at": "2026-06-01T22:15:55.992Z"
+    },
+    {
+      "id": 10037,
+      "source": "XOR Journal (TG)",
+      "title_en": "Полезное на ночь: принесли утилиту, которая подсказывает, какие модели потянет ваш компьютер 💪LLM Checker анализирует ваше железо (RAM, GPU, CPU) и подбирает из каталога в 200+ моделей подходящие под",
+      "description_en": "Полезное на ночь: принесли утилиту, которая подсказывает, какие модели потянет ваш компьютер 💪LLM Checker анализирует ваше железо (RAM, GPU, CPU) и подбирает из каталога в 200+ моделей подходящие под ваши задачи. Причем результат ранжируется по качеству, скорости генерации, размеру и энергопотреблению. Сама утилита бесплатная и опенсорсная.Упрощаем выбор лучших 👌@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9416",
+      "image_url": "https://cdn4.telesco.pe/file/DhugIPxbhAmutFf-k1c_H6sShbgCeTTZd8q5E5amg0M_yqmXbiutqfDyYmyimBBL4Pqi6-NoM4XsPsO8537-MOfXNNWm_AIxG6H2h-mF0cgFlpQk6J8yE-pFR1goGQaheFF_zWNntFKmePIA4rIALdGLTS_r9vKBy8YQkUbgxX0RhHlJ3q6wZaWAE-V6Ktmx-gZjLPuj_YpaA8eICClJbgCQi9qWmrkZ9uuDwfiHG7iHip6HgkLqr7W73E1dk-R0H-eefauNP8qEJsfkJgrudbSKkKK3NCEJwbVF524WG7eSW9icDKOZWFV9x407cyOd9uuYCR6DDaov5lp6yiK1Fg.jpg",
+      "pub_date": "2026-06-01T22:05:10+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T22:15:57.476Z",
+      "created_at": "2026-06-01T22:15:57.476Z"
     }
   ]
 }
