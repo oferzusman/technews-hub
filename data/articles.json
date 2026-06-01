@@ -206653,7 +206653,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T10:37:44.774Z",
       "created_at": "2026-06-01T10:37:44.774Z"
     },
@@ -206719,7 +206719,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T10:37:45.940Z",
       "created_at": "2026-06-01T10:37:45.940Z"
     },
@@ -206738,7 +206738,7 @@
         "Sponsored Content"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T10:37:46.232Z",
       "created_at": "2026-06-01T10:37:46.232Z"
     },
@@ -206757,7 +206757,7 @@
         "Sponsored Content"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T10:37:46.233Z",
       "created_at": "2026-06-01T10:37:46.233Z"
     },
@@ -206794,7 +206794,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T10:37:46.660Z",
       "created_at": "2026-06-01T10:37:46.660Z"
     },
@@ -206813,7 +206813,7 @@
         "Laptops"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T10:37:46.660Z",
       "created_at": "2026-06-01T10:37:46.660Z"
     },
@@ -206833,7 +206833,7 @@
         "Video Games"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T10:37:46.660Z",
       "created_at": "2026-06-01T10:37:46.660Z"
     },
@@ -206852,7 +206852,7 @@
         "Laptops"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T10:37:46.660Z",
       "created_at": "2026-06-01T10:37:46.660Z"
     },
@@ -206937,7 +206937,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T10:37:52.548Z",
       "created_at": "2026-06-01T10:37:52.548Z"
     },
@@ -206954,9 +206954,380 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T10:37:52.730Z",
       "created_at": "2026-06-01T10:37:52.730Z"
+    },
+    {
+      "id": 9940,
+      "source": "Ars Technica",
+      "title_en": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
+      "description_en": "I tried to explain OpenAI’s solution more clearly than OpenAI did.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/getty-string-pins-1152x648.jpg",
+      "pub_date": "Mon, 01 Jun 2026 11:00:00 +0000",
+      "author": "\n                    Kai Williams\n                ",
+      "categories": [
+        "AI",
+        "Features",
+        "Science",
+        "math",
+        "openai",
+        "Paul Erdos"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T12:44:35.057Z",
+      "created_at": "2026-06-01T12:44:35.057Z"
+    },
+    {
+      "id": 9941,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: China’s brain implant ambitions",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China has approved the world’s first invasive brain-computer chip—here’s what’s next Sitting in the courtyard of his house in China’s Henan province last October, Dong Hui decided to try holding a…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 12:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T12:44:36.473Z",
+      "created_at": "2026-06-01T12:44:36.473Z"
+    },
+    {
+      "id": 9942,
+      "source": "MIT Technology Review",
+      "title_en": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
+      "description_en": "One day last October, sitting in the courtyard of his house in China’s Henan province, Dong Hui decided to see if he could hold a pen to write.  Dong, 39, had sustained spinal cord injuries in a car accident six years earlier that left him paralyzed from the neck down. Slowly but determinedly, he wrote…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 09:09:00 +0000",
+      "author": "You Xiaoying",
+      "categories": [
+        "Biotechnology and health",
+        "App",
+        "China",
+        "Summary"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-01T12:44:36.473Z",
+      "created_at": "2026-06-01T12:44:36.473Z"
+    },
+    {
+      "id": 9943,
+      "source": "The Guardian AI",
+      "title_en": "Ghost in the Machine review – entertaining AI polemic dives into its dark history in race politics and eugenics",
+      "description_en": "The roots of AI in rightwing ideology is examined in Valerie Veatch’s enjoyable doc, including an array of colourful, often crazed, figures\nDirector Valerie Veatch made her name with documentaries such as Love Child (about an online gaming-addicted couple whose child died of malnutrition) and Me at the Zoo (about American vlogger Cara Cunningham), films that explore the intersection of real-world subcultures and internet communities. Her latest continues in this vein, although its self-set remit",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/film/2026/jun/01/ghost-in-the-machine-review-entertaining-ai-polemic-dives-into-its-dark-history-in-race-politics-and-eugenics",
+      "image_url": "https://i.guim.co.uk/img/media/9705ea73cf164f37a98134045243cbe87b553374/472_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=0e32ec17a18049c70adb9d06c650c3c6",
+      "pub_date": "Mon, 01 Jun 2026 12:00:16 GMT",
+      "author": "Leslie Felperin",
+      "categories": [
+        {
+          "_": "Film",
+          "$": {
+            "domain": "https://www.theguardian.com/film/film"
+          }
+        },
+        {
+          "_": "Documentary films",
+          "$": {
+            "domain": "https://www.theguardian.com/film/documentary"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T12:44:37.621Z",
+      "created_at": "2026-06-01T12:44:37.621Z"
+    },
+    {
+      "id": 9944,
+      "source": "Interesting Engineering",
+      "title_en": "Supersonic to nuclear: 7 game-changing weapons developed during World War II",
+      "description_en": "World War II was not just a battle of soldiers, tanks, and aircraft. Behind the...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/7-secret-weapons-world-war-2",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/v-2-rocket.jpg",
+      "pub_date": "Mon, 01 Jun 2026 11:05:51 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T12:44:38.102Z",
+      "created_at": "2026-06-01T12:44:38.102Z"
+    },
+    {
+      "id": 9945,
+      "source": "CNBC Tech",
+      "title_en": "Berkshire Hathaway deal, startups grapple with AI, the cost of the Iran war and more in Morning Squawk",
+      "description_en": "Here are five key things investors need to know to start the trading day.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/01/5-things-to-know-before-the-market-opens.html",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 12:06:43 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T12:44:38.627Z",
+      "created_at": "2026-06-01T12:44:38.627Z"
+    },
+    {
+      "id": 9946,
+      "source": "CNBC Tech",
+      "title_en": "'Disrupted or dead': AI is crushing a generation of startups built before ChatGPT",
+      "description_en": "The AI boom that has funneled more than $250 billion into OpenAI and Anthropic has left hundreds of startups built before ChatGPT's arrival in 2022 stranded.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 11:47:31 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T12:44:38.627Z",
+      "created_at": "2026-06-01T12:44:38.627Z"
+    },
+    {
+      "id": 9947,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia, Meta and Schlumberger rank among top companies adopting AI, new study says",
+      "description_en": "The AI-Driven Enterprise Institute released new research that breaks down how well S&P 500 companies are adopting AI compared to their peers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/01/nvidia-meta-walmart-among-top-companies-adopting-ai.html",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 11:55:58 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T12:44:38.627Z",
+      "created_at": "2026-06-01T12:44:38.627Z"
+    },
+    {
+      "id": 9948,
+      "source": "CNBC Tech",
+      "title_en": "AI revolution is ‘50x bigger’ than the dot-com boom: SoftBank's Masayoshi Son to CNBC",
+      "description_en": "The AI revolution will be 50 times bigger than the dot-com revolution in the 2000s, SoftBank CEO Masayoshi Son told CNBC Monday.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/01/softbank-masayoshi-son-ai-revolution-investment.html",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 11:58:41 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T12:44:38.627Z",
+      "created_at": "2026-06-01T12:44:38.627Z"
+    },
+    {
+      "id": 9949,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia says RTX Spark chip will support all major anti-cheat and DRM technologies — Fortnite, Valorant, Denuvo, and more to work natively with Windows on Arm",
+      "description_en": "Microsoft and Nvidia are working together to bring popular anti-cheat software to the new RTX Spark chip, allowing support for all major multiplayer games. So far, Fortnite is the only game that runs on Windows-on-Arm devices with a native ARM64 port for Easy Anti-Cheat, but the precedent is about to change.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/nvidia-says-rtx-spark-chip-will-support-all-major-anti-cheat-and-drm-technologies-fortnite-valorant-denuvo-and-more-to-work-natively-with-windows-on-arm",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/EzaSfwnXQ9cZe8iMmiCaNT-1280-80.jpg",
+      "pub_date": "Mon, 01 Jun 2026 12:37:07 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T12:44:38.814Z",
+      "created_at": "2026-06-01T12:44:38.814Z"
+    },
+    {
+      "id": 9950,
+      "source": "Tom's Hardware",
+      "title_en": "Supermicro shows off Vera Rubin NVL72 rack with all-new type of coolant — company claims coolant offers 1,000 times higher electrical impedance over standard cooling",
+      "description_en": "Supermicro demonstrates upcoming servers based on AMD’s EPYC ‘Venice’ CPUs, MI450 accelerators, and Nvidia’s Vera Rubin-based solutions.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/servers/supermicro-shows-off-vera-rubin-nvl72-rack-with-all-new-type-of-coolant-company-claims-coolant-offers-1-000-times-higher-electrical-impedance-over-standard-cooling",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Dpt4ueguGzQZdFXE7AzPdP-1280-80.jpg",
+      "pub_date": "Mon, 01 Jun 2026 12:02:07 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "Servers",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T12:44:38.814Z",
+      "created_at": "2026-06-01T12:44:38.814Z"
+    },
+    {
+      "id": 9951,
+      "source": "Tom's Hardware",
+      "title_en": "Save 78% on Nord's latest Complete VPN package — 27 months of online protection for $107",
+      "description_en": "Pick up 27 months of NordVPN coverage for just $107. Fast VPN connections, anti-virus protection, and a password manager for only $3.99 per month.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/vpn/save-78-percent-on-nords-latest-complete-vpn-package-27-months-of-online-protection-for-usd107",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/KRNxtRWCHBqEezu9Sqqs6F-1280-80.jpg",
+      "pub_date": "Mon, 01 Jun 2026 11:36:31 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "VPN",
+        "Software",
+        "Security Software"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T12:44:38.814Z",
+      "created_at": "2026-06-01T12:44:38.814Z"
+    },
+    {
+      "id": 9952,
+      "source": "Tom's Hardware",
+      "title_en": "US closes loophole that allowed Chinese-owned subsidiaries located outside China to buy AI chips — report claims that hundreds of thousands of advanced AI chips have been acquired through BIS blind spot",
+      "description_en": "The BIS just issued a clarification that Chinese-owned subsidiaries are included in U.S. export controls, even if they're based outside of China. However, one source said that some companies have been using this loophole to acquire AI chips that estimated to be in the hundreds of thousands.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/us-closes-loophole-that-allowed-chinese-owned-subsidiaries-located-outside-china-to-buy-ai-chips-report-claims-that-hundreds-of-thousands-of-advanced-ai-chips-have-been-acquired-through-bis-blind-spot",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/65KTueABkvd4J4WBitjwX9-1280-80.jpg",
+      "pub_date": "Mon, 01 Jun 2026 11:32:24 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T12:44:38.814Z",
+      "created_at": "2026-06-01T12:44:38.814Z"
+    },
+    {
+      "id": 9953,
+      "source": "Tom's Hardware",
+      "title_en": "Computex 2026 Live: Every update and announcement from day one in Taipei",
+      "description_en": "Every update live from Taipei as Computex continues in Taiwan.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/news/live/computex-2026-",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/3LX9BhqwRcQghMuXtQxCAK-1280-80.jpg",
+      "pub_date": "Mon, 01 Jun 2026 10:39:37 +0000",
+      "author": " Stephen Warwick ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-01T12:44:38.814Z",
+      "created_at": "2026-06-01T12:44:38.814Z"
+    },
+    {
+      "id": 9954,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "NVIDIA представила RTX Spark: не видеокарту, а мощную систему-на-чипе для ультрабуков и мини-ПК  Мощности ARM-чипа, по заверениям Хуанга, хватит для AAA-игр в 1440p и 100 FPS со включённой трассировко",
+      "description_en": "NVIDIA представила RTX Spark: не видеокарту, а мощную систему-на-чипе для ультрабуков и мини-ПК  Мощности ARM-чипа, по заверениям Хуанга, хватит для AAA-игр в 1440p и 100 FPS со включённой трассировкой лучей, рендера 3D-сцен объёмом до 90 ГБ, редактирования 12К-видео и локального запуска LLM на 120 миллиардов параметров. Заявка — максимальный хайп.RTX Spark — это попытка создать аналог яблочных M-чипов, но для Windows. Внутри 20-ядерный процессор Grace, разработанный вместе с MediaTek, а также г",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33277",
+      "image_url": "https://cdn4.telesco.pe/file/PkwogMRVMxAT_iEu-_1-akehtCaaW3lKhVfeIU3C0kfGy4O3w_uSnHaI0vzNL_oOWfKZS_Nt7cfqHmtGDcfTFBBpql-uU1hyX9qCjapBaiekV20kvOPDq3GWUxo9fEf6-e_hBZt8dqNwdsJgRMptEkOR2Vm3l6dUGx4Jev0xN77XiGzp2JJYwNTjgtx9a-tLilUi-MpVYpuShg1Wv478EXL7lbyCl_mbcGjO76TAxvgVq-DvAlOuwbehH2cpvnciwEvjEn6YNj_Kd_Cikh1Qfzgs34Hdn_fbQpRNEWmOifTWaPncylP61mh05u2toat0trYXYPQbfscZG85d7T7n2w.jpg",
+      "pub_date": "2026-06-01T12:12:09+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T12:44:44.005Z",
+      "created_at": "2026-06-01T12:44:44.005Z"
+    },
+    {
+      "id": 9955,
+      "source": "XOR Journal (TG)",
+      "title_en": "Некоторые вкладки живут дольше ИИ-стартапов 😂@xor_journal",
+      "description_en": "Некоторые вкладки живут дольше ИИ-стартапов 😂@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9409",
+      "image_url": "https://cdn4.telesco.pe/file/UGZdgBzLUoNdBL7eDyRsRXQlP3ClLlQQu-n-7-g3NOzBoA6B1g39i1jcpnawxtVtKwO2fCj5VwqC6zHP4H1Rl15qgaBCcyF8N6FKyNqLvKtPSmizD7sqkjsRECITM67fA70jLmSWxoc22XvlAZGr-TRDukcI_SCSNf7rOYSGZUqRIHL2jp4gH5yPlTcvVxoi3lNExroHJhlZ5ADRssl0lN5UTRTzt3FtE90VNGtfy3YzLigqxa8g4U6rWDG3sUA0-XoiuqCgoHsNl3Q6bfVeu-7bLMIFlfSwAGcSRNbaryr5lTQMFaaBUvJ0mgEk4n1iU5DGq4sQ20VT_iJuULntMQ.jpg",
+      "pub_date": "2026-06-01T11:30:43+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T12:44:44.303Z",
+      "created_at": "2026-06-01T12:44:44.303Z"
+    },
+    {
+      "id": 9956,
+      "source": "Hi, AI English (TG)",
+      "title_en": "⚡️ Google Wants to Release Millions of Infected Mosquitoes in the U.S.Google has filed an application with the U.S. Environmental Protection Agency seeking permission to release 64 million male mosqui",
+      "description_en": "⚡️ Google Wants to Release Millions of Infected Mosquitoes in the U.S.Google has filed an application with the U.S. Environmental Protection Agency seeking permission to release 64 million male mosquitoes infected with the bacterium Wolbachia in California and Florida. The goal of the Debug Project is to reduce the spread of mosquito-borne diseases such as West Nile virus and St. Louis encephalitis.⚙️ Wolbachia makes male mosquitoes effectively sterile. They can still mate, but if an infected ma",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2550",
+      "image_url": "https://cdn4.telesco.pe/file/B7vVIg_0dModVu_OOwzdRJOgqwa3drCRRxCoR646UIzL1M85Ztg4nyFeo-JxkQbYx4bte-t-LRtE2dGsit6N8uyFUmvmgViq5UTShfC5-3t0nmogLBN8hDMBv-nCf1cJRRnC469UTIu4MC0LxIUgRu-pztmAEd_DHU5BP3Q2MtT2wZS4ouS7IFZBnMJm8JSGly8XpkhBGRcSJakiBQd6VNWVKRTre7urwryB0sTRwtiaOqDYelp21XUFnWfzbOLVo9PA8cSqryVokEsBQrJIoSsm6um75qVBjBF3Te0N3cDiRuLMJf-kQwvB3tcEk4k5je15agIbYV0dPvrGJIjmlw.jpg",
+      "pub_date": "2026-06-01T12:32:34+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T12:44:44.878Z",
+      "created_at": "2026-06-01T12:44:44.878Z"
+    },
+    {
+      "id": 9957,
+      "source": "AI Post (TG)",
+      "title_en": "🔥NVIDIA released its most powerful open AI model for robotaxisNVIDIA just unveiled its most advanced open-source driving AI yet: Alpamayo 2 Super. At 32 billion parameters, it’s three times larger th",
+      "description_en": "🔥NVIDIA released its most powerful open AI model for robotaxisNVIDIA just unveiled its most advanced open-source driving AI yet: Alpamayo 2 Super. At 32 billion parameters, it’s three times larger than its predecessor and designed to handle the messy reality of real-world driving.The model can track everything happening around a vehicle in 360°, understand complex road situations in 3D, predict what other drivers might do next, and make split-second decisions like when to merge, yield, or brake",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7086",
+      "image_url": null,
+      "pub_date": "2026-06-01T12:40:38+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-01T12:44:45.003Z",
+      "created_at": "2026-06-01T12:44:45.003Z"
     }
   ]
 }
