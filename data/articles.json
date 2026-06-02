@@ -209110,7 +209110,7 @@
         "Tutorials"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-02T01:57:19.597Z",
       "created_at": "2026-06-02T01:57:19.597Z"
     },
@@ -209146,7 +209146,7 @@
       "author": "Jay Kakade",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-02T01:57:19.923Z",
       "created_at": "2026-06-02T01:57:19.923Z"
     },
@@ -209165,7 +209165,7 @@
         "Laptops"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-02T01:57:20.826Z",
       "created_at": "2026-06-02T01:57:20.826Z"
     },
@@ -209182,9 +209182,151 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-02T01:57:23.212Z",
       "created_at": "2026-06-02T01:57:23.212Z"
+    },
+    {
+      "id": 10049,
+      "source": "New Atlas",
+      "title_en": "Slick pod camper solves micro-camping's biggest problem",
+      "description_en": "Small camping trailers are great for a lot of reasons. They're easier to tow and maneuver than large trailers. They're compatible with a large variety of vehicles, likely including the everyday driver parked in your garage. Less trailer usually means less price tag, and less money spent on gas. The list goes on, but for all those advantages, small trailers usually fall short on one highly critical spec: a bathroom. The latest ROG trailer from Encore RV solves the lack of bathroom issue in a rath",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/camping-trailers/encore-rog-small-camper-front-bathroom/",
+      "image_url": null,
+      "pub_date": "Tue, 02 Jun 2026 04:25:58 GMT",
+      "author": "C.C. Weiss",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-02T06:44:30.615Z",
+      "created_at": "2026-06-02T06:44:30.615Z"
+    },
+    {
+      "id": 10050,
+      "source": "The Guardian AI",
+      "title_en": "Tuesday briefing: Palantir’s rise – and why so many oppose its role in the British state",
+      "description_en": "In today’s newsletter: Its software is used from health services to militaries. But controversies and criticism of the $375bn company are leading some to ask if  Palantir is too powerful\nGood morning. The Peter Mandelson story keeps unfolding. Peter Walker explains here what is in the latest release of documents, and Henry Dyer takes a look at the key papers missing from the latest disclosures. But today we are covering another major story – Palantir.\nFew companies attract controversy more than ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/world/2026/jun/02/tuesday-briefing-palantirs-rise-and-why-so-many-oppose-its-role-in-the-british-state",
+      "image_url": "https://i.guim.co.uk/img/media/9d6834211393b71b8b8da599e6f972de7be43345/483_0_4532_3625/master/4532.jpg?width=140&quality=85&auto=format&fit=max&s=75d5b938f0d8f501ef007dec6df71119",
+      "pub_date": "Tue, 02 Jun 2026 05:46:12 GMT",
+      "author": "Patrick Greenfield",
+      "categories": [
+        {
+          "_": "Palantir",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/palantir"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Peter Thiel",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/peter-thiel"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Military",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/military"
+          }
+        },
+        {
+          "_": "NHS",
+          "$": {
+            "domain": "https://www.theguardian.com/society/nhs"
+          }
+        },
+        {
+          "_": "Data protection",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/data-protection"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T06:44:30.982Z",
+      "created_at": "2026-06-02T06:44:30.982Z"
+    },
+    {
+      "id": 10051,
+      "source": "Tom's Hardware",
+      "title_en": "Watch Intel's Computex 2026 keynote here — CEO Lip-Bu Tan takes the stage in Taipei at 10:30pm PT on June 1",
+      "description_en": "Intel CEO Lip-Bu Tan is set to take the stage at Computex 2026 for a keynote address at 10:30 pm PT on June 1",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/watch-intels-computex-2026-keynote-here-ceo-lip-bu-tan-takes-the-stage-in-taipei-at-10-30pm-pt-on-june-1",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/h7TMYHpYJx2BNkQdCpHViE-1280-80.jpg",
+      "pub_date": "Tue, 02 Jun 2026 03:30:00 +0000",
+      "author": " Jake Roach ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-02T06:44:32.722Z",
+      "created_at": "2026-06-02T06:44:32.722Z"
+    },
+    {
+      "id": 10052,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "❓ Угадайте компанию:✅ Создала нейросеть, которая входит в топ лучших генераторов картинок вместе с Nano Banana Pro и GPT Image 2.✅ Ее единственная основательница (на первом фото) родом из России.🐼 Эт",
+      "description_en": "❓ Угадайте компанию:✅ Создала нейросеть, которая входит в топ лучших генераторов картинок вместе с Nano Banana Pro и GPT Image 2.✅ Ее единственная основательница (на первом фото) родом из России.🐼 Это стартап Recraft — он выпустил новое семейство генераторов картинок V4.1.Главное отличие — ставка на эстетику. Компания обучает модели полностью с нуля, рассказывает CEO и основательница Recraft Анна Вероника Дорогуш:«Наша ниша — это эстетика. Мы работаем над тем, чтобы представление модели о красо",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3260",
+      "image_url": "https://cdn4.telesco.pe/file/JAHDc3yhNwsHkNfDVQWs1zwYAbSytXpxVBlf1lSsZl913Dpa8wAAMeO3nsqN4v2I9cRSU0XEWWV1ZU1WIub2-FFgFQn1zi56TeVrmZPcCdUNw1O8GW4Z0G_xaJAuxIdj8bedRXhs-AUgWarjWzFLvXWArhhRYFkCn1I5NJnSzwigcWbBihkLj0nuB9NWoIYxBLCpYNOrjI_J5sX8ta19DYhX_1b3U_s4NNj1OYzuMSl9FoSRSnf73TUrNkNgEnw4zKSUUSEetDzMgVppegtfBUUrXt9RCx8TVC3Tr8ARVwWW9akUeYAmcor9R_amNzDppfs8OAPPj_w1TkHe22rDMg.jpg",
+      "pub_date": "2026-06-02T06:17:53+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T06:44:34.492Z",
+      "created_at": "2026-06-02T06:44:34.492Z"
+    },
+    {
+      "id": 10053,
+      "source": "AI Post (TG)",
+      "title_en": "👁️ NVIDIA unveiled a ready-to-build humanoid robotNVIDIA and Sharpa have launched the Isaac GR00T Reference Humanoid Robot, an open-source-style reference platform designed to make humanoid AI resear",
+      "description_en": "👁️ NVIDIA unveiled a ready-to-build humanoid robotNVIDIA and Sharpa have launched the Isaac GR00T Reference Humanoid Robot, an open-source-style reference platform designed to make humanoid AI research much easier.Think of it as the “developer kit” for humanoid robots: body, hands, sensors, AI models, and computing power all bundled into one system.Key specs:• Built on Unitree’s H2 Plus humanoid body with 31 degrees of freedom.• Features ultra-sensitive Sharpa robotic hands with over 1,000 sens",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7093",
+      "image_url": null,
+      "pub_date": "2026-06-02T04:11:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-02T06:44:34.796Z",
+      "created_at": "2026-06-02T06:44:34.796Z"
     }
   ]
 }
