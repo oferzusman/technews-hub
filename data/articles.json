@@ -209271,7 +209271,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-02T06:44:30.982Z",
       "created_at": "2026-06-02T06:44:30.982Z"
     },
@@ -209307,7 +209307,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-02T06:44:34.492Z",
       "created_at": "2026-06-02T06:44:34.492Z"
     },
@@ -209378,9 +209378,670 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-02T06:49:43.390Z",
       "created_at": "2026-06-02T06:49:43.390Z"
+    },
+    {
+      "id": 10055,
+      "source": "The Decoder",
+      "title_en": "OpenAI turns ChatGPT into a career platform with job search and CV editor",
+      "description_en": "OpenAI turns ChatGPT into a career tool: A new job search feature surfaces personalized listings from Indeed, Upwork, and Appcast, initially US-only. Resumes can also be created directly in ChatGPT and tailored to specific roles.\nThe article OpenAI turns ChatGPT into a career platform with job search and CV editor appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-turns-chatgpt-into-a-career-platform-with-job-search-and-cv-editor/",
+      "image_url": null,
+      "pub_date": "Tue, 02 Jun 2026 10:40:22 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T11:08:55.774Z",
+      "created_at": "2026-06-02T11:08:55.774Z"
+    },
+    {
+      "id": 10056,
+      "source": "The Decoder",
+      "title_en": "Warren Buffett's Berkshire Hathaway bets $10 billion on Alphabet's AI infrastructure buildout",
+      "description_en": "Alphabet is raising $80 billion to scale its AI infrastructure, backed by a $10 billion private investment from Warren Buffett. The company expects capital spending to hit $190 billion in 2026. That number will only go up.\nThe article Warren Buffett's Berkshire Hathaway bets $10 billion on Alphabet's AI infrastructure buildout appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/warren-buffetts-berkshire-hathaway-bets-10-billion-on-alphabets-ai-infrastructure-buildout/",
+      "image_url": null,
+      "pub_date": "Tue, 02 Jun 2026 10:15:30 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Google"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T11:08:55.775Z",
+      "created_at": "2026-06-02T11:08:55.775Z"
+    },
+    {
+      "id": 10057,
+      "source": "The Decoder",
+      "title_en": "OpenAI models now available on Amazon Web Services",
+      "description_en": "OpenAI is making GPT-5.5, GPT-5.4, and Codex available through Amazon Bedrock at the same prices as OpenAI's own platform. The models run in commercial and government AWS regions but are limited to the US for now. Usage counts toward existing AWS contracts.\nThe article OpenAI models now available on Amazon Web Services appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-models-now-available-on-amazon-web-services/",
+      "image_url": null,
+      "pub_date": "Tue, 02 Jun 2026 08:00:26 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Amazon",
+        "AWS"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-02T11:08:55.775Z",
+      "created_at": "2026-06-02T11:08:55.775Z"
+    },
+    {
+      "id": 10058,
+      "source": "MIT Technology Review",
+      "title_en": "How small businesses can leverage AI",
+      "description_en": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. A large company can hire experts to…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "image_url": null,
+      "pub_date": "Tue, 02 Jun 2026 09:00:00 +0000",
+      "author": "Peter Hall",
+      "categories": [
+        "Artificial intelligence",
+        "App",
+        "aritficial intelligence"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-02T11:08:55.925Z",
+      "created_at": "2026-06-02T11:08:55.925Z"
+    },
+    {
+      "id": 10059,
+      "source": "MarkTechPost",
+      "title_en": "Alibaba’s Qwen Team Launches Qwen3.7-Plus, Adding Vision, Deep Reasoning, Tool Invocation, and Autonomous Iteration on the Bailian Platform",
+      "description_en": "Qwen3.7-Plus is Alibaba's multimodal agent model on Bailian, understanding images and video while adding self-programming and tool invocation.\nThe post Alibaba’s Qwen Team Launches Qwen3.7-Plus, Adding Vision, Deep Reasoning, Tool Invocation, and Autonomous Iteration on the Bailian Platform appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/02/alibabas-qwen-team-launches-qwen3-7-plus-adding-vision-deep-reasoning-tool-invocation-and-autonomous-iteration-on-the-bailian-platform/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-02-at-2.02.16-AM.png",
+      "pub_date": "Tue, 02 Jun 2026 09:07:48 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-02T11:08:56.182Z",
+      "created_at": "2026-06-02T11:08:56.182Z"
+    },
+    {
+      "id": 10060,
+      "source": "MarkTechPost",
+      "title_en": "JetBrains Releases Mellum2: A 12B MoE Model for Fast, Specialized Tasks in Multi-Model AI Pipelines",
+      "description_en": "JetBrains releases Mellum2 under Apache 2.0 — a 12B MoE model trained on 10.6 trillion tokens for AI workflows.\nThe post JetBrains Releases Mellum2: A 12B MoE Model for Fast, Specialized Tasks in Multi-Model AI Pipelines appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/02/jetbrains-releases-mellum2-a-12b-moe-model-for-fast-specialized-tasks-in-multi-model-ai-pipelines/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-02-at-1.02.55-AM-1.png",
+      "pub_date": "Tue, 02 Jun 2026 08:00:32 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-02T11:08:56.182Z",
+      "created_at": "2026-06-02T11:08:56.182Z"
+    },
+    {
+      "id": 10061,
+      "source": "OpenAI Blog",
+      "title_en": "Codex is becoming a productivity tool for everyone",
+      "description_en": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/codex-for-knowledge-work",
+      "image_url": null,
+      "pub_date": "Tue, 02 Jun 2026 02:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Global Affairs"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-02T11:08:56.578Z",
+      "created_at": "2026-06-02T11:08:56.578Z"
+    },
+    {
+      "id": 10062,
+      "source": "New Atlas",
+      "title_en": "GM’s new California ideas unit reimagines the off-roader",
+      "description_en": "Fancy driving an off-roader guided by its own remote drone flying ahead to recce the terrain and relay images back to your dashboard screen?\nContinue Reading\nCategory: Automotive, Transport\nTags: GM, GMC, Hummer, Electric Vehicles, Concept Vehicle, Truck, SUV",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/automotive/gmc-hummer-x-concept-electric-truck-suv/",
+      "image_url": null,
+      "pub_date": "Tue, 02 Jun 2026 10:08:01 GMT",
+      "author": "Simon Heptinstall",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T11:08:56.853Z",
+      "created_at": "2026-06-02T11:08:56.853Z"
+    },
+    {
+      "id": 10063,
+      "source": "The Guardian AI",
+      "title_en": "Google owner Alphabet to sell $80bn in stock to fund AI spending spree",
+      "description_en": "One of largest equity fundraisings ever includes $10bn share sale to US investment group Berkshire Hathaway\n\nBusiness live – latest updates\n\nGoogle’s parent company, Alphabet, has said it plans to raise up to $80bn (£59bn) in equity to fund its vast artificial intelligence infrastructure investments, raising further questions over the economics of the AI boom.\nThe move, one of the largest equity fundraisings ever, includes a $10bn share sale to the US investment group Berkshire Hathaway, which w",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/02/google-alphabet-sell-stock-ai-share-sale-berkshire-hathaway",
+      "image_url": "https://i.guim.co.uk/img/media/f5adbec185ec7c6d129ea3f1116b6c893ffd6018/558_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1e274398b48b61390cf8570a0a1f4855",
+      "pub_date": "Tue, 02 Jun 2026 08:38:22 GMT",
+      "author": "Julia Kollewe and Graeme Wearden",
+      "categories": [
+        {
+          "_": "Alphabet",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/alphabet"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Google",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/google"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-02T11:08:57.035Z",
+      "created_at": "2026-06-02T11:08:57.035Z"
+    },
+    {
+      "id": 10064,
+      "source": "The Guardian AI",
+      "title_en": "Florida lawsuit accuses OpenAI of ignoring safety warnings and putting children at risk",
+      "description_en": "State sues maker of ChatGPT and CEO Sam Altman, alleging company ‘allowed a dangerous product to reach millions’\nFlorida filed a lawsuit against OpenAI, the maker of ChatGPT, and its CEO, Sam Altman, on Monday alleging that the company concealed serious safety risks with its chatbot. Florida is the first state in the US to sue the artificial intelligence company.\nThe 83-page suit was brought by Florida’s attorney general, James Uthmeier, and alleges that OpenAI “aggressively marketed” ChatGPT to",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/01/florida-lawsuit-openai-sam-altman",
+      "image_url": "https://i.guim.co.uk/img/media/c0964c5c069ea10a999ebc43dd184effb88e8bad/253_0_4592_3673/master/4592.jpg?width=140&quality=85&auto=format&fit=max&s=031dc05b5314725f9dbe2f15f6c310c4",
+      "pub_date": "Mon, 01 Jun 2026 21:51:03 GMT",
+      "author": "Dara Kerr",
+      "categories": [
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Florida",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/florida"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Sam Altman",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/sam-altman"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-02T11:08:57.036Z",
+      "created_at": "2026-06-02T11:08:57.036Z"
+    },
+    {
+      "id": 10065,
+      "source": "Interesting Engineering",
+      "title_en": "MIT’s non-invasive ultrasound pacemaker could reduce the need for cardiac implants",
+      "description_en": "MIT researchers have developed a noninvasive, surgery-free alternative to standard cardiac implants: a wearable ultrasound...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/mit-non-invasive-wearable-pacemaker",
+      "image_url": "https://www.youtube.com/embed/BpyBev2724Y",
+      "pub_date": "Tue, 02 Jun 2026 10:06:13 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T11:08:57.798Z",
+      "created_at": "2026-06-02T11:08:57.798Z"
+    },
+    {
+      "id": 10066,
+      "source": "Interesting Engineering",
+      "title_en": "From fuel waste to fabrics: Engineered bacteria convert waste glycerol into green nylon",
+      "description_en": "Researchers at the Korea Advanced Institute of Science and Technology (KAIST) have engineered microbes that...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/microbes-biodiesel-byproduct-nylon-building-blocks",
+      "image_url": null,
+      "pub_date": "Tue, 02 Jun 2026 09:15:00 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T11:08:57.798Z",
+      "created_at": "2026-06-02T11:08:57.798Z"
+    },
+    {
+      "id": 10067,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia's Jensen Huang says Marvell could be the next trillion-dollar company; stock jumps 25%",
+      "description_en": "Nvidia's CEO, Jensen Huang, hailed this chip designer as the next trillion-dollar firm, sending its shares up sharply in early market trading.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/02/jensen-huang-nvidia-marvell-technology-trillion-dollar-ai.html",
+      "image_url": null,
+      "pub_date": "Tue, 02 Jun 2026 10:14:51 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T11:08:58.305Z",
+      "created_at": "2026-06-02T11:08:58.305Z"
+    },
+    {
+      "id": 10068,
+      "source": "Tom's Hardware",
+      "title_en": "Tom's Hardware Unfiltered: Computex 2026, Day 1 — night markets, taking the MRT train, and a slew of demos",
+      "description_en": "The Tom's Hardware team in Taipei reports back on what they've been up to as Computex 2026 begins to gather momentum. Take a look at how we're making",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/toms-hardware-unfiltered-computex-2026-day-1-night-markets-taking-the-mrt-train-and-a-slew-of-demos",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/HvhePgpR6iRvGznQmnuwzK-1280-80.jpg",
+      "pub_date": "Tue, 02 Jun 2026 11:06:04 +0000",
+      "author": " Paul Alcorn ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T11:08:58.347Z",
+      "created_at": "2026-06-02T11:08:58.347Z"
+    },
+    {
+      "id": 10069,
+      "source": "Tom's Hardware",
+      "title_en": "Drones to protect undersea cables from Russian sabotage touted in new defense pact  — US one of three partners developing new tech to protect $1.8 trillion in daily transactions",
+      "description_en": "The Australian, UK, and U.S. governments just announced a cooperation to develop new technologies to protect underwater cables. The move comes after recent incidents of damages to undersea cables across the world, as well as the Russian Navy's surveying of areas near where undersea cables run.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/drones-to-protect-undersea-cables-from-russian-sabotage-touted-in-new-defense-pact-us-one-of-three-partners-developing-new-tech-to-protect-usd1-8-trillion-in-daily-transactions",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4RGefiEVgjf5GMgRNvTLa5-1280-80.png",
+      "pub_date": "Tue, 02 Jun 2026 11:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T11:08:58.347Z",
+      "created_at": "2026-06-02T11:08:58.347Z"
+    },
+    {
+      "id": 10070,
+      "source": "Tom's Hardware",
+      "title_en": "Take home Gigabyte's Aero X16 gaming laptop for just $1,389.99 and save $610 —  packed with 32GB of RAM and a powerful RTX 5070 GPU",
+      "description_en": "Gigabyte's Aero X16 packs 32GB of RAM, a 1TB SSD, and a powerful Nvidia RTX 5070 GPU all for $1389.99 in this Best Buy deal.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/take-home-gigabytes-aero-x16-gaming-laptop-for-just-usd1-389-99-and-save-usd610-packed-with-32gb-of-ram-and-a-powerful-rtx-5070-gpu",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/xZohKCRzpbFzpi35jzmvSn-1280-80.jpg",
+      "pub_date": "Tue, 02 Jun 2026 10:56:16 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "Gaming Laptops",
+        "Laptops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T11:08:58.347Z",
+      "created_at": "2026-06-02T11:08:58.347Z"
+    },
+    {
+      "id": 10071,
+      "source": "Tom's Hardware",
+      "title_en": "AMD ‘had to re-engineer’ the Ryzen 7 5800X3D for a re-release — 10th Anniversary Edition chip had ‘a whole body of engineering work’ put into it",
+      "description_en": "AMD just reintroduced the Ryzen 7 5800X3D, but it wasn't as simple as spinning up the old manufacturing process, as the original bonding method TSMC used was no longer available.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-had-to-re-engineer-the-ryzen-7-5800x3d-for-a-re-release-10th-anniversary-edition-chip-had-a-whole-body-of-engineering-work-put-into-it",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/8wErtoG3paXuDpFUDvEH27-1280-80.jpg",
+      "pub_date": "Tue, 02 Jun 2026 10:41:03 +0000",
+      "author": " Jake Roach ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T11:08:58.347Z",
+      "created_at": "2026-06-02T11:08:58.347Z"
+    },
+    {
+      "id": 10072,
+      "source": "Tom's Hardware",
+      "title_en": "Frore System’s solid-state AirJet Mini cools Intel’s Wildcat Lake laptop reference design – 15W of sustained, fanless cooling helps MacBook Neo competitor reach a svelte 11.3 mm, remain silent",
+      "description_en": "Frore has worked with Intel to feature its AirJet solid-state cooling chip inside its much-hyped Wildcat Lake reference laptop. These laptops will need to stay slim, quiet, and affordable if they want to compete with the MacBook Neo, and the AirJet should help Intel fight Apple on at least two of those fronts.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/laptops/frore-systems-solid-state-airjet-mini-cools-intels-wildcat-lake-laptop-reference-design-15w-of-sustained-fanless-cooling-helps-macbook-neo-competitor-reach-a-svelte-11-3-mm-remain-silent",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/UeAqnBQwJEVZ9sG7yvtmET-1280-80.png",
+      "pub_date": "Tue, 02 Jun 2026 10:10:00 +0000",
+      "author": " Matt Safford ",
+      "categories": [
+        "Laptops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T11:08:58.347Z",
+      "created_at": "2026-06-02T11:08:58.347Z"
+    },
+    {
+      "id": 10073,
+      "source": "Tom's Hardware",
+      "title_en": "Teen’s Bluetooth speaker named ‘BOMB’ caused a 10-hour delay on flight from Newark to Spain — passenger reported concerns to flight attendant at 32,000 feet, forcing plane back to the US",
+      "description_en": "Passengers on United Airlines flight UA236 on Saturday were subjected to deplaning, TSA rescreening, and over 10 hours of delays thanks to a teen foolishly naming their Bluetooth speaker 'BOMB.'",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/speakers/teens-bluetooth-speaker-named-bomb-caused-a-10-hour-delay-on-flight-from-newark-to-spain-passenger-reported-concerns-to-flight-attendant-at-32-000-feet-forcing-plane-back-to-the-us",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vm5FfF3kPEoUZranNQCy6W-1280-80.jpg",
+      "pub_date": "Tue, 02 Jun 2026 10:00:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Speakers"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T11:08:58.347Z",
+      "created_at": "2026-06-02T11:08:58.347Z"
+    },
+    {
+      "id": 10074,
+      "source": "Tom's Hardware",
+      "title_en": "Chinese military has been acquiring Nvidia chips, even post-Washington export controls, research claims — multiple institutions linked to the PLA asked for Nvidia AI chips, according to publicly available documents",
+      "description_en": "A business-intelligence researcher said that the Chinese military has been actively acquiring Nvidia AI chips, even after the U.S. put export controls on them. Public documents show that some institutions ask for these chips either through the specifications they demand or by directly asking for Nvidia chips by name.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/chinese-military-has-been-acquiring-nvidia-chips-even-post-washington-export-controls-research-claims-multiple-institutions-linked-to-the-pla-asked-for-nvidia-ai-chips-according-to-publicly-available-documents",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/JnFgj2Y4HeKmY254WXX9N7-1280-80.jpg",
+      "pub_date": "Tue, 02 Jun 2026 09:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-02T11:08:58.347Z",
+      "created_at": "2026-06-02T11:08:58.347Z"
+    },
+    {
+      "id": 10075,
+      "source": "Product Hunt",
+      "title_en": "Fundraisly",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/fundraisly",
+      "image_url": null,
+      "pub_date": "2026-05-28T12:39:22.000Z",
+      "author": "Zac Zuo",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-02T11:09:02.950Z",
+      "created_at": "2026-06-02T11:09:02.950Z"
+    },
+    {
+      "id": 10076,
+      "source": "Product Hunt",
+      "title_en": "Sortail",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/sortail",
+      "image_url": null,
+      "pub_date": "2026-05-22T22:52:56.000Z",
+      "author": "Andrew Leshkin (lazy)",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-02T11:09:02.950Z",
+      "created_at": "2026-06-02T11:09:02.950Z"
+    },
+    {
+      "id": 10077,
+      "source": "Product Hunt",
+      "title_en": "findloc.ai",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/findloc-ai-business-location-research",
+      "image_url": null,
+      "pub_date": "2026-05-20T00:48:23.000Z",
+      "author": "Daniel Duan",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-02T11:09:02.951Z",
+      "created_at": "2026-06-02T11:09:02.951Z"
+    },
+    {
+      "id": 10078,
+      "source": "Product Hunt",
+      "title_en": "Paste MCP & AI Tools",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/paste",
+      "image_url": null,
+      "pub_date": "2026-06-01T17:55:40.000Z",
+      "author": "Chris Messina",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-02T11:09:02.951Z",
+      "created_at": "2026-06-02T11:09:02.951Z"
+    },
+    {
+      "id": 10079,
+      "source": "Backdoor (TG)",
+      "title_en": "Убийца ChatGPT и Claude от PewDiePie взорвал ИИ-сообщество: репозиторий набрал почти 2️⃣5️⃣ 0️⃣0️⃣0️⃣ звёзд на GitHub — всего за два дня! Им уже заинтересовалась Anthropic. Пьюдс давно увлекается коди",
+      "description_en": "Убийца ChatGPT и Claude от PewDiePie взорвал ИИ-сообщество: репозиторий набрал почти 2️⃣5️⃣ 0️⃣0️⃣0️⃣ звёзд на GitHub — всего за два дня! Им уже заинтересовалась Anthropic. Пьюдс давно увлекается кодингом и сразу невзлюбил чат-боты от больших корпораций — за искусственные ограничения, стоимость и отсутствие анонимности. ИИ-среда Odysseus — его ответ OpenAI, Google и другим корпам.Феликс хотел создать среду, в которой вы сможете собрать весь свой ИИ-стек и не бегать по десяткам сервисов, крадущих",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28824",
+      "image_url": null,
+      "pub_date": "2026-06-02T10:04:42+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T11:09:03.665Z",
+      "created_at": "2026-06-02T11:09:03.665Z"
+    },
+    {
+      "id": 10080,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "В интернете предполагают, что люди, работающие в Microsoft, не пользуются своими же продуктами. Конечно, кто в здравом уме будет пользоваться Windows на ARM, — судя по всему, думают в компании.На фото",
+      "description_en": "В интернете предполагают, что люди, работающие в Microsoft, не пользуются своими же продуктами. Конечно, кто в здравом уме будет пользоваться Windows на ARM, — судя по всему, думают в компании.На фото — представленный вчера Surface Laptop Ultra на NVIDIA RTX Spark.• Канал Wylsacom в MAX",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33308",
+      "image_url": "https://cdn4.telesco.pe/file/WltGZcz0YMsjH_jW-DVTDZ1h_qKJRp7KPJVZsbdGWEm1a8C1OnChgnE0pkbSCJ8onkV5QZfpEqu12hj95xqyVUTkdDiqp_wPacs4oNj8vA9EstOPfTkckggI1F8EYfb-m79nh_yejKQHiaVZNy7f-QWkj5QFv_A8C6ZBH1KL_38ljwFChVnnFSapiDoIg--2TmoE9rBF2Mc0j4DvjmbhQUnxoy9cs8p_D2H-dtpsBvR30TY7uF1NHyOzT-nil6z7DEZG7nduo2YBFargSwgDuZDhwDFwDACDZj-QVhuZBEQscgHntagGPVSo7iVcwgcMb0wow2Jd9qr1RsnNJAKBpA.jpg",
+      "pub_date": "2026-06-02T10:44:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T11:09:03.720Z",
+      "created_at": "2026-06-02T11:09:03.720Z"
+    },
+    {
+      "id": 10081,
+      "source": "XOR Journal (TG)",
+      "title_en": "GitHub Copilot вчера перешёл на оплату по токенам — и пользователи уже негодуют 😖Дело в том, что у некоторых подписчиков кредиты начали таять буквально на глазах: кто-то потратил 20% месячного лимита",
+      "description_en": "GitHub Copilot вчера перешёл на оплату по токенам — и пользователи уже негодуют 😖Дело в том, что у некоторых подписчиков кредиты начали таять буквально на глазах: кто-то потратил 20% месячного лимита на ревью одного небольшого файла, а кто-то сжег половину сразу из-за Copilot Orchestrator с Claude Sonnet.Для понимания разницы цен — один юзер посчитал, что платил всего $29 в месяц, а новая ставка увеличит его расходы почти до $750.Халявный вайбкодинг заканчивается 😭@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9417",
+      "image_url": "https://cdn4.telesco.pe/file/JtdfyRZiLzQ5Yft9eRHE9_u8l2GvrDDKRYahrNn8V9VqN_uO-cBtSHcxYM-o2Njn_FwmT2TojOSY2BDZXOivn9cyvRPZ3BFTCXn_m-GV6q_-W7Mpv6vexCq6Om-XNTUN4PImQtKLP4J2-ujRjAOB7G7mueTdWTwc8YC1O-J_yd7oP-_j5B3O9glvVKLbOxT4EjKBPrTtTX3QwhJ0QN0ZbuFxatGwaBEUmeUwSfeQUUMxMxFgdjzutL3UWS7QS1P7EwwjXjdIuVZRWACiQ_RCB4avVe1_s7e4sJDYm0uSK2HKM2iwnf6FkjR4-UHpMBxHYvcwXJlhMwrYoWXj-BM7_Q.jpg",
+      "pub_date": "2026-06-02T07:38:55+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-02T11:09:03.748Z",
+      "created_at": "2026-06-02T11:09:03.748Z"
+    },
+    {
+      "id": 10082,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "❗️ Таблетка от рака поджелудочной почти вдвое продлила жизнь пациентамНа крупнейшей в мире онкологической конференции ASCO зал аплодировал стоя. Врачи кричали и свистели, что для научной сессии больша",
+      "description_en": "❗️ Таблетка от рака поджелудочной почти вдвое продлила жизнь пациентамНа крупнейшей в мире онкологической конференции ASCO зал аплодировал стоя. Врачи кричали и свистели, что для научной сессии большая редкость. «Это время не было заложено в мой доклад», — пошутил со сцены онколог Брайан Уолпин.Так участники конференции отреагировали на результаты клинических испытаний препарата дараксонрасиб от Revolution Medicines. Его тестировали у 500 пациентов с метастатическим раком поджелудочной железы, у",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3266",
+      "image_url": null,
+      "pub_date": "2026-06-02T10:31:41+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T11:09:04.240Z",
+      "created_at": "2026-06-02T11:09:04.240Z"
+    },
+    {
+      "id": 10083,
+      "source": "Habr (TG)",
+      "title_en": "💙 Нашёл артефакты — получил ценный лут от VKКакой день рождения без подарков? Хабр продолжает отмечать 20-летие, поэтому гранд-партнёр спецпроекта — VK — зашёл в Дом Хабра не с пустыми руками. Ребята",
+      "description_en": "💙 Нашёл артефакты — получил ценный лут от VKКакой день рождения без подарков? Хабр продолжает отмечать 20-летие, поэтому гранд-партнёр спецпроекта — VK — зашёл в Дом Хабра не с пустыми руками. Ребята открыли в виртуальном особняке интерактивную ML-игровую, доверху набитую призами.Внутри рулят инженеры AI VK: те самые люди, которые пилят нейросетевые рекомендации для миллионов юзеров и строят масштабную ML-инфраструктуру. В их комнате нужно заглянуть под капот технологий, задеплоить новую модель",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/68785",
+      "image_url": "https://cdn4.telesco.pe/file/OSJ9pcUo7UvT53j8Z_r1RRI2bKkJLKFzrtQoUUn-D1JOVAVUtataDUz7IpUl7XsioZYtCduluziN7eutaDjxL5hKGuegiTPzgteK3sqfFZfaTFLvMzw_fT6L1Kcj3gxgpvFoLoM6azs-GG5iOaHvLUMu8EK3AgKF66pBKWUksExMOUYFjBfr-lVk2MVciVy20MGwFqHYGhiZ_ivXC-YvFSA5UQxML7Jf47hTAdRGC0xXp7x92EruO7hC24dKWHk8m0ev-QDL88LmIfjooUnFukylY7FexO4jp4s3pPHmKtIzvowFhMPyinC8FmXlyuyNrEn5ZmsL8XM8GbkgcbwXdg.jpg",
+      "pub_date": "2026-06-02T10:01:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T11:09:04.260Z",
+      "created_at": "2026-06-02T11:09:04.260Z"
+    },
+    {
+      "id": 10084,
+      "source": "AI Post (TG)",
+      "title_en": "🔥 NVIDIA CEO Jensen Huang says claims that AI is taking jobs \"COMPLETE NONSENSE.\"@aipost 🏴",
+      "description_en": "🔥 NVIDIA CEO Jensen Huang says claims that AI is taking jobs \"COMPLETE NONSENSE.\"@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7094",
+      "image_url": null,
+      "pub_date": "2026-06-02T07:07:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-02T11:09:04.525Z",
+      "created_at": "2026-06-02T11:09:04.525Z"
+    },
+    {
+      "id": 10085,
+      "source": "AI Post (TG)",
+      "title_en": "It would be funny if we blow trillions in capex just to build the world’s most sophisticated Redditor.@aipost 🏴",
+      "description_en": "It would be funny if we blow trillions in capex just to build the world’s most sophisticated Redditor.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7095",
+      "image_url": "https://cdn4.telesco.pe/file/sWNObH9D6ZGHk9NHlCVZMK-WGOmAXUsUb7hX_CIiHsPLmNzJO_DcJcfb5EiC13i7KmTH-_L5N07u7pnJr9UX-eEeynVEZ2f96LT9KQ58dm2I4CTT7JpJ3VBtox8IIzPhLQnhZrJqr9nSDmF-q9XeOC5P6ZMj6n8zEnaDkOWSgA6SvPUHT4vuDiQq7Fy6Ynr7OrhtH8VIPYaJGiavzXHzWJn-iyDA1zXLLYUifQkL7IMlInDpu3ztW50vIhGWjMeiTT5zIoHnSmeNfEbCjxmTnR1MtQweLsc4AoyLcE3aPr-SbAPVkWbfBfqnuO2BmzTg6oPk__vA7wz1cmi-miSRJQ.jpg",
+      "pub_date": "2026-06-02T11:03:58+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T11:09:04.525Z",
+      "created_at": "2026-06-02T11:09:04.525Z"
     }
   ]
 }
