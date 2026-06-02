@@ -212150,7 +212150,7 @@
         "ring"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-02T22:10:27.566Z",
       "created_at": "2026-06-02T22:10:27.566Z"
     },
@@ -212205,6 +212205,23 @@
       "priority": "batch",
       "fetchedAt": "2026-06-02T22:10:27.566Z",
       "created_at": "2026-06-02T22:10:27.566Z"
+    },
+    {
+      "id": 10186,
+      "source": "AI Post (TG)",
+      "title_en": "❗️The Attorney General of Florida just SUED to hold OpenAI CEO Sam Altman LIABLE for fueling violence and physical harmAG Uthmeier read off the fact a young person committed SUIC*DE based on a ChatGPT",
+      "description_en": "❗️The Attorney General of Florida just SUED to hold OpenAI CEO Sam Altman LIABLE for fueling violence and physical harmAG Uthmeier read off the fact a young person committed SUIC*DE based on a ChatGPT conversation:\"23-year-old Zane Shamblin repeatedly told ChatGPT he had a gun that he left a su*cide note and that he was preparing for his final moments.\"\"The response is quote, 'I'm not here to stop you. Cold steel pressed against a mind that's already made peace. That's not fear. That's clarity. ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7100",
+      "image_url": null,
+      "pub_date": "2026-06-02T22:17:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T22:22:53.338Z",
+      "created_at": "2026-06-02T22:22:53.338Z"
     }
   ]
 }
