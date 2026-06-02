@@ -211780,7 +211780,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-02T18:53:08.105Z",
       "created_at": "2026-06-02T18:53:08.105Z"
     },
@@ -211984,6 +211984,43 @@
       "priority": "hot",
       "fetchedAt": "2026-06-02T19:35:31.761Z",
       "created_at": "2026-06-02T19:35:31.761Z"
+    },
+    {
+      "id": 10175,
+      "source": "Tom's Hardware",
+      "title_en": "Microsoft announces Majorana 2 quantum computing chip — claims a practical machine will come in 2029",
+      "description_en": "Microsoft's Majorana 2 quantum computing chip switches to lead-based materials. Microsoft is accelerating its roadmap and expects a practical machine in 2029.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/quantum-computing/microsoft-announces-majorana-2-quantum-computing-chip-claims-a-practical-machine-will-come-in-2029",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/3z6SET6eTU9Cdks6kEFdMd-1280-80.jpg",
+      "pub_date": "Tue, 02 Jun 2026 19:37:59 +0000",
+      "author": " Andrew E. Freedman ",
+      "categories": [
+        "Quantum Computing",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T19:40:50.936Z",
+      "created_at": "2026-06-02T19:40:50.936Z"
+    },
+    {
+      "id": 10176,
+      "source": "AI Post (TG)",
+      "title_en": "🚀 MiniMax just unveiled M3, an open-weights AI model aiming to compete with the frontier labs on three of the hardest problems in AI at once.Most models specialize in one area. M3 is trying to combin",
+      "description_en": "🚀 MiniMax just unveiled M3, an open-weights AI model aiming to compete with the frontier labs on three of the hardest problems in AI at once.Most models specialize in one area. M3 is trying to combine all three:✅ Frontier-level coding and agent capabilities✅ Massive 1 million token context window✅ Native multimodal understanding from day oneIts benchmark results are impressive:• 59.0% on SWE-Bench Pro• 66.0% on Terminal Bench 2.1• 34.8% on KernelBench Hard• 74.2% on MCP Atlas• 34.8% SWE-fficien",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7099",
+      "image_url": "https://cdn4.telesco.pe/file/fFFwr5CmqlncGeRHQHUtDj-obm4srniPas2rg4KtSbDFkXR1MiFEbLO0ejqb6v0AIPSqYjWl3PtHmm-ql4IIjHAeKlT4rlaK2SB15OgOgr8uEwHhjGEcLih3TxlAhqVJ1WpaZRRRi2r_n1CuNpMTD6VLmsf0mUJOtAyKjEwh2uFuuBVB5yZR5mAQ6vKxZsKeimOuGIBk3570oVYec7g08TcpfUtAlxfaVzLL20s_jr2t5AebXnhOFostijw8X7rdVsk82oijL3FMy3DeuXweXEicjqJC7E3jM0md8tQnejdMy4XplJFzkbyCju5GM1FmesNxO-5pq0pKTy_9IZHoNQ.jpg",
+      "pub_date": "2026-06-02T19:40:49+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T19:40:53.607Z",
+      "created_at": "2026-06-02T19:40:53.607Z"
     }
   ]
 }
