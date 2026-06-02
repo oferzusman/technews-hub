@@ -209327,6 +209327,60 @@
       "priority": "batch",
       "fetchedAt": "2026-06-02T06:44:34.796Z",
       "created_at": "2026-06-02T06:44:34.796Z"
+    },
+    {
+      "id": 10054,
+      "source": "The Guardian AI",
+      "title_en": "Alphabet to raise $80bn from share sales to fund AI spending splurge – business live",
+      "description_en": "Rolling coverage of the latest economic and financial news\nGood morning, and welcome to our rolling coverage of business, the financial markets and the world economy.\nThe economics of the AI boom are back in focus today, after Google’s parent company Alphabet said it plans to raise up to $80bn in equity to fund its vast AI infrastructure investments.\nAI is driving an expansionary moment for Alphabet. The company is experiencing strong demand for its AI solutions and services from enterprises and",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/live/2026/jun/02/alphabet-80bn-share-sales-ai-spending-berkshire-hathaway-stock-markets-oil-interest-rates-inflation-latest-news-updates",
+      "image_url": "https://i.guim.co.uk/img/media/48c2f1158b35ff75cb2edcbb613c747af1215f74/0_0_3333_2666/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=813fec0e09dd392ef8ac6542da1d373c",
+      "pub_date": "Tue, 02 Jun 2026 06:49:41 GMT",
+      "author": "Graeme Wearden",
+      "categories": [
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Economics",
+          "$": {
+            "domain": "https://www.theguardian.com/business/economics"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "FTSE",
+          "$": {
+            "domain": "https://www.theguardian.com/business/ftse"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Alphabet",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/alphabet"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T06:49:43.390Z",
+      "created_at": "2026-06-02T06:49:43.390Z"
     }
   ]
 }
