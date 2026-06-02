@@ -208930,7 +208930,7 @@
       "author": "Georgina Jedikovska",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T22:15:55.992Z",
       "created_at": "2026-06-01T22:15:55.992Z"
     },
@@ -208947,7 +208947,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T22:15:57.476Z",
       "created_at": "2026-06-01T22:15:57.476Z"
     },
@@ -208969,7 +208969,7 @@
         "Google"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T23:01:40.733Z",
       "created_at": "2026-06-01T23:01:40.733Z"
     },
@@ -209011,7 +209011,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T23:01:42.530Z",
       "created_at": "2026-06-01T23:01:42.530Z"
     },
@@ -209028,7 +209028,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T23:01:43.705Z",
       "created_at": "2026-06-01T23:01:43.705Z"
     },
@@ -209045,7 +209045,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T23:01:45.542Z",
       "created_at": "2026-06-01T23:01:45.542Z"
     },
@@ -209067,7 +209067,7 @@
         "microsoft"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T23:52:00.207Z",
       "created_at": "2026-06-01T23:52:00.207Z"
     },
@@ -209084,9 +209084,107 @@
       "author": "Bronwyn Thompson",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-01T23:52:02.064Z",
       "created_at": "2026-06-01T23:52:02.064Z"
+    },
+    {
+      "id": 10044,
+      "source": "MarkTechPost",
+      "title_en": "How to Speed Up Transformer Training Using NVIDIA Apex (FusedAdam, FusedLayerNorm) and Native torch.amp",
+      "description_en": "We build NVIDIA Apex from source, detect fused kernels, and benchmark FusedAdam, FusedLayerNorm, and torch.amp in Transformer training.\nThe post How to Speed Up Transformer Training Using NVIDIA Apex (FusedAdam, FusedLayerNorm) and Native torch.amp appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/01/how-to-speed-up-transformer-training-using-nvidia-apex-fusedadam-fusedlayernorm-and-native-torch-amp/",
+      "image_url": null,
+      "pub_date": "Tue, 02 Jun 2026 01:39:13 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Applications",
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Editors Pick",
+        "Machine Learning",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T01:57:19.597Z",
+      "created_at": "2026-06-02T01:57:19.597Z"
+    },
+    {
+      "id": 10045,
+      "source": "OpenAI Blog",
+      "title_en": "Our views on AI policy and political advocacy",
+      "description_en": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "image_url": null,
+      "pub_date": "Mon, 01 Jun 2026 17:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Global Affairs"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-02T01:57:19.661Z",
+      "created_at": "2026-06-02T01:57:19.661Z"
+    },
+    {
+      "id": 10046,
+      "source": "New Atlas",
+      "title_en": "Intelligent 'krakens' really did rule the seas 100 million years ago",
+      "description_en": "Bus-sized cephalopods reminiscent of the legendary kraken may have sat at the top of the food chain, using their smarts to hunt down prey in the oceans of the Late Cretaceous.\nContinue Reading\nCategory: Biology, Science\nTags: Octopus, Predator, Dinosaurs, Ocean, Ecology",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/biology/krakens-ruled-100-million-years-ago/",
+      "image_url": null,
+      "pub_date": "Tue, 02 Jun 2026 01:41:47 GMT",
+      "author": "Jay Kakade",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T01:57:19.923Z",
+      "created_at": "2026-06-02T01:57:19.923Z"
+    },
+    {
+      "id": 10047,
+      "source": "Tom's Hardware",
+      "title_en": "Asus shows off updated Zenbook and Strix Scar laptops, along with a TUF-based Gaming desktop — a refreshed look on laptops takes center stage",
+      "description_en": "Here at Computex 2026 in Taipei, Asus held an early press event to showcase its updated Zenbook, Expertbook, and Strix Scar laptops, along with the new TUF T700 gaming desktop.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/laptops/asus-shows-off-updated-zenbook-and-strix-scar-laptops-along-with-a-tuf-based-gaming-desktop-a-refreshed-look-on-laptops-takes-center-stage",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4hwoF4FaSdefPgkGdbmoUA-1280-80.jpg",
+      "pub_date": "Tue, 02 Jun 2026 01:30:00 +0000",
+      "author": " Joe Shields ",
+      "categories": [
+        "Laptops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T01:57:20.826Z",
+      "created_at": "2026-06-02T01:57:20.826Z"
+    },
+    {
+      "id": 10048,
+      "source": "AI Post (TG)",
+      "title_en": "🧠 Brilliant introduces Koji, an AI tutor designed to teach thinkingBrilliant just unveiled Koji, an AI tutor built to help students work through problems instead of simply handing them answers.Unlike",
+      "description_en": "🧠 Brilliant introduces Koji, an AI tutor designed to teach thinkingBrilliant just unveiled Koji, an AI tutor built to help students work through problems instead of simply handing them answers.Unlike many AI tools that focus on delivering solutions as quickly as possible, Koji is designed to guide the learning process. It can follow a student's work in real time, point out mistakes, sketch explanations, and annotate problems as they work.The launch comes as educators debate how AI should fit in",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7092",
+      "image_url": null,
+      "pub_date": "2026-06-02T01:23:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T01:57:23.212Z",
+      "created_at": "2026-06-02T01:57:23.212Z"
     }
   ]
 }
