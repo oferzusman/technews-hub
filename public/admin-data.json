@@ -1,9 +1,9 @@
 {
-  "total": 10176,
+  "total": 10185,
   "translated": 8824,
-  "untranslated": 1352,
-  "today": 133,
-  "week": 777,
+  "untranslated": 1361,
+  "today": 142,
+  "week": 786,
   "sources": [
     {
       "name": "Product Hunt",
@@ -25,7 +25,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 558,
+      "total": 560,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -43,7 +43,7 @@
     },
     {
       "name": "Ars Technica",
-      "total": 451,
+      "total": 455,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -103,9 +103,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 203,
+      "total": 204,
       "translated": 119,
-      "lastDate": "2026-06-02T16:17:46+00:00"
+      "lastDate": "2026-06-02T21:02:07+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 68,
+      "total": 69,
       "translated": 49,
-      "lastDate": "2026-06-02T12:16:45+00:00"
+      "lastDate": "2026-06-02T19:53:01+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -169,9 +169,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 61,
+      "total": 62,
       "translated": 40,
-      "lastDate": "2026-06-02T15:35:03+00:00"
+      "lastDate": "2026-06-02T21:30:04+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-02T20:24:01.894Z"
+  "generatedAt": "2026-06-02T22:11:33.039Z"
 }
