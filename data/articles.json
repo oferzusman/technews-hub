@@ -209700,7 +209700,7 @@
       "author": "Munis Raza",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-02T11:08:57.798Z",
       "created_at": "2026-06-02T11:08:57.798Z"
     },
@@ -210042,6 +210042,137 @@
       "priority": "hot",
       "fetchedAt": "2026-06-02T11:09:04.525Z",
       "created_at": "2026-06-02T11:09:04.525Z"
+    },
+    {
+      "id": 10086,
+      "source": "The Guardian AI",
+      "title_en": "AI won’t decimate the arts. We must interrogate it, but we can collaborate with it",
+      "description_en": "Opera makers have always engaged with the latest inventions while also preserving historic crafts. I believe it’s possible to look both forwards and backwards in this fast-evolving landscape\nThe disquiet and distrust surrounding artificial intelligence among artists and creatives remain real and consequential, and the language used by leading arts commentators is often apocalyptic: AI will decimate the arts, it is evil, it is the devil. Like many emerging technologies, AI has been driven by the ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/music/2026/jun/02/ai-the-arts-opera-technology-rbo-shift-festival-netia-jones",
+      "image_url": "https://i.guim.co.uk/img/media/cb7baaacce2b1559720af997e4658215539c30b3/461_0_3480_2784/master/3480.jpg?width=140&quality=85&auto=format&fit=max&s=ea4cb0ad42ac7d7a46424c50fc5e214b",
+      "pub_date": "Tue, 02 Jun 2026 11:14:08 GMT",
+      "author": "Netia Jones",
+      "categories": [
+        {
+          "_": "Classical music",
+          "$": {
+            "domain": "https://www.theguardian.com/music/classical-music-and-opera"
+          }
+        },
+        {
+          "_": "Opera",
+          "$": {
+            "domain": "https://www.theguardian.com/music/opera"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "Music",
+          "$": {
+            "domain": "https://www.theguardian.com/music/music"
+          }
+        },
+        {
+          "_": "Dance",
+          "$": {
+            "domain": "https://www.theguardian.com/stage/dance"
+          }
+        },
+        {
+          "_": "Stage",
+          "$": {
+            "domain": "https://www.theguardian.com/stage/stage"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Ballet",
+          "$": {
+            "domain": "https://www.theguardian.com/stage/ballet"
+          }
+        },
+        {
+          "_": "Royal Opera House",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/royal-opera-house"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T11:18:18.108Z",
+      "created_at": "2026-06-02T11:18:18.108Z"
+    },
+    {
+      "id": 10087,
+      "source": "The Guardian AI",
+      "title_en": "How will AI sycophancy change us? Early signs are not encouraging | Arwa Mahdawi",
+      "description_en": "Constant validation and flattery from AI chatbots poses a serious risk to society and our shared grasp of reality\nDo you ever get the feeling that the people running the world are delulu? That the 1% are living in a completely different universe from the rest of us? You’re not the only one. Even some tech elites are starting to worry about their peers’ grasp on reality. “CEOs are uniquely prone to AI psychosis,” Aaron Levie, a co-founder of the enterprise cloud company Box, declared on X last mo",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/jun/02/ai-sycophancy-risk-to-society-grasp-reality",
+      "image_url": "https://i.guim.co.uk/img/media/38a58bf68e53d2951168112840917ac0b076078a/452_0_5020_4016/master/5020.jpg?width=140&quality=85&auto=format&fit=max&s=e04b63637744ba9ebfda65580cbcd692",
+      "pub_date": "Tue, 02 Jun 2026 11:10:16 GMT",
+      "author": "Arwa Mahdawi",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T11:18:18.108Z",
+      "created_at": "2026-06-02T11:18:18.108Z"
+    },
+    {
+      "id": 10088,
+      "source": "XOR Journal (TG)",
+      "title_en": "Признавайтесь, кто? 😂@xor_journal",
+      "description_en": "Признавайтесь, кто? 😂@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9420",
+      "image_url": null,
+      "pub_date": "2026-06-02T11:10:49+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-02T11:18:24.756Z",
+      "created_at": "2026-06-02T11:18:24.756Z"
     }
   ]
 }
