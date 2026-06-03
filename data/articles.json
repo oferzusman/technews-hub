@@ -215066,7 +215066,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T17:11:19.000Z",
       "created_at": "2026-06-03T17:11:19.000Z"
     },
@@ -215168,7 +215168,7 @@
       "author": "TC. Sottek",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T18:57:08.412Z",
       "created_at": "2026-06-03T18:57:08.412Z"
     },
@@ -215210,7 +215210,7 @@
         "Regulation"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T18:57:09.784Z",
       "created_at": "2026-06-03T18:57:09.784Z"
     },
@@ -215294,7 +215294,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T18:57:10.525Z",
       "created_at": "2026-06-03T18:57:10.525Z"
     },
@@ -215378,7 +215378,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T18:57:10.525Z",
       "created_at": "2026-06-03T18:57:10.525Z"
     },
@@ -215395,7 +215395,7 @@
       "author": "Munis Raza",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T18:57:11.343Z",
       "created_at": "2026-06-03T18:57:11.343Z"
     },
@@ -215412,7 +215412,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T18:57:13.178Z",
       "created_at": "2026-06-03T18:57:13.178Z"
     },
@@ -215429,7 +215429,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T18:57:13.211Z",
       "created_at": "2026-06-03T18:57:13.211Z"
     },
@@ -215481,6 +215481,365 @@
       "priority": "hot",
       "fetchedAt": "2026-06-03T19:06:18.776Z",
       "created_at": "2026-06-03T19:06:18.776Z"
+    },
+    {
+      "id": 10314,
+      "source": "TechCrunch AI",
+      "title_en": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+      "description_en": "If Alphabet's record-breaking, $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 19:38:32 +0000",
+      "author": "Julie Bort",
+      "categories": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "Alphabet",
+        "capital expenditures",
+        "Google",
+        "IPOs"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T20:29:53.444Z",
+      "created_at": "2026-06-03T20:29:53.444Z"
+    },
+    {
+      "id": 10315,
+      "source": "TechCrunch AI",
+      "title_en": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+      "description_en": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 19:07:42 +0000",
+      "author": "Lucas Ropek",
+      "categories": [
+        "AI",
+        "Dreambeans",
+        "Google"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T20:29:53.444Z",
+      "created_at": "2026-06-03T20:29:53.444Z"
+    },
+    {
+      "id": 10316,
+      "source": "The Decoder",
+      "title_en": "Google Deepmind's Gemma 4 12B squeezes multimodal AI onto a laptop with just 16 GB of RAM",
+      "description_en": "Google Deepmind's Gemma 4 12B is an open-source model that processes text, images, and audio natively and runs on laptops with just 16 GB of RAM. It nearly matches the twice-as-large 26B model in benchmarks and ships under an Apache 2.0 license for commercial use.\nThe article Google Deepmind's Gemma 4 12B squeezes multimodal AI onto a laptop with just 16 GB of RAM appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/google-deepminds-gemma-4-12b-squeezes-multimodal-ai-onto-a-laptop-with-just-16-gb-of-ram/",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 19:54:13 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Gemma",
+        "Google"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T20:29:54.629Z",
+      "created_at": "2026-06-03T20:29:54.629Z"
+    },
+    {
+      "id": 10317,
+      "source": "The Decoder",
+      "title_en": "Google lets sites opt out of AI search results, knowing most have nowhere else to go",
+      "description_en": "For the first time, Google is giving website operators an opt-out toggle in Search Console for AI search features like AI Overviews and AI Mode, which together already reach more than 3.5 billion monthly users. New performance reports break out impressions separately. The move was prompted by the UK's Competition and Markets Authority (CMA), which sees website operators at a severe disadvantage.\nThe article Google lets sites opt out of AI search results, knowing most have nowhere else to go appe",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/google-lets-sites-opt-out-of-ai-search-results-knowing-most-have-nowhere-else-to-go/",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 19:28:29 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Google"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T20:29:54.629Z",
+      "created_at": "2026-06-03T20:29:54.629Z"
+    },
+    {
+      "id": 10318,
+      "source": "OpenAI Blog",
+      "title_en": "Introducing new capabilities to GPT-Rosalind",
+      "description_en": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 13:15:00 GMT",
+      "author": null,
+      "categories": [
+        "Product"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-03T20:29:55.300Z",
+      "created_at": "2026-06-03T20:29:55.300Z"
+    },
+    {
+      "id": 10319,
+      "source": "New Atlas",
+      "title_en": "'Space smoothies' may help astronauts stomach long missions",
+      "description_en": "Sure, space travel sounds exciting, but space travelers are still workers – workers who could ordinarily go to restaurants for lunch or go home for dinner. And while the dining habits of cosmonauts, astronauts, taikonauts, and other void-venturers might seem trivial to us Earth-bound folks who’ll never get to traipse among the stars, space travelers do face serious complications from their truly risky missions in which they sacrifice days, months, or even years away from family, friends, and Ear",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/space-systems/space-smoothies-astronauts-nutrition/",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 19:02:21 GMT",
+      "author": "Malcolm Azania",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T20:29:55.486Z",
+      "created_at": "2026-06-03T20:29:55.486Z"
+    },
+    {
+      "id": 10320,
+      "source": "The Guardian AI",
+      "title_en": "In first, California city overwhelmingly votes to permanently ban datacenters",
+      "description_en": "While many US city councils have passed moratoriums, Monterey Park is first where residents have voted on a ban\n\nSign up for the Breaking News US newsletter email\n\nResidents in Monterey Park, California, became the first in the US to vote on a permanent ban on datacenters on Tuesday, and early results indicate a resounding victory for the prohibition.\nWhile many cities and counties have already passed temporary or indefinite moratoriums via their local governments, Monterey Park would be the fir",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/2026/jun/03/california-monterey-park-datacenters-ban",
+      "image_url": "https://i.guim.co.uk/img/media/4e5749a81532c23398eb891576c96d6ae8079019/0_0_2498_1998/master/2498.jpg?width=140&quality=85&auto=format&fit=max&s=90247e48d1d71728d7c0b0a682a14f31",
+      "pub_date": "Wed, 03 Jun 2026 19:40:36 GMT",
+      "author": "Sanya Mansoor",
+      "categories": [
+        {
+          "_": "California",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/california"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "West Coast",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/west-coast"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Energy",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/energy"
+          }
+        },
+        {
+          "_": "Environment",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/environment"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T20:29:55.581Z",
+      "created_at": "2026-06-03T20:29:55.581Z"
+    },
+    {
+      "id": 10321,
+      "source": "The Guardian AI",
+      "title_en": "Colorado governor vetoes block on surveillance pricing as other states push for bans",
+      "description_en": "Consumer advocates decry Democrat Jared Polis for ‘choosing to side with dominant corporations’ over workers\nColorado’s governor vetoed a bill on Tuesday that would have banned companies from using surveillance pricing to set workers’ wages and prices for consumer goods.\nThe measure would have been the strongest in the nation against algorithmic pricing. While Maryland became the first state to approve a law banning surveillance pricing in grocery stores in April, Colorado’s proposed measure was",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/03/colorado-governor-veto-ban-surveillance-pricing",
+      "image_url": "https://i.guim.co.uk/img/media/7f00b3ad112e5e3963fc5bab279ecccd39c7e6b3/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=dff7fbc974dc81c812a7734668d2521a",
+      "pub_date": "Wed, 03 Jun 2026 19:12:19 GMT",
+      "author": "Sanya Mansoor",
+      "categories": [
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Colorado",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/colorado"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T20:29:55.581Z",
+      "created_at": "2026-06-03T20:29:55.581Z"
+    },
+    {
+      "id": 10322,
+      "source": "Interesting Engineering",
+      "title_en": "Meta claims new Business Agent can help companies increase output by up to 100X",
+      "description_en": "Meta has unveiled a new AI system designed to help businesses automate customer support, sales,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/meta-new-business-agent-tools-launch",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 20:11:33 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T20:29:56.132Z",
+      "created_at": "2026-06-03T20:29:56.132Z"
+    },
+    {
+      "id": 10323,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia’s big dividend hike could pave the way for higher payouts — who may be next",
+      "description_en": "Some on Wall Street believe there will be more dividend increases from tech companies following Nvidia's recent move.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/03/nvidias-big-dividend-hike-could-pave-the-way-for-higher-payouts-who-may-be-next.html",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 19:28:11 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T20:29:56.605Z",
+      "created_at": "2026-06-03T20:29:56.605Z"
+    },
+    {
+      "id": 10324,
+      "source": "XOR Journal (TG)",
+      "title_en": "⚡️⚡️⚡️ MAX удалили из App Store — при переходе по ссылке с официального сайта выбивает ошибку, а в поиске приложение не найти.  Дней до блокировки Apple: 3...  @exploitex",
+      "description_en": "⚡️⚡️⚡️ MAX удалили из App Store — при переходе по ссылке с официального сайта выбивает ошибку, а в поиске приложение не найти.  Дней до блокировки Apple: 3...  @exploitex",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9440",
+      "image_url": "https://cdn4.telesco.pe/file/mgutxiSL7oLuWFL1I5HW986GLVlAynzytKlnx7RqszcB1xUYSMEp4RdTaOHI6NiJfYrgPKdyvVzx-T-zCLonuqKge897rHJA8oau8y4hVfdH7TGvYyQY4gYHWxD2lDz-iksEJU5OwiioJWHrs_1Dpd04VjX2dI1TndfjwrwuzaZI3fv6Y3xX2E5U-zO6yWH_F9ZpGZ2Hq_p10HPoabfWSnRUX3KCp_o1iem-dyG-h4vcRMBrEKSIDUABsAvcTN1HUyXuGFlKfll7gx6SCYpU7TcMqHPDa_sgQrBrepk0QiR-6OZK2GtEFRI3nbzYbjxCllKZNi2IARCcY2Hpv_3BCg.jpg",
+      "pub_date": "2026-06-03T19:14:13+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T20:29:59.647Z",
+      "created_at": "2026-06-03T20:29:59.647Z"
+    },
+    {
+      "id": 10325,
+      "source": "XOR Journal (TG)",
+      "title_en": "Мы запускаем «Кортекс» — ИИ, который умеет отличать факт от пересказаНовая ИИ-архитектура анализирует смыслы: находит связи между событиями, отслеживает развитие истории и продвигает тех, кто реально ",
+      "description_en": "Мы запускаем «Кортекс» — ИИ, который умеет отличать факт от пересказаНовая ИИ-архитектура анализирует смыслы: находит связи между событиями, отслеживает развитие истории и продвигает тех, кто реально добавляет новое в повестку — а не перепечатывает чужое по пятому разу.Управляющий директор Дзена Александр Толокольников на мероприятии для СМИ в Санкт-Петербурге:Мы верим, что «Кортекс» станет вашим верным союзником в борьбе с нейрослопом и позволит удержать заслуженные лидирующие позиции, ведь он ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9441",
+      "image_url": "https://cdn4.telesco.pe/file/C0H4o72GmgyMTCzVrCuN9Tu9OYGKOKcTi6rGeUaqRyzfcdYn4B1C8Mc4oS5amj45uvCBmH_-p87lobdiUt5qBDAEh5xDT9fWpLNgXI9n-GBtsAZiLjj-sr2UHyfDWOmJaJjxGxPxRd0WXJGyKqvLhuHq4EizB5v1LUIXSTIW1gTrHG10XxcZS8oxGsjkCn55B03UTGXeI_oU42724r1rDAhMZJnGyljrZm2-Abw2mfwkbAGGUMnRq5rcteGUDL2eFGiQFA8R1fCQ_CxsAzBbcfwUoEOgvqPn8FUv2b7hGYhEy8Zn6D5KOFMTl1C6v37UGStveNTbl464KqpODTZuBg.jpg",
+      "pub_date": "2026-06-03T19:30:08+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T20:29:59.647Z",
+      "created_at": "2026-06-03T20:29:59.647Z"
+    },
+    {
+      "id": 10326,
+      "source": "XOR Journal (TG)",
+      "title_en": "Rust неожиданно против вайбкодинга — разработчики языка готовят правила использования ИИ. Так, в основной репозиторий rust-lang/rust будет запрещено заливать сгенерированный код, создавать комментарии",
+      "description_en": "Rust неожиданно против вайбкодинга — разработчики языка готовят правила использования ИИ. Так, в основной репозиторий rust-lang/rust будет запрещено заливать сгенерированный код, создавать комментарии, отчёты о проблемах и даже писать документации. Нейронки можно использовать для анализа, изучения и с ОГОВОРКАМИ для перевода на другие языки и прочие мелочи. При этом в любом случае финальная ответственность всё равно остаётся на человеке.Как вам такая политика?🤔@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9442",
+      "image_url": "https://cdn4.telesco.pe/file/soflRHwtNpFiJUE_7jJPBkzvat_JT2f1mvCfz8KV-iM5ZZ9HSAint6T-orD6XuHb89yaVkighDYqIiULIJCt0kij0i4AWkEPWHRmv4j5b8zO8P90SuVdf2wwpXUFA3ijdVc96I_byr9B2HtGiHHp6BoNVANL_TFRq5bjgwbVOVJIApPzgjOZCm3a9Yn35nXZmnoYxTsdcL41We2dVwXU1GkHL-Hvj-U7TZvG0KR4x9GST9Xk5_svSvYIO96wAbBviB7wJ289ITiHaRppIbIus08kIQMwGqPFKfTYT1eoqBxzQ5IPXcy2DVOobaVi95sJH5mqan1ymF3We0i44sVrBw.jpg",
+      "pub_date": "2026-06-03T20:05:22+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T20:29:59.647Z",
+      "created_at": "2026-06-03T20:29:59.647Z"
+    },
+    {
+      "id": 10327,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🔍 ИИ нашел скрытые побочки Оземпика в 400 тыс. постах на RedditИсследователи с помощью LLM проанализировали более 400 тыс. постов от почти 70 тыс. пользователей за пять лет. Все они писали о своем оп",
+      "description_en": "🔍 ИИ нашел скрытые побочки Оземпика в 400 тыс. постах на RedditИсследователи с помощью LLM проанализировали более 400 тыс. постов от почти 70 тыс. пользователей за пять лет. Все они писали о своем опыте приема семаглутида и тирзепатида — это действующие вещества Оземпика и Маунджаро, препаратов для снижения веса и контроля сахара в крови.❗️ Хотя бы один побочный эффект упомянули 44% пользователей. Самые частые — проблемы с ЖКТ, что совпадает с официальными данными.Но среди неожиданных: нарушени",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3272",
+      "image_url": "https://cdn4.telesco.pe/file/FGni9jc9eg8ai-NpiiGq8rTnxGODmXaEtBVvZS9nwJqehqQgbJUV3yod277T4BL0kZ6WZ7djLo4-2_GOIGMHr9a_Am7WkCfs3Au7GlpjUcCUK_pHX9UlSSmQrkPs9xPxYJdspOwQ_RCMnOmtuxiTgpLaTrbWtG295wIoEadsyJz0rwoFmCEnaLyfyDfmLcjqAfWk0atONYMxIrJJe3oa-5hA09n2_tC0HBNs0d76VUCwROFlHBaq0akMITDbaLTUS1GT8ZHU94oY2H5e5XFvOh8hLNLKsQGnwxC1KfE0pHBB_GugFwWoimMdo37eVeusGyWV9TVeZRaRy9-_zrtwPA.jpg",
+      "pub_date": "2026-06-03T20:06:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T20:30:00.054Z",
+      "created_at": "2026-06-03T20:30:00.054Z"
+    },
+    {
+      "id": 10328,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 OpenAI launches Sites, letting users turn ideas and projects into shareable websites and apps.Source.@aipost 🏴",
+      "description_en": "🤖 OpenAI launches Sites, letting users turn ideas and projects into shareable websites and apps.Source.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7110",
+      "image_url": null,
+      "pub_date": "2026-06-03T19:30:34+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T20:30:00.192Z",
+      "created_at": "2026-06-03T20:30:00.192Z"
     }
   ]
 }
