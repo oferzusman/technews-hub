@@ -212405,7 +212405,7 @@
       "author": "C.C. Weiss",
       "categories": [],
       "translated": false,
-      "priority": "batch",
+      "priority": "hot",
       "fetchedAt": "2026-06-03T05:11:23.001Z",
       "created_at": "2026-06-03T05:11:23.001Z"
     },
@@ -212422,7 +212422,7 @@
       "author": "Kerry Taylor-Smith",
       "categories": [],
       "translated": false,
-      "priority": "batch",
+      "priority": "hot",
       "fetchedAt": "2026-06-03T05:11:23.002Z",
       "created_at": "2026-06-03T05:11:23.002Z"
     },
@@ -212439,7 +212439,7 @@
       "author": "David Szondy",
       "categories": [],
       "translated": false,
-      "priority": "batch",
+      "priority": "hot",
       "fetchedAt": "2026-06-03T05:11:23.002Z",
       "created_at": "2026-06-03T05:11:23.002Z"
     },
@@ -212505,7 +212505,7 @@
         }
       ],
       "translated": false,
-      "priority": "batch",
+      "priority": "hot",
       "fetchedAt": "2026-06-03T05:11:23.192Z",
       "created_at": "2026-06-03T05:11:23.192Z"
     },
@@ -212630,7 +212630,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "batch",
+      "priority": "hot",
       "fetchedAt": "2026-06-03T05:11:24.119Z",
       "created_at": "2026-06-03T05:11:24.119Z"
     },
@@ -212647,7 +212647,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "batch",
+      "priority": "hot",
       "fetchedAt": "2026-06-03T05:11:24.119Z",
       "created_at": "2026-06-03T05:11:24.119Z"
     },
@@ -212664,144 +212664,9 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "batch",
+      "priority": "hot",
       "fetchedAt": "2026-06-03T05:11:25.531Z",
       "created_at": "2026-06-03T05:11:25.531Z"
-    },
-    {
-      "id": 10205,
-      "source": "The Guardian AI",
-      "title_en": "UK media groups given power to opt out of Google AI search summaries",
-      "description_en": "Watchdog says ‘publishers will now have effective tools to prevent content being used to power AI features in search’\n\nBusiness live – latest updates\n\nPublishers will be able to opt out of their content being used to train Google’s AI models and power its search summaries, the UK competition watchdog has announced as it imposes new conduct requirements on search services.\n“Publishers will now have effective tools to prevent their content being used to power AI features in search, such as AI Over",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://www.theguardian.com/business/2026/jun/03/uk-media-groups-power-opt-out-google-ai-search-summaries",
-      "image_url": "https://i.guim.co.uk/img/media/00a01998a2b139d66a16715dcdb04af4b4581ff8/925_0_4623_3699/master/4623.jpg?width=140&quality=85&auto=format&fit=max&s=5ff8f9d1a64b57f481bb36f59e869bc2",
-      "pub_date": "Wed, 03 Jun 2026 06:23:17 GMT",
-      "author": "Guardian staff and agencies",
-      "categories": [
-        {
-          "_": "Competition and Markets Authority",
-          "$": {
-            "domain": "https://www.theguardian.com/business/competition-commission"
-          }
-        },
-        {
-          "_": "Google",
-          "$": {
-            "domain": "https://www.theguardian.com/technology/google"
-          }
-        },
-        {
-          "_": "AI (artificial intelligence)",
-          "$": {
-            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
-          }
-        },
-        {
-          "_": "Business",
-          "$": {
-            "domain": "https://www.theguardian.com/business/business"
-          }
-        },
-        {
-          "_": "Technology sector",
-          "$": {
-            "domain": "https://www.theguardian.com/business/technology"
-          }
-        },
-        {
-          "_": "Regulators",
-          "$": {
-            "domain": "https://www.theguardian.com/business/regulators"
-          }
-        },
-        {
-          "_": "Computing",
-          "$": {
-            "domain": "https://www.theguardian.com/technology/computing"
-          }
-        },
-        {
-          "_": "Alphabet",
-          "$": {
-            "domain": "https://www.theguardian.com/technology/alphabet"
-          }
-        },
-        {
-          "_": "Technology",
-          "$": {
-            "domain": "https://www.theguardian.com/technology/technology"
-          }
-        },
-        {
-          "_": "UK news",
-          "$": {
-            "domain": "https://www.theguardian.com/uk/uk"
-          }
-        },
-        {
-          "_": "Media",
-          "$": {
-            "domain": "https://www.theguardian.com/media/media"
-          }
-        }
-      ],
-      "translated": false,
-      "priority": "hot",
-      "fetchedAt": "2026-06-03T07:05:04.853Z",
-      "created_at": "2026-06-03T07:05:04.853Z"
-    },
-    {
-      "id": 10206,
-      "source": "CNBC Tech",
-      "title_en": "Perplexity CEO tells CNBC one metric will determine who wins the AI race",
-      "description_en": "Perplexity CEO Aravind Srinivas said that whichever company can provide the \"most taken value per watt per user\" will be the AI winners in the future.",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://www.cnbc.com/2026/06/03/perplexity-ceo-ai-valuations-computer-agentic.html",
-      "image_url": null,
-      "pub_date": "Wed, 03 Jun 2026 06:53:18 GMT",
-      "author": null,
-      "categories": [],
-      "translated": false,
-      "priority": "hot",
-      "fetchedAt": "2026-06-03T07:05:05.523Z",
-      "created_at": "2026-06-03T07:05:05.523Z"
-    },
-    {
-      "id": 10207,
-      "source": "Product Hunt",
-      "title_en": "Carbone Skill for AI",
-      "description_en": "Discussion\n            |\n            Link",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://www.producthunt.com/products/carbone",
-      "image_url": null,
-      "pub_date": "2026-06-02T09:39:46.000Z",
-      "author": "Steeve",
-      "categories": [],
-      "translated": false,
-      "priority": "batch",
-      "fetchedAt": "2026-06-03T07:05:08.690Z",
-      "created_at": "2026-06-03T07:05:08.690Z"
-    },
-    {
-      "id": 10208,
-      "source": "Hi, AI Russian (TG)",
-      "title_en": "🤖 ИИ управляет тараканами-киборгами, слушая их телоИсследователи из Университета Осаки создали специальную систему для мадагаскарских шипящих тараканов: на насекомое надевают небольшой «рюкзак» с дат",
-      "description_en": "🤖 ИИ управляет тараканами-киборгами, слушая их телоИсследователи из Университета Осаки создали специальную систему для мадагаскарских шипящих тараканов: на насекомое надевают небольшой «рюкзак» с датчиками, который одновременно считывает движение, сердцебиение и нейронные сигналы. 💡 Ученые больше не рассматривают таракана как живую «машинку на радиоуправлении». Раньше такие системы чаще ориентировались на внешнее поведение: идет насекомое или остановилось. Здесь же ИИ получает сразу несколько ",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://t.me/hiaimedia/3269",
-      "image_url": "https://cdn4.telesco.pe/file/kRPx0CfzuumMRRID24AM9o4igmzaK0xQMYxdOcgBlv_sCXBlVIRwrUrFn8Z53YHgueDW_w4hkY1ZJYv5d5jkO15DVor9oUGKymoSotwPq_reOuejwFuhJFSoatBHcEAqjjwkYcfiG7tGfvWRmyGBMCPrB_CJe7gicjJEzAuPejkxOuGQ74Gm9mrizCNiNR34J-J-hcK0OvBJE56dtYhOy1z9TYyxmbQN6RFeKpWtjevT6F681-bKSaAKpODWCVOacB90MEIAbq8JL61AERLhnfpQJapqrs118zkHF8Ptplh1bDytixLc30L5gxs2ZkLwthorPCWc-MDlgMbXXaaLow.jpg",
-      "pub_date": "2026-06-03T06:18:51+00:00",
-      "author": null,
-      "categories": [],
-      "translated": false,
-      "priority": "hot",
-      "fetchedAt": "2026-06-03T07:05:09.572Z",
-      "created_at": "2026-06-03T07:05:09.572Z"
     }
   ]
 }
