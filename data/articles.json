@@ -215547,7 +215547,7 @@
         "Google"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T20:29:54.629Z",
       "created_at": "2026-06-03T20:29:54.629Z"
     },
@@ -215803,7 +215803,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T20:29:59.647Z",
       "created_at": "2026-06-03T20:29:59.647Z"
     },
@@ -215820,7 +215820,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T20:30:00.054Z",
       "created_at": "2026-06-03T20:30:00.054Z"
     },
@@ -215886,7 +215886,7 @@
         "two-factor authentication"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T21:44:28.231Z",
       "created_at": "2026-06-03T21:44:28.231Z"
     },
@@ -216050,6 +216050,66 @@
       "priority": "hot",
       "fetchedAt": "2026-06-03T21:44:32.250Z",
       "created_at": "2026-06-03T21:44:32.250Z"
+    },
+    {
+      "id": 10339,
+      "source": "MarkTechPost",
+      "title_en": "How to Build a Document Intelligence Backend with iii Using Workers, Functions, and Cron Triggers",
+      "description_en": "We build a document intelligence backend with iii by registering modular functions and reusing them across multiple triggers.\nThe post How to Build a Document Intelligence Backend with iii Using Workers, Functions, and Cron Triggers appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/03/how-to-build-a-document-intelligence-backend-with-iii-using-workers-functions-and-cron-triggers/",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 19:15:07 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "AI Infrastructure",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Machine Learning",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-03T22:11:01.663Z",
+      "created_at": "2026-06-03T22:11:01.663Z"
+    },
+    {
+      "id": 10340,
+      "source": "XOR Journal (TG)",
+      "title_en": "Битва Чёрной Пантеры против Спинозы — энтузиаст создал мозговзрывательную ИИ-арену для дебатов философов, учёных и персонажей из фильмов 🧠Причем для каждого участника создана база реальных цитат и вз",
+      "description_en": "Битва Чёрной Пантеры против Спинозы — энтузиаст создал мозговзрывательную ИИ-арену для дебатов философов, учёных и персонажей из фильмов 🧠Причем для каждого участника создана база реальных цитат и взглядов, на которые опирается ИИ, так что спор выходит максимально реалистичный. Просто выбираешь оппонентов, тему и смотришь на битву умов.Залипаем на ночь 🥸@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9443",
+      "image_url": "https://cdn4.telesco.pe/file/tlWTQ3htkelKvbFi3PEh7uk-rUyApyq2nKIZYgAT2hr0QQnjKcBp-sqcKfwbnQPsJN-vQgR0J-R7Umo6CWe28OmyLoJoEihJWmjnMgJv_HSBKb3S0rZd0kvaBiea0yhi5aLbxcdzphmHQoDIJW_ak_emjyTG4jFMQTAFfiFSeuBxik_lETeyZVltqL24rb9vMFa4JFPBXy2b5uY8Uq0hZyROA9lS88ihLjDY3d1gZwXxF-7u0fbdiAKzgbrY2RzFwl91N2jQKcp3WXgAzQGG6GwBAHr9lP_K0Nz2oNezp3N6FjJDuAV-3bijE6oDwBKypA1exdZTM1MSjtH4X3rqOA.jpg",
+      "pub_date": "2026-06-03T21:50:10+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T22:11:05.803Z",
+      "created_at": "2026-06-03T22:11:05.803Z"
+    },
+    {
+      "id": 10341,
+      "source": "AI Post (TG)",
+      "title_en": "Highlights from Satya Nadella’s keynote at Microsoft Build.@aipost 🏴",
+      "description_en": "Highlights from Satya Nadella’s keynote at Microsoft Build.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7111",
+      "image_url": null,
+      "pub_date": "2026-06-03T22:08:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T22:11:06.547Z",
+      "created_at": "2026-06-03T22:11:06.547Z"
     }
   ]
 }
