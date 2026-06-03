@@ -212362,9 +212362,311 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T02:07:35.029Z",
       "created_at": "2026-06-03T02:07:35.029Z"
+    },
+    {
+      "id": 10195,
+      "source": "MarkTechPost",
+      "title_en": "How to Fine-Tune LFM2 Using QLoRA and DPO: A Complete Step-by-Step Coding Tutorial on Google Colab",
+      "description_en": "Learn to fine-tune LFM2 with QLoRA, supervised fine-tuning, DPO, and adapter merging using TRL and PEFT on Colab.\nThe post How to Fine-Tune LFM2 Using QLoRA and DPO: A Complete Step-by-Step Coding Tutorial on Google Colab appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/02/how-to-fine-tune-lfm2-using-qlora-and-dpo-a-complete-step-by-step-coding-tutorial-on-google-colab/",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 00:51:10 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-03T05:11:22.764Z",
+      "created_at": "2026-06-03T05:11:22.764Z"
+    },
+    {
+      "id": 10196,
+      "source": "New Atlas",
+      "title_en": "Radical Toyota bush camper expands to sleep 4 on a Land Cruiser",
+      "description_en": "A few years back, South Africa's Bushwakka debuted one of the more creative Toyota Land Cruiser 4x4 micro-campers the world has seen, the Kamelback camper. Though it was built to house only two people, something about the multi-expanding camper module felt like it could easily fit more people. And now it does, as Bushwakka adds the Kamelback 4 to its lineup, fitting a two-bed expandable bunkhouse atop the bare rear chassis of one of the world's most rugged and trustworthy 4x4 platforms to redefi",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/expedition-trucks/bushwakka-kamelback-4-sleeper-toyota-camper/",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 04:37:37 GMT",
+      "author": "C.C. Weiss",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T05:11:23.001Z",
+      "created_at": "2026-06-03T05:11:23.001Z"
+    },
+    {
+      "id": 10197,
+      "source": "New Atlas",
+      "title_en": "Polar bear death in Svalbard linked to highly pathogenic bird flu",
+      "description_en": "Last month, tour guides in the remote Norwegian archipelago of Svalbard made a grisly discovery, chancing upon the carcasses of a young male polar bear and an adult walrus in an advanced state of decay. They alerted the authorities, who dispatched experts to collect samples.\nContinue Reading\nCategory: Environment, Science\nTags: polar bears, Arctic, H5N1, avian-influenza",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/environment/avian-flu-kills-polar-bear-and-walrus-svalbard/",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 04:26:23 GMT",
+      "author": "Kerry Taylor-Smith",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T05:11:23.002Z",
+      "created_at": "2026-06-03T05:11:23.002Z"
+    },
+    {
+      "id": 10198,
+      "source": "New Atlas",
+      "title_en": "World's longest-range airliner takes to the skies",
+      "description_en": "If it's ever been your dream to spend 22 hours on a non-stop flight from Sydney to London, then good news: Airbus has announced the maiden flight of the world's longest-range airliner, the Airbus A350-1000ULR, with a range of almost 10,000 nautical miles.\nContinue Reading\nCategory: Aircraft, Transport\nTags: Airbus, Qantas, Aircraft",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/aircraft/ultra-long-range-airbus/",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 03:32:21 GMT",
+      "author": "David Szondy",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T05:11:23.002Z",
+      "created_at": "2026-06-03T05:11:23.002Z"
+    },
+    {
+      "id": 10199,
+      "source": "The Guardian AI",
+      "title_en": "‘The CGI would have cost millions. I spent $2,000.’ Is Dreams of Violets AI slop – or the future of film-making?",
+      "description_en": "It should have taken years, but Ash Koosha made a drama about Iran’s anti-government protests in weeks – and now it’s the first AI-made movie to screen at a major film festival. It could transform indie film-making, claims the director\nNext week a breakthrough 75-minute drama about the brutal crackdown in Iran on anti-government protesters in January will premiere at the Tribeca film festival in New York. It is called Dreams of Violets and is based on journalism, video footage and eyewitness acc",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/film/2026/jun/03/dreams-of-violets-ash-koosha-iran-tribeca-film-festival",
+      "image_url": "https://i.guim.co.uk/img/media/cbf5bf6cb7a57a198a144342ac4658d6ba2d71c4/801_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=05ae9ba7b44de7be4a2b4b845c838250",
+      "pub_date": "Wed, 03 Jun 2026 04:00:42 GMT",
+      "author": "Cath Clarke",
+      "categories": [
+        {
+          "_": "Film",
+          "$": {
+            "domain": "https://www.theguardian.com/film/film"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Iran",
+          "$": {
+            "domain": "https://www.theguardian.com/world/iran"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "Middle East and north Africa",
+          "$": {
+            "domain": "https://www.theguardian.com/world/middleeast"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T05:11:23.192Z",
+      "created_at": "2026-06-03T05:11:23.192Z"
+    },
+    {
+      "id": 10200,
+      "source": "The Guardian AI",
+      "title_en": "Sydney academic used AI to write SMH opinion piece urging students to avoid using tech to ‘cut corners’",
+      "description_en": "Sydney Morning Herald removes piece by Cath Ellis, despite Western Sydney University saying her use of AI was ‘appropriate’\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nA top Sydney academic used AI to write an opinion piece that urged students to “do the work” and not cut corners by using such technology, with the Sydney Morning Herald removing the “unacceptable” piece from its website.\nWestern Sydney University’s pro vice",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/australia-news/2026/jun/03/sydney-academic-used-ai-opinion-piece-urging-students-to-avoid-using-it-ntwnfb",
+      "image_url": "https://i.guim.co.uk/img/media/4a6e567063ed76897094c356959f115332f7fce8/333_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=9ea5c6c5fa81ccc68a82904aa5fff16a",
+      "pub_date": "Wed, 03 Jun 2026 03:06:28 GMT",
+      "author": "Josh Taylor",
+      "categories": [
+        {
+          "_": "Australian universities",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australian-universities"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-03T05:11:23.192Z",
+      "created_at": "2026-06-03T05:11:23.192Z"
+    },
+    {
+      "id": 10201,
+      "source": "The Guardian AI",
+      "title_en": "Chip, chip ... boom? South Korea tech makers join the trillion-dollar club but some fear a short-circuit looms",
+      "description_en": "South Korea’s Kospi stock market has hit record highs thanks to AI, but experts urge caution over boom-bust cycles and a heavy reliance on two chipmakers\nSouth Korea has leapfrogged India to become the world’s sixth largest share market, leaving equity markets in the UK, Germany and France trailing in its dust. But despite the runaway success, some are raising concerns that the Kospi index is too dependent on two freshly minted trillion-dollar chipmaking companies.\nChip company SK Hynix last wee",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/world/2026/jun/03/south-korea-ai-boom-tech-companies-trillion-dollar-club-kospi-",
+      "image_url": "https://i.guim.co.uk/img/media/f2757ef8729eea0f53eec43344a8292444e177f8/324_0_3402_2722/master/3402.jpg?width=140&quality=85&auto=format&fit=max&s=6019ed7ad10d90c42212220782f8378d",
+      "pub_date": "Wed, 03 Jun 2026 02:43:43 GMT",
+      "author": "Mark Saunokonoko",
+      "categories": [
+        {
+          "_": "South Korea",
+          "$": {
+            "domain": "https://www.theguardian.com/world/south-korea"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Nvidia",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/nvidia"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Japan",
+          "$": {
+            "domain": "https://www.theguardian.com/world/japan"
+          }
+        },
+        {
+          "_": "Asia Pacific",
+          "$": {
+            "domain": "https://www.theguardian.com/world/asia-pacific"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-03T05:11:23.193Z",
+      "created_at": "2026-06-03T05:11:23.193Z"
+    },
+    {
+      "id": 10202,
+      "source": "CNBC Tech",
+      "title_en": "Investors bet humanoid robots will transform industry and homes over the next decade",
+      "description_en": "“Be ready for it,” said one fund manager who sees enormous opportunities in the space.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/03/humanoid-robots-trillion-dollar-ai-market.html",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 05:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T05:11:24.119Z",
+      "created_at": "2026-06-03T05:11:24.119Z"
+    },
+    {
+      "id": 10203,
+      "source": "CNBC Tech",
+      "title_en": "Big Tech's AI ambitions pose a major power test for Europe",
+      "description_en": "Japan's SoftBank on Saturday announced plans to build 3.1 GW of AI data centers in the northern Hauts-de-France region by 2031.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/03/big-techs-ai-power-test-europe-softbank-france.html",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 05:03:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T05:11:24.119Z",
+      "created_at": "2026-06-03T05:11:24.119Z"
+    },
+    {
+      "id": 10204,
+      "source": "AI Post (TG)",
+      "title_en": "🔥 OpenAI CEO Sam Altman announces that his new data center in Saline Township, Michigan, nicknamed \"The Barn,\" could one day potentially help cure cancer.The data center is one gigawatt, and he says ",
+      "description_en": "🔥 OpenAI CEO Sam Altman announces that his new data center in Saline Township, Michigan, nicknamed \"The Barn,\" could one day potentially help cure cancer.The data center is one gigawatt, and he says children will be educated through AI while small businesses will run on AI. \"This could very well turn into the site where cancer gets cured.\"@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7102",
+      "image_url": null,
+      "pub_date": "2026-06-03T04:26:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T05:11:25.531Z",
+      "created_at": "2026-06-03T05:11:25.531Z"
     }
   ]
 }
