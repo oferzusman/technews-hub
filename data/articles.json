@@ -212052,7 +212052,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-02T21:46:27.133Z",
       "created_at": "2026-06-02T21:46:27.133Z"
     },
@@ -212069,7 +212069,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-02T21:46:28.895Z",
       "created_at": "2026-06-02T21:46:28.895Z"
     },
@@ -212331,6 +212331,23 @@
       "priority": "hot",
       "fetchedAt": "2026-06-02T23:22:59.199Z",
       "created_at": "2026-06-02T23:22:59.199Z"
+    },
+    {
+      "id": 10193,
+      "source": "Interesting Engineering",
+      "title_en": "Trump signs executive order granting US early access to frontier models before launch",
+      "description_en": "President Donald Trump signed a new executive order Tuesday that asks artificial intelligence companies to...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/trump-executive-order-frontier-model-access",
+      "image_url": null,
+      "pub_date": "Tue, 02 Jun 2026 23:42:06 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T00:00:51.544Z",
+      "created_at": "2026-06-03T00:00:51.544Z"
     }
   ]
 }
