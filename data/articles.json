@@ -215735,7 +215735,7 @@
       "author": "Aamir Khollam",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T20:29:56.132Z",
       "created_at": "2026-06-03T20:29:56.132Z"
     },
@@ -215860,7 +215860,7 @@
         "google"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T21:44:28.231Z",
       "created_at": "2026-06-03T21:44:28.231Z"
     },
@@ -216110,6 +216110,57 @@
       "priority": "hot",
       "fetchedAt": "2026-06-03T22:11:06.547Z",
       "created_at": "2026-06-03T22:11:06.547Z"
+    },
+    {
+      "id": 10342,
+      "source": "New Atlas",
+      "title_en": "Rare Ebola strain is spreading beyond Africa. Here's what you should know.",
+      "description_en": "Abrar Ahmad Chughtai, Holly Seale, & Md Saiful Islam, UNSW Sydney/ The Conversation\nContinue Reading\nCategory: Infectious Diseases, Illnesses and conditions, Body and Mind\nTags: Ebola, Africa, pandemic, Virus",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/infectious-diseases/ebola-strain-spreading-beyond-africa/",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 22:24:12 GMT",
+      "author": "The Conversation",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T22:38:32.923Z",
+      "created_at": "2026-06-03T22:38:32.923Z"
+    },
+    {
+      "id": 10343,
+      "source": "AI Post (TG)",
+      "title_en": "🔥Microsoft unveils MAI-Voice-2, pushing AI voices closer to human speechMicrosoft has introduced Microsoft MAI-Voice-2 and MAI-Voice-2-Flash, its latest text-to-speech models designed to generate mor",
+      "description_en": "🔥Microsoft unveils MAI-Voice-2, pushing AI voices closer to human speechMicrosoft has introduced Microsoft MAI-Voice-2 and MAI-Voice-2-Flash, its latest text-to-speech models designed to generate more natural, expressive, and multilingual voices.🔹MAI-Voice-2• Focused on high-quality speech generation.• Better emotional expression and voice control.• More consistent long-form narration for audiobooks, podcasts, and assistants. • Supports multiple languages and speaking styles⚡ MAI-Voice-2-Flash",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7112",
+      "image_url": null,
+      "pub_date": "2026-06-03T22:13:33+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T22:38:37.505Z",
+      "created_at": "2026-06-03T22:38:37.505Z"
+    },
+    {
+      "id": 10344,
+      "source": "AI Post (TG)",
+      "title_en": "Microsoft launches Scout, an AI executive assistant that shows up directly in your email and calendar like a real employee.Source.@aipost 🏴",
+      "description_en": "Microsoft launches Scout, an AI executive assistant that shows up directly in your email and calendar like a real employee.Source.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7113",
+      "image_url": null,
+      "pub_date": "2026-06-03T22:24:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T22:38:37.505Z",
+      "created_at": "2026-06-03T22:38:37.505Z"
     }
   ]
 }
