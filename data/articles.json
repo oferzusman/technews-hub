@@ -214593,7 +214593,7 @@
         "retail"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T17:11:12.412Z",
       "created_at": "2026-06-03T17:11:12.412Z"
     },
@@ -214610,7 +214610,7 @@
       "author": "Emma Roth",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T17:11:12.432Z",
       "created_at": "2026-06-03T17:11:12.432Z"
     },
@@ -214684,7 +214684,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T17:11:14.681Z",
       "created_at": "2026-06-03T17:11:14.681Z"
     },
@@ -214876,7 +214876,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T17:11:14.681Z",
       "created_at": "2026-06-03T17:11:14.681Z"
     },
@@ -214895,7 +214895,7 @@
         "ai and ml"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T17:11:15.078Z",
       "created_at": "2026-06-03T17:11:15.078Z"
     },
@@ -214912,7 +214912,7 @@
       "author": "Jijo Malayil",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T17:11:15.760Z",
       "created_at": "2026-06-03T17:11:15.760Z"
     },
@@ -214933,7 +214933,7 @@
         "Console Gaming"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T17:11:15.950Z",
       "created_at": "2026-06-03T17:11:15.950Z"
     },
@@ -214953,7 +214953,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T17:11:15.950Z",
       "created_at": "2026-06-03T17:11:15.950Z"
     },
@@ -214974,7 +214974,7 @@
         "Manufacturing"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T17:11:15.951Z",
       "created_at": "2026-06-03T17:11:15.951Z"
     },
@@ -214994,7 +214994,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T17:11:15.951Z",
       "created_at": "2026-06-03T17:11:15.951Z"
     },
@@ -215015,7 +215015,7 @@
         "Headphones and Headsets"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T17:11:15.951Z",
       "created_at": "2026-06-03T17:11:15.951Z"
     },
@@ -215032,7 +215032,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T17:11:15.985Z",
       "created_at": "2026-06-03T17:11:15.985Z"
     },
@@ -215049,7 +215049,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T17:11:15.985Z",
       "created_at": "2026-06-03T17:11:15.985Z"
     },
@@ -215083,7 +215083,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T17:11:19.049Z",
       "created_at": "2026-06-03T17:11:19.049Z"
     },
@@ -215100,7 +215100,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T17:11:19.049Z",
       "created_at": "2026-06-03T17:11:19.049Z"
     },
@@ -215117,7 +215117,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T17:11:19.049Z",
       "created_at": "2026-06-03T17:11:19.049Z"
     },
@@ -215151,9 +215151,304 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T17:11:19.622Z",
       "created_at": "2026-06-03T17:11:19.622Z"
+    },
+    {
+      "id": 10304,
+      "source": "The Verge AI",
+      "title_en": "As AI gets better, it reveals an empty promise",
+      "description_en": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even though neither of them explicitly provided this information to Google. But what's scary to me is how all of this stuff seems geared toward a future of \"productivity\" that completely misses what needs to be fixed in our w",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+      "image_url": null,
+      "pub_date": "2026-06-03T17:45:35.000Z",
+      "author": "TC. Sottek",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T18:57:08.412Z",
+      "created_at": "2026-06-03T18:57:08.412Z"
+    },
+    {
+      "id": 10305,
+      "source": "The Decoder",
+      "title_en": "Ideogram 4.0 drops as an open-weight model with native 2K resolution and improved text rendering",
+      "description_en": "Ideogram releases version 4.0 of its text-to-image model as an open-weight model with native 2K resolution, bounding box control, and improved text rendering. On the DesignArena leaderboard, it ranks first among all open models; only closed systems from OpenAI and Google score higher. Commercial use requires a paid license.\nThe article Ideogram 4.0 drops as an open-weight model with native 2K resolution and improved text rendering appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/ideogram-4-0-drops-as-an-open-weight-model-with-native-2k-resolution-and-improved-text-rendering/",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 18:34:36 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Ideogram"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T18:57:09.783Z",
+      "created_at": "2026-06-03T18:57:09.783Z"
+    },
+    {
+      "id": 10306,
+      "source": "The Decoder",
+      "title_en": "Trump's new executive order wants AI companies to voluntarily submit models for government safety reviews",
+      "description_en": "The White House has issued an executive order requiring agencies like the Pentagon and CISA to strengthen cyber defense with AI tools within 30 days. AI developers can voluntarily submit models for security testing, but the order explicitly rules out mandatory approval. Given recent government pressure on AI companies, how voluntary this cooperation really is remains an open question.\nThe article Trump's new executive order wants AI companies to voluntarily submit models for government safety re",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/trumps-new-executive-order-wants-ai-companies-to-voluntarily-submit-models-for-government-safety-reviews/",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 17:55:21 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Regulation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T18:57:09.784Z",
+      "created_at": "2026-06-03T18:57:09.784Z"
+    },
+    {
+      "id": 10307,
+      "source": "The Guardian AI",
+      "title_en": "What do UK watchdog’s new rules on Google AI results mean for publishers?",
+      "description_en": "Giving news websites the power to block their content from being used in AI summaries will have global ramifications\nThe UK’s competition watchdog has ordered Google to change how it uses publishers’ content in its AI-powered search results, in a move that will have global ramifications.\nThe Competition and Markets Authority (CMA) is using powers that allow it to set bespoke rules for major tech firms that it deems to have “strategic market status”. Google, the world’s largest search engine, is ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/jun/03/what-does-uk-watchdog-new-google-ai-results-rule-means-publishers",
+      "image_url": "https://i.guim.co.uk/img/media/48c2f1158b35ff75cb2edcbb613c747af1215f74/101_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=59699d95a3f16ec51c747b2fdcaced96",
+      "pub_date": "Wed, 03 Jun 2026 17:17:37 GMT",
+      "author": "Dan Milmo and Mark Sweney",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Google",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/google"
+          }
+        },
+        {
+          "_": "Competition and Markets Authority",
+          "$": {
+            "domain": "https://www.theguardian.com/business/competition-commission"
+          }
+        },
+        {
+          "_": "Newspapers",
+          "$": {
+            "domain": "https://www.theguardian.com/media/newspapers"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/media"
+          }
+        },
+        {
+          "_": "Newspapers & magazines",
+          "$": {
+            "domain": "https://www.theguardian.com/media/pressandpublishing"
+          }
+        },
+        {
+          "_": "Regulators",
+          "$": {
+            "domain": "https://www.theguardian.com/business/regulators"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T18:57:10.525Z",
+      "created_at": "2026-06-03T18:57:10.525Z"
+    },
+    {
+      "id": 10308,
+      "source": "The Guardian AI",
+      "title_en": "Labour MP sues Elon Musk’s xAI company over fake sexualised images",
+      "description_en": "Jess Asato was portrayed wearing a bikini in Grok-generated images after she criticised creation of such non-consensual pictures\nA Labour MP has taken legal action against Elon Musk’s xAI company after saying its Grok tool helped a user produce fake sexualised pictures of her, part of a wave of such images that flooded the social media platform X earlier this year.\nJess Asato, the MP for Lowestoft, said in January that seeing herself portrayed by the AI tool as wearing a bikini without her conse",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/03/labour-mp-sues-elon-musks-ai-company-over-fake-sexualised-images",
+      "image_url": "https://i.guim.co.uk/img/media/e94206c8e3df021d1fea16a7ccb2b7527f86d9d7/288_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=905892080aceb09f967a62e259d84252",
+      "pub_date": "Wed, 03 Jun 2026 17:48:06 GMT",
+      "author": "Peter Walker Senior political correspondent",
+      "categories": [
+        {
+          "_": "Grok AI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/grok-ai"
+          }
+        },
+        {
+          "_": "Internet safety",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/internet-safety"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Sexual harassment",
+          "$": {
+            "domain": "https://www.theguardian.com/world/sexual-harassment"
+          }
+        },
+        {
+          "_": "X",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/twitter"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Internet",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/internet"
+          }
+        },
+        {
+          "_": "Privacy",
+          "$": {
+            "domain": "https://www.theguardian.com/world/privacy"
+          }
+        },
+        {
+          "_": "Law",
+          "$": {
+            "domain": "https://www.theguardian.com/law/law"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T18:57:10.525Z",
+      "created_at": "2026-06-03T18:57:10.525Z"
+    },
+    {
+      "id": 10309,
+      "source": "Interesting Engineering",
+      "title_en": "NASA approves Lockheed Martin X-59 for maiden supersonic test flight phase",
+      "description_en": "NASA’s X-59 experimental aircraft, developed under the agency’s Quesst mission in partnership with Lockheed Martin...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/space/nasa-approves-lockheed-martin-x-59-for-maiden-supersonic-test-flight-phase",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 18:29:26 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T18:57:11.343Z",
+      "created_at": "2026-06-03T18:57:11.343Z"
+    },
+    {
+      "id": 10310,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Исследование: инвестиции в ИИ обернулись для американской экономики убытками без малого в триллион долларов  Американские техногиганты суммарно вбухали $1,4 трлн на развитие ИИ, практически годовой ВВ",
+      "description_en": "Исследование: инвестиции в ИИ обернулись для американской экономики убытками без малого в триллион долларов  Американские техногиганты суммарно вбухали $1,4 трлн на развитие ИИ, практически годовой ВВП Нидерландов, — и всё впустую. Такой вывод предлагает сделать автор портала Is AI Profitable Yet? («ИИ уже начал приносить прибыль?»), посчитавший все расходы на разработку ИИ, а также на строительство дата-центров.По его оценкам, из вложенных $313 млрд в ИИ Amazon за четыре года смогла отбить толь",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33369",
+      "image_url": "https://cdn4.telesco.pe/file/nAqD82hfBzL6pLEgkzbv5fmQDmoKy7v78Sq3k3iI74gbZ6xpuhzkaCE7IwYXYQgZwAKmrlf86y-gQNzy2BsW6cvIHDBHdTK2A6MFxH_qKr1lYLxTQpsAYtdV1ZCNj36fo_SSK_ZcmY-9p8df1a8XOJ2u8QiJerbaJ-GGjpvxj9yguZpBpxxP-J0z8P1EUVGyhSgXqFhL9p-WLC8138Gavv6oBGGjbnVJN452nK1X640MKjy_gl45rSnVLEfpxark3QciJ4y-RbMiIpppv6ANlkySF3ukEoqcsDIj1ZL5PyV0isQVSsVdn4-qbJBwgOZhTljbIuhFciP7MepriVBSlw.jpg",
+      "pub_date": "2026-06-03T18:15:33+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T18:57:13.178Z",
+      "created_at": "2026-06-03T18:57:13.178Z"
+    },
+    {
+      "id": 10311,
+      "source": "XOR Journal (TG)",
+      "title_en": "Google выкатила Gemma 4 12B — открытую мультимодальную нейронку, которую можно запускать прямо на ноутбуке 😊Новая модель понимает текст, изображения, аудио и видео, а для локального запуска ей хватае",
+      "description_en": "Google выкатила Gemma 4 12B — открытую мультимодальную нейронку, которую можно запускать прямо на ноутбуке 😊Новая модель понимает текст, изображения, аудио и видео, а для локального запуска ей хватает всего 16 ГБ памяти.Что ещё:🟢 На бенчмарках Gemma 4 12B вплотную подобралась к Gemma 4 26B, несмотря на вдвое меньший размер;🟢 Заточена малышка под агентные сценарии, программирование и сложные рассуждения;🟢 Плюс ко всему Google выкатили специальный набор скиллов для Gemma.Пользуемся 👍@xor_jour",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9437",
+      "image_url": "https://cdn4.telesco.pe/file/mbypZIws-E-DRgQLzG7rTYI6lw4JxRX6JiR6JXcn-9F82nQIAeY0d8Rb7Sqnon4WIXD9C-ID2TRRQXhhoTy0Ls5YADBlkdf2lgFRSNx2H-mks-77sotpITtGCjG4PP6Re4F7JYRIjZh1B_tjO5JNTZW8oCu-0tzJg7DXv4pQRt8N-elntbhFTGdfovDH13vptfx0PjrMa5zCWyAeMVmOwguOsWFvDJtWRYgZ6Z-do9ScekOn6KVG7MSNprlOpmF7hz2Jeoudx6f7mnBeCenjm5YF2i3f7TAb3gpp77FIlNkuxUIoDqQicjN4LVchW9nCZnt3RVrMj2TaVJXmHqnQEQ.jpg",
+      "pub_date": "2026-06-03T17:20:10+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T18:57:13.211Z",
+      "created_at": "2026-06-03T18:57:13.211Z"
+    },
+    {
+      "id": 10312,
+      "source": "XOR Journal (TG)",
+      "title_en": "⚡️⚡️⚡️ MAX удалили из App Store — при переходе по ссылке с официального сайта выбивает ошибку, а в поиске приложение не найти.Дней до блокировки Apple: 3...@exploitex",
+      "description_en": "⚡️⚡️⚡️ MAX удалили из App Store — при переходе по ссылке с официального сайта выбивает ошибку, а в поиске приложение не найти.Дней до блокировки Apple: 3...@exploitex",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9438",
+      "image_url": "https://cdn4.telesco.pe/file/S66RWNEpgGjTyQbLJG1PD6itNjsAlrTCVMXSaWWZyRvIrUWMDYg6PMqUx28pG2OgOGV5k-Oca5olEItYh2Tp9yHtIygtMNG3yNa-Zw4pvqEaIXY3vOk-qYAvvosb9JST-KUhFK2r1eyhaYA721AhoER62gmk_hAvoNdw7inJoXBwWhuUhedGGuueIYHkYGUpt-1qVGhwe0uMEqk8p_T_kVwB9E8UJesIKfCLfbiyp3D5wzlvCIx7MqfhNCoRI-HCF4YHL2JIePEaSvgcvqeyxnCqmF6ucD3ei3QUC8TZ2FV2NCLb5a9wxozsXMoajUoXQ7Ydzwnkje6xavsYnluC3w.jpg",
+      "pub_date": "2026-06-03T18:40:58+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T18:57:13.211Z",
+      "created_at": "2026-06-03T18:57:13.211Z"
     }
   ]
 }
