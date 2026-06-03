@@ -213876,7 +213876,7 @@
         "4DX Ventures"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T15:00:40.708Z",
       "created_at": "2026-06-03T15:00:40.708Z"
     },
@@ -213899,7 +213899,7 @@
         "media"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T15:00:40.708Z",
       "created_at": "2026-06-03T15:00:40.708Z"
     },
@@ -213922,7 +213922,7 @@
         "whatsapp business"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T15:00:40.708Z",
       "created_at": "2026-06-03T15:00:40.708Z"
     },
@@ -213963,7 +213963,7 @@
       "author": "Hayden Field",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T15:00:40.805Z",
       "created_at": "2026-06-03T15:00:40.805Z"
     },
@@ -214009,7 +214009,7 @@
         "Short News"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T15:00:42.202Z",
       "created_at": "2026-06-03T15:00:42.202Z"
     },
@@ -214188,7 +214188,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T15:00:42.958Z",
       "created_at": "2026-06-03T15:00:42.958Z"
     },
@@ -214254,7 +214254,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T15:00:42.958Z",
       "created_at": "2026-06-03T15:00:42.958Z"
     },
@@ -214271,7 +214271,7 @@
       "author": "Aman Tripathi",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T15:00:43.837Z",
       "created_at": "2026-06-03T15:00:43.837Z"
     },
@@ -214378,7 +214378,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T15:00:44.203Z",
       "created_at": "2026-06-03T15:00:44.203Z"
     },
@@ -214446,7 +214446,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T15:00:49.794Z",
       "created_at": "2026-06-03T15:00:49.794Z"
     },
@@ -214480,7 +214480,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T15:00:49.845Z",
       "created_at": "2026-06-03T15:00:49.845Z"
     },
@@ -214497,7 +214497,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T15:00:49.845Z",
       "created_at": "2026-06-03T15:00:49.845Z"
     },
@@ -214514,7 +214514,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T15:00:49.879Z",
       "created_at": "2026-06-03T15:00:49.879Z"
     },
@@ -214548,7 +214548,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T15:00:50.774Z",
       "created_at": "2026-06-03T15:00:50.774Z"
     },
@@ -214568,9 +214568,592 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T15:16:04.505Z",
       "created_at": "2026-06-03T15:16:04.505Z"
+    },
+    {
+      "id": 10282,
+      "source": "TechCrunch AI",
+      "title_en": "Amazon will show AI product images when you search for some reason",
+      "description_en": "Amazon will use visual search and AI to show AI generated product images that match your search queries. The retailer says it will help guide users to products.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 15:50:26 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "AI",
+        "Apps",
+        "Commerce",
+        "AI search",
+        "Amazon",
+        "commerce",
+        "retail"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T17:11:12.412Z",
+      "created_at": "2026-06-03T17:11:12.412Z"
+    },
+    {
+      "id": 10283,
+      "source": "The Verge AI",
+      "title_en": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
+      "description_en": "Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap on the image that best matches what you're looking for and search for similar-looking items.\nIn a blog post, Amazon positions the feature as a way to help you  search for items if you can't remember the name of a specific texture or style, like describing a \"shirt with a draped collar\" if you can't ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
+      "image_url": null,
+      "pub_date": "2026-06-03T16:07:31.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T17:11:12.432Z",
+      "created_at": "2026-06-03T17:11:12.432Z"
+    },
+    {
+      "id": 10284,
+      "source": "OpenAI Blog",
+      "title_en": "OpenAI public policy agenda",
+      "description_en": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/public-policy-agenda",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 10:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Global Affairs"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-03T17:11:14.414Z",
+      "created_at": "2026-06-03T17:11:14.414Z"
+    },
+    {
+      "id": 10285,
+      "source": "OpenAI Blog",
+      "title_en": "A blueprint for democratic governance of frontier AI",
+      "description_en": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/frontier-safety-blueprint",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 10:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Global Affairs"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-03T17:11:14.414Z",
+      "created_at": "2026-06-03T17:11:14.414Z"
+    },
+    {
+      "id": 10286,
+      "source": "The Guardian AI",
+      "title_en": "The risks of inviting AI into the heart of our economy, society and governance | Letters",
+      "description_en": "Readers respond to an article by Nesrine Malik on what we lose when we trust machines over humans\nNesrine Malik is right to worry about the effect that AI may have on writing (AI is devoid of meaning and humanity. That’s why its vapid voice suits this political moment, 1 June). The examples she cites of fabricated quotations and unreliable research should concern anyone who values truth and public trust.\nHowever, I suspect the deeper problem is not AI’s bland prose but its relationship to eviden",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/03/the-risks-of-inviting-ai-into-the-heart-of-our-economy-society-and-governance",
+      "image_url": "https://i.guim.co.uk/img/media/e4243be8bbcc7c9f70e6eb7210c302ebe6498819/19_0_4805_3844/master/4805.jpg?width=140&quality=85&auto=format&fit=max&s=60ea7f2e288f10a810a7483d98183705",
+      "pub_date": "Wed, 03 Jun 2026 16:36:01 GMT",
+      "author": "Guardian Staff",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T17:11:14.681Z",
+      "created_at": "2026-06-03T17:11:14.681Z"
+    },
+    {
+      "id": 10287,
+      "source": "The Guardian AI",
+      "title_en": "EU proposes to block foreign providers using ‘kill switch’ to disrupt vital tech across Europe",
+      "description_en": "European Commission aims to reduce ‘risky dependencies’ on foreign suppliers in cloud computing, AI and semiconductor production\nThe EU executive wants to ensure no foreign government or company has access to a “kill switch” to turn off or disrupt vital tech services across the continent, as part of an effort to cut dependencies on the US and China.\nPublishing “technological sovereignty” proposals that risk further tensions with Donald Trump, the European Commission said on Wednesday the bloc ne",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/world/2026/jun/03/eu-commission-foreign-providers-kill-switch-disrupt-tech-europe",
+      "image_url": "https://i.guim.co.uk/img/media/efae5263fea6fff40c573f11cb8ab0db868fa94d/1381_1080_5090_4072/master/5090.jpg?width=140&quality=85&auto=format&fit=max&s=f99a73e115edfbebb845d9e21433440d",
+      "pub_date": "Wed, 03 Jun 2026 17:04:48 GMT",
+      "author": "Jennifer Rankin in Brussels and Aisha Down",
+      "categories": [
+        {
+          "_": "European Commission",
+          "$": {
+            "domain": "https://www.theguardian.com/world/european-commission"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Europe",
+          "$": {
+            "domain": "https://www.theguardian.com/world/europe-news"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Cloud computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/cloud-computing"
+          }
+        },
+        {
+          "_": "Internet",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/internet"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Donald Trump",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/donaldtrump"
+          }
+        },
+        {
+          "_": "China",
+          "$": {
+            "domain": "https://www.theguardian.com/world/china"
+          }
+        },
+        {
+          "_": "Asia Pacific",
+          "$": {
+            "domain": "https://www.theguardian.com/world/asia-pacific"
+          }
+        },
+        {
+          "_": "European Union",
+          "$": {
+            "domain": "https://www.theguardian.com/world/eu"
+          }
+        },
+        {
+          "_": "Amazon",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/amazon"
+          }
+        },
+        {
+          "_": "Google",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/google"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T17:11:14.681Z",
+      "created_at": "2026-06-03T17:11:14.681Z"
+    },
+    {
+      "id": 10288,
+      "source": "The Guardian AI",
+      "title_en": "Former police officer in hiding after being falsely linked to Henry Nowak arrest",
+      "description_en": "Christi Hill and male officer misidentified in Vickrum Digwa murder case on AI platforms including Grok\n\nUK politics live – latest updates\n\nA former police officer has been forced to flee to a safe space after she was falsely accused online of being involved in the arrest of Henry Nowak.\nChristi Hill, who served as a police constable for 12 years, has criticised social media and AI platforms, including Elon Musk’s Grok, for spreading the false claim that she was one of the officers who arrested ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/uk-news/2026/jun/03/former-officer-hampshire-hiding-after-being-falsely-linked-henry-nowak-arrest",
+      "image_url": "https://i.guim.co.uk/img/media/498a025f9b73746ca8cd287cde4bb2948a1cfde7/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=e49fefb5d42715405f4bdcedbe453acc",
+      "pub_date": "Wed, 03 Jun 2026 16:28:01 GMT",
+      "author": "Jamie Grierson",
+      "categories": [
+        {
+          "_": "Southampton",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/southampton"
+          }
+        },
+        {
+          "_": "Social media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/social-media"
+          }
+        },
+        {
+          "_": "Hampshire",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/hampshire"
+          }
+        },
+        {
+          "_": "Police",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/police"
+          }
+        },
+        {
+          "_": "Digital media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/digital-media"
+          }
+        },
+        {
+          "_": "Media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/media"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Grok AI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/grok-ai"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T17:11:14.681Z",
+      "created_at": "2026-06-03T17:11:14.681Z"
+    },
+    {
+      "id": 10289,
+      "source": "The Register",
+      "title_en": "No longer just a Copilot, Microsoft's AI wants to take the wheel",
+      "description_en": "Always-on agent promises to keep work moving, provided you trust it with practically everything",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/03/no-longer-just-a-copilot-microsofts-ai-wants-to-take-the-wheel/5250718",
+      "image_url": "https://image.theregister.com/?imageId=5250787&width=800",
+      "pub_date": "Wed, 03 Jun 2026 18:49:15 +0200",
+      "author": null,
+      "categories": [
+        "ai and ml"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T17:11:15.078Z",
+      "created_at": "2026-06-03T17:11:15.078Z"
+    },
+    {
+      "id": 10290,
+      "source": "Interesting Engineering",
+      "title_en": "Watch: Shanghai firm unveils 1.2m humanoid robot with dual brains and compact design",
+      "description_en": "A Shanghai-based robotics company has unveiled a compact humanoid robot that marks the firm’s expansion...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/china-humanoid-robot-brains",
+      "image_url": "https://www.youtube.com/embed/ZBskEvd7Bwg",
+      "pub_date": "Wed, 03 Jun 2026 15:27:41 +0000",
+      "author": "Jijo Malayil",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T17:11:15.760Z",
+      "created_at": "2026-06-03T17:11:15.760Z"
+    },
+    {
+      "id": 10291,
+      "source": "Tom's Hardware",
+      "title_en": "MSI Claw 8 EX AI+ brings Intel Arc G3 Extreme to handhelds — 8-inch, 120 Hz display and new ergonomic grips",
+      "description_en": "The MSI Claw 8 EX AI+ brought comfort and performance to Computex with massive prongs and Intel Arc G3 Extreme.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/handheld-gaming/msi-claw-8-ex-ai-brings-intel-arc-g3-extreme-to-handhelds-8-inch-120-hz-display-and-new-ergonomic-grips",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/gnczQhhzVo4rTRBGTKH2G7-1280-80.jpg",
+      "pub_date": "Wed, 03 Jun 2026 16:48:46 +0000",
+      "author": " Andrew E. Freedman ",
+      "categories": [
+        "Handheld Gaming",
+        "Video Games",
+        "Console Gaming"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T17:11:15.950Z",
+      "created_at": "2026-06-03T17:11:15.950Z"
+    },
+    {
+      "id": 10292,
+      "source": "Tom's Hardware",
+      "title_en": "ASRock shows off a slew of new AIOs, Power Supplies, and 10th Anniversary hardware — a monster 3KW Taichi power supply for AI and hybrid Taichi Aqua AIO/custom loop stand out in the crowd",
+      "description_en": "Tom's Hardware stopped by the ASRock booth, and was greeted by a wide variety of products at this year's Computex.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/power-supplies/asrock-shows-off-a-slew-of-new-aios-power-supplies-and-10th-anniversary-hardware-a-monster-3kw-taichi-power-supply-for-ai-and-hybrid-taichi-aqua-aio-custom-loop-stand-out-in-the-crowd",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/85nz9nkZXx2x2uwXnP6gbj-1280-80.jpg",
+      "pub_date": "Wed, 03 Jun 2026 16:00:00 +0000",
+      "author": " Joe Shields ",
+      "categories": [
+        "Power Supplies",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T17:11:15.950Z",
+      "created_at": "2026-06-03T17:11:15.950Z"
+    },
+    {
+      "id": 10293,
+      "source": "Tom's Hardware",
+      "title_en": "Samsung shows first HBM5 mockup with Heat Path Block cooling — thermal race with SK hynix shaping up",
+      "description_en": "Samsung displayed its first physical mockup of HBM5 memory at Computex 2026 in Taipei, pairing the eighth-generation AI memory with a new in-package cooling structure.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/samsung-shows-first-hbm5-mockup-at-computex-with-heat-path-block-cooling",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/wSKMazxyHQoxGzQkMJjTq8-1280-80.jpg",
+      "pub_date": "Wed, 03 Jun 2026 15:30:51 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T17:11:15.951Z",
+      "created_at": "2026-06-03T17:11:15.951Z"
+    },
+    {
+      "id": 10294,
+      "source": "Tom's Hardware",
+      "title_en": "Computex 2026 Day Two Wrap-Up: Intel atones for Arrow Lake, Wi-Fi 8 comes into focus",
+      "description_en": "Computex 2026 is in full swing in Taipei",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/computex-2026-day-two-wrap-up-intel-atones-for-arrow-lake-wi-fi-8-comes-into-focus",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/bpBiABz3ZYcjckJDfDKB53-1280-80.jpg",
+      "pub_date": "Wed, 03 Jun 2026 15:28:56 +0000",
+      "author": " Brandon Hill ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T17:11:15.951Z",
+      "created_at": "2026-06-03T17:11:15.951Z"
+    },
+    {
+      "id": 10295,
+      "source": "Tom's Hardware",
+      "title_en": "Corsair launches lightweight budget-friendly HS35 v3 gaming headsets — wired version weighs a cool 230 grams",
+      "description_en": "Corsair launched its HS35 v3 lightweight gaming headsets — wired and wireless — at Computex 2026.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/peripherals/gaming-headsets/corsair-launches-lightweight-budget-friendly-hs35-v3-gaming-headsets",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/6Rj6yL3AeEGHrSaETH3utP-1280-80.jpg",
+      "pub_date": "Wed, 03 Jun 2026 15:20:00 +0000",
+      "author": " Sarah Jacobsson Purewal ",
+      "categories": [
+        "Gaming Headsets",
+        "Peripherals",
+        "Headphones and Headsets"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T17:11:15.951Z",
+      "created_at": "2026-06-03T17:11:15.951Z"
+    },
+    {
+      "id": 10296,
+      "source": "CNBC Tech",
+      "title_en": "Uber slashes people division by nearly a quarter. CEO says 'changes are necessary'",
+      "description_en": "Uber said the cuts were not driven by AI, which has allowed many tech businesses to cut costs and automate workloads",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/03/uber-layoffs-people-division-ai.html",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 16:22:18 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T17:11:15.985Z",
+      "created_at": "2026-06-03T17:11:15.985Z"
+    },
+    {
+      "id": 10297,
+      "source": "CNBC Tech",
+      "title_en": "OpenAI CEO Sam Altman to meet with lawmakers, Trump officials in DC",
+      "description_en": "President Donald Trump signed an executive order about AI this week, which Altman voiced support for.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/03/open-ai-altman-congress-trump-eo.html",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 16:50:26 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T17:11:15.985Z",
+      "created_at": "2026-06-03T17:11:15.985Z"
+    },
+    {
+      "id": 10298,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Аларм: вы все еще можете выиграть кучу крутой техники от нас и Авто.ру | Новые машины!Разыгрываем по одному iPhone 17 Pro, Apple MacBook Air и PlayStation 5 Pro. Принимаем участие за пару кликов:• ",
+      "description_en": "⚡️ Аларм: вы все еще можете выиграть кучу крутой техники от нас и Авто.ру | Новые машины!Разыгрываем по одному iPhone 17 Pro, Apple MacBook Air и PlayStation 5 Pro. Принимаем участие за пару кликов:• Подписаться на Авто.ру | Новые машины;• Оставаться подписанными на нас;• Нажать «Участвовать» под этим постом.Трех победителей выберем рандомайзером уже 10 июня. Призы по России доставим за счет Авто.ру. Правила читаем — здесь.Самое время апгрейдиться.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28876",
+      "image_url": "https://cdn4.telesco.pe/file/dmMLF72s0gueLBGmY5Q5XVX1ai2w5M-PQUot5E3NgV4MU3GzVw3XDdqaj7NDmcmpKQW_kBxumDmvnAMGwQIK2eLU2SW3MrIEnzuTuSRTxsvACm1AjC0IMe6B_MyMt3kPHa0uj7FkyrjIOSRImqpqSgfMQTSrrSaatOJjCMPQCTUzqwAd1f8NE-tYlmWG8zpfUrVGx_m5UPudzZyr53u1womupypKpCDG6mc5Kfhl3Jkrs7-2pckAJSgpxEPuDv0F1QJEt_5RhZk0ge6Mpgs62rf0VVjoRkzvlDdzXX2lSKaUeeG3RGSN9mwVOzLFLsh4oM1klhy9kIsX1KemvAhH8g.jpg",
+      "pub_date": "2026-06-03T17:11:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T17:11:19.000Z",
+      "created_at": "2026-06-03T17:11:19.000Z"
+    },
+    {
+      "id": 10299,
+      "source": "XOR Journal (TG)",
+      "title_en": "Полезное: забираем коллекцию с лучшими в мире интерфейсами, которую можно скормить агентам 😳 Внутри 2000+ DESIGN.md со стилями реальных продуктов: цвета, типографика, компоненты и прочее. Можно искат",
+      "description_en": "Полезное: забираем коллекцию с лучшими в мире интерфейсами, которую можно скормить агентам 😳 Внутри 2000+ DESIGN.md со стилями реальных продуктов: цвета, типографика, компоненты и прочее. Можно искать подходящие UI вручную или просто вставить ссылку на сайт — сервис разберёт интерфейс и сгенерит по нему файл для агента. Делаем красиво 💅@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9433",
+      "image_url": null,
+      "pub_date": "2026-06-03T15:46:31+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T17:11:19.049Z",
+      "created_at": "2026-06-03T17:11:19.049Z"
+    },
+    {
+      "id": 10300,
+      "source": "XOR Journal (TG)",
+      "title_en": "Мы в середине недели  🥲@xor_journal",
+      "description_en": "Мы в середине недели  🥲@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9435",
+      "image_url": "https://cdn4.telesco.pe/file/VFUg8Xc_RkUbqn6FLvfuzJ4aV_Znbmrgs5IFQCscCjH5mOw80oyIPsK9XpnIbQVl2FSM-0s3pBOEjqYSLCGcdS27Q0deonoDidWeZKn-hxtUvLmxzADvMiA1rolyHKphniUNmowcON4j-yXCzwxcrzPWWymfxzeKFvIrOZcn9QDjKmKNVowU4-K4hY7ELh6V_vSkfMVHTtpIuLm0rFpFzTFxfidwFRwudvAtluirLy_FPV9M-PFOZCK72jGOgLiNcz5t7i1o5otsoit87zDXzjn9JCXpL0iw1jGcfcVMn_MgOVyqr0UXn8xRDl6t_70aLbLnvtCqyokM84iK_95kLw.jpg",
+      "pub_date": "2026-06-03T16:14:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T17:11:19.049Z",
+      "created_at": "2026-06-03T17:11:19.049Z"
+    },
+    {
+      "id": 10301,
+      "source": "XOR Journal (TG)",
+      "title_en": "История дня: парень мечтал стать сварщиком, а в итоге создает нейросеть для предсказания наводнений 😨В 8БИТ вышло интервью с выпускником ШАДа Степаном Платинским. Сейчас он работает над международным",
+      "description_en": "История дня: парень мечтал стать сварщиком, а в итоге создает нейросеть для предсказания наводнений 😨В 8БИТ вышло интервью с выпускником ШАДа Степаном Платинским. Сейчас он работает над международным поиском в Яндексе и параллельно занимается исследованиями в области экстремальной статистики — пытается научить нейросети предсказывать редкие события вроде наводнений и обвалов рынков.Сильная база в ML и интерес к науке привели его на стажировку в KAUST — один из топовых зарубежных STEM-университе",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9436",
+      "image_url": "https://cdn4.telesco.pe/file/HlQtNqCdrS-fdAtI4Sw9siwjENg3EN3GlOQ0AiTX5rOUPl0nucIBz2_GYpf48zBZ8SeL6-NWaqwBSq-cmsa9tWTOEJ1aN1D8cJyRt20ziCX6EXMXbaAXxYNBRe-oGcvsTxpilt13PN-1bxLMH_ie1365AVeuJPfsWyxfjRIJbFrYCmqsKne5uMux4R0oljm330W0NhSPCA3RlaWvB5cZGRUyQVW-WB7GMQgQTdvCrDz3_iPVe2ImQyOYjbKFMgNBRp3-lXX7_mdsQ9cqBFDDuVR5zfvOF7jBBw34wC-VQTCENGWMZQA3AldYly2-6RmOG1UaRRyHdAColS0qdK70gg.jpg",
+      "pub_date": "2026-06-03T16:20:10+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T17:11:19.049Z",
+      "created_at": "2026-06-03T17:11:19.049Z"
+    },
+    {
+      "id": 10302,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "⚡️ В Санкт-Петербурге объявили состав сборной России на Международную инженерно-космическую олимпиаду в Китае (GFSSM)Имена участников национальной сборной на фестивале Т-Двор объявил президент Т-Техно",
+      "description_en": "⚡️ В Санкт-Петербурге объявили состав сборной России на Международную инженерно-космическую олимпиаду в Китае (GFSSM)Имена участников национальной сборной на фестивале Т-Двор объявил президент Т-Технологий Станислав Близнюк. В команду вошли 11 победителей и призеров всероссийских и международных олимпиад и конкурсов по физике, математике, информатике и искусственному интеллекту. Участие во всероссийском отборе приняли более 530 учеников 9–11 классов из 50 регионов страны. ⚙️ Вплоть до августа сб",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3271",
+      "image_url": "https://cdn4.telesco.pe/file/vq-j4yD-O10tIrwGfFKZrxGIQBKS3k7k6v6c1MSMvMx-4Xqa8TUXSNZSTCNV3wz70AR-BW3XjWgJk90so_2_IJQAqs5S_53MWVolrez9wZHpkhFNFoXMfb0xNLRjQKlCpMHqCqtcVgf51lmmOvQQGeih7Fv1gTHz-_UyTX0W1MhO2WbYfH3Gf-WMd71xD6AHDvX5ACnK_--65PZpDcfVsCNq8cWHyUYDzkSWMmH4eqX6W_AbS9gx48cneyaK3Daag2e2q8FQXsgFJk5mjUlwxPEVZIHFFNLprTJlIfvihLb8xMmR8_xlZQNADwd-Po-Lnueiadyln8YtN9JBOGCd3A.jpg",
+      "pub_date": "2026-06-03T17:05:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T17:11:19.486Z",
+      "created_at": "2026-06-03T17:11:19.486Z"
+    },
+    {
+      "id": 10303,
+      "source": "AI Post (TG)",
+      "title_en": "Elon Musk on how to avoid hiring a spy:\"If she's a 10, you're an asset.\" 😂@aipost 🏴",
+      "description_en": "Elon Musk on how to avoid hiring a spy:\"If she's a 10, you're an asset.\" 😂@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7109",
+      "image_url": "https://cdn4.telesco.pe/file/DaxGBOWWIm-6toAS_62u7bhBZG6onzkW8_j3HIyJZZXqmvqHxA4Ll6Ogrf70_M68SrIlVVci5_VE4ziDPGOSZrEZADXbfMMi0wkvusu2F_SS2wHOrRM6y-wVn_9xIDjl5NOVqvHpHZ3M-IX_4hqTxUZB0vRKyUeOzhZqTPUq1tSaT2GdP_uGgCujEUdoGB8ayzulbkn327o1YO-ePlk4TEZXI4QYKMsskGrpdKMk_aNuI_iEYCCBV_gatGQrKzYxDSDX6ph8W0j8UGZjT7YDsXX1bAQoGFeiJT9rF39gCsYJ4AIlV6d9gj-4EUrLaBIiMqZtjIjojqaZu4FR93hmVg.jpg",
+      "pub_date": "2026-06-03T16:14:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T17:11:19.622Z",
+      "created_at": "2026-06-03T17:11:19.622Z"
     }
   ]
 }
