@@ -215189,7 +215189,7 @@
         "Ideogram"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T18:57:09.783Z",
       "created_at": "2026-06-03T18:57:09.783Z"
     },
@@ -215446,7 +215446,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T18:57:13.211Z",
       "created_at": "2026-06-03T18:57:13.211Z"
     },
@@ -215478,7 +215478,7 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T19:06:18.776Z",
       "created_at": "2026-06-03T19:06:18.776Z"
     },
@@ -215503,7 +215503,7 @@
         "IPOs"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T20:29:53.444Z",
       "created_at": "2026-06-03T20:29:53.444Z"
     },
@@ -215524,7 +215524,7 @@
         "Google"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T20:29:53.444Z",
       "created_at": "2026-06-03T20:29:53.444Z"
     },
@@ -215568,7 +215568,7 @@
         "Google"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T20:29:54.629Z",
       "created_at": "2026-06-03T20:29:54.629Z"
     },
@@ -215604,7 +215604,7 @@
       "author": "Malcolm Azania",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T20:29:55.486Z",
       "created_at": "2026-06-03T20:29:55.486Z"
     },
@@ -215664,7 +215664,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T20:29:55.581Z",
       "created_at": "2026-06-03T20:29:55.581Z"
     },
@@ -215718,7 +215718,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T20:29:55.581Z",
       "created_at": "2026-06-03T20:29:55.581Z"
     },
@@ -215752,7 +215752,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T20:29:56.605Z",
       "created_at": "2026-06-03T20:29:56.605Z"
     },
@@ -215769,7 +215769,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T20:29:59.647Z",
       "created_at": "2026-06-03T20:29:59.647Z"
     },
@@ -215786,7 +215786,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T20:29:59.647Z",
       "created_at": "2026-06-03T20:29:59.647Z"
     },
@@ -215837,9 +215837,219 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T20:30:00.192Z",
       "created_at": "2026-06-03T20:30:00.192Z"
+    },
+    {
+      "id": 10329,
+      "source": "Ars Technica",
+      "title_en": "Google ordered to put clearer links in AI search and let UK publishers opt out",
+      "description_en": "Google must change AI Overviews after claiming users don't want \"lots of sources.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
+      "pub_date": "Wed, 03 Jun 2026 20:26:51 +0000",
+      "author": "\n                    Jon Brodkin\n                ",
+      "categories": [
+        "AI",
+        "Google",
+        "Policy",
+        "ai overviews",
+        "google"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T21:44:28.231Z",
+      "created_at": "2026-06-03T21:44:28.231Z"
+    },
+    {
+      "id": 10330,
+      "source": "Ars Technica",
+      "title_en": "Dashlane issues opaque advisory warning 20 encrypted vaults were stolen",
+      "description_en": "Security advisory leaves out key details. Dashlane maintains complete silence.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/dashlane-app-1152x648-1780514208.webp",
+      "pub_date": "Wed, 03 Jun 2026 19:53:14 +0000",
+      "author": "\n                    Dan Goodin\n                ",
+      "categories": [
+        "Biz & IT",
+        "Security",
+        "2fa",
+        "dashlane",
+        "mfa",
+        "multi factor authentication",
+        "password managers",
+        "two-factor authentication"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T21:44:28.231Z",
+      "created_at": "2026-06-03T21:44:28.231Z"
+    },
+    {
+      "id": 10331,
+      "source": "Ars Technica",
+      "title_en": "Trump plan to test AI models has a problem—US security teams were gutted by DOGE",
+      "description_en": "Critics say Trump plan to test AI models is short-sighted, performative.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/trump-terminator-monkey-cymbals-1152x648.jpg",
+      "pub_date": "Wed, 03 Jun 2026 18:11:15 +0000",
+      "author": "\n                    Ashley Belanger\n                ",
+      "categories": [
+        "AI",
+        "Policy",
+        "AI safety",
+        "ai safety testing",
+        "Artificial Intelligence",
+        "Donald Trump",
+        "frontier ai"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-03T21:44:28.231Z",
+      "created_at": "2026-06-03T21:44:28.231Z"
+    },
+    {
+      "id": 10332,
+      "source": "Ars Technica",
+      "title_en": "New social features further Plex’s evolution from media server business",
+      "description_en": "Plex is increaingly focusing on content discovery and streaming rentals.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gadgets/2026/06/new-social-features-further-plexs-evolution-from-media-server-business/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/plex-1152x648.jpg",
+      "pub_date": "Wed, 03 Jun 2026 17:35:06 +0000",
+      "author": "\n                    Scharon Harding\n                ",
+      "categories": [
+        "Tech",
+        "Plex",
+        "streaming"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-03T21:44:28.231Z",
+      "created_at": "2026-06-03T21:44:28.231Z"
+    },
+    {
+      "id": 10333,
+      "source": "Ars Technica",
+      "title_en": "Autonomous vehicles were supposed to cut traffic—what if they don't?",
+      "description_en": "Data shows Waymo's robotaxis are empty for almost half of the miles they drive.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/cars/2026/06/robotaxis-dont-cut-traffic-any-more-than-ride-hailing-study-finds/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2267133850-1152x648.jpg",
+      "pub_date": "Wed, 03 Jun 2026 15:13:03 +0000",
+      "author": "\n                    Jonathan M. Gitlin\n                ",
+      "categories": [
+        "Cars",
+        "traffic congestion",
+        "waymo"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-03T21:44:28.231Z",
+      "created_at": "2026-06-03T21:44:28.231Z"
+    },
+    {
+      "id": 10334,
+      "source": "Ars Technica",
+      "title_en": "Inside Meta's attempts to play catch-up with AI",
+      "description_en": "Doubts linger over whether Meta can close the gap with rivals.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/bluealexandr-1152x648.jpg",
+      "pub_date": "Wed, 03 Jun 2026 13:35:58 +0000",
+      "author": "\n                    Hannah Murphy, Financial Times\n                ",
+      "categories": [
+        "AI",
+        "Alexandr",
+        "Alexandr Wang",
+        "Facebook",
+        "Mark Zuckerberg",
+        "meta",
+        "muse spark",
+        "TBD Lab"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-03T21:44:28.231Z",
+      "created_at": "2026-06-03T21:44:28.231Z"
+    },
+    {
+      "id": 10335,
+      "source": "CNBC Tech",
+      "title_en": "CrowdStrike narrowly beats estimates on AI tailwinds, but stock falls 10%",
+      "description_en": "CrowdStrike shares have rallied nearly 60% this year on skyrocketing demand for cybersecurity in the age of advanced artificial intelligence.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/03/crowdstrike-crwd-q1-2027-earnings.html",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 21:34:25 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T21:44:31.534Z",
+      "created_at": "2026-06-03T21:44:31.534Z"
+    },
+    {
+      "id": 10336,
+      "source": "CNBC Tech",
+      "title_en": "Hidden beneath AI chips, Chinese-made circuit boards raise national security concerns in U.S.",
+      "description_en": "With demand booming for printed circuit boards, the U.S. government is trying to boost domestic production to move away from reliance on China.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/03/beneath-nvidia-ai-chips-chinese-pcbs-raise-security-concerns-in-us.html",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 20:46:54 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T21:44:31.534Z",
+      "created_at": "2026-06-03T21:44:31.534Z"
+    },
+    {
+      "id": 10337,
+      "source": "CNBC Tech",
+      "title_en": "Broadcom stock plunges 14% on weak software sales, unchanged AI chip forecast for the year",
+      "description_en": "Broadcom reported fiscal second-quarter results on Wednesday and missed estimates for revenue.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 21:37:35 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T21:44:31.534Z",
+      "created_at": "2026-06-03T21:44:31.534Z"
+    },
+    {
+      "id": 10338,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Генерим топовые презентации в Claude за один клик — энтузиасты собрали топ промптов, которые уничтожают PowerPoint и помогут подготовить презентации для защиты диплома, курсовой или для выступления",
+      "description_en": "⚡️ Генерим топовые презентации в Claude за один клик — энтузиасты собрали топ промптов, которые уничтожают PowerPoint и помогут подготовить презентации для защиты диплома, курсовой или для выступления перед начальством.1️⃣ Получаем полный шаблон для презентации:Веди себя как профессиональный консультант по презентациям. Создай полный шаблон презентации для [тема]. Определи цель, целевую аудиторию, ключевое сообщение, структуру слайдов и количество слайдов. Убедись, что структура логична и увлека",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28883",
+      "image_url": "https://cdn4.telesco.pe/file/eygN-eDP6iOcpGPjXJ4uWOWjPVek_y7JiC4-JOQF5_UlNBh5DDF2lI5KQ-gS3OghrH1dc5j6YRFODEi6KqXPRpZikiUKnz80wvpSnLDJ9dL-qFspvCrJH3SaLus8fe0mVMPDumxpY6hvU8cQqOjtd8OKy6sVJT9I9meGnG5MW8wHM1j_Mu48drLcS2LF6Ovm4XcUxge6PG-18sfBTeWT_GIQ4ks_QJF84rzv-UWaEDP2CECQpPXVWURKbagrrBYva3mgS6KIbPp6vRS6euw1dRwandEf9LMAbHtMvYKdbY3yTbYVn_v15LSo6f-qfKVNfpUeszMMD0Oz75ZULTjlSg.jpg",
+      "pub_date": "2026-06-03T21:41:21+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T21:44:32.250Z",
+      "created_at": "2026-06-03T21:44:32.250Z"
     }
   ]
 }
