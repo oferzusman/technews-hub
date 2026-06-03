@@ -212219,7 +212219,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-02T22:22:53.338Z",
       "created_at": "2026-06-02T22:22:53.338Z"
     },
@@ -212243,7 +212243,7 @@
         "evolution equity partners"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-02T23:22:50.935Z",
       "created_at": "2026-06-02T23:22:50.935Z"
     },
@@ -212260,7 +212260,7 @@
       "author": "Aamir Khollam",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-02T23:22:53.551Z",
       "created_at": "2026-06-02T23:22:53.551Z"
     },
@@ -212277,7 +212277,7 @@
       "author": "Neetika Walter",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-02T23:22:53.551Z",
       "created_at": "2026-06-02T23:22:53.551Z"
     },
@@ -212294,7 +212294,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-02T23:22:53.939Z",
       "created_at": "2026-06-02T23:22:53.939Z"
     },
@@ -212311,7 +212311,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-02T23:22:53.939Z",
       "created_at": "2026-06-02T23:22:53.939Z"
     },
@@ -212328,7 +212328,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-02T23:22:59.199Z",
       "created_at": "2026-06-02T23:22:59.199Z"
     },
@@ -212345,9 +212345,26 @@
       "author": "Aamir Khollam",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T00:00:51.544Z",
       "created_at": "2026-06-03T00:00:51.544Z"
+    },
+    {
+      "id": 10194,
+      "source": "AI Post (TG)",
+      "title_en": "Andrej Karpathy shares approach to effective learningAndrej Karpathy, known for his influential work in AI and deep learning, has outlined his perspective on how to learn efficiently. He suggests focu",
+      "description_en": "Andrej Karpathy shares approach to effective learningAndrej Karpathy, known for his influential work in AI and deep learning, has outlined his perspective on how to learn efficiently. He suggests focusing on building strong foundations in key subjects, emphasizing the importance of mastering fundamentals before advancing to more complex topics.Karpathy also advocates for consistent practice and self-driven experimentation. He notes that applying new knowledge through real-world projects helps re",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7101",
+      "image_url": "https://cdn4.telesco.pe/file/FaaqmZ8NysLrwfcjgrnRdlrzpafbRHZaCaT5NQu308XokHknzIZ4DVbu8lYEU2KaCTkYukqdQYDpkDPLsD-nT82ICI2lIKHfvJxvyqSZZLT7gib1KTRHO9JpMRLXzltNVJhjlRrbQbvORwDWwR1emDBtxL297cIN_QjdED0p31_k8W1DvHD5hb4l4ebVDx6h-3KCPJhbJyiiMReJCxi6mbfrdRfDIDyNuXWKrXE3pwXM-xFXlWxX_MOdFbVE5TiAHB7DGrVtNkaMfNJyaLN-fQb5LxfOZztLjJPPeOjEGA02fim5AowgwbflWAUHoHixiq8Y8_tQoSbgrAPIyL5UyQ.jpg",
+      "pub_date": "2026-06-03T01:25:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T02:07:35.029Z",
+      "created_at": "2026-06-03T02:07:35.029Z"
     }
   ]
 }
