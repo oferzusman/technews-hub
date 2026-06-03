@@ -212748,7 +212748,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T07:05:04.853Z",
       "created_at": "2026-06-03T07:05:04.853Z"
     },
@@ -212765,7 +212765,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T07:05:05.523Z",
       "created_at": "2026-06-03T07:05:05.523Z"
     },
@@ -212799,9 +212799,575 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T07:05:09.572Z",
       "created_at": "2026-06-03T07:05:09.572Z"
+    },
+    {
+      "id": 10209,
+      "source": "The Verge AI",
+      "title_en": "AI has a water problem. Google thinks it has a fix",
+      "description_en": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities. \nThe company laid out five commitments around water use in a new blog post published Wednesday, including a goal to replenish more water than it uses at its data centers by 2030. Google also said it will invest in local water infrastructure, identify alternative water sources to power its facili",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+      "image_url": null,
+      "pub_date": "2026-06-03T09:00:00.000Z",
+      "author": "Lauren Feiner",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T10:04:00.630Z",
+      "created_at": "2026-06-03T10:04:00.630Z"
+    },
+    {
+      "id": 10210,
+      "source": "The Verge AI",
+      "title_en": "Google must let publishers opt out of AI Search features, rules UK",
+      "description_en": "Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct rule imposed by the Competition and Markets Authority (CMA) requires Google to let website owners keep their content out of features like AI Overviews and prevent it from being used for the \"fine-tuning\" of Google's AI models. \n\"In a world first, publishers will now have effective tools to prevent their content being used to power AI feat",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
+      "image_url": null,
+      "pub_date": "2026-06-03T08:45:48.000Z",
+      "author": "Jess Weatherbed",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T10:04:00.630Z",
+      "created_at": "2026-06-03T10:04:00.630Z"
+    },
+    {
+      "id": 10211,
+      "source": "MarkTechPost",
+      "title_en": "Nous Research Releases Hermes Desktop: A Native Cross-Platform Front End for Hermes Agent v0.15.2 with Streaming Tool Output",
+      "description_en": "Hermes Desktop is a no-terminal GUI sharing one agent core, skills, and memory with the Hermes Agent CLI.\nThe post Nous Research Releases Hermes Desktop: A Native Cross-Platform Front End for Hermes Agent v0.15.2 with Streaming Tool Output appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/03/nous-research-releases-hermes-desktop-a-native-cross-platform-front-end-for-hermes-agent-v0-15-2-with-streaming-tool-output/",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 09:38:32 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T10:04:02.510Z",
+      "created_at": "2026-06-03T10:04:02.510Z"
+    },
+    {
+      "id": 10212,
+      "source": "MarkTechPost",
+      "title_en": "NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation",
+      "description_en": "NVIDIA released Cosmos 3, open omnimodal world models pairing an autoregressive VLM reasoner with a diffusion generator for physical AI.\nThe post NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/03/nvidia-releases-cosmos-3-a-two-tower-mixture-of-transformers-foundation-model-unifying-physical-reasoning-world-generation-and-action-generation/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-1.34.57-AM-1.png",
+      "pub_date": "Wed, 03 Jun 2026 08:35:44 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Physical AI",
+        "Robotics",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T10:04:02.510Z",
+      "created_at": "2026-06-03T10:04:02.510Z"
+    },
+    {
+      "id": 10213,
+      "source": "The Guardian AI",
+      "title_en": "As the tech mega-IPO race hots up, has OpenAI missed its moment?",
+      "description_en": "With rivals racing to market to raise ‘eye-popping sums’, the spotlight is now on the AI sector’s one-time ‘poster child’\nA year is a long time in AI. Just 12 months ago, Sam Altman was predicting his company OpenAI would build a super intelligence and fundamentally remake society. Now the boss of the ChatGPT developer is walking back those ideas after failing to make money from ads and erotic chatbots.\nMeanwhile, rivals are storming ahead with plans to expand and go public on the stock market, ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/03/as-the-tech-mega-ipo-race-hots-up-has-openai-missed-its-moment",
+      "image_url": "https://i.guim.co.uk/img/media/e526a3b5b4bff96267f93f56b60a62fe4d0fba41/475_0_4753_3804/master/4753.jpg?width=140&quality=85&auto=format&fit=max&s=f84c394575c4c3402f5c90ece169c8d0",
+      "pub_date": "Wed, 03 Jun 2026 09:00:48 GMT",
+      "author": "Aisha Down",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        },
+        {
+          "_": "Google",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/google"
+          }
+        },
+        {
+          "_": "Alphabet",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/alphabet"
+          }
+        },
+        {
+          "_": "IPOs",
+          "$": {
+            "domain": "https://www.theguardian.com/business/ipos"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Sam Altman",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/sam-altman"
+          }
+        },
+        {
+          "_": "SpaceX",
+          "$": {
+            "domain": "https://www.theguardian.com/science/spacex"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T10:04:03.050Z",
+      "created_at": "2026-06-03T10:04:03.050Z"
+    },
+    {
+      "id": 10214,
+      "source": "The Guardian AI",
+      "title_en": "Thank God for Pope Leo. He’s the leader our world desperately needs | Arwa Mahdawi",
+      "description_en": "Even for nonbelievers like me, the pope has become a reassuring – and all too rare – voice of moral clarity\nDo you remember the early 2000s, when Silicon Valley buzzed with idealism and tech bros told us they were going to save the world? “Don’t be evil” was Google’s unofficial motto; it’s 2004 IPO prospectus declared that doing “good things for the world” was more important than “short term gains”. Mark Zuckerberg similarly wrote in Facebook’s 2012 IPO letter that the social network was “built ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/jun/03/pope-leo-ai-technology",
+      "image_url": "https://i.guim.co.uk/img/media/6a63e9c3f102daaa196fdd14f265b043be892b69/456_0_4556_3645/master/4556.jpg?width=140&quality=85&auto=format&fit=max&s=5bfdbbcd83a4bbb061f9ff926d2a45b6",
+      "pub_date": "Wed, 03 Jun 2026 09:00:47 GMT",
+      "author": "Arwa Mahdawi",
+      "categories": [
+        {
+          "_": "Pope Leo XIV",
+          "$": {
+            "domain": "https://www.theguardian.com/world/pope-leo-xiv"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Religion",
+          "$": {
+            "domain": "https://www.theguardian.com/world/religion"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "The papacy",
+          "$": {
+            "domain": "https://www.theguardian.com/world/the-papacy"
+          }
+        },
+        {
+          "_": "Donald Trump",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/donaldtrump"
+          }
+        },
+        {
+          "_": "Trump administration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/trump-administration"
+          }
+        },
+        {
+          "_": "Mark Zuckerberg",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/mark-zuckerberg"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "LGBTQ+ rights",
+          "$": {
+            "domain": "https://www.theguardian.com/world/lgbt-rights"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T10:04:03.050Z",
+      "created_at": "2026-06-03T10:04:03.050Z"
+    },
+    {
+      "id": 10215,
+      "source": "Interesting Engineering",
+      "title_en": "China’s Long March 12B makes unannounced debut, lofts Qianfan broadband satellites",
+      "description_en": "China launched the Long March 12B rocket on its maiden flight Monday without any public...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/space/china-surprise-launch-long-march-12b-qianfan-satellites",
+      "image_url": "https://www.youtube.com/embed/XAoig8KmztU",
+      "pub_date": "Wed, 03 Jun 2026 07:53:58 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-03T10:04:03.497Z",
+      "created_at": "2026-06-03T10:04:03.497Z"
+    },
+    {
+      "id": 10216,
+      "source": "AI News",
+      "title_en": "Walmart’s AI workflows meet the realities of the balance sheet",
+      "description_en": "Walmart has reportedly begun limiting employees’ use of an internal AI assistant called Code Puppy after demands placed on the LLM backing the tool were higher than expected. Employees of Walmart were encouraged to use Code Puppy without any stricture or stipulations as to the limits of use, but Walmart is now assigning employees a […]\nThe post Walmart’s AI workflows meet the realities of the balance sheet appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 09:33:00 +0000",
+      "author": "Joe Green",
+      "categories": [
+        "Retail & Logistics AI",
+        "agentic ai",
+        "ai subscriptions",
+        "roi",
+        "token-based billing",
+        "uber",
+        "walmart"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T10:04:03.845Z",
+      "created_at": "2026-06-03T10:04:03.845Z"
+    },
+    {
+      "id": 10217,
+      "source": "AI News",
+      "title_en": "Microsoft’s Majorana 2 quantum chip is also a case study for agentic AI in R&D",
+      "description_en": "Microsoft’s Majorana 2 quantum chip arrived this week with numbers that are genuinely difficult to contextualise: qubits 1,000 times more reliable than the first generation, a mean qubit lifetime of 20 seconds against an industry norm measured in microseconds, and a revised roadmap targeting a commercially scalable quantum computer by 2029. Behind those numbers is Microsoft Discovery […]\nThe post Microsoft’s Majorana 2 quantum chip is also a case study for agentic AI in R&D appeared first on AI ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 09:00:00 +0000",
+      "author": "Dashveenjit Kaur",
+      "categories": [
+        "AI Hardware & Chips",
+        "AI in Action",
+        "Artificial Intelligence",
+        "How It Works",
+        "Infrastructure & Hardware",
+        "Inside AI",
+        "agentic ai",
+        "Majorana 2",
+        "microsoft",
+        "Microsoft Discovery",
+        "quantum computing",
+        "r&d",
+        "Topological Qubits"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T10:04:03.845Z",
+      "created_at": "2026-06-03T10:04:03.845Z"
+    },
+    {
+      "id": 10218,
+      "source": "CNBC Tech",
+      "title_en": "SpaceX is worth less than half of its $1.75 trillion IPO target, Morningstar says",
+      "description_en": "The analysts see a wide range of possibilities around xAI and find its \"economic moat indeterminate.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/03/morningstar-spacex-ipo-target-price-nasdaq.html",
+      "image_url": null,
+      "pub_date": "Wed, 03 Jun 2026 09:19:45 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T10:04:04.102Z",
+      "created_at": "2026-06-03T10:04:04.102Z"
+    },
+    {
+      "id": 10219,
+      "source": "Tom's Hardware",
+      "title_en": "AMD says new EXPO ‘Ultra Low Latency’ DDR5 memory should be 'effectively the same price' as current kits — feature will work on existing chipsets, but will require new DIMMs",
+      "description_en": "AMD provides us with a bit more detail about its upcoming EXPO Ultra Low Latency mode, which should be available from leading memory partners soon.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ram/amd-says-new-expo-ultra-low-latency-ddr5-memory-should-be-effectively-the-same-price-as-current-kits-feature-will-work-on-existing-chipsets-but-will-require-new-dimms",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/sTEYc4MhaPS3YTjqAqBNvB-1280-80.jpg",
+      "pub_date": "Wed, 03 Jun 2026 10:00:00 +0000",
+      "author": " Jake Roach ",
+      "categories": [
+        "RAM",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T10:04:04.222Z",
+      "created_at": "2026-06-03T10:04:04.222Z"
+    },
+    {
+      "id": 10220,
+      "source": "Tom's Hardware",
+      "title_en": "Github Copilot customers report up to 100-fold price hikes — AI sticker shock bites as Microsoft switches to usage-based pricing",
+      "description_en": "Github Copilot customers suffer from sticker shock syndrome as Microsoft switches to usage-based pricing — customers reporting ten- to hundred-fold price hikes",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/github-copilot-customers-suffer-from-sticker-shock-as-microsoft-switches-to-usage-based-pricing-customers-report-up-to-100-fold-price-hikes",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/uvkcqKzCaURJht9RS8ftn3-1280-80.jpg",
+      "pub_date": "Wed, 03 Jun 2026 09:55:12 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T10:04:04.222Z",
+      "created_at": "2026-06-03T10:04:04.222Z"
+    },
+    {
+      "id": 10221,
+      "source": "Tom's Hardware",
+      "title_en": "The rise of local agentic computing faces a brutal reality: rising DRAM prices — RTX Spark, Gorgon Halo chips subject to 63% DRAM contract price hike this quarter",
+      "description_en": "DRAM contract prices are forecast to climb another 58% to 63% this quarter.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/dram/amds-gorgon-halo-pushes-on-device-ai-memory-to-192gb-as-dram-prices-hit-15-year-high",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4EHZgZJadnixm99opyC5xB-1280-80.jpg",
+      "pub_date": "Wed, 03 Jun 2026 09:47:58 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "DRAM",
+        "PC Components",
+        "RAM"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T10:04:04.222Z",
+      "created_at": "2026-06-03T10:04:04.222Z"
+    },
+    {
+      "id": 10222,
+      "source": "Tom's Hardware",
+      "title_en": "Astera Labs showcases 320-lane PCIe 6.0 switch for vendor-agnostic scaling in data centers — up to 80 accelerators can be scaled up using PCIe alone",
+      "description_en": "Astera Labs has shown off the Scorpio X-Series 320-lane PCIe switch that promises to enable vendor-agnostic scale-up capability for AI infrastructure and disaggregated data center infrastructure.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/servers/astera-labs-showcases-320-lane-pcie-6-0-switch-for-vendor-agnostic-scaling-in-data-centers-up-to-80-accelerators-can-be-scaled-up-using-pcie-alone",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/mPRGEUkq4LQCQoNWjc46UK-1280-80.jpg",
+      "pub_date": "Wed, 03 Jun 2026 09:24:32 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "Servers",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T10:04:04.222Z",
+      "created_at": "2026-06-03T10:04:04.222Z"
+    },
+    {
+      "id": 10223,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Microsoft представила убийцу Mac mini: он выглядит как сплюснутый XBOX  Компания показала Surface RTX Spark Dev Box — мини-ПК на новенькой системе-на-чипе RTX Spark со 128 ГБ объединённой памяти. Он б",
+      "description_en": "Microsoft представила убийцу Mac mini: он выглядит как сплюснутый XBOX  Компания показала Surface RTX Spark Dev Box — мини-ПК на новенькой системе-на-чипе RTX Spark со 128 ГБ объединённой памяти. Он будет работать на Windows 11 для ARM и поставляться сразу с предустановленными VS Code, GitHub Copilot, WSL, PowerShell 7 и другими инструментами для разработчиков.Технических подробностей пока немного: ни ёмкость SSD, ни скорость чтения данных, ни габариты самого устройства компания не уточняет, а с",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33348",
+      "image_url": "https://cdn4.telesco.pe/file/JlQsEV0-Fdw237z5FIi0inDNOJx28bABMHhxuOt3LUUDSAo812U9Vl8OW792cYUczoeVJ95QEXVeTAYLookyi92Eg_o5jv4fvS4NIIMynneOuBs-VMu_rXC5WNvmcCNi72RBiXGEOHFCbLRMjlGZI7Js6VoSfzvWtTft_Or2W5vIZPWjszkEGS5QT6x8kxn7FLGLIShXLvl_5XXHLv2IVhd1oB899FZik0Q-SQjp2NLr4Pbns_7Dmw7Ob2EIPkKokbVEB-gwb8BgdUuCvvKSNvXHo1uoHk4T5wJLbNsm7Tf-2ed9KbIKiLojBRqe5Vwr_LB4kgHoGRDZVLKT9WA4QA.jpg",
+      "pub_date": "2026-06-03T08:45:18+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T10:04:05.295Z",
+      "created_at": "2026-06-03T10:04:05.295Z"
+    },
+    {
+      "id": 10224,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Google DeepMind дропнула набор из 3️⃣0️⃣ научных скиллов для ваших исследований! С Science Skills можно собрать собственную научную команду и лабораторию из ИИ-агентов.• Всё работает на AlphaGenome",
+      "description_en": "⚡️ Google DeepMind дропнула набор из 3️⃣0️⃣ научных скиллов для ваших исследований! С Science Skills можно собрать собственную научную команду и лабораторию из ИИ-агентов.• Всё работает на AlphaGenome для анализа генома и на нобелевской AlphaFold — для предсказания структур белков• Скиллы анализируют геномы, находят белки, мутации, изучают болезни и делают любую работу по структурной биологии• Глубокие исследования, отчёты и поиск по 30 крупнейшим базам данных параллельно — PubMed, bioRxiv, Open",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28850",
+      "image_url": "https://cdn4.telesco.pe/file/Wu5KyxlAivprmicqmyrTIvj3_72evIkuoXPR8QY_t-uHgkL3q4Zp9kFMbJVJC0602BuRDa6FwqrDxdkhtGpfG3IFNMzLnlQmqVW3-BGUFsctKPqXTJlDtsG3pwNvd64KoKN2qSO1jIqFu7T7hy_csWlw98skXom255laIKxkBMF2-QT5_pYl9NFe5PDUJA4cHYDX4exOJV7m4f1kFLtHJTG-5rQO6o2uXru0hlXjnB7z_xWGi4mEJ8taPss9Xk4EjjMct7JtHIM0xmD-d_uEQRTazSUoFYHmuuHXVPtmmBEmd9sBYZkbr9fyg0drqdz10GSEUQUMeBTtpHImAUOh9g.jpg",
+      "pub_date": "2026-06-03T07:12:44+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-03T10:04:05.339Z",
+      "created_at": "2026-06-03T10:04:05.339Z"
+    },
+    {
+      "id": 10225,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ RTX 3060 на 12 ГБ вернулась в продажу. В Китае уже вовсю печатают карточки на чипах 2021 года, хотя NVIDIA уже прекращала поставки два года назад. Карты в исполнении Colorful уже доставляются покуп",
+      "description_en": "⚡️ RTX 3060 на 12 ГБ вернулась в продажу. В Китае уже вовсю печатают карточки на чипах 2021 года, хотя NVIDIA уже прекращала поставки два года назад. Карты в исполнении Colorful уже доставляются покупателям в Китае по цене в 25 тысяч рублей. Причина камбэка RTX 3060 — восьмигиговая немощь младших карт 40-й и 50-й серии и дороговизна старших. Ждём на Алиэкспрессе 👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28855",
+      "image_url": "https://cdn4.telesco.pe/file/VEf9L1gyyJ5cEO9HWBHsNOVCl3EhKiiV3E5ev-8MLNpOHsWvuCE7hsYcHsjDmd6dQWOZyl8ETHWCGAT7N0Jwfqp0XfFprVDJpX_nfGLhWVwKpJpSwjK-ANqBIhD6BSyAA0zHNnwEALq7fiah9EPcRYIWTAHn9WraoAZeZ5cRyjd8tCCpGXE5yK5VRaFUicCwivlE9mBERWYffwlN5sSi0Djk_fYLo35NEiYDlZioJDi-k8z6Wm-6mrTuMHkjoVssQijSJS-URjBiZgdY7hW7zKWwfoK6qYqrgVP84dPhNshN99ewrH6PpXxTuvGjdY149IcEpVBaP0MhTZBsh19qcA.jpg",
+      "pub_date": "2026-06-03T09:58:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T10:04:05.340Z",
+      "created_at": "2026-06-03T10:04:05.340Z"
+    },
+    {
+      "id": 10226,
+      "source": "XOR Journal (TG)",
+      "title_en": "Google превратила Antigravity в ИИ-лабораторию 😨В сервис завезли Science Skills — набор скиллов для научных исследований. С ними агент может сам работать с 30+ научными базами данных параллельно и вы",
+      "description_en": "Google превратила Antigravity в ИИ-лабораторию 😨В сервис завезли Science Skills — набор скиллов для научных исследований. С ними агент может сам работать с 30+ научными базами данных параллельно и выполнять сложные задачи вроде анализа белков за считанные минуты.Внутри, кстати, AlphaGenome для анализа генома и звездная AlphaFold для предсказания структур белков.Забираем и двигаем науку 🤓@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9426",
+      "image_url": "https://cdn4.telesco.pe/file/RGl5kn6ZvDo7yIQrFrvottaKmMb50xF5bAPkco-BJqj8DGEnbCzjlJAZvYTUfTHWrroYP1BvA07NwUQRbQODIAVgSZsEkUSrDwjMwf7pMDbpKZ2GKOX3n4ZXie7coKq7Eco4x7jK8I1ndyE0TUNnnUn9GyrSSCT2E_wXounkA9lNI_-9NXSc_2jMdxlsZluKsyjEZ-iRAPv-CoXxCCR_ecBIoUt29DwCEPkRxeST9G6v8V5jLEzW8KQogkmsAxEeTB1g4ZDQn5rZa0OdWlR_EHLMnYeywcpFgy0o_KtQVgywiG3qf0OQtB5JrD6w8slU4SFpcdNGcEWSAGdDcaad3Q.jpg",
+      "pub_date": "2026-06-03T07:30:50+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-03T10:04:05.472Z",
+      "created_at": "2026-06-03T10:04:05.472Z"
+    },
+    {
+      "id": 10227,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🤖 AI Controls Cyborg Cockroaches by Listening to Their BodiesResearchers at Osaka University have developed a special system for Madagascar hissing cockroaches: the insect wears a tiny \"backpack\" wit",
+      "description_en": "🤖 AI Controls Cyborg Cockroaches by Listening to Their BodiesResearchers at Osaka University have developed a special system for Madagascar hissing cockroaches: the insect wears a tiny \"backpack\" with sensors that simultaneously track movement, heartbeat, and neural signals.💡 Scientists no longer see the cockroach as a living \"radio-controlled car.\" Earlier systems mostly focused on external behavior: whether the insect was moving or had stopped. Here, AI receives several signals at once and u",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2553",
+      "image_url": "https://cdn4.telesco.pe/file/fFs9YRLEwDSh-tkOuEd6wXlT8KlTV3nhjuXdpCLBz8tANZ2K062ZA9ca7hj4Zd5qaVFtGewjsITaINFNPny4qupTuCXM__zFAmhruk7l9k00x2dAmrUh4eJvzOvjSzH2gISBzHMQcrmmkOoAytOSoWNZfFI4vJZ3cBZnJBpvQPsKwy_vshH_JrHagr3AukpGv3FJyIl4tiWoKsRGCtHz7hTBoPBPi-opF2Q_1P1I7iSZrnu-PA4RMBei-_yT8LEnC_YEAyhq8iJvOXLm94Y61sIa9UOgci-Qcb5YusjR9KQ8loO2UWUHIVUWNX0XYMRxPeGdWLe-buWMQeNonYS1uw.jpg",
+      "pub_date": "2026-06-03T07:17:44+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-03T10:04:05.871Z",
+      "created_at": "2026-06-03T10:04:05.871Z"
+    },
+    {
+      "id": 10228,
+      "source": "Habr (TG)",
+      "title_en": "Самодельный «ретрокомпьютер» из трёх ArduinoИнженерный проект Pinecone Daisy воссоздаёт парадигму ранних ЭВМ в духе ZX Spectrum. Вычислительная база построена на трёх платах Arduino, обменивающихся да",
+      "description_en": "Самодельный «ретрокомпьютер» из трёх ArduinoИнженерный проект Pinecone Daisy воссоздаёт парадигму ранних ЭВМ в духе ZX Spectrum. Вычислительная база построена на трёх платах Arduino, обменивающихся данными по UART. Использование шин I²C и SPI исключено — тайминги прерываний видео делают их ненадёжными.Аппаратный стек решает проблему ресурсного голода через специализацию:Видео (Mega). Генерирует NTSC 40x25. Использование двух наборов символов компенсирует нехватку ОЗУ.Аудио (Uno). Аппаратно воссо",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/68801",
+      "image_url": "https://cdn4.telesco.pe/file/RjF-gMgBfYoQisrm_KqT4oViaIXCHtj3sj-ynv2tIFsW8LYKnz7FbQWsi299KlqxyGsYrgFrT_2WAwJPrnfd_n01ucJv6ZP4DW-R5SeZfrUscgjOYU-5MA82FpGEhSZnk2Rvx0DlE9pZqiEz1wlUdECGe-MrPX57hoxsM9gVVOaUoKGvVjVdPL6IDRG1MH32pZqgQytllB6Ry7adI5N7JZLd9pKdmXSvdDwdXwyNuRdDD3f5azPyUt7TjjsW34J4Jaq2j0w_9Ywgl_uhXFMCojiU-AR72eUb5p9HSsplEHnQwuP-HPBOT6oI4OWRr1XtbNWzaUEUCObnOdF4d7Zk9w.jpg",
+      "pub_date": "2026-06-03T09:01:18+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T10:04:05.906Z",
+      "created_at": "2026-06-03T10:04:05.906Z"
+    },
+    {
+      "id": 10229,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 Claude can build a viral faceless AI brand overnight.Here are 10 AI prompts to create endless viral content:1. Hook testing:“Create a 3x3x3 hook testing system for [niche]. Add CTR targets, hold-ra",
+      "description_en": "🤖 Claude can build a viral faceless AI brand overnight.Here are 10 AI prompts to create endless viral content:1. Hook testing:“Create a 3x3x3 hook testing system for [niche]. Add CTR targets, hold-rate analysis, A/B testing tracker, and winner scaling workflow for [platform]. Budget: [amount].”2. Faceless brand“Build a faceless AI brand for [niche]. Include mascot rules, visual consistency, content style, and a 30-day posting calendar for [audience]. Goal: [posts/week].”3. Viral clip factory“Cr",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7103",
+      "image_url": null,
+      "pub_date": "2026-06-03T07:42:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-03T10:04:06.437Z",
+      "created_at": "2026-06-03T10:04:06.437Z"
     }
   ]
 }
