@@ -213946,7 +213946,7 @@
         "Coralogix"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T15:00:40.709Z",
       "created_at": "2026-06-03T15:00:40.709Z"
     },
@@ -214116,7 +214116,7 @@
       "author": "Adam Williams",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T15:00:42.832Z",
       "created_at": "2026-06-03T15:00:42.832Z"
     },
@@ -214288,7 +214288,7 @@
       "author": "Sujita Sinha",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T15:00:43.837Z",
       "created_at": "2026-06-03T15:00:43.837Z"
     },
@@ -214395,7 +214395,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T15:00:44.203Z",
       "created_at": "2026-06-03T15:00:44.203Z"
     },
@@ -214531,7 +214531,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T15:00:50.289Z",
       "created_at": "2026-06-03T15:00:50.289Z"
     },
@@ -214551,6 +214551,26 @@
       "priority": "hot",
       "fetchedAt": "2026-06-03T15:00:50.774Z",
       "created_at": "2026-06-03T15:00:50.774Z"
+    },
+    {
+      "id": 10281,
+      "source": "Tom's Hardware",
+      "title_en": "AMD executives react to Nvidia’s RTX Spark — ‘you’re just wrong if you don’t get a Strix Halo notebook’",
+      "description_en": "AMD welcomes Nvidia into the market with RTX Spark, saying that its Strix Halo and upcoming Gorgon Halo products will be superior.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-executives-react-to-nvidias-rtx-spark-youre-just-wrong-if-you-dont-get-a-strix-halo-notebook",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/wrG7Nn4Po3Cki8u4MXAdHW-1280-80.jpg",
+      "pub_date": "Wed, 03 Jun 2026 15:00:00 +0000",
+      "author": " Jake Roach ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-03T15:16:04.505Z",
+      "created_at": "2026-06-03T15:16:04.505Z"
     }
   ]
 }
