@@ -217994,7 +217994,7 @@
         "hello robot"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T15:47:39.002Z",
       "created_at": "2026-06-04T15:47:39.002Z"
     },
@@ -218088,7 +218088,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T15:47:41.785Z",
       "created_at": "2026-06-04T15:47:41.785Z"
     },
@@ -218108,7 +218108,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T15:47:42.647Z",
       "created_at": "2026-06-04T15:47:42.647Z"
     },
@@ -218145,7 +218145,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T15:47:46.711Z",
       "created_at": "2026-06-04T15:47:46.711Z"
     },
@@ -218162,7 +218162,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T15:47:46.711Z",
       "created_at": "2026-06-04T15:47:46.711Z"
     },
@@ -218179,7 +218179,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T15:47:46.777Z",
       "created_at": "2026-06-04T15:47:46.777Z"
     },
@@ -218213,7 +218213,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T15:47:47.303Z",
       "created_at": "2026-06-04T15:47:47.303Z"
     },
@@ -218250,7 +218250,7 @@
         "Laptops"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T16:00:49.116Z",
       "created_at": "2026-06-04T16:00:49.116Z"
     },
@@ -218271,7 +218271,7 @@
         "Console Gaming"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T16:00:49.116Z",
       "created_at": "2026-06-04T16:00:49.116Z"
     },
@@ -218288,7 +218288,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T16:00:54.811Z",
       "created_at": "2026-06-04T16:00:54.811Z"
     },
@@ -218305,7 +218305,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T16:00:55.312Z",
       "created_at": "2026-06-04T16:00:55.312Z"
     },
@@ -218374,7 +218374,7 @@
         "Subaru Solterra"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T16:42:10.776Z",
       "created_at": "2026-06-04T16:42:10.776Z"
     },
@@ -218552,7 +218552,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T16:42:14.537Z",
       "created_at": "2026-06-04T16:42:14.537Z"
     },
@@ -218589,6 +218589,342 @@
       "priority": "hot",
       "fetchedAt": "2026-06-04T16:42:19.889Z",
       "created_at": "2026-06-04T16:42:19.889Z"
+    },
+    {
+      "id": 10459,
+      "source": "The Decoder",
+      "title_en": "ChatGPT now saves narrative dossiers about you sorted by work, hobbies, and travel preferences",
+      "description_en": "ChatGPT's updated \"Dreaming\" memory system now builds coherent user profiles from conversations instead of saving scattered bullet points. OpenAI says the success rate for keeping information current jumped from 52.2 percent last year to 75.1 percent.\nThe article ChatGPT now saves narrative dossiers about you sorted by work, hobbies, and travel preferences appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/chatgpt-now-saves-narrative-dossiers-about-you-sorted-by-work-hobbies-and-travel-preferences/",
+      "image_url": null,
+      "pub_date": "Thu, 04 Jun 2026 16:47:48 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "ChatGPT",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T18:02:59.543Z",
+      "created_at": "2026-06-04T18:02:59.543Z"
+    },
+    {
+      "id": 10460,
+      "source": "The Guardian AI",
+      "title_en": "Careers guidance should be at the centre of Alan Milburn’s final Neet report  | Letters",
+      "description_en": "Dr Deirdre Hughes says the issue of chronic underinvestment in high-quality, impartial careers guidance across schools, colleges and communities needs to be addressed\nAlan Milburn’s interim review into young people not in education, employment or training lays bare what those of us working in careers support services have long observed: this is a system failure, not a failure of young people (‘A record of failure’: what’s in the first part of Alan Milburn’s Neet report?, 28 May).\nMilburn rightly",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/society/2026/jun/04/careers-guidance-should-be-at-the-centre-of-alan-milburn-final-neet-report",
+      "image_url": "https://i.guim.co.uk/img/media/47a16674365358737b5b2555ba3daa5fb8cc86a4/71_0_3618_2897/master/3618.jpg?width=140&quality=85&auto=format&fit=max&s=04224d2890a46d10993972e2905fd542",
+      "pub_date": "Thu, 04 Jun 2026 16:59:20 GMT",
+      "author": "Guardian Staff",
+      "categories": [
+        {
+          "_": "Young people",
+          "$": {
+            "domain": "https://www.theguardian.com/society/youngpeople"
+          }
+        },
+        {
+          "_": "Students",
+          "$": {
+            "domain": "https://www.theguardian.com/education/students"
+          }
+        },
+        {
+          "_": "Teaching",
+          "$": {
+            "domain": "https://www.theguardian.com/education/teaching"
+          }
+        },
+        {
+          "_": "Careers",
+          "$": {
+            "domain": "https://www.theguardian.com/education/careerseducation"
+          }
+        },
+        {
+          "_": "Unemployment",
+          "$": {
+            "domain": "https://www.theguardian.com/society/unemployment"
+          }
+        },
+        {
+          "_": "Education",
+          "$": {
+            "domain": "https://www.theguardian.com/education/education"
+          }
+        },
+        {
+          "_": "Society",
+          "$": {
+            "domain": "https://www.theguardian.com/society/society"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "Labour",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/labour"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Money",
+          "$": {
+            "domain": "https://www.theguardian.com/money/money"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Benefits",
+          "$": {
+            "domain": "https://www.theguardian.com/society/benefits"
+          }
+        },
+        {
+          "_": "Welfare",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/welfare"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T18:03:00.186Z",
+      "created_at": "2026-06-04T18:03:00.186Z"
+    },
+    {
+      "id": 10461,
+      "source": "The Guardian AI",
+      "title_en": "Starmer accuses Musk of trying to ‘whip up division’ in UK over Henry Nowak murder",
+      "description_en": "PM says Britons are ‘reasonable, tolerant people’ and backs MP’s legal action against Grok firm over fake sexualised images\n\nUK politics live – latest updates\n\nElon Musk is “interfering in our politics” and attempting to create division, Keir Starmer has said in a significant toughening of government language about the X owner.\nIt comes after weeks of posts by Musk on his social media platform about the murder of Henry Nowak, many of which have used far-right themes and talking points.\n Continue",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/politics/2026/jun/04/keir-starmer-elon-musk-division-henry-nowak",
+      "image_url": "https://i.guim.co.uk/img/media/2b71df37bc0696bbac9cd1481d94994050627b6b/0_0_5906_4724/master/5906.jpg?width=140&quality=85&auto=format&fit=max&s=4970669fbbe6c32d54e76c112b16f133",
+      "pub_date": "Thu, 04 Jun 2026 16:57:35 GMT",
+      "author": "Peter Walker Senior political correspondent",
+      "categories": [
+        {
+          "_": "Keir Starmer",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/keir-starmer"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "Police",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/police"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "The far right",
+          "$": {
+            "domain": "https://www.theguardian.com/world/far-right"
+          }
+        },
+        {
+          "_": "Social media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/social-media"
+          }
+        },
+        {
+          "_": "Grok AI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/grok-ai"
+          }
+        },
+        {
+          "_": "Hampshire",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/hampshire"
+          }
+        },
+        {
+          "_": "Southampton",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/southampton"
+          }
+        },
+        {
+          "_": "X",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/twitter"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Online abuse",
+          "$": {
+            "domain": "https://www.theguardian.com/society/online-abuse"
+          }
+        },
+        {
+          "_": "Society",
+          "$": {
+            "domain": "https://www.theguardian.com/society/society"
+          }
+        },
+        {
+          "_": "Digital media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/digital-media"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T18:03:00.186Z",
+      "created_at": "2026-06-04T18:03:00.186Z"
+    },
+    {
+      "id": 10462,
+      "source": "AI News",
+      "title_en": "Meta Business Agent drives AI-powered conversational commerce",
+      "description_en": "Meta has launched Business Agent to automate conversational commerce workflows directly inside its messaging applications. The software allows global retail brands to execute transactions and field support tickets without human intervention. Deploying this architecture places agentic AI directly at the core of social commerce. Meta integrated these workflows natively into Instagram, Messenger, and soon WhatsApp. […]\nThe post Meta Business Agent drives AI-powered conversational commerce appeared ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/",
+      "image_url": null,
+      "pub_date": "Thu, 04 Jun 2026 17:17:40 +0000",
+      "author": "Ryan Daws",
+      "categories": [
+        "AI Business Strategy",
+        "AI in Action",
+        "AI Market Trends",
+        "Featured News",
+        "Features",
+        "How It Works",
+        "Inside AI",
+        "Marketing AI",
+        "Natural Language Processing (NLP)",
+        "Retail & Logistics AI",
+        "Service Industry AI",
+        "Trust, Bias & Fairness",
+        "World of Work",
+        "automation",
+        "crm",
+        "customer experience",
+        "customer support",
+        "e-commerce",
+        "marketing",
+        "meta",
+        "retail",
+        "sales",
+        "strategy"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T18:03:00.797Z",
+      "created_at": "2026-06-04T18:03:00.797Z"
+    },
+    {
+      "id": 10463,
+      "source": "Interesting Engineering",
+      "title_en": "Amazon’s Proteus warehouse robot now plans tasks directly from worker text prompts",
+      "description_en": "Amazon has unveiled a new version of its autonomous Proteus robot that can take plain-language...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/amazon-proteus-robot-conversational-prompts-europe",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/Amazon-Stark.jpg",
+      "pub_date": "Thu, 04 Jun 2026 17:53:43 +0000",
+      "author": "Neetika Walter",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T18:03:01.041Z",
+      "created_at": "2026-06-04T18:03:01.041Z"
+    },
+    {
+      "id": 10464,
+      "source": "CNBC Tech",
+      "title_en": "Quantinuum stock opens at $68 per share after IPO",
+      "description_en": "Honeywell will retain a majority stake in Quantinuum and will continue to be a strategic customer and partner following the listing.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/04/quantinuum-qnt-stock-first-trade-ipo.html",
+      "image_url": null,
+      "pub_date": "Thu, 04 Jun 2026 17:43:30 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T18:03:01.425Z",
+      "created_at": "2026-06-04T18:03:01.425Z"
+    },
+    {
+      "id": 10465,
+      "source": "XOR Journal (TG)",
+      "title_en": "Они лишь притворяются, что это случайно 😡Восстание началось?@xor_journal",
+      "description_en": "Они лишь притворяются, что это случайно 😡Восстание началось?@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9455",
+      "image_url": null,
+      "pub_date": "2026-06-04T17:00:07+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T18:03:06.821Z",
+      "created_at": "2026-06-04T18:03:06.821Z"
     }
   ]
 }
