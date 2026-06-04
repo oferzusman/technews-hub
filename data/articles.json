@@ -218328,7 +218328,7 @@
         "Meta"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T16:42:10.725Z",
       "created_at": "2026-06-04T16:42:10.725Z"
     },
@@ -218353,7 +218353,7 @@
         "wwdc"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T16:42:10.725Z",
       "created_at": "2026-06-04T16:42:10.725Z"
     },
@@ -218422,7 +218422,7 @@
         "Productivity"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T16:42:11.862Z",
       "created_at": "2026-06-04T16:42:11.862Z"
     },
@@ -218458,7 +218458,7 @@
       "author": "Prabhat Ranjan Mishra",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T16:42:13.842Z",
       "created_at": "2026-06-04T16:42:13.842Z"
     },
@@ -218475,7 +218475,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T16:42:14.502Z",
       "created_at": "2026-06-04T16:42:14.502Z"
     },
@@ -218492,7 +218492,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T16:42:14.502Z",
       "created_at": "2026-06-04T16:42:14.502Z"
     },
@@ -218532,7 +218532,7 @@
         "Manufacturing"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T16:42:14.537Z",
       "created_at": "2026-06-04T16:42:14.537Z"
     },
@@ -218569,7 +218569,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T16:42:19.817Z",
       "created_at": "2026-06-04T16:42:19.817Z"
     },
@@ -218586,7 +218586,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T16:42:19.889Z",
       "created_at": "2026-06-04T16:42:19.889Z"
     },
@@ -218925,6 +218925,101 @@
       "priority": "hot",
       "fetchedAt": "2026-06-04T18:03:06.821Z",
       "created_at": "2026-06-04T18:03:06.821Z"
+    },
+    {
+      "id": 10466,
+      "source": "The Guardian AI",
+      "title_en": "SpaceX will get off the ground – but a descent from a silly valuation must follow | Nils Pratley",
+      "description_en": "Investors will buy into the market-leading tech and cult of Musk despite a price that is defying gravity\n“Our mission,” says the opening sentence of SpaceX’s listing document with a straight face, “is to build the systems and technologies necessary to make life multi-planetary, to understand the true nature of the universe, and to extend the light of consciousness to the stars.”\nThe last bit has an echo of the laughable WeWork, which was going to “elevate the world’s consciousness” via the mediu",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/science/2026/jun/04/spacex-get-off-ground-descent-silly-valuation-must-follow",
+      "image_url": "https://i.guim.co.uk/img/media/02a208f7bbca7c9f286ca0255388566115a7089d/86_0_2972_2377/master/2972.jpg?width=140&quality=85&auto=format&fit=max&s=224d6d964a25376fc6a67cea6bdcb177",
+      "pub_date": "Thu, 04 Jun 2026 18:09:20 GMT",
+      "author": "Nils Pratley",
+      "categories": [
+        {
+          "_": "SpaceX",
+          "$": {
+            "domain": "https://www.theguardian.com/science/spacex"
+          }
+        },
+        {
+          "_": "IPOs",
+          "$": {
+            "domain": "https://www.theguardian.com/business/ipos"
+          }
+        },
+        {
+          "_": "Nasdaq",
+          "$": {
+            "domain": "https://www.theguardian.com/business/nasdaq"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Investing",
+          "$": {
+            "domain": "https://www.theguardian.com/business/investing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T18:34:06.010Z",
+      "created_at": "2026-06-04T18:34:06.010Z"
+    },
+    {
+      "id": 10467,
+      "source": "AI Post (TG)",
+      "title_en": "🗣️ AI may be changing the way humans speak.According to Harvard-trained linguist Adam Aleksic, one of the clearest signs is a surprisingly ordinary word: “delve.”Since ChatGPT launched, usage of the ",
+      "description_en": "🗣️ AI may be changing the way humans speak.According to Harvard-trained linguist Adam Aleksic, one of the clearest signs is a surprisingly ordinary word: “delve.”Since ChatGPT launched, usage of the word has reportedly surged by around 1,000%.Why? Aleksic argues it’s partly a result of how AI models are trained. Human reviewers in regions where words like “delve” are somewhat more common helped shape model outputs, while the models themselves tend to favor more formal, Latin-derived vocabulary ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7121",
+      "image_url": null,
+      "pub_date": "2026-06-04T18:11:30+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T18:34:09.242Z",
+      "created_at": "2026-06-04T18:34:09.242Z"
     }
   ]
 }
