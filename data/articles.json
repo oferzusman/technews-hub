@@ -216995,7 +216995,7 @@
       "author": "Jijo Malayil",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T09:03:45.499Z",
       "created_at": "2026-06-04T09:03:45.499Z"
     },
@@ -217165,7 +217165,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T09:03:50.063Z",
       "created_at": "2026-06-04T09:03:50.063Z"
     },
@@ -217216,7 +217216,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T09:03:50.565Z",
       "created_at": "2026-06-04T09:03:50.565Z"
     },
@@ -217233,7 +217233,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T09:03:50.581Z",
       "created_at": "2026-06-04T09:03:50.581Z"
     },
@@ -217267,7 +217267,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T09:11:33.806Z",
       "created_at": "2026-06-04T09:11:33.807Z"
     },
@@ -217284,7 +217284,7 @@
       "author": "Robert Hart",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T10:32:31.307Z",
       "created_at": "2026-06-04T10:32:31.307Z"
     },
@@ -217306,7 +217306,7 @@
         "Bioinformatics"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T10:32:32.477Z",
       "created_at": "2026-06-04T10:32:32.477Z"
     },
@@ -217333,7 +217333,7 @@
         "retail"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T10:32:33.957Z",
       "created_at": "2026-06-04T10:32:33.957Z"
     },
@@ -217372,7 +217372,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T10:32:34.320Z",
       "created_at": "2026-06-04T10:32:34.320Z"
     },
@@ -217391,7 +217391,7 @@
         "Raspberry Pi"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T10:32:34.320Z",
       "created_at": "2026-06-04T10:32:34.320Z"
     },
@@ -217425,9 +217425,286 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T10:32:40.290Z",
       "created_at": "2026-06-04T10:32:40.290Z"
+    },
+    {
+      "id": 10399,
+      "source": "The Verge AI",
+      "title_en": "AI leaders call for tougher protections against AI-aided bioweapons",
+      "description_en": "Some of the AI industry's biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their technology to develop biological weapons. In an open letter to US lawmakers, tech leaders are pressing Congress to enact rules closing what they say is an alarming biosecurity gap that could help trigger a global pandemic.\nAnthropic's Dario Amodei, OpenAI's Sam Altman, and Microsoft's Mustafa Suleyman are among the signatories urging US lawmakers to req",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
+      "image_url": null,
+      "pub_date": "2026-06-04T12:12:12.000Z",
+      "author": "Robert Hart",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T12:13:41.428Z",
+      "created_at": "2026-06-04T12:13:41.428Z"
+    },
+    {
+      "id": 10400,
+      "source": "Ars Technica",
+      "title_en": "Used Waymo robotaxi batteries become backup storage for power grids",
+      "description_en": "Used Waymo batteries will bolster California and Texas energy storage projects.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/science/2026/06/used-waymo-robotaxi-batteries-become-backup-storage-for-power-grids/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Rachel-Harper-inspecting-B24-at-Lancaster-1152x648.jpg",
+      "pub_date": "Thu, 04 Jun 2026 11:00:45 +0000",
+      "author": "\n                    Jeremy Hsu\n                ",
+      "categories": [
+        "Cars",
+        "Science",
+        "battery backup",
+        "battery electric vehicles",
+        "Electric vehicles",
+        "EV battery",
+        "EV battery recycling",
+        "grid storage",
+        "power grids",
+        "renewable energy",
+        "renewables",
+        "waymo"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T12:13:41.506Z",
+      "created_at": "2026-06-04T12:13:41.506Z"
+    },
+    {
+      "id": 10401,
+      "source": "MIT Technology Review",
+      "title_en": "How courts are coping with a flood of AI-generated lawsuits",
+      "description_en": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "image_url": null,
+      "pub_date": "Thu, 04 Jun 2026 10:50:18 +0000",
+      "author": "Michelle Kim",
+      "categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "Summary"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T12:13:42.616Z",
+      "created_at": "2026-06-04T12:13:42.616Z"
+    },
+    {
+      "id": 10402,
+      "source": "New Atlas",
+      "title_en": "Quaint chocolate-flavored tiny house explores light and dark contrasts",
+      "description_en": "The last time we checked out Poland's Mobi House we were introduced to a two-bedroom tiny house with a nifty rooftop terrace. Now we're taking a closer look at an evolution of the Sunrise series called the Chocolate, which is dark on the outside and features a tasty light/dark filling.\nContinue Reading\nCategory: Tiny Houses, Outdoors\nTags: Compact, Tiny Footprint, Home",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/tiny-houses/mobi-house-chocolate-sunrise/",
+      "image_url": null,
+      "pub_date": "Thu, 04 Jun 2026 10:59:33 GMT",
+      "author": "Stefan Ionescu",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T12:13:43.082Z",
+      "created_at": "2026-06-04T12:13:43.082Z"
+    },
+    {
+      "id": 10403,
+      "source": "Interesting Engineering",
+      "title_en": "ROGUE-Fires: Autonomous missile launcher strengthens US anti-ship strategy in Pacific",
+      "description_en": "The U.S. Marine Corps has awarded Oshkosh Defense two delivery orders worth a combined $92...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/marines-expand-autonomous-missile-launcher",
+      "image_url": null,
+      "pub_date": "Thu, 04 Jun 2026 11:49:11 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T12:13:43.949Z",
+      "created_at": "2026-06-04T12:13:43.949Z"
+    },
+    {
+      "id": 10404,
+      "source": "Tom's Hardware",
+      "title_en": "Best of Computex 2026: Innovating despite disruptions",
+      "description_en": "From affordable premium laptops to next-gen handhelds, and Nvidia bringing its Spark to Windows on Arm, these are the 11 best products introduced at this year’s show.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/best-of-computex-2026",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/tJ6fWEiJNrbQpHbGfxA4sZ-1280-80.jpg",
+      "pub_date": "Thu, 04 Jun 2026 12:00:00 +0000",
+      "author": " The Editors of Tom&#039;s Hardware ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T12:13:44.248Z",
+      "created_at": "2026-06-04T12:13:44.248Z"
+    },
+    {
+      "id": 10405,
+      "source": "Tom's Hardware",
+      "title_en": "‘Bots have now passed human traffic online,’ Cloudflare boss laments — says agentic traffic wasn’t expected to eclipse real people until next year",
+      "description_en": "The rapid increase in agentic internet traffic means “bots have now passed human traffic online for the first time in the Internet's history,” remarked CEO and co-founder of Cloudflare, Matthew Prince.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/bots-have-now-passed-human-traffic-online-cloudflare-boss-laments-says-agentic-traffic-wasnt-expected-to-eclipse-real-people-until-next-year",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/YqyHfyxrdaBdx2gMYG2CKH-1280-80.jpg",
+      "pub_date": "Thu, 04 Jun 2026 11:35:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T12:13:44.248Z",
+      "created_at": "2026-06-04T12:13:44.248Z"
+    },
+    {
+      "id": 10406,
+      "source": "Tom's Hardware",
+      "title_en": "AMD's Helios MI455X AI platform breaks cover, initial systems use UALink-over-Ethernet interconnects — AMD's Vera Rubin rival surfaces, but the downsides of Ethernet could hamstring performance",
+      "description_en": "AMD’s Helios set to compete against Nvidia’s NVL72 VR200 rack-scale system later this year, but its UALink-over-Ethernet interconnection may affect performance in certain workloads before real UALink interconnects are deployed.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amds-helios-mi455x-ai-platform-breaks-cover-initial-systems-use-ualink-over-ethernet-interconnects-amds-vera-rubin-rival-surfaces-but-the-downsides-of-ethernet-could-hamstring-performance",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/KVDkgSDu7PnDSMSF4P8fX4-1280-80.jpg",
+      "pub_date": "Thu, 04 Jun 2026 11:26:38 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T12:13:44.248Z",
+      "created_at": "2026-06-04T12:13:44.248Z"
+    },
+    {
+      "id": 10407,
+      "source": "Tom's Hardware",
+      "title_en": "OpenAI CEO Sam Altman admits AI token costs are becoming 'a huge issue' — company seeks improved value as overspending becomes a meme",
+      "description_en": "OpenAI's clients are complaining about out-of-control AI spending, and they're asking Sam Altman to make it more efficient so they don't blow their annual AI budgets in just one quarter.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-ceo-sam-altman-admits-ai-token-costs-are-becoming-a-huge-issue-company-seeks-improved-value-as-overspending-becomes-a-meme",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/P6HvfSrxYzgKfP7LMQtjkM-1280-80.jpg",
+      "pub_date": "Thu, 04 Jun 2026 11:17:32 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T12:13:44.248Z",
+      "created_at": "2026-06-04T12:13:44.248Z"
+    },
+    {
+      "id": 10408,
+      "source": "Tom's Hardware",
+      "title_en": "$559 Nvidia RTX 5070 GPU deal is the cheapest model available — 1440p high-performance gaming at just $10 above MSRP",
+      "description_en": "Quickly grab the cheapest RTX 5070 GPU available right now. Lenovo deal strips $80 off the list price.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/usd559-nvidia-rtx-5070-gpu-deal-is-the-cheapest-model-available-1440p-high-performance-gaming-at-just-usd10-above-msrp",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/bmJP6sE8Uhh6mr5Bbt2uGY-1280-80.jpg",
+      "pub_date": "Thu, 04 Jun 2026 11:01:06 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T12:13:44.248Z",
+      "created_at": "2026-06-04T12:13:44.248Z"
+    },
+    {
+      "id": 10409,
+      "source": "Tom's Hardware",
+      "title_en": "HP has slashed an astonishing $2,600 off this RTX 5080 gaming PC, nearly 50% off — get an epic Omen 35L rig with a 9900X3D, 64GB DDR5, and 4TB of SSD storage for just $2,899.99",
+      "description_en": "An unthinkable $2,600 saving can be had right now on this HP Omen 45L gaming rig, fitted with a 9900X3D, RTX 5080, 64GB of DDR5 RAM, and 4TB in SSD storage, all for just $2,899.99.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/hp-has-slashed-an-astonishing-usd2-600-off-this-rtx-5080-gaming-pc-nearly-50-percent-off-get-an-epic-omen-35l-rig-with-a-9900x3d-64gb-ddr5-and-4tb-of-ssd-storage-for-just-usd2-899-99",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vjDWxh6QD2Qto2p6oX9WRR-1280-80.png",
+      "pub_date": "Thu, 04 Jun 2026 10:50:18 +0000",
+      "author": " Ben Stockton ",
+      "categories": [
+        "Gaming PCs",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T12:13:44.248Z",
+      "created_at": "2026-06-04T12:13:44.248Z"
+    },
+    {
+      "id": 10410,
+      "source": "Tom's Hardware",
+      "title_en": "Frore shows off LiquidJet Nexus coldplate for Nvidia Vera Rubin, other AI accelerators — offers up claimed 10% token generation boost over rival liquid-cooling solutions",
+      "description_en": "Frore’s LiquidJet Nexus promises to enable 10% more token generation on Blackwell Ultra when compared to existing liquid-cooling solutions.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/frore-shows-off-liquidjet-nexus-coldplate-for-nvidia-vera-rubin-other-ai-accelerators-offers-up-claimed-10-percent-token-generation-boost-over-rival-liquid-cooling-solutions",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/bVXRUWhSeXkLtxi35Zp96a-1280-80.jpg",
+      "pub_date": "Thu, 04 Jun 2026 10:38:52 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "Liquid Cooling",
+        "PC Components",
+        "Cooling"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T12:13:44.248Z",
+      "created_at": "2026-06-04T12:13:44.248Z"
+    },
+    {
+      "id": 10411,
+      "source": "Habr (TG)",
+      "title_en": "Google DeepMind выпустила Gemma 4 12B — открытую нейросеть, которая обрабатывает текст, звук и картинки на обычном ноутбуке с 16 ГБ памяти. Инженеры упаковали возможности тяжеловесных архитектур в ком",
+      "description_en": "Google DeepMind выпустила Gemma 4 12B — открытую нейросеть, которая обрабатывает текст, звук и картинки на обычном ноутбуке с 16 ГБ памяти. Инженеры упаковали возможности тяжеловесных архитектур в компактный формат и отдали разработку сообществу по лицензии Apache 2.0. По внутренним тестам новинка почти дотягивается до показателей модели 26B из той же линейки.Индустрия годами привязывала к языковым моделям энкодеры для перевода звука и картинок в машинный код. Такие надстройки съедали оперативну",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/68812",
+      "image_url": "https://cdn4.telesco.pe/file/X4fC3XWKDOj_q7lgEVAkjl_ZbgVplwSSKzZ6qz3wAEH7Jn9mhUbWWdXhFD70J2L6iO01aB8ympUqYzNJ37HV-xFexJDpeiqa5EbjH0rY9GMOQY4iP0si8FNQoXzGQbGMqJ_LOw5wK6SquRnT0my2BZaIxbM4K9uk7UDGTrIaF__qK1wixwI9nQ-89b28542ofd22pIrQd4nYuQy0H-7Xu3pW4oZKsFXviUfxwSzv4CiAAg2nyn7npqzuE96s1832ZFroiRlCp1Lw8dzu0JAULs2iSBOVh-BFppKLCiCMPXvM7llHLHfBzJInTZ--TO_1HogSpqdg-E0L3LE2fRBVrw.jpg",
+      "pub_date": "2026-06-04T12:01:06+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T12:13:45.602Z",
+      "created_at": "2026-06-04T12:13:45.602Z"
+    },
+    {
+      "id": 10412,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🔍 Убрать близорукость за минуту позволит новый метод — без лазеров и разрезовУченые из Калифорнии разработали неинвазивную, более простую и дешевую альтернативу лазерной коррекции зрения — исправлени",
+      "description_en": "🔍 Убрать близорукость за минуту позволит новый метод — без лазеров и разрезовУченые из Калифорнии разработали неинвазивную, более простую и дешевую альтернативу лазерной коррекции зрения — исправление близорукости с помощью слабых импульсов электрического тока.💡 Экспериментируя с хрящами и другими тканями, богатыми коллагеном, исследователи случайно обнаружили, что слабый ток может временно менять их pH. Ткани становятся мягкими и легко меняют форму.  Подачей слабого тока через платиновый элек",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3280",
+      "image_url": "https://cdn4.telesco.pe/file/YzgL-XX_Gpu62QUdmXIa4-wCSbWJhES2JZwbKbKZ1-SoziXvT_vkbsdsVK9L6lXoSdVGL8YdxjnUkF12qMjO0gFiNTMWBsJNpUTI_wDNLYdkHHSL_kmPDhKVFawh7rWMCOWRRlSfBDnjttzYMqAlubc9mpG77FrCC2w-I15v8bybdoHPOv39JMx9UJtgaIn-65upCFiKFmauY4DfxJTz3mzeGuFmxRFCD15pkUVpTXxXcnFRmQpl-4JsGhD85XufAjOeM_5aPQUEJspk6re3Hp6xMvhmOmqe1K4P8tCX428jwzWQIPVxwWBDADa_CQNv361D72O60-V6ZCC2ecHupQ.jpg",
+      "pub_date": "2026-06-04T12:01:18+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T12:13:45.640Z",
+      "created_at": "2026-06-04T12:13:45.640Z"
     }
   ]
 }
