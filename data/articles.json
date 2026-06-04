@@ -216511,7 +216511,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T05:14:10.718Z",
       "created_at": "2026-06-04T05:14:10.718Z"
     },
@@ -216613,7 +216613,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T05:14:10.718Z",
       "created_at": "2026-06-04T05:14:10.718Z"
     },
@@ -216630,9 +216630,185 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T05:14:15.189Z",
       "created_at": "2026-06-04T05:14:15.189Z"
+    },
+    {
+      "id": 10362,
+      "source": "MarkTechPost",
+      "title_en": "Meet OpenJarvis: A Local-First Framework for On-Device Personal AI Agents with Tools, Memory, and Learning",
+      "description_en": "Stanford researchers released OpenJarvis, an open-source framework that runs inference, agents, memory, and learning entirely on-device. It decomposes a personal AI system into five composable primitives — Intelligence, Engine, Agents, Tools & Memory, and Learning — and lands within 3.2 points of the best cloud model at roughly 800× lower marginal API cost.\nThe post Meet OpenJarvis: A Local-First Framework for On-Device Personal AI Agents with Tools, Memory, and Learning appeared first on MarkTe",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-learning/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-11.15.16-PM-1.png",
+      "pub_date": "Thu, 04 Jun 2026 06:23:10 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T06:54:13.630Z",
+      "created_at": "2026-06-04T06:54:13.630Z"
+    },
+    {
+      "id": 10363,
+      "source": "New Atlas",
+      "title_en": "US Army backs stealthy robotic trucks to transform military logistics",
+      "description_en": "Soldiers may soon be doing a bit less pack hauling as the US Department of Defense taps American Rheinmetall and Harbinger to develop a new generation of stealthy, inexpensive, and expendable robotic trucks designed to carry cargo to the battlefield.\nContinue Reading\nCategory: Military, Engineering\nTags: Rheinmetall Defence, Autonomous Vehicles",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/military/us-army-robotic-trucks/",
+      "image_url": null,
+      "pub_date": "Thu, 04 Jun 2026 05:52:49 GMT",
+      "author": "David Szondy",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T06:54:13.937Z",
+      "created_at": "2026-06-04T06:54:13.937Z"
+    },
+    {
+      "id": 10364,
+      "source": "The Guardian AI",
+      "title_en": "‘Happiness is not just about GDP’: ambitious plan or utopia?",
+      "description_en": "Some will question its credibility. But the alternative future to the one imagined in the World Justice Report is far more bleak\n\n‘An equal and habitable world is possible’: academics set out sweeping vision for planetary survival\n\nIn our increasingly dystopian world, who wouldn’t want to at least be open to a utopian antidote? The World Justice Report, published on Thursday, outlines how to build a prosperous, equitable world within safe planetary boundaries. It’s a push from the modern eco-soc",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/environment/2026/jun/04/happiness-is-not-just-about-gdp-ambitious-plan-or-utopia",
+      "image_url": "https://i.guim.co.uk/img/media/0356820aeba9cdfd0393fd8cf010e5c4a641ceb7/141_0_4219_3375/master/4219.jpg?width=140&quality=85&auto=format&fit=max&s=d06216b7486059e3b8ebe83293ee9333",
+      "pub_date": "Thu, 04 Jun 2026 06:28:10 GMT",
+      "author": "Jonathan Watts",
+      "categories": [
+        {
+          "_": "Climate crisis",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/climate-crisis"
+          }
+        },
+        {
+          "_": "Environment",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/environment"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Economics",
+          "$": {
+            "domain": "https://www.theguardian.com/business/economics"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T06:54:14.083Z",
+      "created_at": "2026-06-04T06:54:14.083Z"
+    },
+    {
+      "id": 10365,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Разработчики CONTROL Resonant запретили запускать свои игры на территории РФ — пользователей будут отслеживать по IP    Грядущий слешер финской Remedy Entertainment нельзя будет активировать и запусти",
+      "description_en": "Разработчики CONTROL Resonant запретили запускать свои игры на территории РФ — пользователей будут отслеживать по IP    Грядущий слешер финской Remedy Entertainment нельзя будет активировать и запустить с российского IP-адреса, даже если вы приобрели игру…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33376",
+      "image_url": "https://cdn4.telesco.pe/file/CRaawCZL3E4UvlF1sUC_Pgy9B8niT3Z8MUAtkO9tuVUtoD1vc-cOjAUsPXsvtCXhMh6ZSVvqBxvPcDnRhChtxnHlTH1c68aI6bKz540ACupFB78yKUwfxsO_KsvQIw2sPCTkeqr-0M6cfpaYSKIbDo1UhgoxjufsMg8m-zr5EKFtzODpVS5Fyf--r_RtBQlg0mQ2E_fRQqTzf6jaOzQ1KDXe_Am6twvoPKmC1TN2zTlE9fxf1MwstXkNWzxHFZhABkT5AEV3KJ2lGPK03pLjz9HSfDxxXOihX_OM7MHt68QEOT-nifHI2nXy3rEp6r8uwqmk4POBhsVDifdi7hJfHw.jpg",
+      "pub_date": "2026-06-04T06:01:41+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T06:54:17.120Z",
+      "created_at": "2026-06-04T06:54:17.120Z"
+    },
+    {
+      "id": 10366,
+      "source": "XOR Journal (TG)",
+      "title_en": "Превращаем любую репу в интерактивную карту знаний 🤓Энтузиаст выложил в опенсорс Understand Anything — инструмент, который анализирует кодовую базу и превращает всё в граф. Удобно, чтобы наглядно изу",
+      "description_en": "Превращаем любую репу в интерактивную карту знаний 🤓Энтузиаст выложил в опенсорс Understand Anything — инструмент, который анализирует кодовую базу и превращает всё в граф. Удобно, чтобы наглядно изучать связи между файлами, функциями, классами и зависимостями.Работает просто: закидываете репу и получаете карту проекта, по которой можно искать нужное и допрашивать ИИ о том, что вообще происходит. Работает с Claude Code, Codex, Cursor, Copilot, Gemini CLI и другими ИИ-инструментами.Разбираемся в",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9444",
+      "image_url": null,
+      "pub_date": "2026-06-04T05:45:11+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T06:54:17.151Z",
+      "created_at": "2026-06-04T06:54:17.151Z"
+    },
+    {
+      "id": 10367,
+      "source": "XOR Journal (TG)",
+      "title_en": "МАХ больше не может присылать push-уведомления на iPhone — об этом сообщила сама пресс-служба нацмессенджера.После удаления приложения из магазина iOS отозвала токен, через который доставляются уведом",
+      "description_en": "МАХ больше не может присылать push-уведомления на iPhone — об этом сообщила сама пресс-служба нацмессенджера.После удаления приложения из магазина iOS отозвала токен, через который доставляются уведомления. А значит, сообщения и звонки приходят только после открытия приложения вручную.Не соболезнуем.@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9445",
+      "image_url": "https://cdn4.telesco.pe/file/lCwtCl1gmqChknCSPtyrgm6VJmPWHqFpISaYUi7NVvxsavXBxRmIuUaz9XZ8yg9xyun3luT1UFPPfjO8gu3Ewb6vNkxhMEH-_l3zFk831lMrMHv7ohIfAojunL5Hu6EQ3R3j9Q0O7KkX02dyWMaPYbZc2y9MDthUS-1EXcS5c4ArsMzhEzo41LCvQNz371FLqH9xRTvHqHpTzG5MqVaTPBSRYlzFE5GGqD8nvlhCpukONlo2dr6JQg7tGqSnpps_dme4I-rMVIUq9sHMzLUQJJfus1w8QIb0pafgeDw25LEKG6sJP4mtytBQzS0WzG6sZr-tf-uoFs-HaaZfarAVFg.jpg",
+      "pub_date": "2026-06-04T06:27:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T06:54:17.151Z",
+      "created_at": "2026-06-04T06:54:17.151Z"
+    },
+    {
+      "id": 10368,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🤖 Каждый шестой не исключает интима с ИИ-роботомТакие данные получили социологи из британского сервиса YouGov, опросив почти 10 тыс. человек в шести странах о потенциале романтических отношений с ИИ-",
+      "description_en": "🤖 Каждый шестой не исключает интима с ИИ-роботомТакие данные получили социологи из британского сервиса YouGov, опросив почти 10 тыс. человек в шести странах о потенциале романтических отношений с ИИ-компаньонами и роботами.О готовности использовать «интимную ИИ-куклу» сказали 17% опрошенных. А 59% заявили, что не стали бы этого делать.В Японии и Германии число молодых людей, которые хотели бы попробовать секс-куклу с ИИ, почти вдвое превышало средний показатель по стране. В Японии более трети з",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3273",
+      "image_url": "https://cdn4.telesco.pe/file/Fx2cD9JoJ_qZwhlaWiHjZQYyLi_OSOI9EAdXLXkBhymAqMvuAFAAKH64EG8ZLxEr6MTShp8PVVR71dXO5QquGfUwxViOxmYjK-Dwv_S0yUyLY1xnJzc-bOQyOrLmCIqzwHgFL293ihtU2pCJ77tWpGD_ouHs5lcH6_1Eg8DDCn4mZPNpxqZLnA4ZaGCFSCAV59TbSmbXhvYgATMfQZ4YeoqZZcZTgB4D6S2t3ulSqdgk7fCyV_dLaeOfwoCy8PxmzOjR6_5-2HdpugUSlcprfI-Qegy3hUy8LnpH8bg02ugv0GDCWDdnnWmpfjIs516lXSRicRZEiML_mDPW2pRcbg.jpg",
+      "pub_date": "2026-06-04T06:33:16+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T06:54:17.474Z",
+      "created_at": "2026-06-04T06:54:17.474Z"
     }
   ]
 }
