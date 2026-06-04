@@ -219073,7 +219073,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T19:05:23.030Z",
       "created_at": "2026-06-04T19:05:23.030Z"
     },
@@ -219090,7 +219090,7 @@
       "author": "Kaif Shaikh",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T19:05:24.495Z",
       "created_at": "2026-06-04T19:05:24.495Z"
     },
@@ -219131,7 +219131,7 @@
         "Tents"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T20:20:51.925Z",
       "created_at": "2026-06-04T20:20:51.925Z"
     },
@@ -219155,7 +219155,7 @@
         "Poke"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T20:20:51.925Z",
       "created_at": "2026-06-04T20:20:51.925Z"
     },
@@ -219184,7 +219184,7 @@
         "xAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T20:20:52.010Z",
       "created_at": "2026-06-04T20:20:52.010Z"
     },
@@ -219223,7 +219223,7 @@
       "author": "Aamir Khollam",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T20:20:54.624Z",
       "created_at": "2026-06-04T20:20:54.624Z"
     },
@@ -219243,7 +219243,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T20:20:55.113Z",
       "created_at": "2026-06-04T20:20:55.113Z"
     },
@@ -219260,7 +219260,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T20:21:00.508Z",
       "created_at": "2026-06-04T20:21:00.508Z"
     },
@@ -219333,6 +219333,83 @@
       "priority": "hot",
       "fetchedAt": "2026-06-04T20:55:57.497Z",
       "created_at": "2026-06-04T20:55:57.497Z"
+    },
+    {
+      "id": 10484,
+      "source": "TechCrunch AI",
+      "title_en": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+      "description_en": "With just two weeks to go, StrictlyVC Los Angeles is quickly approaching. On Thursday, June 18, at The Aerospace Corporation Campus in El Segundo, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot here. […]",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+      "image_url": null,
+      "pub_date": "Thu, 04 Jun 2026 21:30:00 +0000",
+      "author": "TechCrunch Events",
+      "categories": [
+        "AI",
+        "Fundraising",
+        "Security",
+        "Space",
+        "Startups",
+        "TC",
+        "Venture",
+        "StrictlyVC"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T22:00:15.897Z",
+      "created_at": "2026-06-04T22:00:15.897Z"
+    },
+    {
+      "id": 10485,
+      "source": "CNBC Tech",
+      "title_en": "Warren invites Nvidia CEO Jensen Huang to Senate hearing on China AI chip sales",
+      "description_en": "Sen. Elizabeth Warren is pressing Jensen Huang's Nvidia over export controls, China sales, Trump and data-center policy as Congress scrutinizes the AI chip boom.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/04/nvidia-ceo-jensen-huang-warren-senate-hearing-china-ai-chips.html",
+      "image_url": null,
+      "pub_date": "Thu, 04 Jun 2026 21:43:57 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T22:00:19.316Z",
+      "created_at": "2026-06-04T22:00:19.316Z"
+    },
+    {
+      "id": 10486,
+      "source": "XOR Journal (TG)",
+      "title_en": "Более 80% кода Anthropic написано самим Claude — Antropic выпустили отчет о мощи современного ИИ. TL;DR модели идут к рекурсивному самоулучшению — то есть скоро ИИ сможет создать самого себя. И да, ко",
+      "description_en": "Более 80% кода Anthropic написано самим Claude — Antropic выпустили отчет о мощи современного ИИ. TL;DR модели идут к рекурсивному самоулучшению — то есть скоро ИИ сможет создать самого себя. И да, компания готова полностью остановить разработку ИИ, если это сделают и другие.Заботливо прочитали и вынесли для вас главное: 🟢 Сегодня инженеры Anthropic в среднем выпускают в 8 раз больше кода за квартал, чем они выпускали по сравнению с годами ранее.🟢 Ускорение касается не только объёма. На задача",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9456",
+      "image_url": "https://cdn4.telesco.pe/file/vrmM_XtCiE4V-2Z-7lCJxeEXqu8kv5Zmc76MoGZX0wUogfEFFAf_x3OFKkypOkrCI4zYoplYx2Ug5SQ7ptwztkzFdCkWSWjZM5vASKYa9i64JJ2X2e4m1D9fGFZN9BcXP3KISn_pqDOdjHVkDezQcsFEKXoOOzaRw-m5J26lxjfwtXlxkqhiX08PIr3wIiBmbEFnoynjxc11oXuLPVo4SELGrV2dcSy8YUP2YIWuznaxEfQ8mKB-cnCdFLEalXiQPW1Yq0N_yjjiiafSS0Wpo6kg8O5j9Ri_zTm5PYLGcnhvCq0_J9tA4SlUtklCKXDhDgTYAgYoTofTBFE31seZDw.jpg",
+      "pub_date": "2026-06-04T21:02:08+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T22:00:21.539Z",
+      "created_at": "2026-06-04T22:00:21.539Z"
+    },
+    {
+      "id": 10487,
+      "source": "AI Post (TG)",
+      "title_en": "❗️AI bots have officially overtaken humans on the internetCloudflare CEO Matthew Prince shared new data showing that bots and AI agents are now generating more internet traffic than humans for the fir",
+      "description_en": "❗️AI bots have officially overtaken humans on the internetCloudflare CEO Matthew Prince shared new data showing that bots and AI agents are now generating more internet traffic than humans for the first time in history.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7122",
+      "image_url": "https://cdn4.telesco.pe/file/dfsSIxe9418KbWy-K7GWZT_1uqby0K6g8XyfU1dTw-Ypjs6Hkl3DV7mKdQXzB8E3tLTX0xqGiH02kBfPXCvcd1RkVG-gRAJesAc2Si3obttg4l8rGSSrSlCE7HMlpEI6w8WFdTZMAYtQrM2JqudY806Z2zk0o7mvYLxRAE5fAygbUdpjuJGKVPEnHMfDHPhXOTA3a3czY-_-yyP85vS4lJFUFmH9Tbz59HVpN5BPNUQtYmZoJaPVhOywhYsNzJD-TxhhSTqhabDbtYh5G01S7gCGuM6EeECvL3UET7_BCw-DXN8OnWWXnGUav1RhbQBFopduA_4k5_dVcaEL8LWkMA.jpg",
+      "pub_date": "2026-06-04T21:10:14+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T22:00:22.171Z",
+      "created_at": "2026-06-04T22:00:22.171Z"
     }
   ]
 }
