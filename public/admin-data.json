@@ -1,9 +1,9 @@
 {
-  "total": 10358,
+  "total": 10361,
   "translated": 8824,
-  "untranslated": 1534,
-  "today": 9,
-  "week": 693,
+  "untranslated": 1537,
+  "today": 12,
+  "week": 696,
   "sources": [
     {
       "name": "Product Hunt",
@@ -67,7 +67,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 344,
+      "total": 346,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -79,9 +79,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 290,
+      "total": 291,
       "translated": 168,
-      "lastDate": "2026-06-04T01:10:08+00:00"
+      "lastDate": "2026-06-04T04:05:00+00:00"
     },
     {
       "name": "Futurism",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-04T02:10:40.314Z"
+  "generatedAt": "2026-06-04T05:23:23.308Z"
 }
