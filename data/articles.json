@@ -217353,7 +217353,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T10:32:34.320Z",
       "created_at": "2026-06-04T10:32:34.320Z"
     },
@@ -217408,7 +217408,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T10:32:39.778Z",
       "created_at": "2026-06-04T10:32:39.778Z"
     },
@@ -217705,6 +217705,40 @@
       "priority": "hot",
       "fetchedAt": "2026-06-04T12:13:45.640Z",
       "created_at": "2026-06-04T12:13:45.640Z"
+    },
+    {
+      "id": 10413,
+      "source": "Hugging Face Blog",
+      "title_en": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "image_url": null,
+      "pub_date": "Thu, 04 Jun 2026 12:24:58 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T12:27:23.508Z",
+      "created_at": "2026-06-04T12:27:23.508Z"
+    },
+    {
+      "id": 10414,
+      "source": "Hugging Face Blog",
+      "title_en": "Task-Seeded Synthetic Q&A Generation for Nemotron Pretraining",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/nvidia/task-seeded-sdg",
+      "image_url": null,
+      "pub_date": "Thu, 04 Jun 2026 11:24:53 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T12:27:23.508Z",
+      "created_at": "2026-06-04T12:27:23.508Z"
     }
   ]
 }
