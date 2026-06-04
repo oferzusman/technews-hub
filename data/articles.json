@@ -216124,7 +216124,7 @@
       "author": "The Conversation",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T22:38:32.923Z",
       "created_at": "2026-06-03T22:38:32.923Z"
     },
@@ -216158,7 +216158,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T22:38:37.505Z",
       "created_at": "2026-06-03T22:38:37.505Z"
     },
@@ -216181,7 +216181,7 @@
         "Lovable"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T23:23:07.995Z",
       "created_at": "2026-06-03T23:23:07.995Z"
     },
@@ -216215,7 +216215,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T23:23:11.791Z",
       "created_at": "2026-06-03T23:23:11.791Z"
     },
@@ -216232,7 +216232,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T23:23:11.791Z",
       "created_at": "2026-06-03T23:23:11.791Z"
     },
@@ -216249,7 +216249,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T23:23:15.672Z",
       "created_at": "2026-06-03T23:23:15.672Z"
     },
@@ -216266,7 +216266,7 @@
       "author": "Aamir Khollam",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T00:13:11.784Z",
       "created_at": "2026-06-04T00:13:11.784Z"
     },
@@ -216283,7 +216283,7 @@
       "author": "Neetika Walter",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T00:13:11.784Z",
       "created_at": "2026-06-04T00:13:11.784Z"
     },
@@ -216300,7 +216300,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T00:13:12.567Z",
       "created_at": "2026-06-04T00:13:12.567Z"
     },
@@ -216363,6 +216363,91 @@
       "priority": "hot",
       "fetchedAt": "2026-06-04T00:19:22.534Z",
       "created_at": "2026-06-04T00:19:22.534Z"
+    },
+    {
+      "id": 10354,
+      "source": "New Atlas",
+      "title_en": "New sesame-seed-sized animal found living its best life off Taiwan coast",
+      "description_en": "For nearly 200 years, biologists felt they had a pretty good grasp of the nudibranch genus Thecacera. Consisting of six known species found in marine habitats around the world, these shell-less molluscs seemed as small as small could be, ranging from around half an inch to an inch long.\nContinue Reading\nCategory: Biology, Science\nTags: Taiwan, Marine Biology, Ocean, Species",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/biology/sesame-seed-sized-animal-taiwan/",
+      "image_url": null,
+      "pub_date": "Thu, 04 Jun 2026 01:02:01 GMT",
+      "author": "Bronwyn Thompson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T02:02:16.504Z",
+      "created_at": "2026-06-04T02:02:16.504Z"
+    },
+    {
+      "id": 10355,
+      "source": "Interesting Engineering",
+      "title_en": "Elon Musk’s SpaceX seeks record $75B IPO to fuel space, next-gen computing plans",
+      "description_en": "SpaceX is seeking to raise $75 billion in what could become the largest initial public...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/culture/spacex-record-75-billion-ipo-starship-ai-expansion-2",
+      "image_url": null,
+      "pub_date": "Thu, 04 Jun 2026 00:43:25 +0000",
+      "author": "Neetika Walter",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T02:02:17.115Z",
+      "created_at": "2026-06-04T02:02:17.115Z"
+    },
+    {
+      "id": 10356,
+      "source": "CNBC Tech",
+      "title_en": "CrowdStrike is a buy, just not yet. Here's why",
+      "description_en": "On top of the beat-and-raise, CrowdStrike announced a 4-for-1 stock split. But short-term thinkers sold the stock.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/03/crowdstrike-is-a-buy-just-not-yet-heres-why.html",
+      "image_url": null,
+      "pub_date": "Thu, 04 Jun 2026 01:16:47 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T02:02:17.586Z",
+      "created_at": "2026-06-04T02:02:17.586Z"
+    },
+    {
+      "id": 10357,
+      "source": "CNBC Tech",
+      "title_en": "Japan may be hiding 'the best AI value,' Barclays says",
+      "description_en": "Investors chasing Asia's AI rally may want to look beyond the region's top-performing stock markets and consider Japan instead, Barclays said.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/04/japan-may-be-hiding-the-best-ai-value-barclays-says.html",
+      "image_url": null,
+      "pub_date": "Thu, 04 Jun 2026 00:47:40 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T02:02:17.586Z",
+      "created_at": "2026-06-04T02:02:17.586Z"
+    },
+    {
+      "id": 10358,
+      "source": "AI Post (TG)",
+      "title_en": "China has introduced a virtual reality shooting experience that transforms shopping malls into interactive play areas.Participants use gun controllers equipped with smartphones, allowing for real-time",
+      "description_en": "China has introduced a virtual reality shooting experience that transforms shopping malls into interactive play areas.Participants use gun controllers equipped with smartphones, allowing for real-time augmented reality overlays. The system projects virtual enemies and effects directly onto the actual mall environment through the device’s camera feed. This technology blends digital gaming elements with physical locations, creating a mixed-reality environment within public spaces.📰 @aipost",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7114",
+      "image_url": null,
+      "pub_date": "2026-06-04T01:10:08+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T02:02:22.135Z",
+      "created_at": "2026-06-04T02:02:22.135Z"
     }
   ]
 }
