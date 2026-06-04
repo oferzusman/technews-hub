@@ -1,9 +1,9 @@
 {
-  "total": 10414,
+  "total": 10427,
   "translated": 8824,
-  "untranslated": 1590,
-  "today": 65,
-  "week": 749,
+  "untranslated": 1603,
+  "today": 78,
+  "week": 762,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 775,
+      "total": 780,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 433,
+      "total": 434,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -73,15 +73,15 @@
     },
     {
       "name": "The Verge AI",
-      "total": 301,
+      "total": 302,
       "translated": 231,
-      "lastDate": "2026-06-04T12:12:12.000Z"
+      "lastDate": "2026-06-04T12:30:00.000Z"
     },
     {
       "name": "AI Post (TG)",
-      "total": 293,
+      "total": 294,
       "translated": 168,
-      "lastDate": "2026-06-04T09:44:01+00:00"
+      "lastDate": "2026-06-04T12:35:49+00:00"
     },
     {
       "name": "Futurism",
@@ -109,13 +109,13 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 160,
+      "total": 161,
       "translated": 135,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
       "name": "Hugging Face Blog",
-      "total": 137,
+      "total": 138,
       "translated": 122,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
@@ -133,13 +133,13 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 102,
+      "total": 103,
       "translated": 63,
-      "lastDate": "2026-06-04T12:01:18+00:00"
+      "lastDate": "2026-06-04T13:00:14+00:00"
     },
     {
       "name": "AI News",
-      "total": 101,
+      "total": 102,
       "translated": 81,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
@@ -163,9 +163,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 68,
+      "total": 69,
       "translated": 40,
-      "lastDate": "2026-06-04T06:01:41+00:00"
+      "lastDate": "2026-06-04T13:27:56+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-04T12:29:27.001Z"
+  "generatedAt": "2026-06-04T13:48:05.464Z"
 }
