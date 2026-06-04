@@ -219356,7 +219356,7 @@
         "StrictlyVC"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T22:00:15.897Z",
       "created_at": "2026-06-04T22:00:15.897Z"
     },
@@ -219373,7 +219373,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T22:00:19.316Z",
       "created_at": "2026-06-04T22:00:19.316Z"
     },
@@ -219599,7 +219599,7 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T23:20:44.580Z",
       "created_at": "2026-06-04T23:20:44.580Z"
     },
@@ -219619,6 +219619,40 @@
       "priority": "hot",
       "fetchedAt": "2026-06-04T23:20:46.588Z",
       "created_at": "2026-06-04T23:20:46.588Z"
+    },
+    {
+      "id": 10497,
+      "source": "Interesting Engineering",
+      "title_en": "Bumble bees spontaneously solve object-manipulation tasks without prior training",
+      "description_en": "A century ago, a psychologist named Wolfgang Köhler proved that chimpanzees could solve complex problems....",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/bumble-bees-solve-complex-tasks",
+      "image_url": "https://www.youtube.com/embed/NM1SUxFl36M",
+      "pub_date": "Thu, 04 Jun 2026 23:30:00 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T23:45:22.637Z",
+      "created_at": "2026-06-04T23:45:22.637Z"
+    },
+    {
+      "id": 10498,
+      "source": "AI Post (TG)",
+      "title_en": "Anthropic's Progress in Recursive Self-ImprovementAnthropic is making significant strides towards recursive self-improvement in AI, enabling systems to autonomously develop successors.Key highlights i",
+      "description_en": "Anthropic's Progress in Recursive Self-ImprovementAnthropic is making significant strides towards recursive self-improvement in AI, enabling systems to autonomously develop successors.Key highlights include:- Code output from engineers is now eight times higher than in 2021–2025.- AI task completion times have doubled every four months, expanding from four-minute tasks to 12-hour projects.- By May 2026, 80% of merged code originated from Claude, whose quality is now on par with human work.Claude",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7123",
+      "image_url": "https://cdn4.telesco.pe/file/WoeWQqZIrWMoAplKKmKrRfhkQ3evNauaU8MGiHkaRFTTVIaBTT1bz9u6BK55YPWx3u9VSyJvL1GAUx0z7F85Olj4ZCtjAT1vIdNI5fVS-cyC0sx1emBZBWrNMWZKxPSMzqlgxqe5eIwhACfttHFJdz_EELnsV1AGFbJqCpr_HIQf_UtiryAUWbsUB2RISkTobGxvq3f0vnqbot3F4XkkZU-uBuFoS883K_c8cabksr2ewxavAZ81ZT9w2GCiF4iNy58Ph4jD2ivAxriIDi3JhW7wXvI7Qm6xxd7q32cbJTtpkhyifa78fCZ_jAjs2sBNOy3j3Lir1l_yDTmXAV_d7w.jpg",
+      "pub_date": "2026-06-04T23:30:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T23:45:29.631Z",
+      "created_at": "2026-06-04T23:45:29.631Z"
     }
   ]
 }
