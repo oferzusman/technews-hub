@@ -216141,7 +216141,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-03T22:38:37.505Z",
       "created_at": "2026-06-03T22:38:37.505Z"
     },
@@ -216303,6 +216303,66 @@
       "priority": "hot",
       "fetchedAt": "2026-06-04T00:13:12.567Z",
       "created_at": "2026-06-04T00:13:12.567Z"
+    },
+    {
+      "id": 10353,
+      "source": "The Guardian AI",
+      "title_en": "Seattle, home to Amazon and Microsoft, poised to pass moratorium on new datacenters",
+      "description_en": "Measure expected to pass next week represents major rebuke to big tech as local disquiet over AI boom grows\nSeattle’s city government is on the verge of passing a year-long ban on the construction of new datacenters, the largest city yet in the US to consider such a moratorium as nationwide backlash grows.\nFour companies sought to build five large datacenters in areas serviced by Seattle’s public utility; if approved, they would have consumed approximately a third of the city’s current daily dem",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/03/seattle-datacenter-moratorium",
+      "image_url": "https://i.guim.co.uk/img/media/8568e255b43f3cca84cf277623d698bd6bf53a5f/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=35ae9e9515d5f857e609dcd162933cbd",
+      "pub_date": "Thu, 04 Jun 2026 00:17:42 GMT",
+      "author": "Adam Willems in Seattle",
+      "categories": [
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Seattle",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/seattle"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Washington state",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/washington-state"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T00:19:22.534Z",
+      "created_at": "2026-06-04T00:19:22.534Z"
     }
   ]
 }
