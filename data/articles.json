@@ -216360,7 +216360,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T00:19:22.534Z",
       "created_at": "2026-06-04T00:19:22.534Z"
     },
@@ -216377,7 +216377,7 @@
       "author": "Bronwyn Thompson",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T02:02:16.504Z",
       "created_at": "2026-06-04T02:02:16.504Z"
     },
@@ -216394,7 +216394,7 @@
       "author": "Neetika Walter",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T02:02:17.115Z",
       "created_at": "2026-06-04T02:02:17.115Z"
     },
@@ -216411,7 +216411,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T02:02:17.586Z",
       "created_at": "2026-06-04T02:02:17.586Z"
     },
@@ -216428,7 +216428,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T02:02:17.586Z",
       "created_at": "2026-06-04T02:02:17.586Z"
     },
@@ -216445,9 +216445,194 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T02:02:22.135Z",
       "created_at": "2026-06-04T02:02:22.135Z"
+    },
+    {
+      "id": 10359,
+      "source": "The Guardian AI",
+      "title_en": "My year with the robots: how Joanna Stern let AI into her home, work – and heart",
+      "description_en": "In 2025, the tech journalist invited artificial intelligence to do nearly everything for her, including editing the book she was writing about the experiment. Some of it was useful, some not – but it was her time with a chatbot companion that really shook her\nFor a year, Joanna Stern decided to turn herself into a “lab rat” – the object of her own experiment. Throughout 2025, she invited artificial intelligence into “every corner” of her life. She let AI answer her texts, decide what she ate and",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/04/my-year-with-robots-joanna-stern-ai",
+      "image_url": "https://i.guim.co.uk/img/media/4d9ba96429aad6ab98e1760f58b27462ff7186ad/179_0_5901_4720/master/5901.jpg?width=140&quality=85&auto=format&fit=max&s=34746815e5cdf3151383da9b01383082",
+      "pub_date": "Thu, 04 Jun 2026 04:00:25 GMT",
+      "author": "Paula Cocozza",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Wall Street Journal",
+          "$": {
+            "domain": "https://www.theguardian.com/media/wallstreetjournal"
+          }
+        },
+        {
+          "_": "Media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/media"
+          }
+        },
+        {
+          "_": "Newspapers & magazines",
+          "$": {
+            "domain": "https://www.theguardian.com/media/pressandpublishing"
+          }
+        },
+        {
+          "_": "US press and publishing",
+          "$": {
+            "domain": "https://www.theguardian.com/media/us-press-publishing"
+          }
+        },
+        {
+          "_": "Newspapers",
+          "$": {
+            "domain": "https://www.theguardian.com/media/newspapers"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T05:14:10.718Z",
+      "created_at": "2026-06-04T05:14:10.718Z"
+    },
+    {
+      "id": 10360,
+      "source": "The Guardian AI",
+      "title_en": "Smartglasses and earpieces may worsen exam cheating in schools, says Ofqual",
+      "description_en": "Stronger checks likely to be needed in England to safeguard reputation of GCSE, AS and A-levels, says Ian Bauckham\nCheating in exams could be magnified by the new generation of wearable hi-tech devices such as smartglasses or invisible earpieces, according to England’s qualifications watchdog.\nIan Bauckham, the head of the Office of Qualifications and Examinations Regulation (Ofqual), also revealed that GCSEs and A-level courses in England were being scrutinised over potential AI use in students",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/education/2026/jun/04/smartglasses-earpieces-exam-cheating-schools-ofqual-england",
+      "image_url": "https://i.guim.co.uk/img/media/df6c16bf913288657abe83afff8969abdd383bad/446_0_4305_3445/master/4305.jpg?width=140&quality=85&auto=format&fit=max&s=2acb4f30ece5dc204b724d1ceb468166",
+      "pub_date": "Thu, 04 Jun 2026 04:00:26 GMT",
+      "author": "Richard Adams Education editor",
+      "categories": [
+        {
+          "_": "Exams",
+          "$": {
+            "domain": "https://www.theguardian.com/education/exams"
+          }
+        },
+        {
+          "_": "Ofqual",
+          "$": {
+            "domain": "https://www.theguardian.com/education/ofqual"
+          }
+        },
+        {
+          "_": "A-levels",
+          "$": {
+            "domain": "https://www.theguardian.com/education/alevels"
+          }
+        },
+        {
+          "_": "GCSEs",
+          "$": {
+            "domain": "https://www.theguardian.com/education/gcses"
+          }
+        },
+        {
+          "_": "Secondary schools",
+          "$": {
+            "domain": "https://www.theguardian.com/education/secondary-schools"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Young people",
+          "$": {
+            "domain": "https://www.theguardian.com/society/youngpeople"
+          }
+        },
+        {
+          "_": "Smartphones",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/smartphones"
+          }
+        },
+        {
+          "_": "Schools",
+          "$": {
+            "domain": "https://www.theguardian.com/education/schools"
+          }
+        },
+        {
+          "_": "Education",
+          "$": {
+            "domain": "https://www.theguardian.com/education/education"
+          }
+        },
+        {
+          "_": "England",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/england"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Sixth form",
+          "$": {
+            "domain": "https://www.theguardian.com/education/sixth-form"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T05:14:10.718Z",
+      "created_at": "2026-06-04T05:14:10.718Z"
+    },
+    {
+      "id": 10361,
+      "source": "AI Post (TG)",
+      "title_en": "Microrobots aid recovery in mice with spinal cord injuriesResearchers developed six-micrometre stem-cell microrobots, guided by magnetic fields, to help recover movement in mice with severed spinal co",
+      "description_en": "Microrobots aid recovery in mice with spinal cord injuriesResearchers developed six-micrometre stem-cell microrobots, guided by magnetic fields, to help recover movement in mice with severed spinal cords. These microrobots transformed stem cells into neurons through wireless stimulation, eliminating the need for implanted electrodes.After 28 days, connected nerve cells improved movement in the mice, with no adverse effects noted. A similar approach in zebrafish showed quicker recovery, with near",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7115",
+      "image_url": "https://cdn4.telesco.pe/file/HZ7k8ARkA3n-Rx08v5IN2ns_8WBqI-ixV9Sujg6FccLnIEoAgKoHSXRjVMF4w6NZz50x0JbO_uLJAmWA_sj7H6QBgQbUqU-ClfqLmhtj3tfPA7gogRwSn2X76HGmIITIWFMdJ4YRssJI3hV0r7u5v5W1VCGCcUTvWtXg50HKyzibX7BJ4TQcM9EesF_pXp0BaAz7-VF_zyoOt4Ithg983GIDlR5ZO1TIQD8_orQkIBz7yqV7d3QybCkkBQKOat2OU0V50gZQogegKCDzIh9o0iGh7FoA7YiquO1M-EBXusd_6v2-tdb7h7fRujUoRS87JNpYZUf3sNrPMC1FVGkYtA.jpg",
+      "pub_date": "2026-06-04T04:05:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T05:14:15.189Z",
+      "created_at": "2026-06-04T05:14:15.189Z"
     }
   ]
 }
