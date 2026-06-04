@@ -1,9 +1,9 @@
 {
-  "total": 10488,
+  "total": 10498,
   "translated": 8824,
-  "untranslated": 1664,
-  "today": 139,
-  "week": 823,
+  "untranslated": 1674,
+  "today": 149,
+  "week": 833,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,19 +19,19 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 787,
+      "total": 788,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 587,
+      "total": 588,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 510,
+      "total": 512,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -43,7 +43,7 @@
     },
     {
       "name": "Ars Technica",
-      "total": 467,
+      "total": 470,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -79,9 +79,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 297,
+      "total": 298,
       "translated": 168,
-      "lastDate": "2026-06-04T21:10:14+00:00"
+      "lastDate": "2026-06-04T23:30:00+00:00"
     },
     {
       "name": "Futurism",
@@ -97,7 +97,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 264,
+      "total": 266,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-04T22:44:44.581Z"
+  "generatedAt": "2026-06-04T23:47:23.165Z"
 }
