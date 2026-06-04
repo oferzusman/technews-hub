@@ -1,9 +1,9 @@
 {
-  "total": 10444,
+  "total": 10458,
   "translated": 8824,
-  "untranslated": 1620,
-  "today": 95,
-  "week": 779,
+  "untranslated": 1634,
+  "today": 109,
+  "week": 793,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,25 +13,25 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 844,
+      "total": 847,
       "translated": 652,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 780,
+      "total": 781,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 581,
+      "total": 583,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 505,
+      "total": 507,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -43,7 +43,7 @@
     },
     {
       "name": "Ars Technica",
-      "total": 463,
+      "total": 465,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -55,13 +55,13 @@
     },
     {
       "name": "The Decoder",
-      "total": 434,
+      "total": 435,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "OpenAI Blog",
-      "total": 363,
+      "total": 364,
       "translated": 334,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
@@ -103,9 +103,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 230,
+      "total": 231,
       "translated": 119,
-      "lastDate": "2026-06-04T15:53:11+00:00"
+      "lastDate": "2026-06-04T16:30:12+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -163,9 +163,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 70,
+      "total": 71,
       "translated": 40,
-      "lastDate": "2026-06-04T14:58:32+00:00"
+      "lastDate": "2026-06-04T16:20:18+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-04T16:43:17.024Z"
+  "generatedAt": "2026-06-04T16:43:48.992Z"
 }
