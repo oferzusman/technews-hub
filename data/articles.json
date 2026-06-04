@@ -218871,7 +218871,7 @@
         "strategy"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T18:03:00.797Z",
       "created_at": "2026-06-04T18:03:00.797Z"
     },
@@ -218888,7 +218888,7 @@
       "author": "Neetika Walter",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T18:03:01.041Z",
       "created_at": "2026-06-04T18:03:01.041Z"
     },
@@ -218905,7 +218905,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T18:03:01.425Z",
       "created_at": "2026-06-04T18:03:01.425Z"
     },
@@ -219000,7 +219000,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T18:34:06.010Z",
       "created_at": "2026-06-04T18:34:06.010Z"
     },
@@ -219017,7 +219017,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T18:34:09.242Z",
       "created_at": "2026-06-04T18:34:09.242Z"
     },
@@ -219110,6 +219110,159 @@
       "priority": "hot",
       "fetchedAt": "2026-06-04T19:05:25.011Z",
       "created_at": "2026-06-04T19:05:25.011Z"
+    },
+    {
+      "id": 10473,
+      "source": "TechCrunch AI",
+      "title_en": "Meta steals a tactic from Tesla and builds data centers in tents",
+      "description_en": "Meta may have one found one way to slash its massive data center bill: tents.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+      "image_url": null,
+      "pub_date": "Thu, 04 Jun 2026 19:33:09 +0000",
+      "author": "Tim De Chant",
+      "categories": [
+        "AI",
+        "Climate",
+        "Social",
+        "data centers",
+        "Meta",
+        "Tents"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T20:20:51.925Z",
+      "created_at": "2026-06-04T20:20:51.925Z"
+    },
+    {
+      "id": 10474,
+      "source": "TechCrunch AI",
+      "title_en": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+      "description_en": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+      "image_url": null,
+      "pub_date": "Thu, 04 Jun 2026 19:20:58 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "AI",
+        "Apps",
+        "TC",
+        "ai agent",
+        "Apple",
+        "Poke"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T20:20:51.925Z",
+      "created_at": "2026-06-04T20:20:51.925Z"
+    },
+    {
+      "id": 10475,
+      "source": "Ars Technica",
+      "title_en": "Elon Musk tries again to escape FTC audits of X data handling",
+      "description_en": "Musk can't be trusted to protect X user privacy, public commenters warn FTC.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2256975350-1152x648-1780599648.jpg",
+      "pub_date": "Thu, 04 Jun 2026 19:49:12 +0000",
+      "author": "\n                    Ashley Belanger\n                ",
+      "categories": [
+        "AI",
+        "Policy",
+        "Artificial Intelligence",
+        "corp",
+        "data privacy",
+        "Elon Musk",
+        "federal trade commission",
+        "FTC",
+        "Twitter",
+        "X",
+        "xAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T20:20:52.010Z",
+      "created_at": "2026-06-04T20:20:52.010Z"
+    },
+    {
+      "id": 10476,
+      "source": "Ars Technica",
+      "title_en": "Cable lobby warns of chaos if FCC doesn't relax ban on foreign routers",
+      "description_en": "NCTA seeks waiver from foreign-router ban, citing memory and substrate shortages.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/06/cable-lobby-warns-of-chaos-if-fcc-doesnt-relax-ban-on-foreign-routers/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/wireless-router-cables-1152x648.jpg",
+      "pub_date": "Thu, 04 Jun 2026 18:34:33 +0000",
+      "author": "\n                    Jon Brodkin\n                ",
+      "categories": [
+        "Policy",
+        "FCC",
+        "NCTA",
+        "router ban"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T20:20:52.010Z",
+      "created_at": "2026-06-04T20:20:52.010Z"
+    },
+    {
+      "id": 10477,
+      "source": "Interesting Engineering",
+      "title_en": "Age of Ultron: Anthropic warns AI systems could soon build their own successors",
+      "description_en": "We’ve seen it in films and pop culture for decades; it looks like sci-fi is...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/anthropic-self-improvement-ai-models",
+      "image_url": "https://www.youtube.com/embed/S11QuFWcNA0",
+      "pub_date": "Thu, 04 Jun 2026 19:49:50 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T20:20:54.624Z",
+      "created_at": "2026-06-04T20:20:54.624Z"
+    },
+    {
+      "id": 10478,
+      "source": "Tom's Hardware",
+      "title_en": "AMD's Frank Azor pushes back against claim that FSR 4.1 won't be ported to RDNA 3.5 GPUs — says 'no such decision' has been made",
+      "description_en": "AMD's Frank Azor hits back against allegations suggesting AMD will skip RDNA 3.5 integration with FSR 4.1.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/amds-frank-azor-pushes-back-against-claim-that-fsr-4-1-wont-be-ported-to-rdna-3-5-gpus-says-no-such-decision-has-been-made",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ssTpUsCMwXHCrNaxPa96oQ-1280-80.jpg",
+      "pub_date": "Thu, 04 Jun 2026 19:18:26 +0000",
+      "author": " Aaron Klotz ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T20:20:55.113Z",
+      "created_at": "2026-06-04T20:20:55.113Z"
+    },
+    {
+      "id": 10479,
+      "source": "Backdoor (TG)",
+      "title_en": "Расширение против ИИ придумали разработчики — юзеры Сhrome могут скачать прогу, которая ищет ЛЮБЫЕ упоминания ИИ или AI на сайтах и заменяет их какашками!Самое смешное: расширение написали с помощью C",
+      "description_en": "Расширение против ИИ придумали разработчики — юзеры Сhrome могут скачать прогу, которая ищет ЛЮБЫЕ упоминания ИИ или AI на сайтах и заменяет их какашками!Самое смешное: расширение написали с помощью Claude.Переиграли и уничтожили.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28924",
+      "image_url": "https://cdn4.telesco.pe/file/iCwAZ9H4J82P8exiU4iS2T_JmpIF1upX4AxnDD88LUJ6oRrnOP_kngDbQaGT9B82Lge3HuLSxqaa_z--lPr8kNEPH_ZfAhO3A842hJKn9P2ZeuNWHpqWl8gdreuzFPnt0wexQU4rgSvMl3ov1QJEN0ZFnSFgarH3g_Ep8dWJD2M4_ssK5kMbcArUanTnj0oAo-RucjbGlKWBH0gpRPSN0x-xmcTatI4p6Dwdbktv2lWk_5P3JXN_Mc9ZPIr4OLtD0YH78161udjcvtgNFmOAk56KiWfcP8QedED2XQCE_FqZ_pLMf4-5Pp74EiNnwjLOejIxmyFn9Tw7egkUvyV9lw.jpg",
+      "pub_date": "2026-06-04T19:59:59+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T20:21:00.508Z",
+      "created_at": "2026-06-04T20:21:00.508Z"
     }
   ]
 }
