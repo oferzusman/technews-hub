@@ -1,9 +1,9 @@
 {
-  "total": 10361,
+  "total": 10368,
   "translated": 8824,
-  "untranslated": 1537,
-  "today": 12,
-  "week": 696,
+  "untranslated": 1544,
+  "today": 19,
+  "week": 703,
   "sources": [
     {
       "name": "Product Hunt",
@@ -49,7 +49,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 441,
+      "total": 442,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -67,7 +67,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 346,
+      "total": 347,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -97,15 +97,15 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 262,
+      "total": 263,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 220,
+      "total": 222,
       "translated": 119,
-      "lastDate": "2026-06-03T21:50:10+00:00"
+      "lastDate": "2026-06-04T06:27:29+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -139,9 +139,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 99,
+      "total": 100,
       "translated": 63,
-      "lastDate": "2026-06-03T20:06:01+00:00"
+      "lastDate": "2026-06-04T06:33:16+00:00"
     },
     {
       "name": "The Times of India",
@@ -163,9 +163,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 67,
+      "total": 68,
       "translated": 40,
-      "lastDate": "2026-06-03T18:15:33+00:00"
+      "lastDate": "2026-06-04T06:01:41+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-04T05:23:23.308Z"
+  "generatedAt": "2026-06-04T06:55:37.148Z"
 }
