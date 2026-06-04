@@ -216661,7 +216661,7 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T06:54:13.630Z",
       "created_at": "2026-06-04T06:54:13.630Z"
     },
@@ -216678,7 +216678,7 @@
       "author": "David Szondy",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T06:54:13.937Z",
       "created_at": "2026-06-04T06:54:13.937Z"
     },
@@ -216738,7 +216738,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T06:54:14.083Z",
       "created_at": "2026-06-04T06:54:14.083Z"
     },
@@ -216755,7 +216755,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T06:54:17.120Z",
       "created_at": "2026-06-04T06:54:17.120Z"
     },
@@ -216772,7 +216772,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T06:54:17.151Z",
       "created_at": "2026-06-04T06:54:17.151Z"
     },
@@ -216789,7 +216789,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T06:54:17.151Z",
       "created_at": "2026-06-04T06:54:17.151Z"
     },
@@ -216806,9 +216806,453 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T06:54:17.474Z",
       "created_at": "2026-06-04T06:54:17.474Z"
+    },
+    {
+      "id": 10369,
+      "source": "The Decoder",
+      "title_en": "xAI updates Grok Imagine to 1.5 with image-to-video generation at 720p resolution",
+      "description_en": "xAI has released \"grok-imagine-video-1.5-preview,\" an image-to-video model that turns still images into cinematic videos at up to 720p based on text prompts. Multiple clips can be stitched together into longer scenes.\nThe article xAI updates Grok Imagine to 1.5 with image-to-video generation at 720p resolution appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/xai-updates-grok-imagine-to-1-5-with-image-to-video-generation-at-720p-resolution/",
+      "image_url": "http://the-decoder.com/wp-content/uploads/2026/06/prompt-to-video.mp4",
+      "pub_date": "Thu, 04 Jun 2026 08:04:48 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and Video",
+        "Grok",
+        "xAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T09:03:43.875Z",
+      "created_at": "2026-06-04T09:03:43.875Z"
+    },
+    {
+      "id": 10370,
+      "source": "MarkTechPost",
+      "title_en": "Miso Labs Releases MisoTTS: An 8B Emotive Text-to-Speech Model with Open Weights",
+      "description_en": "Miso Labs has released MisoTTS, an open-weights 8B text-to-speech model. It uses residual vector quantization (RVQ) to scale its sonic range without scaling parameters, and conditions on both text and audio context to respond to speaker tone. The architecture pairs a 7.7B backbone with a 300M depth decoder.\nThe post Miso Labs Releases MisoTTS: An 8B Emotive Text-to-Speech Model with Open Weights appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/04/miso-labs-releases-misotts-an-8b-emotive-text-to-speech-model-with-open-weights/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-04-at-12.56.18-AM-1.png",
+      "pub_date": "Thu, 04 Jun 2026 08:11:05 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Audio Language Model",
+        "Editors Pick",
+        "Language Model",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Technology",
+        "TTS",
+        "Voice AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T09:03:44.208Z",
+      "created_at": "2026-06-04T09:03:44.208Z"
+    },
+    {
+      "id": 10371,
+      "source": "OpenAI Blog",
+      "title_en": "How Endava is redesigning software delivery around AI agents",
+      "description_en": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/endava-frontiers",
+      "image_url": null,
+      "pub_date": "Thu, 04 Jun 2026 12:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T09:03:44.373Z",
+      "created_at": "2026-06-04T09:03:44.373Z"
+    },
+    {
+      "id": 10372,
+      "source": "New Atlas",
+      "title_en": "The largest magnetic map of the Universe captures what we can't see",
+      "description_en": "We're a step closer to understanding how energy is spread across the Universe, with the most detailed map of intergalactic magnetism ever produced. It's more than five times larger than all earlier studies combined.\nContinue Reading\nCategory: Astronomy, Science\nTags: CSIRO, Space exploration, Planetary Resources, Earth, Magnetic field, Galaxy",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/space/largest-magnetic-map-the-universe/",
+      "image_url": null,
+      "pub_date": "Thu, 04 Jun 2026 08:10:03 GMT",
+      "author": "Bronwyn Thompson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T09:03:44.680Z",
+      "created_at": "2026-06-04T09:03:44.680Z"
+    },
+    {
+      "id": 10373,
+      "source": "The Guardian AI",
+      "title_en": "SpaceX targets biggest ever stock market debut, putting Musk on course to be trillionaire",
+      "description_en": "IPO could raise up to $75bn, giving SpaceX market value of $1.77tn as it sets up Musk for extraordinary wealth\nSpace X is seeking to raise about $75bn (£55bn) through its imminent stock market listing, the company has said, which would make it the largest initial public offering ever.\nIf the stock market launch – primed for next week – goes as planned, founder Elon Musk, the world’s wealthiest person, could be poised to make history as the first trillionaire.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/science/2026/jun/03/spacex-ipo-stock-musk",
+      "image_url": "https://i.guim.co.uk/img/media/00ac93ef6e6fa87b834a73551658c353703cef06/394_0_6562_5250/master/6562.jpg?width=140&quality=85&auto=format&fit=max&s=914c3610263c1265bfe30a45f2baec1b",
+      "pub_date": "Wed, 03 Jun 2026 22:45:20 GMT",
+      "author": "Uwa Ede-Osifo and Lauren Almeida",
+      "categories": [
+        {
+          "_": "SpaceX",
+          "$": {
+            "domain": "https://www.theguardian.com/science/spacex"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "IPOs",
+          "$": {
+            "domain": "https://www.theguardian.com/business/ipos"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Aerospace industry",
+          "$": {
+            "domain": "https://www.theguardian.com/business/aerospace-industry"
+          }
+        },
+        {
+          "_": "Space",
+          "$": {
+            "domain": "https://www.theguardian.com/science/space"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-04T09:03:45.147Z",
+      "created_at": "2026-06-04T09:03:45.147Z"
+    },
+    {
+      "id": 10374,
+      "source": "Interesting Engineering",
+      "title_en": "New humanoid robot brings advanced perception and manipulation to industrial droids",
+      "description_en": "A Vietnamese technology company has unveiled its latest humanoid robot, the VR-H3, at the IEEE...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/vietnam-vr-h3-humanoid-robot-industrial-grade",
+      "image_url": "https://www.youtube.com/embed/rSVRZtWi1Yc",
+      "pub_date": "Thu, 04 Jun 2026 08:55:36 +0000",
+      "author": "Jijo Malayil",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T09:03:45.499Z",
+      "created_at": "2026-06-04T09:03:45.499Z"
+    },
+    {
+      "id": 10375,
+      "source": "Product Hunt",
+      "title_en": "Perplexity Personal Computer for Windows",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/perplexity-personal-computer-for-windows",
+      "image_url": null,
+      "pub_date": "2026-06-03T16:32:40.000Z",
+      "author": "Rohan Chaubey",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-04T09:03:49.461Z",
+      "created_at": "2026-06-04T09:03:49.461Z"
+    },
+    {
+      "id": 10376,
+      "source": "Product Hunt",
+      "title_en": "Kai for Chrome",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/kai-for-chrome",
+      "image_url": null,
+      "pub_date": "2026-05-26T18:16:18.000Z",
+      "author": "Lambert de beru",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-04T09:03:49.461Z",
+      "created_at": "2026-06-04T09:03:49.461Z"
+    },
+    {
+      "id": 10377,
+      "source": "Product Hunt",
+      "title_en": "Mailwarm 2.0 (YC S20)",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/mailwarm",
+      "image_url": null,
+      "pub_date": "2026-05-11T08:28:25.000Z",
+      "author": "Garry Tan",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-04T09:03:49.461Z",
+      "created_at": "2026-06-04T09:03:49.461Z"
+    },
+    {
+      "id": 10378,
+      "source": "Product Hunt",
+      "title_en": "Deliveryman.ai",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/deliveryman-ai",
+      "image_url": null,
+      "pub_date": "2026-06-01T13:24:10.000Z",
+      "author": "Junaid Ansari",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-04T09:03:49.461Z",
+      "created_at": "2026-06-04T09:03:49.461Z"
+    },
+    {
+      "id": 10379,
+      "source": "Product Hunt",
+      "title_en": "Empromptu AI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/empromptu",
+      "image_url": null,
+      "pub_date": "2026-06-01T17:12:04.000Z",
+      "author": "Ben Lang",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-04T09:03:49.461Z",
+      "created_at": "2026-06-04T09:03:49.461Z"
+    },
+    {
+      "id": 10380,
+      "source": "Product Hunt",
+      "title_en": "Extella.AI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/extella-ai",
+      "image_url": null,
+      "pub_date": "2026-04-07T11:12:18.000Z",
+      "author": "Vlad Polonskiy",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-04T09:03:49.461Z",
+      "created_at": "2026-06-04T09:03:49.461Z"
+    },
+    {
+      "id": 10381,
+      "source": "Product Hunt",
+      "title_en": "Astra Autonomous Pentest",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/astra-security",
+      "image_url": null,
+      "pub_date": "2026-06-01T08:52:42.000Z",
+      "author": "fmerian",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-04T09:03:49.461Z",
+      "created_at": "2026-06-04T09:03:49.461Z"
+    },
+    {
+      "id": 10382,
+      "source": "XOR Journal (TG)",
+      "title_en": "Лайфхак, который сохранит вам бюджет: связь можно оплачивать бонусами Спасибо 🤑СберМобайл позаботился, чтобы до 99% стоимости тарифа можно было закрыть бонусами, а деньги оставить для себя любимого.В",
+      "description_en": "Лайфхак, который сохранит вам бюджет: связь можно оплачивать бонусами Спасибо 🤑СберМобайл позаботился, чтобы до 99% стоимости тарифа можно было закрыть бонусами, а деньги оставить для себя любимого.Выбрать тариф можно здесь 👍",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9446",
+      "image_url": "https://cdn4.telesco.pe/file/VNUTv2UvPQdc3oPk86ZU74vXNol_A5vsgAx3JsZaWUgGGemyPGIlEjeunR1bLACe0F2oBXNAnQiF4QXWCUUfCW5Y1iwrPspufQvxFZKXn3oVB9VnlGBX2AIXbdLV3yLyzBTZgPz_GQB6WRNMFxXHQ_lLJ5h8zPXds8MXiAwuC1_Sd2wmebKD84TsjsthZ1F52kX2LaNdKPMNL4jIpVoQ6s42lhgeFG5j0-DyLXh2YaQwzkw2vKNy0dRk0xfidV5CDI0Pjnpxyt4MOtol-JgEe2HwJ0hD7TBBMyf21Ba7RKD2UPIDtYaM9qk5DVsdA-SJmdoc0ohK8yan-JNUgS8yCw.jpg",
+      "pub_date": "2026-06-04T07:40:46+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T09:03:50.063Z",
+      "created_at": "2026-06-04T09:03:50.063Z"
+    },
+    {
+      "id": 10383,
+      "source": "XOR Journal (TG)",
+      "title_en": "OpenAI раздают ChatGPT Pro на полгода бесплатно — если у вас есть опенсорс проекты 😳Компания запустила программу Codex for Open Source. Чтобы податься, нужно отправить ссылку на свой GitHub-репозитор",
+      "description_en": "OpenAI раздают ChatGPT Pro на полгода бесплатно — если у вас есть опенсорс проекты 😳Компания запустила программу Codex for Open Source. Чтобы податься, нужно отправить ссылку на свой GitHub-репозиторий и коротко рассказать, чем полезен проект, указать количество звезд и загрузок и как ИИ поможет его развить.В рамках программы дарят 6 месяцев ChatGPT Pro, доступ к Codex и GPT-5.5 Pro, API-кредиты и Codex Security. Если давно пилите что-то в опенсорсе — это, пожалуй, самый простой способ получить",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9447",
+      "image_url": "https://cdn4.telesco.pe/file/dBufBonPjXGxYNyIgT85EfwBzsO4W8In57KJygXuylP2_qmcS-0g8st9m-r1EPqHnXRdwGS7K0uMaJNc-5lwZgAgqN4xZR1t4hQXuX86JV_abgHKkRaJaAg3qpoIYDO6WSJffz1ofCPRn8Fh-NepI2dte_jxQtEJf6WlhLwtljXQ-h9JsEA7_dYlrow6Ndwa52Cq3nc9_sD9zwTNKp9tk4GF2m9NlueEt3GsL0mIy8v4Kzjaa8d4y3uatqxXZU7Aj5YPAC0topjLcCl8VqnHnViTjLz12Ln1qEiUhcG0nRgn_q0j2x1LgEhRw4yOUx0wEGHYYQPgEfgdUvt7uEx_gQ.jpg",
+      "pub_date": "2026-06-04T08:27:44+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T09:03:50.063Z",
+      "created_at": "2026-06-04T09:03:50.063Z"
+    },
+    {
+      "id": 10384,
+      "source": "XOR Journal (TG)",
+      "title_en": "Кажется, увольнения из-за ИИ отменяются 😂@xor_journal",
+      "description_en": "Кажется, увольнения из-за ИИ отменяются 😂@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9448",
+      "image_url": null,
+      "pub_date": "2026-06-04T08:55:52+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T09:03:50.063Z",
+      "created_at": "2026-06-04T09:03:50.063Z"
+    },
+    {
+      "id": 10385,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Получаем ChatGPT Pro на полгода БЕСПЛАТНО — OpenAI запустила програму Codex для опен-сорса и раздает доступы к своей мощнейшей нейронке.• Подаем GitHub-ссылку на свой проект и рассказываем, чем он ",
+      "description_en": "⚡️ Получаем ChatGPT Pro на полгода БЕСПЛАТНО — OpenAI запустила програму Codex для опен-сорса и раздает доступы к своей мощнейшей нейронке.• Подаем GitHub-ссылку на свой проект и рассказываем, чем он полезен, как может помочь. • Указываем дополнительно количество звезд, загрузок и как ИИ поможет вам в дальнейшей разработке.• ВСЁ! Получаем шесть месяцев бесплатного доступа к ChatGPT Pro, Coder и GPT-5.5 Pro, API-кредиты и Codex Security для безопасности. Если пилите проекты давно, это отличный ша",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28891",
+      "image_url": "https://cdn4.telesco.pe/file/WaA14pW_YjLdmaloY4GLknjnIH9HwDf4x5ZMG60WcEd_d_0lIZtmCj6k-jau3_8PBW81MfHpAqniEU5cDZRvh-nOL3xRawoONoqKyvc-6y5wqhCottfimJ1MJ9aJcbAfb0ScYE0qqV4HO-bdUFX5Vo-GJx7TkYPGf9LAShTAmJBhn55qtF3PSppji2fKLtPhlbi8s74pyhKc_3w_KQ5ZZCciD9Qaty3hzO7VQpprl11aigRDyi10AY1i0uAl3oNx7ux8K6MaXcQ_hVNPMYNzLy8QWT4myUfht9l45hOcTgYOdfGFIYHrYGvBAaWIn41s63BWqbm4msrxgNI64W-RgQ.jpg",
+      "pub_date": "2026-06-04T08:31:58+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T09:03:50.187Z",
+      "created_at": "2026-06-04T09:03:50.187Z"
+    },
+    {
+      "id": 10386,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🤖 One In Six People Would Consider Intimacy with an AI RobotThese are the findings from the survey done by British polling firm YouGov. The researchers asked nearly 10,000 people across six countries",
+      "description_en": "🤖 One In Six People Would Consider Intimacy with an AI RobotThese are the findings from the survey done by British polling firm YouGov. The researchers asked nearly 10,000 people across six countries about the potential for romantic relationships with AI companions and robots.17% of respondents said they would consider using an \"AI intimacy doll.\" Still, 59% said they would not do so.In Japan and Germany, the number of young people who would like to try an AI-powered sex doll was nearly double ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2555",
+      "image_url": "https://cdn4.telesco.pe/file/TPnIgdc01aG99g_Y_A8xPIcYdQhhzJ2qOr2ATU4OuKH-ZpmHPdTc62rIwR4-10aBdhhXX5PLNuS5i8uMEuSquxmBpqHNe8A-erfO5N21Xw4cL6nQYJ_FnRXqgPprcIZSedhlEyD63Fj956hN1UmOowc5yRO60GeSKtX4BAzktndhvngwpgUjD8LN7x5DjM-GBLrSXE_wB_bd9nHjbGY1x1xhE9f4ndvjMfPjrfJAbYspgMkvxFeENNCXjULrYNrZecj-sbSRyMOkGLzRYQ-VvrNSiFrWGuoG7J5EkawLFt6nhu-aGbjz18OWsGgxOWcaZBO3XkjzJ405DV9n4Dm_hg.jpg",
+      "pub_date": "2026-06-04T07:40:08+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T09:03:50.527Z",
+      "created_at": "2026-06-04T09:03:50.527Z"
+    },
+    {
+      "id": 10387,
+      "source": "Habr (TG)",
+      "title_en": "«Рога и Копыта»: как фиктивная компания без сотрудников возглавила всероссийский рейтинг работодателейГруппа ИТ-предпринимателей сгенерировала компанию на базе обанкротившегося юрлица с арестованными ",
+      "description_en": "«Рога и Копыта»: как фиктивная компания без сотрудников возглавила всероссийский рейтинг работодателейГруппа ИТ-предпринимателей сгенерировала компанию на базе обанкротившегося юрлица с арестованными счетами, чтобы протестировать уязвимости скоринговой системы HH.ru.Всё цифровое присутствие компании строилось через ChatGPT. Платформа без проверок выдала статус благонадёжности заброшенному ООО. Имитация кипучей деятельности потребовала 78 виртуальных сотрудников для накрутки eNPS и сотни фейковых",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/68808",
+      "image_url": "https://cdn4.telesco.pe/file/qYTNkcaManHXezFG469WOHF0c0y_yqFTfWGk60p4nq40TKxsEVYShb5XBrU-Jk9h5lUMKe01MZ3_c-Wz4euPS2mGaCK2qHa4-TtEOGV39leJsbnxOZl6mlTK4ez2SsqSBrm-04GE9IhJn80kjulgurOCbrhFbhEVEe8sFSiZisV56c4MEKLJMD1GWtOFU3tmPh9ohcmO4Q1eZySBSkjWHwgwjA3Q43DUrcsVzaiYOOCB9MVoTlUDWcPT22bLrMjTYzT_QUTjUZQeM1p3f5eRXCw76TzKI2hc5aXuhHLHD_Uwwg3A6DF7rI2iKNBTwf9lfQD_uQ6-5vrH24iY4Z5_tg.jpg",
+      "pub_date": "2026-06-04T09:00:45+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T09:03:50.565Z",
+      "created_at": "2026-06-04T09:03:50.565Z"
+    },
+    {
+      "id": 10388,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "📸 Интерактивный фасад Сбера на ПМЭФ запустил флешмоб в соцсетяхСегодня после 18:00 гости Петербургского международного экономического форума смогут вывести свое имя на интерактивный фасад стенда Сбер",
+      "description_en": "📸 Интерактивный фасад Сбера на ПМЭФ запустил флешмоб в соцсетяхСегодня после 18:00 гости Петербургского международного экономического форума смогут вывести свое имя на интерактивный фасад стенда Сбера. После этого останется только сделать фото на память.В первый день форума стенд стал одной из главных точек притяжения выставки — и соцсети заполнили фотографии блогеров и обычных людей на фоне стенда.👋 Подпишитесь на Hi, AI!",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3274",
+      "image_url": "https://cdn4.telesco.pe/file/rEZ7pkEhA-q1DYadmgtBUl9W8JsNgxtNzQ0X0Vgwo1_LVRHkqVRguBAxIcFZaxSH4-0h6KP4JL0rR8FLE8AQIYlS4UsIKXYLIlZ6ZEXj5ENdNrhfbYwcHTOnuSdL3d390Lm-pDsoKALS0p_en8AGmOfwXYFzuGwia7RDpBtJsr5RXYuWbX-n5nVmYZcG5mujQNKGET4-DQPu7o6kEF9U28B_sxOgmhNytAggWiZkJeuXFk-yJu17I-3ef006RhVKWKVlmO2SQempsvJdf65xqrgBQ562QyTnZSrOX4Oz8oWnbaAgHc_HkvJC9BKmWGfwI0DGceWdr7TNzP6BO8T1sw.jpg",
+      "pub_date": "2026-06-04T09:00:14+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T09:03:50.581Z",
+      "created_at": "2026-06-04T09:03:50.581Z"
+    },
+    {
+      "id": 10389,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 Anthropic is giving a select group access to one of the most powerful cyber-defense AI models ever built.The company is expanding Claude Mythos Preview from around 50 to 200 vetted organizations ac",
+      "description_en": "🤖 Anthropic is giving a select group access to one of the most powerful cyber-defense AI models ever built.The company is expanding Claude Mythos Preview from around 50 to 200 vetted organizations across critical sectors including healthcare, energy, water, communications, governments, nonprofits, and major software projects.The expansion includes the US-led military alliance NATO, the US tech group Okta, the EU cybersecurity agency ENISA, and South Korean companies Samsung, SK Hynix and SK Tel",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7116",
+      "image_url": "https://cdn4.telesco.pe/file/Bqoqa5jsQ1blrJBjTjIpQY0c15f4W1lo_HPPrXur0NGxbhOG--cWH9jROdA5enC69nDtMorwFzUankZ2_pKVWKQRFaPFGeeBZm786sc98MqsZk8HrM-nRLrba_McMzjIJCHKVEFIZ9DETkApgqIZwLoR1LmAGn4HAs0PKAS-9k-oDEt_P0fSS13tM5cq7sqj67EtBzi_1WB9nUrMMh37gUlrva00CCx-7mz7KI_p-4pJVZEwN6VCRPLLXa9SoL_t7o2mqlGmd3HpWW5J4Oq11XBL-4puueHQpCQqfxZ1Q3No1Y-hRt1XlsjmAWepQcTl2NIIte5Qky22CycqQp6eKw.jpg",
+      "pub_date": "2026-06-04T06:56:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-04T09:03:50.907Z",
+      "created_at": "2026-06-04T09:03:50.907Z"
     }
   ]
 }
