@@ -216830,7 +216830,7 @@
         "xAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T09:03:43.875Z",
       "created_at": "2026-06-04T09:03:43.875Z"
     },
@@ -216860,7 +216860,7 @@
         "Voice AI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T09:03:44.208Z",
       "created_at": "2026-06-04T09:03:44.208Z"
     },
@@ -216894,7 +216894,7 @@
       "author": "Bronwyn Thompson",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T09:03:44.680Z",
       "created_at": "2026-06-04T09:03:44.680Z"
     },
@@ -217131,7 +217131,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T09:03:50.063Z",
       "created_at": "2026-06-04T09:03:50.063Z"
     },
@@ -217148,7 +217148,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T09:03:50.063Z",
       "created_at": "2026-06-04T09:03:50.063Z"
     },
@@ -217182,7 +217182,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T09:03:50.187Z",
       "created_at": "2026-06-04T09:03:50.187Z"
     },
@@ -217199,7 +217199,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T09:03:50.527Z",
       "created_at": "2026-06-04T09:03:50.527Z"
     },
@@ -217270,6 +217270,164 @@
       "priority": "hot",
       "fetchedAt": "2026-06-04T09:11:33.806Z",
       "created_at": "2026-06-04T09:11:33.807Z"
+    },
+    {
+      "id": 10391,
+      "source": "The Verge AI",
+      "title_en": "Amazon develops a warehouse robot workers can speak to",
+      "description_en": "The design hasn’t changed much from the original Proteus, which was announced in 2022. | Image: Amazon\t\n\nAmazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will can interact using language instead of code. The expanded capabilities come as part of a growing pivot toward automation as the e-commerce giant replaces its human workers with robots. \nAmazon says the AI-powered upgrade means its human employees can assign the robot tasks in the same way they'd com",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+      "image_url": null,
+      "pub_date": "2026-06-04T09:31:14.000Z",
+      "author": "Robert Hart",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T10:32:31.307Z",
+      "created_at": "2026-06-04T10:32:31.307Z"
+    },
+    {
+      "id": 10392,
+      "source": "The Decoder",
+      "title_en": "AI can now coach amateur virologists, and top tech leaders want Congress to act on DNA security",
+      "description_en": "Sam Altman, Dario Amodei, Demis Hassabis, and other tech leaders are urging the US government to make screening of synthetic DNA orders a legal requirement. AI systems already outperform PhD-level virologists on lab procedures, the signatories warn, raising the risk of misuse for biological weapons.\nThe article AI can now coach amateur virologists, and top tech leaders want Congress to act on DNA security appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/ai-can-now-coach-amateur-virologists-and-top-tech-leaders-want-congress-to-act-on-dna-security/",
+      "image_url": null,
+      "pub_date": "Thu, 04 Jun 2026 10:07:51 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Bioinformatics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T10:32:32.477Z",
+      "created_at": "2026-06-04T10:32:32.477Z"
+    },
+    {
+      "id": 10393,
+      "source": "AI News",
+      "title_en": "Amazon brings AI shopping assistant to retailers with Kate Spade",
+      "description_en": "Amazon is offering its AI shopping technology to other retailers through a new Agentic Shopping Assistant built on AWS, with Kate Spade among the first brands to use it. The service allows retailers to build AI shopping assistants for their own websites and apps. Amazon said each deployment can be customised to a retailer’s catalogue, […]\nThe post Amazon brings AI shopping assistant to retailers with Kate Spade appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/",
+      "image_url": null,
+      "pub_date": "Thu, 04 Jun 2026 10:00:00 +0000",
+      "author": "Muhammad Zulhusni",
+      "categories": [
+        "AI Business Strategy",
+        "Artificial Intelligence",
+        "Infrastructure & Hardware",
+        "Retail & Logistics AI",
+        "ai",
+        "aws",
+        "ecommerce",
+        "generative ai",
+        "retail"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T10:32:33.957Z",
+      "created_at": "2026-06-04T10:32:33.957Z"
+    },
+    {
+      "id": 10394,
+      "source": "Tom's Hardware",
+      "title_en": "Microsoft CEO says new AI data centers use as little water annually as a restaurant — closed-loop cooling system aims to slash consumption from millions of gallons as AI infrastructure faces mounting environmental scrutiny",
+      "description_en": "Microsoft CEO claims the company's new AI data centers use only as much water as a single restaurant annually, thanks to a closed-loop cooling system designed to dramatically reduce consumption.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/microsoft-ceo-says-new-ai-data-centers-use-as-little-water-annually-as-a-restaurant-closed-loop-cooling-system-aims-to-slash-consumption-from-millions-of-gallons-as-ai-infrastructure-faces-mounting-environmental-scrutiny",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/QFQkcyyBGELQpZQnSjmAD8-1280-80.jpg",
+      "pub_date": "Thu, 04 Jun 2026 10:20:00 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "Big Tech",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T10:32:34.320Z",
+      "created_at": "2026-06-04T10:32:34.320Z"
+    },
+    {
+      "id": 10395,
+      "source": "Tom's Hardware",
+      "title_en": "Tom's Hardware Unfiltered: Computex 2026, Day 3 — the heat bites as our team races across Taipei",
+      "description_en": "Our team in Taipei feels the heat in another extremely busy day covering Computex 2026, which is busier than ever before.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/toms-hardware-unfiltered-computex-2026-day-3-the-heat-bites-as-our-team-races-across-taipei",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/TxAXVFrRVozuGwabiR7mv8-1280-80.jpg",
+      "pub_date": "Thu, 04 Jun 2026 09:54:07 +0000",
+      "author": " Paul Alcorn ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T10:32:34.320Z",
+      "created_at": "2026-06-04T10:32:34.320Z"
+    },
+    {
+      "id": 10396,
+      "source": "Tom's Hardware",
+      "title_en": "Aviation enthusiast uses Raspberry Pi and ABS-B radio to create viral real-time airport tracker — open-source 'Skylight' intercepts aircraft signals and projects flight paths onto your ceiling",
+      "description_en": "Software engineer Cameron Paczek has developed Skylight, a project that receives ADS-B signals from an RTL-SDR radio antenna and shows the airplanes flying above you on a projector aimed at your ceiling.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/raspberry-pi/aviation-enthusiast-uses-raspberry-pi-and-abs-b-radio-to-create-viral-real-time-airport-tracker-open-source-skylight-intercepts-aircraft-signals-and-projects-flight-paths-onto-your-ceiling",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/dMcS63BUfZRwLbvtDKi7R8-1280-80.jpg",
+      "pub_date": "Thu, 04 Jun 2026 09:49:59 +0000",
+      "author": " Zhiye Liu ",
+      "categories": [
+        "Raspberry Pi"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T10:32:34.320Z",
+      "created_at": "2026-06-04T10:32:34.320Z"
+    },
+    {
+      "id": 10397,
+      "source": "XOR Journal (TG)",
+      "title_en": "Мы все в опасности: Anthropic выпустили большой отчет о том, как хакеры УЖЕ используют нейросети 💀Anthropic за год заблокировали 832 аккаунта. И выводы компании неутешительные: 🟢  ИИ теперь применяю",
+      "description_en": "Мы все в опасности: Anthropic выпустили большой отчет о том, как хакеры УЖЕ используют нейросети 💀Anthropic за год заблокировали 832 аккаунта. И выводы компании неутешительные: 🟢  ИИ теперь применяют на всех этапах: от подготовки и написания вредоносного ПО до поиска учётных записей внутри скомпрометированных сетей;🟢 Опасных злоумышленников становится больше. Доля аккаунтов со средним или высоким уровнем риска выросла с 33% до 56% всего за полгода.🟢 Самый опасный кейс получил максимальный ри",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9450",
+      "image_url": "https://cdn4.telesco.pe/file/Mh1zKYnoY8S-BzgYZpNNr6RHdjQJrZ2QBIZRNk-sJKMi0J1g1ZdHJsoj8YsLoO84td-Kl8CO2fDTEO9VPhk04ydyYr_ktAfF1kingSMdRhPI_ar5xWghRZ2GRBeapsldWqIB9FeoDl3vx6pijDfZSrCEo_08FMTPMt8IczN-yJU37t84b1Xy_uXBiJ6z6KPsYLFQLrh6p1Pf5ZO9W0Udc7xTCQj4kBdAoZeweLqlblEru6chRQondZDFNljrIeBHnn2HBjqKr4g11ldm2kpkmuo0MFJpSLahVjUq5jDltony4EqgvMxVM9puUQOpHdSMqyTMzOx_xaaIAdwgLTTFpA.jpg",
+      "pub_date": "2026-06-04T10:16:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T10:32:39.778Z",
+      "created_at": "2026-06-04T10:32:39.778Z"
+    },
+    {
+      "id": 10398,
+      "source": "AI Post (TG)",
+      "title_en": "🇺🇸 Marco Rubio warns Americans to prepare now for a future where artificial intelligence rapidly replaces millions of jobs, forcing workers to learn new skills or risk being left behind.Rubio says t",
+      "description_en": "🇺🇸 Marco Rubio warns Americans to prepare now for a future where artificial intelligence rapidly replaces millions of jobs, forcing workers to learn new skills or risk being left behind.Rubio says the AI revolution won't just threaten blue-collar work, warning that millions of white-collar professionals could soon find themselves replaced by machines.\"There will be white-collar jobs that will be impacted.\"\"That over time could destabilize societies all over the world.\"@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7117",
+      "image_url": null,
+      "pub_date": "2026-06-04T09:44:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T10:32:40.290Z",
+      "created_at": "2026-06-04T10:32:40.290Z"
     }
   ]
 }
