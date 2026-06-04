@@ -219034,7 +219034,7 @@
       "author": "Emma Roth",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T19:05:21.250Z",
       "created_at": "2026-06-04T19:05:21.250Z"
     },
@@ -219056,7 +219056,7 @@
         "Cloudflare"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T19:05:22.714Z",
       "created_at": "2026-06-04T19:05:22.714Z"
     },
@@ -219107,7 +219107,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T19:05:25.011Z",
       "created_at": "2026-06-04T19:05:25.011Z"
     },
@@ -219206,7 +219206,7 @@
         "router ban"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-04T20:20:52.010Z",
       "created_at": "2026-06-04T20:20:52.010Z"
     },
@@ -219263,6 +219263,76 @@
       "priority": "hot",
       "fetchedAt": "2026-06-04T20:21:00.508Z",
       "created_at": "2026-06-04T20:21:00.508Z"
+    },
+    {
+      "id": 10480,
+      "source": "OpenAI Blog",
+      "title_en": "Biodefense in the Intelligence Age",
+      "description_en": "An action plan for AI-powered biological resilience",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
+      "image_url": null,
+      "pub_date": "Thu, 04 Jun 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Global Affairs"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-04T20:55:56.543Z",
+      "created_at": "2026-06-04T20:55:56.543Z"
+    },
+    {
+      "id": 10481,
+      "source": "Interesting Engineering",
+      "title_en": "Sodium metal battery achieves ultra-fast charging and 90% capacity after 2,000 cycles",
+      "description_en": "Researchers in China have developed a new quasi-solid-state electrolyte that could help sodium metal batteries...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/sodium-battery-electrolyte-fast-charging-6000-hours",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/battery-chemistry.jpg",
+      "pub_date": "Thu, 04 Jun 2026 20:45:44 +0000",
+      "author": "Neetika Walter",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T20:55:57.496Z",
+      "created_at": "2026-06-04T20:55:57.496Z"
+    },
+    {
+      "id": 10482,
+      "source": "Interesting Engineering",
+      "title_en": "Waymo to turn retired robotaxi batteries into solar power storage systems",
+      "description_en": "Waymo has found a new role for the batteries powering its autonomous vehicles. Instead of...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/waymo-robotaxi-batteries-solar-storage",
+      "image_url": null,
+      "pub_date": "Thu, 04 Jun 2026 20:42:23 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T20:55:57.496Z",
+      "created_at": "2026-06-04T20:55:57.496Z"
+    },
+    {
+      "id": 10483,
+      "source": "Interesting Engineering",
+      "title_en": "Rare agreement: Sam Altman and Dario Amodei back DNA rules to curb bioweapon risk",
+      "description_en": "Leading figures from artificial intelligence, biotechnology, and national security are urging governments to mandate stricter...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/ai-biosecurity-open-letter-dna-screening-policy",
+      "image_url": null,
+      "pub_date": "Thu, 04 Jun 2026 20:30:20 +0000",
+      "author": "Neetika Walter",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-04T20:55:57.497Z",
+      "created_at": "2026-06-04T20:55:57.497Z"
     }
   ]
 }
