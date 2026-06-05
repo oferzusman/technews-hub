@@ -1,9 +1,9 @@
 {
-  "total": 10530,
+  "total": 10547,
   "translated": 8824,
-  "untranslated": 1706,
-  "today": 32,
-  "week": 744,
+  "untranslated": 1723,
+  "today": 49,
+  "week": 761,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,19 +13,19 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 851,
+      "total": 856,
       "translated": 652,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 789,
+      "total": 790,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 590,
+      "total": 592,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 438,
+      "total": 439,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -79,9 +79,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 302,
+      "total": 304,
       "translated": 168,
-      "lastDate": "2026-06-05T08:20:19+00:00"
+      "lastDate": "2026-06-05T11:17:01+00:00"
     },
     {
       "name": "Futurism",
@@ -97,15 +97,15 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 266,
+      "total": 270,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 236,
+      "total": 237,
       "translated": 119,
-      "lastDate": "2026-06-05T08:03:01+00:00"
+      "lastDate": "2026-06-05T10:40:36+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -132,16 +132,16 @@
       "lastDate": "2026-06-05T10:00:14+00:00"
     },
     {
+      "name": "AI News",
+      "total": 104,
+      "translated": 81,
+      "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
+    },
+    {
       "name": "Onefootball.com",
       "total": 104,
       "translated": 104,
       "lastDate": "2026-04-09T07:08:00Z"
-    },
-    {
-      "name": "AI News",
-      "total": 103,
-      "translated": 81,
-      "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-05T11:24:34.200Z"
+  "generatedAt": "2026-06-05T11:43:50.345Z"
 }
