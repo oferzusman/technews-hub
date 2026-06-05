@@ -219667,9 +219667,26 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T01:35:55.704Z",
       "created_at": "2026-06-05T01:35:55.704Z"
+    },
+    {
+      "id": 10500,
+      "source": "AI Post (TG)",
+      "title_en": "🔍 Google introduces Gemma 4 12B, a multimodal open model that runs on a laptopGoogle has unveiled Gemma 4 12B, its latest open-weight model with advanced reasoning, vision, and audio capabilities. De",
+      "description_en": "🔍 Google introduces Gemma 4 12B, a multimodal open model that runs on a laptopGoogle has unveiled Gemma 4 12B, its latest open-weight model with advanced reasoning, vision, and audio capabilities. Despite its size, it delivers performance close to larger Gemma models while running locally on just 16GB of VRAM and is released under the permissive Apache 2.0 license.The most interesting part is its new unified architecture.Most multimodal models rely on separate vision and audio encoders, which a",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7128",
+      "image_url": "https://cdn4.telesco.pe/file/fyupVVYId3d8NMtk92RQJaop6TPgQbpkpr24gSJmj_Tv-fg8rkx1JSTHyGbBEpG1xoz__CE51pa-rF7gtlpZXffhjpwi-KqoavOz4wzk3G5XlTtECksh5cOb_OESeQnUc-6fQVegx05kDFgdfdLkDgzjdkowUAojl8-qnk0a0fJn0i_rOsTR16LQ7V27ztGUqyF-u8Dn1m7kvJSoQaRYiT85my9r01DGFvpbux5or8-3sufvQ-AIhnP5zoO6a24_-0QmrOOMa80TrnSSdhGd-um9pr9k9NfsmsebS8ASaEbrig0K3ZCa2YBLA5XrOW47AL08KTH_h5TRGtozDR5MAg.jpg",
+      "pub_date": "2026-06-05T02:55:12+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T03:43:26.998Z",
+      "created_at": "2026-06-05T03:43:26.998Z"
     }
   ]
 }
