@@ -220197,7 +220197,7 @@
         "Desktops"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T10:12:23.271Z",
       "created_at": "2026-06-05T10:12:23.271Z"
     },
@@ -220233,7 +220233,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T10:12:25.378Z",
       "created_at": "2026-06-05T10:12:25.378Z"
     },
@@ -220292,7 +220292,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T10:36:05.503Z",
       "created_at": "2026-06-05T10:36:05.503Z"
     },
@@ -220316,7 +220316,7 @@
         "Claude Mythos"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T11:41:48.505Z",
       "created_at": "2026-06-05T11:41:48.505Z"
     },
@@ -220346,7 +220346,7 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T11:41:48.965Z",
       "created_at": "2026-06-05T11:41:48.965Z"
     },
@@ -220373,7 +220373,7 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T11:41:48.965Z",
       "created_at": "2026-06-05T11:41:48.965Z"
     },
@@ -220437,7 +220437,7 @@
       "author": "Mrigakshi Dixit",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T11:41:49.940Z",
       "created_at": "2026-06-05T11:41:49.940Z"
     },
@@ -220536,7 +220536,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T11:41:50.708Z",
       "created_at": "2026-06-05T11:41:50.708Z"
     },
@@ -220555,7 +220555,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T11:41:50.708Z",
       "created_at": "2026-06-05T11:41:50.708Z"
     },
@@ -220575,7 +220575,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T11:41:50.708Z",
       "created_at": "2026-06-05T11:41:50.708Z"
     },
@@ -220609,7 +220609,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T11:41:50.738Z",
       "created_at": "2026-06-05T11:41:50.738Z"
     },
@@ -220626,7 +220626,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T11:41:52.472Z",
       "created_at": "2026-06-05T11:41:52.472Z"
     },
@@ -220643,7 +220643,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T11:41:53.253Z",
       "created_at": "2026-06-05T11:41:53.253Z"
     },
@@ -220660,9 +220660,160 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T11:41:53.253Z",
       "created_at": "2026-06-05T11:41:53.253Z"
+    },
+    {
+      "id": 10548,
+      "source": "TechCrunch AI",
+      "title_en": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+      "description_en": "The Australian data center operator plans to set up 5GW of capacity in India.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 13:03:10 +0000",
+      "author": "Jagmeet Singh",
+      "categories": [
+        "AI",
+        "AirTrunk",
+        "data centers"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T13:27:42.256Z",
+      "created_at": "2026-06-05T13:27:42.256Z"
+    },
+    {
+      "id": 10549,
+      "source": "The Decoder",
+      "title_en": "Microsoft trained its MAI models on unlicensed web data despite promising \"enterprise grade, clean and commercially licensed data\"",
+      "description_en": "Microsoft sells its LLM training approach as different from other AI companies. It isn't. The company trained its new MAI models partly on unlicensed web data like Common Crawl, despite claiming they used only \"clean and commercially licensed data.\" Like every other AI lab, Microsoft leans on fair use and puts the burden on site owners to block its crawlers.\nThe article Microsoft trained its MAI models on unlicensed web data despite promising \"enterprise grade, clean and commercially licensed da",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/microsoft-trained-its-mai-models-on-unlicensed-web-data-despite-promising-enterprise-grade-clean-and-commercially-licensed-data/",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 12:10:26 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "MAI",
+        "Microsoft"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T13:27:43.668Z",
+      "created_at": "2026-06-05T13:27:43.668Z"
+    },
+    {
+      "id": 10550,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to steal Instagram accounts. Their approach was…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 12:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T13:27:43.766Z",
+      "created_at": "2026-06-05T13:27:43.766Z"
+    },
+    {
+      "id": 10551,
+      "source": "CNBC Tech",
+      "title_en": "AI is designing OpenAI's next model in a sign of 'super intelligence': SoftBank's Masayoshi Son to CNBC",
+      "description_en": "SoftBank CEO Masayoshi Son said his forecast of artificial super intelligence arriving in ten years was \"conservative\" and thinks it will be here sooner.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/05/softbank-masayoshi-son-openai-model-super-intelligence.html",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 13:16:08 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T13:27:45.475Z",
+      "created_at": "2026-06-05T13:27:45.475Z"
+    },
+    {
+      "id": 10552,
+      "source": "Tom's Hardware",
+      "title_en": "Industry coalition urges Trump administration to take urgent action as AI data centers' extreme memory consumption threatens other industries — AI-driven memory chip shortage could raise prices in automotive, medical, telecommunications sectors",
+      "description_en": "A coalition of nine U.S. trade associations has urged the Trump administration to address an AI-driven memory chip shortage, warning that soaring DRAM prices and constrained supply could raise costs for consumer electronics, automobiles, medical devices, and broadband infrastructure while disrupting supply chains through at least 2027.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/industry-coalition-urges-trump-administration-to-take-urgent-action-as-ai-data-centers-extreme-memory-consumption-threatens-other-industries-ai-driven-memory-chip-shortage-could-raise-prices-in-automotive-medical-telecommunications-sectors",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/fqTti4KdcXiuxcu6QwyyKe-1280-80.jpg",
+      "pub_date": "Fri, 05 Jun 2026 12:20:01 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T13:27:45.665Z",
+      "created_at": "2026-06-05T13:27:45.665Z"
+    },
+    {
+      "id": 10553,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Дольше работа от аккумулятора, меньше багов и умная Siri: чем порадует iOS 27  Грядущее обновление всех ОС Apple повторит опыт Mac OS X Snow Leopard и iOS 12, которые стали своеобразной работой над ош",
+      "description_en": "Дольше работа от аккумулятора, меньше багов и умная Siri: чем порадует iOS 27  Грядущее обновление всех ОС Apple повторит опыт Mac OS X Snow Leopard и iOS 12, которые стали своеобразной работой над ошибками, — пишет колумнист Bloomberg Марк Гурман.Журналист говорит, что пользователей ждут базовые, но такие важные вещи, как увеличение работы от батареи и оптимизация работы операционных систем. Однако Apple была бы не собой, если бы оставила нас без новинок.Наконец мы получим поумневшую Siri, кото",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33412",
+      "image_url": "https://cdn4.telesco.pe/file/XGUF3CykhdoXrtNbc_RdDeq32DA2-SWC-KNiBUajdH1rS8hdITJIfr4AoRco4m1nfOnkrXEYX1PFYwAMzt7WjqLWaG-B76B2Yi0hmPIMn_ou-4wrNsCkrAaJI_PiAUV_XCUQ2jkCiYQphzeBBapb4AO9Oen_R9g1wwFIGYgecn2ysZnDM__qfSPt4m024j6_CwYmTurIfyAphh4RknavTu27g72D6bg3EPdbOYhhLF3TTF5S9DD4Gy02TQGuWxWdGGo0AH7xMmAc2cxGr_f6f6Ypc98crQ3EK7ECQwLIA8w790oqCTZj4-ENUuvS30hHLsAXe2NIA13IqeckwIQB9A.jpg",
+      "pub_date": "2026-06-05T12:30:59+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T13:27:46.970Z",
+      "created_at": "2026-06-05T13:27:46.970Z"
+    },
+    {
+      "id": 10554,
+      "source": "XOR Journal (TG)",
+      "title_en": "Блокировки отдалили Россию от «цифрового суверенитета» — заявил Дуров. Попытки ограничить интернет отбросили страну на десятилетия назад. И тот, кто это сделал — заслуживает медаль…национальной безопа",
+      "description_en": "Блокировки отдалили Россию от «цифрового суверенитета» — заявил Дуров. Попытки ограничить интернет отбросили страну на десятилетия назад. И тот, кто это сделал — заслуживает медаль…национальной безопасности от США. Более того, специалисты, которые могли бы создать в России операционную систему для смартфонов, в условиях сломанного интернета массово покидают страну.Согласны?👍 — да🗿 — нет@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9462",
+      "image_url": "https://cdn4.telesco.pe/file/knpzOYN7oq0uuhQt-StQgE_Tr4mISP_vD3axOIyBKxiQVC2hDVj_66idXxujVxqPinFyBV-CJlE-yIrT2deXodDcAB9PXqIGqmgEijF69b-NkJ2dlxVCxRiwlmegj-GuTlpCkC9dOGQxf0Q-2uCSgmill8pSxSz1_5700EIj4sI-CUbK-rLABUZDm8AjDfPy0hxUoYhfvEQgXVi1920o6WjsWXg4wP9VFIxQxjzZGuhAKGexbG8myn_JHumK0hjjLujeWfcc8Mqo7mLPXu9Z9fL93DnqmBrltqTlJMNkjx8yOFbAvMjbS-YBSFvJYL37m3C-h6XI5lr4kWlmvZmYbg.jpg",
+      "pub_date": "2026-06-05T12:21:11+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T13:27:47.015Z",
+      "created_at": "2026-06-05T13:27:47.015Z"
+    },
+    {
+      "id": 10555,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "💻 Сайты могут шпионить за вами через активность SSDИсследователи из Технического университета Граца представили технику FROST, позволяющую отслеживать посещаемые сайты или используемые приложения по ",
+      "description_en": "💻 Сайты могут шпионить за вами через активность SSDИсследователи из Технического университета Граца представили технику FROST, позволяющую отслеживать посещаемые сайты или используемые приложения по активности SSD-диска.Для этого не требуется устанавливать вредоносную программу: атака работает через браузер и JavaScript.FROST не читает данные напрямую, а смотрит на задержки при обращении к SSD. Когда разные приложения, вкладки браузера или системные процессы используют диск, это влияет на скоро",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3285",
+      "image_url": "https://cdn4.telesco.pe/file/ncLjbceyFVpXApJQblM-wetqIU-ATuMQPftnTdm_8v4IIHePVaJLX-BGDzWZ76hKnZ0C67L2w37YfVCZ3GajOjYuBYhV_e-3TQSVp8XUBmQ8FUeAmjvMUiDGXHjtionNVutRO08FZocbMjbeXeJ3Pef6I7eXAk_0D7AoOHavuMEKyQe7Wle8TDPpYsIuFVwNHkgT9uRtp8UNyEdOdXf1HCkLe1WK0dhcRhwv05HQ5Od58zayGqSD2OWj2f4Y6_PZNGxlsLaWT2ARMQiXu7wMfxZmQX-QpBF5X1TZg8Vz5oW31-0Hn81lQ1Av5kDyN_pCHsD6d5ElQNqTPc_xJADs9A.jpg",
+      "pub_date": "2026-06-05T13:02:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T13:27:47.468Z",
+      "created_at": "2026-06-05T13:27:47.468Z"
     }
   ]
 }
