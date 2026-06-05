@@ -1,9 +1,9 @@
 {
-  "total": 10618,
+  "total": 10620,
   "translated": 8824,
-  "untranslated": 1794,
-  "today": 120,
-  "week": 832,
+  "untranslated": 1796,
+  "today": 122,
+  "week": 834,
   "sources": [
     {
       "name": "Product Hunt",
@@ -115,7 +115,7 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 140,
+      "total": 141,
       "translated": 122,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
@@ -156,16 +156,16 @@
       "lastDate": "2026-04-09T07:00:00Z"
     },
     {
+      "name": "Wylsacom Red (TG)",
+      "total": 75,
+      "translated": 40,
+      "lastDate": "2026-06-05T22:47:55+00:00"
+    },
+    {
       "name": "Hi, AI English (TG)",
       "total": 75,
       "translated": 49,
       "lastDate": "2026-06-05T18:46:14+00:00"
-    },
-    {
-      "name": "Wylsacom Red (TG)",
-      "total": 74,
-      "translated": 40,
-      "lastDate": "2026-06-05T16:21:14+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-05T22:43:44.746Z"
+  "generatedAt": "2026-06-05T22:57:00.325Z"
 }
