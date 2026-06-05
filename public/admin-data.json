@@ -1,9 +1,9 @@
 {
-  "total": 10555,
+  "total": 10563,
   "translated": 8824,
-  "untranslated": 1731,
-  "today": 57,
-  "week": 769,
+  "untranslated": 1739,
+  "today": 65,
+  "week": 777,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,19 +19,19 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 790,
+      "total": 792,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 593,
+      "total": 594,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 514,
+      "total": 515,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 305,
+      "total": 306,
       "translated": 231,
-      "lastDate": "2026-06-04T18:38:04.000Z"
+      "lastDate": "2026-06-05T13:57:31.000Z"
     },
     {
       "name": "AI Post (TG)",
@@ -163,9 +163,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 72,
+      "total": 73,
       "translated": 40,
-      "lastDate": "2026-06-05T12:30:59+00:00"
+      "lastDate": "2026-06-05T13:47:50+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -175,7 +175,7 @@
     },
     {
       "name": "Google AI Blog",
-      "total": 56,
+      "total": 57,
       "translated": 47,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
@@ -193,9 +193,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 36,
+      "total": 37,
       "translated": 29,
-      "lastDate": "2026-06-03T22:55:44+00:00"
+      "lastDate": "2026-06-05T13:49:46+00:00"
     },
     {
       "name": "Slashdot.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-05T14:05:55.776Z"
+  "generatedAt": "2026-06-05T14:52:43.785Z"
 }
