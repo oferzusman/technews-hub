@@ -220681,7 +220681,7 @@
         "data centers"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T13:27:42.256Z",
       "created_at": "2026-06-05T13:27:42.256Z"
     },
@@ -220740,7 +220740,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T13:27:45.475Z",
       "created_at": "2026-06-05T13:27:45.475Z"
     },
@@ -220811,7 +220811,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T13:27:47.468Z",
       "created_at": "2026-06-05T13:27:47.468Z"
     },
@@ -220850,7 +220850,7 @@
       "author": "Charles Pulliam-Moore",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T14:50:39.030Z",
       "created_at": "2026-06-05T14:50:39.030Z"
     },
@@ -220914,7 +220914,7 @@
       "author": "Jijo Malayil",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T14:50:41.618Z",
       "created_at": "2026-06-05T14:50:41.618Z"
     },
@@ -220931,7 +220931,7 @@
       "author": "Mrigakshi Dixit",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T14:50:41.618Z",
       "created_at": "2026-06-05T14:50:41.618Z"
     },
@@ -220965,7 +220965,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T14:50:46.239Z",
       "created_at": "2026-06-05T14:50:46.239Z"
     },
@@ -220982,9 +220982,333 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T14:50:46.988Z",
       "created_at": "2026-06-05T14:50:46.988Z"
+    },
+    {
+      "id": 10564,
+      "source": "Ars Technica",
+      "title_en": "Rocket Report: Blue Origin explosion still making headlines; Impulse raises money",
+      "description_en": "NASA expects to begin stacking the SLS rocket this summer for next year's Artemis III launch.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/space/2026/06/rocket-report-blue-origin-explosion-still-making-headlines-impulse-raises-money/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/HJ_GYftWgAE2iIB-1152x648-1780648934.jpg",
+      "pub_date": "Fri, 05 Jun 2026 14:20:54 +0000",
+      "author": "\n                    Stephen Clark\n                ",
+      "categories": [
+        "Science",
+        "Space",
+        "blue origin",
+        "china",
+        "long march",
+        "reusable rockets",
+        "rocket report",
+        "spacex"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T16:13:12.151Z",
+      "created_at": "2026-06-05T16:13:12.151Z"
+    },
+    {
+      "id": 10565,
+      "source": "The Decoder",
+      "title_en": "Satya Nadella publicly torches a VP's plan to make Microsoft's AI agent deliberately addictive",
+      "description_en": "Microsoft CEO Satya Nadella has sharply criticized an internal memo proposing to make users \"addicted\" to the company's new AI agent Scout. \"Not sure who is writing and leaking this nonsense,\" Nadella wrote to about 50 top engineers. AI should empower people, and Scout should actually lead to less screen time.\nThe article Satya Nadella publicly torches a VP's plan to make Microsoft's AI agent deliberately addictive appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/satya-nadella-publicly-torches-a-vps-plan-to-make-microsofts-ai-agent-deliberately-addictive/",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 15:33:56 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Microsoft"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T16:13:13.463Z",
+      "created_at": "2026-06-05T16:13:13.463Z"
+    },
+    {
+      "id": 10566,
+      "source": "The Guardian AI",
+      "title_en": "Anthropic urges AI development ‘pause’ and conversation about risks",
+      "description_en": "US firm says it will convene policymakers, in post detailing progress of its Claude model towards ‘recursive self-improvement’\nAnthropic has floated the idea of a worldwide “temporary pause” on AI development – and said it was going to convene “policymakers” to discuss the dangers of advanced AI – in its latest release touting the capabilities of its products.\nIn a long post on Thursday, Anthropic detailed the progress of its AI model, Claude, towards “recursive self-improvement” – that is, bein",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/05/anthropic-urges-temporary-pause-on-ai-development-to-discuss-risks",
+      "image_url": "https://i.guim.co.uk/img/media/0a7b44261f5b2b24aa135203d751ef17e69f8c34/292_0_2917_2334/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=3bb9953472579abdd1fed5a298486225",
+      "pub_date": "Fri, 05 Jun 2026 15:35:24 GMT",
+      "author": "Aisha Down",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T16:13:14.386Z",
+      "created_at": "2026-06-05T16:13:14.386Z"
+    },
+    {
+      "id": 10567,
+      "source": "The Guardian AI",
+      "title_en": "Fifa expanding AI use at World Cup to reduce amount of abuse seen by players",
+      "description_en": "Social media protection service offered by Fifa\n\nEnglish FA yet to confirm whether it will use service\n\nFifa will expand the use of AI at the World Cup to reduce the amount of abusive messages that teams and players are exposed to on social media.\nWorld football’s governing body introduced a social media protection service after the 2022 World Cup in Qatar and has offered its moderation element for free to all football associations at the 2026 tournament, which starts next Thursday. The Football",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/football/2026/jun/05/fifa-expanding-ai-use-at-world-cup-to-reduce-amount-of-abuse-seen-by-players",
+      "image_url": "https://i.guim.co.uk/img/media/b01802ed3eef027f9a695c32785cb9c1e6a385a2/841_0_3702_2962/master/3702.jpg?width=140&quality=85&auto=format&fit=max&s=8b9f10fd0f83de3432d506d6050ade4b",
+      "pub_date": "Fri, 05 Jun 2026 16:00:03 GMT",
+      "author": "Andy Hunter",
+      "categories": [
+        {
+          "_": "World Cup",
+          "$": {
+            "domain": "https://www.theguardian.com/football/world-cup-football"
+          }
+        },
+        {
+          "_": "World Cup 2026",
+          "$": {
+            "domain": "https://www.theguardian.com/football/world-cup-2026"
+          }
+        },
+        {
+          "_": "Football",
+          "$": {
+            "domain": "https://www.theguardian.com/football/football"
+          }
+        },
+        {
+          "_": "Sport",
+          "$": {
+            "domain": "https://www.theguardian.com/sport/sport"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Social media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/social-media"
+          }
+        },
+        {
+          "_": "Media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/media"
+          }
+        },
+        {
+          "_": "US sports",
+          "$": {
+            "domain": "https://www.theguardian.com/sport/us-sport"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T16:13:14.386Z",
+      "created_at": "2026-06-05T16:13:14.386Z"
+    },
+    {
+      "id": 10568,
+      "source": "Interesting Engineering",
+      "title_en": "New ‘super-brain’ learns laws of nature to fast-track optical component design",
+      "description_en": "Researchers at Chalmers University of Technology have developed a machine learning system that learns the...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/new-super-brain-learns-laws-of-nature-to-fast-track-optical-component-design",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 15:34:17 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T16:13:15.328Z",
+      "created_at": "2026-06-05T16:13:15.328Z"
+    },
+    {
+      "id": 10569,
+      "source": "Interesting Engineering",
+      "title_en": "World’s 7 longest railway tunnels that seemed impossible before modern engineering",
+      "description_en": "Railway tunnels are among the most challenging infrastructure projects ever built. Engineers must drill through...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/lists/world-7-longest-railway-tunnels",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/Gotthard-tunnel.jpg",
+      "pub_date": "Fri, 05 Jun 2026 15:17:26 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T16:13:15.328Z",
+      "created_at": "2026-06-05T16:13:15.328Z"
+    },
+    {
+      "id": 10570,
+      "source": "CNBC Tech",
+      "title_en": "LinkedIn co-founder Reid Hoffman is leaving Microsoft's board after almost a decade",
+      "description_en": "Reid Hoffman was one of OpenAI's first donors, and he left its board in 2023 as the nonprofit cozied up with Microsoft.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/05/linkedin-co-founder-reid-hoffman-leaving-microsoft-board-after-decade.html",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 15:56:07 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T16:13:15.882Z",
+      "created_at": "2026-06-05T16:13:15.882Z"
+    },
+    {
+      "id": 10571,
+      "source": "Tom's Hardware",
+      "title_en": "Intel will reportedly upgrade its Wildcat Lake refresh to an 8-core config next year, leak claims — top-end silicon tipped to feature 4 P-cores and 4 LP-E cores as part of 'Core 400' series",
+      "description_en": "Intel's Wildcat Lake refresh that's supposedly debuting next year will shift focus to a more upmarket audience, only refreshing its Core 5 and Core 7 tiers. The new silicon at the top-end would feature 8 cores, up from 6 cores on Wildcat Lake right now, with the 4 P-cores and 4 LP-E cores. The Core 3 parts are claimed to remain unchanged.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-will-reportedly-upgrade-its-wildcat-lake-refresh-to-an-8-core-config-next-year-leak-claims-top-end-silicon-tipped-to-feature-4-p-cores-and-4-lp-e-cores-as-part-of-core-400-series",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/opKr6QKGPQ5r2x9kYaanyD-1280-80.jpg",
+      "pub_date": "Fri, 05 Jun 2026 16:02:36 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T16:13:16.153Z",
+      "created_at": "2026-06-05T16:13:16.153Z"
+    },
+    {
+      "id": 10572,
+      "source": "Tom's Hardware",
+      "title_en": "Seattle to pass one-year AI data center moratorium next week — will use window to study community impact of AI buildouts",
+      "description_en": "Two Seattle city council committees have passed a one-year moratorium and a resolution on data centers. The measures are still up for a vote in the full council, but many consider that simply as a formality.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/seattle-to-pass-one-year-ai-data-center-moratorium-next-week-will-use-window-to-study-community-impact-of-ai-buildouts",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/WcT9y8kDfnaCrGT7WXz74f-1280-80.png",
+      "pub_date": "Fri, 05 Jun 2026 15:29:37 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T16:13:16.153Z",
+      "created_at": "2026-06-05T16:13:16.153Z"
+    },
+    {
+      "id": 10573,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia is reportedly still planning fabled RTX 50 Super series for 2026, leak claims — lineup could now include a potential 'RTX 5060 Super' with 12GB of VRAM",
+      "description_en": "For almost a year, the RTX 50 Super series has been part of the rumor mill, but with the AI boom snatching production lines, causing memory prices to skyrocket, hype for the lineup had died down. Now, a potential RTX 5060 Super with 12GB of VRAM is apparently in the works, with the 50 Super series as a whole allegedly getting \"back on track.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-is-reportedly-still-planning-fabled-rtx-50-super-series-for-2026-leak-claims-lineup-could-now-include-a-potential-rtx-5060-super-with-12gb-of-vram",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/sfJKU8Y4mXoUMwTqNLbk69-1280-80.jpg",
+      "pub_date": "Fri, 05 Jun 2026 15:17:59 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T16:13:16.153Z",
+      "created_at": "2026-06-05T16:13:16.153Z"
+    },
+    {
+      "id": 10574,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "⚡️ Сбер запустил мультиагентную систему GigaCode CLI для автономной генерации кодаИИ-ассистент теперь работает прямо из терминала независимо от IDE и операционной системы. Он самостоятельно пишет тест",
+      "description_en": "⚡️ Сбер запустил мультиагентную систему GigaCode CLI для автономной генерации кодаИИ-ассистент теперь работает прямо из терминала независимо от IDE и операционной системы. Он самостоятельно пишет тесты и ищет баги, ускоряя рутинные операции в защищенном контуре организации.Локальный формат (on-premise) создан специально для крупного бизнеса, чтобы внедрять современные ИИ-модели без риска утечки данных за периметр компании. Оплата расширенного набора моделей при этом осуществляется в рублях.«Глоб",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3286",
+      "image_url": "https://cdn4.telesco.pe/file/S8oLMc2Uk9z0YAkcE3Z3ExdOQWy4uU5YlPZ3LaTiTyyEb_Tcm1Kn_fUCcBk6GLJOJoKiGKarJEy3eC-6o8UHE49gZk2jAr-M7IP9PSCphRK5F_P00YdM4RpPea4HInX4rvVxHmOjuzq5aP6CG4cenBCuFE45CoEwH8lzPzjGdO1jRozolcldw3hCBnyrRn3ujcn_2XTpVLCacAx3CFaDFaY8US0LTfvo3Ez7wqacw9LHBHOfslPiX3h4mUjwPHrpjnJcQ7b4ouQSuwcwSYHD5Iab2CLsr08Q552URMLZui4sn4sbpU2FxGweK6wwvA3Za26sJ80y3oeOOqjlEKY5lw.jpg",
+      "pub_date": "2026-06-05T15:40:11+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T16:13:18.520Z",
+      "created_at": "2026-06-05T16:13:18.520Z"
+    },
+    {
+      "id": 10575,
+      "source": "AI Post (TG)",
+      "title_en": "Robot unboxing to soon be a familiar sight in householdsRobot unboxing scenes are expected to become a common occurrence in homes worldwide. This development may arrive sooner than many people anticip",
+      "description_en": "Robot unboxing to soon be a familiar sight in householdsRobot unboxing scenes are expected to become a common occurrence in homes worldwide. This development may arrive sooner than many people anticipate.Industry trends indicate a rise in household adoption of robotics, with widespread availability projected in the near future.📰 @aipost",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7135",
+      "image_url": null,
+      "pub_date": "2026-06-05T14:52:05+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T16:13:18.746Z",
+      "created_at": "2026-06-05T16:13:18.746Z"
+    },
+    {
+      "id": 10576,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🤖 Canada wants its own supercomputer. No AWS required.Canada's \"AI for All\" strategy calls for a public AI supercomputer and investment in sovereign, Canadian-owned compute and cloud infrastructure. ",
+      "description_en": "🤖 Canada wants its own supercomputer. No AWS required.Canada's \"AI for All\" strategy calls for a public AI supercomputer and investment in sovereign, Canadian-owned compute and cloud infrastructure. That's the government treating compute as national infrastructure, not a vendor contract.Canada's current AI data centre and cloud setup is \"largely foreign-owned,\" and sovereign compute capacity is \"nascent\" with \"significant investment\" needed to cut reliance on foreign providers. So yeah, the sta",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/162",
+      "image_url": null,
+      "pub_date": "2026-06-05T15:53:37+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T16:13:19.217Z",
+      "created_at": "2026-06-05T16:13:19.217Z"
     }
   ]
 }
