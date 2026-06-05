@@ -1,9 +1,9 @@
 {
-  "total": 10563,
+  "total": 10576,
   "translated": 8824,
-  "untranslated": 1739,
-  "today": 65,
-  "week": 777,
+  "untranslated": 1752,
+  "today": 78,
+  "week": 790,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,19 +13,19 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 857,
+      "total": 860,
       "translated": 652,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 792,
+      "total": 794,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 594,
+      "total": 595,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -43,7 +43,7 @@
     },
     {
       "name": "Ars Technica",
-      "total": 470,
+      "total": 471,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 440,
+      "total": 441,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -67,7 +67,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 354,
+      "total": 356,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -79,9 +79,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 304,
+      "total": 305,
       "translated": 168,
-      "lastDate": "2026-06-05T11:17:01+00:00"
+      "lastDate": "2026-06-05T14:52:05+00:00"
     },
     {
       "name": "Futurism",
@@ -121,9 +121,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 107,
+      "total": 108,
       "translated": 63,
-      "lastDate": "2026-06-05T13:02:01+00:00"
+      "lastDate": "2026-06-05T15:40:11+00:00"
     },
     {
       "name": "Backdoor (TG)",
@@ -211,9 +211,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 28,
+      "total": 29,
       "translated": 23,
-      "lastDate": "2026-05-31T09:22:50+00:00"
+      "lastDate": "2026-06-05T15:53:37+00:00"
     },
     {
       "name": "Financial Post",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-05T14:52:43.785Z"
+  "generatedAt": "2026-06-05T16:17:17.713Z"
 }
