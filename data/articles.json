@@ -220833,7 +220833,7 @@
         "tokenmaxxing"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T14:50:38.946Z",
       "created_at": "2026-06-05T14:50:38.946Z"
     },
@@ -220897,7 +220897,7 @@
         "Google Research"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T14:50:40.325Z",
       "created_at": "2026-06-05T14:50:40.325Z"
     },
@@ -220948,7 +220948,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T14:50:42.158Z",
       "created_at": "2026-06-05T14:50:42.158Z"
     },
@@ -221008,7 +221008,7 @@
         "spacex"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T16:13:12.151Z",
       "created_at": "2026-06-05T16:13:12.151Z"
     },
@@ -221289,7 +221289,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T16:13:18.746Z",
       "created_at": "2026-06-05T16:13:18.746Z"
     },
@@ -221309,6 +221309,373 @@
       "priority": "hot",
       "fetchedAt": "2026-06-05T16:13:19.217Z",
       "created_at": "2026-06-05T16:13:19.217Z"
+    },
+    {
+      "id": 10577,
+      "source": "The Verge AI",
+      "title_en": "This is your laptop… on AI",
+      "description_en": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops - and a completely new kind of laptop made to support it. It's all very interesting, but it raises the same question we have around so many AI products: Does anyone actually want t",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+      "image_url": null,
+      "pub_date": "2026-06-05T16:39:07.000Z",
+      "author": "David Pierce",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T17:16:21.429Z",
+      "created_at": "2026-06-05T17:16:21.429Z"
+    },
+    {
+      "id": 10578,
+      "source": "The Verge AI",
+      "title_en": "New York lawmakers pass one-year ban on new data centers",
+      "description_en": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law.\nLawmakers behind the bill say it's meant to give policymakers time to understand the impact of large data centers on the environment and energy prices. It directs the state's environmental agency to create an impact report assessing the amount of electricity, water, and land that data centers use, and the pollution they ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+      "image_url": null,
+      "pub_date": "2026-06-05T15:25:10.000Z",
+      "author": "Lauren Feiner",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T17:16:21.429Z",
+      "created_at": "2026-06-05T17:16:21.429Z"
+    },
+    {
+      "id": 10579,
+      "source": "Ars Technica",
+      "title_en": "Trump admin tries again to revive dying coal industry",
+      "description_en": "Money would keep coal plants open, build the first new plants in over a decade.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/science/2026/06/trump-admin-tries-again-to-revive-dying-coal-industry/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2167660808-1152x648.jpg",
+      "pub_date": "Fri, 05 Jun 2026 15:55:14 +0000",
+      "author": "\n                    John Timmer\n                ",
+      "categories": [
+        "Policy",
+        "Science",
+        "coal",
+        "electricity",
+        "Energy",
+        "energy policy",
+        "Trump"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T17:16:21.477Z",
+      "created_at": "2026-06-05T17:16:21.477Z"
+    },
+    {
+      "id": 10580,
+      "source": "Ars Technica",
+      "title_en": "The Fitbit Air is a good wearable weighed down by a chatty AI \"coach\"",
+      "description_en": "The Air succeeds as a minimalist, reliable fitness tracker, but Google's AI Health Coach feels unnecessary.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Fitbit-Air-1-1152x648.jpg",
+      "pub_date": "Fri, 05 Jun 2026 15:40:48 +0000",
+      "author": "\n                    Ryan Whitwam\n                ",
+      "categories": [
+        "AI",
+        "Google",
+        "Reviews",
+        "Tech",
+        "Artificial Intelligence",
+        "generative ai",
+        "google",
+        "wearables"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T17:16:21.477Z",
+      "created_at": "2026-06-05T17:16:21.477Z"
+    },
+    {
+      "id": 10581,
+      "source": "The Guardian AI",
+      "title_en": "Labour will make AI ‘work for the workers’, says Liz Kendall",
+      "description_en": "Technology secretary promises to support people whose jobs are swept away by automation\nLiz Kendall has insisted Labour will make artificial intelligence “work for workers”, and not abandon people whose jobs are swept away by its rapid advance.\nWith public fears mounting about the impact of AI on employment, particularly for young people, the technology secretary claimed that the government could shape the way it is adopted.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/05/labour-will-make-ai-work-for-workers-liz-kendall",
+      "image_url": "https://i.guim.co.uk/img/media/6e1c2389d660df5b46402b1141bfc14cae25429a/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=81bbece985446989e7d6c29242a2f97c",
+      "pub_date": "Fri, 05 Jun 2026 17:00:04 GMT",
+      "author": "Heather Stewart Economics editor",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Liz Kendall",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/liz-kendall"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Labour",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/labour"
+          }
+        },
+        {
+          "_": "Social media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/social-media"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Youth unemployment",
+          "$": {
+            "domain": "https://www.theguardian.com/society/youth-unemployment"
+          }
+        },
+        {
+          "_": "Young people",
+          "$": {
+            "domain": "https://www.theguardian.com/society/youngpeople"
+          }
+        },
+        {
+          "_": "Apprenticeships",
+          "$": {
+            "domain": "https://www.theguardian.com/education/apprenticeships"
+          }
+        },
+        {
+          "_": "Unemployment",
+          "$": {
+            "domain": "https://www.theguardian.com/society/unemployment"
+          }
+        },
+        {
+          "_": "Society",
+          "$": {
+            "domain": "https://www.theguardian.com/society/society"
+          }
+        },
+        {
+          "_": "Education",
+          "$": {
+            "domain": "https://www.theguardian.com/education/education"
+          }
+        },
+        {
+          "_": "Digital media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/digital-media"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/media"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T17:16:23.524Z",
+      "created_at": "2026-06-05T17:16:23.524Z"
+    },
+    {
+      "id": 10582,
+      "source": "Interesting Engineering",
+      "title_en": "Worsening ISS leak repair triggers Crew Dragon shelter order, alert later lifted",
+      "description_en": "NASA briefly ordered five astronauts aboard the International Space Station (ISS) to prepare for a...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/space/iss-air-leak-evacuation-alert-nasa-roscosmos",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 17:10:41 +0000",
+      "author": "Neetika Walter",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T17:16:24.101Z",
+      "created_at": "2026-06-05T17:16:24.101Z"
+    },
+    {
+      "id": 10583,
+      "source": "Interesting Engineering",
+      "title_en": "NTU Singapore develops solvent-free process to recycle multilayer plastic packaging",
+      "description_en": "Scientists in Singapore have developed a new recycling technique that could make it easier to...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/solvent-recycling-plastic-waste",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 16:54:27 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T17:16:24.101Z",
+      "created_at": "2026-06-05T17:16:24.101Z"
+    },
+    {
+      "id": 10584,
+      "source": "Tom's Hardware",
+      "title_en": "NSA using Claude Mythos for 'offensive cyber operations,' report claims — says 'half-a-dozen' Anthropic engineers embedded inside the agency",
+      "description_en": "US National Security Agency reportedly using Mythos for conducting cyber-attacks — report reveals Anthropic engineers inside the NSA",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nsa-using-clause-mythos-for-offensive-cyber-operations-report-claims-says-half-a-dozen-anthropic-engineers-embedded-inside-the-agency",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/7g5sP2AEjdZFq6iAFvarpE-1280-80.jpg",
+      "pub_date": "Fri, 05 Jun 2026 16:53:46 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T17:16:24.558Z",
+      "created_at": "2026-06-05T17:16:24.558Z"
+    },
+    {
+      "id": 10585,
+      "source": "CNBC Tech",
+      "title_en": "Model routing is a fix for AI overspending. That's a problem for OpenAI and Anthropic",
+      "description_en": "Companies are shifting from running everything on the most powerful AI model to matching each task to the right one, a practice called model routing.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/05/model-routing-on-ai-is-a-problem-for-openai-and-anthropic.html",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 17:06:49 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T17:16:24.673Z",
+      "created_at": "2026-06-05T17:16:24.673Z"
+    },
+    {
+      "id": 10586,
+      "source": "CNBC Tech",
+      "title_en": "Apple's WWDC: Tim Cook's AI legacy at stake in his final developer conference as CEO",
+      "description_en": "Apple heads into WWDC with Tim Cook’s AI legacy, Siri’s future as an agentic platform, and the stock’s rich valuation all on the line.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/05/apple-wwdc-tim-cook-ai-siri-ternus.html",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 16:59:20 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T17:16:24.673Z",
+      "created_at": "2026-06-05T17:16:24.673Z"
+    },
+    {
+      "id": 10587,
+      "source": "CNBC Tech",
+      "title_en": "Cramer says 'cooling market' presents a chance to buy knocked-down AI stocks",
+      "description_en": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/05/cramer-cooling-market-offers-a-chance-to-buy-knocked-down-ai-stocks.html",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 16:44:30 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T17:16:24.673Z",
+      "created_at": "2026-06-05T17:16:24.673Z"
+    },
+    {
+      "id": 10588,
+      "source": "XOR Journal (TG)",
+      "title_en": "И чтоб без ошибок! 🤣@xor_journal",
+      "description_en": "И чтоб без ошибок! 🤣@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9463",
+      "image_url": null,
+      "pub_date": "2026-06-05T16:29:26+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T17:16:26.251Z",
+      "created_at": "2026-06-05T17:16:26.251Z"
+    },
+    {
+      "id": 10589,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Anthropic предлагает всему миру замедлить разработку ИИ, пока тот не начал совершенствовать сам себя  Компания опубликовала доклад, где сообщила, что современный мир ещё не готов к нынешнему темпу раз",
+      "description_en": "Anthropic предлагает всему миру замедлить разработку ИИ, пока тот не начал совершенствовать сам себя  Компания опубликовала доклад, где сообщила, что современный мир ещё не готов к нынешнему темпу развития ИИ.Согласно докладу, ИИ уже сейчас бодро разрабатывает сам себя: более 80 % кода, который использует Anthropic, пишет сам Claude. Люди всё ещё нужны, чтобы ставить цели и мыслить шире поставленной задачи, но с разработкой, поиском и исправлением багов нейросеть справляется с каждым разом лучше",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33423",
+      "image_url": "https://cdn4.telesco.pe/file/BS1pN2BBYZ3HJed_YhtgBc6NFIdUt7-Q1wM4bayN4Ly5lVGySpWISyKShS-mY9QBxK3qtlUE2KPEXI-HUFohp2_xgOc4ijaa7IrbUnAnxMntDL-R-KB3mxaf2c1REfg78oRtD9ua-7F4hocqisHO4jq1AyK1EW7Nx0zsTKUnuHsfGwzOtQBOe2wUukUFHzSjip00CoG0TqIHUJvd3XEb9lr4qKJwrpyCH4bLxne1oAzRVZw0-wEeyKt3skf9LKBcmqB6zAN3pnB2svt34QGNc26ljRq9fG2kdnOQRsFDFFikY11tnicma_dfjPQERdV95hcSVbp0CEeEjf_e9DUJ0Q.jpg",
+      "pub_date": "2026-06-05T16:21:14+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T17:16:26.280Z",
+      "created_at": "2026-06-05T17:16:26.280Z"
+    },
+    {
+      "id": 10590,
+      "source": "Prompt AI News (TG)",
+      "title_en": "⚡️ Anthropic's Mythos hits 52x on training code. Humans top out at 4x.Anthropic runs the same test every release: optimize training code. Skilled human, 4-8 hours, gets 4x. Claude Opus 4 averaged 3x i",
+      "description_en": "⚡️ Anthropic's Mythos hits 52x on training code. Humans top out at 4x.Anthropic runs the same test every release: optimize training code. Skilled human, 4-8 hours, gets 4x. Claude Opus 4 averaged 3x in May 2025. Mythos Preview hit 52x by April 2026.Anthropic frames it as a possible path to recursive self-improvement, but admits Claude still hasn't shown the research taste to pick which problems matter.Narrow task, lab conditions, unreleased model. Still a brutal trendline.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/163",
+      "image_url": null,
+      "pub_date": "2026-06-05T16:54:34+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T17:16:27.418Z",
+      "created_at": "2026-06-05T17:16:27.418Z"
     }
   ]
 }
