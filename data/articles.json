@@ -219684,9 +219684,255 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T03:43:26.998Z",
       "created_at": "2026-06-05T03:43:26.998Z"
+    },
+    {
+      "id": 10501,
+      "source": "TechCrunch AI",
+      "title_en": "Mira Murati steps back into the spotlight, carefully",
+      "description_en": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 05:06:37 +0000",
+      "author": "Connie Loizos",
+      "categories": [
+        "AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T06:05:28.898Z",
+      "created_at": "2026-06-05T06:05:28.898Z"
+    },
+    {
+      "id": 10502,
+      "source": "New Atlas",
+      "title_en": "“Bootstrap” physics study claims string theory might be inevitable after all",
+      "description_en": "String theory is perhaps the greatest tragedy of modern science. Mathematically elegant and celebrated savior of divided physics, it is nonetheless crippled by one simple fact – it is utterly untestable.\nContinue Reading\nCategory: Physics, Science\nTags: string theory, relativity, Quantum Physics, Particle physics",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/physics/bootstrap-physics-string-theory/",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 05:02:00 GMT",
+      "author": "Mike McRae",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T06:05:30.757Z",
+      "created_at": "2026-06-05T06:05:30.757Z"
+    },
+    {
+      "id": 10503,
+      "source": "New Atlas",
+      "title_en": "Panoramic Ford F camper truck costs a fraction of the competition",
+      "description_en": "Bigger name brands like Earthroamer and Winnebago might get more hype, but Supertramp has been quietly launching some of the market's sleekest, most compelling expedition campers since the Flagship LT debuted in 2021. At this point, other companies might start trying to diversify with a new style of RV, e.g. an adventure camper van, but Supertramp instead brings adventure van-level comfort and pricing to the back of a snarling Ford Super Duty truck. Its all-new Paragon might just be the absolute",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/rvs-motorhomes/supertramp-paragon-ford-f-series-camper/",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 04:31:45 GMT",
+      "author": "C.C. Weiss",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T06:05:30.757Z",
+      "created_at": "2026-06-05T06:05:30.757Z"
+    },
+    {
+      "id": 10504,
+      "source": "The Guardian AI",
+      "title_en": "New claimants seek to sue Elon Musk’s xAI after Labour MP’s test case",
+      "description_en": "Jess Asato’s lawyer says others want to take action over demeaning sexualised material created by Grok AI tool\nNew claimants have come forward to take legal action against Elon Musk’s company xAI after the Labour MP Jess Asato launched a test case against the firm over demeaning sexualised material created by its Grok AI tool.\nA handful of complainants contacted Asato’s lawyer on Thursday in response to coverage of the MP’s decision to sue Musk’s company for damages over its creation and circula",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/05/grok-ai-elon-musk-jess-asato-labour-mp-lawsuit",
+      "image_url": "https://i.guim.co.uk/img/media/f0df3336cb7fb1923c1e80a0755ab67cb667626d/404_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=bb74c9f6f84261f19c67c51b4c4420bb",
+      "pub_date": "Fri, 05 Jun 2026 06:00:28 GMT",
+      "author": "Amelia Gentleman",
+      "categories": [
+        {
+          "_": "Grok AI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/grok-ai"
+          }
+        },
+        {
+          "_": "X",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/twitter"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T06:05:30.780Z",
+      "created_at": "2026-06-05T06:05:30.780Z"
+    },
+    {
+      "id": 10505,
+      "source": "The Guardian AI",
+      "title_en": "A uni professor admitted using AI to write an opinion piece. Here’s what it revealed about trust in the technology",
+      "description_en": "Without disclosing that work has been generated using the technology, faith in existing industries will continue to be undermined \n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcas\n\nWhen a university vice-chancellor this week admitted to using AI in writing an opinion piece for a major Australian masthead, but did not disclose that use prior to publication, it highlighted the growing gap between people’s use of AI and trust in the",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/australia-news/2026/jun/05/trust-in-ai-roy-morgan-australia-university-professor-opinion-piece-technology",
+      "image_url": "https://i.guim.co.uk/img/media/f407e25401074b0d9b8e2c21e82c592c40e9f9f0/512_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=b957a7fcf2ffb37f8d972e65ce799d6e",
+      "pub_date": "Fri, 05 Jun 2026 04:49:15 GMT",
+      "author": "Josh Taylor Technology reporter",
+      "categories": [
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        },
+        {
+          "_": "ChatGPT",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatgpt"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T06:05:30.780Z",
+      "created_at": "2026-06-05T06:05:30.780Z"
+    },
+    {
+      "id": 10506,
+      "source": "CNBC Tech",
+      "title_en": "China may move toward U.S. path on AI as firms poach employees",
+      "description_en": "Tencent Chief AI Scientist Yao Shunyu, who joined the company from OpenAI, said Friday he aims to pursue artificial general intelligence.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/05/china-may-move-toward-us-path-on-ai-as-firms-poach-employees.html",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 05:46:04 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T06:05:32.134Z",
+      "created_at": "2026-06-05T06:05:32.134Z"
+    },
+    {
+      "id": 10507,
+      "source": "CNBC Tech",
+      "title_en": "Tracking website, food watch: South Korea is obsessing over Nvidia CEO Jensen Huang's visit",
+      "description_en": "South Korean investors are eagerly tracking Nvidia CEO Jensen Huang's every move as they wait to see what the AI megacap company will do next.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/05/south-korea-is-obsessing-over-nvidia-ceo-jensen-huangs-visit.html",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 04:40:31 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T06:05:32.134Z",
+      "created_at": "2026-06-05T06:05:32.134Z"
+    },
+    {
+      "id": 10508,
+      "source": "XOR Journal (TG)",
+      "title_en": "Забираем пушистика: разраб создал пиксельного кота, который живет на вашем рабочем столе 😁Он гуляет по экрану, следит и иногда охотится на курсор, мурчит, если его погладить, и умильно печатает вмест",
+      "description_en": "Забираем пушистика: разраб создал пиксельного кота, который живет на вашем рабочем столе 😁Он гуляет по экрану, следит и иногда охотится на курсор, мурчит, если его погладить, и умильно печатает вместе с вами. Из полезного — напоминает размяться, показывать Pomodoro-таймер и умеет отображать статус работы ваших агентов. Идеальный компаньон во время работы 😊@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9458",
+      "image_url": null,
+      "pub_date": "2026-06-05T05:50:07+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T06:05:34.084Z",
+      "created_at": "2026-06-05T06:05:34.084Z"
+    },
+    {
+      "id": 10509,
+      "source": "Habr (TG)",
+      "title_en": "«Я выпустил нейросеть в реальный мир — и стало не смешно»Связка из платы Arduino, дальномера, камеры и пневматического пистолета стала полигоном для тестирования физической автономности Claude, GPT, G",
+      "description_en": "«Я выпустил нейросеть в реальный мир — и стало не смешно»Связка из платы Arduino, дальномера, камеры и пневматического пистолета стала полигоном для тестирования физической автономности Claude, GPT, Grok и Gemini. Агентный цикл перевёл текстовые модели в режим принятия решений в реальном времени. Эксперимент показал, что ролевой промпт меняет не просто стиль общения, а архитектуру намерений и базовые предохранители нейросетей.Поведение моделей в одинаковых физических условиях выявляет критически",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/68817",
+      "image_url": "https://cdn4.telesco.pe/file/GvExaS4Ah-_13oYE3ki36Y8s_aDS9rYaAyqywsd-NE4mIuvx0VKNOY7WDzlmfKtsSal9UphhG-hRKr8EEovz78ZpFjOnxpZYQIi8aMLTgKg8fU1giL3UzqD13uz6SNdNLit44kT7JuUe6K4KZQHLha3eWaSKhu5mRV4NzZkAuJ-CAgY3n-Uv6yujAwPwG0l86uiz7zwlZpBz1aMkSrXbKLxk9jmbsLEu8YB-uVKgqSyXyBVOPGAWJobcM7pRMaGruGCz77P5B4TafY2-GOXqD-_LRhOFwcjU6iuLl7ACwJnDFrtwV-BBOdD58-lM-PQscWTnTbeHO1J_9xLGJTkCoQ.jpg",
+      "pub_date": "2026-06-05T05:02:04+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T06:05:34.629Z",
+      "created_at": "2026-06-05T06:05:34.629Z"
+    },
+    {
+      "id": 10510,
+      "source": "AI Post (TG)",
+      "title_en": "📢 Top AI CEOs urge Congress to strengthen safeguards around synthetic DNAA group of leading AI executives including Sam Altman, Dario Amodei, and Demis Hassabis have signed a letter calling on Congre",
+      "description_en": "📢 Top AI CEOs urge Congress to strengthen safeguards around synthetic DNAA group of leading AI executives including Sam Altman, Dario Amodei, and Demis Hassabis have signed a letter calling on Congress to tighten oversight of synthetic DNA orders and the machines used to manufacture them.Their concern is straightforward: as AI systems become more capable, they could lower the expertise required to navigate parts of the biological research and development process.The warning is notable because i",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7129",
+      "image_url": "https://cdn4.telesco.pe/file/sWgDcT7kBbydfpi04a-6broYxjhbUKQkDrdufF6bTmZFpNASLpR7PtAJGd9P2RVKwok82ppcPkO0mUl_qRIyyCHaF9v0w7rqhDw5pDIdk9Npcbw_7XkcECydrqDR6FbYkjiZ_rP9MTXbkQqDrzZl7SUrxNnScvtWb6oCaW6pWCbjgCDAmHS5iGHadyYqtqeaZejck3W4NbeT_4DvR80lIiW25Ae8exscnjL9KUUsJiJBv9_wF0cXyRxcggFrZXHsUVA3GI49jcpXEVa6DID97Wj3TEWl-RQX_FYiDtH0xFxHZWSvtycIO7zhy8QYL8ag1czfwnj5N9gQyRTFVmUifw.jpg",
+      "pub_date": "2026-06-05T05:41:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T06:05:34.890Z",
+      "created_at": "2026-06-05T06:05:34.890Z"
     }
   ]
 }
