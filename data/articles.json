@@ -221030,7 +221030,7 @@
         "Microsoft"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T16:13:13.463Z",
       "created_at": "2026-06-05T16:13:13.463Z"
     },
@@ -221078,7 +221078,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T16:13:14.386Z",
       "created_at": "2026-06-05T16:13:14.386Z"
     },
@@ -221144,7 +221144,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T16:13:14.386Z",
       "created_at": "2026-06-05T16:13:14.386Z"
     },
@@ -221161,7 +221161,7 @@
       "author": "Atharva Gosavi",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T16:13:15.328Z",
       "created_at": "2026-06-05T16:13:15.328Z"
     },
@@ -221178,7 +221178,7 @@
       "author": "Atharva Gosavi",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T16:13:15.328Z",
       "created_at": "2026-06-05T16:13:15.328Z"
     },
@@ -221195,7 +221195,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T16:13:15.882Z",
       "created_at": "2026-06-05T16:13:15.882Z"
     },
@@ -221215,7 +221215,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T16:13:16.153Z",
       "created_at": "2026-06-05T16:13:16.153Z"
     },
@@ -221235,7 +221235,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T16:13:16.153Z",
       "created_at": "2026-06-05T16:13:16.153Z"
     },
@@ -221255,7 +221255,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T16:13:16.153Z",
       "created_at": "2026-06-05T16:13:16.153Z"
     },
@@ -221272,7 +221272,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T16:13:18.520Z",
       "created_at": "2026-06-05T16:13:18.520Z"
     },
@@ -221306,7 +221306,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T16:13:19.217Z",
       "created_at": "2026-06-05T16:13:19.217Z"
     },
@@ -221340,7 +221340,7 @@
       "author": "Lauren Feiner",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T17:16:21.429Z",
       "created_at": "2026-06-05T17:16:21.429Z"
     },
@@ -221365,7 +221365,7 @@
         "Trump"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T17:16:21.477Z",
       "created_at": "2026-06-05T17:16:21.477Z"
     },
@@ -221391,7 +221391,7 @@
         "wearables"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T17:16:21.477Z",
       "created_at": "2026-06-05T17:16:21.477Z"
     },
@@ -221676,6 +221676,146 @@
       "priority": "hot",
       "fetchedAt": "2026-06-05T17:16:27.418Z",
       "created_at": "2026-06-05T17:16:27.418Z"
+    },
+    {
+      "id": 10591,
+      "source": "Ars Technica",
+      "title_en": "Review: Spider-Noir recaptures the magic of a bygone era",
+      "description_en": "Nicolas Cage was born to play 1930s PI Ben Reilly/The Spider: part Bogart, part Bugs Bunny, 100% Cage-y.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/culture/2026/06/review-spider-noir-recaptures-the-magic-of-a-bygone-era/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/noirTOP-1152x648.jpg",
+      "pub_date": "Fri, 05 Jun 2026 17:05:02 +0000",
+      "author": "\n                    Jennifer Ouellette\n                ",
+      "categories": [
+        "Culture",
+        "entertainment",
+        "Nicolas Cage",
+        "prime video",
+        "reviews",
+        "Spider-Noir",
+        "streaming television"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T18:14:35.544Z",
+      "created_at": "2026-06-05T18:14:35.544Z"
+    },
+    {
+      "id": 10592,
+      "source": "TechCrunch AI",
+      "title_en": "The most interesting startups right now want to get you off your phone",
+      "description_en": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction.  Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going viral crafting whimsical DIY computers that literally encourage users to touch grass. Unlike the AI-free browser crowd, this doesn’t just feel like backlash, […]",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 17:17:06 +0000",
+      "author": "Theresa Loconsolo",
+      "categories": [
+        "AI",
+        "Hardware",
+        "Startups",
+        "anthropic ipo",
+        "board",
+        "Brynn Putnam",
+        "climate tech vc",
+        "cyberdeck",
+        "Equity",
+        "impulse space",
+        "Roundup",
+        "slow tech",
+        "together tech"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T18:14:35.560Z",
+      "created_at": "2026-06-05T18:14:35.560Z"
+    },
+    {
+      "id": 10593,
+      "source": "TechCrunch AI",
+      "title_en": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
+      "description_en": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction.  Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going viral crafting whimsical DIY computers that literally encourage users to touch grass. Unlike the AI-free browser crowd, this doesn’t just feel like backlash, […]",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 14:00:00 +0000",
+      "author": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Sean O'Kane",
+      "categories": [
+        "AI",
+        "Hardware",
+        "Startups",
+        "anthropic ipo",
+        "board",
+        "Brynn Putnam",
+        "climate tech vc",
+        "cyberdeck",
+        "Equity",
+        "Equity podcast",
+        "hardware",
+        "impulse space",
+        "Roundup",
+        "slow tech",
+        "together tech"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-05T18:14:35.560Z",
+      "created_at": "2026-06-05T18:14:35.560Z"
+    },
+    {
+      "id": 10594,
+      "source": "CNBC Tech",
+      "title_en": "Trump administration, OpenAI discussing possible government stake in the AI startup",
+      "description_en": "OpenAI CEO Sam Altman first shared the idea with the Trump administration in 2025, according to a source.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/05/trump-open-ai-altman-stake.html",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 18:09:33 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T18:14:38.547Z",
+      "created_at": "2026-06-05T18:14:38.547Z"
+    },
+    {
+      "id": 10595,
+      "source": "CNBC Tech",
+      "title_en": "Apple stock is coming hot into next week's WWDC. How the company can meet the moment",
+      "description_en": "When it comes to Apple and what investors in the stock at these levels care about, it is all about Apple Intelligence",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/05/apple-stock-is-coming-hot-into-next-weeks-wwdc-how-the-company-can-meet-the-moment.html",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 17:43:53 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T18:14:38.547Z",
+      "created_at": "2026-06-05T18:14:38.547Z"
+    },
+    {
+      "id": 10596,
+      "source": "AI Post (TG)",
+      "title_en": "🇦🇷 Argentina wants to give AI its own companiesWhile much of the world is debating how to regulate AI, Argentine President Javier Milei is proposing something far more radical.In a Financial Times c",
+      "description_en": "🇦🇷 Argentina wants to give AI its own companiesWhile much of the world is debating how to regulate AI, Argentine President Javier Milei is proposing something far more radical.In a Financial Times column, Milei unveiled a plan to turn Argentina into a global AI hub built on three ideas:• Keep AI largely free from regulation.• Create “non-human corporations” that can be run by AI agents or robots.• Offer low taxes and business-friendly rules to attract founders and investors.The most surprising",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7136",
+      "image_url": null,
+      "pub_date": "2026-06-05T17:22:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T18:14:40.585Z",
+      "created_at": "2026-06-05T18:14:40.585Z"
     }
   ]
 }
