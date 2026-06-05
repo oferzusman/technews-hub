@@ -221965,7 +221965,7 @@
         "TechCrunch Disrupt 2026"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T20:15:50.293Z",
       "created_at": "2026-06-05T20:15:50.293Z"
     },
@@ -221982,7 +221982,7 @@
       "author": "Utkarsh Sood",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T20:15:52.849Z",
       "created_at": "2026-06-05T20:15:52.849Z"
     },
@@ -221999,7 +221999,7 @@
       "author": "Kaif Shaikh",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T20:15:53.528Z",
       "created_at": "2026-06-05T20:15:53.528Z"
     },
@@ -222016,7 +222016,7 @@
       "author": "Georgina Jedikovska",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T20:15:53.528Z",
       "created_at": "2026-06-05T20:15:53.528Z"
     },
@@ -222033,7 +222033,7 @@
       "author": "Neetika Walter",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T20:15:53.528Z",
       "created_at": "2026-06-05T20:15:53.528Z"
     },
@@ -222050,7 +222050,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T20:15:54.065Z",
       "created_at": "2026-06-05T20:15:54.065Z"
     },
@@ -222067,7 +222067,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T20:15:57.885Z",
       "created_at": "2026-06-05T20:15:57.885Z"
     },
@@ -222160,7 +222160,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T21:07:58.092Z",
       "created_at": "2026-06-05T21:07:58.092Z"
     },
@@ -222214,6 +222214,40 @@
       "priority": "hot",
       "fetchedAt": "2026-06-05T21:47:55.915Z",
       "created_at": "2026-06-05T21:47:55.915Z"
+    },
+    {
+      "id": 10617,
+      "source": "CNBC Tech",
+      "title_en": "Cramer’s week ahead: Stocks face pressure from rates, oil, and a flood of new offerings",
+      "description_en": "CNBC’s Jim Cramer warned that rising interest rates, elevated oil prices, and a wave of AI-related stock offerings could continue to pressure the market.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/05/cramers-week-ahead-stocks-face-pressure-from-rates-oil-and-a-flood-of-new-offerings.html",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 22:27:16 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T22:41:43.528Z",
+      "created_at": "2026-06-05T22:41:43.528Z"
+    },
+    {
+      "id": 10618,
+      "source": "Prompt AI News (TG)",
+      "title_en": "⚡️ Google is renting $920M/month of compute from SpaceX110,000 Nvidia GPUs, CPUs, memory, the whole stack, Oct 2026 through June 2029.Google is already the world's largest single owner of AI compute, ",
+      "description_en": "⚡️ Google is renting $920M/month of compute from SpaceX110,000 Nvidia GPUs, CPUs, memory, the whole stack, Oct 2026 through June 2029.Google is already the world's largest single owner of AI compute, but demand still caught them short. Anthropic just signed a similar deal at $1.25B/month for the Colossus 1 cluster.xAI built those data centers to run Grok. Now it's renting them to its biggest rivals. Honestly, not a bad pivot.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/164",
+      "image_url": null,
+      "pub_date": "2026-06-05T22:32:18+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T22:41:49.080Z",
+      "created_at": "2026-06-05T22:41:49.080Z"
     }
   ]
 }
