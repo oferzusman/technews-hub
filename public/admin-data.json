@@ -1,9 +1,9 @@
 {
-  "total": 10613,
+  "total": 10616,
   "translated": 8824,
-  "untranslated": 1789,
-  "today": 115,
-  "week": 827,
+  "untranslated": 1792,
+  "today": 118,
+  "week": 830,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 799,
+      "total": 800,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -103,9 +103,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 239,
+      "total": 240,
       "translated": 119,
-      "lastDate": "2026-06-05T16:29:26+00:00"
+      "lastDate": "2026-06-05T21:20:11+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -127,9 +127,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 106,
+      "total": 107,
       "translated": 68,
-      "lastDate": "2026-06-04T19:59:59+00:00"
+      "lastDate": "2026-06-05T21:32:00+00:00"
     },
     {
       "name": "AI News",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-05T21:09:59.152Z"
+  "generatedAt": "2026-06-05T21:53:32.502Z"
 }
