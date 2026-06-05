@@ -219737,7 +219737,7 @@
       "author": "C.C. Weiss",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T06:05:30.757Z",
       "created_at": "2026-06-05T06:05:30.757Z"
     },
@@ -219879,7 +219879,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T06:05:32.134Z",
       "created_at": "2026-06-05T06:05:32.134Z"
     },
@@ -219933,6 +219933,40 @@
       "priority": "hot",
       "fetchedAt": "2026-06-05T06:05:34.890Z",
       "created_at": "2026-06-05T06:05:34.890Z"
+    },
+    {
+      "id": 10511,
+      "source": "Interesting Engineering",
+      "title_en": "Russia to develop supersonic passenger jet to travel at Mach 1 speed, prototype in progress",
+      "description_en": "Russia is making efforts to develop supersonic passenger jet, according to a report. United Aircraft...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/russia-supersonic-passenger-jet-development",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 06:25:12 +0000",
+      "author": "Prabhat Ranjan Mishra",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T06:42:14.802Z",
+      "created_at": "2026-06-05T06:42:14.802Z"
+    },
+    {
+      "id": 10512,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🎮 Roblox хотят превратить в ИИ-игруRoblox приобрел разработчика «моделей мира» Morpheus AI — нейросетей для генерации интерактивных 3D-миров в реальном времени.Кроме того, ранее к Roblox присоединили",
+      "description_en": "🎮 Roblox хотят превратить в ИИ-игруRoblox приобрел разработчика «моделей мира» Morpheus AI — нейросетей для генерации интерактивных 3D-миров в реальном времени.Кроме того, ранее к Roblox присоединились основатели Dynamics Lab и Lucid AI — двух других видных стартапов из области «моделей мира».Все поглощенные команды будут работать над единой архитектурой Roblox Reality, которая объединит ИИ-генерацию в реальном времени с существующим движком игры, сохраняя логику и возможность мультиплеера.«Это",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3283",
+      "image_url": "https://cdn4.telesco.pe/file/kTyFuPF93QJcwDCa5IEzRGVkaxW7kRUXNgIbaN9GcdVm95efkJ8FmERfhnsVZymBZV0P2JPbJKJPGWv9OYkW86K1IuVmnm29N8L07g5C7VoYaF9c-DNl5NEsciBEtL6bMMnWRH_uz14ovlpNNJ_iVEFVxiK-vXe5uqJOxfUdCZiBHXJTACFw1dCP2WsOITeGdJDksgig5KsCLHjEbhHSDHhFECIxGEamtTyze68q5TPlF6C7To_o0JUot417iYbAWFgPGjYhjelJCIffNnN38Ug38x6WeICiTSyl8NUsetT2MeqBpJcpsjmto8ChwRNdxRa40LGldRigQUGcvMDrAw.jpg",
+      "pub_date": "2026-06-05T06:11:58+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T06:42:17.175Z",
+      "created_at": "2026-06-05T06:42:17.175Z"
     }
   ]
 }
