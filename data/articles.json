@@ -219947,7 +219947,7 @@
       "author": "Prabhat Ranjan Mishra",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T06:42:14.802Z",
       "created_at": "2026-06-05T06:42:14.802Z"
     },
@@ -219964,7 +219964,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T06:42:17.175Z",
       "created_at": "2026-06-05T06:42:17.175Z"
     },
@@ -219981,7 +219981,7 @@
       "author": "David Szondy",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T08:06:34.962Z",
       "created_at": "2026-06-05T08:06:34.962Z"
     },
@@ -220083,7 +220083,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T08:06:37.848Z",
       "created_at": "2026-06-05T08:06:37.848Z"
     },
@@ -220100,7 +220100,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T08:06:37.849Z",
       "created_at": "2026-06-05T08:06:37.849Z"
     },
@@ -220117,9 +220117,142 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T08:06:38.500Z",
       "created_at": "2026-06-05T08:06:38.500Z"
+    },
+    {
+      "id": 10522,
+      "source": "The Decoder",
+      "title_en": "Anthropic says Claude now writes over 90% of its code and wants the world to have an AI pause button",
+      "description_en": "Anthropic is sharing internal data showing how much Claude is speeding up its own AI development: more than 80 percent of production code now comes from Claude, and engineers are shipping eight times as much code per day as in 2024. The goal is AI that improves itself, which would trigger a massive acceleration. This is why Anthropic is now pushing for the option of a verifiable, global development pause. The company says it would stop if other frontier labs demonstrably do the same.\nThe article",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-says-claude-now-writes-over-90-of-its-code-and-wants-the-world-to-have-an-ai-pause-button/",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 08:45:29 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Claude"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T10:12:21.501Z",
+      "created_at": "2026-06-05T10:12:21.501Z"
+    },
+    {
+      "id": 10523,
+      "source": "MIT Technology Review",
+      "title_en": "Are AI chatbots making us lose control of our brains?",
+      "description_en": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital technologies. Early…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 09:00:00 +0000",
+      "author": "Jessica Hamzelou",
+      "categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T10:12:21.531Z",
+      "created_at": "2026-06-05T10:12:21.531Z"
+    },
+    {
+      "id": 10524,
+      "source": "New Atlas",
+      "title_en": "Thumbnail-sized thrusters could take CubeSats to Mars",
+      "description_en": "Engineers at MIT have successfully tested a hybrid propulsion system for small satellites that combines the raw punch of chemical rockets with the long-haul efficiency of electric thrusters – and crucially, both run on the same fuel. This tech could propel cheap, briefcase-sized spacecraft to Mars and beyond.\nContinue Reading\nCategory: Space Systems, Engineering\nTags: MIT, Satellite, CubeSat, NASA, Mars",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/space-systems/mit-thruster-ascent-cubesat-propulsion/",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 08:57:51 GMT",
+      "author": "Omar Kardoudi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T10:12:22.202Z",
+      "created_at": "2026-06-05T10:12:22.202Z"
+    },
+    {
+      "id": 10525,
+      "source": "Tom's Hardware",
+      "title_en": "Lightning strike enters apartment through coaxial internet cable, blows up gamer's PC — surge causes extensive damage to motherboard, destroys router, and leaves burn marks on the wall",
+      "description_en": "While direct lightning strikes are difficult to defend against, proper grounding and protection for coaxial and network lines can help reduce the risk of costly hardware damage.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/pc-building/lightning-strike-enters-apartment-through-coaxial-internet-cable-blows-up-gamers-pc-surge-causes-extensive-damage-to-motherboard-destroys-router-and-leaves-burn-marks-on-the-wall",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/MMXPigLKQSrbL6a84kdiec-1280-80.jpg",
+      "pub_date": "Fri, 05 Jun 2026 10:00:00 +0000",
+      "author": " Kunal Khullar ",
+      "categories": [
+        "PC Building",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T10:12:23.271Z",
+      "created_at": "2026-06-05T10:12:23.271Z"
+    },
+    {
+      "id": 10526,
+      "source": "Tom's Hardware",
+      "title_en": "Indiana mayor secretly recorded saying AI data center protestors only live in 'sh***y' houses — office issues statement of clarification over controversial comments",
+      "description_en": "Shelbyville mayor Scott Ferguson (R) made these remarks likelly without knowing that he was being recorded, and it has ignited a political firestorm in the small town.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/indiana-mayor-secretly-recorded-saying-ai-data-center-protestors-have-sh-y-unkempt-houses-office-issues-statement-of-clarification-over-controversial-comments",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/WtTnjkyz3pENxz2e4KNpq4-1280-80.png",
+      "pub_date": "Fri, 05 Jun 2026 09:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T10:12:23.271Z",
+      "created_at": "2026-06-05T10:12:23.271Z"
+    },
+    {
+      "id": 10527,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🔥 Открытый практикум по Claude Code без теорииCEO университета Зерокодер Кирилл Пшинник проведет открытый практикум по Claude Code — одному из лучших инструментов вайб-кодинга.Что вы узнаете:✅ Доступ",
+      "description_en": "🔥 Открытый практикум по Claude Code без теорииCEO университета Зерокодер Кирилл Пшинник проведет открытый практикум по Claude Code — одному из лучших инструментов вайб-кодинга.Что вы узнаете:✅ Доступ к Claude Code из России без блокировок — как установить, оплатить и настроить;✅ Как 15 ИИ-агентов могут выполнять ваши задачи, как работает переключение, контекст проекта;✅ Сайт с нуля за 15 минут — прямо на практикуме, от пустой папки до готовой страницы;✅ Дашборд и обработка таблиц — аналитика на",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3284",
+      "image_url": "https://cdn4.telesco.pe/file/eumO2KauX4Css8lhACOgnLg5iu3JfYhSjHQaZXNIPvqovWb_9yUw1uNl6f8DEHkDJibyDdNBRpy8uzu7rsM9Fs2WSqQX5dZojsBggeAmUPLhIrOXevLtgh9ZbakSO7nI_JZMWx8a5glfKe529M1keD5mUF8TjzY-pa2tKq3aiNE62ZYC_rgpuHoNXj7pG4EgSSo1RxT-OjAgkl3I9oHMYjf8pukm9q9ipYrhDSAe2qNgjcAVotsAWYRjjJ9nO0LSRXDnASXMxBmhQiONJEQd6xpKfvqy4s3ORnxjSX4qkGnhZXDKRvT3h9KolnWICoiZ67yC9Ckodgc6888EhQazvw.jpg",
+      "pub_date": "2026-06-05T10:00:14+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T10:12:25.378Z",
+      "created_at": "2026-06-05T10:12:25.378Z"
+    },
+    {
+      "id": 10528,
+      "source": "AI Post (TG)",
+      "title_en": "⚡️ AI is now doing your grocery runs.Gopuff launched an AI shopping assistant called \"Go,\" built with SpaceXAI. You say what you need. It handles the rest.@aipost 🏴",
+      "description_en": "⚡️ AI is now doing your grocery runs.Gopuff launched an AI shopping assistant called \"Go,\" built with SpaceXAI. You say what you need. It handles the rest.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7132",
+      "image_url": null,
+      "pub_date": "2026-06-05T08:20:19+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T10:12:25.520Z",
+      "created_at": "2026-06-05T10:12:25.520Z"
     }
   ]
 }
