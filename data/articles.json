@@ -221323,7 +221323,7 @@
       "author": "David Pierce",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T17:16:21.429Z",
       "created_at": "2026-06-05T17:16:21.429Z"
     },
@@ -221517,7 +221517,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T17:16:23.524Z",
       "created_at": "2026-06-05T17:16:23.524Z"
     },
@@ -221534,7 +221534,7 @@
       "author": "Neetika Walter",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T17:16:24.101Z",
       "created_at": "2026-06-05T17:16:24.101Z"
     },
@@ -221551,7 +221551,7 @@
       "author": "Kaif Shaikh",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T17:16:24.101Z",
       "created_at": "2026-06-05T17:16:24.101Z"
     },
@@ -221571,7 +221571,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T17:16:24.558Z",
       "created_at": "2026-06-05T17:16:24.558Z"
     },
@@ -221588,7 +221588,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T17:16:24.673Z",
       "created_at": "2026-06-05T17:16:24.673Z"
     },
@@ -221605,7 +221605,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T17:16:24.673Z",
       "created_at": "2026-06-05T17:16:24.673Z"
     },
@@ -221622,7 +221622,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T17:16:24.673Z",
       "created_at": "2026-06-05T17:16:24.673Z"
     },
@@ -221639,7 +221639,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T17:16:26.251Z",
       "created_at": "2026-06-05T17:16:26.251Z"
     },
@@ -221656,7 +221656,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T17:16:26.280Z",
       "created_at": "2026-06-05T17:16:26.280Z"
     },
@@ -221673,7 +221673,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T17:16:27.418Z",
       "created_at": "2026-06-05T17:16:27.418Z"
     },
@@ -221698,7 +221698,7 @@
         "streaming television"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T18:14:35.544Z",
       "created_at": "2026-06-05T18:14:35.544Z"
     },
@@ -221729,7 +221729,7 @@
         "together tech"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T18:14:35.560Z",
       "created_at": "2026-06-05T18:14:35.560Z"
     },
@@ -221816,6 +221816,129 @@
       "priority": "hot",
       "fetchedAt": "2026-06-05T18:14:40.585Z",
       "created_at": "2026-06-05T18:14:40.585Z"
+    },
+    {
+      "id": 10597,
+      "source": "TechCrunch AI",
+      "title_en": "Google will pay SpaceX $920M per month for compute",
+      "description_en": "The companies announced the deal on Friday, just one week ahead of SpaceX's historic IPO.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 18:57:20 +0000",
+      "author": "Sean O'Kane",
+      "categories": [
+        "AI",
+        "Space",
+        "Google",
+        "SpaceX"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T19:17:10.335Z",
+      "created_at": "2026-06-05T19:17:10.335Z"
+    },
+    {
+      "id": 10598,
+      "source": "Ars Technica",
+      "title_en": "S&P 500 blocks fast SpaceX entry, won’t waive rule for unprofitable AI firms",
+      "description_en": "SpaceX won’t get easy access to billions of dollars from passive investors.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/SpaceX-signage-1152x648.jpg",
+      "pub_date": "Fri, 05 Jun 2026 18:45:20 +0000",
+      "author": "\n                    Jeremy Hsu\n                ",
+      "categories": [
+        "AI",
+        "Policy",
+        "AI companies",
+        "Anthropic",
+        "Artificial Intelligence",
+        "openai",
+        "spacex",
+        "Stock Market",
+        "US stock market"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T19:17:10.491Z",
+      "created_at": "2026-06-05T19:17:10.491Z"
+    },
+    {
+      "id": 10599,
+      "source": "The Decoder",
+      "title_en": "Florida's lawsuit against OpenAI and CEO Altman treats ChatGPT as a defective product and public nuisance",
+      "description_en": "Florida is the first US state to sue OpenAI and CEO Sam Altman personally over risks to minors, missing age checks, and inadequate safety investment. The 83-page complaint treats ChatGPT as a product subject to liability and threatens billions in penalties. The legal approach could set a precedent for the entire chatbot industry.\nThe article Florida's lawsuit against OpenAI and CEO Altman treats ChatGPT as a defective product and public nuisance appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/floridas-lawsuit-against-openai-and-ceo-altman-treats-chatgpt-as-a-defective-product-and-public-nuisance/",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 18:19:31 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "ChatGPT",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T19:17:11.648Z",
+      "created_at": "2026-06-05T19:17:11.648Z"
+    },
+    {
+      "id": 10600,
+      "source": "CNBC Tech",
+      "title_en": "Meta's stock sinks on report company could raise tens of billions of dollars to fund AI push",
+      "description_en": "Meta shares dropped after the Financial Times reported that company could potentially raise tens of billions of dollars in a stock offering to help its AI push.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/05/meta-stock-sinks-on-report-company-could-raise-tens-of-billions-for-ai.html",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 19:05:58 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T19:17:16.267Z",
+      "created_at": "2026-06-05T19:17:16.267Z"
+    },
+    {
+      "id": 10601,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🚀 China Developed a Washing Machine for Astronauts—No Water, No DetergentIn space, water is scarce. Every drop is recycled and used for drinking and hygiene. So astronauts don't wash their clothes—th",
+      "description_en": "🚀 China Developed a Washing Machine for Astronauts—No Water, No DetergentIn space, water is scarce. Every drop is recycled and used for drinking and hygiene. So astronauts don't wash their clothes—they wear them until they can't anymore, then send them to burn up in the atmosphere along with cargo capsules.But engineers at the China Astronaut Research and Training Centre have recently developed a compact washing machine for use in microgravity.💻 The device is slightly larger than a suitcase an",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2558",
+      "image_url": "https://cdn4.telesco.pe/file/vXFNZKCye6OqK5fIq39igSHYFV0qwZIt2MxmCZrvm3KaDR_btB6fjmANnmaSFuc90cvvWXXdIOfua8_2UW4jqhWRph3U9lMQK_fl24vgXhGOprRXcyErLkFi1Lwdyt8YK0JULUCoPhHS8oBWyk85Jz7P-WwEh_1G-QXsss9sPcmJfAEIwH5GNx-LFZDrdw9xX36Ub14KqaKNee1L2Onpa5-gO5qU7sVirKzvkE1GK9OhcCAZdP3yXhKIht4M1m9abV856v_YXKvi2AQ16nBFKJQqzFjZKXOfEHGLCeGJnL86jx7rBa544Eq5AzskGATUkF8sgFjUJ5qNA9nN-Ebj-A.jpg",
+      "pub_date": "2026-06-05T18:46:14+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T19:17:17.819Z",
+      "created_at": "2026-06-05T19:17:17.819Z"
+    },
+    {
+      "id": 10602,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🚀 Стиральную машину для космонавтов без воды и порошка создали в КитаеНа орбите вода в дефиците. Каждая капля перерабатывается и идет на питье и гигиену. Поэтому космонавты не стирают одежду, а носят",
+      "description_en": "🚀 Стиральную машину для космонавтов без воды и порошка создали в КитаеНа орбите вода в дефиците. Каждая капля перерабатывается и идет на питье и гигиену. Поэтому космонавты не стирают одежду, а носят ее до последнего, а потом отправляют сгорать в атмосфере вместе с грузовыми капсулами.Но недавно инженеры из Китайского центра подготовки космонавтов разработали компактную стиральную машину для использования в невесомости.💻 Новый прибор размером чуть больше чемодана весит 12 кг. За один цикл он и",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3287",
+      "image_url": "https://cdn4.telesco.pe/file/c75MMag5QVx0RsTerEy9bCsyuPq9TDh6wDMTZYRvVOIm3bM67GyKXoZEIt7ojt2CgnRQQutfys5XhgP-1EtsDrJM9O5dlIpnrRZuiw_hTKHsuW2mvHUuAm9IVeEMvqz9tLwAgLRrODN0lAN9PfWxQ5BkWawS02HUUuUjzOtSKyuMD948L2n4-e4tjoT1EUJo9WvWw1HlBJM99PrZKMYAjbVfZyuv2sZg6e-UR-cPev9XnnQGNtgeqKUl6pyYunrxAaKY3BW5PeQMKDtdoW9WqJ3NZAeNXO8wz4xrDJwFLhcnGlvev6zOhC0sKnHRZYH2jj7bQkPHlkItSZ5nbgCNVw.jpg",
+      "pub_date": "2026-06-05T18:42:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T19:17:17.873Z",
+      "created_at": "2026-06-05T19:17:17.873Z"
     }
   ]
 }
