@@ -220476,7 +220476,7 @@
         "workflow automation"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T11:41:50.440Z",
       "created_at": "2026-06-05T11:41:50.440Z"
     },
@@ -220497,7 +220497,7 @@
         "Security Software"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T11:41:50.708Z",
       "created_at": "2026-06-05T11:41:50.708Z"
     },
@@ -220517,7 +220517,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T11:41:50.708Z",
       "created_at": "2026-06-05T11:41:50.708Z"
     },
@@ -220592,7 +220592,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T11:41:50.738Z",
       "created_at": "2026-06-05T11:41:50.738Z"
     },
@@ -220704,7 +220704,7 @@
         "Microsoft"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T13:27:43.668Z",
       "created_at": "2026-06-05T13:27:43.668Z"
     },
@@ -220723,7 +220723,7 @@
         "The Download"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T13:27:43.766Z",
       "created_at": "2026-06-05T13:27:43.766Z"
     },
@@ -220760,7 +220760,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T13:27:45.665Z",
       "created_at": "2026-06-05T13:27:45.665Z"
     },
@@ -220777,7 +220777,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T13:27:46.970Z",
       "created_at": "2026-06-05T13:27:46.970Z"
     },
@@ -220794,7 +220794,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T13:27:47.015Z",
       "created_at": "2026-06-05T13:27:47.015Z"
     },
@@ -220814,6 +220814,177 @@
       "priority": "hot",
       "fetchedAt": "2026-06-05T13:27:47.468Z",
       "created_at": "2026-06-05T13:27:47.468Z"
+    },
+    {
+      "id": 10556,
+      "source": "TechCrunch AI",
+      "title_en": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "description_en": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 14:49:12 +0000",
+      "author": "Rebecca Bellan",
+      "categories": [
+        "AI",
+        "ai tokens",
+        "linux foundation",
+        "tokenmaxxing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T14:50:38.946Z",
+      "created_at": "2026-06-05T14:50:38.946Z"
+    },
+    {
+      "id": 10557,
+      "source": "The Verge AI",
+      "title_en": "This AI startup says it can tell if a script will make a hit film",
+      "description_en": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to experiment with Quilty's product, though, they were left skeptical. Even with all the available data in the world, it predicted the script for Christy, which would go on to be a box office flop, would outperform the script for Sinners, which became an Oscar-winning blockbuster.\nAs many AI execs have",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
+      "image_url": null,
+      "pub_date": "2026-06-05T13:57:31.000Z",
+      "author": "Charles Pulliam-Moore",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T14:50:39.030Z",
+      "created_at": "2026-06-05T14:50:39.030Z"
+    },
+    {
+      "id": 10558,
+      "source": "Google AI Blog",
+      "title_en": "The latest AI news we announced in May 2026",
+      "description_en": "Here are Google’s latest AI updates from May 2026",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp",
+      "pub_date": "Fri, 05 Jun 2026 14:45:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "The Keyword Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Search",
+        "Android",
+        "Google DeepMind",
+        "Google Labs",
+        "Quantum computing",
+        "Google Health",
+        "Shopping",
+        "Google Cloud",
+        "AI",
+        "Gemini App",
+        "Gemini models",
+        "Fitbit",
+        "Google Research"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T14:50:40.325Z",
+      "created_at": "2026-06-05T14:50:40.325Z"
+    },
+    {
+      "id": 10559,
+      "source": "Interesting Engineering",
+      "title_en": "Watch: Humanoid robot dance crew capture spotlight on America’s Got Talent show",
+      "description_en": "Chinese humanoid robots have won over a major American television audience, highlighting a growing divide...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/humanoid-robot-dance-crew",
+      "image_url": "https://www.youtube.com/embed/y7ojRmPxqNg",
+      "pub_date": "Fri, 05 Jun 2026 14:06:37 +0000",
+      "author": "Jijo Malayil",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T14:50:41.618Z",
+      "created_at": "2026-06-05T14:50:41.618Z"
+    },
+    {
+      "id": 10560,
+      "source": "Interesting Engineering",
+      "title_en": "Game of Battleship helped computers get 82% better at finding hidden answers",
+      "description_en": "If you ask a frontier artificial intelligence model to write an essay about the fall...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/mit-use-battleship-to-teach-ai",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 13:27:52 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T14:50:41.618Z",
+      "created_at": "2026-06-05T14:50:41.618Z"
+    },
+    {
+      "id": 10561,
+      "source": "CNBC Tech",
+      "title_en": "Amazon unveils latest warehouse robot as tech giants continue AI layoffs",
+      "description_en": "\"Our experience of robots is that it's actually driven up employment rather than the reverse,\" Amazon executive John Boumphrey told CNBC.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/05/amazon-robot-proteus-warehouse-ai-layoffs.html",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 14:32:21 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T14:50:42.158Z",
+      "created_at": "2026-06-05T14:50:42.158Z"
+    },
+    {
+      "id": 10562,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Ferrari выпустила свою самую дешёвую «машинку» — Scuderia Ferrari AI  Автоконцерн совместно с HP представил ноутбук Scuderia Ferrari AI, общий тираж которого составит всего 4999 штук.Внешняя отделка л",
+      "description_en": "Ferrari выпустила свою самую дешёвую «машинку» — Scuderia Ferrari AI  Автоконцерн совместно с HP представил ноутбук Scuderia Ferrari AI, общий тираж которого составит всего 4999 штук.Внешняя отделка легла на плечи Ferrari и она неплохо справилась! Фирменный красный металлик Rosso Magma в комбинации с основой из карбона и стекла, обнажающего кулеры, создаёт очень приятное впечатление.HP занялась железом новинки. Внутри у Scuderia Ferrari AI Intel Core Ultra X7 358H, встройка Arc B390, 64/1024 пам",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33415",
+      "image_url": "https://cdn4.telesco.pe/file/X6jcgtqEFguurjsczqDuREu9FsdChq1MCa9eKsf4S7fB4Q4AZf8qmFeY4A1ytMdoqxIwQ0nHjl2aO5FST1mWwlHq753xKZHhpir0VBJfjoK2QX8H5QtrP36q2PCJBG3yDag1cQRhZ7yJsqGcr_Wl0CHcpg_qEmcRLSn5WwUmE1PZYfKF2KVlrcglM0kCyVhB_IqWZxvWnNo1kE-9Yp-vvNiIWZLACjsLEhJ-eRGrCWUDlj_fK3E4pciHVdZBMTPT0mTqhE1BBdlwBoKJNuXY2ms36qNbiRW4vjFDwn7_V9VqUR7zePbFZKcZpCMpx1N3BwM3hPWKUXGAeke05kDDXw.jpg",
+      "pub_date": "2026-06-05T13:47:50+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T14:50:46.239Z",
+      "created_at": "2026-06-05T14:50:46.239Z"
+    },
+    {
+      "id": 10563,
+      "source": "Data Science ODS.ai (TG)",
+      "title_en": "📌ИИ уже ускоряет разработку новых моделейAnthropic опубликовала аналитический материал, в котором утверждает, что системы искусственного интеллекта всё активнее участвуют в создании следующих поколен",
+      "description_en": "📌ИИ уже ускоряет разработку новых моделейAnthropic опубликовала аналитический материал, в котором утверждает, что системы искусственного интеллекта всё активнее участвуют в создании следующих поколений ИИ.Материал подготовлен исследовательским подразделением Anthropic Institute. Его авторы - Марина Фаваро и сооснователь компании, глава отдела политики Джек Кларк.Отрасль приближается к рекурсивному самоулучшению Это состояние, когда ИИ способен самостоятельно проектировать и совершенствовать соб",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/opendatascience/3318",
+      "image_url": "https://cdn4.telesco.pe/file/jCR5cGOto2-uP87lRL-6ycMTNBfHnrWZ00pQB3Sm7_IVk6fGQ359nX4ZSx8ZDZNPl6-FQC43PvLE138tdfNc5CcJKiqdSHhoUWb0Bmy8XsW8jJ0UHsKN2Sa_qYj6x9bPqFvTZsvdBeDf-r-vBXZMAUpcq4l95ODIuUo6rHZs4fLvnJcScd4hqQSAjAbM0u472OxRUxx3ZyH05uvtqvUSdQF6y-cbsVCYBie-u_rnkC6U_hsJvs_aYTuRobtafe7Aj5EqnwCXYOpB_qmmLhgB_u69m8ePpt3JLnLMgN9ALRxaU5OQgD9KfdptIaMoAZcr5C-T1zB_Y94XLvBJhf1VNQ.jpg",
+      "pub_date": "2026-06-05T13:49:46+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T14:50:46.988Z",
+      "created_at": "2026-06-05T14:50:46.988Z"
     }
   ]
 }
