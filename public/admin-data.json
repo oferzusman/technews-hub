@@ -1,9 +1,9 @@
 {
-  "total": 10500,
+  "total": 10512,
   "translated": 8824,
-  "untranslated": 1676,
-  "today": 2,
-  "week": 714,
+  "untranslated": 1688,
+  "today": 14,
+  "week": 726,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,19 +19,19 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 788,
+      "total": 789,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 588,
+      "total": 590,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 512,
+      "total": 513,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -49,7 +49,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 444,
+      "total": 446,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -67,7 +67,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 352,
+      "total": 354,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -79,9 +79,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 300,
+      "total": 301,
       "translated": 168,
-      "lastDate": "2026-06-05T02:55:12+00:00"
+      "lastDate": "2026-06-05T05:41:02+00:00"
     },
     {
       "name": "Futurism",
@@ -103,9 +103,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 233,
+      "total": 234,
       "translated": 119,
-      "lastDate": "2026-06-04T21:02:08+00:00"
+      "lastDate": "2026-06-05T05:50:07+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -126,16 +126,16 @@
       "lastDate": "2026-06-04T19:59:59+00:00"
     },
     {
+      "name": "Hi, AI Russian (TG)",
+      "total": 105,
+      "translated": 63,
+      "lastDate": "2026-06-05T06:11:58+00:00"
+    },
+    {
       "name": "Onefootball.com",
       "total": 104,
       "translated": 104,
       "lastDate": "2026-04-09T07:08:00Z"
-    },
-    {
-      "name": "Hi, AI Russian (TG)",
-      "total": 104,
-      "translated": 63,
-      "lastDate": "2026-06-04T16:00:40+00:00"
     },
     {
       "name": "AI News",
@@ -169,9 +169,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 68,
+      "total": 69,
       "translated": 47,
-      "lastDate": "2026-06-04T12:01:06+00:00"
+      "lastDate": "2026-06-05T05:02:04+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-05T03:45:26.092Z"
+  "generatedAt": "2026-06-05T06:43:13.893Z"
 }
