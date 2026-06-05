@@ -221835,7 +221835,7 @@
         "SpaceX"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T19:17:10.335Z",
       "created_at": "2026-06-05T19:17:10.335Z"
     },
@@ -221862,7 +221862,7 @@
         "US stock market"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T19:17:10.491Z",
       "created_at": "2026-06-05T19:17:10.491Z"
     },
@@ -221885,7 +221885,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T19:17:11.648Z",
       "created_at": "2026-06-05T19:17:11.648Z"
     },
@@ -221902,7 +221902,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T19:17:16.267Z",
       "created_at": "2026-06-05T19:17:16.267Z"
     },
@@ -221919,7 +221919,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T19:17:17.819Z",
       "created_at": "2026-06-05T19:17:17.819Z"
     },
@@ -221936,7 +221936,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T19:17:17.873Z",
       "created_at": "2026-06-05T19:17:17.873Z"
     },
@@ -222070,6 +222070,99 @@
       "priority": "hot",
       "fetchedAt": "2026-06-05T20:15:57.885Z",
       "created_at": "2026-06-05T20:15:57.885Z"
+    },
+    {
+      "id": 10610,
+      "source": "Ars Technica",
+      "title_en": "Highly reviewed speaker can be hacked over the air to infect connected devices",
+      "description_en": "Seller of the Sound Blaster Katana V2X doesn't consider the behavior a vulnerability.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/sound-blaster-katana-v2x-1152x648-1780688877.jpg",
+      "pub_date": "Fri, 05 Jun 2026 21:00:29 +0000",
+      "author": "\n                    Dan Goodin\n                ",
+      "categories": [
+        "Biz & IT",
+        "Security",
+        "bluetooth",
+        "hacking",
+        "remote code execution"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T21:07:55.185Z",
+      "created_at": "2026-06-05T21:07:55.185Z"
+    },
+    {
+      "id": 10611,
+      "source": "Ars Technica",
+      "title_en": "The saga of the International Space Station air leak took a worrying turn Friday",
+      "description_en": "\"We look forward to working with Roscosmos on a collaborative approach to address the leaks.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/space/2026/06/work-on-russias-leaky-space-station-module-causes-astronauts-to-take-shelter/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/51751616813_e205d6883e_k-1152x648.jpg",
+      "pub_date": "Fri, 05 Jun 2026 19:03:16 +0000",
+      "author": "\n                    Stephen Clark\n                ",
+      "categories": [
+        "Space",
+        "international space station",
+        "russian space"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-05T21:07:55.186Z",
+      "created_at": "2026-06-05T21:07:55.186Z"
+    },
+    {
+      "id": 10612,
+      "source": "MarkTechPost",
+      "title_en": "Google DeepMind Releases Gemma 4 QAT Checkpoints: Q4_0 and a New Mobile Format Cut On-Device Memory",
+      "description_en": "Compare Gemma 4 edge formats: BF16, Q4_0 QAT, and mobile QAT, on published memory numbers and design tradeoffs.\nThe post Google DeepMind Releases Gemma 4 QAT Checkpoints: Q4_0 and a New Mobile Format Cut On-Device Memory appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/05/google-deepmind-releases-gemma-4-qat-checkpoints-q4_0-and-a-new-mobile-format-cut-on-device-memory/",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 18:59:38 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Edge AI",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-05T21:07:56.690Z",
+      "created_at": "2026-06-05T21:07:56.690Z"
+    },
+    {
+      "id": 10613,
+      "source": "CNBC Tech",
+      "title_en": "Mythos rejuvenated the cybersecurity sector. Earnings put the recent rally to the test",
+      "description_en": "Mythos gave the cybersecurity sector a boost, but upbeat earnings weren't enough for investors in search of an AI payoff.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/05/mythos-cybersecurity-earnings-palo-alto-crowdstrike.html",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 20:25:09 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T21:07:58.092Z",
+      "created_at": "2026-06-05T21:07:58.092Z"
     }
   ]
 }
