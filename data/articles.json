@@ -222090,7 +222090,7 @@
         "remote code execution"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T21:07:55.185Z",
       "created_at": "2026-06-05T21:07:55.185Z"
     },
@@ -222177,7 +222177,7 @@
       "author": "Aamir Khollam",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T21:47:54.261Z",
       "created_at": "2026-06-05T21:47:54.261Z"
     },
@@ -222194,7 +222194,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T21:47:55.866Z",
       "created_at": "2026-06-05T21:47:55.866Z"
     },
@@ -222211,7 +222211,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T21:47:55.915Z",
       "created_at": "2026-06-05T21:47:55.915Z"
     },
@@ -222282,6 +222282,64 @@
       "priority": "hot",
       "fetchedAt": "2026-06-05T22:49:56.857Z",
       "created_at": "2026-06-05T22:49:56.857Z"
+    },
+    {
+      "id": 10621,
+      "source": "MarkTechPost",
+      "title_en": "A Hands-On Coding Tutorial on Qualcomm AI Hub Models for Classification, Object Detection, and Hardware-Aware Deployment",
+      "description_en": "Set up Qualcomm AI Hub Models to run MobileNet-V2 inference, YOLOv7 detection, and compile models on real devices.\nThe post A Hands-On Coding Tutorial on Qualcomm AI Hub Models for Classification, Object Detection, and Hardware-Aware Deployment appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/05/a-hands-on-coding-tutorial-on-qualcomm-ai-hub-models-for-classification-object-detection-and-hardware-aware-deployment/",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 22:32:51 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Editors Pick",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T23:54:32.887Z",
+      "created_at": "2026-06-05T23:54:32.887Z"
+    },
+    {
+      "id": 10622,
+      "source": "Interesting Engineering",
+      "title_en": "New zinc oxide-tellurium transistor replaces 75% of semiconductor components",
+      "description_en": "Chipmakers face a difficult balancing act. Consumers want smarter devices with faster AI features, but...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/semiconductor-device-cuts-transistor-count",
+      "image_url": null,
+      "pub_date": "Fri, 05 Jun 2026 23:53:50 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T23:54:34.279Z",
+      "created_at": "2026-06-05T23:54:34.279Z"
+    },
+    {
+      "id": 10623,
+      "source": "AI Post (TG)",
+      "title_en": "💰 Sam Altman says AI spending Is becoming a serious problemEveryone talks about smarter AI. Almost nobody talks about the bill. According to Sam Altman, AI budgets are becoming a “huge issue” as cust",
+      "description_en": "💰 Sam Altman says AI spending Is becoming a serious problemEveryone talks about smarter AI. Almost nobody talks about the bill. According to Sam Altman, AI budgets are becoming a “huge issue” as customers consume far more tokens than expected.For perspective:• OpenAI’s heaviest internal user consumes about 100 billion tokens per month.• One external customer reportedly used 603 billion tokens in a single month.The reason is simple: AI agents don’t just answer questions.They make plans, call too",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7138",
+      "image_url": "https://cdn4.telesco.pe/file/Rw9KiGlgNVC0V2CrYYhQ-aWnRjCrgHYRqTUqfwBAdIOBbUt_QgM-QJ_5TGuQH_MknLF_SLyWpO9xPFNkb8m1NopDsvmCjK0SEBev2WeN8YPruElqDT138jQVcD785O2naqxOiOjCjWutOf9E35zqJnWLoKyTPN0O6PvObR7_qh_PCkmk8WuYGRA12mtpaYRCQiynMP9WlLvIgE66u8qAPndCBOC0pEGcNnHTZE4hZOnl7MCC0mQiKeAzGRcQSNdm50KHASCn4WZrh4jt6VOn-9BHRTUlfw-H07Fco_GSVeNi5z76Llos972nqPmMdHy-r7bqItwIe9HkvH2StEfRaQ.jpg",
+      "pub_date": "2026-06-05T23:07:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-05T23:54:36.886Z",
+      "created_at": "2026-06-05T23:54:36.886Z"
     }
   ]
 }
