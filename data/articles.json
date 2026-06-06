@@ -223577,6 +223577,40 @@
       "priority": "hot",
       "fetchedAt": "2026-06-06T20:46:43.208Z",
       "created_at": "2026-06-06T20:46:43.208Z"
+    },
+    {
+      "id": 10683,
+      "source": "Backdoor (TG)",
+      "title_en": "Обходим любые пейволы за один клик — разработчик из Microsoft раскрыл лайфхак, который поможет получить доступ к всевозможному платному контенту.Записываем:1️⃣ Берем любую ссылку на сайт с пейволом и ",
+      "description_en": "Обходим любые пейволы за один клик — разработчик из Microsoft раскрыл лайфхак, который поможет получить доступ к всевозможному платному контенту.Записываем:1️⃣ Берем любую ссылку на сайт с пейволом и добавляем перед ней:http://r.jina.ai2️⃣ Нейронки и агенты из репозитория Reader получают доступ к платному контенту в формате Markdown. 3️⃣ Всё. Вы получили доступ к любому материалу, закрытому пейволом да еще и можете проанализировать его с помощью нейронок и вытащить только самое нужное.Сохраняем ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29004",
+      "image_url": "https://cdn4.telesco.pe/file/BLauJqSMNphB1mbJq6x9lDO3bl0BUCwWEgBcB0YIt24EO7NhngWXWr-a79FcoGPxlDlvw9v5wvvAGTCnHhHrSPcSDBy-W3Rh8-3ro_VTbWavCn7go5m4v1RPw5DSp3HoIFgL5gSwc3qLa5vbptKXz1jCRRhiJmXzBXPL8BPgMhH2KPkbZtuShpS0Hu-Xv_BPSOtNMomq6kaMbCpkTtnqEFCetCG8NKy3GS9_TsNIlcFST8OXI1A4wBxtaz8EpUqi3jCQi5IfFqhKoWGaQrPU1loGGLDeDQHZePyspyShW6Ui7L0d1OMfIP7R2OGO6lEmce-n_AJAquLbRZ0Iu6O5xw.jpg",
+      "pub_date": "2026-06-06T21:26:59+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T21:34:35.438Z",
+      "created_at": "2026-06-06T21:34:35.438Z"
+    },
+    {
+      "id": 10684,
+      "source": "AI Post (TG)",
+      "title_en": "Trump administration explores public stake in major AI firmsThe Trump administration is holding discussions about the possibility of the U.S. government acquiring a ownership stake in leading artifici",
+      "description_en": "Trump administration explores public stake in major AI firmsThe Trump administration is holding discussions about the possibility of the U.S. government acquiring a ownership stake in leading artificial intelligence laboratories.A key consideration is the scale of investment involved, as well as structures that could enable portions of these stakes to be distributed to the public. This approach would potentially make American citizens partners alongside the commercial entities operating these la",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7147",
+      "image_url": null,
+      "pub_date": "2026-06-06T21:06:46+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T21:34:36.026Z",
+      "created_at": "2026-06-06T21:34:36.026Z"
     }
   ]
 }
