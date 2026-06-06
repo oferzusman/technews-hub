@@ -222228,7 +222228,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T22:41:43.528Z",
       "created_at": "2026-06-05T22:41:43.528Z"
     },
@@ -222245,7 +222245,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T22:41:49.080Z",
       "created_at": "2026-06-05T22:41:49.080Z"
     },
@@ -222262,7 +222262,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T22:49:52.010Z",
       "created_at": "2026-06-05T22:49:52.010Z"
     },
@@ -222279,7 +222279,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T22:49:56.857Z",
       "created_at": "2026-06-05T22:49:56.857Z"
     },
@@ -222303,7 +222303,7 @@
         "Tutorials"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T23:54:32.887Z",
       "created_at": "2026-06-05T23:54:32.887Z"
     },
@@ -222320,7 +222320,7 @@
       "author": "Aamir Khollam",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T23:54:34.279Z",
       "created_at": "2026-06-05T23:54:34.279Z"
     },
@@ -222337,9 +222337,26 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-05T23:54:36.886Z",
       "created_at": "2026-06-05T23:54:36.886Z"
+    },
+    {
+      "id": 10624,
+      "source": "AI Post (TG)",
+      "title_en": "Researchers at the University of Cambridge have conducted the first human trial of a vaccine component created entirely by artificial intelligence. The vaccine features an AI-designed “super-antigen” ",
+      "description_en": "Researchers at the University of Cambridge have conducted the first human trial of a vaccine component created entirely by artificial intelligence. The vaccine features an AI-designed “super-antigen” aimed at training the immune system to respond to a wide range of coronaviruses. This approach does not focus on a single virus strain; instead, AI processed genetic material from multiple coronaviruses to design an antigen targeting the broader virus family, including current Covid variants and ani",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7139",
+      "image_url": "https://cdn4.telesco.pe/file/dvDAKmjfaRW65RaSAYIkTkvh71vr3-yOJ1zxtGlj1JIs8VqszsNxqjRfXUqxhvkRi4mM8dCDcqTKuL_GUNaymdgrGh92ZFu82DOERl8FMXhh--MeY0qN6BzZn9z03ncciO4Lz4-nwpKSDLHYMrPw0sp2FvisVAE8IT-IVr5_6LBHmbVim9dRdqbL_YiWZmE_wG8V-Y2TxZrl0K0NTZLyZkTb9gHj7LChroQFhW3IGEQ6mpEuD908o2r8dnygQBpmdEPVX0AI26-S0hVkw0OLE8mPBnuYbcaBfxZzy5K2XC8JoI_7kq7OJ7OOcX_RtK7_rRFebndfSuoKm5PdJBvcJg.jpg",
+      "pub_date": "2026-06-06T02:05:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T02:52:29.976Z",
+      "created_at": "2026-06-06T02:52:29.976Z"
     }
   ]
 }
