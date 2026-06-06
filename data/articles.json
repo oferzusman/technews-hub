@@ -222507,7 +222507,7 @@
         "USA"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T07:45:50.808Z",
       "created_at": "2026-06-06T07:45:50.808Z"
     },
@@ -222604,7 +222604,7 @@
         "SpaceX"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T09:08:07.170Z",
       "created_at": "2026-06-06T09:08:07.170Z"
     },
@@ -222632,7 +222632,7 @@
         "Voice AI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T09:08:07.626Z",
       "created_at": "2026-06-06T09:08:07.626Z"
     },
@@ -222649,7 +222649,7 @@
       "author": "Atharva Gosavi",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T09:08:08.508Z",
       "created_at": "2026-06-06T09:08:08.508Z"
     },
@@ -222737,6 +222737,55 @@
       "priority": "hot",
       "fetchedAt": "2026-06-06T09:08:13.831Z",
       "created_at": "2026-06-06T09:08:13.831Z"
+    },
+    {
+      "id": 10642,
+      "source": "MarkTechPost",
+      "title_en": "Moonshot AI Releases Kimi Code CLI: A Terminal AI Coding Agent Built in TypeScript for Next-Gen Agents",
+      "description_en": "Kimi Code CLI is Moonshot AI's open-source terminal coding agent, written in TypeScript with subagents and MCP configuration.\nThe post Moonshot AI Releases Kimi Code CLI: A Terminal AI Coding Agent Built in TypeScript for Next-Gen Agents appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/06/moonshot-ai-releases-kimi-code-cli-a-terminal-ai-coding-agent-built-in-typescript-for-next-gen-agents/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/06/intro-1.gif",
+      "pub_date": "Sat, 06 Jun 2026 09:11:08 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Model Context Protocol",
+        "Model Context Protocol (MCP)",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T10:03:42.842Z",
+      "created_at": "2026-06-06T10:03:42.842Z"
+    },
+    {
+      "id": 10643,
+      "source": "Prompt AI News (TG)",
+      "title_en": "⚡️ Unitree G1 hauls a load up stairs. Humanoid hardware is quietly lapping the software.The G1 carries over 40kg while walking and can climb stairs up to 40cm high. It's already the best-selling human",
+      "description_en": "⚡️ Unitree G1 hauls a load up stairs. Humanoid hardware is quietly lapping the software.The G1 carries over 40kg while walking and can climb stairs up to 40cm high. It's already the best-selling humanoid on the market, with 1,000+ units shipped.The robots are ready. The AGI to pilot them isn't. Hardware won't be the bottleneck.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/167",
+      "image_url": null,
+      "pub_date": "2026-06-06T09:13:54+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T10:03:45.654Z",
+      "created_at": "2026-06-06T10:03:45.654Z"
     }
   ]
 }
