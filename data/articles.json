@@ -222803,7 +222803,7 @@
         "Artificial Intelligence"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T10:59:27.087Z",
       "created_at": "2026-06-06T10:59:27.087Z"
     },
@@ -222820,7 +222820,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T10:59:32.068Z",
       "created_at": "2026-06-06T10:59:32.068Z"
     },
@@ -222844,7 +222844,7 @@
         "Meta AI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T11:53:01.379Z",
       "created_at": "2026-06-06T11:53:01.379Z"
     },
@@ -222868,7 +222868,7 @@
         "xAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T11:53:01.379Z",
       "created_at": "2026-06-06T11:53:01.379Z"
     },
@@ -222885,7 +222885,7 @@
       "author": "Atharva Gosavi",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T11:53:02.773Z",
       "created_at": "2026-06-06T11:53:02.773Z"
     },
@@ -222905,7 +222905,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T11:53:02.971Z",
       "created_at": "2026-06-06T11:53:02.971Z"
     },
@@ -222922,7 +222922,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T11:53:04.690Z",
       "created_at": "2026-06-06T11:53:04.690Z"
     },
@@ -222956,7 +222956,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T12:10:35.791Z",
       "created_at": "2026-06-06T12:10:35.791Z"
     },
@@ -223021,6 +223021,154 @@
       "priority": "hot",
       "fetchedAt": "2026-06-06T12:10:38.112Z",
       "created_at": "2026-06-06T12:10:38.112Z"
+    },
+    {
+      "id": 10655,
+      "source": "Interesting Engineering",
+      "title_en": "World’s fastest business jet marks first speed record on transatlantic mission",
+      "description_en": "Bombardier’s Global 8000 business jet has recorded its first speed milestone after flying from Montreal,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/world-fastest-business-jet-transatlantic-mission",
+      "image_url": null,
+      "pub_date": "Sat, 06 Jun 2026 12:46:05 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T13:42:32.068Z",
+      "created_at": "2026-06-06T13:42:32.068Z"
+    },
+    {
+      "id": 10656,
+      "source": "Interesting Engineering",
+      "title_en": "New US partnership aims to extract critical semiconductor materials from aluminum waste",
+      "description_en": "Ames National Laboratory and Indium Corporation have announced a new research and development partnership aimed...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/us-to-extract-critical-semiconductor-materials",
+      "image_url": null,
+      "pub_date": "Sat, 06 Jun 2026 12:12:21 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T13:42:32.068Z",
+      "created_at": "2026-06-06T13:42:32.068Z"
+    },
+    {
+      "id": 10657,
+      "source": "Tom's Hardware",
+      "title_en": "Gigabyte Z890 Aorus Elite Wifi7 Plus Motherboard Review: Cost-conscious refresh board delivers (almost) all the fixens",
+      "description_en": "At under $270, the Gigabyte Z890 Aorus Elite Wifi7 Plus is a worthwhile mainstream motherboard. Fast networking and ample storage options are just two of the highlights of this refreshed Z890 offering.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/motherboards/gigabyte-z890-aorus-elite-wifi7-plus-motherboard-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/BXKFNbg3FkCC6dWiWNoBJj-1280-80.jpg",
+      "pub_date": "Sat, 06 Jun 2026 13:13:12 +0000",
+      "author": " Joe Shields ",
+      "categories": [
+        "Motherboards",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T13:42:32.335Z",
+      "created_at": "2026-06-06T13:42:32.335Z"
+    },
+    {
+      "id": 10658,
+      "source": "Tom's Hardware",
+      "title_en": "Lexar regional manager says that RAM prices are expected to double by the end of the year — 'discounts' and stabilized prices result from distributors getting rid of old stock or sourcing products from other regions",
+      "description_en": "Industry insiders say that RAM prices will continue to go up in the next eight to nine months, as the memory chip crisis goes from bad to worse. While retailers make moves to temporarily reduce prices, these will eventually run out, so if you need to buy RAM, you should buy it now.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ram/lexar-regional-manager-says-that-ram-prices-are-expected-to-double-by-the-end-of-the-year-discounts-and-stabilized-prices-result-from-distributors-getting-rid-of-old-stock-or-sourcing-products-from-other-regions",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/KpRK4zBCmbEjs9LhoajEf-1280-80.jpg",
+      "pub_date": "Sat, 06 Jun 2026 13:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "RAM",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T13:42:32.335Z",
+      "created_at": "2026-06-06T13:42:32.335Z"
+    },
+    {
+      "id": 10659,
+      "source": "Tom's Hardware",
+      "title_en": "Taiwanese startup FormulaV Line wants to break into US market with two new unique cases — company expects products to become available on Newegg later this year",
+      "description_en": "Taiwanese startup FormulaV Line wants to break into the U.S. market with these two new and unique cases. It also showed off a plethora of other components, including PSUs, cooling solutions, and even a gaming chair on the showfloor at Computex 2026.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/pc-cases/taiwanese-startup-formulav-line-wants-to-break-into-us-market-with-two-new-unique-cases-company-expects-products-to-become-available-on-newegg-later-this-year",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/aHQtiZo9XyHyW2YqFYoBCQ-1280-80.jpg",
+      "pub_date": "Sat, 06 Jun 2026 12:40:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "PC Cases",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T13:42:32.335Z",
+      "created_at": "2026-06-06T13:42:32.335Z"
+    },
+    {
+      "id": 10660,
+      "source": "Tom's Hardware",
+      "title_en": "G.Skill explains how AMD EXPO ULL unlocks additional performance — expanded profiles allow memory makers to include subtiming tweaks for the first time",
+      "description_en": "AMD's EXPO Ultra Low Latency program, announced at Computex 2026, aims to give users a one-click route to lower memory latencies than its existing EXPO profiles",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ram/g-skill-explains-how-amd-expo-ull-unlocks-additional-performance-expanded-profiles-allow-memory-makers-to-include-subtiming-tweaks-for-the-first-time",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/mPGyiCGGWcMuu2i4UUpjVL-1280-80.jpg",
+      "pub_date": "Sat, 06 Jun 2026 12:20:00 +0000",
+      "author": " Jeffrey Kampman ",
+      "categories": [
+        "RAM",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T13:42:32.335Z",
+      "created_at": "2026-06-06T13:42:32.335Z"
+    },
+    {
+      "id": 10661,
+      "source": "Backdoor (TG)",
+      "title_en": "Дмитрий Харитонов, Генеральный директор ИТ-холдинга Т1 на традиционном ИТ-завтраке в рамках ПМЭФ назвал построение инфраструктуры для ИИ вопросом технологической независимости России.«Значимый сдержив",
+      "description_en": "Дмитрий Харитонов, Генеральный директор ИТ-холдинга Т1 на традиционном ИТ-завтраке в рамках ПМЭФ назвал построение инфраструктуры для ИИ вопросом технологической независимости России.«Значимый сдерживающий фактор развития ИИ — это дефицит инфраструктуры для графических вычислений, в частности, GPU (Graphics Processing Unit). Позволить себе развернуть полноценную инфраструктуру для ИИ в закрытом защищенном контуре может считанное число компаний.Мерами поддержки этого сегмента рынка могли бы стать",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28990",
+      "image_url": null,
+      "pub_date": "2026-06-06T13:18:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T13:42:36.387Z",
+      "created_at": "2026-06-06T13:42:36.387Z"
+    },
+    {
+      "id": 10662,
+      "source": "XOR Journal (TG)",
+      "title_en": "Страшная тайна российского  айти 🥲@xor_journal",
+      "description_en": "Страшная тайна российского  айти 🥲@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9466",
+      "image_url": "https://cdn4.telesco.pe/file/YltkR7JmkF00797rS5YXL8GGYBoL-0g5uCfU521sZ5d9R8k1b_uqabSVZrvbr9JKrkHwNESnqjuwdXB3L2t84Ca7qaY_RAI9Uz51rLaBatGnT522otXawQPAEmSrTDi8qapPFcquUjyCVowJTuuUL60GnWtUEW5S63pxU2tQYeAxtfRfzw2MfFRgh2rk3ZTcf0HfNdIFelRuun3S2frIMbHV2Xq0_oG_c1rMqedo3MwSIF-Nfw9UbzGM8G-_03xmktxctmNGR44KGJ94ceo9c3xzjxTxw-2fnSOIDj9NWTJ1OgGgxgVz1m2-d0GUAF0OnQrqsVP1gEUihQqSQh6K3g.jpg",
+      "pub_date": "2026-06-06T12:13:38+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T13:42:36.478Z",
+      "created_at": "2026-06-06T13:42:36.478Z"
     }
   ]
 }
