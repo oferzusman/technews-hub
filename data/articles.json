@@ -222766,7 +222766,7 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T10:03:42.842Z",
       "created_at": "2026-06-06T10:03:42.842Z"
     },
@@ -222783,7 +222783,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T10:03:45.654Z",
       "created_at": "2026-06-06T10:03:45.654Z"
     },
@@ -222823,6 +222823,108 @@
       "priority": "hot",
       "fetchedAt": "2026-06-06T10:59:32.068Z",
       "created_at": "2026-06-06T10:59:32.068Z"
+    },
+    {
+      "id": 10646,
+      "source": "The Decoder",
+      "title_en": "Meta's Hatch AI agent could cost up to $200 a month and marks its first paid AI product",
+      "description_en": "Meta is developing a paid AI agent product called \"Hatch\" that could cost up to $200 per month. Users describe what they need in simple language, and Hatch builds working tools, schedules appointments, or sends emails. CEO Mark Zuckerberg sees the product as a way to open up new revenue streams beyond advertising and refinance the company's massive AI investments.\nThe article Meta's Hatch AI agent could cost up to $200 a month and marks its first paid AI product appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/metas-hatch-ai-agent-could-cost-up-to-200-a-month-and-marks-its-first-paid-ai-product/",
+      "image_url": null,
+      "pub_date": "Sat, 06 Jun 2026 11:42:08 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Agent",
+        "Meta",
+        "Meta AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T11:53:01.379Z",
+      "created_at": "2026-06-06T11:53:01.379Z"
+    },
+    {
+      "id": 10647,
+      "source": "The Decoder",
+      "title_en": "Elon Musk's xAI reportedly trained its coding models on Claude outputs for months before getting cut off",
+      "description_en": "Elon Musk's xAI used Anthropic's Claude to train its own coding models for months and kept going even after Anthropic cut off access, using private accounts and the Blackbox AI service. Meanwhile, xAI's pretraining team shrank to fewer than five people, and several leads walked out. The compute Musk bought up is now being rented to Anthropic and Google instead of powering his own models.\nThe article Elon Musk's xAI reportedly trained its coding models on Claude outputs for months before getting ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/elon-musks-xai-reportedly-trained-its-coding-models-on-claude-outputs-for-months-before-getting-cut-off/",
+      "image_url": null,
+      "pub_date": "Sat, 06 Jun 2026 11:22:28 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Anthropic",
+        "Claude",
+        "xAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T11:53:01.379Z",
+      "created_at": "2026-06-06T11:53:01.379Z"
+    },
+    {
+      "id": 10648,
+      "source": "Interesting Engineering",
+      "title_en": "Eurofighter moves closer to air superiority upgrade with live next-gen radar tests",
+      "description_en": "The next-generation radar being developed for German and Spanish Eurofighter combat aircraft has entered live...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/eurofighter-moves-closer-to-air-superiority",
+      "image_url": null,
+      "pub_date": "Sat, 06 Jun 2026 11:03:34 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T11:53:02.773Z",
+      "created_at": "2026-06-06T11:53:02.773Z"
+    },
+    {
+      "id": 10649,
+      "source": "Tom's Hardware",
+      "title_en": "Unreleased RTX 3050 Ti engineering sample appears in photos and benchmarks — the RTX 3060 alternative that never happened",
+      "description_en": "Hardware leaker shares photographs and benchmarks for Nvidia's GeForce RTX 3050 Ti desktop graphics card that was never released.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/unreleased-rtx-3050-ti-engineering-sample-appears-in-photos-and-benchmarks-the-rtx-3060-alternative-that-never-happened",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Arb3RBzj5KW75UgUJ2rjH7-1280-80.jpg",
+      "pub_date": "Sat, 06 Jun 2026 11:40:00 +0000",
+      "author": " Zhiye Liu ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T11:53:02.971Z",
+      "created_at": "2026-06-06T11:53:02.971Z"
+    },
+    {
+      "id": 10650,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 ChatGPT adds “Dreaming” for smarter memory updatesOpenAI has introduced Dreaming, a system that lets ChatGPT update memories in the background by reviewing past conversations and keeping informatio",
+      "description_en": "🤖 ChatGPT adds “Dreaming” for smarter memory updatesOpenAI has introduced Dreaming, a system that lets ChatGPT update memories in the background by reviewing past conversations and keeping information current.Instead of storing static facts, Dreaming can recognize when circumstances change, for example, updating “user is planning a trip to Singapore” to “user visited Singapore in July 2025.”OpenAI says the new approach cuts memory-update computing costs by 5×, making wider deployment more pract",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7143",
+      "image_url": "https://cdn4.telesco.pe/file/eY0xrzaMiEGteVwvlPCeYB0gFL04_jQRKfmaEUX835crgh2WYaGYsK6gDH8YFmub7tUyd12lz9KlW8pTcdH23z6a7mGgh4hhyydaBTjPxPZjiYt9vsLYXEemaGRmrO2zBGrLDqEm9_k71OB7_wcAKkQl_CSP6gpJDtZO4SGpUOzhuuXeU3dx0T1AJflZwLSkzk01Uv9mD8FoWJQ8VjvVWN1icpfQ6sW49gliGLE04IBiue2L_6IVvbFwzhgTYmtM-w6ooktD283fa-ITQxpkjb12acnRbyjAoRBLRRdk_-ZZWB7Tp17Sklc59vlsxB8w1xSwgXJSX120yR-YYMtsJQ.jpg",
+      "pub_date": "2026-06-06T11:10:42+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T11:53:04.690Z",
+      "created_at": "2026-06-06T11:53:04.690Z"
     }
   ]
 }
