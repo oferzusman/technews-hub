@@ -1,9 +1,9 @@
 {
-  "total": 10667,
+  "total": 10669,
   "translated": 8824,
-  "untranslated": 1843,
-  "today": 44,
-  "week": 816,
+  "untranslated": 1845,
+  "today": 46,
+  "week": 818,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,7 +13,7 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 867,
+      "total": 868,
       "translated": 652,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
@@ -115,7 +115,7 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 142,
+      "total": 143,
       "translated": 122,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-06T15:17:34.690Z"
+  "generatedAt": "2026-06-06T15:39:25.980Z"
 }
