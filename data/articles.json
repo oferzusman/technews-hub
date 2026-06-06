@@ -223035,7 +223035,7 @@
       "author": "Atharva Gosavi",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T13:42:32.068Z",
       "created_at": "2026-06-06T13:42:32.068Z"
     },
@@ -223052,7 +223052,7 @@
       "author": "Atharva Gosavi",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T13:42:32.068Z",
       "created_at": "2026-06-06T13:42:32.068Z"
     },
@@ -223072,7 +223072,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T13:42:32.335Z",
       "created_at": "2026-06-06T13:42:32.335Z"
     },
@@ -223092,7 +223092,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T13:42:32.335Z",
       "created_at": "2026-06-06T13:42:32.335Z"
     },
@@ -223112,7 +223112,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T13:42:32.335Z",
       "created_at": "2026-06-06T13:42:32.335Z"
     },
@@ -223132,7 +223132,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T13:42:32.335Z",
       "created_at": "2026-06-06T13:42:32.335Z"
     },
@@ -223166,7 +223166,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T13:42:36.478Z",
       "created_at": "2026-06-06T13:42:36.478Z"
     },
@@ -223224,6 +223224,40 @@
       "priority": "hot",
       "fetchedAt": "2026-06-06T14:06:22.107Z",
       "created_at": "2026-06-06T14:06:22.107Z"
+    },
+    {
+      "id": 10666,
+      "source": "The Verge AI",
+      "title_en": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
+      "description_en": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was caught on camera saying of the \"No Data Center\" signs going up that, \"I've seen a lot of these all over town, but I only see them in shitty houses,\" before adding, \"most of them are rentals.\"\nThe woman speaking to him in the clip quickly pushes back, saying that they're \"working class,\" and someone chim",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+      "image_url": null,
+      "pub_date": "2026-06-06T15:05:00.000Z",
+      "author": "Terrence O’Brien",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T15:15:30.965Z",
+      "created_at": "2026-06-06T15:15:30.965Z"
+    },
+    {
+      "id": 10667,
+      "source": "AI Post (TG)",
+      "title_en": "🗣A Robotic mouth tries to speak like a human Instead of using digital audio, this artificial mouth physically recreates speech with an air pump for lungs, silicone for a tongue, and eight artificial ",
+      "description_en": "🗣A Robotic mouth tries to speak like a human Instead of using digital audio, this artificial mouth physically recreates speech with an air pump for lungs, silicone for a tongue, and eight artificial vocal cords. Impressive, weird, and slightly terrifying from Japan.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7144",
+      "image_url": null,
+      "pub_date": "2026-06-06T14:13:48+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T15:15:39.932Z",
+      "created_at": "2026-06-06T15:15:39.932Z"
     }
   ]
 }
