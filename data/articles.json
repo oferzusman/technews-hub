@@ -222666,7 +222666,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T09:08:12.998Z",
       "created_at": "2026-06-06T09:08:12.998Z"
     },
@@ -222683,7 +222683,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T09:08:13.552Z",
       "created_at": "2026-06-06T09:08:13.552Z"
     },
@@ -222700,7 +222700,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T09:08:13.565Z",
       "created_at": "2026-06-06T09:08:13.565Z"
     },
@@ -222717,7 +222717,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T09:08:13.830Z",
       "created_at": "2026-06-06T09:08:13.830Z"
     },
@@ -222734,7 +222734,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T09:08:13.831Z",
       "created_at": "2026-06-06T09:08:13.831Z"
     },
@@ -222786,6 +222786,43 @@
       "priority": "hot",
       "fetchedAt": "2026-06-06T10:03:45.654Z",
       "created_at": "2026-06-06T10:03:45.654Z"
+    },
+    {
+      "id": 10644,
+      "source": "The Decoder",
+      "title_en": "New open-source voice model listens nonstop and decides every 0.4 seconds whether to speak or stay silent",
+      "description_en": "Unlike GPT-4o or Qwen3.5-Omni, Audio Interaction doesn't wait for a recording to end: it translates, transcribes, chats, and picks up everyday noises like coughing in a single stream. Code, model weights, and download instructions are available on GitHub under the Apache 2.0 open-source license, with the training data to follow.\nThe article New open-source voice model listens nonstop and decides every 0.4 seconds whether to speak or stay silent appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/new-open-source-voice-model-listens-nonstop-and-decides-every-0-4-seconds-whether-to-speak-or-stay-silent/",
+      "image_url": null,
+      "pub_date": "Sat, 06 Jun 2026 10:50:21 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T10:58:57.257Z",
+      "created_at": "2026-06-06T10:58:57.257Z"
+    },
+    {
+      "id": 10645,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🧠 Asimov saw the cognitive offloading problem coming. In 1956.The calculator panic of the 1980s is back, just wearing an LLM costume. Same fear: kids outsource thinking to machines and lose the basel",
+      "description_en": "🧠 Asimov saw the cognitive offloading problem coming. In 1956.The calculator panic of the 1980s is back, just wearing an LLM costume. Same fear: kids outsource thinking to machines and lose the baseline skills that make harder thinking possible.But LLMs are scarier. A calculator can't write your essay, reason through your argument, or code your app. The surface area of offloadable cognition is basically everything now.Asimov's Multivac stories kept asking what humans do when machines know more.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/168",
+      "image_url": null,
+      "pub_date": "2026-06-06T10:14:34+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T10:59:02.690Z",
+      "created_at": "2026-06-06T10:59:02.690Z"
     }
   ]
 }
