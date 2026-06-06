@@ -223149,7 +223149,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T13:42:36.387Z",
       "created_at": "2026-06-06T13:42:36.387Z"
     },
@@ -223258,6 +223258,42 @@
       "priority": "hot",
       "fetchedAt": "2026-06-06T15:15:39.932Z",
       "created_at": "2026-06-06T15:15:39.932Z"
+    },
+    {
+      "id": 10668,
+      "source": "Hugging Face Blog",
+      "title_en": "Job Searcher",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/build-small-hackathon/job-search-blog",
+      "image_url": null,
+      "pub_date": "Sat, 06 Jun 2026 15:36:51 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T15:38:25.123Z",
+      "created_at": "2026-06-06T15:38:25.123Z"
+    },
+    {
+      "id": 10669,
+      "source": "Tom's Hardware",
+      "title_en": "Upgrade your PC with a 2TB PCIe 4.0 SSD, 750W power supply, and 240mm AIO for $300 — hardware bundle saves you nearly $200",
+      "description_en": "Even though power supplies and CPU coolers have remained unaffected by the AI boom, storage costs have skyrocketed, which makes this deal even more lucrative. You're getting a blazing-fast 2TB SSD, a genuinely solid power supply, and a decent AIO that can help you stop worrying about the small things and focus on sourcing cheaper memory and GPUs.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/upgrade-your-pc-with-a-2tb-pcie-4-0-ssd-750w-power-supply-and-240mm-aio-for-usd300-hardware-bundle-saves-you-nearly-usd200",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ahmo3nU3cXQiVAnWvEvhP7-1280-80.png",
+      "pub_date": "Sat, 06 Jun 2026 15:33:18 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T15:38:26.870Z",
+      "created_at": "2026-06-06T15:38:26.870Z"
     }
   ]
 }
