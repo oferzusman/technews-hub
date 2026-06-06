@@ -1,9 +1,9 @@
 {
-  "total": 10625,
+  "total": 10628,
   "translated": 8824,
-  "untranslated": 1801,
-  "today": 2,
-  "week": 774,
+  "untranslated": 1804,
+  "today": 5,
+  "week": 777,
   "sources": [
     {
       "name": "Product Hunt",
@@ -67,15 +67,15 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 357,
+      "total": 358,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 309,
+      "total": 310,
       "translated": 168,
-      "lastDate": "2026-06-06T02:05:00+00:00"
+      "lastDate": "2026-06-06T05:00:00+00:00"
     },
     {
       "name": "The Verge AI",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 75,
+      "total": 76,
       "translated": 40,
-      "lastDate": "2026-06-05T22:47:55+00:00"
+      "lastDate": "2026-06-06T06:00:58+00:00"
     },
     {
       "name": "Hi, AI English (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-06T04:38:36.014Z"
+  "generatedAt": "2026-06-06T06:44:23.233Z"
 }
