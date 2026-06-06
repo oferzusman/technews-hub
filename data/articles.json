@@ -222371,9 +222371,121 @@
       "author": "C.C. Weiss",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T04:36:32.971Z",
       "created_at": "2026-06-06T04:36:32.971Z"
+    },
+    {
+      "id": 10626,
+      "source": "The Guardian AI",
+      "title_en": "It’s no surprise that an AI-faked presidential speech condemning foreign exploitation went viral – the world is suffering from a leadership vacuum",
+      "description_en": "Attributed to the president of Namibia, the speech is still being shared as citizens across Africa and the Caribbean cry out for moral leaders willing to speak uncomfortable truths\nFor a moment, the speech attributed to Namibia’s president travelled across the world like a gust of hope. It was fierce. Defiant. Unapologetically sovereign. The speaker denounced corruption, condemned foreign exploitation and declared that Africa’s resources belonged not to politicians or multinational corporations ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/global-development/2026/jun/06/african-leader-speech-decolonisation-ai-generated-fake-president-namibia-africa-caribbean",
+      "image_url": "https://i.guim.co.uk/img/media/5fe77c98d7c41d196d1e9296c84f62197ce3e75c/304_0_2132_1706/master/2132.jpg?width=140&quality=85&auto=format&fit=max&s=c38d66d64345dba31395fca5ad7bb617",
+      "pub_date": "Sat, 06 Jun 2026 06:00:01 GMT",
+      "author": "Kenneth Mohammed",
+      "categories": [
+        {
+          "_": "Global development",
+          "$": {
+            "domain": "https://www.theguardian.com/global-development/global-development"
+          }
+        },
+        {
+          "_": "Social media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/social-media"
+          }
+        },
+        {
+          "_": "Namibia",
+          "$": {
+            "domain": "https://www.theguardian.com/world/namibia"
+          }
+        },
+        {
+          "_": "Caribbean",
+          "$": {
+            "domain": "https://www.theguardian.com/world/caribbean"
+          }
+        },
+        {
+          "_": "Africa",
+          "$": {
+            "domain": "https://www.theguardian.com/world/africa"
+          }
+        },
+        {
+          "_": "Digital media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/digital-media"
+          }
+        },
+        {
+          "_": "Media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/media"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Colonialism",
+          "$": {
+            "domain": "https://www.theguardian.com/world/colonialism"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T06:28:35.364Z",
+      "created_at": "2026-06-06T06:28:35.364Z"
+    },
+    {
+      "id": 10627,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Фан факт: уведомления в iOS 27 будут выезжать с левой стороны экрана, — пишет Марк Гурман из Bloomberg.Новая анимация должна подкрепить ожидание, что центр уведомлений открывается только из левого вер",
+      "description_en": "Фан факт: уведомления в iOS 27 будут выезжать с левой стороны экрана, — пишет Марк Гурман из Bloomberg.Новая анимация должна подкрепить ожидание, что центр уведомлений открывается только из левого верхнего угла, потому что свайп по центру экрана будет вызывать умную Siri.Тем, кто пользуется смартфоном одной рукой (правой) придётся привыкать.• Канал Wylsacom в MAX",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33450",
+      "image_url": "https://cdn4.telesco.pe/file/dFvhAX_iVpbzbN8afk81yICJs7fjSaP3TyR3Oo3KdJzUxcvxRzOtP0PwICjsEWUZD7g5tBN8BFfIJv_K2ag-6mXSAN-hYBfXsc9t4PODTGHeAhu_K4linRFjqSfijyZoGefBucD2sYokoKnkuLRP-fwd7YwPXf876UpckyJrotvJCQCe4o3NDPez9UbxIYLodF2eENOSZi6S4NNmK0fIIU6vW1OW6YmYHCViImlpUtfhiEvJmb51zDAYRtOOQ7hoBPm80or1mqvHuwCjvqpm80RgqSsuIPD_iCLrVEZZ8_ygwfezD1kzopGxBBAjC3cOR57YdJmNJRTZ6h-hmRr7Eg.jpg",
+      "pub_date": "2026-06-06T06:00:58+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T06:28:36.864Z",
+      "created_at": "2026-06-06T06:28:36.864Z"
+    },
+    {
+      "id": 10628,
+      "source": "AI Post (TG)",
+      "title_en": "SpaceX secures major cloud deals with Google and AnthropicSpaceX recently signed significant agreements with cloud customers, resulting in a collective payment of $2.17 billion per month from Anthropi",
+      "description_en": "SpaceX secures major cloud deals with Google and AnthropicSpaceX recently signed significant agreements with cloud customers, resulting in a collective payment of $2.17 billion per month from Anthropic and Google for GPU computing power. These deals suggest an annualized revenue run rate of approximately $26 billion.Google’s latest contract involves a $920 million monthly payment for compute capacity at xAI data centers. Previously, Anthropic committed to paying SpaceX $1.25 billion each month f",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7140",
+      "image_url": "https://cdn4.telesco.pe/file/e002PzZc18VKUPYvtLdDTgH6vEoG79ZHk0B0_dY72t8y3MOKBZ__fPP_fx1RTSHkzY9lx-YVjzADyygs2KqJgd6mX12uWcobq3J3ClGUGeB2YylXtlkF_KlmZzDg5MHsWV-2fx2LJYZ2mUgYuRXtDy5eIELzFfJvaujdrMCzh02zD-KCHBYNNqnA5xcbcEXxEwarNkCOu0aSKbC6zRIzlQPqoHrsRvbZBcpc3qO_T9Aeiv27gitz8ywPQpyWiTMdg_9H9qFaADS_8KMB76Iafu94VYjWZfphJR2prcbezsN6inji24571GvQNM2cLzmCHuuhNLixsW8dy6S612rbhA.jpg",
+      "pub_date": "2026-06-06T05:00:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T06:28:37.545Z",
+      "created_at": "2026-06-06T06:28:37.545Z"
     }
   ]
 }
