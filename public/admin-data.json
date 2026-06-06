@@ -1,9 +1,9 @@
 {
-  "total": 10643,
+  "total": 10645,
   "translated": 8824,
-  "untranslated": 1819,
-  "today": 20,
-  "week": 792,
+  "untranslated": 1821,
+  "today": 22,
+  "week": 794,
   "sources": [
     {
       "name": "Product Hunt",
@@ -55,7 +55,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 445,
+      "total": 446,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -205,9 +205,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 34,
+      "total": 35,
       "translated": 23,
-      "lastDate": "2026-06-06T09:13:54+00:00"
+      "lastDate": "2026-06-06T10:14:34+00:00"
     },
     {
       "name": "pymnts.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-06T10:05:47.097Z"
+  "generatedAt": "2026-06-06T11:00:25.939Z"
 }
