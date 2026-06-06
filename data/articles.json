@@ -222925,6 +222925,102 @@
       "priority": "hot",
       "fetchedAt": "2026-06-06T11:53:04.690Z",
       "created_at": "2026-06-06T11:53:04.690Z"
+    },
+    {
+      "id": 10651,
+      "source": "The Verge AI",
+      "title_en": "Here comes new Siri again",
+      "description_en": "Our first glimpse of the new AI Siri came all the way back at WWDC 2024.\t\n\nApple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move.\nAt WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in 2024 when Apple \"launched\" Apple Intelligence. Siri came with a new glowing border, different voice options, and the ability to punt questions to ChatGPT.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+      "image_url": null,
+      "pub_date": "2026-06-06T12:00:00.000Z",
+      "author": "Allison Johnson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T12:10:34.462Z",
+      "created_at": "2026-06-06T12:10:34.462Z"
+    },
+    {
+      "id": 10652,
+      "source": "Hugging Face Blog",
+      "title_en": "Persona Atlas: Mapping How Famous Minds Think",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/build-small-hackathon/persona-atlas",
+      "image_url": null,
+      "pub_date": "Sat, 06 Jun 2026 11:42:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T12:10:35.791Z",
+      "created_at": "2026-06-06T12:10:35.791Z"
+    },
+    {
+      "id": 10653,
+      "source": "The Guardian AI",
+      "title_en": "‘We should not have to sacrifice’: New York could become first state to temporarily ban large datacenters",
+      "description_en": "Kristen Gonzalez, a state senator who authored the bill, said moratorium would target ‘hyperscale’ datacenters over 20MW\nNew York moved closer toward becoming the first US state to enact a moratorium on large datacenters this week. On Thursday, the state legislature approved a one-year ban on the facilities powering the AI boom.\nThe measure now heads to Kathy Hochul, the governor, who will decide whether to sign it into law. The Guardian spoke to a state senator in the wake of the historic vote ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/2026/jun/06/new-york-datacenter-temporary-ban",
+      "image_url": "https://i.guim.co.uk/img/media/46220c650589099f91e2d8734928255c847d145e/402_0_4427_3543/master/4427.jpg?width=140&quality=85&auto=format&fit=max&s=bf789cace56d82a7ca7275e3417308d3",
+      "pub_date": "Sat, 06 Jun 2026 12:00:04 GMT",
+      "author": "Sanya Mansoor",
+      "categories": [
+        {
+          "_": "New York",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/new-york"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T12:10:36.832Z",
+      "created_at": "2026-06-06T12:10:36.832Z"
+    },
+    {
+      "id": 10654,
+      "source": "Tom's Hardware",
+      "title_en": "Huawei-led team claims it post-trained DeepSeek's 1.6-trillion-parameter model — 1,000 Ascend 910C chips used in training",
+      "description_en": "A research group that includes Huawei Technologies says it completed full-parameter post-training of DeepSeek's V4-Pro, a 1.6-trillion-parameter model.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-led-team-claims-it-post-trained-deepseeks-1-6-trillion-parameter-models-on-ascend-910c-chips",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/zfDV4Yc5qbdYxR9jC8U8NA-1280-80.jpg",
+      "pub_date": "Sat, 06 Jun 2026 12:00:00 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T12:10:38.112Z",
+      "created_at": "2026-06-06T12:10:38.112Z"
     }
   ]
 }
