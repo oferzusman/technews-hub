@@ -1,9 +1,9 @@
 {
-  "total": 10662,
+  "total": 10665,
   "translated": 8824,
-  "untranslated": 1838,
-  "today": 39,
-  "week": 811,
+  "untranslated": 1841,
+  "today": 42,
+  "week": 814,
   "sources": [
     {
       "name": "Product Hunt",
@@ -55,7 +55,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 448,
+      "total": 449,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -79,9 +79,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 309,
+      "total": 310,
       "translated": 231,
-      "lastDate": "2026-06-06T12:00:00.000Z"
+      "lastDate": "2026-06-06T14:00:00.000Z"
     },
     {
       "name": "Futurism",
@@ -120,16 +120,16 @@
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
+      "name": "Backdoor (TG)",
+      "total": 110,
+      "translated": 68,
+      "lastDate": "2026-06-06T13:44:28+00:00"
+    },
+    {
       "name": "Hi, AI Russian (TG)",
       "total": 110,
       "translated": 63,
       "lastDate": "2026-06-06T07:05:03+00:00"
-    },
-    {
-      "name": "Backdoor (TG)",
-      "total": 109,
-      "translated": 68,
-      "lastDate": "2026-06-06T13:18:01+00:00"
     },
     {
       "name": "AI News",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-06T13:44:31.227Z"
+  "generatedAt": "2026-06-06T14:07:20.193Z"
 }
