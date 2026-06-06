@@ -223183,7 +223183,7 @@
       "author": "Robert Hart",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T14:06:17.920Z",
       "created_at": "2026-06-06T14:06:17.920Z"
     },
@@ -223204,7 +223204,7 @@
         "Recursive"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T14:06:19.180Z",
       "created_at": "2026-06-06T14:06:19.180Z"
     },
@@ -223221,7 +223221,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T14:06:22.107Z",
       "created_at": "2026-06-06T14:06:22.107Z"
     },
@@ -223255,7 +223255,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T15:15:39.932Z",
       "created_at": "2026-06-06T15:15:39.932Z"
     },
@@ -223294,6 +223294,118 @@
       "priority": "hot",
       "fetchedAt": "2026-06-06T15:38:26.870Z",
       "created_at": "2026-06-06T15:38:26.870Z"
+    },
+    {
+      "id": 10670,
+      "source": "TechCrunch AI",
+      "title_en": "The Trump administration might take an equity stake in OpenAI",
+      "description_en": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "image_url": null,
+      "pub_date": "Sat, 06 Jun 2026 16:17:21 +0000",
+      "author": "Anthony Ha",
+      "categories": [
+        "AI",
+        "Government & Policy",
+        "Donald Trump",
+        "OpenAI",
+        "sam altman"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T16:38:57.803Z",
+      "created_at": "2026-06-06T16:38:57.803Z"
+    },
+    {
+      "id": 10671,
+      "source": "The Guardian AI",
+      "title_en": "Suit filed against controversial planned Stratos datacenter project in Utah",
+      "description_en": "Plan backed by Shark Tank’s Kevin O’Leary had footprint reduced but concerns remain over its health impacts\nUtah residents have teamed up with a progressive non-profit organization to sue over an under-development AI datacenter backed by celebrity investor Kevin O’Leary, claiming the planned Stratos project facility “irrevocably” cuts off citizens’ rights by not allowing sufficient public input.\nFiled by the Alliance for a Better Utah and five unnamed residents of the Box Elder county area where",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/2026/jun/06/stratos-datacenter-utah-suit",
+      "image_url": "https://i.guim.co.uk/img/media/c718370b4e39a4654e250c2a7a1d75898c0823e3/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=f804b4bcaa5e178cd085c1898f4b0ee5",
+      "pub_date": "Sat, 06 Jun 2026 15:46:05 GMT",
+      "author": "Edward Helmore",
+      "categories": [
+        {
+          "_": "Utah",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/utah"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T16:39:00.493Z",
+      "created_at": "2026-06-06T16:39:00.493Z"
+    },
+    {
+      "id": 10672,
+      "source": "Tom's Hardware",
+      "title_en": "AMD B650 expansion cards hit retail starting at $199 — add four M.2 PCIe 4.0 slots and 11 USB ports to any PC with a PCIe slot",
+      "description_en": "A couple of new add-in cards exemplify the trend of slapping AMD's Promontory 21 chipset onto a card for extra I/O expansion.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/chipsets/amd-b650-expansion-cards-hit-retail-starting-at-usd199-add-four-m-2-pcie-4-0-slots-and-11-usb-ports-to-any-pc-with-a-pcie-slot",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/8HdjekbDDitLGexYc3Mkyc-1280-80.jpg",
+      "pub_date": "Sat, 06 Jun 2026 16:29:46 +0000",
+      "author": " Zak Killian ",
+      "categories": [
+        "Chipsets",
+        "PC Components",
+        "Motherboards"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T16:39:01.661Z",
+      "created_at": "2026-06-06T16:39:01.661Z"
+    },
+    {
+      "id": 10673,
+      "source": "Tom's Hardware",
+      "title_en": "Gaming soundbar can be hijacked from over 16 yards away without touch or pairing — the company allegedly refuses to label the blatant security flaw a cybersecurity risk",
+      "description_en": "Security researcher Rasmus Moorats has demonstrated that Creative's Sound Blaster Katana V2X gaming soundbar can be hijacked over Bluetooth from up to 16 yards away.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/creatives-sound-blaster-katana-v2x-can-be-hijacked-over-bluetooth",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/YUDxAZxxyWFMPWzwJRmWvH-1280-80.jpg",
+      "pub_date": "Sat, 06 Jun 2026 16:06:19 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Cybersecurity",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T16:39:01.661Z",
+      "created_at": "2026-06-06T16:39:01.661Z"
     }
   ]
 }
