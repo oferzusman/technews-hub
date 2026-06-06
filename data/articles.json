@@ -223314,7 +223314,7 @@
         "sam altman"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T16:38:57.803Z",
       "created_at": "2026-06-06T16:38:57.803Z"
     },
@@ -223383,7 +223383,7 @@
         "Motherboards"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T16:39:01.661Z",
       "created_at": "2026-06-06T16:39:01.661Z"
     },
@@ -223403,7 +223403,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T16:39:01.661Z",
       "created_at": "2026-06-06T16:39:01.661Z"
     },
@@ -223459,7 +223459,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T17:49:17.717Z",
       "created_at": "2026-06-06T17:49:17.717Z"
     },
@@ -223476,9 +223476,69 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T17:49:18.436Z",
       "created_at": "2026-06-06T17:49:18.436Z"
+    },
+    {
+      "id": 10678,
+      "source": "TechCrunch AI",
+      "title_en": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "description_en": "Apple's WWDC nears: Here's what you can look forward to.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "image_url": null,
+      "pub_date": "Sat, 06 Jun 2026 18:13:36 +0000",
+      "author": "Lauren Forristal",
+      "categories": [
+        "AI",
+        "Apps",
+        "Hardware",
+        "Apple",
+        "Apple Intelligence",
+        "siri",
+        "wwdc",
+        "WWDC 2026"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T19:03:12.613Z",
+      "created_at": "2026-06-06T19:03:12.613Z"
+    },
+    {
+      "id": 10679,
+      "source": "Hugging Face Blog",
+      "title_en": "Five labs, five minds: building a multi-model finance drama on small models",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+      "image_url": null,
+      "pub_date": "Sat, 06 Jun 2026 19:02:33 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T19:03:14.369Z",
+      "created_at": "2026-06-06T19:03:14.369Z"
+    },
+    {
+      "id": 10680,
+      "source": "XOR Journal (TG)",
+      "title_en": "Выбирай с умом, кого кормить 🤣@xor_journal",
+      "description_en": "Выбирай с умом, кого кормить 🤣@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9468",
+      "image_url": "https://cdn4.telesco.pe/file/MDskoOoneVh5RWkKlE3AvX5wuNmXRQ1hH-CqUmZCdrdPyzmDM8QMQ9AG9cifTtNvZpUBXsm8sFzVfDpbzhuRCOKXGM0X74gyuMZ0H-TSLZhDzgC8pMPL3kkIecpsM0e6EyyOceMfeH_IjTZqzzwiqvEnuatzCZf5Sb2dP9ZpPJ0yWn9ziHVwqby0JulIWNqEgtLh5TxkHUYHfgLnen6IUiM6Rd19ZATEL5yzEs_-7lTRV-KsPZ-pUf3d29ILHGPM0ksBOhlcEXpbU7FFucsz-z2bjs2hnePoguWaVTK7YM6VYvlXnPK1AOzY9a0HnIv9Q8c9lqFbEo3l9WQ5rDLvaQ.jpg",
+      "pub_date": "2026-06-06T18:27:40+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T19:03:18.044Z",
+      "created_at": "2026-06-06T19:03:18.044Z"
     }
   ]
 }
