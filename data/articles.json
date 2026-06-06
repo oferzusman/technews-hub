@@ -222939,7 +222939,7 @@
       "author": "Allison Johnson",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T12:10:34.462Z",
       "created_at": "2026-06-06T12:10:34.462Z"
     },
@@ -222998,7 +222998,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T12:10:36.832Z",
       "created_at": "2026-06-06T12:10:36.832Z"
     },
@@ -223018,7 +223018,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T12:10:38.112Z",
       "created_at": "2026-06-06T12:10:38.112Z"
     },
@@ -223169,6 +223169,61 @@
       "priority": "hot",
       "fetchedAt": "2026-06-06T13:42:36.478Z",
       "created_at": "2026-06-06T13:42:36.478Z"
+    },
+    {
+      "id": 10663,
+      "source": "The Verge AI",
+      "title_en": "Meta made its own AI-generated clickbait news feed",
+      "description_en": "An AI-generated image of the royal family featuring two Queen Elizabeth IIs. | ﻿Image: Meta AI\t\n\nFacebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI.\nThe standalone Meta AI app now has a \"For You\" section that populates a list of clickbait-style stories for you to read. But the topics, images, and text are all AI-generated - and as questionable as you'd expect from AI-created works.\nThe Meta AI app first launched in April 2025 wi",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+      "image_url": null,
+      "pub_date": "2026-06-06T14:00:00.000Z",
+      "author": "Robert Hart",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T14:06:17.920Z",
+      "created_at": "2026-06-06T14:06:17.920Z"
+    },
+    {
+      "id": 10664,
+      "source": "The Decoder",
+      "title_en": "Sakana AI bets AI that improves itself can break the compute arms race of frontier labs",
+      "description_en": "Sakana AI has launched a dedicated research lab for recursive self-improvement: AI that iteratively improves itself. The Japanese startup, co-founded by Transformer co-author Llion Jones, sees RSI as an alternative to the raw compute arms race among big US labs. Anthropic, meanwhile, warns about the control risks of this very technology.\nThe article Sakana AI bets AI that improves itself can break the compute arms race of frontier labs appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/sakana-ai-bets-ai-that-improves-itself-can-break-the-compute-arms-race-of-frontier-labs/",
+      "image_url": null,
+      "pub_date": "Sat, 06 Jun 2026 13:57:52 +0000",
+      "author": "Tomislav Bezmalinović",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Recursive"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T14:06:19.180Z",
+      "created_at": "2026-06-06T14:06:19.180Z"
+    },
+    {
+      "id": 10665,
+      "source": "Backdoor (TG)",
+      "title_en": "Забираем больше 3️⃣0️⃣0️⃣0️⃣ навыков для ваших ИИ-агентов, которые учат нейронки работать с конкретными приложениями. Гении собрали ультимативный топ под любые задачи.• Каждый навык — папка с файлами,",
+      "description_en": "Забираем больше 3️⃣0️⃣0️⃣0️⃣ навыков для ваших ИИ-агентов, которые учат нейронки работать с конкретными приложениями. Гении собрали ультимативный топ под любые задачи.• Каждый навык — папка с файлами, которая описывает структуру приложения, как с ним работать и какие задачи можно выполнять.• Вместо того чтобы вручную передавать ключи API или копировать документацию, агент просто использует нужный навык.• Работает с Claude Code, Cursor, GitHub Copilot, Gemini CLI и любым агентом, поддерживающим с",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/28991",
+      "image_url": "https://cdn4.telesco.pe/file/o_hS-Y_32Bh07gVtXzaAHWHElamb4T8edLV4wIoUKFFC99iUym6zdW7tWmFitgbuSowr08aKGTyYMxCJlA8KnY_fydTIT9XNMDRPotoQ2DDEQXp9b98w05mjEbKbNTIE8NGH9qsiAGVVVaBCokqA40B2xn6Okq951pvXw9gyUzYlEG0gJIdNAVv8eAc0YtTSvqd-Y2U0LYh9TNgjch5kdqmLwxm2rF881Ta-wKWapxg5WjLU_3D4_INma4YUF0-svA--w5Zo4duVddxtYDYwbQyH0woFgDX9m1qofhcLI8lXWwugl8NTmYhG7-fPrWcW-LflUEF0HFK8suKEdHII5A.jpg",
+      "pub_date": "2026-06-06T13:44:28+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T14:06:22.107Z",
+      "created_at": "2026-06-06T14:06:22.107Z"
     }
   ]
 }
