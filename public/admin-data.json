@@ -1,9 +1,9 @@
 {
-  "total": 10677,
+  "total": 10680,
   "translated": 8824,
-  "untranslated": 1853,
-  "today": 54,
-  "week": 826,
+  "untranslated": 1856,
+  "today": 57,
+  "week": 829,
   "sources": [
     {
       "name": "Product Hunt",
@@ -31,7 +31,7 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 521,
+      "total": 522,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -103,9 +103,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 243,
+      "total": 244,
       "translated": 119,
-      "lastDate": "2026-06-06T17:40:08+00:00"
+      "lastDate": "2026-06-06T18:27:40+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -115,7 +115,7 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 143,
+      "total": 144,
       "translated": 122,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-06T18:20:14.454Z"
+  "generatedAt": "2026-06-06T19:06:12.351Z"
 }
