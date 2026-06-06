@@ -223502,7 +223502,7 @@
         "WWDC 2026"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T19:03:12.613Z",
       "created_at": "2026-06-06T19:03:12.613Z"
     },
@@ -223539,6 +223539,23 @@
       "priority": "hot",
       "fetchedAt": "2026-06-06T19:03:18.044Z",
       "created_at": "2026-06-06T19:03:18.044Z"
+    },
+    {
+      "id": 10681,
+      "source": "AI Post (TG)",
+      "title_en": "Imagine bringing a robot to a kids party and this happens…@aipost 🏴",
+      "description_en": "Imagine bringing a robot to a kids party and this happens…@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7146",
+      "image_url": null,
+      "pub_date": "2026-06-06T20:14:40+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T20:20:34.911Z",
+      "created_at": "2026-06-06T20:20:34.911Z"
     }
   ]
 }
