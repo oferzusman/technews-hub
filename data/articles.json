@@ -223553,7 +223553,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T20:20:34.911Z",
       "created_at": "2026-06-06T20:20:34.911Z"
     },
@@ -223574,7 +223574,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-06T20:46:43.208Z",
       "created_at": "2026-06-06T20:46:43.208Z"
     },
@@ -223611,6 +223611,56 @@
       "priority": "hot",
       "fetchedAt": "2026-06-06T21:34:36.026Z",
       "created_at": "2026-06-06T21:34:36.026Z"
+    },
+    {
+      "id": 10685,
+      "source": "MarkTechPost",
+      "title_en": "Google’s New Colab CLI Lets Developers and AI Agents Run Python on Remote Colab GPUs and TPUs From the Terminal",
+      "description_en": "Google released the Colab CLI, letting developers and AI agents run local code on remote Colab GPU and TPU runtime\nThe post Google’s New Colab CLI Lets Developers and AI Agents Run Python on Remote Colab GPUs and TPUs From the Terminal appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/06/googles-new-colab-cli-lets-developers-and-ai-agents-run-python-on-remote-colab-gpus-and-tpus-from-the-terminal/",
+      "image_url": null,
+      "pub_date": "Sat, 06 Jun 2026 22:07:34 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Uncategorized"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T22:36:02.261Z",
+      "created_at": "2026-06-06T22:36:02.261Z"
+    },
+    {
+      "id": 10686,
+      "source": "XOR Journal (TG)",
+      "title_en": "Автоматизируем поиск работы: разработчик выложил в опенсорс инструмент для Claude Code, который помогает с откликами.AI Job Search анализирует вакансии, определяет, насколько вы подходите, адаптирует ",
+      "description_en": "Автоматизируем поиск работы: разработчик выложил в опенсорс инструмент для Claude Code, который помогает с откликами.AI Job Search анализирует вакансии, определяет, насколько вы подходите, адаптирует под каждую CV, оставляя релевантный опыт, пишет сопроводительные письма, а второй агент все перепроверяет. Короче, эйчары будут в восторге.Находим работу мечты 💪@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9469",
+      "image_url": "https://cdn4.telesco.pe/file/k_tCPWeOMXicncZtjpr1jwnhOsQBbGG2WjLnhtqLndkzRsJ6qmmbu0w6lbnhKIDWogpgHGFTMrU5C-kWzO2F0iXNkt5zMLNFbIpOJ9OM24iU8IaPqMc4jKoNl9Doe5CX3IS-lvxc1HYrrFo-ga5vLXM_igNVyk0k39uQbtuZLh5Si88vIwBUXxhKz55SkE-0NAMSINK81-eLcSVsvDK4KlkChVy0a0pW8U7KWbJOkHoC9dlwjq1xk_rXejKecFf_v-B9pO8jYL5WcIhu9ktsmYXohUVK8HzrrkDaXa2VQO02tm2D1cZqZqxFNU6AKbLFRIT4QOJhsCeHsSRnfC060w.jpg",
+      "pub_date": "2026-06-06T22:30:08+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-06T22:36:07.871Z",
+      "created_at": "2026-06-06T22:36:07.871Z"
     }
   ]
 }
