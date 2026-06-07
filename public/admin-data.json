@@ -1,9 +1,9 @@
 {
-  "total": 10738,
+  "total": 10740,
   "translated": 8824,
-  "untranslated": 1914,
-  "today": 52,
-  "week": 838,
+  "untranslated": 1916,
+  "today": 54,
+  "week": 840,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 810,
+      "total": 811,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -115,7 +115,7 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 146,
+      "total": 147,
       "translated": 122,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-07T19:45:22.594Z"
+  "generatedAt": "2026-06-07T19:56:35.368Z"
 }
