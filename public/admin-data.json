@@ -1,9 +1,9 @@
 {
-  "total": 10691,
+  "total": 10693,
   "translated": 8824,
-  "untranslated": 1867,
-  "today": 5,
-  "week": 791,
+  "untranslated": 1869,
+  "today": 7,
+  "week": 793,
   "sources": [
     {
       "name": "Product Hunt",
@@ -67,7 +67,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 360,
+      "total": 361,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -97,7 +97,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 275,
+      "total": 276,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-07T05:08:45.789Z"
+  "generatedAt": "2026-06-07T06:15:57.687Z"
 }
