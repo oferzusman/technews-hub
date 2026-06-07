@@ -224685,7 +224685,7 @@
         "Networking"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T14:45:40.920Z",
       "created_at": "2026-06-07T14:45:40.920Z"
     },
@@ -224705,7 +224705,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T14:45:40.920Z",
       "created_at": "2026-06-07T14:45:40.920Z"
     },
@@ -224742,6 +224742,23 @@
       "priority": "hot",
       "fetchedAt": "2026-06-07T15:10:38.929Z",
       "created_at": "2026-06-07T15:10:38.929Z"
+    },
+    {
+      "id": 10732,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 ChatGPT is getting a complete overhaulOpenAI is preparing its biggest ChatGPT transformation yet, merging ChatGPT, Codex, and a web browser into a single AI-powered desktop platform ahead of its po",
+      "description_en": "🤖 ChatGPT is getting a complete overhaulOpenAI is preparing its biggest ChatGPT transformation yet, merging ChatGPT, Codex, and a web browser into a single AI-powered desktop platform ahead of its potential IPO, per FT.Enterprise AI agents, deeper coding capabilities, and new premium tiers will be introduced as OpenAI pushes to make ChatGPT the default interface between users and the internet.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7153",
+      "image_url": "https://cdn4.telesco.pe/file/uCsfUv2hlyiEU7bI50a9GAdhY8-OLEQ6tiqb5mTTNTfyc9UTJ8DK8jDXSaRRH0dngNr8BvZqZc6fhU_AP6DUxF0beR-bg_lxkqS1EM7_bj8jbQvZV4uMDXr5C5QQFYppDu_p92Lz80PV4dlar3WHVI4R4_r5zD_Ui5YVlKpiBGECLP7a5K4G61C8xfRvN5B5FdXYaAgA8tF3Ih4fXKmkFK0ganNUi60avQqaElILM2EtERNfzo5L095X_DTGHbnKGAKP80jxqLgiApaEbb_Pz6x7J0LKCt7hlVl8tNoKU9uyETQh2Phus2INbduilXJ58-GDqSMC0fxdiOos_RTeXg.jpg",
+      "pub_date": "2026-06-07T15:20:47+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T16:05:11.493Z",
+      "created_at": "2026-06-07T16:05:11.493Z"
     }
   ]
 }
