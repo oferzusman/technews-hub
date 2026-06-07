@@ -223916,7 +223916,7 @@
         "AI training"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T08:35:03.857Z",
       "created_at": "2026-06-07T08:35:03.857Z"
     },
@@ -224066,6 +224066,45 @@
       "priority": "hot",
       "fetchedAt": "2026-06-07T09:35:29.397Z",
       "created_at": "2026-06-07T09:35:29.397Z"
+    },
+    {
+      "id": 10704,
+      "source": "The Decoder",
+      "title_en": "ChatGPT's new Lockdown Mode lets you disable web access and more to protect sensitive data from prompt injection",
+      "description_en": "OpenAI's new Lockdown Mode for ChatGPT disables web access, Deep Research, and Agent Mode to make data theft through prompt injection attacks harder. The mode doesn't fully prevent such attacks, it only blocks the final step in an exfiltration chain. Prompt injection remains an unsolved problem.\nThe article ChatGPT's new Lockdown Mode lets you disable web access and more to protect sensitive data from prompt injection appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/chatgpts-new-lockdown-mode-lets-you-disable-web-access-and-more-to-protect-sensitive-data-from-prompt-injection/",
+      "image_url": null,
+      "pub_date": "Sun, 07 Jun 2026 09:44:05 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "ChatGPT",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T09:49:00.402Z",
+      "created_at": "2026-06-07T09:49:00.402Z"
+    },
+    {
+      "id": 10705,
+      "source": "Backdoor (TG)",
+      "title_en": "Нашли ультимативный учебник по разработке ИИ-агентов — авторы собрали всю базу, чтобы создавать собственных нейропомощников и даже зарабатывать на этом.Лютая база:• Планирование• Память• Инструменты• ",
+      "description_en": "Нашли ультимативный учебник по разработке ИИ-агентов — авторы собрали всю базу, чтобы создавать собственных нейропомощников и даже зарабатывать на этом.Лютая база:• Планирование• Память• Инструменты• Мультизадачность• Многосостаные задачи• Особенности работы и отличия от LLMИзучаем — тут.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29007",
+      "image_url": "https://cdn4.telesco.pe/file/H64JkwJHzPVIFp817lodX4YVs_BUFki1lnFREssmIWf6lymnP6U4Qp4__dbNbJIsimg4fplVfNZFql_tuZYGYxVYyMA9nsaTncU29myJZr-7o9tc1Hk09BsVbGriyuth-_FgmvaB5rYzkVnKky_cOE1gt9vIqlVOvUNKrs9dyFCzR1oIqRa51o_az4iZ89Lmvvwl8y8F8MerCsIL6aFdfcDaBsiJKf1kYMgS6ewg_Npomod5tg2jIfRWh0viR8DUUCI_HcqkooOB-81ql3kVItWGm4bGNNpfI9BwK5ADqM9Lp5ulsYKFFiIDRXsWuhDKdAKKKgf7y314ID52Rsr-Pg.jpg",
+      "pub_date": "2026-06-07T09:43:57+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T09:49:06.846Z",
+      "created_at": "2026-06-07T09:49:06.846Z"
     }
   ]
 }
