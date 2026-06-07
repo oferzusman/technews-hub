@@ -223895,7 +223895,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T08:35:03.857Z",
       "created_at": "2026-06-07T08:35:03.857Z"
     },
@@ -223965,7 +223965,7 @@
       "author": "Utkarsh Sood",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T08:35:04.741Z",
       "created_at": "2026-06-07T08:35:04.741Z"
     },
@@ -223982,7 +223982,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T08:35:08.499Z",
       "created_at": "2026-06-07T08:35:08.499Z"
     },
@@ -224046,7 +224046,7 @@
         "Uncategorized"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T09:35:24.486Z",
       "created_at": "2026-06-07T09:35:24.486Z"
     },
@@ -224105,6 +224105,365 @@
       "priority": "hot",
       "fetchedAt": "2026-06-07T09:49:06.846Z",
       "created_at": "2026-06-07T09:49:06.846Z"
+    },
+    {
+      "id": 10706,
+      "source": "The Decoder",
+      "title_en": "Perplexity's \"Search as Code\" lets AI models write their own search pipelines instead of calling fixed APIs",
+      "description_en": "Perplexity's new \"Search as Code\" architecture dumps rigid search APIs and lets AI models write their own search routines in Python. By letting the agent handle its own filtering and deduplication inside a sandbox, the system beats OpenAI and Anthropic on key benchmarks, while cutting token costs by up to 85 percent.\nThe article Perplexity's \"Search as Code\" lets AI models write their own search pipelines instead of calling fixed APIs appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/perplexitys-search-as-code-lets-ai-models-write-their-own-search-pipelines-instead-of-calling-fixed-apis/",
+      "image_url": null,
+      "pub_date": "Sun, 07 Jun 2026 10:28:33 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "AI search",
+        "Perplexity"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T11:08:50.257Z",
+      "created_at": "2026-06-07T11:08:50.257Z"
+    },
+    {
+      "id": 10707,
+      "source": "Hugging Face Blog",
+      "title_en": "Her · हेर — a detective for your Claude Code sessions",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/build-small-hackathon/her-blog",
+      "image_url": null,
+      "pub_date": "Sun, 07 Jun 2026 10:13:41 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T11:08:50.532Z",
+      "created_at": "2026-06-07T11:08:50.532Z"
+    },
+    {
+      "id": 10708,
+      "source": "The Guardian AI",
+      "title_en": "Billions spent and hypothetical returns: the AI boom explained with six charts",
+      "description_en": "Expenditure is growing fast and consumer take-up accelerating. But alarm bells are sounding \nThe race is very much on. Elon Musk’s SpaceX, which makes AI models as well as space rockets, announced last week it is seeking a $1.77tn (£1.31tn) valuation on the US stock market while Anthropic, the startup behind the Claude chatbot, said it had filed for an initial public offering. OpenAI, the developer of ChatGPT, is expected to follow.\nThis latest peak in the AI market comes amid a multitrillion-do",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/07/billions-spent-hypothetical-returns-the-ai-boom-explained-with-six-charts",
+      "image_url": "https://i.guim.co.uk/img/media/8d22cd46313024f00edf35714cd5a309b6ceb4d7/900_0_6248_4999/master/6248.jpg?width=140&quality=85&auto=format&fit=max&s=d8f4b6eb2179b7d354a38a020c5698b9",
+      "pub_date": "Sun, 07 Jun 2026 11:00:31 GMT",
+      "author": "Dan Milmo and Aisha Down. Graphics by Ana Lucía González Paz",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Productivity",
+          "$": {
+            "domain": "https://www.theguardian.com/business/productivity"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "Energy industry",
+          "$": {
+            "domain": "https://www.theguardian.com/business/energy-industry"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        },
+        {
+          "_": "IPOs",
+          "$": {
+            "domain": "https://www.theguardian.com/business/ipos"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T11:08:51.261Z",
+      "created_at": "2026-06-07T11:08:51.261Z"
+    },
+    {
+      "id": 10709,
+      "source": "The Guardian AI",
+      "title_en": "‘A driver of political violence’: how the breakneck AI boom is fueling anti-tech extremism",
+      "description_en": "Backlash against AI is taking an extremist turn, following in the footsteps of earlier techno-pessimist militants\n\nSign up for the Breaking News US newsletter email \n\nWhen a 20-year-old man from Texas was arrested earlier this year for allegedly trying to burn down OpenAI’s headquarters and Sam Altman’s house, authorities found an anti-AI manifesto alongside his lighter and a jug of kerosene. It was one of a spate of attacks that has caused alarm among researchers, the tech industry and law enfo",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/07/anti-ai-tech-extremism-violence",
+      "image_url": "https://i.guim.co.uk/img/media/798cc9e3b726c997346f78594cc7af41466a8587/0_728_3600_2877/master/3600.jpg?width=140&quality=85&auto=format&fit=max&s=fd5537ea2110448f984c8c73baf20d41",
+      "pub_date": "Sun, 07 Jun 2026 10:00:31 GMT",
+      "author": "Nick Robins-Early",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "US crime",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-crime"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        },
+        {
+          "_": "Sam Altman",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/sam-altman"
+          }
+        },
+        {
+          "_": "Palantir",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/palantir"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "Donald Trump",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/donaldtrump"
+          }
+        },
+        {
+          "_": "Brian Thompson shooting",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/brian-thompson-shooting"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T11:08:51.261Z",
+      "created_at": "2026-06-07T11:08:51.261Z"
+    },
+    {
+      "id": 10710,
+      "source": "Interesting Engineering",
+      "title_en": "Flying car industry turns to solid-state batteries for commercial takeoff",
+      "description_en": "As the flying car industry moves from prototype development toward commercial deployment, attention is increasingly...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/flying-car-turns-to-solid-state-batteries-for-takeoff",
+      "image_url": "https://www.youtube.com/embed/cFKP-_CwS5Y",
+      "pub_date": "Sun, 07 Jun 2026 11:06:59 +0000",
+      "author": "Bojan Stojkovski",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T11:08:51.756Z",
+      "created_at": "2026-06-07T11:08:51.756Z"
+    },
+    {
+      "id": 10711,
+      "source": "Interesting Engineering",
+      "title_en": "500-mile autonomous hybrid military EV for US: Harbinger and Rheinmetall unveil truck concept",
+      "description_en": "Electric vehicle startup Harbinger has reportedly teamed up with American Rheinmetall to develop various trucks...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/500-mile-autonomous-hybrid-ev-for-us-army",
+      "image_url": "https://www.youtube.com/embed/bidIBgAig7E",
+      "pub_date": "Sun, 07 Jun 2026 10:54:01 +0000",
+      "author": "Christopher McFadden",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T11:08:51.756Z",
+      "created_at": "2026-06-07T11:08:51.756Z"
+    },
+    {
+      "id": 10712,
+      "source": "Tom's Hardware",
+      "title_en": "Ludicrous overclock slams 1.7 volts into 6700K in an attempt to stop CPU from bottlenecking an RTX 3080 — 5.2 GHz on aging four-core pushes GPU utilization from 60% to 74%",
+      "description_en": "YouTuber challenges himself to alleviate a CPU bottleneck with a Core i7-6700K paired with an RTX 3080 through overclocking.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/youtube-slams-1-7-volts-into-6700k-in-an-attempt-to-stop-the-cpu-from-bottlenecking-an-rtx-3080-pushes-gpu-utilization-from-60-percent-to-74-percent",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/T9TnY55QcTPbuJ2hAie5e6-1280-80.png",
+      "pub_date": "Sun, 07 Jun 2026 11:00:00 +0000",
+      "author": " Aaron Klotz ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T11:08:52.044Z",
+      "created_at": "2026-06-07T11:08:52.044Z"
+    },
+    {
+      "id": 10713,
+      "source": "Tom's Hardware",
+      "title_en": "AMD reaches almost 45% CPU share in the latest Steam Hardware Survey for Windows gaming PCs — Ryzen is steadily gaining ground against Intel's legacy domination",
+      "description_en": "The latest Steam Hardware Survey is out and it's showing positive signs of growth for AMD, while Intel is unfortunately on a decline. The Red Team posted its best-ever CPU market share numbers in May 2026 with 45% of all CPUs on Windows being from AMD, while Intel is down to 55%, which is still more for now.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-reaches-almost-45-percent-cpu-share-in-the-latest-steam-hardware-survey-for-windows-gaming-pcs-ryzen-is-steadily-gaining-ground-against-intels-legacy-domination",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/wBupe4qhxBjnYPcXa5HU2k-1280-80.jpg",
+      "pub_date": "Sun, 07 Jun 2026 11:00:00 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T11:08:52.044Z",
+      "created_at": "2026-06-07T11:08:52.044Z"
+    },
+    {
+      "id": 10714,
+      "source": "Tom's Hardware",
+      "title_en": "Intel adds iGPU-less mobile chips to Core 200H lineup — Raptor Lake-based Core 7 230H and Core 5 205H sport disabled graphics for small form factor desktop boards",
+      "description_en": "Intel introduces two new Raptor Lake CPUs in its Core 200H series lineup featuring disabled integrated graphics chips. The new CPUs are likely geared towards SFF desktops rather than laptops and 2-in-1 devices.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-adds-igpu-less-mobile-chips-to-core-200h-lineup-raptor-lake-based-core-7-230h-and-core-5-205h-sport-disabled-graphics-for-small-form-factor-desktop-boards",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/wUsSLzuor4dtkrjsTZUnB3-1280-80.jpg",
+      "pub_date": "Sun, 07 Jun 2026 10:00:00 +0000",
+      "author": " Aaron Klotz ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T11:08:52.044Z",
+      "created_at": "2026-06-07T11:08:52.044Z"
+    },
+    {
+      "id": 10715,
+      "source": "XOR Journal (TG)",
+      "title_en": "Тебя не заменит ИИ, если будешь вести себя, как ИИ 🧠@xor_journal",
+      "description_en": "Тебя не заменит ИИ, если будешь вести себя, как ИИ 🧠@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9470",
+      "image_url": "https://cdn4.telesco.pe/file/X5BSy06VWlz2rllR32bwDX-hcUlb8q1miYJ8yFrL3tDltsGYgoiyIzZNuOxoQ65J-x6MwaXDDFq6_DRMnCAlutRH56-MMFk_Co5uEh1u6eZKLKaMiEKkbxfTzJw90AwHdSjy7mlG4KMtNqtsdCvTFDYX3ZFr9QnBlqKvZnRPOLFuiN7GpoRPokjoL__M2buUpcBWrIRbqQnDgIqHPgCw9_7wJmCZ_BOj_877OSCpnN6juj2HDadV9WKeCnmP187h_qKAyeK_hq60a23m8GNUicyzdB_cSWsySwhhqxzwf7MY_lXB11KChSpTi5bQIOQR15qFUTT6AHkXOHr43Kgj1g.jpg",
+      "pub_date": "2026-06-07T10:16:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T11:08:54.145Z",
+      "created_at": "2026-06-07T11:08:54.145Z"
+    },
+    {
+      "id": 10716,
+      "source": "Hi, AI English (TG)",
+      "title_en": "💡 Nvidia CEO Dreams of Dying on the Job In an interview with CNA, Jensen Huang said he wants to work as long as possible, and dying on the job would be \"a dream come true.\"He can't imagine a more mea",
+      "description_en": "💡 Nvidia CEO Dreams of Dying on the Job In an interview with CNA, Jensen Huang said he wants to work as long as possible, and dying on the job would be \"a dream come true.\"He can't imagine a more meaningful life. On top of that, both of his children work at Nvidia—he gets to see them every day and couldn't be prouder.💰 In another recent appearance, Huang said Taiwanese parents are tough on their kids. \"I'm 63, and they still think I'm not good enough,\" says Huang, ranked #8 on the Forbes list ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2560",
+      "image_url": "https://cdn4.telesco.pe/file/BZmGyfNohfXBanqsLMCbwDYBZ7SdO0YX_u-Epkb_AdyKZGEE_nLUKYCsCj_Jc5L3iYHyZKNQ01TvrDjpSXhm_vaDDUq9GPjObxH_Zg6L92qsdRqM38kLofVwqoHTyb1VzMtaTn3ZJqoiwP8hIQyfdt8vPr51euv41J1kgQMPKsa2iM3Ju8JTHqLO3DlOuUq_wIkpQ0WKq_66Lz2nGWvGT_psUJFTOVGNIPTJKJQBHPIhEEwUNSCSuxU8Sm7-P4NZwpA4OWJydUI4IwSb60Lsnk5YDnBlslTXPxhWM7NzYr1T_s5Bi5Yuwd3ssoWmflg7K4xQmnN79SL5vdl9J5LZCA.jpg",
+      "pub_date": "2026-06-07T10:05:31+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T11:08:54.462Z",
+      "created_at": "2026-06-07T11:08:54.462Z"
     }
   ]
 }
