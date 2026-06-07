@@ -1,9 +1,9 @@
 {
-  "total": 10718,
+  "total": 10726,
   "translated": 8824,
-  "untranslated": 1894,
-  "today": 32,
-  "week": 818,
+  "untranslated": 1902,
+  "today": 40,
+  "week": 826,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,13 +13,13 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 873,
+      "total": 875,
       "translated": 652,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 809,
+      "total": 810,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -37,7 +37,7 @@
     },
     {
       "name": "Ars Technica",
-      "total": 477,
+      "total": 478,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 452,
+      "total": 453,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -73,15 +73,15 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 320,
+      "total": 321,
       "translated": 168,
-      "lastDate": "2026-06-07T09:24:54+00:00"
+      "lastDate": "2026-06-07T12:36:00+00:00"
     },
     {
       "name": "The Verge AI",
-      "total": 311,
+      "total": 312,
       "translated": 231,
-      "lastDate": "2026-06-06T15:05:00.000Z"
+      "lastDate": "2026-06-07T12:00:00.000Z"
     },
     {
       "name": "Futurism",
@@ -115,7 +115,7 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 145,
+      "total": 146,
       "translated": 122,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-07T11:45:38.065Z"
+  "generatedAt": "2026-06-07T12:58:19.209Z"
 }
