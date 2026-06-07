@@ -224085,7 +224085,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T09:49:00.402Z",
       "created_at": "2026-06-07T09:49:00.402Z"
     },
@@ -224102,7 +224102,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T09:49:06.846Z",
       "created_at": "2026-06-07T09:49:06.846Z"
     },
@@ -224124,7 +224124,7 @@
         "Perplexity"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T11:08:50.257Z",
       "created_at": "2026-06-07T11:08:50.257Z"
     },
@@ -224141,7 +224141,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T11:08:50.532Z",
       "created_at": "2026-06-07T11:08:50.532Z"
     },
@@ -224333,7 +224333,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T11:08:51.261Z",
       "created_at": "2026-06-07T11:08:51.261Z"
     },
@@ -224367,7 +224367,7 @@
       "author": "Christopher McFadden",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T11:08:51.756Z",
       "created_at": "2026-06-07T11:08:51.756Z"
     },
@@ -224427,7 +224427,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T11:08:52.044Z",
       "created_at": "2026-06-07T11:08:52.044Z"
     },
@@ -224444,7 +224444,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T11:08:54.145Z",
       "created_at": "2026-06-07T11:08:54.145Z"
     },
@@ -224461,7 +224461,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T11:08:54.462Z",
       "created_at": "2026-06-07T11:08:54.462Z"
     },
@@ -224504,6 +224504,152 @@
       "priority": "hot",
       "fetchedAt": "2026-06-07T11:29:42.047Z",
       "created_at": "2026-06-07T11:29:42.047Z"
+    },
+    {
+      "id": 10719,
+      "source": "The Verge AI",
+      "title_en": "AI ‘content creators’ are getting harder to spot",
+      "description_en": "Aitana Lopez, AI avatar by creative agency The Clueless. | Image: The Clueless\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started \nAt first, AI influencers were relatively easy to identify - and to ignore. Aside from the occasional bursts of hype, they didn't seem to change much about the way social ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
+      "image_url": null,
+      "pub_date": "2026-06-07T12:00:00.000Z",
+      "author": "Robert Hart",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T12:55:15.518Z",
+      "created_at": "2026-06-07T12:55:15.518Z"
+    },
+    {
+      "id": 10720,
+      "source": "Ars Technica",
+      "title_en": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
+      "description_en": "How accurate does an AI system need to be?",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1434414748-1152x648-1780697703.jpg",
+      "pub_date": "Sun, 07 Jun 2026 11:08:30 +0000",
+      "author": "\n                    Cyrus Farivar\n                ",
+      "categories": [
+        "AI",
+        "Policy",
+        "gun",
+        "schools"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T12:55:15.600Z",
+      "created_at": "2026-06-07T12:55:15.600Z"
+    },
+    {
+      "id": 10721,
+      "source": "Hugging Face Blog",
+      "title_en": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers",
+      "image_url": null,
+      "pub_date": "Sun, 07 Jun 2026 11:38:54 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T12:55:17.209Z",
+      "created_at": "2026-06-07T12:55:17.209Z"
+    },
+    {
+      "id": 10722,
+      "source": "New Atlas",
+      "title_en": "Pilot-controlled TaxiBot could slash aircraft ground emissions by 80%",
+      "description_en": "To cut costs and emissions, Amsterdam's Schiphol Airport is rolling out a pilot program using a semi-robotic ground tug called TaxiBot that allows pilots to taxi airliners around the airport without using their main jet engines.\nContinue Reading\nCategory: Aircraft, Transport\nTags: Aircraft, Airports, Emissions, Remote-Control",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/aircraft/taxibot-air-taxiing-robot-schiphol-airport/",
+      "image_url": null,
+      "pub_date": "Sun, 07 Jun 2026 12:03:00 GMT",
+      "author": "David Szondy",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T12:55:17.608Z",
+      "created_at": "2026-06-07T12:55:17.608Z"
+    },
+    {
+      "id": 10723,
+      "source": "Interesting Engineering",
+      "title_en": "Video: Robot masters air hockey, learns to beat humans without ever touching real table",
+      "description_en": "A trio of students from the University of British Columbia has put their expertise to the...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/robot-masters-air-hockey-without-touching-table",
+      "image_url": "https://www.youtube.com/embed/ugwpCam1rd0",
+      "pub_date": "Sun, 07 Jun 2026 11:44:38 +0000",
+      "author": "Christopher McFadden",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T12:55:18.389Z",
+      "created_at": "2026-06-07T12:55:18.389Z"
+    },
+    {
+      "id": 10724,
+      "source": "Tom's Hardware",
+      "title_en": "Google signs $920M monthly compute deal with SpaceX — company’s projected annual data center revenue to exceed its combined proceeds from Starlink, launch services, and AI in 2025",
+      "description_en": "Google's $920-million-a-month deal with SpaceX will let it secure 110,000 Nvidia GPUs starting October 2026. This is the second data center deal that SpaceX has secured in a matter of weeks, especially as it's quickly approaching its IPO on June 12, 2026.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-signs-usd920m-monthly-compute-deal-with-spacex-companys-projected-annual-data-center-revenue-to-exceed-its-combined-proceeds-from-starlink-launch-services-and-ai-in-2025",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/zJ9ZuTa8TZQqPgypFTN5Kf-1280-80.png",
+      "pub_date": "Sun, 07 Jun 2026 12:45:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T12:55:19.500Z",
+      "created_at": "2026-06-07T12:55:19.500Z"
+    },
+    {
+      "id": 10725,
+      "source": "Tom's Hardware",
+      "title_en": "Russia’s new ‘Starlink‑Style’ Rassvet fleet loses its first satellite after weeks — Object 4 drops out of orbit but 15 others remain",
+      "description_en": "Object 4, one of 16 satellites in the first operational batch of Russia's Rassvet broadband network, re-entered Earth's atmosphere on approximately June 6th.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/russias-rassvet-constellation-loses-its-first-satellite-to-orbital-decay",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ThMNwXukopnrjypsEjpv9n-1280-80.png",
+      "pub_date": "Sun, 07 Jun 2026 12:00:00 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T12:55:19.500Z",
+      "created_at": "2026-06-07T12:55:19.500Z"
+    },
+    {
+      "id": 10726,
+      "source": "AI Post (TG)",
+      "title_en": "The funniest thing about AI skeptics is that half their complaints were probably summarized by AI.@aipost 🏴",
+      "description_en": "The funniest thing about AI skeptics is that half their complaints were probably summarized by AI.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7152",
+      "image_url": null,
+      "pub_date": "2026-06-07T12:36:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T12:55:21.209Z",
+      "created_at": "2026-06-07T12:55:21.209Z"
     }
   ]
 }
