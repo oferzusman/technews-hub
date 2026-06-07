@@ -224777,7 +224777,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T16:24:00.536Z",
       "created_at": "2026-06-07T16:24:00.536Z"
     },
@@ -224799,7 +224799,7 @@
         "Deepseek"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T16:24:01.876Z",
       "created_at": "2026-06-07T16:24:01.876Z"
     },
@@ -224816,7 +224816,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T16:52:11.571Z",
       "created_at": "2026-06-07T16:52:11.571Z"
     },
@@ -224867,6 +224867,23 @@
       "priority": "hot",
       "fetchedAt": "2026-06-07T18:04:08.889Z",
       "created_at": "2026-06-07T18:04:08.889Z"
+    },
+    {
+      "id": 10738,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 Anthropic may have the most confusing government relationship in AI.The Pentagon reportedly labeled the company a supply-chain risk after its dispute with the DoD. At the same time, the NSA is alle",
+      "description_en": "🤖 Anthropic may have the most confusing government relationship in AI.The Pentagon reportedly labeled the company a supply-chain risk after its dispute with the DoD. At the same time, the NSA is allegedly using Claude Mythos for cyber operations.So Anthropic is apparently too risky to trust… and too powerful not to use.Source.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7154",
+      "image_url": "https://cdn4.telesco.pe/file/JStyrU5tHgu3bdwL4_PF1y6Y_GKj73t9kG01imzdXn2EFVFPqIl2OjY4lx2C_fzz0YMQSC13Cmd27silb2qznOJCvjC9Y_saz3p3Bl16mwb-bre2FrnR_QX9qHRnxXt1Y49DO8iLkkbrkF5XY9kZDRCKD5mBqxNAMHl_KunNRU9lxdD2BXmCzH9-1kqKpkH55Sdj87e52DvU_WSgcC_xAdLGtsX8cCetL9JoWW0bLxznpyEKaL19D3W5d9H6cloZ8Is7Yjki6l4d1zTUw2QUWeHjfE2-C7G6qaxxkZ-yCPeLPIIb_qDZlQ4E2XL62NxXvvy7_QcZ66mhuh_1k2KEnw.jpg",
+      "pub_date": "2026-06-07T18:14:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T18:53:27.985Z",
+      "created_at": "2026-06-07T18:53:27.985Z"
     }
   ]
 }
