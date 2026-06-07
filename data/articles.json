@@ -224063,7 +224063,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T09:35:29.397Z",
       "created_at": "2026-06-07T09:35:29.397Z"
     },
@@ -224464,6 +224464,46 @@
       "priority": "hot",
       "fetchedAt": "2026-06-07T11:08:54.462Z",
       "created_at": "2026-06-07T11:08:54.462Z"
+    },
+    {
+      "id": 10717,
+      "source": "The Decoder",
+      "title_en": "OpenAI says \"chat is dead\" and plans to rebuild ChatGPT as a full-blown agent app",
+      "description_en": "OpenAI is planning the biggest overhaul of ChatGPT since its launch. The chatbot will become a \"superapp\" bundling coding tools, AI agents, and partner apps like Canva and Booking.com. \"Chat is dead,\" the company says internally. The future supposedly belongs to agents that handle tasks on their own.\nThe article OpenAI says \"chat is dead\" and plans to rebuild ChatGPT as a full-blown agent app appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-says-chat-is-dead-and-plans-to-rebuild-chatgpt-as-a-full-blown-agent-app/",
+      "image_url": null,
+      "pub_date": "Sun, 07 Jun 2026 11:15:28 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "ChatGPT",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T11:29:37.079Z",
+      "created_at": "2026-06-07T11:29:37.079Z"
+    },
+    {
+      "id": 10718,
+      "source": "Backdoor (TG)",
+      "title_en": "Ищем работу мечты за один клик и автоматизируем процесс поиска — нашли инструмент для Claude Code, который поможет с откликами, анализом вакансий и адаптацией резюме.• Сервис просматривает весь рынок ",
+      "description_en": "Ищем работу мечты за один клик и автоматизируем процесс поиска — нашли инструмент для Claude Code, который поможет с откликами, анализом вакансий и адаптацией резюме.• Сервис просматривает весь рынок в интересующей вас сфере, анализирует вакансии, а затем максимально адаптирует резюме под каждую.• Никаких шаблонов — ваше резюме идеально подгоняется под все требования компании. Сервис также указывает все ключевые слова, чтобы пройти ИИ-рекрутера и попасть к живому человеку.• AI Job Search пишет с",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29009",
+      "image_url": "https://cdn4.telesco.pe/file/h8KXgKeLsXV9pwqWwG-pq-IbGxzPiRUoXa42WoInv3uUnqpwZx_RwQzB-ohp46K41LppW8CKF9nSiwm9sDiItgZW86ISB5GHnnR3WKFLWgHGkBjX_dzcI8nyPVmv7qk9XK2XJ13b3oaUA1Udl4zqTM0YSO9EqpxhN9viFm169X15xtunCYA_jOxLHtspfnTYrheUA7hi30Y1NbUskKVQl4VqrP3JxeNOvGc3wX1o5ShxWgktWK5eH0XxZnLBGat5qVwKOiVE27k-nx_4LjHgaq_9WYgl-Auyd_pMLBr4l759V_8PS05z1AdZRmox7R83UY6waa5WjgaA4wolKcqZbA.jpg",
+      "pub_date": "2026-06-07T11:10:52+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T11:29:42.047Z",
+      "created_at": "2026-06-07T11:29:42.047Z"
     }
   ]
 }
