@@ -1,9 +1,9 @@
 {
-  "total": 10694,
+  "total": 10701,
   "translated": 8824,
-  "untranslated": 1870,
-  "today": 8,
-  "week": 794,
+  "untranslated": 1877,
+  "today": 15,
+  "week": 801,
   "sources": [
     {
       "name": "Product Hunt",
@@ -49,13 +49,13 @@
     },
     {
       "name": "New Atlas",
-      "total": 451,
+      "total": 452,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "The Decoder",
-      "total": 449,
+      "total": 451,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -97,7 +97,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 276,
+      "total": 277,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -121,15 +121,15 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 112,
+      "total": 113,
       "translated": 68,
-      "lastDate": "2026-06-06T21:26:59+00:00"
+      "lastDate": "2026-06-07T08:09:39+00:00"
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 110,
+      "total": 111,
       "translated": 63,
-      "lastDate": "2026-06-06T07:05:03+00:00"
+      "lastDate": "2026-06-07T07:23:17+00:00"
     },
     {
       "name": "AI News",
@@ -193,9 +193,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 37,
+      "total": 38,
       "translated": 29,
-      "lastDate": "2026-06-05T13:49:46+00:00"
+      "lastDate": "2026-06-07T07:03:55+00:00"
     },
     {
       "name": "Slashdot.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-07T06:39:36.116Z"
+  "generatedAt": "2026-06-07T08:37:02.618Z"
 }
