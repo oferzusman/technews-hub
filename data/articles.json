@@ -224350,7 +224350,7 @@
       "author": "Bojan Stojkovski",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T11:08:51.756Z",
       "created_at": "2026-06-07T11:08:51.756Z"
     },
@@ -224484,7 +224484,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T11:29:37.079Z",
       "created_at": "2026-06-07T11:29:37.079Z"
     },
@@ -224501,7 +224501,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T11:29:42.047Z",
       "created_at": "2026-06-07T11:29:42.047Z"
     },
@@ -224518,7 +224518,7 @@
       "author": "Robert Hart",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T12:55:15.518Z",
       "created_at": "2026-06-07T12:55:15.518Z"
     },
@@ -224540,7 +224540,7 @@
         "schools"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T12:55:15.600Z",
       "created_at": "2026-06-07T12:55:15.600Z"
     },
@@ -224557,7 +224557,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T12:55:17.209Z",
       "created_at": "2026-06-07T12:55:17.209Z"
     },
@@ -224574,7 +224574,7 @@
       "author": "David Szondy",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T12:55:17.608Z",
       "created_at": "2026-06-07T12:55:17.608Z"
     },
@@ -224591,7 +224591,7 @@
       "author": "Christopher McFadden",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T12:55:18.389Z",
       "created_at": "2026-06-07T12:55:18.389Z"
     },
@@ -224611,7 +224611,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T12:55:19.500Z",
       "created_at": "2026-06-07T12:55:19.500Z"
     },
@@ -224630,7 +224630,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T12:55:19.500Z",
       "created_at": "2026-06-07T12:55:19.500Z"
     },
@@ -224647,9 +224647,84 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T12:55:21.209Z",
       "created_at": "2026-06-07T12:55:21.209Z"
+    },
+    {
+      "id": 10727,
+      "source": "Tom's Hardware",
+      "title_en": "Anycubic Photon Mono 4 dips below $190 saving you 21% off its retail price — Amazon deal saves $50 on this entry-level resin 3D printer",
+      "description_en": "The Anycubic Photon Mono 4 is on-sale at $189.99, giving you a $50 discount and saving you 21% off its retail price.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/anycubic-photon-mono-4-dips-below-usd190-saving-you-21-percent-off-its-retail-price-amazon-deal-saves-usd50-on-this-entry-level-resin-3d-printer",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/BgoUTajwsGL58K7C9GqrZW-1280-80.png",
+      "pub_date": "Sun, 07 Jun 2026 14:22:50 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T14:45:40.920Z",
+      "created_at": "2026-06-07T14:45:40.920Z"
+    },
+    {
+      "id": 10728,
+      "source": "Tom's Hardware",
+      "title_en": "Ukraine’s birds adapt to battlefield environment, weaving optical fiber nests for warmth — canny feathered friends repurpose scraps of this spun off insulator material",
+      "description_en": "Birds in Donbas have been discovered feathering their nests with optical fiber.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/networking/ukraines-birds-adapt-to-battlefield-environment-weaving-optical-fiber-nests-for-warmth-canny-feathered-friends-repurpose-scraps-of-this-spun-off-insulator-material",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/EtfHPE5exo7aAPKmPsM4GJ-1280-80.jpg",
+      "pub_date": "Sun, 07 Jun 2026 13:55:53 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Networking"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T14:45:40.920Z",
+      "created_at": "2026-06-07T14:45:40.920Z"
+    },
+    {
+      "id": 10729,
+      "source": "Tom's Hardware",
+      "title_en": "AMD's RDNA 5 gaming GPUs are coming late next year, according to AIBs at Computex — manufacturers expect new Team Red cards in the second half of 2027 alongside Nvidia",
+      "description_en": "AIB partners for AMD at the Computex 2026 show floor have said they expect next-gen RDNA 5 gaming GPUs to land sometime in the second half of 2027, or maybe even in early 2028. That launch schedule lines up closely with Nvidia's RTX 60 series, which is also expected in late 2027 based on current rumors.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/amds-rdna-5-gaming-gpus-are-coming-late-next-year-according-to-aibs-at-computex-manufacturers-expect-new-team-red-cards-in-the-second-half-of-2027-alongside-nvidia",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/kUeEajuJ6YeihJQTw4858d-1280-80.jpg",
+      "pub_date": "Sun, 07 Jun 2026 13:30:00 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T14:45:40.920Z",
+      "created_at": "2026-06-07T14:45:40.920Z"
+    },
+    {
+      "id": 10730,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Гибель самого популярного айфона в России, ещё более жидкое liquid glass, новые настройки камеры и смерть тупой Siri: что будет в iOS 27, которую Apple покажет уже завтра!📱 YouTube📱 VK Видео📺 RUTUB",
+      "description_en": "Гибель самого популярного айфона в России, ещё более жидкое liquid glass, новые настройки камеры и смерть тупой Siri: что будет в iOS 27, которую Apple покажет уже завтра!📱 YouTube📱 VK Видео📺 RUTUBEПриятного просмотра!",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33454",
+      "image_url": null,
+      "pub_date": "2026-06-07T14:30:08+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T14:45:42.222Z",
+      "created_at": "2026-06-07T14:45:42.222Z"
     }
   ]
 }
