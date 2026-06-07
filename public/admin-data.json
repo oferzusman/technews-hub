@@ -1,9 +1,9 @@
 {
-  "total": 10726,
+  "total": 10730,
   "translated": 8824,
-  "untranslated": 1902,
-  "today": 40,
-  "week": 826,
+  "untranslated": 1906,
+  "today": 44,
+  "week": 830,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,7 +13,7 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 875,
+      "total": 878,
       "translated": 652,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
@@ -156,16 +156,16 @@
       "lastDate": "2026-04-09T07:00:00Z"
     },
     {
+      "name": "Wylsacom Red (TG)",
+      "total": 77,
+      "translated": 40,
+      "lastDate": "2026-06-07T14:30:08+00:00"
+    },
+    {
       "name": "Hi, AI English (TG)",
       "total": 77,
       "translated": 49,
       "lastDate": "2026-06-07T10:05:31+00:00"
-    },
-    {
-      "name": "Wylsacom Red (TG)",
-      "total": 76,
-      "translated": 40,
-      "lastDate": "2026-06-06T06:00:58+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-07T13:46:03.011Z"
+  "generatedAt": "2026-06-07T14:48:40.586Z"
 }
