@@ -224739,7 +224739,7 @@
       "author": "Adam Williams",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T15:10:38.929Z",
       "created_at": "2026-06-07T15:10:38.929Z"
     },
@@ -224756,7 +224756,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-07T16:05:11.493Z",
       "created_at": "2026-06-07T16:05:11.493Z"
     },
@@ -224819,6 +224819,33 @@
       "priority": "hot",
       "fetchedAt": "2026-06-07T16:52:11.571Z",
       "created_at": "2026-06-07T16:52:11.571Z"
+    },
+    {
+      "id": 10736,
+      "source": "MarkTechPost",
+      "title_en": "Building Reflective Prompt Optimization with GEPA: Multi-Component Prompts, Structured Feedback, and Held-Out Validation",
+      "description_en": "In this tutorial, we use GEPA as a reflective prompt-evolution framework to improve how a small language model solves multi-step arithmetic word problems. We start from a weak seed prompt, build a deterministic benchmark, and define a structured evaluator that returns actionable feedback. A multi-component setup evolves both the instruction field and the output-format rules together. We then compare the baseline and optimized prompts on a held-out validation set to check whether the gains genera",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/07/building-reflective-prompt-optimization-with-gepa-multi-component-prompts-structured-feedback-and-held-out-validation/",
+      "image_url": null,
+      "pub_date": "Sun, 07 Jun 2026 17:05:04 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T17:39:04.156Z",
+      "created_at": "2026-06-07T17:39:04.156Z"
     }
   ]
 }
