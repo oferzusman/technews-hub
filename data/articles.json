@@ -223746,6 +223746,117 @@
       "priority": "batch",
       "fetchedAt": "2026-06-07T05:06:45.396Z",
       "created_at": "2026-06-07T05:06:45.396Z"
+    },
+    {
+      "id": 10692,
+      "source": "MarkTechPost",
+      "title_en": "NVIDIA garak Tutorial: Build a Complete Defensive LLM Red-Teaming Workflow with Custom Probes and Detectors",
+      "description_en": "This tutorial walks through NVIDIA garak as an end-to-end framework for defensive LLM red-teaming. It covers setup, plugin discovery, dry runs, real-model scans on a Hugging Face generator, and multi-probe evaluations. The workflow then analyzes safety scores and attack success rates, inspects flagged outputs, and extends garak with a custom probe and detector. It closes by exporting results in AVID format for structured vulnerability\nThe post NVIDIA garak Tutorial: Build a Complete Defensive LL",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/06/nvidia-garak-tutorial-build-a-complete-defensive-llm-red-teaming-workflow-with-custom-probes-and-detectors/",
+      "image_url": null,
+      "pub_date": "Sun, 07 Jun 2026 05:11:09 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Security",
+        "Software Engineering",
+        "Staff",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T06:12:55.797Z",
+      "created_at": "2026-06-07T06:12:55.797Z"
+    },
+    {
+      "id": 10693,
+      "source": "The Guardian AI",
+      "title_en": "‘Poisoned’ AI: the ChatGPT shopping scams that lead to fake websites",
+      "description_en": "Buyers are ripped off after assuming online stores were genuine because they are recommended by an AI tool\nYou want to buy a new bag and so you ask ChatGPT for help. You have always liked Russell & Bromley so you ask ChatGPT what is popular there at the moment.\nThe artificial intelligence (AI) assistant gives you cross body, shoulder, casual and formal options with the prices listed beside them. You click through from the sources to what looks like the official Russell & Bromley site and buy you",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites",
+      "image_url": "https://i.guim.co.uk/img/media/5b159f0a4ab644187eac8ef560051bc791814eda/0_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=2523e0643f6460f592a4bef1c4459452",
+      "pub_date": "Sun, 07 Jun 2026 06:00:26 GMT",
+      "author": "Shane Hickey",
+      "categories": [
+        {
+          "_": "Scams",
+          "$": {
+            "domain": "https://www.theguardian.com/money/scamsandfraud"
+          }
+        },
+        {
+          "_": "Consumer affairs",
+          "$": {
+            "domain": "https://www.theguardian.com/money/consumer-affairs"
+          }
+        },
+        {
+          "_": "Online shopping",
+          "$": {
+            "domain": "https://www.theguardian.com/money/online-shopping"
+          }
+        },
+        {
+          "_": "Money",
+          "$": {
+            "domain": "https://www.theguardian.com/money/money"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Retail industry",
+          "$": {
+            "domain": "https://www.theguardian.com/business/retail"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-07T06:12:56.303Z",
+      "created_at": "2026-06-07T06:12:56.303Z"
     }
   ]
 }
