@@ -225728,7 +225728,7 @@
       "author": "Stevie Bonifield",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T12:04:47.448Z",
       "created_at": "2026-06-08T12:04:47.448Z"
     },
@@ -225751,7 +225751,7 @@
         "Moonshot AI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T12:04:49.110Z",
       "created_at": "2026-06-08T12:04:49.110Z"
     },
@@ -225768,7 +225768,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T12:04:49.353Z",
       "created_at": "2026-06-08T12:04:49.353Z"
     },
@@ -225846,7 +225846,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T12:04:50.883Z",
       "created_at": "2026-06-08T12:04:50.883Z"
     },
@@ -225863,7 +225863,7 @@
       "author": "Munis Raza",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T12:04:51.397Z",
       "created_at": "2026-06-08T12:04:51.397Z"
     },
@@ -225880,7 +225880,7 @@
       "author": "Atharva Gosavi",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T12:04:51.397Z",
       "created_at": "2026-06-08T12:04:51.397Z"
     },
@@ -225897,7 +225897,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T12:04:52.170Z",
       "created_at": "2026-06-08T12:04:52.170Z"
     },
@@ -225918,7 +225918,7 @@
         "RAM"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T12:04:52.362Z",
       "created_at": "2026-06-08T12:04:52.362Z"
     },
@@ -225938,7 +225938,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T12:04:52.362Z",
       "created_at": "2026-06-08T12:04:52.362Z"
     },
@@ -225958,7 +225958,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T12:04:52.362Z",
       "created_at": "2026-06-08T12:04:52.362Z"
     },
@@ -225975,7 +225975,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T12:04:57.702Z",
       "created_at": "2026-06-08T12:04:57.702Z"
     },
@@ -225992,7 +225992,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T12:04:57.758Z",
       "created_at": "2026-06-08T12:04:57.758Z"
     },
@@ -226009,7 +226009,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T12:04:58.568Z",
       "created_at": "2026-06-08T12:04:58.568Z"
     },
@@ -226026,9 +226026,469 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T12:04:58.854Z",
       "created_at": "2026-06-08T12:04:58.854Z"
+    },
+    {
+      "id": 10784,
+      "source": "The Verge AI",
+      "title_en": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
+      "description_en": "Today I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I’m actually going to keep today’s intro short — I’m working from my wife’s family farm this week, as you’ll see in the video, but also this is a real burner of an episode.\nWe covered everything from Mustafa’s approach to training new models to his criticisms of Anthropic talking about Claude as though it is conscious. Of course, we also talked about Microsoft’s relationship with OpenAI, how Mustafa is thinking about all the n",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+      "image_url": null,
+      "pub_date": "2026-06-08T14:00:00.000Z",
+      "author": "Nilay Patel",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T14:33:53.774Z",
+      "created_at": "2026-06-08T14:33:53.774Z"
+    },
+    {
+      "id": 10785,
+      "source": "Ars Technica",
+      "title_en": "The weather and climate science AI revolution isn’t revolutionary",
+      "description_en": "Machine learning has its limits—how is it being used?",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/ai-climate-mapping-1152x648.jpg",
+      "pub_date": "Mon, 08 Jun 2026 11:00:58 +0000",
+      "author": "\n                    Scott K. Johnson\n                ",
+      "categories": [
+        "AI",
+        "Features",
+        "Science",
+        "climate models",
+        "Climate science",
+        "machine learning",
+        "meteorology",
+        "weather forecasts"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-08T14:33:54.012Z",
+      "created_at": "2026-06-08T14:33:54.012Z"
+    },
+    {
+      "id": 10786,
+      "source": "The Decoder",
+      "title_en": "Most companies are flying blind on AI spending",
+      "description_en": "Only 26 percent of companies have full visibility into their AI costs, a KPMG survey finds.\nThe article Most companies are flying blind on AI spending appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/most-companies-are-flying-blind-on-ai-spending/",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 14:00:03 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and coding",
+        "Generative AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T14:33:55.284Z",
+      "created_at": "2026-06-08T14:33:55.284Z"
+    },
+    {
+      "id": 10787,
+      "source": "The Decoder",
+      "title_en": "Frontier Radar #3: How agentic AI is turning tokens into a business metric",
+      "description_en": "Monthly subscription, open chat, ask question: This is how generative AI used to work. Agentic workflows go beyond this model. They consume many times more tokens, run autonomously for hours and make flat rates unaffordable for providers. At the same time, token prices vary according to speed, specialization and the economic value of the result. The third edition of the AI radar categorizes the emerging token economy: How is billing shifting from subscription to consumption? Why does a favorable",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/frontier-radar-3-how-agentic-ai-is-turning-tokens-into-a-business-metric/",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 13:54:16 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "Artificial Intelligence",
+        "Frontier Radar",
+        "AI Radar"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T14:33:55.284Z",
+      "created_at": "2026-06-08T14:33:55.284Z"
+    },
+    {
+      "id": 10788,
+      "source": "The Decoder",
+      "title_en": "Instagram AI chatbot breach may have affected over to 20,000 accounts, Meta discloses",
+      "description_en": "Meta has put a number on the security breach in its AI support chatbot for Instagram for the first time: at least 20,225 accounts were compromised. For nearly seven weeks, the system sent password reset links to arbitrary email addresses without verifying they belonged to the account. The chatbot had previously been marketed as a win for account security.\nThe article Instagram AI chatbot breach may have affected over to 20,000 accounts, Meta discloses appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/instagram-ai-chatbot-breach-may-have-affected-over-to-20000-accounts-meta-discloses/",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 12:34:03 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Agents",
+        "Chatbots",
+        "Cybersecurity",
+        "Meta",
+        "Meta AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T14:33:55.284Z",
+      "created_at": "2026-06-08T14:33:55.284Z"
+    },
+    {
+      "id": 10789,
+      "source": "The Decoder",
+      "title_en": "Microsoft tightens rules for conflict zones after investigation into Israel's military use of Azure",
+      "description_en": "Microsoft has wrapped up its investigation into Israel's military use of its Azure cloud and is rolling out new human rights checks. But the report leaves key questions unanswered: the actual contents of the military data were never examined, and staff departures at Microsoft Israel go unmentioned. At the core of the story: cloud infrastructure, mass surveillance, and AI-powered target selection in Gaza.\nThe article Microsoft tightens rules for conflict zones after investigation into Israel's mi",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/microsoft-tightens-rules-for-conflict-zones-after-investigation-into-israels-military-use-of-azure/",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 12:25:29 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "AI and warfare",
+        "Microsoft"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-08T14:33:55.284Z",
+      "created_at": "2026-06-08T14:33:55.284Z"
+    },
+    {
+      "id": 10790,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this year’s World Cup ball may not fly as far Much is new about this month’s FIFA World Cup tournament. It hosts more teams than ever before. It’s the first…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 12:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-08T14:33:55.358Z",
+      "created_at": "2026-06-08T14:33:55.358Z"
+    },
+    {
+      "id": 10791,
+      "source": "Hugging Face Blog",
+      "title_en": "The crash that vanished: control and emergence in a five-model economy",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 13:10:48 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T14:33:55.620Z",
+      "created_at": "2026-06-08T14:33:55.620Z"
+    },
+    {
+      "id": 10792,
+      "source": "Hugging Face Blog",
+      "title_en": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/openenv-agentic-rl",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-08T14:33:55.620Z",
+      "created_at": "2026-06-08T14:33:55.620Z"
+    },
+    {
+      "id": 10793,
+      "source": "New Atlas",
+      "title_en": "Two-bedroom tiny house sleeps four and makes space for guests",
+      "description_en": "Intended for full-time living, the Porto squeezes a lot into its modest footprint. The tiny house features a practical interior with two bedrooms – plus a sofa bed for guests – and has multiple options available, including off-grid functionality.\nContinue Reading\nCategory: Tiny Houses, Outdoors\nTags: Building and Construction, Tiny Footprint, Micro-House, House, Home",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/tiny-houses/porto-casagaea/",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 13:57:00 GMT",
+      "author": "Adam Williams",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T14:33:56.264Z",
+      "created_at": "2026-06-08T14:33:56.264Z"
+    },
+    {
+      "id": 10794,
+      "source": "The Guardian AI",
+      "title_en": "Artists are making ‘anti-slop’ to rebel against AI: ‘It’s been rammed down our throats’",
+      "description_en": "In response to AI’s hyperrealism, artists and creatives are gravitating toward the homespun and imperfect\nEarlier this year, a group of film-makers, commercial directors and AI industry influencers gathered in New York City for the Runway AI Summit – a daylong hype-fest, trumping up the potential of this new technology. During one talk, Rob Wrubel, co-founder and managing partner at San Francisco ad firm Silverside, talked up his work on the Coca-Cola company’s AI-generated 2025 Holiday Caravan ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art",
+      "image_url": "https://i.guim.co.uk/img/media/a9956cc037f96b8dd97f5253710f65818b3ab8ce/85_0_1066_853/master/1066.jpg?width=140&quality=85&auto=format&fit=max&s=8b7fe357351418deebf3db288484352f",
+      "pub_date": "Mon, 08 Jun 2026 13:00:25 GMT",
+      "author": "John Semley",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Advertising",
+          "$": {
+            "domain": "https://www.theguardian.com/media/advertising"
+          }
+        },
+        {
+          "_": "Media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/media"
+          }
+        },
+        {
+          "_": "Art",
+          "$": {
+            "domain": "https://www.theguardian.com/artanddesign/art"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Art and design",
+          "$": {
+            "domain": "https://www.theguardian.com/artanddesign/artanddesign"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T14:33:56.423Z",
+      "created_at": "2026-06-08T14:33:56.423Z"
+    },
+    {
+      "id": 10795,
+      "source": "Interesting Engineering",
+      "title_en": "Chinese firm to deploy 100 humanoid robots to households for daily chores",
+      "description_en": "A Chinese robotics company has begun placing its humanoid robots inside real homes, marking a...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/china-humanoid-robot-enters-real-homes",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 13:27:36 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T14:33:56.952Z",
+      "created_at": "2026-06-08T14:33:56.952Z"
+    },
+    {
+      "id": 10796,
+      "source": "Interesting Engineering",
+      "title_en": "Europe unifies autonomous vehicle laws, speeds up robotaxi expansion",
+      "description_en": "Autonomous taxi services, which have scaled rapidly across major metropolitan areas in the United States...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/europe-opens-up-autonomous-self-driving-taxis-framework",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 13:19:23 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T14:33:56.952Z",
+      "created_at": "2026-06-08T14:33:56.952Z"
+    },
+    {
+      "id": 10797,
+      "source": "Interesting Engineering",
+      "title_en": "‘World’s first’ shapeshifting soft robotic cells that adapt on demand unveiled",
+      "description_en": "London-based startup morph has launched a new soft robotics platform designed to bring physical intelligence...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/uk-morph-shapeshifting-soft-robotics-platform",
+      "image_url": "https://www.youtube.com/embed/pyFVT4q7aoo",
+      "pub_date": "Mon, 08 Jun 2026 13:17:27 +0000",
+      "author": "Jijo Malayil",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T14:33:56.952Z",
+      "created_at": "2026-06-08T14:33:56.952Z"
+    },
+    {
+      "id": 10798,
+      "source": "AI News",
+      "title_en": "Aviva deploys AI to stop £230M in sophisticated insurance fraud",
+      "description_en": "Aviva has uncovered a record £230 million in insurance fraud claims and is using AI tools to counter the growing problem. The battleground has changed, and the culprits are also coming armed with a new generation of tools. We’re now in an environment where AI is being used not just to defend against fraud, but […]\nThe post Aviva deploys AI to stop £230M in sophisticated insurance fraud appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/aviva-deploys-ai-stop-230m-sophisticated-insurance-fraud/",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 12:19:38 +0000",
+      "author": "Ryan Daws",
+      "categories": [
+        "AI Business Strategy",
+        "AI in Action",
+        "AI Market Trends",
+        "Computer Vision",
+        "Featured News",
+        "Features",
+        "Finance AI",
+        "How It Works",
+        "Inside AI",
+        "Natural Language Processing (NLP)",
+        "Trust, Bias & Fairness",
+        "World of Work",
+        "asset protection",
+        "aviva",
+        "computer vision",
+        "deep learning",
+        "enterprise AI",
+        "fintech",
+        "fraud",
+        "fraud detection",
+        "insurance",
+        "machine learning",
+        "risk management"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-08T14:33:57.169Z",
+      "created_at": "2026-06-08T14:33:57.169Z"
+    },
+    {
+      "id": 10799,
+      "source": "Tom's Hardware",
+      "title_en": "Disgruntled ASML employees threaten to boycott Elon Musk conference appearance — staff express ire at political involvement and 'Nazi sympathies'",
+      "description_en": "ASML has confirmed that a group of disgruntled workers is pushing back hard against an invitation for Elon Musk to address the equipment maker’s closed annual tech conference.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/asml-staff-want-to-boycott-musk",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Gfdtp2THndDQFMgRxxWY3G-1280-80.jpg",
+      "pub_date": "Mon, 08 Jun 2026 13:27:58 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T14:33:57.924Z",
+      "created_at": "2026-06-08T14:33:57.924Z"
+    },
+    {
+      "id": 10800,
+      "source": "CNBC Tech",
+      "title_en": "WWDC 2026 live updates: Apple AI, Siri and iPhone software in focus",
+      "description_en": "Follow Apple WWDC 2026 live updates as the keynote spotlights AI, software, Siri and developer tools and likely CEO John Ternus's first major appearance.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/08/apple-wwdc-2026-live-updates.html",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 14:10:17 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T14:33:57.965Z",
+      "created_at": "2026-06-08T14:33:57.965Z"
+    },
+    {
+      "id": 10801,
+      "source": "CNBC Tech",
+      "title_en": "Corning shares jump 4% after company strikes deal to power Amazon AI data centers in U.S.",
+      "description_en": "Amazon is the latest megacap company to announce a massive deal with Corning, which is rapidly becoming a critical player in the AI buildout.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/08/amazon-taps-corning-for-op.html",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 14:25:05 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T14:33:57.966Z",
+      "created_at": "2026-06-08T14:33:57.966Z"
+    },
+    {
+      "id": 10802,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Последняя конференция Тима Кука состоится сегодня в 20:00 по Москве — на WWDC 2026 ждем кучу хайповых новинок. Кук покинет свой пост CEO Apple уже 31 августа. На сцену также выйдет его преемник Джо",
+      "description_en": "⚡️ Последняя конференция Тима Кука состоится сегодня в 20:00 по Москве — на WWDC 2026 ждем кучу хайповых новинок. Кук покинет свой пост CEO Apple уже 31 августа. На сцену также выйдет его преемник Джон Тернус.Что будет:• Новая Siri, которая станет полноценным ИИ с контекстом и пониманием данных юзера. Помощница станет ближе к ChatGPT и Gemini• iOS 27 — компания доработает дизайн, исправит все баги и неточности. Система будет быстрее, меньше лагать и меньше жрать батарею.• Liquid Glass — Apple до",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29026",
+      "image_url": "https://cdn4.telesco.pe/file/nApd2hD3JxAIdwRNRXI2cIZBz5RSrvzer_Xsx2BRsROvM9pezoE6ab1Krnfhl_TxFLxSzm_RpCZYufu7MShlGEXTZ0KhHWFxhh7esTAwTg1JaAflEPtgv4P9EcIPCiviB-vY9sGZqk5r7Jyfow3XZJlqeaom4gFvGPYHYi2LaRAe3ONceIaDRFtZLAQoinICf4IxAFcVUfv1p6sO4PgYbP4cSOCOBt9fjvI5QzNmpjlnet6KNuft_5ofH1ulEaAxiKyORDfPSX1WXeJVnFvDxZT8mv6vyfUR1PY6ZckV8sFGfa24KsSwMojfaMlI6jaI0dzAazBkAFU4uO6s5Htv9w.jpg",
+      "pub_date": "2026-06-08T12:34:10+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T14:33:59.728Z",
+      "created_at": "2026-06-08T14:33:59.728Z"
+    },
+    {
+      "id": 10803,
+      "source": "XOR Journal (TG)",
+      "title_en": "Как живые: китайцы показали новых гуманоидов-компаньонов для массового рынка 😨Мужская версия имеет рост 183 см, женская — 168 см и вес в 35 кг. В самом роботе будут 88 степеней подвижности тела, встр",
+      "description_en": "Как живые: китайцы показали новых гуманоидов-компаньонов для массового рынка 😨Мужская версия имеет рост 183 см, женская — 168 см и вес в 35 кг. В самом роботе будут 88 степеней подвижности тела, встроенный ИИ, Wi-Fi и до 4 часов автономной работы. Предзаказы уже открыли, и, по словам компании, уже зарезервировано ~2 тысяч роботов.Это начало Detroit: Become Human?👀@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9473",
+      "image_url": null,
+      "pub_date": "2026-06-08T12:19:58+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-08T14:33:59.834Z",
+      "created_at": "2026-06-08T14:33:59.834Z"
+    },
+    {
+      "id": 10804,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🎓 Отчислять за выявленный антиплагиатом ИИ в дипломе — незаконноТакое решение принял Верховный суд Татарстана по иску студентки неназванного московского вуза.Студентка четвертого курса уже готовилась",
+      "description_en": "🎓 Отчислять за выявленный антиплагиатом ИИ в дипломе — незаконноТакое решение принял Верховный суд Татарстана по иску студентки неназванного московского вуза.Студентка четвертого курса уже готовилась к защите, но антиплагиат показал, что почти 42% ее диплома якобы написала нейросеть. Вторая проверка показала результат уже 70%, а третья — всего 11,92%. Но даже с последним допустимым показателем ее диплом уже не приняли — прошел дедлайн.📌 Суд постановил, что выводы ИИ-детекторов носят вероятност",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3291",
+      "image_url": "https://cdn4.telesco.pe/file/rkMp989lLEyLIYN3jkqPfM9Kv_cLShOnKpJGtcpXrgdl3y6NapnHyzwg6H-yAiweyRsn2e0hm_yqgsnyCKmUtAojPP636ni_8w_1BNJnhlHzCbizn48R5cL03ofl4_zJTbRILxHrF3jYDpgf-QgCUmT3_OLc_0hO1IHVcG86RK2BwbIdXuDyGvBrEaBhnL-DEeEexXhE3ZacA8jFctmlsN4fzrZDHVmtsdXAuyu7_TWG_LoliiEgDWTAGer6KnTpafxxOFRrBkOfx6Cw-rEYeLF1lkA7UnOhpJC-UbfXdCa2LN33uZxyv9qPWgOvNFshpaQcBmHbArFLuJ4ZX5HKSw.jpg",
+      "pub_date": "2026-06-08T12:57:16+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T14:34:00.269Z",
+      "created_at": "2026-06-08T14:34:00.269Z"
     }
   ]
 }
