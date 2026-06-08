@@ -226435,7 +226435,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T14:33:57.966Z",
       "created_at": "2026-06-08T14:33:57.966Z"
     },
@@ -226510,7 +226510,7 @@
         "e-commerce"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T16:15:19.021Z",
       "created_at": "2026-06-08T16:15:19.021Z"
     },
@@ -226536,7 +226536,7 @@
         "WWDC 2026"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T16:15:19.021Z",
       "created_at": "2026-06-08T16:15:19.021Z"
     },
@@ -226592,7 +226592,7 @@
       "author": "Simon Heptinstall",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T16:15:21.314Z",
       "created_at": "2026-06-08T16:15:21.314Z"
     },
@@ -226718,7 +226718,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T16:15:21.321Z",
       "created_at": "2026-06-08T16:15:21.321Z"
     },
@@ -226802,7 +226802,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T16:15:21.321Z",
       "created_at": "2026-06-08T16:15:21.321Z"
     },
@@ -226862,7 +226862,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T16:15:21.321Z",
       "created_at": "2026-06-08T16:15:21.321Z"
     },
@@ -226882,7 +226882,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T16:15:22.187Z",
       "created_at": "2026-06-08T16:15:22.187Z"
     },
@@ -226899,7 +226899,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T16:15:27.678Z",
       "created_at": "2026-06-08T16:15:27.678Z"
     },
@@ -226916,9 +226916,686 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T16:15:28.407Z",
       "created_at": "2026-06-08T16:15:28.407Z"
+    },
+    {
+      "id": 10816,
+      "source": "The Verge AI",
+      "title_en": "Apple announces Siri AI and its next generation of Apple Intelligence",
+      "description_en": "Two years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, at WWDC Apple just revealed a new set of AI features and a smarter, more personalized Siri.\nApple struggled to implement the ambitious set of AI features it announced at WWDC 2024, recently agreeing to pay $250 million to settle a class action lawsuit that accused the company of \"misleading consumers\" about Apple Intelligence's availability and performance.\nCatching up in the AI rac",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+      "image_url": null,
+      "pub_date": "2026-06-08T17:34:24.000Z",
+      "author": "Dominic Preston",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:52:58.462Z",
+      "created_at": "2026-06-08T17:52:58.462Z"
+    },
+    {
+      "id": 10817,
+      "source": "Ars Technica",
+      "title_en": "Man jailed for a month despite Flock showing he was 5 miles from crime scene",
+      "description_en": "Cop seemingly ignored Flock camera timestamp to justify arrests.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/06/man-jailed-for-a-month-despite-flock-showing-he-was-5-miles-from-crime-scene/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-477012174-1024x648.jpg",
+      "pub_date": "Mon, 08 Jun 2026 17:20:30 +0000",
+      "author": "\n                    Ashley Belanger\n                ",
+      "categories": [
+        "Policy",
+        "automated license plate readers",
+        "flock safety",
+        "Flock!",
+        "license plate readers",
+        "surveillance technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:52:58.489Z",
+      "created_at": "2026-06-08T17:52:58.489Z"
+    },
+    {
+      "id": 10818,
+      "source": "TechCrunch AI",
+      "title_en": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "description_en": "Apple’s WWDC 2026 event kicked off this morning at 10 a.m. PT at Apple Park, starting a week full of expected announcements around Siri, iOS 27, Apple Intelligence and more, along with developer events and demos. This year’s event is particularly notable for a couple things. It marks CEO Tim Cook’s last with the company, […]",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 17:42:26 +0000",
+      "author": "Morgan Little",
+      "categories": [
+        "AI",
+        "Apple",
+        "wwdc"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:52:58.497Z",
+      "created_at": "2026-06-08T17:52:58.497Z"
+    },
+    {
+      "id": 10819,
+      "source": "The Decoder",
+      "title_en": "Intel gets a second life as Google and Nvidia explore it as a TSMC backup for AI chips",
+      "description_en": "Google has ordered more than three million AI chips from Intel for 2028. Nvidia is testing Intel's manufacturing tech for its upcoming Feynman architecture. Both moves come as TSMC can't keep up with AI chip demand. Intel's long-struggling foundry division is getting a rare second chance.\nThe article Intel gets a second life as Google and Nvidia explore it as a TSMC backup for AI chips appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/intel-gets-a-second-life-as-google-and-nvidia-explore-it-as-a-tsmc-backup-for-ai-chips/",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 17:31:50 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Google",
+        "Intel",
+        "Nvidia",
+        "TSMC"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:52:59.928Z",
+      "created_at": "2026-06-08T17:52:59.928Z"
+    },
+    {
+      "id": 10820,
+      "source": "MarkTechPost",
+      "title_en": "Xiaomi MiMo and TileRT Push a 1-Trillion-Parameter Model Past 1000 Tokens Per Second on Commodity GPUs",
+      "description_en": "Xiaomi's MiMo team, with TileRT, released MiMo-V2.5-Pro-UltraSpeed, a serving mode for the MiMo-V2.5-Pro model. It decodes over 1000 tokens per second on a 1-trillion-parameter model using a single 8-GPU commodity node.\nThe post Xiaomi MiMo and TileRT Push a 1-Trillion-Parameter Model Past 1000 Tokens Per Second on Commodity GPUs appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/08/xiaomi-mimo-and-tilert-push-a-1-trillion-parameter-model-past-1000-tokens-per-second-on-commodity-gpus/",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 16:49:04 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Machine Learning",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Uncategorized"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:01.249Z",
+      "created_at": "2026-06-08T17:53:01.249Z"
+    },
+    {
+      "id": 10821,
+      "source": "The Guardian AI",
+      "title_en": "The Guardian view on children and the internet: rolling back big tech’s untrammelled power | Editorial",
+      "description_en": "A belated change of policy on nude digital images of children must be part of a wider reset\nAmid the flurry of resignations by ministers who said they had lost confidence in Sir Keir Starmer’s leadership, Jess Phillips’s attack on his record on tech regulation stood out. “Over a year ago I presented solutions, long worked on by brilliant civil servants, that would end the ability for children in the UK to take naked images of themselves,” she wrote. The postponement of an announcement in March l",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/jun/08/the-guardian-view-on-children-and-the-internet-rolling-back-big-techs-untrammelled-power",
+      "image_url": "https://i.guim.co.uk/img/media/4661579d810daf905e5fcf614aabd0365cada9ae/270_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=af0a8941e780f20ed9406e5e51befdd3",
+      "pub_date": "Mon, 08 Jun 2026 17:29:22 GMT",
+      "author": "Editorial",
+      "categories": [
+        {
+          "_": "Internet safety",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/internet-safety"
+          }
+        },
+        {
+          "_": "Social media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/social-media"
+          }
+        },
+        {
+          "_": "Online abuse",
+          "$": {
+            "domain": "https://www.theguardian.com/society/online-abuse"
+          }
+        },
+        {
+          "_": "Grok AI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/grok-ai"
+          }
+        },
+        {
+          "_": "Jess Phillips",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/jess-phillips"
+          }
+        },
+        {
+          "_": "Keir Starmer",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/keir-starmer"
+          }
+        },
+        {
+          "_": "Children",
+          "$": {
+            "domain": "https://www.theguardian.com/society/children"
+          }
+        },
+        {
+          "_": "Social media ban",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/social-media-ban"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "Society",
+          "$": {
+            "domain": "https://www.theguardian.com/society/society"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:01.798Z",
+      "created_at": "2026-06-08T17:53:01.798Z"
+    },
+    {
+      "id": 10822,
+      "source": "Interesting Engineering",
+      "title_en": "7 futuristic aircraft moving closer to real-world service",
+      "description_en": "Aviation is entering a strange but exciting phase. For decades, most passenger aircraft have followed...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/aircraft-design-airplanes-aviation",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/X66-A.jpg",
+      "pub_date": "Mon, 08 Jun 2026 16:55:47 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:02.334Z",
+      "created_at": "2026-06-08T17:53:02.334Z"
+    },
+    {
+      "id": 10823,
+      "source": "Interesting Engineering",
+      "title_en": "Humanoid robot climbs 20,341-foot volcano as team eyes Mount Everest next",
+      "description_en": "A humanoid robot has successfully reached the summit of Ecuador’s Chimborazo volcano. This is a...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/humanoid-robot-summits-20341-foot-volcano",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 16:36:22 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:02.334Z",
+      "created_at": "2026-06-08T17:53:02.334Z"
+    },
+    {
+      "id": 10824,
+      "source": "Interesting Engineering",
+      "title_en": "Robots move beyond mapped worlds with advanced lidar sensing",
+      "description_en": "A lidar technology company and a robotics AI developer have announced a collaboration to improve...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/robots-move-beyond-mapped-worlds-with-advanced-lidar-sensing",
+      "image_url": "https://www.youtube.com/embed/THT6k0XTpcA",
+      "pub_date": "Mon, 08 Jun 2026 16:28:46 +0000",
+      "author": "Jijo Malayil",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:02.334Z",
+      "created_at": "2026-06-08T17:53:02.334Z"
+    },
+    {
+      "id": 10825,
+      "source": "Tom's Hardware",
+      "title_en": "Intel expands new game-boosting iBOT software with seven more games, up to a 27% improvement — Team Blue claims 12% average jump in newly-supported titles",
+      "description_en": "Intel is expanding its performance-boosting iBOT feature with seven new games.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-expands-new-game-boosting-ibot-software-with-seven-more-games-up-to-a-27-percent-improvement-team-blue-claims-12-percent-average-jump-in-newly-supported-titles",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/aY3JLGxmrfBzWidnrSSRpU-1280-80.jpg",
+      "pub_date": "Mon, 08 Jun 2026 17:49:06 +0000",
+      "author": " Jake Roach ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:02.542Z",
+      "created_at": "2026-06-08T17:53:02.542Z"
+    },
+    {
+      "id": 10826,
+      "source": "Tom's Hardware",
+      "title_en": "Most new U.S. AI data centers are being built in drought zones — two-thirds of 809 planned projects set for areas with water shortages",
+      "description_en": "About two-thirds of the 809 data centers planned across the U.S. are slated for land that has been in drought over the past year.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/most-new-us-ai-data-centers-are-going-up-on-drought-land",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/iMHPd97G3qtdyzwF93SKQd-1280-80.jpg",
+      "pub_date": "Mon, 08 Jun 2026 16:39:27 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:02.542Z",
+      "created_at": "2026-06-08T17:53:02.542Z"
+    },
+    {
+      "id": 10827,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Мощный эквалайзер подвезли для AirPods — можно настраивать звучание и подгонять под ваш вкус.Меломаны ликуют.👍 Бэкдор",
+      "description_en": "⚡️ Мощный эквалайзер подвезли для AirPods — можно настраивать звучание и подгонять под ваш вкус.Меломаны ликуют.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29037",
+      "image_url": "https://cdn4.telesco.pe/file/M3w5pyNtD3pHdTg3Ng2V9uKa8Y_PaHLescjwTltK8vFoqbsoWi36AAmQPou2r4Jev8QdYHVyDTYr_Uvk5hba3iQqk-hHRu4PlUjGcoCPoIlSPDnOagFRkrxjClMn-lCtqlF5W2TSEXu3vs-XoUDku4w6HgGnMuQfzuiyhuL8QIyep9QQt_ayKLcWbk4koY8gjjIGRrhTIXv2BhXbg-06Q6W2CBXSFFtar6bIeLhx3MtVIzNMn0EXZYGvqktQ_ieEuq-xeCCBI6NYVcGuBnjsWw3BYOW484gLwoix6-Yi4Tq2KIgMCXbLbitT9YjRpFcwq7oAMcGqIBa1RYENHxxjxQ.jpg",
+      "pub_date": "2026-06-08T17:18:24+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:08.258Z",
+      "created_at": "2026-06-08T17:53:08.258Z"
+    },
+    {
+      "id": 10828,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Siri поумнела и работает на... Google GeminiТеперь Siri умеет писать письма, записывать видео, проигрывать музыкальные хиты, напоминать о важных делах.Дружба с ChatGPT закончена.👍 Бэкдор",
+      "description_en": "⚡️ Siri поумнела и работает на... Google GeminiТеперь Siri умеет писать письма, записывать видео, проигрывать музыкальные хиты, напоминать о важных делах.Дружба с ChatGPT закончена.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29039",
+      "image_url": "https://cdn4.telesco.pe/file/cpnIqoQ8u6DayXgHAxNUQC-pzp3ZawUANKGUxf6U-k6Dt8w8juGkWmfpaCDWU06iKg5nqjYAW6KXGp5ypahpbGcfOVE96_Om_DkdSfSByS0q-8CroCXDeCjJA7j1PKN1MOTIUeFFxwebJv59rGq4s0aozLuKA8aSXkLwrPxtozgTF0eKNDcyqtdaOOAZO0C89TAanyJtShqd6qRFhYizr1CN5I8Bz6GcgHQhjt-KG8_2B_2jX_w_pD5m4o75qEw53dGTA2dXWSb33bFBOjAOwmq6JREDNOxBf_LQSBhbn-hpgy_nc2QRaLGEauv9Q45vF3q2W6tEUH620pcHf5gZvw.jpg",
+      "pub_date": "2026-06-08T17:33:58+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:08.258Z",
+      "created_at": "2026-06-08T17:53:08.258Z"
+    },
+    {
+      "id": 10829,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Apple Intelligence встроили вообще во все приложения AppleSiri, вруби музыку для отжуманий👍 Бэкдор",
+      "description_en": "⚡️ Apple Intelligence встроили вообще во все приложения AppleSiri, вруби музыку для отжуманий👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29040",
+      "image_url": "https://cdn4.telesco.pe/file/J1Wa5etfdAakNWKsLZltOWbhacywdBCkIxN1RdLO41gKmlDz-rUbhfYdG489x6gKsoeYtxqUIqtHPE_-_QTqmSH7W08s3jeEXtrCJLwMir33gtI9ApncBmsxV1Ss8FjQ4I2Uz79osJByjMaMk_gicvnb1W24SbY95GCjaW-rNfatKl-u2QPUevIvI9vLM8aK-09f3zgbwXaWjaMg5wYmx36Oxu0ctORZac9pKq_XGVbYRQzuyBO8sTaZ15gkmHythxAX6RSPTPCiOf39TgqS_16M69Tpcl9a-GO6JEj1SLpciGUOt_GLUFk0ajba5rGNfO0LOU6s-IiSybU6R_kPKw.jpg",
+      "pub_date": "2026-06-08T17:36:37+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:08.258Z",
+      "created_at": "2026-06-08T17:53:08.258Z"
+    },
+    {
+      "id": 10830,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Новая Siri AI — первые кадрыДизайнеры запотели👍 Бэкдор",
+      "description_en": "⚡️ Новая Siri AI — первые кадрыДизайнеры запотели👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29041",
+      "image_url": "https://cdn4.telesco.pe/file/K4qARak_UMrTDGrNZFt2il9X1ALw366N5v1_4yVjMJDCA_1IolTAjKFSD7Dg4wlb8nwmFK3HdhRbJbq42sAqEEqIMbRtr5aRipqemRZ-kaboPnw6z8waYm4qbQorwlCledQ_7Ouf77SDLECArvMt4NzmiTRQh6IkkcXzzWuzJtHCH7m6OFFgqFXYLkWZVyGPsbcCr8cYNES8Qtp7-vcS8nYIIiqowr6cE1tmtnxJALerjq0CEShiQj2PY12y81fdoCpai-Hp2gHK59ldFLtPK5_ozMCVKQzFtZ0yMXQJPP-pbzL8i7m2g3kB_YHSshAdFQz-nbrF6IL527YRRb5rDQ.jpg",
+      "pub_date": "2026-06-08T17:37:47+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:08.258Z",
+      "created_at": "2026-06-08T17:53:08.258Z"
+    },
+    {
+      "id": 10831,
+      "source": "Backdoor (TG)",
+      "title_en": "Siri AI может найти локацию по фото — можно отправить пикчу и получить точное гео.Apple подмигивает сталкерам👍 Бэкдор",
+      "description_en": "Siri AI может найти локацию по фото — можно отправить пикчу и получить точное гео.Apple подмигивает сталкерам👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29042",
+      "image_url": "https://cdn4.telesco.pe/file/vHrSJ37sMR44F9SLUgtnSL5oyVX3UA23DWHM7FPg-p2HO95tGWG0s2Utn3pWvhbRO3Y-moxyv_CkMT-0Yylx6fx8gN-T6JkBiJZzycT_fQ_zY4thvY9cHfWbogv1ztXdmxe1NSN4PLwVH9VTBR-3Zrgce9Ae3DNLu19YFaY0c1why5K5JvW0Az02j7dycM8Htn6UK6SkCdQZncuBPgiPimRvX_d2_DM5HS-HbsYW4901sxyd9coHw6pxplhJjVx-5oBbXXwqzWRXpOuQavscMyFB0BUxie7NahexuhuYpdtpO9TgfuBzxXWEVI-0FB6sJhe2CC1wsC2p_WDk8aakgg.jpg",
+      "pub_date": "2026-06-08T17:39:55+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:08.258Z",
+      "created_at": "2026-06-08T17:53:08.258Z"
+    },
+    {
+      "id": 10832,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Все запросы Siri AI остаются на телефоне и не улетают на сервера AppleРКН устроился на полставки в Apple👍 Бэкдор",
+      "description_en": "⚡️ Все запросы Siri AI остаются на телефоне и не улетают на сервера AppleРКН устроился на полставки в Apple👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29043",
+      "image_url": "https://cdn4.telesco.pe/file/AydJMYSSJcyw28B6sjIDx16pQI5tHUBGOZfgDrSgrEwhyT6l6sKSYC8zI3J4RVth-edidLiQ7AMxwYNAbkki56RJghu0aqRKV2WLL_OWTUcUZSqUXJXzRSjxTg25ha3BrKNc9SMSNRylOqOuTxEXRdc_m4aEXUF0luicaxpaZbZjgas4I6Yw3DtGXl-O2FxfP11fhZH2ePdzLy9v8p_zEfe2aqc7qH-uUvrHVWbsnrbrNS2wg7SPrK3oXfCZG1vCCpO1PhWf_79Z2rwQcF2Dsw7KnXSxH-K04LM2ySpD0lTQyv7gtxPn_R0eYvN5zwRsD5Ivn_F7CWd1dtpFN_uo7A.jpg",
+      "pub_date": "2026-06-08T17:41:50+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:08.258Z",
+      "created_at": "2026-06-08T17:53:08.258Z"
+    },
+    {
+      "id": 10833,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Siri AI можно настраивать голос — всего 5 тембров с бегунками «экспрессивности» и «скорости»Голос бывшей поставить нельзя👍 Бэкдор",
+      "description_en": "⚡️ Siri AI можно настраивать голос — всего 5 тембров с бегунками «экспрессивности» и «скорости»Голос бывшей поставить нельзя👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29044",
+      "image_url": "https://cdn4.telesco.pe/file/qZCHY1Me6b_sHlw4TieHVAXcUlAhKRGydpBNYtJEzrmKnp4sz2goDjkaqCvk0anl9kmoGSioe-Wcu9V2L3XN3v8Po62HGsPCSYaV14gjiBe5r812ZVnV0nsr_F1UvHj-lAw4m1uEf5B6Pzsp9b3ewfp_Scqa9PVAx5rJ5IWDoFX2ounBq7bIkL2Jg4otdcMWcKaKnY5a7InEV1bRaeIXyZ6wLsxaMKE9YdmYNYfZ64Dl4QLo5vBntMBt0osPdWNyIXE-CDFVhORIXjbF_EYfXka4fm7YtUvqHPc_hgKaZJT7KO08On7aiyulupw_FsQ1JB6YcFeNPDn3znmTxFul5w.jpg",
+      "pub_date": "2026-06-08T17:44:12+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:08.258Z",
+      "created_at": "2026-06-08T17:53:08.258Z"
+    },
+    {
+      "id": 10834,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Siri AI теперь ChatGPT — Apple обновила помощника до полноценного чат-бота• Умеет работать с файлами• Умеет отвечать на вопросы по файлам• Ищет все по всему MAC• Сразу во все приложения Apple• Все ",
+      "description_en": "⚡️ Siri AI теперь ChatGPT — Apple обновила помощника до полноценного чат-бота• Умеет работать с файлами• Умеет отвечать на вопросы по файлам• Ищет все по всему MAC• Сразу во все приложения Apple• Все запросы остаются на вашем устройстве Тим Кук завозит на последок!👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29045",
+      "image_url": "https://cdn4.telesco.pe/file/L92McZWsGXbXsokUQ0-wqHG5KCvTqJsIE8kH-D-Ra6h5V8wlSMHqySvqK53WT5l1k7v4d5F2TjSkuBWBIUVneBePDSWHX7nV4536jzGrEp1Ce0PmCF_vdxxoUs9F58EqOFD6xVf2Z2T9YvG93263AvWz9Gin2khLp3rK3Vl8XuevYZPStSV4YlvdgBffnLskapmcKQLTwtoLOT-d8a-0_4vo2MFl4geHzCRmKR2pyvX0bhA7jo2ef3NAfc4F-OuIdO3tXhQcPrpA3W6FHOvCaVx_tkaGIRf6Vq0azmhVLuWWK8SP-RJjAXH9dA6MORft5JqzdDr3IZIsVXGDwojCbg.jpg",
+      "pub_date": "2026-06-08T17:46:52+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:08.261Z",
+      "created_at": "2026-06-08T17:53:08.261Z"
+    },
+    {
+      "id": 10835,
+      "source": "Backdoor (TG)",
+      "title_en": "Россияне в восторге от Siri AI",
+      "description_en": "Россияне в восторге от Siri AI",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29046",
+      "image_url": "https://cdn4.telesco.pe/file/gru6kHyic7rtgn4ullEbVYWEGr7V8o6q1VZPvqo-egdwkBSw6tBaknIyLTK-570KWVn9k6GY-Gop0DMVHt453VRtH9w4uS2TW-VW5pW3N4rDxk0dCRh68tGu7xSiBNbjDcCJ-SSB35-vTkICqYFXv1MYnwufHlcnK0uQZ3iY4RNVYZTALMn9HwFz-0Jx5pwELxU2_9g4KDyXWsf5NT7tJ0LlbanMkdR1Ce4KpsV7aRjlZ_6dUVpeUf4uWtYnKNF5NoXE_fB1j4bypZ4KsqUjZYoAbYInYNLcQdRS_xj9i0kaGqoarPsoSUeJvnqaEKaQN6oy5aJeGbNN2uGqFvvUFA.jpg",
+      "pub_date": "2026-06-08T17:47:49+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:08.261Z",
+      "created_at": "2026-06-08T17:53:08.261Z"
+    },
+    {
+      "id": 10836,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️Siri AI разобьёт счёт в баре — достаточно скинуть ей фоткуПридётся не выбрасывать айфон ради MAX👍 Бэкдор",
+      "description_en": "⚡️Siri AI разобьёт счёт в баре — достаточно скинуть ей фоткуПридётся не выбрасывать айфон ради MAX👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29047",
+      "image_url": "https://cdn4.telesco.pe/file/J2pBXuGrmo2rsgRrE8Oa8hj48fnDVGrOiiQCs8-mDE7kUlPpJwSPDGxxwF34B35WGlIYBUz8qL8pWSj2R3rh4Nyxi3Pv19CTh06QKduzvA0FEZv30n995hXNBAlX0zZrDW4C7mehtMIaZ_xEifSra_TzZzlbUSRixz0pRcaUcrpxhYAKCDr4Ccs8FcqRi9OkPJuFxRUmqZsg5QKvvWUk8U3NWQeafhzkWTaM7uq88yyjmJXwti0NzmXuNVCkXjuu9GF9VVGhGJ3pU_09wgwb2MgU2cBXbvZnDp55bK3LlhHIq11ZLHg10qcf3HLK9KiDNRa198HS6Wvyq8V2QbxTuA.jpg",
+      "pub_date": "2026-06-08T17:50:26+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:08.261Z",
+      "created_at": "2026-06-08T17:53:08.261Z"
+    },
+    {
+      "id": 10837,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Siri AI заменит мужчинПомощник умеет давать подсказки по идеальному кадру для фотоНачалось👍 Бэкдор",
+      "description_en": "⚡️ Siri AI заменит мужчинПомощник умеет давать подсказки по идеальному кадру для фотоНачалось👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29048",
+      "image_url": "https://cdn4.telesco.pe/file/dMzs3Cf6LNZdi3ptzMX5MQHMZqcUHKadps9akj-8l2kwNzj9T-CoCDhHGZHlLQYQeby_jDsROYzDGVXODbdQMhXDlK4vJWrpMmIvnT69jPpjdp_Wd0LNSy-3m3UkJFJzECHQcOoY9z2ax_LGFnQkYx32Y9hNrxtN2iw6yaTrULgmK3FdCAGJffunqwMCQR_C66ft_fCZ62_SlhMY07QROiq1aCM4z8E58b_wXjiX9PBI95noZea_uv16EiNS0frOcT1nKebAVK_mmBjxges7PjnLEitcpDtOZJ9ztrVHWFRGms4NvORshE36QTMk9ekuNGAA5_kjvNRb31EFX03icQ.jpg",
+      "pub_date": "2026-06-08T17:51:57+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:08.261Z",
+      "created_at": "2026-06-08T17:53:08.261Z"
+    },
+    {
+      "id": 10838,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Siri на macOS Golden Bridge интегрирована в Spotlight. В прицнипе, понятно, почему убрали Launchpad — в него Сири странно было интегрировать.На последним скрине справа, кстати, именно приложение Siri ",
+      "description_en": "Siri на macOS Golden Bridge интегрирована в Spotlight. В прицнипе, понятно, почему убрали Launchpad — в него Сири странно было интегрировать.На последним скрине справа, кстати, именно приложение Siri AI. А снизу её иконка слева от иконки настроек",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33549",
+      "image_url": "https://cdn4.telesco.pe/file/l4u2ZIQaQCvRpZEQhYNcqIR6Iz96TEM0b7PxibB1S5VzawiXP4696xy_jTtTTQr0MS4UHnTDaOqNPUinVXDajZcq2cdnz7u1PHq4Hs_rO5jQ9Ax3mNR5AY4zc-_4y_cBLAKEg7eixbPmD3a3qbzIbfwMXn6wgqBHkaOcG_rKrI-sn3AYKWj0os7f9zuLHjDYtvt1zlVMxf-RKslXl72lMmjqFpTHqYwUlLL6UVAI2J_Vc6gJDowQ94o2byFTeRyk3KV9UJ9hRtYbJ9V3s3zUBGFAiHgU1xbTgLYRtHZZKY4IqrJqUS52Y4H9ludPqaqJuvt5ANj7Ol7lRp4hXwaJyw.jpg",
+      "pub_date": "2026-06-08T17:45:37+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:08.289Z",
+      "created_at": "2026-06-08T17:53:08.289Z"
+    },
+    {
+      "id": 10839,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Уже три минуты показывают, как Siri AI интегрирована во все встроенные приложения macOS",
+      "description_en": "Уже три минуты показывают, как Siri AI интегрирована во все встроенные приложения macOS",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33553",
+      "image_url": "https://cdn4.telesco.pe/file/Qwxz5A1Yh0Mdn1bmLvoUMviCGWtm0hvnptHE3LxGqm7QvBq6FzCP7Gax7Odphn0fIuH2DhS8NZeWdyshELgaLzcw5tdRR8It0UesyTh6c6pC4vnBAMFgKiJaVrMUWOm7UH1bezxugdsjEOstPZNim6SiYwmQVjoYud5u9QcAXJamx7KHUnTfHtt_d2z-XwOG18kHWQSzgoJQHfOSKJQuQ00AICzfYvpQM6R5dM3zWqXWUHRd8nm6Qi_gV0ONPWo2FKg48k1mKOUonPZQFm99Urgle02VvM2T_K5qpfvzBlKnlaBQ33MZH3GcdLOoxq3IyiSsZZZxXlpOSnF690FgAA.jpg",
+      "pub_date": "2026-06-08T17:47:19+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:08.289Z",
+      "created_at": "2026-06-08T17:53:08.289Z"
+    },
+    {
+      "id": 10840,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Да, вот и приложение Siri. Есть на разных осях, а в visionOS можно шарик Сири вообще передвинуть, куда угодно.",
+      "description_en": "Да, вот и приложение Siri. Есть на разных осях, а в visionOS можно шарик Сири вообще передвинуть, куда угодно.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33554",
+      "image_url": "https://cdn4.telesco.pe/file/MVAvUOHBcfe5apU33eXmyIc6zTgKzeqHkc-VsnHBqAG0jXyrWiYmsa3YatuWPPfCfOKMdNH47tCUf4JbNJSXT72tk_Y29LP7GHm38YXk1vsU42fFR6TuBSET60f9Hmqyu7aJiEg4ktc1M8EHYYbQ23QM861ANt2TIr26_Lfgr_7rPhMEmlAMIw8fhgGxejXmpVWe84RvrQ4ZO34KTBrX0l1G98u-FJJiwGSdxqLV9zBqU7YF7oB6YDJJLc0MPgHOX-iWVgrNDTTSd-erN3idW_lh7_SMP91o3Nh3hSuudjjRX8jOa542GDfwz33vBscegx_rQO8mCLJmYBz5JuAwHQ.jpg",
+      "pub_date": "2026-06-08T17:48:30+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:08.289Z",
+      "created_at": "2026-06-08T17:53:08.289Z"
+    },
+    {
+      "id": 10841,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Siri в камере. Там вообще дикие вещи с фотографирование чека. Всё теперь превращается в кнопочки и удобно считать прямо на айфоне.",
+      "description_en": "Siri в камере. Там вообще дикие вещи с фотографирование чека. Всё теперь превращается в кнопочки и удобно считать прямо на айфоне.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33560",
+      "image_url": "https://cdn4.telesco.pe/file/NTrnyPOwX2nIaY5KYcBjhJCnasYYtSIMizrMNP6haRfVXYscAyOm3_rTLOMKKVdNuTuUf1RP9MVy8dxWO1qdazJMKMZBPbX7kNsQlkcFqnmbHoTaxln8ugYzmYXmb_5z7x4pnCTHuGsygLMJa02nIiRhx2ulqhqWv0qUabYdgs4Mqt6rKUoXYyCDmbpL9rT5pealQwM2mIPrdaRNoZIUr6IhZWa_cbPUiyjyU4iWq5-Xu8oId2VJHMt2sOxVLnOny0uwgihmwdw8-T3OIgQ8QpJ984MX8rxn5myOlh2D83WjPJ7CPt6hca-h_JIRehLo3Gdj-Hrowd9ST0H8XwBirw.jpg",
+      "pub_date": "2026-06-08T17:50:15+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:08.289Z",
+      "created_at": "2026-06-08T17:53:08.289Z"
+    },
+    {
+      "id": 10842,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Да, мы поняли, что Vision Inteligence работает и Siri теперь может рассказать всё, что вокруг вас",
+      "description_en": "Да, мы поняли, что Vision Inteligence работает и Siri теперь может рассказать всё, что вокруг вас",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33568",
+      "image_url": "https://cdn4.telesco.pe/file/K0RO3_hr_miKJMRcQTdJaegv7xrw1ZVzLM6TW5f5-IHs6Ybv-NdFQZWq1jjMBF4svfXHNc75oFmkFcJlI17I_DvY62mwsqlfygsHQ_bGZNKIWH-jksAlkx81h0XdjNmOhAdB8zC4-2SJvvJsRUkhGHGFBkrcULfU2jEUMDJAM7T-7D8hh4G3js3bCs5VewBOPTfkoUcoe21aYxAbKS7gu0KjYcpWqE7Ay6aOYkBuIW6wFXxoordapHLQ71eBwYkmtz1P0Hsyn1cd1iKqYUVN85fHFhTg3_Yztjppu85HmJprV0c1apjefLW7YvT3WY95izQ-6UkS4ybkZsjx-ltKGg.jpg",
+      "pub_date": "2026-06-08T17:51:20+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:08.289Z",
+      "created_at": "2026-06-08T17:53:08.289Z"
+    },
+    {
+      "id": 10843,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Siri AI доступна вначала на английском языке)))))))))))))))))))))))))))))))))",
+      "description_en": "Siri AI доступна вначала на английском языке)))))))))))))))))))))))))))))))))",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33570",
+      "image_url": "https://cdn4.telesco.pe/file/ddi5zyz537o3wkvUFOlglyIIHZSAMkyhnsfPC7UYr5yyI_amvUJJpLLvyX2eUHpRiGG-tlmTPsH_hj7HFFafkW0zqRmH-d_qMtXTGx_WsddVFqFZ9UNaacijk3z16iO7IZVV9a5Eo2ySsoywZGGHjfw_T8UF-KPQO1uvRzTM5WE94EYmJW3EL6p3AfBCUzdH40ObdTma3jTtWq-9djfmFmQDZOY_yvhIxkBFQNxYD5e4e1hAmuI_1VIwcndmikFMTdBwv2yquMkjlucJsBY1FRkknKynEc1bgR5-Yoa5ndCN9fFsU1Zyyzxe9Be5cXniACIbav41Rhk3RedwkzvYow.jpg",
+      "pub_date": "2026-06-08T17:52:56+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:08.289Z",
+      "created_at": "2026-06-08T17:53:08.289Z"
+    },
+    {
+      "id": 10844,
+      "source": "XOR Journal (TG)",
+      "title_en": "РКН начал беспрецедентно жесткую зачистку VPN — сервисы жалуются, что фиксируют перебои не только из-за ТСПУ, но и из-за DDoS-атак на свои сервера.При этом у ведомства появился неожиданный союзник: ев",
+      "description_en": "РКН начал беспрецедентно жесткую зачистку VPN — сервисы жалуются, что фиксируют перебои не только из-за ТСПУ, но и из-за DDoS-атак на свои сервера.При этом у ведомства появился неожиданный союзник: европейская компания nLighten без предупреждения отключила оборудование хостинга MIRhosting в Нидерландах и Германии, из-за чего посыпались многие популярные VPN-провайдеры. Хостинг-провайдеры mchost, HostDVS и VDSina тоже столкнулись с блокировкой.Бонусом: фикс для MTProto оказался нерабочим, из-за ч",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9474",
+      "image_url": "https://cdn4.telesco.pe/file/gh4viM0WIG9-cdFzCd5HBC2l96KQtY5TUitdBwScr-kt3ZQGjWSIrYM5C4KgG2DYE055LOQChqkX-7GKbK8FMioS1n6O9gTFWCPKKZO1NiN5QK46pCszNLyzaZViAKVzU0Nrzfog48YDsCAkqXocgL9opHjWMElXLAApWzQtzfJfIIyaOEiKh9Z81rmj0i8yTUOAPWPEPtibCn9qqU4MuwHu_kK-DEf-KtzI9pKj5z5txckE1jR0N50zXUJb5znVRVMzWEXd7-JHcHKFZJHLQ4WFJ7r-S11Y9Qp8kptNp-rlKvfq84-0tJcBas6G7zDtjUhnRT7DSv-72OJacA5r9A.jpg",
+      "pub_date": "2026-06-08T16:23:39+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:08.330Z",
+      "created_at": "2026-06-08T17:53:08.330Z"
+    },
+    {
+      "id": 10845,
+      "source": "XOR Journal (TG)",
+      "title_en": "⚡ Последняя презентация Тима Кука началась — и на WWDC уже представили iOS 27 с новым дизайном. По факту дизайн —это доработанное «Жидкое стекло», прозрачность которого можно будет настроить. Плюс обе",
+      "description_en": "⚡ Последняя презентация Тима Кука началась — и на WWDC уже представили iOS 27 с новым дизайном. По факту дизайн —это доработанное «Жидкое стекло», прозрачность которого можно будет настроить. Плюс обещают запуск приложений на 30% быстрее.Смотрим здесь 👍@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9475",
+      "image_url": null,
+      "pub_date": "2026-06-08T17:11:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:08.330Z",
+      "created_at": "2026-06-08T17:53:08.330Z"
+    },
+    {
+      "id": 10846,
+      "source": "XOR Journal (TG)",
+      "title_en": "Неожиданно Apple вспомнила про женскую аудиторию и добавила в новую iOS 27 поддержку отслеживания циклов прямо в календарь.+1 причина купить девушке iPhone. 😏@xor_journal",
+      "description_en": "Неожиданно Apple вспомнила про женскую аудиторию и добавила в новую iOS 27 поддержку отслеживания циклов прямо в календарь.+1 причина купить девушке iPhone. 😏@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9476",
+      "image_url": "https://cdn4.telesco.pe/file/E8eijMybm4zUMHICEiOGfs0EhxGeL09UYG2EPhFr5thqyN0_fV3NVh9-dTWiUee_sJnKg5_i1Z_0ePglcB5KSA0AKbGWG180RYcyo7nYh2vmOJXj3f_YO9SGwUfKrJ1H2y1MzUlAyNSxK5hJJqXKNhL5BzQimZyIS3hkuWkXggETDQ1PWAOPnA3Z-y8v1BiRbYwboDsED56h0jRNWkQdFCyVY4zANOHjJnDLNOCIBe56vAM0KiaoKdLw0F9dCTcQV0A68Et0HFko1Bv01iF9Bh_N-VbnYW5vbqLFgR_V87kRVDVd6D2zUfUPFrUneAdTTOlhk9wRbgES9lQoKFCwkQ.jpg",
+      "pub_date": "2026-06-08T17:24:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:08.330Z",
+      "created_at": "2026-06-08T17:53:08.330Z"
+    },
+    {
+      "id": 10847,
+      "source": "XOR Journal (TG)",
+      "title_en": "⚡️ Siri мощно прокачали!Apple Intelligence перевели на полностью новую архитектуру, модели Apple Foundation Models теперь на базе Gemini!ИИ понимает текст, генерит картинки, расшифровывает и генерируе",
+      "description_en": "⚡️ Siri мощно прокачали!Apple Intelligence перевели на полностью новую архитектуру, модели Apple Foundation Models теперь на базе Gemini!ИИ понимает текст, генерит картинки, расшифровывает и генерирует речь и вообще Siri AI можно настроить под себя. Плюс Siri дали доступ к Dinamic Island — теперь уведомления будут приходить туда.А еще Siri добавили в Spotlight на macOS!Данные будут обрабатываться локально, так что вы защищены.😳@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9477",
+      "image_url": null,
+      "pub_date": "2026-06-08T17:40:59+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:08.331Z",
+      "created_at": "2026-06-08T17:53:08.331Z"
+    },
+    {
+      "id": 10848,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 Claude can now help you film your FIRST YOUTUBE VIDEO todayHere are 8 prompts to film your first YouTube video:1. The \"Impulse-Topic\" Friction Killer\"Act as an Elite YouTube Growth Strategist. I am",
+      "description_en": "🤖 Claude can now help you film your FIRST YOUTUBE VIDEO todayHere are 8 prompts to film your first YouTube video:1. The \"Impulse-Topic\" Friction Killer\"Act as an Elite YouTube Growth Strategist. I am completely stuck in analysis paralysis and terrified of pressing record. Help me isolate 1 dead-simple, high-intent topic based on [Niche] that requires absolutely zero deep research or script memorization. Map out a strict, low-stress 5-minute talking point layout based entirely on my raw personal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7161",
+      "image_url": null,
+      "pub_date": "2026-06-08T17:41:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T17:53:09.085Z",
+      "created_at": "2026-06-08T17:53:09.085Z"
     }
   ]
 }
