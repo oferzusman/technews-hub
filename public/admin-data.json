@@ -1,9 +1,9 @@
 {
-  "total": 10893,
+  "total": 10904,
   "translated": 8824,
-  "untranslated": 2069,
-  "today": 148,
-  "week": 850,
+  "untranslated": 2080,
+  "today": 159,
+  "week": 861,
   "sources": [
     {
       "name": "Product Hunt",
@@ -25,19 +25,19 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 612,
+      "total": 614,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 537,
+      "total": 539,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "Ars Technica",
-      "total": 484,
+      "total": 485,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -61,27 +61,27 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 374,
+      "total": 375,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
       "name": "OpenAI Blog",
-      "total": 367,
+      "total": 368,
       "translated": 334,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 330,
+      "total": 331,
       "translated": 168,
-      "lastDate": "2026-06-08T17:41:01+00:00"
+      "lastDate": "2026-06-08T21:20:44+00:00"
     },
     {
       "name": "The Verge AI",
-      "total": 317,
+      "total": 318,
       "translated": 231,
-      "lastDate": "2026-06-08T17:52:51.000Z"
+      "lastDate": "2026-06-08T21:38:29.000Z"
     },
     {
       "name": "Futurism",
@@ -103,9 +103,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 256,
+      "total": 257,
       "translated": 119,
-      "lastDate": "2026-06-08T18:45:19+00:00"
+      "lastDate": "2026-06-08T21:10:12+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -121,9 +121,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 136,
+      "total": 137,
       "translated": 68,
-      "lastDate": "2026-06-08T18:15:02+00:00"
+      "lastDate": "2026-06-08T22:01:29+00:00"
     },
     {
       "name": "Hi, AI Russian (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-08T21:08:02.419Z"
+  "generatedAt": "2026-06-08T22:11:42.671Z"
 }
