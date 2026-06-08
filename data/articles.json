@@ -228351,7 +228351,7 @@
         "wwdc"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T21:04:00.740Z",
       "created_at": "2026-06-08T21:04:00.740Z"
     },
@@ -228404,7 +228404,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T21:04:04.621Z",
       "created_at": "2026-06-08T21:04:04.621Z"
     },
@@ -228421,7 +228421,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T21:04:06.789Z",
       "created_at": "2026-06-08T21:04:06.789Z"
     },
@@ -228438,7 +228438,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T21:04:06.789Z",
       "created_at": "2026-06-08T21:04:06.789Z"
     },
@@ -228455,7 +228455,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T21:04:06.789Z",
       "created_at": "2026-06-08T21:04:06.789Z"
     },
@@ -228474,7 +228474,7 @@
         "AI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T22:09:38.187Z",
       "created_at": "2026-06-08T22:09:38.187Z"
     },
@@ -228495,7 +228495,7 @@
         "TC"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T22:09:38.187Z",
       "created_at": "2026-06-08T22:09:38.187Z"
     },
@@ -228517,7 +228517,7 @@
         "ipados 27"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T22:09:38.284Z",
       "created_at": "2026-06-08T22:09:38.284Z"
     },
@@ -228534,7 +228534,7 @@
       "author": "Hayden Field",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T22:09:38.359Z",
       "created_at": "2026-06-08T22:09:38.359Z"
     },
@@ -228612,7 +228612,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T22:09:41.678Z",
       "created_at": "2026-06-08T22:09:41.678Z"
     },
@@ -228629,7 +228629,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T22:09:41.678Z",
       "created_at": "2026-06-08T22:09:41.678Z"
     },
@@ -228663,7 +228663,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T22:09:44.543Z",
       "created_at": "2026-06-08T22:09:44.543Z"
     },
@@ -228680,7 +228680,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T22:09:45.207Z",
       "created_at": "2026-06-08T22:09:45.207Z"
     },
@@ -228780,6 +228780,136 @@
       "priority": "hot",
       "fetchedAt": "2026-06-08T22:45:24.505Z",
       "created_at": "2026-06-08T22:45:24.505Z"
+    },
+    {
+      "id": 10910,
+      "source": "Ars Technica",
+      "title_en": "Tests suggest Russian satellites can jam GPS on a continental scale",
+      "description_en": "Mystery of GPS interference across Europe raises questions about Russian motives.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Cloud-free_Europe-1152x648.jpg",
+      "pub_date": "Mon, 08 Jun 2026 21:56:28 +0000",
+      "author": "\n                    Jeremy Hsu\n                ",
+      "categories": [
+        "Space",
+        "GNSS",
+        "GPS",
+        "GPS jamming",
+        "russia",
+        "russian space",
+        "satellites"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T23:46:09.466Z",
+      "created_at": "2026-06-08T23:46:09.466Z"
+    },
+    {
+      "id": 10911,
+      "source": "The Guardian AI",
+      "title_en": "Plan for AI legal assistants in England and Wales ‘cannot replace funding and staff’, lawyers say",
+      "description_en": "David Lammy to announce trial of AI assistants  in crown courts in effort to cut backlog of cases\nA plan to roll out virtual legal assistants powered by artificial intelligence to crown courts has prompted warnings that the technology should not be used to “replace vital funding and additional court staff”.\nDavid Lammy, the deputy prime minister, will announce on Tuesday that AI assistants will be trialled in an effort to cut the backlog of court cases in England and Wales.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/09/ai-legal-assistants-england-wales-cannot-replace-funding-staff",
+      "image_url": "https://i.guim.co.uk/img/media/775188b8648e1cef55108b4132b471fed8b8406a/1040_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=fff1ae48c864095c1f989dd143f497f2",
+      "pub_date": "Mon, 08 Jun 2026 23:01:38 GMT",
+      "author": "Rajeev Syal Home affairs editor",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "England",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/england"
+          }
+        },
+        {
+          "_": "Wales",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/wales"
+          }
+        },
+        {
+          "_": "David Lammy",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/david-lammy"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T23:46:11.392Z",
+      "created_at": "2026-06-08T23:46:11.392Z"
+    },
+    {
+      "id": 10912,
+      "source": "Interesting Engineering",
+      "title_en": "UK unveils $1.47 billion plan to build supercomputer and boost chip capacity",
+      "description_en": "UK has unveiled a £1.1 billion ($1.47 billion) plan to build domestic artificial intelligence computing...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/uk-ai-supercomputer-1-billion-compute-plan-chips",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 23:39:30 +0000",
+      "author": "Neetika Walter",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T23:46:11.768Z",
+      "created_at": "2026-06-08T23:46:11.768Z"
+    },
+    {
+      "id": 10913,
+      "source": "Interesting Engineering",
+      "title_en": "Airbus debuts U145 autonomous helicopter drone with no cockpit for military missions",
+      "description_en": "Airbus Helicopters has revealed a new autonomous aircraft based on its popular H145 platform, pushing...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/airbus-u145-autonomous-helicopter-drone",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 23:26:43 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T23:46:11.768Z",
+      "created_at": "2026-06-08T23:46:11.768Z"
+    },
+    {
+      "id": 10914,
+      "source": "CNBC Tech",
+      "title_en": "Jim Cramer says sovereign AI is Nvidia's powerful new growth driver",
+      "description_en": "CNBC's Jim Cramer said Nvidia's growing sovereign AI business could help reduce the company's dependence on hyperscalers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/08/jim-cramer-says-sovereign-ai-is-nvidias-powerful-new-growth-driver.html",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 23:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T23:46:12.749Z",
+      "created_at": "2026-06-08T23:46:12.749Z"
     }
   ]
 }
