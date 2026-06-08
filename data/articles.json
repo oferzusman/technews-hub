@@ -228076,7 +228076,7 @@
         "Siri"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T20:15:16.033Z",
       "created_at": "2026-06-08T20:15:16.033Z"
     },
@@ -228164,7 +228164,7 @@
       "author": "Etiido Uko",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T20:15:18.328Z",
       "created_at": "2026-06-08T20:15:18.328Z"
     },
@@ -228181,7 +228181,7 @@
       "author": "Aamir Khollam",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T20:15:18.719Z",
       "created_at": "2026-06-08T20:15:18.719Z"
     },
@@ -228198,7 +228198,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T20:15:20.036Z",
       "created_at": "2026-06-08T20:15:20.036Z"
     },
@@ -228218,7 +228218,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T20:15:20.062Z",
       "created_at": "2026-06-08T20:15:20.062Z"
     },
@@ -228294,7 +228294,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T20:15:25.578Z",
       "created_at": "2026-06-08T20:15:25.578Z"
     },
@@ -228311,7 +228311,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T20:15:25.578Z",
       "created_at": "2026-06-08T20:15:25.578Z"
     },
@@ -228458,6 +228458,231 @@
       "priority": "hot",
       "fetchedAt": "2026-06-08T21:04:06.789Z",
       "created_at": "2026-06-08T21:04:06.789Z"
+    },
+    {
+      "id": 10894,
+      "source": "TechCrunch AI",
+      "title_en": "Following Anthropic, OpenAI files confidentially for IPO",
+      "description_en": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 21:29:57 +0000",
+      "author": "Rebecca Bellan",
+      "categories": [
+        "AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T22:09:38.187Z",
+      "created_at": "2026-06-08T22:09:38.187Z"
+    },
+    {
+      "id": 10895,
+      "source": "TechCrunch AI",
+      "title_en": "Apple plays catch-up at WWDC",
+      "description_en": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 21:15:42 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "AI",
+        "Apps",
+        "TC"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T22:09:38.187Z",
+      "created_at": "2026-06-08T22:09:38.187Z"
+    },
+    {
+      "id": 10896,
+      "source": "Ars Technica",
+      "title_en": "iOS 27 and iPadOS 27 don't drop support for any iPhones—and just a few iPads",
+      "description_en": "This promises to be a solid release for aging iPhones.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Apple-Intelligence-Image-Playground-Messages-and-Contact-Poster-and-Lock-Screen-260608-1152x648.jpg",
+      "pub_date": "Mon, 08 Jun 2026 20:55:58 +0000",
+      "author": "\n                    Andrew Cunningham\n                ",
+      "categories": [
+        "Apple",
+        "Tech",
+        "ios 27",
+        "ipados 27"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T22:09:38.284Z",
+      "created_at": "2026-06-08T22:09:38.284Z"
+    },
+    {
+      "id": 10897,
+      "source": "The Verge AI",
+      "title_en": "OpenAI files for IPO, following Anthropic",
+      "description_en": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropic's decision to do the same on June 1st. \nThe confidential filing means that certain details normally available through the form - such as executive compensation figures, potential risks to a company's business, and more fi",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
+      "image_url": null,
+      "pub_date": "2026-06-08T21:38:29.000Z",
+      "author": "Hayden Field",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T22:09:38.359Z",
+      "created_at": "2026-06-08T22:09:38.359Z"
+    },
+    {
+      "id": 10898,
+      "source": "OpenAI Blog",
+      "title_en": "Confidential submission of draft S-1 to the SEC",
+      "description_en": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/openai-submits-confidential-s-1",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 14:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Company"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-08T22:09:40.313Z",
+      "created_at": "2026-06-08T22:09:40.313Z"
+    },
+    {
+      "id": 10899,
+      "source": "The Guardian AI",
+      "title_en": "OpenAI confidentially files for initial public offering on US stock market",
+      "description_en": "ChatGPT maker expected to be valued at more than $850bn\n\nOpenAI has filed confidentially to go public on the US stock market, according to a company blog post published Monday. The ChatGPT maker is expected to be valued at more than $850bn.\n“We recently submitted a confidential S-1. We expect it to leak so we’re just announcing it. We have not decided on timing yet; it may be a while because there are things we want to do that are likely easier as a private company. But it’s a complicated set of",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/08/openai-ipo-files-for-public-stock-market",
+      "image_url": "https://i.guim.co.uk/img/media/c52c9e4f01f3f192a63d22c5cd744101b670842b/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=e17e255183a268fcde4394c7a0d7bc58",
+      "pub_date": "Mon, 08 Jun 2026 21:47:14 GMT",
+      "author": "Blake Montgomery and Dara Kerr",
+      "categories": [
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Sam Altman",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/sam-altman"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T22:09:40.594Z",
+      "created_at": "2026-06-08T22:09:40.594Z"
+    },
+    {
+      "id": 10900,
+      "source": "CNBC Tech",
+      "title_en": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut",
+      "description_en": "OpenAI's confidential filing lands days before SpaceX is set to go public and a week after Anthropic announced its confidential disclosure with the SEC.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 21:39:02 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T22:09:41.678Z",
+      "created_at": "2026-06-08T22:09:41.678Z"
+    },
+    {
+      "id": 10901,
+      "source": "CNBC Tech",
+      "title_en": "Apple partnering with Google and Nvidia for most advanced AI model",
+      "description_en": "Apple's artificial intelligence strategy took center stage at its Worldwide Developers Conference in Cupertino, Calif.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/08/apple-google-nvidia-ai-chips.html",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 21:12:45 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T22:09:41.678Z",
+      "created_at": "2026-06-08T22:09:41.678Z"
+    },
+    {
+      "id": 10902,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Китайцы выпустили локального монстра на 300 ИИ-агентов — Kimi WorkЧто умеет:• Работает локально прямо на вышем компа.• Agent Swarm — до 300 AI-агентов одновременно работают параллельно на вашей маш",
+      "description_en": "⚡️ Китайцы выпустили локального монстра на 300 ИИ-агентов — Kimi WorkЧто умеет:• Работает локально прямо на вышем компа.• Agent Swarm — до 300 AI-агентов одновременно работают параллельно на вашей машине• Умеет управлять браузером — через расширение WebBridge• Kimi будет сам скроллить, кликать, печатать и выполнять задачи в реальном браузере• Работа с финансами — встроенный доступ к данным Yahoo Finance и World Bank без сложной настройки API• Память — система запоминает ваши предпочтения, прошлы",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29062",
+      "image_url": null,
+      "pub_date": "2026-06-08T22:01:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T22:09:44.512Z",
+      "created_at": "2026-06-08T22:09:44.512Z"
+    },
+    {
+      "id": 10903,
+      "source": "XOR Journal (TG)",
+      "title_en": "Китайцы не мелочатся: у Kimi сразу ДВА больших релиза за день 😳Кратко:🟢 Moonshot AI представила Kimi Work — локального ИИ-агента для ПК. Он может запускать скрипт по расписанию и собирать готовые пр",
+      "description_en": "Китайцы не мелочатся: у Kimi сразу ДВА больших релиза за день 😳Кратко:🟢 Moonshot AI представила Kimi Work — локального ИИ-агента для ПК. Он может запускать скрипт по расписанию и собирать готовые презентации и отчёты. Плюс завезли режим Agent Swarm, в котором до 300 ИИ-агентов могут параллельно шуршать над одной большой задачей, решая её по частям. Доступно для macOS и Windows.🟢 Мощно прокачали Kimi Code — опенсорсного агента для кодинга. Теперь он умеет анализировать видео и генерировать LUT",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9482",
+      "image_url": null,
+      "pub_date": "2026-06-08T21:10:12+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T22:09:44.543Z",
+      "created_at": "2026-06-08T22:09:44.543Z"
+    },
+    {
+      "id": 10904,
+      "source": "AI Post (TG)",
+      "title_en": "\"AI can do a lot for medical discovery, but there are also legitimate concerns that AI is outperforming PhD-level virologists, & that could abet a bioweapons risk that is not hypothetical.\"- Johns Hop",
+      "description_en": "\"AI can do a lot for medical discovery, but there are also legitimate concerns that AI is outperforming PhD-level virologists, & that could abet a bioweapons risk that is not hypothetical.\"- Johns Hopkins professor & adviser to Anthropic, Ben Buchanan@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7162",
+      "image_url": null,
+      "pub_date": "2026-06-08T21:20:44+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T22:09:45.207Z",
+      "created_at": "2026-06-08T22:09:45.207Z"
     }
   ]
 }
