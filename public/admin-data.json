@@ -1,9 +1,9 @@
 {
-  "total": 10886,
+  "total": 10893,
   "translated": 8824,
-  "untranslated": 2062,
-  "today": 141,
-  "week": 843,
+  "untranslated": 2069,
+  "today": 148,
+  "week": 850,
   "sources": [
     {
       "name": "Product Hunt",
@@ -25,13 +25,13 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 610,
+      "total": 612,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 536,
+      "total": 537,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -67,7 +67,7 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 366,
+      "total": 367,
       "translated": 334,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
@@ -192,16 +192,16 @@
       "lastDate": "2026-05-28T00:00:00.000Z"
     },
     {
+      "name": "Prompt AI News (TG)",
+      "total": 39,
+      "translated": 23,
+      "lastDate": "2026-06-08T20:59:20+00:00"
+    },
+    {
       "name": "Data Science ODS.ai (TG)",
       "total": 38,
       "translated": 29,
       "lastDate": "2026-06-07T07:03:55+00:00"
-    },
-    {
-      "name": "Prompt AI News (TG)",
-      "total": 36,
-      "translated": 23,
-      "lastDate": "2026-06-08T11:53:11+00:00"
     },
     {
       "name": "Slashdot.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-08T20:35:34.233Z"
+  "generatedAt": "2026-06-08T21:08:02.419Z"
 }
