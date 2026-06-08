@@ -225424,7 +225424,7 @@
         "Voice AI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T10:03:05.244Z",
       "created_at": "2026-06-08T10:03:05.244Z"
     },
@@ -225448,7 +225448,7 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T10:03:05.244Z",
       "created_at": "2026-06-08T10:03:05.244Z"
     },
@@ -225508,7 +225508,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T10:03:05.697Z",
       "created_at": "2026-06-08T10:03:05.697Z"
     },
@@ -225598,7 +225598,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T10:03:05.697Z",
       "created_at": "2026-06-08T10:03:05.697Z"
     },
@@ -225626,7 +225626,7 @@
         "retail"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T10:03:05.985Z",
       "created_at": "2026-06-08T10:03:05.985Z"
     },
@@ -225677,7 +225677,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T10:03:08.964Z",
       "created_at": "2026-06-08T10:03:08.964Z"
     },
@@ -225694,7 +225694,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T10:03:09.253Z",
       "created_at": "2026-06-08T10:03:09.253Z"
     },
@@ -225711,9 +225711,324 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T10:03:09.306Z",
       "created_at": "2026-06-08T10:03:09.306Z"
+    },
+    {
+      "id": 10770,
+      "source": "The Verge AI",
+      "title_en": "WWDC 2026: How to watch and what to expect",
+      "description_en": "Apple's biggest event of the year is nearly here. The company's Worldwide Developers Conference will spotlight updates to iOS, macOS, and all of Apple's other operating systems, and this year's event could also include a major overhaul for Siri. Here's how you can watch along live.\nWhen WWDC will happen and where you can watch it\nWWDC lasts a few days, but Apple's biggest announcements will be in the keynote presentation on June 8th at 1PM ET / 10AM PT. The full presentation usually lasts a coup",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/944099/wwdc-2026-how-to-watch",
+      "image_url": null,
+      "pub_date": "2026-06-08T11:00:00.000Z",
+      "author": "Stevie Bonifield",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T12:04:47.448Z",
+      "created_at": "2026-06-08T12:04:47.448Z"
+    },
+    {
+      "id": 10771,
+      "source": "The Decoder",
+      "title_en": "Moonshot AI targets a $30 billion valuation, more than six times its late-2025 worth",
+      "description_en": "Moonshot AI, the Chinese company behind the Kimi chatbot, is looking for a valuation of up to $30 billion in a new funding round.\nThe article Moonshot AI targets a $30 billion valuation, more than six times its late-2025 worth appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/moonshot-ai-targets-a-30-billion-valuation-more-than-six-times-its-late-2025-worth/",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 11:22:10 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Kimi",
+        "Moonshot AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T12:04:49.110Z",
+      "created_at": "2026-06-08T12:04:49.110Z"
+    },
+    {
+      "id": 10772,
+      "source": "Hugging Face Blog",
+      "title_en": "Building Pakistan Notice Helper: A Small AI Tool for a Very Local Safety Problem",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 11:46:56 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T12:04:49.353Z",
+      "created_at": "2026-06-08T12:04:49.353Z"
+    },
+    {
+      "id": 10773,
+      "source": "The Guardian AI",
+      "title_en": "Majority of US’s new AI datacenters to be built on drought-hit land",
+      "description_en": "Guardian analysis finds facilities to be built in some of the driest areas as outcry grows over water needed to power AI\nA record-shattering drought has racked much of the US. But the artificial intelligence industry is pushing ahead regardless, with the majority of planned datacenters set to be built in drought-ridden locations, a Guardian analysis has found.\nAbout two-thirds of upcoming datacenters, which typically require a large amount of water to operate, are set to be built in places that ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/2026/jun/08/datacenter-ai-drought-water",
+      "image_url": "https://i.guim.co.uk/img/media/5fb187afe6f0821ed69c657f377aac6fabc69de2/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=282a6d672f5b41aba778d0e41d859ef0",
+      "pub_date": "Mon, 08 Jun 2026 11:00:23 GMT",
+      "author": "Oliver Milman with data visuals by Andrew Witherspoon",
+      "categories": [
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Climate crisis",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/climate-crisis"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Water",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/water"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Environment",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/environment"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Utah",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/utah"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T12:04:50.883Z",
+      "created_at": "2026-06-08T12:04:50.883Z"
+    },
+    {
+      "id": 10774,
+      "source": "Interesting Engineering",
+      "title_en": "Seafarers on land: IMO adopts world’s first safety code for autonomous surface ships",
+      "description_en": "A major technological shift is underway in the maritime industry as researchers and engineers successfully...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/world-first-autonomous-ships-code-seafarers-on-land",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 11:59:42 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T12:04:51.397Z",
+      "created_at": "2026-06-08T12:04:51.397Z"
+    },
+    {
+      "id": 10775,
+      "source": "Interesting Engineering",
+      "title_en": "Humanoid robot with embodied intelligence to run convenience store 24/7 in Hong Kong",
+      "description_en": "Hong Kong is preparing to open its first convenience store operated by a humanoid robot,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/hong-kong-humanoid-robot-convenience-store",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 10:06:04 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T12:04:51.397Z",
+      "created_at": "2026-06-08T12:04:51.397Z"
+    },
+    {
+      "id": 10776,
+      "source": "CNBC Tech",
+      "title_en": "Marvell Technology jumps almost 9% in premarket after news it will join the S&P 500 index",
+      "description_en": "Marvell rose in premarket trading after S&P Global said the AI chipmaker would join the S&P 500 on June 22.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/08/marvell-sp500-index-addition.html",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 11:21:18 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T12:04:52.170Z",
+      "created_at": "2026-06-08T12:04:52.170Z"
+    },
+    {
+      "id": 10777,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia and SK hynix ink multi-year memory co-development and supply agreement — seeks to address extended development cycles",
+      "description_en": "Nvidia and SK hynix have inked a multi-year collaboration agreement under which the companies will co-develop next-generation memory technologies for Nvidia's upcoming platforms and SK hynix will supply them to Nvidia.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/dram/nvidia-and-sk-hynix-ink-multi-year-memory-co-development-and-supply-agreement-seeks-to-address-extended-development-cycles",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/sTwGjAwyv4JF2J8cALVrvF-1280-80.png",
+      "pub_date": "Mon, 08 Jun 2026 11:23:57 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "DRAM",
+        "PC Components",
+        "RAM"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T12:04:52.362Z",
+      "created_at": "2026-06-08T12:04:52.362Z"
+    },
+    {
+      "id": 10778,
+      "source": "Tom's Hardware",
+      "title_en": "Executives are cutting jobs for an AI future that hasn't fully arrived yet, even as productivity gains remain difficult to prove — data neither confirms nor refutes an AI unemployment apocalypse",
+      "description_en": "A growing number of CEOs expect AI-driven layoffs, but economic data paints a more complex picture as companies cut junior roles before proving AI delivers meaningful productivity gains.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/executives-are-cutting-jobs-for-an-ai-future-that-hasnt-fully-arrived-yet-even-as-productivity-gains-remain-difficult-to-prove-data-neither-confirms-nor-refutes-an-ai-unemployment-apocalypse",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/RuKxLbmpevQWEgBjvLLEzM-1280-80.jpg",
+      "pub_date": "Mon, 08 Jun 2026 11:20:00 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T12:04:52.362Z",
+      "created_at": "2026-06-08T12:04:52.362Z"
+    },
+    {
+      "id": 10779,
+      "source": "Tom's Hardware",
+      "title_en": "Amazon is offering a $324 Nvidia RTX 5060 GPU deal in a lightning sale, making it the cheapest model available — 1080p gaming on a budget",
+      "description_en": "Grab an RTX 5060 GPU deal while you still can. The $324 deal is selling out fast in Amazon's limited-time sale.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/amazon-is-offering-a-usd324-nvidia-rtx-5060-gpu-deal-in-a-lightning-sale-making-it-the-cheapest-model-available-1080p-gaming-on-a-budget",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/24HJj4L8vYFtvBdwhgEZom-1280-80.jpg",
+      "pub_date": "Mon, 08 Jun 2026 11:06:53 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T12:04:52.362Z",
+      "created_at": "2026-06-08T12:04:52.362Z"
+    },
+    {
+      "id": 10780,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Смартфоны россиян массово заражает новый вирус Drama RAT. Это один из самых мощных троянов, который похищает данные и буквально сжирает изнутри устойства на Android, пишут в МВД.Сейчас внимательно:",
+      "description_en": "⚡️ Смартфоны россиян массово заражает новый вирус Drama RAT. Это один из самых мощных троянов, который похищает данные и буквально сжирает изнутри устойства на Android, пишут в МВД.Сейчас внимательно: вирус распространяют через мессенджеры, СМС и электронную почту. Жертвам обещают бесплатный доступ к ChatGPT музыкальным сервисам, VPN и даже модам для Minecraft. Также сообщения могут приходить под темами «Декларация» или «Счет на оплату».После установки приложение просит права на обновление, посл",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29025",
+      "image_url": "https://cdn4.telesco.pe/file/Neaubc8wbY6m2rVD4utINa_gI_Pu7naWFIcAbvahRrS6HPfW9XtY8JArypMAWLAF1rCD-uR0eBhng68wmumUvMt1ONuW--VURfY_T5cVYJ6arcytIOwVGnWqkljUdRmmrfme9PS7ivsgJmG0K0vqE8UHwD-rakpjzVuXWgvjBtAixfWaVmKhKSPhG_UVWhDlOskpYpoBKd4rTy2LX5q-fj2lYuUKJMQM6yUZ8X_RyQF5eedUG-7vOEknDPgHagzJDoAgaX5zPWS3cosHxTGgBLLjjS6qUQQ-aOomhiEmTPIe4t4q8x2nbL9vYPj5z7_EJA7NLPEc3_xR7rN74dBHhA.jpg",
+      "pub_date": "2026-06-08T10:17:17+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T12:04:57.702Z",
+      "created_at": "2026-06-08T12:04:57.702Z"
+    },
+    {
+      "id": 10781,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "13-дюймовый MacBook Air на M5 будет разыгран уже сегодня.Подобные условия и кнопка «Участвовать»: https://max.ru/WylsacomRed/AZ6Hj7UXBhI",
+      "description_en": "13-дюймовый MacBook Air на M5 будет разыгран уже сегодня.Подобные условия и кнопка «Участвовать»: https://max.ru/WylsacomRed/AZ6Hj7UXBhI",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33462",
+      "image_url": "https://cdn4.telesco.pe/file/jSjSad0WtbBCu_L6X6_JDQJYZsx5Om-IrryCttxkDzuP1tah3eI__WbQCPzy90CldBvIjP4pRrqe0poWYTujbzB-GhTl7p5mw192rtFh9s58bsiA1gmnfkilbcURNQz5qDYnFaJW28BlC3_poG6ZFgcocj2Q3mkKdTpsh2oAprmwN1vHHZEdYH_seXx3-hQsPzEtKXAK2U5exwyXtdv4mTOJH1Yep8sm7hVQAuGVGMaipMt7r-zgHMaFvoGnJHXavprTIzh_5HSegDKz14EAZIpeOEwQpWSurtOhfCMp999vTpDe5f2bw38g-kVGJUhe819kb63XXpUBSrk259pJYA.jpg",
+      "pub_date": "2026-06-08T10:34:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T12:04:57.758Z",
+      "created_at": "2026-06-08T12:04:57.758Z"
+    },
+    {
+      "id": 10782,
+      "source": "AI Post (TG)",
+      "title_en": "American AI startups shift app traffic to Chinese LLMsThe primary development is a noticeable increase in American AI startups directing application traffic to Chinese large language models.According ",
+      "description_en": "American AI startups shift app traffic to Chinese LLMsThe primary development is a noticeable increase in American AI startups directing application traffic to Chinese large language models.According to recent usage patterns on OpenRouter, U.S. models led in weekly token consumption throughout most of 2025. However, since early 2026, Chinese models have emerged as the main drivers of growth in this sector.This data suggests that the AI model market is seeing reduced reliance on brand loyalty. Th",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7159",
+      "image_url": "https://cdn4.telesco.pe/file/QYS8g5H-grF-OCYL81HLOW39CfrRFwQiOENGLdTxE_XIDOQYh3nI2LU2EsNWdIMJguQMeshPr67VXxnRvkJl1U6rGYRzTHfNg5Bgd0NjRvdoUMiDwmcOWQKhpahH72NGQG6Gxm693gMfMFZc9zygFXKMEFM0hoj9R6ovTroCh2w6b7mBQgnlTUhocW4WcIWnhW6XXICGRy9Iz7XIsdgvCBamiUFXJyzrHcmD5a1d31T7sCoByjui4OUOtVNWhRnUw2MpcRUBN3X2SFPQE5AHx3QADYF0AcRTd4EVoDFhyXzMHUzYcJtoXSER1yauIwealiuhA2NfjNHmpBZ3D0XH-Q.jpg",
+      "pub_date": "2026-06-08T11:44:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T12:04:58.568Z",
+      "created_at": "2026-06-08T12:04:58.568Z"
+    },
+    {
+      "id": 10783,
+      "source": "Prompt AI News (TG)",
+      "title_en": "⚡️ 120 tok/s on a 12GB GPU. Gemma 4 12B just got silly fast.Pair the new QAT checkpoint with MTP speculative decoding in llama.cpp and you're hitting 120 tokens/s on a single consumer card. QAT minimi",
+      "description_en": "⚡️ 120 tok/s on a 12GB GPU. Gemma 4 12B just got silly fast.Pair the new QAT checkpoint with MTP speculative decoding in llama.cpp and you're hitting 120 tokens/s on a single consumer card. QAT minimizes quality loss by simulating quantization during training, so you're not trading brains for speed.The dedicated MTP draft model enables significantly faster inference with no quality loss. The PR landed in llama.cpp mainline the same day it was shared.Beats Qwen 35B MoE on throughput, fits in 12GB",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/169",
+      "image_url": null,
+      "pub_date": "2026-06-08T11:53:11+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T12:04:58.854Z",
+      "created_at": "2026-06-08T12:04:58.854Z"
     }
   ]
 }
