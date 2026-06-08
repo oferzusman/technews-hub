@@ -1,9 +1,9 @@
 {
-  "total": 10755,
+  "total": 10759,
   "translated": 8824,
-  "untranslated": 1931,
-  "today": 10,
-  "week": 712,
+  "untranslated": 1935,
+  "today": 14,
+  "week": 716,
   "sources": [
     {
       "name": "Product Hunt",
@@ -49,7 +49,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 457,
+      "total": 458,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -73,9 +73,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 326,
+      "total": 327,
       "translated": 168,
-      "lastDate": "2026-06-08T03:35:03+00:00"
+      "lastDate": "2026-06-08T06:44:01+00:00"
     },
     {
       "name": "The Verge AI",
@@ -127,9 +127,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 111,
+      "total": 112,
       "translated": 63,
-      "lastDate": "2026-06-07T07:23:17+00:00"
+      "lastDate": "2026-06-08T06:28:38+00:00"
     },
     {
       "name": "AI News",
@@ -169,9 +169,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 69,
+      "total": 70,
       "translated": 47,
-      "lastDate": "2026-06-05T05:02:04+00:00"
+      "lastDate": "2026-06-08T06:08:06+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-08T06:55:07.449Z"
+  "generatedAt": "2026-06-08T07:01:27.952Z"
 }
