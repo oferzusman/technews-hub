@@ -226043,7 +226043,7 @@
       "author": "Nilay Patel",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T14:33:53.774Z",
       "created_at": "2026-06-08T14:33:53.774Z"
     },
@@ -226092,7 +226092,7 @@
         "Generative AI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T14:33:55.284Z",
       "created_at": "2026-06-08T14:33:55.284Z"
     },
@@ -226113,7 +226113,7 @@
         "AI Radar"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T14:33:55.284Z",
       "created_at": "2026-06-08T14:33:55.284Z"
     },
@@ -226138,7 +226138,7 @@
         "Meta AI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T14:33:55.284Z",
       "created_at": "2026-06-08T14:33:55.284Z"
     },
@@ -226196,7 +226196,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T14:33:55.620Z",
       "created_at": "2026-06-08T14:33:55.620Z"
     },
@@ -226230,7 +226230,7 @@
       "author": "Adam Williams",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T14:33:56.264Z",
       "created_at": "2026-06-08T14:33:56.264Z"
     },
@@ -226290,7 +226290,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T14:33:56.423Z",
       "created_at": "2026-06-08T14:33:56.423Z"
     },
@@ -226307,7 +226307,7 @@
       "author": "Kaif Shaikh",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T14:33:56.952Z",
       "created_at": "2026-06-08T14:33:56.952Z"
     },
@@ -226324,7 +226324,7 @@
       "author": "Munis Raza",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T14:33:56.952Z",
       "created_at": "2026-06-08T14:33:56.952Z"
     },
@@ -226341,7 +226341,7 @@
       "author": "Jijo Malayil",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T14:33:56.952Z",
       "created_at": "2026-06-08T14:33:56.952Z"
     },
@@ -226401,7 +226401,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T14:33:57.924Z",
       "created_at": "2026-06-08T14:33:57.924Z"
     },
@@ -226418,7 +226418,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T14:33:57.965Z",
       "created_at": "2026-06-08T14:33:57.965Z"
     },
@@ -226452,7 +226452,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T14:33:59.728Z",
       "created_at": "2026-06-08T14:33:59.728Z"
     },
@@ -226486,9 +226486,439 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T14:34:00.269Z",
       "created_at": "2026-06-08T14:34:00.269Z"
+    },
+    {
+      "id": 10805,
+      "source": "TechCrunch AI",
+      "title_en": "Amazon now lets you design custom merch using AI",
+      "description_en": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 15:49:12 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "AI",
+        "Commerce",
+        "Alexa",
+        "Amazon",
+        "commerce",
+        "e-commerce"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T16:15:19.021Z",
+      "created_at": "2026-06-08T16:15:19.021Z"
+    },
+    {
+      "id": 10806,
+      "source": "TechCrunch AI",
+      "title_en": "WWDC 2026: What to expect, from Siri’s highly anticipated revamp to Apple Intelligence and iOS 27",
+      "description_en": "Apple's WWDC nears: Here's what you can look forward to.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 15:34:59 +0000",
+      "author": "Lauren Forristal",
+      "categories": [
+        "AI",
+        "Apps",
+        "Hardware",
+        "Apple",
+        "Apple Intelligence",
+        "siri",
+        "wwdc",
+        "WWDC 2026"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T16:15:19.021Z",
+      "created_at": "2026-06-08T16:15:19.021Z"
+    },
+    {
+      "id": 10807,
+      "source": "Ars Technica",
+      "title_en": "\"Chat is dead\": OpenAI preps overhaul of ChatGPT",
+      "description_en": "OpenAI to recast hit chatbot as a route to higher-margin products before a potential IPO.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/openai-logo-1152x648-1741196873.jpg",
+      "pub_date": "Mon, 08 Jun 2026 13:51:16 +0000",
+      "author": "\n                    Cristina Criddle, Financial Times\n                ",
+      "categories": [
+        "AI",
+        "ChatGPT",
+        "IPO",
+        "openai"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-08T16:15:19.091Z",
+      "created_at": "2026-06-08T16:15:19.091Z"
+    },
+    {
+      "id": 10808,
+      "source": "The Verge AI",
+      "title_en": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+      "description_en": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and reliable information,\" according to a blog post on Monday.\nLaunched in 2023, NotebookLM allows you to interact with your notes and sources using AI, as well as ask questions about the materials. With this update, Google says you can start a research project by just asking NotebookLM questions about a top",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+      "image_url": null,
+      "pub_date": "2026-06-08T16:00:00.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T16:15:19.137Z",
+      "created_at": "2026-06-08T16:15:19.137Z"
+    },
+    {
+      "id": 10809,
+      "source": "New Atlas",
+      "title_en": "Bookshelf speakers put the tweeter in the throat of the driver cone",
+      "description_en": "Think speakers are a simple paper cone that vibrates to translate electrical signals into sound? Like much of the tech we feature, there’s rather more to it these days – as the European debut of a new high-end wireless speaker system from Scotland has just demonstrated.\nContinue Reading\nCategory: Home Entertainment, Consumer Tech, Technology\nTags: Hi-fi, High-resolution, Bluetooth Speakers, Audiophile, Digital music",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/home-entertainment/fyne-cubitt-5-isoflare/",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 15:37:00 GMT",
+      "author": "Simon Heptinstall",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T16:15:21.314Z",
+      "created_at": "2026-06-08T16:15:21.314Z"
+    },
+    {
+      "id": 10810,
+      "source": "The Guardian AI",
+      "title_en": "Let’s call it what it is: antisocial media | Brief letters",
+      "description_en": "Tech platforms | Concerned AI | David Sullivan | Contacting MPs | Mogging\nWhy is it that in the coverage of the downsides of the activities of the tech bros’ platforms, the term “social media” is used (Ministers may try to curb spread of misinformation during social unrest, 6 June). “Social” implies care, consideration and cooperation. It’s time commentators dumped this cosy terminology and named it for what it is – antisocial media.\nColin Hines\nTwickenham, London\n• Michael Peel (Letters, 3 June",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/media/2026/jun/08/lets-call-it-what-it-is-antisocial-media",
+      "image_url": "https://i.guim.co.uk/img/media/1cdd4a59b448175ca56953ef183368ece072a0fb/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=d1bc763c6a3757348a076b766053b189",
+      "pub_date": "Mon, 08 Jun 2026 15:47:49 GMT",
+      "author": "Guardian Staff",
+      "categories": [
+        {
+          "_": "Social media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/social-media"
+          }
+        },
+        {
+          "_": "Mobile phones",
+          "$": {
+            "domain": "https://www.theguardian.com/money/mobile-phones"
+          }
+        },
+        {
+          "_": "Mobile phones",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/mobilephones"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Television",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/television"
+          }
+        },
+        {
+          "_": "Springwatch",
+          "$": {
+            "domain": "https://www.theguardian.com/tv-and-radio/springwatch"
+          }
+        },
+        {
+          "_": "David Sullivan",
+          "$": {
+            "domain": "https://www.theguardian.com/football/david-sullivan"
+          }
+        },
+        {
+          "_": "West Ham United",
+          "$": {
+            "domain": "https://www.theguardian.com/football/westhamunited"
+          }
+        },
+        {
+          "_": "Football",
+          "$": {
+            "domain": "https://www.theguardian.com/football/football"
+          }
+        },
+        {
+          "_": "Newspapers",
+          "$": {
+            "domain": "https://www.theguardian.com/media/newspapers"
+          }
+        },
+        {
+          "_": "Newspapers & magazines",
+          "$": {
+            "domain": "https://www.theguardian.com/media/pressandpublishing"
+          }
+        },
+        {
+          "_": "Media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/media"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "Language",
+          "$": {
+            "domain": "https://www.theguardian.com/science/language"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Lincolnshire",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/lincolnshire"
+          }
+        },
+        {
+          "_": "House of Commons",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/houseofcommons"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T16:15:21.321Z",
+      "created_at": "2026-06-08T16:15:21.321Z"
+    },
+    {
+      "id": 10811,
+      "source": "The Guardian AI",
+      "title_en": "A mother’s work has enormous value | Letter",
+      "description_en": "Polly Creed takes issue with a quote in an article that denigrated the importance of the work that mums do  \nRobert dos Santos’s call to be more human, to connect and to challenge AI and the dark cloud it’s set to bring upon humanity is certainly laudable – a valiant rallying cry for the dystopian, uncertain times we’re living through (I’m asking people to do a lot, but that’s what it means to be a human’: why one man made the first straight-to-video movie in 20 years, 4 June). However, I found ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/society/2026/jun/08/a-mothers-work-has-enormous-value",
+      "image_url": "https://i.guim.co.uk/img/media/6eac7e5bd8929ffeec4a4e582c36b7f9cfa9d462/280_0_4402_3520/master/4402.jpg?width=140&quality=85&auto=format&fit=max&s=b37f8f480ba872562f9ee1abccf472c0",
+      "pub_date": "Mon, 08 Jun 2026 15:47:25 GMT",
+      "author": "Guardian Staff",
+      "categories": [
+        {
+          "_": "Women",
+          "$": {
+            "domain": "https://www.theguardian.com/society/women"
+          }
+        },
+        {
+          "_": "Women",
+          "$": {
+            "domain": "https://www.theguardian.com/lifeandstyle/women"
+          }
+        },
+        {
+          "_": "Gender",
+          "$": {
+            "domain": "https://www.theguardian.com/world/gender"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Feminism",
+          "$": {
+            "domain": "https://www.theguardian.com/world/feminism"
+          }
+        },
+        {
+          "_": "Carers",
+          "$": {
+            "domain": "https://www.theguardian.com/society/carers"
+          }
+        },
+        {
+          "_": "Parents and parenting",
+          "$": {
+            "domain": "https://www.theguardian.com/lifeandstyle/parents-and-parenting"
+          }
+        },
+        {
+          "_": "Family",
+          "$": {
+            "domain": "https://www.theguardian.com/lifeandstyle/family"
+          }
+        },
+        {
+          "_": "Children",
+          "$": {
+            "domain": "https://www.theguardian.com/society/children"
+          }
+        },
+        {
+          "_": "Society",
+          "$": {
+            "domain": "https://www.theguardian.com/society/society"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T16:15:21.321Z",
+      "created_at": "2026-06-08T16:15:21.321Z"
+    },
+    {
+      "id": 10812,
+      "source": "The Guardian AI",
+      "title_en": "If Australian data centres are going to power the AI revolution, we deserve a fair return | David Pocock",
+      "description_en": "We cannot afford to make the same mistake as we did with gas. If tech companies are going to use our land, energy and water for AI, they must pay their fair share of tax\nOver the past few months, tens of thousands of Australians have emailed their local MP calling for a 25% tax on gas exports. More than 2,200 people have even chipped in their own money to fund billboards promoting the idea.\nWhy?\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/jun/09/australia-datacentres-artificial-intelligence-ai-revolution-industry-fairness",
+      "image_url": "https://i.guim.co.uk/img/media/3b361147d8c044fb7df8048c37d10b1186d8240a/991_37_1831_1466/master/1831.jpg?width=140&quality=85&auto=format&fit=max&s=583175e69f89be3143c547639af6359a",
+      "pub_date": "Mon, 08 Jun 2026 15:00:28 GMT",
+      "author": "David Pocock",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Gas",
+          "$": {
+            "domain": "https://www.theguardian.com/business/gas"
+          }
+        },
+        {
+          "_": "Energy",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/energy-australia"
+          }
+        },
+        {
+          "_": "Fossil fuels",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/fossil-fuels"
+          }
+        },
+        {
+          "_": "Energy",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/energy"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Australian politics",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australian-politics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T16:15:21.321Z",
+      "created_at": "2026-06-08T16:15:21.321Z"
+    },
+    {
+      "id": 10813,
+      "source": "Tom's Hardware",
+      "title_en": "Demand for data center CPUs has surged, and AI agents are responsible – why the CPU to GPU ratio is more important than ever for hyperscalers",
+      "description_en": "The massive AI gold rush has a new bottleneck set in its sights, CPUs. But what's driving the demand? We interview industry experts to find out.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/demand-for-data-center-cpus-has-surged-and-ai-agents-are-responsible-why-the-cpu-to-gpu-ratio-is-more-important-than-ever-for-hyperscalers",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Ayt7bzBWFvQmWPDUoyjUNh-1280-80.jpg",
+      "pub_date": "Mon, 08 Jun 2026 15:15:55 +0000",
+      "author": " Chris Stokel-Walker ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T16:15:22.187Z",
+      "created_at": "2026-06-08T16:15:22.187Z"
+    },
+    {
+      "id": 10814,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️⚡️ Осталось ДВА ДНЯ до конца розыгрыша — у вас еще есть шанс получить ништяки от нас и Авто.ру | Новые машины!Разыгрываем по одному iPhone 17 Pro, Apple MacBook Air и PlayStation 5 Pro. Влетаем в ро",
+      "description_en": "⚡️⚡️ Осталось ДВА ДНЯ до конца розыгрыша — у вас еще есть шанс получить ништяки от нас и Авто.ру | Новые машины!Разыгрываем по одному iPhone 17 Pro, Apple MacBook Air и PlayStation 5 Pro. Влетаем в розыгрыш скорее:• Подписаться на Авто.ру | Новые машины;• Оставаться подписанными на нас;• Прожать «Участвовать» под этим постом.Трех победителей определим рандомайзером через два дня, 10 июня. Правила — тут.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29030",
+      "image_url": "https://cdn4.telesco.pe/file/dR-ZciekECORE9BP_vGrPCTnBnRpGKwIWkBKTKS7MZlSN7IKGBmbgfNZB4bMXw0RRVVEDgU_FmJKf6VFXYDWLUP4zwdzM67egemDqtmZVGvyz4umERevkwbfGxGRd0qCBDyslOGDhH88mhQHVsFcFAwrCinCYwIck8TNaZ0_GCIQFDAGmY0KzJxkKZZi3fIATZrqT48KtaiddBJMXz2KWpY-RwQFXeb9ambko9jaPa5ZLmP-l_mo15U1_PRIqbEbi2nTQKEz-EJCulZ_C2F5DCYDaNCES0-HxxAH2SSIdchqW71cLPW9Jtvbppn1_hNcRMGmwxniC3mTIhescMQkhg.jpg",
+      "pub_date": "2026-06-08T15:31:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T16:15:27.678Z",
+      "created_at": "2026-06-08T16:15:27.678Z"
+    },
+    {
+      "id": 10815,
+      "source": "AI Post (TG)",
+      "title_en": "A lot of people are learning this lesson the hard way: AI made building apps easy. But when everyone can build, building is no longer the advantage.The real moat now is getting customers. Sales, marke",
+      "description_en": "A lot of people are learning this lesson the hard way: AI made building apps easy. But when everyone can build, building is no longer the advantage.The real moat now is getting customers. Sales, marketing, and distribution are becoming more valuable than code.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7160",
+      "image_url": "https://cdn4.telesco.pe/file/SdBx3TfMfadw7GSmacLvrnrp0ra5DYy2JGLZKExGpLgVbN0U-n2rsdA6NZaHoriBuxrRWIaHHzNWMhmtV88-3eW_PV8H5DtQnZ7Z8121X755p2jcfNpLxTX8sIzW_gBkQksH5iAV68rU5IuoZ1PrK-LotzlZrG2q8ezRHjwvxZ27kci5S_tFsGQ52V7jln2mowgrONl9lasoelwAAU7xUniHjktaTJhiFIwwsufUwTMrqLEl4p6mhdUFxYoRgmkluz_PEuIIUsZ4wJfPQjr0MdarlNBoMhVEgTw-MVT2ChssbMs3bNuUMJae5gFKYvUj1bZ3OH248ZBbSf5zvAgrtQ.jpg",
+      "pub_date": "2026-06-08T14:50:23+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T16:15:28.407Z",
+      "created_at": "2026-06-08T16:15:28.407Z"
     }
   ]
 }
