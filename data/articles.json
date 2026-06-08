@@ -225210,7 +225210,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T05:12:35.601Z",
       "created_at": "2026-06-08T05:12:35.601Z"
     },
@@ -225345,7 +225345,7 @@
       "author": "Chris Young",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T06:59:40.332Z",
       "created_at": "2026-06-08T06:59:40.332Z"
     },
@@ -225362,7 +225362,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T06:59:47.501Z",
       "created_at": "2026-06-08T06:59:47.501Z"
     },
@@ -225379,7 +225379,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T06:59:47.547Z",
       "created_at": "2026-06-08T06:59:47.547Z"
     },
@@ -225396,9 +225396,324 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T06:59:47.789Z",
       "created_at": "2026-06-08T06:59:47.789Z"
+    },
+    {
+      "id": 10760,
+      "source": "MarkTechPost",
+      "title_en": "Microsoft AI Introduces MAI-Transcribe-1.5: 2.4% WER on Artificial Analysis, Best-in-Class FLEURS Accuracy, and Up to 5x Faster Long-Audio Transcription",
+      "description_en": "Microsoft AI has released MAI-Transcribe-1.5, the second iteration of its in-house speech-to-text family. The model covers 43 languages, adds keyword (entity) biasing for domain-specific terms, posts a 2.4% Word-Error-Rate on the Artificial Analysis leaderboard, and transcribes an hour of audio in under 15 seconds. It is generally available in Azure AI Foundry.\nThe post Microsoft AI Introduces MAI-Transcribe-1.5: 2.4% WER on Artificial Analysis, Best-in-Class FLEURS Accuracy, and Up to 5x Faster",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/08/microsoft-ai-introduces-mai-transcribe-1-5-2-4-wer-on-artificial-analysis-best-in-class-fleurs-accuracy-and-up-to-5x-faster-long-audio-transcription/",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 08:56:49 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Audio Language Model",
+        "Editors Pick",
+        "Language Model",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Technology",
+        "Voice AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T10:03:05.244Z",
+      "created_at": "2026-06-08T10:03:05.244Z"
+    },
+    {
+      "id": 10761,
+      "source": "MarkTechPost",
+      "title_en": "Google Research Adds Agentic RAG to Gemini Enterprise Agent Platform with a Sufficient Context Agent for multi-hop queries",
+      "description_en": "Google Research details an agentic RAG framework in Gemini Enterprise Agent Platform. A Sufficient Context Agent re-searches until multi-hop, multi-source queries have enough grounding to answer. The framework raises factuality accuracy up to 34% versus standard RAG.\nThe post Google Research Adds Agentic RAG to Gemini Enterprise Agent Platform with a Sufficient Context Agent for multi-hop queries appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/08/google-research-adds-agentic-rag-to-gemini-enterprise-agent-platform-with-a-sufficient-context-agent-for-multi-hop-queries/",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 08:25:51 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "New Releases",
+        "RAG",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T10:03:05.244Z",
+      "created_at": "2026-06-08T10:03:05.244Z"
+    },
+    {
+      "id": 10762,
+      "source": "The Guardian AI",
+      "title_en": "Bernie Sanders’ AI sovereign wealth fund plan is good. But we think this is better | Nathan E Sanders  and Bruce Schneier",
+      "description_en": "While we do not outright oppose the taking of AI company stock, or of a US a sovereign wealth fund, there are better ways to achieve the senator’s goals\nLet no one accuse Bernie Sanders of ducking the big questions. Writing in the New York Times last week, the senator asked: “Will the future of humanity be determined by a handful of billionaires who have promoted and developed AI, with virtually no democratic input, who stand to become even richer and more powerful than they are today?”\nWe agree",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/jun/08/bernie-sanders-ai-sovereign-wealth-fund-plan",
+      "image_url": "https://i.guim.co.uk/img/media/610738011f32d7405e11f49608eafc5582b7deb9/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=0c8cb28439e2fc4eaaab1fe6b7335ece",
+      "pub_date": "Mon, 08 Jun 2026 10:00:22 GMT",
+      "author": "Nathan E Sanders and Bruce Schneier",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Income inequality",
+          "$": {
+            "domain": "https://www.theguardian.com/inequality/income-inequality"
+          }
+        },
+        {
+          "_": "Silicon Valley",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/silicon-valley"
+          }
+        },
+        {
+          "_": "Bernie Sanders",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/bernie-sanders"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T10:03:05.697Z",
+      "created_at": "2026-06-08T10:03:05.697Z"
+    },
+    {
+      "id": 10763,
+      "source": "The Guardian AI",
+      "title_en": "Global stock markets fall as concerns persist over tech firms at heart of AI boom",
+      "description_en": "Drops follow sharp sell-off of US tech stock last week while oil prices jump after Iran and Israel exchange strikes\n\nBusiness live – latest updates\n\nGlobal stock markets have fallen amid concern about the prospects for tech stocks while oil prices have risen after renewed conflict in the Middle East dampened hopes that the strait of Hormuz would soon reopen.\nStock markets in Asia and Europe fell on Monday after a sharp sell-off in US tech stocks late last week, as investors fretted over how firm",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/jun/08/stock-markets-fall-tech-firms-ai-boom-oil-prices-iran-israel",
+      "image_url": "https://i.guim.co.uk/img/media/ef5e7178d44e3cb982ed3f207097d4291b36c415/830_0_6524_5222/master/6524.jpg?width=140&quality=85&auto=format&fit=max&s=30f38c114fb9948a5c7c0dc3dd1d492b",
+      "pub_date": "Mon, 08 Jun 2026 08:32:17 GMT",
+      "author": "Lauren Almeida and Graeme Wearden",
+      "categories": [
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "Oil",
+          "$": {
+            "domain": "https://www.theguardian.com/business/oil"
+          }
+        },
+        {
+          "_": "Gas",
+          "$": {
+            "domain": "https://www.theguardian.com/business/gas"
+          }
+        },
+        {
+          "_": "US-Israel war on Iran",
+          "$": {
+            "domain": "https://www.theguardian.com/world/us-israel-war-on-iran"
+          }
+        },
+        {
+          "_": "Commodities",
+          "$": {
+            "domain": "https://www.theguardian.com/business/commodities"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Lebanon",
+          "$": {
+            "domain": "https://www.theguardian.com/world/lebanon"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Global economy",
+          "$": {
+            "domain": "https://www.theguardian.com/business/global-economy"
+          }
+        },
+        {
+          "_": "Economics",
+          "$": {
+            "domain": "https://www.theguardian.com/business/economics"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T10:03:05.697Z",
+      "created_at": "2026-06-08T10:03:05.697Z"
+    },
+    {
+      "id": 10764,
+      "source": "AI News",
+      "title_en": "Weis Markets adds Instacart AI-powered shopping carts to stores",
+      "description_en": "Weis Markets is adding Instacart’s AI-powered shopping carts, Caper Carts, to select stores in Pennsylvania, bringing digital coupons, loyalty features, and repeat-purchase recommendations into the grocery aisle. The Pennsylvania-based grocery chain is working with Instacart to deploy the smart carts, which include cameras, certified scales, location systems, and a touchscreen. According to Instacart, Caper Carts […]\nThe post Weis Markets adds Instacart AI-powered shopping carts to stores appear",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/weis-markets-instacart-ai-powered-shopping-caper-carts/",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 10:00:00 +0000",
+      "author": "Muhammad Zulhusni",
+      "categories": [
+        "AI in Action",
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Marketing AI",
+        "Physical AI",
+        "Retail & Logistics AI",
+        "ai",
+        "marketing ai",
+        "physical ai",
+        "retail"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T10:03:05.985Z",
+      "created_at": "2026-06-08T10:03:05.985Z"
+    },
+    {
+      "id": 10765,
+      "source": "Interesting Engineering",
+      "title_en": "Jumping spider’s layered retina drives design of low-power 3D camera for AR and robotics",
+      "description_en": "Engineers have studied how jumping spiders see and used this unusual biological model to create...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/jumping-spiders-inspire-ultra-efficient-3d-camera",
+      "image_url": null,
+      "pub_date": "Mon, 08 Jun 2026 07:08:48 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-08T10:03:06.521Z",
+      "created_at": "2026-06-08T10:03:06.521Z"
+    },
+    {
+      "id": 10766,
+      "source": "Product Hunt",
+      "title_en": "Claude Artifact Player",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/claude-artifact-player",
+      "image_url": null,
+      "pub_date": "2026-06-07T20:25:19.000Z",
+      "author": "Mazen ALSAREM",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-08T10:03:08.308Z",
+      "created_at": "2026-06-08T10:03:08.308Z"
+    },
+    {
+      "id": 10767,
+      "source": "XOR Journal (TG)",
+      "title_en": "Ну почему на работе нет летних каникул 🥲@xor_journal",
+      "description_en": "Ну почему на работе нет летних каникул 🥲@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9472",
+      "image_url": "https://cdn4.telesco.pe/file/IgJg9NpJtzNpRa2qswZhDVGGv3E-1_5mrNl57hLVW5nxryF1PZIz_TMuozKaSv4EUTNufqoPmAbEOU_RCTDmdUwDLr6tjUynKdz8E8PebzkAt0enexevfWDviGngq-xW42BjIXBhWM7jBYVFrrwN2yhUAgzNgWzd0cv5QsFHaw5KFoLhwIKErb6nPY1m7BWDzbyXCXBCbKNYz94GhZu6HBkZ0zrTFP_5g4m2twx_k8DhgAKWwA-5qcZyBDF-OHq7Lw-4JQ3bDjlTAXCzoJtL2HWniCW8LCE23hnKiIUHAqF2LzWHdHe2qNTH-pjISiOi1RyS0X_PgBAN7jKs9i6MmQ.jpg",
+      "pub_date": "2026-06-08T08:06:08+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T10:03:08.964Z",
+      "created_at": "2026-06-08T10:03:08.964Z"
+    },
+    {
+      "id": 10768,
+      "source": "Habr (TG)",
+      "title_en": "⚡ Новости к этому часу🔥 ПОДДЕРЖИТЕ КАНАЛ ГОЛОСАМИ 😎📱 Grok всё? Google арендует у Маска вычислительные мощности на почти $1 млрд в месяц🛸 Китайская Navee представила двухместный экранолёт WaveFly 5",
+      "description_en": "⚡ Новости к этому часу🔥 ПОДДЕРЖИТЕ КАНАЛ ГОЛОСАМИ 😎📱 Grok всё? Google арендует у Маска вычислительные мощности на почти $1 млрд в месяц🛸 Китайская Navee представила двухместный экранолёт WaveFly 5 (ФОТО)🔭 После 50 лет поисков астрономы зафиксировали звёздный ветер, дующий от Стрельца А* в центре Галактики🎬 Профсоюз американских актёров SAG‑AFTRA заключил с киностудиями контракт для защиты от ИИ🛍 М.Видео откроет 5 тысяч ПВЗ в России до конца года😱 В долине Огайо оборвался FM-сигнал мощнос",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/68835",
+      "image_url": "https://cdn4.telesco.pe/file/EMQ1YhJmFdRlUCKnsgLo4CgYbPN4mTsU2B467-LS8AyEZgg8rZ_m-KZGnpteSiLXYhf24vl57MTFRfWI6vYK0oo0yjRRQsLZXP7Yvqr0RXLLBbKS26CBlpI7bO2aXVj5sYiiL07D1CjcBGWU20lgBiNfmZ5fuLxu7VJ4DgPh70ibhmiSzjFL9AMhtSVpkw45eOihM8GYU_xHMH9J0zv49LQNnWE0pBp4LqYWJDUNKcWee0h1K_O0SrvCDb01lhtiMWwJdkXZHJicZpDL5Z2Tz7pB-Htx2d-6NZRiqFkZQq9CGopsP_wjL0CNM5p4lTUAiCTLrAPlTP4euGXAwvV36w.jpg",
+      "pub_date": "2026-06-08T09:30:30+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T10:03:09.253Z",
+      "created_at": "2026-06-08T10:03:09.253Z"
+    },
+    {
+      "id": 10769,
+      "source": "Hi, AI English (TG)",
+      "title_en": "⏫ Canadian Engineers Built an \"Unbeatable\" AI Air Hockey RobotA team of engineers from the University of British Columbia spent about 1.5 years on the project.Air hockey looks simple, but teaching a r",
+      "description_en": "⏫ Canadian Engineers Built an \"Unbeatable\" AI Air Hockey RobotA team of engineers from the University of British Columbia spent about 1.5 years on the project.Air hockey looks simple, but teaching a robot to play it is anything but. The puck moves fast and unpredictably, and even the tiniest surface imperfections or uneven rails throw off its trajectory. That makes traditional physics engines practically useless for real-time calculations.So the developers trained the robot entirely in simulatio",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2561",
+      "image_url": null,
+      "pub_date": "2026-06-08T08:04:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-08T10:03:09.306Z",
+      "created_at": "2026-06-08T10:03:09.306Z"
     }
   ]
 }
