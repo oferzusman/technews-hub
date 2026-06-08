@@ -1,9 +1,9 @@
 {
-  "total": 10751,
+  "total": 10755,
   "translated": 8824,
-  "untranslated": 1927,
-  "today": 6,
-  "week": 708,
+  "untranslated": 1931,
+  "today": 10,
+  "week": 712,
   "sources": [
     {
       "name": "Product Hunt",
@@ -25,7 +25,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 604,
+      "total": 605,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -60,22 +60,22 @@
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
+      "name": "The Guardian AI",
+      "total": 366,
+      "translated": 263,
+      "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
+    },
+    {
       "name": "OpenAI Blog",
       "total": 365,
       "translated": 334,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
-      "name": "The Guardian AI",
-      "total": 364,
-      "translated": 263,
-      "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
-    },
-    {
       "name": "AI Post (TG)",
-      "total": 325,
+      "total": 326,
       "translated": 168,
-      "lastDate": "2026-06-08T00:42:02+00:00"
+      "lastDate": "2026-06-08T03:35:03+00:00"
     },
     {
       "name": "The Verge AI",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-08T02:03:52.360Z"
+  "generatedAt": "2026-06-08T05:14:35.466Z"
 }
