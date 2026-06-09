@@ -228646,7 +228646,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T22:09:44.512Z",
       "created_at": "2026-06-08T22:09:44.512Z"
     },
@@ -228697,7 +228697,7 @@
       "author": "Emma Roth",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T22:45:20.859Z",
       "created_at": "2026-06-08T22:45:20.859Z"
     },
@@ -228717,7 +228717,7 @@
         "TC"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T22:45:21.023Z",
       "created_at": "2026-06-08T22:45:21.023Z"
     },
@@ -228743,7 +228743,7 @@
         "WWDC 2026"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T22:45:21.023Z",
       "created_at": "2026-06-08T22:45:21.023Z"
     },
@@ -228760,7 +228760,7 @@
       "author": "Neetika Walter",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T22:45:23.803Z",
       "created_at": "2026-06-08T22:45:23.803Z"
     },
@@ -228777,7 +228777,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T22:45:24.505Z",
       "created_at": "2026-06-08T22:45:24.505Z"
     },
@@ -228802,7 +228802,7 @@
         "satellites"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T23:46:09.466Z",
       "created_at": "2026-06-08T23:46:09.466Z"
     },
@@ -228856,7 +228856,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T23:46:11.392Z",
       "created_at": "2026-06-08T23:46:11.392Z"
     },
@@ -228873,7 +228873,7 @@
       "author": "Neetika Walter",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T23:46:11.768Z",
       "created_at": "2026-06-08T23:46:11.768Z"
     },
@@ -228890,7 +228890,7 @@
       "author": "Aamir Khollam",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T23:46:11.768Z",
       "created_at": "2026-06-08T23:46:11.768Z"
     },
@@ -228907,9 +228907,149 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-08T23:46:12.749Z",
       "created_at": "2026-06-08T23:46:12.749Z"
+    },
+    {
+      "id": 10915,
+      "source": "TechCrunch AI",
+      "title_en": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+      "description_en": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 01:56:48 +0000",
+      "author": "Lucas Ropek",
+      "categories": [
+        "AI",
+        "Apple",
+        "iPhone",
+        "siri ai",
+        "WWDC 2026"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T02:27:58.401Z",
+      "created_at": "2026-06-09T02:27:58.401Z"
+    },
+    {
+      "id": 10916,
+      "source": "TechCrunch AI",
+      "title_en": "Mercor’s Brendan Foody calls out Sequoia over ‘dual-pricing’ valuation tricks",
+      "description_en": "Sequoia is just one of the top firms that sells same equity at two different prices.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 00:45:56 +0000",
+      "author": "Marina Temkin",
+      "categories": [
+        "AI",
+        "Venture",
+        "Mercor",
+        "Sequoia Partners",
+        "Valuations"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T02:27:58.402Z",
+      "created_at": "2026-06-09T02:27:58.402Z"
+    },
+    {
+      "id": 10917,
+      "source": "Ars Technica",
+      "title_en": "FCC lifts looming deadline for Amazon Leo satellite broadband constellation",
+      "description_en": "The waiver \"serves the public interest by promoting a second large satellite broadband constellation.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/amazon-leo-space-amazon-news-nb-032326-1152x648-1780966770.jpg",
+      "pub_date": "Tue, 09 Jun 2026 00:59:40 +0000",
+      "author": "\n                    Stephen Clark\n                ",
+      "categories": [
+        "Science",
+        "Space",
+        "Amazon",
+        "amazon leo",
+        "broadband",
+        "Commercial space",
+        "launch",
+        "project kuiper"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T02:27:58.522Z",
+      "created_at": "2026-06-09T02:27:58.522Z"
+    },
+    {
+      "id": 10918,
+      "source": "New Atlas",
+      "title_en": "Your brain reads paper books and screens differently",
+      "description_en": "Does the way information \"sticks\" to our brains differ depending on the medium? New research suggests it might, with readers engaging more with a story in a traditional book than one read on a digital device.\nContinue Reading\nCategory: Learning & Memory, Brain Health, Body and Mind\nTags: University of Tokyo, Reading, eBook, E-reader, Books, Japan",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/learning-memory/brains-books-ebooks/",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 00:22:41 GMT",
+      "author": "Bronwyn Thompson",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-09T02:28:00.799Z",
+      "created_at": "2026-06-09T02:28:00.799Z"
+    },
+    {
+      "id": 10919,
+      "source": "CNBC Tech",
+      "title_en": "Asia chip-linked shares recover after U.S. peers bounce back",
+      "description_en": "In the U.S., chip stocks powered gains on Monday, helping the S&P 500 gain 0.3%, while the tech-heavy Nasdaq Composite advanced 0.86%.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/09/asia-tech-stocks-rebound-after-wall-street-chip-shares-recover-.html",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 01:25:56 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T02:28:01.902Z",
+      "created_at": "2026-06-09T02:28:01.902Z"
+    },
+    {
+      "id": 10920,
+      "source": "CNBC Tech",
+      "title_en": "Perplexity plans IPO in 2028 regardless of what happens to Anthropic or OpenAI, CEO tells CNBC",
+      "description_en": "Perplexity CEO Aravind Srinivas' comments come after AI giant Anthropic confidentially filed to go public.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/09/perplexity-ipo-2028-as-anthropic-openai-prepare-listings.html",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 00:44:43 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T02:28:01.902Z",
+      "created_at": "2026-06-09T02:28:01.902Z"
+    },
+    {
+      "id": 10921,
+      "source": "AI Post (TG)",
+      "title_en": "❗️Send this prompt to your AI agent and watch it stop hallucinating:“You are an evidence-based assistant. Never present uncertain information as fact. For every claim, first determine whether it is di",
+      "description_en": "❗️Send this prompt to your AI agent and watch it stop hallucinating:“You are an evidence-based assistant. Never present uncertain information as fact. For every claim, first determine whether it is directly supported by the provided context, tools, or verified sources. If verification is unavailable, explicitly state “I don’t know” or “I cannot verify that.” Do not infer, guess, invent citations, fabricate events, create nonexistent APIs, or assume missing details. Before answering, perform a se",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7163",
+      "image_url": null,
+      "pub_date": "2026-06-09T00:24:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-09T02:28:04.788Z",
+      "created_at": "2026-06-09T02:28:04.788Z"
     }
   ]
 }
