@@ -229313,7 +229313,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T10:22:28.236Z",
       "created_at": "2026-06-09T10:22:28.236Z"
     },
@@ -229334,7 +229334,7 @@
         "Summary"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T10:22:28.289Z",
       "created_at": "2026-06-09T10:22:28.289Z"
     },
@@ -229354,7 +229354,7 @@
         "App"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T10:22:28.290Z",
       "created_at": "2026-06-09T10:22:28.290Z"
     },
@@ -229371,7 +229371,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T10:22:28.420Z",
       "created_at": "2026-06-09T10:22:28.420Z"
     },
@@ -229442,7 +229442,7 @@
       "author": "Mrigakshi Dixit",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T10:22:29.673Z",
       "created_at": "2026-06-09T10:22:29.673Z"
     },
@@ -229463,7 +229463,7 @@
         "Operating Systems"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T10:22:29.920Z",
       "created_at": "2026-06-09T10:22:29.920Z"
     },
@@ -229497,7 +229497,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T10:22:35.478Z",
       "created_at": "2026-06-09T10:22:35.478Z"
     },
@@ -229565,7 +229565,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T10:22:36.136Z",
       "created_at": "2026-06-09T10:22:36.136Z"
     },
@@ -229582,7 +229582,7 @@
       "author": "Hayden Field",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T10:25:00.621Z",
       "created_at": "2026-06-09T10:25:00.621Z"
     },
@@ -229603,7 +229603,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T10:45:40.849Z",
       "created_at": "2026-06-09T10:45:40.849Z"
     },
@@ -229623,7 +229623,7 @@
         "sponsored"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T10:45:40.906Z",
       "created_at": "2026-06-09T10:45:40.906Z"
     },
@@ -229667,7 +229667,7 @@
         "Sponsored Content"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T10:45:42.165Z",
       "created_at": "2026-06-09T10:45:42.165Z"
     },
@@ -229686,9 +229686,477 @@
         "Sponsored Content"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T10:45:42.165Z",
       "created_at": "2026-06-09T10:45:42.165Z"
+    },
+    {
+      "id": 10952,
+      "source": "TechCrunch AI",
+      "title_en": "How an e-scooter founder raised $5 million to build space data centers",
+      "description_en": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 12:00:00 +0000",
+      "author": "Tim Fernholz",
+      "categories": [
+        "Space",
+        "AI",
+        "Exclusive",
+        "Orbital"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T13:21:01.280Z",
+      "created_at": "2026-06-09T13:21:01.280Z"
+    },
+    {
+      "id": 10953,
+      "source": "The Verge AI",
+      "title_en": "Apple’s AI pitch will live or die by its privacy promise",
+      "description_en": "Apple says its cloud processing is as private as on-device, despite expanding to run on Google’s servers. | Screenshot: Apple WWDC 2026 keynote\t\n\nAs expected, yesterday's WWDC keynote was mostly about AI. And also as expected, Apple tried to turn its late arrival into its sales pitch: it didn't rush into AI because it was taking its time to do things right. In this case, \"right\" means \"with more privacy than anyone else.\" It's a good pitch - the question will be how well it holds up. \nThe new Ap",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc",
+      "image_url": null,
+      "pub_date": "2026-06-09T12:55:33.000Z",
+      "author": "Dominic Preston",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T13:21:01.328Z",
+      "created_at": "2026-06-09T13:21:01.328Z"
+    },
+    {
+      "id": 10954,
+      "source": "The Decoder",
+      "title_en": "Apple Intelligence gets a second shot with help from Google and Nvidia",
+      "description_en": "At WWDC 2026, Apple showed off a rebuilt version of Siri. The assistant runs on foundation models developed with Google. For complex queries, it taps Nvidia GPUs.\nThe article Apple Intelligence gets a second shot with help from Google and Nvidia appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/apple-intelligence-gets-a-second-go-with-the-help-of-google-and-nvidia/",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 11:15:23 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Apple",
+        "Apple Intelligence",
+        "Siri"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-09T13:21:02.593Z",
+      "created_at": "2026-06-09T13:21:02.593Z"
+    },
+    {
+      "id": 10955,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: whole-body rejuvenation drugs and five things to know about AI",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition The outspoken longevity scientist David Sinclair has predicted that, one day, you’ll go to the doctor and get a…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 12:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T13:21:02.665Z",
+      "created_at": "2026-06-09T13:21:02.665Z"
+    },
+    {
+      "id": 10956,
+      "source": "Hugging Face Blog",
+      "title_en": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 10:46:19 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-09T13:21:02.758Z",
+      "created_at": "2026-06-09T13:21:02.758Z"
+    },
+    {
+      "id": 10957,
+      "source": "The Guardian AI",
+      "title_en": "All signs point to Trump pushing AI growth",
+      "description_en": "Also: Anthropic advocates for a ‘pause’ on AI advancement – days after filing to go public on the US stock market\nHello, and welcome to TechScape. I’m your host, Blake Montgomery, the US tech editor at the Guardian. Today we’re discussing Donald Trump’s neediness for AI and the contradictions of Anthropic’s safety-first posture.\nOpenAI confidentially files for initial public offering on US stock market\nApple debuts revamped ‘Siri AI’ and new child safety features for iPhones and iPads\nThe Guardi",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/08/trump-ai-growth-anthropic",
+      "image_url": "https://i.guim.co.uk/img/media/e7b1649fcf3212da2f965f9630befaad2a119265/38_0_3252_2603/master/3252.jpg?width=140&quality=85&auto=format&fit=max&s=d4e9ac65c5bedfca27f24640d40316f6",
+      "pub_date": "Tue, 09 Jun 2026 13:06:03 GMT",
+      "author": "Blake Montgomery",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Donald Trump",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/donaldtrump"
+          }
+        },
+        {
+          "_": "Trump administration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/trump-administration"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T13:21:03.863Z",
+      "created_at": "2026-06-09T13:21:03.863Z"
+    },
+    {
+      "id": 10958,
+      "source": "The Guardian AI",
+      "title_en": "Bank of England warns of AI scams as deepfakes of Farage-Bailey fight spread",
+      "description_en": "Governor urges people to report videos on X that falsely show the men clashing in the Question Time studio \nThe Bank of England has warned the public against falling for AI-generated scams after deepfake videos of Nigel Farage fighting its governor spread online.\nAndrew Bailey, the head of the BoE, said AI-generated content related to central banks was spreading and urged people to be “vigilant”.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/jun/09/bank-of-england-ai-scams-deepfakes-nigel-farage-andrew-bailey-fight-x-question-time",
+      "image_url": "https://i.guim.co.uk/img/media/97573692dff5b00b11ad3a3f1938aae80201903f/1391_125_3808_3046/master/3808.jpg?width=140&quality=85&auto=format&fit=max&s=cfb07284b0d66429e4804aa90d95ac05",
+      "pub_date": "Tue, 09 Jun 2026 11:01:05 GMT",
+      "author": "Dan Milmo Global technology editor",
+      "categories": [
+        {
+          "_": "Bank of England",
+          "$": {
+            "domain": "https://www.theguardian.com/business/bankofenglandgovernor"
+          }
+        },
+        {
+          "_": "Andrew Bailey",
+          "$": {
+            "domain": "https://www.theguardian.com/business/andrew-bailey"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Nigel Farage",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/nigel-farage"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-09T13:21:03.863Z",
+      "created_at": "2026-06-09T13:21:03.863Z"
+    },
+    {
+      "id": 10959,
+      "source": "Interesting Engineering",
+      "title_en": "Donut Lab’s miracle solid-state battery found to be lithium-ion, investigation claims",
+      "description_en": "After months of investigation, more than 20 independent battery experts have found that the battery...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/donut-labs-miracle-battery-claims-fail",
+      "image_url": "https://www.youtube.com/embed/j5oyVNjrUPI",
+      "pub_date": "Tue, 09 Jun 2026 11:45:46 +0000",
+      "author": "Sujita Sinha",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T13:21:04.291Z",
+      "created_at": "2026-06-09T13:21:04.291Z"
+    },
+    {
+      "id": 10960,
+      "source": "Interesting Engineering",
+      "title_en": "China’s UBTECH plans to send life-like humanoid robot companions in customer’s homes",
+      "description_en": "Chinese robotics company UBTECH has launched UWORLD, a new consumer-focused brand, along with its U1...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/china-ubtech-humanoid-robot-companions",
+      "image_url": "https://www.youtube.com/embed/8K2TeYVUTNY",
+      "pub_date": "Tue, 09 Jun 2026 11:35:47 +0000",
+      "author": "Jijo Malayil",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T13:21:04.292Z",
+      "created_at": "2026-06-09T13:21:04.292Z"
+    },
+    {
+      "id": 10961,
+      "source": "Interesting Engineering",
+      "title_en": "New HySIL lens design makes high-resolution 3D brain and cancer imaging widely accessible",
+      "description_en": "A Columbia University-led team has developed a revolutionary microscopy technology that could dramatically advance 3D...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/affordable-3d-tissue-imaging-columbia-hysil",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 11:27:52 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T13:21:04.292Z",
+      "created_at": "2026-06-09T13:21:04.292Z"
+    },
+    {
+      "id": 10962,
+      "source": "CNBC Tech",
+      "title_en": "Upstart chipmakers keep challenging Nvidia. This time it's Microsoft-backed D-Matrix",
+      "description_en": "Nvidia challenger D-Matrix is entering full production of an AI chip it says is 10 times faster than a GPU and bypasses the memory shortage.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/09/nvidia-d-matrix-chip-production-microsoft.html",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 13:16:47 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T13:21:04.866Z",
+      "created_at": "2026-06-09T13:21:04.866Z"
+    },
+    {
+      "id": 10963,
+      "source": "CNBC Tech",
+      "title_en": "OpenAI's IPO filing, Apple updates Siri, new screwworm cases and more in Morning Squawk",
+      "description_en": "Here are five key things investors need to know to start the trading day.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/09/5-things-to-know-before-the-market-opens.html",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 12:21:31 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T13:21:04.866Z",
+      "created_at": "2026-06-09T13:21:04.866Z"
+    },
+    {
+      "id": 10964,
+      "source": "Tom's Hardware",
+      "title_en": "Startup’s ‘miracle’ solid-state battery actually uses lithium-ion chemistry, according to third-party tests — Donut Lab raised $25M and is valued at $1.25B on what now appear to be debunked claims",
+      "description_en": "A Finnish startup’s startling claims to have a production-ready ‘miracle’ solid-state battery have thoroughly collapsed under independent scrutiny.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/startups-miracle-solid-state-battery-actually-uses-lithium-ion-chemistry-according-to-third-party-tests-donut-lab-raised-usd25m-and-is-valued-at-usd1-25b-on-what-now-appear-to-be-debunked-claims",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/TeQUzBLmzSBUGvAyLRLWoe-1280-80.jpg",
+      "pub_date": "Tue, 09 Jun 2026 12:26:43 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T13:21:04.875Z",
+      "created_at": "2026-06-09T13:21:04.875Z"
+    },
+    {
+      "id": 10965,
+      "source": "Tom's Hardware",
+      "title_en": "AMD's Radeon RX 9070 XT graphics card drops to just $649 — Gigabyte's 16GB Gaming OC GPU is $90 cheaper in today's Amazon deal",
+      "description_en": "Gigabyte's Gaming OC Radeon RX 9070 XT is now just $649 in today's Amazon deal.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/amds-radeon-rx-9070-xt-graphics-card-drops-to-just-usd649-gigabytes-16gb-gaming-oc-gpu-is-usd90-cheaper-in-todays-amazon-deal",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ZzvQRgUTLNGSSRSKP2giUA-1280-80.jpg",
+      "pub_date": "Tue, 09 Jun 2026 10:58:44 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-09T13:21:04.875Z",
+      "created_at": "2026-06-09T13:21:04.875Z"
+    },
+    {
+      "id": 10966,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Привет Siri, установи таймер на 10 минут.",
+      "description_en": "Привет Siri, установи таймер на 10 минут.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33669",
+      "image_url": "https://cdn4.telesco.pe/file/Xvs8evyk_9s5lOQpm5VQRbC2dSBflzNnxF6p-h-ySpdaIkOW8pFzfns6YSPTB_mZA3vF5Imnfgs0BQ7xuXlecD4aC8Rpzd_1IMOR4DQmPtuRY0LPm8MQQxfCQQLAlMnHwSkTNHcFPmJpqxuIn2HOeM9Jin2EcTMPVdU-AIBr_Of6q28IRlsZPLTRykyp1HDcR1RcgyZ1-ZgKE9Rq89yYBdtzaOWx3i9mNlZxUvHe5IEIurVH9GHuCpvzdJOXiQClW_M43oRcFv0iTnBkMwxLjuD1gTB6TiQjE1hmtv8zFWXn1qoBNVzpaTJnW0ECnju5FuMKmi8c5HWNNEAFl5lczQ.jpg",
+      "pub_date": "2026-06-09T13:05:42+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T13:21:05.976Z",
+      "created_at": "2026-06-09T13:21:05.976Z"
+    },
+    {
+      "id": 10967,
+      "source": "Backdoor (TG)",
+      "title_en": "Пухососы оказались… ИИ. Авторы собрали ролик с уже закрывшимися заведениями и использовали его для креатива.На это обратил внимание новостной ИИ-ассистент Дзена Глиф. Похоже, пухососы «засосали» еще и",
+      "description_en": "Пухососы оказались… ИИ. Авторы собрали ролик с уже закрывшимися заведениями и использовали его для креатива.На это обратил внимание новостной ИИ-ассистент Дзена Глиф. Похоже, пухососы «засосали» еще и пару заведений, вроде Focacceria и Gutai, которые уже год как не работают. В реальности столичные улицы от пуха чистят с помощью обычных пылесосов на электродвигателях. Их запустили еще в 2020 году и с тех пор девайсы работают исправно. Кстати, новостной ИИ-ассистент Дзена Глиф уже доступен пользов",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29069",
+      "image_url": null,
+      "pub_date": "2026-06-09T11:55:11+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T13:21:06.022Z",
+      "created_at": "2026-06-09T13:21:06.022Z"
+    },
+    {
+      "id": 10968,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ В России запретили авторизацию через зарубежные почты и сервисы — Gmail, Apple ID, Outlook и другие. Штрафы за это будут до 700 тысяч рублей.Госдума уже приняла закон — владельцев сайтов будут штра",
+      "description_en": "⚡️ В России запретили авторизацию через зарубежные почты и сервисы — Gmail, Apple ID, Outlook и другие. Штрафы за это будут до 700 тысяч рублей.Госдума уже приняла закон — владельцев сайтов будут штрафовать, если у них на ресурсе есть авторизация через иностранные сервисы. Юзеры смогут авторизоваться только через российский номер телефона, Госуслуги, биометрию или местный имейл.Когда уже талоны на интернет👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29071",
+      "image_url": "https://cdn4.telesco.pe/file/h_2QwM27oe-2-80cjCf7tcQTz0rd4cmGnOuSIPlIotsjwzCt8CYhMrDYlAbl9B4QOAKLVVuipaRDvtyOGV-e1-6qlTjEjDu4zJOaLct1gm7ACvU0ZvleYGoV6sDI2PoRxHSx-ktlU4LPy22i_lSSXpm37C6oVYycef4agaF-Q1usLIW1eC8wTdKlEW_kmJUU2t0vq2mjcc0mVDbJKgRnwsdnYrcYuUGaHSHYys2thFdpdpp82AL9Ai3lUoolnI5Dw_XdypeLF1-ohWJiKiPRkcHJk4ohNFOZs6mM89BhABNqNOVFu9y36sAmSWt-ZelpLeMm19c0JhDRbXwo-CO_mA.jpg",
+      "pub_date": "2026-06-09T12:53:34+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T13:21:06.022Z",
+      "created_at": "2026-06-09T13:21:06.022Z"
+    },
+    {
+      "id": 10969,
+      "source": "XOR Journal (TG)",
+      "title_en": "Жесть, больше никакого Gmail в России 💀Владельцев российских сайтов теперь будут штрафовать до 700 тысяч рублей за авторизацию через зарубежные сервисы — закон уже принят в третьем чтении. Под удар п",
+      "description_en": "Жесть, больше никакого Gmail в России 💀Владельцев российских сайтов теперь будут штрафовать до 700 тысяч рублей за авторизацию через зарубежные сервисы — закон уже принят в третьем чтении. Под удар попадут почты Google, Apple и другие иностранные аккаунты.За шо 🥲@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9486",
+      "image_url": "https://cdn4.telesco.pe/file/JRaS4JlbB0JjwG7jhI1NhIQdJpAvYMUhgb3-_-apj4suP-FecN1nijiF0-8t4n6IfmsTBlHHcCN8HtbRY4jZYcpiw839nT8HcC5dTsmURJmVxU-bXe-VaTEaJb58qwfr1OlIGxa15GD3LWzHp5CDxqA-tKG-JZpLnoxtmESKooI5DU9QpANtB13KMO0qu-xqE84-r76CL_hJR-y4_6ZimzITp335PBl4K7Ka6vuWA_57LxUxvhr3TNeSve_PBnjO7FRXBpTo74VHavmAcpz0v32s3Bdjq9FCbHgATy2w6CL2GRXPeAMtbqZdFRSODUGWZZPoJv8VgGKm6gEb_Oo10A.jpg",
+      "pub_date": "2026-06-09T12:56:03+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T13:21:06.169Z",
+      "created_at": "2026-06-09T13:21:06.169Z"
+    },
+    {
+      "id": 10970,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🔍 В War Thunder нашли текстуры с водяными знаками GeminiИгроки нашли метки нейросети в некоторых наборах, которые продают за реальные деньги. Разработчики из Gaijin признали проблему, удалили спорные",
+      "description_en": "🔍 В War Thunder нашли текстуры с водяными знаками GeminiИгроки нашли метки нейросети в некоторых наборах, которые продают за реальные деньги. Разработчики из Gaijin признали проблему, удалили спорные элементы и начал проверку подрядчиков. По версии компании, аутсорс-команда использовала ИИ для обработки референсов и черновых материалов, а внутренний контроль качества пропустил это до релиза. При этом Gaijin прямо запрещают подрядчикам применять нейросети.Инцидент затронул камуфляж танка M60 и д",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3294",
+      "image_url": "https://cdn4.telesco.pe/file/O6HK9vB5N2mOokkCGja1NP9xfERFqzEhBx93I8cXNEjlV6j04GkjzjAUIUlY4gT2i12p2ccQmOzPycpegXFo6qfgIa6PgalNtH_Ck9Pwj3ErHVUj5izYhy2r2OtyZbxpLHmu4IeGCv-GKrDmzK1QTnfdThxkbZ5N6Y40iNvhn42c0cudEr7zBkg1Yy4MK_og-pMoIzQ-sIAnBHFbBG4vH2-dkMILHa_a_cDpQ04UKp0N3AadJ2WFTkVQS3iylf34olPqgFUbKhG7P83P9DclgRrY8EEgxKaIFy8tSnCPhBba-AbW3Nhq2MZUAjE8FD_qcoh2HY10CVIT08UrIssZaQ.jpg",
+      "pub_date": "2026-06-09T11:19:42+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-09T13:21:06.673Z",
+      "created_at": "2026-06-09T13:21:06.673Z"
+    },
+    {
+      "id": 10971,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 Settings that can make ChatGPT more personal, more useful, and more private.Here are 7 settings worth checking today: 1. Customize how ChatGPT talks.Tired of generic responses? Go to: Settings → Pe",
+      "description_en": "🤖 Settings that can make ChatGPT more personal, more useful, and more private.Here are 7 settings worth checking today: 1. Customize how ChatGPT talks.Tired of generic responses? Go to: Settings → Personalization → Custom InstructionsTell ChatGPT: Your goals, your profession, your preferred writing style and how concise or detailed you want answers. 2. Turn on Memory.If you don’t want to repeat yourself every chat: Settings → Personalization → MemoryEnable: Reference Saved Memories and referenc",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7168",
+      "image_url": null,
+      "pub_date": "2026-06-09T11:40:22+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T13:21:06.850Z",
+      "created_at": "2026-06-09T13:21:06.850Z"
     }
   ]
 }
