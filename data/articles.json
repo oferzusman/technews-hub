@@ -231585,7 +231585,7 @@
       "author": "Andrew J. Hawkins",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T21:18:03.864Z",
       "created_at": "2026-06-09T21:18:03.864Z"
     },
@@ -231670,7 +231670,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T21:18:07.149Z",
       "created_at": "2026-06-09T21:18:07.149Z"
     },
@@ -231707,7 +231707,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T21:18:08.290Z",
       "created_at": "2026-06-09T21:18:08.290Z"
     },
@@ -231724,7 +231724,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T21:18:08.322Z",
       "created_at": "2026-06-09T21:18:08.322Z"
     },
@@ -231741,7 +231741,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T21:18:08.746Z",
       "created_at": "2026-06-09T21:18:08.746Z"
     },
@@ -231785,7 +231785,7 @@
         "starlink"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T22:57:55.704Z",
       "created_at": "2026-06-09T22:57:55.704Z"
     },
@@ -231928,6 +231928,32 @@
       "priority": "hot",
       "fetchedAt": "2026-06-09T22:58:03.778Z",
       "created_at": "2026-06-09T22:58:03.778Z"
+    },
+    {
+      "id": 11056,
+      "source": "TechCrunch AI",
+      "title_en": "How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund",
+      "description_en": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest startups like Anthropic, Anduril, and SpaceX.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 23:17:51 +0000",
+      "author": "Marina Temkin",
+      "categories": [
+        "AI",
+        "Fundraising",
+        "Venture",
+        "anduril",
+        "Anthropic",
+        "playground global",
+        "SpaceX",
+        "SPV"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T23:39:45.532Z",
+      "created_at": "2026-06-09T23:39:45.532Z"
     }
   ]
 }
