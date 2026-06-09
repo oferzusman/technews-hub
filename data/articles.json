@@ -231365,7 +231365,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T20:23:05.922Z",
       "created_at": "2026-06-09T20:23:05.922Z"
     },
@@ -231416,7 +231416,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T20:23:09.218Z",
       "created_at": "2026-06-09T20:23:09.218Z"
     },
@@ -231433,7 +231433,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T20:23:09.218Z",
       "created_at": "2026-06-09T20:23:09.218Z"
     },
@@ -231450,7 +231450,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T20:23:09.218Z",
       "created_at": "2026-06-09T20:23:09.218Z"
     },
@@ -231502,7 +231502,7 @@
         "safeguards"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T20:26:26.071Z",
       "created_at": "2026-06-09T20:26:26.071Z"
     },
@@ -231744,6 +231744,29 @@
       "priority": "hot",
       "fetchedAt": "2026-06-09T21:18:08.746Z",
       "created_at": "2026-06-09T21:18:08.746Z"
+    },
+    {
+      "id": 11049,
+      "source": "TechCrunch AI",
+      "title_en": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+      "description_en": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 17:00:00 +0000",
+      "author": "Rebecca Bellan",
+      "categories": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "cybersecurity",
+        "Mythos"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-09T22:01:32.268Z",
+      "created_at": "2026-06-09T22:01:32.268Z"
     }
   ]
 }
