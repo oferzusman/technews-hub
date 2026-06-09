@@ -1,9 +1,9 @@
 {
-  "total": 10971,
+  "total": 10976,
   "translated": 8824,
-  "untranslated": 2147,
-  "today": 57,
-  "week": 779,
+  "untranslated": 2152,
+  "today": 62,
+  "week": 784,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 831,
+      "total": 832,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -31,13 +31,13 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 544,
+      "total": 545,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "Ars Technica",
-      "total": 487,
+      "total": 489,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -79,9 +79,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 321,
+      "total": 322,
       "translated": 231,
-      "lastDate": "2026-06-09T12:55:33.000Z"
+      "lastDate": "2026-06-09T13:34:48.000Z"
     },
     {
       "name": "Futurism",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-09T13:24:04.567Z"
+  "generatedAt": "2026-06-09T13:46:39.261Z"
 }
