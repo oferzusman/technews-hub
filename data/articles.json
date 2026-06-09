@@ -229141,7 +229141,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T06:31:49.451Z",
       "created_at": "2026-06-09T06:31:49.451Z"
     },
@@ -229158,7 +229158,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T06:31:50.111Z",
       "created_at": "2026-06-09T06:31:50.111Z"
     },
@@ -229192,7 +229192,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T06:31:50.204Z",
       "created_at": "2026-06-09T06:31:50.204Z"
     },
@@ -229209,7 +229209,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T06:48:05.056Z",
       "created_at": "2026-06-09T06:48:05.056Z"
     },
@@ -229239,7 +229239,7 @@
         "Uncategorized"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T07:03:36.513Z",
       "created_at": "2026-06-09T07:03:36.513Z"
     },
@@ -229293,6 +229293,281 @@
       "priority": "batch",
       "fetchedAt": "2026-06-09T07:03:39.351Z",
       "created_at": "2026-06-09T07:03:39.351Z"
+    },
+    {
+      "id": 10933,
+      "source": "The Decoder",
+      "title_en": "OpenAI says going public is \"a complicated set of tradeoffs\" and is unsure about the timing",
+      "description_en": "OpenAI has confidentially filed an S-1 registration with the SEC, taking the first formal step toward an IPO. There's no set timeline, and the company calls it \"a complicated set of tradeoffs.\" Rival Anthropic recently filed its own IPO paperwork, which likely adds to the pressure.\nThe article OpenAI says going public is \"a complicated set of tradeoffs\" and is unsure about the timing appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-says-going-public-is-a-complicated-set-of-tradeoffs-and-is-unsure-about-the-timing/",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 09:30:05 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T10:22:28.236Z",
+      "created_at": "2026-06-09T10:22:28.236Z"
+    },
+    {
+      "id": 10934,
+      "source": "MIT Technology Review",
+      "title_en": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
+      "description_en": "The outspoken longevity scientist David Sinclair has been predicting that one day, you’ll go to the doctor and get a prescription that will make you 10 years younger. Now MIT Technology Review has learned that he has plans to launch human tests of an oral “reprogramming” drug as part of a $101 million competition organized…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 10:00:00 +0000",
+      "author": "Antonio Regalado",
+      "categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T10:22:28.289Z",
+      "created_at": "2026-06-09T10:22:28.289Z"
+    },
+    {
+      "id": 10935,
+      "source": "MIT Technology Review",
+      "title_en": "Five things you need to know about AI",
+      "description_en": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 09:16:45 +0000",
+      "author": "Will Douglas Heaven",
+      "categories": [
+        "Artificial intelligence",
+        "App"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T10:22:28.290Z",
+      "created_at": "2026-06-09T10:22:28.290Z"
+    },
+    {
+      "id": 10936,
+      "source": "Hugging Face Blog",
+      "title_en": "NeuroBait: I fine-tuned a model to spark dopamine for ADHD brain",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/build-small-hackathon/neurobait-adhd",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 09:04:58 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T10:22:28.420Z",
+      "created_at": "2026-06-09T10:22:28.420Z"
+    },
+    {
+      "id": 10937,
+      "source": "The Guardian AI",
+      "title_en": "Doctors and NHS could be sued for mistakes made by AI tools, report warns",
+      "description_en": "Medical Protection Society calls for law to be overhauled to help medics avoid liability for errors made by technology\nDoctors and the NHS could be sued for medical negligence over mistakes made by artificial intelligence tools used in diagnosing patients and suggesting their treatment, ministers are being warned.\nUnder the law as it stands, medics and the health service can be held liable for patients being harmed or dying even if it was AI that made the errors that resulted in their suffering.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/society/2026/jun/09/doctors-nhs-could-be-sued-mistakes-ai-tools-medical-protection-society-report",
+      "image_url": "https://i.guim.co.uk/img/media/3966d5c4e13ada2a070dfce14f4467899e5794c3/0_0_6630_5304/master/6630.jpg?width=140&quality=85&auto=format&fit=max&s=2203c3f0a983fc63f7d44d8bbac85caa",
+      "pub_date": "Tue, 09 Jun 2026 08:00:48 GMT",
+      "author": "Denis Campbell Health policy editor",
+      "categories": [
+        {
+          "_": "NHS",
+          "$": {
+            "domain": "https://www.theguardian.com/society/nhs"
+          }
+        },
+        {
+          "_": "Doctors",
+          "$": {
+            "domain": "https://www.theguardian.com/society/doctors"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Health",
+          "$": {
+            "domain": "https://www.theguardian.com/society/health"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-09T10:22:28.887Z",
+      "created_at": "2026-06-09T10:22:28.887Z"
+    },
+    {
+      "id": 10938,
+      "source": "Interesting Engineering",
+      "title_en": "US engineers make ‘artificial eyes’ to improve vision in robots, self-driving cars",
+      "description_en": "Penn State researchers have built a human-eye-inspired device to prevent self-driving cars from going blind...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/us-artificial-eyes-robots-and-autonomous-vehicle",
+      "image_url": "https://www.youtube.com/embed/Y3aTCisvxYs",
+      "pub_date": "Tue, 09 Jun 2026 09:17:13 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T10:22:29.673Z",
+      "created_at": "2026-06-09T10:22:29.673Z"
+    },
+    {
+      "id": 10939,
+      "source": "Tom's Hardware",
+      "title_en": "Linux developers are using AI vibe coding to keep vintage AMD GPUs alive — R600 driver cleaned up with GitHub Copilot gives HD 2000 to HD 6000 series a new lease of life",
+      "description_en": "Linux developer uses AI to help update Linux GPU driver support for vintage HD 2000 - HD 6000 series.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/linux/linux-developers-are-using-ai-vibe-coding-to-keep-vintage-amd-gpus-alive-r600-driver-cleaned-up-with-github-copilot-gives-hd-2000-to-hd-6000-series-a-new-lease-of-life",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/pjiFCbSsdqXWtCyMRm2f3N-1280-80.jpg",
+      "pub_date": "Tue, 09 Jun 2026 09:40:06 +0000",
+      "author": " Aaron Klotz ",
+      "categories": [
+        "Linux",
+        "Software",
+        "Operating Systems"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T10:22:29.920Z",
+      "created_at": "2026-06-09T10:22:29.920Z"
+    },
+    {
+      "id": 10940,
+      "source": "Backdoor (TG)",
+      "title_en": "Забираем большой сборник из 5️⃣0️⃣+ гайдов по созданию своих ИИ-агентов, RAG-систем, OCR-приложений и голосовых нейронок.• У каждого проекта есть примеры кода, пошаговая инструкция по созданию и запус",
+      "description_en": "Забираем большой сборник из 5️⃣0️⃣+ гайдов по созданию своих ИИ-агентов, RAG-систем, OCR-приложений и голосовых нейронок.• У каждого проекта есть примеры кода, пошаговая инструкция по созданию и запуску.• Отличный репозиторий для тех, кто хочет учиться создавать ИИ-приложения и потом зарабатывать на этом.😶😶😶😶😶😶😶😶😶Изучаем — тут.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29064",
+      "image_url": "https://cdn4.telesco.pe/file/P6OT1w1VyEDU0qYBME4ZQFY4qTQgggALjfiHnpiFEUk5fNkfmFAAEIiROtPPJ6LUCoMZE2rz_56FnmS7HTLjUwe5LQfPsytbe4VsPgelokBTkGYI3nrsPtlPShTGdrjwZNGhG6cUnbTtgNSZRSfOt8Fk8l97nI3dEGg4ImJRcGocyO2NyRDtQqlr3QYFlOkk2I8C0ampx_J-qW00OHUoBj3Wx9JrR6MF-y8r_NBKD5B4KLyU6KNxUHBNn9EflYuqdO7d3aWlce_e6G4KwoNPdbmf8I7sdbKy9iaK4HcomdyO7e9J8B_LV4XdKtEO8bqbxF1R7IjuQte2ypQX6ZuFjA.jpg",
+      "pub_date": "2026-06-09T07:21:38+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-09T10:22:35.360Z",
+      "created_at": "2026-06-09T10:22:35.360Z"
+    },
+    {
+      "id": 10941,
+      "source": "XOR Journal (TG)",
+      "title_en": "«Админка наружу, можно во все каналы сообщения отсылать» — в MAX взломали бота для отложенного постинга и устроили массовую рассылку.История, которую будут рассказывать на курсах по кибербезу, произош",
+      "description_en": "«Админка наружу, можно во все каналы сообщения отсылать» — в MAX взломали бота для отложенного постинга и устроили массовую рассылку.История, которую будут рассказывать на курсах по кибербезу, произошла с популярным сервисом «Отложка», которому владельцы каналов выдавали права администратора для автопостинга. По данным автора расследования на Хабре, через него хакер разослал сообщения сразу по десяткам подключённых каналов. И да, бот якобы прошел «аудит безопасности у ведущих специалистов по ИБ ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9485",
+      "image_url": "https://cdn4.telesco.pe/file/FWobeXHDOnATzLvr4dRozSjcBoneDuUZK5CmOnencyZHe-eGKDsA1zf6uMaSBrBNZeuHr4THbgn9wpDRPo9wZsAKSM4aFX8ztPXcM70vs97FzpLB0Pn9Kz4ErFdRa5rSbhhvJPsd7Ug_BCqoT0utJhQJELW8XKUvo5MYaobJkzBX7kS7nlAdBb82gMgnSTuIY86Bn2LA33xYoQlAoD2-ydAQiFyT_UnFQEtv6K7zYoEvI2T1DOLy9pN7wUpo0citQWW7ODFw4wkqy0o3jZiVTEQR1ySbbO9tRsfDdYg0W-GIu6VBFl842ITKsnOSP-5gBD1x77i3Lk7OowdCQ5B_JQ.jpg",
+      "pub_date": "2026-06-09T09:12:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T10:22:35.478Z",
+      "created_at": "2026-06-09T10:22:35.478Z"
+    },
+    {
+      "id": 10942,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Apple на WWDC представила iOS 27 с интеграцией искусственного интеллекта. Конференция стала последней для Тима Кука в качестве главы компании — с 1 сентября его пост займёт Джон Тернус.Новая ОС будет ",
+      "description_en": "Apple на WWDC представила iOS 27 с интеграцией искусственного интеллекта. Конференция стала последней для Тима Кука в качестве главы компании — с 1 сентября его пост займёт Джон Тернус.Новая ОС будет поддерживаться даже на iPhone 11 (2019 года). Дизайн «жидкого стекла» можно регулировать (сделать прозрачнее или отключить). Появился детский аккаунт для контроля экранного времени. Голосовой помощник Siri получил интеграцию с нейросетью Google Gemini и теперь называется Siri AI: работает как чат-бо",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33657",
+      "image_url": "https://cdn4.telesco.pe/file/Q2tMtRviltsTLAs-SY_IyWGrPcuVrGGLPJVgBGqo0iCqvS6zgmJOPatKeG1Sn_PZVdzFIz7t_7cQpD6dywS8aRqYAswnHnaPL8MDHn_2gJybsOaQ8Q6mUSsG_zy3uaaBIMW5VEDqb4b91PbhUI4782z5GDbwFX_JUe1aSWJZHLDryq7LYSD94a2av2Tgi1fUoUfhkhScuAzREMvjl4ZQi5O_N8MboJAyXrf_qZYC2LafE5fbz1lddGKBa7-aTXC0KPYtTttycEw8U9qPH4eP1wHZn2XrrWA9McK5HyCbuKY5pnidRFcxBpDpbfT4qvxUkNNXjHpsdoRAxDJQiwpcqg.jpg",
+      "pub_date": "2026-06-09T07:05:08+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-09T10:22:35.527Z",
+      "created_at": "2026-06-09T10:22:35.527Z"
+    },
+    {
+      "id": 10943,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Они знают про вас всё: встречайте умные наушники «Яндекс Дропc»  Первое носимое ИИ-устройство «Яндекса» получило 11-мм драйверы, шумодав и отдельный NPU-чип, который умеет распознавать ваш голос без п",
+      "description_en": "Они знают про вас всё: встречайте умные наушники «Яндекс Дропc»  Первое носимое ИИ-устройство «Яндекса» получило 11-мм драйверы, шумодав и отдельный NPU-чип, который умеет распознавать ваш голос без подключения к интернету.Но главной фишкой TWS-наушников стала интеграция с «Алисой AI» и всеми устройствами умного дома: по вашей просьбе «Капельки» могут запустить пылесос, посмотреть время работы нужного магазина на «Яндекс Картах» или врубить любимый плейлист в «Музыке».Как пишет пресс-служба «Янд",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33660",
+      "image_url": "https://cdn4.telesco.pe/file/Pb50s9v3KQiU-joDwxKFEW_lni4lxnGwTRuhZpblQcq7D_Oiczy_Xzkp9gp1QtTXEApEawkzrCDSZNue_M1IA0EHtzdSf_sjFfWiB8eq8JV5IY2EOaCKX-g_TuV2E4u6PPBygldiUGGLrdoBssTYpt0YX5e9oHWsUrsyK6XQsv9Mzmy2znmZCBHQDpxUhVm7XlrrkqSnzAuK8ecyZebBeAc5VgmE1zc-zIq5EKayPxzteGk9jSuM7vu1OjcizrjPSDTr1Dsa13L-NGSReJtwHE8y7ToEGO5K_nbt6wCvRz4D_-E9L4dDCYdHCUn0qaM2WXGLzPWS0bNw1RYDEoKHTg.jpg",
+      "pub_date": "2026-06-09T08:00:22+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-09T10:22:35.527Z",
+      "created_at": "2026-06-09T10:22:35.527Z"
+    },
+    {
+      "id": 10944,
+      "source": "Hi, AI English (TG)",
+      "title_en": "❗️ Scientists Use Precise Gene Editing in Human Embryos for the First TimeResearchers used base-editing technology to modify three genes in human embryos at an early stage of development. In theory, t",
+      "description_en": "❗️ Scientists Use Precise Gene Editing in Human Embryos for the First TimeResearchers used base-editing technology to modify three genes in human embryos at an early stage of development. In theory, this could make it easier to correct harmful genetic mutations before they affect the developing organism.The team changed individual DNA \"letters\" in PCSK9, which regulates \"bad\" cholesterol levels, HBG1 and HBG2, which are linked to inherited blood disorders.⚙️ Base editing is a newer, more precise",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2563",
+      "image_url": "https://cdn4.telesco.pe/file/NLN-AeyK8ywck9RoTxEclSGWjFxCsKlZ2QzuyHWd_-5pmi-2yS4Gakfmcdjbysw_bzDoRD-jHDm7eqnYaThq8Pk4zHw5GjBsEZ7OPGlaTFbsGl4pTQwYhwu_iTdXrOas3DleagHUstqAkIw559KCYeV_9E5jiMfBDV95gnJmcrpAZ8i8_azRwFWpLl1-Mr9kheP-Z3j_VILh6_cjcsXbgkr84W0kHsbDpvIeeLbq9tVBewpXhjOWVDgTPh8v0eHalwz1tcR23zTDIWrBB_TO4wF-VMQBtEcTtqE7FvbAYAyARcyKAbPoIjluZJHc3ZXwIBmAFefLx5QnNwIJA1yBSA.jpg",
+      "pub_date": "2026-06-09T08:00:47+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-09T10:22:36.078Z",
+      "created_at": "2026-06-09T10:22:36.078Z"
+    },
+    {
+      "id": 10945,
+      "source": "AI Post (TG)",
+      "title_en": "🗣OpenAI Noam Brown: \"I think within a year or two, mathematics may start looking a lot like coding does today\"The models are doing a lot of the work, while humans steer them, point them in the right ",
+      "description_en": "🗣OpenAI Noam Brown: \"I think within a year or two, mathematics may start looking a lot like coding does today\"The models are doing a lot of the work, while humans steer them, point them in the right direction, challenge their outputs, and work with them to reach strong results.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7167",
+      "image_url": null,
+      "pub_date": "2026-06-09T08:54:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T10:22:36.136Z",
+      "created_at": "2026-06-09T10:22:36.136Z"
     }
   ]
 }
