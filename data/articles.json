@@ -231314,7 +231314,7 @@
         "Claude Mythos"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T19:13:50.357Z",
       "created_at": "2026-06-09T19:13:50.357Z"
     },
@@ -231453,6 +231453,81 @@
       "priority": "hot",
       "fetchedAt": "2026-06-09T20:23:09.218Z",
       "created_at": "2026-06-09T20:23:09.218Z"
+    },
+    {
+      "id": 11034,
+      "source": "Ars Technica",
+      "title_en": "Netflix trying to \"poison regulators\" about WBD merger, Paramount lawyer claims",
+      "description_en": "Netflix's response: \"Absurd.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/06/netflix-trying-to-poison-regulators-about-wbd-merger-paramount-lawyer-claims/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1185995584.jpg",
+      "pub_date": "Tue, 09 Jun 2026 20:15:45 +0000",
+      "author": "\n                    Scharon Harding\n                ",
+      "categories": [
+        "Policy",
+        "Tech",
+        "acquisitions",
+        "mergers",
+        "Netflix",
+        "paramount",
+        "Paramount Skydance",
+        "streaming",
+        "warner bros. discovery"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T20:26:26.071Z",
+      "created_at": "2026-06-09T20:26:26.071Z"
+    },
+    {
+      "id": 11035,
+      "source": "Ars Technica",
+      "title_en": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
+      "description_en": "New frontier model refuses cybersecurity, biology, and chemistry queries.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1599973349-1152x648.jpg",
+      "pub_date": "Tue, 09 Jun 2026 19:20:25 +0000",
+      "author": "\n                    Kyle Orland\n                ",
+      "categories": [
+        "AI",
+        "Anthropic",
+        "Fable",
+        "fable 5",
+        "Mythos",
+        "restrictions",
+        "safeguards"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T20:26:26.071Z",
+      "created_at": "2026-06-09T20:26:26.071Z"
+    },
+    {
+      "id": 11036,
+      "source": "Ars Technica",
+      "title_en": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
+      "description_en": "Voice translations preserve speaker's tone, pacing, pitch—with SynthID watermarks for security.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-1152x648.jpg",
+      "pub_date": "Tue, 09 Jun 2026 18:57:25 +0000",
+      "author": "\n                    Ryan Whitwam\n                ",
+      "categories": [
+        "AI",
+        "Google",
+        "AI translation",
+        "gemini 3.5",
+        "google"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T20:26:26.071Z",
+      "created_at": "2026-06-09T20:26:26.071Z"
     }
   ]
 }
