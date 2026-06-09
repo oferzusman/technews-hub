@@ -230277,7 +230277,7 @@
         "FAANG"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T16:15:28.049Z",
       "created_at": "2026-06-09T16:15:28.049Z"
     },
@@ -230315,7 +230315,7 @@
       "author": "Jess Weatherbed",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T16:15:28.064Z",
       "created_at": "2026-06-09T16:15:28.064Z"
     },
@@ -230332,7 +230332,7 @@
       "author": "Emma Roth",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T16:15:28.064Z",
       "created_at": "2026-06-09T16:15:28.064Z"
     },
@@ -230376,7 +230376,7 @@
         "US Navy"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T16:15:28.111Z",
       "created_at": "2026-06-09T16:15:28.111Z"
     },
@@ -230398,7 +230398,7 @@
         "SpaceX"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T16:15:29.505Z",
       "created_at": "2026-06-09T16:15:29.505Z"
     },
@@ -230420,7 +230420,7 @@
         "Google"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T16:15:29.506Z",
       "created_at": "2026-06-09T16:15:29.506Z"
     },
@@ -230459,7 +230459,7 @@
       "author": "Omar Kardoudi",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T16:15:30.613Z",
       "created_at": "2026-06-09T16:15:30.613Z"
     },
@@ -230476,7 +230476,7 @@
       "author": "Mike McRae",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T16:15:30.613Z",
       "created_at": "2026-06-09T16:15:30.613Z"
     },
@@ -230536,7 +230536,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T16:15:31.033Z",
       "created_at": "2026-06-09T16:15:31.033Z"
     },
@@ -230553,7 +230553,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T16:15:32.326Z",
       "created_at": "2026-06-09T16:15:32.326Z"
     },
@@ -230589,7 +230589,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T16:15:32.537Z",
       "created_at": "2026-06-09T16:15:32.537Z"
     },
@@ -230608,7 +230608,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T16:15:32.537Z",
       "created_at": "2026-06-09T16:15:32.537Z"
     },
@@ -230628,7 +230628,7 @@
         "Desktops"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T16:15:32.537Z",
       "created_at": "2026-06-09T16:15:32.537Z"
     },
@@ -230648,7 +230648,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T16:15:32.537Z",
       "created_at": "2026-06-09T16:15:32.537Z"
     },
@@ -230665,7 +230665,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T16:15:36.473Z",
       "created_at": "2026-06-09T16:15:36.473Z"
     },
@@ -230699,7 +230699,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T16:15:36.618Z",
       "created_at": "2026-06-09T16:15:36.618Z"
     },
@@ -230733,7 +230733,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T16:15:37.156Z",
       "created_at": "2026-06-09T16:15:37.156Z"
     },
@@ -230767,9 +230767,491 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T16:31:38.917Z",
       "created_at": "2026-06-09T16:31:38.917Z"
+    },
+    {
+      "id": 11002,
+      "source": "TechCrunch AI",
+      "title_en": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "description_en": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 18:04:24 +0000",
+      "author": "Morgan Little, Aisha Malik",
+      "categories": [
+        "AI",
+        "Apple",
+        "siri",
+        "wwdc"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T18:21:19.822Z",
+      "created_at": "2026-06-09T18:21:19.822Z"
+    },
+    {
+      "id": 11003,
+      "source": "TechCrunch AI",
+      "title_en": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+      "description_en": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 17:00:00 +0000",
+      "author": "Rebecca Bellan",
+      "categories": [
+        "AI",
+        "cybersecurity",
+        "Anthropic",
+        "Claude",
+        "Mythos"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T18:21:19.822Z",
+      "created_at": "2026-06-09T18:21:19.822Z"
+    },
+    {
+      "id": 11004,
+      "source": "The Verge AI",
+      "title_en": "Anthropic releases its first Mythos-class model Claude Fable",
+      "description_en": "Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. \nAccording to the company, Fable 5 \"shows exceptional performance in software engineering, knowledge work, and vision,\" with its lead over other models growing as tasks become longer and more complex.\nFable 5 marks the first broad release from Anthropic's Mythos class of AI models, after the company said the family was so capable at cybersecurity tasks that it was too dan",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
+      "image_url": null,
+      "pub_date": "2026-06-09T17:00:00.000Z",
+      "author": "Robert Hart",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T18:21:19.844Z",
+      "created_at": "2026-06-09T18:21:19.844Z"
+    },
+    {
+      "id": 11005,
+      "source": "The Decoder",
+      "title_en": "Google's Gemini 3.5 Live Translate delivers real-time voice translation across 70+ languages",
+      "description_en": "Google releases Gemini 3.5 Live Translate, an audio model for real-time translation across more than 70 languages. The system translates continuously without waiting for a sentence to end and claims to preserve the speaker's tone, pace, and pitch. In Google Meet, language support jumps from five to over 70 languages.\nThe article Google's Gemini 3.5 Live Translate delivers real-time voice translation across 70+ languages appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/googles-gemini-3-5-live-translate-delivers-real-time-voice-translation-across-70-languages/",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 17:18:59 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Gemini",
+        "Google"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T18:21:21.147Z",
+      "created_at": "2026-06-09T18:21:21.147Z"
+    },
+    {
+      "id": 11006,
+      "source": "MarkTechPost",
+      "title_en": "Google Releases Gemini 3.5 Live Translate, a Streaming Speech-to-Speech Audio Model Covering 70+ Languages Across Meet, Translate, and the Live API",
+      "description_en": "Gemini 3.5 Live Translate streams speech-to-speech translation across 70+ languages. It generates audio continuously, staying a few seconds behind the speaker. The model reaches developers via the Gemini Live API, plus Google Meet and the Translate app.\nThe post Google Releases Gemini 3.5 Live Translate, a Streaming Speech-to-Speech Audio Model Covering 70+ Languages Across Meet, Translate, and the Live API appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/09/google-releases-gemini-3-5-live-translate-a-streaming-speech-to-speech-audio-model-covering-70-languages-across-meet-translate-and-the-live-api/",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 17:24:11 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Audio Language Model",
+        "Editors Pick",
+        "Language Model",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Technology",
+        "Voice AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T18:21:21.493Z",
+      "created_at": "2026-06-09T18:21:21.493Z"
+    },
+    {
+      "id": 11007,
+      "source": "The Guardian AI",
+      "title_en": "Crackdown on tech platforms will go ahead despite US intervention, says No 10",
+      "description_en": "US embassy came out against UK’s proposed under-16 social media ban, which would affect American firms\nWhite House displeasure over the prospect of an under-16 social media ban will not deter the UK from cracking down on tech platforms, the British government has said.\nThe technology secretary, Liz Kendall, told the Guardian she was not concerned “in the slightest” by the Trump administration’s intervention in the debate over restrictions, after the US embassy in London posted a notice warning a",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/uk-news/2026/jun/09/crackdown-on-tech-platforms-will-go-ahead-despite-us-intervention-says-no-10",
+      "image_url": "https://i.guim.co.uk/img/media/985dd45175eefac2804ab6e950346532cfc34986/214_126_3781_3025/master/3781.jpg?width=140&quality=85&auto=format&fit=max&s=896baec2f4c3ea826dd0bccf279bc009",
+      "pub_date": "Tue, 09 Jun 2026 17:47:57 GMT",
+      "author": "Dan Milmo and Jessica Elgot",
+      "categories": [
+        {
+          "_": "Social media ban",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/social-media-ban"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Social media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/social-media"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "Social media bans",
+          "$": {
+            "domain": "https://www.theguardian.com/world/social-media-bans"
+          }
+        },
+        {
+          "_": "Facebook",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/facebook"
+          }
+        },
+        {
+          "_": "Meta",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/meta"
+          }
+        },
+        {
+          "_": "Instagram",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/instagram"
+          }
+        },
+        {
+          "_": "TikTok",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/tiktok"
+          }
+        },
+        {
+          "_": "Liz Kendall",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/liz-kendall"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Trump administration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/trump-administration"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T18:21:22.041Z",
+      "created_at": "2026-06-09T18:21:22.041Z"
+    },
+    {
+      "id": 11008,
+      "source": "Interesting Engineering",
+      "title_en": "BMW iX3 travels 485 miles in major EV range test, but Chinese MPV steals the spotlight",
+      "description_en": "BMW’s all-new iX3 has claimed top honors in one of the world’s largest real-world EV...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/bmw-ix3-travels-485-miles-but-chinese-mpv-steals-the-show",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 17:47:27 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T18:21:24.263Z",
+      "created_at": "2026-06-09T18:21:24.263Z"
+    },
+    {
+      "id": 11009,
+      "source": "Interesting Engineering",
+      "title_en": "New partnership aims to create local supply of recycled graphite for European EVs",
+      "description_en": "The race for European battery independence just found its next battleground in an unexpected place:...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/new-partnership-aims-to-create-local-supply-of-recycled-graphite-for-european-evs",
+      "image_url": "https://www.youtube.com/embed/GoiECSXOvQE",
+      "pub_date": "Tue, 09 Jun 2026 17:35:47 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T18:21:24.263Z",
+      "created_at": "2026-06-09T18:21:24.263Z"
+    },
+    {
+      "id": 11010,
+      "source": "Interesting Engineering",
+      "title_en": "NVIDIA and LG Group build AI factory to train robots and power future mobility",
+      "description_en": "The next frontier of AI involves machines that can move, see, and make decisions in...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/nvidia-lg-autonomous-factory-robotics",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 17:35:20 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T18:21:24.263Z",
+      "created_at": "2026-06-09T18:21:24.263Z"
+    },
+    {
+      "id": 11011,
+      "source": "Tom's Hardware",
+      "title_en": "Anthropic's warning over AI self-improvement has a hidden message — accelerating development requires more compute before companies ever risk losing control of frontier AI models",
+      "description_en": "The company that just a few weeks ago told us that its Mythos model was much too powerful to be released is now saying that we might need to hit the pause button.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-warns-ai-self-improvement-could-end-in-lost-human-control",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Kc5XZJfVxj3uECzne3uBJ3-1280-80.jpg",
+      "pub_date": "Tue, 09 Jun 2026 17:03:06 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T18:21:24.472Z",
+      "created_at": "2026-06-09T18:21:24.472Z"
+    },
+    {
+      "id": 11012,
+      "source": "Tom's Hardware",
+      "title_en": "Secretlab Atlas review: The one you’ve been waiting for",
+      "description_en": "Secretlab has unveiled its new Atlas task chair with an emphasis on productivity.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/peripherals/gaming-chairs/secretlab-atlas-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/8MA6o5DV5akM76AXuVbkWF-1280-80.jpg",
+      "pub_date": "Tue, 09 Jun 2026 17:00:00 +0000",
+      "author": " Stephen Warwick ",
+      "categories": [
+        "Gaming Chairs",
+        "Peripherals"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T18:21:24.472Z",
+      "created_at": "2026-06-09T18:21:24.472Z"
+    },
+    {
+      "id": 11013,
+      "source": "CNBC Tech",
+      "title_en": "SpaceX IPO explained: The price is set, but retail allocation still up in the air",
+      "description_en": "Charles Schwab, Fidelity, Robinhood, SoFi and Morgan Stanley's E-Trade are among the brokerage platforms making SpaceX shares available.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/09/spacex-ipo-explained-stock-price-date.html",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 17:28:35 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T18:21:24.476Z",
+      "created_at": "2026-06-09T18:21:24.476Z"
+    },
+    {
+      "id": 11014,
+      "source": "CNBC Tech",
+      "title_en": "How Jim Cramer views Apple on Day 2 of its post-WWDC keynote pullback",
+      "description_en": "\"We're not going to trade Apple. That's an own, don't trade,\" Jim Cramer said. Still, \"you cannot call the bottom here.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/09/how-jim-cramer-views-apple-on-day-2-of-its-post-wwdc-keynote-pullback.html",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 17:13:10 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T18:21:24.476Z",
+      "created_at": "2026-06-09T18:21:24.476Z"
+    },
+    {
+      "id": 11015,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic releases Mythos-like AI model to the public two months after private rollout rocked Wall Street",
+      "description_en": "Anthropic said the broad release is possible because of new safeguards that block responses in specific high-risk areas.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/09/anthropic-mythos-claude-fable-5.html",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 17:03:52 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T18:21:24.476Z",
+      "created_at": "2026-06-09T18:21:24.476Z"
+    },
+    {
+      "id": 11016,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Claude Mythos вышел — модель называется Fable 5 и её уже мощно пощупать. Claude Mythos — самая мощная нейронка в мире, которая взломала Linux, MacOS и браузер FireFox.Fable 5 обходит вообще всех ко",
+      "description_en": "⚡️ Claude Mythos вышел — модель называется Fable 5 и её уже мощно пощупать. Claude Mythos — самая мощная нейронка в мире, которая взломала Linux, MacOS и браузер FireFox.Fable 5 обходит вообще всех конкурентов, причём с большим запасом. Модели даже пришлось порезать кибербезопасность, чтобы вы случайно не взломали пентагон. Бегом тестить первыми в мире — тут.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29078",
+      "image_url": "https://cdn4.telesco.pe/file/mTBl5HLLvU9Bx8zV2bWt0OFiPbGVE1qxsuRsh08F3HdWnCZ7tNcwV8PQSaOk28EJ4bcbKJuZQkBA_50gHiA7xBMWWQQOdx9QWSyNDv0zZUlp39i9FXleq81jxEY0JYQKHc8yIx_nE542NoOHmMu2qAxJ-SxWBPDyxEu5jjXXZ-1MSSKKbXxbm8zCjOD3AmqDhPSE_nGwKSGURdW442udkUyqGu1cvVO9uyth0HnHxnpjW4mAVBK5uy5DNPJuotddy-_pxTzF-L7sRr_aBa6kB4fy5Pft4SmO_lZPc44s2lc7tl9IKa1KX4x6SNGJuOhmmlr2GzbBXEv_Bc2qVWNw_w.jpg",
+      "pub_date": "2026-06-09T17:03:48+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T18:21:25.342Z",
+      "created_at": "2026-06-09T18:21:25.342Z"
+    },
+    {
+      "id": 11017,
+      "source": "XOR Journal (TG)",
+      "title_en": "⚡️ ОГО Anthropic релизнули MYTHOS — а точнее Fable, ее урезанную версию. По слухам, модель в 2 раза дороже Opus, но дешевле Mythos. Ждем бенчмарки.@xor_journal",
+      "description_en": "⚡️ ОГО Anthropic релизнули MYTHOS — а точнее Fable, ее урезанную версию. По слухам, модель в 2 раза дороже Opus, но дешевле Mythos. Ждем бенчмарки.@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9492",
+      "image_url": "https://cdn4.telesco.pe/file/ca_U4a9-ghZIw0ymCV5TzD9ZxjOV5QwuGBNpFZvlY_ssR0ay2_RBdwqFKtYYAm-T8smCb0Se-kBeWlSz7GcVmtjeci8ulvvP5CtXTFiZKj0NVgQJlUKczoKo8Wu9txQtmPGnX3jyIChUtZcsxZ0pjNwjozq6Deya7cI3X6N9MrMIZkb0zwQ7rsBEuoQZo2NYWofTiH5Cvbw0_lA3rEnaBSO6voTjI8jQ-NWf_ZQltDZLAB3BetUeQTm_UU4wFNfXnmMPDi-1D95YwTrtIpRk-y9CpCT-AtO3CxBEFzsXrahFDr7pWwSod2CIMTASB1GiKkhn9cPU2HLGd66_PhAj0A.jpg",
+      "pub_date": "2026-06-09T17:06:22+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T18:21:25.370Z",
+      "created_at": "2026-06-09T18:21:25.370Z"
+    },
+    {
+      "id": 11018,
+      "source": "XOR Journal (TG)",
+      "title_en": "⚡️ Миграцию базы на 50 миллионов строк модель выполнила всего за день — появились бенчмарки новой Claude Fable 5 и это реально огонь. Нейронка в РАЗЫ лучше Claude Opus 4.8 и GPT-5.5 в написании кода и",
+      "description_en": "⚡️ Миграцию базы на 50 миллионов строк модель выполнила всего за день — появились бенчмарки новой Claude Fable 5 и это реально огонь. Нейронка в РАЗЫ лучше Claude Opus 4.8 и GPT-5.5 в написании кода и выполнении агентных задач. Так, на SWE-Bench Pro у монстра аж 80,3%.Уже доступно — тестим 👌@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9493",
+      "image_url": "https://cdn4.telesco.pe/file/I7dfvz1fsiJmy5WdD6WljWO2vCqQ_-MX8uwJrFvVi04ZjrqR0dNvuJVEVS1fJ9pXFTC-FoLyvWy4q4mNaex-4UxRJc4C3ynrtghLIZCZoqPeCvIb0TTbNgT06uQPnes5gFCDEnZQ8NxpEhokad5WnkkAIp3hKJQzUfZHyiRRqojhXGML5Vzpvk129I_t0XBblyrGf42nrsnmCHR6ZtSQpbHcPZA2jYxu1zXs_BhEN85nf9jCUbiZfe2HB-wn5Ys01rKV7oBWX56fwyY2_pAfICkIV48mNAhGyEZHTzvnfItyHhtzZRhGAyaralm7EE4p45kzAHU9zxwufsE2mplN5A.jpg",
+      "pub_date": "2026-06-09T17:19:23+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T18:21:25.370Z",
+      "created_at": "2026-06-09T18:21:25.370Z"
+    },
+    {
+      "id": 11019,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🌥 Claude Fable 5: The Smartest and Terribly Human Model from AnthropicAnthropic has released Fable 5, the first model in their new line of super-powerful neural networks.It is based on the same under",
+      "description_en": "🌥 Claude Fable 5: The Smartest and Terribly Human Model from AnthropicAnthropic has released Fable 5, the first model in their new line of super-powerful neural networks.It is based on the same underlying model as Mythos but with stricter safety filters.The most interesting thing about Fable/Mythos is not even the intelligence. The model is head and shoulders above both Opus 4.8 and competitors from other companies. But during internal testing, the model displayed some unusual and slightly unse",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2565",
+      "image_url": "https://cdn4.telesco.pe/file/UN2Z4LPyHL2P16loxq4hfg1fhAbkC1BSJdSPQV_yhj9X3ndJXLTrHPDaAXRn3EGohTJxMIJP21NpAestgPTLgdC3ykUZQUg6Y51MA-Clcn_9jVocrUQl4fcIyZEvsW2VfAklfx8pQfU2i2YqoRv6YosdyVxj3NvMJ-D9usdrsC-crV0XPMfYq7TW8WOiMPbYE-24QI425zW9DQDAn2ROXmGrx3Vqihuja5Z-Nt7te_6CHWT8F5ukhpohDyiiLFFxWVb92zuYM2NvOqTyb-v2WDUypRq1fmKgJUP2LVVtjl8QYfvE1eyEhRUyZ8am5KotyIfEzxx7hWT1YVcngI8e0g.jpg",
+      "pub_date": "2026-06-09T18:08:57+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T18:21:25.738Z",
+      "created_at": "2026-06-09T18:21:25.738Z"
+    },
+    {
+      "id": 11020,
+      "source": "AI Post (TG)",
+      "title_en": "❗️Prompt engineering is out. Loop engineering is in.For the past two years, the AI skill everyone talked about was writing better prompts. Now, some of the people building the most advanced coding age",
+      "description_en": "❗️Prompt engineering is out. Loop engineering is in.For the past two years, the AI skill everyone talked about was writing better prompts. Now, some of the people building the most advanced coding agents are saying that era is ending.The creator of  OpenClaw⁠ summed it up in a viral post: “You no longer need to prompt coding agents. You need to design loops that prompt your agents.”A month earlier, Boris Cherny made a similar point. He said Claude has written essentially all of his code for the ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7170",
+      "image_url": "https://cdn4.telesco.pe/file/rKUuuUxzG7Tsen5GCiMpCobRa7W304BQ3xa-yhcUM7PocEsS87MGYdl6rE30wyNrrmrYwpHnj0iYvAqCbuHO01bwse6g9FWJuGik_I5VhO1UKXIJFCB76veFDPOHZmfqO9MpLfhDuUN_uX7KX9XbBYFHFTgBvBfKbYaFaOGGFLMSgQhaXPheBaxGLgyXzrwN3btFEcmdAjdOng9Tnxbj2DnXxxk415Iq5JkU9nQjJQgl_EUmU8vdWlMnAGLuI6S0aPEmg7IJNAzyIKQ05eqBnM8fKscz7ahFlOQTVNhxH774EAKCcICaWH-C3DjzqIy8dQpZJUofx0VSbJn0k_e9aw.jpg",
+      "pub_date": "2026-06-09T17:14:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T18:21:25.993Z",
+      "created_at": "2026-06-09T18:21:25.993Z"
+    },
+    {
+      "id": 11021,
+      "source": "Data Science ODS.ai (TG)",
+      "title_en": "⚡️Релиз Claude Fable 5Бенчмарки выглядят очень солидно, верим ?)Молель уже доступна для пользователей.https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "description_en": "⚡️Релиз Claude Fable 5Бенчмарки выглядят очень солидно, верим ?)Молель уже доступна для пользователей.https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/opendatascience/3323",
+      "image_url": "https://cdn4.telesco.pe/file/Eqx3v-XNOtkyPhSzA6zYSce-sdd_FQqGgAhBycSBri--8IsLkWPsZF8nvm6gvKUQUDi5s7ZXzaFXZi1FSps-mW4HxqCqT-2FxKIkOA0flrbKcnQ55qt0hcSrx_qQq3l9DHESqqhG2JZ7QN7Wv9ZG6r0RbgFV5srT9TOYxmjIKyjSKaRRVaITRkh6X84nE82O1mGoKReX-Nqgt_CMU497mgg8N3Um3GkeP-zXwNIp6jZsZ-EvGCUCdYltL59rqqz7jrhd1wWbkqoXAx63GZJeWSmR0fV8Fe-C5ZRJUo9Q8xZZduColFI9SvrEbedvHz8NecXY6-ygBeE0Hips1OBXrQ.jpg",
+      "pub_date": "2026-06-09T17:44:22+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T18:21:26.045Z",
+      "created_at": "2026-06-09T18:21:26.045Z"
+    },
+    {
+      "id": 11022,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🌥 Claude Fable 5 — самая умная и ужасающе человечная модель от AnthropicAnthropic выпустили Fable 5 — первую модель в их новой линейке сверхмощных нейросетей. Она основана на той же базовой модели, ч",
+      "description_en": "🌥 Claude Fable 5 — самая умная и ужасающе человечная модель от AnthropicAnthropic выпустили Fable 5 — первую модель в их новой линейке сверхмощных нейросетей. Она основана на той же базовой модели, что и Mythos, которая последние недели вскрывала дыры в Linux, macOS, Firefox и других IT-системах. Но в версии «для общественности» серьезно усилены фильтры безопасности.Главное в Fable/Mythos даже не интеллект — модель на голову опережает и Opus 4.8, и конкурентов от других компаний. Но вот в ходе ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3295",
+      "image_url": "https://cdn4.telesco.pe/file/Hm9U56OeNTZ69M4ZrM2SwqojBbcPDe9htm4TY_viJe3BbRjqAatXg1upWusva66lK_GDsoj6wBlm4Lqz8prxBDl4A4rxqq2UzgzKKowEhzvuYEiYjgSjNLoqcudDUhSRLmdxFyykAbC05JAHAEiVduxe_YlG6filNvMe4GYIJuYiYRD96YIywoCUlAQF7QvGBEzMpjclS7_VS6pI8-oQpRJyeY7nSx9IJLjP9j5O_WgqYkzVOAZibCcLifCAwsXgJx-BGgexLSKaw-d6wSJcbVjCAuKWseQ595tXBclgxmGOguY30k1MPH32wpjg0oyyqbli2YiiAZfuzsq2BUm19w.jpg",
+      "pub_date": "2026-06-09T17:50:08+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T18:21:26.093Z",
+      "created_at": "2026-06-09T18:21:26.093Z"
     }
   ]
 }
