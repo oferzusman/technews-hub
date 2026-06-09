@@ -230812,7 +230812,7 @@
         "Mythos"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T18:21:19.822Z",
       "created_at": "2026-06-09T18:21:19.822Z"
     },
@@ -230829,7 +230829,7 @@
       "author": "Robert Hart",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T18:21:19.844Z",
       "created_at": "2026-06-09T18:21:19.844Z"
     },
@@ -231059,7 +231059,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T18:21:24.472Z",
       "created_at": "2026-06-09T18:21:24.472Z"
     },
@@ -231079,7 +231079,7 @@
         "Peripherals"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T18:21:24.472Z",
       "created_at": "2026-06-09T18:21:24.472Z"
     },
@@ -231113,7 +231113,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T18:21:24.476Z",
       "created_at": "2026-06-09T18:21:24.476Z"
     },
@@ -231130,7 +231130,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T18:21:24.476Z",
       "created_at": "2026-06-09T18:21:24.476Z"
     },
@@ -231147,7 +231147,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T18:21:25.342Z",
       "created_at": "2026-06-09T18:21:25.342Z"
     },
@@ -231164,7 +231164,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T18:21:25.370Z",
       "created_at": "2026-06-09T18:21:25.370Z"
     },
@@ -231269,6 +231269,88 @@
       "priority": "hot",
       "fetchedAt": "2026-06-09T18:24:35.322Z",
       "created_at": "2026-06-09T18:24:35.322Z"
+    },
+    {
+      "id": 11024,
+      "source": "TechCrunch AI",
+      "title_en": "Can tech companies learn to love cheaper AI models?",
+      "description_en": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 18:56:09 +0000",
+      "author": "Russell Brandom",
+      "categories": [
+        "AI",
+        "TC",
+        "ai models",
+        "Anthropic",
+        "Harvey",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T19:13:49.054Z",
+      "created_at": "2026-06-09T19:13:49.054Z"
+    },
+    {
+      "id": 11025,
+      "source": "The Decoder",
+      "title_en": "Anthropic releases Claude Fable 5 and Mythos 5 with major gains in coding and science",
+      "description_en": "Anthropic ships two new models, Claude Fable 5 and Mythos 5, that claim to blow past the current Opus generation, especially in coding and research. Fable 5 finished a code migration for Stripe in one day that would have taken a team two months. Mythos 5 designed drug candidates on its own but stays locked down for now due to its offensive cyber capabilities.\nThe article Anthropic releases Claude Fable 5 and Mythos 5 with major gains in coding and science appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-releases-claude-fable-5-and-mythos-5-with-major-gains-in-coding-and-science/",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 18:25:19 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Claude",
+        "Claude Fable",
+        "Claude Mythos"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T19:13:50.357Z",
+      "created_at": "2026-06-09T19:13:50.357Z"
+    },
+    {
+      "id": 11026,
+      "source": "New Atlas",
+      "title_en": "20-eyed, 20-legged robot moves in any direction with equal ease",
+      "description_en": "Most of nature – including humans – is symmetrical, and as creations reflect their creators, many robots we create today feature this symmetry, with the general assumption that symmetry is best. Researchers at Duke University have challenged that assumption with Argus, a sea-urchin-like robot that ditches conventional symmetry altogether.\nContinue Reading\nCategory: Robotics, Engineering\nTags: Duke University, locomotion, Omni-Directional",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/robotics/argus-symmetrical-locomotion-robot/",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 19:00:00 GMT",
+      "author": "Etiido Uko",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T19:13:50.960Z",
+      "created_at": "2026-06-09T19:13:50.960Z"
+    },
+    {
+      "id": 11027,
+      "source": "Prompt AI News (TG)",
+      "title_en": "⚡️ Claude Fable 5 is live. Mythos power, guardrails on.Anthropic just dropped Fable 5, its first Mythos-class model for the public, with hard blocks on cybersecurity and biology responses.Those querie",
+      "description_en": "⚡️ Claude Fable 5 is live. Mythos power, guardrails on.Anthropic just dropped Fable 5, its first Mythos-class model for the public, with hard blocks on cybersecurity and biology responses.Those queries fall back to Opus 4.8. Early data shows 95%+ of sessions run fully on Fable's own answers, so the fallback is rare.It'll cost you: $10/M input, $50/M output tokens. Twice the price of Opus 4.8. Max plan gets a free window first, then it's pay-per-token. Enjoy the trial.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/173",
+      "image_url": null,
+      "pub_date": "2026-06-09T18:29:30+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T19:13:56.617Z",
+      "created_at": "2026-06-09T19:13:56.617Z"
     }
   ]
 }
