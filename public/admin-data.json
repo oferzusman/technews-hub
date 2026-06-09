@@ -1,9 +1,9 @@
 {
-  "total": 10945,
+  "total": 10951,
   "translated": 8824,
-  "untranslated": 2121,
-  "today": 31,
-  "week": 753,
+  "untranslated": 2127,
+  "today": 37,
+  "week": 759,
   "sources": [
     {
       "name": "Product Hunt",
@@ -48,16 +48,16 @@
       "lastDate": "2026-04-09T07:21:22Z"
     },
     {
+      "name": "The Decoder",
+      "total": 464,
+      "translated": 340,
+      "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
+    },
+    {
       "name": "New Atlas",
       "total": 464,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
-    },
-    {
-      "name": "The Decoder",
-      "total": 463,
-      "translated": 340,
-      "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "The Guardian AI",
@@ -79,9 +79,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 319,
+      "total": 320,
       "translated": 231,
-      "lastDate": "2026-06-08T22:14:17.000Z"
+      "lastDate": "2026-06-09T10:00:00.000Z"
     },
     {
       "name": "Futurism",
@@ -91,7 +91,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 284,
+      "total": 285,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -109,7 +109,7 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 167,
+      "total": 168,
       "translated": 135,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
@@ -133,7 +133,7 @@
     },
     {
       "name": "AI News",
-      "total": 106,
+      "total": 108,
       "translated": 81,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-09T10:25:30.875Z"
+  "generatedAt": "2026-06-09T10:47:42.248Z"
 }
