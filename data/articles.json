@@ -231399,7 +231399,7 @@
       "author": "Aamir Khollam",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T20:23:07.115Z",
       "created_at": "2026-06-09T20:23:07.115Z"
     },
@@ -231477,7 +231477,7 @@
         "warner bros. discovery"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T20:26:26.071Z",
       "created_at": "2026-06-09T20:26:26.071Z"
     },
@@ -231546,7 +231546,7 @@
         "siri"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T21:18:03.826Z",
       "created_at": "2026-06-09T21:18:03.826Z"
     },
@@ -231568,7 +231568,7 @@
         "Fable 5"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T21:18:03.827Z",
       "created_at": "2026-06-09T21:18:03.827Z"
     },
@@ -231602,7 +231602,7 @@
       "author": "Emma Roth",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T21:18:03.864Z",
       "created_at": "2026-06-09T21:18:03.864Z"
     },
@@ -231653,7 +231653,7 @@
       "author": "Georgina Jedikovska",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T21:18:06.850Z",
       "created_at": "2026-06-09T21:18:06.850Z"
     },
@@ -231690,7 +231690,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T21:18:07.214Z",
       "created_at": "2026-06-09T21:18:07.214Z"
     },
@@ -231767,6 +231767,167 @@
       "priority": "batch",
       "fetchedAt": "2026-06-09T22:01:32.268Z",
       "created_at": "2026-06-09T22:01:32.268Z"
+    },
+    {
+      "id": 11050,
+      "source": "Ars Technica",
+      "title_en": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
+      "description_en": "Starlink, SpaceX's top moneymaker, also raised service prices by $5 to $10.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-starlink-1152x648.jpg",
+      "pub_date": "Tue, 09 Jun 2026 21:05:39 +0000",
+      "author": "\n                    Jon Brodkin\n                ",
+      "categories": [
+        "Policy",
+        "spacex",
+        "starlink"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T22:57:55.704Z",
+      "created_at": "2026-06-09T22:57:55.704Z"
+    },
+    {
+      "id": 11051,
+      "source": "The Guardian AI",
+      "title_en": "Anthropic releases ‘safe’ version of Claude Mythos AI model to public",
+      "description_en": "AI company restricted access to Fable 5, its most powerful Mythos model, for months over cybersecurity concerns\nAnthropic, the maker of the Claude artificial intelligence (AI) models, made a new version of its technology available to the general public on Tuesday while restricting its use in sensitive areas.\nDubbed Fable 5, the model is the first to be made widely available from the company’s new Mythos class – its most advanced lineup of AI technology, unveiled in April but restricted to a smal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/09/anthropic-claude-mythos-ai-model",
+      "image_url": "https://i.guim.co.uk/img/media/c1d842f8d1f28f0a67be4a40d9121c0b5530f0e0/559_0_5590_4474/master/5590.jpg?width=140&quality=85&auto=format&fit=max&s=ea11d331a5f24d2bbcfe59bf1e9b0183",
+      "pub_date": "Tue, 09 Jun 2026 22:28:29 GMT",
+      "author": "Agence France-Presse",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Technology startups",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/startups"
+          }
+        },
+        {
+          "_": "Trump administration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/trump-administration"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T22:57:57.612Z",
+      "created_at": "2026-06-09T22:57:57.612Z"
+    },
+    {
+      "id": 11052,
+      "source": "CNBC Tech",
+      "title_en": "Entergy CEO pushes back on fears that AI data centers will drive up electricity bills",
+      "description_en": "Entergy CEO Drew Marsh said data centers can be a win for local communities rather than a burden on residents.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/09/entergy-ceo-pushes-back-fears-ai-data-centers-drive-up-electricity-bills.html",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 22:49:27 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T22:57:58.505Z",
+      "created_at": "2026-06-09T22:57:58.505Z"
+    },
+    {
+      "id": 11053,
+      "source": "CNBC Tech",
+      "title_en": "Jim Cramer says tech stocks are losing the qualities that made them the leaders of the rally",
+      "description_en": "CNBC's Jim Cramer said tech stocks are losing key traits that fueled their leadership since 2023.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/09/jim-cramer-tech-stocks-losing-qualities-leaders-rally.html",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 22:30:41 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T22:57:58.505Z",
+      "created_at": "2026-06-09T22:57:58.505Z"
+    },
+    {
+      "id": 11054,
+      "source": "CNBC Tech",
+      "title_en": "Super Micro stock tumbles on $7 billion financing plans as company touts AI server orders",
+      "description_en": "Super Micro is the latest company tied to the AI boom to announce that it's tapping the capital markets.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/09/super-micro-stock-tumbles-on-7-billion-financing-plans.html",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 22:29:25 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T22:57:58.505Z",
+      "created_at": "2026-06-09T22:57:58.505Z"
+    },
+    {
+      "id": 11055,
+      "source": "AI Post (TG)",
+      "title_en": "“Vibe-coding is just a gambling addiction for SWEs”@aipost 🏴",
+      "description_en": "“Vibe-coding is just a gambling addiction for SWEs”@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7175",
+      "image_url": "https://cdn4.telesco.pe/file/ZfJWXpDexdncmTnLuaJoxdhTmQPgpAtVrZOmiA00sjnozYEceB-3eKTxaiJgkUIRmv1mypUocA1N_sbi-kpYVwB8-ApfNhozs2sWOY4ia2iIMb1qjFXBLT5o4SpEi33RJjPmJOGtsFf0CVo9sIoXGxAp058yD0y2p9h6qYDcvHRGnP4S6cs__y8eCAIj193mU9vLwiDKUMdduNFEvwoaFeRrqwrO2SvjU2YooNVODk5CFPChcnqSRN8XxIhTetimREMcNhAK_ECsfR4BEsf7IUXEyT1IT5ba4pnkYHF1h9_npxBQA7xfnPw0dHEYSe6oSDMYKxzOFRBCdzgKXqhRLw.jpg",
+      "pub_date": "2026-06-09T22:34:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T22:58:03.778Z",
+      "created_at": "2026-06-09T22:58:03.778Z"
     }
   ]
 }
