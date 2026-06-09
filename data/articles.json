@@ -230789,7 +230789,7 @@
         "wwdc"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T18:21:19.822Z",
       "created_at": "2026-06-09T18:21:19.822Z"
     },
@@ -230852,7 +230852,7 @@
         "Google"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T18:21:21.147Z",
       "created_at": "2026-06-09T18:21:21.147Z"
     },
@@ -230880,7 +230880,7 @@
         "Voice AI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T18:21:21.493Z",
       "created_at": "2026-06-09T18:21:21.493Z"
     },
@@ -230988,7 +230988,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T18:21:22.041Z",
       "created_at": "2026-06-09T18:21:22.041Z"
     },
@@ -231005,7 +231005,7 @@
       "author": "Kaif Shaikh",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T18:21:24.263Z",
       "created_at": "2026-06-09T18:21:24.263Z"
     },
@@ -231022,7 +231022,7 @@
       "author": "Mrigakshi Dixit",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T18:21:24.263Z",
       "created_at": "2026-06-09T18:21:24.263Z"
     },
@@ -231039,7 +231039,7 @@
       "author": "Aamir Khollam",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T18:21:24.263Z",
       "created_at": "2026-06-09T18:21:24.263Z"
     },
@@ -231096,7 +231096,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T18:21:24.476Z",
       "created_at": "2026-06-09T18:21:24.476Z"
     },
@@ -231181,7 +231181,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T18:21:25.370Z",
       "created_at": "2026-06-09T18:21:25.370Z"
     },
@@ -231198,7 +231198,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T18:21:25.738Z",
       "created_at": "2026-06-09T18:21:25.738Z"
     },
@@ -231215,7 +231215,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T18:21:25.993Z",
       "created_at": "2026-06-09T18:21:25.993Z"
     },
@@ -231232,7 +231232,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T18:21:26.045Z",
       "created_at": "2026-06-09T18:21:26.045Z"
     },
@@ -231249,7 +231249,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T18:21:26.093Z",
       "created_at": "2026-06-09T18:21:26.093Z"
     },
@@ -231266,7 +231266,7 @@
       "author": "Neetika Walter",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T18:24:35.322Z",
       "created_at": "2026-06-09T18:24:35.322Z"
     },
@@ -231351,6 +231351,108 @@
       "priority": "hot",
       "fetchedAt": "2026-06-09T19:13:56.617Z",
       "created_at": "2026-06-09T19:13:56.617Z"
+    },
+    {
+      "id": 11028,
+      "source": "Hugging Face Blog",
+      "title_en": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 19:38:28 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T20:23:05.922Z",
+      "created_at": "2026-06-09T20:23:05.922Z"
+    },
+    {
+      "id": 11029,
+      "source": "OpenAI Blog",
+      "title_en": "How engineers at Nextdoor use Codex to build without limits",
+      "description_en": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/nextdoor",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 12:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-09T20:23:06.281Z",
+      "created_at": "2026-06-09T20:23:06.281Z"
+    },
+    {
+      "id": 11030,
+      "source": "Interesting Engineering",
+      "title_en": "Anthropic unveils Claude Fable 5, opening Mythos-class capabilities to all users",
+      "description_en": "Anthropic has opened the doors to its most advanced AI system yet, but not without...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/anthropic-claude-fable-5-mythos-capabilities",
+      "image_url": "https://www.youtube.com/embed/5f5JYLZHdhw",
+      "pub_date": "Tue, 09 Jun 2026 20:22:16 +0000",
+      "author": "Aamir Khollam",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T20:23:07.115Z",
+      "created_at": "2026-06-09T20:23:07.115Z"
+    },
+    {
+      "id": 11031,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 Anthropic just released an AI so powerful it had to put guardrails on it before letting the public use it.Meet Claude Fable 5.Anthropic says it’s the best model the company has ever shipped, settin",
+      "description_en": "🤖 Anthropic just released an AI so powerful it had to put guardrails on it before letting the public use it.Meet Claude Fable 5.Anthropic says it’s the best model the company has ever shipped, setting new records across software engineering, scientific research, reasoning, knowledge work, and vision. The more complicated the task, the bigger the gap between Fable 5 and Anthropic’s previous models.Need help debugging a massive codebase, analyzing complex research, understanding dense documents, ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7172",
+      "image_url": null,
+      "pub_date": "2026-06-09T19:19:04+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T20:23:09.218Z",
+      "created_at": "2026-06-09T20:23:09.218Z"
+    },
+    {
+      "id": 11032,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 Anthropic just released an AI so powerful it had to put guardrails on it before letting the public use it.  Meet Claude Fable 5.  Anthropic says it’s the best model the company has ever shipped, se",
+      "description_en": "🤖 Anthropic just released an AI so powerful it had to put guardrails on it before letting the public use it.  Meet Claude Fable 5.  Anthropic says it’s the best model the company has ever shipped, setting new records across software engineering, scientific…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7173",
+      "image_url": "https://cdn4.telesco.pe/file/ivUBknRq6sWEJ58MfwUVuAx0CH4Lmrse2R3qHCEUZUxzvAERN5sDCGCw5X9FuTO-kExdcsuwf6lgKQP-yjagfWnXV9yqNbWN3IGZgSz1J3TYxS1jh8BN3ht3xzjnObmoJxQQkDSMPkoxxhupl_69zM_TGLE3aBFWUKPPAwh8wEeHYRZScCN2Q0X_Ohr9RKaUusIjP2b8Wz4vTh9sbMNyhIiPYfNvOtdx7QUQDQsZAWiKowgQbVkhGG3QMQcEKZojxw8KE3InmXX6_Z4Pl8HNHuk5JeV_jH08qZCAc31lEC6kJkTchGpcKwZ1aqy0p-7txpQ7QmoE7OKfbh1rHcPWFw.jpg",
+      "pub_date": "2026-06-09T19:26:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T20:23:09.218Z",
+      "created_at": "2026-06-09T20:23:09.218Z"
+    },
+    {
+      "id": 11033,
+      "source": "AI Post (TG)",
+      "title_en": "Claude Fable 5 to be removed from subscription plans after June 22Anthropic has announced that Claude Fable 5 will be temporarily unavailable through subscription plans after June 22 due to high deman",
+      "description_en": "Claude Fable 5 to be removed from subscription plans after June 22Anthropic has announced that Claude Fable 5 will be temporarily unavailable through subscription plans after June 22 due to high demand. The company intends to make the model available again as a standard feature once capacity is increased.This adjustment affects current and prospective subscribers seeking access to Claude Fable 5. Further updates regarding its availability will be provided by Anthropic when more capacity becomes ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7174",
+      "image_url": "https://cdn4.telesco.pe/file/deV14gbp75t57wZz-27xWzN48-inGzRlQnw1vBulCS3snJaeZHyAq9dcgxXWMdAFrQ4OpvqnoFnby6afSIS-5m0eoOnGBNFugBdbaSIqGQkM1CWuGRP-smkB62ModLzdQwk9LMjd_xd2My94TiD0K7B7gNH6Uy8GPjezi0bMS1KC120_a6dvsicmGSubNf32qJLnhhQ6u6bMJ-9kCJFHalzzINekca3o-ot7qarpGzpN4PhNnqNIn4FxEHRBTVv1TTfghR7UjiaRkdVh5J4suD9qF1hMUc0HZIjQo5HgalNlx348oAkPgFBxRoUje6thSHiEtJEJy5JJbBA1dOPL7w.jpg",
+      "pub_date": "2026-06-09T19:46:11+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T20:23:09.218Z",
+      "created_at": "2026-06-09T20:23:09.218Z"
     }
   ]
 }
