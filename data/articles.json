@@ -229962,7 +229962,7 @@
       "author": "Jijo Malayil",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T13:21:04.292Z",
       "created_at": "2026-06-09T13:21:04.292Z"
     },
@@ -229979,7 +229979,7 @@
       "author": "Munis Raza",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T13:21:04.292Z",
       "created_at": "2026-06-09T13:21:04.292Z"
     },
@@ -230154,9 +230154,109 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T13:21:06.850Z",
       "created_at": "2026-06-09T13:21:06.850Z"
+    },
+    {
+      "id": 10972,
+      "source": "TechCrunch AI",
+      "title_en": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
+      "description_en": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 13:00:00 +0000",
+      "author": "Julie Bort",
+      "categories": [
+        "TC",
+        "AI",
+        "vibe coding",
+        "Lovable"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T13:44:34.113Z",
+      "created_at": "2026-06-09T13:44:34.113Z"
+    },
+    {
+      "id": 10973,
+      "source": "The Verge AI",
+      "title_en": "Apple’s best AI idea looks a lot like vibe coding",
+      "description_en": "Most of Apple's current AI ideas are roughly the same as everyone else's AI ideas. A chatbot you can ask questions; quick ways to create or summarize text; bizarre, borderline creepy image-generation tools. The company spent most of its WWDC keynote playing catch-up with the state of the AI art, announcing Siri features you can already find on Android phones and in the Claude and ChatGPT apps. The pitch, in so many cases, is just \"this thing you know, but on your iPhone now.\"\nBut a few minutes a",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code",
+      "image_url": null,
+      "pub_date": "2026-06-09T13:34:48.000Z",
+      "author": "David Pierce",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T13:44:34.186Z",
+      "created_at": "2026-06-09T13:44:34.186Z"
+    },
+    {
+      "id": 10974,
+      "source": "Ars Technica",
+      "title_en": "Apple says its AI is still private, even when it's running on Google's servers",
+      "description_en": "Some models run in Google's cloud, but without giving Google any kind of access.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_8097-1152x648-1780966699.jpeg",
+      "pub_date": "Tue, 09 Jun 2026 13:05:49 +0000",
+      "author": "\n                    Andrew Cunningham\n                ",
+      "categories": [
+        "AI",
+        "Apple",
+        "apple intelligence"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T13:44:34.202Z",
+      "created_at": "2026-06-09T13:44:34.202Z"
+    },
+    {
+      "id": 10975,
+      "source": "Ars Technica",
+      "title_en": "First Drive: The 2027 Rivian R2 entirely changes the EV game",
+      "description_en": "Rivian's second EV is the sub-$60,000 R2, and it was worth the wait.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/cars/2026/06/first-drive-the-2027-rivian-r2-entirely-changes-the-ev-game/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Ars-Technica-Rivian-R2-Pics-27-1152x648.jpg",
+      "pub_date": "Tue, 09 Jun 2026 13:00:46 +0000",
+      "author": "\n                    Michael Teo Van Runkle\n                ",
+      "categories": [
+        "Cars",
+        "Features",
+        "car review",
+        "First drive",
+        "Rivian R2"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T13:44:34.202Z",
+      "created_at": "2026-06-09T13:44:34.202Z"
+    },
+    {
+      "id": 10976,
+      "source": "Interesting Engineering",
+      "title_en": "Video: New palm-sized robot with 8 smart actuators can walk, trot, and jump",
+      "description_en": "An open-source quadruped robot named Q8botOne aims to provide an affordable, fully assembled robotic platform...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/meet-q8botone-tiny-open-source-robot",
+      "image_url": "https://www.youtube.com/embed/YJDc1xAhaOI",
+      "pub_date": "Tue, 09 Jun 2026 13:32:05 +0000",
+      "author": "Jijo Malayil",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-09T13:44:38.002Z",
+      "created_at": "2026-06-09T13:44:38.002Z"
     }
   ]
 }
