@@ -1,9 +1,9 @@
 {
-  "total": 11000,
+  "total": 11001,
   "translated": 8824,
-  "untranslated": 2176,
-  "today": 86,
-  "week": 808,
+  "untranslated": 2177,
+  "today": 87,
+  "week": 809,
   "sources": [
     {
       "name": "Product Hunt",
@@ -121,9 +121,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 140,
+      "total": 141,
       "translated": 68,
-      "lastDate": "2026-06-09T12:53:34+00:00"
+      "lastDate": "2026-06-09T16:21:00+00:00"
     },
     {
       "name": "Hi, AI Russian (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-09T16:18:26.762Z"
+  "generatedAt": "2026-06-09T16:33:36.804Z"
 }
