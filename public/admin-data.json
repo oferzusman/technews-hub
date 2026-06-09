@@ -1,15 +1,15 @@
 {
-  "total": 10927,
+  "total": 10932,
   "translated": 8824,
-  "untranslated": 2103,
-  "today": 13,
-  "week": 735,
+  "untranslated": 2108,
+  "today": 18,
+  "week": 740,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 1017,
+      "total": 1020,
       "translated": 968,
-      "lastDate": "2026-06-07T20:25:19.000Z"
+      "lastDate": "2026-06-08T21:45:38.000Z"
     },
     {
       "name": "Tom's Hardware",
@@ -91,7 +91,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 283,
+      "total": 284,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -103,9 +103,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 257,
+      "total": 258,
       "translated": 119,
-      "lastDate": "2026-06-08T21:10:12+00:00"
+      "lastDate": "2026-06-09T06:35:19+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-09T06:34:43.880Z"
+  "generatedAt": "2026-06-09T07:05:36.876Z"
 }
