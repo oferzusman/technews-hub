@@ -233014,7 +233014,7 @@
         "writer"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T16:53:40.995Z",
       "created_at": "2026-06-10T16:53:40.995Z"
     },
@@ -233039,7 +233039,7 @@
         "Mythos"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T16:53:40.996Z",
       "created_at": "2026-06-10T16:53:40.996Z"
     },
@@ -233222,7 +233222,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T16:53:43.367Z",
       "created_at": "2026-06-10T16:53:43.367Z"
     },
@@ -233241,7 +233241,7 @@
         "AI and Robotics"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T16:53:43.710Z",
       "created_at": "2026-06-10T16:53:43.710Z"
     },
@@ -233318,7 +233318,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T16:53:44.107Z",
       "created_at": "2026-06-10T16:53:44.107Z"
     },
@@ -233337,7 +233337,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T16:53:44.107Z",
       "created_at": "2026-06-10T16:53:44.107Z"
     },
@@ -233373,7 +233373,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T16:53:44.179Z",
       "created_at": "2026-06-10T16:53:44.179Z"
     },
@@ -233390,7 +233390,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T16:53:44.179Z",
       "created_at": "2026-06-10T16:53:44.179Z"
     },
@@ -233407,7 +233407,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T16:53:44.180Z",
       "created_at": "2026-06-10T16:53:44.180Z"
     },
@@ -233475,7 +233475,7 @@
       "author": "Tom Warren",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T17:32:29.673Z",
       "created_at": "2026-06-10T17:32:29.673Z"
     },
@@ -233492,7 +233492,7 @@
       "author": "Emma Roth",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T17:32:29.673Z",
       "created_at": "2026-06-10T17:32:29.673Z"
     },
@@ -233514,7 +233514,7 @@
         "ramp ai index"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T17:32:29.698Z",
       "created_at": "2026-06-10T17:32:29.698Z"
     },
@@ -233533,7 +233533,7 @@
         "Innovation"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T17:32:32.231Z",
       "created_at": "2026-06-10T17:32:32.231Z"
     },
@@ -233550,9 +233550,292 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T17:32:34.269Z",
       "created_at": "2026-06-10T17:32:34.269Z"
+    },
+    {
+      "id": 11132,
+      "source": "Ars Technica",
+      "title_en": "We managed to glean some interesting details about the Artemis III mission",
+      "description_en": "\"I was on the phone with Blue Origin leadership that night, all the next day, all through the weekend.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/space/2026/06/we-managed-to-glean-some-interesting-details-about-the-artemis-iii-mission/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/NHQ202604010037medium-1152x648.jpg",
+      "pub_date": "Wed, 10 Jun 2026 17:31:13 +0000",
+      "author": "\n                    Eric Berger\n                ",
+      "categories": [
+        "Space",
+        "NASA",
+        "space"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T19:10:23.668Z",
+      "created_at": "2026-06-10T19:10:23.668Z"
+    },
+    {
+      "id": 11133,
+      "source": "Ars Technica",
+      "title_en": "Nobody needs AI to search the Internet, court says in ruling against Google",
+      "description_en": "Google AI Overview court loss in Germany could spell doom for AI search industry.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2277898840-1024x648.jpg",
+      "pub_date": "Wed, 10 Jun 2026 17:19:31 +0000",
+      "author": "\n                    Ashley Belanger\n                ",
+      "categories": [
+        "AI",
+        "Policy",
+        "ai overviews",
+        "ai search",
+        "defamation",
+        "google",
+        "misinformation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T19:10:23.669Z",
+      "created_at": "2026-06-10T19:10:23.669Z"
+    },
+    {
+      "id": 11134,
+      "source": "Ars Technica",
+      "title_en": "Cheap Iranian drone downed $25 million US Army helicopter—maybe by chance",
+      "description_en": "The US military struck Iran again after an Iranian drone’s lucky midair strike.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gadgets/2026/06/cheap-iranian-drone-downed-25-million-us-army-helicopter-maybe-by-chance/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Apache-helicopters-Strait-of-Hormuz.jpeg",
+      "pub_date": "Wed, 10 Jun 2026 17:04:47 +0000",
+      "author": "\n                    Jeremy Hsu\n                ",
+      "categories": [
+        "Tech",
+        "apache helicopter",
+        "Close encounters of the unwanted kind",
+        "donald trump iran war",
+        "drones",
+        "Iran",
+        "military drones",
+        "US Military",
+        "USA-Iran War"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-10T19:10:23.669Z",
+      "created_at": "2026-06-10T19:10:23.669Z"
+    },
+    {
+      "id": 11135,
+      "source": "Ars Technica",
+      "title_en": "Valve kills its retail gift card program due to scammers",
+      "description_en": "Move also cuts off a massive market of legit users who buy cards with physical cash.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gaming/2026/06/valve-kills-its-retail-gift-card-program-due-to-scammers/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/steamcard-1152x648-1781107823.jpg",
+      "pub_date": "Wed, 10 Jun 2026 16:39:43 +0000",
+      "author": "\n                    Kyle Orland\n                ",
+      "categories": [
+        "Gaming",
+        "cash",
+        "Gift Cards",
+        "market",
+        "retail",
+        "Steam",
+        "Valve"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-10T19:10:23.669Z",
+      "created_at": "2026-06-10T19:10:23.669Z"
+    },
+    {
+      "id": 11136,
+      "source": "The Verge AI",
+      "title_en": "Fable won’t answer basic biology questions",
+      "description_en": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship model, Claude Opus 4.8.\nIt isn't because Fable doesn't know the answers. It's because Anthropic won't let it, by design.\nFable is a public-facing, Mythos-class model, a family so ca",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+      "image_url": null,
+      "pub_date": "2026-06-10T18:43:34.000Z",
+      "author": "Robert Hart",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T19:10:23.711Z",
+      "created_at": "2026-06-10T19:10:23.711Z"
+    },
+    {
+      "id": 11137,
+      "source": "The Verge AI",
+      "title_en": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
+      "description_en": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out.\nIn a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of viral clips from graduation ceremonies, like former Google CEO Eric Schmidt getting an earful at the University of Arizona, or the speaker in Florida who seemed surprised when students booed at the mention of AI as \"the nex",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
+      "image_url": null,
+      "pub_date": "2026-06-10T17:45:11.000Z",
+      "author": "Mia Sato",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T19:10:23.711Z",
+      "created_at": "2026-06-10T19:10:23.711Z"
+    },
+    {
+      "id": 11138,
+      "source": "The Verge AI",
+      "title_en": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+      "description_en": "(L-R) Sen. Mike Rounds, Pamela Brown, Chris Malachowsky, Kevin O'Leary, Gabriele Caccia, Tammy Haddad, Michele L. Jawando, Sen. Mark Warner, Michael Kelly and Major General Patrick Ellis attend the Second Annual AI Honors. | Getty Images for Washington AI N\t\n\nHello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, dur",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+      "image_url": null,
+      "pub_date": "2026-06-10T17:38:00.000Z",
+      "author": "Tina Nguyen",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T19:10:23.712Z",
+      "created_at": "2026-06-10T19:10:23.712Z"
+    },
+    {
+      "id": 11139,
+      "source": "The Decoder",
+      "title_en": "OpenAI's IPO slips as Altman tells staff to expect a public offering \"within the next year\"",
+      "description_en": "Sam Altman told employees he expects an OpenAI IPO \"within the next year,\" but a delay to 2027 is possible. He frames it as caution around self-improving AI, though Anthropic's stronger growth numbers and imminent IPO may be the real reason to wait.\nThe article OpenAI's IPO slips as Altman tells staff to expect a public offering \"within the next year\" appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openais-ipo-slips-as-altman-tells-staff-to-expect-a-public-offering-within-the-next-year/",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 18:27:00 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T19:10:26.537Z",
+      "created_at": "2026-06-10T19:10:26.537Z"
+    },
+    {
+      "id": 11140,
+      "source": "The Decoder",
+      "title_en": "Anthropic study shows AI needs hours, not weeks, to build exploits from security patches",
+      "description_en": "Anthropic's security team found that its Mythos Preview AI model can turn security patches for Firefox and the Windows kernel into working exploits within hours, for a few thousand dollars and no specialized knowledge. Eight complete attack chains were finished before Microsoft's auto-updates had reached a single device. The old patch rhythm is obsolete, Anthropic argues.\nThe article Anthropic study shows AI needs hours, not weeks, to build exploits from security patches appeared first on The De",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-study-shows-ai-needs-hours-not-weeks-to-build-exploits-from-security-patches/",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 17:38:24 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Cybersecurity"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T19:10:26.537Z",
+      "created_at": "2026-06-10T19:10:26.537Z"
+    },
+    {
+      "id": 11141,
+      "source": "New Atlas",
+      "title_en": "Boxy camper pod has the most outrageous feature set the world has seen",
+      "description_en": "The latest camper from Mammoth Overland takes two of the brand's most creative launches of the recent past and fuses them together into a prepper-grade wilderness and apocalypse survival safe room built for immediate escape. Whether you're trying to keep away apex predators on regular camping or hunting expeditions, or getting out of dodge during a rapidly evolving \"extinction level event,\" the Mammoth XLE might be the best civilian vessel in the world to have hitched up to your 4x4.\nContinue Re",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/camping-trailers/mammoth-xtinction-level-camper-trailer/",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 04:25:00 GMT",
+      "author": "C.C. Weiss",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-10T19:10:27.223Z",
+      "created_at": "2026-06-10T19:10:27.223Z"
+    },
+    {
+      "id": 11142,
+      "source": "Interesting Engineering",
+      "title_en": "Advanced metal 3D printing minimizes failure points in complex gas turbine designs",
+      "description_en": "Metal additive manufacturing continues to expand beyond aerospace prototypes and into production-focused energy systems. That...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/gas-turbine-metal-3d-printing",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 18:17:55 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T19:10:27.581Z",
+      "created_at": "2026-06-10T19:10:27.581Z"
+    },
+    {
+      "id": 11143,
+      "source": "Interesting Engineering",
+      "title_en": "World’s first electric TaxiBot tows Airbus A320 jets at 26 mph in the Netherlands",
+      "description_en": "An airport in the Netherlands has started operating the world’s first fully electric TaxiBot, which...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/worlds-first-electric-taxibot-tows-airbus-a320-jets-at-26-mph-in-the-netherlands",
+      "image_url": "https://www.youtube.com/embed/U9kUURhOfh4",
+      "pub_date": "Wed, 10 Jun 2026 18:12:42 +0000",
+      "author": "Georgina Jedikovska",
+      "categories": [
+        "Transportation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T19:10:27.581Z",
+      "created_at": "2026-06-10T19:10:27.581Z"
+    },
+    {
+      "id": 11144,
+      "source": "Backdoor (TG)",
+      "title_en": "Исследователи и инженеры, аларм: 18 июля в Москве пройдет Turbo ML Conf 2026, топовое мероприятие от Т-Технологий для экспертов в машинном обучении, ИИ и продакшене.Один день, ДК «Серп и Молот», 700+ ",
+      "description_en": "Исследователи и инженеры, аларм: 18 июля в Москве пройдет Turbo ML Conf 2026, топовое мероприятие от Т-Технологий для экспертов в машинном обучении, ИИ и продакшене.Один день, ДК «Серп и Молот», 700+ участников: инженеры, исследователи, техлиды AI/ML-команд из крупнейших российских компаний. В этом году конфа станет хардовее: орги держат фокус на прикладных темах и практических решениях без воды.В программе три направления: фундаментальные исследования и архитектура современных моделей, ML в реа",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29113",
+      "image_url": "https://cdn4.telesco.pe/file/iMbuHPrWeYcGjhNiL8RPEPy9LFPHYDX1OtOwA7mNeOteHFef0M_34lTnGZMt40a7lEJ0cp7rSRZ-c_PDETxlhgaBuK0ZQGDkzPC6gJ-HZtIYYKhZgYrq1wOxmppO3udVCmq_qMPycwPhzW14mgfQzdkrvMLC8XOIyYfmo8fXfxg3CK9WdgOGhAJRulqR5DTr9qRUIHRvATCRE9h5Sk5OTC51KbojdNqOVBNqvRbZXVMhXXJydnKiNVBFBQlXmr2KSa11zqIRwRpmDDmj28rcV_sUaTeRAYom0_rk0ZQoX-9yPiUCg1RZzTrR1eF0vOaxn9blSg3AyrteWf0nAAptOQ.jpg",
+      "pub_date": "2026-06-10T18:41:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T19:10:29.399Z",
+      "created_at": "2026-06-10T19:10:29.399Z"
+    },
+    {
+      "id": 11145,
+      "source": "AI Post (TG)",
+      "title_en": "🗣Bill Gates on AI: don’t confuse a technological revolution with guaranteed investment returns.He calls AI the biggest technical breakthrough of his lifetime and believes the value is real, just as t",
+      "description_en": "🗣Bill Gates on AI: don’t confuse a technological revolution with guaranteed investment returns.He calls AI the biggest technical breakthrough of his lifetime and believes the value is real, just as the internet’s value was real.But he also warns that AI could create the same kind of investment frenzy that wiped out many internet-era companies.Some firms will make fortunes from AI. Others will build data centers where electricity costs make them uncompetitive. Some will spend billions on chips o",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7181",
+      "image_url": null,
+      "pub_date": "2026-06-10T18:25:20+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T19:10:31.658Z",
+      "created_at": "2026-06-10T19:10:31.658Z"
     }
   ]
 }
