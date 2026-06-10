@@ -1,9 +1,9 @@
 {
-  "total": 11149,
+  "total": 11161,
   "translated": 8824,
-  "untranslated": 2325,
-  "today": 93,
-  "week": 800,
+  "untranslated": 2337,
+  "today": 105,
+  "week": 812,
   "sources": [
     {
       "name": "Product Hunt",
@@ -25,13 +25,13 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 634,
+      "total": 635,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 565,
+      "total": 566,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -67,15 +67,15 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 370,
+      "total": 371,
       "translated": 334,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 348,
+      "total": 355,
       "translated": 168,
-      "lastDate": "2026-06-10T19:55:44+00:00"
+      "lastDate": "2026-06-10T20:03:33+00:00"
     },
     {
       "name": "The Verge AI",
@@ -103,9 +103,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 268,
+      "total": 269,
       "translated": 119,
-      "lastDate": "2026-06-10T13:25:33+00:00"
+      "lastDate": "2026-06-10T21:05:10+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -186,6 +186,12 @@
       "lastDate": "2026-04-09T06:45:21Z"
     },
     {
+      "name": "Data Science ODS.ai (TG)",
+      "total": 40,
+      "translated": 29,
+      "lastDate": "2026-06-10T20:46:09+00:00"
+    },
+    {
       "name": "Prompt AI News (TG)",
       "total": 40,
       "translated": 23,
@@ -196,12 +202,6 @@
       "total": 39,
       "translated": 37,
       "lastDate": "2026-05-28T00:00:00.000Z"
-    },
-    {
-      "name": "Data Science ODS.ai (TG)",
-      "total": 39,
-      "translated": 29,
-      "lastDate": "2026-06-09T17:44:22+00:00"
     },
     {
       "name": "Slashdot.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-10T19:57:11.127Z"
+  "generatedAt": "2026-06-10T21:37:12.962Z"
 }
