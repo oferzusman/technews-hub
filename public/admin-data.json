@@ -1,9 +1,9 @@
 {
-  "total": 11083,
+  "total": 11096,
   "translated": 8824,
-  "untranslated": 2259,
-  "today": 27,
-  "week": 734,
+  "untranslated": 2272,
+  "today": 40,
+  "week": 747,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,13 +13,13 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 899,
+      "total": 902,
       "translated": 652,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 840,
+      "total": 841,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -49,13 +49,13 @@
     },
     {
       "name": "The Decoder",
-      "total": 470,
+      "total": 472,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 470,
+      "total": 471,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -73,9 +73,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 344,
+      "total": 345,
       "translated": 168,
-      "lastDate": "2026-06-10T08:17:25+00:00"
+      "lastDate": "2026-06-10T11:42:13+00:00"
     },
     {
       "name": "The Verge AI",
@@ -85,7 +85,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 288,
+      "total": 289,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -103,13 +103,13 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 266,
+      "total": 267,
       "translated": 119,
-      "lastDate": "2026-06-10T05:10:11+00:00"
+      "lastDate": "2026-06-10T10:50:27+00:00"
     },
     {
       "name": "MIT Technology Review",
-      "total": 169,
+      "total": 170,
       "translated": 135,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
@@ -133,7 +133,7 @@
     },
     {
       "name": "AI News",
-      "total": 109,
+      "total": 110,
       "translated": 81,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
@@ -169,9 +169,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 73,
+      "total": 74,
       "translated": 47,
-      "lastDate": "2026-06-09T21:01:08+00:00"
+      "lastDate": "2026-06-10T11:01:02+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-10T10:31:26.279Z"
+  "generatedAt": "2026-06-10T12:23:11.473Z"
 }
