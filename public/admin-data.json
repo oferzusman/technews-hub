@@ -1,9 +1,9 @@
 {
-  "total": 11145,
+  "total": 11149,
   "translated": 8824,
-  "untranslated": 2321,
-  "today": 89,
-  "week": 796,
+  "untranslated": 2325,
+  "today": 93,
+  "week": 800,
   "sources": [
     {
       "name": "Product Hunt",
@@ -37,21 +37,21 @@
     },
     {
       "name": "Ars Technica",
-      "total": 500,
+      "total": 501,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
+    },
+    {
+      "name": "The Decoder",
+      "total": 477,
+      "translated": 340,
+      "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "Pypi.org",
       "total": 477,
       "translated": 477,
       "lastDate": "2026-04-09T07:21:22Z"
-    },
-    {
-      "name": "The Decoder",
-      "total": 476,
-      "translated": 340,
-      "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "New Atlas",
@@ -73,9 +73,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 347,
+      "total": 348,
       "translated": 168,
-      "lastDate": "2026-06-10T18:25:20+00:00"
+      "lastDate": "2026-06-10T19:55:44+00:00"
     },
     {
       "name": "The Verge AI",
@@ -85,7 +85,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 289,
+      "total": 290,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-10T19:28:57.019Z"
+  "generatedAt": "2026-06-10T19:57:11.127Z"
 }
