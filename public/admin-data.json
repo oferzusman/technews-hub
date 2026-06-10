@@ -1,9 +1,9 @@
 {
-  "total": 11056,
+  "total": 11059,
   "translated": 8824,
-  "untranslated": 2232,
-  "today": 142,
-  "week": 864,
+  "untranslated": 2235,
+  "today": 3,
+  "week": 710,
   "sources": [
     {
       "name": "Product Hunt",
@@ -55,13 +55,13 @@
     },
     {
       "name": "New Atlas",
-      "total": 467,
+      "total": 468,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "The Guardian AI",
-      "total": 383,
+      "total": 384,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -79,9 +79,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 328,
+      "total": 329,
       "translated": 231,
-      "lastDate": "2026-06-09T21:00:00.000Z"
+      "lastDate": "2026-06-09T23:43:00.000Z"
     },
     {
       "name": "Futurism",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-09T23:41:07.971Z"
+  "generatedAt": "2026-06-10T00:21:54.104Z"
 }
