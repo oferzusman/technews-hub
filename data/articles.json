@@ -232354,7 +232354,7 @@
       "author": "Munis Raza",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T08:53:32.384Z",
       "created_at": "2026-06-10T08:53:32.384Z"
     },
@@ -232371,7 +232371,7 @@
       "author": "Sujita Sinha",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T08:53:32.384Z",
       "created_at": "2026-06-10T08:53:32.384Z"
     },
@@ -232505,7 +232505,7 @@
         "Uncategorized"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T10:22:41.413Z",
       "created_at": "2026-06-10T10:22:41.413Z"
     },
@@ -232571,6 +232571,36 @@
       "priority": "hot",
       "fetchedAt": "2026-06-10T10:22:44.310Z",
       "created_at": "2026-06-10T10:22:44.310Z"
+    },
+    {
+      "id": 11084,
+      "source": "MarkTechPost",
+      "title_en": "Top AI Coding Agents and Development Platforms in 2026: Atoms, Devin, Windsurf, Cursor, Warp, and More Compared",
+      "description_en": "Software development has changed. Engineers no longer type most code by hand. They describe intent, and AI agents do the work. Modern tools plan tasks, edit across files, run tests, and open pull requests. Many now ship to production with limited supervision. No single tool fits every need. This guide covers the AI coding agents […]\nThe post Top AI Coding Agents and Development Platforms in 2026: Atoms, Devin, Windsurf, Cursor, Warp, and More Compared appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/10/ai-coding-agents-development-platforms-2026/",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 10:24:17 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "AI Tools Club",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Top",
+        "Uncategorized"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T10:39:40.451Z",
+      "created_at": "2026-06-10T10:39:40.451Z"
     }
   ]
 }
