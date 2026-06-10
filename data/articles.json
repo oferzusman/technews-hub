@@ -232116,7 +232116,7 @@
         "Tutorials"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T04:57:29.025Z",
       "created_at": "2026-06-10T04:57:29.025Z"
     },
@@ -232150,7 +232150,7 @@
       "author": "Bronwyn Thompson",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T06:12:37.978Z",
       "created_at": "2026-06-10T06:12:37.978Z"
     },
@@ -232228,7 +232228,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T06:12:38.167Z",
       "created_at": "2026-06-10T06:12:38.167Z"
     },
@@ -232245,7 +232245,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T06:12:39.446Z",
       "created_at": "2026-06-10T06:12:39.446Z"
     },
@@ -232262,7 +232262,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T06:12:40.817Z",
       "created_at": "2026-06-10T06:12:40.817Z"
     },
@@ -232279,9 +232279,186 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T06:12:41.512Z",
       "created_at": "2026-06-10T06:12:41.512Z"
+    },
+    {
+      "id": 11070,
+      "source": "TechCrunch AI",
+      "title_en": "Meta signs first AI data center deal in India with Reliance",
+      "description_en": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 07:05:26 +0000",
+      "author": "Jagmeet Singh",
+      "categories": [
+        "AI",
+        "Meta",
+        "reliance",
+        "reliance industries"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T08:53:28.899Z",
+      "created_at": "2026-06-10T08:53:28.899Z"
+    },
+    {
+      "id": 11071,
+      "source": "The Guardian AI",
+      "title_en": "Do we really need gigantic, noisy, water-guzzling datacentres ruining our communities? In this economy? | First Dog on the Moon",
+      "description_en": "Excessive heat, pollution and making climate change worse just so you can ask the computer to draw a funny dancing cabbage\n\nSign up here to get an email whenever First Dog cartoons are published\n\nGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints\n\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/jun/10/do-we-really-need-gigantic-noisy-water-guzzling-datacentres-ruining-our-communities-in-this-economy",
+      "image_url": "https://i.guim.co.uk/img/media/ba295c76550a8c273735812120dbee01db1a0e41/0_0_786_629/master/786.jpg?width=140&quality=85&auto=format&fit=max&s=0430920e036362cfda1572a134cee4f3",
+      "pub_date": "Wed, 10 Jun 2026 06:31:59 GMT",
+      "author": "First Dog on the Moon",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Energy",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/energy-australia"
+          }
+        },
+        {
+          "_": "Fossil fuels",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/fossil-fuels"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-10T08:53:31.135Z",
+      "created_at": "2026-06-10T08:53:31.135Z"
+    },
+    {
+      "id": 11072,
+      "source": "Interesting Engineering",
+      "title_en": "The backyard battery revolution: Building giant grid storage out of plain iron water",
+      "description_en": "A process originally developed to decarbonize steel production may also function as a large-scale electrical...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/electrolysis-iron-ore-refining-all-iron-flow-batteries",
+      "image_url": "https://www.youtube.com/embed/eq7fR9ISuCw",
+      "pub_date": "Wed, 10 Jun 2026 08:28:42 +0000",
+      "author": "Munis Raza",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T08:53:32.384Z",
+      "created_at": "2026-06-10T08:53:32.384Z"
+    },
+    {
+      "id": 11073,
+      "source": "Interesting Engineering",
+      "title_en": "Video: X-59 goes supersonic with 713 mph flight, paves way for quiet high-speeding jets",
+      "description_en": "NASA’s experimental X-59 quiet supersonic aircraft hit a major milestone. During a test flight over...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/nasas-x-59-flies-supersonic",
+      "image_url": "https://www.youtube.com/embed/SEchvBOW0hc",
+      "pub_date": "Wed, 10 Jun 2026 08:22:57 +0000",
+      "author": "Sujita Sinha",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T08:53:32.384Z",
+      "created_at": "2026-06-10T08:53:32.384Z"
+    },
+    {
+      "id": 11074,
+      "source": "Product Hunt",
+      "title_en": "iArt.ai",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/iart-ai",
+      "image_url": null,
+      "pub_date": "2026-06-08T09:56:37.000Z",
+      "author": "Zac Zuo",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-10T08:53:34.072Z",
+      "created_at": "2026-06-10T08:53:34.072Z"
+    },
+    {
+      "id": 11075,
+      "source": "Product Hunt",
+      "title_en": "Gemini 3.5 Live Translate",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/gemini-3-5-live-translate",
+      "image_url": null,
+      "pub_date": "2026-06-09T18:59:25.000Z",
+      "author": "Ankit Sharma",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-10T08:53:34.072Z",
+      "created_at": "2026-06-10T08:53:34.072Z"
+    },
+    {
+      "id": 11076,
+      "source": "Product Hunt",
+      "title_en": "OLO Robotics",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/olo-robotics",
+      "image_url": null,
+      "pub_date": "2026-06-08T18:50:27.000Z",
+      "author": "Simon I'Anson",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-10T08:53:34.072Z",
+      "created_at": "2026-06-10T08:53:34.072Z"
+    },
+    {
+      "id": 11077,
+      "source": "Hi, AI English (TG)",
+      "title_en": "❓ IT Engineer Exempted from Using AI Due to Religious BeliefsAt the IT company where 34-year-old Erin Maus works, developers are required to use AI. But Erin is a follower of Unitarian Universalism, a",
+      "description_en": "❓ IT Engineer Exempted from Using AI Due to Religious BeliefsAt the IT company where 34-year-old Erin Maus works, developers are required to use AI. But Erin is a follower of Unitarian Universalism, a liberal religious group that encourages its adherents always to follow their ethical principles.Maus consulted with a lawyer and her local pastor, after which she asked her employer to exempt her from using AI. The company agreed: U.S. federal laws require such requests to be accommodated if they d",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2566",
+      "image_url": "https://cdn4.telesco.pe/file/iitCQptsGPzhjAfRgVr18SiKYvO44dmFodY6Cy_43DM2IMCHdi3oJP-p_1881SZF1yUs0Dpyew4M8znXkR_dhu4siBclXlMmCM8EXmoI7owxPF0rOADZVTXiUrqJFpeJf8QJomHuoYXSUECMtGKgr6_xrcv4QeYrgsy7FwwwSdNy-3rHTlNIGdVlofbhfq36VCqk9yvklE14E5RP15VmuxJCdTOQLF9ZIACQRfOnf3bEomTPNw6nS8wYyWskyrOqKP88VNoYvdZn5BhD4rBWVAl9GDtkpcnZML-kNXA5b0hjqJxbd1JpDb0pIPKM-xzte4FySL-Vc7TBq6tLJwIshA.jpg",
+      "pub_date": "2026-06-10T07:38:19+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T08:53:35.157Z",
+      "created_at": "2026-06-10T08:53:35.158Z"
+    },
+    {
+      "id": 11078,
+      "source": "AI Post (TG)",
+      "title_en": "SoftBank seeks loan against OpenAI shares, banks declineSoftBank recently approached banks to secure a $6 billion loan, offering its 13% stake in OpenAI as collateral.The banks rejected SoftBank’s req",
+      "description_en": "SoftBank seeks loan against OpenAI shares, banks declineSoftBank recently approached banks to secure a $6 billion loan, offering its 13% stake in OpenAI as collateral.The banks rejected SoftBank’s request, expressing doubts about OpenAI’s $852 billion valuation.No further details on the negotiations or the companies’ responses have been disclosed.📰 @aipost",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7177",
+      "image_url": "https://cdn4.telesco.pe/file/U6tH3P5RahgQrAYt7_XzyYBIynVpgod9jfJf2263rUD7FRxHYQyEf8ZBljWi628OGgTzzTsY1eDM3zwbdLlpMb70xcepufot-uqnikzV4tLbS1D9oSUjJj_tS4ZyyEc3lGT3z44CZ0FnBPx6mxJnC8mHJftyjHCqeAijLmcKIZK3Nm2z4sITEy11_g5DIjRW8o1hKfhSUjxfsEChdhqqr1Gv419o-m7N6g7RYwerdE0L6hXRI6ALrXEKSfzSJMz9d25Wg2nJqpQPXac7-JC2JupnXRa9yvAJtvTHIi4N03zjgp8LeOS4fDLrbd9dYhqI6EXWuIVyKY_ijPHYf7hm5w.jpg",
+      "pub_date": "2026-06-10T08:17:25+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T08:53:35.534Z",
+      "created_at": "2026-06-10T08:53:35.534Z"
     }
   ]
 }
