@@ -232661,7 +232661,7 @@
         "The Download"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T12:20:53.125Z",
       "created_at": "2026-06-10T12:20:53.125Z"
     },
@@ -232742,7 +232742,7 @@
         "Video Games"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T12:20:55.001Z",
       "created_at": "2026-06-10T12:20:55.001Z"
     },
@@ -232858,7 +232858,7 @@
         "Jedify"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T13:53:27.805Z",
       "created_at": "2026-06-10T13:53:27.805Z"
     },
@@ -232881,7 +232881,7 @@
         "world models"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T13:53:27.805Z",
       "created_at": "2026-06-10T13:53:27.805Z"
     },
@@ -232903,7 +232903,7 @@
         "Claude Fable 5"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T13:53:29.457Z",
       "created_at": "2026-06-10T13:53:29.457Z"
     },
@@ -232922,7 +232922,7 @@
         "Military"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T13:53:30.717Z",
       "created_at": "2026-06-10T13:53:30.717Z"
     },
@@ -232942,7 +232942,7 @@
         "Video Games"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T13:53:30.949Z",
       "created_at": "2026-06-10T13:53:30.949Z"
     },
@@ -232959,7 +232959,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T13:53:31.001Z",
       "created_at": "2026-06-10T13:53:31.001Z"
     },
@@ -232976,7 +232976,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T13:53:32.905Z",
       "created_at": "2026-06-10T13:53:32.905Z"
     },
@@ -232993,9 +232993,457 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T13:53:33.346Z",
       "created_at": "2026-06-10T13:53:33.346Z"
+    },
+    {
+      "id": 11105,
+      "source": "TechCrunch AI",
+      "title_en": "How memory tools can make AI models worse",
+      "description_en": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 16:11:08 +0000",
+      "author": "Russell Brandom",
+      "categories": [
+        "AI",
+        "TC",
+        "writer"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T16:53:40.995Z",
+      "created_at": "2026-06-10T16:53:40.995Z"
+    },
+    {
+      "id": 11106,
+      "source": "TechCrunch AI",
+      "title_en": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+      "description_en": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 15:41:22 +0000",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "categories": [
+        "AI",
+        "Security",
+        "ai safety",
+        "Anthropic",
+        "cybersecurity",
+        "fable",
+        "Mythos"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T16:53:40.996Z",
+      "created_at": "2026-06-10T16:53:40.996Z"
+    },
+    {
+      "id": 11107,
+      "source": "TechCrunch AI",
+      "title_en": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "description_en": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 15:00:00 +0000",
+      "author": "Julie Bort",
+      "categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "AI coding agents",
+        "ai coding assistant"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T16:53:40.996Z",
+      "created_at": "2026-06-10T16:53:40.996Z"
+    },
+    {
+      "id": 11108,
+      "source": "TechCrunch AI",
+      "title_en": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
+      "description_en": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 14:48:01 +0000",
+      "author": "Tim Fernholz",
+      "categories": [
+        "AI",
+        "Space",
+        "IPO",
+        "SpaceX",
+        "orbital data centers"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-10T16:53:40.996Z",
+      "created_at": "2026-06-10T16:53:40.996Z"
+    },
+    {
+      "id": 11109,
+      "source": "TechCrunch AI",
+      "title_en": "Warner Music acquires AI attribution startup Sureel AI",
+      "description_en": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 14:31:30 +0000",
+      "author": "Aisha Malik",
+      "categories": [
+        "AI",
+        "Media & Entertainment",
+        "Startups",
+        "AI startups",
+        "Mergers and Acquisitions",
+        "warner music"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-10T16:53:40.996Z",
+      "created_at": "2026-06-10T16:53:40.996Z"
+    },
+    {
+      "id": 11110,
+      "source": "Ars Technica",
+      "title_en": "Racist comments targeting politicians tripled since Meta relaxed its rules",
+      "description_en": "Violent threats against lawmakers have also surged on Facebook.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/06/racist-comments-targeting-politicians-tripled-since-meta-relaxed-its-rules/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/getty-meta-apps-1152x648.jpg",
+      "pub_date": "Wed, 10 Jun 2026 13:31:37 +0000",
+      "author": "\n                    David Gilbert, wired.com\n                ",
+      "categories": [
+        "Policy",
+        "CDDH",
+        "Facebook",
+        "free speech",
+        "meta",
+        "moderation",
+        "syndication"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-10T16:53:41.103Z",
+      "created_at": "2026-06-10T16:53:41.103Z"
+    },
+    {
+      "id": 11111,
+      "source": "Ars Technica",
+      "title_en": "GM Energy introduces V2G support and new energy storage battery chemistry",
+      "description_en": "There are more than a quarter of a million V2G-capable GM EVs on the roads already.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/cars/2026/06/gm-energy-introduces-v2g-support-and-new-energy-storage-battery-chemistry/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GM-Energy-home-energy-system-2-1152x648.png",
+      "pub_date": "Wed, 10 Jun 2026 13:13:33 +0000",
+      "author": "\n                    Roberto Baldwin\n                ",
+      "categories": [
+        "Cars",
+        "GM Energy",
+        "Peak Energy",
+        "sodium batteries",
+        "sodium-ion batteries",
+        "V2G"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-10T16:53:41.103Z",
+      "created_at": "2026-06-10T16:53:41.103Z"
+    },
+    {
+      "id": 11112,
+      "source": "The Decoder",
+      "title_en": "OpenAI wants its biggest data center yet, and Nvidia would back the bill",
+      "description_en": "OpenAI is negotiating to lease a planned 10-gigawatt data center in Ohio that could be financially backed by Nvidia, according to The Information.\nThe article OpenAI wants its biggest data center yet, and Nvidia would back the bill appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-wants-its-biggest-data-center-yet-and-nvidia-would-back-the-bill/",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 13:59:48 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-10T16:53:42.453Z",
+      "created_at": "2026-06-10T16:53:42.453Z"
+    },
+    {
+      "id": 11113,
+      "source": "The Guardian AI",
+      "title_en": "Florida lawsuit alleges wrongful arrest after police AI facial recognition error",
+      "description_en": "Robert Dillon was arrested at home in Florida despite living 300 miles away, and charges were later dropped\n\nSign up for the Breaking News US newsletter email\n\nA Florida man is suing several law enforcement agencies for his arrest and prosecution for allegedly luring a child after he was wrongly identified using faulty AI facial recognition software.\nAccording to the Jacksonville Beach police department, an algorithm returned a 93% probability that Robert Dillon was the man caught on security ca",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/2026/jun/10/florida-lawsuit-ai-facial-recognition",
+      "image_url": "https://i.guim.co.uk/img/media/898e4b6f40778f62f4cdd579b0089ff5df3fef86/612_1574_3618_2893/master/3618.jpg?width=140&quality=85&auto=format&fit=max&s=8c133d263810da65c9be982c245b5828",
+      "pub_date": "Wed, 10 Jun 2026 16:27:23 GMT",
+      "author": "Richard Luscombe in Miami",
+      "categories": [
+        {
+          "_": "Florida",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/florida"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Facial recognition",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/facial-recognition"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T16:53:43.367Z",
+      "created_at": "2026-06-10T16:53:43.367Z"
+    },
+    {
+      "id": 11114,
+      "source": "Interesting Engineering",
+      "title_en": "MIT’s ultrasound wristband could teach humanoid robots human hand skills",
+      "description_en": "Humanoid robots may soon gain more human-like dexterity thanks to a new wearable device developed...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/mit-ultrasound-wristband-humanoid-robots-human",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 16:41:04 +0000",
+      "author": "Jijo Malayil",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T16:53:43.710Z",
+      "created_at": "2026-06-10T16:53:43.710Z"
+    },
+    {
+      "id": 11115,
+      "source": "Interesting Engineering",
+      "title_en": "World’s largest dam to get giant water staircase to let 11,000-ton ships pass faster",
+      "description_en": "China has officially started construction on a massive new ship lock system at the Three...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/worlds-largest-dam-gets-giant-water-staircase",
+      "image_url": "https://www.youtube.com/embed/Jyrlmar501c",
+      "pub_date": "Wed, 10 Jun 2026 15:06:33 +0000",
+      "author": "Georgina Jedikovska",
+      "categories": [
+        "Transportation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T16:53:43.710Z",
+      "created_at": "2026-06-10T16:53:43.710Z"
+    },
+    {
+      "id": 11116,
+      "source": "Interesting Engineering",
+      "title_en": "World’s first: Rider-Bot sets record as first bike robot to perform unassisted front flip",
+      "description_en": "In a landmark achievement for robotics, a bicycle-riding robot has performed the world’s first unassisted...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/bike-robot-unassisted-front-flip-breakthrough",
+      "image_url": "https://www.youtube.com/embed/hQba8DDYquo",
+      "pub_date": "Wed, 10 Jun 2026 14:19:44 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-10T16:53:43.710Z",
+      "created_at": "2026-06-10T16:53:43.710Z"
+    },
+    {
+      "id": 11117,
+      "source": "Interesting Engineering",
+      "title_en": "Airbus unveils Ravenstorm drone wingman for combat mission alongside other UAVs",
+      "description_en": "European aerospace firm Airbus will unveil its latest drone wingman, the U760 Ravenstorm, at the...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/airbus-ravenstorm-drone-wingman",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 13:53:55 +0000",
+      "author": "Abhishek Bhardwaj",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-10T16:53:43.710Z",
+      "created_at": "2026-06-10T16:53:43.710Z"
+    },
+    {
+      "id": 11118,
+      "source": "Tom's Hardware",
+      "title_en": "AMD fires back at Nvidia, claiming 256-core Zen 6 'Venice' CPU beats Vera by 3.3x in rack-level performance — company shares first estimated EPYC Venice benchmarks",
+      "description_en": "AMD has shared the first official results for its 256-core EPYC Venice CPU, saying it beats Nvidia's Vera by 3.3x in a rack-level deployment.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-fires-back-at-nvidia-claiming-256-core-zen-6-venice-cpu-beats-vera-by-3-3x-in-rack-level-performance-company-shares-first-estimated-epyc-venice-benchmarks",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/5tTDkXrKL7AWc9XgiP6EjC-1280-80.jpg",
+      "pub_date": "Wed, 10 Jun 2026 16:00:29 +0000",
+      "author": " Jake Roach ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T16:53:44.107Z",
+      "created_at": "2026-06-10T16:53:44.107Z"
+    },
+    {
+      "id": 11119,
+      "source": "Tom's Hardware",
+      "title_en": "Google reportedly books Intel for packaging more than 3 million TPUs in 2028 — SK hynix is testing Intel's EMIB packaging for HBM integration",
+      "description_en": "Google has placed an order for Intel to build more than 3 million of its TPUs in 2028 after months of testing Intel's advanced packaging.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/google-reportedly-books-intel-for-more-than-3-million-tpus-in-2028",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/SJwcUNbmofFcDsiP5VBd6Y-1280-80.png",
+      "pub_date": "Wed, 10 Jun 2026 15:49:41 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T16:53:44.107Z",
+      "created_at": "2026-06-10T16:53:44.107Z"
+    },
+    {
+      "id": 11120,
+      "source": "Tom's Hardware",
+      "title_en": "Samsung Heavy Industries recruits Greek shipowner and Supermicro to bring 50MW floating AI data centers to market — can be powered by solid oxide fuel cells running on liquefied natural gas",
+      "description_en": "Besides Samsung Heavy, Japan’s MOL is also building a 73 MW floating data center with Karpowership for a 2027 deployment.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/samsung-heavy-industries-recruits-greek-shipowner-and-supermicro-to-bring-50mw-floating-ai-data-centers-to-market",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/6mthRvyFsvZ4EnjP2fNDsi-1280-80.png",
+      "pub_date": "Wed, 10 Jun 2026 14:42:30 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-10T16:53:44.107Z",
+      "created_at": "2026-06-10T16:53:44.107Z"
+    },
+    {
+      "id": 11121,
+      "source": "CNBC Tech",
+      "title_en": "Humaniod robotics company raises up to $1.4 billion from Nvidia, Amazon and others",
+      "description_en": "Investors have rushed to back companies in the physical AI space",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/10/neura-robotics-funding-ai-humanoid-robots.html",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 16:50:40 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T16:53:44.179Z",
+      "created_at": "2026-06-10T16:53:44.179Z"
+    },
+    {
+      "id": 11122,
+      "source": "CNBC Tech",
+      "title_en": "Palantir's Karp says businesses are 'unhappy' with the frontier AI labs",
+      "description_en": "Palantir CEO Alex Karp says AI will drive the most important political decisions in the U.S. and shouldn't be decided by party lines.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/10/palantir-karp-enterprise-ai.html",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 16:10:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T16:53:44.179Z",
+      "created_at": "2026-06-10T16:53:44.179Z"
+    },
+    {
+      "id": 11123,
+      "source": "CNBC Tech",
+      "title_en": "Autonomous EV freight trucking company Einride rises sharply in first trade on Nasdaq",
+      "description_en": "Self-driving freight truck technology company Einride rose significant in its first day of trading on the Nasdaq after a SPAC deal.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/10/einride-autonomous-freight-truck-first-trade-nasdaq-spac.html",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 16:49:49 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T16:53:44.180Z",
+      "created_at": "2026-06-10T16:53:44.180Z"
+    },
+    {
+      "id": 11124,
+      "source": "Hi, AI English (TG)",
+      "title_en": "✖️ New York Wants to Ban AI \"Friendships\" for KidsThe New York State Legislature passed a bill to restrict minors' access to most AI companion features. If signed by the governor, it would take effect",
+      "description_en": "✖️ New York Wants to Ban AI \"Friendships\" for KidsThe New York State Legislature passed a bill to restrict minors' access to most AI companion features. If signed by the governor, it would take effect on January 1, 2027.Under the proposed rules, companies would have to ensure that chatbots available to children:✅ Do not pretend to be real people; ✅ Do not express emotions; ✅ Do not suggest friendship or romantic relationships; ✅ Do not flatter users; ✅ Do not encourage risky behavior; ✅ Do not u",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2567",
+      "image_url": "https://cdn4.telesco.pe/file/AcOfbuMyzVnPqOo0Bu3VoCBP1IIHL1kkwrLMEtaactcIgqbIwo9wB3HPcqZ5j-8CkFbfQgLSUUAldb2AznXfeUbEiNMGmkzglMBvx9tH-nED3HJcYwrhbR5jGDHazZDOLxD-6u5n-jly_omagb73FtumSFGS6gYkeEl4dH1P6reTEzCatW_b3iJdAg2dGRg__a836kiL7u_LgYjexr14Eg_4tQsKMPHqRq_eozvlv6wQjQEEq2gqwacfkhpzeK2NlciCIjMEGHXSoOfJ1CVT2031unvAc-OEd0VxyoFkBJE_zhk6PsGI8m_l5kUpqS_uSkgkVePZOgcw1lGSBM4J4w.jpg",
+      "pub_date": "2026-06-10T15:31:44+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T16:53:45.764Z",
+      "created_at": "2026-06-10T16:53:45.764Z"
+    },
+    {
+      "id": 11125,
+      "source": "AI Post (TG)",
+      "title_en": "Me using Claude Fable 5 to clear my emails 🤣@aipost 🏴",
+      "description_en": "Me using Claude Fable 5 to clear my emails 🤣@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7180",
+      "image_url": null,
+      "pub_date": "2026-06-10T14:45:26+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-10T16:53:46.107Z",
+      "created_at": "2026-06-10T16:53:46.107Z"
     }
   ]
 }
