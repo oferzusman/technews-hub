@@ -232133,9 +232133,155 @@
       "author": "David Szondy",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T04:57:29.282Z",
       "created_at": "2026-06-10T04:57:29.282Z"
+    },
+    {
+      "id": 11065,
+      "source": "New Atlas",
+      "title_en": "New evidence shows menopause rewires the brain",
+      "description_en": "Every day in the US, an average of 6,000 women enter menopause.\nContinue Reading\nCategory: Aging Well, Wellness and Healthy Living, Body and Mind\nTags: University of Vermont, Menopause, Cognitive functioning, ADHD, Alzheimer's disease, Dementia, Women, Age-Related, Brain, neurons, Hormones, estrogen",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/aging/menopause-brain-connection/",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 04:52:33 GMT",
+      "author": "Bronwyn Thompson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T06:12:37.978Z",
+      "created_at": "2026-06-10T06:12:37.978Z"
+    },
+    {
+      "id": 11066,
+      "source": "The Guardian AI",
+      "title_en": "Chinese activist in UK told by X that abusive deepfakes do not breach rules",
+      "description_en": "Apple Peiqing Ni targeted by account portraying her as promiscuous drug addict after posting about Tiananmen Square\nA high-profile Chinese activist in the UK who was inundated with deepfake posts on X portraying her as a sexually promiscuous drug addict was told that the abuse did not breach the rules of Elon Musk’s platform.\nApple Peiqing Ni, the 27-year-old founder of the UK-based China Dissent Network, had been advised by UK police to complain to the US-headquartered platform after she was ta",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/10/chinese-activist-uk-apple-peiqing-ni-x-deepfakes",
+      "image_url": "https://i.guim.co.uk/img/media/cd12bf604ad00d1b7f1e30131a78a9ce8beb5e32/675_0_5906_4727/master/5906.jpg?width=140&quality=85&auto=format&fit=max&s=a462cb7f79e79569c919c63af5d29fcf",
+      "pub_date": "Wed, 10 Jun 2026 06:00:12 GMT",
+      "author": "Daniel Boffey Chief reporter",
+      "categories": [
+        {
+          "_": "X",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/twitter"
+          }
+        },
+        {
+          "_": "Deepfake",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/deepfake"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Tiananmen Square protests 1989",
+          "$": {
+            "domain": "https://www.theguardian.com/world/tiananmen-square-protests-1989"
+          }
+        },
+        {
+          "_": "China",
+          "$": {
+            "domain": "https://www.theguardian.com/world/china"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/media"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Internet",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/internet"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T06:12:38.167Z",
+      "created_at": "2026-06-10T06:12:38.167Z"
+    },
+    {
+      "id": 11067,
+      "source": "CNBC Tech",
+      "title_en": "Beijing escalating AI espionage to catch up with the U.S. on tech, cybersecurity firm says",
+      "description_en": "U.S. cybersecurity giant CrowdStrike said China-based entities made over half of state-sponsored cyberattacks on tech firms for artificial intelligence assets.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/10/crowdstrike-warns-of-increasing-chinese-ai-cyberattacks-on-us-tech.html",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 05:02:45 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T06:12:39.446Z",
+      "created_at": "2026-06-10T06:12:39.446Z"
+    },
+    {
+      "id": 11068,
+      "source": "XOR Journal (TG)",
+      "title_en": "Google и Kaggle проведут бесплатный 5-дневный интенсив для вайбкодеров!Интенсив стартует уже 15 июня, обещают: 🟢 Показать, как собирать безопасных агентов с памятью, скиллами и с доступом к внешним с",
+      "description_en": "Google и Kaggle проведут бесплатный 5-дневный интенсив для вайбкодеров!Интенсив стартует уже 15 июня, обещают: 🟢 Показать, как собирать безопасных агентов с памятью, скиллами и с доступом к внешним сервисам.🟢 Много практики, ежедневные задания и эфиры с инженерами Google. 🟢 Самое интересное — в финале участников ждёт соревнование Kaggriculture, где нужно будет собрать уже своего ИИ-агента для управления виртуальной фермой.В конце участникам выдадут сертификат. И да, это спокойно можно совмеща",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9497",
+      "image_url": "https://cdn4.telesco.pe/file/uijFL8ItC9MBQweENL9lqewX5y6XBIqoznQKAaUcMaHnp8jPg2cNuzDTbRBQcR-512M-t0C3eNcEsZTfLrj9eGUNbH_ITXTo1IzhoS7OKlz0EEZMXS8ytkN4uS48_vAMf9Tyfnl9ufoCgGL1ibzQ09rUYFtQiTnNhCEzuaG7xSdBNRWiMBcyPJLEMGRyoX0WzQO5yjdjt-8_PuhGdJ3GPHWG8XnNNUKXn4q-_DjbhDWTRfb6yDYI-njjdXVgEoT6JgYsFRCLVlfem860pH8ydXR4zF1lyavaRtNnDH5LAd130xNTAJZXHnW3Gn20hEtsjytWmVaGFaxyJSo2CNtarg.jpg",
+      "pub_date": "2026-06-10T05:10:11+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T06:12:40.817Z",
+      "created_at": "2026-06-10T06:12:40.817Z"
+    },
+    {
+      "id": 11069,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "❓ Разработчице разрешили не пользоваться ИИ из-за ее религииВ IT-компании, где работает Эрин Маус, разработчикам в обязательном порядке приказали использовать ИИ. Но Эрин — последовательница унитариан",
+      "description_en": "❓ Разработчице разрешили не пользоваться ИИ из-за ее религииВ IT-компании, где работает Эрин Маус, разработчикам в обязательном порядке приказали использовать ИИ. Но Эрин — последовательница унитарианского универсализма, либеральной религиозной группы, которая призывает адептов всегда следовать своим этическим принципам.Маус проконсультировалась с юристом и пастором своей общины, после чего попросила работодателя освободить ее от использования ИИ. Компания согласилась: законы США обязывают учиты",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3296",
+      "image_url": "https://cdn4.telesco.pe/file/cJkud-1IvLkXG98PJYJBZXbfwCMwVh6CgWgzR9pIfnJ5Ei4_s2U6aW6xTKldI8XQNaUkgatPp_zIBqB0fAwFk9sXtA3pUnvhIPb3cxG53JK3JjUVWDSzvR2_GlqzAnogEIdV42vnJLeUviZYpfB5Z2De9AYvTVEEl2LF50B1bPIKBfwRww8pA4ek-cwMNOgn-bTsWP1-hAIbCh_oFWq2muJbLQpP_YxXO_9soWdl1pjJj7pVVIOt1N4ruQWVlZ8k49na_WtfGtiHQ16pwwrx058psro29cWbVOzQs0ZaDBPvbXbFx-VRZQoC1Skb8a4zpjDE0lFftX2X_ow6DQoOqg.jpg",
+      "pub_date": "2026-06-10T06:10:24+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T06:12:41.512Z",
+      "created_at": "2026-06-10T06:12:41.512Z"
     }
   ]
 }
