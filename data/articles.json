@@ -231954,6 +231954,82 @@
       "priority": "hot",
       "fetchedAt": "2026-06-09T23:39:45.532Z",
       "created_at": "2026-06-09T23:39:45.532Z"
+    },
+    {
+      "id": 11057,
+      "source": "The Verge AI",
+      "title_en": "I tried Siri AI, and so far it actually works",
+      "description_en": "Siri, are you there?﻿\t\n\nParents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have good news for parents with iPhones - the new Siri can finally do this.\nAfter stumbling through its first launch of an AI-imbued Siri, Apple is trying again. The newly upgraded Siri AI can chat with you about what might be killing the roses in your yard, put together a shopping",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+      "image_url": null,
+      "pub_date": "2026-06-09T23:43:00.000Z",
+      "author": "Allison Johnson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T00:19:52.307Z",
+      "created_at": "2026-06-10T00:19:52.307Z"
+    },
+    {
+      "id": 11058,
+      "source": "New Atlas",
+      "title_en": "Studies link hay-fever medication with dementia. Here's what you should know.",
+      "description_en": "Eef Hogervorst, Loughborough University/ The Conversation\nContinue Reading\nCategory: Mental Health, Brain Health, Body and Mind\nTags: Dementia, Allergies, Medication, antihistamines",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/mental-health/hay-fever-medication-dementia/",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 23:46:22 GMT",
+      "author": "The Conversation",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T00:19:54.310Z",
+      "created_at": "2026-06-10T00:19:54.310Z"
+    },
+    {
+      "id": 11059,
+      "source": "The Guardian AI",
+      "title_en": "Seattle enacts year-long ban on new AI datacenters",
+      "description_en": "Home city of Amazon and Microsoft passes moratorium as backlash against energy-guzzling AI infrastructure grows\nSeattle has passed a year-long moratorium on the construction of new datacenters. The city council voted unanimously in favor of the temporary ban on Tuesday.\nA major tech hub whose metro area is home to Amazon and Microsoft, Seattle is the largest US city to have passed such a moratorium as the backlash against AI infrastructure grows across the country.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/2026/jun/09/seattle-ai-datacenters-ban",
+      "image_url": "https://i.guim.co.uk/img/media/d95014f829b570930b70e3b287ca806f253c67e4/492_0_3511_2811/master/3511.jpg?width=140&quality=85&auto=format&fit=max&s=5f8c8d366806fc43ce21cc17533b5d5e",
+      "pub_date": "Wed, 10 Jun 2026 00:15:54 GMT",
+      "author": "Adam Willems in Seattle",
+      "categories": [
+        {
+          "_": "Seattle",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/seattle"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T00:19:54.572Z",
+      "created_at": "2026-06-10T00:19:54.572Z"
     }
   ]
 }
