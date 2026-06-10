@@ -1,9 +1,9 @@
 {
-  "total": 11131,
+  "total": 11145,
   "translated": 8824,
-  "untranslated": 2307,
-  "today": 75,
-  "week": 782,
+  "untranslated": 2321,
+  "today": 89,
+  "week": 796,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 847,
+      "total": 849,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -37,7 +37,7 @@
     },
     {
       "name": "Ars Technica",
-      "total": 496,
+      "total": 500,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -49,13 +49,13 @@
     },
     {
       "name": "The Decoder",
-      "total": 474,
+      "total": 476,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 471,
+      "total": 472,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -73,15 +73,15 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 346,
+      "total": 347,
       "translated": 168,
-      "lastDate": "2026-06-10T14:45:26+00:00"
+      "lastDate": "2026-06-10T18:25:20+00:00"
     },
     {
       "name": "The Verge AI",
-      "total": 332,
+      "total": 335,
       "translated": 231,
-      "lastDate": "2026-06-10T17:20:36.000Z"
+      "lastDate": "2026-06-10T18:43:34.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -121,9 +121,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 144,
+      "total": 145,
       "translated": 68,
-      "lastDate": "2026-06-10T17:01:00+00:00"
+      "lastDate": "2026-06-10T18:41:00+00:00"
     },
     {
       "name": "Hi, AI Russian (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-10T17:33:57.259Z"
+  "generatedAt": "2026-06-10T19:12:27.444Z"
 }
