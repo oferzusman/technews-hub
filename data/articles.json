@@ -233458,7 +233458,7 @@
       "author": "Terrence O’Brien",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T17:32:29.672Z",
       "created_at": "2026-06-10T17:32:29.672Z"
     },
@@ -233571,7 +233571,7 @@
         "space"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T19:10:23.668Z",
       "created_at": "2026-06-10T19:10:23.668Z"
     },
@@ -233596,7 +233596,7 @@
         "misinformation"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T19:10:23.669Z",
       "created_at": "2026-06-10T19:10:23.669Z"
     },
@@ -233682,7 +233682,7 @@
       "author": "Mia Sato",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T19:10:23.711Z",
       "created_at": "2026-06-10T19:10:23.711Z"
     },
@@ -233699,7 +233699,7 @@
       "author": "Tina Nguyen",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T19:10:23.712Z",
       "created_at": "2026-06-10T19:10:23.712Z"
     },
@@ -233744,7 +233744,7 @@
         "Cybersecurity"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T19:10:26.537Z",
       "created_at": "2026-06-10T19:10:26.537Z"
     },
@@ -233836,6 +233836,103 @@
       "priority": "hot",
       "fetchedAt": "2026-06-10T19:10:31.658Z",
       "created_at": "2026-06-10T19:10:31.658Z"
+    },
+    {
+      "id": 11146,
+      "source": "Ars Technica",
+      "title_en": "Google's latest DiffusionGemma open AI model comes with a 4x speed boost",
+      "description_en": "Diffusion AI is most common in image generation, but it can make text outputs much faster.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/HeroVisual.width-2200.format-webp-1152x648.png",
+      "pub_date": "Wed, 10 Jun 2026 19:29:21 +0000",
+      "author": "\n                    Ryan Whitwam\n                ",
+      "categories": [
+        "AI",
+        "Google",
+        "Artificial Intelligence",
+        "generative ai",
+        "google"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T19:56:03.729Z",
+      "created_at": "2026-06-10T19:56:03.729Z"
+    },
+    {
+      "id": 11147,
+      "source": "The Decoder",
+      "title_en": "Google's new open model DiffusionGemma generates text from noise instead of word by word",
+      "description_en": "Google released DiffusionGemma, a 26-billion-parameter model that generates text not token by token but through diffusion, similar to how image AI turns noise into a picture. According to Nvidia, it hits about 1,000 tokens per second on a single H100 GPU, roughly four times faster than comparable autoregressive models. The speed comes at a cost, though. Output quality is lower, so Google is positioning it as an experimental tool for developers for now.\nThe article Google's new open model Diffusi",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/googles-new-open-model-diffusiongemma-generates-text-from-noise-instead-of-word-by-word/",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 19:20:46 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Diffusion",
+        "Gemma",
+        "Google",
+        "Google Deepmind"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T19:56:04.982Z",
+      "created_at": "2026-06-10T19:56:04.982Z"
+    },
+    {
+      "id": 11148,
+      "source": "MarkTechPost",
+      "title_en": "Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation",
+      "description_en": "DiffusionGemma is Google DeepMind's experimental 26B open model using text diffusion for up to 4x faster generation on GPUs.\nThe post Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-10-at-11.42.40-AM-1.png",
+      "pub_date": "Wed, 10 Jun 2026 18:50:51 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Uncategorized"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T19:56:05.115Z",
+      "created_at": "2026-06-10T19:56:05.115Z"
+    },
+    {
+      "id": 11149,
+      "source": "AI Post (TG)",
+      "title_en": "❗️The launch of Claude Fable 5 has triggered one of the biggest backlash waves the AI community has seen.Critics aren’t mainly upset about safety restrictions themselves, they’re upset that the model ",
+      "description_en": "❗️The launch of Claude Fable 5 has triggered one of the biggest backlash waves the AI community has seen.Critics aren’t mainly upset about safety restrictions themselves, they’re upset that the model reportedly becomes less capable for certain topics like AI research, biology, chemistry, and medical work without clearly telling users when it’s happening.Researchers, open-source advocates, and developers argue that:• Anthropic is concentrating power by allowing itself access to full capabilities ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7182",
+      "image_url": null,
+      "pub_date": "2026-06-10T19:55:44+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T19:56:12.895Z",
+      "created_at": "2026-06-10T19:56:12.895Z"
     }
   ]
 }
