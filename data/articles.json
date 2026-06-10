@@ -232598,7 +232598,7 @@
         "Uncategorized"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T10:39:40.451Z",
       "created_at": "2026-06-10T10:39:40.451Z"
     },
@@ -232620,7 +232620,7 @@
         "AI in germany"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T12:20:53.050Z",
       "created_at": "2026-06-10T12:20:53.050Z"
     },
@@ -232642,7 +232642,7 @@
         "NotebookLM"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T12:20:53.051Z",
       "created_at": "2026-06-10T12:20:53.051Z"
     },
@@ -232678,7 +232678,7 @@
       "author": "Monica J. White",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T12:20:53.927Z",
       "created_at": "2026-06-10T12:20:53.927Z"
     },
@@ -232703,7 +232703,7 @@
         "WWDC 2026"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T12:20:54.522Z",
       "created_at": "2026-06-10T12:20:54.522Z"
     },
@@ -232722,7 +232722,7 @@
         "AI and Robotics"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T12:20:54.741Z",
       "created_at": "2026-06-10T12:20:54.741Z"
     },
@@ -232763,7 +232763,7 @@
         "Manufacturing"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T12:20:55.001Z",
       "created_at": "2026-06-10T12:20:55.001Z"
     },
@@ -232783,7 +232783,7 @@
         "Desktops"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T12:20:55.001Z",
       "created_at": "2026-06-10T12:20:55.001Z"
     },
@@ -232800,7 +232800,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T12:20:57.008Z",
       "created_at": "2026-06-10T12:20:57.008Z"
     },
@@ -232817,7 +232817,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T12:20:57.630Z",
       "created_at": "2026-06-10T12:20:57.630Z"
     },
@@ -232834,9 +232834,168 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T12:20:57.644Z",
       "created_at": "2026-06-10T12:20:57.644Z"
+    },
+    {
+      "id": 11097,
+      "source": "TechCrunch AI",
+      "title_en": "Jedify raises $24M to help companies arm AI agents with context on their business",
+      "description_en": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 13:33:09 +0000",
+      "author": "Ram Iyer",
+      "categories": [
+        "AI",
+        "Enterprise",
+        "Fundraising",
+        "AI agents",
+        "context graphs",
+        "Jedify"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T13:53:27.805Z",
+      "created_at": "2026-06-10T13:53:27.805Z"
+    },
+    {
+      "id": 11098,
+      "source": "TechCrunch AI",
+      "title_en": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
+      "description_en": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 13:07:56 +0000",
+      "author": "Rebecca Bellan",
+      "categories": [
+        "AI",
+        "decart",
+        "Exclusive",
+        "oasis 3",
+        "world models"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T13:53:27.805Z",
+      "created_at": "2026-06-10T13:53:27.805Z"
+    },
+    {
+      "id": 11099,
+      "source": "The Decoder",
+      "title_en": "Claude Fable 5: The first Mythos model is powerful, expensive, and heavily filtered",
+      "description_en": "Anthropic has released Claude Fable 5, the first model in its new Mythos class. It leads nearly every benchmark, including SWE-bench Verified at 95 percent, but costs twice as much as Opus 4.8 at 10 or 50 dollars per million tokens. Strict safety filters block about nine percent of requests, and a new 30-day data retention policy applies even to zero-data-retention contracts.\nThe article Claude Fable 5: The first Mythos model is powerful, expensive, and heavily filtered appeared first on The Dec",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/claude-fable-5-the-first-mythos-model-is-powerful-expensive-and-heavily-filtered/",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 13:34:40 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Claude Fable 5"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T13:53:29.457Z",
+      "created_at": "2026-06-10T13:53:29.457Z"
+    },
+    {
+      "id": 11100,
+      "source": "Interesting Engineering",
+      "title_en": "French military bets on homegrown AI to safeguard security, reduce US tech dependence",
+      "description_en": "France is advancing plans to develop its own military artificial intelligence (AI) infrastructure, codenamed Arcadia,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/france-military-ai-palantir-rival",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 12:43:44 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T13:53:30.717Z",
+      "created_at": "2026-06-10T13:53:30.717Z"
+    },
+    {
+      "id": 11101,
+      "source": "Tom's Hardware",
+      "title_en": "Valve to discontinue physical Steam gift cards by the end of 2026 due to scammers — says nefarious actors continue to exploit them despite years of restrictions",
+      "description_en": "Physical Steam gift cards will no longer be restocked at retail stores, though digital gifting options and existing cards will remain supported.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/valve-to-discontinue-physical-steam-gift-cards-by-the-end-of-2026-due-to-scammers-says-nefarious-actors-continue-to-exploit-them-despite-years-of-restrictions",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/E3Mja6SBWGnzv8TDKPZAgF-1280-80.jpg",
+      "pub_date": "Wed, 10 Jun 2026 13:20:50 +0000",
+      "author": " Kunal Khullar ",
+      "categories": [
+        "PC Gaming",
+        "Video Games"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T13:53:30.949Z",
+      "created_at": "2026-06-10T13:53:30.949Z"
+    },
+    {
+      "id": 11102,
+      "source": "CNBC Tech",
+      "title_en": "AI will help young workers 'mature' faster by automating grunt work, Thoma Bravo says, amid youth job crisis",
+      "description_en": "\"If you look at our associates, they're spending a lot less time doing models or comparables than before,\" Orlando Bravo, founder of Thoma Bravo, told CNBC.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/10/ai-youth-uneployment-automation-thoma-bravo.html",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 12:40:57 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T13:53:31.001Z",
+      "created_at": "2026-06-10T13:53:31.001Z"
+    },
+    {
+      "id": 11103,
+      "source": "XOR Journal (TG)",
+      "title_en": "Айтишники, берем на заметку лайфхак по поиску работы 🤣@xor_journal",
+      "description_en": "Айтишники, берем на заметку лайфхак по поиску работы 🤣@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9499",
+      "image_url": "https://cdn4.telesco.pe/file/rS_K6cMCcYxkjsTu6Ks-avRuVxM94GKfuzIxIs-4xzIw-b_HwfdA8vlB3kwOICq8sMaPaoT6qbhWmdrYOJ3b0K3J_6MiiVP3FGTyLVfpBcPyOgTWQZro92CWv0dSsVqFudqhNmK7krKl58BlQnsbk_MUvheuYy1uEJQIPSfXpApSybw14iVEM9Ifh82Owb2ZHCtYJAckvpcFKp0rjH_mNE2mYa4pEEFm-MfVqwEILZE97-CRHEFLphmU37SMfa6FlTZIuYR7t7iN4TJkl9XZOIOEI2eGgrQ7PgWczs0ryKp-CjhXlnboLNNGWN5MXWAFKga7g-YXZav1N69Q7XOyYg.jpg",
+      "pub_date": "2026-06-10T13:25:33+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T13:53:32.905Z",
+      "created_at": "2026-06-10T13:53:32.905Z"
+    },
+    {
+      "id": 11104,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "✖️ В Нью-Йорке детям запретят «дружить» с ИИ-ботамиЗаконодательное собрание штата запретило предоставлять доступ детям к большинству функций ИИ-компаньонов. Если губернатор подпишет закон, новые прави",
+      "description_en": "✖️ В Нью-Йорке детям запретят «дружить» с ИИ-ботамиЗаконодательное собрание штата запретило предоставлять доступ детям к большинству функций ИИ-компаньонов. Если губернатор подпишет закон, новые правила начнут действовать с 1 января 2027 года. Компании должны будут следить, чтобы доступный несовершеннолетним бот:✅ Не вел себя как реальный человек;✅ Не демонстрировал эмоций;✅ Не намекал на дружбу или романтические отношения;✅ Не льстил пользователям;✅ Не поощрял опасные действия;✅ Не призывал к с",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3304",
+      "image_url": "https://cdn4.telesco.pe/file/BSTznaDWG1qO47ZQefIuSxY_16zvDxQNzFmxWvhSmy4n7YflSvM7cVKo409EJcdGFhKJgubXPYPEeqe6ri6GurKQTp_s87abGo9IN2hCIhMeAwUfO6Yb4c_w01y41gL7b_iosXqPUiSu1qT1u9z5R2vOAfUkLiOrfN3X3Us0IrE__Q3hEwUyT5yCzMoMlQ2TW1fuliWSl5u7uLk2H2A6gGrh63WlPDrV5lAgpQV1JzZ7YLjI9t5VHINLIbBXkJVjy9RcTKqFYRegZic0eGBRCF1Caep9A2N65IkTLFsfljdEwHmyHf02jzGs0XB-YNj68YpuR0WKpmewvglcpPPzCw.jpg",
+      "pub_date": "2026-06-10T13:05:58+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T13:53:33.346Z",
+      "created_at": "2026-06-10T13:53:33.346Z"
     }
   ]
 }
