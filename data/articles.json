@@ -231857,7 +231857,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T22:57:57.612Z",
       "created_at": "2026-06-09T22:57:57.612Z"
     },
@@ -231874,7 +231874,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T22:57:58.505Z",
       "created_at": "2026-06-09T22:57:58.505Z"
     },
@@ -231891,7 +231891,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T22:57:58.505Z",
       "created_at": "2026-06-09T22:57:58.505Z"
     },
@@ -231908,7 +231908,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T22:57:58.505Z",
       "created_at": "2026-06-09T22:57:58.505Z"
     },
@@ -231925,7 +231925,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T22:58:03.778Z",
       "created_at": "2026-06-09T22:58:03.778Z"
     },
@@ -231951,7 +231951,7 @@
         "SPV"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-09T23:39:45.532Z",
       "created_at": "2026-06-09T23:39:45.532Z"
     },
@@ -231968,7 +231968,7 @@
       "author": "Allison Johnson",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T00:19:52.307Z",
       "created_at": "2026-06-10T00:19:52.307Z"
     },
@@ -231985,7 +231985,7 @@
       "author": "The Conversation",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T00:19:54.310Z",
       "created_at": "2026-06-10T00:19:54.310Z"
     },
@@ -232030,6 +232030,70 @@
       "priority": "hot",
       "fetchedAt": "2026-06-10T00:19:54.572Z",
       "created_at": "2026-06-10T00:19:54.572Z"
+    },
+    {
+      "id": 11060,
+      "source": "TechCrunch AI",
+      "title_en": "Google just fired a warning shot in the AI subscription price wars",
+      "description_en": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 00:26:10 +0000",
+      "author": "Lucas Ropek, Connie Loizos",
+      "categories": [
+        "AI",
+        "google ai",
+        "Google AI Plus"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T01:51:10.633Z",
+      "created_at": "2026-06-10T01:51:10.633Z"
+    },
+    {
+      "id": 11061,
+      "source": "TechCrunch AI",
+      "title_en": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+      "description_en": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+      "image_url": null,
+      "pub_date": "Tue, 09 Jun 2026 23:17:51 +0000",
+      "author": "Marina Temkin",
+      "categories": [
+        "AI",
+        "Fundraising",
+        "Venture",
+        "anduril",
+        "Anthropic",
+        "playground global",
+        "SpaceX",
+        "SPV"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-10T01:51:10.633Z",
+      "created_at": "2026-06-10T01:51:10.633Z"
+    },
+    {
+      "id": 11062,
+      "source": "AI Post (TG)",
+      "title_en": "🚀 SpaceX unveiled its AI1 satellite, the first generation of its AI satellite.Overall Specs:• 150 kW peak compute payload• 120 kW average compute payload• 70 kW per ton• Compute provider interchangea",
+      "description_en": "🚀 SpaceX unveiled its AI1 satellite, the first generation of its AI satellite.Overall Specs:• 150 kW peak compute payload• 120 kW average compute payload• 70 kW per ton• Compute provider interchangeableDimensions:• Wingspan: 70 meters• Deployed height: 20 metersThermal System:• 110 m² deployable liquid radiator• Redundant pumping loops• Integrated micrometeoroid shielding• Deployable liquid radiatorsSolar Power System:• 150 kW solar array• 250 W/m²• SpaceX-manufactured solar technology from Bas",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7176",
+      "image_url": null,
+      "pub_date": "2026-06-10T01:33:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T01:51:20.279Z",
+      "created_at": "2026-06-10T01:51:20.279Z"
     }
   ]
 }
