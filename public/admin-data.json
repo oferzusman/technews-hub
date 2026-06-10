@@ -1,9 +1,9 @@
 {
-  "total": 11161,
+  "total": 11168,
   "translated": 8824,
-  "untranslated": 2337,
-  "today": 105,
-  "week": 812,
+  "untranslated": 2344,
+  "today": 112,
+  "week": 819,
   "sources": [
     {
       "name": "Product Hunt",
@@ -25,13 +25,13 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 635,
+      "total": 636,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 566,
+      "total": 567,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 472,
+      "total": 474,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -67,7 +67,7 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 371,
+      "total": 373,
       "translated": 334,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
@@ -85,7 +85,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 290,
+      "total": 291,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-10T22:03:57.421Z"
+  "generatedAt": "2026-06-10T23:16:36.685Z"
 }
