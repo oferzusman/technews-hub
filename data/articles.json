@@ -232027,7 +232027,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T00:19:54.572Z",
       "created_at": "2026-06-10T00:19:54.572Z"
     },
@@ -232048,7 +232048,7 @@
         "Google AI Plus"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T01:51:10.633Z",
       "created_at": "2026-06-10T01:51:10.633Z"
     },
@@ -232091,9 +232091,51 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T01:51:20.279Z",
       "created_at": "2026-06-10T01:51:20.279Z"
+    },
+    {
+      "id": 11063,
+      "source": "MarkTechPost",
+      "title_en": "Building a Code Dataset Pipeline from NVIDIA Nemotron-Pretraining-Code-v3 Metadata with Streaming, Pandas, and tiktoken",
+      "description_en": "In this tutorial, we work with NVIDIA's Nemotron-Pretraining-Code-v3 dataset as a large-scale metadata index for code pretraining research. We stream the dataset instead of downloading it, inspect its schema, and build a manageable sample. We analyze languages, file extensions, repository frequency, and directory depth to understand the index structure. We then reconstruct raw GitHub URLs, fetch real source files, and estimate the token scale of the fetched code.\nThe post Building a Code Dataset",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/09/building-a-code-dataset-pipeline-from-nvidia-nemotron-pretraining-code-v3-metadata-with-streaming-pandas-and-tiktoken/",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 04:52:33 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Artificial Intelligence",
+        "Big Data",
+        "Data Science",
+        "Editors Pick",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T04:57:29.025Z",
+      "created_at": "2026-06-10T04:57:29.025Z"
+    },
+    {
+      "id": 11064,
+      "source": "New Atlas",
+      "title_en": "Historic drone rescue of Apache crew points to future of recovery missions",
+      "description_en": "In a historic first, two US Army crew members from an AH-64 Apache helicopter forced down near the coast of Oman were rescued within two hours by a US Navy Saronic Corsair drone boat operated by the 5th Fleet's Task Force 59.\nContinue Reading\nCategory: Military, Engineering\nTags: US Army, US Navy, Autonomous Vehicles",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/military/historic-drone-rescue-apache-helicopter-crew/",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 04:04:43 GMT",
+      "author": "David Szondy",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T04:57:29.282Z",
+      "created_at": "2026-06-10T04:57:29.282Z"
     }
   ]
 }
