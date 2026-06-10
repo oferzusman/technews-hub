@@ -233062,7 +233062,7 @@
         "ai coding assistant"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T16:53:40.996Z",
       "created_at": "2026-06-10T16:53:40.996Z"
     },
@@ -233260,7 +233260,7 @@
         "Transportation"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T16:53:43.710Z",
       "created_at": "2026-06-10T16:53:43.710Z"
     },
@@ -233424,7 +233424,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T16:53:45.764Z",
       "created_at": "2026-06-10T16:53:45.764Z"
     },
@@ -233444,6 +233444,115 @@
       "priority": "batch",
       "fetchedAt": "2026-06-10T16:53:46.107Z",
       "created_at": "2026-06-10T16:53:46.107Z"
+    },
+    {
+      "id": 11126,
+      "source": "The Verge AI",
+      "title_en": "Google won’t just admit it’s feeding YouTube creators to its music AI",
+      "description_en": "A group of independent musicians is suing Google claiming it trained Lyria on their uploads. | Image: Cath Virginia / The Verge\t\n\nIf you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. \nA group of independent musicians is suing Google, claiming that it illegally used songs they uploaded to YouTube to train its Lyria 3 model. Google has filed a motion to dismiss the case, saying:\nTheir lawsuit",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
+      "image_url": null,
+      "pub_date": "2026-06-10T17:20:36.000Z",
+      "author": "Terrence O’Brien",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T17:32:29.672Z",
+      "created_at": "2026-06-10T17:32:29.672Z"
+    },
+    {
+      "id": 11127,
+      "source": "The Verge AI",
+      "title_en": "Microsoft restricts Claude Fable for employees over data retention concerns",
+      "description_en": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. \nWhile Microsoft quickly rolled out Claude Fable 5 to its GitHub Copilot and Foundry customers, I'm told the model isn't available in the model picker that Microsoft employees use for internal versions of GitHub Copilot. All other Cl",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+      "image_url": null,
+      "pub_date": "2026-06-10T16:50:23.000Z",
+      "author": "Tom Warren",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T17:32:29.673Z",
+      "created_at": "2026-06-10T17:32:29.673Z"
+    },
+    {
+      "id": 11128,
+      "source": "The Verge AI",
+      "title_en": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
+      "description_en": "Google is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Search Services History\" setting.\nThat includes the images you search for with Google Lens, recordings from its real-time Search Live tool, voice searches, and phrases spoken into Translate, according to an update on the company's website. You can switch off the Search Services History setting and disab",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
+      "image_url": null,
+      "pub_date": "2026-06-10T16:18:45.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T17:32:29.673Z",
+      "created_at": "2026-06-10T17:32:29.673Z"
+    },
+    {
+      "id": 11129,
+      "source": "TechCrunch AI",
+      "title_en": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+      "description_en": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 17:07:35 +0000",
+      "author": "Rebecca Bellan",
+      "categories": [
+        "AI",
+        "ai tokens",
+        "Ramp",
+        "ramp ai index"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T17:32:29.698Z",
+      "created_at": "2026-06-10T17:32:29.698Z"
+    },
+    {
+      "id": 11130,
+      "source": "Interesting Engineering",
+      "title_en": "US firm makes history with first flight of electric aircraft using solid-state batteries",
+      "description_en": "Helios Horizon, a Florida-based nonprofit, has completed what it claims is the first piloted flight...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/us-flies-electric-plane-solid-state-batteries",
+      "image_url": "https://www.youtube.com/embed/271vqM45IEg",
+      "pub_date": "Wed, 10 Jun 2026 17:01:24 +0000",
+      "author": "Chris Young",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T17:32:32.231Z",
+      "created_at": "2026-06-10T17:32:32.231Z"
+    },
+    {
+      "id": 11131,
+      "source": "Backdoor (TG)",
+      "title_en": "Даркнет захлестнул интерес к использованию ИИ в хакерских атаках — всплески активности обычно совпадают с выходом крупных публичных ИИ-моделей. В 2025 году такими релизами стали, например, Claude Opus",
+      "description_en": "Даркнет захлестнул интерес к использованию ИИ в хакерских атаках — всплески активности обычно совпадают с выходом крупных публичных ИИ-моделей. В 2025 году такими релизами стали, например, Claude Opus 4.5, DeepSeek-V3.2 и GPT-5.2.Спецы из BI.ZONE прошерстили форумы в даркнете и выяснили, что хакеры говорят про ИИ и для каких задач используют его сегодня. Результаты собрали в исследовании Threat Zone 2026: Dark AI.Почитать можно здесь.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29106",
+      "image_url": "https://cdn4.telesco.pe/file/VrxzzGXX3o8FXhyxsc-OF2EFOhAJlhqdR00D2kTckYmF3vwhHB_s6VoYpmHb2sG_9yWJUe6D5aSbjRo-rJCjYhFQPRx95aJPlc0SvKsL-JEYyZwOd3OKKD0m66P9d2FtQCaWg-Ftfwkg_Sqv0Tji_izvHM6GjgdvLO98xQmT9A8EZLD3Ptt_iQTUoyt1D7XmVUBSvlloVLpSNh3dLko9-6QdwiA_WK9zuU0QsfL9dTzJt0N4JW7o8XG4HfACywaSy1AXs_EZ8LvQ54H3D42vBR-FTZfkcOlCRbffyz9lcnhihdqriMu28-bg-bq8-L_x3T7JWkI1s5kR1tmqOJWrMA.jpg",
+      "pub_date": "2026-06-10T17:01:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-10T17:32:34.269Z",
+      "created_at": "2026-06-10T17:32:34.269Z"
     }
   ]
 }
