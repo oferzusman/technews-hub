@@ -1,9 +1,9 @@
 {
-  "total": 11104,
+  "total": 11125,
   "translated": 8824,
-  "untranslated": 2280,
-  "today": 48,
-  "week": 755,
+  "untranslated": 2301,
+  "today": 69,
+  "week": 776,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,31 +13,31 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 903,
+      "total": 906,
       "translated": 652,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 842,
+      "total": 846,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 631,
+      "total": 634,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 559,
+      "total": 564,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "Ars Technica",
-      "total": 494,
+      "total": 496,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -49,7 +49,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 473,
+      "total": 474,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -61,7 +61,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 386,
+      "total": 387,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -73,9 +73,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 345,
+      "total": 346,
       "translated": 168,
-      "lastDate": "2026-06-10T11:42:13+00:00"
+      "lastDate": "2026-06-10T14:45:26+00:00"
     },
     {
       "name": "The Verge AI",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 83,
+      "total": 84,
       "translated": 49,
-      "lastDate": "2026-06-10T07:38:19+00:00"
+      "lastDate": "2026-06-10T15:31:44+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-10T14:00:47.822Z"
+  "generatedAt": "2026-06-10T16:56:47.541Z"
 }
