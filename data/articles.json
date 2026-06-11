@@ -235662,7 +235662,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T14:53:05.829Z",
       "created_at": "2026-06-11T14:53:05.829Z"
     },
@@ -235949,7 +235949,7 @@
         "XBox"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T15:22:19.701Z",
       "created_at": "2026-06-11T15:22:19.701Z"
     },
@@ -235969,6 +235969,147 @@
       "priority": "hot",
       "fetchedAt": "2026-06-11T15:22:24.112Z",
       "created_at": "2026-06-11T15:22:24.112Z"
+    },
+    {
+      "id": 11248,
+      "source": "TechCrunch AI",
+      "title_en": "Pool’s new app turns your screenshots into something useful",
+      "description_en": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 15:30:00 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "TC",
+        "AI",
+        "Apps",
+        "pool",
+        "ai apps",
+        "consumer AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T16:00:35.336Z",
+      "created_at": "2026-06-11T16:00:35.336Z"
+    },
+    {
+      "id": 11249,
+      "source": "The Decoder",
+      "title_en": "OpenAI vs. Anthropic: A price war over API tokens is brewing",
+      "description_en": "OpenAI is weighing token price cuts to win customers from Anthropic, the Wall Street Journal reports.\nThe article OpenAI vs. Anthropic: A price war over API tokens is brewing appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-vs-anthropic-a-price-war-over-api-tokens-is-brewing/",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 15:28:50 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T16:00:36.729Z",
+      "created_at": "2026-06-11T16:00:36.729Z"
+    },
+    {
+      "id": 11250,
+      "source": "The Guardian AI",
+      "title_en": "Musk’s xAI fired engineer for raising concerns about Grok chatbot, lawsuit claims",
+      "description_en": "Former xAI engineer Devin Kim alleges he was illegally fired for trying to implement safety mechanisms for the chatbot\nA former engineer at Elon Musk’s xAI who now heads a thinktank focused on AI safety filed a lawsuit claiming he was fired from the SpaceX subsidiary for raising concerns about the risks artificial intelligence poses to humanity.\nDevin Kim claims in the lawsuit filed in California state court on Tuesday that his efforts to place guardrails on the development of the chatbot Grok m",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/11/elon-musk-engineer-fired-grok-lawsuit",
+      "image_url": "https://i.guim.co.uk/img/media/45cdc89f89fba290a175f28fb25397be28c86655/333_0_6882_5504/master/6882.jpg?width=140&quality=85&auto=format&fit=max&s=110ab22ae013a924fdd79aee67597db5",
+      "pub_date": "Thu, 11 Jun 2026 15:47:10 GMT",
+      "author": "Guardian staff and agency",
+      "categories": [
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "West Coast",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/west-coast"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "SpaceX",
+          "$": {
+            "domain": "https://www.theguardian.com/science/spacex"
+          }
+        },
+        {
+          "_": "California",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/california"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T16:00:37.565Z",
+      "created_at": "2026-06-11T16:00:37.565Z"
+    },
+    {
+      "id": 11251,
+      "source": "CNBC Tech",
+      "title_en": "Oracle shares tumble 11% on increased capital raise, cash concerns",
+      "description_en": "Oracle beat on earnings and revenue, but negative free cash flow and the company's plan to raise more capital is weighing on the stock.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/11/oracle-shares-tumble-11percent-on-increased-capital-raise-cash-concerns.html",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 15:32:25 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T16:00:41.190Z",
+      "created_at": "2026-06-11T16:00:41.190Z"
+    },
+    {
+      "id": 11252,
+      "source": "XOR Journal (TG)",
+      "title_en": "Чей вайбкод Saas-проект сбежал? 🤭@xor_journal",
+      "description_en": "Чей вайбкод Saas-проект сбежал? 🤭@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9508",
+      "image_url": null,
+      "pub_date": "2026-06-11T15:46:23+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T16:00:46.751Z",
+      "created_at": "2026-06-11T16:00:46.751Z"
     }
   ]
 }
