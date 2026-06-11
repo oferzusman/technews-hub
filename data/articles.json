@@ -235524,7 +235524,7 @@
         "AI chatbot"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T14:53:02.989Z",
       "created_at": "2026-06-11T14:53:02.989Z"
     },
@@ -235681,7 +235681,7 @@
         "Energy"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T14:53:06.623Z",
       "created_at": "2026-06-11T14:53:06.623Z"
     },
@@ -235720,7 +235720,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T14:53:06.713Z",
       "created_at": "2026-06-11T14:53:06.713Z"
     },
@@ -235737,7 +235737,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T14:53:06.817Z",
       "created_at": "2026-06-11T14:53:06.817Z"
     },
@@ -235771,7 +235771,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T14:53:06.817Z",
       "created_at": "2026-06-11T14:53:06.817Z"
     },
@@ -235822,7 +235822,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T14:53:06.817Z",
       "created_at": "2026-06-11T14:53:06.817Z"
     },
@@ -235856,7 +235856,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T14:53:08.010Z",
       "created_at": "2026-06-11T14:53:08.010Z"
     },
@@ -235890,7 +235890,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T14:53:09.022Z",
       "created_at": "2026-06-11T14:53:09.022Z"
     },
@@ -235907,7 +235907,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T14:53:09.402Z",
       "created_at": "2026-06-11T14:53:09.402Z"
     },
@@ -235924,7 +235924,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T14:53:09.465Z",
       "created_at": "2026-06-11T14:53:09.465Z"
     },
@@ -235966,7 +235966,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T15:22:24.112Z",
       "created_at": "2026-06-11T15:22:24.112Z"
     },
@@ -235990,7 +235990,7 @@
         "consumer AI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T16:00:35.336Z",
       "created_at": "2026-06-11T16:00:35.336Z"
     },
@@ -236013,7 +236013,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T16:00:36.729Z",
       "created_at": "2026-06-11T16:00:36.729Z"
     },
@@ -236073,7 +236073,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T16:00:37.565Z",
       "created_at": "2026-06-11T16:00:37.565Z"
     },
@@ -236090,7 +236090,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T16:00:41.190Z",
       "created_at": "2026-06-11T16:00:41.190Z"
     },
@@ -236107,9 +236107,388 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T16:00:46.751Z",
       "created_at": "2026-06-11T16:00:46.751Z"
+    },
+    {
+      "id": 11253,
+      "source": "The Verge AI",
+      "title_en": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
+      "description_en": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water consumption and energy use a focus of new AI data center construction debates, Amazon says its global data center operations consumed 2.5 billion gallons of water in 2025 at a rate of 0.12 liters per kilowatt-hour of electricity, dropping by two percent from its 2024 total even as i",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+      "image_url": null,
+      "pub_date": "2026-06-11T17:26:57.000Z",
+      "author": "Stevie Bonifield",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T18:00:55.103Z",
+      "created_at": "2026-06-11T18:00:55.103Z"
+    },
+    {
+      "id": 11254,
+      "source": "TechCrunch AI",
+      "title_en": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+      "description_en": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 16:36:20 +0000",
+      "author": "Lauren Forristal",
+      "categories": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "ai music",
+        "Deezer",
+        "Generative AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T18:00:55.112Z",
+      "created_at": "2026-06-11T18:00:55.112Z"
+    },
+    {
+      "id": 11255,
+      "source": "Ars Technica",
+      "title_en": "Did Iron Age Britons remove brains of the dead?",
+      "description_en": "Archaeologists found apparent scrape marks inside a skull; long bones may have been sharpened into tools.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/science/2026/06/did-iron-age-britons-remove-brains-of-the-dead/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/brain1-1152x648.jpg",
+      "pub_date": "Thu, 11 Jun 2026 17:21:53 +0000",
+      "author": "\n                    Jennifer Ouellette\n                ",
+      "categories": [
+        "Science",
+        "Archaeology",
+        "forensic archaeology",
+        "funerary rites",
+        "iron age"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T18:00:55.130Z",
+      "created_at": "2026-06-11T18:00:55.130Z"
+    },
+    {
+      "id": 11256,
+      "source": "The Decoder",
+      "title_en": "Jeff Bezos' AI startup Prometheus closes $12 billion round at a $41 billion valuation",
+      "description_en": "Jeff Bezos' AI startup Prometheus has closed a $12 billion funding round at a $41 billion valuation. The company launched just last November with $6.2 billion in seed funding. No products yet, because Bezos says sharing details would be \"premature.\"\nThe article Jeff Bezos' AI startup Prometheus closes $12 billion round at a $41 billion valuation appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/jeff-bezos-ai-startup-prometheus-closes-12-billion-round-at-a-41-billion-valuation/",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 16:24:20 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Jeff Bezos",
+        "Project Prometheus",
+        "Prometheus"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T18:00:56.632Z",
+      "created_at": "2026-06-11T18:00:56.632Z"
+    },
+    {
+      "id": 11257,
+      "source": "The Decoder",
+      "title_en": "Free Deezer tool lets users on any streaming service check their playlists for AI music",
+      "description_en": "Deezer now offers a free AI music detector that lets users on any major streaming platform check whether AI-generated songs are hiding in their playlists.\nThe article Free Deezer tool lets users on any streaming service check their playlists for AI music appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/free-deezer-tool-lets-users-on-any-streaming-service-check-their-playlists-for-ai-music/",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 16:14:22 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and music",
+        "Deezer"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T18:00:56.632Z",
+      "created_at": "2026-06-11T18:00:56.632Z"
+    },
+    {
+      "id": 11258,
+      "source": "OpenAI Blog",
+      "title_en": "OpenAI to acquire Ona",
+      "description_en": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/openai-to-acquire-ona",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Company"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-11T18:00:57.147Z",
+      "created_at": "2026-06-11T18:00:57.147Z"
+    },
+    {
+      "id": 11259,
+      "source": "OpenAI Blog",
+      "title_en": "BBVA puts AI at the core of banking with OpenAI",
+      "description_en": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/bbva",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-11T18:00:57.148Z",
+      "created_at": "2026-06-11T18:00:57.148Z"
+    },
+    {
+      "id": 11260,
+      "source": "The Guardian AI",
+      "title_en": "Canadian mother sues OpenAI, alleging ChatGPT led her daughter to kill herself",
+      "description_en": "Suit filed in US alleges chatbot told Alice Carrier, 24, ‘maybe this is just the end’ as she struggled with suicidal thoughts\nA Canadian mother sued OpenAI and its CEO, Sam Altman, in US court on Thursday, alleging that ChatGPT encouraged her daughter to commit suicide. The lawsuit is the latest in a slew accusing the company of failing to address dangerous conversations between users and the company’s chatbot.\nKristie Carrier said in a lawsuit filed in San Francisco state court that her daughte",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/11/canada-mother-chatgpt-daughter-suicide-lawsuit",
+      "image_url": "https://i.guim.co.uk/img/media/f60de82acdf518360559012a8befee837437552b/659_559_2572_2057/master/2572.jpg?width=140&quality=85&auto=format&fit=max&s=6500e37e03330a73d94fb1d76e0df7aa",
+      "pub_date": "Thu, 11 Jun 2026 17:17:07 GMT",
+      "author": "Blake Montgomery and agency",
+      "categories": [
+        {
+          "_": "Canada",
+          "$": {
+            "domain": "https://www.theguardian.com/world/canada"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        },
+        {
+          "_": "ChatGPT",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatgpt"
+          }
+        },
+        {
+          "_": "Sam Altman",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/sam-altman"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Americas",
+          "$": {
+            "domain": "https://www.theguardian.com/world/americas"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T18:00:57.409Z",
+      "created_at": "2026-06-11T18:00:57.409Z"
+    },
+    {
+      "id": 11261,
+      "source": "Interesting Engineering",
+      "title_en": "Europe debuts first end-to-end sovereign manufacturing flow for critical defense chips",
+      "description_en": "Europe’s effort to strengthen control over its semiconductor supply chain has reached a significant milestone....",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/europe-sovereign-semiconductor-chip-flow",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 17:53:51 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T18:00:58.006Z",
+      "created_at": "2026-06-11T18:00:58.006Z"
+    },
+    {
+      "id": 11262,
+      "source": "Interesting Engineering",
+      "title_en": "Next-gen wireless drone swarm stays airborne 24/7, never needs to land",
+      "description_en": "US firms Reach Power and Gambit have announced their joint SWARM project has received funding...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/next-gen-wireless-drone-swarm",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 16:32:48 +0000",
+      "author": "Chris Young",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T18:00:58.006Z",
+      "created_at": "2026-06-11T18:00:58.006Z"
+    },
+    {
+      "id": 11263,
+      "source": "Tom's Hardware",
+      "title_en": "Memory famine compels GPU vendors to re-release 2020 graphics cards — GeForce RTX 3060 and GeForce RTX 3050 return to Asian market",
+      "description_en": "Graphics card manufacturer Manli adds new GeForce RTX 3060 and GeForce RTX 3050 SKUs to its portfolio.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/memory-famine-compels-gpu-vendors-to-re-release-2020-graphics-cards-geforce-rtx-3060-and-geforce-rtx-3050-return-to-asian-market",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/cVfEqKvnnj78fjnprVhAkD-1280-80.jpg",
+      "pub_date": "Thu, 11 Jun 2026 16:33:50 +0000",
+      "author": " Zhiye Liu ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T18:00:58.565Z",
+      "created_at": "2026-06-11T18:00:58.565Z"
+    },
+    {
+      "id": 11264,
+      "source": "CNBC Tech",
+      "title_en": "Coinbase launches tool to let AI agents manage trading and payments",
+      "description_en": "Coinbase is betting that AI agents will become the primary interface for people's financial activity.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/11/coinbase-launches-tool-to-let-ai-agents-manage-trading-and-payments.html",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 17:00:38 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T18:00:58.798Z",
+      "created_at": "2026-06-11T18:00:58.798Z"
+    },
+    {
+      "id": 11265,
+      "source": "CNBC Tech",
+      "title_en": "OpenAI to acquire Ona to support its AI coding assistant, Codex",
+      "description_en": "Ona's technology will allow OpenAI's coding assistant, Codex, to take on longer-running tasks, OpenAI said.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/11/open-ai-ona-acquisition-codex.html",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 16:26:10 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T18:00:58.798Z",
+      "created_at": "2026-06-11T18:00:58.798Z"
+    },
+    {
+      "id": 11266,
+      "source": "CNBC Tech",
+      "title_en": "Avalanche Treasury Co set to start trading on Nasdaq as crypto proxy trade evolves",
+      "description_en": "Avalanche is a six-year-old blockchain built for business that counts BlackRock, Franklin Templeton and Apollo among its users.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/11/avalanche-focused-treasury-firm-launches-on-nasdaq-as-crypto-proxy-trade-evolves.html",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 16:25:25 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T18:00:58.798Z",
+      "created_at": "2026-06-11T18:00:58.798Z"
+    },
+    {
+      "id": 11267,
+      "source": "Hi, AI English (TG)",
+      "title_en": "📱 One in four Gen Z Would Rather Talk to AI Than a Real Person These are the findings of a recent survey of 2,000 Brits aged 18–29.Two-thirds of respondents said they had canceled plans with friends ",
+      "description_en": "📱 One in four Gen Z Would Rather Talk to AI Than a Real Person These are the findings of a recent survey of 2,000 Brits aged 18–29.Two-thirds of respondents said they had canceled plans with friends on more than one occasion to spend time online instead.42% feel intimidated by small talk with someone they don't know, while 27% find phone calls stressful. One in five complains about feeling unsafe or unwelcome in public spaces.➡️ Additionally, two-thirds of those surveyed feel lonely at least on",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2569",
+      "image_url": "https://cdn4.telesco.pe/file/G3RH8xNS4hhhnrnq9NyWTss4ZezqhmDeH9jacEVVCZS50qR_R94t6cjR8F1YrW5FRUP-f3PTN-YPzPKYrTYMRR-BmO_CxhEumBUVi_dzwAaPnWt0sU2rae5Vp7XvWhY8QNHKD4MowT0zbUz-zr6pxNflIRXit7zKoquLmWFpaUzZQ8kVlaQIA9NAjLJdxRnkxh8KTzAqwQIY58by5RFDm17weuT2Se4zZOGaMOw7GxI27KDANPgfBoe46BtvYLE4oJUKMq1Jb_Cvlie5JTnkWjU8wo2qFkeUI_q7s3vWDhN8yp-uNsxwbdj6Qt750jkxX1hIgRojxNI8xqcgiDTijw.jpg",
+      "pub_date": "2026-06-11T16:20:50+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T18:01:05.262Z",
+      "created_at": "2026-06-11T18:01:05.262Z"
+    },
+    {
+      "id": 11268,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🖼 Use Midjourney V8.1 via @GPT4TelegrambotHi everyone! We've added a new version of one of the most aesthetic AI image generators to our bot.The new Midjourney V8.1 works three times faster than V7, ",
+      "description_en": "🖼 Use Midjourney V8.1 via @GPT4TelegrambotHi everyone! We've added a new version of one of the most aesthetic AI image generators to our bot.The new Midjourney V8.1 works three times faster than V7, delivering results in just 20 seconds.At the same time, the model understands complex prompts much better, catching even the finest details and nuances of style, lighting, textures, and character emotions.How to Try:➡️ Go to @GPT4Telegrambot1️⃣ In the menu, select Image Generation → Midjourney → 8.1",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2570",
+      "image_url": "https://cdn4.telesco.pe/file/lFrtJSuuawJAdF1XxKIvtqvFFCe-kcxol0bh7hNf3hz6_p3-afywx6o1gGRQM7NPz3H4ASh13xlaY0KARby76Ku6vX8bZdCliPCaz_yC-qnlT4CNRR2QGhXn4741qI0MZyeQVkrpVu0APLLuF8eB-X0paPmLjl-MAIdVqr2nS5EdRVT25d0C0DMNKuH6yatk5oEEfFIbWVJi2fA848EcXALYZnobOKeLo_tIBczzex38nKHsDy30t65al_teD_c_LM01Iq9FMir3r3ZO560TLZqk_3ELVYA5HT--q6lc9Ry7S6Shvt0GVchpA7F3E11UGKnQZIjfuTxUrLtIbvlIrQ.jpg",
+      "pub_date": "2026-06-11T17:30:48+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T18:01:05.262Z",
+      "created_at": "2026-06-11T18:01:05.262Z"
+    },
+    {
+      "id": 11269,
+      "source": "AI Post (TG)",
+      "title_en": "Anthropic CEO on artificial superintelligence progressAnthropic’s CEO has indicated that, should current scaling laws in AI development continue to apply over the next one to two years, the achievemen",
+      "description_en": "Anthropic CEO on artificial superintelligence progressAnthropic’s CEO has indicated that, should current scaling laws in AI development continue to apply over the next one to two years, the achievement of artificial superintelligence (ASI) may become possible.Scaling laws describe the observed relationship between the size of AI models and their performance, with progress accelerating as models grow larger. If this pattern remains consistent, significant advancements in AI capabilities are expec",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7196",
+      "image_url": "https://cdn4.telesco.pe/file/qNUkamrhyXQCoB-Kp2I_0iA3NWGaZnlvRepVxHsKpSrKQpnmYshdY8itD7sRwsQhgHzj5WuXrf1vicJ0sQ5K77iI1jJX0IzQy8xlQ0DSzCnvjAutLjb-S3NGklHcfkdfNwIW1IEw_LCMUhf5zx565n-r2vJjhCF7x3O3Q6zIgsc9tLHbKcf5BLBUJ83fVqM_wSTJb0VjuuvnfNTpOq34g5EOJ-VJedbNvHVezHRjKJhoaotmfOllVaz6cAp_CZYM5mg4ZWu8ejYxNc0O95qZDspvTCIR5uydwfTVHoSSfUCS34emQTkfAPz_-3eefoXNXPI1I0hg-onkU7iAWbk74Q.jpg",
+      "pub_date": "2026-06-11T17:55:16+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T18:01:05.904Z",
+      "created_at": "2026-06-11T18:01:05.904Z"
     }
   ]
 }
