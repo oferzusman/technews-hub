@@ -1,9 +1,9 @@
 {
-  "total": 11284,
+  "total": 11287,
   "translated": 8824,
-  "untranslated": 2460,
-  "today": 114,
-  "week": 786,
+  "untranslated": 2463,
+  "today": 117,
+  "week": 789,
   "sources": [
     {
       "name": "Product Hunt",
@@ -25,7 +25,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 650,
+      "total": 651,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -49,7 +49,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 478,
+      "total": 479,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -103,9 +103,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 275,
+      "total": 276,
       "translated": 119,
-      "lastDate": "2026-06-11T18:46:15+00:00"
+      "lastDate": "2026-06-11T21:21:24+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-11T21:33:40.240Z"
+  "generatedAt": "2026-06-11T21:36:34.528Z"
 }
