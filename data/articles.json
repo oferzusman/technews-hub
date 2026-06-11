@@ -236607,7 +236607,7 @@
         "Space"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T20:33:23.172Z",
       "created_at": "2026-06-11T20:33:23.172Z"
     },
@@ -236746,7 +236746,7 @@
         "Transportation"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T21:05:49.323Z",
       "created_at": "2026-06-11T21:05:49.323Z"
     },
@@ -236763,7 +236763,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T21:05:49.914Z",
       "created_at": "2026-06-11T21:05:49.914Z"
     },
@@ -236780,7 +236780,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T21:05:51.524Z",
       "created_at": "2026-06-11T21:05:51.524Z"
     },
@@ -236899,6 +236899,42 @@
       "priority": "hot",
       "fetchedAt": "2026-06-11T22:26:08.931Z",
       "created_at": "2026-06-11T22:26:08.931Z"
+    },
+    {
+      "id": 11291,
+      "source": "Interesting Engineering",
+      "title_en": "Trump cancels planned Iran strikes, says peace agreement could come soon",
+      "description_en": "US President Donald Trump said Thursday that he has canceled planned military strikes against Iran,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/trump-cancels-us-strikes-iran-peace-deal-near",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 22:53:11 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T22:55:49.476Z",
+      "created_at": "2026-06-11T22:55:49.476Z"
+    },
+    {
+      "id": 11292,
+      "source": "CNBC Tech",
+      "title_en": "Jim Cramer warns SpaceX could soar to unsustainable levels after its debut",
+      "description_en": "CNBC's Jim Cramer warned that overwhelming demand for SpaceX could send the stock to unsustainable levels after it begins trading.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/11/jim-cramer-spacex-unsustainable-debut.html",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 22:24:10 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T22:55:49.823Z",
+      "created_at": "2026-06-11T22:55:49.823Z"
     }
   ]
 }
