@@ -1,9 +1,9 @@
 {
-  "total": 11269,
+  "total": 11274,
   "translated": 8824,
-  "untranslated": 2445,
-  "today": 99,
-  "week": 771,
+  "untranslated": 2450,
+  "today": 104,
+  "week": 776,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,13 +13,13 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 914,
+      "total": 916,
       "translated": 652,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 858,
+      "total": 859,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -37,7 +37,7 @@
     },
     {
       "name": "Ars Technica",
-      "total": 505,
+      "total": 506,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -103,9 +103,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 274,
+      "total": 275,
       "translated": 119,
-      "lastDate": "2026-06-11T15:46:23+00:00"
+      "lastDate": "2026-06-11T18:46:15+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-11T18:03:43.822Z"
+  "generatedAt": "2026-06-11T19:20:12.685Z"
 }
