@@ -234165,7 +234165,7 @@
         "xAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T23:13:34.177Z",
       "created_at": "2026-06-10T23:13:34.177Z"
     },
@@ -234190,7 +234190,7 @@
         "Tutorials"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T23:13:35.585Z",
       "created_at": "2026-06-10T23:13:35.585Z"
     },
@@ -234245,7 +234245,7 @@
       "author": "C.C. Weiss",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T23:13:35.915Z",
       "created_at": "2026-06-10T23:13:35.915Z"
     },
@@ -234262,7 +234262,7 @@
       "author": "The Conversation",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T23:13:35.915Z",
       "created_at": "2026-06-10T23:13:35.915Z"
     },
@@ -234279,7 +234279,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-10T23:13:37.085Z",
       "created_at": "2026-06-10T23:13:37.085Z"
     },
@@ -234319,6 +234319,61 @@
       "priority": "hot",
       "fetchedAt": "2026-06-10T23:46:32.946Z",
       "created_at": "2026-06-10T23:46:32.946Z"
+    },
+    {
+      "id": 11171,
+      "source": "Interesting Engineering",
+      "title_en": "Airbus modifies H145M helicopter to deploy interceptors against tactical drone swarms",
+      "description_en": "As military helicopters face growing threats from small attack drones, Airbus Helicopters and German defense...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/airbus-h145m-counter-drone-plan",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 23:59:56 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T01:38:38.425Z",
+      "created_at": "2026-06-11T01:38:38.425Z"
+    },
+    {
+      "id": 11172,
+      "source": "Interesting Engineering",
+      "title_en": "Google’s DiffusionGemma delivers 4x faster text generation using parallel decoding",
+      "description_en": "Google has unveiled DiffusionGemma, a new experimental AI model that generates text using diffusion rather...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/google-diffusiongemma-fast-text-generation",
+      "image_url": null,
+      "pub_date": "Wed, 10 Jun 2026 23:53:35 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T01:38:38.425Z",
+      "created_at": "2026-06-11T01:38:38.425Z"
+    },
+    {
+      "id": 11173,
+      "source": "AI Post (TG)",
+      "title_en": "🗣Steven Spielberg: \"I don't believe in sentient AI as there is no substitute for the soul\"\"I'm not willing to substitute\" AI for human writers at the table.The legendary director draws the line on AI",
+      "description_en": "🗣Steven Spielberg: \"I don't believe in sentient AI as there is no substitute for the soul\"\"I'm not willing to substitute\" AI for human writers at the table.The legendary director draws the line on AI in creativity. He refuses to have a computer sitting in an empty chair as the seventh writer on a team.\"Where I don't love AI is where it takes a position where there's an empty chair at a writer's table.\"@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7190",
+      "image_url": null,
+      "pub_date": "2026-06-10T23:48:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T01:38:45.365Z",
+      "created_at": "2026-06-11T01:38:45.365Z"
     }
   ]
 }
