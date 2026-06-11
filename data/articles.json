@@ -235571,7 +235571,7 @@
         "Regulation"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T14:53:04.975Z",
       "created_at": "2026-06-11T14:53:04.975Z"
     },
@@ -235754,7 +235754,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T14:53:06.817Z",
       "created_at": "2026-06-11T14:53:06.817Z"
     },
@@ -235927,6 +235927,48 @@
       "priority": "hot",
       "fetchedAt": "2026-06-11T14:53:09.465Z",
       "created_at": "2026-06-11T14:53:09.465Z"
+    },
+    {
+      "id": 11246,
+      "source": "Ars Technica",
+      "title_en": "\"This cannot continue\": Xbox leaders lay out \"hard truths\" behind sagging brand",
+      "description_en": "Brutal self-assessment paints a picture of a Microsoft gaming division in crisis.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gaming/2026/06/this-cannot-continue-xbox-leaders-lay-out-hard-truths-behind-sagging-brand/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/xbox-dominoes-1152x648.jpg",
+      "pub_date": "Thu, 11 Jun 2026 13:56:30 +0000",
+      "author": "\n                    Kyle Orland\n                ",
+      "categories": [
+        "Gaming",
+        "Asha Sharma",
+        "brand",
+        "leadership",
+        "matt booty",
+        "microsoft",
+        "XBox"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T15:22:19.701Z",
+      "created_at": "2026-06-11T15:22:19.701Z"
+    },
+    {
+      "id": 11247,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Deezer запустил проверку плейлистов на музыкальный нейрослоп. Даже из других стримингов!AI Music Detector отсканирует избранные треки и плейлисты в одном из 20 музыкальных стриминговых сервисов и пока",
+      "description_en": "Deezer запустил проверку плейлистов на музыкальный нейрослоп. Даже из других стримингов!AI Music Detector отсканирует избранные треки и плейлисты в одном из 20 музыкальных стриминговых сервисов и покажет, сколько среди них нейрослопа. Можно проверить не только сам Deezer, но и Spotify, Apple Music и даже нашу «Яндекс Музыку». Также можно вбить руками названия песен, загрузить плейлист списком или файлом.Мы в редакции свою музыку проверили! Из четырёх человек двое оказались чисты — ноль процентов",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33709",
+      "image_url": "https://cdn4.telesco.pe/file/tU6OFDPEb3Ohm5GmU09fhOVXJxVSfUAzrHW2leBc2bZsek4FFt2ogLSng-72KCyOROHC6cE5M59sBZI-viHVhLwSIQ-PPreyk4vJMl3jEBbZRVdWwqpRIIFThH_M2orH2S3iqsKY7wT5EYbABmixY-5TtdGn_jTWHkhkNFUpGDxBcHvh8ly1nCdYYeuZE9PTtmbJ6yKl4Tg3AjkbpvMULqgI-SlRuVxRVNvHhXBl_QPulUYeecV3pNI7v06wB1pBX2L9kZLvtd6fjPdXDhhespmhZNGNB-WF8rUvjUxf1vtBzN7kAnME97_w3fyjAH-HoB9UvT05kO1oLCpHwaZFHA.jpg",
+      "pub_date": "2026-06-11T15:02:26+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T15:22:24.112Z",
+      "created_at": "2026-06-11T15:22:24.112Z"
     }
   ]
 }
