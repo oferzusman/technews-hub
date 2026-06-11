@@ -236631,7 +236631,7 @@
         "SPV"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T20:33:23.173Z",
       "created_at": "2026-06-11T20:33:23.173Z"
     },
@@ -236653,7 +236653,7 @@
         "AI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T20:33:24.776Z",
       "created_at": "2026-06-11T20:33:24.776Z"
     },
@@ -236670,7 +236670,7 @@
       "author": "Ben Coxworth",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T20:33:25.052Z",
       "created_at": "2026-06-11T20:33:25.052Z"
     },
@@ -236834,6 +236834,71 @@
       "priority": "hot",
       "fetchedAt": "2026-06-11T21:34:36.770Z",
       "created_at": "2026-06-11T21:34:36.770Z"
+    },
+    {
+      "id": 11288,
+      "source": "MarkTechPost",
+      "title_en": "Perplexity Moves Deep Research Into Computer, Routing Research Subtasks Across 20+ Frontier Models For Reports, Decks, And Dashboards",
+      "description_en": "Deep Research now lives inside Perplexity Computer, breaking hard questions into subtasks and routing across 20+ frontier models.\nThe post Perplexity Moves Deep Research Into Computer, Routing Research Subtasks Across 20+ Frontier Models For Reports, Decks, And Dashboards appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/11/perplexity-moves-deep-research-into-computer-routing-research-subtasks-across-20-frontier-models-for-reports-decks-and-dashboards/",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 22:21:32 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "Editors Pick",
+        "New Releases",
+        "Software Engineering",
+        "Staff"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T22:26:00.331Z",
+      "created_at": "2026-06-11T22:26:00.331Z"
+    },
+    {
+      "id": 11289,
+      "source": "MarkTechPost",
+      "title_en": "xAI Ships Grok Build Plugin Marketplace With MongoDB, Vercel, Sentry, Chrome DevTools, Cloudflare, and Superpowers Plugins at Launch",
+      "description_en": "Grok Build's in-terminal marketplace bundles skills, agents, hooks, and MCP servers, with commit-SHA verification on every remote plugin.\nThe post xAI Ships Grok Build Plugin Marketplace With MongoDB, Vercel, Sentry, Chrome DevTools, Cloudflare, and Superpowers Plugins at Launch appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/11/xai-ships-grok-build-plugin-marketplace-with-mongodb-vercel-sentry-chrome-devtools-cloudflare-and-superpowers-plugins-at-launch/",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 21:30:31 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "Editors Pick",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T22:26:00.331Z",
+      "created_at": "2026-06-11T22:26:00.331Z"
+    },
+    {
+      "id": 11290,
+      "source": "AI Post (TG)",
+      "title_en": "Google’s Android security chief steps down following Pentagon AI agreementGoogle’s head of Android security has resigned from their position in response to the company’s decision to engage in an artif",
+      "description_en": "Google’s Android security chief steps down following Pentagon AI agreementGoogle’s head of Android security has resigned from their position in response to the company’s decision to engage in an artificial intelligence project with the Pentagon.The departing executive stated that Google’s leadership “has lost its moral compass” in this context. The phrase “Don’t be evil” was referenced, a longstanding motto associated with the company.📰 @aipost",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7199",
+      "image_url": "https://cdn4.telesco.pe/file/W6vzYmTMQ8VcqBromS7Hrkzxk8PMKWJoBzkP-RsQpZb2zw8tGCR-G2bj3z2SuyhBaaMBgZGYlwTjd_gN4Q6uJHI3rjtPzLiUUetGrKPGN40c_MDhysf3_3WV6PWjvphT9ItBqADXAHRrxvjUfpWwZJHCMT7FBFVoZSPQMihLTlV46v7HxlDBSvHikjOKjHqkLknrhg15LdQW0lvyiM_jnFPgUJrhrJ30y6WihcNurnHG5KlxTGfoeNk1_waZPLeTM8mMNEHc-aemRHPEkPWlJ4J3yFw75fBYjA3K2ebDXlCKlE5Tg19AuY7dnrL2C36dkF5jKgdRsJBHsgxD_XHBvw.jpg",
+      "pub_date": "2026-06-11T22:14:54+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T22:26:08.931Z",
+      "created_at": "2026-06-11T22:26:08.931Z"
     }
   ]
 }
