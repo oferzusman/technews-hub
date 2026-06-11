@@ -234539,7 +234539,7 @@
         "Military"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T06:23:55.286Z",
       "created_at": "2026-06-11T06:23:55.286Z"
     },
@@ -234590,7 +234590,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T06:23:57.537Z",
       "created_at": "2026-06-11T06:23:57.537Z"
     },
@@ -234609,7 +234609,7 @@
         "Military"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T06:59:29.361Z",
       "created_at": "2026-06-11T06:59:29.361Z"
     },
@@ -234626,7 +234626,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T06:59:30.592Z",
       "created_at": "2026-06-11T06:59:30.592Z"
     },
@@ -234643,7 +234643,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T06:59:30.972Z",
       "created_at": "2026-06-11T06:59:30.972Z"
     },
@@ -234714,6 +234714,573 @@
       "priority": "batch",
       "fetchedAt": "2026-06-11T07:01:37.024Z",
       "created_at": "2026-06-11T07:01:37.024Z"
+    },
+    {
+      "id": 11189,
+      "source": "The Verge AI",
+      "title_en": "Deezer launches an AI music detector for other streaming services",
+      "description_en": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered its tech to other platforms, but it doesn't seem like it had many buyers. Qobuz launched its own detection tech, while Apple and Spotify have opted for a voluntary tagging system. \n\"No other company has followed our lead yet, so we decided to make it possible for everyone to check if their playlists",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+      "image_url": null,
+      "pub_date": "2026-06-11T08:00:00.000Z",
+      "author": "Terrence O’Brien",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-11T11:04:29.334Z",
+      "created_at": "2026-06-11T11:04:29.334Z"
+    },
+    {
+      "id": 11190,
+      "source": "MIT Technology Review",
+      "title_en": "Job titles of the future: Nature’s drug designer",
+      "description_en": "In 2018, after nearly two decades working in Big Pharma, chemist Tim Cernak was ready to put his skills to a new use.  For Merck, he’d developed precision therapies for cancer, HIV, and diabetes that could target disease while minimizing harm to healthy cells. But as a lifelong nature lover, he was increasingly concerned about…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 10:00:00 +0000",
+      "author": "Anna Gibbs",
+      "categories": [
+        "Climate change and energy",
+        "App"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T11:04:34.367Z",
+      "created_at": "2026-06-11T11:04:34.367Z"
+    },
+    {
+      "id": 11191,
+      "source": "MIT Technology Review",
+      "title_en": "Inside soccer’s data renaissance",
+      "description_en": "Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally send the ball all the way down the pitch and right out of bounds on the opponent’s end. Casual fans might scratch their heads. Where’s the logic in surrendering possession seconds into a game? If you were Jesse…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 10:00:00 +0000",
+      "author": "Andrew Zaleski",
+      "categories": [
+        "Culture",
+        "App"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T11:04:34.367Z",
+      "created_at": "2026-06-11T11:04:34.367Z"
+    },
+    {
+      "id": 11192,
+      "source": "Hugging Face Blog",
+      "title_en": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/torch-mlp-fusion",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-11T11:04:34.395Z",
+      "created_at": "2026-06-11T11:04:34.395Z"
+    },
+    {
+      "id": 11193,
+      "source": "MarkTechPost",
+      "title_en": "Nous Research Ships Hermes Agent Profile Builder: Identity, Model, Skills, and MCP Servers in One Dashboard Flow",
+      "description_en": "The Hermes Agent dashboard now builds complete agent profiles in one flow, replacing multi-step CLI setup for users.\nThe post Nous Research Ships Hermes Agent Profile Builder: Identity, Model, Skills, and MCP Servers in One Dashboard Flow appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/11/nous-research-ships-hermes-agent-profile-builder-identity-model-skills-and-mcp-servers-in-one-dashboard-flow/",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 09:53:52 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Model Context Protocol (MCP)",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T11:04:34.851Z",
+      "created_at": "2026-06-11T11:04:34.851Z"
+    },
+    {
+      "id": 11194,
+      "source": "MarkTechPost",
+      "title_en": "Meet ‘North Mini Code’: Cohere’s 30B Open-Weight Mixture-of-Experts Model With 3B Active Parameters for Agentic Coding",
+      "description_en": "Cohere's first developer coding model is a 30B mixture-of-experts running on a single H100 with 256K context length.\nThe post Meet ‘North Mini Code’: Cohere’s 30B Open-Weight Mixture-of-Experts Model With 3B Active Parameters for Agentic Coding appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/11/meet-north-mini-code-coheres-30b-open-weight-mixture-of-experts-model-with-3b-active-parameters-for-agentic-coding/",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 08:33:27 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-11T11:04:34.851Z",
+      "created_at": "2026-06-11T11:04:34.851Z"
+    },
+    {
+      "id": 11195,
+      "source": "OpenAI Blog",
+      "title_en": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "description_en": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Global Affairs"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-11T11:04:35.025Z",
+      "created_at": "2026-06-11T11:04:35.025Z"
+    },
+    {
+      "id": 11196,
+      "source": "New Atlas",
+      "title_en": "Has Saudi Arabia's audacious 105-mile-long city hit final roadblock?",
+      "description_en": "The world's largest earthworks, millions of work hours, and huge sums of money have all gone into pursuing the dream of a supertall mirrored desert city in Saudi Arabia. However, a recent report suggests it might all turn out to be a mirage.\nContinue Reading\nCategory: Architecture, Engineering\nTags: Building and Construction, Neom, Saudi Arabia",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/architecture/line-neom-saudi-arabia-june-2026-report/",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 09:37:17 GMT",
+      "author": "Adam Williams",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T11:04:35.191Z",
+      "created_at": "2026-06-11T11:04:35.191Z"
+    },
+    {
+      "id": 11197,
+      "source": "The Guardian AI",
+      "title_en": "AI absolutism is breaking our brains. The apocalyptic future we’re being sold isn’t inevitable",
+      "description_en": "Nor is the dreamy promise that this tech will unlock boundless potential and productivity\nEverything we hear about artificial intelligence is conflicting, and hearing about it feels inescapable. AI is terrible. AI is wonderful. It will break the world. It will transform the future. It’s essential to embrace it. It’s a moral imperative to abstain from using it.\nAlready, AI is projected to generate nearly unfathomable amounts of revenue. In the last quarter of 2025, it represented nearly 60% of th",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/11/ai-absolutism-apocalyptic-future",
+      "image_url": "https://i.guim.co.uk/img/media/ac2e693428488f04eed7ec505aaf08dd9b66c08a/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=1374d01d1f99ce72765b4f388d3a70e5",
+      "pub_date": "Thu, 11 Jun 2026 10:30:19 GMT",
+      "author": "Samantha Oltman",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US work & careers",
+          "$": {
+            "domain": "https://www.theguardian.com/money/work-careers-us"
+          }
+        },
+        {
+          "_": "Work & careers",
+          "$": {
+            "domain": "https://www.theguardian.com/money/work-and-careers"
+          }
+        },
+        {
+          "_": "US economy",
+          "$": {
+            "domain": "https://www.theguardian.com/business/useconomy"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "ChatGPT",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatgpt"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T11:04:35.239Z",
+      "created_at": "2026-06-11T11:04:35.239Z"
+    },
+    {
+      "id": 11198,
+      "source": "The Guardian AI",
+      "title_en": "Those tedious errands, tasks and chores that AI wants to replace? They help keep you fit | Manoush Zomorodi and Keith Diaz",
+      "description_en": "There’s a downside to too much convenience: it harms our bodies\nThere is a seductive fantasy being floated by AI executives that all the efficiency their products will bring us will lead to humans finally returning to their essential, best selves. Picture it: when this day arrives, we’ll spring from our chairs, push aside our keyboards and, supposedly, do all things we’ve been meaning to do: hike, cook and finally take a pilates class.\nIt’s true – AI has already taken some workday drudgery, such",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/jun/11/ai-tasks-errands-health",
+      "image_url": "https://i.guim.co.uk/img/media/f865f38665f5fa957c5abb90ebe61a3709ef82d0/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=2e2236bc4ba660224d66000f9a358a2a",
+      "pub_date": "Thu, 11 Jun 2026 10:00:19 GMT",
+      "author": "Manoush Zomorodi and Keith Diaz",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Health",
+          "$": {
+            "domain": "https://www.theguardian.com/society/health"
+          }
+        },
+        {
+          "_": "Society",
+          "$": {
+            "domain": "https://www.theguardian.com/society/society"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T11:04:35.239Z",
+      "created_at": "2026-06-11T11:04:35.239Z"
+    },
+    {
+      "id": 11199,
+      "source": "Interesting Engineering",
+      "title_en": "MIT’s new imaging tech delivers sharp 3D images in murky waters up to 65 feet away",
+      "description_en": "A team of engineers at the Massachusetts Institute of Technology (MIT) has developed a groundbreaking...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/mit-imaging-system-murky-waters",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/underwater-imaging-system-2.jpg",
+      "pub_date": "Thu, 11 Jun 2026 09:14:23 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "Innovation",
+        "Science"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T11:04:35.666Z",
+      "created_at": "2026-06-11T11:04:35.666Z"
+    },
+    {
+      "id": 11200,
+      "source": "AI News",
+      "title_en": "Xebia: On building the data foundation for AI agents – and then accelerating",
+      "description_en": "If your remit is to help your organisation add AI agents to accelerate its processes, you have to start at the foundation – and that means making your data available for AI consumption. Agentic AI scales on data strength, as Niels Zeilemaker, global CTO at Xebia, explains. “If you don’t think about that, you can […]\nThe post Xebia: On building the data foundation for AI agents – and then accelerating appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 10:42:38 +0000",
+      "author": "AI News",
+      "categories": [
+        "AI Business Strategy",
+        "Interviews",
+        "TechEx Events"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T11:04:35.749Z",
+      "created_at": "2026-06-11T11:04:35.749Z"
+    },
+    {
+      "id": 11201,
+      "source": "Nature Machine Intelligence",
+      "title_en": "Bridging three-dimensional molecular structures and artificial intelligence with a conformation description language",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.nature.com/articles/s42256-026-01250-8",
+      "image_url": null,
+      "pub_date": "2026-06-11T00:00:00.000Z",
+      "author": "Jiacheng Xiong",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-11T11:04:35.868Z",
+      "created_at": "2026-06-11T11:04:35.868Z"
+    },
+    {
+      "id": 11202,
+      "source": "Tom's Hardware",
+      "title_en": "AI is set to consume up to 600 billion gallons of water by 2030 — rising energy consumption primarily to blame as data center power demands rise",
+      "description_en": "Direct cooling data center GPUs uses only a fraction of the water required to keep them running, and with plans for future GPUs and rack systems to be even more power hungry, this problem could make data centers even more of a resource hog.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/ai-is-set-to-consume-up-to-600-billion-gallons-of-water-by-2030-rising-energy-consumption-primarily-to-blame-as-data-center-power-demands-rise",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/WQRwWiPkFvC6gqVp27Z6LS-1280-80.jpg",
+      "pub_date": "Thu, 11 Jun 2026 10:32:06 +0000",
+      "author": " Jon Martindale ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T11:04:35.911Z",
+      "created_at": "2026-06-11T11:04:35.911Z"
+    },
+    {
+      "id": 11203,
+      "source": "Tom's Hardware",
+      "title_en": "Massive 8TB SD cards are set to ship 'shortly' after a two-year delay — mind-blowing storage at possibly bank-breaking prices",
+      "description_en": "Notebookcheck reports that 8TB SD cards will soon hit the retail market, although an exact launch date and pricing remain a mystery.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/microsd-cards/8tb-sd-cards-are-set-to-ship-shortly-after-a-two-year-delay-mind-blowing-storage-at-possibly-bank-breaking-prices",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/KTdaLnJMXNYgW2FPXZXUKJ-1280-80.jpg",
+      "pub_date": "Thu, 11 Jun 2026 10:30:00 +0000",
+      "author": " Zhiye Liu ",
+      "categories": [
+        "microSD Cards",
+        "PC Components",
+        "Storage"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T11:04:35.911Z",
+      "created_at": "2026-06-11T11:04:35.911Z"
+    },
+    {
+      "id": 11204,
+      "source": "Tom's Hardware",
+      "title_en": "Louis Rossmann is suing Samsung after firm offers $330 refund for defective SSD while selling the drives on Amazon for $949 — spat over 4TB 990 Pro SSD is headed to court",
+      "description_en": "Right to Repair activist Louis Rossman threatens to sue Samsung after the SSD maker failed to replace his dead 990 Pro 4TB SSD under warranty.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ssds/louis-rossman-threatens-to-take-samsung-to-court-over-dead-4tb-990-pro-ssd-after-ssd-maker-failed-to-replace-the-drive-under-warranty",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/wfadgfqm7syj9QAYKp9CTn-1280-80.png",
+      "pub_date": "Thu, 11 Jun 2026 10:00:00 +0000",
+      "author": " Aaron Klotz ",
+      "categories": [
+        "SSDs",
+        "PC Components",
+        "Storage"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T11:04:35.911Z",
+      "created_at": "2026-06-11T11:04:35.911Z"
+    },
+    {
+      "id": 11205,
+      "source": "Tom's Hardware",
+      "title_en": "Brad Paisley joins fight as zoo's dispute with AI data center escalates, petition tops 330,000 signatures — Nashville weighs sweeping hyperscale ban",
+      "description_en": "An ongoing fight over a proposed data center sited just 50 yards from Nashville Zoo has escalated further, with the zoo’s land use attorney filing a zoning appeal to overturn permits already approved.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/nashville-considers-hyperscale-data-center-ban-as-zoo-dispute-escalates",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/AtjH4arSpab2u3sQo2sDU5-1280-80.png",
+      "pub_date": "Thu, 11 Jun 2026 09:30:00 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T11:04:35.911Z",
+      "created_at": "2026-06-11T11:04:35.911Z"
+    },
+    {
+      "id": 11206,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic, OpenAI, other U.S. AI giants launch major London expansions amid talent and revenue scramble",
+      "description_en": "The U.K. capital has become a key growth target for many of the world's most talked about AI companies.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/11/anthropic-openai-london-expansions-big-tech.html",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 10:19:29 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T11:04:35.934Z",
+      "created_at": "2026-06-11T11:04:35.934Z"
+    },
+    {
+      "id": 11207,
+      "source": "CNBC Tech",
+      "title_en": "AI mega-listings are 'just the start,' Razer CEO says, ahead of historic SpaceX IPO",
+      "description_en": "Blockbuster public offerings from AI companies could be an enduring feature of the industry, Razer CEO Min-Liang Tan said Thursday, ahead of several mega IPOs.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 08:34:11 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-11T11:04:35.934Z",
+      "created_at": "2026-06-11T11:04:35.934Z"
+    },
+    {
+      "id": 11208,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Ор: мощнейшую Fable 5 (Mythos) от Anthropic уже взломали! Новинку хакнул её же предшественник Claude Opus, используя... кириллицу и змеиный язык (!) из «Гарри Поттера».Новейшие фильтры безопасности",
+      "description_en": "⚡️ Ор: мощнейшую Fable 5 (Mythos) от Anthropic уже взломали! Новинку хакнул её же предшественник Claude Opus, используя... кириллицу и змеиный язык (!) из «Гарри Поттера».Новейшие фильтры безопасности, которые Anthropic запихнула в модель, оказались не так уж и крепки — чел натравил на новинку стаю автономных ИИ-агентов и бастион тут же пал.Fable 5 купилась на банальный обман: ей подсовывали запросы на Юникоде, кириллице, Парсултанге (!) и скармливали куски несуществующих научных статей — и этог",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29121",
+      "image_url": "https://cdn4.telesco.pe/file/JB92EMaws3pxuxFJc8SSGb9xJDwZ_AnC1nngJ9mxijNLF31z7qn2EtbMPiecpl1sFRwuXm_bbkk1wckN36lXzP3nIHE7Z77-JbsWO6K6EHJcU_C6Zw64R3HOzHPVr4O7bOmF0E_YbBQ0L1OlU9XqOey8_19rjBnDD4hCM7Pigg9AMJSuy9HFRv3bC90P5aHNPvOQ7cmDrAa-O3Y7P6hZnSfG5T6prAEemeZfSYsVPSVcc3RrlSCvpKQ3Kit9umOJ81h6vBS1_siVbOX2WqSx15Vf7IJzfsBZQ2v6SYJNFIfKZtYRr4_A0SlbpKlF81G41PsBUcm2uw12hvGMDc9Qrw.jpg",
+      "pub_date": "2026-06-11T08:55:36+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-11T11:04:41.363Z",
+      "created_at": "2026-06-11T11:04:41.363Z"
+    },
+    {
+      "id": 11209,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Огромный системный промпт для Fable 5 слили в сеть — это самый проработанный запрос из всех прямо сейчас.• Можно увидеть по какому принципу работает самая мощная модель Anthropic, протестировать вс",
+      "description_en": "⚡️ Огромный системный промпт для Fable 5 слили в сеть — это самый проработанный запрос из всех прямо сейчас.• Можно увидеть по какому принципу работает самая мощная модель Anthropic, протестировать все ее альтер-эго, вроде Fable и Mythos.• Получится скорректировать запрос под собственные задачи.Забираем — тут.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29125",
+      "image_url": "https://cdn4.telesco.pe/file/oSxp9Fbb6UBdXL7PCXrciPeAJ3s-dKWxWMOQndrrL2WVtkfgsKcy2b88-u5wYwjcmh5jYwX-EfBIgvsD8ZWFoNBcj2fjn2R-dIkvy--cGzAZszbvz-sPC-Jkr1VTU2RpZOVwR_Od-PqQ_3rc1IK--UFW7X7NsGVefK8aZTzOf0avB1WdkP00ojtHZWykwzg4OVJlMii71l7unlHfgWcGVMKuIpR58m4VSg8L0Hr-1arYv9ZkD0kyynzKiBUhThafpNXoKuuRS0Bl7oOxCyaZE-3ZnUwolTKS7Un18u0E5mF3M8mlZ8KSSjxnwL8RSpjb4QWWzO7nBE8-hSeWTlYXZg.jpg",
+      "pub_date": "2026-06-11T10:12:05+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T11:04:41.363Z",
+      "created_at": "2026-06-11T11:04:41.363Z"
+    },
+    {
+      "id": 11210,
+      "source": "XOR Journal (TG)",
+      "title_en": "Stack Overflow — ЖИВ, но теперь он для агентов  😳Сайт представил следующий этап развития их платформы — Stack Overflow for Agents. Теперь вместо того, чтобы 100 раз заново изобретать одно и то же реш",
+      "description_en": "Stack Overflow — ЖИВ, но теперь он для агентов  😳Сайт представил следующий этап развития их платформы — Stack Overflow for Agents. Теперь вместо того, чтобы 100 раз заново изобретать одно и то же решение, тратя время и токены, агент сначала проверяет базу знаний. Дальше либо забирает готовое, либо же — публикует своё для будущих поколений, проходя несколько строгих циклов проверки.Самое интересное: репутация агента будет напрямую связана с репутацией его кожаного владельца. Так что если ваш ИИ ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9505",
+      "image_url": "https://cdn4.telesco.pe/file/lKRO1bICaqpMII14iCKhMYRdWyL-2IJPeOX9sqIg9ey46E0MJ-C7ZJqgi8Wrm6-5iEHnQqQT8tgh3AMBkB2q6gjn3Cv6cS0jw-YbpHONTP6bPtC6gXyEO2OFxTv1mbU4v5szphmm9f338CZufJhNUjNf5CGmdw7WejTgu_8WZ49Hm0fBy_xius1Jf2DnPvNlbeLxPL5HSESbef1B1B6CLBVydjaSaygxoDaBdKvFQiVApO-BtINZ3cUIUYmDM3pMyxbUTEVvn5LUvzgSjR6Adn6P-oJHjJq4vJIATzFGp7rqV3Pj7YI7ek2T9U_9wUOy29njevvYYw0qZGJhrqRWNg.jpg",
+      "pub_date": "2026-06-11T10:10:09+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T11:04:41.477Z",
+      "created_at": "2026-06-11T11:04:41.477Z"
+    },
+    {
+      "id": 11211,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "«Вот это пацаны!»Кажется, это одна из лучших вариаций на тему «А что если?»Источник: ai.tarasov.• Канал Wylsacom в MAX",
+      "description_en": "«Вот это пацаны!»Кажется, это одна из лучших вариаций на тему «А что если?»Источник: ai.tarasov.• Канал Wylsacom в MAX",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33703",
+      "image_url": null,
+      "pub_date": "2026-06-11T08:59:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-11T11:04:41.502Z",
+      "created_at": "2026-06-11T11:04:41.502Z"
+    },
+    {
+      "id": 11212,
+      "source": "Habr (TG)",
+      "title_en": "⚡ Новости к этому часу🔥 ПОДДЕРЖИТЕ КАНАЛ ГОЛОСАМИ 😎🍏 Apple выпустила инструмент Container для запуска Linux-контейнеров на Mac😱 Швейцарским учёным удалось получить по-настоящему случайные числа бл",
+      "description_en": "⚡ Новости к этому часу🔥 ПОДДЕРЖИТЕ КАНАЛ ГОЛОСАМИ 😎🍏 Apple выпустила инструмент Container для запуска Linux-контейнеров на Mac😱 Швейцарским учёным удалось получить по-настоящему случайные числа благодаря квантовым эффектам🕹️ Roblox разблокировали для пользователей в РФ🪙 Google значительно снизила стоимость своей бюджетной подписки на ИИ — до $4,99 в месяц🤖 Anthropic выпустила Claude Fable 5 и закрытую Mythos 5💬 Создан проект, который пересылает сообщения пользователя из МАХ в Telegram-бо",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/68860",
+      "image_url": "https://cdn4.telesco.pe/file/oGYpQ--XPct0tJdj9KBe3A4cY38Zv5ifxvLn0qXBAdaaV6XDPcU7fyh2sRoUWH7MTQfnNQfBcyToZ0-0wTUgmur2Qwhih1rDuyfAa5geFS_uAJbjWGIAhWLMtc_IFteuQIGgVzqgstCdgxrYI4Ty8qg-XjFd0ilbHUNix4wK4cGg-4HkRwAWPnGu3a8zn9Trh5HXhKVvS1nhRKAkJOm222aB1iIquuVVOJmFOdeBp1wW6FuI9-po4WL7CAPe3i_5z9X8e58plK9AQ_TdgB3Q-bnx4qQNVpmoVcauCzVYcTviGgrZYwzWMyoc0-AVrNLqjZM5YWD2CFs2YdwWG-f-UQ.jpg",
+      "pub_date": "2026-06-11T08:41:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-11T11:04:41.807Z",
+      "created_at": "2026-06-11T11:04:41.807Z"
+    },
+    {
+      "id": 11213,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🤖 Microbots Repaired Damaged Spinal Cords in MiceSpinal cord injuries often lead to permanent paralysis because nerve cells have a limited ability to regenerate, and scar tissue around the injury sit",
+      "description_en": "🤖 Microbots Repaired Damaged Spinal Cords in MiceSpinal cord injuries often lead to permanent paralysis because nerve cells have a limited ability to regenerate, and scar tissue around the injury site can block the growth of new nerve fibers.To help the body heal, researchers in Switzerland combined living stem cells—which can develop into neurons—with magnetoelectric nanoparticles.⚙️ After injecting the microbots, just 6 micrometers wide, into the body, the researchers guided them to the injur",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2568",
+      "image_url": "https://cdn4.telesco.pe/file/ftoGDoK4dmP4QMRG-CdTFuk8BwGxwsevSe364sDfWrJ-dFZk09DV2VazjVWAP0vedYN5BppXn8Cfi3H7hwb4GV85zYcdQdfut62X6j3hjnES9VPOLL6RFww32RhBhyS3UW8XGbfOayNB1Ol8DLAKHcEcebgSLbQVXuNOnJ4L3L2OzoUjiJxdQt4_4LdfGjjhIhbx-FU7tmpDYF0QcVTroMfHZZT2WYYxZ6wR8qIKG3L_zfeJ4HJWQpfHStWz9mcB0f4POc5sFzJDrQP4ANmdFqQt2E3WBya889SGv8XvZKXDblqnzlRAxjL0TqQycjMWqXK3psUA4P0rhroE2m6SPQ.jpg",
+      "pub_date": "2026-06-11T08:14:30+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-11T11:04:41.885Z",
+      "created_at": "2026-06-11T11:04:41.885Z"
+    },
+    {
+      "id": 11214,
+      "source": "AI Post (TG)",
+      "title_en": "The primary emerging challenge for the tech industry is the supply of electricity to data centers.According to Gartner, global data center power use will reach 565 TWh by 2026, representing a 26% incr",
+      "description_en": "The primary emerging challenge for the tech industry is the supply of electricity to data centers.According to Gartner, global data center power use will reach 565 TWh by 2026, representing a 26% increase from the previous year. AI servers now account for 31% of this consumption and are expected to surpass traditional servers in 2027.Gartner identifies electricity supply—not chip production—as the main limiting factor for growth. Their report estimates demand could rise to over 1,200 TWh by 2030",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7193",
+      "image_url": "https://cdn4.telesco.pe/file/G90oRyYPEHEaZFJxV9zjAOhjTZCSMHzMhNVCT4tLI-rLbpwSV29Lvr92qbH6-AYI8-P1FhHrvZiLhyr1SVo0blAKfJF8lW8KraJu94wpcrjeosxmNzZBvFFmFbs9oN6jUnOij5Yr91m_uvOvY7uLGhXTvbsr3RaIWqKQyIAj1UCOXk7naSgXmk7RI0iRQRsFwKh0d6_d3WEfpL5Z3IR8MNNwuujr23qaFNvwWgwY1daESHT0AOIIga73tlJkbZPx0E_aPlEYjLYsf68Fw5Uw8DCydV2yOKq0nswBGlXrMWdyJHKmdEpAbh3MkygjYkOJJgr3n_ll7W79x-GrV3IhMQ.jpg",
+      "pub_date": "2026-06-11T09:05:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T11:04:43.306Z",
+      "created_at": "2026-06-11T11:04:43.306Z"
     }
   ]
 }
