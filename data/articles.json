@@ -236124,7 +236124,7 @@
       "author": "Stevie Bonifield",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T18:00:55.103Z",
       "created_at": "2026-06-11T18:00:55.103Z"
     },
@@ -236171,7 +236171,7 @@
         "iron age"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T18:00:55.130Z",
       "created_at": "2026-06-11T18:00:55.130Z"
     },
@@ -236345,7 +236345,7 @@
         "Innovation"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T18:00:58.006Z",
       "created_at": "2026-06-11T18:00:58.006Z"
     },
@@ -236469,7 +236469,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T18:01:05.262Z",
       "created_at": "2026-06-11T18:01:05.262Z"
     },
@@ -236486,7 +236486,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T18:01:05.904Z",
       "created_at": "2026-06-11T18:01:05.904Z"
     },
@@ -236510,7 +236510,7 @@
         "Racing"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T19:18:09.152Z",
       "created_at": "2026-06-11T19:18:09.152Z"
     },
@@ -236590,6 +236590,108 @@
       "priority": "hot",
       "fetchedAt": "2026-06-11T19:18:17.635Z",
       "created_at": "2026-06-11T19:18:17.635Z"
+    },
+    {
+      "id": 11275,
+      "source": "TechCrunch AI",
+      "title_en": "SpaceX officially prices shares at $135 in the largest IPO ever",
+      "description_en": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 20:33:10 +0000",
+      "author": "Tim Fernholz",
+      "categories": [
+        "AI",
+        "Space"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T20:33:23.172Z",
+      "created_at": "2026-06-11T20:33:23.172Z"
+    },
+    {
+      "id": 11276,
+      "source": "TechCrunch AI",
+      "title_en": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+      "description_en": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 19:58:01 +0000",
+      "author": "Marina Temkin",
+      "categories": [
+        "AI",
+        "Space",
+        "IPO",
+        "secondary shares",
+        "SpaceX",
+        "SPV"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T20:33:23.173Z",
+      "created_at": "2026-06-11T20:33:23.173Z"
+    },
+    {
+      "id": 11277,
+      "source": "Google AI Blog",
+      "title_en": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+      "description_en": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp",
+      "pub_date": "Thu, 11 Jun 2026 20:00:00 +0000",
+      "author": null,
+      "categories": [
+        "Google.org",
+        "Global Network",
+        "Creating opportunity",
+        "AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T20:33:24.776Z",
+      "created_at": "2026-06-11T20:33:24.776Z"
+    },
+    {
+      "id": 11278,
+      "source": "New Atlas",
+      "title_en": "Two new mini-ROVs are set explore the inky depths",
+      "description_en": "It was nine years ago that we told you about the intriguing Pioneer mini-ROV (underwater Remotely Operated Vehicle), made by Norway's Blueye Robotics. Well, it's now got not one but two more capable siblings, in the forms of the ocean-exploring X3 Ultra and X7.\nContinue Reading\nCategory: Drones, Consumer Tech, Technology\nTags: Underwater drones, Ocean",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/drones/blueye-robotics-x7-x3-ultra-rov/",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 20:03:19 GMT",
+      "author": "Ben Coxworth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T20:33:25.052Z",
+      "created_at": "2026-06-11T20:33:25.052Z"
+    },
+    {
+      "id": 11279,
+      "source": "Interesting Engineering",
+      "title_en": "China cuts photonic chip costs by 90% using nanoscale stamping on eight-inch wafers",
+      "description_en": "A Chinese startup has claimed a breakthrough in photonic chip manufacturing by producing 8-inch optical...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/china-prinano-photonic-chips-without-duv-lithography",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 19:33:27 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T20:33:25.397Z",
+      "created_at": "2026-06-11T20:33:25.397Z"
     }
   ]
 }
