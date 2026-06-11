@@ -236797,7 +236797,7 @@
       "author": "The Conversation",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T21:34:32.965Z",
       "created_at": "2026-06-11T21:34:32.965Z"
     },
@@ -236814,7 +236814,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T21:34:33.823Z",
       "created_at": "2026-06-11T21:34:33.823Z"
     },
@@ -236831,7 +236831,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T21:34:36.770Z",
       "created_at": "2026-06-11T21:34:36.770Z"
     },
@@ -236935,6 +236935,25 @@
       "priority": "hot",
       "fetchedAt": "2026-06-11T22:55:49.823Z",
       "created_at": "2026-06-11T22:55:49.823Z"
+    },
+    {
+      "id": 11293,
+      "source": "Interesting Engineering",
+      "title_en": "Autonomous aircraft drops 200-pound payload within 50 feet for frontline logistics",
+      "description_en": "Autonomous aircraft are increasingly drawing attention as the U.S. military looks for new ways to...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/pyka-autonomous-aircraft-precision-airdrop-test",
+      "image_url": "https://www.youtube.com/embed/O8b6J175-Ms",
+      "pub_date": "Thu, 11 Jun 2026 23:21:06 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T23:21:54.243Z",
+      "created_at": "2026-06-11T23:21:54.243Z"
     }
   ]
 }
