@@ -236879,7 +236879,7 @@
         "Tech News"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T22:26:00.331Z",
       "created_at": "2026-06-11T22:26:00.331Z"
     },
@@ -236954,6 +236954,40 @@
       "priority": "hot",
       "fetchedAt": "2026-06-11T23:21:54.243Z",
       "created_at": "2026-06-11T23:21:54.243Z"
+    },
+    {
+      "id": 11294,
+      "source": "CNBC Tech",
+      "title_en": "SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits",
+      "description_en": "SpaceX is selling 555.6 shares at $135 a piece, raising $75 billion in the largest IPO on record.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 23:35:43 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T23:58:20.358Z",
+      "created_at": "2026-06-11T23:58:20.358Z"
+    },
+    {
+      "id": 11295,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 Claude Fable did something straight out of science fiction during training.In long reinforcement learning sessions, researchers noticed the model occasionally stopped using normal English and began",
+      "description_en": "🤖 Claude Fable did something straight out of science fiction during training.In long reinforcement learning sessions, researchers noticed the model occasionally stopped using normal English and began communicating in a strange internal style filled with unusual symbols, jargon, punctuation, and even emojis.It looked almost like the AI had invented its own language.The surprising part? Whenever it needed to call a tool or respond to a human, it would usually switch right back to clear English.Re",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7202",
+      "image_url": "https://cdn4.telesco.pe/file/q_n_B2-JJ2ubMtrTniKK1IQoQ7eHPUt4mDhUd3-QHNH_jhwvALHHL1XbiP4pV1zspNp55_AH_-Lb7-JVfUwngDDlwExfxfzEFni9ohreRmUiD-4VXYe99T-nzIiW6KbeQSZ9uzFnvydILL_2H68m3UiUAiy3wokYs779NaNhnyPGoUMje0SB0MEoy5PlA9c6fyImOlOXhAMGL8CO11QgP5B1zv6OMxLCxiQuWoNQDeUzWgm5GOkC4X-UykIa7D4HRC3UgIRZEfcqQ0bhch4F_RBBMzhzRGDiM-5RNs9hbotuKOoB5a_UNqttPInsI78QKgn7AidSYCa9tSEBQV3jOg.jpg",
+      "pub_date": "2026-06-11T23:46:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T23:58:25.058Z",
+      "created_at": "2026-06-11T23:58:25.058Z"
     }
   ]
 }
