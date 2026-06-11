@@ -236529,7 +236529,7 @@
         "AI and Robotics"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T19:18:11.965Z",
       "created_at": "2026-06-11T19:18:11.965Z"
     },
@@ -236549,7 +236549,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T19:18:12.141Z",
       "created_at": "2026-06-11T19:18:12.141Z"
     },
@@ -236587,7 +236587,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T19:18:17.635Z",
       "created_at": "2026-06-11T19:18:17.635Z"
     },
@@ -236692,6 +236692,97 @@
       "priority": "hot",
       "fetchedAt": "2026-06-11T20:33:25.397Z",
       "created_at": "2026-06-11T20:33:25.397Z"
+    },
+    {
+      "id": 11280,
+      "source": "The Register",
+      "title_en": "Google has seriously leaned into AI enshittification lately",
+      "description_en": "Could the Chocolate Factory's mission to reshape the web backfire?",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theregister.com/ai-ml/2026/05/25/google-has-seriously-leaned-into-ai-enshittification-lately/5245365",
+      "image_url": "https://image.theregister.com/?imageId=5243010&width=800",
+      "pub_date": "Mon, 25 May 2026 01:00:00 +0200",
+      "author": null,
+      "categories": [
+        "ai + ml"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-11T21:05:49.233Z",
+      "created_at": "2026-06-11T21:05:49.233Z"
+    },
+    {
+      "id": 11281,
+      "source": "The Register",
+      "title_en": "Sick and wrong: Ontario auditors find doctors' AI note takers routinely blow basic facts",
+      "description_en": "60% of evaluated AI Scribe systems mixed up prescribed drugs in patient notes, auditors say",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theregister.com/ai-and-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+      "image_url": "https://image.theregister.com/?imageId=5240796&width=800",
+      "pub_date": "Thu, 14 May 2026 22:50:05 +0200",
+      "author": null,
+      "categories": [
+        "ai and ml"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-11T21:05:49.234Z",
+      "created_at": "2026-06-11T21:05:49.234Z"
+    },
+    {
+      "id": 11282,
+      "source": "Interesting Engineering",
+      "title_en": "New plane prototype conducts maiden piloted flight, can transform hybrid-electric aircraft future",
+      "description_en": "An aerospace and technology company recently conducted maiden piloted flight of its full scale prototype...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/prototype-conducts-flight-hybrid-electric-aircraft",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 20:50:42 +0000",
+      "author": "Prabhat Ranjan Mishra",
+      "categories": [
+        "Transportation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T21:05:49.323Z",
+      "created_at": "2026-06-11T21:05:49.323Z"
+    },
+    {
+      "id": 11283,
+      "source": "CNBC Tech",
+      "title_en": "Ex-Andreessen Horowitz partner slams his old firm, other VCs for 'political infiltration' around AI",
+      "description_en": "John O'Farrell, former partner at Andreessen Horowitz, says the PAC Leading the Future, backed by his old firm, is trying to \"intimidate politicians.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/11/ex-a16z-partner-slams-old-firm-othes-political-infiltration-in-ai.html",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 20:43:22 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T21:05:49.914Z",
+      "created_at": "2026-06-11T21:05:49.914Z"
+    },
+    {
+      "id": 11284,
+      "source": "AI Post (TG)",
+      "title_en": "The robots are having more fun than us. 🤣🤣@aipost 🏴",
+      "description_en": "The robots are having more fun than us. 🤣🤣@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7198",
+      "image_url": null,
+      "pub_date": "2026-06-11T20:40:25+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T21:05:51.524Z",
+      "created_at": "2026-06-11T21:05:51.524Z"
     }
   ]
 }
