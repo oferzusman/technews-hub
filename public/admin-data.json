@@ -1,9 +1,9 @@
 {
-  "total": 11252,
+  "total": 11269,
   "translated": 8824,
-  "untranslated": 2428,
-  "today": 82,
-  "week": 754,
+  "untranslated": 2445,
+  "today": 99,
+  "week": 771,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,37 +13,37 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 913,
+      "total": 914,
       "translated": 652,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 856,
+      "total": 858,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 646,
+      "total": 649,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 571,
+      "total": 572,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "Ars Technica",
-      "total": 504,
+      "total": 505,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
       "name": "The Decoder",
-      "total": 480,
+      "total": 482,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -61,27 +61,27 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 392,
+      "total": 393,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
       "name": "OpenAI Blog",
-      "total": 374,
+      "total": 376,
       "translated": 334,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 361,
+      "total": 362,
       "translated": 168,
-      "lastDate": "2026-06-11T14:26:01+00:00"
+      "lastDate": "2026-06-11T17:55:16+00:00"
     },
     {
       "name": "The Verge AI",
-      "total": 337,
+      "total": 338,
       "translated": 231,
-      "lastDate": "2026-06-11T11:40:43.000Z"
+      "lastDate": "2026-06-11T17:26:57.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 85,
+      "total": 87,
       "translated": 49,
-      "lastDate": "2026-06-11T08:14:30+00:00"
+      "lastDate": "2026-06-11T17:30:48+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-11T16:34:54.367Z"
+  "generatedAt": "2026-06-11T18:03:43.822Z"
 }
