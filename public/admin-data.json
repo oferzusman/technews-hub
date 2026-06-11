@@ -1,9 +1,9 @@
 {
-  "total": 11170,
+  "total": 11173,
   "translated": 8824,
-  "untranslated": 2346,
-  "today": 114,
-  "week": 821,
+  "untranslated": 2349,
+  "today": 3,
+  "week": 675,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 849,
+      "total": 851,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -73,9 +73,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 355,
+      "total": 356,
       "translated": 168,
-      "lastDate": "2026-06-10T20:03:33+00:00"
+      "lastDate": "2026-06-10T23:48:01+00:00"
     },
     {
       "name": "The Verge AI",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-10T23:49:22.164Z"
+  "generatedAt": "2026-06-11T01:41:39.634Z"
 }
