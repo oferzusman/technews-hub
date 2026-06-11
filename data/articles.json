@@ -236148,7 +236148,7 @@
         "Generative AI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T18:00:55.112Z",
       "created_at": "2026-06-11T18:00:55.112Z"
     },
@@ -236326,7 +236326,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T18:00:57.409Z",
       "created_at": "2026-06-11T18:00:57.409Z"
     },
@@ -236384,7 +236384,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T18:00:58.565Z",
       "created_at": "2026-06-11T18:00:58.565Z"
     },
@@ -236401,7 +236401,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T18:00:58.798Z",
       "created_at": "2026-06-11T18:00:58.798Z"
     },
@@ -236489,6 +236489,107 @@
       "priority": "hot",
       "fetchedAt": "2026-06-11T18:01:05.904Z",
       "created_at": "2026-06-11T18:01:05.904Z"
+    },
+    {
+      "id": 11270,
+      "source": "Ars Technica",
+      "title_en": "F1 teams spend millions on their simulators—what makes them different?",
+      "description_en": "Latency, bandwidth, and fidelity all matter when you're chasing milliseconds.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/cars/2026/06/whats-so-special-about-a-formula-1-driver-in-the-loop-simulator/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/DMG-1_Motorsport-1152x648.jpg",
+      "pub_date": "Thu, 11 Jun 2026 18:18:12 +0000",
+      "author": "\n                    Jonathan M. Gitlin\n                ",
+      "categories": [
+        "Cars",
+        "Cadillac F1",
+        "driving simulator",
+        "Dynisma",
+        "Formula 1",
+        "Racing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T19:18:09.152Z",
+      "created_at": "2026-06-11T19:18:09.152Z"
+    },
+    {
+      "id": 11271,
+      "source": "Interesting Engineering",
+      "title_en": "China’s robotic snakes slither across power lines to spot faults before failure",
+      "description_en": "China has deployed robotic snakes to inspect power lines and help ensure a stable electricity...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/china-robotic-snakes-power-lines",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 18:52:14 +0000",
+      "author": "Jijo Malayil",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T19:18:11.965Z",
+      "created_at": "2026-06-11T19:18:11.965Z"
+    },
+    {
+      "id": 11272,
+      "source": "Tom's Hardware",
+      "title_en": "OpenAI bans China-linked ChatGPT accounts that amplified US data center electricity price backlash — used AI-generated cartoons to stoke fears over U.S. data center energy costs",
+      "description_en": "OpenAI says it has banned two clusters of ChatGPT accounts it believes are operating from China, and that used its models for covert influence campaigns targeting U.S. tech and policy debates.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-bans-china-linked-chatgpt-accounts-that-amplified-us-data-center-electricity-price-backlash",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/DvUtiTTszcZZLg4U9SqkqJ-1280-80.jpg",
+      "pub_date": "Thu, 11 Jun 2026 18:48:34 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T19:18:12.141Z",
+      "created_at": "2026-06-11T19:18:12.141Z"
+    },
+    {
+      "id": 11273,
+      "source": "Tom's Hardware",
+      "title_en": "Watching the World Cup online is easier with these VPN deals — deals for watching the FIFA World Cup 2026",
+      "description_en": "A choice of VPN subscriptions to cover you over the FIFA World Cup 2026 and beyond. Stay safe online for less.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/vpn/watching-the-world-cup-online-shouldnt-risk-your-precious-data-or-cost-you-the-earth-save-money-on-these-vpn-deals-now",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/PAc5v27rnzjy9uzUtiaYqU-1280-80.jpg",
+      "pub_date": "Thu, 11 Jun 2026 12:35:37 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "VPN",
+        "Software",
+        "Security Software"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-11T19:18:12.141Z",
+      "created_at": "2026-06-11T19:18:12.141Z"
+    },
+    {
+      "id": 11274,
+      "source": "XOR Journal (TG)",
+      "title_en": "⚡️ Телеграм мощно обновился — в мессенджер завезли полноценную поддержку Markdown-форматирования.Плюс прокачали ботов: у них теперь безгранично расширенное форматирование — они могут писать ответы на ",
+      "description_en": "⚡️ Телеграм мощно обновился — в мессенджер завезли полноценную поддержку Markdown-форматирования.Плюс прокачали ботов: у них теперь безгранично расширенное форматирование — они могут писать ответы на 32 768 символов. Более того, ИИ-боту теперь можно поручить обработку заявок на вступление в группу.Бежим обновляться!@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9509",
+      "image_url": "https://cdn4.telesco.pe/file/vqAQ5f5Prr6Wg3TdQq93msN4qGFg01n0oE6M8giQnouyv_n-eR2NQZ3Auth2UFcZfN6X42VQfmaB_ZMNb8MoRCpTQlEQKE_9D_w4lsjKtitSVOMmUufrMnHRlR1_YmlL4tHbspr1goR1DnDz1N5RNHQ7jl34evGW98dd0NCPYkYeJXLbe18jNZ9mcVRLxfR9o0LG0Vss-BWhVDdClF83q6py1yhZb0BHJAiFElP8DIsNF6Wu-qe6-epLInkNcic_Gz7gyJ7Co_jok6EFF7teVDfcQ7mP_Z3elO2ZZZs_CxnWlVEAW5EbyCeDv-OKYDZOSbxE_muhOQAbYG0nVqOeug.jpg",
+      "pub_date": "2026-06-11T18:46:15+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T19:18:17.635Z",
+      "created_at": "2026-06-11T19:18:17.635Z"
     }
   ]
 }
