@@ -236689,7 +236689,7 @@
         "Innovation"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T20:33:25.397Z",
       "created_at": "2026-06-11T20:33:25.397Z"
     },
@@ -236783,6 +236783,57 @@
       "priority": "hot",
       "fetchedAt": "2026-06-11T21:05:51.524Z",
       "created_at": "2026-06-11T21:05:51.524Z"
+    },
+    {
+      "id": 11285,
+      "source": "New Atlas",
+      "title_en": "Common supplement could accelerate Alzheimer's decline",
+      "description_en": "Ramon Sun, University of Florida/The Conversation\nContinue Reading\nCategory: Mental Health, Brain Health, Body and Mind\nTags: Alzheimer's disease, glucosamine, Dietary supplements, Diet, Brain, University of Florida",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/mental-health/glucosamine-accelerate-alzheimers/",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 21:02:00 GMT",
+      "author": "The Conversation",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T21:34:32.965Z",
+      "created_at": "2026-06-11T21:34:32.965Z"
+    },
+    {
+      "id": 11286,
+      "source": "CNBC Tech",
+      "title_en": "Warren questions SpaceX IPO oversight in new letter to exchanges",
+      "description_en": "Sen. Elizabeth Warren seeking answers on changes to index fund waiting periods, protections for retail investors, in a letter obtained first by CNBC.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/11/warren-spacex-ipo-exchanges.html",
+      "image_url": null,
+      "pub_date": "Thu, 11 Jun 2026 21:14:56 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T21:34:33.823Z",
+      "created_at": "2026-06-11T21:34:33.823Z"
+    },
+    {
+      "id": 11287,
+      "source": "XOR Journal (TG)",
+      "title_en": "Полезное: реддитор создал сервис для реальной практики в диджитал-сферах — TaskLearn!Разраб хотел закрыть дыру между прохождением очередного курса и реальной работой, поэтому сделал платформу с настоя",
+      "description_en": "Полезное: реддитор создал сервис для реальной практики в диджитал-сферах — TaskLearn!Разраб хотел закрыть дыру между прохождением очередного курса и реальной работой, поэтому сделал платформу с настоящими задачами из индустрии. Есть почти все сферы: от кибербеза, разработки и аналитики до UI/UX и создания контента.Получаете задачу, пытаетесь решить её как умеете, а затем получаете фидбек от ИИ и подсказку, что можно улучшить.Так сложнее, но эффективнее 👍@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9510",
+      "image_url": "https://cdn4.telesco.pe/file/WYRUgeJz12hOYv3X7SMgtx2k1BXt3EjNKAZiS4Fk4zVfK6zNZZ17uiC2Rg7MVO6IknOH1_FsMctEUsSCuRknTkTlrzY_H2jqbMrCKu7VJHGqfBhCFbPgANy6fWAJuf-38srrS6Z6k7eh9xQuuoc-FZQ8ohQSVbPVLMelPolKXMLWWHe7GIPC1VHHuIv_TK4CevbrwPrzXuttDU1QHAx8Y9bEYV8JR2i_5zl0g034nBrU3FxaU-ly2oERdnEitj2o5zk6M-y8mrUw55aZJTerDCn_CElgF19sXm2FNcxXaTfr1kZf8BgcxeGAaKgTEdpq0nXiYbSx4IVp6j5jEgpSMQ.jpg",
+      "pub_date": "2026-06-11T21:21:24+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-11T21:34:36.770Z",
+      "created_at": "2026-06-11T21:34:36.770Z"
     }
   ]
 }
