@@ -238607,7 +238607,7 @@
         "Waymo"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T17:21:51.441Z",
       "created_at": "2026-06-12T17:21:51.441Z"
     },
@@ -238624,7 +238624,7 @@
       "author": "David Pierce",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T17:21:51.460Z",
       "created_at": "2026-06-12T17:21:51.460Z"
     },
@@ -238641,7 +238641,7 @@
       "author": "Stevie Bonifield",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T17:21:51.460Z",
       "created_at": "2026-06-12T17:21:51.460Z"
     },
@@ -238665,7 +238665,7 @@
         "Claude Fable 5"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T17:21:52.615Z",
       "created_at": "2026-06-12T17:21:52.615Z"
     },
@@ -238755,7 +238755,7 @@
         "Innovation"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T17:21:54.119Z",
       "created_at": "2026-06-12T17:21:54.119Z"
     },
@@ -238775,7 +238775,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T17:21:54.414Z",
       "created_at": "2026-06-12T17:21:54.414Z"
     },
@@ -238792,7 +238792,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T17:21:54.541Z",
       "created_at": "2026-06-12T17:21:54.541Z"
     },
@@ -238809,7 +238809,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T17:21:54.542Z",
       "created_at": "2026-06-12T17:21:54.542Z"
     },
@@ -238826,7 +238826,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T17:21:54.542Z",
       "created_at": "2026-06-12T17:21:54.542Z"
     },
@@ -238907,7 +238907,7 @@
         "openai"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T18:04:15.547Z",
       "created_at": "2026-06-12T18:04:15.547Z"
     },
@@ -238930,7 +238930,7 @@
         "water"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T18:04:15.547Z",
       "created_at": "2026-06-12T18:04:15.547Z"
     },
@@ -238955,7 +238955,7 @@
         "scams"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T18:04:15.548Z",
       "created_at": "2026-06-12T18:04:15.548Z"
     },
@@ -239035,6 +239035,188 @@
       "priority": "hot",
       "fetchedAt": "2026-06-12T18:04:20.894Z",
       "created_at": "2026-06-12T18:04:20.894Z"
+    },
+    {
+      "id": 11385,
+      "source": "TechCrunch AI",
+      "title_en": "SpaceX IPO: Live updates on everything you need to know",
+      "description_en": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 18:36:19 +0000",
+      "author": "Kirsten Korosec, Russell Brandom",
+      "categories": [
+        "AI",
+        "Space",
+        "Transportation",
+        "Elon Musk",
+        "IPO",
+        "SpaceX",
+        "spacex ipo"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T19:26:53.456Z",
+      "created_at": "2026-06-12T19:26:53.456Z"
+    },
+    {
+      "id": 11386,
+      "source": "TechCrunch AI",
+      "title_en": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
+      "description_en": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 17:26:08 +0000",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "categories": [
+        "AI",
+        "Security",
+        "Android",
+        "cybercrime",
+        "cybersecurity",
+        "Google",
+        "In Brief",
+        "scams"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-12T19:26:53.456Z",
+      "created_at": "2026-06-12T19:26:53.456Z"
+    },
+    {
+      "id": 11387,
+      "source": "Ars Technica",
+      "title_en": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
+      "description_en": "Full autonomy is rare, but Ukraine is installing AI modules on drones and robots.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Ukraine-drone-1152x648.jpg",
+      "pub_date": "Fri, 12 Jun 2026 18:03:29 +0000",
+      "author": "\n                    Jeremy Hsu\n                ",
+      "categories": [
+        "AI",
+        "AI drones",
+        "drones",
+        "military AI",
+        "military drones",
+        "robots",
+        "Russia invasion of Ukraine",
+        "Russian war on Ukraine",
+        "Ukraine",
+        "Ukraine war"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T19:26:53.567Z",
+      "created_at": "2026-06-12T19:26:53.567Z"
+    },
+    {
+      "id": 11388,
+      "source": "The Decoder",
+      "title_en": "Over half of Americans fear losing both their jobs and their independent thinking to AI, survey finds",
+      "description_en": "Anthropic surveyed nearly 52,000 Americans about their hopes and fears around AI. Sixty-four percent fear job losses, and 56 percent worry about losing the ability to think for themselves. Daily AI users are far less concerned. Still, most people reject AI in their own workplace, even for tasks they think it can handle.\nThe article Over half of Americans fear losing both their jobs and their independent thinking to AI, survey finds appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/over-half-of-americans-fear-losing-both-their-jobs-and-their-independent-thinking-to-ai-survey-finds/",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 18:40:26 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Anthropic"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T19:26:54.764Z",
+      "created_at": "2026-06-12T19:26:54.764Z"
+    },
+    {
+      "id": 11389,
+      "source": "The Guardian AI",
+      "title_en": "Share your views on SpaceX’s stock market debut",
+      "description_en": "Americans’ financial futures are about to tied to the fortunes of Elon Musk with the world’s largest ever stock market debut. How do you feel about this?\nElon Musk’s SpaceX made the world’s largest ever stock market debut on Friday at a valuation of $1.77tn. It was also set to turn Musk into the world’s first-ever trillionaire.\nOpenAI and Anthropic have also filed to go public sometime this year, each at valuations near $1tn. In a dramatic first, the US stock market is poised to be heavily orien",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/science/2026/jun/12/spacex-stock-market-debut",
+      "image_url": "https://i.guim.co.uk/img/media/723c623b125b49ffaf4b48765ad2e07315105c0d/196_0_3607_2885/master/3607.jpg?width=140&quality=85&auto=format&fit=max&s=15b49f51f2b64183365fe9ced44eef89",
+      "pub_date": "Fri, 12 Jun 2026 18:12:27 GMT",
+      "author": "Guardian community team",
+      "categories": [
+        {
+          "_": "SpaceX",
+          "$": {
+            "domain": "https://www.theguardian.com/science/spacex"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "The super-rich",
+          "$": {
+            "domain": "https://www.theguardian.com/news/the-super-rich"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Money",
+          "$": {
+            "domain": "https://www.theguardian.com/money/money"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T19:26:55.367Z",
+      "created_at": "2026-06-12T19:26:55.367Z"
+    },
+    {
+      "id": 11390,
+      "source": "CNBC Tech",
+      "title_en": "Top House Republican’s family investment poised to benefit from SpaceX IPO",
+      "description_en": "Republican Rep. Lisa McClain’s husband bought up to $250,000 in Elon Musk’s xAI before it was folded into SpaceX ahead of its IPO.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/12/lisa-mcclain-spacex-ipo-xai-investment-congress.html",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 19:01:51 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T19:26:56.389Z",
+      "created_at": "2026-06-12T19:26:56.389Z"
+    },
+    {
+      "id": 11391,
+      "source": "AI Post (TG)",
+      "title_en": "Insane take from Fable 5.@aipost 🏴",
+      "description_en": "Insane take from Fable 5.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7212",
+      "image_url": "https://cdn4.telesco.pe/file/WAxEq9PtlO4z32Pg1EpFvpHjs4Uo_Bj7w3FX4GvavOg4RJxKmjHXcPS-zm7n9vdiWg05RpeaEdFY-oAxOKxYW56eybA-aG6JZo-AoKrF4iWCdlVWwauqiHC4-NK2nSbeHMmA_wj_F3mHPFW0yNSOkdJXQJSfk6int7Zxxm2fj_DPNfROzOZqym2AqKZ_x8T2oYAxfQj2pm8WIM9uqpLJwfo4BLpWiEftSnOwK_ejqBhw_icdHZPR15TTaFl_DFDqiIaDOVj4ZulgCqhssG83rjtkGPJrb2ZnIKPzWu9sgu8dZnuFTIUiWeVB7npLnhBw8ioE-5MrWOzqLxo22bK-6A.jpg",
+      "pub_date": "2026-06-12T19:22:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T19:27:02.778Z",
+      "created_at": "2026-06-12T19:27:02.778Z"
     }
   ]
 }
