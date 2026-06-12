@@ -237240,7 +237240,7 @@
         "Innovation"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T06:46:00.628Z",
       "created_at": "2026-06-12T06:46:00.628Z"
     },
@@ -237274,7 +237274,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T06:46:03.830Z",
       "created_at": "2026-06-12T06:46:03.830Z"
     },
@@ -237291,7 +237291,7 @@
       "author": "Thomas Ricker",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T08:11:15.870Z",
       "created_at": "2026-06-12T08:11:15.870Z"
     },
@@ -237350,7 +237350,7 @@
         "Tutorials"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T08:11:17.484Z",
       "created_at": "2026-06-12T08:11:17.484Z"
     },
@@ -237404,7 +237404,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T08:11:17.878Z",
       "created_at": "2026-06-12T08:11:17.878Z"
     },
@@ -237424,7 +237424,7 @@
         "Science"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T08:11:18.560Z",
       "created_at": "2026-06-12T08:11:18.560Z"
     },
@@ -237475,7 +237475,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T08:11:19.901Z",
       "created_at": "2026-06-12T08:11:19.901Z"
     },
@@ -237509,9 +237509,207 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T08:11:20.752Z",
       "created_at": "2026-06-12T08:11:20.752Z"
+    },
+    {
+      "id": 11317,
+      "source": "MIT Technology Review",
+      "title_en": "Why “reprogramming” is the buzziest approach to reversing aging right now",
+      "description_en": "Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first volunteer. A person with glaucoma has had an experimental treatment injected straight into their eyeball. The idea is to try to treat the disease—which can cause vision loss—by regenerating healthy nerves in the eye. But…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 09:00:00 +0000",
+      "author": "Jessica Hamzelou",
+      "categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary",
+        "The Checkup"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T09:11:08.816Z",
+      "created_at": "2026-06-12T09:11:08.816Z"
+    },
+    {
+      "id": 11318,
+      "source": "MIT Technology Review",
+      "title_en": "Inside Interoception: The hidden sense of how you feel inside",
+      "description_en": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Your brain lives in the dark space of your skull. Yet it knows when the wind lifts the hairs on your skin, when your heart is…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 09:00:00 +0000",
+      "author": "Katherine W. Isaacs",
+      "categories": [
+        "Biotechnology and health",
+        "biotech",
+        "MIT Technology Review Explains"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T09:11:08.816Z",
+      "created_at": "2026-06-12T09:11:08.816Z"
+    },
+    {
+      "id": 11319,
+      "source": "OpenAI Blog",
+      "title_en": "How Preply combines AI and human tutors to personalize learning",
+      "description_en": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/preply",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-12T09:11:09.494Z",
+      "created_at": "2026-06-12T09:11:09.494Z"
+    },
+    {
+      "id": 11320,
+      "source": "The Guardian AI",
+      "title_en": "After SpaceX’s huge IPO, Americans’ financial future will be bound to AI",
+      "description_en": "They’re about to get more AI rammed down their throats, stuck into their pension plans and investment portfolios\nAmericans are growing worried about what artificial intelligence portends for their futures. Eight in 10 Americans report concern over AI, compared with a third who report being excited, according to a recent Quinnipiac poll. More than half think it will do more harm than good in their daily lives. Seven out of 10 think it will reduce the number of available jobs.\nSkeptical though the",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/jun/12/ai-ipos-stock-market",
+      "image_url": "https://i.guim.co.uk/img/media/e8a76ede198244d8e4c08c2ccf3ec9e499fa3627/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=12d8664f8762d7d2916e81de765a24db",
+      "pub_date": "Fri, 12 Jun 2026 09:00:41 GMT",
+      "author": "Eduardo Porter",
+      "categories": [
+        {
+          "_": "US economy",
+          "$": {
+            "domain": "https://www.theguardian.com/business/useconomy"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "SpaceX",
+          "$": {
+            "domain": "https://www.theguardian.com/science/spacex"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T09:11:09.837Z",
+      "created_at": "2026-06-12T09:11:09.837Z"
+    },
+    {
+      "id": 11321,
+      "source": "The Guardian AI",
+      "title_en": "SpaceX to list on US stock market at historic $1.77tn valuation",
+      "description_en": "IPO for Elon Musk’s company comes in what is predicted to be a banner year for public offerings of AI companies\nSpaceX will become publicly traded on Friday after nearly two and a half decades as a private company. Executives are slated to ring the bell on Wall Street with the rocket ship maker’s historic stock market debut. If all goes to plan, the company’s initial public offering (IPO) will mint a valuation of $1.77tn – earning it the designation of the world’s largest ever IPO.\nElon Musk, th",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/science/2026/jun/12/spacex-stock-price-ipo-spcx",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 09:00:40 GMT",
+      "author": "Dara Kerr",
+      "categories": [
+        {
+          "_": "SpaceX",
+          "$": {
+            "domain": "https://www.theguardian.com/science/spacex"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Aerospace industry",
+          "$": {
+            "domain": "https://www.theguardian.com/business/aerospace-industry"
+          }
+        },
+        {
+          "_": "US markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/us-markets"
+          }
+        },
+        {
+          "_": "Datacenters (US)",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/datacenters--us-"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T09:11:09.838Z",
+      "created_at": "2026-06-12T09:11:09.838Z"
     }
   ]
 }
