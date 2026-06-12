@@ -1,9 +1,9 @@
 {
-  "total": 11337,
+  "total": 11343,
   "translated": 8824,
-  "untranslated": 2513,
-  "today": 42,
-  "week": 714,
+  "untranslated": 2519,
+  "today": 48,
+  "week": 720,
   "sources": [
     {
       "name": "Product Hunt",
@@ -25,7 +25,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 655,
+      "total": 658,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -61,7 +61,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 398,
+      "total": 399,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -103,9 +103,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 277,
+      "total": 278,
       "translated": 119,
-      "lastDate": "2026-06-12T07:58:20+00:00"
+      "lastDate": "2026-06-12T12:17:10+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 87,
+      "total": 88,
       "translated": 49,
-      "lastDate": "2026-06-11T17:30:48+00:00"
+      "lastDate": "2026-06-12T12:30:35+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-12T11:52:40.974Z"
+  "generatedAt": "2026-06-12T14:07:49.828Z"
 }
