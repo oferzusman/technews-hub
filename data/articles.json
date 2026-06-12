@@ -237032,7 +237032,7 @@
         "Prometheus"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T01:56:43.708Z",
       "created_at": "2026-06-12T01:56:43.708Z"
     },
@@ -237051,9 +237051,26 @@
         "Science"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T01:56:46.164Z",
       "created_at": "2026-06-12T01:56:46.164Z"
+    },
+    {
+      "id": 11299,
+      "source": "AI Post (TG)",
+      "title_en": "🧠 Geoffrey Hinton, often called the “Godfather of AI,” was asked a simple question.Why not just build superintelligent AI that solves all our problems and lets humans relax?His answer: In theory, yes",
+      "description_en": "🧠 Geoffrey Hinton, often called the “Godfather of AI,” was asked a simple question.Why not just build superintelligent AI that solves all our problems and lets humans relax?His answer: In theory, yes. In practice, it’s complicated.If AI could be designed to genuinely care about humans, Hinton says we absolutely should build it. His favorite analogy isn’t science fiction, it’s motherhood.Just as a mother naturally puts her child’s interests ahead of her own, Hinton believes truly safe AI would n",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7203",
+      "image_url": null,
+      "pub_date": "2026-06-12T02:17:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T03:35:54.657Z",
+      "created_at": "2026-06-12T03:35:54.657Z"
     }
   ]
 }
