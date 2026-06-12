@@ -239294,7 +239294,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T20:23:13.664Z",
       "created_at": "2026-06-12T20:23:13.664Z"
     },
@@ -239339,7 +239339,7 @@
         "scams"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T21:10:47.264Z",
       "created_at": "2026-06-12T21:10:47.264Z"
     },
@@ -239457,6 +239457,40 @@
       "priority": "hot",
       "fetchedAt": "2026-06-12T22:05:33.588Z",
       "created_at": "2026-06-12T22:05:33.588Z"
+    },
+    {
+      "id": 11402,
+      "source": "CNBC Tech",
+      "title_en": "Jim Cramer says SpaceX’s blockbuster IPO could have major implications for the week ahead",
+      "description_en": "CNBC’s Jim Cramer said the successful debut of SpaceX could pave the way for more AI-related offerings and help create a more constructive backdrop for stocks.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/12/jim-cramer-spacex-ipo-implications-week-ahead.html",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 22:28:39 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T22:45:24.882Z",
+      "created_at": "2026-06-12T22:45:24.882Z"
+    },
+    {
+      "id": 11403,
+      "source": "AI Post (TG)",
+      "title_en": "💰 The AI arms race is now a debt arms race.Alphabet, Amazon, Meta, Microsoft, and Oracle borrowed $159 billion in corporate bonds in the first half of 2026 alone. That's more than they borrowed in th",
+      "description_en": "💰 The AI arms race is now a debt arms race.Alphabet, Amazon, Meta, Microsoft, and Oracle borrowed $159 billion in corporate bonds in the first half of 2026 alone. That's more than they borrowed in the entire 5 years from 2020 to 2024... Combined.Oracle by itself took on $43 billion in debt since September. Morgan Stanley expects global AI-related borrowing to hit $570 billion this year: More than double last year. These companies are so convinced AI is the future that they're mortgaging their b",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7213",
+      "image_url": "https://cdn4.telesco.pe/file/uU6e7o9dJaCqM8qwy0o9KXBI3wXaPhJ2hy7KOqCEFQbHP1UtNafvLxjmijtC4bQfFKrCHY4y7Tt_gpSRIsOHNoKbPSxJmI-A_WEHwZQvOM7oZ2OFqTKDU7dkNEddieIKIK_0uKzvoEXQtW1tKmawj_C_e02L3NxzdrffTVU1Ri99yITUE3ImuqOVgjyfdeeX7S4S6Pk4TQ7KsDv_hl1GepDFd_u7s4_PyW_qIhmFU1cq_Ru_M8Y_yTTZUkxTgd6sx8Es9KLh2815kWeHAgONdXxoTkLfBoQ1Gl3XkhhRGaQtoKyDep2gEFAkq_mpuxmW4yg3FMSy2BTM0g23QXpv8Q.jpg",
+      "pub_date": "2026-06-12T22:10:15+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T22:45:31.395Z",
+      "created_at": "2026-06-12T22:45:31.395Z"
     }
   ]
 }
