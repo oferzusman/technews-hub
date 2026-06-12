@@ -237008,7 +237008,7 @@
         "theker"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T01:56:43.707Z",
       "created_at": "2026-06-12T01:56:43.707Z"
     },
@@ -237068,9 +237068,122 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T03:35:54.657Z",
       "created_at": "2026-06-12T03:35:54.657Z"
+    },
+    {
+      "id": 11300,
+      "source": "The Guardian AI",
+      "title_en": "As One Nation seeks donations to ‘fire the liar’, News Corp gives it front-page billing | Weekly Beast",
+      "description_en": "Pauline Hanson’s fundraising drive gets front-page coverage in Sydney tabloid. Plus: The Hollywood Reporter scoop that wasn’t\n\nWant to get this in your inbox every Friday? Sign up for the Weekly Beast media newsletter here\n\nThere may be some doubt about whether One Nation has raised more than $2.7m in its Fire the Liar fundraising appeal this week but there is no doubt that the Daily Telegraph handed Pauline Hanson’s party coverage amounting to free front-page advertising.\nAs the fundraising dri",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/media/commentisfree/2026/jun/12/one-nation-fire-the-liar-donations-fundraising-news-corp-ntwnfb",
+      "image_url": "https://i.guim.co.uk/img/media/49adec6d604e219f08b75cc3f76aabe382e16ab9/76_46_4849_3879/master/4849.jpg?width=140&quality=85&auto=format&fit=max&s=e5e5b9319583038928fa698061658241",
+      "pub_date": "Fri, 12 Jun 2026 03:57:03 GMT",
+      "author": "Amanda Meade",
+      "categories": [
+        {
+          "_": "Australian media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/australia-media"
+          }
+        },
+        {
+          "_": "News Corporation",
+          "$": {
+            "domain": "https://www.theguardian.com/media/news-corporation"
+          }
+        },
+        {
+          "_": "Nine newspapers",
+          "$": {
+            "domain": "https://www.theguardian.com/media/nine-newspapers"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        },
+        {
+          "_": "One Nation",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/one-nation"
+          }
+        },
+        {
+          "_": "Australian politics",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australian-politics"
+          }
+        },
+        {
+          "_": "Labor party",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/labor-party"
+          }
+        },
+        {
+          "_": "Anthony Albanese",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/anthony-albanese"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "South Australian politics",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/south-australian-politics"
+          }
+        },
+        {
+          "_": "Logie awards",
+          "$": {
+            "domain": "https://www.theguardian.com/tv-and-radio/logie-awards"
+          }
+        },
+        {
+          "_": "Race",
+          "$": {
+            "domain": "https://www.theguardian.com/world/race"
+          }
+        },
+        {
+          "_": "Investigative journalism",
+          "$": {
+            "domain": "https://www.theguardian.com/media/investigative-journalism"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T05:10:01.429Z",
+      "created_at": "2026-06-12T05:10:01.429Z"
+    },
+    {
+      "id": 11301,
+      "source": "AI Post (TG)",
+      "title_en": "❗️OpenAI is reportedly considering major price cuts for its models as competition with rival  Anthropic⁠ heats up.The company is said to be evaluating significant reductions in token pricing, the unit",
+      "description_en": "❗️OpenAI is reportedly considering major price cuts for its models as competition with rival  Anthropic⁠ heats up.The company is said to be evaluating significant reductions in token pricing, the units used to measure and bill AI usage in anticipation of similar moves from Anthropic.The strategy is simple: make AI cheaper, attract more developers, and lock in customers before rivals do.For users and startups, that’s great news. Lower prices mean cheaper AI products, more experimentation, and pot",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7204",
+      "image_url": "https://cdn4.telesco.pe/file/ERacKdnkbqijjb4cxp6C86qNefElOu1jgrbAMln12bQYx74P8uTELp_B_dR1aiVQ2I_pZFzR2StGXPtEyS4IZ-c-iDuLn8J4B8TdDZFdyiPapNXgWC5O1pUnnkxCx1Gw5QUI37vzQJlzdlbDtlf-D1BUponV5JrNA2U0azRg9fXhpxzhxYJ-_B_42gw7eM4O0QJjLYlHZdhYOQsTs8DoBD9c_EWiMBh2hjj8j541WC6VpjqGymPAg0AgyjWl7Ng2nvdo276Em6MM0u9yMTMm3XQrBpWg72qUMT9MRO34h3foCQde_A1KBWv17uis4GfBne8eSY3ck6HG85y9m96iGg.jpg",
+      "pub_date": "2026-06-12T05:03:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T05:10:05.651Z",
+      "created_at": "2026-06-12T05:10:05.651Z"
     }
   ]
 }
