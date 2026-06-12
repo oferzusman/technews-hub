@@ -1,9 +1,9 @@
 {
-  "total": 11301,
+  "total": 11306,
   "translated": 8824,
-  "untranslated": 2477,
-  "today": 6,
-  "week": 678,
+  "untranslated": 2482,
+  "today": 11,
+  "week": 683,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,19 +19,19 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 864,
+      "total": 865,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 653,
+      "total": 654,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 576,
+      "total": 577,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -49,7 +49,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 479,
+      "total": 480,
       "translated": 361,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -127,9 +127,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 123,
+      "total": 124,
       "translated": 63,
-      "lastDate": "2026-06-11T14:21:31+00:00"
+      "lastDate": "2026-06-12T06:13:17+00:00"
     },
     {
       "name": "AI News",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-12T06:18:43.224Z"
+  "generatedAt": "2026-06-12T06:47:59.678Z"
 }
