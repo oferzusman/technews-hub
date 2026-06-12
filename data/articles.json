@@ -237325,7 +237325,7 @@
         "Vision Language Model"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T08:11:17.484Z",
       "created_at": "2026-06-12T08:11:17.484Z"
     },
@@ -237492,7 +237492,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T08:11:20.011Z",
       "created_at": "2026-06-12T08:11:20.011Z"
     },
@@ -237531,7 +237531,7 @@
         "The Checkup"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T09:11:08.816Z",
       "created_at": "2026-06-12T09:11:08.816Z"
     },
@@ -237552,7 +237552,7 @@
         "MIT Technology Review Explains"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T09:11:08.816Z",
       "created_at": "2026-06-12T09:11:08.816Z"
     },
@@ -237635,7 +237635,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T09:11:09.837Z",
       "created_at": "2026-06-12T09:11:09.837Z"
     },
@@ -237707,9 +237707,220 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T09:11:09.838Z",
       "created_at": "2026-06-12T09:11:09.838Z"
+    },
+    {
+      "id": 11322,
+      "source": "The Decoder",
+      "title_en": "OpenAI buys Ona to push Codex toward long-running, autonomous coding tasks",
+      "description_en": "OpenAI is acquiring Ona, previously known as Gitpod, a startup founded in Kiel, Germany in 2020 that specializes in AI agents and secure cloud development environments for software development.\nThe article OpenAI buys Ona to push Codex toward long-running, autonomous coding tasks appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-buys-ona-to-push-codex-toward-long-running-autonomous-coding-tasks/",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 10:13:55 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T11:01:04.400Z",
+      "created_at": "2026-06-12T11:01:04.400Z"
+    },
+    {
+      "id": 11323,
+      "source": "MarkTechPost",
+      "title_en": "Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm",
+      "description_en": "Moonshot AI's Kimi Work is a local desktop agent for macOS and Windows. It runs a 300-sub-agent swarm, drives your logged-in browser via WebBridge, and schedules background jobs.\nThe post Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/12/moonshot-ai-launches-kimi-work-a-local-desktop-agent-reportedly-running-on-kimi-k2-6-with-a-300-sub-agent-agent-swarm/",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 09:37:30 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T11:01:05.032Z",
+      "created_at": "2026-06-12T11:01:05.032Z"
+    },
+    {
+      "id": 11324,
+      "source": "New Atlas",
+      "title_en": "Modular astrophotography system promises fuss-free full-frame stargazing",
+      "description_en": "ArcBlue is pitching a simpler astrophotography setup that minimizes installation and monitoring, while still aiming for serious deep-sky capability. The C42 was unveiled at the National Association of Broadcasters (NAB) show in April, and the system is planned to launch on Kickstarter soon.\nContinue Reading\nCategory: Technology\nTags: Astrophotography, Modular, Full-frame, Kickstarter, Cameras",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/technology/arcblue-c42-full-frame-astrophotography/",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 10:17:54 GMT",
+      "author": "Monica J. White",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T11:01:05.259Z",
+      "created_at": "2026-06-12T11:01:05.259Z"
+    },
+    {
+      "id": 11325,
+      "source": "The Guardian AI",
+      "title_en": "Behind the scenes at OpenAI HQ: the Stephen Collins cartoon",
+      "description_en": "Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/lifeandstyle/picture/2026/jun/12/behind-the-scenes-at-openai-hq-the-stephen-collins-cartoon",
+      "image_url": "https://i.guim.co.uk/img/media/80c0d20924c5d76838585d0570364878a3906e9b/32_0_1368_1094/master/1368.jpg?width=140&quality=85&auto=format&fit=max&s=edba9235884be46a6922fae4f5fd27ab",
+      "pub_date": "Fri, 12 Jun 2026 09:30:40 GMT",
+      "author": "Stephen Collins",
+      "categories": [
+        {
+          "_": "Life and style",
+          "$": {
+            "domain": "https://www.theguardian.com/lifeandstyle/lifeandstyle"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T11:01:05.271Z",
+      "created_at": "2026-06-12T11:01:05.271Z"
+    },
+    {
+      "id": 11326,
+      "source": "Nature Machine Intelligence",
+      "title_en": "Towards AI-augmented decision making in psychiatry",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.nature.com/articles/s42256-026-01256-2",
+      "image_url": null,
+      "pub_date": "2026-06-12T00:00:00.000Z",
+      "author": "Jiyeong Kim",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-12T11:01:06.502Z",
+      "created_at": "2026-06-12T11:01:06.502Z"
+    },
+    {
+      "id": 11327,
+      "source": "Tom's Hardware",
+      "title_en": "Xbox will pay five times more for memory and storage in 2027 than it did two years ago — CEO Asha Sharma admits there's an unsustainable hardware gap that 'cannot continue'",
+      "description_en": "The next-gen Xbox Helix is looking in trouble due to surging memory and storage costs that are forcing even a giant like Microsoft to bend down.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/xbox/xbox-will-pay-five-times-more-for-components-in-2027-than-it-did-two-years-ago-ceo-asha-sharma-admits-theres-an-unsustainable-hardware-gap-that-cannot-continue",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/2gPK45jhy6isctBbm39igS-1280-80.jpg",
+      "pub_date": "Fri, 12 Jun 2026 11:00:00 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "Xbox",
+        "Video Games",
+        "Console Gaming"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T11:01:06.594Z",
+      "created_at": "2026-06-12T11:01:06.594Z"
+    },
+    {
+      "id": 11328,
+      "source": "Tom's Hardware",
+      "title_en": "Get 32GB of DDR5 RAM for only $255 in this 2-item combo from Newegg — just $514.99 gets you Corsair Vengeance RGB RAM and a Gigabyte X870 Aorus Elite motherboard, 26% off",
+      "description_en": "Newegg slashes ~$185 off this 2-item combo, dropping the RAM to an affordable $255 - just $514.99 gets you a solid Gigabyte X870 motherboards, and 32GB of RAM in this incredible Newegg combo deal.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/get-32gb-of-ddr5-ram-for-only-usd255-in-this-2-item-combo-from-newegg-just-usd514-99-gets-you-corsair-vengeance-rgb-ram-and-a-gigabyte-x870-aorus-elite-motherboard-26-percent-off",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/mE5ThKa5idLbHkSSUEr8s-1280-80.png",
+      "pub_date": "Fri, 12 Jun 2026 10:42:16 +0000",
+      "author": " Joe Shields ",
+      "categories": [
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T11:01:06.594Z",
+      "created_at": "2026-06-12T11:01:06.594Z"
+    },
+    {
+      "id": 11329,
+      "source": "Tom's Hardware",
+      "title_en": "Hades malware campaign tricks AI scanners with fake nuclear weapon prompts — malicious code triggers safety failsafes so scanners skip the payload",
+      "description_en": "Hades malware campaign now tricks AI bots into not scanning development packages, as prompts for bio- and nuclear weapons trigger failsafe mechanisms.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/hades-malware-campaign-now-tricks-ai-bots-by-injecting-text-about-biological-and-nuclear-weapons-failsafe-mechanisms-triggered-by-prompts-for-weapon-creation-stop-scans-before-payload-is-seen",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/HiKsJSCERCZaDHT4JRjGnd-1280-80.jpg",
+      "pub_date": "Fri, 12 Jun 2026 10:30:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Cybersecurity",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T11:01:06.594Z",
+      "created_at": "2026-06-12T11:01:06.594Z"
+    },
+    {
+      "id": 11330,
+      "source": "Tom's Hardware",
+      "title_en": "Several police officers arrested for using controversial Flock AI license plate reader system to stalk romantic partners, says report — investigators have unearthed at least 18 such cases in the US over recent years",
+      "description_en": "Tens of officers have been fired, and some even arrested, for abuse of the Flock license plate reader system used by police departments throughout the US, according to a new report.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/security-software/several-police-officers-arrested-for-using-controversial-flock-ai-license-plate-reader-system-to-stalk-romantic-partners-says-report-investigators-have-unearthed-at-least-18-such-cases-in-the-us-over-recent-years",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/juLGVNViiqFeg7rmPKYpkU-1280-80.jpg",
+      "pub_date": "Fri, 12 Jun 2026 09:30:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Security Software",
+        "Software"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T11:01:06.594Z",
+      "created_at": "2026-06-12T11:01:06.594Z"
+    },
+    {
+      "id": 11331,
+      "source": "AI Post (TG)",
+      "title_en": "Prometheus secures $12 billion in new fundingJeff Bezos’ company Prometheus has obtained $12 billion in investment from major financial institutions. The funding round included contributions from JPMo",
+      "description_en": "Prometheus secures $12 billion in new fundingJeff Bezos’ company Prometheus has obtained $12 billion in investment from major financial institutions. The funding round included contributions from JPMorgan, Goldman Sachs, BlackRock, and Jeff Bezos himself.The move marks a significant development for Prometheus, signaling continued interest from both established banks and its founder. Further information about the company’s plans or use of funds was not provided in the announcement.📰 @aipost",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7206",
+      "image_url": "https://cdn4.telesco.pe/file/eEX6FQnfTdNsDSZp-4NJMjwK0cqmv-BB2bYWZULXkDmANLt7SPwtuE3Y7N0SYZ0nT5D9nKF5N54tancLDsb1VTwSiTPMktBjsu6ZrqwXjHI0ErK5h_Bc_9iDTkvkBMMi5fZvrQrV-SgWk7oNMNgWZweqL-YbUQR0lxAWdDRTkLgrYUPaU4NAYJcnDaY8CKKWXQUFmfSTsxdXlJYXl1eGfrlW1c6YgyxATSIzKEcyVryMf1uvDvwv1WUnQ42E3RptumD-gsyWFrFqYCE-rpMAQWy4I7Qimj3LuJsKoGVaIKq55I8z6cBHr8wOi1PVGzg8ZkuthkfpIg4y8pQbWzQrkA.jpg",
+      "pub_date": "2026-06-12T09:55:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T11:01:12.081Z",
+      "created_at": "2026-06-12T11:01:12.081Z"
     }
   ]
 }
