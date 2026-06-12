@@ -237728,7 +237728,7 @@
         "Short News"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T11:01:04.400Z",
       "created_at": "2026-06-12T11:01:04.400Z"
     },
@@ -237774,7 +237774,7 @@
       "author": "Monica J. White",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T11:01:05.259Z",
       "created_at": "2026-06-12T11:01:05.259Z"
     },
@@ -237881,7 +237881,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T11:01:06.594Z",
       "created_at": "2026-06-12T11:01:06.594Z"
     },
@@ -237918,7 +237918,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T11:01:12.081Z",
       "created_at": "2026-06-12T11:01:12.081Z"
     },
@@ -238054,6 +238054,145 @@
       "priority": "hot",
       "fetchedAt": "2026-06-12T11:51:40.844Z",
       "created_at": "2026-06-12T11:51:40.844Z"
+    },
+    {
+      "id": 11338,
+      "source": "The Guardian AI",
+      "title_en": "Scientists are working on headphones that block annoying noises and allow the ones you love? I can’t wait! | Emma Beddington",
+      "description_en": "Imagine a world with more birdsong and less Nigel Farage. If this is the future, bring it on\nUnpopular opinion incoming: there’s cool stuff brewing in the world. Microbots might one day mend spinal cords, a petri dish of brain cells can already play video games, and now the prospect of a new wonder: according to a New Yorker article on misophonia (the condition where unwanted noise triggers disproportionate, unpleasant cognitive and physiological reactions), a team of miracle workers are “using ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/jun/12/scientists-headphones-block-annoying-noises",
+      "image_url": "https://i.guim.co.uk/img/media/aeda2c0a1f3c49019cb7141393bcece007b0e847/961_157_5644_4515/master/5644.jpg?width=140&quality=85&auto=format&fit=max&s=92d68e35a4c7a8d12f7bbdb46cd6cb8d",
+      "pub_date": "Fri, 12 Jun 2026 12:08:38 GMT",
+      "author": "Emma Beddington",
+      "categories": [
+        {
+          "_": "Life and style",
+          "$": {
+            "domain": "https://www.theguardian.com/lifeandstyle/lifeandstyle"
+          }
+        },
+        {
+          "_": "Health & wellbeing",
+          "$": {
+            "domain": "https://www.theguardian.com/lifeandstyle/health-and-wellbeing"
+          }
+        },
+        {
+          "_": "Mental health",
+          "$": {
+            "domain": "https://www.theguardian.com/society/mental-health"
+          }
+        },
+        {
+          "_": "Health",
+          "$": {
+            "domain": "https://www.theguardian.com/society/health"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T12:33:56.318Z",
+      "created_at": "2026-06-12T12:33:56.318Z"
+    },
+    {
+      "id": 11339,
+      "source": "CNBC Tech",
+      "title_en": "SpaceX IPO, U.S-Iran deal, Bezos on AI and more in Morning Squawk",
+      "description_en": "Here are five key things investors need to know to start the trading day.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/12/5-things-to-know-before-the-stock-market-opens.html",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 12:23:44 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T12:33:56.973Z",
+      "created_at": "2026-06-12T12:33:56.973Z"
+    },
+    {
+      "id": 11340,
+      "source": "CNBC Tech",
+      "title_en": "How to get SpaceX stock — without buying the IPO",
+      "description_en": "Investors will can hold SpaceX stock by virtue of owning shares in certain mutual funds and exchange-traded funds.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/12/how-to-buy-spacex-stock-without-buying-the-ipo.html",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 12:24:25 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T12:33:56.973Z",
+      "created_at": "2026-06-12T12:33:56.973Z"
+    },
+    {
+      "id": 11341,
+      "source": "CNBC Tech",
+      "title_en": "Small investors scrambled to get in on the SpaceX IPO, even as some believe the valuation is 'stupid'",
+      "description_en": "While SpaceX's IPO has caused alarm that it may be overvalued, some retail investors still want in.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/12/small-investors-scrambled-to-get-in-on-the-spacex-ipo-even-as-some-believe-the-valuation-is-stupid.html",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 12:33:09 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T12:33:56.973Z",
+      "created_at": "2026-06-12T12:33:56.973Z"
+    },
+    {
+      "id": 11342,
+      "source": "XOR Journal (TG)",
+      "title_en": "Китайцы выпустили новую опенсорс-модель для программирования — Kimi K2.7 Code 😱Главное:🟢 Новая версия на триллион параметров стала сильнее K2.6 в программировании и агентных задачах, при этом потреб",
+      "description_en": "Китайцы выпустили новую опенсорс-модель для программирования — Kimi K2.7 Code 😱Главное:🟢 Новая версия на триллион параметров стала сильнее K2.6 в программировании и агентных задачах, при этом потребляет на 30% меньше токенов.🟢 Так, по бенчмаркам модель заметно прибавила: например, в Kimi Code Bench результат вырос с 50% до 62%, а в Program Bench — с 48.3% до 53.6%.🟢 Также прокачали работу с длинными задачами: модель лучше следует инструкциям и реже теряет контекст. Короче, эта точно заслужив",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9512",
+      "image_url": "https://cdn4.telesco.pe/file/G4HJ3og1ucq5TuNRc1AQUO1PETPUecV6yABqPXuM-Mldg8tWNbY5c4yPOA0Xb5wFCcVq0Ln8h1pksLPl9vx-n57pDRsjsnEnkN6oobjP0Z4xeKs6IRNKXO5JVRvi10ugGY35nKagQOKHcOr-fnyddwkiq7Bg9W44QA_1Ab59i_BlH6wQsz3ydnrFyCXoUb-Bk555rTpJKY3VxL4iO6Ubo9SG8AIM6smRbpdu4JtsSEJhWYd_p2N8oQy7faO1K-Qc2bIWbicbXooJYDqytlHPwfDKM_lhNRPWz78kTKUV8_hrTtKq4cmvl5DHADOsRgOci16DvDOiZQdx_daawndRpg.jpg",
+      "pub_date": "2026-06-12T12:17:10+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T12:33:57.818Z",
+      "created_at": "2026-06-12T12:33:57.818Z"
+    },
+    {
+      "id": 11343,
+      "source": "Hi, AI English (TG)",
+      "title_en": "💻 Websites Can Spy On You Through SSD ActivityResearchers from Graz University of Technology have introduced a technique called FROST that can track which websites you visit or which apps you use bas",
+      "description_en": "💻 Websites Can Spy On You Through SSD ActivityResearchers from Graz University of Technology have introduced a technique called FROST that can track which websites you visit or which apps you use based on SSD activity.It doesn't require installing malware: the attack works through the browser and JavaScript.FROST doesn't read data directly. Instead, it analyzes latency when accessing the SSD. When different apps, browser tabs, or system processes use the drive, that affects its response speed. ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2576",
+      "image_url": "https://cdn4.telesco.pe/file/ChndQy90EuoucTRxFtWrY7eyhLBmLojfHP1-5OHqXcOSx-LXCK0empMhwewbAtg9bbq0KlQGjEql8TGnf3IDwKuQckLO-VAyM8srM8k_t8t486Fl5aDwbIHy2BToG8VAtiH6tEk1vMOL85SfkldTQ4jDAkEND9rp7YuRhH1wLbZyQ1KseuzhLN06cQrYHc-vsrfKJy9-pekj3imL3A2nICD7aWjSMkVeFKFhp3IONjVzbrFp9LVDrDK250caru2ptPLW6LjDnsYjfHuag914X4hPDsumnvRQLtzwVLzT0MTkgddlq_wF4LiHhk8Vbwiv9H-0U5H2dsuTze9cWJJWXQ.jpg",
+      "pub_date": "2026-06-12T12:30:35+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T12:33:58.217Z",
+      "created_at": "2026-06-12T12:33:58.217Z"
     }
   ]
 }
