@@ -239366,7 +239366,7 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T21:10:48.974Z",
       "created_at": "2026-06-12T21:10:48.974Z"
     },
@@ -239383,7 +239383,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T21:10:55.006Z",
       "created_at": "2026-06-12T21:10:55.006Z"
     },
@@ -239434,7 +239434,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T21:16:38.250Z",
       "created_at": "2026-06-12T21:16:38.250Z"
     },
@@ -239454,7 +239454,7 @@
         "Science"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T22:05:33.588Z",
       "created_at": "2026-06-12T22:05:33.588Z"
     },
@@ -239491,6 +239491,83 @@
       "priority": "hot",
       "fetchedAt": "2026-06-12T22:45:31.395Z",
       "created_at": "2026-06-12T22:45:31.395Z"
+    },
+    {
+      "id": 11404,
+      "source": "TechCrunch AI",
+      "title_en": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "description_en": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 23:00:54 +0000",
+      "author": "Connie Loizos",
+      "categories": [
+        "AI",
+        "Social",
+        "TC",
+        "Meta"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T23:44:38.154Z",
+      "created_at": "2026-06-12T23:44:38.154Z"
+    },
+    {
+      "id": 11405,
+      "source": "Interesting Engineering",
+      "title_en": "UK trials compact G-size sonobuoy built for autonomous drones hunting submarines",
+      "description_en": "Ultra Maritime has completed the first in-water deployment trial of its next-generation Multistatic Active Receive...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/uk-msars-sonobuoy-autonomous-drone-submarine-hunt",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 23:19:41 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T23:44:40.559Z",
+      "created_at": "2026-06-12T23:44:40.559Z"
+    },
+    {
+      "id": 11406,
+      "source": "Interesting Engineering",
+      "title_en": "Potato-shaped UFO? Pentagon releases 72 new reports of unexplained objects",
+      "description_en": "The Department of War has released a third batch of declassified records tied to unidentified...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/pentagon-ufo-files-orb-potato-sighting-release",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 23:05:52 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T23:44:40.560Z",
+      "created_at": "2026-06-12T23:44:40.560Z"
+    },
+    {
+      "id": 11407,
+      "source": "CNBC Tech",
+      "title_en": "Jim Cramer says it's not too late to buy SpaceX — under one condition",
+      "description_en": "CNBC's Jim Cramer said it's not too late to buy SpaceX if investors view the company as a long-term bet on space exploration.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/12/jim-cramer-not-too-late-to-buy-spacex-one-condition.html",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 23:04:29 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T23:44:41.028Z",
+      "created_at": "2026-06-12T23:44:41.028Z"
     }
   ]
 }
