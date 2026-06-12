@@ -237181,7 +237181,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T05:10:05.651Z",
       "created_at": "2026-06-12T05:10:05.651Z"
     },
@@ -237221,7 +237221,7 @@
       "author": "Mike McRae",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T06:46:00.281Z",
       "created_at": "2026-06-12T06:46:00.281Z"
     },
@@ -237257,7 +237257,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T06:46:01.950Z",
       "created_at": "2026-06-12T06:46:01.950Z"
     },
@@ -237277,6 +237277,241 @@
       "priority": "hot",
       "fetchedAt": "2026-06-12T06:46:03.830Z",
       "created_at": "2026-06-12T06:46:03.830Z"
+    },
+    {
+      "id": 11307,
+      "source": "The Verge AI",
+      "title_en": "Siri won’t be your AI girlfriend",
+      "description_en": "‘Listen, that's not what I'm here for, right?' | Image: Apple\t\n\nOur early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others.\n\"As you may know, if you use many of the existing chatbots, they're really focused on engagement to a large degree,\" said Federighi who is responsible for softwar",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "image_url": null,
+      "pub_date": "2026-06-12T07:00:31.000Z",
+      "author": "Thomas Ricker",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T08:11:15.870Z",
+      "created_at": "2026-06-12T08:11:15.870Z"
+    },
+    {
+      "id": 11308,
+      "source": "MarkTechPost",
+      "title_en": "Zyphra Release Zamba2-VL: Hybrid Mamba2–Transformer Vision-Language Models That Cut Time-to-First-Token by About an Order of Magnitude",
+      "description_en": "Zyphra has released Zamba2-VL, a family of open vision-language models at 1.2B, 2.7B, and 7B parameters. The models use a hybrid Mamba2 state-space and Transformer backbone, shipping under Apache 2.0. They stay competitive with comparable Transformer VLMs while cutting time-to-first-token by about an order of magnitude.\nThe post Zyphra Release Zamba2-VL: Hybrid Mamba2–Transformer Vision-Language Models That Cut Time-to-First-Token by About an Order of Magnitude appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/12/zyphra-release-zamba2-vl-hybrid-mamba2-transformer-vision-language-models-that-cut-time-to-first-token-by-about-an-order-of-magnitude/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-12-at-1.05.59-AM-1.png",
+      "pub_date": "Fri, 12 Jun 2026 08:06:26 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Uncategorized",
+        "Vision Language Model"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T08:11:17.484Z",
+      "created_at": "2026-06-12T08:11:17.484Z"
+    },
+    {
+      "id": 11309,
+      "source": "MarkTechPost",
+      "title_en": "A Coding Implementation on MONAI for End-to-End 3D Spleen Segmentation Using UNet on Medical CT Volumes",
+      "description_en": "In this tutorial, we build an end-to-end 3D medical image segmentation pipeline using MONAI to segment the spleen on the Medical Segmentation Decathlon Task09 dataset. We work with volumetric CT scans, apply medical imaging transformations such as orientation alignment, voxel-spacing normalization, intensity windowing, foreground cropping, and patch-based sampling, and then train a 3D UNet model […]\nThe post A Coding Implementation on MONAI for End-to-End 3D Spleen Segmentation Using UNet on Med",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/12/a-coding-implementation-on-monai-for-end-to-end-3d-spleen-segmentation-using-unet-on-medical-ct-volumes/",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 07:10:00 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Applications",
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Editors Pick",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T08:11:17.484Z",
+      "created_at": "2026-06-12T08:11:17.484Z"
+    },
+    {
+      "id": 11310,
+      "source": "The Guardian AI",
+      "title_en": "Pokémon Go data trained AI that could assist military drones in war zones",
+      "description_en": "Location scans from the globally popular augmented reality game have helped train AI to recognise and interpret physical spaces\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nAn AI model trained on data collected from users of Pokémon Go will potentially help military drones find their location in war zones.\nPokémon Go, a 2016 augmented reality mobile game, allowed players to find and catch Pokémon in the real world using the",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/12/pokemon-go-data-trained-ai-that-could-assist-military-drones-in-war-zones",
+      "image_url": "https://i.guim.co.uk/img/media/d6a42cc4bc6d108e5900541840e4bc7807b8e39a/328_0_3280_2624/master/3280.jpg?width=140&quality=85&auto=format&fit=max&s=85c63c1aba87b8316e844c1ea7de06e1",
+      "pub_date": "Fri, 12 Jun 2026 07:06:00 GMT",
+      "author": "Josh Taylor Technology reporter",
+      "categories": [
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "War reporting",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/war-reporting"
+          }
+        },
+        {
+          "_": "Arms trade",
+          "$": {
+            "domain": "https://www.theguardian.com/world/arms-trade"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T08:11:17.878Z",
+      "created_at": "2026-06-12T08:11:17.878Z"
+    },
+    {
+      "id": 11311,
+      "source": "Interesting Engineering",
+      "title_en": "UT Austin engineers build jacket that extracts drinkable water from air moisture",
+      "description_en": "Engineers at the University of Texas at Austin have built a jacket that captures moisture...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/water-harvesting-jacket-ut-austin",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/AWH-testing-of-jacket-1.jpg",
+      "pub_date": "Fri, 12 Jun 2026 06:56:32 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "Innovation",
+        "Science"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T08:11:18.560Z",
+      "created_at": "2026-06-12T08:11:18.560Z"
+    },
+    {
+      "id": 11312,
+      "source": "Product Hunt",
+      "title_en": "LocIn AI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/locin-ai",
+      "image_url": null,
+      "pub_date": "2026-06-11T20:04:57.000Z",
+      "author": "Hamit Tuğrul Arslan",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-12T08:11:19.060Z",
+      "created_at": "2026-06-12T08:11:19.060Z"
+    },
+    {
+      "id": 11313,
+      "source": "Product Hunt",
+      "title_en": "ShellMate",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/shellmate-2",
+      "image_url": null,
+      "pub_date": "2026-06-11T18:43:32.000Z",
+      "author": "Arab",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-12T08:11:19.060Z",
+      "created_at": "2026-06-12T08:11:19.060Z"
+    },
+    {
+      "id": 11314,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Это лучший скилл для Claude Code и Codex — он автоматизирует вообще всю разработку. Supergoal сам генерит план работ, выполняет его и чекает ошибки на лету.  • На старте инструмент досконально изуч",
+      "description_en": "⚡️ Это лучший скилл для Claude Code и Codex — он автоматизирует вообще всю разработку. Supergoal сам генерит план работ, выполняет его и чекает ошибки на лету.  • На старте инструмент досконально изучает сам проект, его окружение, доступный стек и финальную цель.• Разделяет задачу на понятные фазы и автоматически создает три базовых файла: дорожную карту (roadmap), текущий статус и контекст.• От вас требуется лишь утвердить предложенный план и запустить команду /goal• Процесс автоматизирован — а",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29156",
+      "image_url": "https://cdn4.telesco.pe/file/MaInAyswWUeoN3F5r9WvRXj-uYLoWeTbMV0DfFtKnc7Te4AjFM9Xqnt4kOO2AdKFHab1053wOGUTaTXsVf4IpU6zqTihU8DiHAidaKQ5wFkW-iiXW-azWS6qEffxgf6K7bYzVeA_jHJeG_KhqBxzRjTXv7gcvF4Q9-AVkpEhgEqlTZsqyeZ_nyX1cmOa1b4aUNQZSx5Sr1rLCHuLNyBPQVZXba3Evl76mZSwmnQYobZEB35ypJKlnrrtD27rajDcQEKSnGzRVnIQMbDZUuCGDsOzIbS_nkrR5DLaRD6LOaJwTCRgJDmvRYkMyUNdq4fwb0pDgVFOTkHdfQGiozUVRw.jpg",
+      "pub_date": "2026-06-12T07:02:17+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T08:11:19.901Z",
+      "created_at": "2026-06-12T08:11:19.901Z"
+    },
+    {
+      "id": 11315,
+      "source": "XOR Journal (TG)",
+      "title_en": "Правда жизни 😈@xor_journal",
+      "description_en": "Правда жизни 😈@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9511",
+      "image_url": "https://cdn4.telesco.pe/file/ju5nS-dNBlnx91b0vaLf6pdYV0C1df9O8ZfskZGsYua3iG4GKU9hqlToMM5k3yrkItAVbz7wC8bV9VjVXb9rSnu-Snvi7PYWtUAsa3cT6qPn_fyhFig9iaUu-ictz2Ue52qCe55QtJxCDe4pBErILAaEtnSH8gDhR46IFCbKj3ketM1mHtQSSTWu5K3GHzJvsqp4LxlaCH3pkmZzR2WEx9RBOo7GZf9pylmZ4FwJ6FHmTudN9AIDv1hBpSA0Zb92K5rhFWrAi1ZLKCV38LdSk6Q3C97yIvdIjz8j6-t-mkT8b_yh1pbVxEW0iYqfvhKgCQguDtfyHswTHrYEfnLdMw.jpg",
+      "pub_date": "2026-06-12T07:58:20+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T08:11:20.011Z",
+      "created_at": "2026-06-12T08:11:20.011Z"
+    },
+    {
+      "id": 11316,
+      "source": "AI Post (TG)",
+      "title_en": "OpenAI acquires Ona to expand Codex agent capabilitiesOpenAI has announced the acquisition of Ona, aiming to provide Codex agents with persistent, secure cloud workspaces. This strategic move allows a",
+      "description_en": "OpenAI acquires Ona to expand Codex agent capabilitiesOpenAI has announced the acquisition of Ona, aiming to provide Codex agents with persistent, secure cloud workspaces. This strategic move allows agents to maintain an active environment, enabling commands to run and context to be preserved even after users disconnect. Codex, which currently serves about 5 million weekly users—a 400% increase—faces limitations when agents require continuous access to specialized tools, files, and system logs f",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7205",
+      "image_url": "https://cdn4.telesco.pe/file/R3VK93MPAZQtoCN1wkatDoVFfFHObNHb-EHy6W6GOsyixgieAQXZxKmdVycnduPLUupY9EC5fYSNS1RATtsVTM9fK10w3I2xaEQmlnq28tO_jckoLPhcUbhpVFHfdqtvj3rx-XW5xN-l9wQAzGBU2h-wDMIFyJ14p3F5Cgzl_S1xJHimoFnzqdIvw73HTrQ1lBm6iSZggCOMjQdywfZIvgfyOSNJ8iBn1MvtGm3fpzc0NGlvJsdhdmAwsegh8ozyK_MpZRqYOQHlR12VJUSjFW2r3m2H0SHczqQVp8dmiGa1rMsCvg3JX1o4JnvVeWAC3eZSke-rDmIxPmXrRmjEHA.jpg",
+      "pub_date": "2026-06-12T07:05:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T08:11:20.752Z",
+      "created_at": "2026-06-12T08:11:20.752Z"
     }
   ]
 }
