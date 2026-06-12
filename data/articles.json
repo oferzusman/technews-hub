@@ -239057,7 +239057,7 @@
         "spacex ipo"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T19:26:53.456Z",
       "created_at": "2026-06-12T19:26:53.456Z"
     },
@@ -239132,7 +239132,7 @@
         "Anthropic"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T19:26:54.764Z",
       "created_at": "2026-06-12T19:26:54.764Z"
     },
@@ -239197,7 +239197,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T19:26:56.389Z",
       "created_at": "2026-06-12T19:26:56.389Z"
     },
@@ -239240,7 +239240,7 @@
         "Vik Bajaj"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T20:23:11.640Z",
       "created_at": "2026-06-12T20:23:11.640Z"
     },
@@ -239316,6 +239316,110 @@
       "priority": "hot",
       "fetchedAt": "2026-06-12T20:23:14.251Z",
       "created_at": "2026-06-12T20:23:14.251Z"
+    },
+    {
+      "id": 11395,
+      "source": "TechCrunch AI",
+      "title_en": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "description_en": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 20:38:09 +0000",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "categories": [
+        "AI",
+        "Security",
+        "Android",
+        "cybercrime",
+        "cybersecurity",
+        "Google",
+        "In Brief",
+        "scams"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T21:10:47.264Z",
+      "created_at": "2026-06-12T21:10:47.264Z"
+    },
+    {
+      "id": 11396,
+      "source": "MarkTechPost",
+      "title_en": "Google Releases Gemini-SQL2: Gemini 3.1 Pro Text-to-SQL Scores 80.04% on BIRD Single-Model Leaderboard",
+      "description_en": "We look at Gemini-SQL2, the text-to-SQL capability Google Research announced on June 12, 2026. Powered by Gemini 3.1 Pro, it posted 80.04% execution accuracy on the BIRD single-model leaderboard. We explain what the score measures, how the leaderboard stacks up, and what Google has not yet disclosed. We also cover use cases and a schema-grounded implementation pattern.\nThe post Google Releases Gemini-SQL2: Gemini 3.1 Pro Text-to-SQL Scores 80.04% on BIRD Single-Model Leaderboard appeared first o",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-scores-80-04-on-bird-single-model-leaderboard/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/06/jk1.jpeg",
+      "pub_date": "Fri, 12 Jun 2026 21:04:11 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "Data Visualization",
+        "Databases",
+        "Editors Pick",
+        "Model Context Protocol (MCP)",
+        "New Releases",
+        "Open Source",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T21:10:48.974Z",
+      "created_at": "2026-06-12T21:10:48.974Z"
+    },
+    {
+      "id": 11397,
+      "source": "XOR Journal (TG)",
+      "title_en": "Мечта: в Google Earth добавили авиасимулятор для всех пользователей!Теперь можно сесть за штурвал самолета в веб-версии и полетать над любыми уголками планеты, изучая всё вокруг. Просто сверху находим",
+      "description_en": "Мечта: в Google Earth добавили авиасимулятор для всех пользователей!Теперь можно сесть за штурвал самолета в веб-версии и полетать над любыми уголками планеты, изучая всё вокруг. Просто сверху находим «Инструменты» и нажимаем «Имитация полета».Летаем 🐈@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9514",
+      "image_url": null,
+      "pub_date": "2026-06-12T21:07:09+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T21:10:55.006Z",
+      "created_at": "2026-06-12T21:10:55.006Z"
+    },
+    {
+      "id": 11398,
+      "source": "Prompt AI News (TG)",
+      "title_en": "⚡️ MiniMax drops M3: frontier coding open weights, $20M commercial free passMiniMax M3 is the first open-weight model to combine frontier coding, 1M-token context, and native multimodal capabilities i",
+      "description_en": "⚡️ MiniMax drops M3: frontier coding open weights, $20M commercial free passMiniMax M3 is the first open-weight model to combine frontier coding, 1M-token context, and native multimodal capabilities in one architecture. API pricing starts at $0.30/M input tokens vs. Claude Opus 4.7's $5.00, making it 15x+ cheaper.The licensing is where it gets interesting. Commercial use is free until your product clears $20M/yr revenue. Under that? Just send an email. M2.7 shipped under a commercially restricte",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/174",
+      "image_url": null,
+      "pub_date": "2026-06-12T20:49:11+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T21:10:56.351Z",
+      "created_at": "2026-06-12T21:10:56.351Z"
+    },
+    {
+      "id": 11399,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🤖 Moonshot drops Kimi K2.7 Code, open weights and allIt's a coding-focused model built on K2.6, with the headline trick being ~30% fewer reasoning tokens on equivalent tasks.Benchmarks are framed alm",
+      "description_en": "🤖 Moonshot drops Kimi K2.7 Code, open weights and allIt's a coding-focused model built on K2.6, with the headline trick being ~30% fewer reasoning tokens on equivalent tasks.Benchmarks are framed almost entirely as gains over its own predecessor. No SWE-Bench Pro numbers against Fable 5 or GPT-5.5. \"Kimi Code Bench v2\" is an eval only Moonshot runs. Honest? Sure. Comparable? Not really.Weights are free under the Modified MIT license. While peers quietly go closed, Moonshot keeps shipping open.S",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/175",
+      "image_url": null,
+      "pub_date": "2026-06-12T20:50:03+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T21:10:56.351Z",
+      "created_at": "2026-06-12T21:10:56.351Z"
     }
   ]
 }
