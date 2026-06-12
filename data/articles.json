@@ -237842,7 +237842,7 @@
         "Console Gaming"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T11:01:06.594Z",
       "created_at": "2026-06-12T11:01:06.594Z"
     },
@@ -237861,7 +237861,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T11:01:06.594Z",
       "created_at": "2026-06-12T11:01:06.594Z"
     },
@@ -237951,7 +237951,7 @@
         "robots"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T11:51:37.466Z",
       "created_at": "2026-06-12T11:51:37.466Z"
     },
@@ -237972,7 +237972,7 @@
         "verizon"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T11:51:37.466Z",
       "created_at": "2026-06-12T11:51:37.466Z"
     },
@@ -237993,7 +237993,7 @@
         "space"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T11:51:37.466Z",
       "created_at": "2026-06-12T11:51:37.466Z"
     },
@@ -238015,7 +238015,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T11:51:38.615Z",
       "created_at": "2026-06-12T11:51:38.615Z"
     },
@@ -238034,7 +238034,7 @@
         "AI and Robotics"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T11:51:40.134Z",
       "created_at": "2026-06-12T11:51:40.134Z"
     },
@@ -238051,7 +238051,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T11:51:40.844Z",
       "created_at": "2026-06-12T11:51:40.844Z"
     },
@@ -238105,7 +238105,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T12:33:56.318Z",
       "created_at": "2026-06-12T12:33:56.318Z"
     },
@@ -238173,7 +238173,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T12:33:57.818Z",
       "created_at": "2026-06-12T12:33:57.818Z"
     },
@@ -238193,6 +238193,187 @@
       "priority": "hot",
       "fetchedAt": "2026-06-12T12:33:58.217Z",
       "created_at": "2026-06-12T12:33:58.217Z"
+    },
+    {
+      "id": 11344,
+      "source": "TechCrunch AI",
+      "title_en": "SpaceX IPO: Everything you need to know",
+      "description_en": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 14:08:54 +0000",
+      "author": "Kirsten Korosec",
+      "categories": [
+        "AI",
+        "Space",
+        "Transportation",
+        "Elon Musk",
+        "SpaceX",
+        "spacex ipo"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T14:19:37.243Z",
+      "created_at": "2026-06-12T14:19:37.243Z"
+    },
+    {
+      "id": 11345,
+      "source": "The Verge AI",
+      "title_en": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
+      "description_en": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-powered engineering tools to aid in the design of physical products.\nThe NYT first reported on Prometheus last November, but now Bezos is sharing more information about the startup after a $12 billion funding round, putting the company at a $41 billion valuation. Bezos serves as co",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+      "image_url": null,
+      "pub_date": "2026-06-12T14:03:39.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T14:19:37.276Z",
+      "created_at": "2026-06-12T14:19:37.276Z"
+    },
+    {
+      "id": 11346,
+      "source": "The Decoder",
+      "title_en": "Google files first joint lawsuit with FBI over Chinese AI scam network, OpenAI blocks PRC influence clusters",
+      "description_en": "Within days of each other, Google and OpenAI separately exposed operations allegedly originating in China that use AI for fraud and covert influence campaigns. Both target US infrastructure and political debates.\nThe article Google files first joint lawsuit with FBI over Chinese AI scam network, OpenAI blocks PRC influence clusters appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/google-files-first-joint-lawsuit-with-fbi-over-chinese-ai-scam-network-openai-blocks-prc-influence-clusters/",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 14:10:02 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "AI in China",
+        "China",
+        "Google",
+        "OpenAI",
+        "USA"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T14:19:38.502Z",
+      "created_at": "2026-06-12T14:19:38.502Z"
+    },
+    {
+      "id": 11347,
+      "source": "The Decoder",
+      "title_en": "Mistral AI seeks 3 billion euros to fund its European AI push",
+      "description_en": "French AI startup Mistral AI is negotiating a new funding round of around 3 billion euros at a valuation of approximately 20 billion euros.\nThe article Mistral AI seeks 3 billion euros to fund its European AI push appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/mistral-ai-seeks-3-billion-euros-to-fund-its-european-ai-push/",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 13:48:31 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Mistral AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T14:19:38.502Z",
+      "created_at": "2026-06-12T14:19:38.502Z"
+    },
+    {
+      "id": 11348,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 12:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-12T14:19:38.559Z",
+      "created_at": "2026-06-12T14:19:38.559Z"
+    },
+    {
+      "id": 11349,
+      "source": "Interesting Engineering",
+      "title_en": "Brain-inspired cryogenic chip operates at temp as low as -460°F for quantum and space use",
+      "description_en": "Researchers at the University of Hong Kong (HKU) and the Centre for Advanced Semiconductors and...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/hku-cryogenic-neuromorphic-hardware-quantum-computing",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 14:03:30 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "Science"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T14:19:40.052Z",
+      "created_at": "2026-06-12T14:19:40.052Z"
+    },
+    {
+      "id": 11350,
+      "source": "Interesting Engineering",
+      "title_en": "US’ new 180-foot drone ship could launch hypersonic missiles, demo set for 2027",
+      "description_en": "Saronic and Castelion, two defense technology companies, have announced plans to combine an autonomous warship...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-drone-ship-to-fire-hypersonic-missiles",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 13:50:57 +0000",
+      "author": "Sujita Sinha",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T14:19:40.052Z",
+      "created_at": "2026-06-12T14:19:40.052Z"
+    },
+    {
+      "id": 11351,
+      "source": "Interesting Engineering",
+      "title_en": "FIFA World Cup 2026 gets Hyundai robot dogs for venue security patrols",
+      "description_en": "As the 2026 FIFA World Cup begins in North America, Hyundai Motor Company has launched...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/hyundai-deploys-robot-dogs-for-fifa",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 13:33:59 +0000",
+      "author": "Sujita Sinha",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T14:19:40.052Z",
+      "created_at": "2026-06-12T14:19:40.052Z"
+    },
+    {
+      "id": 11352,
+      "source": "AI Post (TG)",
+      "title_en": "Giant inflatable of Elon Musk appears in Times Square ahead of SpaceX's IPO. “SpaceX's Grok makes AI child porn\".@aipost 🏴",
+      "description_en": "Giant inflatable of Elon Musk appears in Times Square ahead of SpaceX's IPO. “SpaceX's Grok makes AI child porn\".@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7207",
+      "image_url": null,
+      "pub_date": "2026-06-12T12:34:35+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T14:19:41.797Z",
+      "created_at": "2026-06-12T14:19:41.797Z"
     }
   ]
 }
