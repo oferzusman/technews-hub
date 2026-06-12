@@ -238882,7 +238882,7 @@
         "Mistral AI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T18:04:15.502Z",
       "created_at": "2026-06-12T18:04:15.502Z"
     },
@@ -238979,7 +238979,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T18:04:16.654Z",
       "created_at": "2026-06-12T18:04:16.654Z"
     },
@@ -238996,7 +238996,7 @@
       "author": "Maryna Holovnova",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T18:04:17.746Z",
       "created_at": "2026-06-12T18:04:17.746Z"
     },
@@ -239015,7 +239015,7 @@
         "AI and Robotics"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T18:04:18.557Z",
       "created_at": "2026-06-12T18:04:18.557Z"
     },
@@ -239032,7 +239032,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T18:04:20.894Z",
       "created_at": "2026-06-12T18:04:20.894Z"
     },
@@ -239111,7 +239111,7 @@
         "Ukraine war"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T19:26:53.567Z",
       "created_at": "2026-06-12T19:26:53.567Z"
     },
@@ -239180,7 +239180,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T19:26:55.367Z",
       "created_at": "2026-06-12T19:26:55.367Z"
     },
@@ -239217,6 +239217,105 @@
       "priority": "hot",
       "fetchedAt": "2026-06-12T19:27:02.778Z",
       "created_at": "2026-06-12T19:27:02.778Z"
+    },
+    {
+      "id": 11392,
+      "source": "Ars Technica",
+      "title_en": "Here's what Jeff Bezos' new startup Prometheus will do",
+      "description_en": "It isn't the only startup tackling physical AI, but it's one of the best-funded.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Bezos-Bajaj-Prometheus-1152x648.jpg",
+      "pub_date": "Fri, 12 Jun 2026 18:45:40 +0000",
+      "author": "\n                    Samuel Axon\n                ",
+      "categories": [
+        "AI",
+        "funding",
+        "Jeff Bezos",
+        "physical AI",
+        "project prometheus",
+        "Prometheus",
+        "startups",
+        "Vik Bajaj"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T20:23:11.640Z",
+      "created_at": "2026-06-12T20:23:11.640Z"
+    },
+    {
+      "id": 11393,
+      "source": "The Guardian AI",
+      "title_en": "Police officer under criminal investigation over alleged use of AI",
+      "description_en": "Unidentified officer removed from frontline duties in the first known case of its kind in the UK\nA police officer is under criminal investigation over the alleged use of artificial intelligence and has been removed from frontline duties in the first known case of its kind in the UK.\nThe officer, who has not been named, is being investigated over allegations of using the technology to “create evidential material in a number of cases” and perverting the course of justice.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/12/police-officer-under-criminal-investigation-over-alleged-use-of-ai",
+      "image_url": "https://i.guim.co.uk/img/media/0c3edebeeb253bbd55651f876437604985aa7658/327_0_2845_2277/master/2845.jpg?width=140&quality=85&auto=format&fit=max&s=0f596d193e54131629c4cc379c130b6c",
+      "pub_date": "Fri, 12 Jun 2026 20:12:51 GMT",
+      "author": "Nadeem Badshah",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Police",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/police"
+          }
+        },
+        {
+          "_": "Metropolitan police",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/metropolitan-police"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Crown Prosecution Service",
+          "$": {
+            "domain": "https://www.theguardian.com/law/crown-prosecution-service"
+          }
+        },
+        {
+          "_": "Derbyshire",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/derbyshire"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T20:23:13.664Z",
+      "created_at": "2026-06-12T20:23:13.664Z"
+    },
+    {
+      "id": 11394,
+      "source": "Interesting Engineering",
+      "title_en": "US scientists create highest-resolution 3D map yet of a particle shaping matter",
+      "description_en": "Scientists in the US have utilized the Polaris supercomputer to generate the most detailed three-dimensional...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/us-supercomputer-highest-resolution-3d-map",
+      "image_url": "https://www.youtube.com/embed/Rk9KZLaVItI",
+      "pub_date": "Fri, 12 Jun 2026 19:59:11 +0000",
+      "author": "Georgina Jedikovska",
+      "categories": [
+        "Science"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T20:23:14.251Z",
+      "created_at": "2026-06-12T20:23:14.251Z"
     }
   ]
 }
