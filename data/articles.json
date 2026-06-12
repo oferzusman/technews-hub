@@ -237757,7 +237757,7 @@
         "Technology"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T11:01:05.032Z",
       "created_at": "2026-06-12T11:01:05.032Z"
     },
@@ -237804,7 +237804,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T11:01:05.271Z",
       "created_at": "2026-06-12T11:01:05.271Z"
     },
@@ -237901,7 +237901,7 @@
         "Software"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T11:01:06.594Z",
       "created_at": "2026-06-12T11:01:06.594Z"
     },
@@ -237921,6 +237921,139 @@
       "priority": "hot",
       "fetchedAt": "2026-06-12T11:01:12.081Z",
       "created_at": "2026-06-12T11:01:12.081Z"
+    },
+    {
+      "id": 11332,
+      "source": "Ars Technica",
+      "title_en": "Pokémon Go players unwittingly contributed to tech with military drone uses",
+      "description_en": "The repurposing of Pokémon Go data for AI training continues to draw scrutiny.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2262175351-1152x648.jpg",
+      "pub_date": "Fri, 12 Jun 2026 11:15:41 +0000",
+      "author": "\n                    Jeremy Hsu\n                ",
+      "categories": [
+        "AI",
+        "Gaming",
+        "AI drones",
+        "Artificial Intelligence",
+        "drones",
+        "food delivery robots",
+        "GNSS",
+        "GPS",
+        "GPS jamming",
+        "military drones",
+        "mobile games",
+        "niantic",
+        "pokemon",
+        "pokemon go",
+        "robots"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T11:51:37.466Z",
+      "created_at": "2026-06-12T11:51:37.466Z"
+    },
+    {
+      "id": 11333,
+      "source": "Ars Technica",
+      "title_en": "Verizon sent man a refurbished phone with MDM, then deleted his data remotely",
+      "description_en": "Failure raises questions about how Verizon prepares refurbished phones for new users.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/06/verizon-sent-man-a-refurbished-phone-with-mdm-then-deleted-his-data-remotely/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/verizon-hq-logo-1152x648-1781018733.jpg",
+      "pub_date": "Fri, 12 Jun 2026 11:00:41 +0000",
+      "author": "\n                    Jon Brodkin\n                ",
+      "categories": [
+        "Features",
+        "Policy",
+        "verizon"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T11:51:37.466Z",
+      "created_at": "2026-06-12T11:51:37.466Z"
+    },
+    {
+      "id": 11334,
+      "source": "Ars Technica",
+      "title_en": "Rocket Report: Nova moving through test campaign; SpaceX IPO launches Friday",
+      "description_en": "\"If I needed to fly on another vehicle, what would that look like?\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/space/2026/06/rocket-report-nova-moving-through-test-campaign-spacex-ipo-launches-friday/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/stoke-space-2-1152x648.jpg",
+      "pub_date": "Fri, 12 Jun 2026 11:00:13 +0000",
+      "author": "\n                    Eric Berger\n                ",
+      "categories": [
+        "Space",
+        "rocket report",
+        "space"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T11:51:37.466Z",
+      "created_at": "2026-06-12T11:51:37.466Z"
+    },
+    {
+      "id": 11335,
+      "source": "The Decoder",
+      "title_en": "The AI industry's platform trap is starting to look a lot like Microsoft's",
+      "description_en": "Anthropic is throttling its new Mythos model for certain tasks while building apps that directly compete with its largest customers. Customers, partners, and investors are pushing back.\nThe article The AI industry's platform trap is starting to look a lot like Microsoft's appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/the-ai-industrys-platform-trap-is-starting-to-look-a-lot-like-microsofts/",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 11:45:14 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T11:51:38.615Z",
+      "created_at": "2026-06-12T11:51:38.615Z"
+    },
+    {
+      "id": 11336,
+      "source": "Interesting Engineering",
+      "title_en": "Watch: Korean humanoid robot performs viral K-POP dance, learns by watching videos",
+      "description_en": "While China dominates humanoid robotics headlines, a Korean firm showcased a humanoid learning complex motions...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/korean-humanoid-robot-k-pop-dance",
+      "image_url": "https://www.youtube.com/embed/NeL2BmgcFJs",
+      "pub_date": "Fri, 12 Jun 2026 11:25:31 +0000",
+      "author": "Jijo Malayil",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T11:51:40.134Z",
+      "created_at": "2026-06-12T11:51:40.134Z"
+    },
+    {
+      "id": 11337,
+      "source": "CNBC Tech",
+      "title_en": "The Tech Download: Mistral's Arthur Mensch on agentic AI, chips and enterprise adoption",
+      "description_en": "CNBC's Arjun Kharpal sat down with the chief of one of Europe's leading AI companies.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/12/tech-download-mistral-mensch-agentic-ai-chips.html",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 11:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T11:51:40.844Z",
+      "created_at": "2026-06-12T11:51:40.844Z"
     }
   ]
 }
