@@ -236854,7 +236854,7 @@
         "Staff"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T22:26:00.331Z",
       "created_at": "2026-06-11T22:26:00.331Z"
     },
@@ -236915,7 +236915,7 @@
         "Military"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T22:55:49.476Z",
       "created_at": "2026-06-11T22:55:49.476Z"
     },
@@ -236932,7 +236932,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T22:55:49.823Z",
       "created_at": "2026-06-11T22:55:49.823Z"
     },
@@ -236951,7 +236951,7 @@
         "Military"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T23:21:54.243Z",
       "created_at": "2026-06-11T23:21:54.243Z"
     },
@@ -236968,7 +236968,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T23:58:20.358Z",
       "created_at": "2026-06-11T23:58:20.358Z"
     },
@@ -236985,9 +236985,75 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-11T23:58:25.058Z",
       "created_at": "2026-06-11T23:58:25.058Z"
+    },
+    {
+      "id": 11296,
+      "source": "TechCrunch AI",
+      "title_en": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+      "description_en": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 01:48:07 +0000",
+      "author": "Anna Heim",
+      "categories": [
+        "AI",
+        "Robotics",
+        "Startups",
+        "Automation",
+        "theker"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T01:56:43.707Z",
+      "created_at": "2026-06-12T01:56:43.707Z"
+    },
+    {
+      "id": 11297,
+      "source": "TechCrunch AI",
+      "title_en": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+      "description_en": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 01:04:38 +0000",
+      "author": "Marina Temkin",
+      "categories": [
+        "AI",
+        "Biotech & Health",
+        "Hardware",
+        "jeff bezos",
+        "physical ai",
+        "Prometheus"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T01:56:43.708Z",
+      "created_at": "2026-06-12T01:56:43.708Z"
+    },
+    {
+      "id": 11298,
+      "source": "Interesting Engineering",
+      "title_en": "Concrete chemistry altered by carbon dioxide injection to achieve 13% strength gain",
+      "description_en": "For years, companies have injected carbon dioxide into concrete to trap emissions and improve early...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/co2-cement-setting-hidden-reaction",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 00:34:35 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "Science"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T01:56:46.164Z",
+      "created_at": "2026-06-12T01:56:46.164Z"
     }
   ]
 }
