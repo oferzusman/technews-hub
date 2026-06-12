@@ -1,9 +1,9 @@
 {
-  "total": 11331,
+  "total": 11337,
   "translated": 8824,
-  "untranslated": 2507,
-  "today": 36,
-  "week": 708,
+  "untranslated": 2513,
+  "today": 42,
+  "week": 714,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,13 +19,13 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 866,
+      "total": 867,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 654,
+      "total": 655,
       "translated": 448,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -37,13 +37,13 @@
     },
     {
       "name": "Ars Technica",
-      "total": 506,
+      "total": 509,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
       "name": "The Decoder",
-      "total": 483,
+      "total": 484,
       "translated": 340,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-12T11:03:06.557Z"
+  "generatedAt": "2026-06-12T11:52:40.974Z"
 }
