@@ -1,9 +1,9 @@
 {
-  "total": 11299,
+  "total": 11301,
   "translated": 8824,
-  "untranslated": 2475,
-  "today": 4,
-  "week": 676,
+  "untranslated": 2477,
+  "today": 6,
+  "week": 678,
   "sources": [
     {
       "name": "Product Hunt",
@@ -61,7 +61,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 393,
+      "total": 394,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -73,9 +73,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 366,
+      "total": 367,
       "translated": 168,
-      "lastDate": "2026-06-12T02:17:01+00:00"
+      "lastDate": "2026-06-12T05:03:01+00:00"
     },
     {
       "name": "The Verge AI",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-12T03:38:49.196Z"
+  "generatedAt": "2026-06-12T06:18:43.224Z"
 }
