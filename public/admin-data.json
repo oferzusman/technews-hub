@@ -1,9 +1,9 @@
 {
-  "total": 11391,
+  "total": 11399,
   "translated": 8824,
-  "untranslated": 2567,
-  "today": 96,
-  "week": 768,
+  "untranslated": 2575,
+  "today": 104,
+  "week": 776,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 872,
+      "total": 873,
       "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -31,13 +31,13 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 583,
+      "total": 584,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "Ars Technica",
-      "total": 514,
+      "total": 515,
       "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
@@ -61,7 +61,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 400,
+      "total": 401,
       "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -85,7 +85,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 298,
+      "total": 299,
       "translated": 203,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -103,9 +103,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 278,
+      "total": 279,
       "translated": 119,
-      "lastDate": "2026-06-12T12:17:10+00:00"
+      "lastDate": "2026-06-12T21:07:09+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -186,6 +186,12 @@
       "lastDate": "2026-04-09T06:45:21Z"
     },
     {
+      "name": "Prompt AI News (TG)",
+      "total": 42,
+      "translated": 23,
+      "lastDate": "2026-06-12T20:50:03+00:00"
+    },
+    {
       "name": "Nature Machine Intelligence",
       "total": 41,
       "translated": 37,
@@ -196,12 +202,6 @@
       "total": 41,
       "translated": 29,
       "lastDate": "2026-06-11T14:11:09+00:00"
-    },
-    {
-      "name": "Prompt AI News (TG)",
-      "total": 40,
-      "translated": 23,
-      "lastDate": "2026-06-09T18:29:30+00:00"
     },
     {
       "name": "Slashdot.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-12T19:31:37.624Z"
+  "generatedAt": "2026-06-12T21:12:07.749Z"
 }
