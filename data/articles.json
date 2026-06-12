@@ -238445,7 +238445,7 @@
         "Waymo"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T15:51:34.395Z",
       "created_at": "2026-06-12T15:51:34.395Z"
     },
@@ -238462,7 +238462,7 @@
       "author": "Omar Kardoudi",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T15:51:36.629Z",
       "created_at": "2026-06-12T15:51:36.629Z"
     },
@@ -238540,7 +238540,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T15:51:38.732Z",
       "created_at": "2026-06-12T15:51:38.732Z"
     },
@@ -238682,7 +238682,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T17:21:52.735Z",
       "created_at": "2026-06-12T17:21:52.735Z"
     },
@@ -238736,7 +238736,7 @@
         "x402"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T17:21:53.953Z",
       "created_at": "2026-06-12T17:21:53.953Z"
     },
@@ -238843,7 +238843,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T17:22:00.338Z",
       "created_at": "2026-06-12T17:22:00.338Z"
     },
@@ -238860,9 +238860,181 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T17:22:00.375Z",
       "created_at": "2026-06-12T17:22:00.375Z"
+    },
+    {
+      "id": 11377,
+      "source": "TechCrunch AI",
+      "title_en": "Mistral is rumored to be raising €3B at €20B valuation",
+      "description_en": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 17:38:11 +0000",
+      "author": "Ram Iyer",
+      "categories": [
+        "AI",
+        "Fundraising",
+        "In Brief",
+        "Mistral AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T18:04:15.502Z",
+      "created_at": "2026-06-12T18:04:15.502Z"
+    },
+    {
+      "id": 11378,
+      "source": "Ars Technica",
+      "title_en": "$130 billion in data center projects blocked by protests so far this year",
+      "description_en": "Winning fight against AI data centers gives people a \"taste of political power.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2275860721-1024x648.jpg",
+      "pub_date": "Fri, 12 Jun 2026 17:18:49 +0000",
+      "author": "\n                    Ashley Belanger\n                ",
+      "categories": [
+        "AI",
+        "Policy",
+        "ai data center",
+        "Artificial Intelligence",
+        "data center moratoriums",
+        "meta",
+        "openai"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T18:04:15.547Z",
+      "created_at": "2026-06-12T18:04:15.547Z"
+    },
+    {
+      "id": 11379,
+      "source": "Ars Technica",
+      "title_en": "When it comes to total water use, AI data centers are a drop in the bucket",
+      "description_en": "Even moderately sized data centers can have an outsized local impact.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1240294200-1024x648.jpg",
+      "pub_date": "Fri, 12 Jun 2026 16:51:38 +0000",
+      "author": "\n                    Kyle Orland\n                ",
+      "categories": [
+        "AI",
+        "Amazon",
+        "data centers",
+        "google",
+        "water"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T18:04:15.547Z",
+      "created_at": "2026-06-12T18:04:15.547Z"
+    },
+    {
+      "id": 11380,
+      "source": "Ars Technica",
+      "title_en": "Google sues Chinese cybercrime network that used Gemini to automate scams",
+      "description_en": "The fraudsters allegedly targeted hundreds of thousands of people with Gemini-coded scams sites.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-green-terminal-1152x648.jpg",
+      "pub_date": "Fri, 12 Jun 2026 16:34:36 +0000",
+      "author": "\n                    Ryan Whitwam\n                ",
+      "categories": [
+        "AI",
+        "Google",
+        "Artificial Intelligence",
+        "gemini",
+        "generative ai",
+        "google",
+        "scams"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T18:04:15.548Z",
+      "created_at": "2026-06-12T18:04:15.548Z"
+    },
+    {
+      "id": 11381,
+      "source": "The Decoder",
+      "title_en": "OpenAI kicks off the AI price wars with flexible rate-limit resets for its Codex coding agent",
+      "description_en": "OpenAI now lets Codex users bank their rate-limit resets and trigger them manually instead of watching them expire on a fixed schedule. If you hit your usage cap mid-session, you can cash in a saved reset right away instead of waiting. Users on the Go, Plus, Pro, and Business plans each get one free reset to start. Plus and Pro users can also invite friends to unlock extra resets.\nThe article OpenAI kicks off the AI price wars with flexible rate-limit resets for its Codex coding agent appeared f",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-kicks-off-the-ai-price-wars-with-flexible-rate-limit-resets-for-its-codex-coding-agent/",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 17:34:23 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Codex",
+        "GPT-5-Codex",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T18:04:16.654Z",
+      "created_at": "2026-06-12T18:04:16.654Z"
+    },
+    {
+      "id": 11382,
+      "source": "New Atlas",
+      "title_en": "Light-packin' mesh intercom helmet connects up to 15 cyclists at once",
+      "description_en": "Lumos is a company known for designing bicycle helmets with integrated lighting systems. Its previous models focused primarily on visibility and safety, helping cyclists become more noticeable and predictable to car drivers on the road. The latest model, called Sonorus, is designed with an emphasis on communication and audio features, adding a built-in mesh intercom system. It is currently seeking backing on Kickstarter.\nContinue Reading\nCategory: Bicycles, Transport\nTags: Kickstarter, xxKickboo",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/bicycles/lumos-sonorus-mesh-intercom-bike-helmet/",
+      "image_url": null,
+      "pub_date": "Fri, 12 Jun 2026 17:30:00 GMT",
+      "author": "Maryna Holovnova",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T18:04:17.746Z",
+      "created_at": "2026-06-12T18:04:17.746Z"
+    },
+    {
+      "id": 11383,
+      "source": "Interesting Engineering",
+      "title_en": "New research shows robot ‘personality’ in games hinges on timing and turn-taking",
+      "description_en": "New research has found that humanoid robots could become effective playmates for humans, but only...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/robot-playmates-behavior-humans",
+      "image_url": "https://www.youtube.com/embed/lqlyxg1-gE0",
+      "pub_date": "Fri, 12 Jun 2026 17:43:40 +0000",
+      "author": "Jijo Malayil",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T18:04:18.557Z",
+      "created_at": "2026-06-12T18:04:18.557Z"
+    },
+    {
+      "id": 11384,
+      "source": "AI Post (TG)",
+      "title_en": "❗️The anti-aging and human enhancement race has gone geopolitical.Governments are treating longevity as a strategic technology.🇷🇺 Russia committed $26B. Putin made longevity a national priority: org",
+      "description_en": "❗️The anti-aging and human enhancement race has gone geopolitical.Governments are treating longevity as a strategic technology.🇷🇺 Russia committed $26B. Putin made longevity a national priority: organ printing, genetics, cryotherapy.🇨🇳 China’s biotech plan targets gene therapies, brain-computer interfaces, and AI-designed medicines.🇦🇪 The UAE launched a national longevity initiative backed by sovereign wealth, offering some of the world’s fastest clinical approvals.🇸🇬 Singapore is fundin",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7211",
+      "image_url": null,
+      "pub_date": "2026-06-12T17:34:10+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-12T18:04:20.894Z",
+      "created_at": "2026-06-12T18:04:20.894Z"
     }
   ]
 }
