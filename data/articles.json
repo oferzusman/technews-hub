@@ -240597,7 +240597,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T11:31:17.860Z",
       "created_at": "2026-06-13T11:31:17.860Z"
     },
@@ -240648,7 +240648,7 @@
       "author": "Allison Johnson",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T13:05:03.180Z",
       "created_at": "2026-06-13T13:05:03.180Z"
     },
@@ -240714,7 +240714,7 @@
         "Research"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T13:05:04.332Z",
       "created_at": "2026-06-13T13:05:04.332Z"
     },
@@ -240869,7 +240869,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T13:05:05.363Z",
       "created_at": "2026-06-13T13:05:05.363Z"
     },
@@ -240909,7 +240909,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T13:05:06.277Z",
       "created_at": "2026-06-13T13:05:06.277Z"
     },
@@ -240926,7 +240926,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T13:05:11.655Z",
       "created_at": "2026-06-13T13:05:11.655Z"
     },
@@ -240943,9 +240943,119 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T13:05:11.794Z",
       "created_at": "2026-06-13T13:05:11.794Z"
+    },
+    {
+      "id": 11461,
+      "source": "Tom's Hardware",
+      "title_en": "More than 75 data center build-outs worth $130 billion have been successfully blocked in the first four months of 2026 — bipartisan opposition mounts nationwide over fears of soaring power and water costs",
+      "description_en": "A research firm says the number of blocked data centers in the first quarter of 2026 already matches the number of projects stopped in 2025. The opposition also comes from both sides of the aisle, despite President Trump's push for more AI development inside the U.S.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/more-than-75-data-center-build-outs-worth-usd130-billion-have-been-successfully-blocked-in-the-first-four-months-of-2026-bipartisan-opposition-mounts-nationwide-over-fears-of-soaring-power-and-water-costs",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Mmp3MeVfMAxqZQ3Z9geEz4-1280-80.jpg",
+      "pub_date": "Sat, 13 Jun 2026 14:13:22 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T14:25:42.773Z",
+      "created_at": "2026-06-13T14:25:42.773Z"
+    },
+    {
+      "id": 11462,
+      "source": "Tom's Hardware",
+      "title_en": "AMD challenges Nvidia's DGX Spark with $3,999 Ryzen AI Halo with Windows 11 support — Strix Halo desktop undercuts Nvidia by $700, packs 128GB of unified memory",
+      "description_en": "Powered by the Ryzen AI Max+ 395 processor and 128GB of unified memory, AMD's developer kit arrives as a direct competitor to Nvidia's DGX Spark, which recently saw a price increase to $4,699.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/mini-pcs/amd-challenges-nvidias-dgx-spark-with-usd3-999-ryzen-ai-halo-with-windows-11-support-strix-halo-desktop-undercuts-nvidia-by-usd700-packs-128gb-of-unified-memory",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/M4BHGp6uziXvNLMYf5EbVA-1280-80.jpg",
+      "pub_date": "Sat, 13 Jun 2026 14:12:34 +0000",
+      "author": " Kunal Khullar ",
+      "categories": [
+        "Mini PCs",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T14:25:42.774Z",
+      "created_at": "2026-06-13T14:25:42.774Z"
+    },
+    {
+      "id": 11463,
+      "source": "Tom's Hardware",
+      "title_en": "Netgear countersues TP-Link, saying firm 'remains, at its core, a Chinese company selling Chinese-made products' — alleges its 'American company' rebrand is false advertising",
+      "description_en": "Netgear filed counterclaims against TP-Link in federal court in Delaware on June 11, accusing its larger rival of false advertising under the Lanham Act.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/networking/routers/netgear-countersues-tp-link-alleging-its-american-company-rebrand-is-false-advertising",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Z7FX6Fpm3rBoQH23X4nYJ8-1280-80.jpg",
+      "pub_date": "Sat, 13 Jun 2026 13:47:29 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Networking"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T14:25:42.774Z",
+      "created_at": "2026-06-13T14:25:42.774Z"
+    },
+    {
+      "id": 11464,
+      "source": "Backdoor (TG)",
+      "title_en": "Обучаемся ИИ на новых курсах от OpenAI — разрабы Сэма Альтмана выкатили сразу три бесплатных трека, чтобы автоматизировать любую рабочую рутину.• AI Foundations — база по ИИ, а также автоматизации для",
+      "description_en": "Обучаемся ИИ на новых курсах от OpenAI — разрабы Сэма Альтмана выкатили сразу три бесплатных трека, чтобы автоматизировать любую рабочую рутину.• AI Foundations — база по ИИ, а также автоматизации для новичков: написание промптов, контекст, планирование, а также применение ИИ в повседневных задачах.• Applied Al Foundations — учимся превращать удачные промпты в пайплайны и повторяемые рабочие процессы. Предоставляем ИИ входные данные и нужные инструменты.• Agents and Workflows — улучшаем работу а",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29171",
+      "image_url": "https://cdn4.telesco.pe/file/YCWinXxXJSP75urmCWF2BBEl5SBtFJrF7d-6YktpBgzayGZpTR2bpfF23uqiHmsSeF7wV-Fz0sn2d7GJCTNUDk0xKBETf-ztTe_8tK9OlAJ970mPoq39NcFRJ-FedPLkUMNpyfsSoGa5P0hmHvaNHl1wdTdGWZA_3o1uS0_XfkWaOiCuPO-5g9c5PM9CTNw1xjXzllkVn9U0_1u1M8TF0tLddnDLwbS4tP7nPzkQIM9zL_GrD0bmnPTZQ1vhnKc1t1OSXfF4GyG9EtF9VAnsxS6LpMaUd4hmlfttxyXTtFgzlINKr5B8RSD4sxnMWLiDUvUFu6XkBKHELdpmijEgLQ.jpg",
+      "pub_date": "2026-06-13T14:25:35+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T14:25:45.206Z",
+      "created_at": "2026-06-13T14:25:45.206Z"
+    },
+    {
+      "id": 11465,
+      "source": "Data Science ODS.ai (TG)",
+      "title_en": "✔️ Moonshot AI и госбанк Китая выпустят карту с конвертацией трат в токеныРазработчики Kimi совместно с неназванными государственным банком и платёжной системой открыли предрегистрацию на Kimi Credit ",
+      "description_en": "✔️ Moonshot AI и госбанк Китая выпустят карту с конвертацией трат в токеныРазработчики Kimi совместно с неназванными государственным банком и платёжной системой открыли предрегистрацию на Kimi Credit Card. Вместо классического кэшбека держатели карты получат вычислительные квоты платформы Kimi. Баллы за покупки конвертируются в токены для оплаты работы агентов и доступа к платным функциям моделей.В качестве дополнительных бонусов владельцам карты обещают приоритетный доступ к тестированию новых ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/opendatascience/3328",
+      "image_url": "https://cdn4.telesco.pe/file/PdAclM-yl6rVEZ2mz0iAti8aGVBYzJzYfjqJQ7m0mE6QmMaf0k2GmLd2xAfXcf-OT7PASKvq1yaEUUn4qqB4hzDPh6XWy6RBQRpOQ7BV7vKa97Kj8bvETpVKcCOv9R1HgYc8uXPyLiAorMxsYq2ok43g82w6I9MpVL9Y9QBdkj7fR-dRw1hhYC094y3qY72XgbXw-6CUXVB_PXj6acJkDY4kKE4gpVVbRuzg0CU8brFFSN_L3fHyYUs8cIdWyFcaL9bmdxgH77SVL-iQOOnakOQEja1UBrBh3oD4_gGHBtkGbiewTuc5imrfDfR66Djp9vVKtAad8qRbyFxLG6HcQA.jpg",
+      "pub_date": "2026-06-13T14:15:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T14:25:46.088Z",
+      "created_at": "2026-06-13T14:25:46.088Z"
+    },
+    {
+      "id": 11466,
+      "source": "AI Post (TG)",
+      "title_en": "Kai-Fu Lee highlights rise of multi-agent systems in AIKai-Fu Lee, founder of Sinovation Ventures, addressed the growing importance of multi-agent systems in the future of artificial intelligence.Acco",
+      "description_en": "Kai-Fu Lee highlights rise of multi-agent systems in AIKai-Fu Lee, founder of Sinovation Ventures, addressed the growing importance of multi-agent systems in the future of artificial intelligence.According to Lee, a single AI agent today is comparable to a pre-internet personal computer—functional yet operating in isolation. When AI agents are interconnected, they are able to share relevant context, divide tasks, and coordinate activities instantaneously. Lee’s comments underscore a shift in AI ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7220",
+      "image_url": null,
+      "pub_date": "2026-06-13T13:25:47+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T14:25:46.117Z",
+      "created_at": "2026-06-13T14:25:46.117Z"
     }
   ]
 }
