@@ -240147,7 +240147,7 @@
       "author": "Utkarsh Sood",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T09:38:19.851Z",
       "created_at": "2026-06-13T09:38:19.851Z"
     },
@@ -240268,6 +240268,318 @@
       "priority": "hot",
       "fetchedAt": "2026-06-13T10:42:11.828Z",
       "created_at": "2026-06-13T10:42:11.828Z"
+    },
+    {
+      "id": 11442,
+      "source": "The Verge AI",
+      "title_en": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
+      "description_en": "Concept art from Dear Upstairs Neighbors that used to train custom builds of Google’s Veo and Imagen models. | Image: Google DeepMind\t\n\nFor all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' video models are still only capable of churning out short bursts of visually inconsistent footage. And so",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+      "image_url": null,
+      "pub_date": "2026-06-13T11:00:00.000Z",
+      "author": "Charles Pulliam-Moore",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T11:14:13.156Z",
+      "created_at": "2026-06-13T11:14:13.156Z"
+    },
+    {
+      "id": 11443,
+      "source": "The Guardian AI",
+      "title_en": "UK sets out AI infrastructure push at London Tech Week – how does it stack up?",
+      "description_en": "Government announces plans to invest billions, but questions linger over how its proposals on chips, social media and more will work\nOwnership of the commanding heights of the AI economy is a political talking point around the world, as countries seek to assert some control of a technology dominated by the US and China.\nLondon Tech Week, the showcase event for the UK tech industry, focused heavily on that theme this week. A government keen to show it has a growth story, and an assertive narrativ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/13/uk-ai-hardware-london-tech-week-investment-chips",
+      "image_url": "https://i.guim.co.uk/img/media/571ac47b1baf13ad655d8c2be5d25da424d398fc/452_0_4975_3980/master/4975.jpg?width=140&quality=85&auto=format&fit=max&s=29b585cd75929b8de0bf96c8cb0eabb9",
+      "pub_date": "Sat, 13 Jun 2026 11:01:12 GMT",
+      "author": "Aisha Down and Dan Milmo",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Social media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/social-media"
+          }
+        },
+        {
+          "_": "Media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/media"
+          }
+        },
+        {
+          "_": "Defence policy",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/defence"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "Digital media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/digital-media"
+          }
+        },
+        {
+          "_": "Infrastructure",
+          "$": {
+            "domain": "https://www.theguardian.com/business/infrastructure"
+          }
+        },
+        {
+          "_": "Productivity",
+          "$": {
+            "domain": "https://www.theguardian.com/business/productivity"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T11:14:15.202Z",
+      "created_at": "2026-06-13T11:14:15.202Z"
+    },
+    {
+      "id": 11444,
+      "source": "The Guardian AI",
+      "title_en": "Pioneering UK Nerve Lab harnesses AI to map effect of children’s screen time",
+      "description_en": "Other projects include developing tools to help visually impaired people navigate video games \n \nParents are constantly being told to limit their children’s screen time. But when it comes to deciphering which films or TV shows are best suited to developing minds, the guidance remains largely one-size-fits-all. A relatively slow-paced programme such as Bluey offers a very different viewing experience to a fast-moving action series such as PAW Patrol, yet both are broadly considered suitable for y",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/society/2026/jun/13/nerve-lab-uk-ai-brain-scanning-tech-childrens-screen-time",
+      "image_url": "https://i.guim.co.uk/img/media/771af72e4610d0b12aa1a96202ad70538f50959e/642_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=b651a65f69a06e300e51d140a320685e",
+      "pub_date": "Sat, 13 Jun 2026 11:00:13 GMT",
+      "author": "Linda Geddes",
+      "categories": [
+        {
+          "_": "Children",
+          "$": {
+            "domain": "https://www.theguardian.com/society/children"
+          }
+        },
+        {
+          "_": "Television & radio",
+          "$": {
+            "domain": "https://www.theguardian.com/tv-and-radio/tv-and-radio"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "Society",
+          "$": {
+            "domain": "https://www.theguardian.com/society/society"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "University of the Arts London",
+          "$": {
+            "domain": "https://www.theguardian.com/education/universityoftheartslondon"
+          }
+        },
+        {
+          "_": "Education",
+          "$": {
+            "domain": "https://www.theguardian.com/education/education"
+          }
+        },
+        {
+          "_": "Research",
+          "$": {
+            "domain": "https://www.theguardian.com/education/research"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T11:14:15.202Z",
+      "created_at": "2026-06-13T11:14:15.202Z"
+    },
+    {
+      "id": 11445,
+      "source": "The Guardian AI",
+      "title_en": "‘Why would you put a toxic product into the hands of a young child?’: director turned activist Beeban Kidron on why big tech needs its ‘tobacco moment’",
+      "description_en": "In her work as an online safety campaigner, the baroness and Bridget Jones director has seen things she can never unsee – and she’s furious at the tech overlords doing nothing to stop the abuse\nThrough the open windows behind Beeban Kidron drifts the unmistakable sound of children playing. Her north ­London office is sandwiched between a school and a nursery, and the occasional playground shriek functions as an aural reminder of what we’re here to discuss: the safety and happiness of young peopl",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/film/2026/jun/13/beeban-kidron-interview-baroness-big-tech-online-child-abuse",
+      "image_url": "https://i.guim.co.uk/img/media/12b94c83cdd9c62276bed7219b3e743bf6cd076a/0_676_5669_4536/master/5669.jpg?width=140&quality=85&auto=format&fit=max&s=f3f27c7204d875669f1d367d7040d1f7",
+      "pub_date": "Sat, 13 Jun 2026 10:58:12 GMT",
+      "author": "Gaby Hinsliff",
+      "categories": [
+        {
+          "_": "Beeban Kidron",
+          "$": {
+            "domain": "https://www.theguardian.com/film/beeban-kidron"
+          }
+        },
+        {
+          "_": "Children",
+          "$": {
+            "domain": "https://www.theguardian.com/society/children"
+          }
+        },
+        {
+          "_": "Children's tech",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/children-s-tech"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Children's rights",
+          "$": {
+            "domain": "https://www.theguardian.com/society/children-s-rights"
+          }
+        },
+        {
+          "_": "Society",
+          "$": {
+            "domain": "https://www.theguardian.com/society/society"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Film",
+          "$": {
+            "domain": "https://www.theguardian.com/film/film"
+          }
+        },
+        {
+          "_": "Online abuse",
+          "$": {
+            "domain": "https://www.theguardian.com/society/online-abuse"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "Bridget Jones: the Edge of Reason",
+          "$": {
+            "domain": "https://www.theguardian.com/film/bridget-jones-the-edge-of-reason"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T11:14:15.202Z",
+      "created_at": "2026-06-13T11:14:15.202Z"
+    },
+    {
+      "id": 11446,
+      "source": "Tom's Hardware",
+      "title_en": "Ukraine used 10 AI-controlled ‘Terminator’ drones to kill Russian soldiers two years ago, marking first autonomous killings of humans — autonomous killer quadcopters left ‘everything dead’ says senior Ukrainian defense industry figure",
+      "description_en": "A watershed moment occurred on the battlefields of Ukraine in 2024 when 10 fully autonomous AI-controlled quadcopter drones were sent to the front lines against Russia with ‘Terminator Mode’ engaged.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/ukraine-used-10-ai-controlled-terminator-drones-to-kill-russian-soldiers-two-years-ago-marking-first-autonomous-killings-of-humans-senior-ukrainian-defense-industry-figure-confirms-this-autonomous-watershed-was-passed-in-2024",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/W4bNjvtdxZJqKsG4ybdwT7-1280-80.jpg",
+      "pub_date": "Sat, 13 Jun 2026 10:46:57 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T11:14:16.170Z",
+      "created_at": "2026-06-13T11:14:16.170Z"
     }
   ]
 }
