@@ -241327,7 +241327,7 @@
         "kpmg"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T21:12:37.047Z",
       "created_at": "2026-06-13T21:12:37.047Z"
     },
@@ -241346,7 +241346,7 @@
         "Transportation"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T21:12:39.990Z",
       "created_at": "2026-06-13T21:12:39.990Z"
     },
@@ -241417,6 +241417,23 @@
       "priority": "hot",
       "fetchedAt": "2026-06-13T22:19:27.778Z",
       "created_at": "2026-06-13T22:19:27.778Z"
+    },
+    {
+      "id": 11486,
+      "source": "New Atlas",
+      "title_en": "ADHD and autism is dominating mental health talk online",
+      "description_en": "Jemima Kang, Nick Haslam and Mike Conway/The University of Melbourne/The Conversation\nContinue Reading\nCategory: ADHD & Autism, Brain Health, Body and Mind\nTags: University of Melbourne, ADHD, Autism, Autism spectrum disorder, Depression, Anxiety, Online, mental health",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/adhd-autism/adhd-autism-mental-health-chat-online/",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 22:44:00 GMT",
+      "author": "The Conversation",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T23:04:09.231Z",
+      "created_at": "2026-06-13T23:04:09.231Z"
     }
   ]
 }
