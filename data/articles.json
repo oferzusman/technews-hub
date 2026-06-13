@@ -241290,7 +241290,7 @@
         "Scott Bessent"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T19:50:45.023Z",
       "created_at": "2026-06-13T19:50:45.023Z"
     },
@@ -241307,9 +241307,48 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T19:50:49.898Z",
       "created_at": "2026-06-13T19:50:49.898Z"
+    },
+    {
+      "id": 11480,
+      "source": "TechCrunch AI",
+      "title_en": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "description_en": "Once again, AI proves to be an unreliable source of information about AI.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 20:42:31 +0000",
+      "author": "Anthony Ha",
+      "categories": [
+        "AI",
+        "kpmg"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T21:12:37.047Z",
+      "created_at": "2026-06-13T21:12:37.047Z"
+    },
+    {
+      "id": 11481,
+      "source": "Interesting Engineering",
+      "title_en": "New turbo-electric passenger aircraft concept projected to deliver 17% more range efficiency",
+      "description_en": "A hybrid-electric aviation company has unveiled a new conceptual aircraft design for next-generation airliners. Electra’s...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/turbo-electric-passenger-aircraft-range-efficiency",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 20:47:16 +0000",
+      "author": "Prabhat Ranjan Mishra",
+      "categories": [
+        "Transportation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T21:12:39.990Z",
+      "created_at": "2026-06-13T21:12:39.990Z"
     }
   ]
 }
