@@ -239606,7 +239606,7 @@
       "author": "Bronwyn Thompson",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T00:21:47.830Z",
       "created_at": "2026-06-13T00:21:47.830Z"
     },
@@ -239625,7 +239625,7 @@
         "Energy"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T00:21:48.452Z",
       "created_at": "2026-06-13T00:21:48.452Z"
     },
@@ -239642,7 +239642,7 @@
       "author": "C.C. Weiss",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T01:54:12.395Z",
       "created_at": "2026-06-13T01:54:12.395Z"
     },
@@ -239659,7 +239659,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T01:54:13.240Z",
       "created_at": "2026-06-13T01:54:13.240Z"
     },
@@ -239676,7 +239676,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T01:54:13.240Z",
       "created_at": "2026-06-13T01:54:13.240Z"
     },
@@ -239693,9 +239693,191 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T01:54:15.574Z",
       "created_at": "2026-06-13T01:54:15.574Z"
+    },
+    {
+      "id": 11415,
+      "source": "Ars Technica",
+      "title_en": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+      "description_en": "Commerce dept. worries that a Fable 5 \"jailbreak\" could be a national security threat.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/fable5-1152x648.webp",
+      "pub_date": "Sat, 13 Jun 2026 03:00:34 +0000",
+      "author": "\n                    Kyle Orland\n                ",
+      "categories": [
+        "AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T04:47:27.998Z",
+      "created_at": "2026-06-13T04:47:27.998Z"
+    },
+    {
+      "id": 11416,
+      "source": "TechCrunch AI",
+      "title_en": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "description_en": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 04:14:19 +0000",
+      "author": "Rebecca Bellan",
+      "categories": [
+        "AI",
+        "Government & Policy",
+        "Startups",
+        "Andrew Yang",
+        "noble mobile",
+        "ubi"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T04:47:28.011Z",
+      "created_at": "2026-06-13T04:47:28.011Z"
+    },
+    {
+      "id": 11417,
+      "source": "TechCrunch AI",
+      "title_en": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "description_en": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 02:26:30 +0000",
+      "author": "Connie Loizos",
+      "categories": [
+        "AI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-13T04:47:28.011Z",
+      "created_at": "2026-06-13T04:47:28.011Z"
+    },
+    {
+      "id": 11418,
+      "source": "MarkTechPost",
+      "title_en": "A Coding Implementation on Spatial Graph Neural Networks for Urban Function Inference Using city2graph, OSMnx, and PyTorch Geometric",
+      "description_en": "We build an end-to-end spatial graph learning pipeline using city2graph. We collect urban POI and street network data from OpenStreetMap, with a synthetic fallback for reliability. We engineer spatial features, construct several proximity graph families, and compare how each represents the same urban environment. We then build heterogeneous and homogeneous graphs, convert them to PyTorch Geometric, and train a GraphSAGE model to predict POI categories from spatial structure.\nThe post A Coding Im",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/12/a-coding-implementation-on-spatial-graph-neural-networks-for-urban-function-inference-using-city2graph-osmnx-and-pytorch-geometric/",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 02:47:16 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Artificial Intelligence",
+        "Big Data",
+        "Dataset",
+        "Editors Pick",
+        "Machine Learning",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-13T04:47:29.599Z",
+      "created_at": "2026-06-13T04:47:29.599Z"
+    },
+    {
+      "id": 11419,
+      "source": "New Atlas",
+      "title_en": "Soft robots get a tiny soft pump to move their bodies",
+      "description_en": "Soft robots have a “cardiovascular” problem. While their bodies can deform and bend, their hearts, the pumps that keep them moving, have remained bulky and rigid. Researchers at the University of Bristol have created a “soft” miniature pump that weighs about as much as a single dried pumpkin seed, but can generate enough hydraulic pressure to power soft robotic systems without bulky compressors or rigid mechanical pumps.\nContinue Reading\nCategory: Robotics, Engineering\nTags: University of Bristo",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/robotics/soft-robots-tiny-pump/",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 03:03:00 GMT",
+      "author": "Etiido Uko",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T04:47:29.836Z",
+      "created_at": "2026-06-13T04:47:29.836Z"
+    },
+    {
+      "id": 11420,
+      "source": "The Guardian AI",
+      "title_en": "Dutch far-right party pays damages to court artist after changing image with AI",
+      "description_en": "Geert Wilders’ PVV altered sketch of jailed Syrian brothers to make them look more menacing\nA Dutch court artist has received damages after an MP for the far-right Party for Freedom (PVV) used one of her drawings without permission and manipulated it with AI to make the subjects look more menacing.\nPetra Urban, a court artist for 19 years, was shocked to discover a drawing she had made last year of two Syrian brothers jailed for the murder of their sister had been reworked and used in a video on",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/world/2026/jun/13/geert-wilders-pvv-dutch-far-right-party-damages-court-artist-change-image-ai",
+      "image_url": "https://i.guim.co.uk/img/media/ba3aa2b9b11a8ec2f237fb2a45e646c3da4d2bad/469_0_2655_2126/master/2655.jpg?width=140&quality=85&auto=format&fit=max&s=2f589f95b1fe080d09c7bf8fc95bae31",
+      "pub_date": "Sat, 13 Jun 2026 04:00:04 GMT",
+      "author": "Senay Boztas in Amsterdam",
+      "categories": [
+        {
+          "_": "Netherlands",
+          "$": {
+            "domain": "https://www.theguardian.com/world/netherlands"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "The far right",
+          "$": {
+            "domain": "https://www.theguardian.com/world/far-right"
+          }
+        },
+        {
+          "_": "Geert Wilders",
+          "$": {
+            "domain": "https://www.theguardian.com/world/geert-wilders"
+          }
+        },
+        {
+          "_": "Syria",
+          "$": {
+            "domain": "https://www.theguardian.com/world/syria"
+          }
+        },
+        {
+          "_": "Europe",
+          "$": {
+            "domain": "https://www.theguardian.com/world/europe-news"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T04:47:29.907Z",
+      "created_at": "2026-06-13T04:47:29.907Z"
+    },
+    {
+      "id": 11421,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 Anthropic launched Claude Corps.A national fellowship program matching people early in their careers with US nonprofits.They’ll teach 1,000 people to use Claude, and pay them to use AI to advance t",
+      "description_en": "🤖 Anthropic launched Claude Corps.A national fellowship program matching people early in their careers with US nonprofits.They’ll teach 1,000 people to use Claude, and pay them to use AI to advance their hosts’ missions.Source.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7215",
+      "image_url": "https://cdn4.telesco.pe/file/jOrM1aokVewnxrOVrhoWE8pkNmirqJfvwsRnCpw75hB2ov2DphJnqE8BrLUn58mp_O2zgLR-F11WAsgdgDZ5dV4ZEtEO5LgiroNeSgEy8D2ngJaiE0zqrGRUEQNiA_BqjtArIkoTkiFYfZOztEHzethq-1srlSp3EZ1HLclZWfa-jinDOdp_C0aPclQRvZK5TE9MAZaOcGdNXHC_gH9Xq_wttPr4YLyJLczjsDQuELjZRMBtRlf1qBTZEs86WrEkgCE_RaUx5aLiOQgJ0Bxxcgj4X6uTjF1Z_VssyJ_HaDUWiX1yofW4UjIw91t9VnTcidD6r1yee_a8tbJkFXLKLw.jpg",
+      "pub_date": "2026-06-13T04:12:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T04:47:36.216Z",
+      "created_at": "2026-06-13T04:47:36.216Z"
     }
   ]
 }
