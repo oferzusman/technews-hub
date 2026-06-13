@@ -1,9 +1,9 @@
 {
-  "total": 11481,
+  "total": 11483,
   "translated": 8824,
-  "untranslated": 2657,
-  "today": 74,
-  "week": 795,
+  "untranslated": 2659,
+  "today": 76,
+  "week": 797,
   "sources": [
     {
       "name": "Product Hunt",
@@ -97,9 +97,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 281,
+      "total": 282,
       "translated": 119,
-      "lastDate": "2026-06-13T11:46:52+00:00"
+      "lastDate": "2026-06-13T21:16:02+00:00"
     },
     {
       "name": "The Register",
@@ -121,9 +121,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 154,
+      "total": 155,
       "translated": 68,
-      "lastDate": "2026-06-13T14:25:35+00:00"
+      "lastDate": "2026-06-13T21:20:44+00:00"
     },
     {
       "name": "Hi, AI Russian (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-13T21:44:17.247Z"
+  "generatedAt": "2026-06-13T21:47:33.765Z"
 }
