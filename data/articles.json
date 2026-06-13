@@ -240189,7 +240189,7 @@
         "Math"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T10:42:06.315Z",
       "created_at": "2026-06-13T10:42:06.315Z"
     },
@@ -240210,7 +240210,7 @@
         "Meta"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T10:42:06.315Z",
       "created_at": "2026-06-13T10:42:06.315Z"
     },
@@ -240231,7 +240231,7 @@
         "Applications"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T10:42:08.595Z",
       "created_at": "2026-06-13T10:42:08.595Z"
     },
@@ -240248,7 +240248,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T10:42:11.828Z",
       "created_at": "2026-06-13T10:42:11.828Z"
     },
@@ -240265,7 +240265,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T10:42:11.828Z",
       "created_at": "2026-06-13T10:42:11.828Z"
     },
@@ -240282,7 +240282,7 @@
       "author": "Charles Pulliam-Moore",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T11:14:13.156Z",
       "created_at": "2026-06-13T11:14:13.156Z"
     },
@@ -240390,7 +240390,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T11:14:15.202Z",
       "created_at": "2026-06-13T11:14:15.202Z"
     },
@@ -240468,7 +240468,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T11:14:15.202Z",
       "created_at": "2026-06-13T11:14:15.202Z"
     },
@@ -240558,7 +240558,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T11:14:15.202Z",
       "created_at": "2026-06-13T11:14:15.202Z"
     },
@@ -240577,7 +240577,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T11:14:16.170Z",
       "created_at": "2026-06-13T11:14:16.170Z"
     },
@@ -240600,6 +240600,352 @@
       "priority": "hot",
       "fetchedAt": "2026-06-13T11:31:17.860Z",
       "created_at": "2026-06-13T11:31:17.860Z"
+    },
+    {
+      "id": 11448,
+      "source": "The Verge AI",
+      "title_en": "My yard is dying, so I made an app for that",
+      "description_en": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug.\n\"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird that I just instructed a computer to build a whole app for me with a single prompt, but it needed me to click a button to fix a bug. I did anyway, and in 233 seconds Gemini reported back that it had succ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+      "image_url": null,
+      "pub_date": "2026-06-13T13:00:00.000Z",
+      "author": "Allison Johnson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T13:05:03.179Z",
+      "created_at": "2026-06-13T13:05:03.179Z"
+    },
+    {
+      "id": 11449,
+      "source": "The Verge AI",
+      "title_en": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+      "description_en": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the models for all customers.\nIn a statement, Anthropic said that while it was complying with the order, the government \"did not provide specific details of its national security concern.\" Instead, it cla",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "image_url": null,
+      "pub_date": "2026-06-13T12:55:49.000Z",
+      "author": "Terrence O’Brien",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T13:05:03.180Z",
+      "created_at": "2026-06-13T13:05:03.180Z"
+    },
+    {
+      "id": 11450,
+      "source": "The Verge AI",
+      "title_en": "Apple’s new AI photo editing tools mostly work, for better and worse",
+      "description_en": "iPhone owners are getting real, native AI photo editing for the first time.\t\n\nThe most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready.\nAs far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But for the iPhone, they represent a tipping point in what the native photos app allows you to do to your photos. I mean memories. I mean, I don't kn",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+      "image_url": null,
+      "pub_date": "2026-06-13T12:00:00.000Z",
+      "author": "Allison Johnson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T13:05:03.180Z",
+      "created_at": "2026-06-13T13:05:03.180Z"
+    },
+    {
+      "id": 11451,
+      "source": "The Decoder",
+      "title_en": "Microsoft CEO Satya Nadella admits he's a token-maxer, too: \"It's addictive\"",
+      "description_en": "Microsoft CEO Satya Nadella is warning against \"token-maxing,\" throwing the most powerful AI models at every problem. Frontier models shouldn't be wasted on everyday tasks, he says. The marginal cost of productivity gains has to match the token cost. Still, Nadella admits, \"I'm like a token-maxer too. So it is addictive.\"\nThe article Microsoft CEO Satya Nadella admits he's a token-maxer, too: \"It's addictive\" appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/microsoft-ceo-satya-nadella-admits-hes-a-token-maxer-too-its-addictive/",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 13:03:49 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Microsoft"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T13:05:04.331Z",
+      "created_at": "2026-06-13T13:05:04.331Z"
+    },
+    {
+      "id": 11452,
+      "source": "The Decoder",
+      "title_en": "Google Research's Gemini-SQL2 tops text-to-SQL benchmarks by a wide margin",
+      "description_en": "Google Research's Gemini-SQL2 turns natural language into executable SQL queries. Built on Gemini 3.1 Pro, it tops the BIRD benchmark at 80.04 percent accuracy, well ahead of OpenAI and Anthropic. Google says the technology could improve natural language features across its data services.\nThe article Google Research's Gemini-SQL2 tops text-to-SQL benchmarks by a wide margin appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/google-researchs-gemini-sql2-tops-text-to-sql-benchmarks-by-a-wide-margin/",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 12:32:11 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Gemini",
+        "Google"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T13:05:04.332Z",
+      "created_at": "2026-06-13T13:05:04.332Z"
+    },
+    {
+      "id": 11453,
+      "source": "The Decoder",
+      "title_en": "Microsoft's SkillOpt boosts GPT-5.5 by using nothing but a trained Markdown file",
+      "description_en": "Microsoft and three Chinese universities have developed SkillOpt, a method that optimizes instruction documents for AI agents using principles from traditional model training. A simple Markdown file is enough to boost GPT-5.5 by about 23 points on procedural tasks, and the same file transfers across models and agent environments like Codex and Claude Code.\nThe article Microsoft's SkillOpt boosts GPT-5.5 by using nothing but a trained Markdown file appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/microsofts-skillopt-boosts-gpt-5-5-by-using-nothing-but-a-trained-markdown-file/",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 12:20:39 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Research"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T13:05:04.332Z",
+      "created_at": "2026-06-13T13:05:04.332Z"
+    },
+    {
+      "id": 11454,
+      "source": "New Atlas",
+      "title_en": "High-end micro-LED TV has Bugatti style... and a hypercar price tag",
+      "description_en": "Imagine settling down with a takeout on your lap to watch the latest Love Island on a TV that costs more than your house. But then, if you can afford the latest C Seed TV (produced in collaboration with none other than Bugatti), your house is likely to be worth a great deal more than mine.\nContinue Reading\nCategory: Home Entertainment, Consumer Tech, Technology\nTags: Television, Bugatti, Luxury, Folding, Micro LED",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/home-entertainment/cseed-bugatti-n1-folding-microled-tv/",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 12:33:00 GMT",
+      "author": "Simon Heptinstall",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T13:05:05.290Z",
+      "created_at": "2026-06-13T13:05:05.290Z"
+    },
+    {
+      "id": 11455,
+      "source": "The Guardian AI",
+      "title_en": "Anthropic to disable its most advanced AI models after US order limiting foreign access",
+      "description_en": "Company said US government believes safeguards can be bypassed and product used to identify software vulnerabilities\nAnthropic said it will “abruptly disable” its most advanced AI models for all users after the US government ordered it to suspend access to the models for foreign nationals, citing national security concerns.\nThe company received the export control directive to suspend access to Fable 5 and Mythos 5 for all foreign nationals, without being given specific details of the national se",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/13/anthropic-disable-advanced-ai-models-us-government-order",
+      "image_url": "https://i.guim.co.uk/img/media/ca24866ee13adb777b4a3136d8af62b284abe999/470_0_4630_3707/master/4630.jpg?width=140&quality=85&auto=format&fit=max&s=91fd3ab4b282e08e4b735dfab059efc9",
+      "pub_date": "Sat, 13 Jun 2026 12:37:12 GMT",
+      "author": "Reuters",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Trump administration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/trump-administration"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T13:05:05.363Z",
+      "created_at": "2026-06-13T13:05:05.363Z"
+    },
+    {
+      "id": 11456,
+      "source": "The Guardian AI",
+      "title_en": "Momfluencers are co-parenting with AI. Is it better than a man? | Arwa Mahdawi",
+      "description_en": "Women in heterosexual marriages continue to do most of the caregiving. Now some are offering guides to AI-fying parenting\nIn honour of Pride I’d like to share some important news: Being Straight is Great, Actually! This public service announcement is brought to you by the New York Times which, in an offering to the Ragebait Gods, published an op-ed with that headline on the eve of Pride month. It then changed the headline of the piece, which was written by a Playboy editor, to There’s Nothing Wr",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/jun/13/momfluencers-ai-co-parenting",
+      "image_url": "https://i.guim.co.uk/img/media/b4980ec2cad19b6ed7d3baaf872045ceadc65403/16_0_4528_3623/master/4528.jpg?width=140&quality=85&auto=format&fit=max&s=7da983d8dff2a4f458560a63de9465df",
+      "pub_date": "Sat, 13 Jun 2026 12:00:13 GMT",
+      "author": "Arwa Mahdawi",
+      "categories": [
+        {
+          "_": "Parents and parenting",
+          "$": {
+            "domain": "https://www.theguardian.com/lifeandstyle/parents-and-parenting"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Women",
+          "$": {
+            "domain": "https://www.theguardian.com/society/women"
+          }
+        },
+        {
+          "_": "Family",
+          "$": {
+            "domain": "https://www.theguardian.com/lifeandstyle/family"
+          }
+        },
+        {
+          "_": "Vaccines and immunisation",
+          "$": {
+            "domain": "https://www.theguardian.com/society/vaccines"
+          }
+        },
+        {
+          "_": "Israel",
+          "$": {
+            "domain": "https://www.theguardian.com/world/israel"
+          }
+        },
+        {
+          "_": "Palestine",
+          "$": {
+            "domain": "https://www.theguardian.com/world/palestinian-territories"
+          }
+        },
+        {
+          "_": "Niger",
+          "$": {
+            "domain": "https://www.theguardian.com/world/niger"
+          }
+        },
+        {
+          "_": "Gwyneth Paltrow",
+          "$": {
+            "domain": "https://www.theguardian.com/film/gwynethpaltrow"
+          }
+        },
+        {
+          "_": "Nasa",
+          "$": {
+            "domain": "https://www.theguardian.com/science/nasa"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        },
+        {
+          "_": "JD Vance",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/jd-vance"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T13:05:05.363Z",
+      "created_at": "2026-06-13T13:05:05.363Z"
+    },
+    {
+      "id": 11457,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia raises RTX Pro 6000 Blackwell GPU pricing to $13,250 — 55% increase over MSRP in a year's time",
+      "description_en": "Nvidia now sells the RTX Pro 6000 Blackwell graphics cards for $13,250, while partner offerings start at $11,359.99.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-raises-rtx-pro-6000-blackwell-gpu-pricing-to-usd13-250-55-percent-increase-over-msrp-in-a-years-time",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/cWyoP9msNQKFdRtDMByRsN-1280-80.jpg",
+      "pub_date": "Sat, 13 Jun 2026 12:30:00 +0000",
+      "author": " Zhiye Liu ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T13:05:06.277Z",
+      "created_at": "2026-06-13T13:05:06.277Z"
+    },
+    {
+      "id": 11458,
+      "source": "Tom's Hardware",
+      "title_en": "AI costs spike as subscriptions hit pricing wall — firms turn towards Chinese LLMs, open-source models to extend budget",
+      "description_en": "Companies look for cheaper alternatives as token costs for frontier AI models skyrocket, potentially impacting OpenAI and Anthropic's bottom lines. Subscriptions also take a bite out of these startup's profitability, as utilization rates higher than 5.7% could lead to losses.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-costs-spike-as-subscriptions-hit-pricing-wall-firms-turn-towards-chinese-llms-open-source-models-to-extend-budget",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/GmvyqCNV9mHBsmzZ2QcW2f-1280-80.png",
+      "pub_date": "Sat, 13 Jun 2026 12:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T13:05:06.277Z",
+      "created_at": "2026-06-13T13:05:06.277Z"
+    },
+    {
+      "id": 11459,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Победитель совместно с BIG GEEK розыгрыша получил iPhone Air:подарок получил, все шикарно) спасибо большое) так же не мог не купить замечательное «царское стекло» от родимого wylsacom",
+      "description_en": "Победитель совместно с BIG GEEK розыгрыша получил iPhone Air:подарок получил, все шикарно) спасибо большое) так же не мог не купить замечательное «царское стекло» от родимого wylsacom",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33740",
+      "image_url": "https://cdn4.telesco.pe/file/qLOGSVbncx3MahNy7q0DGOBu33RwZh-0BINp_BGPUdDJO8Re-6RmvKBAu_F_WZWdKPTJ603PQTQfP4YdGLU8wBOKvcGPS1AsVigtllJEEU6QNfzyDi8zrzwyZ8Y6mBDq4kiM4TfEMckHUm8tOHE57Hu2DmsLqiYxKs84p8kNQvW2gUuaWRipIHbCk4-7mNy480uFGk9SRuEZQbhoCOzuqOfvpUma_C3S0G3BvBFccCHsni5XW42tUyjNyWXs_PCibpZZznNYQCP8FgyTJ--SfDcUEeItD_O4giqWfKcsn_Ybs7Kr5SVlO13yEwDEsJ0AZsTjPtCC3yQ7og5UM-H-LQ.jpg",
+      "pub_date": "2026-06-13T11:59:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T13:05:11.655Z",
+      "created_at": "2026-06-13T13:05:11.655Z"
+    },
+    {
+      "id": 11460,
+      "source": "XOR Journal (TG)",
+      "title_en": "⚡️ Японская GlobalSign начала отзывать SSL-сертификаты российских сайтов — пишет РБК.Один из крупнейших мировых центров сертификации начал принудительно отзывать сертификаты безопасности у российских ",
+      "description_en": "⚡️ Японская GlobalSign начала отзывать SSL-сертификаты российских сайтов — пишет РБК.Один из крупнейших мировых центров сертификации начал принудительно отзывать сертификаты безопасности у российских компаний из-за новых требований регулятора и санкций. Под угрозой могут оказаться минимум 15–20 тысяч доменов.«Реальное количество сертификатов, оказавшихся под угрозой отзыва, может измеряться сотнями тысяч или даже миллионами»Что происходит 👀@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9516",
+      "image_url": "https://cdn4.telesco.pe/file/Blfl2UXHE_X4RbgXZhZI25Yp9kwaIGNgKnoWRoMcFUunDPNH4tAuSw0M-rjgi5u11Bqft44CJuRFOEDW4kajEM9jBbu7XN0yp3iH6BvnXoUClHJYGnWW5akE9Q-IHUeeQkmqINqBsEzjZEc8mBB03_i6TNJtD0IUVcEpZf9IHpUmWo5yldDpZIdW43E6xvWf7hZ8JS2L2SXSO606wBNIanJsRVNR8-SNL5xg6XYZpWiQojrsdmgpXZaPDkDq35IggRsifS6LFUHDUvYGEmnhtEhYZLRowk-gxNZJ8e36FoQ2L0-Amc7uiXb1RIM0cmC0jFafQ7eIIb1U02oiNlGz3A.jpg",
+      "pub_date": "2026-06-13T11:46:52+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T13:05:11.794Z",
+      "created_at": "2026-06-13T13:05:11.794Z"
     }
   ]
 }
