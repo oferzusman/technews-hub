@@ -239471,7 +239471,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T22:45:24.882Z",
       "created_at": "2026-06-12T22:45:24.882Z"
     },
@@ -239510,7 +239510,7 @@
         "Meta"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T23:44:38.154Z",
       "created_at": "2026-06-12T23:44:38.154Z"
     },
@@ -239529,7 +239529,7 @@
         "Military"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T23:44:40.559Z",
       "created_at": "2026-06-12T23:44:40.559Z"
     },
@@ -239548,7 +239548,7 @@
         "Military"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T23:44:40.560Z",
       "created_at": "2026-06-12T23:44:40.560Z"
     },
@@ -239565,7 +239565,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T23:44:41.028Z",
       "created_at": "2026-06-12T23:44:41.028Z"
     },
@@ -239628,6 +239628,74 @@
       "priority": "hot",
       "fetchedAt": "2026-06-13T00:21:48.452Z",
       "created_at": "2026-06-13T00:21:48.452Z"
+    },
+    {
+      "id": 11411,
+      "source": "New Atlas",
+      "title_en": "Airstream's cheapest camper van goes full chameleon with flex layout",
+      "description_en": "When Airstream launched the Rangeline as its most affordable camper van in 2022, it laid it out in standard European style with a rear fold-away bed and front dinette – safe, proven and comfortable territory. With the all-new 21PL, it moves into a more experimental space, designing a floor plan that's every bit as capable and comfortable for four people as it is for two, all without any need for a pop-up roof.\nContinue Reading\nCategory: Campervans, Adventure Vehicles, Outdoors\nTags: Airstream, R",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/campervans/airstream-rangeline-pl-flex-camper-van/",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 01:03:00 GMT",
+      "author": "C.C. Weiss",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T01:54:12.395Z",
+      "created_at": "2026-06-13T01:54:12.395Z"
+    },
+    {
+      "id": 11412,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic disables access to Fable 5 and Mythos 5 to comply with government directive",
+      "description_en": "Anthropic said it disabled access to its Fable 5 and Mythos 5 models to comply with an export control directive from the U.S. government.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 01:36:34 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T01:54:13.240Z",
+      "created_at": "2026-06-13T01:54:13.240Z"
+    },
+    {
+      "id": 11413,
+      "source": "CNBC Tech",
+      "title_en": "OpenAI says it's engaging 'constructively' with state AGs about concerns",
+      "description_en": "The Wall Street Journal reported that a coalition of state attorneys general have opened an investigation into OpenAI.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/12/openai-says-its-engaging-constructively-with-state-ags-.html",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 00:29:18 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T01:54:13.240Z",
+      "created_at": "2026-06-13T01:54:13.240Z"
+    },
+    {
+      "id": 11414,
+      "source": "AI Post (TG)",
+      "title_en": "🔍 Google just made language barriers feel a lot smaller.Google has launched Gemini 3.5 Live Translate, a new voice translation system that can translate conversations in real time across more than 70",
+      "description_en": "🔍 Google just made language barriers feel a lot smaller.Google has launched Gemini 3.5 Live Translate, a new voice translation system that can translate conversations in real time across more than 70 languages.Unlike traditional translators that wait for you to finish speaking, Gemini starts translating almost immediately. It listens and speaks at the same time, creating a much more natural flow with barely any delay.Even more impressive, it preserves the speaker’s pace, tone, and intonation, m",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7214",
+      "image_url": null,
+      "pub_date": "2026-06-13T01:02:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T01:54:15.574Z",
+      "created_at": "2026-06-13T01:54:15.574Z"
     }
   ]
 }
