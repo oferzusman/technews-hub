@@ -241225,6 +241225,48 @@
       "priority": "hot",
       "fetchedAt": "2026-06-13T18:05:33.825Z",
       "created_at": "2026-06-13T18:05:33.825Z"
+    },
+    {
+      "id": 11476,
+      "source": "Ars Technica",
+      "title_en": "Review: Disclosure Day is big on action, light on ideas",
+      "description_en": "There's nothing new or surprising, but it's still an entertaining film from one of our greatest directors.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/day7-1152x648.jpg",
+      "pub_date": "Sat, 13 Jun 2026 17:17:44 +0000",
+      "author": "\n                    Jennifer Ouellette\n                ",
+      "categories": [
+        "Culture"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T18:08:11.113Z",
+      "created_at": "2026-06-13T18:08:11.113Z"
+    },
+    {
+      "id": 11477,
+      "source": "MarkTechPost",
+      "title_en": "How to Build a QwenPaw Agent Workspace with Custom Skills, Model Providers, Console Access, and Streaming API Testing",
+      "description_en": "In this tutorial, we implement a QwenPaw workflow that provides a practical environment for building and testing an agent-powered assistant. We install and initialize QwenPaw, configure its working directory, set up authentication, connect optional model providers via Colab secrets, and create a structured workspace with custom skills and local knowledge files. We also launch the […]\nThe post How to Build a QwenPaw Agent Workspace with Custom Skills, Model Providers, Console Access, and Streamin",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/13/how-to-build-a-qwenpaw-agent-workspace-with-custom-skills-model-providers-console-access-and-streaming-api-testing/",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 17:27:22 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "Editors Pick",
+        "Staff",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T18:08:12.693Z",
+      "created_at": "2026-06-13T18:08:12.693Z"
     }
   ]
 }
