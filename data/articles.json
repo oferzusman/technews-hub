@@ -241164,7 +241164,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T16:50:27.319Z",
       "created_at": "2026-06-13T16:50:27.319Z"
     },
@@ -241184,7 +241184,7 @@
         "Innovation"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T16:50:30.102Z",
       "created_at": "2026-06-13T16:50:30.102Z"
     },
@@ -241222,7 +241222,7 @@
         "Computer Vision"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T18:05:33.825Z",
       "created_at": "2026-06-13T18:05:33.825Z"
     },
@@ -241241,7 +241241,7 @@
         "Culture"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T18:08:11.113Z",
       "created_at": "2026-06-13T18:08:11.113Z"
     },
@@ -241264,9 +241264,52 @@
         "Tutorials"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T18:08:12.693Z",
       "created_at": "2026-06-13T18:08:12.693Z"
+    },
+    {
+      "id": 11478,
+      "source": "TechCrunch AI",
+      "title_en": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "description_en": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 19:11:41 +0000",
+      "author": "Anthony Ha",
+      "categories": [
+        "AI",
+        "Government & Policy",
+        "Security",
+        "Amazon",
+        "Andy Jassy",
+        "Anthropic",
+        "david sacks",
+        "Scott Bessent"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T19:50:45.023Z",
+      "created_at": "2026-06-13T19:50:45.023Z"
+    },
+    {
+      "id": 11479,
+      "source": "AI Post (TG)",
+      "title_en": "🇯🇵 Hiroki Tomiyasu is a broccoli farmer in Hokkaido, Japan, with zero engineering background. Using ChatGPT and OpenAI’s Codex, he built his own greenhouse control system, satellite field monitor, c",
+      "description_en": "🇯🇵 Hiroki Tomiyasu is a broccoli farmer in Hokkaido, Japan, with zero engineering background. Using ChatGPT and OpenAI’s Codex, he built his own greenhouse control system, satellite field monitor, crop disease detector, and farm management bot tools that normally cost big money.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7225",
+      "image_url": null,
+      "pub_date": "2026-06-13T19:06:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T19:50:49.898Z",
+      "created_at": "2026-06-13T19:50:49.898Z"
     }
   ]
 }
