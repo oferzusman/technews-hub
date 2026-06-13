@@ -240963,7 +240963,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T14:25:42.773Z",
       "created_at": "2026-06-13T14:25:42.773Z"
     },
@@ -240983,7 +240983,7 @@
         "Desktops"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T14:25:42.774Z",
       "created_at": "2026-06-13T14:25:42.774Z"
     },
@@ -241019,7 +241019,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T14:25:45.206Z",
       "created_at": "2026-06-13T14:25:45.206Z"
     },
@@ -241036,7 +241036,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T14:25:46.088Z",
       "created_at": "2026-06-13T14:25:46.088Z"
     },
@@ -241126,7 +241126,7 @@
         "Desktops"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T15:13:15.256Z",
       "created_at": "2026-06-13T15:13:15.256Z"
     },
@@ -241143,9 +241143,67 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T15:13:21.839Z",
       "created_at": "2026-06-13T15:13:21.839Z"
+    },
+    {
+      "id": 11472,
+      "source": "TechCrunch AI",
+      "title_en": "OpenAI faces investigation from state attorneys general",
+      "description_en": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 16:47:18 +0000",
+      "author": "Anthony Ha",
+      "categories": [
+        "AI",
+        "Government & Policy",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T16:50:27.319Z",
+      "created_at": "2026-06-13T16:50:27.319Z"
+    },
+    {
+      "id": 11473,
+      "source": "Interesting Engineering",
+      "title_en": "First-ever: Four-legged robot dog successfully walks across treacherous Arctic ice floes",
+      "description_en": "For centuries, the Arctic has remained one of the most dangerous places on Earth to...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/culture/lynxs10-first-quadruped-robot-to-walk-across-arctic",
+      "image_url": "https://www.youtube.com/embed/_21bFSgTm0s",
+      "pub_date": "Sat, 13 Jun 2026 16:28:01 +0000",
+      "author": "Rupendra Brahambhatt",
+      "categories": [
+        "Culture",
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T16:50:30.102Z",
+      "created_at": "2026-06-13T16:50:30.102Z"
+    },
+    {
+      "id": 11474,
+      "source": "AI Post (TG)",
+      "title_en": "Happy SpaceX IPO day :)@aipost 🏴",
+      "description_en": "Happy SpaceX IPO day :)@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7221",
+      "image_url": "https://cdn4.telesco.pe/file/czwEv-8FQy4gsvPBnwbSJjPL33P9qr2CSD7T9LqM3azk5v0LrK_TEN5IoKjQFKcpiqmO0E1dqnydGzmF5uf8c9DOx_G03NrD1gbxc4Tw73e6NkfhnM-fk8Xu55A1bXEQ2CGRoFhgzTFoIsb9WQPIE2_ljlekyJybGO11nQ098de-7oZ39bzZIDCKTTIm2CQq3VXJhLJLy5S8gfyEsPS2td0IO9fAQWXRszyM1UMb3kyCNSnt-YGyDmw-TZ_8iDuUppzwDsskO-l9eHAf1kskK31xjy2LMQz4-sfLlw5WhlJikaUSkeHBViTTz51myJnbd3xzBnzeoKoZBtv1ID-1Kw.jpg",
+      "pub_date": "2026-06-13T15:55:11+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T16:50:35.224Z",
+      "created_at": "2026-06-13T16:50:35.224Z"
     }
   ]
 }
