@@ -240031,7 +240031,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T08:15:53.195Z",
       "created_at": "2026-06-13T08:15:53.195Z"
     },
@@ -240048,7 +240048,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T08:15:53.214Z",
       "created_at": "2026-06-13T08:15:53.214Z"
     },
@@ -240065,7 +240065,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T08:15:53.516Z",
       "created_at": "2026-06-13T08:15:53.516Z"
     },
@@ -240082,7 +240082,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T08:15:53.929Z",
       "created_at": "2026-06-13T08:15:53.929Z"
     },
@@ -240109,6 +240109,66 @@
       "priority": "hot",
       "fetchedAt": "2026-06-13T08:36:37.492Z",
       "created_at": "2026-06-13T08:36:37.492Z"
+    },
+    {
+      "id": 11434,
+      "source": "The Decoder",
+      "title_en": "Moonshot's open model Kimi K2.7 Code undercuts GPT-5.5 and Claude by up to 12x on price per token",
+      "description_en": "Moonshot AI has released Kimi K2.7 Code, an open-weights model with one trillion parameters built for programming. It still trails GPT-5.5 and Claude Opus 4.8 in coding benchmarks but costs a fraction of the price. So the key question isn't whether it's the best model, but whether the extra runs you get for the same budget make up for the gap in quality.\nThe article Moonshot's open model Kimi K2.7 Code undercuts GPT-5.5 and Claude by up to 12x on price per token appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/moonshots-open-model-kimi-k2-7-code-undercuts-gpt-5-5-and-claude-by-up-to-12x-on-price-per-token/",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 08:38:41 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Cursor",
+        "Kimi",
+        "Kimi Code",
+        "Kimi K2"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T09:38:18.919Z",
+      "created_at": "2026-06-13T09:38:18.919Z"
+    },
+    {
+      "id": 11435,
+      "source": "New Atlas",
+      "title_en": "Kawasaki brings back the Ninja 300 to the USA after nearly 10 years",
+      "description_en": "It seems small-bore motorcycles are finally being given a fair shot in the USA. Kawasaki is the latest bikemaker to introduce, or rather reintroduce, an entry-level sports bike to its Stateside lineup. The Ninja 300 makes a comeback nearly a decade after it was discontinued.\nContinue Reading\nCategory: Motorcycles, Transport\nTags: Kawasaki, Kawasaki Ninja, Sportsbikes, Affordable",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/motorcycles/kawasaki-ninja-300-usa/",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 09:03:00 GMT",
+      "author": "Utkarsh Sood",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T09:38:19.851Z",
+      "created_at": "2026-06-13T09:38:19.851Z"
+    },
+    {
+      "id": 11436,
+      "source": "Interesting Engineering",
+      "title_en": "SORA-Q: Baseball-sized shape-shifting rover that saved Japan’s SLIM moon mission",
+      "description_en": "A microscopic, shape-shifting robot inspired by children’s toys successfully saved the narrative of Japan’s historic...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/space/sora-q-shape-shifting-mini-rover-rescues-japans-lunar-mission",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 09:30:00 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "Space"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T09:38:21.771Z",
+      "created_at": "2026-06-13T09:38:21.771Z"
     }
   ]
 }
