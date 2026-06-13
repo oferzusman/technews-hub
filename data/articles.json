@@ -240210,7 +240210,7 @@
         "Meta"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T10:42:06.315Z",
       "created_at": "2026-06-13T10:42:06.315Z"
     },
@@ -240231,7 +240231,7 @@
         "Applications"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T10:42:08.595Z",
       "created_at": "2026-06-13T10:42:08.595Z"
     },
@@ -240248,7 +240248,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T10:42:11.828Z",
       "created_at": "2026-06-13T10:42:11.828Z"
     },
@@ -240265,7 +240265,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T10:42:11.828Z",
       "created_at": "2026-06-13T10:42:11.828Z"
     },
@@ -240600,6 +240600,173 @@
       "priority": "hot",
       "fetchedAt": "2026-06-13T11:31:17.860Z",
       "created_at": "2026-06-13T11:31:17.860Z"
+    },
+    {
+      "id": 11448,
+      "source": "The Verge AI",
+      "title_en": "Apple’s new AI photo editing tools mostly work, for better and worse",
+      "description_en": "iPhone owners are getting real, native AI photo editing for the first time.\t\n\nThe most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready.\nAs far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But for the iPhone, they represent a tipping point in what the native photos app allows you to do to your photos. I mean memories. I mean, I don't kn",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+      "image_url": null,
+      "pub_date": "2026-06-13T12:00:00.000Z",
+      "author": "Allison Johnson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T12:14:04.856Z",
+      "created_at": "2026-06-13T12:14:04.856Z"
+    },
+    {
+      "id": 11449,
+      "source": "The Guardian AI",
+      "title_en": "Momfluencers are co-parenting with AI. Is it better than a man? | Arwa Mahdawi",
+      "description_en": "Women in heterosexual marriages continue to do most of the caregiving. Now some are offering guides to AI-fying parenting\nIn honour of Pride I’d like to share some important news: Being Straight is Great, Actually! This public service announcement is brought to you by the New York Times which, in an offering to the Ragebait Gods, published an op-ed with that headline on the eve of Pride month. It then changed the headline of the piece, which was written by a Playboy editor, to There’s Nothing Wr",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/jun/13/momfluencers-ai-co-parenting",
+      "image_url": "https://i.guim.co.uk/img/media/b4980ec2cad19b6ed7d3baaf872045ceadc65403/16_0_4528_3623/master/4528.jpg?width=140&quality=85&auto=format&fit=max&s=7da983d8dff2a4f458560a63de9465df",
+      "pub_date": "Sat, 13 Jun 2026 12:00:13 GMT",
+      "author": "Arwa Mahdawi",
+      "categories": [
+        {
+          "_": "Parents and parenting",
+          "$": {
+            "domain": "https://www.theguardian.com/lifeandstyle/parents-and-parenting"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Women",
+          "$": {
+            "domain": "https://www.theguardian.com/society/women"
+          }
+        },
+        {
+          "_": "Family",
+          "$": {
+            "domain": "https://www.theguardian.com/lifeandstyle/family"
+          }
+        },
+        {
+          "_": "Vaccines and immunisation",
+          "$": {
+            "domain": "https://www.theguardian.com/society/vaccines"
+          }
+        },
+        {
+          "_": "Israel",
+          "$": {
+            "domain": "https://www.theguardian.com/world/israel"
+          }
+        },
+        {
+          "_": "Palestine",
+          "$": {
+            "domain": "https://www.theguardian.com/world/palestinian-territories"
+          }
+        },
+        {
+          "_": "Niger",
+          "$": {
+            "domain": "https://www.theguardian.com/world/niger"
+          }
+        },
+        {
+          "_": "Gwyneth Paltrow",
+          "$": {
+            "domain": "https://www.theguardian.com/film/gwynethpaltrow"
+          }
+        },
+        {
+          "_": "Nasa",
+          "$": {
+            "domain": "https://www.theguardian.com/science/nasa"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        },
+        {
+          "_": "JD Vance",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/jd-vance"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T12:14:07.025Z",
+      "created_at": "2026-06-13T12:14:07.025Z"
+    },
+    {
+      "id": 11450,
+      "source": "Tom's Hardware",
+      "title_en": "AI costs spike as subscriptions hit pricing wall — firms turn towards Chinese LLMs, open-source models to extend budget",
+      "description_en": "Companies look for cheaper alternatives as token costs for frontier AI models skyrocket, potentially impacting OpenAI and Anthropic's bottom lines. Subscriptions also take a bite out of these startup's profitability, as utilization rates higher than 5.7% could lead to losses.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-costs-spike-as-subscriptions-hit-pricing-wall-firms-turn-towards-chinese-llms-open-source-models-to-extend-budget",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/GmvyqCNV9mHBsmzZ2QcW2f-1280-80.png",
+      "pub_date": "Sat, 13 Jun 2026 12:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T12:14:07.662Z",
+      "created_at": "2026-06-13T12:14:07.662Z"
+    },
+    {
+      "id": 11451,
+      "source": "XOR Journal (TG)",
+      "title_en": "⚡️ Японская GlobalSign начала отзывать SSL-сертификаты российских сайтов — пишет РБК.Один из крупнейших мировых центров сертификации начал принудительно отзывать сертификаты безопасности у российских ",
+      "description_en": "⚡️ Японская GlobalSign начала отзывать SSL-сертификаты российских сайтов — пишет РБК.Один из крупнейших мировых центров сертификации начал принудительно отзывать сертификаты безопасности у российских компаний из-за новых требований регулятора и санкций. Под угрозой могут оказаться минимум 15–20 тысяч доменов.«Реальное количество сертификатов, оказавшихся под угрозой отзыва, может измеряться сотнями тысяч или даже миллионами»Что происходит 👀@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9516",
+      "image_url": "https://cdn4.telesco.pe/file/Blfl2UXHE_X4RbgXZhZI25Yp9kwaIGNgKnoWRoMcFUunDPNH4tAuSw0M-rjgi5u11Bqft44CJuRFOEDW4kajEM9jBbu7XN0yp3iH6BvnXoUClHJYGnWW5akE9Q-IHUeeQkmqINqBsEzjZEc8mBB03_i6TNJtD0IUVcEpZf9IHpUmWo5yldDpZIdW43E6xvWf7hZ8JS2L2SXSO606wBNIanJsRVNR8-SNL5xg6XYZpWiQojrsdmgpXZaPDkDq35IggRsifS6LFUHDUvYGEmnhtEhYZLRowk-gxNZJ8e36FoQ2L0-Amc7uiXb1RIM0cmC0jFafQ7eIIb1U02oiNlGz3A.jpg",
+      "pub_date": "2026-06-13T11:46:52+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T12:14:13.120Z",
+      "created_at": "2026-06-13T12:14:13.120Z"
+    },
+    {
+      "id": 11452,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Победитель совместно с BIG GEEK розыгрыша получил iPhone Air:подарок получил, все шикарно) спасибо большое) так же не мог не купить замечательное «царское стекло» от родимого wylsacom",
+      "description_en": "Победитель совместно с BIG GEEK розыгрыша получил iPhone Air:подарок получил, все шикарно) спасибо большое) так же не мог не купить замечательное «царское стекло» от родимого wylsacom",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33740",
+      "image_url": "https://cdn4.telesco.pe/file/qLOGSVbncx3MahNy7q0DGOBu33RwZh-0BINp_BGPUdDJO8Re-6RmvKBAu_F_WZWdKPTJ603PQTQfP4YdGLU8wBOKvcGPS1AsVigtllJEEU6QNfzyDi8zrzwyZ8Y6mBDq4kiM4TfEMckHUm8tOHE57Hu2DmsLqiYxKs84p8kNQvW2gUuaWRipIHbCk4-7mNy480uFGk9SRuEZQbhoCOzuqOfvpUma_C3S0G3BvBFccCHsni5XW42tUyjNyWXs_PCibpZZznNYQCP8FgyTJ--SfDcUEeItD_O4giqWfKcsn_Ybs7Kr5SVlO13yEwDEsJ0AZsTjPtCC3yQ7og5UM-H-LQ.jpg",
+      "pub_date": "2026-06-13T11:59:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T12:14:13.280Z",
+      "created_at": "2026-06-13T12:14:13.280Z"
     }
   ]
 }
