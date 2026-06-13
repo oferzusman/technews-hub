@@ -240166,7 +240166,7 @@
         "Space"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T09:38:21.771Z",
       "created_at": "2026-06-13T09:38:21.771Z"
     },
@@ -240580,6 +240580,26 @@
       "priority": "hot",
       "fetchedAt": "2026-06-13T11:14:16.170Z",
       "created_at": "2026-06-13T11:14:16.170Z"
+    },
+    {
+      "id": 11447,
+      "source": "Tom's Hardware",
+      "title_en": "U.S. gov't orders Anthropic to disable its newest AI models worldwide due to security threats — ban on Claude Fable 5 and Mythos 5 bars access by any foreign national, even its own employees",
+      "description_en": "Anthropic disabled its two most capable AI models, Claude Fable 5 and Claude Mythos 5, for every customer worldwide on Friday.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-export-control-order-forces-anthropic-to-disable-claude-fable-5-and-mythos-5-worldwide",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/WhiRibvfpVDt4rHfTnTSQY-1280-80.jpg",
+      "pub_date": "Sat, 13 Jun 2026 11:24:13 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T11:31:17.860Z",
+      "created_at": "2026-06-13T11:31:17.860Z"
     }
   ]
 }
