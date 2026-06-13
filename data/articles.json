@@ -239488,7 +239488,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-12T22:45:31.395Z",
       "created_at": "2026-06-12T22:45:31.395Z"
     },
@@ -239589,9 +239589,45 @@
         "starship"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T00:06:29.051Z",
       "created_at": "2026-06-13T00:06:29.051Z"
+    },
+    {
+      "id": 11409,
+      "source": "New Atlas",
+      "title_en": "Booze, junk food and evolution: How modern life scrambles ancient signals",
+      "description_en": "Grabbing that late-night kebab or pizza slice after a few drinks may not be a sign of poor willpower, but a biological drive that once would have seen us seek out protein but now leads us straight into the comforting arms of savory ultra-processed foods.\nContinue Reading\nCategory: Diet & Nutrition, Wellness and Healthy Living, Body and Mind\nTags: University of Sydney, Hormones, Hunger, Diet, Protein, Processed, Body fat, Weight",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/diet-nutrition/booze-junk-food-evolution-protein/",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 00:11:46 GMT",
+      "author": "Bronwyn Thompson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T00:21:47.830Z",
+      "created_at": "2026-06-13T00:21:47.830Z"
+    },
+    {
+      "id": 11410,
+      "source": "Interesting Engineering",
+      "title_en": "Iron-based catalyst helps zinc-air batteries power devices without precious metals",
+      "description_en": "Researchers at Tohoku University have developed an iron-based catalyst that improves the performance of zinc-air...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/iron-catalyst-zinc-air-battery-smartphone-charging",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 00:06:38 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "Energy"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T00:21:48.452Z",
+      "created_at": "2026-06-13T00:21:48.452Z"
     }
   ]
 }
