@@ -239736,7 +239736,7 @@
         "ubi"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T04:47:28.011Z",
       "created_at": "2026-06-13T04:47:28.011Z"
     },
@@ -239798,7 +239798,7 @@
       "author": "Etiido Uko",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T04:47:29.836Z",
       "created_at": "2026-06-13T04:47:29.836Z"
     },
@@ -239858,7 +239858,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T04:47:29.907Z",
       "created_at": "2026-06-13T04:47:29.907Z"
     },
@@ -239875,9 +239875,76 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T04:47:36.216Z",
       "created_at": "2026-06-13T04:47:36.216Z"
+    },
+    {
+      "id": 11422,
+      "source": "MarkTechPost",
+      "title_en": "Moonshot AI Releases Kimi K2.7-Code: a Coding Model Reporting +21.8% on Kimi Code Bench v2 Over K2.6",
+      "description_en": "Moonshot AI has open-sourced Kimi K2.7-Code under a Modified MIT license. It is a coding-focused, agentic model built on Kimi K2.6, with a 256K context window and roughly 30% lower reasoning-token usage. Moonshot reports gains over K2.6 on six benchmarks, including +21.8% on Kimi Code Bench v2. The model is available via the Kimi API and Kimi Code.\nThe post Moonshot AI Releases Kimi K2.7-Code: a Coding Model Reporting +21.8% on Kimi Code Bench v2 Over K2.6 appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/12/moonshot-ai-releases-kimi-k2-7-code-a-coding-model-reporting-21-8-on-kimi-code-bench-v2-over-k2-6/",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 04:57:12 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T06:14:21.308Z",
+      "created_at": "2026-06-13T06:14:21.308Z"
+    },
+    {
+      "id": 11423,
+      "source": "New Atlas",
+      "title_en": "Landmark study finds osteoarthritis has a single 'core' driver",
+      "description_en": "Traditionally thought to be the result of a suite of issues, the world's most common type of arthritis – osteoarthritis (OA) – actually has a single core driver. These findings, in the largest study of patients with knee OA, has the potential to make drug trials and treatment more targeted and effective.\nContinue Reading\nCategory: Chronic Pain, Illnesses and conditions, Body and Mind\nTags: University of Oxford, Osteoarthritis, Knee, Inflammatory, molecular biology, Drug development, clinical tri",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/chronic-pain/steoarthritis-single-core-driver/",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 05:04:00 GMT",
+      "author": "Bronwyn Thompson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T06:14:21.446Z",
+      "created_at": "2026-06-13T06:14:21.446Z"
+    },
+    {
+      "id": 11424,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Fable 5 отрубили для всего мира — спустя всего 3️⃣ дня после запуска. Власти США испугались мощи нейронки и приказали отключить её из соображений безопасности. Американские чиновники потребовали, ч",
+      "description_en": "⚡️ Fable 5 отрубили для всего мира — спустя всего 3️⃣ дня после запуска. Власти США испугались мощи нейронки и приказали отключить её из соображений безопасности. Американские чиновники потребовали, чтобы к нейронке не было доступа у иностранных граждан. Anthropic не придумала ничего лучше, кроме как просто офнуть (!) свою самую мощную модель для всего земного шара.Трамп пересмотрел «Терминатора».👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29164",
+      "image_url": "https://cdn4.telesco.pe/file/MLucZMHMdkw4Xkl2cQ1BPEYCTFkKGUZNa3xZ_E-Y7TN-FhVyFgBG-djFiJBYiNCkP2FHfnSeTiBGdNNXFq966GwSXtqNnEfclGxUpmUdYo6Uuj91PBaocaH_45zb0I4kXXsiV7gdgdPDzOQDprewIjPHJWD7TWrHRhUHEPQX4k0bTQHbxi2eoKb-gulXlOds_3yicJDp_WUiPgoHbFJ9Iia_vc7MupzUQp_8pDva49fEJZOxBRAXS4qWp9F0UXvJzVG63MwrCszyOAweR1Opjpl2FdG22JxBVBUlZviTd2_wTs9x2PGvK73OzBqyFMj0PEseX6tR5OdqXmiAG19P4A.jpg",
+      "pub_date": "2026-06-13T06:03:49+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T06:14:26.419Z",
+      "created_at": "2026-06-13T06:14:26.419Z"
     }
   ]
 }
