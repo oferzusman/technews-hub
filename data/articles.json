@@ -240614,7 +240614,7 @@
       "author": "Allison Johnson",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T13:05:03.179Z",
       "created_at": "2026-06-13T13:05:03.179Z"
     },
@@ -240631,7 +240631,7 @@
       "author": "Terrence O’Brien",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T13:05:03.180Z",
       "created_at": "2026-06-13T13:05:03.180Z"
     },
@@ -240670,7 +240670,7 @@
         "Microsoft"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T13:05:04.331Z",
       "created_at": "2026-06-13T13:05:04.331Z"
     },
@@ -240693,7 +240693,7 @@
         "Google"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T13:05:04.332Z",
       "created_at": "2026-06-13T13:05:04.332Z"
     },
@@ -240731,7 +240731,7 @@
       "author": "Simon Heptinstall",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T13:05:05.290Z",
       "created_at": "2026-06-13T13:05:05.290Z"
     },
@@ -240773,7 +240773,7 @@
         }
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T13:05:05.363Z",
       "created_at": "2026-06-13T13:05:05.363Z"
     },
@@ -240889,7 +240889,7 @@
         "PC Components"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T13:05:06.277Z",
       "created_at": "2026-06-13T13:05:06.277Z"
     },
@@ -241056,6 +241056,96 @@
       "priority": "hot",
       "fetchedAt": "2026-06-13T14:25:46.117Z",
       "created_at": "2026-06-13T14:25:46.117Z"
+    },
+    {
+      "id": 11467,
+      "source": "New Atlas",
+      "title_en": "Osteoarthritis breakthrough changes how we treat the condition",
+      "description_en": "Traditionally thought to be the result of a suite of issues, the world's most common type of arthritis – osteoarthritis (OA) – actually has a single core driver. These findings, in the largest study of patients with knee OA, has the potential to make drug trials and treatment more targeted and effective.\nContinue Reading\nCategory: Chronic Pain, Illnesses and conditions, Body and Mind\nTags: University of Oxford, Osteoarthritis, Knee, Inflammatory, molecular biology, Drug development, clinical tri",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/chronic-pain/steoarthritis-single-core-driver/",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 05:04:00 GMT",
+      "author": "Bronwyn Thompson",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-13T15:13:14.238Z",
+      "created_at": "2026-06-13T15:13:14.238Z"
+    },
+    {
+      "id": 11468,
+      "source": "New Atlas",
+      "title_en": "Booze and biology hijack your appetite for high-calorie junk food",
+      "description_en": "Grabbing that late-night kebab or pizza slice after a few drinks may not be a sign of poor willpower, but a biological drive that once would have seen us seek out protein but now leads us straight into the comforting arms of savory ultra-processed foods.\nContinue Reading\nCategory: Diet & Nutrition, Wellness and Healthy Living, Body and Mind\nTags: University of Sydney, Hormones, Hunger, Diet, Protein, Processed, Body fat, Weight",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/diet-nutrition/booze-junk-food-evolution-protein/",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 00:11:46 GMT",
+      "author": "Bronwyn Thompson",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-13T15:13:14.238Z",
+      "created_at": "2026-06-13T15:13:14.238Z"
+    },
+    {
+      "id": 11469,
+      "source": "Interesting Engineering",
+      "title_en": "Anthropic blocks international users as US labels top models a national security risk",
+      "description_en": "AI giant Anthropic has been forced to suspend access to its most advanced artificial intelligence...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/anthropic-blocks-international-users",
+      "image_url": "https://www.youtube.com/embed/1PBRhm5ZnjU",
+      "pub_date": "Sat, 13 Jun 2026 14:51:59 +0000",
+      "author": "Bojan Stojkovski",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T15:13:14.651Z",
+      "created_at": "2026-06-13T15:13:14.651Z"
+    },
+    {
+      "id": 11470,
+      "source": "Tom's Hardware",
+      "title_en": "Save $500 on this beastly gaming rig with an RTX 5060 Ti 16GB, Ryzen 7800X3D, and 32GB of RAM — Skytech's desktop gaming PC now just $1,499",
+      "description_en": "Looking for a solid gaming PC but tired of seeing exorbitant prices on every retailer's website? We've got you covered with this prebuilt, equipped with high-quality components ready for 1440p gaming and more, with a clear upgrade path once prices settle down.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd500-on-this-beastly-gaming-rig-with-an-rtx-5060-ti-16gb-ryzen-7800x3d-and-32gb-of-ram-skytechs-desktop-gaming-pc-now-just-usd1-499",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/yza8Yh3eyRZdETbXVZgyTc-1280-80.png",
+      "pub_date": "Sat, 13 Jun 2026 14:29:37 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "Gaming PCs",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T15:13:15.256Z",
+      "created_at": "2026-06-13T15:13:15.256Z"
+    },
+    {
+      "id": 11471,
+      "source": "Artificial Intelligence (TG)",
+      "title_en": "MIT made its entire AI & ML library 100% FREE to access.These 12 books are the best place to start 👇↳ 𝗙𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀1. Foundations of Machine Learning   https://cs.nyu.edu/~mohri/mlbook/   Th",
+      "description_en": "MIT made its entire AI & ML library 100% FREE to access.These 12 books are the best place to start 👇↳ 𝗙𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀1. Foundations of Machine Learning   https://cs.nyu.edu/~mohri/mlbook/   The mathematical backbone of ML - algorithms, theory, and how models actually learn.2. Understanding Deep Learning   https://udlbook.github.io/udlbook/   Neural networks explained visually and intuitively, from basics to modern architectures.3. Deep Learning   https://www.deeplearningbook.org/   The d",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Artificial_intelligence_in/1249",
+      "image_url": null,
+      "pub_date": "2026-06-13T14:32:03+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T15:13:21.839Z",
+      "created_at": "2026-06-13T15:13:21.839Z"
     }
   ]
 }
