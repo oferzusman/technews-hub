@@ -239963,7 +239963,7 @@
         "Anthropic"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T08:15:46.958Z",
       "created_at": "2026-06-13T08:15:46.958Z"
     },
@@ -239997,7 +239997,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T08:15:52.587Z",
       "created_at": "2026-06-13T08:15:52.587Z"
     },
@@ -240014,7 +240014,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T08:15:52.849Z",
       "created_at": "2026-06-13T08:15:52.849Z"
     },
@@ -240106,7 +240106,7 @@
         "Software Engineering"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T08:36:37.492Z",
       "created_at": "2026-06-13T08:36:37.492Z"
     },
@@ -240130,7 +240130,7 @@
         "Kimi K2"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T09:38:18.919Z",
       "created_at": "2026-06-13T09:38:18.919Z"
     },
@@ -240169,6 +240169,105 @@
       "priority": "hot",
       "fetchedAt": "2026-06-13T09:38:21.771Z",
       "created_at": "2026-06-13T09:38:21.771Z"
+    },
+    {
+      "id": 11437,
+      "source": "The Decoder",
+      "title_en": "Claude Fable 5 outpaces GPT-5.5 by 13 points on FrontierMath's toughest problems",
+      "description_en": "Anthropic's Claude Fable 5 hits 88 percent accuracy on the hardest FrontierMath tier, a massive jump from Opus 4.5, which sat below 10 percent in early 2026. OpenAI's GPT-5.5 reaches about 75 percent on the same tier. The pace of improvement in AI math keeps accelerating.\nThe article Claude Fable 5 outpaces GPT-5.5 by 13 points on FrontierMath's toughest problems appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/claude-fable-5-outpaces-gpt-5-5-by-13-points-on-frontiermaths-toughest-problems/",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 10:16:26 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Anthropic",
+        "Math"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T10:42:06.315Z",
+      "created_at": "2026-06-13T10:42:06.315Z"
+    },
+    {
+      "id": 11438,
+      "source": "The Decoder",
+      "title_en": "Meta shifts from \"tokenmaxxing\" to token managing as internal AI costs reportedly hit billions",
+      "description_en": "An internal memo to 6,000 employees reveals Meta is heading toward billions in AI costs from internal use alone. Starting in 2027, budgets, allocations, and a central dashboard called \"AI Gateway\" will govern token consumption. CTO Andrew Bosworth put it bluntly: \"All motion is not progress and token usage alone is not a measure of impact of any kind.\"\nThe article Meta shifts from \"tokenmaxxing\" to token managing as internal AI costs reportedly hit billions appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/meta-shifts-from-tokenmaxxing-to-token-managing-as-internal-ai-costs-reportedly-hit-billions/",
+      "image_url": null,
+      "pub_date": "Sat, 13 Jun 2026 09:49:28 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Meta"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T10:42:06.315Z",
+      "created_at": "2026-06-13T10:42:06.315Z"
+    },
+    {
+      "id": 11439,
+      "source": "Tom's Hardware",
+      "title_en": "Dev releases ‘unblockable’ ASCII video stream software — delivers 360p video at 30 FPS and acts as a ‘bridge for AI’",
+      "description_en": "A new and unique video streaming solution is pitched as a 'high-performance, real-time ASCII video rendering engine' that can be used to broadcast 'an unblockable video stream.'",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/video-editing-graphic-design/dev-releases-unblockable-ascii-video-stream-software-mode-5-rendering-puts-out-360p-at-30-fps-using-pure-text",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4ggNYewKhuia4v7KWmCywF-1280-80.jpg",
+      "pub_date": "Sat, 13 Jun 2026 10:11:13 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Video Editing and Graphic Design",
+        "Software",
+        "Applications"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T10:42:08.595Z",
+      "created_at": "2026-06-13T10:42:08.595Z"
+    },
+    {
+      "id": 11440,
+      "source": "AI Post (TG)",
+      "title_en": "🇺🇸 US government orders Anthropic to suspend foreign access to Mythos Fable 5 AI model, citing national security concerns.Anthropic has disabled access for all users worldwide.@aipost 🏴",
+      "description_en": "🇺🇸 US government orders Anthropic to suspend foreign access to Mythos Fable 5 AI model, citing national security concerns.Anthropic has disabled access for all users worldwide.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7217",
+      "image_url": "https://cdn4.telesco.pe/file/BbW8UkgIud18Ip9FTeJc-kkDtui40yzQKDeazLnwM_7GDkuQ6Yh3k8I3uBRHstLV2hqddqqpuZ0O5O0z9yuH1OBtKobMR6GCoM7_s9_npMQ8BO_NrHn9dlAFxLxju4JIKGCDewtOpnph7CFwXwKqx6JRG_Fl4TlU7mO9kVhMSjbM13icZ0CUpzhMuyIVUY1cENQWvnSzoM7VkSqeHFGZ6T_u7P90T8V1aVVM5oobWMA6UffGo0-oJhMKHNyht2obBJG5UKeDWw2P_gf12Dq8kXdQ6pGe_34AHJ4eQtNke0ndcp9HeycmWO25bHXdjbUr6__2EHZtQ4RSGmQzUzCUFw.jpg",
+      "pub_date": "2026-06-13T09:54:38+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T10:42:11.828Z",
+      "created_at": "2026-06-13T10:42:11.828Z"
+    },
+    {
+      "id": 11441,
+      "source": "AI Post (TG)",
+      "title_en": "🇺🇸 US government orders Anthropic to suspend foreign access to Mythos Fable 5 AI model, citing national security concerns.  Anthropic has disabled access for all users worldwide.  @aipost 🏴",
+      "description_en": "🇺🇸 US government orders Anthropic to suspend foreign access to Mythos Fable 5 AI model, citing national security concerns.  Anthropic has disabled access for all users worldwide.  @aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7219",
+      "image_url": null,
+      "pub_date": "2026-06-13T10:10:36+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-13T10:42:11.828Z",
+      "created_at": "2026-06-13T10:42:11.828Z"
     }
   ]
 }
