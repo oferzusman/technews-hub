@@ -242370,6 +242370,42 @@
       "priority": "hot",
       "fetchedAt": "2026-06-14T17:44:29.620Z",
       "created_at": "2026-06-14T17:44:29.620Z"
+    },
+    {
+      "id": 11533,
+      "source": "The Verge AI",
+      "title_en": "China may have accessed Mythos",
+      "description_en": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security risk. The government could also attempt to reverse engineer the model through distillation, a method in which a \"student\" AI is trained on a more advanced model to replicate its behavi",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+      "image_url": null,
+      "pub_date": "2026-06-14T18:27:55.000Z",
+      "author": "Terrence O’Brien",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-14T18:57:50.798Z",
+      "created_at": "2026-06-14T18:57:50.798Z"
+    },
+    {
+      "id": 11534,
+      "source": "Interesting Engineering",
+      "title_en": "Deep learning co-design helps scientists project 28-layer 3D images without crosstalk",
+      "description_en": "Engineering researchers at the University of California, Los Angeles (UCLA) have developed an advanced three-dimensional...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/ucla-3d-projection-multi-layer-imaging",
+      "image_url": null,
+      "pub_date": "Sun, 14 Jun 2026 18:47:34 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "Science"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-14T18:57:53.575Z",
+      "created_at": "2026-06-14T18:57:53.575Z"
     }
   ]
 }
