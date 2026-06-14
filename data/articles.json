@@ -242327,6 +242327,49 @@
       "priority": "hot",
       "fetchedAt": "2026-06-14T16:21:39.033Z",
       "created_at": "2026-06-14T16:21:39.033Z"
+    },
+    {
+      "id": 11531,
+      "source": "TechCrunch AI",
+      "title_en": "As AI companies race to go public, who else is along for the ride?",
+      "description_en": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "image_url": null,
+      "pub_date": "Sun, 14 Jun 2026 16:38:09 +0000",
+      "author": "Anthony Ha",
+      "categories": [
+        "AI",
+        "Fundraising",
+        "Space",
+        "Startups",
+        "Anthropic",
+        "Elon Musk",
+        "Equity podcast",
+        "SpaceX"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-14T17:44:22.174Z",
+      "created_at": "2026-06-14T17:44:22.174Z"
+    },
+    {
+      "id": 11532,
+      "source": "Data Science ODS.ai (TG)",
+      "title_en": "Reward-Driven Interaction: Enhancing Proactive Dialogue Agents through User Satisfaction PredictionРазбираем статью об улучшении диалоговых агентов с помощью «проактивности». Речь о способности систем",
+      "description_en": "Reward-Driven Interaction: Enhancing Proactive Dialogue Agents through User Satisfaction PredictionРазбираем статью об улучшении диалоговых агентов с помощью «проактивности». Речь о способности системы в нужный момент задать уточняющий вопрос, если она понимает, что пользователь, скорее всего, останется недоволен ответом.Применяют обычный для голосового ассистента каскадный пайплайн: отдельный ASR, переформулировка запроса при необходимости, определение интента (намерения пользователя) и домена,",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/opendatascience/3331",
+      "image_url": "https://cdn4.telesco.pe/file/Ck3HH26KnUNE9oNBatClYDAVQhK3Pi_QdXsupTpBv2IBslJ1NqcTaaHsraVO66PgKyW77EEeSl4gaO35_-rd3wy29GtFwHEVo46Nr2raT-9ogLBUXIWPEwtM0fEQZkuJuelT5IHMeAA3DXMSl9fF4lMpgKMglegJ-faT4kRJWJxRHqON0dIgfEfoGJTqic6_8TvH-ln81EWUAM8Zg0ALIIhtuosKCd3Ps-Ya6UYoJhwtEfMZUepByt4KZTkZfkbVLVaFa_gqYOz5hUyDSjkaRrhG8WwblK6GgArUZEQqmJquA9y5v3tLhiNDHKRtjInbUyURZ1HZtVXWvsah-RMz5g.jpg",
+      "pub_date": "2026-06-14T16:58:03+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-14T17:44:29.620Z",
+      "created_at": "2026-06-14T17:44:29.620Z"
     }
   ]
 }
