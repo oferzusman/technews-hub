@@ -1,9 +1,9 @@
 {
-  "total": 11530,
+  "total": 11532,
   "translated": 9321,
-  "untranslated": 2209,
-  "today": 44,
-  "week": 785,
+  "untranslated": 2211,
+  "today": 46,
+  "week": 787,
   "sources": [
     {
       "name": "Product Hunt",
@@ -31,7 +31,7 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 592,
+      "total": 593,
       "translated": 422,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -187,9 +187,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 43,
+      "total": 44,
       "translated": 33,
-      "lastDate": "2026-06-14T15:15:37+00:00"
+      "lastDate": "2026-06-14T16:58:03+00:00"
     },
     {
       "name": "Prompt AI News (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-14T16:54:10.981Z"
+  "generatedAt": "2026-06-14T17:47:24.394Z"
 }
