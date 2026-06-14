@@ -1,9 +1,9 @@
 {
-  "total": 11534,
+  "total": 11535,
   "translated": 9521,
-  "untranslated": 2013,
-  "today": 48,
-  "week": 789,
+  "untranslated": 2014,
+  "today": 49,
+  "week": 790,
   "sources": [
     {
       "name": "Product Hunt",
@@ -67,9 +67,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 389,
-      "translated": 228,
-      "lastDate": "2026-06-14T16:18:02+00:00"
+      "total": 390,
+      "translated": 229,
+      "lastDate": "2026-06-14T19:07:01+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -122,7 +122,7 @@
     {
       "name": "Backdoor (TG)",
       "total": 157,
-      "translated": 104,
+      "translated": 103,
       "lastDate": "2026-06-14T10:54:34+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-14T19:25:45.656Z"
+  "generatedAt": "2026-06-14T19:30:20.908Z"
 }
