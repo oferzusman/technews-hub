@@ -1,9 +1,9 @@
 {
-  "total": 11526,
+  "total": 11529,
   "translated": 9172,
-  "untranslated": 2354,
-  "today": 40,
-  "week": 781,
+  "untranslated": 2357,
+  "today": 43,
+  "week": 784,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,13 +13,13 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 941,
+      "total": 942,
       "translated": 687,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 888,
+      "total": 889,
       "translated": 665,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -186,16 +186,16 @@
       "lastDate": "2026-04-09T06:45:21Z"
     },
     {
+      "name": "Data Science ODS.ai (TG)",
+      "total": 43,
+      "translated": 31,
+      "lastDate": "2026-06-14T15:15:37+00:00"
+    },
+    {
       "name": "Prompt AI News (TG)",
       "total": 43,
       "translated": 26,
       "lastDate": "2026-06-13T07:17:28+00:00"
-    },
-    {
-      "name": "Data Science ODS.ai (TG)",
-      "total": 42,
-      "translated": 31,
-      "lastDate": "2026-06-13T14:15:27+00:00"
     },
     {
       "name": "Nature Machine Intelligence",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-14T15:19:40.464Z"
+  "generatedAt": "2026-06-14T16:06:38.491Z"
 }
