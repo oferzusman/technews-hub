@@ -1,9 +1,9 @@
 {
-  "total": 11540,
+  "total": 11542,
   "translated": 9821,
-  "untranslated": 1719,
-  "today": 54,
-  "week": 795,
+  "untranslated": 1721,
+  "today": 56,
+  "week": 797,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 890,
+      "total": 891,
       "translated": 727,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -49,7 +49,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 494,
+      "total": 495,
       "translated": 407,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-14T22:35:50.910Z"
+  "generatedAt": "2026-06-14T22:42:36.125Z"
 }
