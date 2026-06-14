@@ -1,9 +1,9 @@
 {
-  "total": 11486,
+  "total": 11488,
   "translated": 8824,
-  "untranslated": 2662,
-  "today": 0,
-  "week": 741,
+  "untranslated": 2664,
+  "today": 2,
+  "week": 743,
   "sources": [
     {
       "name": "Product Hunt",
@@ -31,7 +31,7 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 590,
+      "total": 591,
       "translated": 380,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -67,9 +67,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 384,
+      "total": 385,
       "translated": 168,
-      "lastDate": "2026-06-13T21:51:01+00:00"
+      "lastDate": "2026-06-14T01:10:00+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-14T00:03:35.122Z"
+  "generatedAt": "2026-06-14T01:45:17.387Z"
 }
