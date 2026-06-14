@@ -1,9 +1,9 @@
 {
-  "total": 11529,
+  "total": 11530,
   "translated": 9272,
-  "untranslated": 2257,
-  "today": 43,
-  "week": 784,
+  "untranslated": 2258,
+  "today": 44,
+  "week": 785,
   "sources": [
     {
       "name": "Product Hunt",
@@ -67,9 +67,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 388,
+      "total": 389,
       "translated": 213,
-      "lastDate": "2026-06-14T13:23:16+00:00"
+      "lastDate": "2026-06-14T16:18:02+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-14T16:18:21.433Z"
+  "generatedAt": "2026-06-14T16:23:39.950Z"
 }
