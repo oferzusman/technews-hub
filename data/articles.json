@@ -241414,7 +241414,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T22:19:27.778Z",
       "created_at": "2026-06-13T22:19:27.778Z"
     },
@@ -241431,9 +241431,50 @@
       "author": "The Conversation",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-13T23:04:09.231Z",
       "created_at": "2026-06-13T23:04:09.231Z"
+    },
+    {
+      "id": 11487,
+      "source": "TechCrunch AI",
+      "title_en": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+      "description_en": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "image_url": null,
+      "pub_date": "Sun, 14 Jun 2026 00:03:49 +0000",
+      "author": "Kate Park",
+      "categories": [
+        "AI",
+        "Government & Policy",
+        "China",
+        "manus",
+        "Manus AI",
+        "Meta"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-14T01:43:07.457Z",
+      "created_at": "2026-06-14T01:43:07.457Z"
+    },
+    {
+      "id": 11488,
+      "source": "AI Post (TG)",
+      "title_en": "Brazil introduces Rio 3.5 397B AI modelA new large language model, Rio 3.5 397B, has been developed by the city of Rio de Janeiro. According to current information, Rio 3.5 397B achieves performance t",
+      "description_en": "Brazil introduces Rio 3.5 397B AI modelA new large language model, Rio 3.5 397B, has been developed by the city of Rio de Janeiro. According to current information, Rio 3.5 397B achieves performance that exceeds Alibaba’s Qwen 3.7 Plus model.This development represents a significant milestone for artificial intelligence initiatives originating from Brazil. The project highlights the increasing complexity and competitiveness of AI models produced outside traditional technology hubs.📰 @aipost",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7228",
+      "image_url": "https://cdn4.telesco.pe/file/afoaDPWS-BrZp-XkQygfJrta43VfYqUy9_5sknS-CeMtXe7urva_WlHDWSSV7ttIFaJH9g1ydlihbrJsjjtiR-bgJQIORsNn8cTqtqKJlhoYFz3YpV658JJcQZHZDfQKTFRsse1w5VlDZkaSTQaUmxP_MpdPbJ2FrdsnkZo9s2-hLcLq7I1QEmtYypUjr3qSA9xT08PpeB9JMg64atsXgbjUjuLE205NSY0hhjcfaekBfiM03ATkgrbzlxz7XyuMX4Y2__YNjR8-4mrM5NiQEXWP3U5pIHmSHpuUKc0n5ZUs6fC3DrivVPRuttcCTt6kI07mQ_sbXgaA3pDzEKj-Rg.jpg",
+      "pub_date": "2026-06-14T01:10:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-14T01:43:12.049Z",
+      "created_at": "2026-06-14T01:43:12.049Z"
     }
   ]
 }
