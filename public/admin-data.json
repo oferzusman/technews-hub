@@ -1,9 +1,9 @@
 {
-  "total": 11535,
+  "total": 11537,
   "translated": 9671,
-  "untranslated": 1864,
-  "today": 49,
-  "week": 790,
+  "untranslated": 1866,
+  "today": 51,
+  "week": 792,
   "sources": [
     {
       "name": "Product Hunt",
@@ -85,7 +85,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 304,
+      "total": 305,
       "translated": 233,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -98,7 +98,7 @@
     {
       "name": "XOR Journal (TG)",
       "total": 284,
-      "translated": 159,
+      "translated": 158,
       "lastDate": "2026-06-14T13:41:33+00:00"
     },
     {
@@ -187,9 +187,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 44,
-      "translated": 36,
-      "lastDate": "2026-06-14T16:58:03+00:00"
+      "total": 45,
+      "translated": 37,
+      "lastDate": "2026-06-14T20:33:29+00:00"
     },
     {
       "name": "Prompt AI News (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-14T20:51:20.385Z"
+  "generatedAt": "2026-06-14T20:56:11.678Z"
 }
