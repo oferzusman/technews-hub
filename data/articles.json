@@ -241988,6 +241988,254 @@
       "priority": "hot",
       "fetchedAt": "2026-06-14T12:13:47.514Z",
       "created_at": "2026-06-14T12:13:47.514Z"
+    },
+    {
+      "id": 11513,
+      "source": "The Decoder",
+      "title_en": "Microsoft Research's Mirage gives video generation a persistent spatial memory that doesn't forget what's around the corner",
+      "description_en": "Mirage, a video world model from Microsoft Research and several universities, stores scene information directly in latent space instead of pixel-based point clouds. That slashes compute time and graphics memory while keeping scenes spatially consistent through long camera moves. It still can't reliably track moving objects across segments.\nThe article Microsoft Research's Mirage gives video generation a persistent spatial memory that doesn't forget what's around the corner appeared first on The ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/microsoft-researchs-mirage-gives-video-generation-a-persistent-spatial-memory-that-doesnt-forget-whats-around-the-corner/",
+      "image_url": null,
+      "pub_date": "Sun, 14 Jun 2026 13:58:17 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Microsoft"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-14T14:28:07.041Z",
+      "created_at": "2026-06-14T14:28:07.041Z"
+    },
+    {
+      "id": 11514,
+      "source": "The Decoder",
+      "title_en": "Google Cloud's Open Knowledge Format turns scattered docs into Markdown files for AI agents",
+      "description_en": "Google Cloud's new Open Knowledge Format (OKF) standardizes scattered organizational knowledge as Markdown files with YAML frontmatter, making it portable and usable for AI agents. The minimalist spec formalizes a pattern Andrej Karpathy recently popularized as the \"LLM Wiki.\"\nThe article Google Cloud's Open Knowledge Format turns scattered docs into Markdown files for AI agents appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/google-clouds-open-knowledge-format-turns-scattered-docs-into-markdown-files-for-ai-agents/",
+      "image_url": null,
+      "pub_date": "Sun, 14 Jun 2026 13:29:52 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Google"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-14T14:28:07.041Z",
+      "created_at": "2026-06-14T14:28:07.041Z"
+    },
+    {
+      "id": 11515,
+      "source": "Interesting Engineering",
+      "title_en": "World’s first large-scale 100% hydrogen engine feeds power into electricity grid",
+      "description_en": "A large-scale power engine has successfully supplied electricity to Spain’s national grid using 100% pure...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/large-scale-hydrogen-engine-spanish-grid",
+      "image_url": null,
+      "pub_date": "Sun, 14 Jun 2026 14:01:36 +0000",
+      "author": "Aman Tripathi",
+      "categories": [
+        "Energy"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-14T14:28:08.490Z",
+      "created_at": "2026-06-14T14:28:08.490Z"
+    },
+    {
+      "id": 11516,
+      "source": "Interesting Engineering",
+      "title_en": "German firm launches CA-1EA unmanned electronic warfare aircraft, IOC in 2031",
+      "description_en": "The German defense technology company Helsing has presented an electronic attack variant of the CA-1...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/german-firm-launches-ca-1ea-unmanned-electronic-warfare-aircraft-ioc-in-2031",
+      "image_url": null,
+      "pub_date": "Sun, 14 Jun 2026 13:39:16 +0000",
+      "author": "Bojan Stojkovski",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-14T14:28:08.490Z",
+      "created_at": "2026-06-14T14:28:08.490Z"
+    },
+    {
+      "id": 11517,
+      "source": "Interesting Engineering",
+      "title_en": "China’s BYD unveils new AI system that can spot living beings underneath parked vehicles",
+      "description_en": "At the heart of the patented technology is a baseline imaging approach that creates a...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/china-byd-ai-system-underneath-cars",
+      "image_url": "https://www.youtube.com/embed/Y3aTCisvxYs",
+      "pub_date": "Sun, 14 Jun 2026 13:34:03 +0000",
+      "author": "Bojan Stojkovski",
+      "categories": [
+        "Transportation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-14T14:28:08.490Z",
+      "created_at": "2026-06-14T14:28:08.490Z"
+    },
+    {
+      "id": 11518,
+      "source": "Tom's Hardware",
+      "title_en": "Computer History Museum recalls ‘astonishing’ retro haul recovered from abandoned German warehouse — over 2,000 artifacts spanning the 1930s to 1980s required seven tractor-trailers after a WWII bomb scare",
+      "description_en": "The Computer History Museum recalls one of its biggest ever retro treasure troves. This ‘astonishing’ haul was rescued from an abandoned warehouse in the town of Castrop-Rauxel, Germany.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/computer-history-museum-recalls-astonishing-retro-haul-recovered-from-abandoned-german-warehouse-over-2-000-artifacts-spanning-the-1930s-to-1980s-required-seven-tractor-trailers-after-a-wwii-bomb-scare",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/rLmxdb5UFzzywLdK73fFC4-1280-80.jpg",
+      "pub_date": "Sun, 14 Jun 2026 14:00:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-14T14:28:09.426Z",
+      "created_at": "2026-06-14T14:28:09.426Z"
+    },
+    {
+      "id": 11519,
+      "source": "Tom's Hardware",
+      "title_en": "Grab this MSI Codex Z2 16-thread gaming Ryzen PC with a 2TB SSD at a $400 discount — system packs a Ryzen 8700F, 16GB DDR5, and RTX 5060 Ti 8GB for $1,499",
+      "description_en": "MSI's prebuilt gaming desktop pairs a Zen 4 processor with Nvidia's latest RTX 5060 Ti graphics card and comes housed in an airflow-focused chassis with ARGB lighting.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/grab-this-msi-codex-z2-16-thread-gaming-ryzen-pc-with-a-2tb-ssd-at-a-usd400-discount-system-packs-a-ryzen-8700f-16gb-ddr5-and-rtx-5060-ti-8gb-for-usd1-499",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ajwQtBjj83GzrdKByjeybF-1280-80.jpg",
+      "pub_date": "Sun, 14 Jun 2026 13:28:13 +0000",
+      "author": " Kunal Khullar ",
+      "categories": [
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-14T14:28:09.426Z",
+      "created_at": "2026-06-14T14:28:09.426Z"
+    },
+    {
+      "id": 11520,
+      "source": "Tom's Hardware",
+      "title_en": "New 3D printer tech uses elliptical laser beams to stir molten metal and create ‘alloys-on-demand’ — existing machinery can implement technique in software meaning for more convenient, stronger alloy printing",
+      "description_en": "NIST has demonstrated a metal 3D printing method that stirs molten metal during the print by sending the laser along looping elliptical paths instead of straight lines.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/3d-printing/nist-gets-metal-3d-printers-to-mix-alloys-mid-print-by-rewriting-the-lasers-path",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/5SyRKyZ39nna3PVU9tvFLX-1280-80.jpg",
+      "pub_date": "Sun, 14 Jun 2026 13:02:26 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "3D Printing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-14T14:28:09.426Z",
+      "created_at": "2026-06-14T14:28:09.426Z"
+    },
+    {
+      "id": 11521,
+      "source": "Tom's Hardware",
+      "title_en": "Microsoft is reportedly testing Copilot+ AI features with discrete GPUs instead of NPUs — a feature available on Windows App SDK with a Windows Insider Experimental Channel build and Developer Mode turned on",
+      "description_en": "Microsoft is experimenting with Windows AI features on non-Copilot devices, finally allowing AI features to run on discrete GPUs. This move expands its user base and gives more users access to Windows 11 local AI capabilities.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/windows/microsoft-is-reportedly-testing-copilot-ai-features-with-discrete-gpus-instead-of-npus-a-feature-available-on-windows-app-sdk-with-a-windows-insider-experimental-channel-build-and-developer-mode-turned-on",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/v2uUzE5t6r2NM3ndNX2jdU-1280-80.jpg",
+      "pub_date": "Sun, 14 Jun 2026 13:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Windows",
+        "Software",
+        "Operating Systems"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-14T14:28:09.426Z",
+      "created_at": "2026-06-14T14:28:09.426Z"
+    },
+    {
+      "id": 11522,
+      "source": "Tom's Hardware",
+      "title_en": "OpenAI hit with sweeping probe from massive coalition of 42 US state attorneys general just days after reported IPO filing — subpoena targets ChatGPT maker’s ads, data practices, handling of minors, model sycophancy, and safety policies",
+      "description_en": "State attorneys general have opened a broad investigation into OpenAI, subpoenaing documents on ads, user retention, data handling, minors, health data, model behavior, and safety policies.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-hit-with-sweeping-probe-from-massive-coalition-of-42-us-state-attorneys-general-just-days-after-reported-ipo-filing-subpoena-targets-chatgpt-makers-ads-data-practices-handling-of-minors-model-sycophancy-and-safety-policies",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/v9d9WT79yRDzDH7Mvtn8df-1280-80.jpg",
+      "pub_date": "Sun, 14 Jun 2026 12:30:00 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-14T14:28:09.426Z",
+      "created_at": "2026-06-14T14:28:09.426Z"
+    },
+    {
+      "id": 11523,
+      "source": "CNBC Tech",
+      "title_en": "One quality will be most in-demand from job-seekers in the AI era, Animoca co-founder Siu says",
+      "description_en": "Yat Siu, the co-founder of Animoca Brands, says AI is going to change what skills are most valuable in the workforce.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/14/ceo-of-.html",
+      "image_url": null,
+      "pub_date": "Sun, 14 Jun 2026 14:03:30 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-14T14:28:09.563Z",
+      "created_at": "2026-06-14T14:28:09.563Z"
+    },
+    {
+      "id": 11524,
+      "source": "XOR Journal (TG)",
+      "title_en": "Студенты, вам: кто-то сделал расширение, которое маскирует ChatGPT и Claude под Google Docs 🧠На экране всё выглядит так, как будто вы просто пишете что-то в документе. Вопрос вводите обычной строкой,",
+      "description_en": "Студенты, вам: кто-то сделал расширение, которое маскирует ChatGPT и Claude под Google Docs 🧠На экране всё выглядит так, как будто вы просто пишете что-то в документе. Вопрос вводите обычной строкой, а ответ появляется прямо на странице. Есть еще маскировка под Microsoft Word и Notion.Чтобы у коллег и одногруппников не возникало лишних вопросов — тык. 🤨@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9520",
+      "image_url": null,
+      "pub_date": "2026-06-14T13:41:33+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-14T14:28:15.225Z",
+      "created_at": "2026-06-14T14:28:15.225Z"
+    },
+    {
+      "id": 11525,
+      "source": "AI Post (TG)",
+      "title_en": "🏬 Amazon’s AI empire is thirsty.The company revealed its data centers consumed a staggering 2.5 billion gallons of water in 2025, enough to fill thousands of Olympic-sized swimming pools.As Big Tech ",
+      "description_en": "🏬 Amazon’s AI empire is thirsty.The company revealed its data centers consumed a staggering 2.5 billion gallons of water in 2025, enough to fill thousands of Olympic-sized swimming pools.As Big Tech races to build the infrastructure powering the AI boom, water is becoming one of the industry’s most important (and overlooked) resources.Amazon says it’s getting more efficient, cutting water use by 2% from the previous year and relying on outside air for cooling most of the time. The company also ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7231",
+      "image_url": "https://cdn4.telesco.pe/file/nNo3Gx8SAznebmzcjxs340b7ZBENy1_KRHKdU89LIw6stdi73Ip-9aF6KZntC0wE4VDdAiVxQd6R0fv6lHn2CqrNQsNhqQOF7ml6hQN4gEM9UO-HBUfRVKvX1aPNfBoVeaf6We3WfpP315oUviYZzcpbKa4L-5EB9XYZ91bbpUDRTeLKuVj_3QqknUDQjLRrptKRe7b0iNGFqur7pdKhevExYwkiXT1ki7HwCIIhRsMfQlrjeAWYtFm0u2HwTUPX47Q3dbXP-jKol9IqNP_1wLXihhIM_t7y8svdPQrl0XlMqc_o2Kt4oFv7rGQSIV_hYwBlayYSrrA1Er4qR2iKdw.jpg",
+      "pub_date": "2026-06-14T13:23:16+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-14T14:28:16.317Z",
+      "created_at": "2026-06-14T14:28:16.317Z"
     }
   ]
 }
