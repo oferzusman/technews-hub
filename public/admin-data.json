@@ -1,9 +1,9 @@
 {
-  "total": 11640,
-  "translated": 10718,
-  "untranslated": 922,
-  "today": 98,
-  "week": 726,
+  "total": 11643,
+  "translated": 10716,
+  "untranslated": 927,
+  "today": 101,
+  "week": 729,
   "sources": [
     {
       "name": "Product Hunt",
@@ -20,13 +20,13 @@
     {
       "name": "Interesting Engineering",
       "total": 901,
-      "translated": 810,
+      "translated": 809,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
       "total": 677,
-      "translated": 606,
+      "translated": 605,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 522,
-      "translated": 482,
+      "total": 523,
+      "translated": 483,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -50,7 +50,7 @@
     {
       "name": "New Atlas",
       "total": 502,
-      "translated": 452,
+      "translated": 451,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -79,9 +79,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 353,
-      "translated": 311,
-      "lastDate": "2026-06-15T19:04:53.000Z"
+      "total": 354,
+      "translated": 312,
+      "lastDate": "2026-06-15T21:15:08.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -91,9 +91,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 290,
+      "total": 291,
       "translated": 225,
-      "lastDate": "2026-06-15T17:42:01+00:00"
+      "lastDate": "2026-06-15T21:05:03+00:00"
     },
     {
       "name": "Futurism",
@@ -116,7 +116,7 @@
     {
       "name": "Backdoor (TG)",
       "total": 160,
-      "translated": 136,
+      "translated": 135,
       "lastDate": "2026-06-15T17:56:00+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-15T21:23:45.166Z"
+  "generatedAt": "2026-06-15T21:30:20.517Z"
 }
