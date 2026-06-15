@@ -242933,6 +242933,505 @@
       "priority": "hot",
       "fetchedAt": "2026-06-15T07:02:14.932Z",
       "created_at": "2026-06-15T07:02:14.932Z"
+    },
+    {
+      "id": 11560,
+      "source": "TechCrunch AI",
+      "title_en": "The AI layoff wave is becoming a powder keg",
+      "description_en": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+      "image_url": null,
+      "pub_date": "Mon, 15 Jun 2026 07:25:41 +0000",
+      "author": "Connie Loizos",
+      "categories": [
+        "AI",
+        "TC",
+        "layoff"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-15T10:42:19.150Z",
+      "created_at": "2026-06-15T10:42:19.150Z"
+    },
+    {
+      "id": 11561,
+      "source": "The Decoder",
+      "title_en": "Anthropic shutdown sparks sovereignty debate across Europe",
+      "description_en": "The European Commission is assessing the implications of the US order that forced Anthropic to shut down Fable 5 and Mythos 5 worldwide. European researchers are debating the right response: building their own foundation models or securing access through contracts. But building out homegrown infrastructure would require computing capacity, energy, and competitive providers that Europe currently lacks, experts warn.\nThe article Anthropic shutdown sparks sovereignty debate across Europe appeared f",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-shutdown-sparks-sovereignty-debate-across-europe/",
+      "image_url": null,
+      "pub_date": "Mon, 15 Jun 2026 10:33:07 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "AI in Europe",
+        "AI in germany",
+        "Anthropic",
+        "Claude Fable 5",
+        "Claude Mythos"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-15T10:42:20.484Z",
+      "created_at": "2026-06-15T10:42:20.484Z"
+    },
+    {
+      "id": 11562,
+      "source": "The Decoder",
+      "title_en": "Microsoft CEO Satya Nadella warns of \"a small number of AI systems capturing all the economic returns\"",
+      "description_en": "Microsoft CEO Satya Nadella wants companies to build \"token capital\" alongside human capital, meaning their own AI capabilities built on internal data and proprietary learning loops. Without it, he warns, a few large models could absorb the value of entire industries. The argument also happens to line up with the business logic of his own Azure platform.\nThe article Microsoft CEO Satya Nadella warns of \"a small number of AI systems capturing all the economic returns\" appeared first on The Decode",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/microsoft-ceo-satya-nadella-warns-of-a-small-number-of-ai-systems-capturing-all-the-economic-returns/",
+      "image_url": null,
+      "pub_date": "Mon, 15 Jun 2026 09:39:14 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Microsoft",
+        "Satya Nadella"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-15T10:42:20.484Z",
+      "created_at": "2026-06-15T10:42:20.484Z"
+    },
+    {
+      "id": 11563,
+      "source": "MIT Technology Review",
+      "title_en": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
+      "description_en": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That’s good for health—one Lancet study estimated that AC prevented nearly 200,000 premature deaths in 2019 alone—but bad for the planet.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
+      "image_url": null,
+      "pub_date": "Mon, 15 Jun 2026 09:00:00 +0000",
+      "author": "Sara Kiley Watson",
+      "categories": [
+        "Climate change and energy",
+        "App"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-15T10:42:20.540Z",
+      "created_at": "2026-06-15T10:42:20.540Z"
+    },
+    {
+      "id": 11564,
+      "source": "MarkTechPost",
+      "title_en": "Meet Flash-KMeans: An IO-Aware, Exact K-Means That Runs Over 200× Faster Than FAISS on GPUs",
+      "description_en": "Flash-KMeans is an open-source, IO-aware implementation of standard Lloyd's k-means in Triton GPU kernels. It does not change the math or approximate. FlashAssign removes distance-matrix materialization; Sort-Inverse Update eliminates atomic contention. On an NVIDIA H200, it reports 17.9× end-to-end, 33× over cuML, and over 200× over FAISS.\nThe post Meet Flash-KMeans: An IO-Aware, Exact K-Means That Runs Over 200× Faster Than FAISS on GPUs appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/15/meet-flash-kmeans-an-io-aware-exact-k-means-that-runs-over-200x-faster-than-faiss-on-gpus/",
+      "image_url": null,
+      "pub_date": "Mon, 15 Jun 2026 09:16:09 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "New Releases",
+        "Open Source",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-15T10:42:20.913Z",
+      "created_at": "2026-06-15T10:42:20.913Z"
+    },
+    {
+      "id": 11565,
+      "source": "New Atlas",
+      "title_en": "US Air Force fast-tracks B-21 testing timeline by combining test phases",
+      "description_en": "In another illustration of how defense programs are being fast-tracked, the US Air Force has, for the first time, placed an operational pilot alongside a test pilot early in the flight-testing program for the B-21 Raider nuclear bomber.\nContinue Reading\nCategory: Military, Engineering\nTags: US Air Force, Northrop Grumman, B-21 Raider, Flight Tests",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/military/us-air-force-b21-nuclear-bomber-accelerate-testing/",
+      "image_url": null,
+      "pub_date": "Mon, 15 Jun 2026 07:30:54 GMT",
+      "author": "David Szondy",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-15T10:42:21.135Z",
+      "created_at": "2026-06-15T10:42:21.135Z"
+    },
+    {
+      "id": 11566,
+      "source": "The Guardian AI",
+      "title_en": "Graham Platner’s victory reveals a winning midterms playbook | Pepper Culpepper",
+      "description_en": "Voters want someone they trust to change the economic deal\nGraham Platner’s victory in the Maine Democratic primary, despite controversies that would sink more conventional candidates, shows us that voters are not simply rejecting incumbents. They are responding to candidates – even those with pretty dire baggage – who speak to a widespread belief that the economic system is increasingly rigged in favour of billionaires and large corporations.\nIn my research with Harvard professor Taeku Lee, bas",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/jun/15/graham-platner-maine-victory-midterms-playbook",
+      "image_url": "https://i.guim.co.uk/img/media/775530761030488ba5e5fec45065e24677105c8b/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=9ed7d3903a4a934edf07285a618f27d7",
+      "pub_date": "Mon, 15 Jun 2026 10:00:22 GMT",
+      "author": "Pepper Culpepper",
+      "categories": [
+        {
+          "_": "US midterm elections 2026",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-midterm-elections-2026"
+          }
+        },
+        {
+          "_": "Democrats",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/democrats"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-15T10:42:21.353Z",
+      "created_at": "2026-06-15T10:42:21.353Z"
+    },
+    {
+      "id": 11567,
+      "source": "The Guardian AI",
+      "title_en": "Andrew Hastie compares AI to cold-war nuclear arms race and warns Australia may fall behind",
+      "description_en": "Liberal MP says Australia risks sovereignty and strategic independence being ‘constrained by the AI superpowers reshaping the global order’\n\nGet our breaking news email, free app or daily news podcast\n\nLiberal MP Andrew Hastie says Australia should dramatically scale up investment in artificial intelligence to preserve strategic independence and warns the country risks being “a supplicant state” tethered to the US in an era of possible hot conflict with China.\nIn a major address to Liberal membe",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/australia-news/2026/jun/15/andrew-hastie-ai-artificial-intelligence-power-cold-war-nuclear-arms-race-comparison-australia",
+      "image_url": "https://i.guim.co.uk/img/media/fcf718c822f5b914247cb985836dc460501e4aab/390_0_4421_3537/master/4421.jpg?width=140&quality=85&auto=format&fit=max&s=ecc975f3eac80f712b2d3294ef9fac17",
+      "pub_date": "Mon, 15 Jun 2026 08:30:07 GMT",
+      "author": "Tom McIlroy Political editor",
+      "categories": [
+        {
+          "_": "Andrew Hastie",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/andrew-hastie"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Liberal party",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/liberal-party"
+          }
+        },
+        {
+          "_": "Australian politics",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australian-politics"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        },
+        {
+          "_": "Coalition",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/coalition"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-15T10:42:21.353Z",
+      "created_at": "2026-06-15T10:42:21.353Z"
+    },
+    {
+      "id": 11568,
+      "source": "AI News",
+      "title_en": "Accenture: Consumers show growing trust in AI shopping agents",
+      "description_en": "Consumers are showing a willingness to let AI agents take on more shopping-related tasks, according to new research from Accenture. The company’s 2026 Consumer Pulse Research, based on a survey of 25,590 consumers across 16 countries, found that 74% of respondents would trust a personal AI agent more than their best friend to make a […]\nThe post Accenture: Consumers show growing trust in AI shopping agents appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/",
+      "image_url": null,
+      "pub_date": "Mon, 15 Jun 2026 10:00:00 +0000",
+      "author": "Muhammad Zulhusni",
+      "categories": [
+        "AI Business Strategy",
+        "AI in Action",
+        "AI Market Trends",
+        "Artificial Intelligence",
+        "Marketing AI",
+        "Retail & Logistics AI",
+        "accenture",
+        "ai",
+        "AI agents",
+        "marketing ai",
+        "retail"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-15T10:42:21.625Z",
+      "created_at": "2026-06-15T10:42:21.625Z"
+    },
+    {
+      "id": 11569,
+      "source": "AI News",
+      "title_en": "The AI off switch: How Anthropic’s export controls sparked a global AI sovereignty scramble",
+      "description_en": "Anthropic export controls turned an abstract policy fear into a live one last week: as of June 13, 2026, one US government directive took the company’s two most powerful AI models offline for users everywhere, including, briefly, Anthropic’s own foreign-born employees, and set off alarm bells across Europe and Canada about who really controls the […]\nThe post The AI off switch: How Anthropic’s export controls sparked a global AI sovereignty scramble appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/anthropic-export-controls-ai-sovereignty/",
+      "image_url": null,
+      "pub_date": "Mon, 15 Jun 2026 08:00:00 +0000",
+      "author": "Dashveenjit Kaur",
+      "categories": [
+        "AI and Us",
+        "AI in Action",
+        "Artificial Intelligence",
+        "Cybersecurity AI",
+        "Featured News",
+        "Governance, Regulation & Policy",
+        "Government & Public Sector AI",
+        "Human-AI Relationships",
+        "Trust, Bias & Fairness",
+        "AI policy",
+        "ai regulation",
+        "AI sovereignty",
+        "anthropic",
+        "artificial intelligence",
+        "government",
+        "US export controls"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-15T10:42:21.625Z",
+      "created_at": "2026-06-15T10:42:21.625Z"
+    },
+    {
+      "id": 11570,
+      "source": "Interesting Engineering",
+      "title_en": "Open-source swarm robotics: Custom ESP32 MiniBots turn chess pieces into autonomous robots",
+      "description_en": "A hardware developer known online as 3DprintedLife has unveiled an open-source swarm robotics project that...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/minibots-open-source-chess-swarm-robotics",
+      "image_url": "https://www.youtube.com/embed/r5Gq7_b7ssk",
+      "pub_date": "Mon, 15 Jun 2026 10:27:37 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-15T10:42:21.906Z",
+      "created_at": "2026-06-15T10:42:21.906Z"
+    },
+    {
+      "id": 11571,
+      "source": "Interesting Engineering",
+      "title_en": "US scientists’ new device can capture atomic-level changes in material under pressure",
+      "description_en": "A specialized instrument called the flexible imaging diffraction diagnostic for laser experiments (FIDDLE) has been...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/us-fiddle-atomic-scale-material-imaging",
+      "image_url": "https://www.youtube.com/embed/tJTIYRry298",
+      "pub_date": "Mon, 15 Jun 2026 09:21:12 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [
+        "Science"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-15T10:42:21.906Z",
+      "created_at": "2026-06-15T10:42:21.906Z"
+    },
+    {
+      "id": 11572,
+      "source": "CNBC Tech",
+      "title_en": "SpaceX gains 6% in premarket after record debut. Here's what's driving the valuation debate",
+      "description_en": "SpaceX is now valued at over $2 trillion after its stock rallied on the first day of trade.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/15/spacex-stock-record-ipo-debut.html",
+      "image_url": null,
+      "pub_date": "Mon, 15 Jun 2026 09:15:18 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-15T10:42:22.074Z",
+      "created_at": "2026-06-15T10:42:22.074Z"
+    },
+    {
+      "id": 11573,
+      "source": "Tom's Hardware",
+      "title_en": "2021 Honda Civic infotainment system can be jailbroken via USB — flaw uses public Android test keys to install unauthorized apps, enables for 'EvilValet' attacks",
+      "description_en": "A software architect determined that they could practically install anything they want on the infotainment system of their 2021 Honda Civic through the front USB port. While the head unit required a signed AOSP file to update itself, the AOSP test key is publicly known, meaning anyone with the knowledge could potentially build their own update file and load it with malware.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/2021-honda-civic-infotainment-system-can-be-jailbroken-via-usb-flaw-uses-public-android-test-keys-to-install-unauthorized-apps-enables-for-evilvalet-attacks",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/9GXBwKbfhLBWFupdk6uM7M-1280-80.png",
+      "pub_date": "Mon, 15 Jun 2026 10:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Cybersecurity",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-15T10:42:22.170Z",
+      "created_at": "2026-06-15T10:42:22.170Z"
+    },
+    {
+      "id": 11574,
+      "source": "Product Hunt",
+      "title_en": "AgentBrush",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/agentbrush",
+      "image_url": null,
+      "pub_date": "2026-06-15T05:21:36.000Z",
+      "author": "Yanis KETO",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-15T10:42:24.576Z",
+      "created_at": "2026-06-15T10:42:24.576Z"
+    },
+    {
+      "id": 11575,
+      "source": "XOR Journal (TG)",
+      "title_en": "Любим, когда разрабы умеют веселиться: по слухам, в Авито начали превращать рабочие кейсы в… короткометражки.Информации пока мало, но идея нам уже нравится. Мы бы сняли полноценный триллер про пятничн",
+      "description_en": "Любим, когда разрабы умеют веселиться: по слухам, в Авито начали превращать рабочие кейсы в… короткометражки.Информации пока мало, но идея нам уже нравится. Мы бы сняли полноценный триллер про пятничный релиз, когда у тебя есть время до конца песни, чтобы все исправить 🔈В комментах можете написать, с кем, в каком жанре и стиле вы бы экранизировали свои удачные и провальные рабочие кейсы. И ждем, что покажут в Авито. Надеемся, это будет absolute cinema ✋🤚@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9523",
+      "image_url": null,
+      "pub_date": "2026-06-15T07:40:05+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-15T10:42:25.222Z",
+      "created_at": "2026-06-15T10:42:25.222Z"
+    },
+    {
+      "id": 11576,
+      "source": "XOR Journal (TG)",
+      "title_en": "Геймдев — всё: вайбкодер собрал целую MMORPG в духе World of Warcraft с помощью Claude Fable 5 😳В World of ClaudeCraft есть классы, квесты, торговля, дуэли и общий онлайн-мир с тысячами игроков прямо",
+      "description_en": "Геймдев — всё: вайбкодер собрал целую MMORPG в духе World of Warcraft с помощью Claude Fable 5 😳В World of ClaudeCraft есть классы, квесты, торговля, дуэли и общий онлайн-мир с тысячами игроков прямо в браузере. Код при этом полностью открыт.Отдыхаем от работы тут, GitHub здесь.@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9524",
+      "image_url": null,
+      "pub_date": "2026-06-15T08:36:50+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-15T10:42:25.223Z",
+      "created_at": "2026-06-15T10:42:25.223Z"
+    },
+    {
+      "id": 11577,
+      "source": "XOR Journal (TG)",
+      "title_en": "Жесть, Госуслуги перенаправляют юзеров на сайт казино 🫨Мы проверили — и некоторые ссылки сервиса реально ведут прямо на букмекерские конторы. Вероятно, кто-то не продлил сторонний домен и его благопо",
+      "description_en": "Жесть, Госуслуги перенаправляют юзеров на сайт казино 🫨Мы проверили — и некоторые ссылки сервиса реально ведут прямо на букмекерские конторы. Вероятно, кто-то не продлил сторонний домен и его благополучно украли. Ставим, что кого-то уволят 💲@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9525",
+      "image_url": null,
+      "pub_date": "2026-06-15T10:08:04+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-15T10:42:25.223Z",
+      "created_at": "2026-06-15T10:42:25.223Z"
+    },
+    {
+      "id": 11578,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🚀 Astronauts Will Wear Prada to the MoonItalian fashion house Prada unveiled the inner-layer garment for NASA astronauts headed to the Moon.The suit was developed together with Axiom Space. The body-",
+      "description_en": "🚀 Astronauts Will Wear Prada to the MoonItalian fashion house Prada unveiled the inner-layer garment for NASA astronauts headed to the Moon.The suit was developed together with Axiom Space. The body-hugging garment cools the body with ventilation tubes knitted directly into the fabric.This isn't Prada's first space project: back in 2024, the brand already unveiled a spacesuit planned for use during the Moon landing as part of the Artemis IV mission in 2028.💡 Space tourism is becoming an indust",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2580",
+      "image_url": null,
+      "pub_date": "2026-06-15T09:06:05+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-15T10:42:25.538Z",
+      "created_at": "2026-06-15T10:42:25.538Z"
+    },
+    {
+      "id": 11579,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "💡 Почему одни ИИ-проекты навсегда остаются пилотами, а другие внедряются в работу и приносят реальные деньги?О том, как ИИ меняет бизнес всех масштабов, фармацевтику, кибербезопасность, поиск, ритейл",
+      "description_en": "💡 Почему одни ИИ-проекты навсегда остаются пилотами, а другие внедряются в работу и приносят реальные деньги?О том, как ИИ меняет бизнес всех масштабов, фармацевтику, кибербезопасность, поиск, ритейл и промышленность расскажут на конференции Conversations, которая пройдет 25-26 июня в Санкт-Петербурге (и онлайн).Всего будет 4 трека: Бизнес, AI-Native, Продукты и Технологии.С докладами выступят ведущие российские эксперты по ИИ:✅ AI-powered департаменты: новая операционная модель бизнеса —Наталь",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3318",
+      "image_url": "https://cdn4.telesco.pe/file/kcOvqWU5653GYBvmzJodls0C1Y3qvKQfT7ttt97Eg-YRCYV4cKmm2jrAoDlIYNbu1DJ39OjakbbnH8Lp4rlQPc2yp9vuvMyQKI7na2ZwRqLsTs8bXSOvlaTYrLJZXUvGQcEtIwRCpANfknSmlP0-RI0qDypIf2ugMQuJKwFTT47j7VD4ny454iZMD6iz_Il_G_KRE5UYcIREMonDZALyo7tSoCsL4NBHvkXHwO-w55yJXyUGMosUCgD7m60OFrOdLXWNi1_WIkwijcgSY_oXZGmBwQo9MWAOJrR-Nvm9J1HhW4MzlK2jWV8Jqggy9XJaoNpJP2H-9sqYhMgez5RA-A.jpg",
+      "pub_date": "2026-06-15T09:45:16+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-15T10:42:25.557Z",
+      "created_at": "2026-06-15T10:42:25.557Z"
+    },
+    {
+      "id": 11580,
+      "source": "AI Post (TG)",
+      "title_en": "🗣Ray Kurzweil says quantum computing is unlikely to deliver on its biggest promises, and we don't need itIts outputs are still filled with errors, and despite years of progress reports, it has not br",
+      "description_en": "🗣Ray Kurzweil says quantum computing is unlikely to deliver on its biggest promises, and we don't need itIts outputs are still filled with errors, and despite years of progress reports, it has not broken major cryptographic systems.\"AGI is coming without quantum computing\".@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7239",
+      "image_url": null,
+      "pub_date": "2026-06-15T08:42:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-15T10:42:26.002Z",
+      "created_at": "2026-06-15T10:42:26.002Z"
     }
   ]
 }
