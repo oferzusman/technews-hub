@@ -1,20 +1,20 @@
 {
-  "total": 11551,
+  "total": 11559,
   "translated": 10270,
-  "untranslated": 1281,
-  "today": 9,
-  "week": 637,
+  "untranslated": 1289,
+  "today": 17,
+  "week": 645,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 1030,
-      "translated": 986,
-      "lastDate": "2026-06-12T21:14:13.000Z"
+      "total": 1034,
+      "translated": 990,
+      "lastDate": "2026-06-15T06:04:58.000Z"
     },
     {
       "name": "Tom's Hardware",
       "total": 942,
-      "translated": 793,
+      "translated": 790,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -26,25 +26,25 @@
     {
       "name": "CNBC Tech",
       "total": 671,
-      "translated": 571,
+      "translated": 570,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
       "total": 593,
-      "translated": 491,
+      "translated": 490,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "Ars Technica",
       "total": 518,
-      "translated": 464,
+      "translated": 463,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
       "name": "The Decoder",
       "total": 502,
-      "translated": 422,
+      "translated": 421,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -67,14 +67,14 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 393,
-      "translated": 287,
-      "lastDate": "2026-06-15T03:16:01+00:00"
+      "total": 394,
+      "translated": 288,
+      "lastDate": "2026-06-15T05:54:01+00:00"
     },
     {
       "name": "OpenAI Blog",
       "total": 379,
-      "translated": 356,
+      "translated": 355,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -85,8 +85,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 306,
-      "translated": 253,
+      "total": 307,
+      "translated": 254,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 285,
-      "translated": 203,
-      "lastDate": "2026-06-14T21:15:03+00:00"
+      "total": 286,
+      "translated": 204,
+      "lastDate": "2026-06-15T06:15:04+00:00"
     },
     {
       "name": "The Register",
@@ -127,9 +127,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 127,
-      "translated": 97,
-      "lastDate": "2026-06-14T06:49:31+00:00"
+      "total": 128,
+      "translated": 98,
+      "lastDate": "2026-06-15T06:32:17+00:00"
     },
     {
       "name": "AI News",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-15T07:07:01.856Z"
+  "generatedAt": "2026-06-15T07:11:52.037Z"
 }
