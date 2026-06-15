@@ -242551,6 +242551,42 @@
       "priority": "hot",
       "fetchedAt": "2026-06-14T22:40:29.387Z",
       "created_at": "2026-06-14T22:40:29.387Z"
+    },
+    {
+      "id": 11543,
+      "source": "OpenAI Blog",
+      "title_en": "Introducing the OpenAI Partner Network",
+      "description_en": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/introducing-openai-partner-network",
+      "image_url": null,
+      "pub_date": "Sun, 14 Jun 2026 17:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Product"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-15T00:08:45.224Z",
+      "created_at": "2026-06-15T00:08:45.224Z"
+    },
+    {
+      "id": 11544,
+      "source": "New Atlas",
+      "title_en": "Domesticating AI – It's not coming, it's already here",
+      "description_en": "When my neighbor wanted a vision of what his fence could look like, I didn't hesitate to ask ChatGPT to create a mock-up. I took a photo of the fence and asked it to overlay a potted Jasmin espaliered to it, after a couple of tweaks, and all of about one minute later, it gave me this:\nContinue Reading\nCategory: AI and Humanoids, Technology\nTags: Artificial Intelligence, Automation",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/ai-humanoids/domesticating-ai-is-already-here/",
+      "image_url": null,
+      "pub_date": "Sun, 14 Jun 2026 23:43:15 GMT",
+      "author": "Howard Armitage",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-15T00:08:45.363Z",
+      "created_at": "2026-06-15T00:08:45.363Z"
     }
   ]
 }
