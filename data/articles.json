@@ -243432,6 +243432,158 @@
       "priority": "batch",
       "fetchedAt": "2026-06-15T10:42:26.002Z",
       "created_at": "2026-06-15T10:42:26.002Z"
+    },
+    {
+      "id": 11581,
+      "source": "The Guardian AI",
+      "title_en": "AI use by the US government is ballooning. And the lack of transparency is troubling | Nathan E Sanders and Bruce Schneider",
+      "description_en": "The list of government AI use cases has ballooned by 70% since Biden left office and includes many plans to hand over sensitive governmental functions to AI\nOn 14 April, the Trump administration quietly acknowledged the widespread use of AI to automate government processes. The Office of Management and Budget (OMB) disclosed a staggering 3,611 active or planned use cases for AI across the federal government. The list has ballooned by 70% from the one published in the final year of the Biden admi",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/jun/15/ai-use-by-the-us-government-is-ballooning-and-the-lack-of-transparency-is-troubling",
+      "image_url": "https://i.guim.co.uk/img/media/863584ddc8ee49c89ddce1df5e7212e503e5fe23/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=4f1fbcb4d914c61389c0a793fe707808",
+      "pub_date": "Mon, 15 Jun 2026 12:00:25 GMT",
+      "author": "Nathan E Sanders and Bruce Schneier",
+      "categories": [
+        {
+          "_": "Trump administration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/trump-administration"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-15T12:13:12.700Z",
+      "created_at": "2026-06-15T12:13:12.700Z"
+    },
+    {
+      "id": 11582,
+      "source": "Interesting Engineering",
+      "title_en": "Pemba humanoid robot eyes Mount Everest summit after historic 20,312-ft climb",
+      "description_en": "A Unitree G1 humanoid robot is being prepared for a planned Mount Everest expedition later...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/humanoid-robot-mount-everest",
+      "image_url": null,
+      "pub_date": "Mon, 15 Jun 2026 11:17:49 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-15T12:13:13.277Z",
+      "created_at": "2026-06-15T12:13:13.277Z"
+    },
+    {
+      "id": 11583,
+      "source": "AI News",
+      "title_en": "HarmonyOS 7 steps into the AI gap Apple left open in China",
+      "description_en": "Four days after Apple confirmed that Siri AI would not launch in China, Huawei took the stage in Dongguan and declared HarmonyOS 7 the beginning of the agent era. The gap Apple could not fill, Huawei has moved into with an architecture built specifically for it. What HarmonyOS 7 actually changes The headline change is […]\nThe post HarmonyOS 7 steps into the AI gap Apple left open in China appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/",
+      "image_url": null,
+      "pub_date": "Mon, 15 Jun 2026 11:00:00 +0000",
+      "author": "Dashveenjit Kaur",
+      "categories": [
+        "AI Business Strategy",
+        "AI in Action",
+        "Artificial Intelligence",
+        "Inside AI",
+        "agentic ai",
+        "AI agents",
+        "apple",
+        "apple intelligence",
+        "china",
+        "HarmonyOS 7",
+        "HDC 2026",
+        "huawei",
+        "iOS 27",
+        "Mobile OS",
+        "openPangu",
+        "Siri AI",
+        "Xiaoyi"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-15T12:13:13.306Z",
+      "created_at": "2026-06-15T12:13:13.306Z"
+    },
+    {
+      "id": 11584,
+      "source": "Tom's Hardware",
+      "title_en": "FBI dismantles Chinese phishing service that coached buyers to generate scam sites using AI —$88 cybercrime product linked to $1.9 billion in losses, 3.87 million stolen cards",
+      "description_en": "The FBI, Google, and Lumen Technologies say they’ve dismantled a China-based phishing-as-a-service operation called Outsider Enterprise.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/fbi-and-google-dismantle-chinese-phishing-service-that-coached-buyers-to-generate-scam-sites-with-gemini",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/R3ssdiVojUJHR3VmuPKrDg-1280-80.jpg",
+      "pub_date": "Mon, 15 Jun 2026 11:10:54 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "Cybersecurity",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-15T12:13:13.805Z",
+      "created_at": "2026-06-15T12:13:13.805Z"
+    },
+    {
+      "id": 11585,
+      "source": "Tom's Hardware",
+      "title_en": "42% slashed off Samsung's 990 Pro SSD, 2TB now $369 — $270 savings brings one of the fastest PCIe 4.0 SSDs to its lowest price in months",
+      "description_en": "Samsung's 990 Pro 2TB is one of the fastest PCIe 4.0 M.2 SSDs around, delivering excellent performance and efficiency and backed by a 5-year warranty - now priced at $369.99, it's not the cheapest around, but is a well-rounded storage upgrade for any build.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/42-percent-slashed-of-samsungs-990-pro-ssd-2tb-now-usd369-usd270-savings-brings-one-of-the-fastest-pcie-4-0-ssds-to-its-lowest-price-in-months",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vRRVSSWuYLcw8FeKxRZQDW-1280-80.png",
+      "pub_date": "Mon, 15 Jun 2026 10:49:25 +0000",
+      "author": " Joe Shields ",
+      "categories": [
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-15T12:13:13.806Z",
+      "created_at": "2026-06-15T12:13:13.806Z"
+    },
+    {
+      "id": 11586,
+      "source": "AI Post (TG)",
+      "title_en": "🇯🇵 Japan will deploy humanoid robots in elder care because loneliness is now the real crisis.@aipost 🏴",
+      "description_en": "🇯🇵 Japan will deploy humanoid robots in elder care because loneliness is now the real crisis.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7240",
+      "image_url": null,
+      "pub_date": "2026-06-15T11:21:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-15T12:13:16.121Z",
+      "created_at": "2026-06-15T12:13:16.121Z"
     }
   ]
 }
