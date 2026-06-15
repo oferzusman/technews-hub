@@ -1,9 +1,9 @@
 {
-  "total": 11643,
+  "total": 11645,
   "translated": 10765,
-  "untranslated": 878,
-  "today": 101,
-  "week": 729,
+  "untranslated": 880,
+  "today": 103,
+  "week": 731,
   "sources": [
     {
       "name": "Product Hunt",
@@ -14,13 +14,13 @@
     {
       "name": "Tom's Hardware",
       "total": 950,
-      "translated": 860,
+      "translated": 859,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 901,
-      "translated": 814,
+      "total": 903,
+      "translated": 816,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -68,7 +68,7 @@
     {
       "name": "AI Post (TG)",
       "total": 401,
-      "translated": 328,
+      "translated": 327,
       "lastDate": "2026-06-15T20:23:14+00:00"
     },
     {
@@ -92,7 +92,7 @@
     {
       "name": "XOR Journal (TG)",
       "total": 291,
-      "translated": 229,
+      "translated": 228,
       "lastDate": "2026-06-15T21:05:03+00:00"
     },
     {
@@ -116,7 +116,7 @@
     {
       "name": "Backdoor (TG)",
       "total": 160,
-      "translated": 137,
+      "translated": 138,
       "lastDate": "2026-06-15T17:56:00+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-15T22:16:00.094Z"
+  "generatedAt": "2026-06-15T22:20:47.852Z"
 }
