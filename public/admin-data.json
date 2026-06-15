@@ -1,9 +1,9 @@
 {
-  "total": 11544,
-  "translated": 10120,
-  "untranslated": 1424,
-  "today": 2,
-  "week": 630,
+  "total": 11547,
+  "translated": 10121,
+  "untranslated": 1426,
+  "today": 5,
+  "week": 633,
   "sources": [
     {
       "name": "Product Hunt",
@@ -14,7 +14,7 @@
     {
       "name": "Tom's Hardware",
       "total": 942,
-      "translated": 776,
+      "translated": 774,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 496,
-      "translated": 421,
+      "total": 497,
+      "translated": 422,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 391,
-      "translated": 276,
-      "lastDate": "2026-06-14T21:46:01+00:00"
+      "total": 392,
+      "translated": 277,
+      "lastDate": "2026-06-15T00:33:01+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -85,8 +85,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 305,
-      "translated": 248,
+      "total": 306,
+      "translated": 249,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-15T01:46:29.145Z"
+  "generatedAt": "2026-06-15T01:51:07.583Z"
 }
