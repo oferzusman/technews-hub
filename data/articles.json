@@ -247644,6 +247644,66 @@
       "priority": "hot",
       "fetchedAt": "2026-06-16T21:25:52.316Z",
       "created_at": "2026-06-16T21:25:52.316Z"
+    },
+    {
+      "id": 11780,
+      "source": "Ars Technica",
+      "title_en": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+      "description_en": "Move originally planned for Monday would have heavily increased power users' costs.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/claude37_header-1152x648.jpg",
+      "pub_date": "Tue, 16 Jun 2026 21:00:35 +0000",
+      "author": "\n                    Kyle Orland\n                ",
+      "categories": [
+        "AI",
+        "Anthropic",
+        "billing",
+        "Claude",
+        "costs",
+        "SDK",
+        "subscription",
+        "token-based"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T22:30:15.147Z",
+      "created_at": "2026-06-16T22:30:15.147Z"
+    },
+    {
+      "id": 11781,
+      "source": "Backdoor (TG)",
+      "title_en": "Заставляем ChatGPT говорить только ПРАВДУ, без придумок и подлизываний — блогер показал, как получать только точные и объективные ответы от нейросети. Суть: ChatGPT изначально обучена на человеческом ",
+      "description_en": "Заставляем ChatGPT говорить только ПРАВДУ, без придумок и подлизываний — блогер показал, как получать только точные и объективные ответы от нейросети. Суть: ChatGPT изначально обучена на человеческом одобрении, поэтому постоянно соглашается со всеми вашими идеями и выводами, даже откровенно плохими. Забираем специальные теги-команды, которые исключают несовершенства ИИ:• [АТАКА] — ИИ будет максимально жестко разбирать и критиковать любые ваши идеи. Вы сразу увидите слабые стороны задумки.• [PROR",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29257",
+      "image_url": null,
+      "pub_date": "2026-06-16T21:44:12+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T22:30:24.581Z",
+      "created_at": "2026-06-16T22:30:24.581Z"
+    },
+    {
+      "id": 11782,
+      "source": "XOR Journal (TG)",
+      "title_en": "Качаемся прямо во время вайбкодинга: появился плагин для Claude Code, который заставляет заниматься спортом.Workout Gate просто не даст отправить запрос, пока не сделаешь несколько приседаний или отжи",
+      "description_en": "Качаемся прямо во время вайбкодинга: появился плагин для Claude Code, который заставляет заниматься спортом.Workout Gate просто не даст отправить запрос, пока не сделаешь несколько приседаний или отжиманий. Повторы считают с помощью веб-камеры и компьютерного зрения, также внутри есть статистика, а весь долг переносится на следующую сессию.Заботимся о здоровье 😎@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9539",
+      "image_url": null,
+      "pub_date": "2026-06-16T21:50:05+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T22:30:24.630Z",
+      "created_at": "2026-06-16T22:30:24.630Z"
     }
   ]
 }
