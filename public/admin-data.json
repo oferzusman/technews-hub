@@ -1,9 +1,9 @@
 {
-  "total": 11647,
+  "total": 11651,
   "translated": 10914,
-  "untranslated": 733,
-  "today": 0,
-  "week": 591,
+  "untranslated": 737,
+  "today": 4,
+  "week": 595,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 903,
-      "translated": 830,
+      "total": 904,
+      "translated": 831,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -31,7 +31,7 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 602,
+      "total": 603,
       "translated": 543,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -44,13 +44,13 @@
     {
       "name": "The Decoder",
       "total": 507,
-      "translated": 463,
+      "translated": 462,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 502,
-      "translated": 459,
+      "total": 503,
+      "translated": 460,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 401,
-      "translated": 337,
-      "lastDate": "2026-06-15T20:23:14+00:00"
+      "total": 402,
+      "translated": 338,
+      "lastDate": "2026-06-15T23:24:02+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -128,7 +128,7 @@
     {
       "name": "Hi, AI Russian (TG)",
       "total": 130,
-      "translated": 114,
+      "translated": 112,
       "lastDate": "2026-06-15T12:45:14+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-16T00:09:33.761Z"
+  "generatedAt": "2026-06-16T00:11:51.139Z"
 }
