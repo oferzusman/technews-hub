@@ -1,44 +1,44 @@
 {
   "total": 11787,
-  "translated": 11700,
-  "untranslated": 87,
+  "translated": 11749,
+  "untranslated": 38,
   "today": 140,
   "week": 731,
   "sources": [
     {
       "name": "Product Hunt",
       "total": 1047,
-      "translated": 1034,
+      "translated": 1035,
       "lastDate": "2026-06-15T18:49:36.000Z"
     },
     {
       "name": "Tom's Hardware",
       "total": 971,
-      "translated": 970,
+      "translated": 971,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
       "total": 913,
-      "translated": 905,
+      "translated": 911,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
       "total": 686,
-      "translated": 673,
+      "translated": 683,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
       "total": 616,
-      "translated": 603,
+      "translated": 613,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "Ars Technica",
       "total": 531,
-      "translated": 527,
+      "translated": 529,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -50,7 +50,7 @@
     {
       "name": "New Atlas",
       "total": 505,
-      "translated": 499,
+      "translated": 505,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -62,13 +62,13 @@
     {
       "name": "The Guardian AI",
       "total": 418,
-      "translated": 415,
+      "translated": 417,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
       "name": "AI Post (TG)",
       "total": 410,
-      "translated": 404,
+      "translated": 408,
       "lastDate": "2026-06-16T20:45:00+00:00"
     },
     {
@@ -80,19 +80,19 @@
     {
       "name": "The Verge AI",
       "total": 358,
-      "translated": 355,
+      "translated": 357,
       "lastDate": "2026-06-16T17:04:05.000Z"
     },
     {
       "name": "MarkTechPost",
       "total": 314,
-      "translated": 311,
+      "translated": 313,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
       "name": "XOR Journal (TG)",
       "total": 303,
-      "translated": 301,
+      "translated": 302,
       "lastDate": "2026-06-16T21:50:05+00:00"
     },
     {
@@ -176,7 +176,7 @@
     {
       "name": "Google AI Blog",
       "total": 59,
-      "translated": 57,
+      "translated": 59,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-16T23:09:01.806Z"
+  "generatedAt": "2026-06-16T23:09:48.525Z"
 }
