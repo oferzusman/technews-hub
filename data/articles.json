@@ -247704,6 +247704,144 @@
       "priority": "hot",
       "fetchedAt": "2026-06-16T22:30:24.630Z",
       "created_at": "2026-06-16T22:30:24.630Z"
+    },
+    {
+      "id": 11783,
+      "source": "TechCrunch AI",
+      "title_en": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+      "description_en": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+      "image_url": null,
+      "pub_date": "Tue, 16 Jun 2026 22:34:17 +0000",
+      "author": "Julie Bort",
+      "categories": [
+        "AI",
+        "Enterprise",
+        "Fintech",
+        "Startups",
+        "TC",
+        "Anthropic",
+        "Fable 5",
+        "Mythos",
+        "Ramp"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T23:04:52.445Z",
+      "created_at": "2026-06-16T23:04:52.445Z"
+    },
+    {
+      "id": 11784,
+      "source": "The Guardian AI",
+      "title_en": "Trump’s DoJ intervenes to back Elon Musk in datacenter pollution lawsuit",
+      "description_en": "Justice department urges judge to throw out suit brought by NAACP over xAI’s methane-gas turbines in Mississippi\nThe Trump administration is coming to the defense of Elon Musk in a lawsuit over claims that his artificial intelligence company, xAI, is polluting residential neighborhoods in north Mississippi. The justice department told a federal court late on Monday to throw out the case.\nThe lawsuit was filed by the NAACP in April over allegations that xAI and its subsidiary MZX Tech set up doze",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/16/elon-musk-xai-datacenters-trump-administration",
+      "image_url": "https://i.guim.co.uk/img/media/57052094ac7484fa57870e1f2bbd88fa4d7f750a/1027_0_5133_4107/master/5133.jpg?width=140&quality=85&auto=format&fit=max&s=0d7333c37ceb3e37a5df91a9ee976f5e",
+      "pub_date": "Tue, 16 Jun 2026 23:01:13 GMT",
+      "author": "Dara Kerr",
+      "categories": [
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "Trump administration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/trump-administration"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Pollution",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/pollution"
+          }
+        },
+        {
+          "_": "Environment",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/environment"
+          }
+        },
+        {
+          "_": "Mississippi",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/mississippi"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T23:04:54.749Z",
+      "created_at": "2026-06-16T23:04:54.749Z"
+    },
+    {
+      "id": 11785,
+      "source": "CNBC Tech",
+      "title_en": "Jim Cramer says SpaceX investors aren't buying earnings — they're buying Elon Musk",
+      "description_en": "CNBC's Jim Cramer said SpaceX investors are betting on Elon Musk's vision and track record, rather than the company's current earnings power.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/16/jim-cramer-spacex-investors-buying-elon-musk.html",
+      "image_url": null,
+      "pub_date": "Tue, 16 Jun 2026 22:42:05 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T23:04:55.978Z",
+      "created_at": "2026-06-16T23:04:55.978Z"
+    },
+    {
+      "id": 11786,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic's Fable shutdown is a big moment for open-source AI",
+      "description_en": "Anthropic’s Fable shutdown could boost open-source AI, but many of the models gaining traction are Chinese.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/16/anthropics-fable-shutdown-is-a-big-moment-for-open-source-ai.html",
+      "image_url": null,
+      "pub_date": "Tue, 16 Jun 2026 22:34:32 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T23:04:55.978Z",
+      "created_at": "2026-06-16T23:04:55.978Z"
+    },
+    {
+      "id": 11787,
+      "source": "CNBC Tech",
+      "title_en": "Databricks sales growth tops 80%, but margin are shrinking from swarm of AI agents",
+      "description_en": "Databricks is seeing higher growth as AI agents assist with data analysis, but all that activity is significantly increasing costs.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/16/databricks-revenue-growth-tops-80percent-to-6point9-billion-annualized.html",
+      "image_url": null,
+      "pub_date": "Tue, 16 Jun 2026 22:25:28 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T23:04:55.978Z",
+      "created_at": "2026-06-16T23:04:55.978Z"
     }
   ]
 }
