@@ -1,19 +1,19 @@
 {
-  "total": 11678,
+  "total": 11690,
   "translated": 11162,
-  "untranslated": 516,
-  "today": 31,
-  "week": 622,
+  "untranslated": 528,
+  "today": 43,
+  "week": 634,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 1044,
+      "total": 1046,
       "translated": 1017,
       "lastDate": "2026-06-15T18:49:36.000Z"
     },
     {
       "name": "Tom's Hardware",
-      "total": 950,
+      "total": 951,
       "translated": 897,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
@@ -25,7 +25,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 678,
+      "total": 679,
       "translated": 648,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -43,13 +43,13 @@
     },
     {
       "name": "The Decoder",
-      "total": 507,
+      "total": 508,
       "translated": 476,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 504,
+      "total": 505,
       "translated": 479,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -67,9 +67,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 404,
+      "total": 405,
       "translated": 355,
-      "lastDate": "2026-06-16T05:05:00+00:00"
+      "lastDate": "2026-06-16T08:30:34+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -85,15 +85,15 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 311,
+      "total": 313,
       "translated": 287,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 293,
+      "total": 294,
       "translated": 249,
-      "lastDate": "2026-06-16T07:45:04+00:00"
+      "lastDate": "2026-06-16T08:37:31+00:00"
     },
     {
       "name": "Futurism",
@@ -115,9 +115,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 161,
+      "total": 162,
       "translated": 146,
-      "lastDate": "2026-06-16T07:54:01+00:00"
+      "lastDate": "2026-06-16T09:09:04+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -162,16 +162,16 @@
       "lastDate": "2026-04-09T07:23:47Z"
     },
     {
+      "name": "Habr (TG)",
+      "total": 78,
+      "translated": 74,
+      "lastDate": "2026-06-16T09:33:32+00:00"
+    },
+    {
       "name": "GlobeNewswire",
       "total": 77,
       "translated": 77,
       "lastDate": "2026-04-09T07:00:00Z"
-    },
-    {
-      "name": "Habr (TG)",
-      "total": 77,
-      "translated": 74,
-      "lastDate": "2026-06-16T05:01:11+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-16T08:37:12.848Z"
+  "generatedAt": "2026-06-16T09:42:10.774Z"
 }
