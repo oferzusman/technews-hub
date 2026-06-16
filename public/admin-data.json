@@ -1,9 +1,9 @@
 {
-  "total": 11760,
+  "total": 11764,
   "translated": 11409,
-  "untranslated": 351,
-  "today": 113,
-  "week": 704,
+  "untranslated": 355,
+  "today": 117,
+  "week": 708,
   "sources": [
     {
       "name": "Product Hunt",
@@ -31,7 +31,7 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 613,
+      "total": 614,
       "translated": 584,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -67,9 +67,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 407,
+      "total": 409,
       "translated": 383,
-      "lastDate": "2026-06-16T14:30:14+00:00"
+      "lastDate": "2026-06-16T18:12:01+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -91,9 +91,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 301,
+      "total": 302,
       "translated": 276,
-      "lastDate": "2026-06-16T16:45:04+00:00"
+      "lastDate": "2026-06-16T17:37:09+00:00"
     },
     {
       "name": "Futurism",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-16T17:47:13.595Z"
+  "generatedAt": "2026-06-16T18:17:25.951Z"
 }
