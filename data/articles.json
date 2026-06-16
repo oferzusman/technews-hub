@@ -245521,7 +245521,7 @@
       "author": "Monica J. White",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-06-16T09:39:09.293Z",
       "created_at": "2026-06-16T09:39:09.293Z"
     },
@@ -245663,6 +245663,473 @@
       "priority": "hot",
       "fetchedAt": "2026-06-16T09:39:14.825Z",
       "created_at": "2026-06-16T09:39:14.825Z"
+    },
+    {
+      "id": 11691,
+      "source": "The Verge AI",
+      "title_en": "SpaceX is officially buying Cursor for $60 billion",
+      "description_en": "Days after its massive IPO, SpaceX says it is spending $60 billion to buy Cursor - a bet designed to help Elon Musk's sprawling rocket / AI / social media behemoth win over lucrative enterprise customers and close the gap with AI rivals like Anthropic and OpenAI.\nThe takeover was not entirely unexpected: SpaceX announced a peculiar arrangement in April in which it agreed to either acquire the programming platform for $60 billion or pay a $10 billion breakup fee. The company had been holding off ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
+      "image_url": null,
+      "pub_date": "2026-06-16T11:41:31.000Z",
+      "author": "Robert Hart",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T12:21:56.037Z",
+      "created_at": "2026-06-16T12:21:56.037Z"
+    },
+    {
+      "id": 11692,
+      "source": "TechCrunch AI",
+      "title_en": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+      "description_en": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+      "image_url": null,
+      "pub_date": "Tue, 16 Jun 2026 11:21:41 +0000",
+      "author": "Sean O'Kane",
+      "categories": [
+        "AI",
+        "Space",
+        "artificial intelligence",
+        "cursor",
+        "Mergers and Acquisitions",
+        "SpaceX"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T12:21:56.058Z",
+      "created_at": "2026-06-16T12:21:56.058Z"
+    },
+    {
+      "id": 11693,
+      "source": "The Decoder",
+      "title_en": "How easily can Russian propaganda fool AI models? A new benchmark finds out",
+      "description_en": "The Institute of the Estonian Language has released a benchmark measuring how susceptible AI language models are to Russian propaganda.\nThe article How easily can Russian propaganda fool AI models? A new benchmark finds out appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/how-easily-can-russian-propaganda-fool-ai-models-a-new-benchmark-finds-out/",
+      "image_url": null,
+      "pub_date": "Tue, 16 Jun 2026 11:28:13 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T12:21:57.349Z",
+      "created_at": "2026-06-16T12:21:57.349Z"
+    },
+    {
+      "id": 11694,
+      "source": "The Decoder",
+      "title_en": "Anthropic backs off unpopular billing overhaul as price war with OpenAI looms",
+      "description_en": "Anthropic has pulled back its planned billing change for the Claude Agent SDK just before launch. Instead of separate credits, the SDK and third-party apps will keep drawing from regular subscription limits.\nThe article Anthropic backs off unpopular billing overhaul as price war with OpenAI looms appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-backs-off-unpopular-billing-overhaul-as-price-war-with-openai-looms/",
+      "image_url": null,
+      "pub_date": "Tue, 16 Jun 2026 09:44:48 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-16T12:21:57.349Z",
+      "created_at": "2026-06-16T12:21:57.349Z"
+    },
+    {
+      "id": 11695,
+      "source": "The Decoder",
+      "title_en": "DeepSeek takes outside money for the first time at a $50 billion valuation",
+      "description_en": "Chinese AI startup DeepSeek has raised more than 50 billion yuan - about $7.4 billion - in its first external funding round.\nThe article DeepSeek takes outside money for the first time at a $50 billion valuation appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/deepseek-takes-outside-money-for-the-first-time-at-a-50-billion-valuation/",
+      "image_url": null,
+      "pub_date": "Tue, 16 Jun 2026 09:40:48 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Deepseek"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-16T12:21:57.349Z",
+      "created_at": "2026-06-16T12:21:57.349Z"
+    },
+    {
+      "id": 11696,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: the first brain implant power user and South Korea’s AI obsession",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This man with ALS is the first “power user” of a brain implant that lets him speak Casey Harrell has had a set of electrodes embedded in his brain for almost…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
+      "image_url": null,
+      "pub_date": "Tue, 16 Jun 2026 12:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T12:21:57.385Z",
+      "created_at": "2026-06-16T12:21:57.385Z"
+    },
+    {
+      "id": 11697,
+      "source": "The Guardian AI",
+      "title_en": "The Anthropic ‘Fable’ saga proves: we have opened the AI Pandora’s box. What now? | Nathan E Sanders and Bruce Schneier",
+      "description_en": "We have opened the AI Pandora’s box. Now we have to make the best of it\nOn 9 June, Anthropic released its Fable generative AI model. Three days later, the US government classified it as a dangerous munition, and used its export-control authority to prohibit any foreign nationals from accessing it. Unable to differentiate between Americans and foreigners, the company shut off access for everyone.\nThe government’s actions won’t help. The problem isn’t any one particular models; it’s the general tr",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/jun/16/anthropic-fable-ai",
+      "image_url": "https://i.guim.co.uk/img/media/28edf8430703ef36bd4b040dcaf655545b4d57fb/0_0_5033_4024/master/5033.jpg?width=140&quality=85&auto=format&fit=max&s=38a1eaea8b862c87438f01e0ae511d65",
+      "pub_date": "Tue, 16 Jun 2026 12:00:01 GMT",
+      "author": "Bruce Schneier",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T12:21:58.381Z",
+      "created_at": "2026-06-16T12:21:58.381Z"
+    },
+    {
+      "id": 11698,
+      "source": "AI News",
+      "title_en": "EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline",
+      "description_en": "The European Union has published its AI content labelling playbook, a voluntary Code of Practice meant to help companies meet transparency rules that become law across the bloc on August 2 onwards. The European Commission released the final Code on 10 June, setting out practical steps for the businesses that build and use generative AI to mark […]\nThe post EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline appeared first on AI News.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/",
+      "image_url": null,
+      "pub_date": "Tue, 16 Jun 2026 10:00:00 +0000",
+      "author": "Dashveenjit Kaur",
+      "categories": [
+        "AI and Us",
+        "AI in Action",
+        "Artificial Intelligence",
+        "Government & Public Sector AI",
+        "Human-AI Relationships",
+        "AI content labelling",
+        "AI labelling",
+        "Article 50",
+        "EU AI Act",
+        "european commission"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-16T12:21:58.727Z",
+      "created_at": "2026-06-16T12:21:58.727Z"
+    },
+    {
+      "id": 11699,
+      "source": "Tom's Hardware",
+      "title_en": "AGI AI858 2TB SSD Review — High-end PCIe 5 speeds on a budget",
+      "description_en": "The AGI AI858 is a wallet-friendly entry into the high-end PCIe 5.0 SSD playground with good random read latency, a bundled heatsink, and minimal trade-offs.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ssds/agi-ai858-2tb-ssd-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vMEpDs2Gn6u596LaYjSAu4-1280-80.jpg",
+      "pub_date": "Tue, 16 Jun 2026 12:10:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "SSDs",
+        "PC Components",
+        "Storage"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T12:21:59.113Z",
+      "created_at": "2026-06-16T12:21:59.113Z"
+    },
+    {
+      "id": 11700,
+      "source": "Tom's Hardware",
+      "title_en": "Intel's one-two punch plan in desktop CPUs is taking shape — Z990 spotted, Nova Lake detailed, ‘Raptor Lake Next’ teased",
+      "description_en": "Intel’s next-gen desktop plans are starting to take shape, and Computex entertained a lot of murmurs about what’s coming from Team Blue over the next year at the event.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/intels-one-two-punch-plan-in-desktop-cpus-is-taking-shape-z990-spotted-nova-lake-detailed-raptor-lake-next-teased",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/aty8ui26PjyELNJUhWHoha-1280-80.jpg",
+      "pub_date": "Tue, 16 Jun 2026 12:00:00 +0000",
+      "author": " Jake Roach ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T12:21:59.113Z",
+      "created_at": "2026-06-16T12:21:59.113Z"
+    },
+    {
+      "id": 11701,
+      "source": "Tom's Hardware",
+      "title_en": "Commodore announces Linux-based flip phone with ‘no social media, no browser’ — the Callback 8020 will be available in five retro colorways starting at $499, runs 99% of Android apps",
+      "description_en": "After some teasing and a couple of red herrings Commodore today unveiled a retro-styled flip phone dubbed the Callback 8020.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/phones/commodore-announces-linux-based-flip-phone-with-no-social-media-no-browser-the-callback-8020-will-be-available-in-five-retro-colorways-starting-at-usd499-runs-99-percent-of-android-apps",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/m8DVMuXiyoC3U9zNPiYWmn-1280-80.jpg",
+      "pub_date": "Tue, 16 Jun 2026 11:42:13 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Phones"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T12:21:59.113Z",
+      "created_at": "2026-06-16T12:21:59.113Z"
+    },
+    {
+      "id": 11702,
+      "source": "Tom's Hardware",
+      "title_en": "Save 40% on this ultra-fast Samsung microSD card with 256GB storage, now just $47.99 — $32 saving on P9 Express model with read speeds of up to 800 MB/s, perfect for a gaming laptop or a Nintendo Switch 2",
+      "description_en": "Save $32 on this Samsung P9 Express microSD card with read speeds up to 800MB/s.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/microsd-cards/save-40-percent-on-this-ultra-fast-samsung-microsd-card-with-256gb-storage-now-just-usd47-99-usd32-saving-on-p9-express-model-with-read-speeds-of-up-to-800-mb-s-perfect-for-a-gaming-laptop-or-a-nintendo-switch-2",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/evzKPqaiMTxPY27PwsFCmK-1280-80.png",
+      "pub_date": "Tue, 16 Jun 2026 11:24:29 +0000",
+      "author": " Ben Stockton ",
+      "categories": [
+        "microSD Cards",
+        "PC Components",
+        "Storage"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T12:21:59.113Z",
+      "created_at": "2026-06-16T12:21:59.113Z"
+    },
+    {
+      "id": 11703,
+      "source": "Tom's Hardware",
+      "title_en": "Get an RTX 5090 gaming laptop for less than $3,000 — Acer's 16-inch Predator with 2TB of storage and 32GB of RAM is now $500 off",
+      "description_en": "Save $500 on a super-powerful 16-inch gaming laptop with RTX 5090 graphics and a 240Hz OLED screen. Acer's Predator Helios AI falls to just $2,999.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/get-an-rtx-5090-gaming-laptop-for-less-than-usd3-000-acers-16-inch-predator-with-2tb-of-storage-and-32gb-of-ram-is-now-usd500-off",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/9sP6epcCB6thiY9bXTbo3f-1280-80.jpg",
+      "pub_date": "Tue, 16 Jun 2026 11:24:20 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "Gaming Laptops",
+        "Laptops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T12:21:59.113Z",
+      "created_at": "2026-06-16T12:21:59.113Z"
+    },
+    {
+      "id": 11704,
+      "source": "Tom's Hardware",
+      "title_en": "These are the four keyboards I'm still using after reviewing keyboards for years — How a 500 Hz TKL and a Stream Deck layout dominated my desk",
+      "description_en": "It's hard to find a keyboard that's satisfying for both writing and gaming and I'm not sure the perfect board even exists. But while I wait to find it, these are the keyboards I keep coming back to, for one reason or another.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/these-are-the-four-keyboards-im-still-using-after-reviewing-keyboards-for-years-how-a-500-hz-tkl-and-a-stream-deck-layout-dominated-my-desk",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/tTqrmyeLxaiy376UEyEY2P-1280-80.jpg",
+      "pub_date": "Tue, 16 Jun 2026 11:10:00 +0000",
+      "author": " Sarah Jacobsson Purewal ",
+      "categories": [
+        "Gaming Keyboards",
+        "Peripherals",
+        "Keyboards"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T12:21:59.113Z",
+      "created_at": "2026-06-16T12:21:59.113Z"
+    },
+    {
+      "id": 11705,
+      "source": "Tom's Hardware",
+      "title_en": "AMD’s massive SP7 socket for EPYC Venice and Intel’s gargantuan 9,324-pin socket for Diamond Rapids appear at Computex — SP7 and LGA9324-1 sockets will power the next generation of AI servers",
+      "description_en": "Next-generation data center processors from AMD and Intel with 16 DDR5 memory channels are even bigger than today’s designs.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/amds-massive-sp7-socket-for-epyc-venice-and-intels-gargantuan-9-324-pin-socket-for-diamond-rapids-appear-at-computex-sp7-and-lga9324-1-sockets-will-power-the-next-generation-of-ai-servers",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/v3UbQnpH5iP9UiLFEt976W-1280-80.jpg",
+      "pub_date": "Tue, 16 Jun 2026 11:06:33 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T12:21:59.113Z",
+      "created_at": "2026-06-16T12:21:59.113Z"
+    },
+    {
+      "id": 11706,
+      "source": "Tom's Hardware",
+      "title_en": "Finland charges Russian captain and crew member of ship suspected of damaging undersea cables — prosecutors claim ship had eight more targets before it was stopped by coast guard",
+      "description_en": "Finnish prosecutors charged two crew members of a cargo ship suspected of deliberately damaging two undersea cables at the turn of the year, with two more remaining detained in Finland. This is the second investigation to result in charges, although the first case failed to secure a conviction, with the case still on appeal.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/networking/finland-charges-russian-captain-and-crew-member-of-ship-suspected-of-damaging-undersea-cables-prosecutors-claim-ship-had-eight-more-targets-before-it-was-stopped-by-coast-guard",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/gXYgrDE4VFRTqmGk7Cz3r6-1280-80.png",
+      "pub_date": "Tue, 16 Jun 2026 11:04:28 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Networking"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T12:21:59.113Z",
+      "created_at": "2026-06-16T12:21:59.113Z"
+    },
+    {
+      "id": 11707,
+      "source": "Tom's Hardware",
+      "title_en": "TSMC says panel packaging won't replace CoWoS anytime soon for the largest future AI processors — wafer-level tech can scale to 58 massive dies in one package",
+      "description_en": "TSMC is exploring panel-level packaging and is working on its CoPoS technology, but the company's Kevin Zhang says wafer-level packaging technologies is considerably more advanced than panel-level packaging.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-says-panel-packaging-wont-replace-cowos-anytime-soon-for-the-largest-future-ai-processors-wafer-level-tech-can-scale-to-58-massive-dies-in-one-package",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/LJL9WwiYqqCNroPwUYNwNA-1280-80.jpg",
+      "pub_date": "Tue, 16 Jun 2026 11:00:00 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T12:21:59.114Z",
+      "created_at": "2026-06-16T12:21:59.114Z"
+    },
+    {
+      "id": 11708,
+      "source": "Tom's Hardware",
+      "title_en": "Intel's long-lost data center prototype 'Arctic Sound' Xe-HP multi-tile GPU surfaces in new engineering sample — Company's cancelled AI processor features 32GB of HBM2E",
+      "description_en": "Intel's cancelled \"Arctic Sound\" AI GPU based on the original Xe-HP architecture has been pictured sporting two tiles and 32GB of HBM2E.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/intels-cancelled-arctic-sound-xe-hp-multi-tile-gpu-surfaces-in-new-engineering-sample-companys-long-lost-data-center-prototype-features-32gb-of-hbm2e",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/uCLnFQBbnt3kUvQ6L6rAxf-1280-80.jpg",
+      "pub_date": "Tue, 16 Jun 2026 10:30:00 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T12:21:59.114Z",
+      "created_at": "2026-06-16T12:21:59.114Z"
+    },
+    {
+      "id": 11709,
+      "source": "Tom's Hardware",
+      "title_en": "Project Jupiter AI data center build raises concerns about water usage in rural New Mexico desert — Oracle calls water usage 'negligible' for 11 million gallon one-time fill",
+      "description_en": "Oracle's Project Jupiter is targeting a New Mexico desert already struggling with water consumption, but the company assures residents that the data center's water usage is \"negligible.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/project-jupiter-ai-data-center-build-raises-concerns-about-water-usage-in-rural-new-mexico-desert-oracle-calls-water-usage-negligible-for-11-million-gallon-one-time-fill",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Quvj7AHZJZm6vA3FWa5DKZ-1280-80.jpg",
+      "pub_date": "Tue, 16 Jun 2026 10:00:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Big Tech",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-16T12:21:59.114Z",
+      "created_at": "2026-06-16T12:21:59.114Z"
+    },
+    {
+      "id": 11710,
+      "source": "Product Hunt",
+      "title_en": "Container Desktop",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/container-desktop-gui-apple-container",
+      "image_url": null,
+      "pub_date": "2026-06-12T07:48:45.000Z",
+      "author": "Sebastian",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-16T12:21:59.338Z",
+      "created_at": "2026-06-16T12:21:59.338Z"
+    },
+    {
+      "id": 11711,
+      "source": "Hi, AI English (TG)",
+      "title_en": "💡 Five Books From the 20th Century That Saw AI ComingLong before any of us typed a prompt into ChatGPT, novelists had already sketched the logic AI runs on today. Here are five books in which the fut",
+      "description_en": "💡 Five Books From the 20th Century That Saw AI ComingLong before any of us typed a prompt into ChatGPT, novelists had already sketched the logic AI runs on today. Here are five books in which the future showed up early.1️⃣ Isaac Asimov, \"I, Robot\" (1950)Decades before LLMs, Asimov was already wrestling with alignment—how to tether a machine's values to ours. His Three Laws of Robotics were the first \"system prompt\": a hard-coded rulebook meant to keep AI in line.2️⃣ Philip K. Dick, \"Do Androids",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2581",
+      "image_url": "https://cdn4.telesco.pe/file/OSfienfoc8NpICZMG_3XH4xTJTlc_eSv6NE9i7nFP5ubrdonAqhSLUihrvMRFrqFE9_YoNFWQA9j84WKa-Bhx0uGPL5a3jO19ChB0uresWvozHV7OaBaGU3VsZ4fKJquaky3Qa7ALn41ISUmTiFQhExN93xedrP3UVOaUUncfgFRhwDsAX4X3ijBygX3DAV33jrwb58d76wQO5FNiKwpd55rytnJpVmE_5WMWEJ8dPhbi2JT4GBcOMsG2JAFYzQveOEa4JmyFVAuiRB7tjkOvttnaobUfIrDk4YGUCh_Hyceo-dqP6D3EYHGkW_jExkWYBNW3r62OWv6XQBiDMGndQ.jpg",
+      "pub_date": "2026-06-16T11:24:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T12:22:00.743Z",
+      "created_at": "2026-06-16T12:22:00.743Z"
+    },
+    {
+      "id": 11712,
+      "source": "AI Post (TG)",
+      "title_en": "⚠️Your Claude account may soon need a passport and a selfie to log in.Starting July 8, Anthropic will begin “selectively” requiring users to verify their age and identity with a government-issued pass",
+      "description_en": "⚠️Your Claude account may soon need a passport and a selfie to log in.Starting July 8, Anthropic will begin “selectively” requiring users to verify their age and identity with a government-issued passport and a selfie before accessing Claude.The company says the move is designed to keep its services “safe and secure” and to meet evolving regulatory requirements.The new verification rules will apply to Free, Pro, and Max subscribers. Business plans and API users will not be affected.For now, Anth",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7252",
+      "image_url": "https://cdn4.telesco.pe/file/OzTvxzld8X8plqfQMewQZ1lVGMCeOvsS5hZgJmaWeKOZ0b5sRMC4S1HP1YTX2q4VkhFdQKb3R0zUrZRn5l40jYYXYTcirIfTPr5PKBPSuA93Dq640LErmRZKjU1O2rVjwZDNGLsNTDGmjt5fchZIMYeRDQnF_uTfVXUZghEK9klEJIBe0D610eQ7zDVo5WjjExI4Sq9hjooqjh9ajICnDjcQ7UVn79JgBAm2wnNF3UM905psWZPsv7QUyByBX8_NqnXrnYlJc2Zpi_IkzP4X6uezji0zEib444iHdQs79nrVXAYDEzy8jHZW6e1si8sKvd8Uzf8KF19LcVd5c_Opug.jpg",
+      "pub_date": "2026-06-16T11:41:16+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-16T12:22:01.317Z",
+      "created_at": "2026-06-16T12:22:01.317Z"
     }
   ]
 }
