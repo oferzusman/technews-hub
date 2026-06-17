@@ -247938,6 +247938,47 @@
       "priority": "hot",
       "fetchedAt": "2026-06-16T23:59:08.267Z",
       "created_at": "2026-06-16T23:59:08.267Z"
+    },
+    {
+      "id": 11793,
+      "source": "MarkTechPost",
+      "title_en": "How to Build Memory-Efficient Transformers with xFormers Using Packed Sequences, GQA, ALiBi, SwiGLU, and Causal Attention",
+      "description_en": "We implement xFormers, a practical toolkit for fast, memory-efficient Transformer models on GPUs. We validate memory-efficient attention against a standard implementation, then compare speed and memory across sequence lengths. We work through causal masking, packed variable-length sequences, grouped-query attention, and custom ALiBi biases. Finally, we combine these into a trainable GPT-style model with SwiGLU layers and automatic mixed-precision training.\nThe post How to Build Memory-Efficient ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/16/how-to-build-memory-efficient-transformers-with-xformers-using-packed-sequences-gqa-alibi-swiglu-and-causal-attention/",
+      "image_url": null,
+      "pub_date": "Wed, 17 Jun 2026 00:02:25 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Deep Learning",
+        "Editors Pick",
+        "Machine Learning",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-17T01:39:57.265Z",
+      "created_at": "2026-06-17T01:39:57.265Z"
+    },
+    {
+      "id": 11794,
+      "source": "New Atlas",
+      "title_en": "Toxic weed killer's Parkinson's link may not be what it seems",
+      "description_en": "Ian Musgrave, Adelaide University/ The Conversation\nContinue Reading\nCategory: Mental Health, Brain Health, Body and Mind\nTags: Parkinson's Disease, Pollution, Brain, Poisons, toxic",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/mental-health/toxic-weed-killer-link-parkinsons-evidence/",
+      "image_url": null,
+      "pub_date": "Wed, 17 Jun 2026 01:07:45 GMT",
+      "author": "The Conversation",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-17T01:39:57.359Z",
+      "created_at": "2026-06-17T01:39:57.359Z"
     }
   ]
 }
