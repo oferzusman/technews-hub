@@ -1,9 +1,9 @@
 {
-  "total": 11821,
-  "translated": 11819,
+  "total": 11835,
+  "translated": 11833,
   "untranslated": 2,
-  "today": 29,
-  "week": 651,
+  "today": 43,
+  "week": 665,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 972,
-      "translated": 972,
+      "total": 976,
+      "translated": 976,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 515,
-      "translated": 515,
+      "total": 516,
+      "translated": 516,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -61,15 +61,15 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 418,
-      "translated": 418,
+      "total": 420,
+      "translated": 420,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 414,
-      "translated": 413,
-      "lastDate": "2026-06-17T09:01:01+00:00"
+      "total": 415,
+      "translated": 414,
+      "lastDate": "2026-06-17T10:53:52+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -85,15 +85,15 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 316,
-      "translated": 316,
+      "total": 317,
+      "translated": 317,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 304,
-      "translated": 303,
-      "lastDate": "2026-06-17T08:10:45+00:00"
+      "total": 306,
+      "translated": 305,
+      "lastDate": "2026-06-17T10:55:56+00:00"
     },
     {
       "name": "Futurism",
@@ -121,8 +121,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 158,
-      "translated": 158,
+      "total": 159,
+      "translated": 159,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -133,21 +133,21 @@
     },
     {
       "name": "AI News",
-      "total": 120,
-      "translated": 120,
+      "total": 121,
+      "translated": 121,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
+    },
+    {
+      "name": "Wylsacom Red (TG)",
+      "total": 105,
+      "translated": 105,
+      "lastDate": "2026-06-17T10:30:17+00:00"
     },
     {
       "name": "Onefootball.com",
       "total": 104,
       "translated": 104,
       "lastDate": "2026-04-09T07:08:00Z"
-    },
-    {
-      "name": "Wylsacom Red (TG)",
-      "total": 104,
-      "translated": 104,
-      "lastDate": "2026-06-17T06:51:01+00:00"
     },
     {
       "name": "Hi, AI English (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-17T09:59:43.436Z"
+  "generatedAt": "2026-06-17T11:28:47.419Z"
 }
