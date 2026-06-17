@@ -249391,6 +249391,276 @@
       "priority": "hot",
       "fetchedAt": "2026-06-17T14:33:34.769Z",
       "created_at": "2026-06-17T14:33:34.769Z"
+    },
+    {
+      "id": 11864,
+      "source": "TechCrunch AI",
+      "title_en": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
+      "description_en": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
+      "image_url": null,
+      "pub_date": "Wed, 17 Jun 2026 15:24:41 +0000",
+      "author": "Amanda Silberling",
+      "categories": [
+        "AI",
+        "Hardware",
+        "austin murray",
+        "iPod",
+        "joy howard",
+        "screen time",
+        "slowtech",
+        "social media",
+        "Tony Fadell"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-17T16:11:58.959Z",
+      "created_at": "2026-06-17T16:11:58.959Z"
+    },
+    {
+      "id": 11865,
+      "source": "TechCrunch AI",
+      "title_en": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+      "description_en": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+      "image_url": null,
+      "pub_date": "Wed, 17 Jun 2026 15:00:00 +0000",
+      "author": "Tim Fernholz",
+      "categories": [
+        "AI",
+        "Startups",
+        "a16z",
+        "robots",
+        "Thrive Capital"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-17T16:11:58.960Z",
+      "created_at": "2026-06-17T16:11:58.960Z"
+    },
+    {
+      "id": 11866,
+      "source": "The Decoder",
+      "title_en": "Nvidia research shows robots that train themselves through AI coding agents",
+      "description_en": "Researchers from Nvidia, Carnegie Mellon University, and UC Berkeley are using AI coding agents to teach robots dexterous grasping in the real world. A fleet of eight robots hits up to 99 percent success on tricky tasks.\nThe article Nvidia research shows robots that train themselves through AI coding agents appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/nvidia-research-shows-robots-that-train-themselves-through-ai-coding-agents/",
+      "image_url": "http://the-decoder.de/wp-content/uploads/2026/06/Nvidia-ENPIRE-pusht-fleet.mp4",
+      "pub_date": "Wed, 17 Jun 2026 14:55:28 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Nvidia",
+        "Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-17T16:12:00.476Z",
+      "created_at": "2026-06-17T16:12:00.476Z"
+    },
+    {
+      "id": 11867,
+      "source": "Hugging Face Blog",
+      "title_en": "MolmoMotion: Language-guided 3D motion forecasting",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/allenai/molmomotion",
+      "image_url": null,
+      "pub_date": "Wed, 17 Jun 2026 15:26:44 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-17T16:12:00.707Z",
+      "created_at": "2026-06-17T16:12:00.707Z"
+    },
+    {
+      "id": 11868,
+      "source": "Hugging Face Blog",
+      "title_en": "Agentic Resource Discovery: Let agents search",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+      "image_url": null,
+      "pub_date": "Wed, 17 Jun 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-17T16:12:00.707Z",
+      "created_at": "2026-06-17T16:12:00.707Z"
+    },
+    {
+      "id": 11869,
+      "source": "Google AI Blog",
+      "title_en": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "description_en": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp",
+      "pub_date": "Wed, 17 Jun 2026 15:00:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Mike Schaekermann"
+        ],
+        "title": [
+          "Research Lead"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Google Research",
+        "Google DeepMind",
+        "Health",
+        "AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-17T16:12:00.843Z",
+      "created_at": "2026-06-17T16:12:00.843Z"
+    },
+    {
+      "id": 11870,
+      "source": "Interesting Engineering",
+      "title_en": "China’s Alibaba unveils AI brains designed to power the next generation of robots",
+      "description_en": "Chinese firm Alibaba has launched its first embodied AI model family, which links large language...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/china-alibaba-next-generation-of-robots",
+      "image_url": null,
+      "pub_date": "Wed, 17 Jun 2026 15:39:34 +0000",
+      "author": "Jijo Malayil",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-17T16:12:02.133Z",
+      "created_at": "2026-06-17T16:12:02.133Z"
+    },
+    {
+      "id": 11871,
+      "source": "Interesting Engineering",
+      "title_en": "German firm’s air defense system that delivers enormous firepower, precision set to be showcased",
+      "description_en": "A German company’s advanced mobile air defense system is soon to showcase its battlefield power....",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/rheinmetall-skyranger-air-defense-system",
+      "image_url": null,
+      "pub_date": "Wed, 17 Jun 2026 15:18:51 +0000",
+      "author": "Prabhat Ranjan Mishra",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-17T16:12:02.133Z",
+      "created_at": "2026-06-17T16:12:02.133Z"
+    },
+    {
+      "id": 11872,
+      "source": "CNBC Tech",
+      "title_en": "Amazon AI exec predicts first 'commercially useful' quantum computers in 5-7 years",
+      "description_en": "Quantum computing is becoming an increasingly competitive field with tech giants like Microsoft, Google and IBM developing the technology.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/17/amazon-quantum-computing-timeline.html",
+      "image_url": null,
+      "pub_date": "Wed, 17 Jun 2026 15:40:55 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-17T16:12:03.224Z",
+      "created_at": "2026-06-17T16:12:03.224Z"
+    },
+    {
+      "id": 11873,
+      "source": "CNBC Tech",
+      "title_en": "Allbirds continues AI pivot with name change and CEO hire, sending stock soaring",
+      "description_en": "Allbirds became NewBird AI in April and said it would trade shoes for AI compute infrastructure.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/17/allbirds-bird-ai-smartbird-ceo.html",
+      "image_url": null,
+      "pub_date": "Wed, 17 Jun 2026 15:44:24 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-17T16:12:03.224Z",
+      "created_at": "2026-06-17T16:12:03.224Z"
+    },
+    {
+      "id": 11874,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia releases RTX Remix 1.5 with new RTX IO compression reducing mod file sizes by up to 37% — update also adds Smooth Normals and 'RTX Remix Skills' Agents",
+      "description_en": "Nvidia has updated RTX Remix with a bunch of new features that will help improve the fidelity and reduce the file size of modded games, along with the complexity of developing said mods.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-releases-rtx-remix-1-5-with-new-rtx-io-compression-reducing-mod-file-sizes-by-up-to-37-percent-update-also-adds-smooth-normals-and-rtx-remix-skills-agents",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/57izzudHmPCeVeQsr2gnFb-1280-80.jpg",
+      "pub_date": "Wed, 17 Jun 2026 15:33:55 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-17T16:12:03.255Z",
+      "created_at": "2026-06-17T16:12:03.255Z"
+    },
+    {
+      "id": 11875,
+      "source": "Backdoor (TG)",
+      "title_en": "Разбираемся в любом коде за секунды — нашли инструмент Understand Anything на GitHub. Он превратит чужой проект в понятную интерактивную карту:• Увидите все зависимости в программе.• Сможете задать во",
+      "description_en": "Разбираемся в любом коде за секунды — нашли инструмент Understand Anything на GitHub. Он превратит чужой проект в понятную интерактивную карту:• Увидите все зависимости в программе.• Сможете задать вопросы обычным человеческим языком, и сервис ответит.• Перед изменениями проверите, как отреагировать прога, и что может сломаться.• Работает с Claude Code, Cursor и VS Code. Сможете разобраться с любым легаси-кодом и сразу втянуться в работу.😶😶😶😶😶😶😶😶😶Юзаем сервис — тут.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29268",
+      "image_url": "https://cdn4.telesco.pe/file/dt0cx4hv7C-75paDK7sAultGPs3CAlYJJPAHCy3h10NiYZYrc2w_pbTe6WJLu0gu798uXHrWm89Ej5fFxZVZtvviFccfx7JzQBp0XL2xAGTIAh4u4HV90OSYghJbDnCHSQ6Cu1wAmeNFij-GqEJUtV-1P6zZPtkGR5NbVSNljZsYi0vYnU7VeR0kO4kBCpPnuyNFsklmyoeDHFb9qXrrpAxYd2mY1jWmOE9yaQuldvHf2Qv3bkWizDM6HtN-6qvyh5EViZlQ8YQCCS_Azr_nZBrNMQCp4KklXcEJxMtni-Hq7m-ww2I7onFIGoPMgwDLnGLBKXP_9m3BV5Uns_9UkQ.jpg",
+      "pub_date": "2026-06-17T14:41:06+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-17T16:12:04.262Z",
+      "created_at": "2026-06-17T16:12:04.262Z"
+    },
+    {
+      "id": 11876,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "ChatGPT уже не хайп. И это очень страшно  Несмотря на то, что ChatGPT всё ещё самый популярный чат-бот, его доля на рынке впервые снизилась до 46,4 %. Такому низкому результату компания обязана возрос",
+      "description_en": "ChatGPT уже не хайп. И это очень страшно  Несмотря на то, что ChatGPT всё ещё самый популярный чат-бот, его доля на рынке впервые снизилась до 46,4 %. Такому низкому результату компания обязана возросшей популярностью конкурентов в лице Gemini (27,7 %) и Claude (10,3 %).Конкуренты из Anthropic хоть и находятся на третьем месте, но растут сейчас быстрее всего. Количество пользователей чат-бота Claude увеличилось в годовом исчислении на 640 против 62 % у ChatGPT. Более того, пользователи охотно по",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33808",
+      "image_url": "https://cdn4.telesco.pe/file/MbgJbNHBkqPOZWPoDdt1pu_Whdanrf_-jFgWrG0TrBBAlU4ICOIRZyjld5w7h8uozjwU41jD3ePVLy8swdXLHqTmzQ6pw4ffaRHO8zccCQarZp_Q9h7s-WHk_dMdUcDgW_QoRfrDlt7Fw2ghoxPwaGC2Jf3FCpDxLeBpFJxcFxpWr-OXkJZp3ciwr_LQYrRVOi_OMyx2_Fxbs5yZ7DnLQlAPUS4gAq50jNA41uX7dmI3nn9dIRynvq0dzg_9Ee-m6Y4z62wMB6mq1ZlWTXv1vIH1gj8HnOfx5ybGbc2UDfa0oIs6x32xiDMXL4ew7qwSFI4uloUxmLu0gHqi8h-ymQ.jpg",
+      "pub_date": "2026-06-17T15:30:12+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-17T16:12:04.303Z",
+      "created_at": "2026-06-17T16:12:04.303Z"
     }
   ]
 }
