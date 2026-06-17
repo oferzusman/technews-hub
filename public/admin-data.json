@@ -1,7 +1,7 @@
 {
   "total": 11876,
-  "translated": 11861,
-  "untranslated": 15,
+  "translated": 11874,
+  "untranslated": 2,
   "today": 84,
   "week": 706,
   "sources": [
@@ -14,25 +14,25 @@
     {
       "name": "Tom's Hardware",
       "total": 983,
-      "translated": 982,
+      "translated": 983,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
       "total": 924,
-      "translated": 922,
+      "translated": 924,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
       "total": 693,
-      "translated": 691,
+      "translated": 693,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
       "total": 622,
-      "translated": 620,
+      "translated": 622,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -44,7 +44,7 @@
     {
       "name": "The Decoder",
       "total": 518,
-      "translated": 517,
+      "translated": 518,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -116,13 +116,13 @@
     {
       "name": "Backdoor (TG)",
       "total": 167,
-      "translated": 166,
+      "translated": 167,
       "lastDate": "2026-06-17T14:41:06+00:00"
     },
     {
       "name": "Hugging Face Blog",
       "total": 161,
-      "translated": 159,
+      "translated": 161,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -140,7 +140,7 @@
     {
       "name": "Wylsacom Red (TG)",
       "total": 106,
-      "translated": 105,
+      "translated": 106,
       "lastDate": "2026-06-17T15:30:12+00:00"
     },
     {
@@ -176,7 +176,7 @@
     {
       "name": "Google AI Blog",
       "total": 60,
-      "translated": 59,
+      "translated": 60,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-17T16:13:55.924Z"
+  "generatedAt": "2026-06-17T16:14:19.942Z"
 }
