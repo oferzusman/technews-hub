@@ -1,15 +1,15 @@
 {
-  "total": 11800,
-  "translated": 11798,
+  "total": 11804,
+  "translated": 11802,
   "untranslated": 2,
-  "today": 8,
-  "week": 630,
+  "today": 12,
+  "week": 634,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 1047,
-      "translated": 1047,
-      "lastDate": "2026-06-15T18:49:36.000Z"
+      "total": 1048,
+      "translated": 1048,
+      "lastDate": "2026-06-16T07:04:43.000Z"
     },
     {
       "name": "Tom's Hardware",
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 687,
-      "translated": 687,
+      "total": 688,
+      "translated": 688,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -145,9 +145,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 103,
-      "translated": 103,
-      "lastDate": "2026-06-16T17:30:20+00:00"
+      "total": 104,
+      "translated": 104,
+      "lastDate": "2026-06-17T06:51:01+00:00"
     },
     {
       "name": "Hi, AI English (TG)",
@@ -163,9 +163,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 78,
-      "translated": 78,
-      "lastDate": "2026-06-16T09:33:32+00:00"
+      "total": 79,
+      "translated": 79,
+      "lastDate": "2026-06-17T07:05:08+00:00"
     },
     {
       "name": "GlobeNewswire",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-17T07:22:19.056Z"
+  "generatedAt": "2026-06-17T07:34:33.105Z"
 }
