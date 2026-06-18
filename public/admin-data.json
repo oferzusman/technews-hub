@@ -1,9 +1,9 @@
 {
-  "total": 12010,
-  "translated": 12008,
+  "total": 12018,
+  "translated": 12016,
   "untranslated": 2,
-  "today": 95,
-  "week": 715,
+  "today": 103,
+  "week": 723,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,20 +19,20 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 929,
-      "translated": 929,
+      "total": 931,
+      "translated": 931,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 701,
-      "translated": 701,
+      "total": 702,
+      "translated": 702,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 641,
-      "translated": 641,
+      "total": 642,
+      "translated": 642,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 519,
-      "translated": 519,
+      "total": 520,
+      "translated": 520,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -61,9 +61,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 425,
-      "translated": 424,
-      "lastDate": "2026-06-18T17:32:56+00:00"
+      "total": 426,
+      "translated": 425,
+      "lastDate": "2026-06-18T20:18:01+00:00"
     },
     {
       "name": "The Guardian AI",
@@ -91,9 +91,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 312,
-      "translated": 311,
-      "lastDate": "2026-06-18T14:59:40+00:00"
+      "total": 313,
+      "translated": 312,
+      "lastDate": "2026-06-18T21:02:03+00:00"
     },
     {
       "name": "Futurism",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 82,
-      "translated": 82,
-      "lastDate": "2026-06-18T17:01:05+00:00"
+      "total": 83,
+      "translated": 83,
+      "lastDate": "2026-06-18T21:00:53+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-18T19:30:05.761Z"
+  "generatedAt": "2026-06-18T21:12:08.183Z"
 }
