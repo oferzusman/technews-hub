@@ -1,9 +1,9 @@
 {
-  "total": 12001,
-  "translated": 11999,
+  "total": 12009,
+  "translated": 12007,
   "untranslated": 2,
-  "today": 86,
-  "week": 706,
+  "today": 94,
+  "week": 714,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 928,
-      "translated": 928,
+      "total": 929,
+      "translated": 929,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -31,20 +31,20 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 640,
-      "translated": 640,
+      "total": 641,
+      "translated": 641,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "Ars Technica",
-      "total": 539,
-      "translated": 539,
+      "total": 540,
+      "translated": 540,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
       "name": "The Decoder",
-      "total": 527,
-      "translated": 527,
+      "total": 529,
+      "translated": 529,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -73,8 +73,8 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 384,
-      "translated": 384,
+      "total": 385,
+      "translated": 385,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -115,9 +115,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 173,
-      "translated": 173,
-      "lastDate": "2026-06-18T17:26:51+00:00"
+      "total": 174,
+      "translated": 174,
+      "lastDate": "2026-06-18T18:38:49+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -139,9 +139,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 108,
-      "translated": 108,
-      "lastDate": "2026-06-18T14:45:14+00:00"
+      "total": 109,
+      "translated": 109,
+      "lastDate": "2026-06-18T19:12:10+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-18T19:16:43.021Z"
+  "generatedAt": "2026-06-18T19:17:36.618Z"
 }
