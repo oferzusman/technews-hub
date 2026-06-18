@@ -251058,8 +251058,8 @@
       "source": "MarkTechPost",
       "title_en": "The KV Cache Compression Race: TurboQuant vs OSCAR vs EpiCache",
       "description_en": "The KV cache now outweighs model weights at long context. Here's how TurboQuant, OSCAR, and EpiCache each attack that memory bottleneck — and why they're more complementary than competitive.\nThe post The KV Cache Compression Race: TurboQuant vs OSCAR vs EpiCache appeared first on MarkTechPost.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מירוץ דחיסת KV Cache: TurboQuant מול OSCAR מול EpiCache",
+      "description_he": "ה-KV cache הפך לבעיה גדולה יותר מעצם המודל בהקשרים ארוכים, והחברות מתחרות על הפתרון הכי יעיל. TurboQuant, OSCAR ו-EpiCache מציעים כל אחת גישה שונה לדחיסת זיכרון, אבל במקום להיות בתחרות ישירות - הן כמו חלקים בפאזל שיכולים לעבוד ביחד. במאמר הזה נבדוק איך כל טכנולוגיה עובדת ואיזו היא הטובה ביותר לכל מקרה שימוש.",
       "link": "https://www.marktechpost.com/2026/06/18/the-kv-cache-compression-race-turboquant-vs-oscar-vs-epicache/",
       "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/06/image-3.jpeg",
       "pub_date": "Thu, 18 Jun 2026 09:14:31 +0000",
@@ -251074,7 +251074,7 @@
         "Staff",
         "Technology"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-18T09:53:47.429Z",
       "created_at": "2026-06-18T09:53:47.429Z"
@@ -251084,8 +251084,8 @@
       "source": "AI News",
       "title_en": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.",
       "description_en": "Microsoft has quietly become the main supplier of OpenAI models in China, selling the technology to the country’s largest internet companies even as OpenAI and Anthropic keep their own models out of the market on intellectual-property and misuse grounds. The arrangement, detailed this week by Bloomberg, hands Microsoft a position no other American AI vendor holds: […]\nThe post Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t. appeared first on AI News.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מיקרוסופט מוכרת מודלים של OpenAI בסין. OpenAI ו-Anthropic לא.",
+      "description_he": "מיקרוסופט הפכה בשקט לספקית הראשית של מודלים של OpenAI בסין, ומוכרת את הטכנולוגיה לחברות האינטרנט הגדולות של המדינה, בזמן ש-OpenAI ו-Anthropic שומרות על המודלים שלהן הרחק מהשוק בגלל חששות של קניין ידע והשימוש לרעה. הסדר הזה נותן למיקרוסופט עמדה ייחודית שאף ספק אמריקאי אחר של AI לא יכול להשיג - זו תנועה חכמה שמאפשרת לה לנצל את היתרון התחרותי בשוק הסיני העצום. [מקור: AI News]",
       "link": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/",
       "image_url": null,
       "pub_date": "Thu, 18 Jun 2026 09:00:00 +0000",
@@ -251106,7 +251106,7 @@
         "openai",
         "US-China tech tensions"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-18T09:53:48.145Z",
       "created_at": "2026-06-18T09:53:48.145Z"
