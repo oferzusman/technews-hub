@@ -252738,6 +252738,52 @@
       "priority": "hot",
       "fetchedAt": "2026-06-18T23:11:54.258Z",
       "created_at": "2026-06-18T23:11:54.258Z"
+    },
+    {
+      "id": 12027,
+      "source": "Ars Technica",
+      "title_en": "As China looms, Taiwan makes more drones for defense and the US military",
+      "description_en": "Taiwan's drone spending plans for defense could also boost business overseas.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Taiwan-military-drones-1152x648.jpg",
+      "pub_date": "Thu, 18 Jun 2026 21:21:26 +0000",
+      "author": "\n                    Jeremy Hsu\n                ",
+      "categories": [
+        "AI",
+        "AI drones",
+        "china",
+        "commercial drones",
+        "drones",
+        "military drones",
+        "Taiwan",
+        "US Military"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-18T23:45:25.983Z",
+      "created_at": "2026-06-18T23:45:25.983Z"
+    },
+    {
+      "id": 12028,
+      "source": "Interesting Engineering",
+      "title_en": "Sanders bills AI companies for $7T public fund, aims $1,000 payments for US citizens",
+      "description_en": "Sen. Bernie Sanders has unveiled a proposal that would give Americans a direct financial stake...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/bernie-sanders-ai-sovereign-wealth-fund-bill",
+      "image_url": null,
+      "pub_date": "Thu, 18 Jun 2026 23:25:54 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "AI and Robotics",
+        "Culture"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-18T23:45:28.359Z",
+      "created_at": "2026-06-18T23:45:28.359Z"
     }
   ]
 }
