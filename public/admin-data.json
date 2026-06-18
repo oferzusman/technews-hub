@@ -1,9 +1,9 @@
 {
-  "total": 11947,
-  "translated": 11945,
+  "total": 11951,
+  "translated": 11949,
   "untranslated": 2,
-  "today": 32,
-  "week": 652,
+  "today": 36,
+  "week": 656,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 986,
-      "translated": 986,
+      "total": 988,
+      "translated": 988,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 422,
-      "translated": 422,
+      "total": 423,
+      "translated": 423,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -91,9 +91,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 310,
-      "translated": 309,
-      "lastDate": "2026-06-18T06:31:20+00:00"
+      "total": 311,
+      "translated": 310,
+      "lastDate": "2026-06-18T10:40:04+00:00"
     },
     {
       "name": "Futurism",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-18T09:55:56.929Z"
+  "generatedAt": "2026-06-18T10:53:48.060Z"
 }
