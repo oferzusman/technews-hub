@@ -252685,6 +252685,59 @@
       "priority": "hot",
       "fetchedAt": "2026-06-18T21:34:34.079Z",
       "created_at": "2026-06-18T21:34:34.079Z"
+    },
+    {
+      "id": 12024,
+      "source": "Interesting Engineering",
+      "title_en": "New Atlas aircraft targets long-range strikes without runways or large flight decks",
+      "description_en": "Mach Industries has won a Defense Innovation Unit (DIU) contract to develop a long-range unmanned...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/mach-industries-atlas-rimes-contract",
+      "image_url": null,
+      "pub_date": "Thu, 18 Jun 2026 22:49:47 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-18T23:11:49.157Z",
+      "created_at": "2026-06-18T23:11:49.157Z"
+    },
+    {
+      "id": 12025,
+      "source": "CNBC Tech",
+      "title_en": "Jim Cramer says next week's economic data will drive the markets",
+      "description_en": "CNBC’s Jim Cramer said next week’s lighter earnings calendar will put the focus on key economic data.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/18/jim-cramer-economic-data-drive-markets.html",
+      "image_url": null,
+      "pub_date": "Thu, 18 Jun 2026 22:56:49 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-18T23:11:49.838Z",
+      "created_at": "2026-06-18T23:11:49.838Z"
+    },
+    {
+      "id": 12026,
+      "source": "AI Post (TG)",
+      "title_en": "❗️Token costs are the number one complaint in AI coding right now. Most of the damage comes from a few default habits that are easy to fix. These 7 made the biggest difference in Claude Code:1. Clear ",
+      "description_en": "❗️Token costs are the number one complaint in AI coding right now. Most of the damage comes from a few default habits that are easy to fix. These 7 made the biggest difference in Claude Code:1. Clear context between tasks. Type / clear when you switch tasks. Every new message re-sends your full conversation history as input tokens. That debugging session from an hour ago is still inflating every prompt you send. A fresh start costs nothing. Carrying stale context costs you on every turn.2. Compa",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7275",
+      "image_url": "https://cdn4.telesco.pe/file/uPrfzf5Zs7KeoBMBPyac7f6uND2esIWx2aKoIwybt1DogwecXTh86Ig4G1kdllVU7fMM7i5ocCXM1NYAePuNhn9cXQuol72zNDbPgzfoabyWPeAsAQzAot195H-LBwdCBCH0HLBDs0Ey6nG9zq7ZTYuhz4CDyz-ez_GUdael9KXQpwZzOmYEQelbEXFvXa7q5KUfIig2W7TeBineWUd_RssTIOtsxTRd_lwxp85W1TZskIAvhQO5Biz5hUmwvNjX851_CMp6vhPO1Y0sa-sa98KQ5nRG7FC8keEbBogIQEpo_ceZRLWwSaKqDRG1PgKsdHopH6rYyGb4siqmJS1Fug.jpg",
+      "pub_date": "2026-06-18T23:04:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-18T23:11:54.258Z",
+      "created_at": "2026-06-18T23:11:54.258Z"
     }
   ]
 }
