@@ -254584,8 +254584,8 @@
       "source": "TechCrunch AI",
       "title_en": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
       "description_en": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "הצפנה, תוכנות מעקב והיום גם Mythos: ההיסטוריה מוכיחה למה הגבלות על ייצוא סייבר לא עובדות",
+      "description_he": "במשך 30 שנה הניסיון לעצור את זרימת תוכנות סייבר לא הביא לתוצאות, והשאלה המתעוררת היא האם גם Mythos - מודל ה-AI של Anthropic לאבטחה סייבר - יסבול מאותה בעיה. גם אם יהיו הגבלות על ייצוא המודל, ההיסטוריה מלמדת שטכנולוגיה כזו כמעט בלתי אפשרי למנוע מלהגיע לידיים שלא צריכות.",
       "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
       "image_url": null,
       "pub_date": "Fri, 19 Jun 2026 22:40:14 +0000",
@@ -254601,7 +254601,7 @@
         "Mythos",
         "Spyware"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-19T22:54:02.149Z",
       "created_at": "2026-06-19T22:54:02.149Z"
@@ -254611,8 +254611,8 @@
       "source": "MarkTechPost",
       "title_en": "NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning",
       "description_en": "SpatialClaw is a training-free agent that writes Python in a persistent kernel, composing perception tools for 3D spatial reasoning\nThe post NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning appeared first on MarkTechPost.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "NVIDIA משיקה SpatialClaw: סוכן שלא דורש אימון שמשתמש בקוד כממשק פעולה לתפיסה מרחבית",
+      "description_he": "נציא חדש מ-NVIDIA שנקרא SpatialClaw יכול להבין ולנמק על עולמות תלת-מימדיים רק בעזרת קוד Python - בלי שצריך לאמן אותו מראש. הטריק הוא שהוא כותב קוד בכרנל קבוע ומרכיב כלים של perception שונים כדי לפתור בעיות spatial reasoning. זה פתרון די חכם שמעשי לאפליקציות רובוטיקה וייטראליזציה של סצנות תלת-מימדיות.",
       "link": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/",
       "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-19-at-3.49.19-PM-1.png",
       "pub_date": "Fri, 19 Jun 2026 22:51:59 +0000",
@@ -254634,7 +254634,7 @@
         "Tech News",
         "Technology"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-19T22:54:03.872Z",
       "created_at": "2026-06-19T22:54:03.872Z"
