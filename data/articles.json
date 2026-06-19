@@ -253957,28 +253957,11 @@
     },
     {
       "id": 12079,
-      "source": "The Verge AI",
-      "title_en": "The film about Sam Altman has been dropped by Amazon MGM",
-      "description_en": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. \nThe film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica Barbaro as OpenAI CTO Mira Murati, Ike Barinholtz as Elon Musk, and Anora's Yura Borisov as OpenAI chief scientist Ilya Sutskever.\nIn a statement to Deadl",
-      "title_he": "אמזון MGM הפילה את הסרט על סם אלטמן",
-      "description_he": "נפל הווילון על הסרט 'Artificial' של הבמאי לוקה גוודנייולו שעלה עתידו להיות בידי אמזון MGM - הסרט שעוקב אחרי חמשת הימים הסוערים של סם אלטמן, המנכ\"ל של OpenAI, כשנזרק מתפקידו והשוב בחזרה ב־2023. אנדרו גארפילד מגלם את אלטמן בתפקיד הראשי, והגם שהצוות כלל כוכבים בינלאומיים כמו מוניקה בברבורו במי שגילמתה את Mira Murati של OpenAI, הפרויקט שהתו בעבודה במשך שנה לא הצליח להישרד.",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-      "image_url": null,
-      "pub_date": "2026-06-19T14:15:29.000Z",
-      "author": "Hayden Field",
-      "categories": [],
-      "translated": true,
-      "priority": "hot",
-      "fetchedAt": "2026-06-19T14:29:46.191Z",
-      "created_at": "2026-06-19T14:29:46.191Z"
-    },
-    {
-      "id": 12080,
       "source": "TechCrunch AI",
       "title_en": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
       "description_en": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
-      "title_he": "מנכ\"ל Allbirds משיק עסק AI חדש - אבל בלי צוות",
-      "description_he": "הנה לכם startup שעבר לפחות על כללי המשחק: מייסד יחיד עם תקציב ביטחוני ענק, אבל השאלה הגדולה היא - מה בעצם קורה כאן? נראה שיש תוכנית, פחות ברור מה יקרה בשלב הבא.",
+      "title_he": "מנכ\"ל אולברדס הקים עסק AI חדש - יש לו תוכנית, אבל אין לו עובדים",
+      "description_he": "סטארטאפ עם מייסד יחיד וסבב financing ענקי - זה נשמע כמו חלום, אבל השאלה הגדולה היא מה בעצם קורה הלאה. בינתיים, הוא יושב עם הון ניכר בידיים, אבל בלי צוות שיעזור לו לממש את הכל.",
       "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
       "image_url": null,
       "pub_date": "Fri, 19 Jun 2026 13:00:00 +0000",
@@ -253989,16 +253972,16 @@
       ],
       "translated": true,
       "priority": "hot",
-      "fetchedAt": "2026-06-19T14:29:46.225Z",
-      "created_at": "2026-06-19T14:29:46.225Z"
+      "fetchedAt": "2026-06-19T14:30:47.051Z",
+      "created_at": "2026-06-19T14:30:47.051Z"
     },
     {
-      "id": 12081,
+      "id": 12080,
       "source": "The Decoder",
       "title_en": "New benchmark exposes how badly AI struggles with real knowledge work",
       "description_en": "Even the best AI model fails at realistic knowledge work, fully solving just 3 percent of tasks.\nThe article New benchmark exposes how badly AI struggles with real knowledge work appeared first on The Decoder.",
-      "title_he": "בנצ'מארק חדש חושף: AI עדיין רחוק מאוד מלהתמודד עם עבודת ידע אמיתית",
-      "description_he": "נתונים חדשים מציגים תמונה עצובה: אפילו מודלי ה-AI המובילים כשלים בגדול כשמדובר בעבודה מעשית של ידע ורק מצליחים לפתור בהצלחה 3 אחוזים מהמשימות. זה אומר שלמרות כל הזעקות על קיוםעידן ה-AI, כשמדובר בעבודה אמיתית שדורשת הבנה עמוקה וקשר לעולם החיצוני, הרובוטים שלנו עדיין כמו תלמידים בכיתה א' שנשכחו את כל מה שלמדו. מקור: The Decoder",
+      "title_he": "בנצ'מארק חדש חושף: AI עדיין בגיגית כשמדובר בעבודה אמיתית",
+      "description_he": "אפילו מודלי ה-AI הטובים ביותר נופלים בקרב כשמדובר בעבודה אינטלקטואלית ממשית - הם פותרים רק 3 אחוזים מהמשימות בהצלחה. המחקר החדש פוגע בתקוות של כל מי שחשב שה-AI כבר בשנים אור מאיתנו כשמדובר בעבודה מורכבת שדורשת חשיבה עמוקה ויכולת ניתוח.",
       "link": "https://the-decoder.com/new-benchmark-exposes-how-badly-ai-struggles-with-real-knowledge-work/",
       "image_url": null,
       "pub_date": "Fri, 19 Jun 2026 13:50:55 +0000",
@@ -254014,54 +253997,16 @@
       ],
       "translated": true,
       "priority": "hot",
-      "fetchedAt": "2026-06-19T14:29:47.543Z",
-      "created_at": "2026-06-19T14:29:47.543Z"
+      "fetchedAt": "2026-06-19T14:30:48.016Z",
+      "created_at": "2026-06-19T14:30:48.016Z"
     },
     {
-      "id": 12082,
-      "source": "Interesting Engineering",
-      "title_en": "NASA’s new prototype rover completes 16-mile autonomous desert trek",
-      "description_en": "NASA’s Jet Propulsion Laboratory (JPL) has developed a 4-foot-long, four-wheeled prototype designed for high-speed, long-distance...",
-      "title_he": "רובר חדש של נאסא השלים מסע אוטונומי של 16 מיילים במדבר",
-      "description_he": "ה-JPL של נאסא פיתחה רובר חדש בגודל 4 מטרים שהוכיח שהוא יכול לנוע במהירות ובמרחקים ארוכים לגמרי ללא הנחיה אנושית. הרובר הקטן הזה עשוי להיות מעין דור הבא של כלים חוקרים שישוגרו למאדים וירחים אחרים. מדובר בצעד חשוב בדרך לאפשר למעבדות חלל להגיע למקומות שעד עכשיו היו בלתי נגישים. מקור: Interesting Engineering",
-      "link": "https://interestingengineering.com/ai-robotics/nasas-new-prototype-rover-completes-16-mile-autonomous-desert-trek",
-      "image_url": "https://www.youtube.com/embed/d684P5a3xMc",
-      "pub_date": "Fri, 19 Jun 2026 14:29:37 +0000",
-      "author": "Mrigakshi Dixit",
-      "categories": [
-        "AI and Robotics"
-      ],
-      "translated": true,
-      "priority": "hot",
-      "fetchedAt": "2026-06-19T14:29:49.400Z",
-      "created_at": "2026-06-19T14:29:49.400Z"
-    },
-    {
-      "id": 12083,
-      "source": "Interesting Engineering",
-      "title_en": "Video: New robotic system achieves 99.5% success in fast auto factory wire assembly",
-      "description_en": "Canadian robotics company Sanctuary AI has reported a significant achievement in industrial automation. The firm...",
-      "title_he": "וידאו: מערכת רובוטית חדשה משיגה הצלחה של 99.5% בהרכבת חוטים במפעלי ייצור רכב מהירים",
-      "description_he": "חברת הרובוטיקה הקנדית Sanctuary AI הצליחה להשיג תוצאה מרשימה בתחום האוטומציה התעשייתית - המערכת החדשה שלהם מסוגלת להרכיב חוטים במפעלי ייצור אוטומטיביים בדיוק של 99.5%. זה הזכות השנייה של הטכנולוגיה הזו שנחשבת אחת ההשגות המשמעותיות ביותר בתחום הרובוטיקה התעשייתית בשנים האחרונות, ויכולה לשנות את דפוס הייצור בתעשיית הרכב בעולם.",
-      "link": "https://interestingengineering.com/ai-robotics/robot-plugs-wires-with-99-5-accuracy",
-      "image_url": "https://www.youtube.com/embed/OIYL5nEG4rc",
-      "pub_date": "Fri, 19 Jun 2026 13:02:08 +0000",
-      "author": "Jijo Malayil",
-      "categories": [
-        "AI and Robotics"
-      ],
-      "translated": true,
-      "priority": "hot",
-      "fetchedAt": "2026-06-19T14:29:49.400Z",
-      "created_at": "2026-06-19T14:29:49.400Z"
-    },
-    {
-      "id": 12084,
+      "id": 12081,
       "source": "AI News",
       "title_en": "SAP and Google Cloud deploy agentic commerce architecture",
       "description_en": "SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026. However, the same data reveals fewer than two in five companies share customer data across customer experience (37%) or CRM (39%) […]\nThe post SAP and Google Cloud deploy agentic commerce architecture appeared first on AI News.",
-      "title_he": "SAP וגוגל קלאוד משגרות ארכיטקטורת מסחר עם agents אוטונומיים",
-      "description_he": "SAP וגוגל קלאוד משתפות פעולה בהנדסת agentic commerce חדשה שמטרתה לאוטומציה של פעילויות שיווק ומכירות במיזם ברמה ענקית. מחקר של SAP חושף משהו די מעניין - 78% מהעסקים כבר מבינים שAI זה חובה בשביל להחזיק לקוחות בשנת 2026, אבל אז מגיעה ההפתעה: רק פחות מ-40% של החברות בעצם משתפות את הנתונים שלהם בין מערכות ה-CRM שלהם, וזה בדיוק המקום שבו הפתרון החדש צריך לעזור.",
+      "title_he": "SAP וגוגל קלאוד משגרות ארכיטקטורת מסחר עם Agents אוטונומיים",
+      "description_he": "SAP וגוגל קלאוד יוצאים לדרך עם פתרון חדש שמאפשר לחברות גדולות לאוטומציה של פעולות שיווק ומכירות דרך multiple AI agents. מתברר שרוב החברות כבר מבינות שהן חייבות AI כדי להישאר רלוונטיות אצל הלקוחות, אבל יש בעיה קטנה - רק מיעוט מהן משתפות בעצם נתוני לקוחות בין המערכות השונות שלהן.",
       "link": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
       "image_url": null,
       "pub_date": "Fri, 19 Jun 2026 14:02:20 +0000",
@@ -254090,16 +254035,54 @@
       ],
       "translated": true,
       "priority": "hot",
-      "fetchedAt": "2026-06-19T14:29:49.727Z",
-      "created_at": "2026-06-19T14:29:49.727Z"
+      "fetchedAt": "2026-06-19T14:30:49.238Z",
+      "created_at": "2026-06-19T14:30:49.238Z"
     },
     {
-      "id": 12085,
+      "id": 12082,
+      "source": "Interesting Engineering",
+      "title_en": "NASA’s new prototype rover completes 16-mile autonomous desert trek",
+      "description_en": "NASA’s Jet Propulsion Laboratory (JPL) has developed a 4-foot-long, four-wheeled prototype designed for high-speed, long-distance...",
+      "title_he": "רובוט הסיור החדש של נאסא השלים מסע אוטונומי של 16 קילומטר במדבר",
+      "description_he": "מעבדת ההנע של נאסא (JPL) פיתחה רובוט סיור קומפקטי בגודל 4 מטר שיכול לנוע באופן עצמאי במהירויות גבוהות למרחקים ארוכים. הפרוטוטיפ הזה עדיין בשלביו המוקדמים, אבל הוא מסמן צעד משמעותי בפיתוח רובוטים שיוכלו לחקור כוכבים ומדבריות בעצמם ללא תערוכת אדם. הבדיקה המוצלחת במדבר תרמה להוכחת הטכנולוגיה שעלולה לשנות את דרך חקר החלל בעתיד.",
+      "link": "https://interestingengineering.com/ai-robotics/nasas-new-prototype-rover-completes-16-mile-autonomous-desert-trek",
+      "image_url": "https://www.youtube.com/embed/d684P5a3xMc",
+      "pub_date": "Fri, 19 Jun 2026 14:29:37 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-06-19T14:30:49.509Z",
+      "created_at": "2026-06-19T14:30:49.509Z"
+    },
+    {
+      "id": 12083,
+      "source": "Interesting Engineering",
+      "title_en": "Video: New robotic system achieves 99.5% success in fast auto factory wire assembly",
+      "description_en": "Canadian robotics company Sanctuary AI has reported a significant achievement in industrial automation. The firm...",
+      "title_he": "וידאו: מערכת רובוטית חדשה משיגה הצלחה של 99.5% בהרכבת חוטים במפעלי רכב",
+      "description_he": "חברת הרובוטיקה הקנדית Sanctuary AI הצליחה לפתוח פתח חדש בתחום אוטומציה תעשייתית - הם הראו שניתן לבנות מערכת רובוטית שמטפלת בהרכבת חוטים בקווי ייצור של מכוניות בדיוק מטורף של 99.5%. זה לא עוד עוד ניסיון כושל של רובוטים במפעל - הפעם זה עובד, וזה אומר שעוד קצת ורובוטים יוכלו להחליף עובדים בעבודות חוזרות ודהויות כמו זאת. עברו את זה בוידאו כדי לראות את הרובוטים בעבודה.",
+      "link": "https://interestingengineering.com/ai-robotics/robot-plugs-wires-with-99-5-accuracy",
+      "image_url": "https://www.youtube.com/embed/OIYL5nEG4rc",
+      "pub_date": "Fri, 19 Jun 2026 13:02:08 +0000",
+      "author": "Jijo Malayil",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-06-19T14:30:49.510Z",
+      "created_at": "2026-06-19T14:30:49.510Z"
+    },
+    {
+      "id": 12084,
       "source": "Tom's Hardware",
       "title_en": "ASML denies US government report that its EUV chipmaking tool was shipped to China — says 'rumors' are 'inaccurate and damaging to our reputation'",
       "description_en": "U.S. Commerce Secretary Lutnick expresses concerns in a conversation with ASML executives that China has an EUV lithography system as ASML denies shipping such scanners to the PRC.",
-      "title_he": "ASML מכחישה דו\"ח אמריקאי: לא שלחנו כלי EUV לסין",
-      "description_he": "בעקבות חשש של שר המסחר האמריקאי שסין קיבלה מערכת EUV משוכללת, ASML פרצה שתיקה וטוענת בתקיפות שהשמועות האלה הן \"שקריות ופוגעות במוניטין שלנו\". יש כאן קושי גיאופוליטי ממש - ממשלת ארה\"ב חוסמת גישה לטכנולוגיית ייצור שבבים קדומה לסין, ו-ASML (החברה ההולנדית שכמעט בלעדית) מוצאת עצמה תופסת בתיווך של אינטרסים אמריקאיים וחסימות סחר.",
+      "title_he": "ASML מכחישה דו\"ח ממשלתי של ארה\"ב: לא שלחנו ציוד EUV לסין",
+      "description_he": "ASML התקפה בחריפות על דיווחים שלפיהם היא שלחה מכשיר EUV lithography לסין, וקוראת להם \"שמועות מטעות ופוגעות בשמנו\". בינתיים, שר המסחר האמריקאי Lutnick הביע דאגות בשיחה עם הנהלת ASML שסין כבר בידיה מערכת EUV, במה שהוא יוצר התסכול נוסף בסאגה הקשה של ייצוא טכנולוגיה סמויה לסין.",
       "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-denies-us-government-report-that-its-euv-chipmaking-tool-was-shipped-to-china-says-rumors-are-inaccurate-and-damaging-to-our-reputation",
       "image_url": "https://cdn.mos.cms.futurecdn.net/MqQcLuXtcS9FPhQiZeDavC-1280-80.jpg",
       "pub_date": "Fri, 19 Jun 2026 14:20:34 +0000",
@@ -254111,16 +254094,16 @@
       ],
       "translated": true,
       "priority": "hot",
-      "fetchedAt": "2026-06-19T14:29:50.137Z",
-      "created_at": "2026-06-19T14:29:50.137Z"
+      "fetchedAt": "2026-06-19T14:30:49.803Z",
+      "created_at": "2026-06-19T14:30:49.803Z"
     },
     {
-      "id": 12086,
+      "id": 12085,
       "source": "XOR Journal (TG)",
       "title_en": "Нашли опенсорсную замену Adobe Acrobat — KillerPDF 😎Этот крошечный PDF-редактор для Windows 10/11 весит всего 6 МБ, но отлично справляется со своей работой. Внутри можно редактировать текст, объединя",
       "description_en": "Нашли опенсорсную замену Adobe Acrobat — KillerPDF 😎Этот крошечный PDF-редактор для Windows 10/11 весит всего 6 МБ, но отлично справляется со своей работой. Внутри можно редактировать текст, объединять несколько PDF-файлов, извлекать выбранные страницы, рисовать, ставить подписи — короче делать всё, что от него требуется. И да, всё локально, бесплатно и без рекламы.Работаем 🫡@xor_journal",
-      "title_he": "מצאנו חלופה open source לאדוב אקרובט — KillerPDF 😎",
-      "description_he": "KillerPDF הוא עורך PDF קטנטן שזוקק לכל 6 MB בלבד ומעוצב ל-Windows 10/11, אבל הוא עושה כמעט הכל שצריך — עריכת טקסט, מיזוג קבצים, חילוץ עמודים, ציור וחתימה דיגיטלית. המשחק הכי טוב? הכל עובד לוקלי, חינם וללא פרסומות, בדיוק כמו שצריך אמור להיות.",
+      "title_he": "מצאנו תחליף open-source ל-Adobe Acrobat — KillerPDF 😎",
+      "description_he": "KillerPDF הוא עורך PDF קטנטן (רק 6 MB) שמתקום על Windows 10/11 ובעצם עושה הכל - עריכת טקסט, איחוד קבצים, חילוץ עמודים, ציור וחתימה דיגיטלית. הכי טוב שהוא עובד לגמרי לוקאלי, בחינם וללא פרסומות - בדיוק המשהו שחיפשנו כדי להיפטר מהאקובט הכבד.",
       "link": "https://t.me/xor_journal/9554",
       "image_url": "https://cdn4.telesco.pe/file/OATHKz4YapBSl1S0unqsvVs1jGLKtwO9Z0jn4sHlS5R7g1yLAtZYly0kTVKZA6rLL_di8kXQBA2vgZMdqUEs5YN0CkP8mUPZfb4rGSORjsjRU5CeXhCcBe8H79n5TpHKraILH49PSumpZtOEXr0xjWRMu6_Fi_8SLyzE94rMYF7y3aGT990blx0TIzwtFvXThdeLhAVuInlM0bkY76cTpJmYnm-40HAJHGICkfyOgK773otyJQ0XNCvUAxJ9X_gEQAVsakASe0Vqd5JkT_8C-7MZlekIuDU8SpTn2RYu5J4fAcX9H4vrMaxZEzfGj1XYR2drtkFdUmuxmW5YiVIxwQ.jpg",
       "pub_date": "2026-06-19T13:06:35+00:00",
@@ -254128,8 +254111,8 @@
       "categories": [],
       "translated": true,
       "priority": "hot",
-      "fetchedAt": "2026-06-19T14:29:54.293Z",
-      "created_at": "2026-06-19T14:29:54.293Z"
+      "fetchedAt": "2026-06-19T14:30:50.812Z",
+      "created_at": "2026-06-19T14:30:50.812Z"
     }
   ]
 }
