@@ -1,9 +1,9 @@
 {
-  "total": 12106,
-  "translated": 12104,
+  "total": 12108,
+  "translated": 12106,
   "untranslated": 2,
-  "today": 78,
-  "week": 699,
+  "today": 80,
+  "week": 701,
   "sources": [
     {
       "name": "Product Hunt",
@@ -85,8 +85,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 324,
-      "translated": 324,
+      "total": 325,
+      "translated": 325,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -115,9 +115,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 177,
-      "translated": 177,
-      "lastDate": "2026-06-19T11:11:01+00:00"
+      "total": 178,
+      "translated": 178,
+      "lastDate": "2026-06-19T21:53:54+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-19T22:01:56.634Z"
+  "generatedAt": "2026-06-19T22:41:32.213Z"
 }
