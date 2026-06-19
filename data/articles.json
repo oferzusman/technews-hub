@@ -254578,6 +254578,66 @@
       "priority": "hot",
       "fetchedAt": "2026-06-19T22:35:31.076Z",
       "created_at": "2026-06-19T22:35:31.076Z"
+    },
+    {
+      "id": 12109,
+      "source": "TechCrunch AI",
+      "title_en": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+      "description_en": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "image_url": null,
+      "pub_date": "Fri, 19 Jun 2026 22:40:14 +0000",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "categories": [
+        "AI",
+        "Security",
+        "Anthropic",
+        "artificial intelligence",
+        "cybersecurity",
+        "export controls",
+        "infosec",
+        "Mythos",
+        "Spyware"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-19T22:54:02.149Z",
+      "created_at": "2026-06-19T22:54:02.149Z"
+    },
+    {
+      "id": 12110,
+      "source": "MarkTechPost",
+      "title_en": "NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning",
+      "description_en": "SpatialClaw is a training-free agent that writes Python in a persistent kernel, composing perception tools for 3D spatial reasoning\nThe post NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-19-at-3.49.19-PM-1.png",
+      "pub_date": "Fri, 19 Jun 2026 22:51:59 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-19T22:54:03.872Z",
+      "created_at": "2026-06-19T22:54:03.872Z"
     }
   ]
 }
