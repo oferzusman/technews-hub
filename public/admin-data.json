@@ -1,9 +1,9 @@
 {
-  "total": 12097,
-  "translated": 12095,
+  "total": 12100,
+  "translated": 12098,
   "untranslated": 2,
-  "today": 69,
-  "week": 690,
+  "today": 72,
+  "week": 693,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 1003,
-      "translated": 1003,
+      "total": 1004,
+      "translated": 1004,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 535,
-      "translated": 535,
+      "total": 537,
+      "translated": 537,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-19T17:20:51.964Z"
+  "generatedAt": "2026-06-19T18:17:05.854Z"
 }
