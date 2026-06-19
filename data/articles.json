@@ -254513,6 +254513,23 @@
       "priority": "hot",
       "fetchedAt": "2026-06-19T21:40:57.030Z",
       "created_at": "2026-06-19T21:40:57.030Z"
+    },
+    {
+      "id": 12106,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 OpenAI may have discovered a shortcut to making AI safer.Researchers found that training models on realistic human situations didn’t just improve behavior in those specific scenarios, it made them ",
+      "description_en": "🤖 OpenAI may have discovered a shortcut to making AI safer.Researchers found that training models on realistic human situations didn’t just improve behavior in those specific scenarios, it made them behave better across completely different tasks.The surprise? A model trained only on health-related interactions became more resistant to blackmail, deception, and reward-hacking in areas it had never seen before.Even more interesting, OpenAI removed health and science data from training, yet the m",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7282",
+      "image_url": "https://cdn4.telesco.pe/file/v9cjl2MldA-cP8zP4Ex7G7HcAXjv8cYKroimYAB9ttUx0CZT9YGfzkLa_ADtbY63hfdvlR3rOUmqWiydrDXgVDfh_Zy7FrCiaNVyvQP2nQ1Gv9vkClPqvjoNJJIeIhC5hmSFnrwxrjLiDOCTlFYqo8cSiIlsKUecr9lfJLq5v-fGya-hf6Gszo83SplQbPheXTuTMFccVg7ZcE3lGM0khtW-HKtoOy3k1f5FbHcAQWP4TNKi6mm8RGeS3fUEaC7ojXx4UctMJTB3oaksuLvo0WxXRcSwl1AHiI7edZyOSuv5hBs0dqq1Q_fMwTEmt98WLDSWhmwIyfuQX4NmRdKR6Q.jpg",
+      "pub_date": "2026-06-19T21:47:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-19T21:53:05.334Z",
+      "created_at": "2026-06-19T21:53:05.334Z"
     }
   ]
 }
