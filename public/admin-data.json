@@ -1,9 +1,9 @@
 {
-  "total": 12138,
+  "total": 12144,
   "translated": 12136,
-  "untranslated": 2,
-  "today": 27,
-  "week": 652,
+  "untranslated": 8,
+  "today": 33,
+  "week": 658,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,19 +13,19 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 1007,
+      "total": 1008,
       "translated": 1007,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 945,
+      "total": 947,
       "translated": 945,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 706,
+      "total": 707,
       "translated": 706,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -49,7 +49,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 531,
+      "total": 532,
       "translated": 531,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -91,9 +91,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 319,
+      "total": 320,
       "translated": 318,
-      "lastDate": "2026-06-20T07:51:11+00:00"
+      "lastDate": "2026-06-20T12:16:58+00:00"
     },
     {
       "name": "Futurism",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-20T11:51:28.362Z"
+  "generatedAt": "2026-06-20T12:19:12.711Z"
 }
