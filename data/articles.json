@@ -255480,6 +255480,69 @@
       "priority": "hot",
       "fetchedAt": "2026-06-20T12:17:50.719Z",
       "created_at": "2026-06-20T12:17:50.719Z"
+    },
+    {
+      "id": 12145,
+      "source": "The Decoder",
+      "title_en": "OpenAI's Codex can now watch you work once and repeat the task forever",
+      "description_en": "OpenAI has released the \"Record & Replay\" feature for its Codex app on macOS: users demonstrate a workflow once, Codex converts it into a reusable \"skill,\" and then repeats it on its own. The feature isn't available yet in the EU, the UK, or Switzerland.\nThe article OpenAI's Codex can now watch you work once and repeat the task forever appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openais-codex-can-now-watch-you-work-once-and-repeat-the-task-forever/",
+      "image_url": null,
+      "pub_date": "Sat, 20 Jun 2026 13:15:08 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Codex",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-20T13:24:01.226Z",
+      "created_at": "2026-06-20T13:24:01.226Z"
+    },
+    {
+      "id": 12146,
+      "source": "The Decoder",
+      "title_en": "NYU finance professor Damodaran warns an AI crash could hit harder than the dot-com bust",
+      "description_en": "NYU finance professor Aswath Damodaran believes a potential AI crash would be more painful than the bursting of the dot-com bubble because the industry is building massive amounts of debt-financed physical infrastructure rather than lightweight software. Even if AI succeeds, he sees a problem. The actual business model is to replace entire jobs, with unclear consequences for society.\nThe article NYU finance professor Damodaran warns an AI crash could hit harder than the dot-com bust appeared fir",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/nyu-finance-professor-damodaran-warns-an-ai-crash-could-hit-harder-than-the-dot-com-bust/",
+      "image_url": null,
+      "pub_date": "Sat, 20 Jun 2026 12:26:57 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "AI and jobs",
+        "Finance",
+        "Jobs"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-20T13:24:01.226Z",
+      "created_at": "2026-06-20T13:24:01.226Z"
+    },
+    {
+      "id": 12147,
+      "source": "AI Post (TG)",
+      "title_en": "⚠️7 reasons your AI video breaks continuity.Your character changes face by shot three. Each one has a 30-second fix.1. Lock one reference image. Pick a single high-quality portrait, crop it tight to 6",
+      "description_en": "⚠️7 reasons your AI video breaks continuity.Your character changes face by shot three. Each one has a 30-second fix.1. Lock one reference image. Pick a single high-quality portrait, crop it tight to 60-80% of the frame, and feed that exact file into every shot. The drift starts the moment you swap references between generations.2. Use your last frame as the next first frame. Save the final frame of each clip and upload it as the opening frame of the next. Lighting, location, and props carry over",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7287",
+      "image_url": "https://cdn4.telesco.pe/file/UvvYFfbr9_sUfj0pC0zn92qfr4xAkIwLQM-pJ3yXUKdfHp75r_E7tWowmXuNC_T54Qa0FFsuJlB4XWmZfOHRKybmX6FtXthorVL55rsOoA6iRtDfsiwhnPb2dn35FK7RlZQBdWFuTlGMxEF3WYcIAMBcAysz0fHYMh045O225-vgfhEarPW-_ZOKerMjzdHsSWLGv1jJnhfHZwI8qPRJEJ7LgphAsqKihHLWD5yBDDot6o10cxdj08Vv21Sp1PWfTyHCUNGASN9XwGo4U8AeaemfH_pJ2TGutBPM5ZFBHCb6YQUf0X3lXGuMt9nxckWAnsCt05Fhgelh9sUpwcfUmw.jpg",
+      "pub_date": "2026-06-20T12:59:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-20T13:24:04.855Z",
+      "created_at": "2026-06-20T13:24:04.855Z"
     }
   ]
 }
