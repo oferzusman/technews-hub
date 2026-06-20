@@ -1,9 +1,9 @@
 {
-  "total": 12144,
+  "total": 12147,
   "translated": 12142,
-  "untranslated": 2,
-  "today": 33,
-  "week": 658,
+  "untranslated": 5,
+  "today": 36,
+  "week": 661,
   "sources": [
     {
       "name": "Product Hunt",
@@ -37,7 +37,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 541,
+      "total": 543,
       "translated": 541,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -61,9 +61,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 437,
+      "total": 438,
       "translated": 436,
-      "lastDate": "2026-06-20T07:38:25+00:00"
+      "lastDate": "2026-06-20T12:59:29+00:00"
     },
     {
       "name": "The Guardian AI",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-20T13:06:31.900Z"
+  "generatedAt": "2026-06-20T13:24:29.673Z"
 }
