@@ -1,9 +1,9 @@
 {
-  "total": 12150,
+  "total": 12153,
   "translated": 12148,
-  "untranslated": 2,
-  "today": 39,
-  "week": 664,
+  "untranslated": 5,
+  "today": 42,
+  "week": 667,
   "sources": [
     {
       "name": "Product Hunt",
@@ -31,7 +31,7 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 652,
+      "total": 653,
       "translated": 652,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -61,9 +61,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 438,
+      "total": 439,
       "translated": 437,
-      "lastDate": "2026-06-20T12:59:29+00:00"
+      "lastDate": "2026-06-20T16:37:15+00:00"
     },
     {
       "name": "The Guardian AI",
@@ -139,9 +139,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 110,
+      "total": 111,
       "translated": 110,
-      "lastDate": "2026-06-20T11:34:04+00:00"
+      "lastDate": "2026-06-20T16:12:59+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-20T16:52:16.521Z"
+  "generatedAt": "2026-06-20T16:59:42.291Z"
 }
