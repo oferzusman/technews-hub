@@ -255734,6 +255734,23 @@
       "priority": "hot",
       "fetchedAt": "2026-06-20T18:09:20.167Z",
       "created_at": "2026-06-20T18:09:20.167Z"
+    },
+    {
+      "id": 12158,
+      "source": "The Verge AI",
+      "title_en": "The Atlantic created a searchable database of the music used to train AI",
+      "description_en": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over 100,000 songs each.\nAccording to Reisner, the sets have been downloaded thousands of times and, while it's impossible to know exactly who has used them, Google and Stability ha",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "image_url": null,
+      "pub_date": "2026-06-20T18:46:48.000Z",
+      "author": "Terrence O’Brien",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-20T19:00:55.090Z",
+      "created_at": "2026-06-20T19:00:55.090Z"
     }
   ]
 }
