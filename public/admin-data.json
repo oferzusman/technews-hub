@@ -1,9 +1,9 @@
 {
-  "total": 12117,
+  "total": 12118,
   "translated": 12115,
-  "untranslated": 2,
-  "today": 6,
-  "week": 631,
+  "untranslated": 3,
+  "today": 7,
+  "week": 632,
   "sources": [
     {
       "name": "Product Hunt",
@@ -49,7 +49,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 529,
+      "total": 530,
       "translated": 529,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-20T05:57:47.794Z"
+  "generatedAt": "2026-06-20T06:40:47.356Z"
 }
