@@ -1,9 +1,9 @@
 {
-  "total": 12162,
+  "total": 12161,
   "translated": 12159,
-  "untranslated": 3,
-  "today": 51,
-  "week": 676,
+  "untranslated": 2,
+  "today": 50,
+  "week": 675,
   "sources": [
     {
       "name": "Product Hunt",
@@ -91,9 +91,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 321,
+      "total": 320,
       "translated": 319,
-      "lastDate": "2026-06-20T21:13:42+00:00"
+      "lastDate": "2026-06-20T12:16:58+00:00"
     },
     {
       "name": "Futurism",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-20T21:47:53.325Z"
+  "generatedAt": "2026-06-20T21:49:08.763Z"
 }
