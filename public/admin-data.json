@@ -1,9 +1,9 @@
 {
-  "total": 12123,
+  "total": 12124,
   "translated": 12121,
-  "untranslated": 2,
-  "today": 12,
-  "week": 637,
+  "untranslated": 3,
+  "today": 13,
+  "week": 638,
   "sources": [
     {
       "name": "Product Hunt",
@@ -127,9 +127,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 135,
+      "total": 136,
       "translated": 135,
-      "lastDate": "2026-06-19T06:40:10+00:00"
+      "lastDate": "2026-06-20T08:14:00+00:00"
     },
     {
       "name": "AI News",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-20T08:06:36.070Z"
+  "generatedAt": "2026-06-20T08:22:23.095Z"
 }
