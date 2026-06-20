@@ -1,14 +1,14 @@
 {
-  "total": 12118,
-  "translated": 12116,
+  "total": 12123,
+  "translated": 12121,
   "untranslated": 2,
-  "today": 7,
-  "week": 632,
+  "today": 12,
+  "week": 637,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 1059,
-      "translated": 1059,
+      "total": 1060,
+      "translated": 1060,
       "lastDate": "2026-06-19T05:41:54.000Z"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 538,
-      "translated": 538,
+      "total": 539,
+      "translated": 539,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -61,9 +61,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 436,
-      "translated": 435,
-      "lastDate": "2026-06-20T04:05:00+00:00"
+      "total": 437,
+      "translated": 436,
+      "lastDate": "2026-06-20T07:38:25+00:00"
     },
     {
       "name": "The Guardian AI",
@@ -91,9 +91,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 318,
-      "translated": 317,
-      "lastDate": "2026-06-19T21:05:03+00:00"
+      "total": 319,
+      "translated": 318,
+      "lastDate": "2026-06-20T07:51:11+00:00"
     },
     {
       "name": "Futurism",
@@ -115,9 +115,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 178,
-      "translated": 178,
-      "lastDate": "2026-06-19T21:53:54+00:00"
+      "total": 179,
+      "translated": 179,
+      "lastDate": "2026-06-20T07:49:09+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-20T06:42:44.229Z"
+  "generatedAt": "2026-06-20T08:06:36.070Z"
 }
