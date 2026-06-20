@@ -1,7 +1,7 @@
 {
   "total": 12144,
-  "translated": 12136,
-  "untranslated": 8,
+  "translated": 12142,
+  "untranslated": 2,
   "today": 33,
   "week": 658,
   "sources": [
@@ -14,19 +14,19 @@
     {
       "name": "Tom's Hardware",
       "total": 1008,
-      "translated": 1007,
+      "translated": 1008,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
       "total": 947,
-      "translated": 945,
+      "translated": 947,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
       "total": 707,
-      "translated": 706,
+      "translated": 707,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -50,7 +50,7 @@
     {
       "name": "New Atlas",
       "total": 532,
-      "translated": 531,
+      "translated": 532,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -92,7 +92,7 @@
     {
       "name": "XOR Journal (TG)",
       "total": 320,
-      "translated": 318,
+      "translated": 319,
       "lastDate": "2026-06-20T12:16:58+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-20T12:19:12.711Z"
+  "generatedAt": "2026-06-20T12:54:27.824Z"
 }
