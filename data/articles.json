@@ -255147,6 +255147,229 @@
       "priority": "batch",
       "fetchedAt": "2026-06-20T10:57:40.558Z",
       "created_at": "2026-06-20T10:57:40.558Z"
+    },
+    {
+      "id": 12132,
+      "source": "MarkTechPost",
+      "title_en": "Yandex Open-Sources YaFF: A Zero-Copy Wire Format for Protobuf With Near-Struct Read Speed",
+      "description_en": "In this article we look at YaFF, Yandex's open-source zero-copy wire format for the Protobuf ecosystem. We keep the .proto file as the single source of truth, changing only how data sits in memory. We walk through its four layouts — Fixed, Flat, Sparse, and Dynamic — and the benchmark where Flat Layout reads within 1.2× of a raw C++ struct. We also cover where it fits, including the advertising recommendation system reporting 10–20% CPU savings at production scale.\nThe post Yandex Open-Sources Y",
+      "title_he": "יאנדקס משחררת בקוד פתוח את YaFF: פורמט תקשורת Zero-Copy למערכת Protobuf עם ביצועי קריאה כמעט כמו struct",
+      "description_he": "יאנדקס פתחה את הקודים של YaFF, פורמט חוטי חכם ללא העתקות עבור Protobuf שמחזיק את קובץ ה-proto כמקור אמת יחיד. הפרוייקט מציע ארבע דרכים שונות לסדר נתונים בזיכרון, וב-Flat Layout הקריאה מהירה פי 1.2 בלבד מ-struct רגיל של C++. בייצור, המערכת הזו חוסכת 10-20% CPU בכל מערכת ההמלצות לפרסומות של יאנדקס - זה ממש מעניין!",
+      "link": "https://www.marktechpost.com/2026/06/20/yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-read-speed/",
+      "image_url": null,
+      "pub_date": "Sat, 20 Jun 2026 09:23:59 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": true,
+      "priority": "batch",
+      "fetchedAt": "2026-06-20T11:49:35.932Z",
+      "created_at": "2026-06-20T11:49:35.932Z"
+    },
+    {
+      "id": 12133,
+      "source": "MarkTechPost",
+      "title_en": "How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection",
+      "description_en": "We build an end-to-end forecasting workflow with TimeCopilot on a panel of real airline passenger data and a synthetic seasonal series with injected anomalies. We evaluate statistical, foundation, and optional GPU-based models using rolling cross-validation and multiple error metrics. We generate probabilistic forecasts with prediction intervals, visualize future trends, and flag unusual observations. We then explore TimeCopilot's optional LLM agent, which selects a model and explains its predic",
+      "title_he": "איך בונים Pipeline חיזוי עם TimeCopilot באמצעות Foundation Models וגילוי חריגויות אוטומטי",
+      "description_he": "בנו עם אנחנו workflow חיזוי מלא עם TimeCopilot על נתוני נוסעים של חברות תעופה אמיתיות וסדרות סינתטיות עם אנומליות שהוזרקו בכוונה. הערכנו מודלים סטטיסטיים, foundation models וגם כמה שרוצים GPU-based, תוך שימוש בולידציה rolling ועוד המון מטריקות שגיאה. יצרנו חיזויים הסתברותיים עם prediction intervals, ויזואליזציה של מגמות עתידיות, וסימון תצפיות חריגות - והכי מעניין, בדקנו את ה-LLM agent של TimeCopilot שבוחר מודל ומסביר את התחזוקות שלו.",
+      "link": "https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/",
+      "image_url": null,
+      "pub_date": "Sat, 20 Jun 2026 09:05:23 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Data Science",
+        "Editors Pick",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": true,
+      "priority": "batch",
+      "fetchedAt": "2026-06-20T11:49:35.932Z",
+      "created_at": "2026-06-20T11:49:35.932Z"
+    },
+    {
+      "id": 12134,
+      "source": "The Guardian AI",
+      "title_en": "Lloyds Banking Group to hire 300 tech experts to work on AI",
+      "description_en": "Exclusive: While recruits will increase headcount for now, broader adoption of AI could lead to jobs cuts in future\nLloyds Banking Group has launched an AI recruitment drive for 300 tech experts, weeks before its chief executive, Charlie Nunn, unveils a strategic plan for the 261-year old lender.\nThe bank said it intended the recruits to work on its use and development of agentic AI by September, referring to autonomous artificial intelligence models that can plan and execute tasks with minimal ",
+      "title_he": "בנק Lloyds גורם לזעזוע: גוזם 300 מומחי טק לעבודה על AI",
+      "description_he": "בנק בריטי עתיק בן 261 שנה משכיר 300 איש לעבודה על agentic AI - מודלים של AI עצמאיים שיכולים לתכנן ולבצע משימות בעצמם. זה נראה מצד אחד כהשקעה ענקית בטכנולוגיה, אבל המטה של הבנק כבר משהו אומר: ייתכן שבעתיד הזה יהיה חלק מ-automation שיגזום משרות אחרות. למעשה, היום רוצים להעביר קדימה, ומחר... בואו נראה למי יהיה עובד עדיין. מקור: The Guardian AI",
+      "link": "https://www.theguardian.com/business/2026/jun/20/lloyds-banking-group-ai-recruitment-drive-300-tech-experts",
+      "image_url": "https://i.guim.co.uk/img/media/56a9f6722e09f125f1ef23bce556074b0c16807c/438_0_4375_3500/master/4375.jpg?width=140&quality=85&auto=format&fit=max&s=53776728861d4aa1a17856fb09dbfc82",
+      "pub_date": "Sat, 20 Jun 2026 11:00:03 GMT",
+      "author": "Kalyeena Makortoff Banking correspondent",
+      "categories": [
+        {
+          "_": "Lloyds Banking Group",
+          "$": {
+            "domain": "https://www.theguardian.com/business/lloyds-banking-group"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Banking",
+          "$": {
+            "domain": "https://www.theguardian.com/business/banking"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Financial sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/financial-sector"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        }
+      ],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-06-20T11:49:36.635Z",
+      "created_at": "2026-06-20T11:49:36.635Z"
+    },
+    {
+      "id": 12135,
+      "source": "The Guardian AI",
+      "title_en": "How do people in the US describe customer service in 2026? ‘Debilitating, depressing, enraging. Ugh’",
+      "description_en": "We asked people in the US about their customer service battles and hundreds responded on the financial and emotional costs\nGuardian readers from across the US wrote in to tell us about their battles with big companies, and the time, expense and emotional toll exacted by businesses they say are prioritizing the bottom line over all else.\nThe top takeaway: people really, really don’t like AI customer service.\n Continue reading...",
+      "title_he": "\"מדכא, עצוב, מעוררי זעם. אוץ\": ככה אמריקאים מתארים שירות לקוחות ב-2026",
+      "description_he": "גארדיאן שאלה אמריקאים על חוויותיהם עם שירות לקוחות וקיבלה מאות תשובות - והתוצאה היא כאבת ראש ממשית. מתבררים סיפורים על שעות מבוזבזות, כסף שנשרף וחוויות רגשיות קשות של אנשים שמתמודדים עם ענקיות עסקיות שכל מה שהן אכפת להן זה ה-bottom line. הממצא הכי בולט? אנשים פשוט שונאים AI customer service - וזה משהו שחברות בוודאי צריכות לשמוע.",
+      "link": "https://www.theguardian.com/us-news/2026/jun/20/guardian-readers-consumer-battles",
+      "image_url": "https://i.guim.co.uk/img/media/4c7168712c6d206d96b7ff78ac94bcb2958fe483/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=e0cb0f714c88aec22ebbf62e5a460bbd",
+      "pub_date": "Sat, 20 Jun 2026 11:00:03 GMT",
+      "author": "Heather Timmons",
+      "categories": [
+        {
+          "_": "Consumer affairs",
+          "$": {
+            "domain": "https://www.theguardian.com/money/consumer-affairs"
+          }
+        },
+        {
+          "_": "Consumer rights",
+          "$": {
+            "domain": "https://www.theguardian.com/money/consumer-rights-money"
+          }
+        },
+        {
+          "_": "Consumer spending",
+          "$": {
+            "domain": "https://www.theguardian.com/business/consumerspending"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-06-20T11:49:36.635Z",
+      "created_at": "2026-06-20T11:49:36.635Z"
+    },
+    {
+      "id": 12136,
+      "source": "Tom's Hardware",
+      "title_en": "Unlucky PC builder sent RTX 5070 from Amazon, gets DVD rewriter and a busted logic board from an early 2000's Kenwood AV receiver instead — $700 GPU turns out to be e-waste thanks to return scam",
+      "description_en": "Another person has fallen victim to Amazon's generous return policy, as they received a disc drive, a mousepad, and an AV receiver instead of the $700 RTX 5070 they ordered.",
+      "title_he": "בונה PC אומלל קיבל DVD ישן וציוד שבור מ-Amazon במקום RTX 5070 ב-700 דולר - קרבן של תרמית בהחזרות",
+      "description_he": "עוד קורבן נפל בפחי מדיניית ההחזרות הנדיבה של אמזון: הבחור הזה הזמין RTX 5070 יקרה וקיבל במקומה DVD rewriter, mousepad ציוד משובט מאוניברסיטה, בדיוק כמו שרציו - לא. למי שלא מכיר, זו פשוט תרמית קלאסית שבה מישהו קונה מחזיר את הכרטיסייה המקורית בקופסה של מוצר זול, וחוזר הביתה עם GPUגדול ויקר.",
+      "link": "https://www.tomshardware.com/pc-components/gpus/unlucky-pc-builder-sent-rtx-5070-from-amazon-gets-dvd-rewriter-and-a-busted-logic-board-from-an-early-2000s-kenwood-av-receiver-instead-usd700-gpu-turns-out-to-be-e-waste-thanks-to-return-scam",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/NmG5u3PqaPfBiWv6ZxCqF3-1280-80.jpg",
+      "pub_date": "Sat, 20 Jun 2026 11:30:00 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-06-20T11:49:38.354Z",
+      "created_at": "2026-06-20T11:49:38.354Z"
+    },
+    {
+      "id": 12137,
+      "source": "Tom's Hardware",
+      "title_en": "Researcher turns wi-fi smart lightbulb into a Banned Book Library — open source project makes digital books available via a server and open Wi-Fi access point hacked into an ESP32-powered bulb",
+      "description_en": "A security researcher has added another dimension to smart lightbulbs by stealthily adding what they call a 'cyberpunk digital dead drop' full of 'banned books.'",
+      "title_he": "חוקר הפך נורת LED חכמה לספרייה דיגיטלית סמויה - פרויקט קוד פתוח המחביא ספרים אסורים בשרת נukסתר בתוך נורה ESP32",
+      "description_he": "חוקר אבטחה מצא דרך גנובה להפוך נורה חכמה רגילה לנקודת גישה Wi-Fi סמויה המחזיקה ספרים שאסור למצוא בקלות - בעצם 'תא מת דיגיטלי' על הסטירויד. הפרויקט הקוד פתוח הזה מאפשר להעביר ספרים בצורה מסתורית דרך רשת ה-Wi-Fi של הנורה עצמה, וזה די מגניב אם אתם שוקלים את הרגעים בהם כל ספריה דיגיטלית יכולה להיות בפשוטות כשנמצאת בתוך הנורה שלכם.",
+      "link": "https://www.tomshardware.com/maker-stem/researcher-turns-wi-fi-smart-lightbulb-into-a-banned-book-library-open-source-project-makes-digital-books-available-via-a-server-and-open-wi-fi-access-point-hacked-into-an-esp32-powered-bulb",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/wnNDiTSzff73sksrFSqcZW-1280-80.jpg",
+      "pub_date": "Sat, 20 Jun 2026 11:00:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Maker and STEM"
+      ],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-06-20T11:49:38.354Z",
+      "created_at": "2026-06-20T11:49:38.354Z"
+    },
+    {
+      "id": 12138,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Hyundai заполучила полный контроль над Boston Dynamics и всеми её роботами  Корейский автогигант выкупил у холдинга SoftBank оставшуюся долю размером 9,65 % за $325 млн и теперь планирует заменить жел",
+      "description_en": "Hyundai заполучила полный контроль над Boston Dynamics и всеми её роботами  Корейский автогигант выкупил у холдинга SoftBank оставшуюся долю размером 9,65 % за $325 млн и теперь планирует заменить железяками труд живых людей на своих фабриках.В частности человекоподобным роботам придётся таскать увесистые запчасти и раскладывать их в рабочей зоне в строго заданной последовательности.Пятью годами ранее Hyundai заплатила около $900 млн за пакет в 80 % акций Boston Dynamics — тогда компанию оценива",
+      "title_he": "הונדאי השיגה שליטה מלאה על Boston Dynamics וכל הרובוטים שלה",
+      "description_he": "הענקית הקוריאנית השלימה את השתלטותה על Boston Dynamics בקניית 9.65% הנותרים מ-SoftBank תמורת 325 מיליון דולר, והיא כבר מתכננת להחליף עובדים בנדנדות מתוחכמות בקווי הייצור שלה. הרובוטים האנושיים החדשים יטפלו במשימות כבדות כמו הובלת חלקי חילוף וארגונם בדיוק על פי סדר מוגדר בתחנות העבודה. עם השקעה של כ-900 מיליון דולר בשמונים אחוז מהחברה לפני חמש שנים, הונדאי כעת שולטת בכל הרובוטים המודולרים הכי מדובקים בעולם.",
+      "link": "https://t.me/Wylsared/33851",
+      "image_url": "https://cdn4.telesco.pe/file/kp1_P01FZ-UJtVygs52CYjBR9A9ZI3knac92oMKyQUyNcSAEygFVnFK5oQNv-v78kVipEYSPKA-yxi3qarYhGohbR7BEk2Jl-MGeCbXu_d_ENC78mfV4Cg_dRYmQAkNGPcsMU2pNVKO6sAn84MJfyVYkMQWcEIA0o8_kQR5XnF4G3oew9fw1I0nFJFUYgoYlKeAsPYLgjziwpBV0uQURelrT0vl748t9LD_2yk7UYtwKBAldvn4qzydIu42nXlDe5aKcE6pymC1qbaMPe-RjsJJhCd_kilxXU2ORbvpTs_D6ekHrPudI33XXKotKV_wU0iMEG9X-PWfvH3MGaisaZA.jpg",
+      "pub_date": "2026-06-20T11:34:04+00:00",
+      "author": null,
+      "categories": [],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-06-20T11:49:39.374Z",
+      "created_at": "2026-06-20T11:49:39.374Z"
     }
   ]
 }
