@@ -1,9 +1,9 @@
 {
-  "total": 12204,
-  "translated": 12202,
+  "total": 12208,
+  "translated": 12206,
   "untranslated": 2,
-  "today": 39,
-  "week": 662,
+  "today": 43,
+  "week": 666,
   "sources": [
     {
       "name": "Product Hunt",
@@ -61,9 +61,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 446,
-      "translated": 445,
-      "lastDate": "2026-06-21T15:02:01+00:00"
+      "total": 447,
+      "translated": 446,
+      "lastDate": "2026-06-21T18:43:28+00:00"
     },
     {
       "name": "The Guardian AI",
@@ -91,9 +91,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 322,
-      "translated": 321,
-      "lastDate": "2026-06-21T07:20:26+00:00"
+      "total": 323,
+      "translated": 322,
+      "lastDate": "2026-06-21T16:53:55+00:00"
     },
     {
       "name": "Futurism",
@@ -115,9 +115,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 182,
-      "translated": 182,
-      "lastDate": "2026-06-21T15:39:15+00:00"
+      "total": 183,
+      "translated": 183,
+      "lastDate": "2026-06-21T17:33:29+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -187,9 +187,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 48,
-      "translated": 48,
-      "lastDate": "2026-06-19T08:03:01+00:00"
+      "total": 49,
+      "translated": 49,
+      "lastDate": "2026-06-21T16:47:52+00:00"
     },
     {
       "name": "Prompt AI News (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-21T19:01:33.731Z"
+  "generatedAt": "2026-06-21T19:08:06.604Z"
 }
