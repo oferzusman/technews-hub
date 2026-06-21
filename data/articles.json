@@ -255970,6 +255970,101 @@
       "priority": "hot",
       "fetchedAt": "2026-06-21T05:21:53.311Z",
       "created_at": "2026-06-21T05:21:53.311Z"
+    },
+    {
+      "id": 12170,
+      "source": "New Atlas",
+      "title_en": "Spying on rare wombats reveals their elaborate 'underworld'",
+      "description_en": "Nearly three years on from deploying ground-penetrating radar technology to \"spy\" on the underground lives of one of Australia's most critical endangered species, scientists have learnt that northern hairy-nose wombats will build elaborate burrows regardless of the material they're working with. And that one of the females has a baby on board.\nContinue Reading\nCategory: Environment, Science\nTags: Australian Wildlife Conservancy, Australia, Endangered, Animal science, Species, Radar",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/environment/spying-wombats-underworld/",
+      "image_url": null,
+      "pub_date": "Sun, 21 Jun 2026 05:51:12 GMT",
+      "author": "Bronwyn Thompson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-21T06:58:01.950Z",
+      "created_at": "2026-06-21T06:58:01.950Z"
+    },
+    {
+      "id": 12171,
+      "source": "The Guardian AI",
+      "title_en": "Brands using AI-generated influencers to promote products on social media",
+      "description_en": "Investigation finds AI content that purports to show genuine customers, prompting calls for greater transparency\nBrands promoting their products online are quietly deploying AI-generated influencers on social media, an investigation has found, prompting calls for greater transparency.\nThe findings suggest companies are increasingly turning to AI-generated content that purports to show genuine customer experiences while giving no obvious indication that the people featured are not real.\n Continue",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media",
+      "image_url": "https://i.guim.co.uk/img/media/0efbcd2c58af0d916dfd83a4ac24070c42423ea1/0_694_750_600/master/750.jpg?width=140&quality=85&auto=format&fit=max&s=105b305212ddc52230786aa7fcc7d208",
+      "pub_date": "Sun, 21 Jun 2026 06:00:23 GMT",
+      "author": "Sarah Marsh Consumer affairs correspondent",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Instagram",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/instagram"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Meta",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/meta"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Advertising",
+          "$": {
+            "domain": "https://www.theguardian.com/media/advertising"
+          }
+        },
+        {
+          "_": "Advertising Standards Authority",
+          "$": {
+            "domain": "https://www.theguardian.com/media/asa"
+          }
+        },
+        {
+          "_": "Media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/media"
+          }
+        },
+        {
+          "_": "Consumer affairs",
+          "$": {
+            "domain": "https://www.theguardian.com/money/consumer-affairs"
+          }
+        },
+        {
+          "_": "Money",
+          "$": {
+            "domain": "https://www.theguardian.com/money/money"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-21T06:58:02.288Z",
+      "created_at": "2026-06-21T06:58:02.288Z"
     }
   ]
 }
