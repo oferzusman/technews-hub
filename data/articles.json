@@ -256505,8 +256505,8 @@
       "source": "TechCrunch AI",
       "title_en": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
       "description_en": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מעבר ל-Siri: הנה הפיצ'רים של AI המעשיים שמגיעים ל-iPhone שלך ב-iOS 27",
+      "description_he": "בזמן שהשיפוץ הגדול של Siri גנב את הכותרות ב-WWDC, אפל מכינה חברה שלמה של פיצ'רים חכמים שיהיו מתפזרים בכל מקום ב-iOS 27 - ולא רק בעוזר הקולי. המעניין פה שלא כל ה-AI טוב ביותר קורה בתא ההודעות של Siri, אלא בתפעול יום-יומי שלתוך אפליקציות ותהליכים שכמעט לא שמים עליהם לב.\nSource: TechCrunch AI",
       "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
       "image_url": null,
       "pub_date": "Sun, 21 Jun 2026 14:40:28 +0000",
@@ -256520,7 +256520,7 @@
         "iOS 27",
         "wwdc"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-21T14:41:35.376Z",
       "created_at": "2026-06-21T14:41:35.376Z"
@@ -256530,8 +256530,8 @@
       "source": "Tom's Hardware",
       "title_en": "Ingenious modder converts countertop ice machine into an RTX 3060 GPU cooler with a beer fridge thermostat — mod reduces temps by up to 62% in games, Cyberpunk 2077 runs at 22°C",
       "description_en": "Turns out, an ice machine can cool a GPU perfectly fine as long as you're willing to modify it to the extreme and are patient enough to deal with the leaks.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מודדר גאוני הפך מכונת קרח למקרר GPU - RTX 3060 מתקרר ל-22 מעלות ב-Cyberpunk",
+      "description_he": "יש מישהו שהחליט שקירור רגיל זה לנחמצים, ולקח מכונת קרח מהמטבח, שידרג אותה לציוד קירור GPU בעזרת קצת הנדסה קיצונית וסבלנות עם דיסקים. התוצאה? ירידה של עד 62% בטמפרטורות המשחקים ו-GPU שמתקרר כמו בחדר VIP בבר.",
       "link": "https://www.tomshardware.com/pc-components/gpus/ingenious-modder-converts-countertop-ice-machine-into-an-rtx-3060-gpu-cooler-with-a-beer-fridge-thermostat-mod-reduces-temps-by-up-to-62-percent-in-games-cyberpunk-2077-runs-at-22-c",
       "image_url": "https://cdn.mos.cms.futurecdn.net/witKNaB86JgJJ6zbQiNcBd-1280-80.jpg",
       "pub_date": "Sun, 21 Jun 2026 14:40:14 +0000",
@@ -256540,7 +256540,7 @@
         "GPUs",
         "PC Components"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-21T14:41:38.958Z",
       "created_at": "2026-06-21T14:41:38.958Z"
@@ -256550,8 +256550,8 @@
       "source": "Tom's Hardware",
       "title_en": "Open-source Vulkan driver NVK gains experimental DLSS support — bringing Nvidia’s upscaling tech to Linux via imported CUDA binaries",
       "description_en": "NVK, the community-built open-source Vulkan driver for Nvidia GPUs in Mesa, has gained experimental DLSS support.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "דרייבר Vulkan בקוד פתוח NVK מקבל תמיכה ניסיונית ב-DLSS — מביא את טכנולוגיית ה-upscaling של Nvidia ללינוקס",
+      "description_he": "NVK, דרייבר ה-Vulkan בקוד פתוח שבנתה הקהילה עבור כרטיסי Nvidia בـ Mesa, קיבל כעת תמיכה ניסיונית ב-DLSS של Nvidia. זה אומר שמשתמשי לינוקס עם GPUs של Nvidia יכולים להנות מטכנולוגיית ה-upscaling החזקה של החברה, דבר שעד כה היה כמעט בלעדי למערכת Windows. דרך עדכון חכם זה, הקהילה מצליחה להביא יכולויות גיימינג מחזירות-חיים ללינוקס בלי התלות הישירה ב-Nvidia.",
       "link": "https://www.tomshardware.com/pc-components/gpu-drivers/open-source-nvidia-vulkan-driver-nvk-gains-experimental-dlss-support-by-importing-pre-baked-cuda-binaries",
       "image_url": "https://cdn.mos.cms.futurecdn.net/A5B8BfAZTyVWEpy5TRr3UY-1280-80.jpg",
       "pub_date": "Sun, 21 Jun 2026 14:27:19 +0000",
@@ -256561,7 +256561,7 @@
         "PC Components",
         "GPUs"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-21T14:41:38.958Z",
       "created_at": "2026-06-21T14:41:38.958Z"
@@ -256571,8 +256571,8 @@
       "source": "Tom's Hardware",
       "title_en": "Ubisoft co-founder Claude Guillemot dies in plane crash —  French publisher established in 1986 became one of the biggest entertainment companies in the world",
       "description_en": "Ubisoft co-founder Claude Guillemot was killed when his twin-engine private plane crashed enroute to an airshow. Aside from building the French gaming empire, Guillemot was also a licensed and avid pilot.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מייסד Ubisoft קלוד גילמו מת בהתרסקות מטוס פרטי — המוציא לאור הצרפתי שנוסד ב-1986 הפך לאחת חברות הבידור הגדולות בעולם",
+      "description_he": "קלוד גילמו, מייסד החברה הצרפתית ענקית Ubisoft, נהרג בהתרסקות מטוס תאום-מנועים פרטי שלו בדרך להצגת מטוסים. בנוסף לבניית האימפריה של משחקי הווידאו, גילמו היה גם טייס מורשה ותלוי חזק בטיסה ופעילויות אוויריות.",
       "link": "https://www.tomshardware.com/video-games/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash-french-publisher-established-in-1986-became-one-of-the-biggest-entertainment-companies-in-the-world",
       "image_url": "https://cdn.mos.cms.futurecdn.net/9rpZfcXgfaxdQexJ4WW45R-1280-80.png",
       "pub_date": "Sun, 21 Jun 2026 14:04:20 +0000",
@@ -256580,7 +256580,7 @@
       "categories": [
         "Video Games"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-21T14:41:38.958Z",
       "created_at": "2026-06-21T14:41:38.958Z"
