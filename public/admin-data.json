@@ -1,9 +1,9 @@
 {
-  "total": 12209,
-  "translated": 12207,
+  "total": 12212,
+  "translated": 12210,
   "untranslated": 2,
-  "today": 44,
-  "week": 667,
+  "today": 47,
+  "week": 670,
   "sources": [
     {
       "name": "Product Hunt",
@@ -49,8 +49,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 538,
-      "translated": 538,
+      "total": 539,
+      "translated": 539,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -61,9 +61,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 447,
-      "translated": 446,
-      "lastDate": "2026-06-21T18:43:28+00:00"
+      "total": 448,
+      "translated": 447,
+      "lastDate": "2026-06-21T21:52:01+00:00"
     },
     {
       "name": "The Guardian AI",
@@ -91,9 +91,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 323,
-      "translated": 322,
-      "lastDate": "2026-06-21T16:53:55+00:00"
+      "total": 324,
+      "translated": 323,
+      "lastDate": "2026-06-21T21:35:04+00:00"
     },
     {
       "name": "Futurism",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-21T21:52:25.344Z"
+  "generatedAt": "2026-06-21T22:04:30.333Z"
 }
