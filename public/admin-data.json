@@ -1,9 +1,9 @@
 {
-  "total": 12198,
-  "translated": 12196,
+  "total": 12200,
+  "translated": 12198,
   "untranslated": 2,
-  "today": 33,
-  "week": 656,
+  "today": 35,
+  "week": 658,
   "sources": [
     {
       "name": "Product Hunt",
@@ -61,9 +61,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 445,
-      "translated": 444,
-      "lastDate": "2026-06-21T12:10:43+00:00"
+      "total": 446,
+      "translated": 445,
+      "lastDate": "2026-06-21T15:02:01+00:00"
     },
     {
       "name": "The Guardian AI",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 98,
-      "translated": 98,
-      "lastDate": "2026-06-20T08:33:37+00:00"
+      "total": 99,
+      "translated": 99,
+      "lastDate": "2026-06-21T15:10:36+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-21T15:24:08.524Z"
+  "generatedAt": "2026-06-21T15:26:33.520Z"
 }
