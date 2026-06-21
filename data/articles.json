@@ -256499,6 +256499,91 @@
       "priority": "hot",
       "fetchedAt": "2026-06-21T13:05:34.644Z",
       "created_at": "2026-06-21T13:05:34.644Z"
+    },
+    {
+      "id": 12195,
+      "source": "TechCrunch AI",
+      "title_en": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "description_en": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "image_url": null,
+      "pub_date": "Sun, 21 Jun 2026 14:40:28 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "AI",
+        "Apps",
+        "Hardware",
+        "Apple",
+        "Apple Intelligence",
+        "iOS 27",
+        "wwdc"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-21T14:41:35.376Z",
+      "created_at": "2026-06-21T14:41:35.376Z"
+    },
+    {
+      "id": 12196,
+      "source": "Tom's Hardware",
+      "title_en": "Ingenious modder converts countertop ice machine into an RTX 3060 GPU cooler with a beer fridge thermostat — mod reduces temps by up to 62% in games, Cyberpunk 2077 runs at 22°C",
+      "description_en": "Turns out, an ice machine can cool a GPU perfectly fine as long as you're willing to modify it to the extreme and are patient enough to deal with the leaks.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/ingenious-modder-converts-countertop-ice-machine-into-an-rtx-3060-gpu-cooler-with-a-beer-fridge-thermostat-mod-reduces-temps-by-up-to-62-percent-in-games-cyberpunk-2077-runs-at-22-c",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/witKNaB86JgJJ6zbQiNcBd-1280-80.jpg",
+      "pub_date": "Sun, 21 Jun 2026 14:40:14 +0000",
+      "author": " Hassam Nasir ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-21T14:41:38.958Z",
+      "created_at": "2026-06-21T14:41:38.958Z"
+    },
+    {
+      "id": 12197,
+      "source": "Tom's Hardware",
+      "title_en": "Open-source Vulkan driver NVK gains experimental DLSS support — bringing Nvidia’s upscaling tech to Linux via imported CUDA binaries",
+      "description_en": "NVK, the community-built open-source Vulkan driver for Nvidia GPUs in Mesa, has gained experimental DLSS support.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpu-drivers/open-source-nvidia-vulkan-driver-nvk-gains-experimental-dlss-support-by-importing-pre-baked-cuda-binaries",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/A5B8BfAZTyVWEpy5TRr3UY-1280-80.jpg",
+      "pub_date": "Sun, 21 Jun 2026 14:27:19 +0000",
+      "author": " Luke James ",
+      "categories": [
+        "GPU Drivers",
+        "PC Components",
+        "GPUs"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-21T14:41:38.958Z",
+      "created_at": "2026-06-21T14:41:38.958Z"
+    },
+    {
+      "id": 12198,
+      "source": "Tom's Hardware",
+      "title_en": "Ubisoft co-founder Claude Guillemot dies in plane crash —  French publisher established in 1986 became one of the biggest entertainment companies in the world",
+      "description_en": "Ubisoft co-founder Claude Guillemot was killed when his twin-engine private plane crashed enroute to an airshow. Aside from building the French gaming empire, Guillemot was also a licensed and avid pilot.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash-french-publisher-established-in-1986-became-one-of-the-biggest-entertainment-companies-in-the-world",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/9rpZfcXgfaxdQexJ4WW45R-1280-80.png",
+      "pub_date": "Sun, 21 Jun 2026 14:04:20 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Video Games"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-21T14:41:38.958Z",
+      "created_at": "2026-06-21T14:41:38.958Z"
     }
   ]
 }
