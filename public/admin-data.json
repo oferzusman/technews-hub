@@ -1,9 +1,9 @@
 {
-  "total": 12216,
-  "translated": 12214,
+  "total": 12221,
+  "translated": 12219,
   "untranslated": 2,
-  "today": 0,
-  "week": 569,
+  "today": 5,
+  "week": 574,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 953,
-      "translated": 953,
+      "total": 954,
+      "translated": 954,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 539,
-      "translated": 539,
+      "total": 540,
+      "translated": 540,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -61,9 +61,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 448,
-      "translated": 447,
-      "lastDate": "2026-06-21T21:52:01+00:00"
+      "total": 450,
+      "translated": 449,
+      "lastDate": "2026-06-22T03:52:01+00:00"
     },
     {
       "name": "The Guardian AI",
@@ -85,8 +85,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 332,
-      "translated": 332,
+      "total": 333,
+      "translated": 333,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-22T02:11:50.300Z"
+  "generatedAt": "2026-06-22T04:14:04.061Z"
 }
