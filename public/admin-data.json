@@ -1,25 +1,25 @@
 {
-  "total": 12221,
+  "total": 12236,
   "translated": 12219,
-  "untranslated": 2,
-  "today": 5,
-  "week": 574,
+  "untranslated": 17,
+  "today": 20,
+  "week": 589,
   "sources": [
     {
       "name": "Product Hunt",
-      "total": 1064,
+      "total": 1071,
       "translated": 1064,
-      "lastDate": "2026-06-20T19:03:23.000Z"
+      "lastDate": "2026-06-21T13:51:27.000Z"
     },
     {
       "name": "Tom's Hardware",
-      "total": 1020,
+      "total": 1021,
       "translated": 1020,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 954,
+      "total": 955,
       "translated": 954,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -61,13 +61,13 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 450,
+      "total": 451,
       "translated": 449,
-      "lastDate": "2026-06-22T03:52:01+00:00"
+      "lastDate": "2026-06-22T07:04:01+00:00"
     },
     {
       "name": "The Guardian AI",
-      "total": 432,
+      "total": 433,
       "translated": 432,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -85,15 +85,15 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 333,
+      "total": 334,
       "translated": 333,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 324,
+      "total": 325,
       "translated": 323,
-      "lastDate": "2026-06-21T21:35:04+00:00"
+      "lastDate": "2026-06-22T06:10:55+00:00"
     },
     {
       "name": "Futurism",
@@ -115,9 +115,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 184,
+      "total": 185,
       "translated": 184,
-      "lastDate": "2026-06-21T22:38:08+00:00"
+      "lastDate": "2026-06-22T07:14:28+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -127,9 +127,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 137,
+      "total": 138,
       "translated": 137,
-      "lastDate": "2026-06-21T07:25:32+00:00"
+      "lastDate": "2026-06-22T07:11:06+00:00"
     },
     {
       "name": "AI News",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-22T07:03:42.287Z"
+  "generatedAt": "2026-06-22T07:41:29.798Z"
 }
