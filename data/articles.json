@@ -256913,6 +256913,63 @@
       "priority": "hot",
       "fetchedAt": "2026-06-21T23:50:52.081Z",
       "created_at": "2026-06-21T23:50:52.081Z"
+    },
+    {
+      "id": 12217,
+      "source": "MarkTechPost",
+      "title_en": "How to Design Python-First Interactive Dashboards with Prefab Reactive UI Components and Static HTML Export",
+      "description_en": "In this tutorial, we build a Prefab application that creates interactive dashboards entirely in Python. We design an operations dashboard with reactive state, charts, tables, filters, forms, tabs, and metrics. We generate synthetic pipeline monitoring data and connect it to live UI controls. We then export the app as static HTML and preview it directly inside Google Colab.\nThe post How to Design Python-First Interactive Dashboards with Prefab Reactive UI Components and Static HTML Export appeare",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/21/how-to-design-python-first-interactive-dashboards-with-prefab-reactive-ui-components-and-static-html-export/",
+      "image_url": null,
+      "pub_date": "Mon, 22 Jun 2026 00:13:29 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Editors Pick",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-22T02:10:02.860Z",
+      "created_at": "2026-06-22T02:10:02.860Z"
+    },
+    {
+      "id": 12218,
+      "source": "New Atlas",
+      "title_en": "Fish oil supplements reach the brain but fail critical Alzheimer's test",
+      "description_en": "People taking fish-oil supplements in an effort to shield their brain from Alzheimer's disease (AD) might be better off investing that money in their diet, with a two-year study finding that omega-3 pills offer no protection from cognitive decline.\nContinue Reading\nCategory: Alzheimer's & Dementia, Brain Health, Body and Mind\nTags: University of Southern California, Brain, Alzheimer's disease, Cognitive functioning, Dietary supplements, Omega Garden Technology, Fish, Aging, Age-Related",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://refractor.io/brain/alzheimers-dementia/fish-oil-supplements-brain-health/",
+      "image_url": null,
+      "pub_date": "Mon, 22 Jun 2026 00:22:58 GMT",
+      "author": "Bronwyn Thompson",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-22T02:10:03.043Z",
+      "created_at": "2026-06-22T02:10:03.043Z"
+    },
+    {
+      "id": 12219,
+      "source": "AI Post (TG)",
+      "title_en": "Amazon may be making its biggest move yet against Nvidia.The company is reportedly exploring selling its Trainium AI chips directly to data centers and enterprises, instead of keeping them exclusive t",
+      "description_en": "Amazon may be making its biggest move yet against Nvidia.The company is reportedly exploring selling its Trainium AI chips directly to data centers and enterprises, instead of keeping them exclusive to AWS.That would be a major shift. Today, companies need Nvidia GPUs or cloud access to train AI models. Tomorrow, they could buy Amazon’s chips and run them on their own infrastructure.The timing is notable: OpenAI, Anthropic, and Uber are already using Trainium through AWS, and Amazon says demand ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7300",
+      "image_url": "https://cdn4.telesco.pe/file/cumvo0UFomr1kP0GEIZtSLdXweK5Kba1i3uJPy-zuqJ6IUdKvaW_AOiiKWv6Z4zwbyrRMri_MwHNSQ8zlmBq3CoyIzxRlvS4plLg0NcWw-QiNa6jka5S8SsXy1tWfogISoi9cj5KZCYzuG2g57RuSz-LfnlTXSLMCg7LsQP_ehgmyQV0Gb6iWBYGlQL6itDqPXNhxNTp5B3WDpSq0G3Kt96WxkWwjwHw9upTeCq8cIM-B7L6i6JcsHDryz3YQUBemwPA-31rj687SRhhKH2awMKasxydS1Ua2Ni_x4Lm-mRoLAH51VCPa2_NFSuLJuTQabsiyAOS7etN9Ouw0OFybw.jpg",
+      "pub_date": "2026-06-22T00:43:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-22T02:10:06.769Z",
+      "created_at": "2026-06-22T02:10:06.769Z"
     }
   ]
 }
