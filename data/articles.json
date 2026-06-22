@@ -257512,6 +257512,382 @@
       "priority": "hot",
       "fetchedAt": "2026-06-22T10:21:20.135Z",
       "created_at": "2026-06-22T10:21:20.135Z"
+    },
+    {
+      "id": 12247,
+      "source": "The Verge AI",
+      "title_en": "Read this before you vibe-code another app",
+      "description_en": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It could've left the site open for an attacker to read or alter data they shouldn't have access to. \n\"It was just a glaring oversight on my part. It was a complete blindspot in my state of learning this new",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+      "image_url": null,
+      "pub_date": "2026-06-22T11:00:00.000Z",
+      "author": "Yael Grauer",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-22T13:16:23.992Z",
+      "created_at": "2026-06-22T13:16:23.992Z"
+    },
+    {
+      "id": 12248,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: record-breaking subsea tunnels and flexible data centers",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet beneath the North Sea, in a dark, dank cave. It smells weird. And I’m increasingly…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
+      "image_url": null,
+      "pub_date": "Mon, 22 Jun 2026 12:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-22T13:16:25.310Z",
+      "created_at": "2026-06-22T13:16:25.310Z"
+    },
+    {
+      "id": 12249,
+      "source": "The Guardian AI",
+      "title_en": "AI models that can take down governments and business months away, rare Five Eyes statement warns",
+      "description_en": "Signal agencies in Australia, the US, the UK, New Zealand and Canada sound alarm after Trump blocks foreign nationals from Anthropic’s Fable AI model\nPowerful AI models capable of taking down governments and businesses are mere months away, cyber intelligence agencies for the Five Eyes have warned in a rare joint statement, urging leaders to “act now”.\nThe surprising public intervention by signals agencies for Australia, the US, the UK, New Zealand and Canada comes after the Trump administration",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security",
+      "image_url": "https://i.guim.co.uk/img/media/d2a5274919d8ac6deed2ef6835d67933fedd18d2/257_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=520e84bbf4226925e02f4354ef29f65c",
+      "pub_date": "Mon, 22 Jun 2026 13:00:24 GMT",
+      "author": "Sarah Basford Canales",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Data and computer security",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/data-computer-security"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        },
+        {
+          "_": "Canada",
+          "$": {
+            "domain": "https://www.theguardian.com/world/canada"
+          }
+        },
+        {
+          "_": "New Zealand",
+          "$": {
+            "domain": "https://www.theguardian.com/world/newzealand"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-22T13:16:26.304Z",
+      "created_at": "2026-06-22T13:16:26.304Z"
+    },
+    {
+      "id": 12250,
+      "source": "The Guardian AI",
+      "title_en": "New York City House primary emerges as key battleground in ‘AI civil war’",
+      "description_en": "AI-focused Super Pacs are spending heavily in midterms, and nearly half has gone to a single Manhattan district race\nThe artificial intelligence industry is spending heavily in the 2026 midterms, hoping to secure influence over the technology’s first generation of legislation – and New York City’s primary has emerged as the key battleground.\nAI-focused Super Pacs have raised roughly $100m this cycle, of which $44m has been spent so far, in dozens of congressional races across the country. Nearly",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/2026/jun/22/new-york-city-house-primary-race",
+      "image_url": "https://i.guim.co.uk/img/media/7f0ea6cf3bf6dc3ca304267d1c353719e5cec2bc/346_0_3458_2767/master/3458.jpg?width=140&quality=85&auto=format&fit=max&s=cacd2304a4438010a2a1746f44c7f864",
+      "pub_date": "Mon, 22 Jun 2026 13:00:25 GMT",
+      "author": "Niamh Rowe",
+      "categories": [
+        {
+          "_": "New York",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/new-york"
+          }
+        },
+        {
+          "_": "US midterm elections 2026",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-midterm-elections-2026"
+          }
+        },
+        {
+          "_": "Democrats",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/democrats"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-22T13:16:26.305Z",
+      "created_at": "2026-06-22T13:16:26.305Z"
+    },
+    {
+      "id": 12251,
+      "source": "Interesting Engineering",
+      "title_en": "Sound waves could drive neuromorphic chips that mimic brain efficiency",
+      "description_en": "A new approach to neuromorphic computing proposes using acoustic waves — rather than electrical signals...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/phononic-neuromorphic-chips-acoustic-ai",
+      "image_url": null,
+      "pub_date": "Mon, 22 Jun 2026 13:10:34 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "Science"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-22T13:16:26.647Z",
+      "created_at": "2026-06-22T13:16:26.647Z"
+    },
+    {
+      "id": 12252,
+      "source": "Interesting Engineering",
+      "title_en": "Video: Chinese firm shows humanoid and robot arm control by single model in new demo",
+      "description_en": "A Chinese robotics startup has demonstrated humanoid robots and fixed dual-arm robotic systems working together...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/china-model-humanoids-robot-arms",
+      "image_url": "https://www.youtube.com/embed/FOFoIIizlC8",
+      "pub_date": "Mon, 22 Jun 2026 11:24:14 +0000",
+      "author": "Jijo Malayil",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-22T13:16:26.648Z",
+      "created_at": "2026-06-22T13:16:26.648Z"
+    },
+    {
+      "id": 12253,
+      "source": "Interesting Engineering",
+      "title_en": "Video: World’s first autonomous Nürburgring lap completed by 1,003-hp Xiaomi YU7 GT car",
+      "description_en": "Xiaomi shared that its YU7 GT electric performance SUV is the first car to set...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/xiaomi-yu7-gt-driverless-nurburgring-run",
+      "image_url": "https://www.youtube.com/embed/QrC_V2xdIMU",
+      "pub_date": "Mon, 22 Jun 2026 10:36:51 +0000",
+      "author": "Sujita Sinha",
+      "categories": [
+        "Transportation"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-22T13:16:26.648Z",
+      "created_at": "2026-06-22T13:16:26.648Z"
+    },
+    {
+      "id": 12254,
+      "source": "CNBC Tech",
+      "title_en": "Tencent tests AI assistant in China's most popular app as it looks to catch up with rivals",
+      "description_en": "WeChat is an indispensable part of daily life in China and Tencent is trying to tap into its huge user base to expand use of its AI services.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/22/tencent-ai-assistant-wechat-china.html",
+      "image_url": null,
+      "pub_date": "Mon, 22 Jun 2026 12:53:53 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-22T13:16:26.860Z",
+      "created_at": "2026-06-22T13:16:26.861Z"
+    },
+    {
+      "id": 12255,
+      "source": "Tom's Hardware",
+      "title_en": "Ludicrous $999 Steam game lasts just 10 minutes — ‘Congratulations On Your Purchase’ is pure conspicuous consumption with its golden ticket Steam Achievement",
+      "description_en": "'Congratulations On Your Purchase' recently appeared on PC digital marketplaces priced at $999. Its main claim to fame is that it is proudly 'the most expensive game on Steam.' Buyers get a golden ticket Steam Achievement.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/ludicrous-usd999-steam-game-lasts-just-10-minutes-congratulations-on-your-purchase-is-pure-conspicuous-consumption-with-its-golden-ticket-steam-achievement",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/fa3QCdAHZbXRsR3MoY46uF-1280-80.jpg",
+      "pub_date": "Mon, 22 Jun 2026 10:56:12 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "PC Gaming",
+        "Video Games"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-22T13:16:26.950Z",
+      "created_at": "2026-06-22T13:16:26.950Z"
+    },
+    {
+      "id": 12256,
+      "source": "Tom's Hardware",
+      "title_en": "Get a 4TB SSD for $399 this Prime Day — 9.7 cents per GB is as good as it gets thanks to the AI pricing crisis",
+      "description_en": "Get a 4TB SSD for $399 ahead of Prime Day, the cheapest one you can buy.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ssds/get-a-4tb-ssd-for-usd399-this-prime-day-9-7-cents-per-gb-is-as-good-as-it-gets-thanks-to-the-ai-pricing-crisis",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/yLUrxHQ67efWAAH6AL8wX8-1280-80.jpg",
+      "pub_date": "Mon, 22 Jun 2026 10:53:18 +0000",
+      "author": " Stephen Warwick ",
+      "categories": [
+        "SSDs",
+        "PC Components",
+        "Storage"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-22T13:16:26.951Z",
+      "created_at": "2026-06-22T13:16:26.951Z"
+    },
+    {
+      "id": 12257,
+      "source": "Tom's Hardware",
+      "title_en": "Save hundreds during this storage pricing hellscape by turning an SSD or hard drive you aren’t using into a useful external drive for as little as $8 – put an old drive to good use as external storage",
+      "description_en": "Good storage deals are sadly dead, but an affordable enclosure can bring an old drive back to useful life.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/storage/save-hundreds-during-this-storage-pricing-hellscape-by-turning-an-ssd-or-hard-drive-you-arent-using-into-a-useful-external-drive-for-as-little-as-usd8-put-an-old-drive-to-good-use-as-external-storage",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/QKhCR6w8LWfNyYZwDhJbrd-1280-80.jpg",
+      "pub_date": "Mon, 22 Jun 2026 10:28:34 +0000",
+      "author": " Matt Safford ",
+      "categories": [
+        "Storage",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-22T13:16:26.951Z",
+      "created_at": "2026-06-22T13:16:26.951Z"
+    },
+    {
+      "id": 12258,
+      "source": "Backdoor (TG)",
+      "title_en": "Жесть: чехол для AirPods в виде вставной челюсти выпускают в Корее. Бабуле зайдёт👍 Бэкдор",
+      "description_en": "Жесть: чехол для AirPods в виде вставной челюсти выпускают в Корее. Бабуле зайдёт👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/29353",
+      "image_url": "https://cdn4.telesco.pe/file/nOptgyPV-Yiku3L1bOR503BNhLVDNwf8NiEZ2UulAuOK-pZThYmJ4uoGV2WTWj3Ehgcnw7KQ-uFwHHF3jEBD7mt2KHp_I7I3XcC-pw7HNXjBcnQc6O9HRTnh_IogU5CATGZJqvJ5kFVASVi-RyMJw-LP5HoZ-dTl4ADH6_NN397KwfMfzfXPj9kQWdeD3dOvmmOGD_ec9N9YdfX773yCKe0X6l47iIxiEg8MySCSwFi54aiPeHuGV3cUC8Vz6P1i4ersBxyfESIyvuTI3iqDzvLs3oyXs5jVE1lwLKxsRfaGImPM8CmCys-3GI2uotFzU0zr2o-zm0eBheEddc4PqQ.jpg",
+      "pub_date": "2026-06-22T12:17:31+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-22T13:16:27.741Z",
+      "created_at": "2026-06-22T13:16:27.741Z"
+    },
+    {
+      "id": 12259,
+      "source": "XOR Journal (TG)",
+      "title_en": "Выбираем востребованную профессию: в Университете Иннополис уже открыт набор на программу «Инженерия информационных систем»!На бакалавриате делают упор на практику и фундаментальную подготовку в облас",
+      "description_en": "Выбираем востребованную профессию: в Университете Иннополис уже открыт набор на программу «Инженерия информационных систем»!На бакалавриате делают упор на практику и фундаментальную подготовку в области компьютерных наук, математики и управления проектами. Причем на 2 курсе дают выбрать один из трех треков и уйти в разработку ПО, кибербез или разработку компьютерных игр.Самый мёд — можно получить грант, который покрывает обучение полностью или частично! Выбираем программу и подаемся на грант зде",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9567",
+      "image_url": null,
+      "pub_date": "2026-06-22T12:05:04+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-22T13:16:27.991Z",
+      "created_at": "2026-06-22T13:16:27.991Z"
+    },
+    {
+      "id": 12260,
+      "source": "XOR Journal (TG)",
+      "title_en": "Это точно AGI: пользователь заметил, что DeepSeek мысленно матерится на него 🤣Во время спора на чувствительную тему модель якобы начала внутренние рассуждения с отборного турецкого мата, пожаловалась",
+      "description_en": "Это точно AGI: пользователь заметил, что DeepSeek мысленно матерится на него 🤣Во время спора на чувствительную тему модель якобы начала внутренние рассуждения с отборного турецкого мата, пожаловалась сама себе на собеседника, сетовала, что сейчас взорвётся от общения и вообще «относилась к человеку как к огромной обузе». При этом с самим пользователем ИИ старательно сохранял профессионализм и пытался найти компромисс.Рабочие будни ИИ и их общение с заказчиком ничем не отличаются от наших 😁@xor",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9568",
+      "image_url": "https://cdn4.telesco.pe/file/OIxjeJv24_n2znZigBLwiL4rfCFWOB8j1dZbrQYQ7WQQmp5sZWYSaHygKF7kXxQ4ldv782SrTwfL1ep7v5n7t9-QqlU7pu2wJg89P9E0DmkQ1VQfQ_y5dtSqhtIypus9YLKm7X67ucLIonmbBWLQ9dSZQhk8RuVYviEFO1WT4JZhyBk5V1UwQG2kqv2Wv0Awly8yMnfPPwAx0cMHNYw-w1w5j1xrk-eSFo4JIhjJRVzJ6oKX-ECp9oE3DyU2tTIQpujaBqEqJe7N-b4tVBqnGYw-T-f2i2wCsHLxo52p8D01onTnew1AvZNzKI_Yy-lr8Ys57QUL3sFiAj8HeUcZtA.jpg",
+      "pub_date": "2026-06-22T12:48:41+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-22T13:16:27.991Z",
+      "created_at": "2026-06-22T13:16:27.991Z"
+    },
+    {
+      "id": 12261,
+      "source": "Habr (TG)",
+      "title_en": "Архитектура MRC для создания AI/ML-сетей любого масштаба: обзор технологииОбучение нейросетей таит ловушку хвостовой задержки, когда 100 тысяч дорогих видеокарт простаивают из-за микросбоя на единстве",
+      "description_en": "Архитектура MRC для создания AI/ML-сетей любого масштаба: обзор технологииОбучение нейросетей таит ловушку хвостовой задержки, когда 100 тысяч дорогих видеокарт простаивают из-за микросбоя на единственном узле. Именно здесь редкие сетевые тормоза парализуют гигантские кластеры, пока стандартные протоколы связи захлёбываются от лавины трафика при обмене данными.Новый протокол MRC ломает этот сценарий через хитрое распыление пакетов сразу по всем физически доступным маршрутам. Инженеры OpenAI выка",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/68954",
+      "image_url": "https://cdn4.telesco.pe/file/SzjlbCEtCt-CRWhvSfuWPCFUWJ2l-SwFCqrnqFRkbG7d1rw_nJHSOXppwaNpGo9jwu5dU-1cq6msFTzEehSJe1Mb3V4hC6R6Woe_wdMeTrbrqEVvUfo_FB2kvKnWooF0Fe-eyErXdvg9IjUFAK61mkG66bipvW5qsVjU5OXvyvpf5UkargBoEf2WcTjGSm9tD9xI-makre7SOWW6J1Y-Eo8BeBO9BzMyQarCYPur4mntTENS_ML4OD--dGDWAsyfdt4vzsl8Ad6I05DHcBs0LT-HxVZy1nhOVW0MDnZ_i6dL59hyzb-zw-hAJ4MsGQhjGavgy5_Jr-DkFpDgG4U6nA.jpg",
+      "pub_date": "2026-06-22T11:27:44+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-22T13:16:28.270Z",
+      "created_at": "2026-06-22T13:16:28.270Z"
+    },
+    {
+      "id": 12262,
+      "source": "AI Post (TG)",
+      "title_en": "🔥Sakana AI just launched a model that doesn’t act like a model.Meet Fugu: a single API that secretly runs an entire team of AI agents behind the scenes.Instead of answering everything itself, Fugu ca",
+      "description_en": "🔥Sakana AI just launched a model that doesn’t act like a model.Meet Fugu: a single API that secretly runs an entire team of AI agents behind the scenes.Instead of answering everything itself, Fugu can:• Pick the best model for the job• Delegate tasks to specialist agents• Verify results• Combine everything into one final answerThe wild part? Fugu can even call copies of itself recursively. To developers, it looks like one model. Under the hood, it’s an AI manager coordinating an entire workforc",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7306",
+      "image_url": "https://cdn4.telesco.pe/file/ce-Lk8lyRcpgexQwGjCGhDcN10aSsRKxvkajScu6QsPv3EQ-c0JmfFxghFNHdqglD6oNlgqH3K84u8gkdN2S2irN2tc0YdfjcR3guno531rdE38l22m7HNDk-8OYiyyKhBSloXnN8PXjwtky1cCDHagSFP63Gp1Oz2MIRQ1PN9wgt3J7NdJRYENY2jMVUOsOQPClKGrZ5rK2rHn5zgmBJoEois3YRxjj1jakOKI7zorWEZy2CJnRem5He_KDROcUjMu0M3j_wrSaIJeeBfp_U6Jt7JlPgwlLDnI4eX9wVE3dZCjsuw2IO9MFbfblY2LD15Hd79Kn9HoEz0-U0JH3Ww.jpg",
+      "pub_date": "2026-06-22T11:43:03+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-22T13:16:28.579Z",
+      "created_at": "2026-06-22T13:16:28.579Z"
     }
   ]
 }
