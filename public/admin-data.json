@@ -1,25 +1,25 @@
 {
-  "total": 12236,
-  "translated": 12219,
-  "untranslated": 17,
-  "today": 20,
-  "week": 589,
+  "total": 12235,
+  "translated": 12233,
+  "untranslated": 2,
+  "today": 19,
+  "week": 588,
   "sources": [
     {
       "name": "Product Hunt",
       "total": 1071,
-      "translated": 1064,
+      "translated": 1071,
       "lastDate": "2026-06-21T13:51:27.000Z"
     },
     {
       "name": "Tom's Hardware",
       "total": 1021,
-      "translated": 1020,
+      "translated": 1021,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 955,
+      "total": 954,
       "translated": 954,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -62,13 +62,13 @@
     {
       "name": "AI Post (TG)",
       "total": 451,
-      "translated": 449,
+      "translated": 450,
       "lastDate": "2026-06-22T07:04:01+00:00"
     },
     {
       "name": "The Guardian AI",
       "total": 433,
-      "translated": 432,
+      "translated": 433,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -86,13 +86,13 @@
     {
       "name": "MarkTechPost",
       "total": 334,
-      "translated": 333,
+      "translated": 334,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
       "name": "XOR Journal (TG)",
       "total": 325,
-      "translated": 323,
+      "translated": 324,
       "lastDate": "2026-06-22T06:10:55+00:00"
     },
     {
@@ -116,7 +116,7 @@
     {
       "name": "Backdoor (TG)",
       "total": 185,
-      "translated": 184,
+      "translated": 185,
       "lastDate": "2026-06-22T07:14:28+00:00"
     },
     {
@@ -128,7 +128,7 @@
     {
       "name": "Hi, AI Russian (TG)",
       "total": 138,
-      "translated": 137,
+      "translated": 138,
       "lastDate": "2026-06-22T07:11:06+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-22T07:41:29.798Z"
+  "generatedAt": "2026-06-22T07:42:13.774Z"
 }
