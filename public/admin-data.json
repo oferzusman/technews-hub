@@ -1,9 +1,9 @@
 {
-  "total": 12325,
+  "total": 12320,
   "translated": 12318,
-  "untranslated": 7,
-  "today": 109,
-  "week": 678,
+  "untranslated": 2,
+  "today": 104,
+  "week": 673,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 969,
+      "total": 966,
       "translated": 966,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -42,16 +42,16 @@
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
-      "name": "New Atlas",
-      "total": 544,
-      "translated": 543,
-      "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
-    },
-    {
       "name": "Ars Technica",
       "total": 543,
       "translated": 543,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
+    },
+    {
+      "name": "New Atlas",
+      "total": 543,
+      "translated": 543,
+      "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "Pypi.org",
@@ -91,9 +91,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 331,
+      "total": 330,
       "translated": 329,
-      "lastDate": "2026-06-22T21:44:03+00:00"
+      "lastDate": "2026-06-22T16:08:29+00:00"
     },
     {
       "name": "Futurism",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-22T23:20:21.984Z"
+  "generatedAt": "2026-06-22T23:21:36.114Z"
 }
