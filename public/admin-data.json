@@ -1,9 +1,9 @@
 {
-  "total": 12235,
-  "translated": 12233,
+  "total": 12246,
+  "translated": 12244,
   "untranslated": 2,
-  "today": 19,
-  "week": 588,
+  "today": 30,
+  "week": 599,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,20 +13,20 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 1021,
-      "translated": 1021,
+      "total": 1022,
+      "translated": 1022,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 954,
-      "translated": 954,
+      "total": 955,
+      "translated": 955,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 707,
-      "translated": 707,
+      "total": 708,
+      "translated": 708,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 547,
-      "translated": 547,
+      "total": 549,
+      "translated": 549,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -61,9 +61,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 451,
-      "translated": 450,
-      "lastDate": "2026-06-22T07:04:01+00:00"
+      "total": 452,
+      "translated": 451,
+      "lastDate": "2026-06-22T10:11:02+00:00"
     },
     {
       "name": "The Guardian AI",
@@ -109,15 +109,15 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 192,
-      "translated": 192,
+      "total": 193,
+      "translated": 193,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
       "name": "Backdoor (TG)",
-      "total": 185,
-      "translated": 185,
-      "lastDate": "2026-06-22T07:14:28+00:00"
+      "total": 186,
+      "translated": 186,
+      "lastDate": "2026-06-22T08:30:40+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -133,8 +133,8 @@
     },
     {
       "name": "AI News",
-      "total": 126,
-      "translated": 126,
+      "total": 127,
+      "translated": 127,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 99,
-      "translated": 99,
-      "lastDate": "2026-06-21T15:10:36+00:00"
+      "total": 100,
+      "translated": 100,
+      "lastDate": "2026-06-22T09:19:35+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -199,9 +199,9 @@
     },
     {
       "name": "Nature Machine Intelligence",
-      "total": 41,
-      "translated": 41,
-      "lastDate": "2026-06-12T00:00:00.000Z"
+      "total": 42,
+      "translated": 42,
+      "lastDate": "2026-06-22T00:00:00.000Z"
     },
     {
       "name": "Slashdot.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-22T07:43:02.755Z"
+  "generatedAt": "2026-06-22T10:23:03.024Z"
 }
