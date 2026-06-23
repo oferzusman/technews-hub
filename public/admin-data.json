@@ -1,9 +1,9 @@
 {
-  "total": 12449,
-  "translated": 12447,
+  "total": 12453,
+  "translated": 12451,
   "untranslated": 2,
-  "today": 123,
-  "week": 657,
+  "today": 127,
+  "week": 661,
   "sources": [
     {
       "name": "Product Hunt",
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 723,
-      "translated": 723,
+      "total": 724,
+      "translated": 724,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -61,9 +61,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 466,
-      "translated": 465,
-      "lastDate": "2026-06-23T18:51:01+00:00"
+      "total": 467,
+      "translated": 466,
+      "lastDate": "2026-06-23T21:45:18+00:00"
     },
     {
       "name": "The Guardian AI",
@@ -91,9 +91,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 337,
-      "translated": 336,
-      "lastDate": "2026-06-23T14:19:30+00:00"
+      "total": 338,
+      "translated": 337,
+      "lastDate": "2026-06-23T21:20:05+00:00"
     },
     {
       "name": "Futurism",
@@ -199,9 +199,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 43,
-      "translated": 43,
-      "lastDate": "2026-06-13T07:17:28+00:00"
+      "total": 44,
+      "translated": 44,
+      "lastDate": "2026-06-23T21:44:14+00:00"
     },
     {
       "name": "Slashdot.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-23T21:55:16.162Z"
+  "generatedAt": "2026-06-23T21:57:16.815Z"
 }
