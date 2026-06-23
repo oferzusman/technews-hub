@@ -1,9 +1,9 @@
 {
-  "total": 12410,
-  "translated": 12408,
+  "total": 12412,
+  "translated": 12410,
   "untranslated": 2,
-  "today": 84,
-  "week": 618,
+  "today": 86,
+  "week": 620,
   "sources": [
     {
       "name": "Product Hunt",
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 975,
-      "translated": 975,
+      "total": 976,
+      "translated": 976,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 101,
-      "translated": 101,
-      "lastDate": "2026-06-23T07:45:38+00:00"
+      "total": 102,
+      "translated": 102,
+      "lastDate": "2026-06-23T15:46:06+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-23T15:49:07.744Z"
+  "generatedAt": "2026-06-23T15:49:42.824Z"
 }
