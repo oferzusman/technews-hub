@@ -259406,8 +259406,8 @@
       "source": "MarkTechPost",
       "title_en": "GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval",
       "description_en": "We build a practical GLM-5.2 workflow using its hosted, OpenAI-compatible API instead of running the model locally. We set up multiple providers, load the API key securely, and create a reusable chat wrapper. We then test thinking-effort control, streamed reasoning, function calling, a tool-using agent, structured JSON output, and long-context retrieval. We close with token and cost accounting so every demo stays measurable.\nThe post GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning E",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "GLM-5.2 עם API תואם ל-OpenAI: מדריך מעשי לשליטה בכושר החשיבה, קריאה לפונקציות והחזרת תוכן ממקורות ארוכים",
+      "description_he": "מדריך כמעט מעשי לעבודה עם GLM-5.2 דרך ה-API המאופיין, בלי צורך להריץ את המודל בעצמכם. מסבירים איך להגדיר מספר ספקים, לטעון keys בבטחה, וליצור wrapper לצ'אט שניתן לשימוש חוזר. אחרי זה בודקים כמעט הכל - בקרה על כושר החשיבה, streaming של reasoning, function calling, agents שמשתמשים בכלים, output מובנה ב-JSON, וטרייווולל של מידע ארוך. בסוף יש גם חשבון מסודר של토קנים וטפסות כדי שתמיד יהיה לכם קשר ישר לעלות האמיתית.",
       "link": "https://www.marktechpost.com/2026/06/22/glm-5-2-openai-compatible-api-a-hands-on-guide-to-reasoning-effort-function-calling-and-long-context-retrieval/",
       "image_url": null,
       "pub_date": "Tue, 23 Jun 2026 06:35:05 +0000",
@@ -259421,7 +259421,7 @@
         "Technology",
         "Tutorials"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-23T06:50:29.428Z",
       "created_at": "2026-06-23T06:50:29.428Z"
