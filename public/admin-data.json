@@ -1,9 +1,9 @@
 {
-  "total": 12378,
-  "translated": 12376,
+  "total": 12390,
+  "translated": 12388,
   "untranslated": 2,
-  "today": 52,
-  "week": 586,
+  "today": 64,
+  "week": 598,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,20 +13,20 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 1040,
-      "translated": 1040,
+      "total": 1043,
+      "translated": 1043,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 972,
-      "translated": 972,
+      "total": 974,
+      "translated": 974,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 719,
-      "translated": 719,
+      "total": 720,
+      "translated": 720,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 547,
-      "translated": 547,
+      "total": 548,
+      "translated": 548,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -67,8 +67,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 440,
-      "translated": 440,
+      "total": 441,
+      "translated": 441,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -79,9 +79,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 376,
-      "translated": 376,
-      "lastDate": "2026-06-22T23:24:32.000Z"
+      "total": 377,
+      "translated": 377,
+      "lastDate": "2026-06-23T13:00:00.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -91,9 +91,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 334,
-      "translated": 333,
-      "lastDate": "2026-06-23T11:55:04+00:00"
+      "total": 335,
+      "translated": 334,
+      "lastDate": "2026-06-23T12:41:47+00:00"
     },
     {
       "name": "Futurism",
@@ -109,8 +109,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 196,
-      "translated": 196,
+      "total": 197,
+      "translated": 197,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -121,8 +121,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 167,
-      "translated": 167,
+      "total": 168,
+      "translated": 168,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-23T12:38:01.779Z"
+  "generatedAt": "2026-06-23T13:27:47.526Z"
 }
