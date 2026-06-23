@@ -261493,6 +261493,25 @@
       "priority": "hot",
       "fetchedAt": "2026-06-23T19:26:59.674Z",
       "created_at": "2026-06-23T19:26:59.674Z"
+    },
+    {
+      "id": 12434,
+      "source": "OpenAI Blog",
+      "title_en": "Helping build shared standards for advanced AI",
+      "description_en": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "image_url": null,
+      "pub_date": "Tue, 23 Jun 2026 13:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Global Affairs"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-06-23T20:05:15.113Z",
+      "created_at": "2026-06-23T20:05:15.113Z"
     }
   ]
 }
