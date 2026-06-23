@@ -1,7 +1,7 @@
 {
   "total": 12334,
-  "translated": 12330,
-  "untranslated": 4,
+  "translated": 12332,
+  "untranslated": 2,
   "today": 8,
   "week": 542,
   "sources": [
@@ -62,7 +62,7 @@
     {
       "name": "AI Post (TG)",
       "total": 460,
-      "translated": 458,
+      "translated": 459,
       "lastDate": "2026-06-23T06:10:14+00:00"
     },
     {
@@ -128,7 +128,7 @@
     {
       "name": "Hi, AI Russian (TG)",
       "total": 139,
-      "translated": 138,
+      "translated": 139,
       "lastDate": "2026-06-23T06:15:22+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-23T06:18:59.294Z"
+  "generatedAt": "2026-06-23T06:19:45.099Z"
 }
