@@ -261394,6 +261394,105 @@
       "priority": "hot",
       "fetchedAt": "2026-06-23T18:11:52.229Z",
       "created_at": "2026-06-23T18:11:52.229Z"
+    },
+    {
+      "id": 12429,
+      "source": "MarkTechPost",
+      "title_en": "How to Use NVIDIA Canary-1B-v2 for ASR, Translation, and Automatic SRT Subtitle Export in Python",
+      "description_en": "In this tutorial, we build a multilingual ASR and speech translation pipeline with NVIDIA Canary-1B-v2. We load the model on a GPU-enabled runtime, prepare audio into 16 kHz mono, and run English ASR. We then translate speech into French, German, Spanish, and Italian, and extract word and segment timestamps. We export translated subtitles as an SRT file, test long-form transcription, run batch processing, and benchmark inference speed.\nThe post How to Use NVIDIA Canary-1B-v2 for ASR, Translation",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/23/how-to-use-nvidia-canary-1b-v2-for-asr-translation-and-automatic-srt-subtitle-export-in-python/",
+      "image_url": "https://dldata-public.s3.us-east-2.amazonaws.com/2086-149220-0033.wav",
+      "pub_date": "Tue, 23 Jun 2026 18:31:36 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Artificial Intelligence",
+        "Audio Language Model",
+        "Editors Pick",
+        "Language Model",
+        "Staff",
+        "Technology",
+        "Tutorials",
+        "Voice AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-23T19:26:51.479Z",
+      "created_at": "2026-06-23T19:26:51.479Z"
+    },
+    {
+      "id": 12430,
+      "source": "Interesting Engineering",
+      "title_en": "The world’s most powerful bomber isn’t the B-2 or B-52, it’s Russia’s Tu-160",
+      "description_en": "When people think of strategic bombers, aircraft such as the B-52 Stratofortress, B-2 Spirit, or...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/worlds-most-powerful-bomber-tu-160-russia",
+      "image_url": null,
+      "pub_date": "Tue, 23 Jun 2026 18:57:34 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-23T19:26:52.606Z",
+      "created_at": "2026-06-23T19:26:52.606Z"
+    },
+    {
+      "id": 12431,
+      "source": "Interesting Engineering",
+      "title_en": "New radio frequency platform achieves 85% real-time signal accuracy under one watt",
+      "description_en": "Australia-based technology company BrainChip has launched a new hardware platform designed to classify radio frequency...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/brainchip-akida-rf-signal-classification-platform",
+      "image_url": null,
+      "pub_date": "Tue, 23 Jun 2026 18:41:34 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "AI and Robotics",
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-23T19:26:52.606Z",
+      "created_at": "2026-06-23T19:26:52.606Z"
+    },
+    {
+      "id": 12432,
+      "source": "CNBC Tech",
+      "title_en": "SpaceX raises $25 billion in debt sale less than two weeks after IPO",
+      "description_en": "SpaceX raised $25 billion in a debt sale, after seeing nearly $90 billion worth of orders, sources say.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html",
+      "image_url": null,
+      "pub_date": "Tue, 23 Jun 2026 19:12:59 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-23T19:26:53.220Z",
+      "created_at": "2026-06-23T19:26:53.220Z"
+    },
+    {
+      "id": 12433,
+      "source": "AI Post (TG)",
+      "title_en": "🇪🇺 Mistral CEO Arthur Mensch just gave Europe a stark warning:Build your own AI infrastructure within two years or send over $1 trillion to American tech companies.His argument is simple. Global wag",
+      "description_en": "🇪🇺 Mistral CEO Arthur Mensch just gave Europe a stark warning:Build your own AI infrastructure within two years or send over $1 trillion to American tech companies.His argument is simple. Global wages are about $50 trillion, and AI could absorb roughly 10% of that value. Europe’s share is around $9 trillion, meaning more than $1 trillion in AI spending is up for grabs over the next five years.The question is: who gets paid?Europe already spends hundreds of billions on US digital services every",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7319",
+      "image_url": null,
+      "pub_date": "2026-06-23T18:51:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-23T19:26:59.674Z",
+      "created_at": "2026-06-23T19:26:59.674Z"
     }
   ]
 }
