@@ -1,9 +1,9 @@
 {
-  "total": 12332,
+  "total": 12334,
   "translated": 12330,
-  "untranslated": 2,
-  "today": 6,
-  "week": 540,
+  "untranslated": 4,
+  "today": 8,
+  "week": 542,
   "sources": [
     {
       "name": "Product Hunt",
@@ -61,9 +61,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 459,
+      "total": 460,
       "translated": 458,
-      "lastDate": "2026-06-23T03:00:00+00:00"
+      "lastDate": "2026-06-23T06:10:14+00:00"
     },
     {
       "name": "The Guardian AI",
@@ -127,9 +127,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 138,
+      "total": 139,
       "translated": 138,
-      "lastDate": "2026-06-22T07:11:06+00:00"
+      "lastDate": "2026-06-23T06:15:22+00:00"
     },
     {
       "name": "AI News",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-23T05:50:17.371Z"
+  "generatedAt": "2026-06-23T06:18:59.294Z"
 }
