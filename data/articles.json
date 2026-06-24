@@ -261931,8 +261931,8 @@
       "source": "MarkTechPost",
       "title_en": "Mistral OCR 4 Brings Citation-Ready Structured Output to RAG, Agentic, and Enterprise Search Pipelines",
       "description_en": "Mistral AI released OCR 4 on June 23, 2026, moving from clean text extraction to structured document output. Each block returns a bounding box, a typed classification, and per-page and per-word confidence scores. The model supports 170 languages, runs in a single self-hosted container, and feeds citation-ready inputs into RAG, agentic, and enterprise search pipelines through one API endpoint.\nThe post Mistral OCR 4 Brings Citation-Ready Structured Output to RAG, Agentic, and Enterprise Search Pi",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "Mistral OCR 4 מביא פלט מובנה המוכן לציטוטים ל-RAG, סוכנויות וחיפוש ארגוני",
+      "description_he": "חברת Mistral AI שחררה את גרסה 4 של ה-OCR שלה, והפעם היא לא סתם מחלצת טקסט נקי - כל בלוק בפלט מגיע עם bounding box, סיווג מדויק וציוני ביטחון לכל עמוד ודבר. המודל תומך ב-170 שפות, רץ בקונטיינר עצמאי יחיד, והכי חשוב - הפלט שלו מוכן לשימוש ישיר ב-RAG, סוכנויות AI וחיפוש ארגוני דרך API אחד בלבד.",
       "link": "https://www.marktechpost.com/2026/06/23/mistral-ocr-4/",
       "image_url": null,
       "pub_date": "Tue, 23 Jun 2026 23:43:43 +0000",
@@ -261948,7 +261948,7 @@
         "Staff",
         "Technology"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-24T00:09:18.192Z",
       "created_at": "2026-06-24T00:09:18.192Z"
