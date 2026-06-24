@@ -261925,6 +261925,33 @@
       "priority": "hot",
       "fetchedAt": "2026-06-23T23:07:54.914Z",
       "created_at": "2026-06-23T23:07:54.914Z"
+    },
+    {
+      "id": 12456,
+      "source": "MarkTechPost",
+      "title_en": "Mistral OCR 4 Brings Citation-Ready Structured Output to RAG, Agentic, and Enterprise Search Pipelines",
+      "description_en": "Mistral AI released OCR 4 on June 23, 2026, moving from clean text extraction to structured document output. Each block returns a bounding box, a typed classification, and per-page and per-word confidence scores. The model supports 170 languages, runs in a single self-hosted container, and feeds citation-ready inputs into RAG, agentic, and enterprise search pipelines through one API endpoint.\nThe post Mistral OCR 4 Brings Citation-Ready Structured Output to RAG, Agentic, and Enterprise Search Pi",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/23/mistral-ocr-4/",
+      "image_url": null,
+      "pub_date": "Tue, 23 Jun 2026 23:43:43 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "New Releases",
+        "OCR",
+        "Staff",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-24T00:09:18.192Z",
+      "created_at": "2026-06-24T00:09:18.192Z"
     }
   ]
 }
