@@ -262384,8 +262384,8 @@
       "source": "MIT Technology Review",
       "title_en": "This flying solar-powered platform could deliver better internet from the air",
       "description_en": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.  Once there, the roughly 200-foot-long craft, built by the New Mexico–based company Sceye, will park some 18 kilometers above the ocean’s surface, in a wispy-thin…",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "פלטפורמה מעופפת בעלת סוללות שמש יכולה לספק אינטרנט טוב יותר מהאוויר",
+      "description_he": "חברה בשם Sceye משיקה כלי תעופה ענק בגודל 200 מטר שיחליף מגדלי רשת סלולר - הוא יהיה צוף בגובה 18 קילומטרים בעוצמת אנרגיה סולארית טהורה ויחסל כל בעיה של כיסוי אינטרנט בשטחים מרוחקים. עד אוגוסט, המטוס הזה יתחיל את מסע הבחיסוי שלו בדרום-מערב אמריקה כדי להגיע ליפן, וזה בדיוק סוג הפתרון שישנה את משחק הקישוריות בעולם.",
       "link": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
       "image_url": null,
       "pub_date": "Wed, 24 Jun 2026 09:00:00 +0000",
@@ -262394,7 +262394,7 @@
         "Engineering",
         "App"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-24T09:28:51.394Z",
       "created_at": "2026-06-24T09:28:51.394Z"
@@ -262404,8 +262404,8 @@
       "source": "MIT Technology Review",
       "title_en": "All challenges big and small",
       "description_en": "When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos. There was little to no electricity, aside from generator power. Rubble and unexploded ordnance were everywhere. Massive oil fires lit up the desert and…",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "כל אתגר, גדול וקטן",
+      "description_he": "סיפור מדהים של צעיר בן 18 שהחליט להתעלם מטקס סיום תיכון וחרט לכווית ב-1991, ממש אחרי מלחמת המפרץ הראשונה. המדינה הייתה בתוך כאוס מוחלט - אין חשמל, רקיעים עם אש נפט ענקית, והרבה רימונים שלא התפוצצו עדיין. זה המשך לסיפור על איך אתגרים קשים מעצבים אנשים ודוחפים אותם לכיוונים שהם לא ציפו.",
       "link": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
       "image_url": null,
       "pub_date": "Wed, 24 Jun 2026 09:00:00 +0000",
@@ -262414,7 +262414,7 @@
         "Culture",
         "App"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-24T09:28:51.394Z",
       "created_at": "2026-06-24T09:28:51.394Z"
@@ -262424,8 +262424,8 @@
       "source": "MarkTechPost",
       "title_en": "Nous Research Adds /learn to Hermes Agent’s Skills System, Capturing Workflows as Slash Commands Without Hand-Writing SKILL.md",
       "description_en": "Nous Research has added /learn to the Hermes Agent Skills System. The command authors a standards-compliant SKILL.md from a local directory, a doc URL, a past conversation, or pasted notes. The live agent sources the material with its own tools, then writes the skill — no hand-writing and no separate ingestion engine. Here is how it works, where it fits, and what to review before trusting the output.\nThe post Nous Research Adds /learn to Hermes Agent’s Skills System, Capturing Workflows as Slash",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "Nous Research הוסיפה פקודת /learn למערכת הכישורים של Hermes Agent - קיבוע של תהליכי עבודה בלי כתיבה ידנית",
+      "description_he": "Nous Research משיקה תכונה חדשה במערכת Hermes Agent שמאפשרת ללמוד כישורים חדשים בפקודה פשוטה /learn, שיוצרת אוטומטית קבצי SKILL.md תואמי תקן מתיקיות מקומיות, כתובות אתרים, שיחות קודמות או הערות דביקות. ה-Agent עצמו מחפש את החומר וכותב את הכישור בלי צורך בכתיבה ידנית או מנוע ספיגת מידע נפרד, מה שמהפך את הדרך שבה מפתחים ומשתמשים יכולים להרחיב את יכולות ה-AI שלהם.",
       "link": "https://www.marktechpost.com/2026/06/24/nous-research-adds-learn-to-hermes-agents-skills-system-capturing-workflows-as-slash-commands-without-hand-writing-skill-md/",
       "image_url": null,
       "pub_date": "Wed, 24 Jun 2026 09:21:49 +0000",
@@ -262442,7 +262442,7 @@
         "Tech News",
         "Technology"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-24T09:28:51.469Z",
       "created_at": "2026-06-24T09:28:51.469Z"
@@ -262452,8 +262452,8 @@
       "source": "MarkTechPost",
       "title_en": "16 Best Generative AI Coding Tools in 2026 Compared: Features, and Best Fit",
       "description_en": "Generative AI has reshaped how software gets built. What began as line-by-line autocomplete now spans full application generation, multi-agent build pipelines, and natural-language interfaces to entire codebases. Large language models trained on code can read context, follow intent, and produce working frontends, backends, and infrastructure with little manual setup. For early-level AI engineers, software engineers, […]\nThe post 16 Best Generative AI Coding Tools in 2026 Compared: Features, and ",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "16 כלי AI יצירתי למקודדים ב-2026: השוואה מלאה של תכונות ובחירת הכלי המושלם",
+      "description_he": "ה-AI שינה לחלוטין את עולם הפיתוח - מימים שבהם היה רק autocomplete פשוט עברנו להכנת אפליקציות שלמות, pipelines של מולטי-אג'נטים, וממשקי טבעיים לקוד. ה-LLMs שמאומנים על קוד יכולים להבין context, להתכוונן להכוונות שלך, ולהפוך frontend, backend וinfrastructure שלמים לעובדים בעצמאות חלקית. במדריך הזה נצלול לתוך 16 הכלים המובילים שפשוט משנים את המשחק למהנדסי AI ومפתחים.",
       "link": "https://www.marktechpost.com/2026/06/24/top-generative-ai-coding-tools-of-2026/",
       "image_url": null,
       "pub_date": "Wed, 24 Jun 2026 08:12:27 +0000",
@@ -262478,7 +262478,7 @@
         "Uncategorized",
         "Vibe Coding"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-24T09:28:51.469Z",
       "created_at": "2026-06-24T09:28:51.469Z"
@@ -262488,8 +262488,8 @@
       "source": "The Guardian AI",
       "title_en": "‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies",
       "description_en": "The writer who coined the word ‘enshittification’ tells us why AI will never deliver what it promises – and why it still appeals so much to those in power\nA “centaur”, in automation theory, is a person assisted by a machine, and a “reverse centaur”, hero of Cory Doctorow’s new book, The Reverse Centaur’s Guide to Life After AI, is a “human who is conscripted into acting as an assistant to a machine”. Every warehouse worker who ever had to urinate in a water bottle because they couldn’t otherwise",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "'אי אפשר להרוויח מיליארדים בלי לפגוע באנשים': קורי דוקטורוב על אלון מאסק, בועת ה-AI והפנטזיות האכזריות של הבוסים",
+      "description_he": "סופר המילה 'enshittification' משחרר את דעותיו על כך שה-AI לעולם לא יספק את מה שהוא משטיח, אבל זה עדיין מושך לנו את הגדולים והחזקים. בספרו החדש, דוקטורוב מדבר על 'reverse centaur' - אדם שנתפס להיות סייע למכונה, בדיוק כמו עובד מחסן שמוכרח להתיפנות לבקבוק כי אין לו זמן להפסקה.",
       "link": "https://www.theguardian.com/technology/2026/jun/24/cory-doctorow-on-elon-musk-ai-bubble-bosses-cruel-fantasies",
       "image_url": "https://i.guim.co.uk/img/media/ef119478d7f27a743dc19d6056f1698deaed4e07/0_1403_5464_4369/master/5464.jpg?width=140&quality=85&auto=format&fit=max&s=f21ad1305749a21de5b3573ac6006c3c",
       "pub_date": "Wed, 24 Jun 2026 09:00:41 GMT",
@@ -262532,7 +262532,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-24T09:28:52.210Z",
       "created_at": "2026-06-24T09:28:52.210Z"
@@ -262542,8 +262542,8 @@
       "source": "AI News",
       "title_en": "Anthropic drops ‘workplace AI agents’ directly inside Slack",
       "description_en": "Anthropic launched a beta version of its Claude Tag feature for Enterprise and Team tiers, shifting its chat model into shared Slack channels. Moving away from traditional isolated chat boxes, users pull the artificial intelligence model into active group threads by typing @Claude.  The integration allows any team member in the channel to delegate a task, review […]\nThe post Anthropic drops ‘workplace AI agents’ directly inside Slack appeared first on AI News.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "Anthropic משחררת 'סוכני AI לעבודה' ישירות בתוך Slack",
+      "description_he": "Anthropic הטיקה את Claude ישירות לתוך Slack - עכשיו אתה פשוט מקישור @Claude בערוץ קבוצתי והמודל מתחיל לעבוד באותו מקום, ללא צורך בצ'ט מנודד בצד. כל חברי הצוות יכולים להשמיע משימות ל-AI ולעקוב אחריו בזמן אמת, מה שהופך את העבודה בצוות לעם AI לפחות כמו מחבואים עם בוטים.",
       "link": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/",
       "image_url": null,
       "pub_date": "Wed, 24 Jun 2026 09:00:00 +0000",
@@ -262564,7 +262564,7 @@
         "workflow automation",
         "workplace AI agents"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-24T09:28:52.824Z",
       "created_at": "2026-06-24T09:28:52.824Z"
@@ -262574,14 +262574,14 @@
       "source": "XOR Journal (TG)",
       "title_en": "Диверсия против токенмаксинга: сотрудник финтех-стартапа сжёг $80 тысяч на токены за пару дней. 💀Slash рассказал, что недавно призвал сотрудников чаще вайбкодить и использовать ИИ по максимум. Правда",
       "description_en": "Диверсия против токенмаксинга: сотрудник финтех-стартапа сжёг $80 тысяч на токены за пару дней. 💀Slash рассказал, что недавно призвал сотрудников чаще вайбкодить и использовать ИИ по максимум. Правда, компания об этом быстро и крупно пожалела, когда один из сотрудников всего за пару дней сжёг $80 тысяч.Самое смешное, деньги ушли не на рабочие задачи: сотрудник использовал ресурсы компании для создания… своего нейрослоп-шутера 🤣Гений.@xor_journal",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "תאונה בעלות אסימונים: עובד בסטארטאפ פינטק שרף $80 אלף על API calls תוך ימים ספורים 💀",
+      "description_he": "Slash, מנכ\"ל סטארטאפ פינטק, קרא לעובדים להשתמש ב-AI בצורה אגרסיבית יותר - והתוכנית הלכה לו רע במהירות. עובד אחד הצליח לשרוף $80 אלף בתוך כמה ימים, ולא על משימות עבודה, אלא על יצירת משחק שוטה (slop) משלו עם AI. הדוגמה המושלמת לכך שלא כל השימוש בחכמה מלאכותית הוא חכם 🤣",
       "link": "https://t.me/xor_journal/9584",
       "image_url": "https://cdn4.telesco.pe/file/gXCI-ibh4_riW4-fhRIasc47jTRpDveiB9lPptFdgpOvGsS7icvoSE_8WbQiBA3DYUy1NYYGtat2uK51U8oii_AxIiMf3M75MdEPt8droYWwNWQ6SDB9tSX9Xp3-meoCX52pqGazd_c13EL0nz-CK3Ivh_xvIgkCaWbprp-pYmBZl69VwydA4k9wpf3xney6gYLAekeVfX-g10qH9QcsSKFHjfttNSB2TMF17-sohDFWibhT66ED6Pglr7Xv5yhWtxbCEjv_Vfv9kZn9-w8KLFU598v3pjBVg6IyFZHrEtnn52skke74LBGZrZI6mrjttIQvcdQQzO7ysiWypmB7kw.jpg",
       "pub_date": "2026-06-24T09:05:53+00:00",
       "author": null,
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-24T09:28:54.801Z",
       "created_at": "2026-06-24T09:28:54.801Z"
