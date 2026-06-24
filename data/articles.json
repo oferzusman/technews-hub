@@ -264579,6 +264579,160 @@
       "priority": "hot",
       "fetchedAt": "2026-06-24T19:42:37.455Z",
       "created_at": "2026-06-24T19:42:37.455Z"
+    },
+    {
+      "id": 12573,
+      "source": "TechCrunch AI",
+      "title_en": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+      "description_en": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+      "image_url": null,
+      "pub_date": "Wed, 24 Jun 2026 20:09:45 +0000",
+      "author": "Lucas Ropek",
+      "categories": [
+        "AI",
+        "Accenture",
+        "In Brief",
+        "tokenmaxxing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-24T21:06:33.905Z",
+      "created_at": "2026-06-24T21:06:33.905Z"
+    },
+    {
+      "id": 12574,
+      "source": "The Decoder",
+      "title_en": "OpenAI says ChatGPT Instant now better understands what users actually want",
+      "description_en": "OpenAI is updating GPT-5.5 Instant, its most-used ChatGPT model. The update targets conversation quality, with better intent recognition, improved context across multiple turns, and more reliable handling of complex, multi-condition prompts.\nThe article OpenAI says ChatGPT Instant now better understands what users actually want appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-says-chatgpt-instant-now-better-understands-what-users-actually-want/",
+      "image_url": null,
+      "pub_date": "Wed, 24 Jun 2026 19:54:23 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "ChatGPT",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-24T21:06:35.491Z",
+      "created_at": "2026-06-24T21:06:35.491Z"
+    },
+    {
+      "id": 12575,
+      "source": "MarkTechPost",
+      "title_en": "Gradium Launches stt-translate and s2s-translate, Real-Time Speech Translation Models Beating gpt-realtime-translate on Accuracy and Latency",
+      "description_en": "Gradium released two real-time speech translation models, stt-translate and s2s-translate, covering English, French, German, Spanish, and Portuguese across 20 language pairs. The models collapse the standard three-model cascade into two, pairing single-pass transcription-and-translation with a Gradium TTS stage over one duplex WebSocket. Gradium reports a better accuracy-latency tradeoff than gpt-realtime-translate and gemini-3.5-live-translate, plus output voice selection and cloning.\nThe post ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/",
+      "image_url": null,
+      "pub_date": "Wed, 24 Jun 2026 20:00:21 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Artificial Intelligence",
+        "Audio Language Model",
+        "Editors Pick",
+        "Language Model",
+        "New Releases",
+        "Staff",
+        "Technology",
+        "Voice AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-24T21:06:35.918Z",
+      "created_at": "2026-06-24T21:06:35.918Z"
+    },
+    {
+      "id": 12576,
+      "source": "The Guardian AI",
+      "title_en": "‘We should be worried’: report sheds light on ICE’s booming arsenal of hi-tech surveillance tools",
+      "description_en": "Spending on government contracts with tech firms that use AI-powered tools to track immigrants has soared to record levels under Trump 2.0, report says\nA new report sheds light on the unprecedented growth of the US government’s immigration surveillance arsenal, revealing fresh details about how spending on technology and AI tools to find and track migrants has soared to record levels during Donald Trump’s second term.\nThe report, released this week, analyzed US Immigration and Customs Enforcemen",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/2026/jun/24/ice-tech-surveillance-arsenal",
+      "image_url": "https://i.guim.co.uk/img/media/d682304bc7d2ef69459d201852e04f8ccb187aab/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=e84388913210f6d3add0238e971ae860",
+      "pub_date": "Wed, 24 Jun 2026 20:07:46 GMT",
+      "author": "Sanya Mansoor",
+      "categories": [
+        {
+          "_": "ICE (US Immigration and Customs Enforcement)",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/ice-us-immigration-and-customs-enforcement"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Surveillance",
+          "$": {
+            "domain": "https://www.theguardian.com/world/surveillance"
+          }
+        },
+        {
+          "_": "Trump administration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/trump-administration"
+          }
+        },
+        {
+          "_": "US immigration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/usimmigration"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-24T21:06:36.480Z",
+      "created_at": "2026-06-24T21:06:36.480Z"
+    },
+    {
+      "id": 12577,
+      "source": "AI Post (TG)",
+      "title_en": "❗️How Andrew Ng organizes his engineering team to move faster in the era of AI.\"1 to 10 engineers in a team, often made up of generalists: high-context, highly empowered generalists.\"When code gets ge",
+      "description_en": "❗️How Andrew Ng organizes his engineering team to move faster in the era of AI.\"1 to 10 engineers in a team, often made up of generalists: high-context, highly empowered generalists.\"When code gets generated much faster, organizations become the slow part.Once a feature can move from idea to working prototype in a day, every surrounding function is suddenly exposed.Product has to decide faster, design has to clarify faster, marketing has to understand faster, and legal has to review faster.So hi",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7329",
+      "image_url": null,
+      "pub_date": "2026-06-24T20:43:26+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-24T21:06:39.059Z",
+      "created_at": "2026-06-24T21:06:39.059Z"
     }
   ]
 }
