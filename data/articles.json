@@ -264375,6 +264375,174 @@
       "priority": "hot",
       "fetchedAt": "2026-06-24T17:51:53.830Z",
       "created_at": "2026-06-24T17:51:53.830Z"
+    },
+    {
+      "id": 12564,
+      "source": "MarkTechPost",
+      "title_en": "How to Design an OpenHarness Style Agent Runtime with Tools, Memory, Permissions, Skills, and Multi-Agent Coordination",
+      "description_en": "In this tutorial, we build an OpenHarness style agent harness from scratch to see how a practical agent system works. We recreate the core building blocks: tool use, typed tool schemas, permissions, lifecycle hooks, memory, skills, context compaction, retry logic, cost tracking, and multi-agent coordination. We expose the full control flow instead of treating the framework as a black box. We keep everything runnable so we can experiment without API keys or extra infrastructure.\nThe post How to D",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/06/24/how-to-design-an-openharness-style-agent-runtime-with-tools-memory-permissions-skills-and-multi-agent-coordination/",
+      "image_url": null,
+      "pub_date": "Wed, 24 Jun 2026 19:08:36 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Agentic AI",
+        "Editors Pick",
+        "Staff",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-24T19:12:57.433Z",
+      "created_at": "2026-06-24T19:12:57.433Z"
+    },
+    {
+      "id": 12565,
+      "source": "The Guardian AI",
+      "title_en": "Big tech spent millions on a single US congressional race. It won’t be the last time",
+      "description_en": "Pro- and anti-AI groups spent $24m on a congressional contest in New York, but it’s unclear to what end\n\nUS politics live – latest updates\n\nWhen the Democratic primary for New York’s 12th congressional district was called on Tuesday night, the result capped off one of the most expensive races of its kind in the state’s history. More than $24m poured into the Manhattan contest from tech-backed financial groups as the campaign turned into a battleground for pro- and anti-AI groups to test their in",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/2026/jun/24/big-tech-new-york-alex-bores-ai-spending",
+      "image_url": "https://i.guim.co.uk/img/media/e24274909d5204358238372cb6fdad0f30feb95e/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=f458d4c290ba5c73bad339dc18c7fd66",
+      "pub_date": "Wed, 24 Jun 2026 17:55:25 GMT",
+      "author": "Nick Robins-Early in New York",
+      "categories": [
+        {
+          "_": "New York",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/new-york"
+          }
+        },
+        {
+          "_": "Super Pacs",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/super-pacs"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-24T19:12:57.924Z",
+      "created_at": "2026-06-24T19:12:57.924Z"
+    },
+    {
+      "id": 12566,
+      "source": "Interesting Engineering",
+      "title_en": "Digital self-defense: Cate Blanchett unveils ‘Human Consent Registry’ for AI controls",
+      "description_en": "Aiming to give individuals direct control over their personal data in the era of unregulated...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/human-consent-registry-ai-control",
+      "image_url": null,
+      "pub_date": "Wed, 24 Jun 2026 18:17:51 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-24T19:12:58.940Z",
+      "created_at": "2026-06-24T19:12:58.940Z"
+    },
+    {
+      "id": 12567,
+      "source": "Interesting Engineering",
+      "title_en": "Seaweed extract makes construction materials 25% stronger and easier to 3D-print",
+      "description_en": "Scientists have found a way to turn ordinary biopolymer into a high-tech, 3D-printable building material. ...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/seaweed-extract-makes-earthen-building-materials-25-stronger-and-easier-to-3d-print",
+      "image_url": "https://www.youtube.com/embed/RSwLbs_nkC0",
+      "pub_date": "Wed, 24 Jun 2026 18:14:00 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-24T19:12:58.940Z",
+      "created_at": "2026-06-24T19:12:58.940Z"
+    },
+    {
+      "id": 12568,
+      "source": "Tom's Hardware",
+      "title_en": "Broadcom and OpenAI unveil custom-built Jalapeño inference processor — OpenAI's first chip is a massive reticle-sized ASIC built in an ultra-fast nine-month development cycle",
+      "description_en": "Broadcom and OpenAI reveal their Jalapeño custom-built inference ASIC that allegedly beats existing leading-edge in terms of performance-per-watt.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/broadcom-and-openai-unveil-custom-built-jalapeno-inference-processor-openais-first-chip-is-a-massive-reticle-sized-asic-built-in-an-ultra-fast-nine-month-development-cycle",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/3Bym5bRSoc2XYC2CRstQM3-1280-80.jpg",
+      "pub_date": "Wed, 24 Jun 2026 18:50:56 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-24T19:12:59.261Z",
+      "created_at": "2026-06-24T19:12:59.261Z"
+    },
+    {
+      "id": 12569,
+      "source": "CNBC Tech",
+      "title_en": "Qualcomm announces AI data center CPU, signs Meta as first major customer",
+      "description_en": "Qualcomm's primary business has been smartphones, which accounted for two-thirds of the company's product revenue in it's most recent quarter.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html",
+      "image_url": null,
+      "pub_date": "Wed, 24 Jun 2026 19:03:44 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-24T19:12:59.267Z",
+      "created_at": "2026-06-24T19:12:59.267Z"
+    },
+    {
+      "id": 12570,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia's Huang calls black market data centers made of smuggled parts a 'dead end'",
+      "description_en": "Washington regulators and the Trump administration are increasingly wary of China getting ahold of advanced AI software and hardware.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/24/nvidia-huang-data-center-smuggled-chips.html",
+      "image_url": null,
+      "pub_date": "Wed, 24 Jun 2026 18:22:40 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-24T19:12:59.267Z",
+      "created_at": "2026-06-24T19:12:59.267Z"
     }
   ]
 }
