@@ -264297,6 +264297,84 @@
       "priority": "hot",
       "fetchedAt": "2026-06-24T17:27:17.538Z",
       "created_at": "2026-06-24T17:27:17.538Z"
+    },
+    {
+      "id": 12560,
+      "source": "Ars Technica",
+      "title_en": "Elon Musk denies Tesla’s Autopilot caused crash that killed grandmother",
+      "description_en": "Tesla, accused of failing to fix design flaws, blames driver pressing accelerator.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/06/elon-musk-denies-teslas-autopilot-caused-crash-that-killed-grandmother/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/via-Barbour-complaint-1152x648.jpg",
+      "pub_date": "Wed, 24 Jun 2026 16:40:32 +0000",
+      "author": "\n                    Ashley Belanger\n                ",
+      "categories": [
+        "Cars",
+        "Policy",
+        "autopilot",
+        "full self-driving",
+        "nhtsa",
+        "Tesla",
+        "tesla model 3"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-24T17:51:50.156Z",
+      "created_at": "2026-06-24T17:51:50.156Z"
+    },
+    {
+      "id": 12561,
+      "source": "Interesting Engineering",
+      "title_en": "Jalapeño, OpenAI’s first custom chip, targets gigawatt-scale data center deployment",
+      "description_en": "OpenAI has unveiled its first custom AI accelerator, called Jalapeño, marking the company’s move into...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/openai-jalapeno-ai-inference-chip-broadcom",
+      "image_url": null,
+      "pub_date": "Wed, 24 Jun 2026 17:40:07 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-24T17:51:52.997Z",
+      "created_at": "2026-06-24T17:51:52.997Z"
+    },
+    {
+      "id": 12562,
+      "source": "CNBC Tech",
+      "title_en": "Broadcom stock needs a win. The new OpenAI co-designed Jalapeno chip might do the trick",
+      "description_en": "The news involving OpenAI, the creator of ChatGPT, comes as Broadcom stock fights to get back on track.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/24/broadcom-stock-needs-a-win-the-new-openai-co-designed-jalapeno-chip-might-do-the-trick.html",
+      "image_url": null,
+      "pub_date": "Wed, 24 Jun 2026 17:48:20 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-24T17:51:53.185Z",
+      "created_at": "2026-06-24T17:51:53.185Z"
+    },
+    {
+      "id": 12563,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "OpenAI представила свой первый физический продукт! Но это не то, что вы ждали  Первой технологией компании, которую можно потрогать, стал не новый гаджет для взаимодействия с ИИ (над ним сейчас трудит",
+      "description_en": "OpenAI представила свой первый физический продукт! Но это не то, что вы ждали  Первой технологией компании, которую можно потрогать, стал не новый гаджет для взаимодействия с ИИ (над ним сейчас трудится Джонни Айв), а микросхема. Чип для работы LLM, он должен заменить видеокарты NVIDIA, OpenAI спроектировала вместе с Broadcom.Чип называется Jalapeño («Халапеньо»), и он нужен не для обучения LLM, а для обработки запросов пользователей и ответа на них. В пресс-релизе сказано, что на тестах «перчик",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/33947",
+      "image_url": "https://cdn4.telesco.pe/file/J8luKQSwHOGW3DvWMuyKzqn9MM_G6yo1Pj2dUvBOwZvPXkc08mwJvRmnPODhv3FpjzB1AabJ4SFsw1Ugh4r2PAZJDyoijePhkVzGFS_klx-RWvRFdHKEZFd5O4DN2p6qMFUAwtnfb0d-3Cv2eBHtqONRd1q1INn5cCzpuojIsMDkyJlPruK90-b5ezSue_yo640shHofDMslCE00Q_safzYyBviWCHCqLO_eXmzvSiuxDDzjiFSwvniAksm6C-q_MTKB-jWDaAN81yXvRRTxo4QPVBnpv6Kkev-9FmyFwmN1TI0ksTnyj9bGodvdStPjz057AKVL5B-MrrqfYnGlQA.jpg",
+      "pub_date": "2026-06-24T17:27:36+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-24T17:51:53.830Z",
+      "created_at": "2026-06-24T17:51:53.830Z"
     }
   ]
 }
