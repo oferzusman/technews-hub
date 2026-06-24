@@ -264585,8 +264585,8 @@
       "source": "TechCrunch AI",
       "title_en": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
       "description_en": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "חברות מנסות למנוע מעובדים להשקיע את כל תקציב ה-AI בעבודות קטנות",
+      "description_he": "אחרי תקופה קצרה של שימוש מטורף ב-tokens, אנחנו נכנסים כנראה לעידן של הגבלה קשוחה על החוקים. חברות גדולות מגלות שהעובדים שלהם מוציאים כסף גדול על שימושים זעירים ב-AI כשלא זוקפים עליהם אחריות, וזה הופך את הניהול של תקציבי ה-AI לאתגר חדש שלא חזו עליו.",
       "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
       "image_url": null,
       "pub_date": "Wed, 24 Jun 2026 20:09:45 +0000",
@@ -264597,7 +264597,7 @@
         "In Brief",
         "tokenmaxxing"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-24T21:06:33.905Z",
       "created_at": "2026-06-24T21:06:33.905Z"
@@ -264607,8 +264607,8 @@
       "source": "The Decoder",
       "title_en": "OpenAI says ChatGPT Instant now better understands what users actually want",
       "description_en": "OpenAI is updating GPT-5.5 Instant, its most-used ChatGPT model. The update targets conversation quality, with better intent recognition, improved context across multiple turns, and more reliable handling of complex, multi-condition prompts.\nThe article OpenAI says ChatGPT Instant now better understands what users actually want appeared first on The Decoder.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "OpenAI טוענת שChatGPT Instant עכשיו מבין ממש מה שהמשתמשים רוצים",
+      "description_he": "OpenAI משדרגת את GPT-5.5 Instant, המודל הנפוץ ביותר של ChatGPT, עם עדכון שמתמקד בשיפור איכות השיחות. ההשדרגה מביאה זיהוי כוונה טוב יותר, הבנה שיפורה של הקשר לאורך שיחה ארוכה, ויכולת יותר אמינה להתמודד עם prompt מורכבים שיש בהם כמה תנאים בו-זמנית. זה בעצם אומר שה-AI יעלה את הידיים פחות כשיש לך דרישה מעוקלת - וזה מה שיעניין את כולנו.",
       "link": "https://the-decoder.com/openai-says-chatgpt-instant-now-better-understands-what-users-actually-want/",
       "image_url": null,
       "pub_date": "Wed, 24 Jun 2026 19:54:23 +0000",
@@ -264620,7 +264620,7 @@
         "ChatGPT",
         "OpenAI"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-24T21:06:35.491Z",
       "created_at": "2026-06-24T21:06:35.491Z"
@@ -264630,8 +264630,8 @@
       "source": "MarkTechPost",
       "title_en": "Gradium Launches stt-translate and s2s-translate, Real-Time Speech Translation Models Beating gpt-realtime-translate on Accuracy and Latency",
       "description_en": "Gradium released two real-time speech translation models, stt-translate and s2s-translate, covering English, French, German, Spanish, and Portuguese across 20 language pairs. The models collapse the standard three-model cascade into two, pairing single-pass transcription-and-translation with a Gradium TTS stage over one duplex WebSocket. Gradium reports a better accuracy-latency tradeoff than gpt-realtime-translate and gemini-3.5-live-translate, plus output voice selection and cloning.\nThe post ",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "Gradium השיקה מודלים להתרגום דיבור בזמן אמת - stt-translate ו-s2s-translate, שמנצחים את gpt-realtime-translate בדיוק והקלות",
+      "description_he": "Gradium בא עם שני מודלים חדשים להתרגום דיבור בזמן אמת שיכולים להתמודד עם 20 זוגות שפות בין אנגלית, צרפתית, גרמנית, ספרדית ופורטוגזית. המהפכה כאן היא שהם מקבלים את התהליך התלת-שלבי המסורתי וקורסים אותו לשניים - תמלול ותרגום בפאס אחד, עם TTS של Gradium מעל WebSocket דופלקס אחד. החברה טוענת שהיא מנצחת את gpt-realtime-translate ו-gemini-3.5-live-translate בשיווי משקל בין דיוק וקלות, בתוספת אפשרות לבחור ולשכפל קולות פלט.",
       "link": "https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/",
       "image_url": null,
       "pub_date": "Wed, 24 Jun 2026 20:00:21 +0000",
@@ -264646,7 +264646,7 @@
         "Technology",
         "Voice AI"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-24T21:06:35.918Z",
       "created_at": "2026-06-24T21:06:35.918Z"
@@ -264656,8 +264656,8 @@
       "source": "The Guardian AI",
       "title_en": "‘We should be worried’: report sheds light on ICE’s booming arsenal of hi-tech surveillance tools",
       "description_en": "Spending on government contracts with tech firms that use AI-powered tools to track immigrants has soared to record levels under Trump 2.0, report says\nA new report sheds light on the unprecedented growth of the US government’s immigration surveillance arsenal, revealing fresh details about how spending on technology and AI tools to find and track migrants has soared to record levels during Donald Trump’s second term.\nThe report, released this week, analyzed US Immigration and Customs Enforcemen",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "'צריך להיות דאגים': דוח חושף את הארסנל ההולך וגדל של כלי מעקב היי-טק של ICE",
+      "description_he": "ההוצאות של הממשלה האמריקאית על חוזים עם חברות טכנולוגיה שמשתמשות בכלים מופעלים AI לעקוב אחר מהגרים הגיעו לרמות שיא תחת כהונתו השנייה של טראמפ. דוח חדש חושף את הגדילה החסרת תקדים של ארסנל מעקב ההגירה של הממשלה האמריקאית, וחוגר פרטים טריים על כמה שההוצאות על טכנולוגיה וכלי AI למציאה ועקיבה אחר מהגרים התפוצצו לרמות רקורד בתקופה זו. הדוח, שפורסם השבוע, ניתח את ההתרחבות המוקדמות של שירות ההגירה בארה״ב וההעמדות לדין של החברות המעורבות בפרויקטים אלה.",
       "link": "https://www.theguardian.com/us-news/2026/jun/24/ice-tech-surveillance-arsenal",
       "image_url": "https://i.guim.co.uk/img/media/d682304bc7d2ef69459d201852e04f8ccb187aab/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=e84388913210f6d3add0238e971ae860",
       "pub_date": "Wed, 24 Jun 2026 20:07:46 GMT",
@@ -264712,7 +264712,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-24T21:06:36.480Z",
       "created_at": "2026-06-24T21:06:36.480Z"
@@ -264722,14 +264722,14 @@
       "source": "AI Post (TG)",
       "title_en": "❗️How Andrew Ng organizes his engineering team to move faster in the era of AI.\"1 to 10 engineers in a team, often made up of generalists: high-context, highly empowered generalists.\"When code gets ge",
       "description_en": "❗️How Andrew Ng organizes his engineering team to move faster in the era of AI.\"1 to 10 engineers in a team, often made up of generalists: high-context, highly empowered generalists.\"When code gets generated much faster, organizations become the slow part.Once a feature can move from idea to working prototype in a day, every surrounding function is suddenly exposed.Product has to decide faster, design has to clarify faster, marketing has to understand faster, and legal has to review faster.So hi",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "איך Andrew Ng מארגן את הצוות ההנדסי שלו כדי לנוע מהר יותר בעידן ה-AI",
+      "description_he": "אנדרו נג חושף את הסוד שלו לצוותים מהירים: קבוצות קטנות של 1-10 מהנדסים שהם generalists עם הבנה עמוקה וסמכויות גבוהות. התגובה המהירה של AI בעולם קוד גורמת לכל החברה להיות צוואר בקבוק - המוצר צריך להחליט מהר יותר, ה-design צריך להבהיר מהר יותר, והחטיבות האחרות צריכות להסתגל לקצב החדש הזה.",
       "link": "https://t.me/aipost/7329",
       "image_url": null,
       "pub_date": "2026-06-24T20:43:26+00:00",
       "author": null,
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-24T21:06:39.059Z",
       "created_at": "2026-06-24T21:06:39.059Z"
