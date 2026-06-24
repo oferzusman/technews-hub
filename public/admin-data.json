@@ -1,9 +1,9 @@
 {
-  "total": 12539,
-  "translated": 12537,
+  "total": 12542,
+  "translated": 12540,
   "untranslated": 2,
-  "today": 84,
-  "week": 624,
+  "today": 87,
+  "week": 627,
   "sources": [
     {
       "name": "Product Hunt",
@@ -61,14 +61,14 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 474,
-      "translated": 473,
-      "lastDate": "2026-06-24T12:28:37+00:00"
+      "total": 475,
+      "translated": 474,
+      "lastDate": "2026-06-24T15:24:55+00:00"
     },
     {
       "name": "The Guardian AI",
-      "total": 449,
-      "translated": 449,
+      "total": 450,
+      "translated": 450,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -109,8 +109,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 209,
-      "translated": 209,
+      "total": 210,
+      "translated": 210,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-24T15:23:45.349Z"
+  "generatedAt": "2026-06-24T15:55:25.315Z"
 }
