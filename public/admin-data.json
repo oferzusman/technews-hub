@@ -1,9 +1,9 @@
 {
-  "total": 12502,
-  "translated": 12500,
+  "total": 12518,
+  "translated": 12516,
   "untranslated": 2,
-  "today": 47,
-  "week": 587,
+  "today": 63,
+  "week": 603,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 1057,
-      "translated": 1057,
+      "total": 1061,
+      "translated": 1061,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 726,
-      "translated": 726,
+      "total": 728,
+      "translated": 728,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 562,
-      "translated": 562,
+      "total": 563,
+      "translated": 563,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -61,9 +61,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 472,
-      "translated": 471,
-      "lastDate": "2026-06-24T10:32:30+00:00"
+      "total": 474,
+      "translated": 473,
+      "lastDate": "2026-06-24T12:28:37+00:00"
     },
     {
       "name": "The Guardian AI",
@@ -73,8 +73,8 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 392,
-      "translated": 392,
+      "total": 393,
+      "translated": 393,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -109,15 +109,15 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 206,
-      "translated": 206,
+      "total": 209,
+      "translated": 209,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
       "name": "Backdoor (TG)",
-      "total": 191,
-      "translated": 191,
-      "lastDate": "2026-06-24T12:01:02+00:00"
+      "total": 192,
+      "translated": 192,
+      "lastDate": "2026-06-24T13:21:00+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -127,9 +127,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 143,
-      "translated": 143,
-      "lastDate": "2026-06-24T06:16:42+00:00"
+      "total": 144,
+      "translated": 144,
+      "lastDate": "2026-06-24T12:36:05+00:00"
     },
     {
       "name": "AI News",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 86,
-      "translated": 86,
-      "lastDate": "2026-06-23T11:30:50+00:00"
+      "total": 87,
+      "translated": 87,
+      "lastDate": "2026-06-24T13:09:14+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-24T12:08:23.035Z"
+  "generatedAt": "2026-06-24T13:32:21.675Z"
 }
