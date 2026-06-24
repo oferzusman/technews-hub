@@ -263862,6 +263862,116 @@
       "priority": "hot",
       "fetchedAt": "2026-06-24T15:18:36.247Z",
       "created_at": "2026-06-24T15:18:36.247Z"
+    },
+    {
+      "id": 12540,
+      "source": "MIT Technology Review",
+      "title_en": "Europe’s extreme heat is shutting down power plants",
+      "description_en": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+      "image_url": null,
+      "pub_date": "Wed, 24 Jun 2026 15:25:28 +0000",
+      "author": "Casey Crownhart",
+      "categories": [
+        "Climate change and energy",
+        "App",
+        "Summary"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-24T15:54:09.945Z",
+      "created_at": "2026-06-24T15:54:09.945Z"
+    },
+    {
+      "id": 12541,
+      "source": "The Guardian AI",
+      "title_en": "AI helps read papyrus scroll burnt to crisp during Vesuvius eruption",
+      "description_en": "Previously hidden text revealed without unrolling scroll discusses stoic philosophy on ethics, art and human behaviour\nThe surviving part of an ancient scroll that was burnt to a crisp when Mount Vesuvius erupted nearly 2,000 years ago has been virtually unwrapped and read with help from artificial intelligence.\nResearchers uncovered 20 columns of previously hidden text covering more than a metre of charred papyrus without physically unrolling the scroll. The work discusses stoic philosophy on e",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/jun/24/ai-read-papyrus-scroll-burnt-vesuvius-eruption",
+      "image_url": "https://i.guim.co.uk/img/media/749d850b8586ad4f3f041fa8e09bfb555be5f1aa/101_0_4373_3498/master/4373.jpg?width=140&quality=85&auto=format&fit=max&s=d2477d12b75d822b6bd28d6f394010c6",
+      "pub_date": "Wed, 24 Jun 2026 15:48:44 GMT",
+      "author": "Ian Sample Science editor",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Science",
+          "$": {
+            "domain": "https://www.theguardian.com/science/science"
+          }
+        },
+        {
+          "_": "Philosophy",
+          "$": {
+            "domain": "https://www.theguardian.com/world/philosophy"
+          }
+        },
+        {
+          "_": "Volcanoes",
+          "$": {
+            "domain": "https://www.theguardian.com/world/volcanoes"
+          }
+        },
+        {
+          "_": "Italy",
+          "$": {
+            "domain": "https://www.theguardian.com/world/italy"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Europe",
+          "$": {
+            "domain": "https://www.theguardian.com/world/europe-news"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-24T15:54:10.713Z",
+      "created_at": "2026-06-24T15:54:10.713Z"
+    },
+    {
+      "id": 12542,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 Over 1 Million ChatGPT Users Show Signs of Suicide Risk Each WeekOpenAI revealed that about 0.15% of ChatGPT’s 800 million weekly users show signs of suicidal planning, while another 0.15% show emo",
+      "description_en": "🤖 Over 1 Million ChatGPT Users Show Signs of Suicide Risk Each WeekOpenAI revealed that about 0.15% of ChatGPT’s 800 million weekly users show signs of suicidal planning, while another 0.15% show emotional dependence and 0.07% show signs of psychosis or mania.Those percentages sound small, but they translate to roughly 1.2 million users discussing suicide-related concerns, 1.2 million showing unhealthy attachment, and 560,000 experiencing possible mental health crises every week.The disclosure ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/7328",
+      "image_url": null,
+      "pub_date": "2026-06-24T15:24:55+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-24T15:54:13.210Z",
+      "created_at": "2026-06-24T15:54:13.210Z"
     }
   ]
 }
