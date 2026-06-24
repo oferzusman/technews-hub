@@ -264381,8 +264381,8 @@
       "source": "MarkTechPost",
       "title_en": "How to Design an OpenHarness Style Agent Runtime with Tools, Memory, Permissions, Skills, and Multi-Agent Coordination",
       "description_en": "In this tutorial, we build an OpenHarness style agent harness from scratch to see how a practical agent system works. We recreate the core building blocks: tool use, typed tool schemas, permissions, lifecycle hooks, memory, skills, context compaction, retry logic, cost tracking, and multi-agent coordination. We expose the full control flow instead of treating the framework as a black box. We keep everything runnable so we can experiment without API keys or extra infrastructure.\nThe post How to D",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "איך לבנות Agent Runtime בסגנון OpenHarness עם Tools, Memory, Permissions ו-Multi-Agent Coordination",
+      "description_he": "במדריך הזה אנחנו בונים מאפס מערכת agent שלמה בדומה ל-OpenHarness כדי להבין איך באמת עובדת מערכת agent בעולם האמיתי. אנחנו משחזרים את כל הבניינים הבסיסיים: שימוש ב-tools, permissions, memory, skills, ומתן קואורדינציה בין מספר agents - הכל עם full control על ה-flow ללא צורך ב-API keys או תשתית נוספת. זה משהו שאתם יכולים בעצם לרוץ ולנסות בעצמכם על המחשב.",
       "link": "https://www.marktechpost.com/2026/06/24/how-to-design-an-openharness-style-agent-runtime-with-tools-memory-permissions-skills-and-multi-agent-coordination/",
       "image_url": null,
       "pub_date": "Wed, 24 Jun 2026 19:08:36 +0000",
@@ -264393,7 +264393,7 @@
         "Staff",
         "Tutorials"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-24T19:12:57.433Z",
       "created_at": "2026-06-24T19:12:57.433Z"
@@ -264403,8 +264403,8 @@
       "source": "The Guardian AI",
       "title_en": "Big tech spent millions on a single US congressional race. It won’t be the last time",
       "description_en": "Pro- and anti-AI groups spent $24m on a congressional contest in New York, but it’s unclear to what end\n\nUS politics live – latest updates\n\nWhen the Democratic primary for New York’s 12th congressional district was called on Tuesday night, the result capped off one of the most expensive races of its kind in the state’s history. More than $24m poured into the Manhattan contest from tech-backed financial groups as the campaign turned into a battleground for pro- and anti-AI groups to test their in",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ענקי הטכנולוגיה הוציאו מיליונים בבחירות בקונגרס האמריקאי - וזה רק ההתחלה",
+      "description_he": "בחירות למושב בניו יורק הפכו לשדה קרב של תעשיית הטכנולוגיה, כשקבוצות תומכות ומתנגדות ל-AI שפרצו עם יותר מ-24 מיליון דולרים לתוך תחרות ראשוניות בודדות. זה עוד דוגמה לכמה גדול הסכום שמשקיעה הטכנולוגיה בפוליטיקה האמריקאית כדי להשפיע על חקיקה סביב AI, ואפילו לא ברור אם התוצאה הצדיקה את ההשקעה. עושה רושם שזה רק תחילת תופעה שנצפה להתגבר בבחירות הקרובות.",
       "link": "https://www.theguardian.com/us-news/2026/jun/24/big-tech-new-york-alex-bores-ai-spending",
       "image_url": "https://i.guim.co.uk/img/media/e24274909d5204358238372cb6fdad0f30feb95e/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=f458d4c290ba5c73bad339dc18c7fd66",
       "pub_date": "Wed, 24 Jun 2026 17:55:25 GMT",
@@ -264447,7 +264447,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-24T19:12:57.924Z",
       "created_at": "2026-06-24T19:12:57.924Z"
@@ -264457,8 +264457,8 @@
       "source": "Interesting Engineering",
       "title_en": "Digital self-defense: Cate Blanchett unveils ‘Human Consent Registry’ for AI controls",
       "description_en": "Aiming to give individuals direct control over their personal data in the era of unregulated...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "הגנה דיגיטלית: קייט בלנשט חושפת 'רישום הסכמת אדם' לשליטה על AI",
+      "description_he": "הכוכבת קייט בלנשט יוצאת בעצמה להגן על הנתונים האישיים שלנו בעידן של AI ללא תקנות, ויוזמה פרויקט חדש שנותן לכל אחד שליטה ישירה על איך חברות משתמשות בתמונות ותיעוד שלהם. ה'Human Consent Registry' הזה עשוי להיות משהו שיאלץ את תעשיית הטכנולוגיה לבקש הרשאה לפני שהם מזינים את הפנים שלנו למודלי AI - סוף סוף מישהו חוזק את הצד שלנו במשחק הנתונים הגדול הזה. מקור: Interesting Engineering",
       "link": "https://interestingengineering.com/ai-robotics/human-consent-registry-ai-control",
       "image_url": null,
       "pub_date": "Wed, 24 Jun 2026 18:17:51 +0000",
@@ -264466,7 +264466,7 @@
       "categories": [
         "AI and Robotics"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-24T19:12:58.940Z",
       "created_at": "2026-06-24T19:12:58.940Z"
@@ -264476,8 +264476,8 @@
       "source": "Interesting Engineering",
       "title_en": "Seaweed extract makes construction materials 25% stronger and easier to 3D-print",
       "description_en": "Scientists have found a way to turn ordinary biopolymer into a high-tech, 3D-printable building material. ...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "תרופת פלא מהים: תמצית אדמות מחזקת חומרי בנייה ב-25% ולהדפסה תלת-ממדית",
+      "description_he": "חוקרים גילו דרך מהפכנית להפוך ביופולימר רגיל לחומר בנייה היי-טק שאפשר להדפיס בטכנולוגיית 3D. התגלית מאפשרת חומרים חזקים בהרבה וקלים להפקה, מה שיכול לשנות את כללי המשחק בענף הבנייה והעיצוב. זה עוד הוכחה שהטבע עלול להיות המהנדס הטוב ביותר שלנו כשזה מגיע לחומרים בנייה חדשים. (מקור: Interesting Engineering)",
       "link": "https://interestingengineering.com/innovation/seaweed-extract-makes-earthen-building-materials-25-stronger-and-easier-to-3d-print",
       "image_url": "https://www.youtube.com/embed/RSwLbs_nkC0",
       "pub_date": "Wed, 24 Jun 2026 18:14:00 +0000",
@@ -264485,7 +264485,7 @@
       "categories": [
         "Innovation"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-24T19:12:58.940Z",
       "created_at": "2026-06-24T19:12:58.940Z"
@@ -264495,8 +264495,8 @@
       "source": "Tom's Hardware",
       "title_en": "Broadcom and OpenAI unveil custom-built Jalapeño inference processor — OpenAI's first chip is a massive reticle-sized ASIC built in an ultra-fast nine-month development cycle",
       "description_en": "Broadcom and OpenAI reveal their Jalapeño custom-built inference ASIC that allegedly beats existing leading-edge in terms of performance-per-watt.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "Broadcom ו-OpenAI חשפו את Jalapeño - שבב ההסקה הראשון של OpenAI שבנוי בזמן שיא של 9 חודשים",
+      "description_he": "OpenAI הכריזה על הצ'יפ הראשון שלה בשם Jalapeño, שפותח בשיתוף עם Broadcom והוא מטריק ענק המיוצר בטכנולוגיית ASIC מתקדמת. השבב המעוצב במיוחד למשימות inference טוען להביע ביצועים עדיפים בהשוואה ליריבים הקיימים במישור hiperformance-per-watt.",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/broadcom-and-openai-unveil-custom-built-jalapeno-inference-processor-openais-first-chip-is-a-massive-reticle-sized-asic-built-in-an-ultra-fast-nine-month-development-cycle",
       "image_url": "https://cdn.mos.cms.futurecdn.net/3Bym5bRSoc2XYC2CRstQM3-1280-80.jpg",
       "pub_date": "Wed, 24 Jun 2026 18:50:56 +0000",
@@ -264505,7 +264505,7 @@
         "Artificial Intelligence",
         "Tech Industry"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-24T19:12:59.261Z",
       "created_at": "2026-06-24T19:12:59.261Z"
@@ -264515,14 +264515,14 @@
       "source": "CNBC Tech",
       "title_en": "Qualcomm announces AI data center CPU, signs Meta as first major customer",
       "description_en": "Qualcomm's primary business has been smartphones, which accounted for two-thirds of the company's product revenue in it's most recent quarter.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "קואלקום חושפת CPU חדש לנתונים קנטריים עם AI, ומטא כלקוח ראשון",
+      "description_he": "קואלקום מכריזה על כניסתה לשוק ה-AI בנתונים קנטריים עם מעבד חדש, ובתור לקוח אנכור מגיע לא פחות מ-Meta עצמה. עד עכשיו פוקוס החברה היה בסמארטפונים שניתנו לה שני שלישים מהרווחים, אבל נראה שקואלקום מתחילה לתפוס טרנד בין הענקים. זה צעד משמעותי שיכול לשנות את המשחק בשוק ה-data centers.",
       "link": "https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html",
       "image_url": null,
       "pub_date": "Wed, 24 Jun 2026 19:03:44 GMT",
       "author": null,
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-24T19:12:59.267Z",
       "created_at": "2026-06-24T19:12:59.267Z"
@@ -264532,14 +264532,14 @@
       "source": "CNBC Tech",
       "title_en": "Nvidia's Huang calls black market data centers made of smuggled parts a 'dead end'",
       "description_en": "Washington regulators and the Trump administration are increasingly wary of China getting ahold of advanced AI software and hardware.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מנכ״ל Nvidia הואנג קוראה למרכזי נתונים שחורים עם חלקים מברובים 'קצה מסלול מת'",
+      "description_he": "הנשיא השלם מציע לחברות להפסיק להשקיע בחומרה מקלקלת - רגולטורים אמריקאיים וממשלת טראמפ מדחיקים עוד יותר על כך שלא תפול טכנולוגיית AI מתקדמת לידי סין, והרשות החושבת שמרכזי נתונים אומללים עם GPU מסומללות לא שווה אפילו כמו איום אסטרטגי.",
       "link": "https://www.cnbc.com/2026/06/24/nvidia-huang-data-center-smuggled-chips.html",
       "image_url": null,
       "pub_date": "Wed, 24 Jun 2026 18:22:40 GMT",
       "author": null,
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-24T19:12:59.267Z",
       "created_at": "2026-06-24T19:12:59.267Z"
