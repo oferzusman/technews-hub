@@ -265792,6 +265792,328 @@
       "priority": "hot",
       "fetchedAt": "2026-06-25T09:49:23.108Z",
       "created_at": "2026-06-25T09:49:23.108Z"
+    },
+    {
+      "id": 12627,
+      "source": "Ars Technica",
+      "title_en": "IBM claims world’s first sub-1 nanometer chip technology",
+      "description_en": "IBM’s nanostack transistors could boost chip performance or energy efficiency.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Sub-1nm-node-chip-3-e1782339299592-1152x648.jpg",
+      "pub_date": "Thu, 25 Jun 2026 10:00:55 +0000",
+      "author": "\n                    Jeremy Hsu\n                ",
+      "categories": [
+        "AI",
+        "Tech",
+        "ai data centers",
+        "Artificial Intelligence",
+        "chip fab",
+        "chip fabrication",
+        "chip technology",
+        "chips",
+        "ibm",
+        "Transistors"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-25T11:15:25.882Z",
+      "created_at": "2026-06-25T11:15:25.882Z"
+    },
+    {
+      "id": 12628,
+      "source": "The Decoder",
+      "title_en": "Meta employees warn AI moderation rollout is too fast",
+      "description_en": "By 2025, Meta will have already replaced about half of all human moderation requests with large language models and aims to increase that percentage to over 90 percent for certain types of content by the end of the year.\nThe article Meta employees warn AI moderation rollout is too fast appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/meta-employees-warn-ai-moderation-rollout-is-too-fast/",
+      "image_url": null,
+      "pub_date": "Thu, 25 Jun 2026 10:07:19 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Meta"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-25T11:15:27.347Z",
+      "created_at": "2026-06-25T11:15:27.347Z"
+    },
+    {
+      "id": 12629,
+      "source": "The Decoder",
+      "title_en": "Google keeps losing top AI researchers to rivals",
+      "description_en": "Google appears to be hemorrhaging key AI researchers to competitors. \nThe article Google keeps losing top AI researchers to rivals appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/google-keeps-losing-top-ai-researchers-to-rivals/",
+      "image_url": null,
+      "pub_date": "Thu, 25 Jun 2026 10:04:32 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Anthropic",
+        "Google",
+        "Google Deepmind"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-25T11:15:27.347Z",
+      "created_at": "2026-06-25T11:15:27.347Z"
+    },
+    {
+      "id": 12630,
+      "source": "The Decoder",
+      "title_en": "Qualcomm enters the data center market with its own processor",
+      "description_en": "Qualcomm is pushing further into the data center market with a new processor called the Dragonfly C1000.\nThe article Qualcomm enters the data center market with its own processor appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/qualcomm-enters-the-data-center-market-with-its-own-processor/",
+      "image_url": null,
+      "pub_date": "Thu, 25 Jun 2026 10:03:21 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Qualcomm"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-25T11:15:27.347Z",
+      "created_at": "2026-06-25T11:15:27.347Z"
+    },
+    {
+      "id": 12631,
+      "source": "MIT Technology Review",
+      "title_en": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+      "description_en": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to come. For more than half…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+      "image_url": null,
+      "pub_date": "Thu, 25 Jun 2026 10:00:00 +0000",
+      "author": "Sophia Chen",
+      "categories": [
+        "Computing",
+        "App"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-25T11:15:27.430Z",
+      "created_at": "2026-06-25T11:15:27.430Z"
+    },
+    {
+      "id": 12632,
+      "source": "The Guardian AI",
+      "title_en": "Datacentres facing increase in global climate-related legal cases, report finds",
+      "description_en": "LSE analysis highlights litigation linked to energy sources, water consumption and air pollution\nThe proliferation of datacentres and AI is increasingly at the forefront of environmental litigation around the world from Chile to Ireland, a report has found.\nIn an analysis of about 3,600 climate-related lawsuits filed since 2015, the latest annual review of climate litigation by the London School of Economics (LSE) found a growing number of cases challenging the energy sources, water consumption ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/environment/2026/jun/25/datacentres-facing-increase-in-global-climate-related-legal-cases-report-finds",
+      "image_url": "https://i.guim.co.uk/img/media/2afc5aee674458b011367ab1b481dc030edca6bd/585_0_3712_2970/master/3712.jpg?width=140&quality=85&auto=format&fit=max&s=208413d52229cc3d7b3b389f1fbfa3ce",
+      "pub_date": "Thu, 25 Jun 2026 10:03:54 GMT",
+      "author": "Isabella Kaminski",
+      "categories": [
+        {
+          "_": "Environment",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/environment"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Google",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/google"
+          }
+        },
+        {
+          "_": "Datacenters",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/datacenters--us-"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Air pollution",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/air-pollution"
+          }
+        },
+        {
+          "_": "Chile",
+          "$": {
+            "domain": "https://www.theguardian.com/world/chile"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Ireland",
+          "$": {
+            "domain": "https://www.theguardian.com/world/ireland"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Climate crisis",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/climate-crisis"
+          }
+        },
+        {
+          "_": "Law",
+          "$": {
+            "domain": "https://www.theguardian.com/law/law"
+          }
+        },
+        {
+          "_": "Regulators",
+          "$": {
+            "domain": "https://www.theguardian.com/business/regulators"
+          }
+        },
+        {
+          "_": "Americas",
+          "$": {
+            "domain": "https://www.theguardian.com/world/americas"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Europe",
+          "$": {
+            "domain": "https://www.theguardian.com/world/europe-news"
+          }
+        },
+        {
+          "_": "Fossil fuels",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/fossil-fuels"
+          }
+        },
+        {
+          "_": "Energy",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/energy"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-25T11:15:28.037Z",
+      "created_at": "2026-06-25T11:15:28.037Z"
+    },
+    {
+      "id": 12633,
+      "source": "Tom's Hardware",
+      "title_en": "Steam Machines will only come with one 16GB stick of RAM — company may change this to two 8GB sticks in the future, but the first batch of consoles is limited to single-channel memory",
+      "description_en": "Valve confirmed to Gamers Nexus that the first batch of Steam Machines will only have one 16GB RAM stick. This would have a negative effect on the console's performance, but the company likely did this to keep its price as low as possible, or because it's the only available option left for the company.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/console-gaming/steam-machines-will-only-come-with-one-16gb-stick-of-ram-company-may-change-this-to-two-8gb-sticks-in-the-future-but-the-first-batch-of-consoles-is-limited-to-single-channel-memory",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/rCymYZz4VXzAiWbArHSMPY-1280-80.jpg",
+      "pub_date": "Thu, 25 Jun 2026 10:33:57 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Console Gaming",
+        "Video Games"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-25T11:15:29.114Z",
+      "created_at": "2026-06-25T11:15:29.114Z"
+    },
+    {
+      "id": 12634,
+      "source": "Tom's Hardware",
+      "title_en": "Qualcomm reveals HBC near-memory AI architecture, AI250 and AI350 accelerators — touts 6x higher bandwidth-per-watt compared to HBM, 200x capacity compared to on-chip SRAM",
+      "description_en": "Qualcomm unveils HBC near-memory AI architecture, claims it has broken the memory wall.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/qualcomm-reveals-hbc-near-memory-ai-architecture-ai250-and-ai350-accelerators-touts-6x-higher-bandwidth-per-watt-compared-to-hbm-200x-capacity-compared-to-on-chip-sram",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/zczSw5Asj7kMMeQPieGJhV-1280-80.jpg",
+      "pub_date": "Thu, 25 Jun 2026 10:00:00 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-25T11:15:29.114Z",
+      "created_at": "2026-06-25T11:15:29.114Z"
+    },
+    {
+      "id": 12635,
+      "source": "CNBC Tech",
+      "title_en": "TikTok and YouTube are reinventing sports viewership. Broadcasters are taking note",
+      "description_en": "Leagues, teams and media networks are increasingly meeting younger fans on social media as platforms like TikTok, Roblox and YouTube capture most of their time.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/06/25/tiktok-youtube-sports-viewership.html",
+      "image_url": null,
+      "pub_date": "Thu, 25 Jun 2026 11:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-25T11:15:29.118Z",
+      "created_at": "2026-06-25T11:15:29.118Z"
+    },
+    {
+      "id": 12636,
+      "source": "XOR Journal (TG)",
+      "title_en": "Пу-пу-пу: Минцифры обратилось в ФАС из-за действий Apple.Компания не выполняет требования закона о предустановке российского магазина приложений на своих устройствах. Все остальные производители уже в",
+      "description_en": "Пу-пу-пу: Минцифры обратилось в ФАС из-за действий Apple.Компания не выполняет требования закона о предустановке российского магазина приложений на своих устройствах. Все остальные производители уже выполнили это требование, а Apple — нет.Теперь Apple могут запретить в России? 🥲@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/9591",
+      "image_url": "https://cdn4.telesco.pe/file/MQ3rvEbIpW7A7-mGsviHuLaaXTq8nE8vuyWuxCPxV7IyQVG41u0khXNnwza5e4h6PS2D1zIP6UjvQCrWp4-FgCrbiE-YQREJ_VkRvNyCjqjcRDlBMWyp4ZMyZcfcvWOqsuY3Hd5RkeYl-SUWoLpwsVI83F2s_6MyXnUiLUL5NuMMQ2Z0A95NcvGEq1BwlD6s0RUnfiGROk5sd21HMOYL3bA-eX7UzzJ5zwdiA8NPwZckBztBtA5RMtG3gMLTymVAL3AVHNuQB3FX2ayJDn1jAJ9Z7MqZQAwwlJiQsO7W01G3qsXVOoVQKx9MOUA6V4iizkbkSRmKbTx5EshTjgIEyA.jpg",
+      "pub_date": "2026-06-25T10:45:10+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-25T11:15:30.351Z",
+      "created_at": "2026-06-25T11:15:30.351Z"
     }
   ]
 }
