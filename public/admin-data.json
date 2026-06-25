@@ -1,9 +1,9 @@
 {
-  "total": 12602,
-  "translated": 12600,
+  "total": 12605,
+  "translated": 12603,
   "untranslated": 2,
-  "today": 11,
-  "week": 574,
+  "today": 14,
+  "week": 577,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 1069,
-      "translated": 1069,
+      "total": 1070,
+      "translated": 1070,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -91,9 +91,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 344,
-      "translated": 343,
-      "lastDate": "2026-06-24T21:25:02+00:00"
+      "total": 345,
+      "translated": 344,
+      "lastDate": "2026-06-25T06:45:30+00:00"
     },
     {
       "name": "Futurism",
@@ -127,9 +127,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 145,
-      "translated": 145,
-      "lastDate": "2026-06-24T14:09:02+00:00"
+      "total": 146,
+      "translated": 146,
+      "lastDate": "2026-06-25T06:19:40+00:00"
     },
     {
       "name": "AI News",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-25T06:21:12.749Z"
+  "generatedAt": "2026-06-25T06:49:40.149Z"
 }
