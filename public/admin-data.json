@@ -1,9 +1,9 @@
 {
-  "total": 12626,
-  "translated": 12624,
+  "total": 12636,
+  "translated": 12634,
   "untranslated": 2,
-  "today": 35,
-  "week": 598,
+  "today": 45,
+  "week": 608,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 1071,
-      "translated": 1071,
+      "total": 1073,
+      "translated": 1073,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 738,
-      "translated": 738,
+      "total": 739,
+      "translated": 739,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 568,
-      "translated": 568,
+      "total": 571,
+      "translated": 571,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 551,
-      "translated": 551,
+      "total": 552,
+      "translated": 552,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -67,8 +67,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 454,
-      "translated": 454,
+      "total": 455,
+      "translated": 455,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -84,16 +84,16 @@
       "lastDate": "2026-06-25T09:06:19.000Z"
     },
     {
+      "name": "XOR Journal (TG)",
+      "total": 349,
+      "translated": 348,
+      "lastDate": "2026-06-25T10:45:10+00:00"
+    },
+    {
       "name": "MarkTechPost",
       "total": 348,
       "translated": 348,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
-    },
-    {
-      "name": "XOR Journal (TG)",
-      "total": 348,
-      "translated": 347,
-      "lastDate": "2026-06-25T09:10:37+00:00"
     },
     {
       "name": "Futurism",
@@ -109,8 +109,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 210,
-      "translated": 210,
+      "total": 211,
+      "translated": 211,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-25T11:07:49.210Z"
+  "generatedAt": "2026-06-25T11:17:13.025Z"
 }
