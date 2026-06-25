@@ -1,9 +1,9 @@
 {
-  "total": 12698,
-  "translated": 12696,
+  "total": 12702,
+  "translated": 12700,
   "untranslated": 2,
-  "today": 107,
-  "week": 670,
+  "today": 111,
+  "week": 674,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 742,
-      "translated": 742,
+      "total": 743,
+      "translated": 743,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -79,15 +79,15 @@
     },
     {
       "name": "The Verge AI",
-      "total": 390,
-      "translated": 390,
-      "lastDate": "2026-06-25T12:00:00.000Z"
+      "total": 391,
+      "translated": 391,
+      "lastDate": "2026-06-25T21:57:06.000Z"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 352,
-      "translated": 351,
-      "lastDate": "2026-06-25T16:57:09+00:00"
+      "total": 353,
+      "translated": 352,
+      "lastDate": "2026-06-25T22:20:09+00:00"
     },
     {
       "name": "MarkTechPost",
@@ -115,9 +115,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 199,
-      "translated": 199,
-      "lastDate": "2026-06-25T17:52:11+00:00"
+      "total": 200,
+      "translated": 200,
+      "lastDate": "2026-06-25T21:53:24+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-25T22:06:31.278Z"
+  "generatedAt": "2026-06-25T22:24:25.510Z"
 }
