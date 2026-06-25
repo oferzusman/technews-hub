@@ -266628,6 +266628,164 @@
       "priority": "hot",
       "fetchedAt": "2026-06-25T15:10:12.173Z",
       "created_at": "2026-06-25T15:10:12.173Z"
+    },
+    {
+      "id": 12664,
+      "source": "TechCrunch AI",
+      "title_en": "From Fortnite to robots: General Intuition raises $2.3B on bet that video games can train AI agents for the real world",
+      "description_en": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "image_url": null,
+      "pub_date": "Thu, 25 Jun 2026 16:00:00 +0000",
+      "author": "Rebecca Bellan",
+      "categories": [
+        "Startups",
+        "AI",
+        "Robotics",
+        "Fundraising",
+        "Khosla Ventures",
+        "AI training data",
+        "world models",
+        "general intuition"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-25T16:23:34.947Z",
+      "created_at": "2026-06-25T16:23:34.947Z"
+    },
+    {
+      "id": 12665,
+      "source": "The Decoder",
+      "title_en": "Most major AI chatbots still lean left on political questions, even \"anti-woke\" models are no exception",
+      "description_en": "A Washington Post investigation shows that most major AI chatbots still skew left on political questions. OpenAI's GPT-5.5 gave exclusively left-leaning arguments 80 percent of the time, and even Musk's Grok, marketed as anti-\"woke,\" leaned left more often than not. The one outlier: Google's Gemini 3.1 Pro presented both sides 93 percent of the time.\nThe article Most major AI chatbots still lean left on political questions, even \"anti-woke\" models are no exception appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception/",
+      "image_url": null,
+      "pub_date": "Thu, 25 Jun 2026 16:04:32 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Chatbot",
+        "Gemini"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-25T16:23:36.475Z",
+      "created_at": "2026-06-25T16:23:36.475Z"
+    },
+    {
+      "id": 12666,
+      "source": "Hugging Face Blog",
+      "title_en": "Which tokens does a hybrid model predict better?",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "image_url": null,
+      "pub_date": "Thu, 25 Jun 2026 16:11:42 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-25T16:23:36.811Z",
+      "created_at": "2026-06-25T16:23:36.811Z"
+    },
+    {
+      "id": 12667,
+      "source": "Google AI Blog",
+      "title_en": "Our latest Google Finance upgrades, including a new app",
+      "description_en": "The new Google Finance is coming out of beta and launching a new Android app.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp",
+      "pub_date": "Thu, 25 Jun 2026 16:00:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Barine Tee"
+        ],
+        "title": [
+          "Principal Engineer"
+        ],
+        "department": [
+          "Search"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Search",
+        "AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-25T16:23:36.908Z",
+      "created_at": "2026-06-25T16:23:36.908Z"
+    },
+    {
+      "id": 12668,
+      "source": "Tom's Hardware",
+      "title_en": "Beat Apple's price increases on new MacBooks with these stellar deals that can save you up to $500 — big sale on current-gen Pro, Air, and Neo models, avoid new price hikes with extra discounts on top",
+      "description_en": "Apple is raising MacBook pricing by hundreds of dollars, but these sale week deals are still live, so grab a bargain while you can.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/laptops/macbooks/beat-apples-price-increases-on-new-macbooks-with-these-stellar-deals-that-can-save-you-up-to-usd500-big-sale-on-current-gen-pro-air-and-neo-models-avoid-new-price-hikes-with-extra-discounts-on-top",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/hMSEhMyg6RHppWHtbpGR6A-1280-80.png",
+      "pub_date": "Thu, 25 Jun 2026 16:02:19 +0000",
+      "author": " Ben Stockton ",
+      "categories": [
+        "Macbooks",
+        "Laptops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-25T16:23:39.396Z",
+      "created_at": "2026-06-25T16:23:39.396Z"
+    },
+    {
+      "id": 12669,
+      "source": "Tom's Hardware",
+      "title_en": "The AI tokenmaxxing party is crashing over spiraling costs — leaked consulting firm audio suggests no one is sure how to measure AI effectiveness",
+      "description_en": "A recording from a meeting at consulting firm Accenture has raised concerns over how much companies are spending on AI. As companies bullish on AI rush to take advantage of the technology, solutions to out of control token spend could see non-technical employees encouraged to stop using it for spurious tasks.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/the-ai-tokenmaxxing-party-is-crashing-over-spiraling-costs-leaked-consulting-firm-audio-suggests-no-one-is-sure-how-to-measure-ai-effectiveness",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/S6bHxPRxhtXuCcEn3JaCjZ-1280-80.jpg",
+      "pub_date": "Thu, 25 Jun 2026 15:27:41 +0000",
+      "author": " Jon Martindale ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-25T16:23:39.396Z",
+      "created_at": "2026-06-25T16:23:39.396Z"
+    },
+    {
+      "id": 12670,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🔍 В MIT перенесли УЗИ в виртуальную реальностьИсследователи MIT разработали систему УЗИ, которая выводит объемное изображение прямо в AR-гарнитуру, давая врачу практически «рентгеновское зрение».Обыч",
+      "description_en": "🔍 В MIT перенесли УЗИ в виртуальную реальностьИсследователи MIT разработали систему УЗИ, которая выводит объемное изображение прямо в AR-гарнитуру, давая врачу практически «рентгеновское зрение».Обычное УЗИ показывает плоскую картинку, и специалист должен мысленно собирать из набора 2D-срезов трехмерный образ. Это сложный навык, которому долго учатся. 💻 Новая система AR-VIU работает иначе. Специальный датчик передает данные в графический движок Unreal Engine, который строит 3D-модель в реально",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3348",
+      "image_url": null,
+      "pub_date": "2026-06-25T16:04:57+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-06-25T16:23:45.231Z",
+      "created_at": "2026-06-25T16:23:45.231Z"
     }
   ]
 }
