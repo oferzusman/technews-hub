@@ -1,9 +1,9 @@
 {
-  "total": 12615,
-  "translated": 12613,
+  "total": 12626,
+  "translated": 12624,
   "untranslated": 2,
-  "today": 24,
-  "week": 587,
+  "today": 35,
+  "week": 598,
   "sources": [
     {
       "name": "Product Hunt",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Tom's Hardware",
-      "total": 1070,
-      "translated": 1070,
+      "total": 1071,
+      "translated": 1071,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 991,
-      "translated": 991,
+      "total": 992,
+      "translated": 992,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -37,14 +37,14 @@
     },
     {
       "name": "The Decoder",
-      "total": 567,
-      "translated": 567,
+      "total": 568,
+      "translated": 568,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 560,
-      "translated": 560,
+      "total": 561,
+      "translated": 561,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -55,9 +55,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 479,
-      "translated": 478,
-      "lastDate": "2026-06-25T06:11:01+00:00"
+      "total": 480,
+      "translated": 479,
+      "lastDate": "2026-06-25T09:31:38+00:00"
     },
     {
       "name": "Pypi.org",
@@ -73,15 +73,15 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 393,
-      "translated": 393,
+      "total": 394,
+      "translated": 394,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
       "name": "The Verge AI",
-      "total": 388,
-      "translated": 388,
-      "lastDate": "2026-06-24T19:36:46.000Z"
+      "total": 389,
+      "translated": 389,
+      "lastDate": "2026-06-25T09:06:19.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -91,9 +91,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 346,
-      "translated": 345,
-      "lastDate": "2026-06-25T08:11:29+00:00"
+      "total": 348,
+      "translated": 347,
+      "lastDate": "2026-06-25T09:10:37+00:00"
     },
     {
       "name": "Futurism",
@@ -115,9 +115,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 193,
-      "translated": 193,
-      "lastDate": "2026-06-24T16:27:42+00:00"
+      "total": 194,
+      "translated": 194,
+      "lastDate": "2026-06-25T09:05:16+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -127,9 +127,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 146,
-      "translated": 146,
-      "lastDate": "2026-06-25T06:19:40+00:00"
+      "total": 147,
+      "translated": 147,
+      "lastDate": "2026-06-25T08:59:57+00:00"
     },
     {
       "name": "AI News",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-25T08:25:46.624Z"
+  "generatedAt": "2026-06-25T09:51:08.030Z"
 }
