@@ -1,7 +1,7 @@
 {
   "total": 12687,
-  "translated": 12680,
-  "untranslated": 7,
+  "translated": 12685,
+  "untranslated": 2,
   "today": 96,
   "week": 659,
   "sources": [
@@ -20,19 +20,19 @@
     {
       "name": "Interesting Engineering",
       "total": 994,
-      "translated": 993,
+      "translated": 994,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
       "total": 742,
-      "translated": 741,
+      "translated": 742,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
       "total": 691,
-      "translated": 690,
+      "translated": 691,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -44,7 +44,7 @@
     {
       "name": "New Atlas",
       "total": 565,
-      "translated": 564,
+      "translated": 565,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -116,7 +116,7 @@
     {
       "name": "Backdoor (TG)",
       "total": 199,
-      "translated": 198,
+      "translated": 199,
       "lastDate": "2026-06-25T17:52:11+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-25T19:22:34.616Z"
+  "generatedAt": "2026-06-25T19:22:52.365Z"
 }
