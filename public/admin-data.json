@@ -1,7 +1,7 @@
 {
   "total": 12642,
-  "translated": 12634,
-  "untranslated": 8,
+  "translated": 12640,
+  "untranslated": 2,
   "today": 51,
   "week": 614,
   "sources": [
@@ -26,19 +26,19 @@
     {
       "name": "CNBC Tech",
       "total": 740,
-      "translated": 739,
+      "translated": 740,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
       "total": 684,
-      "translated": 683,
+      "translated": 684,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "The Decoder",
       "total": 572,
-      "translated": 571,
+      "translated": 572,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -80,7 +80,7 @@
     {
       "name": "The Verge AI",
       "total": 390,
-      "translated": 389,
+      "translated": 390,
       "lastDate": "2026-06-25T12:00:00.000Z"
     },
     {
@@ -128,7 +128,7 @@
     {
       "name": "Hi, AI Russian (TG)",
       "total": 148,
-      "translated": 147,
+      "translated": 148,
       "lastDate": "2026-06-25T12:02:01+00:00"
     },
     {
@@ -158,7 +158,7 @@
     {
       "name": "Habr (TG)",
       "total": 88,
-      "translated": 87,
+      "translated": 88,
       "lastDate": "2026-06-25T11:46:44+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-25T12:12:04.225Z"
+  "generatedAt": "2026-06-25T12:12:30.110Z"
 }
