@@ -1,14 +1,14 @@
 {
-  "total": 12763,
-  "translated": 12761,
+  "total": 12767,
+  "translated": 12765,
   "untranslated": 2,
-  "today": 57,
-  "week": 652,
+  "today": 61,
+  "week": 656,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1089,
-      "translated": 1089,
+      "total": 1090,
+      "translated": 1090,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 579,
-      "translated": 579,
+      "total": 580,
+      "translated": 580,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -115,9 +115,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 202,
-      "translated": 202,
-      "lastDate": "2026-06-26T14:48:39+00:00"
+      "total": 203,
+      "translated": 203,
+      "lastDate": "2026-06-26T15:27:50+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -180,16 +180,16 @@
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
+      "name": "Data Science ODS.ai (TG)",
+      "total": 55,
+      "translated": 55,
+      "lastDate": "2026-06-26T15:12:52+00:00"
+    },
+    {
       "name": "Github.com",
       "total": 54,
       "translated": 54,
       "lastDate": "2026-04-09T06:45:21Z"
-    },
-    {
-      "name": "Data Science ODS.ai (TG)",
-      "total": 54,
-      "translated": 54,
-      "lastDate": "2026-06-26T11:45:20+00:00"
     },
     {
       "name": "Prompt AI News (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-26T15:37:32.603Z"
+  "generatedAt": "2026-06-26T15:38:56.787Z"
 }
