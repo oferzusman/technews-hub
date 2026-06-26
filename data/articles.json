@@ -267900,8 +267900,8 @@
       "source": "The Decoder",
       "title_en": "Linux Foundation and 20 tech giants launch Akrites to fix open-source flaws before AI-powered attacks hit",
       "description_en": "About twenty tech companies, AI labs, and banks are joining forces through Akrites to fix vulnerabilities in critical open-source software before AI tools can exploit them.\nThe article Linux Foundation and 20 tech giants launch Akrites to fix open-source flaws before AI-powered attacks hit appeared first on The Decoder.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "קרן Linux וענקיות טכנולוגיה משיקות את Akrites כדי לתקן חולשות בקוד פתוח לפני שכלים AI יתקפו",
+      "description_he": "בדיוק כשחשבנו שיש מספיק דאגות סיביוריות, הגיעה עוד אחת: עשרים חברות טק, מעבדות AI וגם בנקים התיישבו בשולחן אחד כדי להקים את Akrites - ארגון שמטרתו למצוא וללתקן חולשות בתוכנות open-source קריטיות לפני שכלי AI צופים בהן כמו סלט שאינו מוגן. במילים אחרות, המירוץ בין האמצעים ההגנתיים למתקפות עברה לשלב חדש כולל בחירות עתידניות.",
       "link": "https://the-decoder.com/linux-foundation-and-20-tech-giants-launch-akrites-to-fix-open-source-flaws-before-ai-powered-attacks-hit/",
       "image_url": null,
       "pub_date": "Fri, 26 Jun 2026 10:07:05 +0000",
@@ -267912,7 +267912,7 @@
         "Cybersecurity",
         "Linux Foundation"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-26T10:12:37.089Z",
       "created_at": "2026-06-26T10:12:37.089Z"
@@ -267922,8 +267922,8 @@
       "source": "The Decoder",
       "title_en": "OpenAI's GPT 5.6 rollout now requires US government approval on a \"customer by customer basis\"",
       "description_en": "At the request of the U.S. government, OpenAI will initially make its new GPT-5.6 model available only to select partners, with access approved on a \"customer by customer\" basis. CEO Sam Altman says this isn't a \"preferred long term model.\" After the forced takedown of Anthropic's Fable, AI labs are afraid of a de facto licensing regime for AI models.\nThe article OpenAI's GPT 5.6 rollout now requires US government approval on a \"customer by customer basis\" appeared first on The Decoder.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "GPT 5.6 של OpenAI דורש אישור ממשלתי אמריקאי לכל לקוח בנפרד",
+      "description_he": "OpenAI יחויבת לשחרר את המודל החדש GPT-5.6 רק ללקוחות נבחרים עם אישור ממשלתי אישי, לפי בקשת הממשלה האמריקאית. סאם אלטמן הבהיר שזה לא הסדר שהחברה רוצה לטווח ארוך, אבל אחרי הקריסה של Fable של Anthropic, חברות AI פוחדות מרגים של רישוי חובה על מודלים. זה עוד הוכחה על הלחץ ההולך וגדל מהממשל על יצרני ה-AI.",
       "link": "https://the-decoder.com/openais-gpt-5-6-rollout-now-requires-us-government-approval-on-a-customer-by-customer-basis/",
       "image_url": null,
       "pub_date": "Fri, 26 Jun 2026 08:35:35 +0000",
@@ -267934,7 +267934,7 @@
         "Anthropic",
         "OpenAI"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-26T10:12:37.089Z",
       "created_at": "2026-06-26T10:12:37.089Z"
@@ -267944,8 +267944,8 @@
       "source": "MIT Technology Review",
       "title_en": "Heat waves mess with your brain. Scientists are trying to figure out why.",
       "description_en": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures in…",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "הגלים חום פוגעים במוח שלך. מדענים מנסים להבין למה",
+      "description_he": "גל החום שפוגע באירופה המערבית לא מעניין רק את תחזוקות מזג האוויר - הוא גם משפיע על המוח שלנו באופנים שחוקרים עדיין מנסים לפענח. כשטמפרטורות קיצוניות כמו אלה שנרשמו בלונדון (36.1 מעלות צלזיוס וטובה!) חוברות לגוף שלנו, זה לא רק עניין של התייבשות - יש השלכות קוגניטיביות אמיתיות שמתחילות להיות ברורות למדע. מתברר שהחום הקיצוני משפיע על תפקוד המוח באופנים שיכולים להיות די מחשמלים.",
       "link": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
       "image_url": null,
       "pub_date": "Fri, 26 Jun 2026 09:00:00 +0000",
@@ -267956,7 +267956,7 @@
         "Summary",
         "The Checkup"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-26T10:12:37.114Z",
       "created_at": "2026-06-26T10:12:37.114Z"
@@ -267966,8 +267966,8 @@
       "source": "MarkTechPost",
       "title_en": "Meet container: Apple’s Open-Source Swift Tool for Running Linux Containers as Lightweight VMs on Apple Silicon",
       "description_en": "Apple released container 1.0, an open-source Swift tool running Linux containers as lightweight virtual machines on Apple silicon.\nThe post Meet container: Apple’s Open-Source Swift Tool for Running Linux Containers as Lightweight VMs on Apple Silicon appeared first on MarkTechPost.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "Container: הכלי החדש של אפל להרצת Linux Containers כמו מכונות וירטואליות קלילות ב-Apple Silicon",
+      "description_he": "אפל השיקה את container 1.0, כלי open-source כתוב ב-Swift שמאפשר להריץ Linux containers כמו VMs קלילות ישירות על Apple silicon. זה אומר שמפתחים בעלי Mac M1/M2/M3 יוכלו סוף סוף להריץ סביבות לינוקס מלאות בלי השכמלות של וירטואליזציה כבדה, וזה עוד דוגמה לאפל שמנסה לאפ״ל בעצמה לגלויות של קהילת ה-open-source.",
       "link": "https://www.marktechpost.com/2026/06/26/meet-container-apples-open-source-swift-tool-for-running-linux-containers-as-lightweight-vms-on-apple-silicon/",
       "image_url": null,
       "pub_date": "Fri, 26 Jun 2026 08:48:39 +0000",
@@ -267989,7 +267989,7 @@
         "Tech News",
         "Technology"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-26T10:12:37.794Z",
       "created_at": "2026-06-26T10:12:37.794Z"
@@ -267999,14 +267999,14 @@
       "source": "New Atlas",
       "title_en": "Midjourney's ambitious full-body 'scan spa' sounds almost too good to be true",
       "description_en": "A company known for its AI image generation has made a surprise pivot – to consumer healthcare. Midjourney has announced it will offer a \"new form of medical imaging\" using echolocation to map the body, in a day-spa setting, with the first center to open to the public in 2027.\nContinue Reading\nCategory: AI in Health, Medical Innovations, Body and Mind\nTags: Artificial Intelligence, Diagnostic devices, MRI, scanning, Health, Chronic illness, Disease, Age-Related, anti-aging",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "חלום או מציאות? מידג'ורני נכנסת לעולם הבדיקות הרפואיות עם 'ספא סריקה'",
+      "description_he": "מידג'ורני, החברה המוכרת בעולם ה-AI ליצירת תמונות, עשתה פיתול מפתיע לכיוון הבריאות והרפואה. הם הכריזו על 'צורה חדשה של הדמיה רפואית' באמצעות אקולוקציה שתמפה את הגוף בסביבת ספא יוקסה, והמרכז הראשון צפוי להיפתח לציבור ב-2027. זה נשמע כמו מדע בדיוני, אבל נראה שהם למדים.",
       "link": "https://newatlas.com/medical-ai/midjourney-full-body-scan-spa-ai/",
       "image_url": null,
       "pub_date": "Fri, 26 Jun 2026 08:17:00 GMT",
       "author": "Bronwyn Thompson",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-26T10:12:37.937Z",
       "created_at": "2026-06-26T10:12:37.937Z"
@@ -268016,8 +268016,8 @@
       "source": "Interesting Engineering",
       "title_en": "BMW’s smart factory in US gets Figure 03 humanoid robot for advanced logistics work",
       "description_en": "BMW Group has expanded its use of Physical AI in manufacturing by introducing the next-generation...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "BMW משתלבת רובוט הומנואידי Figure 03 בפbrussels החכמה שלה בארה\"ב לעבודות לוגיסטיקה מתקדמות",
+      "description_he": "BMW Group מרחיבה את השימוש שלה ב-Physical AI בייצור על ידי הכנסת הדור הבא של הרובוטים ההומנואידיים. Figure 03 יוגדר בפברית החכמה של BMW בארה\"ב כדי להתמודד עם משימות לוגיסטיקה מורכבות שדורשות גמישות ודיוק גבוה - משהו שמטוטלת רובוטיקה סטנדרטית פחות טובה בו. זה עוד סימן לאיך שחברות יצור גדולות מתחילות להבין שרובוטים הומנואידיים הם לא סתם טרנד, אלא כלי ממשי לייעול הייצור בעתיד.",
       "link": "https://interestingengineering.com/ai-robotics/bmw-figure-03-humanoid-robot-smart-factory-us",
       "image_url": "https://www.youtube.com/embed/bCkl9hIEb6k",
       "pub_date": "Fri, 26 Jun 2026 08:54:43 +0000",
@@ -268025,7 +268025,7 @@
       "categories": [
         "AI and Robotics"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-26T10:12:38.866Z",
       "created_at": "2026-06-26T10:12:38.866Z"
@@ -268035,8 +268035,8 @@
       "source": "Tom's Hardware",
       "title_en": "Keep your gaming keyboard and PC fans clean with these electric air blower deals, starting from $17 — high-RPM cordless air dusters are great replacements for canned air to blast away the dust and dirt",
       "description_en": "Prime Day is the perfect time to pick up an air blower to deal with grime and dust in your PC fans, keyboard keys, and elsewhere.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "שמרו על לוח המקלדת וקירור המחשב נקיים - עסקאות על מנשבי אוויר חשמליים החל מ-17 דולר",
+      "description_he": "Prime Day זו ההזדמנות המושלמת לתפוס מנשב אוויר שיסיר עם זריחת השמש את כל האבק והלכלוך שנצברו בפנים המחשב, המקלדת והמקומות הקשים לניקוי. בדילים החדשים תוכלו למצוא מנשבים אלחוטיים בעלי סל״ד גבוה שיעבדו הרבה יותר טוב מ-canned air הישנים שלכם.",
       "link": "https://www.tomshardware.com/peripherals/keep-your-gaming-keyboard-and-pc-fans-clean-with-these-electric-air-blower-deals-starting-from-usd17-high-rpm-cordless-air-dusters-are-great-replacements-for-canned-air-to-blast-away-the-dust-and-dirt",
       "image_url": "https://cdn.mos.cms.futurecdn.net/yBSSWggcLyfbdmJMngDiYF-1280-80.png",
       "pub_date": "Fri, 26 Jun 2026 09:21:30 +0000",
@@ -268044,7 +268044,7 @@
       "categories": [
         "Peripherals"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-06-26T10:12:39.134Z",
       "created_at": "2026-06-26T10:12:39.134Z"
