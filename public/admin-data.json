@@ -1,9 +1,9 @@
 {
-  "total": 12809,
-  "translated": 12807,
+  "total": 12811,
+  "translated": 12809,
   "untranslated": 2,
-  "today": 103,
-  "week": 698,
+  "today": 105,
+  "week": 700,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -49,8 +49,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 557,
-      "translated": 557,
+      "total": 558,
+      "translated": 558,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -85,9 +85,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 358,
-      "translated": 357,
-      "lastDate": "2026-06-26T17:17:18+00:00"
+      "total": 359,
+      "translated": 358,
+      "lastDate": "2026-06-26T21:05:03+00:00"
     },
     {
       "name": "MarkTechPost",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-26T20:59:11.099Z"
+  "generatedAt": "2026-06-26T21:20:01.672Z"
 }
