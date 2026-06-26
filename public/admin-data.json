@@ -1,9 +1,9 @@
 {
-  "total": 12812,
-  "translated": 12810,
+  "total": 12815,
+  "translated": 12813,
   "untranslated": 2,
-  "today": 106,
-  "week": 701,
+  "today": 109,
+  "week": 704,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 753,
-      "translated": 753,
+      "total": 754,
+      "translated": 754,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 558,
-      "translated": 558,
+      "total": 559,
+      "translated": 559,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -115,9 +115,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 205,
-      "translated": 205,
-      "lastDate": "2026-06-26T17:28:42+00:00"
+      "total": 206,
+      "translated": 206,
+      "lastDate": "2026-06-26T22:16:11+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-26T22:01:50.360Z"
+  "generatedAt": "2026-06-26T22:19:08.635Z"
 }
