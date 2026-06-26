@@ -1,14 +1,14 @@
 {
-  "total": 12734,
-  "translated": 12732,
+  "total": 12739,
+  "translated": 12737,
   "untranslated": 2,
-  "today": 28,
-  "week": 623,
+  "today": 33,
+  "week": 628,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1085,
-      "translated": 1085,
+      "total": 1086,
+      "translated": 1086,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 744,
-      "translated": 744,
+      "total": 745,
+      "translated": 745,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 570,
-      "translated": 570,
+      "total": 571,
+      "translated": 571,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -55,9 +55,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 487,
-      "translated": 486,
-      "lastDate": "2026-06-26T07:32:01+00:00"
+      "total": 488,
+      "translated": 487,
+      "lastDate": "2026-06-26T10:42:46+00:00"
     },
     {
       "name": "Pypi.org",
@@ -85,9 +85,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 354,
-      "translated": 353,
-      "lastDate": "2026-06-26T07:13:05+00:00"
+      "total": 355,
+      "translated": 354,
+      "lastDate": "2026-06-26T10:15:24+00:00"
     },
     {
       "name": "MarkTechPost",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-26T10:15:40.495Z"
+  "generatedAt": "2026-06-26T10:52:24.149Z"
 }
