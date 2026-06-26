@@ -1,9 +1,9 @@
 {
-  "total": 12739,
-  "translated": 12737,
+  "total": 12741,
+  "translated": 12739,
   "untranslated": 2,
-  "today": 33,
-  "week": 628,
+  "today": 35,
+  "week": 630,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -115,9 +115,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 200,
-      "translated": 200,
-      "lastDate": "2026-06-25T21:53:24+00:00"
+      "total": 201,
+      "translated": 201,
+      "lastDate": "2026-06-26T10:52:15+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -127,9 +127,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 153,
-      "translated": 153,
-      "lastDate": "2026-06-26T06:46:29+00:00"
+      "total": 154,
+      "translated": 154,
+      "lastDate": "2026-06-26T11:11:47+00:00"
     },
     {
       "name": "AI News",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-26T10:53:18.538Z"
+  "generatedAt": "2026-06-26T11:18:34.022Z"
 }
