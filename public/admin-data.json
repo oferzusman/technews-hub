@@ -1,14 +1,14 @@
 {
-  "total": 12748,
-  "translated": 12746,
+  "total": 12752,
+  "translated": 12750,
   "untranslated": 2,
-  "today": 42,
-  "week": 637,
+  "today": 46,
+  "week": 641,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1086,
-      "translated": 1086,
+      "total": 1087,
+      "translated": 1087,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 578,
-      "translated": 578,
+      "total": 579,
+      "translated": 579,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -109,8 +109,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 214,
-      "translated": 214,
+      "total": 215,
+      "translated": 215,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -145,9 +145,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 107,
-      "translated": 107,
-      "lastDate": "2026-06-26T07:35:29+00:00"
+      "total": 108,
+      "translated": 108,
+      "lastDate": "2026-06-26T13:06:15+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-26T12:29:17.431Z"
+  "generatedAt": "2026-06-26T13:12:22.020Z"
 }
