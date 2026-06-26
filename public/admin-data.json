@@ -1,14 +1,14 @@
 {
-  "total": 12711,
-  "translated": 12709,
+  "total": 12717,
+  "translated": 12715,
   "untranslated": 2,
-  "today": 5,
-  "week": 600,
+  "today": 11,
+  "week": 606,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1083,
-      "translated": 1083,
+      "total": 1084,
+      "translated": 1084,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 566,
-      "translated": 566,
+      "total": 568,
+      "translated": 568,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -55,9 +55,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 485,
-      "translated": 484,
-      "lastDate": "2026-06-26T01:57:01+00:00"
+      "total": 486,
+      "translated": 485,
+      "lastDate": "2026-06-26T04:40:13+00:00"
     },
     {
       "name": "Pypi.org",
@@ -127,9 +127,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 152,
-      "translated": 152,
-      "lastDate": "2026-06-25T20:01:37+00:00"
+      "total": 153,
+      "translated": 153,
+      "lastDate": "2026-06-26T06:46:29+00:00"
     },
     {
       "name": "AI News",
@@ -139,9 +139,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 118,
-      "translated": 118,
-      "lastDate": "2026-06-26T04:30:20+00:00"
+      "total": 119,
+      "translated": 119,
+      "lastDate": "2026-06-26T06:00:35+00:00"
     },
     {
       "name": "Hi, AI English (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-26T06:07:45.144Z"
+  "generatedAt": "2026-06-26T06:54:57.739Z"
 }
