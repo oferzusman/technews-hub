@@ -1,9 +1,9 @@
 {
-  "total": 12819,
-  "translated": 12817,
+  "total": 12821,
+  "translated": 12819,
   "untranslated": 2,
-  "today": 113,
-  "week": 708,
+  "today": 2,
+  "week": 656,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1005,
-      "translated": 1005,
+      "total": 1006,
+      "translated": 1006,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -115,9 +115,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 206,
-      "translated": 206,
-      "lastDate": "2026-06-26T22:16:11+00:00"
+      "total": 207,
+      "translated": 207,
+      "lastDate": "2026-06-26T23:38:10+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-26T23:38:29.944Z"
+  "generatedAt": "2026-06-27T00:07:20.604Z"
 }
