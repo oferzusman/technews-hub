@@ -1,9 +1,9 @@
 {
-  "total": 12912,
-  "translated": 12910,
+  "total": 12915,
+  "translated": 12913,
   "untranslated": 2,
-  "today": 33,
-  "week": 696,
+  "today": 36,
+  "week": 699,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -43,8 +43,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 584,
-      "translated": 584,
+      "total": 585,
+      "translated": 585,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -67,8 +67,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 462,
-      "translated": 462,
+      "total": 464,
+      "translated": 464,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-28T14:50:41.091Z"
+  "generatedAt": "2026-06-28T16:00:14.032Z"
 }
