@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "מכרז של הזהב: מצאנו ב-GitHub רשימה ענקית של קורסים בComputer Science 🤩\n\nתגידו שלום ל-800+ קורסים בחינם מאוניברסיטאות המובילות בעולם - אלגוריתמים, ML, רשתות, רובוטיקה והרבה יותר, הכל מסודר ויקל למציאה. זו בעצם מפת דרכים חינמית להידור עצמי שמתעדכנת כל הזמן, אז פשוט שומרים וממשיכים להתפתחות ☕️",
+    "t": "מצאנו ב-GitHub רשימה ענקית של קורסים בComputer Science עם למעלה מ-800 לקצ'ים בחינם! 🤩\n\nגיליתם על GitHub repository ענק שאיסף לקחים מהאוניברסיטות המובילות בעולם - מעל 800 קורסים בAlgorithms, Machine Learning, רשתות, Robotics והרבה תחומים נוספים, הכל מסודר לפי נושאים. הrepo פעיל ומתעדכן כל הזמן, ופרקטית זה roadmap בחינם ומוכן מראש שמחכה לכם. שומרים את הקישור וממשיכים ללמוד! ☕️",
     "d": "2026-06-28T21:55:04+00:00",
     "v": 0,
     "l": [
@@ -16,7 +16,8 @@ window.TELEGRAM_DATA = [
     ],
     "co": [],
     "tags": [
-      "news"
+      "news",
+      "robotics"
     ],
     "imp": "low",
     "thumb": "https://cdn4.telesco.pe/file/SqYbSixvCiZ9V9I37huKcAK7EJB3DIsdVe1xVJ4tW0ODq2MaTEgKKs5hHpBhpZf77SfdsE5GMfLn9QEPpPECQh9uNE-965BqdqXlzbL0736ZG2PRanbE_pa0DURVubCn1Png3eyZjJR2qJRgAAB4KWwHP8SOUZYKdeU1vauMFcpGNWh80yQoWIUsiWQh0WH4qf4ITlyWfoDTa2tBvpnhk-dAKJ5ORxKMG8nNIWYpEo1bP4fRC_PL7cTgxPcGmkWz8wUuvKPB-hfiSqUlWGh9hHnT5DmOcNcaHX9Fa27hRKl5DzvAe9jGbFvX4PAx6ekNKD71-WTnqSDrSSTmM-848g.jpg",
@@ -24,7 +25,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "סין טוענת שהמודל החדש שלה GLM-5.2 משווה ל-Mythos בתחום הסייבר\n\nחברת Zhipu AI הסינית הוציאה לאור את GLM-5.2, והחוקרים טוענים שהמודל מתחרות עם Mythos בתרחישים של מציאת באגים וכשלים בקוד. לרוב המשימות הכלליות, GLM עדיין מפגר אחרי Anthropic ו-OpenAI, אבל סין כנראה הצליחה להקטין משמעותית את הפער בין הטכנולוגיה שלה לבין זו של אמריקה - משהו שמדאיג את ממשלת ארה״ב שמנסה להגביל את גישת סין למודלים חזקים.",
+    "t": "החברה הסינית Z.ai טוענת שמודל שלה תואם את Mythos בסייבר ביטחון\n\nזהיפו AI מהסין שחררה את GLM-5.2, ויש חוקרים שטוענים שהיא מתאימה ל-Mythos במציאת באגים ובתרחישי סייבר ביטחון. אמנם GLM עדיין מפגרת מדגמים של Anthropic ו-OpenAI בתחומים כלליים יותר, אבל נראה שסין הצליחה להקטין משמעותית את הפער בין היכולות של הדגמים שלה לבין אלה של ארה״ב - וזה בדיוק מה שמדאיג את הממשל האמריקאי שמנסה זה שנים להגביל גישת סין לטכנולוגיות חזקות. מקור: The Verge AI",
     "d": "2026-06-28T21:42:51.000Z",
     "v": 0,
     "l": [
