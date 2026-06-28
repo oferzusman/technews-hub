@@ -1,9 +1,9 @@
 {
-  "total": 12894,
-  "translated": 12892,
+  "total": 12897,
+  "translated": 12895,
   "untranslated": 2,
-  "today": 15,
-  "week": 678,
+  "today": 18,
+  "week": 681,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -85,9 +85,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 364,
-      "translated": 363,
-      "lastDate": "2026-06-28T08:10:06+00:00"
+      "total": 365,
+      "translated": 364,
+      "lastDate": "2026-06-28T09:14:24+00:00"
     },
     {
       "name": "MarkTechPost",
@@ -115,9 +115,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 208,
-      "translated": 208,
-      "lastDate": "2026-06-27T07:03:36+00:00"
+      "total": 209,
+      "translated": 209,
+      "lastDate": "2026-06-28T09:26:48+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -145,9 +145,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 110,
-      "translated": 110,
-      "lastDate": "2026-06-27T11:02:00+00:00"
+      "total": 111,
+      "translated": 111,
+      "lastDate": "2026-06-28T09:05:39+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-28T08:34:12.772Z"
+  "generatedAt": "2026-06-28T09:30:10.622Z"
 }
