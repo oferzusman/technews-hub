@@ -1,9 +1,9 @@
 {
-  "total": 12925,
-  "translated": 12923,
+  "total": 12927,
+  "translated": 12925,
   "untranslated": 2,
-  "today": 46,
-  "week": 709,
+  "today": 48,
+  "week": 711,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1019,
-      "translated": 1019,
+      "total": 1020,
+      "translated": 1020,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 397,
-      "translated": 397,
-      "lastDate": "2026-06-28T14:12:06.000Z"
+      "total": 398,
+      "translated": 398,
+      "lastDate": "2026-06-28T20:27:36.000Z"
     },
     {
       "name": "OpenAI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-28T20:10:38.550Z"
+  "generatedAt": "2026-06-28T20:42:06.764Z"
 }
