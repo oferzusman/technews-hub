@@ -1,9 +1,9 @@
 {
-  "total": 12923,
-  "translated": 12921,
+  "total": 12925,
+  "translated": 12923,
   "untranslated": 2,
-  "today": 44,
-  "week": 707,
+  "today": 46,
+  "week": 709,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -31,8 +31,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 705,
-      "translated": 705,
+      "total": 706,
+      "translated": 706,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -55,9 +55,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 505,
-      "translated": 504,
-      "lastDate": "2026-06-28T14:48:06+00:00"
+      "total": 506,
+      "translated": 505,
+      "lastDate": "2026-06-28T18:44:48+00:00"
     },
     {
       "name": "Pypi.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-28T18:49:17.070Z"
+  "generatedAt": "2026-06-28T19:20:02.115Z"
 }
