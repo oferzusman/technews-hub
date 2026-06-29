@@ -1,9 +1,9 @@
 {
-  "total": 12939,
-  "translated": 12937,
+  "total": 12947,
+  "translated": 12945,
   "untranslated": 2,
-  "today": 7,
-  "week": 613,
+  "today": 15,
+  "week": 621,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,14 +19,14 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1020,
-      "translated": 1020,
+      "total": 1022,
+      "translated": 1022,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 760,
-      "translated": 760,
+      "total": 762,
+      "translated": 762,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 589,
-      "translated": 589,
+      "total": 591,
+      "translated": 591,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -55,9 +55,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 508,
-      "translated": 507,
-      "lastDate": "2026-06-29T03:06:01+00:00"
+      "total": 509,
+      "translated": 508,
+      "lastDate": "2026-06-29T06:07:01+00:00"
     },
     {
       "name": "Pypi.org",
@@ -67,8 +67,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 465,
-      "translated": 465,
+      "total": 466,
+      "translated": 466,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-29T03:56:08.822Z"
+  "generatedAt": "2026-06-29T06:28:24.490Z"
 }
