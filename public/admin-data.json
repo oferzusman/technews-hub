@@ -1,14 +1,14 @@
 {
   "total": 13002,
-  "translated": 12994,
-  "untranslated": 8,
+  "translated": 13000,
+  "untranslated": 2,
   "today": 70,
   "week": 676,
   "sources": [
     {
       "name": "Tom's Hardware",
       "total": 1112,
-      "translated": 1110,
+      "translated": 1112,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -32,7 +32,7 @@
     {
       "name": "TechCrunch AI",
       "total": 710,
-      "translated": 709,
+      "translated": 710,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -44,7 +44,7 @@
     {
       "name": "New Atlas",
       "total": 595,
-      "translated": 594,
+      "translated": 595,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -74,7 +74,7 @@
     {
       "name": "The Verge AI",
       "total": 400,
-      "translated": 399,
+      "translated": 400,
       "lastDate": "2026-06-29T16:00:00.000Z"
     },
     {
@@ -128,7 +128,7 @@
     {
       "name": "Hi, AI Russian (TG)",
       "total": 161,
-      "translated": 160,
+      "translated": 161,
       "lastDate": "2026-06-29T17:21:38+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-29T17:33:19.177Z"
+  "generatedAt": "2026-06-29T17:34:49.244Z"
 }
