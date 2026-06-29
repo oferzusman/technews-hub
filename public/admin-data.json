@@ -1,14 +1,14 @@
 {
-  "total": 12986,
-  "translated": 12984,
+  "total": 12988,
+  "translated": 12986,
   "untranslated": 2,
-  "today": 54,
-  "week": 660,
+  "today": 56,
+  "week": 662,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1109,
-      "translated": 1109,
+      "total": 1110,
+      "translated": 1110,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 597,
-      "translated": 597,
+      "total": 598,
+      "translated": 598,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-29T15:01:58.155Z"
+  "generatedAt": "2026-06-29T15:21:17.121Z"
 }
