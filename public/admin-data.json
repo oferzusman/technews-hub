@@ -1,9 +1,9 @@
 {
-  "total": 12947,
-  "translated": 12945,
+  "total": 12949,
+  "translated": 12947,
   "untranslated": 2,
-  "today": 15,
-  "week": 621,
+  "today": 17,
+  "week": 623,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -55,9 +55,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 509,
-      "translated": 508,
-      "lastDate": "2026-06-29T06:07:01+00:00"
+      "total": 510,
+      "translated": 509,
+      "lastDate": "2026-06-29T06:31:01+00:00"
     },
     {
       "name": "Pypi.org",
@@ -127,9 +127,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 159,
-      "translated": 159,
-      "lastDate": "2026-06-28T08:06:26+00:00"
+      "total": 160,
+      "translated": 160,
+      "lastDate": "2026-06-29T06:37:46+00:00"
     },
     {
       "name": "AI News",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-29T06:29:58.747Z"
+  "generatedAt": "2026-06-29T06:45:06.243Z"
 }
