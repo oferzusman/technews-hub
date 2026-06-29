@@ -1,9 +1,9 @@
 {
-  "total": 13011,
-  "translated": 13009,
+  "total": 13016,
+  "translated": 13014,
   "untranslated": 2,
-  "today": 79,
-  "week": 685,
+  "today": 84,
+  "week": 690,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -43,8 +43,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 595,
-      "translated": 595,
+      "total": 596,
+      "translated": 596,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -55,9 +55,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 513,
-      "translated": 512,
-      "lastDate": "2026-06-29T16:29:07+00:00"
+      "total": 514,
+      "translated": 513,
+      "lastDate": "2026-06-29T19:23:33+00:00"
     },
     {
       "name": "Pypi.org",
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 400,
-      "translated": 400,
-      "lastDate": "2026-06-29T16:00:00.000Z"
+      "total": 402,
+      "translated": 402,
+      "lastDate": "2026-06-29T19:47:35.000Z"
     },
     {
       "name": "OpenAI Blog",
@@ -91,8 +91,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 361,
-      "translated": 361,
+      "total": 362,
+      "translated": 362,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-29T19:06:34.679Z"
+  "generatedAt": "2026-06-29T19:57:56.947Z"
 }
