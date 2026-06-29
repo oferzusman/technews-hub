@@ -1,14 +1,14 @@
 {
-  "total": 12957,
-  "translated": 12955,
+  "total": 12968,
+  "translated": 12966,
   "untranslated": 2,
-  "today": 25,
-  "week": 631,
+  "today": 36,
+  "week": 642,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1104,
-      "translated": 1104,
+      "total": 1106,
+      "translated": 1106,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -37,14 +37,14 @@
     },
     {
       "name": "The Decoder",
-      "total": 595,
-      "translated": 595,
+      "total": 596,
+      "translated": 596,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 591,
-      "translated": 591,
+      "total": 592,
+      "translated": 592,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -55,9 +55,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 510,
-      "translated": 509,
-      "lastDate": "2026-06-29T06:31:01+00:00"
+      "total": 511,
+      "translated": 510,
+      "lastDate": "2026-06-29T09:29:46+00:00"
     },
     {
       "name": "Pypi.org",
@@ -79,15 +79,15 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 396,
-      "translated": 396,
+      "total": 397,
+      "translated": 397,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 367,
-      "translated": 366,
-      "lastDate": "2026-06-29T06:48:18+00:00"
+      "total": 369,
+      "translated": 368,
+      "lastDate": "2026-06-29T10:20:42+00:00"
     },
     {
       "name": "MarkTechPost",
@@ -145,9 +145,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 111,
-      "translated": 111,
-      "lastDate": "2026-06-28T09:05:39+00:00"
+      "total": 112,
+      "translated": 112,
+      "lastDate": "2026-06-29T09:43:15+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 88,
-      "translated": 88,
-      "lastDate": "2026-06-25T11:46:44+00:00"
+      "total": 90,
+      "translated": 90,
+      "lastDate": "2026-06-29T10:02:04+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-29T09:01:23.135Z"
+  "generatedAt": "2026-06-29T11:31:29.476Z"
 }
