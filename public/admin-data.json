@@ -1,7 +1,7 @@
 {
   "total": 12936,
-  "translated": 12930,
-  "untranslated": 6,
+  "translated": 12934,
+  "untranslated": 2,
   "today": 4,
   "week": 610,
   "sources": [
@@ -26,7 +26,7 @@
     {
       "name": "CNBC Tech",
       "total": 760,
-      "translated": 759,
+      "translated": 760,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -44,7 +44,7 @@
     {
       "name": "New Atlas",
       "total": 588,
-      "translated": 587,
+      "translated": 588,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -56,7 +56,7 @@
     {
       "name": "AI Post (TG)",
       "total": 507,
-      "translated": 505,
+      "translated": 506,
       "lastDate": "2026-06-28T23:54:27+00:00"
     },
     {
@@ -80,7 +80,7 @@
     {
       "name": "OpenAI Blog",
       "total": 396,
-      "translated": 395,
+      "translated": 396,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-29T01:53:49.370Z"
+  "generatedAt": "2026-06-29T01:54:36.143Z"
 }
