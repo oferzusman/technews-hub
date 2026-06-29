@@ -1,14 +1,14 @@
 {
-  "total": 13004,
-  "translated": 13002,
+  "total": 13011,
+  "translated": 13009,
   "untranslated": 2,
-  "today": 72,
-  "week": 678,
+  "today": 79,
+  "week": 685,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1112,
-      "translated": 1112,
+      "total": 1113,
+      "translated": 1113,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -31,14 +31,14 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 711,
-      "translated": 711,
+      "total": 713,
+      "translated": 713,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "The Decoder",
-      "total": 600,
-      "translated": 600,
+      "total": 601,
+      "translated": 601,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 560,
-      "translated": 560,
+      "total": 561,
+      "translated": 561,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -109,8 +109,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 217,
-      "translated": 217,
+      "total": 218,
+      "translated": 218,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -121,8 +121,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 173,
-      "translated": 173,
+      "total": 174,
+      "translated": 174,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-29T18:33:29.624Z"
+  "generatedAt": "2026-06-29T19:05:28.938Z"
 }
