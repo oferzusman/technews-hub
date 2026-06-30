@@ -1,9 +1,9 @@
 {
-  "total": 13118,
-  "translated": 13116,
+  "total": 13120,
+  "translated": 13118,
   "untranslated": 2,
-  "today": 94,
-  "week": 663,
+  "today": 96,
+  "week": 665,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 610,
-      "translated": 610,
+      "total": 611,
+      "translated": 611,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -121,8 +121,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 176,
-      "translated": 176,
+      "total": 177,
+      "translated": 177,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-30T18:24:21.063Z"
+  "generatedAt": "2026-06-30T18:56:46.581Z"
 }
