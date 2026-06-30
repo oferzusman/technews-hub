@@ -1,14 +1,14 @@
 {
-  "total": 13120,
-  "translated": 13118,
+  "total": 13129,
+  "translated": 13127,
   "untranslated": 2,
-  "today": 96,
-  "week": 665,
+  "today": 105,
+  "week": 674,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1120,
-      "translated": 1120,
+      "total": 1121,
+      "translated": 1121,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -19,20 +19,20 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1032,
-      "translated": 1032,
+      "total": 1033,
+      "translated": 1033,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 771,
-      "translated": 771,
+      "total": 772,
+      "translated": 772,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 725,
-      "translated": 725,
+      "total": 726,
+      "translated": 726,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -43,21 +43,21 @@
     },
     {
       "name": "New Atlas",
-      "total": 602,
-      "translated": 602,
+      "total": 603,
+      "translated": 603,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 563,
-      "translated": 563,
+      "total": 564,
+      "translated": 564,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
       "name": "AI Post (TG)",
-      "total": 522,
-      "translated": 521,
-      "lastDate": "2026-06-30T17:33:01+00:00"
+      "total": 523,
+      "translated": 522,
+      "lastDate": "2026-06-30T19:02:55+00:00"
     },
     {
       "name": "Pypi.org",
@@ -67,15 +67,15 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 471,
-      "translated": 471,
+      "total": 472,
+      "translated": 472,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
       "name": "The Verge AI",
-      "total": 405,
-      "translated": 405,
-      "lastDate": "2026-06-30T17:19:15.000Z"
+      "total": 406,
+      "translated": 406,
+      "lastDate": "2026-06-30T19:24:51.000Z"
     },
     {
       "name": "OpenAI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-30T18:57:36.948Z"
+  "generatedAt": "2026-06-30T20:18:20.812Z"
 }
