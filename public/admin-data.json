@@ -1,14 +1,14 @@
 {
-  "total": 13046,
-  "translated": 13044,
+  "total": 13055,
+  "translated": 13053,
   "untranslated": 2,
-  "today": 22,
-  "week": 591,
+  "today": 31,
+  "week": 600,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1113,
-      "translated": 1113,
+      "total": 1116,
+      "translated": 1116,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 767,
-      "translated": 767,
+      "total": 768,
+      "translated": 768,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 602,
-      "translated": 602,
+      "total": 604,
+      "translated": 604,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -55,9 +55,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 519,
-      "translated": 518,
-      "lastDate": "2026-06-30T07:40:00+00:00"
+      "total": 520,
+      "translated": 519,
+      "lastDate": "2026-06-30T11:12:02+00:00"
     },
     {
       "name": "Pypi.org",
@@ -109,8 +109,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 218,
-      "translated": 218,
+      "total": 219,
+      "translated": 219,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -127,9 +127,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 162,
-      "translated": 162,
-      "lastDate": "2026-06-30T06:48:00+00:00"
+      "total": 163,
+      "translated": 163,
+      "lastDate": "2026-06-30T11:22:34+00:00"
     },
     {
       "name": "AI News",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-30T11:26:16.054Z"
+  "generatedAt": "2026-06-30T11:32:31.408Z"
 }
