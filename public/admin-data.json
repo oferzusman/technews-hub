@@ -1,14 +1,14 @@
 {
-  "total": 13055,
-  "translated": 13053,
+  "total": 13069,
+  "translated": 13067,
   "untranslated": 2,
-  "today": 31,
-  "week": 600,
+  "today": 45,
+  "week": 614,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1116,
-      "translated": 1116,
+      "total": 1118,
+      "translated": 1118,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -19,14 +19,14 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1026,
-      "translated": 1026,
+      "total": 1028,
+      "translated": 1028,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 768,
-      "translated": 768,
+      "total": 769,
+      "translated": 769,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 604,
-      "translated": 604,
+      "total": 605,
+      "translated": 605,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -67,15 +67,15 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 468,
-      "translated": 468,
+      "total": 469,
+      "translated": 469,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
       "name": "The Verge AI",
-      "total": 402,
-      "translated": 402,
-      "lastDate": "2026-06-29T19:47:35.000Z"
+      "total": 403,
+      "translated": 403,
+      "lastDate": "2026-06-30T12:00:00.000Z"
     },
     {
       "name": "OpenAI Blog",
@@ -109,8 +109,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 219,
-      "translated": 219,
+      "total": 221,
+      "translated": 221,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -121,15 +121,15 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 174,
-      "translated": 174,
+      "total": 175,
+      "translated": 175,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 163,
-      "translated": 163,
-      "lastDate": "2026-06-30T11:22:34+00:00"
+      "total": 164,
+      "translated": 164,
+      "lastDate": "2026-06-30T13:24:32+00:00"
     },
     {
       "name": "AI News",
@@ -139,15 +139,15 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 123,
-      "translated": 123,
-      "lastDate": "2026-06-27T12:33:51+00:00"
+      "total": 124,
+      "translated": 124,
+      "lastDate": "2026-06-30T13:20:22+00:00"
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 113,
-      "translated": 113,
-      "lastDate": "2026-06-30T07:30:00+00:00"
+      "total": 114,
+      "translated": 114,
+      "lastDate": "2026-06-30T12:31:31+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-30T13:21:34.480Z"
+  "generatedAt": "2026-06-30T13:30:52.267Z"
 }
