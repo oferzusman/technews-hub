@@ -1,14 +1,14 @@
 {
-  "total": 13088,
-  "translated": 13086,
+  "total": 13116,
+  "translated": 13114,
   "untranslated": 2,
-  "today": 64,
-  "week": 633,
+  "today": 92,
+  "week": 661,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1119,
-      "translated": 1119,
+      "total": 1120,
+      "translated": 1120,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -19,45 +19,45 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1030,
-      "translated": 1030,
+      "total": 1032,
+      "translated": 1032,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 770,
-      "translated": 770,
+      "total": 771,
+      "translated": 771,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 721,
-      "translated": 721,
+      "total": 724,
+      "translated": 724,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "The Decoder",
-      "total": 607,
-      "translated": 607,
+      "total": 610,
+      "translated": 610,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 600,
-      "translated": 600,
+      "total": 602,
+      "translated": 602,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 562,
-      "translated": 562,
+      "total": 563,
+      "translated": 563,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
       "name": "AI Post (TG)",
-      "total": 521,
-      "translated": 520,
-      "lastDate": "2026-06-30T14:43:24+00:00"
+      "total": 522,
+      "translated": 521,
+      "lastDate": "2026-06-30T17:33:01+00:00"
     },
     {
       "name": "Pypi.org",
@@ -73,21 +73,21 @@
     },
     {
       "name": "The Verge AI",
-      "total": 404,
-      "translated": 404,
-      "lastDate": "2026-06-30T15:30:00.000Z"
+      "total": 405,
+      "translated": 405,
+      "lastDate": "2026-06-30T17:19:15.000Z"
     },
     {
       "name": "OpenAI Blog",
-      "total": 398,
-      "translated": 398,
+      "total": 401,
+      "translated": 401,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 373,
-      "translated": 372,
-      "lastDate": "2026-06-30T14:30:10+00:00"
+      "total": 374,
+      "translated": 373,
+      "lastDate": "2026-06-30T18:08:44+00:00"
     },
     {
       "name": "MarkTechPost",
@@ -109,15 +109,15 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 221,
-      "translated": 221,
+      "total": 222,
+      "translated": 222,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
       "name": "Backdoor (TG)",
-      "total": 213,
-      "translated": 213,
-      "lastDate": "2026-06-30T15:57:49+00:00"
+      "total": 216,
+      "translated": 216,
+      "lastDate": "2026-06-30T18:03:05+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -127,9 +127,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 164,
-      "translated": 164,
-      "lastDate": "2026-06-30T13:24:32+00:00"
+      "total": 165,
+      "translated": 165,
+      "lastDate": "2026-06-30T16:21:17+00:00"
     },
     {
       "name": "AI News",
@@ -145,9 +145,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 114,
-      "translated": 114,
-      "lastDate": "2026-06-30T12:31:31+00:00"
+      "total": 115,
+      "translated": 115,
+      "lastDate": "2026-06-30T16:24:17+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 91,
-      "translated": 91,
-      "lastDate": "2026-06-30T05:00:48+00:00"
+      "total": 92,
+      "translated": 92,
+      "lastDate": "2026-06-30T18:01:02+00:00"
     },
     {
       "name": "The Times of India",
@@ -181,9 +181,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 58,
-      "translated": 58,
-      "lastDate": "2026-06-28T21:12:00+00:00"
+      "total": 60,
+      "translated": 60,
+      "lastDate": "2026-06-30T18:05:42+00:00"
     },
     {
       "name": "Github.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-30T16:38:23.501Z"
+  "generatedAt": "2026-06-30T18:14:00.303Z"
 }
