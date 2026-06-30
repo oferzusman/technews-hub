@@ -1,9 +1,9 @@
 {
-  "total": 13044,
-  "translated": 13041,
-  "untranslated": 3,
-  "today": 20,
-  "week": 589,
+  "total": 13045,
+  "translated": 13043,
+  "untranslated": 2,
+  "today": 21,
+  "week": 590,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -44,7 +44,7 @@
     {
       "name": "New Atlas",
       "total": 600,
-      "translated": 599,
+      "translated": 600,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -85,9 +85,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 371,
-      "translated": 370,
-      "lastDate": "2026-06-29T21:19:14+00:00"
+      "total": 372,
+      "translated": 371,
+      "lastDate": "2026-06-30T08:49:00+00:00"
     },
     {
       "name": "MarkTechPost",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-30T08:32:28.614Z"
+  "generatedAt": "2026-06-30T08:54:43.277Z"
 }
