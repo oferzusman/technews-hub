@@ -1,9 +1,9 @@
 {
-  "total": 13136,
+  "total": 13140,
   "translated": 13134,
-  "untranslated": 2,
-  "today": 112,
-  "week": 681,
+  "untranslated": 6,
+  "today": 116,
+  "week": 685,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1033,
+      "total": 1034,
       "translated": 1033,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -55,9 +55,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 524,
+      "total": 525,
       "translated": 523,
-      "lastDate": "2026-06-30T21:41:01+00:00"
+      "lastDate": "2026-06-30T22:01:10+00:00"
     },
     {
       "name": "Pypi.org",
@@ -91,7 +91,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 366,
+      "total": 367,
       "translated": 366,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
@@ -109,7 +109,7 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 222,
+      "total": 223,
       "translated": 222,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-06-30T21:58:36.329Z"
+  "generatedAt": "2026-06-30T22:17:30.504Z"
 }
