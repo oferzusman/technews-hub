@@ -1,9 +1,9 @@
 {
-  "total": 13158,
-  "translated": 13156,
+  "total": 13161,
+  "translated": 13159,
   "untranslated": 2,
-  "today": 10,
-  "week": 567,
+  "today": 13,
+  "week": 570,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -85,14 +85,14 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 375,
-      "translated": 374,
-      "lastDate": "2026-06-30T22:18:48+00:00"
+      "total": 376,
+      "translated": 375,
+      "lastDate": "2026-07-01T05:12:51+00:00"
     },
     {
       "name": "MarkTechPost",
-      "total": 368,
-      "translated": 368,
+      "total": 369,
+      "translated": 369,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -115,9 +115,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 218,
-      "translated": 218,
-      "lastDate": "2026-06-30T21:12:41+00:00"
+      "total": 219,
+      "translated": 219,
+      "lastDate": "2026-07-01T05:35:39+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-01T05:04:53.790Z"
+  "generatedAt": "2026-07-01T06:09:44.778Z"
 }
