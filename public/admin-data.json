@@ -1,9 +1,9 @@
 {
-  "total": 13200,
-  "translated": 13198,
-  "untranslated": 2,
-  "today": 52,
-  "week": 609,
+  "total": 13210,
+  "translated": 13207,
+  "untranslated": 3,
+  "today": 62,
+  "week": 619,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -49,15 +49,15 @@
     },
     {
       "name": "Ars Technica",
-      "total": 565,
-      "translated": 565,
+      "total": 566,
+      "translated": 566,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
       "name": "AI Post (TG)",
-      "total": 530,
-      "translated": 529,
-      "lastDate": "2026-07-01T10:10:00+00:00"
+      "total": 532,
+      "translated": 531,
+      "lastDate": "2026-07-01T13:06:05+00:00"
     },
     {
       "name": "Pypi.org",
@@ -67,15 +67,15 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 475,
-      "translated": 475,
+      "total": 476,
+      "translated": 476,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
       "name": "The Verge AI",
-      "total": 407,
-      "translated": 407,
-      "lastDate": "2026-07-01T00:03:55.000Z"
+      "total": 408,
+      "translated": 408,
+      "lastDate": "2026-07-01T12:00:00.000Z"
     },
     {
       "name": "OpenAI Blog",
@@ -109,8 +109,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 223,
-      "translated": 223,
+      "total": 224,
+      "translated": 224,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -127,9 +127,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 166,
+      "total": 167,
       "translated": 166,
-      "lastDate": "2026-07-01T06:28:12+00:00"
+      "lastDate": "2026-07-01T11:49:19+00:00"
     },
     {
       "name": "AI News",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 92,
-      "translated": 92,
-      "lastDate": "2026-06-30T18:01:02+00:00"
+      "total": 94,
+      "translated": 94,
+      "lastDate": "2026-07-01T13:06:08+00:00"
     },
     {
       "name": "The Times of India",
@@ -192,16 +192,16 @@
       "lastDate": "2026-04-09T06:45:21Z"
     },
     {
+      "name": "Nature Machine Intelligence",
+      "total": 45,
+      "translated": 45,
+      "lastDate": "2026-07-01T00:00:00.000Z"
+    },
+    {
       "name": "Prompt AI News (TG)",
       "total": 45,
       "translated": 45,
       "lastDate": "2026-06-24T14:51:26+00:00"
-    },
-    {
-      "name": "Nature Machine Intelligence",
-      "total": 44,
-      "translated": 44,
-      "lastDate": "2026-06-23T00:00:00.000Z"
     },
     {
       "name": "Slashdot.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-01T12:01:05.856Z"
+  "generatedAt": "2026-07-01T13:13:33.625Z"
 }
