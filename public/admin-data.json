@@ -1,9 +1,9 @@
 {
-  "total": 13255,
-  "translated": 13252,
-  "untranslated": 3,
-  "today": 107,
-  "week": 664,
+  "total": 13258,
+  "translated": 13256,
+  "untranslated": 2,
+  "today": 110,
+  "week": 667,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -43,14 +43,14 @@
     },
     {
       "name": "New Atlas",
-      "total": 610,
-      "translated": 610,
+      "total": 611,
+      "translated": 611,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "Ars Technica",
       "total": 571,
-      "translated": 570,
+      "translated": 571,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -91,8 +91,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 371,
-      "translated": 371,
+      "total": 372,
+      "translated": 372,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -103,8 +103,8 @@
     },
     {
       "name": "The Register",
-      "total": 282,
-      "translated": 282,
+      "total": 283,
+      "translated": 283,
       "lastDate": "Wed, 29 Apr 2026 19:00:18 +0200"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-01T21:05:11.286Z"
+  "generatedAt": "2026-07-01T21:07:40.534Z"
 }
