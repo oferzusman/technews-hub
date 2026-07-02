@@ -1,14 +1,14 @@
 {
-  "total": 13323,
-  "translated": 13321,
+  "total": 13331,
+  "translated": 13329,
   "untranslated": 2,
-  "today": 57,
-  "week": 617,
+  "today": 65,
+  "week": 625,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1141,
-      "translated": 1141,
+      "total": 1143,
+      "translated": 1143,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -19,20 +19,20 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1047,
-      "translated": 1047,
+      "total": 1048,
+      "translated": 1048,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 794,
-      "translated": 794,
+      "total": 795,
+      "translated": 795,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 740,
-      "translated": 740,
+      "total": 741,
+      "translated": 741,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -55,9 +55,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 540,
-      "translated": 539,
-      "lastDate": "2026-07-02T11:26:59+00:00"
+      "total": 541,
+      "translated": 540,
+      "lastDate": "2026-07-02T14:01:08+00:00"
     },
     {
       "name": "The Guardian AI",
@@ -109,8 +109,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 227,
-      "translated": 227,
+      "total": 228,
+      "translated": 228,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -127,9 +127,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 170,
-      "translated": 170,
-      "lastDate": "2026-07-02T12:02:01+00:00"
+      "total": 171,
+      "translated": 171,
+      "lastDate": "2026-07-02T14:31:46+00:00"
     },
     {
       "name": "AI News",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-02T14:36:37.007Z"
+  "generatedAt": "2026-07-02T14:38:09.375Z"
 }
