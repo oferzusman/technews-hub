@@ -1,14 +1,14 @@
 {
-  "total": 13300,
-  "translated": 13298,
+  "total": 13309,
+  "translated": 13307,
   "untranslated": 2,
-  "today": 34,
-  "week": 594,
+  "today": 43,
+  "week": 603,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1136,
-      "translated": 1136,
+      "total": 1138,
+      "translated": 1138,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 790,
-      "translated": 790,
+      "total": 791,
+      "translated": 791,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 619,
-      "translated": 619,
+      "total": 620,
+      "translated": 620,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -55,9 +55,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 539,
-      "translated": 538,
-      "lastDate": "2026-07-02T07:57:31+00:00"
+      "total": 540,
+      "translated": 539,
+      "lastDate": "2026-07-02T11:26:59+00:00"
     },
     {
       "name": "The Guardian AI",
@@ -85,9 +85,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 383,
-      "translated": 382,
-      "lastDate": "2026-07-02T10:13:19+00:00"
+      "total": 384,
+      "translated": 383,
+      "lastDate": "2026-07-02T11:30:00+00:00"
     },
     {
       "name": "MarkTechPost",
@@ -109,8 +109,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 226,
-      "translated": 226,
+      "total": 227,
+      "translated": 227,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -127,9 +127,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 169,
-      "translated": 169,
-      "lastDate": "2026-07-02T09:01:11+00:00"
+      "total": 170,
+      "translated": 170,
+      "lastDate": "2026-07-02T12:02:01+00:00"
     },
     {
       "name": "AI News",
@@ -139,9 +139,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 125,
-      "translated": 125,
-      "lastDate": "2026-06-30T15:20:33+00:00"
+      "total": 126,
+      "translated": 126,
+      "lastDate": "2026-07-02T12:20:39+00:00"
     },
     {
       "name": "Hi, AI English (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-02T12:07:04.240Z"
+  "generatedAt": "2026-07-02T12:24:49.672Z"
 }
