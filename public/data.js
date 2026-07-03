@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "Awesome Harness Engineering - בסיס שירותים ותבניות להרכבת ארמיה של AI-אgenטים\n\nיצא לאור מאגר ענק של תבניות ושירותים להרכבת AI-agents - הכל מה שצריך כדי להכניס קומץ נירופומצים להסדר אחד וליצור מערכת עובדת של סוכנים חכמים. כאן תמצאו ארכיטקטורות, מערכות זיכרון, מנגנוני וידוא AI, orchestration של משימות, MCP-servers ו-multi-agent workflows - והכל מבסוס חומרים של הדקלים בענף: OpenAI, Anthropic, Google, LangChain ועוד. זו ההפניה האחת שצריך לשמור בסימניות אם עובדים עם multi-agent systems.",
+    "t": "Awesome Harness Engineering - בסיס תבניות וסוגיות לשליטה בסוכני AI\n\nיצאה בסיס נתונים ענק עם תבניות וסוגיות לבניית צבאות של סוכני AI - זה כוללת ארכיטקטורה, ניהול קונטקסט, מערכות זיכרון, orchestration של משימות ומולטי-אגנט workflows. המקום הזה אוסף חומרים מכל הגדולים - OpenAI, Anthropic, Google, IBM, LangChain והרבה בייגטקים נוספים, וזה בדיוק מה שצריך למי שרוצה להרים סוכני AI כמו מקצוענים.",
     "d": "2026-07-03T20:02:09+00:00",
     "v": 0,
     "l": [
@@ -21,8 +21,7 @@ window.TELEGRAM_DATA = [
     ],
     "tags": [
       "news",
-      "model",
-      "agents"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://cdn4.telesco.pe/file/ido1eU_OonHZiZ2Zg5Jemf-cVJK_qOcxkQFvSSXbi3BODCHsSkKUiQNYnoyPL1BZI9pmgnYuGm2ZKHp7M_YmXXB247E3vD1_qJGnJ_zkRDOE_jITkFiUraQFXDaGi6fkkcBZNNbD87hAzIuLmDLhC3iVQJv-It-3IEzzJ_KlxfhvQFwA41G9vJPt6GFS68Vy3yT-MUHSi_3Ksk9tW0jovn70L9mnGayDOcgG1gIt69uwV9aRCFRwrJZnoCq-pwaJqC9PcOe4ljmoDg_c3VHP_0i8getsSOMMss40UrG2ponj1zLB7zoGw0AvDYwsStJ5fB1w6LJ2Ufm_svhpPiP0pg.jpg",
