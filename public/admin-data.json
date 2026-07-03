@@ -1,7 +1,7 @@
 {
   "total": 13445,
-  "translated": 13443,
-  "untranslated": 2,
+  "translated": 13442,
+  "untranslated": 3,
   "today": 72,
   "week": 626,
   "sources": [
@@ -38,7 +38,7 @@
     {
       "name": "The Decoder",
       "total": 630,
-      "translated": 630,
+      "translated": 629,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-03T16:24:41.863Z"
+  "generatedAt": "2026-07-03T16:25:21.158Z"
 }
