@@ -1,9 +1,9 @@
 {
-  "total": 13447,
-  "translated": 13445,
+  "total": 13450,
+  "translated": 13448,
   "untranslated": 2,
-  "today": 74,
-  "week": 628,
+  "today": 77,
+  "week": 631,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 631,
-      "translated": 631,
+      "total": 632,
+      "translated": 632,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 488,
-      "translated": 488,
+      "total": 489,
+      "translated": 489,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -235,9 +235,9 @@
     },
     {
       "name": "Artificial Intelligence (TG)",
-      "total": 22,
-      "translated": 22,
-      "lastDate": "2026-06-14T14:35:18+00:00"
+      "total": 23,
+      "translated": 23,
+      "lastDate": "2026-07-03T17:07:01+00:00"
     },
     {
       "name": "Towards Data Science",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-03T16:54:13.354Z"
+  "generatedAt": "2026-07-03T17:46:08.179Z"
 }
