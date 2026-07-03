@@ -1,9 +1,9 @@
 {
-  "total": 13373,
+  "total": 13376,
   "translated": 13371,
-  "untranslated": 2,
-  "today": 107,
-  "week": 667,
+  "untranslated": 5,
+  "today": 3,
+  "week": 557,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1055,
+      "total": 1057,
       "translated": 1055,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
@@ -31,7 +31,7 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 745,
+      "total": 746,
       "translated": 745,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-02T23:38:54.832Z"
+  "generatedAt": "2026-07-03T00:05:25.543Z"
 }
