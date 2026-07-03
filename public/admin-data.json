@@ -1,9 +1,9 @@
 {
-  "total": 13392,
-  "translated": 13390,
+  "total": 13398,
+  "translated": 13396,
   "untranslated": 2,
-  "today": 19,
-  "week": 573,
+  "today": 25,
+  "week": 579,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1057,
-      "translated": 1057,
+      "total": 1058,
+      "translated": 1058,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -37,14 +37,14 @@
     },
     {
       "name": "The Decoder",
-      "total": 625,
-      "translated": 625,
+      "total": 626,
+      "translated": 626,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 623,
-      "translated": 623,
+      "total": 624,
+      "translated": 624,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -109,15 +109,15 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 229,
-      "translated": 229,
+      "total": 230,
+      "translated": 230,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
       "name": "Backdoor (TG)",
-      "total": 223,
-      "translated": 223,
-      "lastDate": "2026-07-02T18:25:15+00:00"
+      "total": 224,
+      "translated": 224,
+      "lastDate": "2026-07-03T09:01:52+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 95,
-      "translated": 95,
-      "lastDate": "2026-07-02T05:00:49+00:00"
+      "total": 96,
+      "translated": 96,
+      "lastDate": "2026-07-03T09:02:12+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-03T08:27:52.991Z"
+  "generatedAt": "2026-07-03T09:59:44.122Z"
 }
