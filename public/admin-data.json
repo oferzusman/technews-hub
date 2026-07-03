@@ -1,14 +1,14 @@
 {
-  "total": 13417,
-  "translated": 13415,
+  "total": 13423,
+  "translated": 13421,
   "untranslated": 2,
-  "today": 44,
-  "week": 598,
+  "today": 50,
+  "week": 604,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1151,
-      "translated": 1151,
+      "total": 1152,
+      "translated": 1152,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -55,9 +55,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 550,
-      "translated": 549,
-      "lastDate": "2026-07-03T10:14:50+00:00"
+      "total": 551,
+      "translated": 550,
+      "lastDate": "2026-07-03T13:04:01+00:00"
     },
     {
       "name": "The Guardian AI",
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 409,
-      "translated": 409,
-      "lastDate": "2026-07-02T10:23:27.000Z"
+      "total": 410,
+      "translated": 410,
+      "lastDate": "2026-07-03T11:49:10.000Z"
     },
     {
       "name": "OpenAI Blog",
@@ -109,8 +109,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 230,
-      "translated": 230,
+      "total": 231,
+      "translated": 231,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -127,14 +127,14 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 175,
-      "translated": 175,
-      "lastDate": "2026-07-03T10:00:12+00:00"
+      "total": 176,
+      "translated": 176,
+      "lastDate": "2026-07-03T13:02:02+00:00"
     },
     {
       "name": "AI News",
-      "total": 145,
-      "translated": 145,
+      "total": 146,
+      "translated": 146,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-03T12:16:59.368Z"
+  "generatedAt": "2026-07-03T13:06:51.590Z"
 }
