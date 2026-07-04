@@ -1,9 +1,9 @@
 {
-  "total": 13470,
-  "translated": 13467,
+  "total": 13476,
+  "translated": 13473,
   "untranslated": 3,
-  "today": 6,
-  "week": 591,
+  "today": 12,
+  "week": 597,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1098,
-      "translated": 1098,
+      "total": 1099,
+      "translated": 1099,
       "lastDate": "2026-07-02T01:00:26.000Z"
     },
     {
@@ -37,14 +37,14 @@
     },
     {
       "name": "The Decoder",
-      "total": 633,
-      "translated": 633,
+      "total": 634,
+      "translated": 634,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 630,
-      "translated": 630,
+      "total": 632,
+      "translated": 632,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -55,9 +55,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 557,
-      "translated": 556,
-      "lastDate": "2026-07-04T04:45:00+00:00"
+      "total": 558,
+      "translated": 557,
+      "lastDate": "2026-07-04T07:20:00+00:00"
     },
     {
       "name": "The Guardian AI",
@@ -127,9 +127,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 176,
-      "translated": 176,
-      "lastDate": "2026-07-03T13:02:02+00:00"
+      "total": 177,
+      "translated": 177,
+      "lastDate": "2026-07-04T07:20:44+00:00"
     },
     {
       "name": "AI News",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-04T06:21:57.340Z"
+  "generatedAt": "2026-07-04T07:33:51.029Z"
 }
