@@ -1,9 +1,9 @@
 {
-  "total": 13525,
-  "translated": 13522,
+  "total": 13529,
+  "translated": 13526,
   "untranslated": 3,
-  "today": 8,
-  "week": 593,
+  "today": 12,
+  "week": 597,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -55,9 +55,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 564,
-      "translated": 563,
-      "lastDate": "2026-07-05T04:24:01+00:00"
+      "total": 565,
+      "translated": 564,
+      "lastDate": "2026-07-05T07:15:22+00:00"
     },
     {
       "name": "The Guardian AI",
@@ -85,9 +85,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 398,
-      "translated": 397,
-      "lastDate": "2026-07-04T22:13:11+00:00"
+      "total": 399,
+      "translated": 398,
+      "lastDate": "2026-07-05T07:36:47+00:00"
     },
     {
       "name": "MarkTechPost",
@@ -115,9 +115,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 230,
-      "translated": 229,
-      "lastDate": "2026-07-03T23:03:43+00:00"
+      "total": 231,
+      "translated": 230,
+      "lastDate": "2026-07-05T05:51:01+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -127,9 +127,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 177,
-      "translated": 177,
-      "lastDate": "2026-07-04T07:20:44+00:00"
+      "total": 178,
+      "translated": 178,
+      "lastDate": "2026-07-05T07:27:19+00:00"
     },
     {
       "name": "AI News",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-05T05:34:49.969Z"
+  "generatedAt": "2026-07-05T07:47:07.808Z"
 }
