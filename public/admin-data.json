@@ -1,14 +1,14 @@
 {
-  "total": 13534,
-  "translated": 13531,
+  "total": 13544,
+  "translated": 13541,
   "untranslated": 3,
-  "today": 17,
-  "week": 602,
+  "today": 27,
+  "week": 612,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1162,
-      "translated": 1162,
+      "total": 1164,
+      "translated": 1164,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1070,
-      "translated": 1070,
+      "total": 1071,
+      "translated": 1071,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -37,20 +37,20 @@
     },
     {
       "name": "The Decoder",
-      "total": 641,
-      "translated": 641,
+      "total": 643,
+      "translated": 643,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 638,
-      "translated": 638,
+      "total": 639,
+      "translated": 639,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 579,
-      "translated": 579,
+      "total": 580,
+      "translated": 580,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -85,9 +85,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 399,
-      "translated": 398,
-      "lastDate": "2026-07-05T07:36:47+00:00"
+      "total": 400,
+      "translated": 399,
+      "lastDate": "2026-07-05T11:12:14+00:00"
     },
     {
       "name": "MarkTechPost",
@@ -115,9 +115,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 231,
-      "translated": 230,
-      "lastDate": "2026-07-05T05:51:01+00:00"
+      "total": 232,
+      "translated": 231,
+      "lastDate": "2026-07-05T11:03:12+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -145,9 +145,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 121,
-      "translated": 121,
-      "lastDate": "2026-07-04T08:53:58+00:00"
+      "total": 122,
+      "translated": 122,
+      "lastDate": "2026-07-05T10:50:27+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-05T10:51:03.748Z"
+  "generatedAt": "2026-07-05T11:38:22.951Z"
 }
