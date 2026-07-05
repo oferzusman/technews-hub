@@ -1,9 +1,9 @@
 {
-  "total": 13562,
-  "translated": 13559,
+  "total": 13564,
+  "translated": 13561,
   "untranslated": 3,
-  "today": 45,
-  "week": 630,
+  "today": 47,
+  "week": 632,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 644,
-      "translated": 644,
+      "total": 645,
+      "translated": 645,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 97,
-      "translated": 97,
-      "lastDate": "2026-07-03T10:00:22+00:00"
+      "total": 98,
+      "translated": 98,
+      "lastDate": "2026-07-05T17:00:52+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-05T16:43:14.042Z"
+  "generatedAt": "2026-07-05T17:07:02.102Z"
 }
