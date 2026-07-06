@@ -1,14 +1,14 @@
 {
-  "total": 13624,
-  "translated": 13621,
+  "total": 13636,
+  "translated": 13633,
   "untranslated": 3,
-  "today": 46,
-  "week": 600,
+  "today": 58,
+  "week": 612,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1179,
-      "translated": 1179,
+      "total": 1183,
+      "translated": 1183,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1081,
-      "translated": 1081,
+      "total": 1082,
+      "translated": 1082,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -31,14 +31,14 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 753,
-      "translated": 753,
+      "total": 754,
+      "translated": 754,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "The Decoder",
-      "total": 647,
-      "translated": 647,
+      "total": 649,
+      "translated": 649,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -55,9 +55,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 574,
-      "translated": 573,
-      "lastDate": "2026-07-06T10:09:01+00:00"
+      "total": 575,
+      "translated": 574,
+      "lastDate": "2026-07-06T13:26:15+00:00"
     },
     {
       "name": "The Guardian AI",
@@ -109,8 +109,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 232,
-      "translated": 232,
+      "total": 233,
+      "translated": 233,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 100,
-      "translated": 100,
-      "lastDate": "2026-07-06T11:02:04+00:00"
+      "total": 101,
+      "translated": 101,
+      "lastDate": "2026-07-06T14:01:38+00:00"
     },
     {
       "name": "The Times of India",
@@ -193,9 +193,9 @@
     },
     {
       "name": "Nature Machine Intelligence",
-      "total": 45,
-      "translated": 45,
-      "lastDate": "2026-07-01T00:00:00.000Z"
+      "total": 46,
+      "translated": 46,
+      "lastDate": "2026-07-06T00:00:00.000Z"
     },
     {
       "name": "Prompt AI News (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-06T14:02:16.426Z"
+  "generatedAt": "2026-07-06T14:24:39.363Z"
 }
