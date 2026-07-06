@@ -25,7 +25,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Pliny שחרר לקוד פתוח את T3MP3ST: מערכת multi-agent לאתיקט של Red Team וחיפוש ثغرות\n\nהחוקר המובילה בתחום AI jailbreaks, Pliny, הוציא לאור את T3MP3ST - מערכת חכמה של כמה agents שעובדים יחד כדי לשבור מערכות ולמצוא vulnerabilities. אתה פשוט אומר למערכת מה המטרה, והיא עושה את כל העבודה - ביצוע reconnaissance, חיפוש חורים בביטחון והכנת דוח מפורט. לפי דברי Pliny, המערכת הצליחה לפתור 90% מ-104 משימות של vulnerability testing בניסיון הראשון. בואו נזכור - רק לethical hacking 😎\n\nמקור: XOR Journal",
+    "t": "T3MP3ST: מערכת AI מולטי-אגנט לאתקת אבטחה בקוד פתוח\n\nחוקר ה-AI הידוע Pliny שחרר בקוד פתוח את T3MP3ST, מערכת מולטי-אגנט שמתנהגת כמו Red Team מקצועי לחיפוש חולשות במערכות. המערכת עובדת אוטומטית - אתה מזין מטרה והיא מחפשת בעצמה חורים, מערכת הביטחון, וכל מה שצריך, ולכן מוציאה דוח מלא. לפי המדדים של המפתח, T3MP3ST הצליחה לפתור 90% מ-104 משימות חיפוש vulnerability בניסיון הראשון - זה כמו שיש לך הקר Red Team שנצות בכדורי מחשב.",
     "d": "2026-07-06T21:24:32+00:00",
     "v": 0,
     "l": [
@@ -41,8 +41,7 @@ window.TELEGRAM_DATA = [
     "co": [],
     "tags": [
       "news",
-      "security",
-      "agents"
+      "security"
     ],
     "imp": "low",
     "thumb": "https://cdn4.telesco.pe/file/LYV3NJu9FoJ89MTM4IDS-97AP0KdJayjL0973UhmWJZsOD_L1Zxu0piZdS5jKc2K4oBhP8pmkGirHYFzu4DkHAgDBsr1_BDhMTCA0_6czqputVSFnoltXLpk_M1LHwAVlIWnQClX9F3-eOL3bwYpuEj3UdrEyZwJctfAEldUjvwz34aDp_FxEQIi382jWEjBoYxtaYkCiDMe3Vy5120-SHlR9Gdv1EUIP4iDHQk_sHg7ektcjplw9vt73nX_fBy8unS9xT6sYfitkBufZ6_nFYDGzqqZA7qODaJMNmb5Zb0pLUPadnjDmUSMUnB8fYqEtEEtkp0k3XwgjdSEMFXRIA.jpg",
@@ -50,7 +49,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 3,
-    "t": "מטוס מיירט עצמאי המודפס בטכנולוגיית 3D תוקף נחילי רחפנים עוינים במהירות 350 קמ\"ש\n\nחברת SkyDefense מקולורדו חשפה את CobraJet - מטוס מיירט אוטונומי שעוצב לעצור רחפנים עוינים לפני שהם מהווים איום. התא הטיס מודפס בטכנולוגיית 3D ויכול להגיע למהירויות מטורפות של 350 קמ\"ש כדי ליירט מטרות באויר. זה ממש משהו ישר מתוך סרט מד\"ב - הגנה אוטונומית נגד התקפות רחפנים שהופכת לריאליות.",
+    "t": "מטוס מיירט אוטונומי המודפס בטכנולוגיית 3D תוקף נחילי רחפנים עוינים במהירות 350 מייל לשעה\n\nחברת SkyDefense מקולורדו חשפה את CobraJet, מטוס מיירט אוטונומי שמתוכנן להשמיד רחפנים עוינים לפני שהם מגיעים ליעדם. המערכת משתמשת בטכנולוגיית הדפסה תלת-ממדית וביכולת AI כדי ליירט מטרות במהירויות קיצוניות, מה שמהפכה את ההגנה נגד איומי רחפנים.",
     "d": "Mon, 06 Jul 2026 21:20:28 +0000",
     "v": 0,
     "l": [
