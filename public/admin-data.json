@@ -1,9 +1,9 @@
 {
-  "total": 13676,
-  "translated": 13673,
+  "total": 13678,
+  "translated": 13675,
   "untranslated": 3,
-  "today": 98,
-  "week": 652,
+  "today": 100,
+  "week": 654,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 505,
-      "translated": 505,
+      "total": 506,
+      "translated": 506,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -115,9 +115,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 233,
-      "translated": 232,
-      "lastDate": "2026-07-06T19:34:04+00:00"
+      "total": 234,
+      "translated": 233,
+      "lastDate": "2026-07-06T22:41:01+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-06T22:36:14.394Z"
+  "generatedAt": "2026-07-06T23:08:20.396Z"
 }
