@@ -1,9 +1,9 @@
 {
-  "total": 13657,
-  "translated": 13654,
+  "total": 13661,
+  "translated": 13658,
   "untranslated": 3,
-  "today": 79,
-  "week": 633,
+  "today": 83,
+  "week": 637,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -37,20 +37,20 @@
     },
     {
       "name": "The Decoder",
-      "total": 650,
-      "translated": 650,
+      "total": 651,
+      "translated": 651,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 646,
-      "translated": 646,
+      "total": 647,
+      "translated": 647,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 581,
-      "translated": 581,
+      "total": 583,
+      "translated": 583,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-06T17:21:37.760Z"
+  "generatedAt": "2026-07-06T18:18:41.509Z"
 }
