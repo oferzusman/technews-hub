@@ -1,14 +1,14 @@
 {
-  "total": 13706,
-  "translated": 13703,
+  "total": 13718,
+  "translated": 13715,
   "untranslated": 3,
-  "today": 25,
-  "week": 558,
+  "today": 37,
+  "week": 570,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1186,
-      "translated": 1186,
+      "total": 1188,
+      "translated": 1188,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 653,
-      "translated": 653,
+      "total": 656,
+      "translated": 656,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -55,9 +55,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 581,
-      "translated": 580,
-      "lastDate": "2026-07-07T07:35:56+00:00"
+      "total": 582,
+      "translated": 581,
+      "lastDate": "2026-07-07T10:22:21+00:00"
     },
     {
       "name": "The Guardian AI",
@@ -79,9 +79,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 408,
-      "translated": 407,
-      "lastDate": "2026-07-07T09:15:05+00:00"
+      "total": 409,
+      "translated": 408,
+      "lastDate": "2026-07-07T10:08:15+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -108,22 +108,22 @@
       "lastDate": "Wed, 29 Apr 2026 19:00:18 +0200"
     },
     {
+      "name": "MIT Technology Review",
+      "total": 235,
+      "translated": 235,
+      "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
+    },
+    {
       "name": "Backdoor (TG)",
       "total": 235,
       "translated": 234,
       "lastDate": "2026-07-07T08:23:37+00:00"
     },
     {
-      "name": "MIT Technology Review",
-      "total": 234,
-      "translated": 234,
-      "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
-    },
-    {
       "name": "Hi, AI Russian (TG)",
-      "total": 182,
-      "translated": 182,
-      "lastDate": "2026-07-07T06:12:59+00:00"
+      "total": 183,
+      "translated": 183,
+      "lastDate": "2026-07-07T11:21:31+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -133,8 +133,8 @@
     },
     {
       "name": "AI News",
-      "total": 147,
-      "translated": 147,
+      "total": 149,
+      "translated": 149,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
     {
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 103,
-      "translated": 103,
-      "lastDate": "2026-07-07T09:36:40+00:00"
+      "total": 104,
+      "translated": 104,
+      "lastDate": "2026-07-07T11:01:02+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-07T09:42:28.497Z"
+  "generatedAt": "2026-07-07T11:31:05.357Z"
 }
