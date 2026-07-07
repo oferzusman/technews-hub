@@ -1,9 +1,9 @@
 {
-  "total": 13781,
-  "translated": 13778,
+  "total": 13784,
+  "translated": 13781,
   "untranslated": 3,
-  "today": 100,
-  "week": 633,
+  "today": 103,
+  "week": 636,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1096,
-      "translated": 1096,
+      "total": 1097,
+      "translated": 1097,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -109,9 +109,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 238,
-      "translated": 237,
-      "lastDate": "2026-07-07T17:10:06+00:00"
+      "total": 239,
+      "translated": 238,
+      "lastDate": "2026-07-07T21:09:17+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -127,8 +127,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 183,
-      "translated": 183,
+      "total": 184,
+      "translated": 184,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-07T20:47:28.036Z"
+  "generatedAt": "2026-07-07T21:24:58.106Z"
 }
