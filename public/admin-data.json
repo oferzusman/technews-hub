@@ -1,9 +1,9 @@
 {
-  "total": 13764,
-  "translated": 13761,
+  "total": 13770,
+  "translated": 13767,
   "untranslated": 3,
-  "today": 83,
-  "week": 616,
+  "today": 89,
+  "week": 622,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 812,
-      "translated": 812,
+      "total": 813,
+      "translated": 813,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 660,
-      "translated": 660,
+      "total": 661,
+      "translated": 661,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 584,
-      "translated": 584,
+      "total": 586,
+      "translated": 586,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -73,15 +73,15 @@
     },
     {
       "name": "The Verge AI",
-      "total": 417,
-      "translated": 417,
-      "lastDate": "2026-07-07T13:00:00.000Z"
+      "total": 418,
+      "translated": 418,
+      "lastDate": "2026-07-07T17:46:59.000Z"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 411,
-      "translated": 410,
-      "lastDate": "2026-07-07T12:48:17+00:00"
+      "total": 412,
+      "translated": 411,
+      "lastDate": "2026-07-07T18:07:38+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-07T17:36:07.919Z"
+  "generatedAt": "2026-07-07T18:18:36.085Z"
 }
