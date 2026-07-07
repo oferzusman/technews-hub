@@ -1,14 +1,14 @@
 {
-  "total": 13753,
-  "translated": 13750,
+  "total": 13764,
+  "translated": 13761,
   "untranslated": 3,
-  "today": 72,
-  "week": 605,
+  "today": 83,
+  "week": 616,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1194,
-      "translated": 1194,
+      "total": 1195,
+      "translated": 1195,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -19,14 +19,14 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1094,
-      "translated": 1094,
+      "total": 1096,
+      "translated": 1096,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 811,
-      "translated": 811,
+      "total": 812,
+      "translated": 812,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 659,
-      "translated": 659,
+      "total": 660,
+      "translated": 660,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -55,9 +55,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 583,
-      "translated": 582,
-      "lastDate": "2026-07-07T13:57:39+00:00"
+      "total": 584,
+      "translated": 583,
+      "lastDate": "2026-07-07T17:06:09+00:00"
     },
     {
       "name": "The Guardian AI",
@@ -91,8 +91,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 393,
-      "translated": 393,
+      "total": 394,
+      "translated": 394,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -108,16 +108,16 @@
       "lastDate": "Wed, 29 Apr 2026 19:00:18 +0200"
     },
     {
+      "name": "Backdoor (TG)",
+      "total": 238,
+      "translated": 237,
+      "lastDate": "2026-07-07T17:10:06+00:00"
+    },
+    {
       "name": "MIT Technology Review",
       "total": 237,
       "translated": 237,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
-    },
-    {
-      "name": "Backdoor (TG)",
-      "total": 236,
-      "translated": 235,
-      "lastDate": "2026-07-07T12:53:59+00:00"
     },
     {
       "name": "Hi, AI Russian (TG)",
@@ -139,9 +139,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 131,
-      "translated": 131,
-      "lastDate": "2026-07-07T12:25:20+00:00"
+      "total": 132,
+      "translated": 132,
+      "lastDate": "2026-07-07T17:10:47+00:00"
     },
     {
       "name": "Hi, AI English (TG)",
@@ -175,8 +175,8 @@
     },
     {
       "name": "Google AI Blog",
-      "total": 65,
-      "translated": 65,
+      "total": 66,
+      "translated": 66,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-07T16:43:59.966Z"
+  "generatedAt": "2026-07-07T17:34:49.417Z"
 }
