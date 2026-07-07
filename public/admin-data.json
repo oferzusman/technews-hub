@@ -1,14 +1,14 @@
 {
-  "total": 13721,
-  "translated": 13718,
+  "total": 13730,
+  "translated": 13727,
   "untranslated": 3,
-  "today": 40,
-  "week": 573,
+  "today": 49,
+  "week": 582,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1188,
-      "translated": 1188,
+      "total": 1191,
+      "translated": 1191,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -19,20 +19,20 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1091,
-      "translated": 1091,
+      "total": 1092,
+      "translated": 1092,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 808,
-      "translated": 808,
+      "total": 809,
+      "translated": 809,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 763,
-      "translated": 763,
+      "total": 764,
+      "translated": 764,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 648,
-      "translated": 648,
+      "total": 649,
+      "translated": 649,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -79,9 +79,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 409,
-      "translated": 408,
-      "lastDate": "2026-07-07T10:08:15+00:00"
+      "total": 410,
+      "translated": 409,
+      "lastDate": "2026-07-07T12:09:49+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -139,9 +139,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 130,
-      "translated": 130,
-      "lastDate": "2026-07-07T04:59:01+00:00"
+      "total": 131,
+      "translated": 131,
+      "lastDate": "2026-07-07T12:25:20+00:00"
     },
     {
       "name": "Hi, AI English (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-07T11:46:57.696Z"
+  "generatedAt": "2026-07-07T12:28:12.806Z"
 }
