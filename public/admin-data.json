@@ -1,9 +1,9 @@
 {
-  "total": 13718,
-  "translated": 13715,
+  "total": 13721,
+  "translated": 13718,
   "untranslated": 3,
-  "today": 37,
-  "week": 570,
+  "today": 40,
+  "week": 573,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,9 +13,9 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1103,
-      "translated": 1103,
-      "lastDate": "2026-07-06T09:37:56.000Z"
+      "total": 1104,
+      "translated": 1104,
+      "lastDate": "2026-07-06T22:56:37.000Z"
     },
     {
       "name": "Interesting Engineering",
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 656,
-      "translated": 656,
+      "total": 657,
+      "translated": 657,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -109,8 +109,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 235,
-      "translated": 235,
+      "total": 236,
+      "translated": 236,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-07T11:45:40.078Z"
+  "generatedAt": "2026-07-07T11:46:57.696Z"
 }
