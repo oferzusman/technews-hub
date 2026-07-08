@@ -1,9 +1,9 @@
 {
-  "total": 13800,
-  "translated": 13797,
+  "total": 13805,
+  "translated": 13802,
   "untranslated": 3,
-  "today": 0,
-  "week": 534,
+  "today": 5,
+  "week": 539,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -43,8 +43,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 653,
-      "translated": 653,
+      "total": 654,
+      "translated": 654,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -55,9 +55,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 586,
-      "translated": 585,
-      "lastDate": "2026-07-07T23:20:00+00:00"
+      "total": 587,
+      "translated": 586,
+      "lastDate": "2026-07-08T02:15:00+00:00"
     },
     {
       "name": "The Guardian AI",
@@ -91,8 +91,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 394,
-      "translated": 394,
+      "total": 396,
+      "translated": 396,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -181,9 +181,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 64,
-      "translated": 64,
-      "lastDate": "2026-07-05T17:53:57+00:00"
+      "total": 65,
+      "translated": 65,
+      "lastDate": "2026-07-08T02:31:24+00:00"
     },
     {
       "name": "Github.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-08T01:14:36.421Z"
+  "generatedAt": "2026-07-08T03:19:29.866Z"
 }
