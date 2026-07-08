@@ -1,9 +1,9 @@
 {
-  "total": 13825,
-  "translated": 13822,
+  "total": 13827,
+  "translated": 13824,
   "untranslated": 3,
-  "today": 25,
-  "week": 559,
+  "today": 27,
+  "week": 561,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 819,
-      "translated": 819,
+      "total": 820,
+      "translated": 820,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -150,16 +150,16 @@
       "lastDate": "2026-07-08T07:27:00+00:00"
     },
     {
+      "name": "Habr (TG)",
+      "total": 105,
+      "translated": 105,
+      "lastDate": "2026-07-08T09:32:23+00:00"
+    },
+    {
       "name": "Onefootball.com",
       "total": 104,
       "translated": 104,
       "lastDate": "2026-04-09T07:08:00Z"
-    },
-    {
-      "name": "Habr (TG)",
-      "total": 104,
-      "translated": 104,
-      "lastDate": "2026-07-07T11:01:02+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-08T09:08:06.387Z"
+  "generatedAt": "2026-07-08T09:35:07.658Z"
 }
