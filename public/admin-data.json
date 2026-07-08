@@ -1,14 +1,14 @@
 {
-  "total": 13881,
-  "translated": 13878,
+  "total": 13888,
+  "translated": 13885,
   "untranslated": 3,
-  "today": 81,
-  "week": 615,
+  "today": 88,
+  "week": 622,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1208,
-      "translated": 1208,
+      "total": 1209,
+      "translated": 1209,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -31,14 +31,14 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 773,
-      "translated": 773,
+      "total": 774,
+      "translated": 774,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "The Decoder",
-      "total": 668,
-      "translated": 668,
+      "total": 669,
+      "translated": 669,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 591,
-      "translated": 591,
+      "total": 592,
+      "translated": 592,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -109,14 +109,14 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 240,
-      "translated": 239,
-      "lastDate": "2026-07-08T13:21:49+00:00"
+      "total": 241,
+      "translated": 240,
+      "lastDate": "2026-07-08T16:46:19+00:00"
     },
     {
       "name": "MIT Technology Review",
-      "total": 238,
-      "translated": 238,
+      "total": 239,
+      "translated": 239,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -145,9 +145,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 127,
-      "translated": 127,
-      "lastDate": "2026-07-08T12:31:49+00:00"
+      "total": 128,
+      "translated": 128,
+      "lastDate": "2026-07-08T16:52:24+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-08T16:55:40.664Z"
+  "generatedAt": "2026-07-08T16:56:29.835Z"
 }
