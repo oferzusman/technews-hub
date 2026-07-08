@@ -1,14 +1,14 @@
 {
-  "total": 13842,
-  "translated": 13839,
+  "total": 13850,
+  "translated": 13847,
   "untranslated": 3,
-  "today": 42,
-  "week": 576,
+  "today": 50,
+  "week": 584,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1199,
-      "translated": 1199,
+      "total": 1200,
+      "translated": 1200,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 820,
-      "translated": 820,
+      "total": 823,
+      "translated": 823,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 665,
-      "translated": 665,
+      "total": 666,
+      "translated": 666,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 516,
-      "translated": 516,
+      "total": 517,
+      "translated": 517,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -115,8 +115,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 237,
-      "translated": 237,
+      "total": 238,
+      "translated": 238,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -145,9 +145,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 126,
-      "translated": 126,
-      "lastDate": "2026-07-08T07:27:00+00:00"
+      "total": 127,
+      "translated": 127,
+      "lastDate": "2026-07-08T12:31:49+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-08T13:00:36.639Z"
+  "generatedAt": "2026-07-08T13:04:55.800Z"
 }
