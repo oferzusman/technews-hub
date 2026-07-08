@@ -1,9 +1,9 @@
 {
-  "total": 13870,
-  "translated": 13867,
+  "total": 13875,
+  "translated": 13872,
   "untranslated": 3,
-  "today": 70,
-  "week": 604,
+  "today": 75,
+  "week": 609,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,8 +19,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1099,
-      "translated": 1099,
+      "total": 1102,
+      "translated": 1102,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 659,
-      "translated": 659,
+      "total": 660,
+      "translated": 660,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -127,8 +127,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 184,
-      "translated": 184,
+      "total": 185,
+      "translated": 185,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-08T15:28:33.448Z"
+  "generatedAt": "2026-07-08T15:42:17.218Z"
 }
