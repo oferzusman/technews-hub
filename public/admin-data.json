@@ -1,13 +1,13 @@
 {
-  "total": 13959,
+  "total": 13965,
   "translated": 13956,
-  "untranslated": 3,
-  "today": 29,
-  "week": 586,
+  "untranslated": 9,
+  "today": 35,
+  "week": 592,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1209,
+      "total": 1210,
       "translated": 1209,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
@@ -25,7 +25,7 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 827,
+      "total": 828,
       "translated": 827,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
@@ -37,7 +37,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 672,
+      "total": 673,
       "translated": 672,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -48,16 +48,16 @@
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
+      "name": "AI Post (TG)",
+      "total": 598,
+      "translated": 596,
+      "lastDate": "2026-07-09T10:39:03+00:00"
+    },
+    {
       "name": "Ars Technica",
       "total": 597,
       "translated": 597,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
-    },
-    {
-      "name": "AI Post (TG)",
-      "total": 597,
-      "translated": 596,
-      "lastDate": "2026-07-09T07:24:34+00:00"
     },
     {
       "name": "The Guardian AI",
@@ -72,16 +72,16 @@
       "lastDate": "2026-04-09T07:21:22Z"
     },
     {
+      "name": "XOR Journal (TG)",
+      "total": 421,
+      "translated": 419,
+      "lastDate": "2026-07-09T10:24:31+00:00"
+    },
+    {
       "name": "The Verge AI",
       "total": 420,
       "translated": 420,
       "lastDate": "2026-07-08T17:00:00.000Z"
-    },
-    {
-      "name": "XOR Journal (TG)",
-      "total": 420,
-      "translated": 419,
-      "lastDate": "2026-07-09T09:31:03+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -133,7 +133,7 @@
     },
     {
       "name": "AI News",
-      "total": 150,
+      "total": 151,
       "translated": 150,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-09T09:40:56.966Z"
+  "generatedAt": "2026-07-09T10:46:55.840Z"
 }
