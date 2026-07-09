@@ -1,13 +1,13 @@
 {
-  "total": 13988,
+  "total": 14011,
   "translated": 13985,
-  "untranslated": 3,
-  "today": 58,
-  "week": 615,
+  "untranslated": 26,
+  "today": 81,
+  "week": 638,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1217,
+      "total": 1223,
       "translated": 1217,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
@@ -25,13 +25,13 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 828,
+      "total": 831,
       "translated": 828,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 786,
+      "total": 788,
       "translated": 786,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -43,25 +43,25 @@
     },
     {
       "name": "New Atlas",
-      "total": 664,
+      "total": 665,
       "translated": 664,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
-      "name": "AI Post (TG)",
-      "total": 598,
-      "translated": 597,
-      "lastDate": "2026-07-09T10:39:03+00:00"
-    },
-    {
       "name": "Ars Technica",
-      "total": 597,
+      "total": 600,
       "translated": 597,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
+      "name": "AI Post (TG)",
+      "total": 600,
+      "translated": 597,
+      "lastDate": "2026-07-09T14:20:01+00:00"
+    },
+    {
       "name": "The Guardian AI",
-      "total": 519,
+      "total": 521,
       "translated": 519,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
@@ -73,15 +73,15 @@
     },
     {
       "name": "The Verge AI",
-      "total": 423,
+      "total": 424,
       "translated": 423,
-      "lastDate": "2026-07-09T13:30:00.000Z"
+      "lastDate": "2026-07-09T14:00:00.000Z"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 422,
+      "total": 423,
       "translated": 421,
-      "lastDate": "2026-07-09T13:03:27+00:00"
+      "lastDate": "2026-07-09T15:16:58+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -145,15 +145,15 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 130,
+      "total": 131,
       "translated": 130,
-      "lastDate": "2026-07-09T07:54:24+00:00"
+      "lastDate": "2026-07-09T15:23:54+00:00"
     },
     {
       "name": "Habr (TG)",
-      "total": 106,
+      "total": 107,
       "translated": 106,
-      "lastDate": "2026-07-09T13:01:00+00:00"
+      "lastDate": "2026-07-09T14:04:04+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-09T14:50:37.145Z"
+  "generatedAt": "2026-07-09T15:57:50.280Z"
 }
