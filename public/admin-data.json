@@ -1,9 +1,9 @@
 {
-  "total": 14136,
-  "translated": 14124,
-  "untranslated": 12,
-  "today": 57,
-  "week": 672,
+  "total": 14138,
+  "translated": 14135,
+  "untranslated": 3,
+  "today": 59,
+  "week": 674,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -14,7 +14,7 @@
     {
       "name": "Interesting Engineering",
       "total": 1124,
-      "translated": 1123,
+      "translated": 1124,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -26,7 +26,7 @@
     {
       "name": "CNBC Tech",
       "total": 838,
-      "translated": 837,
+      "translated": 838,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -38,19 +38,19 @@
     {
       "name": "The Decoder",
       "total": 681,
-      "translated": 679,
+      "translated": 681,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 674,
-      "translated": 674,
+      "total": 675,
+      "translated": 675,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "Ars Technica",
       "total": 607,
-      "translated": 604,
+      "translated": 607,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 430,
-      "translated": 430,
-      "lastDate": "2026-07-10T00:04:13.000Z"
+      "total": 431,
+      "translated": 431,
+      "lastDate": "2026-07-10T13:20:25.000Z"
     },
     {
       "name": "XOR Journal (TG)",
@@ -110,13 +110,13 @@
     {
       "name": "Backdoor (TG)",
       "total": 248,
-      "translated": 246,
+      "translated": 247,
       "lastDate": "2026-07-10T12:28:52+00:00"
     },
     {
       "name": "MIT Technology Review",
       "total": 242,
-      "translated": 241,
+      "translated": 242,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-10T12:59:31.613Z"
+  "generatedAt": "2026-07-10T13:28:14.205Z"
 }
