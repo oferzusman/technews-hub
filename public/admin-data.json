@@ -1,14 +1,14 @@
 {
-  "total": 14111,
-  "translated": 14108,
+  "total": 14119,
+  "translated": 14116,
   "untranslated": 3,
-  "today": 32,
-  "week": 647,
+  "today": 40,
+  "week": 655,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1223,
-      "translated": 1223,
+      "total": 1224,
+      "translated": 1224,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 672,
-      "translated": 672,
+      "total": 674,
+      "translated": 674,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 531,
-      "translated": 531,
+      "total": 532,
+      "translated": 532,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -79,9 +79,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 428,
-      "translated": 427,
-      "lastDate": "2026-07-10T07:53:18+00:00"
+      "total": 430,
+      "translated": 429,
+      "lastDate": "2026-07-10T10:16:21+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -121,9 +121,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 194,
-      "translated": 194,
-      "lastDate": "2026-07-10T06:11:16+00:00"
+      "total": 195,
+      "translated": 195,
+      "lastDate": "2026-07-10T10:04:02+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -193,9 +193,9 @@
     },
     {
       "name": "Nature Machine Intelligence",
-      "total": 46,
-      "translated": 46,
-      "lastDate": "2026-07-06T00:00:00.000Z"
+      "total": 47,
+      "translated": 47,
+      "lastDate": "2026-07-10T00:00:00.000Z"
     },
     {
       "name": "Prompt AI News (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-10T09:55:38.157Z"
+  "generatedAt": "2026-07-10T10:41:37.311Z"
 }
