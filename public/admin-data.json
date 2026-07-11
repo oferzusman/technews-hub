@@ -1,9 +1,9 @@
 {
-  "total": 14207,
-  "translated": 14204,
+  "total": 14209,
+  "translated": 14206,
   "untranslated": 3,
-  "today": 17,
-  "week": 690,
+  "today": 19,
+  "week": 692,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 686,
-      "translated": 686,
+      "total": 687,
+      "translated": 687,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -145,9 +145,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 135,
-      "translated": 135,
-      "lastDate": "2026-07-10T16:21:34+00:00"
+      "total": 136,
+      "translated": 136,
+      "lastDate": "2026-07-11T08:32:18+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-11T08:16:13.967Z"
+  "generatedAt": "2026-07-11T08:47:10.494Z"
 }
