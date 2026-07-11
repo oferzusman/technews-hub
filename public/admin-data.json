@@ -1,7 +1,7 @@
 {
   "total": 14195,
-  "translated": 14190,
-  "untranslated": 5,
+  "translated": 14192,
+  "untranslated": 3,
   "today": 5,
   "week": 678,
   "sources": [
@@ -50,7 +50,7 @@
     {
       "name": "AI Post (TG)",
       "total": 612,
-      "translated": 610,
+      "translated": 611,
       "lastDate": "2026-07-11T02:02:02+00:00"
     },
     {
@@ -176,7 +176,7 @@
     {
       "name": "Data Science ODS.ai (TG)",
       "total": 69,
-      "translated": 68,
+      "translated": 69,
       "lastDate": "2026-07-11T01:30:54+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-11T04:20:36.708Z"
+  "generatedAt": "2026-07-11T04:21:09.752Z"
 }
