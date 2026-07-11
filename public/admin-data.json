@@ -1,7 +1,7 @@
 {
   "total": 14207,
-  "translated": 14196,
-  "untranslated": 11,
+  "translated": 14204,
+  "untranslated": 3,
   "today": 17,
   "week": 690,
   "sources": [
@@ -20,7 +20,7 @@
     {
       "name": "Product Hunt",
       "total": 1115,
-      "translated": 1114,
+      "translated": 1115,
       "lastDate": "2026-07-09T17:16:44.000Z"
     },
     {
@@ -38,7 +38,7 @@
     {
       "name": "The Decoder",
       "total": 686,
-      "translated": 684,
+      "translated": 686,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -50,7 +50,7 @@
     {
       "name": "AI Post (TG)",
       "total": 614,
-      "translated": 612,
+      "translated": 613,
       "lastDate": "2026-07-11T07:40:16+00:00"
     },
     {
@@ -92,7 +92,7 @@
     {
       "name": "MarkTechPost",
       "total": 414,
-      "translated": 413,
+      "translated": 414,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -110,7 +110,7 @@
     {
       "name": "Backdoor (TG)",
       "total": 249,
-      "translated": 247,
+      "translated": 248,
       "lastDate": "2026-07-11T07:15:34+00:00"
     },
     {
@@ -122,7 +122,7 @@
     {
       "name": "Hi, AI Russian (TG)",
       "total": 197,
-      "translated": 196,
+      "translated": 197,
       "lastDate": "2026-07-11T07:25:58+00:00"
     },
     {
@@ -140,7 +140,7 @@
     {
       "name": "Wylsacom Red (TG)",
       "total": 136,
-      "translated": 135,
+      "translated": 136,
       "lastDate": "2026-07-11T07:41:16+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-11T08:13:55.411Z"
+  "generatedAt": "2026-07-11T08:14:45.309Z"
 }
