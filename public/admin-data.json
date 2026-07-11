@@ -1,7 +1,7 @@
 {
   "total": 14232,
-  "translated": 14225,
-  "untranslated": 7,
+  "translated": 14229,
+  "untranslated": 3,
   "today": 42,
   "week": 715,
   "sources": [
@@ -14,7 +14,7 @@
     {
       "name": "Interesting Engineering",
       "total": 1134,
-      "translated": 1133,
+      "translated": 1134,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -26,7 +26,7 @@
     {
       "name": "CNBC Tech",
       "total": 851,
-      "translated": 850,
+      "translated": 851,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -50,7 +50,7 @@
     {
       "name": "AI Post (TG)",
       "total": 617,
-      "translated": 615,
+      "translated": 616,
       "lastDate": "2026-07-11T14:59:01+00:00"
     },
     {
@@ -152,7 +152,7 @@
     {
       "name": "Habr (TG)",
       "total": 109,
-      "translated": 108,
+      "translated": 109,
       "lastDate": "2026-07-11T15:00:47+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-11T15:13:07.758Z"
+  "generatedAt": "2026-07-11T15:13:56.665Z"
 }
