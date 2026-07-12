@@ -1,4 +1,4 @@
-<!doctype html><html lang="he"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head><body>
+<!doctype html><html lang="he"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover"></head><body>
 <title>🍉 WATERMELON DOOM — דום אבטיחים</title>
 <style>
   html,body{margin:0;padding:0;background:#000;height:100%;overflow:hidden;font-family:'Courier New',monospace}
@@ -17,8 +17,35 @@
   .overlay .stats{font-size:min(4.6vw,22px);color:#ffd75e;margin-bottom:18px;line-height:1.6}
   @keyframes pulse{50%{transform:scale(1.06);box-shadow:0 0 34px #f22}}
   .hidden{display:none!important}
+  /* --- mobile touch controls --- */
+  body.touch, body.touch canvas#game{touch-action:none;-webkit-tap-highlight-color:transparent}
+  #touchUI{position:fixed;inset:0;z-index:5;pointer-events:none;display:none}
+  body.touch #touchUI{display:block}
+  .tbtn{position:absolute;pointer-events:auto;display:flex;align-items:center;justify-content:center;
+    border-radius:50%;background:rgba(25,28,36,.5);border:2px solid rgba(255,255,255,.35);color:#fff;
+    user-select:none;-webkit-user-select:none;touch-action:none}
+  /* controls sit above the HUD bar (bottom 18% of the canvas) */
+  #fireBtn{right:4vw;bottom:27vh;width:92px;height:92px;font-size:42px;
+    background:rgba(150,22,22,.55);border-color:rgba(255,100,100,.75)}
+  #nadeBtn{right:20vw;bottom:23vh;width:62px;height:62px;font-size:28px}
+  #swapBtn{right:5vw;bottom:4vh;width:58px;height:58px;font-size:26px}
+  #stick{position:absolute;left:4vw;bottom:23vh;width:132px;height:132px;border-radius:50%;
+    background:rgba(255,255,255,.08);border:2px solid rgba(255,255,255,.28);pointer-events:auto;touch-action:none}
+  #knob{position:absolute;left:50%;top:50%;width:58px;height:58px;border-radius:50%;
+    background:rgba(255,255,255,.38);transform:translate(-50%,-50%)}
+  #rotateHint{position:fixed;top:10px;left:50%;transform:translateX(-50%);z-index:20;display:none;
+    background:rgba(0,0,0,.75);color:#ffd75e;padding:8px 18px;font-size:15px;border:1px solid #ffd75e;
+    border-radius:8px;pointer-events:none;direction:rtl;font-family:'Courier New',monospace}
+  @media (orientation:portrait){ body.touch #rotateHint{display:block} }
 </style>
 <div id="wrap"><canvas id="game" width="640" height="400"></canvas></div>
+<div id="rotateHint">🔄 סובב את הטלפון לרוחב למשחק נוח</div>
+<div id="touchUI">
+  <div id="stick"><div id="knob"></div></div>
+  <div id="fireBtn" class="tbtn">🔥</div>
+  <div id="nadeBtn" class="tbtn">💣</div>
+  <div id="swapBtn" class="tbtn">🔄</div>
+</div>
 
 <div id="menu" class="overlay">
   <div class="melon">🍉😡🍉</div>
@@ -58,7 +85,7 @@ function fitCanvas(){
   let cw=ww, ch=ww/ar; if(ch>wh){ch=wh; cw=wh*ar;}
   cv.style.width=cw+'px'; cv.style.height=ch+'px';
 }
-addEventListener('resize',fitCanvas); fitCanvas();
+addEventListener('resize',fitCanvas); addEventListener('orientationchange',()=>setTimeout(fitCanvas,300)); fitCanvas();
 
 /* ---------------- utils ---------------- */
 const clamp=(v,a,b)=>v<a?a:v>b?b:v;
@@ -581,13 +608,93 @@ addEventListener('wheel',e=>{
   P.switchTo=w;
 },{passive:true});
 document.addEventListener('pointerlockchange',()=>{
-  if(document.pointerLockElement!==cv&&running&&!paused&&!gameOver)togglePause(true);
+  if(!IS_TOUCH&&document.pointerLockElement!==cv&&running&&!paused&&!gameOver)togglePause(true);
 });
+document.addEventListener('visibilitychange',()=>{ // pause when the phone/tab goes to background
+  if(document.hidden&&running&&!paused&&!gameOver)togglePause(true);
+});
+
+/* ---------------- touch controls (mobile) ---------------- */
+const IS_TOUCH=('ontouchstart' in window)||navigator.maxTouchPoints>0;
+const touchMove={x:0,y:0};
+if(IS_TOUCH){
+  document.body.classList.add('touch');
+  const stick=document.getElementById('stick'), knob=document.getElementById('knob'),
+        fireBtn=document.getElementById('fireBtn'), nadeBtn=document.getElementById('nadeBtn'),
+        swapBtn=document.getElementById('swapBtn');
+  let stickId=-1, lookId=-1, lookLastX=0;
+  const canvasPos=t=>{const r=cv.getBoundingClientRect();
+    return {x:(t.clientX-r.left)*W/r.width, y:(t.clientY-r.top)*H/r.height};};
+  function hudWeaponTap(cx,cy){
+    const y0=H-HUD_H;
+    for(let i=1;i<=7;i++){
+      const wx=146+((i-1)%4)*35, wy=y0+14+(((i-1)/4)|0)*28;
+      if(cx>=wx-3&&cx<=wx+34&&cy>=wy-3&&cy<=wy+27){if(i!==P.weapon)P.switchTo=i;return true;}
+    }
+    return false;
+  }
+  function setKnob(dx,dy){knob.style.transform=`translate(calc(-50% + ${dx}px), calc(-50% + ${dy}px))`;}
+  stick.addEventListener('touchstart',e=>{e.preventDefault();
+    if(stickId<0)stickId=e.changedTouches[0].identifier;},{passive:false});
+  cv.addEventListener('touchstart',e=>{e.preventDefault();
+    for(const t of e.changedTouches){
+      const p=canvasPos(t);
+      if(p.y>=H-HUD_H){hudWeaponTap(p.x,p.y);continue;}
+      if(lookId<0){lookId=t.identifier;lookLastX=t.clientX;}
+    }},{passive:false});
+  addEventListener('touchmove',e=>{
+    for(const t of e.changedTouches){
+      if(t.identifier===stickId){
+        const r=stick.getBoundingClientRect();
+        let dx=t.clientX-(r.left+r.width/2), dy=t.clientY-(r.top+r.height/2);
+        const d=Math.hypot(dx,dy), max=r.width/2-10;
+        if(d>max){dx*=max/d;dy*=max/d;}
+        setKnob(dx,dy); touchMove.x=dx/max; touchMove.y=dy/max;
+      } else if(t.identifier===lookId&&running&&!paused){
+        P.a+=(t.clientX-lookLastX)*0.0048; lookLastX=t.clientX;
+      }
+    }
+    if(e.cancelable)e.preventDefault();
+  },{passive:false});
+  const endTouch=e=>{
+    for(const t of e.changedTouches){
+      if(t.identifier===stickId){stickId=-1;touchMove.x=0;touchMove.y=0;setKnob(0,0);}
+      if(t.identifier===lookId)lookId=-1;
+    }};
+  addEventListener('touchend',endTouch);addEventListener('touchcancel',endTouch);
+  const btn=(el,down,up)=>{
+    el.addEventListener('touchstart',e=>{e.preventDefault();down();},{passive:false});
+    el.addEventListener('touchend',e=>{e.preventDefault();up&&up();},{passive:false});
+    el.addEventListener('touchcancel',()=>{up&&up();});
+  };
+  btn(fireBtn,()=>{if(!running||paused||gameOver)return;P.fireHeld=true;P.touchFire=true;fireWeapon();},
+      ()=>{P.fireHeld=false;P.touchFire=false;});
+  btn(swapBtn,()=>{if(!running||paused)return;
+    let w=(P.switchTo>0?P.switchTo:P.weapon)+1; if(w>7)w=1; P.switchTo=w;});
+  btn(nadeBtn,()=>{ // quick grenade throw, whatever weapon is held
+    if(!running||paused||gameOver)return;
+    if(P.grenades<1){SFX.empty();return;}
+    if(P.nadeCool>0)return;
+    P.nadeCool=WEAPONS[5].rate;P.grenades--;SFX.throwG();throwGrenade();});
+  // swap keyboard instructions for touch ones in the menu
+  const tbl=document.querySelector('#menu table');
+  if(tbl)tbl.innerHTML=
+    '<tr><td class="k">🕹️</td><td>ג\'ויסטיק שמאלי — תנועה</td></tr>'+
+    '<tr><td class="k">👆</td><td>גרירה על המסך — הסתכלות</td></tr>'+
+    '<tr><td class="k">🔥</td><td>ירי / תקיפה (החזק לירי רציף)</td></tr>'+
+    '<tr><td class="k">💣</td><td>זריקת רימון מהירה</td></tr>'+
+    '<tr><td class="k">🔄</td><td>החלפת נשק (או הקשה על שורת הנשקים)</td></tr>';
+}
 
 /* ---------------- ui overlays ---------------- */
 const menuEl=document.getElementById('menu'), deadEl=document.getElementById('dead'),
       pausedEl=document.getElementById('paused'), deadStats=document.getElementById('deadStats');
-function lockPointer(){ try{cv.requestPointerLock&&cv.requestPointerLock();}catch(e){} }
+function lockPointer(){ if(IS_TOUCH)return; try{cv.requestPointerLock&&cv.requestPointerLock();}catch(e){} }
+function goFullscreen(){ if(!IS_TOUCH)return;
+  try{const el=document.documentElement;
+    (el.requestFullscreen||el.webkitRequestFullscreen||function(){}).call(el);}catch(e){}
+  try{screen.orientation&&screen.orientation.lock&&screen.orientation.lock('landscape').catch(()=>{});}catch(e){}
+}
 menuEl.addEventListener('click',()=>{audio();startGame();});
 deadEl.addEventListener('click',()=>{audio();startGame();});
 pausedEl.addEventListener('click',()=>{togglePause(false);});
@@ -605,7 +712,7 @@ function startGame(){
   pickups.push({x:12,y:12,kind:'health',bob:0},{x:2.5,y:2.5,kind:'ammo',bob:1},
     {x:21.5,y:2.5,kind:'ammo',bob:2},{x:2.5,y:21.5,kind:'grenade',bob:3},{x:21.5,y:21.5,kind:'ammo',bob:4});
   menuEl.classList.add('hidden');deadEl.classList.add('hidden');pausedEl.classList.add('hidden');
-  running=true;lastT=performance.now();lockPointer();
+  running=true;lastT=performance.now();lockPointer();goFullscreen();
 }
 function die(){
   gameOver=true; P.fireHeld=false;
@@ -626,12 +733,13 @@ function update(dt){
     P.switchT-=dt*5;
     if(P.switchT<=0){P.weapon=P.switchTo;P.switchTo=-1;}
   } else P.switchT=Math.min(1,P.switchT+dt*5);
-  P.attackT+=dt;
-  if(P.fireHeld&&WEAPONS[P.weapon].auto)fireWeapon();
+  P.attackT+=dt; P.nadeCool=Math.max(0,(P.nadeCool||0)-dt);
+  if(P.fireHeld&&(WEAPONS[P.weapon].auto||P.touchFire))fireWeapon();
   // movement
   let mx=0,my=0;
   if(keys.KeyW||keys.ArrowUp)mx+=1; if(keys.KeyS||keys.ArrowDown)mx-=1;
   if(keys.KeyA)my-=1; if(keys.KeyD)my+=1;
+  if(IS_TOUCH){mx-=touchMove.y;my+=touchMove.x;} // joystick: up = forward
   if(keys.ArrowLeft)P.a-=2.4*dt; if(keys.ArrowRight)P.a+=2.4*dt;
   const mv=Math.hypot(mx,my);
   if(mv>0){
