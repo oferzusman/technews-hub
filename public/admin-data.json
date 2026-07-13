@@ -1,14 +1,14 @@
 {
-  "total": 14338,
-  "translated": 14335,
+  "total": 14345,
+  "translated": 14342,
   "untranslated": 3,
-  "today": 31,
-  "week": 657,
+  "today": 38,
+  "week": 664,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1246,
-      "translated": 1246,
+      "total": 1247,
+      "translated": 1247,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -49,9 +49,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 634,
-      "translated": 633,
-      "lastDate": "2026-07-13T07:32:02+00:00"
+      "total": 635,
+      "translated": 634,
+      "lastDate": "2026-07-13T10:11:01+00:00"
     },
     {
       "name": "Ars Technica",
@@ -73,9 +73,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 441,
-      "translated": 440,
-      "lastDate": "2026-07-13T06:43:18+00:00"
+      "total": 442,
+      "translated": 441,
+      "lastDate": "2026-07-13T09:54:38+00:00"
     },
     {
       "name": "The Verge AI",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 254,
-      "translated": 253,
-      "lastDate": "2026-07-13T08:19:16+00:00"
+      "total": 255,
+      "translated": 254,
+      "lastDate": "2026-07-13T10:53:54+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -193,9 +193,9 @@
     },
     {
       "name": "Nature Machine Intelligence",
-      "total": 47,
-      "translated": 47,
-      "lastDate": "2026-07-10T00:00:00.000Z"
+      "total": 50,
+      "translated": 50,
+      "lastDate": "2026-07-13T00:00:00.000Z"
     },
     {
       "name": "Prompt AI News (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-13T09:56:42.462Z"
+  "generatedAt": "2026-07-13T10:58:52.536Z"
 }
