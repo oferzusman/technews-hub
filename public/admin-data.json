@@ -1,20 +1,20 @@
 {
-  "total": 14357,
-  "translated": 14351,
-  "untranslated": 6,
-  "today": 50,
-  "week": 676,
+  "total": 14370,
+  "translated": 14366,
+  "untranslated": 4,
+  "today": 63,
+  "week": 689,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1250,
-      "translated": 1250,
+      "total": 1252,
+      "translated": 1252,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1147,
-      "translated": 1146,
+      "total": 1148,
+      "translated": 1148,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -25,32 +25,32 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 859,
-      "translated": 858,
+      "total": 860,
+      "translated": 860,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 809,
-      "translated": 809,
+      "total": 810,
+      "translated": 810,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "The Decoder",
-      "total": 701,
-      "translated": 701,
+      "total": 702,
+      "translated": 702,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 693,
-      "translated": 693,
+      "total": 696,
+      "translated": 696,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "AI Post (TG)",
       "total": 636,
-      "translated": 634,
+      "translated": 635,
       "lastDate": "2026-07-13T12:34:56+00:00"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 546,
-      "translated": 546,
+      "total": 548,
+      "translated": 548,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 442,
+      "total": 443,
       "translated": 441,
-      "lastDate": "2026-07-13T09:54:38+00:00"
+      "lastDate": "2026-07-13T13:53:29+00:00"
     },
     {
       "name": "The Verge AI",
@@ -96,16 +96,16 @@
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
+      "name": "The Register",
+      "total": 287,
+      "translated": 287,
+      "lastDate": "Wed, 29 Apr 2026 19:00:18 +0200"
+    },
+    {
       "name": "Futurism",
       "total": 287,
       "translated": 287,
       "lastDate": "Wed, 22 Apr 2026 16:27:39 -0400"
-    },
-    {
-      "name": "The Register",
-      "total": 286,
-      "translated": 286,
-      "lastDate": "Wed, 29 Apr 2026 19:00:18 +0200"
     },
     {
       "name": "Backdoor (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-13T13:40:18.833Z"
+  "generatedAt": "2026-07-13T15:24:07.580Z"
 }
