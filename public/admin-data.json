@@ -1,14 +1,14 @@
 {
-  "total": 14345,
-  "translated": 14342,
+  "total": 14354,
+  "translated": 14351,
   "untranslated": 3,
-  "today": 38,
-  "week": 664,
+  "today": 47,
+  "week": 673,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1247,
-      "translated": 1247,
+      "total": 1250,
+      "translated": 1250,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 857,
-      "translated": 857,
+      "total": 858,
+      "translated": 858,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -37,14 +37,14 @@
     },
     {
       "name": "The Decoder",
-      "total": 700,
-      "translated": 700,
+      "total": 701,
+      "translated": 701,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 692,
-      "translated": 692,
+      "total": 693,
+      "translated": 693,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 545,
-      "translated": 545,
+      "total": 546,
+      "translated": 546,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -115,8 +115,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 242,
-      "translated": 242,
+      "total": 243,
+      "translated": 243,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -133,8 +133,8 @@
     },
     {
       "name": "AI News",
-      "total": 153,
-      "translated": 153,
+      "total": 154,
+      "translated": 154,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-13T11:29:59.314Z"
+  "generatedAt": "2026-07-13T12:31:12.125Z"
 }
