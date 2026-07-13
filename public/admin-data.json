@@ -1,7 +1,7 @@
 {
   "total": 14400,
-  "translated": 14390,
-  "untranslated": 10,
+  "translated": 14397,
+  "untranslated": 3,
   "today": 93,
   "week": 719,
   "sources": [
@@ -14,7 +14,7 @@
     {
       "name": "Interesting Engineering",
       "total": 1151,
-      "translated": 1150,
+      "translated": 1151,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -32,7 +32,7 @@
     {
       "name": "TechCrunch AI",
       "total": 815,
-      "translated": 814,
+      "translated": 815,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -56,7 +56,7 @@
     {
       "name": "Ars Technica",
       "total": 618,
-      "translated": 614,
+      "translated": 618,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -80,7 +80,7 @@
     {
       "name": "The Verge AI",
       "total": 440,
-      "translated": 439,
+      "translated": 440,
       "lastDate": "2026-07-13T20:43:20.000Z"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-13T21:12:26.257Z"
+  "generatedAt": "2026-07-13T21:12:57.289Z"
 }
