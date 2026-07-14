@@ -1,9 +1,9 @@
 {
-  "total": 14634,
-  "translated": 14631,
+  "total": 14641,
+  "translated": 14638,
   "untranslated": 3,
-  "today": 227,
-  "week": 834,
+  "today": 234,
+  "week": 841,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,14 +25,14 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 869,
-      "translated": 869,
+      "total": 871,
+      "translated": 871,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 827,
-      "translated": 827,
+      "total": 828,
+      "translated": 828,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -55,14 +55,14 @@
     },
     {
       "name": "Ars Technica",
-      "total": 621,
-      "translated": 621,
+      "total": 624,
+      "translated": 624,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
       "name": "The Guardian AI",
-      "total": 554,
-      "translated": 554,
+      "total": 555,
+      "translated": 555,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-14T18:37:09.049Z"
+  "generatedAt": "2026-07-14T18:50:35.545Z"
 }
