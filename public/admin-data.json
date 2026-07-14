@@ -1,7 +1,7 @@
 {
   "total": 14568,
-  "translated": 14482,
-  "untranslated": 86,
+  "translated": 14531,
+  "untranslated": 37,
   "today": 161,
   "week": 768,
   "sources": [
@@ -74,7 +74,7 @@
     {
       "name": "XOR Journal (TG)",
       "total": 460,
-      "translated": 453,
+      "translated": 459,
       "lastDate": "2026-07-14T09:01:37+00:00"
     },
     {
@@ -122,7 +122,7 @@
     {
       "name": "Hi, AI Russian (TG)",
       "total": 214,
-      "translated": 203,
+      "translated": 214,
       "lastDate": "2026-07-14T12:47:05+00:00"
     },
     {
@@ -140,7 +140,7 @@
     {
       "name": "Hi, AI English (TG)",
       "total": 153,
-      "translated": 141,
+      "translated": 153,
       "lastDate": "2026-07-14T07:35:41+00:00"
     },
     {
@@ -152,7 +152,7 @@
     {
       "name": "Habr (TG)",
       "total": 116,
-      "translated": 115,
+      "translated": 116,
       "lastDate": "2026-07-14T12:01:04+00:00"
     },
     {
@@ -164,7 +164,7 @@
     {
       "name": "Data Science ODS.ai (TG)",
       "total": 87,
-      "translated": 73,
+      "translated": 87,
       "lastDate": "2026-07-14T11:08:44+00:00"
     },
     {
@@ -188,7 +188,7 @@
     {
       "name": "Prompt AI News (TG)",
       "total": 65,
-      "translated": 46,
+      "translated": 49,
       "lastDate": "2026-07-07T21:45:41+00:00"
     },
     {
@@ -206,7 +206,7 @@
     {
       "name": "Artificial Intelligence (TG)",
       "total": 44,
-      "translated": 24,
+      "translated": 26,
       "lastDate": "2026-07-05T02:41:52+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-14T12:57:43.557Z"
+  "generatedAt": "2026-07-14T13:02:51.722Z"
 }
