@@ -1,14 +1,14 @@
 {
-  "total": 14425,
-  "translated": 14422,
+  "total": 14429,
+  "translated": 14426,
   "untranslated": 3,
-  "today": 18,
-  "week": 625,
+  "today": 22,
+  "week": 629,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1258,
-      "translated": 1258,
+      "total": 1259,
+      "translated": 1259,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 549,
-      "translated": 549,
+      "total": 550,
+      "translated": 550,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -85,8 +85,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 424,
-      "translated": 424,
+      "total": 425,
+      "translated": 425,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -193,9 +193,9 @@
     },
     {
       "name": "Nature Machine Intelligence",
-      "total": 50,
-      "translated": 50,
-      "lastDate": "2026-07-13T00:00:00.000Z"
+      "total": 51,
+      "translated": 51,
+      "lastDate": "2026-07-14T00:00:00.000Z"
     },
     {
       "name": "Prompt AI News (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-14T09:28:22.685Z"
+  "generatedAt": "2026-07-14T10:22:47.326Z"
 }
