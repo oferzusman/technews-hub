@@ -1,14 +1,14 @@
 {
-  "total": 14614,
-  "translated": 14611,
+  "total": 14618,
+  "translated": 14615,
   "untranslated": 3,
-  "today": 207,
-  "week": 814,
+  "today": 211,
+  "week": 818,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1264,
-      "translated": 1264,
+      "total": 1265,
+      "translated": 1265,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -31,8 +31,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 824,
-      "translated": 824,
+      "total": 825,
+      "translated": 825,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -132,16 +132,16 @@
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
+      "name": "AI News",
+      "total": 155,
+      "translated": 155,
+      "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
+    },
+    {
       "name": "Hi, AI English (TG)",
       "total": 155,
       "translated": 155,
       "lastDate": "2026-07-14T13:55:59+00:00"
-    },
-    {
-      "name": "AI News",
-      "total": 154,
-      "translated": 154,
-      "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
     {
       "name": "Wylsacom Red (TG)",
@@ -181,8 +181,8 @@
     },
     {
       "name": "Google AI Blog",
-      "total": 66,
-      "translated": 66,
+      "total": 67,
+      "translated": 67,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-14T15:59:08.146Z"
+  "generatedAt": "2026-07-14T16:15:57.031Z"
 }
