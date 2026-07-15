@@ -1,9 +1,9 @@
 {
-  "total": 14750,
-  "translated": 14747,
+  "total": 14758,
+  "translated": 14755,
   "untranslated": 3,
-  "today": 82,
-  "week": 820,
+  "today": 90,
+  "week": 828,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1168,
-      "translated": 1168,
+      "total": 1169,
+      "translated": 1169,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 879,
-      "translated": 879,
+      "total": 880,
+      "translated": 880,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 717,
-      "translated": 717,
+      "total": 718,
+      "translated": 718,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -49,9 +49,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 672,
-      "translated": 671,
-      "lastDate": "2026-07-15T16:06:31+00:00"
+      "total": 673,
+      "translated": 672,
+      "lastDate": "2026-07-15T17:22:58+00:00"
     },
     {
       "name": "Ars Technica",
@@ -115,8 +115,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 247,
-      "translated": 247,
+      "total": 248,
+      "translated": 248,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -127,8 +127,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 188,
-      "translated": 188,
+      "total": 190,
+      "translated": 190,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -145,9 +145,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 139,
-      "translated": 139,
-      "lastDate": "2026-07-15T11:30:42+00:00"
+      "total": 140,
+      "translated": 140,
+      "lastDate": "2026-07-15T17:30:40+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-15T17:53:56.398Z"
+  "generatedAt": "2026-07-15T17:54:58.323Z"
 }
