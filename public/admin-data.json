@@ -1,9 +1,9 @@
 {
-  "total": 14693,
-  "translated": 14690,
+  "total": 14696,
+  "translated": 14693,
   "untranslated": 3,
-  "today": 25,
-  "week": 763,
+  "today": 28,
+  "week": 766,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 714,
-      "translated": 714,
+      "total": 715,
+      "translated": 715,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 468,
-      "translated": 467,
-      "lastDate": "2026-07-15T06:55:51+00:00"
+      "total": 469,
+      "translated": 468,
+      "lastDate": "2026-07-15T08:10:06+00:00"
     },
     {
       "name": "The Verge AI",
@@ -132,16 +132,16 @@
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
+      "name": "AI News",
+      "total": 156,
+      "translated": 156,
+      "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
+    },
+    {
       "name": "Hi, AI English (TG)",
       "total": 156,
       "translated": 156,
       "lastDate": "2026-07-15T07:31:40+00:00"
-    },
-    {
-      "name": "AI News",
-      "total": 155,
-      "translated": 155,
-      "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
     {
       "name": "Wylsacom Red (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-15T08:21:32.975Z"
+  "generatedAt": "2026-07-15T08:35:10.551Z"
 }
