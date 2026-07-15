@@ -1,7 +1,7 @@
 {
   "total": 14789,
-  "translated": 14779,
-  "untranslated": 10,
+  "translated": 14786,
+  "untranslated": 3,
   "today": 121,
   "week": 859,
   "sources": [
@@ -50,13 +50,13 @@
     {
       "name": "AI Post (TG)",
       "total": 675,
-      "translated": 673,
+      "translated": 674,
       "lastDate": "2026-07-15T21:33:01+00:00"
     },
     {
       "name": "Ars Technica",
       "total": 632,
-      "translated": 629,
+      "translated": 632,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -74,13 +74,13 @@
     {
       "name": "XOR Journal (TG)",
       "total": 476,
-      "translated": 474,
+      "translated": 475,
       "lastDate": "2026-07-15T21:34:26+00:00"
     },
     {
       "name": "The Verge AI",
       "total": 452,
-      "translated": 451,
+      "translated": 452,
       "lastDate": "2026-07-15T21:33:20.000Z"
     },
     {
@@ -110,7 +110,7 @@
     {
       "name": "Backdoor (TG)",
       "total": 266,
-      "translated": 264,
+      "translated": 265,
       "lastDate": "2026-07-15T22:03:58+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-15T22:12:43.600Z"
+  "generatedAt": "2026-07-15T22:13:10.879Z"
 }
