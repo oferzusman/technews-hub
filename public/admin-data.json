@@ -1,9 +1,9 @@
 {
-  "total": 14758,
-  "translated": 14755,
+  "total": 14769,
+  "translated": 14766,
   "untranslated": 3,
-  "today": 90,
-  "week": 828,
+  "today": 101,
+  "week": 839,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1169,
-      "translated": 1169,
+      "total": 1170,
+      "translated": 1170,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -25,14 +25,14 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 880,
-      "translated": 880,
+      "total": 882,
+      "translated": 882,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 845,
-      "translated": 845,
+      "total": 848,
+      "translated": 848,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 564,
-      "translated": 564,
+      "total": 565,
+      "translated": 565,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -79,14 +79,14 @@
     },
     {
       "name": "The Verge AI",
-      "total": 449,
-      "translated": 449,
-      "lastDate": "2026-07-15T16:00:00.000Z"
+      "total": 450,
+      "translated": 450,
+      "lastDate": "2026-07-15T17:48:01.000Z"
     },
     {
       "name": "MarkTechPost",
-      "total": 429,
-      "translated": 429,
+      "total": 430,
+      "translated": 430,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -109,9 +109,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 264,
-      "translated": 263,
-      "lastDate": "2026-07-15T17:08:12+00:00"
+      "total": 265,
+      "translated": 264,
+      "lastDate": "2026-07-15T18:29:02+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -127,8 +127,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 190,
-      "translated": 190,
+      "total": 191,
+      "translated": 191,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-15T17:57:01.533Z"
+  "generatedAt": "2026-07-15T18:39:14.823Z"
 }
