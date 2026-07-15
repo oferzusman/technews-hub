@@ -1,9 +1,9 @@
 {
-  "total": 14789,
-  "translated": 14786,
+  "total": 14790,
+  "translated": 14787,
   "untranslated": 3,
-  "today": 121,
-  "week": 859,
+  "today": 122,
+  "week": 860,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -384,16 +384,16 @@
       "lastDate": "2026-04-09T05:56:39Z"
     },
     {
+      "name": "VentureBeat AI",
+      "total": 9,
+      "translated": 9,
+      "lastDate": "Wed, 15 Jul 2026 22:24:17 GMT"
+    },
+    {
       "name": "The Next Web",
       "total": 9,
       "translated": 9,
       "lastDate": "2026-04-08T20:09:31Z"
-    },
-    {
-      "name": "VentureBeat AI",
-      "total": 8,
-      "translated": 8,
-      "lastDate": "Wed, 07 Jan 2026 20:00:00 GMT"
     },
     {
       "name": "Royal Society of Chemistry",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-15T22:30:55.779Z"
+  "generatedAt": "2026-07-15T22:33:34.479Z"
 }
