@@ -1,14 +1,14 @@
 {
-  "total": 14702,
-  "translated": 14699,
+  "total": 14712,
+  "translated": 14709,
   "untranslated": 3,
-  "today": 34,
-  "week": 772,
+  "today": 44,
+  "week": 782,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1268,
-      "translated": 1268,
+      "total": 1272,
+      "translated": 1272,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -49,20 +49,20 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 669,
-      "translated": 668,
-      "lastDate": "2026-07-15T07:11:01+00:00"
+      "total": 670,
+      "translated": 669,
+      "lastDate": "2026-07-15T10:22:51+00:00"
     },
     {
       "name": "Ars Technica",
-      "total": 626,
-      "translated": 626,
+      "total": 627,
+      "translated": 627,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
       "name": "The Guardian AI",
-      "total": 561,
-      "translated": 561,
+      "total": 562,
+      "translated": 562,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 470,
-      "translated": 469,
-      "lastDate": "2026-07-15T08:54:40+00:00"
+      "total": 471,
+      "translated": 470,
+      "lastDate": "2026-07-15T11:39:38+00:00"
     },
     {
       "name": "The Verge AI",
@@ -121,9 +121,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 217,
-      "translated": 217,
-      "lastDate": "2026-07-15T06:16:09+00:00"
+      "total": 218,
+      "translated": 218,
+      "lastDate": "2026-07-15T11:46:18+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -145,9 +145,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 138,
-      "translated": 138,
-      "lastDate": "2026-07-14T15:00:48+00:00"
+      "total": 139,
+      "translated": 139,
+      "lastDate": "2026-07-15T11:30:42+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-15T10:21:57.034Z"
+  "generatedAt": "2026-07-15T11:53:05.498Z"
 }
