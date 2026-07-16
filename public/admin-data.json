@@ -1,14 +1,14 @@
 {
-  "total": 14883,
-  "translated": 14880,
+  "total": 14891,
+  "translated": 14888,
   "untranslated": 3,
-  "today": 89,
-  "week": 804,
+  "today": 97,
+  "week": 812,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1286,
-      "translated": 1286,
+      "total": 1288,
+      "translated": 1288,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -55,8 +55,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 634,
-      "translated": 634,
+      "total": 636,
+      "translated": 636,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -97,8 +97,8 @@
     },
     {
       "name": "The Register",
-      "total": 287,
-      "translated": 287,
+      "total": 289,
+      "translated": 289,
       "lastDate": "Wed, 29 Apr 2026 19:00:18 +0200"
     },
     {
@@ -139,8 +139,8 @@
     },
     {
       "name": "AI News",
-      "total": 157,
-      "translated": 157,
+      "total": 158,
+      "translated": 158,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
     {
@@ -366,6 +366,12 @@
       "lastDate": "2026-04-08T18:25:01Z"
     },
     {
+      "name": "VentureBeat AI",
+      "total": 10,
+      "translated": 10,
+      "lastDate": "Wed, 15 Jul 2026 22:24:17 GMT"
+    },
+    {
       "name": "Amazon.com",
       "total": 10,
       "translated": 10,
@@ -382,12 +388,6 @@
       "total": 10,
       "translated": 10,
       "lastDate": "2026-04-09T05:56:39Z"
-    },
-    {
-      "name": "VentureBeat AI",
-      "total": 9,
-      "translated": 9,
-      "lastDate": "Wed, 15 Jul 2026 22:24:17 GMT"
     },
     {
       "name": "The Next Web",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-16T17:02:36.127Z"
+  "generatedAt": "2026-07-16T17:03:52.678Z"
 }
