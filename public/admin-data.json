@@ -1,9 +1,9 @@
 {
-  "total": 14891,
-  "translated": 14888,
+  "total": 14895,
+  "translated": 14892,
   "untranslated": 3,
-  "today": 97,
-  "week": 812,
+  "today": 101,
+  "week": 816,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 725,
-      "translated": 725,
+      "total": 726,
+      "translated": 726,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -49,9 +49,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 681,
-      "translated": 680,
-      "lastDate": "2026-07-16T14:17:01+00:00"
+      "total": 682,
+      "translated": 681,
+      "lastDate": "2026-07-16T17:07:51+00:00"
     },
     {
       "name": "Ars Technica",
@@ -324,6 +324,12 @@
       "lastDate": "2026-04-09T06:00:00Z"
     },
     {
+      "name": "VentureBeat AI",
+      "total": 12,
+      "translated": 12,
+      "lastDate": "Wed, 15 Jul 2026 22:24:17 GMT"
+    },
+    {
       "name": "Geeky Gadgets",
       "total": 12,
       "translated": 12,
@@ -364,12 +370,6 @@
       "total": 11,
       "translated": 11,
       "lastDate": "2026-04-08T18:25:01Z"
-    },
-    {
-      "name": "VentureBeat AI",
-      "total": 10,
-      "translated": 10,
-      "lastDate": "Wed, 15 Jul 2026 22:24:17 GMT"
     },
     {
       "name": "Amazon.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-16T17:03:52.678Z"
+  "generatedAt": "2026-07-16T17:38:10.919Z"
 }
