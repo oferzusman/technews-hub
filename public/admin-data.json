@@ -1,9 +1,9 @@
 {
-  "total": 14806,
-  "translated": 14803,
+  "total": 14808,
+  "translated": 14805,
   "untranslated": 3,
-  "today": 12,
-  "week": 727,
+  "today": 14,
+  "week": 729,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -49,9 +49,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 677,
-      "translated": 676,
-      "lastDate": "2026-07-16T03:16:01+00:00"
+      "total": 678,
+      "translated": 677,
+      "lastDate": "2026-07-16T06:03:01+00:00"
     },
     {
       "name": "Ars Technica",
@@ -121,9 +121,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 218,
-      "translated": 218,
-      "lastDate": "2026-07-15T11:46:18+00:00"
+      "total": 219,
+      "translated": 219,
+      "lastDate": "2026-07-16T06:11:07+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-16T06:40:44.123Z"
+  "generatedAt": "2026-07-16T06:42:28.005Z"
 }
