@@ -1,9 +1,9 @@
 {
-  "total": 14808,
-  "translated": 14805,
+  "total": 14818,
+  "translated": 14815,
   "untranslated": 3,
-  "today": 14,
-  "week": 729,
+  "today": 24,
+  "week": 739,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,9 +19,9 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1125,
-      "translated": 1125,
-      "lastDate": "2026-07-15T06:01:24.000Z"
+      "total": 1129,
+      "translated": 1129,
+      "lastDate": "2026-07-15T17:24:23.000Z"
     },
     {
       "name": "CNBC Tech",
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 719,
-      "translated": 719,
+      "total": 720,
+      "translated": 720,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 476,
-      "translated": 475,
-      "lastDate": "2026-07-15T21:34:26+00:00"
+      "total": 477,
+      "translated": 476,
+      "lastDate": "2026-07-16T08:12:06+00:00"
     },
     {
       "name": "The Verge AI",
@@ -85,8 +85,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 432,
-      "translated": 432,
+      "total": 434,
+      "translated": 434,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -145,9 +145,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 140,
-      "translated": 140,
-      "lastDate": "2026-07-15T17:30:40+00:00"
+      "total": 142,
+      "translated": 142,
+      "lastDate": "2026-07-16T07:59:01+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-16T06:42:28.005Z"
+  "generatedAt": "2026-07-16T08:28:55.747Z"
 }
