@@ -1,20 +1,20 @@
 {
-  "total": 14863,
-  "translated": 14860,
+  "total": 14874,
+  "translated": 14871,
   "untranslated": 3,
-  "today": 69,
-  "week": 784,
+  "today": 80,
+  "week": 795,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1284,
-      "translated": 1284,
+      "total": 1286,
+      "translated": 1286,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1178,
-      "translated": 1178,
+      "total": 1179,
+      "translated": 1179,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -25,14 +25,14 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 889,
-      "translated": 889,
+      "total": 890,
+      "translated": 890,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 855,
-      "translated": 855,
+      "total": 858,
+      "translated": 858,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -61,15 +61,15 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 569,
-      "translated": 569,
+      "total": 571,
+      "translated": 571,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 480,
-      "translated": 479,
-      "lastDate": "2026-07-16T13:02:28+00:00"
+      "total": 481,
+      "translated": 480,
+      "lastDate": "2026-07-16T15:44:47+00:00"
     },
     {
       "name": "Pypi.org",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 269,
-      "translated": 268,
-      "lastDate": "2026-07-16T14:31:01+00:00"
+      "total": 270,
+      "translated": 269,
+      "lastDate": "2026-07-16T15:41:22+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-16T14:57:52.071Z"
+  "generatedAt": "2026-07-16T15:54:26.727Z"
 }
