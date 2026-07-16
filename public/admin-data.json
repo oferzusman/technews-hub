@@ -1,9 +1,9 @@
 {
-  "total": 14908,
-  "translated": 14905,
+  "total": 14917,
+  "translated": 14914,
   "untranslated": 3,
-  "today": 114,
-  "week": 829,
+  "today": 123,
+  "week": 838,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 891,
-      "translated": 891,
+      "total": 892,
+      "translated": 892,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -49,14 +49,14 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 683,
-      "translated": 682,
-      "lastDate": "2026-07-16T19:44:01+00:00"
+      "total": 684,
+      "translated": 683,
+      "lastDate": "2026-07-16T22:12:51+00:00"
     },
     {
       "name": "Ars Technica",
-      "total": 636,
-      "translated": 636,
+      "total": 643,
+      "translated": 643,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-16T22:16:35.490Z"
+  "generatedAt": "2026-07-16T22:39:18.220Z"
 }
