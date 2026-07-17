@@ -1,9 +1,9 @@
 {
-  "total": 14925,
-  "translated": 14922,
+  "total": 14928,
+  "translated": 14925,
   "untranslated": 3,
-  "today": 4,
-  "week": 735,
+  "today": 7,
+  "week": 738,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -43,15 +43,15 @@
     },
     {
       "name": "New Atlas",
-      "total": 713,
-      "translated": 713,
+      "total": 714,
+      "translated": 714,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 685,
-      "translated": 684,
-      "lastDate": "2026-07-16T23:12:01+00:00"
+      "total": 686,
+      "translated": 685,
+      "lastDate": "2026-07-17T01:52:01+00:00"
     },
     {
       "name": "Ars Technica",
@@ -163,9 +163,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 92,
-      "translated": 92,
-      "lastDate": "2026-07-16T20:39:24+00:00"
+      "total": 93,
+      "translated": 93,
+      "lastDate": "2026-07-17T03:38:17+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-17T01:15:09.131Z"
+  "generatedAt": "2026-07-17T03:47:30.885Z"
 }
