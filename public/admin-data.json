@@ -1,20 +1,20 @@
 {
-  "total": 14969,
-  "translated": 14966,
+  "total": 14978,
+  "translated": 14975,
   "untranslated": 3,
-  "today": 48,
-  "week": 779,
+  "today": 57,
+  "week": 788,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1292,
-      "translated": 1292,
+      "total": 1294,
+      "translated": 1294,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1184,
-      "translated": 1184,
+      "total": 1188,
+      "translated": 1188,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 718,
-      "translated": 718,
+      "total": 719,
+      "translated": 719,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 486,
-      "translated": 485,
-      "lastDate": "2026-07-17T10:28:05+00:00"
+      "total": 487,
+      "translated": 486,
+      "lastDate": "2026-07-17T13:53:08+00:00"
     },
     {
       "name": "Pypi.org",
@@ -91,8 +91,8 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 426,
-      "translated": 426,
+      "total": 427,
+      "translated": 427,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-17T13:20:09.793Z"
+  "generatedAt": "2026-07-17T13:56:41.498Z"
 }
