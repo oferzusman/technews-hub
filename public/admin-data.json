@@ -1,9 +1,9 @@
 {
-  "total": 15014,
-  "translated": 15011,
-  "untranslated": 3,
-  "today": 93,
-  "week": 824,
+  "total": 15017,
+  "translated": 15013,
+  "untranslated": 4,
+  "today": 96,
+  "week": 827,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -31,7 +31,7 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 867,
+      "total": 868,
       "translated": 867,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 489,
-      "translated": 488,
-      "lastDate": "2026-07-17T15:17:42+00:00"
+      "total": 490,
+      "translated": 489,
+      "lastDate": "2026-07-17T21:43:41+00:00"
     },
     {
       "name": "Pypi.org",
@@ -85,8 +85,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 437,
-      "translated": 437,
+      "total": 438,
+      "translated": 438,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-17T21:49:19.334Z"
+  "generatedAt": "2026-07-17T21:51:39.214Z"
 }
