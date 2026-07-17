@@ -1,14 +1,14 @@
 {
-  "total": 14945,
-  "translated": 14942,
+  "total": 14956,
+  "translated": 14953,
   "untranslated": 3,
-  "today": 24,
-  "week": 755,
+  "today": 35,
+  "week": 766,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1288,
-      "translated": 1288,
+      "total": 1289,
+      "translated": 1289,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -43,15 +43,15 @@
     },
     {
       "name": "New Atlas",
-      "total": 717,
-      "translated": 717,
+      "total": 718,
+      "translated": 718,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 688,
-      "translated": 687,
-      "lastDate": "2026-07-17T07:10:04+00:00"
+      "total": 689,
+      "translated": 688,
+      "lastDate": "2026-07-17T10:18:54+00:00"
     },
     {
       "name": "Ars Technica",
@@ -61,15 +61,15 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 573,
-      "translated": 573,
+      "total": 574,
+      "translated": 574,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 484,
-      "translated": 483,
-      "lastDate": "2026-07-17T08:18:07+00:00"
+      "total": 486,
+      "translated": 485,
+      "lastDate": "2026-07-17T10:28:05+00:00"
     },
     {
       "name": "Pypi.org",
@@ -109,14 +109,14 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 270,
-      "translated": 269,
-      "lastDate": "2026-07-16T15:41:22+00:00"
+      "total": 271,
+      "translated": 270,
+      "lastDate": "2026-07-17T09:53:31+00:00"
     },
     {
       "name": "MIT Technology Review",
-      "total": 249,
-      "translated": 249,
+      "total": 251,
+      "translated": 251,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 120,
-      "translated": 120,
-      "lastDate": "2026-07-16T21:03:16+00:00"
+      "total": 122,
+      "translated": 122,
+      "lastDate": "2026-07-17T10:02:46+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-17T10:25:09.877Z"
+  "generatedAt": "2026-07-17T10:30:58.029Z"
 }
