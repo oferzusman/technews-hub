@@ -1,9 +1,9 @@
 {
-  "total": 14921,
-  "translated": 14918,
+  "total": 14924,
+  "translated": 14921,
   "untranslated": 3,
-  "today": 127,
-  "week": 842,
+  "today": 3,
+  "week": 734,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1182,
-      "translated": 1182,
+      "total": 1183,
+      "translated": 1183,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -55,8 +55,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 643,
-      "translated": 643,
+      "total": 644,
+      "translated": 644,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -85,8 +85,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 435,
-      "translated": 435,
+      "total": 436,
+      "translated": 436,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-16T23:42:16.466Z"
+  "generatedAt": "2026-07-17T00:02:00.537Z"
 }
