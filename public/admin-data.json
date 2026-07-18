@@ -1,7 +1,7 @@
 {
   "total": 15028,
-  "translated": 15023,
-  "untranslated": 5,
+  "translated": 15025,
+  "untranslated": 3,
   "today": 2,
   "week": 775,
   "sources": [
@@ -14,7 +14,7 @@
     {
       "name": "Interesting Engineering",
       "total": 1195,
-      "translated": 1193,
+      "translated": 1195,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-18T00:09:00.645Z"
+  "generatedAt": "2026-07-18T00:09:36.205Z"
 }
