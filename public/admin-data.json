@@ -1,9 +1,9 @@
 {
-  "total": 15031,
-  "translated": 15028,
+  "total": 15032,
+  "translated": 15029,
   "untranslated": 3,
-  "today": 5,
-  "week": 778,
+  "today": 6,
+  "week": 779,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 272,
-      "translated": 271,
-      "lastDate": "2026-07-17T12:22:44+00:00"
+      "total": 273,
+      "translated": 272,
+      "lastDate": "2026-07-18T06:18:32+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-18T06:19:36.970Z"
+  "generatedAt": "2026-07-18T06:22:49.563Z"
 }
