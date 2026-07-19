@@ -1,14 +1,14 @@
 {
-  "total": 15126,
-  "translated": 15123,
+  "total": 15131,
+  "translated": 15128,
   "untranslated": 3,
-  "today": 38,
-  "week": 819,
+  "today": 43,
+  "week": 824,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1310,
-      "translated": 1310,
+      "total": 1311,
+      "translated": 1311,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -31,8 +31,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 873,
-      "translated": 873,
+      "total": 874,
+      "translated": 874,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -61,15 +61,15 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 583,
-      "translated": 583,
+      "total": 584,
+      "translated": 584,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 493,
-      "translated": 492,
-      "lastDate": "2026-07-19T10:11:01+00:00"
+      "total": 494,
+      "translated": 493,
+      "lastDate": "2026-07-19T14:44:15+00:00"
     },
     {
       "name": "Pypi.org",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 277,
-      "translated": 276,
-      "lastDate": "2026-07-19T14:09:11+00:00"
+      "total": 278,
+      "translated": 277,
+      "lastDate": "2026-07-19T14:46:55+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-19T14:40:30.647Z"
+  "generatedAt": "2026-07-19T15:15:13.651Z"
 }
