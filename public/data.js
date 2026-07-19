@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "מטא עלולה להפוך ליותר ספק ענן בחישוב ל-Anthropic\n\nמטא ו-Anthropic כנראה בשיחות על עסקה ענקית בשווי 10 מיליארד דולר לכוח חישוב AI - אם זה יקרה, מטא תשכור כמויות ענקיות של GPU ו-compute אחרים ל-Anthropic במשך שנתיים, והופכת למספק אינפרה קריטי מאחורי Claude. מדברים על מספרים משוגעים - עד 10 מיליארד דולר בסך הכל, כלומר כ-417 מיליון דולר כל חודש רק לחישוב, מה שמוכיח כמה זה עולה לתרן AI בימים אלה.",
+    "t": "מטא עלולה להפוך ללנדלורד ה-AI הגדול ביותר של אנתרופיק\n\nמטא ואנתרופיק נמצאים בשיחות על עסקת compute ענקית של 10 מיליארד דולר, לפי דיווחי רויטרס. אם התקציר יסגר, מטא תשכור כמויות ענקיות של כוח חישוב AI לאנתרופיק במשך שנתיים, והופכת לאחד מספקי התשתית המרכזיים מאחורי Claude - בערך 417 מיליון דולר בחודש רק על compute. זה טוויסט די מצחיק בהתחשב בכך שמטא בונה את שלה שלה בקו הדומים.",
     "d": "2026-07-19T05:52:01+00:00",
     "v": 0,
     "l": [
@@ -15,13 +15,11 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "Anthropic",
-      "Nvidia"
+      "Anthropic"
     ],
     "tags": [
       "news",
-      "model",
-      "hardware"
+      "model"
     ],
     "imp": "low",
     "thumb": "https://cdn4.telesco.pe/file/sIJBpdH2iHbXT_UqepEl6S7aRQhWRHwk021wEl0UrPo1Bc78YdXHvhUCmiB9R1ArTBoQZPHraHeB7V1qC30ykeLTmYlbWMAbjWl0R37Rpt1Hg3bBBv6ocItYFGY5kJ9eHaMQNz-W_ta4oJb8lQl3A7h43sIhna3a0tM9cq-5sDDELjnzZlTf5MwIy941i8Y-9PpLGCpIGzqWybl6s2kEY0dTQPVHB96160jDDK8zUe_gvWgT3jmVOpmzstJEYNtkoVaZgTKdFcdkgot7FIW7Xgla56MEppV0gmiPZJRv5LhxYi80b1mWukTbzca3pvkm7inBdFb79ZpfPDCSqTL0fw.jpg",
