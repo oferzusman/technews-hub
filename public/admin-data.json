@@ -1,9 +1,9 @@
 {
-  "total": 15109,
-  "translated": 15106,
+  "total": 15111,
+  "translated": 15108,
   "untranslated": 3,
-  "today": 21,
-  "week": 802,
+  "today": 23,
+  "week": 804,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 581,
-      "translated": 581,
+      "total": 582,
+      "translated": 582,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -163,9 +163,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 93,
-      "translated": 93,
-      "lastDate": "2026-07-17T03:38:17+00:00"
+      "total": 94,
+      "translated": 94,
+      "lastDate": "2026-07-19T11:03:53+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-19T10:51:49.104Z"
+  "generatedAt": "2026-07-19T11:25:52.291Z"
 }
