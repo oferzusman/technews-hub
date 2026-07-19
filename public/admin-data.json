@@ -1,14 +1,14 @@
 {
-  "total": 15112,
-  "translated": 15109,
+  "total": 15116,
+  "translated": 15113,
   "untranslated": 3,
-  "today": 24,
-  "week": 805,
+  "today": 28,
+  "week": 809,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1307,
-      "translated": 1307,
+      "total": 1308,
+      "translated": 1308,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 740,
-      "translated": 740,
+      "total": 741,
+      "translated": 741,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 582,
-      "translated": 582,
+      "total": 583,
+      "translated": 583,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -163,9 +163,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 94,
-      "translated": 94,
-      "lastDate": "2026-07-19T11:03:53+00:00"
+      "total": 95,
+      "translated": 95,
+      "lastDate": "2026-07-19T12:01:25+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-19T11:54:14.356Z"
+  "generatedAt": "2026-07-19T12:12:06.284Z"
 }
