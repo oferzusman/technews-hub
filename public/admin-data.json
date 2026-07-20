@@ -1,9 +1,9 @@
 {
-  "total": 15155,
-  "translated": 15152,
-  "untranslated": 3,
-  "today": 7,
-  "week": 748,
+  "total": 15161,
+  "translated": 15157,
+  "untranslated": 4,
+  "today": 13,
+  "week": 754,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,9 +19,9 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1134,
-      "translated": 1134,
-      "lastDate": "2026-07-15T17:24:23.000Z"
+      "total": 1138,
+      "translated": 1138,
+      "lastDate": "2026-07-19T16:14:15.000Z"
     },
     {
       "name": "CNBC Tech",
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 495,
-      "translated": 494,
-      "lastDate": "2026-07-19T22:31:03+00:00"
+      "total": 496,
+      "translated": 495,
+      "lastDate": "2026-07-20T06:59:16+00:00"
     },
     {
       "name": "Pypi.org",
@@ -121,9 +121,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 225,
+      "total": 226,
       "translated": 225,
-      "lastDate": "2026-07-19T08:01:56+00:00"
+      "lastDate": "2026-07-20T06:43:36+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-20T06:35:12.685Z"
+  "generatedAt": "2026-07-20T07:48:43.745Z"
 }
