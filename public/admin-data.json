@@ -1,20 +1,20 @@
 {
-  "total": 15316,
-  "translated": 15312,
-  "untranslated": 4,
-  "today": 79,
-  "week": 648,
+  "total": 15329,
+  "translated": 15319,
+  "untranslated": 10,
+  "today": 92,
+  "week": 661,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1333,
-      "translated": 1333,
+      "total": 1336,
+      "translated": 1334,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1228,
-      "translated": 1228,
+      "total": 1229,
+      "translated": 1229,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -25,20 +25,20 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 917,
-      "translated": 917,
+      "total": 919,
+      "translated": 918,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 886,
-      "translated": 886,
+      "total": 887,
+      "translated": 887,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "The Decoder",
-      "total": 749,
-      "translated": 749,
+      "total": 751,
+      "translated": 750,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -109,9 +109,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 283,
-      "translated": 282,
-      "lastDate": "2026-07-21T12:18:12+00:00"
+      "total": 284,
+      "translated": 283,
+      "lastDate": "2026-07-21T15:22:34+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -132,22 +132,22 @@
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
+      "name": "AI News",
+      "total": 165,
+      "translated": 164,
+      "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
+    },
+    {
       "name": "Hi, AI English (TG)",
       "total": 165,
       "translated": 165,
       "lastDate": "2026-07-21T08:53:58+00:00"
     },
     {
-      "name": "AI News",
-      "total": 164,
-      "translated": 164,
-      "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
-    },
-    {
       "name": "Wylsacom Red (TG)",
-      "total": 146,
+      "total": 147,
       "translated": 146,
-      "lastDate": "2026-07-20T17:20:38+00:00"
+      "lastDate": "2026-07-21T15:12:32+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -199,9 +199,9 @@
     },
     {
       "name": "Nature Machine Intelligence",
-      "total": 52,
-      "translated": 52,
-      "lastDate": "2026-07-20T00:00:00.000Z"
+      "total": 53,
+      "translated": 53,
+      "lastDate": "2026-07-21T00:00:00.000Z"
     },
     {
       "name": "Artificial Intelligence (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-21T15:24:44.377Z"
+  "generatedAt": "2026-07-21T16:16:03.273Z"
 }
