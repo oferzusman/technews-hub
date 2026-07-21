@@ -1,7 +1,7 @@
 {
   "total": 15329,
-  "translated": 15319,
-  "untranslated": 10,
+  "translated": 15317,
+  "untranslated": 12,
   "today": 92,
   "week": 661,
   "sources": [
@@ -14,7 +14,7 @@
     {
       "name": "Interesting Engineering",
       "total": 1229,
-      "translated": 1229,
+      "translated": 1228,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -110,7 +110,7 @@
     {
       "name": "Backdoor (TG)",
       "total": 284,
-      "translated": 283,
+      "translated": 282,
       "lastDate": "2026-07-21T15:22:34+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-21T16:16:45.570Z"
+  "generatedAt": "2026-07-21T16:17:33.595Z"
 }
