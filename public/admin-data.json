@@ -1,14 +1,14 @@
 {
-  "total": 15261,
-  "translated": 15257,
+  "total": 15264,
+  "translated": 15260,
   "untranslated": 4,
-  "today": 24,
-  "week": 593,
+  "today": 27,
+  "week": 596,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1318,
-      "translated": 1318,
+      "total": 1319,
+      "translated": 1319,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 501,
-      "translated": 500,
-      "lastDate": "2026-07-21T06:32:36+00:00"
+      "total": 502,
+      "translated": 501,
+      "lastDate": "2026-07-21T09:35:03+00:00"
     },
     {
       "name": "Pypi.org",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 124,
-      "translated": 124,
-      "lastDate": "2026-07-20T05:01:05+00:00"
+      "total": 125,
+      "translated": 125,
+      "lastDate": "2026-07-21T09:27:39+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-21T09:14:56.780Z"
+  "generatedAt": "2026-07-21T09:37:36.211Z"
 }
