@@ -1,14 +1,14 @@
 {
-  "total": 15264,
-  "translated": 15260,
+  "total": 15277,
+  "translated": 15273,
   "untranslated": 4,
-  "today": 27,
-  "week": 596,
+  "today": 40,
+  "week": 609,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1319,
-      "translated": 1319,
+      "total": 1322,
+      "translated": 1322,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -25,14 +25,14 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 913,
-      "translated": 913,
+      "total": 914,
+      "translated": 914,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 884,
-      "translated": 884,
+      "total": 885,
+      "translated": 885,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -61,15 +61,15 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 592,
-      "translated": 592,
+      "total": 594,
+      "translated": 594,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 502,
-      "translated": 501,
-      "lastDate": "2026-07-21T09:35:03+00:00"
+      "total": 503,
+      "translated": 502,
+      "lastDate": "2026-07-21T10:21:03+00:00"
     },
     {
       "name": "Pypi.org",
@@ -79,9 +79,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 466,
-      "translated": 466,
-      "lastDate": "2026-07-20T22:19:12.000Z"
+      "total": 467,
+      "translated": 467,
+      "lastDate": "2026-07-21T11:08:56.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -115,8 +115,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 255,
-      "translated": 255,
+      "total": 256,
+      "translated": 256,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -127,8 +127,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 196,
-      "translated": 196,
+      "total": 197,
+      "translated": 197,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -139,8 +139,8 @@
     },
     {
       "name": "AI News",
-      "total": 162,
-      "translated": 162,
+      "total": 163,
+      "translated": 163,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
     {
@@ -163,9 +163,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 95,
-      "translated": 95,
-      "lastDate": "2026-07-19T12:01:25+00:00"
+      "total": 96,
+      "translated": 96,
+      "lastDate": "2026-07-21T10:57:57+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-21T09:59:33.767Z"
+  "generatedAt": "2026-07-21T11:20:43.737Z"
 }
