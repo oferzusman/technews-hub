@@ -1,9 +1,9 @@
 {
-  "total": 15348,
-  "translated": 15344,
+  "total": 15354,
+  "translated": 15350,
   "untranslated": 4,
-  "today": 111,
-  "week": 680,
+  "today": 117,
+  "week": 686,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 753,
-      "translated": 753,
+      "total": 754,
+      "translated": 754,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -55,8 +55,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 660,
-      "translated": 660,
+      "total": 663,
+      "translated": 663,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -79,9 +79,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 470,
-      "translated": 470,
-      "lastDate": "2026-07-21T16:53:37.000Z"
+      "total": 471,
+      "translated": 471,
+      "lastDate": "2026-07-21T19:22:28.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -132,16 +132,16 @@
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
+      "name": "Hi, AI English (TG)",
+      "total": 166,
+      "translated": 166,
+      "lastDate": "2026-07-21T19:08:00+00:00"
+    },
+    {
       "name": "AI News",
       "total": 165,
       "translated": 165,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
-    },
-    {
-      "name": "Hi, AI English (TG)",
-      "total": 165,
-      "translated": 165,
-      "lastDate": "2026-07-21T08:53:58+00:00"
     },
     {
       "name": "Wylsacom Red (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-21T18:56:48.747Z"
+  "generatedAt": "2026-07-21T19:37:46.575Z"
 }
