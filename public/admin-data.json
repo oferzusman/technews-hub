@@ -1,9 +1,9 @@
 {
-  "total": 15362,
-  "translated": 15358,
+  "total": 15364,
+  "translated": 15360,
   "untranslated": 4,
-  "today": 125,
-  "week": 694,
+  "today": 127,
+  "week": 696,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 923,
-      "translated": 923,
+      "total": 924,
+      "translated": 924,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 506,
-      "translated": 505,
-      "lastDate": "2026-07-21T13:10:06+00:00"
+      "total": 507,
+      "translated": 506,
+      "lastDate": "2026-07-21T21:27:37+00:00"
     },
     {
       "name": "Pypi.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-21T21:22:35.722Z"
+  "generatedAt": "2026-07-21T21:48:09.101Z"
 }
