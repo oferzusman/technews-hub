@@ -1,13 +1,13 @@
 {
-  "total": 15407,
+  "total": 15420,
   "translated": 15403,
-  "untranslated": 4,
-  "today": 32,
-  "week": 613,
+  "untranslated": 17,
+  "today": 45,
+  "week": 626,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1338,
+      "total": 1342,
       "translated": 1338,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
@@ -31,13 +31,13 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 896,
+      "total": 897,
       "translated": 896,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "The Decoder",
-      "total": 755,
+      "total": 756,
       "translated": 755,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
@@ -49,9 +49,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 729,
+      "total": 730,
       "translated": 728,
-      "lastDate": "2026-07-22T09:13:06+00:00"
+      "lastDate": "2026-07-22T12:14:31+00:00"
     },
     {
       "name": "Ars Technica",
@@ -61,15 +61,15 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 596,
+      "total": 598,
       "translated": 596,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 508,
+      "total": 509,
       "translated": 507,
-      "lastDate": "2026-07-22T06:15:32+00:00"
+      "lastDate": "2026-07-22T10:59:58+00:00"
     },
     {
       "name": "Pypi.org",
@@ -79,9 +79,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 474,
+      "total": 475,
       "translated": 474,
-      "lastDate": "2026-07-22T10:12:13.000Z"
+      "lastDate": "2026-07-22T11:00:00.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -121,9 +121,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 230,
+      "total": 231,
       "translated": 229,
-      "lastDate": "2026-07-22T09:19:49+00:00"
+      "lastDate": "2026-07-22T12:15:08+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -139,7 +139,7 @@
     },
     {
       "name": "AI News",
-      "total": 165,
+      "total": 166,
       "translated": 165,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-22T11:32:37.995Z"
+  "generatedAt": "2026-07-22T12:26:34.986Z"
 }
