@@ -1,20 +1,20 @@
 {
-  "total": 15590,
-  "translated": 15586,
+  "total": 15597,
+  "translated": 15593,
   "untranslated": 4,
-  "today": 88,
-  "week": 669,
+  "today": 95,
+  "week": 676,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1362,
-      "translated": 1362,
+      "total": 1363,
+      "translated": 1363,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1254,
-      "translated": 1254,
+      "total": 1255,
+      "translated": 1255,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 764,
-      "translated": 764,
+      "total": 765,
+      "translated": 765,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -55,8 +55,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 673,
-      "translated": 673,
+      "total": 676,
+      "translated": 676,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
@@ -85,8 +85,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 465,
-      "translated": 465,
+      "total": 466,
+      "translated": 466,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-23T17:59:01.442Z"
+  "generatedAt": "2026-07-23T18:15:35.757Z"
 }
