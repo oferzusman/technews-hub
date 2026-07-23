@@ -1,14 +1,14 @@
 {
-  "total": 15536,
-  "translated": 15532,
+  "total": 15545,
+  "translated": 15541,
   "untranslated": 4,
-  "today": 34,
-  "week": 615,
+  "today": 43,
+  "week": 624,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1350,
-      "translated": 1350,
+      "total": 1352,
+      "translated": 1352,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -67,15 +67,15 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 512,
-      "translated": 511,
-      "lastDate": "2026-07-23T06:57:18+00:00"
+      "total": 513,
+      "translated": 512,
+      "lastDate": "2026-07-23T11:52:02+00:00"
     },
     {
       "name": "The Verge AI",
-      "total": 477,
-      "translated": 477,
-      "lastDate": "2026-07-22T16:35:34.000Z"
+      "total": 478,
+      "translated": 478,
+      "lastDate": "2026-07-23T12:00:00.000Z"
     },
     {
       "name": "Pypi.org",
@@ -97,15 +97,15 @@
     },
     {
       "name": "The Register",
-      "total": 289,
-      "translated": 289,
+      "total": 290,
+      "translated": 290,
       "lastDate": "Wed, 29 Apr 2026 19:00:18 +0200"
     },
     {
       "name": "Backdoor (TG)",
-      "total": 289,
-      "translated": 288,
-      "lastDate": "2026-07-23T09:45:20+00:00"
+      "total": 290,
+      "translated": 289,
+      "lastDate": "2026-07-23T12:02:01+00:00"
     },
     {
       "name": "Futurism",
@@ -139,8 +139,8 @@
     },
     {
       "name": "AI News",
-      "total": 166,
-      "translated": 166,
+      "total": 168,
+      "translated": 168,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 128,
-      "translated": 128,
-      "lastDate": "2026-07-23T10:05:09+00:00"
+      "total": 129,
+      "translated": 129,
+      "lastDate": "2026-07-23T12:05:01+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-23T11:48:36.925Z"
+  "generatedAt": "2026-07-23T12:11:29.302Z"
 }
