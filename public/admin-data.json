@@ -1,20 +1,20 @@
 {
-  "total": 15597,
-  "translated": 15593,
+  "total": 15606,
+  "translated": 15602,
   "untranslated": 4,
-  "today": 95,
-  "week": 676,
+  "today": 104,
+  "week": 685,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1363,
-      "translated": 1363,
+      "total": 1364,
+      "translated": 1364,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1255,
-      "translated": 1255,
+      "total": 1257,
+      "translated": 1257,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -25,14 +25,14 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 945,
-      "translated": 945,
+      "total": 946,
+      "translated": 946,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 918,
-      "translated": 918,
+      "total": 920,
+      "translated": 920,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 481,
-      "translated": 481,
-      "lastDate": "2026-07-23T17:00:00.000Z"
+      "total": 483,
+      "translated": 483,
+      "lastDate": "2026-07-23T19:00:00.000Z"
     },
     {
       "name": "Pypi.org",
@@ -96,16 +96,16 @@
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
+      "name": "Backdoor (TG)",
+      "total": 291,
+      "translated": 290,
+      "lastDate": "2026-07-23T19:06:18+00:00"
+    },
+    {
       "name": "The Register",
       "total": 290,
       "translated": 290,
       "lastDate": "Wed, 29 Apr 2026 19:00:18 +0200"
-    },
-    {
-      "name": "Backdoor (TG)",
-      "total": 290,
-      "translated": 289,
-      "lastDate": "2026-07-23T12:02:01+00:00"
     },
     {
       "name": "Futurism",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-23T18:44:21.428Z"
+  "generatedAt": "2026-07-23T19:17:45.559Z"
 }
