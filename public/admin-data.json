@@ -1,9 +1,9 @@
 {
-  "total": 15520,
+  "total": 15521,
   "translated": 15516,
-  "untranslated": 4,
-  "today": 18,
-  "week": 599,
+  "untranslated": 5,
+  "today": 19,
+  "week": 600,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -102,16 +102,16 @@
       "lastDate": "Wed, 29 Apr 2026 19:00:18 +0200"
     },
     {
+      "name": "Backdoor (TG)",
+      "total": 288,
+      "translated": 286,
+      "lastDate": "2026-07-23T07:14:11+00:00"
+    },
+    {
       "name": "Futurism",
       "total": 287,
       "translated": 287,
       "lastDate": "Wed, 22 Apr 2026 16:27:39 -0400"
-    },
-    {
-      "name": "Backdoor (TG)",
-      "total": 287,
-      "translated": 286,
-      "lastDate": "2026-07-22T15:16:12+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-23T07:08:44.517Z"
+  "generatedAt": "2026-07-23T07:17:16.261Z"
 }
