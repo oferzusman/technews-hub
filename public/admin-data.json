@@ -1,9 +1,9 @@
 {
-  "total": 15701,
-  "translated": 15697,
+  "total": 15710,
+  "translated": 15706,
   "untranslated": 4,
-  "today": 70,
-  "week": 675,
+  "today": 79,
+  "week": 684,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1270,
-      "translated": 1270,
+      "total": 1272,
+      "translated": 1272,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 953,
-      "translated": 953,
+      "total": 955,
+      "translated": 955,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -67,15 +67,15 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 520,
-      "translated": 519,
-      "lastDate": "2026-07-24T15:05:06+00:00"
+      "total": 521,
+      "translated": 520,
+      "lastDate": "2026-07-24T17:07:06+00:00"
     },
     {
       "name": "The Verge AI",
-      "total": 487,
-      "translated": 487,
-      "lastDate": "2026-07-24T17:00:00.000Z"
+      "total": 488,
+      "translated": 488,
+      "lastDate": "2026-07-24T17:29:48.000Z"
     },
     {
       "name": "Pypi.org",
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 294,
-      "translated": 293,
-      "lastDate": "2026-07-24T15:41:17+00:00"
+      "total": 295,
+      "translated": 294,
+      "lastDate": "2026-07-24T17:10:31+00:00"
     },
     {
       "name": "The Register",
@@ -115,8 +115,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 262,
-      "translated": 262,
+      "total": 263,
+      "translated": 263,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -163,9 +163,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 96,
-      "translated": 96,
-      "lastDate": "2026-07-21T10:57:57+00:00"
+      "total": 97,
+      "translated": 97,
+      "lastDate": "2026-07-24T17:06:48+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-24T17:49:33.678Z"
+  "generatedAt": "2026-07-24T17:50:37.547Z"
 }
