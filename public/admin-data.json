@@ -1,14 +1,14 @@
 {
-  "total": 15649,
-  "translated": 15645,
+  "total": 15653,
+  "translated": 15649,
   "untranslated": 4,
-  "today": 18,
-  "week": 623,
+  "today": 22,
+  "week": 627,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1364,
-      "translated": 1364,
+      "total": 1365,
+      "translated": 1365,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -43,15 +43,15 @@
     },
     {
       "name": "New Atlas",
-      "total": 761,
-      "translated": 761,
+      "total": 762,
+      "translated": 762,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 744,
-      "translated": 743,
-      "lastDate": "2026-07-24T06:13:57+00:00"
+      "total": 745,
+      "translated": 744,
+      "lastDate": "2026-07-24T10:06:07+00:00"
     },
     {
       "name": "Ars Technica",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 129,
-      "translated": 129,
-      "lastDate": "2026-07-23T12:05:01+00:00"
+      "total": 130,
+      "translated": 130,
+      "lastDate": "2026-07-24T10:04:06+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-24T10:01:05.904Z"
+  "generatedAt": "2026-07-24T11:18:20.134Z"
 }
