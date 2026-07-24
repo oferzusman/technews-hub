@@ -1,9 +1,9 @@
 {
-  "total": 15697,
-  "translated": 15693,
+  "total": 15701,
+  "translated": 15697,
   "untranslated": 4,
-  "today": 66,
-  "week": 671,
+  "today": 70,
+  "week": 675,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -31,8 +31,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 926,
-      "translated": 926,
+      "total": 928,
+      "translated": 928,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 485,
-      "translated": 485,
-      "lastDate": "2026-07-24T14:43:55.000Z"
+      "total": 487,
+      "translated": 487,
+      "lastDate": "2026-07-24T17:00:00.000Z"
     },
     {
       "name": "Pypi.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-24T16:34:03.989Z"
+  "generatedAt": "2026-07-24T17:06:06.917Z"
 }
