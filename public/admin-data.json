@@ -1,14 +1,14 @@
 {
-  "total": 15657,
-  "translated": 15653,
+  "total": 15663,
+  "translated": 15659,
   "untranslated": 4,
-  "today": 26,
-  "week": 631,
+  "today": 32,
+  "week": 637,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1366,
-      "translated": 1366,
+      "total": 1367,
+      "translated": 1367,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -49,9 +49,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 745,
-      "translated": 744,
-      "lastDate": "2026-07-24T10:06:07+00:00"
+      "total": 746,
+      "translated": 745,
+      "lastDate": "2026-07-24T12:23:11+00:00"
     },
     {
       "name": "Ars Technica",
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 605,
-      "translated": 605,
+      "total": 607,
+      "translated": 607,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -115,8 +115,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 261,
-      "translated": 261,
+      "total": 262,
+      "translated": 262,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -145,9 +145,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 151,
-      "translated": 151,
-      "lastDate": "2026-07-23T17:25:23+00:00"
+      "total": 152,
+      "translated": 152,
+      "lastDate": "2026-07-24T12:09:04+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-24T11:43:44.869Z"
+  "generatedAt": "2026-07-24T12:53:46.705Z"
 }
