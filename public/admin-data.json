@@ -1,20 +1,20 @@
 {
-  "total": 15767,
-  "translated": 15763,
+  "total": 15773,
+  "translated": 15769,
   "untranslated": 4,
-  "today": 33,
-  "week": 679,
+  "today": 39,
+  "week": 685,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1379,
-      "translated": 1379,
+      "total": 1380,
+      "translated": 1380,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1279,
-      "translated": 1279,
+      "total": 1280,
+      "translated": 1280,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -31,14 +31,14 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 932,
-      "translated": 932,
+      "total": 933,
+      "translated": 933,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "The Decoder",
-      "total": 773,
-      "translated": 773,
+      "total": 774,
+      "translated": 774,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -61,15 +61,15 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 610,
-      "translated": 610,
+      "total": 611,
+      "translated": 611,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 523,
-      "translated": 522,
-      "lastDate": "2026-07-25T08:44:02+00:00"
+      "total": 524,
+      "translated": 523,
+      "lastDate": "2026-07-25T13:18:09+00:00"
     },
     {
       "name": "The Verge AI",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-25T12:43:46.755Z"
+  "generatedAt": "2026-07-25T14:10:46.021Z"
 }
