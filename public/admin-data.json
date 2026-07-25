@@ -1,9 +1,9 @@
 {
-  "total": 15748,
-  "translated": 15744,
+  "total": 15754,
+  "translated": 15750,
   "untranslated": 4,
-  "today": 14,
-  "week": 660,
+  "today": 20,
+  "week": 666,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1277,
-      "translated": 1277,
+      "total": 1278,
+      "translated": 1278,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -43,15 +43,15 @@
     },
     {
       "name": "New Atlas",
-      "total": 766,
-      "translated": 766,
+      "total": 767,
+      "translated": 767,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 753,
-      "translated": 752,
-      "lastDate": "2026-07-25T04:35:00+00:00"
+      "total": 754,
+      "translated": 753,
+      "lastDate": "2026-07-25T07:48:44+00:00"
     },
     {
       "name": "Ars Technica",
@@ -85,8 +85,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 471,
-      "translated": 471,
+      "total": 472,
+      "translated": 472,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -121,9 +121,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 236,
-      "translated": 235,
-      "lastDate": "2026-07-24T11:37:59+00:00"
+      "total": 237,
+      "translated": 236,
+      "lastDate": "2026-07-25T07:35:25+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -132,16 +132,16 @@
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
+      "name": "Hi, AI English (TG)",
+      "total": 172,
+      "translated": 172,
+      "lastDate": "2026-07-25T07:32:18+00:00"
+    },
+    {
       "name": "AI News",
       "total": 171,
       "translated": 171,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
-    },
-    {
-      "name": "Hi, AI English (TG)",
-      "total": 171,
-      "translated": 171,
-      "lastDate": "2026-07-24T07:35:04+00:00"
     },
     {
       "name": "Wylsacom Red (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-25T07:17:02.764Z"
+  "generatedAt": "2026-07-25T08:22:40.198Z"
 }
