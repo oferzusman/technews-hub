@@ -1,20 +1,20 @@
 {
-  "total": 15774,
-  "translated": 15770,
+  "total": 15781,
+  "translated": 15777,
   "untranslated": 4,
-  "today": 40,
-  "week": 686,
+  "today": 47,
+  "week": 693,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1380,
-      "translated": 1380,
+      "total": 1381,
+      "translated": 1381,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1281,
-      "translated": 1281,
+      "total": 1285,
+      "translated": 1285,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -49,9 +49,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 755,
-      "translated": 754,
-      "lastDate": "2026-07-25T11:22:27+00:00"
+      "total": 756,
+      "translated": 755,
+      "lastDate": "2026-07-25T14:34:40+00:00"
     },
     {
       "name": "Ars Technica",
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 297,
-      "translated": 296,
-      "lastDate": "2026-07-25T10:09:38+00:00"
+      "total": 298,
+      "translated": 297,
+      "lastDate": "2026-07-25T15:22:18+00:00"
     },
     {
       "name": "The Register",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-25T14:19:28.345Z"
+  "generatedAt": "2026-07-25T15:33:12.753Z"
 }
