@@ -1,14 +1,14 @@
 {
-  "total": 15759,
-  "translated": 15755,
+  "total": 15762,
+  "translated": 15758,
   "untranslated": 4,
-  "today": 25,
-  "week": 671,
+  "today": 28,
+  "week": 674,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1377,
-      "translated": 1377,
+      "total": 1378,
+      "translated": 1378,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 772,
-      "translated": 772,
+      "total": 773,
+      "translated": 773,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 296,
-      "translated": 295,
-      "lastDate": "2026-07-25T09:04:26+00:00"
+      "total": 297,
+      "translated": 296,
+      "lastDate": "2026-07-25T10:09:38+00:00"
     },
     {
       "name": "The Register",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-25T10:08:07.897Z"
+  "generatedAt": "2026-07-25T10:53:05.633Z"
 }
