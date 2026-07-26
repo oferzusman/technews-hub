@@ -1,9 +1,9 @@
 {
-  "total": 15800,
-  "translated": 15796,
+  "total": 15804,
+  "translated": 15800,
   "untranslated": 4,
-  "today": 5,
-  "week": 652,
+  "today": 9,
+  "week": 656,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,9 +19,9 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1151,
-      "translated": 1151,
-      "lastDate": "2026-07-23T08:25:47.000Z"
+      "total": 1153,
+      "translated": 1153,
+      "lastDate": "2026-07-25T19:23:04.000Z"
     },
     {
       "name": "CNBC Tech",
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 774,
-      "translated": 774,
+      "total": 775,
+      "translated": 775,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -163,9 +163,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 97,
-      "translated": 97,
-      "lastDate": "2026-07-24T17:06:48+00:00"
+      "total": 98,
+      "translated": 98,
+      "lastDate": "2026-07-26T07:08:33+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-26T06:07:32.594Z"
+  "generatedAt": "2026-07-26T07:18:22.186Z"
 }
