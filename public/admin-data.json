@@ -1,14 +1,14 @@
 {
   "total": 15825,
-  "translated": 15818,
-  "untranslated": 7,
+  "translated": 15821,
+  "untranslated": 4,
   "today": 30,
   "week": 677,
   "sources": [
     {
       "name": "Tom's Hardware",
       "total": 1386,
-      "translated": 1385,
+      "translated": 1386,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -44,7 +44,7 @@
     {
       "name": "New Atlas",
       "total": 772,
-      "translated": 771,
+      "translated": 772,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -134,7 +134,7 @@
     {
       "name": "Hi, AI English (TG)",
       "total": 173,
-      "translated": 172,
+      "translated": 173,
       "lastDate": "2026-07-26T12:02:31+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-26T12:14:24.131Z"
+  "generatedAt": "2026-07-26T12:45:29.814Z"
 }
