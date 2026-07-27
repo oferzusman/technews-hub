@@ -1,9 +1,9 @@
 {
-  "total": 15958,
-  "translated": 15954,
+  "total": 15960,
+  "translated": 15956,
   "untranslated": 4,
-  "today": 110,
-  "week": 721,
+  "today": 112,
+  "week": 723,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1299,
-      "translated": 1299,
+      "total": 1300,
+      "translated": 1300,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -103,8 +103,8 @@
     },
     {
       "name": "The Register",
-      "total": 291,
-      "translated": 291,
+      "total": 292,
+      "translated": 292,
       "lastDate": "Wed, 29 Apr 2026 19:00:18 +0200"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-27T22:09:58.440Z"
+  "generatedAt": "2026-07-27T22:10:43.592Z"
 }
