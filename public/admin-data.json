@@ -1,20 +1,20 @@
 {
-  "total": 15894,
-  "translated": 15890,
+  "total": 15908,
+  "translated": 15904,
   "untranslated": 4,
-  "today": 46,
-  "week": 657,
+  "today": 60,
+  "week": 671,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1397,
-      "translated": 1397,
+      "total": 1399,
+      "translated": 1399,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1291,
-      "translated": 1291,
+      "total": 1297,
+      "translated": 1297,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 963,
-      "translated": 963,
+      "total": 964,
+      "translated": 964,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -37,21 +37,21 @@
     },
     {
       "name": "The Decoder",
-      "total": 780,
-      "translated": 780,
+      "total": 781,
+      "translated": 781,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 779,
-      "translated": 779,
+      "total": 780,
+      "translated": 780,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 770,
-      "translated": 769,
-      "lastDate": "2026-07-27T10:08:40+00:00"
+      "total": 771,
+      "translated": 770,
+      "lastDate": "2026-07-27T13:34:17+00:00"
     },
     {
       "name": "Ars Technica",
@@ -121,9 +121,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 239,
-      "translated": 238,
-      "lastDate": "2026-07-27T07:08:18+00:00"
+      "total": 240,
+      "translated": 239,
+      "lastDate": "2026-07-27T12:34:01+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -163,9 +163,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 99,
-      "translated": 99,
-      "lastDate": "2026-07-26T13:52:39+00:00"
+      "total": 100,
+      "translated": 100,
+      "lastDate": "2026-07-27T13:25:33+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-27T13:52:17.209Z"
+  "generatedAt": "2026-07-27T14:24:41.878Z"
 }
