@@ -1,14 +1,14 @@
 {
-  "total": 15942,
-  "translated": 15938,
+  "total": 15948,
+  "translated": 15944,
   "untranslated": 4,
-  "today": 94,
-  "week": 705,
+  "today": 100,
+  "week": 711,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1403,
-      "translated": 1403,
+      "total": 1405,
+      "translated": 1405,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 967,
-      "translated": 967,
+      "total": 968,
+      "translated": 968,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -37,14 +37,14 @@
     },
     {
       "name": "The Decoder",
-      "total": 783,
-      "translated": 783,
+      "total": 785,
+      "translated": 785,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 780,
-      "translated": 780,
+      "total": 781,
+      "translated": 781,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-27T19:52:57.673Z"
+  "generatedAt": "2026-07-27T19:53:51.805Z"
 }
