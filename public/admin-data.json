@@ -1,9 +1,9 @@
 {
-  "total": 15973,
-  "translated": 15969,
+  "total": 15977,
+  "translated": 15973,
   "untranslated": 4,
-  "today": 9,
-  "week": 598,
+  "today": 13,
+  "week": 602,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -43,15 +43,15 @@
     },
     {
       "name": "New Atlas",
-      "total": 782,
-      "translated": 782,
+      "total": 783,
+      "translated": 783,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 776,
-      "translated": 775,
-      "lastDate": "2026-07-28T05:10:00+00:00"
+      "total": 777,
+      "translated": 776,
+      "lastDate": "2026-07-28T08:15:00+00:00"
     },
     {
       "name": "Ars Technica",
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 304,
-      "translated": 303,
-      "lastDate": "2026-07-27T15:21:48+00:00"
+      "total": 305,
+      "translated": 304,
+      "lastDate": "2026-07-28T07:37:23+00:00"
     },
     {
       "name": "The Register",
@@ -133,9 +133,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 175,
-      "translated": 175,
-      "lastDate": "2026-07-27T15:48:09+00:00"
+      "total": 176,
+      "translated": 176,
+      "lastDate": "2026-07-28T07:30:28+00:00"
     },
     {
       "name": "AI News",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-28T07:14:34.958Z"
+  "generatedAt": "2026-07-28T08:52:12.923Z"
 }
