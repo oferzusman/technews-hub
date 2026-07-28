@@ -1,9 +1,9 @@
 {
-  "total": 16043,
-  "translated": 16039,
+  "total": 16045,
+  "translated": 16041,
   "untranslated": 4,
-  "today": 79,
-  "week": 668,
+  "today": 81,
+  "week": 670,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 977,
-      "translated": 977,
+      "total": 978,
+      "translated": 978,
       "lastDate": "Wed, 29 Apr 2026 23:50:55 GMT"
     },
     {
@@ -127,8 +127,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 201,
-      "translated": 201,
+      "total": 202,
+      "translated": 202,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-28T16:20:06.911Z"
+  "generatedAt": "2026-07-28T16:47:02.178Z"
 }
