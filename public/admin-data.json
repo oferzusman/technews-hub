@@ -1,9 +1,9 @@
 {
-  "total": 16005,
-  "translated": 16001,
+  "total": 16012,
+  "translated": 16008,
   "untranslated": 4,
-  "today": 41,
-  "week": 630,
+  "today": 48,
+  "week": 637,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -37,14 +37,14 @@
     },
     {
       "name": "The Decoder",
-      "total": 785,
-      "translated": 785,
+      "total": 786,
+      "translated": 786,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 784,
-      "translated": 784,
+      "total": 785,
+      "translated": 785,
       "lastDate": "Wed, 29 Apr 2026 23:04:00 GMT"
     },
     {
@@ -67,15 +67,15 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 534,
-      "translated": 533,
-      "lastDate": "2026-07-28T10:22:57+00:00"
+      "total": 535,
+      "translated": 534,
+      "lastDate": "2026-07-28T12:20:20+00:00"
     },
     {
       "name": "The Verge AI",
-      "total": 492,
-      "translated": 492,
-      "lastDate": "2026-07-28T09:07:14.000Z"
+      "total": 493,
+      "translated": 493,
+      "lastDate": "2026-07-28T12:00:00.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -115,8 +115,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 270,
-      "translated": 270,
+      "total": 271,
+      "translated": 271,
       "lastDate": "Wed, 29 Apr 2026 12:10:00 +0000"
     },
     {
@@ -145,9 +145,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 155,
-      "translated": 155,
-      "lastDate": "2026-07-27T15:55:39+00:00"
+      "total": 156,
+      "translated": 156,
+      "lastDate": "2026-07-28T12:11:20+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -180,16 +180,16 @@
       "lastDate": "2026-04-09T07:00:00Z"
     },
     {
+      "name": "Prompt AI News (TG)",
+      "total": 71,
+      "translated": 71,
+      "lastDate": "2026-07-28T12:19:32+00:00"
+    },
+    {
       "name": "Google AI Blog",
       "total": 70,
       "translated": 70,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
-    },
-    {
-      "name": "Prompt AI News (TG)",
-      "total": 70,
-      "translated": 70,
-      "lastDate": "2026-07-28T11:19:16+00:00"
     },
     {
       "name": "Nature Machine Intelligence",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-28T12:01:40.453Z"
+  "generatedAt": "2026-07-28T12:22:05.632Z"
 }
