@@ -1,7 +1,7 @@
 {
   "total": 15987,
-  "translated": 15981,
-  "untranslated": 6,
+  "translated": 15983,
+  "untranslated": 4,
   "today": 23,
   "week": 612,
   "sources": [
@@ -62,7 +62,7 @@
     {
       "name": "The Guardian AI",
       "total": 622,
-      "translated": 620,
+      "translated": 622,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-28T10:06:44.298Z"
+  "generatedAt": "2026-07-28T10:07:20.621Z"
 }
