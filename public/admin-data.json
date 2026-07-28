@@ -1,14 +1,14 @@
 {
-  "total": 15994,
-  "translated": 15990,
+  "total": 16005,
+  "translated": 16001,
   "untranslated": 4,
-  "today": 30,
-  "week": 619,
+  "today": 41,
+  "week": 630,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1409,
-      "translated": 1409,
+      "total": 1413,
+      "translated": 1413,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
@@ -49,9 +49,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 777,
-      "translated": 776,
-      "lastDate": "2026-07-28T08:15:00+00:00"
+      "total": 778,
+      "translated": 777,
+      "lastDate": "2026-07-28T11:22:01+00:00"
     },
     {
       "name": "Ars Technica",
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 483,
-      "translated": 483,
+      "total": 485,
+      "translated": 485,
       "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
     },
     {
@@ -121,9 +121,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 241,
-      "translated": 240,
-      "lastDate": "2026-07-28T06:16:09+00:00"
+      "total": 242,
+      "translated": 241,
+      "lastDate": "2026-07-28T11:40:25+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -139,8 +139,8 @@
     },
     {
       "name": "AI News",
-      "total": 173,
-      "translated": 173,
+      "total": 175,
+      "translated": 175,
       "lastDate": "Wed, 29 Apr 2026 14:02:45 +0000"
     },
     {
@@ -187,9 +187,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 69,
-      "translated": 69,
-      "lastDate": "2026-07-27T10:53:36+00:00"
+      "total": 70,
+      "translated": 70,
+      "lastDate": "2026-07-28T11:19:16+00:00"
     },
     {
       "name": "Nature Machine Intelligence",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-28T11:59:16.299Z"
+  "generatedAt": "2026-07-28T12:01:40.453Z"
 }
