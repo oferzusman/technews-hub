@@ -1,20 +1,20 @@
 {
-  "total": 16015,
-  "translated": 16011,
+  "total": 16030,
+  "translated": 16026,
   "untranslated": 4,
-  "today": 51,
-  "week": 640,
+  "today": 66,
+  "week": 655,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1413,
-      "translated": 1413,
+      "total": 1416,
+      "translated": 1416,
       "lastDate": "Wed, 29 Apr 2026 16:54:24 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1304,
-      "translated": 1304,
+      "total": 1306,
+      "translated": 1306,
       "lastDate": "Wed, 29 Apr 2026 23:46:06 +0000"
     },
     {
@@ -31,14 +31,14 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 950,
-      "translated": 950,
+      "total": 951,
+      "translated": 951,
       "lastDate": "Wed, 29 Apr 2026 23:58:36 +0000"
     },
     {
       "name": "The Decoder",
-      "total": 786,
-      "translated": 786,
+      "total": 788,
+      "translated": 788,
       "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
     },
     {
@@ -55,21 +55,21 @@
     },
     {
       "name": "Ars Technica",
-      "total": 696,
-      "translated": 696,
+      "total": 697,
+      "translated": 697,
       "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
     },
     {
       "name": "The Guardian AI",
-      "total": 622,
-      "translated": 622,
+      "total": 624,
+      "translated": 624,
       "lastDate": "Wed, 29 Apr 2026 22:12:49 GMT"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 535,
-      "translated": 534,
-      "lastDate": "2026-07-28T12:20:20+00:00"
+      "total": 536,
+      "translated": 535,
+      "lastDate": "2026-07-28T13:55:05+00:00"
     },
     {
       "name": "The Verge AI",
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 306,
-      "translated": 305,
-      "lastDate": "2026-07-28T10:10:43+00:00"
+      "total": 307,
+      "translated": 306,
+      "lastDate": "2026-07-28T13:57:14+00:00"
     },
     {
       "name": "The Register",
@@ -180,16 +180,16 @@
       "lastDate": "2026-04-09T07:00:00Z"
     },
     {
+      "name": "Google AI Blog",
+      "total": 72,
+      "translated": 72,
+      "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
+    },
+    {
       "name": "Prompt AI News (TG)",
       "total": 71,
       "translated": 71,
       "lastDate": "2026-07-28T12:19:32+00:00"
-    },
-    {
-      "name": "Google AI Blog",
-      "total": 70,
-      "translated": 70,
-      "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
       "name": "Nature Machine Intelligence",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-28T13:18:35.449Z"
+  "generatedAt": "2026-07-28T14:30:59.825Z"
 }
