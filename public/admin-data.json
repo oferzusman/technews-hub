@@ -1,15 +1,15 @@
 {
-  "total": 16106,
-  "translated": 16102,
+  "total": 16110,
+  "translated": 16106,
   "untranslated": 4,
-  "today": 27,
-  "week": 604,
+  "today": 31,
+  "week": 608,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1421,
-      "translated": 1421,
-      "lastDate": "Wed, 29 Jul 2026 09:00:00 +0000"
+      "total": 1422,
+      "translated": 1422,
+      "lastDate": "Wed, 29 Jul 2026 09:30:00 +0000"
     },
     {
       "name": "Interesting Engineering",
@@ -49,9 +49,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 785,
-      "translated": 784,
-      "lastDate": "2026-07-29T06:55:21+00:00"
+      "total": 786,
+      "translated": 785,
+      "lastDate": "2026-07-29T09:40:00+00:00"
     },
     {
       "name": "Ars Technica",
@@ -79,9 +79,9 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 487,
-      "translated": 487,
-      "lastDate": "Wed, 29 Apr 2026 19:28:32 +0000"
+      "total": 488,
+      "translated": 488,
+      "lastDate": "Wed, 29 Jul 2026 09:38:42 +0000"
     },
     {
       "name": "Pypi.org",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 134,
-      "translated": 134,
-      "lastDate": "2026-07-28T09:32:30+00:00"
+      "total": 135,
+      "translated": 135,
+      "lastDate": "2026-07-29T09:37:31+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-29T09:26:51.278Z"
+  "generatedAt": "2026-07-29T09:51:28.407Z"
 }
