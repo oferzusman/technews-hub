@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "אנווידיה קנתה את המושב הטוב ביותר בעולם ה-AI\n\nאנווידיה השקיעה 5 מיליארד דולר בחברת Safe Superintelligence (SSI), אבל ההשקעה האמיתית פה היא גישה למחקר סודי שלא ראינו עדיין. SSI עובדת בשקט על גישה חדשה ל-AI שחורגת מעבר ל-LLMs, ובתמורה אנווידיה מספקת לה את ה-Vera Rubin infrastructure שלה - כלומר כח חישוב שהוא פי 10 חזק יותר. עיסקה שמעולם לא ראינו משהו כזה.",
+    "t": "📢 Nvidia קנתה את המושב הטוב ביותר בתחום ה-AI\n\nNvidia השקיעה 5 מיליארד דולר בחברת Safe Superintelligence (SSI), אבל זה שלא היא ההשקעה עצמה - זה הגישה. SSI עבדה בשקט בשנתיים האחרונות על גישה חדשה ל-AI שמעבר ל-LLMs של היום, וכשNvidia קיבלה הצצה לרחוב שלהם, היא הסכימה לספק להם את ה-infrastructure החדשה Vera Rubin שלה - דבר שמגביר את ה-compute שלהם בכ-10 פעמים.",
     "d": "2026-07-29T00:40:13+00:00",
     "v": 0,
     "l": [
@@ -14,9 +14,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Nvidia"
+    ],
     "tags": [
-      "news"
+      "news",
+      "hardware"
     ],
     "imp": "low",
     "thumb": "https://cdn4.telesco.pe/file/XTWpeTN8eLRrSobhgOnFRWsgU8X09FwJmAiZl0u8DX0dETRE0ycCCpf5yFkuNYMafrW6nleaDW5ov4SyxRrkwzcN8agWRuFlIlZ80FEVC259kXIkkM50H7i_ZorO-JAagtFIggmIoYTQoiO1lvjRO2PUqiSWKrzGfOx8bC2zpQKnNSqU_fGFrSRBZkqgSmLO_34r6xercmTPbzoLwLZIzRPPwlDZFCx4X0Ws8jaxd1lC4oKDdmLWkxzf6_vkeIDfn3Cju8kT6UTatpfAyfsF4Ct4hshrz_U0CEVzGjFMIQgNLLGzDAWSFKNVJo70CVGIBCQx7vbb0PXwHFhS9a4_-Q.jpg",
@@ -24,7 +27,7 @@ window.TELEGRAM_DATA = [
   },
   {
     "id": 2,
-    "t": "Cyera קונה את Oasis Security ב-מיליארד דולר כדי להגן על AI agents שמתרבים\n\nסייברה סגרה עסקת רכישה שלישית השנה, והפעם היא תופסת את Oasis Security כדי להדק את ההגנה שלה על סוכנים AI שמתפרצים לכל עולם. הרכישה הזו מראה שחברות הסייבר פחות וגדול מבינות שכל הAI agents החדשים האלה זקוקים להגנה מסדר ראשון.",
+    "t": "Cyera קונה את Oasis Security ב-1 מיליארד דולר כדי להגן על AI agents בעלייה\n\nCyera לא מפסיקה לגדול - הרכישה השלישית שלה השנה היא של Oasis Security, חברה המתמחה בביטחון AI agents. עם ההתפשטות המטורפת של agents חכמים שרצים בחברות, המטרה כאן היא ברורה: לבנות את פתרון הביטחון החזק ביותר למגמה החדשה הזו.\nמקור: TechCrunch AI",
     "d": "Wed, 29 Jul 2026 00:09:05 +0000",
     "v": 0,
     "l": [
