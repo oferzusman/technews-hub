@@ -1,14 +1,14 @@
 {
   "total": 16122,
-  "translated": 16106,
-  "untranslated": 16,
+  "translated": 16118,
+  "untranslated": 4,
   "today": 43,
   "week": 620,
   "sources": [
     {
       "name": "Tom's Hardware",
       "total": 1427,
-      "translated": 1422,
+      "translated": 1427,
       "lastDate": "Wed, 29 Jul 2026 11:32:03 +0000"
     },
     {
@@ -26,7 +26,7 @@
     {
       "name": "CNBC Tech",
       "total": 985,
-      "translated": 984,
+      "translated": 985,
       "lastDate": "Wed, 29 Jul 2026 10:21:41 GMT"
     },
     {
@@ -44,7 +44,7 @@
     {
       "name": "New Atlas",
       "total": 790,
-      "translated": 789,
+      "translated": 790,
       "lastDate": "Wed, 29 Jul 2026 11:07:06 GMT"
     },
     {
@@ -74,7 +74,7 @@
     {
       "name": "The Verge AI",
       "total": 497,
-      "translated": 496,
+      "translated": 497,
       "lastDate": "2026-07-29T11:00:00.000Z"
     },
     {
@@ -122,7 +122,7 @@
     {
       "name": "Hi, AI Russian (TG)",
       "total": 245,
-      "translated": 243,
+      "translated": 244,
       "lastDate": "2026-07-29T11:21:01+00:00"
     },
     {
@@ -140,7 +140,7 @@
     {
       "name": "AI News",
       "total": 177,
-      "translated": 175,
+      "translated": 177,
       "lastDate": "Wed, 29 Jul 2026 10:53:39 +0000"
     },
     {
@@ -164,7 +164,7 @@
     {
       "name": "Data Science ODS.ai (TG)",
       "total": 101,
-      "translated": 100,
+      "translated": 101,
       "lastDate": "2026-07-29T11:19:25+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-29T11:41:20.397Z"
+  "generatedAt": "2026-07-29T11:42:45.545Z"
 }
