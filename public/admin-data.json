@@ -1,21 +1,21 @@
 {
-  "total": 16122,
-  "translated": 16118,
+  "total": 16132,
+  "translated": 16128,
   "untranslated": 4,
-  "today": 43,
-  "week": 620,
+  "today": 53,
+  "week": 630,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1427,
-      "translated": 1427,
-      "lastDate": "Wed, 29 Jul 2026 11:32:03 +0000"
+      "total": 1429,
+      "translated": 1429,
+      "lastDate": "Wed, 29 Jul 2026 12:07:36 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1311,
-      "translated": 1311,
-      "lastDate": "Wed, 29 Jul 2026 09:15:33 +0000"
+      "total": 1312,
+      "translated": 1312,
+      "lastDate": "Wed, 29 Jul 2026 11:00:01 +0000"
     },
     {
       "name": "Product Hunt",
@@ -31,15 +31,15 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 957,
-      "translated": 957,
-      "lastDate": "Wed, 29 Jul 2026 00:09:05 +0000"
+      "total": 958,
+      "translated": 958,
+      "lastDate": "Wed, 29 Jul 2026 11:00:00 +0000"
     },
     {
       "name": "The Decoder",
-      "total": 790,
-      "translated": 790,
-      "lastDate": "Wed, 29 Apr 2026 18:31:33 +0000"
+      "total": 792,
+      "translated": 792,
+      "lastDate": "Wed, 29 Jul 2026 12:13:16 +0000"
     },
     {
       "name": "New Atlas",
@@ -55,9 +55,9 @@
     },
     {
       "name": "Ars Technica",
-      "total": 703,
-      "translated": 703,
-      "lastDate": "Wed, 29 Apr 2026 19:14:44 +0000"
+      "total": 704,
+      "translated": 704,
+      "lastDate": "Wed, 29 Jul 2026 11:00:39 +0000"
     },
     {
       "name": "The Guardian AI",
@@ -67,15 +67,15 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 541,
-      "translated": 540,
-      "lastDate": "2026-07-29T09:02:20+00:00"
+      "total": 542,
+      "translated": 541,
+      "lastDate": "2026-07-29T11:53:48+00:00"
     },
     {
       "name": "The Verge AI",
-      "total": 497,
-      "translated": 497,
-      "lastDate": "2026-07-29T11:00:00.000Z"
+      "total": 499,
+      "translated": 499,
+      "lastDate": "2026-07-29T12:00:00.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-29T11:42:45.545Z"
+  "generatedAt": "2026-07-29T12:17:26.198Z"
 }
