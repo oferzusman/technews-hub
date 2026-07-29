@@ -1,9 +1,9 @@
 {
-  "total": 16164,
-  "translated": 16160,
+  "total": 16167,
+  "translated": 16163,
   "untranslated": 4,
-  "today": 85,
-  "week": 662,
+  "today": 88,
+  "week": 665,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,9 +13,9 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1319,
-      "translated": 1319,
-      "lastDate": "Wed, 29 Jul 2026 15:01:04 +0000"
+      "total": 1320,
+      "translated": 1320,
+      "lastDate": "Wed, 29 Jul 2026 17:08:05 +0000"
     },
     {
       "name": "Product Hunt",
@@ -37,9 +37,9 @@
     },
     {
       "name": "The Decoder",
-      "total": 795,
-      "translated": 795,
-      "lastDate": "Wed, 29 Jul 2026 16:26:56 +0000"
+      "total": 796,
+      "translated": 796,
+      "lastDate": "Wed, 29 Jul 2026 17:16:53 +0000"
     },
     {
       "name": "New Atlas",
@@ -91,8 +91,8 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 440,
-      "translated": 440,
+      "total": 441,
+      "translated": 441,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-29T16:57:25.238Z"
+  "generatedAt": "2026-07-29T17:34:14.303Z"
 }
