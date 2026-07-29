@@ -1,21 +1,21 @@
 {
-  "total": 16132,
-  "translated": 16128,
+  "total": 16143,
+  "translated": 16139,
   "untranslated": 4,
-  "today": 53,
-  "week": 630,
+  "today": 64,
+  "week": 641,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1429,
-      "translated": 1429,
-      "lastDate": "Wed, 29 Jul 2026 12:07:36 +0000"
+      "total": 1431,
+      "translated": 1431,
+      "lastDate": "Wed, 29 Jul 2026 13:06:16 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1312,
-      "translated": 1312,
-      "lastDate": "Wed, 29 Jul 2026 11:00:01 +0000"
+      "total": 1316,
+      "translated": 1316,
+      "lastDate": "Wed, 29 Jul 2026 13:30:01 +0000"
     },
     {
       "name": "Product Hunt",
@@ -37,21 +37,21 @@
     },
     {
       "name": "The Decoder",
-      "total": 792,
-      "translated": 792,
-      "lastDate": "Wed, 29 Jul 2026 12:13:16 +0000"
+      "total": 793,
+      "translated": 793,
+      "lastDate": "Wed, 29 Jul 2026 12:45:33 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 790,
-      "translated": 790,
-      "lastDate": "Wed, 29 Jul 2026 11:07:06 GMT"
+      "total": 791,
+      "translated": 791,
+      "lastDate": "Wed, 29 Jul 2026 13:27:00 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 786,
-      "translated": 785,
-      "lastDate": "2026-07-29T09:40:00+00:00"
+      "total": 787,
+      "translated": 786,
+      "lastDate": "2026-07-29T12:35:00+00:00"
     },
     {
       "name": "Ars Technica",
@@ -61,9 +61,9 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 631,
-      "translated": 631,
-      "lastDate": "Wed, 29 Jul 2026 08:50:26 GMT"
+      "total": 632,
+      "translated": 632,
+      "lastDate": "Wed, 29 Jul 2026 12:38:38 GMT"
     },
     {
       "name": "XOR Journal (TG)",
@@ -115,9 +115,9 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 272,
-      "translated": 272,
-      "lastDate": "Wed, 29 Jul 2026 08:42:57 +0000"
+      "total": 273,
+      "translated": 273,
+      "lastDate": "Wed, 29 Jul 2026 12:10:00 +0000"
     },
     {
       "name": "Hi, AI Russian (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-29T12:19:51.492Z"
+  "generatedAt": "2026-07-29T13:43:49.724Z"
 }
