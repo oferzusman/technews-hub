@@ -1,9 +1,9 @@
 {
-  "total": 16215,
-  "translated": 16211,
+  "total": 16219,
+  "translated": 16215,
   "untranslated": 4,
-  "today": 1,
-  "week": 584,
+  "today": 5,
+  "week": 588,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,14 +25,14 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 992,
-      "translated": 992,
+      "total": 995,
+      "translated": 995,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 967,
-      "translated": 967,
+      "total": 968,
+      "translated": 968,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-30T01:01:58.900Z"
+  "generatedAt": "2026-07-30T01:02:35.232Z"
 }
