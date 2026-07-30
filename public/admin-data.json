@@ -1,7 +1,7 @@
 {
   "total": 16335,
-  "translated": 16330,
-  "untranslated": 5,
+  "translated": 16331,
+  "untranslated": 4,
   "today": 121,
   "week": 704,
   "sources": [
@@ -26,7 +26,7 @@
     {
       "name": "CNBC Tech",
       "total": 1009,
-      "translated": 1008,
+      "translated": 1009,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-30T23:00:50.212Z"
+  "generatedAt": "2026-07-30T23:01:28.693Z"
 }
