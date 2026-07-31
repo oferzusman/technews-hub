@@ -1,14 +1,14 @@
 {
-  "total": 16381,
-  "translated": 16376,
+  "total": 16386,
+  "translated": 16381,
   "untranslated": 5,
-  "today": 45,
-  "week": 647,
+  "today": 50,
+  "week": 652,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1456,
-      "translated": 1456,
+      "total": 1458,
+      "translated": 1458,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1015,
-      "translated": 1015,
+      "total": 1016,
+      "translated": 1016,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -43,9 +43,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 803,
-      "translated": 802,
-      "lastDate": "2026-07-31T08:35:00+00:00"
+      "total": 804,
+      "translated": 803,
+      "lastDate": "2026-07-31T11:22:01+00:00"
     },
     {
       "name": "New Atlas",
@@ -121,9 +121,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 249,
-      "translated": 247,
-      "lastDate": "2026-07-31T06:35:19+00:00"
+      "total": 250,
+      "translated": 248,
+      "lastDate": "2026-07-31T11:22:15+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-31T11:09:16.199Z"
+  "generatedAt": "2026-07-31T11:46:25.632Z"
 }
