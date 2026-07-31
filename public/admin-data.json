@@ -1,9 +1,9 @@
 {
-  "total": 16365,
-  "translated": 16360,
+  "total": 16371,
+  "translated": 16366,
   "untranslated": 5,
-  "today": 29,
-  "week": 631,
+  "today": 35,
+  "week": 637,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1335,
-      "translated": 1335,
+      "total": 1337,
+      "translated": 1337,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 496,
-      "translated": 496,
+      "total": 497,
+      "translated": 497,
       "lastDate": "Wed, 29 Jul 2026 19:30:35 +0000"
     },
     {
@@ -91,15 +91,15 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 446,
-      "translated": 446,
+      "total": 447,
+      "translated": 447,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
       "name": "Backdoor (TG)",
-      "total": 312,
-      "translated": 311,
-      "lastDate": "2026-07-31T07:32:20+00:00"
+      "total": 313,
+      "translated": 312,
+      "lastDate": "2026-07-31T08:45:56+00:00"
     },
     {
       "name": "The Register",
@@ -163,9 +163,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 101,
-      "translated": 101,
-      "lastDate": "2026-07-29T11:19:25+00:00"
+      "total": 102,
+      "translated": 102,
+      "lastDate": "2026-07-31T08:49:45+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-07-31T08:40:05.745Z"
+  "generatedAt": "2026-07-31T09:35:26.551Z"
 }
