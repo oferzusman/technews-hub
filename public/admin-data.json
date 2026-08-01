@@ -1,9 +1,9 @@
 {
-  "total": 16491,
-  "translated": 16486,
+  "total": 16500,
+  "translated": 16495,
   "untranslated": 5,
-  "today": 28,
-  "week": 696,
+  "today": 37,
+  "week": 705,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1342,
-      "translated": 1342,
+      "total": 1345,
+      "translated": 1345,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -37,26 +37,26 @@
     },
     {
       "name": "The Decoder",
-      "total": 815,
-      "translated": 815,
+      "total": 817,
+      "translated": 817,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
       "name": "AI Post (TG)",
-      "total": 813,
-      "translated": 812,
-      "lastDate": "2026-08-01T10:39:00+00:00"
+      "total": 814,
+      "translated": 813,
+      "lastDate": "2026-08-01T13:21:02+00:00"
     },
     {
       "name": "New Atlas",
-      "total": 803,
-      "translated": 803,
+      "total": 804,
+      "translated": 804,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 727,
-      "translated": 727,
+      "total": 728,
+      "translated": 728,
       "lastDate": "Wed, 29 Jul 2026 20:57:35 +0000"
     },
     {
@@ -180,16 +180,16 @@
       "lastDate": "2026-04-09T07:00:00Z"
     },
     {
+      "name": "Prompt AI News (TG)",
+      "total": 74,
+      "translated": 74,
+      "lastDate": "2026-08-01T13:32:47+00:00"
+    },
+    {
       "name": "Google AI Blog",
       "total": 73,
       "translated": 73,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
-    },
-    {
-      "name": "Prompt AI News (TG)",
-      "total": 73,
-      "translated": 73,
-      "lastDate": "2026-08-01T10:32:10+00:00"
     },
     {
       "name": "Nature Machine Intelligence",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-01T14:20:57.737Z"
+  "generatedAt": "2026-08-01T14:22:23.624Z"
 }
