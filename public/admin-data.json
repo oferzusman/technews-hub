@@ -1,9 +1,9 @@
 {
-  "total": 16562,
-  "translated": 16557,
+  "total": 16565,
+  "translated": 16560,
   "untranslated": 5,
-  "today": 39,
-  "week": 714,
+  "today": 42,
+  "week": 717,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -43,9 +43,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 824,
-      "translated": 823,
-      "lastDate": "2026-08-02T17:31:58+00:00"
+      "total": 825,
+      "translated": 824,
+      "lastDate": "2026-08-02T19:14:40+00:00"
     },
     {
       "name": "New Atlas",
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 515,
-      "translated": 515,
-      "lastDate": "2026-08-02T13:00:00.000Z"
+      "total": 516,
+      "translated": 516,
+      "lastDate": "2026-08-02T19:36:08.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 320,
-      "translated": 319,
-      "lastDate": "2026-08-01T14:41:54+00:00"
+      "total": 321,
+      "translated": 320,
+      "lastDate": "2026-08-02T19:06:42+00:00"
     },
     {
       "name": "The Register",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-02T19:35:50.529Z"
+  "generatedAt": "2026-08-02T19:44:05.591Z"
 }
