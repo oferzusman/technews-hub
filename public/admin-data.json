@@ -1,9 +1,9 @@
 {
-  "total": 16523,
-  "translated": 16518,
+  "total": 16524,
+  "translated": 16519,
   "untranslated": 5,
-  "today": 60,
-  "week": 728,
+  "today": 1,
+  "week": 676,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -49,8 +49,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 805,
-      "translated": 805,
+      "total": 806,
+      "translated": 806,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-01T23:59:02.834Z"
+  "generatedAt": "2026-08-02T00:10:00.992Z"
 }
