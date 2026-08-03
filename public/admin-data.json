@@ -1,20 +1,20 @@
 {
-  "total": 16608,
-  "translated": 16603,
+  "total": 16616,
+  "translated": 16611,
   "untranslated": 5,
-  "today": 35,
-  "week": 644,
+  "today": 43,
+  "week": 652,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1472,
-      "translated": 1472,
+      "total": 1475,
+      "translated": 1475,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1359,
-      "translated": 1359,
+      "total": 1360,
+      "translated": 1360,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 831,
-      "translated": 830,
-      "lastDate": "2026-08-03T08:54:28+00:00"
+      "total": 832,
+      "translated": 831,
+      "lastDate": "2026-08-03T11:12:58+00:00"
     },
     {
       "name": "The Decoder",
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 516,
-      "translated": 516,
-      "lastDate": "2026-08-02T19:36:08.000Z"
+      "total": 517,
+      "translated": 517,
+      "lastDate": "2026-08-03T11:01:11.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -193,9 +193,9 @@
     },
     {
       "name": "Nature Machine Intelligence",
-      "total": 55,
-      "translated": 55,
-      "lastDate": "2026-07-30T00:00:00.000Z"
+      "total": 57,
+      "translated": 57,
+      "lastDate": "2026-08-03T00:00:00.000Z"
     },
     {
       "name": "Github.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-03T11:53:17.748Z"
+  "generatedAt": "2026-08-03T11:54:21.125Z"
 }
