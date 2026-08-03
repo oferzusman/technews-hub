@@ -1,9 +1,9 @@
 {
-  "total": 16591,
-  "translated": 16586,
+  "total": 16601,
+  "translated": 16596,
   "untranslated": 5,
-  "today": 18,
-  "week": 627,
+  "today": 28,
+  "week": 637,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1358,
-      "translated": 1358,
+      "total": 1359,
+      "translated": 1359,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 829,
-      "translated": 828,
-      "lastDate": "2026-08-03T06:38:58+00:00"
+      "total": 831,
+      "translated": 830,
+      "lastDate": "2026-08-03T08:54:28+00:00"
     },
     {
       "name": "The Decoder",
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 509,
-      "translated": 509,
+      "total": 511,
+      "translated": 511,
       "lastDate": "Wed, 29 Jul 2026 19:30:35 +0000"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 322,
-      "translated": 321,
-      "lastDate": "2026-08-02T21:41:15+00:00"
+      "total": 323,
+      "translated": 322,
+      "lastDate": "2026-08-03T08:35:34+00:00"
     },
     {
       "name": "The Register",
@@ -115,15 +115,15 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 277,
-      "translated": 277,
+      "total": 278,
+      "translated": 278,
       "lastDate": "Wed, 29 Jul 2026 17:58:44 +0000"
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 255,
-      "translated": 253,
-      "lastDate": "2026-08-02T09:21:01+00:00"
+      "total": 256,
+      "translated": 254,
+      "lastDate": "2026-08-03T07:48:39+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -145,9 +145,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 161,
-      "translated": 161,
-      "lastDate": "2026-08-01T12:22:09+00:00"
+      "total": 162,
+      "translated": 162,
+      "lastDate": "2026-08-03T08:55:01+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -156,16 +156,16 @@
       "lastDate": "2026-08-03T06:04:04+00:00"
     },
     {
+      "name": "Data Science ODS.ai (TG)",
+      "total": 105,
+      "translated": 105,
+      "lastDate": "2026-08-03T07:47:18+00:00"
+    },
+    {
       "name": "Onefootball.com",
       "total": 104,
       "translated": 104,
       "lastDate": "2026-04-09T07:08:00Z"
-    },
-    {
-      "name": "Data Science ODS.ai (TG)",
-      "total": 104,
-      "translated": 104,
-      "lastDate": "2026-08-02T12:37:24+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-03T08:24:55.991Z"
+  "generatedAt": "2026-08-03T09:59:50.970Z"
 }
