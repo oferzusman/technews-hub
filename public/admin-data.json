@@ -1,9 +1,9 @@
 {
-  "total": 16582,
+  "total": 16591,
   "translated": 16577,
-  "untranslated": 5,
-  "today": 9,
-  "week": 618,
+  "untranslated": 14,
+  "today": 18,
+  "week": 627,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,9 +19,9 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1173,
+      "total": 1179,
       "translated": 1173,
-      "lastDate": "2026-08-01T22:44:45.000Z"
+      "lastDate": "2026-08-03T06:19:32.000Z"
     },
     {
       "name": "CNBC Tech",
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 828,
+      "total": 829,
       "translated": 827,
-      "lastDate": "2026-08-03T03:56:58+00:00"
+      "lastDate": "2026-08-03T06:38:58+00:00"
     },
     {
       "name": "The Decoder",
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 566,
+      "total": 567,
       "translated": 565,
-      "lastDate": "2026-08-02T21:49:42+00:00"
+      "lastDate": "2026-08-03T06:09:38+00:00"
     },
     {
       "name": "The Verge AI",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 137,
+      "total": 138,
       "translated": 137,
-      "lastDate": "2026-07-30T05:00:46+00:00"
+      "lastDate": "2026-08-03T06:04:04+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-03T06:00:22.812Z"
+  "generatedAt": "2026-08-03T07:26:28.580Z"
 }
