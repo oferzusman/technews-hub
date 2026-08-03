@@ -1,7 +1,7 @@
 {
   "total": 16591,
-  "translated": 16577,
-  "untranslated": 14,
+  "translated": 16586,
+  "untranslated": 5,
   "today": 18,
   "week": 627,
   "sources": [
@@ -20,7 +20,7 @@
     {
       "name": "Product Hunt",
       "total": 1179,
-      "translated": 1173,
+      "translated": 1179,
       "lastDate": "2026-08-03T06:19:32.000Z"
     },
     {
@@ -38,7 +38,7 @@
     {
       "name": "AI Post (TG)",
       "total": 829,
-      "translated": 827,
+      "translated": 828,
       "lastDate": "2026-08-03T06:38:58+00:00"
     },
     {
@@ -68,7 +68,7 @@
     {
       "name": "XOR Journal (TG)",
       "total": 567,
-      "translated": 565,
+      "translated": 566,
       "lastDate": "2026-08-03T06:09:38+00:00"
     },
     {
@@ -152,7 +152,7 @@
     {
       "name": "Habr (TG)",
       "total": 138,
-      "translated": 137,
+      "translated": 138,
       "lastDate": "2026-08-03T06:04:04+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-03T07:26:28.580Z"
+  "generatedAt": "2026-08-03T07:29:46.822Z"
 }
