@@ -1,9 +1,9 @@
 {
-  "total": 16714,
-  "translated": 16709,
+  "total": 16718,
+  "translated": 16713,
   "untranslated": 5,
-  "today": 30,
-  "week": 635,
+  "today": 34,
+  "week": 639,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 839,
-      "translated": 838,
-      "lastDate": "2026-08-04T08:40:26+00:00"
+      "total": 840,
+      "translated": 839,
+      "lastDate": "2026-08-04T11:33:02+00:00"
     },
     {
       "name": "The Decoder",
@@ -49,8 +49,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 813,
-      "translated": 813,
+      "total": 814,
+      "translated": 814,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 519,
-      "translated": 519,
-      "lastDate": "2026-08-04T10:00:00.000Z"
+      "total": 520,
+      "translated": 520,
+      "lastDate": "2026-08-04T11:27:55.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -145,9 +145,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 162,
-      "translated": 162,
-      "lastDate": "2026-08-03T08:55:01+00:00"
+      "total": 163,
+      "translated": 163,
+      "lastDate": "2026-08-04T10:59:01+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-04T10:49:37.789Z"
+  "generatedAt": "2026-08-04T11:40:41.274Z"
 }
