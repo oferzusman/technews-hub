@@ -1,9 +1,9 @@
 {
-  "total": 16696,
-  "translated": 16691,
+  "total": 16701,
+  "translated": 16696,
   "untranslated": 5,
-  "today": 12,
-  "week": 617,
+  "today": 17,
+  "week": 622,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1368,
-      "translated": 1368,
+      "total": 1369,
+      "translated": 1369,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
       "name": "Product Hunt",
-      "total": 1180,
-      "translated": 1180,
+      "total": 1181,
+      "translated": 1181,
       "lastDate": "2026-08-03T06:19:32.000Z"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 838,
-      "translated": 837,
-      "lastDate": "2026-08-04T05:34:02+00:00"
+      "total": 839,
+      "translated": 838,
+      "lastDate": "2026-08-04T08:40:26+00:00"
     },
     {
       "name": "The Decoder",
@@ -133,9 +133,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 186,
-      "translated": 186,
-      "lastDate": "2026-08-03T10:52:10+00:00"
+      "total": 187,
+      "translated": 187,
+      "lastDate": "2026-08-04T08:25:02+00:00"
     },
     {
       "name": "AI News",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 138,
-      "translated": 138,
-      "lastDate": "2026-08-03T06:04:04+00:00"
+      "total": 139,
+      "translated": 139,
+      "lastDate": "2026-08-04T08:59:11+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-04T08:01:36.432Z"
+  "generatedAt": "2026-08-04T09:22:38.465Z"
 }
