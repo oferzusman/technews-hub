@@ -1,9 +1,9 @@
 {
-  "total": 16739,
-  "translated": 16734,
+  "total": 16743,
+  "translated": 16738,
   "untranslated": 5,
-  "today": 55,
-  "week": 660,
+  "today": 59,
+  "week": 664,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -31,8 +31,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 1006,
-      "translated": 1006,
+      "total": 1007,
+      "translated": 1007,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 656,
-      "translated": 656,
+      "total": 657,
+      "translated": 657,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
@@ -127,8 +127,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 204,
-      "translated": 204,
+      "total": 205,
+      "translated": 205,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -145,9 +145,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 164,
-      "translated": 164,
-      "lastDate": "2026-08-04T13:08:52+00:00"
+      "total": 165,
+      "translated": 165,
+      "lastDate": "2026-08-04T13:46:31+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-04T13:47:07.872Z"
+  "generatedAt": "2026-08-04T14:11:10.135Z"
 }
