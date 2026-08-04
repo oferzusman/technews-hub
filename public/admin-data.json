@@ -1,20 +1,20 @@
 {
-  "total": 16727,
-  "translated": 16722,
+  "total": 16739,
+  "translated": 16734,
   "untranslated": 5,
-  "today": 43,
-  "week": 648,
+  "today": 55,
+  "week": 660,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1490,
-      "translated": 1490,
+      "total": 1492,
+      "translated": 1492,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1369,
-      "translated": 1369,
+      "total": 1373,
+      "translated": 1373,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -31,8 +31,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 1005,
-      "translated": 1005,
+      "total": 1006,
+      "translated": 1006,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 572,
-      "translated": 571,
-      "lastDate": "2026-08-04T10:24:28+00:00"
+      "total": 573,
+      "translated": 572,
+      "lastDate": "2026-08-04T13:05:27+00:00"
     },
     {
       "name": "The Verge AI",
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 325,
-      "translated": 324,
-      "lastDate": "2026-08-04T11:42:49+00:00"
+      "total": 326,
+      "translated": 325,
+      "lastDate": "2026-08-04T13:13:00+00:00"
     },
     {
       "name": "The Register",
@@ -133,9 +133,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 187,
-      "translated": 187,
-      "lastDate": "2026-08-04T08:25:02+00:00"
+      "total": 188,
+      "translated": 188,
+      "lastDate": "2026-08-04T12:53:00+00:00"
     },
     {
       "name": "AI News",
@@ -145,9 +145,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 163,
-      "translated": 163,
-      "lastDate": "2026-08-04T10:59:01+00:00"
+      "total": 164,
+      "translated": 164,
+      "lastDate": "2026-08-04T13:08:52+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -187,8 +187,8 @@
     },
     {
       "name": "Google AI Blog",
-      "total": 73,
-      "translated": 73,
+      "total": 74,
+      "translated": 74,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-04T12:58:28.897Z"
+  "generatedAt": "2026-08-04T13:45:24.726Z"
 }
