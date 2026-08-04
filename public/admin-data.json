@@ -1,14 +1,14 @@
 {
-  "total": 16705,
-  "translated": 16700,
+  "total": 16714,
+  "translated": 16709,
   "untranslated": 5,
-  "today": 21,
-  "week": 626,
+  "today": 30,
+  "week": 635,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1484,
-      "translated": 1484,
+      "total": 1487,
+      "translated": 1487,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1039,
-      "translated": 1039,
+      "total": 1041,
+      "translated": 1041,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 833,
-      "translated": 833,
+      "total": 834,
+      "translated": 834,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -67,15 +67,15 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 571,
-      "translated": 570,
-      "lastDate": "2026-08-04T07:05:32+00:00"
+      "total": 572,
+      "translated": 571,
+      "lastDate": "2026-08-04T10:24:28+00:00"
     },
     {
       "name": "The Verge AI",
-      "total": 518,
-      "translated": 518,
-      "lastDate": "2026-08-03T17:38:45.000Z"
+      "total": 519,
+      "translated": 519,
+      "lastDate": "2026-08-04T10:00:00.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 106,
-      "translated": 106,
-      "lastDate": "2026-08-03T12:33:08+00:00"
+      "total": 107,
+      "translated": 107,
+      "lastDate": "2026-08-04T10:45:36+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-04T10:47:03.347Z"
+  "generatedAt": "2026-08-04T10:49:37.789Z"
 }
