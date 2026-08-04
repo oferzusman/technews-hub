@@ -1,14 +1,14 @@
 {
-  "total": 16701,
-  "translated": 16696,
+  "total": 16705,
+  "translated": 16700,
   "untranslated": 5,
-  "today": 17,
-  "week": 622,
+  "today": 21,
+  "week": 626,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1483,
-      "translated": 1483,
+      "total": 1484,
+      "translated": 1484,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 515,
-      "translated": 515,
+      "total": 517,
+      "translated": 517,
       "lastDate": "Wed, 29 Jul 2026 19:30:35 +0000"
     },
     {
@@ -121,9 +121,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 258,
-      "translated": 256,
-      "lastDate": "2026-08-04T06:16:18+00:00"
+      "total": 259,
+      "translated": 257,
+      "lastDate": "2026-08-04T09:40:27+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-04T09:23:37.571Z"
+  "generatedAt": "2026-08-04T09:50:12.725Z"
 }
