@@ -1,14 +1,14 @@
 {
-  "total": 16718,
-  "translated": 16713,
+  "total": 16727,
+  "translated": 16722,
   "untranslated": 5,
-  "today": 34,
-  "week": 639,
+  "today": 43,
+  "week": 648,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1487,
-      "translated": 1487,
+      "total": 1490,
+      "translated": 1490,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -25,14 +25,14 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1041,
-      "translated": 1041,
+      "total": 1042,
+      "translated": 1042,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1004,
-      "translated": 1004,
+      "total": 1005,
+      "translated": 1005,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 834,
-      "translated": 834,
+      "total": 835,
+      "translated": 835,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 324,
-      "translated": 323,
-      "lastDate": "2026-08-03T15:28:25+00:00"
+      "total": 325,
+      "translated": 324,
+      "lastDate": "2026-08-04T11:42:49+00:00"
     },
     {
       "name": "The Register",
@@ -115,8 +115,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 280,
-      "translated": 280,
+      "total": 281,
+      "translated": 281,
       "lastDate": "Wed, 29 Jul 2026 17:58:44 +0000"
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 139,
-      "translated": 139,
-      "lastDate": "2026-08-04T08:59:11+00:00"
+      "total": 140,
+      "translated": 140,
+      "lastDate": "2026-08-04T12:16:48+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-04T11:41:09.698Z"
+  "generatedAt": "2026-08-04T12:32:56.927Z"
 }
