@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "גוגל משקיעה 200 מיליארד דולר בהימור ענק על AI\n\nגוגל עומדת להשקיע סכום ענק של 200 מיליארד דולר בפרויקט תשתיות AI ענק, כאשר כ-150 מיליארד יוקדשו לפיתוח ייצור שבבי TPU שלהם ו-50 מיליארד נוסף לבנייה והרחבה של data centers. זה אחד ההשקעות הגדולות ביותר בתעשיית ה-AI עד היום וחשוף כמה רצינית גוגל בתחרות על הנהגה בתחום ה-AI.",
+    "t": "גוגל משקיעה 200 מיליארד דולר בהימור ענקי על AI\n\nגוגל מתכננת אחד מפרויקטי infrastructure הענקיים בתולדות הטכנולוגיה - השקעה של כ-200 מיליארד דולר להרחבה מסיבית של computing power ל-Anthropic. בערך 150 מיליארד יילכו לפיתוח TPU chips של גוגל, בעוד 50 מיליארד יוקדשו לבנייה והרחבה של data centers ענקיים. זה בעצם הודעה שגוגל לא צוחקת בלחימה על שליטה בעולם ה-AI.",
     "d": "2026-08-05T03:54:01+00:00",
     "v": 0,
     "l": [
@@ -14,9 +14,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Anthropic"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": "https://cdn4.telesco.pe/file/eu8aoj67dWKZ76MQPHOBYxv9Ll1DJjhUDnoiiZxN3xxTtESn3Vq3C-x56nPAXDCre-oQclK7AI7PggXgL_9m32uA8kZEvSNl4tzzS4sqSJoJHlLoW8U0RYyGZrV4QsbsCaxAjMUHE2eGAZ42vLdLrnOPBt_MohcNAwpwTV2XESMbVfEuk7V690Iy0jJSipkL1RnexBnXF4s7ZQknd_ilgks5zNfmmUgjQdqmmPsposWffsGIbd2yyuVroHsMJm3f5PvkLHtGb6Ape2W5TQ7ijEHKZoluxN4Z4LmAlJHOe1vdmVUi3PB6rn_uYC9ix-TtodejXsnHxPOMPELoFKxyiA.jpg",
