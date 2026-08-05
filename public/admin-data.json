@@ -1,20 +1,20 @@
 {
-  "total": 16839,
-  "translated": 16834,
+  "total": 16847,
+  "translated": 16842,
   "untranslated": 5,
-  "today": 42,
-  "week": 625,
+  "today": 50,
+  "week": 633,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1498,
-      "translated": 1498,
+      "total": 1501,
+      "translated": 1501,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1378,
-      "translated": 1378,
+      "total": 1379,
+      "translated": 1379,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 665,
-      "translated": 665,
+      "total": 668,
+      "translated": 668,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
@@ -145,9 +145,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 166,
-      "translated": 166,
-      "lastDate": "2026-08-05T10:48:17+00:00"
+      "total": 167,
+      "translated": 167,
+      "lastDate": "2026-08-05T11:44:01+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-05T11:34:20.283Z"
+  "generatedAt": "2026-08-05T12:05:05.918Z"
 }
