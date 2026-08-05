@@ -1,9 +1,9 @@
 {
-  "total": 16804,
+  "total": 16813,
   "translated": 16799,
-  "untranslated": 5,
-  "today": 7,
-  "week": 590,
+  "untranslated": 14,
+  "today": 16,
+  "week": 599,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,13 +13,13 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1376,
+      "total": 1377,
       "translated": 1376,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
       "name": "Product Hunt",
-      "total": 1181,
+      "total": 1184,
       "translated": 1181,
       "lastDate": "2026-08-03T06:19:32.000Z"
     },
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 845,
+      "total": 846,
       "translated": 844,
-      "lastDate": "2026-08-05T03:54:01+00:00"
+      "lastDate": "2026-08-05T06:45:19+00:00"
     },
     {
       "name": "The Decoder",
@@ -61,15 +61,15 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 661,
+      "total": 662,
       "translated": 661,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 578,
+      "total": 579,
       "translated": 577,
-      "lastDate": "2026-08-04T22:41:28+00:00"
+      "lastDate": "2026-08-05T07:11:31+00:00"
     },
     {
       "name": "The Verge AI",
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 327,
+      "total": 328,
       "translated": 326,
-      "lastDate": "2026-08-04T17:57:21+00:00"
+      "lastDate": "2026-08-05T07:13:34+00:00"
     },
     {
       "name": "The Register",
@@ -121,9 +121,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 261,
+      "total": 262,
       "translated": 259,
-      "lastDate": "2026-08-04T17:33:57+00:00"
+      "lastDate": "2026-08-05T06:18:39+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-05T06:20:49.518Z"
+  "generatedAt": "2026-08-05T07:15:54.149Z"
 }
