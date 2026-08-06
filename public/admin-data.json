@@ -1,9 +1,9 @@
 {
-  "total": 16973,
-  "translated": 16968,
+  "total": 16977,
+  "translated": 16972,
   "untranslated": 5,
-  "today": 61,
-  "week": 637,
+  "today": 65,
+  "week": 641,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 534,
-      "translated": 534,
-      "lastDate": "2026-08-06T09:33:11.000Z"
+      "total": 537,
+      "translated": 537,
+      "lastDate": "2026-08-06T14:00:00.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -127,8 +127,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 205,
-      "translated": 205,
+      "total": 206,
+      "translated": 206,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-06T13:41:07.955Z"
+  "generatedAt": "2026-08-06T14:08:34.290Z"
 }
