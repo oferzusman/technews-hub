@@ -1,9 +1,9 @@
 {
-  "total": 16922,
-  "translated": 16917,
+  "total": 16925,
+  "translated": 16920,
   "untranslated": 5,
-  "today": 10,
-  "week": 586,
+  "today": 13,
+  "week": 589,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1063,
-      "translated": 1063,
+      "total": 1065,
+      "translated": 1065,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 852,
-      "translated": 851,
-      "lastDate": "2026-08-06T01:38:01+00:00"
+      "total": 853,
+      "translated": 852,
+      "lastDate": "2026-08-06T04:54:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-06T04:29:43.723Z"
+  "generatedAt": "2026-08-06T06:14:43.393Z"
 }
