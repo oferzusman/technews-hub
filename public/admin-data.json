@@ -1,7 +1,7 @@
 {
   "total": 17037,
-  "translated": 17029,
-  "untranslated": 8,
+  "translated": 17032,
+  "untranslated": 5,
   "today": 53,
   "week": 574,
   "sources": [
@@ -38,7 +38,7 @@
     {
       "name": "AI Post (TG)",
       "total": 859,
-      "translated": 857,
+      "translated": 858,
       "lastDate": "2026-08-07T02:05:12+00:00"
     },
     {
@@ -50,7 +50,7 @@
     {
       "name": "New Atlas",
       "total": 827,
-      "translated": 826,
+      "translated": 827,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -62,7 +62,7 @@
     {
       "name": "The Guardian AI",
       "total": 676,
-      "translated": 675,
+      "translated": 676,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-07T03:29:04.801Z"
+  "generatedAt": "2026-08-07T03:29:58.671Z"
 }
