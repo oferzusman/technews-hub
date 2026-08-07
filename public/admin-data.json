@@ -1,9 +1,9 @@
 {
-  "total": 17109,
-  "translated": 17104,
+  "total": 17111,
+  "translated": 17106,
   "untranslated": 5,
-  "today": 125,
-  "week": 646,
+  "today": 127,
+  "week": 648,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -43,14 +43,14 @@
     },
     {
       "name": "The Decoder",
-      "total": 859,
-      "translated": 859,
+      "total": 860,
+      "translated": 860,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 829,
-      "translated": 829,
+      "total": 830,
+      "translated": 830,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-07T17:45:04.279Z"
+  "generatedAt": "2026-08-07T17:50:02.677Z"
 }
