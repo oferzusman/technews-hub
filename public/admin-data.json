@@ -1,9 +1,9 @@
 {
-  "total": 17132,
-  "translated": 17127,
+  "total": 17136,
+  "translated": 17131,
   "untranslated": 5,
-  "today": 148,
-  "week": 669,
+  "today": 152,
+  "week": 673,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1411,
-      "translated": 1411,
+      "total": 1412,
+      "translated": 1412,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 830,
-      "translated": 830,
+      "total": 831,
+      "translated": 831,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 530,
-      "translated": 530,
+      "total": 531,
+      "translated": 531,
       "lastDate": "Wed, 29 Jul 2026 19:30:35 +0000"
     },
     {
@@ -168,16 +168,16 @@
       "lastDate": "2026-04-09T07:08:00Z"
     },
     {
+      "name": "Prompt AI News (TG)",
+      "total": 80,
+      "translated": 80,
+      "lastDate": "2026-08-07T20:57:13+00:00"
+    },
+    {
       "name": "The Times of India",
       "total": 79,
       "translated": 79,
       "lastDate": "2026-04-09T07:23:47Z"
-    },
-    {
-      "name": "Prompt AI News (TG)",
-      "total": 79,
-      "translated": 79,
-      "lastDate": "2026-08-06T17:21:33+00:00"
     },
     {
       "name": "GlobeNewswire",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-07T21:08:59.741Z"
+  "generatedAt": "2026-08-07T21:22:24.303Z"
 }
