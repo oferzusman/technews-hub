@@ -1,9 +1,9 @@
 {
-  "total": 17048,
-  "translated": 17043,
+  "total": 17050,
+  "translated": 17045,
   "untranslated": 5,
-  "today": 64,
-  "week": 585,
+  "today": 66,
+  "week": 587,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,9 +19,9 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1190,
-      "translated": 1190,
-      "lastDate": "2026-08-05T14:27:52.000Z"
+      "total": 1191,
+      "translated": 1191,
+      "lastDate": "2026-08-07T03:57:52.000Z"
     },
     {
       "name": "CNBC Tech",
@@ -145,9 +145,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 169,
-      "translated": 169,
-      "lastDate": "2026-08-06T07:24:43+00:00"
+      "total": 170,
+      "translated": 170,
+      "lastDate": "2026-08-07T08:07:34+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-07T07:59:32.492Z"
+  "generatedAt": "2026-08-07T08:14:27.634Z"
 }
