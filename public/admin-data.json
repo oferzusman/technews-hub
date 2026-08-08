@@ -1,9 +1,9 @@
 {
-  "total": 17185,
-  "translated": 17180,
+  "total": 17186,
+  "translated": 17181,
   "untranslated": 5,
-  "today": 40,
-  "week": 662,
+  "today": 41,
+  "week": 663,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -121,9 +121,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 270,
-      "translated": 268,
-      "lastDate": "2026-08-08T11:31:18+00:00"
+      "total": 271,
+      "translated": 269,
+      "lastDate": "2026-08-08T14:34:02+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-08T14:33:05.635Z"
+  "generatedAt": "2026-08-08T14:40:00.018Z"
 }
