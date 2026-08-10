@@ -1,9 +1,9 @@
 {
-  "total": 17342,
-  "translated": 17337,
+  "total": 17348,
+  "translated": 17343,
   "untranslated": 5,
-  "today": 86,
-  "week": 658,
+  "today": 92,
+  "week": 664,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1096,
-      "translated": 1096,
+      "total": 1098,
+      "translated": 1098,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -37,14 +37,14 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 886,
-      "translated": 885,
-      "lastDate": "2026-08-10T14:33:06+00:00"
+      "total": 887,
+      "translated": 886,
+      "lastDate": "2026-08-10T17:41:01+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 880,
-      "translated": 880,
+      "total": 881,
+      "translated": 881,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 695,
-      "translated": 695,
+      "total": 696,
+      "translated": 696,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 344,
-      "translated": 343,
-      "lastDate": "2026-08-10T16:17:34+00:00"
+      "total": 345,
+      "translated": 344,
+      "lastDate": "2026-08-10T18:08:21+00:00"
     },
     {
       "name": "The Register",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-10T17:35:14.361Z"
+  "generatedAt": "2026-08-10T18:14:32.748Z"
 }
