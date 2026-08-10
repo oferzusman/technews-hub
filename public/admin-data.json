@@ -1,9 +1,9 @@
 {
-  "total": 17270,
-  "translated": 17265,
-  "untranslated": 5,
-  "today": 14,
-  "week": 586,
+  "total": 17275,
+  "translated": 17269,
+  "untranslated": 6,
+  "today": 19,
+  "week": 591,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 876,
-      "translated": 876,
+      "total": 877,
+      "translated": 877,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 693,
+      "total": 694,
       "translated": 693,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
@@ -108,16 +108,16 @@
       "lastDate": "Wed, 29 Apr 2026 19:00:18 +0200"
     },
     {
+      "name": "MIT Technology Review",
+      "total": 287,
+      "translated": 287,
+      "lastDate": "Wed, 29 Jul 2026 17:58:44 +0000"
+    },
+    {
       "name": "Futurism",
       "total": 287,
       "translated": 287,
       "lastDate": "Wed, 22 Apr 2026 16:27:39 -0400"
-    },
-    {
-      "name": "MIT Technology Review",
-      "total": 285,
-      "translated": 285,
-      "lastDate": "Wed, 29 Jul 2026 17:58:44 +0000"
     },
     {
       "name": "Hi, AI Russian (TG)",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 142,
-      "translated": 142,
-      "lastDate": "2026-08-07T10:20:46+00:00"
+      "total": 143,
+      "translated": 143,
+      "lastDate": "2026-08-10T09:04:20+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-10T08:56:27.612Z"
+  "generatedAt": "2026-08-10T09:21:08.096Z"
 }
