@@ -1,9 +1,9 @@
 {
-  "total": 17315,
+  "total": 17323,
   "translated": 17310,
-  "untranslated": 5,
-  "today": 59,
-  "week": 631,
+  "untranslated": 13,
+  "today": 67,
+  "week": 639,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,7 +13,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1433,
+      "total": 1434,
       "translated": 1433,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
@@ -37,13 +37,13 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 885,
+      "total": 886,
       "translated": 884,
-      "lastDate": "2026-08-10T11:15:53+00:00"
+      "lastDate": "2026-08-10T14:33:06+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 879,
+      "total": 880,
       "translated": 879,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 548,
+      "total": 549,
       "translated": 548,
-      "lastDate": "2026-08-10T11:00:00.000Z"
+      "lastDate": "2026-08-10T14:00:00.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -91,15 +91,15 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 464,
+      "total": 465,
       "translated": 464,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
       "name": "Backdoor (TG)",
-      "total": 341,
+      "total": 342,
       "translated": 340,
-      "lastDate": "2026-08-10T11:03:39+00:00"
+      "lastDate": "2026-08-10T13:45:01+00:00"
     },
     {
       "name": "The Register",
@@ -133,9 +133,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 197,
+      "total": 198,
       "translated": 197,
-      "lastDate": "2026-08-10T09:27:22+00:00"
+      "lastDate": "2026-08-10T14:12:02+00:00"
     },
     {
       "name": "AI News",
@@ -187,7 +187,7 @@
     },
     {
       "name": "Google AI Blog",
-      "total": 75,
+      "total": 76,
       "translated": 75,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-10T13:42:24.211Z"
+  "generatedAt": "2026-08-10T14:37:40.734Z"
 }
