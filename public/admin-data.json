@@ -1,9 +1,9 @@
 {
-  "total": 17461,
-  "translated": 17456,
+  "total": 17472,
+  "translated": 17467,
   "untranslated": 5,
-  "today": 83,
-  "week": 664,
+  "today": 94,
+  "week": 675,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1447,
-      "translated": 1447,
+      "total": 1448,
+      "translated": 1448,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -25,14 +25,14 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1107,
-      "translated": 1107,
+      "total": 1108,
+      "translated": 1108,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1055,
-      "translated": 1055,
+      "total": 1057,
+      "translated": 1057,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 888,
-      "translated": 888,
+      "total": 890,
+      "translated": 890,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -55,14 +55,14 @@
     },
     {
       "name": "Ars Technica",
-      "total": 770,
-      "translated": 770,
+      "total": 772,
+      "translated": 772,
       "lastDate": "Wed, 29 Jul 2026 20:57:35 +0000"
     },
     {
       "name": "The Guardian AI",
-      "total": 702,
-      "translated": 702,
+      "total": 703,
+      "translated": 703,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 558,
-      "translated": 558,
-      "lastDate": "2026-08-11T17:00:00.000Z"
+      "total": 559,
+      "translated": 559,
+      "lastDate": "2026-08-11T17:50:01.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -145,9 +145,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 173,
-      "translated": 173,
-      "lastDate": "2026-08-10T10:12:26+00:00"
+      "total": 174,
+      "translated": 174,
+      "lastDate": "2026-08-11T18:02:13+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-11T17:57:54.732Z"
+  "generatedAt": "2026-08-11T18:10:41.852Z"
 }
