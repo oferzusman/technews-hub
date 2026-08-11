@@ -1,9 +1,9 @@
 {
-  "total": 17480,
-  "translated": 17475,
+  "total": 17482,
+  "translated": 17477,
   "untranslated": 5,
-  "today": 102,
-  "week": 683,
+  "today": 104,
+  "week": 685,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1108,
-      "translated": 1108,
+      "total": 1109,
+      "translated": 1109,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 559,
-      "translated": 559,
-      "lastDate": "2026-08-11T17:50:01.000Z"
+      "total": 560,
+      "translated": 560,
+      "lastDate": "2026-08-11T19:41:42.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-11T20:26:26.265Z"
+  "generatedAt": "2026-08-11T20:42:54.094Z"
 }
