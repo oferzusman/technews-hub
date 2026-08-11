@@ -1,14 +1,14 @@
 {
   "total": 17461,
-  "translated": 17447,
-  "untranslated": 14,
+  "translated": 17456,
+  "untranslated": 5,
   "today": 83,
   "week": 664,
   "sources": [
     {
       "name": "Tom's Hardware",
       "total": 1562,
-      "translated": 1561,
+      "translated": 1562,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -26,13 +26,13 @@
     {
       "name": "CNBC Tech",
       "total": 1107,
-      "translated": 1105,
+      "translated": 1107,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
       "name": "TechCrunch AI",
       "total": 1055,
-      "translated": 1054,
+      "translated": 1055,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
@@ -50,7 +50,7 @@
     {
       "name": "New Atlas",
       "total": 845,
-      "translated": 844,
+      "translated": 845,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -74,7 +74,7 @@
     {
       "name": "The Verge AI",
       "total": 558,
-      "translated": 556,
+      "translated": 558,
       "lastDate": "2026-08-11T17:00:00.000Z"
     },
     {
@@ -134,7 +134,7 @@
     {
       "name": "Hi, AI English (TG)",
       "total": 200,
-      "translated": 199,
+      "translated": 200,
       "lastDate": "2026-08-11T16:33:35+00:00"
     },
     {
@@ -182,7 +182,7 @@
     {
       "name": "Google AI Blog",
       "total": 77,
-      "translated": 76,
+      "translated": 77,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-11T17:08:56.820Z"
+  "generatedAt": "2026-08-11T17:09:17.180Z"
 }
