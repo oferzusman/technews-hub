@@ -1,14 +1,14 @@
 {
-  "total": 17524,
-  "translated": 17519,
+  "total": 17529,
+  "translated": 17524,
   "untranslated": 5,
-  "today": 29,
-  "week": 612,
+  "today": 34,
+  "week": 617,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1564,
-      "translated": 1564,
+      "total": 1567,
+      "translated": 1567,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 891,
-      "translated": 891,
+      "total": 892,
+      "translated": 892,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -145,9 +145,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 175,
-      "translated": 175,
-      "lastDate": "2026-08-12T06:00:42+00:00"
+      "total": 176,
+      "translated": 176,
+      "lastDate": "2026-08-12T10:10:19+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-12T10:05:30.223Z"
+  "generatedAt": "2026-08-12T10:46:54.211Z"
 }
