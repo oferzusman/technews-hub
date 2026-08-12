@@ -1,9 +1,9 @@
 {
-  "total": 17500,
-  "translated": 17495,
+  "total": 17501,
+  "translated": 17496,
   "untranslated": 5,
-  "today": 5,
-  "week": 588,
+  "today": 6,
+  "week": 589,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1111,
-      "translated": 1111,
+      "total": 1112,
+      "translated": 1112,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-12T00:43:04.276Z"
+  "generatedAt": "2026-08-12T01:53:42.826Z"
 }
