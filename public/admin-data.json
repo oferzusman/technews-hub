@@ -1,14 +1,14 @@
 {
-  "total": 17612,
-  "translated": 17607,
+  "total": 17620,
+  "translated": 17615,
   "untranslated": 5,
-  "today": 117,
-  "week": 700,
+  "today": 125,
+  "week": 708,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1578,
-      "translated": 1578,
+      "total": 1579,
+      "translated": 1579,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 904,
-      "translated": 903,
-      "lastDate": "2026-08-12T18:04:03+00:00"
+      "total": 905,
+      "translated": 904,
+      "lastDate": "2026-08-12T21:21:40+00:00"
     },
     {
       "name": "The Decoder",
@@ -49,8 +49,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 850,
-      "translated": 850,
+      "total": 851,
+      "translated": 851,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 614,
-      "translated": 613,
-      "lastDate": "2026-08-12T16:15:17+00:00"
+      "total": 615,
+      "translated": 614,
+      "lastDate": "2026-08-12T21:22:04+00:00"
     },
     {
       "name": "The Verge AI",
@@ -84,16 +84,16 @@
       "lastDate": "Wed, 29 Jul 2026 19:30:35 +0000"
     },
     {
+      "name": "OpenAI Blog",
+      "total": 477,
+      "translated": 477,
+      "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
+    },
+    {
       "name": "Pypi.org",
       "total": 477,
       "translated": 477,
       "lastDate": "2026-04-09T07:21:22Z"
-    },
-    {
-      "name": "OpenAI Blog",
-      "total": 473,
-      "translated": 473,
-      "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
       "name": "Backdoor (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-12T21:45:17.071Z"
+  "generatedAt": "2026-08-12T21:54:33.128Z"
 }
