@@ -1,9 +1,9 @@
 {
-  "total": 17495,
-  "translated": 17490,
+  "total": 17496,
+  "translated": 17491,
   "untranslated": 5,
-  "today": 117,
-  "week": 698,
+  "today": 1,
+  "week": 584,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -169,9 +169,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 82,
-      "translated": 82,
-      "lastDate": "2026-08-11T11:49:53+00:00"
+      "total": 83,
+      "translated": 83,
+      "lastDate": "2026-08-11T23:46:00+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-11T23:58:36.169Z"
+  "generatedAt": "2026-08-12T00:07:30.461Z"
 }
