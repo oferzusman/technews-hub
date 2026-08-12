@@ -1,9 +1,9 @@
 {
-  "total": 17555,
-  "translated": 17550,
+  "total": 17566,
+  "translated": 17561,
   "untranslated": 5,
-  "today": 60,
-  "week": 643,
+  "today": 71,
+  "week": 654,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,21 +25,21 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1117,
-      "translated": 1117,
+      "total": 1118,
+      "translated": 1118,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1060,
-      "translated": 1060,
+      "total": 1062,
+      "translated": 1062,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
       "name": "AI Post (TG)",
-      "total": 901,
-      "translated": 900,
-      "lastDate": "2026-08-12T11:44:01+00:00"
+      "total": 902,
+      "translated": 901,
+      "lastDate": "2026-08-12T14:16:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -49,20 +49,20 @@
     },
     {
       "name": "New Atlas",
-      "total": 849,
-      "translated": 849,
+      "total": 850,
+      "translated": 850,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 775,
-      "translated": 775,
+      "total": 777,
+      "translated": 777,
       "lastDate": "Wed, 29 Jul 2026 20:57:35 +0000"
     },
     {
       "name": "The Guardian AI",
-      "total": 705,
-      "translated": 705,
+      "total": 706,
+      "translated": 706,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 563,
-      "translated": 563,
-      "lastDate": "2026-08-12T12:09:34.000Z"
+      "total": 564,
+      "translated": 564,
+      "lastDate": "2026-08-12T14:00:00.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -127,8 +127,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 211,
-      "translated": 211,
+      "total": 212,
+      "translated": 212,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -145,9 +145,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 176,
-      "translated": 176,
-      "lastDate": "2026-08-12T10:10:19+00:00"
+      "total": 177,
+      "translated": 177,
+      "lastDate": "2026-08-12T14:19:38+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-12T14:31:47.919Z"
+  "generatedAt": "2026-08-12T15:01:24.934Z"
 }
