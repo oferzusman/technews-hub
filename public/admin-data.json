@@ -1,20 +1,20 @@
 {
   "total": 17555,
-  "translated": 17538,
-  "untranslated": 17,
+  "translated": 17550,
+  "untranslated": 5,
   "today": 60,
   "week": 643,
   "sources": [
     {
       "name": "Tom's Hardware",
       "total": 1573,
-      "translated": 1570,
+      "translated": 1573,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
       "name": "Interesting Engineering",
       "total": 1459,
-      "translated": 1456,
+      "translated": 1459,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -44,7 +44,7 @@
     {
       "name": "The Decoder",
       "total": 895,
-      "translated": 893,
+      "translated": 895,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -92,13 +92,13 @@
     {
       "name": "OpenAI Blog",
       "total": 473,
-      "translated": 472,
+      "translated": 473,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
       "name": "Backdoor (TG)",
       "total": 351,
-      "translated": 349,
+      "translated": 350,
       "lastDate": "2026-08-12T13:48:01+00:00"
     },
     {
@@ -152,7 +152,7 @@
     {
       "name": "Habr (TG)",
       "total": 145,
-      "translated": 143,
+      "translated": 145,
       "lastDate": "2026-08-12T13:42:55+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-12T14:00:56.096Z"
+  "generatedAt": "2026-08-12T14:01:19.450Z"
 }
