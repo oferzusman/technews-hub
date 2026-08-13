@@ -1,20 +1,20 @@
 {
-  "total": 17669,
-  "translated": 17664,
+  "total": 17678,
+  "translated": 17673,
   "untranslated": 5,
-  "today": 40,
-  "week": 685,
+  "today": 49,
+  "week": 694,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1585,
-      "translated": 1585,
+      "total": 1588,
+      "translated": 1588,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1466,
-      "translated": 1466,
+      "total": 1467,
+      "translated": 1467,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1123,
-      "translated": 1123,
+      "total": 1124,
+      "translated": 1124,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -61,15 +61,15 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 712,
-      "translated": 712,
+      "total": 713,
+      "translated": 713,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 620,
-      "translated": 619,
-      "lastDate": "2026-08-13T11:50:03+00:00"
+      "total": 621,
+      "translated": 620,
+      "lastDate": "2026-08-13T12:49:11+00:00"
     },
     {
       "name": "The Verge AI",
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 356,
-      "translated": 355,
-      "lastDate": "2026-08-12T22:28:32+00:00"
+      "total": 357,
+      "translated": 356,
+      "lastDate": "2026-08-13T12:47:10+00:00"
     },
     {
       "name": "The Register",
@@ -109,8 +109,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 294,
-      "translated": 294,
+      "total": 295,
+      "translated": 295,
       "lastDate": "Wed, 29 Jul 2026 17:58:44 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-13T13:00:52.401Z"
+  "generatedAt": "2026-08-13T13:09:56.609Z"
 }
