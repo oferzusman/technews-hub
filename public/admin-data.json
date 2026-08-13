@@ -1,14 +1,14 @@
 {
-  "total": 17665,
-  "translated": 17660,
+  "total": 17669,
+  "translated": 17664,
   "untranslated": 5,
-  "today": 36,
-  "week": 681,
+  "today": 40,
+  "week": 685,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1584,
-      "translated": 1584,
+      "total": 1585,
+      "translated": 1585,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -55,8 +55,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 783,
-      "translated": 783,
+      "total": 784,
+      "translated": 784,
       "lastDate": "Wed, 29 Jul 2026 20:57:35 +0000"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 619,
-      "translated": 618,
-      "lastDate": "2026-08-13T11:22:20+00:00"
+      "total": 620,
+      "translated": 619,
+      "lastDate": "2026-08-13T11:50:03+00:00"
     },
     {
       "name": "The Verge AI",
@@ -121,9 +121,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 280,
-      "translated": 278,
-      "lastDate": "2026-08-13T06:29:08+00:00"
+      "total": 281,
+      "translated": 279,
+      "lastDate": "2026-08-13T11:53:55+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-13T11:49:42.276Z"
+  "generatedAt": "2026-08-13T11:58:37.808Z"
 }
