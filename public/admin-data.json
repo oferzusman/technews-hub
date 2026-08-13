@@ -1,9 +1,9 @@
 {
-  "total": 17636,
-  "translated": 17631,
+  "total": 17643,
+  "translated": 17638,
   "untranslated": 5,
-  "today": 7,
-  "week": 652,
+  "today": 14,
+  "week": 659,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,9 +19,9 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1201,
-      "translated": 1201,
-      "lastDate": "2026-08-11T08:52:16.000Z"
+      "total": 1206,
+      "translated": 1206,
+      "lastDate": "2026-08-12T17:21:27.000Z"
     },
     {
       "name": "CNBC Tech",
@@ -49,8 +49,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 851,
-      "translated": 851,
+      "total": 852,
+      "translated": 852,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 548,
-      "translated": 548,
+      "total": 549,
+      "translated": 549,
       "lastDate": "Wed, 29 Jul 2026 19:30:35 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-13T07:02:20.031Z"
+  "generatedAt": "2026-08-13T07:40:26.695Z"
 }
