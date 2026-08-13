@@ -1,9 +1,9 @@
 {
-  "total": 17709,
-  "translated": 17704,
+  "total": 17715,
+  "translated": 17710,
   "untranslated": 5,
-  "today": 80,
-  "week": 725,
+  "today": 86,
+  "week": 731,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1472,
-      "translated": 1472,
+      "total": 1473,
+      "translated": 1473,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -25,14 +25,14 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1127,
-      "translated": 1127,
+      "total": 1128,
+      "translated": 1128,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1075,
-      "translated": 1075,
+      "total": 1076,
+      "translated": 1076,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 550,
-      "translated": 550,
+      "total": 551,
+      "translated": 551,
       "lastDate": "Wed, 29 Jul 2026 19:30:35 +0000"
     },
     {
@@ -127,8 +127,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 214,
-      "translated": 214,
+      "total": 215,
+      "translated": 215,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -181,8 +181,8 @@
     },
     {
       "name": "Google AI Blog",
-      "total": 77,
-      "translated": 77,
+      "total": 78,
+      "translated": 78,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-13T17:05:31.130Z"
+  "generatedAt": "2026-08-13T17:34:03.233Z"
 }
