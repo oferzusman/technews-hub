@@ -1,9 +1,9 @@
 {
-  "total": 17695,
-  "translated": 17690,
+  "total": 17700,
+  "translated": 17695,
   "untranslated": 5,
-  "today": 66,
-  "week": 711,
+  "today": 71,
+  "week": 716,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -55,8 +55,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 784,
-      "translated": 784,
+      "total": 786,
+      "translated": 786,
       "lastDate": "Wed, 29 Jul 2026 20:57:35 +0000"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 568,
-      "translated": 568,
-      "lastDate": "2026-08-13T14:10:31.000Z"
+      "total": 569,
+      "translated": 569,
+      "lastDate": "2026-08-13T15:30:00.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -169,9 +169,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 83,
-      "translated": 83,
-      "lastDate": "2026-08-11T23:46:00+00:00"
+      "total": 85,
+      "translated": 85,
+      "lastDate": "2026-08-13T15:38:57+00:00"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-13T15:37:24.791Z"
+  "generatedAt": "2026-08-13T15:59:43.762Z"
 }
