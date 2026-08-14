@@ -1,14 +1,14 @@
 {
-  "total": 17771,
-  "translated": 17766,
+  "total": 17775,
+  "translated": 17770,
   "untranslated": 5,
-  "today": 24,
-  "week": 626,
+  "today": 28,
+  "week": 630,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1590,
-      "translated": 1590,
+      "total": 1591,
+      "translated": 1591,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 554,
-      "translated": 554,
+      "total": 555,
+      "translated": 555,
       "lastDate": "Wed, 29 Jul 2026 19:30:35 +0000"
     },
     {
@@ -121,9 +121,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 282,
-      "translated": 280,
-      "lastDate": "2026-08-14T06:24:28+00:00"
+      "total": 283,
+      "translated": 281,
+      "lastDate": "2026-08-14T10:00:14+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -193,9 +193,9 @@
     },
     {
       "name": "Nature Machine Intelligence",
-      "total": 58,
-      "translated": 58,
-      "lastDate": "2026-08-10T00:00:00.000Z"
+      "total": 59,
+      "translated": 59,
+      "lastDate": "2026-08-14T00:00:00.000Z"
     },
     {
       "name": "Github.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-14T09:43:29.159Z"
+  "generatedAt": "2026-08-14T10:01:50.655Z"
 }
