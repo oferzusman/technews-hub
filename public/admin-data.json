@@ -1,9 +1,9 @@
 {
-  "total": 17831,
-  "translated": 17826,
+  "total": 17834,
+  "translated": 17829,
   "untranslated": 5,
-  "today": 84,
-  "week": 686,
+  "today": 87,
+  "week": 689,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 911,
-      "translated": 911,
+      "total": 912,
+      "translated": 912,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -121,9 +121,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 285,
-      "translated": 283,
-      "lastDate": "2026-08-14T14:03:42+00:00"
+      "total": 286,
+      "translated": 284,
+      "lastDate": "2026-08-14T17:04:01+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -133,9 +133,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 204,
-      "translated": 204,
-      "lastDate": "2026-08-14T07:42:44+00:00"
+      "total": 205,
+      "translated": 205,
+      "lastDate": "2026-08-14T17:10:37+00:00"
     },
     {
       "name": "AI News",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-14T16:53:42.316Z"
+  "generatedAt": "2026-08-14T17:28:06.164Z"
 }
