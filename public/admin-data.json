@@ -1,9 +1,9 @@
 {
-  "total": 17763,
-  "translated": 17758,
+  "total": 17764,
+  "translated": 17759,
   "untranslated": 5,
-  "today": 16,
-  "week": 618,
+  "today": 17,
+  "week": 619,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 361,
-      "translated": 360,
-      "lastDate": "2026-08-14T06:41:09+00:00"
+      "total": 362,
+      "translated": 361,
+      "lastDate": "2026-08-14T08:01:10+00:00"
     },
     {
       "name": "The Register",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-14T08:37:16.959Z"
+  "generatedAt": "2026-08-14T08:38:02.166Z"
 }
