@@ -1,14 +1,14 @@
 {
-  "total": 17764,
-  "translated": 17759,
+  "total": 17770,
+  "translated": 17765,
   "untranslated": 5,
-  "today": 17,
-  "week": 619,
+  "today": 23,
+  "week": 625,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1589,
-      "translated": 1589,
+      "total": 1590,
+      "translated": 1590,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1135,
-      "translated": 1135,
+      "total": 1136,
+      "translated": 1136,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 916,
-      "translated": 915,
-      "lastDate": "2026-08-14T06:03:01+00:00"
+      "total": 917,
+      "translated": 916,
+      "lastDate": "2026-08-14T09:10:23+00:00"
     },
     {
       "name": "The Decoder",
@@ -109,8 +109,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 296,
-      "translated": 296,
+      "total": 298,
+      "translated": 298,
       "lastDate": "Wed, 29 Jul 2026 17:58:44 +0000"
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 145,
-      "translated": 145,
-      "lastDate": "2026-08-12T13:42:55+00:00"
+      "total": 146,
+      "translated": 146,
+      "lastDate": "2026-08-14T09:08:46+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-14T08:46:38.210Z"
+  "generatedAt": "2026-08-14T09:18:37.293Z"
 }
