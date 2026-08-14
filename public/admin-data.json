@@ -1,14 +1,14 @@
 {
-  "total": 17785,
-  "translated": 17780,
+  "total": 17790,
+  "translated": 17785,
   "untranslated": 5,
-  "today": 38,
-  "week": 640,
+  "today": 43,
+  "week": 645,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1595,
-      "translated": 1595,
+      "total": 1597,
+      "translated": 1597,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 907,
-      "translated": 907,
+      "total": 908,
+      "translated": 908,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -145,9 +145,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 178,
-      "translated": 178,
-      "lastDate": "2026-08-14T07:02:15+00:00"
+      "total": 179,
+      "translated": 179,
+      "lastDate": "2026-08-14T11:59:01+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 112,
-      "translated": 112,
-      "lastDate": "2026-08-12T17:46:08+00:00"
+      "total": 113,
+      "translated": 113,
+      "lastDate": "2026-08-14T12:00:13+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-14T11:27:10.598Z"
+  "generatedAt": "2026-08-14T12:02:51.696Z"
 }
