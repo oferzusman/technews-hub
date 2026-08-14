@@ -1,9 +1,9 @@
 {
-  "total": 17756,
-  "translated": 17751,
+  "total": 17760,
+  "translated": 17755,
   "untranslated": 5,
-  "today": 9,
-  "week": 611,
+  "today": 13,
+  "week": 615,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,9 +19,9 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1206,
-      "translated": 1206,
-      "lastDate": "2026-08-12T17:21:27.000Z"
+      "total": 1208,
+      "translated": 1208,
+      "lastDate": "2026-08-13T18:16:30.000Z"
     },
     {
       "name": "CNBC Tech",
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 360,
-      "translated": 359,
-      "lastDate": "2026-08-13T21:34:10+00:00"
+      "total": 361,
+      "translated": 360,
+      "lastDate": "2026-08-14T06:41:09+00:00"
     },
     {
       "name": "The Register",
@@ -145,9 +145,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 177,
-      "translated": 177,
-      "lastDate": "2026-08-12T14:19:38+00:00"
+      "total": 178,
+      "translated": 178,
+      "lastDate": "2026-08-14T07:02:15+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-14T06:40:23.850Z"
+  "generatedAt": "2026-08-14T07:06:46.060Z"
 }
