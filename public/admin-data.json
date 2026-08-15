@@ -1,9 +1,9 @@
 {
-  "total": 17859,
-  "translated": 17854,
+  "total": 17860,
+  "translated": 17855,
   "untranslated": 5,
-  "today": 8,
-  "week": 655,
+  "today": 9,
+  "week": 656,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,8 +19,8 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1208,
-      "translated": 1208,
+      "total": 1209,
+      "translated": 1209,
       "lastDate": "2026-08-13T18:16:30.000Z"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-15T07:15:42.921Z"
+  "generatedAt": "2026-08-15T07:30:35.848Z"
 }
