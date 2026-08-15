@@ -1,9 +1,9 @@
 {
-  "total": 17897,
+  "total": 17899,
   "translated": 17892,
-  "untranslated": 5,
-  "today": 46,
-  "week": 693,
+  "untranslated": 7,
+  "today": 48,
+  "week": 695,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -31,15 +31,15 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 1087,
+      "total": 1088,
       "translated": 1087,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
       "name": "AI Post (TG)",
-      "total": 927,
+      "total": 928,
       "translated": 926,
-      "lastDate": "2026-08-15T15:44:01+00:00"
+      "lastDate": "2026-08-15T19:04:53+00:00"
     },
     {
       "name": "The Decoder",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-15T19:01:59.552Z"
+  "generatedAt": "2026-08-15T19:19:58.805Z"
 }
