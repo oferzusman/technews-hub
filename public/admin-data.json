@@ -1,9 +1,9 @@
 {
-  "total": 17862,
-  "translated": 17857,
+  "total": 17865,
+  "translated": 17860,
   "untranslated": 5,
-  "today": 11,
-  "week": 658,
+  "today": 14,
+  "week": 661,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1493,
-      "translated": 1493,
+      "total": 1494,
+      "translated": 1494,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 916,
-      "translated": 916,
+      "total": 917,
+      "translated": 917,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 720,
-      "translated": 720,
+      "total": 721,
+      "translated": 721,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-15T08:26:57.997Z"
+  "generatedAt": "2026-08-15T08:27:44.869Z"
 }
