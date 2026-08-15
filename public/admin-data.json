@@ -1,7 +1,7 @@
 {
   "total": 17899,
-  "translated": 17892,
-  "untranslated": 7,
+  "translated": 17894,
+  "untranslated": 5,
   "today": 48,
   "week": 695,
   "sources": [
@@ -32,13 +32,13 @@
     {
       "name": "TechCrunch AI",
       "total": 1088,
-      "translated": 1087,
+      "translated": 1088,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
       "name": "AI Post (TG)",
       "total": 928,
-      "translated": 926,
+      "translated": 927,
       "lastDate": "2026-08-15T19:04:53+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-15T19:19:58.805Z"
+  "generatedAt": "2026-08-15T19:26:40.719Z"
 }
