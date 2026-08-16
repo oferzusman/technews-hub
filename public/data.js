@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "פוסט נדיר של דריו! זה מאשר שAnthropice מתמקדת בעוד בתחום הבריאות\n\nAnthropic משקיעה כוחות כבדים בביולוגיה ורפואה - וזה לא חדשות שמעופפות. מנכ\"ל החברה דריו אמור הודה בפוסט נדיר שלו בהם הם מתחיל להראות תוצאות ראשוניות מהעבודה הגדולה הזו בתחום healthcare. זה מה שדווח גם בוול סטריט ג'ורנל - Anthropic יוצאת בנפרד משחקני ה-AI הגדולים עם ריכוז חדש על יישומים רפואיים.",
+    "t": "הודעה נדירה מדריו! אנתרופיק מתמקדת בגדול בתחום healthcare\n\nדריו פיירד מעדכן: אנתרופיק משקיעה משאבים ממש כבדים בביולוגיה וטכנולוגיה רפואית, וחברת ה-AI שלנו מצפה להשיג תוצאות די מטורפות בשנים הקרובות - כל הדברים הטובים מתחילים להתגבשל. זה מחזק את הדיווח של וול סטריט ג'ורנל שאנתרופיק כמובן פשוט הולכת בכביש הברקה בתחום healthcare.",
     "d": "2026-08-16T21:33:08+00:00",
     "v": 0,
     "l": [
@@ -14,12 +14,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn4.telesco.pe/file/TwdGtqwiBaQT_l3H5MPKCHiJ_ZpVTp2B_Jr5HwC3v6ai2JCujFhMmW7OidZzkul_cL5B3NFFACtDQKuGt2tHo6HXOK9xCranEy4CDOFTBUNEVdtc1a-JkSqS1JcnubhWGeSNs79Y4Rbpbt2xuGXrFVW8spzl4TlAXOMaDbmXM0hqtmukV4NPX-dktdIuBdcJHi4E66IhY-3eQoxxd-GqVwkzTwFRqzfWgM2HqrC3lAs3eRAJ0KQfD1yQ8V2YjM6LTFGZcUoGNZlFOYYv8OqKf-GmpxCigVOJcR8A3fL3cb04OGL4CxZ0OWskOGKdJFS--4-t3Msl9jFOxkIo7NIWBg.jpg",
