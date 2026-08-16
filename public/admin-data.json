@@ -1,9 +1,9 @@
 {
-  "total": 17915,
-  "translated": 17910,
+  "total": 17919,
+  "translated": 17914,
   "untranslated": 5,
-  "today": 9,
-  "week": 659,
+  "today": 13,
+  "week": 663,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 921,
-      "translated": 921,
+      "total": 922,
+      "translated": 922,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 364,
-      "translated": 363,
-      "lastDate": "2026-08-14T13:04:00+00:00"
+      "total": 365,
+      "translated": 364,
+      "lastDate": "2026-08-16T07:03:08+00:00"
     },
     {
       "name": "The Register",
@@ -114,16 +114,16 @@
       "lastDate": "Wed, 29 Jul 2026 17:58:44 +0000"
     },
     {
+      "name": "Hi, AI Russian (TG)",
+      "total": 288,
+      "translated": 286,
+      "lastDate": "2026-08-16T07:27:49+00:00"
+    },
+    {
       "name": "Futurism",
       "total": 287,
       "translated": 287,
       "lastDate": "Wed, 22 Apr 2026 16:27:39 -0400"
-    },
-    {
-      "name": "Hi, AI Russian (TG)",
-      "total": 287,
-      "translated": 285,
-      "lastDate": "2026-08-15T06:58:09+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 113,
-      "translated": 113,
-      "lastDate": "2026-08-14T12:00:13+00:00"
+      "total": 114,
+      "translated": 114,
+      "lastDate": "2026-08-16T07:18:44+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-16T07:03:18.947Z"
+  "generatedAt": "2026-08-16T07:31:34.111Z"
 }
