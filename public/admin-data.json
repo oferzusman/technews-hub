@@ -1,9 +1,9 @@
 {
-  "total": 17968,
-  "translated": 17963,
+  "total": 17969,
+  "translated": 17964,
   "untranslated": 5,
-  "today": 7,
-  "week": 590,
+  "today": 8,
+  "week": 591,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 146,
-      "translated": 146,
-      "lastDate": "2026-08-14T09:08:46+00:00"
+      "total": 147,
+      "translated": 147,
+      "lastDate": "2026-08-17T05:00:51+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-17T05:07:01.332Z"
+  "generatedAt": "2026-08-17T05:08:26.490Z"
 }
