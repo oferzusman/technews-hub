@@ -1,9 +1,9 @@
 {
-  "total": 17978,
-  "translated": 17973,
+  "total": 17980,
+  "translated": 17975,
   "untranslated": 5,
-  "today": 17,
-  "week": 600,
+  "today": 19,
+  "week": 602,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 941,
-      "translated": 940,
-      "lastDate": "2026-08-17T05:27:01+00:00"
+      "total": 942,
+      "translated": 941,
+      "lastDate": "2026-08-17T08:57:42+00:00"
     },
     {
       "name": "The Decoder",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 147,
-      "translated": 147,
-      "lastDate": "2026-08-17T05:00:51+00:00"
+      "total": 148,
+      "translated": 148,
+      "lastDate": "2026-08-17T09:03:07+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-17T09:06:47.879Z"
+  "generatedAt": "2026-08-17T09:07:21.071Z"
 }
