@@ -1,9 +1,9 @@
 {
-  "total": 18047,
-  "translated": 18042,
+  "total": 18048,
+  "translated": 18043,
   "untranslated": 5,
-  "today": 86,
-  "week": 669,
+  "today": 87,
+  "week": 670,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -127,8 +127,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 216,
-      "translated": 216,
+      "total": 217,
+      "translated": 217,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-17T19:50:51.235Z"
+  "generatedAt": "2026-08-17T19:53:31.544Z"
 }
