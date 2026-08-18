@@ -1,9 +1,9 @@
 {
-  "total": 18073,
-  "translated": 18068,
+  "total": 18083,
+  "translated": 18078,
   "untranslated": 5,
-  "today": 11,
-  "week": 578,
+  "today": 21,
+  "week": 588,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,9 +19,9 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1212,
-      "translated": 1212,
-      "lastDate": "2026-08-16T20:15:04.000Z"
+      "total": 1219,
+      "translated": 1219,
+      "lastDate": "2026-08-17T14:15:56.000Z"
     },
     {
       "name": "CNBC Tech",
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 948,
-      "translated": 947,
-      "lastDate": "2026-08-18T03:54:01+00:00"
+      "total": 949,
+      "translated": 948,
+      "lastDate": "2026-08-18T07:07:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 639,
-      "translated": 638,
-      "lastDate": "2026-08-17T22:02:02+00:00"
+      "total": 640,
+      "translated": 639,
+      "lastDate": "2026-08-18T06:56:30+00:00"
     },
     {
       "name": "The Verge AI",
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 367,
-      "translated": 366,
-      "lastDate": "2026-08-17T22:11:37+00:00"
+      "total": 368,
+      "translated": 367,
+      "lastDate": "2026-08-18T06:53:52+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-18T06:48:00.948Z"
+  "generatedAt": "2026-08-18T07:10:45.848Z"
 }
