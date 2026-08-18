@@ -1,14 +1,14 @@
 {
-  "total": 18115,
-  "translated": 18110,
+  "total": 18119,
+  "translated": 18114,
   "untranslated": 5,
-  "today": 53,
-  "week": 620,
+  "today": 57,
+  "week": 624,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1638,
-      "translated": 1638,
+      "total": 1640,
+      "translated": 1640,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1152,
-      "translated": 1152,
+      "total": 1153,
+      "translated": 1153,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -85,8 +85,8 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 485,
-      "translated": 485,
+      "total": 486,
+      "translated": 486,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-18T11:12:50.472Z"
+  "generatedAt": "2026-08-18T11:28:21.481Z"
 }
