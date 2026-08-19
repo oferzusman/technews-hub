@@ -1,9 +1,9 @@
 {
-  "total": 18271,
-  "translated": 18266,
+  "total": 18273,
+  "translated": 18268,
   "untranslated": 5,
-  "today": 74,
-  "week": 642,
+  "today": 76,
+  "week": 644,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1163,
-      "translated": 1163,
+      "total": 1164,
+      "translated": 1164,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -288,6 +288,12 @@
       "lastDate": "2026-04-09T05:54:14Z"
     },
     {
+      "name": "VentureBeat AI",
+      "total": 14,
+      "translated": 14,
+      "lastDate": "Wed, 19 Aug 2026 14:18:12 GMT"
+    },
+    {
       "name": "CNA",
       "total": 14,
       "translated": 14,
@@ -298,12 +304,6 @@
       "total": 14,
       "translated": 14,
       "lastDate": "2026-04-08T19:03:10Z"
-    },
-    {
-      "name": "VentureBeat AI",
-      "total": 13,
-      "translated": 13,
-      "lastDate": "Wed, 15 Jul 2026 22:24:17 GMT"
     },
     {
       "name": "Livemint",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-19T14:31:21.475Z"
+  "generatedAt": "2026-08-19T14:34:13.486Z"
 }
