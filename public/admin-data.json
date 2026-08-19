@@ -1,9 +1,9 @@
 {
-  "total": 18262,
-  "translated": 18257,
+  "total": 18268,
+  "translated": 18263,
   "untranslated": 5,
-  "today": 65,
-  "week": 633,
+  "today": 71,
+  "week": 639,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1543,
-      "translated": 1543,
+      "total": 1545,
+      "translated": 1545,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 944,
-      "translated": 944,
+      "total": 946,
+      "translated": 946,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -85,8 +85,8 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 491,
-      "translated": 491,
+      "total": 492,
+      "translated": 492,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -127,8 +127,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 219,
-      "translated": 219,
+      "total": 220,
+      "translated": 220,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-19T13:56:07.448Z"
+  "generatedAt": "2026-08-19T14:07:40.118Z"
 }
