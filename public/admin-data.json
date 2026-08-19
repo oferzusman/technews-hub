@@ -1,20 +1,20 @@
 {
-  "total": 18247,
-  "translated": 18242,
+  "total": 18251,
+  "translated": 18246,
   "untranslated": 5,
-  "today": 50,
-  "week": 618,
+  "today": 54,
+  "week": 622,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1656,
-      "translated": 1656,
+      "total": 1657,
+      "translated": 1657,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1539,
-      "translated": 1539,
+      "total": 1540,
+      "translated": 1540,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1162,
-      "translated": 1162,
+      "total": 1163,
+      "translated": 1163,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -169,9 +169,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 91,
-      "translated": 91,
-      "lastDate": "2026-08-19T09:23:40+00:00"
+      "total": 92,
+      "translated": 92,
+      "lastDate": "2026-08-19T12:43:06+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-19T12:39:42.506Z"
+  "generatedAt": "2026-08-19T12:44:50.551Z"
 }
