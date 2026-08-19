@@ -1,9 +1,9 @@
 {
-  "total": 18235,
-  "translated": 18230,
+  "total": 18237,
+  "translated": 18232,
   "untranslated": 5,
-  "today": 38,
-  "week": 606,
+  "today": 40,
+  "week": 608,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1161,
-      "translated": 1161,
+      "total": 1162,
+      "translated": 1162,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 148,
-      "translated": 148,
-      "lastDate": "2026-08-17T09:03:07+00:00"
+      "total": 149,
+      "translated": 149,
+      "lastDate": "2026-08-19T11:29:12+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-19T11:28:07.890Z"
+  "generatedAt": "2026-08-19T11:36:39.744Z"
 }
