@@ -1,9 +1,9 @@
 {
-  "total": 18251,
-  "translated": 18246,
+  "total": 18260,
+  "translated": 18255,
   "untranslated": 5,
-  "today": 54,
-  "week": 622,
+  "today": 63,
+  "week": 631,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1540,
-      "translated": 1540,
+      "total": 1542,
+      "translated": 1542,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -31,20 +31,20 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 1107,
-      "translated": 1107,
+      "total": 1108,
+      "translated": 1108,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
       "name": "AI Post (TG)",
-      "total": 959,
-      "translated": 958,
-      "lastDate": "2026-08-19T09:54:01+00:00"
+      "total": 960,
+      "translated": 959,
+      "lastDate": "2026-08-19T12:47:01+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 941,
-      "translated": 941,
+      "total": 944,
+      "translated": 944,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -145,9 +145,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 184,
-      "translated": 184,
-      "lastDate": "2026-08-18T06:29:01+00:00"
+      "total": 185,
+      "translated": 185,
+      "lastDate": "2026-08-19T13:01:01+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -169,9 +169,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 92,
-      "translated": 92,
-      "lastDate": "2026-08-19T12:43:06+00:00"
+      "total": 93,
+      "translated": 93,
+      "lastDate": "2026-08-19T12:43:38+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-19T13:30:39.932Z"
+  "generatedAt": "2026-08-19T13:31:37.774Z"
 }
