@@ -1,9 +1,9 @@
 {
-  "total": 18331,
-  "translated": 18326,
+  "total": 18333,
+  "translated": 18328,
   "untranslated": 5,
-  "today": 7,
-  "week": 584,
+  "today": 9,
+  "week": 586,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -169,9 +169,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 101,
-      "translated": 101,
-      "lastDate": "2026-08-20T02:33:25+00:00"
+      "total": 103,
+      "translated": 103,
+      "lastDate": "2026-08-20T04:53:44+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-20T05:01:24.450Z"
+  "generatedAt": "2026-08-20T05:02:19.760Z"
 }
