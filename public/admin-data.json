@@ -1,14 +1,14 @@
 {
-  "total": 18363,
-  "translated": 18358,
+  "total": 18370,
+  "translated": 18365,
   "untranslated": 5,
-  "today": 39,
-  "week": 616,
+  "today": 46,
+  "week": 623,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1663,
-      "translated": 1663,
+      "total": 1664,
+      "translated": 1664,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 952,
-      "translated": 952,
+      "total": 953,
+      "translated": 953,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -103,8 +103,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 310,
-      "translated": 310,
+      "total": 311,
+      "translated": 311,
       "lastDate": "Wed, 29 Jul 2026 17:58:44 +0000"
     },
     {
@@ -115,9 +115,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 294,
-      "translated": 292,
-      "lastDate": "2026-08-20T06:05:50+00:00"
+      "total": 295,
+      "translated": 293,
+      "lastDate": "2026-08-20T10:07:02+00:00"
     },
     {
       "name": "Futurism",
@@ -133,21 +133,21 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 212,
-      "translated": 212,
-      "lastDate": "2026-08-20T07:46:20+00:00"
+      "total": 213,
+      "translated": 213,
+      "lastDate": "2026-08-20T10:15:59+00:00"
     },
     {
       "name": "AI News",
-      "total": 204,
-      "translated": 204,
+      "total": 205,
+      "translated": 205,
       "lastDate": "Wed, 29 Jul 2026 10:53:39 +0000"
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 187,
-      "translated": 187,
-      "lastDate": "2026-08-20T07:45:31+00:00"
+      "total": 188,
+      "translated": 188,
+      "lastDate": "2026-08-20T10:03:47+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-20T10:04:47.520Z"
+  "generatedAt": "2026-08-20T10:19:55.030Z"
 }
