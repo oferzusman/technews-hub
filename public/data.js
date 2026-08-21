@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "מודל חזק ותmysteries חדש הופיע ב-OpenCode ו-OpenRouter — וזה כבר מנצח את Claude 😨\n\nמודל חדש שנקרא Ox Alpha עם 1M tokens של context הופיע לפתע ב-OpenCode ו-OpenRouter, והוא מכביש את Claude 5 ו-GPT-5.6 Sol ב-coding benchmarks (DeepSWE) ב-20-30 אחוז. נראה שזו מודל סינית, אבל העיקר — OpenRouter עשו אותה בחינם לשבוע הקרוב עם לימיטים נדיבים. זה הזמן לבדוק!",
+    "t": "מודל חדש ותיאוב אפילו לא ידעו עליו הופיע ב-OpenRouter - והוא כבר מכניס את Fable לארון 😨\n\nדגם חדש בשם Ox Alpha עם 1M context tokens ותמיכה מולטימודלית הופיע כמו מתוך שום מקום והוא לוכד את Fable 5 וגם GPT-5.6 Sol בחוסר תחרות - תוצאה של 20-30% טובה יותר בבנצ'מרק של coding. כנראה שזה דגם סיני (והוא קצת מסתבך כשמשאלים אותו על טייוואן), והפרט המתקלל ביותר הוא שהשבוע OpenRouter הפכו את Ox Alpha לחינמי עם לימיטים גנרוזיים - אז כולנו צפויים לחשוב שזה משחק חדש 😊",
     "d": "2026-08-21T10:29:10+00:00",
     "v": 0,
     "l": [
@@ -15,8 +15,7 @@ window.TELEGRAM_DATA = [
       "news"
     ],
     "co": [
-      "OpenAI",
-      "Anthropic"
+      "OpenAI"
     ],
     "tags": [
       "news",
