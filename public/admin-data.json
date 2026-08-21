@@ -1,9 +1,9 @@
 {
-  "total": 18477,
-  "translated": 18472,
+  "total": 18479,
+  "translated": 18474,
   "untranslated": 5,
-  "today": 26,
-  "week": 626,
+  "today": 28,
+  "week": 628,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 975,
-      "translated": 974,
-      "lastDate": "2026-08-21T06:31:13+00:00"
+      "total": 976,
+      "translated": 975,
+      "lastDate": "2026-08-21T09:41:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 374,
-      "translated": 373,
-      "lastDate": "2026-08-20T21:19:42+00:00"
+      "total": 375,
+      "translated": 374,
+      "lastDate": "2026-08-21T09:41:01+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-21T09:51:06.725Z"
+  "generatedAt": "2026-08-21T09:55:58.420Z"
 }
