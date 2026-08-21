@@ -1,20 +1,20 @@
 {
-  "total": 18516,
-  "translated": 18511,
+  "total": 18523,
+  "translated": 18518,
   "untranslated": 5,
-  "today": 65,
-  "week": 665,
+  "today": 72,
+  "week": 672,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1680,
-      "translated": 1680,
+      "total": 1683,
+      "translated": 1683,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1575,
-      "translated": 1575,
+      "total": 1576,
+      "translated": 1576,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 964,
-      "translated": 964,
+      "total": 965,
+      "translated": 965,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 657,
-      "translated": 656,
-      "lastDate": "2026-08-21T10:29:10+00:00"
+      "total": 658,
+      "translated": 657,
+      "lastDate": "2026-08-21T15:16:43+00:00"
     },
     {
       "name": "The Verge AI",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 150,
-      "translated": 150,
-      "lastDate": "2026-08-20T17:01:18+00:00"
+      "total": 151,
+      "translated": 151,
+      "lastDate": "2026-08-21T15:04:04+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-21T15:02:40.792Z"
+  "generatedAt": "2026-08-21T15:30:43.034Z"
 }
