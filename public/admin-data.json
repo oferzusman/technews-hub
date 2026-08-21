@@ -1,9 +1,9 @@
 {
-  "total": 18473,
-  "translated": 18468,
+  "total": 18477,
+  "translated": 18472,
   "untranslated": 5,
-  "today": 22,
-  "week": 622,
+  "today": 26,
+  "week": 626,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -103,8 +103,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 314,
-      "translated": 314,
+      "total": 316,
+      "translated": 316,
       "lastDate": "Wed, 29 Jul 2026 17:58:44 +0000"
     },
     {
@@ -139,15 +139,15 @@
     },
     {
       "name": "AI News",
-      "total": 206,
-      "translated": 206,
+      "total": 207,
+      "translated": 207,
       "lastDate": "Wed, 29 Jul 2026 10:53:39 +0000"
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 188,
-      "translated": 188,
-      "lastDate": "2026-08-20T10:03:47+00:00"
+      "total": 189,
+      "translated": 189,
+      "lastDate": "2026-08-21T08:59:02+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-21T09:19:20.993Z"
+  "generatedAt": "2026-08-21T09:19:56.981Z"
 }
