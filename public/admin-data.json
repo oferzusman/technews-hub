@@ -1,9 +1,9 @@
 {
-  "total": 18451,
-  "translated": 18446,
+  "total": 18455,
+  "translated": 18450,
   "untranslated": 5,
-  "today": 127,
-  "week": 704,
+  "today": 4,
+  "week": 604,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1569,
-      "translated": 1569,
+      "total": 1570,
+      "translated": 1570,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -31,15 +31,15 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 1131,
-      "translated": 1131,
+      "total": 1132,
+      "translated": 1132,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
       "name": "AI Post (TG)",
-      "total": 972,
-      "translated": 971,
-      "lastDate": "2026-08-20T21:19:00+00:00"
+      "total": 973,
+      "translated": 972,
+      "lastDate": "2026-08-21T00:12:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -163,9 +163,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 107,
-      "translated": 107,
-      "lastDate": "2026-08-20T20:58:04+00:00"
+      "total": 108,
+      "translated": 108,
+      "lastDate": "2026-08-21T00:07:56+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-20T23:59:07.434Z"
+  "generatedAt": "2026-08-21T00:56:21.071Z"
 }
