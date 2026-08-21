@@ -1,7 +1,7 @@
 {
   "total": 18508,
-  "translated": 18502,
-  "untranslated": 6,
+  "translated": 18503,
+  "untranslated": 5,
   "today": 57,
   "week": 657,
   "sources": [
@@ -128,7 +128,7 @@
     {
       "name": "Hugging Face Blog",
       "total": 222,
-      "translated": 221,
+      "translated": 222,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-21T13:31:15.781Z"
+  "generatedAt": "2026-08-21T13:31:38.084Z"
 }
