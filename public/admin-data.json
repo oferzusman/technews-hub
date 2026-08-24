@@ -1,9 +1,9 @@
 {
-  "total": 18680,
-  "translated": 18675,
+  "total": 18684,
+  "translated": 18679,
   "untranslated": 5,
-  "today": 7,
-  "week": 618,
+  "today": 11,
+  "week": 622,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1181,
-      "translated": 1181,
+      "total": 1182,
+      "translated": 1182,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 891,
-      "translated": 891,
+      "total": 892,
+      "translated": 892,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 380,
-      "translated": 379,
-      "lastDate": "2026-08-23T07:54:41+00:00"
+      "total": 381,
+      "translated": 380,
+      "lastDate": "2026-08-24T06:45:14+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -115,9 +115,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 301,
-      "translated": 299,
-      "lastDate": "2026-08-23T07:35:12+00:00"
+      "total": 302,
+      "translated": 300,
+      "lastDate": "2026-08-24T06:29:57+00:00"
     },
     {
       "name": "Futurism",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-24T06:08:42.993Z"
+  "generatedAt": "2026-08-24T06:55:49.472Z"
 }
