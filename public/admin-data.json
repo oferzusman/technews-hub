@@ -1,14 +1,14 @@
 {
   "total": 18748,
-  "translated": 18739,
-  "untranslated": 9,
+  "translated": 18743,
+  "untranslated": 5,
   "today": 75,
   "week": 686,
   "sources": [
     {
       "name": "Tom's Hardware",
       "total": 1713,
-      "translated": 1712,
+      "translated": 1713,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -68,7 +68,7 @@
     {
       "name": "XOR Journal (TG)",
       "total": 669,
-      "translated": 667,
+      "translated": 668,
       "lastDate": "2026-08-24T21:15:03+00:00"
     },
     {
@@ -158,7 +158,7 @@
     {
       "name": "Prompt AI News (TG)",
       "total": 137,
-      "translated": 135,
+      "translated": 137,
       "lastDate": "2026-08-24T21:06:51+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-24T21:19:37.101Z"
+  "generatedAt": "2026-08-24T21:20:25.271Z"
 }
