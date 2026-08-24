@@ -1,13 +1,13 @@
 {
-  "total": 18714,
+  "total": 18717,
   "translated": 18709,
-  "untranslated": 5,
-  "today": 41,
-  "week": 652,
+  "untranslated": 8,
+  "today": 44,
+  "week": 655,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1706,
+      "total": 1707,
       "translated": 1706,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
@@ -61,7 +61,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 754,
+      "total": 755,
       "translated": 754,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
@@ -79,7 +79,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 580,
+      "total": 581,
       "translated": 580,
       "lastDate": "Wed, 29 Jul 2026 19:30:35 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-24T14:00:01.780Z"
+  "generatedAt": "2026-08-24T14:24:58.280Z"
 }
