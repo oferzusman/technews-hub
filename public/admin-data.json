@@ -1,9 +1,9 @@
 {
-  "total": 18690,
-  "translated": 18685,
+  "total": 18693,
+  "translated": 18688,
   "untranslated": 5,
-  "today": 17,
-  "week": 628,
+  "today": 20,
+  "week": 631,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1595,
-      "translated": 1595,
+      "total": 1596,
+      "translated": 1596,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -103,14 +103,14 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 317,
-      "translated": 317,
+      "total": 318,
+      "translated": 318,
       "lastDate": "Wed, 29 Jul 2026 17:58:44 +0000"
     },
     {
       "name": "The Register",
-      "total": 303,
-      "translated": 303,
+      "total": 304,
+      "translated": 304,
       "lastDate": "Wed, 29 Apr 2026 19:00:18 +0200"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-24T09:03:02.154Z"
+  "generatedAt": "2026-08-24T09:32:17.739Z"
 }
