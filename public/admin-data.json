@@ -1,9 +1,9 @@
 {
-  "total": 18684,
-  "translated": 18679,
+  "total": 18685,
+  "translated": 18680,
   "untranslated": 5,
-  "today": 11,
-  "week": 622,
+  "today": 12,
+  "week": 623,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,9 +19,9 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1238,
-      "translated": 1238,
-      "lastDate": "2026-08-21T07:04:00.000Z"
+      "total": 1239,
+      "translated": 1239,
+      "lastDate": "2026-08-23T17:08:08.000Z"
     },
     {
       "name": "CNBC Tech",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-24T06:58:09.756Z"
+  "generatedAt": "2026-08-24T07:18:37.648Z"
 }
