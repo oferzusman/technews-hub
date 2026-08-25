@@ -1,20 +1,20 @@
 {
-  "total": 18839,
-  "translated": 18834,
+  "total": 18846,
+  "translated": 18841,
   "untranslated": 5,
-  "today": 81,
-  "week": 642,
+  "today": 88,
+  "week": 649,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1726,
-      "translated": 1726,
+      "total": 1728,
+      "translated": 1728,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1613,
-      "translated": 1613,
+      "total": 1614,
+      "translated": 1614,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -31,8 +31,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 1156,
-      "translated": 1156,
+      "total": 1157,
+      "translated": 1157,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 761,
-      "translated": 761,
+      "total": 762,
+      "translated": 762,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 305,
-      "translated": 303,
-      "lastDate": "2026-08-25T13:53:13+00:00"
+      "total": 306,
+      "translated": 304,
+      "lastDate": "2026-08-25T15:30:23+00:00"
     },
     {
       "name": "The Register",
@@ -127,8 +127,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 225,
-      "translated": 225,
+      "total": 226,
+      "translated": 226,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-25T15:03:40.858Z"
+  "generatedAt": "2026-08-25T15:40:24.324Z"
 }
