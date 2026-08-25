@@ -1,14 +1,14 @@
 {
-  "total": 18830,
-  "translated": 18825,
+  "total": 18839,
+  "translated": 18834,
   "untranslated": 5,
-  "today": 72,
-  "week": 633,
+  "today": 81,
+  "week": 642,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1725,
-      "translated": 1725,
+      "total": 1726,
+      "translated": 1726,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -25,21 +25,21 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1191,
-      "translated": 1191,
+      "total": 1192,
+      "translated": 1192,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1155,
-      "translated": 1155,
+      "total": 1156,
+      "translated": 1156,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1007,
-      "translated": 1006,
-      "lastDate": "2026-08-25T11:40:07+00:00"
+      "total": 1008,
+      "translated": 1007,
+      "lastDate": "2026-08-25T14:25:00+00:00"
     },
     {
       "name": "The Decoder",
@@ -67,15 +67,15 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 671,
-      "translated": 670,
-      "lastDate": "2026-08-25T10:19:21+00:00"
+      "total": 672,
+      "translated": 671,
+      "lastDate": "2026-08-25T14:11:40+00:00"
     },
     {
       "name": "The Verge AI",
-      "total": 599,
-      "translated": 599,
-      "lastDate": "2026-08-25T09:15:03.000Z"
+      "total": 600,
+      "translated": 600,
+      "lastDate": "2026-08-25T14:00:00.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -85,8 +85,8 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 498,
-      "translated": 498,
+      "total": 499,
+      "translated": 499,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -157,9 +157,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 141,
-      "translated": 141,
-      "lastDate": "2026-08-25T06:56:35+00:00"
+      "total": 143,
+      "translated": 143,
+      "lastDate": "2026-08-25T14:16:46+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-25T14:02:24.139Z"
+  "generatedAt": "2026-08-25T14:45:12.216Z"
 }
