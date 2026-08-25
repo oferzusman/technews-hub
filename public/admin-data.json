@@ -1,9 +1,9 @@
 {
-  "total": 18767,
-  "translated": 18762,
+  "total": 18769,
+  "translated": 18764,
   "untranslated": 5,
-  "today": 9,
-  "week": 570,
+  "today": 11,
+  "week": 572,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -127,8 +127,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 222,
-      "translated": 222,
+      "total": 223,
+      "translated": 223,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -157,9 +157,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 139,
-      "translated": 139,
-      "lastDate": "2026-08-25T00:16:51+00:00"
+      "total": 140,
+      "translated": 140,
+      "lastDate": "2026-08-25T03:16:39+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-25T03:30:02.296Z"
+  "generatedAt": "2026-08-25T03:35:48.594Z"
 }
