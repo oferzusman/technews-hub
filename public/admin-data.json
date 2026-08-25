@@ -1,9 +1,9 @@
 {
-  "total": 18780,
-  "translated": 18775,
+  "total": 18781,
+  "translated": 18776,
   "untranslated": 5,
-  "today": 22,
-  "week": 583,
+  "today": 23,
+  "week": 584,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -145,9 +145,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 192,
-      "translated": 192,
-      "lastDate": "2026-08-24T10:18:37+00:00"
+      "total": 193,
+      "translated": 193,
+      "lastDate": "2026-08-25T07:39:33+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-25T07:41:02.359Z"
+  "generatedAt": "2026-08-25T07:43:25.359Z"
 }
