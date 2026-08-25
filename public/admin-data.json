@@ -1,9 +1,9 @@
 {
-  "total": 18827,
-  "translated": 18822,
+  "total": 18830,
+  "translated": 18825,
   "untranslated": 5,
-  "today": 69,
-  "week": 630,
+  "today": 72,
+  "week": 633,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -55,8 +55,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 831,
-      "translated": 831,
+      "total": 832,
+      "translated": 832,
       "lastDate": "Wed, 29 Jul 2026 20:57:35 +0000"
     },
     {
@@ -108,16 +108,16 @@
       "lastDate": "Wed, 29 Jul 2026 17:58:44 +0000"
     },
     {
+      "name": "Hi, AI Russian (TG)",
+      "total": 305,
+      "translated": 303,
+      "lastDate": "2026-08-25T13:53:13+00:00"
+    },
+    {
       "name": "The Register",
       "total": 304,
       "translated": 304,
       "lastDate": "Wed, 29 Apr 2026 19:00:18 +0200"
-    },
-    {
-      "name": "Hi, AI Russian (TG)",
-      "total": 304,
-      "translated": 302,
-      "lastDate": "2026-08-25T10:51:38+00:00"
     },
     {
       "name": "Futurism",
@@ -145,9 +145,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 193,
-      "translated": 193,
-      "lastDate": "2026-08-25T07:39:33+00:00"
+      "total": 194,
+      "translated": 194,
+      "lastDate": "2026-08-25T13:51:08+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-25T13:51:59.279Z"
+  "generatedAt": "2026-08-25T14:01:00.564Z"
 }
