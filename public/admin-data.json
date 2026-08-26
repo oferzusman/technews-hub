@@ -1,14 +1,14 @@
 {
-  "total": 18933,
-  "translated": 18928,
+  "total": 18940,
+  "translated": 18935,
   "untranslated": 5,
-  "today": 35,
-  "week": 609,
+  "today": 42,
+  "week": 616,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1733,
-      "translated": 1733,
+      "total": 1735,
+      "translated": 1735,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 993,
-      "translated": 993,
+      "total": 994,
+      "translated": 994,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -85,8 +85,8 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 501,
-      "translated": 501,
+      "total": 502,
+      "translated": 502,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -139,8 +139,8 @@
     },
     {
       "name": "AI News",
-      "total": 209,
-      "translated": 209,
+      "total": 211,
+      "translated": 211,
       "lastDate": "Wed, 29 Jul 2026 10:53:39 +0000"
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 152,
-      "translated": 152,
-      "lastDate": "2026-08-25T21:00:53+00:00"
+      "total": 153,
+      "translated": 153,
+      "lastDate": "2026-08-26T10:01:05+00:00"
     },
     {
       "name": "Prompt AI News (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-26T09:56:31.760Z"
+  "generatedAt": "2026-08-26T10:06:30.462Z"
 }
