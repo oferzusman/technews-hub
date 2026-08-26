@@ -1,20 +1,20 @@
 {
-  "total": 18978,
-  "translated": 18973,
+  "total": 18986,
+  "translated": 18981,
   "untranslated": 5,
-  "today": 80,
-  "week": 654,
+  "today": 88,
+  "week": 662,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1741,
-      "translated": 1741,
+      "total": 1744,
+      "translated": 1744,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1623,
-      "translated": 1623,
+      "total": 1625,
+      "translated": 1625,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -25,14 +25,14 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1196,
-      "translated": 1196,
+      "total": 1197,
+      "translated": 1197,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1166,
-      "translated": 1166,
+      "total": 1167,
+      "translated": 1167,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
@@ -127,8 +127,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 226,
-      "translated": 226,
+      "total": 227,
+      "translated": 227,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-26T13:32:15.933Z"
+  "generatedAt": "2026-08-26T14:12:37.532Z"
 }
