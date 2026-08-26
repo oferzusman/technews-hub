@@ -1,14 +1,14 @@
 {
-  "total": 18946,
-  "translated": 18941,
+  "total": 18953,
+  "translated": 18948,
   "untranslated": 5,
-  "today": 48,
-  "week": 622,
+  "today": 55,
+  "week": 629,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1736,
-      "translated": 1736,
+      "total": 1737,
+      "translated": 1737,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -37,20 +37,20 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1014,
-      "translated": 1013,
-      "lastDate": "2026-08-26T08:04:01+00:00"
+      "total": 1015,
+      "translated": 1014,
+      "lastDate": "2026-08-26T11:02:54+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 995,
-      "translated": 995,
+      "total": 996,
+      "translated": 996,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 904,
-      "translated": 904,
+      "total": 905,
+      "translated": 905,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 772,
-      "translated": 772,
+      "total": 773,
+      "translated": 773,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 600,
-      "translated": 600,
-      "lastDate": "2026-08-25T14:00:00.000Z"
+      "total": 601,
+      "translated": 601,
+      "lastDate": "2026-08-26T11:07:40.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 309,
-      "translated": 307,
-      "lastDate": "2026-08-26T10:17:24+00:00"
+      "total": 310,
+      "translated": 308,
+      "lastDate": "2026-08-26T11:10:10+00:00"
     },
     {
       "name": "The Register",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-26T11:05:55.431Z"
+  "generatedAt": "2026-08-26T11:17:00.677Z"
 }
