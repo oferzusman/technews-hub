@@ -1,9 +1,9 @@
 {
-  "total": 18914,
-  "translated": 18909,
+  "total": 18916,
+  "translated": 18911,
   "untranslated": 5,
-  "today": 16,
-  "week": 590,
+  "today": 18,
+  "week": 592,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 307,
-      "translated": 305,
-      "lastDate": "2026-08-25T18:35:39+00:00"
+      "total": 308,
+      "translated": 306,
+      "lastDate": "2026-08-26T06:04:25+00:00"
     },
     {
       "name": "The Register",
@@ -133,9 +133,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 221,
-      "translated": 221,
-      "lastDate": "2026-08-25T17:26:11+00:00"
+      "total": 222,
+      "translated": 222,
+      "lastDate": "2026-08-26T06:22:43+00:00"
     },
     {
       "name": "AI News",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-26T06:04:50.239Z"
+  "generatedAt": "2026-08-26T06:30:53.346Z"
 }
