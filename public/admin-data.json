@@ -1,14 +1,14 @@
 {
-  "total": 18940,
-  "translated": 18935,
+  "total": 18944,
+  "translated": 18939,
   "untranslated": 5,
-  "today": 42,
-  "week": 616,
+  "today": 46,
+  "week": 620,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1735,
-      "translated": 1735,
+      "total": 1736,
+      "translated": 1736,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 308,
-      "translated": 306,
-      "lastDate": "2026-08-26T06:04:25+00:00"
+      "total": 309,
+      "translated": 307,
+      "lastDate": "2026-08-26T10:17:24+00:00"
     },
     {
       "name": "The Register",
@@ -193,9 +193,9 @@
     },
     {
       "name": "Nature Machine Intelligence",
-      "total": 61,
-      "translated": 61,
-      "lastDate": "2026-08-18T00:00:00.000Z"
+      "total": 63,
+      "translated": 63,
+      "lastDate": "2026-08-26T00:00:00.000Z"
     },
     {
       "name": "Github.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-26T10:33:51.357Z"
+  "generatedAt": "2026-08-26T10:35:35.620Z"
 }
