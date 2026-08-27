@@ -1,14 +1,14 @@
 {
-  "total": 19070,
-  "translated": 19065,
+  "total": 19090,
+  "translated": 19085,
   "untranslated": 5,
-  "today": 16,
-  "week": 619,
+  "today": 36,
+  "week": 639,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1750,
-      "translated": 1750,
+      "total": 1751,
+      "translated": 1751,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -19,38 +19,38 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1246,
-      "translated": 1246,
-      "lastDate": "2026-08-24T15:40:38.000Z"
+      "total": 1248,
+      "translated": 1248,
+      "lastDate": "2026-08-27T01:48:12.000Z"
     },
     {
       "name": "CNBC Tech",
-      "total": 1210,
-      "translated": 1210,
+      "total": 1212,
+      "translated": 1212,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1177,
-      "translated": 1177,
+      "total": 1178,
+      "translated": 1178,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1020,
-      "translated": 1019,
-      "lastDate": "2026-08-27T02:31:02+00:00"
+      "total": 1021,
+      "translated": 1020,
+      "lastDate": "2026-08-27T05:35:00+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 1001,
-      "translated": 1001,
+      "total": 1002,
+      "translated": 1002,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 910,
-      "translated": 910,
+      "total": 911,
+      "translated": 911,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -61,15 +61,15 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 779,
-      "translated": 779,
+      "total": 780,
+      "translated": 780,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 679,
-      "translated": 678,
-      "lastDate": "2026-08-26T21:05:03+00:00"
+      "total": 680,
+      "translated": 679,
+      "lastDate": "2026-08-27T08:20:30+00:00"
     },
     {
       "name": "The Verge AI",
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 589,
-      "translated": 589,
+      "total": 590,
+      "translated": 590,
       "lastDate": "Wed, 29 Jul 2026 19:30:35 +0000"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 385,
-      "translated": 384,
-      "lastDate": "2026-08-26T14:39:51+00:00"
+      "total": 387,
+      "translated": 386,
+      "lastDate": "2026-08-27T08:47:34+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 310,
-      "translated": 308,
-      "lastDate": "2026-08-26T11:10:10+00:00"
+      "total": 312,
+      "translated": 310,
+      "lastDate": "2026-08-27T08:34:34+00:00"
     },
     {
       "name": "The Register",
@@ -133,9 +133,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 223,
-      "translated": 223,
-      "lastDate": "2026-08-26T13:02:23+00:00"
+      "total": 225,
+      "translated": 225,
+      "lastDate": "2026-08-27T07:32:12+00:00"
     },
     {
       "name": "AI News",
@@ -145,9 +145,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 200,
-      "translated": 200,
-      "lastDate": "2026-08-26T14:25:43+00:00"
+      "total": 201,
+      "translated": 201,
+      "lastDate": "2026-08-27T07:29:09+00:00"
     },
     {
       "name": "Prompt AI News (TG)",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 153,
-      "translated": 153,
-      "lastDate": "2026-08-26T10:01:05+00:00"
+      "total": 154,
+      "translated": 154,
+      "lastDate": "2026-08-27T09:08:05+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-27T05:33:47.510Z"
+  "generatedAt": "2026-08-27T09:38:03.348Z"
 }
