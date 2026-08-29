@@ -1,20 +1,20 @@
 {
-  "total": 19347,
-  "translated": 19342,
+  "total": 19360,
+  "translated": 19355,
   "untranslated": 5,
-  "today": 30,
-  "week": 731,
+  "today": 43,
+  "week": 744,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1779,
-      "translated": 1779,
+      "total": 1783,
+      "translated": 1783,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1656,
-      "translated": 1656,
+      "total": 1658,
+      "translated": 1658,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1231,
-      "translated": 1231,
+      "total": 1233,
+      "translated": 1233,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -37,14 +37,14 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1040,
-      "translated": 1039,
-      "lastDate": "2026-08-29T06:51:31+00:00"
+      "total": 1041,
+      "translated": 1040,
+      "lastDate": "2026-08-29T10:32:01+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 1019,
-      "translated": 1019,
+      "total": 1020,
+      "translated": 1020,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 612,
-      "translated": 612,
-      "lastDate": "2026-08-28T16:28:40.000Z"
+      "total": 613,
+      "translated": 613,
+      "lastDate": "2026-08-29T12:00:00.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -126,16 +126,16 @@
       "lastDate": "Wed, 22 Apr 2026 16:27:39 -0400"
     },
     {
+      "name": "Hi, AI English (TG)",
+      "total": 229,
+      "translated": 229,
+      "lastDate": "2026-08-29T12:01:18+00:00"
+    },
+    {
       "name": "Hugging Face Blog",
       "total": 228,
       "translated": 228,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
-    },
-    {
-      "name": "Hi, AI English (TG)",
-      "total": 228,
-      "translated": 228,
-      "lastDate": "2026-08-28T16:06:32+00:00"
     },
     {
       "name": "AI News",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 186,
-      "translated": 186,
-      "lastDate": "2026-08-29T09:31:54+00:00"
+      "total": 187,
+      "translated": 187,
+      "lastDate": "2026-08-29T12:51:34+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-29T10:22:32.124Z"
+  "generatedAt": "2026-08-29T13:20:37.862Z"
 }
