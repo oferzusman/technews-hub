@@ -1,9 +1,9 @@
 {
-  "total": 19375,
-  "translated": 19370,
+  "total": 19378,
+  "translated": 19373,
   "untranslated": 5,
-  "today": 58,
-  "week": 759,
+  "today": 61,
+  "week": 762,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1234,
-      "translated": 1234,
+      "total": 1235,
+      "translated": 1235,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 189,
-      "translated": 189,
-      "lastDate": "2026-08-29T16:46:43+00:00"
+      "total": 191,
+      "translated": 191,
+      "lastDate": "2026-08-29T19:41:47+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-29T18:47:25.421Z"
+  "generatedAt": "2026-08-29T19:47:59.660Z"
 }
