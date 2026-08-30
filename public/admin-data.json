@@ -1,9 +1,9 @@
 {
-  "total": 19396,
-  "translated": 19391,
+  "total": 19404,
+  "translated": 19399,
   "untranslated": 5,
-  "today": 11,
-  "week": 723,
+  "today": 19,
+  "week": 731,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,9 +19,9 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1250,
-      "translated": 1250,
-      "lastDate": "2026-08-28T15:59:34.000Z"
+      "total": 1252,
+      "translated": 1252,
+      "lastDate": "2026-08-29T22:27:58.000Z"
     },
     {
       "name": "CNBC Tech",
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 1021,
-      "translated": 1021,
+      "total": 1023,
+      "translated": 1023,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 691,
-      "translated": 690,
-      "lastDate": "2026-08-29T21:24:03+00:00"
+      "total": 692,
+      "translated": 691,
+      "lastDate": "2026-08-30T07:05:52+00:00"
     },
     {
       "name": "The Verge AI",
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 395,
-      "translated": 394,
-      "lastDate": "2026-08-28T22:42:41+00:00"
+      "total": 397,
+      "translated": 396,
+      "lastDate": "2026-08-30T07:46:24+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 318,
-      "translated": 316,
-      "lastDate": "2026-08-29T07:29:56+00:00"
+      "total": 319,
+      "translated": 317,
+      "lastDate": "2026-08-30T08:10:59+00:00"
     },
     {
       "name": "The Register",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-30T06:56:38.567Z"
+  "generatedAt": "2026-08-30T09:47:38.403Z"
 }
