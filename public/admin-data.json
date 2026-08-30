@@ -1,9 +1,9 @@
 {
-  "total": 19388,
-  "translated": 19383,
+  "total": 19392,
+  "translated": 19387,
   "untranslated": 5,
-  "today": 3,
-  "week": 715,
+  "today": 7,
+  "week": 719,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1045,
-      "translated": 1044,
-      "lastDate": "2026-08-29T23:11:01+00:00"
+      "total": 1046,
+      "translated": 1045,
+      "lastDate": "2026-08-30T02:24:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 599,
-      "translated": 599,
+      "total": 600,
+      "translated": 600,
       "lastDate": "Wed, 29 Jul 2026 19:30:35 +0000"
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 192,
-      "translated": 192,
-      "lastDate": "2026-08-29T22:51:20+00:00"
+      "total": 194,
+      "translated": 194,
+      "lastDate": "2026-08-30T02:02:13+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-30T01:25:00.994Z"
+  "generatedAt": "2026-08-30T03:53:43.834Z"
 }
