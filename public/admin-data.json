@@ -1,14 +1,14 @@
 {
-  "total": 19409,
-  "translated": 19404,
+  "total": 19416,
+  "translated": 19411,
   "untranslated": 5,
-  "today": 24,
-  "week": 736,
+  "today": 31,
+  "week": 743,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1787,
-      "translated": 1787,
+      "total": 1790,
+      "translated": 1790,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1235,
-      "translated": 1235,
+      "total": 1236,
+      "translated": 1236,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 1024,
-      "translated": 1024,
+      "total": 1025,
+      "translated": 1025,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -127,9 +127,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 229,
-      "translated": 229,
-      "lastDate": "2026-08-29T12:01:18+00:00"
+      "total": 230,
+      "translated": 230,
+      "lastDate": "2026-08-30T12:05:23+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 195,
-      "translated": 195,
-      "lastDate": "2026-08-30T04:56:36+00:00"
+      "total": 196,
+      "translated": 196,
+      "lastDate": "2026-08-30T11:51:42+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-08-30T11:10:26.626Z"
+  "generatedAt": "2026-08-30T12:24:58.793Z"
 }
