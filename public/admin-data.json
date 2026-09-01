@@ -1,9 +1,9 @@
 {
-  "total": 19616,
-  "translated": 19611,
+  "total": 19628,
+  "translated": 19623,
   "untranslated": 5,
-  "today": 68,
-  "week": 718,
+  "today": 80,
+  "week": 730,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,14 +25,14 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1248,
-      "translated": 1248,
+      "total": 1249,
+      "translated": 1249,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1206,
-      "translated": 1206,
+      "total": 1210,
+      "translated": 1210,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 811,
-      "translated": 811,
+      "total": 812,
+      "translated": 812,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 607,
-      "translated": 607,
+      "total": 608,
+      "translated": 608,
       "lastDate": "Wed, 29 Jul 2026 19:30:35 +0000"
     },
     {
@@ -133,15 +133,15 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 228,
-      "translated": 228,
+      "total": 229,
+      "translated": 229,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 216,
-      "translated": 216,
-      "lastDate": "2026-09-01T13:21:54+00:00"
+      "total": 217,
+      "translated": 217,
+      "lastDate": "2026-09-01T16:11:35+00:00"
     },
     {
       "name": "AI News",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 207,
-      "translated": 207,
-      "lastDate": "2026-09-01T13:17:28+00:00"
+      "total": 209,
+      "translated": 209,
+      "lastDate": "2026-09-01T16:20:24+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -175,8 +175,8 @@
     },
     {
       "name": "Google AI Blog",
-      "total": 82,
-      "translated": 82,
+      "total": 83,
+      "translated": 83,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-01T16:12:26.353Z"
+  "generatedAt": "2026-09-01T16:39:12.561Z"
 }
