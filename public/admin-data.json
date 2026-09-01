@@ -1,14 +1,14 @@
 {
-  "total": 19583,
-  "translated": 19578,
+  "total": 19595,
+  "translated": 19590,
   "untranslated": 5,
-  "today": 35,
-  "week": 685,
+  "today": 47,
+  "week": 697,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1808,
-      "translated": 1808,
+      "total": 1814,
+      "translated": 1814,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1245,
-      "translated": 1245,
+      "total": 1248,
+      "translated": 1248,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1062,
-      "translated": 1061,
-      "lastDate": "2026-09-01T09:04:02+00:00"
+      "total": 1063,
+      "translated": 1062,
+      "lastDate": "2026-09-01T11:48:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -49,8 +49,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 933,
-      "translated": 933,
+      "total": 934,
+      "translated": 934,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 321,
-      "translated": 319,
-      "lastDate": "2026-09-01T06:16:55+00:00"
+      "total": 322,
+      "translated": 320,
+      "lastDate": "2026-09-01T11:33:28+00:00"
     },
     {
       "name": "The Register",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-01T11:57:10.172Z"
+  "generatedAt": "2026-09-01T12:14:24.385Z"
 }
