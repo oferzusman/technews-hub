@@ -1,9 +1,9 @@
 {
-  "total": 19657,
-  "translated": 19652,
-  "untranslated": 5,
-  "today": 109,
-  "week": 759,
+  "total": 19669,
+  "translated": 19663,
+  "untranslated": 6,
+  "today": 121,
+  "week": 771,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -18,21 +18,21 @@
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
+      "name": "CNBC Tech",
+      "total": 1256,
+      "translated": 1256,
+      "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
+    },
+    {
       "name": "Product Hunt",
       "total": 1256,
       "translated": 1256,
       "lastDate": "2026-08-29T22:27:58.000Z"
     },
     {
-      "name": "CNBC Tech",
-      "total": 1253,
-      "translated": 1253,
-      "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
-    },
-    {
       "name": "TechCrunch AI",
-      "total": 1213,
-      "translated": 1213,
+      "total": 1215,
+      "translated": 1215,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 1039,
-      "translated": 1039,
+      "total": 1040,
+      "translated": 1040,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -67,26 +67,26 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 703,
+      "total": 704,
       "translated": 702,
-      "lastDate": "2026-09-01T18:09:52+00:00"
+      "lastDate": "2026-09-01T21:01:02+00:00"
     },
     {
       "name": "The Verge AI",
-      "total": 624,
-      "translated": 624,
-      "lastDate": "2026-09-01T19:02:54.000Z"
+      "total": 625,
+      "translated": 625,
+      "lastDate": "2026-09-01T20:45:49.000Z"
     },
     {
       "name": "MarkTechPost",
-      "total": 608,
-      "translated": 608,
+      "total": 609,
+      "translated": 609,
       "lastDate": "Wed, 29 Jul 2026 19:30:35 +0000"
     },
     {
       "name": "OpenAI Blog",
-      "total": 515,
-      "translated": 515,
+      "total": 516,
+      "translated": 516,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 160,
-      "translated": 160,
-      "lastDate": "2026-09-01T09:10:01+00:00"
+      "total": 161,
+      "translated": 161,
+      "lastDate": "2026-09-01T21:00:53+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -175,8 +175,8 @@
     },
     {
       "name": "Google AI Blog",
-      "total": 83,
-      "translated": 83,
+      "total": 84,
+      "translated": 84,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-01T20:05:29.468Z"
+  "generatedAt": "2026-09-01T21:14:08.889Z"
 }
