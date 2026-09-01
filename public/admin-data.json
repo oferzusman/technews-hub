@@ -1,14 +1,14 @@
 {
-  "total": 19554,
-  "translated": 19549,
+  "total": 19565,
+  "translated": 19560,
   "untranslated": 5,
-  "today": 6,
-  "week": 656,
+  "today": 17,
+  "week": 667,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1804,
-      "translated": 1804,
+      "total": 1805,
+      "translated": 1805,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1059,
-      "translated": 1058,
-      "lastDate": "2026-08-31T23:34:01+00:00"
+      "total": 1060,
+      "translated": 1059,
+      "lastDate": "2026-09-01T02:40:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -49,8 +49,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 932,
-      "translated": 932,
+      "total": 933,
+      "translated": 933,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 808,
-      "translated": 808,
+      "total": 810,
+      "translated": 810,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
@@ -79,14 +79,14 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 606,
-      "translated": 606,
+      "total": 607,
+      "translated": 607,
       "lastDate": "Wed, 29 Jul 2026 19:30:35 +0000"
     },
     {
       "name": "OpenAI Blog",
-      "total": 512,
-      "translated": 512,
+      "total": 513,
+      "translated": 513,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -138,22 +138,22 @@
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
+      "name": "Prompt AI News (TG)",
+      "total": 213,
+      "translated": 213,
+      "lastDate": "2026-09-01T04:51:32+00:00"
+    },
+    {
       "name": "AI News",
       "total": 212,
       "translated": 212,
       "lastDate": "Wed, 29 Jul 2026 10:53:39 +0000"
     },
     {
-      "name": "Prompt AI News (TG)",
-      "total": 210,
-      "translated": 210,
-      "lastDate": "2026-08-31T22:11:59+00:00"
-    },
-    {
       "name": "Wylsacom Red (TG)",
-      "total": 205,
-      "translated": 205,
-      "lastDate": "2026-08-31T16:33:13+00:00"
+      "total": 206,
+      "translated": 206,
+      "lastDate": "2026-09-01T05:00:30+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-01T01:57:10.146Z"
+  "generatedAt": "2026-09-01T05:38:33.206Z"
 }
