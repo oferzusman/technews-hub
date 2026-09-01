@@ -1,9 +1,9 @@
 {
-  "total": 19669,
-  "translated": 19663,
-  "untranslated": 6,
-  "today": 121,
-  "week": 771,
+  "total": 19673,
+  "translated": 19668,
+  "untranslated": 5,
+  "today": 125,
+  "week": 775,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -68,7 +68,7 @@
     {
       "name": "XOR Journal (TG)",
       "total": 704,
-      "translated": 702,
+      "translated": 703,
       "lastDate": "2026-09-01T21:01:02+00:00"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 407,
-      "translated": 406,
-      "lastDate": "2026-09-01T18:06:46+00:00"
+      "total": 408,
+      "translated": 407,
+      "lastDate": "2026-09-01T21:26:02+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -133,15 +133,15 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 229,
-      "translated": 229,
+      "total": 230,
+      "translated": 230,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 219,
-      "translated": 219,
-      "lastDate": "2026-09-01T18:57:05+00:00"
+      "total": 221,
+      "translated": 221,
+      "lastDate": "2026-09-01T21:36:49+00:00"
     },
     {
       "name": "AI News",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-01T21:53:52.173Z"
+  "generatedAt": "2026-09-01T22:06:35.812Z"
 }
