@@ -1,9 +1,9 @@
 {
-  "total": 19809,
-  "translated": 19804,
+  "total": 19818,
+  "translated": 19813,
   "untranslated": 5,
-  "today": 128,
-  "week": 755,
+  "today": 137,
+  "week": 764,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1691,
-      "translated": 1691,
+      "total": 1692,
+      "translated": 1692,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1263,
-      "translated": 1263,
+      "total": 1264,
+      "translated": 1264,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -31,8 +31,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 1225,
-      "translated": 1225,
+      "total": 1226,
+      "translated": 1226,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
@@ -55,14 +55,14 @@
     },
     {
       "name": "Ars Technica",
-      "total": 866,
-      "translated": 866,
+      "total": 868,
+      "translated": 868,
       "lastDate": "Wed, 29 Jul 2026 20:57:35 +0000"
     },
     {
       "name": "The Guardian AI",
-      "total": 827,
-      "translated": 827,
+      "total": 828,
+      "translated": 828,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 633,
-      "translated": 633,
-      "lastDate": "2026-09-02T17:52:56.000Z"
+      "total": 634,
+      "translated": 634,
+      "lastDate": "2026-09-02T20:11:40.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -109,14 +109,14 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 330,
-      "translated": 328,
-      "lastDate": "2026-09-02T16:05:01+00:00"
+      "total": 331,
+      "translated": 329,
+      "lastDate": "2026-09-02T20:07:21+00:00"
     },
     {
       "name": "The Register",
-      "total": 307,
-      "translated": 307,
+      "total": 308,
+      "translated": 308,
       "lastDate": "Wed, 29 Apr 2026 19:00:18 +0200"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-02T19:30:04.932Z"
+  "generatedAt": "2026-09-02T20:57:58.978Z"
 }
