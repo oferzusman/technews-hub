@@ -1,9 +1,9 @@
 {
-  "total": 19681,
-  "translated": 19676,
+  "total": 19683,
+  "translated": 19678,
   "untranslated": 5,
-  "today": 0,
-  "week": 627,
+  "today": 2,
+  "week": 629,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1066,
-      "translated": 1065,
-      "lastDate": "2026-09-01T22:13:34+00:00"
+      "total": 1067,
+      "translated": 1066,
+      "lastDate": "2026-09-02T01:10:10+00:00"
     },
     {
       "name": "The Decoder",
@@ -85,8 +85,8 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 516,
-      "translated": 516,
+      "total": 517,
+      "translated": 517,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-02T00:52:05.520Z"
+  "generatedAt": "2026-09-02T01:13:46.986Z"
 }
