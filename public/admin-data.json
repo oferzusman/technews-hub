@@ -1,14 +1,14 @@
 {
-  "total": 19765,
-  "translated": 19760,
+  "total": 19777,
+  "translated": 19772,
   "untranslated": 5,
-  "today": 84,
-  "week": 711,
+  "today": 96,
+  "week": 723,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1833,
-      "translated": 1833,
+      "total": 1835,
+      "translated": 1835,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1261,
-      "translated": 1261,
+      "total": 1262,
+      "translated": 1262,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -31,26 +31,26 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 1218,
-      "translated": 1218,
+      "total": 1220,
+      "translated": 1220,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1071,
-      "translated": 1070,
-      "lastDate": "2026-09-02T12:07:01+00:00"
+      "total": 1072,
+      "translated": 1071,
+      "lastDate": "2026-09-02T14:54:01+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 1044,
-      "translated": 1044,
+      "total": 1045,
+      "translated": 1045,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 939,
-      "translated": 939,
+      "total": 940,
+      "translated": 940,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 822,
-      "translated": 822,
+      "total": 823,
+      "translated": 823,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 412,
-      "translated": 411,
-      "lastDate": "2026-09-02T14:26:18+00:00"
+      "total": 413,
+      "translated": 412,
+      "lastDate": "2026-09-02T14:44:00+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -132,16 +132,16 @@
       "lastDate": "2026-09-02T12:01:25+00:00"
     },
     {
+      "name": "Prompt AI News (TG)",
+      "total": 232,
+      "translated": 232,
+      "lastDate": "2026-09-02T15:07:02+00:00"
+    },
+    {
       "name": "Hugging Face Blog",
       "total": 231,
       "translated": 231,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
-    },
-    {
-      "name": "Prompt AI News (TG)",
-      "total": 230,
-      "translated": 230,
-      "lastDate": "2026-09-02T11:46:26+00:00"
     },
     {
       "name": "AI News",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-02T15:18:59.009Z"
+  "generatedAt": "2026-09-02T15:20:14.921Z"
 }
