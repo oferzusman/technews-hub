@@ -1,9 +1,9 @@
 {
-  "total": 19794,
-  "translated": 19789,
+  "total": 19800,
+  "translated": 19795,
   "untranslated": 5,
-  "today": 113,
-  "week": 740,
+  "today": 119,
+  "week": 746,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 629,
-      "translated": 629,
-      "lastDate": "2026-09-02T14:35:03.000Z"
+      "total": 633,
+      "translated": 633,
+      "lastDate": "2026-09-02T17:52:56.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -133,9 +133,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 232,
-      "translated": 232,
-      "lastDate": "2026-09-02T15:07:02+00:00"
+      "total": 234,
+      "translated": 234,
+      "lastDate": "2026-09-02T18:07:17+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-02T18:03:30.307Z"
+  "generatedAt": "2026-09-02T18:09:16.038Z"
 }
