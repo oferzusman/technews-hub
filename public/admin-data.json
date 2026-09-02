@@ -1,9 +1,9 @@
 {
-  "total": 19777,
+  "total": 19794,
   "translated": 19772,
-  "untranslated": 5,
-  "today": 96,
-  "week": 723,
+  "untranslated": 22,
+  "today": 113,
+  "week": 740,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,13 +13,13 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1689,
+      "total": 1690,
       "translated": 1689,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1262,
+      "total": 1263,
       "translated": 1262,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
@@ -31,19 +31,19 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 1220,
+      "total": 1225,
       "translated": 1220,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1072,
+      "total": 1073,
       "translated": 1071,
-      "lastDate": "2026-09-02T14:54:01+00:00"
+      "lastDate": "2026-09-02T17:45:32+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 1045,
+      "total": 1046,
       "translated": 1045,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
@@ -61,15 +61,15 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 823,
+      "total": 826,
       "translated": 823,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 707,
+      "total": 708,
       "translated": 706,
-      "lastDate": "2026-09-02T14:20:25+00:00"
+      "lastDate": "2026-09-02T15:25:42+00:00"
     },
     {
       "name": "The Verge AI",
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 413,
+      "total": 415,
       "translated": 412,
-      "lastDate": "2026-09-02T14:44:00+00:00"
+      "lastDate": "2026-09-02T16:57:39+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 329,
+      "total": 330,
       "translated": 327,
-      "lastDate": "2026-09-02T13:02:01+00:00"
+      "lastDate": "2026-09-02T16:05:01+00:00"
     },
     {
       "name": "The Register",
@@ -175,7 +175,7 @@
     },
     {
       "name": "Google AI Blog",
-      "total": 84,
+      "total": 85,
       "translated": 84,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-02T16:36:15.898Z"
+  "generatedAt": "2026-09-02T18:00:45.582Z"
 }
