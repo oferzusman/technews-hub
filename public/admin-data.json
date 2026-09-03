@@ -1,14 +1,14 @@
 {
-  "total": 19921,
-  "translated": 19916,
+  "total": 19940,
+  "translated": 19935,
   "untranslated": 5,
-  "today": 89,
-  "week": 714,
+  "today": 108,
+  "week": 733,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1844,
-      "translated": 1844,
+      "total": 1850,
+      "translated": 1850,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -31,15 +31,15 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 1231,
-      "translated": 1231,
+      "total": 1232,
+      "translated": 1232,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1081,
-      "translated": 1080,
-      "lastDate": "2026-09-03T14:56:02+00:00"
+      "total": 1082,
+      "translated": 1081,
+      "lastDate": "2026-09-03T17:43:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -55,8 +55,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 869,
-      "translated": 869,
+      "total": 870,
+      "translated": 870,
       "lastDate": "Wed, 29 Jul 2026 20:57:35 +0000"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 637,
-      "translated": 637,
-      "lastDate": "2026-09-03T15:35:14.000Z"
+      "total": 639,
+      "translated": 639,
+      "lastDate": "2026-09-03T16:00:00.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 417,
-      "translated": 416,
-      "lastDate": "2026-09-03T12:43:05+00:00"
+      "total": 421,
+      "translated": 420,
+      "lastDate": "2026-09-03T17:14:52+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -127,9 +127,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 240,
-      "translated": 240,
-      "lastDate": "2026-09-03T13:51:42+00:00"
+      "total": 242,
+      "translated": 242,
+      "lastDate": "2026-09-03T16:42:13+00:00"
     },
     {
       "name": "Hi, AI English (TG)",
@@ -145,15 +145,15 @@
     },
     {
       "name": "AI News",
-      "total": 216,
-      "translated": 216,
+      "total": 217,
+      "translated": 217,
       "lastDate": "Wed, 29 Jul 2026 10:53:39 +0000"
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 211,
-      "translated": 211,
-      "lastDate": "2026-09-03T09:52:02+00:00"
+      "total": 212,
+      "translated": 212,
+      "lastDate": "2026-09-03T16:35:14+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-03T16:35:41.726Z"
+  "generatedAt": "2026-09-03T18:02:07.785Z"
 }
