@@ -1,14 +1,14 @@
 {
-  "total": 19940,
-  "translated": 19935,
+  "total": 19951,
+  "translated": 19946,
   "untranslated": 5,
-  "today": 108,
-  "week": 733,
+  "today": 119,
+  "week": 744,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1850,
-      "translated": 1850,
+      "total": 1851,
+      "translated": 1851,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1273,
-      "translated": 1273,
+      "total": 1274,
+      "translated": 1274,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -31,20 +31,20 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 1232,
-      "translated": 1232,
+      "total": 1235,
+      "translated": 1235,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1082,
-      "translated": 1081,
-      "lastDate": "2026-09-03T17:43:01+00:00"
+      "total": 1083,
+      "translated": 1082,
+      "lastDate": "2026-09-03T18:41:51+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 1053,
-      "translated": 1053,
+      "total": 1054,
+      "translated": 1054,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 840,
-      "translated": 840,
+      "total": 841,
+      "translated": 841,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
@@ -73,14 +73,14 @@
     },
     {
       "name": "The Verge AI",
-      "total": 639,
-      "translated": 639,
-      "lastDate": "2026-09-03T16:00:00.000Z"
+      "total": 640,
+      "translated": 640,
+      "lastDate": "2026-09-03T18:00:00.000Z"
     },
     {
       "name": "MarkTechPost",
-      "total": 616,
-      "translated": 616,
+      "total": 617,
+      "translated": 617,
       "lastDate": "Wed, 29 Jul 2026 19:30:35 +0000"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 421,
-      "translated": 420,
-      "lastDate": "2026-09-03T17:14:52+00:00"
+      "total": 422,
+      "translated": 421,
+      "lastDate": "2026-09-03T18:42:35+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-03T18:02:07.785Z"
+  "generatedAt": "2026-09-03T19:09:06.693Z"
 }
