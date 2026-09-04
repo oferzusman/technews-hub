@@ -1,14 +1,14 @@
 {
   "total": 20006,
-  "translated": 19992,
-  "untranslated": 14,
+  "translated": 20001,
+  "untranslated": 5,
   "today": 25,
   "week": 689,
   "sources": [
     {
       "name": "Tom's Hardware",
       "total": 1852,
-      "translated": 1851,
+      "translated": 1852,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -26,7 +26,7 @@
     {
       "name": "Product Hunt",
       "total": 1264,
-      "translated": 1260,
+      "translated": 1264,
       "lastDate": "2026-09-03T20:14:40.000Z"
     },
     {
@@ -38,7 +38,7 @@
     {
       "name": "AI Post (TG)",
       "total": 1087,
-      "translated": 1085,
+      "translated": 1086,
       "lastDate": "2026-09-04T05:35:19+00:00"
     },
     {
@@ -68,7 +68,7 @@
     {
       "name": "XOR Journal (TG)",
       "total": 718,
-      "translated": 716,
+      "translated": 717,
       "lastDate": "2026-09-04T07:39:53+00:00"
     },
     {
@@ -110,7 +110,7 @@
     {
       "name": "Hi, AI Russian (TG)",
       "total": 335,
-      "translated": 332,
+      "translated": 333,
       "lastDate": "2026-09-04T06:16:28+00:00"
     },
     {
@@ -134,7 +134,7 @@
     {
       "name": "Hi, AI English (TG)",
       "total": 238,
-      "translated": 237,
+      "translated": 238,
       "lastDate": "2026-09-04T07:59:38+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-04T08:15:13.752Z"
+  "generatedAt": "2026-09-04T08:19:26.660Z"
 }
