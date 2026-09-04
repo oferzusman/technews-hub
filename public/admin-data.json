@@ -1,9 +1,9 @@
 {
-  "total": 20006,
-  "translated": 20001,
+  "total": 20020,
+  "translated": 20015,
   "untranslated": 5,
-  "today": 25,
-  "week": 689,
+  "today": 39,
+  "week": 703,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1709,
-      "translated": 1709,
+      "total": 1711,
+      "translated": 1711,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1277,
-      "translated": 1277,
+      "total": 1278,
+      "translated": 1278,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -37,20 +37,20 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1087,
-      "translated": 1086,
-      "lastDate": "2026-09-04T05:35:19+00:00"
+      "total": 1088,
+      "translated": 1087,
+      "lastDate": "2026-09-04T09:24:19+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 1055,
-      "translated": 1055,
+      "total": 1056,
+      "translated": 1056,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 950,
-      "translated": 950,
+      "total": 951,
+      "translated": 951,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -97,21 +97,21 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 423,
-      "translated": 422,
-      "lastDate": "2026-09-03T19:23:18+00:00"
+      "total": 425,
+      "translated": 424,
+      "lastDate": "2026-09-04T09:25:11+00:00"
     },
     {
       "name": "MIT Technology Review",
-      "total": 347,
-      "translated": 347,
+      "total": 348,
+      "translated": 348,
       "lastDate": "Wed, 29 Jul 2026 17:58:44 +0000"
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 335,
-      "translated": 333,
-      "lastDate": "2026-09-04T06:16:28+00:00"
+      "total": 336,
+      "translated": 334,
+      "lastDate": "2026-09-04T09:00:11+00:00"
     },
     {
       "name": "The Register",
@@ -127,9 +127,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 250,
-      "translated": 250,
-      "lastDate": "2026-09-04T05:11:49+00:00"
+      "total": 252,
+      "translated": 252,
+      "lastDate": "2026-09-04T08:23:09+00:00"
     },
     {
       "name": "Hi, AI English (TG)",
@@ -151,15 +151,15 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 212,
-      "translated": 212,
-      "lastDate": "2026-09-03T16:35:14+00:00"
+      "total": 213,
+      "translated": 213,
+      "lastDate": "2026-09-04T08:59:01+00:00"
     },
     {
       "name": "Habr (TG)",
-      "total": 164,
-      "translated": 164,
-      "lastDate": "2026-09-03T11:04:01+00:00"
+      "total": 165,
+      "translated": 165,
+      "lastDate": "2026-09-04T08:32:04+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-04T09:49:38.654Z"
+  "generatedAt": "2026-09-04T09:55:40.683Z"
 }
