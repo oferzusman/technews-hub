@@ -1,9 +1,9 @@
 {
-  "total": 19976,
-  "translated": 19971,
+  "total": 19981,
+  "translated": 19976,
   "untranslated": 5,
-  "today": 144,
-  "week": 769,
+  "today": 0,
+  "week": 664,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1084,
-      "translated": 1083,
-      "lastDate": "2026-09-03T20:23:02+00:00"
+      "total": 1085,
+      "translated": 1084,
+      "lastDate": "2026-09-03T23:15:10+00:00"
     },
     {
       "name": "The Decoder",
@@ -49,8 +49,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 947,
-      "translated": 947,
+      "total": 948,
+      "translated": 948,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -127,9 +127,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 244,
-      "translated": 244,
-      "lastDate": "2026-09-03T19:26:43+00:00"
+      "total": 246,
+      "translated": 246,
+      "lastDate": "2026-09-03T23:21:47+00:00"
     },
     {
       "name": "Hi, AI English (TG)",
@@ -163,9 +163,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 124,
-      "translated": 124,
-      "lastDate": "2026-09-03T15:45:16+00:00"
+      "total": 125,
+      "translated": 125,
+      "lastDate": "2026-09-03T23:13:56+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-03T23:53:48.847Z"
+  "generatedAt": "2026-09-04T00:42:12.613Z"
 }
