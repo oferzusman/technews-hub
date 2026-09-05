@@ -1,9 +1,9 @@
 {
-  "total": 20159,
-  "translated": 20154,
+  "total": 20162,
+  "translated": 20157,
   "untranslated": 5,
-  "today": 41,
-  "week": 774,
+  "today": 44,
+  "week": 777,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1726,
-      "translated": 1726,
+      "total": 1727,
+      "translated": 1727,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 341,
-      "translated": 339,
-      "lastDate": "2026-09-05T11:14:01+00:00"
+      "total": 342,
+      "translated": 340,
+      "lastDate": "2026-09-05T13:16:01+00:00"
     },
     {
       "name": "The Register",
@@ -133,9 +133,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 241,
-      "translated": 241,
-      "lastDate": "2026-09-05T08:20:09+00:00"
+      "total": 242,
+      "translated": 242,
+      "lastDate": "2026-09-05T13:08:52+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-05T13:04:42.909Z"
+  "generatedAt": "2026-09-05T13:32:49.661Z"
 }
