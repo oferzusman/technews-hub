@@ -1,26 +1,26 @@
 {
-  "total": 20153,
-  "translated": 20148,
+  "total": 20159,
+  "translated": 20154,
   "untranslated": 5,
-  "today": 35,
-  "week": 768,
+  "today": 41,
+  "week": 774,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1869,
-      "translated": 1869,
+      "total": 1870,
+      "translated": 1870,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1725,
-      "translated": 1725,
+      "total": 1726,
+      "translated": 1726,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1281,
-      "translated": 1281,
+      "total": 1282,
+      "translated": 1282,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -43,14 +43,14 @@
     },
     {
       "name": "The Decoder",
-      "total": 1063,
-      "translated": 1063,
+      "total": 1064,
+      "translated": 1064,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 955,
-      "translated": 955,
+      "total": 956,
+      "translated": 956,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -127,9 +127,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 264,
-      "translated": 264,
-      "lastDate": "2026-09-05T09:46:23+00:00"
+      "total": 265,
+      "translated": 265,
+      "lastDate": "2026-09-05T11:58:09+00:00"
     },
     {
       "name": "Hi, AI English (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-05T12:43:40.542Z"
+  "generatedAt": "2026-09-05T13:03:13.203Z"
 }
