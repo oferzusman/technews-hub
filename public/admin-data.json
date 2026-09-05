@@ -1,14 +1,14 @@
 {
-  "total": 20146,
-  "translated": 20141,
+  "total": 20153,
+  "translated": 20148,
   "untranslated": 5,
-  "today": 28,
-  "week": 761,
+  "today": 35,
+  "week": 768,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1866,
-      "translated": 1866,
+      "total": 1869,
+      "translated": 1869,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -37,14 +37,14 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1095,
-      "translated": 1094,
-      "lastDate": "2026-09-05T08:10:44+00:00"
+      "total": 1096,
+      "translated": 1095,
+      "lastDate": "2026-09-05T11:01:40+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 1062,
-      "translated": 1062,
+      "total": 1063,
+      "translated": 1063,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 648,
-      "translated": 648,
-      "lastDate": "2026-09-04T17:51:35.000Z"
+      "total": 649,
+      "translated": 649,
+      "lastDate": "2026-09-05T11:15:55.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 340,
-      "translated": 338,
-      "lastDate": "2026-09-05T08:18:27+00:00"
+      "total": 341,
+      "translated": 339,
+      "lastDate": "2026-09-05T11:14:01+00:00"
     },
     {
       "name": "The Register",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-05T10:32:38.591Z"
+  "generatedAt": "2026-09-05T11:41:30.169Z"
 }
