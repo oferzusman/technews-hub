@@ -1,9 +1,9 @@
 {
-  "total": 20138,
-  "translated": 20133,
+  "total": 20142,
+  "translated": 20137,
   "untranslated": 5,
-  "today": 20,
-  "week": 753,
+  "today": 24,
+  "week": 757,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1094,
-      "translated": 1093,
-      "lastDate": "2026-09-05T03:25:13+00:00"
+      "total": 1095,
+      "translated": 1094,
+      "lastDate": "2026-09-05T08:10:44+00:00"
     },
     {
       "name": "The Decoder",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 339,
-      "translated": 337,
-      "lastDate": "2026-09-04T16:19:01+00:00"
+      "total": 340,
+      "translated": 338,
+      "lastDate": "2026-09-05T08:18:27+00:00"
     },
     {
       "name": "The Register",
@@ -133,9 +133,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 240,
-      "translated": 240,
-      "lastDate": "2026-09-04T18:53:14+00:00"
+      "total": 241,
+      "translated": 241,
+      "lastDate": "2026-09-05T08:20:09+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 215,
-      "translated": 215,
-      "lastDate": "2026-09-04T16:29:00+00:00"
+      "total": 216,
+      "translated": 216,
+      "lastDate": "2026-09-05T08:59:01+00:00"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-05T09:12:23.100Z"
+  "generatedAt": "2026-09-05T09:40:22.644Z"
 }
