@@ -1,9 +1,9 @@
 {
-  "total": 20199,
-  "translated": 20194,
+  "total": 20202,
+  "translated": 20197,
   "untranslated": 5,
-  "today": 7,
-  "week": 752,
+  "today": 10,
+  "week": 755,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,8 +25,8 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1266,
-      "translated": 1266,
+      "total": 1268,
+      "translated": 1268,
       "lastDate": "2026-09-04T14:18:13.000Z"
     },
     {
@@ -163,9 +163,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 127,
-      "translated": 127,
-      "lastDate": "2026-09-04T19:20:37+00:00"
+      "total": 128,
+      "translated": 128,
+      "lastDate": "2026-09-06T07:33:18+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-06T06:32:49.723Z"
+  "generatedAt": "2026-09-06T08:03:57.603Z"
 }
