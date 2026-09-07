@@ -1,7 +1,7 @@
 {
   "total": 20251,
-  "translated": 20244,
-  "untranslated": 7,
+  "translated": 20246,
+  "untranslated": 5,
   "today": 2,
   "week": 703,
   "sources": [
@@ -74,7 +74,7 @@
     {
       "name": "The Verge AI",
       "total": 650,
-      "translated": 649,
+      "translated": 650,
       "lastDate": "2026-09-06T23:36:04.000Z"
     },
     {
@@ -128,7 +128,7 @@
     {
       "name": "Prompt AI News (TG)",
       "total": 271,
-      "translated": 270,
+      "translated": 271,
       "lastDate": "2026-09-06T23:22:02+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-07T00:20:26.091Z"
+  "generatedAt": "2026-09-07T00:21:03.233Z"
 }
