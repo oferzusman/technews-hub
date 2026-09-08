@@ -1,7 +1,7 @@
 {
   "total": 20433,
-  "translated": 20422,
-  "untranslated": 11,
+  "translated": 20428,
+  "untranslated": 5,
   "today": 99,
   "week": 752,
   "sources": [
@@ -14,7 +14,7 @@
     {
       "name": "Interesting Engineering",
       "total": 1758,
-      "translated": 1757,
+      "translated": 1758,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -32,7 +32,7 @@
     {
       "name": "TechCrunch AI",
       "total": 1256,
-      "translated": 1255,
+      "translated": 1256,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
@@ -68,13 +68,13 @@
     {
       "name": "XOR Journal (TG)",
       "total": 743,
-      "translated": 741,
+      "translated": 742,
       "lastDate": "2026-09-08T17:33:18+00:00"
     },
     {
       "name": "The Verge AI",
       "total": 653,
-      "translated": 652,
+      "translated": 653,
       "lastDate": "2026-09-08T17:27:31.000Z"
     },
     {
@@ -98,7 +98,7 @@
     {
       "name": "Backdoor (TG)",
       "total": 449,
-      "translated": 447,
+      "translated": 448,
       "lastDate": "2026-09-08T17:49:39+00:00"
     },
     {
@@ -110,7 +110,7 @@
     {
       "name": "Hi, AI Russian (TG)",
       "total": 349,
-      "translated": 346,
+      "translated": 347,
       "lastDate": "2026-09-08T17:36:18+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-08T17:54:33.728Z"
+  "generatedAt": "2026-09-08T17:55:09.047Z"
 }
