@@ -1,9 +1,9 @@
 {
-  "total": 20350,
-  "translated": 20345,
+  "total": 20361,
+  "translated": 20356,
   "untranslated": 5,
-  "today": 16,
-  "week": 669,
+  "today": 27,
+  "week": 680,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,21 +13,21 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1750,
-      "translated": 1750,
+      "total": 1751,
+      "translated": 1751,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1288,
-      "translated": 1288,
+      "total": 1289,
+      "translated": 1289,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
       "name": "Product Hunt",
-      "total": 1269,
-      "translated": 1269,
-      "lastDate": "2026-09-06T23:16:55.000Z"
+      "total": 1272,
+      "translated": 1272,
+      "lastDate": "2026-09-08T02:16:29.000Z"
     },
     {
       "name": "TechCrunch AI",
@@ -37,14 +37,14 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1118,
-      "translated": 1117,
-      "lastDate": "2026-09-08T03:31:01+00:00"
+      "total": 1119,
+      "translated": 1118,
+      "lastDate": "2026-09-08T06:24:02+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 1081,
-      "translated": 1081,
+      "total": 1082,
+      "translated": 1082,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 736,
-      "translated": 735,
-      "lastDate": "2026-09-07T21:01:03+00:00"
+      "total": 737,
+      "translated": 736,
+      "lastDate": "2026-09-08T07:09:59+00:00"
     },
     {
       "name": "The Verge AI",
@@ -127,15 +127,15 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 282,
-      "translated": 282,
-      "lastDate": "2026-09-08T05:51:27+00:00"
+      "total": 283,
+      "translated": 283,
+      "lastDate": "2026-09-08T08:41:18+00:00"
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 245,
-      "translated": 245,
-      "lastDate": "2026-09-07T16:01:06+00:00"
+      "total": 246,
+      "translated": 246,
+      "lastDate": "2026-09-08T08:35:35+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -163,9 +163,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 128,
-      "translated": 128,
-      "lastDate": "2026-09-06T07:33:18+00:00"
+      "total": 129,
+      "translated": 129,
+      "lastDate": "2026-09-08T08:55:43+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-08T06:18:38.217Z"
+  "generatedAt": "2026-09-08T09:15:28.345Z"
 }
