@@ -1,9 +1,9 @@
 {
-  "total": 20476,
-  "translated": 20471,
+  "total": 20479,
+  "translated": 20474,
   "untranslated": 5,
-  "today": 12,
-  "week": 644,
+  "today": 15,
+  "week": 647,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -61,15 +61,15 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 860,
-      "translated": 860,
+      "total": 861,
+      "translated": 861,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 744,
-      "translated": 743,
-      "lastDate": "2026-09-08T21:46:04+00:00"
+      "total": 745,
+      "translated": 744,
+      "lastDate": "2026-09-09T05:48:07+00:00"
     },
     {
       "name": "The Verge AI",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 349,
-      "translated": 347,
-      "lastDate": "2026-09-08T17:36:18+00:00"
+      "total": 350,
+      "translated": 348,
+      "lastDate": "2026-09-09T06:00:11+00:00"
     },
     {
       "name": "The Register",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-09T05:58:13.843Z"
+  "generatedAt": "2026-09-09T06:03:33.818Z"
 }
