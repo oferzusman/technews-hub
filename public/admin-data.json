@@ -1,9 +1,9 @@
 {
-  "total": 20600,
+  "total": 20609,
   "translated": 20595,
-  "untranslated": 5,
-  "today": 136,
-  "week": 768,
+  "untranslated": 14,
+  "today": 145,
+  "week": 777,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,7 +13,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1769,
+      "total": 1770,
       "translated": 1769,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
@@ -31,7 +31,7 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 1270,
+      "total": 1272,
       "translated": 1270,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 756,
+      "total": 758,
       "translated": 755,
-      "lastDate": "2026-09-09T17:48:54+00:00"
+      "lastDate": "2026-09-09T18:16:30+00:00"
     },
     {
       "name": "The Verge AI",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 355,
+      "total": 356,
       "translated": 353,
-      "lastDate": "2026-09-09T17:17:01+00:00"
+      "lastDate": "2026-09-09T18:32:21+00:00"
     },
     {
       "name": "The Register",
@@ -145,9 +145,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 231,
+      "total": 234,
       "translated": 231,
-      "lastDate": "2026-09-09T17:48:35+00:00"
+      "lastDate": "2026-09-09T18:24:03+00:00"
     },
     {
       "name": "AI News",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-09T17:56:55.108Z"
+  "generatedAt": "2026-09-09T18:35:09.228Z"
 }
