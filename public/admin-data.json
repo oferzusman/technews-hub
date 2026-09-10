@@ -1,9 +1,9 @@
 {
-  "total": 20719,
-  "translated": 20714,
+  "total": 20737,
+  "translated": 20732,
   "untranslated": 5,
-  "today": 76,
-  "week": 738,
+  "today": 94,
+  "week": 756,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,14 +19,14 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1308,
-      "translated": 1308,
+      "total": 1309,
+      "translated": 1309,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1279,
-      "translated": 1279,
+      "total": 1280,
+      "translated": 1280,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
@@ -37,14 +37,14 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1137,
-      "translated": 1136,
-      "lastDate": "2026-09-10T12:10:27+00:00"
+      "total": 1138,
+      "translated": 1137,
+      "lastDate": "2026-09-10T14:54:01+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 1100,
-      "translated": 1100,
+      "total": 1103,
+      "translated": 1103,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 666,
-      "translated": 666,
-      "lastDate": "2026-09-10T14:00:00.000Z"
+      "total": 668,
+      "translated": 668,
+      "lastDate": "2026-09-10T15:38:19.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -85,8 +85,8 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 536,
-      "translated": 536,
+      "total": 539,
+      "translated": 539,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 358,
-      "translated": 356,
-      "lastDate": "2026-09-10T11:38:06+00:00"
+      "total": 359,
+      "translated": 357,
+      "lastDate": "2026-09-10T17:10:02+00:00"
     },
     {
       "name": "The Register",
@@ -121,9 +121,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 304,
-      "translated": 304,
-      "lastDate": "2026-09-10T12:26:05+00:00"
+      "total": 307,
+      "translated": 307,
+      "lastDate": "2026-09-10T16:59:41+00:00"
     },
     {
       "name": "Futurism",
@@ -138,21 +138,21 @@
       "lastDate": "2026-09-10T13:05:04+00:00"
     },
     {
+      "name": "Wylsacom Red (TG)",
+      "total": 239,
+      "translated": 239,
+      "lastDate": "2026-09-10T15:39:01+00:00"
+    },
+    {
       "name": "Hugging Face Blog",
       "total": 238,
       "translated": 238,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
-      "name": "Wylsacom Red (TG)",
-      "total": 238,
-      "translated": 238,
-      "lastDate": "2026-09-10T14:40:21+00:00"
-    },
-    {
       "name": "AI News",
-      "total": 227,
-      "translated": 227,
+      "total": 228,
+      "translated": 228,
       "lastDate": "Wed, 29 Jul 2026 10:53:39 +0000"
     },
     {
@@ -175,8 +175,8 @@
     },
     {
       "name": "Google AI Blog",
-      "total": 87,
-      "translated": 87,
+      "total": 88,
+      "translated": 88,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-10T14:53:12.094Z"
+  "generatedAt": "2026-09-10T17:15:23.026Z"
 }
