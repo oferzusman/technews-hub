@@ -1,9 +1,9 @@
 {
-  "total": 20643,
-  "translated": 20638,
+  "total": 20649,
+  "translated": 20644,
   "untranslated": 5,
-  "today": 179,
-  "week": 811,
+  "today": 6,
+  "week": 668,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1770,
-      "translated": 1770,
+      "total": 1772,
+      "translated": 1772,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 1277,
-      "translated": 1277,
+      "total": 1278,
+      "translated": 1278,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
@@ -55,14 +55,14 @@
     },
     {
       "name": "Ars Technica",
-      "total": 898,
-      "translated": 898,
+      "total": 899,
+      "translated": 899,
       "lastDate": "Wed, 29 Jul 2026 20:57:35 +0000"
     },
     {
       "name": "The Guardian AI",
-      "total": 864,
-      "translated": 864,
+      "total": 865,
+      "translated": 865,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
@@ -85,8 +85,8 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 535,
-      "translated": 535,
+      "total": 536,
+      "translated": 536,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-09T23:14:17.919Z"
+  "generatedAt": "2026-09-10T00:23:03.194Z"
 }
