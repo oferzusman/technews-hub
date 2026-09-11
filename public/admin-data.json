@@ -1,26 +1,26 @@
 {
-  "total": 20819,
-  "translated": 20814,
-  "untranslated": 5,
-  "today": 41,
-  "week": 701,
+  "total": 20839,
+  "translated": 20833,
+  "untranslated": 6,
+  "today": 61,
+  "week": 721,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1926,
-      "translated": 1926,
+      "total": 1928,
+      "translated": 1928,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1785,
-      "translated": 1785,
+      "total": 1792,
+      "translated": 1791,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1316,
-      "translated": 1316,
+      "total": 1317,
+      "translated": 1317,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 1108,
-      "translated": 1108,
+      "total": 1110,
+      "translated": 1110,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -55,21 +55,21 @@
     },
     {
       "name": "Ars Technica",
-      "total": 903,
-      "translated": 903,
+      "total": 904,
+      "translated": 904,
       "lastDate": "Wed, 29 Jul 2026 20:57:35 +0000"
     },
     {
       "name": "The Guardian AI",
-      "total": 872,
-      "translated": 872,
+      "total": 873,
+      "translated": 873,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 772,
-      "translated": 771,
-      "lastDate": "2026-09-11T08:05:04+00:00"
+      "total": 773,
+      "translated": 772,
+      "lastDate": "2026-09-11T13:08:28+00:00"
     },
     {
       "name": "The Verge AI",
@@ -97,14 +97,14 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 464,
-      "translated": 463,
-      "lastDate": "2026-09-10T20:42:22+00:00"
+      "total": 465,
+      "translated": 464,
+      "lastDate": "2026-09-11T12:53:19+00:00"
     },
     {
       "name": "MIT Technology Review",
-      "total": 363,
-      "translated": 363,
+      "total": 364,
+      "translated": 364,
       "lastDate": "Wed, 29 Jul 2026 17:58:44 +0000"
     },
     {
@@ -133,9 +133,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 255,
-      "translated": 255,
-      "lastDate": "2026-09-11T07:15:25+00:00"
+      "total": 256,
+      "translated": 256,
+      "lastDate": "2026-09-11T12:47:27+00:00"
     },
     {
       "name": "Wylsacom Red (TG)",
@@ -151,8 +151,8 @@
     },
     {
       "name": "AI News",
-      "total": 228,
-      "translated": 228,
+      "total": 229,
+      "translated": 229,
       "lastDate": "Wed, 29 Jul 2026 10:53:39 +0000"
     },
     {
@@ -163,9 +163,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 129,
-      "translated": 129,
-      "lastDate": "2026-09-08T08:55:43+00:00"
+      "total": 130,
+      "translated": 130,
+      "lastDate": "2026-09-11T13:49:01+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-11T11:42:50.178Z"
+  "generatedAt": "2026-09-11T13:55:07.731Z"
 }
