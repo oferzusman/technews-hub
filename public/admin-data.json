@@ -1,9 +1,9 @@
 {
-  "total": 20891,
-  "translated": 20886,
+  "total": 20895,
+  "translated": 20890,
   "untranslated": 5,
-  "today": 113,
-  "week": 773,
+  "today": 117,
+  "week": 777,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1798,
-      "translated": 1798,
+      "total": 1799,
+      "translated": 1799,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 776,
-      "translated": 775,
-      "lastDate": "2026-09-11T17:24:50+00:00"
+      "total": 777,
+      "translated": 776,
+      "lastDate": "2026-09-11T21:19:12+00:00"
     },
     {
       "name": "The Verge AI",
@@ -109,15 +109,15 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 363,
-      "translated": 361,
-      "lastDate": "2026-09-11T18:20:03+00:00"
+      "total": 364,
+      "translated": 362,
+      "lastDate": "2026-09-11T21:21:01+00:00"
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 319,
-      "translated": 319,
-      "lastDate": "2026-09-11T18:10:42+00:00"
+      "total": 320,
+      "translated": 320,
+      "lastDate": "2026-09-11T21:11:05+00:00"
     },
     {
       "name": "The Register",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-11T21:11:30.177Z"
+  "generatedAt": "2026-09-11T21:51:52.774Z"
 }
