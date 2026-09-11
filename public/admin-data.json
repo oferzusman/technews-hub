@@ -1,7 +1,7 @@
 {
   "total": 20877,
-  "translated": 20866,
-  "untranslated": 11,
+  "translated": 20872,
+  "untranslated": 5,
   "today": 99,
   "week": 759,
   "sources": [
@@ -20,7 +20,7 @@
     {
       "name": "CNBC Tech",
       "total": 1319,
-      "translated": 1317,
+      "translated": 1319,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -44,7 +44,7 @@
     {
       "name": "The Decoder",
       "total": 1112,
-      "translated": 1111,
+      "translated": 1112,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -62,7 +62,7 @@
     {
       "name": "The Guardian AI",
       "total": 878,
-      "translated": 877,
+      "translated": 878,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
@@ -110,13 +110,13 @@
     {
       "name": "Hi, AI Russian (TG)",
       "total": 363,
-      "translated": 360,
+      "translated": 361,
       "lastDate": "2026-09-11T18:20:03+00:00"
     },
     {
       "name": "Prompt AI News (TG)",
       "total": 319,
-      "translated": 318,
+      "translated": 319,
       "lastDate": "2026-09-11T18:10:42+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-11T18:30:18.006Z"
+  "generatedAt": "2026-09-11T18:31:47.033Z"
 }
