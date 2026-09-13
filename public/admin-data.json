@@ -1,20 +1,20 @@
 {
-  "total": 21038,
-  "translated": 21033,
+  "total": 21041,
+  "translated": 21036,
   "untranslated": 5,
-  "today": 48,
-  "week": 789,
+  "today": 51,
+  "week": 792,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1949,
-      "translated": 1949,
+      "total": 1951,
+      "translated": 1951,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1817,
-      "translated": 1817,
+      "total": 1818,
+      "translated": 1818,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-13T14:35:22.356Z"
+  "generatedAt": "2026-09-13T14:59:51.597Z"
 }
