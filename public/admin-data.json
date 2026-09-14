@@ -1,7 +1,7 @@
 {
   "total": 21082,
-  "translated": 21064,
-  "untranslated": 18,
+  "translated": 21077,
+  "untranslated": 5,
   "today": 15,
   "week": 748,
   "sources": [
@@ -20,7 +20,7 @@
     {
       "name": "CNBC Tech",
       "total": 1327,
-      "translated": 1326,
+      "translated": 1327,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -38,7 +38,7 @@
     {
       "name": "AI Post (TG)",
       "total": 1171,
-      "translated": 1168,
+      "translated": 1170,
       "lastDate": "2026-09-14T05:35:16+00:00"
     },
     {
@@ -62,7 +62,7 @@
     {
       "name": "The Guardian AI",
       "total": 904,
-      "translated": 897,
+      "translated": 904,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
@@ -116,7 +116,7 @@
     {
       "name": "Prompt AI News (TG)",
       "total": 340,
-      "translated": 339,
+      "translated": 340,
       "lastDate": "2026-09-14T04:28:40+00:00"
     },
     {
@@ -158,7 +158,7 @@
     {
       "name": "Habr (TG)",
       "total": 179,
-      "translated": 177,
+      "translated": 179,
       "lastDate": "2026-09-14T06:01:01+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-14T06:35:02.019Z"
+  "generatedAt": "2026-09-14T06:36:00.253Z"
 }
