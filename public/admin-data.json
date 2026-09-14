@@ -1,9 +1,9 @@
 {
-  "total": 21132,
-  "translated": 21127,
+  "total": 21136,
+  "translated": 21131,
   "untranslated": 5,
-  "today": 65,
-  "week": 798,
+  "today": 69,
+  "week": 802,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1824,
-      "translated": 1824,
+      "total": 1826,
+      "translated": 1826,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 993,
-      "translated": 993,
+      "total": 994,
+      "translated": 994,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -115,9 +115,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 342,
-      "translated": 342,
-      "lastDate": "2026-09-14T10:30:40+00:00"
+      "total": 343,
+      "translated": 343,
+      "lastDate": "2026-09-14T13:31:40+00:00"
     },
     {
       "name": "The Register",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-14T13:28:12.532Z"
+  "generatedAt": "2026-09-14T13:41:29.612Z"
 }
