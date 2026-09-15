@@ -1,14 +1,14 @@
 {
   "total": 21304,
-  "translated": 21284,
-  "untranslated": 20,
+  "translated": 21298,
+  "untranslated": 6,
   "today": 104,
   "week": 840,
   "sources": [
     {
       "name": "Tom's Hardware",
       "total": 1972,
-      "translated": 1971,
+      "translated": 1972,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -20,13 +20,13 @@
     {
       "name": "CNBC Tech",
       "total": 1345,
-      "translated": 1344,
+      "translated": 1345,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
       "name": "TechCrunch AI",
       "total": 1318,
-      "translated": 1316,
+      "translated": 1318,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
@@ -56,7 +56,7 @@
     {
       "name": "The Guardian AI",
       "total": 929,
-      "translated": 926,
+      "translated": 929,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
@@ -92,7 +92,7 @@
     {
       "name": "Backdoor (TG)",
       "total": 479,
-      "translated": 477,
+      "translated": 478,
       "lastDate": "2026-09-15T16:43:58+00:00"
     },
     {
@@ -116,7 +116,7 @@
     {
       "name": "Prompt AI News (TG)",
       "total": 352,
-      "translated": 351,
+      "translated": 352,
       "lastDate": "2026-09-15T15:22:33+00:00"
     },
     {
@@ -140,13 +140,13 @@
     {
       "name": "Wylsacom Red (TG)",
       "total": 245,
-      "translated": 244,
+      "translated": 245,
       "lastDate": "2026-09-15T15:49:35+00:00"
     },
     {
       "name": "Hugging Face Blog",
       "total": 240,
-      "translated": 239,
+      "translated": 240,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
@@ -176,7 +176,7 @@
     {
       "name": "Google AI Blog",
       "total": 94,
-      "translated": 91,
+      "translated": 94,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-15T16:52:11.863Z"
+  "generatedAt": "2026-09-15T16:52:36.463Z"
 }
