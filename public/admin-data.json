@@ -1,9 +1,9 @@
 {
-  "total": 21325,
-  "translated": 21320,
+  "total": 21336,
+  "translated": 21331,
   "untranslated": 5,
-  "today": 125,
-  "week": 861,
+  "today": 136,
+  "week": 872,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,14 +19,14 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1349,
-      "translated": 1349,
+      "total": 1350,
+      "translated": 1350,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1322,
-      "translated": 1322,
+      "total": 1323,
+      "translated": 1323,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1184,
-      "translated": 1183,
-      "lastDate": "2026-09-15T17:40:30+00:00"
+      "total": 1185,
+      "translated": 1184,
+      "lastDate": "2026-09-15T20:52:12+00:00"
     },
     {
       "name": "The Decoder",
@@ -49,27 +49,27 @@
     },
     {
       "name": "New Atlas",
-      "total": 998,
-      "translated": 998,
+      "total": 1000,
+      "translated": 1000,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
       "name": "The Guardian AI",
-      "total": 933,
-      "translated": 933,
+      "total": 934,
+      "translated": 934,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 917,
-      "translated": 917,
+      "total": 918,
+      "translated": 918,
       "lastDate": "Wed, 29 Jul 2026 20:57:35 +0000"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 790,
-      "translated": 789,
-      "lastDate": "2026-09-15T16:46:33+00:00"
+      "total": 791,
+      "translated": 790,
+      "lastDate": "2026-09-15T21:02:03+00:00"
     },
     {
       "name": "The Verge AI",
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 662,
-      "translated": 662,
+      "total": 664,
+      "translated": 664,
       "lastDate": "Wed, 29 Jul 2026 19:30:35 +0000"
     },
     {
@@ -115,9 +115,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 353,
-      "translated": 353,
-      "lastDate": "2026-09-15T18:04:20+00:00"
+      "total": 354,
+      "translated": 354,
+      "lastDate": "2026-09-15T21:04:33+00:00"
     },
     {
       "name": "The Register",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-15T20:04:31.218Z"
+  "generatedAt": "2026-09-15T21:48:09.084Z"
 }
