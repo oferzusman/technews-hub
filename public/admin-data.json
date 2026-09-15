@@ -1,31 +1,31 @@
 {
-  "total": 21254,
+  "total": 21284,
   "translated": 21249,
-  "untranslated": 5,
-  "today": 54,
-  "week": 790,
+  "untranslated": 35,
+  "today": 84,
+  "week": 820,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 1968,
+      "total": 1971,
       "translated": 1968,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1837,
+      "total": 1843,
       "translated": 1837,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1340,
+      "total": 1344,
       "translated": 1340,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1311,
+      "total": 1315,
       "translated": 1311,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
@@ -37,31 +37,31 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1182,
+      "total": 1183,
       "translated": 1181,
-      "lastDate": "2026-09-15T11:51:31+00:00"
+      "lastDate": "2026-09-15T14:51:42+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 1132,
+      "total": 1135,
       "translated": 1132,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 997,
+      "total": 998,
       "translated": 997,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
       "name": "The Guardian AI",
-      "total": 922,
+      "total": 924,
       "translated": 922,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 916,
+      "total": 917,
       "translated": 916,
       "lastDate": "Wed, 29 Jul 2026 20:57:35 +0000"
     },
@@ -103,7 +103,7 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 369,
+      "total": 371,
       "translated": 369,
       "lastDate": "Wed, 29 Jul 2026 17:58:44 +0000"
     },
@@ -115,9 +115,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 350,
+      "total": 351,
       "translated": 350,
-      "lastDate": "2026-09-15T10:07:40+00:00"
+      "lastDate": "2026-09-15T12:22:25+00:00"
     },
     {
       "name": "The Register",
@@ -163,9 +163,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 133,
+      "total": 134,
       "translated": 133,
-      "lastDate": "2026-09-14T09:58:18+00:00"
+      "lastDate": "2026-09-15T13:35:24+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -175,7 +175,7 @@
     },
     {
       "name": "Google AI Blog",
-      "total": 90,
+      "total": 91,
       "translated": 90,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-15T12:10:38.577Z"
+  "generatedAt": "2026-09-15T15:03:18.519Z"
 }
