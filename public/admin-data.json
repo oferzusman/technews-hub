@@ -1,9 +1,9 @@
 {
-  "total": 21365,
-  "translated": 21360,
+  "total": 21369,
+  "translated": 21364,
   "untranslated": 5,
-  "today": 22,
-  "week": 722,
+  "today": 26,
+  "week": 726,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -91,9 +91,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 480,
-      "translated": 479,
-      "lastDate": "2026-09-15T17:32:15+00:00"
+      "total": 481,
+      "translated": 480,
+      "lastDate": "2026-09-16T07:25:25+00:00"
     },
     {
       "name": "Pypi.org",
@@ -109,15 +109,15 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 370,
-      "translated": 368,
-      "lastDate": "2026-09-16T06:00:06+00:00"
+      "total": 371,
+      "translated": 369,
+      "lastDate": "2026-09-16T08:03:20+00:00"
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 357,
-      "translated": 357,
-      "lastDate": "2026-09-16T04:49:03+00:00"
+      "total": 358,
+      "translated": 358,
+      "lastDate": "2026-09-16T07:49:33+00:00"
     },
     {
       "name": "The Register",
@@ -133,9 +133,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 262,
-      "translated": 262,
-      "lastDate": "2026-09-15T16:50:14+00:00"
+      "total": 263,
+      "translated": 263,
+      "lastDate": "2026-09-16T08:11:19+00:00"
     },
     {
       "name": "Wylsacom Red (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-16T07:20:33.812Z"
+  "generatedAt": "2026-09-16T08:53:19.612Z"
 }
