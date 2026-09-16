@@ -1,9 +1,9 @@
 {
-  "total": 21407,
-  "translated": 21402,
+  "total": 21418,
+  "translated": 21413,
   "untranslated": 5,
-  "today": 64,
-  "week": 764,
+  "today": 75,
+  "week": 775,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,20 +13,20 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1845,
-      "translated": 1845,
+      "total": 1847,
+      "translated": 1847,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1357,
-      "translated": 1357,
+      "total": 1358,
+      "translated": 1358,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1326,
-      "translated": 1326,
+      "total": 1328,
+      "translated": 1328,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 795,
-      "translated": 794,
-      "lastDate": "2026-09-16T12:25:28+00:00"
+      "total": 797,
+      "translated": 796,
+      "lastDate": "2026-09-16T14:00:23+00:00"
     },
     {
       "name": "The Verge AI",
@@ -85,8 +85,8 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 546,
-      "translated": 546,
+      "total": 547,
+      "translated": 547,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -103,21 +103,21 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 373,
-      "translated": 373,
+      "total": 374,
+      "translated": 374,
       "lastDate": "Wed, 29 Jul 2026 17:58:44 +0000"
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 372,
-      "translated": 370,
-      "lastDate": "2026-09-16T10:05:34+00:00"
+      "total": 373,
+      "translated": 371,
+      "lastDate": "2026-09-16T13:29:50+00:00"
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 359,
-      "translated": 359,
-      "lastDate": "2026-09-16T10:33:56+00:00"
+      "total": 360,
+      "translated": 360,
+      "lastDate": "2026-09-16T13:34:33+00:00"
     },
     {
       "name": "The Register",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-16T12:51:17.681Z"
+  "generatedAt": "2026-09-16T14:02:48.806Z"
 }
