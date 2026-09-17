@@ -1,9 +1,9 @@
 {
-  "total": 21514,
-  "translated": 21509,
+  "total": 21517,
+  "translated": 21512,
   "untranslated": 5,
-  "today": 20,
-  "week": 736,
+  "today": 23,
+  "week": 739,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -31,9 +31,9 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1289,
-      "translated": 1289,
-      "lastDate": "2026-09-15T18:28:06.000Z"
+      "total": 1291,
+      "translated": 1291,
+      "lastDate": "2026-09-16T14:12:17.000Z"
     },
     {
       "name": "AI Post (TG)",
@@ -115,9 +115,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 365,
-      "translated": 365,
-      "lastDate": "2026-09-17T04:04:33+00:00"
+      "total": 366,
+      "translated": 366,
+      "lastDate": "2026-09-17T07:05:33+00:00"
     },
     {
       "name": "The Register",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-17T06:44:21.067Z"
+  "generatedAt": "2026-09-17T07:13:55.778Z"
 }
