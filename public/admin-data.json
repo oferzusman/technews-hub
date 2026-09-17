@@ -1,9 +1,9 @@
 {
-  "total": 21591,
-  "translated": 21586,
+  "total": 21595,
+  "translated": 21590,
   "untranslated": 5,
-  "today": 97,
-  "week": 813,
+  "today": 101,
+  "week": 817,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,8 +25,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 1345,
-      "translated": 1345,
+      "total": 1347,
+      "translated": 1347,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
@@ -133,15 +133,15 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 265,
-      "translated": 265,
-      "lastDate": "2026-09-17T08:20:58+00:00"
+      "total": 266,
+      "translated": 266,
+      "lastDate": "2026-09-17T17:20:53+00:00"
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 249,
-      "translated": 249,
-      "lastDate": "2026-09-17T16:31:21+00:00"
+      "total": 250,
+      "translated": 250,
+      "lastDate": "2026-09-17T17:29:01+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-17T17:07:06.789Z"
+  "generatedAt": "2026-09-17T17:30:23.543Z"
 }
