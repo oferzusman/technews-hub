@@ -1,9 +1,9 @@
 {
-  "total": 21792,
-  "translated": 21787,
+  "total": 21793,
+  "translated": 21788,
   "untranslated": 5,
-  "today": 160,
-  "week": 888,
+  "today": 161,
+  "week": 889,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -85,8 +85,8 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 553,
-      "translated": 553,
+      "total": 554,
+      "translated": 554,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-18T22:14:22.909Z"
+  "generatedAt": "2026-09-18T22:29:06.772Z"
 }
