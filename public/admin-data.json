@@ -1,9 +1,9 @@
 {
-  "total": 21779,
-  "translated": 21774,
+  "total": 21787,
+  "translated": 21782,
   "untranslated": 5,
-  "today": 147,
-  "week": 875,
+  "today": 155,
+  "week": 883,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,20 +13,20 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1881,
-      "translated": 1881,
+      "total": 1882,
+      "translated": 1882,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1390,
-      "translated": 1390,
+      "total": 1391,
+      "translated": 1391,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1368,
-      "translated": 1368,
+      "total": 1369,
+      "translated": 1369,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1212,
-      "translated": 1211,
-      "lastDate": "2026-09-18T19:51:01+00:00"
+      "total": 1213,
+      "translated": 1212,
+      "lastDate": "2026-09-18T21:03:11+00:00"
     },
     {
       "name": "The Decoder",
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 817,
-      "translated": 816,
-      "lastDate": "2026-09-18T17:17:03+00:00"
+      "total": 818,
+      "translated": 817,
+      "lastDate": "2026-09-18T21:09:30+00:00"
     },
     {
       "name": "The Verge AI",
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 677,
-      "translated": 677,
+      "total": 678,
+      "translated": 678,
       "lastDate": "Wed, 29 Jul 2026 19:30:35 +0000"
     },
     {
@@ -91,9 +91,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 489,
-      "translated": 488,
-      "lastDate": "2026-09-18T16:01:20+00:00"
+      "total": 490,
+      "translated": 489,
+      "lastDate": "2026-09-18T21:19:13+00:00"
     },
     {
       "name": "Pypi.org",
@@ -205,9 +205,9 @@
     },
     {
       "name": "Artificial Intelligence (TG)",
-      "total": 48,
-      "translated": 48,
-      "lastDate": "2026-08-27T14:53:26+00:00"
+      "total": 49,
+      "translated": 49,
+      "lastDate": "2026-09-18T21:25:38+00:00"
     },
     {
       "name": "Slashdot.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-18T20:02:15.659Z"
+  "generatedAt": "2026-09-18T21:27:59.966Z"
 }
