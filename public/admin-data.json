@@ -1,14 +1,14 @@
 {
-  "total": 21822,
-  "translated": 21817,
+  "total": 21833,
+  "translated": 21828,
   "untranslated": 5,
-  "today": 23,
-  "week": 832,
+  "today": 34,
+  "week": 843,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2015,
-      "translated": 2015,
+      "total": 2016,
+      "translated": 2016,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -37,14 +37,14 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1217,
-      "translated": 1216,
-      "lastDate": "2026-09-19T07:12:01+00:00"
+      "total": 1218,
+      "translated": 1217,
+      "lastDate": "2026-09-19T09:58:01+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 1161,
-      "translated": 1161,
+      "total": 1164,
+      "translated": 1164,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -55,21 +55,21 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 975,
-      "translated": 975,
+      "total": 976,
+      "translated": 976,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 938,
-      "translated": 938,
+      "total": 939,
+      "translated": 939,
       "lastDate": "Wed, 29 Jul 2026 20:57:35 +0000"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 819,
-      "translated": 818,
-      "lastDate": "2026-09-19T08:36:02+00:00"
+      "total": 821,
+      "translated": 820,
+      "lastDate": "2026-09-19T11:10:53+00:00"
     },
     {
       "name": "The Verge AI",
@@ -103,9 +103,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 385,
-      "translated": 385,
-      "lastDate": "2026-09-19T07:03:55+00:00"
+      "total": 386,
+      "translated": 386,
+      "lastDate": "2026-09-19T10:04:33+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -133,9 +133,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 268,
-      "translated": 268,
-      "lastDate": "2026-09-18T13:50:24+00:00"
+      "total": 269,
+      "translated": 269,
+      "lastDate": "2026-09-19T10:22:51+00:00"
     },
     {
       "name": "Wylsacom Red (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-19T09:24:14.016Z"
+  "generatedAt": "2026-09-19T11:49:48.741Z"
 }
