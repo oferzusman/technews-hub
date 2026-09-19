@@ -1,20 +1,20 @@
 {
-  "total": 21841,
-  "translated": 21836,
+  "total": 21854,
+  "translated": 21849,
   "untranslated": 5,
-  "today": 42,
-  "week": 851,
+  "today": 55,
+  "week": 864,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2017,
-      "translated": 2017,
+      "total": 2019,
+      "translated": 2019,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1886,
-      "translated": 1886,
+      "total": 1887,
+      "translated": 1887,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 1376,
-      "translated": 1376,
+      "total": 1377,
+      "translated": 1377,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
@@ -37,20 +37,20 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1218,
-      "translated": 1217,
-      "lastDate": "2026-09-19T09:58:01+00:00"
+      "total": 1219,
+      "translated": 1218,
+      "lastDate": "2026-09-19T13:37:20+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 1164,
-      "translated": 1164,
+      "total": 1167,
+      "translated": 1167,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 1017,
-      "translated": 1017,
+      "total": 1018,
+      "translated": 1018,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 706,
-      "translated": 706,
-      "lastDate": "2026-09-19T13:00:00.000Z"
+      "total": 707,
+      "translated": 707,
+      "lastDate": "2026-09-19T14:00:00.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -91,9 +91,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 491,
-      "translated": 490,
-      "lastDate": "2026-09-19T12:04:47+00:00"
+      "total": 493,
+      "translated": 492,
+      "lastDate": "2026-09-19T15:01:52+00:00"
     },
     {
       "name": "Pypi.org",
@@ -115,9 +115,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 378,
-      "translated": 376,
-      "lastDate": "2026-09-19T08:20:05+00:00"
+      "total": 379,
+      "translated": 377,
+      "lastDate": "2026-09-19T14:06:13+00:00"
     },
     {
       "name": "The Register",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-19T13:18:39.252Z"
+  "generatedAt": "2026-09-19T15:23:30.454Z"
 }
