@@ -1,9 +1,9 @@
 {
-  "total": 21884,
-  "translated": 21879,
+  "total": 21886,
+  "translated": 21881,
   "untranslated": 5,
-  "today": 1,
-  "week": 817,
+  "today": 3,
+  "week": 819,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -49,8 +49,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 1019,
-      "translated": 1019,
+      "total": 1020,
+      "translated": 1020,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -103,9 +103,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 390,
-      "translated": 390,
-      "lastDate": "2026-09-19T21:44:33+00:00"
+      "total": 391,
+      "translated": 391,
+      "lastDate": "2026-09-20T00:45:33+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-20T01:08:29.987Z"
+  "generatedAt": "2026-09-20T01:15:37.174Z"
 }
