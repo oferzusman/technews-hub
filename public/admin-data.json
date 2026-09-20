@@ -1,9 +1,9 @@
 {
-  "total": 21934,
-  "translated": 21929,
+  "total": 21942,
+  "translated": 21937,
   "untranslated": 5,
-  "today": 51,
-  "week": 867,
+  "today": 59,
+  "week": 875,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1892,
-      "translated": 1892,
+      "total": 1894,
+      "translated": 1894,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -37,20 +37,20 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1227,
-      "translated": 1226,
-      "lastDate": "2026-09-20T12:25:37+00:00"
+      "total": 1228,
+      "translated": 1227,
+      "lastDate": "2026-09-20T15:10:29+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 1172,
-      "translated": 1172,
+      "total": 1174,
+      "translated": 1174,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
       "name": "New Atlas",
-      "total": 1022,
-      "translated": 1022,
+      "total": 1023,
+      "translated": 1023,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 710,
-      "translated": 710,
-      "lastDate": "2026-09-20T12:00:00.000Z"
+      "total": 711,
+      "translated": 711,
+      "lastDate": "2026-09-20T15:39:22.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -103,9 +103,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 395,
-      "translated": 395,
-      "lastDate": "2026-09-20T12:49:33+00:00"
+      "total": 396,
+      "translated": 396,
+      "lastDate": "2026-09-20T15:50:33+00:00"
     },
     {
       "name": "Hi, AI Russian (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-20T14:55:24.615Z"
+  "generatedAt": "2026-09-20T16:59:30.871Z"
 }
