@@ -1,7 +1,7 @@
 {
   "total": 21964,
-  "translated": 21955,
-  "untranslated": 9,
+  "translated": 21959,
+  "untranslated": 5,
   "today": 81,
   "week": 897,
   "sources": [
@@ -38,7 +38,7 @@
     {
       "name": "AI Post (TG)",
       "total": 1230,
-      "translated": 1228,
+      "translated": 1229,
       "lastDate": "2026-09-20T20:50:01+00:00"
     },
     {
@@ -50,7 +50,7 @@
     {
       "name": "New Atlas",
       "total": 1025,
-      "translated": 1024,
+      "translated": 1025,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -68,7 +68,7 @@
     {
       "name": "XOR Journal (TG)",
       "total": 825,
-      "translated": 823,
+      "translated": 824,
       "lastDate": "2026-09-20T21:02:04+00:00"
     },
     {
@@ -80,7 +80,7 @@
     {
       "name": "MarkTechPost",
       "total": 687,
-      "translated": 686,
+      "translated": 687,
       "lastDate": "Wed, 29 Jul 2026 19:30:35 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-20T21:34:10.907Z"
+  "generatedAt": "2026-09-20T21:34:31.078Z"
 }
