@@ -1,14 +1,14 @@
 {
-  "total": 21977,
-  "translated": 21972,
+  "total": 22003,
+  "translated": 21998,
   "untranslated": 5,
-  "today": 10,
-  "week": 777,
+  "today": 36,
+  "week": 803,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2030,
-      "translated": 2030,
+      "total": 2033,
+      "translated": 2033,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -31,15 +31,15 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1303,
-      "translated": 1303,
-      "lastDate": "2026-09-18T02:18:12.000Z"
+      "total": 1308,
+      "translated": 1308,
+      "lastDate": "2026-09-20T20:14:25.000Z"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1233,
-      "translated": 1232,
-      "lastDate": "2026-09-21T05:29:01+00:00"
+      "total": 1234,
+      "translated": 1233,
+      "lastDate": "2026-09-21T08:17:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -49,14 +49,14 @@
     },
     {
       "name": "New Atlas",
-      "total": 1027,
-      "translated": 1027,
+      "total": 1028,
+      "translated": 1028,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
       "name": "The Guardian AI",
-      "total": 991,
-      "translated": 991,
+      "total": 992,
+      "translated": 992,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
@@ -67,20 +67,20 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 826,
-      "translated": 825,
-      "lastDate": "2026-09-21T06:47:14+00:00"
+      "total": 828,
+      "translated": 827,
+      "lastDate": "2026-09-21T09:13:19+00:00"
     },
     {
       "name": "The Verge AI",
-      "total": 712,
-      "translated": 712,
-      "lastDate": "2026-09-20T18:50:18.000Z"
+      "total": 714,
+      "translated": 714,
+      "lastDate": "2026-09-21T10:18:06.000Z"
     },
     {
       "name": "MarkTechPost",
-      "total": 688,
-      "translated": 688,
+      "total": 689,
+      "translated": 689,
       "lastDate": "Wed, 29 Jul 2026 19:30:35 +0000"
     },
     {
@@ -91,9 +91,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 495,
-      "translated": 494,
-      "lastDate": "2026-09-20T13:50:21+00:00"
+      "total": 496,
+      "translated": 495,
+      "lastDate": "2026-09-21T09:17:14+00:00"
     },
     {
       "name": "Pypi.org",
@@ -103,15 +103,15 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 400,
-      "translated": 400,
-      "lastDate": "2026-09-21T03:54:33+00:00"
+      "total": 402,
+      "translated": 402,
+      "lastDate": "2026-09-21T09:56:33+00:00"
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 380,
-      "translated": 378,
-      "lastDate": "2026-09-20T07:57:55+00:00"
+      "total": 382,
+      "translated": 380,
+      "lastDate": "2026-09-21T09:05:40+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -133,20 +133,20 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 270,
-      "translated": 270,
-      "lastDate": "2026-09-20T13:09:18+00:00"
+      "total": 271,
+      "translated": 271,
+      "lastDate": "2026-09-21T07:58:20+00:00"
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 252,
-      "translated": 252,
-      "lastDate": "2026-09-19T17:38:26+00:00"
+      "total": 253,
+      "translated": 253,
+      "lastDate": "2026-09-21T08:29:01+00:00"
     },
     {
       "name": "AI News",
-      "total": 241,
-      "translated": 241,
+      "total": 242,
+      "translated": 242,
       "lastDate": "Wed, 29 Jul 2026 10:53:39 +0000"
     },
     {
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 184,
-      "translated": 184,
-      "lastDate": "2026-09-17T05:01:50+00:00"
+      "total": 186,
+      "translated": 186,
+      "lastDate": "2026-09-21T09:04:32+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-21T06:49:37.280Z"
+  "generatedAt": "2026-09-21T10:53:51.683Z"
 }
