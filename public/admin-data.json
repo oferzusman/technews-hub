@@ -1,20 +1,20 @@
 {
-  "total": 22027,
-  "translated": 22022,
+  "total": 22031,
+  "translated": 22026,
   "untranslated": 5,
-  "today": 60,
-  "week": 827,
+  "today": 64,
+  "week": 831,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2042,
-      "translated": 2042,
+      "total": 2043,
+      "translated": 2043,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1902,
-      "translated": 1902,
+      "total": 1903,
+      "translated": 1903,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 1174,
-      "translated": 1174,
+      "total": 1175,
+      "translated": 1175,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 714,
-      "translated": 714,
-      "lastDate": "2026-09-21T10:18:06.000Z"
+      "total": 715,
+      "translated": 715,
+      "lastDate": "2026-09-21T13:36:52.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-21T13:25:03.826Z"
+  "generatedAt": "2026-09-21T13:40:45.435Z"
 }
