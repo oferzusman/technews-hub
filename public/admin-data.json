@@ -1,9 +1,9 @@
 {
-  "total": 22120,
-  "translated": 22115,
+  "total": 22129,
+  "translated": 22124,
   "untranslated": 5,
-  "today": 18,
-  "week": 777,
+  "today": 27,
+  "week": 786,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -31,9 +31,9 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1308,
-      "translated": 1308,
-      "lastDate": "2026-09-20T20:14:25.000Z"
+      "total": 1314,
+      "translated": 1314,
+      "lastDate": "2026-09-22T03:05:59.000Z"
     },
     {
       "name": "AI Post (TG)",
@@ -91,9 +91,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 499,
-      "translated": 498,
-      "lastDate": "2026-09-21T21:12:53+00:00"
+      "total": 500,
+      "translated": 499,
+      "lastDate": "2026-09-22T06:49:23+00:00"
     },
     {
       "name": "Pypi.org",
@@ -103,9 +103,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 411,
-      "translated": 411,
-      "lastDate": "2026-09-22T04:09:33+00:00"
+      "total": 412,
+      "translated": 412,
+      "lastDate": "2026-09-22T07:10:33+00:00"
     },
     {
       "name": "Hi, AI Russian (TG)",
@@ -144,16 +144,16 @@
       "lastDate": "2026-09-21T17:29:01+00:00"
     },
     {
+      "name": "Hugging Face Blog",
+      "total": 243,
+      "translated": 243,
+      "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
+    },
+    {
       "name": "AI News",
       "total": 243,
       "translated": 243,
       "lastDate": "Wed, 29 Jul 2026 10:53:39 +0000"
-    },
-    {
-      "name": "Hugging Face Blog",
-      "total": 242,
-      "translated": 242,
-      "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
       "name": "Habr (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-22T06:41:00.899Z"
+  "generatedAt": "2026-09-22T07:17:22.202Z"
 }
