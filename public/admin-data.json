@@ -1,9 +1,9 @@
 {
-  "total": 22117,
-  "translated": 22112,
+  "total": 22120,
+  "translated": 22115,
   "untranslated": 5,
-  "today": 15,
-  "week": 774,
+  "today": 18,
+  "week": 777,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -49,8 +49,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 1030,
-      "translated": 1030,
+      "total": 1031,
+      "translated": 1031,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 837,
-      "translated": 836,
-      "lastDate": "2026-09-21T21:01:03+00:00"
+      "total": 838,
+      "translated": 837,
+      "lastDate": "2026-09-22T06:02:18+00:00"
     },
     {
       "name": "The Verge AI",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 384,
-      "translated": 382,
-      "lastDate": "2026-09-21T18:36:04+00:00"
+      "total": 385,
+      "translated": 383,
+      "lastDate": "2026-09-22T06:04:38+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-22T05:45:17.545Z"
+  "generatedAt": "2026-09-22T06:40:14.732Z"
 }
