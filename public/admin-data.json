@@ -1,9 +1,9 @@
 {
-  "total": 22106,
-  "translated": 22101,
+  "total": 22117,
+  "translated": 22112,
   "untranslated": 5,
-  "today": 4,
-  "week": 763,
+  "today": 15,
+  "week": 774,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1905,
-      "translated": 1905,
+      "total": 1906,
+      "translated": 1906,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1403,
-      "translated": 1403,
+      "total": 1405,
+      "translated": 1405,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1240,
-      "translated": 1239,
-      "lastDate": "2026-09-21T23:51:01+00:00"
+      "total": 1242,
+      "translated": 1241,
+      "lastDate": "2026-09-22T05:27:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -49,14 +49,14 @@
     },
     {
       "name": "New Atlas",
-      "total": 1028,
-      "translated": 1028,
+      "total": 1030,
+      "translated": 1030,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
       "name": "The Guardian AI",
-      "total": 996,
-      "translated": 996,
+      "total": 997,
+      "translated": 997,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 691,
-      "translated": 691,
+      "total": 693,
+      "translated": 693,
       "lastDate": "Wed, 29 Jul 2026 19:30:35 +0000"
     },
     {
@@ -103,9 +103,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 410,
-      "translated": 410,
-      "lastDate": "2026-09-22T01:08:55+00:00"
+      "total": 411,
+      "translated": 411,
+      "lastDate": "2026-09-22T04:09:33+00:00"
     },
     {
       "name": "Hi, AI Russian (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-22T03:08:17.327Z"
+  "generatedAt": "2026-09-22T05:44:12.506Z"
 }
