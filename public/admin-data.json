@@ -1,9 +1,9 @@
 {
-  "total": 22428,
-  "translated": 22422,
+  "total": 22436,
+  "translated": 22430,
   "untranslated": 6,
-  "today": 22,
-  "week": 796,
+  "today": 30,
+  "week": 804,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -31,9 +31,9 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1317,
-      "translated": 1317,
-      "lastDate": "2026-09-22T17:16:10.000Z"
+      "total": 1321,
+      "translated": 1321,
+      "lastDate": "2026-09-23T19:11:12.000Z"
     },
     {
       "name": "AI Post (TG)",
@@ -55,8 +55,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 1019,
-      "translated": 1019,
+      "total": 1020,
+      "translated": 1020,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
@@ -91,9 +91,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 517,
-      "translated": 516,
-      "lastDate": "2026-09-23T19:55:22+00:00"
+      "total": 518,
+      "translated": 517,
+      "lastDate": "2026-09-24T08:36:10+00:00"
     },
     {
       "name": "Pypi.org",
@@ -139,9 +139,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 257,
-      "translated": 257,
-      "lastDate": "2026-09-23T15:41:35+00:00"
+      "total": 258,
+      "translated": 258,
+      "lastDate": "2026-09-24T06:54:54+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 194,
-      "translated": 194,
-      "lastDate": "2026-09-23T17:00:52+00:00"
+      "total": 195,
+      "translated": 195,
+      "lastDate": "2026-09-24T08:29:04+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-24T06:46:52.719Z"
+  "generatedAt": "2026-09-24T08:41:43.734Z"
 }
