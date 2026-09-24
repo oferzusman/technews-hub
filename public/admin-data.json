@@ -1,20 +1,20 @@
 {
-  "total": 22551,
-  "translated": 22545,
+  "total": 22561,
+  "translated": 22555,
   "untranslated": 6,
-  "today": 145,
-  "week": 919,
+  "today": 155,
+  "week": 929,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2084,
-      "translated": 2084,
+      "total": 2085,
+      "translated": 2085,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1931,
-      "translated": 1931,
+      "total": 1932,
+      "translated": 1932,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1426,
-      "translated": 1426,
+      "total": 1427,
+      "translated": 1427,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1270,
-      "translated": 1268,
-      "lastDate": "2026-09-24T19:33:27+00:00"
+      "total": 1272,
+      "translated": 1270,
+      "lastDate": "2026-09-24T20:52:30+00:00"
     },
     {
       "name": "The Decoder",
@@ -49,14 +49,14 @@
     },
     {
       "name": "New Atlas",
-      "total": 1043,
-      "translated": 1043,
+      "total": 1044,
+      "translated": 1044,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
       "name": "The Guardian AI",
-      "total": 1031,
-      "translated": 1031,
+      "total": 1032,
+      "translated": 1032,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 855,
-      "translated": 854,
-      "lastDate": "2026-09-24T15:04:01+00:00"
+      "total": 856,
+      "translated": 855,
+      "lastDate": "2026-09-24T21:03:04+00:00"
     },
     {
       "name": "The Verge AI",
@@ -91,9 +91,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 519,
-      "translated": 518,
-      "lastDate": "2026-09-24T13:57:04+00:00"
+      "total": 520,
+      "translated": 519,
+      "lastDate": "2026-09-24T21:18:58+00:00"
     },
     {
       "name": "Pypi.org",
@@ -103,9 +103,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 433,
-      "translated": 433,
-      "lastDate": "2026-09-24T19:25:25+00:00"
+      "total": 434,
+      "translated": 434,
+      "lastDate": "2026-09-24T20:58:48+00:00"
     },
     {
       "name": "Hi, AI Russian (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-24T20:31:19.754Z"
+  "generatedAt": "2026-09-24T22:01:16.952Z"
 }
