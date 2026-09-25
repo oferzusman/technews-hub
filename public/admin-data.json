@@ -1,9 +1,9 @@
 {
-  "total": 22580,
-  "translated": 22574,
+  "total": 22586,
+  "translated": 22580,
   "untranslated": 6,
-  "today": 16,
-  "week": 781,
+  "today": 22,
+  "week": 787,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -49,8 +49,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 1046,
-      "translated": 1046,
+      "total": 1047,
+      "translated": 1047,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 856,
-      "translated": 855,
-      "lastDate": "2026-09-24T21:03:04+00:00"
+      "total": 857,
+      "translated": 856,
+      "lastDate": "2026-09-25T06:16:24+00:00"
     },
     {
       "name": "The Verge AI",
@@ -91,9 +91,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 520,
-      "translated": 519,
-      "lastDate": "2026-09-24T21:18:58+00:00"
+      "total": 521,
+      "translated": 520,
+      "lastDate": "2026-09-25T06:21:49+00:00"
     },
     {
       "name": "Pypi.org",
@@ -103,15 +103,15 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 436,
-      "translated": 436,
-      "lastDate": "2026-09-25T03:00:25+00:00"
+      "total": 437,
+      "translated": 437,
+      "lastDate": "2026-09-25T06:01:25+00:00"
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 396,
-      "translated": 394,
-      "lastDate": "2026-09-24T16:17:00+00:00"
+      "total": 397,
+      "translated": 395,
+      "lastDate": "2026-09-25T06:21:21+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -205,9 +205,9 @@
     },
     {
       "name": "Artificial Intelligence (TG)",
-      "total": 49,
-      "translated": 49,
-      "lastDate": "2026-09-18T21:25:38+00:00"
+      "total": 50,
+      "translated": 50,
+      "lastDate": "2026-09-25T06:05:09+00:00"
     },
     {
       "name": "Slashdot.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-25T06:21:56.160Z"
+  "generatedAt": "2026-09-25T06:36:35.910Z"
 }
