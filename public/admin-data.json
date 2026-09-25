@@ -1,14 +1,14 @@
 {
   "total": 22684,
-  "translated": 22657,
-  "untranslated": 27,
+  "translated": 22677,
+  "untranslated": 7,
   "today": 120,
   "week": 885,
   "sources": [
     {
       "name": "Tom's Hardware",
       "total": 2097,
-      "translated": 2096,
+      "translated": 2097,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -20,13 +20,13 @@
     {
       "name": "TechCrunch AI",
       "total": 1448,
-      "translated": 1444,
+      "translated": 1448,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
       "name": "CNBC Tech",
       "total": 1430,
-      "translated": 1429,
+      "translated": 1430,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -44,13 +44,13 @@
     {
       "name": "The Decoder",
       "total": 1214,
-      "translated": 1213,
+      "translated": 1214,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
       "name": "The Guardian AI",
       "total": 1051,
-      "translated": 1046,
+      "translated": 1051,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
@@ -74,7 +74,7 @@
     {
       "name": "The Verge AI",
       "total": 755,
-      "translated": 752,
+      "translated": 755,
       "lastDate": "2026-09-25T16:49:53.000Z"
     },
     {
@@ -86,13 +86,13 @@
     {
       "name": "OpenAI Blog",
       "total": 575,
-      "translated": 574,
+      "translated": 575,
       "lastDate": "Wed, 29 Oct 2025 00:00:00 GMT"
     },
     {
       "name": "Backdoor (TG)",
       "total": 524,
-      "translated": 522,
+      "translated": 523,
       "lastDate": "2026-09-25T16:17:01+00:00"
     },
     {
@@ -110,7 +110,7 @@
     {
       "name": "Hi, AI Russian (TG)",
       "total": 401,
-      "translated": 398,
+      "translated": 399,
       "lastDate": "2026-09-25T16:05:36+00:00"
     },
     {
@@ -134,7 +134,7 @@
     {
       "name": "Hi, AI English (TG)",
       "total": 285,
-      "translated": 284,
+      "translated": 285,
       "lastDate": "2026-09-25T16:28:28+00:00"
     },
     {
@@ -158,7 +158,7 @@
     {
       "name": "Habr (TG)",
       "total": 198,
-      "translated": 197,
+      "translated": 198,
       "lastDate": "2026-09-25T17:02:59+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-25T17:09:24.688Z"
+  "generatedAt": "2026-09-25T17:09:58.394Z"
 }
