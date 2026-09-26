@@ -1,14 +1,14 @@
 {
-  "total": 22742,
-  "translated": 22735,
+  "total": 22751,
+  "translated": 22744,
   "untranslated": 7,
-  "today": 22,
-  "week": 859,
+  "today": 31,
+  "week": 868,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2098,
-      "translated": 2098,
+      "total": 2100,
+      "translated": 2100,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
@@ -37,27 +37,27 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1285,
-      "translated": 1283,
-      "lastDate": "2026-09-26T08:22:05+00:00"
+      "total": 1286,
+      "translated": 1284,
+      "lastDate": "2026-09-26T11:36:09+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 1218,
-      "translated": 1218,
+      "total": 1219,
+      "translated": 1219,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
+    },
+    {
+      "name": "The Guardian AI",
+      "total": 1056,
+      "translated": 1056,
+      "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
       "name": "New Atlas",
       "total": 1053,
       "translated": 1053,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
-    },
-    {
-      "name": "The Guardian AI",
-      "total": 1053,
-      "translated": 1053,
-      "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
       "name": "Ars Technica",
@@ -91,9 +91,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 525,
-      "translated": 524,
-      "lastDate": "2026-09-25T18:59:27+00:00"
+      "total": 526,
+      "translated": 525,
+      "lastDate": "2026-09-26T11:38:22+00:00"
     },
     {
       "name": "Pypi.org",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 403,
-      "translated": 401,
-      "lastDate": "2026-09-26T07:17:04+00:00"
+      "total": 404,
+      "translated": 402,
+      "lastDate": "2026-09-26T11:02:26+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-26T10:21:44.622Z"
+  "generatedAt": "2026-09-26T11:42:54.510Z"
 }
