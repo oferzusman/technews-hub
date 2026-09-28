@@ -1,9 +1,9 @@
 {
-  "total": 22862,
-  "translated": 22855,
+  "total": 22865,
+  "translated": 22858,
   "untranslated": 7,
-  "today": 0,
-  "week": 760,
+  "today": 3,
+  "week": 763,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1955,
-      "translated": 1955,
+      "total": 1956,
+      "translated": 1956,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1298,
-      "translated": 1296,
-      "lastDate": "2026-09-27T22:49:01+00:00"
+      "total": 1299,
+      "translated": 1297,
+      "lastDate": "2026-09-28T01:13:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -103,9 +103,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 461,
-      "translated": 461,
-      "lastDate": "2026-09-27T21:34:02+00:00"
+      "total": 462,
+      "translated": 462,
+      "lastDate": "2026-09-28T00:34:29+00:00"
     },
     {
       "name": "Hi, AI Russian (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-28T01:01:12.096Z"
+  "generatedAt": "2026-09-28T01:44:24.137Z"
 }
