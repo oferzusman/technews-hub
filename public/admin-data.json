@@ -1,9 +1,9 @@
 {
-  "total": 22880,
-  "translated": 22873,
+  "total": 22882,
+  "translated": 22875,
   "untranslated": 7,
-  "today": 18,
-  "week": 778,
+  "today": 20,
+  "week": 780,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -115,8 +115,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 394,
-      "translated": 394,
+      "total": 395,
+      "translated": 395,
       "lastDate": "Wed, 29 Jul 2026 17:58:44 +0000"
     },
     {
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 198,
-      "translated": 198,
-      "lastDate": "2026-09-25T17:02:59+00:00"
+      "total": 199,
+      "translated": 199,
+      "lastDate": "2026-09-28T08:43:56+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-28T08:23:16.164Z"
+  "generatedAt": "2026-09-28T08:50:35.711Z"
 }
