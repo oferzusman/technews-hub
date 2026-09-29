@@ -1,32 +1,32 @@
 {
-  "total": 23046,
-  "translated": 23039,
-  "untranslated": 7,
-  "today": 41,
-  "week": 802,
+  "total": 23092,
+  "translated": 23084,
+  "untranslated": 8,
+  "today": 87,
+  "week": 848,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2125,
-      "translated": 2125,
+      "total": 2132,
+      "translated": 2132,
       "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1962,
-      "translated": 1962,
+      "total": 1965,
+      "translated": 1965,
       "lastDate": "Wed, 29 Jul 2026 23:38:05 +0000"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1484,
-      "translated": 1484,
+      "total": 1488,
+      "translated": 1488,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1458,
-      "translated": 1458,
+      "total": 1464,
+      "translated": 1464,
       "lastDate": "Wed, 29 Jul 2026 23:10:46 GMT"
     },
     {
@@ -37,26 +37,26 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1311,
-      "translated": 1309,
-      "lastDate": "2026-09-29T07:28:58+00:00"
+      "total": 1313,
+      "translated": 1311,
+      "lastDate": "2026-09-29T11:12:42+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 1238,
-      "translated": 1238,
+      "total": 1241,
+      "translated": 1241,
       "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
     },
     {
       "name": "The Guardian AI",
-      "total": 1078,
-      "translated": 1078,
+      "total": 1083,
+      "translated": 1083,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
       "name": "New Atlas",
-      "total": 1067,
-      "translated": 1067,
+      "total": 1068,
+      "translated": 1068,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
@@ -67,20 +67,20 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 876,
-      "translated": 874,
-      "lastDate": "2026-09-29T08:45:03+00:00"
+      "total": 877,
+      "translated": 875,
+      "lastDate": "2026-09-29T09:53:12+00:00"
     },
     {
       "name": "The Verge AI",
-      "total": 767,
-      "translated": 767,
-      "lastDate": "2026-09-28T21:31:35.000Z"
+      "total": 770,
+      "translated": 770,
+      "lastDate": "2026-09-29T14:08:21.000Z"
     },
     {
       "name": "MarkTechPost",
-      "total": 721,
-      "translated": 721,
+      "total": 722,
+      "translated": 722,
       "lastDate": "Wed, 29 Jul 2026 19:30:35 +0000"
     },
     {
@@ -91,9 +91,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 534,
-      "translated": 533,
-      "lastDate": "2026-09-28T22:18:32+00:00"
+      "total": 537,
+      "translated": 535,
+      "lastDate": "2026-09-29T12:22:40+00:00"
     },
     {
       "name": "Pypi.org",
@@ -103,20 +103,20 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 474,
-      "translated": 474,
-      "lastDate": "2026-09-29T06:00:51+00:00"
+      "total": 476,
+      "translated": 476,
+      "lastDate": "2026-09-29T12:02:01+00:00"
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 408,
-      "translated": 406,
-      "lastDate": "2026-09-29T06:17:07+00:00"
+      "total": 409,
+      "translated": 407,
+      "lastDate": "2026-09-29T11:11:29+00:00"
     },
     {
       "name": "MIT Technology Review",
-      "total": 398,
-      "translated": 398,
+      "total": 400,
+      "translated": 400,
       "lastDate": "Wed, 29 Jul 2026 17:58:44 +0000"
     },
     {
@@ -151,15 +151,15 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 249,
-      "translated": 249,
+      "total": 250,
+      "translated": 250,
       "lastDate": "Wed, 29 Oct 2025 13:56:45 GMT"
     },
     {
       "name": "Habr (TG)",
-      "total": 202,
-      "translated": 202,
-      "lastDate": "2026-09-29T05:01:47+00:00"
+      "total": 203,
+      "translated": 203,
+      "lastDate": "2026-09-29T11:04:04+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-29T13:20:49.131Z"
+  "generatedAt": "2026-09-29T14:14:10.568Z"
 }
