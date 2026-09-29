@@ -1,9 +1,9 @@
 {
-  "total": 23160,
-  "translated": 23153,
+  "total": 23169,
+  "translated": 23162,
   "untranslated": 7,
-  "today": 155,
-  "week": 916,
+  "today": 164,
+  "week": 925,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,8 +19,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 1500,
-      "translated": 1500,
+      "total": 1501,
+      "translated": 1501,
       "lastDate": "Wed, 29 Jul 2026 23:00:11 +0000"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1315,
-      "translated": 1313,
-      "lastDate": "2026-09-29T19:30:29+00:00"
+      "total": 1316,
+      "translated": 1314,
+      "lastDate": "2026-09-29T23:23:02+00:00"
     },
     {
       "name": "The Decoder",
@@ -49,20 +49,20 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 1087,
-      "translated": 1087,
+      "total": 1088,
+      "translated": 1088,
       "lastDate": "Wed, 29 Jul 2026 21:26:49 GMT"
     },
     {
       "name": "New Atlas",
-      "total": 1069,
-      "translated": 1069,
+      "total": 1071,
+      "translated": 1071,
       "lastDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 996,
-      "translated": 996,
+      "total": 997,
+      "translated": 997,
       "lastDate": "Wed, 29 Jul 2026 20:57:35 +0000"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 774,
-      "translated": 774,
-      "lastDate": "2026-09-29T17:35:03.000Z"
+      "total": 776,
+      "translated": 776,
+      "lastDate": "2026-09-29T22:25:45.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -97,9 +97,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 479,
-      "translated": 479,
-      "lastDate": "2026-09-29T20:09:01+00:00"
+      "total": 480,
+      "translated": 480,
+      "lastDate": "2026-09-29T23:10:01+00:00"
     },
     {
       "name": "Pypi.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-29T23:07:30.913Z"
+  "generatedAt": "2026-09-29T23:54:25.940Z"
 }
