@@ -1,33 +1,33 @@
 {
-  "total": 23279,
-  "translated": 23272,
+  "total": 23311,
+  "translated": 23304,
   "untranslated": 7,
-  "today": 110,
-  "week": 873,
+  "today": 142,
+  "week": 905,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2148,
-      "translated": 2148,
-      "lastDate": "Wed, 30 Sep 2026 16:20:00 +0000"
+      "total": 2150,
+      "translated": 2150,
+      "lastDate": "Wed, 30 Sep 2026 18:00:39 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 1971,
-      "translated": 1971,
-      "lastDate": "Wed, 30 Sep 2026 15:53:01 +0000"
+      "total": 1976,
+      "translated": 1976,
+      "lastDate": "Wed, 30 Sep 2026 18:31:42 +0000"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1510,
-      "translated": 1510,
-      "lastDate": "Wed, 30 Sep 2026 16:24:23 +0000"
+      "total": 1514,
+      "translated": 1514,
+      "lastDate": "Wed, 30 Sep 2026 19:00:57 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1478,
-      "translated": 1478,
-      "lastDate": "Wed, 30 Sep 2026 15:54:38 GMT"
+      "total": 1479,
+      "translated": 1479,
+      "lastDate": "Wed, 30 Sep 2026 19:34:11 GMT"
     },
     {
       "name": "Product Hunt",
@@ -37,45 +37,45 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1328,
-      "translated": 1326,
-      "lastDate": "2026-09-30T15:29:20+00:00"
+      "total": 1329,
+      "translated": 1327,
+      "lastDate": "2026-09-30T18:02:21+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 1255,
-      "translated": 1255,
-      "lastDate": "Wed, 30 Sep 2026 16:20:04 +0000"
+      "total": 1258,
+      "translated": 1258,
+      "lastDate": "Wed, 30 Sep 2026 19:12:30 +0000"
     },
     {
       "name": "The Guardian AI",
-      "total": 1099,
-      "translated": 1099,
-      "lastDate": "Wed, 30 Sep 2026 16:11:58 GMT"
+      "total": 1102,
+      "translated": 1102,
+      "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
       "name": "New Atlas",
-      "total": 1075,
-      "translated": 1075,
-      "lastDate": "Wed, 30 Sep 2026 13:33:00 GMT"
+      "total": 1076,
+      "translated": 1076,
+      "lastDate": "Wed, 30 Sep 2026 17:52:52 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 997,
-      "translated": 997,
-      "lastDate": "Wed, 29 Jul 2026 20:57:35 +0000"
+      "total": 1001,
+      "translated": 1001,
+      "lastDate": "Wed, 30 Sep 2026 18:25:04 +0000"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 886,
-      "translated": 884,
-      "lastDate": "2026-09-30T16:31:46+00:00"
+      "total": 888,
+      "translated": 886,
+      "lastDate": "2026-09-30T17:40:37+00:00"
     },
     {
       "name": "The Verge AI",
-      "total": 781,
-      "translated": 781,
-      "lastDate": "2026-09-30T15:18:49.000Z"
+      "total": 783,
+      "translated": 783,
+      "lastDate": "2026-09-30T18:07:38.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -85,9 +85,9 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 584,
-      "translated": 584,
-      "lastDate": "Wed, 30 Sep 2026 10:00:00 GMT"
+      "total": 585,
+      "translated": 585,
+      "lastDate": "Wed, 30 Sep 2026 10:30:00 GMT"
     },
     {
       "name": "Backdoor (TG)",
@@ -97,9 +97,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 485,
-      "translated": 485,
-      "lastDate": "2026-09-30T14:15:00+00:00"
+      "total": 487,
+      "translated": 487,
+      "lastDate": "2026-09-30T19:38:19+00:00"
     },
     {
       "name": "Pypi.org",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 413,
-      "translated": 411,
-      "lastDate": "2026-09-30T13:02:00+00:00"
+      "total": 414,
+      "translated": 412,
+      "lastDate": "2026-09-30T18:03:47+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-30T19:38:03.873Z"
+  "generatedAt": "2026-09-30T20:01:12.397Z"
 }
