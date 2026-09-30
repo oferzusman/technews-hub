@@ -1,32 +1,32 @@
 {
   "total": 23279,
-  "translated": 23250,
-  "untranslated": 29,
+  "translated": 23272,
+  "untranslated": 7,
   "today": 110,
   "week": 873,
   "sources": [
     {
       "name": "Tom's Hardware",
       "total": 2148,
-      "translated": 2146,
+      "translated": 2148,
       "lastDate": "Wed, 30 Sep 2026 16:20:00 +0000"
     },
     {
       "name": "Interesting Engineering",
       "total": 1971,
-      "translated": 1970,
+      "translated": 1971,
       "lastDate": "Wed, 30 Sep 2026 15:53:01 +0000"
     },
     {
       "name": "TechCrunch AI",
       "total": 1510,
-      "translated": 1506,
+      "translated": 1510,
       "lastDate": "Wed, 30 Sep 2026 16:24:23 +0000"
     },
     {
       "name": "CNBC Tech",
       "total": 1478,
-      "translated": 1476,
+      "translated": 1478,
       "lastDate": "Wed, 30 Sep 2026 15:54:38 GMT"
     },
     {
@@ -38,19 +38,19 @@
     {
       "name": "AI Post (TG)",
       "total": 1328,
-      "translated": 1325,
+      "translated": 1326,
       "lastDate": "2026-09-30T15:29:20+00:00"
     },
     {
       "name": "The Decoder",
       "total": 1255,
-      "translated": 1254,
+      "translated": 1255,
       "lastDate": "Wed, 30 Sep 2026 16:20:04 +0000"
     },
     {
       "name": "The Guardian AI",
       "total": 1099,
-      "translated": 1096,
+      "translated": 1099,
       "lastDate": "Wed, 30 Sep 2026 16:11:58 GMT"
     },
     {
@@ -68,13 +68,13 @@
     {
       "name": "XOR Journal (TG)",
       "total": 886,
-      "translated": 883,
+      "translated": 884,
       "lastDate": "2026-09-30T16:31:46+00:00"
     },
     {
       "name": "The Verge AI",
       "total": 781,
-      "translated": 777,
+      "translated": 781,
       "lastDate": "2026-09-30T15:18:49.000Z"
     },
     {
@@ -86,7 +86,7 @@
     {
       "name": "OpenAI Blog",
       "total": 584,
-      "translated": 583,
+      "translated": 584,
       "lastDate": "Wed, 30 Sep 2026 10:00:00 GMT"
     },
     {
@@ -122,13 +122,13 @@
     {
       "name": "The Register",
       "total": 313,
-      "translated": 312,
+      "translated": 313,
       "lastDate": "Wed, 30 Sep 2026 18:03:07 +0200"
     },
     {
       "name": "Hi, AI English (TG)",
       "total": 295,
-      "translated": 294,
+      "translated": 295,
       "lastDate": "2026-09-30T15:22:42+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-30T16:42:16.194Z"
+  "generatedAt": "2026-09-30T16:42:51.539Z"
 }
