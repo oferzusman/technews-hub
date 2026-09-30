@@ -1,15 +1,15 @@
 {
-  "total": 23191,
+  "total": 23210,
   "translated": 23184,
-  "untranslated": 7,
-  "today": 22,
-  "week": 785,
+  "untranslated": 26,
+  "today": 41,
+  "week": 804,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2134,
+      "total": 2136,
       "translated": 2134,
-      "lastDate": "Wed, 29 Jul 2026 18:05:17 +0000"
+      "lastDate": "Wed, 30 Sep 2026 10:00:00 +0000"
     },
     {
       "name": "Interesting Engineering",
@@ -25,9 +25,9 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1471,
+      "total": 1472,
       "translated": 1471,
-      "lastDate": "Wed, 30 Sep 2026 05:00:01 GMT"
+      "lastDate": "Wed, 30 Sep 2026 10:16:36 GMT"
     },
     {
       "name": "Product Hunt",
@@ -37,21 +37,21 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1318,
+      "total": 1325,
       "translated": 1316,
-      "lastDate": "2026-09-30T05:39:02+00:00"
+      "lastDate": "2026-09-30T10:00:25+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 1250,
+      "total": 1252,
       "translated": 1250,
-      "lastDate": "Wed, 29 Jul 2026 18:37:49 +0000"
+      "lastDate": "Wed, 30 Sep 2026 10:17:15 +0000"
     },
     {
       "name": "The Guardian AI",
-      "total": 1090,
+      "total": 1092,
       "translated": 1090,
-      "lastDate": "Wed, 30 Sep 2026 05:00:12 GMT"
+      "lastDate": "Wed, 30 Sep 2026 10:00:23 GMT"
     },
     {
       "name": "New Atlas",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 411,
+      "total": 412,
       "translated": 409,
-      "lastDate": "2026-09-30T06:23:28+00:00"
+      "lastDate": "2026-09-30T10:00:00+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -139,9 +139,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 266,
+      "total": 268,
       "translated": 266,
-      "lastDate": "2026-09-29T06:02:21+00:00"
+      "lastDate": "2026-09-30T09:29:01+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 203,
+      "total": 204,
       "translated": 203,
-      "lastDate": "2026-09-29T11:04:04+00:00"
+      "lastDate": "2026-09-30T10:07:37+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -193,9 +193,9 @@
     },
     {
       "name": "Nature Machine Intelligence",
-      "total": 70,
+      "total": 71,
       "translated": 70,
-      "lastDate": "2026-09-28T00:00:00.000Z"
+      "lastDate": "2026-09-30T00:00:00.000Z"
     },
     {
       "name": "Github.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-30T08:27:29.600Z"
+  "generatedAt": "2026-09-30T10:40:52.912Z"
 }
