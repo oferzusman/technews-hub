@@ -1,7 +1,7 @@
 {
   "total": 23328,
-  "translated": 23304,
-  "untranslated": 24,
+  "translated": 23320,
+  "untranslated": 8,
   "today": 159,
   "week": 922,
   "sources": [
@@ -14,19 +14,19 @@
     {
       "name": "Interesting Engineering",
       "total": 1977,
-      "translated": 1976,
+      "translated": 1977,
       "lastDate": "Wed, 30 Sep 2026 20:48:52 +0000"
     },
     {
       "name": "TechCrunch AI",
       "total": 1515,
-      "translated": 1514,
+      "translated": 1515,
       "lastDate": "Wed, 30 Sep 2026 21:07:40 +0000"
     },
     {
       "name": "CNBC Tech",
       "total": 1482,
-      "translated": 1479,
+      "translated": 1482,
       "lastDate": "Wed, 30 Sep 2026 20:59:05 GMT"
     },
     {
@@ -38,7 +38,7 @@
     {
       "name": "AI Post (TG)",
       "total": 1330,
-      "translated": 1327,
+      "translated": 1328,
       "lastDate": "2026-09-30T20:53:11+00:00"
     },
     {
@@ -62,19 +62,19 @@
     {
       "name": "Ars Technica",
       "total": 1004,
-      "translated": 1001,
+      "translated": 1004,
       "lastDate": "Wed, 30 Sep 2026 20:11:08 +0000"
     },
     {
       "name": "XOR Journal (TG)",
       "total": 890,
-      "translated": 886,
+      "translated": 888,
       "lastDate": "2026-09-30T21:02:03+00:00"
     },
     {
       "name": "The Verge AI",
       "total": 784,
-      "translated": 783,
+      "translated": 784,
       "lastDate": "2026-09-30T20:41:41.000Z"
     },
     {
@@ -92,13 +92,13 @@
     {
       "name": "Backdoor (TG)",
       "total": 545,
-      "translated": 543,
+      "translated": 544,
       "lastDate": "2026-09-30T20:22:27+00:00"
     },
     {
       "name": "Prompt AI News (TG)",
       "total": 488,
-      "translated": 487,
+      "translated": 488,
       "lastDate": "2026-09-30T20:13:11+00:00"
     },
     {
@@ -158,13 +158,13 @@
     {
       "name": "Habr (TG)",
       "total": 206,
-      "translated": 205,
+      "translated": 206,
       "lastDate": "2026-09-30T21:00:48+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
       "total": 142,
-      "translated": 141,
+      "translated": 142,
       "lastDate": "2026-09-30T20:33:37+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-30T21:15:45.980Z"
+  "generatedAt": "2026-09-30T21:16:13.497Z"
 }
