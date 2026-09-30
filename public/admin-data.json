@@ -1,14 +1,14 @@
 {
   "total": 23210,
-  "translated": 23184,
-  "untranslated": 26,
+  "translated": 23203,
+  "untranslated": 7,
   "today": 41,
   "week": 804,
   "sources": [
     {
       "name": "Tom's Hardware",
       "total": 2136,
-      "translated": 2134,
+      "translated": 2136,
       "lastDate": "Wed, 30 Sep 2026 10:00:00 +0000"
     },
     {
@@ -26,7 +26,7 @@
     {
       "name": "CNBC Tech",
       "total": 1472,
-      "translated": 1471,
+      "translated": 1472,
       "lastDate": "Wed, 30 Sep 2026 10:16:36 GMT"
     },
     {
@@ -38,19 +38,19 @@
     {
       "name": "AI Post (TG)",
       "total": 1325,
-      "translated": 1316,
+      "translated": 1323,
       "lastDate": "2026-09-30T10:00:25+00:00"
     },
     {
       "name": "The Decoder",
       "total": 1252,
-      "translated": 1250,
+      "translated": 1252,
       "lastDate": "Wed, 30 Sep 2026 10:17:15 +0000"
     },
     {
       "name": "The Guardian AI",
       "total": 1092,
-      "translated": 1090,
+      "translated": 1092,
       "lastDate": "Wed, 30 Sep 2026 10:00:23 GMT"
     },
     {
@@ -110,7 +110,7 @@
     {
       "name": "Hi, AI Russian (TG)",
       "total": 412,
-      "translated": 409,
+      "translated": 410,
       "lastDate": "2026-09-30T10:00:00+00:00"
     },
     {
@@ -140,7 +140,7 @@
     {
       "name": "Wylsacom Red (TG)",
       "total": 268,
-      "translated": 266,
+      "translated": 268,
       "lastDate": "2026-09-30T09:29:01+00:00"
     },
     {
@@ -158,7 +158,7 @@
     {
       "name": "Habr (TG)",
       "total": 204,
-      "translated": 203,
+      "translated": 204,
       "lastDate": "2026-09-30T10:07:37+00:00"
     },
     {
@@ -194,7 +194,7 @@
     {
       "name": "Nature Machine Intelligence",
       "total": 71,
-      "translated": 70,
+      "translated": 71,
       "lastDate": "2026-09-30T00:00:00.000Z"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-09-30T10:40:52.912Z"
+  "generatedAt": "2026-09-30T10:41:32.252Z"
 }
