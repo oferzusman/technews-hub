@@ -1,9 +1,9 @@
 {
-  "total": 23462,
-  "translated": 23455,
+  "total": 23472,
+  "translated": 23465,
   "untranslated": 7,
-  "today": 125,
-  "week": 898,
+  "today": 135,
+  "week": 908,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1989,
-      "translated": 1989,
+      "total": 1990,
+      "translated": 1990,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1495,
-      "translated": 1495,
+      "total": 1497,
+      "translated": 1497,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1338,
-      "translated": 1336,
-      "lastDate": "2026-10-01T21:07:01+00:00"
+      "total": 1339,
+      "translated": 1337,
+      "lastDate": "2026-10-01T22:45:33+00:00"
     },
     {
       "name": "The Decoder",
@@ -55,8 +55,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 1082,
-      "translated": 1082,
+      "total": 1084,
+      "translated": 1084,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 897,
-      "translated": 895,
-      "lastDate": "2026-10-01T13:49:53+00:00"
+      "total": 898,
+      "translated": 896,
+      "lastDate": "2026-10-01T21:52:28+00:00"
     },
     {
       "name": "The Verge AI",
@@ -85,21 +85,21 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 587,
-      "translated": 587,
+      "total": 588,
+      "translated": 588,
       "lastDate": "Wed, 30 Sep 2026 10:30:00 GMT"
     },
     {
       "name": "Backdoor (TG)",
-      "total": 547,
-      "translated": 546,
-      "lastDate": "2026-10-01T19:19:00+00:00"
+      "total": 548,
+      "translated": 547,
+      "lastDate": "2026-10-01T22:13:54+00:00"
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 496,
-      "translated": 496,
-      "lastDate": "2026-10-01T19:15:01+00:00"
+      "total": 497,
+      "translated": 497,
+      "lastDate": "2026-10-01T22:16:01+00:00"
     },
     {
       "name": "Pypi.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-01T21:16:21.206Z"
+  "generatedAt": "2026-10-01T23:43:45.048Z"
 }
