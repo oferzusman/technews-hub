@@ -1,9 +1,9 @@
 {
-  "total": 23350,
-  "translated": 23343,
+  "total": 23358,
+  "translated": 23351,
   "untranslated": 7,
-  "today": 13,
-  "week": 786,
+  "today": 21,
+  "week": 794,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1331,
-      "translated": 1329,
-      "lastDate": "2026-10-01T00:05:00+00:00"
+      "total": 1333,
+      "translated": 1331,
+      "lastDate": "2026-10-01T06:23:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -55,8 +55,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 1077,
-      "translated": 1077,
+      "total": 1078,
+      "translated": 1078,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 890,
-      "translated": 888,
-      "lastDate": "2026-09-30T21:02:03+00:00"
+      "total": 891,
+      "translated": 889,
+      "lastDate": "2026-10-01T06:22:02+00:00"
     },
     {
       "name": "The Verge AI",
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 730,
-      "translated": 730,
+      "total": 731,
+      "translated": 731,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 490,
-      "translated": 490,
-      "lastDate": "2026-10-01T02:14:01+00:00"
+      "total": 491,
+      "translated": 491,
+      "lastDate": "2026-10-01T05:15:01+00:00"
     },
     {
       "name": "Pypi.org",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 415,
-      "translated": 413,
-      "lastDate": "2026-09-30T20:23:15+00:00"
+      "total": 416,
+      "translated": 414,
+      "lastDate": "2026-10-01T06:00:43+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -127,9 +127,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 295,
-      "translated": 295,
-      "lastDate": "2026-09-30T15:22:42+00:00"
+      "total": 296,
+      "translated": 296,
+      "lastDate": "2026-10-01T06:41:11+00:00"
     },
     {
       "name": "Futurism",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-01T02:23:48.498Z"
+  "generatedAt": "2026-10-01T06:54:12.060Z"
 }
