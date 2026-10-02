@@ -1,9 +1,9 @@
 {
-  "total": 23560,
+  "total": 23570,
   "translated": 23553,
-  "untranslated": 7,
-  "today": 88,
-  "week": 840,
+  "untranslated": 17,
+  "today": 98,
+  "week": 850,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,13 +19,13 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 1531,
+      "total": 1534,
       "translated": 1531,
       "lastDate": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1502,
+      "total": 1503,
       "translated": 1502,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
@@ -37,9 +37,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1345,
+      "total": 1346,
       "translated": 1343,
-      "lastDate": "2026-10-02T15:09:54+00:00"
+      "lastDate": "2026-10-02T18:01:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -73,19 +73,19 @@
     },
     {
       "name": "The Verge AI",
-      "total": 793,
+      "total": 795,
       "translated": 793,
-      "lastDate": "2026-10-02T12:00:00.000Z"
+      "lastDate": "2026-10-02T18:00:00.000Z"
     },
     {
       "name": "MarkTechPost",
-      "total": 736,
+      "total": 737,
       "translated": 736,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
       "name": "OpenAI Blog",
-      "total": 589,
+      "total": 590,
       "translated": 589,
       "lastDate": "Wed, 30 Sep 2026 10:30:00 GMT"
     },
@@ -127,9 +127,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 298,
+      "total": 299,
       "translated": 298,
-      "lastDate": "2026-10-02T07:51:38+00:00"
+      "lastDate": "2026-10-02T16:31:21+00:00"
     },
     {
       "name": "Futurism",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-02T16:36:00.632Z"
+  "generatedAt": "2026-10-02T18:02:32.518Z"
 }
