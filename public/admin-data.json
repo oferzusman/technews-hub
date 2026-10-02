@@ -1,9 +1,9 @@
 {
-  "total": 23472,
-  "translated": 23465,
+  "total": 23477,
+  "translated": 23470,
   "untranslated": 7,
-  "today": 0,
-  "week": 752,
+  "today": 5,
+  "week": 757,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 1990,
-      "translated": 1990,
+      "total": 1992,
+      "translated": 1992,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1497,
-      "translated": 1497,
+      "total": 1498,
+      "translated": 1498,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 733,
-      "translated": 733,
+      "total": 734,
+      "translated": 734,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 497,
-      "translated": 497,
-      "lastDate": "2026-10-01T22:16:01+00:00"
+      "total": 498,
+      "translated": 498,
+      "lastDate": "2026-10-01T23:53:37+00:00"
     },
     {
       "name": "Pypi.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-02T00:45:40.211Z"
+  "generatedAt": "2026-10-02T00:46:19.076Z"
 }
