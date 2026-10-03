@@ -1,9 +1,9 @@
 {
-  "total": 23654,
-  "translated": 23647,
+  "total": 23662,
+  "translated": 23655,
   "untranslated": 7,
-  "today": 59,
-  "week": 861,
+  "today": 67,
+  "week": 869,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2006,
-      "translated": 2006,
+      "total": 2008,
+      "translated": 2008,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -30,16 +30,16 @@
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
+      "name": "AI Post (TG)",
+      "total": 1353,
+      "translated": 1351,
+      "lastDate": "2026-10-03T15:35:54+00:00"
+    },
+    {
       "name": "Product Hunt",
       "total": 1352,
       "translated": 1352,
       "lastDate": "2026-10-01T13:12:28.000Z"
-    },
-    {
-      "name": "AI Post (TG)",
-      "total": 1352,
-      "translated": 1350,
-      "lastDate": "2026-10-03T12:02:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 797,
-      "translated": 797,
-      "lastDate": "2026-10-02T21:08:37.000Z"
+      "total": 799,
+      "translated": 799,
+      "lastDate": "2026-10-03T15:00:00.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -91,15 +91,15 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 555,
-      "translated": 554,
-      "lastDate": "2026-10-03T07:28:49+00:00"
+      "total": 557,
+      "translated": 556,
+      "lastDate": "2026-10-03T16:03:38+00:00"
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 513,
-      "translated": 513,
-      "lastDate": "2026-10-03T12:51:34+00:00"
+      "total": 514,
+      "translated": 514,
+      "lastDate": "2026-10-03T15:52:22+00:00"
     },
     {
       "name": "Pypi.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-03T15:15:19.335Z"
+  "generatedAt": "2026-10-03T16:12:58.694Z"
 }
