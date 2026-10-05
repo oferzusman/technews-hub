@@ -1,9 +1,9 @@
 {
-  "total": 23758,
-  "translated": 23751,
+  "total": 23769,
+  "translated": 23762,
   "untranslated": 7,
-  "today": 4,
-  "week": 753,
+  "today": 15,
+  "week": 764,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2016,
-      "translated": 2016,
+      "total": 2017,
+      "translated": 2017,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -31,9 +31,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1367,
-      "translated": 1365,
-      "lastDate": "2026-10-05T01:50:12+00:00"
+      "total": 1369,
+      "translated": 1367,
+      "lastDate": "2026-10-05T05:14:01+00:00"
     },
     {
       "name": "Product Hunt",
@@ -49,27 +49,27 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 1127,
-      "translated": 1127,
+      "total": 1128,
+      "translated": 1128,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
       "name": "New Atlas",
-      "total": 1095,
-      "translated": 1095,
+      "total": 1097,
+      "translated": 1097,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 1016,
-      "translated": 1016,
+      "total": 1017,
+      "translated": 1017,
       "lastDate": "Wed, 30 Sep 2026 20:44:48 +0000"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 912,
-      "translated": 910,
-      "lastDate": "2026-10-04T22:01:47+00:00"
+      "total": 913,
+      "translated": 911,
+      "lastDate": "2026-10-05T05:24:22+00:00"
     },
     {
       "name": "The Verge AI",
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 749,
-      "translated": 749,
+      "total": 750,
+      "translated": 750,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 526,
-      "translated": 526,
-      "lastDate": "2026-10-05T02:01:28+00:00"
+      "total": 527,
+      "translated": 527,
+      "lastDate": "2026-10-05T05:02:28+00:00"
     },
     {
       "name": "Pypi.org",
@@ -115,8 +115,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 409,
-      "translated": 409,
+      "total": 410,
+      "translated": 410,
       "lastDate": "Wed, 30 Sep 2026 12:10:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-05T03:53:13.435Z"
+  "generatedAt": "2026-10-05T06:25:13.319Z"
 }
