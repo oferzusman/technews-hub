@@ -1,39 +1,39 @@
 {
-  "total": 23785,
+  "total": 23836,
   "translated": 23778,
-  "untranslated": 7,
-  "today": 31,
-  "week": 780,
+  "untranslated": 58,
+  "today": 82,
+  "week": 831,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2193,
+      "total": 2206,
       "translated": 2193,
       "lastDate": "Wed, 30 Sep 2026 18:00:39 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 2017,
+      "total": 2020,
       "translated": 2017,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1544,
+      "total": 1548,
       "translated": 1544,
       "lastDate": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1511,
+      "total": 1515,
       "translated": 1511,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1370,
+      "total": 1372,
       "translated": 1368,
-      "lastDate": "2026-10-05T07:55:19+00:00"
+      "lastDate": "2026-10-05T14:17:38+00:00"
     },
     {
       "name": "Product Hunt",
@@ -43,13 +43,13 @@
     },
     {
       "name": "The Decoder",
-      "total": 1286,
+      "total": 1289,
       "translated": 1286,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
     {
       "name": "The Guardian AI",
-      "total": 1128,
+      "total": 1131,
       "translated": 1128,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
@@ -61,21 +61,21 @@
     },
     {
       "name": "Ars Technica",
-      "total": 1017,
+      "total": 1018,
       "translated": 1017,
       "lastDate": "Wed, 30 Sep 2026 20:44:48 +0000"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 914,
+      "total": 915,
       "translated": 912,
-      "lastDate": "2026-10-05T07:19:10+00:00"
+      "lastDate": "2026-10-05T10:42:05+00:00"
     },
     {
       "name": "The Verge AI",
-      "total": 802,
+      "total": 806,
       "translated": 802,
-      "lastDate": "2026-10-04T16:16:04.000Z"
+      "lastDate": "2026-10-05T14:30:00.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -85,21 +85,21 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 590,
+      "total": 591,
       "translated": 590,
       "lastDate": "Wed, 30 Sep 2026 10:30:00 GMT"
     },
     {
       "name": "Backdoor (TG)",
-      "total": 562,
+      "total": 564,
       "translated": 561,
-      "lastDate": "2026-10-05T08:32:20+00:00"
+      "lastDate": "2026-10-05T12:33:58+00:00"
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 528,
+      "total": 530,
       "translated": 528,
-      "lastDate": "2026-10-05T08:03:28+00:00"
+      "lastDate": "2026-10-05T14:05:28+00:00"
     },
     {
       "name": "Pypi.org",
@@ -109,13 +109,13 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 425,
+      "total": 427,
       "translated": 423,
-      "lastDate": "2026-10-05T07:45:23+00:00"
+      "lastDate": "2026-10-05T14:45:11+00:00"
     },
     {
       "name": "MIT Technology Review",
-      "total": 411,
+      "total": 413,
       "translated": 411,
       "lastDate": "Wed, 30 Sep 2026 12:10:00 +0000"
     },
@@ -127,9 +127,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 302,
+      "total": 303,
       "translated": 302,
-      "lastDate": "2026-10-05T09:18:25+00:00"
+      "lastDate": "2026-10-05T14:22:07+00:00"
     },
     {
       "name": "Futurism",
@@ -145,7 +145,7 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 256,
+      "total": 257,
       "translated": 256,
       "lastDate": "Wed, 30 Sep 2026 00:00:00 GMT"
     },
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 209,
+      "total": 211,
       "translated": 209,
-      "lastDate": "2026-10-02T09:30:22+00:00"
+      "lastDate": "2026-10-05T13:01:01+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-05T11:08:41.431Z"
+  "generatedAt": "2026-10-05T15:05:51.834Z"
 }
