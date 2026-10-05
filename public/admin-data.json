@@ -1,7 +1,7 @@
 {
   "total": 23769,
-  "translated": 23762,
-  "untranslated": 7,
+  "translated": 23761,
+  "untranslated": 8,
   "today": 15,
   "week": 764,
   "sources": [
@@ -98,7 +98,7 @@
     {
       "name": "Prompt AI News (TG)",
       "total": 527,
-      "translated": 527,
+      "translated": 526,
       "lastDate": "2026-10-05T05:02:28+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-05T06:25:13.319Z"
+  "generatedAt": "2026-10-05T06:26:32.636Z"
 }
