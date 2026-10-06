@@ -1,9 +1,9 @@
 {
-  "total": 23898,
-  "translated": 23891,
+  "total": 23900,
+  "translated": 23893,
   "untranslated": 7,
-  "today": 5,
-  "week": 729,
+  "today": 7,
+  "week": 731,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -49,8 +49,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 1131,
-      "translated": 1131,
+      "total": 1132,
+      "translated": 1132,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 534,
-      "translated": 534,
-      "lastDate": "2026-10-05T22:02:53+00:00"
+      "total": 535,
+      "translated": 535,
+      "lastDate": "2026-10-06T01:03:28+00:00"
     },
     {
       "name": "Pypi.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-06T00:57:24.637Z"
+  "generatedAt": "2026-10-06T02:05:50.284Z"
 }
