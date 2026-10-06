@@ -1,9 +1,9 @@
 {
-  "total": 24025,
-  "translated": 24018,
+  "total": 24038,
+  "translated": 24031,
   "untranslated": 7,
-  "today": 132,
-  "week": 856,
+  "today": 145,
+  "week": 869,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,27 +13,27 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2036,
-      "translated": 2036,
+      "total": 2038,
+      "translated": 2038,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1566,
-      "translated": 1566,
+      "total": 1567,
+      "translated": 1567,
       "lastDate": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1525,
-      "translated": 1525,
+      "total": 1526,
+      "translated": 1526,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1384,
-      "translated": 1382,
-      "lastDate": "2026-10-06T20:25:13+00:00"
+      "total": 1385,
+      "translated": 1383,
+      "lastDate": "2026-10-06T23:18:01+00:00"
     },
     {
       "name": "Product Hunt",
@@ -49,8 +49,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 1147,
-      "translated": 1147,
+      "total": 1148,
+      "translated": 1148,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 1030,
-      "translated": 1030,
+      "total": 1033,
+      "translated": 1033,
       "lastDate": "Wed, 30 Sep 2026 20:44:48 +0000"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 816,
-      "translated": 816,
-      "lastDate": "2026-10-06T16:29:44.000Z"
+      "total": 817,
+      "translated": 817,
+      "lastDate": "2026-10-06T23:26:38.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -85,8 +85,8 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 594,
-      "translated": 594,
+      "total": 596,
+      "translated": 596,
       "lastDate": "Wed, 30 Sep 2026 10:30:00 GMT"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 542,
-      "translated": 542,
-      "lastDate": "2026-10-06T19:21:07+00:00"
+      "total": 543,
+      "translated": 543,
+      "lastDate": "2026-10-06T22:22:07+00:00"
     },
     {
       "name": "Pypi.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-06T23:15:45.506Z"
+  "generatedAt": "2026-10-06T23:37:18.622Z"
 }
