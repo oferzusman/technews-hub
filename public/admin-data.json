@@ -1,14 +1,14 @@
 {
-  "total": 23918,
-  "translated": 23911,
+  "total": 23922,
+  "translated": 23915,
   "untranslated": 7,
-  "today": 25,
-  "week": 749,
+  "today": 29,
+  "week": 753,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2210,
-      "translated": 2210,
+      "total": 2211,
+      "translated": 2211,
       "lastDate": "Wed, 30 Sep 2026 18:00:39 +0000"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 537,
-      "translated": 537,
-      "lastDate": "2026-10-06T06:47:45+00:00"
+      "total": 538,
+      "translated": 538,
+      "lastDate": "2026-10-06T09:48:28+00:00"
     },
     {
       "name": "Pypi.org",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 429,
-      "translated": 427,
-      "lastDate": "2026-10-06T06:41:01+00:00"
+      "total": 430,
+      "translated": 428,
+      "lastDate": "2026-10-06T09:59:19+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -139,9 +139,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 274,
-      "translated": 274,
-      "lastDate": "2026-10-06T06:59:49+00:00"
+      "total": 275,
+      "translated": 275,
+      "lastDate": "2026-10-06T09:00:04+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-06T08:58:36.983Z"
+  "generatedAt": "2026-10-06T10:10:16.555Z"
 }
