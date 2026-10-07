@@ -1,9 +1,9 @@
 {
-  "total": 24038,
-  "translated": 24031,
+  "total": 24039,
+  "translated": 24032,
   "untranslated": 7,
-  "today": 0,
-  "week": 701,
+  "today": 1,
+  "week": 702,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -97,9 +97,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 543,
-      "translated": 543,
-      "lastDate": "2026-10-06T22:22:07+00:00"
+      "total": 544,
+      "translated": 544,
+      "lastDate": "2026-10-07T00:12:33+00:00"
     },
     {
       "name": "Pypi.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-07T00:08:40.605Z"
+  "generatedAt": "2026-10-07T00:48:55.273Z"
 }
