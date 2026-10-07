@@ -1,14 +1,14 @@
 {
-  "total": 24081,
-  "translated": 24074,
+  "total": 24087,
+  "translated": 24080,
   "untranslated": 7,
-  "today": 43,
-  "week": 744,
+  "today": 49,
+  "week": 750,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2227,
-      "translated": 2227,
+      "total": 2228,
+      "translated": 2228,
       "lastDate": "Wed, 30 Sep 2026 18:00:39 +0000"
     },
     {
@@ -43,14 +43,14 @@
     },
     {
       "name": "The Decoder",
-      "total": 1306,
-      "translated": 1306,
+      "total": 1307,
+      "translated": 1307,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
     {
       "name": "The Guardian AI",
-      "total": 1151,
-      "translated": 1151,
+      "total": 1152,
+      "translated": 1152,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
@@ -175,8 +175,8 @@
     },
     {
       "name": "Google AI Blog",
-      "total": 100,
-      "translated": 100,
+      "total": 101,
+      "translated": 101,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
@@ -193,9 +193,9 @@
     },
     {
       "name": "Nature Machine Intelligence",
-      "total": 72,
-      "translated": 72,
-      "lastDate": "2026-10-01T00:00:00.000Z"
+      "total": 74,
+      "translated": 74,
+      "lastDate": "2026-10-07T00:00:00.000Z"
     },
     {
       "name": "Github.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-07T12:14:24.706Z"
+  "generatedAt": "2026-10-07T12:15:27.895Z"
 }
