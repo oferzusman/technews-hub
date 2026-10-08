@@ -1,9 +1,9 @@
 {
-  "total": 24278,
-  "translated": 24270,
-  "untranslated": 8,
-  "today": 98,
-  "week": 806,
+  "total": 24280,
+  "translated": 24273,
+  "untranslated": 7,
+  "today": 100,
+  "week": 808,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2056,
-      "translated": 2056,
+      "total": 2057,
+      "translated": 2057,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 831,
-      "translated": 831,
-      "lastDate": "2026-10-08T15:27:30.000Z"
+      "total": 832,
+      "translated": 832,
+      "lastDate": "2026-10-08T17:00:00.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -92,7 +92,7 @@
     {
       "name": "Backdoor (TG)",
       "total": 580,
-      "translated": 578,
+      "translated": 579,
       "lastDate": "2026-10-08T14:07:01+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-08T17:04:35.892Z"
+  "generatedAt": "2026-10-08T17:31:39.195Z"
 }
