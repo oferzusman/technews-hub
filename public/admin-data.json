@@ -1,20 +1,20 @@
 {
-  "total": 24180,
-  "translated": 24173,
+  "total": 24189,
+  "translated": 24182,
   "untranslated": 7,
-  "today": 0,
-  "week": 708,
+  "today": 9,
+  "week": 717,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2242,
-      "translated": 2242,
+      "total": 2243,
+      "translated": 2243,
       "lastDate": "Wed, 30 Sep 2026 18:00:39 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 2049,
-      "translated": 2049,
+      "total": 2050,
+      "translated": 2050,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -31,9 +31,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1393,
-      "translated": 1391,
-      "lastDate": "2026-10-07T21:18:01+00:00"
+      "total": 1394,
+      "translated": 1392,
+      "lastDate": "2026-10-08T00:11:01+00:00"
     },
     {
       "name": "Product Hunt",
@@ -49,8 +49,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 1155,
-      "translated": 1155,
+      "total": 1157,
+      "translated": 1157,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 1038,
-      "translated": 1038,
+      "total": 1039,
+      "translated": 1039,
       "lastDate": "Wed, 30 Sep 2026 20:44:48 +0000"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 761,
-      "translated": 761,
+      "total": 763,
+      "translated": 763,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 552,
-      "translated": 552,
-      "lastDate": "2026-10-07T21:17:33+00:00"
+      "total": 553,
+      "translated": 553,
+      "lastDate": "2026-10-08T00:18:11+00:00"
     },
     {
       "name": "Pypi.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-08T01:20:57.654Z"
+  "generatedAt": "2026-10-08T02:48:24.937Z"
 }
