@@ -1,39 +1,39 @@
 {
-  "total": 24286,
+  "total": 24313,
   "translated": 24279,
-  "untranslated": 7,
-  "today": 106,
-  "week": 814,
+  "untranslated": 34,
+  "today": 133,
+  "week": 841,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2256,
+      "total": 2257,
       "translated": 2256,
       "lastDate": "Wed, 30 Sep 2026 18:00:39 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 2057,
+      "total": 2058,
       "translated": 2057,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1587,
+      "total": 1595,
       "translated": 1587,
       "lastDate": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1539,
+      "total": 1540,
       "translated": 1539,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1400,
+      "total": 1401,
       "translated": 1398,
-      "lastDate": "2026-10-08T17:51:04+00:00"
+      "lastDate": "2026-10-08T20:32:36+00:00"
     },
     {
       "name": "Product Hunt",
@@ -43,19 +43,19 @@
     },
     {
       "name": "The Decoder",
-      "total": 1318,
+      "total": 1321,
       "translated": 1318,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
     {
       "name": "The Guardian AI",
-      "total": 1163,
+      "total": 1164,
       "translated": 1163,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
       "name": "New Atlas",
-      "total": 1108,
+      "total": 1110,
       "translated": 1108,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
@@ -67,15 +67,15 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 930,
+      "total": 931,
       "translated": 928,
-      "lastDate": "2026-10-08T17:52:55+00:00"
+      "lastDate": "2026-10-08T21:11:13+00:00"
     },
     {
       "name": "The Verge AI",
-      "total": 832,
+      "total": 835,
       "translated": 832,
-      "lastDate": "2026-10-08T17:00:00.000Z"
+      "lastDate": "2026-10-08T20:06:56.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -91,15 +91,15 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 581,
+      "total": 582,
       "translated": 580,
-      "lastDate": "2026-10-08T17:52:10+00:00"
+      "lastDate": "2026-10-08T19:16:27+00:00"
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 558,
+      "total": 560,
       "translated": 558,
-      "lastDate": "2026-10-08T15:23:11+00:00"
+      "lastDate": "2026-10-08T21:25:07+00:00"
     },
     {
       "name": "Pypi.org",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 443,
+      "total": 444,
       "translated": 441,
-      "lastDate": "2026-10-08T16:07:09+00:00"
+      "lastDate": "2026-10-08T19:10:35+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -139,9 +139,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 276,
+      "total": 277,
       "translated": 276,
-      "lastDate": "2026-10-06T18:38:00+00:00"
+      "lastDate": "2026-10-08T18:02:56+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-08T20:41:21.724Z"
+  "generatedAt": "2026-10-08T21:41:38.904Z"
 }
