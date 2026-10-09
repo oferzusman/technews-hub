@@ -1,9 +1,9 @@
 {
-  "total": 24404,
-  "translated": 24397,
+  "total": 24411,
+  "translated": 24404,
   "untranslated": 7,
-  "today": 84,
-  "week": 809,
+  "today": 91,
+  "week": 816,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,14 +19,14 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 1597,
-      "translated": 1597,
+      "total": 1601,
+      "translated": 1601,
       "lastDate": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1550,
-      "translated": 1550,
+      "total": 1551,
+      "translated": 1551,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
@@ -91,9 +91,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 587,
-      "translated": 586,
-      "lastDate": "2026-10-09T16:24:49+00:00"
+      "total": 588,
+      "translated": 587,
+      "lastDate": "2026-10-09T16:53:40+00:00"
     },
     {
       "name": "Prompt AI News (TG)",
@@ -127,9 +127,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 313,
-      "translated": 313,
-      "lastDate": "2026-10-09T14:24:31+00:00"
+      "total": 314,
+      "translated": 314,
+      "lastDate": "2026-10-09T16:45:39+00:00"
     },
     {
       "name": "Futurism",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-09T16:30:55.395Z"
+  "generatedAt": "2026-10-09T17:03:00.484Z"
 }
