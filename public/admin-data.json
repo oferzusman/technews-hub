@@ -1,9 +1,9 @@
 {
-  "total": 24465,
-  "translated": 24458,
+  "total": 24468,
+  "translated": 24461,
   "untranslated": 7,
-  "today": 20,
-  "week": 786,
+  "today": 23,
+  "week": 789,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -31,9 +31,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1414,
-      "translated": 1412,
-      "lastDate": "2026-10-10T06:12:41+00:00"
+      "total": 1415,
+      "translated": 1413,
+      "lastDate": "2026-10-10T09:02:01+00:00"
     },
     {
       "name": "Product Hunt",
@@ -91,9 +91,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 589,
-      "translated": 588,
-      "lastDate": "2026-10-10T07:29:53+00:00"
+      "total": 590,
+      "translated": 589,
+      "lastDate": "2026-10-10T08:18:01+00:00"
     },
     {
       "name": "Prompt AI News (TG)",
@@ -120,16 +120,16 @@
       "lastDate": "Wed, 30 Sep 2026 12:10:00 +0000"
     },
     {
+      "name": "Hi, AI English (TG)",
+      "total": 315,
+      "translated": 315,
+      "lastDate": "2026-10-10T07:44:04+00:00"
+    },
+    {
       "name": "The Register",
       "total": 314,
       "translated": 314,
       "lastDate": "Wed, 30 Sep 2026 18:03:07 +0200"
-    },
-    {
-      "name": "Hi, AI English (TG)",
-      "total": 314,
-      "translated": 314,
-      "lastDate": "2026-10-09T16:45:39+00:00"
     },
     {
       "name": "Futurism",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-10T09:01:09.293Z"
+  "generatedAt": "2026-10-10T09:03:23.960Z"
 }
