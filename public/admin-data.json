@@ -1,9 +1,9 @@
 {
-  "total": 24448,
-  "translated": 24441,
+  "total": 24464,
+  "translated": 24457,
   "untranslated": 7,
-  "today": 3,
-  "week": 769,
+  "today": 19,
+  "week": 785,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,21 +25,21 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1553,
-      "translated": 1553,
+      "total": 1554,
+      "translated": 1554,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1412,
-      "translated": 1410,
-      "lastDate": "2026-10-10T00:17:01+00:00"
+      "total": 1414,
+      "translated": 1412,
+      "lastDate": "2026-10-10T06:12:41+00:00"
     },
     {
       "name": "Product Hunt",
-      "total": 1376,
-      "translated": 1376,
-      "lastDate": "2026-10-08T15:51:14.000Z"
+      "total": 1381,
+      "translated": 1381,
+      "lastDate": "2026-10-10T01:06:33.000Z"
     },
     {
       "name": "The Decoder",
@@ -49,8 +49,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 1173,
-      "translated": 1173,
+      "total": 1175,
+      "translated": 1175,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 935,
-      "translated": 933,
-      "lastDate": "2026-10-09T21:21:08+00:00"
+      "total": 936,
+      "translated": 934,
+      "lastDate": "2026-10-10T07:13:38+00:00"
     },
     {
       "name": "The Verge AI",
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 772,
-      "translated": 772,
+      "total": 774,
+      "translated": 774,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 570,
-      "translated": 570,
-      "lastDate": "2026-10-10T00:23:07+00:00"
+      "total": 572,
+      "translated": 572,
+      "lastDate": "2026-10-10T06:25:07+00:00"
     },
     {
       "name": "Pypi.org",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 447,
-      "translated": 445,
-      "lastDate": "2026-10-09T15:12:17+00:00"
+      "total": 448,
+      "translated": 446,
+      "lastDate": "2026-10-10T06:41:37+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-10T02:47:25.755Z"
+  "generatedAt": "2026-10-10T07:15:58.771Z"
 }
