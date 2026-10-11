@@ -530382,6 +530382,291 @@
       "priority": "hot",
       "fetchedAt": "2026-10-11T14:40:53.087Z",
       "created_at": "2026-10-11T14:40:53.087Z"
+    },
+    {
+      "id": 24577,
+      "source": "TechCrunch AI",
+      "title_en": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "description_en": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "image_url": null,
+      "pub_date": "Sun, 11 Oct 2026 16:52:33 +0000",
+      "author": "Anthony Ha",
+      "categories": [
+        "AI",
+        "Government & Policy",
+        "Amazon",
+        "data centers",
+        "Equity podcast"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-11T17:59:27.800Z",
+      "created_at": "2026-10-11T17:59:27.800Z"
+    },
+    {
+      "id": 24578,
+      "source": "Ars Technica",
+      "title_en": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
+      "description_en": "Also: new trailer for Godzilla Minus Zero, the sequel to Takashi Yamazaki’s kaiju epic, Godzilla Minus One",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/NYCC1-1152x648-1791729996.jpg",
+      "pub_date": "Sun, 11 Oct 2026 14:50:24 +0000",
+      "author": "\n                    Jennifer Ouellette\n                ",
+      "categories": [
+        "Culture",
+        "Blade Runner 2099",
+        "entertainment",
+        "films",
+        "Godzilla Minus Zero",
+        "New York Comic Con",
+        "prime video",
+        "streaming television",
+        "Toho",
+        "Trailers"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-11T17:59:27.876Z",
+      "created_at": "2026-10-11T17:59:27.876Z"
+    },
+    {
+      "id": 24579,
+      "source": "The Decoder",
+      "title_en": "AI agent teams waste massive tokens for barely measurable quality gains, research finds",
+      "description_en": "Teams of AI agents barely outperform solo agents but cost up to 5.1x more, according to Vals AI. Only one out of four tests with GPT-6 Sol and Claude Opus 5.5 showed a measurable gain. Anthropic's own data backs this up: beyond ten agents, quality plateaus while token costs keep climbing.\nThe article AI agent teams waste massive tokens for barely measurable quality gains, research finds appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/",
+      "image_url": null,
+      "pub_date": "Sun, 11 Oct 2026 15:39:26 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Agents",
+        "AI agents"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-11T17:59:29.108Z",
+      "created_at": "2026-10-11T17:59:29.108Z"
+    },
+    {
+      "id": 24580,
+      "source": "The Guardian AI",
+      "title_en": "Feelgood factor of human interaction | Brief letters",
+      "description_en": "Happy hormones | Fuel costs | Drive-in parking | Guys and girls | Young or old? | Singapore pollution\nRe your report (‘Pull the plug’: protesters resort to direct action against AI firms, 6 October), the US neuroscientist Ben Rein has shown that there is a fundamental difference in our cognitive response according to the type of interaction we have. In-person meetings and conversations show a dramatic increase in serotonin, oxytocin and dopamine – “feelgood” hormones – compared with online inter",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/science/2026/oct/11/feelgood-factor-of-human-interaction",
+      "image_url": "https://i.guim.co.uk/img/media/02c3c20a1556abcff1f1e6f2907168531763d5bc/719_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=68d9ebfc159408e94bf3913eb08f083e",
+      "pub_date": "Sun, 11 Oct 2026 15:52:20 GMT",
+      "author": "Guardian Staff",
+      "categories": [
+        {
+          "_": "Psychology",
+          "$": {
+            "domain": "https://www.theguardian.com/science/psychology"
+          }
+        },
+        {
+          "_": "Happiness",
+          "$": {
+            "domain": "https://www.theguardian.com/lifeandstyle/happiness"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Society",
+          "$": {
+            "domain": "https://www.theguardian.com/society/society"
+          }
+        },
+        {
+          "_": "Household bills",
+          "$": {
+            "domain": "https://www.theguardian.com/money/household-bills"
+          }
+        },
+        {
+          "_": "Money",
+          "$": {
+            "domain": "https://www.theguardian.com/money/money"
+          }
+        },
+        {
+          "_": "Energy bills",
+          "$": {
+            "domain": "https://www.theguardian.com/money/energy"
+          }
+        },
+        {
+          "_": "Formula One",
+          "$": {
+            "domain": "https://www.theguardian.com/sport/formulaone"
+          }
+        },
+        {
+          "_": "Singapore",
+          "$": {
+            "domain": "https://www.theguardian.com/world/singapore"
+          }
+        },
+        {
+          "_": "Pollution",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/pollution"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-11T17:59:30.251Z",
+      "created_at": "2026-10-11T17:59:30.251Z"
+    },
+    {
+      "id": 24581,
+      "source": "Interesting Engineering",
+      "title_en": "A 16-foot Roman temple to Mars, complete with Victoria statuette, unearthed near Frankfurt",
+      "description_en": "Archaeologists in Germany have uncovered the remains of a Roman temple that appears to have...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/culture/roman-temple-mars-kapersburg-germany-forest-floor",
+      "image_url": "https://www.youtube.com/embed/5ZQV8zFNVhE",
+      "pub_date": "Sun, 11 Oct 2026 17:31:51 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "Culture"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-11T17:59:30.803Z",
+      "created_at": "2026-10-11T17:59:30.803Z"
+    },
+    {
+      "id": 24582,
+      "source": "Interesting Engineering",
+      "title_en": "US Coast Guard to add MQ-9B drones with 30-hour flight time to boost surveillance",
+      "description_en": "The U.S. Coast Guard has ordered four MQ-9B long-range unmanned aircraft from General Atomics in...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-coast-guard-add-drones-fleet",
+      "image_url": "https://www.youtube.com/embed/2-Fj3WvSFqg",
+      "pub_date": "Sun, 11 Oct 2026 16:00:33 +0000",
+      "author": "Maria Mocerino",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-11T17:59:30.803Z",
+      "created_at": "2026-10-11T17:59:30.803Z"
+    },
+    {
+      "id": 24583,
+      "source": "Interesting Engineering",
+      "title_en": "US firm unveils 864-mile-range Troublemaker drone for one-way attack missions",
+      "description_en": "US defense contractor Ideal Aerosmith has unveiled Troublemaker, a Group 3 uncrewed aircraft designed to...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-troublemaker-drone-ideal-aerosmith",
+      "image_url": "https://www.youtube.com/embed/uK7VgEKiJ7c",
+      "pub_date": "Sun, 11 Oct 2026 14:45:34 +0000",
+      "author": "Bojan Stojkovski",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-11T17:59:30.803Z",
+      "created_at": "2026-10-11T17:59:30.803Z"
+    },
+    {
+      "id": 24584,
+      "source": "Tom's Hardware",
+      "title_en": "Console market craters as Xbox sales crash 33% to the lowest since launch 25 years ago, PS5 sales drop 25%",
+      "description_en": "PlayStation sales dropped by 25% YTD compared to last year, while Xbox contracted by 33%, marking the biggest decline in retail sales over the past decade.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/console-gaming/console-market-craters-as-xbox-sales-crash-33-percent-to-the-lowest-since-launch-25-years-ago-ps5-sales-drop-25-percent-steep-price-hikes-push-series-x-to-usd800-and-ps5-pro-to-usd900",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/aG7yU8AZk2PDc4L8cPh9wY-1920-80.jpg",
+      "pub_date": "Sun, 11 Oct 2026 16:30:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Console Gaming",
+        "Video Games"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-11T17:59:32.615Z",
+      "created_at": "2026-10-11T17:59:32.615Z"
+    },
+    {
+      "id": 24585,
+      "source": "Data Science ODS.ai (TG)",
+      "title_en": "Всем привет!Встречайте воскресный выпуск подкаста \"Капитанский мостик\". В этот раз подкаст проводился вживую, как часть программы Data Fest Siberia 7. Ведущие Валентин Малых и Дмитрий Колодезев разбир",
+      "description_en": "Всем привет!Встречайте воскресный выпуск подкаста \"Капитанский мостик\". В этот раз подкаст проводился вживую, как часть программы Data Fest Siberia 7. Ведущие Валентин Малых и Дмитрий Колодезев разбирали главные ИИ-события недели, главная тема — математика, созданная ИИ.Смотрите видео на каналах ⤵️ODS VK VideoODS YouTube📩 Присылайте новости для обсуждения в канал \"Дата-капитаны\" в mattermost (авторизуйтесь через ODS.ai).",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/opendatascience/3443",
+      "image_url": "https://cdn4.telesco.pe/file/dHDnKSQm5n6C646ezZLdx3XP9xRCpS-lLzFfV4mA2mw3p-5sZw_JsW7eJQ24YLPeIoxxym6LvoqcTeGl24SpXvowcMRzBslrK1qTTWlw8RRJ4gQ4LZNsu2E_fmXZamwoOFHzrD_RA0HZ1lKJRjl0Qvlfp5FS1tQuUa1mUZHbvjP4orOYl0d8KtwsGgfscRf7-QA1-3D30i2uFxe9DBESeSe812RFzy7R0YTURGv2IMoSYD7zwpACPPtVKPOA9Es7z51mNxWvRceOrOwQnDYXUv_46ev1VGNS1CWdaGdWLoidF5w2845x9sUDwIzIHFA_96Kvx6AN22WF07oRFxT6wg.jpg",
+      "pub_date": "2026-10-11T16:30:20+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-11T17:59:34.370Z",
+      "created_at": "2026-10-11T17:59:34.370Z"
+    },
+    {
+      "id": 24586,
+      "source": "AI Post (TG)",
+      "title_en": "😐 Jensen Huang: China is no longer catching up in AI. In many fields, it has become advanced.Nvidia's CEO said it clearly:\"50% of the world's AI researchers are Chinese.\"\"70% of AI patents last year ",
+      "description_en": "😐 Jensen Huang: China is no longer catching up in AI. In many fields, it has become advanced.Nvidia's CEO said it clearly:\"50% of the world's AI researchers are Chinese.\"\"70% of AI patents last year were published in China.\"\"China's AI ecosystem is vibrant, rich, and unbelievably innovative.\"\"Nine of the top ten science and technology schools in the world are now in China.\"\"We used to lead most of these fields. Now they lead most of them.\"The statement from the man who sells chips to both sides",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8443",
+      "image_url": null,
+      "pub_date": "2026-10-11T17:18:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-11T17:59:34.400Z",
+      "created_at": "2026-10-11T17:59:34.400Z"
+    },
+    {
+      "id": 24587,
+      "source": "AI Post (TG)",
+      "title_en": "God-like super intelligence arrives. First three things you ask for: 1. ___________2. ___________3. ___________",
+      "description_en": "God-like super intelligence arrives. First three things you ask for: 1. ___________2. ___________3. ___________",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8444",
+      "image_url": null,
+      "pub_date": "2026-10-11T17:23:54+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-11T17:59:34.400Z",
+      "created_at": "2026-10-11T17:59:34.400Z"
     }
   ]
 }
