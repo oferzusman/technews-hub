@@ -1,26 +1,26 @@
 {
-  "total": 24576,
-  "translated": 24569,
+  "total": 24587,
+  "translated": 24580,
   "untranslated": 7,
-  "today": 48,
-  "week": 822,
+  "today": 59,
+  "week": 833,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2281,
-      "translated": 2281,
+      "total": 2282,
+      "translated": 2282,
       "lastDate": "Wed, 30 Sep 2026 18:00:39 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 2082,
-      "translated": 2082,
+      "total": 2085,
+      "translated": 2085,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1609,
-      "translated": 1609,
+      "total": 1610,
+      "translated": 1610,
       "lastDate": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
     {
@@ -31,9 +31,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1424,
-      "translated": 1422,
-      "lastDate": "2026-10-11T14:25:27+00:00"
+      "total": 1426,
+      "translated": 1424,
+      "lastDate": "2026-10-11T17:23:54+00:00"
     },
     {
       "name": "Product Hunt",
@@ -43,14 +43,14 @@
     },
     {
       "name": "The Decoder",
-      "total": 1338,
-      "translated": 1338,
+      "total": 1339,
+      "translated": 1339,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
     {
       "name": "The Guardian AI",
-      "total": 1182,
-      "translated": 1182,
+      "total": 1183,
+      "translated": 1183,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 1054,
-      "translated": 1054,
+      "total": 1055,
+      "translated": 1055,
       "lastDate": "Wed, 30 Sep 2026 20:44:48 +0000"
     },
     {
@@ -163,9 +163,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 145,
-      "translated": 145,
-      "lastDate": "2026-10-07T10:45:58+00:00"
+      "total": 146,
+      "translated": 146,
+      "lastDate": "2026-10-11T16:30:20+00:00"
     },
     {
       "name": "Onefootball.com",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-11T14:42:51.607Z"
+  "generatedAt": "2026-10-11T18:01:16.904Z"
 }
