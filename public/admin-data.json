@@ -1,32 +1,32 @@
 {
-  "total": 24559,
-  "translated": 24552,
+  "total": 24573,
+  "translated": 24566,
   "untranslated": 7,
-  "today": 31,
-  "week": 805,
+  "today": 45,
+  "week": 819,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2278,
-      "translated": 2278,
+      "total": 2280,
+      "translated": 2280,
       "lastDate": "Wed, 30 Sep 2026 18:00:39 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 2079,
-      "translated": 2079,
+      "total": 2081,
+      "translated": 2081,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1608,
-      "translated": 1608,
+      "total": 1609,
+      "translated": 1609,
       "lastDate": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1560,
-      "translated": 1560,
+      "total": 1561,
+      "translated": 1561,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 1333,
-      "translated": 1333,
+      "total": 1338,
+      "translated": 1338,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 938,
-      "translated": 936,
-      "lastDate": "2026-10-10T21:05:01+00:00"
+      "total": 939,
+      "translated": 937,
+      "lastDate": "2026-10-11T13:32:01+00:00"
     },
     {
       "name": "The Verge AI",
@@ -91,15 +91,15 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 591,
-      "translated": 590,
-      "lastDate": "2026-10-10T14:24:35+00:00"
+      "total": 592,
+      "translated": 591,
+      "lastDate": "2026-10-11T13:08:28+00:00"
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 582,
-      "translated": 582,
-      "lastDate": "2026-10-11T10:36:27+00:00"
+      "total": 583,
+      "translated": 583,
+      "lastDate": "2026-10-11T13:37:07+00:00"
     },
     {
       "name": "Pypi.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-11T13:02:13.809Z"
+  "generatedAt": "2026-10-11T14:17:00.757Z"
 }
