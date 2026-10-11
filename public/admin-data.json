@@ -1,9 +1,9 @@
 {
-  "total": 24532,
-  "translated": 24525,
+  "total": 24538,
+  "translated": 24531,
   "untranslated": 7,
-  "today": 4,
-  "week": 778,
+  "today": 10,
+  "week": 784,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2076,
-      "translated": 2076,
+      "total": 2078,
+      "translated": 2078,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -25,15 +25,15 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1558,
-      "translated": 1558,
+      "total": 1559,
+      "translated": 1559,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1419,
-      "translated": 1417,
-      "lastDate": "2026-10-11T00:10:11+00:00"
+      "total": 1420,
+      "translated": 1418,
+      "lastDate": "2026-10-11T03:15:15+00:00"
     },
     {
       "name": "Product Hunt",
@@ -55,8 +55,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 1120,
-      "translated": 1120,
+      "total": 1121,
+      "translated": 1121,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -97,9 +97,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 579,
-      "translated": 579,
-      "lastDate": "2026-10-11T00:58:07+00:00"
+      "total": 580,
+      "translated": 580,
+      "lastDate": "2026-10-11T03:59:07+00:00"
     },
     {
       "name": "Pypi.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-11T01:31:45.783Z"
+  "generatedAt": "2026-10-11T06:12:36.027Z"
 }
