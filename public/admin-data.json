@@ -1,7 +1,7 @@
 {
   "total": 24705,
-  "translated": 24696,
-  "untranslated": 9,
+  "translated": 24698,
+  "untranslated": 7,
   "today": 105,
   "week": 812,
   "sources": [
@@ -14,7 +14,7 @@
     {
       "name": "Interesting Engineering",
       "total": 2097,
-      "translated": 2096,
+      "translated": 2097,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -32,7 +32,7 @@
     {
       "name": "AI Post (TG)",
       "total": 1437,
-      "translated": 1434,
+      "translated": 1435,
       "lastDate": "2026-10-12T23:34:02+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-12T23:55:42.989Z"
+  "generatedAt": "2026-10-12T23:56:04.177Z"
 }
