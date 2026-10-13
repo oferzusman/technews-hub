@@ -533590,6 +533590,256 @@
       "priority": "hot",
       "fetchedAt": "2026-10-13T01:52:56.043Z",
       "created_at": "2026-10-13T01:52:56.043Z"
+    },
+    {
+      "id": 24714,
+      "source": "The Guardian AI",
+      "title_en": "Threat of AI share crash puts world financial stability at risk, says IMF",
+      "description_en": "High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacks\nThe threat of an AI share price crash rippling out across global markets is putting world financial stability at risk, the International Monetary fund has warned.\nIn its twice-yearly Global Financial Stability Report, the IMF highlighted the sky-high valuations for AI companies along with their increasing debt pile as one reason that risks in the system are “elevated”.\n Continue reading",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "image_url": "https://i.guim.co.uk/img/media/e66d4b83821641865a2b61c557a735880c9734e0/936_0_4064_3251/master/4064.jpg?width=140&quality=85&auto=format&fit=max&s=64f8d89d1094aed1c2d57aeff5d62a4b",
+      "pub_date": "Tue, 13 Oct 2026 03:15:12 GMT",
+      "author": "Heather Stewart in Bangkok",
+      "categories": [
+        {
+          "_": "Economics",
+          "$": {
+            "domain": "https://www.theguardian.com/business/economics"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "International Monetary Fund (IMF)",
+          "$": {
+            "domain": "https://www.theguardian.com/business/imf"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-13T03:20:22.698Z",
+      "created_at": "2026-10-13T03:20:22.698Z"
+    },
+    {
+      "id": 24715,
+      "source": "The Guardian AI",
+      "title_en": "IMF warns global economy ‘could soon test the limits of resilience’",
+      "description_en": "World Economic Outlook says states’ oil stocks are low and budgets are overstretched, as it upgrades UK GDP growth forecast for 2026\n\nDeveloping nations face triple shock, UN warns\n\nThe global economy “could soon test the limits of resilience”, as emergency oil stocks run low and government budgets become overstretched, the International Monetary Fund has warned.\nIn its twice-yearly World Economic Outlook, the IMF said global growth had withstood the Middle East conflict better than feared over ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
+      "image_url": "https://i.guim.co.uk/img/media/ebc2fbfb05a20eb6eda10742da9aad5434fc5293/400_0_4209_3368/master/4209.jpg?width=140&quality=85&auto=format&fit=max&s=bf11b7352c42f0d10d91375b1280c7f7",
+      "pub_date": "Tue, 13 Oct 2026 02:00:11 GMT",
+      "author": "Heather Stewart in Bangkok",
+      "categories": [
+        {
+          "_": "International Monetary Fund (IMF)",
+          "$": {
+            "domain": "https://www.theguardian.com/business/imf"
+          }
+        },
+        {
+          "_": "World Bank",
+          "$": {
+            "domain": "https://www.theguardian.com/business/worldbank"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Economics",
+          "$": {
+            "domain": "https://www.theguardian.com/business/economics"
+          }
+        },
+        {
+          "_": "Global economy",
+          "$": {
+            "domain": "https://www.theguardian.com/business/global-economy"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Oil",
+          "$": {
+            "domain": "https://www.theguardian.com/business/oil"
+          }
+        },
+        {
+          "_": "Commodities",
+          "$": {
+            "domain": "https://www.theguardian.com/business/commodities"
+          }
+        },
+        {
+          "_": "Inflation",
+          "$": {
+            "domain": "https://www.theguardian.com/business/inflation"
+          }
+        },
+        {
+          "_": "Energy",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/energy"
+          }
+        },
+        {
+          "_": "Energy industry",
+          "$": {
+            "domain": "https://www.theguardian.com/business/energy-industry"
+          }
+        },
+        {
+          "_": "Middle East and north Africa",
+          "$": {
+            "domain": "https://www.theguardian.com/world/middleeast"
+          }
+        },
+        {
+          "_": "Kristalina Georgieva",
+          "$": {
+            "domain": "https://www.theguardian.com/business/kristalina-georgieva"
+          }
+        },
+        {
+          "_": "Environment",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/environment"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "US-Israel war on Iran",
+          "$": {
+            "domain": "https://www.theguardian.com/world/us-israel-war-on-iran"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Iran",
+          "$": {
+            "domain": "https://www.theguardian.com/world/iran"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-13T03:20:22.698Z",
+      "created_at": "2026-10-13T03:20:22.699Z"
+    },
+    {
+      "id": 24716,
+      "source": "CNBC Tech",
+      "title_en": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
+      "description_en": "Asian technology stocks tumbled Tuesday as a sell-off in U.S. semiconductor shares spilled into regional markets.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "image_url": null,
+      "pub_date": "Tue, 13 Oct 2026 02:49:17 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-13T03:20:25.498Z",
+      "created_at": "2026-10-13T03:20:25.498Z"
+    },
+    {
+      "id": 24717,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Anthropic says its new defenses cut distillation of Claude by 90 to 99%Anthropic published its anti-distillation playbook. It names Zhipu as a distiller of US cyber capabilities for GLM-5.3, and sa",
+      "description_en": "🚨 Anthropic says its new defenses cut distillation of Claude by 90 to 99%Anthropic published its anti-distillation playbook. It names Zhipu as a distiller of US cyber capabilities for GLM-5.3, and says tens of thousands of accounts got banned, often within two hours of an attack starting, with a classifier false positive rate under 0.1%.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/719",
+      "image_url": null,
+      "pub_date": "2026-10-13T03:01:07+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-13T03:20:32.101Z",
+      "created_at": "2026-10-13T03:20:32.101Z"
     }
   ]
 }
