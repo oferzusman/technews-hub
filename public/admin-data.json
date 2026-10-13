@@ -1,9 +1,9 @@
 {
-  "total": 24814,
+  "total": 24830,
   "translated": 24807,
-  "untranslated": 7,
-  "today": 109,
-  "week": 776,
+  "untranslated": 23,
+  "today": 125,
+  "week": 792,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,27 +13,27 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2105,
+      "total": 2108,
       "translated": 2105,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1630,
+      "total": 1631,
       "translated": 1630,
       "lastDate": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1574,
+      "total": 1576,
       "translated": 1574,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1444,
+      "total": 1445,
       "translated": 1442,
-      "lastDate": "2026-10-13T18:29:04+00:00"
+      "lastDate": "2026-10-13T21:17:01+00:00"
     },
     {
       "name": "Product Hunt",
@@ -43,19 +43,19 @@
     },
     {
       "name": "The Decoder",
-      "total": 1352,
+      "total": 1353,
       "translated": 1352,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
     {
       "name": "The Guardian AI",
-      "total": 1205,
+      "total": 1206,
       "translated": 1205,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
       "name": "New Atlas",
-      "total": 1131,
+      "total": 1132,
       "translated": 1131,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
@@ -67,15 +67,15 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 948,
+      "total": 949,
       "translated": 946,
-      "lastDate": "2026-10-13T16:02:47+00:00"
+      "lastDate": "2026-10-13T21:05:02+00:00"
     },
     {
       "name": "The Verge AI",
-      "total": 859,
+      "total": 862,
       "translated": 859,
-      "lastDate": "2026-10-13T18:00:00.000Z"
+      "lastDate": "2026-10-13T20:45:25.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -85,15 +85,15 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 606,
+      "total": 607,
       "translated": 606,
       "lastDate": "Wed, 30 Sep 2026 10:30:00 GMT"
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 601,
+      "total": 602,
       "translated": 601,
-      "lastDate": "2026-10-13T16:13:25+00:00"
+      "lastDate": "2026-10-13T19:14:13+00:00"
     },
     {
       "name": "Backdoor (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-13T21:00:25.729Z"
+  "generatedAt": "2026-10-13T21:46:40.412Z"
 }
