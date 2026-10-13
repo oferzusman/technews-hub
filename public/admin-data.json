@@ -1,9 +1,9 @@
 {
-  "total": 24798,
-  "translated": 24791,
+  "total": 24806,
+  "translated": 24799,
   "untranslated": 7,
-  "today": 93,
-  "week": 760,
+  "today": 101,
+  "week": 768,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,8 +19,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 1625,
-      "translated": 1625,
+      "total": 1628,
+      "translated": 1628,
       "lastDate": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 1350,
-      "translated": 1350,
+      "total": 1351,
+      "translated": 1351,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 856,
-      "translated": 856,
-      "lastDate": "2026-10-13T16:42:51.000Z"
+      "total": 858,
+      "translated": 858,
+      "lastDate": "2026-10-13T17:01:31.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -145,8 +145,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 263,
-      "translated": 263,
+      "total": 264,
+      "translated": 264,
       "lastDate": "Wed, 30 Sep 2026 00:00:00 GMT"
     },
     {
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 220,
-      "translated": 220,
-      "lastDate": "2026-10-13T16:19:51+00:00"
+      "total": 221,
+      "translated": 221,
+      "lastDate": "2026-10-13T17:02:13+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-13T17:01:30.298Z"
+  "generatedAt": "2026-10-13T17:50:47.583Z"
 }
