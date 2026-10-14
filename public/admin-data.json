@@ -1,14 +1,14 @@
 {
-  "total": 24899,
-  "translated": 24892,
+  "total": 24904,
+  "translated": 24897,
   "untranslated": 7,
-  "today": 55,
-  "week": 719,
+  "today": 60,
+  "week": 724,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2311,
-      "translated": 2311,
+      "total": 2313,
+      "translated": 2313,
       "lastDate": "Wed, 30 Sep 2026 18:00:39 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 1067,
-      "translated": 1067,
+      "total": 1068,
+      "translated": 1068,
       "lastDate": "Wed, 30 Sep 2026 20:44:48 +0000"
     },
     {
@@ -109,14 +109,14 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 456,
-      "translated": 454,
-      "lastDate": "2026-10-14T10:02:25+00:00"
+      "total": 457,
+      "translated": 455,
+      "lastDate": "2026-10-14T11:44:23+00:00"
     },
     {
       "name": "MIT Technology Review",
-      "total": 433,
-      "translated": 433,
+      "total": 434,
+      "translated": 434,
       "lastDate": "Wed, 30 Sep 2026 12:10:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-14T12:33:35.656Z"
+  "generatedAt": "2026-10-14T12:34:11.588Z"
 }
