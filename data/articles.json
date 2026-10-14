@@ -536940,23 +536940,6 @@
       "priority": "hot",
       "fetchedAt": "2026-10-14T00:53:47.451Z",
       "created_at": "2026-10-14T00:53:47.451Z"
-    },
-    {
-      "id": 24849,
-      "source": "Prompt AI News (TG)",
-      "title_en": "🍎 Apple already runs a GPU cloud out of idle MacsIt's called Minions, an internal system Apple describes as pooling idle Apple Silicon devices into a shared cluster for ML inference.It doesn't split ",
-      "description_en": "🍎 Apple already runs a GPU cloud out of idle MacsIt's called Minions, an internal system Apple describes as pooling idle Apple Silicon devices into a shared cluster for ML inference.It doesn't split one LLM across machines. It breaks big batch jobs into independent tasks, like embedding a million documents overnight.",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://t.me/prompt/729",
-      "image_url": null,
-      "pub_date": "2026-10-14T01:16:13+00:00",
-      "author": null,
-      "categories": [],
-      "translated": false,
-      "priority": "hot",
-      "fetchedAt": "2026-10-14T01:52:00.858Z",
-      "created_at": "2026-10-14T01:52:00.858Z"
     }
   ]
 }
