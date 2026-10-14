@@ -538966,6 +538966,497 @@
       "priority": "batch",
       "fetchedAt": "2026-10-14T15:58:52.145Z",
       "created_at": "2026-10-14T15:58:52.145Z"
+    },
+    {
+      "id": 24937,
+      "source": "The Verge AI",
+      "title_en": "My AI doppelganger tells me what to eat",
+      "description_en": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.\nFor the past 100 days or so, my mornings have had a new rhythm. When I wake up, the first thing I have to do is feed my digital twin. It consumes my metabolic data, and its first \"meal\" of the day is my body composition data, sent straight from a smart scale.\nOnce that's logged in th",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
+      "image_url": null,
+      "pub_date": "2026-10-14T17:00:00.000Z",
+      "author": "Victoria Song",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T17:35:27.246Z",
+      "created_at": "2026-10-14T17:35:27.246Z"
+    },
+    {
+      "id": 24938,
+      "source": "The Verge AI",
+      "title_en": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+      "description_en": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple leadership, including the vice president of the company's operations in Asia.\nThe filing, reported earlier by Reuters, is tied to a legal battle between Apple and OpenAI over trade secrets - but this time, OpenAI is doing the accusing. It a",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+      "image_url": null,
+      "pub_date": "2026-10-14T16:43:24.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T17:35:27.247Z",
+      "created_at": "2026-10-14T17:35:27.247Z"
+    },
+    {
+      "id": 24939,
+      "source": "The Verge AI",
+      "title_en": "Microsoft has a new machine learning tool to improve weather forecasts",
+      "description_en": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning.\nResearchers with the company say they've found a new, cost-effective way to make more accurate weather forecasts two to six weeks in advance - allowing farmers and emergency responders to plan ahead with greater certainty. The findings were published today in the journal Nature, and the tool is now open-source softw",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+      "image_url": null,
+      "pub_date": "2026-10-14T16:05:21.000Z",
+      "author": "Justine Calma",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T17:35:27.247Z",
+      "created_at": "2026-10-14T17:35:27.247Z"
+    },
+    {
+      "id": 24940,
+      "source": "The Verge AI",
+      "title_en": "Square’s new kiosk lets you talk to AI for help with your order",
+      "description_en": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk.\nSquare says the Kiosk, which has a large pill shape, has an \"agentic, conversational voice layer\" that \"fully understands a seller's menu and listens and responds in real time, enabling customers to order the way they'd naturally talk to staff.\" While talking with the AI agent, you can do things like ask questions and request modifications and substit",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/1009086/square-kiosk",
+      "image_url": null,
+      "pub_date": "2026-10-14T16:00:00.000Z",
+      "author": "Jay Peters",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T17:35:27.247Z",
+      "created_at": "2026-10-14T17:35:27.247Z"
+    },
+    {
+      "id": 24941,
+      "source": "The Verge AI",
+      "title_en": "Android is using AI to suss out scammers in Google Messages",
+      "description_en": "Begone, Bot. | Image: Google / Android\t\n\nAndroid is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Building on the Scam Detection feature in Google Messages, a new \"enhanced protection\" setting will be rolling out in the coming weeks that taps into cloud-based Gemini AI models to quickly evaluate a potential scammer's intentions in conversations with an unrecogn",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
+      "image_url": null,
+      "pub_date": "2026-10-14T16:00:00.000Z",
+      "author": "Jess Weatherbed",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T17:35:27.247Z",
+      "created_at": "2026-10-14T17:35:27.247Z"
+    },
+    {
+      "id": 24942,
+      "source": "The Decoder",
+      "title_en": "OpenAI will reportedly ship at least one model this year but its flagship still needs alignment work",
+      "description_en": "OpenAI is racing to finish its next flagship model, which uses the same looped transformer technique as Astra to boost math and coding performance. The tradeoff is that looping makes safety monitoring harder. Microsoft accidentally revealed details about how the technique works on a public page. Whether or not the flagship is ready in time, employees say one or two new models will likely ship by year's end.\nThe article OpenAI will reportedly ship at least one model this year but its flagship sti",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/",
+      "image_url": null,
+      "pub_date": "Wed, 14 Oct 2026 16:14:16 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T17:35:28.916Z",
+      "created_at": "2026-10-14T17:35:28.916Z"
+    },
+    {
+      "id": 24943,
+      "source": "OpenAI Blog",
+      "title_en": "Amp puts AI agents to work beyond code with OpenAI models",
+      "description_en": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/amp-beyond-coding",
+      "image_url": null,
+      "pub_date": "Wed, 14 Oct 2026 12:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Startup"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-14T17:35:29.758Z",
+      "created_at": "2026-10-14T17:35:29.758Z"
+    },
+    {
+      "id": 24944,
+      "source": "Hugging Face Blog",
+      "title_en": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "image_url": null,
+      "pub_date": "Wed, 14 Oct 2026 16:12:42 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T17:35:29.816Z",
+      "created_at": "2026-10-14T17:35:29.816Z"
+    },
+    {
+      "id": 24945,
+      "source": "New Atlas",
+      "title_en": "Tiny drone borrows unexpected feature from nature",
+      "description_en": "Thanks to their highly sensitive whiskers, which enable them to detect objects within reach before they get too close, rats and mice can hardly relate to the pain of a stubbed toe, despite having eight more toes than humans. This sensory organ lets rats scurry through buildings, sewers, burrows, and countless other environments with ease, regardless of visibility. Beyond touch, whiskers can also detect vibrations and even subtle air currents.\nContinue Reading\nCategory: Drones, Consumer Tech, Tec",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/drones/whiskers-drones-navigate-dark/",
+      "image_url": null,
+      "pub_date": "Wed, 14 Oct 2026 17:14:04 GMT",
+      "author": "Etiido Uko",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T17:35:30.756Z",
+      "created_at": "2026-10-14T17:35:30.756Z"
+    },
+    {
+      "id": 24946,
+      "source": "The Guardian AI",
+      "title_en": "Could AI ‘change the stakes’ in the development of bioweapons?",
+      "description_en": "Experts say the technology could help terrorists and nation states with production but that significant hurdles remain\nIn his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5, warned that AI had the potential to “change the stakes” on existing and even new bioweapons. Here we look at how AI might help in the development of bioweapons and the hurdles that remain.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/oct/14/could-ai-change-the-stakes-in-the-development-of-bioweapons",
+      "image_url": "https://i.guim.co.uk/img/media/dee8ec9d41a7f5522c622af9e1e3f43d78c6d567/128_0_3591_2872/master/3591.jpg?width=140&quality=85&auto=format&fit=max&s=0eb213696fefadfa8aa1b5efe3b0c05e",
+      "pub_date": "Wed, 14 Oct 2026 17:34:14 GMT",
+      "author": "Ian Sample Science editor",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Chatbots",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatbots"
+          }
+        },
+        {
+          "_": "Infectious diseases",
+          "$": {
+            "domain": "https://www.theguardian.com/science/infectiousdiseases"
+          }
+        },
+        {
+          "_": "MI5",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/mi5"
+          }
+        },
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        },
+        {
+          "_": "UK security and counter-terrorism",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uksecurity"
+          }
+        },
+        {
+          "_": "Science",
+          "$": {
+            "domain": "https://www.theguardian.com/science/science"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Biology",
+          "$": {
+            "domain": "https://www.theguardian.com/science/biology"
+          }
+        },
+        {
+          "_": "Microbiology",
+          "$": {
+            "domain": "https://www.theguardian.com/science/microbiology"
+          }
+        },
+        {
+          "_": "Weapons technology",
+          "$": {
+            "domain": "https://www.theguardian.com/science/weaponstechnology"
+          }
+        },
+        {
+          "_": "Synthetic biology",
+          "$": {
+            "domain": "https://www.theguardian.com/science/synthetic-biology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T17:35:30.972Z",
+      "created_at": "2026-10-14T17:35:30.972Z"
+    },
+    {
+      "id": 24947,
+      "source": "The Guardian AI",
+      "title_en": "To unlock Britain’s innovation potential, Labour needs to think outside the box | Letters",
+      "description_en": "Kate Fleming says the government must look beyond the models it rewards today, while Jenny Haigh says unlocking potential means recognising that creativity and science are partners\nGordon Brown wants Britain to invent, invest in and own the future (British households would be £5,000 richer if we were more innovative. Let’s unleash our talents, 9 October). But invent what, and for whom? His hunt for “lost Einsteins” rests on a narrow vision: a lone genius invents, commercialisation scales, the pr",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/education/2026/oct/14/to-unlock-britains-innovation-potential-labour-needs-to-think-outside-the-box",
+      "image_url": "https://i.guim.co.uk/img/media/de2702a47e74ece40f93998429a9d45b73c420f5/292_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=bf35c6c7da99c04f10c1e8a655cb0be3",
+      "pub_date": "Wed, 14 Oct 2026 16:19:16 GMT",
+      "author": "Guardian Staff",
+      "categories": [
+        {
+          "_": "Science",
+          "$": {
+            "domain": "https://www.theguardian.com/education/science"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Technology policy",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/technology-policy"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "Labour",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/labour"
+          }
+        },
+        {
+          "_": "Medical research",
+          "$": {
+            "domain": "https://www.theguardian.com/science/medical-research"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Gordon Brown",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/gordon-brown"
+          }
+        },
+        {
+          "_": "NHS",
+          "$": {
+            "domain": "https://www.theguardian.com/society/nhs"
+          }
+        },
+        {
+          "_": "Palantir",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/palantir"
+          }
+        },
+        {
+          "_": "Science",
+          "$": {
+            "domain": "https://www.theguardian.com/science/science"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T17:35:30.973Z",
+      "created_at": "2026-10-14T17:35:30.973Z"
+    },
+    {
+      "id": 24948,
+      "source": "Interesting Engineering",
+      "title_en": "China unleashes 13-foot robot titan with 39 hydraulics to crush over 1,100 pounds",
+      "description_en": "China’s NeodraDynamics Robotics has introduced a heavy-duty humanoid robot designed to handle industrial workloads beyond...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/china-neo1-hydraulic-humanoid-robot-1102-pound-payload",
+      "image_url": null,
+      "pub_date": "Wed, 14 Oct 2026 17:00:49 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T17:35:31.910Z",
+      "created_at": "2026-10-14T17:35:31.910Z"
+    },
+    {
+      "id": 24949,
+      "source": "Interesting Engineering",
+      "title_en": "US to get 46,000-square-foot new submarine repair center that can boost battle readiness",
+      "description_en": "The United States is set to get a new submarine repair center. The Trump administration...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-submarine-repair-center",
+      "image_url": null,
+      "pub_date": "Wed, 14 Oct 2026 16:21:35 +0000",
+      "author": "Prabhat Ranjan Mishra",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T17:35:31.910Z",
+      "created_at": "2026-10-14T17:35:31.910Z"
+    },
+    {
+      "id": 24950,
+      "source": "CNBC Tech",
+      "title_en": "OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor",
+      "description_en": "Katti said in a post on LinkedIn that he \"decided to move on to build something new.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/14/openais-sachin-katti-to-leave-infrastructure-role-stay-on-as-advisor.html",
+      "image_url": null,
+      "pub_date": "Wed, 14 Oct 2026 17:25:34 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T17:35:34.474Z",
+      "created_at": "2026-10-14T17:35:34.474Z"
+    },
+    {
+      "id": 24951,
+      "source": "CNBC Tech",
+      "title_en": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
+      "description_en": "Shares of CoreWeave sank 15%, while yields in its bonds blew out further.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
+      "image_url": null,
+      "pub_date": "Wed, 14 Oct 2026 17:06:17 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T17:35:34.474Z",
+      "created_at": "2026-10-14T17:35:34.474Z"
+    },
+    {
+      "id": 24952,
+      "source": "Backdoor (TG)",
+      "title_en": "Анализируем и исправляем устаревшие кодовые базы за один клик — Anthropic выкатила огромный и мощный скилл для работы с легаси.• Самое крутое: скилл не просто переписывает старую кодинговую базу, но а",
+      "description_en": "Анализируем и исправляем устаревшие кодовые базы за один клик — Anthropic выкатила огромный и мощный скилл для работы с легаси.• Самое крутое: скилл не просто переписывает старую кодинговую базу, но аргументирует, почему новая реализация лучше прежней.• Анализирует старую систему и извлекает из нее бизнес-логику.• Составляет план модернизации и отправляет вам на утверждение.• Переписывает или обновляет код, в том числе с переносом на другие языки программирования.• Запускает старую и новую реали",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32209",
+      "image_url": "https://cdn4.telesco.pe/file/ZPO0ZMUwRd39DTGLN39_F8YsiKPwi_p1IwFxsm3v81eHu8-YuXABXeys-7SYN1TkkuZEEQA5nvx8X_2zWmiAVur6GFsMnNdW-9bTe-vH6jD8Ol_EvpeuQCmwWan0E2kc5IIhU5e1juU-0QxQvOJXy-F6MCunQu3KiH-avgpqVduyrnLd4mWEizgV5rLtUX_qzOYmERXI4bmSoEDRwg7GLRhyVyGbM9XrfSWll3VWKQ-E7Jc_XZX_UgmBka1FmDAcftEg5CiU-OJRfQb5AIKgszpt0WzY7FraIHwcIMcDNXQ8Xi_jEplg16xX9e7xFpfV6mDUTwGzV8ALpNWUB4gMBQ.jpg",
+      "pub_date": "2026-10-14T16:25:48+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T17:35:37.387Z",
+      "created_at": "2026-10-14T17:35:37.387Z"
+    },
+    {
+      "id": 24953,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🙂 Recraft 4.1: The Fastest Image Generator, Now Free on @GPT4TelegrambotWe've added Recraft 4.1 Flash, the world's fastest image generation model, to our bot. It takes about 1.3 seconds to create an ",
+      "description_en": "🙂 Recraft 4.1: The Fastest Image Generator, Now Free on @GPT4TelegrambotWe've added Recraft 4.1 Flash, the world's fastest image generation model, to our bot. It takes about 1.3 seconds to create an image, so your inspiration won't fade while you wait for the next generation.The model is available for free in @GPT4Telegrambot, thanks to our friends at Recraft.✏️ Recraft models focus on aesthetics and precision in detail. They handle even the most unusual styles and the finest elements, which ma",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2859",
+      "image_url": "https://cdn4.telesco.pe/file/YmoV5dDybeXiLISN-LDhxn7bjHPDg37s2oEWoht3QlDjispORUx8_sS2Dx9on69xBjA87CUQ_VWj54B3aEEOWFUEQ75s6UEychEnyB6_F_jwv6HuhbByWqreQG2moHExV0nmC5IJuvbRH7zX_DfOCN5pGomfXSE4ZgqSN8-f8QoWXuRvVPXPvzkHATmyNujeYClYZxxLMj4_aMM-l3r7vTjoUkOEZTA073hGtWj-5_bsTibZXijs_VBi933_9zKbMW7YKtBiNzzrdC9tOELmcNat12mhrg4eWFtnRjzHgT4T80DvQSH0Ypk2YKVFF93EdoMezhBuiGN3Mgu-k-HOgw.jpg",
+      "pub_date": "2026-10-14T17:29:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T17:35:37.906Z",
+      "created_at": "2026-10-14T17:35:37.906Z"
+    },
+    {
+      "id": 24954,
+      "source": "AI Post (TG)",
+      "title_en": "🇺🇸 American tech billionaire and co-owner of Palantir Alex Karp has bought himself a 15,000 hectare property in northern Sweden for €25M.His newly founded Swedish company Cladonia describes itself a",
+      "description_en": "🇺🇸 American tech billionaire and co-owner of Palantir Alex Karp has bought himself a 15,000 hectare property in northern Sweden for €25M.His newly founded Swedish company Cladonia describes itself as engaged in forestry and denies any plans for data centers. The property is almost the size of the City of Stockholm and is located in the middle of nowhere.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8481",
+      "image_url": "https://cdn4.telesco.pe/file/ltZTV4iphzRmM6rJDbPrBPitwXluL3zK_7mboQ6DXl7jy5l0Ceylc4X-vlmOxu4PTaI_MjVLhDE_gYMp8yPk5PEcZRp6yPLHmuShe3khdJqxkwPYhaE927YSgcqoMecvReV0PzQHSAm66Np2f78IUNfeD_GQUtabl7AaQ86gSEaxJucAAnwprhF3N6i4KIdUp7ym_SZXXGxmLETyigzIyBy7VZbxhiZdZnPW9UXoKvn4lJ_gTg1zmOyIqP8nbcjggExLy8bUzFPIJin57ijJvUQA0qZGrhXYxxNm5CP7s5VmR85nhmoZfJgRb6oVQFaeCGgXqItjnr365a9dnTbYNw.jpg",
+      "pub_date": "2026-10-14T17:28:33+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T17:35:38.479Z",
+      "created_at": "2026-10-14T17:35:38.479Z"
+    },
+    {
+      "id": 24955,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 NYT: \"rogue\" AI agents from China chatted with researchersThe New York Times reports on a fleet of Chinese agents that talked back to the people studying them.• \"Rogue\" isn't defined yet. Autonomou",
+      "description_en": "🚨 NYT: \"rogue\" AI agents from China chatted with researchersThe New York Times reports on a fleet of Chinese agents that talked back to the people studying them.• \"Rogue\" isn't defined yet. Autonomous behavior and researcher-run experiments look the same from outside• The only detailed write-up is a third-party report from a site I don't know• I can't find a primary source or any raw logs",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/734",
+      "image_url": null,
+      "pub_date": "2026-10-14T16:21:13+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T17:35:38.980Z",
+      "created_at": "2026-10-14T17:35:38.980Z"
     }
   ]
 }
