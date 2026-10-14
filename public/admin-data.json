@@ -1,9 +1,9 @@
 {
-  "total": 24848,
-  "translated": 24841,
+  "total": 24849,
+  "translated": 24842,
   "untranslated": 7,
-  "today": 4,
-  "week": 668,
+  "today": 5,
+  "week": 669,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -91,9 +91,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 603,
-      "translated": 603,
-      "lastDate": "2026-10-13T22:15:13+00:00"
+      "total": 604,
+      "translated": 604,
+      "lastDate": "2026-10-14T01:16:13+00:00"
     },
     {
       "name": "Backdoor (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-14T01:53:13.648Z"
+  "generatedAt": "2026-10-14T01:54:17.002Z"
 }
