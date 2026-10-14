@@ -537156,6 +537156,928 @@
       "priority": "hot",
       "fetchedAt": "2026-10-14T06:51:31.533Z",
       "created_at": "2026-10-14T06:51:31.533Z"
+    },
+    {
+      "id": 24860,
+      "source": "MarkTechPost",
+      "title_en": "9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked",
+      "description_en": "Marktechpost ranks the 9 best AI gateways for 2026. We compare Bifrost, Portkey, LiteLLM, Kong, TrueFoundry, Cloudflare, Vercel, OpenRouter and Orq.ai on latency, pricing, licensing, governance and deployment.\nThe post 9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/10/14/best-ai-gateways-2026/",
+      "image_url": null,
+      "pub_date": "Wed, 14 Oct 2026 08:57:28 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "Applications",
+        "Artificial Intelligence",
+        "Comparison",
+        "Editors Pick",
+        "Enterprise AI",
+        "For Devs",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Top"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-14T11:17:18.536Z",
+      "created_at": "2026-10-14T11:17:18.536Z"
+    },
+    {
+      "id": 24861,
+      "source": "MarkTechPost",
+      "title_en": "Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents",
+      "description_en": "Liquid AI released LFM2.5-24B-A2B, an open-weight 24B Mixture-of-Experts reasoning model with 2B active parameters. It targets local agents, scoring 48.09 on LiveClaw and decoding 184 tokens/s on an Apple M5 Max.\nThe post Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/",
+      "image_url": null,
+      "pub_date": "Wed, 14 Oct 2026 07:50:40 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-14T11:17:18.537Z",
+      "created_at": "2026-10-14T11:17:18.537Z"
+    },
+    {
+      "id": 24862,
+      "source": "OpenAI Blog",
+      "title_en": "The EU’s next chapter in AI is agentic",
+      "description_en": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "image_url": null,
+      "pub_date": "Wed, 14 Oct 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Global Affairs"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-14T11:17:18.642Z",
+      "created_at": "2026-10-14T11:17:18.642Z"
+    },
+    {
+      "id": 24863,
+      "source": "The Guardian AI",
+      "title_en": "Nvidia, worth $5.5tn, donates $250m to UK for AI safety research",
+      "description_en": "Pledge spanning five years from world’s most valuable firm comes as concerns about AI agents have risen\nThe $5.5tn (£4.1tn) US chipmaker Nvidia is donating $250m worth of computing power to the UK to support AI safety research.\nThe donation from the world’s most valuable company comes as the UK government confirmed its AI Security Institute, which tests advance AI models, will be able to examine cutting-edge technology developed by companies such as OpenAI, Anthropic and Google before they are r",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research",
+      "image_url": "https://i.guim.co.uk/img/media/63fe41cf76dc85790ffaa07a8437c6647182b789/1000_0_4500_3600/master/4500.jpg?width=140&quality=85&auto=format&fit=max&s=c0f7ac9f0d2149e58a430df0c6d75775",
+      "pub_date": "Wed, 14 Oct 2026 10:10:37 GMT",
+      "author": "Dan Milmo Global technology editor",
+      "categories": [
+        {
+          "_": "Nvidia",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/nvidia"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T11:17:19.174Z",
+      "created_at": "2026-10-14T11:17:19.174Z"
+    },
+    {
+      "id": 24864,
+      "source": "The Guardian AI",
+      "title_en": "Tool and target: US law enforcement grapple with AI-enabled terrorism and anti-tech extremism",
+      "description_en": "From the FBI to local police departments, US authorities are increasingly warning of would-be terrorists using chatbots to plan attacks and anti-AI extremist threats \nIn May 2025, a 25-year-old man detonated a car bomb outside a Palm Springs fertility clinic, killing himself and injuring four others. For many, it was a wake up call about the threats to reproductive care facilities. For the FBI, though, it was also a sign of what the agency had feared for years: bad actors were using generative A",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/oct/14/ai-terror-plots-fbi-extremism",
+      "image_url": "https://i.guim.co.uk/img/media/f54684e8b424601b8f8bd69c9e4af12df299fdbd/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=59704e3f5fbb09ed03fcee1e21ac0c41",
+      "pub_date": "Wed, 14 Oct 2026 10:00:03 GMT",
+      "author": "Johana Bhuiyan and Nick Robins-Early",
+      "categories": [
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "West Coast",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/west-coast"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Far right (US)",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/far-right--us-"
+          }
+        },
+        {
+          "_": "US national security",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-national-security"
+          }
+        },
+        {
+          "_": "US policing",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-police"
+          }
+        },
+        {
+          "_": "FBI",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/fbi"
+          }
+        },
+        {
+          "_": "Datacenters – US",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/datacenters--us-"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Surveillance",
+          "$": {
+            "domain": "https://www.theguardian.com/world/surveillance"
+          }
+        },
+        {
+          "_": "Chatbots",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatbots"
+          }
+        },
+        {
+          "_": "NYPD",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/nypd"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T11:17:19.174Z",
+      "created_at": "2026-10-14T11:17:19.174Z"
+    },
+    {
+      "id": 24865,
+      "source": "The Guardian AI",
+      "title_en": "AI overlords say they want to democratise their technology. Here’s how | Richard Wilson and Clara Long",
+      "description_en": "A fight over a datacentre in Utah has been a testing ground for citizens’ assemblies, paving the way to oversight\nWhat’s your “(p)doom” – the percentage chance that rogue AI will create an existential catastrophe? Judging by their recent warnings, it is rising among tech bosses.\nOn 25 September, OpenAI paused training of its latest frontier models as reports of AI agents going rogue mounted. A day later, Australia’s Senate asked the bosses of OpenAI and Anthropic to appear before an inquiry afte",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/14/ai-overlords-democratise-technology",
+      "image_url": "https://i.guim.co.uk/img/media/ddaf0914ee2a78da5b3a0fe5c73996710342639d/431_0_4267_3414/master/4267.jpg?width=140&quality=85&auto=format&fit=max&s=adf57b32cac43c26d023572a5f02b72d",
+      "pub_date": "Wed, 14 Oct 2026 10:00:03 GMT",
+      "author": "Richard Wilson and Clara Long",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Sam Altman",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/sam-altman"
+          }
+        },
+        {
+          "_": "Dario Amodei",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/dario-amodei"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        },
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Utah",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/utah"
+          }
+        },
+        {
+          "_": "Datacentres",
+          "$": {
+            "domain": "https://www.theguardian.com/world/datacentres"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T11:17:19.174Z",
+      "created_at": "2026-10-14T11:17:19.174Z"
+    },
+    {
+      "id": 24866,
+      "source": "The Guardian AI",
+      "title_en": "Bank of England and IMF bosses warn of cyber threat to trust in financial system",
+      "description_en": "Kristalina Georgieva says online fraud could lead people to opt out of system and turn to ‘shoeboxes under their bed’\n\nBusiness live – latest updates\n\nThe heads of the Bank of England and the International Monetary Fund have issued a stark warning that rising cyber-attacks risk undermining trust in the financial system.\nSpeaking on a panel about online fraud at the IMF and World Bank meetings in Bangkok, the governor of the Bank of England, Andrew Bailey, pointed to alarming headlines about self",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/oct/14/bank-of-england-imf-bosses-warning-cyber-threat-to-trust",
+      "image_url": "https://i.guim.co.uk/img/media/a69c2863a51dad63d1de1240ba6c2c08ccfcf13a/293_0_4158_3326/master/4158.jpg?width=140&quality=85&auto=format&fit=max&s=0fbcf64df434b52bf196b6539009dc3d",
+      "pub_date": "Wed, 14 Oct 2026 09:07:59 GMT",
+      "author": "Heather Stewart in Bangkok",
+      "categories": [
+        {
+          "_": "Bank of England",
+          "$": {
+            "domain": "https://www.theguardian.com/business/bankofenglandgovernor"
+          }
+        },
+        {
+          "_": "International Monetary Fund (IMF)",
+          "$": {
+            "domain": "https://www.theguardian.com/business/imf"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Andrew Bailey",
+          "$": {
+            "domain": "https://www.theguardian.com/business/andrew-bailey"
+          }
+        },
+        {
+          "_": "Kristalina Georgieva",
+          "$": {
+            "domain": "https://www.theguardian.com/business/kristalina-georgieva"
+          }
+        },
+        {
+          "_": "Cybercrime",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/cybercrime"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Economics",
+          "$": {
+            "domain": "https://www.theguardian.com/business/economics"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "World Bank",
+          "$": {
+            "domain": "https://www.theguardian.com/business/worldbank"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-14T11:17:19.174Z",
+      "created_at": "2026-10-14T11:17:19.174Z"
+    },
+    {
+      "id": 24867,
+      "source": "Interesting Engineering",
+      "title_en": "Humanoid robot learns to duck, step over objects, and avoid obstacles with new system",
+      "description_en": "Galbot introduced PASSAGE, a research framework that helps humanoid robots navigate cluttered environments by adapting...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/humanoid-robot-learns-to-duck-step-over-objects",
+      "image_url": "https://www.youtube.com/embed/D9Br0hD6jUw",
+      "pub_date": "Wed, 14 Oct 2026 10:20:43 +0000",
+      "author": "Jijo Malayil",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T11:17:21.573Z",
+      "created_at": "2026-10-14T11:17:21.573Z"
+    },
+    {
+      "id": 24868,
+      "source": "Interesting Engineering",
+      "title_en": "US Army and Navy labs push TRICON Arctic shelters from minus 15 to minus 65 degrees",
+      "description_en": "U.S. Army and Navy engineers have pushed a deployable shelter system built around Triple Container,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/army-navy-labs-tricon-arctic-shelter-minus-65-degrees",
+      "image_url": null,
+      "pub_date": "Wed, 14 Oct 2026 09:01:33 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-14T11:17:21.573Z",
+      "created_at": "2026-10-14T11:17:21.573Z"
+    },
+    {
+      "id": 24869,
+      "source": "Tom's Hardware",
+      "title_en": "Ledger to review sales and anti-tamper policies after $93 million hardware-wallet supply chain attack",
+      "description_en": "Ledger is reviewing chain-of-custody practices and anti-tamper protections after modified hardware wallets sold through a third party were allegedly fitted with LTE implants that captured recovery phrases and enabled $93 million in crypto theft.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/ledger-to-review-sales-and-anti-tamper-policies-after-usd93-million-hardware-wallet-supply-chain-attack-rogue-lte-implants-reportedly-stole-users-recovery-phrases",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/NS2wkDQAUwMHTW5V3sMuEH-1920-80.jpg",
+      "pub_date": "Wed, 14 Oct 2026 10:50:00 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "Cryptocurrency",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T11:17:21.849Z",
+      "created_at": "2026-10-14T11:17:21.849Z"
+    },
+    {
+      "id": 24870,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia GPU prices spike in Japan; prices up to 41% higher than Amazon US",
+      "description_en": "A Japanese retailer has increased the prices of RTX 50-series GPUs between 12.71% and 41.10%, with the mainstream models bearing the brunt of the price increases.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-gpu-prices-spike-in-japan-prices-up-to-41-percent-higher-than-amazon-us-rtx-5060-ti-sees-the-biggest-increase-among-the-rtx-50-series-stack",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/U37JMzEFMUFRssy5cPVvyE-1920-80.jpg",
+      "pub_date": "Wed, 14 Oct 2026 10:25:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T11:17:21.849Z",
+      "created_at": "2026-10-14T11:17:21.849Z"
+    },
+    {
+      "id": 24871,
+      "source": "Tom's Hardware",
+      "title_en": "32GB of DDR5 6000 RAM now costs $450",
+      "description_en": "32GB of DDR5 6000 RAM now costs $450, as supply for consumer DIMMs remains constrained.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-6000-ram-now-costs-usd450-ai-induced-shortage-reaches-worst-milestone-yet",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/DYUN2HyZnobuVGKmVLbLyU-1920-80.jpg",
+      "pub_date": "Wed, 14 Oct 2026 10:10:36 +0000",
+      "author": " Stephen Warwick ",
+      "categories": [
+        "DDR5",
+        "PC Components",
+        "RAM",
+        "DRAM"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T11:17:21.849Z",
+      "created_at": "2026-10-14T11:17:21.849Z"
+    },
+    {
+      "id": 24872,
+      "source": "Tom's Hardware",
+      "title_en": "Modder injects leaked DLSS 5 4x Multipass on 1996 Quake",
+      "description_en": "Ukrainian modder puts DLSS 5 over the original Quake, and the results are not impressive compared to the RTX Quake mod.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/modder-put-dlss-5-4x-multipass-on-1996-quake-looks-worse-than-rtx-modded-quake",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/W4vRfzZhTSPzsD8hRLvzdf-1920-80.jpg",
+      "pub_date": "Wed, 14 Oct 2026 10:00:00 +0000",
+      "author": " Jhet Borja ",
+      "categories": [
+        "PC Gaming",
+        "Video Games"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T11:17:21.849Z",
+      "created_at": "2026-10-14T11:17:21.849Z"
+    },
+    {
+      "id": 24873,
+      "source": "CNBC Tech",
+      "title_en": "Tech giants race to get AI gadgets on shelves for holiday rush",
+      "description_en": "With the holidays just a couple months away, tech companies are betting this is finally the year that AI gadgets make the shopping list.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/14/tech-giants-race-to-get-ai-gadgets-on-shelves-for-holiday-rush.html",
+      "image_url": null,
+      "pub_date": "Wed, 14 Oct 2026 11:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T11:17:22.439Z",
+      "created_at": "2026-10-14T11:17:22.439Z"
+    },
+    {
+      "id": 24874,
+      "source": "Product Hunt",
+      "title_en": "Gemini 4 Argon",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/gemini-4-argon-2",
+      "image_url": null,
+      "pub_date": "2026-10-13T17:45:29.000Z",
+      "author": "KP",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-14T11:17:26.719Z",
+      "created_at": "2026-10-14T11:17:26.719Z"
+    },
+    {
+      "id": 24875,
+      "source": "Product Hunt",
+      "title_en": "daily.dev",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/daily-dev",
+      "image_url": null,
+      "pub_date": "2026-10-12T18:30:13.000Z",
+      "author": "fmerian",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-14T11:17:26.719Z",
+      "created_at": "2026-10-14T11:17:26.719Z"
+    },
+    {
+      "id": 24876,
+      "source": "Product Hunt",
+      "title_en": "Spinachi AI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/spinachi-ai",
+      "image_url": null,
+      "pub_date": "2026-10-05T21:06:36.000Z",
+      "author": "Chinmay Kothari",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-14T11:17:26.720Z",
+      "created_at": "2026-10-14T11:17:26.720Z"
+    },
+    {
+      "id": 24877,
+      "source": "Product Hunt",
+      "title_en": "Make0 Brain",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/make0-brain",
+      "image_url": null,
+      "pub_date": "2026-10-10T11:10:23.000Z",
+      "author": "Saurabh Singh",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-14T11:17:26.720Z",
+      "created_at": "2026-10-14T11:17:26.720Z"
+    },
+    {
+      "id": 24878,
+      "source": "Product Hunt",
+      "title_en": "Microsoft Maia 300",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/microsoft-maia-300",
+      "image_url": null,
+      "pub_date": "2026-10-12T13:33:08.000Z",
+      "author": "Rohan Chaubey",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-14T11:17:26.720Z",
+      "created_at": "2026-10-14T11:17:26.720Z"
+    },
+    {
+      "id": 24879,
+      "source": "Product Hunt",
+      "title_en": "Retriever AI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/rtrvr-ai",
+      "image_url": null,
+      "pub_date": "2026-10-08T10:45:33.000Z",
+      "author": "Rohan Chaubey",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-14T11:17:26.720Z",
+      "created_at": "2026-10-14T11:17:26.720Z"
+    },
+    {
+      "id": 24880,
+      "source": "Product Hunt",
+      "title_en": "Screenwell.ai",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/screenwell-ai",
+      "image_url": null,
+      "pub_date": "2026-10-10T15:32:34.000Z",
+      "author": "screenwell.ai",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-14T11:17:26.720Z",
+      "created_at": "2026-10-14T11:17:26.720Z"
+    },
+    {
+      "id": 24881,
+      "source": "XOR Journal (TG)",
+      "title_en": "17 октября в Москве пройдёт конференция AI Driver & RecSys — главное профильное событие года для тех, кто создаёт, исследует и развивает рекомендательные системы.  ⌨️На площадке Сбера соберутся экспер",
+      "description_en": "17 октября в Москве пройдёт конференция AI Driver & RecSys — главное профильное событие года для тех, кто создаёт, исследует и развивает рекомендательные системы.  ⌨️На площадке Сбера соберутся эксперты крупнейших IT-компаний, которые создают рекомендации для миллионов пользователей. Будут разбирать реальные кейсы, свежие исследования, новые подходы и главные вызовы RecSys. Причём вы лично сможете пообщаться с экспертами.И да, участие бесплатное! Но количество мест для очного участия ограничено,",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10303",
+      "image_url": "https://cdn4.telesco.pe/file/VFgks7AfIykmMNzbouRBsnGBWB2nzc-zZJjkXricbOLtNopS1a5BPU22t1__BaGd1ua52UfZihRtf0GXF5kXz1eOx07iDoICKUcrMBX8K1szr0AUjpTF3J_rHOvueR0wNaHP_Uln8WBQVN2oFGbo8PhkD2o4_yVaLNNNWt1M0RavnXSXMfZhshnDyM2144MmawYtmMuw-aS0wX5M-5X_l6gSmQgIf4W8tpEs6_9wuK3Rub7MFJndZuPDZpVi-MatAKrG_tAvvSR35Pizdk2juKxWAcsS_z-Ri0Wb0oDk2Ye1TFyuaClncVEaV6kEZkWUh_dPQK9Nm7UTtr6vzzQTrw.jpg",
+      "pub_date": "2026-10-14T07:40:03+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-14T11:17:27.385Z",
+      "created_at": "2026-10-14T11:17:27.385Z"
+    },
+    {
+      "id": 24882,
+      "source": "XOR Journal (TG)",
+      "title_en": "Легчайший взлом: пароль «123456» помог хакеру украсть данные 8,8 миллиона человек 🤯В Дании злоумышленник получил доступ к государственному реестру населения через аккаунт небольшой IT-компании. Причё",
+      "description_en": "Легчайший взлом: пароль «123456» помог хакеру украсть данные 8,8 миллиона человек 🤯В Дании злоумышленник получил доступ к государственному реестру населения через аккаунт небольшой IT-компании. Причём сразу три корпоративные учётки, включая администраторскую, были защищены одним паролем — «123456». Представьте лицо хакера в этот момент. А ведь компания отдельно подчёркивала, насколько высоко ценит безопасность данных клиентов.По итогу за десять дней злоумышленник сделал 14 миллионов запросов к ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10304",
+      "image_url": "https://cdn4.telesco.pe/file/f16t-HJR6WfIwK_2x2M0Cd4muXaQ6DTRcOWz-mm4vz7mnvoA_w1FZrs3mX6LVCCovmTsS_cqhvuXFoYOBa2g50NFlqRUQERl0s32iVgaJ34Y8ishtYOiQXAAmSOiWrckz9ixf8tHJbQcRLyqUgR9FA7pZdDdQoBYatnORojryXijNy2xX9vsZV5L0ZCozkUu4i5kVCLanfWa4h0ydWHOIUiKBA1UprwzV8-0eb60g5DGmwOMa9Xt1ls2jSgda69qx6M8TESOmm2TYtUuTF45koJYY9M5v0fokEBAmv1TX81b-mwW5lSMK4J02d9vmwVdd5Y7JUSCA0QCmnqq62v9SQ.jpg",
+      "pub_date": "2026-10-14T08:22:06+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-14T11:17:27.386Z",
+      "created_at": "2026-10-14T11:17:27.386Z"
+    },
+    {
+      "id": 24883,
+      "source": "XOR Journal (TG)",
+      "title_en": "⚡️ Отдыхаем: Рунет ПРИЛЁГ — пользователи массово сообщают о сбоях в работе VK, Mail.ru, Точка Банка и других российских сервисов.👀👀👀@xor_journal",
+      "description_en": "⚡️ Отдыхаем: Рунет ПРИЛЁГ — пользователи массово сообщают о сбоях в работе VK, Mail.ru, Точка Банка и других российских сервисов.👀👀👀@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10305",
+      "image_url": "https://cdn4.telesco.pe/file/bf9OD7pQ0yysjvDVOjf6AHVJfz_QhMV5Fr0P4Y7wWDEjh9HeGZQewL-91Eyqp48nL-QbJZZqZfUKdKQFjW0hkuy8fl2JiLkDfriI6BBCltn7cfWbpcF5T5UNm2qXtt0yqkDPJgO_GthO0m1THYwBWsdyz0q3utFqn611Ce0AKDx7BL_2deqsVUOCLAOOC1c4vl7X0K4EyyXIOthVXEb5-CCX4WVPSylaJlSh-KAWRd35ZU5u_JYv_Kq_SCpk4_SRJ5khqE8ohl8KRqCVmi0eSfG08ub3QmWQvxb5JjxyILdbI_U2k2OsQiqjXS28QXE5Ne5oU9YrlMkI8U0E7VMVkA.jpg",
+      "pub_date": "2026-10-14T09:22:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T11:17:27.386Z",
+      "created_at": "2026-10-14T11:17:27.386Z"
+    },
+    {
+      "id": 24884,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "МВФ беспокоится, что ИИ-пузырь вот-вот лопнет и снесёт мировую экономикуВ свежем отчёте фонд предостерегает, что экономический рост, вызванный льющимися рекой инвестициями в ИИ, может обернуться рецес",
+      "description_en": "МВФ беспокоится, что ИИ-пузырь вот-вот лопнет и снесёт мировую экономикуВ свежем отчёте фонд предостерегает, что экономический рост, вызванный льющимися рекой инвестициями в ИИ, может обернуться рецессией, если главные ИИ-компании не смогут выйти на окупаемость.Больше всего фонд беспокоит привычка ИИ-компаний крутить деньги по кругу, выступая друг для друга инвесторами, кредиторами и клиентами.Например, NVIDIA инвестирует в OpenAI, сама же продаёт ей чипы для строительства новых дата-центров и с",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/36492",
+      "image_url": "https://cdn4.telesco.pe/file/QSFrK2YJuqlVogBhSdYBNKZsK-W8YM1BK4YOzcMUWx6UiL0pcv_LMH1ceprX99cG1nnAMDUyXOI7q1UdIPQ-iPbRekLXRZpkv-jeLVHe7Bbl6EqQOCvDJc9K-ylMl-Cgx_dwJMfprvucfVKqkuOGiO_D7gBOhUhJq9rPQT21XjHZ_SE2ge-8-mOkZ0SgkhLCC1YDkiHwsU4o7Iz1eHyEkZypvp4PyeQqa5JWy0fyRGy19fKi0SWt9trtYCNcZ9vRtvjD1tldonhJRXfZaQl-ZSYL2swwUXC40RoU0WfnJatVD3uuVxjncDtVybPMVGwzoTyL0D2drdw74gSI8geC4Q.jpg",
+      "pub_date": "2026-10-14T08:15:14+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-14T11:17:27.423Z",
+      "created_at": "2026-10-14T11:17:27.423Z"
+    },
+    {
+      "id": 24885,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Моддеры отправили Человека-паука в Готэм, а солдат из Call of Duty — в Minecraft. Всё при помощи ИИВ сети завирусились безумные модификации для игр, где игроки катаются на скейтбордах по картам Call o",
+      "description_en": "Моддеры отправили Человека-паука в Готэм, а солдат из Call of Duty — в Minecraft. Всё при помощи ИИВ сети завирусились безумные модификации для игр, где игроки катаются на скейтбордах по картам Call of Duty, а Стив из «Майнкрафта» бьёт боссов в Elden Ring.Пользователи сращивают игры при помощи Claude, создавая сквозные модификации: на устройстве запускаются обе игры одновременно, но один клиент отвечает за отрисовку геометрии игрового мира, а второй — за игровые механики.Microsoft посмотрела на ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/36494",
+      "image_url": null,
+      "pub_date": "2026-10-14T10:36:49+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T11:17:27.423Z",
+      "created_at": "2026-10-14T11:17:27.423Z"
+    },
+    {
+      "id": 24886,
+      "source": "Backdoor (TG)",
+      "title_en": "AGI на базе, однозначно.👍 Бэкдор",
+      "description_en": "AGI на базе, однозначно.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32196",
+      "image_url": "https://cdn4.telesco.pe/file/ppyiLcDhDlXygyVkrgI_5S-d7sC0GNFAMBNT-J0U98Xbx7a311se6pY01E-HXLkdQwvx_zh_dEgjYKS6TuVNnsCUZTXSoclf6fpG6f8eyviyxd1GuB7yUvSlDXkP4Z9nkELmB6ir_IJ0l5HRlTjyATj4GeKths1m9KLnzfjWBVxp4hTZNPPI7MtdTtYFmoPthZcRXUPgsO9276Hs_CKeIgmBph-FLjferxMN1D33bW4vSncWala-W_3dEsLGk16RtbpRFguVTjt3zjoUSYmAdrrUQApT2WYb5FW_D9oZo67lqDAWzvZhorVVmskGydOirrHoB4z_gs9sUGumrbK45A.jpg",
+      "pub_date": "2026-10-14T09:10:13+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-14T11:17:27.475Z",
+      "created_at": "2026-10-14T11:17:27.475Z"
+    },
+    {
+      "id": 24887,
+      "source": "Backdoor (TG)",
+      "title_en": "ВСЕ плагины для ИИ собрали в одном месте — для Claude Code, Codex, DeepSeek, Gemini и других агентов и клиентов. • Покрывает все задачи: разработку, веб, генерацию, контент, бизнес, графику, финансы, ",
+      "description_en": "ВСЕ плагины для ИИ собрали в одном месте — для Claude Code, Codex, DeepSeek, Gemini и других агентов и клиентов. • Покрывает все задачи: разработку, веб, генерацию, контент, бизнес, графику, финансы, бухучёт, текст, что хотите.• Все ссылки в одном месте — фильтры, поиск, удобные вкладки для плагинов. Здесь есть всё для ваших ИИ.• Лист постоянно пополняется командой разрабов-энтузиастов, и все плагины доступны совершенно бесплатно.Александрийская библиотека плагинов — тут.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32198",
+      "image_url": "https://cdn4.telesco.pe/file/RXYjyvJcLId7cNqMcUr-PjfVjxNadPRZvkP7IjmIu1EUCQLQtRjgpoGzH013Dy1hrVBIC9iedNaWK7aALyuWtEWUToaP_wSS5HSxmJcXg924GwP5AFB9hNEjYkspuPUvDPEBCt-KHz8R2Fpxqqz16Shj9fzvPS3BMyNoINex8TLMMat5y3cjyR9AhU4j5Nb5RLlAL-l8_Ig2Y1lrGnQECV4j-gpPkIMUbf9M3Uz21aoyCCPW5yhZ-7O1gcadxfgHO2v3s1mjNDW4jnqyPm0Fy653XQoOPmQ08jJuEOCaD5gH4yDL56Em9PBWNKuo3rlmHexyyKJEQGSpOqZH-KX0fA.jpg",
+      "pub_date": "2026-10-14T10:34:48+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T11:17:27.475Z",
+      "created_at": "2026-10-14T11:17:27.475Z"
+    },
+    {
+      "id": 24888,
+      "source": "Habr (TG)",
+      "title_en": "От «Я, робота» до «Марсианина»: какие технологии из фантастики представили на Московском стартап‑саммитеИнтервью с представителем команды Aidol быстро превратилось в разговор на троих: робот периодиче",
+      "description_en": "От «Я, робота» до «Марсианина»: какие технологии из фантастики представили на Московском стартап‑саммитеИнтервью с представителем команды Aidol быстро превратилось в разговор на троих: робот периодически вмешивался, а на один из вопросов сообщил, что ответа в его инструкциях нет, и посоветовал обратиться к сотрудникам саммита. До Санни из «Я, робота» ему далеко, но с посетителями он уже разговаривает.У другой команды задача менее кинематографичная: роботизированная рука должна вынимать кочерыжки",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/69762",
+      "image_url": "https://cdn4.telesco.pe/file/Im5w56OCzCn8wA7zLzjjDv6h-3b-tdNubT4uK1zL1-mwQz4ycASI9QPvXbLRFBuUqs2p6b6gjCxbGmpF6xEI7PxhwfWpythoEzhSLt6Y8GlrcZJzwxnpFtJHO9Y2ETF_8oQaH8jFg_Bq2Gd2AYmRBseGBF-Ss9jshsp8K4fZeDtdANVSbYcZmTLuVe94h-yP-asUJxstcabsyanNhAIdGPz0m-yjqo5uS4GJrj2toK3_xFu--RHEhY0B8RZosrXAOz0p4KqIN6L1eApBCfTAc-w4y7Fpthh8R1YGNEvgkgDsc5pJQfrri7XIHQD3lkf73SYBz-V7QGJ9Fm4Xep9ISQ.jpg",
+      "pub_date": "2026-10-14T07:04:56+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-14T11:17:27.898Z",
+      "created_at": "2026-10-14T11:17:27.898Z"
+    },
+    {
+      "id": 24889,
+      "source": "Habr (TG)",
+      "title_en": "⚡ Новости к этому часубустануть канал 👉💫 Галактика, таинственный сигнал которой пришёл из эпохи, когда Вселенной было всего 3 миллиарда лет, удивила астрономов [IMG]💸 Character.ai подала заявление ",
+      "description_en": "⚡ Новости к этому часубустануть канал 👉💫 Галактика, таинственный сигнал которой пришёл из эпохи, когда Вселенной было всего 3 миллиарда лет, удивила астрономов [IMG]💸 Character.ai подала заявление о банкротстве🤔 Криптокошельки Ledger с посторонними модулями внутри нашли в магазинах MediaMarkt🐈 Учёные раскрыли загадку рыжих котов спустя 60 лет поисков❤️ «Яндекс» до конца октября отменил плату за Yandex Cloud и «Яндекс 360» для текущих клиентов сервисов📱 Google представила Fitbit Edge — фитн",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/69766",
+      "image_url": "https://cdn4.telesco.pe/file/peqcsDun7CR3Q-d5xFbvYEDB8CB_4IUGQeOdwlr-e3xhp_vrmV1l9tyoGH93179a38BE_UY1bi8ZzRQwX0quVm9d1fESB6HHoILyi9ExDIQ_U9okRwOiwM_wq_c2tM5JNt319rmyj2_Raf4q8clxNbE2oUbdY8G618sn6YMbYSXry3tjg4tRihqICFu1FYxBHeWkdGpEgDIzId1eOVu4MO8bMoYaMDPoX_wYRLRtEklmGWrcuWsCKYzTSiTBND_bESOo_I8x1BjJRfCcinVrCjE_fxdwu51J5IwgTV-iUVgXkTQGOUyRYm6588Yh2XEap0YCHSZs78QXTOJLSSnd8A.jpg",
+      "pub_date": "2026-10-14T08:12:36+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-14T11:17:27.899Z",
+      "created_at": "2026-10-14T11:17:27.899Z"
+    },
+    {
+      "id": 24890,
+      "source": "Hi, AI English (TG)",
+      "title_en": "👨‍💻 10 Minutes With AI Can Sap Motivation to Solve Problems on Your OwnIn three experiments, participants were asked to solve fraction problems or answer questions about texts they had read. Some wo",
+      "description_en": "👨‍💻 10 Minutes With AI Can Sap Motivation to Solve Problems on Your OwnIn three experiments, participants were asked to solve fraction problems or answer questions about texts they had read. Some worked independently, while others had access to ChatGPT, which they could ask for hints or even complete solutions. Participants were free to skip any question.After a series of tasks, the researchers suddenly cut off access to the bot, leaving the AI-assisted group to tackle the final three question",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2857",
+      "image_url": "https://cdn4.telesco.pe/file/qUG_ib_Gj0YcXu5g5r53SGlq3Wmj3Vtm8Hqv4AkgE3k6_dlYMuLb78BJd6hUaL3pmPig4gvax4RfddrYAelnhQa06haFA885FVdIkthsvKSEVf40g-PINN3c8D9j5BTafECBZslcx5bWakaidSBj4nNbU46XBqpxSJ91z6om6gG1GmjKlVz4JXXUJNL0yoIl2BvA55MWGeqjf3vFYnnRTKFO4U-4U4VMNY3N-5HzEcrOwFfSsuTd2BHrLaBKi7kCrX3Gf43lIU4UG28jnCaSy30XwrsCSYUfMKrmh4NVEyHcjwUC36h0GipQY2UDuWR2Qx4XHl6yr1MsxMV8WAXFhQ.jpg",
+      "pub_date": "2026-10-14T07:46:13+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-14T11:17:27.920Z",
+      "created_at": "2026-10-14T11:17:27.920Z"
+    },
+    {
+      "id": 24891,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🙂 Recraft 4.1 — самый быстрый генератор картинок бесплатно в @GPT4TelegrambotМы добавили в наш бот самую быструю в мире нейросеть для создания изображений Recraft 4.1 Flash. На одну картинку у модели",
+      "description_en": "🙂 Recraft 4.1 — самый быстрый генератор картинок бесплатно в @GPT4TelegrambotМы добавили в наш бот самую быструю в мире нейросеть для создания изображений Recraft 4.1 Flash. На одну картинку у модели уходит примерно 1,3 секунды — теперь вдохновение не улетучится, пока вы ждете очередную генерацию.В @GPT4Telegrambot модель доступна бесплатно — спасибо нашим друзьям из Recraft.✏️ Модели Recraft делают ставку на эстетику и точность в деталях. Они справляются даже с самыми необычными стилями и мелк",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3730",
+      "image_url": "https://cdn4.telesco.pe/file/s-bMiKqz84Y9VaMu0MnexEah2-sXfxa_TqG5zwPfc41-Skms61BHpRKFMBR9hM8JhgpOkF522tZMY0Eh1ZGh9wuhXTE-Emr0LFwFtUbMk_I_uYNI3WvUH7QkkOVDEJ8x0XjELleHJQvMYE-ARcU7lLnFXzSy8bzLfHSsH8Kxmq_ESJaFKEqBoE1odi4s0XVIgPpVRB6RBYeAL5zT0dQIQmzgwnmoRwZf8LyZpLhkUnj1Jbxswx1H3nf6K94BQ19xB9NHlM1SRVE3y2ByKNZNkwaMh5TjVqb_nezXh0loxbz5r9kIDA18EnNNV5E-NKKPbnZ-RLFqwJoEcRrC-mDFDA.jpg",
+      "pub_date": "2026-10-14T10:02:25+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T11:17:27.952Z",
+      "created_at": "2026-10-14T11:17:27.952Z"
+    },
+    {
+      "id": 24892,
+      "source": "AI Post (TG)",
+      "title_en": "❗️The Information reports, the Trump administration intends to transfer 3 top officials from the Center for Advancing Innovation and Standards for Super Intelligence (CAISSI) to the White House.Its be",
+      "description_en": "❗️The Information reports, the Trump administration intends to transfer 3 top officials from the Center for Advancing Innovation and Standards for Super Intelligence (CAISSI) to the White House.Its being done so its testers are in the room when policy on new models gets made rather than being consulted after the fact. A White House official framed it as a fix for poor coordination with Commerce.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8479",
+      "image_url": "https://cdn4.telesco.pe/file/r9zSCrNgUTZ7J1JG3K0hKBaGByldtWe00C5fz9FXng1WBId87RelMZ58wxE-Mm6pxAEiwLFlx2xIQfDfeZ66g6N1fXCbDJMvh6qnaHfNkHAbkSkJSpHzl3n58S94TRnnwAVvxP_PkDfHczRbfAMYS3B40G2GeFgMVA7Q_aM95Iyrv3QGLMUeuYhai9EiiUrs0NxqP6fUM4Cd5PABoTwFbvNXoG7HJ07KSIMTJUCzhQneDtOHmQvadv-IBQzIPbA4HI5PpzVOhqbr0FVv78J3qyqYksZGxOy8lztUGcTHqKUZGPhMdtFzxmNTQYPFrtfTpzDyyMuc9_bflacPt6n_4g.jpg",
+      "pub_date": "2026-10-14T08:17:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-14T11:17:28.255Z",
+      "created_at": "2026-10-14T11:17:28.255Z"
+    },
+    {
+      "id": 24893,
+      "source": "AI Post (TG)",
+      "title_en": "❗️Some students at Northwestern University are now asking whether they should stay in mathematics at all, after OpenAI posted hundreds of AI-generated papers on open problems in a single release. Anto",
+      "description_en": "❗️Some students at Northwestern University are now asking whether they should stay in mathematics at all, after OpenAI posted hundreds of AI-generated papers on open problems in a single release. Antonio Auffinger, a professor of mathematics at Northwestern University says his own priority has moved to keeping talented people in the field and helping them grow.Source. @aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8480",
+      "image_url": "https://cdn4.telesco.pe/file/RldTu3rd1c0lKIaaQEQP-o6YjqnsDIHIwpxklYnCQH-olvKKjJQD1gRHaD1EPK2E13Gv7L23CtHTgO8MwQd6rD2KpvI2AJYPhrL-3OxMsYw02fEn9VZTN08ZlxWcyYvMp81Druphqvq9kbfBrj0RbmkReqjMTuSMYUmxll-xB9YuggtkBlCVznMY8bikf18Ms7jIZGoxJecaLduY5V81ZiIa8hYSw_RK8JIsHWMY_pmF1E-bS5dpr7q6cCSvbVI3JlnxwgvzufsmgpOnU4M3rTl5CX9sG2MzGfuUmUgaUADaJOj8KOVzmh-h-j8yi7WqOHcZazeleDFoR7d8DEsj6w.jpg",
+      "pub_date": "2026-10-14T11:02:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T11:17:28.255Z",
+      "created_at": "2026-10-14T11:17:28.255Z"
+    },
+    {
+      "id": 24894,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Prompt injection in Visual Studio's Copilot becomes remote code executionJohann Rehberger disclosed CVE-2026-103572, which hits Copilot in Visual Studio and SSMS. Untrusted content the agent reads ",
+      "description_en": "🚨 Prompt injection in Visual Studio's Copilot becomes remote code executionJohann Rehberger disclosed CVE-2026-103572, which hits Copilot in Visual Studio and SSMS. Untrusted content the agent reads can steer it into running attacker code on the machine.Patch if you use either one. SSMS boxes tend to sit close to production databases.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/731",
+      "image_url": null,
+      "pub_date": "2026-10-14T07:18:13+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-14T11:17:28.542Z",
+      "created_at": "2026-10-14T11:17:28.542Z"
+    },
+    {
+      "id": 24895,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🤖 Torvalds says he'll get tougher on \"pointless\" pull requests, and AI code review is part of the causeLinux 7.1-rc5 came in much bigger than rc5s usually are, mostly trivial driver fixes. Torvalds s",
+      "description_en": "🤖 Torvalds says he'll get tougher on \"pointless\" pull requests, and AI code review is part of the causeLinux 7.1-rc5 came in much bigger than rc5s usually are, mostly trivial driver fixes. Torvalds says several of those series were triggered by AI code review.His rule is that late in the cycle the kernel looks for regressions, and non-critical fixes to old issues can wait for the merge window.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/732",
+      "image_url": null,
+      "pub_date": "2026-10-14T10:19:13+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-14T11:17:28.542Z",
+      "created_at": "2026-10-14T11:17:28.542Z"
     }
   ]
 }
