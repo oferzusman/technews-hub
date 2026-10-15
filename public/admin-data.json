@@ -1,9 +1,9 @@
 {
-  "total": 25011,
-  "translated": 25004,
+  "total": 25012,
+  "translated": 25005,
   "untranslated": 7,
-  "today": 19,
-  "week": 691,
+  "today": 20,
+  "week": 692,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 457,
-      "translated": 455,
-      "lastDate": "2026-10-14T11:44:23+00:00"
+      "total": 458,
+      "translated": 456,
+      "lastDate": "2026-10-15T06:23:16+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-15T06:17:24.763Z"
+  "generatedAt": "2026-10-15T06:39:57.547Z"
 }
