@@ -543068,6 +543068,57 @@
       "priority": "hot",
       "fetchedAt": "2026-10-15T20:06:32.132Z",
       "created_at": "2026-10-15T20:06:32.132Z"
+    },
+    {
+      "id": 25114,
+      "source": "Hugging Face Blog",
+      "title_en": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "image_url": null,
+      "pub_date": "Thu, 15 Oct 2026 20:34:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-15T20:58:31.715Z",
+      "created_at": "2026-10-15T20:58:31.715Z"
+    },
+    {
+      "id": 25115,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices",
+      "description_en": "The company is also engaged in early-stage discussions with other organizations, including Hugging Face.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/15/anthropic-metr-securebio-ai-safety-evaluators.html",
+      "image_url": null,
+      "pub_date": "Thu, 15 Oct 2026 20:35:21 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-15T20:58:35.653Z",
+      "created_at": "2026-10-15T20:58:35.653Z"
+    },
+    {
+      "id": 25116,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🤖 Apple and Meta are putting Muse on the MacCNBC reports the two are teaming up to run Meta's Muse model on Mac computers. After Apple's own models had a rough run, it's now happy to run someone else",
+      "description_en": "🤖 Apple and Meta are putting Muse on the MacCNBC reports the two are teaming up to run Meta's Muse model on Mac computers. After Apple's own models had a rough run, it's now happy to run someone else's locally.Meta's Muse Spark Open drop was enormous, so how it fits on consumer hardware is the open question.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/745",
+      "image_url": null,
+      "pub_date": "2026-10-15T20:29:15+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-15T20:58:37.611Z",
+      "created_at": "2026-10-15T20:58:37.611Z"
     }
   ]
 }
