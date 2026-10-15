@@ -541672,6 +541672,87 @@
       "priority": "hot",
       "fetchedAt": "2026-10-15T12:05:56.859Z",
       "created_at": "2026-10-15T12:05:56.859Z"
+    },
+    {
+      "id": 25045,
+      "source": "TechCrunch AI",
+      "title_en": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "description_en": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "image_url": null,
+      "pub_date": "Thu, 15 Oct 2026 12:00:00 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "Hardware",
+        "AI",
+        "Gadgets",
+        "Amazon",
+        "Alexa",
+        "wearables",
+        "bee"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-15T12:35:57.855Z",
+      "created_at": "2026-10-15T12:35:57.855Z"
+    },
+    {
+      "id": 25046,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+      "image_url": null,
+      "pub_date": "Thu, 15 Oct 2026 12:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-15T12:35:59.362Z",
+      "created_at": "2026-10-15T12:35:59.362Z"
+    },
+    {
+      "id": 25047,
+      "source": "CNBC Tech",
+      "title_en": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
+      "description_en": "The $75 Bee Frontier is an upgraded version of Amazon's wearable bracelet, while the $100 Bee Eclipse attaches to a user's smartphone.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
+      "image_url": null,
+      "pub_date": "Thu, 15 Oct 2026 12:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-15T12:36:03.651Z",
+      "created_at": "2026-10-15T12:36:03.651Z"
+    },
+    {
+      "id": 25048,
+      "source": "Tom's Hardware",
+      "title_en": "Malicious Russian disinformation bot traffic barely flinches after Ukraine strikes Yandex data centers and auto-migration kicks in",
+      "description_en": "Ukraine's strikes on Russian data centers have caused legitimate bot traffic to go down, but malicious bots remain operational.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/service-providers/network-providers/malicious-russian-disinformation-bot-traffic-barely-flinches-after-ukraine-strikes-yandex-data-centers-and-auto-migration-kicks-in-cloudflare-tracks-170-million-automated-attacks-shifting-to-alternate-cloud-hosts",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/cvrKM8CEZVoo8iapjUyEPZ-1920-80.png",
+      "pub_date": "Thu, 15 Oct 2026 12:28:24 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Network Providers",
+        "Service Providers"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-15T12:36:03.697Z",
+      "created_at": "2026-10-15T12:36:03.697Z"
     }
   ]
 }
