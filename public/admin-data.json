@@ -1,7 +1,7 @@
 {
   "total": 25113,
-  "translated": 25098,
-  "untranslated": 15,
+  "translated": 25106,
+  "untranslated": 7,
   "today": 121,
   "week": 793,
   "sources": [
@@ -14,25 +14,25 @@
     {
       "name": "Interesting Engineering",
       "total": 2138,
-      "translated": 2136,
+      "translated": 2138,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
       "name": "TechCrunch AI",
       "total": 1656,
-      "translated": 1654,
+      "translated": 1656,
       "lastDate": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
     {
       "name": "CNBC Tech",
       "total": 1598,
-      "translated": 1597,
+      "translated": 1598,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
       "name": "AI Post (TG)",
       "total": 1460,
-      "translated": 1457,
+      "translated": 1458,
       "lastDate": "2026-10-15T19:52:01+00:00"
     },
     {
@@ -62,7 +62,7 @@
     {
       "name": "Ars Technica",
       "total": 1080,
-      "translated": 1079,
+      "translated": 1080,
       "lastDate": "Wed, 30 Sep 2026 20:44:48 +0000"
     },
     {
@@ -74,7 +74,7 @@
     {
       "name": "The Verge AI",
       "total": 883,
-      "translated": 882,
+      "translated": 883,
       "lastDate": "2026-10-15T19:57:16.000Z"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-15T20:07:31.645Z"
+  "generatedAt": "2026-10-15T20:08:01.651Z"
 }
