@@ -1,14 +1,14 @@
 {
-  "total": 25038,
-  "translated": 25031,
+  "total": 25044,
+  "translated": 25037,
   "untranslated": 7,
-  "today": 46,
-  "week": 718,
+  "today": 52,
+  "week": 724,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2321,
-      "translated": 2321,
+      "total": 2324,
+      "translated": 2324,
       "lastDate": "Wed, 30 Sep 2026 18:00:39 +0000"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 874,
-      "translated": 874,
-      "lastDate": "2026-10-14T22:53:31.000Z"
+      "total": 876,
+      "translated": 876,
+      "lastDate": "2026-10-15T12:00:00.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 225,
-      "translated": 225,
-      "lastDate": "2026-10-15T09:34:15+00:00"
+      "total": 226,
+      "translated": 226,
+      "lastDate": "2026-10-15T12:03:01+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-15T12:06:52.436Z"
+  "generatedAt": "2026-10-15T12:07:54.823Z"
 }
