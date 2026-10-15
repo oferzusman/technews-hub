@@ -543350,6 +543350,23 @@
       "priority": "hot",
       "fetchedAt": "2026-10-15T23:02:34.741Z",
       "created_at": "2026-10-15T23:02:34.741Z"
+    },
+    {
+      "id": 25129,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Claude Code's Linux page cache fix hit 23x read throughput, and reviewers found a raceLinus Torvalds submitted the patch series for a bottleneck devs have fought for two years. The 23x gain is from",
+      "description_en": "🚨 Claude Code's Linux page cache fix hit 23x read throughput, and reviewers found a raceLinus Torvalds submitted the patch series for a bottleneck devs have fought for two years. The 23x gain is from a synthetic benchmark, and he warned real workloads will see far less.Reviewers also raised memory reclamation concerns, and Torvalds has handed the work to kernel developer Kiryl Shutsemau.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/746",
+      "image_url": null,
+      "pub_date": "2026-10-15T23:29:26+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-15T23:38:02.276Z",
+      "created_at": "2026-10-15T23:38:02.276Z"
     }
   ]
 }
