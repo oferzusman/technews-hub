@@ -1,14 +1,14 @@
 {
-  "total": 25044,
-  "translated": 25037,
+  "total": 25048,
+  "translated": 25041,
   "untranslated": 7,
-  "today": 52,
-  "week": 724,
+  "today": 56,
+  "week": 728,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2324,
-      "translated": 2324,
+      "total": 2325,
+      "translated": 2325,
       "lastDate": "Wed, 30 Sep 2026 18:00:39 +0000"
     },
     {
@@ -19,14 +19,14 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 1647,
-      "translated": 1647,
+      "total": 1648,
+      "translated": 1648,
       "lastDate": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1591,
-      "translated": 1591,
+      "total": 1592,
+      "translated": 1592,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
@@ -115,8 +115,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 436,
-      "translated": 436,
+      "total": 437,
+      "translated": 437,
       "lastDate": "Wed, 30 Sep 2026 12:10:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-15T12:07:54.823Z"
+  "generatedAt": "2026-10-15T12:37:15.993Z"
 }
