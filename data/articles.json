@@ -545310,6 +545310,67 @@
       "priority": "hot",
       "fetchedAt": "2026-10-16T18:11:27.993Z",
       "created_at": "2026-10-16T18:11:27.993Z"
+    },
+    {
+      "id": 25226,
+      "source": "Ars Technica",
+      "title_en": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
+      "description_en": "FDA scientists said none of the popular drugs have been proven safe or effective.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-1152x648.jpg",
+      "pub_date": "Fri, 16 Oct 2026 17:05:59 +0000",
+      "author": "\n                    Beth Mole\n                ",
+      "categories": [
+        "Health",
+        "fda",
+        "Peptides",
+        "robert f kennedy jr"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-16T18:46:48.786Z",
+      "created_at": "2026-10-16T18:46:48.786Z"
+    },
+    {
+      "id": 25227,
+      "source": "The Decoder",
+      "title_en": "China plans to tighten export controls on open-weight models and 23 key AI technologies",
+      "description_en": "China plans to restrict exports of 23 key AI technologies, including model weights, source code, and training methods for systems hitting 10^26 FLOPs or 2 trillion parameters. A fast-track rule will still clear open-source releases as soon as they are registered, but the move will likely push Western companies to double down on US open-weight models over Chinese alternatives.\nThe article China plans to tighten export controls on open-weight models and 23 key AI technologies appeared first on The",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/",
+      "image_url": null,
+      "pub_date": "Fri, 16 Oct 2026 17:42:47 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "AI in China",
+        "China"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-16T18:46:49.964Z",
+      "created_at": "2026-10-16T18:46:49.964Z"
+    },
+    {
+      "id": 25228,
+      "source": "CNBC Tech",
+      "title_en": "Trump says White House didn't order Starlink restrictions in Ukraine",
+      "description_en": "Ukrainian officials complained this week that SpaceX had limited internet connectivity without advance notice.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
+      "image_url": null,
+      "pub_date": "Fri, 16 Oct 2026 18:27:02 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-16T18:46:55.058Z",
+      "created_at": "2026-10-16T18:46:55.058Z"
     }
   ]
 }
