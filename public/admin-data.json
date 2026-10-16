@@ -1,9 +1,9 @@
 {
-  "total": 25188,
-  "translated": 25181,
+  "total": 25198,
+  "translated": 25191,
   "untranslated": 7,
-  "today": 59,
-  "week": 743,
+  "today": 69,
+  "week": 753,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,20 +13,20 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2144,
-      "translated": 2144,
+      "total": 2147,
+      "translated": 2147,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1658,
-      "translated": 1658,
+      "total": 1659,
+      "translated": 1659,
       "lastDate": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1603,
-      "translated": 1603,
+      "total": 1604,
+      "translated": 1604,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 1368,
-      "translated": 1368,
+      "total": 1369,
+      "translated": 1369,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 887,
-      "translated": 887,
-      "lastDate": "2026-10-15T22:43:23.000Z"
+      "total": 888,
+      "translated": 888,
+      "lastDate": "2026-10-16T14:02:40.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -85,9 +85,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 625,
-      "translated": 625,
-      "lastDate": "2026-10-16T11:33:26+00:00"
+      "total": 626,
+      "translated": 626,
+      "lastDate": "2026-10-16T14:01:00+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 460,
-      "translated": 458,
-      "lastDate": "2026-10-16T11:26:30+00:00"
+      "total": 461,
+      "translated": 459,
+      "lastDate": "2026-10-16T14:15:01+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -133,9 +133,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 290,
-      "translated": 290,
-      "lastDate": "2026-10-15T10:16:57+00:00"
+      "total": 291,
+      "translated": 291,
+      "lastDate": "2026-10-16T13:39:01+00:00"
     },
     {
       "name": "Futurism",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-16T14:07:43.696Z"
+  "generatedAt": "2026-10-16T14:22:02.043Z"
 }
