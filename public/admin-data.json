@@ -1,9 +1,9 @@
 {
-  "total": 25225,
-  "translated": 25218,
+  "total": 25232,
+  "translated": 25225,
   "untranslated": 7,
-  "today": 96,
-  "week": 780,
+  "today": 103,
+  "week": 787,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2149,
-      "translated": 2149,
+      "total": 2150,
+      "translated": 2150,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -25,15 +25,15 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1605,
-      "translated": 1605,
+      "total": 1606,
+      "translated": 1606,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1466,
-      "translated": 1464,
-      "lastDate": "2026-10-16T15:21:17+00:00"
+      "total": 1467,
+      "translated": 1465,
+      "lastDate": "2026-10-16T19:23:32+00:00"
     },
     {
       "name": "Product Hunt",
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 1372,
-      "translated": 1372,
+      "total": 1373,
+      "translated": 1373,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 1084,
-      "translated": 1084,
+      "total": 1085,
+      "translated": 1085,
       "lastDate": "Wed, 30 Sep 2026 20:44:48 +0000"
     },
     {
@@ -91,8 +91,8 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 615,
-      "translated": 615,
+      "total": 616,
+      "translated": 616,
       "lastDate": "Wed, 30 Sep 2026 10:30:00 GMT"
     },
     {
@@ -115,8 +115,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 441,
-      "translated": 441,
+      "total": 442,
+      "translated": 442,
       "lastDate": "Wed, 30 Sep 2026 12:10:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-16T18:48:08.661Z"
+  "generatedAt": "2026-10-16T20:35:07.142Z"
 }
