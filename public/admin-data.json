@@ -1,9 +1,9 @@
 {
-  "total": 25144,
-  "translated": 25137,
+  "total": 25154,
+  "translated": 25147,
   "untranslated": 7,
-  "today": 15,
-  "week": 699,
+  "today": 25,
+  "week": 709,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,21 +25,21 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1601,
-      "translated": 1601,
+      "total": 1602,
+      "translated": 1602,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1463,
-      "translated": 1461,
-      "lastDate": "2026-10-16T04:21:17+00:00"
+      "total": 1464,
+      "translated": 1462,
+      "lastDate": "2026-10-16T07:10:19+00:00"
     },
     {
       "name": "Product Hunt",
-      "total": 1399,
-      "translated": 1399,
-      "lastDate": "2026-10-13T17:45:29.000Z"
+      "total": 1400,
+      "translated": 1400,
+      "lastDate": "2026-10-15T13:27:08.000Z"
     },
     {
       "name": "The Decoder",
@@ -49,14 +49,14 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 1227,
-      "translated": 1227,
+      "total": 1228,
+      "translated": 1228,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
       "name": "New Atlas",
-      "total": 1144,
-      "translated": 1144,
+      "total": 1145,
+      "translated": 1145,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 796,
-      "translated": 796,
+      "total": 797,
+      "translated": 797,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
@@ -109,21 +109,21 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 458,
-      "translated": 456,
-      "lastDate": "2026-10-15T06:23:16+00:00"
+      "total": 459,
+      "translated": 457,
+      "lastDate": "2026-10-16T06:17:44+00:00"
     },
     {
       "name": "MIT Technology Review",
-      "total": 437,
-      "translated": 437,
+      "total": 438,
+      "translated": 438,
       "lastDate": "Wed, 30 Sep 2026 12:10:00 +0000"
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 323,
-      "translated": 323,
-      "lastDate": "2026-10-14T17:29:51+00:00"
+      "total": 324,
+      "translated": 324,
+      "lastDate": "2026-10-16T07:16:10+00:00"
     },
     {
       "name": "The Register",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 226,
-      "translated": 226,
-      "lastDate": "2026-10-15T12:03:01+00:00"
+      "total": 227,
+      "translated": 227,
+      "lastDate": "2026-10-16T08:10:11+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-16T06:01:13.860Z"
+  "generatedAt": "2026-10-16T08:26:28.050Z"
 }
