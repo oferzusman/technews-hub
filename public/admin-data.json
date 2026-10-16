@@ -1,9 +1,9 @@
 {
-  "total": 25134,
-  "translated": 25127,
+  "total": 25139,
+  "translated": 25132,
   "untranslated": 7,
-  "today": 5,
-  "week": 689,
+  "today": 10,
+  "week": 694,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2139,
-      "translated": 2139,
+      "total": 2140,
+      "translated": 2140,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -31,9 +31,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1461,
-      "translated": 1459,
-      "lastDate": "2026-10-15T22:40:13+00:00"
+      "total": 1462,
+      "translated": 1460,
+      "lastDate": "2026-10-16T01:33:01+00:00"
     },
     {
       "name": "Product Hunt",
@@ -55,8 +55,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 1142,
-      "translated": 1142,
+      "total": 1143,
+      "translated": 1143,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -85,9 +85,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 621,
-      "translated": 621,
-      "lastDate": "2026-10-15T23:29:26+00:00"
+      "total": 622,
+      "translated": 622,
+      "lastDate": "2026-10-16T02:30:26+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -145,8 +145,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 269,
-      "translated": 269,
+      "total": 270,
+      "translated": 270,
       "lastDate": "Wed, 30 Sep 2026 00:00:00 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-16T01:18:28.804Z"
+  "generatedAt": "2026-10-16T03:20:46.280Z"
 }
