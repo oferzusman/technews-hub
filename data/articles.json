@@ -545564,6 +545564,64 @@
       "priority": "hot",
       "fetchedAt": "2026-10-16T21:18:02.870Z",
       "created_at": "2026-10-16T21:18:02.870Z"
+    },
+    {
+      "id": 25239,
+      "source": "TechCrunch AI",
+      "title_en": "Replit is no longer working with Anthropic, CEO says",
+      "description_en": "Replit CEO and co-founder Amjad Masad made the comments during TechCrunch Disrupt 2026.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "image_url": null,
+      "pub_date": "Fri, 16 Oct 2026 21:22:28 +0000",
+      "author": "Lucas Ropek, Kirsten Korosec",
+      "categories": [
+        "AI",
+        "TC",
+        "Anthropic",
+        "Replit"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-16T21:48:34.058Z",
+      "created_at": "2026-10-16T21:48:34.058Z"
+    },
+    {
+      "id": 25240,
+      "source": "Interesting Engineering",
+      "title_en": "Taiwan plans $4 billion Texas hub to bring chip suppliers closer to US manufacturers",
+      "description_en": "Taiwan plans to develop a $2 billion–$4 billion industrial park in Texas to strengthen semiconductor...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/taiwan-texas-hub-chip-suppliers",
+      "image_url": null,
+      "pub_date": "Fri, 16 Oct 2026 21:24:51 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-16T21:48:37.118Z",
+      "created_at": "2026-10-16T21:48:37.118Z"
+    },
+    {
+      "id": 25241,
+      "source": "Backdoor (TG)",
+      "title_en": "Проверяем весь свой вайбкод с помощью Claude по гайду Anthropic — разработчики одной из мощнейших нейронок в мире признались: в их компании 90% кода уже пишет Claude и САМ его проверяет.Кожаные создал",
+      "description_en": "Проверяем весь свой вайбкод с помощью Claude по гайду Anthropic — разработчики одной из мощнейших нейронок в мире признались: в их компании 90% кода уже пишет Claude и САМ его проверяет.Кожаные создали систему, при которой ИИ проверяет себя сам, делает тщательные и подробные ревью, а в случае важных решений немедленно подключает человека.Разработчики расписали, как применить подход в ЛЮБОМ проекте:1️⃣ Добавляем в CLAUDE.md инструкции по проверке кода, а в REVIEW.md — правила ревью для конкретног",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32265",
+      "image_url": "https://cdn4.telesco.pe/file/thZSAiBzWgCr70j0KS7ZaW5uvH5njVl36TZ6S5cgAFh23hNw4ZI1syRO9LVE89ptOgB0ztJTh0c3H9IUzxsvX0HXCzowkbcyeimZZnlD4ewHKOPiAJg2DY5jwB4Be8x3iSylfVVzZf3DuKI_t-GZQPX15mEdnbFhbm2X-JkegbSqP_8oPdXGSA_rW1Z8wj6Efp1XalAKoo3Sx-H9JV8bQBvLKA41NtXdqy1ryziSj53jEXChelLr1Z3xGCT4qe2lxT9Lp5eebAAymahlQRfITmwADj3QwuQCzCZc_RI7H8AJPzzRXvYSNZY4hOcYWtbhuw_E1Lvq277A3KC3zuBqFA.jpg",
+      "pub_date": "2026-10-16T21:20:47+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-16T21:48:39.058Z",
+      "created_at": "2026-10-16T21:48:39.058Z"
     }
   ]
 }
