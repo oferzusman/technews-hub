@@ -1,9 +1,9 @@
 {
-  "total": 25154,
-  "translated": 25147,
+  "total": 25159,
+  "translated": 25152,
   "untranslated": 7,
-  "today": 25,
-  "week": 709,
+  "today": 30,
+  "week": 714,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -55,8 +55,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 1145,
-      "translated": 1145,
+      "total": 1146,
+      "translated": 1146,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -85,9 +85,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 623,
-      "translated": 623,
-      "lastDate": "2026-10-16T05:31:26+00:00"
+      "total": 624,
+      "translated": 624,
+      "lastDate": "2026-10-16T08:32:26+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 604,
-      "translated": 603,
-      "lastDate": "2026-10-15T18:48:47+00:00"
+      "total": 605,
+      "translated": 604,
+      "lastDate": "2026-10-16T08:35:55+00:00"
     },
     {
       "name": "Pypi.org",
@@ -115,8 +115,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 438,
-      "translated": 438,
+      "total": 440,
+      "translated": 440,
       "lastDate": "Wed, 30 Sep 2026 12:10:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-16T09:28:06.552Z"
+  "generatedAt": "2026-10-16T09:45:43.087Z"
 }
