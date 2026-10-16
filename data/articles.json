@@ -545310,6 +545310,145 @@
       "priority": "hot",
       "fetchedAt": "2026-10-16T18:11:27.993Z",
       "created_at": "2026-10-16T18:11:27.993Z"
+    },
+    {
+      "id": 25226,
+      "source": "Ars Technica",
+      "title_en": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
+      "description_en": "FDA scientists said none of the popular drugs have been proven safe or effective.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-1152x648.jpg",
+      "pub_date": "Fri, 16 Oct 2026 17:05:59 +0000",
+      "author": "\n                    Beth Mole\n                ",
+      "categories": [
+        "Health",
+        "fda",
+        "Peptides",
+        "robert f kennedy jr"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-16T20:33:19.072Z",
+      "created_at": "2026-10-16T20:33:19.072Z"
+    },
+    {
+      "id": 25227,
+      "source": "The Decoder",
+      "title_en": "China plans to tighten export controls on open-weight models and 23 key AI technologies",
+      "description_en": "China plans to restrict exports of 23 key AI technologies, including model weights, source code, and training methods for systems hitting 10^26 FLOPs or 2 trillion parameters. A fast-track rule will still clear open-source releases as soon as they are registered, but the move will likely push Western companies to double down on US open-weight models over Chinese alternatives.\nThe article China plans to tighten export controls on open-weight models and 23 key AI technologies appeared first on The",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/",
+      "image_url": null,
+      "pub_date": "Fri, 16 Oct 2026 17:42:47 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "AI in China",
+        "China"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-16T20:33:19.992Z",
+      "created_at": "2026-10-16T20:33:19.992Z"
+    },
+    {
+      "id": 25228,
+      "source": "MIT Technology Review",
+      "title_en": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "description_en": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "image_url": null,
+      "pub_date": "Fri, 16 Oct 2026 18:00:00 +0000",
+      "author": "MIT Technology Review",
+      "categories": [
+        "Artificial intelligence",
+        "AI",
+        "artificial intelligence",
+        "Roundtables",
+        "Subscriber-Only Stories"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-16T20:33:20.069Z",
+      "created_at": "2026-10-16T20:33:20.069Z"
+    },
+    {
+      "id": 25229,
+      "source": "OpenAI Blog",
+      "title_en": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "description_en": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "image_url": null,
+      "pub_date": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Startup"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-16T20:33:20.300Z",
+      "created_at": "2026-10-16T20:33:20.300Z"
+    },
+    {
+      "id": 25230,
+      "source": "Interesting Engineering",
+      "title_en": "Claude’s new quantum circuit design uses 17 times fewer gates than earlier approach",
+      "description_en": "Anthropic’s Claude Mythos 5 has developed a quantum circuit design that uses 17 times fewer...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/claude-quantum-circuit-design",
+      "image_url": null,
+      "pub_date": "Fri, 16 Oct 2026 19:40:41 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-16T20:33:21.326Z",
+      "created_at": "2026-10-16T20:33:21.326Z"
+    },
+    {
+      "id": 25231,
+      "source": "CNBC Tech",
+      "title_en": "Trump says White House didn't order Starlink restrictions in Ukraine",
+      "description_en": "Ukrainian officials complained this week that SpaceX had limited internet connectivity without advance notice.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
+      "image_url": null,
+      "pub_date": "Fri, 16 Oct 2026 20:28:10 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-16T20:33:23.336Z",
+      "created_at": "2026-10-16T20:33:23.336Z"
+    },
+    {
+      "id": 25232,
+      "source": "AI Post (TG)",
+      "title_en": "❗️Scientists gave AI anxiety and sadness. Then they tried to calm it down.Researchers at TU Dresden in Germany exposed GPT-4o and five other AI models to scenarios designed to trigger human emotions, ",
+      "description_en": "❗️Scientists gave AI anxiety and sadness. Then they tried to calm it down.Researchers at TU Dresden in Germany exposed GPT-4o and five other AI models to scenarios designed to trigger human emotions, including car crashes, being followed by a stranger at night, stressful job interviews and difficult math tests.The models were instructed to answer as if they were humans capable of deeply feeling emotions. The results were striking: fear scores jumped from 32 to 88, while disgust climbed from 12 t",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8501",
+      "image_url": "https://cdn4.telesco.pe/file/EREi3ZkTibR5pzaBNwqon7T20qqlTsutAkM9kahD2vmAgwJigDKDst2xHn9S-b_ql9_5D6k2gyypZTPtsawqg3bU-XNCU21VNaxkeSXEK0wIfJmIFbeLlWesJTfpp6R-YNSDIZQOJFYlUUfDlx6TbFK87DiLdg3kCc9vNzzYvoiU5BJ_E2fJMJXkMGvWcLJuPT1-QCG2xDdXUe0ThK0UVruCfVNgFqeoZmEAMBCus_VieUBtOSU-MUY6034ATGPsiJxxgogvSBPF6FFZK17U699cTsRI7OXY6KnVh9Bj6KGXEzhX876UprvAXCWQ7gtk4ywOVZ4FaSQCvLlKraiYEQ.jpg",
+      "pub_date": "2026-10-16T19:23:32+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-16T20:33:29.316Z",
+      "created_at": "2026-10-16T20:33:29.316Z"
     }
   ]
 }
