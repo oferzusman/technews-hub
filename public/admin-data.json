@@ -1,9 +1,9 @@
 {
-  "total": 25232,
-  "translated": 25225,
+  "total": 25238,
+  "translated": 25231,
   "untranslated": 7,
-  "today": 103,
-  "week": 787,
+  "today": 109,
+  "week": 793,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -55,21 +55,21 @@
     },
     {
       "name": "New Atlas",
-      "total": 1147,
-      "translated": 1147,
+      "total": 1148,
+      "translated": 1148,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
       "name": "Ars Technica",
-      "total": 1085,
-      "translated": 1085,
+      "total": 1087,
+      "translated": 1087,
       "lastDate": "Wed, 30 Sep 2026 20:44:48 +0000"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 964,
-      "translated": 962,
-      "lastDate": "2026-10-16T12:16:43+00:00"
+      "total": 965,
+      "translated": 963,
+      "lastDate": "2026-10-16T21:03:05+00:00"
     },
     {
       "name": "The Verge AI",
@@ -85,9 +85,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 628,
-      "translated": 628,
-      "lastDate": "2026-10-16T17:45:36+00:00"
+      "total": 629,
+      "translated": 629,
+      "lastDate": "2026-10-16T20:46:26+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 228,
-      "translated": 228,
-      "lastDate": "2026-10-16T13:02:13+00:00"
+      "total": 229,
+      "translated": 229,
+      "lastDate": "2026-10-16T21:01:14+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-16T21:05:44.357Z"
+  "generatedAt": "2026-10-16T21:19:24.125Z"
 }
