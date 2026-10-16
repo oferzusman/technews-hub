@@ -1,9 +1,9 @@
 {
-  "total": 25220,
-  "translated": 25213,
+  "total": 25225,
+  "translated": 25218,
   "untranslated": 7,
-  "today": 91,
-  "week": 775,
+  "today": 96,
+  "week": 780,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,8 +19,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 1664,
-      "translated": 1664,
+      "total": 1665,
+      "translated": 1665,
       "lastDate": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 1370,
-      "translated": 1370,
+      "total": 1372,
+      "translated": 1372,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
     {
@@ -55,8 +55,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 1146,
-      "translated": 1146,
+      "total": 1147,
+      "translated": 1147,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -85,9 +85,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 627,
-      "translated": 627,
-      "lastDate": "2026-10-16T17:01:26+00:00"
+      "total": 628,
+      "translated": 628,
+      "lastDate": "2026-10-16T17:45:36+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-16T18:02:07.148Z"
+  "generatedAt": "2026-10-16T18:12:50.296Z"
 }
