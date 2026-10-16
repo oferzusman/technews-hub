@@ -544023,6 +544023,125 @@
       "priority": "hot",
       "fetchedAt": "2026-10-16T09:44:27.345Z",
       "created_at": "2026-10-16T09:44:27.345Z"
+    },
+    {
+      "id": 25160,
+      "source": "Interesting Engineering",
+      "title_en": "Brain organoids ‘read’ Braille with 83% accuracy in biohybrid computing breakthrough",
+      "description_en": "Lab-grown models of the human brain have received touch-sensor signals for Braille letters and responded...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/brain-organoids-braille-biohybrid-computing-bristol",
+      "image_url": null,
+      "pub_date": "Fri, 16 Oct 2026 10:27:55 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "Science"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-16T10:47:02.338Z",
+      "created_at": "2026-10-16T10:47:02.338Z"
+    },
+    {
+      "id": 25161,
+      "source": "Interesting Engineering",
+      "title_en": "Robot brain combines sight, tough and sound to help humanoids handle real chores",
+      "description_en": "NEURA Robotics has introduced Neuron AI, a robot foundation model designed to help robots understand...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/neuron-ai-combines-vision-touch-sound",
+      "image_url": "https://www.youtube.com/embed/u02bHNHkqxg",
+      "pub_date": "Fri, 16 Oct 2026 10:27:41 +0000",
+      "author": "Jijo Malayil",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-16T10:47:02.338Z",
+      "created_at": "2026-10-16T10:47:02.338Z"
+    },
+    {
+      "id": 25162,
+      "source": "Tom's Hardware",
+      "title_en": "Linus Torvalds posts his first AI-assisted patch to the Linux kernel, synthetic test clocks 23x performance leap",
+      "description_en": "Linus Torvalds posts his first LLM-assisted patch to the Linux kernel — after issuing clear pro-AI directives, the bossman makes use of AI tooling himself",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/linux/linus-torvalds-posts-his-first-llm-assisted-patch-to-the-linux-kernel-after-issuing-clear-pro-ai-directives-the-bossman-makes-use-of-ai-tooling-himself",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/8ukjVdLc3rtpkr4AXLkY9j-1920-80.jpg",
+      "pub_date": "Fri, 16 Oct 2026 10:30:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Linux",
+        "Software",
+        "Operating Systems"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-16T10:47:02.571Z",
+      "created_at": "2026-10-16T10:47:02.572Z"
+    },
+    {
+      "id": 25163,
+      "source": "Tom's Hardware",
+      "title_en": "Thai cops bust 'audacious' cross-border fiberoptic cable running to Myanmar scam compound — 350-meter, 48-core cable was supplying illegal border casino and a scam center with 6TB of data per day",
+      "description_en": "Thai authorities have busted a cross-border fiber-optic internet cable being used to steal data.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/thai-cops-bust-audacious-cross-border-fiberoptic-cable-running-to-myanmar-scam-compound-350-meter-48-core-cable-was-supplying-illegal-border-casino-and-a-scam-center-with-6tb-of-data-per-day",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/enH3q6wyN9pmSEpnaVRwS7-1920-80.jpg",
+      "pub_date": "Fri, 16 Oct 2026 10:24:24 +0000",
+      "author": " Stephen Warwick ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-16T10:47:02.572Z",
+      "created_at": "2026-10-16T10:47:02.572Z"
+    },
+    {
+      "id": 25164,
+      "source": "Tom's Hardware",
+      "title_en": "Ukrainian drones hit Russian data centers, disrupting Russian apps and services",
+      "description_en": "After Ukrainian long-range strike drones targeted Russian data centers, various Russian digital services and apps went down or faced severe disruption. There's even some suggestion that online bot activity may be down, but not by as much as initial reports claimed.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drones-hit-russian-data-centers-disrupting-russian-apps-and-services-attacks-highlight-the-fragility-of-the-countrys-digital-services",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/nDHvMHdcfdeqRTeB2xJ8fD-1920-80.jpg",
+      "pub_date": "Fri, 16 Oct 2026 10:15:00 +0000",
+      "author": " Jon Martindale ",
+      "categories": [
+        "Data Centers",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-16T10:47:02.572Z",
+      "created_at": "2026-10-16T10:47:02.572Z"
+    },
+    {
+      "id": 25165,
+      "source": "Tom's Hardware",
+      "title_en": "Jailbroken PS5s can now run local AI models at over 100+ tokens per second",
+      "description_en": "PS5LM gets a fork, allowing it to run natively and use the GPU and more RAM to run larger LLMs, even running Qwen3.8-27B at 20 tokens per second.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/p6RKS3uArE9EvG6rNBgPYb-1920-80.jpg",
+      "pub_date": "Fri, 16 Oct 2026 10:00:00 +0000",
+      "author": " Jhet Borja ",
+      "categories": [
+        "PlayStation",
+        "Video Games",
+        "Console Gaming"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-16T10:47:02.572Z",
+      "created_at": "2026-10-16T10:47:02.572Z"
     }
   ]
 }
