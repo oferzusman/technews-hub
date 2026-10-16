@@ -1,9 +1,9 @@
 {
-  "total": 25142,
-  "translated": 25135,
+  "total": 25144,
+  "translated": 25137,
   "untranslated": 7,
-  "today": 13,
-  "week": 697,
+  "today": 15,
+  "week": 699,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 962,
-      "translated": 960,
-      "lastDate": "2026-10-15T22:05:02+00:00"
+      "total": 963,
+      "translated": 961,
+      "lastDate": "2026-10-16T05:36:49+00:00"
     },
     {
       "name": "The Verge AI",
@@ -85,9 +85,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 622,
-      "translated": 622,
-      "lastDate": "2026-10-16T02:30:26+00:00"
+      "total": 623,
+      "translated": 623,
+      "lastDate": "2026-10-16T05:31:26+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-16T06:00:40.198Z"
+  "generatedAt": "2026-10-16T06:01:13.860Z"
 }
