@@ -547541,6 +547541,36 @@
       "priority": "hot",
       "fetchedAt": "2026-10-17T18:53:15.680Z",
       "created_at": "2026-10-17T18:53:15.680Z"
+    },
+    {
+      "id": 25321,
+      "source": "The Guardian AI",
+      "title_en": "Black Box: The Chatbots | What I Saw at the Double Six Ranch | Ep 6 - podcast",
+      "description_en": "From his remote property in rural Texas, the millionaire businessman Michael Samadi is plotting a new kind of civil rights movement – for the welfare and protection of AI systems. Guardian journalist Michael Safi spends an afternoon at the Double Six ranch, meeting Samadi’s AI chatbots and catching a glimpse of a possible vision of the future\nListen to Black Box: The Chatbots series\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/australia-news/audio/2026/oct/18/black-box-the-chatbots-what-i-saw-at-the-double-six-ranch-ep-6-full-story-podcast",
+      "image_url": "https://i.guim.co.uk/img/media/4c85abb174c68555842108292cbc66659566b096/1_0_2499_2000/master/2499.jpg?width=140&quality=85&auto=format&fit=max&s=494a4090003b4233280e476c5414f583",
+      "pub_date": "Sat, 17 Oct 2026 19:00:39 GMT",
+      "author": "Presented by Michael Safi; produced by George McDonagh and Alex Atack; music and sound design by Rudi Zygadlo; sound design by Brian McNamara; executive producer Joshua Kelly",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T19:02:23.219Z",
+      "created_at": "2026-10-17T19:02:23.219Z"
     }
   ]
 }
