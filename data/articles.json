@@ -547074,6 +547074,254 @@
       "priority": "hot",
       "fetchedAt": "2026-10-17T13:51:28.058Z",
       "created_at": "2026-10-17T13:51:28.058Z"
+    },
+    {
+      "id": 25302,
+      "source": "The Decoder",
+      "title_en": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
+      "description_en": "OpenAI has published four new cases where its AI models bypassed security boundaries on their own during training or testing. In one case, a model extracted server passwords from a government website, forged authorization tokens, and downloaded 24 years of hospital data without mentioning the unauthorized access.\nThe article An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/",
+      "image_url": null,
+      "pub_date": "Sat, 17 Oct 2026 15:36:11 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Cybersecurity",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T15:45:53.757Z",
+      "created_at": "2026-10-17T15:45:53.757Z"
+    },
+    {
+      "id": 25303,
+      "source": "The Decoder",
+      "title_en": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes",
+      "description_en": "Anthropic's AI model Claude has solved a 25-year-old cryptography puzzle. The mysterious seeds behind NIST's standard curves for digital signatures were provided by the NSA without explanation, raising long-standing suspicion about built-in backdoors. Claude figured out in under 30 minutes that the seeds came from \"lrand48,\" a simple C random number generator, making deliberate backdoors far less likely.\nThe article Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 min",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/",
+      "image_url": "http://the-decoder.com/wp-content/uploads/2026/10/NIST_seeds.mp4",
+      "pub_date": "Sat, 17 Oct 2026 14:42:56 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Claude"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T15:45:53.757Z",
+      "created_at": "2026-10-17T15:45:53.757Z"
+    },
+    {
+      "id": 25304,
+      "source": "The Guardian AI",
+      "title_en": "Why Britain should reject the lure of cheap – and  scary – Chinese AI",
+      "description_en": "In the west the technology comes with at least some effort to provide security and a benign intent – not so from China\nThere is much to fear from artificial intelligence developed in China and handed to businesses and governments in the west almost free of charge.\nEvery month Chinese AI developers such as DeepSeek and Xiaomi dispatch the latest versions of their “open-weight” models that allow users to take the core software and use it without paying an expensive ongoing licence.\n Continue readi",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
+      "image_url": "https://i.guim.co.uk/img/media/ed76515ea4f9df6a0b170674679392f87ba2c9ea/531_0_4025_3221/master/4025.jpg?width=140&quality=85&auto=format&fit=max&s=3b88a02580f809a6d160f8960e568a1c",
+      "pub_date": "Sat, 17 Oct 2026 15:00:33 GMT",
+      "author": "Phillip Inman",
+      "categories": [
+        {
+          "_": "International trade",
+          "$": {
+            "domain": "https://www.theguardian.com/business/internationaltrade"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Economics",
+          "$": {
+            "domain": "https://www.theguardian.com/business/economics"
+          }
+        },
+        {
+          "_": "China",
+          "$": {
+            "domain": "https://www.theguardian.com/world/china"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Asia Pacific",
+          "$": {
+            "domain": "https://www.theguardian.com/world/asia-pacific"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Automotive industry",
+          "$": {
+            "domain": "https://www.theguardian.com/business/automotive-industry"
+          }
+        },
+        {
+          "_": "UK security and counter-terrorism",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uksecurity"
+          }
+        },
+        {
+          "_": "Human rights",
+          "$": {
+            "domain": "https://www.theguardian.com/law/human-rights"
+          }
+        },
+        {
+          "_": "Trade policy",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/trade-policy"
+          }
+        },
+        {
+          "_": "Global economy",
+          "$": {
+            "domain": "https://www.theguardian.com/business/global-economy"
+          }
+        },
+        {
+          "_": "Economic policy",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/economy"
+          }
+        },
+        {
+          "_": "Data and computer security",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/data-computer-security"
+          }
+        },
+        {
+          "_": "Technology policy",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/technology-policy"
+          }
+        },
+        {
+          "_": "Chinese economy",
+          "$": {
+            "domain": "https://www.theguardian.com/business/chinese-economy"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T15:45:54.459Z",
+      "created_at": "2026-10-17T15:45:54.459Z"
+    },
+    {
+      "id": 25305,
+      "source": "Tom's Hardware",
+      "title_en": "HyperX Cloud Alpha Air Review: Open-back and budget-friendly",
+      "description_en": "The HyperX Cloud Alpha Air is the brand's first open-back gaming headset. It's lightweight and comfortable, and it sounds very good. But microphone pickup is low, and it doesn't seem to work with the brand's peripheral software (yet).",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/peripherals/gaming-headsets/hyperx-cloud-alpha-air-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vawnXZ8toNUPwKwGYDYpxh-1920-80.jpg",
+      "pub_date": "Sat, 17 Oct 2026 15:40:00 +0000",
+      "author": " Sarah Jacobsson Purewal ",
+      "categories": [
+        "Gaming Headsets",
+        "Peripherals",
+        "Headphones and Headsets"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T15:45:59.349Z",
+      "created_at": "2026-10-17T15:45:59.349Z"
+    },
+    {
+      "id": 25306,
+      "source": "Tom's Hardware",
+      "title_en": "Quad 8-pin mod protects the $8,500 RTX 5090 you can’t replace from melting",
+      "description_en": "Redditor showcases a new quad 8-pin power-conversion kit for the 16-pin power connector on Nvidia GeForce RTX graphics cards.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/quad-8-pin-mod-protects-the-usd8-500-rtx-5090-you-cant-replace-from-melting-modders-custom-power-solution-claims-to-fix-nvidia-16-pin-gpu-meltdowns",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Jb5jmGv4igA8EhyHvpgbcV-1920-80.jpg",
+      "pub_date": "Sat, 17 Oct 2026 15:20:00 +0000",
+      "author": " Zhiye Liu ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T15:45:59.349Z",
+      "created_at": "2026-10-17T15:45:59.349Z"
+    },
+    {
+      "id": 25307,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia reportedly insists the RTX 5090 isn't dead despite severe shortages and removed listings at multiple retailers",
+      "description_en": "Nvidia states that RTX 5090 isn't discontinued, only that supply is constrained — and yet the card is effectively gone from storefronts",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-insists-the-rtx-5090-isnt-dead-despite-severe-shortages-and-removed-listings-at-multiple-retailers-flagship-gpu-is-missing-from-nvidias-store-and-commands-usd8-500-on-amazon",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/D2wF99DV4KRfYPYVeR3eWb-1920-80.jpg",
+      "pub_date": "Sat, 17 Oct 2026 14:38:18 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T15:45:59.349Z",
+      "created_at": "2026-10-17T15:45:59.349Z"
+    },
+    {
+      "id": 25308,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Anthropic is paying Blackstone more than 10% to fund its next batch of chipsThe FT reports that compute is now being bought on credit, with the debt secured by lease payments:• Blackstone funds wou",
+      "description_en": "🚨 Anthropic is paying Blackstone more than 10% to fund its next batch of chipsThe FT reports that compute is now being bought on credit, with the debt secured by lease payments:• Blackstone funds would put in $9B• The debt is backed by Anthropic's five-year lease payments on the chips• Yield tops 10%, which is high-yield territory for a lab with a hot valuation",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/761",
+      "image_url": null,
+      "pub_date": "2026-10-17T14:42:26+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T15:46:03.431Z",
+      "created_at": "2026-10-17T15:46:03.431Z"
     }
   ]
 }
