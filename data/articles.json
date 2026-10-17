@@ -546611,6 +546611,29 @@
       "priority": "hot",
       "fetchedAt": "2026-10-17T10:12:42.400Z",
       "created_at": "2026-10-17T10:12:42.400Z"
+    },
+    {
+      "id": 25285,
+      "source": "The Decoder",
+      "title_en": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs",
+      "description_en": "Deepseek has released V4.1-Flash-1017 as an open-weight model that posts better benchmarks, finishes tasks faster, and produces shorter outputs than its predecessor. The company is also opening up its internal search engine through new Search and Fetch APIs at $0.75 per 1,000 calls. API users in tools like Claude Code and Codex get free access for now.\nThe article Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs appeared first on The",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
+      "image_url": null,
+      "pub_date": "Sat, 17 Oct 2026 10:33:28 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "AI in China",
+        "China",
+        "Deepseek"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T10:35:48.628Z",
+      "created_at": "2026-10-17T10:35:48.628Z"
     }
   ]
 }
