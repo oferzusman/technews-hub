@@ -1,9 +1,9 @@
 {
-  "total": 25248,
-  "translated": 25241,
+  "total": 25254,
+  "translated": 25247,
   "untranslated": 7,
-  "today": 2,
-  "week": 720,
+  "today": 8,
+  "week": 726,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2151,
-      "translated": 2151,
+      "total": 2153,
+      "translated": 2153,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -31,9 +31,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1468,
-      "translated": 1466,
-      "lastDate": "2026-10-16T22:10:24+00:00"
+      "total": 1469,
+      "translated": 1467,
+      "lastDate": "2026-10-17T01:51:01+00:00"
     },
     {
       "name": "Product Hunt",
@@ -55,8 +55,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 1149,
-      "translated": 1149,
+      "total": 1150,
+      "translated": 1150,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -79,15 +79,15 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 797,
-      "translated": 797,
+      "total": 798,
+      "translated": 798,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 630,
-      "translated": 630,
-      "lastDate": "2026-10-16T23:47:26+00:00"
+      "total": 631,
+      "translated": 631,
+      "lastDate": "2026-10-17T02:48:26+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-17T01:33:09.358Z"
+  "generatedAt": "2026-10-17T04:19:54.837Z"
 }
