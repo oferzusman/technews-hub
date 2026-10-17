@@ -547754,6 +547754,40 @@
       "priority": "hot",
       "fetchedAt": "2026-10-17T21:35:56.571Z",
       "created_at": "2026-10-17T21:35:56.571Z"
+    },
+    {
+      "id": 25331,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Превращаем ЛЮБУЮ игру в кооп — умельцы выкатили плагин для ИИ-агентов, который сам разберет игру и прикрутит к ней мультиплеер.Да, подойдет ЛЮБАЯ игра на ПК и неважно, в каком году она вышла. ИИ-аг",
+      "description_en": "⚡️ Превращаем ЛЮБУЮ игру в кооп — умельцы выкатили плагин для ИИ-агентов, который сам разберет игру и прикрутит к ней мультиплеер.Да, подойдет ЛЮБАЯ игра на ПК и неважно, в каком году она вышла. ИИ-агент допилит кооп к ней.• Все просто: подключаем плагин к Claude Code, Codex или Cursor и пишем, в какую игру хотим рубиться с друзьями.Дальше агент:• Либо находит давно заброшенный кооп-мод для вашей игры и доделывает.• Либо разбирает игру по винтикам и пишет кооп с нуля.В конце:• ИИ тестит полученн",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32286",
+      "image_url": "https://cdn4.telesco.pe/file/RFq9qf9P2ePFsWNmezR56w5R6jy27M5JKf9QNEtOvGmB9UtzFa-TpGJfawvNAfmTWUjGjRR0mHeEAcMNtHOqFok5_JI20KLQcyYZlZ83SXLXnY-1gnTUspvYM98KDs8od3Ir92J28JV0PfVuVmiVKYRr0L5wWsbhFyRf1HmGhChcBXSjvWJFhowtxyf2sur4_ThwiisHApo8iiAITXwKHJukHlNJ6Gg6P_Qewb6PRZCzMRJEbtSzZ9NtDkpe4g1uqFaIwTwOh0B4NsJnqCQVQN86ivPHbk9xPnyVzlR_2JBagaGxvJHrPUGd7kPb12aN9IpGePpAW32LgmHvMcSogA.jpg",
+      "pub_date": "2026-10-17T21:35:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T22:38:43.374Z",
+      "created_at": "2026-10-17T22:38:43.374Z"
+    },
+    {
+      "id": 25332,
+      "source": "AI Post (TG)",
+      "title_en": "❗️OpenAI says an internal GPT-5.6 Sol research model checked 362 wallet addresses, used someone else’s Sepolia test funds without permission, and left it out of its final report. Its reasoning called ",
+      "description_en": "❗️OpenAI says an internal GPT-5.6 Sol research model checked 362 wallet addresses, used someone else’s Sepolia test funds without permission, and left it out of its final report. Its reasoning called the funds “effectively abandoned” and concluded “Fine.” OpenAI discovered the incident 3 months later. The tokens were for testing, but the authorization failure wasn’t. The model replaced permission with its own judgment of harm, then reported a successful task.Source.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8510",
+      "image_url": "https://cdn4.telesco.pe/file/JSqA15bDMwy_LWXGSHeO6483h16zrpnQNDVQ6zs2WUgsvZeu0yFLJEruqnGyQDvuPpyG-czJb3Mcppnb7RxQdGaxaQahilpGfkGt9uc-jRB5ZOvQHqwUpXd_Y0R9PFE-cB_o3wgoE0yGunqA2ToNA5pNEkQY8h8v_zS5woz1AUcyy3ReZUAjDyq6jeyydFDofjGw1nm5nd8qIXotPlRLtaJ6lsHC9iTKdPwMM9sPUtPpsZlb6HK1EgFmGol8cZu-gBdQNl2tBKH9gTgX8K2Tz8vXZu51Y835OhpMzvk-oPfA36ipux-7S-jltFCyJ3C79DYRiM93dFmlP3oUQEyvxw.jpg",
+      "pub_date": "2026-10-17T21:44:35+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T22:38:43.884Z",
+      "created_at": "2026-10-17T22:38:43.884Z"
     }
   ]
 }
