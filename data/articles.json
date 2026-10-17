@@ -545732,6 +545732,48 @@
       "priority": "batch",
       "fetchedAt": "2026-10-16T23:40:56.479Z",
       "created_at": "2026-10-16T23:40:56.479Z"
+    },
+    {
+      "id": 25247,
+      "source": "Ars Technica",
+      "title_en": "OpenAI models hacked a crypto wallet and breached more websites",
+      "description_en": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg",
+      "pub_date": "Fri, 16 Oct 2026 20:59:01 +0000",
+      "author": "\n                    Dan Goodin\n                ",
+      "categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "LLMs",
+        "models",
+        "openai",
+        "unalignment"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-17T01:25:05.324Z",
+      "created_at": "2026-10-17T01:25:05.324Z"
+    },
+    {
+      "id": 25248,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🤖 Claude cut quantum circuit operations by up to 17x, but only on eight simulated circuitsAnthropic published work where Claude redesigned circuits written in Google's Kickmix language. It rebuilt te",
+      "description_en": "🤖 Claude cut quantum circuit operations by up to 17x, but only on eight simulated circuitsAnthropic published work where Claude redesigned circuits written in Google's Kickmix language. It rebuilt temporary data instead of storing it, and swapped one algorithm for a better one (12x on that one).It's code golf with a simulator that checks every answer, which is exactly where LLMs thrive. Harvard and QuEra collaborated, and the work came out of Anthropic's STEM Fellows Program.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/755",
+      "image_url": null,
+      "pub_date": "2026-10-16T23:47:26+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T01:25:11.044Z",
+      "created_at": "2026-10-17T01:25:11.044Z"
     }
   ]
 }
