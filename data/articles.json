@@ -547485,6 +547485,62 @@
       "priority": "hot",
       "fetchedAt": "2026-10-17T18:01:17.228Z",
       "created_at": "2026-10-17T18:01:17.228Z"
+    },
+    {
+      "id": 25318,
+      "source": "TechCrunch AI",
+      "title_en": "Replit is no longer working with Anthropic, CEO says",
+      "description_en": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "image_url": null,
+      "pub_date": "Sat, 17 Oct 2026 18:48:08 +0000",
+      "author": "Kirsten Korosec, Lucas Ropek, Rebecca Bellan",
+      "categories": [
+        "AI",
+        "Anthropic",
+        "Replit",
+        "TechCrunch Disrupt"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T18:53:10.536Z",
+      "created_at": "2026-10-17T18:53:10.536Z"
+    },
+    {
+      "id": 25319,
+      "source": "AI Post (TG)",
+      "title_en": "🗣Bill Gates: AI will usher in one of the most turbulent eras in history.“AI is both the most powerful tool for advancing equity and the greatest threat to equity humans have ever invented.”“Many jobs",
+      "description_en": "🗣Bill Gates: AI will usher in one of the most turbulent eras in history.“AI is both the most powerful tool for advancing equity and the greatest threat to equity humans have ever invented.”“Many jobs will disappear. White-collar jobs first, with blue-collar ones to follow.”“I worry that we aren’t preparing.”“There’s no plan to ease the entry into the AI era, and not even a plan to have a plan.”“The world has a chance to act now before unemployment rises sharply.”@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8509",
+      "image_url": null,
+      "pub_date": "2026-10-17T18:34:42+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T18:53:15.443Z",
+      "created_at": "2026-10-17T18:53:15.443Z"
+    },
+    {
+      "id": 25320,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 OpenCode confirms a breach, and user credentials leakedThe team posted the disclosure on X less than an hour ago. No scope, no root cause, no word yet on which credentials were exposed. If you've l",
+      "description_en": "🚨 OpenCode confirms a breach, and user credentials leakedThe team posted the disclosure on X less than an hour ago. No scope, no root cause, no word yet on which credentials were exposed. If you've logged into OpenCode or handed it provider keys, rotate those keys now and don't wait for the postmortem.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/763",
+      "image_url": null,
+      "pub_date": "2026-10-17T18:10:38+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T18:53:15.680Z",
+      "created_at": "2026-10-17T18:53:15.680Z"
     }
   ]
 }
