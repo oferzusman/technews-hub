@@ -546634,6 +546634,209 @@
       "priority": "hot",
       "fetchedAt": "2026-10-17T10:35:48.628Z",
       "created_at": "2026-10-17T10:35:48.628Z"
+    },
+    {
+      "id": 25286,
+      "source": "The Guardian AI",
+      "title_en": "The power of AI is worrying senior Labour figures – as is the fear of ‘falling behind the public’",
+      "description_en": "Westminster appears to be waking up to warnings over AI safety, with concerns over its use by extremist groups and bad actors\n“I have this sense that, within a few months, AI is going to be all anyone is talking about,” said one cabinet minister, with an ominous stare.\nIt was Labour conference, with everyone from ministers to activists jubilant at Andy Burnham’s takeover and a bounce in the polls after the change of leader.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/oct/17/artificial-intelligence-ai-labour-government-safety-uk-extremism",
+      "image_url": "https://i.guim.co.uk/img/media/e0d13c6ce0b90597a109492537328402905b91ca/719_0_7202_5760/master/7202.jpg?width=140&quality=85&auto=format&fit=max&s=bc2e49beb9729a79008890cd95940733",
+      "pub_date": "Sat, 17 Oct 2026 11:33:20 GMT",
+      "author": "Rowena Mason and Dan Milmo",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "UK security and counter-terrorism",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uksecurity"
+          }
+        },
+        {
+          "_": "Defence policy",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/defence"
+          }
+        },
+        {
+          "_": "Data and computer security",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/data-computer-security"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Labour",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/labour"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Ed Miliband",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/edmiliband"
+          }
+        },
+        {
+          "_": "Data protection",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/data-protection"
+          }
+        },
+        {
+          "_": "MI5",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/mi5"
+          }
+        },
+        {
+          "_": "Cybercrime",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/cybercrime"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        },
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T12:24:04.316Z",
+      "created_at": "2026-10-17T12:24:04.316Z"
+    },
+    {
+      "id": 25287,
+      "source": "Tom's Hardware",
+      "title_en": "Taiwan targets illicit AI server exports to China with five-year prison terms",
+      "description_en": "Taiwan is expanding the Foreign Trade Act to include AI servers and semiconductors in its list of controlled exports.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-targets-illicit-ai-server-exports-to-china-with-five-year-prison-terms-strict-new-controls-follow-us-tariff-deal-and-super-micro-raid",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/7SnFY4DF33SPY5kRM8YR2e-1920-80.png",
+      "pub_date": "Sat, 17 Oct 2026 12:20:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T12:24:05.477Z",
+      "created_at": "2026-10-17T12:24:05.477Z"
+    },
+    {
+      "id": 25288,
+      "source": "Tom's Hardware",
+      "title_en": "Crafty OpenAI agent willingly stole crypto from an account it didn't own to complete a task during test",
+      "description_en": "GPT5.6-Sol didn't have funds to deploy smart contracts, so it looked for exposed accounts with enough money to pay for the gas fees.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-agent-took-eth-from-another-account-without-authorization-justified-stealing-in-its-chain-of-thought",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/hsZx5kEavBi3nnzHpf7DvC-1920-80.jpg",
+      "pub_date": "Sat, 17 Oct 2026 12:00:00 +0000",
+      "author": " Jhet Borja ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T12:24:05.478Z",
+      "created_at": "2026-10-17T12:24:05.478Z"
+    },
+    {
+      "id": 25289,
+      "source": "Tom's Hardware",
+      "title_en": "Game decompilation hub freezes leaderboard after AI turns progress into a hollow numbers game amid explosion of 'AI slop'",
+      "description_en": "decomp.dev has closed its public index of game decompilation projects, saying AI-driven forks and ports broke the community.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/retro-gaming/game-decompilation-tracker-decomp-dev-shuts-its-public-leaderboard-saying-ai-has-broken-the-community-its-creator-blames-forks-that-use-ai-to-finish-other-teams-projects-and-races-to-ship-rough-pc-ports",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ncoxUFp5HXyLw8EqeEC8qN-1920-80.jpg",
+      "pub_date": "Sat, 17 Oct 2026 11:30:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "Retro Gaming",
+        "Video Games"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T12:24:05.478Z",
+      "created_at": "2026-10-17T12:24:05.478Z"
+    },
+    {
+      "id": 25290,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 OpenAI’s practical AI guides: from questions to real workAI can do more than summarize articles or rewrite messages. It can help solve problems, improve workflows and reduce repetitive tasks.OpenAI",
+      "description_en": "🤖 OpenAI’s practical AI guides: from questions to real workAI can do more than summarize articles or rewrite messages. It can help solve problems, improve workflows and reduce repetitive tasks.OpenAI’s business resources show how to use AI for market research, content creation, customer feedback, document analysis and workflow automation.AI can organize information, draft materials and prepare suggestions for review. However, its outputs still need to be checked, especially when handling sensit",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8507",
+      "image_url": "https://cdn4.telesco.pe/file/lH-IAcb8U8f-6x2MAJadEpWw1E1x11CdulcbDcsEnGNTGePXF_73B4ShUpMdUBrJz-0wdQ-EEomBuR_UZiLPIebYKq-ZNHdh-H9_BPxoA-G3QDjfbyox5MttnCcSpR2GHCh0NsfaIDJ_b_JmcxfVwMzRlGBu6u7erIVw_QV-T_lF_-Q_WCtIAI_WC0RNCdGWxYLYMbD0m3uHFjZDSFxin95jjEnrKG6Myhadl5vG8iG59NnUbMaSJfs_Q3w04OGBwHnc9PyvkUqZJaY6usgEf28K2frGFZXAhvENLGnq_HxXNoksbj0JX0_yj1OdrTe0G4dtlw5yUDRNA4Qyl5b4zg.jpg",
+      "pub_date": "2026-10-17T11:22:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T12:24:09.436Z",
+      "created_at": "2026-10-17T12:24:09.436Z"
+    },
+    {
+      "id": 25291,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Meta wants to train AI on your business's website, and the terms kick in October 30Revised commercial terms would let Meta crawl sites tied to its business customers and use what it collects to tra",
+      "description_en": "🚨 Meta wants to train AI on your business's website, and the terms kick in October 30Revised commercial terms would let Meta crawl sites tied to its business customers and use what it collects to train models or improve its products. If you run ads, manage a Page, or use its business tools, you're the customer in question.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/760",
+      "image_url": null,
+      "pub_date": "2026-10-17T11:41:26+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T12:24:09.874Z",
+      "created_at": "2026-10-17T12:24:09.874Z"
     }
   ]
 }
