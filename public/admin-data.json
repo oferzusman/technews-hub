@@ -1,9 +1,9 @@
 {
-  "total": 25330,
-  "translated": 25323,
+  "total": 25332,
+  "translated": 25325,
   "untranslated": 7,
-  "today": 84,
-  "week": 802,
+  "today": 86,
+  "week": 804,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -31,9 +31,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1474,
-      "translated": 1472,
-      "lastDate": "2026-10-17T18:34:42+00:00"
+      "total": 1475,
+      "translated": 1473,
+      "lastDate": "2026-10-17T21:44:35+00:00"
     },
     {
       "name": "Product Hunt",
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 613,
-      "translated": 612,
-      "lastDate": "2026-10-17T13:04:53+00:00"
+      "total": 614,
+      "translated": 613,
+      "lastDate": "2026-10-17T21:35:29+00:00"
     },
     {
       "name": "Pypi.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-17T21:38:00.789Z"
+  "generatedAt": "2026-10-17T22:39:50.003Z"
 }
