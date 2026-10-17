@@ -546837,6 +546837,243 @@
       "priority": "hot",
       "fetchedAt": "2026-10-17T12:24:09.874Z",
       "created_at": "2026-10-17T12:24:09.874Z"
+    },
+    {
+      "id": 25292,
+      "source": "The Verge AI",
+      "title_en": "Websites are closing their doors to AI agents",
+      "description_en": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice?\nIn recent weeks, users of services like Meta's Muse, xAI's Grok, OpenAI's Dots, and Instinct have reported blocks preventing their AI agents from performing tasks across top websites. Yelp",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "image_url": null,
+      "pub_date": "2026-10-17T13:00:00.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T13:51:22.495Z",
+      "created_at": "2026-10-17T13:51:22.495Z"
+    },
+    {
+      "id": 25293,
+      "source": "Ars Technica",
+      "title_en": "Science says your boss should talk less in meetings",
+      "description_en": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/meetingboredom-1152x648.jpg",
+      "pub_date": "Sat, 17 Oct 2026 11:15:11 +0000",
+      "author": "\n                    Lesley Evans Ogden, Knowable Magazine\n                ",
+      "categories": [
+        "Science",
+        "meetings",
+        "productivity",
+        "Social science",
+        "syndication"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-17T13:51:22.533Z",
+      "created_at": "2026-10-17T13:51:22.533Z"
+    },
+    {
+      "id": 25294,
+      "source": "The Guardian AI",
+      "title_en": "Inside the long, bitter fight over one man’s quest to build the biggest AI datacenter in California",
+      "description_en": "A modern-day prospector promised rural Imperial thousands of jobs and millions in tax revenue – but his plan has set off a firestorm of resistance\nSebastian Rucci zoomed in on a map in late 2024, looking closely at a large block of brown earth. The barren plot sandwiched between sprawling alfalfa fields and sleepy desert suburbs was exactly what he’d been searching for – the perfect place to realize his dream of building the largest artificial intelligence datacenter in California.\nThe dusty exp",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/17/california-datacenter-imperial",
+      "image_url": "https://i.guim.co.uk/img/media/d767e28f4a63f2c033b1690340f479c914d87492/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=212cb89850a6a233b257dd50eba2d669",
+      "pub_date": "Sat, 17 Oct 2026 13:00:31 GMT",
+      "author": "Dara Kerr and Gabrielle Canon",
+      "categories": [
+        {
+          "_": "California",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/california"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "West Coast",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/west-coast"
+          }
+        },
+        {
+          "_": "Datacenters – US",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/datacenters--us-"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Infrastructure",
+          "$": {
+            "domain": "https://www.theguardian.com/business/infrastructure"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T13:51:24.832Z",
+      "created_at": "2026-10-17T13:51:24.832Z"
+    },
+    {
+      "id": 25295,
+      "source": "Interesting Engineering",
+      "title_en": "Heat pumps cut heating costs by 44% compared to coal in poultry farms, study shows",
+      "description_en": "Researchers from Sakarya University and ETA4 Engineering in Turkey have tested an air-source heat pump...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/new-heat-pump-system",
+      "image_url": "https://www.youtube.com/embed/2WN_qnGYWGI",
+      "pub_date": "Sat, 17 Oct 2026 13:14:48 +0000",
+      "author": "Christopher McFadden",
+      "categories": [
+        "Energy",
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T13:51:25.364Z",
+      "created_at": "2026-10-17T13:51:25.364Z"
+    },
+    {
+      "id": 25296,
+      "source": "Interesting Engineering",
+      "title_en": "Record-shattering X-ray pulses focus into spot 100,000 times smaller than a hair",
+      "description_en": "Electrons move so quickly inside atoms and molecules that studying their behavior requires flashes of...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/record-shattering-x-ray-pulses",
+      "image_url": null,
+      "pub_date": "Sat, 17 Oct 2026 12:49:24 +0000",
+      "author": "Rupendra Brahambhatt",
+      "categories": [
+        "Science"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T13:51:25.364Z",
+      "created_at": "2026-10-17T13:51:25.364Z"
+    },
+    {
+      "id": 25297,
+      "source": "Tom's Hardware",
+      "title_en": "Sandisk’s 512GB Switch 2-ready microSD Express card is a steal for $98 during sale — rare tech deal arrives to beat the storage shortage",
+      "description_en": "Nintendo Switch 2 owners looking to download more games can take advantage of this deal on SanDisk’s officially licensed microSD Express card, which supports read speeds of up to 880 MB/s and offers 512GB of capacity.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/sandisks-512gb-switch-2-ready-microsd-express-card-is-a-steal-for-usd98-during-sale-rare-tech-deal-arrives-to-beat-the-storage-shortage",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/FU8d7YHmC7dfR8teRCJXrK-1920-80.jpg",
+      "pub_date": "Sat, 17 Oct 2026 13:39:06 +0000",
+      "author": " Kunal Khullar ",
+      "categories": [
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T13:51:25.941Z",
+      "created_at": "2026-10-17T13:51:25.941Z"
+    },
+    {
+      "id": 25298,
+      "source": "Tom's Hardware",
+      "title_en": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots",
+      "description_en": "HUMXN wants to pay for maintenance and repair services for homes in Minneapolis, Chicago, and Miami to gather data to train AI models and robots.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png",
+      "pub_date": "Sat, 17 Oct 2026 13:21:20 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T13:51:25.941Z",
+      "created_at": "2026-10-17T13:51:25.941Z"
+    },
+    {
+      "id": 25299,
+      "source": "Tom's Hardware",
+      "title_en": "This week on Tom's Hardware Premium: October 17, 2026",
+      "description_en": "This week, Tom's Hardware Premium subscribers can read our EMIB and Foveros roadmaps, the latest on Chinese competition in the local AI system space, and much more.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-17-2026-packaging-roadmaps-chinese-dgx-spark-rival-emerges-and-digging-into-asmls-earnings",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/GZMmaG88xhwUumeVf4ej55-1920-80.jpg",
+      "pub_date": "Sat, 17 Oct 2026 13:00:00 +0000",
+      "author": " Sayem Ahmed ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T13:51:25.941Z",
+      "created_at": "2026-10-17T13:51:25.941Z"
+    },
+    {
+      "id": 25300,
+      "source": "Backdoor (TG)",
+      "title_en": "Запускаем DeepSeek локально на любом компе — нашли подробный гайд на РУССКОМ языке, чтобы поставить одну из мощнейших нейронок мира на ПК. В репозитории 18 частей о том, как установить модель DeepSeek",
+      "description_en": "Запускаем DeepSeek локально на любом компе — нашли подробный гайд на РУССКОМ языке, чтобы поставить одну из мощнейших нейронок мира на ПК. В репозитории 18 частей о том, как установить модель DeepSeek V4, R1 и дистилляты без подключения к сети, с полной приватностью и дополнительными фишками:• Как выбрать модель конкретно для вашего железа.• Установить и настроить Ollama, llama.cpp, LM Studio, Open WebUI, vLLM и SGLang.• Как работать с API и Python.• Авторы также оставили более 30 приемов, промп",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32276",
+      "image_url": "https://cdn4.telesco.pe/file/EvzenHDzeYwbkNJdu5PQaD9VIDORypVhAz2kAJQDuvcGPyJMuSCXDfD-oQ66J_CV-MdrQFWwABM_AJgP6wKGbBMF-SUWX9af4GBPzrJIRsYcNaFlrwqx_fb-JU6qKIoaqQs9qb06B8bywOZOfyLYT0SU5TXO4AX7fIf4aj6WWDwE4512gUf7c0_uwUv8VbX7zswcywgYu9FbZMZ4Dg2CriO8fO8jOw0-FGt9mjk5PlJLeES_2s6cRrKfOVP-qU7FbjesoncwLZWG0tJj3LXRtG0P40FjHqEkPXHS6P6aHUAEwFB4qUXCPP7qdnMBjPy_j984L-UAXEu_VCVYoH3PQw.jpg",
+      "pub_date": "2026-10-17T13:04:53+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T13:51:27.255Z",
+      "created_at": "2026-10-17T13:51:27.255Z"
+    },
+    {
+      "id": 25301,
+      "source": "AI Post (TG)",
+      "title_en": "🚀 DeepSeek’s new model aims to build entire projects from scratchDeepSeek has released DeepSeek-V4.1-Flash-1017, an updated model designed to deliver stronger benchmark results, faster task completio",
+      "description_en": "🚀 DeepSeek’s new model aims to build entire projects from scratchDeepSeek has released DeepSeek-V4.1-Flash-1017, an updated model designed to deliver stronger benchmark results, faster task completion, and shorter outputs than its predecessor.The goal is a better balance between performance and cost, with the model now available through DeepSeek’s website, app, and API.What makes this release interesting is its focus on building complete projects. Using reinforcement learning and self-feedback,",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8508",
+      "image_url": "https://cdn4.telesco.pe/file/catJ6H9MYp9UuObzfufMn9hgHGnCgoWb72WYWTFfwUgWjUkJK0d2BNMmGMrAhUAmkuTF_Qs9XmD_b4Aj167oCvbe2SWIDoXMJ6uO9IRYBCvuyv-9kedUuW8ab1a09tjJYum_dDJ9wcPmO8QViObFZv86Ygi0zlt4XTTGtw6Q-hhj5-o8WnM4IbKi98KOUMygwPD98nIV2ajZ7W97siWF1PyH7vD_8tD9VVnk1z81Au3qT1yd7BVDnW5zUbYoxDKs_DPC6G4lEQhXQFaBFV3iN_HmIZl6kr9lp1DEtag9opopJtt7m7R38ohWXXH2nqCHY5lG_beLlG-GQ_XDv66-ng.jpg",
+      "pub_date": "2026-10-17T13:14:38+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-17T13:51:28.058Z",
+      "created_at": "2026-10-17T13:51:28.058Z"
     }
   ]
 }
