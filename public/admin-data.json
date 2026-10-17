@@ -1,9 +1,9 @@
 {
-  "total": 25259,
-  "translated": 25252,
+  "total": 25273,
+  "translated": 25266,
   "untranslated": 7,
-  "today": 13,
-  "week": 731,
+  "today": 27,
+  "week": 745,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -31,15 +31,15 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1470,
-      "translated": 1468,
-      "lastDate": "2026-10-17T05:06:01+00:00"
+      "total": 1471,
+      "translated": 1469,
+      "lastDate": "2026-10-17T08:11:02+00:00"
     },
     {
       "name": "Product Hunt",
-      "total": 1403,
-      "translated": 1403,
-      "lastDate": "2026-10-15T13:27:08.000Z"
+      "total": 1408,
+      "translated": 1408,
+      "lastDate": "2026-10-17T01:32:08.000Z"
     },
     {
       "name": "The Decoder",
@@ -55,8 +55,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 1151,
-      "translated": 1151,
+      "total": 1152,
+      "translated": 1152,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 965,
-      "translated": 963,
-      "lastDate": "2026-10-16T21:03:05+00:00"
+      "total": 968,
+      "translated": 966,
+      "lastDate": "2026-10-17T08:09:42+00:00"
     },
     {
       "name": "The Verge AI",
@@ -79,15 +79,15 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 798,
-      "translated": 798,
+      "total": 799,
+      "translated": 799,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 632,
-      "translated": 632,
-      "lastDate": "2026-10-17T05:49:26+00:00"
+      "total": 634,
+      "translated": 634,
+      "lastDate": "2026-10-17T08:40:43+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 462,
-      "translated": 460,
-      "lastDate": "2026-10-16T17:15:39+00:00"
+      "total": 463,
+      "translated": 461,
+      "lastDate": "2026-10-17T07:23:40+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-17T06:12:29.522Z"
+  "generatedAt": "2026-10-17T08:42:58.174Z"
 }
