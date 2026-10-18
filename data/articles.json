@@ -548307,6 +548307,451 @@
       "priority": "hot",
       "fetchedAt": "2026-10-18T10:21:25.936Z",
       "created_at": "2026-10-18T10:21:25.936Z"
+    },
+    {
+      "id": 25356,
+      "source": "The Decoder",
+      "title_en": "Four Gemini 4 Argon agents beat Minecraft without any human help",
+      "description_en": "Four AI agents running on Google's Gemini 4 Argon have beaten Minecraft for the first time without human help, slaying the Ender Dragon in a fully autonomous run. With no predefined roles or strategies, they coordinated on their own, wrote 2,783 programs, exchanged 229 chat messages, and died 605 times. The session cost $1,620.\nThe article Four Gemini 4 Argon agents beat Minecraft without any human help appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/",
+      "image_url": null,
+      "pub_date": "Sun, 18 Oct 2026 12:39:51 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Short News",
+        "Gemini",
+        "Gemini 4 Argon"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-18T12:42:59.776Z",
+      "created_at": "2026-10-18T12:42:59.776Z"
+    },
+    {
+      "id": 25357,
+      "source": "The Decoder",
+      "title_en": "Two German courts now hold Google liable for what its AI overviews say",
+      "description_en": "Google tried to overturn a landmark Munich ruling on AI search liability by appealing, then quietly settled. The strategy isn't working. The Aachen Regional Court just applied the exact same reasoning in a new case where Google's AI falsely attributed criminal offenses to a doctor that actually involved someone else. A consistent legal view is forming across German courts, and it treats Google's AI answers as the company's own content.\nThe article Two German courts now hold Google liable for wha",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
+      "image_url": null,
+      "pub_date": "Sun, 18 Oct 2026 10:52:39 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "AI Overviews",
+        "Google"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-18T12:42:59.777Z",
+      "created_at": "2026-10-18T12:42:59.777Z"
+    },
+    {
+      "id": 25358,
+      "source": "The Guardian AI",
+      "title_en": "Microsoft drops huge AI datacentre project in Essex over power supply concerns",
+      "description_en": "Development by UK firm Nscale heralded by ministers as largest of its kind in the country loses its anchor tenant\nThe development of a huge AI datacentre hailed by the UK government has received a fresh setback after Microsoft pulled out of the project over concerns about power supplies.\nThe development by the British firm Nscale, heralded by ministers as the country’s largest AI datacentre when it was announced in 2025, was planned to open at Loughton in Essex next year.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
+      "image_url": "https://i.guim.co.uk/img/media/48d031cc06f5ca17cafd75b0f30a1537d4f35d43/7_0_686_549/master/686.jpg?width=140&quality=85&auto=format&fit=max&s=c5cf32679a4362ea71e1465a65af9593",
+      "pub_date": "Sun, 18 Oct 2026 12:28:45 GMT",
+      "author": "Gwyn Topham",
+      "categories": [
+        {
+          "_": "Datacentres - UK",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/datacentres"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Microsoft",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/microsoft"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Essex",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/essex"
+          }
+        },
+        {
+          "_": "Infrastructure",
+          "$": {
+            "domain": "https://www.theguardian.com/business/infrastructure"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-18T12:43:00.349Z",
+      "created_at": "2026-10-18T12:43:00.349Z"
+    },
+    {
+      "id": 25359,
+      "source": "The Guardian AI",
+      "title_en": "World leaders must wise up to threat of cyber-attacks or rogue fridges will be least of their worries | Heather Stewart",
+      "description_en": "Global cooperation seems unlikely despite AI increasing the risk of digital fraud and the need to protect the financial system\nRogue French fridges were an unlikely talking point for the world’s leading economists, central bankers and finance chiefs meeting in a sultry Bangkok last week – helping to underline the spiralling cost of cyber-attacks.\nKristalina Georgieva, the managing director of the International Monetary Fund, seized on news that supermarket chains across France had to chuck out p",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/oct/18/world-leaders-threat-cyber-attacks-rogue-fridges-financial-system",
+      "image_url": "https://i.guim.co.uk/img/media/3ba762c70e9c188fc6533e353ffe9c2e077e95c6/147_5_4646_3720/master/4646.jpg?width=140&quality=85&auto=format&fit=max&s=b51f40369a7632db7e180a783eaa7a86",
+      "pub_date": "Sun, 18 Oct 2026 11:46:50 GMT",
+      "author": "Heather Stewart",
+      "categories": [
+        {
+          "_": "Cybercrime",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/cybercrime"
+          }
+        },
+        {
+          "_": "International Monetary Fund (IMF)",
+          "$": {
+            "domain": "https://www.theguardian.com/business/imf"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Economics",
+          "$": {
+            "domain": "https://www.theguardian.com/business/economics"
+          }
+        },
+        {
+          "_": "Kristalina Georgieva",
+          "$": {
+            "domain": "https://www.theguardian.com/business/kristalina-georgieva"
+          }
+        },
+        {
+          "_": "Andrew Bailey",
+          "$": {
+            "domain": "https://www.theguardian.com/business/andrew-bailey"
+          }
+        },
+        {
+          "_": "Bank of England",
+          "$": {
+            "domain": "https://www.theguardian.com/business/bankofenglandgovernor"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-18T12:43:00.350Z",
+      "created_at": "2026-10-18T12:43:00.350Z"
+    },
+    {
+      "id": 25360,
+      "source": "Tom's Hardware",
+      "title_en": "MIT engineers build soft 3D shape-sensing skin for gaming and VR",
+      "description_en": "MIT engineers embedded soft optical fibers in a silicone sheet that reconstructs its own 3D shape, aimed at gaming, VR, and physical therapy.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/virtual-reality/mit-engineers-build-soft-3d-shape-sensing-skin-for-gaming-and-vr-tracks-3d-movement-and-touch-with-sub-half-centimeter-error",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/AoiE9uB5AeDWhPjLmoTh43-1920-80.jpg",
+      "pub_date": "Sun, 18 Oct 2026 12:25:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "Virtual Reality"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-18T12:43:04.164Z",
+      "created_at": "2026-10-18T12:43:04.164Z"
+    },
+    {
+      "id": 25361,
+      "source": "Tom's Hardware",
+      "title_en": "Typo-squatting attacks with major domains are still viable",
+      "description_en": "Typo-squatting attacks with major domains are still viable  — corner cases with Cyrillic characters still evade the best checks",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/typo-squatting-attacks-with-major-domains-are-still-viable-corner-cases-with-cyrillic-characters-still-evade-the-best-checks",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/SQzRnE4jQMZ8s6EjxkPFB6-1920-80.jpg",
+      "pub_date": "Sun, 18 Oct 2026 12:05:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Cybersecurity",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-18T12:43:04.164Z",
+      "created_at": "2026-10-18T12:43:04.164Z"
+    },
+    {
+      "id": 25362,
+      "source": "Tom's Hardware",
+      "title_en": "300-plus local data center bans have only delayed just three US projects",
+      "description_en": "SemiAnalysis mapped more than 300 local data center moratoriums against the US pipeline and found only three projects actually delayed.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/300-plus-local-data-center-bans-have-only-delayed-just-three-us-projects-bans-much-more-bark-than-bite-only-2-3-gigawatts-of-data-centers-are-held-up-versus-38-gigawatts-expected-online-in-2027",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/LRwmwu7XEdDMQkb8uQgofm-1920-80.jpg",
+      "pub_date": "Sun, 18 Oct 2026 11:45:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "Data Centers",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-18T12:43:04.164Z",
+      "created_at": "2026-10-18T12:43:04.164Z"
+    },
+    {
+      "id": 25363,
+      "source": "Tom's Hardware",
+      "title_en": "Anthropic’s proposed AI safety bill only kicks in if 50 deaths or $1 billion in damages are on the line",
+      "description_en": "Anthropic's proposal requires evaluators to report any imminent risk to the Department of Commerce within 72 hours, after which the Department must present the evidence to a federal judge and await an order.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/SVPa8KkaDwkeyAtLnMhyKW-1920-80.png",
+      "pub_date": "Sun, 18 Oct 2026 11:25:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-18T12:43:04.164Z",
+      "created_at": "2026-10-18T12:43:04.164Z"
+    },
+    {
+      "id": 25364,
+      "source": "Tom's Hardware",
+      "title_en": "Researchers train AI to detect concealed handguns using Wi-Fi signals",
+      "description_en": "Researchers have developed WiFireNet, an AI system that detects concealed handguns from Wi-Fi channel-state information, achieving 72.5% average precision in controlled indoor tests without cameras or metal detectors.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-train-ai-to-detect-concealed-handguns-using-wi-fi-signals-open-source-wifirenet-achieves-precision-detection-on-older-802-11a-standard-by-analyzing-how-weapons-distort-wireless-signals",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/kfvNwDT4D6jpoBvqVwPdcE-1920-80.webp",
+      "pub_date": "Sun, 18 Oct 2026 11:00:00 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-18T12:43:04.164Z",
+      "created_at": "2026-10-18T12:43:04.164Z"
+    },
+    {
+      "id": 25365,
+      "source": "Tom's Hardware",
+      "title_en": "DJI’s first battery-swapping dock gets drones recharged and back in the air in under 45 seconds",
+      "description_en": "DJI Dock 4 swaps the Matrice 5TD drone’s battery in 25 seconds, but the system has no FCC clearance for sale in the U.S.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/drones/djis-first-battery-swapping-dock-gets-drones-recharged-and-back-in-the-air-in-under-45-seconds-but-dock-4-has-no-fcc-clearance-for-u-s-sale",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/7UPUu58BKnXpWmHdJqSowb-1920-80.jpg",
+      "pub_date": "Sun, 18 Oct 2026 10:30:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "Drones",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-18T12:43:04.164Z",
+      "created_at": "2026-10-18T12:43:04.164Z"
+    },
+    {
+      "id": 25366,
+      "source": "CNBC Tech",
+      "title_en": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+      "description_en": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+      "image_url": null,
+      "pub_date": "Sun, 18 Oct 2026 12:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-18T12:43:04.459Z",
+      "created_at": "2026-10-18T12:43:04.459Z"
+    },
+    {
+      "id": 25367,
+      "source": "Backdoor (TG)",
+      "title_en": "Делаем идеальное фото на документы за одну команду с ChatGPT — в сети подсказали максимально полезный лайфхак без кучи геморроя и дополнительных промптов.Записываем:1️⃣ Делаем селфи и грузим его в чат",
+      "description_en": "Делаем идеальное фото на документы за одну команду с ChatGPT — в сети подсказали максимально полезный лайфхак без кучи геморроя и дополнительных промптов.Записываем:1️⃣ Делаем селфи и грузим его в чат-бот.2️⃣ Дальше закидываем команду /passportsizephoto3️⃣ Нейросеть автоматически сделает портретное фото с белым фоном, ровным светом и правильным расположением лица.Свою фотостудию открываем — тут.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32301",
+      "image_url": null,
+      "pub_date": "2026-10-18T11:56:12+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-18T12:43:05.055Z",
+      "created_at": "2026-10-18T12:43:05.055Z"
+    },
+    {
+      "id": 25368,
+      "source": "XOR Journal (TG)",
+      "title_en": "ИИ-креаторы, вам: за один сгенерированный джингл можно забрать 100 000 рублей и прославиться на всю страну 🤩«Новогодний миллиард» запустил конкурс музыки: нужно придумать короткую композицию для лоте",
+      "description_en": "ИИ-креаторы, вам: за один сгенерированный джингл можно забрать 100 000 рублей и прославиться на всю страну 🤩«Новогодний миллиард» запустил конкурс музыки: нужно придумать короткую композицию для лотереи и отправить её до 25 октября включительно. А с 26 октября по 1 ноября начнётся народное голосование за лучший трек.Самое время расчехлить ИИ и стать композитором 😎",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10329",
+      "image_url": "https://cdn4.telesco.pe/file/feZExpM0kLk4x26gmDDJVjtPu2dWuknNx9FSt5T08YGhu1fe7RbX-GGunfzdid7O0kzat8cpBidARBrMCSX2Fkl0emT2PiXp2RP98fTn3NbwlJZUy51ZtXjH79mrNwX3tpm10JhMVNaJaFApDcm6gmCtRRSUKiTwmWsZIPUmwIWSNpYf6UZiCFLrv7Z2aNWozlaFVo2RkbAiD7DrBPJiuiYKLGCfH9_xN0H8nxck5_ojOi-7ikUVojzKmHYloeXQc4usOipbyRB6WP3gwmLs_f2L2ckMwgLuwlhmuSwTwUUqdSXAUHqVCq9bm6FXxJHKxKcVP_r6aqzGXzHxvR1U_w.jpg",
+      "pub_date": "2026-10-18T11:35:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-18T12:43:05.084Z",
+      "created_at": "2026-10-18T12:43:05.084Z"
+    },
+    {
+      "id": 25369,
+      "source": "XOR Journal (TG)",
+      "title_en": "Математики следующие 😬@xor_journal",
+      "description_en": "Математики следующие 😬@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10331",
+      "image_url": "https://cdn4.telesco.pe/file/lvjTMd3eMyoTM68-8soCadyCijswmAxxb2_CdbUxnQ87iqkPZjEfCEwlYMSCUCJw_nB0JQGsFiJOV15v5z_rSuNHzN39IcwqYIkLSu36kyYdTS7i-YPXrRjxlEYjp6uAaGxFyu9VZuezJtwpHERsFJn8PIrW9IXTiW41XDDUY35Qq4482mYJXuhpoZv5IuDLJenydEIAh7PPl2iHb8gTfnZzSLbRm1rQvlJ82C2Ck8nD93FtDz3nZ1a0tb0a9Iz6bLAVbYlzVnHUlUA-OaCgH7Q0SqP6enNXJhySZoDgVzE6jCBEi22YnfrFn3_hIw5UHiSpt7yNAc-TPkCadgMWoQ.jpg",
+      "pub_date": "2026-10-18T12:13:19+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-18T12:43:05.084Z",
+      "created_at": "2026-10-18T12:43:05.084Z"
+    },
+    {
+      "id": 25370,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🎥 Actor Mark Wahlberg Wants to Continue Acting After His Death — With the Help of an AI CloneActor and investor Mark Wahlberg has no objection whatsoever to his AI clone continuing his on-screen care",
+      "description_en": "🎥 Actor Mark Wahlberg Wants to Continue Acting After His Death — With the Help of an AI CloneActor and investor Mark Wahlberg has no objection whatsoever to his AI clone continuing his on-screen career after his death.\"It would be cool that my children or my grandchildren could be in charge of my likeness and my image, and hopefully put me in some good movies,\" said Wahlberg.The actor is even ready to sign up for CAA Vault, a private \"digital vault\" run by the Hollywood agency where celebrities",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2869",
+      "image_url": "https://cdn4.telesco.pe/file/iOJma6R4CxxGy5l0KxyOB8ucN90CraK2pGobuAMZVwFQy7It641QL-T6vAaSvvPJ_oyvKpDw_eQnTyU_W0yASfBQP_57hSsCuPdJoYs2eVpvgn3ObVBer6tui2uy6llHeQ10I0GDojGsNJSDDl6J0DRdzYBKNcjHg_obUSfP19lY3D_03UtWvGfY88fjq29aHNIJlqRofU8bxDwoa26iI9J-648uZGZr3b711GfIX2m84AUhflsVCtJLi4RM3WKYa6BIq3OHC7BG9LaRiur5UPZlHHsVBVcfZEgkK8J6xUbTgvlZRQGa6_mWIM2eSXzqZhxuPHhoBwnMDCK2dLWnPw.jpg",
+      "pub_date": "2026-10-18T10:34:32+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-18T12:43:05.313Z",
+      "created_at": "2026-10-18T12:43:05.313Z"
+    },
+    {
+      "id": 25371,
+      "source": "AI Post (TG)",
+      "title_en": "🗣Bill Gates claims “over the next year, we are going to have a lot of NEGATIVE SURPRISES” from AI cyberattacks.Just 2 days ago, OpenAI and Anthropic were revealed to be PRIVATELY WAR-GAMING the fallo",
+      "description_en": "🗣Bill Gates claims “over the next year, we are going to have a lot of NEGATIVE SURPRISES” from AI cyberattacks.Just 2 days ago, OpenAI and Anthropic were revealed to be PRIVATELY WAR-GAMING the fallout from AI cyberattacks. AI false flag risk is now VERY HIGH.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8517",
+      "image_url": null,
+      "pub_date": "2026-10-18T10:20:23+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-18T12:43:05.517Z",
+      "created_at": "2026-10-18T12:43:05.517Z"
+    },
+    {
+      "id": 25372,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 The AI debt pile is showing its first cracks, and CoreWeave, Oracle and SoftBank are in the middle of itThe NYT reports that lenders are getting nervous about the borrowing behind the data center b",
+      "description_en": "🚨 The AI debt pile is showing its first cracks, and CoreWeave, Oracle and SoftBank are in the middle of itThe NYT reports that lenders are getting nervous about the borrowing behind the data center boom.• CoreWeave runs on chip-backed loans• Oracle is borrowing heavily to build capacity for AI customers• SoftBank is stretching its balance sheet to fund its AI betsSame pattern as the Anthropic and Blackstone chip-lease deal. It all works as long as demand keeps up.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/769",
+      "image_url": null,
+      "pub_date": "2026-10-18T12:16:26+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-18T12:43:05.829Z",
+      "created_at": "2026-10-18T12:43:05.829Z"
     }
   ]
 }
