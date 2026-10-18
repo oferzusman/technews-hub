@@ -547822,6 +547822,23 @@
       "priority": "hot",
       "fetchedAt": "2026-10-18T00:16:51.309Z",
       "created_at": "2026-10-18T00:16:51.309Z"
+    },
+    {
+      "id": 25335,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 Claude solves a 25-year-old cryptography mystery in under 30 minutesFor decades, researchers questioned how the NSA chose the parameters behind widely used elliptic-curve cryptography standards. An",
+      "description_en": "🤖 Claude solves a 25-year-old cryptography mystery in under 30 minutesFor decades, researchers questioned how the NSA chose the parameters behind widely used elliptic-curve cryptography standards. Anthropic says Claude has now uncovered a key part of the answer.The model traced the origins of five NIST curves, including P-256, to a 1990s pseudorandom number generator seeded with Unix timestamps. Instead of breaking the encryption, Claude reconstructed how the original parameters were generated,",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8514",
+      "image_url": "https://cdn4.telesco.pe/file/PUAI9v8J_76W87iGMe3UJvBfec6z9AFcyA8vgVjumAmAd_r1Fp0-Z2DbaOa-0N3xcm_CVwgy2pWrEkfAt5v-Hf-XhweLn9oOF-stps1ksHuc1w-aRqpD3hvBgJDS01wo7kMQNyoo0r_HwFYiw-iXgl_OsVZ5A7lfOpzB6hldsm6qmRZarC7HJsjwFwjwi-t5WKsEafWWNOpTzDId4nxc0NR2nNXaBpNLMDt0uV450d9tAhxvMnoPhVOCd7PvXAQy0_4X2qolHw0lrj1_pQMr1sjQr-IipDxjWVq3Ywbhzm2FUZjAMJQPMScKTASobn3Mz0_F66VbWTR1OpUOXppEzg.jpg",
+      "pub_date": "2026-10-18T00:55:11+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-18T01:08:43.456Z",
+      "created_at": "2026-10-18T01:08:43.456Z"
     }
   ]
 }
