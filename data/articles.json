@@ -548752,6 +548752,137 @@
       "priority": "hot",
       "fetchedAt": "2026-10-18T12:43:05.829Z",
       "created_at": "2026-10-18T12:43:05.829Z"
+    },
+    {
+      "id": 25373,
+      "source": "New Atlas",
+      "title_en": "Heat-storing gels regulate building temp to slash energy bills",
+      "description_en": "An emerging class of heat-storing gels is out to reduce the energy our buildings burn on heating and cooling. Initial tests look promising, so researchers are lining up roofs, walls, windows and even hot-water and AC modules as the next stops.\nContinue Reading\nCategory: Materials, Engineering\nTags: Heating, Storage, Construction, Texas A&M Universty",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/materials/heat-storing-salogel-construction-energy/",
+      "image_url": null,
+      "pub_date": "Sun, 18 Oct 2026 13:03:00 GMT",
+      "author": "Omar Kardoudi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-18T13:15:13.314Z",
+      "created_at": "2026-10-18T13:15:13.314Z"
+    },
+    {
+      "id": 25374,
+      "source": "Interesting Engineering",
+      "title_en": "S-400 vs S-500: What is the difference between Russia’s air-defense systems?",
+      "description_en": "Russia’s S-400 and S-500 are both mobile, ground-based air-defense systems designed to intercept threats at...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/s-400-vs-s-500-what-is-the-difference",
+      "image_url": null,
+      "pub_date": "Sun, 18 Oct 2026 13:04:51 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-18T13:15:14.203Z",
+      "created_at": "2026-10-18T13:15:14.203Z"
+    },
+    {
+      "id": 25375,
+      "source": "Interesting Engineering",
+      "title_en": "Ukrainian drones strike fuel depots and tech hubs near Russia’s St. Petersburg: Reports",
+      "description_en": "Ukrainian drone strikes hit multiple infrastructure sites in St. Petersburg and Russia’s surrounding Leningrad region...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/ukrainian-drones-strike-fuel-depots",
+      "image_url": "https://www.youtube.com/embed/q-hr-Qc4Dz0",
+      "pub_date": "Sun, 18 Oct 2026 13:03:19 +0000",
+      "author": "Bojan Stojkovski",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-18T13:15:14.203Z",
+      "created_at": "2026-10-18T13:15:14.203Z"
+    },
+    {
+      "id": 25376,
+      "source": "Interesting Engineering",
+      "title_en": "From fighters to spy planes: 10 fastest aircraft the US military ever flew",
+      "description_en": "The fastest aircraft flown by the US military include fighters, reconnaissance jets, and experimental rocket...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/10-fastest-aircraft-flown-by-us-military",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/X-15.jpg",
+      "pub_date": "Sun, 18 Oct 2026 12:59:53 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-18T13:15:14.203Z",
+      "created_at": "2026-10-18T13:15:14.203Z"
+    },
+    {
+      "id": 25377,
+      "source": "Tom's Hardware",
+      "title_en": "Chip fab engineering game goes viral in Taiwan",
+      "description_en": "A new 3D web game where you live 'A Day in the Life of a Semiconductor Wafer Factory Worker' has gone viral in Taiwan, where it was developed.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/chip-fab-engineering-game-goes-viral-in-taiwan-realistic-and-stressful-simulation-is-basically-a-horror-game-say-some-players",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/emSPKHqypgWdvGHE8rXasc-1920-80.jpg",
+      "pub_date": "Sun, 18 Oct 2026 12:50:33 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "PC Gaming",
+        "Video Games"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-18T13:15:14.579Z",
+      "created_at": "2026-10-18T13:15:14.579Z"
+    },
+    {
+      "id": 25378,
+      "source": "Tom's Hardware",
+      "title_en": "Official DLSS 5 running on unsupported games delivers up to 90% better performance than the leaked version",
+      "description_en": "Nvidia's latest DLSS Neural Renderer, extracted from NBA 2K27 (again), is being tested on unsupported games and shows up to a 90% performance gain over the previous NR model.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/modders-used-the-official-dlss-5-release-on-unsupported-games-and-are-seeing-up-to-90-percent-better-performance-than-the-leaked-dlss-5-nvidia-says-new-nr-model-uses-20-percent-less-vram-and-processes-neural-workloads-up-to-2x-faster",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/D2wF99DV4KRfYPYVeR3eWb-1920-80.jpg",
+      "pub_date": "Sun, 18 Oct 2026 12:45:00 +0000",
+      "author": " Jhet Borja ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-18T13:15:14.579Z",
+      "created_at": "2026-10-18T13:15:14.579Z"
+    },
+    {
+      "id": 25379,
+      "source": "AI Post (TG)",
+      "title_en": "❗️Anthropic’s report is basically saying humans are the bottleneck.“Amid this model-driven acceleration, human attention is a constant bottleneck. Claude sessions amount to around 80% idly waiting for",
+      "description_en": "❗️Anthropic’s report is basically saying humans are the bottleneck.“Amid this model-driven acceleration, human attention is a constant bottleneck. Claude sessions amount to around 80% idly waiting for human input. As one engineer put it, people are “bottlenecking the agents.”@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8518",
+      "image_url": "https://cdn4.telesco.pe/file/l-LDPZ0ynpz8Prph3K6o7WJF_C-VjLJv-YOlw2jSTV-kFPWub8wT_XS8u_QvzdtZusW_kB4WsH13w52StL4NwTN7voUGfskc3cCd_XF3lAmDiu_oWTy9YydKWQVyymlNw9xzDLGfXLDGvdf96bud09vBMbnEyu8aACGBHa3gw4NXE4bzrCh-ey4jGuh-5aUTU92mh7A1OJVpUxo8g7WE81G42xZOzvbwoCI8irwA-AF0UFuZM2qHP1IIHafZQF7CVr2Opb-hTuqV9KgOwJ_mzaaNWJ9EYbc08z3OwPmjxXDw1u7T8HvID2-JWV9xsZu0iVDezaV4FVc0_9mE5Rnvgw.jpg",
+      "pub_date": "2026-10-18T13:12:14+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-18T13:15:20.976Z",
+      "created_at": "2026-10-18T13:15:20.976Z"
     }
   ]
 }
