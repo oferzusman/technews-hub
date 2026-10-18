@@ -1,9 +1,9 @@
 {
-  "total": 25400,
-  "translated": 25393,
+  "total": 25401,
+  "translated": 25394,
   "untranslated": 7,
-  "today": 67,
-  "week": 800,
+  "today": 68,
+  "week": 801,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -85,9 +85,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 646,
-      "translated": 646,
-      "lastDate": "2026-10-18T18:18:26+00:00"
+      "total": 647,
+      "translated": 647,
+      "lastDate": "2026-10-18T21:19:26+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-18T21:18:24.440Z"
+  "generatedAt": "2026-10-18T21:45:22.384Z"
 }
