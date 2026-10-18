@@ -1,9 +1,9 @@
 {
-  "total": 25336,
-  "translated": 25329,
+  "total": 25338,
+  "translated": 25331,
   "untranslated": 7,
-  "today": 3,
-  "week": 736,
+  "today": 5,
+  "week": 738,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -31,9 +31,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1476,
-      "translated": 1474,
-      "lastDate": "2026-10-18T00:55:11+00:00"
+      "total": 1477,
+      "translated": 1475,
+      "lastDate": "2026-10-18T04:06:01+00:00"
     },
     {
       "name": "Product Hunt",
@@ -85,9 +85,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 640,
-      "translated": 640,
-      "lastDate": "2026-10-18T00:12:26+00:00"
+      "total": 641,
+      "translated": 641,
+      "lastDate": "2026-10-18T03:13:26+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-18T03:15:25.631Z"
+  "generatedAt": "2026-10-18T04:51:06.469Z"
 }
