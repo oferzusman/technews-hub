@@ -552060,6 +552060,48 @@
       "priority": "batch",
       "fetchedAt": "2026-10-19T23:34:41.796Z",
       "created_at": "2026-10-19T23:34:41.796Z"
+    },
+    {
+      "id": 25516,
+      "source": "TechCrunch AI",
+      "title_en": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "description_en": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "image_url": null,
+      "pub_date": "Mon, 19 Oct 2026 23:39:38 +0000",
+      "author": "Lucas Ropek",
+      "categories": [
+        "AI",
+        "Anthropic",
+        "compute",
+        "data centers",
+        "nscale"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-19T23:52:05.099Z",
+      "created_at": "2026-10-19T23:52:05.099Z"
+    },
+    {
+      "id": 25517,
+      "source": "Interesting Engineering",
+      "title_en": "Mercury 3 claims to outperform GPT-6 Luna, Claude Haiku 5.5 at 8 times the speed",
+      "description_en": "California-based AI research and product company Inception has unveiled Mercury 3, its latest diffusion language...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/mercury-3-diffusion-model-8-times-faster",
+      "image_url": null,
+      "pub_date": "Mon, 19 Oct 2026 23:45:12 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-19T23:52:08.213Z",
+      "created_at": "2026-10-19T23:52:08.213Z"
     }
   ]
 }
