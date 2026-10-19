@@ -550702,6 +550702,211 @@
       "priority": "hot",
       "fetchedAt": "2026-10-19T13:02:26.640Z",
       "created_at": "2026-10-19T13:02:26.640Z"
+    },
+    {
+      "id": 25455,
+      "source": "The Verge AI",
+      "title_en": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "description_en": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.\nConcerns over AI-powered cybersecurity breaches have grown as the technology grows more advanced, with hackers using the tools to carry out large-scale attacks. At the same time, rogue AI agents are ca",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "image_url": null,
+      "pub_date": "2026-10-19T13:58:41.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-19T14:28:05.131Z",
+      "created_at": "2026-10-19T14:28:05.131Z"
+    },
+    {
+      "id": 25456,
+      "source": "Ars Technica",
+      "title_en": "DIY VR: How to build your own headset, and why you probably won't want to",
+      "description_en": "A primer on the joys and pains of building your own head-mounted display.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/DIY-VR-header-1152x648.jpg",
+      "pub_date": "Mon, 19 Oct 2026 12:33:34 +0000",
+      "author": "\n                    Tim Stevens\n                ",
+      "categories": [
+        "Features",
+        "Tech",
+        "Arduino",
+        "DIY",
+        "headset",
+        "hmd",
+        "IMU",
+        "steamvr",
+        "VR"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-19T14:28:05.169Z",
+      "created_at": "2026-10-19T14:28:05.169Z"
+    },
+    {
+      "id": 25457,
+      "source": "MarkTechPost",
+      "title_en": "MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input",
+      "description_en": "MiniMax has released M3.1 Flash, a 428B-parameter MoE model with about 23B active parameters and a 1M-token context. API pricing is $0.15/$0.60 per 1M tokens, with weights due October 23\nThe post MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/",
+      "image_url": null,
+      "pub_date": "Mon, 19 Oct 2026 12:37:58 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-19T14:28:06.651Z",
+      "created_at": "2026-10-19T14:28:06.651Z"
+    },
+    {
+      "id": 25458,
+      "source": "The Guardian AI",
+      "title_en": "Calls to strengthen workplace privacy in Australia as employers turn to AI to track staff",
+      "description_en": "Monitoring tools common in a range of workplaces, including factories, office jobs, delivery work and in retail – often without employees being informed\n\nGet our breaking news email, free app or daily news podcast\n\nEmployers are increasingly using technology, from CCTV to keystroke monitoring, to track workers’ moves and it is being accelerated by the use of AI, the Human Technology Institute has warned.\nExamples provided to Guardian Australia by the institute include a fast-food restaurant usin",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/oct/20/workplace-privacy-concerns-employers-use-ai-to-monitor-staff",
+      "image_url": "https://i.guim.co.uk/img/media/c2972d767784a668b4664e394a234487682599ea/497_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=e61c50558629b38b8338b4760dbec44c",
+      "pub_date": "Mon, 19 Oct 2026 14:00:03 GMT",
+      "author": "Josh Taylor Technology reporter",
+      "categories": [
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Surveillance",
+          "$": {
+            "domain": "https://www.theguardian.com/world/surveillance"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Workers' rights",
+          "$": {
+            "domain": "https://www.theguardian.com/global-development/workers--rights"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        },
+        {
+          "_": "Microsoft",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/microsoft"
+          }
+        },
+        {
+          "_": "Privacy",
+          "$": {
+            "domain": "https://www.theguardian.com/world/privacy"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-19T14:28:07.164Z",
+      "created_at": "2026-10-19T14:28:07.164Z"
+    },
+    {
+      "id": 25459,
+      "source": "XOR Journal (TG)",
+      "title_en": "OpenAI поделилась советами и готовыми промптами для генеральной уборки кода — с их помощью компания удалила более 800 тыс строк за две недели 🤯Инженеры показали, как заставили Codex искать мёртвый ко",
+      "description_en": "OpenAI поделилась советами и готовыми промптами для генеральной уборки кода — с их помощью компания удалила более 800 тыс строк за две недели 🤯Инженеры показали, как заставили Codex искать мёртвый код, устаревшие эксперименты и ненужные фичефлаги. ИИ просто анализирует репозитории, историю изменений и данные продакшена, проверяет, что можно безопасно удалить и улучшить.В итоге благодаря работе ИИ размер одного из контейнеров сократился на 48%, а медианное время CI-проверок уменьшилось с 10 до 4",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10335",
+      "image_url": "https://cdn4.telesco.pe/file/MBPXwbzxW-MfCPccn9fCKxdEyzbARj4QKb6xcaOwmUaj3OHp-FJzh_QlGNlcfij0eB9g-Ajnhl8jwkRC2hjMb-VL1guhKw84bWj2hx3cwFAnJI_wjH4VCB2N1f9uvhKjcJKZCGJJhRndrDM4z-OdN__zVsNmafueUA2kumO7pSV3FdoPL4UdVYivnV1O7iVcyaRWWrHXIbk-SQLke01YC9LCIQLwa1ee2-aDa6KH4B58Lg5_dqOlwqGyMP8KT744Z5iUPwaj-hobQiIWvYu78T9rJi6diJsfMD1N4ssS_gbDyaos7pSRnlQt1TOPmzTUo3jvvGIcWeIcuYGY-hqOyw.jpg",
+      "pub_date": "2026-10-19T14:14:47+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-19T14:28:15.271Z",
+      "created_at": "2026-10-19T14:28:15.271Z"
+    },
+    {
+      "id": 25460,
+      "source": "Backdoor (TG)",
+      "title_en": "Лол: порнозвезда Ева Элфи дропнула ТРЕК — актриса выпустила гипнотический ретро-хаус Fairyland с клубным битом.Долбят нормально (про музыку).👍 Бэкдор",
+      "description_en": "Лол: порнозвезда Ева Элфи дропнула ТРЕК — актриса выпустила гипнотический ретро-хаус Fairyland с клубным битом.Долбят нормально (про музыку).👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32317",
+      "image_url": null,
+      "pub_date": "2026-10-19T13:25:54+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-19T14:28:15.292Z",
+      "created_at": "2026-10-19T14:28:15.292Z"
+    },
+    {
+      "id": 25461,
+      "source": "AI Post (TG)",
+      "title_en": "A woman was fined $178 after using ChatGPT to create a fake bear photo that triggered a real-life search for the animalThe image spread online after she sent it to a friend as a prank, prompting alarm",
+      "description_en": "A woman was fined $178 after using ChatGPT to create a fake bear photo that triggered a real-life search for the animalThe image spread online after she sent it to a friend as a prank, prompting alarmed residents in Russia to call policeSource. @aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8531",
+      "image_url": "https://cdn4.telesco.pe/file/bqIGbf2i0nQWHIGryadLem7kueDelZIKdCUaPKJy-ZSpVGif2JaV8ccCIMzRHBr3ONqeaORcafdbz1g2Uju9lKG4zDUyvcHXVa7DjzR4c7YSQhczzz3ODftIwGWNZC2SXFvpvJ-rv-PXs8UkoNXuW8He31W6U-pvDWbdzyC-XP_SHzo7TsdvHpTKv5YQtu9kYSCuWW5Uf_NbA-3gxKh3u1k_k5DzW8mP-cWIbzAaTNp7Nteh0itK2DvYItvJrb5f6VFZsx851xnRqj211qhooeHtCo6TyVn2bMv_W1ifhWNWeWnGQ_B1XKj3dBLxE1AY0Jvi9IeKam3jBM_WE83UMA.jpg",
+      "pub_date": "2026-10-19T13:31:56+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-19T14:28:15.862Z",
+      "created_at": "2026-10-19T14:28:15.862Z"
+    },
+    {
+      "id": 25462,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Stripe is buying OpenRouter for $7.5B, and a payments company now owns the model traffic copStripe will acquire the routing layer that sends one API call to hundreds of LLMs. Agents that pick model",
+      "description_en": "🚨 Stripe is buying OpenRouter for $7.5B, and a payments company now owns the model traffic copStripe will acquire the routing layer that sends one API call to hundreds of LLMs. Agents that pick models and pay for them on their own need exactly that pipe.I haven't seen terms beyond the price, and the deal hasn't closed.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/778",
+      "image_url": null,
+      "pub_date": "2026-10-19T13:46:17+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-19T14:28:16.078Z",
+      "created_at": "2026-10-19T14:28:16.078Z"
     }
   ]
 }
