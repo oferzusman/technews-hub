@@ -549574,8 +549574,8 @@
       "source": "The Guardian AI",
       "title_en": "Kylie Minogue songs already used to train AI as tech firms ‘strong-arm’ Australian government, music body warns",
       "description_en": "Of the dozens of countries approached to water down their laws, Australia appears to be the only one considering it, publishers’ group says\n\nGet our new political email, free app or daily news podcast\n\nAI has already been trained on the works of Australian artists including Kylie Minogue and Nick Cave without compensation, the peak global body for music rights has claimed, as the Australian government has been warned against giving in to “strong-arming” from tech companies seeking to weaken copy",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "שירי קיילי מינוג כבר שימשו לאימון AI - חברות טেכנולוגיה מפעילות לחץ על הממשלה האוסטרלית",
+      "description_he": "גוף זכויות המוזיקה העולמי טוען שחברות AI כבר אימנו את המודלים שלהן על יצירות של אמנים אוסטרלים כמו קיילי מינוג וניק קייב ללא תגמול, ובינתיים ממשלת אוסטרליה מתקבלת אזהרה שלא תכנע ללחצים של ענקי הטק שמנסים להחליש חוקי זכויות יוצרים. אוסטרליה נראית כמו המדינה היחידה שבשיקול דעתה להנמיך את תקני ההגנה על זכויות המוזיקה, בעוד כמויות ענקיות של קנטנט של אמנים מקומיים משמשות כבר לאימון ללא רשות.",
       "link": "https://www.theguardian.com/music/2026/oct/19/australia-music-global-copywright-outlier-ai-music-body-warnsns",
       "image_url": "https://i.guim.co.uk/img/media/240b7746d1549bd30b616b6fd2e698b1838fb964/0_44_6452_5158/master/6452.jpg?width=140&quality=85&auto=format&fit=max&s=594744b407942f98c05df8d2b4600af7",
       "pub_date": "Mon, 19 Oct 2026 00:57:46 GMT",
@@ -549636,7 +549636,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-10-19T01:10:46.881Z",
       "created_at": "2026-10-19T01:10:46.881Z"
@@ -549646,8 +549646,8 @@
       "source": "Interesting Engineering",
       "title_en": "Tiny worm brains reveal surprising sex differences beyond neural wiring",
       "description_en": "With 302 neurons, 200 of them in their heads, hermaphrodite female roundworms reveal surprising sex-specific...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מוח הדידים הזעום חושף הבדלים מיניים מפתיעים מעבר לחיווט עצבי",
+      "description_he": "מחקר חדש בתולעות עגולות (שיש להן רק 302 נוירונים!) גילה שיש הבדלים מיניים משמעותיים שלא קשורים רק לאופן שהנוירונים מחוברים זה לזה - זה יותר עמוק מזה. החוקרים מגלים שהמוח הנקבי של התולעות עובד אחרת מבחינת כימיה ופעילות עצבית, וזה עוד מטיל אור על איך הבדלים מיניים משפיעים על תפקוד המוח גם בכائנים פשוטים ביותר.",
       "link": "https://interestingengineering.com/science/tiny-worm-brains-surprising-sex-differences",
       "image_url": "https://www.youtube.com/embed/q-hr-Qc4Dz0",
       "pub_date": "Mon, 19 Oct 2026 00:03:41 +0000",
@@ -549655,7 +549655,7 @@
       "categories": [
         "Science"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-10-19T01:10:47.542Z",
       "created_at": "2026-10-19T01:10:47.542Z"
@@ -549665,14 +549665,14 @@
       "source": "Prompt AI News (TG)",
       "title_en": "⚡️ A TPU beats GB200 on Kimi K3 decode, 709 tokens/s to 450The Inferact team open sourced what they say is the first TPU inference megakernel. All 92 of K3's MoE layers run in one Pallas kernel, and w",
       "description_en": "⚡️ A TPU beats GB200 on Kimi K3 decode, 709 tokens/s to 450The Inferact team open sourced what they say is the first TPU inference megakernel. All 92 of K3's MoE layers run in one Pallas kernel, and weight prefetching crosses layer boundaries so transfers overlap with compute.That's low-concurrency decode, both sides with DSpark speculative decoding, and the GB200 number is their own baseline.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "⚡️ TPU ניצח את GB200 בדיקוד Kimi K3 - 709 tokens/s לעומת 450",
+      "description_he": "צוות Inferact פתח את קוד ה-megakernel inference הראשון ל-TPU, שמטפל בכל 92 שכבות ה-MoE של K3 בkernel Pallas אחד בלבד. השיפור בגדול הוא בשיטת ה-weight prefetching החכמה שחוצה גבולות בין שכבות ולהיות זמן ההעברה מתחפף עם חישוב. זה הבדיקוד בקונקורנציה נמוכה עם speculative decoding משני הצדדים, וההשוואה של GB200 הוא benchmark משלהם שלהם. (מקור: Prompt AI News)",
       "link": "https://t.me/prompt/773",
       "image_url": null,
       "pub_date": "2026-10-19T00:20:21+00:00",
       "author": null,
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-10-19T01:10:50.040Z",
       "created_at": "2026-10-19T01:10:50.040Z"
