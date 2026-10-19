@@ -551690,8 +551690,8 @@
       "source": "TechCrunch AI",
       "title_en": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
       "description_en": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "אמזון משגעת את נוויديה: TorchNeuron החדש של ענקית הענן הוא המכה הכי חזקה עד כה",
+      "description_he": "אמזון מנסה לשבור את הגבעול של נווידיה בעולם PyTorch, הכלי החינמי שמוביל את בנייה של רוב אפליקציות ה-AI. במהלכה הזה, אמזון רוצה שעוד מפתחים יריצו את האפליקציות שלהם על דשי AI חלופיים, כמו ה-chips הפנימיים שלה. זה כמו למצוא דרך לתנוע מעל הקרושון של נווידיה.",
       "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
       "image_url": null,
       "pub_date": "Mon, 19 Oct 2026 20:09:24 +0000",
@@ -551703,7 +551703,7 @@
         "AWS",
         "nvidia"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-10-19T20:22:43.813Z",
       "created_at": "2026-10-19T20:22:43.813Z"
