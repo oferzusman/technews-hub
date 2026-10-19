@@ -551707,6 +551707,325 @@
       "priority": "hot",
       "fetchedAt": "2026-10-19T20:22:43.813Z",
       "created_at": "2026-10-19T20:22:43.813Z"
+    },
+    {
+      "id": 25500,
+      "source": "Ars Technica",
+      "title_en": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
+      "description_en": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ICEYE_assembling_satellite_06_3x2-1152x648.jpg",
+      "pub_date": "Mon, 19 Oct 2026 20:54:17 +0000",
+      "author": "\n                    Stephen Clark\n                ",
+      "categories": [
+        "Science",
+        "Space",
+        "anti-satellite tests",
+        "iceye",
+        "kosmos 2612",
+        "military space",
+        "remote sensing",
+        "russia",
+        "space warfare"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-19T22:56:53.411Z",
+      "created_at": "2026-10-19T22:56:53.411Z"
+    },
+    {
+      "id": 25501,
+      "source": "Ars Technica",
+      "title_en": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "description_en": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2214263510-1024x648.jpg",
+      "pub_date": "Mon, 19 Oct 2026 20:21:53 +0000",
+      "author": "\n                    Ashley Belanger\n                ",
+      "categories": [
+        "AI",
+        "Policy",
+        "Artificial Intelligence",
+        "espionage",
+        "frontier ai",
+        "national security",
+        "openai",
+        "Saudi Arabia"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-19T22:56:53.412Z",
+      "created_at": "2026-10-19T22:56:53.412Z"
+    },
+    {
+      "id": 25502,
+      "source": "Ars Technica",
+      "title_en": "PSA: Patch your Plex media server before someone hacks it",
+      "description_en": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/plex-media-server-1152x648.webp",
+      "pub_date": "Mon, 19 Oct 2026 19:39:19 +0000",
+      "author": "\n                    Dan Goodin\n                ",
+      "categories": [
+        "Biz & IT",
+        "Security",
+        "exploits",
+        "plex media server",
+        "vulnerabilities"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-19T22:56:53.412Z",
+      "created_at": "2026-10-19T22:56:53.412Z"
+    },
+    {
+      "id": 25503,
+      "source": "TechCrunch AI",
+      "title_en": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "description_en": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face’s chief policy officer, during a discussion at TechCrunch […]",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "image_url": null,
+      "pub_date": "Mon, 19 Oct 2026 22:49:27 +0000",
+      "author": "Lucas Ropek",
+      "categories": [
+        "AI",
+        "TC",
+        "Hugging Face"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-19T22:56:53.426Z",
+      "created_at": "2026-10-19T22:56:53.426Z"
+    },
+    {
+      "id": 25504,
+      "source": "TechCrunch AI",
+      "title_en": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "description_en": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "image_url": null,
+      "pub_date": "Mon, 19 Oct 2026 22:04:28 +0000",
+      "author": "Julie Bort",
+      "categories": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "Microsoft"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-19T22:56:53.426Z",
+      "created_at": "2026-10-19T22:56:53.426Z"
+    },
+    {
+      "id": 25505,
+      "source": "OpenAI Blog",
+      "title_en": "Advancing Coding in Low-Resource Programming Languages",
+      "description_en": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/low-resource-programming-languages",
+      "image_url": null,
+      "pub_date": "Mon, 19 Oct 2026 12:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Publication"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-19T22:56:55.122Z",
+      "created_at": "2026-10-19T22:56:55.122Z"
+    },
+    {
+      "id": 25506,
+      "source": "The Guardian AI",
+      "title_en": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
+      "description_en": "System can estimate a person’s biological age and predict chances of cancer survival from a single photograph\nDoctors have developed an artificial intelligence tool that can predict a cancer patient’s chances of survival from a single photograph of their face.\nThe AI system was custom-built by experts at Mass General Brigham, a nonprofit, integrated academic healthcare system in Massachusetts, to estimate biological age and directly predict survival outcomes in patients diagnosed with cancer.\n C",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+      "image_url": "https://i.guim.co.uk/img/media/fa40f496b03a1db7776f47e3b79ed8b0858aef61/722_304_4620_3696/master/4620.jpg?width=140&quality=85&auto=format&fit=max&s=560167757e3f4e4a3571ff33be6bb85d",
+      "pub_date": "Mon, 19 Oct 2026 22:30:08 GMT",
+      "author": "Andrew Gregory Health editor",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Health",
+          "$": {
+            "domain": "https://www.theguardian.com/society/health"
+          }
+        },
+        {
+          "_": "Cancer",
+          "$": {
+            "domain": "https://www.theguardian.com/society/cancer"
+          }
+        },
+        {
+          "_": "Society",
+          "$": {
+            "domain": "https://www.theguardian.com/society/society"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-19T22:56:55.520Z",
+      "created_at": "2026-10-19T22:56:55.520Z"
+    },
+    {
+      "id": 25507,
+      "source": "Interesting Engineering",
+      "title_en": "NVIDIA’s largest-ever 104-qubit simulation models realistic quantum hardware errors",
+      "description_en": "NVIDIA has announced that JUPITER, Europe’s first exascale supercomputer, has completed a record-breaking quantum computing...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/nvidia-104-qubit-quantum-simulation-jupiter",
+      "image_url": null,
+      "pub_date": "Mon, 19 Oct 2026 20:35:13 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "Science"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-19T22:56:56.398Z",
+      "created_at": "2026-10-19T22:56:56.398Z"
+    },
+    {
+      "id": 25508,
+      "source": "CNBC Tech",
+      "title_en": "Jim Cramer says don't chase the AI rebound just yet. Here's what needs to happen first",
+      "description_en": "CNBC’s Jim Cramer warned investors against rushing back into AI stocks quite yet.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/19/jim-cramer-dont-chase-ai-rebound-yet.html",
+      "image_url": null,
+      "pub_date": "Mon, 19 Oct 2026 22:46:33 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-19T22:56:57.225Z",
+      "created_at": "2026-10-19T22:56:57.225Z"
+    },
+    {
+      "id": 25509,
+      "source": "CNBC Tech",
+      "title_en": "Jim Cramer says the recent AI stock sell-off echoes a crucial lesson from the 1987 market crash",
+      "description_en": "CNBC’s Jim Cramer said the 1987 stock market crash offers an important lesson that can be applied to the recent AI sell-off.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/19/cramer-recent-ai-sell-off-echoes-lesson-1987-crash.html",
+      "image_url": null,
+      "pub_date": "Mon, 19 Oct 2026 22:22:45 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-19T22:56:57.226Z",
+      "created_at": "2026-10-19T22:56:57.226Z"
+    },
+    {
+      "id": 25510,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
+      "description_en": "The Claude maker said that establishing the fund as an LLC will provide greater flexibility in how the money is used.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
+      "image_url": null,
+      "pub_date": "Mon, 19 Oct 2026 12:33:07 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-19T22:56:57.226Z",
+      "created_at": "2026-10-19T22:56:57.226Z"
+    },
+    {
+      "id": 25511,
+      "source": "XOR Journal (TG)",
+      "title_en": "Мы бы умерли от страха: в Google Labs придумали, как благодарить лучших сотрудников — их приглашают на встречу, которая выглядит как вызов на ковёр перед увольнением.Вице-президент Google Labs рассказ",
+      "description_en": "Мы бы умерли от страха: в Google Labs придумали, как благодарить лучших сотрудников — их приглашают на встречу, которая выглядит как вызов на ковёр перед увольнением.Вице-президент Google Labs рассказал, что сотруднику внезапно ставят встречу с 4–5 руководителями без повестки. Человек приходит, ожидая худшего, а начальники по очереди рассказывают, какой он молодец и как сильно его ценят. Вот такой вот сюрприз.Интересно, сколько людей к звонку мысленно обновили резюме или словили микроинфаркт 👻@",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10336",
+      "image_url": "https://cdn4.telesco.pe/file/rU2NCRxuZrlVpjYCoG7R4Oz_mzxnnbwf1uX_ucm4KnvGZt0TnR1SGP4EKfAZNPsNAK8YwtUiWl5TeZXC4FW75UEY2PO1hpcKLOuMygwBdOHT_bPdI1MvhGy_vXdYB-OnDU7qdxnQo4gh1HaNxsBb6J7E3Kl9opYFiv5e8bOtacTGZmwXVkgoYQUTcHlELQq6ol9KImzSkscYBStiOlU3dN9b1BGG8I_O8aXLMjusX_-LDa4FCmQDMdhZrfGCYZJmCfY2FxKEjNNd268MECA8EFEMNxCZca0r1tcNhXFxwCRPGy2FNRoQ_9DfLEgaTxuRa9M5XAKfVT5_vXAzE6QHnA.jpg",
+      "pub_date": "2026-10-19T21:41:52+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-19T22:56:58.105Z",
+      "created_at": "2026-10-19T22:56:58.105Z"
+    },
+    {
+      "id": 25512,
+      "source": "AI Post (TG)",
+      "title_en": "😐 Jensen Huang drops a number most people haven’t heard:The cost of an AI token is falling 30 to 40x every year. Cheaper tokens mean cheaper intelligence. And he says the benefits to customers are go",
+      "description_en": "😐 Jensen Huang drops a number most people haven’t heard:The cost of an AI token is falling 30 to 40x every year. Cheaper tokens mean cheaper intelligence. And he says the benefits to customers are going up exponentially.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8535",
+      "image_url": null,
+      "pub_date": "2026-10-19T22:30:42+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-19T22:56:58.820Z",
+      "created_at": "2026-10-19T22:56:58.820Z"
+    },
+    {
+      "id": 25513,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 DHS bans DeepSeek across U.S. civilian agencies, and self-hosting doesn't get you outThe order also covers third-party products built on DeepSeek implementations. So open weights running inside an ",
+      "description_en": "🚨 DHS bans DeepSeek across U.S. civilian agencies, and self-hosting doesn't get you outThe order also covers third-party products built on DeepSeek implementations. So open weights running inside an agency's own walls count too.The stated reasons are PII collection, fingerprinting, PRC legal access to company servers, and critical flaws in the iOS app.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/781",
+      "image_url": null,
+      "pub_date": "2026-10-19T21:51:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-19T22:56:59.102Z",
+      "created_at": "2026-10-19T22:56:59.102Z"
     }
   ]
 }
