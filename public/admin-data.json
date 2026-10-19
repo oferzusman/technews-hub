@@ -1,9 +1,9 @@
 {
-  "total": 25408,
-  "translated": 25401,
+  "total": 25415,
+  "translated": 25408,
   "untranslated": 7,
-  "today": 3,
-  "week": 703,
+  "today": 10,
+  "week": 710,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -31,9 +31,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1484,
-      "translated": 1482,
-      "lastDate": "2026-10-18T23:35:12+00:00"
+      "total": 1486,
+      "translated": 1484,
+      "lastDate": "2026-10-19T05:52:01+00:00"
     },
     {
       "name": "Product Hunt",
@@ -79,15 +79,15 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 806,
-      "translated": 806,
+      "total": 808,
+      "translated": 808,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 648,
-      "translated": 648,
-      "lastDate": "2026-10-19T00:20:21+00:00"
+      "total": 649,
+      "translated": 649,
+      "lastDate": "2026-10-19T03:21:21+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -97,9 +97,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 616,
-      "translated": 615,
-      "lastDate": "2026-10-18T11:56:12+00:00"
+      "total": 617,
+      "translated": 616,
+      "lastDate": "2026-10-19T05:57:38+00:00"
     },
     {
       "name": "Pypi.org",
@@ -205,9 +205,9 @@
     },
     {
       "name": "Artificial Intelligence (TG)",
-      "total": 50,
-      "translated": 50,
-      "lastDate": "2026-09-25T06:05:09+00:00"
+      "total": 51,
+      "translated": 51,
+      "lastDate": "2026-10-19T02:33:19+00:00"
     },
     {
       "name": "Slashdot.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-19T05:02:52.353Z"
+  "generatedAt": "2026-10-19T06:09:57.498Z"
 }
