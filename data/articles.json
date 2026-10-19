@@ -551585,8 +551585,8 @@
       "source": "TechCrunch AI",
       "title_en": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
       "description_en": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "האקרים פרצו ל-OpenCode - כלי קידוד AI פופולרי, והשאירו משתמשים עם חשבונות מסולקים",
+      "description_he": "OpenCode, כלי ה-AI הקוד-פתוח שהפך לחלופה חביבה ל-Claude ול-Cursor, סבל מפריצה גדולה - האקרים גנבו מפתחות API של משתמשים ישירות מהפלטפורמה. המצחיק במקרה? גם Claude וגם GPT סירבו להסתכל בקוד הזדוני שהתוקפים השתילו, כל עוד הוא עבר דרך הפלטפורמה. מעיל מחשבות קטן: זה עוד הוכחה שאפילו AI עם כל החוכמה שלה, קל להטעות אותו תחת הנסיבות הנכונות.",
       "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
       "image_url": null,
       "pub_date": "Mon, 19 Oct 2026 19:28:34 +0000",
@@ -551595,7 +551595,7 @@
         "AI",
         "TC"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-10-19T20:06:08.396Z",
       "created_at": "2026-10-19T20:06:08.396Z"
@@ -551605,8 +551605,8 @@
       "source": "Ars Technica",
       "title_en": "ReactOS reaches major milestone with NTFS install support",
       "description_en": "ReactOS gains NTFS install support with new driver.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ReactOS הגיע לאבן דרך חשובה עם תמיכה בהתקנה על NTFS",
+      "description_he": "ReactOS, מערכת ההפעלה הקוד-פתוח שמנסה להשתדל לתאימות עם Windows, הוסיפה סוף סוף תמיכה בהתקנה ישירה על מערכות קבצים NTFS בעזרת דרייבר חדש. זה כמו שלבש הנעליים שלו הראשונות הוא - לא זה שנעשה עדיין לוקח קצת זמן, אבל זה כן צעד משמעותי קדימה בנתיב להפוך את ReactOS לחלופה ממשית ל-Windows. המיזם זה עובד כבר כמה שנים, וכל milestone כמו זה מעיד שהם באים בעקבות היעדים שלהם בלי להסטות.\n\nמקור: Ars Technica",
       "link": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ReactOS_NTFS_Drive_Properties.jpg",
       "pub_date": "Mon, 19 Oct 2026 18:30:56 +0000",
@@ -551619,7 +551619,7 @@
         "ReactOS",
         "Windows alternatives"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-10-19T20:06:08.494Z",
       "created_at": "2026-10-19T20:06:08.495Z"
@@ -551629,8 +551629,8 @@
       "source": "Ars Technica",
       "title_en": "AI game clones are making indie developers afraid to show their work",
       "description_en": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "קלונים של AI משחקים הורסים לפיתחי אינדי את הרצון להראות את עבודתם",
+      "description_he": "מפתחי משחקים עצמאיים נמצאים בחזית המלחמה נגד AI - הם כל כך חוששים שמודלים של בינה מלאכותית יגנבו את הקוד והקונספטים שלהם, שחלקם אפילו מעכבים את הפרסום של demos חדשים ברשתות. עם הגברת בעיות ההעתקה של AI, מה שנחשב ליום חג עבור קהילית ה-indie - Steam Next Fest - הופך להיות מקום חם לא נעים שבו מפתחים פוחדים שמשחקם הייחודי יהפוך בעוד שניות לטמפלייט של AI.",
       "link": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ss_c6067e139d8dd2cbf79c41a9c4e41e3bb088c95a.1920x1080-1152x648.jpg",
       "pub_date": "Mon, 19 Oct 2026 16:59:22 +0000",
@@ -551644,7 +551644,7 @@
         "game development",
         "indie"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-10-19T20:06:08.495Z",
       "created_at": "2026-10-19T20:06:08.495Z"
@@ -551654,8 +551654,8 @@
       "source": "Interesting Engineering",
       "title_en": "Humanoid robot walks 1.2 million steps in a grueling 9-day treadmill stress test",
       "description_en": "Figure AI is putting its latest humanoid robot through an extended endurance test to uncover...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "רובוט הומנואידי הלך 1.2 מיליון צעדים במבחן עמיד קשה של 9 ימים",
+      "description_he": "Figure AI שמה את הרובוט ההומנואידי החדש שלה למבחן סיבולת קיצוני במשך 9 ימים רצופים כדי לגלות מה הגבולות האמיתיים של הטכנולוגיה שלהם. כשהרובוט הלך מיליון וחצי צעדים על הליכון, החברה אספה נתונים חיוניים על עמידות, תפקוד מכני והיכולת להישאר יציב למשך זמן ממושך. זה הסוג של stress test שיעזור ל-Figure AI להבין בדיוק באילו תנאים בעולם האמיתי הרובוט שלהם יוכל לעבוד בביטחון.",
       "link": "https://interestingengineering.com/ai-robotics/figure-03-humanoid-robot-treadmill-test",
       "image_url": null,
       "pub_date": "Mon, 19 Oct 2026 19:40:23 +0000",
@@ -551663,7 +551663,7 @@
       "categories": [
         "AI and Robotics"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-10-19T20:06:11.084Z",
       "created_at": "2026-10-19T20:06:11.084Z"
@@ -551673,14 +551673,14 @@
       "source": "AI Post (TG)",
       "title_en": "🤖 OpenAI bugging case takes a Saudi twistAn engineer accused of planting a listening device in a room used by OpenAI executives was reportedly exchanging WhatsApp messages with a Saudi royal just fou",
       "description_en": "🤖 OpenAI bugging case takes a Saudi twistAn engineer accused of planting a listening device in a room used by OpenAI executives was reportedly exchanging WhatsApp messages with a Saudi royal just four days before his arrest.According to prosecutors, the royal repeatedly tried to recruit him for a Saudi AI project, even telling him, “Saudi needs you more than the U.S!” The engineer allegedly responded with a short but telling reply: “100.”Investigators say the listening device was hidden behind ",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "🤖 תיק האזנות ב-OpenAI מתקבל פנים סעודית",
+      "description_he": "סיפור משהו רציני ודרמטי - מהנדס שהואשם בהצבת מכשיר האזנה בחדר בו התייעצו בכירי OpenAI התברר שהחליף הודעות WhatsApp עם נסיך סעודי רק ארבעה ימים לפני מעצרו. לפי התביעה, הנסיך ניסה שוב ושוב לגייס אותו לפרויקט AI סעודי תוך אמירה לו 'סעודיה צריכה אותך יותר מאשר ארה\"ב!', והמהנדס השיב בתשובה קצרה: '100'. החוקרים טוענים שמכשיר האזנה הוסתר מאחורי... משהו שגרם לחיפוש שלם של סוכנויות החקירה.",
       "link": "https://t.me/aipost/8534",
       "image_url": "https://cdn4.telesco.pe/file/CHIdwqZJ3afat9JsVY4wnhtjgcQPhxzP1wnRXn72ru2zZGp06XxgtauS0eRv_vOMX4jDNaYIJFLd6qLVY5YP4hPZYGR--xmyrVqjK4q83IGSgC9WT0KwhiVwuxLAYP0_-4ruA_Q15lf5Jxj-QMg9HVG_vbd1i462lqFiLAc-vKe2XOEEpdh0C-FTUhKfq6N2rKpdTSmVsps9-hXBNcGYocqH2mgBVo-OGsAVl7sYNgR0gpg4QN7fRrpP3-M0ot4I4ubJ2g5gMoxy1PmgpQ6XPnr17uwLAGuvyD0LRW004rgH4aqFym5RnVAOut79Pfu3qfk50Np5u81XFJ72Ds8ARw.jpg",
       "pub_date": "2026-10-19T19:22:54+00:00",
       "author": null,
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-10-19T20:06:15.481Z",
       "created_at": "2026-10-19T20:06:15.481Z"
