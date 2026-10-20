@@ -552346,6 +552346,302 @@
       "priority": "hot",
       "fetchedAt": "2026-10-20T03:35:52.261Z",
       "created_at": "2026-10-20T03:35:52.261Z"
+    },
+    {
+      "id": 25529,
+      "source": "MarkTechPost",
+      "title_en": "Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second",
+      "description_en": "Inception released Mercury 3, a diffusion LLM it says runs at 1,068 tokens per second with a 1M-token context. On Inception’s own table it leads GPT-6 Luna and Claude Haiku 5.5 on 8 of 12 benchmarks.\nThe post Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 03:32:43 +0000",
+      "author": "Jean-marc Mommessin",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Staff",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-20T06:11:25.894Z",
+      "created_at": "2026-10-20T06:11:25.894Z"
+    },
+    {
+      "id": 25530,
+      "source": "The Guardian AI",
+      "title_en": "Hollywood AI-listers: is the technology ready to rival flesh-and-blood film stars?",
+      "description_en": "As a freaky Val Kilmer doppelganger stars in a new western and faux starlet Tilly Norwood is set for her feature debut, experts are split on whether mainstream adoption is a long way down the line – or just around the corner\n‘Don’t fear the dead – and don’t fear me.” An exact facsimile of a young Val Kilmer, not quite dead and not quite alive, utters that baiting line in the trailer for the new western As Deep as the Grave. Director Coerte Voorhees knows exactly what he is doing – this is an AI-",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood",
+      "image_url": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=140&quality=85&auto=format&fit=max&s=0b907620412ffbebb86f933c5971d7dd",
+      "pub_date": "Tue, 20 Oct 2026 06:00:18 GMT",
+      "author": "Phil Hoad",
+      "categories": [
+        {
+          "_": "Film",
+          "$": {
+            "domain": "https://www.theguardian.com/film/film"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Val Kilmer",
+          "$": {
+            "domain": "https://www.theguardian.com/film/val-kilmer"
+          }
+        },
+        {
+          "_": "Tilly Norwood (AI character)",
+          "$": {
+            "domain": "https://www.theguardian.com/film/tilly-norwood--ai-character-"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T06:11:26.239Z",
+      "created_at": "2026-10-20T06:11:26.239Z"
+    },
+    {
+      "id": 25531,
+      "source": "The Guardian AI",
+      "title_en": "Don’t be fooled. The AI that was supposed to save us time is doing just the opposite | Gaby Hinsliff",
+      "description_en": "The government says it can transform the state with AI, but it is no match for the resulting stream of machine-generated slop. And we all pay the cost\nAnother morning, another avalanche of emails. Even after a guilty cull, my inbox is sitting at well over 7,000, but lately I’ve started subscribing to the Quentin Crisp theory of housework: why bother, when after four years or so you stop noticing the accumulating dust? Empty inboxes just fill up again anyway.\nIn theory, email was supposed to save",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/20/ai-supposed-to-save-time-opposite-government-uk",
+      "image_url": "https://i.guim.co.uk/img/media/5780af026543a0c2aa03d9c1fe593cf80d95d458/334_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=a17de29e614f79f9ec0055619267f8e4",
+      "pub_date": "Tue, 20 Oct 2026 05:00:17 GMT",
+      "author": "Gaby Hinsliff",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "ChatGPT",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatgpt"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "Employment law",
+          "$": {
+            "domain": "https://www.theguardian.com/law/employment-law"
+          }
+        },
+        {
+          "_": "Law",
+          "$": {
+            "domain": "https://www.theguardian.com/law/law"
+          }
+        },
+        {
+          "_": "Employment tribunals",
+          "$": {
+            "domain": "https://www.theguardian.com/money/employment-tribunals"
+          }
+        },
+        {
+          "_": "Money",
+          "$": {
+            "domain": "https://www.theguardian.com/money/money"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T06:11:26.240Z",
+      "created_at": "2026-10-20T06:11:26.240Z"
+    },
+    {
+      "id": 25532,
+      "source": "The Guardian AI",
+      "title_en": "‘These risks are real’: the threat of AI bioweapons – podcast",
+      "description_en": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5, warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom Inglesby, director of the Johns Hopkins Center for Health Security and the Bloomberg School of Public Health. He explains what has governments so worried and what measures could be put in place to reduce the risks\nCould AI ‘change the stake",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast",
+      "image_url": "https://i.guim.co.uk/img/media/a79e23d080eb53cbc53f3416c637200ed693036a/366_0_3656_2924/master/3656.jpg?width=140&quality=85&auto=format&fit=max&s=dce4153855fac7c63fec4cbb0cedb5fb",
+      "pub_date": "Tue, 20 Oct 2026 04:00:15 GMT",
+      "author": "Presented by Ian Sample, produced by Madeleine Finlay, sound design by Ross Burns, the executive producer was Ellie Bury",
+      "categories": [
+        {
+          "_": "Science",
+          "$": {
+            "domain": "https://www.theguardian.com/science/science"
+          }
+        },
+        {
+          "_": "MI5",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/mi5"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "UK security and counter-terrorism",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uksecurity"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Weapons technology",
+          "$": {
+            "domain": "https://www.theguardian.com/science/weaponstechnology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-20T06:11:26.240Z",
+      "created_at": "2026-10-20T06:11:26.240Z"
+    },
+    {
+      "id": 25533,
+      "source": "New Atlas",
+      "title_en": "Lab-grown brains can now read Braille and guide robot dogs",
+      "description_en": "Guided by millions of years of evolution, our own brain cells know a thing or two about moving through a chaotic world where learning the right move is a matter of life and death.\nContinue Reading\nCategory: Technology\nTags: biohybrid, organoid, Brain Machine Interface, Future Robot, neurons",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/technology/lab-brains-read-braille-direct-dog-biohybrid-computing/",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 06:02:00 GMT",
+      "author": "Mike McRae",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T06:11:26.264Z",
+      "created_at": "2026-10-20T06:11:26.264Z"
+    },
+    {
+      "id": 25534,
+      "source": "New Atlas",
+      "title_en": "Ukrainian hexacopter drone executes world-first aerial medevac",
+      "description_en": "A wounded Ukrainian soldier is the first to be medevaced out of a combat zone by drone. He was airlifted by a Heavy Shot \"Ayudag-6\" modular hexacopter with a special sling and winch.\nContinue Reading\nCategory: Military, Engineering\nTags: Ukraine , drones",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/military/ukrainian-hexacopter-drone-world-first-aerial-medevac/",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 04:00:01 GMT",
+      "author": "David Szondy",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-20T06:11:26.264Z",
+      "created_at": "2026-10-20T06:11:26.264Z"
+    },
+    {
+      "id": 25535,
+      "source": "AI Post (TG)",
+      "title_en": "Homeland Security has ordered US civilian agencies to rip out DeepSeek and every product built on it.US hosting doesn’t get you out. The order removes all DeepSeek and DeepSeek-affiliate products, and",
+      "description_en": "Homeland Security has ordered US civilian agencies to rip out DeepSeek and every product built on it.US hosting doesn’t get you out. The order removes all DeepSeek and DeepSeek-affiliate products, and third-party products and services developed using DeepSeek implementations, from civilian agency information technology, under the Federal Acquisition Supply Chain Security Act of 2018. DHS says DeepSeek’s hosted models store data on servers in China, where national security laws give Beijing wide ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8539",
+      "image_url": "https://cdn4.telesco.pe/file/ODd42cvC3MDvwbaBHJD9rDPmRFmoXWE4Z193ERgVeXnZrUKUJ87pG0j3YaOPXSa74IbOfKQ7ReNXm6-ee20vpKtMzW7ryfIRlwDWBaq_uRnyZkPRAMzasv5Y49Jw4pcGcTGkVZPuuhI5qc3kgb2tp5KwBJj9P9WfWcwbqHz4GMfpqKOvakKVPjcZPGcscu1eOplpUJdaxPn2XskLNUQMtmH3VXGdXbCCEvacuFOiMU-YWCvJBUBZEY_Aj7yVsBkPq0TGhg2sg4P8k_7PIVgH2g86QuX1OpV6HfGjo9k_sXHdBBP6rnNc_nozhf0p4QgbqjyOdeL9m2OSzAmTfGXVHA.jpg",
+      "pub_date": "2026-10-20T05:03:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T06:11:28.803Z",
+      "created_at": "2026-10-20T06:11:28.803Z"
+    },
+    {
+      "id": 25536,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🧬 GPT-Rosalind is OpenAI's life sciences model, and it isn't for everyoneOpenAI built it for drug discovery, genomics, protein reasoning and wet-lab troubleshooting, with tool and database use baked ",
+      "description_en": "🧬 GPT-Rosalind is OpenAI's life sciences model, and it isn't for everyoneOpenAI built it for drug discovery, genomics, protein reasoning and wet-lab troubleshooting, with tool and database use baked in. Access runs through a trusted-access program for eligible organizations. Published pricing kicks in October 5.A biology model you have to qualify for tells you what OpenAI thinks it can do.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/783",
+      "image_url": null,
+      "pub_date": "2026-10-20T03:53:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-20T06:11:29.230Z",
+      "created_at": "2026-10-20T06:11:29.230Z"
     }
   ]
 }
