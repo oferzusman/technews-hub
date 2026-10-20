@@ -1,9 +1,9 @@
 {
-  "total": 25543,
-  "translated": 25536,
+  "total": 25550,
+  "translated": 25543,
   "untranslated": 7,
-  "today": 26,
-  "week": 699,
+  "today": 33,
+  "week": 706,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2182,
-      "translated": 2182,
+      "total": 2183,
+      "translated": 2183,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -31,9 +31,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1494,
-      "translated": 1492,
-      "lastDate": "2026-10-20T05:03:02+00:00"
+      "total": 1495,
+      "translated": 1493,
+      "lastDate": "2026-10-20T08:30:40+00:00"
     },
     {
       "name": "Product Hunt",
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 977,
-      "translated": 975,
-      "lastDate": "2026-10-19T21:41:52+00:00"
+      "total": 978,
+      "translated": 976,
+      "lastDate": "2026-10-20T07:51:26+00:00"
     },
     {
       "name": "The Verge AI",
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 811,
-      "translated": 811,
+      "total": 813,
+      "translated": 813,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
@@ -133,9 +133,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 294,
-      "translated": 294,
-      "lastDate": "2026-10-19T17:50:30+00:00"
+      "total": 295,
+      "translated": 295,
+      "lastDate": "2026-10-20T07:59:01+00:00"
     },
     {
       "name": "Futurism",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 231,
-      "translated": 231,
-      "lastDate": "2026-10-19T09:05:07+00:00"
+      "total": 232,
+      "translated": 232,
+      "lastDate": "2026-10-20T08:47:22+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-20T07:28:20.260Z"
+  "generatedAt": "2026-10-20T09:11:09.597Z"
 }
