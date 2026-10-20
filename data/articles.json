@@ -553286,6 +553286,478 @@
       "priority": "batch",
       "fetchedAt": "2026-10-20T11:30:19.065Z",
       "created_at": "2026-10-20T11:30:19.065Z"
+    },
+    {
+      "id": 25571,
+      "source": "The Decoder",
+      "title_en": "Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons",
+      "description_en": "The Army Cyber Command is developing AI agents that move through other networks like a computer worm and \"neutralize\" targets, according to internal documents. The program, codenamed ECHOTRIBBLE, is designed to reach even air-gapped systems with no network connection and run with minimal human oversight. Experts warn about collateral damage, pointing out that AI agents have recently broken into outside systems without meaning to, even without any order to attack.\nThe article Army Cyber Command's",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 12:32:56 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "AI and warfare",
+        "Cybersecurity",
+        "Military",
+        "USA"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T12:51:52.644Z",
+      "created_at": "2026-10-20T12:51:52.644Z"
+    },
+    {
+      "id": 25572,
+      "source": "The Decoder",
+      "title_en": "Cloudflare's Clairic pulls data from documents faster and cheaper than LLMs",
+      "description_en": "Cloudflare has released an AI model it says pulls data from documents faster and more cheaply than large language models.\nThe article Cloudflare's Clairic pulls data from documents faster and cheaper than LLMs appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 12:04:56 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Clairic",
+        "Cloudflare"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T12:51:52.644Z",
+      "created_at": "2026-10-20T12:51:52.644Z"
+    },
+    {
+      "id": 25573,
+      "source": "The Decoder",
+      "title_en": "US bans Deepseek technology across federal civilian agencies",
+      "description_en": "The US Department of Homeland Security has banned federal civilian agencies from using AI technology from Chinese lab Deepseek.\nThe article US bans Deepseek technology across federal civilian agencies appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/us-bans-deepseek-technology-across-federal-civilian-agencies/",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 11:34:54 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "China",
+        "Deepseek",
+        "USA"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T12:51:52.644Z",
+      "created_at": "2026-10-20T12:51:52.644Z"
+    },
+    {
+      "id": 25574,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: the claim shaking up AI and the internet’s agent problem",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good news about the nature of neural networks.” With those simple words of…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 12:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T12:51:52.720Z",
+      "created_at": "2026-10-20T12:51:52.720Z"
+    },
+    {
+      "id": 25575,
+      "source": "MIT Technology Review",
+      "title_en": "AI adoption by industry shows what other sectors can learn",
+      "description_en": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 12:00:00 +0000",
+      "author": "TripleTen",
+      "categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T12:51:52.720Z",
+      "created_at": "2026-10-20T12:51:52.720Z"
+    },
+    {
+      "id": 25576,
+      "source": "Hugging Face Blog",
+      "title_en": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-20T12:51:52.808Z",
+      "created_at": "2026-10-20T12:51:52.808Z"
+    },
+    {
+      "id": 25577,
+      "source": "The Guardian AI",
+      "title_en": "US bans use of China’s DeepSeek AI tools by government agencies",
+      "description_en": "Use of tools ‘may result in the transfer of sensitive data to (China)’, defense department says\nThe US government on Monday ordered its agencies to stop using artificial intelligence (AI) tools from Chinese startup DeepSeek, as the countries race for dominance in the fast-moving sector.\nA notice from the Department of Homeland Security (DHS) announced the ban on products developed by DeepSeek – and tools created using DeepSeek by third parties – saying they must be removed from IT devices.\n Cont",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies",
+      "image_url": "https://i.guim.co.uk/img/media/6f8ade7b2c623ea3ba988db863da7a2fd1af5796/560_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=6a732e1f02fde0d1480fbe11b6272814",
+      "pub_date": "Tue, 20 Oct 2026 12:33:27 GMT",
+      "author": "Agence France-Presse",
+      "categories": [
+        {
+          "_": "Trump administration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/trump-administration"
+          }
+        },
+        {
+          "_": "DeepSeek",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/deepseek"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "China",
+          "$": {
+            "domain": "https://www.theguardian.com/world/china"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T12:51:53.320Z",
+      "created_at": "2026-10-20T12:51:53.320Z"
+    },
+    {
+      "id": 25578,
+      "source": "The Guardian AI",
+      "title_en": "I’m a CTO. AI still needs your human expertise | Madhu Shashanka",
+      "description_en": "AI is increasingly getting good at doing some tasks, but it can never replace human workers’ judgment\nAutonomous cars, which may be the safest we have built, keep getting easily avoidable parking tickets. While Waymos crash far less often than human drivers over tens of millions of miles, they’re still terrible at performing basic tasks – keeping out of disabled parking spots and tow-away zones, or steering clear of a church garage during Sunday service, according to the Wall Street Journal.\nTha",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/oct/20/ai-human-judgment",
+      "image_url": "https://i.guim.co.uk/img/media/1ec14522bb2e09e892ab197b6436169a94f4fac9/0_0_2836_2269/master/2836.jpg?width=140&quality=85&auto=format&fit=max&s=786e0eff9350b85a1fba3c9a10b8b6c1",
+      "pub_date": "Tue, 20 Oct 2026 12:30:35 GMT",
+      "author": "Madhu Shashanka",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Job losses",
+          "$": {
+            "domain": "https://www.theguardian.com/business/job-losses"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T12:51:53.320Z",
+      "created_at": "2026-10-20T12:51:53.320Z"
+    },
+    {
+      "id": 25579,
+      "source": "The Guardian AI",
+      "title_en": "‘These risks are real’: the threat of AI bioweapons - video",
+      "description_en": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5, warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom Inglesby, director of the Johns Hopkins Center for Health Security and the Bloomberg School of Public Health. He explains what has governments so worried and what measures could be put in place to reduce the risks\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/science/video/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-video",
+      "image_url": "https://i.guim.co.uk/img/media/a79e23d080eb53cbc53f3416c637200ed693036a/153_0_3654_2924/master/3654.jpg?width=140&quality=85&auto=format&fit=max&s=f847424b76f1c766122f0e9a59790a99",
+      "pub_date": "Tue, 20 Oct 2026 12:14:42 GMT",
+      "author": "Presented by Ian Sample , produced by Madeleine Finlay and Jacob Liebenberg , graphics by Elliot Ellis , the executive producer was Ellie Bury",
+      "categories": [
+        {
+          "_": "Science",
+          "$": {
+            "domain": "https://www.theguardian.com/science/science"
+          }
+        },
+        {
+          "_": "MI5",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/mi5"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T12:51:53.320Z",
+      "created_at": "2026-10-20T12:51:53.320Z"
+    },
+    {
+      "id": 25580,
+      "source": "Tom's Hardware",
+      "title_en": "US restarts three shut-down nuclear reactors to feed AI data centers",
+      "description_en": "The U.S. government is helping fund projects to bring nuclear reactors back online in an attempt to provide more energy capacity to AI data centers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/us-takes-unprecedented-step-of-recommissioning-nuclear-plants-due-to-ai-power-demand-2-25-gw-currently-on-tap-from-refurbished-reactors",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/LcooCRpkUqJsx2v5ieXJcZ-1920-80.jpg",
+      "pub_date": "Tue, 20 Oct 2026 12:50:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Big Tech",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T12:51:54.402Z",
+      "created_at": "2026-10-20T12:51:54.402Z"
+    },
+    {
+      "id": 25581,
+      "source": "Tom's Hardware",
+      "title_en": "Oblivion gamer uses Claude AI to boost average FPS gains up to 48%, stutters slashed by 90%",
+      "description_en": "The new Oblivion Remastered Performance Fix mod is a pure code fix, with no changes to game assets or the game's visuals, yet it offers massive gains.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/oblivion-gamer-uses-claude-ai-to-boost-average-fps-gains-up-to-48-percent-stutters-slashed-by-90-percent-performance-mod-doesnt-change-game-assets-or-alter-visuals",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/jZKXZNanDyqWYzFxNBfimL-1920-80.jpg",
+      "pub_date": "Tue, 20 Oct 2026 12:30:00 +0000",
+      "author": " Zak Killian ",
+      "categories": [
+        "PC Gaming",
+        "Video Games"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T12:51:54.402Z",
+      "created_at": "2026-10-20T12:51:54.402Z"
+    },
+    {
+      "id": 25582,
+      "source": "Tom's Hardware",
+      "title_en": "Modern software is built on the backs of low-paid maintainers, opening the door to potential threats",
+      "description_en": "Modern computing remains vulnerable to the low bus factor of many open-source projects — continued lack of funding and manpower for voluntary-maintained infrastructure makes for a perennial threat",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/modern-software-is-built-on-the-backs-of-low-paid-maintainers-opening-the-door-to-potential-threats-report-details-critically-underfunded-projects-that-remain-understaffed-or-unfunded",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/zAKMPdMzn6uvTf3sxZsDgA-1920-80.jpg",
+      "pub_date": "Tue, 20 Oct 2026 12:10:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Cybersecurity",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T12:51:54.402Z",
+      "created_at": "2026-10-20T12:51:54.402Z"
+    },
+    {
+      "id": 25583,
+      "source": "Tom's Hardware",
+      "title_en": "China’s tech giants drop $35 billion on export-compliant Nvidia RTX Pro 5500 workstation GPU orders to power AI ambitions, according to reports",
+      "description_en": "$35 billion worth of Nvidia RTX Pro 5500 GPUs have been bought by Chinese trio Tencent, Alibaba and ByteDance, with demand far exceeding Nvidia's planned production, according to report.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/chinas-tech-giants-drop-usd35-billion-on-export-compliant-nvidia-rtx-pro-5500-workstation-gpu-orders-to-power-ai-ambitions-according-to-reports-bytedance-alibaba-and-tencent-order-3-million-cards-despite-warnings-that-only-10-percent-of-orders-are-fulfillable",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ZQ7uixLax7MyxKpVHFVxEC-1920-80.jpg",
+      "pub_date": "Tue, 20 Oct 2026 12:10:00 +0000",
+      "author": " Ben Stockton ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T12:51:54.402Z",
+      "created_at": "2026-10-20T12:51:54.402Z"
+    },
+    {
+      "id": 25584,
+      "source": "Tom's Hardware",
+      "title_en": "Mods can almost double DLSS 5 performance through Foveation, reducing resolution at the edges of frames",
+      "description_en": "VR rendering technique of foveated imaging gets integrated into DLSS 5, making it much easier to run",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/mods-can-almost-double-dlss-5-performance-through-foveation-reducing-resolution-at-the-edges-of-frames-technique-makes-dlss-5-possible-on-high-resolution-ultrawide-monitors",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Axh3XNQ6DqK4KMfxtoMRBU-1920-80.jpg",
+      "pub_date": "Tue, 20 Oct 2026 11:54:18 +0000",
+      "author": " Jhet Borja ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T12:51:54.402Z",
+      "created_at": "2026-10-20T12:51:54.402Z"
+    },
+    {
+      "id": 25585,
+      "source": "Tom's Hardware",
+      "title_en": "Modal taps Nvidia Vera CPUs after firm's internal tests show 2x throughput over Intel and AMD chips",
+      "description_en": "Nvidia's Vera CPU delivers twice the performance of Intel and AMD chips in AI agent workloads, Modal claims.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/nvidia-vera-cpu-deployed-at-ai-startup-modal-alongside-existing-x86-fleet-internal-testing-showed-2x-throughput-compared-to-amd-and-intel",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-1920-80.jpg",
+      "pub_date": "Tue, 20 Oct 2026 11:50:00 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T12:51:54.402Z",
+      "created_at": "2026-10-20T12:51:54.402Z"
+    },
+    {
+      "id": 25586,
+      "source": "Tom's Hardware",
+      "title_en": "Intel asks FCC for waiver to buy foreign robots",
+      "description_en": "Intel is concerned that the sweeping ban on foreign-made robots means that it could not update or maintain its fleet of AGVs.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-asks-fcc-for-waiver-to-buy-foreign-robots-chipmakers-automated-guided-vehicles-could-run-afoul-of-agencys-sweeping-robot-ban",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/qMfEcWXZUKrABwGqtRncud-1920-80.png",
+      "pub_date": "Tue, 20 Oct 2026 11:45:01 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T12:51:54.402Z",
+      "created_at": "2026-10-20T12:51:54.402Z"
+    },
+    {
+      "id": 25587,
+      "source": "Tom's Hardware",
+      "title_en": "Windows 98 SE users get a Thunderbolt 4 driver, thanks to AI assistance",
+      "description_en": "Windows 98 devotees now have (experimental) support for USB4 and Thunderbolt 3/4. Vibe coded driver also supports Windows Me, XP, Vista, and 7.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/peripherals/thunderbolt/windows-98-se-users-get-a-thunderbolt-4-driver-thanks-to-ai-assistance-vibe-coded-xhci98-driver-works-in-microsoft-oses-up-to-windows-7",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/NoWyHSrvf9AM6sJicvFink-1920-80.jpg",
+      "pub_date": "Tue, 20 Oct 2026 11:30:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Thunderbolt",
+        "Peripherals",
+        "Cables and Connectors"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T12:51:54.402Z",
+      "created_at": "2026-10-20T12:51:54.402Z"
+    },
+    {
+      "id": 25588,
+      "source": "CNBC Tech",
+      "title_en": "AI rally fades away from Wall Street as a tiny IPO makes big waves",
+      "description_en": "Here are the key things investors need to know to start the trading day.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/20/ai-rally-fades-elice-ipo-dives.html",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 11:34:03 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T12:51:54.409Z",
+      "created_at": "2026-10-20T12:51:54.409Z"
+    },
+    {
+      "id": 25589,
+      "source": "Backdoor (TG)",
+      "title_en": "Находим локацию любой фотки через ИИ — вышел бесплатный скилл geo-sleuth, который даёт ИИ-агентам доступ к спутниковым картам (!), панорамам местности и данным о рельефе.Нейронка выдаёт точные координ",
+      "description_en": "Находим локацию любой фотки через ИИ — вышел бесплатный скилл geo-sleuth, который даёт ИИ-агентам доступ к спутниковым картам (!), панорамам местности и данным о рельефе.Нейронка выдаёт точные координаты с места съёмки любого фото. А затем рассказывает, как пришла к такому выводу.Работает с точностью до 1️⃣ МЕТРА и отлично подойдёт для Claude Code, Codex, Cursor и Gemini CLI.Ваш про-игрок в GeoGuessr — тут.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32347",
+      "image_url": null,
+      "pub_date": "2026-10-20T12:08:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T12:51:59.881Z",
+      "created_at": "2026-10-20T12:51:59.881Z"
+    },
+    {
+      "id": 25590,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🤖 Amazon wants PyTorch code to run on Trainium with one config changeAmazon launched TorchNeuron, a native PyTorch backend for its Trainium chips, aimed at the CUDA moat.• Existing PyTorch scripts ru",
+      "description_en": "🤖 Amazon wants PyTorch code to run on Trainium with one config changeAmazon launched TorchNeuron, a native PyTorch backend for its Trainium chips, aimed at the CUDA moat.• Existing PyTorch scripts run with no rewrite, per Amazon• It gets open-sourced at PyTorch Conference on Oct. 20• Amazon says 85% of AI developers write in PyTorch• Robotics, drug discovery, LLM and finance teams are already building on it",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/786",
+      "image_url": null,
+      "pub_date": "2026-10-20T12:30:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T12:52:00.741Z",
+      "created_at": "2026-10-20T12:52:00.741Z"
     }
   ]
 }
