@@ -1,9 +1,9 @@
 {
-  "total": 25536,
-  "translated": 25528,
-  "untranslated": 8,
-  "today": 19,
-  "week": 692,
+  "total": 25543,
+  "translated": 25536,
+  "untranslated": 7,
+  "today": 26,
+  "week": 699,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1620,
-      "translated": 1620,
+      "total": 1621,
+      "translated": 1621,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1412,
-      "translated": 1412,
-      "lastDate": "2026-10-18T23:11:35.000Z"
+      "total": 1415,
+      "translated": 1415,
+      "lastDate": "2026-10-20T02:46:24.000Z"
     },
     {
       "name": "The Decoder",
@@ -56,7 +56,7 @@
     {
       "name": "New Atlas",
       "total": 1166,
-      "translated": 1165,
+      "translated": 1166,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -85,9 +85,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 658,
-      "translated": 658,
-      "lastDate": "2026-10-20T03:53:27+00:00"
+      "total": 659,
+      "translated": 659,
+      "lastDate": "2026-10-20T06:54:27+00:00"
     },
     {
       "name": "Backdoor (TG)",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 468,
-      "translated": 466,
-      "lastDate": "2026-10-19T15:20:13+00:00"
+      "total": 469,
+      "translated": 467,
+      "lastDate": "2026-10-20T06:15:54+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -121,9 +121,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 328,
-      "translated": 328,
-      "lastDate": "2026-10-19T07:58:10+00:00"
+      "total": 329,
+      "translated": 329,
+      "lastDate": "2026-10-20T06:45:38+00:00"
     },
     {
       "name": "The Register",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-20T06:14:31.229Z"
+  "generatedAt": "2026-10-20T07:28:20.260Z"
 }
