@@ -552102,6 +552102,60 @@
       "priority": "hot",
       "fetchedAt": "2026-10-19T23:52:08.213Z",
       "created_at": "2026-10-19T23:52:08.213Z"
+    },
+    {
+      "id": 25518,
+      "source": "MarkTechPost",
+      "title_en": "Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59",
+      "description_en": "Nace AI released Drex Max, a multimodal decision model that reads text and screenshots and returns calibrated probabilities. Nace reports 67.59 on Decision Index 0.3.2 at $0.06 per 1M input tokens.\nThe post Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59 appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 00:03:38 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Computer-Use",
+        "Decision Models",
+        "Editors Pick",
+        "Enterprise AI",
+        "For Devs",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T01:23:49.303Z",
+      "created_at": "2026-10-20T01:23:49.303Z"
+    },
+    {
+      "id": 25519,
+      "source": "Interesting Engineering",
+      "title_en": "OpenAI models make huge gains in modernizing decades-old software with 97.9% accuracy",
+      "description_en": "OpenAI has significantly improved its models’ ability to write software in older programming languages and...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/openai-coding-models-software-modernization",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 00:53:42 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T01:23:50.610Z",
+      "created_at": "2026-10-20T01:23:50.610Z"
     }
   ]
 }
