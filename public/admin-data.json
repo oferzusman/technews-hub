@@ -1,9 +1,9 @@
 {
-  "total": 25619,
-  "translated": 25612,
+  "total": 25631,
+  "translated": 25624,
   "untranslated": 7,
-  "today": 102,
-  "week": 775,
+  "today": 114,
+  "week": 787,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,8 +19,8 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 1688,
-      "translated": 1688,
+      "total": 1690,
+      "translated": 1690,
       "lastDate": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
     {
@@ -31,9 +31,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1497,
-      "translated": 1495,
-      "lastDate": "2026-10-20T14:46:10+00:00"
+      "total": 1498,
+      "translated": 1496,
+      "lastDate": "2026-10-20T17:44:24+00:00"
     },
     {
       "name": "Product Hunt",
@@ -43,14 +43,14 @@
     },
     {
       "name": "The Decoder",
-      "total": 1392,
-      "translated": 1392,
+      "total": 1395,
+      "translated": 1395,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
     {
       "name": "The Guardian AI",
-      "total": 1257,
-      "translated": 1257,
+      "total": 1258,
+      "translated": 1258,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 980,
-      "translated": 978,
-      "lastDate": "2026-10-20T15:20:02+00:00"
+      "total": 981,
+      "translated": 979,
+      "lastDate": "2026-10-20T16:01:41+00:00"
     },
     {
       "name": "The Verge AI",
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 813,
-      "translated": 813,
+      "total": 815,
+      "translated": 815,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
@@ -97,8 +97,8 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 619,
-      "translated": 619,
+      "total": 620,
+      "translated": 620,
       "lastDate": "Wed, 30 Sep 2026 10:30:00 GMT"
     },
     {
@@ -145,8 +145,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 276,
-      "translated": 276,
+      "total": 277,
+      "translated": 277,
       "lastDate": "Wed, 30 Sep 2026 00:00:00 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-20T15:48:23.802Z"
+  "generatedAt": "2026-10-20T17:47:21.480Z"
 }
