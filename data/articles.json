@@ -554441,6 +554441,338 @@
       "priority": "hot",
       "fetchedAt": "2026-10-20T15:45:11.800Z",
       "created_at": "2026-10-20T15:45:11.800Z"
+    },
+    {
+      "id": 25620,
+      "source": "TechCrunch AI",
+      "title_en": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "description_en": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 17:12:48 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "AI",
+        "Apps",
+        "ai apps",
+        "Meta",
+        "muse"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T17:45:18.697Z",
+      "created_at": "2026-10-20T17:45:18.697Z"
+    },
+    {
+      "id": 25621,
+      "source": "TechCrunch AI",
+      "title_en": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+      "description_en": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 16:00:00 +0000",
+      "author": "Tim De Chant",
+      "categories": [
+        "Climate",
+        "AI",
+        "Fundraising",
+        "plants",
+        "Exclusive",
+        "plant monitoring"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T17:45:18.698Z",
+      "created_at": "2026-10-20T17:45:18.698Z"
+    },
+    {
+      "id": 25622,
+      "source": "The Decoder",
+      "title_en": "Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time",
+      "description_en": "Mistral AI launched Voxtral 3, a new family of language models built for real-time voice agents. The system combines speech-to-text, text-to-speech, and a voice agent SDK, supports more than 50 languages, and lets agents tap into external tools during live conversations. It can run on your own infrastructure or through EU-hosted APIs to keep data under your control.\nThe article Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time appeared first on ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 17:17:55 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Mistral"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T17:45:19.966Z",
+      "created_at": "2026-10-20T17:45:19.966Z"
+    },
+    {
+      "id": 25623,
+      "source": "The Decoder",
+      "title_en": "Sam Altman reportedly pitched three endgames for AI safety, one involving a single firm melting everyone else's GPUs",
+      "description_en": "OpenAI CEO Sam Altman laid out three paths to safe AI in an internal presentation: an international watchdog modeled after the IAEA, a merger of the major labs into one entity, or a single company so powerful it could shut down everyone else's compute. He called the last option \"terrible.\"\nThe article Sam Altman reportedly pitched three endgames for AI safety, one involving a single firm melting everyone else's GPUs appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/sam-altman-reportedly-pitched-three-endgames-for-ai-safety-one-involving-a-single-firm-melting-everyone-elses-gpus/",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 17:00:59 +0000",
+      "author": "Manuel Uth",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "AI and safety",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T17:45:19.966Z",
+      "created_at": "2026-10-20T17:45:19.966Z"
+    },
+    {
+      "id": 25624,
+      "source": "The Decoder",
+      "title_en": "OpenAI says GPT-6 is much better with legacy programming languages such as COBOL and Fortran",
+      "description_en": "OpenAI improved its latest models for low-resource programming languages like COBOL, Fortran, and Visual Basic. On the new MultiLangBench, GPT-6 Astra hits an 87.4 percent test pass rate across 20 languages, up from about 38 percent for GPT-5.6 Terra. For COBOL migration specifically, GPT-6.1 Sol reaches up to 97.9 percent accuracy, a result that could matter for modernizing critical financial infrastructure.\nThe article OpenAI says GPT-6 is much better with legacy programming languages such as ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 16:40:29 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T17:45:19.966Z",
+      "created_at": "2026-10-20T17:45:19.966Z"
+    },
+    {
+      "id": 25625,
+      "source": "MarkTechPost",
+      "title_en": "Google Open-Sources TorchTPU, a Native PyTorch Backend for Cloud TPUs",
+      "description_en": "Google and Meta open-sourced TorchTPU, a native PyTorch backend for Cloud TPUs. It runs eager by default, compiles through torch.compile and XLA, and replaces PyTorch/XLA for new workloads.\nThe post Google Open-Sources TorchTPU, a Native PyTorch Backend for Cloud TPUs appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/10/20/google-torchtpu-open-source-native-pytorch-tpu/",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 15:22:03 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs",
+        "Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-20T17:45:20.172Z",
+      "created_at": "2026-10-20T17:45:20.172Z"
+    },
+    {
+      "id": 25626,
+      "source": "MarkTechPost",
+      "title_en": "DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash",
+      "description_en": "DeepSeek has open-sourced DeepInfer, the Apache 2.0 inference framework that serves DeepSeek-V4.1-Flash in production. It targets NVIDIA SM100 GPUs and Huawei Ascend 950 NPUs, and ships offline inference only.\nThe post DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 14:31:59 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs",
+        "Harness",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Uncategorized"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-20T17:45:20.172Z",
+      "created_at": "2026-10-20T17:45:20.172Z"
+    },
+    {
+      "id": 25627,
+      "source": "Hugging Face Blog",
+      "title_en": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/allenai/fairstress",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 16:09:19 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T17:45:20.251Z",
+      "created_at": "2026-10-20T17:45:20.251Z"
+    },
+    {
+      "id": 25628,
+      "source": "OpenAI Blog",
+      "title_en": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "description_en": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/ted-taylor-restaurant",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 10:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-20T17:45:20.343Z",
+      "created_at": "2026-10-20T17:45:20.343Z"
+    },
+    {
+      "id": 25629,
+      "source": "The Guardian AI",
+      "title_en": "From Iran to AI: the six key voter issues shaping the US midterm elections",
+      "description_en": "Much of Donald Trump’s unpopularity in polls stems from dissatisfaction over the economy and war on Iran\n\nUS politics live – latest updates\n\n***\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/voter-issues-midterms-elections",
+      "image_url": "https://i.guim.co.uk/img/media/77ba413d94e2c1875a601cf81711a48e9db44078/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=9b1e6dc4343c65037f5d09ff3d67c7b7",
+      "pub_date": "Tue, 20 Oct 2026 16:52:16 GMT",
+      "author": "Robert Tait in Washington",
+      "categories": [
+        {
+          "_": "US midterm elections 2026",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-midterm-elections-2026"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Donald Trump",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/donaldtrump"
+          }
+        },
+        {
+          "_": "US-Israel war on Iran",
+          "$": {
+            "domain": "https://www.theguardian.com/world/us-israel-war-on-iran"
+          }
+        },
+        {
+          "_": "Iran",
+          "$": {
+            "domain": "https://www.theguardian.com/world/iran"
+          }
+        },
+        {
+          "_": "US economy",
+          "$": {
+            "domain": "https://www.theguardian.com/business/useconomy"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "US immigration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/usimmigration"
+          }
+        },
+        {
+          "_": "ICE (US Immigration and Customs Enforcement)",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/ice-us-immigration-and-customs-enforcement"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Datacenters – US",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/datacenters--us-"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T17:45:20.885Z",
+      "created_at": "2026-10-20T17:45:20.885Z"
+    },
+    {
+      "id": 25630,
+      "source": "XOR Journal (TG)",
+      "title_en": "Тимлид откликнулся на вакансию в свою же команду и получил отказ за 6 МИНУТ 🤡История дня произошла в одной компании, где команда из 9 человек несколько месяцев не могла найти нового сотрудника. Цербе",
+      "description_en": "Тимлид откликнулся на вакансию в свою же команду и получил отказ за 6 МИНУТ 🤡История дня произошла в одной компании, где команда из 9 человек несколько месяцев не могла найти нового сотрудника. Церберы Эйчары жаловались на нехватку подходящих кандидатов, поэтому руководитель решил проверить все сам и… отправил им свое резюме под чужим именем.Как вы уже поняли, пройти злобный эйчар-фильтр ему не удалось. Оказалось, что он требовал обязательного упоминания React.js, а в резюме было просто React.А",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10340",
+      "image_url": "https://cdn4.telesco.pe/file/lXAge1M_B-IoO_HBPZXxAiXC4o0DtLi_iM2eIpiDOlX3mosqWcTzdA4EvTnYMseLDRTl4BPRo06wezsw58inH3UK09WBCvHQIkEHtK7UJG4lK4Sm2u3LQQ-SMo_cfFh41vaM_XPG-XEz-ZF4Q6iH3qxed4szHO8XSEbIkPBh-VUKMFZ63ZUPEj9QlzX4qF-tAJtfGaOHEgRDG5P17Kh6uqLwD8r8bawoCRmVlWMzvRsbzyIoUo8WH3CTjo4anZdeZqQJdz5d2F93opRh50O59Oo64ow1opsUHHJHagqFmtIIQixy8IMIIoBS6qXs5KOT5PsbXa6cdTyQ460cakKBkQ.jpg",
+      "pub_date": "2026-10-20T16:01:41+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T17:45:27.864Z",
+      "created_at": "2026-10-20T17:45:27.864Z"
+    },
+    {
+      "id": 25631,
+      "source": "AI Post (TG)",
+      "title_en": "🗣Mathematician Terence Tao:\"one thing this whole era of AI is teaching us is that our idea of intelligence is not really accurate\"The history of AI has been: 'here’s a task only humans can do', and t",
+      "description_en": "🗣Mathematician Terence Tao:\"one thing this whole era of AI is teaching us is that our idea of intelligence is not really accurate\"The history of AI has been: 'here’s a task only humans can do', and then one by one, an algorithm does it too. Maybe we're not quite as smart as we think.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8546",
+      "image_url": null,
+      "pub_date": "2026-10-20T17:44:24+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T17:45:28.433Z",
+      "created_at": "2026-10-20T17:45:28.433Z"
     }
   ]
 }
