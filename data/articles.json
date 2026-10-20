@@ -554150,6 +554150,297 @@
       "priority": "hot",
       "fetchedAt": "2026-10-20T14:25:39.852Z",
       "created_at": "2026-10-20T14:25:39.852Z"
+    },
+    {
+      "id": 25610,
+      "source": "MIT Technology Review",
+      "title_en": "The new economics of enterprise AI",
+      "description_en": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from “can we use it?” to “how efficiently are we using it?”…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 15:20:25 +0000",
+      "author": "David Sydow",
+      "categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T15:44:59.502Z",
+      "created_at": "2026-10-20T15:44:59.502Z"
+    },
+    {
+      "id": 25611,
+      "source": "Hugging Face Blog",
+      "title_en": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 15:19:48 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T15:44:59.744Z",
+      "created_at": "2026-10-20T15:44:59.744Z"
+    },
+    {
+      "id": 25612,
+      "source": "Hugging Face Blog",
+      "title_en": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/hf-torchtpu",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-20T15:44:59.744Z",
+      "created_at": "2026-10-20T15:44:59.744Z"
+    },
+    {
+      "id": 25613,
+      "source": "The Guardian AI",
+      "title_en": "Could this be a Deep Blue moment for the cryptic crossword?",
+      "description_en": "A computer program has finally oudone humans at solving cryptic crosswords. Plus, more from around the puzzleverse\n• Don’t get Cluesletter, our weekly puzzles newsletter, delivered to your inbox? Sign up here\nWhen the IBM supercomputer Deep Blue beat Garry Kasparov at chess in 1997, it was an early victory for artificial intelligence over the human mind, and the culmination of decades of attempts. Almost 30 years later, a computer program has finally outdone humans at solving cryptic crosswords.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/puzzles/crossword-blog/2026/oct/20/could-this-be-a-deep-blue-moment-for-the-cryptic-crossword",
+      "image_url": "https://i.guim.co.uk/img/media/c6c720b35b47cb4d8acc8251786141517b5aaa4d/0_0_1676_1341/master/1676.jpg?width=140&quality=85&auto=format&fit=max&s=738d38dacdb921827ce299617ff525cb",
+      "pub_date": "Tue, 20 Oct 2026 15:27:50 GMT",
+      "author": "Alan Evans",
+      "categories": [
+        {
+          "_": "Puzzles",
+          "$": {
+            "domain": "https://www.theguardian.com/puzzles/puzzles"
+          }
+        },
+        {
+          "_": "Crosswords",
+          "$": {
+            "domain": "https://www.theguardian.com/crosswords/crosswords"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T15:45:00.135Z",
+      "created_at": "2026-10-20T15:45:00.135Z"
+    },
+    {
+      "id": 25614,
+      "source": "The Guardian AI",
+      "title_en": "The dangers of letting tech billionaires shape our world",
+      "description_en": "As SpaceX impacts Ukraine and AI-generated music divides artists and fans, critics are asking what happens when technology has too much control over our lives\n\nThis was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here\n\nHello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at the Guardian, writing to you while sitting in front of Roy Lichtenstein’s monumental Drowning Girl, on view in New York City. Today in tech, we",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/global/2026/oct/19/musk-ukraine-ai-music",
+      "image_url": "https://i.guim.co.uk/img/media/9df3eaa715484d3f560e4dea76d7dda82597ac00/188_0_4077_3262/master/4077.jpg?width=140&quality=85&auto=format&fit=max&s=b7b903174ee49baa9b374086769320ea",
+      "pub_date": "Tue, 20 Oct 2026 14:31:45 GMT",
+      "author": "Blake Montgomery",
+      "categories": [
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "Music",
+          "$": {
+            "domain": "https://www.theguardian.com/music/music"
+          }
+        },
+        {
+          "_": "SpaceX",
+          "$": {
+            "domain": "https://www.theguardian.com/science/spacex"
+          }
+        },
+        {
+          "_": "Ukraine",
+          "$": {
+            "domain": "https://www.theguardian.com/world/ukraine"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Science",
+          "$": {
+            "domain": "https://www.theguardian.com/science/science"
+          }
+        },
+        {
+          "_": "Grimes",
+          "$": {
+            "domain": "https://www.theguardian.com/music/grimes"
+          }
+        },
+        {
+          "_": "Europe",
+          "$": {
+            "domain": "https://www.theguardian.com/world/europe-news"
+          }
+        },
+        {
+          "_": "France",
+          "$": {
+            "domain": "https://www.theguardian.com/world/france"
+          }
+        },
+        {
+          "_": "Paris",
+          "$": {
+            "domain": "https://www.theguardian.com/world/paris"
+          }
+        },
+        {
+          "_": "Digital music and audio",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/digital-music-and-audio"
+          }
+        },
+        {
+          "_": "Internet",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/internet"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T15:45:00.135Z",
+      "created_at": "2026-10-20T15:45:00.135Z"
+    },
+    {
+      "id": 25615,
+      "source": "Interesting Engineering",
+      "title_en": "From Ukrainian Pryvyd to Canadian JTF2: Longest-range sniper shots ever recorded",
+      "description_en": "A sniper’s place in history can come down to a distance. But behind that number...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/longest-range-sniper-shots-ever-recorded",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 14:20:42 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T15:45:02.027Z",
+      "created_at": "2026-10-20T15:45:02.027Z"
+    },
+    {
+      "id": 25616,
+      "source": "XOR Journal (TG)",
+      "title_en": "Anthropic изучила риски ИИ с помощью разработки Яндекса — нейросеть на 26 млрд параметров запустили на ТВ-приставках 🤩Исследователи Anthropic воспроизвели в своём эксперименте подход Petals. Его прид",
+      "description_en": "Anthropic изучила риски ИИ с помощью разработки Яндекса — нейросеть на 26 млрд параметров запустили на ТВ-приставках 🤩Исследователи Anthropic воспроизвели в своём эксперименте подход Petals. Его придумали в Яндексе вместе с ВШЭ, Вашингтонским университетом, Hugging Face и Высшей нормальной школой Париж-Сакле:🟢 Большая модель делится на части;🟢 Каждую часть считает отдельное устройство и передаёт результат следующему;🟢 Мощный компьютер не нужен, так что большие модели доступны даже небольшим ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10339",
+      "image_url": "https://cdn4.telesco.pe/file/JtlWArvbNl2u9Y-4VXA6JDwiVRPnwANfk6fmvBtadcdtQM52enxOZ4WZel83P875h981A8Z_tvmQrInhJ6MwSqShyBpYRww6N_8HtEkp8bBiqHin_A4I4WtdTLgdCYaWHE63bbhC_VO6E6XwAPSBOqfC5jA_bObBuGf38WzZk-G3uykqzZNhaAFAfF5KT99CpCtwQHIV81vGP8js2A2Ftg2TTwTjzbA-9Tw51I_rc8izRBr7wEYcQqogdK7HbVnVTYhB_nzVTzLPqjesgWE8BdSQSPUsl86l3wt2kflVU2Z9c0tKYqG12TOBYglYB9LDd_fGKGUXtjj33v9eMDdJSw.jpg",
+      "pub_date": "2026-10-20T15:20:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T15:45:10.875Z",
+      "created_at": "2026-10-20T15:45:10.875Z"
+    },
+    {
+      "id": 25617,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🔍 Claude Code случайно нашел криптомайнер на компьютере пользователяРазработчик под ником UntilHEX заметил, что его Mac начал тормозить и раскаляться, и решил с помощью Claude Code быстро написать со",
+      "description_en": "🔍 Claude Code случайно нашел криптомайнер на компьютере пользователяРазработчик под ником UntilHEX заметил, что его Mac начал тормозить и раскаляться, и решил с помощью Claude Code быстро написать собственную утилиту для мониторинга температуры. Агент выгрузил сырые данные, проверил процессы и нашел причину.«На вашем Mac работает криптомайнер, который я туда не ставил», — сообщил ИИ.Это был майнер XMRig, который тайно добывал криптовалюту Monero. Он постоянно почти полностью загружал 12 ядер, и",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3752",
+      "image_url": "https://cdn4.telesco.pe/file/J8xTXp2qCn4y2f19oD0V_So1NwX5t7mWRmdd274MgQp81XbHoFQbmTVs7jVAb10mt_GYtDzPoO24I99hAoGvSpKQg-1GYmxIKpLRZKaxaeGI8ipaJLNuvsA1QAnmgOGa8OgmTWyunjyXHSSbHmaHVmCU81TZIFebwaJWTZFfxhRuxwCgZV-F7qIFLP-EN3fWa45ILkpCps8aESzSqJX1bT__8dvwsCquPYMba7hVEMdppZIvfowrbLUuOdAXCrtQcpG4SqKliIUK2mF1p57e-jxSr-hWNO1ToBf_u-Xl6E6CbezBgoxaUsWDV85u6b5Mzz4YlF1mtlyF-CXP8-r9Yg.jpg",
+      "pub_date": "2026-10-20T14:46:38+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T15:45:11.200Z",
+      "created_at": "2026-10-20T15:45:11.200Z"
+    },
+    {
+      "id": 25618,
+      "source": "AI Post (TG)",
+      "title_en": "❗️A hacker found 13 million conversations from AI toys, including thousands of children’s profilesA security researcher has uncovered serious vulnerabilities in Eiliko, an AI-powered companion robot m",
+      "description_en": "❗️A hacker found 13 million conversations from AI toys, including thousands of children’s profilesA security researcher has uncovered serious vulnerabilities in Eiliko, an AI-powered companion robot made by Energize Lab, exposing data linked to approximately 68,000 devices.The investigation found that more than 13 million conversations were accessible, alongside personal information such as children’s names, birthdays, family details, photos and audio recordings. Around 31,000 profiles reportedl",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8544",
+      "image_url": "https://cdn4.telesco.pe/file/esv0XG8sBSQw7dF03B-6Fwg0T659anU0tl2HAcPv9LB6oD2LHXcTP1_Ajxa_pzKXzEeVV_g2AuWV0sW4GeD3lY9JcuwjCia7zOdG0g9O3H3I0baBnIWLkVWq99-YwELqD9vIfSN3lKj5dwI4Pn1lFuVlzUPAzJW6fT8-MFGfZjOz13M_wHvy3ErNWK3aekQ9HW6eg1kGnQmGwvpsn-VTSzTKXYgdr1KRsoGXxEGI_aaHZRmk-U-pe65StuRG3R313WonHttLazrPXRkZFP-rVp_UW9HKl5-WwEMfcpKfV7Faq3ZPczQV5AjSFjnRXOu2iVtLmelsNlDcviKdD391Bg.jpg",
+      "pub_date": "2026-10-20T14:46:10+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T15:45:11.456Z",
+      "created_at": "2026-10-20T15:45:11.456Z"
+    },
+    {
+      "id": 25619,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🤖 Google open-sources TorchTPU, so PyTorch runs on TPUs without a JAX rewriteGoogle Cloud released the stack that lets existing PyTorch code target its TPUs natively. That removes the old tax of port",
+      "description_en": "🤖 Google open-sources TorchTPU, so PyTorch runs on TPUs without a JAX rewriteGoogle Cloud released the stack that lets existing PyTorch code target its TPUs natively. That removes the old tax of porting to JAX or XLA, and it lands right after Amazon's TorchNeuron push for Trainium.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/787",
+      "image_url": null,
+      "pub_date": "2026-10-20T15:31:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-20T15:45:11.800Z",
+      "created_at": "2026-10-20T15:45:11.800Z"
     }
   ]
 }
