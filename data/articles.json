@@ -552108,8 +552108,8 @@
       "source": "MarkTechPost",
       "title_en": "Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59",
       "description_en": "Nace AI released Drex Max, a multimodal decision model that reads text and screenshots and returns calibrated probabilities. Nace reports 67.59 on Decision Index 0.3.2 at $0.06 per 1M input tokens.\nThe post Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59 appeared first on MarkTechPost.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "פגשו את Drex Max: מודל ההחלטות המולטימודאלי של Nace AI לסוכני שימוש במחשב עם ציון 67.59",
+      "description_he": "Nace AI השיקה את Drex Max, מודל AI חדש שמסוגל לקרוא טקסט וצילומי מסך ולהחזיר הסתברויות מכוילות בדיוק. החברה הדווחה על ציון של 67.59 בـ Decision Index 0.3.2, וכל זה בעלות אדירה של 6 סנט בלבד לכל מיליון tokens בכניסה - דבר שעשוי לשנות את המשחק בתחום סוכני ה-AI האוטומטיים.",
       "link": "https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/",
       "image_url": null,
       "pub_date": "Tue, 20 Oct 2026 00:03:38 +0000",
@@ -552133,7 +552133,7 @@
         "Tech News",
         "Technology"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-10-20T01:23:49.303Z",
       "created_at": "2026-10-20T01:23:49.303Z"
@@ -552143,8 +552143,8 @@
       "source": "Interesting Engineering",
       "title_en": "OpenAI models make huge gains in modernizing decades-old software with 97.9% accuracy",
       "description_en": "OpenAI has significantly improved its models’ ability to write software in older programming languages and...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מודלים של OpenAI משיגים קפיצה ענקית בעדכון תוכנה ישנה עם דיוק של 97.9%",
+      "description_he": "OpenAI הצליחה לשפר משמעותית את יכולת המודלים שלה לכתוב קוד בשפות תכנות ישנות, עם דיוק מדהים של כמעט 98%. זה אומר שה-AI יכול כעת לתרגם וליהדרש בצורה יעילה מאוד קוד legacy שעוד עובד במערכות ישנות ברחבי העולם. חדשות טובות לכל מי שנתקע עם Python 2, COBOL או שפות אחרות שנראות כאילו הן מעבר לזמן.",
       "link": "https://interestingengineering.com/ai-robotics/openai-coding-models-software-modernization",
       "image_url": null,
       "pub_date": "Tue, 20 Oct 2026 00:53:42 +0000",
@@ -552152,7 +552152,7 @@
       "categories": [
         "AI and Robotics"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-10-20T01:23:50.610Z",
       "created_at": "2026-10-20T01:23:50.610Z"
