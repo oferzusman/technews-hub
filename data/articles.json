@@ -556458,6 +556458,117 @@
       "priority": "batch",
       "fetchedAt": "2026-10-21T10:27:20.856Z",
       "created_at": "2026-10-21T10:27:20.856Z"
+    },
+    {
+      "id": 25717,
+      "source": "Hugging Face Blog",
+      "title_en": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 10:59:42 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T11:14:56.345Z",
+      "created_at": "2026-10-21T11:14:56.345Z"
+    },
+    {
+      "id": 25718,
+      "source": "Interesting Engineering",
+      "title_en": "New solid-state battery lines open for electric aircraft with 50% more energy",
+      "description_en": "French battery maker Saft has opened new battery production lines in Bordeaux to advance solid-state...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/solid-state-battery-lines-for-electric-aircraft",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 10:52:53 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [
+        "Energy"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T11:14:57.887Z",
+      "created_at": "2026-10-21T11:14:57.887Z"
+    },
+    {
+      "id": 25719,
+      "source": "Tom's Hardware",
+      "title_en": "Micron's Taiwan union will launch a one-day strike this week, threatening memory production",
+      "description_en": "Micron's Taiwan union is set to conduct a one-day strike at the company's Taoyuan DRAM facility as workers demand bonuses for this year and transparent terms of bonuses for upcoming years.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/dram/microns-taiwan-union-will-launch-a-one-day-strike-this-week-threatening-round-the-clock-fab-operations-workers-demand-concrete-terms-for-2026-bonus-and-clearer-profit-sharing-arrangements",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-1920-80.jpg",
+      "pub_date": "Wed, 21 Oct 2026 11:00:00 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "DRAM",
+        "PC Components",
+        "RAM"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T11:15:02.229Z",
+      "created_at": "2026-10-21T11:15:02.229Z"
+    },
+    {
+      "id": 25720,
+      "source": "Tom's Hardware",
+      "title_en": "HPE says it will run the first supercomputer benchmarks on the Moon",
+      "description_en": "HPE’s Spaceborne Computer-4 will ride Astrolab’s FLIP rover to the Moon’s south pole to run HPL, HPCG, and AI tests.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/supercomputers/hpe-says-it-will-run-the-first-supercomputer-benchmarks-on-the-moon-with-its-spaceborne-computer-4-system-will-ride-a-rover-to-the-lunar-south-pole-to-test-linpack-llms-and-lidar-mapping",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/WNG7679dTQZh2Z5h75BuT3-1920-80.jpg",
+      "pub_date": "Wed, 21 Oct 2026 10:30:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "Supercomputers",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T11:15:02.229Z",
+      "created_at": "2026-10-21T11:15:02.229Z"
+    },
+    {
+      "id": 25721,
+      "source": "AI Post (TG)",
+      "title_en": "Opus was asked what it thinks consciousness really is.@aipost 🏴",
+      "description_en": "Opus was asked what it thinks consciousness really is.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8556",
+      "image_url": null,
+      "pub_date": "2026-10-21T11:10:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T11:15:08.217Z",
+      "created_at": "2026-10-21T11:15:08.217Z"
+    },
+    {
+      "id": 25722,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🤖 Four Gemini 4 agents beat Minecraft in 27 hours, and they wrote 2,783 programs of their own to do itDeepMind's team, per Tom's Hardware, died 605 times on easy difficulty and burned an estimated $5",
+      "description_en": "🤖 Four Gemini 4 agents beat Minecraft in 27 hours, and they wrote 2,783 programs of their own to do itDeepMind's team, per Tom's Hardware, died 605 times on easy difficulty and burned an estimated $520 in tokens. A human speedrunner pays nothing for the same dragon.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/795",
+      "image_url": null,
+      "pub_date": "2026-10-21T10:49:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T11:15:08.529Z",
+      "created_at": "2026-10-21T11:15:08.529Z"
     }
   ]
 }
