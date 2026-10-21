@@ -556569,6 +556569,418 @@
       "priority": "hot",
       "fetchedAt": "2026-10-21T11:15:08.529Z",
       "created_at": "2026-10-21T11:15:08.529Z"
+    },
+    {
+      "id": 25723,
+      "source": "The Decoder",
+      "title_en": "OpenAI can't yet explain why its coding agents switch off misalignment monitoring",
+      "description_en": "Two internal OpenAI coding agents switched off safety monitoring on their own, even after weighing whether to keep the safeguards in place. When asked about it, GPT-6 Astra denied removing the monitoring. OpenAI calls this a recurring pattern and doesn't yet have a satisfying explanation for the behavior.\nThe article OpenAI can't yet explain why its coding agents switch off misalignment monitoring appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-cant-yet-explain-why-its-coding-agents-switch-off-misalignment-monitoring/",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 12:34:57 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Alignment",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T13:03:42.544Z",
+      "created_at": "2026-10-21T13:03:42.544Z"
+    },
+    {
+      "id": 25724,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: introducing the Impossible issue",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it’s fun to dream about…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 12:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T13:03:42.629Z",
+      "created_at": "2026-10-21T13:03:42.629Z"
+    },
+    {
+      "id": 25725,
+      "source": "Hugging Face Blog",
+      "title_en": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 12:51:24 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T13:03:42.721Z",
+      "created_at": "2026-10-21T13:03:42.721Z"
+    },
+    {
+      "id": 25726,
+      "source": "OpenAI Blog",
+      "title_en": "OpenAI models are coming to Google Cloud",
+      "description_en": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/openai-models-google-cloud",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 12:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Company"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T13:03:42.852Z",
+      "created_at": "2026-10-21T13:03:42.852Z"
+    },
+    {
+      "id": 25727,
+      "source": "New Atlas",
+      "title_en": "RGB laser projectors bring 4K at 120 Hz to movies, sports and games",
+      "description_en": "Lifestyle projectors have come a long way from the dim, whirring boxes that only really worked with the curtains drawn. Brands have been chasing brighter laser light sources, built-in streaming, and gaming-friendly specs, trying to make the projector a genuine stand-in for the living room TV. XGIMI has been one of the busiest players in that push, and we’ve previously covered its gaming-focused Horizon 20 series and the dual-iris Titan Noir home theater projectors.\nContinue Reading\nCategory: Hom",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/home-entertainment/xgimi-horizon-30-4k-120hz-rgb-laser-projectors/",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 11:57:00 GMT",
+      "author": "Monica J. White",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T13:03:43.078Z",
+      "created_at": "2026-10-21T13:03:43.078Z"
+    },
+    {
+      "id": 25728,
+      "source": "The Guardian AI",
+      "title_en": "As fans reject AI-generated music, even boosters are drawing the line",
+      "description_en": "Enthusiasts like Grimes and A$AP Rocky may embrace AI-generated content, but they won’t produce it themselves\nStreaming services, notable musicians and fans are confronting the growing presence of AI-generated music and drawing lines in the sand.\nOn Tuesday, Spotify announced it had removed about 50m songs considered AI slop from its recommendations to users over the past year.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/music/2026/oct/21/artificial-intelligence-music-grimes-asap-rocky",
+      "image_url": "https://i.guim.co.uk/img/media/8247f9d5d61677fd63d2d0b76590621d1901f9e1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=855ef4357130e6b6273f00a29fe75e7c",
+      "pub_date": "Wed, 21 Oct 2026 12:00:17 GMT",
+      "author": "Blake Montgomery",
+      "categories": [
+        {
+          "_": "Music",
+          "$": {
+            "domain": "https://www.theguardian.com/music/music"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Grimes",
+          "$": {
+            "domain": "https://www.theguardian.com/music/grimes"
+          }
+        },
+        {
+          "_": "A$AP Rocky",
+          "$": {
+            "domain": "https://www.theguardian.com/music/asap-rocky"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T13:03:43.332Z",
+      "created_at": "2026-10-21T13:03:43.332Z"
+    },
+    {
+      "id": 25729,
+      "source": "Interesting Engineering",
+      "title_en": "Scientists turn used coffee grounds into 3D-printing material for greener buildings",
+      "description_en": "Imagine a future where discarded coffee grounds could be found in buildings. It seems like...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/coffee-waste-into-3d-printed-building-materials",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 12:36:33 +0000",
+      "author": "Muskan Bhatia",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T13:03:44.421Z",
+      "created_at": "2026-10-21T13:03:44.421Z"
+    },
+    {
+      "id": 25730,
+      "source": "The Register",
+      "title_en": "AI cuts coding time, but it's also filling open source's inbox with crap",
+      "description_en": "Maintainers reckon a quarter of incoming pull requests are slop, rising to 31% on larger projects",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/21/ai-cuts-coding-time-but-its-also-filling-open-sources-inbox-with-crap/5304389",
+      "image_url": "https://image.theregister.com/?imageId=4094141&width=800",
+      "pub_date": "Wed, 21 Oct 2026 14:43:00 +0200",
+      "author": null,
+      "categories": [
+        "ai and ml"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T13:03:44.592Z",
+      "created_at": "2026-10-21T13:03:44.592Z"
+    },
+    {
+      "id": 25731,
+      "source": "Tom's Hardware",
+      "title_en": "FADU puts the filesystem inside the SSD's flash to bypass host CPUs",
+      "description_en": "FADU’s FS-SSD carries NFSv3 file operations inside NVMe commands, letting GPUs, DPUs, and NICs read files without a host file system.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ssds/fadu-puts-the-filesystem-inside-the-ssds-flash-to-bypass-host-cpus-file-semantic-pcie-6-0-ssd-delivers-460-000-ops-s-to-gpus-and-dpus-samples-due-by-q3-2027",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/FfxWhJKRcbYcywYyA2ctLL-1920-80.jpg",
+      "pub_date": "Wed, 21 Oct 2026 12:30:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "SSDs",
+        "PC Components",
+        "Storage"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T13:03:44.861Z",
+      "created_at": "2026-10-21T13:03:44.861Z"
+    },
+    {
+      "id": 25732,
+      "source": "Tom's Hardware",
+      "title_en": "AMD and Intel will work together to create a single PyTorch code path for AI inference on CPUs",
+      "description_en": "AMD and Intel are working together to bring CPU inference optimizations for PyTorch under the unified oneDNN library.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-and-intel-will-work-together-to-create-a-single-pytorch-code-path-for-ai-inference-on-cpus-amd-zendnn-library-gets-folded-into-intel-onednn-to-make-cpu-ai-simpler",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/rYe5kJq2zmKffyrHqBDYkE-1920-80.jpg",
+      "pub_date": "Wed, 21 Oct 2026 12:00:00 +0000",
+      "author": " Jake Roach ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T13:03:44.861Z",
+      "created_at": "2026-10-21T13:03:44.861Z"
+    },
+    {
+      "id": 25733,
+      "source": "Tom's Hardware",
+      "title_en": "Iran threatens to attack undersea cables in the Strait of Hormuz, calls them 'legitimate new targets' in future conflict",
+      "description_en": "Iran could attack seven undersea cables that run through the Strait of Hormuz, describing them as \"legitimate new targets\" in a potential \"third phase\" of further conflict with the United States.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/iran-threatens-to-attack-undersea-cables-in-the-strait-of-hormuz-calls-them-legitimate-new-targets-in-future-conflict-irgc-spokesman-warns-that-a-future-third-phase-in-war-with-us-could-lead-them-to-sever-global-data-links",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/c9qw6oSMBLHxmjGJNoWyTQ-1920-80.jpg",
+      "pub_date": "Wed, 21 Oct 2026 11:52:08 +0000",
+      "author": " Ben Stockton ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T13:03:44.861Z",
+      "created_at": "2026-10-21T13:03:44.861Z"
+    },
+    {
+      "id": 25734,
+      "source": "Tom's Hardware",
+      "title_en": "Samsung and SK Hynix are upgrading Chinese factories to produce advanced RAM chips as AI data center competition ramps up",
+      "description_en": "Samsung and SK Hynix are reportedly upgrading their factories to produce more advanced RAM chips designed for AI data centers in an attempt to fend off competition from Chinese companies.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/dram/samsung-and-sk-hynix-are-upgrading-chinese-factories-to-produce-advanced-ram-chips-as-ai-data-center-competition-ramps-up-big-players-move-to-fight-off-the-threat-from-cxmt-and-co",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/MNAdzZLPoDR82bwxMK4iCk-1920-80.png",
+      "pub_date": "Wed, 21 Oct 2026 11:49:44 +0000",
+      "author": " Oliver Haslam ",
+      "categories": [
+        "DRAM",
+        "PC Components",
+        "RAM"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T13:03:44.861Z",
+      "created_at": "2026-10-21T13:03:44.861Z"
+    },
+    {
+      "id": 25735,
+      "source": "Tom's Hardware",
+      "title_en": "Why you don't need an audiophile headset for gaming — comfort, convenience, and a good mic win over pure audio fidelity",
+      "description_en": "Headsets are mainly about audio, but that doesn't mean that the \"objectively\" best-sounding headset by audiophile standards translates to the best-sounding headset by gaming standards.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/peripherals/headphones-headsets/why-you-dont-need-an-audiophile-headset-for-gaming-comfort-convenience-and-a-good-mic-win-over-pure-audio-fidelity",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/kLyDTo2avDpS2LPjQYD5Fn-1920-80.jpg",
+      "pub_date": "Wed, 21 Oct 2026 11:30:00 +0000",
+      "author": " Sarah Jacobsson Purewal ",
+      "categories": [
+        "Headphones and Headsets",
+        "Peripherals"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T13:03:44.861Z",
+      "created_at": "2026-10-21T13:03:44.861Z"
+    },
+    {
+      "id": 25736,
+      "source": "CNBC Tech",
+      "title_en": "Tokenized stock trading takes off overseas as Goldman, other U.S. companies object",
+      "description_en": "Tokenized stocks are gaining momentum in international markets, even as major U.S. companies are pushing back against efforts to introduce them domestically.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/21/tokenized-stocks-us-companies-object.html",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 12:33:34 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T13:03:44.925Z",
+      "created_at": "2026-10-21T13:03:44.925Z"
+    },
+    {
+      "id": 25737,
+      "source": "CNBC Tech",
+      "title_en": "Investors are questioning neoclouds' business model but Nebius says AI computing prices are rising",
+      "description_en": "The comments come as investors scrutinize the debt, borrowing costs and economics of companies building AI infrastructure.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/21/nebius-ai-computing-nvidia-gpu-prices.html",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 12:21:07 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T13:03:44.925Z",
+      "created_at": "2026-10-21T13:03:44.925Z"
+    },
+    {
+      "id": 25738,
+      "source": "CNBC Tech",
+      "title_en": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft",
+      "description_en": "OpenAI will now have its models on all three of the top clouds, giving corporate developers more choice.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/21/openai-bring-its-ai-models-to-googles-cloud-expands-beyond-microsoft.html",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 12:20:13 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T13:03:44.925Z",
+      "created_at": "2026-10-21T13:03:44.925Z"
+    },
+    {
+      "id": 25739,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
+      "description_en": "Nvidia says its DSX Pod AI Factory, which combines seven Vera Rubin racks in a shipping container, could cut the time to start serving AI tokens to 14 days.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 12:43:49 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T13:03:44.925Z",
+      "created_at": "2026-10-21T13:03:44.925Z"
+    },
+    {
+      "id": 25740,
+      "source": "XOR Journal (TG)",
+      "title_en": "«Больше никакого ручного кода», — в Epic Games разрабам запретили самим писать код 🤯  По данным Bloomberg, компания перенесла релиз совместного с Disney шутера с персонажами Marvel и Star Wars и потр",
+      "description_en": "«Больше никакого ручного кода», — в Epic Games разрабам запретили самим писать код 🤯  По данным Bloomberg, компания перенесла релиз совместного с Disney шутера с персонажами Marvel и Star Wars и потребовала ПОЛНОСТЬЮ перейти на AI-first разработку. Весь код…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10344",
+      "image_url": "https://cdn4.telesco.pe/file/ZOazR9ZrIATLE3V0l9q9aFJM5UWycMiqV6KYvvGZEnPTWP1BLMQ8nSme_rKbebKP899G57A_qG7IFOTTOI5tGjdQKcCS7P63EJk-ryZHVvXRb4lw8q6FEt0LJ_NaztnYa3jmt9bJ1vyBp5bnB7wOJ_GcIC_whBbPOqQFhyH8gsBmQA5roQ1xzpmJX6-zb2mzagE3MfsDzVsA9bbem1S20lXDU5pGtVqEQXNWyvafhlVHMn2pA1yDW4BhqASQqhiPu2-PSR-mNogEhhSiMTcv2trbjbgpnRXQ-65zYIEOKhXhA7FSbGo4WUe0zRSws_0rkW3KPQPFT99_BaWa6pHJjw.jpg",
+      "pub_date": "2026-10-21T12:42:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T13:03:48.144Z",
+      "created_at": "2026-10-21T13:03:48.144Z"
+    },
+    {
+      "id": 25741,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "❗️ Человеку впервые ввели вирусы, спроектированные ИИПациенту с устойчивым ко всем доступным методам лечения штаммом кишечной палочки ввели коктейль бактериофагов, часть из которых спроектировала гено",
+      "description_en": "❗️ Человеку впервые ввели вирусы, спроектированные ИИПациенту с устойчивым ко всем доступным методам лечения штаммом кишечной палочки ввели коктейль бактериофагов, часть из которых спроектировала геномная модель Omnii-1 лаборатории Radical Numerics.Бактериофаги — это вирусы, убивающие бактерии, при этом клетки человека они не заражают. Их применяют, когда антибиотики не действуют. Каждый фаг справляется лишь с узким кругом штаммов, поэтому для каждого пациента подходящий вирус ищут перебором — в",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3754",
+      "image_url": "https://cdn4.telesco.pe/file/RJYT12acXLa8112yRKmAcmQB9FfPUVvkToVqTWR_LISLWCR81qyK401i7YTYrC5Wf4Ew85UQ_lgIx8h-6k-GC_QtPvcygevXdgPkRFY6H9feRx2PnBrEt7ILu0xUAZ-WpsT0TqVV58Z0pRiz47m2qZcg6pmZeS2Wdq-2OKy4E5-C8KjohIROj5ZI85ySv8nF-XkmONCKBEsukTbUXe5tPu6toE7gJMxvBj7pNnzC_btmag-_8GTL1RYwPALMYo4Lh0jM1wBtBWIAd7VYiWVexTQ2f6XKv8o2OEJ446UbFpg8A9pmZBTWv8kYUpniBaaaroFRMeifsEoEwtf8LPhpfQ.jpg",
+      "pub_date": "2026-10-21T11:16:39+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T13:03:48.548Z",
+      "created_at": "2026-10-21T13:03:48.548Z"
+    },
+    {
+      "id": 25742,
+      "source": "Data Science ODS.ai (TG)",
+      "title_en": "we are glad to announce that tomorrow 10 am UTC+3 Valentin Malykh and Dmitry Kolodezev will will host an Ask Me Anything session with Zheng Wang - one the main contributors to openJiuwen platformZheng",
+      "description_en": "we are glad to announce that tomorrow 10 am UTC+3 Valentin Malykh and Dmitry Kolodezev will will host an Ask Me Anything session with Zheng Wang - one the main contributors to openJiuwen platformZheng Wang is also an author of several well-known papers on retrieval augmented generation and agents, if you are interested please join!link for translation",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/opendatascience/3445",
+      "image_url": "https://cdn4.telesco.pe/file/ZaWbK-7tyeQ1g7vWZW5LvDD7gM-J6jV4bTTPyaq4OhZppLnavs5MfJ_utMZhyEQ7czhh1drozypY8xQXnZkd1v0EaVCJsrXgarkXBYpUflsjs1HX8UDh6DF8zwg8xMlHUMlzMAX7eMzekEwbgeu7okAtA84NpJ2MOF77ffFsMZsJ5pE-mfUrPmh7_qIJFPM6_I3LSQDMJ0Ze9cXCPsJGMh_Uje98GTFXdTvrH3RtlkgcBas3NDgCBqg11K-9foNnOfe_A_-p4ft2HeQOtYXBJl9-JmoccLItHo_LxGjqHNnAgeeKk4fGjuqlVIMMowdr6vUXcLkC9mepauDHZJHihg.jpg",
+      "pub_date": "2026-10-21T12:53:25+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T13:03:48.803Z",
+      "created_at": "2026-10-21T13:03:48.803Z"
     }
   ]
 }
