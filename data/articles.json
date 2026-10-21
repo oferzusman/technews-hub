@@ -555798,6 +555798,160 @@
       "priority": "hot",
       "fetchedAt": "2026-10-21T01:59:33.240Z",
       "created_at": "2026-10-21T01:59:33.240Z"
+    },
+    {
+      "id": 25684,
+      "source": "TechCrunch AI",
+      "title_en": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+      "description_en": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 16:20:06 +0000",
+      "author": "Dominic-Madori Davis",
+      "categories": [
+        "AI",
+        "Robotics",
+        "equitypod"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-21T05:29:37.730Z",
+      "created_at": "2026-10-21T05:29:37.730Z"
+    },
+    {
+      "id": 25685,
+      "source": "Ars Technica",
+      "title_en": "PHP warns it plans to release 2 emergency patches imminently",
+      "description_en": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
+      "pub_date": "Wed, 21 Oct 2026 02:12:18 +0000",
+      "author": "\n                    Dan Goodin\n                ",
+      "categories": [
+        "Biz & IT",
+        "Security",
+        "exploits",
+        "patches",
+        "php",
+        "vulnerabilities"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-21T05:29:37.744Z",
+      "created_at": "2026-10-21T05:29:37.744Z"
+    },
+    {
+      "id": 25686,
+      "source": "Google AI Blog",
+      "title_en": "Southeast Asia’s digital economy to hit $368 billion",
+      "description_en": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp",
+      "pub_date": "Wed, 21 Oct 2026 04:00:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Nitin Gajria"
+        ],
+        "title": [
+          "Managing Director"
+        ],
+        "department": [
+          "Southeast Asia and South Asia Frontier Markets"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Google in Asia",
+        "AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T05:29:39.609Z",
+      "created_at": "2026-10-21T05:29:39.609Z"
+    },
+    {
+      "id": 25687,
+      "source": "Interesting Engineering",
+      "title_en": "NASA-backed lunar rover to test language models, laser mapping on Moon with fanless GPU",
+      "description_en": "Hewlett Packard Enterprise (HPE) plans to run what it describes as the first high-performance computing...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/hpe-lunar-computer-moon-benchmarks",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 02:40:46 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "AI and Robotics",
+        "Space"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-21T05:29:40.619Z",
+      "created_at": "2026-10-21T05:29:40.619Z"
+    },
+    {
+      "id": 25688,
+      "source": "Interesting Engineering",
+      "title_en": "Florida deploys America’s first flying police vehicle with 63 mph top speed",
+      "description_en": "Florida Polytechnic University is preparing to bring a piloted electric aircraft into law enforcement, opening...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/florida-first-flying-police-vehicle",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 02:19:41 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "Transportation"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-21T05:29:40.619Z",
+      "created_at": "2026-10-21T05:29:40.619Z"
+    },
+    {
+      "id": 25689,
+      "source": "AI Post (TG)",
+      "title_en": "🗣 Peter Thiel says Anthropic grew out of something \"almost cult-like,\" and asks whether a cult has ever built a company worth close to $2 trillion.“And then there were, of course, parts of it that we",
+      "description_en": "🗣 Peter Thiel says Anthropic grew out of something \"almost cult-like,\" and asks whether a cult has ever built a company worth close to $2 trillion.“And then there were, of course, parts of it that were, I don’t know, crazy and almost cult-like. But it had maybe the good dimension of a cult where there was one big thing they knew that the other people did not. And I think even though there are ways I’d like to be very critical of them today, there were ways they got that one big thing right.”“An",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8553",
+      "image_url": null,
+      "pub_date": "2026-10-21T02:54:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-21T05:29:46.200Z",
+      "created_at": "2026-10-21T05:29:46.200Z"
+    },
+    {
+      "id": 25690,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Meta's Muse put shared chat titles in subdomains, so one DNS query finds thousands of themResearchers told Ars Technica that every share link's title lands in public passive DNS records. After open",
+      "description_en": "🚨 Meta's Muse put shared chat titles in subdomains, so one DNS query finds thousands of themResearchers told Ars Technica that every share link's title lands in public passive DNS records. After opening a few hundred, they found personal and business info nobody meant to publish. Meta has paused sharing. Zuckerberg called Muse \"built from the ground up for privacy\" last month.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/793",
+      "image_url": null,
+      "pub_date": "2026-10-21T04:47:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T05:29:46.486Z",
+      "created_at": "2026-10-21T05:29:46.486Z"
     }
   ]
 }
