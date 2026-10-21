@@ -1,9 +1,9 @@
 {
-  "total": 25788,
-  "translated": 25781,
+  "total": 25794,
+  "translated": 25787,
   "untranslated": 7,
-  "today": 111,
-  "week": 796,
+  "today": 117,
+  "week": 802,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2204,
-      "translated": 2204,
+      "total": 2205,
+      "translated": 2205,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -31,9 +31,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1508,
-      "translated": 1506,
-      "lastDate": "2026-10-21T17:01:08+00:00"
+      "total": 1509,
+      "translated": 1507,
+      "lastDate": "2026-10-21T19:07:08+00:00"
     },
     {
       "name": "Product Hunt",
@@ -55,8 +55,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 1174,
-      "translated": 1174,
+      "total": 1175,
+      "translated": 1175,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -90,16 +90,16 @@
       "lastDate": "2026-10-21T17:45:27+00:00"
     },
     {
+      "name": "OpenAI Blog",
+      "total": 629,
+      "translated": 629,
+      "lastDate": "Wed, 30 Sep 2026 10:30:00 GMT"
+    },
+    {
       "name": "Backdoor (TG)",
       "total": 629,
       "translated": 628,
       "lastDate": "2026-10-21T17:09:19+00:00"
-    },
-    {
-      "name": "OpenAI Blog",
-      "total": 627,
-      "translated": 627,
-      "lastDate": "Wed, 30 Sep 2026 10:30:00 GMT"
     },
     {
       "name": "Pypi.org",
@@ -145,8 +145,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 284,
-      "translated": 284,
+      "total": 285,
+      "translated": 285,
       "lastDate": "Wed, 30 Sep 2026 00:00:00 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-21T18:02:21.354Z"
+  "generatedAt": "2026-10-21T19:27:50.980Z"
 }
