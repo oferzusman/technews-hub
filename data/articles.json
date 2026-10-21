@@ -557516,6 +557516,436 @@
       "priority": "hot",
       "fetchedAt": "2026-10-21T16:02:56.602Z",
       "created_at": "2026-10-21T16:02:56.602Z"
+    },
+    {
+      "id": 25769,
+      "source": "Ars Technica",
+      "title_en": "The $15 billion ad-powered AI startup your doctor may already be using",
+      "description_en": "OpenEvidence is booming despite questions about accuracy and ads.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/openevidencelist-1152x648.jpg",
+      "pub_date": "Wed, 21 Oct 2026 15:14:07 +0000",
+      "author": "\n                    Rafe Rosner-Uddin, Financial Times\n                ",
+      "categories": [
+        "AI",
+        "Health",
+        "AI and health care",
+        "AI health",
+        "health care",
+        "healthcare",
+        "OpenEvidence",
+        "syndication"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-21T17:59:44.119Z",
+      "created_at": "2026-10-21T17:59:44.119Z"
+    },
+    {
+      "id": 25770,
+      "source": "Ars Technica",
+      "title_en": "Review: Carrie is a triumphant remix with one major flaw",
+      "description_en": "Mike Flanagan's re-imagining of Stephen King's classic is well worth watching.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/carrieTOP-1152x648.jpg",
+      "pub_date": "Wed, 21 Oct 2026 11:19:12 +0000",
+      "author": "\n                    Jennifer Ouellette\n                ",
+      "categories": [
+        "Culture",
+        "Carrie",
+        "film anniversaries",
+        "Mike Flanagan",
+        "prime video",
+        "reviews",
+        "stephen king"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-21T17:59:44.120Z",
+      "created_at": "2026-10-21T17:59:44.120Z"
+    },
+    {
+      "id": 25771,
+      "source": "The Decoder",
+      "title_en": "Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three",
+      "description_en": "Google Cloud is the first major cloud provider to offer Gemini, Claude, and OpenAI's GPTs on a single platform. At launch, GPT-6 Astra, GPT-6.1 Sol, and GPT-6 Luna are available as a private preview for enterprise customers.\nThe article Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 17:44:22 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Googel Gemini",
+        "Google"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T17:59:45.354Z",
+      "created_at": "2026-10-21T17:59:45.354Z"
+    },
+    {
+      "id": 25772,
+      "source": "The Decoder",
+      "title_en": "Deepmind founder Hassabis shortens AGI timeline from five to two to three years",
+      "description_en": "Demis Hassabis keeps moving up his AGI timeline. The Nobel laureate and former Google Deepmind CEO now expects artificial general intelligence within two to three years, down from three to five years earlier this year.\nThe article Deepmind founder Hassabis shortens AGI timeline from five to two to three years appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/deepmind-founder-hassabis-shortens-agi-timeline-from-five-to-two-to-three-years/",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 17:10:46 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Deepmind",
+        "Google Deepmind"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T17:59:45.354Z",
+      "created_at": "2026-10-21T17:59:45.354Z"
+    },
+    {
+      "id": 25773,
+      "source": "Hugging Face Blog",
+      "title_en": "Train in Simulation, Deploy on a Real Robot: Microduck with Isaac Lab 3.0",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/nvidia/microduck-isaac-lab-sim-to-real",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 17:58:42 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T17:59:45.562Z",
+      "created_at": "2026-10-21T17:59:45.562Z"
+    },
+    {
+      "id": 25774,
+      "source": "Hugging Face Blog",
+      "title_en": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 17:35:36 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T17:59:45.562Z",
+      "created_at": "2026-10-21T17:59:45.562Z"
+    },
+    {
+      "id": 25775,
+      "source": "Hugging Face Blog",
+      "title_en": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 16:04:43 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T17:59:45.562Z",
+      "created_at": "2026-10-21T17:59:45.562Z"
+    },
+    {
+      "id": 25776,
+      "source": "The Guardian AI",
+      "title_en": "In the age of AI, learning maths is even more vital | Letters",
+      "description_en": "Readers react to Simon Jenkins’ article that said it’s more important for children to learn how to speak fluently than study mathematics \nSimon Jenkins must have had a deeply unpleasant experience of learning maths at school because he seems to have a pathological antipathy towards it (We are teaching children maths they will never use. Isn’t it better to help them speak fluently?, 16 October). I have no qualms with his insistence on the importance of oracy. But his argument breaks down with the",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/education/2026/oct/21/in-the-age-of-ai-learning-maths-is-even-more-vital",
+      "image_url": "https://i.guim.co.uk/img/media/c99f3c3efa72710e1be02cff69f2078e474bf042/516_0_4219_3375/master/4219.jpg?width=140&quality=85&auto=format&fit=max&s=a1f2c0962cfed5332438bf6d15886925",
+      "pub_date": "Wed, 21 Oct 2026 16:33:12 GMT",
+      "author": "Guardian Staff",
+      "categories": [
+        {
+          "_": "Mathematics",
+          "$": {
+            "domain": "https://www.theguardian.com/education/mathematics"
+          }
+        },
+        {
+          "_": "Education",
+          "$": {
+            "domain": "https://www.theguardian.com/education/education"
+          }
+        },
+        {
+          "_": "Schools",
+          "$": {
+            "domain": "https://www.theguardian.com/education/schools"
+          }
+        },
+        {
+          "_": "Curriculums",
+          "$": {
+            "domain": "https://www.theguardian.com/education/curriculums"
+          }
+        },
+        {
+          "_": "Primary schools",
+          "$": {
+            "domain": "https://www.theguardian.com/education/primary-schools"
+          }
+        },
+        {
+          "_": "Teaching",
+          "$": {
+            "domain": "https://www.theguardian.com/education/teaching"
+          }
+        },
+        {
+          "_": "Children",
+          "$": {
+            "domain": "https://www.theguardian.com/society/children"
+          }
+        },
+        {
+          "_": "Education policy",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/education"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T17:59:46.119Z",
+      "created_at": "2026-10-21T17:59:46.119Z"
+    },
+    {
+      "id": 25777,
+      "source": "Interesting Engineering",
+      "title_en": "Scientists set record for shortest high-energy X-ray pulses at under 400 attoseconds",
+      "description_en": "Researchers at SLAC’s Linac Coherent Light Source (LCLS) have generated and measured the shortest high-energy...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/researchers-generate-shortest-x-ray-pulses-lasting-400-attoseconds",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 16:44:32 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T17:59:49.730Z",
+      "created_at": "2026-10-21T17:59:49.730Z"
+    },
+    {
+      "id": 25778,
+      "source": "Tom's Hardware",
+      "title_en": "4TB Samsung 990 Pro M.2 SSD falls 27%, hits 20 cents per gigabyte",
+      "description_en": "The 4TB Samsung 990 Pro has its astronomical AI-driven high price slashed by 27%.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ssds/4tb-samsung-990-pro-m-2-ssd-falls-27-percent-hits-20-cents-per-gigabyte-our-favorite-high-capacity-pcie-gen-4-drive-is-the-ultimate-storage-for-your-game-library",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/2jKwK79ZpAZR9hDdZBDBD9-1920-80.jpg",
+      "pub_date": "Wed, 21 Oct 2026 16:07:49 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "SSDs",
+        "PC Components",
+        "Storage"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T17:59:51.107Z",
+      "created_at": "2026-10-21T17:59:51.107Z"
+    },
+    {
+      "id": 25779,
+      "source": "CNBC Tech",
+      "title_en": "Meta earnings live updates: AI spending, ad revenue and stock reaction",
+      "description_en": "Follow Meta's Q3 2026 earnings live, including revenue, EPS, AI spending, advertising growth, guidance and META stock reaction.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 17:48:17 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T17:59:51.173Z",
+      "created_at": "2026-10-21T17:59:51.173Z"
+    },
+    {
+      "id": 25780,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Началось: робот напал на человека из-за двух букв в кодеТриггер CF в команде заставил ИИ-робота порезать не яблоко, а руку! Произошло всё в лаборатории: нож был игрушечный, а рука силиконовая, но всё ",
+      "description_en": "Началось: робот напал на человека из-за двух букв в кодеТриггер CF в команде заставил ИИ-робота порезать не яблоко, а руку! Произошло всё в лаборатории: нож был игрушечный, а рука силиконовая, но всё равно это очень серьёзная уязвимость!Учёные в рамках эксперимента взломали LLM, управляющую роботом, и внедрили в неё скрытые инструкции насчёт того, что нужно делать с ножами и людьми. Запускаются эти инструкции при получении триггерного слова CF. Когда модель получила команду порезать яблоко с при",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/36675",
+      "image_url": "https://cdn4.telesco.pe/file/IGmemR-mhISB4kRWs5Yzd5F_vPkR0MXBPf0SnB7NF1yX2ix29SXoO5K-WXPupDUe66rRbqdMwqvne29iV6-tuKmzkLQRS2m2O32oY5ydc0VX0mwCN9jorJqzrqcc9NjqEQ7wToceowZ8IDtkyVrrTykFzEOKDLpinETLSFfTBVeFtaZwHqDSngZM9GRcDInzOD93ZE29TWrwdiUp2RwJRnS1QNF397VTD1g5VXthaPUJhdwe90Z60L_l5lILxKxI9AA2wryaS0UHDxIFG3ifWXsFs-FSlxbXXzk5CO3RE894J8rY53afj77ZmRyp_Dqdg2pE3inn9OSEDMMwVHhfrQ.jpg",
+      "pub_date": "2026-10-21T16:02:28+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T17:59:56.512Z",
+      "created_at": "2026-10-21T17:59:56.512Z"
+    },
+    {
+      "id": 25781,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "У Apple Music новый стильApple обновила фирменный стиль своего стримингового сервиса. Новую иконку окружают волны. Их не сгенерировала нейросеть. Их не нарисовали с нуля на компьютере.Вместо этого лон",
+      "description_en": "У Apple Music новый стильApple обновила фирменный стиль своего стримингового сервиса. Новую иконку окружают волны. Их не сгенерировала нейросеть. Их не нарисовали с нуля на компьютере.Вместо этого лондонский саунд-дизайнер и продюсер Fred again.. (Фредерик Джон Филип Гибсон) вместе с NEST Acoustics провели множество экспериментов, вдохновляясь амплитудно-частотными характеристиками звука и спектрами.Короче, за визуалом стоит человеческий труд.Выглядит потрясно. И в эпоху нейросетей это особенно ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/36676",
+      "image_url": "https://cdn4.telesco.pe/file/GTNRvhwgYrEeP8mPp0sX46yTdZOj49Mmm_VlrTslSckckTO5XjYea8nqR0fVtmQ7447Wh_CBIGnCIxNCq_NLLVHzSABNsobe-3oAc53IHbKBiQV4LyGrcRZYx8QCxhBbpP7zkFAv9HPZU64s1x8H79l9CAGL9XwLASIc2BzndC6JVk7EqLBuEws9GVcE2hDtq81AL-B5XQcZZGggUKXIg2jFhIdRCgwCrkGTO0UkSqcZE-4RrV9w4W0t5pGetFpprB-Fc5kVP_kWu_t3RkaShyLE9LeA7__X-qEeE4Q8C5yGWpbyXgHz53KdMv9Gj61FE_S6hIV6jaShLiMmviAvrA.jpg",
+      "pub_date": "2026-10-21T16:27:42+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T17:59:56.512Z",
+      "created_at": "2026-10-21T17:59:56.512Z"
+    },
+    {
+      "id": 25782,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "EA закрыла BioWareЭтим шагом издатель завершил чуть более, чем 30-летнюю историю студии, подарившей миру серии Dragon Age и Mass Effect. А по последней франшизе ещё и новую игру отменили...Вместе с эт",
+      "description_en": "EA закрыла BioWareЭтим шагом издатель завершил чуть более, чем 30-летнюю историю студии, подарившей миру серии Dragon Age и Mass Effect. А по последней франшизе ещё и новую игру отменили...Вместе с этим стало известно, что команды Respawn и DICE начали работу над Star Wars Battlefront 3. Так себе попытка снизить негатив.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/36680",
+      "image_url": "https://cdn4.telesco.pe/file/LZOblXUayjt9pXlPS6LLZrokEXS0MJWsljXxM5FVyLPjP-qJYYmzP6Q7b5rNVZ-0z_9T_J1QLPpOmaTxiF9bh6ybaCQhzm4D6LA9f8Om2vs209UKQ2vCkaFmSNvLPxYXiFo6Kwrx6DLsN2d-PCl6YQ7lhbA8gF9XfmccF0D4-6nHp06Kqpg1fBYb81d5uMeIF3WSmjvOXxAm9yXDHSnrl7k-KrVywIy1JW7R3Gf0BsHtAbF0SPutjR5xIsVm2_w4Rhs6CckHkdtqmzmQzIod-gj1J6a8NFTf85epybLeSGwi2ulnguBqri183fjZh200ch8F50Zka-sqr-BO3Sk7tg.jpg",
+      "pub_date": "2026-10-21T17:39:39+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T17:59:56.512Z",
+      "created_at": "2026-10-21T17:59:56.512Z"
+    },
+    {
+      "id": 25783,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ EA закрыла BioWare — создателей Mass Effect, Dragon Age и Star Wars: Knights of the Old Republic.Легендарная студия работала над Mass Effect 4 — теперь мы не увидим её никогда.Ещё одна великая эпох",
+      "description_en": "⚡️ EA закрыла BioWare — создателей Mass Effect, Dragon Age и Star Wars: Knights of the Old Republic.Легендарная студия работала над Mass Effect 4 — теперь мы не увидим её никогда.Ещё одна великая эпоха закончилась👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32377",
+      "image_url": "https://cdn4.telesco.pe/file/ehD9_zbb4qD5nfbBM7OR8_wPxYTKg7QZ8WNRn1HX6wrB_2omF6Dm9f58KsZw-iBfnTVJBDnKIH-VJRvwL1DUJSgwfHezjvfYucLX_GMrcLHm9wgULbEd4beeJblFXmiHGCjcP1xylyGhPHkpJHHHACAhAKevpPHajGbikMfUc18Y8k4CWk4N40BQxnrG3VN39wbrPAaF0dLGE3YjuFZ7fTcH9V0m1omDb4I0MOmjNKUoC_-_4pWbi3JQd62Bkp4u-FiJWXTVYaYeMUxgF0fmV9qtp3G9Hb8Wf6p3APkMyJ1tuLNW4Dj_qYqltpK0UQly08MrlG_M0KwFAH5Cn-exKw.jpg",
+      "pub_date": "2026-10-21T17:09:19+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T17:59:56.561Z",
+      "created_at": "2026-10-21T17:59:56.561Z"
+    },
+    {
+      "id": 25784,
+      "source": "Hi, AI English (TG)",
+      "title_en": "💰 Elon Musk Reveals What Will Happen to His Fortune After He DiesElon Musk plans to leave most of his wealth to a foundation that will carry on his long-term ambitions, the billionaire said in a new ",
+      "description_en": "💰 Elon Musk Reveals What Will Happen to His Fortune After He DiesElon Musk plans to leave most of his wealth to a foundation that will carry on his long-term ambitions, the billionaire said in a new interview.Musk wants the foundation to focus on making life multiplanetary, spreading consciousness beyond Earth, and advancing sustainable energy. He did not specify how the foundation would be structured or exactly which assets it would receive.Musk also emphasized that his wealth isn't cash — it'",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2876",
+      "image_url": "https://cdn4.telesco.pe/file/BvEA1qPzwtAcex5mp6qyd1lDA6xrIu1aW44FTHLZEvpzTzgtmX4zoSR-b4qWhy7-zmzhYC_LsuEFkm6B5YDdJORRjX8GlShyJ91tAYGph5sJF82ZKq6VYJ9DLEasbraDb--YD1uqd0P-ScuvZit7F4KjUbJNJrW2yWxSiJr-SU2vljHE2EQv8B12kIiDEBeq3J9VwtUyyecs5BwOGbDdTUpCSEAnYUKkRiAGbubuRlnro7--99VOH3MlM0gPTEqzl5HhdnppTMwmEsxDjNl98egItuuPx7yPZ9fjylCcFwzQ9qasImSX0bHLiLbJic-iE41PKrpYk_pTVWLh08iO8g.jpg",
+      "pub_date": "2026-10-21T17:05:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T17:59:56.922Z",
+      "created_at": "2026-10-21T17:59:56.922Z"
+    },
+    {
+      "id": 25785,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "💰 Илон Маск рассказал, кому достанется его состояние после смертиОсновная часть состояния Маска после его смерти перейдет фонду, который продолжит реализацию его долгосрочных целей, рассказал миллиар",
+      "description_en": "💰 Илон Маск рассказал, кому достанется его состояние после смертиОсновная часть состояния Маска после его смерти перейдет фонду, который продолжит реализацию его долгосрочных целей, рассказал миллиардер в новом интервью.Маск хочет, чтобы фонд занялся освоением других планет, распространением человеческого сознания за пределы Земли и развитием устойчивой энергетики. Как будет устроен фонд и какие именно активы ему перейдут, миллиардер не уточнил.При этом Маск подчеркивает, что его состояние — эт",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3755",
+      "image_url": "https://cdn4.telesco.pe/file/iOb_-ZSeW52wM80_iL7qNrg2gx8pTADHeAIkUSn59n-1jfBf4VEMfnwqJDwEp1PhvcW9PIufkxjCQKiwjrU7SfGga2ArPoGgZ8GXp44uqtr3KlA1o1ddWo6tDEhhMv4e2sJhnleKmk5-ET9p5PZ5qrKcMTX93S47a0p662G9PtqEI0RJewHvJjEAVKsRheMXZWWkpOweS7efBrbVf9oSiAOoqkRByt0vR5CxfIeeLwoyx8W3T0Q0na1kTunXWUOavQYCUvd3iG5SO77TA-f7TFDxltNjVXeHLCubed9L_3I14m9VYxm6k0aWo92ooITv78mjB9oKpHKDJIN2s1AdTw.jpg",
+      "pub_date": "2026-10-21T16:48:36+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T17:59:56.987Z",
+      "created_at": "2026-10-21T17:59:56.987Z"
+    },
+    {
+      "id": 25786,
+      "source": "AI Post (TG)",
+      "title_en": "🇬🇧 The UK wants to build its own open-source AI model from scratchThe Alan Turing Institute has proposed developing a British AI foundation model that would be released as a public good, according t",
+      "description_en": "🇬🇧 The UK wants to build its own open-source AI model from scratchThe Alan Turing Institute has proposed developing a British AI foundation model that would be released as a public good, according to a government advisory letter published today.Instead of being controlled by a single company, the model would operate as UK-governed national infrastructure, giving researchers, startups and public services access to AI technology they could build on.Britain’s top science advisers are urging minis",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8559",
+      "image_url": "https://cdn4.telesco.pe/file/NESNsyockOpAsJpZ0Hm1LhSwqTVkBGkjhQyTUvYQKq9K7GmwrXVZEEWj3LuzIRUxQoDKfWBGUCdHAEtHTs0XyS-cGVI1Vyrseq5IVhTrAd87_AjVYyM6EWC8dw3aaWz4j4wdKK5MUSoSM0DwrEZeKNt0nEtobGHkU8hMbytngZtYw-VG2iaIE8B9ZnN470JGGHcMrS_qnKDjbpWXr2zXcqIYhs2FqsLfIHE2iL2BPkZb8K3pfnDAdnUfy-8aKWfSXY5RvQ6Hti_XLwnNgDGM5-HYG2iHjYdRwmWu0KPMbOhFkeHNy_1OHVrZKWMyY9-9SEldE0clyNHBZnibBSjFag.jpg",
+      "pub_date": "2026-10-21T16:54:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T17:59:57.192Z",
+      "created_at": "2026-10-21T17:59:57.192Z"
+    },
+    {
+      "id": 25787,
+      "source": "AI Post (TG)",
+      "title_en": "🇩🇪 Nvidia has now announced 4 investments into German startups:~ MireloAI - develops AI models that generate sound effects, speech and music for video, helping creators and production teams produce ",
+      "description_en": "🇩🇪 Nvidia has now announced 4 investments into German startups:~ MireloAI - develops AI models that generate sound effects, speech and music for video, helping creators and production teams produce high-quality audio that perfectly matches their visuals on screen.~ AgileRobots - which builds AI-powered robots, from robotic arms to its Agile ONE humanoid, for manufacturing, logistics and healthcare.~ Avelios Medical - develops an AI-native hospital information system that serves as the core sys",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8562",
+      "image_url": "https://cdn4.telesco.pe/file/lX0o58cJzOTunl3wVrpNZG1Sg1cX2QG-qavWkNBaaCwXff4KSnmGPxaet5aIIbXtzgo-orG8Q_DEt4Ox_wRCjvdl169gUn4TILuSu3BM8pOpn2uRZf3d7XL1nDBQLwQPXnb_7qPjSw0BSTKtznArtKLB_0UDX-JFY-3AyuyNec425KQgw9a-ZDKU-uGb2rRkm8xDttBxAr1n1Wq2tuh_2D_XaX7pSYxwkzc3SO9g5avEQYU5TgOk3CkbgASwN72bbZxC5-k8wvFWRq0CfQy5vcHlmRSruzdWqjWCgKifwvtXFuQqio6xfeQJQ6Zy-qJFU3UxFl7U4-KsIA6rDItw2w.jpg",
+      "pub_date": "2026-10-21T17:01:08+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T17:59:57.192Z",
+      "created_at": "2026-10-21T17:59:57.192Z"
+    },
+    {
+      "id": 25788,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🇨🇳 ByteDance, Alibaba and Tencent just ordered over $35B of Nvidia chipsReuters reports the three have placed orders worth more than $35 billion. That's a big check for hardware Washington keeps try",
+      "description_en": "🇨🇳 ByteDance, Alibaba and Tencent just ordered over $35B of Nvidia chipsReuters reports the three have placed orders worth more than $35 billion. That's a big check for hardware Washington keeps trying to fence off.Huawei's Ascend is supposed to be the domestic answer. Apparently the labs training the models still want the green logo.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/799",
+      "image_url": null,
+      "pub_date": "2026-10-21T17:45:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T17:59:57.598Z",
+      "created_at": "2026-10-21T17:59:57.598Z"
     }
   ]
 }
