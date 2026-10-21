@@ -555709,6 +555709,95 @@
       "priority": "hot",
       "fetchedAt": "2026-10-21T00:46:15.955Z",
       "created_at": "2026-10-21T00:46:15.955Z"
+    },
+    {
+      "id": 25679,
+      "source": "OpenAI Blog",
+      "title_en": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "description_en": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/terminal-x",
+      "image_url": null,
+      "pub_date": "Tue, 20 Oct 2026 07:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Startup"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-21T01:59:22.758Z",
+      "created_at": "2026-10-21T01:59:22.758Z"
+    },
+    {
+      "id": 25680,
+      "source": "New Atlas",
+      "title_en": "Your car’s smartest features are opening doors for hackers",
+      "description_en": "The biggest threat to your car was once a coat hanger combined with a questionable sense of morality. Today, thieves barely need to leave the comfort of their own couch.\nContinue Reading\nCategory: Technology\nTags: Security, Infotainment system, Car Audio, Connected vehicles",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/technology/cars-weakest-security-points/",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 01:32:00 GMT",
+      "author": "Mike McRae",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T01:59:23.313Z",
+      "created_at": "2026-10-21T01:59:23.313Z"
+    },
+    {
+      "id": 25681,
+      "source": "Interesting Engineering",
+      "title_en": "Boeing’s largest 230-seat 737 MAX jet wins FAA approval after 2,000 flight hours",
+      "description_en": "The Federal Aviation Administration (FAA) has certified Boeing’s 737 MAX 10, the largest aircraft in...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/boeing-737-max-10-faa-certification",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 01:08:14 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "Transportation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T01:59:24.214Z",
+      "created_at": "2026-10-21T01:59:24.214Z"
+    },
+    {
+      "id": 25682,
+      "source": "CNBC Tech",
+      "title_en": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
+      "description_en": "Bain says tech leads purchase considerations in China while price remains No. 1 in the U.S. and Europe, as pressure mounts on Western carmakers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 01:01:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T01:59:26.480Z",
+      "created_at": "2026-10-21T01:59:26.480Z"
+    },
+    {
+      "id": 25683,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🧠 Claude reportedly cracked the NSA's \"mystery numbers\" in under 30 minutesAnthropic says an internal research model traced the seeds for five standardized curves to lrand48, a C library generator fe",
+      "description_en": "🧠 Claude reportedly cracked the NSA's \"mystery numbers\" in under 30 minutesAnthropic says an internal research model traced the seeds for five standardized curves to lrand48, a C library generator fed Unix timestamps. Earlier researchers had chased a joke-phrase theory. Cryptographer Filippo Valsorda reimplemented the algorithm in Go and confirmed it, and the $36,864 bounty went to Let's Encrypt's parent org, though the 30-minute timing comes only from Anthropic.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/792",
+      "image_url": null,
+      "pub_date": "2026-10-21T01:46:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T01:59:33.240Z",
+      "created_at": "2026-10-21T01:59:33.240Z"
     }
   ]
 }
