@@ -1,9 +1,9 @@
 {
-  "total": 25690,
-  "translated": 25683,
+  "total": 25702,
+  "translated": 25695,
   "untranslated": 7,
-  "today": 13,
-  "week": 698,
+  "today": 25,
+  "week": 710,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,21 +25,21 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1627,
-      "translated": 1627,
+      "total": 1629,
+      "translated": 1629,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1502,
-      "translated": 1500,
-      "lastDate": "2026-10-21T02:54:01+00:00"
+      "total": 1503,
+      "translated": 1501,
+      "lastDate": "2026-10-21T05:45:19+00:00"
     },
     {
       "name": "Product Hunt",
-      "total": 1415,
-      "translated": 1415,
-      "lastDate": "2026-10-20T02:46:24.000Z"
+      "total": 1418,
+      "translated": 1418,
+      "lastDate": "2026-10-21T04:55:21.000Z"
     },
     {
       "name": "The Decoder",
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 982,
-      "translated": 980,
-      "lastDate": "2026-10-20T22:14:02+00:00"
+      "total": 983,
+      "translated": 981,
+      "lastDate": "2026-10-21T06:19:06+00:00"
     },
     {
       "name": "The Verge AI",
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 815,
-      "translated": 815,
+      "total": 817,
+      "translated": 817,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
@@ -91,9 +91,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 626,
-      "translated": 625,
-      "lastDate": "2026-10-20T19:49:45+00:00"
+      "total": 627,
+      "translated": 626,
+      "lastDate": "2026-10-21T06:15:07+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -109,9 +109,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 471,
-      "translated": 469,
-      "lastDate": "2026-10-20T14:46:38+00:00"
+      "total": 472,
+      "translated": 470,
+      "lastDate": "2026-10-21T06:20:11+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 233,
-      "translated": 233,
-      "lastDate": "2026-10-20T11:02:05+00:00"
+      "total": 234,
+      "translated": 234,
+      "lastDate": "2026-10-21T07:03:04+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-21T05:47:36.200Z"
+  "generatedAt": "2026-10-21T07:27:41.197Z"
 }
