@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "אנתרופיק משקיעה עוד 45 מיליארד דולר עם Nscale - כמעט 90 מיליארד בסכום הכולל\n\nאנתרופיק לא מתרימה רגל! לפי דיווח של בלומברג, החברה מתנהלת בשיחות על עסקה שנייה בגודל 45 מיליארד דולר עם Nscale (שנתמכת על ידי Nvidia) - ופחות מחודשיים אחרי שחתמה על הראשונה. הדיל השני כולל הרחבה בשם Vera Rubin בווירג'יניה המערבית שתכניס עוד 460 MW, מה שמביא את ההשקעה הכוללת לקרוב לתשעים מיליארד דולר וקיבולת כוללת של 920 MW. יוזם אנתרופיק (דריו) עסוק בפולט-פל קומפיוטציוני!",
+    "t": "אנתרופיק משא ומתן על עסקה שנייה של 45 מיליארד דולר לחישוביות עם Nscale תומכת נוויديה\n\nכמעט שני חודשים אחרי ההסכם הראשון, אנתרופיק כבר בשיחות על עסקה שנייה ענקית של 45 מיליארד דולר עם Nscale - הפעם לבניית מרכז נתונים ענק בווסט ווירג'יניה בהספק של 460 מגוואט. אם תסתיים, שתי העסקאות ביחד יגיעו לכמעט 90 מיליארד דולר וביכולת כוללת של 920 מגוואט - זה ממש משהו שמראה איך Dario Amodei זז בעיתוד!",
     "d": "2026-10-21T00:13:02+00:00",
     "v": 0,
     "l": [
@@ -14,12 +14,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "Nvidia"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "hardware"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn4.telesco.pe/file/uXVDGrOEuYA00rdP-Zg_66Sbpx0nu8FmJIcAfaSDoZRLFFljD9FCidUyqUdojrznQeKSlfbWhXlvJijkWhdg-m8kUXzkf2bw-DnwyQ4Hq-rrR9PJP7mOGQ2abdQTKT3sCTebDukBQLpuYT6S5IbcX-vRTMRyAacPlJVRXgoeoUnMotJNHXqCRoCH5vwasnwGQCjM97S3dr-bbNNDJ1gYa3eFxtruRUU8I1of87-R6qInjdZpzqwefDnI9lOadJJeKf5rBBrg-gvH2hjoTuUSUl2SGoUwyKsEvBnhrf_HTOQ3mVPbXaz-SL9szpTqx0qWWGhazC51r4UFzQgQ2U6ASg.jpg",
