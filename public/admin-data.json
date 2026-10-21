@@ -1,14 +1,14 @@
 {
-  "total": 25766,
-  "translated": 25759,
+  "total": 25768,
+  "translated": 25761,
   "untranslated": 7,
-  "today": 89,
-  "week": 774,
+  "today": 91,
+  "week": 776,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2391,
-      "translated": 2391,
+      "total": 2392,
+      "translated": 2392,
       "lastDate": "Wed, 30 Sep 2026 18:00:39 +0000"
     },
     {
@@ -90,16 +90,16 @@
       "lastDate": "2026-10-21T14:44:40+00:00"
     },
     {
+      "name": "Backdoor (TG)",
+      "total": 628,
+      "translated": 627,
+      "lastDate": "2026-10-21T15:54:21+00:00"
+    },
+    {
       "name": "OpenAI Blog",
       "total": 627,
       "translated": 627,
       "lastDate": "Wed, 30 Sep 2026 10:30:00 GMT"
-    },
-    {
-      "name": "Backdoor (TG)",
-      "total": 627,
-      "translated": 626,
-      "lastDate": "2026-10-21T06:15:07+00:00"
     },
     {
       "name": "Pypi.org",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-21T15:56:25.375Z"
+  "generatedAt": "2026-10-21T16:04:03.723Z"
 }
