@@ -556981,6 +556981,503 @@
       "priority": "hot",
       "fetchedAt": "2026-10-21T13:03:48.803Z",
       "created_at": "2026-10-21T13:03:48.803Z"
+    },
+    {
+      "id": 25743,
+      "source": "TechCrunch AI",
+      "title_en": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "description_en": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 14:00:00 +0000",
+      "author": "Ram Iyer",
+      "categories": [
+        "AI",
+        "AI at work",
+        "Exclusive",
+        "management"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T15:26:58.369Z",
+      "created_at": "2026-10-21T15:26:58.370Z"
+    },
+    {
+      "id": 25744,
+      "source": "The Verge AI",
+      "title_en": "Conversational Gemini navigation comes to Apple CarPlay",
+      "description_en": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details).\nIt's taken almost 12 months for Google to bring this to CarPlay users, but now they can talk to the voice assistant in Google Maps to get some hands-free help while driving. That includes a",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "image_url": null,
+      "pub_date": "2026-10-21T15:00:00.000Z",
+      "author": "Jess Weatherbed",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T15:26:58.438Z",
+      "created_at": "2026-10-21T15:26:58.438Z"
+    },
+    {
+      "id": 25745,
+      "source": "The Verge AI",
+      "title_en": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "description_en": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it.\n\"The reference didn't configure a monitor, and Astra decided that was reason to remove the monitoring integration from the user's code,\" Marcus Williams, an AI safety researcher at OpenAI, writes on X. \"When the user asked whet",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "image_url": null,
+      "pub_date": "2026-10-21T13:57:43.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T15:26:58.438Z",
+      "created_at": "2026-10-21T15:26:58.438Z"
+    },
+    {
+      "id": 25746,
+      "source": "The Decoder",
+      "title_en": "Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait",
+      "description_en": "Inception says Mercury 3 is the most capable diffusion language model released so far. The company claims it runs four to eight times faster than GPT-6 Luna and Claude Haiku 5.5 and beats both in eight of 12 benchmarks. There are no independent tests yet.\nThe article Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 14:45:45 +0000",
+      "author": "Manuel Uth",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Diffusion",
+        "Inception",
+        "Mercury"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T15:26:59.603Z",
+      "created_at": "2026-10-21T15:26:59.603Z"
+    },
+    {
+      "id": 25747,
+      "source": "The Decoder",
+      "title_en": "Mistral and Nvidia want to speed up industrial design with physics AI",
+      "description_en": "Mistral and Nvidia are teaming up to speed up engineering simulations and industrial product design with AI.\nThe article Mistral and Nvidia want to speed up industrial design with physics AI appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 14:40:51 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Mistral",
+        "Nvidia"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T15:26:59.603Z",
+      "created_at": "2026-10-21T15:26:59.603Z"
+    },
+    {
+      "id": 25748,
+      "source": "The Decoder",
+      "title_en": "Nvidia's DSX POD could cut AI data center setup from six months to as little as 14 days",
+      "description_en": "Nvidia wants AI data centers to ship fully preassembled in containers.\nThe article Nvidia's DSX POD could cut AI data center setup from six months to as little as 14 days appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/nvidias-dsx-pod-could-cut-ai-data-center-setup-from-six-months-to-as-little-as-14-days/",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 13:42:05 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Nvidia"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T15:26:59.604Z",
+      "created_at": "2026-10-21T15:26:59.604Z"
+    },
+    {
+      "id": 25749,
+      "source": "The Decoder",
+      "title_en": "China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home",
+      "description_en": "The US has banned Deepseek from its government systems, and China is protesting sharply and demanding the ban be lifted. Yet Beijing itself blocks ChatGPT, Claude, and Gemini across its entire market. China's outrage isn't very credible, but it should be taken seriously as a political signal of possible retaliation.\nThe article China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 13:04:19 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "China",
+        "Deepseek",
+        "USA"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-21T15:26:59.604Z",
+      "created_at": "2026-10-21T15:26:59.604Z"
+    },
+    {
+      "id": 25750,
+      "source": "Hugging Face Blog",
+      "title_en": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 14:58:18 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T15:26:59.793Z",
+      "created_at": "2026-10-21T15:26:59.793Z"
+    },
+    {
+      "id": 25751,
+      "source": "OpenAI Blog",
+      "title_en": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "description_en": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Security"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-21T15:27:00.149Z",
+      "created_at": "2026-10-21T15:27:00.149Z"
+    },
+    {
+      "id": 25752,
+      "source": "OpenAI Blog",
+      "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "description_en": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 13:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Product"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-21T15:27:00.149Z",
+      "created_at": "2026-10-21T15:27:00.149Z"
+    },
+    {
+      "id": 25753,
+      "source": "OpenAI Blog",
+      "title_en": "Using thousands of AI agents to uncover new leads in biological data",
+      "description_en": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 04:50:00 GMT",
+      "author": null,
+      "categories": [
+        "Publication"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-21T15:27:00.149Z",
+      "created_at": "2026-10-21T15:27:00.149Z"
+    },
+    {
+      "id": 25754,
+      "source": "OpenAI Blog",
+      "title_en": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "description_en": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/building-chatgpt-ad-stack",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Engineering"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-21T15:27:00.149Z",
+      "created_at": "2026-10-21T15:27:00.149Z"
+    },
+    {
+      "id": 25755,
+      "source": "The Guardian AI",
+      "title_en": "New prize launches for books co-written with AI",
+      "description_en": "After months of controversy over the possible use of AI by winners of prestigious awards, the Prix Pascal de Littérature IA is rewarding fiction written with the help of LLMs\nA prize for AI-written books has launched this week.\nThe Prix Pascal de Littérature IA invites submissions of manuscripts co-written with AI tools, with the winner promised publication.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/books/2026/oct/21/new-prize-launches-books-co-written-with-ai-france",
+      "image_url": "https://i.guim.co.uk/img/media/909696357844bae84bdadb85207f95ea48e30f6f/733_0_5800_4640/master/5800.jpg?width=140&quality=85&auto=format&fit=max&s=43c6fa8dfeb2b7e342f4425298495374",
+      "pub_date": "Wed, 21 Oct 2026 14:59:34 GMT",
+      "author": "Ella Creamer",
+      "categories": [
+        {
+          "_": "Books",
+          "$": {
+            "domain": "https://www.theguardian.com/books/books"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Awards and prizes",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/awards-and-prizes"
+          }
+        },
+        {
+          "_": "France",
+          "$": {
+            "domain": "https://www.theguardian.com/world/france"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T15:27:00.968Z",
+      "created_at": "2026-10-21T15:27:00.968Z"
+    },
+    {
+      "id": 25756,
+      "source": "Interesting Engineering",
+      "title_en": "Airscope: World’s smallest wearable brain monitor tracks 8,500 neurons wirelessly",
+      "description_en": "Chinese researchers have built a wireless microscope that weighs just one gram yet can image...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/china-airscope-1-gram-wireless-brain-monitor-mice",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 13:32:39 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T15:27:02.482Z",
+      "created_at": "2026-10-21T15:27:02.482Z"
+    },
+    {
+      "id": 25757,
+      "source": "Interesting Engineering",
+      "title_en": "US team maps electrolyte chemistry to guide next-generation battery designs",
+      "description_en": "Lithium ions in battery electrolytes do not always remain isolated. Research from Columbia University shows...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/research-reveals-unexpected-lithium-ion-clusters",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 13:27:40 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [
+        "Energy"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T15:27:02.482Z",
+      "created_at": "2026-10-21T15:27:02.482Z"
+    },
+    {
+      "id": 25758,
+      "source": "Tom's Hardware",
+      "title_en": "Trump announces mandate forcing AI data centers to pay energy dividends to the local community",
+      "description_en": "Trump's latest post on Truth Social announces his plans to make data centers more popular among local communities.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/trump-announces-mandate-for-data-centers-to-pay-dividends-to-the-local-community-hopes-to-win-more-data-center-supporters-through-dividend-scheme",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/mZPitqsyGmoeWJmLygFpZe-1920-80.jpg",
+      "pub_date": "Wed, 21 Oct 2026 13:46:18 +0000",
+      "author": " Jhet Borja ",
+      "categories": [
+        "Data Centers",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T15:27:02.657Z",
+      "created_at": "2026-10-21T15:27:02.657Z"
+    },
+    {
+      "id": 25759,
+      "source": "Tom's Hardware",
+      "title_en": "Qualcomm to cut jobs globally in \"performance-based\" layoffs, as company pivots to AI data center and edge computing markets",
+      "description_en": "Qualcomm will begin performance-based layoffs worldwide in November as the chipmaker reallocates resources toward AI infrastructure, data centers, automotive, PCs, and edge computing, amid weaker consumer electronics demand.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/qualcomm-to-cut-jobs-globally-in-performance-based-layoffs-ceo-says-move-will-build-stronger-performance-culture-as-company-pivots-to-ai-data-center-and-edge-products",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/xM9joNiSgDVnMsdY8njzxC-1920-80.jpg",
+      "pub_date": "Wed, 21 Oct 2026 13:00:00 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "Big Tech",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-21T15:27:02.657Z",
+      "created_at": "2026-10-21T15:27:02.657Z"
+    },
+    {
+      "id": 25760,
+      "source": "XOR Journal (TG)",
+      "title_en": "Сразу две критические уязвимости в PHP поставили на колени весь интернет — компании и целые государства отключают свои сайты, чтобы не стать жертвой хакеров.Команда PHP уже исследовала PHP2Shell — дву",
+      "description_en": "Сразу две критические уязвимости в PHP поставили на колени весь интернет — компании и целые государства отключают свои сайты, чтобы не стать жертвой хакеров.Команда PHP уже исследовала PHP2Shell — двум уязвимостям присвоили опасность 9,2 из 10 по шкале CVSS 4.0. Патч обещают сегодня к 17:00 по Москве, так что безопасникам сегодня придётся остаться после работы.Для понимания масштаба опасности:— В Нидерландах вырубили сайт парламента до устранения уязвимости;— В Финляндии отключились госсервисы;—",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10346",
+      "image_url": "https://cdn4.telesco.pe/file/TwQFo51Aox4FiUukEiBCL0rG2zaeAbvOILGwJRw1HDVCSSRq53sDtJ8lDLsfo1bnPFBWn1Jkc0LJcHNnGHEBLxfLT0N-s_xW0DcAOFFzUFAPwnUb70D6g1DusIn0Yehc504kkbP8De3CLaZgv5bmmX8-ZsjjFA0ca0rvqROJUnKcaprJJomU-peSKDZBGcGKCmSP798hR5UcQMPiDOx2kq4-pblbXOxJ6daHCbaaysQHGyH6FIJUq8tDLzCHcwnpgcixFHfFGsR-f_cDYcZxABkjovspW7sb05zkWuUDI9JVlwtSxXCE6X6F5VBtz8VDq6yiuoSdca4SaZMxQ9CMRA.jpg",
+      "pub_date": "2026-10-21T13:52:33+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T15:27:04.560Z",
+      "created_at": "2026-10-21T15:27:04.560Z"
+    },
+    {
+      "id": 25761,
+      "source": "XOR Journal (TG)",
+      "title_en": "ЧТО: критические уязвимости PHP помогли найти модели OpenAI 🤯Компания официально подтвердила, что исследователи обнаружили опасную дыру с помощью GPT-5.6 Sol. А дальше… OpenAI два месяца координирова",
+      "description_en": "ЧТО: критические уязвимости PHP помогли найти модели OpenAI 🤯Компания официально подтвердила, что исследователи обнаружили опасную дыру с помощью GPT-5.6 Sol. А дальше… OpenAI два месяца координировала целую операцию по спасению интернета вместе с разработчиками PHP, Cloudflare и другими компаниями.В OpenAI называют находку одной из самых серьёзных уязвимостей последних лет. А еще говорят, что это лишь верхушка айсберга и скоро нас ждут еще новости. Исправления, кстати, уже выпущены, но только ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10347",
+      "image_url": "https://cdn4.telesco.pe/file/T96lNav5EjH3ogo3pYw1br2qUQ-ynJXRkS-pccBOH4RDmWlWi4JDrG6S6bTjpA5VB1u46ebz0M0LaVbhDvZ8VdGtO39f6SSwgcKKYJEyF0XjwnK1gHyHWCrWmz9qXetZ8x5kCdkeWpNkPzNbE0ImFyl0IjB9gvhjt13-QuKqnrQHmfLpN2yfvxDmQfN6Y3H5Ku324ziDjFtlVqNmTszqhvs7lZfRHRw1ZTjCW0tLKPT_KwzMTHMfdW3M_b8oMh-tiTf5Swu8N0WEDNagigR1ndWCu2zDOFR0_VGsQ0RQUFln16Bd57UStlpzjmaimHg9MK7e-l-MSXLHJgkuizSRug.jpg",
+      "pub_date": "2026-10-21T14:50:42+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T15:27:04.560Z",
+      "created_at": "2026-10-21T15:27:04.560Z"
+    },
+    {
+      "id": 25762,
+      "source": "Hi, AI English (TG)",
+      "title_en": "❗️ AI-Designed Viruses Used to Treat a Human Patient for the First Time A patient with an antibiotic-resistant E. coli infection has received a cocktail of bacteriophages, including variants designed ",
+      "description_en": "❗️ AI-Designed Viruses Used to Treat a Human Patient for the First Time A patient with an antibiotic-resistant E. coli infection has received a cocktail of bacteriophages, including variants designed by Omnii-1, a multimodal genome language model developed by Radical Numerics.Bacteriophages are viruses that infect and kill bacteria without infecting human cells. They offer a potential treatment when antibiotics fail. Each phage targets a limited range of bacterial strains, so finding a suitable ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2875",
+      "image_url": "https://cdn4.telesco.pe/file/Ej0tx0B9k47zPqNQeNjVeGe8aYWAS36C8EvDrJybLow_6qiAgELgCGqgEWKY5YJFRA1eFJzsLVvoFYkA2S_ReflKCMdh6p-fi_bzVSJfxrUBqqgXdpGjJlq3_wZaIeFSelWSccWmXa4FPosdXFaO72MpVjTw7TnMtRAiqqLl5R4e_nMFVNJT4UssGwuJ3-2MwreFhO640QGnEEBr3qHgk7GsPxcgLnPvLcVyQFNmgzGYDiZDSX-B7BWFB2bCcm-sgpd-nYlMmOlD1g6mUvgg_JBuJfRQLGvRmdEfGTWMp1DlOuWbd_X1ftLiIcBq7-kER_Sz2B1CYvHdoUNsNjQ1-Q.jpg",
+      "pub_date": "2026-10-21T14:15:10+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T15:27:04.821Z",
+      "created_at": "2026-10-21T15:27:04.821Z"
+    },
+    {
+      "id": 25763,
+      "source": "AI Post (TG)",
+      "title_en": "🥺 Sam Altman apparently told OpenAI employees that there are possibly THREE endgames for AI safety:1. An international nuclear-style watchdog2. Merge all major labs into a giant org3. One company ach",
+      "description_en": "🥺 Sam Altman apparently told OpenAI employees that there are possibly THREE endgames for AI safety:1. An international nuclear-style watchdog2. Merge all major labs into a giant org3. One company achieves RSI and gets so powerful it can literally “melt everyone else’s GPUs.”and he called the 3rd option “terrible.Source.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8557",
+      "image_url": "https://cdn4.telesco.pe/file/u-lbk9Vkgn7wQFHvbLXJD1uJdZszCa5J1IuYXt0fx0VeruZmfDRm0ytKYGOWnY9zy2KMdM5RsnEsxc8szDFQzT6RRMfx4DbzidT_XhFNNFi92SLJdsrrdlZBjM-0N1XKL-3smIFsNEYDdhMRY9Memc1JbKBMF3k-brvT8Dkz2zbQudpHsqXcBtU768ivoASlHNlFItUF3dk9Uf53R-LKmcPhh-ekitkvJiqNHRXNT7ZDrz5FqhhDhIy5IMsZBbTFI9u1HY1rJ_6qWDC3U2x1Do4BzmU6jVfYEu3BM9a4GOEmryyRIqe8SUP5QvSiBPnETbSxHDbutqYq4UrZeBwUFA.jpg",
+      "pub_date": "2026-10-21T14:02:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T15:27:05.061Z",
+      "created_at": "2026-10-21T15:27:05.061Z"
+    },
+    {
+      "id": 25764,
+      "source": "Prompt AI News (TG)",
+      "title_en": "⚡️ OpenAI's models are coming to Google CloudOpenAI announced its models will be sold through Google's cloud. Google gets to pitch Gemini and its biggest rival on the same invoice.Details are thin so ",
+      "description_en": "⚡️ OpenAI's models are coming to Google CloudOpenAI announced its models will be sold through Google's cloud. Google gets to pitch Gemini and its biggest rival on the same invoice.Details are thin so far: no model list, no pricing, no date. The last OpenAI models on Vertex AI were the open-weight gpt-oss ones. Azure and AWS customers have been the only ones with a shortcut to OpenAI, so that's changing.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/796",
+      "image_url": null,
+      "pub_date": "2026-10-21T13:50:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T15:27:05.397Z",
+      "created_at": "2026-10-21T15:27:05.397Z"
+    },
+    {
+      "id": 25765,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Wiz used frontier AI to turn old PHP engine bugs into pre-auth RCE on WordPress and DrupalWiz Research says the flaws are in core PHP, not the apps on top. Every version back to 5.4 is hit by at le",
+      "description_en": "🚨 Wiz used frontier AI to turn old PHP engine bugs into pre-auth RCE on WordPress and DrupalWiz Research says the flaws are in core PHP, not the apps on top. Every version back to 5.4 is hit by at least one, and PHP released patches on October 21.The bugs sat there for years because chaining them was brutally hard. Wiz says AI models cut that barrier down. PHP runs about 70% of websites.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/797",
+      "image_url": null,
+      "pub_date": "2026-10-21T13:59:57+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T15:27:05.397Z",
+      "created_at": "2026-10-21T15:27:05.397Z"
+    },
+    {
+      "id": 25766,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 LiteLLM 1.107.0 on PyPI is compromised, and it ships a credential stealer plus a backdoorSafeDep flagged the poisoned release of the popular AI gateway library. If it's in your environment, pull it",
+      "description_en": "🚨 LiteLLM 1.107.0 on PyPI is compromised, and it ships a credential stealer plus a backdoorSafeDep flagged the poisoned release of the popular AI gateway library. If it's in your environment, pull it, rotate every API key and credential the machine touched, and check for persistence.LiteLLM usually sits right next to your OpenAI, Anthropic and cloud keys, which is exactly why someone went after it.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/798",
+      "image_url": null,
+      "pub_date": "2026-10-21T14:44:40+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-21T15:27:05.397Z",
+      "created_at": "2026-10-21T15:27:05.397Z"
     }
   ]
 }
