@@ -1,9 +1,9 @@
 {
-  "total": 25794,
-  "translated": 25787,
+  "total": 25803,
+  "translated": 25796,
   "untranslated": 7,
-  "today": 117,
-  "week": 802,
+  "today": 126,
+  "week": 811,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2205,
-      "translated": 2205,
+      "total": 2207,
+      "translated": 2207,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1700,
-      "translated": 1700,
+      "total": 1701,
+      "translated": 1701,
       "lastDate": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
     {
@@ -31,9 +31,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1509,
-      "translated": 1507,
-      "lastDate": "2026-10-21T19:07:08+00:00"
+      "total": 1510,
+      "translated": 1508,
+      "lastDate": "2026-10-21T20:11:14+00:00"
     },
     {
       "name": "Product Hunt",
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 1406,
-      "translated": 1406,
+      "total": 1407,
+      "translated": 1407,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 904,
-      "translated": 904,
-      "lastDate": "2026-10-21T15:00:00.000Z"
+      "total": 906,
+      "translated": 906,
+      "lastDate": "2026-10-21T19:53:20.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -85,9 +85,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 674,
-      "translated": 674,
-      "lastDate": "2026-10-21T17:45:27+00:00"
+      "total": 675,
+      "translated": 675,
+      "lastDate": "2026-10-21T19:29:52+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -127,8 +127,8 @@
     },
     {
       "name": "The Register",
-      "total": 315,
-      "translated": 315,
+      "total": 316,
+      "translated": 316,
       "lastDate": "Wed, 30 Sep 2026 18:03:07 +0200"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-21T19:55:46.448Z"
+  "generatedAt": "2026-10-21T20:19:52.299Z"
 }
