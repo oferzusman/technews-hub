@@ -562337,6 +562337,63 @@
       "priority": "batch",
       "fetchedAt": "2026-10-22T22:03:43.786Z",
       "created_at": "2026-10-22T22:03:43.786Z"
+    },
+    {
+      "id": 25982,
+      "source": "TechCrunch AI",
+      "title_en": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "description_en": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "image_url": null,
+      "pub_date": "Thu, 22 Oct 2026 22:08:24 +0000",
+      "author": "Julie Bort",
+      "categories": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "In Brief",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T22:35:34.175Z",
+      "created_at": "2026-10-22T22:35:34.175Z"
+    },
+    {
+      "id": 25983,
+      "source": "Hugging Face Blog",
+      "title_en": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "image_url": null,
+      "pub_date": "Thu, 22 Oct 2026 22:24:34 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T22:35:35.875Z",
+      "created_at": "2026-10-22T22:35:35.875Z"
+    },
+    {
+      "id": 25984,
+      "source": "AI Post (TG)",
+      "title_en": "🇰🇷 South Korean company Sungho SI has developed Eve Clever, an AI-powered agricultural robot for automated crop monitoring and harvesting.Using RGB-D cameras, AI vision, and a robotic arm, it identi",
+      "description_en": "🇰🇷 South Korean company Sungho SI has developed Eve Clever, an AI-powered agricultural robot for automated crop monitoring and harvesting.Using RGB-D cameras, AI vision, and a robotic arm, it identifies ripe produce and harvests strawberries, tomatoes, cucumbers, and bell peppers. Its cloud-connected platform enables farmers to monitor crop conditions and manage agricultural data remotely.@futurism 🧬",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8584",
+      "image_url": null,
+      "pub_date": "2026-10-22T22:30:52+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T22:35:38.865Z",
+      "created_at": "2026-10-22T22:35:38.865Z"
     }
   ]
 }
