@@ -1,9 +1,9 @@
 {
-  "total": 25840,
-  "translated": 25832,
-  "untranslated": 8,
-  "today": 14,
-  "week": 711,
+  "total": 25843,
+  "translated": 25836,
+  "untranslated": 7,
+  "today": 17,
+  "week": 714,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -14,7 +14,7 @@
     {
       "name": "Interesting Engineering",
       "total": 2212,
-      "translated": 2211,
+      "translated": 2212,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -49,14 +49,14 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 1262,
-      "translated": 1262,
+      "total": 1263,
+      "translated": 1263,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
       "name": "New Atlas",
-      "total": 1176,
-      "translated": 1176,
+      "total": 1177,
+      "translated": 1177,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -85,9 +85,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 677,
-      "translated": 677,
-      "lastDate": "2026-10-22T01:31:27+00:00"
+      "total": 678,
+      "translated": 678,
+      "lastDate": "2026-10-22T04:32:27+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-22T03:31:46.887Z"
+  "generatedAt": "2026-10-22T04:43:00.220Z"
 }
