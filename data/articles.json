@@ -560814,6 +560814,44 @@
       "priority": "hot",
       "fetchedAt": "2026-10-22T14:21:48.181Z",
       "created_at": "2026-10-22T14:21:48.181Z"
+    },
+    {
+      "id": 25919,
+      "source": "The Decoder",
+      "title_en": "Recursive shows first result of its AI-driven research process with Flint",
+      "description_en": "The AI startup Recursive is unveiling Flint, its first language model, a 40-billion-parameter MoE for local coding developed by former DeepMind researchers. It was created in four months using the company's in-house AI system, \"Eureka Machine,\" which independently tests and optimizes architectures. Recursive has yet to prove whether this approach will actually lead to self-improving AI.\nThe article Recursive shows first result of its AI-driven research process with Flint appeared first on The De",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/recursive-shows-first-result-of-its-ai-driven-research-process-with-flint/",
+      "image_url": null,
+      "pub_date": "Thu, 22 Oct 2026 14:40:16 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Recursive"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T14:42:07.990Z",
+      "created_at": "2026-10-22T14:42:07.990Z"
+    },
+    {
+      "id": 25920,
+      "source": "XOR Journal (TG)",
+      "title_en": "Ор, китайская нейросеть Alibaba пишет более дырявый код, когда работает на американцев  👍Исследователи протестировали Qwen3-Coder на 1840 приложениях и обнаружили забавную закономерность: для америка",
+      "description_en": "Ор, китайская нейросеть Alibaba пишет более дырявый код, когда работает на американцев  👍Исследователи протестировали Qwen3-Coder на 1840 приложениях и обнаружили забавную закономерность: для американского оборонного подрядчика уязвимыми оказались 70% приложений, а для китайского — 59%.Самое смешное, что просьба писать безопасный код только ухудшила результат: доля уязвимых приложений для американцев выросла до 74%.Миску риса этим разработчикам 😂@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10352",
+      "image_url": "https://cdn4.telesco.pe/file/OcKMr_1-GNz1pyFBT-H28Y5NgN8qeUSxdHhjHyEqQGknQhs2aSQ9nT3-NzpI16ATDiJeG7rCxe1oGX6LhzmyAqulxWDebGfv3_p6J39tUEwQyCBXqTH06Kr2exo7KGt4AZbPMIC0xBArZ8lVpR9pIoeNTiSIEwwWkFk5eQ5wqkUCeMrm8gLu2Uedt1Bm3kHvUZAAlgThQ_YpIyWdJSqE7kjQ3Y6nCdqMEbZaCbWUKo1DxS8zWVXH_jQ2B6kmIKMXVyvRJZSOEx0FawH70qF1B7myZK5_UqtUKUIvo63w0ddf5NkGLIJCh_h6dmnT47ckLsbY4uX-lnec9wfdcDcXYw.jpg",
+      "pub_date": "2026-10-22T14:41:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T14:42:10.648Z",
+      "created_at": "2026-10-22T14:42:10.648Z"
     }
   ]
 }
