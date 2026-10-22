@@ -558746,6 +558746,296 @@
       "priority": "hot",
       "fetchedAt": "2026-10-22T00:10:15.311Z",
       "created_at": "2026-10-22T00:10:15.311Z"
+    },
+    {
+      "id": 25828,
+      "source": "Ars Technica",
+      "title_en": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
+      "description_en": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-1152x648-1734382746.jpg",
+      "pub_date": "Wed, 21 Oct 2026 22:17:50 +0000",
+      "author": "\n                    Jon Brodkin\n                ",
+      "categories": [
+        "Policy",
+        "brendan carr",
+        "fake polls",
+        "FCC",
+        "Trump"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-22T03:28:25.487Z",
+      "created_at": "2026-10-22T03:28:25.487Z"
+    },
+    {
+      "id": 25829,
+      "source": "OpenAI Blog",
+      "title_en": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "description_en": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/cloudflare-cyber",
+      "image_url": null,
+      "pub_date": "Wed, 21 Oct 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-22T03:28:27.132Z",
+      "created_at": "2026-10-22T03:28:27.132Z"
+    },
+    {
+      "id": 25830,
+      "source": "New Atlas",
+      "title_en": "Honda's sexy little scrambler is too good to stay a concept",
+      "description_en": "With EICMA just around the corner, the time’s almost here when we’ll see a whole host of surprise reveals in the motorcycle industry, but it seems Honda didn’t want to sit back and wait for the motorcycle show in Milan. It’s gone ahead and revealed a motorcycle few saw coming at the CIMA motorcycle trade show in Chongqing, China.\nContinue Reading\nCategory: Motorcycles, Transport\nTags: Honda, Honda Motorcycles, Scramblers, Retro",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/motorcycles/honda-cb250ss/",
+      "image_url": null,
+      "pub_date": "Thu, 22 Oct 2026 02:54:38 GMT",
+      "author": "Utkarsh Sood",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T03:28:27.357Z",
+      "created_at": "2026-10-22T03:28:27.357Z"
+    },
+    {
+      "id": 25831,
+      "source": "The Guardian AI",
+      "title_en": "Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI",
+      "description_en": "Author withdrawn from France’s Prix Goncourt last month has repeatedly denied using artificial intelligence to write novel\nThe publisher of top-selling Haitian Canadian writer Thélyson Orélien, who was removed from France’s most prestigious literary prize list last month, has confirmed the author used artificial intelligence to help write his novel C’était ça ou mourir (It Was Either That or Die).\nOrélien has denied allegations that he used AI on his breakthrough novel and, last week, Canadian p",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/culture/2026/oct/22/canadian-publisher-boreal-ends-relationship-author-thelyson-orelien-over-ai",
+      "image_url": "https://i.guim.co.uk/img/media/593ae3d39388056aa07d530e1309848d610c3078/1027_0_6240_4994/master/6240.jpg?width=140&quality=85&auto=format&fit=max&s=0dfce1b80329a4af69ed0cdc674a4cde",
+      "pub_date": "Thu, 22 Oct 2026 01:13:01 GMT",
+      "author": "Agence France-Presse",
+      "categories": [
+        {
+          "_": "Awards and prizes",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/awards-and-prizes"
+          }
+        },
+        {
+          "_": "Books",
+          "$": {
+            "domain": "https://www.theguardian.com/books/books"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "Fiction",
+          "$": {
+            "domain": "https://www.theguardian.com/books/fiction"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Europe",
+          "$": {
+            "domain": "https://www.theguardian.com/world/europe-news"
+          }
+        },
+        {
+          "_": "Prix Goncourt",
+          "$": {
+            "domain": "https://www.theguardian.com/books/prix-goncourt"
+          }
+        },
+        {
+          "_": "Canada",
+          "$": {
+            "domain": "https://www.theguardian.com/world/canada"
+          }
+        },
+        {
+          "_": "France",
+          "$": {
+            "domain": "https://www.theguardian.com/world/france"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-22T03:28:27.532Z",
+      "created_at": "2026-10-22T03:28:27.532Z"
+    },
+    {
+      "id": 25832,
+      "source": "Interesting Engineering",
+      "title_en": "NASA’s Moon mission with four drones moves closer to spacecraft production in 2028",
+      "description_en": "Firefly Aerospace has completed a key spacecraft design review for a NASA mission that aims...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/space/nasa-four-moon-drones-spacecraft-design-review",
+      "image_url": null,
+      "pub_date": "Thu, 22 Oct 2026 03:26:36 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "Space"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T03:28:29.825Z",
+      "created_at": "2026-10-22T03:28:29.825Z"
+    },
+    {
+      "id": 25833,
+      "source": "Interesting Engineering",
+      "title_en": "New Claude Duet taps 6,000-plus integrations to draft payrolls, manage online stores",
+      "description_en": "Anthropic wants Claude to do more than answer questions. Its new app, Claude Duet, can...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/new-claude-duet-business-task-automation",
+      "image_url": "https://www.youtube.com/embed/Fb-68zqcSVs",
+      "pub_date": "Thu, 22 Oct 2026 03:19:02 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T03:28:29.825Z",
+      "created_at": "2026-10-22T03:28:29.825Z"
+    },
+    {
+      "id": 25834,
+      "source": "Interesting Engineering",
+      "title_en": "Humanoid robot cuts model processing delay 8x with NVIDIA tech in internal tests",
+      "description_en": "Bear Robotics says it has reduced the time needed to run a robotics foundation model...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/bear-robotics-humanoid-nvidia-inference-speedup",
+      "image_url": null,
+      "pub_date": "Thu, 22 Oct 2026 02:06:39 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T03:28:29.825Z",
+      "created_at": "2026-10-22T03:28:29.825Z"
+    },
+    {
+      "id": 25835,
+      "source": "Interesting Engineering",
+      "title_en": "Tesla fires up Optimus robot production with Musk eyeing 20,000 units per week by 2027",
+      "description_en": "Tesla has begun manufacturing its Optimus humanoid robots on production lines in Fremont, California, marking...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/tesla-optimus-robot-enters-production",
+      "image_url": null,
+      "pub_date": "Thu, 22 Oct 2026 00:57:39 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-22T03:28:29.825Z",
+      "created_at": "2026-10-22T03:28:29.825Z"
+    },
+    {
+      "id": 25836,
+      "source": "CNBC Tech",
+      "title_en": "Southeast Asia is hungry for AI — and the money isn't just in subscriptions",
+      "description_en": "Southeast Asia's rapid AI adoption is creating business opportunities beyond paid consumer subscriptions, a partner at Bain & Company, told CNBC.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/22/southeasaisa-singapore-bain-temasek-google-.html",
+      "image_url": null,
+      "pub_date": "Thu, 22 Oct 2026 02:01:48 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T03:28:30.378Z",
+      "created_at": "2026-10-22T03:28:30.378Z"
+    },
+    {
+      "id": 25837,
+      "source": "CNBC Tech",
+      "title_en": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
+      "description_en": "Critical PHP security flaws trigger global warnings as Google, OpenAI and Amazon respond to potential cyber threats.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
+      "image_url": null,
+      "pub_date": "Thu, 22 Oct 2026 01:05:15 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-22T03:28:30.378Z",
+      "created_at": "2026-10-22T03:28:30.378Z"
+    },
+    {
+      "id": 25838,
+      "source": "AI Post (TG)",
+      "title_en": "⚠️ Google is making AI fluency a requirement for every software engineerGoogle is raising the bar for software engineers: AI fluency is now required for every engineering role, according to internal d",
+      "description_en": "⚠️ Google is making AI fluency a requirement for every software engineerGoogle is raising the bar for software engineers: AI fluency is now required for every engineering role, according to internal documents obtained by Business Insider.Beyond entry-level positions, candidates are also being evaluated on how well they can integrate AI into products. The company has expanded trials that let applicants use Gemini during coding interviews, testing not just their coding skills but also prompt engin",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8568",
+      "image_url": "https://cdn4.telesco.pe/file/m9b_oP-1CRjqbyh4_460CfcULkAZKvi4WHmKtJizR8oDE_WMyBbBg6XaCqsXGat06EuhT0lyiqeDR9WF3-EZOZRSbNWsUz-aPGPtQYR1Gxn13Z2y-z4P2kH3ou8Ooza6YsnyL5_eHPtL9unmhmMY1P6mj4_Dp3LFinRCcooLy2jy0zw8nZxwUhiV-j62i2kWcrSWCI-og6vGr5pRtdlA3Tk2ZakSN3OU095e5Aq5LyBzdnh3okoYBARNV5Kin_LYPbW26fdqlhM6JC9H15ddNukcWC-aGAkmMwzfT2SjovJvda35QmhmB9D8buJO_60_-MvUmByVy8ZFA7O8ayvW9w.jpg",
+      "pub_date": "2026-10-22T00:40:44+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-22T03:28:32.769Z",
+      "created_at": "2026-10-22T03:28:32.769Z"
+    },
+    {
+      "id": 25839,
+      "source": "AI Post (TG)",
+      "title_en": "📈 Meta’s Muse is growing faster than ChatGPT did at launchMeta’s Muse has reached 10.2 million downloads in the U.S. in its first 40 days, nearly three times ChatGPT’s 3.7 million over the same perio",
+      "description_en": "📈 Meta’s Muse is growing faster than ChatGPT did at launchMeta’s Muse has reached 10.2 million downloads in the U.S. in its first 40 days, nearly three times ChatGPT’s 3.7 million over the same period. According to Sensor Tower, only 11 other apps have ever reached the 10 million mark that quickly.Meta is also putting more money behind the app, increasing Muse’s share of its advertising spend from 23% in September to 39%.The early numbers look promising beyond downloads, too. Muse has a 14-day ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8572",
+      "image_url": "https://cdn4.telesco.pe/file/Y6V7uzTDS1A27xJEn8X5ywC_SBrCFf595y2aBHhvvj_EmSSUpkuAD98e1Lp7WrnsK2um9xE_JXwoe7IoDWlPe0FplD8G3lkBois50v-AIvU6HTsWAoqRznjahG48IBdlw0LUk3ml0iN7GTDzp5NtBThcze-WCwIHASaoIchrBOBXLmSsG5wtz7H6SpbF16365UrZ0uWEwq5i4wa4nTZ9ioS7i2T1dWJJcaDM5p1QIH4Mzlm0b7gE_Qt7DE6OU4j8Hyg4NP5ebcQda_Jk5BIjHE8Kjk_-WZcgGQqVHd2OUuEiwaI0AeQfWIBv_K3sMMlUEh1Au8kUegoE11oXsHrssg.jpg",
+      "pub_date": "2026-10-22T03:12:44+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T03:28:32.769Z",
+      "created_at": "2026-10-22T03:28:32.769Z"
+    },
+    {
+      "id": 25840,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🇨🇳 SemiAnalysis says DeepSeek will likely run mostly on Huawei's stack by 2027 or 2028Right before China's national day holidays, DeepSeek shipped Ascend support for TileLang, DeepGEMM, DeepEP and F",
+      "description_en": "🇨🇳 SemiAnalysis says DeepSeek will likely run mostly on Huawei's stack by 2027 or 2028Right before China's national day holidays, DeepSeek shipped Ascend support for TileLang, DeepGEMM, DeepEP and FlashMLA. SemiAnalysis calls it a trade. Huawei has no frontier lab to prove its chips, and DeepSeek has models but can't buy the compute.Neither side can do this alone, and both know it.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/802",
+      "image_url": null,
+      "pub_date": "2026-10-22T01:31:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T03:28:33.215Z",
+      "created_at": "2026-10-22T03:28:33.215Z"
     }
   ]
 }
