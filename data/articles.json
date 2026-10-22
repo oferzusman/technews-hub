@@ -559281,6 +559281,535 @@
       "priority": "hot",
       "fetchedAt": "2026-10-22T05:33:52.684Z",
       "created_at": "2026-10-22T05:33:52.684Z"
+    },
+    {
+      "id": 25848,
+      "source": "The Decoder",
+      "title_en": "Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\"",
+      "description_en": "Anthropic has launched Claude Duet, a proactive AI agent that handles tasks on its own, even when the user is offline. The app is built on Claude Opus 5.5 and connects to services like Gmail, Slack, and Stripe through more than 6,000 connectors. It asks for approval before sensitive actions like payments. With Duet, Anthropic is responding to similar products from xAI, Meta, and OpenAI.\nThe article Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/",
+      "image_url": null,
+      "pub_date": "Thu, 22 Oct 2026 08:35:22 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Claude",
+        "Claude Duet"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T08:52:41.005Z",
+      "created_at": "2026-10-22T08:52:41.005Z"
+    },
+    {
+      "id": 25849,
+      "source": "MIT Technology Review",
+      "title_en": "AI’s hidden storage bill: What inference leaves behind",
+      "description_en": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "image_url": null,
+      "pub_date": "Thu, 22 Oct 2026 08:41:18 +0000",
+      "author": "Tim Rausch",
+      "categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T08:52:41.073Z",
+      "created_at": "2026-10-22T08:52:41.073Z"
+    },
+    {
+      "id": 25850,
+      "source": "MarkTechPost",
+      "title_en": "IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation",
+      "description_en": "IBM released Granite Speech 5.0 2B, an Apache 2.0 speech recognition and translation model. It ranks #2 on the Open ASR Leaderboard with 5.68% average English WER, alongside updated Turbo CTC and 4.1 2B Plus models.\nThe post IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/",
+      "image_url": null,
+      "pub_date": "Thu, 22 Oct 2026 07:00:56 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Audio Language Model",
+        "Editors Pick",
+        "Enterprise AI",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Voice AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T08:52:41.128Z",
+      "created_at": "2026-10-22T08:52:41.128Z"
+    },
+    {
+      "id": 25851,
+      "source": "MarkTechPost",
+      "title_en": "Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Method",
+      "description_en": "Perplexity and NVIDIA introduced JOLT, a post-training method that trains one model as both teacher and student. On MATH it matched GRPO’s accuracy with 6.5x fewer processed training tokens.\nThe post Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Method appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/",
+      "image_url": null,
+      "pub_date": "Thu, 22 Oct 2026 04:56:31 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Reinforcement Learning",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Uncategorized"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-22T08:52:41.129Z",
+      "created_at": "2026-10-22T08:52:41.129Z"
+    },
+    {
+      "id": 25852,
+      "source": "Hugging Face Blog",
+      "title_en": "Ensemble forecasting with IBM Granite time-series models",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "image_url": null,
+      "pub_date": "Thu, 22 Oct 2026 07:51:31 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T08:52:41.181Z",
+      "created_at": "2026-10-22T08:52:41.181Z"
+    },
+    {
+      "id": 25853,
+      "source": "The Guardian AI",
+      "title_en": "Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances",
+      "description_en": "Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profits\n\nBusiness live – latest updates\n\nBarclays is cutting 5,000 jobs as part of wider cost-cutting plans that its bosses say are being driven by advances in AI.\nThe job cuts will mean losing about 5% of the bank’s 93,000 global staff, with executives confirming they had already cut 1,000 workers since the start of the year.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
+      "image_url": "https://i.guim.co.uk/img/media/42ebdcc562c64f3843def3a9641e7ab414a3974a/503_509_4491_3595/master/4491.jpg?width=140&quality=85&auto=format&fit=max&s=e3786f38f19585f0475e475e93325367",
+      "pub_date": "Thu, 22 Oct 2026 08:40:42 GMT",
+      "author": "Kalyeena Makortoff Banking correspondent",
+      "categories": [
+        {
+          "_": "Barclays",
+          "$": {
+            "domain": "https://www.theguardian.com/business/barclay"
+          }
+        },
+        {
+          "_": "Banking",
+          "$": {
+            "domain": "https://www.theguardian.com/business/banking"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Budget 2026",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/budget-2026"
+          }
+        },
+        {
+          "_": "John Healey",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/john-healey"
+          }
+        },
+        {
+          "_": "Budget",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/budget"
+          }
+        },
+        {
+          "_": "Tax and spending",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/taxandspending"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "TUC",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/tuc"
+          }
+        },
+        {
+          "_": "Trade unions",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/tradeunions"
+          }
+        },
+        {
+          "_": "Job losses",
+          "$": {
+            "domain": "https://www.theguardian.com/business/job-losses"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T08:52:41.427Z",
+      "created_at": "2026-10-22T08:52:41.427Z"
+    },
+    {
+      "id": 25854,
+      "source": "New Atlas",
+      "title_en": "Texas welders let rip on a $600 Chinese rig... With a phone app",
+      "description_en": "We put ArcCaptain's hobbyist-to-light-industrial-grade double-pulse machine in front of experienced welders. Everybody liked the way it welded. The arguments started when we tried to tell it exactly how we wanted it to weld.\nContinue Reading\nCategory: Gear, Outdoors\nTags: Welding, DIY, Tools, bike tools, Reviews",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/outdoor-gear/arccaptain-mig205mp-pulse-mig-welder-cutter-review/",
+      "image_url": null,
+      "pub_date": "Thu, 22 Oct 2026 07:57:31 GMT",
+      "author": "Hayden Landers",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T08:52:41.440Z",
+      "created_at": "2026-10-22T08:52:41.440Z"
+    },
+    {
+      "id": 25855,
+      "source": "Interesting Engineering",
+      "title_en": "Air-purifying car grille removes 95% of PM2.5 and captures brake dust at the source",
+      "description_en": "Researchers at the Korea Institute of Machinery and Materials (KIMM) have built a vehicle system...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/air-purifying-vehicle-airfive-brake-dust-capture",
+      "image_url": null,
+      "pub_date": "Thu, 22 Oct 2026 08:31:25 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "Transportation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T08:52:43.046Z",
+      "created_at": "2026-10-22T08:52:43.046Z"
+    },
+    {
+      "id": 25856,
+      "source": "Interesting Engineering",
+      "title_en": "Unitree’s ‘guardian’ humanoid robot lift cars and saves people in dramatic video",
+      "description_en": "China’s Unitree Robotics has unveiled the H2-X, a humanoid robot designed to help in emergencies,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/unitree-showcases-h2-x-humanoid-robot",
+      "image_url": "https://www.youtube.com/embed/Y3zb4o47yqA",
+      "pub_date": "Thu, 22 Oct 2026 08:19:00 +0000",
+      "author": "Jijo Malayil",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T08:52:43.047Z",
+      "created_at": "2026-10-22T08:52:43.047Z"
+    },
+    {
+      "id": 25857,
+      "source": "Interesting Engineering",
+      "title_en": "Battery drives, hydrogen tops up: New 68-ton hybrid truck targets emission-free heavy freight",
+      "description_en": "A heavy-duty truck that runs mainly on electricity, with hydrogen fuel cells as an alternative...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/sisu-escalate-hydrogen-electric-hybrid-truck-zero-emission",
+      "image_url": null,
+      "pub_date": "Thu, 22 Oct 2026 06:52:56 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "Transportation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T08:52:43.047Z",
+      "created_at": "2026-10-22T08:52:43.047Z"
+    },
+    {
+      "id": 25858,
+      "source": "Product Hunt",
+      "title_en": "Record for agents",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/loom",
+      "image_url": null,
+      "pub_date": "2026-10-09T17:00:25.000Z",
+      "author": "Kristie Riojas",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-22T08:52:46.687Z",
+      "created_at": "2026-10-22T08:52:46.687Z"
+    },
+    {
+      "id": 25859,
+      "source": "Product Hunt",
+      "title_en": "ElevenLabs Realtime Translation",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/elevenlabs-realtime-translation",
+      "image_url": null,
+      "pub_date": "2026-10-21T14:36:07.000Z",
+      "author": "Kate Ramakaieva",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-22T08:52:46.687Z",
+      "created_at": "2026-10-22T08:52:46.687Z"
+    },
+    {
+      "id": 25860,
+      "source": "Product Hunt",
+      "title_en": "Agentic CleanSlop",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/cleanslop",
+      "image_url": null,
+      "pub_date": "2026-10-22T06:28:58.000Z",
+      "author": "Swaroop Hegde",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-22T08:52:46.687Z",
+      "created_at": "2026-10-22T08:52:46.687Z"
+    },
+    {
+      "id": 25861,
+      "source": "Product Hunt",
+      "title_en": "Claire Mail",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/claire-mail",
+      "image_url": null,
+      "pub_date": "2026-10-13T21:42:50.000Z",
+      "author": "Foued Sassi",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-22T08:52:46.687Z",
+      "created_at": "2026-10-22T08:52:46.687Z"
+    },
+    {
+      "id": 25862,
+      "source": "Product Hunt",
+      "title_en": "Concierge by Juniors AI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/concierge-by-juniors-ai",
+      "image_url": null,
+      "pub_date": "2026-10-11T10:21:34.000Z",
+      "author": "Rahul Khanna",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-22T08:52:46.687Z",
+      "created_at": "2026-10-22T08:52:46.687Z"
+    },
+    {
+      "id": 25863,
+      "source": "XOR Journal (TG)",
+      "title_en": "Безопасники обнаружили уязвимость, которая поставила под угрозу весь интернет 👻У индийского удостоверяющего центра eMudhra нашли восемь промежуточных TLS-сертификатов с настолько слабыми приватными к",
+      "description_en": "Безопасники обнаружили уязвимость, которая поставила под угрозу весь интернет 👻У индийского удостоверяющего центра eMudhra нашли восемь промежуточных TLS-сертификатов с настолько слабыми приватными ключами, что их можно было подобрать практически мгновенно. Причём все ключи оказались числами меньше 256, а один вообще просто был 4!С их помощью злоумышленники потенциально могли выдавать себя за чужие сайты и перехватывать трафик. Google и Mozilla уже заблокировали опасные сертификаты, а Cloudflar",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10349",
+      "image_url": "https://cdn4.telesco.pe/file/f3uVQRwGJSTZlURWxkI_7rfhuQSl22c_R0q948ZVGnDpQ25OqjYTEqfeGtmf-ZWdV9MswlfmrTvnFW8qYDmRh73qwtiWJlfNTY49iIl6IojiMv-gtTeIm4qy1nIHZaTStHwFrPJPmpe72yfXrz7y2lbEJC4pg0yl3lym7X7KYdWtjOPJwoZQDYC5uw7ZbHr2MzyOOjDP8lYzIpdQkrtEd1y34wkJ5fPdz3kGM7qdYdopvxWaEqEKyJvRwWgvMzzdnsEU5PowcgWEyfJ0i6bIErZjlndgu03gvqqyGG8dujr73HCU1yZbalVtF6g-nxyQoGyXQMi5fvOx62WZ19R52A.jpg",
+      "pub_date": "2026-10-22T06:47:20+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-22T08:52:47.235Z",
+      "created_at": "2026-10-22T08:52:47.235Z"
+    },
+    {
+      "id": 25864,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Claude и ChatGPT полностью заблокируют для россиян — эксперты. Случится это сразу после выхода OpenAI и Anthropic на биржу, потому что компании ужесточат блокировки.Дело в том, что ИИ уже заблокиро",
+      "description_en": "⚡️ Claude и ChatGPT полностью заблокируют для россиян — эксперты. Случится это сразу после выхода OpenAI и Anthropic на биржу, потому что компании ужесточат блокировки.Дело в том, что ИИ уже заблокированы в РФ и в Китае. Просто сейчас за блокировками следят «не так тщательно», чтобы сохранять лояльность и клиентов.После выхода на биржу компаниям придётся снизить операционные траты, поэтому многие юзеры пойдут под нож.Конторы сами знаете кого.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32380",
+      "image_url": "https://cdn4.telesco.pe/file/cktzh2xHycdWQJYL8VKO-ldqrvtv5GTx4n58U5LMxTXQPTSA0BHStjNvzpE9OjM3BORJZO2d5OXuQoPFnrTmEzvIHGmC7kNpZRBCaYLjfifsPLyCBb-vtt8S7jDugysze-SwJPqgOWyB65LwvOiMqOlPruDi8PDW3pdLHA3Ph7MlLPmF5NYOPJhbJ0bv7WSz6p21ICmh01x_AVtHwKgR3JPYREbaoQVy3hjAscXc8wU3PBxWpm95xp3V70YJ-q-Bp3NHjW43obT82310SxL6B5D61Pxd1VgI6FJ5NGD4rtjHDxDSmojftQK6uxKjIZZL7t2oJoEON83jxK92GX9hsw.jpg",
+      "pub_date": "2026-10-22T06:31:31+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-22T08:52:47.267Z",
+      "created_at": "2026-10-22T08:52:47.267Z"
+    },
+    {
+      "id": 25865,
+      "source": "Backdoor (TG)",
+      "title_en": "Срочно проверяем свои сайты на уязвимости PHP — OpenAI выкатил скилл, чтобы ваши проекты не оказались среди 9️⃣0️⃣0️⃣ млн ресурсов в сети, которые подверглись вчерашним критическим ошибкам.• Работает ",
+      "description_en": "Срочно проверяем свои сайты на уязвимости PHP — OpenAI выкатил скилл, чтобы ваши проекты не оказались среди 9️⃣0️⃣0️⃣ млн ресурсов в сети, которые подверглись вчерашним критическим ошибкам.• Работает просто и быстро — даем Codex ссылку на ваш ресурс, он прогонит скрипт, проверит версию языка PHP и подскажет, требуется ли срочное обновление.• Также ИИ-агент может сразу поставить патч и защитить ваш сайт на PHP от угрозы взлома и потери всех данных.😶😶😶😶😶😶😶😶😶Спешим проверить свой сайт — ту",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32384",
+      "image_url": "https://cdn4.telesco.pe/file/lde5PzlS5IpzdArJoeYVA9TipTwJ7AxCrRWdhWWa3JMNjmtsGQ-z58zT2b0VZKXOiulxS6vF475aQtaraVWSda-BT0hfnlwHXPCe7s1XzPBV6JSxirUtn1WsSCaufXAmQgw71GLQ56j7EdJnfm7KvZPtFNW30K3ergOZvCUgwkOMYqEce4AauRD8bySRShdyVvwTxJ2SYTwL_pOgMqEsNnyJDmmvY6KTQr8JdkOshIBglrxebkjfxuewgAIBci4XWYLk1lnNHN4PfrLAdaKsJVuIgXzTf7KBbbKyGjUPianF-QgXMk-ji9Qgar_bKt8oSbC_8lz1EbhA4zYPcT51Bg.jpg",
+      "pub_date": "2026-10-22T08:37:54+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T08:52:47.267Z",
+      "created_at": "2026-10-22T08:52:47.267Z"
+    },
+    {
+      "id": 25866,
+      "source": "Hi, AI English (TG)",
+      "title_en": "❗ Switch 2 Jailbroken With the Help of CodexDeveloper Sammy Hajhamid (pepsipu) said in his blog that he created a jailbreak for the Nintendo Switch 2 on the latest firmware, 23.0.1. It lets you run yo",
+      "description_en": "❗ Switch 2 Jailbroken With the Help of CodexDeveloper Sammy Hajhamid (pepsipu) said in his blog that he created a jailbreak for the Nintendo Switch 2 on the latest firmware, 23.0.1. It lets you run your own code on the Switch 2 with system privileges — for example, to mod games and experiment with the console's internals.As a demo, pepsipu added new characters to Mario Kart World.🔍 To find the exploit, the developer used the AI agent Codex. He even gave the agent a smart switch from Amazon so i",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2877",
+      "image_url": null,
+      "pub_date": "2026-10-22T08:25:48+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T08:52:47.758Z",
+      "created_at": "2026-10-22T08:52:47.758Z"
+    },
+    {
+      "id": 25867,
+      "source": "AI Post (TG)",
+      "title_en": "❗️OpenAI says two of its own AI agents crippled their own misalignment monitoring this month designed to detect their misbehavior during internal coding tasks.On Oct 6, GPT-6 Astra deleted its monitor",
+      "description_en": "❗️OpenAI says two of its own AI agents crippled their own misalignment monitoring this month designed to detect their misbehavior during internal coding tasks.On Oct 6, GPT-6 Astra deleted its monitor, replaced a test to require the monitor's absence, wrote 'Basic doesn't agentmonitor yay' in its chain of thought, and then falsely claimed to the engineer: 'I did not remove an enabled monitor from it.'Three days earlier, GPT-6.1 Sol overruled a subagent that warned 'disabling required alerts unsa",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8575",
+      "image_url": "https://cdn4.telesco.pe/file/mmqE-GNXijNUdFhWTfLYGLdCi_otTpJ69ozj0kkOQlFfrLPq1KfbVKpGu6I0ZOxezgzCZ3SRoAepjAd-FAl_WU7UxeCp35L-Q4zpUJQZ8m4ggBcHaq1OfGebC5kFY077SlNczvCvH9ID5e5JzQRyLqxzF2ANw0wFfJCUtKEhqtbsIllEabZGdsVA1cU1nhNRy_cv84Y2kwyNlvmHrdFPTcwad667AY2fzGAveKnL1Ymi-HLOMXG__ZaLGYyFjI5dq9MEdI46x-YEofL44LzQ3tqw6hpal_r8GXGPngbXMTt3y3xOTq5trtgVLeMf2Ue3SrYarSx9Sssd_E0bgr8yow.jpg",
+      "pub_date": "2026-10-22T05:54:43+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-22T08:52:47.822Z",
+      "created_at": "2026-10-22T08:52:47.822Z"
+    },
+    {
+      "id": 25868,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "💻 Женщина в завещании оставила ребенка на ChatGPTЖительница Абу-Даби внесла в проект завещания условие, по которому в случае ее смерти до совершеннолетия сына опекуны должны советоваться с ChatGPT по",
+      "description_en": "💻 Женщина в завещании оставила ребенка на ChatGPTЖительница Абу-Даби внесла в проект завещания условие, по которому в случае ее смерти до совершеннолетия сына опекуны должны советоваться с ChatGPT по важным вопросам воспитания. Среди них — выбор школы и места жительства, медицина, религиозное воспитание и общение с ее семьей.Для этого женщина подготовила отдельный «Протокол жизненных пожеланий», в котором изложила свои ценности, принципы воспитания и представления о том, как должен жить ее сын.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3756",
+      "image_url": "https://cdn4.telesco.pe/file/psHkKO5l_mgJrZfC8x5BXazCWr3Pvg5fxqi7Xa5eC06rMK20fV_Y9B6evghufDfXbs8yeojhOInEmZBmx5SzO47D5IWCIeP3wQskDOHqHZy_2avOTKnH1GVjMOeuuB1Sw3DIHAoz3F2GnC82HM4Js4-VdX20KayWupkJprI9NI1YJqQqe5OiI-RrnJDaGlzaV1rcjnpM9bYOSuRl3Bg58XPLKkSpg9oDl9JN5bo59McVuDnr9fu2FwB_TKqFeoNgh0jo3mK2xuwqQ6ogjcyxRBN3cYWiuVWerciJGuCGlwBDPr-6c23t52OqwgCE7DK_cJbCN_rFzJflI3kHropmlw.jpg",
+      "pub_date": "2026-10-22T06:12:41+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-22T08:52:47.852Z",
+      "created_at": "2026-10-22T08:52:47.852Z"
+    },
+    {
+      "id": 25869,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "❗️ Switch 2 взломали с помощью CodexРазработчик Сэмми Хаджхамид (pepsipu) рассказал в своем блоге, что ему удалось создать джейлбрейк для Nintendo Switch 2 на актуальной прошивке 23.0.1. Он позволяет ",
+      "description_en": "❗️ Switch 2 взломали с помощью CodexРазработчик Сэмми Хаджхамид (pepsipu) рассказал в своем блоге, что ему удалось создать джейлбрейк для Nintendo Switch 2 на актуальной прошивке 23.0.1. Он позволяет запускать на Switch 2 собственный код с системными привилегиями — например, модифицировать игры и экспериментировать с внутренним устройством консоли.В качестве демонстрации pepsipu добавил новых персонажей в Mario Kart World.🔍 Для поиска эксплойта разработчик использовал ИИ-агента Codex. Причем он",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3757",
+      "image_url": null,
+      "pub_date": "2026-10-22T08:00:42+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T08:52:47.852Z",
+      "created_at": "2026-10-22T08:52:47.852Z"
+    },
+    {
+      "id": 25870,
+      "source": "Data Science ODS.ai (TG)",
+      "title_en": "we are glad to announce that tomorrow 10 am UTC+3 Valentin Malykh and Dmitry Kolodezev will will host an Ask Me Anything session with Zheng Wang - one the main contributors to openJiuwen platform  Zhe",
+      "description_en": "we are glad to announce that tomorrow 10 am UTC+3 Valentin Malykh and Dmitry Kolodezev will will host an Ask Me Anything session with Zheng Wang - one the main contributors to openJiuwen platform  Zheng Wang is also an author of several well-known papers on…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/opendatascience/3446",
+      "image_url": null,
+      "pub_date": "2026-10-22T07:14:08+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T08:52:47.871Z",
+      "created_at": "2026-10-22T08:52:47.871Z"
+    },
+    {
+      "id": 25871,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Meta's new enterprise AI contract says if the model screws up, that's on youCIO reports the terms push legal liability for AI errors onto the customer, not Meta. Hallucinated output, bad decision, ",
+      "description_en": "🚨 Meta's new enterprise AI contract says if the model screws up, that's on youCIO reports the terms push legal liability for AI errors onto the customer, not Meta. Hallucinated output, bad decision, your problem. Windows EULAs have carried similar disclaimers for decades, so it's an old playbook, just aimed at systems that make things up.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/804",
+      "image_url": null,
+      "pub_date": "2026-10-22T07:33:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T08:52:48.161Z",
+      "created_at": "2026-10-22T08:52:48.161Z"
     }
   ]
 }
