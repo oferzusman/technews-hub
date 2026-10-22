@@ -561797,6 +561797,45 @@
       "priority": "batch",
       "fetchedAt": "2026-10-22T18:42:57.820Z",
       "created_at": "2026-10-22T18:42:57.820Z"
+    },
+    {
+      "id": 25959,
+      "source": "TechCrunch AI",
+      "title_en": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "description_en": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "image_url": null,
+      "pub_date": "Thu, 22 Oct 2026 18:43:53 +0000",
+      "author": "Rebecca Bellan",
+      "categories": [
+        "AI",
+        "Biotech & Health",
+        "microsoft AI",
+        "Mustafa Suleyman"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T18:52:42.850Z",
+      "created_at": "2026-10-22T18:52:42.850Z"
+    },
+    {
+      "id": 25960,
+      "source": "New Atlas",
+      "title_en": "Instant wearable airbag goes ultralight and tiny by ditching battery",
+      "description_en": "Dainese's just made what's arguably the smallest and lightest motorcycle airbag vest on the market. It's pulled this off by ditching the bulky battery that every other vest comes with, and runs off power from your phone instead.\nContinue Reading\nCategory: Motorcycles, Transport\nTags: Dainese, Airbag, Airbags, Road Safety",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/motorcycles/dainese-smart-go-motorcycling-airbag/",
+      "image_url": null,
+      "pub_date": "Thu, 22 Oct 2026 18:37:00 GMT",
+      "author": "Abhimanyu Ghoshal",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-22T18:52:44.862Z",
+      "created_at": "2026-10-22T18:52:44.862Z"
     }
   ]
 }
