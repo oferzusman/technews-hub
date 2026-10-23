@@ -1,9 +1,9 @@
 {
-  "total": 26061,
-  "translated": 26054,
+  "total": 26063,
+  "translated": 26056,
   "untranslated": 7,
-  "today": 77,
-  "week": 815,
+  "today": 79,
+  "week": 817,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1650,
-      "translated": 1650,
+      "total": 1651,
+      "translated": 1651,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 1417,
-      "translated": 1417,
+      "total": 1418,
+      "translated": 1418,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-23T15:13:13.374Z"
+  "generatedAt": "2026-10-23T15:50:54.639Z"
 }
