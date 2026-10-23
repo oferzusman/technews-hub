@@ -1,9 +1,9 @@
 {
-  "total": 26093,
-  "translated": 26086,
+  "total": 26104,
+  "translated": 26097,
   "untranslated": 7,
-  "today": 109,
-  "week": 847,
+  "today": 120,
+  "week": 858,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,27 +13,27 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2236,
-      "translated": 2236,
+      "total": 2239,
+      "translated": 2239,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1722,
-      "translated": 1722,
+      "total": 1723,
+      "translated": 1723,
       "lastDate": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1653,
-      "translated": 1653,
+      "total": 1654,
+      "translated": 1654,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1528,
-      "translated": 1526,
-      "lastDate": "2026-10-23T18:54:45+00:00"
+      "total": 1529,
+      "translated": 1527,
+      "lastDate": "2026-10-23T21:36:15+00:00"
     },
     {
       "name": "Product Hunt",
@@ -61,21 +61,21 @@
     },
     {
       "name": "Ars Technica",
-      "total": 1127,
-      "translated": 1127,
+      "total": 1128,
+      "translated": 1128,
       "lastDate": "Wed, 30 Sep 2026 20:44:48 +0000"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 997,
-      "translated": 995,
-      "lastDate": "2026-10-23T17:28:38+00:00"
+      "total": 998,
+      "translated": 996,
+      "lastDate": "2026-10-23T21:37:59+00:00"
     },
     {
       "name": "The Verge AI",
-      "total": 928,
-      "translated": 928,
-      "lastDate": "2026-10-23T17:00:18.000Z"
+      "total": 930,
+      "translated": 930,
+      "lastDate": "2026-10-23T21:11:07.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -85,9 +85,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 691,
-      "translated": 691,
-      "lastDate": "2026-10-23T17:14:49+00:00"
+      "total": 692,
+      "translated": 692,
+      "lastDate": "2026-10-23T19:59:51+00:00"
     },
     {
       "name": "Backdoor (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-23T20:34:28.173Z"
+  "generatedAt": "2026-10-23T22:18:40.408Z"
 }
