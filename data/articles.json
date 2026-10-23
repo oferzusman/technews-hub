@@ -563297,6 +563297,743 @@
       "priority": "hot",
       "fetchedAt": "2026-10-23T11:05:01.564Z",
       "created_at": "2026-10-23T11:05:01.564Z"
+    },
+    {
+      "id": 26027,
+      "source": "The Verge AI",
+      "title_en": "Meta delays new business terms after publisher pushback on AI scraping",
+      "description_en": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th \"to allow more time for us to explain to our partners and stakeholders what's changing and what's not.\"\nThe business terms, which were originally supposed to go into effect on October 3",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "image_url": null,
+      "pub_date": "2026-10-23T14:47:41.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T15:09:33.108Z",
+      "created_at": "2026-10-23T15:09:33.108Z"
+    },
+    {
+      "id": 26028,
+      "source": "The Verge AI",
+      "title_en": "Retro gaming is being overrun with AI",
+      "description_en": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality.  Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as hobbyists take apart games and then rebuild them for new platforms. But while AI has supercharged the pace of these ports, it's also tearing apart tight-knit communities dedicated to pre",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "image_url": null,
+      "pub_date": "2026-10-23T12:00:00.000Z",
+      "author": "Andrew Webster",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T15:09:33.108Z",
+      "created_at": "2026-10-23T15:09:33.108Z"
+    },
+    {
+      "id": 26029,
+      "source": "Ars Technica",
+      "title_en": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+      "description_en": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Starlink-terminal-in-Ukraine-1152x648.jpg",
+      "pub_date": "Fri, 23 Oct 2026 11:30:22 +0000",
+      "author": "\n                    Jeremy Hsu\n                ",
+      "categories": [
+        "Tech",
+        "AI drones",
+        "drones",
+        "Elon Musk",
+        "military drones",
+        "Russia invasion of Ukraine",
+        "Russia war on Ukraine",
+        "Russian invasion of Ukraine",
+        "Russian war on Ukraine",
+        "spacex starlink",
+        "starlink",
+        "Ukraine",
+        "ukraine starlink",
+        "Ukraine war"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T15:09:33.143Z",
+      "created_at": "2026-10-23T15:09:33.143Z"
+    },
+    {
+      "id": 26030,
+      "source": "Ars Technica",
+      "title_en": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
+      "description_en": "Friday the 13th prequel series based on Jason’s mom drags at first, then hits a vein.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Crystal-Lake-via-Peacock-Matt-Infante-1000x648.webp",
+      "pub_date": "Fri, 23 Oct 2026 11:15:03 +0000",
+      "author": "\n                    Ashley Belanger\n                ",
+      "categories": [
+        "Culture",
+        "Reviews",
+        "a24 studio",
+        "body horror",
+        "crystal lake",
+        "Friday the 13th",
+        "horror",
+        "peacock"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T15:09:33.143Z",
+      "created_at": "2026-10-23T15:09:33.143Z"
+    },
+    {
+      "id": 26031,
+      "source": "The Decoder",
+      "title_en": "Canva launches Craft, its first in-house image model",
+      "description_en": "Design platform Canva has released Canva Craft, its first in-house image generation model.\nThe article Canva launches Craft, its first in-house image model appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/canva-launches-craft-its-first-in-house-image-model/",
+      "image_url": null,
+      "pub_date": "Fri, 23 Oct 2026 11:36:30 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Canva",
+        "Canva Craft"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T15:09:34.359Z",
+      "created_at": "2026-10-23T15:09:34.359Z"
+    },
+    {
+      "id": 26032,
+      "source": "The Decoder",
+      "title_en": "Anthropic's Claude now writes code and proves it safe automatically",
+      "description_en": "Anthropic had Claude generate mathematical proofs that existing code is correct, producing roughly 180 million lines of proof code for 123 open-source libraries. Along the way, the model caught bugs that years of testing had missed. Anthropic's goal: making formal verification with AI as routine as standard testing.\nThe article Anthropic's Claude now writes code and proves it safe automatically appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/",
+      "image_url": null,
+      "pub_date": "Fri, 23 Oct 2026 11:32:19 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Claude"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T15:09:34.359Z",
+      "created_at": "2026-10-23T15:09:34.359Z"
+    },
+    {
+      "id": 26033,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: testing six tech promises and biotech’s blind spots",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely. Scrubbing…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+      "image_url": null,
+      "pub_date": "Fri, 23 Oct 2026 12:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T15:09:34.416Z",
+      "created_at": "2026-10-23T15:09:34.416Z"
+    },
+    {
+      "id": 26034,
+      "source": "Hugging Face Blog",
+      "title_en": "Does Your Model Run on AWS Trainium? Look It Up",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "image_url": null,
+      "pub_date": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T15:09:34.718Z",
+      "created_at": "2026-10-23T15:09:34.718Z"
+    },
+    {
+      "id": 26035,
+      "source": "New Atlas",
+      "title_en": "Rollable bike rack takes the strain out of loading",
+      "description_en": "A startup based in New Zealand has devised a great way to take your bicycles with you on your next adventure, and you won't need to lift a thing.\nContinue Reading\nCategory: Bicycles, Transport\nTags: Bike Racks, Mountain Bikes, Outdoors and Camping, Bikes, Kickstarter",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/bicycles/goover-rollable-bike-rack/",
+      "image_url": null,
+      "pub_date": "Fri, 23 Oct 2026 14:23:00 GMT",
+      "author": "Abhimanyu Ghoshal",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T15:09:34.968Z",
+      "created_at": "2026-10-23T15:09:34.968Z"
+    },
+    {
+      "id": 26036,
+      "source": "The Guardian AI",
+      "title_en": "Modern life is stuck in a sea of sameness. The pursuit of beauty is a necessary antidote | Brigid Delaney",
+      "description_en": "Everything has become so frictionless and optimised, that concerted efforts must be made to turn back towards beauty and individuality – even if it has no explicit market value\nBy the time it’s 5pm on a Friday, the headache and dry eyes have well and truly settled in. Maybe it’s a long day in front of your four screens while funnelling white noise through a large pair of headphones to cancel out the calls of your co-workers. Or maybe it’s the almost chemical wash of white fluorescent lights that",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/world/2026/oct/24/modern-life-is-stuck-in-a-sea-of-sameness-the-pursuit-of-beauty-is-a-necessary-antidote",
+      "image_url": "https://i.guim.co.uk/img/media/0fdf628f66f3857a645a836df4568f0cfb3e6065/399_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=89fef14d334f27c4c367e30b31472c7e",
+      "pub_date": "Fri, 23 Oct 2026 14:00:30 GMT",
+      "author": "Brigid Delaney",
+      "categories": [
+        {
+          "_": "Philosophy",
+          "$": {
+            "domain": "https://www.theguardian.com/world/philosophy"
+          }
+        },
+        {
+          "_": "Life and style",
+          "$": {
+            "domain": "https://www.theguardian.com/lifeandstyle/lifeandstyle"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T15:09:35.224Z",
+      "created_at": "2026-10-23T15:09:35.224Z"
+    },
+    {
+      "id": 26037,
+      "source": "The Guardian AI",
+      "title_en": "Experts cast doubt on Anthropic report detailing how AI has altered work at the company",
+      "description_en": "Anthropic claims AI will shift how work gets done and labor demand – but some experts are skeptical of the vision\nLast year, Anthropic CEO Dario Amodei warned that artificial intelligence could eliminate half of entry-level white-collar jobs and that in six months it would be writing 90% of code. Neither of those predictions came to pass.\nNow, in a report Anthropic published on Thursday, the company said it was hiring fewer junior technical workers and that human attention has become the new “bo",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts",
+      "image_url": "https://i.guim.co.uk/img/media/7f1d891b55886b1bfb45b0cdd3e7df3e842cbdce/0_31_3364_2691/master/3364.jpg?width=140&quality=85&auto=format&fit=max&s=52de23b160d36f35c5482fa021f2448e",
+      "pub_date": "Fri, 23 Oct 2026 14:00:28 GMT",
+      "author": "Ramin Skibba",
+      "categories": [
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Dario Amodei",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/dario-amodei"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Chatbots",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatbots"
+          }
+        },
+        {
+          "_": "US work & careers",
+          "$": {
+            "domain": "https://www.theguardian.com/money/work-careers-us"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T15:09:35.224Z",
+      "created_at": "2026-10-23T15:09:35.224Z"
+    },
+    {
+      "id": 26038,
+      "source": "Interesting Engineering",
+      "title_en": "US Abrams tank gains new kit to launch kamikaze drones at targets beyond 18 miles",
+      "description_en": "General Dynamics Land Systems has unveiled PERCH 2.0, an upgraded launcher kit that equips M1A2...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-abrams-tanks-perch-drone-launcher",
+      "image_url": null,
+      "pub_date": "Fri, 23 Oct 2026 14:18:10 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T15:09:35.955Z",
+      "created_at": "2026-10-23T15:09:35.955Z"
+    },
+    {
+      "id": 26039,
+      "source": "Interesting Engineering",
+      "title_en": "740 acres forest cleared: Finland orders Google to halt work on two AI data center sites",
+      "description_en": "Finnish authorities have ordered Google to stop preparatory work at two data center sites after...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/culture/finland-halts-google-data-center-work-deforestation",
+      "image_url": null,
+      "pub_date": "Fri, 23 Oct 2026 13:59:45 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "Culture"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T15:09:35.955Z",
+      "created_at": "2026-10-23T15:09:35.955Z"
+    },
+    {
+      "id": 26040,
+      "source": "Interesting Engineering",
+      "title_en": "NEURA’s 20% lighter humanoid robot with touch and force sensing moves toward production",
+      "description_en": "NEURA Robotics has unveiled 4NE1 Gen 4, a humanoid robot designed for serial production that...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/neuras-lighter-humanoid-unveiled",
+      "image_url": "https://www.youtube.com/embed/u02bHNHkqxg",
+      "pub_date": "Fri, 23 Oct 2026 13:48:15 +0000",
+      "author": "Jijo Malayil",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T15:09:35.955Z",
+      "created_at": "2026-10-23T15:09:35.955Z"
+    },
+    {
+      "id": 26041,
+      "source": "Interesting Engineering",
+      "title_en": "CO2 capture in under one second: Scientists test a faster way to clean air",
+      "description_en": "Researchers at Switzerland’s Empa research institute are developing a direct air capture technology that removes...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/carbon-capture-technology-works-in-seconds",
+      "image_url": null,
+      "pub_date": "Fri, 23 Oct 2026 13:42:28 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T15:09:35.955Z",
+      "created_at": "2026-10-23T15:09:35.955Z"
+    },
+    {
+      "id": 26042,
+      "source": "Interesting Engineering",
+      "title_en": "Retired US Navy Fire Scout helicopters turned into flying testbeds for new sensors",
+      "description_en": "The U.S. Army has begun flight testing four MQ-8C Fire Scout unmanned helicopters, repurposing aircraft...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-army-retired-fire-scout-helicopters",
+      "image_url": null,
+      "pub_date": "Fri, 23 Oct 2026 13:42:25 +0000",
+      "author": "Sujita Sinha",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T15:09:35.955Z",
+      "created_at": "2026-10-23T15:09:35.955Z"
+    },
+    {
+      "id": 26043,
+      "source": "Interesting Engineering",
+      "title_en": "Supersonic X-59 jet hits Mach 1.4 speed at 55,000 feet in milestone flight test",
+      "description_en": "For nearly 11 years, test pilot Mike Lippert pushed high-performance aircraft to maximum performance. But...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/nasa-supersonic-x-59-jet-flight",
+      "image_url": "https://www.youtube.com/embed/gD7wMZL1eZ4",
+      "pub_date": "Fri, 23 Oct 2026 13:37:36 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [
+        "Transportation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T15:09:35.955Z",
+      "created_at": "2026-10-23T15:09:35.955Z"
+    },
+    {
+      "id": 26044,
+      "source": "Interesting Engineering",
+      "title_en": "311 miles in five minutes: China’s 1.44 MW EV charger promises to slash wait times",
+      "description_en": "Five minutes plugged into a charger could add 311 miles of driving range, according to...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/1-44-mw-ev-charger-unveiled",
+      "image_url": null,
+      "pub_date": "Fri, 23 Oct 2026 13:25:57 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [
+        "Transportation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T15:09:35.955Z",
+      "created_at": "2026-10-23T15:09:35.955Z"
+    },
+    {
+      "id": 26045,
+      "source": "Tom's Hardware",
+      "title_en": "Gigabyte Z890M Aorus Elite WiFi7 Motherboard Review: Icy-white SFF board offers full-size features for Intel",
+      "description_en": "The $209 Gigabyte Z890M Aorus Elite Wifi 7 Ice is one of the better-looking Micro ATX boards, with an icy-white aesthetic and full heatsink coverage that give it a premium vibe for white-themed Intel builds.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/motherboards/gigabyte-z890m-aorus-elite-wifi7-motherboard-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/3H68kTuxq7PEgdfpZT2XPm-1920-80.jpg",
+      "pub_date": "Fri, 23 Oct 2026 15:00:00 +0000",
+      "author": " Joe Shields ",
+      "categories": [
+        "Motherboards",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T15:09:36.233Z",
+      "created_at": "2026-10-23T15:09:36.233Z"
+    },
+    {
+      "id": 26046,
+      "source": "Tom's Hardware",
+      "title_en": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia",
+      "description_en": "Amazon has ditched its plans to build four new data centers in Loudoun County, Northern Virginia, following an outcry from local residents and officials. The land will now be repurposed for mixed and residential use.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/amazon-bows-to-local-backlash-over-ai-data-centers-scraps-plans-to-build-four-new-facilities-in-northern-virginia-site-to-be-repurposed-for-mixed-use-and-residential-development",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/eUBbKqSoTbmPLiP7oLHcvh-1920-80.jpg",
+      "pub_date": "Fri, 23 Oct 2026 13:36:50 +0000",
+      "author": " Oliver Haslam ",
+      "categories": [
+        "Data Centers",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T15:09:36.234Z",
+      "created_at": "2026-10-23T15:09:36.234Z"
+    },
+    {
+      "id": 26047,
+      "source": "Tom's Hardware",
+      "title_en": "Bambu Lab teases its mysterious H3C tool changer 3D printer",
+      "description_en": "Bambu Lab’s long-awaited tool changer H3C launches Nov. 3, 2026.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/3d-printing/bambu-lab-teases-its-mysterious-h3c-tool-changer-3d-printer-features-nine-tools-and-a-drop-down-rack-slated-for-november-3-launch",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/HjoG8FYWEqeh9XcgvRjnY6-1920-80.png",
+      "pub_date": "Fri, 23 Oct 2026 13:00:00 +0000",
+      "author": " Denise Bertacchi ",
+      "categories": [
+        "3D Printing"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T15:09:36.234Z",
+      "created_at": "2026-10-23T15:09:36.234Z"
+    },
+    {
+      "id": 26048,
+      "source": "Tom's Hardware",
+      "title_en": "Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network",
+      "description_en": "A security firm has been able to identify 32 Nvidia Blackwell Ultra B300 AI chips running inside a China Telecom network, but it's unclear where the export-barred components are physically located.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/illegal-nvidia-blackwell-ultra-b300-gpus-found-inside-state-owned-china-telecoms-network-nvidia-says-chip-smuggling-a-drop-in-the-bucket-insists-smuggling-remains-a-nonfactor",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/kPWDNNZTPJyoeQtTCpMqQi-1920-80.jpg",
+      "pub_date": "Fri, 23 Oct 2026 12:26:23 +0000",
+      "author": " Oliver Haslam ",
+      "categories": [
+        "Data Centers",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T15:09:36.234Z",
+      "created_at": "2026-10-23T15:09:36.234Z"
+    },
+    {
+      "id": 26049,
+      "source": "Tom's Hardware",
+      "title_en": "FCC issues first bans under new chip-level rule",
+      "description_en": "FCC bans a dashcam and wireless video transmitter produced by HiSilicon, a subsidiary of Huawei for containing an AI chip that advertises face detection algorithms.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/fcc-bans-first-two-devices-from-the-us-under-new-chip-level-rule-huawei-subsidiary-chip-boasts-face-detection-algorithm",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/FhrgMpu9kjGuT5ZVpNWx6g-1920-80.jpg",
+      "pub_date": "Fri, 23 Oct 2026 12:15:00 +0000",
+      "author": " Jhet Borja ",
+      "categories": [
+        "Cybersecurity",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T15:09:36.234Z",
+      "created_at": "2026-10-23T15:09:36.234Z"
+    },
+    {
+      "id": 26050,
+      "source": "Tom's Hardware",
+      "title_en": "Deepseek's latest AI model is smarter than ever, but its low running costs come at a price",
+      "description_en": "Deepseek 4.1 Flash 1017 drives cost-per-task further down still — open-weight model is fit for agentic workloads and exceedingly cheap to run",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseeks-latest-ai-model-is-smarter-than-ever-but-its-low-running-costs-come-at-a-price-open-weight-model-is-fit-for-agentic-workloads-but-is-more-prone-to-hallucination-than-proprietary-competitors",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/QzsaWZn9raSdwCW8ecQ7gi-1920-80.jpg",
+      "pub_date": "Fri, 23 Oct 2026 12:00:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T15:09:36.234Z",
+      "created_at": "2026-10-23T15:09:36.234Z"
+    },
+    {
+      "id": 26051,
+      "source": "Tom's Hardware",
+      "title_en": "US banks scramble to restrict AI agent activity",
+      "description_en": "Several U.S. banks are blocking AI agents from making transactions on their platforms. They fear that those agents could go rogue and there's no way to tell if the moves they make are legitimate or not.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/us-banks-scramble-to-restrict-ai-agent-activity-agents-detected-accessing-customer-accounts-or-even-attempting-to-make-transactions-in-breach-of-policy",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/pS86PgwskdTyusDMAhY3Qo-1920-80.png",
+      "pub_date": "Fri, 23 Oct 2026 11:30:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Cybersecurity",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T15:09:36.234Z",
+      "created_at": "2026-10-23T15:09:36.234Z"
+    },
+    {
+      "id": 26052,
+      "source": "Tom's Hardware",
+      "title_en": "Consultant comes clean for sparking worldwide panic by accidentally breaking the PHP vulnerability embargo",
+      "description_en": "The user said that they only wanted to alert others about the importance of the upcoming CVE releases and weren't told about the embargo.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/devastated-forum-user-who-accidentally-broke-the-php-news-embargo-comes-clean-user-says-they-were-unaware-of-disclosure-restrictions-move-clearly-backfired-in-a-pretty-wild-fashion",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/treU54HC35g9uxgWUT2cYD-1920-80.png",
+      "pub_date": "Fri, 23 Oct 2026 11:15:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Cybersecurity",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T15:09:36.234Z",
+      "created_at": "2026-10-23T15:09:36.234Z"
+    },
+    {
+      "id": 26053,
+      "source": "CNBC Tech",
+      "title_en": "AI agents could disrupt bank deposits. Why Wall Street may be overreacting",
+      "description_en": "Analysts say the fears that AI agents could disrupt the banking industry are overblown, for now.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/investingclub/2026/10/23/ai-agents-could-disrupt-bank-deposits-why-wall-street-may-be-overreacting.html",
+      "image_url": null,
+      "pub_date": "Fri, 23 Oct 2026 15:00:49 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T15:09:36.336Z",
+      "created_at": "2026-10-23T15:09:36.336Z"
+    },
+    {
+      "id": 26054,
+      "source": "CNBC Tech",
+      "title_en": "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine",
+      "description_en": "A letter demanding an investigation indicates Democrats will make investigating Starlink's interruption a top priority if they win control of the U.S. House.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html",
+      "image_url": null,
+      "pub_date": "Fri, 23 Oct 2026 14:01:42 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T15:09:36.337Z",
+      "created_at": "2026-10-23T15:09:36.337Z"
+    },
+    {
+      "id": 26055,
+      "source": "CNBC Tech",
+      "title_en": "On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress",
+      "description_en": "The word on the ground from Nvidia's GTC conference in Berlin.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html",
+      "image_url": null,
+      "pub_date": "Fri, 23 Oct 2026 12:08:30 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T15:09:36.337Z",
+      "created_at": "2026-10-23T15:09:36.337Z"
+    },
+    {
+      "id": 26056,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ В Telegram добавят ИИ-агентов — Claude, ChatGPT и другие нейронки можно будет подключить прямо в мессенджере официально.Юзеры смогут добавить свои API-ключи и выбрать любую модель: от Google, OpenA",
+      "description_en": "⚡️ В Telegram добавят ИИ-агентов — Claude, ChatGPT и другие нейронки можно будет подключить прямо в мессенджере официально.Юзеры смогут добавить свои API-ключи и выбрать любую модель: от Google, OpenAI, Anthropic и других топов.• Между нейронками можно переключаться в любой момент.• Задачи можно будет раскидать по разным агентам: один пишет код, второй — текст и так далее.• Больше не нужно будет скачивать разные клиенты или заходить на сайты.Дуров убил Claude Code.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32415",
+      "image_url": "https://cdn4.telesco.pe/file/qOpDPTQA6klhY0GDB72K18xhBudctsK8iHshmMhckn86pMJM7tsNhwD3fbUT8gJlVA1fGDSYWplqX6ptDQo1Q84VR8haJX9rHiDQNHux2ww70XU2oTkzpFcQkrN-PPtnhsbXqyrysMAf_m36YvqX1YQKYmqyAg_vfEvkazfOiucKwbshSqMMRj0rU2N143rbXPDudCsKewnL1TOjZYLURkOEthatqa9fzzHkkS1ELLv4YIcZI2bUSdE-jbjXHu3aYON1CQuGvXQKeWlNloMdzptXqJ9uem22vA5Gi3IqshSS9k8KnY_TRP--0H5LtZyYDkoIkQeIp114LAs54OohLQ.jpg",
+      "pub_date": "2026-10-23T11:14:57+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T15:09:41.584Z",
+      "created_at": "2026-10-23T15:09:41.584Z"
+    },
+    {
+      "id": 26057,
+      "source": "XOR Journal (TG)",
+      "title_en": "В Японии на работу вышли роботы-тяжеловесы: железнодорожная компания JR West представила двух гигантов для обслуживания путей.Один способен поднимать грузы до 120 кг, а второй орудует бензопилой на вы",
+      "description_en": "В Японии на работу вышли роботы-тяжеловесы: железнодорожная компания JR West представила двух гигантов для обслуживания путей.Один способен поднимать грузы до 120 кг, а второй орудует бензопилой на высоте до 15 метров, спиливает деревья и расчищает пути. И это не прототип, железяки реально уже начинают работать.Какие же они жуткие 😱@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10356",
+      "image_url": null,
+      "pub_date": "2026-10-23T13:11:42+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T15:09:41.610Z",
+      "created_at": "2026-10-23T15:09:41.610Z"
+    },
+    {
+      "id": 26058,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "💼 Как превратить нейросети в надежного помощника для вашего бизнеса? Об этом расскажут в день «Бизнес» на международной конференции по искусственному интеллекту AI Journey, которая пройдет с 26 по 28",
+      "description_en": "💼 Как превратить нейросети в надежного помощника для вашего бизнеса? Об этом расскажут в день «Бизнес» на международной конференции по искусственному интеллекту AI Journey, которая пройдет с 26 по 28 ноября.Что в программе:✅ Практические кейсы компаний, которые внедряют ИИ.✅ Выступления российских и международных экспертов.✅ Выставка новейших ИИ-продуктов и исследовательских разработок.✅ Нетворкинг с лидерами индустрии.AI Journey — идеальная возможность посмотреть на свой бизнес под новым углом",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3763",
+      "image_url": "https://cdn4.telesco.pe/file/QgtCn-bBHFfBlPIxyFiAL47pjmtIyv1m-iS3aZlERFV2aa57ZWFgVzDRWY-uDL55nuQnosxkdAJovUTH1RSXbWokqEzZFygJq8Ug18Q8YAIJu4OTBUKWb1c3Lw0JkoC9wBeccKigsczVNtZDT8newsRkJMQ6WozlWBj_X6ey4bvLDDhQw46Gx6av3IrRXNe5czqhTswWhUVa_wM4fXZ-BgnVnZvmWlg0o_rmVEXokH01_5CLCie2W7tu7ufK2sCDnyFLUQNXcJIndX1w2nae_MVZZYSIpoZXA7-tNNkOplgPfzB6cbFK_Qs9Ho0AZPODelyvQgrg9cvg8lQHmWXZpw.jpg",
+      "pub_date": "2026-10-23T12:49:57+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T15:09:41.872Z",
+      "created_at": "2026-10-23T15:09:41.872Z"
+    },
+    {
+      "id": 26059,
+      "source": "AI Post (TG)",
+      "title_en": "📢 A stock research firm used Claude to design proteins and sent them to a real lab.A financial research firm spent $200,000 testing whether AI could design entirely new proteins that actually work in",
+      "description_en": "📢 A stock research firm used Claude to design proteins and sent them to a real lab.A financial research firm spent $200,000 testing whether AI could design entirely new proteins that actually work in a laboratory. The five-person team included three people with no scientific background.They used Anthropic’s more advanced internal Claude model, running it on the company’s own machines. In a single night, Claude reportedly launched more than 300 sub-agents across 300+ GPUs to design and evaluate ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8589",
+      "image_url": "https://cdn4.telesco.pe/file/tFzYLjrE8s47iDju8snyLOocbHqEYdRJqOlTk8gkvXugbdiV8Ssvujw6mo-Saooo3rJcrDDtD3THtvYTusmxO0xrLhd4o4IPriEEgfl1txKMEXmUO6uoAcQccGyp7o7zCuHWWjKjr3jeq9EzRqfNC6a5munVoy9PwNt9UUHA8Va0otiGbzSorJfiCM9mthJ_jzvsK8aq4cooqQJf4rZFEOufZ2DPuaLeTT6FBtyy_9Ziz79Dmu0Nr3ygcm6IZl2FudWB0UQf6E1G3CW_iujkJeQ65hloQu3rWzT1cKXJWBqL_QyVPEZq_BJ9mO3X7_kyFYQfMWX9e_cHMheINJQkVA.jpg",
+      "pub_date": "2026-10-23T11:09:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T15:09:42.041Z",
+      "created_at": "2026-10-23T15:09:42.041Z"
+    },
+    {
+      "id": 26060,
+      "source": "Data Science ODS.ai (TG)",
+      "title_en": "🚀 Stage 2 of the SWE MERA Challenge has started!Here's what's new this time:🔹 Evaluation now runs inside Docker — your model and (optionally) a harness solve the tasks there🔹 48 tasks in Go, Python",
+      "description_en": "🚀 Stage 2 of the SWE MERA Challenge has started!Here's what's new this time:🔹 Evaluation now runs inside Docker — your model and (optionally) a harness solve the tasks there🔹 48 tasks in Go, Python, PHP, and one more language, with varying difficulty levels🔹 We're giving you half of an NVIDIA PRO 6000 to run the modelsBig thanks to Kazteleport for providing the GPUs for the competition! 🙏🏆 Reminder: the Top-3 participants will get the chance to present their work at ICSE 2027!Join the chal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/opendatascience/3451",
+      "image_url": "https://cdn4.telesco.pe/file/byC9Ah1m-lFKY9-4Azrnek-zXXa-G4ZlDxWrIIx3rogIZ64JZmhWCHuZb1mqNmps2U_1hYQnT6mjY5v0BJlMpWF-Xq40-Rd-02l-oc7mEBRv3qzuvGhVtCfd5DQyMdhRVzK4v4dU3V-cH4eFi49RsvU_f4SjMRrBBPXDs4TKTrL2YlHinPbYiSqkPM5piUmtmjs1P5PLe3H37zYvyUGHqv2jcHIPV5M4D-KHI0a3ylhfMpHlC5A8ev25gR52NBhsvmQVt-f2KtsblVo0kr8_4L8W1dv8x3L2QMiwBybQ-grWH4-fcgN6kYnnshtZM9Tujv03pQus1UnHO9TeRzALIw.jpg",
+      "pub_date": "2026-10-23T11:10:11+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T15:09:42.061Z",
+      "created_at": "2026-10-23T15:09:42.061Z"
+    },
+    {
+      "id": 26061,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 EU states back a GDPR change that makes AI processing of personal data lawful by defaultThe Council approved a Digital Omnibus text saying personal data processed \"in the context of AI\" is automati",
+      "description_en": "🚨 EU states back a GDPR change that makes AI processing of personal data lawful by defaultThe Council approved a Digital Omnibus text saying personal data processed \"in the context of AI\" is automatically lawful. Privacy group noyb says that opens decades of collected data to Big Tech with few limits.Max Schrems calls it \"digital expropriation.\" The Commission pitched the package as minor simplification and fast-tracked it with no fundamental rights assessment.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/814",
+      "image_url": null,
+      "pub_date": "2026-10-23T13:43:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T15:09:42.313Z",
+      "created_at": "2026-10-23T15:09:42.313Z"
     }
   ]
 }
