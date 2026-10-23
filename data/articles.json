@@ -562656,6 +562656,503 @@
       "priority": "hot",
       "fetchedAt": "2026-10-23T05:45:47.702Z",
       "created_at": "2026-10-23T05:45:47.702Z"
+    },
+    {
+      "id": 25999,
+      "source": "The Decoder",
+      "title_en": "OpenAI lowers valuation target, raises up to $30 billion",
+      "description_en": "OpenAI is closing in on a new funding round of up to $30 billion but has lowered its valuation target to get there.\nThe article OpenAI lowers valuation target, raises up to $30 billion appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
+      "image_url": null,
+      "pub_date": "Fri, 23 Oct 2026 09:49:38 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T10:14:06.480Z",
+      "created_at": "2026-10-23T10:14:06.480Z"
+    },
+    {
+      "id": 26000,
+      "source": "MarkTechPost",
+      "title_en": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
+      "description_en": "TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents.\nThe post TinyFish Breaks Down Agentic Search Architecture for Production AI Agents appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
+      "image_url": null,
+      "pub_date": "Fri, 23 Oct 2026 08:58:47 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Context Engineering",
+        "Editors Pick",
+        "Enterprise AI",
+        "For Devs",
+        "Harness",
+        "New Releases",
+        "Promote",
+        "Software Engineering",
+        "Sponsored",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Uncategorized"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T10:14:06.643Z",
+      "created_at": "2026-10-23T10:14:06.643Z"
+    },
+    {
+      "id": 26001,
+      "source": "MarkTechPost",
+      "title_en": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
+      "description_en": "Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months.\nThe post Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
+      "image_url": null,
+      "pub_date": "Fri, 23 Oct 2026 06:05:10 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Context Engineering",
+        "Editors Pick",
+        "Harness",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Uncategorized"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T10:14:06.643Z",
+      "created_at": "2026-10-23T10:14:06.643Z"
+    },
+    {
+      "id": 26002,
+      "source": "MarkTechPost",
+      "title_en": "You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA",
+      "description_en": "You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no platform fee.\nThe post You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/",
+      "image_url": null,
+      "pub_date": "Fri, 23 Oct 2026 05:28:21 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Enterprise AI",
+        "For Devs",
+        "Language Model",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T10:14:06.643Z",
+      "created_at": "2026-10-23T10:14:06.643Z"
+    },
+    {
+      "id": 26003,
+      "source": "OpenAI Blog",
+      "title_en": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "description_en": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "image_url": null,
+      "pub_date": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Global Affairs"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T10:14:06.737Z",
+      "created_at": "2026-10-23T10:14:06.737Z"
+    },
+    {
+      "id": 26004,
+      "source": "New Atlas",
+      "title_en": "Wearable astro patch aims to deliver eyedrops in zero gravity",
+      "description_en": "It's already notoriously difficult trying to get eyedrops into your own eye – now, try to imagine doing so in the zero-gravity environment of outer space. That's why scientists have designed a facial patch that does the job … and it could also be utilized right here on Earth.\nContinue Reading\nCategory: Space Systems, Engineering\nTags: KAIST, Wearable, Eye, Astronauts",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/space-systems/facial-patch-zero-gravity-eyedrops/",
+      "image_url": null,
+      "pub_date": "Fri, 23 Oct 2026 10:03:00 GMT",
+      "author": "Ben Coxworth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T10:14:06.964Z",
+      "created_at": "2026-10-23T10:14:06.964Z"
+    },
+    {
+      "id": 26005,
+      "source": "The Guardian AI",
+      "title_en": "Is a job guarantee the solution to mass AI unemployment?",
+      "description_en": "An old idea springs anew as a chorus of influential voices predicts that AI may trigger crises of vast magnitude\nIn a preface to his book Capitalism and Freedom, the American economist Milton Friedman famously observed that a crisis can propel once-fringe ideas into the political mainstream.\n“Only a crisis – actual or perceived – produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around,” he wrote. The job of intellectuals, thinktanks and",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/oct/23/job-guarantee-ai-mass-unemployment",
+      "image_url": "https://i.guim.co.uk/img/media/5d838343b80e3163461a99b84753451e52e54078/724_0_7211_5773/master/7211.jpg?width=140&quality=85&auto=format&fit=max&s=5f0a1886ce0a420f06860d5211a18c3e",
+      "pub_date": "Fri, 23 Oct 2026 10:00:30 GMT",
+      "author": "Nick Romeo",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "US work & careers",
+          "$": {
+            "domain": "https://www.theguardian.com/money/work-careers-us"
+          }
+        },
+        {
+          "_": "US economy",
+          "$": {
+            "domain": "https://www.theguardian.com/business/useconomy"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Employment",
+          "$": {
+            "domain": "https://www.theguardian.com/global-development/employment"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Economics",
+          "$": {
+            "domain": "https://www.theguardian.com/business/economics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T10:14:06.994Z",
+      "created_at": "2026-10-23T10:14:06.994Z"
+    },
+    {
+      "id": 26006,
+      "source": "The Guardian AI",
+      "title_en": "Can AI really predict cancer survival better than a doctor? I have my doubts | Devi Sridhar",
+      "description_en": "Take a selfie to see how healthy you are: the idea is enticing and this new research is promising. But so many factors have been ignored\nThe idea that a single selfie could predict how long someone with cancer may live sounds like an incredible breakthrough. AI is getting better at spotting patterns in medical data, but can it be used to reliably predict what will happen to an individual patient? I asked a clinical colleague what she thought about the recent headlines. She found it an interestin",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/23/ai-cancer-survival-doctor-selfie-health-research",
+      "image_url": "https://i.guim.co.uk/img/media/f7716955ad8ea705f890b5e2beee5cf4aebb9141/161_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=b79bdde011371bd94da76d5c5ec0fc5e",
+      "pub_date": "Fri, 23 Oct 2026 07:00:03 GMT",
+      "author": "Devi Sridhar",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Cancer research",
+          "$": {
+            "domain": "https://www.theguardian.com/science/cancer"
+          }
+        },
+        {
+          "_": "Medical research",
+          "$": {
+            "domain": "https://www.theguardian.com/science/medical-research"
+          }
+        },
+        {
+          "_": "Science",
+          "$": {
+            "domain": "https://www.theguardian.com/science/science"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T10:14:06.994Z",
+      "created_at": "2026-10-23T10:14:06.994Z"
+    },
+    {
+      "id": 26007,
+      "source": "Tom's Hardware",
+      "title_en": "Wolves roam into Finnish villages after Google destroys 1,300 acres of forest for AI data centers",
+      "description_en": "Wolves, who used to live in the forests recently cleared for Google data center development, are now roaming into Finnish villages nearby.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/wolves-roam-into-finnish-villages-after-google-destroys-1-300-acres-of-forest-for-ai-data-centers-forest-where-wolf-packs-used-to-live-are-now-an-expanse-of-mud",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/jdtik9ACK8EYqi9fwXEuH9-1920-80.jpg",
+      "pub_date": "Fri, 23 Oct 2026 10:00:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Data Centers",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T10:14:08.358Z",
+      "created_at": "2026-10-23T10:14:08.358Z"
+    },
+    {
+      "id": 26008,
+      "source": "Tom's Hardware",
+      "title_en": "The original Apple iPod debuted 25 years ago today",
+      "description_en": "On this day in 2001, Apple CEO Steve Jobs unveiled the original iPod. He began the presentation by teasing 'a breakthrough digital device that’s not a Mac.'",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/the-original-apple-ipod-debuted-25-years-ago-today-steve-jobs-usd399-device-fit-1-000-songs-into-a-package-the-size-of-a-deck-of-cards-with-5-gigabytes-of-storage",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4GpCU4zzRohTA7G6eGmnd3-1920-80.jpg",
+      "pub_date": "Fri, 23 Oct 2026 09:20:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T10:14:08.358Z",
+      "created_at": "2026-10-23T10:14:08.358Z"
+    },
+    {
+      "id": 26009,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia's Huang heads to Kazakhstan for the first time — and he's not the only one with big plans",
+      "description_en": "Jensen Huang's first Kazakhstan visit highlights the country's growing AI ambitions and global business appeal.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html",
+      "image_url": null,
+      "pub_date": "Fri, 23 Oct 2026 09:21:59 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T10:14:08.380Z",
+      "created_at": "2026-10-23T10:14:08.380Z"
+    },
+    {
+      "id": 26010,
+      "source": "Product Hunt",
+      "title_en": "FLUX 3 Max",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/fal-ai",
+      "image_url": null,
+      "pub_date": "2026-10-19T20:10:40.000Z",
+      "author": "Kumar Abhishek",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T10:14:09.347Z",
+      "created_at": "2026-10-23T10:14:09.348Z"
+    },
+    {
+      "id": 26011,
+      "source": "Product Hunt",
+      "title_en": "MOVO AI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/movo-ai",
+      "image_url": null,
+      "pub_date": "2026-09-19T05:45:58.000Z",
+      "author": "Zac Zuo",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T10:14:09.348Z",
+      "created_at": "2026-10-23T10:14:09.348Z"
+    },
+    {
+      "id": 26012,
+      "source": "Product Hunt",
+      "title_en": "ElevenLabs Realtime",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/realtime-max-mini",
+      "image_url": null,
+      "pub_date": "2026-10-20T14:31:02.000Z",
+      "author": "Rohan Chaubey",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T10:14:09.348Z",
+      "created_at": "2026-10-23T10:14:09.348Z"
+    },
+    {
+      "id": 26013,
+      "source": "XOR Journal (TG)",
+      "title_en": "1Сники в безопасности 😂@xor_journal",
+      "description_en": "1Сники в безопасности 😂@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10354",
+      "image_url": "https://cdn4.telesco.pe/file/daBWMYWm--Z_KRg7CLzCRVnYbmhkj7558_Kzqoo1jchvuHDZJbUu0hl1ue6XNvoINgDkPleM6BlzLBi5HzuYKQNf4V9t3gQHJkbYr4D9F5uEoAoyOO9H4tre-VM-4z4j6WdfrZumZiwfuqIkcTTpA4heQj5YFP_pvWiTNC1ToC_co2WTYRPrYLNNhhcD4MdQn7vePvlKDHL5gbQ3KFLl1YaPFqUirZ-dOaGxiMjqrCFEaQNSRf5iMMRq3J9RxnBL1eDPBFi-QWsfiKorYkR3K_-eqUEVlC0wYWQqpVRSd68LQjfElshiHVyW2pGN20MgM947hYgRA6-HUTis5Szmug.jpg",
+      "pub_date": "2026-10-23T06:53:46+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T10:14:09.892Z",
+      "created_at": "2026-10-23T10:14:09.892Z"
+    },
+    {
+      "id": 26014,
+      "source": "XOR Journal (TG)",
+      "title_en": "⚡️ О НЕЕЕТ: в России обсуждают досрочное завершение программы уже в этом году 🥲По данным РБК, власти рассматривают возможность закрыть IT-ипотеку, которая позволяет сотрудникам аккредитованных компан",
+      "description_en": "⚡️ О НЕЕЕТ: в России обсуждают досрочное завершение программы уже в этом году 🥲По данным РБК, власти рассматривают возможность закрыть IT-ипотеку, которая позволяет сотрудникам аккредитованных компаний брать жилищные кредиты по сниженной ставке. В Минцифры подтвердили, что вопрос финансирования программы прорабатывается на фоне ограниченного бюджета.😭😭😭@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10355",
+      "image_url": "https://cdn4.telesco.pe/file/RLnz-1-Y3isaiGZhv7ja1eCZw6uDlIJxqmCSkSCNhIXBv_c0muG2g9QZajx_iHWeHCHy9PFt76qld_BFmsJ0LHeV8ADoySCWBcBs_Cpq_5uc_6eszYFUFRZT8FwbcHF2oxDcn-t5Vr8ciiFQb3JB8ru_4k_jjdOaMBOCRIlt-BBpAIUL_Wgmq7CTT7r5bz8IcKCcAeY6djJ2ffTkmCLqDEGp_UwCBo8NiBm0C0Tr4r9QEvlH67R0Cgels8cOimYOJiFxnMB4vZt9_xkBDwm3SzVC-X4KbsClZ17-cMQR3FBJWM6PA42qIds-0Ry1_kRjuYGM0kCYs4y99HgFDjpY7g.jpg",
+      "pub_date": "2026-10-23T09:18:44+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T10:14:09.892Z",
+      "created_at": "2026-10-23T10:14:09.892Z"
+    },
+    {
+      "id": 26015,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🔥 OpenClaw's Creator Burned Through $10 Million Worth of Tokens in a MonthPeter Steinberger shared the figure at Cloudflare Connect, acknowledging that not all of that spending produces useful result",
+      "description_en": "🔥 OpenClaw's Creator Burned Through $10 Million Worth of Tokens in a MonthPeter Steinberger shared the figure at Cloudflare Connect, acknowledging that not all of that spending produces useful results.\"But how can you experiment and see how we can work in the future without trying more experiments?\" Steinberger said.On Reddit, a commenter recalled an exchange from The Big Short:\"I don't understand. Why are they confessing?\"\"They're not confessing. They're bragging.\"💰 Steinberger has worked at ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2880",
+      "image_url": "https://cdn4.telesco.pe/file/W8l97aXaWmBak0jvfIhP27W74iexfkPXZKAiMZroLzHqExTrUsvGzzoI8CVwP3FJVLxNSf3x04mUGAH6dHbcIJ8gbU7WACkowIPhzZ45i5C0TwPfSJLo6NpG1SMDWs6_-60QseMmFHYNn5-WE6I5bjJ2D1nxJRlNBlv0zDWBHASc68qbhcNeIByRWrAEthik25rkUNCYnda8lJo98mpHz-ggOpP4NyS_wchNvvx7lp2sx8Iqi4ymu6ULKR60NeBnK8OCekI7AIkZaqDSq2mTkDaHS_cbOpKay3lALi2jdKY2ETLrpV1ZoBHVFnsnAKjPyODUtPHdDXMrZctVQZSDrA.jpg",
+      "pub_date": "2026-10-23T07:15:52+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T10:14:10.125Z",
+      "created_at": "2026-10-23T10:14:10.125Z"
+    },
+    {
+      "id": 26016,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🔥 Создатель OpenClaw за месяц сжег токенов на $10 млнОб этом Питер Штайнбергер рассказал на Cloudflare Connect. При этом он отметил, что не все эти траты приносят пользу.«Но как понять, как мы будем ",
+      "description_en": "🔥 Создатель OpenClaw за месяц сжег токенов на $10 млнОб этом Питер Штайнбергер рассказал на Cloudflare Connect. При этом он отметил, что не все эти траты приносят пользу.«Но как понять, как мы будем работать в будущем, если не пробовать и не экспериментировать?» — сказал Штайнбергер.В комментариях на Reddit вспомнили диалог из «Игры на понижение»:— Не понимаю, почему они признаются?— Они не признаются — они хвастаются.💰 Штайнбергер с февраля работает в OpenAI и потому за токены сам не платит —",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3761",
+      "image_url": "https://cdn4.telesco.pe/file/HkVcB_cH_aTE982nd7NtgESbiVAhW4qV2G5ovnKX_vEE0fFY8oEM7UiVoEdbgcDdWM9l20RBV2V5bhex52iN3VNfSYF5IeCIl_KhZsyGO0daqj_K-SH6ZfgNV78MoD_7L2iwG3BRmGWsHc1N_sq7So3zNI4CANWyokOvRTgextVgVDValumDdjFrOZqt_8S0n8TxBd_PfG_kcpmV0eMMh8jFW19_hRy0HtrfovaDKyBJNqv_XbB0fIjy4uPeWyk03ytKcJiiDQvq87w7ipe9ffj8V9lKS1CrLXcKGv-Gcy2cp3aob5rr0aiPsFO9FbEu_qPx6s0k59SUz8jb3By0wQ.jpg",
+      "pub_date": "2026-10-23T06:13:46+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T10:14:10.175Z",
+      "created_at": "2026-10-23T10:14:10.175Z"
+    },
+    {
+      "id": 26017,
+      "source": "AI Post (TG)",
+      "title_en": "🇺🇸 Donald Trump:As the President of the United States, I have been watching Data Centers very closely, and have come to a very strong conclusion. New and large, in some cases gigantic, Data  enters ",
+      "description_en": "🇺🇸 Donald Trump:As the President of the United States, I have been watching Data Centers very closely, and have come to a very strong conclusion. New and large, in some cases gigantic, Data  enters are mandated by me to make their own electricity, and give or sell any excess back to the local community, or grid, and therefore there is electric price increase. In fact, there could be a substantial decrease. Other elements likewise! If companies want to make their Data Centers popular, pay the c",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8588",
+      "image_url": "https://cdn4.telesco.pe/file/flnbBP_Ymxxx0KTnrTvaRWAyLiT-gtD1BBHJ1v4KtxdZBp9-J4gtIfHCLyXbWq_FFwhLiIrtqlVLytw3KVUy3GvZDjnsE98uZ1pJBy_E_wrR_0wGg2xpspP8ln4iNAuaCZcosTnRtl-XqJ9dTwpi0z7QB2NJ0H-uHhzoTcfignB7Y3ccSUpBE0FjkHcvylMIETQzTjSOr0tLZvQuJWIAsXEdZAopViAhqwMGMtplzC6c48Enw3_O5_tI04nlmYuGR7Wm32PAYZEyJpddTc3F0ECljgPwRre9zBpAIsYPKaJVpcAi-fDkT0908ESS_oO__Vfdfr_B2DeBXmqmBAZDSw.jpg",
+      "pub_date": "2026-10-23T08:20:26+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-23T10:14:10.311Z",
+      "created_at": "2026-10-23T10:14:10.311Z"
+    },
+    {
+      "id": 26018,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Anthropic is now watermarking Claude's text, and it says the EU made it do itAnthropic's announcement says future Claude models will embed a watermark that shows the likelihood Claude wrote the tex",
+      "description_en": "🚨 Anthropic is now watermarking Claude's text, and it says the EU made it do itAnthropic's announcement says future Claude models will embed a watermark that shows the likelihood Claude wrote the text. It applies to Claude Desktop, Claude Code and the API alike. Anthropic says the change is for EU AI Act compliance, that other major providers signed the same Code of Practice, and that they'll ship their own watermarks.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/812",
+      "image_url": null,
+      "pub_date": "2026-10-23T07:41:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-23T10:14:10.519Z",
+      "created_at": "2026-10-23T10:14:10.519Z"
     }
   ]
 }
