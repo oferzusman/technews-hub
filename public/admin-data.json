@@ -1,7 +1,7 @@
 {
   "total": 26018,
-  "translated": 26009,
-  "untranslated": 9,
+  "translated": 26011,
+  "untranslated": 7,
   "today": 34,
   "week": 772,
   "sources": [
@@ -68,7 +68,7 @@
     {
       "name": "XOR Journal (TG)",
       "total": 995,
-      "translated": 992,
+      "translated": 993,
       "lastDate": "2026-10-23T09:18:44+00:00"
     },
     {
@@ -86,7 +86,7 @@
     {
       "name": "Prompt AI News (TG)",
       "total": 687,
-      "translated": 686,
+      "translated": 687,
       "lastDate": "2026-10-23T07:41:27+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-23T10:16:26.234Z"
+  "generatedAt": "2026-10-23T10:30:16.000Z"
 }
