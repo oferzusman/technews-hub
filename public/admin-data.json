@@ -1,20 +1,20 @@
 {
-  "total": 26018,
-  "translated": 26011,
+  "total": 26026,
+  "translated": 26019,
   "untranslated": 7,
-  "today": 34,
-  "week": 772,
+  "today": 42,
+  "week": 780,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2406,
-      "translated": 2406,
+      "total": 2408,
+      "translated": 2408,
       "lastDate": "Wed, 30 Sep 2026 18:00:39 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 2226,
-      "translated": 2226,
+      "total": 2227,
+      "translated": 2227,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -85,9 +85,15 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 687,
-      "translated": 687,
-      "lastDate": "2026-10-23T07:41:27+00:00"
+      "total": 688,
+      "translated": 688,
+      "lastDate": "2026-10-23T10:42:27+00:00"
+    },
+    {
+      "name": "Backdoor (TG)",
+      "total": 636,
+      "translated": 635,
+      "lastDate": "2026-10-23T10:43:31+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -96,16 +102,10 @@
       "lastDate": "Wed, 30 Sep 2026 10:30:00 GMT"
     },
     {
-      "name": "Backdoor (TG)",
-      "total": 635,
-      "translated": 634,
-      "lastDate": "2026-10-22T19:26:01+00:00"
-    },
-    {
       "name": "Hi, AI Russian (TG)",
-      "total": 479,
-      "translated": 477,
-      "lastDate": "2026-10-23T06:13:46+00:00"
+      "total": 480,
+      "translated": 478,
+      "lastDate": "2026-10-23T10:51:22+00:00"
     },
     {
       "name": "Pypi.org",
@@ -121,9 +121,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 337,
-      "translated": 337,
-      "lastDate": "2026-10-23T07:15:52+00:00"
+      "total": 338,
+      "translated": 338,
+      "lastDate": "2026-10-23T10:51:48+00:00"
     },
     {
       "name": "The Register",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 236,
-      "translated": 236,
-      "lastDate": "2026-10-22T10:35:06+00:00"
+      "total": 237,
+      "translated": 237,
+      "lastDate": "2026-10-23T10:16:13+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-23T10:30:16.000Z"
+  "generatedAt": "2026-10-23T11:06:35.232Z"
 }
