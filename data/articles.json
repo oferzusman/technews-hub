@@ -564907,6 +564907,286 @@
       "priority": "batch",
       "fetchedAt": "2026-10-23T22:16:56.638Z",
       "created_at": "2026-10-23T22:16:56.638Z"
+    },
+    {
+      "id": 26105,
+      "source": "TechCrunch AI",
+      "title_en": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "description_en": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "image_url": null,
+      "pub_date": "Fri, 23 Oct 2026 23:05:49 +0000",
+      "author": "Tim Fernholz",
+      "categories": [
+        "AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-24T00:47:00.171Z",
+      "created_at": "2026-10-24T00:47:00.171Z"
+    },
+    {
+      "id": 26106,
+      "source": "MarkTechPost",
+      "title_en": "Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context",
+      "description_en": "Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open weights arrive by Nov 4, 2026.\nThe post Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/",
+      "image_url": null,
+      "pub_date": "Fri, 23 Oct 2026 22:52:40 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Context Engineering",
+        "Editors Pick",
+        "For Devs",
+        "Harness",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Uncategorized"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-24T00:47:01.816Z",
+      "created_at": "2026-10-24T00:47:01.816Z"
+    },
+    {
+      "id": 26107,
+      "source": "New Atlas",
+      "title_en": "Modular phone promises total privacy at the flick of a switch",
+      "description_en": "Most modular phones are all about the swappable hardware or their repairability. But Brax's upcoming model takes a slightly different approach: it's going for maximum privacy.\nContinue Reading\nCategory: Mobile Technology, Consumer Tech, Technology\nTags: Smartphones, Modular, Privacy, Keyboard",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/mobile-technology/brax-wink-modular-phone-privacy-keyboard/",
+      "image_url": null,
+      "pub_date": "Sat, 24 Oct 2026 00:03:00 GMT",
+      "author": "Abhimanyu Ghoshal",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-24T00:47:02.172Z",
+      "created_at": "2026-10-24T00:47:02.172Z"
+    },
+    {
+      "id": 26108,
+      "source": "The Guardian AI",
+      "title_en": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+      "description_en": "BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers say\nThe David Attenborough-narrated series Blue Planet III deliberately includes cloudier, less polished footage to counter AI fakery and assure viewers it is “authentic”, its producers have said.\nNearly a decade after Blue Planet II shone a light on plastic pollution, and 25 years since the first Blue Planet aired, the hit BBC series is returning with more animal behaviour and cutting-edg",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+      "image_url": "https://i.guim.co.uk/img/media/ceaba2d2e573fa4bc480fbaee7cee88e2ce7c97b/620_0_4500_3600/master/4500.jpg?width=140&quality=85&auto=format&fit=max&s=f0d25aae5ae109f551faef3ce97d9432",
+      "pub_date": "Fri, 23 Oct 2026 23:01:16 GMT",
+      "author": "Tara Conlan",
+      "categories": [
+        {
+          "_": "BBC",
+          "$": {
+            "domain": "https://www.theguardian.com/media/bbc"
+          }
+        },
+        {
+          "_": "Nature documentaries",
+          "$": {
+            "domain": "https://www.theguardian.com/tv-and-radio/nature-documentaries"
+          }
+        },
+        {
+          "_": "Science and nature TV",
+          "$": {
+            "domain": "https://www.theguardian.com/tv-and-radio/science-and-nature-tv"
+          }
+        },
+        {
+          "_": "BBC One",
+          "$": {
+            "domain": "https://www.theguardian.com/media/bbc1"
+          }
+        },
+        {
+          "_": "David Attenborough",
+          "$": {
+            "domain": "https://www.theguardian.com/tv-and-radio/david-attenborough"
+          }
+        },
+        {
+          "_": "Television & radio",
+          "$": {
+            "domain": "https://www.theguardian.com/tv-and-radio/tv-and-radio"
+          }
+        },
+        {
+          "_": "Marine life",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/marine-life"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Factual TV",
+          "$": {
+            "domain": "https://www.theguardian.com/tv-and-radio/factual-tv"
+          }
+        },
+        {
+          "_": "Documentary",
+          "$": {
+            "domain": "https://www.theguardian.com/tv-and-radio/documentary"
+          }
+        },
+        {
+          "_": "Wildlife",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/wildlife"
+          }
+        },
+        {
+          "_": "Animals",
+          "$": {
+            "domain": "https://www.theguardian.com/world/animals"
+          }
+        },
+        {
+          "_": "The news on TV",
+          "$": {
+            "domain": "https://www.theguardian.com/tv-and-radio/tv-news"
+          }
+        },
+        {
+          "_": "Oceans",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/oceans"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "Educational TV",
+          "$": {
+            "domain": "https://www.theguardian.com/tv-and-radio/educational-tv"
+          }
+        },
+        {
+          "_": "Environment",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/environment"
+          }
+        },
+        {
+          "_": "Television",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/television"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-24T00:47:02.547Z",
+      "created_at": "2026-10-24T00:47:02.547Z"
+    },
+    {
+      "id": 26109,
+      "source": "Interesting Engineering",
+      "title_en": "OpenAI moves frontier training offline after agents punch through security barriers",
+      "description_en": "OpenAI is keeping its most advanced AI training runs away from the live internet after...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/openai-frontier-model-offline-training",
+      "image_url": null,
+      "pub_date": "Fri, 23 Oct 2026 23:57:13 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-24T00:47:03.334Z",
+      "created_at": "2026-10-24T00:47:03.334Z"
+    },
+    {
+      "id": 26110,
+      "source": "Interesting Engineering",
+      "title_en": "US’ uncrewed fighter jet that offers human-machine teaming in combat scenarios to enter production",
+      "description_en": "The United States is soon to begin airframe production of its new uncrewed fighter jet....",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-uncrewed-fighter-jet-production",
+      "image_url": null,
+      "pub_date": "Fri, 23 Oct 2026 23:45:15 +0000",
+      "author": "Prabhat Ranjan Mishra",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-24T00:47:03.334Z",
+      "created_at": "2026-10-24T00:47:03.334Z"
+    },
+    {
+      "id": 26111,
+      "source": "AI Post (TG)",
+      "title_en": "📈 Barclays will cut about 5,000 jobs this year, roughly 5% of staff, citing AI efficiency gains.About 1,000 of those roles went in the first half of 2026, and the rest go before year end.Around 60% o",
+      "description_en": "📈 Barclays will cut about 5,000 jobs this year, roughly 5% of staff, citing AI efficiency gains.About 1,000 of those roles went in the first half of 2026, and the rest go before year end.Around 60% of the cuts fall on support functions, “including fewer developers as AI makes our people more productive,” said Chief Executive C.S. Venkatakrishnan.All these while 3rd-quarter pretax profit rose 12% to £2.3B. Among rivals, HSBC is reportedly weighing up to 20,000 role cuts over the coming years, wh",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8594",
+      "image_url": "https://cdn4.telesco.pe/file/cQRJ56Bb5NVAYkvvI93DHX-3mIS5nHswkj4rTvDBuwsZOc-PbEduNRzanEmEpR40PZCJjZaSRRD3ZtAxn6jJSjnsPXV9JQ-vi_RUgLUofRktcTqbk0ViOrYsRAC3E7AJG94QgJxZbSA94OFNKm9vytIK1aue_HQvSikCGddEsHWAOdWqoJus5t_WmtIp3kB1HzPZSGQaL8ekrDP4qQa_d64JL-fb08gqdTUly8HvlrzCBfjqw8cjk6a5AoyW2rfA_nz3CsK9ALhbFMOCM8PXZa2jWHgFyEfvLZEB-Z7cKyp48j9961aHal3VG0BFfMDrtEgIWmDac4YFiy2WKSX-Bg.jpg",
+      "pub_date": "2026-10-24T00:18:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-24T00:47:04.974Z",
+      "created_at": "2026-10-24T00:47:04.974Z"
+    },
+    {
+      "id": 26112,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🤖 Kimi K3.1 Pro hits 55 on Artificial Analysis and sits on the Pareto lineArtificial Analysis puts the open-weight model on the cost-vs-score frontier, so nothing cheaper beats it at that level. But ",
+      "description_en": "🤖 Kimi K3.1 Pro hits 55 on Artificial Analysis and sits on the Pareto lineArtificial Analysis puts the open-weight model on the cost-vs-score frontier, so nothing cheaper beats it at that level. But on its Omniscience eval, K3.1 trails the frontier by roughly 6 months, and DeepSeek 4.1 Flash trails by about 12.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/818",
+      "image_url": null,
+      "pub_date": "2026-10-23T23:00:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-24T00:47:05.268Z",
+      "created_at": "2026-10-24T00:47:05.268Z"
     }
   ]
 }
