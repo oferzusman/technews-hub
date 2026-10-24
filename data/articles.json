@@ -566411,6 +566411,101 @@
       "priority": "hot",
       "fetchedAt": "2026-10-24T19:07:44.667Z",
       "created_at": "2026-10-24T19:07:44.667Z"
+    },
+    {
+      "id": 26170,
+      "source": "TechCrunch AI",
+      "title_en": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "description_en": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "image_url": null,
+      "pub_date": "Sat, 24 Oct 2026 19:00:00 +0000",
+      "author": "Lauren Forristal",
+      "categories": [
+        "AI",
+        "Microsoft",
+        "OpenAI",
+        "evergreens",
+        "siri ai"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-24T20:17:56.162Z",
+      "created_at": "2026-10-24T20:17:56.162Z"
+    },
+    {
+      "id": 26171,
+      "source": "Interesting Engineering",
+      "title_en": "Two 220-ton smart cranes help build main towers for China’s Lugu Lake Grand Bridge",
+      "description_en": "Chinese construction equipment manufacturer Zoomlion has supplied two heavy-duty tower cranes for the construction of...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/zoomlion-tower-cranes-283-meter-bridge-tower-china",
+      "image_url": null,
+      "pub_date": "Sat, 24 Oct 2026 20:16:59 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-24T20:17:59.393Z",
+      "created_at": "2026-10-24T20:17:59.393Z"
+    },
+    {
+      "id": 26172,
+      "source": "Interesting Engineering",
+      "title_en": "US drinking water may contain double the reported levels of harmful ‘forever chemicals’",
+      "description_en": "The methods used to report harmful “forever chemicals” in U.S. drinking water may be underestimating...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/health/us-drinking-water-forever-chemicals-pfas",
+      "image_url": "https://www.youtube.com/embed/q-hr-Qc4Dz0",
+      "pub_date": "Sat, 24 Oct 2026 19:15:10 +0000",
+      "author": "Maria Mocerino",
+      "categories": [
+        "Health"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-24T20:17:59.394Z",
+      "created_at": "2026-10-24T20:17:59.394Z"
+    },
+    {
+      "id": 26173,
+      "source": "AI Post (TG)",
+      "title_en": "❗️OpenAI is building an exabyte-scale storage system for its next billion usersOpenAI’s infrastructure is hitting a new bottleneck: physical space. The company is building its own massive storage syst",
+      "description_en": "❗️OpenAI is building an exabyte-scale storage system for its next billion usersOpenAI’s infrastructure is hitting a new bottleneck: physical space. The company is building its own massive storage system to keep ChatGPT running as usage continues to grow.Its existing platform, Habitat, already serves more than 500 petabytes of data across 40 regions, supporting over 1 billion users and handling more than 70 million requests per second. One Azure Cosmos DB account alone processes over 20 million q",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8601",
+      "image_url": "https://cdn4.telesco.pe/file/oWACqO4MCoY3pRFZUGj6xpa0VK8lrwvPCY_qwwS0T2rTMCB0KYYw8E_LrOj37lLTboC96QuqeHcgj_7nr7xCf_B5I9bq5I3-rN3Jxhd-8qOmUZMMudM1zn8CaM1IddoX3zIBVgdpU7eGFBERMg0okO_XpoLgYFykGCAojixXVSYd68FXXLrtmQgf3T5hY5Z_4YBHT_UXrjx4JXpXWxifwE5JQ8OhAlBVv_8Opiw9mOH_P15GrqpGfqz7q0_i6_4yUlVUw7ewjCEB6qiwJ3dyZlQNmos7K9dL-PYkX6zWfR9flcv0oLNEWzmE2JGmtJrxkh6D7PjTMFApVypD0IDATw.jpg",
+      "pub_date": "2026-10-24T19:51:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-24T20:18:05.947Z",
+      "created_at": "2026-10-24T20:18:05.947Z"
+    },
+    {
+      "id": 26174,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Stanford's Next-Concept Modeling writes text coarse-to-fine, in a handful of parallel stepsHazy Research says NCM builds a hierarchy of discrete codes and predicts each level all at once. It claims",
+      "description_en": "🚨 Stanford's Next-Concept Modeling writes text coarse-to-fine, in a handful of parallel stepsHazy Research says NCM builds a hierarchy of discrete codes and predicts each level all at once. It claims quality that matches or beats strong diffusion language models, at 10-31x the speed and with 4-5x fewer training tokens.The baselines are diffusion models, not autoregressive LLMs. Scaling is still unproven.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/825",
+      "image_url": null,
+      "pub_date": "2026-10-24T20:07:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-24T20:18:06.252Z",
+      "created_at": "2026-10-24T20:18:06.252Z"
     }
   ]
 }
