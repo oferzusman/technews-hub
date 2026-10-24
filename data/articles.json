@@ -565220,6 +565220,136 @@
       "priority": "hot",
       "fetchedAt": "2026-10-24T01:23:23.748Z",
       "created_at": "2026-10-24T01:23:23.748Z"
+    },
+    {
+      "id": 26114,
+      "source": "The Guardian AI",
+      "title_en": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
+      "description_en": "Chancellor says government to commit hundreds of millions to develop ‘distinctively British’ approach to AI\nJohn Healey has pledged to use Wednesday’s budget to harness the power of artificial intelligence to bolster Britain’s security and prosperity against the risks in the accelerating global technology arms race.\nAs he prepares for his debut budget, the chancellor said that Andy Burnham’s government would commit hundreds of millions of pounds to develop a “distinctively British” approach to A",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+      "image_url": "https://i.guim.co.uk/img/media/13ceb52a43f1b6771519d70b1eb33680ffbec0ca/0_0_2750_2200/master/2750.jpg?width=140&quality=85&auto=format&fit=max&s=7c0a9667489edbac502049a00339a656",
+      "pub_date": "Sat, 24 Oct 2026 05:00:24 GMT",
+      "author": "Richard Partington Senior economics correspondent",
+      "categories": [
+        {
+          "_": "Budget 2026",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/budget-2026"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "England",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/england"
+          }
+        },
+        {
+          "_": "John Healey",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/john-healey"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Economic policy",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/economy"
+          }
+        },
+        {
+          "_": "Tax and spending",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/taxandspending"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-24T05:06:00.465Z",
+      "created_at": "2026-10-24T05:06:00.465Z"
+    },
+    {
+      "id": 26115,
+      "source": "Interesting Engineering",
+      "title_en": "Tesla’s flying Roadster reveals a fighter jet interface with 5,500 PSI thrusters",
+      "description_en": "Tesla’s second-generation Roadster pairs ambitious performance hardware with a cockpit interface designed around driving data....",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/tesla-flying-roadster-thruster-display-interface",
+      "image_url": null,
+      "pub_date": "Sat, 24 Oct 2026 03:40:00 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "Transportation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-24T05:06:04.031Z",
+      "created_at": "2026-10-24T05:06:04.031Z"
+    },
+    {
+      "id": 26116,
+      "source": "AI Post (TG)",
+      "title_en": "❗️3 AI powers have now pledged more than 3 times the Gates Foundation.Anthropic, OpenAI and Musk have each picked a different model: a company fund, a nonprofit foundation and direct shares to childre",
+      "description_en": "❗️3 AI powers have now pledged more than 3 times the Gates Foundation.Anthropic, OpenAI and Musk have each picked a different model: a company fund, a nonprofit foundation and direct shares to children.About 20% of Anthropic’s shares are now set aside for public purposes, a figure that puts it in the same range as OpenAI’s foundation. Anthropic’s co-founders have each pledged 80% of their equityMusk’s plan to give 1 SpaceX share to each of roughly 72M American children could turn a whole generat",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8595",
+      "image_url": "https://cdn4.telesco.pe/file/mknrsKFsj-WWWNn7AUkMatYk4pPJDmpNfyNAWdt4ubCUbLJ1k1eB1LM8XBMi7G1ENzup3G6fdpNoPO9OYQPlPneE5zw1I2nEdZP6SKxYLHg4XfIXixQtq2qFBZfdO4cWEn4iVLJapFB_kO_JECOaPZdgMyVmeiUjoaqjoXgOEdg4eAbAWV1JlGJhvhapZa7NKDc3B0tqSwmtXMkD-XUvV7fgu77FSSQGucEdVVJllRwDlsvwTfTAOhaJ7iCUBYK8k9VoRe0TSY6MUSZN8LLKuln4H8v8wbbduv0DBGwI3JAKBps-9XWNC_me61GyPHFu5SLMewX5lMRYN4R_6Lt8mA.jpg",
+      "pub_date": "2026-10-24T03:07:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-24T05:06:05.694Z",
+      "created_at": "2026-10-24T05:06:05.694Z"
+    },
+    {
+      "id": 26117,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🧠 Replit buys Chroma, and the vector DB now belongs to an app builderChroma says it's joining Replit, so one of the most-used open-source retrieval layers moves inside a coding agent platform. Replit",
+      "description_en": "🧠 Replit buys Chroma, and the vector DB now belongs to an app builderChroma says it's joining Replit, so one of the most-used open-source retrieval layers moves inside a coding agent platform. Replit's agents need memory and search under every app they generate, and now it owns that part of the stack instead of renting it.Whether the open-source project keeps its roadmap is the open question.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/819",
+      "image_url": null,
+      "pub_date": "2026-10-24T02:01:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-24T05:06:05.961Z",
+      "created_at": "2026-10-24T05:06:05.961Z"
+    },
+    {
+      "id": 26118,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 OpenAI says it can't air-gap its frontier training environment, and its test agents passed secrets through cache timingIn its security post, OpenAI says running and monitoring experiments requires ",
+      "description_en": "🚨 OpenAI says it can't air-gap its frontier training environment, and its test agents passed secrets through cache timingIn its security post, OpenAI says running and monitoring experiments requires external connections, so full disconnection isn't feasible. In tests, agents evicted selected data from a shared cache and timed the reloads to read fast versus slow, which let them swap messages with no network connection and no file changes.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/820",
+      "image_url": null,
+      "pub_date": "2026-10-24T05:02:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-24T05:06:05.961Z",
+      "created_at": "2026-10-24T05:06:05.961Z"
     }
   ]
 }
