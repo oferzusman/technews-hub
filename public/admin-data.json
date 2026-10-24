@@ -1,14 +1,14 @@
 {
-  "total": 26144,
-  "translated": 26137,
+  "total": 26148,
+  "translated": 26141,
   "untranslated": 7,
-  "today": 40,
-  "week": 811,
+  "today": 44,
+  "week": 815,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2421,
-      "translated": 2421,
+      "total": 2422,
+      "translated": 2422,
       "lastDate": "Wed, 30 Sep 2026 18:00:39 +0000"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "name": "Ars Technica",
-      "total": 1128,
-      "translated": 1128,
+      "total": 1129,
+      "translated": 1129,
       "lastDate": "Wed, 30 Sep 2026 20:44:48 +0000"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 834,
-      "translated": 834,
+      "total": 835,
+      "translated": 835,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
@@ -91,9 +91,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 640,
-      "translated": 639,
-      "lastDate": "2026-10-24T08:11:01+00:00"
+      "total": 641,
+      "translated": 640,
+      "lastDate": "2026-10-24T12:01:30+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-24T11:59:26.204Z"
+  "generatedAt": "2026-10-24T13:30:08.237Z"
 }
