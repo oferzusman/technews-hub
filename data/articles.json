@@ -565193,8 +565193,8 @@
       "source": "MarkTechPost",
       "title_en": "Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms",
       "description_en": "Kyutai released CADRE, a family of 7 open causal diffusion video autoencoders for interactive world models. World models built on CADRE run at 20 fps on 1 H100 and react in under 230 ms.\nThe post Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms appeared first on MarkTechPost.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "Kyutai CADRE: Video Autoencoders שחוצים את זמן ההשהיה של World Models מתחת ל-230 מילישניות",
+      "description_he": "Kyutai הוציאה לאור את CADRE, משפחה של 7 video autoencoders בעלי זרימה סיבתית פתוחה למודלי עולם אינטראקטיביים. World models המבוססים על CADRE רצים במהירות של 20 fps ב-H100 אחד ותגובתם היא מתחת ל-230 מילישניות - מה שאומר שעברנו לעידן של simulationsים שמגיבים במהירות של מחשבה אנושית. זה יכול להיות gamechanger לתחום ה-AI כי עד עכשיו world models סבלו מעיכוב משמעותי, וכמו שראינו בחודשים האחרונים, כל מילישנייה חשובה.",
       "link": "https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/",
       "image_url": null,
       "pub_date": "Fri, 23 Oct 2026 23:26:53 +0000",
@@ -565216,7 +565216,7 @@
         "Technology",
         "World Model"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-10-24T01:23:23.748Z",
       "created_at": "2026-10-24T01:23:23.748Z"
