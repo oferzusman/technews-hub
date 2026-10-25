@@ -566830,8 +566830,8 @@
       "source": "The Decoder",
       "title_en": "OpenMobile-2 proves open-source smartphone agents can rival proprietary models",
       "description_en": "Smartphone agents don't get better by processing more data. They improve by training on as many different apps as possible. The researchers behind OpenMobile-2 built an open training environment with more than 110 applications, including 35 replicas of popular apps. On real Android devices, their model scores highest among open agents, the authors say.\nThe article OpenMobile-2 proves open-source smartphone agents can rival proprietary models appeared first on The Decoder.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "OpenMobile-2 מוכיחה שסוכנים סמארטפון בקוד פתוח יכולים להתחרות עם מודלים קנויניים",
+      "description_he": "חוקרים גילו שסוכנים חכמים לסמארטפון לא הופכים למיוחדים בזה שמאמנים אותם על יותר נתונים, אלא כשמחשפים אותם ליותר ויותר אפליקציות שונות. הצוות שמאחורי OpenMobile-2 בנה סביבת אימון ענקית עם למעלה מ-110 אפליקציות, כולל 35 עותקי של אפליקציות פופולריות, והתוצאה היא מודל שמנצח את כל הסוכנים הפתוחים האחרים בעבודה בפועל על מכשירי Android.",
       "link": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/",
       "image_url": null,
       "pub_date": "Sun, 25 Oct 2026 06:55:22 +0000",
@@ -566840,7 +566840,7 @@
         "AI research",
         "Artificial Intelligence"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-10-25T06:56:41.745Z",
       "created_at": "2026-10-25T06:56:41.745Z"
