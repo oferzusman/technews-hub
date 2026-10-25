@@ -567184,6 +567184,99 @@
       "priority": "batch",
       "fetchedAt": "2026-10-25T10:49:08.029Z",
       "created_at": "2026-10-25T10:49:08.029Z"
+    },
+    {
+      "id": 26210,
+      "source": "The Verge AI",
+      "title_en": "Google’s AI search changes upended online publishing",
+      "description_en": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nThe digital publishing industry has relied on Google for a very long time. Many outlets spent time and money optimizing their webpages to show up at the top of the search engine, with the goal of getting readers to click on their a",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "image_url": null,
+      "pub_date": "2026-10-25T12:00:00.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-25T12:10:57.805Z",
+      "created_at": "2026-10-25T12:10:57.805Z"
+    },
+    {
+      "id": 26211,
+      "source": "Tom's Hardware",
+      "title_en": "New CD players keep launching, but a drive shortage could make them unfixable",
+      "description_en": "The lack of optical drive manufacturers is raising questions about the repairability and longevity of new CD players that are coming out on the market today.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/peripherals/new-cd-players-keep-launching-but-a-drive-shortage-could-make-them-unfixable-almost-nobody-makes-the-drives-anymore",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/477Pst2PY8oMP9NJizdqmL-1920-80.jpg",
+      "pub_date": "Sun, 25 Oct 2026 12:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Peripherals"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-25T12:11:01.939Z",
+      "created_at": "2026-10-25T12:11:01.939Z"
+    },
+    {
+      "id": 26212,
+      "source": "Tom's Hardware",
+      "title_en": "OpenAI's isolated red-team agents built a hidden CPU cache channel to talk with no network or shared files",
+      "description_en": "OpenAI’s red-team agents passed hidden messages through the CPU cache, a covert trick already shown to move data between cloud VMs.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-isolated-red-team-ai-agents-built-a-hidden-cpu-cache-channel-to-talk-with-no-network-or-shared-files-exploited-cpu-cache-timing-to-bypass-microvm-sandboxes",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/zj2rCLfrU42mkGH93V5iU-1920-80.png",
+      "pub_date": "Sun, 25 Oct 2026 11:30:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-25T12:11:01.940Z",
+      "created_at": "2026-10-25T12:11:01.940Z"
+    },
+    {
+      "id": 26213,
+      "source": "Tom's Hardware",
+      "title_en": "AMD CEO Lisa Su proposed bringing back the Ryzen 7 5800X3D, set plan in motion before DDR5 shortages",
+      "description_en": "AMD Director Travis Kirsch confirmed the rationale for relaunching the first X3D chip and explained why the company no longer offers many Ryzen 3 SKUs.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-ceo-lisa-su-proposed-bringing-back-the-ryzen-7-5800x3d-set-plan-in-motion-before-ddr5-shortages-am4-cpu-considered-a-final-gift-to-loyal-fans-of-the-decade-old-socket",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/p3Kjz2uFDawbqt4hPoaDaW-1920-80.jpg",
+      "pub_date": "Sun, 25 Oct 2026 11:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-25T12:11:01.940Z",
+      "created_at": "2026-10-25T12:11:01.940Z"
+    },
+    {
+      "id": 26214,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Elvis's estate sues Anthropic over 274 songs it says Claude trained onThe rights holders filed suit claiming Anthropic copied the catalog without permission. The list includes \"Can't Help Falling i",
+      "description_en": "🚨 Elvis's estate sues Anthropic over 274 songs it says Claude trained onThe rights holders filed suit claiming Anthropic copied the catalog without permission. The list includes \"Can't Help Falling in Love\" and \"Don't Be Cruel.\"It's a filing, not a ruling. But it's the biggest single-artist music case against an AI lab so far, and the lawyers are calling Anthropic's business model infringement at an unprecedented scale.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/830",
+      "image_url": null,
+      "pub_date": "2026-10-25T11:12:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-25T12:11:08.193Z",
+      "created_at": "2026-10-25T12:11:08.193Z"
     }
   ]
 }
