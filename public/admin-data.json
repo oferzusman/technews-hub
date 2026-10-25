@@ -1,9 +1,9 @@
 {
-  "total": 26231,
-  "translated": 26224,
+  "total": 26232,
+  "translated": 26225,
   "untranslated": 7,
-  "today": 51,
-  "week": 826,
+  "today": 52,
+  "week": 827,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -31,9 +31,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1542,
-      "translated": 1540,
-      "lastDate": "2026-10-25T12:57:10+00:00"
+      "total": 1543,
+      "translated": 1541,
+      "lastDate": "2026-10-25T16:22:54+00:00"
     },
     {
       "name": "Product Hunt",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-25T16:12:45.908Z"
+  "generatedAt": "2026-10-25T16:41:07.542Z"
 }
