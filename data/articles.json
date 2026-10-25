@@ -567283,14 +567283,14 @@
       "source": "The Verge AI",
       "title_en": "r/opensource just banned AI, non-English speakers, and more",
       "description_en": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source community.\"\nThe new rules have set off a firestorm in the comments, and even spurred the creation of a rival sub r/trueopensource. Moderator Wolvereness has waded into the comments to exp",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "r/opensource חסמה AI, דוברי שפות לא אנגלית ועוד",
+      "description_he": "מנהלי קהילת r/opensource הכריזו על כללים חדשים שחוסמים פרויקטים שמשתמשים ב-AI או נוצרים על ידו, בטענה שהם לא מתאימים לפילוסופיית הקוד הפתוח. ההחלטה עוררה סערה בקהילה - כל כך שיצרו קהילה מתחרה בשם r/trueopensource. בקיצור, המנהלים של הקהילה הגדולה ביותר של Open Source החליטו להצעיר את הפילוסופיה ולהשמיד עשרות של פרויקטים שלמים בדיוק לפני שהוא בן שנה.",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
       "image_url": null,
       "pub_date": "2026-10-25T13:25:32.000Z",
       "author": "Terrence O’Brien",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-10-25T14:50:30.177Z",
       "created_at": "2026-10-25T14:50:30.177Z"
@@ -567300,8 +567300,8 @@
       "source": "TechCrunch AI",
       "title_en": "The hottest AI wearables and gadgets you should know about",
       "description_en": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ה-AI wearables והגאджטים החמים שצריך להכיר",
+      "description_he": "TechCrunch AI ביססה רשימה של כל ה-wearables החדשים והמגניבים עם AI, כולל Muse Charm, Bee, Friend, Plaud והעוד - אלה הם הגאג'טים שבאמת משנים את המשחק. אם אתם מחפשים משהו שיעשה לכם חיים קצת יותר thrifty וחכם, זה בדיוק מה שאתם צריכים לדעת עליו. מהשעונים החכמים ועד לדברים שעדיין לא ראינו קודם, כולם כאן בתור.\nמקור: TechCrunch AI",
       "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
       "image_url": null,
       "pub_date": "Sun, 25 Oct 2026 14:10:00 +0000",
@@ -567314,7 +567314,7 @@
         "evergreens",
         "AI wearables"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-10-25T14:50:30.192Z",
       "created_at": "2026-10-25T14:50:30.192Z"
@@ -567324,8 +567324,8 @@
       "source": "MarkTechPost",
       "title_en": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
       "description_en": "Stanford and UC Berkeley researchers released TokenGate, a drop-in learned token pruning module for LLMs. It cuts long-context prefill time-to-first-token by 1.4x to 11.3x and peak memory by 1.5x to 3.4x without accuracy loss.\nThe post Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster appeared first on MarkTechPost.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "חוקרים מסטנפורד וברקלי מציגים TokenGate: Attention עם שערים למtokenים הופך Prefill לקשרים ארוכים ל-11.3x יותר מהר",
+      "description_he": "חוקרים מסטנפורד וברקלי השיקו את TokenGate, מודול token pruning שמותאם למודלי שפה גדולים. הטכנולוגיה הזו מורידה את זמן ההמתנה הראשונה בטעינה של טקסטים ארוכים בעד 11.3 פעמים וגם חוסכת בזיכרון GPU בין 1.5x ל-3.4x - כל זה בלי לפגוע בדיוק המודל. זה בדיוק מה שהייתה חסרה לשדה ה-LLM כדי להיות יותר יעיל עם קשרים ארוכים!",
       "link": "https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/",
       "image_url": null,
       "pub_date": "Sun, 25 Oct 2026 12:12:18 +0000",
@@ -567346,7 +567346,7 @@
         "Tech News",
         "Technology"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-10-25T14:50:31.679Z",
       "created_at": "2026-10-25T14:50:31.679Z"
@@ -567356,8 +567356,8 @@
       "source": "MarkTechPost",
       "title_en": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
       "description_en": "Anthropic has launched OSS Scanner, a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company’s strongest models, including Claude Mythos, against enrolled codebases. Reports go straight to maintainers without human review. That trade delivers faster findings, but shifts triage work onto project teams. 11 days after the October 8 […]\nThe post Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner appeared first on MarkTechPost.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "Anthropic משיקה OSS Scanner - סורק פרצות חינמי המופעל בAI",
+      "description_he": "Anthropic השיקה כלי חינמי בשם OSS Scanner שסורק פרצות אבטחה בפרויקטי קוד פתוח קריטיים. הכלי משתמש במודלים החזקים ביותר של החברה, כולל Claude Mythos, כדי לנתח את הקוד ולדווח ישירות למתחזקים על בעיות שנמצאו - בלי בדיקה אנושית בדרך. זה אומר קצב מהיר של גילויים, אבל העומס של סיווג וטיפול בתוצאות נופל על כתפי צוותי הפרויקטים עצמם.",
       "link": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
       "image_url": null,
       "pub_date": "Sun, 25 Oct 2026 11:32:29 +0000",
@@ -567378,7 +567378,7 @@
         "Tech News",
         "Technology"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-10-25T14:50:31.679Z",
       "created_at": "2026-10-25T14:50:31.679Z"
@@ -567388,14 +567388,14 @@
       "source": "New Atlas",
       "title_en": "Space-age manna: USAF & SpaceX drop survival kit from orbit",
       "description_en": "Many a shipwrecked sailor has wished that a survival kit complete with liferaft would drop from the sky. Now, the US Air Force Research Laboratory (AFRL) has completed a test using an orbital SpaceX Starfall reentry capsule to do just that.\nContinue Reading\nCategory: Military, Engineering\nTags: US Air Force, SpaceX, Emergency",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מן החלל לים: חיל האוויר האמריקאי וספייס אקס זרקו ערכת הצלה מהמסלול",
+      "description_he": "בדיקה מעניינת של חיל האוויר האמריקאי הצליחה להוריד ערכת הצלה שלמה כולל סירת ניצול ישר מהחלל באמצעות קפסולת Starfall של SpaceX. זה כמו להפוך את התנ\"ך לקדימה - תרופה מן השמיים, אבל הפעם זה קשור לכלים של הצלה במקום מנה. הבדיקה הזו מוכיחה שטכנולוגיית reentry של SpaceX יכולה לשמש למשימות הומניטריות וחירום בנקודות רחוקות בעולם.",
       "link": "https://newatlas.com/military/usaf-spacex-capsule-survival-kit-from-orbit/",
       "image_url": null,
       "pub_date": "Sun, 25 Oct 2026 13:03:00 GMT",
       "author": "David Szondy",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-10-25T14:50:32.200Z",
       "created_at": "2026-10-25T14:50:32.200Z"
@@ -567405,8 +567405,8 @@
       "source": "The Guardian AI",
       "title_en": "‘Extremely disappointed’: WA government seeks reimbursement from Deloitte over flawed university report",
       "description_en": "WA paid Deloitte $166,000 for flawed feasibility study on merging the University of Western Australia, Curtin university and Murdoch university\n\nGet our breaking news email, free app or daily news podcast\n\nThe Western Australian government has said it is “extremely disappointed” and is seeking an “expedited” cost recovery from Deloitte after errors were discovered in a report on a potential university merger, including AI-hallucinated references and hundreds of millions of dollars in cost discre",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ממש מאוכזבים': ממשלת אוסטרליה דורשת החזר כספי מ-Deloitte על דוח אוניברסיטאי פגום",
+      "description_he": "הממשלה של מערב אוסטרליה שילמה ל-Deloitte 166,000 דולר על מחקר כדאיות שהתברר כחסר בערך - ומצאו בו שגיאות מדי עם AI hallucinations (התייחסויות שהמודל המציא מעדיין) וטעויות של מאות מיליוני דולרים בהערכות עלויות. הממשלה כעת דורשת החזר מהחברה בדחיפות בגלל הבעיות החמורות בדוח על מיזוג אפשרי של שלוש אוניברסיטאות גדולות בעיר.",
       "link": "https://www.theguardian.com/australia-news/2026/oct/26/deloitte-report-wa-university-mergers-260m-discrepancy-ai",
       "image_url": "https://i.guim.co.uk/img/media/515a0bf6dc96a2183fa9f4bc90a2fbeac2d91271/1105_835_1970_1577/master/1970.jpg?width=140&quality=85&auto=format&fit=max&s=d30f1393995ca46dcd987c0df7bdfd46",
       "pub_date": "Sun, 25 Oct 2026 14:00:06 GMT",
@@ -567449,7 +567449,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-10-25T14:50:32.531Z",
       "created_at": "2026-10-25T14:50:32.531Z"
@@ -567459,8 +567459,8 @@
       "source": "The Guardian AI",
       "title_en": "Neighbours is being recut into a microdrama focused on Margot Robbie – and her co-stars aren’t happy",
       "description_en": "Robbie’s storylines in the famous soap will be recut into vertical micro-episodes to be watched on phones – but her fellow cast members say they haven’t been consulted\nThe long-running Australian soap opera Neighbours is being recut with AI into a microdrama designed to be watched on phones, sparking a debate among the show’s actors and the industry over the wider implications of television archives being mined for new content.\nRoseBerry Media, which specialises in making “vertical television” f",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "סדרת 'שכנים' מעוצבת מחדש בעזרת AI לדרמה קטנה עם מרגו רובי - והשחקנים האחרים לא שמחים",
+      "description_he": "חברה מתמחה בסרטוני אנכיים עובדת על מיני-אפיזודות של סדרת הסבון האוסטרלית הקלאסית עם הצמד של רובי, אבל שאר השחקנים טוענים שלא התייעצו איתם בעניין. המהלך עורר דיון חם בתעשיית הטלוויזיה על ההשלכות של שימוש ב-AI כדי להטמיע כל מיני קונטנט חדש מחומרי ארכיון ישנים - ויש לכם קצת תחושה שזו תהיה טרנד פחות נוח בעתיד.",
       "link": "https://www.theguardian.com/tv-and-radio/2026/oct/26/neighbours-soap-recut-ai-microdrama-mobile-series-feat-margot-robbie",
       "image_url": "https://i.guim.co.uk/img/media/d850e2558a1a7a06e667ee3f5cb1123b8775f401/189_38_3166_2534/master/3166.jpg?width=140&quality=85&auto=format&fit=max&s=fe1cb9d1d4badba3ae6fe42f103a214a",
       "pub_date": "Sun, 25 Oct 2026 14:00:06 GMT",
@@ -567527,7 +567527,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-10-25T14:50:32.531Z",
       "created_at": "2026-10-25T14:50:32.531Z"
@@ -567537,8 +567537,8 @@
       "source": "Interesting Engineering",
       "title_en": "10 US inventions that changed everything from travel to medicine",
       "description_en": "From the airplane to the transistor, inventions developed in the United States have radically changed...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "10 המצאות אמריקאיות שהשנו הכל - מתחבורה ועד רפואה",
+      "description_he": "מהמטוס ועד הטרנזיסטור - המצאות שפותחו בארה״ב שינו באופן קיצוני את הדרך שבה אנחנו חיים, נוסעים ומטופלים. סדרה מעניינת שמחקה את ההיסטוריה של חדשנות אמריקאית שהשפיעה על כל העולם.",
       "link": "https://interestingengineering.com/culture/10-us-inventions-that-changed-everything",
       "image_url": null,
       "pub_date": "Sun, 25 Oct 2026 14:47:44 +0000",
@@ -567546,7 +567546,7 @@
       "categories": [
         "Culture"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-10-25T14:50:32.820Z",
       "created_at": "2026-10-25T14:50:32.820Z"
@@ -567556,8 +567556,8 @@
       "source": "Interesting Engineering",
       "title_en": "‘Dragon egg’ star candidate hides a massive mystery inside a tiny core",
       "description_en": "A possible massive-star embryo has an intriguing combination of features that includes an exceptionally compact...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "כוכב 'ביצת דרקון' מסתיר תעלומה거대ית בליבו הזעום",
+      "description_he": "חוקרים גילו מועמד מיוחד ליקום שעשוי להיות עוברין של כוכב ענק - עם שילוב מוזר של תכונות שכוללות ליבה קומפקטית באופן חריג. זה כמו מצאנו ביצה שמתנהגת בדרך שהיא לא צריכה - והקוסמוס לא מספר לנו למה!",
       "link": "https://interestingengineering.com/space/cosmic-dragon-egg-universe-biggest-stars-begin",
       "image_url": null,
       "pub_date": "Sun, 25 Oct 2026 12:41:10 +0000",
@@ -567565,7 +567565,7 @@
       "categories": [
         "Space"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-10-25T14:50:32.820Z",
       "created_at": "2026-10-25T14:50:32.820Z"
@@ -567575,8 +567575,8 @@
       "source": "Tom's Hardware",
       "title_en": "Ukrainian drone attacks hammer Russia's finance ministry data center, damaged facility reportedly holds tax databases",
       "description_en": "Reports say that this is one of three data centers that the Russian finance ministry operated.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "כטב\"ם אוקראיני תקף את מרכז הנתונים של משרד האוצר הרוסי - מסדי הנתונים של המיסים ניזוקו",
+      "description_he": "בהתקפה שנחשבת לאחת הפעולות הסייבר המוחשיות ביותר במלחמה, הצליחו כטב\"ם אוקראיניים לפגוע במתקן קריטי המכיל מסדי נתונים של מיסים - והשיר עוד: זה רק אחד משלושה מרכזי נתונים שמשרד האוצר הרוסי מפעיל על כל שטחו.",
       "link": "https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drone-attacks-hammer-russias-finance-ministry-data-center-damaged-facility-reportedly-holds-tax-databases-facility-also-holds-other-important-state-registry-data",
       "image_url": "https://cdn.mos.cms.futurecdn.net/wmDc2qYAL4pCfWnSCMvJnd-1920-80.jpg",
       "pub_date": "Sun, 25 Oct 2026 14:05:00 +0000",
@@ -567585,7 +567585,7 @@
         "Data Centers",
         "Tech Industry"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-10-25T14:50:33.955Z",
       "created_at": "2026-10-25T14:50:33.955Z"
@@ -567595,8 +567595,8 @@
       "source": "Tom's Hardware",
       "title_en": "Nvidia discusses $2,000-per-GPU annual fee for software that 'runs agents on AI factories'",
       "description_en": "Nvidia CEO Jensen Huang is reportedly weighing annual software fees of around $2,000 per GPU for enterprise AI, a model that could generate $10 billion a year if five million licenses were sold. The pricing and launch timeline remain unconfirmed, while Nvidia continues to expand its AI software and security tools for enterprise customers.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "Nvidia שוקלת לגבות 2,000 דולר בשנה לכל GPU עבור תוכנת AI agents",
+      "description_he": "סלNews עצום מ-Nvidia: ג'נסן הואנג מחשבת על דגם תמחור של כ-2,000 דולר בשנה לכל GPU עבור enterprise AI, משהו שיכול להיות לבחורה מיליארד דולר בשנה אם יימכרו חמש מיליון licenses. עוד לא ברור אם זה בכלל יקרה וכמה זה יעלה, אבל ברור שNvidia לא מתכננת להפסיק למחוץ לעסקים בענת ה-AI.",
       "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
       "image_url": "https://cdn.mos.cms.futurecdn.net/TwfFbH55Mt433hRvkWbSD5-1920-80.jpg",
       "pub_date": "Sun, 25 Oct 2026 13:00:00 +0000",
@@ -567605,7 +567605,7 @@
         "GPUs",
         "PC Components"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-10-25T14:50:33.955Z",
       "created_at": "2026-10-25T14:50:33.955Z"
@@ -567615,8 +567615,8 @@
       "source": "Tom's Hardware",
       "title_en": "Jailbroken PS5s can now run Steam PC games",
       "description_en": "Playden for PS5 creates an app for each Steam game that it downloads, allowing it to appear as a separate tile on the console's home screen.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "PS5 מפוצצת יכולה להריץ משחקי Steam של PC",
+      "description_he": "כלי חדש בשם Playden מאפשר למשתמשים של PS5 מפוצצות להוריד משחקים ישירות מ-Steam ולהריץ אותם בקונסולה, כשכל משחק מופיע כ-tile נפרד בעמוד הבית. זה בעצם הופך את ה-PS5 ל-PC gaming machine במלא הכוח, אבל כמובן שזה פעולה לא חוקית שדורשת jailbreak של הקונסולה.",
       "link": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-steam-pc-games-you-can-now-sign-in-with-your-steam-account-and-install-games-from-your-library-directly-to-the-console",
       "image_url": "https://cdn.mos.cms.futurecdn.net/nd79YEyZjKpereVXCPBBMD-1920-80.png",
       "pub_date": "Sun, 25 Oct 2026 12:40:11 +0000",
@@ -567626,7 +567626,7 @@
         "Video Games",
         "Console Gaming"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-10-25T14:50:33.955Z",
       "created_at": "2026-10-25T14:50:33.955Z"
@@ -567636,8 +567636,8 @@
       "source": "Tom's Hardware",
       "title_en": "Windows XP debuted 25 years ago today",
       "description_en": "Windows XP became available at retailers for the first time on this day back in 2001.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "Windows XP חגג 25 שנים לקיומו היום",
+      "description_he": "לפני רבע מאה, ב-2001, הגיע Windows XP לראשונה לחנויות הלאומיות, והוא הפך לאחד מהגרסאות המוצלחות ביותר של Windows שאי פעם השפיעה על מיליארדים של משתמשים בעולם. הערכת נוסטלגיה לאחד מסימני הדור של תחנות העבודה והמחשבים האישיים שהגדירו יומיום טכנולוגי למשך שנים רבות.",
       "link": "https://www.tomshardware.com/software/windows/windows-xp-debuted-25-years-ago-today-microsofts-biggest-launch-since-95-was-its-first-consumer-os-to-remove-the-dos-underpinnings",
       "image_url": "https://cdn.mos.cms.futurecdn.net/nwKzoi7A4Wp8QDVRRJRLMW-1920-80.jpg",
       "pub_date": "Sun, 25 Oct 2026 12:20:00 +0000",
@@ -567647,7 +567647,7 @@
         "Software",
         "Operating Systems"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-10-25T14:50:33.955Z",
       "created_at": "2026-10-25T14:50:33.955Z"
@@ -567657,14 +567657,14 @@
       "source": "AI Post (TG)",
       "title_en": "🇸🇪 Sweden’s Government Offices are blocking ChatGPT and Claude on staff computers from Monday. This leaves Microsoft Copilot as the only approved AI, which can run Claude models anyway.@aipost 🏴",
       "description_en": "🇸🇪 Sweden’s Government Offices are blocking ChatGPT and Claude on staff computers from Monday. This leaves Microsoft Copilot as the only approved AI, which can run Claude models anyway.@aipost 🏴",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "🇸🇪 משרדי הממשלה בשוודיה חוסמים ChatGPT ו-Claude - רק Microsoft Copilot יישאר מאושר",
+      "description_he": "משרדי הממשלה השוודית מחליטים לחסום את ChatGPT ו-Claude על מחשבי עובדים החל מיום שני, ומותירים רק את Microsoft Copilot כפתרון ה-AI המאושר. הקטע המעניין? Copilot בכל זאת יכול להריץ את מודלים של Claude, אז למעשה זה פחות חסימה וקצת יותר משחק פוליטי של בחירה.",
       "link": "https://t.me/aipost/8608",
       "image_url": "https://cdn4.telesco.pe/file/ezfuPmiaqml1tArHdf6KNt-cS6H6w2oe0qaA-gCuQBwXUA4mg2mKQJfJeA9G9N8ed_bk7OqX4qHJ72GYiyzYA6Is_TZu7zNk6jq6grMY3kR5btHoHrVhlkRvct30MlYZ_CclxDPQ0I3Ik_UJ4jgJhYWu09dXtzmWUkq21iNSYyqhfw0b7pCf08K4pje1iKC9k3NXcNjgNRVMte_qFF7zGcgYmRpq-egFaMzLw4BD-FU0Thd7e86aeKIvWmg1-nmbDQKw_LIAkDofP3XlmOrb8pl6u7nQl3EvPq05z5CTEEtq0nXtc0-n0ofPm2AiVobsfttIhjokwHAdD6aqPINS0w.jpg",
       "pub_date": "2026-10-25T12:57:10+00:00",
       "author": null,
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-10-25T14:50:40.215Z",
       "created_at": "2026-10-25T14:50:40.215Z"
