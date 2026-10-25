@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "חשבון של 518 מיליארד דולר והפסד של 80 מיליארד? בואו נרגיע - זה יותר מסובך מזה נראה\n\nאנתרופיק מתקרבת ל-IPO וכמה כותרות מעוררות פחד, אבל כשמחפרים קצת עמוק זה בכלל לא מפחיד כמו שזה נראה בהתחלה. אלפיים מיליארד דולר שנשמע כמו מספר קומי? זה בעצם התחייבות על עשור, עם חוזים מפוזרים לחמש עד שבע שנים הקادמות - כלומר בממוצע 52 מיליארד בשנה.",
+    "t": "הביל של 518 מיליארד דולר של Anthropic והפסד של 80 מיליארד - זה נראה מפחיד אבל זה מסובך יותר\n\nAnthropic עומדת על סף IPO והכותרות על התחייבויות כספיות ענקיות מעוררות דיון קשה - אבל כשחופרים עמוק, התמונה הרבה יותר הגיונית. ההתחייבות של 518 מיליארד דולר להשקעה בתשתיות אולי נשמעת מטורפת, אבל היא פרוסה על כעשר שנים עם חוזים ל-5-7 השנים הקרובות, שמביעה בממוצע התחייבות שנתית של כ-52 מיליארד דולר - וזה הרבה יותר סביר כשמדברים על חברת AI בגודל כזה.",
     "d": "2026-10-24T23:47:36+00:00",
     "v": 0,
     "l": [
@@ -14,9 +14,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Anthropic"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": "https://cdn4.telesco.pe/file/BEhK37aYaYCdaTvicI2fVWy5l5k4qF8ErnG3IQOmecz06cN9HE_L84sGabKrC1YaYxj0gVv-9IrSdRbkHEKq7GGCBnkRXl0-sG6eqM-xDEdkCwY8kNn--HlhOZXtCfsVg-yaFXs1itWHW4SboEQZZwpanNFkrfPVv_vsOTjN4AMDRA0sXy-BfeX4sdnMscsA4CabDlQVjqGItlnjJXl0MkTklujXRKDDBlw4J8-y-UiIl9jDD5HlzqA0tIjGZeYjBY3A53XZcdKTOaZ_HC2d71V5ivgMz9VtVx1Hsz0Lt1B6veS41U1njkpWF0ouZGhAqC6cip8SmYQUDi7yZLaRvg.jpg",
