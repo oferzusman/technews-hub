@@ -1,9 +1,9 @@
 {
-  "total": 26181,
-  "translated": 26174,
+  "total": 26189,
+  "translated": 26182,
   "untranslated": 7,
-  "today": 1,
-  "week": 776,
+  "today": 9,
+  "week": 784,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -31,9 +31,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1538,
-      "translated": 1536,
-      "lastDate": "2026-10-24T23:47:36+00:00"
+      "total": 1539,
+      "translated": 1537,
+      "lastDate": "2026-10-25T03:06:01+00:00"
     },
     {
       "name": "Product Hunt",
@@ -55,8 +55,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 1188,
-      "translated": 1188,
+      "total": 1190,
+      "translated": 1190,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -79,15 +79,15 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 835,
-      "translated": 835,
+      "total": 838,
+      "translated": 838,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 701,
-      "translated": 701,
-      "lastDate": "2026-10-24T23:08:27+00:00"
+      "total": 703,
+      "translated": 703,
+      "lastDate": "2026-10-25T05:10:27+00:00"
     },
     {
       "name": "Backdoor (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-25T01:39:10.158Z"
+  "generatedAt": "2026-10-25T05:45:07.138Z"
 }
