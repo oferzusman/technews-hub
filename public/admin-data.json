@@ -1,9 +1,9 @@
 {
-  "total": 26254,
-  "translated": 26247,
+  "total": 26265,
+  "translated": 26258,
   "untranslated": 7,
-  "today": 2,
-  "week": 737,
+  "today": 13,
+  "week": 748,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2256,
-      "translated": 2256,
+      "total": 2257,
+      "translated": 2257,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -25,15 +25,15 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1658,
-      "translated": 1658,
+      "total": 1659,
+      "translated": 1659,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1546,
-      "translated": 1544,
-      "lastDate": "2026-10-26T00:08:01+00:00"
+      "total": 1548,
+      "translated": 1546,
+      "lastDate": "2026-10-26T05:42:01+00:00"
     },
     {
       "name": "Product Hunt",
@@ -49,14 +49,14 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 1285,
-      "translated": 1285,
+      "total": 1286,
+      "translated": 1286,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
       "name": "New Atlas",
-      "total": 1196,
-      "translated": 1196,
+      "total": 1197,
+      "translated": 1197,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -85,15 +85,15 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 708,
-      "translated": 708,
-      "lastDate": "2026-10-25T23:01:27+00:00"
+      "total": 710,
+      "translated": 710,
+      "lastDate": "2026-10-26T05:03:27+00:00"
     },
     {
       "name": "Backdoor (TG)",
-      "total": 648,
-      "translated": 647,
-      "lastDate": "2026-10-25T21:50:36+00:00"
+      "total": 649,
+      "translated": 648,
+      "lastDate": "2026-10-26T06:19:31+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -103,9 +103,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 484,
-      "translated": 482,
-      "lastDate": "2026-10-25T07:37:48+00:00"
+      "total": 485,
+      "translated": 483,
+      "lastDate": "2026-10-26T06:06:27+00:00"
     },
     {
       "name": "Pypi.org",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 238,
-      "translated": 238,
-      "lastDate": "2026-10-24T09:06:15+00:00"
+      "total": 239,
+      "translated": 239,
+      "lastDate": "2026-10-26T06:05:21+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-26T01:33:28.253Z"
+  "generatedAt": "2026-10-26T06:33:45.724Z"
 }
