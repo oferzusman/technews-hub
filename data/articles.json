@@ -569884,8 +569884,8 @@
       "source": "TechCrunch AI",
       "title_en": "Will AI expose the rickety infrastructure of the internet?",
       "description_en": "The moment you realize the internet is \"held together by glue and dreams.\"",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "האם AI יחשוף את התשתיות השברירות של האינטרנט?",
+      "description_he": "ככל שAI הופך למרכזי יותר בחיינו, מתחיל להיות ברור שהאינטרנט שלנו בנוי על קומקום שברוק ותקוות - וזה עלול להשתבש לגמרי כשנשליך עליו עומס של מליארדים של בקשות מודלים של בינה מלאכותית. התשתיות הקיימות שלנו פשוט לא תוכננו לזה.",
       "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
       "image_url": null,
       "pub_date": "Sat, 24 Oct 2026 20:15:33 +0000",
@@ -569896,7 +569896,7 @@
         "Equity podcast",
         "php"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-10-26T19:32:39.781Z",
       "created_at": "2026-10-26T19:32:39.781Z"
@@ -570122,8 +570122,8 @@
       "source": "OpenAI Blog",
       "title_en": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
       "description_en": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "איך Ultrafast קיצרה חקירות תקלות משעות לדקות ב-OpenAI",
+      "description_he": "המהנדסים ב-OpenAI גילו דרך קסם עם Codex Ultrafast - כלי שמקצץ בזמן חקירת תקלות מכמה שעות לכמה דקות בלבד. אנחנו רואים כאן איך הם משתמשים בזה לניתוח אבטחה מהיר יותר, רিפקטורינג של קוד, והאצת כל סוגי ההזרימות היומיות. זה בגדול סיפור על איך AI יכול לעזור למהנדסים להיות פי 10 יותר מהירים כשהשעה חשובה.",
       "link": "https://openai.com/index/openai-cut-incident-investigation",
       "image_url": null,
       "pub_date": "Mon, 26 Oct 2026 07:00:00 GMT",
@@ -570131,7 +570131,7 @@
       "categories": [
         "OpenAI on OpenAI"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-10-26T19:32:41.320Z",
       "created_at": "2026-10-26T19:32:41.320Z"
@@ -570141,8 +570141,8 @@
       "source": "OpenAI Blog",
       "title_en": "Introducing GPT-6.1 Terra",
       "description_en": "Bringing fast and capable computer use to everyone",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "GPT-6.1 Terra - הדור החדש של OpenAI",
+      "description_he": "OpenAI השיקה את GPT-6.1 Terra, מודל חדש שמביא יכולות computer use מתקדמות וביצועים מהירים לכולם. התוכנה מיועדת להנגיש AI חזק וגמיש לשימוש יומיומי, מבלי שתצטרכו להיות tech experts. זו צעד משמעותי בהנגשת טכנולוגיה מתקדמת למסה הרחבה של משתמשים. | מקור: OpenAI Blog",
       "link": "https://openai.com/index/introducing-gpt-6-1-terra",
       "image_url": null,
       "pub_date": "Mon, 26 Oct 2026 00:00:00 GMT",
@@ -570150,7 +570150,7 @@
       "categories": [
         "Product"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-10-26T19:32:41.320Z",
       "created_at": "2026-10-26T19:32:41.320Z"
@@ -570762,14 +570762,14 @@
       "source": "Hi, AI English (TG)",
       "title_en": "🚀 Flying Police Patrol Vehicle Unveiled in the U.S.The Florida Polytechnic University Police Department has unveiled Astro, a single-seat electric flying vehicle. According to the university, it is t",
       "description_en": "🚀 Flying Police Patrol Vehicle Unveiled in the U.S.The Florida Polytechnic University Police Department has unveiled Astro, a single-seat electric flying vehicle. According to the university, it is the first aircraft of its kind in the U.S. designed specifically for police use.💰 The aircraft is actually a Jetson ONE repainted in police colors, and it cost the university nearly $150,000. It weighs about 70 kg without its battery or pilot, can reach speeds of 102 km/h, and can stay airborne for ",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "🚀 רכב שיטור מעופף חושף בארה״ב - המשטרה של אוניברסיטה בפלורידה הציגה כלי טיסה חשמלי מופלא",
+      "description_he": "אוניברסיטת פלוריד פוליטכניק חשפה את אסטרו - כלי טיסה חשמלי בעלת מושב יחיד שעוצבה במיוחד למשימות שיטור, וזה הראשון מסוגו בארה״ב. המטוס הוא גרסה משודרגת של Jetson ONE שצבועה בצבעי משטרה, עלה כ-150,000 דולר, שוקל 70 ק״ג בלבד, מגיע למהירות של 102 קמ״ש וניתן להשאירו באוויר למשך זמן משמעותי.",
       "link": "https://t.me/hiaimediaen/2886",
       "image_url": null,
       "pub_date": "2026-10-26T16:00:30+00:00",
       "author": null,
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-10-26T19:32:49.929Z",
       "created_at": "2026-10-26T19:32:49.929Z"
