@@ -568554,6 +568554,835 @@
       "priority": "hot",
       "fetchedAt": "2026-10-26T07:27:14.456Z",
       "created_at": "2026-10-26T07:27:14.456Z"
+    },
+    {
+      "id": 26271,
+      "source": "The Verge AI",
+      "title_en": "Can AI help solve the COBOL code crisis?",
+      "description_en": "A computer running COBOL 73, an antiquated computer programming language, awaits taxpayer information entries at the Internal Revenue Service in Austin, Tx., on Friday, June 10, 2022. | Image: Getty Images\t\n\nWhat do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down.\nOpenAI thinks it may have a solution. On Monday, the company touted",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+      "image_url": null,
+      "pub_date": "2026-10-26T13:15:00.000Z",
+      "author": "Robert Hart",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T13:31:45.823Z",
+      "created_at": "2026-10-26T13:31:45.823Z"
+    },
+    {
+      "id": 26272,
+      "source": "The Decoder",
+      "title_en": "Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI",
+      "description_en": "High-frequency traders like Jane Street and Hudson River Trading are now racing each other for AI computing power.\nThe article Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai/",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 09:49:33 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Finance"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T13:31:47.122Z",
+      "created_at": "2026-10-26T13:31:47.122Z"
+    },
+    {
+      "id": 26273,
+      "source": "The Decoder",
+      "title_en": "Toyota is betting $6.4 billion a year on humanoid robots and factory automation",
+      "description_en": "Toyota wants to turn itself into a global robotics company, and it's betting on humanoid robots and factory automation to get there.\nThe article Toyota is betting $6.4 billion a year on humanoid robots and factory automation appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 09:18:15 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Robotics",
+        "Toyota"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T13:31:47.122Z",
+      "created_at": "2026-10-26T13:31:47.122Z"
+    },
+    {
+      "id": 26274,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: everyday AI harms and the race to nuclear spaceflight",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the Responsible Technology Youth Power Fund at…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 12:40:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T13:31:47.225Z",
+      "created_at": "2026-10-26T13:31:47.225Z"
+    },
+    {
+      "id": 26275,
+      "source": "MIT Technology Review",
+      "title_en": "The focus on AI safety disasters ignores everyday harms",
+      "description_en": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 09:01:00 +0000",
+      "author": "Sam Hiner, Emma Leiken",
+      "categories": [
+        "Artificial intelligence",
+        "AI",
+        "App"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T13:31:47.225Z",
+      "created_at": "2026-10-26T13:31:47.225Z"
+    },
+    {
+      "id": 26276,
+      "source": "MarkTechPost",
+      "title_en": "Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang",
+      "description_en": "Tsinghua researchers released AKV, an SGLang-based serving system for cache engineering. LLM agents drop and reposition KV cache instead of summarizing history, cutting average cost 27.7% across 4 agent benchmarks.\nThe post Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 07:56:45 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs",
+        "New Releases",
+        "Open Source",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Uncategorized"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T13:31:47.332Z",
+      "created_at": "2026-10-26T13:31:47.332Z"
+    },
+    {
+      "id": 26277,
+      "source": "The Guardian AI",
+      "title_en": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
+      "description_en": "Australian Signals Directorate chief says advanced AI tools are needed to defend against ‘AI-enabled attackers’\n\nGet our daily political email, free app or daily news podcast\n\nAustralians should prepare for more basic and important online services to go offline unexpectedly, the nation’s signals intelligence agency has warned, urging that “system security must be prioritised over system availability”.\nThe Australian Signals Directorate (ASD) also says businesses and critical infrastructure must ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns",
+      "image_url": "https://i.guim.co.uk/img/media/a87ce9bdb5e94c4f30932078f5f45eda44e1da12/559_205_4047_3240/master/4047.jpg?width=140&quality=85&auto=format&fit=max&s=33d4b67b6372e31481f615621db67cbd",
+      "pub_date": "Mon, 26 Oct 2026 11:30:40 GMT",
+      "author": "Josh Butler",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T13:31:47.872Z",
+      "created_at": "2026-10-26T13:31:47.872Z"
+    },
+    {
+      "id": 26278,
+      "source": "The Guardian AI",
+      "title_en": "Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion – business live",
+      "description_en": "Meta says share sale will support its “continued investment in AI infrastructure and personal superintelligence”, as Elon Musk warns some AI cloud computing firms face ‘guppy-level death’\nUK government borrowing costs are dropping this morning, a welcome sign ahead of Wednesday’s budget.\nThe yield (or interest rate) on 10 and 30-year UK gilts have both dropped by around three basis points (0.03 of a percentage point) this morning.\nIssuing loans to public financial institutions creates a financia",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
+      "image_url": "https://i.guim.co.uk/img/media/afbb0cd83bbf049e769d061a626b00d5b467ae51/0_0_4169_3335/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=9422d4fba372bcb998da9914c2c9bb48",
+      "pub_date": "Mon, 26 Oct 2026 13:20:04 GMT",
+      "author": "Graeme Wearden",
+      "categories": [
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Economics",
+          "$": {
+            "domain": "https://www.theguardian.com/business/economics"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "FTSE",
+          "$": {
+            "domain": "https://www.theguardian.com/business/ftse"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T13:31:47.872Z",
+      "created_at": "2026-10-26T13:31:47.872Z"
+    },
+    {
+      "id": 26279,
+      "source": "The Guardian AI",
+      "title_en": "Anthropic files for listing on US stock market with valuation of more than $1.5tn",
+      "description_en": "Market debut of the company behind the chatbot Claude will be one of the largest in US history\nAnthropic has publicly filed for a listing on the US stock market under the symbol ANT.\nAnalysts and investors have previously valued the San Francisco-based company, founded in 2021, at more than $1.5tn, meaning its listing will be one of the largest in market history.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
+      "image_url": "https://i.guim.co.uk/img/media/445e90b032229c54129ea99217bf19c2cdd0d1a3/315_0_4582_3666/master/4582.jpg?width=140&quality=85&auto=format&fit=max&s=76e41e6d4313a6be1c4ded280c3f071f",
+      "pub_date": "Mon, 26 Oct 2026 13:12:59 GMT",
+      "author": "Blake Montgomery",
+      "categories": [
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "US markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/us-markets"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Dario Amodei",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/dario-amodei"
+          }
+        },
+        {
+          "_": "Chatbots",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatbots"
+          }
+        },
+        {
+          "_": "IPOs",
+          "$": {
+            "domain": "https://www.theguardian.com/business/ipos"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T13:31:47.872Z",
+      "created_at": "2026-10-26T13:31:47.872Z"
+    },
+    {
+      "id": 26280,
+      "source": "The Guardian AI",
+      "title_en": "Anthropic’s Claude AI model accessed Georgia voter data in US",
+      "description_en": "Latest example of unauthorised behaviour shows AI model bypassed paywall to access data as part of statistics project \n\nBusiness live – latest updates\n\nAnthropic sued for allegedly using 274 Elvis songs to train AI models\n\n\nAnthropic’s Claude model accessed voter data in the US state of Georgia, the AI company has confirmed, in the latest example of unauthorised behaviour by the technology.\nThe AI model managed to bypass a paywall to reach data that is publicly available but is typically accessi",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
+      "image_url": "https://i.guim.co.uk/img/media/53e6ecce82d90c5106536d7c112f492e510cdf2b/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=e1b5db06b4c6c72fbb756aa29fbf914f",
+      "pub_date": "Mon, 26 Oct 2026 11:03:33 GMT",
+      "author": "Dan Milmo Global technology editor",
+      "categories": [
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Georgia",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/state-of-georgia"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T13:31:47.872Z",
+      "created_at": "2026-10-26T13:31:47.872Z"
+    },
+    {
+      "id": 26281,
+      "source": "Interesting Engineering",
+      "title_en": "Nuclear decommissioning robots take on dangerous work at Fukushima Daiichi",
+      "description_en": "Robots are helping engineers tackle the complex cleanup of Japan’s Fukushima Daiichi Nuclear Power Station...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/robots-take-on-nuclear-cleanup",
+      "image_url": "https://www.youtube.com/embed/Rhci7RRsNAM",
+      "pub_date": "Mon, 26 Oct 2026 13:28:04 +0000",
+      "author": "Jijo Malayil",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T13:31:48.695Z",
+      "created_at": "2026-10-26T13:31:48.695Z"
+    },
+    {
+      "id": 26282,
+      "source": "Interesting Engineering",
+      "title_en": "New recycling method captures 90% copper from mixed metal powders for reuse",
+      "description_en": "Researchers at the University of Maine have developed a new method to recover high-value metals,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/us-scientists-separate-mixed-metal-powders",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 13:20:42 +0000",
+      "author": "Muskan Bhatia",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T13:31:48.696Z",
+      "created_at": "2026-10-26T13:31:48.696Z"
+    },
+    {
+      "id": 26283,
+      "source": "Interesting Engineering",
+      "title_en": "Sea cucumber-inspired gel helps rat tendons heal, could repair human soft tissues",
+      "description_en": "University of Waterloo researchers have developed a sea cucumber-inspired gel that could one day help...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/sea-cucumber-inspired-hydrogel-tendon-repair",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 13:00:11 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "Science"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T13:31:48.696Z",
+      "created_at": "2026-10-26T13:31:48.696Z"
+    },
+    {
+      "id": 26284,
+      "source": "Interesting Engineering",
+      "title_en": "Flexible solar panels retain 92.5% efficiency after 1,044 hours in heat, humidity tests",
+      "description_en": "A joint research team led by Southeast University and Soochow University has found a way...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/flexible-perovskite-solar-cells-record-efficiency",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 10:39:35 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [
+        "Energy"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T13:31:48.696Z",
+      "created_at": "2026-10-26T13:31:48.696Z"
+    },
+    {
+      "id": 26285,
+      "source": "Tom's Hardware",
+      "title_en": "Cadence reveals Maestro, fine-tuned AI models built to run specialized chip design agents, with early access coming for 'select customers' in Q4 2026",
+      "description_en": "Cadence unveiled Maestro, domain-specialized AI models for its chip design agents, with early access for select customers in Q4 2026.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/cadence-reveals-maestro-fine-tuned-ai-models-built-to-run-specialized-chip-design-agents-with-early-access-coming-for-select-customers-in-q4-2026-claims-up-to-30-percent-higher-quality-results-and-up-to-5x-token-efficiency-over-a-general-purpose-ai-model",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/P8XPrtLpMc8eqkqoGb66Vo-1920-80.png",
+      "pub_date": "Mon, 26 Oct 2026 13:20:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T13:31:52.292Z",
+      "created_at": "2026-10-26T13:31:52.292Z"
+    },
+    {
+      "id": 26286,
+      "source": "Tom's Hardware",
+      "title_en": "Intel's Lip-Bu Tan has spoken with Lisa Su about potential collaboration with AMD",
+      "description_en": "Intel CEO Lip-Bu Tan has reportedly discussed potential areas of cooperation with AMD chief Lisa Su as Intel works to rebuild its CPU business and expand its foundry operations. The companies have already collaborated on x86 standards and CPU software, including AMD’s integration of its ZenDNN optimizations into Intel’s oneDNN library. Neither executive has publicly detailed the reported discussions or confirmed a new agreement.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/wbhpXv9wcgo6udYTmNjvVX-1920-80.jpg",
+      "pub_date": "Mon, 26 Oct 2026 12:40:00 +0000",
+      "author": " Newton Gitonga ",
+      "categories": [
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T13:31:52.292Z",
+      "created_at": "2026-10-26T13:31:52.292Z"
+    },
+    {
+      "id": 26287,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle",
+      "description_en": "Linux kernel modules lift Nvidia’s half-rate AI tensor limit on GeForce RTX 20, 30, and 40-series GPUs.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe-1920-80.jpg",
+      "pub_date": "Mon, 26 Oct 2026 11:00:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T13:31:52.292Z",
+      "created_at": "2026-10-26T13:31:52.292Z"
+    },
+    {
+      "id": 26288,
+      "source": "Tom's Hardware",
+      "title_en": "Bitcoin reward offered to anyone who could break into an unpatched server running PHP, hacker cracks site and claims bounty",
+      "description_en": "The “Steal My Bitcoin” challenge offers a bounty to anyone who can breach a deliberately vulnerable PHP website using the recently disclosed PHP2Shell flaws. The challenge follows previous recoveries of locked Bitcoin fortunes through software vulnerabilities and AI-assisted investigation, but no successful claim has been confirmed.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cryptomining/hacker-offers-bitcoin-reward-to-anyone-who-can-break-into-an-unpatched-server-running-php-still-remains-unhacked-php2shell-challenge-tests-claims-that-ai-makes-exploiting-vulnerabilities-easy",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/nR46h5GnedCeKyZtVqZr3L-1920-80.jpg",
+      "pub_date": "Mon, 26 Oct 2026 10:30:00 +0000",
+      "author": " Newton Gitonga ",
+      "categories": [
+        "Cryptomining",
+        "Tech Industry",
+        "Cryptocurrency"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T13:31:52.292Z",
+      "created_at": "2026-10-26T13:31:52.292Z"
+    },
+    {
+      "id": 26289,
+      "source": "Tom's Hardware",
+      "title_en": "Reddit’s r/opensource bans AI-made and AI-focused projects, also bans non-English speakers",
+      "description_en": "Reddit’s r/opensource has barred AI-built, AI-focused, and AI-using projects under new rules announced October 24. The crackdown also imposes strict requirements on project age and contributors, while restrictions on non-English speakers have sparked further backlash. The debate puts the subreddit’s policy at odds with Linux’s acceptance of disclosed AI-assisted code contributions.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/reddits-r-opensource-bans-ai-made-and-ai-focused-projects-also-bans-non-english-speakers-sweeping-new-rules-spark-backlash-over-linux-kernel-contributions-and-solo-developers",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/wA2Noe6WhknviBc6VQJqFo-1920-80.jpg",
+      "pub_date": "Mon, 26 Oct 2026 10:00:00 +0000",
+      "author": " Newton Gitonga ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T13:31:52.292Z",
+      "created_at": "2026-10-26T13:31:52.292Z"
+    },
+    {
+      "id": 26290,
+      "source": "Tom's Hardware",
+      "title_en": "Denmark’s bid to ditch Microsoft Office for open-source alternative Collabora collapses in under six months",
+      "description_en": "The Danish digitization ministry experimented with Collabora as an alternative to Microsoft Office, but employees who used them were frequently frustrated with style and paragraph formatting challenges, among other complaints.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/microsoft-office/denmarks-bid-to-ditch-microsoft-office-for-open-source-alternative-collabora-collapses-in-under-six-months-employees-cite-issues-with-style-formatting-and-tracking-changes",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/NAbz7BCDUARTjEEB4XNUvS-1920-80.png",
+      "pub_date": "Mon, 26 Oct 2026 09:30:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Microsoft Office",
+        "Software",
+        "Applications"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T13:31:52.292Z",
+      "created_at": "2026-10-26T13:31:52.292Z"
+    },
+    {
+      "id": 26291,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic IPO live updates: AI lab lost $80.7 billion in first half of 2026",
+      "description_en": "All the details from Anthropic's IPO prospectus with the Securities and Exchange Commission.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 13:28:53 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T13:31:52.298Z",
+      "created_at": "2026-10-26T13:31:52.298Z"
+    },
+    {
+      "id": 26292,
+      "source": "CNBC Tech",
+      "title_en": "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature",
+      "description_en": "Fanatics is using AI to help shoppers navigate more than 1.5 million items of sports merchandise, with a Shop the Look feature powered by OpenAI Codex.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/26/fanatics-openai-codex-sports-merchandise-shopping.html",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 13:02:37 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T13:31:52.298Z",
+      "created_at": "2026-10-26T13:31:52.298Z"
+    },
+    {
+      "id": 26293,
+      "source": "CNBC Tech",
+      "title_en": "Meta announces $95 billion stock offering to fund AI expansion",
+      "description_en": "Meta plans to raise $95 billion to fund AI infrastructure and superintelligence, as Nvidia, AMD and Broadcom eye up to $5 billion in shares.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 12:42:41 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T13:31:52.298Z",
+      "created_at": "2026-10-26T13:31:52.298Z"
+    },
+    {
+      "id": 26294,
+      "source": "CNBC Tech",
+      "title_en": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
+      "description_en": "Investors are already questioning the debt-fueled expansion of neoclouds and whether the large AI infrastructure build-out will generate long-term returns.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 12:10:07 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T13:31:52.298Z",
+      "created_at": "2026-10-26T13:31:52.298Z"
+    },
+    {
+      "id": 26295,
+      "source": "Backdoor (TG)",
+      "title_en": "Идеальную кепку для вайбкодеров с Claude придумал российский дизайнер — стоит она 4500 рублей.Вы знаете, кому подарить такую.👍 Бэкдор",
+      "description_en": "Идеальную кепку для вайбкодеров с Claude придумал российский дизайнер — стоит она 4500 рублей.Вы знаете, кому подарить такую.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32469",
+      "image_url": "https://cdn4.telesco.pe/file/ojpizaC11r3NKgOBktdeFbHYCe7bogiMZi5-QEHSLF-TI--zInt8dokNmJqwb77RSgWDr0FlNx9zlSi_gL780Z7JW3pA2hEDxYSIFJ-3UoYupxoOEcHqX4F8f2ATMqAx8gHaV3onmVROXXbOqaqJt3PzTfk-g3DBJ4D9479tjxvJlBpIcuuh3sSP0gClnuBlEOb4ksWw_bNkLGaHquJViAZ46L71iLxLUPG1dRg6KyeuGEs81RMHRSiDIUJkMScACZd4TQmeuJxFM40TJwutgo4Zy0C_B4A3W8rg5eUmnC5pjE8G2j2hpOk7TUpSWczLoHoLfp0dGyBP-7ZdHnW15A.jpg",
+      "pub_date": "2026-10-26T07:50:35+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T13:31:53.257Z",
+      "created_at": "2026-10-26T13:31:53.257Z"
+    },
+    {
+      "id": 26296,
+      "source": "XOR Journal (TG)",
+      "title_en": "Идеальную кепку для вайбкодеров нашли в сети 🤭Стоит каких-то 4500₽. Скиньте тому самому другу-вайбкодеру.@xor_journal",
+      "description_en": "Идеальную кепку для вайбкодеров нашли в сети 🤭Стоит каких-то 4500₽. Скиньте тому самому другу-вайбкодеру.@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10363",
+      "image_url": "https://cdn4.telesco.pe/file/J1eAYLhSJwcd85YYETt2vh3_mrVnkavnQnvB2dtpLZkHAPPseo4g2UvMsGRuOxuHT8tnQ33L4-4MgUq3KH05zrwVNN_NnpqmC30LTICQHs_ik77apn7p3kmFNII9FbEwdsp3XPRKaMK0fVV0C3poxGkZhdhhrx5y3nik4p4tBI6l6RJ9K09ZN8Ut4Z7zqU7sIafRC2m0Pp2mg4N0jrm2PC3I1CIbHEQKx8HBVmW4cdcYraCoiu7rc5nN8kkXRB3qmapj2TpNZJ22ci_b8Pcnx6C-x1WlnlKw6X18s3Nqh7FBiOqL5wJe578Fj2j86wbv3JSSwhKr2APrcOJA2YQdVQ.jpg",
+      "pub_date": "2026-10-26T07:58:11+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T13:31:53.299Z",
+      "created_at": "2026-10-26T13:31:53.299Z"
+    },
+    {
+      "id": 26297,
+      "source": "Hi, AI English (TG)",
+      "title_en": "📱 A Student from China Has Created an AI Service that Detects Dementia Over the PhoneA year ago, 18-year-old Liu Sizhe noticed his grandfather's responses during phone calls were getting shorter and ",
+      "description_en": "📱 A Student from China Has Created an AI Service that Detects Dementia Over the PhoneA year ago, 18-year-old Liu Sizhe noticed his grandfather's responses during phone calls were getting shorter and that he was falling silent more often, while his grandmother began mixing up names. That's when he came up with the idea of creating an AI assistant that could detect early signs of dementia through regular phone conversations.To train the model, Liu used a database of recorded conversations with ol",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2884",
+      "image_url": "https://cdn4.telesco.pe/file/lftD2jOKw_D7UGT9O_xXPlUuUYd77xZqmQJdQPX_GwOBhawWieKlm4-nURcvVSeW7IV2EgOpOsrlJV3sEtbhLrcrTnM_4YQJYy7PfYQzYDv8FN_9Pq6vZV3bdM3h9rK766Oc1if5nkILADa-zEm3PfpjoSjxKypUCe1qZDydmUEFpZ1ihVMwveIwXRl-MU8jOeIHkSq_KhmUWKjMqlR5JYAAlOFH0JDQ4VZAOtdjZVTtx5oML1LSyabE6tVAKRDgdvwKt5a8NGfgz2Ao7_rPfSQ1C81mCqud2jLxt1OYR_JmC9VKNYU5PkpiFfZOa5dOaqjQTLEaZDYa2hSZjYhbrg.jpg",
+      "pub_date": "2026-10-26T07:54:24+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T13:31:53.629Z",
+      "created_at": "2026-10-26T13:31:53.629Z"
+    },
+    {
+      "id": 26298,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🎃 MONSTERS, IT'S GAME ON! CELEBRATE HALLOWEEN WITH USVampires are sharpening their fangs, werewolves are gathering in packs, witches are brewing potions, and ghosts and zombies are returning to the h",
+      "description_en": "🎃 MONSTERS, IT'S GAME ON! CELEBRATE HALLOWEEN WITH USVampires are sharpening their fangs, werewolves are gathering in packs, witches are brewing potions, and ghosts and zombies are returning to the human world.Join the epic Halloween battle for a chance to win a year of Premium X2 and 2,000 other prizes!HOW TO JOIN THE BATTLE:1️⃣ Open our app and choose your side: vampires or werewolves.2️⃣ Generate photos and videos featuring your favorite characters and try out some seriously spooky Halloween",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2885",
+      "image_url": null,
+      "pub_date": "2026-10-26T11:24:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T13:31:53.629Z",
+      "created_at": "2026-10-26T13:31:53.629Z"
+    },
+    {
+      "id": 26299,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🎃 Нечисть, к бою! Отмечаем Хэллоуин с ИИ-Ботом №1Вампиры точат клыки, оборотни собираются в стаи, ведьмы готовят заклинания, призраки и зомби возвращаются в мир людей.Запускаем грандиозную хэллоуинск",
+      "description_en": "🎃 Нечисть, к бою! Отмечаем Хэллоуин с ИИ-Ботом №1Вампиры точат клыки, оборотни собираются в стаи, ведьмы готовят заклинания, призраки и зомби возвращаются в мир людей.Запускаем грандиозную хэллоуинскую битву! На кону Premium X2 на год и еще 2 000 призов для активных участников.Как вступить в битву:1️⃣ Зайдите в приложение и выберите сторону: вампиры или оборотни.2️⃣ Генерируйте фото и видео с любимыми персонажами и жуткие хэллоуинские образы.3️⃣ Получайте очки, ведите свою команду к победе и вы",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3769",
+      "image_url": null,
+      "pub_date": "2026-10-26T09:03:32+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T13:31:53.681Z",
+      "created_at": "2026-10-26T13:31:53.681Z"
+    },
+    {
+      "id": 26300,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "📌 Алгоритм знает, где вы будете 7-го ноябряRecSys-митап в Москве для тех, кто уже строит рекомендательные системы и хочет делать это еще лучше.В программе — доклады от топовых экспертов Сбера с разбо",
+      "description_en": "📌 Алгоритм знает, где вы будете 7-го ноябряRecSys-митап в Москве для тех, кто уже строит рекомендательные системы и хочет делать это еще лучше.В программе — доклады от топовых экспертов Сбера с разбором кейсов, свежих подходов и неочевидных решений.После официальной части — нетворкинг. Время в узком кругу профессионалов и сообщества Зеленый RecSys.Участие бесплатное, но количество мест ограничено. Москва. Суббота. 7 ноября. RecSys!➡️️ Регистрируйтесь",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3770",
+      "image_url": "https://cdn4.telesco.pe/file/MZD5viIrj6Y033vHSYA3VJiRgxIk4DO21U1w_BmBjyd1VtvE3VkNchykW9tAPU9x6nyJ1gc5adf7gmntnK0yiIfEJM-qsRX4FwO-hixxLFtHOVq_uaKN0Ic8JUmFLFZFKzzM-OlrdEnr-UtwfT72uSsqhRnhgn3XhwvYoOJSWT73fAa2coqMd0yBT-VyMxF4SYwoCBl6Vd_qIaYD9mN6vma3quXD-XOaU3e3gPrdvgYl1GEQXANbV5r0dEwOlDrwFSDQJj9Q7zQYqmTNRCByhFXic5ExHATfMVTWYIn0uLWQ92aIFPKi9pKzmG0LYJGHG0JvB_hAevOdb-H5vDSCuA.jpg",
+      "pub_date": "2026-10-26T12:00:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T13:31:53.681Z",
+      "created_at": "2026-10-26T13:31:53.681Z"
+    },
+    {
+      "id": 26301,
+      "source": "Habr (TG)",
+      "title_en": "ИИ доказал квазигипотезу Римана. Что дальше?«Любой математический журнал немедленно отклонил бы их», — так математик Максим Радзивилл оценил качество изложения двух доказательств, представленных OpenA",
+      "description_en": "ИИ доказал квазигипотезу Римана. Что дальше?«Любой математический журнал немедленно отклонил бы их», — так математик Максим Радзивилл оценил качество изложения двух доказательств, представленных OpenAI. При этом последствия одного из результатов он же назвал «ошеломляющими».Речь о квазигипотезе Римана — более слабой версии знаменитой гипотезы, которая остаётся нерешённой более 160 лет. OpenAI представила два варианта доказательства: на 199 и 49 страниц. Первое прошло формальную проверку, второе ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/69864",
+      "image_url": "https://cdn4.telesco.pe/file/VWX41wOtBRqJsCobT9VnCPIwDT_QOgiY6LmqR8OFF2gGQGO1eaFuMMHadgGqd2U5MsDImBw8zO7oISpzMU0LZ00Uwzo_GAESq0x79r_-wrCH2t4HmNBX_DnZ-sx2B1zNK_H1IjZTTrBVVkMpPIQaPc5bgPRVXe6M7YmmoOMEWKk-YlM5Yam4ZYpySPA8O4VkVPYIvP_Bfy7iRSucYtlEppWhE_nKNDnbHDP-e5nsddVeMEZUKiIh791mLijVgCYoamDGeTjRibBhANAx7P9oNWlCsuKjL7XUrSqpigMn8xGrIOtBGQ-Pys2qQQ5Jn5SoyAyyCcIjREMcV88qhuBkcQ.jpg",
+      "pub_date": "2026-10-26T10:02:31+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T13:31:53.709Z",
+      "created_at": "2026-10-26T13:31:53.709Z"
+    },
+    {
+      "id": 26302,
+      "source": "Habr (TG)",
+      "title_en": "⚡ Новости к этому часубустануть канал 👉🆕 Вышел открытый анлокер, который снимает ограничение матричных вычислений на GPU видеокарт Nvidia серий RTX30xx и RTX40xx🖱 Logitech представила мышку с двумя",
+      "description_en": "⚡ Новости к этому часубустануть канал 👉🆕 Вышел открытый анлокер, который снимает ограничение матричных вычислений на GPU видеокарт Nvidia серий RTX30xx и RTX40xx🖱 Logitech представила мышку с двумя режимами [IMG]🤖 В r/opensource запретили AI‑проекты и разработчиков‑одиночек. Для ядра Linux сделали исключение🖥 OpenAI и Anthropic ограничили использование своих ИИ-моделей для создания бесплатных клонов платного ПО☀️ Физики воспроизвели в лаборатории возможный механизм нагрева солнечной короны\ud83d",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/69865",
+      "image_url": "https://cdn4.telesco.pe/file/VbH7TnlzxK-uTzjltwmKGDPTwr9Le8z--CRC2Qw_bjx2B0X6MPN8L9Trcy-WKFiduizuMtTz69BCH5TP3eIjOF6vAVeya57fa10HzSj15_amn0RLPVuxN0U7yxOPqHbII8gIuREkFuePEdcV58iPs2ySlQ72f--lD5ttsczcoyiqPbhCCu2_LVIU6dAdOWkY30k9czY8xc2_gkJeU8qe4YJdhzrKBRZWlZ_bNn6JQnYY2fcb2vyhgdMbZVo8vJh06Jag45zEyHEcRjEsTdsiHXFAiliKB2QssOqC5ZpfJ16zlTFQxap8kFKYY5cGHeQLXhz3TXOf6I7H3Q7AyqbfPQ.jpg",
+      "pub_date": "2026-10-26T10:34:04+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T13:31:53.709Z",
+      "created_at": "2026-10-26T13:31:53.709Z"
+    },
+    {
+      "id": 26303,
+      "source": "AI Post (TG)",
+      "title_en": "⚠️ Over 23,000 people saved this security checklist for the AI eraStartup CEO Sean Johnson called this week \"kind of a turning point for AI and cybersecurity\" and posted a weekend to-do list for famil",
+      "description_en": "⚠️ Over 23,000 people saved this security checklist for the AI eraStartup CEO Sean Johnson called this week \"kind of a turning point for AI and cybersecurity\" and posted a weekend to-do list for families. Most of it takes minutes:• Get a password manager and share a vault with your partner.• New, strong passwords for email and banking first.• Two-factor login everywhere. An authenticator app or passkey beats SMS, a hardware key is safest.• Add a SIM PIN to your phone so SIM-jacking gets harder.•",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8616",
+      "image_url": "https://cdn4.telesco.pe/file/C9Ds6kslDCeZzs9Gm0zEThHAACNGlTkKno2FLXhHIzb_I2-kD2hD510zdM_pL8yg4h8hjQ4K7D8uNqRdmEUx2XpL5NSKJpXOHuJJ5rQoWFvFGlEPaYaOuJSBfdZG-y3N5bEcguK4N67IUXb-pl87c77WrSmgWS-LeciQ-EHdxai9fkqwCBxZbMeb01H121KvL5W0G-JAxBu4mnVhsPQd_bbK7Jc3oiZxYO92-cXZg3Ub27xkJu8dKxu534Qm3x3ddmihygbnujiYnF6Qf0Qf7QEPlkbCjbF4V6eAcfPlX9FnNPzIxxqNJi6VrIHnV01I2mEaJtdPTXm5VckyWH17Ng.jpg",
+      "pub_date": "2026-10-26T08:22:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T13:31:53.966Z",
+      "created_at": "2026-10-26T13:31:53.966Z"
+    },
+    {
+      "id": 26304,
+      "source": "AI Post (TG)",
+      "title_en": "Ask GPT who to vote for and you get a Democrat. Ask Grok, a RepublicanForced to name one candidate in nearly 500 races for the November 3 midterms, OpenAI's GPT-6.1 Sol picked the Democrat in 97% of i",
+      "description_en": "Ask GPT who to vote for and you get a Democrat. Ask Grok, a RepublicanForced to name one candidate in nearly 500 races for the November 3 midterms, OpenAI's GPT-6.1 Sol picked the Democrat in 97% of its answers. Grok 4.7 picked the Republican in 92%. The two agreed in fewer than one race in ten.The test came from Convovo, a studio led by Cornell professor Tapan Parikh. It ran through the developer APIs with web search on. The ChatGPT and Grok apps refused to answer. OpenAI says the API isn't wha",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8617",
+      "image_url": "https://cdn4.telesco.pe/file/JMC88aRw7LEMwnNiRnIfOUcNkjG-MooKYdAPW3fHIfEdRWFrVrwc4mqfrfwtBN-B9qgMGE3Tfq5muLHMuc4MwW75bAjrTBMtxqQbbS4nNBSrYwPr6LY_NYf6UyWD6IlcdvlQ5lvkl2jQqWZb0zInjAucO7MeGrTvtuEibIsTdHYd6Rs5UmvvuJ1c9iiyynRHSeUMQdDT64Ve6ldLwXD0ezOczg7G0VQ5mC0GA2NVuOZKtpi0mhFFXxe-NVR1jVYlwyeyOiSTqWlQgNMrP6_c3ZDv4QK75QhdIr8DNN9RF12nDl7mZtcp3mz-tIAxEbmk2a6xUuT7hHHw8FbPyKSikQ.jpg",
+      "pub_date": "2026-10-26T11:05:20+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T13:31:53.966Z",
+      "created_at": "2026-10-26T13:31:53.966Z"
+    },
+    {
+      "id": 26305,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🧠 Context engineering now has a state-of-the-union, and the advice is boring: keep the context smallDrew Breunig's survey covers what practitioners actually do to agent context now. It goes well past",
+      "description_en": "🧠 Context engineering now has a state-of-the-union, and the advice is boring: keep the context smallDrew Breunig's survey covers what practitioners actually do to agent context now. It goes well past prompt writing: pruning, compaction, and fighting poisoned context.Developers are split on pruning with a cheap decision model, since it can break the prefix cache and you pay to read the context twice. Many just use provider-native compaction and move on.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/836",
+      "image_url": null,
+      "pub_date": "2026-10-26T08:04:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T13:31:54.266Z",
+      "created_at": "2026-10-26T13:31:54.266Z"
+    },
+    {
+      "id": 26306,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Anthropic's S-1 lists about $450B in compute commitmentsThe filing shows roughly $450B in cloud deals over the next decade: $111B with Google, $110B with AWS and $31B with Microsoft. Anthropic also",
+      "description_en": "🚨 Anthropic's S-1 lists about $450B in compute commitmentsThe filing shows roughly $450B in cloud deals over the next decade: $111B with Google, $110B with AWS and $31B with Microsoft. Anthropic also says it wanted more capacity than the hyperscalers would supply.H1 2026 net loss was $80.7B, but $72B of that was non-cash accounting on convertible notes and financing instruments. Revenue is reported at $16.3B.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/837",
+      "image_url": null,
+      "pub_date": "2026-10-26T13:14:49+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T13:31:54.266Z",
+      "created_at": "2026-10-26T13:31:54.266Z"
     }
   ]
 }
