@@ -1,7 +1,7 @@
 {
   "total": 26390,
-  "translated": 26364,
-  "untranslated": 26,
+  "translated": 26382,
+  "untranslated": 8,
   "today": 138,
   "week": 873,
   "sources": [
@@ -14,7 +14,7 @@
     {
       "name": "Interesting Engineering",
       "total": 2270,
-      "translated": 2269,
+      "translated": 2270,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -26,19 +26,19 @@
     {
       "name": "CNBC Tech",
       "total": 1667,
-      "translated": 1665,
+      "translated": 1667,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
       "name": "AI Post (TG)",
       "total": 1555,
-      "translated": 1552,
+      "translated": 1553,
       "lastDate": "2026-10-26T21:35:20+00:00"
     },
     {
       "name": "The Decoder",
       "total": 1439,
-      "translated": 1438,
+      "translated": 1439,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
     {
@@ -50,7 +50,7 @@
     {
       "name": "The Guardian AI",
       "total": 1296,
-      "translated": 1295,
+      "translated": 1296,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
@@ -62,19 +62,19 @@
     {
       "name": "Ars Technica",
       "total": 1135,
-      "translated": 1133,
+      "translated": 1135,
       "lastDate": "Wed, 30 Sep 2026 20:44:48 +0000"
     },
     {
       "name": "XOR Journal (TG)",
       "total": 1012,
-      "translated": 1009,
+      "translated": 1010,
       "lastDate": "2026-10-26T21:47:01+00:00"
     },
     {
       "name": "The Verge AI",
       "total": 941,
-      "translated": 940,
+      "translated": 941,
       "lastDate": "2026-10-26T21:45:31.000Z"
     },
     {
@@ -86,19 +86,19 @@
     {
       "name": "Prompt AI News (TG)",
       "total": 718,
-      "translated": 714,
+      "translated": 718,
       "lastDate": "2026-10-26T22:52:05+00:00"
     },
     {
       "name": "Backdoor (TG)",
       "total": 654,
-      "translated": 652,
+      "translated": 653,
       "lastDate": "2026-10-26T22:07:24+00:00"
     },
     {
       "name": "OpenAI Blog",
       "total": 644,
-      "translated": 641,
+      "translated": 644,
       "lastDate": "Wed, 30 Sep 2026 10:30:00 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-26T23:21:04.599Z"
+  "generatedAt": "2026-10-26T23:21:37.856Z"
 }
