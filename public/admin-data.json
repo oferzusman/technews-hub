@@ -1,7 +1,7 @@
 {
   "total": 26372,
-  "translated": 26360,
-  "untranslated": 12,
+  "translated": 26364,
+  "untranslated": 8,
   "today": 120,
   "week": 855,
   "sources": [
@@ -20,7 +20,7 @@
     {
       "name": "TechCrunch AI",
       "total": 1735,
-      "translated": 1734,
+      "translated": 1735,
       "lastDate": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
     {
@@ -98,7 +98,7 @@
     {
       "name": "OpenAI Blog",
       "total": 641,
-      "translated": 639,
+      "translated": 641,
       "lastDate": "Wed, 30 Sep 2026 10:30:00 GMT"
     },
     {
@@ -122,7 +122,7 @@
     {
       "name": "Hi, AI English (TG)",
       "total": 344,
-      "translated": 343,
+      "translated": 344,
       "lastDate": "2026-10-26T19:25:34+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-26T19:41:32.711Z"
+  "generatedAt": "2026-10-26T19:56:29.055Z"
 }
