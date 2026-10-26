@@ -569761,6 +569761,1154 @@
       "priority": "hot",
       "fetchedAt": "2026-10-26T14:29:35.155Z",
       "created_at": "2026-10-26T14:29:35.155Z"
+    },
+    {
+      "id": 26321,
+      "source": "The Verge AI",
+      "title_en": "The RealReal won’t let AI agents hog designer clothing",
+      "description_en": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site.\nThe change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, an item goes \"on hold\" and is unavailable for other customers to buy for 20 minutes once it's placed in a user's shopping cart. Using Meta's Muse, The Verge was able t",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "image_url": null,
+      "pub_date": "2026-10-26T17:30:55.000Z",
+      "author": "Mia Sato",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:39.770Z",
+      "created_at": "2026-10-26T19:32:39.770Z"
+    },
+    {
+      "id": 26322,
+      "source": "The Verge AI",
+      "title_en": "Five weird details from Anthropic’s IPO filing",
+      "description_en": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions.\nAt more than 300 pages, there's a lot to unpack, and some of the disclosures have not previously been reported. Here are some of the biggest things that jumped out to us from our first pass:\nIt pays to be an Amodei\nSibling co-founders D",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "image_url": null,
+      "pub_date": "2026-10-26T17:10:23.000Z",
+      "author": "Robert Hart",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:39.771Z",
+      "created_at": "2026-10-26T19:32:39.771Z"
+    },
+    {
+      "id": 26323,
+      "source": "The Verge AI",
+      "title_en": "Microsoft offers buyouts to 60,000 employees",
+      "description_en": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Microsoft with financial support and career planning resources\" as the company looks to trim staff without another round of layoffs.\nSources familiar with the situation tell The Verge that staffers across Microsoft are eligible for the voluntary exit offers, incl",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+      "image_url": null,
+      "pub_date": "2026-10-26T15:58:27.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:39.771Z",
+      "created_at": "2026-10-26T19:32:39.771Z"
+    },
+    {
+      "id": 26324,
+      "source": "TechCrunch AI",
+      "title_en": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "description_en": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 16:49:42 +0000",
+      "author": "Rebecca Bellan",
+      "categories": [
+        "AI",
+        "Enterprise",
+        "Enterprise AI",
+        "Anthropic",
+        "anthropic ipo"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:39.780Z",
+      "created_at": "2026-10-26T19:32:39.780Z"
+    },
+    {
+      "id": 26325,
+      "source": "TechCrunch AI",
+      "title_en": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "description_en": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 16:46:36 +0000",
+      "author": "Aditya Mehta",
+      "categories": [
+        "AI",
+        "TC"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:39.780Z",
+      "created_at": "2026-10-26T19:32:39.780Z"
+    },
+    {
+      "id": 26326,
+      "source": "TechCrunch AI",
+      "title_en": "Anthropic officially files for its public debut",
+      "description_en": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 14:35:22 +0000",
+      "author": "Rebecca Bellan",
+      "categories": [
+        "AI",
+        "Anthropic",
+        "dario amodei",
+        "existential risk",
+        "IPO"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:39.780Z",
+      "created_at": "2026-10-26T19:32:39.780Z"
+    },
+    {
+      "id": 26327,
+      "source": "TechCrunch AI",
+      "title_en": "Will AI expose the rickety infrastructure of the internet?",
+      "description_en": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "image_url": null,
+      "pub_date": "Sat, 24 Oct 2026 20:15:33 +0000",
+      "author": "Anthony Ha",
+      "categories": [
+        "AI",
+        "Security",
+        "Equity podcast",
+        "php"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:39.781Z",
+      "created_at": "2026-10-26T19:32:39.781Z"
+    },
+    {
+      "id": 26328,
+      "source": "Ars Technica",
+      "title_en": "Boston Dynamics employees want to block sale of robot dogs to ICE",
+      "description_en": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Radeco-Cerberus-robot-1152x648.jpg",
+      "pub_date": "Mon, 26 Oct 2026 18:50:41 +0000",
+      "author": "\n                    Jeremy Hsu\n                ",
+      "categories": [
+        "AI",
+        "boston dynamics",
+        "Department of Homeland Security",
+        "ice",
+        "immigration and customs enforcement",
+        "Robotics",
+        "robots"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T19:32:39.855Z",
+      "created_at": "2026-10-26T19:32:39.855Z"
+    },
+    {
+      "id": 26329,
+      "source": "Ars Technica",
+      "title_en": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
+      "description_en": "Ukraine says Starshield back to normal, denies misuse of Starlink commercial service.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ukraine-starlink-1152x648-1793037272.jpg",
+      "pub_date": "Mon, 26 Oct 2026 18:09:08 +0000",
+      "author": "\n                    Jon Brodkin\n                ",
+      "categories": [
+        "Policy",
+        "Elon Musk",
+        "starlink",
+        "starshield",
+        "Ukraine"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T19:32:39.855Z",
+      "created_at": "2026-10-26T19:32:39.855Z"
+    },
+    {
+      "id": 26330,
+      "source": "Ars Technica",
+      "title_en": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+      "description_en": "Investigators explain how highway thieves stole $100M in data center equipment.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/via-Cook-County-Sheriffs-Office-X-1152x648-1793033307.jpeg",
+      "pub_date": "Mon, 26 Oct 2026 17:26:36 +0000",
+      "author": "\n                    Ashley Belanger\n                ",
+      "categories": [
+        "AI",
+        "Policy",
+        "ai data center",
+        "ai theft",
+        "data center infrastructure"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:39.855Z",
+      "created_at": "2026-10-26T19:32:39.855Z"
+    },
+    {
+      "id": 26331,
+      "source": "Ars Technica",
+      "title_en": "Some iPhone Duo screens are already failing",
+      "description_en": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/iphone-duo-oops-1152x648.jpg",
+      "pub_date": "Mon, 26 Oct 2026 16:51:49 +0000",
+      "author": "\n                    Ryan Whitwam\n                ",
+      "categories": [
+        "Apple",
+        "Tech",
+        "apple",
+        "Foldables",
+        "iphone duo",
+        "smartphones"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:39.855Z",
+      "created_at": "2026-10-26T19:32:39.855Z"
+    },
+    {
+      "id": 26332,
+      "source": "The Decoder",
+      "title_en": "Anthropic opens its books for Wall Street, showing record revenue and mounting obligations",
+      "description_en": "Anthropic is the first major AI lab to file an S-1 with the SEC, planning to list on the Nasdaq under the ticker \"ANT.\" The numbers are strong, with $11.6 billion in quarterly revenue, a first-ever operating profit, and existing customers spending nine times more year over year. But the company also carries roughly $800 billion in long-term compute commitments.\nThe article Anthropic opens its books for Wall Street, showing record revenue and mounting obligations appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 19:14:45 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T19:32:41.079Z",
+      "created_at": "2026-10-26T19:32:41.079Z"
+    },
+    {
+      "id": 26333,
+      "source": "The Decoder",
+      "title_en": "Researchers find six patterns that make AI text so exhausting to read",
+      "description_en": "A study from New York University and the University of Texas at Austin shows that frontier language models systematically overuse linguistic patterns that are hard for humans to parse. The researchers trace the problem to training on code and math, where correctness gets rewarded but clarity doesn't. Smaller models, by contrast, write more like humans.\nThe article Researchers find six patterns that make AI text so exhausting to read appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 17:50:15 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "AI and language"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T19:32:41.079Z",
+      "created_at": "2026-10-26T19:32:41.079Z"
+    },
+    {
+      "id": 26334,
+      "source": "The Decoder",
+      "title_en": "Reddit's r/opensource bans all AI-related projects, sparking backlash and a rival subreddit",
+      "description_en": "The Reddit forum r/opensource has banned all posts about AI projects, whether built with AI, AI-powered, or designed for AI. Projects must also be at least a year old and have multiple contributors, and non-English posts are excluded as well. In response, the rival forum r/TrueOpenSource has already popped up.\nThe article Reddit's r/opensource bans all AI-related projects, sparking backlash and a rival subreddit appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/reddits-r-opensource-bans-all-ai-related-projects-sparking-backlash-and-a-rival-subreddit/",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 17:19:40 +0000",
+      "author": "Manuel Uth",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Open Source",
+        "Reddit"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:41.079Z",
+      "created_at": "2026-10-26T19:32:41.079Z"
+    },
+    {
+      "id": 26335,
+      "source": "MarkTechPost",
+      "title_en": "Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls",
+      "description_en": "Nace AI has released Drex for Search, bringing its Drex decision models to document search for AI agents. Nace reports 92.05% on BrowseComp-Plus with 12.6 search calls, and fewer agent turns on OfficeQA Pro.\nThe post Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 16:46:09 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Context Engineering",
+        "Decision Models",
+        "Editors Pick",
+        "Enterprise AI",
+        "For Devs",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Promote",
+        "Software Engineering",
+        "Sponsored",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:41.236Z",
+      "created_at": "2026-10-26T19:32:41.236Z"
+    },
+    {
+      "id": 26336,
+      "source": "OpenAI Blog",
+      "title_en": "ChatGPT’s expanding world of work",
+      "description_en": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 10:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Research"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:41.320Z",
+      "created_at": "2026-10-26T19:32:41.320Z"
+    },
+    {
+      "id": 26337,
+      "source": "OpenAI Blog",
+      "title_en": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "description_en": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/openai-cut-incident-investigation",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 07:00:00 GMT",
+      "author": null,
+      "categories": [
+        "OpenAI on OpenAI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:41.320Z",
+      "created_at": "2026-10-26T19:32:41.320Z"
+    },
+    {
+      "id": 26338,
+      "source": "OpenAI Blog",
+      "title_en": "Introducing GPT-6.1 Terra",
+      "description_en": "Bringing fast and capable computer use to everyone",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Product"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:41.320Z",
+      "created_at": "2026-10-26T19:32:41.320Z"
+    },
+    {
+      "id": 26339,
+      "source": "MIT Technology Review",
+      "title_en": "Will the real Anthropic please stand up",
+      "description_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 17:45:43 +0000",
+      "author": "Will Douglas Heaven",
+      "categories": [
+        "Artificial intelligence",
+        "App"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T19:32:41.385Z",
+      "created_at": "2026-10-26T19:32:41.385Z"
+    },
+    {
+      "id": 26340,
+      "source": "Google AI Blog",
+      "title_en": "Our newest AI Quest: Mapping the human brain",
+      "description_en": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp",
+      "pub_date": "Mon, 26 Oct 2026 16:00:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Ronit Levavi Morad"
+        ],
+        "title": [
+          "Senior Director"
+        ],
+        "department": [
+          "Google Research"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Learning & Education",
+        "Google Research",
+        "AI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:41.591Z",
+      "created_at": "2026-10-26T19:32:41.591Z"
+    },
+    {
+      "id": 26341,
+      "source": "The Guardian AI",
+      "title_en": "AI book prize judges face a major speed-reading challenge | Brief letters",
+      "description_en": "Prix Pascal de Littérature IA | Dickensian solicitors | Cleobury Mortimer | Great Tapestry of Scotland | From Bayeux to Britain \nThe deadline for submissions to the Prix Pascal de Littérature IA, 30 November, is also the date when the shortlisted entries are due to be announced (New prize launches for books co-written with AI, 21 October). It would be interesting to know how the prize-judging jury – whose members are yet to be announced – will be making instant evaluations.\r\n \n\r\n Dr Mahlet Zimet",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/oct/26/ai-book-prize-judges-face-a-major-speed-reading-challenge",
+      "image_url": "https://i.guim.co.uk/img/media/26eaf1f37209815bc9fb4bbe6eeb1daee920c26f/688_0_6630_5304/master/6630.jpg?width=140&quality=85&auto=format&fit=max&s=e428bd43c35b039cc55ae557a3364ad9",
+      "pub_date": "Mon, 26 Oct 2026 17:38:50 GMT",
+      "author": "Guardian Staff",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Books",
+          "$": {
+            "domain": "https://www.theguardian.com/books/books"
+          }
+        },
+        {
+          "_": "Awards and prizes",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/awards-and-prizes"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "Rural affairs",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/ruralaffairs"
+          }
+        },
+        {
+          "_": "Scotland",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/scotland"
+          }
+        },
+        {
+          "_": "Bayeux tapestry",
+          "$": {
+            "domain": "https://www.theguardian.com/world/bayeux-tapestry"
+          }
+        },
+        {
+          "_": "British Museum",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/british-museum"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T19:32:41.876Z",
+      "created_at": "2026-10-26T19:32:41.876Z"
+    },
+    {
+      "id": 26342,
+      "source": "The Guardian AI",
+      "title_en": "‘Autonomy, not flesh’: RAF official outlines AI drone-powered future",
+      "description_en": "Air Chief Marshal Harv Smyth says technological advances will reduce need for human involvement in warfare\nA future Royal Air Force will rely on “autonomy not flesh,” its chief said on Monday as he described plans in which Typhoon fighters are accompanied by four AI-enabled drones capable of patrolling hundreds of miles in the distance.\nThe technological shift would revolutionise warfare, limit the role of military personnel “towards the outside” and ease the pressure on recruitment, Air Chief M",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/uk-news/2026/oct/26/royal-air-force-harv-smyth-ai-drone-future",
+      "image_url": "https://i.guim.co.uk/img/media/687a21554ca34a6a656bb766648945f6f9e10756/460_0_3891_3115/master/3891.jpg?width=140&quality=85&auto=format&fit=max&s=877d14eb5c0e1041dd884bb85fc8539b",
+      "pub_date": "Mon, 26 Oct 2026 19:09:51 GMT",
+      "author": "Dan Sabbagh Defence and security editor",
+      "categories": [
+        {
+          "_": "Royal Air Force",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/royal-air-force"
+          }
+        },
+        {
+          "_": "Military",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/military"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Drones (military)",
+          "$": {
+            "domain": "https://www.theguardian.com/world/drones"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Weapons technology",
+          "$": {
+            "domain": "https://www.theguardian.com/science/weaponstechnology"
+          }
+        },
+        {
+          "_": "Defence policy",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/defence"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T19:32:41.876Z",
+      "created_at": "2026-10-26T19:32:41.876Z"
+    },
+    {
+      "id": 26343,
+      "source": "The Guardian AI",
+      "title_en": "Microsoft to reportedly offer buyouts to 60,000 employees in latest cuts",
+      "description_en": "Tech company offers buyouts in an effort to reduce costs amid the rising use of AI, according to reports\nMicrosoft announced that it would offer buyouts to 60,000 employees in an effort to reduce costs amid the rising use of artificial intelligence, according to reports, the latest example of how AI is reshaping tech companies and the greater workforce.\nThis is the latest of several trimmings Microsoft has made to its workforce this year. The company announced in April that it was offering volun",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts",
+      "image_url": "https://i.guim.co.uk/img/media/f36458784b93fd8a4087d457a37e08ed2b9790d0/665_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=d64e57f63cd601797ea77449f4b12a6d",
+      "pub_date": "Mon, 26 Oct 2026 18:44:31 GMT",
+      "author": "Gaya Gupta",
+      "categories": [
+        {
+          "_": "Microsoft",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/microsoft"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Job losses",
+          "$": {
+            "domain": "https://www.theguardian.com/business/job-losses"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T19:32:41.876Z",
+      "created_at": "2026-10-26T19:32:41.876Z"
+    },
+    {
+      "id": 26344,
+      "source": "Interesting Engineering",
+      "title_en": "New nickel-cobalt-aluminum batteries promise 1 GWh of storage for US power grid",
+      "description_en": "South Korean battery giant Samsung SDI has signed a new agreement to supply the US...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/1-gwh-nca-batteries-power-us-grid",
+      "image_url": "https://www.youtube.com/embed/GoiECSXOvQE",
+      "pub_date": "Mon, 26 Oct 2026 18:49:48 +0000",
+      "author": "Georgina Jedikovska",
+      "categories": [
+        "Energy"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T19:32:43.588Z",
+      "created_at": "2026-10-26T19:32:43.588Z"
+    },
+    {
+      "id": 26345,
+      "source": "Interesting Engineering",
+      "title_en": "New perovskite solar cells endure 1,000 hours of extreme heat, retain 95% efficiency",
+      "description_en": "A new catalytic process developed by South Korean researchers could extend the lifespan of perovskite...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/new-solar-cells-endure-1000-hours-heat",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Z2_79e67b.jpg",
+      "pub_date": "Mon, 26 Oct 2026 18:10:25 +0000",
+      "author": "Georgina Jedikovska",
+      "categories": [
+        "Energy"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T19:32:43.588Z",
+      "created_at": "2026-10-26T19:32:43.588Z"
+    },
+    {
+      "id": 26346,
+      "source": "Interesting Engineering",
+      "title_en": "60,000-ton MUGEM aircraft carrier could be first to ‘combine unmanned systems’",
+      "description_en": "The fully indigenous 60,000-ton fleet aircraft carrier being built by Turkey will be the first...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/turkey-mugem-aircraft-carrier",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 16:06:20 +0000",
+      "author": "Abhishek Bhardwaj",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:43.589Z",
+      "created_at": "2026-10-26T19:32:43.589Z"
+    },
+    {
+      "id": 26347,
+      "source": "Interesting Engineering",
+      "title_en": "World’s largest artificial reef: Nearly 1,000-foot ocean liner to sink off Florida coast",
+      "description_en": "An ocean liner is about to take its final, most improbable voyage: straight to the...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/culture/worlds-largest-artificial-reef-ship-sink-florida",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 15:49:12 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [
+        "Culture"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:43.589Z",
+      "created_at": "2026-10-26T19:32:43.589Z"
+    },
+    {
+      "id": 26348,
+      "source": "Tom's Hardware",
+      "title_en": "3.2 Petabits per second real-time optical fiber transfer speed world record claimed by Chinese team",
+      "description_en": "A Chinese team has claimed a new world record for real-time transfer speeds across a 24-core optical fiber cable.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/networking/3-2-pb-s-real-time-optical-fiber-transfer-speed-world-record-claimed-by-chinese-team-speed-fast-enough-to-download-more-than-20-000-4k-movies-in-one-second",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/YkbQ6FaQKMZUoDz3pzPbp4-1920-80.jpg",
+      "pub_date": "Mon, 26 Oct 2026 14:43:37 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Networking"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:43.834Z",
+      "created_at": "2026-10-26T19:32:43.834Z"
+    },
+    {
+      "id": 26349,
+      "source": "Tom's Hardware",
+      "title_en": "Leaked 256-core Zen 6c EPYC CPU destroys Zen 5 in early single-threaded benchmarks hints at 24% IPC gain",
+      "description_en": "A benchmark leak and a direct clock-matched comparison from an enthusiast seed the idea that Zen 6 may come with a decent IPC bump as well as increased clocks.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/leaked-256-core-zen-6c-epyc-cpu-destroys-zen-5-in-early-single-threaded-benchmarks-hints-at-24-percent-ipc-gain-early-single-threaded-benchmarks-point-to-huge-amd-zen-6-improvements",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/fqE7uiQeMahN3tCxTd8qRV-1920-80.jpg",
+      "pub_date": "Mon, 26 Oct 2026 14:31:43 +0000",
+      "author": " Zak Killian ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:43.834Z",
+      "created_at": "2026-10-26T19:32:43.834Z"
+    },
+    {
+      "id": 26350,
+      "source": "CNBC Tech",
+      "title_en": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
+      "description_en": "Apple on Monday said it was aware of the issue and that it would replace the devices under its AppleCare warranty.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/26/apple-responds-to-user-reports-of-broken-iphone-duo-screens.html",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 18:43:25 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T19:32:43.937Z",
+      "created_at": "2026-10-26T19:32:43.937Z"
+    },
+    {
+      "id": 26351,
+      "source": "CNBC Tech",
+      "title_en": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+      "description_en": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+      "image_url": null,
+      "pub_date": "Mon, 26 Oct 2026 17:40:30 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T19:32:43.938Z",
+      "created_at": "2026-10-26T19:32:43.938Z"
+    },
+    {
+      "id": 26352,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "iPhone из какой страны лучше всего купить?Импортёры и перекупы привозят в Россию iPhone со всего мира: в каких-то нет слота для SIM-карты, в каких-то заблокированы звонки по FaceTime, а в каких-то не ",
+      "description_en": "iPhone из какой страны лучше всего купить?Импортёры и перекупы привозят в Россию iPhone со всего мира: в каких-то нет слота для SIM-карты, в каких-то заблокированы звонки по FaceTime, а в каких-то не работают фишки Apple Intelligence.В каких странах у iPhone самый большой аккумулятор и откуда его привезти дешевле? Разбираемся вместе:https://wylsa.com/otkuda-edet-iphone/Автор: Павел Урлапов",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/36779",
+      "image_url": "https://cdn4.telesco.pe/file/HHhA47Jy1xgnFWjQfWI-zS8y0_ZZRLe-qLW1vW_makjFNCXs7a8rM9Ysu7J2Rv-iJfFEo1UVQ0-4ZxdYdbBaLm9hOXO_FfRWGW22bUx4ZMPyq0ei3rTO2Abb7HKhGbFmujo3zWyOYyKSbZDPYbeFkdQUxftaBIKjILX_yYnWNtohLecuZE0ykcypx8uFJggMwc5YpbLOI9HwC43bW1Gw4NWLu0TIcjzCPv8cn1136BBDYCe4Q7IVqYmhfchXR-l1zPa84XqABhpXmvEPKZAzrSQT5WzwzSbVyZMjF_Be1LZThLTvf0YSuBR2zn2e2uhjK-SpZ-st1ZdGmrOPjKi9Cg.jpg",
+      "pub_date": "2026-10-26T15:19:30+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:49.433Z",
+      "created_at": "2026-10-26T19:32:49.433Z"
+    },
+    {
+      "id": 26353,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Бустим карточки NVIDIA в 2️⃣раза — китайские разрабы нашли способ снять ограничение на скорость тензорных вычислений в RTX-видеокартах. Прирост работы с нейронками просто бешеный:• RTX 3060 — приро",
+      "description_en": "⚡️ Бустим карточки NVIDIA в 2️⃣раза — китайские разрабы нашли способ снять ограничение на скорость тензорных вычислений в RTX-видеокартах. Прирост работы с нейронками просто бешеный:• RTX 3060 — прирост до 99%.• RTX 3070 — до 81%.• RTX 3080 — до 73%.• RTX 3090 Ti — до 80%.• RTX 4070 Ti — до 84%.• RTX 4090 — почти двукратное ускорение.Ограничение было заложено самой NVIDIA на уровне софта. Поэтому китайцы считают, что Хуанг Куртка специально прогревал геймеров на более дорогие профессиональные ви",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32480",
+      "image_url": "https://cdn4.telesco.pe/file/e2q5Xn4HQt0nAZzrjKc5eluexOjSUMQ4WRj8shpuzrsByvYPiqtRe3xRLxal7ku0R0qxx1owzoMfUNgSu7DA8i-_U9bO6FUJxyIDpYzImROYQ1QDQnKgXR_rqPv31EDvFVj2g3PEAgW5imuG0BUCGqKRAjG2NFLXcw1URRjx1xOQBWrRI42f_FgTwZc9logfQ66XDeUxz3RBYPNjtGsX9xQ9wKBPo2JGSZl_iv0AGZ7Ye892XNVYNbX02yUZoKYqp6NYDjSH6aziLFZqZIn2w1AUKJsSRDu2QipdysvP2zth9Usiht9MThqARIGp4lhg-yzDVvuSGlH0YNeY1Uexcw.jpg",
+      "pub_date": "2026-10-26T15:57:07+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:49.487Z",
+      "created_at": "2026-10-26T19:32:49.487Z"
+    },
+    {
+      "id": 26354,
+      "source": "Backdoor (TG)",
+      "title_en": "ChatGPT-6.1 Terra вышла — нейронка работает втрое быстрее флагманов и практически не выдает галлюцинации.  Разрабы заточили модель под управление компьютером и выполнение реальных рабочих задач.Прочит",
+      "description_en": "ChatGPT-6.1 Terra вышла — нейронка работает втрое быстрее флагманов и практически не выдает галлюцинации.  Разрабы заточили модель под управление компьютером и выполнение реальных рабочих задач.Прочитали большой релиз за вас и собрали главное:• ИИ качнули в управлении компом — модель работает с приложениями, заполняет формы, монтирует видео и даже создает трехмерные модели по техническим чертежам. В сложных тестах она сильно приблизилась к GPT-6 Astra.• Галлюцинаций стало почти на 40% меньше — ч",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32484",
+      "image_url": "https://cdn4.telesco.pe/file/lTgtItu0Negrw0KMZG60k7R6g96FfjXL_VSTD7aC77rSRd5e1fdzCaNBIZuzvZTHgG7U6T2afkRqI9IC151gw8r2IiubRF1P5uSDbLtUXjuCjRu4wyYVCi6Y5bM1oeashbH7X6m1gOpWyCqvPNBMHM1_P_XhPhm62GAafsAoPCSf9JRWx1gGgYd-iu-h8WM0ukML5gDKkJdHBmvY0O2Nn4a4KJirAeQj9DkLgREC1tNGISn_9TGCeICcH2Ug9XxtDZT3CpK3HdIvF5eAzDcgeksCQq9n8K6yQXhsqmw5fdG97zX7iwFry4E2ckQpV3TziIMdxVPX3IqXNWNMAJ1Peg.jpg",
+      "pub_date": "2026-10-26T18:40:18+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T19:32:49.487Z",
+      "created_at": "2026-10-26T19:32:49.487Z"
+    },
+    {
+      "id": 26355,
+      "source": "XOR Journal (TG)",
+      "title_en": "Локальный ИИ станет дешевле — исследователи ИИ-Центра Т-Банка представили сразу два метода обучения ИИ-моделей для компаний, которые запускают ИИ на собственной инфраструктуре.🟢 Первый позволяет заме",
+      "description_en": "Локальный ИИ станет дешевле — исследователи ИИ-Центра Т-Банка представили сразу два метода обучения ИИ-моделей для компаний, которые запускают ИИ на собственной инфраструктуре.🟢 Первый позволяет заменить десятки узкоспециализированных языковых моделей одной универсальной. На базе Qwen3-32B они собрали модель, которая уже обслуживает больше 200 внутренних сервисов банка и обрабатывает запросы в 3–4 (!) раза дешевле, чем семикратно более крупная Qwen3-235B. В отдельных задачах экономия доходит до",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10366",
+      "image_url": "https://cdn4.telesco.pe/file/N4BBmZGPkdV5PSDRjWB_lkfQAgFH93TL9z9Dh3BpGDg0dtNxYirSmbcGcAGnp9LUKepSAeCxLXVWZKmoiftd3fLRITFtRF_lbJ4D1nTdjZtys6tcQ0jEgGEpvLsxbMhtvSPlKJ8Mjp_Wt2ZPRFYsU-65UIxdwkYRVfdt8xqJpcTJBYe4MImSQSgZpMXnolxMnL2SP4kXEh2I4PXAP7BmTOl19bBvvxitSo08XH5FC7w_W8CuaialF7PZMV5O4CwJFdAonJOqCn2S3xVhI72KGcD2R7g2UVd1UGtAgG3KUJr329wvfvTgtYdTLlgh06__kNO5l_n3-2zXumPcBGrSVw.jpg",
+      "pub_date": "2026-10-26T16:02:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:49.523Z",
+      "created_at": "2026-10-26T19:32:49.523Z"
+    },
+    {
+      "id": 26356,
+      "source": "XOR Journal (TG)",
+      "title_en": "⚡️ Разыгрываем 5 кепок истинных вайбкодеров — идеальный айтем для тех, кто обожает просто смотреть, как Claude все делает за вас 😎Условия максимально простые:🟢 Быть подписанным на XOR;🟢 И нажать «У",
+      "description_en": "⚡️ Разыгрываем 5 кепок истинных вайбкодеров — идеальный айтем для тех, кто обожает просто смотреть, как Claude все делает за вас 😎Условия максимально простые:🟢 Быть подписанным на XOR;🟢 И нажать «Участвую» под этим постом.Победителей выберем случайным образом с помощью бота в 18:00 10 ноября.Удачи!",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10367",
+      "image_url": "https://cdn4.telesco.pe/file/I4zFyzFqjvkYm4U5s0kyJ9PW2Ybasa6fKOpTs4437gxBCVvS9i6tIuyEej1IiCwnX1KpLeKYQOWZxYh8eCWzEoq8Hs8bYF3Q283CX-Y-kskFPUvpL6IAS_799OZ8bORTgdNvP2rvwWrpydp3aeIjundYd9RRk8nolX56Be4LjFklSYeTQ8eQZeJ-RyKop65U7l0r92jpCRD_JRxvm6R8EmuyUCZHPQI0QKdwo9mykCWiWr_qwYuRjkhXILdHahwnIM2My5N-bOZbHlNRqoyCcmcLWtB1swc9ldx5n7KjzorfgezI_XvuP_NqCC0-Gj5wqXf-8sl2MfSVvOoGeNKzrg.jpg",
+      "pub_date": "2026-10-26T16:41:06+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:49.523Z",
+      "created_at": "2026-10-26T19:32:49.523Z"
+    },
+    {
+      "id": 26357,
+      "source": "XOR Journal (TG)",
+      "title_en": "Microsoft предложила уволиться сразу 60 ТЫСЯЧАМ сотрудников — больше четверти всего штата компании 💀По данным Reuters и Business Insider, корпорация запустила программу добровольного ухода с компенса",
+      "description_en": "Microsoft предложила уволиться сразу 60 ТЫСЯЧАМ сотрудников — больше четверти всего штата компании 💀По данным Reuters и Business Insider, корпорация запустила программу добровольного ухода с компенсациями на фоне многомиллиардных расходов на ИИ. Предложение получили сотрудники подразделений Copilot, AI, Xbox, Windows, финансов и HR в США, Канаде, Великобритании и Индии. У сотрудников есть время до начала декабря, чтобы принять предложение.ИТ-рынок в огне  😭@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10369",
+      "image_url": "https://cdn4.telesco.pe/file/C7SU5PiJBmcyKADcLLqSfsurs_luhXCK6pX87br33ryztaEe_XhTgB3pmH_2bI8yhqjibhEYowhr7NtSY-XG4DsBVuYUIDTt122Z76X-8o6u8Qmswt2zSD1C5k24D0OZtHUNJRk6P5SsWbHzGD_Yozl_xqmtYcnnrlr1KhLpGsvlfScTpu9iR4L-gFqga26EbWPHKlQ4POW02glqtTJWWIjx_2w63ca41iC1WynAeKjDavIGOOzc6LP7051N_zortROkx_tZlCHgHzoG16Ok2liYxxro7bjE3AEPSFNCw-nu_7Vp5QdrIlvyQBjjaUnxwzamEB9L7VPDSTCPaW78cA.jpg",
+      "pub_date": "2026-10-26T17:09:41+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:49.523Z",
+      "created_at": "2026-10-26T19:32:49.523Z"
+    },
+    {
+      "id": 26358,
+      "source": "XOR Journal (TG)",
+      "title_en": "Суперкомпьютеры Яндекса сохранились после атак на дата-центры — все три вычислительные системы не пострадали!Речь о «Ляпунове», «Галушкине» и «Червоненкисе», которые используются для обучения нейросет",
+      "description_en": "Суперкомпьютеры Яндекса сохранились после атак на дата-центры — все три вычислительные системы не пострадали!Речь о «Ляпунове», «Галушкине» и «Червоненкисе», которые используются для обучения нейросетей и работы сервисов компании. Эти суперкомпьютеры не зависят друг от друга. Они могут находиться в разных местах, поскольку речь идет не о суперкластере, а о трех независимых узлах.Все три суперкомпьютера вывезли с локаций, где они находились до сих пор, а сейчас их разворачивают на новых площадках",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10370",
+      "image_url": "https://cdn4.telesco.pe/file/GDy-3ANMN7lJN4ni_yljKy4TLt6A_pjNcau5sgzNrR6RZzYk2NCHK6y21Z15QS2_uo8fONMOqbh2wJasqteMfwktr8chTAYBKfOVbFHECd7Y5rIwLiuw33ToZzQkSE06HmT8rgfuXUjKRmPg1YQLZOB0oGZlfP9fZaNNdEkF2ilWsvDgiums2vu7aRCRPOPcbGnveRGi8xhiap2mwiawRO4WXIEVhAc-Zne1zFkDBIgNLH80FX6figH-u_mQJZ85uAAGAnDPt6B0FewCkwJEEuCfsF4o80Miz3j3wtYWQomPwcJLbKV2yjufVnQOs6j7gm-khrzjT4UM9_jsjBADDQ.jpg",
+      "pub_date": "2026-10-26T17:35:03+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T19:32:49.523Z",
+      "created_at": "2026-10-26T19:32:49.523Z"
+    },
+    {
+      "id": 26359,
+      "source": "XOR Journal (TG)",
+      "title_en": "⚡️ В Москве с 27 по 29 октября отключат мобильный интернет — об этом предупредили сами Минцифры.Ограничения будут в пределах Третьего транспортного кольца с самого утра. Причина в обеспечении дополнит",
+      "description_en": "⚡️ В Москве с 27 по 29 октября отключат мобильный интернет — об этом предупредили сами Минцифры.Ограничения будут в пределах Третьего транспортного кольца с самого утра. Причина в обеспечении дополнительной защитой участников саммита «Россия — Африка».У москвичей детокс.@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10371",
+      "image_url": "https://cdn4.telesco.pe/file/bKgIcfkVrF-MYdzgyBdt_5xX5mMRLal0-do592pO0_YQO0Q4ShxArTvR-lMwMKk4Q_h7DqcNqSmV1bCbaFMAnEXP87AsoOnl67PYnizkeUZuo--zbcenhXVIgrX5H21Sl1yqtXFHp53jBWbxlk4V_rc56wp6HWKCtg8DHy3YsUMPK5NpJXuYVzkW2gLSmu_9T6A0omUR_H014JsJdpq446_qLz6m821ECGJNJogsPFNfL25mTbBeEAEVGJITBYtcYrqNEHj-zeNy9r4R9aTg2FNoiF2bo6TM8GNquqFQTi1RMoTGxbuZ3R9f-SUvvQuDxBiO024f9ki24ggJdpTbwg.jpg",
+      "pub_date": "2026-10-26T18:03:19+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T19:32:49.523Z",
+      "created_at": "2026-10-26T19:32:49.523Z"
+    },
+    {
+      "id": 26360,
+      "source": "XOR Journal (TG)",
+      "title_en": "⚡️ OpenAI выпустила GPT-6.1 Terra — новую модель для управления ПК и кодинга, которая работает в 3 раза быстрее флагманов!Так, на бенче Agents’ Last Exam она догоняет GPT-6 Astra, но стоит при этом в ",
+      "description_en": "⚡️ OpenAI выпустила GPT-6.1 Terra — новую модель для управления ПК и кодинга, которая работает в 3 раза быстрее флагманов!Так, на бенче Agents’ Last Exam она догоняет GPT-6 Astra, но стоит при этом в 10 раз дешевле. Цены в API снизились на 50% по сравнению с GPT-5.6 Terra — до $1 за миллион входных и $5 за миллион выходных токенов.Модель уже доступна в ChatGPT Work и Codex для подписчиков Plus, Pro, Enterprise и Edu. Ждем ответку от Амодеи 😳@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10372",
+      "image_url": null,
+      "pub_date": "2026-10-26T18:30:07+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T19:32:49.523Z",
+      "created_at": "2026-10-26T19:32:49.523Z"
+    },
+    {
+      "id": 26361,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🚀 Летающий полицейский патруль появится в СШАПолиция Политехнического университета Флориды представила одноместный электрический коптер Astro. Это первый в США подобный транспорт специально для полиц",
+      "description_en": "🚀 Летающий полицейский патруль появится в СШАПолиция Политехнического университета Флориды представила одноместный электрический коптер Astro. Это первый в США подобный транспорт специально для полицейских, замечает университет.💰 Перекрашенный в полицейскую ливрею коптер Jetson One обошелся вузу почти в $150 тыс. Он весит около 70 кг без аккумулятора и пилота, разгоняется до 102 км/ч и может находиться в воздухе примерно 20 минут на одном заряде.Начальник университетской полиции Аарон Мюррей р",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3772",
+      "image_url": null,
+      "pub_date": "2026-10-26T15:02:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:49.902Z",
+      "created_at": "2026-10-26T19:32:49.902Z"
+    },
+    {
+      "id": 26362,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🤖 Исследователи нашли способ сократить стоимость генерации ответов ИИ на корпоративных объемахКрупные компании из-за требований безопасности не могут отправлять данные во внешние облака и вынуждены к",
+      "description_en": "🤖 Исследователи нашли способ сократить стоимость генерации ответов ИИ на корпоративных объемахКрупные компании из-за требований безопасности не могут отправлять данные во внешние облака и вынуждены крутить десятки разных нейросетей на своих серверах, сжигая дефицитные мощности GPU. Исследователи Т-Банка нашли решение этой проблемы и представили два новых метода обучения моделей на ведущей мировой конференции уровня A* EMNLP 2026 в Будапеште.🔍 Первая разработка позволяет объединить рой узких не",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3773",
+      "image_url": "https://cdn4.telesco.pe/file/ZxoxYMOT7q-6I7QfsXwbODu9Mufr6WwCZQKyJmw9tIax92AoTpYV7qF_GpiojPYwozlBdsnE7r1Jov7EvJ0RlDaLgVwh3lkIpT4CnJZTtEpd3EZun4O93J-PltTchJJRaQhUASvgdaIrYHeXuLB93ZqOx4HpGk0A1mGnH62jAy2XGeQ_2DmqjHNXeio03HpH5xz0HLXaTA7QFSrDIO-UlGG-KPz7KcBI4uMW62RsMjwLciUyKRKplbSzwUTKDIPmIZ__p8rv-8WuyDp_XSLeZX5gCVbaCLZkviIx9kbGE7DbGq6YhlXXXB2fuQjI4acvwyxs1EI0x_j_gHFLj1LqsA.jpg",
+      "pub_date": "2026-10-26T16:25:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:49.903Z",
+      "created_at": "2026-10-26T19:32:49.903Z"
+    },
+    {
+      "id": 26363,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "💰 ИИ-пузырь уже лопнул в КитаеТак считает Reuters. За последние четыре месяца индекс STAR50, который отслеживает 50 крупнейших компаний технологической площадки Шанхайской биржи (китайского аналога N",
+      "description_en": "💰 ИИ-пузырь уже лопнул в КитаеТак считает Reuters. За последние четыре месяца индекс STAR50, который отслеживает 50 крупнейших компаний технологической площадки Шанхайской биржи (китайского аналога Nasdaq), рухнул на 40%.На пике в конце июня индекс превысил 2,2 тыс. пунктов, а сейчас откатился до 1,3 тыс. пунктов, практически обнулив весь рост с начала года. Рынок потерял $480 млрд капитализации.И даже несмотря на это, акции остаются переоцененными. Инвесторы платят за компании индекса в средне",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3774",
+      "image_url": "https://cdn4.telesco.pe/file/EpdFFXjaSLkGfUyVySGPrKSLHs8pgmSeyBg43pxxXqf9_ztGpk4FcSwu6yVmx8_Yr4Qi2ttDS_hAuejh3txfA9jKsmaSxAqiOAN2Xj7FuZmpAd6IPbGr8_65bPLhMGoL1WzfOXbJW1t-vlQt3a_WbQmNi8CFjylA6T-59DjAay9HXc-04gS3tKkZetyJd8BEnKxuEMtlpGInS2sH1hJTOA9U-l1ney5vruLXjAJ9WoMiK_EYCP49MGgFJqSo-QbYX3h2bhMAqt_yke9S8O07FRzJuQoZAtVLRLRGxZTijNI40LFWuH9-4x6m5TL8XwOR6Uv8Clh7szseC8EtefJb-Q.jpg",
+      "pub_date": "2026-10-26T19:25:34+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T19:32:49.903Z",
+      "created_at": "2026-10-26T19:32:49.903Z"
+    },
+    {
+      "id": 26364,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🚀 Flying Police Patrol Vehicle Unveiled in the U.S.The Florida Polytechnic University Police Department has unveiled Astro, a single-seat electric flying vehicle. According to the university, it is t",
+      "description_en": "🚀 Flying Police Patrol Vehicle Unveiled in the U.S.The Florida Polytechnic University Police Department has unveiled Astro, a single-seat electric flying vehicle. According to the university, it is the first aircraft of its kind in the U.S. designed specifically for police use.💰 The aircraft is actually a Jetson ONE repainted in police colors, and it cost the university nearly $150,000. It weighs about 70 kg without its battery or pilot, can reach speeds of 102 km/h, and can stay airborne for ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2886",
+      "image_url": null,
+      "pub_date": "2026-10-26T16:00:30+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:49.929Z",
+      "created_at": "2026-10-26T19:32:49.929Z"
+    },
+    {
+      "id": 26365,
+      "source": "Hi, AI English (TG)",
+      "title_en": "💰 The AI Bubble Has Already Burst in ChinaSo says Reuters. Over the past four months, the STAR50 index, which tracks the 50 largest companies on the Shanghai Stock Exchange's tech board (China's answ",
+      "description_en": "💰 The AI Bubble Has Already Burst in ChinaSo says Reuters. Over the past four months, the STAR50 index, which tracks the 50 largest companies on the Shanghai Stock Exchange's tech board (China's answer to Nasdaq), has plunged 40%.At its peak in late June, the index topped 2,200 points. Now it has slid back to 1,300, wiping out almost all of its gains since the start of the year. The market has lost $480 billion.Even so, the stocks remain overvalued. Investors are paying an average of 100 times ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2887",
+      "image_url": "https://cdn4.telesco.pe/file/uf9IyeYmY1w3XeLJHMaWnep8vORCL83VmAa9xATBIpBDgR0kX6jJ-Hx_S7BhbvcG14493og3rNX0dMT5P-H8BpCTQDgSB4-Pc-1pj8GyvayIWsLN9pkLN3dKwldqq9y6XATTK1drhC7U6So9s1j7-X3p2mSSJ5hT20WwVr5RCyO_I0zjXRCpSODu7RdRuChZthf9_UM37uCNiUFmZqQ_pSvVWJAzssLL6hVEY8L51R-ymv-WQYZsR7eNrTjxQ2QPnfXkq4A7oVN1QryezdfwEfHRb1ZAymzS33DWQlf8V4Z0RXV46OJc_Z8IqB4rND0oqdvXGBpsBMrQ9AupiSlLXg.jpg",
+      "pub_date": "2026-10-26T19:25:34+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T19:32:49.929Z",
+      "created_at": "2026-10-26T19:32:49.929Z"
+    },
+    {
+      "id": 26366,
+      "source": "Data Science ODS.ai (TG)",
+      "title_en": "Если агента (обычный Claude Code, например) посадить в виртуальную среду, что он там будет делать? Что-то делает, оказывается, есть какой-то bias на исследование мира. А если позволить ему сохранять н",
+      "description_en": "Если агента (обычный Claude Code, например) посадить в виртуальную среду, что он там будет делать? Что-то делает, оказывается, есть какой-то bias на исследование мира. А если позволить ему сохранять накопленные знания в виде файлов, то вообще интересно. Самое забавное для меня вот это:Внешняя память помогает накапливать навыки, но порождает серьёзную проблему: закрепление ложных убеждений. Если агент записывает неверный вывод в SEMANTIC_MEMORY.md, все последующие сессии воспринимают его как акси",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/opendatascience/3453",
+      "image_url": null,
+      "pub_date": "2026-10-26T19:08:41+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T19:32:50.286Z",
+      "created_at": "2026-10-26T19:32:50.286Z"
+    },
+    {
+      "id": 26367,
+      "source": "AI Post (TG)",
+      "title_en": "🇨🇳 China’s young generation is losing faith in the promise of hard workFor decades, millions of Chinese families believed the formula was simple: study hard, get a good job, buy a home, and build a ",
+      "description_en": "🇨🇳 China’s young generation is losing faith in the promise of hard workFor decades, millions of Chinese families believed the formula was simple: study hard, get a good job, buy a home, and build a better life than your parents. Now, that promise is becoming harder to keep.According to The Wall Street Journal, China’s young people are facing a brutal combination of unemployment, layoffs, falling wages and rising financial pressure.The numbers paint a troubling picture. Youth unemployment among",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8618",
+      "image_url": null,
+      "pub_date": "2026-10-26T14:42:11+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:50.305Z",
+      "created_at": "2026-10-26T19:32:50.305Z"
+    },
+    {
+      "id": 26368,
+      "source": "AI Post (TG)",
+      "title_en": "⚠️ A hacker cracked open a Samsung TV and says an AI inside tracks what you watchA bug bounty hunter who goes by log4j kept getting oddly specific ads on a 2025 Samsung TV. The firmware was encrypted,",
+      "description_en": "⚠️ A hacker cracked open a Samsung TV and says an AI inside tracks what you watchA bug bounty hunter who goes by log4j kept getting oddly specific ads on a 2025 Samsung TV. The firmware was encrypted, so they used zero-day bugs to take full control of the set and posted the findings this week.They say it runs a small AI model that follows what you watch in apps like YouTube, which ads you skip and how far into a video you get. The TV also processes screenshots and classifies the sounds it hears,",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8619",
+      "image_url": "https://cdn4.telesco.pe/file/oa1CP2iVNwmy2WPMdbkg4rdoJA_TPIunp0Nucdqb2uTq4ktMWAUflnD1DWUst1X1ABasUmXOVQnIUKPWwSa3w4L4nod7pyYL7xUArBTZJm-6AOCB0nsUptt4ZdNysr0kYofS2tawzc1y3QH26YaD8wQb5EUg0Kywmc_ug8BmpwXqSmxs0qABThHWSTikJePsdtmyMTHe8DExTbRQx2wDFLDNvgcKCSDXfFdWt6n4SS1hHPE3RFpkMsod187pINAz9VGPJJ2eY7hpRV_aSYnB2t8vNiYI0G_0xE2qvqltxyEOa9B0JhJlUwu2Qwj6xa1x4kty_Q3Bj6R7GKM9xWYxww.jpg",
+      "pub_date": "2026-10-26T16:10:47+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:50.305Z",
+      "created_at": "2026-10-26T19:32:50.305Z"
+    },
+    {
+      "id": 26369,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 OpenAI's new GPT-6.1 Terra looks at your screen, then acts on itGPT-6.1 Terra is now in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise and Edu users, according to OpenAI's changelog.Ope",
+      "description_en": "🤖 OpenAI's new GPT-6.1 Terra looks at your screen, then acts on itGPT-6.1 Terra is now in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise and Edu users, according to OpenAI's changelog.OpenAI calls it a fast, efficient model for professional work. It reads images and screens, then acts on what it finds across your browser, desktop and apps.It's also tuned to write plainly: results first, supporting details after.You pick it under Advanced in the model list of the ChatGPT desktop app ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8620",
+      "image_url": "https://cdn4.telesco.pe/file/cpWW2NDpvFUX4ra0-ouhZKkE5r4Dkfje5PjnMMk7qoe8H-bWhHnzoz3BwQRdo4spKx7vRTMeEtp0W-AUpzzuCFBe8k25w_H65Os7dkBK6Cd9neD46WOFdYU-I43dZMC2UAsNAADWIHSslPHfOfcX50wzO9CXxV4BwpXk9DBg9pTBEJTjSUyufNOwuVoBqikrYUt_wU4kUyhBPD4olVwsnAxcTdPEEf-G0n812xKcuol8lMT_Etp5G9ZSWhE0iTgtAq9WIJeCSrIedFqluqN9cmXlzhsxoNAoidVldB0cV-OCFvsPw-V-88NQJ3d4DPUQkciAZ0VVzgSN782p5hOfJw.jpg",
+      "pub_date": "2026-10-26T18:18:50+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T19:32:50.305Z",
+      "created_at": "2026-10-26T19:32:50.305Z"
+    },
+    {
+      "id": 26370,
+      "source": "AI Post (TG)",
+      "title_en": "🗣 Harari: Britain can be a US \"vassal\" or pay £500 billion for its own AIIf a country's economy and military run on AI infrastructure \"that the Americans can shut down at the press of a button,\" it's",
+      "description_en": "🗣 Harari: Britain can be a US \"vassal\" or pay £500 billion for its own AIIf a country's economy and military run on AI infrastructure \"that the Americans can shut down at the press of a button,\" it's no longer independent, Yuval Noah Harari told Rory Stewart on The Rest Is Politics. He calls it \"a real imminent threat.\"He sees three options for Britain. Accept being a US vassal, and then whenever Washington says jump, you jump, even if it asks you to give the Falklands to Argentina.Or build UK ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8621",
+      "image_url": null,
+      "pub_date": "2026-10-26T19:17:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T19:32:50.305Z",
+      "created_at": "2026-10-26T19:32:50.305Z"
+    },
+    {
+      "id": 26371,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🧠 Raschka's new course builds a reasoning model from scratch, no black boxesSebastian Raschka put out a video course on how o1/R1-style reasoning models actually get made. It's code-first, so you wri",
+      "description_en": "🧠 Raschka's new course builds a reasoning model from scratch, no black boxesSebastian Raschka put out a video course on how o1/R1-style reasoning models actually get made. It's code-first, so you write the pieces yourself instead of calling an API.It covers the RL-based training side that closed labs rarely show in detail.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/839",
+      "image_url": null,
+      "pub_date": "2026-10-26T16:14:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-26T19:32:50.662Z",
+      "created_at": "2026-10-26T19:32:50.662Z"
+    },
+    {
+      "id": 26372,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🤖 OpenAI ships GPT-6.1 Terra, a cheaper tier that's pitched as near-flagshipOpenAI introduced Terra as a new GPT-6.1 tier. Its charts put it level with GPT-6-Astra at a fraction of the cost, and clos",
+      "description_en": "🤖 OpenAI ships GPT-6.1 Terra, a cheaper tier that's pitched as near-flagshipOpenAI introduced Terra as a new GPT-6.1 tier. Its charts put it level with GPT-6-Astra at a fraction of the cost, and close to 6.1-Sol.But the benchmarks are saturated and Terra's curves hug the axes, so the gap is hard to read. People wanted an Opus 5.5 rival. They got a discount model.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/840",
+      "image_url": null,
+      "pub_date": "2026-10-26T18:12:08+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-26T19:32:50.662Z",
+      "created_at": "2026-10-26T19:32:50.662Z"
     }
   ]
 }
