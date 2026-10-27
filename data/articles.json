@@ -572074,6 +572074,377 @@
       "priority": "hot",
       "fetchedAt": "2026-10-27T08:11:39.146Z",
       "created_at": "2026-10-27T08:11:39.146Z"
+    },
+    {
+      "id": 26424,
+      "source": "The Decoder",
+      "title_en": "OpenAI's Ted Sanders shares a rule of thumb for picking the right GPT-model",
+      "description_en": "OpenAI's Ted Sanders explains where GPT-6.1 Terra fits in the company's GPT lineup. The smaller model outperforms the larger Astra in technical communication and costs far less but trails it in most other areas. Sanders says model size, reasoning effort, and multi-agent systems are distinct dimensions that can’t be reduced to a single \"IQ score.\"\nThe article OpenAI's Ted Sanders shares a rule of thumb for picking the right GPT-model appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/",
+      "image_url": null,
+      "pub_date": "Tue, 27 Oct 2026 10:09:26 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T10:13:27.228Z",
+      "created_at": "2026-10-27T10:13:27.228Z"
+    },
+    {
+      "id": 26425,
+      "source": "The Decoder",
+      "title_en": "Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips",
+      "description_en": "ia is buying into its customer Meta, which plans to run more of its AI agents on Nvidia hardware.\nThe article Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/meta-gets-3-billion-from-nvidia-and-plans-to-spend-more-on-nvidia-chips/",
+      "image_url": null,
+      "pub_date": "Tue, 27 Oct 2026 09:58:16 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Meta",
+        "Meta AI",
+        "Nvidia"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T10:13:27.229Z",
+      "created_at": "2026-10-27T10:13:27.229Z"
+    },
+    {
+      "id": 26426,
+      "source": "MIT Technology Review",
+      "title_en": "How solid-state transformers could help power the AI boom",
+      "description_en": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.  As the world races to meet rising electricity demand from…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+      "image_url": null,
+      "pub_date": "Tue, 27 Oct 2026 09:00:00 +0000",
+      "author": "Casey Crownhart",
+      "categories": [
+        "Climate change and energy",
+        "App",
+        "Summary"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T10:13:27.382Z",
+      "created_at": "2026-10-27T10:13:27.382Z"
+    },
+    {
+      "id": 26427,
+      "source": "New Atlas",
+      "title_en": "Electronic skin instantly displays touch as light",
+      "description_en": "“Your touch lights me up” sounds like quite the romantic figurative statement, doesn’t it? Well, not anymore. Researchers at the National University of Singapore (NUS) have developed an ultrathin, flexible electronic skin that lights up when touched, revealing exactly where pressure is being applied and how much, sort of like a skin with a screen. Dubbed the eLuminator, the device combines pressure sensing, measurement, and visualization in a single device.\nContinue Reading\nCategory: Robotics, E",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/robotics/eluminator-electronic-skin-displays-touch-as-light/",
+      "image_url": null,
+      "pub_date": "Tue, 27 Oct 2026 09:14:55 GMT",
+      "author": "Etiido Uko",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T10:13:27.885Z",
+      "created_at": "2026-10-27T10:13:27.885Z"
+    },
+    {
+      "id": 26428,
+      "source": "The Guardian AI",
+      "title_en": "AI-driven disinformation running rampant on social media before US midterms, experts warn",
+      "description_en": "Social media companies including Meta have pulled back on efforts to protect voters from election-meddling lies\nSocial media feeds are awash with an unprecedented flood of AI-driven disinformation ahead of November’s US midterm elections, according to experts, who warn many posts are likely “slipping through the cracks”.\nAs tens of millions of Americans prepare to cast their vote, social media companies have scaled back their efforts to protect voters from lies meant to manipulate elections.\n Co",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/2026/oct/27/ai-disinformation-social-media-midterm-elections",
+      "image_url": "https://i.guim.co.uk/img/media/d68f11cd3f15233005d45b70d00a9d9862b743ac/433_0_4332_3466/master/4332.jpg?width=140&quality=85&auto=format&fit=max&s=ea723306e08654b82b719f3e561e63a2",
+      "pub_date": "Tue, 27 Oct 2026 10:00:10 GMT",
+      "author": "George Chidi",
+      "categories": [
+        {
+          "_": "US midterm elections 2026",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-midterm-elections-2026"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "Digital media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/digital-media"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Social media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/social-media"
+          }
+        },
+        {
+          "_": "Media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/media"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Election interference",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/election-interference"
+          }
+        },
+        {
+          "_": "Meta",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/meta"
+          }
+        },
+        {
+          "_": "YouTube",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/youtube"
+          }
+        },
+        {
+          "_": "Texas",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/texas"
+          }
+        },
+        {
+          "_": "X",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/twitter"
+          }
+        },
+        {
+          "_": "Facebook",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/facebook"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Internet",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/internet"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Pennsylvania",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/pennsylvania"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T10:13:27.919Z",
+      "created_at": "2026-10-27T10:13:27.919Z"
+    },
+    {
+      "id": 26429,
+      "source": "Tom's Hardware",
+      "title_en": "Anthropic prepares for potential $2 trillion IPO valuation after reporting billions in revenue",
+      "description_en": "Anthropic has filed to go public as it pursues a potential multitrillion-dollar valuation, reporting $16.3 billion in revenue for the first half of 2026. The company’s  filing also warns that its AI safety measures may not prevent catastrophic risks. OpenAI and AI chipmaker Cerebras have also pursued public-market listings",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-prepares-for-potential-usd2-trillion-ipo-valuation-after-reporting-billions-in-revenue-company-warns-ai-could-pose-catastrophic-existential-risks-to-humanity",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/XL3SdCXJKQ5duBipYp56rG-1920-80.jpg",
+      "pub_date": "Tue, 27 Oct 2026 10:00:00 +0000",
+      "author": " Newton Gitonga ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T10:13:31.930Z",
+      "created_at": "2026-10-27T10:13:31.930Z"
+    },
+    {
+      "id": 26430,
+      "source": "Tom's Hardware",
+      "title_en": "Data center gear is being hijacked in transit to the tune of hundreds of millions",
+      "description_en": "Data center gear is being stolen in transit to the tune of hundreds of millions — grand-theft-GPU thieves hack accounts, perform hit-and-runs, and spoof GPS signals",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/data-center-gear-is-being-hijacked-in-transit-to-the-tune-of-hundreds-of-millions-grand-theft-gpu-thieves-hack-accounts-perform-hit-and-runs-spoof-gps-signals-and-funnel-hardware-to-china",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Qhze4hFJdc9evUKZQ2Jc3H-1920-80.jpg",
+      "pub_date": "Tue, 27 Oct 2026 09:40:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Big Tech",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T10:13:31.930Z",
+      "created_at": "2026-10-27T10:13:31.930Z"
+    },
+    {
+      "id": 26431,
+      "source": "Tom's Hardware",
+      "title_en": "SpaceX closes $40 billion debt financing for GPUs expected in the first half of 2027, Musk says",
+      "description_en": "SpaceX expects fourth-quarter capital expenditure of $35 billion to $40 billion, CFO Bret Johnsen said, as Elon Musk pushes to expand the company’s AI computing infrastructure.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/spacex-closes-usd40-billion-debt-financing-for-gpus-expected-in-the-first-half-of-2027-musk-says-company-faces-up-to-usd40-billion-in-additional-fourth-quarter-capital-spending-as-ai-infrastructure-costs-soar",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/EGD7PmkSMgK6t3rpCaCefg-1920-80.jpg",
+      "pub_date": "Tue, 27 Oct 2026 09:20:00 +0000",
+      "author": " Newton Gitonga ",
+      "categories": [
+        "Data Centers",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T10:13:31.930Z",
+      "created_at": "2026-10-27T10:13:31.930Z"
+    },
+    {
+      "id": 26432,
+      "source": "CNBC Tech",
+      "title_en": "Porsche profit rebounds as luxury carmaker reduces exposure to China",
+      "description_en": "Luxury German carmaker Porsche said it's rapidly reducing its exposure to the Chinese autos market after reporting a profit recovery in the first nine months.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/27/porsche-china-profit-recovery.html",
+      "image_url": null,
+      "pub_date": "Tue, 27 Oct 2026 10:08:51 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T10:13:32.190Z",
+      "created_at": "2026-10-27T10:13:32.190Z"
+    },
+    {
+      "id": 26433,
+      "source": "CNBC Tech",
+      "title_en": "Silicon Valley AI political groups turn on each other in the 2026 election",
+      "description_en": "AI political groups are spending millions in the 2026 election as Silicon Valley factions battle over regulation, safeguards and state authority.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/27/ai-political-spending-silicon-valley-election.html",
+      "image_url": null,
+      "pub_date": "Tue, 27 Oct 2026 10:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T10:13:32.190Z",
+      "created_at": "2026-10-27T10:13:32.190Z"
+    },
+    {
+      "id": 26434,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
+      "description_en": "Meta on Monday announced plans to raise a total of $95 billion to support its investments in artificial intelligence infrastructure.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
+      "image_url": null,
+      "pub_date": "Tue, 27 Oct 2026 09:07:41 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T10:13:32.190Z",
+      "created_at": "2026-10-27T10:13:32.190Z"
+    },
+    {
+      "id": 26435,
+      "source": "XOR Journal (TG)",
+      "title_en": "⚡️ ИИ-пузырь ЛОПНУЛ (но пока только в Китае) — инвесторы потеряли $480 млрд.За последние четыре месяца акции топ-50 китайских технологических лидеров в сфере нейросетей, роботостроения и полупроводник",
+      "description_en": "⚡️ ИИ-пузырь ЛОПНУЛ (но пока только в Китае) — инвесторы потеряли $480 млрд.За последние четыре месяца акции топ-50 китайских технологических лидеров в сфере нейросетей, роботостроения и полупроводников просели на 40%. На волне паники и хайпа ИИ-сектор забирал на себя рекордные 57% всего торгового оборота биржи. В итоге массовый наплыв непрофессиональных инвесторов привел к жесткой коррекции, а компании на грани IPO теперь вынуждены резко снижать свои финансовые ожидания.Пока США удерживают пози",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10376",
+      "image_url": "https://cdn4.telesco.pe/file/SMvzLJTH3mpOE5vwXgsV3Ib8k_qIUmkf89qD0YEFv6CIxBzwjVdm-_QJOyg7qmZCA49x_D48JOZFHSoizNzsaeF7eZgj8MKb3Xq-9yx32ylbGLCTjNlL04jVZBGJKX8uu9hLzklE3KK-d-9Rvl3nRDAB6d4UluNZEPhi-4aZy0mV_ds9OqBj3zsXxd0YufvYp75L-sAFwyXNWf9URhdjZ6obtp0Bc2aMqPIvgWl9EzWCFHujLFzXLG_mewgPXtfNL4J36Rs96R9dm4TYHnjlH1Mm9qLsq_qzinTaV0VkRu9MR9tcS2xHniOZ5BTA2OrkdUC8GPQKx_3ZC5XHG3mdYA.jpg",
+      "pub_date": "2026-10-27T08:35:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T10:13:37.330Z",
+      "created_at": "2026-10-27T10:13:37.330Z"
+    },
+    {
+      "id": 26436,
+      "source": "AI Post (TG)",
+      "title_en": "🚨 OpenAI says its AI broke a rule hundreds of computer science papers were built onOpenAI announced three discoveries by its internal models on Monday, one each in math, computer science and physics.",
+      "description_en": "🚨 OpenAI says its AI broke a rule hundreds of computer science papers were built onOpenAI announced three discoveries by its internal models on Monday, one each in math, computer science and physics.The loudest is about the Exponential Time Hypothesis, a widely believed assumption about how fast computers can solve certain hard problems. OpenAI's system says it's false, and a computer proof checker confirmed the proof.Two of the people who proposed that hypothesis, Russell Impagliazzo and Ramam",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8626",
+      "image_url": "https://cdn4.telesco.pe/file/Yg0g5ius3FwUjD7gqZbPvX7RFsbgtspH_LJkR4Rj6IfIm9eE4rk5aTaPy_nqjk7X0DUfOCcxFw2UqbAcIkP5nUCNKqeUDl9SY5PoZM0fBMzj1qR8TQYFBYUL-7uBkBhjiYVLTzuI4kKAl46kIHVuqtiPr8PDxAmxlPu22ZTJAgvqvE-aPe4CZkPK1hRbUP1bSyF3lvBL5hcb5Y5qnLQ6sxXUJlmvr5VvvxceacGgqhLX4HV99rYr5fmyroEhMzLpbdYvBQ4NpBOY1mb96N9w-2-dlZD19m5-al5IY1WI06GyWJHgS_MhhLzUjl8Ohe2A5nwYbR0PlqCaOXCf89xMyg.jpg",
+      "pub_date": "2026-10-27T09:25:49+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T10:13:37.949Z",
+      "created_at": "2026-10-27T10:13:37.949Z"
+    },
+    {
+      "id": 26437,
+      "source": "AI Post (TG)",
+      "title_en": "🚨 OpenAI says its AI broke a rule hundreds of computer science papers were built on  OpenAI announced three discoveries by its internal models on Monday, one each in math, computer science and physic",
+      "description_en": "🚨 OpenAI says its AI broke a rule hundreds of computer science papers were built on  OpenAI announced three discoveries by its internal models on Monday, one each in math, computer science and physics.  The loudest is about the Exponential Time Hypothesis…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8627",
+      "image_url": "https://cdn4.telesco.pe/file/E90m_6Y-4DMd__l8ioYPl1uMAGIEzXdp7lXc6wFqLP19HySjW3GmKKWzm7p59pPv-hjdYRDrxFI7aJIWrpsTbVSbR7IcQQqQ2FbPIGmOlz8iLoqFVz8LErqbBZapkRtijOiE5Lz3iBkPop-ZCEirc9SkepgnX36psJwwpVXJ1UqwjRdKed3IeAXN_XKk_7bDdPxJGJNmRvkX9veh6I7lhim1Rb5W22yYaHSDaMwOVXE8sdkSe1uac5svsuiDhFU4-5XYBqgpEEYI4VEO6HJGp8x2HNfeTZnIyEL0QeQq62hU1KJk7NPQKFwmOUCMsOnkphdP_oxSJcw9PKreeSHdyQ.jpg",
+      "pub_date": "2026-10-27T09:29:42+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T10:13:37.949Z",
+      "created_at": "2026-10-27T10:13:37.949Z"
     }
   ]
 }
