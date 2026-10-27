@@ -571641,6 +571641,422 @@
       "priority": "hot",
       "fetchedAt": "2026-10-27T04:49:06.404Z",
       "created_at": "2026-10-27T04:49:06.404Z"
+    },
+    {
+      "id": 26406,
+      "source": "MarkTechPost",
+      "title_en": "vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model",
+      "description_en": "vLLM Semantic Router released d3-ultra, a 27B open-weight multimodal decision model. It reads text, images and video once, then returns probabilities for every answer, scoring 87.2 on the team’s SR-Text test.\nThe post vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/",
+      "image_url": null,
+      "pub_date": "Tue, 27 Oct 2026 05:50:57 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Decision Models",
+        "Editors Pick",
+        "For Devs",
+        "Language Model",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T07:47:35.903Z",
+      "created_at": "2026-10-27T07:47:35.903Z"
+    },
+    {
+      "id": 26407,
+      "source": "MarkTechPost",
+      "title_en": "Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing",
+      "description_en": "Baidu has released Unlimited OCR 2, an MIT-licensed 3B OCR model that parses hundred-page documents in one request. Its SR-SWA attention keeps per-step decoding cost nearly flat, scoring 77.1 on MarathonDocBench\nThe post Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/",
+      "image_url": null,
+      "pub_date": "Tue, 27 Oct 2026 05:26:36 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Editors Pick",
+        "Language Model",
+        "New Releases",
+        "OCR",
+        "Open Source",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-27T07:47:35.903Z",
+      "created_at": "2026-10-27T07:47:35.903Z"
+    },
+    {
+      "id": 26408,
+      "source": "The Guardian AI",
+      "title_en": "UK government met 137 businesses over AI datacentres – but no environmental groups",
+      "description_en": "Investigation finds dozens of ministers and civil servants moved into AI roles as government developed datacentre expansion plans\nThe UK’s policy on datacentres and AI was developed without any meetings with environmental groups, an investigation has found.\nThe nonprofit organisation Spotlight on Corruption said a “considerable revolving door” shaped the government’s development of “AI growth zones”, a central plank of the former prime minister Keir Starmer’s AI and economic policy, with 38 mini",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation",
+      "image_url": "https://i.guim.co.uk/img/media/d7d40991e7793995807a7196e5227dd047cfc204/420_0_3413_2732/master/3413.jpg?width=140&quality=85&auto=format&fit=max&s=7f99b2c27b0b6e3bc4b2140de4812872",
+      "pub_date": "Tue, 27 Oct 2026 07:00:04 GMT",
+      "author": "Aisha Down Global technology reporter",
+      "categories": [
+        {
+          "_": "Datacentres - UK",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/datacentres"
+          }
+        },
+        {
+          "_": "Planning policy",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/planning"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Freedom of information",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/freedomofinformation"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Environment",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/environment"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T07:47:36.628Z",
+      "created_at": "2026-10-27T07:47:36.628Z"
+    },
+    {
+      "id": 26409,
+      "source": "The Guardian AI",
+      "title_en": "Four takeaways from Anthropic’s potentially record-breaking stock market filing",
+      "description_en": "The AI company’s first public financial disclosures reveal explosive growth, huge costs and risks ranging from cyber-attacks to the limits of safeguards\nAnthropic has filed to go public on the US stock market, revealing for the first time the AI research lab’s financials and all the risks – more than 90 pages of them – that might negatively impact its business.\nThe company’s investor prospectus, released Monday, veers from hyperbolic predictions about AI’s “incredible potential” to existential r",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/oct/26/anthropic-stock-market-filing-takeaways",
+      "image_url": "https://i.guim.co.uk/img/media/34972ab7bdc22bd58b4b430c49ae81493971934a/234_0_5907_4725/master/5907.jpg?width=140&quality=85&auto=format&fit=max&s=288348dd3aa3c598608d1126f3559d09",
+      "pub_date": "Tue, 27 Oct 2026 05:00:04 GMT",
+      "author": "Johana Bhuiyan",
+      "categories": [
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Internet IPOs",
+          "$": {
+            "domain": "https://www.theguardian.com/business/internetipos"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Chatbots",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatbots"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-27T07:47:36.628Z",
+      "created_at": "2026-10-27T07:47:36.628Z"
+    },
+    {
+      "id": 26410,
+      "source": "Interesting Engineering",
+      "title_en": "220-second X-ray scan delivers images 27 times faster than conventional method",
+      "description_en": "Researchers have demonstrated a new X-ray technique that can produce detailed images and reveal a...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/x-ray-scan-delivers-images-27-times-faster",
+      "image_url": null,
+      "pub_date": "Tue, 27 Oct 2026 07:09:08 +0000",
+      "author": "Muskan Bhatia",
+      "categories": [
+        "Science"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T07:47:37.663Z",
+      "created_at": "2026-10-27T07:47:37.663Z"
+    },
+    {
+      "id": 26411,
+      "source": "Product Hunt",
+      "title_en": "TheySaid 4.0",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/theysaid",
+      "image_url": null,
+      "pub_date": "2026-10-16T17:22:22.000Z",
+      "author": "Ben Lang",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-27T07:47:42.763Z",
+      "created_at": "2026-10-27T07:47:42.763Z"
+    },
+    {
+      "id": 26412,
+      "source": "Product Hunt",
+      "title_en": "SavorApp_AI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/savor-3",
+      "image_url": null,
+      "pub_date": "2026-09-12T16:45:52.000Z",
+      "author": "Rohan Chaubey",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-27T07:47:42.763Z",
+      "created_at": "2026-10-27T07:47:42.763Z"
+    },
+    {
+      "id": 26413,
+      "source": "Product Hunt",
+      "title_en": "Off Grid AI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/off-grid-ai",
+      "image_url": null,
+      "pub_date": "2026-10-26T12:12:10.000Z",
+      "author": "Mohammed Ali Chherawalla",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-27T07:47:42.763Z",
+      "created_at": "2026-10-27T07:47:42.763Z"
+    },
+    {
+      "id": 26414,
+      "source": "Product Hunt",
+      "title_en": "Revix AI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/revix-ai-2",
+      "image_url": null,
+      "pub_date": "2026-10-26T21:29:10.000Z",
+      "author": "Oriol Viladrosa",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-27T07:47:42.763Z",
+      "created_at": "2026-10-27T07:47:42.763Z"
+    },
+    {
+      "id": 26415,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Халява кончилась: Claude и GhatGPT теперь не могут скопировать программы и игрыМы уже писали о торжестве обратного инжиниринга: энтузиасты с помощью нейронок переделывали, копировали и портировали игр",
+      "description_en": "Халява кончилась: Claude и GhatGPT теперь не могут скопировать программы и игрыМы уже писали о торжестве обратного инжиниринга: энтузиасты с помощью нейронок переделывали, копировали и портировали игры и приложения. Праздник долго не продлился, потому что Anthropic и OpenAI это дело запретили.Теперь нейросети блокируют попытки скопировать с их помощью софт, защищённый авторским правом. При попытке подключить репозиторий для реверс-инжиниринга REA (Reverse Engineering Anything) они отказываются р",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/36788",
+      "image_url": "https://cdn4.telesco.pe/file/D9-agANwvQ0SwrB2LR5jBEQKL7Zwer__GcNjnNO9NiiUWkV_cv1Oy24n1UoW1-DkL7_nF9w1Wrk6uhQarIK5irygjlE8sZ4Og-lDprbyL7HeLOdqXcnSWBvVltjMO3fodTIL3DvN2EFOVpDflJqR8g4uthRVjVRuqy_7-ddxOB7wsPlVSBj6rN5CjZxJPbQJZ9cWrbjitMWekfX64xearuz1PvkJLepMywgwXMTnhTyORvCCkiPF6UVhULXPSxileFx1FuqrmjttOpmdEPSqomwTj6iEXohmoOuRRIa0SuoxDVxFISHecd2AJ5sg8xZKwt1cu2iGh_VRbh4uKwCAPA.jpg",
+      "pub_date": "2026-10-27T05:14:21+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-27T07:47:43.496Z",
+      "created_at": "2026-10-27T07:47:43.496Z"
+    },
+    {
+      "id": 26416,
+      "source": "XOR Journal (TG)",
+      "title_en": "Легендарный Дядя Боб, автор «Чистого кода», выпустил бесплатный скилл со своими принципами программирования 🤓Благодаря ub-mode агенты будут писать код по всем правилам: сначала создавать тесты, испра",
+      "description_en": "Легендарный Дядя Боб, автор «Чистого кода», выпустил бесплатный скилл со своими принципами программирования 🤓Благодаря ub-mode агенты будут писать код по всем правилам: сначала создавать тесты, исправлять первопричины ошибок, избегать дублирования и регулярно проводить рефакторинг. Причём скилл отдельно запрещает маскировать баги и требует проверять, что тесты действительно способны находить ошибки.Сам Роберт Мартин уже использует скилл и счастлив.Дядя Боб дурного не посоветует@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10374",
+      "image_url": "https://cdn4.telesco.pe/file/U0BUEPMOrihV-rA7rB83VCD0jYhp3QS-0-MWskZOKYPVZrIzaTarXUXLF4mXaKs3vVqSFmNJ4Je7siRtaxSLOa-VhcliN5lOGaYOaYOq1SNgu6CrJISjpZKU4jeYbU04DPyZzhvx9iVa9l7TjqpKOn4V3MZbPQlhaf_yX8UT8fHvZVcvA791xNUahXC_b9PotzpipCfFdT4tSTXSQfyWHr2bz9yWmRvp2oocND6lRhdsK8AOfLaK_KlCe5Wx7OF6teKfA8NrmnSTgJQMS37dE1BhrSWDuYaK418UqTVcqgpe28uScrdOXU_kX0QSCNMQumwhsV1cX6Xha2zWx2TGyw.jpg",
+      "pub_date": "2026-10-27T05:42:34+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-27T07:47:43.588Z",
+      "created_at": "2026-10-27T07:47:43.588Z"
+    },
+    {
+      "id": 26417,
+      "source": "XOR Journal (TG)",
+      "title_en": "Вступай в сообщество одной из крупнейших ИТ-компаний РФ. Бесплатные стажировки, интересные проекты, наставничество, лояльное руководство, надежный коллектив экспертов и офисы по всей стране — все это ",
+      "description_en": "Вступай в сообщество одной из крупнейших ИТ-компаний РФ. Бесплатные стажировки, интересные проекты, наставничество, лояльное руководство, надежный коллектив экспертов и офисы по всей стране — все это Лига.Кроме того, расширенный полис ДМС, корпоративная связь, работа в удаленном формате или гибридный график, возможность занятий спортом или другими увлечениями в команде единомышленников, а также масштабные корпоративы. Выбирай Лигу, совершенствуйся вместе с нами!https://t.me/digitalleague?erid=2W",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10375",
+      "image_url": null,
+      "pub_date": "2026-10-27T07:40:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T07:47:43.588Z",
+      "created_at": "2026-10-27T07:47:43.588Z"
+    },
+    {
+      "id": 26418,
+      "source": "Hi, AI English (TG)",
+      "title_en": "👨‍💻 OpenAI Says Its AI Has Disproved a Major Computer Science HypothesisAn internal OpenAI model found an algorithm that appears to contradict the Exponential Time Hypothesis (ETH). Proposed in 1999",
+      "description_en": "👨‍💻 OpenAI Says Its AI Has Disproved a Major Computer Science HypothesisAn internal OpenAI model found an algorithm that appears to contradict the Exponential Time Hypothesis (ETH). Proposed in 1999, the hypothesis describes the limits on how quickly a broad class of difficult computational problems can be solved.📌 In these types of problems, verifying a solution is easy, but finding one is significantly more difficult. For example, in a game of Sudoku, it takes only a moment to check a compl",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2888",
+      "image_url": "https://cdn4.telesco.pe/file/UuE27cirfiV8ad9EjAsGiNSO1XlunsgD-S9_AVf0Q5rCiD4279rXPSBjZmMRuI3TJmXaWX-yt-Mv1FghWlWY3L4rPac5zJrWVh0sR-4o0A0Xai606C_tkNOIZTGRoVi3mAkkNMevTC7TNXnF6rQJdLxHx0x7a5mjLuZ-3ne1RwiQKitjd8yQFRPNF75up8xieTz5FZf2Ge90OTOTlVzgyA_UdGjp0-tfPP-1py-8Lb23EDlS3I_SrJ3lDYvzIel15nQI1DOLOi5dBIltw0CjXszl3qCZY1JNGQcSwthXkJh0Li77iPDkV0uaxv_xbzxQs7F_fAmnBYBlXxRgGPKQUQ.jpg",
+      "pub_date": "2026-10-27T07:16:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T07:47:43.981Z",
+      "created_at": "2026-10-27T07:47:43.981Z"
+    },
+    {
+      "id": 26419,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "👨‍💻 ИИ опроверг одну из главных гипотез информатики, заявляет OpenAIВнутренняя модель компании нашла алгоритм, существование которого противоречит гипотезе экспоненциального времени (ETH). Гипотеза,",
+      "description_en": "👨‍💻 ИИ опроверг одну из главных гипотез информатики, заявляет OpenAIВнутренняя модель компании нашла алгоритм, существование которого противоречит гипотезе экспоненциального времени (ETH). Гипотеза, выдвинутая в 1999 году, описывала, насколько быстро можно решать целый класс сложных комбинаторных задач.📌 В таких задачах легко проверить решение, но гораздо сложнее найти его. Например, в судоку убедиться, что числа расставлены верно, можно за минуту, а вот решить его так быстро вряд ли получитс",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3775",
+      "image_url": "https://cdn4.telesco.pe/file/G_FHrAHxhcdhZ55T1u-hAblT12SyMDv6Ie2b4YyteoLb4imi2Ro7Y9imMZQycE_mAIbHRgz8THXarWXnxqzFrjz-PX_VI3-QZcwsXuCx52bpUJkH_Vz_tj7jQ2keeOzi-Lrqr2F3DfZ7rmOwJQjC4SNw-y_Y7pNaATwZNG4zVedoA63ZVBELFT913jau-V_aqA0CT1LfCez0Fa04velJpeku1J0nUOpLWLklvDNPbapplGLtFsCPiwUZjy1ejg92wTfRIlyYCawvlAbHWuqWVmmbjhR1dXlqmesWKuBvyJskqOVa1I1XQcS4Ri1rTi2j1anJdxaFGzzAUKl0XJ0ayw.jpg",
+      "pub_date": "2026-10-27T06:12:21+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T07:47:44.022Z",
+      "created_at": "2026-10-27T07:47:44.022Z"
+    },
+    {
+      "id": 26420,
+      "source": "Habr (TG)",
+      "title_en": "От токенов до RAG: пять терминов для понимания ИИСпрашиваете нейросеть о книге, а она уверенно называет автора, год издания и даже пересказывает сюжет. Всё бы ничего, только такой книги никогда не сущ",
+      "description_en": "От токенов до RAG: пять терминов для понимания ИИСпрашиваете нейросеть о книге, а она уверенно называет автора, год издания и даже пересказывает сюжет. Всё бы ничего, только такой книги никогда не существовало. Или ведёте длинный диалог, а ИИ в какой-то момент перестаёт учитывать то, о чём вы говорили в самом начале.У этих странностей есть объяснения. И чтобы их понять, полезнее разобраться в нескольких базовых терминах, чем заучивать определения из учебника. Токены, галлюцинации, контекстное ок",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/69873",
+      "image_url": "https://cdn4.telesco.pe/file/Jk-gG0Q6ZKCm43PKgHPGkdaUEExjvpTusLXPPcBtUW7dgPhjpJ3L86N4oF28LRKBBoBRAcWy0jWwSa5FlxZ9GU1Lt6BtSl3rUBznlm4elN9bJa7W042vUYsyiAxoPX3r1vyNYW0NjXfp5E22q1im2QOz-oiADcu4Vu63xEaxcBGZ1YlXU3ozLVEuBfEXRvQ19uKbMS4y2MeYmLzlvl9Bxt78mq7SRf42qIEztEPzklVAKfbA2jSRt7gW6t84DgmpNaTZwA-KUYE-CmvN5fBN9SkaD4BL9IKExnekPiauAQ_VyHVWK32I8AhzDlZn34-eYUhBDP5RoE-5EBW420aCBg.jpg",
+      "pub_date": "2026-10-27T06:02:13+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T07:47:44.064Z",
+      "created_at": "2026-10-27T07:47:44.064Z"
+    },
+    {
+      "id": 26421,
+      "source": "AI Post (TG)",
+      "title_en": "💻 Microsoft just offered 60,000 employees money to leaveAbout 60,000 people, roughly 27% of Microsoft's 223,000 staff, can now take a voluntary exit offer, CNBC reports. It covers the US, Canada, the",
+      "description_en": "💻 Microsoft just offered 60,000 employees money to leaveAbout 60,000 people, roughly 27% of Microsoft's 223,000 staff, can now take a voluntary exit offer, CNBC reports. It covers the US, Canada, the UK and India, up to level 70, which includes some senior leaders.The package matches Microsoft's standard severance: pay based on tenure, continued stock vesting and healthcare for a set period. Staff have until early December to decide. Those who say yes leave at the end of the year.Sales is sitti",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8625",
+      "image_url": "https://cdn4.telesco.pe/file/W6Gz6q4gsumn88G89N2p7oRF2nU5yo13l3l0iaFPHJjAY7qsKZE077aj87QW4ShK6A0yZzQW_KQsvc0bu0Ii1eZ72I29d2pkzwYLJgu6yaDdOcoadC0t58V-YEc5XpLVbhoz9J1ZEQquoCAtK3PXeneNdroxTKvcnEQvX0LhgwW0HijSE_b4aWNWnmqCqnwIKCkGnEIbjXMx2IV3AI8iQIVcNolMSfXT5D6x1zSbJCSalNoRSUQYpte9DfkjZzcXBdOhNLfkpfK259jjstWL6zRAt305sDcAYTOqBq7QJtsSMeMmRuA3xHSJCCdSq5CJacD7gpm5OGfFQpiKO0vj0g.jpg",
+      "pub_date": "2026-10-27T05:54:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T07:47:44.280Z",
+      "created_at": "2026-10-27T07:47:44.280Z"
+    },
+    {
+      "id": 26422,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 FTC wants Anthropic's executives on the record in its consumer harm probeThe agency confirmed Monday that it's demanding testimony from Anthropic leaders. It lands the same day as the company's S-1",
+      "description_en": "🚨 FTC wants Anthropic's executives on the record in its consumer harm probeThe agency confirmed Monday that it's demanding testimony from Anthropic leaders. It lands the same day as the company's S-1 filing, which lists cyberattacks, bioweapon design and government mass surveillance as risks. Anthropic would be the first big frontier lab to go public.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/847",
+      "image_url": null,
+      "pub_date": "2026-10-27T04:53:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-27T07:47:44.748Z",
+      "created_at": "2026-10-27T07:47:44.748Z"
     }
   ]
 }
