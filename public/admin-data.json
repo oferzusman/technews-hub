@@ -1,20 +1,20 @@
 {
-  "total": 26465,
-  "translated": 26457,
+  "total": 26475,
+  "translated": 26467,
   "untranslated": 8,
-  "today": 74,
-  "week": 788,
+  "today": 84,
+  "week": 798,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2451,
-      "translated": 2451,
+      "total": 2454,
+      "translated": 2454,
       "lastDate": "Wed, 30 Sep 2026 18:00:39 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 2279,
-      "translated": 2279,
+      "total": 2281,
+      "translated": 2281,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 1444,
-      "translated": 1444,
+      "total": 1445,
+      "translated": 1445,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 1302,
-      "translated": 1302,
+      "total": 1303,
+      "translated": 1303,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 943,
-      "translated": 943,
-      "lastDate": "2026-10-27T10:00:00.000Z"
+      "total": 944,
+      "translated": 944,
+      "lastDate": "2026-10-27T13:50:51.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -85,15 +85,15 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 722,
-      "translated": 722,
-      "lastDate": "2026-10-27T10:55:51+00:00"
+      "total": 723,
+      "translated": 723,
+      "lastDate": "2026-10-27T13:56:51+00:00"
     },
     {
       "name": "Backdoor (TG)",
-      "total": 655,
-      "translated": 654,
-      "lastDate": "2026-10-27T13:20:40+00:00"
+      "total": 656,
+      "translated": 655,
+      "lastDate": "2026-10-27T14:31:35+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-27T14:29:51.388Z"
+  "generatedAt": "2026-10-27T14:37:51.362Z"
 }
