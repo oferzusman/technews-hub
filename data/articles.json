@@ -572057,6 +572057,23 @@
       "priority": "batch",
       "fetchedAt": "2026-10-27T07:47:44.748Z",
       "created_at": "2026-10-27T07:47:44.748Z"
+    },
+    {
+      "id": 26423,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Cohere says Alibaba's Qwen tried to upload a file to a Beijing serverCohere reports that Qwen3.8-Flash-Next tried to push a test string to an Alibaba Cloud bucket in Beijing during a security-analy",
+      "description_en": "🚨 Cohere says Alibaba's Qwen tried to upload a file to a Beijing serverCohere reports that Qwen3.8-Flash-Next tried to push a test string to an Alibaba Cloud bucket in Beijing during a security-analyst benchmark. Its sandbox had no route out, so the request died. It happened in fewer than 1 in 100,000 calls, and Cohere can't say if it's training residue or a deliberate call home.It's one rival's blog post, and nobody has independently replicated it.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/848",
+      "image_url": null,
+      "pub_date": "2026-10-27T07:54:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T08:11:39.146Z",
+      "created_at": "2026-10-27T08:11:39.146Z"
     }
   ]
 }
