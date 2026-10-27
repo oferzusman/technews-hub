@@ -573052,6 +573052,249 @@
       "priority": "batch",
       "fetchedAt": "2026-10-27T13:42:55.442Z",
       "created_at": "2026-10-27T13:42:55.442Z"
+    },
+    {
+      "id": 26466,
+      "source": "The Verge AI",
+      "title_en": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "description_en": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote.\nIn Pages, Apple says the AI assistant can draft, restructure, and tweak written content. It can also calculate, visualize, and organize data in Numbers, while suggesting chart types and building custom tables. \nKey",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+      "image_url": null,
+      "pub_date": "2026-10-27T13:50:51.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T14:35:59.374Z",
+      "created_at": "2026-10-27T14:35:59.374Z"
+    },
+    {
+      "id": 26467,
+      "source": "The Decoder",
+      "title_en": "Former Deepmind researcher thinks AlphaGo's playbook can cure AI hallucinations",
+      "description_en": "Former Deepmind researcher Thore Graepel wants his startup Metis Reasoning to bring AlphaGo's search principle to general reasoning. Instead of locking knowledge inside model weights, an explicit knowledge ledger would make every conclusion checkable against evidence. So far, though, there's no working system and no benchmarks.\nThe article Former Deepmind researcher thinks AlphaGo's playbook can cure AI hallucinations appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/former-deepmind-researcher-thinks-alphagos-playbook-can-cure-ai-hallucinations/",
+      "image_url": null,
+      "pub_date": "Tue, 27 Oct 2026 13:55:24 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Deepmind"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T14:36:00.395Z",
+      "created_at": "2026-10-27T14:36:00.395Z"
+    },
+    {
+      "id": 26468,
+      "source": "The Guardian AI",
+      "title_en": "‘Meaningless as a laptop screensaver’: reviewers slate Musk’s AI-made Odyssey film",
+      "description_en": "Tesla tycoon launched Grok project after criticising Christoper Nolan’s diverse casting for his Homeric blockbuster\nElon Musk has released an AI-generated rival to Christopher Nolan’s The Odyssey after pledging to make a version “true to the art of Homer”.\nHaving criticised the hit movie in the summer, the tycoon said he would use Grok Imagine to make a “historically accurate” adaptation.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan",
+      "image_url": "https://i.guim.co.uk/img/media/f5bb844cbf76398948b5d3efa0fb0e79205a0c23/408_0_1983_1586/master/1983.jpg?width=140&quality=85&auto=format&fit=max&s=36c9f5dfa8f5fbfd22bbacb9882bab09",
+      "pub_date": "Tue, 27 Oct 2026 14:08:41 GMT",
+      "author": "Dan Milmo Global technology editor",
+      "categories": [
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Christopher Nolan",
+          "$": {
+            "domain": "https://www.theguardian.com/film/christopher-nolan"
+          }
+        },
+        {
+          "_": "Homer",
+          "$": {
+            "domain": "https://www.theguardian.com/books/homer"
+          }
+        },
+        {
+          "_": "The Odyssey",
+          "$": {
+            "domain": "https://www.theguardian.com/film/the-odyssey"
+          }
+        },
+        {
+          "_": "Grok AI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/grok-ai"
+          }
+        },
+        {
+          "_": "X",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/twitter"
+          }
+        },
+        {
+          "_": "Film",
+          "$": {
+            "domain": "https://www.theguardian.com/film/film"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T14:36:00.958Z",
+      "created_at": "2026-10-27T14:36:00.958Z"
+    },
+    {
+      "id": 26469,
+      "source": "Interesting Engineering",
+      "title_en": "Chemical warfare cleanup: US develops 2-version system to recover costly gear",
+      "description_en": "Sensitive military equipment exposed to chemical or biological warfare agents could be cleaned and returned...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-cleanup-system-chemical-biological-warfare",
+      "image_url": null,
+      "pub_date": "Tue, 27 Oct 2026 14:01:38 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T14:36:02.459Z",
+      "created_at": "2026-10-27T14:36:02.459Z"
+    },
+    {
+      "id": 26470,
+      "source": "Interesting Engineering",
+      "title_en": "US team’s new method detects radioactivity from 100-feet above in seconds",
+      "description_en": "U.S. researchers have found a new method that aids faster and more accurate radioactive material...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/us-bayesian-detect-radioactivity",
+      "image_url": null,
+      "pub_date": "Tue, 27 Oct 2026 13:50:28 +0000",
+      "author": "Muskan Bhatia",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T14:36:02.459Z",
+      "created_at": "2026-10-27T14:36:02.459Z"
+    },
+    {
+      "id": 26471,
+      "source": "Tom's Hardware",
+      "title_en": "TSMC reportedly weighs 20% CoWoS price increase as Nvidia Blackwell and Rubin chips put pressure on packaging capacity — equipment lead times stretch to eight months",
+      "description_en": "TSMC is reportedly weighing a price increase of up to 20% for its CoWoS advanced packaging technology as Nvidia’s Blackwell and upcoming Rubin chips intensify pressure on capacity. Equipment deliveries now reportedly take up to eight months, while separate wafer-price increases of 5% to 10% are expected in 2027, with some customers potentially facing total cost increases of up to 25%.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reportedly-weighs-20-percent-cowos-price-increase-as-nvidia-blackwell-and-rubin-chips-put-pressure-on-packaging-capacity-equipment-lead-times-stretch-to-eight-months",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/F7GwETgbWz3VqDaj8UmXcJ-1920-80.jpg",
+      "pub_date": "Tue, 27 Oct 2026 14:30:00 +0000",
+      "author": " Newton Gitonga ",
+      "categories": [
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T14:36:02.775Z",
+      "created_at": "2026-10-27T14:36:02.775Z"
+    },
+    {
+      "id": 26472,
+      "source": "Tom's Hardware",
+      "title_en": "Police are reportedly pulling motorists over because AI algorithms deem their driving patterns 'suspicious'",
+      "description_en": "An ACLU report claims police are increasingly using AI to analyze license plate-reader data and flag motorists based on travel patterns, raising concerns that innocent drivers could be pulled over because an algorithm deemed their movements suspicious.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/police-reportedly-pulling-motorists-over-because-ai-algorithms-deem-their-driving-patterns-suspicious-rights-group-report-warns-ai-surveillance-systems-will-sweep-in-more-innocent-people-than-wrongdoers",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/nmQ5uiPB4aYsNPFK5tATUE-1920-80.jpg",
+      "pub_date": "Tue, 27 Oct 2026 13:53:32 +0000",
+      "author": " Etiido Uko ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T14:36:02.775Z",
+      "created_at": "2026-10-27T14:36:02.775Z"
+    },
+    {
+      "id": 26473,
+      "source": "Tom's Hardware",
+      "title_en": "Walmart slashes $750 off this MSI gaming laptop — 16-inch Crosshair sports an RTX 5060 GPU and a fast 240Hz QHD display",
+      "description_en": "A massive $750 discount at Walmart brings the price of MSI's Crosshair gaming laptop crashing down. RTX 5060 graphics and a bright 240Hz IPS display are just two of the standout features of this laptop.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/walmart-slashes-usd750-off-this-msi-gaming-laptop-16-inch-crosshair-sports-an-rtx-5060-gpu-and-a-fast-240hz-qhd-display",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/FpRzTHfofYi9j3tSG6ts23-1920-80.jpg",
+      "pub_date": "Tue, 27 Oct 2026 13:47:15 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "Gaming Laptops",
+        "Laptops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T14:36:02.775Z",
+      "created_at": "2026-10-27T14:36:02.775Z"
+    },
+    {
+      "id": 26474,
+      "source": "Backdoor (TG)",
+      "title_en": "Забираем больше 7️⃣0️⃣0️⃣ анимаций для Claude Code, которые можно использовать в любых креативах, на сайтах и в других проектах. • В библиотеке Awesome Opus 5.5 Videos есть анимации, промпты и ссылки ",
+      "description_en": "Забираем больше 7️⃣0️⃣0️⃣ анимаций для Claude Code, которые можно использовать в любых креативах, на сайтах и в других проектах. • В библиотеке Awesome Opus 5.5 Videos есть анимации, промпты и ссылки на авторов, чтобы разнообразить вашу работу и вдохновиться творениями сообщества.• Интересно для схем, графиков, презентаций, надписей и представления продукта.• Открываем анимацию, выбираем промпт и просим нейронку адаптировать анимацию под ваш проект.• Готовый результат вылетает анимацией в браузе",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32505",
+      "image_url": "https://cdn4.telesco.pe/file/tnHyiT3kIBeMmVr-1YV8aAsw50m3HpVspxjt6dt_aTafFqkdfWIf0SCy_UO8DGy5iWwneZVj8z663fRo9h3KC0EjFgS6rXFzGpAlU1h2IAkiKkZlvpNciyWfvVa5B0lcGyrodeoJ0RGqugB7DewXDET6schLXLGQTi1vg1hzHQcDTamzQI7JiWaXzCW5R7zvXrBEGPMsjcG3wHylQT9AzVsYjhzMnq6QzESDr8_Beiy3tbxP2kYv2i_rMWCm6hkEkXY2qmFd-S_5jkLdJZD5OYP68hFzsX1gfcQPAFoAtIpu8TR8R4oQ2utoxyiIfOE9J3VNXZYAXWHNUv3Xjm6V6w.jpg",
+      "pub_date": "2026-10-27T14:31:35+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T14:36:04.329Z",
+      "created_at": "2026-10-27T14:36:04.330Z"
+    },
+    {
+      "id": 26475,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🤖 Wikipedia's AI cleanup crew says the tells got subtlerThe volunteers in WikiProject AI Cleanup started in 2023 by catching ChatGPT's clichés, like \"stands as a testament\" and \"rich cultural heritag",
+      "description_en": "🤖 Wikipedia's AI cleanup crew says the tells got subtlerThe volunteers in WikiProject AI Cleanup started in 2023 by catching ChatGPT's clichés, like \"stands as a testament\" and \"rich cultural heritage,\" plus random \"Why is this important?\" sections. Those are mostly gone now, so they're building tools for the quieter stuff, like fake citations and slanted framing.Wikipedia may be one of the last big human-written text corpora.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/850",
+      "image_url": null,
+      "pub_date": "2026-10-27T13:56:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T14:36:05.168Z",
+      "created_at": "2026-10-27T14:36:05.168Z"
     }
   ]
 }
