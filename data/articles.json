@@ -574493,6 +574493,96 @@
       "priority": "hot",
       "fetchedAt": "2026-10-27T22:50:28.258Z",
       "created_at": "2026-10-27T22:50:28.258Z"
+    },
+    {
+      "id": 26535,
+      "source": "TechCrunch AI",
+      "title_en": "The data center boom has an upside: innovation for the US grid",
+      "description_en": "As the AI boom stresses the existing power grid, all sort of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "image_url": null,
+      "pub_date": "Tue, 27 Oct 2026 22:55:41 +0000",
+      "author": "Lucas Ropek",
+      "categories": [
+        "AI",
+        "data centers",
+        "Veir"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T23:07:59.794Z",
+      "created_at": "2026-10-27T23:07:59.794Z"
+    },
+    {
+      "id": 26536,
+      "source": "Ars Technica",
+      "title_en": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+      "description_en": "International travel used to be the main risk of measles cases in the US—not anymore.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg",
+      "pub_date": "Tue, 27 Oct 2026 22:22:32 +0000",
+      "author": "\n                    Beth Mole\n                ",
+      "categories": [
+        "Health",
+        "anti-vaccine",
+        "measles",
+        "outbreak",
+        "South Carolina",
+        "Washington State"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T23:08:00.086Z",
+      "created_at": "2026-10-27T23:08:00.086Z"
+    },
+    {
+      "id": 26537,
+      "source": "Ars Technica",
+      "title_en": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "description_en": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
+      "pub_date": "Tue, 27 Oct 2026 21:50:04 +0000",
+      "author": "\n                    Jon Brodkin\n                ",
+      "categories": [
+        "AI",
+        "Policy",
+        "AI-run companies",
+        "Delaware"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T23:08:00.086Z",
+      "created_at": "2026-10-27T23:08:00.086Z"
+    },
+    {
+      "id": 26538,
+      "source": "Ars Technica",
+      "title_en": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "description_en": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg",
+      "pub_date": "Tue, 27 Oct 2026 21:31:14 +0000",
+      "author": "\n                    Kyle Orland\n                ",
+      "categories": [
+        "AI",
+        "AI risks",
+        "Anthropic",
+        "IPO",
+        "S-1"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-27T23:08:00.086Z",
+      "created_at": "2026-10-27T23:08:00.086Z"
     }
   ]
 }
