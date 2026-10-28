@@ -1,9 +1,9 @@
 {
-  "total": 26546,
-  "translated": 26538,
+  "total": 26554,
+  "translated": 26546,
   "untranslated": 8,
-  "today": 8,
-  "week": 720,
+  "today": 16,
+  "week": 728,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2289,
-      "translated": 2289,
+      "total": 2290,
+      "translated": 2290,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -31,9 +31,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1564,
-      "translated": 1562,
-      "lastDate": "2026-10-27T23:24:01+00:00"
+      "total": 1566,
+      "translated": 1564,
+      "lastDate": "2026-10-28T05:39:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -49,14 +49,14 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 1305,
-      "translated": 1305,
+      "total": 1306,
+      "translated": 1306,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
       "name": "New Atlas",
-      "total": 1206,
-      "translated": 1206,
+      "total": 1207,
+      "translated": 1207,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -85,9 +85,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 727,
-      "translated": 727,
-      "lastDate": "2026-10-27T23:18:51+00:00"
+      "total": 729,
+      "translated": 729,
+      "lastDate": "2026-10-28T05:20:51+00:00"
     },
     {
       "name": "Backdoor (TG)",
@@ -133,9 +133,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 302,
-      "translated": 302,
-      "lastDate": "2026-10-27T13:06:56+00:00"
+      "total": 303,
+      "translated": 303,
+      "lastDate": "2026-10-28T05:59:01+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-28T02:15:29.294Z"
+  "generatedAt": "2026-10-28T06:03:30.262Z"
 }
