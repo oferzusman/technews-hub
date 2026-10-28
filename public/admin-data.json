@@ -1,20 +1,20 @@
 {
-  "total": 26605,
-  "translated": 26596,
-  "untranslated": 9,
-  "today": 67,
-  "week": 779,
+  "total": 26614,
+  "translated": 26606,
+  "untranslated": 8,
+  "today": 76,
+  "week": 788,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2463,
-      "translated": 2463,
+      "total": 2464,
+      "translated": 2464,
       "lastDate": "Wed, 30 Sep 2026 18:00:39 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 2296,
-      "translated": 2296,
+      "total": 2298,
+      "translated": 2298,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 1309,
-      "translated": 1309,
+      "total": 1310,
+      "translated": 1310,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 1021,
-      "translated": 1018,
-      "lastDate": "2026-10-28T13:07:58+00:00"
+      "total": 1023,
+      "translated": 1021,
+      "lastDate": "2026-10-28T14:15:44+00:00"
     },
     {
       "name": "The Verge AI",
@@ -85,15 +85,15 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 731,
-      "translated": 731,
-      "lastDate": "2026-10-28T11:22:51+00:00"
+      "total": 732,
+      "translated": 732,
+      "lastDate": "2026-10-28T14:23:51+00:00"
     },
     {
       "name": "Backdoor (TG)",
-      "total": 659,
-      "translated": 658,
-      "lastDate": "2026-10-28T07:52:44+00:00"
+      "total": 660,
+      "translated": 659,
+      "lastDate": "2026-10-28T14:28:31+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -103,9 +103,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 496,
-      "translated": 494,
-      "lastDate": "2026-10-28T10:33:17+00:00"
+      "total": 497,
+      "translated": 495,
+      "lastDate": "2026-10-28T13:32:29+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-28T13:27:51.462Z"
+  "generatedAt": "2026-10-28T14:31:33.983Z"
 }
