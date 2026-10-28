@@ -577240,6 +577240,95 @@
       "priority": "hot",
       "fetchedAt": "2026-10-28T19:44:57.691Z",
       "created_at": "2026-10-28T19:44:57.691Z"
+    },
+    {
+      "id": 26664,
+      "source": "The Verge AI",
+      "title_en": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "description_en": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind.\nThe new Gemini 4 Carbon model offers improvements over Argon, which Google released earlier this month. It's currently only available to a select group of cybersecurity defens",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "image_url": null,
+      "pub_date": "2026-10-28T20:03:00.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-28T20:28:15.328Z",
+      "created_at": "2026-10-28T20:28:15.328Z"
+    },
+    {
+      "id": 26665,
+      "source": "OpenAI Blog",
+      "title_en": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "description_en": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "image_url": null,
+      "pub_date": "Wed, 28 Oct 2026 13:15:00 GMT",
+      "author": null,
+      "categories": [
+        "Company"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-28T20:28:16.834Z",
+      "created_at": "2026-10-28T20:28:16.834Z"
+    },
+    {
+      "id": 26666,
+      "source": "Interesting Engineering",
+      "title_en": "Google’s Gemini 4 Carbon AI detects 88.2% of software flaws, works on tasks for days",
+      "description_en": "Google has introduced Gemini 4 Carbon, a new artificial intelligence model designed to identify software...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/google-gemini-4-carbon-ai-cybersecurity-vulnerability-detection",
+      "image_url": null,
+      "pub_date": "Wed, 28 Oct 2026 20:12:15 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-28T20:28:18.285Z",
+      "created_at": "2026-10-28T20:28:18.285Z"
+    },
+    {
+      "id": 26667,
+      "source": "AI Post (TG)",
+      "title_en": "⚡ Two weeks after Argon, Google has a new No. 1 AI modelGemini 4 Carbon is Google's next frontier model, and it tops the Artificial Analysis Intelligence Index with 59 points. Claude Opus 5.5 has 58, ",
+      "description_en": "⚡ Two weeks after Argon, Google has a new No. 1 AI modelGemini 4 Carbon is Google's next frontier model, and it tops the Artificial Analysis Intelligence Index with 59 points. Claude Opus 5.5 has 58, GPT-6 Astra 57.The biggest jump is in cybersecurity. Carbon scores 88.2% on SEC-bench Pro, a test of finding vulnerabilities. Google's Chrome team says it did over 10 times better than another lab's large frontier model at writing high-quality security patches.It isn't first everywhere. On coding ag",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8640",
+      "image_url": "https://cdn4.telesco.pe/file/KtJW_7_SLlJDXjmzWCI7dbEd-JGaE25jQe2W_VXR3knyIaxyNLssK5x-d9f5Tza_cgRlLbjYZvFtS7AG8Xj60msSjNGk7L3DLsUHBqrEqdFqZFtNiMHMFlXEUThaJ7vvT-cCGRoAX9N7-EPzBZXsfymtN1bNlpHiOrjEOi8c8MQ25Y2xHDvsU1bHlPz4Z3_mf_zBLAd5ekJPjAm3WVrs1wO0eHk0ibtPVcfFclsy8QmjryCDLv317LhOU-3Ab0m00vSKkDc4kEEN6FZrtZ-XZE9wJXpMGGSa3GurEmZa1p9cARrMwMzv0_Qv9jsyjJUx-Hv9t0rctL8P0U5Yu-msGQ.jpg",
+      "pub_date": "2026-10-28T20:22:16+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-28T20:28:24.303Z",
+      "created_at": "2026-10-28T20:28:24.303Z"
+    },
+    {
+      "id": 26668,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🤖 DeepSeek-V4.1-Flash is bigger than V4-Flash and needs about a quarter of the KV cacheDeepSeek's paper describes a multimodal MoE with a 1M-token context:• 552B backbone params, using a Causal Encod",
+      "description_en": "🤖 DeepSeek-V4.1-Flash is bigger than V4-Flash and needs about a quarter of the KV cacheDeepSeek's paper describes a multimodal MoE with a 1M-token context:• 552B backbone params, using a Causal Encoder-Decoder design• 8B active per token in prefill, 16B in decode• Roughly 1/4 the runtime KV cache and 1/8 the persistent KV cache of V4-Flash• 437x smaller per-token cache than DeepSeek-V1It's cheap where agents hurt most, which is input-heavy prompts.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/862",
+      "image_url": null,
+      "pub_date": "2026-10-28T20:07:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-28T20:28:24.598Z",
+      "created_at": "2026-10-28T20:28:24.598Z"
     }
   ]
 }
