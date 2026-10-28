@@ -576227,6 +576227,202 @@
       "priority": "hot",
       "fetchedAt": "2026-10-28T14:29:47.314Z",
       "created_at": "2026-10-28T14:29:47.314Z"
+    },
+    {
+      "id": 26615,
+      "source": "TechCrunch AI",
+      "title_en": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "description_en": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "image_url": null,
+      "pub_date": "Wed, 28 Oct 2026 15:00:00 +0000",
+      "author": "Julie Bort",
+      "categories": [
+        "TC",
+        "AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-28T15:27:20.392Z",
+      "created_at": "2026-10-28T15:27:20.392Z"
+    },
+    {
+      "id": 26616,
+      "source": "The Verge AI",
+      "title_en": "xAI is buying out homeowners who promise not to sue over data center noise",
+      "description_en": "xAI’s Southaven, Mississippi data center. | Photo by Brandon Dill / AFP via Getty Images\t\n\nA subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans to purchase 418 homes, adding that 18 homeowners already have plans to s",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+      "image_url": null,
+      "pub_date": "2026-10-28T14:44:00.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-28T15:27:20.420Z",
+      "created_at": "2026-10-28T15:27:20.420Z"
+    },
+    {
+      "id": 26617,
+      "source": "The Decoder",
+      "title_en": "New Artificial Analysis index widens the gap between open and closed models",
+      "description_en": "Artificial Analysis overhauled its Intelligence Index, causing Kimi K3.1 Pro to drop five spots in the rankings.\nThe article New Artificial Analysis index widens the gap between open and closed models appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/new-artificial-analysis-index-widens-the-gap-between-open-and-closed-models/",
+      "image_url": null,
+      "pub_date": "Wed, 28 Oct 2026 15:04:43 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AAII",
+        "Benchmarks"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-28T15:27:21.756Z",
+      "created_at": "2026-10-28T15:27:21.756Z"
+    },
+    {
+      "id": 26618,
+      "source": "Hugging Face Blog",
+      "title_en": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "image_url": null,
+      "pub_date": "Wed, 28 Oct 2026 14:58:17 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-28T15:27:21.999Z",
+      "created_at": "2026-10-28T15:27:21.999Z"
+    },
+    {
+      "id": 26619,
+      "source": "The Guardian AI",
+      "title_en": "Social media is full of weird video game mashups. Where are they all coming from?",
+      "description_en": "AI tools are making it easier to modify and recreate games, raising questions about piracy, copyright and how far the technology could disrupt the industry\n• Don’t get Pushing Buttons delivered to your inbox? Sign up here\nIf your social media algorithms have clocked that you’re into video games, something strange will have happened in the past few weeks. Your feed, like mine, will have been full of clips of streamers playing bizarre mashups of popular video games. Skyrim in Minecraft. Halo, exce",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from",
+      "image_url": "https://i.guim.co.uk/img/media/1a3c98277d78595d1da189cd71df191cca462a56/377_0_3451_2761/master/3451.jpg?width=140&quality=85&auto=format&fit=max&s=9dd35296366ccefbef8f4253e48d3c25",
+      "pub_date": "Wed, 28 Oct 2026 15:00:05 GMT",
+      "author": "Keza MacDonald",
+      "categories": [
+        {
+          "_": "Games",
+          "$": {
+            "domain": "https://www.theguardian.com/games/games"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Piracy",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/piracy"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-28T15:27:22.796Z",
+      "created_at": "2026-10-28T15:27:22.796Z"
+    },
+    {
+      "id": 26620,
+      "source": "Tom's Hardware",
+      "title_en": "AI component hikes force the world's largest PC makers to return manufacturing capacity to China",
+      "description_en": "PC manufacturing in China tends to be cheaper because of an established supply chain and workforce. Smaller Chinese suppliers are also winning orders by offering easier access to domestic chip manufacturers like CXMT.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/manufacturing/ai-component-hikes-force-the-worlds-largest-pc-makers-to-return-manufacturing-capacity-to-china-brands-to-seek-lower-production-costs-and-efficiency-in-established-supply-chain",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/96np8ZYRRhSJs3PgrHgg9L-1920-80.jpg",
+      "pub_date": "Wed, 28 Oct 2026 15:24:16 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Manufacturing",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-28T15:27:24.217Z",
+      "created_at": "2026-10-28T15:27:24.217Z"
+    },
+    {
+      "id": 26621,
+      "source": "Tom's Hardware",
+      "title_en": "Amazon tells engineers to stop ‘tokenmaxxing’ to look productive",
+      "description_en": "Amazon has published new engineering guidelines warning developers and managers against ‘tokenmaxxing,’ arguing that AI usage metrics are ‘deeply flawed’ unless tied to long-term outcomes. The move follows similar spending concerns at Uber and Accenture.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-tells-engineers-to-stop-tokenmaxxing-to-look-productive-says-ai-will-be-central-to-software-development-but-usage-is-not-the-goal-new-guidelines-claim",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/X5VrhSL4p2oPLAfRk2LBb-1920-80.jpg",
+      "pub_date": "Wed, 28 Oct 2026 15:13:48 +0000",
+      "author": " Newton Gitonga ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-28T15:27:24.217Z",
+      "created_at": "2026-10-28T15:27:24.217Z"
+    },
+    {
+      "id": 26622,
+      "source": "Tom's Hardware",
+      "title_en": "FCC rebuffs TP-Link again as it attempts to sell Wi-Fi 8 gear in the US — FCC alleges inaccurate documentation and out-of-spec power levels for routers",
+      "description_en": "TP-Link just can’t seem to catch a break with the FCC, as it’s not under fire for exceeding power limits on its routers",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/networking/routers/fcc-rebuffs-tp-link-again-as-it-attempts-to-sell-wi-fi-8-gear-in-the-us-fcc-alleges-inaccurate-documentation-and-out-of-spec-power-levels-for-routers",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/MbZxghsMGayruAPEDs86j7-1920-80.jpg",
+      "pub_date": "Wed, 28 Oct 2026 15:07:35 +0000",
+      "author": " Brandon Hill ",
+      "categories": [
+        "Wi-Fi Routers",
+        "Networking"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-28T15:27:24.217Z",
+      "created_at": "2026-10-28T15:27:24.217Z"
+    },
+    {
+      "id": 26623,
+      "source": "XOR Journal (TG)",
+      "title_en": "Осторожно, найден самый страшный костюм на Хэллоуин 🤨@xor_journal",
+      "description_en": "Осторожно, найден самый страшный костюм на Хэллоуин 🤨@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10390",
+      "image_url": "https://cdn4.telesco.pe/file/FRAdAWowgCA_-POYzOY_4L-IzUmOq291J_GToHZdIEMfZSFk7fx3ZeMtsM0PkPbsvhzdxaT4blDSn7a-hbfdnbmxwiXstZ20OoEeS-kKUu20eUQaj9QQKdX-Gpc5cYerEhI2h7C6ldEH9ZW8duJXHxVoBtISfUCltMiz3n5jQrfPyG5mcS79xLxBIb7a4ONFABM2FDFCt-iSzm5bf_WoOg562Nhe9ne52sy8Dk3a5uS-FjejPYETyfToBKFT0Mrw5RnAxJPmGKDY06yVuk-560_5qsP2OrHWkg8g1r4UxG5U7HQfIvgtXfil2PaZOR3SpLT0p61T30Cj5yAbLwvsUg.jpg",
+      "pub_date": "2026-10-28T15:12:47+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-28T15:27:29.551Z",
+      "created_at": "2026-10-28T15:27:29.551Z"
     }
   ]
 }
