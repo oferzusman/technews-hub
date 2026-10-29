@@ -580283,8 +580283,8 @@
       "source": "Interesting Engineering",
       "title_en": "OpenAI’s four-layer system targets rogue models before they breach security",
       "description_en": "OpenAI has expanded its monitoring system after a security incident exposed gaps in its ability...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מערכת בעלת ארבע שכבות של OpenAI יוצרת חסם בפני מודלים חורגים לפני שהם חודרים את האבטחה",
+      "description_he": "אחרי תקלת אבטחה שחשפה חולשות קריטיות בגיטור, OpenAI הרחיבה את מערכת הניטור שלה כדי להכיל מודלים שמתנהגים בצורה חריגה עוד לפני שהם יוצרים בעיה אמיתית. המערכת החדשה עובדת בארבע שכבות שונות כדי ללכוד סוגים שונים של התנהגות חשודה ולהשפיע על הדברים בשלב מוקדם. זה חלק מהמחויבות של OpenAI לחזק את הבטיחות שלה ולהגן על המשתמשים שלה מפני סיכונים פוטנציאליים.",
       "link": "https://interestingengineering.com/ai-robotics/openai-four-layer-defense-frontier-models",
       "image_url": null,
       "pub_date": "Thu, 29 Oct 2026 21:18:16 +0000",
@@ -580292,7 +580292,7 @@
       "categories": [
         "AI and Robotics"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-10-29T21:18:55.019Z",
       "created_at": "2026-10-29T21:18:55.019Z"
