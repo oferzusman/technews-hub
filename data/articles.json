@@ -579600,6 +579600,46 @@
       "priority": "hot",
       "fetchedAt": "2026-10-29T16:03:30.681Z",
       "created_at": "2026-10-29T16:03:30.681Z"
+    },
+    {
+      "id": 26786,
+      "source": "TechCrunch AI",
+      "title_en": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+      "description_en": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+      "image_url": null,
+      "pub_date": "Thu, 29 Oct 2026 13:00:00 +0000",
+      "author": "Ivan Mehta",
+      "categories": [
+        "AI",
+        "Commerce",
+        "Alexa",
+        "Amazon",
+        "In Brief"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-29T16:20:35.134Z",
+      "created_at": "2026-10-29T16:20:35.134Z"
+    },
+    {
+      "id": 26787,
+      "source": "CNBC Tech",
+      "title_en": "Amazon to report Q3 earnings after the bell with AI spend under scrutiny",
+      "description_en": "Amazon Web Services sales are projected to grow 38%, marking a fifth consecutive quarter of revenue expansion.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+      "image_url": null,
+      "pub_date": "Thu, 29 Oct 2026 16:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-29T16:20:41.999Z",
+      "created_at": "2026-10-29T16:20:41.999Z"
     }
   ]
 }
