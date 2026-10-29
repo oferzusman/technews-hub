@@ -1,9 +1,9 @@
 {
-  "total": 26691,
-  "translated": 26683,
+  "total": 26700,
+  "translated": 26692,
   "untranslated": 8,
-  "today": 5,
-  "week": 707,
+  "today": 14,
+  "week": 716,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2304,
-      "translated": 2304,
+      "total": 2306,
+      "translated": 2306,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -25,15 +25,15 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1688,
-      "translated": 1688,
+      "total": 1689,
+      "translated": 1689,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1574,
-      "translated": 1572,
-      "lastDate": "2026-10-29T00:11:01+00:00"
+      "total": 1576,
+      "translated": 1574,
+      "lastDate": "2026-10-29T05:41:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -55,8 +55,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 1212,
-      "translated": 1212,
+      "total": 1213,
+      "translated": 1213,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -79,15 +79,15 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 854,
-      "translated": 854,
+      "total": 855,
+      "translated": 855,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 736,
-      "translated": 736,
-      "lastDate": "2026-10-29T02:09:51+00:00"
+      "total": 737,
+      "translated": 737,
+      "lastDate": "2026-10-29T05:10:51+00:00"
     },
     {
       "name": "Backdoor (TG)",
@@ -133,9 +133,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 303,
-      "translated": 303,
-      "lastDate": "2026-10-28T05:59:01+00:00"
+      "total": 304,
+      "translated": 304,
+      "lastDate": "2026-10-29T04:59:01+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-29T02:40:54.488Z"
+  "generatedAt": "2026-10-29T05:57:16.130Z"
 }
