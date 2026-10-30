@@ -582911,6 +582911,48 @@
       "priority": "hot",
       "fetchedAt": "2026-10-30T19:51:17.232Z",
       "created_at": "2026-10-30T19:51:17.232Z"
+    },
+    {
+      "id": 26937,
+      "source": "The Guardian AI",
+      "title_en": "I read Anthropic's 92-page risk factor document, so you don't have to – video explainer",
+      "description_en": "Anthropic, the creator of Claude, filed to go public on the US stock market on 26 October. The company's filing statement contains a 92-page risk factor document in which it acknowledges the dangers that AI poses to society and human beings, and factors that could negatively affect Anthropic's business. Johana Bhuiyan, senior tech reporter for the Guardian, breaks down the document and explains why Anthropic's IPO could be a real test to the AI boom\n\n\nAnthropic files for potentially record-break",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/global/video/2026/oct/30/anthropic-92-page-risk-factor-document-ipo-filing-video-explainer",
+      "image_url": "https://i.guim.co.uk/img/media/287a932e6182e9c13725a754a783f28dac7965a5/509_0_5029_4024/master/5029.jpg?width=140&quality=85&auto=format&fit=max&s=9dcafd63ef1a53d66ee342b865c9d181",
+      "pub_date": "Fri, 30 Oct 2026 19:57:13 GMT",
+      "author": "Johana Bhuiyan, Hazel Tang, Tiara Chiaramonte, John Farrell",
+      "categories": [
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-30T20:04:09.259Z",
+      "created_at": "2026-10-30T20:04:09.259Z"
     }
   ]
 }
