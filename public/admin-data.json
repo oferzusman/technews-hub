@@ -1,9 +1,9 @@
 {
-  "total": 26836,
-  "translated": 26828,
+  "total": 26846,
+  "translated": 26838,
   "untranslated": 8,
-  "today": 9,
-  "week": 732,
+  "today": 19,
+  "week": 742,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2318,
-      "translated": 2318,
+      "total": 2320,
+      "translated": 2320,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -31,9 +31,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1584,
-      "translated": 1582,
-      "lastDate": "2026-10-30T01:10:12+00:00"
+      "total": 1586,
+      "translated": 1584,
+      "lastDate": "2026-10-30T06:09:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -55,8 +55,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 1219,
-      "translated": 1219,
+      "total": 1221,
+      "translated": 1221,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -79,21 +79,21 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 860,
-      "translated": 860,
+      "total": 861,
+      "translated": 861,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 745,
-      "translated": 745,
-      "lastDate": "2026-10-30T00:58:51+00:00"
+      "total": 746,
+      "translated": 746,
+      "lastDate": "2026-10-30T03:59:51+00:00"
     },
     {
       "name": "Backdoor (TG)",
-      "total": 672,
-      "translated": 671,
-      "lastDate": "2026-10-29T23:20:50+00:00"
+      "total": 673,
+      "translated": 672,
+      "lastDate": "2026-10-30T06:06:49+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -103,9 +103,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 500,
-      "translated": 498,
-      "lastDate": "2026-10-29T15:37:24+00:00"
+      "total": 501,
+      "translated": 499,
+      "lastDate": "2026-10-30T06:33:26+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-30T02:34:55.811Z"
+  "generatedAt": "2026-10-30T06:37:15.785Z"
 }
