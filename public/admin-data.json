@@ -1,9 +1,9 @@
 {
-  "total": 26827,
-  "translated": 26819,
+  "total": 26831,
+  "translated": 26823,
   "untranslated": 8,
-  "today": 141,
-  "week": 843,
+  "today": 4,
+  "week": 727,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,14 +19,14 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 1775,
-      "translated": 1775,
+      "total": 1776,
+      "translated": 1776,
       "lastDate": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1699,
-      "translated": 1699,
+      "total": 1700,
+      "translated": 1700,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 1314,
-      "translated": 1314,
+      "total": 1315,
+      "translated": 1315,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
@@ -91,9 +91,9 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 671,
-      "translated": 670,
-      "lastDate": "2026-10-29T21:35:09+00:00"
+      "total": 672,
+      "translated": 671,
+      "lastDate": "2026-10-29T23:20:50+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-10-29T23:04:39.967Z"
+  "generatedAt": "2026-10-30T00:55:46.218Z"
 }
