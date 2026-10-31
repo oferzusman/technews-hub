@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "🏦 שיתפת את סיסמת הבנק שלך עם AI? בנק אמריקה אומר - זה באחריותך\n\nבנק אמריקה שלח מייל לכל לקוחותיו עם אזהרה ברורה: אל תשתפו את פרטי הכניסה שלכם עם אף אחד, וכן כן - גם לא עם agents AI כמו Claude או ChatGPT שמציעים לעשות לכם משהו דיגיטלי. הבנק הבהיר שאם בחרתם לתת גישה לטול כלשהו, אתם אלה שנושאים באחריות לכל פעילות שתשמע באחריות ההוא - וזה די חמור. טרנד הוא שגם בנקים אחרים כמו מורגן סטנלי מתחילים לחסום גישות מצד שלישים, אז נראה שהמערכת הבנקאית מתעוררת לאיום החדש הזה.",
+    "t": "🏦 שיתקת את סיסמת הבנק שלך ל-AI? בנק אוף אמריקה אומר שזה באחריותך\n\nבנק אוף אמריקה שלח לקוחות התרעה חדה: אל תשתפו את פרטי ההתחברות שלכם עם כלי AI כלשהו, גם אם הוא טוען שיעשה עבורכם. הבנק הבהיר שאם תשתפו את הסיסמה, כל פעילות שתתרחש בחשבון - זה באחריותכם 100%. בנקים גדולים אחרים כמו Morgan Stanley כבר הולכים צעד קדימה וחוסמים גישה של tools של צד שלישי.",
     "d": "2026-10-31T02:38:01+00:00",
     "v": 0,
     "l": [
@@ -14,14 +14,9 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [
-      "OpenAI",
-      "Anthropic"
-    ],
+    "co": [],
     "tags": [
-      "news",
-      "model",
-      "agents"
+      "news"
     ],
     "imp": "low",
     "thumb": "https://cdn4.telesco.pe/file/lspDcxhiKcUvgChd3bN2qeQQrOqp_K3d4KVLd_rk8i4u_fkmIu73DWwewhvLPmjOWd8iuRlW6MiNSk_2Kelm3n8PBk2moBtESRPO9Pd_WDAiik-lETEVXkU8pAe1yz54DR3U2Go-KDDEPyN5ksmZ8u2go-U2jMTJECinj6Sqt2JVUBC2oJ1cJSI_K5F6RVcWMLQK2XKLEWMHJJdyr9gW7V1bZ48odcm-QZSwAnptl7nWY6EbGRIcahm2ID9YXBQHNGntIPeESd82oSd6lb4Eu1vK-dWdOueh6Z1XphLxqtqBpgUwDQExZdER1I8O6H61YgV9Yqmp46Ce7QFM5n5Jhw.jpg",
