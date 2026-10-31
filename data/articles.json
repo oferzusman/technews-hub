@@ -585105,6 +585105,28 @@
       "priority": "hot",
       "fetchedAt": "2026-10-31T19:14:43.552Z",
       "created_at": "2026-10-31T19:14:43.552Z"
+    },
+    {
+      "id": 27037,
+      "source": "The Decoder",
+      "title_en": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
+      "description_en": "Anthropic is expanding its text watermark to four more Claude models to meet the EU AI Act's December deadline. On the older models Claude Opus 4.6 and Sonnet 4.6, developers can bypass the watermark by tweaking a single sampling parameter. Anthropic addresses the loophole with just a compliance warning.\nThe article Anthropic's watermark rollout leaves a loophole on two older Claude models appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
+      "image_url": null,
+      "pub_date": "Sat, 31 Oct 2026 19:20:55 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Claude"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-31T19:29:17.784Z",
+      "created_at": "2026-10-31T19:29:17.784Z"
     }
   ]
 }
