@@ -583910,6 +583910,621 @@
       "priority": "hot",
       "fetchedAt": "2026-10-31T09:18:40.462Z",
       "created_at": "2026-10-31T09:18:40.462Z"
+    },
+    {
+      "id": 26986,
+      "source": "Ars Technica",
+      "title_en": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+      "description_en": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2193810869-1152x648.jpg",
+      "pub_date": "Sat, 31 Oct 2026 11:02:34 +0000",
+      "author": "\n                    Sara Talpos, Undark Magazine\n                ",
+      "categories": [
+        "Science",
+        "fda",
+        "syndication"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-31T13:52:50.396Z",
+      "created_at": "2026-10-31T13:52:50.396Z"
+    },
+    {
+      "id": 26987,
+      "source": "The Decoder",
+      "title_en": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
+      "description_en": "Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year. The company's headcount has held flat at around 223,000 since 2022 even as it plans to spend about $170 billion on AI infrastructure in 2026 alone.\nThe article Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/",
+      "image_url": null,
+      "pub_date": "Sat, 31 Oct 2026 10:43:58 +0000",
+      "author": "Manuel Uth",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "Investments",
+        "Microsoft"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-31T13:52:51.784Z",
+      "created_at": "2026-10-31T13:52:51.784Z"
+    },
+    {
+      "id": 26988,
+      "source": "The Decoder",
+      "title_en": "Google Deepmind creates a global map of forests with satellite data and AI",
+      "description_en": "Google Deepmind and the World Resources Institute have released ForTy, a global map that classifies forests and other land into six categories, including primary forest, plantations, and tree crops. The map could help track deforestation under EU rules, but it identifies only about half of planted forests and tree-crop areas, and 60% of plantations.\nThe article Google Deepmind creates a global map of forests with satellite data and AI appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/",
+      "image_url": null,
+      "pub_date": "Sat, 31 Oct 2026 10:15:45 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Deepmind",
+        "Google Deepmind"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-31T13:52:51.784Z",
+      "created_at": "2026-10-31T13:52:51.784Z"
+    },
+    {
+      "id": 26989,
+      "source": "The Decoder",
+      "title_en": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
+      "description_en": "OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting. At $1.25 trillion, the valuation falls short of expectations, and major investors appear to be pulling back amid the recent tech sell-off. Meanwhile, rival Anthropic is pushing to go public as early as November.\nThe article OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/",
+      "image_url": null,
+      "pub_date": "Sat, 31 Oct 2026 09:22:52 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-31T13:52:51.784Z",
+      "created_at": "2026-10-31T13:52:51.784Z"
+    },
+    {
+      "id": 26990,
+      "source": "MarkTechPost",
+      "title_en": "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode",
+      "description_en": "Factory released Droid 1.0, a model-independent coding agent harness that makes programmatic tool calling the default. On Factory’s own Terminal-Bench 4 runs, Droid scores 65.2% with Claude Opus 5.5 at $4.73 per passed task.\nThe post Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/",
+      "image_url": null,
+      "pub_date": "Sat, 31 Oct 2026 10:38:14 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Enterprise AI",
+        "For Devs",
+        "Harness",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-31T13:52:51.887Z",
+      "created_at": "2026-10-31T13:52:51.887Z"
+    },
+    {
+      "id": 26991,
+      "source": "MarkTechPost",
+      "title_en": "Vercel Labs Open-Sources agent-desktop for Agent Computer Use",
+      "description_en": "Vercel Labs released agent-desktop, an Apache-2.0 Rust CLI that gives any AI agent computer use on macOS, Windows and Linux by reading OS accessibility trees and acting on stable refs instead of pixels.\nThe post Vercel Labs Open-Sources agent-desktop for Agent Computer Use appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/",
+      "image_url": null,
+      "pub_date": "Sat, 31 Oct 2026 10:10:28 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs",
+        "New Releases",
+        "Open Source",
+        "Python",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-31T13:52:51.887Z",
+      "created_at": "2026-10-31T13:52:51.887Z"
+    },
+    {
+      "id": 26992,
+      "source": "The Guardian AI",
+      "title_en": "Is AI your new wingman? How chatbots are transforming dating",
+      "description_en": "Almost 40% of British singles have used AI for romantic advice, from writing messages to assessing potential partners\nAfter Sam’s ex joked that her sister found him ugly, he turned to AI. Google Gemini had a look at the photo and politely disagreed. AI has been his wingman ever since, aiding his dating life by giving pep talks and vetting his messages.\nThe 27-year-old from Stoke-on-Trent is not the only AI-assisted romantic – a survey of 3,000 British singles published this month by Match Group,",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating",
+      "image_url": "https://i.guim.co.uk/img/media/f57dcf1a8bbea5c0f23d491b38cd69b5b7d99f18/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e31ca46ee09a0e757f9394788a52ffd8",
+      "pub_date": "Sat, 31 Oct 2026 12:00:42 GMT",
+      "author": "George Francis Lee and Dan Milmo",
+      "categories": [
+        {
+          "_": "Dating",
+          "$": {
+            "domain": "https://www.theguardian.com/lifeandstyle/dating"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Chatbots",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatbots"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Society",
+          "$": {
+            "domain": "https://www.theguardian.com/society/society"
+          }
+        },
+        {
+          "_": "Tinder",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/tinder"
+          }
+        },
+        {
+          "_": "Life and style",
+          "$": {
+            "domain": "https://www.theguardian.com/lifeandstyle/lifeandstyle"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-31T13:52:52.551Z",
+      "created_at": "2026-10-31T13:52:52.551Z"
+    },
+    {
+      "id": 26993,
+      "source": "Interesting Engineering",
+      "title_en": "US Army greenlights sale of 500 Patriot PAC-3 missiles to improve Ukraine’s combat system",
+      "description_en": "Lockheed Martin, a major defense supplier, is likely to supply Ukraine with 500 Patriot air...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-army-sale-of-500-patriot-missiles",
+      "image_url": null,
+      "pub_date": "Sat, 31 Oct 2026 13:52:41 +0000",
+      "author": "Muskan Bhatia",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-31T13:52:53.355Z",
+      "created_at": "2026-10-31T13:52:53.355Z"
+    },
+    {
+      "id": 26994,
+      "source": "Interesting Engineering",
+      "title_en": "Chinese car scores 0% protection for adult occupant, crash result reveals shocking details",
+      "description_en": "Chinese automaker Chery is facing renewed questions about vehicle safety after its Tiggo 2 compact...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/chinese-car-score-zero-passenger-safety-test",
+      "image_url": "https://www.youtube.com/embed/B334W8psku0",
+      "pub_date": "Sat, 31 Oct 2026 13:17:16 +0000",
+      "author": "Bojan Stojkovski",
+      "categories": [
+        "Transportation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-31T13:52:53.355Z",
+      "created_at": "2026-10-31T13:52:53.355Z"
+    },
+    {
+      "id": 26995,
+      "source": "Interesting Engineering",
+      "title_en": "US Navy accelerates next-generation warship drive to strengthen naval superiority",
+      "description_en": "The US Navy is pursuing an ambitious shipbuilding expansion, from new nuclear-powered aircraft carriers and...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-navy-shipbuilding-carriers-submarines-warships",
+      "image_url": null,
+      "pub_date": "Sat, 31 Oct 2026 13:00:06 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-31T13:52:53.355Z",
+      "created_at": "2026-10-31T13:52:53.355Z"
+    },
+    {
+      "id": 26996,
+      "source": "Interesting Engineering",
+      "title_en": "Scientists create moth-inspired robot that grows new senses using artificial blood, UV light",
+      "description_en": "Imagine sending a robot into an unfamiliar environment without knowing what it might encounter.  If...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/moth-robot-creates-sensor-under-uv-light",
+      "image_url": null,
+      "pub_date": "Sat, 31 Oct 2026 12:09:32 +0000",
+      "author": "Rupendra Brahambhatt",
+      "categories": [
+        "AI and Robotics",
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-31T13:52:53.355Z",
+      "created_at": "2026-10-31T13:52:53.355Z"
+    },
+    {
+      "id": 26997,
+      "source": "Interesting Engineering",
+      "title_en": "10 massive battery storage projects around the world redefining power grids",
+      "description_en": "Storing electricity at the scale of several gigawatt-hours is becoming a reality for power grids...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/10-massive-battery-storage-projects-around-world",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Masdar-project.jpg",
+      "pub_date": "Sat, 31 Oct 2026 12:00:00 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [
+        "Energy"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-31T13:52:53.355Z",
+      "created_at": "2026-10-31T13:52:53.355Z"
+    },
+    {
+      "id": 26998,
+      "source": "Interesting Engineering",
+      "title_en": "Next US stealth drone could stay airborne for over two days without refueling",
+      "description_en": "General Atomics (GA) has announced that it is in the process of designing a new...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-stealth-drone-airborne-two-days-without-refueling",
+      "image_url": "https://www.youtube.com/embed/7eOdUoAiv4w",
+      "pub_date": "Sat, 31 Oct 2026 11:14:43 +0000",
+      "author": "Christopher McFadden",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-31T13:52:53.355Z",
+      "created_at": "2026-10-31T13:52:53.355Z"
+    },
+    {
+      "id": 26999,
+      "source": "Tom's Hardware",
+      "title_en": "Intel shifts production capacity from consumer to server CPUs in face of 'unprecedented' AI demand",
+      "description_en": "Intel is expanding chipmaking and advanced packaging capacity across the U.S., Ireland, and Malaysia to meet surging AI-driven demand for data center CPUs amid shrinking PC market and persistent supply constraints.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-shifts-production-capacity-from-consumer-to-server-cpus-in-face-of-unprecedented-ai-demand-company-navigating-one-of-the-most-significant-supply-shortages-in-history",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/rVargrx2PRrE3QdGAf22wX-1920-80.jpg",
+      "pub_date": "Sat, 31 Oct 2026 13:00:00 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-31T13:52:56.402Z",
+      "created_at": "2026-10-31T13:52:56.402Z"
+    },
+    {
+      "id": 27000,
+      "source": "Tom's Hardware",
+      "title_en": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+      "description_en": "Anthropic's Opus 5.5 model blocking attempts at videogame recreation — users also claim their non-malicious generic reverse-engineering tasks are block",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/uCXNTvaQDC2MRU8U37YwaV-1920-80.jpg",
+      "pub_date": "Sat, 31 Oct 2026 12:20:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-31T13:52:56.402Z",
+      "created_at": "2026-10-31T13:52:56.402Z"
+    },
+    {
+      "id": 27001,
+      "source": "Tom's Hardware",
+      "title_en": "AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig",
+      "description_en": "The team had to use Sonnet after Opus 5.5 outright refused to run the experiment, while Opus 5 warned that it could stop working in the midst of the operation.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/startup-uses-ai-agent-to-perform-controversial-brain-surgery-on-a-mouse-anthropic-sonnet-controlled-motorized-surgery-rig-ai-given-free-reign-to-treat-epilepsy-with-a-range-of-gene-therapy-vectors-after-opus-5-5-refused-to-conduct-biological-experiment",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/eoGRcXGHJPaiRv8XJmVA96-1920-80.png",
+      "pub_date": "Sat, 31 Oct 2026 12:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-31T13:52:56.402Z",
+      "created_at": "2026-10-31T13:52:56.402Z"
+    },
+    {
+      "id": 27002,
+      "source": "Tom's Hardware",
+      "title_en": "Veteran Microsoft engineer makes his own RAM from scratch using AI",
+      "description_en": "Expensive memory forces former Microsoft engineer to make his own — Dave Plummer makes PDP-11 RAM from scratch",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ram/veteran-microsoft-engineer-makes-his-own-ram-from-scratch-using-ai-attempts-to-build-4mb-of-1970s-pdp-11-ram-from-scratch",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ZcWNV2jNQTywTDrpaAsqbL-1920-80.png",
+      "pub_date": "Sat, 31 Oct 2026 11:40:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "RAM",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-31T13:52:56.402Z",
+      "created_at": "2026-10-31T13:52:56.402Z"
+    },
+    {
+      "id": 27003,
+      "source": "Tom's Hardware",
+      "title_en": "Modder uses a trash 4-kW air conditioner radiator for his test bench to see how well it can cool a PC",
+      "description_en": "TrashBench repurposes a trash AC radiator for his test bench to see how well it can cool a PC — RTX 3080 didn't run much above ambient temperature",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/trashbench-repurposes-a-trash-4-kw-air-conditioner-radiator-for-his-test-bench-to-see-how-well-it-can-cool-a-pc-achieves-a-shocking-28c-on-an-nvidia-rtx-3080",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/TeXxeBPVwiZfijYyMiJdPg-1920-80.png",
+      "pub_date": "Sat, 31 Oct 2026 11:20:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Liquid Cooling",
+        "PC Components",
+        "Cooling"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-31T13:52:56.402Z",
+      "created_at": "2026-10-31T13:52:56.402Z"
+    },
+    {
+      "id": 27004,
+      "source": "Tom's Hardware",
+      "title_en": "Tech sleuth claims to have found the oldest GUI application that still works with Windows 11",
+      "description_en": "A technology enthusiast claims that the oldest GUI application that still runs on Windows 11 is CDPLAYER.EXE from November 1992.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/windows/tech-sleuth-claims-to-have-found-the-oldest-gui-application-that-still-works-with-windows-11-cdplayer-exe-from-windows-nt-in-november-1992-wins-the-prize",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/9WfJEJAx6SPbbBbEXKuZCM-1920-80.jpg",
+      "pub_date": "Sat, 31 Oct 2026 10:00:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Windows",
+        "Software",
+        "Operating Systems"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-31T13:52:56.403Z",
+      "created_at": "2026-10-31T13:52:56.403Z"
+    },
+    {
+      "id": 27005,
+      "source": "CNBC Tech",
+      "title_en": "Humans are still doing the work behind some AI agents",
+      "description_en": "AI agents from startups including Dazzle, Duckbill and Wajo still rely on human workers for calls and other real-world tasks when software falls short.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html",
+      "image_url": null,
+      "pub_date": "Sat, 31 Oct 2026 12:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-31T13:52:56.486Z",
+      "created_at": "2026-10-31T13:52:56.486Z"
+    },
+    {
+      "id": 27006,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Основателя OpenAI Сэма Альтмана жутко злит, что в вашем компьютере есть оперативкаГлавный продавец искусственного интеллекта пожаловался в эфире подкаста Cheeky Pint, что мировые запасы оперативной па",
+      "description_en": "Основателя OpenAI Сэма Альтмана жутко злит, что в вашем компьютере есть оперативкаГлавный продавец искусственного интеллекта пожаловался в эфире подкаста Cheeky Pint, что мировые запасы оперативной памяти распределены слишком неэффективно.По его мнению, дата-центры загружены 24/7 и постоянно отрабатывают запросы миллионов пользователей, в то время как локальные вычислительные мощности пользователей загружены в лучшем случае на 5 % и большую часть времени попросту простаивают.Людишки, понимаете л",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/36926",
+      "image_url": "https://cdn4.telesco.pe/file/swwabER4Rd1T_fz2L8YAUhazLvKRrnewGIHDg9DKCSzPoqm3AzlWerfVw6VgZDnbIdySwr5h1guVdBQ3u0DEPhgcwOcP_f9ka5yWljVwZV3qRpZR5wd7QWtivwW-I6Ol5-O05G88-27SpT7mSA3Xhd72_P5faV7iqYRFUzrBzMI3VZyy6_Et9O_yQaCy9uAaxQmX8ql_du_KVYLvhjurRTpmaFXbHTofm-8QGSa33eK7-16nDD4oMRcj62K_PjjVSFfXdF-QzAabfcISdg59qsnSgcXhLEClbrqJ2BcEttor-gj80P_IYhfZU5xsDCy8rVTv8wm3s1idqxo7nkKgnA.jpg",
+      "pub_date": "2026-10-31T12:59:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-31T13:52:58.545Z",
+      "created_at": "2026-10-31T13:52:58.545Z"
+    },
+    {
+      "id": 27007,
+      "source": "Backdoor (TG)",
+      "title_en": "Альтман обвинил в кризисе памяти НАС — CEO Open AI заявил, что плашки памяти в домашних ПК нужны только для того, чтобы юзать мелкие ИИ-шки и запускать игры. А дата-центры компании СТРАДАЮТ (!) от нех",
+      "description_en": "Альтман обвинил в кризисе памяти НАС — CEO Open AI заявил, что плашки памяти в домашних ПК нужны только для того, чтобы юзать мелкие ИИ-шки и запускать игры. А дата-центры компании СТРАДАЮТ (!) от нехватки ОЗУ.Он на полном серьезе считает, что работяги должны сдавать в дата-центры свои плашки памятиСрочно высылаем бедняге компы.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32609",
+      "image_url": "https://cdn4.telesco.pe/file/Nc_pqqeH0vHAylDjtywKhFQ52fTna_hJmtYQd9AYboKSNgTuar1M5Z3cGB-Mo5JCSpQQZ7cA0Oigkgx1SQ9YRnQ8ncTdB6EHjuXDFLOO32Wj0R8XOtPxhLDihBe2rp04w0Ct2gWqpSYQCSQD20cjIVDJds4fHuVWQpnLJJtZH2nSJ_JHMfV46JtjW5PMgJyWj9szk8oF6MkBnf96QNaLfD8VwlGyDRMK7yzJzQf9Raur1G8t1h8XMl_xsji6q0eMBa3NKhjgw57_JNBKnaFVwWW4ng2xLwKz5sNniQyQGqVgV5BVc3qnmYJDweTsze3kZQsSgHJL2idRFW0gK_wHtg.jpg",
+      "pub_date": "2026-10-31T11:17:53+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-31T13:52:58.597Z",
+      "created_at": "2026-10-31T13:52:58.597Z"
+    },
+    {
+      "id": 27008,
+      "source": "Backdoor (TG)",
+      "title_en": "Лол: Трамп решает всё с помощью ИИ — президент одной из центральных мировых держав заряжает промпты в чат, чтобы принимать законы, выпускать указы или предпринимать геополитические шаги.По словам Poli",
+      "description_en": "Лол: Трамп решает всё с помощью ИИ — президент одной из центральных мировых держав заряжает промпты в чат, чтобы принимать законы, выпускать указы или предпринимать геополитические шаги.По словам Politico, Трамп в 2025 году постоянно общался с Grok с присутствии Илона Маска прямо в Овальном кабинете — он выяснял, как жители Венесуэлы отреагируют на захват Мадуро! Только после этого он отдал приказ об операции.Самое смешное: если с Трампом что-то случится, все его чаты, промпты и прочее пропадут.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32611",
+      "image_url": "https://cdn4.telesco.pe/file/LgLvCn-bAfpzRLLezB0w2juC6XcJE_to2NzwXSw7BnzNtOpWDllpjetlk7Q_qn_lDz4tzOgZHres7ErNhNvRv3iLrQgsXTBdM3w1rn-DZ28DhBJwOiaDxmuGCHnTtxCerh6VNnH24eZNP59dSvtPSDoTkENwtcFsXhHH4tUp131i3ALWiKk57Ur7ecn4xR_R7sXNvefbFyTBlbdhs28KtYuvwMR-t7EjMYgwvzlw2yR7evtLApArwN_AS6Z7czSRTPrLax1HnhuHfRQG-6tJZn64M_f_MyHbubEPoxXwardI1ARFylViDnwbsCv0lxsF3xZAOQlZh9J15jIvnEbUrw.jpg",
+      "pub_date": "2026-10-31T12:21:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-31T13:52:58.598Z",
+      "created_at": "2026-10-31T13:52:58.598Z"
+    },
+    {
+      "id": 27009,
+      "source": "XOR Journal (TG)",
+      "title_en": "Сэм Альтман нашёл виновных в дефиците оперативной памяти — вас и ваши ПК 🤡Глава OpenAI заявил, что держать оперативку в домашних компьютерах просто ужасно с точки зрения распределения ОГРАНИЧЕННЫХ ре",
+      "description_en": "Сэм Альтман нашёл виновных в дефиците оперативной памяти — вас и ваши ПК 🤡Глава OpenAI заявил, что держать оперативку в домашних компьютерах просто ужасно с точки зрения распределения ОГРАНИЧЕННЫХ ресурсов. По его словам, значительная часть мировой оперативки простаивает в пользовательских ПК, где используется лишь 5% времени, тогда как в дата-центрах она могла бы работать практически круглосуточно на его благо. Поэтому Альтман предлагает делать ставку на облачный ИИ вместо локальных моделей.Ал",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10409",
+      "image_url": "https://cdn4.telesco.pe/file/r-sLFjbTlA8Mxq0IEqG02DAMiXIGX8BuDBCykuo37kYP3lYYoEipiv4iHLfmtlWGsU9Ii-q4RYBpodxMH4jtWpN3fmhgLwekcPKgGZEnPxbBQb2-ixv6eVvR8zX3tuli07MDa2x8Pd3imRWgve2aankZOXsNEtbcLvXuy0JRyD9YanwbE5JzPYT-nVxiBSZqWm7jJ2BhjRHnRhe_hBPRZ4ayK-OqasrSOQwp38dd08sGctFn6sCFEtNaFFoqdYtGrV4B7n0rpUm_9dYqJafeoKSLzWFnU5GrTZUXK_TrKq8kDB3ydWhXR4sK4LwqOD7t1miqdsko0_0rHWOLdI9S5g.jpg",
+      "pub_date": "2026-10-31T10:58:50+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-31T13:52:58.690Z",
+      "created_at": "2026-10-31T13:52:58.690Z"
+    },
+    {
+      "id": 27010,
+      "source": "Hi, AI English (TG)",
+      "title_en": "👨 Fashion Brands Want to Use Models' Faces for AI Without Paying ExtraReuters journalists reviewed over a dozen draft contracts that Diesel, Calvin Klein, L'Oréal, and other fashion brands issue befo",
+      "description_en": "👨 Fashion Brands Want to Use Models' Faces for AI Without Paying ExtraReuters journalists reviewed over a dozen draft contracts that Diesel, Calvin Klein, L'Oréal, and other fashion brands issue before photoshoots. Some documents allow companies to replace a model's face with someone else's, create digital replicas, and use photos to train AI.📌 For example, a casting document from Diesel required models to agree to having their appearance altered, including putting their faces on other people'",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2902",
+      "image_url": "https://cdn4.telesco.pe/file/tOja8618-DZI9KUcGQFRE3qw5-60_Gclb_ST7q5Bozv1dxkOGulz-6YZzFz9DvyybcLAouIo9Vaj79NuC1DoP0BDrih_uJ_uPvhF7iLlgXL7JXDrECN3zKyB69Jd8I-0wkt3QgzXfce1-1meWU1XAon9PaRDMH5yEhydJslYU5YK0tBkyKGSgWqvgKuuvrbPCLH_5xTQ-9ALsBZ9C7x-EgDo56tj1vE_mG20rvJVtK7gcbdH4y_wR3h-cDZHVgXhi06A0cD2U6SMFXjTTkKxYAms5Tg2iuFKZm4RQs7uRsdIPblt-h3YyDjTaL1uLFmz_hVyWDrM530hpyZQ2JgT4w.jpg",
+      "pub_date": "2026-10-31T09:25:11+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-31T13:52:59.058Z",
+      "created_at": "2026-10-31T13:52:59.058Z"
+    },
+    {
+      "id": 27011,
+      "source": "AI Post (TG)",
+      "title_en": "⚠️ ChatGPT will now cut off chats that fixate on violenceWhen a conversation shows someone fixating on violence or on seriously hurting another person, ChatGPT will be able to end the chat on its own.",
+      "description_en": "⚠️ ChatGPT will now cut off chats that fixate on violenceWhen a conversation shows someone fixating on violence or on seriously hurting another person, ChatGPT will be able to end the chat on its own. If it does that several times, OpenAI says it may pause the account for a while.Teens get tighter limits. ChatGPT will hold back practical details about weapons and security systems from users it thinks are under 18, even when the question looks harmless. OpenAI also plans to alert parents if a tee",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8665",
+      "image_url": null,
+      "pub_date": "2026-10-31T10:13:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-10-31T13:52:59.397Z",
+      "created_at": "2026-10-31T13:52:59.397Z"
+    },
+    {
+      "id": 27012,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 Hold your iPhone's Action Button and Grok Bot explains what's on screenA developer built it as a free iPhone shortcut. Hold the button on any reel, video or web page, ask your question out loud, an",
+      "description_en": "🤖 Hold your iPhone's Action Button and Grok Bot explains what's on screenA developer built it as a free iPhone shortcut. Hold the button on any reel, video or web page, ask your question out loud, and the answer arrives silently as a notification.It works from a screenshot of your screen, plus the post, its comments and a web search. His examples: ask about the video you're watching, get a breakdown of an article, or have it build what you saw in a reel for your business.The shortcut is open so",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8666",
+      "image_url": null,
+      "pub_date": "2026-10-31T12:47:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-31T13:52:59.398Z",
+      "created_at": "2026-10-31T13:52:59.398Z"
+    },
+    {
+      "id": 27013,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Another team says it took over ChatGPT accounts through a gap at OpenAIParameter Labs published a writeup claiming a victim only has to open a link. The writeup is the researchers' own, and I can't",
+      "description_en": "🚨 Another team says it took over ChatGPT accounts through a gap at OpenAIParameter Labs published a writeup claiming a victim only has to open a link. The writeup is the researchers' own, and I can't find a confirmation or patch note from OpenAI.ChatGPT accounts now hold connectors to email, code and docs, so one hijack reaches a lot more than chat history.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/886",
+      "image_url": null,
+      "pub_date": "2026-10-31T11:57:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-31T13:52:59.745Z",
+      "created_at": "2026-10-31T13:52:59.745Z"
     }
   ]
 }
