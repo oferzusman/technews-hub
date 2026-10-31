@@ -583817,6 +583817,65 @@
       "priority": "hot",
       "fetchedAt": "2026-10-31T07:40:24.660Z",
       "created_at": "2026-10-31T07:40:24.660Z"
+    },
+    {
+      "id": 26982,
+      "source": "The Guardian AI",
+      "title_en": "Relying on AI is rotting your brain. But here’s what you can do about it | Carly Dober",
+      "description_en": "Each new tech product is designed to make our lives easier and keep us mindlessly entertained. Switch off: embrace discomfort – and boredom\nEver longed for your own personal assistant? In the ever quickening tech race, Meta has recently launched Muse, a new AI personal agent. Unlike traditional chatbots, this little AI tool will be able to fill out forms for you, organise calendars, pay bills and make reservations. Meta describes Muse as a personal agent “built for everyone”. The launch comes at",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/31/ai-rely-brain-new-tech-product-lives-boredom",
+      "image_url": "https://i.guim.co.uk/img/media/2d96ff893b43e6d48d9bdbb100b32e39e4f77ecc/0_0_5187_4150/master/5187.jpg?width=140&quality=85&auto=format&fit=max&s=a115b579b45dd4f8606794384ea2b7bb",
+      "pub_date": "Sat, 31 Oct 2026 08:00:37 GMT",
+      "author": "Carly Dober",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Social media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/social-media"
+          }
+        },
+        {
+          "_": "Meta",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/meta"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-31T08:56:27.148Z",
+      "created_at": "2026-10-31T08:56:27.148Z"
+    },
+    {
+      "id": 26983,
+      "source": "AI Post (TG)",
+      "title_en": "📊 The world's new AI computing power is doubling every 9 monthsAI chips sold in the second quarter of 2026 added about 6.3 million H100-equivalents of computing power (measured in Nvidia's H100 chips",
+      "description_en": "📊 The world's new AI computing power is doubling every 9 monthsAI chips sold in the second quarter of 2026 added about 6.3 million H100-equivalents of computing power (measured in Nvidia's H100 chips), Epoch AI estimates. In early 2024 a quarter added 0.8 million.That's a trend of 2.5x a year. In 2023, right after ChatGPT and GPT-4, it was roughly 6x.Nvidia still sells most of it: almost 4 million of the 6.3 million. Google's own chips come second with 1.6 million, then Amazon, AMD, Huawei and ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8664",
+      "image_url": "https://cdn4.telesco.pe/file/SK0AOm7Vj5roWmCXpZHqbM2JNCuoXll6DQO8OWRn6cvn5Rq1M3PTLtOc8yUWuo354ekT5P1uIyluvCt-FbJd4br9UrhmYBRs9HLyoSOswdsNwduG9MRv_baXPFNMSEzRGKQmE26sSm30V6oqZpfk3NU85TXiHSothsNsieQVIQjdSZBaRDljdRDc5JYloJxdz7DLPV39ur4XN_MYFUXNtbcnkj-QNTZOuIM6wxOzhNoT8vnBJZVw-5ZbUZTk4eE6fW8bdX_9l0nnBcmIJ5MoJzNJqbQUenHl4dNNhj3jsjWwdBiYY3ZHSDfpqu8EBQ6B-hGvbZcK2BlpA7doo0RPEA.jpg",
+      "pub_date": "2026-10-31T07:50:14+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-10-31T08:56:33.037Z",
+      "created_at": "2026-10-31T08:56:33.037Z"
     }
   ]
 }
