@@ -586283,6 +586283,214 @@
       "priority": "hot",
       "fetchedAt": "2026-11-01T15:47:28.557Z",
       "created_at": "2026-11-01T15:47:28.557Z"
+    },
+    {
+      "id": 27097,
+      "source": "New Atlas",
+      "title_en": "Scentronic tech lets you smell the internet",
+      "description_en": "Ever bought a perfume online with rave reviews and awesome packaging, only for it to arrive and the first whiff brings tears to your eyes ... tears of sorrow? Well, that may soon be a thing of the past, as scientists have figured out a way to transmit smells over the internet. Technically speaking.\nContinue Reading\nCategory: Virtual Reality, Consumer Tech, Technology\nTags: Ohio State University, Zhejiang University, Smell",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/vr/scentronic-smells-sent-over-internet/",
+      "image_url": null,
+      "pub_date": "Sun, 01 Nov 2026 17:03:00 GMT",
+      "author": "Etiido Uko",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-01T18:32:55.186Z",
+      "created_at": "2026-11-01T18:32:55.186Z"
+    },
+    {
+      "id": 27098,
+      "source": "The Guardian AI",
+      "title_en": "National Grid to site biggest substation on Teesside, near planned AI datacentre",
+      "description_en": "New electricity generating capacity would enable north-east to attract investment for major datacentre projects\nNational Grid has taken a step towards building Britain’s biggest electricity substation on Teesside, which could supply power to a vast neighbouring datacentre as the UK races to expand its AI infrastructure.\nLast week, the company agreed to purchase 29.5 hectares (73 acres) of land at Dorman Point on a site owned by Teesworks, a local private-public partnership. The deal was first re",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
+      "image_url": "https://i.guim.co.uk/img/media/6454f44555fa48a5f38d1d066c370cb6e7376a80/0_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=e2c6966aba034a344664fd433e1e0b7f",
+      "pub_date": "Sun, 01 Nov 2026 18:25:52 GMT",
+      "author": "Lauren Almeida",
+      "categories": [
+        {
+          "_": "National Grid",
+          "$": {
+            "domain": "https://www.theguardian.com/business/nationalgrid"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Utilities",
+          "$": {
+            "domain": "https://www.theguardian.com/business/utilities"
+          }
+        },
+        {
+          "_": "Energy industry",
+          "$": {
+            "domain": "https://www.theguardian.com/business/energy-industry"
+          }
+        },
+        {
+          "_": "North of England",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/north-of-england"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Datacentres - UK",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/datacentres"
+          }
+        },
+        {
+          "_": "Infrastructure",
+          "$": {
+            "domain": "https://www.theguardian.com/business/infrastructure"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-01T18:32:55.616Z",
+      "created_at": "2026-11-01T18:32:55.616Z"
+    },
+    {
+      "id": 27099,
+      "source": "Interesting Engineering",
+      "title_en": "Quantum computers are coming: Here are the problems they could tackle",
+      "description_en": "Imagine designing a better battery, discovering a new medicine, or developing a material that can...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/what-problems-will-quantum-computers-solve",
+      "image_url": null,
+      "pub_date": "Sun, 01 Nov 2026 17:25:54 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-01T18:32:56.133Z",
+      "created_at": "2026-11-01T18:32:56.133Z"
+    },
+    {
+      "id": 27100,
+      "source": "Interesting Engineering",
+      "title_en": "This Chinese warship could operate without a crew, launch missile salvos",
+      "description_en": "China is testing a warship that could hide its hull underwater before surfacing to raise...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/chinese-warship-could-operate-without-crew",
+      "image_url": null,
+      "pub_date": "Sun, 01 Nov 2026 16:36:59 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-01T18:32:56.133Z",
+      "created_at": "2026-11-01T18:32:56.133Z"
+    },
+    {
+      "id": 27101,
+      "source": "Interesting Engineering",
+      "title_en": "Short-range air defense systems with 360-degree turret installed at Trump’s Mar-a-Lago estate",
+      "description_en": "Amid the heightened concerns about President Donald J. Trump’s safety, the U.S. Secret Service has...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/air-defense-systems-trump-estate",
+      "image_url": null,
+      "pub_date": "Sun, 01 Nov 2026 15:51:12 +0000",
+      "author": "Muskan Bhatia",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-01T18:32:56.133Z",
+      "created_at": "2026-11-01T18:32:56.133Z"
+    },
+    {
+      "id": 27102,
+      "source": "Interesting Engineering",
+      "title_en": "Sodium vs. lithium: Which battery technology will power the next decade",
+      "description_en": "Lithium-ion batteries have become the backbone of electric vehicles and energy storage. But a rival...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/sodium-ion-vs-lithium-ion-batteries-2026",
+      "image_url": null,
+      "pub_date": "Sun, 01 Nov 2026 15:50:32 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [
+        "Energy"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-01T18:32:56.133Z",
+      "created_at": "2026-11-01T18:32:56.133Z"
+    },
+    {
+      "id": 27103,
+      "source": "Tom's Hardware",
+      "title_en": "Walmart honors massive shelf price mistake, lucky buyer gets two $2,299 CyberPowerPC gaming rigs for $1,099 each",
+      "description_en": "Redditor gets a gaming PC at more than 50% off in a physical Walmart retail store.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/lucky-pc-buyer-gets-usd1-200-discount-on-9900x3d-gaming-pc-walmart-honors-usd1-099-shelf-price-on-usd2-299-unit",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ppjCSvvoKjjF8kkB4DZLL3-1920-80.png",
+      "pub_date": "Sun, 01 Nov 2026 15:53:45 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Gaming PCs",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-01T18:33:00.219Z",
+      "created_at": "2026-11-01T18:33:00.219Z"
+    },
+    {
+      "id": 27104,
+      "source": "AI Post (TG)",
+      "title_en": "ChatGPT in Germany in 2027.@aipost 🏴",
+      "description_en": "ChatGPT in Germany in 2027.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8677",
+      "image_url": "https://cdn4.telesco.pe/file/p4TtYaQ264ega4s5Vmn-ieQ8nP5wIfr7siujOLXjFgFubpBpvk0fR99TUX99O9idzP5KybEbSgoAH3pHZhwazBY9I2LZPrBnyHMrMoeOPyDRUEmIGM7m9zRhcUjxllA7ly6-KrhJt5IPa7-h2MTj6HWgQgxUtcuy-r_h-vlVPDb7Ot4VVIQiebm8sQuu02KToNtDwZRNI9W6-tCnP7w9B5BVtV1bzJVn7TIPtYFhVBbCm-F7CzyL0v3dfXXw0SD-yRHjsNmoV9LExUzBELSuSc1e-kNe5QUXZesibbmpqYToWh4Rbg55aporY3FMq1yDPpj18fNcYpbSZOlDLmbaKQ.jpg",
+      "pub_date": "2026-11-01T18:02:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-01T18:33:04.533Z",
+      "created_at": "2026-11-01T18:33:04.533Z"
     }
   ]
 }
