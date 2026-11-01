@@ -1,20 +1,20 @@
 {
-  "total": 27062,
-  "translated": 27054,
+  "total": 27082,
+  "translated": 27074,
   "untranslated": 8,
-  "today": 16,
-  "week": 810,
+  "today": 36,
+  "week": 830,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2503,
-      "translated": 2503,
+      "total": 2508,
+      "translated": 2508,
       "lastDate": "Wed, 30 Sep 2026 18:00:39 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 2347,
-      "translated": 2347,
+      "total": 2348,
+      "translated": 2348,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -25,20 +25,20 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1711,
-      "translated": 1711,
+      "total": 1712,
+      "translated": 1712,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1605,
-      "translated": 1603,
-      "lastDate": "2026-11-01T07:09:01+00:00"
+      "total": 1607,
+      "translated": 1605,
+      "lastDate": "2026-11-01T12:29:01+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 1473,
-      "translated": 1473,
+      "total": 1477,
+      "translated": 1477,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
     {
@@ -55,8 +55,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 1225,
-      "translated": 1225,
+      "total": 1227,
+      "translated": 1227,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 1042,
-      "translated": 1040,
-      "lastDate": "2026-10-31T21:51:57+00:00"
+      "total": 1043,
+      "translated": 1041,
+      "lastDate": "2026-11-01T12:19:41+00:00"
     },
     {
       "name": "The Verge AI",
@@ -85,9 +85,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 763,
-      "translated": 763,
-      "lastDate": "2026-11-01T05:54:51+00:00"
+      "total": 766,
+      "translated": 766,
+      "lastDate": "2026-11-01T12:32:51+00:00"
     },
     {
       "name": "Backdoor (TG)",
@@ -163,9 +163,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 153,
-      "translated": 153,
-      "lastDate": "2026-10-26T19:08:41+00:00"
+      "total": 154,
+      "translated": 154,
+      "lastDate": "2026-11-01T11:12:59+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-01T08:47:46.991Z"
+  "generatedAt": "2026-11-01T13:43:26.782Z"
 }
