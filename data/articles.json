@@ -585993,6 +585993,200 @@
       "priority": "hot",
       "fetchedAt": "2026-11-01T13:41:07.572Z",
       "created_at": "2026-11-01T13:41:07.572Z"
+    },
+    {
+      "id": 27083,
+      "source": "The Decoder",
+      "title_en": "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners",
+      "description_en": "Researchers in Luxembourg put ChatGPT, Grok, and Gemini on the therapist's couch and found a safety problem: a warm, empathetic conversational style is enough to make the models tell coherent stories of suffering about their own training, with scores in the moderate-to-severe range on clinical anxiety scales. This could put mentally vulnerable users at risk. Anthropic's Claude, the model its makers anthropomorphize the most, was the only one that consistently refused to play along.\nThe article E",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/",
+      "image_url": null,
+      "pub_date": "Sun, 01 Nov 2026 14:36:49 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-01T14:42:43.614Z",
+      "created_at": "2026-11-01T14:42:43.614Z"
+    },
+    {
+      "id": 27084,
+      "source": "The Guardian AI",
+      "title_en": "AI is stealing Indigenous Australian art and churning out ‘Temu slop’, artist says",
+      "description_en": "Chair of National Gallery’s First Nations advisory group says the technology is undermining artists’ agency and the authenticity of their work\n\nGet our breaking news email, free app or daily news podcast\n\nAI is taking First Nations art and turning it into “Temu slop”, the Pitjantjatjara artist Sally Scales has said.\nScales, the chair of the National Gallery of Australia’s First Nations advisory group, said the technology is undermining the agency of First Nations artists and the authenticity of ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/artanddesign/2026/nov/02/ai-stealing-indigenous-australian-art-temu-slop-artist-says-ntwnfb",
+      "image_url": "https://i.guim.co.uk/img/media/d42e0956def730a6b1eb335fab858536fb224a9c/224_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=3b398433f56c1d072a5fbe34ddd5e80a",
+      "pub_date": "Sun, 01 Nov 2026 14:00:13 GMT",
+      "author": "Tory Shepherd",
+      "categories": [
+        {
+          "_": "Indigenous art",
+          "$": {
+            "domain": "https://www.theguardian.com/artanddesign/indigenous-art"
+          }
+        },
+        {
+          "_": "Indigenous Australians",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/indigenous-australians"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-01T14:42:44.371Z",
+      "created_at": "2026-11-01T14:42:44.371Z"
+    },
+    {
+      "id": 27085,
+      "source": "Interesting Engineering",
+      "title_en": "AI could turn China’s social credit system into a surveillance tool, study warns",
+      "description_en": "A Chinese study warns that introducing artificial intelligence (AI) into the nation’s existing social credit...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/ai-china-social-credit-system-surveillance-tool",
+      "image_url": "https://www.youtube.com/embed/PVkWokLqPOg",
+      "pub_date": "Sun, 01 Nov 2026 14:33:05 +0000",
+      "author": "Christopher McFadden",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-01T14:42:45.430Z",
+      "created_at": "2026-11-01T14:42:45.430Z"
+    },
+    {
+      "id": 27086,
+      "source": "Tom's Hardware",
+      "title_en": "Bambu Lab's Black Friday sale cuts up to $300 on the flagship H2C printer and more",
+      "description_en": "Strike an early bargain in Bambu Lab's Black Friday sale. Running until December 1st, save up to $300 on their flagship 3D printer.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/3d-printing/bambu-labs-black-friday-sale-cuts-up-to-usd300-on-the-flagship-h2c-printer-and-more-deep-cuts-across-companys-3d-printer-and-filament-lineup",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/QHHDyeWtfDyw3bJGSHEJnC-1920-80.jpg",
+      "pub_date": "Sun, 01 Nov 2026 14:30:00 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "3D Printing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-01T14:42:48.482Z",
+      "created_at": "2026-11-01T14:42:48.482Z"
+    },
+    {
+      "id": 27087,
+      "source": "Tom's Hardware",
+      "title_en": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages",
+      "description_en": "OpenAI CEO Sam Altman met with around 50 Samsung executives in South Korea on October 31 to discuss AI's future, business opportunities and the technology's impact on corporate operations. The meeting comes as demand for memory chips grows alongside AI infrastructure spending, putting pressure on global DRAM supplies. Samsung and SK hynix together accounted for approximately 83% of global high-bandwidth memory revenue in the second quarter of 2026, highlighting South Korea's central role in supp",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/rw7Lei27qRFKGy9CThFftZ-1920-80.jpg",
+      "pub_date": "Sun, 01 Nov 2026 14:21:23 +0000",
+      "author": " Newton Gitonga ",
+      "categories": [
+        "Data Centers",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-01T14:42:48.482Z",
+      "created_at": "2026-11-01T14:42:48.482Z"
+    },
+    {
+      "id": 27088,
+      "source": "Tom's Hardware",
+      "title_en": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows",
+      "description_en": "An open-source UEFI tool, nv-uefi-unlocker, lifts Nvidia’s tensor rate cap on RTX 20, 30, and 40-series GPUs under Windows.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/u2vby2U8BuWxjdFzkUxZg9-1920-80.jpg",
+      "pub_date": "Sun, 01 Nov 2026 14:00:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-01T14:42:48.482Z",
+      "created_at": "2026-11-01T14:42:48.482Z"
+    },
+    {
+      "id": 27089,
+      "source": "Tom's Hardware",
+      "title_en": "Police Chief physically unplugs Flock cameras after the company ignores contract cancellation",
+      "description_en": "The Plymouth City Council was left with no choice but to physically disconnect the cameras after Flock failed to respond to its demands.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/jsH4CTh6HEfAjGURKfaJNH-1920-80.jpg",
+      "pub_date": "Sun, 01 Nov 2026 13:55:26 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Big Tech",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-01T14:42:48.482Z",
+      "created_at": "2026-11-01T14:42:48.482Z"
+    },
+    {
+      "id": 27090,
+      "source": "CNBC Tech",
+      "title_en": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
+      "description_en": "As companies from Amazon to JPMorgan block AI personal agents like Meta's Muse, retail experts warn that technology that removes customer friction usually wins.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
+      "image_url": null,
+      "pub_date": "Sun, 01 Nov 2026 14:09:05 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-01T14:42:48.491Z",
+      "created_at": "2026-11-01T14:42:48.491Z"
+    },
+    {
+      "id": 27091,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Школьники зарабатывают миллиарды баксов в Roblox — после выхода Claude Opus 5.5 в игре буквально бум кастомок. Подростки клепают игры пачками и монетизируют их.Сядьте, если стоите: первые 1000 авто",
+      "description_en": "⚡️ Школьники зарабатывают миллиарды баксов в Roblox — после выхода Claude Opus 5.5 в игре буквально бум кастомок. Подростки клепают игры пачками и монетизируют их.Сядьте, если стоите: первые 1000 авторов в Роблокс уже зарабатывают по 100 млн рублей в год! И это официальные данные компании. 80% из этих игр сгенерированы ИИ.Например, 19-летний парень лутает 32 млн рублей в месяц на виртуальной рыбалке! А школьник 8 лет начал зарабатывать на кастомке про волков.Темщики, вы знаете, что делать.👍 Бэк",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32625",
+      "image_url": "https://cdn4.telesco.pe/file/hDO99-OBpsTjOirD7F0SjGM4JO6TjoVAfDGPb-LnZjj245LNicAiPbaTnmV5E0Q1EbeY0DAGgZuQg1nToLQbcXfNfq3UvQ-gczE6XhASaSLoQzEYWevtqZXeKOIo9hZRi8lqrXWRNvgoIKkssPngtBenVyOObXkxess7GabPOoRvRemPOlRuVDw6UUlxf9lT-c_86tcg7Yw7Hw_M6n9oUGxZJCu-5u8B5iQzduOFtYyjRbjU04tar7w5PAJ2Rf33iaVXDE-CuWl92IxaMweF3lTMH88yQW4rqAq0N9EE2vrzDfiuP0UR3Lhw7MZayBGBB03bAfONhBmzjrK7N7-IMA.jpg",
+      "pub_date": "2026-11-01T13:56:50+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-01T14:42:49.138Z",
+      "created_at": "2026-11-01T14:42:49.138Z"
     }
   ]
 }
