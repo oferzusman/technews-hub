@@ -1,9 +1,9 @@
 {
-  "total": 27054,
-  "translated": 27046,
+  "total": 27059,
+  "translated": 27051,
   "untranslated": 8,
-  "today": 8,
-  "week": 802,
+  "today": 13,
+  "week": 807,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -31,9 +31,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1604,
-      "translated": 1602,
-      "lastDate": "2026-11-01T04:18:01+00:00"
+      "total": 1605,
+      "translated": 1603,
+      "lastDate": "2026-11-01T07:09:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -43,8 +43,8 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1459,
-      "translated": 1459,
+      "total": 1461,
+      "translated": 1461,
       "lastDate": "2026-10-31T00:15:52.000Z"
     },
     {
@@ -103,9 +103,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 505,
-      "translated": 503,
-      "lastDate": "2026-10-31T07:28:33+00:00"
+      "total": 506,
+      "translated": 504,
+      "lastDate": "2026-11-01T07:30:16+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -121,9 +121,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 355,
-      "translated": 355,
-      "lastDate": "2026-10-31T09:25:11+00:00"
+      "total": 356,
+      "translated": 356,
+      "lastDate": "2026-11-01T07:50:33+00:00"
     },
     {
       "name": "The Register",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-01T06:32:06.675Z"
+  "generatedAt": "2026-11-01T07:53:49.008Z"
 }
