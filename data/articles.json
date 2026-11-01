@@ -586187,6 +586187,102 @@
       "priority": "hot",
       "fetchedAt": "2026-11-01T14:42:49.138Z",
       "created_at": "2026-11-01T14:42:49.138Z"
+    },
+    {
+      "id": 27092,
+      "source": "The Decoder",
+      "title_en": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
+      "description_en": "Adobe Research and UC San Diego built EditAgent, an AI system that edits images more like a Photoshop pro. Instead of retrying the same general-purpose editor over and over, the agent picks the right specialized tool for each task and lets a standard language model choose the best result based on measured image data. The approach works, but it needs about ten times the compute.\nThe article Adobe is testing how well AI agents can use editing tools like a Photoshop professional would appeared firs",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
+      "image_url": null,
+      "pub_date": "Sun, 01 Nov 2026 14:56:44 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Adobe"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-01T15:47:22.961Z",
+      "created_at": "2026-11-01T15:47:22.961Z"
+    },
+    {
+      "id": 27093,
+      "source": "Tom's Hardware",
+      "title_en": "Brazilian lawyers busted for attempting to manipulate court's AI with prompt injection hidden in filing",
+      "description_en": "The lawyers of a plaintiff in a labor case attempted to use prompt injection to influence the court's AI but were caught. They won the case anyway, as the defendant did not respond, making the move totally unnecessary.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/L2TSrQuGFDhmVGdBfr2ytV-1920-80.jpg",
+      "pub_date": "Sun, 01 Nov 2026 15:05:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-01T15:47:27.188Z",
+      "created_at": "2026-11-01T15:47:27.188Z"
+    },
+    {
+      "id": 27094,
+      "source": "Tom's Hardware",
+      "title_en": "Biwin M560 2TB SSD Review: The DRAM-less drive to beat",
+      "description_en": "The Biwin M560 brings SMI’s SM2504XT to retail with top-tier responsiveness and excellent efficiency, though not the fastest post-cache writes.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ssds/biwin-m560-2tb-ssd-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/9739tEjY7imERJsLeBjqZG-1920-80.jpg",
+      "pub_date": "Sun, 01 Nov 2026 15:00:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "SSDs",
+        "PC Components",
+        "Storage"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-01T15:47:27.188Z",
+      "created_at": "2026-11-01T15:47:27.188Z"
+    },
+    {
+      "id": 27095,
+      "source": "AI Post (TG)",
+      "title_en": "👽 AI agents now run the telescope that listens for aliensAt the Allen Telescope Array in Northern California, scientists can type one plain-English request and AI agents handle the rest: they steer t",
+      "description_en": "👽 AI agents now run the telescope that listens for aliensAt the Allen Telescope Array in Northern California, scientists can type one plain-English request and AI agents handle the rest: they steer the antennas, calibrate and focus the instrument, catch and fix data errors and plot the result.The SETI Institute and Breakthrough Listen built it with Nvidia, which announced it on October 30. Up to 2.4 terabits of data per second flow straight into GPUs next to the dishes, so signals are processed",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8676",
+      "image_url": null,
+      "pub_date": "2026-11-01T15:11:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-01T15:47:28.336Z",
+      "created_at": "2026-11-01T15:47:28.336Z"
+    },
+    {
+      "id": 27096,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Anthropic may have been valued at $1.2T back in AugustThe FT reports the number, but it's a question mark, not a confirmed round. A figure like that would put Anthropic in OpenAI's weight class.Pri",
+      "description_en": "🚨 Anthropic may have been valued at $1.2T back in AugustThe FT reports the number, but it's a question mark, not a confirmed round. A figure like that would put Anthropic in OpenAI's weight class.Private marks for frontier labs come from funding rounds and secondary sales, so they only prove what a few investors will pay. A Nasdaq listing would test that with the public.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/897",
+      "image_url": null,
+      "pub_date": "2026-11-01T15:33:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-01T15:47:28.557Z",
+      "created_at": "2026-11-01T15:47:28.557Z"
     }
   ]
 }
