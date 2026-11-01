@@ -1,7 +1,7 @@
 window.TELEGRAM_DATA = [
   {
     "id": 1,
-    "t": "🧐 מודל קטן פי 660 הביס AI-ים בגודל 72B בהבנת העולם - יאן לקון אומר שהדרך של chatbots אינה יעילה\n\nיאן לקון וראנדל בלסטריירו טוענים שהדרך המסורתית שבה chatbots לומדים - על ידי ניבוי המילה הבאה - היא \"דרך בעלת יעילות נמוכה להחתית\" להבנה משותפת של העולם. מודל זעיר הצליח להשיג ביצועים טובים יותר מאי-איים ענקיים בתחום vision, וזה רק התחלה. המחקר החדש מוכיח שכמו בתמונות וכתוביות, גם טקסט וסאונד יכולים לייצר את אותה תמונת פנים של המציאות כשהמודל מתאמן על שתי תצוגות שונות של אותו הדבר.",
+    "t": "🧐 מודל קטן פי 660 התגבר על AI-ים ענקיים בהבנת תמונות – ויאן לה-קון אומר שהדרך הנוכחית של צ'אטבוטים היא \"יעילה להפליא\"\n\nחוקרים הוכיחו שמודלי AI קטנים בהרבה יכולים להשיג תוצאות טובות יותר מ-AI ענקיים בהבנת תמונות, וזה הכל בגלל דרך אחרת בלמידה. יאן לה-קון מ-Meta טוען שהדרך בה צ'אטבוטים לומדים היום – דרך ניחוש המילה הבאה – היא לא יעילה כמו שחשבנו. המפתח? מודלים שלומדים מ-\"שתי כיוונים\" של אותו דבר, כמו תמונה והתיאור שלה ביחד.\n\nSource: AI Post (TG)",
     "d": "2026-11-01T23:40:07+00:00",
     "v": 0,
     "l": [
@@ -14,9 +14,12 @@ window.TELEGRAM_DATA = [
     "cats": [
       "news"
     ],
-    "co": [],
+    "co": [
+      "Meta"
+    ],
     "tags": [
-      "news"
+      "news",
+      "model"
     ],
     "imp": "low",
     "thumb": "https://cdn4.telesco.pe/file/RCEExHyIIY8yHU28yayvbdN7zmwxbCUbLpEDyE0Of9omx17TPEC9HNDfuwEeer3qXIa-nMl5es8BO7P2Lub11PicUvkS5VWlCjrDxBe7gbCIET0ZsH99in981sVvsujxhbd0YF8LM73NQHa8IScewvyM-wDFaad5g4QKZqkcKUhTf7ZODbOEGVPv9uj2pb8onbx2i6dM2ekpVmHyH4vF-DKMqGqYo5ZupqBrIhYZjtYutquDpBXFXswbTpAGXn2Jl8yvUeLFTcqPcF3u4HjVjJAE274DosXBSxY7qYERiPVtKkk5FjRjArQzNMZ9_bW_zEhvf6mz5OScdkhsZxV0Kw.jpg",
