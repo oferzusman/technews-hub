@@ -587121,6 +587121,229 @@
       "priority": "hot",
       "fetchedAt": "2026-11-02T08:15:19.016Z",
       "created_at": "2026-11-02T08:15:19.016Z"
+    },
+    {
+      "id": 27137,
+      "source": "MarkTechPost",
+      "title_en": "NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL",
+      "description_en": "NVIDIA released Auto Ontology, an Apache 2.0 library that generates a semantic layer from enterprise metadata. It grounds agent SQL in certified definitions and serves context through MCP, CLI and API.\nThe post NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/",
+      "image_url": null,
+      "pub_date": "Mon, 02 Nov 2026 07:47:12 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs",
+        "Harness",
+        "Language Model",
+        "New Releases",
+        "Python",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-02T09:22:11.288Z",
+      "created_at": "2026-11-02T09:22:11.288Z"
+    },
+    {
+      "id": 27138,
+      "source": "MarkTechPost",
+      "title_en": "Meet qwenGPU: Qwen3.5-2B With 45 Compiled GPU Layers That Run CUDA",
+      "description_en": "qwenGPU compiles a 4-lane SIMT GPU into Qwen3.5-2B as 45 untrained layers. The model writes every step of real CUDA launches itself, using Gated DeltaNet state as registers and memory.\nThe post Meet qwenGPU: Qwen3.5-2B With 45 Compiled GPU Layers That Run CUDA appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/01/qwengpu-simt-gpu-compiled-into-qwen3-5-2b-weights-runs-cuda/",
+      "image_url": null,
+      "pub_date": "Mon, 02 Nov 2026 07:28:29 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs",
+        "Language Model",
+        "Large Language Model",
+        "New Releases",
+        "Open Source",
+        "Staff",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-02T09:22:11.288Z",
+      "created_at": "2026-11-02T09:22:11.288Z"
+    },
+    {
+      "id": 27139,
+      "source": "The Guardian AI",
+      "title_en": "Ryanair considers pay freezes and reducing crew on flights as fuel costs soar",
+      "description_en": "Airline also weighs up increasing use of AI as part of cost-cutting measures to offset impact of Iran war\nRyanair is considering cost-cutting measures including implementing pay freezes, reducing crew on flights and increasing the use of AI to offset soaring fuel costs because of the Middle East conflict.\nEurope’s biggest low-cost carrier said it expects European airlines to raise their ticket prices by as much as 20%, as it anticipates its jet fuel costs will increase by about €2bn (£1.6bn) in ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai",
+      "image_url": "https://i.guim.co.uk/img/media/b52864d4c0b9d2ab7fa534706c339430bddbd71f/504_201_1818_1455/master/1818.jpg?width=140&quality=85&auto=format&fit=max&s=3bb421aaa24288104fcb4e1d29588462",
+      "pub_date": "Mon, 02 Nov 2026 09:06:51 GMT",
+      "author": "Mark Sweney",
+      "categories": [
+        {
+          "_": "Ryanair",
+          "$": {
+            "domain": "https://www.theguardian.com/business/ryanair"
+          }
+        },
+        {
+          "_": "Airline industry",
+          "$": {
+            "domain": "https://www.theguardian.com/business/theairlineindustry"
+          }
+        },
+        {
+          "_": "Michael O'Leary",
+          "$": {
+            "domain": "https://www.theguardian.com/business/michael-oleary"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "US-Israel war on Iran",
+          "$": {
+            "domain": "https://www.theguardian.com/world/us-israel-war-on-iran"
+          }
+        },
+        {
+          "_": "Ireland",
+          "$": {
+            "domain": "https://www.theguardian.com/world/ireland"
+          }
+        },
+        {
+          "_": "Europe",
+          "$": {
+            "domain": "https://www.theguardian.com/world/europe-news"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Air transport",
+          "$": {
+            "domain": "https://www.theguardian.com/world/air-transport"
+          }
+        },
+        {
+          "_": "Oil",
+          "$": {
+            "domain": "https://www.theguardian.com/business/oil"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-02T09:22:12.213Z",
+      "created_at": "2026-11-02T09:22:12.213Z"
+    },
+    {
+      "id": 27140,
+      "source": "Interesting Engineering",
+      "title_en": "5-foot-10 humanoid, IP66-rated robot traffic cop directs crowds at major marathon",
+      "description_en": "A humanoid robot in a traffic-officer role joined the patrol team at the 2026 Hangzhou...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/deep-robotics-dr02-humanoid-traffic-officer-hangzhou-marathon",
+      "image_url": "https://www.youtube.com/embed/_14HvDleHYM",
+      "pub_date": "Mon, 02 Nov 2026 08:58:18 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-02T09:22:12.693Z",
+      "created_at": "2026-11-02T09:22:12.693Z"
+    },
+    {
+      "id": 27141,
+      "source": "Interesting Engineering",
+      "title_en": "Meta builds 105-pound humanoid robot prototype to explore future home uses",
+      "description_en": "Meta has developed a humanoid robot prototype in partnership with Chinese robotics company Fourier to...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/meta-develops-humanoid-robot",
+      "image_url": "https://www.youtube.com/embed/siuwJWkjDgs",
+      "pub_date": "Mon, 02 Nov 2026 08:41:33 +0000",
+      "author": "Jijo Malayil",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-02T09:22:12.693Z",
+      "created_at": "2026-11-02T09:22:12.693Z"
+    },
+    {
+      "id": 27142,
+      "source": "AI Post (TG)",
+      "title_en": "OpenAI CEO Sam Altman believes people owning RAM for their own PCs is a waste and instead should be saved for data centers.\"It’s quite terrible to have everyone have a bunch of the world’s limited sup",
+      "description_en": "OpenAI CEO Sam Altman believes people owning RAM for their own PCs is a waste and instead should be saved for data centers.\"It’s quite terrible to have everyone have a bunch of the world’s limited supply of DRAM sitting in their own computer.\"@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8682",
+      "image_url": "https://cdn4.telesco.pe/file/BDqR2XrjRtT-ac8n4L7yHYklnw2jGO52ZZoC_oTG_tB24FGsW4vYLS5v8A_AO5fjO37o8i8uCV5J7Yl1q250C2EK1erO-a2AZ2d11Uj36JffupJwP5AEU__Bop8t8TYyXlu1s-v2nno8RobGSDELXT2CJcbow0ZqjUH3Mzt-0Rv0zhdUOR6bBqpzM6cJ4ZTDchUZbZHhh2Tl3SZCmJbnDljbngnX-i11VcQLRb6JmON8IRk8tCJXz3kBCihTIjUIq39nrGgCuH-QHgeSAuuHIh-e4OAxS4J_0wMNNWgj-lBmBfFxJdL2eBnEyxQfsHhiweXHjZUVj9piE84Y1EiDlw.jpg",
+      "pub_date": "2026-11-02T08:44:23+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-02T09:22:15.425Z",
+      "created_at": "2026-11-02T09:22:15.425Z"
+    },
+    {
+      "id": 27143,
+      "source": "AI Post (TG)",
+      "title_en": "OpenAI CEO Sam Altman believes people owning RAM for their own PCs is a waste and instead should be saved for data centers.  \"It’s quite terrible to have everyone have a bunch of the world’s limited s",
+      "description_en": "OpenAI CEO Sam Altman believes people owning RAM for their own PCs is a waste and instead should be saved for data centers.  \"It’s quite terrible to have everyone have a bunch of the world’s limited supply of DRAM sitting in their own computer.\"  @aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8684",
+      "image_url": "https://cdn4.telesco.pe/file/kxBsaeWLr4oEKfjEJa4wOQ5aVDvrstwkb7HjBvFTH2iGu3GH1Q5gCkhWuor3Ms4aEf6b4mtk498DoJ2q6HVjWkQM1I2Ldql2I0XwZI4OPPLKMHryoUoRJz9_85Tkf-8cLURXHsv_t6kPEgq1tU6vryLM34AEuQBhTKWTrEuUrIfiQk1YX4kHE1TgGL9xsPccezXYCrgwApnUvmkuwuqUd9_SkshlCIXra1Pd8dmO6nhcSxOcmooX44fuRZ7ujc2RlEfGxaCh1YqN7wBGxH6C0c95Ul4wmjQXyQhbAOv2mbJhxbRmwbjKCa2jM9ZUelb7PZDavQ0SdQxelrLEApMpzg.jpg",
+      "pub_date": "2026-11-02T08:51:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-02T09:22:15.425Z",
+      "created_at": "2026-11-02T09:22:15.425Z"
     }
   ]
 }
