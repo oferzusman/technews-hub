@@ -1,9 +1,9 @@
 {
-  "total": 27212,
+  "total": 27226,
   "translated": 27204,
-  "untranslated": 8,
-  "today": 96,
-  "week": 821,
+  "untranslated": 22,
+  "today": 110,
+  "week": 835,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,31 +13,31 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2362,
+      "total": 2366,
       "translated": 2362,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1803,
+      "total": 1805,
       "translated": 1803,
       "lastDate": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1719,
+      "total": 1720,
       "translated": 1719,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1618,
+      "total": 1619,
       "translated": 1616,
-      "lastDate": "2026-11-02T17:34:01+00:00"
+      "lastDate": "2026-11-02T20:18:01+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 1484,
+      "total": 1486,
       "translated": 1484,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "New Atlas",
-      "total": 1232,
+      "total": 1233,
       "translated": 1232,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 1049,
+      "total": 1050,
       "translated": 1047,
-      "lastDate": "2026-11-02T16:46:06+00:00"
+      "lastDate": "2026-11-02T21:35:03+00:00"
     },
     {
       "name": "The Verge AI",
@@ -85,15 +85,15 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 776,
+      "total": 777,
       "translated": 776,
-      "lastDate": "2026-11-02T18:42:51+00:00"
+      "lastDate": "2026-11-02T21:02:18+00:00"
     },
     {
       "name": "Backdoor (TG)",
-      "total": 689,
+      "total": 690,
       "translated": 688,
-      "lastDate": "2026-11-02T11:20:41+00:00"
+      "lastDate": "2026-11-02T22:11:23+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-02T20:00:48.797Z"
+  "generatedAt": "2026-11-02T22:26:39.543Z"
 }
