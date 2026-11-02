@@ -1,44 +1,44 @@
 {
   "total": 27202,
-  "translated": 27162,
-  "untranslated": 40,
+  "translated": 27194,
+  "untranslated": 8,
   "today": 86,
   "week": 811,
   "sources": [
     {
       "name": "Tom's Hardware",
       "total": 2527,
-      "translated": 2524,
+      "translated": 2527,
       "lastDate": "Wed, 30 Sep 2026 18:00:39 +0000"
     },
     {
       "name": "Interesting Engineering",
       "total": 2362,
-      "translated": 2359,
+      "translated": 2362,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
       "name": "TechCrunch AI",
       "total": 1801,
-      "translated": 1796,
+      "translated": 1801,
       "lastDate": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
     {
       "name": "CNBC Tech",
       "total": 1719,
-      "translated": 1716,
+      "translated": 1719,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
       "name": "AI Post (TG)",
       "total": 1618,
-      "translated": 1614,
+      "translated": 1616,
       "lastDate": "2026-11-02T17:34:01+00:00"
     },
     {
       "name": "The Decoder",
       "total": 1484,
-      "translated": 1481,
+      "translated": 1484,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
     {
@@ -50,7 +50,7 @@
     {
       "name": "The Guardian AI",
       "total": 1336,
-      "translated": 1334,
+      "translated": 1336,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
@@ -62,13 +62,13 @@
     {
       "name": "Ars Technica",
       "total": 1166,
-      "translated": 1165,
+      "translated": 1166,
       "lastDate": "Wed, 30 Sep 2026 20:44:48 +0000"
     },
     {
       "name": "XOR Journal (TG)",
       "total": 1049,
-      "translated": 1044,
+      "translated": 1047,
       "lastDate": "2026-11-02T16:46:06+00:00"
     },
     {
@@ -86,7 +86,7 @@
     {
       "name": "Prompt AI News (TG)",
       "total": 775,
-      "translated": 774,
+      "translated": 775,
       "lastDate": "2026-11-02T15:41:51+00:00"
     },
     {
@@ -98,7 +98,7 @@
     {
       "name": "OpenAI Blog",
       "total": 663,
-      "translated": 661,
+      "translated": 663,
       "lastDate": "Wed, 30 Sep 2026 10:30:00 GMT"
     },
     {
@@ -110,7 +110,7 @@
     {
       "name": "MIT Technology Review",
       "total": 486,
-      "translated": 483,
+      "translated": 486,
       "lastDate": "Wed, 30 Sep 2026 12:10:00 +0000"
     },
     {
@@ -170,7 +170,7 @@
     {
       "name": "Google AI Blog",
       "total": 105,
-      "translated": 104,
+      "translated": 105,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-02T18:25:38.527Z"
+  "generatedAt": "2026-11-02T18:29:00.600Z"
 }
