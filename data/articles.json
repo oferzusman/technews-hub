@@ -586711,6 +586711,23 @@
       "priority": "hot",
       "fetchedAt": "2026-11-01T23:45:59.562Z",
       "created_at": "2026-11-01T23:45:59.562Z"
+    },
+    {
+      "id": 27117,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Eclypsium says you can poison an AI model without touching its weightsThe security firm's report targets the firmware, management controllers and orchestration agents under the model. In one demo, ",
+      "description_en": "🚨 Eclypsium says you can poison an AI model without touching its weightsThe security firm's report targets the firmware, management controllers and orchestration agents under the model. In one demo, the tampering changed the runtime state after the usual security checks ran, so the model looked verified when it wasn't.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/900",
+      "image_url": null,
+      "pub_date": "2026-11-02T00:36:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-02T01:37:40.115Z",
+      "created_at": "2026-11-02T01:37:40.115Z"
     }
   ]
 }
