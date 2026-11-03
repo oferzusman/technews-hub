@@ -589799,7 +589799,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-11-03T03:36:21.279Z",
       "created_at": "2026-11-03T03:36:21.279Z"
     },
@@ -589819,6 +589819,319 @@
       "priority": "hot",
       "fetchedAt": "2026-11-03T03:36:21.537Z",
       "created_at": "2026-11-03T03:36:21.537Z"
+    },
+    {
+      "id": 27250,
+      "source": "TechCrunch AI",
+      "title_en": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "description_en": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 07:20:00 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "AI",
+        "Apps",
+        "Hardware",
+        "Apple",
+        "Apple Intelligence",
+        "Apple Watch",
+        "audio",
+        "iOS"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T07:52:37.872Z",
+      "created_at": "2026-11-03T07:52:37.872Z"
+    },
+    {
+      "id": 27251,
+      "source": "MarkTechPost",
+      "title_en": "OpenAI Introduces Pando: A Git Backend That Cuts Median Push Latency ~80%",
+      "description_en": "OpenAI built Pando, a Git-compatible backend for its monorepo. It handles branches independently, reuses stored packfiles across fetches, cut median push latency by nearly 80%, and now delivers nearly a petabyte of Git data per day.\nThe post OpenAI Introduces Pando: A Git Backend That Cuts Median Push Latency ~80% appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/02/openai-pando-git-backend-monorepo/",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 05:51:06 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs",
+        "Machine Learning",
+        "New Releases",
+        "Python",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-03T07:52:39.550Z",
+      "created_at": "2026-11-03T07:52:39.550Z"
+    },
+    {
+      "id": 27252,
+      "source": "MIT Technology Review",
+      "title_en": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "description_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 04:18:47 +0000",
+      "author": "James O'Donnell",
+      "categories": [
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "The Algorithm"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-03T07:52:39.731Z",
+      "created_at": "2026-11-03T07:52:39.731Z"
+    },
+    {
+      "id": 27253,
+      "source": "Hugging Face Blog",
+      "title_en": "Transformers Model Integration Contracts",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/transformers-mic",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-03T07:52:39.786Z",
+      "created_at": "2026-11-03T07:52:39.786Z"
+    },
+    {
+      "id": 27254,
+      "source": "New Atlas",
+      "title_en": "This AR motorcycle helmet could make your GPS obsolete",
+      "description_en": "I’ve covered a few AR helmets here before. And almost every time, I’ve seen someone comment: \"Do we really need any more distractions on a motorcycle?\" Swiss company Aegis Rider certainly doesn’t seem to think that way.\nContinue Reading\nCategory: Motorcycles, Transport\nTags: Smart Helmet, Helmets, Helmet Visor, Heads Up Display, AR, Augmented Reality, Navigation, Intercom",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/motorcycles/aegis-rider-ar-helmet/",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 04:03:00 GMT",
+      "author": "Utkarsh Sood",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-03T07:52:40.029Z",
+      "created_at": "2026-11-03T07:52:40.029Z"
+    },
+    {
+      "id": 27255,
+      "source": "The Guardian AI",
+      "title_en": "‘A serious failure’: CPS prosecutor cites imaginary case to high court after AI search",
+      "description_en": "Exclusive: Nonexistent precedent cited in alleged child rape case adds to dozens of AI-related errors plaguing court proceedings\nA senior crown prosecutor acting in a high court case cited an imaginary legal precedent in an error that has sparked fresh concerns about AI hallucinations infecting the justice system.\nRavinder Dhillon, representing the Crown Prosecution Service (CPS), referenced an entirely made-up case during a dispute over whether a child should be prosecuted for the rape of his y",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/03/a-serious-failure-cps-prosecutor-cites-imaginary-case-to-high-court-after-ai-search",
+      "image_url": "https://i.guim.co.uk/img/media/00c1de4ba03f6807582e6a7932fadc08aaf73c71/676_0_6659_5331/master/6659.jpg?width=140&quality=85&auto=format&fit=max&s=cbc5910c6d63554f48d67327411258dc",
+      "pub_date": "Tue, 03 Nov 2026 06:00:40 GMT",
+      "author": "Robert Booth UK technology editor",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Law",
+          "$": {
+            "domain": "https://www.theguardian.com/law/law"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T07:52:40.208Z",
+      "created_at": "2026-11-03T07:52:40.208Z"
+    },
+    {
+      "id": 27256,
+      "source": "Interesting Engineering",
+      "title_en": "US rival tests powerful cluster warhead for cruise missiles with 6-hectare kill zone",
+      "description_en": "North Korea has tested a dispersal warhead designed for a strategic cruise missile, claiming it...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-rival-cruise-missile-dispersal-warhead-test",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 03:59:06 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-03T07:52:42.614Z",
+      "created_at": "2026-11-03T07:52:42.614Z"
+    },
+    {
+      "id": 27257,
+      "source": "Interesting Engineering",
+      "title_en": "OpenAI builds custom Git backend in just 10 weeks to handle 2,442% code commit surge",
+      "description_en": "OpenAI has developed a new Git backend called Pando to handle the growing volume of...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/openai-pando-git-backend-code-commit-surge",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 03:45:53 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-03T07:52:42.614Z",
+      "created_at": "2026-11-03T07:52:42.614Z"
+    },
+    {
+      "id": 27258,
+      "source": "CNBC Tech",
+      "title_en": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
+      "description_en": "Blackstone President Jon Gray says AI infrastructure needs more equity as debt investors face concentration risks amid massive spending plans.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 06:46:36 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T07:52:42.902Z",
+      "created_at": "2026-11-03T07:52:42.902Z"
+    },
+    {
+      "id": 27259,
+      "source": "XOR Journal (TG)",
+      "title_en": "ОГО: GPT-6 Astra смогла улучшить результаты Qwen на математических задачах в 6 раз — и это  без дообучения 🤯Исследователи из MIT попросили Astra разобраться, почему небольшая моделька Qwen3.5-0.8B пл",
+      "description_en": "ОГО: GPT-6 Astra смогла улучшить результаты Qwen на математических задачах в 6 раз — и это  без дообучения 🤯Исследователи из MIT попросили Astra разобраться, почему небольшая моделька Qwen3.5-0.8B плохо решает математику. Оказалось, модель зацикливается в рассуждениях и не успевает дать ответ. Astra самостоятельно исправила 0,016% её весов, всего 131 тысячу параметров из 800 миллионов, и всё заработало.Результат на MATH-500 вырос с 8% до 48%. А на школьных задачах GSM8K — с 13% до 67%. Новый по",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10420",
+      "image_url": null,
+      "pub_date": "2026-11-03T06:10:17+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T07:52:47.309Z",
+      "created_at": "2026-11-03T07:52:47.309Z"
+    },
+    {
+      "id": 27260,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🤖 В Google скрестили роботов с комнатными растениямиИнженерам Google стало жаль неухоженные растения в офисе, и они решили дать им шанс позаботиться о себе самим.Так появился Sprout — полуавтономный ",
+      "description_en": "🤖 В Google скрестили роботов с комнатными растениямиИнженерам Google стало жаль неухоженные растения в офисе, и они решили дать им шанс позаботиться о себе самим.Так появился Sprout — полуавтономный ровер, в котором «живет» растение. Робот сам катается по офису вслед за солнечным светом и напоминает людям, если растение забыли полить.💻 За основу взяли TurtleBot 4 — набор для робототехники с открытым ПО. Дизайн корпуса придумали с помощью Nano Banana и напечатали на 3D-принтере, а глазами робот",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3795",
+      "image_url": null,
+      "pub_date": "2026-11-03T06:20:34+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T07:52:47.687Z",
+      "created_at": "2026-11-03T07:52:47.687Z"
+    },
+    {
+      "id": 27261,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🤖 Google Builds a Hybrid of Robot and HouseplantGoogle engineers, concerned by neglected plants around their office, decided to let them take care of themselves.So they created Sprout, a semi-autonom",
+      "description_en": "🤖 Google Builds a Hybrid of Robot and HouseplantGoogle engineers, concerned by neglected plants around their office, decided to let them take care of themselves.So they created Sprout, a semi-autonomous rover that could serve as a home for a living plant. It rolls around the office in search of sunlight and pings people when its monstera needs water.💻 The base for Sprout is an open-source robotics platform, TurtleBot 4. Nano Banana generated the robot's design, the body was 3D-printed, and a P",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2905",
+      "image_url": null,
+      "pub_date": "2026-11-03T07:29:53+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T07:52:47.747Z",
+      "created_at": "2026-11-03T07:52:47.747Z"
+    },
+    {
+      "id": 27262,
+      "source": "AI Post (TG)",
+      "title_en": "📚 Stanford is teaching how to build AI agents this fall, and the slides are free onlineThe course is CS329Z, \"Engineering AI Agents.\" Anyone can open the slides and the reading list on the course sit",
+      "description_en": "📚 Stanford is teaching how to build AI agents this fall, and the slides are free onlineThe course is CS329Z, \"Engineering AI Agents.\" Anyone can open the slides and the reading list on the course site, lecture by lecture.What it covers:1. Retrieval, tool use and an agent loop built from scratch, then how frameworks like DSPy do the same2. Agent memory, multi-agent systems and why they fail3. Optimization, data and evals: how to tell whether an agent actually works4. Coming up: a fireside chat w",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8692",
+      "image_url": "https://cdn4.telesco.pe/file/ftho0S9iT61nZGqcimWxh_ayiSyGNV1f1wYohpg2WFG8g0KQd2aLacu-D9E_nIl4_FL_9NifUkdblJI6b1cH2N-Sh3KhCiUmXhae3EGJYFGL26OdmuoTym0rvuYKFvoM-JdRwM2jVnQBzqfRwEsup0Kts2t8SfL6zs2kjaDWJ--hMkWZoStYY-7k8NK9qIB51PSUMHj63jD-J0tGVk6T7DLzL4RmJy-l7Ye91KYui5YcF6qgPW4-Uvl0bfQUrEBK1bLCl23AuYdnXVzg8a6ahQIjDxM4qJvaLXtCdrwG9WkrH9gXu4jZSI25_LubSR5c1xCYd7B9V6rog75uHF8Qbw.jpg",
+      "pub_date": "2026-11-03T04:29:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-03T07:52:48.042Z",
+      "created_at": "2026-11-03T07:52:48.042Z"
+    },
+    {
+      "id": 27263,
+      "source": "AI Post (TG)",
+      "title_en": "OpenAI CEO Sam Altman warns AI will expose far MORE security flaws than experts expect.AI is getting better at hunting down hidden security holes, he says, and it has only just started looking. “We ar",
+      "description_en": "OpenAI CEO Sam Altman warns AI will expose far MORE security flaws than experts expect.AI is getting better at hunting down hidden security holes, he says, and it has only just started looking. “We are in a world of many more serious vulnerabilities than we expect.”@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8693",
+      "image_url": null,
+      "pub_date": "2026-11-03T07:04:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T07:52:48.042Z",
+      "created_at": "2026-11-03T07:52:48.042Z"
+    },
+    {
+      "id": 27264,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Anthropic's IPO filing shows $895B in compute and lease commitmentsThe FT reports that $447.5B of it lands by the end of 2030. That's roughly $105B a year, against about $67B of projected 2026 reve",
+      "description_en": "🚨 Anthropic's IPO filing shows $895B in compute and lease commitmentsThe FT reports that $447.5B of it lands by the end of 2030. That's roughly $105B a year, against about $67B of projected 2026 revenue.The plan only works if Anthropic grows into a Microsoft-sized company, and the lease terms run 19 years.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/910",
+      "image_url": null,
+      "pub_date": "2026-11-03T06:04:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T07:52:48.436Z",
+      "created_at": "2026-11-03T07:52:48.436Z"
     }
   ]
 }
