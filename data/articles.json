@@ -592566,6 +592566,177 @@
       "priority": "hot",
       "fetchedAt": "2026-11-03T21:15:46.318Z",
       "created_at": "2026-11-03T21:15:46.318Z"
+    },
+    {
+      "id": 27377,
+      "source": "TechCrunch AI",
+      "title_en": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "description_en": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 21:43:08 +0000",
+      "author": "Jagmeet Singh",
+      "categories": [
+        "AI",
+        "Security",
+        "Venture",
+        "Ballistic Ventures",
+        "Exclusive"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T21:57:40.306Z",
+      "created_at": "2026-11-03T21:57:40.306Z"
+    },
+    {
+      "id": 27378,
+      "source": "Ars Technica",
+      "title_en": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+      "description_en": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Russia-Borodinsky-coal-mine-1152x648.jpg",
+      "pub_date": "Tue, 03 Nov 2026 20:39:55 +0000",
+      "author": "\n                    Jeremy Hsu\n                ",
+      "categories": [
+        "AI",
+        "ai data centers",
+        "data centers",
+        "Drone strikes",
+        "russia",
+        "Russia invasion of Ukraine",
+        "Russia war on Ukraine",
+        "Russian invasion of Ukraine",
+        "Russian war on Ukraine",
+        "Ukraine",
+        "Ukraine war"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T21:57:40.365Z",
+      "created_at": "2026-11-03T21:57:40.365Z"
+    },
+    {
+      "id": 27379,
+      "source": "OpenAI Blog",
+      "title_en": "Evernote turns AI-driven discovery into paid subscriptions",
+      "description_en": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/ads/customers/evernote",
+      "image_url": null,
+      "pub_date": "Wed, 28 Oct 2026 19:40:49 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-03T21:57:41.862Z",
+      "created_at": "2026-11-03T21:57:41.862Z"
+    },
+    {
+      "id": 27380,
+      "source": "The Guardian AI",
+      "title_en": "AI ‘godfather’ Geoffrey Hinton says it might turn out humans would have been better off without AI",
+      "description_en": "Nobel winner who devised concept of neural network warns AI could be near to triggering major incident such as power or banking shutdown \nOne of the “godfathers of AI”, Geoffrey Hinton, has said it could turn out that humans would have been better off never developing the technology as he warned it could trigger a large-scale incident this year or next such as a temporary blackout of financial or power systems.\nThe Nobel prize-winning computer scientist told the Guardian he is not a “doomer” abo",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "image_url": "https://i.guim.co.uk/img/media/2874e862dc2a0fc34d651f70e5ecffd542d947a6/543_22_2658_2128/master/2658.jpg?width=140&quality=85&auto=format&fit=max&s=72ea6b35d68dbf21a28aa061a29ce3fb",
+      "pub_date": "Tue, 03 Nov 2026 21:35:42 GMT",
+      "author": "Robert Booth UK technology editor",
+      "categories": [
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        },
+        {
+          "_": "Ethics",
+          "$": {
+            "domain": "https://www.theguardian.com/world/ethics"
+          }
+        },
+        {
+          "_": "Sam Altman",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/sam-altman"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T21:57:42.523Z",
+      "created_at": "2026-11-03T21:57:42.523Z"
+    },
+    {
+      "id": 27381,
+      "source": "Interesting Engineering",
+      "title_en": "Boston Dynamics cuts Stretch robot cabling by 81%, speeds up repairs in Gen 2 upgrade",
+      "description_en": "Hyundai-backed Boston Dynamics has unveiled Stretch Gen 2, a next-generation autonomous robot designed to unload...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/boston-dynamics-stretch-gen-2-robot",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 21:20:35 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T21:57:43.359Z",
+      "created_at": "2026-11-03T21:57:43.359Z"
+    },
+    {
+      "id": 27382,
+      "source": "CNBC Tech",
+      "title_en": "AMD stock jumps 7% on earnings as data center revenue nearly doubles",
+      "description_en": "AMD reported better-than-expected third-quarter results, driven by booming sales of AI chips",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 21:20:14 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T21:57:43.837Z",
+      "created_at": "2026-11-03T21:57:43.837Z"
     }
   ]
 }
