@@ -591280,6 +591280,705 @@
       "priority": "hot",
       "fetchedAt": "2026-11-03T16:30:29.678Z",
       "created_at": "2026-11-03T16:30:29.678Z"
+    },
+    {
+      "id": 27322,
+      "source": "The Verge AI",
+      "title_en": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+      "description_en": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 seconds of audio your watch's mic detected. \nApple is also releasing its redesigned Health app for testing today in the iOS 27.3 developer beta, and announce",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+      "image_url": null,
+      "pub_date": "2026-11-03T18:31:00.000Z",
+      "author": "Stevie Bonifield",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T19:06:47.449Z",
+      "created_at": "2026-11-03T19:06:47.449Z"
+    },
+    {
+      "id": 27323,
+      "source": "The Verge AI",
+      "title_en": "OpenAI says ChatGPT is catching up to Google in search",
+      "description_en": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google.\nAdam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said the company defines a search as any time a user inputs a query that results in a web search, as opposed to tasks like defining a term or a simple how-to explanation. (Fry di",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "image_url": null,
+      "pub_date": "2026-11-03T18:30:42.000Z",
+      "author": "Hayden Field",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T19:06:47.449Z",
+      "created_at": "2026-11-03T19:06:47.449Z"
+    },
+    {
+      "id": 27324,
+      "source": "The Verge AI",
+      "title_en": "Indie games are missing launch dates because Steam is backed up",
+      "description_en": "A screenshot from Food Devils, which is missing its planned launch today.\t\n\nMany indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates.\nFor example, Studio Daimon, the team behind an upcoming title called Food Devils, had planned to launch the game in early access today after submitting its build on October 12th. But the game is \"s",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
+      "image_url": null,
+      "pub_date": "2026-11-03T18:14:50.000Z",
+      "author": "Jay Peters",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T19:06:47.449Z",
+      "created_at": "2026-11-03T19:06:47.449Z"
+    },
+    {
+      "id": 27325,
+      "source": "The Verge AI",
+      "title_en": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+      "description_en": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch.\nThe first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.\" When you pick a theme, Netflix will show you recommendations that match it. If you don't like a recommendation, you can tell that to Netflix, and the app will remember it.\nThe company says that AI Discov",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+      "image_url": null,
+      "pub_date": "2026-11-03T18:00:00.000Z",
+      "author": "Jay Peters",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T19:06:47.450Z",
+      "created_at": "2026-11-03T19:06:47.450Z"
+    },
+    {
+      "id": 27326,
+      "source": "The Verge AI",
+      "title_en": "Google is entirely disabling Search in schools that don&#8217;t want AI",
+      "description_en": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will be entirely off\" for K-12 student accounts unless \"administrators explicitly turn them on.\"\nAdministrators will not be given the option to toggle Gemini-powered features off without disabling Search, ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+      "image_url": null,
+      "pub_date": "2026-11-03T17:00:04.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-03T19:06:47.450Z",
+      "created_at": "2026-11-03T19:06:47.450Z"
+    },
+    {
+      "id": 27327,
+      "source": "TechCrunch AI",
+      "title_en": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "description_en": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 18:42:16 +0000",
+      "author": "Aisha Malik",
+      "categories": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "Netflix"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T19:06:47.515Z",
+      "created_at": "2026-11-03T19:06:47.515Z"
+    },
+    {
+      "id": 27328,
+      "source": "TechCrunch AI",
+      "title_en": "Anthropic is still grappling with the economics of compute",
+      "description_en": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 17:07:01 +0000",
+      "author": "Russell Brandom",
+      "categories": [
+        "AI",
+        "Anthropic"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T19:06:47.515Z",
+      "created_at": "2026-11-03T19:06:47.515Z"
+    },
+    {
+      "id": 27329,
+      "source": "TechCrunch AI",
+      "title_en": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "description_en": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 16:30:34 +0000",
+      "author": "Aisha Malik",
+      "categories": [
+        "AI",
+        "Education",
+        "Google",
+        "Google Search"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-03T19:06:47.515Z",
+      "created_at": "2026-11-03T19:06:47.515Z"
+    },
+    {
+      "id": 27330,
+      "source": "Ars Technica",
+      "title_en": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
+      "description_en": "Google has cut ties with the company behind the botnet campaign.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/mecool-malware.jpg",
+      "pub_date": "Tue, 03 Nov 2026 17:08:21 +0000",
+      "author": "\n                    Ryan Whitwam\n                ",
+      "categories": [
+        "Google",
+        "Security",
+        "android tv",
+        "botnets",
+        "google",
+        "malware",
+        "security"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T19:06:47.555Z",
+      "created_at": "2026-11-03T19:06:47.555Z"
+    },
+    {
+      "id": 27331,
+      "source": "Ars Technica",
+      "title_en": "This space company is betting its future on a propellant available everywhere",
+      "description_en": "Is that water in your spacecraft, or are you just happy to see the delta-V?",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Argonaut-Transit-to-Moon-16x9-1-1152x648.jpg",
+      "pub_date": "Tue, 03 Nov 2026 16:50:32 +0000",
+      "author": "\n                    Eric Berger\n                ",
+      "categories": [
+        "Space",
+        "argo space",
+        "space",
+        "water propulsion"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-03T19:06:47.555Z",
+      "created_at": "2026-11-03T19:06:47.555Z"
+    },
+    {
+      "id": 27332,
+      "source": "Ars Technica",
+      "title_en": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
+      "description_en": "Meta faces pressure to protect No Kings Instagram on election day.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/zuck-trump-no-kings-1152x648.jpg",
+      "pub_date": "Tue, 03 Nov 2026 15:39:30 +0000",
+      "author": "\n                    Ashley Belanger\n                ",
+      "categories": [
+        "Features",
+        "Policy",
+        "Donald Trump",
+        "election content",
+        "election misinformation",
+        "Mark Zuckerberg",
+        "meta",
+        "no kings",
+        "trump administration"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-03T19:06:47.555Z",
+      "created_at": "2026-11-03T19:06:47.555Z"
+    },
+    {
+      "id": 27333,
+      "source": "Ars Technica",
+      "title_en": "EPA throws in the towel on policing air pollution from factory farms",
+      "description_en": "Critics say EPA is effectively abandoning Clean Air Act enforcement at factory farms.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/factory-farm-1152x648.jpg",
+      "pub_date": "Tue, 03 Nov 2026 14:49:00 +0000",
+      "author": "\n                    Georgina Gustin, Inside Climate News\n                ",
+      "categories": [
+        "Policy",
+        "clean air act",
+        "EPA",
+        "factory farming",
+        "methane emissions",
+        "syndication"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-03T19:06:47.556Z",
+      "created_at": "2026-11-03T19:06:47.556Z"
+    },
+    {
+      "id": 27334,
+      "source": "The Decoder",
+      "title_en": "AI agents take over at SETI's Allen Telescope Array, scanning for extraterrestrial intelligence",
+      "description_en": "The SETI Institute and Breakthrough Listen are now using AI agents at the Allen Telescope Array to control the telescope and analyze incoming radio signals. Tasks that used to take weeks can now wrap up in hours, and the team says the system detected a pulsar in the Crab Nebula in real time for the first time.\nThe article AI agents take over at SETI's Allen Telescope Array, scanning for extraterrestrial intelligence appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/ai-agents-take-over-at-setis-allen-telescope-array-scanning-for-extraterrestrial-intelligence/",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 16:51:18 +0000",
+      "author": "Manuel Uth",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Short News",
+        "Astronomy",
+        "Nemotron",
+        "Nvidia"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-03T19:06:48.846Z",
+      "created_at": "2026-11-03T19:06:48.846Z"
+    },
+    {
+      "id": 27335,
+      "source": "Hugging Face Blog",
+      "title_en": "StateBench: Testing how language models track state changes over long documents",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/allenai/statebench",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 17:15:21 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T19:06:49.230Z",
+      "created_at": "2026-11-03T19:06:49.230Z"
+    },
+    {
+      "id": 27336,
+      "source": "Hugging Face Blog",
+      "title_en": "Palette: teaching a small model to build decks in your design language",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 16:35:36 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-03T19:06:49.231Z",
+      "created_at": "2026-11-03T19:06:49.231Z"
+    },
+    {
+      "id": 27337,
+      "source": "Hugging Face Blog",
+      "title_en": "CWE-bench v2: More coverage, quality, and transparency",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/cwe-bench",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-03T19:06:49.231Z",
+      "created_at": "2026-11-03T19:06:49.231Z"
+    },
+    {
+      "id": 27338,
+      "source": "OpenAI Blog",
+      "title_en": "Accelerating engineering for the physical world",
+      "description_en": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 12:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Research"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-03T19:06:49.277Z",
+      "created_at": "2026-11-03T19:06:49.277Z"
+    },
+    {
+      "id": 27339,
+      "source": "New Atlas",
+      "title_en": "Crafty cover lets DIY biker keep cycling in the rain",
+      "description_en": "It's all very well and good to hear what big companies like Apple and Toyota are up to, but if you really want to be inspired, there's nothing like seeing what regular folks have made in their own backyards and garages. Quandell Williams is just such a maker, and his DIY weatherproof ebike enclosure is definitely inspirational.\nContinue Reading\nCategory: Bicycles, Transport\nTags: ebikes, DIY, Weatherproof, Cycling",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/bicycles/diy-ebike-rain-enclosure/",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 16:43:42 GMT",
+      "author": "Ben Coxworth",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-03T19:06:50.639Z",
+      "created_at": "2026-11-03T19:06:50.639Z"
+    },
+    {
+      "id": 27340,
+      "source": "The Guardian AI",
+      "title_en": "Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’",
+      "description_en": "Firm reveals details about how its cryptocurrency exchange was compromised, saying operation began in June\nThe hackers behind the $6.3bn (£4.7bn) Binance heist used bogus job interviews, malicious software and an internal AI tool, the company has revealed.\nThe world’s largest cryptocurrency exchange was compromised in an operation that began with an inadvertent download of malware in June, led to a recruitment scam in September, and then a raid last week of “hot wallets” where billions of dollar",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency",
+      "image_url": "https://i.guim.co.uk/img/media/f67cc40e017c9be99ab108202d9308c5bb1694fb/356_0_3333_2666/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=487438a07d6c27b83b2345b8ed2b3fd0",
+      "pub_date": "Tue, 03 Nov 2026 19:00:23 GMT",
+      "author": "Dan Milmo Global technology editor",
+      "categories": [
+        {
+          "_": "Binance",
+          "$": {
+            "domain": "https://www.theguardian.com/business/binance"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Cryptocurrencies",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/cryptocurrencies"
+          }
+        },
+        {
+          "_": "E-commerce",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/efinance"
+          }
+        },
+        {
+          "_": "Internet",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/internet"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T19:06:50.943Z",
+      "created_at": "2026-11-03T19:06:50.943Z"
+    },
+    {
+      "id": 27341,
+      "source": "The Guardian AI",
+      "title_en": "Datacentres are deeply unpopular – so the geniuses at OpenAI are rebranding them | Arwa Mahdawi",
+      "description_en": "These resource-guzzling centres drive up utility bills and are hated across the political spectrum. Cue a clunky, but potentially influential, new name for them\nJesus may have turned water into wine, but Donald Trump has done one better: he turned Lake Ontario into Lake America and the Gulf of Mexico into the Gulf of America. And then, for his next trick, he insisted we all stop talking about artificial intelligence (AI) and call it superintelligence (SI) instead.\nThose, of course, are only a fe",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/03/datacentres-are-deeply-unpopular-so-the-geniuses-at-openai-are-rebranding-them",
+      "image_url": "https://i.guim.co.uk/img/media/640fd594551b33a07313c7fd9f6d98139a5f7cdc/919_0_4597_3677/master/4597.jpg?width=140&quality=85&auto=format&fit=max&s=efa23937d835f52173f3acb718ced3ae",
+      "pub_date": "Tue, 03 Nov 2026 16:58:55 GMT",
+      "author": "Arwa Mahdawi",
+      "categories": [
+        {
+          "_": "Donald Trump",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/donaldtrump"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Datacentres",
+          "$": {
+            "domain": "https://www.theguardian.com/world/datacentres"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Datacenters – US",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/datacenters--us-"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-03T19:06:50.944Z",
+      "created_at": "2026-11-03T19:06:50.944Z"
+    },
+    {
+      "id": 27342,
+      "source": "The Guardian AI",
+      "title_en": "Bakers and cake lovers: have you used AI for inspiration?",
+      "description_en": "Whether you are a customer who has used AI to show a baker your dream cake, or a baker who has to up their game - or turn down – orders based on AI inspo, we want to hear from you\nAI tools like Claude and ChatGPT are now widely used – including for creative inspiration. We are keen to hear from people on what happens when AI meets a physical art: baking.\nWhether you are a customer who has used AI to show a baker your dream cake, or a baker who has to up their game - or turn down – orders based o",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/food/2026/nov/03/bakers-and-cake-lovers-have-you-used-ai-for-inspiration",
+      "image_url": "https://i.guim.co.uk/img/media/08968f5293e74c24c0f3502443ddcc2ccb8a2976/0_2785_5464_4369/master/5464.jpg?width=140&quality=85&auto=format&fit=max&s=f36a8806fd4c50dd82073b2ff8d88bcb",
+      "pub_date": "Tue, 03 Nov 2026 16:42:27 GMT",
+      "author": "Guardian community team",
+      "categories": [
+        {
+          "_": "Baking",
+          "$": {
+            "domain": "https://www.theguardian.com/food/baking"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Food",
+          "$": {
+            "domain": "https://www.theguardian.com/food/food"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-03T19:06:50.944Z",
+      "created_at": "2026-11-03T19:06:50.944Z"
+    },
+    {
+      "id": 27343,
+      "source": "Interesting Engineering",
+      "title_en": "Elbit Systems adds electronic warfare and 30mm guns to its naval defense suite",
+      "description_en": "Elbit Systems, an Israeli defense company, said Nov. 3 that it is expanding a naval...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/naval-protection-suite-elbit",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 18:28:31 +0000",
+      "author": "Kamberskid",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T19:06:52.839Z",
+      "created_at": "2026-11-03T19:06:52.839Z"
+    },
+    {
+      "id": 27344,
+      "source": "Interesting Engineering",
+      "title_en": "China’s HQ-9B air defense system destroys maneuvering missile in tests",
+      "description_en": "Authorities in Beijing announced that the PLA Air Force utilized the HQ-9B surface-to-air missile platform...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/china-air-defense-drill",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 18:23:59 +0000",
+      "author": "Kaushalkishore",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T19:06:52.840Z",
+      "created_at": "2026-11-03T19:06:52.840Z"
+    },
+    {
+      "id": 27345,
+      "source": "CNBC Tech",
+      "title_en": "Jim Cramer likes CrowdStrike's new 'AI kill switch' and the cyber stock",
+      "description_en": "Jim Cramer sees the tool as a significant growth driver for CrowdStrike and a breakthrough for the broader industry.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/03/jim-cramer-likes-crowdstrikes-new-ai-kill-switch-and-the-cyber-stock.html",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 18:56:20 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T19:06:53.229Z",
+      "created_at": "2026-11-03T19:06:53.229Z"
+    },
+    {
+      "id": 27346,
+      "source": "CNBC Tech",
+      "title_en": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
+      "description_en": "Meta is aiming to raise between $20 billion and $25 billion in a bond sale as the company ramps up spending on infrastructure and AI models and services.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 18:33:49 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T19:06:53.229Z",
+      "created_at": "2026-11-03T19:06:53.229Z"
+    },
+    {
+      "id": 27347,
+      "source": "CNBC Tech",
+      "title_en": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
+      "description_en": "Tuesday's midterm elections follow record spending on AI-generated political ads.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 17:37:31 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T19:06:53.229Z",
+      "created_at": "2026-11-03T19:06:53.229Z"
+    },
+    {
+      "id": 27348,
+      "source": "CNBC Tech",
+      "title_en": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
+      "description_en": "Binance has replenished 98% of $6.34 billion in affected assets, according to a security report the crypto exchange issued Tuesday.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 18:40:37 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T19:06:53.229Z",
+      "created_at": "2026-11-03T19:06:53.229Z"
+    },
+    {
+      "id": 27349,
+      "source": "Tom's Hardware",
+      "title_en": "Windows 11 8GB RAM configurations get a performance boost",
+      "description_en": "Microsoft claims that it has made drastic improvements to the performance of Windows 11 while using 8GB of RAM.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/windows/windows-11-8gb-ram-configurations-get-a-performance-boost-as-ai-demand-keeps-pushing-prices-up-microsoft-says-windows-is-now-20-percent-more-responsive-multitasking-40-percent-faster-on-memory-constrained-machines",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/cqwbHNNf5x7Mp92imnEW2C-1920-80.jpg",
+      "pub_date": "Tue, 03 Nov 2026 17:00:00 +0000",
+      "author": " Stephen Warwick ",
+      "categories": [
+        "Windows",
+        "Software",
+        "Operating Systems"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-03T19:06:53.347Z",
+      "created_at": "2026-11-03T19:06:53.347Z"
+    },
+    {
+      "id": 27350,
+      "source": "AI Post (TG)",
+      "title_en": "💻 Coding with AI? A Claude Code engineer's rules for keeping your own skillsAddy Osmani, who works on Claude Code at Anthropic, calls the trap \"cognitive surrender\": you stop checking, and the agent'",
+      "description_en": "💻 Coding with AI? A Claude Code engineer's rules for keeping your own skillsAddy Osmani, who works on Claude Code at Anthropic, calls the trap \"cognitive surrender\": you stop checking, and the agent's answer simply becomes yours. The code looks clean, the tests pass, and later nobody on the team knows why the system works the way it does.It isn't only coders. In a Wharton study he cites, people with an AI on hand accepted its wrong answers 73% of the time, and felt more confident doing it.His r",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8694",
+      "image_url": "https://cdn4.telesco.pe/file/Vqoh-ZWBn3P_ku7lQnM7IKFyqfPRBQ3k8NVkxsfJ67rdieBwF393wNYZvqHgRBCa01Xy6j6yvRwJPRYzWJRNLfpiAtioujlb3nNQNyQr8HKo1Ynh2vrP9AkMo0ZKoHyhVexAJCG7DWwFfi7HvNKGR5B7JMCYcq4i1HHmkx2OGu7kc3fOJyCQyxl_TIiC953kvElQsBPap4RXaRprOGDTPnIZK10ZrYuejzskfnQ-v0rpmLGer1QcPfCAz8QW18Of4PQ-5Dd1rzDUw7POD4DlOfRbTJTieG1ZPZ_c19v05WrZZTePqupVQ1jZ9yrmsCeXIIeYwtSY6QrP0aysFQOYHg.jpg",
+      "pub_date": "2026-11-03T17:47:04+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T19:06:59.231Z",
+      "created_at": "2026-11-03T19:06:59.231Z"
+    },
+    {
+      "id": 27351,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Nvidia reportedly caps Chinese customers at 49% of a data center operator's businessTom's Hardware reports that the rule applies globally, and Nvidia hasn't confirmed it.• The limit is 49%, so at l",
+      "description_en": "🚨 Nvidia reportedly caps Chinese customers at 49% of a data center operator's businessTom's Hardware reports that the rule applies globally, and Nvidia hasn't confirmed it.• The limit is 49%, so at least 51% must be non-Chinese• Operators outside China would have to check where customers come from• Neoclouds renting out GPUs are the likely targetsA cap on China that's enforced through the landlords.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/914",
+      "image_url": null,
+      "pub_date": "2026-11-03T18:08:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T19:06:59.460Z",
+      "created_at": "2026-11-03T19:06:59.460Z"
     }
   ]
 }
