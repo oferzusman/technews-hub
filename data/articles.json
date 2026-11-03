@@ -591203,6 +591203,83 @@
       "priority": "hot",
       "fetchedAt": "2026-11-03T15:34:37.240Z",
       "created_at": "2026-11-03T15:34:37.240Z"
+    },
+    {
+      "id": 27318,
+      "source": "The Verge AI",
+      "title_en": "Midterm elections 2026: all the news",
+      "description_en": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. While this year’s races are expected to be most broadly defined by affordability issues, there’s several topics impacting the tech industry that appear to be on voters’ minds. \nAmong them are concerns about data centers, and whether voters will have to bear the burden of higher energy costs, AI safety,",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
+      "image_url": null,
+      "pub_date": "2026-11-03T15:58:39.000Z",
+      "author": "Lauren Feiner",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T16:30:26.116Z",
+      "created_at": "2026-11-03T16:30:26.116Z"
+    },
+    {
+      "id": 27319,
+      "source": "TechCrunch AI",
+      "title_en": "Apple restricts dating apps and AI companions to users 18 and up",
+      "description_en": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 15:38:27 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "AI",
+        "Apps",
+        "ai companion",
+        "app store",
+        "online dating"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T16:30:26.156Z",
+      "created_at": "2026-11-03T16:30:26.156Z"
+    },
+    {
+      "id": 27320,
+      "source": "Hugging Face Blog",
+      "title_en": "Same Model, Different Harness: CUGA, Hermes, and Deep Agents — When to Pick CUGA?",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/ibm-research/cuga-harness",
+      "image_url": null,
+      "pub_date": "Tue, 03 Nov 2026 15:57:39 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T16:30:27.719Z",
+      "created_at": "2026-11-03T16:30:27.719Z"
+    },
+    {
+      "id": 27321,
+      "source": "Tom's Hardware",
+      "title_en": "OpenAI introduces program to reduce AI data center energy demand during peak hours — company testing Grid Protectors Program system in Georgia",
+      "description_en": "The Grid Protectors Program applies load shedding, a technique in use since the 1970s, to data centers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/openai-introduces-program-to-reduce-ai-data-center-energy-demand-during-peak-hours-company-testing-grid-protectors-program-system-in-georgia",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/jLrSEhBfozFDLRHWvfzCyJ-1920-80.jpg",
+      "pub_date": "Tue, 03 Nov 2026 15:56:51 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Data Centers",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-03T16:30:29.678Z",
+      "created_at": "2026-11-03T16:30:29.678Z"
     }
   ]
 }
