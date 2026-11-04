@@ -593390,6 +593390,40 @@
       "priority": "hot",
       "fetchedAt": "2026-11-04T06:51:43.586Z",
       "created_at": "2026-11-04T06:51:43.586Z"
+    },
+    {
+      "id": 27410,
+      "source": "XOR Journal (TG)",
+      "title_en": "Теперь ИИ-агенту можно выдать собственный Mac, чтобы он не хозяйничал на вашем — для этого вышел бесплатный terminal-mac 😱Инструмент запускает отдельную macOS прямо в терминале. Внутри Claude Code, C",
+      "description_en": "Теперь ИИ-агенту можно выдать собственный Mac, чтобы он не хозяйничал на вашем — для этого вышел бесплатный terminal-mac 😱Инструмент запускает отдельную macOS прямо в терминале. Внутри Claude Code, Codex и другие агенты могут самостоятельно открывать приложения, нажимать кнопки, тестировать программы и выполнять задачи, пока вы спокойно работаете на основном компьютере. За всеми действиями агента можно наблюдать в реальном времени. Забираем 👌@xor_journal",
+      "title_he": "Mac ווירטואלי בחינם ל-AI: עכשיו אתה יכול לתת לאגנט שלך מחשב משלו כדי שלא יהרוס את שלך 🤖",
+      "description_he": "יצא כלי חדש שמריץ macOS נפרדת ישר בתוך הטרמינל, כך שה-AI agents כמו Claude יכולים לעשות כל מה שהם רוצים בלי להיות ליד המחשב האמיתי שלך. האגנטים יכולים לפתוח אפליקציות, ללחוץ על כפתורים, לבדוק תוכניות והכל זה בזמן אמת, בזמן שאתה עובד בשלום על המחשב הראשי שלך. תוכל גם לעקוב אחרי כל הצעדים של ה-AI כדי להיות בטוח שהוא לא עושה משהו מוזר.",
+      "link": "https://t.me/xor_journal/10424",
+      "image_url": null,
+      "pub_date": "2026-11-04T07:00:20+00:00",
+      "author": null,
+      "categories": [],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-11-04T07:39:02.835Z",
+      "created_at": "2026-11-04T07:39:02.835Z"
+    },
+    {
+      "id": 27411,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🤖 Tencent drops Hy4, and it's leaning hard into visuals and animationTencent released Hy4, the next generation of its Hy model family. The pitch centers on visual and motion generation, the exact are",
+      "description_en": "🤖 Tencent drops Hy4, and it's leaning hard into visuals and animationTencent released Hy4, the next generation of its Hy model family. The pitch centers on visual and motion generation, the exact area where Claude Opus has been getting attention lately.No benchmark numbers or training details are out yet.",
+      "title_he": "🤖 טנסנט השיקה את Hy4 - וזה מתמקד בגדול בעולם הוויזואליס וההנפשה",
+      "description_he": "טנסנט הבישה את Hy4, הדור הבא של משפחת המודלים Hy שלהם, וכל ההימור הוא על יצירת תוכן ויזואלי ותנועה - בדיוק הטריטוריה שבה Claude Opus משיך לחטוף את ההשתומה. בשלב הזה עדיין אין לנו מספרים בנושא performance או פרטים על האימון, אבל מובן שטנסנט חוזרת לקרב בשוק ה-AI הגדול.",
+      "link": "https://t.me/prompt/919",
+      "image_url": null,
+      "pub_date": "2026-11-04T07:37:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-11-04T07:39:03.771Z",
+      "created_at": "2026-11-04T07:39:03.771Z"
     }
   ]
 }
