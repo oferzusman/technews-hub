@@ -1,9 +1,9 @@
 {
-  "total": 27411,
-  "translated": 27403,
+  "total": 27421,
+  "translated": 27413,
   "untranslated": 8,
-  "today": 29,
-  "week": 725,
+  "today": 39,
+  "week": 735,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2389,
-      "translated": 2389,
+      "total": 2390,
+      "translated": 2390,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -31,9 +31,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1628,
-      "translated": 1626,
-      "lastDate": "2026-11-04T05:22:01+00:00"
+      "total": 1629,
+      "translated": 1627,
+      "lastDate": "2026-11-04T08:32:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -43,9 +43,9 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1470,
-      "translated": 1470,
-      "lastDate": "2026-11-02T10:33:33.000Z"
+      "total": 1474,
+      "translated": 1474,
+      "lastDate": "2026-11-03T19:30:48.000Z"
     },
     {
       "name": "The Guardian AI",
@@ -85,15 +85,15 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 789,
-      "translated": 789,
-      "lastDate": "2026-11-04T07:37:00+00:00"
+      "total": 790,
+      "translated": 790,
+      "lastDate": "2026-11-04T08:27:14+00:00"
     },
     {
       "name": "Backdoor (TG)",
-      "total": 693,
-      "translated": 692,
-      "lastDate": "2026-11-03T21:14:22+00:00"
+      "total": 694,
+      "translated": 693,
+      "lastDate": "2026-11-04T08:41:24+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -103,9 +103,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 510,
-      "translated": 508,
-      "lastDate": "2026-11-03T12:28:16+00:00"
+      "total": 511,
+      "translated": 509,
+      "lastDate": "2026-11-04T07:39:31+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -121,9 +121,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 359,
-      "translated": 359,
-      "lastDate": "2026-11-03T11:06:49+00:00"
+      "total": 360,
+      "translated": 360,
+      "lastDate": "2026-11-04T07:40:01+00:00"
     },
     {
       "name": "The Register",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-04T07:40:43.059Z"
+  "generatedAt": "2026-11-04T08:58:19.951Z"
 }
