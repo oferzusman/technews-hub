@@ -596420,6 +596420,106 @@
       "priority": "hot",
       "fetchedAt": "2026-11-05T08:30:27.348Z",
       "created_at": "2026-11-05T08:30:27.348Z"
+    },
+    {
+      "id": 27552,
+      "source": "The Guardian AI",
+      "title_en": "Activists across Europe prepare two days of protests against datacentres",
+      "description_en": "More than 100 campaign groups will join together in 15 countries this week to call for a halt to major AI projects\nProtesters across Europe are planning two days of action against datacentres this week with demonstrations taking place in 15 countries.\nMore than 100 groups are joining together for the “Stop Dirty Data Centres” events on Friday and Saturday. They are calling for a moratorium on large projects, citing environmental and social costs that “we can no longer afford”.\n Continue reading.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/world/2026/nov/05/activists-across-europe-protests-ai-against-datacentres",
+      "image_url": "https://i.guim.co.uk/img/media/d71ddf5d851c953d692e59f548ed70931dae9c83/474_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=3c80ad70fbeac138911af992a1fb8413",
+      "pub_date": "Thu, 05 Nov 2026 09:00:01 GMT",
+      "author": "Dan Milmo Global technology editor",
+      "categories": [
+        {
+          "_": "Datacentres",
+          "$": {
+            "domain": "https://www.theguardian.com/world/datacentres"
+          }
+        },
+        {
+          "_": "Datacentres - UK",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/datacentres"
+          }
+        },
+        {
+          "_": "Datacenters – US",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/datacenters--us-"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "Activism",
+          "$": {
+            "domain": "https://www.theguardian.com/world/activism"
+          }
+        },
+        {
+          "_": "Protest",
+          "$": {
+            "domain": "https://www.theguardian.com/world/protest"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T09:50:10.479Z",
+      "created_at": "2026-11-05T09:50:10.479Z"
+    },
+    {
+      "id": 27553,
+      "source": "Backdoor (TG)",
+      "title_en": "Заглядываем в будущее ИИ на AI Journey 2026 — узнайте, что происходит в мире нейросетей, послушайте экспертов рынка и находитеединомышленников. Целых три дня погружения в ИИ. • 27 ноября — день «Бизне",
+      "description_en": "Заглядываем в будущее ИИ на AI Journey 2026 — узнайте, что происходит в мире нейросетей, послушайте экспертов рынка и находитеединомышленников. Целых три дня погружения в ИИ. • 27 ноября — день «Бизнес»: реальные ИИ-кейсы и продукты• 28 ноября — день «Наука»: свежие исследования и открытия Гости увидят лидеров индустрии, посетят выставочные зоны и пообщаются с коллегами по цеху.  Когда и где: 27–28 ноября 2026 годаМосква, Кутузовский проспект, 32, корп. 1, штаб-квартира Сбера.Успей зарегистриров",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32710",
+      "image_url": "https://cdn4.telesco.pe/file/J3U-dHpzY5rH3cgJ7u_-hfmgH_PdFftNcnkAhClTgcCHn7nHgxtUkIcC0FOO9GLPZC-hKd3d1DrldiJd6j1-lpt7uuUs2jyznGaa0dvU3lHrqe3OaXdBq7o16AjbfdjiQR66eMgtyvg2NziDWEaRcx1PHXuWsDXa4f8dz71DC1f2AMCZo98Dk-T4_R-91A_wMVl2IWpDmUCxNRs55QzHTdtxOUF7PaIZ6L5C1Ms6m5-ZS9pW13zcbbPTV7oWLWKmE24i8qi9whfb5kMjXN1zEmjtK3U6fO1Acu4Tke-l1tl1rL_9gZkNRfUxTRhuDv8AnDMMPkstyl8f8XzUcb029Q.jpg",
+      "pub_date": "2026-11-05T09:47:57+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T09:50:16.752Z",
+      "created_at": "2026-11-05T09:50:16.752Z"
+    },
+    {
+      "id": 27554,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 A Chinese lab just let anyone download an AI that keeps up with Claude and GPTMoonshot AI posted the full weights of Kimi K3.1 Pro on Hugging Face. Anyone can now run the model on their own hardwar",
+      "description_en": "🤖 A Chinese lab just let anyone download an AI that keeps up with Claude and GPTMoonshot AI posted the full weights of Kimi K3.1 Pro on Hugging Face. Anyone can now run the model on their own hardware.It's enormous: 2.8 trillion parameters, with 104 billion active at a time, and it can read up to 1 million tokens at once.On Moonshot's own tests it beats Claude Opus 5.5, Claude Fable 5.1 and GPT-6 Astra on the SWE Marathon coding benchmark: 51.7 against 46.3, 45.6 and 42.5. On Humanity's Last Ex",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8710",
+      "image_url": "https://cdn4.telesco.pe/file/lc5y0HR2wVi3Lu3Ui9aeB7Qs4uHqUUZ88uQYlodpBy0rt_dRjC6w8KvRY5e8CLxsRZfbK7MOMbqB5fEA_NxXayDXirJjYlDbvAI499PL1kZTSBfEej3i-XOX93myFgnZBawc6mO2zhAf3VAiOdSNQG2YrLeuMQ_qZPQyWIwjig7WCUp_cx-sOFGRU_iNNt95jYUDhsvOfTQD75ghzVSWJ1AhM6T3K34lz1XyEVIEevYrn2OGfNy0Ze5MBiwnHDcT_7OVz17zTyTYH3XZZz_3YsuGI0lKm1kT6F9lXdaHpVb7p7SKZdMFQty3kipoBDxMszSSiNDwfEjJg30i1Eg_cg.jpg",
+      "pub_date": "2026-11-05T09:10:25+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T09:50:17.293Z",
+      "created_at": "2026-11-05T09:50:17.293Z"
     }
   ]
 }
