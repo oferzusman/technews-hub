@@ -597807,6 +597807,135 @@
       "priority": "hot",
       "fetchedAt": "2026-11-05T17:18:10.081Z",
       "created_at": "2026-11-05T17:18:10.081Z"
+    },
+    {
+      "id": 27615,
+      "source": "The Guardian AI",
+      "title_en": "Nasdaq heading for worst day in 18 months as Wall Street sustains widespread losses",
+      "description_en": "Share index slumps 5% amid signs AI industry will face tougher regulation after Democrats’ midterm elections success\nThe tech-heavy US Nasdaq share index is on track for its worst day in 18 months after slumping by up to 5% on Thursday amid growing signs that the artificial intelligence industry will face tougher regulation after this week’s midterm elections.\nAs Wall Street sustained widespread losses, the Nasdaq composite tumbled into ‘correction territory’ – more than 10% below its recent rec",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
+      "image_url": "https://i.guim.co.uk/img/media/3a568c8ddd6dd680b69418b3c568815a7cbbea29/261_0_3478_2784/master/3478.jpg?width=140&quality=85&auto=format&fit=max&s=06500e89cb38f5ecdd58baa634d2acb4",
+      "pub_date": "Thu, 05 Nov 2026 17:31:04 GMT",
+      "author": "Graeme Wearden",
+      "categories": [
+        {
+          "_": "Nasdaq",
+          "$": {
+            "domain": "https://www.theguardian.com/business/nasdaq"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "US markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/us-markets"
+          }
+        },
+        {
+          "_": "Dow Jones",
+          "$": {
+            "domain": "https://www.theguardian.com/business/dowjones"
+          }
+        },
+        {
+          "_": "Datacenters – US",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/datacenters--us-"
+          }
+        },
+        {
+          "_": "US midterm elections 2026",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-midterm-elections-2026"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T17:41:30.237Z",
+      "created_at": "2026-11-05T17:41:30.237Z"
+    },
+    {
+      "id": 27616,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ OpenAI дропнули мега-ХАКЕРА — моделька GPT-6 Cyber взломала ядро Linux и отыскала больше тысячи уязвимостей. • Да, это универсальный хакер, который заточен, чтобы взламывать любой софт.• Модель наш",
+      "description_en": "⚡️ OpenAI дропнули мега-ХАКЕРА — моделька GPT-6 Cyber взломала ядро Linux и отыскала больше тысячи уязвимостей. • Да, это универсальный хакер, который заточен, чтобы взламывать любой софт.• Модель нашла 81 новую опаснейшую дыру в FireFox, больше 1000 уязвимостей в Linux.• ИИ проводит 95% успешных атак на тестовые серверы — так не могут сделать даже топовые хакерские команды.• На 16% круче предыдущего поколения модели для кибербезопасности.• При этом при работе с рисковыми операциями совместно со",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32719",
+      "image_url": null,
+      "pub_date": "2026-11-05T17:29:19+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T17:41:36.666Z",
+      "created_at": "2026-11-05T17:41:36.666Z"
+    },
+    {
+      "id": 27617,
+      "source": "XOR Journal (TG)",
+      "title_en": "OpenAI выпустила GPT-6 Cyber — и это просто монстр эксплойтов и уязвимостей 😨По данным компании, модель уже помогла обнаружить 81 ранее неизвестную уязвимость Firefox, взломала Linux 948 разными спос",
+      "description_en": "OpenAI выпустила GPT-6 Cyber — и это просто монстр эксплойтов и уязвимостей 😨По данным компании, модель уже помогла обнаружить 81 ранее неизвестную уязвимость Firefox, взломала Linux 948 разными способами и успешно выполнила 95% заданий по удалённому взлому тестовых систем с GitLab, PostgreSQL и Jenkins. А в бенче ExploitGym она выбила 48,5% и обошла всех.При этом OpenAI присвоила модели критический уровень киберриска: она способна разрабатывать эксплойты для уязвимостей нулевого дня без помощи",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10433",
+      "image_url": null,
+      "pub_date": "2026-11-05T17:24:16+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T17:41:36.748Z",
+      "created_at": "2026-11-05T17:41:36.748Z"
+    },
+    {
+      "id": 27618,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 OpenAI's GPT-6 Cyber is restricted-access, and OpenAI rates it \"Critical\" for cybersecurityOpenAI introduced a model built to help security researchers validate exploitable vulnerabilities, check i",
+      "description_en": "🚨 OpenAI's GPT-6 Cyber is restricted-access, and OpenAI rates it \"Critical\" for cybersecurityOpenAI introduced a model built to help security researchers validate exploitable vulnerabilities, check impact, and harden patches before they ship. It's trained to stay in authorized scope and report results accurately.\"Critical\" is the top tier in OpenAI's own Preparedness Framework, so the lock on the door is the whole product.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/934",
+      "image_url": null,
+      "pub_date": "2026-11-05T17:19:09+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T17:41:37.793Z",
+      "created_at": "2026-11-05T17:41:37.793Z"
     }
   ]
 }
