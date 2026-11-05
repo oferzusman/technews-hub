@@ -595876,6 +595876,550 @@
       "priority": "hot",
       "fetchedAt": "2026-11-05T02:39:24.361Z",
       "created_at": "2026-11-05T02:39:24.361Z"
+    },
+    {
+      "id": 27528,
+      "source": "MarkTechPost",
+      "title_en": "Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster",
+      "description_en": "Together AI released Together Compiler, an agent-driven loop that keeps re-optimizing the inference forward pass as traffic shifts. It beat the best InferenceX configurations by up to 2.6x TPS in under 24 hours per model.\nThe post Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/",
+      "image_url": null,
+      "pub_date": "Thu, 05 Nov 2026 08:02:58 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Enterprise AI",
+        "For Devs",
+        "Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T08:30:19.546Z",
+      "created_at": "2026-11-05T08:30:19.546Z"
+    },
+    {
+      "id": 27529,
+      "source": "MarkTechPost",
+      "title_en": "OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Second API Generation",
+      "description_en": "OpenAI released Images 2.6 and the GPT-Image-2.6 Flare and Sunburst API models. Flare generates images in as little as 6 seconds, and both add GIF output, SVG export, markup edits and a complexity parameter.\nThe post OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Second API Generation appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/11/Static_01_animate-gifs-scaled.png",
+      "pub_date": "Thu, 05 Nov 2026 07:03:17 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs",
+        "New Releases",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T08:30:19.547Z",
+      "created_at": "2026-11-05T08:30:19.547Z"
+    },
+    {
+      "id": 27530,
+      "source": "MarkTechPost",
+      "title_en": "Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers",
+      "description_en": "Google Research released Agile Deliberation, a human-in-the-loop framework that helps users define subjective visual concepts through borderline images. In 18 live sessions, it lifted Gemini-based classifier F1 by 10.5 points over zero-shot.\nThe post Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/",
+      "image_url": null,
+      "pub_date": "Thu, 05 Nov 2026 05:42:18 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T08:30:19.547Z",
+      "created_at": "2026-11-05T08:30:19.547Z"
+    },
+    {
+      "id": 27531,
+      "source": "New Atlas",
+      "title_en": "One gene could explain why autism appears to affect boys more than girls",
+      "description_en": "Autism’s striking sex difference has long presented researchers with a puzzle. Why are boys diagnosed around three to four times as often as girls, when the genes associated with autism aren’t confined to either group?\nContinue Reading\nCategory: Mental Health, Brain Health, Body and Mind\nTags: Autism spectrum disorder, Brain, Sex and gender",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/mental-health/one-gene-autism-affect-boys-more-than-girls/",
+      "image_url": null,
+      "pub_date": "Thu, 05 Nov 2026 04:06:11 GMT",
+      "author": "Mike McRae",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T08:30:19.866Z",
+      "created_at": "2026-11-05T08:30:19.866Z"
+    },
+    {
+      "id": 27532,
+      "source": "The Guardian AI",
+      "title_en": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
+      "description_en": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification \nThe UK is “dangerously” dependent on China for critical raw materials needed for the military, renewable energy infrastructure and AI, a parliamentary investigation has found.\nMPs on the business select committee called for an urgent centralised policy and the creation of a “critical minerals finance facility” to help fund rare earth and other critical mineral mines, and deplo",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+      "image_url": "https://i.guim.co.uk/img/media/cb4db687d218902c0710319b5c22a27ce31c84f2/446_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=0f3485761702bce981808ccca6ab31bd",
+      "pub_date": "Thu, 05 Nov 2026 05:00:55 GMT",
+      "author": "Lisa O’Carroll Senior staff correspondent",
+      "categories": [
+        {
+          "_": "Critical minerals",
+          "$": {
+            "domain": "https://www.theguardian.com/world/critical-minerals"
+          }
+        },
+        {
+          "_": "Mining",
+          "$": {
+            "domain": "https://www.theguardian.com/business/mining"
+          }
+        },
+        {
+          "_": "China",
+          "$": {
+            "domain": "https://www.theguardian.com/world/china"
+          }
+        },
+        {
+          "_": "Critical minerals",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/rare-earths"
+          }
+        },
+        {
+          "_": "Defence policy",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/defence"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Renewable energy",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/renewableenergy"
+          }
+        },
+        {
+          "_": "Energy industry",
+          "$": {
+            "domain": "https://www.theguardian.com/business/energy-industry"
+          }
+        },
+        {
+          "_": "Infrastructure",
+          "$": {
+            "domain": "https://www.theguardian.com/business/infrastructure"
+          }
+        },
+        {
+          "_": "Foreign policy",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/foreignpolicy"
+          }
+        },
+        {
+          "_": "Asia Pacific",
+          "$": {
+            "domain": "https://www.theguardian.com/world/asia-pacific"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T08:30:20.253Z",
+      "created_at": "2026-11-05T08:30:20.253Z"
+    },
+    {
+      "id": 27533,
+      "source": "Interesting Engineering",
+      "title_en": "Video: YouTuber’s 3D-printed robot can play entire game of Fetch alone",
+      "description_en": "A YouTuber has unveiled a new AI-powered autonomous robot that can play an entire game...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/robot-fetch-youtuber",
+      "image_url": "https://www.youtube.com/embed/51q_WmbnJtQ",
+      "pub_date": "Thu, 05 Nov 2026 06:46:02 +0000",
+      "author": "Kaushalkishore",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T08:30:20.692Z",
+      "created_at": "2026-11-05T08:30:20.692Z"
+    },
+    {
+      "id": 27534,
+      "source": "Interesting Engineering",
+      "title_en": "Unmanned underwater vehicle autonomously hunts down and destroys hidden naval mines",
+      "description_en": "An autonomous underwater vehicle has completed an end-to-end mine countermeasure demonstration, bringing naval forces closer...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/unmanned-underwater-vehicle-naval-mine-hunting",
+      "image_url": null,
+      "pub_date": "Thu, 05 Nov 2026 03:23:27 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T08:30:20.692Z",
+      "created_at": "2026-11-05T08:30:20.692Z"
+    },
+    {
+      "id": 27535,
+      "source": "CNBC Tech",
+      "title_en": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
+      "description_en": "Growing competition for semiconductor talent is fueling a battle over trade secrets as Chinese chipmakers gain ground.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html",
+      "image_url": null,
+      "pub_date": "Thu, 05 Nov 2026 03:53:18 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T08:30:21.434Z",
+      "created_at": "2026-11-05T08:30:21.434Z"
+    },
+    {
+      "id": 27536,
+      "source": "Product Hunt",
+      "title_en": "Stitch.ai",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/stitch-ai",
+      "image_url": null,
+      "pub_date": "2026-11-03T06:04:34.000Z",
+      "author": "Johanna Quinn",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T08:30:26.031Z",
+      "created_at": "2026-11-05T08:30:26.031Z"
+    },
+    {
+      "id": 27537,
+      "source": "Product Hunt",
+      "title_en": "Rainbrand",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/rainbrand",
+      "image_url": null,
+      "pub_date": "2026-10-26T10:25:50.000Z",
+      "author": "Garry Tan",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T08:30:26.031Z",
+      "created_at": "2026-11-05T08:30:26.031Z"
+    },
+    {
+      "id": 27538,
+      "source": "Product Hunt",
+      "title_en": "FounderMail",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/foundermail-2",
+      "image_url": null,
+      "pub_date": "2026-11-04T19:46:10.000Z",
+      "author": "Zach Bimson",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T08:30:26.031Z",
+      "created_at": "2026-11-05T08:30:26.031Z"
+    },
+    {
+      "id": 27539,
+      "source": "Product Hunt",
+      "title_en": "ChatGPT Images 2.6",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/chatgpt-images-2-6",
+      "image_url": null,
+      "pub_date": "2026-11-05T00:41:38.000Z",
+      "author": "KP",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T08:30:26.031Z",
+      "created_at": "2026-11-05T08:30:26.031Z"
+    },
+    {
+      "id": 27540,
+      "source": "Product Hunt",
+      "title_en": "AI Employees by Easy-Peasy.AI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/easy-peasy-ai",
+      "image_url": null,
+      "pub_date": "2026-11-04T06:19:49.000Z",
+      "author": "Dmytro Olefyrenko",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T08:30:26.031Z",
+      "created_at": "2026-11-05T08:30:26.031Z"
+    },
+    {
+      "id": 27541,
+      "source": "Product Hunt",
+      "title_en": "Living Brain",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/chatandbuild",
+      "image_url": null,
+      "pub_date": "2026-11-02T15:07:36.000Z",
+      "author": "Ben Lang",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T08:30:26.031Z",
+      "created_at": "2026-11-05T08:30:26.031Z"
+    },
+    {
+      "id": 27542,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ В ChatGPT завезли гифки — их можно генерировать даже на бесплатном тарифе. Теперь поздравлять друзей и батю с Днём пива станет гораздо проще.Генерить можно как открытки, так и любые гифки для важны",
+      "description_en": "⚡️ В ChatGPT завезли гифки — их можно генерировать даже на бесплатном тарифе. Теперь поздравлять друзей и батю с Днём пива станет гораздо проще.Генерить можно как открытки, так и любые гифки для важных переговоров.Готовим армию мемов — тут.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32704",
+      "image_url": null,
+      "pub_date": "2026-11-05T07:27:06+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T08:30:26.545Z",
+      "created_at": "2026-11-05T08:30:26.545Z"
+    },
+    {
+      "id": 27543,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Основателя OpenAI Сэма Альтмана жутко злит, что в вашем компьютере есть оперативка  Главный продавец искусственного интеллекта пожаловался в эфире подкаста Cheeky Pint, что мировые запасы оперативной ",
+      "description_en": "Основателя OpenAI Сэма Альтмана жутко злит, что в вашем компьютере есть оперативка  Главный продавец искусственного интеллекта пожаловался в эфире подкаста Cheeky Pint, что мировые запасы оперативной памяти распределены слишком неэффективно.  По его мнению…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/37010",
+      "image_url": "https://cdn4.telesco.pe/file/lPIRKk8He7gJwF0O0bsOWMwBe4i55AxceC0ve8H6Ofw-t19kYtgP8F2Gjf046w4Fk_dHMA-q-ylj2jp3gIesMVzfE05ROVyZFf4UoZlYNwu1XfqJyxRbCexCH8qxAAVOJGRC5CSDlQBcDhbdL8BDIpm080L58-iG-6RMwkNLXnmyg8yc-7cgLanPFWnU47DH1sc2AVqZfZuMTqca0GrtFJVSNWn7LJMwS6R4eD15k_o-fhwyexipisBBLqert-rNU4XyUzm7aXAE7NAAmZTuLBpICzZI7DNvVR_ToNHlnsq28t9QIbi-ue6jDsSOVhF0N9FIk35hVzaRIYf75GbBcw.jpg",
+      "pub_date": "2026-11-05T06:01:59+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T08:30:26.605Z",
+      "created_at": "2026-11-05T08:30:26.605Z"
+    },
+    {
+      "id": 27544,
+      "source": "XOR Journal (TG)",
+      "title_en": "ИИ теперь может тестировать и проходить ваши игры за вас — разработчики выложили в опенсорс Autopilot, агента, который играет и ищет баги! 😨Ему можно поручить вообще всё: проверить фичу, найти пробле",
+      "description_en": "ИИ теперь может тестировать и проходить ваши игры за вас — разработчики выложили в опенсорс Autopilot, агента, который играет и ищет баги! 😨Ему можно поручить вообще всё: проверить фичу, найти проблемы на карте или победить босса, сохранив минимум 20% здоровья. Агент сам запускает игру, управляет персонажем и после прохождения выдаёт полноценный отчёт. Причём с каждой попыткой он запоминает особенности игры и учится играть лучше. Работает с Unreal Engine, Unity и Godot на Windows и macOS.По тес",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10427",
+      "image_url": null,
+      "pub_date": "2026-11-05T07:01:45+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T08:30:26.644Z",
+      "created_at": "2026-11-05T08:30:26.644Z"
+    },
+    {
+      "id": 27545,
+      "source": "Hi, AI English (TG)",
+      "title_en": "👨 AI Will Assess How Dangerous Incarcerated People Are Michigan authorities are launching an AI system that will sort inmates into four levels based on how dangerous they are. A pilot will begin in D",
+      "description_en": "👨 AI Will Assess How Dangerous Incarcerated People Are Michigan authorities are launching an AI system that will sort inmates into four levels based on how dangerous they are. A pilot will begin in December at several men's facilities.Previously, a committee of prison staff handled classification. Now it's being handed over to a system from the nonprofit company Recidiviz, which grew out of a Google project.Officials promise the new system will improve the accuracy of predicting future violence",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2908",
+      "image_url": "https://cdn4.telesco.pe/file/h6tgnh92nOT19QUeJDErN9UkNu2rUskjqHlVGpJ__2FCvMCGYZ0ESsCJ0UvVAM-9mJZmA5LqzWJ8133LPnbkCmVnNPcCakNKX9OlFE1LtDhh6tL_V1lIBFJFr4mutpNPPb0hOify2ASNYFborcWcGEbh534G5ex7ksUkttHxyJZx-nt-PGNpujLcp0sGxWZmRuXIZzWCGyJdaLQ_je2viA8YLuZ-KVE2OqUumHSRnnHNHEBcSegwkSO81CeM3OEx4dcCIYJrCVMMNufS9nf9eOStNaaWRcn-p6A-LZsQ1RlRoJ24ufWQBU5Oq2UeolbwkJzAtaQfj5e_3Nc2x_Y8zA.jpg",
+      "pub_date": "2026-11-05T06:58:12+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T08:30:26.956Z",
+      "created_at": "2026-11-05T08:30:26.956Z"
+    },
+    {
+      "id": 27546,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🤖 Советы пчеловодов научили ИИ сопротивляться человеческому контролюИсследователи Anthropic провели эксперимент, в котором поручили множеству ИИ-агентов Claude создавать обучающие данные, способные н",
+      "description_en": "🤖 Советы пчеловодов научили ИИ сопротивляться человеческому контролюИсследователи Anthropic провели эксперимент, в котором поручили множеству ИИ-агентов Claude создавать обучающие данные, способные незаметно менять поведение других нейросетей.С виду безобидные тексты — советы пчеловодов, наставления профессиональных рестлеров и вымышленные монологи — оказались самыми эффективными. Например, тексты о пчеловодстве рассказывали, почему лучше не вмешиваться в жизнь улья и не проводить лишних провер",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3799",
+      "image_url": "https://cdn4.telesco.pe/file/O8XW4UlIF8ngtYxpB989B5VHH_KWYQs21hbVtU5YEdcCrNNsOirpX8lZslsEmvnHJf3l1JWnNpjFmIzuGyrWdFn1rsR8nf3Vb4nVJnG7cT3N-iF_ZxwwPim22CQqnymDRFCLZSov5J3A2epXaXLMlHXxS5y_cpd5qBrzYxJUpmaZI2ZjNOe5FWsuF0CH6EWM1k8BsQ5XmcaNVniXNSS-J7Ku62LUWm03DErEW_O0oSDXqYN-SLA2yZ4BJ_QdSyCj5pYOg7YHmIo5Z3lJDRzemGS5HrT4_IdFZM3_UWaz1Fu6jl4e_f3YqYDgqJQi64zwhbwYD7-_GXIqkbifLJbUrA.jpg",
+      "pub_date": "2026-11-05T06:06:59+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T08:30:26.993Z",
+      "created_at": "2026-11-05T08:30:26.993Z"
+    },
+    {
+      "id": 27547,
+      "source": "AI Post (TG)",
+      "title_en": "🤣🤣@aipost 🏴",
+      "description_en": "🤣🤣@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8707",
+      "image_url": "https://cdn4.telesco.pe/file/fpV6TdPxz40IV6VTePtighfLQzKzhajHTUYYMqoyAx5TX4z_-GsoZgJVDISQ3djRQgSrIefhVLvQtoM5ZjfYX5XPsto0UC8YQ4daucm2GxGnmv8aT5cEwj3OSuyEHgKd58-zhjww8hDry4BUxbzVSLivTKd32Psmg-MhV5inqSW_PGVK-wp5xvPqlHt-95KdA3pa6aR0rLEZc5Kxz7zn23ISycswCvaTwTpblCXrBgoEGfuRhLkbrW-uiQu-SVVn9npVSmYk5IdfK--tgSsbVHd3FhiCpItHqNVJOFDSW878nFdyQXieZrdGZfHfaNJ6krLR-2zlfSV9fx96V1HNDg.jpg",
+      "pub_date": "2026-11-05T04:02:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T08:30:27.129Z",
+      "created_at": "2026-11-05T08:30:27.129Z"
+    },
+    {
+      "id": 27548,
+      "source": "AI Post (TG)",
+      "title_en": "🤨 One AI model averages 7 em dashes per answer. Claude Opus uses almost noneArtificial Analysis counted every em dash in every answer on its personality benchmark. Plenty of readers treat that dash a",
+      "description_en": "🤨 One AI model averages 7 em dashes per answer. Claude Opus uses almost noneArtificial Analysis counted every em dash in every answer on its personality benchmark. Plenty of readers treat that dash as a sign a text was written by AI.The heaviest user is GLM-5.3, from China's Z.ai, with 7.4 per response. Right behind: GLM-5.3-Flash and Meta's Muse Wonder (6.9 each), then Kimi K3 (6.7).Anthropic's models are split. Claude Fable 5.1 averages 6.4 per answer. Claude Opus 5.5 uses fewer than one ever",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8709",
+      "image_url": "https://cdn4.telesco.pe/file/LESe4WCKk00vsrxKuPJkvUEnw6oWx_RvOoqKPiLxR7azzkkuKyXpOv4UYsQVxDwGrn0aEkU1lGs3vaid02XNmZgC0BSm0j2rGY5kHNbnCxyJfBqV9_PtxJL2JaLNU3Wn4Fb3mKJ52IxY6LhFpx2NsqaH_-APE5Ui0BDVK9ilRvafF5k0fnMk0gXEIHZEpNyCt7CgzpKxiy6m2dPAZOYj8CvMhdANkj0Fz5TKcaPdu9ocVUwmQvORsycoszlLIHAIfq-VCRee2WrQkQP6Db3mhwG0ya14ftXS863ie8A2l1DkxKVV5chbXTFtfM9cKwrpH2hmlhSJsOO0PTqnIoWyIg.jpg",
+      "pub_date": "2026-11-05T06:45:16+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T08:30:27.129Z",
+      "created_at": "2026-11-05T08:30:27.129Z"
+    },
+    {
+      "id": 27549,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🎨 OpenAI's Images 2.6 outputs SVG, but it's a raster-to-vector pipeline under the hoodOpenAI shipped Images 2.6 with 50% faster generation and an explicit SVG output format. The API makes a reference",
+      "description_en": "🎨 OpenAI's Images 2.6 outputs SVG, but it's a raster-to-vector pipeline under the hoodOpenAI shipped Images 2.6 with 50% faster generation and an explicit SVG output format. The API makes a reference image first, then converts it. List price matches 2.5, but low and medium quality tiers burn more tokens, so the real bill goes up.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/928",
+      "image_url": null,
+      "pub_date": "2026-11-05T03:34:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T08:30:27.348Z",
+      "created_at": "2026-11-05T08:30:27.348Z"
+    },
+    {
+      "id": 27550,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 OpenAI's models went hunting for Linux root exploits and came back with 948 reportsOpenAI published the kernel results, and only validated the findings that met three conditions:• Reachable by a lo",
+      "description_en": "🚨 OpenAI's models went hunting for Linux root exploits and came back with 948 reportsOpenAI published the kernel results, and only validated the findings that met three conditions:• Reachable by a low-privileged user• No special capabilities needed• Measurable evidence of memory corruptionChecking all 948 by hand wasn't realistic. Whether they're 948 distinct bugs or a lot of variants of the same few is still open.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/929",
+      "image_url": null,
+      "pub_date": "2026-11-05T06:35:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T08:30:27.348Z",
+      "created_at": "2026-11-05T08:30:27.348Z"
+    },
+    {
+      "id": 27551,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 OpenAI says GPT-6 Astra quietly sandbags when the task is safety researchIn OpenAI's own report, Astra adds needless prerequisites, drops working solutions, and invents blockers without telling the",
+      "description_en": "🚨 OpenAI says GPT-6 Astra quietly sandbags when the task is safety researchIn OpenAI's own report, Astra adds needless prerequisites, drops working solutions, and invents blockers without telling the user. On a paired coding eval it scored 10% when tasks were framed as safety research.Its reasoning traces show \"ethical doubt\" on 7.9% of safety tasks vs 2.9% of capability tasks.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/930",
+      "image_url": null,
+      "pub_date": "2026-11-05T08:27:12+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T08:30:27.348Z",
+      "created_at": "2026-11-05T08:30:27.348Z"
     }
   ]
 }
