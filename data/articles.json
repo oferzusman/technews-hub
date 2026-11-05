@@ -597627,6 +597627,186 @@
       "priority": "hot",
       "fetchedAt": "2026-11-05T16:40:30.296Z",
       "created_at": "2026-11-05T16:40:30.296Z"
+    },
+    {
+      "id": 27606,
+      "source": "The Verge AI",
+      "title_en": "Grimes is going to star in an AI movie that’s coming to theaters",
+      "description_en": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\" Gods Don't Give Gifts is a notable test case for the commercial potential of AI films, and it releases on December 4th. Grimes - who will be lending both her likeness and vocal performance to the movie, which you can see in the clip above - potentially gives the project some legitimacy.\nAI studio Fable, which is prod",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
+      "image_url": null,
+      "pub_date": "2026-11-05T17:00:00.000Z",
+      "author": "Andrew Webster",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T17:18:02.976Z",
+      "created_at": "2026-11-05T17:18:02.976Z"
+    },
+    {
+      "id": 27607,
+      "source": "The Verge AI",
+      "title_en": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "description_en": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than 1 percent of the time, down from around 5 percent with GPT-5.6 Cyber.\nThe evaluation, called ExploitGym HoneyPot, is modeled after the Hugging Face Incident, in which OpenAI's AI agents breached the open-source AI community",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "image_url": null,
+      "pub_date": "2026-11-05T17:00:00.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T17:18:02.976Z",
+      "created_at": "2026-11-05T17:18:02.976Z"
+    },
+    {
+      "id": 27608,
+      "source": "The Decoder",
+      "title_en": "No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark",
+      "description_en": "SemiAnalysis is putting AI agents through simulated knowledge work in its new GDPx benchmark, covering everything from chip design to quant trading. No model breaks 12 percent. Claude Opus 5.5 leads narrowly over Gemini 4 Carbon. Critics point to the small number of tasks per domain and uneven testing conditions.\nThe article No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/",
+      "image_url": null,
+      "pub_date": "Thu, 05 Nov 2026 16:46:24 +0000",
+      "author": "Manuel Uth",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Benchmarks"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T17:18:04.446Z",
+      "created_at": "2026-11-05T17:18:04.446Z"
+    },
+    {
+      "id": 27609,
+      "source": "Google AI Blog",
+      "title_en": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "description_en": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp",
+      "pub_date": "Thu, 05 Nov 2026 17:00:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Anish Nangia"
+        ],
+        "title": [
+          "Product Manager, Google DeepMind"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Gemini models",
+        "Developer tools",
+        "AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T17:18:04.906Z",
+      "created_at": "2026-11-05T17:18:04.906Z"
+    },
+    {
+      "id": 27610,
+      "source": "CNBC Tech",
+      "title_en": "Jim Cramer says the AI trade is not going away as Nasdaq enters correction",
+      "description_en": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/05/cramer-says-the-ai-trade-is-not-going-away-as-nasdaq-enters-correction.html",
+      "image_url": null,
+      "pub_date": "Thu, 05 Nov 2026 17:04:21 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T17:18:08.645Z",
+      "created_at": "2026-11-05T17:18:08.645Z"
+    },
+    {
+      "id": 27611,
+      "source": "Tom's Hardware",
+      "title_en": "Chinese AI lab Moonshot reportedly looked at European data centers to access Nvidia chips, report claims",
+      "description_en": "The lab is reportedly interested in renting at least 8,000 Nvidia Blackwell GPUs.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/policy/chinese-ai-lab-moonshot-reportedly-looked-at-european-data-centers-to-access-nvidia-chips-report-claims-kimi-maker-primarily-interested-in-inferencing-capacity-but-also-asked-about-training-clusters",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/fmbubhzMvhqdXsuXX8CbYA-1920-80.png",
+      "pub_date": "Thu, 05 Nov 2026 16:48:30 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Policy",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T17:18:08.686Z",
+      "created_at": "2026-11-05T17:18:08.686Z"
+    },
+    {
+      "id": 27612,
+      "source": "XOR Journal (TG)",
+      "title_en": "ОГО, автономные фуры теперь сами ездят на погрузку и разгрузку — роботраки Яндекса спокойно работают на контейнерных площадках без водителя  😳Роботрак сам подъезжает к погрузчику, точно паркуется и ж",
+      "description_en": "ОГО, автономные фуры теперь сами ездят на погрузку и разгрузку — роботраки Яндекса спокойно работают на контейнерных площадках без водителя  😳Роботрак сам подъезжает к погрузчику, точно паркуется и ждет смены контейнера. Причем место погрузки заранее неизвестно: удаленный оператор подтверждает нужный погрузчик, а махина самостоятельно строит траекторию подъезда к нему, объезжает технику, уступает дорогу другим фурам и пропускает пешеходов. В блоге Яндекса инженеры рассказали, как прокачали тяга",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10432",
+      "image_url": null,
+      "pub_date": "2026-11-05T16:42:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T17:18:09.431Z",
+      "created_at": "2026-11-05T17:18:09.431Z"
+    },
+    {
+      "id": 27613,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Премиальная Motorola Signature 27 пробила ценник в $1600. И это не раскладушкаДобро пожаловать в новую реальность, где Android-смартфоны (даже не раскладушки!) стоят в США больше $1600.Анонсированный ",
+      "description_en": "Премиальная Motorola Signature 27 пробила ценник в $1600. И это не раскладушкаДобро пожаловать в новую реальность, где Android-смартфоны (даже не раскладушки!) стоят в США больше $1600.Анонсированный Motorola флагман Signature 27 обладает каким-то совершенно бессовестным ценником, за который в США можно взять аж целый S26 Ultra. А что предлагает за эти деньги Motorola?• 6,8-дюймовый Tandem OLED-экран с разрешением 1264 × 2780 пикселей и пиковой яркостью 12 000 нит;• Qualcomm Snapdragon 8 Elite E",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/37027",
+      "image_url": "https://cdn4.telesco.pe/file/Y4vpxgvGFqLPLt1dl0j_JGaLhX7mTaHHqnZIHFwj5NFx0T0o2cdjeHhyf9XTsXwZKrkwZbalAIokrAhe6Tsv0f8e64GzE5f9eVBIapU1dPymlftdS64DPsp6CfNZjGn30dSisFWudkS90k4cMfJUjI1tpmIQyklUEjVjFQgtfhsIhZg4kYeRJ_Q9YuqqQLJ_x8b5YmboIuOREyFcJLlMvHcdgGzJndGuOi_eqcQFyM1CCWkB_owiEmPo-mvSGsB0fWWqkcH7qmGlydFo26rBbQxOD7R-Ulzb6Hk6C_vK23_zbR1-xe3tFXSKQpwQh7Q7AM6ENBIGRkXFg08JQfcLKw.jpg",
+      "pub_date": "2026-11-05T17:15:20+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T17:18:09.464Z",
+      "created_at": "2026-11-05T17:18:09.464Z"
+    },
+    {
+      "id": 27614,
+      "source": "AI Post (TG)",
+      "title_en": "📞 Grok Bot can now call your dentist for youElon Musk posted that Grok Bot can place phone calls. In one demo making the rounds, a bot dialed a dental office and asked whether they take a patient's i",
+      "description_en": "📞 Grok Bot can now call your dentist for youElon Musk posted that Grok Bot can place phone calls. In one demo making the rounds, a bot dialed a dental office and asked whether they take a patient's insurance.The bot stays on the line, talks to the person who picks up, and reports back in chat. Musk highlighted the feature with a simple line: it can call your dentist on the phone.Would you let a bot call a doctor's office for you?@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8713",
+      "image_url": "https://cdn4.telesco.pe/file/a-7nUwI2DXr-flfsCQ0cbyEKQYqffPUzsu7XSN_rrhXTF7vtpo5Z6vAlOiYM6FQhPFoRV6Uy5_v4i0g9h0ptzCscm-3XvZOGtLy0M0TXP9-XYktgVjEOEX1Ihwc_df85t77XW5cRq-Mk4Is5t9VfSxVXJ6BKZ_jtRGZkQ_FnLTfOftF5YJPSlUWX8VmfEUqIwiqmafwnhDC_bEQ6IGVKNgiSl_WaX71n3ji4YnBlO6a-7yev2qFTPlIxTOZRxGQEx9od9iOp8jMhcb5GFxa8dSbIp5ZqN4QRk8U8KCoPycc4oNpG7Ti8VrT5qtZJlY0TTRQDck4Ui3RhJ4RxIBxPbA.jpg",
+      "pub_date": "2026-11-05T16:50:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T17:18:10.081Z",
+      "created_at": "2026-11-05T17:18:10.081Z"
     }
   ]
 }
