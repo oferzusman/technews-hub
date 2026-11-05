@@ -595460,6 +595460,365 @@
       "priority": "hot",
       "fetchedAt": "2026-11-04T22:23:54.938Z",
       "created_at": "2026-11-04T22:23:54.938Z"
+    },
+    {
+      "id": 27510,
+      "source": "TechCrunch AI",
+      "title_en": "Apple is reportedly cutting budgets for its internal AI usage",
+      "description_en": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "image_url": null,
+      "pub_date": "Thu, 05 Nov 2026 01:26:22 +0000",
+      "author": "Lucas Ropek",
+      "categories": [
+        "AI",
+        "TC"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T01:39:47.180Z",
+      "created_at": "2026-11-05T01:39:47.180Z"
+    },
+    {
+      "id": 27511,
+      "source": "TechCrunch AI",
+      "title_en": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "description_en": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "image_url": null,
+      "pub_date": "Wed, 04 Nov 2026 22:45:09 +0000",
+      "author": "Rebecca Bellan",
+      "categories": [
+        "AI",
+        "Government & Policy",
+        "election",
+        "Public First",
+        "leading the future",
+        "guardrails alliance"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T01:39:47.181Z",
+      "created_at": "2026-11-05T01:39:47.181Z"
+    },
+    {
+      "id": 27512,
+      "source": "Ars Technica",
+      "title_en": "Uranium cubes reveal why the German nuclear project failed",
+      "description_en": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cube1-1152x648-1793713257.jpg",
+      "pub_date": "Wed, 04 Nov 2026 21:56:29 +0000",
+      "author": "\n                    Jennifer Ouellette\n                ",
+      "categories": [
+        "Science",
+        "history of physics",
+        "nuclear archaeology",
+        "nuclear physics",
+        "Nuclear weapons",
+        "World War II"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T01:39:47.261Z",
+      "created_at": "2026-11-05T01:39:47.261Z"
+    },
+    {
+      "id": 27513,
+      "source": "The Verge AI",
+      "title_en": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "description_en": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier this year. The company expects that portion of its business to grow quickly, forecasting around $650 million in data center revenue during the first quarter of 2027. But it an",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "image_url": null,
+      "pub_date": "2026-11-04T22:42:15.000Z",
+      "author": "Terrence O’Brien",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T01:39:47.285Z",
+      "created_at": "2026-11-05T01:39:47.285Z"
+    },
+    {
+      "id": 27514,
+      "source": "OpenAI Blog",
+      "title_en": "A thousand fewer paths to root",
+      "description_en": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "image_url": null,
+      "pub_date": "Wed, 04 Nov 2026 08:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Security"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T01:39:48.821Z",
+      "created_at": "2026-11-05T01:39:48.821Z"
+    },
+    {
+      "id": 27515,
+      "source": "OpenAI Blog",
+      "title_en": "Introducing Images 2.6",
+      "description_en": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/introducing-images-2-6",
+      "image_url": null,
+      "pub_date": "Wed, 04 Nov 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Product"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T01:39:48.821Z",
+      "created_at": "2026-11-05T01:39:48.821Z"
+    },
+    {
+      "id": 27516,
+      "source": "MarkTechPost",
+      "title_en": "webAI Releases TwIL-8B, an 8.8B Reasoning Model Scoring 98.2 on MATH-500",
+      "description_en": "webAI released TwIL-8B, an 8.8B reasoning model post-trained from IBM Granite 4.2 8B. It posts 98.2 on MATH-500 and 81.6 on LiveCodeBench, but trails similar-size models on knowledge benchmarks.\nThe post webAI Releases TwIL-8B, an 8.8B Reasoning Model Scoring 98.2 on MATH-500 appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/04/webai-twil-8b-reasoning-model/",
+      "image_url": null,
+      "pub_date": "Wed, 04 Nov 2026 22:25:05 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Python",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T01:39:48.862Z",
+      "created_at": "2026-11-05T01:39:48.862Z"
+    },
+    {
+      "id": 27517,
+      "source": "MarkTechPost",
+      "title_en": "Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1",
+      "description_en": "Ricursive Intelligence released Ripple-65B Preview, a 65B dense open-weight LLM under Apache 2.0. It scores 80.5 on Terminal-Bench 2.1, ahead of US open models up to 15x its size.\nThe post Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1 appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/04/ricursive-ripple-65b-preview-open-weight-model/",
+      "image_url": null,
+      "pub_date": "Wed, 04 Nov 2026 21:01:06 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Context Engineering",
+        "Editors Pick",
+        "Harness",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T01:39:48.862Z",
+      "created_at": "2026-11-05T01:39:48.862Z"
+    },
+    {
+      "id": 27518,
+      "source": "New Atlas",
+      "title_en": "Hopping, flying robot gets an all-terrain upgrade",
+      "description_en": "When it comes to designing modern robots, various researchers are all trying to solve pretty much the same problem: how to make robots that can reach places difficult for humans to access. They’ve come up with robots that can swim underwater, crawl through rubble, and land on tree branches like birds.\nContinue Reading\nCategory: Robotics, Engineering\nTags: University of Toronto, City University of Hong Kong, Hong Kong University of Science and Technology, locomotion",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/robotics/hopcopter-hopping-robot-flexible-foot-pad/",
+      "image_url": null,
+      "pub_date": "Wed, 04 Nov 2026 22:28:48 GMT",
+      "author": "Maryna Holovnova",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T01:39:49.289Z",
+      "created_at": "2026-11-05T01:39:49.289Z"
+    },
+    {
+      "id": 27519,
+      "source": "The Guardian AI",
+      "title_en": "Scare campaigns: Victoria’s major parties trade blows over AI-generated videos of leaders in election ads",
+      "description_en": "Transparency and advertising experts say trust in politics could be further eroded as a result of ‘lies, deepfakes and AI-generated politicians’\n\nGet our daily political email, free app or daily news podcast\n\nIt’s the night of Halloween and Jess Wilson has appeared on social media feeds with a warning about a scary prospect: “Americanised healthcare” under a future Liberal government.\n“If you had a heart attack, you would have to pay $150,000 for care,” the Victorian Liberal leader says, mid-tri",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/australia-news/2026/nov/05/victoria-election-2026-ai-generated-video-ads-ntwnfb",
+      "image_url": "https://i.guim.co.uk/img/media/98bda4ace9417a01039105abd323a4d517ff1463/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=ab34e037a9094ac5f3d3ace36eb4fff0",
+      "pub_date": "Wed, 04 Nov 2026 23:00:46 GMT",
+      "author": "Benita Kolovos and Bertin Huynh",
+      "categories": [
+        {
+          "_": "Victoria state election 2026",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/victoria-state-election-2026"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Victorian politics",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/victorian-politics"
+          }
+        },
+        {
+          "_": "Labor party",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/labor-party"
+          }
+        },
+        {
+          "_": "Liberal party",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/liberal-party"
+          }
+        },
+        {
+          "_": "Australian politics",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australian-politics"
+          }
+        },
+        {
+          "_": "Advertising",
+          "$": {
+            "domain": "https://www.theguardian.com/media/advertising"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T01:39:49.393Z",
+      "created_at": "2026-11-05T01:39:49.393Z"
+    },
+    {
+      "id": 27520,
+      "source": "Interesting Engineering",
+      "title_en": "Anthropic maps world’s first 3D bacterial vault with 96 copies of one protein",
+      "description_en": "Scientists have mapped the first three-dimensional structure of a vault particle linked to bacterial life,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/anthropic-first-3d-bacterial-vault-map",
+      "image_url": null,
+      "pub_date": "Wed, 04 Nov 2026 23:25:42 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "AI and Robotics",
+        "Health"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T01:39:50.494Z",
+      "created_at": "2026-11-05T01:39:50.494Z"
+    },
+    {
+      "id": 27521,
+      "source": "Interesting Engineering",
+      "title_en": "New robotic hand learns human-like grip control to stop objects from falling",
+      "description_en": "A major technical challenge remains in teaching a robot to grasp an object, then rotate...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/us-robotic-hand-experiment",
+      "image_url": null,
+      "pub_date": "Wed, 04 Nov 2026 22:46:20 +0000",
+      "author": "Kaushalkishore",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T01:39:50.494Z",
+      "created_at": "2026-11-05T01:39:50.494Z"
+    },
+    {
+      "id": 27522,
+      "source": "Interesting Engineering",
+      "title_en": "PUDU debuts 8-hour runtime semi-humanoid, Nvidia robot dog, cat-like service robot",
+      "description_en": "Chinese robotics giant PUDU Robotics showcased all six of its robot product lines together for...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/pudu-robotics-amsterdam-show",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Z3_c3b79c.jpg",
+      "pub_date": "Wed, 04 Nov 2026 22:26:48 +0000",
+      "author": "Georgina Jedikovska",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T01:39:50.494Z",
+      "created_at": "2026-11-05T01:39:50.494Z"
+    },
+    {
+      "id": 27523,
+      "source": "AI Post (TG)",
+      "title_en": "🗣 “The titans of Silicon Valley dig bunkers for themselves”: Jon Ossoff's victory speech on AIJon Ossoff won reelection to the Senate in Georgia on Tuesday night, beating Republican Mike Collins. Mid",
+      "description_en": "🗣 “The titans of Silicon Valley dig bunkers for themselves”: Jon Ossoff's victory speech on AIJon Ossoff won reelection to the Senate in Georgia on Tuesday night, beating Republican Mike Collins. Midway through his victory speech, he went after the people building AI:Meanwhile, the titans of Silicon Valley dig bunkers for themselves and warn that the artificial intelligence they're creating risks human extinction.Near the end he talked about his two daughters. He said he refuses to accept that ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8705",
+      "image_url": null,
+      "pub_date": "2026-11-04T23:18:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-05T01:39:53.290Z",
+      "created_at": "2026-11-05T01:39:53.290Z"
+    },
+    {
+      "id": 27524,
+      "source": "Prompt AI News (TG)",
+      "title_en": "⚡️ Cognition's SWE-2 Flash claims 3x the speed of SWE-2 at one-fifth the priceCognition released a smaller coding model built on Thinking Machines' Inkling-Small, a 276B MoE with 12B active params. Fl",
+      "description_en": "⚡️ Cognition's SWE-2 Flash claims 3x the speed of SWE-2 at one-fifth the priceCognition released a smaller coding model built on Thinking Machines' Inkling-Small, a 276B MoE with 12B active params. Flash edges SWE-2 on FrontierCode 2.0 but trails it on Terminal-Bench 4.0 and DeepSWE 1.1, and all of the numbers are Cognition's own.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/927",
+      "image_url": null,
+      "pub_date": "2026-11-05T00:33:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-05T01:39:53.507Z",
+      "created_at": "2026-11-05T01:39:53.507Z"
     }
   ]
 }
