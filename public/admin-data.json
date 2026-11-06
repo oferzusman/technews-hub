@@ -1,7 +1,7 @@
 {
   "total": 27760,
-  "translated": 27748,
-  "untranslated": 12,
+  "translated": 27752,
+  "untranslated": 8,
   "today": 103,
   "week": 797,
   "sources": [
@@ -38,7 +38,7 @@
     {
       "name": "The Decoder",
       "total": 1520,
-      "translated": 1518,
+      "translated": 1520,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
     {
@@ -68,7 +68,7 @@
     {
       "name": "XOR Journal (TG)",
       "total": 1072,
-      "translated": 1068,
+      "translated": 1070,
       "lastDate": "2026-11-06T15:47:36+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-06T17:09:30.228Z"
+  "generatedAt": "2026-11-06T17:42:53.223Z"
 }
