@@ -601242,6 +601242,170 @@
       "priority": "hot",
       "fetchedAt": "2026-11-06T17:42:09.975Z",
       "created_at": "2026-11-06T17:42:09.975Z"
+    },
+    {
+      "id": 27768,
+      "source": "TechCrunch AI",
+      "title_en": "How a Blue Wave midterm might reshape the AI industry",
+      "description_en": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "image_url": null,
+      "pub_date": "Fri, 06 Nov 2026 18:00:00 +0000",
+      "author": "Theresa Loconsolo, Anthony Ha, Sean O'Kane, Kirsten Korosec",
+      "categories": [
+        "Startups",
+        "AI",
+        "marvell",
+        "CrowdStrike",
+        "OpenAI",
+        "Equity podcast",
+        "midterms"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-06T18:14:21.577Z",
+      "created_at": "2026-11-06T18:14:21.577Z"
+    },
+    {
+      "id": 27769,
+      "source": "The Verge AI",
+      "title_en": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+      "description_en": "Meta will now allow you to build customized, app-like experiences within its Muse AI assistant. The new feature, called \"spaces,\" allows Muse to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the app.\nIf you connect your space to a relevant app, Muse will update pricing, dates, and other information in the background. Meta says you can create a new space by describing it, and continue to tweak it by asking Muse. Y",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "image_url": null,
+      "pub_date": "2026-11-06T18:10:10.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-06T18:14:21.664Z",
+      "created_at": "2026-11-06T18:14:21.664Z"
+    },
+    {
+      "id": 27770,
+      "source": "OpenAI Blog",
+      "title_en": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "description_en": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/partnering-with-hacktron",
+      "image_url": null,
+      "pub_date": "Fri, 06 Nov 2026 08:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Security"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-06T18:14:23.283Z",
+      "created_at": "2026-11-06T18:14:23.283Z"
+    },
+    {
+      "id": 27771,
+      "source": "MarkTechPost",
+      "title_en": "Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster",
+      "description_en": "Zyphra released ZYFA, open-source FP8 and BF16 prefill attention kernels for AMD Instinct MI355X. On real model activations, its FP8 kernels run 1.16-1.76x faster than AMD’s AITER, with 62-78% lower error at head dimension 128.\nThe post Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/",
+      "image_url": null,
+      "pub_date": "Fri, 06 Nov 2026 17:28:04 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Uncategorized"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-06T18:14:23.313Z",
+      "created_at": "2026-11-06T18:14:23.313Z"
+    },
+    {
+      "id": 27772,
+      "source": "The Guardian AI",
+      "title_en": "The Guardian view on the AI backlash: American voters want a say in their future | Editorial",
+      "description_en": "The tech sell-off exposes fragile promises, while Democratic victories offer a chance to protect workers and hold firms accountable\nThis week’s midterms showed that the political bill for the AI boom is falling due. The Democratic sweep intensified fears over runaway spending, mounting debt and resistance to datacentres, sending tech shares tumbling. On Thursday Wall Street suffered its worst day since the pandemic as $3.2tn was wiped from markets. Anthropic, developer of the Claude chatbot, is ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/06/the-guardian-view-on-the-ai-backlash-american-voters-want-a-say-in-their-future",
+      "image_url": "https://i.guim.co.uk/img/media/2ea7dda4257fc43543719a2d375cd85a1ce8cdb4/0_0_7157_5728/master/7157.jpg?width=140&quality=85&auto=format&fit=max&s=bacf77eb19490db5a05856675b08baa4",
+      "pub_date": "Fri, 06 Nov 2026 17:58:05 GMT",
+      "author": "Editorial",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Datacenters – US",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/datacenters--us-"
+          }
+        },
+        {
+          "_": "Donald Trump",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/donaldtrump"
+          }
+        },
+        {
+          "_": "Democrats",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/democrats"
+          }
+        },
+        {
+          "_": "Republicans",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/republicans"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-06T18:14:23.933Z",
+      "created_at": "2026-11-06T18:14:23.933Z"
+    },
+    {
+      "id": 27773,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Anthropic's IPO buyers are now eyeing a valuation as low as $1.1TBloomberg reports that expectations are getting squeezed after the AI stock rout. Investors are testing the price before the books e",
+      "description_en": "🚨 Anthropic's IPO buyers are now eyeing a valuation as low as $1.1TBloomberg reports that expectations are getting squeezed after the AI stock rout. Investors are testing the price before the books even open.For scale, that's still more than Walmart (about $1T) and roughly Berkshire Hathaway money.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/944",
+      "image_url": null,
+      "pub_date": "2026-11-06T18:07:50+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-06T18:14:30.174Z",
+      "created_at": "2026-11-06T18:14:30.174Z"
     }
   ]
 }
