@@ -599678,6 +599678,199 @@
       "priority": "hot",
       "fetchedAt": "2026-11-06T10:46:12.775Z",
       "created_at": "2026-11-06T10:46:12.775Z"
+    },
+    {
+      "id": 27703,
+      "source": "The Guardian AI",
+      "title_en": "Russia and US seek to block plan for binding rules on autonomous weapons",
+      "description_en": "UN conference this month seen as key moment after years of discussions on filling gap in governance of AI systems\nPlans to fill a gap in the global governance of autonomous weapons are in jeopardy as a group of nations led by Russia and the US move to use a UN conference this month to block proposals to negotiate a legally binding set of rules.\nThe scale of the opposition will become clear at a diplomatic retreat starting on Friday ahead of the seventh review conference on “certain conventional ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/world/2026/nov/06/autonomous-weapons-ai-russia-us-binding-rules",
+      "image_url": "https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=140&quality=85&auto=format&fit=max&s=3dc5cfabfab5dd9995ff8599e96cea6a",
+      "pub_date": "Fri, 06 Nov 2026 11:08:33 GMT",
+      "author": "Patrick Wintour Diplomatic editor",
+      "categories": [
+        {
+          "_": "United Nations",
+          "$": {
+            "domain": "https://www.theguardian.com/world/unitednations"
+          }
+        },
+        {
+          "_": "Weapons technology",
+          "$": {
+            "domain": "https://www.theguardian.com/science/weaponstechnology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-06T11:20:02.851Z",
+      "created_at": "2026-11-06T11:20:02.851Z"
+    },
+    {
+      "id": 27704,
+      "source": "The Guardian AI",
+      "title_en": "Nigel Farage's exit from the Telegraph may be cause for cheer. But there’s a sobering side to this story | Jane Martinson",
+      "description_en": "The clear-out at the newspaper seems driven less by politics than by a shift towards AI – and journalism will pay the price\nNigel Farage has been writing columns for the Daily Telegraph since 2016, most of which have promoted the previously Brexit and now Reform UK party he leads, or accused his rivals of going soft on immigration. For this privilege the paper’s cash-strapped bosses paid him around £4,000 a month, adding up to nearly half a million pounds over the past decade.\nNews broke this we",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/06/nigel-farage-telegraph-story-newspaper-ai",
+      "image_url": "https://i.guim.co.uk/img/media/1d80f91989798dd54d6156df6ae90f2f174980ec/302_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=89595e33703efb140a66058111fd18fe",
+      "pub_date": "Fri, 06 Nov 2026 11:00:51 GMT",
+      "author": "Jane Martinson",
+      "categories": [
+        {
+          "_": "Daily Telegraph",
+          "$": {
+            "domain": "https://www.theguardian.com/media/dailytelegraph"
+          }
+        },
+        {
+          "_": "Axel Springer",
+          "$": {
+            "domain": "https://www.theguardian.com/media/axel-springer"
+          }
+        },
+        {
+          "_": "National newspapers",
+          "$": {
+            "domain": "https://www.theguardian.com/media/national-newspapers"
+          }
+        },
+        {
+          "_": "Newspapers",
+          "$": {
+            "domain": "https://www.theguardian.com/media/newspapers"
+          }
+        },
+        {
+          "_": "Nigel Farage",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/nigel-farage"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Brexit",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/eu-referendum"
+          }
+        },
+        {
+          "_": "European Union",
+          "$": {
+            "domain": "https://www.theguardian.com/world/eu"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Newspapers & magazines",
+          "$": {
+            "domain": "https://www.theguardian.com/media/pressandpublishing"
+          }
+        },
+        {
+          "_": "Media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/media"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-06T11:20:02.851Z",
+      "created_at": "2026-11-06T11:20:02.851Z"
+    },
+    {
+      "id": 27705,
+      "source": "Nature Machine Intelligence",
+      "title_en": "Towards ecologically meaningful foundation models",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.nature.com/articles/s42256-026-01317-6",
+      "image_url": null,
+      "pub_date": "2026-11-06T00:00:00.000Z",
+      "author": "Ross J. Gardiner",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-06T11:20:04.823Z",
+      "created_at": "2026-11-06T11:20:04.823Z"
+    },
+    {
+      "id": 27706,
+      "source": "Tom's Hardware",
+      "title_en": "Gelsinger-backed Nagare Labs’ Z2RAM promises SRAM speed at DRAM density",
+      "description_en": "Georgia Tech spinout Nagare Labs, backed by Playground Global, unveils Z2RAM, a capacitorless memory to stack on AI accelerators.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/gelsinger-backed-nagare-labs-capacitorless-z2ram-promises-sram-speed-with-dram-density-latest-published-cell-retains-data-for-over-300-seconds-at-85-c-but-further-figures-are-projected",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/wBsiTVdEXUvLhGduqG9Q2d-1920-80.jpg",
+      "pub_date": "Fri, 06 Nov 2026 11:00:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-06T11:20:04.983Z",
+      "created_at": "2026-11-06T11:20:04.983Z"
+    },
+    {
+      "id": 27707,
+      "source": "Backdoor (TG)",
+      "title_en": "Нейронкам теперь можно звонить — чел подключил Claude к телефону из 90-х и теперь звонит ему с задачами. ИИ звонит в ответ и отчитывается о проделанной работе.Когда хотел быть президентом, но стал вай",
+      "description_en": "Нейронкам теперь можно звонить — чел подключил Claude к телефону из 90-х и теперь звонит ему с задачами. ИИ звонит в ответ и отчитывается о проделанной работе.Когда хотел быть президентом, но стал вайбкодером.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32731",
+      "image_url": null,
+      "pub_date": "2026-11-06T10:51:11+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-06T11:20:10.316Z",
+      "created_at": "2026-11-06T11:20:10.316Z"
     }
   ]
 }
