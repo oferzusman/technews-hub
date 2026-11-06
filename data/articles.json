@@ -599167,6 +599167,462 @@
       "priority": "hot",
       "fetchedAt": "2026-11-06T03:07:14.858Z",
       "created_at": "2026-11-06T03:07:14.858Z"
+    },
+    {
+      "id": 27680,
+      "source": "TechCrunch AI",
+      "title_en": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "description_en": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "image_url": null,
+      "pub_date": "Fri, 06 Nov 2026 06:28:32 +0000",
+      "author": "Marina Temkin",
+      "categories": [
+        "AI",
+        "Security",
+        "Lightspeed Venture Capital",
+        "M&A",
+        "palo alto networks",
+        "signalfire"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-06T09:51:32.898Z",
+      "created_at": "2026-11-06T09:51:32.898Z"
+    },
+    {
+      "id": 27681,
+      "source": "MarkTechPost",
+      "title_en": "Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active",
+      "description_en": "Thinking Machines Lab released Inkling 2 Small, a 594B-parameter MoE with 17B active parameters. It scores 31 on the Artificial Analysis Intelligence Index and runs on Tinker, with Apache 2.0 weights planned.\nThe post Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/",
+      "image_url": null,
+      "pub_date": "Fri, 06 Nov 2026 04:25:07 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-06T09:51:34.490Z",
+      "created_at": "2026-11-06T09:51:34.490Z"
+    },
+    {
+      "id": 27682,
+      "source": "The Guardian AI",
+      "title_en": "Global stocks tumble as AI panic grips markets after Democrats’ midterm success – business live",
+      "description_en": "Rolling coverage of the latest economic and financial news, as Asia-Pacific markets slide after Wall Street rout\nDespite the sharp losses suffered on global stock markets around the world, most indices are still up for the year.\nThe Nasdaq Composite index, for example, is still up 4.6% since the start of January – even though it’s more than 10% below its peak.\n“The tech sell-off has intensified, with the pain of the brutal sell-off on Wall Street carried straight through to Asia and knocking sen",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
+      "image_url": "https://i.guim.co.uk/img/media/aeabbfb1da8193532a86e74e3483eb342ed18a23/0_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=30593b40571312d0a2ae68ec53e3df3d",
+      "pub_date": "Fri, 06 Nov 2026 09:49:56 GMT",
+      "author": "Graeme Wearden",
+      "categories": [
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Economics",
+          "$": {
+            "domain": "https://www.theguardian.com/business/economics"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "FTSE",
+          "$": {
+            "domain": "https://www.theguardian.com/business/ftse"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-06T09:51:35.460Z",
+      "created_at": "2026-11-06T09:51:35.460Z"
+    },
+    {
+      "id": 27683,
+      "source": "The Guardian AI",
+      "title_en": "Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph",
+      "description_en": "Asian and European markets follow Wall Street with sharp fall as FTSE down 1.5%\n\nBusiness live – latest updates\n\nEuropean stock markets have fallen sharply as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fears of a slowdown in the AI industry.\nA sell-off on Wall Street on Thursday was followed by sharp falls in Asian stocks markets on Friday morning. The investor sentiment then reached London, with the FTSE 100 index, which tracks blue-chip s",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+      "image_url": "https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=140&quality=85&auto=format&fit=max&s=89a44d686b06b49ef9bf9404d834f126",
+      "pub_date": "Fri, 06 Nov 2026 08:58:22 GMT",
+      "author": "Mark Sweney and Graeme Wearden",
+      "categories": [
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "FTSE",
+          "$": {
+            "domain": "https://www.theguardian.com/business/ftse"
+          }
+        },
+        {
+          "_": "Europe",
+          "$": {
+            "domain": "https://www.theguardian.com/world/europe-news"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Asia Pacific",
+          "$": {
+            "domain": "https://www.theguardian.com/world/asia-pacific"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Nasdaq",
+          "$": {
+            "domain": "https://www.theguardian.com/business/nasdaq"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-06T09:51:35.460Z",
+      "created_at": "2026-11-06T09:51:35.460Z"
+    },
+    {
+      "id": 27684,
+      "source": "Interesting Engineering",
+      "title_en": "Claude adds personal finance feature to analyze transactions and track spending",
+      "description_en": "Anthropic has introduced a Personal Finance feature in Claude that allows users to connect their...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/claude-personal-finance-bank-accounts-spending-analysis",
+      "image_url": null,
+      "pub_date": "Fri, 06 Nov 2026 03:29:40 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-06T09:51:35.974Z",
+      "created_at": "2026-11-06T09:51:35.974Z"
+    },
+    {
+      "id": 27685,
+      "source": "Product Hunt",
+      "title_en": "Tobira Site Agent",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/tobira-ai",
+      "image_url": null,
+      "pub_date": "2026-10-24T11:25:07.000Z",
+      "author": "Chris Messina",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-06T09:51:37.635Z",
+      "created_at": "2026-11-06T09:51:37.635Z"
+    },
+    {
+      "id": 27686,
+      "source": "Product Hunt",
+      "title_en": "Plainmail",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/plainmail",
+      "image_url": null,
+      "pub_date": "2026-11-05T18:55:10.000Z",
+      "author": "Joey Dafforn",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-06T09:51:37.635Z",
+      "created_at": "2026-11-06T09:51:37.635Z"
+    },
+    {
+      "id": 27687,
+      "source": "Product Hunt",
+      "title_en": "DALI AI by SupplyzPro",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+      "image_url": null,
+      "pub_date": "2026-09-26T23:03:55.000Z",
+      "author": "Seddik Houimli",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-06T09:51:37.635Z",
+      "created_at": "2026-11-06T09:51:37.635Z"
+    },
+    {
+      "id": 27688,
+      "source": "Product Hunt",
+      "title_en": "Magic Wonders",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/magic-wonders",
+      "image_url": null,
+      "pub_date": "2026-11-05T20:06:11.000Z",
+      "author": "Martin Perez",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-06T09:51:37.635Z",
+      "created_at": "2026-11-06T09:51:37.635Z"
+    },
+    {
+      "id": 27689,
+      "source": "Product Hunt",
+      "title_en": "Translucent AI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/translucent-ai",
+      "image_url": null,
+      "pub_date": "2026-11-05T14:57:51.000Z",
+      "author": "Yashas Gunderia",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-06T09:51:37.635Z",
+      "created_at": "2026-11-06T09:51:37.635Z"
+    },
+    {
+      "id": 27690,
+      "source": "Product Hunt",
+      "title_en": "AgentTM",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/agenttm",
+      "image_url": null,
+      "pub_date": "2026-11-03T15:48:36.000Z",
+      "author": "Jyotishmoy Deka",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-06T09:51:37.635Z",
+      "created_at": "2026-11-06T09:51:37.635Z"
+    },
+    {
+      "id": 27691,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Paint ВЗЛОМАЛИ — и через него могут удалённо получить доступ к вашему ПК. Да, это не шутка.• В самом простеньком редакторе нашли уязвимость на 8.1 балла.• Самое смешное — уязвимость позволяет запус",
+      "description_en": "⚡️ Paint ВЗЛОМАЛИ — и через него могут удалённо получить доступ к вашему ПК. Да, это не шутка.• В самом простеньком редакторе нашли уязвимость на 8.1 балла.• Самое смешное — уязвимость позволяет запускать код на вашем ПК через сеть (!), и да, у Paint почему-то есть доступ в сеть.• Уязвимость пофиксили, но обнову не смогли загрузить в Microsoft Store.Как проверить и защитить свой комп от дырявого Paint — открываем PowerShell и запускаем Get-AppxPackage -Name Microsoft.Paint | Select-Object Name, ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32725",
+      "image_url": "https://cdn4.telesco.pe/file/D5pY3VbhGBTyhevWmAxo-eulvpx8dzt_Y-GstiTrKc4q0NMQL4OYZTsTwS_3yTZPnHAheDbNuvmKVZnhXPT7C45D4szbj1OX_31NZ5pU4kDvh2Vpn1q5VXoMh_ZzegURn1B4U2OTU_o_XRXj8pWOWXtbwTSKTjs4cjjauOaUgvhUCyai5AO1D1lW5-ukeIQGNOBAqvP6w1CQYSZ-OLGB3Xi7QuMjVhTL5kNnaE7MoCRdiVQpi8wjWd-NYpkkMcriUsb8tggrEjvnoubNLAnusOIQXMCF8MNFpXFm9O1lZ4yEpuf5JP6Dqw4SeZLS-4q1kNPWWV3gZa8kx9ahNlw-Kw.jpg",
+      "pub_date": "2026-11-06T06:21:53+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-06T09:51:38.170Z",
+      "created_at": "2026-11-06T09:51:38.170Z"
+    },
+    {
+      "id": 27692,
+      "source": "Backdoor (TG)",
+      "title_en": "Дизайнеры, имба: нашли огромную базу из 1️⃣2️⃣7️⃣0️⃣ реальных сайтов. Можете выбрать любой понравившийся проект, скачать его design.md и отдать файл Codex, Claude Code или Cursor. • ИИ-агент детально ",
+      "description_en": "Дизайнеры, имба: нашли огромную базу из 1️⃣2️⃣7️⃣0️⃣ реальных сайтов. Можете выбрать любой понравившийся проект, скачать его design.md и отдать файл Codex, Claude Code или Cursor. • ИИ-агент детально изучит все данные, дизайн, цвета, анимации и прочие элементы, чтобы воссоздать интерфейс в том же стиле. • БЕСПЛАТНО, без ограничений и без регистрации.Забираем — тут.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32726",
+      "image_url": null,
+      "pub_date": "2026-11-06T08:19:58+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-06T09:51:38.170Z",
+      "created_at": "2026-11-06T09:51:38.170Z"
+    },
+    {
+      "id": 27693,
+      "source": "XOR Journal (TG)",
+      "title_en": "Самый честный редизайн 😂@xor_journal",
+      "description_en": "Самый честный редизайн 😂@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10436",
+      "image_url": null,
+      "pub_date": "2026-11-06T07:34:34+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-06T09:51:38.194Z",
+      "created_at": "2026-11-06T09:51:38.194Z"
+    },
+    {
+      "id": 27694,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🔍 Cocoa Is Grown in BioreactorsThe Boston-based biotech startup Galy has developed a technology for growing cocoa in bioreactors. Cells from a piece of a cocoa bean are placed in sterile containers s",
+      "description_en": "🔍 Cocoa Is Grown in BioreactorsThe Boston-based biotech startup Galy has developed a technology for growing cocoa in bioreactors. Cells from a piece of a cocoa bean are placed in sterile containers similar to brewing tanks. The tanks are kept at the desired temperature, and sugar, nitrogen, and other nutrients are added. The cells absorb the nutrients and begin to multiply. The resulting mass is then fermented, roasted, and ground into a powder.✈️ The ability to grow cocoa in a laboratory could",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2910",
+      "image_url": "https://cdn4.telesco.pe/file/A2eoQqgVLebI8hvBzkw4mrAqWZOwbu6n1zQ69knbTqP1p0fvZk0ZDlGsotwzVvy9Qg9sbWCtkQp2IhENpzteoTZ82rthbe1l-_XxN5nSxiJdRTbqup9YX850hr6FP_TdumSxSJkseQP5NBq_LWpgCCuXNQVRkt2eoP8nTC05IBtcSgx9iXnSmcjVzQPHWfjdKbhgPZGO0rJm1HtbezBCEmVFIH3blhZL3Ki9hJRNzdB4v9n0bkGvEj3jLXn4yYayVHPK-5kbwbpXwi_HV7lw627c0dxbyC-wwOMolRFo5BnSTv_WJgjc6wayqK4pIkisSSc6OIaAQ9kL-JrloraQ0w.jpg",
+      "pub_date": "2026-11-06T09:43:18+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-06T09:51:38.461Z",
+      "created_at": "2026-11-06T09:51:38.461Z"
+    },
+    {
+      "id": 27695,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🔍 Какао выращивают в биореакторахБостонский биотех-стартап Galy разработал технологию выращивания какао в биореакторах. Клетки из кусочка какао-боба помещают в стерильные резервуары, похожие на пивов",
+      "description_en": "🔍 Какао выращивают в биореакторахБостонский биотех-стартап Galy разработал технологию выращивания какао в биореакторах. Клетки из кусочка какао-боба помещают в стерильные резервуары, похожие на пивоваренные танки. В них поддерживают нужную температуру, добавляют сахар, азот и другие питательные вещества.Клетки поглощают сырье и снова начинают делиться. Затем полученную массу ферментируют, обжаривают и измельчают в порошок. ✈️ Возможность выращивать какао в лаборатории в перспективе поможет сниз",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3802",
+      "image_url": "https://cdn4.telesco.pe/file/YCJeAshtULY0huWBqG1DTL0bH1MS1yb0MR4rEQmA2bDBTU5TPx-0lH5Y67tlU5OUP_DXSbju6iIDfteSkWJTIcpx91jJ5DOj5A3SD-WCqycVi-pIZY3zisiu17nnI2PPDVsV4djVwyOiuAWYRQo7g-F1PL19cEabYgF4qFEub0jnIPs8xfhuKxKyPLELHVRY0XNET49cLa7AWLXA_5xSkMxURk60vetlxgEo_GIvd08jGpA4zivWWgTa19Q3wQ0qKmxDqWNouzzav5J0I1rv8g_Q_nNxw8v64rDFrAvqRsytWohRbxQcw-6vVUsyUWEllgKSpzAPbPE8JdDC6lACOw.jpg",
+      "pub_date": "2026-11-06T06:13:49+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-06T09:51:38.525Z",
+      "created_at": "2026-11-06T09:51:38.525Z"
+    },
+    {
+      "id": 27696,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 Fresh robots just walked themselves out of the factoryFigure AI's boss posted a short clip: brand-new F.03 humanoids leave the BotQ plant and cross the campus parking lot on their own — past cars, ",
+      "description_en": "🤖 Fresh robots just walked themselves out of the factoryFigure AI's boss posted a short clip: brand-new F.03 humanoids leave the BotQ plant and cross the campus parking lot on their own — past cars, past people, no remote puppet show in the frame.It's only about 20 seconds. That's what makes it land. Robots that can walk out the door are a lot closer to \"they deliver themselves\" than last year's lab demos.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8718",
+      "image_url": null,
+      "pub_date": "2026-11-06T05:22:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-06T09:51:38.718Z",
+      "created_at": "2026-11-06T09:51:38.718Z"
+    },
+    {
+      "id": 27697,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 China is drafting broad AI guardrails, and it's pointing at security failures abroadBloomberg reports that Beijing plans rules covering AI across the board, prompted by lapses elsewhere in the worl",
+      "description_en": "🚨 China is drafting broad AI guardrails, and it's pointing at security failures abroadBloomberg reports that Beijing plans rules covering AI across the board, prompted by lapses elsewhere in the world.It's a plan, not law. Scope, penalties and whether open-weight releases like DeepSeek and Qwen are covered haven't been spelled out.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/939",
+      "image_url": null,
+      "pub_date": "2026-11-06T05:57:50+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-06T09:51:38.954Z",
+      "created_at": "2026-11-06T09:51:38.954Z"
+    },
+    {
+      "id": 27698,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Anthropic puts \"very close to RSI\" in its IPO filingIn a revised S-1/A, Anthropic says future models may soon hit its RSP threshold, meaning AI-driven progress at roughly 2x the normal pace of AI d",
+      "description_en": "🚨 Anthropic puts \"very close to RSI\" in its IPO filingIn a revised S-1/A, Anthropic says future models may soon hit its RSP threshold, meaning AI-driven progress at roughly 2x the normal pace of AI development. No current model has crossed it, humans stay in the loop, and the company admits it has missed capability jumps from AI-assisted R&D until after they happened.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/940",
+      "image_url": null,
+      "pub_date": "2026-11-06T06:04:11+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-06T09:51:38.954Z",
+      "created_at": "2026-11-06T09:51:38.954Z"
+    },
+    {
+      "id": 27699,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🧠 Hugging Face drops a free handbook on training MoE modelsThe MoE Training Handbook covers the parts that actually hurt: expert routing, training stability and compute cost. It's aimed at people who",
+      "description_en": "🧠 Hugging Face drops a free handbook on training MoE modelsThe MoE Training Handbook covers the parts that actually hurt: expert routing, training stability and compute cost. It's aimed at people who train or fine-tune LLMs, not just read about them.Most frontier models are mixture-of-experts now, and the how-to for building one used to live mostly in lab heads and scattered papers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/941",
+      "image_url": null,
+      "pub_date": "2026-11-06T09:04:50+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-06T09:51:38.954Z",
+      "created_at": "2026-11-06T09:51:38.954Z"
     }
   ]
 }
