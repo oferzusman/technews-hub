@@ -602089,8 +602089,8 @@
       "source": "Interesting Engineering",
       "title_en": "1,600x faster: Google DeepMind agents expose weaknesses in older encryption methods",
       "description_en": "Google DeepMind researchers have used AI agents to discover cryptographic techniques that expose weaknesses in...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "1,600 פעמים יותר מהר: סוכני AI של גוגל DeepMind חושפים נקודות חולשה בשיטות הצפנה ישנות",
+      "description_he": "חוקרי DeepMind של גוגל השתמשו בסוכני AI כדי לגלות טכניקות קריפטוגרפיות שחושפות חולשות בשיטות הצפנה הוותיקות - והם עשו זאת במהירות שמדהימה, לפעמים אפילו 1,600 פעמים יותר מהר מהשיטות המסורתיות. זה מעלה אזהרות חדשות על אבטחת מערכות הצפנה שעדיין בשימוש ומראה איך AI יכול לשמש כך הן להתקפה והן להגנה בעולם הקיברנטיקה. המחקר מחזק את הטענה שצריך לעדכן את תשתיות ההצפנה שלנו עוד היום, לפני שהטכנולוגיה הזו תהפוך לנגישה יותר לשחקנים רעים. מקור: Interesting Engineering",
       "link": "https://interestingengineering.com/ai-robotics/1600x-faster-google-deepmind-agents-expose-weaknesses-in-older-encryption-methods",
       "image_url": null,
       "pub_date": "Fri, 06 Nov 2026 22:21:46 +0000",
@@ -602098,7 +602098,7 @@
       "categories": [
         "AI and Robotics"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-11-06T22:25:51.769Z",
       "created_at": "2026-11-06T22:25:51.769Z"
@@ -602108,14 +602108,14 @@
       "source": "Habr (TG)",
       "title_en": "Троян в твоих ушах: как угнать WhatsApp и Amazon через беспроводные наушникиДва немецких пентестера проверяли Bluetooth Auracast, а наткнулись на серьёзную уязвимость в наушниках с чипами Airoha. Под ",
       "description_en": "Троян в твоих ушах: как угнать WhatsApp и Amazon через беспроводные наушникиДва немецких пентестера проверяли Bluetooth Auracast, а наткнулись на серьёзную уязвимость в наушниках с чипами Airoha. Под удар попали отдельные модели Sony, Marshall, JBL, Jabra и других брендов. Из рутинного аудита выросло целое расследование, которое закончилось демонстрацией угона WhatsApp и входа в Amazon.Airoha подготовила патч за две недели, но спустя ещё месяц ни один производитель наушников не выпустил обновлен",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "טרויאן באוזניים שלך: איך לחטוף WhatsApp ו-Amazon דרך אוזניות אלחוטיות",
+      "description_he": "שני חוקרי אבטחה גרמנים גילו חור אבטחה רציני בשבבי Airoha המשמשים אוזניות של חברות כמו Sony, Marshall ו-JBL. הפגיעות מאפשרות התחזות מלאה למכשירים ואפילו חטיפת חשבונות WhatsApp ו-Amazon. למרות שAiroha השקיעה תיקייה תוך שבועיים, עדיין לא מעדכנים היצרנים את האוזניות עם התיקייה החיוני הזה.",
       "link": "https://t.me/habr_com/69967",
       "image_url": "https://cdn4.telesco.pe/file/qLjDPxZ9V7s4-odd7T9fOq4pz5Ma4C03lnFfwSZLC4ByDnbDhQ7CrGCi1CEoFwyNKZKwxEGw8lS1MbOMvyTZ_D6g3uFEHtfRkZOifc72kBcdfJVpxqpHXnhFaIr3OVIOjShUH8mWwJ1b8Bp6PZH570yeoqBTneo6uojKXxbxNMXlttgiAk5BfKNb3GmlEnSmEVpVK2uLq6HSfKgS5VGpLS4TAo14cXGxbxjVvuWuW7waVaurlh7jiOSVq70tLogcRm3cuF6_maNiof7fxJx6LpvighbJUl0nNsPObmFsD-grRAhTx1r_P8zsUcjFs0xkn4bOXV41dIFk_-j77JF34A.jpg",
       "pub_date": "2026-11-06T22:01:34+00:00",
       "author": null,
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-11-06T22:25:52.930Z",
       "created_at": "2026-11-06T22:25:52.930Z"
