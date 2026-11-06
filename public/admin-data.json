@@ -1,9 +1,9 @@
 {
-  "total": 27699,
-  "translated": 27691,
+  "total": 27702,
+  "translated": 27694,
   "untranslated": 8,
-  "today": 42,
-  "week": 736,
+  "today": 45,
+  "week": 739,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -31,9 +31,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1646,
-      "translated": 1644,
-      "lastDate": "2026-11-06T05:22:01+00:00"
+      "total": 1647,
+      "translated": 1645,
+      "lastDate": "2026-11-06T10:45:44+00:00"
     },
     {
       "name": "The Decoder",
@@ -109,8 +109,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 494,
-      "translated": 494,
+      "total": 495,
+      "translated": 495,
       "lastDate": "Wed, 30 Sep 2026 12:10:00 +0000"
     },
     {
@@ -139,8 +139,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 306,
-      "translated": 306,
+      "total": 307,
+      "translated": 307,
       "lastDate": "Wed, 30 Sep 2026 00:00:00 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-06T09:55:59.121Z"
+  "generatedAt": "2026-11-06T10:47:28.089Z"
 }
