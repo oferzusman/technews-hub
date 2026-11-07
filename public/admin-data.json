@@ -1,7 +1,7 @@
 {
   "total": 27879,
-  "translated": 27867,
-  "untranslated": 12,
+  "translated": 27871,
+  "untranslated": 8,
   "today": 74,
   "week": 833,
   "sources": [
@@ -32,7 +32,7 @@
     {
       "name": "AI Post (TG)",
       "total": 1659,
-      "translated": 1655,
+      "translated": 1657,
       "lastDate": "2026-11-07T20:11:01+00:00"
     },
     {
@@ -50,7 +50,7 @@
     {
       "name": "The Guardian AI",
       "total": 1377,
-      "translated": 1376,
+      "translated": 1377,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
@@ -80,7 +80,7 @@
     {
       "name": "MarkTechPost",
       "total": 889,
-      "translated": 888,
+      "translated": 889,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-07T20:40:59.453Z"
+  "generatedAt": "2026-11-07T20:41:42.416Z"
 }
