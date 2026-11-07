@@ -603764,6 +603764,114 @@
       "priority": "hot",
       "fetchedAt": "2026-11-07T18:56:22.393Z",
       "created_at": "2026-11-07T18:56:22.393Z"
+    },
+    {
+      "id": 27876,
+      "source": "MarkTechPost",
+      "title_en": "How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide",
+      "description_en": "Explore a comprehensive coding guide for NVIDIA's Dory 1.0 4B looped language model. Learn how to build the pinned llama.cpp branch, analyze loop-by-loop compute costs, test memory caching, and run paired evaluations.\nThe post How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/",
+      "image_url": null,
+      "pub_date": "Sat, 07 Nov 2026 19:22:44 +0000",
+      "author": "Sana Hassan",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Staff",
+        "Technology",
+        "Tutorials"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-07T20:40:22.562Z",
+      "created_at": "2026-11-07T20:40:22.562Z"
+    },
+    {
+      "id": 27877,
+      "source": "The Guardian AI",
+      "title_en": "FAA announces first US digital air traffic control towers in Florida and Alaska",
+      "description_en": "Systems provide 360-degree view of airport operations, but concerns have been raised about the technology\nThe Federal Aviation Administration (FAA) has announced that the first digital air traffic control towers in the US are officially operational, bringing new technology first to smaller airports in Florida and Alaska as the Trump administration presses ahead with updating the country’s ageing aviation infrastructure.\nThe systems are now online at the Bartow executive airport (KBOW) in Florida",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
+      "image_url": "https://i.guim.co.uk/img/media/e713b6ce0cb3abec030579736ea07b0d1821a0da/334_0_3338_2670/master/3338.jpg?width=140&quality=85&auto=format&fit=max&s=0dec4bcc78b00a8ba4fada6d106eee57",
+      "pub_date": "Sat, 07 Nov 2026 20:03:23 GMT",
+      "author": "Marina Dunbar",
+      "categories": [
+        {
+          "_": "Trump administration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/trump-administration"
+          }
+        },
+        {
+          "_": "Air transport",
+          "$": {
+            "domain": "https://www.theguardian.com/world/air-transport"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-07T20:40:23.270Z",
+      "created_at": "2026-11-07T20:40:23.270Z"
+    },
+    {
+      "id": 27878,
+      "source": "AI Post (TG)",
+      "title_en": "🙃 Elon Musk confirms Tesla will rent Optimus robots, not sell them, as build cost falls from about $30,000 toward $20,000.At the Baron Investment Conference with Ron Baron, Elon said Optimus will ini",
+      "description_en": "🙃 Elon Musk confirms Tesla will rent Optimus robots, not sell them, as build cost falls from about $30,000 toward $20,000.At the Baron Investment Conference with Ron Baron, Elon said Optimus will initially cost about as much as a car to build, then drop well below that. Asked whether Tesla would rent or sell the robots, he answered: “I think probably rent them.” Renting keeps the fleet and the usage data with Tesla, the same recurring-revenue path Full Self-Driving already follows. Outside deli",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8731",
+      "image_url": null,
+      "pub_date": "2026-11-07T19:56:18+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-07T20:40:29.968Z",
+      "created_at": "2026-11-07T20:40:29.968Z"
+    },
+    {
+      "id": 27879,
+      "source": "AI Post (TG)",
+      "title_en": "Elon Musk revealed that SpaceX will begin launching StarMind SI computers into orbit in Q3 2027, with major deployment ramps in 2028 and 2029. 🚀The first systems are being co-designed with NVIDIA aro",
+      "description_en": "Elon Musk revealed that SpaceX will begin launching StarMind SI computers into orbit in Q3 2027, with major deployment ramps in 2028 and 2029. 🚀The first systems are being co-designed with NVIDIA around Vera Rubin NVL72. Space-based supercomputing is becoming a reality.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8732",
+      "image_url": null,
+      "pub_date": "2026-11-07T20:11:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-07T20:40:29.968Z",
+      "created_at": "2026-11-07T20:40:29.968Z"
     }
   ]
 }
