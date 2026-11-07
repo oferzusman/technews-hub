@@ -603413,6 +603413,43 @@
       "priority": "batch",
       "fetchedAt": "2026-11-07T14:20:17.915Z",
       "created_at": "2026-11-07T14:20:17.915Z"
+    },
+    {
+      "id": 27857,
+      "source": "CNBC Tech",
+      "title_en": "America's newest small business owners with no employees are off to a hot start in AI era",
+      "description_en": "New small business formation is rising for owners who can grow with AI serving in finance, marketing and design roles, eliminating the need for hiring.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html",
+      "image_url": null,
+      "pub_date": "Sat, 07 Nov 2026 14:45:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-07T15:12:55.375Z",
+      "created_at": "2026-11-07T15:12:55.375Z"
+    },
+    {
+      "id": 27858,
+      "source": "Tom's Hardware",
+      "title_en": "US intelligence believes Jensen Huang had romantic relationship with Chinese spy in honeypot operation",
+      "description_en": "U.S. intelligence sources suggest that Nvidia chief Jensen Huang was targeted by Chinese intelligence in a 'honeypot' operation involving Megaspeed executive Alice Huang.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/fjFkN4c5HUsWwQPK4dVKZR-1920-80.png",
+      "pub_date": "Sat, 07 Nov 2026 14:47:37 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-07T15:12:55.426Z",
+      "created_at": "2026-11-07T15:12:55.426Z"
     }
   ]
 }
