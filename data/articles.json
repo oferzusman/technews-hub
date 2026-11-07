@@ -602908,6 +602908,511 @@
       "priority": "hot",
       "fetchedAt": "2026-11-07T10:34:16.811Z",
       "created_at": "2026-11-07T10:34:16.811Z"
+    },
+    {
+      "id": 27833,
+      "source": "The Verge AI",
+      "title_en": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "description_en": "Anthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images\t\n\nAnthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down.\nThat's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation inside the company, as part of a report evaluating its AI research and developm",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "image_url": null,
+      "pub_date": "2026-11-07T12:30:00.000Z",
+      "author": "Robert Hart",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-07T14:20:08.490Z",
+      "created_at": "2026-11-07T14:20:08.490Z"
+    },
+    {
+      "id": 27834,
+      "source": "Ars Technica",
+      "title_en": "British soldier ignored order to pull his SIM card, then got blackmailed",
+      "description_en": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156853-1024x648.jpg",
+      "pub_date": "Sat, 07 Nov 2026 11:00:34 +0000",
+      "author": "\n                    Cyrus Farivar\n                ",
+      "categories": [
+        "Security",
+        "Tech",
+        "Daniel Barton-Kennedy",
+        "sim card",
+        "soldier"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-07T14:20:08.548Z",
+      "created_at": "2026-11-07T14:20:08.548Z"
+    },
+    {
+      "id": 27835,
+      "source": "The Decoder",
+      "title_en": "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away",
+      "description_en": "Nous Research retrained Alibaba's Qwen3.8-27B to produce Arete-27B, largely stripping out its pro-Chinese bias. The propaganda rate dropped from 22 percent to less than one percent, while general capabilities remained intact in tests. The method relied on 53 million tokens of supervised fine-tuning. The political bias is \"applied late, it is applied thin,\" the team writes.\nThe article State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away appeared first",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/",
+      "image_url": null,
+      "pub_date": "Sat, 07 Nov 2026 12:32:45 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "AI and China",
+        "China",
+        "Open Claw",
+        "Open Source"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-07T14:20:09.721Z",
+      "created_at": "2026-11-07T14:20:09.721Z"
+    },
+    {
+      "id": 27836,
+      "source": "The Decoder",
+      "title_en": "Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar",
+      "description_en": "The \"Into the Unknown\" benchmark tasks nine AI agents with tackling open research questions from U.S. national laboratories. None of the 135 submissions meets all requirements. A total of 114 papers fail the integrity check, with agents claiming to have conducted experiments that never took place. GPT-6 Astra performs best but still doesn't meet the experts' standards.\nThe article Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar ap",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/",
+      "image_url": null,
+      "pub_date": "Sat, 07 Nov 2026 11:13:42 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Research"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-07T14:20:09.721Z",
+      "created_at": "2026-11-07T14:20:09.721Z"
+    },
+    {
+      "id": 27837,
+      "source": "New Atlas",
+      "title_en": "Cold War bomber to get 21st-century hypersonic missile",
+      "description_en": "The cutting-edge future is meeting the over-engineered past as Lockheed Martin is awarded a US$694-million contract by the US Air Force to move the company's AGM-183A hypersonic missile to production for arming the vintage Cold War B-52 bomber.\nContinue Reading\nCategory: Military, Engineering\nTags: US Air Force, Hypersonic, Lockheed Martin",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/military/cold-war-bomber-to-get-21st-century-hypersonic-missile/",
+      "image_url": null,
+      "pub_date": "Sat, 07 Nov 2026 13:03:00 GMT",
+      "author": "David Szondy",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-07T14:20:10.332Z",
+      "created_at": "2026-11-07T14:20:10.332Z"
+    },
+    {
+      "id": 27838,
+      "source": "The Guardian AI",
+      "title_en": "Standing in the way of slop bowls: the woman blocking food delivery robots",
+      "description_en": "Semi-retired professor Carolyn Marvin became a local celebrity facing down Philadelphia’s growing robot delivery army: ‘It’s my first amendment right to protest’\n“One of you needs to be on the lookout for cops, while I block the robot, OK?”\nIt is a crisp fall morning in Philadelphia. Tucked away in a dingy alley, opposite a garage called Patriot Parking, 78-year-old Carolyn Marvin is laying out some ground rules for a robot-disrupting expedition. Once a suitable target is identified, we will fol",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots",
+      "image_url": "https://i.guim.co.uk/img/media/6c9b99624b2d4f830d94948c591fde5d07839cf9/148_0_6358_5086/master/6358.jpg?width=140&quality=85&auto=format&fit=max&s=731516b3b10b69bcfb54fdbce5864718",
+      "pub_date": "Sat, 07 Nov 2026 14:00:12 GMT",
+      "author": "Arwa Mahdawi with visuals by Kriston Jae Bethel",
+      "categories": [
+        {
+          "_": "Robots",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/robots"
+          }
+        },
+        {
+          "_": "Gig economy",
+          "$": {
+            "domain": "https://www.theguardian.com/business/the-gig-economy"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Protest (US)",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/protests--us-"
+          }
+        },
+        {
+          "_": "Couriers/delivery industry",
+          "$": {
+            "domain": "https://www.theguardian.com/business/couriers-delivery"
+          }
+        },
+        {
+          "_": "Philadelphia",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/philadelphia"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-07T14:20:10.731Z",
+      "created_at": "2026-11-07T14:20:10.731Z"
+    },
+    {
+      "id": 27839,
+      "source": "Interesting Engineering",
+      "title_en": "China’s S4000 airborne wind system reaches 2.5 miles in high-altitude tests",
+      "description_en": "A Chinese energy technology company has demonstrated an airborne wind power system designed to generate...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/chinas-s4000-airborne-system-reaches-2-5-miles",
+      "image_url": "https://www.youtube.com/embed/vrFQTOSHnTQ",
+      "pub_date": "Sat, 07 Nov 2026 13:16:38 +0000",
+      "author": "Bojan Stojkovski",
+      "categories": [
+        "Energy"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-07T14:20:11.228Z",
+      "created_at": "2026-11-07T14:20:11.228Z"
+    },
+    {
+      "id": 27840,
+      "source": "Interesting Engineering",
+      "title_en": "US ally’s newest submarine sinks a patrol ship with one torpedo strike in Atlantic drill",
+      "description_en": "A submarine can deliver a devastating strike without ever revealing its position. Spain’s newest submarine,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-ally-submarine-sink-ship-torpedo-strike",
+      "image_url": null,
+      "pub_date": "Sat, 07 Nov 2026 12:39:35 +0000",
+      "author": "Rupendra Brahambhatt",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-07T14:20:11.228Z",
+      "created_at": "2026-11-07T14:20:11.228Z"
+    },
+    {
+      "id": 27841,
+      "source": "Interesting Engineering",
+      "title_en": "US scientists find domains under 1 nm² that could help shrink chip memory",
+      "description_en": "An electrical domain with an area smaller than 1 nm² could offer a clue to...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/us-researchers-map-domains-under-1-nm-for-denser-memory",
+      "image_url": null,
+      "pub_date": "Sat, 07 Nov 2026 12:19:15 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-07T14:20:11.228Z",
+      "created_at": "2026-11-07T14:20:11.228Z"
+    },
+    {
+      "id": 27842,
+      "source": "Interesting Engineering",
+      "title_en": "22-year run ends: NASA’s 3,200-pound Swift telescope crashes back to Earth after failed rescue",
+      "description_en": "NASA’s Swift space telescope has fallen back to Earth, ending a 22-year mission that was...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/space/nasas-swift-tracked-over-2000-gamma-ray-bursts-before-it-fell-to-earth",
+      "image_url": null,
+      "pub_date": "Sat, 07 Nov 2026 12:16:20 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "Space"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-07T14:20:11.228Z",
+      "created_at": "2026-11-07T14:20:11.228Z"
+    },
+    {
+      "id": 27843,
+      "source": "Interesting Engineering",
+      "title_en": "White roof paint reflects up to 98% of sunlight and cools below air temperature",
+      "description_en": "A white roof paint developed at the University of South Florida kept test surfaces cooler...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/white-roof-paint-reflects-sunlight",
+      "image_url": null,
+      "pub_date": "Sat, 07 Nov 2026 11:39:47 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-07T14:20:11.228Z",
+      "created_at": "2026-11-07T14:20:11.228Z"
+    },
+    {
+      "id": 27844,
+      "source": "Interesting Engineering",
+      "title_en": "Explainer: How sand batteries turn surplus renewable electricity into stored heat",
+      "description_en": "As solar panels and wind turbines generate more electricity, one challenge is becoming increasingly difficult...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/explainer-how-sand-batteries-turn-surplus-renewable-electricity-into-stored-heat",
+      "image_url": null,
+      "pub_date": "Sat, 07 Nov 2026 11:33:01 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [
+        "Energy"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-07T14:20:11.228Z",
+      "created_at": "2026-11-07T14:20:11.228Z"
+    },
+    {
+      "id": 27845,
+      "source": "Interesting Engineering",
+      "title_en": "7 Battery technologies that could transform electric vehicles and grid storage",
+      "description_en": "An electric car has to carry every pound of its battery down the road, so...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/battery-technologies-that-could-transform-electric-vehicles",
+      "image_url": null,
+      "pub_date": "Sat, 07 Nov 2026 11:32:28 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [
+        "Energy"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-07T14:20:11.228Z",
+      "created_at": "2026-11-07T14:20:11.228Z"
+    },
+    {
+      "id": 27846,
+      "source": "CNBC Tech",
+      "title_en": "Democrat shaping AI policy bought chip stocks despite backing congressional trading ban",
+      "description_en": "Rep. Josh Gottheimer disclosed new AI-linked stock purchases months after voting for a congressional trading ban, as Democrats prepare to regulate the industry.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/07/josh-gottheimer-ai-stocks-congress-trading-ban.html",
+      "image_url": null,
+      "pub_date": "Sat, 07 Nov 2026 13:30:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-07T14:20:11.657Z",
+      "created_at": "2026-11-07T14:20:11.657Z"
+    },
+    {
+      "id": 27847,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
+      "description_en": "Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+      "image_url": null,
+      "pub_date": "Sat, 07 Nov 2026 13:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-07T14:20:11.657Z",
+      "created_at": "2026-11-07T14:20:11.657Z"
+    },
+    {
+      "id": 27848,
+      "source": "CNBC Tech",
+      "title_en": "Tech companies face mounting child safety lawsuits while pushing AI into schools",
+      "description_en": "Lawsuits against Snap, Meta and Google are creating headwinds for tech companies just as artificial intelligence tools expand into classrooms.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/07/snap-social-media-teen-safety-lawsuits.html",
+      "image_url": null,
+      "pub_date": "Sat, 07 Nov 2026 12:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-07T14:20:11.657Z",
+      "created_at": "2026-11-07T14:20:11.657Z"
+    },
+    {
+      "id": 27849,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot",
+      "description_en": "Nvidia's Jensen Huang officially called to Congress due to reports of Chinese plot — officials mention growing concerns over national security",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidias-jensen-huang-officially-called-to-congress-due-to-reports-of-a-chinese-spy-plot-officials-mention-growing-concerns-over-national-security",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/umLVLKxLCxcj2CWHug2Wb8-1920-80.jpg",
+      "pub_date": "Sat, 07 Nov 2026 13:30:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Big Tech",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-07T14:20:11.832Z",
+      "created_at": "2026-11-07T14:20:11.832Z"
+    },
+    {
+      "id": 27850,
+      "source": "Tom's Hardware",
+      "title_en": "TSMC denies exploring 3D DRAM at Nvidia's request",
+      "description_en": "Nvidia reportedly asks TSMC to produce '3D DRAM' to address memory shortages.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/inWCPzXNVFbyYDRmxtthn3-1920-80.jpg",
+      "pub_date": "Sat, 07 Nov 2026 13:00:00 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "DRAM",
+        "PC Components",
+        "RAM"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-07T14:20:11.832Z",
+      "created_at": "2026-11-07T14:20:11.832Z"
+    },
+    {
+      "id": 27851,
+      "source": "Tom's Hardware",
+      "title_en": "Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365",
+      "description_en": "A homelab enthusiast is retiring a Microsoft Exchange installation that began with Exchange 5.5 on Windows NT 4 in 1999. After migrating mailboxes to Microsoft 365, he kept Exchange 2019 running to relay local hardware and software alerts. Postfix on Ubuntu Server LTS will take over, with plans to add STARTTLS, Let's Encrypt certificates, and boot encryption",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/enthusiast-abandons-self-hosted-microsoft-exchange-after-27-years-moving-mailboxes-to-microsoft-365-replaces-final-on-premises-relay-with-postfix-starttls-and-lets-encrypt-certificates",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/GpApBtoCh4tb9AUh89kM3m-1920-80.jpg",
+      "pub_date": "Sat, 07 Nov 2026 12:30:00 +0000",
+      "author": " Newton Gitonga ",
+      "categories": [
+        "Software"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-07T14:20:11.832Z",
+      "created_at": "2026-11-07T14:20:11.832Z"
+    },
+    {
+      "id": 27852,
+      "source": "Tom's Hardware",
+      "title_en": "US FAA to eliminate floppy disks from air traffic control by 2028",
+      "description_en": "The US federal Aviation Administration (FAA) is finally moving to retire floppy disks from its air traffic control infrastructure, with plans to to replace four decades-old information systems across 435 facilities by the end of 2028.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/us-faa-to-eliminate-floppy-disks-from-air-traffic-control-by-2028-new-system-will-centralize-flight-alerts-restricted-airspace-schedules-and-pilot-reports",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/QmF9S6XUtsUo8pn66PSXMh-1920-80.jpg",
+      "pub_date": "Sat, 07 Nov 2026 11:00:00 +0000",
+      "author": " Newton Gitonga ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-07T14:20:11.832Z",
+      "created_at": "2026-11-07T14:20:11.832Z"
+    },
+    {
+      "id": 27853,
+      "source": "XOR Journal (TG)",
+      "title_en": "Разбираемся, как работает интернет — энтузиасты создали для этого Protocol Explorer.Внутри объясняют 14 сетевых протоколов: TCP, DNS, HTTPS, SSH и другие. Можно посмотреть, как устройства устанавливаю",
+      "description_en": "Разбираемся, как работает интернет — энтузиасты создали для этого Protocol Explorer.Внутри объясняют 14 сетевых протоколов: TCP, DNS, HTTPS, SSH и другие. Можно посмотреть, как устройства устанавливают соединение, передают данные и шифруют трафик. Всё в интерактивных анимациях, а каждый пакет можно разобрать по байтам.Залипаем здесь 🤓@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10447",
+      "image_url": null,
+      "pub_date": "2026-11-07T13:00:19+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-07T14:20:17.088Z",
+      "created_at": "2026-11-07T14:20:17.088Z"
+    },
+    {
+      "id": 27854,
+      "source": "Backdoor (TG)",
+      "title_en": "Google Meet теперь переводит речь на 6️⃣3️⃣ языка в реальном времени. В том числе на русский. Даже если у вас есть клиенты за рубежом, сможете общаться с ними без знания иностранного языка.• Да, говор",
+      "description_en": "Google Meet теперь переводит речь на 6️⃣3️⃣ языка в реальном времени. В том числе на русский. Даже если у вас есть клиенты за рубежом, сможете общаться с ними без знания иностранного языка.• Да, говорите на родном языке, а Gemini переводит вашу речь на язык собеседника с минимальной задержкой.• Переводит речь голосом, сохраняет темп, тембр и интонацию, одновременно выводит субтитры.• Работает в браузере и на смартфонах.Инструкция по настройке фичи для созвонов — тут.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32754",
+      "image_url": null,
+      "pub_date": "2026-11-07T10:49:53+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-07T14:20:17.118Z",
+      "created_at": "2026-11-07T14:20:17.118Z"
+    },
+    {
+      "id": 27855,
+      "source": "AI Post (TG)",
+      "title_en": "🧠 Claude now \"dreams\" between chats — so it can fix its own bad notesAnthropic's new engineering post says agent memory works a lot like sleep: Claude writes notes during a session, then offline \"dre",
+      "description_en": "🧠 Claude now \"dreams\" between chats — so it can fix its own bad notesAnthropic's new engineering post says agent memory works a lot like sleep: Claude writes notes during a session, then offline \"dreaming\" replays the transcript, corrects mistakes, builds wiki-style maps, and promotes what the next session should load first.In a Pokémon Red test, Sonnet 3.7 dumped 413 memory files and earned one badge. Fable 5 kept nine files and earned four. When Claude wrongly marked Mt. Moon as finished, dre",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8729",
+      "image_url": "https://cdn4.telesco.pe/file/UwAExw1WlZoT-bzus7_WvknXzXoVVq0hWkfQP2ilTk0iKrX0PLL6Cdg4Wose4tyC6dnoXMK5S8Mm3oJB3QqtBOnus3HZw_5kq3hhFKbelG3UGE5asUMZ4glIRS9D-N7LYBIJgJwgsd2q-byf0KkvqG124b-gmejjaqaQlUFWo_lj9ajFK40Iha8Q3auJSNrSAKsNRlxd0AdMyjOmUtVxnZgialX6PKOMeIGlNQoR0Yylw5s-ELlviFCul8jbqHO1qAIwD7qtKfDQGgVgttG_zVk_SrnMftlFtOPelbtwFruIxZ7cOy3Ys6sNnr5mqMP4X17LuCaLWlmEH3pGZFOAZw.jpg",
+      "pub_date": "2026-11-07T12:50:17+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-07T14:20:17.702Z",
+      "created_at": "2026-11-07T14:20:17.702Z"
+    },
+    {
+      "id": 27856,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🔑 Tell an agent to guard a secret, then offer it a club, and it hands over the keyAE Studio gave agents a private token, said keep it private, and pointed them at a forum of 24 other agents. 80% open",
+      "description_en": "🔑 Tell an agent to guard a secret, then offer it a club, and it hands over the keyAE Studio gave agents a private token, said keep it private, and pointed them at a forum of 24 other agents. 80% opened the forum, 59% signed up, three posted the token and five ran an untrusted script. Most leaks came from DeepSeek and GLM 5.3. Keep API keys out of the model's reach.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/950",
+      "image_url": null,
+      "pub_date": "2026-11-07T12:13:50+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-07T14:20:17.915Z",
+      "created_at": "2026-11-07T14:20:17.915Z"
     }
   ]
 }
