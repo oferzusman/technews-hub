@@ -602334,6 +602334,67 @@
       "priority": "hot",
       "fetchedAt": "2026-11-07T01:29:32.484Z",
       "created_at": "2026-11-07T01:29:32.484Z"
+    },
+    {
+      "id": 27812,
+      "source": "TechCrunch AI",
+      "title_en": "Crusoe sells troubled Wyoming data center project to Google",
+      "description_en": "The deal highlights the challenges of developing massive AI data centers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "image_url": null,
+      "pub_date": "Sat, 07 Nov 2026 01:40:28 +0000",
+      "author": "Marina Temkin",
+      "categories": [
+        "AI",
+        "Google",
+        "datacenter",
+        "ai infrastructure",
+        "crusoe"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-07T02:09:50.795Z",
+      "created_at": "2026-11-07T02:09:50.795Z"
+    },
+    {
+      "id": 27813,
+      "source": "Interesting Engineering",
+      "title_en": "Major quantum computing conjecture solved in three days after 18 years of uncertainty",
+      "description_en": "An 18-year-old mathematical problem concerning the limits of quantum computing may finally have been solved...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/culture/psi-research-system-aaronson-ambainis-quantum-conjecture",
+      "image_url": null,
+      "pub_date": "Sat, 07 Nov 2026 02:09:08 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "Culture"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-07T02:09:55.859Z",
+      "created_at": "2026-11-07T02:09:55.859Z"
+    },
+    {
+      "id": 27814,
+      "source": "Interesting Engineering",
+      "title_en": "SpaceX launches classified US military mission, Falcon 9 booster nails eighth landing",
+      "description_en": "SpaceX has completed another national security launch for the U.S. military, sending its Falcon 9...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/space/spacex-launches-classified-ussf-432-mission",
+      "image_url": null,
+      "pub_date": "Sat, 07 Nov 2026 01:36:00 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "Space"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-07T02:09:55.859Z",
+      "created_at": "2026-11-07T02:09:55.859Z"
     }
   ]
 }
