@@ -1,9 +1,9 @@
 {
-  "total": 27858,
-  "translated": 27850,
+  "total": 27866,
+  "translated": 27858,
   "untranslated": 8,
-  "today": 53,
-  "week": 812,
+  "today": 61,
+  "week": 820,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -31,14 +31,14 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1656,
-      "translated": 1654,
-      "lastDate": "2026-11-07T12:50:17+00:00"
+      "total": 1657,
+      "translated": 1655,
+      "lastDate": "2026-11-07T16:06:26+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 1525,
-      "translated": 1525,
+      "total": 1527,
+      "translated": 1527,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 1020,
-      "translated": 1020,
-      "lastDate": "2026-11-07T12:30:00.000Z"
+      "total": 1023,
+      "translated": 1023,
+      "lastDate": "2026-11-07T15:50:00.000Z"
     },
     {
       "name": "MarkTechPost",
@@ -85,9 +85,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 819,
-      "translated": 819,
-      "lastDate": "2026-11-07T12:13:50+00:00"
+      "total": 820,
+      "translated": 820,
+      "lastDate": "2026-11-07T15:14:50+00:00"
     },
     {
       "name": "Backdoor (TG)",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 248,
-      "translated": 247,
-      "lastDate": "2026-11-06T22:01:34+00:00"
+      "total": 249,
+      "translated": 248,
+      "lastDate": "2026-11-07T16:01:24+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-07T15:14:06.586Z"
+  "generatedAt": "2026-11-07T16:46:42.857Z"
 }
