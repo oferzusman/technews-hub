@@ -1,9 +1,9 @@
 {
-  "total": 27866,
-  "translated": 27858,
+  "total": 27875,
+  "translated": 27867,
   "untranslated": 8,
-  "today": 61,
-  "week": 820,
+  "today": 70,
+  "week": 829,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2439,
-      "translated": 2439,
+      "total": 2442,
+      "translated": 2442,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1765,
-      "translated": 1765,
+      "total": 1766,
+      "translated": 1766,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "name": "The Decoder",
-      "total": 1527,
-      "translated": 1527,
+      "total": 1529,
+      "translated": 1529,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
     {
@@ -55,8 +55,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 1253,
-      "translated": 1253,
+      "total": 1254,
+      "translated": 1254,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -85,15 +85,15 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 820,
-      "translated": 820,
-      "lastDate": "2026-11-07T15:14:50+00:00"
+      "total": 821,
+      "translated": 821,
+      "lastDate": "2026-11-07T18:15:50+00:00"
     },
     {
       "name": "Backdoor (TG)",
-      "total": 708,
-      "translated": 707,
-      "lastDate": "2026-11-07T10:49:53+00:00"
+      "total": 709,
+      "translated": 708,
+      "lastDate": "2026-11-07T17:38:34+00:00"
     },
     {
       "name": "OpenAI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-07T16:56:45.933Z"
+  "generatedAt": "2026-11-07T18:57:54.038Z"
 }
