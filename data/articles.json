@@ -604073,6 +604073,216 @@
       "priority": "hot",
       "fetchedAt": "2026-11-08T01:37:39.589Z",
       "created_at": "2026-11-08T01:37:39.589Z"
+    },
+    {
+      "id": 27891,
+      "source": "MarkTechPost",
+      "title_en": "Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9%",
+      "description_en": "Nous Research released Arete-27B, an Apache 2.0 fine-tune of Qwen3.8-27B. On Nous’s 803-prompt eval, propaganda answers fell from 22% to 0.9% while Hermes Bench stayed flat at 65.60%.\nThe post Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9% appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/",
+      "image_url": null,
+      "pub_date": "Sun, 08 Nov 2026 04:45:59 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Generative AI",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Python",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-08T06:30:14.974Z",
+      "created_at": "2026-11-08T06:30:14.974Z"
+    },
+    {
+      "id": 27892,
+      "source": "New Atlas",
+      "title_en": "Battery-free sensor powers up wirelessly via local circuitry radiation",
+      "description_en": "Thor, the Norse god of thunder, is famous for conjuring electricity from thin air. It turns out you don't necessarily need a magical hammer to do this, as scientists have created a device that harvests electricity from radiation in its environment.\nContinue Reading\nCategory: Energy, Engineering\nTags: University of Arkansas, University of Michigan, Radiation, Temperature, Ambient sensor",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/energy/ambient-radiation-powered-sensor/",
+      "image_url": null,
+      "pub_date": "Sun, 08 Nov 2026 03:03:00 GMT",
+      "author": "Etiido Uko",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-08T06:30:15.395Z",
+      "created_at": "2026-11-08T06:30:15.395Z"
+    },
+    {
+      "id": 27893,
+      "source": "The Guardian AI",
+      "title_en": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+      "description_en": "As AI exposes flaws in IT systems and geopolitics plays out on the cyber frontline, some experts say the events of recent weeks could soon be a common occurence\nAlex Pearce was doing the morning rounds at his fruit and vegetable wholesale business in London on Monday last week when he noticed something odd.\nThe defrost light on refrigeration unit 2 was on, and the panel reading was 150C. Unit 4 was the same.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+      "image_url": "https://i.guim.co.uk/img/media/09d27a91ac5dc51fcea6ef2db11a85053e40bb50/0_158_4000_3198/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=61f705fa3e603f228abbd6c56fd24887",
+      "pub_date": "Sun, 08 Nov 2026 06:00:33 GMT",
+      "author": "Dan Milmo and Aisha Down",
+      "categories": [
+        {
+          "_": "Hacking",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/hacking"
+          }
+        },
+        {
+          "_": "Cyberwar",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/cyberwar"
+          }
+        },
+        {
+          "_": "Cybercrime",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/cybercrime"
+          }
+        },
+        {
+          "_": "Internet",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/internet"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Data and computer security",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/data-computer-security"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Europe",
+          "$": {
+            "domain": "https://www.theguardian.com/world/europe-news"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-08T06:30:15.746Z",
+      "created_at": "2026-11-08T06:30:15.746Z"
+    },
+    {
+      "id": 27894,
+      "source": "Interesting Engineering",
+      "title_en": "Digital twins: How virtual copies of real objects are changing engineering",
+      "description_en": "Imagine being able to test how a jet engine will perform under extreme temperatures, identify...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/digital-twins-to-test-real-world-systems",
+      "image_url": null,
+      "pub_date": "Sun, 08 Nov 2026 02:22:59 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-08T06:30:16.168Z",
+      "created_at": "2026-11-08T06:30:16.168Z"
+    },
+    {
+      "id": 27895,
+      "source": "CNBC Tech",
+      "title_en": "Cathie Wood 'always feels better when the market is worried' — here's why",
+      "description_en": "The Ark Invest CEO said there was a \"wall of worry\" gripping markets right now.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
+      "image_url": null,
+      "pub_date": "Sun, 08 Nov 2026 06:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-08T06:30:16.668Z",
+      "created_at": "2026-11-08T06:30:16.668Z"
+    },
+    {
+      "id": 27896,
+      "source": "CNBC Tech",
+      "title_en": "AI is speeding up recruitment — and putting agency fees under pressure",
+      "description_en": "Recruiters say AI is speeding up screening and reshaping agency work, raising questions about whether percentage-based placement fees can hold.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/08/ai-recruitment-agency-fees.html",
+      "image_url": null,
+      "pub_date": "Sun, 08 Nov 2026 06:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-08T06:30:16.668Z",
+      "created_at": "2026-11-08T06:30:16.668Z"
+    },
+    {
+      "id": 27897,
+      "source": "AI Post (TG)",
+      "title_en": "❗ US intelligence believes Nvidia's Jensen Huang had a romance with a suspected Chinese spyA US government memo drafted earlier this year says the Nvidia CEO was in a romantic relationship with Alice ",
+      "description_en": "❗ US intelligence believes Nvidia's Jensen Huang had a romance with a suspected Chinese spyA US government memo drafted earlier this year says the Nvidia CEO was in a romantic relationship with Alice Huang, an executive at Singapore data center company Megaspeed, the Financial Times reports.US intelligence believes she was recruited by China's Ministry of State Security, its main spy agency. According to the FT, the memo went to a small group of senior officials shortly before Trump's trip to Ch",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8734",
+      "image_url": "https://cdn4.telesco.pe/file/TG7PO7EBmnufDFR5Qsc6rtm3lzPzIATP-J7AI4nFGbZnwUq3S882V6EH0r0GgQGJy5wK0vtiWgA6WUTcKQK7GOa6H6o917Qk0U1tpA6WPtrVY-ejwigI2-kIQXjQuBZ2d9ar6ypFlC9R2snSKYgzo_yRgn51LjXjvbhio8pUoMRXNCq2KYHqiI4AD6FO2kqAr2xHMdyEsyTZB-XAkfX_VX53nwgD6x7iBApNrc8WSJI-LoPnFXEYMi6HBaN_vWUULM_aq1EsMrpMFWzI2m0msw91NhHlOl32XwKv9w6Y4ODdNWwR1HxIkWGibYaHDQSH22c6lCj5VFJ8f88oe_hehA.jpg",
+      "pub_date": "2026-11-08T02:10:13+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-08T06:30:18.978Z",
+      "created_at": "2026-11-08T06:30:18.978Z"
+    },
+    {
+      "id": 27898,
+      "source": "AI Post (TG)",
+      "title_en": "🔐 ChatGPT's always-on agents can now grab login codes from your email and sign in for youOpenAI's dots, the agents that keep working in their own cloud browser after you log off, can now use the one-",
+      "description_en": "🔐 ChatGPT's always-on agents can now grab login codes from your email and sign in for youOpenAI's dots, the agents that keep working in their own cloud browser after you log off, can now use the one-time sign-in codes a website sends to your connected inbox.When a code is needed, you choose: let the dot use it once, or always allow it to fill codes in. The demo shows a dot logging into the restaurant app Resy with the user's email.Those codes exist to prove it's really you. So far, OpenAI's hel",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8735",
+      "image_url": null,
+      "pub_date": "2026-11-08T05:15:13+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-08T06:30:18.978Z",
+      "created_at": "2026-11-08T06:30:18.978Z"
     }
   ]
 }
