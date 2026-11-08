@@ -604527,6 +604527,656 @@
       "priority": "hot",
       "fetchedAt": "2026-11-08T08:55:47.710Z",
       "created_at": "2026-11-08T08:55:47.710Z"
+    },
+    {
+      "id": 27906,
+      "source": "Ars Technica",
+      "title_en": "Physicists listened to electrical noise to crack a superconductor mystery",
+      "description_en": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-90737843-884x648.jpg",
+      "pub_date": "Sun, 08 Nov 2026 12:15:31 +0000",
+      "author": "\n                    Jacek Krywko\n                ",
+      "categories": [
+        "Science",
+        "Cooper pairs",
+        "cuprates",
+        "materials science",
+        "quantum mechanics",
+        "superconductivity"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-08T13:48:01.680Z",
+      "created_at": "2026-11-08T13:48:01.680Z"
+    },
+    {
+      "id": 27907,
+      "source": "The Decoder",
+      "title_en": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
+      "description_en": "Turing Award winner Richard Sutton reaffirms that raw compute alone isn't enough for intelligence and that fundamentally new learning methods are needed. Ex-OpenAI researcher Tworek agrees, saying blind transformer scaling \"has reward hacked brains of a whole generation of scientists.\" A growing wave of startups is already betting on exactly this gap.\nThe article The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/",
+      "image_url": null,
+      "pub_date": "Sun, 08 Nov 2026 11:44:41 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "AI Compute",
+        "Data",
+        "Scaling"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-08T13:48:03.112Z",
+      "created_at": "2026-11-08T13:48:03.112Z"
+    },
+    {
+      "id": 27908,
+      "source": "The Decoder",
+      "title_en": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
+      "description_en": "Alibaba's new coding-agent benchmark, Co-Design Bench, tests AI agents on real user requests that already tripped them up in practice. Even GPT-6 Astra, the top performer, fully solves only 26.4 percent of tasks. On older benchmarks, the same models score above 99 percent.\nThe article AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/",
+      "image_url": "http://the-decoder.com/wp-content/uploads/2026/11/agent-edit-highlights.mp4",
+      "pub_date": "Sun, 08 Nov 2026 09:50:59 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "AI and coding",
+        "Coding"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-08T13:48:03.112Z",
+      "created_at": "2026-11-08T13:48:03.112Z"
+    },
+    {
+      "id": 27909,
+      "source": "MarkTechPost",
+      "title_en": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
+      "description_en": "Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code.\nThe post Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
+      "image_url": null,
+      "pub_date": "Sun, 08 Nov 2026 10:46:18 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs",
+        "Harness",
+        "Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-08T13:48:03.258Z",
+      "created_at": "2026-11-08T13:48:03.258Z"
+    },
+    {
+      "id": 27910,
+      "source": "MarkTechPost",
+      "title_en": "Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared",
+      "description_en": "A config-verified comparison of how 10 open MoE models route tokens: total and active parameters, expert counts, top-k, shared experts, gating functions and load-balancing methods.\nThe post Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/",
+      "image_url": null,
+      "pub_date": "Sun, 08 Nov 2026 10:27:27 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "AI Infrastructure",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Embedding Model",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "Staff",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-08T13:48:03.259Z",
+      "created_at": "2026-11-08T13:48:03.259Z"
+    },
+    {
+      "id": 27911,
+      "source": "New Atlas",
+      "title_en": "Shipping container-mountable guns offer plug-and-play naval defense",
+      "description_en": "Pirates attacking cargo ships might be in for a surprise in the near future as BAE Systems shows off its Sea Tridon family of 40-mm guns at the Euronaval 2026 exhibition in Paris. The systems are designed to be installed as easily as a shipping container.\nContinue Reading\nCategory: Military, Engineering\nTags: BAE Systems, Cannons",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/military/bae-systems-sea-tridon-modular-naval-gun-system/",
+      "image_url": null,
+      "pub_date": "Sun, 08 Nov 2026 09:03:00 GMT",
+      "author": "David Szondy",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-08T13:48:03.652Z",
+      "created_at": "2026-11-08T13:48:03.652Z"
+    },
+    {
+      "id": 27912,
+      "source": "The Guardian AI",
+      "title_en": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
+      "description_en": "Election results appear to have turbo-charged an already growing social, political and financial market rethink about AI\n\n‘AI clog’: UK battles onslaught of chatbot-generated complaints\n\nEditorial: the AI backlash – Silicon Valley’s political power is cracking\n\n\n\nLast week’s midterms may not have cowed Donald Trump, but they should be a wake-up call for the grinning tech broligarchs who lined up at his inauguration two chaotic years ago.\nClearly, the cost of living squeeze unleashed by Trump’s w",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
+      "image_url": "https://i.guim.co.uk/img/media/2ea7dda4257fc43543719a2d375cd85a1ce8cdb4/0_0_7157_5728/master/7157.jpg?width=140&quality=85&auto=format&fit=max&s=bacf77eb19490db5a05856675b08baa4",
+      "pub_date": "Sun, 08 Nov 2026 12:05:58 GMT",
+      "author": "Heather Stewart",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Datacenters – US",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/datacenters--us-"
+          }
+        },
+        {
+          "_": "Datacentres - UK",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/datacentres"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Datacentres",
+          "$": {
+            "domain": "https://www.theguardian.com/world/datacentres"
+          }
+        },
+        {
+          "_": "Chatbots",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatbots"
+          }
+        },
+        {
+          "_": "Cloud computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/cloud-computing"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US midterm elections 2026",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-midterm-elections-2026"
+          }
+        },
+        {
+          "_": "Infrastructure",
+          "$": {
+            "domain": "https://www.theguardian.com/business/infrastructure"
+          }
+        },
+        {
+          "_": "Market turmoil",
+          "$": {
+            "domain": "https://www.theguardian.com/business/marketturmoil"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "Global economy",
+          "$": {
+            "domain": "https://www.theguardian.com/business/global-economy"
+          }
+        },
+        {
+          "_": "Economics",
+          "$": {
+            "domain": "https://www.theguardian.com/business/economics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-08T13:48:03.878Z",
+      "created_at": "2026-11-08T13:48:03.878Z"
+    },
+    {
+      "id": 27913,
+      "source": "The Guardian AI",
+      "title_en": "Tom Gauld on prompts for a cartoon about artificial intelligence and writing – cartoon",
+      "description_en": "Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/books/picture/2026/nov/08/tom-gauld-on-prompts-for-a-cartoon-about-artificial-intelligence-and-writing-cartoon",
+      "image_url": "https://i.guim.co.uk/img/media/db9511ca8257705e0818fb86e6f298ac11007026/262_497_1231_985/master/1231.png?width=140&quality=85&auto=format&fit=max&s=8ba6efc1dc83b54c85c506347ce2c6cf",
+      "pub_date": "Sun, 08 Nov 2026 12:00:40 GMT",
+      "author": "Tom Gauld",
+      "categories": [
+        {
+          "_": "Books",
+          "$": {
+            "domain": "https://www.theguardian.com/books/books"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-08T13:48:03.878Z",
+      "created_at": "2026-11-08T13:48:03.878Z"
+    },
+    {
+      "id": 27914,
+      "source": "The Guardian AI",
+      "title_en": "The efficiency trap: why optimising everything can backfire, badly",
+      "description_en": "From roundabouts to the stock market, relentless streamlining could be making the world more dangerous\nWe have all been there: packed shoulder to shoulder on the train while the person beside us coughs and sneezes. A protective flu jab offers some reassurance, but so does the thought that there will be a hospital bed for you, should you need it. Yet, in England, about 95% of adult hospital beds were occupied at the height of flu season last year.\nIf hospitals were hotels, that level of occupancy",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/books/2026/nov/08/the-efficiency-trap-why-optimising-everything-can-backfire-badly",
+      "image_url": "https://i.guim.co.uk/img/media/e68bbef8dbe92c67f604bdd86917dcb9368a1049/0_349_1847_1476/master/1847.jpg?width=140&quality=85&auto=format&fit=max&s=c7091ded2f897e1aec5c686288270d78",
+      "pub_date": "Sun, 08 Nov 2026 12:00:39 GMT",
+      "author": "Steven Strogatz and Alex Townsend",
+      "categories": [
+        {
+          "_": "Mathematics",
+          "$": {
+            "domain": "https://www.theguardian.com/science/mathematics"
+          }
+        },
+        {
+          "_": "Books",
+          "$": {
+            "domain": "https://www.theguardian.com/books/books"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-08T13:48:03.878Z",
+      "created_at": "2026-11-08T13:48:03.878Z"
+    },
+    {
+      "id": 27915,
+      "source": "Interesting Engineering",
+      "title_en": "59,000-Wh battery, hybrid powertrain could propel new Chinese electric SUV to 892 hp",
+      "description_en": "Chinese EV maker Chery is preparing to expand its Jetour Zongheng off-road lineup with the...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/59000-wh-battery-hybrid-engine-chinese-suv",
+      "image_url": "https://www.youtube.com/embed/DwZqwNOL7XM",
+      "pub_date": "Sun, 08 Nov 2026 12:58:10 +0000",
+      "author": "Bojan Stojkovski",
+      "categories": [
+        "Transportation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-08T13:48:04.812Z",
+      "created_at": "2026-11-08T13:48:04.812Z"
+    },
+    {
+      "id": 27916,
+      "source": "Interesting Engineering",
+      "title_en": "US ally’s ground robot complete 31,000 missions in just one month, achieve historic feet",
+      "description_en": "According to the Ukrainian Defense Ministry, its armed forces completed a record 31,398 missions using...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/ukraines-battlefield-robots-sees-surge-in-missions",
+      "image_url": "https://www.youtube.com/embed/ehtNTzTAVOw",
+      "pub_date": "Sun, 08 Nov 2026 12:36:18 +0000",
+      "author": "Christopher McFadden",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-08T13:48:04.812Z",
+      "created_at": "2026-11-08T13:48:04.812Z"
+    },
+    {
+      "id": 27917,
+      "source": "Tom's Hardware",
+      "title_en": "Open-source GPU task manager reveals exactly what's eating your VRAM",
+      "description_en": "A new open-source GitHub project called gputaskman has been released by Microsoft VP Scott Hanselman.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/open-source-gpu-task-manager-reveals-exactly-whats-eating-your-vram-microsoft-vps-new-gpu-taskman-tool-reveals-every-process-using-your-gpu-how-much-memory-each-uses-and-breaks-down-ai-and-llm-workloads",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/j6M4fBvsjExPSFtuP5xYyG-1920-80.jpg",
+      "pub_date": "Sun, 08 Nov 2026 13:40:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-08T13:48:05.043Z",
+      "created_at": "2026-11-08T13:48:05.043Z"
+    },
+    {
+      "id": 27918,
+      "source": "Tom's Hardware",
+      "title_en": "Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses",
+      "description_en": "The offices for New Matrix and Maginfra, both approved to receive H200 chips, appear abandoned, and people in the buildings say they're unfamiliar with the companies or have never seen anyone working there.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/two-chinese-companies-cleared-to-buy-banned-nvidia-ai-chips-have-empty-offices-and-unknown-addresses-investigation-reveals-businesses-have-ties-to-sanctioned-chinese-military-suppliers",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/RAnrUYUPEDMbGSwoqAPETM-1920-80.png",
+      "pub_date": "Sun, 08 Nov 2026 13:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-08T13:48:05.043Z",
+      "created_at": "2026-11-08T13:48:05.044Z"
+    },
+    {
+      "id": 27919,
+      "source": "Tom's Hardware",
+      "title_en": "PC's with 64GB of RAM plummet 18% as memory prices soar",
+      "description_en": "CPU-Z data reveals PC memory capacity is dropping for the first time ever. Driven by skyrocketing AI DRAM prices, 64GB RAM adoption plummeted 18% YoY.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ram/pcs-with-64gb-of-ram-plummet-18-percent-as-memory-prices-soar-cpu-z-install-base-data-shows-ddr4-making-a-surprise-comeback",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vp5VEBetgZmgodQQoxWEvY-1920-80.jpg",
+      "pub_date": "Sun, 08 Nov 2026 12:40:00 +0000",
+      "author": " Zhiye Liu ",
+      "categories": [
+        "RAM",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-08T13:48:05.044Z",
+      "created_at": "2026-11-08T13:48:05.044Z"
+    },
+    {
+      "id": 27920,
+      "source": "Tom's Hardware",
+      "title_en": "Homelabber uses second-gen Optane memory sticks to run a 2.8-trillion-parameter AI model on CPU alone",
+      "description_en": "A Reddit homelab user ran Moonshot AI’s 2.8-trillion-parameter Kimi K3 CPU-only on Optane PMem 200 at 0.85 tokens/s with a 1-bit quant.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabber-uses-second-gen-optane-memory-sticks-to-run-a-2-8-trillion-parameter-ai-model-on-cpu-alone-warns-that-optanes-extreme-heat-can-burn-out-nearby-memory-dram-used-blower-fans-to-prevent-melting-ram",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Wpdi2avEo8ZBZMremLVgaU-1920-80.jpg",
+      "pub_date": "Sun, 08 Nov 2026 12:20:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-08T13:48:05.044Z",
+      "created_at": "2026-11-08T13:48:05.044Z"
+    },
+    {
+      "id": 27921,
+      "source": "Tom's Hardware",
+      "title_en": "Pocket-sized Ukrainian receiver intercepts Russian strike drone video feeds up to six miles away",
+      "description_en": "The D·Vision SDR can intercept signals from 500 MHz to 8.7 GHz, covering the 4.1-4.5 GHz spectrum that Russian Molniya strike drones use to communicate with their operators.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/drones/pocket-sized-ukrainian-receiver-intercepts-russian-strike-drone-video-feeds-up-to-six-miles-away-device-only-slightly-heavier-than-a-smartphone-intercepts-analog-video-signals-sent-to-russian-operators",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/XiucPoqSXZURgspEBuaPLU-1920-80.png",
+      "pub_date": "Sun, 08 Nov 2026 12:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Drones",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-08T13:48:05.044Z",
+      "created_at": "2026-11-08T13:48:05.044Z"
+    },
+    {
+      "id": 27922,
+      "source": "Tom's Hardware",
+      "title_en": "PC air duster motors power 21-inch DIY remote control plane at 130,000 RPM",
+      "description_en": "A remote-control electronics and DIY hobbyist was surprised by a model airplane they built, powered by a pair of PC air duster engines.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/maker-stem/pc-air-duster-motors-power-21-inch-diy-remote-control-plane-at-130-000-rpm-usd23-air-duster-power-styrofoam-a10-warthog-style-rc-plane-hits-the-skies-much-faster-than-expected",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ymKLmrJDbKEg74UUcf4jnk-1920-80.jpg",
+      "pub_date": "Sun, 08 Nov 2026 11:00:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Maker and STEM"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-08T13:48:05.044Z",
+      "created_at": "2026-11-08T13:48:05.044Z"
+    },
+    {
+      "id": 27923,
+      "source": "CNBC Tech",
+      "title_en": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
+      "description_en": "Amazon has formed a new home robotics team and is hiring for a “new-to-world robot product,” according to CNBC’s analysis of job posts.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
+      "image_url": null,
+      "pub_date": "Sun, 08 Nov 2026 13:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-08T13:48:05.129Z",
+      "created_at": "2026-11-08T13:48:05.129Z"
+    },
+    {
+      "id": 27924,
+      "source": "XOR Journal (TG)",
+      "title_en": "Alibaba выпустили крошечную мощную модель, которая работает на смартфоне и занимает всего 173 МБ 😨Внутри MNN-Pocket-0.3B всего 300 млн параметров, но на iPhone 18 Pro модель выдаёт около 350 токенов ",
+      "description_en": "Alibaba выпустили крошечную мощную модель, которая работает на смартфоне и занимает всего 173 МБ 😨Внутри MNN-Pocket-0.3B всего 300 млн параметров, но на iPhone 18 Pro модель выдаёт около 350 токенов в секунду. Причём в 11 тестах на знания, математику, код и выполнение инструкций она набрала в среднем 50 баллов против 44 у вдвое более крупной Qwen3-0.6B.Плюсом, по тестам разработчиков, 100 запросов на OnePlus 13 расходуют всего 0,3% заряда аккумулятора. При этом модель можно бесплатно скачать, д",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10449",
+      "image_url": "https://cdn4.telesco.pe/file/C74g922trBRVOOgxUMoL5yrpkxiL7RCnXMveAP1MC4gAuLyLBllRH_FkB0Vj8-iirsuFZ5nZm50E8Jidqt0_0wwP5eqfRQ68tkjoaCeAiCWs3l2QlSwrByRkQJzR6VHiV_MwZSpUIa6efyDgMPbXz6LP9jeIKU52xMjLlwVDrTRtGbkJP_qWIvo5-6OQYNwDVescQt_WXxQjRoOsU7aJhF_DzE7dNBkr7XUK1DKCWjHSg7GBLpGkeDBVvceUXglzAwbNj9pU1uTpOxOAKy2GG4_mbVbQr3QJEEw7IInM4jdmPNSVYA9eNDPiF-hjMo6v1jKbEweQJOuPEDE0qIohEQ.jpg",
+      "pub_date": "2026-11-08T09:17:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-08T13:48:09.416Z",
+      "created_at": "2026-11-08T13:48:09.416Z"
+    },
+    {
+      "id": 27925,
+      "source": "XOR Journal (TG)",
+      "title_en": "Разраб создал скрипт, который жалуется Альтману на вашу свободную оперативку 😂После знаменитых слов главы OpenAI, что люди держат дефицитную память в своих ПК, разраб решил создать ram-altman. Скрипт",
+      "description_en": "Разраб создал скрипт, который жалуется Альтману на вашу свободную оперативку 😂После знаменитых слов главы OpenAI, что люди держат дефицитную память в своих ПК, разраб решил создать ram-altman. Скрипт каждые пять минут проверяет ОЗУ и, если свободно больше 10%, то раз в день отправляет письмо с жалобой на расточительство.Я слышал, что оперативную память сейчас трудно достать, поэтому немного неловко держать у себя 8,6 ГБ. Всего установлено: 15,3 ГБ. Она не продаётся, мне просто приятно знать, чт",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10450",
+      "image_url": "https://cdn4.telesco.pe/file/VyfbEMcF1pIeEVCg8bSqk_mgDZ0LhyWX7XxOk0-9kxLFkUddbhdAjwNfzOEZ2jh9qwDN6r_t2Ed2DZzqffoKiwKGE2IZgpyBBkcBFnzAHoO83fqW0L_BYQ9ycXqHIaxAWR9BHSQleoNZWD7EwgwRxdLL04794XmeNBfSF3iIi4rpmxFd49vy41etp0cwrL7vEql5kivbQ7nCCBem4wpr6bWsT591S3hIxvYSk5Ie4tpBzwyNEkVZg3dl78P-UDSJBbTbnLHuCqmM4JurNqkfCaQ-b_CGgbvp6noHfZ19HlluEH4H10rkjDAWmGdI3To3fJbx4R2yHIPWfVe5dXT3tw.jpg",
+      "pub_date": "2026-11-08T11:34:43+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-08T13:48:09.416Z",
+      "created_at": "2026-11-08T13:48:09.416Z"
+    },
+    {
+      "id": 27926,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ OpenAI начала резко банить юзеров — при входе в аккаунт вылетает ошибка, причем никаких писем о бане не приходит. Вместе с аккаунтом юзеры теряют переписки, заметки и артефакты в памяти ИИ.Причем а",
+      "description_en": "⚡️ OpenAI начала резко банить юзеров — при входе в аккаунт вылетает ошибка, причем никаких писем о бане не приходит. Вместе с аккаунтом юзеры теряют переписки, заметки и артефакты в памяти ИИ.Причем апелляции отклоняют за минуту, а сама OpenAI молчит. Комментаторы в сети связывают блок с использованием VPN и частой сменой IP-адресов. Вайбкодеры, сочувствуем.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32764",
+      "image_url": "https://cdn4.telesco.pe/file/erx0tPIBOJmh1OvGlMgWxSYlq7HNDjGJ8h9n_eeUqhC4C4m8rN4F57XlWXK5hDlDDbq_lEhq_-EkmG9YBXPpkwfv9ekOzIb3i3YIT_SwHpNm1VrwsEdAMi0FiKmALpWhXAtG_OluZtHyMJM5N2LKfNThCvK-mMESFX_h6wmLXuRi1v3rWbRAijRWmiHH7GGvdOUyFBwejxNs-isv02UXA9TqNc0PULo5iV6rKNgDC6T8H0jjkOfcG1kDdwQK-JkeRq2G1YVedQtP32xiayGF5jdeQC1f24QTulhunKwey9Jub5XMkC91lQ15qFySyAMAe9DlPwaOf3vGP0M5qLiq7w.jpg",
+      "pub_date": "2026-11-08T10:53:36+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-08T13:48:09.509Z",
+      "created_at": "2026-11-08T13:48:09.509Z"
+    },
+    {
+      "id": 27927,
+      "source": "Backdoor (TG)",
+      "title_en": "Ор: разрабы начали троллить Сэма Альтмана. Чел написал скрипт на Linux, который каждый день отправляет главе OpenAI письмо с инфой, сколько памяти простаивает на вашем ПК.Проект Ram Altman прямо сейча",
+      "description_en": "Ор: разрабы начали троллить Сэма Альтмана. Чел написал скрипт на Linux, который каждый день отправляет главе OpenAI письмо с инфой, сколько памяти простаивает на вашем ПК.Проект Ram Altman прямо сейчас быстро набирает звезды на GitHub. Если он станет массовым, СЕО OpenAI будет каждый день получать тысячи писем в духе: Говорят, сейчас оперативку трудно достать, так что чувствую себя немного неловко, что у меня простаивает целых 8,6 ГБ. Всего установлено: 15,3 ГБ. Я ее не продаю, просто нравится з",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32765",
+      "image_url": "https://cdn4.telesco.pe/file/NSDHzdhX5hJHXCav3turDXOpMK7Je_0Lq9nG3oIRbVrINAm2F2_m-_eZA2E9BNItLbT78VFi7XND7uNrI8RoPkfV9F9OreiM-bljFVDcev8FMhSd-DIzzgXBqGpgfoj1_nKoSvBZ28-rbvuJhnBQ4PgXUSo-0VvlouYkNQ7F9aqnVcuvDoPjx4hQ0OhRGlMWKbCef-6SuuqHl8QLoR5Os-HqPUhar3ZWiA7lo6IC5iDbiMQtH6IkG52oL51xdSDxhgnpujzURIPs-cJOg3obTCwgivdT1Z6CT-ITI3VICO1WNLJe6wFQWJzXrMJCJ8TmfMaKGDSQHbMEgllAsDhTSg.jpg",
+      "pub_date": "2026-11-08T11:32:59+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-08T13:48:09.509Z",
+      "created_at": "2026-11-08T13:48:09.509Z"
+    },
+    {
+      "id": 27928,
+      "source": "Habr (TG)",
+      "title_en": "LLM теперь умеют оперировать мозг другой LLM напрямую, без обучения. Но не так как вы думаетеНебольшая нейросеть плохо различает кошек, собак и других животных. Её F1-оценка составляет всего 45%. Вмес",
+      "description_en": "LLM теперь умеют оперировать мозг другой LLM напрямую, без обучения. Но не так как вы думаетеНебольшая нейросеть плохо различает кошек, собак и других животных. Её F1-оценка составляет всего 45%. Вместо привычного дообучения к ней подпускают Astra 6 с задачей улучшить результат, меняя только внутренние параметры. После десяти проверочных прогонов показатель вырастает до 74%. Похоже, операция на мозге удалась.В исследовании MIT подобные эксперименты выглядели почти как научная фантастика. Домашня",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/69974",
+      "image_url": "https://cdn4.telesco.pe/file/aTB97eXViQ4j22fW33Ee2hamIbyIsR1J2xH6Gz2UM2opQIC1fh9g3B061eGJgaV75r2F9Ag3QrRWtj5BfLk8C2c-ZHm_6hQll5PxlqoUeKlkisI_UpvH6k9TTJWYnuqONO2ofhOdXdwKsNDLRH71U08_qgkT_sU4AiRuAQkKxwkDKmGL6pAJ_3PW5OX93mUo_MZvBcn1GqXd8N3a5Ri4sGWU4SpzM3MDXtpEU1rxXjiS7W27X7jfEtT2s_xB8fY32g1LmBklzDSzdJDFGHGOfjUdHR0s0_xh9tp0-Zw4DvcBD17gBuQpJvee6vzty9Inhy_G5Y8mBSXXmSOTvP6-Ng.jpg",
+      "pub_date": "2026-11-08T10:01:16+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-08T13:48:09.845Z",
+      "created_at": "2026-11-08T13:48:09.845Z"
+    },
+    {
+      "id": 27929,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 AI labs are shopping for your old work emails and filesWired reports that AI companies want real workplace data to train agents. Think documents, inboxes, the messy stuff synthetic data can't fake.",
+      "description_en": "🚨 AI labs are shopping for your old work emails and filesWired reports that AI companies want real workplace data to train agents. Think documents, inboxes, the messy stuff synthetic data can't fake.Whose files get sold, and who signed off on it? Employers, employees, and GDPR all have a claim, and none of them agree.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/955",
+      "image_url": null,
+      "pub_date": "2026-11-08T09:39:07+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-08T13:48:10.582Z",
+      "created_at": "2026-11-08T13:48:10.582Z"
+    },
+    {
+      "id": 27930,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🇨🇳 SemiAnalysis toured China's \"Stargate\" in Inner Mongolia, and the build speed is wildSemiAnalysis visited the campus in September. Here's what they found:• Wind-powered, 800MW planned• 120MW buil",
+      "description_en": "🇨🇳 SemiAnalysis toured China's \"Stargate\" in Inner Mongolia, and the build speed is wildSemiAnalysis visited the campus in September. Here's what they found:• Wind-powered, 800MW planned• 120MW built within a year• A 5MW pilot running 800V DC power• Cooling with no central chillersInner Mongolia is China's West Texas, minus the local pushback against datacenters.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/956",
+      "image_url": null,
+      "pub_date": "2026-11-08T12:39:50+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-08T13:48:10.582Z",
+      "created_at": "2026-11-08T13:48:10.582Z"
     }
   ]
 }
