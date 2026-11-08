@@ -604043,8 +604043,8 @@
       "source": "Interesting Engineering",
       "title_en": "What happens when a drone loses signal? Here’s how its failsafes work",
       "description_en": "A drone losing its connection to the remote controller does not necessarily mean it will...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מה קורה כשרחפן מאבד אות? כך עובדות מערכות ההגנה שלו",
+      "description_he": "כשרחפן מאבד קשר עם השלט, זה לא בהכרח אומר שהוא יתרסק לאדמה. בעצם, למרבית הרחפנים המודרניים יש מערכות fail-safe חכמות שמטפלות בדיוק במצב כזה - מהחזרה אוטומטית לנקודת ההמראה ועד נחיתה בטוחה. בכתבה הזו תגידו לכם בדיוק איך הרחפנים שלכם מגנים על עצמם כשהחיבור נקطע. \nמקור: Interesting Engineering",
       "link": "https://interestingengineering.com/ai-robotics/how-drones-respond-to-signal-loss",
       "image_url": null,
       "pub_date": "Sun, 08 Nov 2026 01:11:15 +0000",
@@ -604052,7 +604052,7 @@
       "categories": [
         "AI and Robotics"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-11-08T01:37:34.277Z",
       "created_at": "2026-11-08T01:37:34.277Z"
@@ -604062,14 +604062,14 @@
       "source": "Prompt AI News (TG)",
       "title_en": "🚨 AMD's CEO calls it a \"data center first company,\" so don't wait on cheap GPUsLisa Su told PCMag where the priorities sit. Data center revenue drove 63% of AMD's profit this year, and it's expected ",
       "description_en": "🚨 AMD's CEO calls it a \"data center first company,\" so don't wait on cheap GPUsLisa Su told PCMag where the priorities sit. Data center revenue drove 63% of AMD's profit this year, and it's expected to keep growing fast.Memory is already scarce, and AI buyers get first pick of it. Gamers get what's left.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "🚨 AMD החליטה: חברת data center בראש ובראשונה - אל תחכו לכרטיסי GPU זולים",
+      "description_he": "ליסה סו, המנכ\"לית של AMD, הבהירה בראיון ל-PCMag שהחברה משמה את עצמה קודם כל כ\"חברת data center\" - והרווחים מדברים בעדם: 63% מהרווח השנתי בא מהמגזר הזה. המשמעות הישירה שלנו כגיימרים? אם רצינו GPU זול וזמין, כדאי לנו לשכוח את הרעיון - כל הזיכרון הטוב הולך למפעלי AI, ואנחנו מקבלים מה שנשאר.",
       "link": "https://t.me/prompt/954",
       "image_url": null,
       "pub_date": "2026-11-08T00:17:50+00:00",
       "author": null,
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-11-08T01:37:39.589Z",
       "created_at": "2026-11-08T01:37:39.589Z"
