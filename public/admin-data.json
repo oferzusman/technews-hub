@@ -1,20 +1,20 @@
 {
   "total": 27930,
-  "translated": 27897,
-  "untranslated": 33,
+  "translated": 27922,
+  "untranslated": 8,
   "today": 43,
   "week": 814,
   "sources": [
     {
       "name": "Tom's Hardware",
       "total": 2583,
-      "translated": 2577,
+      "translated": 2583,
       "lastDate": "Wed, 30 Sep 2026 18:00:39 +0000"
     },
     {
       "name": "Interesting Engineering",
       "total": 2448,
-      "translated": 2446,
+      "translated": 2448,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -26,7 +26,7 @@
     {
       "name": "CNBC Tech",
       "total": 1769,
-      "translated": 1768,
+      "translated": 1769,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
@@ -38,7 +38,7 @@
     {
       "name": "The Decoder",
       "total": 1531,
-      "translated": 1529,
+      "translated": 1531,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
     {
@@ -50,25 +50,25 @@
     {
       "name": "The Guardian AI",
       "total": 1382,
-      "translated": 1379,
+      "translated": 1382,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
       "name": "New Atlas",
       "total": 1257,
-      "translated": 1256,
+      "translated": 1257,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
       "name": "Ars Technica",
       "total": 1204,
-      "translated": 1203,
+      "translated": 1204,
       "lastDate": "Wed, 30 Sep 2026 20:44:48 +0000"
     },
     {
       "name": "XOR Journal (TG)",
       "total": 1078,
-      "translated": 1074,
+      "translated": 1076,
       "lastDate": "2026-11-08T11:34:43+00:00"
     },
     {
@@ -80,19 +80,19 @@
     {
       "name": "MarkTechPost",
       "total": 893,
-      "translated": 891,
+      "translated": 893,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
       "name": "Prompt AI News (TG)",
       "total": 825,
-      "translated": 823,
+      "translated": 825,
       "lastDate": "2026-11-08T12:39:50+00:00"
     },
     {
       "name": "Backdoor (TG)",
       "total": 712,
-      "translated": 709,
+      "translated": 711,
       "lastDate": "2026-11-08T11:32:59+00:00"
     },
     {
@@ -158,7 +158,7 @@
     {
       "name": "Habr (TG)",
       "total": 250,
-      "translated": 248,
+      "translated": 249,
       "lastDate": "2026-11-08T10:01:16+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-08T13:50:04.512Z"
+  "generatedAt": "2026-11-08T13:50:59.428Z"
 }
