@@ -605558,6 +605558,23 @@
       "priority": "hot",
       "fetchedAt": "2026-11-08T18:40:18.406Z",
       "created_at": "2026-11-08T18:40:18.406Z"
+    },
+    {
+      "id": 27950,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🤖 Lovable deleted most of its agent code, and says it'll keep doing thatAfter 100k PRs, the team wrote up why they keep rebuilding their coding agent. Each new base model makes chunks of their scaffo",
+      "description_en": "🤖 Lovable deleted most of its agent code, and says it'll keep doing thatAfter 100k PRs, the team wrote up why they keep rebuilding their coding agent. Each new base model makes chunks of their scaffolding redundant, so the harness works like a depreciating asset. Prompt tricks and orchestration glue go stale in months.Whatever you hand-built last quarter is next quarter's cleanup ticket.",
+      "title_he": "🤖 Lovable מחקה את כל קוד ה-Agent שלה - והיא תמשיך לעשות את זה",
+      "description_he": "צוות Lovable גילה משהו מעניין: לאחר 100 אלף Pull Requests, הם מחליטים להשמיט ולבנות מחדש את ה-agent שלהם כל פעם שמודל בסיס חדש בא לעולם. המחשבה פה היא שכל שלד קוד שכתבת נהיה מיושן תוך חודשים - prompt tricks ו-orchestration glue הם כמו נכס שמתדרדר בערכו. בעצם, הקוד שכתבת בשיבוץ הקודם כבר הופך לבעיה ניקוי בשיבוץ הבא.",
+      "link": "https://t.me/prompt/958",
+      "image_url": null,
+      "pub_date": "2026-11-08T18:41:04+00:00",
+      "author": null,
+      "categories": [],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-11-08T19:07:52.333Z",
+      "created_at": "2026-11-08T19:07:52.333Z"
     }
   ]
 }
