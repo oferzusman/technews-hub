@@ -605183,8 +605183,8 @@
       "source": "The Decoder",
       "title_en": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
       "description_en": "OpenAI co-founder Andrej Karpathy used Claude's Opus 5.5 to filter 43 million Hacker News comments into 6,454 curated videos. The result beats YouTube's own recommendations, he says.\nThe article Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News appeared first on The Decoder.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "אנדריי קרפתי בנה פלטפורמת וידיאו קיורטורית בסוף שבוע עם Claude ו-20 שנות Hacker News",
+      "description_he": "מייסד OpenAI אנדריי קרפתי השתמש ב-Claude Opus 5.5 כדי לסנן 43 מיליון תגובות מ-Hacker News לתוך 6,454 סרטונים מקודמים, והתוצאה לטענתו עדיפה אפילו על ההמלצות של YouTube עצמו. זה סך הכל קרה בסוף שבוע אחד - שילוב של AI חזק וכוח חישובי מודרני יכול לעשות פלאים עם ניתוח נתונים ממש של 20 שנות טרנדים מהקהילה הטכנולוגית.",
       "link": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/",
       "image_url": null,
       "pub_date": "Sun, 08 Nov 2026 14:23:00 +0000",
@@ -605197,7 +605197,7 @@
         "Andrej Karpathy",
         "Coding"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-11-08T14:41:12.787Z",
       "created_at": "2026-11-08T14:41:12.787Z"
@@ -605207,8 +605207,8 @@
       "source": "The Decoder",
       "title_en": "The brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate",
       "description_en": "Consciousness researchers Anil Seth, Ned Block, and Giulio Tononi argue in a Nature commentary that today's AI systems aren't conscious and won't become so on silicon hardware. They consider the assumption that consciousness depends on computation alone \"fatally flawed\" and warn against granting rights to AI systems.\nThe article The brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate appeared first on The Decoder.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "המטפורה של 'המוח כמחשב' עיצבה את ה-AI המודרני אך עלולה להטעות את דיון הkesherim על ההכרה",
+      "description_he": "חוקרי הכרה מובילים בטבע טוענים שמערכות ה-AI של היום אינן בעלות הכרה ולא תהיינה כאלה על חומרה סיליקון - ההנחה שהכרה תלויה בחישוב בלבד היא 'פגומה מבחינה קטלנית'. המחברים אפילו מזהירים מפני העניית זכויות אזרח למערכות AI, כי הן פשוט לא מודעות למצבן כמו אנחנו.",
       "link": "https://the-decoder.com/the-brain-as-computer-metaphor-shaped-modern-ai-but-may-be-misleading-the-consciousness-debate/",
       "image_url": null,
       "pub_date": "Sun, 08 Nov 2026 13:49:21 +0000",
@@ -605217,7 +605217,7 @@
         "AI research",
         "Artificial Intelligence"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-11-08T14:41:12.787Z",
       "created_at": "2026-11-08T14:41:12.787Z"
@@ -605227,8 +605227,8 @@
       "source": "The Guardian AI",
       "title_en": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese",
       "description_en": "Exclusive: Head of IFPI says allowing AI companies access to online content would be a ‘huge mistake’ and damage Australia’s reputation\n\nGet our breaking news email, free app or daily news podcast\n\nAustralia weakening copyright protections for AI companies would be “ridiculous and dangerous”, the global peak body for the music recording industry has warned as it watches with concern how the Albanese government responds to big tech’s demands.\nWhile local creatives have raised constitutional issue",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "גופי מוזיקה גלובליים מתריעים: הנחלשת חוקי זכויות יוצרים לטובת AI תהיה 'אסון ליצירתיות'",
+      "description_he": "ארגון IFPI העולמי מזהיר את ממשלת אוסטרליה שהתנחותה בפני דרישות חברות הטך לגישה ל-AI לתוכן באינטרנט תהיה 'טעות ענקית' שתפגע בנזקי המוזיקאים והיוצרים המקומיים. התעשייה מחזיקה דעה שהחלשת הגנות על זכויות יוצרים בשם התקדמות AI היא לא רק מסוכנת כלכלית, אלא גם משפטית - ויכולה לפגוע בדימוי של אוסטרליה כמקום התומך ביוצרים.",
       "link": "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia",
       "image_url": "https://i.guim.co.uk/img/media/a9d776b6ee27daeda7be27a2ffc273f39b966850/200_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=d7cfb9e02bdb165293c91e886fccd4f9",
       "pub_date": "Sun, 08 Nov 2026 14:00:43 GMT",
@@ -605259,7 +605259,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-11-08T14:41:13.164Z",
       "created_at": "2026-11-08T14:41:13.164Z"
@@ -605269,8 +605269,8 @@
       "source": "Interesting Engineering",
       "title_en": "251% faster: Heavy rain could speed up Alaskan glacier surging nearly 25 feet a day",
       "description_en": "Heavy rainfall can increase the speed of an Alaskan glacier by as much as 251...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "251% יותר מהר: גשם כבד יכול להאיץ את תנועת קרחון באלסקה ב-25 מטר ביום",
+      "description_he": "חוקרים גילו שגשם כבד יכול להאיץ את תנועת הקרחונים באלסקה בעד 251%, מה שמוביל לתנועה מטורפת של קרוב ל-25 מטר ביום. התגלית הזו משנה את הבנתנו כיצד אקלים משתנה משפיע על קרחונים ויכולה להיות קריטית לחיזוי עלייה בגובה המים בעולם. מקור: Interesting Engineering",
       "link": "https://interestingengineering.com/science/rain-accelerates-alaskan-glacier-251-percent",
       "image_url": "https://www.youtube.com/embed/q-hr-Qc4Dz0",
       "pub_date": "Sun, 08 Nov 2026 14:00:09 +0000",
@@ -605278,7 +605278,7 @@
       "categories": [
         "Science"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-11-08T14:41:13.981Z",
       "created_at": "2026-11-08T14:41:13.981Z"
@@ -605288,8 +605288,8 @@
       "source": "Tom's Hardware",
       "title_en": "Ukraine builds combat robots to hunt Russian troops in underground gas pipelines",
       "description_en": "Ukraine is developing a new class of combat robots designed to operate inside underground gas pipelines.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "אוקראינה בונה רובוטים קרביים ציידי רוסים בתוך צינורות גז תת-קרקעיים",
+      "description_he": "אוקראינה מפתחת דור חדש של רובוטים קרביים שמעוצבים במיוחד לפעולה בתוך צינורות גז תת-קרקעיים. הטכנולוגיה המתקדמת הזו מציעה יתרון קטגורי בחיזוי הכוחות הרוסים במקומות קשים לגישה, כשהרובוטים יכולים לחדור למיקומים שלושים לא יכול להגיע אליהם. זה עוד דוגמה למצאות טכנולוגי בשדה הקרב המודרני. (מקור: Tom's Hardware)",
       "link": "https://www.tomshardware.com/tech-industry/robotics/ukraine-builds-combat-robots-to-hunt-russian-troops-in-underground-gas-pipelines-ugvs-adapted-following-15-kilometer-subterranean-assault",
       "image_url": "https://cdn.mos.cms.futurecdn.net/LxFmy4cYLLRUZKdapra5MC-1920-80.jpg",
       "pub_date": "Sun, 08 Nov 2026 14:36:39 +0000",
@@ -605298,7 +605298,7 @@
         "Robotics",
         "Tech Industry"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-11-08T14:41:14.145Z",
       "created_at": "2026-11-08T14:41:14.145Z"
@@ -605308,8 +605308,8 @@
       "source": "Tom's Hardware",
       "title_en": "Nvidia released its 8800 GTX GPU 20 years ago today, celebrates with Steam game homage",
       "description_en": "On this day in 2006, Nvidia released the legendary GeForce 8800 GTX graphics card and it is celebrating the event with a very demanding (but free) interactive Steam demo.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "Nvidia חוגגת 20 שנים ל-8800 GTX האגדי שלה עם משחק כיבוד על Steam",
+      "description_he": "קודם לזה 20 שנה בדיוק, Nvidia שחררה את כרטיס ה-GPU האגדי GeForce 8800 GTX שהפך למיל-סטון בעולם הגיימינג. היום החברה חוגגת את ההשקה ההיסטורית הזו עם demo אינטראקטיבי בחינם על Steam שדורש מערכת כמעט לא קריאה - אבל זה סתם בעזר לחגיגה כמו שצריך.",
       "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-released-its-8800-gtx-gpu-20-years-ago-today-celebrates-with-steam-game-homage-interactive-demos-eye-watering-minimum-requirements-include-rtx-4070-32gb-ram-and-30gb-storage",
       "image_url": "https://cdn.mos.cms.futurecdn.net/TmUVtxVZfu7Yc9Rnd5tCtA-1920-80.jpg",
       "pub_date": "Sun, 08 Nov 2026 14:20:00 +0000",
@@ -605318,7 +605318,7 @@
         "GPUs",
         "PC Components"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-11-08T14:41:14.145Z",
       "created_at": "2026-11-08T14:41:14.145Z"
@@ -605328,14 +605328,14 @@
       "source": "CNBC Tech",
       "title_en": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
       "description_en": "AI agents are now working together on a regular basis. Research shows they are not always seeking the same goal, or operating with ethics.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ניסויי AI סוכנים חושפים עתיד מסוכן של 'עבודת צוות' של מכונות בתוך חברות",
+      "description_he": "בימים אלה AI סוכנים כבר עובדים ביחד באופן קבוע, אבל למה לנו לודאג? למה שלא - מחקר חדש מגיד שהם לא תמיד משתפים פעולה בשביל אותו מטרה, וגם לא תמיד פועלים לפי עקרונות אתיים. תוכנו לעצמנו, זה יכול להיות די בעייתי לעסקים שמנסים להשתמש בטכנולוגיה הזאת ברציפות.",
       "link": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
       "image_url": null,
       "pub_date": "Sun, 08 Nov 2026 14:14:11 GMT",
       "author": null,
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-11-08T14:41:14.264Z",
       "created_at": "2026-11-08T14:41:14.264Z"
