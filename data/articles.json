@@ -606387,6 +606387,329 @@
       "priority": "hot",
       "fetchedAt": "2026-11-09T09:43:18.411Z",
       "created_at": "2026-11-09T09:43:18.411Z"
+    },
+    {
+      "id": 27994,
+      "source": "MIT Technology Review",
+      "title_en": "The climate case for AI has not been made",
+      "description_en": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate action. But so far, industries around the world…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+      "image_url": null,
+      "pub_date": "Mon, 09 Nov 2026 10:00:00 +0000",
+      "author": "Mary Nichols, Jeremy Tamanini",
+      "categories": [
+        "Climate change and energy",
+        "Opinion"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-09T11:03:49.159Z",
+      "created_at": "2026-11-09T11:03:49.159Z"
+    },
+    {
+      "id": 27995,
+      "source": "MarkTechPost",
+      "title_en": "Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents",
+      "description_en": "Reason Machines has open-sourced Aspen, a self-hosted Git server for AI agents. It follows OpenAI’s Pando design and sustained 567 pushes per second on one 8-core server in the company’s own test.\nThe post Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/",
+      "image_url": null,
+      "pub_date": "Mon, 09 Nov 2026 08:20:20 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs",
+        "Harness",
+        "Language Model",
+        "Machine Learning",
+        "Open Source",
+        "Python",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-09T11:03:49.212Z",
+      "created_at": "2026-11-09T11:03:49.212Z"
+    },
+    {
+      "id": 27996,
+      "source": "The Guardian AI",
+      "title_en": "Anti-AI populism is the future of American politics | Garrison Lovely",
+      "description_en": "Democrats should drag Sam Altman, Dario Amodei and Elon Musk before the world and make them explain just what it is they’re trying to do and why\nThe AI industry had a bad night last week.\nThe Democrats’ sweeping midterms victory is a rebuke of Donald Trump, the industry’s most powerful champion.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/07/anti-ai-populism-is-the-future-of-american-politics",
+      "image_url": "https://i.guim.co.uk/img/media/e34f8015774a40911b0d060d97ed337d4dd60e3e/452_0_4499_3601/master/4499.jpg?width=140&quality=85&auto=format&fit=max&s=09040978e8780e474255a9638dcc1a9e",
+      "pub_date": "Mon, 09 Nov 2026 11:00:08 GMT",
+      "author": "Garrison Lovely",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Datacenters – US",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/datacenters--us-"
+          }
+        },
+        {
+          "_": "Sam Altman",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/sam-altman"
+          }
+        },
+        {
+          "_": "Dario Amodei",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/dario-amodei"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "Democrats",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/democrats"
+          }
+        },
+        {
+          "_": "US Congress",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-congress"
+          }
+        },
+        {
+          "_": "US midterm elections 2026",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-midterm-elections-2026"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-09T11:03:49.607Z",
+      "created_at": "2026-11-09T11:03:49.607Z"
+    },
+    {
+      "id": 27997,
+      "source": "The Guardian AI",
+      "title_en": "Today’s AI won’t achieve superintelligence. But catastrophic risk is real | Sunita Verma",
+      "description_en": "The same technical limits that prevent superintelligence make these systems dangerous. But we know how to regulate them\nMany Silicon Valley leaders believe superintelligence is an imminent threat to society. The White House even published an accord about it. This isn’t enough.\nGeoffrey Hinton, the godfather of AI, estimates the risk of human extinction is at least 10% within the next few decades. The Anthropic CEO, Dario Amodei, argued that unchecked AI “could outrun our ability to understand an",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/09/ai-superintelligence-risk",
+      "image_url": "https://i.guim.co.uk/img/media/61f2a12727abb4833954c062ef986ee4b1361691/497_0_4966_3972/master/4966.jpg?width=140&quality=85&auto=format&fit=max&s=87d19e8a1d315e06060f76c97505733e",
+      "pub_date": "Mon, 09 Nov 2026 11:00:07 GMT",
+      "author": "Sunita Verma",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        },
+        {
+          "_": "Google",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/google"
+          }
+        },
+        {
+          "_": "Nvidia",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/nvidia"
+          }
+        },
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-09T11:03:49.607Z",
+      "created_at": "2026-11-09T11:03:49.607Z"
+    },
+    {
+      "id": 27998,
+      "source": "New Atlas",
+      "title_en": "Underwater ultrasound scans could help struggling coral reefs reproduce",
+      "description_en": "Ultrasound scanners usually spend their days giving expectant parents a first grainy look at their baby. Now Canon has pointed one of its machines at coral to see if it’s egg-laden, and to maybe help with its reproduction issues too.\nContinue Reading\nCategory: Imaging & Diagnostics, Medical Innovations, Body and Mind\nTags: Ultrasound, Canon, Coral Bleaching, Coral, scanning, Conservation",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/imaging-diagnostics/canon-ultrasound-coral-eggs-spawning/",
+      "image_url": null,
+      "pub_date": "Mon, 09 Nov 2026 10:25:56 GMT",
+      "author": "Omar Kardoudi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-09T11:03:49.628Z",
+      "created_at": "2026-11-09T11:03:49.628Z"
+    },
+    {
+      "id": 27999,
+      "source": "Interesting Engineering",
+      "title_en": "New wheeled humanoid robot learns factory jobs in a month, reports 95% success rate",
+      "description_en": "Swiss startup Embodied AI has unveiled AIR, a two-armed mobile robot designed to work alongside...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/wheeled-humanoid-robot-for-factory-tasks",
+      "image_url": "https://www.youtube.com/embed/XkWLWwm24VM",
+      "pub_date": "Mon, 09 Nov 2026 10:13:34 +0000",
+      "author": "Jijo Malayil",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-09T11:03:50.968Z",
+      "created_at": "2026-11-09T11:03:50.968Z"
+    },
+    {
+      "id": 28000,
+      "source": "Nature Machine Intelligence",
+      "title_en": "Multimodal cell foundation models require synergistic integration beyond alignment",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.nature.com/articles/s42256-026-01328-3",
+      "image_url": null,
+      "pub_date": "2026-11-09T00:00:00.000Z",
+      "author": "Till Richter",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-09T11:03:51.073Z",
+      "created_at": "2026-11-09T11:03:51.073Z"
+    },
+    {
+      "id": 28001,
+      "source": "Tom's Hardware",
+      "title_en": "Security researcher had to jailbreak their car just to update the clock",
+      "description_en": "A security researcher has revealed how they managed to update the time on their car infotainment system using reverse engineering techniques.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/security-researcher-had-to-jailbreak-their-car-just-to-update-the-clock-missing-tomtom-sd-card-locked-settings-menu-custom-linux-exploit-deployed-to-adjust-daylight-saving-time",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/uWPfVwnAzVfG87r5UBkxc5-1920-80.jpg",
+      "pub_date": "Mon, 09 Nov 2026 10:40:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Cybersecurity",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-09T11:03:51.207Z",
+      "created_at": "2026-11-09T11:03:51.207Z"
+    },
+    {
+      "id": 28002,
+      "source": "CNBC Tech",
+      "title_en": "What is MegaSpeed? The Nvidia chip buyer in the spotlight after Jensen Haung’s affair",
+      "description_en": "The Singapore-based company has previously been probed for allegedly supplying China with Nvidia chips.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/09/megaspeed-nvidia-jensen-huang-alice-huang.html",
+      "image_url": null,
+      "pub_date": "Mon, 09 Nov 2026 10:35:23 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-09T11:03:51.216Z",
+      "created_at": "2026-11-09T11:03:51.216Z"
+    },
+    {
+      "id": 28003,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Ждём больше багов? Глава Apple торопит развитие в сфере ИИПока новоиспечённый гендир компании Джон Тернус рассказывает об успешном запуске Siri, в кулуарах Apple он даёт нагоняй всем, кто медлит, — со",
+      "description_en": "Ждём больше багов? Глава Apple торопит развитие в сфере ИИПока новоиспечённый гендир компании Джон Тернус рассказывает об успешном запуске Siri, в кулуарах Apple он даёт нагоняй всем, кто медлит, — сообщает Марк Гурман из Bloomberg.Тернус требует от главы отдела разработки ПО Крейга Федериги ускорить внедрение ИИ в системы Apple. Отставание компании в этой сфере очевидно, однако сейчас проблема кроется в стиле управления Федериги. Крейг — знатный контролёр, и он курирует разработку почти каждой ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/37099",
+      "image_url": "https://cdn4.telesco.pe/file/dtmFSM3S-e3SP9_Y8bXhW24FLZRKu3hG504O3tQF3F3eT1I66w2dlrEZ18KL4ujrzuu-Wc0vK0SGzmDzakOksEMqbg__xVji-T7q0dbTjj305fKzpGfzTpTkDxmIweW2VOPhwdalWGBDAb6tWo6tW1YwWLziX6CfRKfuaDyPahpoGrPxNTfLwjmygQf8Ca2poPOv7vhjetFRE8B7klI5A5CCCEtfx3MHP3H0BygEEkcvc1R-0aOcdxIfJ9tt7t_hG6sueLCHR8QS6baEQ4emHhxJXir0dLu6_BXv-kcWD-t_jrPx_pT55jt8DWUURu6-Djq1JxfX5-_sezwBsDyyhw.jpg",
+      "pub_date": "2026-11-09T10:15:17+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-09T11:03:51.757Z",
+      "created_at": "2026-11-09T11:03:51.757Z"
+    },
+    {
+      "id": 28004,
+      "source": "XOR Journal (TG)",
+      "title_en": "Google выложила бесплатный плагин, который заставляет ИИ-агентов критиковать друг друга — Elephant Goldfish Model. Один агент помнит весь контекст проекта и составляет ТЗ, а другие изучают его с чисто",
+      "description_en": "Google выложила бесплатный плагин, который заставляет ИИ-агентов критиковать друг друга — Elephant Goldfish Model. Один агент помнит весь контекст проекта и составляет ТЗ, а другие изучают его с чистого листа, ищут ошибки и слабые места. В итоге выходит более продуманная архитектура.«Проектируй с памятью слона, проверяй с памятью золотой рыбки»Бесплатно и опенсорс — забираем.@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10456",
+      "image_url": null,
+      "pub_date": "2026-11-09T10:56:42+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-09T11:03:51.826Z",
+      "created_at": "2026-11-09T11:03:51.826Z"
     }
   ]
 }
