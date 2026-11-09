@@ -1,20 +1,20 @@
 {
-  "total": 27993,
-  "translated": 27984,
+  "total": 28004,
+  "translated": 27995,
   "untranslated": 9,
-  "today": 29,
-  "week": 767,
+  "today": 40,
+  "week": 778,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2588,
-      "translated": 2588,
+      "total": 2589,
+      "translated": 2589,
       "lastDate": "Wed, 30 Sep 2026 18:00:39 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 2457,
-      "translated": 2457,
+      "total": 2458,
+      "translated": 2458,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1774,
-      "translated": 1774,
+      "total": 1775,
+      "translated": 1775,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
@@ -49,14 +49,14 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 1384,
-      "translated": 1384,
+      "total": 1386,
+      "translated": 1386,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
       "name": "New Atlas",
-      "total": 1260,
-      "translated": 1260,
+      "total": 1261,
+      "translated": 1261,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 1083,
-      "translated": 1081,
-      "lastDate": "2026-11-09T08:42:11+00:00"
+      "total": 1084,
+      "translated": 1082,
+      "lastDate": "2026-11-09T10:56:42+00:00"
     },
     {
       "name": "The Verge AI",
@@ -79,8 +79,8 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 894,
-      "translated": 894,
+      "total": 895,
+      "translated": 895,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
@@ -109,8 +109,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 496,
-      "translated": 496,
+      "total": 497,
+      "translated": 497,
       "lastDate": "Wed, 30 Sep 2026 12:10:00 +0000"
     },
     {
@@ -133,9 +133,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 315,
-      "translated": 315,
-      "lastDate": "2026-11-09T08:44:09+00:00"
+      "total": 316,
+      "translated": 316,
+      "lastDate": "2026-11-09T10:15:17+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -181,9 +181,9 @@
     },
     {
       "name": "Nature Machine Intelligence",
-      "total": 83,
-      "translated": 83,
-      "lastDate": "2026-11-06T00:00:00.000Z"
+      "total": 84,
+      "translated": 84,
+      "lastDate": "2026-11-09T00:00:00.000Z"
     },
     {
       "name": "The Times of India",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-09T10:07:12.833Z"
+  "generatedAt": "2026-11-09T11:05:38.748Z"
 }
