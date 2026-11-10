@@ -609526,8 +609526,8 @@
       "source": "Interesting Engineering",
       "title_en": "NVIDIA’s GR00T 2 transfers human skills to robots with just five task demonstrations",
       "description_en": "NVIDIA has introduced a new generation of robot foundation models that can transfer skills demonstrated...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "GR00T 2 של NVIDIA: רובוטים שלומדים כמו בני אדם - מחמש דוגמאות בלבד",
+      "description_he": "NVIDIA הציגה דור חדש של מודלים ביסודיים לרובוטים שיכולים ללמוד מהירות והיקפי תפוקה מהדגמות אנושיות קצרות. המערכת החדשה GR00T 2 יכולה לשנות משימות שונות לתוך רובוטים שונים תוך שימוש בכמות מינימלית של דוגמאות, מה שפותח דלת לאוטומציה חכמה בעתיד הקרוב. זה בעצם כמו ללמד רובוט על ידי הצגה בלבד - בלי צורך בכל הקידוד המסובך שהיה צריך עד עכשיו.",
       "link": "https://interestingengineering.com/ai-robotics/nvidia-groot-2-human-robot-skill-transfer",
       "image_url": null,
       "pub_date": "Tue, 10 Nov 2026 03:31:27 +0000",
@@ -609535,7 +609535,7 @@
       "categories": [
         "AI and Robotics"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-11-10T03:42:10.060Z",
       "created_at": "2026-11-10T03:42:10.060Z"
