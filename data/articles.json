@@ -610108,6 +610108,258 @@
       "priority": "hot",
       "fetchedAt": "2026-11-10T10:25:28.923Z",
       "created_at": "2026-11-10T10:25:28.923Z"
+    },
+    {
+      "id": 28150,
+      "source": "The Guardian AI",
+      "title_en": "ChatGPT’s Teen Mode could deprive teenagers of a fundamental need | Robin Kirman",
+      "description_en": "What young students stand to lose is more than cognitive skill: it’s a reliable sense of their own minds\nIn August, OpenAI launched Teen Mode – a version of ChatGPT in which every user under 18 will automatically be enrolled – a year after a lawsuit alleged that ChatGPT had contributed to the suicide of a 16-year-old named Adam Raine.\nFor years, the tech industry has contested any causal link between its products and the harms named in a wave of similar lawsuits, each alleging that the companies",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/10/chatgpt-teen-mode-cognitive-skills",
+      "image_url": "https://i.guim.co.uk/img/media/7c4e62acbc9ca4257774b10197f801201e6aa2a9/292_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=9b4cbb3ff4ea78418714f4c8cadd2981",
+      "pub_date": "Tue, 10 Nov 2026 11:00:50 GMT",
+      "author": "Robin Kirman",
+      "categories": [
+        {
+          "_": "ChatGPT",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatgpt"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Parents and parenting",
+          "$": {
+            "domain": "https://www.theguardian.com/lifeandstyle/parents-and-parenting"
+          }
+        },
+        {
+          "_": "Children",
+          "$": {
+            "domain": "https://www.theguardian.com/society/children"
+          }
+        },
+        {
+          "_": "Mental health",
+          "$": {
+            "domain": "https://www.theguardian.com/society/mental-health"
+          }
+        },
+        {
+          "_": "Young people",
+          "$": {
+            "domain": "https://www.theguardian.com/society/youngpeople"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-10T11:31:22.049Z",
+      "created_at": "2026-11-10T11:31:22.049Z"
+    },
+    {
+      "id": 28151,
+      "source": "Interesting Engineering",
+      "title_en": "World’s first solar-powered pavilion offers 62.64 kWh home battery storage",
+      "description_en": "A California startup is turning the backyard deck into a home energy system. Outer Spaces...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/worlds-first-solar-powered-pavilion",
+      "image_url": null,
+      "pub_date": "Tue, 10 Nov 2026 10:58:27 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [
+        "Energy"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-10T11:31:25.067Z",
+      "created_at": "2026-11-10T11:31:25.067Z"
+    },
+    {
+      "id": 28152,
+      "source": "Tom's Hardware",
+      "title_en": "Seagate resurrects hybrid storage: Hands-on with the FireCuda Forge – 8 or 20TB external hard drive requires you to bring your own NVMe SSD",
+      "description_en": "Seagate takes on high SSD storage prices with the Firecuda Force, a 8TB or 20TB hard drive that requires you to bring your own M.2 2280 SSD (ideally 1TB, with DRAM). It's a throwback to the days of hybrid drives, and the experience is pretty seamless once you install your SSD. But if you don't already own an SSD that you can drop in, it's still quite expensive.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/external-ssds/seagate-resurrects-hybrid-storage-hands-on-with-the-firecuda-forge-8-or-20tb-external-hard-drive-requires-you-to-bring-your-own-nvme-ssd",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/KykW5PeFgLoa2oSEYqtRs5-1920-80.jpg",
+      "pub_date": "Tue, 10 Nov 2026 11:01:00 +0000",
+      "author": " Matt Safford ",
+      "categories": [
+        "External SSDs",
+        "PC Components",
+        "Storage",
+        "SSDs"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-10T11:31:25.320Z",
+      "created_at": "2026-11-10T11:31:25.320Z"
+    },
+    {
+      "id": 28153,
+      "source": "Tom's Hardware",
+      "title_en": "All net-connected vehicles from two major automakers allowed hackers to remotely unlock doors and start the engine",
+      "description_en": "Any net-connected vehicle from two automakers could be remotely opened and started — now-patched failures with API backend security showcase a lack of 101-level best practices",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/all-net-connected-vehicles-from-two-major-automakers-allowed-hackers-to-remotely-unlock-doors-and-start-the-engine-now-patched-hard-coded-credentials-and-bypassed-mfa-security-showcase-a-lack-of-101-level-best-practices",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/upqeugEFFHioBpGYEJwHye-1920-80.jpg",
+      "pub_date": "Tue, 10 Nov 2026 10:50:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Cybersecurity",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-10T11:31:25.320Z",
+      "created_at": "2026-11-10T11:31:25.320Z"
+    },
+    {
+      "id": 28154,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "В сети появились качественные макеты базового iPhone 18 и iPhone Air второго поколенияБольших изменений не ждите: внешне iPhone 18 останется точной копией своего предшественника, но получит новый чип,",
+      "description_en": "В сети появились качественные макеты базового iPhone 18 и iPhone Air второго поколенияБольших изменений не ждите: внешне iPhone 18 останется точной копией своего предшественника, но получит новый чип, аккумулятор чуть побольше и новый ценник.Второе поколение iPhone Air тоже останется без сюрпризов. представить, как вживую будет выглядеть новый блок камер, можно, посмотрев на iPhone Duo.Оба устройства ждём весной 2027-го вместе с iPhone 18e.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/37118",
+      "image_url": "https://cdn4.telesco.pe/file/cI3HCm6zDyRLaJVtoO_KLf4qF29X8OxN2VGWPe69hN9906ucG4lckeqBZ4qwWrznxlCctdp0IPLXlK_vgGSyyJajV4SPPnNtNLrgbP0QnE9l6eVwpx_8GRDd-zKnUCZlT7CBVRGiovpbgNdjC5awNOcaTIsZVDV95NP0X_zDR14IytSJn041c86YxtsBzvmF4t7yS_R2C1X1q_9wH4HEN6LG4enr2RWUeUbIYq1I4QoOKsByGaFxe5_xiYFiMwXzNK-nrTxLjluHef5HGyMiVcXsyhkkwSUkEVHyi0rmUcQDnhjsiXFEsqzfl64CzCK-1zVzJDOzc31cVwHQDndbEA.jpg",
+      "pub_date": "2026-11-10T10:59:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-10T11:31:28.306Z",
+      "created_at": "2026-11-10T11:31:28.306Z"
+    },
+    {
+      "id": 28155,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Интернет заспамил почту Сэма Альтмана письмами о количестве «простаивающей» оперативкиЛинуксоиды написали скрипт с потешным названием Ram-Altman, который ежедневно отправляет основателю OpenAI отчёт о",
+      "description_en": "Интернет заспамил почту Сэма Альтмана письмами о количестве «простаивающей» оперативкиЛинуксоиды написали скрипт с потешным названием Ram-Altman, который ежедневно отправляет основателю OpenAI отчёт о количестве неиспользованной оперативки на вашем ПК.Программа отслеживает общий объём загрузки системы примерно четырнадцать раз за сутки и, если количество свободной памяти превысило 10 %, отправляет письмо с одним из предварительно сгенерированных шаблонов:Привет, Сэм!Пишу сказать, что из 16 ГБ оп",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/37121",
+      "image_url": "https://cdn4.telesco.pe/file/vOBwgEsL8-IypVkDTWggYzO285PN3-icnqB3-k1G7IXGK4DUq8kJAIELj1G93F_pInUpS_fBeHeAleJx4Q2wBfEUCqNKpUFPDG_ZKouZ7D7J4RZiia7zbxbfhYhpmGc_3cm6B4T5qMJybQ8LIjuV_1C5jVzhwWlWyweO4K02u3BChCIbAVH8NS7oUp_YDLcrzh7ISLxnrc9sO0Myi7CyDosa3c-bMHEgLXpMdZPLMv3UAC70ADh6pOZtCqWqcpI_KsJLZDiuLRRzhAo3teOW8cVclXsaBQDUQ0AQOI8spxSvs5JoNPCKjxw8lTgLhXw872dQOp1K5PG_Qz1dvhtl9g.jpg",
+      "pub_date": "2026-11-10T11:29:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-10T11:31:28.306Z",
+      "created_at": "2026-11-10T11:31:28.306Z"
+    },
+    {
+      "id": 28156,
+      "source": "XOR Journal (TG)",
+      "title_en": "Никогда еще инвесторы так тщательно не следили за чужой интрижкой 😂@xor_journal",
+      "description_en": "Никогда еще инвесторы так тщательно не следили за чужой интрижкой 😂@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10466",
+      "image_url": "https://cdn4.telesco.pe/file/q3l3cNT3rQs-Wk4qfNog4kcFuPVT_8SNtDDNdedG2mrWRoLN1EyW8bczYGvXvQcnkYmdYFzewzucvKUyux1FpYg6rD0Am4EZOwqpql3Bu1pGKFTNlNK2Uu25npg3ahtXpg1Ujmjh1GZPPfBGLQdmSBvyB0Y54YA-HPSNd6p9ngVjzc1WtR8zwteum8qronIclLg_N2ClqpmmxxJQgqdY_6Jw5N736ocGXyQLEb9faCPM8ypTiNgK9ENxfwudSk7q5zLQ8eCpyOfn2aOytqe2ujHBTLuoASwh1JN8MIl16Nh-3rEMJGiy48bBIOs8KBu-mjT_Dbq36OSRBTF5LIuk6A.jpg",
+      "pub_date": "2026-11-10T10:44:09+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-10T11:31:28.481Z",
+      "created_at": "2026-11-10T11:31:28.481Z"
+    },
+    {
+      "id": 28157,
+      "source": "Habr (TG)",
+      "title_en": "⚡ Новости к этому часубустануть канал 👉🤔 Владельцев ЦОД могут обязать отключать неприоритетных клиентов ради сервисов из «белых списков»🕷 В сетевом оборудовании Zyxel обнаружили уязвимость с повыше",
+      "description_en": "⚡ Новости к этому часубустануть канал 👉🤔 Владельцев ЦОД могут обязать отключать неприоритетных клиентов ради сервисов из «белых списков»🕷 В сетевом оборудовании Zyxel обнаружили уязвимость с повышением привилегий из локальной сети❌ Goldman Sachs закрыл трейдерам доступ к Claude Code из‑за рисков вайб‑кодинга🎮 Sony начала поэтапное прекращение продаж шлема PS VR2🏎 Rockstar продаёт реальный спортивный автомобиль Grotti Cheetah из GTA VI [IMG]🫡 Одно из первых интернет‑изданий Salon закрываетс",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/69995",
+      "image_url": "https://cdn4.telesco.pe/file/VAINefYTfXn7-SdmYEnmhiPFe4CTkPMm0GsQ3O2QcGhYX97iQxWmniLbdmOfr5NY1j8Jezrr59UEHKOlXZh19Bgi39cNVWGGj0-R-hlzL76akP_qnIpivXA3VwVtPOQ3wtzUq1eVx8SREO9Swp2O3rp86_5Ds--xAnNLkZkGvvoLKO1u5C7wfHlkN19gHXLVXoq16w4MfRb0RolDW1VCUalUDJG3ESU4DFTlqZg6CxRWNmGa7ybvIWC46BUxg7-JBHWx1lVoKnjItrk4m5P6hymqhJzUqA-HHCIe5mjEqLEmGfYNioJC_Dnc0iyPKU_K8FL7BI3_0-NmsrMzQD5F8g.jpg",
+      "pub_date": "2026-11-10T11:08:43+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-10T11:31:28.766Z",
+      "created_at": "2026-11-10T11:31:28.766Z"
+    },
+    {
+      "id": 28158,
+      "source": "Hi, AI English (TG)",
+      "title_en": "💡 Claude Fable 5.2 Is Now Available on @GPT4TelegrambotAnthropic's new model has once again proven to be the most powerful on the market. Fable 5.2, running more than a thousand agents, built a proto",
+      "description_en": "💡 Claude Fable 5.2 Is Now Available on @GPT4TelegrambotAnthropic's new model has once again proven to be the most powerful on the market. Fable 5.2, running more than a thousand agents, built a prototype of a working operating system with a kernel, drivers, file storage, and a windowed interface.The model also designed three electronic devices almost without human involvement, from the circuit board to a 3D-printable case, and solved two open problems in theoretical physics concerning black hol",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2920",
+      "image_url": "https://cdn4.telesco.pe/file/tHAi30OnZa81f-HTgPC3kR5SAkhHndRS0yqSGYs2YkBnEiEoSQsLM49Ggus-sEUR-wRW3rMFmMaJzGIrdJj-_ZdmaB87FPJ1aV-qlIhRVAH3S0H7S2smoOR3I0CQh0J9mNhcfoNzEei_WM6Hm65qQS8U-q4zvbJ5QbdMQHW7Ug633sYGfjcADluKNkyAUUECs7xDeCEMHL8A-7aL8_1a11xiaGCTOKxdbX-FbbiAsLzhDrz7lO9FCEHsJBQVsZDMT-oErBAgA79jsk-kwodyIPzOcUbXO0liUFEkgDqV6N5Fsk6TWT8lYLeS2fztXnHoocV8S9E-CjacV-QxxZzgUg.jpg",
+      "pub_date": "2026-11-10T11:25:10+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-10T11:31:28.812Z",
+      "created_at": "2026-11-10T11:31:28.812Z"
+    },
+    {
+      "id": 28159,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "💡 Claude Fable 5.2 уже работает в @GPT4TelegrambotНовая модель Anthropic снова оказалась самой мощной на рынке. Fable 5.2, управляя более чем тысячей агентов, разработала прототип рабочей операционно",
+      "description_en": "💡 Claude Fable 5.2 уже работает в @GPT4TelegrambotНовая модель Anthropic снова оказалась самой мощной на рынке. Fable 5.2, управляя более чем тысячей агентов, разработала прототип рабочей операционной системы с ядром, драйверами, файловым хранилищем и интерфейсом с окнами.Также модель почти без участия людей спроектировала три электронных девайса (от печатной платы до корпуса для 3D-печати) и решила две открытые задачи из теоретической физики о черных дырах и квантовой гравитации.А в соцсетях у",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3813",
+      "image_url": "https://cdn4.telesco.pe/file/OY7CcisJVuF4Krz6ZMXg6mENiZW8vPhAwd_aGJrQqVyFP-pSLaN6I2zASKefKs2sw7_ywMq_wDj8CvD84Izrq0WrXjRGEL4HsjWmJyK1TFOrfTIgwXZBKGTorIxLvveVY1SfH1rbkHWw_g8Cb0C5ZSug4yryZ_7r_IIqunOIqT8iT0C8oNE408ggLHa5gEww1sr0kC7mspMycX4X9h9dO0e43ba5AUHkGMDKbPK2hF3j8qihqEBWhfRM0C5Z_FDGwLPJsxDylRFFPUKbvQRe5m97c9YFyqups6_Pw-2Py6L_TkJeWmyBkJ5NPAHKtOXN3ABkgrAFyOF3TrvPgw4niQ.jpg",
+      "pub_date": "2026-11-10T11:15:23+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-10T11:31:28.859Z",
+      "created_at": "2026-11-10T11:31:28.859Z"
+    },
+    {
+      "id": 28160,
+      "source": "AI Post (TG)",
+      "title_en": "❗️Microsoft wants AI to rewrite reality and make it look like you said itImagine watching a live interview where someone says something controversial. But instead of hearing their actual words, AI rep",
+      "description_en": "❗️Microsoft wants AI to rewrite reality and make it look like you said itImagine watching a live interview where someone says something controversial. But instead of hearing their actual words, AI replaces them with something completely different. Their lips move in perfect sync, making it look like they said it all along.That’s the idea behind a new Microsoft patent describing technology that could alter speech and lip movements in real time.The system would analyze a person’s voice and video, ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8755",
+      "image_url": "https://cdn4.telesco.pe/file/d7703V_yts1C6fUuhbpF9cdVfBiU41P-pW8HL_6p1hOmMAyZWLNrX4xlB8CjAQGeCX_SFhYqMJ_NJ4Eo6OMfxp6veAlQzAvyBkHqtjys6PP7P__fY1CKwHFrLwfvdSh5hsVr5TMZDuTOi8I7DUZHe5nZUdHU1GsZXdzVoqqoqQwBexBXJHhJkHYPJ3sMwFRh_nCK2ALimGMNduChiEbh6fw-jZoHkb-lEpTS5rSUSGGjfLscTX18oxFgacPveI6WGcbFiJAAAgbqIEo-p9n61wTc0mq3UGFUviNaWd2Mh9Msrh8l46jtjEGDxF72JI-wRdYWEI6QnriTMxPSkP6usA.jpg",
+      "pub_date": "2026-11-10T11:10:26+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-10T11:31:29.228Z",
+      "created_at": "2026-11-10T11:31:29.228Z"
     }
   ]
 }
