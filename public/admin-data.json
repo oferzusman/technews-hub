@@ -1,9 +1,9 @@
 {
-  "total": 28122,
-  "translated": 28113,
+  "total": 28149,
+  "translated": 28140,
   "untranslated": 9,
-  "today": 27,
-  "week": 740,
+  "today": 54,
+  "week": 767,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,27 +13,27 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2469,
-      "translated": 2469,
+      "total": 2470,
+      "translated": 2470,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1873,
-      "translated": 1873,
+      "total": 1874,
+      "translated": 1874,
       "lastDate": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1786,
-      "translated": 1786,
+      "total": 1787,
+      "translated": 1787,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1676,
-      "translated": 1674,
-      "lastDate": "2026-11-10T01:53:01+00:00"
+      "total": 1679,
+      "translated": 1677,
+      "lastDate": "2026-11-10T08:45:24+00:00"
     },
     {
       "name": "The Decoder",
@@ -43,20 +43,20 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1490,
-      "translated": 1490,
-      "lastDate": "2026-11-07T17:52:26.000Z"
+      "total": 1494,
+      "translated": 1494,
+      "lastDate": "2026-11-10T03:04:23.000Z"
     },
     {
       "name": "The Guardian AI",
-      "total": 1396,
-      "translated": 1396,
+      "total": 1398,
+      "translated": 1398,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
       "name": "New Atlas",
-      "total": 1262,
-      "translated": 1262,
+      "total": 1265,
+      "translated": 1265,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 1089,
-      "translated": 1087,
-      "lastDate": "2026-11-09T21:03:01+00:00"
+      "total": 1090,
+      "translated": 1088,
+      "lastDate": "2026-11-10T05:49:22+00:00"
     },
     {
       "name": "The Verge AI",
@@ -79,33 +79,33 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 897,
-      "translated": 897,
+      "total": 898,
+      "translated": 898,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 839,
-      "translated": 839,
-      "lastDate": "2026-11-10T00:45:26+00:00"
+      "total": 842,
+      "translated": 842,
+      "lastDate": "2026-11-10T09:47:29+00:00"
     },
     {
       "name": "Backdoor (TG)",
-      "total": 717,
-      "translated": 715,
-      "lastDate": "2026-11-09T20:54:26+00:00"
+      "total": 719,
+      "translated": 717,
+      "lastDate": "2026-11-10T06:58:32+00:00"
     },
     {
       "name": "OpenAI Blog",
-      "total": 691,
-      "translated": 691,
+      "total": 692,
+      "translated": 692,
       "lastDate": "Wed, 30 Sep 2026 10:30:00 GMT"
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 521,
-      "translated": 519,
-      "lastDate": "2026-11-09T09:03:00+00:00"
+      "total": 522,
+      "translated": 520,
+      "lastDate": "2026-11-10T06:12:34+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -121,9 +121,9 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 368,
-      "translated": 368,
-      "lastDate": "2026-11-09T15:02:31+00:00"
+      "total": 369,
+      "translated": 369,
+      "lastDate": "2026-11-10T07:17:01+00:00"
     },
     {
       "name": "The Register",
@@ -133,9 +133,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 316,
-      "translated": 316,
-      "lastDate": "2026-11-09T10:15:17+00:00"
+      "total": 317,
+      "translated": 317,
+      "lastDate": "2026-11-10T04:59:01+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -157,9 +157,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 250,
-      "translated": 249,
-      "lastDate": "2026-11-08T10:01:16+00:00"
+      "total": 251,
+      "translated": 250,
+      "lastDate": "2026-11-10T06:02:19+00:00"
     },
     {
       "name": "Data Science ODS.ai (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-10T09:10:04.807Z"
+  "generatedAt": "2026-11-10T10:28:20.888Z"
 }
