@@ -611967,6 +611967,315 @@
       "priority": "hot",
       "fetchedAt": "2026-11-10T18:00:50.778Z",
       "created_at": "2026-11-10T18:00:50.778Z"
+    },
+    {
+      "id": 28235,
+      "source": "TechCrunch AI",
+      "title_en": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "description_en": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "image_url": null,
+      "pub_date": "Tue, 10 Nov 2026 19:03:52 +0000",
+      "author": "Tim Fernholz",
+      "categories": [
+        "AI",
+        "science"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-10T19:16:34.508Z",
+      "created_at": "2026-11-10T19:16:34.508Z"
+    },
+    {
+      "id": 28236,
+      "source": "TechCrunch AI",
+      "title_en": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "description_en": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "image_url": null,
+      "pub_date": "Tue, 10 Nov 2026 18:49:52 +0000",
+      "author": "Lucas Ropek",
+      "categories": [
+        "AI",
+        "ChatGPT",
+        "e-commerce",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-10T19:16:34.508Z",
+      "created_at": "2026-11-10T19:16:34.508Z"
+    },
+    {
+      "id": 28237,
+      "source": "The Verge AI",
+      "title_en": "The US is winning the AI race. Jensen Huang could have blown it",
+      "description_en": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket.\nWhich makes Huang's admission that he had an affair with a woman suspected of being a Chinese spy - reportedly while her spying was known to US intelligence and even President Donald Tru",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "image_url": null,
+      "pub_date": "2026-11-10T19:04:05.000Z",
+      "author": "Robert Hart",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-10T19:16:34.552Z",
+      "created_at": "2026-11-10T19:16:34.552Z"
+    },
+    {
+      "id": 28238,
+      "source": "The Decoder",
+      "title_en": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
+      "description_en": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation. Instead, the system transfers human hand movements from videos to robotic arms, trained on about 400,000 hours of video footage. Success rates still vary widely, though, ranging from 10 to 80 percent depending on the task.\nThe article Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/",
+      "image_url": "http://the-decoder.com/wp-content/uploads/2026/11/Gr00t2-dexumi_strike_human.mp4",
+      "pub_date": "Tue, 10 Nov 2026 18:41:52 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "GR00T 2",
+        "Nvidia",
+        "Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-10T19:16:36.052Z",
+      "created_at": "2026-11-10T19:16:36.052Z"
+    },
+    {
+      "id": 28239,
+      "source": "The Decoder",
+      "title_en": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
+      "description_en": "Google is making Gemini 4 Carbon generally available after a two-week testing phase. The model ranks first in several benchmarks, in some cases ahead of Anthropic's new Fable 5.2, at less than half the per-task cost. Google is also previewing coordinated agent teams through the \"/swarm\" feature, which split up complex tasks in real time.\nThe article Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/",
+      "image_url": null,
+      "pub_date": "Tue, 10 Nov 2026 18:19:13 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Gemin 4 Carbon",
+        "Google",
+        "Google Gemini"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-10T19:16:36.052Z",
+      "created_at": "2026-11-10T19:16:36.052Z"
+    },
+    {
+      "id": 28240,
+      "source": "The Decoder",
+      "title_en": "Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot",
+      "description_en": "Google Deepmind introduced Gemini Robotics 2.5, a new control model for robots, and tested it with Apptronik on active Mercedes-Benz production lines in Hungary and Germany. The humanoid robot Apollo 2 sorted metal parts there with a reported success rate of 96 percent.\nThe article Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/",
+      "image_url": "http://the-decoder.com/wp-content/uploads/2026/11/GR_Apptronik_x_Mercedes_v1_1000k.webm",
+      "pub_date": "Tue, 10 Nov 2026 17:11:10 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Gemini Robotics",
+        "Google",
+        "Google Deepmind",
+        "Robotics"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-10T19:16:36.052Z",
+      "created_at": "2026-11-10T19:16:36.052Z"
+    },
+    {
+      "id": 28241,
+      "source": "The Decoder",
+      "title_en": "Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago",
+      "description_en": "Anthropic's Fable 5.2 completes 41.3 percent of real freelance jobs at professional quality on the Remote Labor Index, more than double the next-best systems Opus 5.5 and GPT 6 Astra. A year ago the top score was 2.5 percent. Areas like product design and animation remain a weak spot.\nThe article Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/",
+      "image_url": null,
+      "pub_date": "Tue, 10 Nov 2026 14:07:47 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Benchmarks",
+        "Fable 5.2",
+        "Remote Labor Index"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-10T19:16:36.052Z",
+      "created_at": "2026-11-10T19:16:36.052Z"
+    },
+    {
+      "id": 28242,
+      "source": "The Decoder",
+      "title_en": "Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration",
+      "description_en": "Eight countries along with representatives from OpenAI, Anthropic, Microsoft, and Mistral AI have signed the \"Paris Call for AI Safety and Security\" at Emmanuel Macron's initiative. The companies commit to shutdown mechanisms, independent audits, and disclosing known risks, but the agreement lacks binding sanctions or deadlines.\nThe article Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration/",
+      "image_url": null,
+      "pub_date": "Tue, 10 Nov 2026 13:37:16 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "AI in Europe",
+        "Anthropic",
+        "Mistral",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-10T19:16:36.053Z",
+      "created_at": "2026-11-10T19:16:36.053Z"
+    },
+    {
+      "id": 28243,
+      "source": "The Decoder",
+      "title_en": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
+      "description_en": "Anthropic is kicking off its IPO roadshow, targeting a valuation of up to $1.02 trillion. Beyond the public offering of up to $64.4 billion, the company is securing $26 billion through a private placement with Google, Nvidia, Microsoft, and other major tech firms as anchor investors. The IPO comes at a time when investors are growing increasingly skeptical of AI investments.\nThe article Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation appe",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/",
+      "image_url": null,
+      "pub_date": "Tue, 10 Nov 2026 12:13:03 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Anthropic",
+        "IPO"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-10T19:16:36.053Z",
+      "created_at": "2026-11-10T19:16:36.053Z"
+    },
+    {
+      "id": 28244,
+      "source": "OpenAI Blog",
+      "title_en": "Introducing Businesses in ChatGPT",
+      "description_en": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/introducing-businesses-chatgpt",
+      "image_url": null,
+      "pub_date": "Tue, 10 Nov 2026 10:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Product"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-10T19:16:36.371Z",
+      "created_at": "2026-11-10T19:16:36.371Z"
+    },
+    {
+      "id": 28245,
+      "source": "Google AI Blog",
+      "title_en": "Gemini Intelligence: New features, on more devices",
+      "description_en": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp",
+      "pub_date": "Tue, 10 Nov 2026 19:00:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Karthik Thirumalai"
+        ],
+        "title": [
+          "Product Director"
+        ],
+        "department": [
+          "Android AI"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Gemini App",
+        "Android",
+        "Gemini Notebook",
+        "AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-10T19:16:36.590Z",
+      "created_at": "2026-11-10T19:16:36.590Z"
+    },
+    {
+      "id": 28246,
+      "source": "The Register",
+      "title_en": "14-year-old creates tool for AI agents to band together like a team",
+      "description_en": "Autark can act without constant prompting, but leaves users to enforce their own security boundaries",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/10/14-year-old-creates-tool-for-ai-agents-to-band-together-like-a-team/5308841",
+      "image_url": "https://image.theregister.com/?imageId=5245073&width=800",
+      "pub_date": "Tue, 10 Nov 2026 19:31:53 +0100",
+      "author": null,
+      "categories": [
+        "ai and ml"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-10T19:16:38.193Z",
+      "created_at": "2026-11-10T19:16:38.193Z"
+    },
+    {
+      "id": 28247,
+      "source": "XOR Journal (TG)",
+      "title_en": "Microsoft Office ВСЁ: Anthropic научила Claude создавать таблицы, интерактивные доски и дашборды прямо в чате 😳Что завезли:🟢 Claude Sheets — создаёт таблицы с формулами, вкладками и форматированием.",
+      "description_en": "Microsoft Office ВСЁ: Anthropic научила Claude создавать таблицы, интерактивные доски и дашборды прямо в чате 😳Что завезли:🟢 Claude Sheets — создаёт таблицы с формулами, вкладками и форматированием. Редактировать их можно вместе с ИИ.🟢 Claude Whiteboards — это интерактивные доски, где команда может совместно планировать проекты.🟢 Claude Data — идеально для ваших дашбордов и аналитики данных. Создаёт отчёты и даже видео с разбором метрик.В будущем еще обещают добавить Claude Meetings для созв",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10470",
+      "image_url": null,
+      "pub_date": "2026-11-10T18:44:24+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-10T19:16:41.948Z",
+      "created_at": "2026-11-10T19:16:41.948Z"
+    },
+    {
+      "id": 28248,
+      "source": "AI Post (TG)",
+      "title_en": "📚 Stanford's course on how ChatGPT-style AI works is free on YouTube, exams includedCME 295 starts with how a model reads text and goes all the way to training, reasoning models, agents and how to te",
+      "description_en": "📚 Stanford's course on how ChatGPT-style AI works is free on YouTube, exams includedCME 295 starts with how a model reads text and goes all the way to training, reasoning models, agents and how to test them. Last year's run is online in full: 9 lectures, each close to two hours. The first one has nearly a million views.The slides, the midterm and the final with solutions are on the course site, along with a free illustrated cheatsheet. Afshine and Shervine Amidi teach it.This fall's version is ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8759",
+      "image_url": "https://cdn4.telesco.pe/file/semsWDZbsbM0B7VARsOVfDJpM5uZht4jZJsd0DkU5kG2x1dgB_t16mxGFtSa7fwQZ_mABjvpywt7W5VBQ-RYr-JerkKPffmSg-EMtC7sT59wi3M_2fx4nSvc7ahwJtAnXiWAmZ8umRrtE2wcUS2PhVXgdbTAIDerPs-MDFi3ePq1_jLp9ivK9opjVZmzab_QvizCGrt3moLAcZUIE9zyJ9IcYwFmUQRv4p8_yzGP1vsXUd9vbZKVVWpBso9PrKtxwSQ3lKHdP4XjkRcDQTz4EeOz6vfXyDzyeOoDErW33o-xQySnMjUK06biZKQnWlkl4lwSQw_F-4kZ_jsW_AZfgw.jpg",
+      "pub_date": "2026-11-10T19:07:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-10T19:16:42.655Z",
+      "created_at": "2026-11-10T19:16:42.655Z"
     }
   ]
 }
