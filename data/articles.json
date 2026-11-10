@@ -609099,8 +609099,8 @@
       "source": "The Guardian AI",
       "title_en": "Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations – video",
       "description_en": "Donald Trump defended defense secretary Pete Hegseth, who is facing an impeachment resolution from Republican senator Thomas Massie, saying Hegseth 'won two wars'.  The president, who said he had spoken to Nvidia CEO Jensen Huang, said he was 'amazed' by claims Huang conducted an affair with an alleged Chinese spy, and that the FBI was now looking into the issue\n\nJensen Huang’s image has been shattered. Could he be pushed out at Nvidia?\n\nRepublican Thomas Massie moves to force vote to impeach Pe",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "טראמפ תומך בהגסת וביצן הואנג ודיווח על חקירת FBI בהאשמות ריגול",
+      "description_he": "טראמפ הגן על שר ההגנה פיט הגסת מפני הצעות להדחקו, וטען שהוא 'ניצח שתי מלחמות'. הנשיא גם התייחס להאשמות נגד ה-CEO של Nvidia, ג'נסן הואנג, שלכאורה התעסק בעלילה עם אישה המחוברת למודיעין סיני, ודיווח שה-FBI חוקר את המקרה. התמונה של הואנג קיבלה מכה קשה, והשאלה האם הוא יאלץ לעזוב את Nvidia הופכת לחוקית.",
       "link": "https://www.theguardian.com/us-news/video/2026/nov/09/trump-hegseth-jensen-huang",
       "image_url": "https://i.guim.co.uk/img/media/ab7c6bd313bc788fbe0af23bacc93090ccecb010/243_0_3462_2770/master/3462.jpg?width=140&quality=85&auto=format&fit=max&s=668b175a7489b52523c15ede5808920e",
       "pub_date": "Tue, 10 Nov 2026 01:40:32 GMT",
@@ -609161,7 +609161,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-11-10T02:42:34.546Z",
       "created_at": "2026-11-10T02:42:34.546Z"
@@ -609506,8 +609506,8 @@
       "source": "Interesting Engineering",
       "title_en": "Google expands its chipset lineup with up to 80% better inference price performance",
       "description_en": "Google has added two specialized systems to its eighth-generation Tensor Processing Unit (TPU) lineup, targeting...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "גוגל מרחיבה את קו המעבדים שלה עם ביצועי מחיר inference טובים ב-80% יותר",
+      "description_he": "גוגל הוסיפה שתי מערכות ספציאליזציה חדשות ל-TPU דור שמיני שלה, והתוצאה? מחירים הרבה יותר חכמים לכל מי שרוצה להריץ מודלי AI בייצור. עם שיפור של עד 80% בביצועי ה-inference, זה כמו שקנית מחדש את אותו הכוח חישובי בחצי המחיר. למי שעוקב לשרת את ה-LLMs בקנה מידה, זה בשורה שלא לפספסים.",
       "link": "https://interestingengineering.com/ai-robotics/google-new-tpu-8tx-8i-max-systems",
       "image_url": null,
       "pub_date": "Tue, 10 Nov 2026 03:07:23 +0000",
@@ -609516,7 +609516,7 @@
         "AI and Robotics",
         "Innovation"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-11-10T03:17:34.230Z",
       "created_at": "2026-11-10T03:17:34.230Z"
